@@ -1,5 +1,4 @@
-Bullaria conoclinii (Seym.) Arthur & Mains SPECIES
-=======
+# Bullaria conoclinii (Seym.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

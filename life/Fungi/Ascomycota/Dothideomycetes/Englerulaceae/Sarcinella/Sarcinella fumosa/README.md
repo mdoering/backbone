@@ -1,17 +1,16 @@
-Sarcinella fumosus V.P. Sahni SPECIES
-=======
+# Sarcinella fumosa V.P. Sahni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 23(4): 336 (1964)
 
 #### Original name
-Sarcinella fumosus V.P. Sahni
+Sarcinella fumosa V.P. Sahni
 
 ### Remarks
 null

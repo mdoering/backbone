@@ -1,5 +1,4 @@
-Coniosporium dasylirii Oudem. SPECIES
-=======
+# Coniosporium dasylirii Oudem. SPECIES
 
 #### Status
 ACCEPTED

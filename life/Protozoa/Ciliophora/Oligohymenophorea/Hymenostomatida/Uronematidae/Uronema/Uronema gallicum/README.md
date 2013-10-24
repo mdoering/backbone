@@ -1,5 +1,4 @@
-Uronema gallicum SPECIES
-=======
+# Uronema gallicum SPECIES
 
 #### Status
 ACCEPTED

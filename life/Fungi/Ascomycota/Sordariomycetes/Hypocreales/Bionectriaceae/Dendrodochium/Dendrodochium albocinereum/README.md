@@ -1,5 +1,4 @@
-Dendrodochium albocinereum Sacc. & Malbr. SPECIES
-=======
+# Dendrodochium albocinereum Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

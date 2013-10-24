@@ -1,5 +1,4 @@
-Septoria waldsteiniae Peck & Clinton SPECIES
-=======
+# Septoria waldsteiniae Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

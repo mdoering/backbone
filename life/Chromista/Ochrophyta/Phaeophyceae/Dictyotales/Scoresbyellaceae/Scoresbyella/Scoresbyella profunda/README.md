@@ -1,5 +1,4 @@
-Scoresbyella profunda Womersley SPECIES
-=======
+# Scoresbyella profunda Womersley SPECIES
 
 #### Status
 ACCEPTED

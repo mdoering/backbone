@@ -1,5 +1,4 @@
-Stagonospora cryptomeriae Sawada SPECIES
-=======
+# Stagonospora cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

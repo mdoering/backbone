@@ -1,5 +1,4 @@
-Cystophora harveyi Womersley SPECIES
-=======
+# Cystophora harveyi Womersley SPECIES
 
 #### Status
 ACCEPTED

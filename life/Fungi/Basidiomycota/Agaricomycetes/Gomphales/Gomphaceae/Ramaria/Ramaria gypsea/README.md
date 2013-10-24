@@ -1,5 +1,4 @@
-Ramaria gypsea Schild, 1982 SPECIES
-=======
+# Ramaria gypsea Schild, 1982 SPECIES
 
 #### Status
 ACCEPTED

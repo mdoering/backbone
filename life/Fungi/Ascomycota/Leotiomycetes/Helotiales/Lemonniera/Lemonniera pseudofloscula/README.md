@@ -1,5 +1,4 @@
-Lemonniera pseudofloscula Dyko, 1977 SPECIES
-=======
+# Lemonniera pseudofloscula Dyko, 1977 SPECIES
 
 #### Status
 ACCEPTED

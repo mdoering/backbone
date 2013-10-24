@@ -1,5 +1,4 @@
-Haplotrichum ponderosum Partr. & Morgan-Jones SPECIES
-=======
+# Haplotrichum ponderosum Partr. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

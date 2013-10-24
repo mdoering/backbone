@@ -1,5 +1,4 @@
-Tettigomyces africanus Thaxt. SPECIES
-=======
+# Tettigomyces africanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

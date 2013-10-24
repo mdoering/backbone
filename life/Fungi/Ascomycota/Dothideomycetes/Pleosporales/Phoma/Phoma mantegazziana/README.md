@@ -1,5 +1,4 @@
-Phoma mantegazziana Penz. SPECIES
-=======
+# Phoma mantegazziana Penz. SPECIES
 
 #### Status
 ACCEPTED

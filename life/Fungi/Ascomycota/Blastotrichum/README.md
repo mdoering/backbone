@@ -1,5 +1,4 @@
-Blastotrichum Corda GENUS
-=======
+# Blastotrichum Corda GENUS
 
 #### Status
 ACCEPTED

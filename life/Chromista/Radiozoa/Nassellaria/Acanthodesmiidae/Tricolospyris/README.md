@@ -1,5 +1,4 @@
-Tricolospyris Haeckel, 1881 GENUS
-=======
+# Tricolospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

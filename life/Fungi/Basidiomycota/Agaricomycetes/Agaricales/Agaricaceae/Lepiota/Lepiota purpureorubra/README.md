@@ -1,5 +1,4 @@
-Lepiota purpureorubra Z.S. Bi, T.H. Li & G.Y. Zheng SPECIES
-=======
+# Lepiota purpureorubra Z.S. Bi, T.H. Li & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

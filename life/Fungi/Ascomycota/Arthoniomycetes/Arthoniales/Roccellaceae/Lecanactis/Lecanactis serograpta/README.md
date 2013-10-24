@@ -1,5 +1,4 @@
-Lecanactis serograpta Mont. SPECIES
-=======
+# Lecanactis serograpta Mont. SPECIES
 
 #### Status
 ACCEPTED

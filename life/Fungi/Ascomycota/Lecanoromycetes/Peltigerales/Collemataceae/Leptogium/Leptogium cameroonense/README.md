@@ -1,5 +1,4 @@
-Leptogium cameroonense C.W. Dodge SPECIES
-=======
+# Leptogium cameroonense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

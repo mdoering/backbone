@@ -1,5 +1,4 @@
-Armillaria roborosa (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Armillaria roborosa (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteropeltella Petr. GENUS
-=======
+# Hysteropeltella Petr. GENUS
 
 #### Status
 ACCEPTED

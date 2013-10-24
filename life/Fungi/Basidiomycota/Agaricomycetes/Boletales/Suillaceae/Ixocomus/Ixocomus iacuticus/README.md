@@ -1,5 +1,4 @@
-Ixocomus iacuticus Singer SPECIES
-=======
+# Ixocomus iacuticus Singer SPECIES
 
 #### Status
 ACCEPTED

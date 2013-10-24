@@ -1,5 +1,4 @@
-Aposphaeriella GENUS
-=======
+# Aposphaeriella GENUS
 
 #### Status
 ACCEPTED

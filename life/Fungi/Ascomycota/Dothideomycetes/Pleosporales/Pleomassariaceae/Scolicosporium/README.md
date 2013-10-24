@@ -1,5 +1,4 @@
-Scolicosporium Lib. ex Roum. GENUS
-=======
+# Scolicosporium Lib. ex Roum. GENUS
 
 #### Status
 ACCEPTED

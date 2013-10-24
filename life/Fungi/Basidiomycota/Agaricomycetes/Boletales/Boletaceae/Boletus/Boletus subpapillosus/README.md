@@ -1,5 +1,4 @@
-Boletus subpapillosus Rebent. SPECIES
-=======
+# Boletus subpapillosus Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia viticola (Pers.) Sacc. SPECIES
-=======
+# Mollisia viticola (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

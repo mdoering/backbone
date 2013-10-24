@@ -1,5 +1,4 @@
-Phomopsis putranjivae Kamal, P. Kumar & R.P. Singh SPECIES
-=======
+# Phomopsis putranjivae Kamal, P. Kumar & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

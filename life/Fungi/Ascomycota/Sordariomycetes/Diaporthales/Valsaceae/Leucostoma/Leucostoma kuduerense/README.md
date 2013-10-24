@@ -1,17 +1,16 @@
-Leucostoma kuduerensis J.Y. Yuan SPECIES
-=======
+# Leucostoma kuduerense J.Y. Yuan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 8(3): 191 (1989)
 
 #### Original name
-Leucostoma kuduerensis J.Y. Yuan
+Leucostoma kuduerense J.Y. Yuan
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma subcylindrisporum (Murrill) Murrill SPECIES
-=======
+# Tricholoma subcylindrisporum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimelaena sparsa SPECIES
-=======
+# Dimelaena sparsa SPECIES
 
 #### Status
 ACCEPTED

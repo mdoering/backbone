@@ -1,5 +1,4 @@
-Spirochaeta aurantia subsp. aurantia SUBSPECIES
-=======
+# Spirochaeta aurantia (ex Vinzent, 1926) Canale-Parola, 1980 SPECIES
 
 #### Status
 ACCEPTED

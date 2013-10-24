@@ -1,5 +1,4 @@
-Aposphaeria multiformis P. Karst. SPECIES
-=======
+# Aposphaeria multiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

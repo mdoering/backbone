@@ -1,5 +1,4 @@
-Dictyocysta lata Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta lata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

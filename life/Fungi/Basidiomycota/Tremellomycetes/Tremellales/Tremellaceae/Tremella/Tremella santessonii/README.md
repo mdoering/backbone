@@ -1,5 +1,4 @@
-Tremella santessonii Diederich SPECIES
-=======
+# Tremella santessonii Diederich SPECIES
 
 #### Status
 ACCEPTED

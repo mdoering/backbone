@@ -1,5 +1,4 @@
-Winteria subcaerulescens (Nyl.) Rehm SPECIES
-=======
+# Winteria subcaerulescens (Nyl.) Rehm SPECIES
 
 #### Status
 ACCEPTED

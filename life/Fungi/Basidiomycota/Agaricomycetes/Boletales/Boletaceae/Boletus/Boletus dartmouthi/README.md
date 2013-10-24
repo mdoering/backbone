@@ -1,5 +1,4 @@
-Boletus dartmouthi Mac Kay {?} SPECIES
-=======
+# Boletus dartmouthi Mac Kay {?} SPECIES
 
 #### Status
 ACCEPTED

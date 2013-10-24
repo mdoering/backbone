@@ -1,5 +1,4 @@
-Trachylia simplex Kremp. SPECIES
-=======
+# Trachylia simplex Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis srilankensis Weerakoon, Wijeyaratne & Lumbsch SPECIES
-=======
+# Graphis srilankensis Weerakoon, Wijeyaratne & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

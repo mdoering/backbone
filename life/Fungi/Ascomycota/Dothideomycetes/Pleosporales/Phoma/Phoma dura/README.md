@@ -1,5 +1,4 @@
-Phoma dura Sacc. SPECIES
-=======
+# Phoma dura Sacc. SPECIES
 
 #### Status
 ACCEPTED

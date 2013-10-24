@@ -1,5 +1,4 @@
-Phyllosticta arunci Naito SPECIES
-=======
+# Phyllosticta arunci Naito SPECIES
 
 #### Status
 ACCEPTED

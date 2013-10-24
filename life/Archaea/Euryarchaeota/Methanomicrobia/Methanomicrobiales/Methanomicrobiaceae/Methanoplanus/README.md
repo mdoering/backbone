@@ -1,5 +1,4 @@
-Methanoplanus Wildgruber, Thomm, Konig, Ober, Ricchiuto & Stetter, 1984 GENUS
-=======
+# Methanoplanus Wildgruber, Thomm, Konig, Ober, Ricchiuto & Stetter, 1984 GENUS
 
 #### Status
 ACCEPTED

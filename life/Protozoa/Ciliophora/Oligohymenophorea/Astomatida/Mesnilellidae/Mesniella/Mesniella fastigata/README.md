@@ -1,5 +1,4 @@
-Mesniella fastigata Möbius, 1888 SPECIES
-=======
+# Mesniella fastigata Möbius, 1888 SPECIES
 
 #### Status
 ACCEPTED

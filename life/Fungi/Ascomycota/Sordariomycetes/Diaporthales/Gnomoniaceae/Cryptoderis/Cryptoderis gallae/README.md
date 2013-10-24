@@ -1,5 +1,4 @@
-Cryptoderis gallae Trotter SPECIES
-=======
+# Cryptoderis gallae Trotter SPECIES
 
 #### Status
 ACCEPTED

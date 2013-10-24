@@ -1,5 +1,4 @@
-Polygonium makrosphaericum (Eisenack, 1970) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium makrosphaericum (Eisenack, 1970) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia syernaiae (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia syernaiae (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

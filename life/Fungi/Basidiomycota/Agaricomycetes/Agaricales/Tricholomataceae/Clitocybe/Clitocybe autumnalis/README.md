@@ -1,5 +1,4 @@
-Clitocybe autumnalis Singer SPECIES
-=======
+# Clitocybe autumnalis Singer SPECIES
 
 #### Status
 ACCEPTED

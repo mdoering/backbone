@@ -1,5 +1,4 @@
-Trimmatostroma undulatum (McAlpine) J.L. Crane & Schokn. SPECIES
-=======
+# Trimmatostroma undulatum (McAlpine) J.L. Crane & Schokn. SPECIES
 
 #### Status
 ACCEPTED

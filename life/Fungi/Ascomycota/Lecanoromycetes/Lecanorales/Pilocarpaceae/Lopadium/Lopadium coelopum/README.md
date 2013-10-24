@@ -1,5 +1,4 @@
-Lopadium coelopum (Stirt.) SPECIES
-=======
+# Lopadium coelopum (Stirt.) SPECIES
 
 #### Status
 ACCEPTED

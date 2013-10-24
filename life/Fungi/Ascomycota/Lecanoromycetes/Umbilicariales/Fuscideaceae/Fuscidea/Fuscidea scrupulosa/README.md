@@ -1,5 +1,4 @@
-Fuscidea scrupulosa (Eckf.) Fryday SPECIES
-=======
+# Fuscidea scrupulosa (Eckf.) Fryday SPECIES
 
 #### Status
 ACCEPTED

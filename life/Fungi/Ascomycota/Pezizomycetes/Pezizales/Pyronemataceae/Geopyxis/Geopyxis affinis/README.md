@@ -1,5 +1,4 @@
-Geopyxis affinis (I.G. Borshch.) Sacc. SPECIES
-=======
+# Geopyxis affinis (I.G. Borshch.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis argentea (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis argentea (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

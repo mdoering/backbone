@@ -1,5 +1,4 @@
-Asteridiella pipericola Hansf. SPECIES
-=======
+# Asteridiella pipericola Hansf. SPECIES
 
 #### Status
 ACCEPTED

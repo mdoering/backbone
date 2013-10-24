@@ -1,5 +1,4 @@
-Isoachlya rhaetica (Maurizio) Cejp SPECIES
-=======
+# Isoachlya rhaetica (Maurizio) Cejp SPECIES
 
 #### Status
 ACCEPTED

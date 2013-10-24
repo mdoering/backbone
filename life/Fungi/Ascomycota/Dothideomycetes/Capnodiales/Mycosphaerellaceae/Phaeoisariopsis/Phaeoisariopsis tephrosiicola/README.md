@@ -1,17 +1,16 @@
-Phaeoisariopsis tephrosicola P.Rag. Rao SPECIES
-=======
+# Phaeoisariopsis tephrosiicola P.Rag. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Raghuveer Rao, Annapurna & Krishna Mohan, Curr. Sci. 49(24): 947 (1980)
 
 #### Original name
-Phaeoisariopsis tephrosicola P.Rag. Rao
+Phaeoisariopsis tephrosiicola P.Rag. Rao
 
 ### Remarks
 null

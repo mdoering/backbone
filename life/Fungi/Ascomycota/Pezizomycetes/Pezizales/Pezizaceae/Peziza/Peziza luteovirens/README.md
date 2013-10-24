@@ -1,5 +1,4 @@
-Peziza luteovirens Fr. SPECIES
-=======
+# Peziza luteovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

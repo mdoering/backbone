@@ -1,5 +1,4 @@
-Cordyceps koreana Kobayasi SPECIES
-=======
+# Cordyceps koreana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

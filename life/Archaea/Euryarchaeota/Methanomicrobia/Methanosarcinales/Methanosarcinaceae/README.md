@@ -1,5 +1,4 @@
-Methanosarcinaceae FAMILY
-=======
+# Methanosarcinaceae FAMILY
 
 #### Status
 ACCEPTED

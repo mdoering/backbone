@@ -1,5 +1,4 @@
-Chlorosperma GENUS
-=======
+# Chlorosperma GENUS
 
 #### Status
 ACCEPTED

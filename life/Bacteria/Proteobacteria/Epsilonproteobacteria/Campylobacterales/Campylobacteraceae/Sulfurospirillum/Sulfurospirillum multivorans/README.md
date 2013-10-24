@@ -1,8 +1,7 @@
-Dehalospirillum multivorans Scholz-Muramatsu et al., 2002 SPECIES
-=======
+# Sulfurospirillum multivorans (Scholz-Muramatsu et al., 2002) Luijten et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

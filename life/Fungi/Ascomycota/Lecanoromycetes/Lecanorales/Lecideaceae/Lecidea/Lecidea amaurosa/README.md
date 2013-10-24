@@ -1,5 +1,4 @@
-Lecidea amaurosa (Stirt.) SPECIES
-=======
+# Lecidea amaurosa (Stirt.) SPECIES
 
 #### Status
 ACCEPTED

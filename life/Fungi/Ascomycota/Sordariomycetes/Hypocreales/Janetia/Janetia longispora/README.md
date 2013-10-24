@@ -1,5 +1,4 @@
-Janetia longispora P.M. Kirk, 1985 SPECIES
-=======
+# Janetia longispora P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

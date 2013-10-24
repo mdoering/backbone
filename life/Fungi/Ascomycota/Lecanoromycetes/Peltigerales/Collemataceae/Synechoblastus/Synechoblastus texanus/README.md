@@ -1,5 +1,4 @@
-Synechoblastus texanus (Tuck.) Müll. Arg. SPECIES
-=======
+# Synechoblastus texanus (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia subsalicina Zahlbr. SPECIES
-=======
+# Blastenia subsalicina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium hysterioides Corda SPECIES
-=======
+# Cryptosporium hysterioides Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalodiscus C.G. Ehrenberg, 1845 GENUS
-=======
+# Hyalodiscus C.G. Ehrenberg, 1845 GENUS
 
 #### Status
 ACCEPTED

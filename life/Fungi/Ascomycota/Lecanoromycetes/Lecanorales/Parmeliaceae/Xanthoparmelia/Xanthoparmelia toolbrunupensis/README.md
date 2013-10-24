@@ -1,5 +1,4 @@
-Xanthoparmelia toolbrunupensis Elix SPECIES
-=======
+# Xanthoparmelia toolbrunupensis Elix SPECIES
 
 #### Status
 ACCEPTED

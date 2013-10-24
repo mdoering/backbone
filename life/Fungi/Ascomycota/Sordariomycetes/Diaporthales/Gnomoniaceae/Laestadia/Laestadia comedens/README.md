@@ -1,5 +1,4 @@
-Laestadia comedens (Pass.) Sacc. SPECIES
-=======
+# Laestadia comedens (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

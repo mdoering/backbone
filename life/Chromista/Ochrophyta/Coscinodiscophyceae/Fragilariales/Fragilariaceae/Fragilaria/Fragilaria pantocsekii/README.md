@@ -1,5 +1,4 @@
-Fragilaria pantocsekii var. binodis (Pantocsek) A. Cleve VARIETY
-=======
+# Fragilaria pantocsekii SPECIES
 
 #### Status
 ACCEPTED

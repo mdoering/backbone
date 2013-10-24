@@ -1,5 +1,4 @@
-Lichen cruentus Weber SPECIES
-=======
+# Lichen cruentus Weber SPECIES
 
 #### Status
 ACCEPTED

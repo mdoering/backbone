@@ -1,5 +1,4 @@
-Conida aspiciliae J. Steiner SPECIES
-=======
+# Conida aspiciliae J. Steiner SPECIES
 
 #### Status
 ACCEPTED

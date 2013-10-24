@@ -1,14 +1,13 @@
-Uredo intrusa Grev., 1824 SPECIES
-=======
+# Trachyspora intrusa (Grev.) Arthur, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Edin. 436 (1824)
+Manual of the Rusts in the United States & Canada 97 (1934)
 
 #### Original name
 Uredo intrusa Grev., 1824

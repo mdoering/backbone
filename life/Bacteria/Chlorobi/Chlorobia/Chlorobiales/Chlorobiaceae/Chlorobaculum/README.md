@@ -1,5 +1,4 @@
-Chlorobaculum Imhoff, 2003 GENUS
-=======
+# Chlorobaculum Imhoff, 2003 GENUS
 
 #### Status
 ACCEPTED

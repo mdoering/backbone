@@ -1,5 +1,4 @@
-Oligostroma strychni Petch SPECIES
-=======
+# Oligostroma strychni Petch SPECIES
 
 #### Status
 ACCEPTED

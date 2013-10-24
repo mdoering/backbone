@@ -1,11 +1,10 @@
-Dilophus tenera J.Agardh, 1894 SPECIES
-=======
+# Dictyota gunniana (J. Agardh) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

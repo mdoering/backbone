@@ -1,5 +1,4 @@
-Cyclostephanos delicatus (Genkel) Casper & Scheffler SPECIES
-=======
+# Cyclostephanos delicatus (Genkel) Casper & Scheffler SPECIES
 
 #### Status
 ACCEPTED

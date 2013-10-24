@@ -1,5 +1,4 @@
-Calicium rhois (Berk. & M.A. Curtis) Farl. SPECIES
-=======
+# Calicium rhois (Berk. & M.A. Curtis) Farl. SPECIES
 
 #### Status
 ACCEPTED

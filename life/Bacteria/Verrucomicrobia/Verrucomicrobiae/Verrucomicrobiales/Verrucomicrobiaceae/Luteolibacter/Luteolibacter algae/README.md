@@ -1,5 +1,4 @@
-Luteolibacter algae Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
-=======
+# Luteolibacter algae Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

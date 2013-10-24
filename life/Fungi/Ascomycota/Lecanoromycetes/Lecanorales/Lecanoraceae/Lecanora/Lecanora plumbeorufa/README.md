@@ -1,5 +1,4 @@
-Lecanora plumbeorufa Nyl. SPECIES
-=======
+# Lecanora plumbeorufa Nyl. SPECIES
 
 #### Status
 ACCEPTED

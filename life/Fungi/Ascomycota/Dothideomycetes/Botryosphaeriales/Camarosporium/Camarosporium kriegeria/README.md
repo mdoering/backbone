@@ -1,17 +1,16 @@
-Camarosporium kriegerii Bres. SPECIES
-=======
+# Camarosporium kriegeria Bres., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 35: 200 (1896)
 
 #### Original name
-Camarosporium kriegerii Bres.
+Camarosporium kriegeria Bres., 1896
 
 ### Remarks
 null

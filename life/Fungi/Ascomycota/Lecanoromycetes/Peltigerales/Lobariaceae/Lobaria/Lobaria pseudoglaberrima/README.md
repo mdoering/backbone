@@ -1,5 +1,4 @@
-Lobaria pseudoglaberrima Zahlbr. SPECIES
-=======
+# Lobaria pseudoglaberrima Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

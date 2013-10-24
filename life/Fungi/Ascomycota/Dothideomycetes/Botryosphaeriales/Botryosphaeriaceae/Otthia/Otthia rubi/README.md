@@ -1,5 +1,4 @@
-Otthia rubi Höhn. SPECIES
-=======
+# Otthia rubi Höhn. SPECIES
 
 #### Status
 ACCEPTED

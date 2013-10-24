@@ -1,5 +1,4 @@
-Clitocybe albimontana H.E. Bigelow SPECIES
-=======
+# Clitocybe albimontana H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

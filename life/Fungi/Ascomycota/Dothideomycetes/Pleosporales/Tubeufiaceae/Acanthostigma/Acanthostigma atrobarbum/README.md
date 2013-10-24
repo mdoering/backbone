@@ -1,5 +1,4 @@
-Acanthostigma atrobarbum (Cooke & Ellis) Ellis & Everh. SPECIES
-=======
+# Acanthostigma atrobarbum (Cooke & Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Magnussoniomyces rupifragi Cif. & Tomas. SPECIES
-=======
+# Magnussoniomyces rupifragi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

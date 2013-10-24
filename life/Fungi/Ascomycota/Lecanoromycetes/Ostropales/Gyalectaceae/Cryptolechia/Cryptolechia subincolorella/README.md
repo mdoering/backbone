@@ -1,14 +1,13 @@
-Gyalecta subincolorella (Nyl.) Zahlbr. SPECIES
-=======
+# Cryptolechia subincolorella (Nyl.) D. Hawksw. & Dibben SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 714 (1924)
+Lichenologist 14(1): 100 (1982)
 
 #### Original name
 Lecidea subincolorella Nyl.

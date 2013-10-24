@@ -1,5 +1,4 @@
-Lecanora kumaonensis Räsänen SPECIES
-=======
+# Lecanora kumaonensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Flavobacterium salegens Dobson et al., 1993 SPECIES
-=======
+# Salegentibacter salegens (Dobson et al., 1993) McCammon & Bowman, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

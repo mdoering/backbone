@@ -1,5 +1,4 @@
-Methanococcoides burtonii Franzmann et al., 1993 SPECIES
-=======
+# Methanococcoides burtonii Franzmann et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

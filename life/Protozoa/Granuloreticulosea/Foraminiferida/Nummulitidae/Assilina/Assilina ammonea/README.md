@@ -1,5 +1,4 @@
-Assilina ammonea (Leymerie, 1846) SPECIES
-=======
+# Assilina ammonea (Leymerie, 1846) SPECIES
 
 #### Status
 ACCEPTED

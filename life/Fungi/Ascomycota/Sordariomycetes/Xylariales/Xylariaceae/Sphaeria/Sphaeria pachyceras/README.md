@@ -1,5 +1,4 @@
-Sphaeria pachyceras Durieu & Mont. SPECIES
-=======
+# Sphaeria pachyceras Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaeropsis (Diedicke) Petrak & Sydow, 1926 GENUS
-=======
+# Pleosphaeropsis (Diedicke) Petrak & Sydow, 1926 GENUS
 
 #### Status
 ACCEPTED

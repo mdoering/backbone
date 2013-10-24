@@ -1,5 +1,4 @@
-Pseudocercospora smilacis Budathoki & S.K. Singh SPECIES
-=======
+# Pseudocercospora smilacis Budathoki & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

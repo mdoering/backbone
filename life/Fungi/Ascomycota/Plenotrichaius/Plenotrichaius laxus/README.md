@@ -1,5 +1,4 @@
-Plenotrichaius laxus M.L. Farr SPECIES
-=======
+# Plenotrichaius laxus M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius paludosus Peck SPECIES
-=======
+# Cortinarius paludosus Peck SPECIES
 
 #### Status
 ACCEPTED

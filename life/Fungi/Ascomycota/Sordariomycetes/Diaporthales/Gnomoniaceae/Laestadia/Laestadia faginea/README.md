@@ -1,5 +1,4 @@
-Laestadia faginea (Cooke & Plowr.) Sacc., 1883 SPECIES
-=======
+# Laestadia faginea (Cooke & Plowr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

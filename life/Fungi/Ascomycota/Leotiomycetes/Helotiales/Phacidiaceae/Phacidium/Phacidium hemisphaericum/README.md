@@ -1,5 +1,4 @@
-Phacidium hemisphaericum Fr. SPECIES
-=======
+# Phacidium hemisphaericum Fr. SPECIES
 
 #### Status
 ACCEPTED

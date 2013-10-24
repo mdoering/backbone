@@ -1,5 +1,4 @@
-Hercospora rudis Auersw. SPECIES
-=======
+# Hercospora rudis Auersw. SPECIES
 
 #### Status
 ACCEPTED

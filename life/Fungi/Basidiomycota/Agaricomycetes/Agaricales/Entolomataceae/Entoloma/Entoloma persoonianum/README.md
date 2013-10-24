@@ -1,5 +1,4 @@
-Entoloma persoonianum anon. SPECIES
-=======
+# Entoloma persoonianum anon. SPECIES
 
 #### Status
 ACCEPTED

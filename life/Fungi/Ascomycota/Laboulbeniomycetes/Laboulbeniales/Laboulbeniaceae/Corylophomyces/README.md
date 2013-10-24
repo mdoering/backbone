@@ -1,5 +1,4 @@
-Corylophomyces R.K. Benj. GENUS
-=======
+# Corylophomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

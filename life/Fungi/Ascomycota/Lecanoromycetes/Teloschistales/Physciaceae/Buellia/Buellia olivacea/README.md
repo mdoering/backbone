@@ -1,5 +1,4 @@
-Buellia olivacea Müll. Arg. SPECIES
-=======
+# Buellia olivacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

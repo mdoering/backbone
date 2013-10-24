@@ -1,14 +1,13 @@
-Cortinarius alienatus (E. Horak) G. Garnier, 1991 SPECIES
-=======
+# Dermocybe alienata E. Horak, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bibliographie des Cortinaires (France), A-C 18 (1991)
+Sydowia 40: 103 (1988)
 
 #### Original name
 Dermocybe alienata E. Horak, 1988

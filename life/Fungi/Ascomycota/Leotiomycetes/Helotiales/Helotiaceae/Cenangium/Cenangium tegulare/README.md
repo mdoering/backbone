@@ -1,5 +1,4 @@
-Cenangium tegulare (Weinm.) Sacc. SPECIES
-=======
+# Cenangium tegulare (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobasis balsamorrhizae Peck SPECIES
-=======
+# Trichobasis balsamorrhizae Peck SPECIES
 
 #### Status
 ACCEPTED

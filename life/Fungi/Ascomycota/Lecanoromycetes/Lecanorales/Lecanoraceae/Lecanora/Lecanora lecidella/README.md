@@ -1,5 +1,4 @@
-Lecanora lecidella Poelt SPECIES
-=======
+# Lecanora lecidella Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum berkeleyi Cooke SPECIES
-=======
+# Coryneum berkeleyi Cooke SPECIES
 
 #### Status
 ACCEPTED

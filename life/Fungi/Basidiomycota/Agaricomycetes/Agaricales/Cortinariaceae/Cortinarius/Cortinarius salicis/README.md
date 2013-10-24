@@ -1,5 +1,4 @@
-Cortinarius salicis Rob. Henry SPECIES
-=======
+# Cortinarius salicis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

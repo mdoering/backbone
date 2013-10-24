@@ -1,5 +1,4 @@
-Reticularia venosa Berk. & M.A. Curtis SPECIES
-=======
+# Reticularia venosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

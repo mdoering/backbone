@@ -1,14 +1,13 @@
-Actiniceps laevis (Corner) Boedijn, 1959 SPECIES
-=======
+# Dimorphocystis laevis Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 1(1): 13 (1959)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 695 (1950)
 
 #### Original name
 Dimorphocystis laevis Corner, 1950

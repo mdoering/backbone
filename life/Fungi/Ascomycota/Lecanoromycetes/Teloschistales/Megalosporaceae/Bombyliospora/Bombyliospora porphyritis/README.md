@@ -1,5 +1,4 @@
-Bombyliospora porphyritis (Tuck.) A. Massal. SPECIES
-=======
+# Bombyliospora porphyritis (Tuck.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

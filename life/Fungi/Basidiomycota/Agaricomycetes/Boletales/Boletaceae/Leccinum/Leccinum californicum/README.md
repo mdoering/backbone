@@ -1,5 +1,4 @@
-Leccinum californicum Thiers SPECIES
-=======
+# Leccinum californicum Thiers SPECIES
 
 #### Status
 ACCEPTED

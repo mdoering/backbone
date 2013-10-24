@@ -1,5 +1,4 @@
-Peziza ulbrichiana Durieu & Mont. SPECIES
-=======
+# Peziza ulbrichiana Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

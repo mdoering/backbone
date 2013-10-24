@@ -1,5 +1,4 @@
-Lecidea theioplaca Tuck. SPECIES
-=======
+# Lecidea theioplaca Tuck. SPECIES
 
 #### Status
 ACCEPTED

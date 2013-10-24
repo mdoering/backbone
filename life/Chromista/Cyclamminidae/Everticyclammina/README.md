@@ -1,5 +1,4 @@
-Everticyclammina Redmond, 1964 GENUS
-=======
+# Everticyclammina Redmond, 1964 GENUS
 
 #### Status
 ACCEPTED

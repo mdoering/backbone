@@ -1,5 +1,4 @@
-Leiogramma lyellii Eschw. SPECIES
-=======
+# Leiogramma lyellii Eschw. SPECIES
 
 #### Status
 ACCEPTED

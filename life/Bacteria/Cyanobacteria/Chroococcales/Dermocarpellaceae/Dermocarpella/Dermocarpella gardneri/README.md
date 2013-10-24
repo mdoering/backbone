@@ -1,5 +1,4 @@
-Dermocarpella gardneri H. León-Tejera & G. Montejano SPECIES
-=======
+# Dermocarpella gardneri H. León-Tejera & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

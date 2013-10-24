@@ -1,5 +1,4 @@
-Sclerophoma paterii Petr. SPECIES
-=======
+# Sclerophoma paterii Petr. SPECIES
 
 #### Status
 ACCEPTED

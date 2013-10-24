@@ -1,5 +1,4 @@
-Coriobacterium Haas & König, 1988 GENUS
-=======
+# Coriobacterium Haas & König, 1988 GENUS
 
 #### Status
 ACCEPTED

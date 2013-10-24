@@ -1,5 +1,4 @@
-Endomelanconiopsis E.I. Rojas & Samuels GENUS
-=======
+# Endomelanconiopsis E.I. Rojas & Samuels GENUS
 
 #### Status
 ACCEPTED

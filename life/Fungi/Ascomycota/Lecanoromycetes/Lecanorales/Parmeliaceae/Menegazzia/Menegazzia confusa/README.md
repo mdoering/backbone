@@ -1,5 +1,4 @@
-Menegazzia confusa P. James SPECIES
-=======
+# Menegazzia confusa P. James SPECIES
 
 #### Status
 ACCEPTED

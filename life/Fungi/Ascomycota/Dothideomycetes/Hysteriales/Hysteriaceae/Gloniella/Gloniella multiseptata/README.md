@@ -1,5 +1,4 @@
-Gloniella multiseptata Doidge SPECIES
-=======
+# Gloniella multiseptata Doidge SPECIES
 
 #### Status
 ACCEPTED

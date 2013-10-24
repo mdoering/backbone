@@ -1,5 +1,4 @@
-Rectoprotomarssonella Kaminski, Bubik & Cetean, 2007 GENUS
-=======
+# Rectoprotomarssonella Kaminski, Bubik & Cetean, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina tenella Cooke, 1885 SPECIES
-=======
+# Asterina tenella Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

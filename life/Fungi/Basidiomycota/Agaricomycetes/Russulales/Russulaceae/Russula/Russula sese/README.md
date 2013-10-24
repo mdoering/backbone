@@ -1,5 +1,4 @@
-Russula sese Beeli SPECIES
-=======
+# Russula sese Beeli SPECIES
 
 #### Status
 ACCEPTED

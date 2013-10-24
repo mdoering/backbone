@@ -1,5 +1,4 @@
-Streptomyces spitsbergensis Wieczorek et al., 1993 SPECIES
-=======
+# Streptomyces spitsbergensis Wieczorek et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

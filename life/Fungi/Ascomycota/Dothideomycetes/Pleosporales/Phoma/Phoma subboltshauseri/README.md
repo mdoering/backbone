@@ -1,5 +1,4 @@
-Phoma subboltshauseri Boerema, Gruyter & Noordel., 1997 SPECIES
-=======
+# Phoma subboltshauseri Boerema, Gruyter & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

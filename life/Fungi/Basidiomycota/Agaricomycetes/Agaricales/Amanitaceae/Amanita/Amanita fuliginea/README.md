@@ -1,5 +1,4 @@
-Amanita fuliginea Hongo SPECIES
-=======
+# Amanita fuliginea Hongo SPECIES
 
 #### Status
 ACCEPTED

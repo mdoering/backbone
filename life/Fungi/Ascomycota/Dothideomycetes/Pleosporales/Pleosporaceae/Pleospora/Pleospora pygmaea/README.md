@@ -1,5 +1,4 @@
-Pleospora pygmaea (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Pleospora pygmaea (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

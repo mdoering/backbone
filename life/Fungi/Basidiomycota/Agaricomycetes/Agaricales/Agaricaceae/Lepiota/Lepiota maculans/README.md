@@ -1,5 +1,4 @@
-Lepiota maculans Peck SPECIES
-=======
+# Lepiota maculans Peck SPECIES
 
 #### Status
 ACCEPTED

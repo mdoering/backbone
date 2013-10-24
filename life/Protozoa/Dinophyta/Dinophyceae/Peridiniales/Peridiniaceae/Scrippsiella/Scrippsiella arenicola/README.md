@@ -1,5 +1,4 @@
-Scrippsiella arenicola T. Horiguchi & R. N. Pienaar SPECIES
-=======
+# Scrippsiella arenicola T. Horiguchi & R. N. Pienaar SPECIES
 
 #### Status
 ACCEPTED

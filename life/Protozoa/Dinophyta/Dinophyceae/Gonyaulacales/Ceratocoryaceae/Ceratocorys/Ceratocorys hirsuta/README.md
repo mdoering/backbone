@@ -1,5 +1,4 @@
-Ceratocorys hirsuta Matzenauer, 1933 SPECIES
-=======
+# Ceratocorys hirsuta Matzenauer, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus dictyoptericola Noda SPECIES
-=======
+# Ectocarpus dictyoptericola Noda SPECIES
 
 #### Status
 ACCEPTED

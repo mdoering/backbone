@@ -1,5 +1,4 @@
-Actinoplaca vulgaris (Müll. Arg.) Vezda & Poelt SPECIES
-=======
+# Actinoplaca vulgaris (Müll. Arg.) Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

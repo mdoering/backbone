@@ -1,5 +1,4 @@
-Lophiotricha GENUS
-=======
+# Lophiotricha GENUS
 
 #### Status
 ACCEPTED

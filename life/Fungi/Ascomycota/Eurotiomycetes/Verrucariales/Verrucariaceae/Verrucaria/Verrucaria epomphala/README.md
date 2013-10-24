@@ -1,5 +1,4 @@
-Verrucaria epomphala Nyl. SPECIES
-=======
+# Verrucaria epomphala Nyl. SPECIES
 
 #### Status
 ACCEPTED

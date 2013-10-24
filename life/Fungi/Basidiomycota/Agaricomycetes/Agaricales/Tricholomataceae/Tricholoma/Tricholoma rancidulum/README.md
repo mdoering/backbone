@@ -1,5 +1,4 @@
-Tricholoma rancidulum Banning & Peck SPECIES
-=======
+# Tricholoma rancidulum Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

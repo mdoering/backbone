@@ -1,5 +1,4 @@
-Lecidea subpulicaris Anzi SPECIES
-=======
+# Lecidea subpulicaris Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria freycinetiae Samuels, 1976 SPECIES
-=======
+# Nectria freycinetiae Samuels, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria heteropogonicola B.V. Patil, Sukapure & Thirum. SPECIES
-=======
+# Septoria heteropogonicola B.V. Patil, Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

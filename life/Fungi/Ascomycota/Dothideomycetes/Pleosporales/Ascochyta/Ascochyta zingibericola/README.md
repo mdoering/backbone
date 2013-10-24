@@ -1,5 +1,4 @@
-Ascochyta zingibericola Punith. SPECIES
-=======
+# Ascochyta zingibericola Punith. SPECIES
 
 #### Status
 ACCEPTED

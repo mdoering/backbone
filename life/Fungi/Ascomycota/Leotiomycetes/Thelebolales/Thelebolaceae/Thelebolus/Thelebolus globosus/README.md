@@ -1,5 +1,4 @@
-Thelebolus globosus Brumm. & de Hoog SPECIES
-=======
+# Thelebolus globosus Brumm. & de Hoog SPECIES
 
 #### Status
 ACCEPTED

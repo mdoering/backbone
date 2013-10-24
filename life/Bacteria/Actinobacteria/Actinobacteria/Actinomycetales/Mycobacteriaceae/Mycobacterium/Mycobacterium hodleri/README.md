@@ -1,5 +1,4 @@
-Mycobacterium hodleri Kleespies et al., 1996 SPECIES
-=======
+# Mycobacterium hodleri Kleespies et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

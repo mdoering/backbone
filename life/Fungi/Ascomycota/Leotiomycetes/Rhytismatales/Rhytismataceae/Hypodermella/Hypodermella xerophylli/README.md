@@ -1,5 +1,4 @@
-Hypodermella xerophylli Dearn. SPECIES
-=======
+# Hypodermella xerophylli Dearn. SPECIES
 
 #### Status
 ACCEPTED

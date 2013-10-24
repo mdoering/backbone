@@ -1,5 +1,4 @@
-Buccella inusitata Andersen, 1952 SPECIES
-=======
+# Buccella inusitata Andersen, 1952 SPECIES
 
 #### Status
 ACCEPTED

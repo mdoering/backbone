@@ -1,5 +1,4 @@
-Thigmozoon GENUS
-=======
+# Thigmozoon GENUS
 
 #### Status
 ACCEPTED

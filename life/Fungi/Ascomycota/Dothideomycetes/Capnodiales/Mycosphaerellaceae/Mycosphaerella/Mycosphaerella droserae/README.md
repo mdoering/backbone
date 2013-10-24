@@ -1,5 +1,4 @@
-Mycosphaerella droserae (Tassi) Tomilin SPECIES
-=======
+# Mycosphaerella droserae (Tassi) Tomilin SPECIES
 
 #### Status
 ACCEPTED

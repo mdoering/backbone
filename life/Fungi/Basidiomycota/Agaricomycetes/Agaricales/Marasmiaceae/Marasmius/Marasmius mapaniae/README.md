@@ -1,5 +1,4 @@
-Marasmius mapaniae Corner SPECIES
-=======
+# Marasmius mapaniae Corner SPECIES
 
 #### Status
 ACCEPTED

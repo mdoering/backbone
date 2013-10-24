@@ -1,5 +1,4 @@
-Tricholoma persicinum (Fr.) Quél., 1872 SPECIES
-=======
+# Tricholoma persicinum (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED

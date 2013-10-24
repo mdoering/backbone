@@ -1,5 +1,4 @@
-Phacus pseudoplatalea Pochmann SPECIES
-=======
+# Phacus pseudoplatalea Pochmann SPECIES
 
 #### Status
 ACCEPTED

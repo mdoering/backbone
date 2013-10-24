@@ -1,5 +1,4 @@
-Evernia malacea (Stirt.) M. Choisy SPECIES
-=======
+# Evernia malacea (Stirt.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

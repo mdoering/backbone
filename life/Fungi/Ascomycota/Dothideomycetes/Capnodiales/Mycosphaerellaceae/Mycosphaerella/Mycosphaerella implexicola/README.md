@@ -1,5 +1,4 @@
-Mycosphaerella implexicola (Maire) G. Díaz SPECIES
-=======
+# Mycosphaerella implexicola (Maire) G. Díaz SPECIES
 
 #### Status
 ACCEPTED

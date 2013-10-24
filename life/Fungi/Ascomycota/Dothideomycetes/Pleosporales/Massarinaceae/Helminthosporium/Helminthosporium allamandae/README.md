@@ -1,5 +1,4 @@
-Helminthosporium allamandae Petr. & Cif. SPECIES
-=======
+# Helminthosporium allamandae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

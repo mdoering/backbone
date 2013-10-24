@@ -1,5 +1,4 @@
-Woroninella aequatoriensis Syd. SPECIES
-=======
+# Woroninella aequatoriensis Syd. SPECIES
 
 #### Status
 ACCEPTED

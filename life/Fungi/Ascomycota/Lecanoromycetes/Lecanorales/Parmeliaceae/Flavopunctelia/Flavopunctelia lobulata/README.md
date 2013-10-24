@@ -1,5 +1,4 @@
-Flavopunctelia lobulata Elix & Adler SPECIES
-=======
+# Flavopunctelia lobulata Elix & Adler SPECIES
 
 #### Status
 ACCEPTED

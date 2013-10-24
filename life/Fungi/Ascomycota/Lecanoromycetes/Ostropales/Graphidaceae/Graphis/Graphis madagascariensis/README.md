@@ -1,5 +1,4 @@
-Graphis madagascariensis Müll. Arg. SPECIES
-=======
+# Graphis madagascariensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

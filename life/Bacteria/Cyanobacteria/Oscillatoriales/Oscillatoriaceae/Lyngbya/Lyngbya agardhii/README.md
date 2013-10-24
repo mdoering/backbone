@@ -1,5 +1,4 @@
-Lyngbya agardhii P.L. Crouan & H.M. Crouan ex Gomont SPECIES
-=======
+# Lyngbya agardhii P.L. Crouan & H.M. Crouan ex Gomont SPECIES
 
 #### Status
 ACCEPTED

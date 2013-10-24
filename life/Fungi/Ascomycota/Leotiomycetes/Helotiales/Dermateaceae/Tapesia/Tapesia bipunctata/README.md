@@ -1,5 +1,4 @@
-Tapesia bipunctata Velen. SPECIES
-=======
+# Tapesia bipunctata Velen. SPECIES
 
 #### Status
 ACCEPTED

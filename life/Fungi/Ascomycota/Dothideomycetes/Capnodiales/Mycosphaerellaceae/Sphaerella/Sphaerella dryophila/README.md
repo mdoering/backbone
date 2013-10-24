@@ -1,5 +1,4 @@
-Sphaerella dryophila Cooke & Harkn. SPECIES
-=======
+# Sphaerella dryophila Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

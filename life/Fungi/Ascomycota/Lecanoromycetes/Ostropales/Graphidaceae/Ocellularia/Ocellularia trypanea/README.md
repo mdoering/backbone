@@ -1,5 +1,4 @@
-Ocellularia trypanea (Ach.) C.W. Dodge SPECIES
-=======
+# Ocellularia trypanea (Ach.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

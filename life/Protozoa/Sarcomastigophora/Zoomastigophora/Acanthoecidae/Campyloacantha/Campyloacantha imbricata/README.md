@@ -1,5 +1,4 @@
-Campyloacantha imbricata Hara & Takahashi SPECIES
-=======
+# Campyloacantha imbricata Hara & Takahashi SPECIES
 
 #### Status
 ACCEPTED

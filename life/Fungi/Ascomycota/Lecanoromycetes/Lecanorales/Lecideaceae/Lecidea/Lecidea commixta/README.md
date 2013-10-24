@@ -1,5 +1,4 @@
-Lecidea commixta H. Magn. SPECIES
-=======
+# Lecidea commixta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoalpakesa poae Punith., 1981 SPECIES
-=======
+# Neoalpakesa poae Punith., 1981 SPECIES
 
 #### Status
 ACCEPTED

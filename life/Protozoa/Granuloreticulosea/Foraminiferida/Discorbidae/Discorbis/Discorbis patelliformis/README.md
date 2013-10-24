@@ -1,5 +1,4 @@
-Discorbis patelliformis (Brady) SPECIES
-=======
+# Discorbis patelliformis (Brady) SPECIES
 
 #### Status
 ACCEPTED

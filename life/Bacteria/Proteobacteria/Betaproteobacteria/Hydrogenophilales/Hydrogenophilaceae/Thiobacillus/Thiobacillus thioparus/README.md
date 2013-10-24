@@ -1,11 +1,10 @@
-Thiobacillus thiocyanoxidans (Happold & Key, 1937) Happold et al., 1954 SPECIES
-=======
+# Thiobacillus thioparus Beijerinck, 1904 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

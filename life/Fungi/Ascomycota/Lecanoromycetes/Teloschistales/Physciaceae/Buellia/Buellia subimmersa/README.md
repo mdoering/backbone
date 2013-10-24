@@ -1,5 +1,4 @@
-Buellia subimmersa SPECIES
-=======
+# Buellia subimmersa SPECIES
 
 #### Status
 ACCEPTED

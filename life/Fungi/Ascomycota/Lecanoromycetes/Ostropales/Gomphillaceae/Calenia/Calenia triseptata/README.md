@@ -1,5 +1,4 @@
-Calenia triseptata Zahlbr. SPECIES
-=======
+# Calenia triseptata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

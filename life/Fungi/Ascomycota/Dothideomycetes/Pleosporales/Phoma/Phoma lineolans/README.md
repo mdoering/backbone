@@ -1,5 +1,4 @@
-Phoma lineolans Tassi SPECIES
-=======
+# Phoma lineolans Tassi SPECIES
 
 #### Status
 ACCEPTED

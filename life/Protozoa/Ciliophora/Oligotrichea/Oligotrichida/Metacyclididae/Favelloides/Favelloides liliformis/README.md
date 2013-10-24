@@ -1,5 +1,4 @@
-Favelloides liliformis SPECIES
-=======
+# Favelloides liliformis SPECIES
 
 #### Status
 ACCEPTED

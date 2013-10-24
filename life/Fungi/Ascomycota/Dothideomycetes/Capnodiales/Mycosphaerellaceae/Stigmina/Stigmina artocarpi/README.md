@@ -1,5 +1,4 @@
-Stigmina artocarpi Thaung SPECIES
-=======
+# Stigmina artocarpi Thaung SPECIES
 
 #### Status
 ACCEPTED

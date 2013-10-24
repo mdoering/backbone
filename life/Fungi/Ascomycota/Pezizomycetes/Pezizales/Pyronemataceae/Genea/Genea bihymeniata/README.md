@@ -1,5 +1,4 @@
-Genea bihymeniata M.E. Sm. & Trappe SPECIES
-=======
+# Genea bihymeniata M.E. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

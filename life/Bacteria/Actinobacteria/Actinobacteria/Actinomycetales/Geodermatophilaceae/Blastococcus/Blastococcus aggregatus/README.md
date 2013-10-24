@@ -1,5 +1,4 @@
-Blastococcus aggregatus Ahrens and Moll, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Blastococcus aggregatus Ahrens and Moll, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen sphaerophorus Lilj. SPECIES
-=======
+# Lichen sphaerophorus Lilj. SPECIES
 
 #### Status
 ACCEPTED

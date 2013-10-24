@@ -1,5 +1,4 @@
-Humaria antarctica (Speg.) Sacc. SPECIES
-=======
+# Humaria antarctica (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

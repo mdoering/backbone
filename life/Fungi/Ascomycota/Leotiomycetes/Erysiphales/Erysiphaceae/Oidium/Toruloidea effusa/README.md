@@ -1,5 +1,4 @@
-Toruloidea effusa Sumst. SPECIES
-=======
+# Toruloidea effusa Sumst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia graveolens G. Poirault ex Boud. SPECIES
-=======
+# Collybia graveolens G. Poirault ex Boud. SPECIES
 
 #### Status
 ACCEPTED

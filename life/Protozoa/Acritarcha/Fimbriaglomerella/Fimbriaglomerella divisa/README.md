@@ -1,5 +1,4 @@
-Fimbriaglomerella divisa Loeblich & Drugg, 1968 SPECIES
-=======
+# Fimbriaglomerella divisa Loeblich & Drugg, 1968 SPECIES
 
 #### Status
 ACCEPTED

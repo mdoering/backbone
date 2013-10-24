@@ -1,5 +1,4 @@
-Theciopeltis guianensis F. Stevens & Manter SPECIES
-=======
+# Theciopeltis guianensis F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

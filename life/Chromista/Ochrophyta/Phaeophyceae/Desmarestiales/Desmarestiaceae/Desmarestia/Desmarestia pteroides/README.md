@@ -1,5 +1,4 @@
-Desmarestia pteroides Reinsch SPECIES
-=======
+# Desmarestia pteroides Reinsch SPECIES
 
 #### Status
 ACCEPTED

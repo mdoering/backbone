@@ -1,5 +1,4 @@
-Melanoleuca pseudosordida (Singer) Murrill SPECIES
-=======
+# Melanoleuca pseudosordida (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

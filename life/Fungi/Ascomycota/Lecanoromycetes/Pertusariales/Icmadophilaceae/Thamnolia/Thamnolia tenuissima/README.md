@@ -1,5 +1,4 @@
-Thamnolia tenuissima Cretz. SPECIES
-=======
+# Thamnolia tenuissima Cretz. SPECIES
 
 #### Status
 ACCEPTED

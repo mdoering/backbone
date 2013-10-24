@@ -1,5 +1,4 @@
-Mycoderma issavi Mattlet SPECIES
-=======
+# Mycoderma issavi Mattlet SPECIES
 
 #### Status
 ACCEPTED

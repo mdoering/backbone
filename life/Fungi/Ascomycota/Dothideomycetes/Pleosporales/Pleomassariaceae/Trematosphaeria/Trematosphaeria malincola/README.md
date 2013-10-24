@@ -1,5 +1,4 @@
-Trematosphaeria malincola Kirschst. SPECIES
-=======
+# Trematosphaeria malincola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Chromobacterium manilae (Krasil'nikov) Leifson, 1956 SPECIES
-=======
+# Chromobacterium violaceum Bergonzini, 1880 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

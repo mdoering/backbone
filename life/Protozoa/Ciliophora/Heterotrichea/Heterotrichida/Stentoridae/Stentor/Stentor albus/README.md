@@ -1,5 +1,4 @@
-Stentor albus Fromentel, 1876 SPECIES
-=======
+# Stentor albus Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

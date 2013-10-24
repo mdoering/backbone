@@ -1,5 +1,4 @@
-Graphis rosea Vain. SPECIES
-=======
+# Graphis rosea Vain. SPECIES
 
 #### Status
 ACCEPTED

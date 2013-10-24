@@ -1,5 +1,4 @@
-Plowrightia massariae (Pass.) Sacc. SPECIES
-=======
+# Plowrightia massariae (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

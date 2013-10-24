@@ -1,5 +1,4 @@
-Bacidia pseudohyphophorifera Lücking SPECIES
-=======
+# Bacidia pseudohyphophorifera Lücking SPECIES
 
 #### Status
 ACCEPTED

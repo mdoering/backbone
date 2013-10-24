@@ -1,5 +1,4 @@
-Madsenia Kahl, 1934 GENUS
-=======
+# Madsenia Kahl, 1934 GENUS
 
 #### Status
 ACCEPTED

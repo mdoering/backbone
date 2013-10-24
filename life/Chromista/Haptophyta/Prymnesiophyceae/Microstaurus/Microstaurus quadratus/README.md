@@ -1,5 +1,4 @@
-Microstaurus quadratus M. Black SPECIES
-=======
+# Microstaurus quadratus M. Black SPECIES
 
 #### Status
 ACCEPTED

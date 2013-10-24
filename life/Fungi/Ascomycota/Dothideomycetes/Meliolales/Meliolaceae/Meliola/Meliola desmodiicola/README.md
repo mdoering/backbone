@@ -1,5 +1,4 @@
-Meliola desmodiicola Beeli SPECIES
-=======
+# Meliola desmodiicola Beeli SPECIES
 
 #### Status
 ACCEPTED

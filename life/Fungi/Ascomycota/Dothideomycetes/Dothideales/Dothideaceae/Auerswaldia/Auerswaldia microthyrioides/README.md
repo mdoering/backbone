@@ -1,5 +1,4 @@
-Auerswaldia microthyrioides Henn. SPECIES
-=======
+# Auerswaldia microthyrioides Henn. SPECIES
 
 #### Status
 ACCEPTED

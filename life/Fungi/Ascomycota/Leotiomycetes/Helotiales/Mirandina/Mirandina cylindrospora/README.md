@@ -1,5 +1,4 @@
-Mirandina cylindrospora Matsush. SPECIES
-=======
+# Mirandina cylindrospora Matsush. SPECIES
 
 #### Status
 ACCEPTED

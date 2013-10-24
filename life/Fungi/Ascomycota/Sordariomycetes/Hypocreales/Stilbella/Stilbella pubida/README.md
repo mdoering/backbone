@@ -1,5 +1,4 @@
-Stilbella pubida (Tode) Lindau SPECIES
-=======
+# Stilbella pubida (Tode) Lindau SPECIES
 
 #### Status
 ACCEPTED

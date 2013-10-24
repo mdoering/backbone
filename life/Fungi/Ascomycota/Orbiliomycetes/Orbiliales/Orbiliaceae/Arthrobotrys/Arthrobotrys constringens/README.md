@@ -1,5 +1,4 @@
-Arthrobotrys constringens Dowsett, J. Reid & Kalkat SPECIES
-=======
+# Arthrobotrys constringens Dowsett, J. Reid & Kalkat SPECIES
 
 #### Status
 ACCEPTED

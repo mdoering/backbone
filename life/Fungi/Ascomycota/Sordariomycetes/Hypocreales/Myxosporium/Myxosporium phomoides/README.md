@@ -1,5 +1,4 @@
-Myxosporium phomoides P. Karst. & Har. SPECIES
-=======
+# Myxosporium phomoides P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

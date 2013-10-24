@@ -1,5 +1,4 @@
-Lycoperdodes GENUS
-=======
+# Lycoperdodes GENUS
 
 #### Status
 ACCEPTED

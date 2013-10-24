@@ -1,5 +1,4 @@
-Pseudogaster singularis Höhn., 1907 SPECIES
-=======
+# Pseudogaster singularis Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilimelia columellifera subsp. columellifera (ex Schäfer, 1973) Vobis et al., 1986 SUBSPECIES
-=======
+# Pilimelia columellifera (ex Schäfer, 1973) Vobis et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

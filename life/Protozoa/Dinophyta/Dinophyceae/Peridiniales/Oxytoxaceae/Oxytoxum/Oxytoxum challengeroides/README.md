@@ -1,5 +1,4 @@
-Oxytoxum challengeroides Kofoid SPECIES
-=======
+# Oxytoxum challengeroides Kofoid SPECIES
 
 #### Status
 ACCEPTED

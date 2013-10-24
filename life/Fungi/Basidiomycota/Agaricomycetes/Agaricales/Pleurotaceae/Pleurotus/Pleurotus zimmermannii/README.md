@@ -1,8 +1,7 @@
-Pleurotus zimmermanni (Eichelb.) Sacc. & Trotter SPECIES
-=======
+# Pleurotus zimmermannii (Eichelb.) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

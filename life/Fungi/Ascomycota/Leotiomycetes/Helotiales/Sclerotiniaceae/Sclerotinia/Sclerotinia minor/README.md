@@ -1,17 +1,16 @@
-Sclerotinia intermedia Ramsey, 1924 SPECIES
-=======
+# Sclerotinia minor Jagger, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 14: 324 (1924)
+J. Agric. Res. , Washington 20(4): 333 (1920)
 
 #### Original name
-Sclerotinia intermedia Ramsey, 1924
+Sclerotinia minor Jagger, 1920
 
 ### Remarks
 null

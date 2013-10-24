@@ -1,5 +1,4 @@
-Hirneolina leucophaea (Bres.) Bres. SPECIES
-=======
+# Hirneolina leucophaea (Bres.) Bres. SPECIES
 
 #### Status
 ACCEPTED

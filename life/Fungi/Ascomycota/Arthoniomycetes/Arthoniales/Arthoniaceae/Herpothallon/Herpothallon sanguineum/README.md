@@ -1,5 +1,4 @@
-Herpothallon sanguineum f. sanguineum FORM
-=======
+# Herpothallon sanguineum SPECIES
 
 #### Status
 ACCEPTED

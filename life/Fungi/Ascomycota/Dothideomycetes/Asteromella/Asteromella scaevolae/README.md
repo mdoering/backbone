@@ -1,5 +1,4 @@
-Asteromella scaevolae Petr. SPECIES
-=======
+# Asteromella scaevolae Petr. SPECIES
 
 #### Status
 ACCEPTED

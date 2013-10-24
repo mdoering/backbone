@@ -1,5 +1,4 @@
-Scutellinia sinensis M.H. Liu SPECIES
-=======
+# Scutellinia sinensis M.H. Liu SPECIES
 
 #### Status
 ACCEPTED

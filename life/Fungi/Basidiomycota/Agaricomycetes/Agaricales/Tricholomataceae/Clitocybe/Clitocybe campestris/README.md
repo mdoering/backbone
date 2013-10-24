@@ -1,5 +1,4 @@
-Clitocybe campestris Cleland SPECIES
-=======
+# Clitocybe campestris Cleland SPECIES
 
 #### Status
 ACCEPTED

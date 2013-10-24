@@ -1,5 +1,4 @@
-Septobasidium theae Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium theae Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

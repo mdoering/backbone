@@ -1,5 +1,4 @@
-Usnea dichotoma Fr. SPECIES
-=======
+# Usnea dichotoma Fr. SPECIES
 
 #### Status
 ACCEPTED

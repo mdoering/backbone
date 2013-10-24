@@ -1,5 +1,4 @@
-Enchellyodon GENUS
-=======
+# Enchellyodon GENUS
 
 #### Status
 ACCEPTED

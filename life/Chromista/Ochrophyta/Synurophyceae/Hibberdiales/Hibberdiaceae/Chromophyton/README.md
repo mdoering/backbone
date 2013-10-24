@@ -1,5 +1,4 @@
-Chromophyton Woronin, 1880 GENUS
-=======
+# Chromophyton Woronin, 1880 GENUS
 
 #### Status
 ACCEPTED

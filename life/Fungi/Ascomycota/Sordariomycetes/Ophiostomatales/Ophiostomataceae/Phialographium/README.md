@@ -1,5 +1,4 @@
-Phialographium GENUS
-=======
+# Phialographium GENUS
 
 #### Status
 ACCEPTED

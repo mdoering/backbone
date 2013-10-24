@@ -1,5 +1,4 @@
-Coccomyces keteleeriae Y.R. Lin SPECIES
-=======
+# Coccomyces keteleeriae Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

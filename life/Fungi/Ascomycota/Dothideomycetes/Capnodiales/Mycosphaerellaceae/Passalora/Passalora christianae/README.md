@@ -1,5 +1,4 @@
-Passalora christianae (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora christianae (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

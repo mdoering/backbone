@@ -1,5 +1,4 @@
-Morfea miconiae Bat. & Cif. SPECIES
-=======
+# Morfea miconiae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

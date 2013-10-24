@@ -1,5 +1,4 @@
-Pentalacorys Haeckel, 1881 GENUS
-=======
+# Pentalacorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

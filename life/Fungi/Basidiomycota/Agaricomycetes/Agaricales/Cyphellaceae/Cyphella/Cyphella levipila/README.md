@@ -1,5 +1,4 @@
-Cyphella levipila Speg. SPECIES
-=======
+# Cyphella levipila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria stellariae-nemorosae Roum. SPECIES
-=======
+# Septoria stellariae-nemorosae Roum. SPECIES
 
 #### Status
 ACCEPTED

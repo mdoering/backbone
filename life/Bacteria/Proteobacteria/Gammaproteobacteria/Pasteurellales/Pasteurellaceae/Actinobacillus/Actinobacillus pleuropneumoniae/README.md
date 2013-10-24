@@ -1,8 +1,7 @@
-Haemophilus pleuropneumoniae Shope, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Actinobacillus pleuropneumoniae (Shope, 1964) Pohl et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

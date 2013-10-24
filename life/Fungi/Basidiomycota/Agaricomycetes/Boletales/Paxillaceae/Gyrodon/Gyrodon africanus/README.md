@@ -1,5 +1,4 @@
-Gyrodon africanus (Cooke & Massee) Singer SPECIES
-=======
+# Gyrodon africanus (Cooke & Massee) Singer SPECIES
 
 #### Status
 ACCEPTED

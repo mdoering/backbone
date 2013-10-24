@@ -1,5 +1,4 @@
-Leptostroma pisi Gonz. Frag. & Cif. SPECIES
-=======
+# Leptostroma pisi Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

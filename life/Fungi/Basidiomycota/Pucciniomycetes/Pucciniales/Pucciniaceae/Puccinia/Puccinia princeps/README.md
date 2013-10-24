@@ -1,5 +1,4 @@
-Puccinia princeps Syd. & P. Syd. SPECIES
-=======
+# Puccinia princeps Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

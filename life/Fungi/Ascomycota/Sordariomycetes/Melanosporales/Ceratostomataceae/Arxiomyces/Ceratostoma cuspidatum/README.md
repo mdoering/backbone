@@ -1,5 +1,4 @@
-Ceratostoma cuspidatum Fr. SPECIES
-=======
+# Ceratostoma cuspidatum Fr. SPECIES
 
 #### Status
 ACCEPTED

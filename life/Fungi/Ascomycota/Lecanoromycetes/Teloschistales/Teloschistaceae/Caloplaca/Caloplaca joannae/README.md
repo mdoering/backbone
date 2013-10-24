@@ -1,5 +1,4 @@
-Caloplaca joannae (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca joannae (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

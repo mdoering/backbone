@@ -1,5 +1,4 @@
-Uredo hypoëstis-verticillaris Gjaerum SPECIES
-=======
+# Uredo hypoëstis-verticillaris Gjaerum SPECIES
 
 #### Status
 ACCEPTED

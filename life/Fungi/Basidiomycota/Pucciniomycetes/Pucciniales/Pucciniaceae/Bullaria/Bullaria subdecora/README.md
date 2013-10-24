@@ -1,5 +1,4 @@
-Bullaria subdecora (Syd., P. Syd. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria subdecora (Syd., P. Syd. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

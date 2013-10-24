@@ -1,5 +1,4 @@
-Radulum duriusculum Rick SPECIES
-=======
+# Radulum duriusculum Rick SPECIES
 
 #### Status
 ACCEPTED

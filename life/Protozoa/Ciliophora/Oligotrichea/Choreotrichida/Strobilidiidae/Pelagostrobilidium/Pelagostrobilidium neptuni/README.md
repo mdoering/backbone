@@ -1,8 +1,7 @@
-Strobilidium neptuni Montagnes & Taylor, 1994 SPECIES
-=======
+# Pelagostrobilidium neptuni (Montagnes & Taylor, 1994) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sterigmatocystis tropicalis Da Matta SPECIES
-=======
+# Sterigmatocystis tropicalis Da Matta SPECIES
 
 #### Status
 ACCEPTED

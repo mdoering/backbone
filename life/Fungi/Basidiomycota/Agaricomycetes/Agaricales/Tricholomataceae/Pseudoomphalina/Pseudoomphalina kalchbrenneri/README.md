@@ -1,14 +1,13 @@
-Omphalia kalchbrenneri Bres. SPECIES
-=======
+# Pseudoomphalina kalchbrenneri (Bres.) Singer, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia (1956)
 
 #### Original name
 Omphalia kalchbrenneri Bres.

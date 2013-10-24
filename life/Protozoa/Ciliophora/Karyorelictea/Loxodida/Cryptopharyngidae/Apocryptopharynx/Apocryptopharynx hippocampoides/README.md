@@ -1,5 +1,4 @@
-Apocryptopharynx hippocampoides Foissner, 1996 SPECIES
-=======
+# Apocryptopharynx hippocampoides Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

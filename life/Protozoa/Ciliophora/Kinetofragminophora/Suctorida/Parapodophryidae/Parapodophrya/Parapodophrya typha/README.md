@@ -1,5 +1,4 @@
-Parapodophrya typha Kahl, 1931 SPECIES
-=======
+# Parapodophrya typha Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellaria quercicola (Hazsl.) Sacc. SPECIES
-=======
+# Ocellaria quercicola (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

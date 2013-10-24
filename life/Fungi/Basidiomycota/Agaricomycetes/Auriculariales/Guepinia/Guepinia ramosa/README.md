@@ -1,5 +1,4 @@
-Guepinia ramosa Curr. SPECIES
-=======
+# Guepinia ramosa Curr. SPECIES
 
 #### Status
 ACCEPTED

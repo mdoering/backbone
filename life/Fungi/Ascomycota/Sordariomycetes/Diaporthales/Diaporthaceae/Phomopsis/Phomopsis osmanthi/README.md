@@ -1,5 +1,4 @@
-Phomopsis osmanthi Dzhalag., 1965 SPECIES
-=======
+# Phomopsis osmanthi Dzhalag., 1965 SPECIES
 
 #### Status
 ACCEPTED

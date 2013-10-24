@@ -1,8 +1,7 @@
-Graphis novae-zelandiae (C. Knight) Müll. Arg. SPECIES
-=======
+# Graphis novae-zealandiae (C. Knight) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fissurina novae-zelandiae C. Knight
+Fissurina novae-zealandiae C. Knight
 
 ### Remarks
 null

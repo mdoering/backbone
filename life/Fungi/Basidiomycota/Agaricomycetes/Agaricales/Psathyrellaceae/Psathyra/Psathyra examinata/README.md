@@ -1,5 +1,4 @@
-Psathyra examinata (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Psathyra examinata (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

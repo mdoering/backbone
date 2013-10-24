@@ -1,5 +1,4 @@
-Asterella erysiphoides Ellis & G. Martin SPECIES
-=======
+# Asterella erysiphoides Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

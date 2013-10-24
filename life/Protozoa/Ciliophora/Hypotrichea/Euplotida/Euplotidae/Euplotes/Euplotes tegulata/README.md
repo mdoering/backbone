@@ -1,5 +1,4 @@
-Euplotes tegulata Tuffrau, 1960 SPECIES
-=======
+# Euplotes tegulata Tuffrau, 1960 SPECIES
 
 #### Status
 ACCEPTED

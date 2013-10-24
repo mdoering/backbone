@@ -1,5 +1,4 @@
-Archaeodiscina microporifera N. Umnova, 1975 SPECIES
-=======
+# Archaeodiscina microporifera N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

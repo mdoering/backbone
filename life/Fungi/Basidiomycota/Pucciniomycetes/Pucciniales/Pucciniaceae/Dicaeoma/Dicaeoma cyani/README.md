@@ -1,5 +1,4 @@
-Dicaeoma cyani (Schleich.) Kuntze SPECIES
-=======
+# Dicaeoma cyani (Schleich.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

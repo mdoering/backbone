@@ -1,5 +1,4 @@
-Gymnodinium placidum Herdman SPECIES
-=======
+# Gymnodinium placidum Herdman SPECIES
 
 #### Status
 ACCEPTED

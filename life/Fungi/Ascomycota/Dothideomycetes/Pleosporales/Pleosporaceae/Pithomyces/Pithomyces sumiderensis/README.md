@@ -1,5 +1,4 @@
-Pithomyces sumiderensis Hol.-Jech. SPECIES
-=======
+# Pithomyces sumiderensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

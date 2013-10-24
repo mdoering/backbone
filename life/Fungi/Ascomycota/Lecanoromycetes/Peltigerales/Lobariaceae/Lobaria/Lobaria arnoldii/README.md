@@ -1,5 +1,4 @@
-Lobaria arnoldii Vain. SPECIES
-=======
+# Lobaria arnoldii Vain. SPECIES
 
 #### Status
 ACCEPTED

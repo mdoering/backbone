@@ -1,5 +1,4 @@
-Diatrype angularis Peck SPECIES
-=======
+# Diatrype angularis Peck SPECIES
 
 #### Status
 ACCEPTED

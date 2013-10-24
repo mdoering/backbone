@@ -1,5 +1,4 @@
-Phyllosticta rhexiae Dearn. & House SPECIES
-=======
+# Phyllosticta rhexiae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

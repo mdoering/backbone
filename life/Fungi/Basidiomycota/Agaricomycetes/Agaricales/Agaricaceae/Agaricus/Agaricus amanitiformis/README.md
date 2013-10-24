@@ -1,17 +1,16 @@
-Agaricus amanitaeformis Wasser SPECIES
-=======
+# Agaricus amanitiformis Wasser SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ukr. bot. Zh. 31(1): 79 (1974)
 
 #### Original name
-Agaricus amanitaeformis Wasser
+Agaricus amanitiformis Wasser
 
 ### Remarks
 null

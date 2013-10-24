@@ -1,5 +1,4 @@
-Marasmius bingaensis Singer SPECIES
-=======
+# Marasmius bingaensis Singer SPECIES
 
 #### Status
 ACCEPTED

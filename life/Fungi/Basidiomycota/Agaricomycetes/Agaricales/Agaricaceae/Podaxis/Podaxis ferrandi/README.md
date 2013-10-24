@@ -1,8 +1,7 @@
-Podaxon ferrandi Mattir. SPECIES
-=======
+# Podaxis ferrandi Mattir. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon ferrandi Mattir.
+Podaxis ferrandi Mattir.
 
 ### Remarks
 null

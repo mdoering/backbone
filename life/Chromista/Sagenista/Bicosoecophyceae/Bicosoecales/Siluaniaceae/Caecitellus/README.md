@@ -1,5 +1,4 @@
-Caecitellus D.J.Patterson, K.Nygaard, G.Steinberg & Turley, 1993 GENUS
-=======
+# Caecitellus D.J.Patterson, K.Nygaard, G.Steinberg & Turley, 1993 GENUS
 
 #### Status
 ACCEPTED

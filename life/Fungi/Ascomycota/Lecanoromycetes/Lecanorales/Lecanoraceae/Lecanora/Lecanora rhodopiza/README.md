@@ -1,5 +1,4 @@
-Lecanora rhodopiza Nyl. SPECIES
-=======
+# Lecanora rhodopiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces australis P.R. Johnst., 2007 SPECIES
-=======
+# Coccomyces australis P.R. Johnst., 2007 SPECIES
 
 #### Status
 ACCEPTED

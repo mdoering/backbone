@@ -1,5 +1,4 @@
-Asteridiella strebli Hosag., H. Biju & Manojk. SPECIES
-=======
+# Asteridiella strebli Hosag., H. Biju & Manojk. SPECIES
 
 #### Status
 ACCEPTED

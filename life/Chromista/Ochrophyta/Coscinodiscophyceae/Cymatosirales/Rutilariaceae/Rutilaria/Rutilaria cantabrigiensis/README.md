@@ -1,5 +1,4 @@
-Rutilaria cantabrigiensis R. Ross SPECIES
-=======
+# Rutilaria cantabrigiensis R. Ross SPECIES
 
 #### Status
 ACCEPTED

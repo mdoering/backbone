@@ -1,5 +1,4 @@
-Taylorella Sugimoto, Isayama, Sakazaki & Kuramochi, 1984 GENUS
-=======
+# Taylorella Sugimoto, Isayama, Sakazaki & Kuramochi, 1984 GENUS
 
 #### Status
 ACCEPTED

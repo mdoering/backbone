@@ -1,17 +1,16 @@
-Armillaria edodes f. edodes FORM
-=======
+# Lentinula edodes (Berk.) Pegler, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 3: 20 (1976)
 
 #### Original name
-Armillaria edodes f. edodes
+Agaricus edodes Berk., 1878
 
 ### Remarks
 null

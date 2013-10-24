@@ -1,5 +1,4 @@
-Endodermophyton castellanii (T.J. Perry) Castell. & Chalm. SPECIES
-=======
+# Endodermophyton castellanii (T.J. Perry) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

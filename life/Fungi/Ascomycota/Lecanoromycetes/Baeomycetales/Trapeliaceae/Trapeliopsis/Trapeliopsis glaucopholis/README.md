@@ -1,5 +1,4 @@
-Trapeliopsis glaucopholis (Nyl. ex Hasse) Printzen & McCune SPECIES
-=======
+# Trapeliopsis glaucopholis (Nyl. ex Hasse) Printzen & McCune SPECIES
 
 #### Status
 ACCEPTED

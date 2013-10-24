@@ -1,17 +1,16 @@
-Macrosporium nigricantium G.F. Atk. SPECIES
-=======
+# Macrosporium nigricans G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 16: 62 (1891)
 
 #### Original name
-Macrosporium nigricantium G.F. Atk.
+Macrosporium nigricans G.F. Atk.
 
 ### Remarks
 null

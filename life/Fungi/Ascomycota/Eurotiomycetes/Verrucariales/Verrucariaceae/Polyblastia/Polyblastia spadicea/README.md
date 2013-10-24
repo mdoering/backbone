@@ -1,5 +1,4 @@
-Polyblastia spadicea (Wallr.) Jatta SPECIES
-=======
+# Polyblastia spadicea (Wallr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora alophila Ferraris SPECIES
-=======
+# Oospora alophila Ferraris SPECIES
 
 #### Status
 ACCEPTED

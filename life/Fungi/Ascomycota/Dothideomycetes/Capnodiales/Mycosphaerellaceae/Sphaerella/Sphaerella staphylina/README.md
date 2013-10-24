@@ -1,5 +1,4 @@
-Sphaerella staphylina Ellis & Everh. SPECIES
-=======
+# Sphaerella staphylina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

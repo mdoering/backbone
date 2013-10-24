@@ -1,5 +1,4 @@
-Agaricus sublactescens Schumach. SPECIES
-=======
+# Agaricus sublactescens Schumach. SPECIES
 
 #### Status
 ACCEPTED

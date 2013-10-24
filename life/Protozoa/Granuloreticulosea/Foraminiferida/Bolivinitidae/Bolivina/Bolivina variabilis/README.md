@@ -1,11 +1,10 @@
-Brizalina variabilis (Williamson, 1858) SPECIES
-=======
+# Bolivina variabilis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

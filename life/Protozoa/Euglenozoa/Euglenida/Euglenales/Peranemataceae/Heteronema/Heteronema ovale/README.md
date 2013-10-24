@@ -1,5 +1,4 @@
-Heteronema ovale Kahl, 1928 SPECIES
-=======
+# Heteronema ovale Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

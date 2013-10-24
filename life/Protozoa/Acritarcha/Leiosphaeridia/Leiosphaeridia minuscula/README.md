@@ -1,5 +1,4 @@
-Leiosphaeridia minuscula Takahashi & Matsuoka, 1981 SPECIES
-=======
+# Leiosphaeridia minuscula Takahashi & Matsuoka, 1981 SPECIES
 
 #### Status
 ACCEPTED

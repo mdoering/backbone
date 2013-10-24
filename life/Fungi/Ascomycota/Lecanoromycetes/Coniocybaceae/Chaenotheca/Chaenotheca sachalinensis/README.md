@@ -1,5 +1,4 @@
-Chaenotheca sachalinensis M. Satô SPECIES
-=======
+# Chaenotheca sachalinensis M. Satô SPECIES
 
 #### Status
 ACCEPTED

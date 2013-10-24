@@ -1,5 +1,4 @@
-Entosordaria magnoliae (Ellis & Everh.) Höhn. SPECIES
-=======
+# Entosordaria magnoliae (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

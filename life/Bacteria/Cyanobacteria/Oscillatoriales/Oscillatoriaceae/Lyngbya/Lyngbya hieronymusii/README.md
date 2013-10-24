@@ -1,5 +1,4 @@
-Lyngbya hieronymusii Lemmermann SPECIES
-=======
+# Lyngbya hieronymusii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

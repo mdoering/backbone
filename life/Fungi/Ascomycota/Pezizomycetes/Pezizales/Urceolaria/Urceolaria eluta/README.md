@@ -1,5 +1,4 @@
-Urceolaria eluta (Nyl.) Motyka SPECIES
-=======
+# Urceolaria eluta (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

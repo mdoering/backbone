@@ -1,5 +1,4 @@
-Nodulospora inconstans Marvanová & Bärl., 2000 SPECIES
-=======
+# Nodulospora inconstans Marvanová & Bärl., 2000 SPECIES
 
 #### Status
 ACCEPTED

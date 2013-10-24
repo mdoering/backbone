@@ -1,5 +1,4 @@
-Aecidium deutziae Dietel SPECIES
-=======
+# Aecidium deutziae Dietel SPECIES
 
 #### Status
 ACCEPTED

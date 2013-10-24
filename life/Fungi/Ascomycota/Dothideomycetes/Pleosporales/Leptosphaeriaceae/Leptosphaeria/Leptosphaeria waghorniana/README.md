@@ -1,5 +1,4 @@
-Leptosphaeria waghorniana Rehm SPECIES
-=======
+# Leptosphaeria waghorniana Rehm SPECIES
 
 #### Status
 ACCEPTED

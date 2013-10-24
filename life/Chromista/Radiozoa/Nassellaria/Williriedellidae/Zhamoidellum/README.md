@@ -1,5 +1,4 @@
-Zhamoidellum Dumitrica, 1970 GENUS
-=======
+# Zhamoidellum Dumitrica, 1970 GENUS
 
 #### Status
 ACCEPTED

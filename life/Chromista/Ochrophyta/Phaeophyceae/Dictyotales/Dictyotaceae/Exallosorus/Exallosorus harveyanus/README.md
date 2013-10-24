@@ -1,5 +1,4 @@
-Exallosorus harveyanus (Pappe ex Kützing) J. A. Phillips SPECIES
-=======
+# Exallosorus harveyanus (Pappe ex Kützing) J. A. Phillips SPECIES
 
 #### Status
 ACCEPTED

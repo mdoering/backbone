@@ -1,5 +1,4 @@
-Corynophrya columbiae Wailes, 1943 SPECIES
-=======
+# Corynophrya columbiae Wailes, 1943 SPECIES
 
 #### Status
 ACCEPTED

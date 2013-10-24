@@ -1,5 +1,4 @@
-Phaeosphaeria punctillum (Rehm) L. Holm SPECIES
-=======
+# Phaeosphaeria punctillum (Rehm) L. Holm SPECIES
 
 #### Status
 ACCEPTED

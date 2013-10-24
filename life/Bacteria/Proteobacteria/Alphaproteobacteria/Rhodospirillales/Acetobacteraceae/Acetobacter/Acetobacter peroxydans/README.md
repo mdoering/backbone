@@ -1,5 +1,4 @@
-Acetobacter peroxydans Visser't Hooft, 1925 (Approved Lists, 1980) SPECIES
-=======
+# Acetobacter peroxydans Visser't Hooft, 1925 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

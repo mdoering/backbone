@@ -1,5 +1,4 @@
-Peziza pusilla Fr. SPECIES
-=======
+# Peziza pusilla Fr. SPECIES
 
 #### Status
 ACCEPTED

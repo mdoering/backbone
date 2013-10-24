@@ -1,5 +1,4 @@
-Phoma coffeae Delacr. SPECIES
-=======
+# Phoma coffeae Delacr. SPECIES
 
 #### Status
 ACCEPTED

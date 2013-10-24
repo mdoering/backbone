@@ -1,5 +1,4 @@
-Entoloma lazulinellum (Singer) E. Horak SPECIES
-=======
+# Entoloma lazulinellum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

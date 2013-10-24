@@ -1,5 +1,4 @@
-Acremonium fusisporum Tad. Ito, Okane, Nakagiri & W. Gams SPECIES
-=======
+# Acremonium fusisporum Tad. Ito, Okane, Nakagiri & W. Gams SPECIES
 
 #### Status
 ACCEPTED

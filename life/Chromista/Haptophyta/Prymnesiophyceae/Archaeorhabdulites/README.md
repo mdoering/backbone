@@ -1,5 +1,4 @@
-Archaeorhabdulites G. Deflandre, 1970 GENUS
-=======
+# Archaeorhabdulites G. Deflandre, 1970 GENUS
 
 #### Status
 ACCEPTED

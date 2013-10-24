@@ -1,5 +1,4 @@
-Calothrix bossei Frémy SPECIES
-=======
+# Calothrix bossei Frémy SPECIES
 
 #### Status
 ACCEPTED

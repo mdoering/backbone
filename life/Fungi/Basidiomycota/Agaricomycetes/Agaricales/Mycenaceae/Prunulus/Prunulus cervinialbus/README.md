@@ -1,5 +1,4 @@
-Prunulus cervinialbus Murrill SPECIES
-=======
+# Prunulus cervinialbus Murrill SPECIES
 
 #### Status
 ACCEPTED

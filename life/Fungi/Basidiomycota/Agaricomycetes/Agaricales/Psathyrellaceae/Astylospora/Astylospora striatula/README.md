@@ -1,17 +1,16 @@
-Atylospora striatula Murrill SPECIES
-=======
+# Astylospora striatula Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 14(5): 267 (1922)
 
 #### Original name
-Atylospora striatula Murrill
+Astylospora striatula Murrill
 
 ### Remarks
 null

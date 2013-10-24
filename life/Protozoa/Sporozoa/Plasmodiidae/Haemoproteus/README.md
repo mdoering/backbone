@@ -1,14 +1,13 @@
-Simondia Garnham, 1966 GENUS
-=======
+# Haemoproteus Kruse, 1890 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Arch. path. Anat. , 121, 371.
 
 #### Original name
 null

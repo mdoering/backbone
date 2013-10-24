@@ -1,5 +1,4 @@
-Otthia ulmi Fabre SPECIES
-=======
+# Otthia ulmi Fabre SPECIES
 
 #### Status
 ACCEPTED

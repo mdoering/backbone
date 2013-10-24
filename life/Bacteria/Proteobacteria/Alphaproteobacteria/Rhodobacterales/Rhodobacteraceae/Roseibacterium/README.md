@@ -1,5 +1,4 @@
-Roseibacterium Suzuki, Mori & Nishimura, 2006 GENUS
-=======
+# Roseibacterium Suzuki, Mori & Nishimura, 2006 GENUS
 
 #### Status
 ACCEPTED

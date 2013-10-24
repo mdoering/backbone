@@ -1,5 +1,4 @@
-Pharcidia badiae (Arnold) G. Winter SPECIES
-=======
+# Pharcidia badiae (Arnold) G. Winter SPECIES
 
 #### Status
 ACCEPTED

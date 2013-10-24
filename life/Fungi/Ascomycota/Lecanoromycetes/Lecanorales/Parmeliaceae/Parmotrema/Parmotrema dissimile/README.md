@@ -1,5 +1,4 @@
-Parmotrema dissimile Fleig SPECIES
-=======
+# Parmotrema dissimile Fleig SPECIES
 
 #### Status
 ACCEPTED

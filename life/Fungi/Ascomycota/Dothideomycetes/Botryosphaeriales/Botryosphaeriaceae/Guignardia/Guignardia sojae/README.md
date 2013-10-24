@@ -1,5 +1,4 @@
-Guignardia sojae Sawada SPECIES
-=======
+# Guignardia sojae Sawada SPECIES
 
 #### Status
 ACCEPTED

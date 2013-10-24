@@ -1,5 +1,4 @@
-Dendrosarcus leightonii (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus leightonii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

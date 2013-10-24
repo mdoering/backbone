@@ -1,5 +1,4 @@
-Pleospora socia Sacc. SPECIES
-=======
+# Pleospora socia Sacc. SPECIES
 
 #### Status
 ACCEPTED

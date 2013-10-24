@@ -1,5 +1,4 @@
-Thelephora papyracea Schrad. SPECIES
-=======
+# Thelephora papyracea Schrad. SPECIES
 
 #### Status
 ACCEPTED

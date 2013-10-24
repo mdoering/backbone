@@ -1,5 +1,4 @@
-Sphaceloma lagerstroemiae Wani & Thirum. SPECIES
-=======
+# Sphaceloma lagerstroemiae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

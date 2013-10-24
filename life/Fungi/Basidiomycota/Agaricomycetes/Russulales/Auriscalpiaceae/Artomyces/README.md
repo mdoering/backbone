@@ -1,5 +1,4 @@
-Artomyces GENUS
-=======
+# Artomyces GENUS
 
 #### Status
 ACCEPTED

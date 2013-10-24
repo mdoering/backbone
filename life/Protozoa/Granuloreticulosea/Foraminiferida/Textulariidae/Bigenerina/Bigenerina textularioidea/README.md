@@ -1,5 +1,4 @@
-Bigenerina textularioidea SPECIES
-=======
+# Bigenerina textularioidea SPECIES
 
 #### Status
 ACCEPTED

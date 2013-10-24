@@ -1,5 +1,4 @@
-Warnowia striata (Kofoid & Swezy) Schiller, 1933 SPECIES
-=======
+# Warnowia striata (Kofoid & Swezy) Schiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

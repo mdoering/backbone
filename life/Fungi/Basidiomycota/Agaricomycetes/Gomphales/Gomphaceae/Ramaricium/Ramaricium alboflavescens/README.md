@@ -1,17 +1,16 @@
-Serpula illudens Overh. ex W.B. Cooke, 1957 SPECIES
-=======
+# Ramaricium alboflavescens (Ellis & Everh.) Ginns, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49(2): 214 (1957)
+Bot. Notiser 132(1): 94 (1979)
 
 #### Original name
-Serpula illudens Overh. ex W.B. Cooke, 1957
+null
 
 ### Remarks
 null

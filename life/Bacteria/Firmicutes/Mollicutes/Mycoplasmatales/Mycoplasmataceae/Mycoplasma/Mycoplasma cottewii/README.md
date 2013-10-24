@@ -1,5 +1,4 @@
-Mycoplasma cottewii DaMassa et al., 1994 SPECIES
-=======
+# Mycoplasma cottewii DaMassa et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

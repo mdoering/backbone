@@ -1,5 +1,4 @@
-Cryptococcus granulomatogenes (San Felice) Vuill. ex Guég. SPECIES
-=======
+# Cryptococcus granulomatogenes (San Felice) Vuill. ex Guég. SPECIES
 
 #### Status
 ACCEPTED

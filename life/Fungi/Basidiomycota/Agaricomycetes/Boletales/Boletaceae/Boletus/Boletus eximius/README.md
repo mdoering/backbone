@@ -1,5 +1,4 @@
-Boletus eximius Peck SPECIES
-=======
+# Boletus eximius Peck SPECIES
 
 #### Status
 ACCEPTED

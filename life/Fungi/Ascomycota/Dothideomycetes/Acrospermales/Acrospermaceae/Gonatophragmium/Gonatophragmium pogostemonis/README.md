@@ -1,17 +1,16 @@
-Gonatophragmium pogostemonidis M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium pogostemonis M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers of Fungal Diversity in India (Lucknow), (Prof. Kamal Festschrift) 563 (2003)
 
 #### Original name
-Gonatophragmium pogostemonidis M.S. Tripathi & V. Tripathi
+Gonatophragmium pogostemonis M.S. Tripathi & V. Tripathi
 
 ### Remarks
 null

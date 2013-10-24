@@ -1,5 +1,4 @@
-Phoma carlinae Politis SPECIES
-=======
+# Phoma carlinae Politis SPECIES
 
 #### Status
 ACCEPTED

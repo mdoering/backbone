@@ -1,5 +1,4 @@
-Inocybe ferruginosa A.H. Sm. SPECIES
-=======
+# Inocybe ferruginosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

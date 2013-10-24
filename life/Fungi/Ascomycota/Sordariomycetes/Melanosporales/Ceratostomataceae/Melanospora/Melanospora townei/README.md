@@ -1,5 +1,4 @@
-Melanospora townei Griffiths SPECIES
-=======
+# Melanospora townei Griffiths SPECIES
 
 #### Status
 ACCEPTED

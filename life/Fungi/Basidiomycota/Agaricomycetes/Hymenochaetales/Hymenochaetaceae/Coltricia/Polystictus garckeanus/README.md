@@ -1,5 +1,4 @@
-Polystictus garckeanus Henn. ex Sacc. SPECIES
-=======
+# Polystictus garckeanus Henn. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heimiodora verticulata Nicot SPECIES
-=======
+# Heimiodora verticulata Nicot SPECIES
 
 #### Status
 ACCEPTED

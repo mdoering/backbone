@@ -1,5 +1,4 @@
-Solenodonta brevicornis (S. Ito) Syd. SPECIES
-=======
+# Solenodonta brevicornis (S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

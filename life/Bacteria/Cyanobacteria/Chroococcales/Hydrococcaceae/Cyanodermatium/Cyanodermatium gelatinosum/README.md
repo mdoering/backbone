@@ -1,5 +1,4 @@
-Cyanodermatium gelatinosum Geitler SPECIES
-=======
+# Cyanodermatium gelatinosum Geitler SPECIES
 
 #### Status
 ACCEPTED

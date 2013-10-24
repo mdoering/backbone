@@ -1,5 +1,4 @@
-Marasmius direptus Berk. SPECIES
-=======
+# Marasmius direptus Berk. SPECIES
 
 #### Status
 ACCEPTED

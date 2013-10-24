@@ -1,5 +1,4 @@
-Arthrorhaphis aeruginosa R. Sant. & Tønsberg SPECIES
-=======
+# Arthrorhaphis aeruginosa R. Sant. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

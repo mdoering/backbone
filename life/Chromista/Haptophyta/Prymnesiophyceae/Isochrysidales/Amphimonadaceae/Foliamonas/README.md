@@ -1,5 +1,4 @@
-Foliamonas B.V. Skvortzov, 1958 GENUS
-=======
+# Foliamonas B.V. Skvortzov, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia capsici Sarej. SPECIES
-=======
+# Microdiplodia capsici Sarej. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne valdobbiensis (Bagl. & Carestia) Jatta SPECIES
-=======
+# Sarcogyne valdobbiensis (Bagl. & Carestia) Jatta SPECIES
 
 #### Status
 ACCEPTED

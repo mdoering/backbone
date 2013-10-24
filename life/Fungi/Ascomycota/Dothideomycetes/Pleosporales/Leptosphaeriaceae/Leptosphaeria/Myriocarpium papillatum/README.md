@@ -1,5 +1,4 @@
-Myriocarpium papillatum Bonord. SPECIES
-=======
+# Myriocarpium papillatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

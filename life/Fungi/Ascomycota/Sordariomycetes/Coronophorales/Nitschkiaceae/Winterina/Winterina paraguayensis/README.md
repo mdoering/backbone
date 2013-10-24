@@ -1,5 +1,4 @@
-Winterina paraguayensis (Speg.) Rehm SPECIES
-=======
+# Winterina paraguayensis (Speg.) Rehm SPECIES
 
 #### Status
 ACCEPTED

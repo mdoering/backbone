@@ -1,5 +1,4 @@
-Vitalia jaboatonensis Bat., Nascim. & Cif. SPECIES
-=======
+# Vitalia jaboatonensis Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

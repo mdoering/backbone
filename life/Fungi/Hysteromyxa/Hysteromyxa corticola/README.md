@@ -1,5 +1,4 @@
-Hysteromyxa corticola Ellis & Everh. SPECIES
-=======
+# Hysteromyxa corticola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

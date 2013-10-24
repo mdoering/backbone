@@ -1,17 +1,16 @@
-Acrodictys elaeidis var. elaeidis VARIETY
-=======
+# Acrodictys elaeidis J.M. Yen & Sulmont, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Cahiers de La Maboké 8(1): 35 (1970)
 
 #### Original name
-Acrodictys elaeidis var. elaeidis
+Acrodictys elaeidis J.M. Yen & Sulmont, 1970
 
 ### Remarks
 null

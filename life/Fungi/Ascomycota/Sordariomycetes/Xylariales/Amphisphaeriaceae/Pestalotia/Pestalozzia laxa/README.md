@@ -1,5 +1,4 @@
-Pestalozzia laxa Thwaites SPECIES
-=======
+# Pestalozzia laxa Thwaites SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora coriandri Rjach. SPECIES
-=======
+# Cercospora coriandri Rjach. SPECIES
 
 #### Status
 ACCEPTED

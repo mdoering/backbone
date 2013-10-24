@@ -1,5 +1,4 @@
-Arthopyrenia maurospila (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia maurospila (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

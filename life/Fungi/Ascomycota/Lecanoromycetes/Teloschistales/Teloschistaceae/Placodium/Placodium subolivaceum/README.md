@@ -1,5 +1,4 @@
-Placodium subolivaceum (Th. Fr.) M. Laur. {?} SPECIES
-=======
+# Placodium subolivaceum (Th. Fr.) M. Laur. {?} SPECIES
 
 #### Status
 ACCEPTED

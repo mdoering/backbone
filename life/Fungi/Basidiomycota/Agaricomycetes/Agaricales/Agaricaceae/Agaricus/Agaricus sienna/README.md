@@ -1,5 +1,4 @@
-Agaricus sienna Peck SPECIES
-=======
+# Agaricus sienna Peck SPECIES
 
 #### Status
 ACCEPTED

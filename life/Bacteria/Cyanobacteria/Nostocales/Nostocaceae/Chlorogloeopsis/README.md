@@ -1,5 +1,4 @@
-Chlorogloeopsis Mitra & Pandey, 1967 GENUS
-=======
+# Chlorogloeopsis Mitra & Pandey, 1967 GENUS
 
 #### Status
 ACCEPTED

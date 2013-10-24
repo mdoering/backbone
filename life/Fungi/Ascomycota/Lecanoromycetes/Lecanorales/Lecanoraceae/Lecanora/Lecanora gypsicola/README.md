@@ -1,5 +1,4 @@
-Lecanora gypsicola St. Clair & C.C. Newb. SPECIES
-=======
+# Lecanora gypsicola St. Clair & C.C. Newb. SPECIES
 
 #### Status
 ACCEPTED

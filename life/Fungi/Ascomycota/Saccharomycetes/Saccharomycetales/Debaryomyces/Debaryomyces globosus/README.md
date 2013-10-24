@@ -1,5 +1,4 @@
-Debaryomyces globosus Klöcker SPECIES
-=======
+# Debaryomyces globosus Klöcker SPECIES
 
 #### Status
 ACCEPTED

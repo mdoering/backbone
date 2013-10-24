@@ -1,5 +1,4 @@
-Pseudocercospora menispermacearum P. Kumar & Kamal SPECIES
-=======
+# Pseudocercospora menispermacearum P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

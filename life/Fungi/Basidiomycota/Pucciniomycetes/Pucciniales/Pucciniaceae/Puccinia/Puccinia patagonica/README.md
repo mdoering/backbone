@@ -1,5 +1,4 @@
-Puccinia patagonica Speg. SPECIES
-=======
+# Puccinia patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

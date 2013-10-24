@@ -1,5 +1,4 @@
-Penicillium cyaneum (Bainier & Sartory) Biourge ex Thom, 1930 SPECIES
-=======
+# Penicillium cyaneum (Bainier & Sartory) Biourge ex Thom, 1930 SPECIES
 
 #### Status
 DOUBTFUL

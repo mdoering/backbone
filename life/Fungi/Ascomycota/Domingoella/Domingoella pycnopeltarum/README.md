@@ -1,5 +1,4 @@
-Domingoella pycnopeltarum Bat. SPECIES
-=======
+# Domingoella pycnopeltarum Bat. SPECIES
 
 #### Status
 ACCEPTED

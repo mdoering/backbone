@@ -1,5 +1,4 @@
-Podohydnangium G.W. Beaton, Pegler & T.W.K. Young GENUS
-=======
+# Podohydnangium G.W. Beaton, Pegler & T.W.K. Young GENUS
 
 #### Status
 ACCEPTED

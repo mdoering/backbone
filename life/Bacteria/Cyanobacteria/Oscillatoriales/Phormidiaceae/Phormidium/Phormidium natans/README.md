@@ -1,5 +1,4 @@
-Phormidium natans (Gomont) P. A. C. Senna & P. Compère SPECIES
-=======
+# Phormidium natans (Gomont) P. A. C. Senna & P. Compère SPECIES
 
 #### Status
 ACCEPTED

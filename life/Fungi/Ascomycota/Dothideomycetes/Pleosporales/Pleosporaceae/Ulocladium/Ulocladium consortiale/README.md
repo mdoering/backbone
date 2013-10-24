@@ -1,17 +1,16 @@
-Alternaria consortialis var. consortialis VARIETY
-=======
+# Ulocladium consortiale (Thüm.) E.G. Simmons, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hughes, Can. J. Bot. 31: 636 (1953)
+Mycologia 59(1): 84 (1967)
 
 #### Original name
-Alternaria consortialis var. consortialis
+Macrosporium consortiale Thüm., 1876
 
 ### Remarks
 null

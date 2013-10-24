@@ -1,5 +1,4 @@
-Coronellaria delitschiana (Auersw.) P. Karst., 1870 SPECIES
-=======
+# Coronellaria delitschiana (Auersw.) P. Karst., 1870 SPECIES
 
 #### Status
 ACCEPTED

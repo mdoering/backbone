@@ -1,5 +1,4 @@
-Phyllosticta chriatianicola SPECIES
-=======
+# Phyllosticta chriatianicola SPECIES
 
 #### Status
 ACCEPTED

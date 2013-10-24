@@ -1,5 +1,4 @@
-Acanthothecis leucoxantha (Müll. Arg.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis leucoxantha (Müll. Arg.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

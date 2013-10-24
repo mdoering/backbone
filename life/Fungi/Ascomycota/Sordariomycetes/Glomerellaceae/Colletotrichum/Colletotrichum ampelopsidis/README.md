@@ -1,5 +1,4 @@
-Colletotrichum ampelopsidis Sawada SPECIES
-=======
+# Colletotrichum ampelopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

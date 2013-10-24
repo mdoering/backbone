@@ -1,5 +1,4 @@
-Agyrium chartarum Peyl SPECIES
-=======
+# Agyrium chartarum Peyl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora sambucina (Peck) M.E. Barr SPECIES
-=======
+# Dothiora sambucina (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

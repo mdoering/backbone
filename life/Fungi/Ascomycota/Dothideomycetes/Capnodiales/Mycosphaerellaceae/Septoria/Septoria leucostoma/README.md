@@ -1,5 +1,4 @@
-Septoria leucostoma Ellis SPECIES
-=======
+# Septoria leucostoma Ellis SPECIES
 
 #### Status
 ACCEPTED

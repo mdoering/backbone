@@ -1,5 +1,4 @@
-Gymnopilus depressus Murrill SPECIES
-=======
+# Gymnopilus depressus Murrill SPECIES
 
 #### Status
 ACCEPTED

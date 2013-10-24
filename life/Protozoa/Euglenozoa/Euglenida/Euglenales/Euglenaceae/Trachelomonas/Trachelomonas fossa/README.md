@@ -1,5 +1,4 @@
-Trachelomonas fossa Skvortsov SPECIES
-=======
+# Trachelomonas fossa Skvortsov SPECIES
 
 #### Status
 ACCEPTED

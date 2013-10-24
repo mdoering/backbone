@@ -1,5 +1,4 @@
-Dothidea linderae W.R. Gerard SPECIES
-=======
+# Dothidea linderae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

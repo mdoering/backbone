@@ -1,5 +1,4 @@
-Physcia venustula Stizenb. SPECIES
-=======
+# Physcia venustula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora zambiae Crous & T.A. Cout. SPECIES
-=======
+# Passalora zambiae Crous & T.A. Cout. SPECIES
 
 #### Status
 ACCEPTED

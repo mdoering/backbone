@@ -1,5 +1,4 @@
-Lembosia lophirae Syd. SPECIES
-=======
+# Lembosia lophirae Syd. SPECIES
 
 #### Status
 ACCEPTED

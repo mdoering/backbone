@@ -1,5 +1,4 @@
-Erniella Foissner, 1987 GENUS
-=======
+# Erniella Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

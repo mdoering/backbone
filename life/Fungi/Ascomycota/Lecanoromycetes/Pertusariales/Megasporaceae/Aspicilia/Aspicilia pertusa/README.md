@@ -1,5 +1,4 @@
-Aspicilia pertusa (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia pertusa (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

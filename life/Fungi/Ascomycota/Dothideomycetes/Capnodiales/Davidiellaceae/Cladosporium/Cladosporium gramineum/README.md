@@ -1,5 +1,4 @@
-Cladosporium gramineum (Pers.) Link SPECIES
-=======
+# Cladosporium gramineum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

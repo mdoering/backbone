@@ -1,5 +1,4 @@
-Sargassum frutescens Tseng & Lu SPECIES
-=======
+# Sargassum frutescens Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

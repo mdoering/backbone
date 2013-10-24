@@ -1,5 +1,4 @@
-Albugo achyranthis (Henn.) Miyabe SPECIES
-=======
+# Albugo achyranthis (Henn.) Miyabe SPECIES
 
 #### Status
 ACCEPTED

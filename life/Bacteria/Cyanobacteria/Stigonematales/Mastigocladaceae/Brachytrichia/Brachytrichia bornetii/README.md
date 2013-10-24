@@ -1,5 +1,4 @@
-Brachytrichia bornetii K.N. Deckenbach SPECIES
-=======
+# Brachytrichia bornetii K.N. Deckenbach SPECIES
 
 #### Status
 ACCEPTED

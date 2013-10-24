@@ -1,5 +1,4 @@
-Walterparria Wynn Jones, 1984 GENUS
-=======
+# Walterparria Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

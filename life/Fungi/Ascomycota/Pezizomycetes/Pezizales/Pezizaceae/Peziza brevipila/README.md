@@ -1,5 +1,4 @@
-Peziza brevipila Ripart SPECIES
-=======
+# Peziza brevipila Ripart SPECIES
 
 #### Status
 ACCEPTED

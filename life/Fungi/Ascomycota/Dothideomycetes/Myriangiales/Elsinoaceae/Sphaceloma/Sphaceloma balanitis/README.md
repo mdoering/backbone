@@ -1,5 +1,4 @@
-Sphaceloma balanitis Thirum. & Naras. SPECIES
-=======
+# Sphaceloma balanitis Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

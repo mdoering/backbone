@@ -1,14 +1,13 @@
-Aleuria recedens Boud., 1898 SPECIES
-=======
+# Peziza recedens (Boud.) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 14: 18 (1898)
+Syll. fung. (Abellini) 16: 704 (1902)
 
 #### Original name
 Aleuria recedens Boud., 1898

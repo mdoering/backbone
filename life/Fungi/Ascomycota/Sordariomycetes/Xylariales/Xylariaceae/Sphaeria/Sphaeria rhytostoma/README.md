@@ -1,5 +1,4 @@
-Sphaeria rhytostoma Fr. SPECIES
-=======
+# Sphaeria rhytostoma Fr. SPECIES
 
 #### Status
 ACCEPTED

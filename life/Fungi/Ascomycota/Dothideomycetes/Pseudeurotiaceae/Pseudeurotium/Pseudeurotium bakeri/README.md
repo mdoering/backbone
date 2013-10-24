@@ -1,14 +1,13 @@
-Pleuroascus bakeri (C. Booth) Lodha, 1978 SPECIES
-=======
+# Pseudeurotium bakeri C. Booth, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Subramanian (Ed. ), Taxonomy of Fungi (Proc. int. Symp. Madras, 1973), Pt 1 244 (1978)
+Mycol. Pap. 83: 8 (1961)
 
 #### Original name
 Pseudeurotium bakeri C. Booth, 1961

@@ -1,5 +1,4 @@
-Polystictus adami (Berk. ex Cooke) Cooke SPECIES
-=======
+# Polystictus adami (Berk. ex Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

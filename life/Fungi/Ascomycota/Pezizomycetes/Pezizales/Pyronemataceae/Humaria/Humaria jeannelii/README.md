@@ -1,5 +1,4 @@
-Humaria jeannelii (Lagarde) Sacc. SPECIES
-=======
+# Humaria jeannelii (Lagarde) Sacc. SPECIES
 
 #### Status
 ACCEPTED

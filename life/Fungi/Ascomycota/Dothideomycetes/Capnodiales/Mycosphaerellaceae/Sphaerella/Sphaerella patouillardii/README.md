@@ -1,5 +1,4 @@
-Sphaerella patouillardii subsp. patouillardii SUBSPECIES
-=======
+# Sphaerella patouillardii Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 9: 635 (1891)
 
 #### Original name
-Sphaerella patouillardii subsp. patouillardii
+Sphaerella patouillardii Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Irenina penicilliformis (Gaillard) F. Stevens SPECIES
-=======
+# Irenina penicilliformis (Gaillard) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

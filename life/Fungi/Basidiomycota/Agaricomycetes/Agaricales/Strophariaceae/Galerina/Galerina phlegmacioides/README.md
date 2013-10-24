@@ -1,5 +1,4 @@
-Galerina phlegmacioides Singer SPECIES
-=======
+# Galerina phlegmacioides Singer SPECIES
 
 #### Status
 ACCEPTED

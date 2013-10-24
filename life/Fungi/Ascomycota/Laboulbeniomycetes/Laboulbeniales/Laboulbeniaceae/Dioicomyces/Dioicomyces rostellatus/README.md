@@ -1,5 +1,4 @@
-Dioicomyces rostellatus Speg. SPECIES
-=======
+# Dioicomyces rostellatus Speg. SPECIES
 
 #### Status
 ACCEPTED

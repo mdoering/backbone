@@ -1,5 +1,4 @@
-Alboleptonia hyalodepas (Berk. & Broome) Pegler SPECIES
-=======
+# Alboleptonia hyalodepas (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia cyparissa Cooke & Harkn. SPECIES
-=======
+# Diplodia cyparissa Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

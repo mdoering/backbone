@@ -1,5 +1,4 @@
-Phoma arachnoides K. Gerber SPECIES
-=======
+# Phoma arachnoides K. Gerber SPECIES
 
 #### Status
 ACCEPTED

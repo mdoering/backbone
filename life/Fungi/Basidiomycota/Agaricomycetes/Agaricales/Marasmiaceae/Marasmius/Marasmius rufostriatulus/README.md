@@ -1,5 +1,4 @@
-Marasmius rufostriatulus Mont. SPECIES
-=======
+# Marasmius rufostriatulus Mont. SPECIES
 
 #### Status
 ACCEPTED

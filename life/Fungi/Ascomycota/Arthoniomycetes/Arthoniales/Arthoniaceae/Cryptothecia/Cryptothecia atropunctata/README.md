@@ -1,5 +1,4 @@
-Cryptothecia atropunctata G. Thor SPECIES
-=======
+# Cryptothecia atropunctata G. Thor SPECIES
 
 #### Status
 ACCEPTED

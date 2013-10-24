@@ -1,5 +1,4 @@
-Jacobia Arnaud, 1952 GENUS
-=======
+# Jacobia Arnaud, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermatodium amazonicum Trevis. SPECIES
-=======
+# Spermatodium amazonicum Trevis. SPECIES
 
 #### Status
 ACCEPTED

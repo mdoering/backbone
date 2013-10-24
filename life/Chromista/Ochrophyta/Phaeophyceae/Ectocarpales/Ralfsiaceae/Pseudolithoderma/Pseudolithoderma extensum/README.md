@@ -1,8 +1,7 @@
-Ralfsia extensa P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Pseudolithoderma extensum (P.L. Crouan & H.M. Crouan) S. Lund SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

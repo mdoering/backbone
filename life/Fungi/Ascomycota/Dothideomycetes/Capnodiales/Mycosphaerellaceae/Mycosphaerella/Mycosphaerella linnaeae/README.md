@@ -1,5 +1,4 @@
-Mycosphaerella linnaeae M.E. Barr SPECIES
-=======
+# Mycosphaerella linnaeae M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

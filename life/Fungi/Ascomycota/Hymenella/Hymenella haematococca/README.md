@@ -1,5 +1,4 @@
-Hymenella haematococca Berk. & M.A. Curtis SPECIES
-=======
+# Hymenella haematococca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudosaccharomyces santacruzensis Klöcker, 1912 SPECIES
-=======
+# Hanseniaspora osmophila (Niehaus) Phaff, M.W. Mill. & Shifrine, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 22: (1956)
 
 #### Original name
-null
+Kloeckeraspora osmophila Niehaus, 1932
 
 ### Remarks
 null

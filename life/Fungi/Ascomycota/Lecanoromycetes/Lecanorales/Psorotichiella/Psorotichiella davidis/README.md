@@ -1,14 +1,13 @@
-Lichinella davidis (Werner) S.Y. Kondr. SPECIES
-=======
+# Psorotichiella davidis Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ukr. bot. Zh. 59(5): 604 (2002)
+Bull. Soc. bot. Fr. 102: 350 (1955)
 
 #### Original name
 Psorotichiella davidis Werner

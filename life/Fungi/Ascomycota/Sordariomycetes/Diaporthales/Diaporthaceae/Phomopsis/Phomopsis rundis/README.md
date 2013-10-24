@@ -1,5 +1,4 @@
-Phomopsis rundis (Nitschke) Höhn. SPECIES
-=======
+# Phomopsis rundis (Nitschke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

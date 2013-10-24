@@ -1,14 +1,13 @@
-Didymella millepunctata (Sacc.) Theiss. & Syd., 1914 SPECIES
-=======
+# Dothidella millepunctata (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(3): 270 (1914)
+Syll. fung. (Abellini) 2: 632 (1883)
 
 #### Original name
 Dothidea millepunctata Desm., 1847

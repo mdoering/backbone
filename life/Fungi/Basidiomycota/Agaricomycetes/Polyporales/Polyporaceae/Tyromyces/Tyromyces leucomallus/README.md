@@ -1,5 +1,4 @@
-Tyromyces leucomallus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Tyromyces leucomallus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

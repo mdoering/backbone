@@ -1,5 +1,4 @@
-Ascocoryne tasmanica (Berk.) SPECIES
-=======
+# Ascocoryne tasmanica (Berk.) SPECIES
 
 #### Status
 ACCEPTED

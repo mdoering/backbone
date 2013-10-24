@@ -1,5 +1,4 @@
-Phyllosticta gelsemii var. gelsemii VARIETY
-=======
+# Phyllosticta gelsemii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta gelsemii var. gelsemii
+Phyllosticta gelsemii Ellis & Everh.
 
 ### Remarks
 null

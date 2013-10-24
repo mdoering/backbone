@@ -1,5 +1,4 @@
-Sphaerella proustiae Speg. SPECIES
-=======
+# Sphaerella proustiae Speg. SPECIES
 
 #### Status
 ACCEPTED

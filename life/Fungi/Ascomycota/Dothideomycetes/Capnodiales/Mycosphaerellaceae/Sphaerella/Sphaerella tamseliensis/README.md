@@ -1,5 +1,4 @@
-Sphaerella tamseliensis Kirschst. SPECIES
-=======
+# Sphaerella tamseliensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

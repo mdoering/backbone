@@ -1,5 +1,4 @@
-Puccinia hierochloae S. Ito SPECIES
-=======
+# Puccinia hierochloae S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora fulva (Anzi) Harm. SPECIES
-=======
+# Lecanora fulva (Anzi) Harm. SPECIES
 
 #### Status
 ACCEPTED

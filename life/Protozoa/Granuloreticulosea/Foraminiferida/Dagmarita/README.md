@@ -1,5 +1,4 @@
-Dagmarita Reitlinger, 1965 GENUS
-=======
+# Dagmarita Reitlinger, 1965 GENUS
 
 #### Status
 ACCEPTED

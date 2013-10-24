@@ -1,5 +1,4 @@
-Marasmius acanthocheilus Desjardin & E. Horak SPECIES
-=======
+# Marasmius acanthocheilus Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

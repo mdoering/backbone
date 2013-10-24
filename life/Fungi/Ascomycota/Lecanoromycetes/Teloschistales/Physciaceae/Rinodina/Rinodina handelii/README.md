@@ -1,5 +1,4 @@
-Rinodina handelii SPECIES
-=======
+# Rinodina handelii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aurea G.Z. Wang SPECIES
-=======
+# Phyllosticta aurea G.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Wuestneia karvarrae (B. Sutton & Pascoe) Z.Q. Yuan, 1997 SPECIES
-=======
+# Wuestneia karwarrae (B. Sutton & Pascoe) Z.Q. Yuan, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Alternaria graminum (Cooke) P. Joly SPECIES
-=======
+# Alternaria graminum (Cooke) P. Joly SPECIES
 
 #### Status
 ACCEPTED

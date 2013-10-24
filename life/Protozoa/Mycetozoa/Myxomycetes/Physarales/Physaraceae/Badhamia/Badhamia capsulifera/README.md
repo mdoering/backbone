@@ -1,17 +1,16 @@
-Physarum hyalinum var. chalybaeum Alb. & Schwein. VARIETY
-=======
+# Badhamia capsulifera (Bull.) Berk., 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 92 (1805)
+Trans. Linn. Soc. London 21: 153 (1853)
 
 #### Original name
-Physarum hyalinum var. chalybaeum Alb. & Schwein.
+Badhamia capsulifera (Bull.) Berk., 1853
 
 ### Remarks
 null

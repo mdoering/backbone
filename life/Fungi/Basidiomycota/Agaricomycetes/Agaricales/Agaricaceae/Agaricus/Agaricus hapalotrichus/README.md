@@ -1,5 +1,4 @@
-Agaricus hapalotrichus Berk. & Broome SPECIES
-=======
+# Agaricus hapalotrichus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

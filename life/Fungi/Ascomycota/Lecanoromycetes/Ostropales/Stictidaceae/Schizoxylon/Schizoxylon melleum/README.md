@@ -1,5 +1,4 @@
-Schizoxylon melleum (Dearn. & House) Sherwood SPECIES
-=======
+# Schizoxylon melleum (Dearn. & House) Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirulina schroederi Koppe SPECIES
-=======
+# Spirulina schroederi Koppe SPECIES
 
 #### Status
 ACCEPTED

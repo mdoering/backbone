@@ -1,5 +1,4 @@
-Bovista perpusilla Speg. SPECIES
-=======
+# Bovista perpusilla Speg. SPECIES
 
 #### Status
 ACCEPTED

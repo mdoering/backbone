@@ -1,8 +1,7 @@
-Ascochyta evonymi Pass. SPECIES
-=======
+# Ascochyta euonymi Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta evonymi Pass.
+Ascochyta euonymi Pass.
 
 ### Remarks
 null

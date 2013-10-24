@@ -1,5 +1,4 @@
-Amanita hunanensis Y.B. Peng & L.J. Liu SPECIES
-=======
+# Amanita hunanensis Y.B. Peng & L.J. Liu SPECIES
 
 #### Status
 ACCEPTED

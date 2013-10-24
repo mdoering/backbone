@@ -1,5 +1,4 @@
-Agaricus subfloridanus Murrill SPECIES
-=======
+# Agaricus subfloridanus Murrill SPECIES
 
 #### Status
 ACCEPTED

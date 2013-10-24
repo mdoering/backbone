@@ -1,5 +1,4 @@
-Biatorina glaucomela (Nyl.) SPECIES
-=======
+# Biatorina glaucomela (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

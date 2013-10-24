@@ -1,5 +1,4 @@
-Mesocena annulus Haeckel SPECIES
-=======
+# Mesocena annulus Haeckel SPECIES
 
 #### Status
 ACCEPTED

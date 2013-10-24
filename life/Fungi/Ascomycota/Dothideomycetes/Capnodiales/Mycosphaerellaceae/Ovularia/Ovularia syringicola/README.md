@@ -1,17 +1,16 @@
-Ovularia syringaecola M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Ovularia syringicola M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Portug. acta biol. 342 (1954)
 
 #### Original name
-Ovularia syringaecola M.E.A. Costa & Sousa da Câmara
+Ovularia syringicola M.E.A. Costa & Sousa da Câmara
 
 ### Remarks
 null

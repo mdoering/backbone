@@ -1,5 +1,4 @@
-Rhizocarpon fruticosum Räsänen SPECIES
-=======
+# Rhizocarpon fruticosum Räsänen SPECIES
 
 #### Status
 ACCEPTED

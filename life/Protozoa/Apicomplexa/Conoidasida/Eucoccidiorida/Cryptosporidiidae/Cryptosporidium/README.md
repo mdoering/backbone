@@ -1,14 +1,13 @@
-Piscicryptosporidium Paperna & Vilenkin, 1996 GENUS
-=======
+# Cryptosporidium Tyzzer, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Soc. exp. Biol. Med. , 5, 12.
 
 #### Original name
 null

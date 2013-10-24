@@ -1,5 +1,4 @@
-Tribonema raciborskii Heering SPECIES
-=======
+# Tribonema raciborskii Heering SPECIES
 
 #### Status
 ACCEPTED

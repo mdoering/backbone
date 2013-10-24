@@ -1,5 +1,4 @@
-Humaria subgranulata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Humaria subgranulata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

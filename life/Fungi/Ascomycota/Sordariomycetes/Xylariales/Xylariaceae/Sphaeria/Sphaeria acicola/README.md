@@ -1,5 +1,4 @@
-Sphaeria acicola Lib. SPECIES
-=======
+# Sphaeria acicola Lib. SPECIES
 
 #### Status
 ACCEPTED

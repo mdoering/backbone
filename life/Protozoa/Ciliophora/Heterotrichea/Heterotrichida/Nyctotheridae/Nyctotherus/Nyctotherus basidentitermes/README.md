@@ -1,5 +1,4 @@
-Nyctotherus basidentitermes Gisler, 1967 SPECIES
-=======
+# Nyctotherus basidentitermes Gisler, 1967 SPECIES
 
 #### Status
 ACCEPTED

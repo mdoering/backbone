@@ -1,5 +1,4 @@
-Thelephora cellaris Fr. SPECIES
-=======
+# Thelephora cellaris Fr. SPECIES
 
 #### Status
 ACCEPTED

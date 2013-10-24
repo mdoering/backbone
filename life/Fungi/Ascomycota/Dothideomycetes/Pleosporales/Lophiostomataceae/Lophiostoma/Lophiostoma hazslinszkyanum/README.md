@@ -1,5 +1,4 @@
-Lophiostoma hazslinszkyanum Sacc. & P. Syd. SPECIES
-=======
+# Lophiostoma hazslinszkyanum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

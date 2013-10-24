@@ -1,5 +1,4 @@
-Scindalma neesii (Fr.) Kuntze SPECIES
-=======
+# Scindalma neesii (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

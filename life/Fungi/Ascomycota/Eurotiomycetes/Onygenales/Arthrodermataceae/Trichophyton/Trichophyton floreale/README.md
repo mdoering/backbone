@@ -1,5 +1,4 @@
-Trichophyton floreale Cazalbou SPECIES
-=======
+# Trichophyton floreale Cazalbou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sycina Traverso SPECIES
-=======
+# Phyllosticta sycina Traverso SPECIES
 
 #### Status
 ACCEPTED

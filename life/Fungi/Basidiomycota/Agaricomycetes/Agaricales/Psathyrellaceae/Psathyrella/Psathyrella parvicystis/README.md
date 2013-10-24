@@ -1,5 +1,4 @@
-Psathyrella parvicystis A.H. Sm. SPECIES
-=======
+# Psathyrella parvicystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

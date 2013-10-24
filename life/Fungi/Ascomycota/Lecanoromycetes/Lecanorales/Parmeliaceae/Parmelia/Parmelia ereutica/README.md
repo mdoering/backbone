@@ -1,5 +1,4 @@
-Parmelia ereutica Wahlenb. SPECIES
-=======
+# Parmelia ereutica Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

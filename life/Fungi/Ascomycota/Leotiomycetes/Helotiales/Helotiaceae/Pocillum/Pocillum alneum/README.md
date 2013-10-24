@@ -1,5 +1,4 @@
-Pocillum alneum (Fr.) Gillet SPECIES
-=======
+# Pocillum alneum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

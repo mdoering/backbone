@@ -1,5 +1,4 @@
-Agaricus fastibilis-parvulus Secr. SPECIES
-=======
+# Agaricus fastibilis-parvulus Secr. SPECIES
 
 #### Status
 ACCEPTED

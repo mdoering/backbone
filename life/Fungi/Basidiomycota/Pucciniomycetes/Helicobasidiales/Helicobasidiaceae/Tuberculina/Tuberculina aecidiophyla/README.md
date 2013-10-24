@@ -1,14 +1,13 @@
-Tuberculina aecidiophila (Speg.) Pat. SPECIES
-=======
+# Tuberculina aecidiophyla (Speg.) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 93 (1903)
 
 #### Original name
 Gloeosporium aecidiophylum Speg.

@@ -1,5 +1,4 @@
-Ascotaiwania lignicola Sivan. & H.S. Chang, 1992 SPECIES
-=======
+# Ascotaiwania lignicola Sivan. & H.S. Chang, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystogomphus Singer GENUS
-=======
+# Cystogomphus Singer GENUS
 
 #### Status
 ACCEPTED

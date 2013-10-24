@@ -1,5 +1,4 @@
-Parmelia prasiochroa G. Mey. SPECIES
-=======
+# Parmelia prasiochroa G. Mey. SPECIES
 
 #### Status
 ACCEPTED

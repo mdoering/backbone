@@ -1,5 +1,4 @@
-Dothiorella senecionis (J.V. Almeida & Sousa da Câmara) Petr. SPECIES
-=======
+# Dothiorella senecionis (J.V. Almeida & Sousa da Câmara) Petr. SPECIES
 
 #### Status
 ACCEPTED

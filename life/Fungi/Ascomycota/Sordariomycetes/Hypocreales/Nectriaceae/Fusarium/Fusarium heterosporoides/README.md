@@ -1,5 +1,4 @@
-Fusarium heterosporoides Fautrey SPECIES
-=======
+# Fusarium heterosporoides Fautrey SPECIES
 
 #### Status
 ACCEPTED

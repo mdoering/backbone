@@ -1,5 +1,4 @@
-Lecanora smithii (Ach.) Ach. SPECIES
-=======
+# Lecanora smithii (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelolophos Foissner & Dragesco, 1996 GENUS
-=======
+# Trachelolophos Foissner & Dragesco, 1996 GENUS
 
 #### Status
 ACCEPTED

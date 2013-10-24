@@ -1,5 +1,4 @@
-Schizochytriodinium calani M. Elbrächter SPECIES
-=======
+# Schizochytriodinium calani M. Elbrächter SPECIES
 
 #### Status
 ACCEPTED

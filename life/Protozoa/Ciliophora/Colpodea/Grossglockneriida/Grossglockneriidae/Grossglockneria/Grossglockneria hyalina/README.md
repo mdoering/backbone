@@ -1,5 +1,4 @@
-Grossglockneria hyalina Foissner, 1985 SPECIES
-=======
+# Grossglockneria hyalina Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

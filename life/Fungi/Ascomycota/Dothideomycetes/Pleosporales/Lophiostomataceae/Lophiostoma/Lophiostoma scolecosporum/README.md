@@ -1,5 +1,4 @@
-Lophiostoma scolecosporum Sacc. SPECIES
-=======
+# Lophiostoma scolecosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

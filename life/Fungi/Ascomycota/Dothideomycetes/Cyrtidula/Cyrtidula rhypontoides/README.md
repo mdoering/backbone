@@ -1,5 +1,4 @@
-Cyrtidula rhypontoides (Nyl.) Minks SPECIES
-=======
+# Cyrtidula rhypontoides (Nyl.) Minks SPECIES
 
 #### Status
 ACCEPTED

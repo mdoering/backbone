@@ -1,5 +1,4 @@
-Epicoccum herbarum Corda SPECIES
-=======
+# Epicoccum herbarum Corda SPECIES
 
 #### Status
 ACCEPTED

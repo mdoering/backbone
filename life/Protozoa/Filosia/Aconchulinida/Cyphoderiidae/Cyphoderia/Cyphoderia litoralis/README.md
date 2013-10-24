@@ -1,5 +1,4 @@
-Cyphoderia litoralis Golemansky, 1973 SPECIES
-=======
+# Cyphoderia litoralis Golemansky, 1973 SPECIES
 
 #### Status
 ACCEPTED

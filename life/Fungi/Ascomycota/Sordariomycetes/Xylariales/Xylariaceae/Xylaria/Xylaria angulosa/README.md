@@ -1,5 +1,4 @@
-Xylaria angulosa J.D. Rogers, Callan & Samuels SPECIES
-=======
+# Xylaria angulosa J.D. Rogers, Callan & Samuels SPECIES
 
 #### Status
 ACCEPTED

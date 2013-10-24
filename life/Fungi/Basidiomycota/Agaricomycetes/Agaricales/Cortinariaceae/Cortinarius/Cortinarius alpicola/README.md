@@ -1,5 +1,4 @@
-Cortinarius alpicola (Bon) Bon SPECIES
-=======
+# Cortinarius alpicola (Bon) Bon SPECIES
 
 #### Status
 ACCEPTED

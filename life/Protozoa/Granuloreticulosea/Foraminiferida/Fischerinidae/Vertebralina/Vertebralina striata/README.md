@@ -1,5 +1,4 @@
-Vertebralina striata var. reticulosa Cushman, 1921 VARIETY
-=======
+# Vertebralina striata d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

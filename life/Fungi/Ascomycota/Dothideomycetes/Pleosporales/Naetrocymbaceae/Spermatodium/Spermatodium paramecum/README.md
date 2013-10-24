@@ -1,5 +1,4 @@
-Spermatodium paramecum (A. Massal.) Trevis. SPECIES
-=======
+# Spermatodium paramecum (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

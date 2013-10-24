@@ -1,5 +1,4 @@
-Exidia tenax Cooke SPECIES
-=======
+# Exidia tenax Cooke SPECIES
 
 #### Status
 ACCEPTED

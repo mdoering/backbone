@@ -1,5 +1,4 @@
-Lecidea paschalis Zahlbr. SPECIES
-=======
+# Lecidea paschalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

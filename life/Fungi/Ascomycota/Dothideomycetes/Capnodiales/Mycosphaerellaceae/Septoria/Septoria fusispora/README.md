@@ -1,5 +1,4 @@
-Septoria fusispora Golovin SPECIES
-=======
+# Septoria fusispora Golovin SPECIES
 
 #### Status
 ACCEPTED

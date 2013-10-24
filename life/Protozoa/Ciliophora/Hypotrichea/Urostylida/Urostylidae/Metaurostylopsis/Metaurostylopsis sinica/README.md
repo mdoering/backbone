@@ -1,5 +1,4 @@
-Metaurostylopsis sinica Shao, Miao, Song, Warren, Al-Rasheid, Al-Quraishy & Al-Farraj, 2008 SPECIES
-=======
+# Metaurostylopsis sinica Shao, Miao, Song, Warren, Al-Rasheid, Al-Quraishy & Al-Farraj, 2008 SPECIES
 
 #### Status
 ACCEPTED

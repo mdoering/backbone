@@ -1,5 +1,4 @@
-Lecythothecium duriligni Réblová & Winka, 2001 SPECIES
-=======
+# Lecythothecium duriligni Réblová & Winka, 2001 SPECIES
 
 #### Status
 ACCEPTED

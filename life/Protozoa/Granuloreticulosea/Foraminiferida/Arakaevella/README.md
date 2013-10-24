@@ -1,5 +1,4 @@
-Arakaevella Pronina, 1963 GENUS
-=======
+# Arakaevella Pronina, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta betonica Allesch. SPECIES
-=======
+# Phyllosticta betonica Allesch. SPECIES
 
 #### Status
 ACCEPTED

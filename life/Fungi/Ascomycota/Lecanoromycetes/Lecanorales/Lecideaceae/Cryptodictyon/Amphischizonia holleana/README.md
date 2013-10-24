@@ -1,5 +1,4 @@
-Amphischizonia holleana (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Amphischizonia holleana (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

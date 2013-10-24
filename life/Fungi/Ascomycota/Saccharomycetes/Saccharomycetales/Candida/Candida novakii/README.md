@@ -1,5 +1,4 @@
-Candida novakii G. Péter, Tornai-Leh. & T. Deák, 1997 SPECIES
-=======
+# Candida novakii G. Péter, Tornai-Leh. & T. Deák, 1997 SPECIES
 
 #### Status
 ACCEPTED

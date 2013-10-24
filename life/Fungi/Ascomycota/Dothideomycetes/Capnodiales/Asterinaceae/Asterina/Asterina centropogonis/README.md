@@ -1,5 +1,4 @@
-Asterina centropogonis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Asterina centropogonis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

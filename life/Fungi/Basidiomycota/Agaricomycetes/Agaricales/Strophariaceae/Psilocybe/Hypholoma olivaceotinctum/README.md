@@ -1,5 +1,4 @@
-Hypholoma olivaceotinctum (Kauffman) Pomerl. SPECIES
-=======
+# Hypholoma olivaceotinctum (Kauffman) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

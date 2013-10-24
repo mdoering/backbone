@@ -1,5 +1,4 @@
-Psychrilyobacter Zhao, Manno & Hawari, 2009 GENUS
-=======
+# Psychrilyobacter Zhao, Manno & Hawari, 2009 GENUS
 
 #### Status
 ACCEPTED

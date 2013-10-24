@@ -1,8 +1,7 @@
-Cardiastomatella minuta Dragesco, 1965 SPECIES
-=======
+# Cardiostomatella minuta Dragesco, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

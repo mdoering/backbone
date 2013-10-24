@@ -1,5 +1,4 @@
-Calocybe atropapillata Singer SPECIES
-=======
+# Calocybe atropapillata Singer SPECIES
 
 #### Status
 ACCEPTED

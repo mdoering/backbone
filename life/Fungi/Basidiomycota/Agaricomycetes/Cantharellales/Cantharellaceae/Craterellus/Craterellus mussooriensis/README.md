@@ -1,5 +1,4 @@
-Craterellus mussooriensis D.A. Reid, K.S. Thind & Adlakha SPECIES
-=======
+# Craterellus mussooriensis D.A. Reid, K.S. Thind & Adlakha SPECIES
 
 #### Status
 ACCEPTED

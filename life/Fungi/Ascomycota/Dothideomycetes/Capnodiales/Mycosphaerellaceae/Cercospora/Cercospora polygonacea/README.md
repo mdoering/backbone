@@ -1,5 +1,4 @@
-Cercospora polygonacea Ellis SPECIES
-=======
+# Cercospora polygonacea Ellis SPECIES
 
 #### Status
 ACCEPTED

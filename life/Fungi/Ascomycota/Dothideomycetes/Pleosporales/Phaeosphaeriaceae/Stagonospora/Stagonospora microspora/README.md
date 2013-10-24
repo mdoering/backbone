@@ -1,5 +1,4 @@
-Stagonospora microspora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Stagonospora microspora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

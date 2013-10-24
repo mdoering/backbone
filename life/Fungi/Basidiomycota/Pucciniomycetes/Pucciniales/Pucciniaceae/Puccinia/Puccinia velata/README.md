@@ -1,5 +1,4 @@
-Puccinia velata (Ellis & Everh.) Arthur SPECIES
-=======
+# Puccinia velata (Ellis & Everh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

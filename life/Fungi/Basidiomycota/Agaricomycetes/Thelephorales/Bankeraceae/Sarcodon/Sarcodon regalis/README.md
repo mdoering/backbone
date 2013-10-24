@@ -1,5 +1,4 @@
-Sarcodon regalis Maas Geest., 1975 SPECIES
-=======
+# Sarcodon regalis Maas Geest., 1975 SPECIES
 
 #### Status
 ACCEPTED

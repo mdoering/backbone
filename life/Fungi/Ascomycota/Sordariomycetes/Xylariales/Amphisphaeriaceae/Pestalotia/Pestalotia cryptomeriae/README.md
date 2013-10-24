@@ -1,5 +1,4 @@
-Pestalotia cryptomeriae Cooke SPECIES
-=======
+# Pestalotia cryptomeriae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia costata Flörke SPECIES
-=======
+# Cladonia costata Flörke SPECIES
 
 #### Status
 ACCEPTED

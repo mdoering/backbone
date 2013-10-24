@@ -1,5 +1,4 @@
-Graphis albosporella Nyl. SPECIES
-=======
+# Graphis albosporella Nyl. SPECIES
 
 #### Status
 ACCEPTED

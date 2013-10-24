@@ -1,17 +1,16 @@
-Sphacelotheca dichanthicola Mundk. & Thirum. SPECIES
-=======
+# Sphacelotheca dichanthiicola Mundk. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Thirumalachar & Mundkur, Mycol. Pap. 40: 3 (1951)
 
 #### Original name
-Sphacelotheca dichanthicola Mundk. & Thirum.
+Sphacelotheca dichanthiicola Mundk. & Thirum.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Disematostoma paremeciiformis SPECIES
-=======
+# Disematostoma paremeciiformis SPECIES
 
 #### Status
 ACCEPTED

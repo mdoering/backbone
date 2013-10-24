@@ -1,5 +1,4 @@
-Periconia atra Corda, 1837 SPECIES
-=======
+# Periconia atra Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete bonariensis Speg. SPECIES
-=======
+# Hymenochaete bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

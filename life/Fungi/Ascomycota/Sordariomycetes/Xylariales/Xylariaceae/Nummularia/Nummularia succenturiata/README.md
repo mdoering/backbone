@@ -1,17 +1,16 @@
-Sphaeria succenturiata var. succenturiata VARIETY
-=======
+# Nummularia succenturiata (Tode) Nitschke, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 1: 58 (1867)
 
 #### Original name
-null
+Sphaeria succenturiata Tode, 1791
 
 ### Remarks
 null

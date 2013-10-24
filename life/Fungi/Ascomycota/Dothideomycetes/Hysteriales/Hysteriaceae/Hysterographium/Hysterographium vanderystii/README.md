@@ -1,5 +1,4 @@
-Hysterographium vanderystii Bres. SPECIES
-=======
+# Hysterographium vanderystii Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema leucaspis (Kremp. ex A. Massal.) Kremp. SPECIES
-=======
+# Thelotrema leucaspis (Kremp. ex A. Massal.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

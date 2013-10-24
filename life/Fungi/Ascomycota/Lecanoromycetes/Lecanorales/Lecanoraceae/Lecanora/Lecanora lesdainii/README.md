@@ -1,5 +1,4 @@
-Lecanora lesdainii Samp. SPECIES
-=======
+# Lecanora lesdainii Samp. SPECIES
 
 #### Status
 ACCEPTED

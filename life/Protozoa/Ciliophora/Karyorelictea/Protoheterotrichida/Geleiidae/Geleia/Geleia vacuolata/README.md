@@ -1,5 +1,4 @@
-Geleia vacuolata Dragesco, 1960 SPECIES
-=======
+# Geleia vacuolata Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

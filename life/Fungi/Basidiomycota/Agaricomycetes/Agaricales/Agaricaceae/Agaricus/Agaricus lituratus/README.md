@@ -1,5 +1,4 @@
-Agaricus lituratus Berk. & Broome SPECIES
-=======
+# Agaricus lituratus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

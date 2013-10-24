@@ -1,17 +1,16 @@
-Omphalia candida f. gracile Benzoni FORM
-=======
+# Hemimycena candida (Bres.) Singer, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
-Omphalia candida f. gracile Benzoni
+Omphalia candida Bres., 1900
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sarcogyne calcifraga (Müll. Arg.) H. Magn. SPECIES
-=======
+# Sarcogyne calcifraga (Müll. Arg.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

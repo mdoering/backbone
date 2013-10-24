@@ -1,5 +1,4 @@
-Ammocycloculina GENUS
-=======
+# Ammocycloculina GENUS
 
 #### Status
 ACCEPTED

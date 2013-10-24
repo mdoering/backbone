@@ -1,5 +1,4 @@
-Polyblastiopsis dispora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis dispora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

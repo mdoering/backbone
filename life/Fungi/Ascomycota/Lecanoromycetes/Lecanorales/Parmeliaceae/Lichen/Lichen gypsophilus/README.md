@@ -1,5 +1,4 @@
-Lichen gypsophilus Schrad. SPECIES
-=======
+# Lichen gypsophilus Schrad. SPECIES
 
 #### Status
 ACCEPTED

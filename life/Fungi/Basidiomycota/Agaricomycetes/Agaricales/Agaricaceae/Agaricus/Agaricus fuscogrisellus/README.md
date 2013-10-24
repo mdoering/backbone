@@ -1,5 +1,4 @@
-Agaricus fuscogrisellus Peck SPECIES
-=======
+# Agaricus fuscogrisellus Peck SPECIES
 
 #### Status
 ACCEPTED

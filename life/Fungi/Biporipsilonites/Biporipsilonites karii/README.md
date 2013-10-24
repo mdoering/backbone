@@ -1,5 +1,4 @@
-Biporipsilonites karii (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites karii (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

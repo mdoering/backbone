@@ -1,5 +1,4 @@
-Phyllachora applanata G. Winter, 1887 SPECIES
-=======
+# Phyllachora applanata G. Winter, 1887 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Desulfobacter latus Widdel, 1988 SPECIES
-=======
+# Desulfobacter latus Widdel, 1988 SPECIES
 
 #### Status
 ACCEPTED

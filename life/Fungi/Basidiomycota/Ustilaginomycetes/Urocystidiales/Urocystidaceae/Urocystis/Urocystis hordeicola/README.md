@@ -1,5 +1,4 @@
-Urocystis hordeicola (Lavrov) Schwarzman SPECIES
-=======
+# Urocystis hordeicola (Lavrov) Schwarzman SPECIES
 
 #### Status
 ACCEPTED

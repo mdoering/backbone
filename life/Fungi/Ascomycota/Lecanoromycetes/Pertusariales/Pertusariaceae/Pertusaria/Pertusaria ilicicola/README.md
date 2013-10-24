@@ -1,5 +1,4 @@
-Pertusaria ilicicola var. tazzekensis Werner VARIETY
-=======
+# Pertusaria ilicicola Harm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria ilicicola var. tazzekensis Werner
+Pertusaria ilicicola Harm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerostilbe nigrescens Kalchbr. & Cooke SPECIES
-=======
+# Sphaerostilbe nigrescens Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

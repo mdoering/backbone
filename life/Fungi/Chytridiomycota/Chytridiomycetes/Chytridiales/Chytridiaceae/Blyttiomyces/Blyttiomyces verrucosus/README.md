@@ -1,5 +1,4 @@
-Blyttiomyces verrucosus Dogma, 1980 SPECIES
-=======
+# Blyttiomyces verrucosus Dogma, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synaptospora Cain GENUS
-=======
+# Synaptospora Cain GENUS
 
 #### Status
 ACCEPTED

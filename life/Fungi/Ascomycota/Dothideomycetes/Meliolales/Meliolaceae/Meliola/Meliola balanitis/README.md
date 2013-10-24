@@ -1,5 +1,4 @@
-Meliola balanitis Hansf. SPECIES
-=======
+# Meliola balanitis Hansf. SPECIES
 
 #### Status
 ACCEPTED

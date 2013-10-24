@@ -1,5 +1,4 @@
-Agaricus indeprensus Britzelm. SPECIES
-=======
+# Agaricus indeprensus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

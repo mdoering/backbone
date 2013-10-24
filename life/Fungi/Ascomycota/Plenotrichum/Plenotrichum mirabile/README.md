@@ -1,5 +1,4 @@
-Plenotrichum mirabile Syd., 1927 SPECIES
-=======
+# Plenotrichum mirabile Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

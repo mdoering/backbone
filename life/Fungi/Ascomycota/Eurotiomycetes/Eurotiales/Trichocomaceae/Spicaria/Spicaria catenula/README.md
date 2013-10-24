@@ -1,5 +1,4 @@
-Spicaria catenula Dadal. SPECIES
-=======
+# Spicaria catenula Dadal. SPECIES
 
 #### Status
 ACCEPTED

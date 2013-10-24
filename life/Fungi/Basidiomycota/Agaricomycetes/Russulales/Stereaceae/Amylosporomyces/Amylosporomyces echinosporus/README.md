@@ -1,17 +1,16 @@
-Amylosporomyces echinosporum S.S. Rattan SPECIES
-=======
+# Amylosporomyces echinosporus S.S. Rattan, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 60: 245 (1977)
 
 #### Original name
-Amylosporomyces echinosporum S.S. Rattan
+Amylosporomyces echinosporus S.S. Rattan, 1977
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Dimeromyces platydemus K. Sugiy. & Mochiz. SPECIES
-=======
+# Dimeromyces platydematis K. Sugiy. & Mochiz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 20(3): 340 (1979)
 
 #### Original name
-Dimeromyces platydemus K. Sugiy. & Mochiz.
+Dimeromyces platydematis K. Sugiy. & Mochiz.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhodophyllus radiatus J.E. Lange SPECIES
-=======
+# Rhodophyllus radiatus J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

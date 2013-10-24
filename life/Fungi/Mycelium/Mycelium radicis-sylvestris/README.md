@@ -1,5 +1,4 @@
-Mycelium radicis-sylvestris Melin SPECIES
-=======
+# Mycelium radicis-sylvestris Melin SPECIES
 
 #### Status
 ACCEPTED

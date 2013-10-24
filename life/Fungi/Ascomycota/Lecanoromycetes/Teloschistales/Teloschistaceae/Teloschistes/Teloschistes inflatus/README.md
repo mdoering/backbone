@@ -1,5 +1,4 @@
-Teloschistes inflatus Frödén SPECIES
-=======
+# Teloschistes inflatus Frödén SPECIES
 
 #### Status
 ACCEPTED

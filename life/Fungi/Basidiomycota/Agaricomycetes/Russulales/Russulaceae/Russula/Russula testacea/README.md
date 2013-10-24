@@ -1,5 +1,4 @@
-Russula testacea Buyck SPECIES
-=======
+# Russula testacea Buyck SPECIES
 
 #### Status
 ACCEPTED

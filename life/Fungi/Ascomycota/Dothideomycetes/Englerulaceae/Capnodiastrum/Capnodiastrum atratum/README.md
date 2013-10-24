@@ -1,5 +1,4 @@
-Capnodiastrum atratum Höhn. SPECIES
-=======
+# Capnodiastrum atratum Höhn. SPECIES
 
 #### Status
 ACCEPTED

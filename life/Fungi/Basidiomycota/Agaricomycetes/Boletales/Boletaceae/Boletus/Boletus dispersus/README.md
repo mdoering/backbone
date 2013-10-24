@@ -1,5 +1,4 @@
-Boletus dispersus Corner SPECIES
-=======
+# Boletus dispersus Corner SPECIES
 
 #### Status
 ACCEPTED

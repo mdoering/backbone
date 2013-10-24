@@ -1,5 +1,4 @@
-Colletotrichum tricyrtii (Teng) Teng SPECIES
-=======
+# Colletotrichum tricyrtii (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

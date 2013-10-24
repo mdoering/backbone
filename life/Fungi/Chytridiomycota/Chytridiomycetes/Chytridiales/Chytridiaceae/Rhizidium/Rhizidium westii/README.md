@@ -1,5 +1,4 @@
-Rhizidium westii Massee SPECIES
-=======
+# Rhizidium westii Massee SPECIES
 
 #### Status
 ACCEPTED

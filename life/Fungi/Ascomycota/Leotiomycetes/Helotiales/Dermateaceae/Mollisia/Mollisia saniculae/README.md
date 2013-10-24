@@ -1,5 +1,4 @@
-Mollisia saniculae (Wallr.) Sacc. SPECIES
-=======
+# Mollisia saniculae (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

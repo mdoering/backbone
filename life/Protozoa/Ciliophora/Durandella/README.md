@@ -1,5 +1,4 @@
-Durandella Dragastan, 1972 GENUS
-=======
+# Durandella Dragastan, 1972 GENUS
 
 #### Status
 ACCEPTED

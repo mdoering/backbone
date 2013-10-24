@@ -1,5 +1,4 @@
-Cladosporium rhodomyrti Sawada SPECIES
-=======
+# Cladosporium rhodomyrti Sawada SPECIES
 
 #### Status
 ACCEPTED

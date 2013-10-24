@@ -1,5 +1,4 @@
-Genea compacta Harkn. SPECIES
-=======
+# Genea compacta Harkn. SPECIES
 
 #### Status
 ACCEPTED

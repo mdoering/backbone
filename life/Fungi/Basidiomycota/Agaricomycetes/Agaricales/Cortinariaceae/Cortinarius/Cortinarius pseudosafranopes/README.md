@@ -1,5 +1,4 @@
-Cortinarius pseudosafranopes Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius pseudosafranopes Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia subatrata Voglino SPECIES
-=======
+# Collybia subatrata Voglino SPECIES
 
 #### Status
 ACCEPTED

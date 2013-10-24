@@ -1,5 +1,4 @@
-Puccinia jovis Gäum. SPECIES
-=======
+# Puccinia jovis Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miliammina pariaensis SPECIES
-=======
+# Miliammina pariaensis SPECIES
 
 #### Status
 ACCEPTED

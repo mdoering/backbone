@@ -1,5 +1,4 @@
-Rhopalocystis fusca (Bainier) Grove SPECIES
-=======
+# Rhopalocystis fusca (Bainier) Grove SPECIES
 
 #### Status
 ACCEPTED

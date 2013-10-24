@@ -1,5 +1,4 @@
-Aecidium holboelliae Y.C. Wang & J.Y. Zhuang, 1983 SPECIES
-=======
+# Aecidium holboelliae Y.C. Wang & J.Y. Zhuang, 1983 SPECIES
 
 #### Status
 ACCEPTED

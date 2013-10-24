@@ -1,5 +1,4 @@
-Streptothrix abietina Peck SPECIES
-=======
+# Streptothrix abietina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium kroppenstedtii Collins et al., 1998 SPECIES
-=======
+# Corynebacterium kroppenstedtii Collins et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

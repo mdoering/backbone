@@ -1,5 +1,4 @@
-Galerula cerina Bres. ex G.F. Atk. SPECIES
-=======
+# Galerula cerina Bres. ex G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

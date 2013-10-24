@@ -1,5 +1,4 @@
-Pseudodichomera elaeagni (P. Karst.) Höhn. SPECIES
-=======
+# Pseudodichomera elaeagni (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

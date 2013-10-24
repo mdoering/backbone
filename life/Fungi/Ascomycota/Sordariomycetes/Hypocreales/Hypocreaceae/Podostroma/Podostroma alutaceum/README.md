@@ -1,17 +1,16 @@
-Sphaeria alutacea var. turgida Fr. VARIETY
-=======
+# Podostroma alutaceum (Pers.) G.F. Atk., 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 325 (1823)
+null
 
 #### Original name
-Sphaeria alutacea var. turgida Fr.
+Sphaeria alutacea Pers., 1797
 
 ### Remarks
 null

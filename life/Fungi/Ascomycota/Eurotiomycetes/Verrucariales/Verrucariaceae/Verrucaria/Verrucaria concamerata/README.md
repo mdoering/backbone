@@ -1,5 +1,4 @@
-Verrucaria concamerata Stirt. SPECIES
-=======
+# Verrucaria concamerata Stirt. SPECIES
 
 #### Status
 ACCEPTED

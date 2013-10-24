@@ -1,17 +1,16 @@
-Pennella hovassi Manier ex Manier SPECIES
-=======
+# Pennella hovassei Manier ex Manier, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 9: 106 (1968)
 
 #### Original name
-Pennella hovassi Manier ex Manier
+Pennella hovassei Manier ex Manier, 1968
 
 ### Remarks
 null

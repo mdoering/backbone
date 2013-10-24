@@ -1,5 +1,4 @@
-Vadicella GENUS
-=======
+# Vadicella GENUS
 
 #### Status
 ACCEPTED

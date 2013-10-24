@@ -1,5 +1,4 @@
-Physcia dispansa SPECIES
-=======
+# Physcia dispansa SPECIES
 
 #### Status
 ACCEPTED

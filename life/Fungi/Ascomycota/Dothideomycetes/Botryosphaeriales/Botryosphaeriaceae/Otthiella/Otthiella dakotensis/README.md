@@ -1,5 +1,4 @@
-Otthiella dakotensis Petr. SPECIES
-=======
+# Otthiella dakotensis Petr. SPECIES
 
 #### Status
 ACCEPTED

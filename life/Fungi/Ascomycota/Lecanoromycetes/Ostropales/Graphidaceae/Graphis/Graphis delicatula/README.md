@@ -1,5 +1,4 @@
-Graphis delicatula Fée SPECIES
-=======
+# Graphis delicatula Fée SPECIES
 
 #### Status
 ACCEPTED

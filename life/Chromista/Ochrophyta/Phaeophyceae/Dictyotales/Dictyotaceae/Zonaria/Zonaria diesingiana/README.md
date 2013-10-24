@@ -1,5 +1,4 @@
-Zonaria diesingiana J. Agardh SPECIES
-=======
+# Zonaria diesingiana J. Agardh SPECIES
 
 #### Status
 ACCEPTED

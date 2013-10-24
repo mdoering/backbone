@@ -1,5 +1,4 @@
-Cortinarius magnae-silvae Consiglio SPECIES
-=======
+# Cortinarius magnae-silvae Consiglio SPECIES
 
 #### Status
 ACCEPTED

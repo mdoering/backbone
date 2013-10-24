@@ -1,5 +1,4 @@
-Lichina minutissima Henssen SPECIES
-=======
+# Lichina minutissima Henssen SPECIES
 
 #### Status
 ACCEPTED

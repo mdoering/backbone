@@ -1,5 +1,4 @@
-Impagidinium sphaericum (D. Wall, 1967) Lentin & G.L. Williams, 1981 SPECIES
-=======
+# Impagidinium sphaericum (D. Wall, 1967) Lentin & G.L. Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

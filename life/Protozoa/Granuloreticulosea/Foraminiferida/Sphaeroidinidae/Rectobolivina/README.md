@@ -1,5 +1,4 @@
-Rectobolivina Cushman, 1927 GENUS
-=======
+# Rectobolivina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanaria callispora (Zahlbr.) I.M. Lamb SPECIES
-=======
+# Melanaria callispora (Zahlbr.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

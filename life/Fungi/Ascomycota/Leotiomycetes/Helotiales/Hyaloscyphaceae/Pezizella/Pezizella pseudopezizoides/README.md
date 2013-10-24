@@ -1,5 +1,4 @@
-Pezizella pseudopezizoides Rehm SPECIES
-=======
+# Pezizella pseudopezizoides Rehm SPECIES
 
 #### Status
 ACCEPTED

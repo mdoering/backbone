@@ -1,5 +1,4 @@
-Lecanora mashiginensis Zahlbr. SPECIES
-=======
+# Lecanora mashiginensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tauriella Naidenova, 1985 GENUS
-=======
+# Tauriella Naidenova, 1985 GENUS
 
 #### Status
 ACCEPTED

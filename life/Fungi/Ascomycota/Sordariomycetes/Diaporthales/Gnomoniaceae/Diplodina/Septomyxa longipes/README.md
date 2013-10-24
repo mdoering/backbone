@@ -1,5 +1,4 @@
-Septomyxa longipes Nicolas & Aggéry SPECIES
-=======
+# Septomyxa longipes Nicolas & Aggéry SPECIES
 
 #### Status
 ACCEPTED

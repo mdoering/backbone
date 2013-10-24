@@ -1,5 +1,4 @@
-Helotium umbelliformis Pers. SPECIES
-=======
+# Helotium umbelliformis Pers. SPECIES
 
 #### Status
 ACCEPTED

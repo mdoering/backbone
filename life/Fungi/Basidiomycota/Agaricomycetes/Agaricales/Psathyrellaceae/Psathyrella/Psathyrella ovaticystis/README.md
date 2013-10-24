@@ -1,5 +1,4 @@
-Psathyrella ovaticystis Pegler SPECIES
-=======
+# Psathyrella ovaticystis Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eimeria variabilis (Thélohan, 1893) Reichenow, 1921 SPECIES
-=======
+# Eimeria variabilis (Thélohan, 1893) Reichenow, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchophoromyces Thaxt. GENUS
-=======
+# Rhynchophoromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

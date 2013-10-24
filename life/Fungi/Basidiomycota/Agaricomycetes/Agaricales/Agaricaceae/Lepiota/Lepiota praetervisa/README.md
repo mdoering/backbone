@@ -1,5 +1,4 @@
-Lepiota praetervisa Hongo SPECIES
-=======
+# Lepiota praetervisa Hongo SPECIES
 
 #### Status
 ACCEPTED

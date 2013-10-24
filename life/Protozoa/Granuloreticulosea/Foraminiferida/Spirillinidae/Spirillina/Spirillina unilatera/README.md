@@ -1,5 +1,4 @@
-Spirillina unilatera Chapman, 1902 SPECIES
-=======
+# Spirillina unilatera Chapman, 1902 SPECIES
 
 #### Status
 ACCEPTED

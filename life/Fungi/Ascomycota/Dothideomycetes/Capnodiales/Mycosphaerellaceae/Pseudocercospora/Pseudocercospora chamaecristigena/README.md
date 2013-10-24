@@ -1,5 +1,4 @@
-Pseudocercospora chamaecristigena A. Hern. Gut. & Dianese SPECIES
-=======
+# Pseudocercospora chamaecristigena A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramonia micrococca Vezda SPECIES
-=======
+# Ramonia micrococca Vezda SPECIES
 
 #### Status
 ACCEPTED

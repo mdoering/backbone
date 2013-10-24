@@ -1,5 +1,4 @@
-Pycnothyrium vismiae Bat. & A.F. Vital SPECIES
-=======
+# Pycnothyrium vismiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

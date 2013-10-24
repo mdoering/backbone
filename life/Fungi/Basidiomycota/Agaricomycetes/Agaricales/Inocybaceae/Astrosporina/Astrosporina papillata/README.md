@@ -1,5 +1,4 @@
-Astrosporina papillata E. Horak SPECIES
-=======
+# Astrosporina papillata E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cocconia aliena Theiss. & Syd. SPECIES
-=======
+# Cocconia aliena Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

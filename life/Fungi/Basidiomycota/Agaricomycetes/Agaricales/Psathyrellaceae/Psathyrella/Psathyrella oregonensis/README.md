@@ -1,5 +1,4 @@
-Psathyrella oregonensis A.H. Sm. SPECIES
-=======
+# Psathyrella oregonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

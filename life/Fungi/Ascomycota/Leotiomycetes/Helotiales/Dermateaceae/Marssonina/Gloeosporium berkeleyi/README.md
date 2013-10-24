@@ -1,5 +1,4 @@
-Gloeosporium berkeleyi Mont. SPECIES
-=======
+# Gloeosporium berkeleyi Mont. SPECIES
 
 #### Status
 ACCEPTED

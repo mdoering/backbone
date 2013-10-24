@@ -1,5 +1,4 @@
-Codonella lata Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonella lata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

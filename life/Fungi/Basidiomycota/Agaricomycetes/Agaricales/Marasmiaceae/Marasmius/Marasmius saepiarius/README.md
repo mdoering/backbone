@@ -1,5 +1,4 @@
-Marasmius saepiarius (Pat. & Demange) Sacc. & Trotter SPECIES
-=======
+# Marasmius saepiarius (Pat. & Demange) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

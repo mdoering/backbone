@@ -1,5 +1,4 @@
-Lecanora cerradoensis Guderley SPECIES
-=======
+# Lecanora cerradoensis Guderley SPECIES
 
 #### Status
 ACCEPTED

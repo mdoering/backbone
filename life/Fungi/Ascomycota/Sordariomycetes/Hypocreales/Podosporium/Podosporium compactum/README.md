@@ -1,5 +1,4 @@
-Podosporium compactum Teng SPECIES
-=======
+# Podosporium compactum Teng SPECIES
 
 #### Status
 ACCEPTED

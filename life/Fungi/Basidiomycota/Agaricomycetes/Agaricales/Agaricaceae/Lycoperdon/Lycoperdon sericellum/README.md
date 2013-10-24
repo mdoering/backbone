@@ -1,5 +1,4 @@
-Lycoperdon sericellum Berk. SPECIES
-=======
+# Lycoperdon sericellum Berk. SPECIES
 
 #### Status
 ACCEPTED

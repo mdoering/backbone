@@ -1,5 +1,4 @@
-Peziza doliolum Saut. SPECIES
-=======
+# Peziza doliolum Saut. SPECIES
 
 #### Status
 ACCEPTED

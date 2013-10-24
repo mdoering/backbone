@@ -1,5 +1,4 @@
-Protocryptomonas ellipsoidea Skvortzov ex A. Castro, C. Bicudo & D. Bicudo SPECIES
-=======
+# Protocryptomonas ellipsoidea Skvortzov ex A. Castro, C. Bicudo & D. Bicudo SPECIES
 
 #### Status
 ACCEPTED

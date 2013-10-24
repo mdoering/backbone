@@ -1,5 +1,4 @@
-Cladosporium punctiforme Fuckel SPECIES
-=======
+# Cladosporium punctiforme Fuckel SPECIES
 
 #### Status
 ACCEPTED

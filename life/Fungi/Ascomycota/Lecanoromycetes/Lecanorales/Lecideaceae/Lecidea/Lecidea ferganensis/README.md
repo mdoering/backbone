@@ -1,5 +1,4 @@
-Lecidea ferganensis Tomin SPECIES
-=======
+# Lecidea ferganensis Tomin SPECIES
 
 #### Status
 ACCEPTED

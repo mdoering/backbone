@@ -1,5 +1,4 @@
-Camptomeris albiziae (Petch) E.W. Mason SPECIES
-=======
+# Camptomeris albiziae (Petch) E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovularia stellariae (Rabenh.) Sacc. SPECIES
-=======
+# Ovularia stellariae (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

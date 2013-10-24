@@ -1,5 +1,4 @@
-Asterinella tjibodensis Höhn. SPECIES
-=======
+# Asterinella tjibodensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

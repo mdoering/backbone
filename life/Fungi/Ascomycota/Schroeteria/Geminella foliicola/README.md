@@ -1,5 +1,4 @@
-Geminella foliicola J. Schröt. SPECIES
-=======
+# Geminella foliicola J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

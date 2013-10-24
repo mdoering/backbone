@@ -1,5 +1,4 @@
-Clavaria stillingeri Coker SPECIES
-=======
+# Clavaria stillingeri Coker SPECIES
 
 #### Status
 ACCEPTED

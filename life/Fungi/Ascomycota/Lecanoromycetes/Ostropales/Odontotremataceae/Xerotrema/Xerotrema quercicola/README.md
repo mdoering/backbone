@@ -1,5 +1,4 @@
-Xerotrema quercicola Coppins & Aptroot SPECIES
-=======
+# Xerotrema quercicola Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

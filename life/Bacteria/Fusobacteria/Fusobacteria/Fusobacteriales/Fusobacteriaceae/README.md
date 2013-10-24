@@ -1,5 +1,4 @@
-Fusobacteriaceae FAMILY
-=======
+# Fusobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

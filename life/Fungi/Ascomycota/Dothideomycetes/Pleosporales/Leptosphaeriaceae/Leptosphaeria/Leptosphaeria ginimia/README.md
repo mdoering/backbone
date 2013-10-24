@@ -1,5 +1,4 @@
-Leptosphaeria ginimia K.M. Tsui, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Leptosphaeria ginimia K.M. Tsui, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

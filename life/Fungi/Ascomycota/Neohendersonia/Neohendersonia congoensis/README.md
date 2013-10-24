@@ -1,14 +1,13 @@
-Didymopsis congoensis Torrend, 1911 SPECIES
-=======
+# Neohendersonia congoensis (Torrend) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 138: 84 (1975)
 
 #### Original name
 Didymopsis congoensis Torrend, 1911

@@ -1,5 +1,4 @@
-Grossglockneria acuta Foissner, 1980 SPECIES
-=======
+# Grossglockneria acuta Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

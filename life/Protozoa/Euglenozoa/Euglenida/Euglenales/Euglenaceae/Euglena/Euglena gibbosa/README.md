@@ -1,5 +1,4 @@
-Euglena gibbosa Schiller SPECIES
-=======
+# Euglena gibbosa Schiller SPECIES
 
 #### Status
 ACCEPTED

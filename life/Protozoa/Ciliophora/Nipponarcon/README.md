@@ -1,5 +1,4 @@
-Nipponarcon Jankowski, 1981 GENUS
-=======
+# Nipponarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

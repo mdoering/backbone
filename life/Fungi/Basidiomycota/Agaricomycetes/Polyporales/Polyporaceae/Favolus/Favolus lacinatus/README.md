@@ -1,5 +1,4 @@
-Favolus lacinatus Lév. SPECIES
-=======
+# Favolus lacinatus Lév. SPECIES
 
 #### Status
 ACCEPTED

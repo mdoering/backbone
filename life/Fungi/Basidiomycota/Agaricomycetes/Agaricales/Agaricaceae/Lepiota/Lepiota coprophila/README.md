@@ -1,5 +1,4 @@
-Lepiota coprophila Rick SPECIES
-=======
+# Lepiota coprophila Rick SPECIES
 
 #### Status
 ACCEPTED

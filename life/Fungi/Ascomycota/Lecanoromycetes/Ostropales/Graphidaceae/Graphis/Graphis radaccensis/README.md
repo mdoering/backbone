@@ -1,5 +1,4 @@
-Graphis radaccensis (G. Mey.) A. Massal. SPECIES
-=======
+# Graphis radaccensis (G. Mey.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

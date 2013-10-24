@@ -1,5 +1,4 @@
-Lophodermium petrakii Durrieu, 1957 SPECIES
-=======
+# Lophodermium petrakii Durrieu, 1957 SPECIES
 
 #### Status
 ACCEPTED

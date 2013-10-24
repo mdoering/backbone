@@ -1,5 +1,4 @@
-Lecaniascus polymorphus Moniez SPECIES
-=======
+# Lecaniascus polymorphus Moniez SPECIES
 
 #### Status
 ACCEPTED

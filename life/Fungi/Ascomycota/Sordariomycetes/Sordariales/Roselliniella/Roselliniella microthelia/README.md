@@ -1,14 +1,13 @@
-Laestadia microthelia (Wallr.) Vouaux, 1912 SPECIES
-=======
+# Roselliniella microthelia (Wallr.) Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28: 218 (1912)
+Biblthca Lichenol. 77: 93 (2000)
 
 #### Original name
 Verrucaria microthelia Wallr.

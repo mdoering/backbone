@@ -1,5 +1,4 @@
-Trichocladia vaccinii (Schwein.) Jacz. SPECIES
-=======
+# Trichocladia vaccinii (Schwein.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

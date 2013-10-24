@@ -1,14 +1,13 @@
-Pertusaria multipuncta var. ophthalmiza Nyl. VARIETY
-=======
+# Pertusaria ophthalmiza (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 180 (1861)
+Flora, Jena 48: 354 (1865)
 
 #### Original name
 Pertusaria multipuncta var. ophthalmiza Nyl.

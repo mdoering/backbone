@@ -1,5 +1,4 @@
-Protoparmelia hypotremella Herk, Spier & V. Wirth SPECIES
-=======
+# Protoparmelia hypotremella Herk, Spier & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

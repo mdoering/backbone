@@ -1,5 +1,4 @@
-Coriolus brevis (Berk.) Aoshima SPECIES
-=======
+# Coriolus brevis (Berk.) Aoshima SPECIES
 
 #### Status
 DOUBTFUL

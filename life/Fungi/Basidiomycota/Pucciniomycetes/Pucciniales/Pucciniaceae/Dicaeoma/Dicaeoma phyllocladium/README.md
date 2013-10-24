@@ -1,5 +1,4 @@
-Dicaeoma phyllocladium (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma phyllocladium (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

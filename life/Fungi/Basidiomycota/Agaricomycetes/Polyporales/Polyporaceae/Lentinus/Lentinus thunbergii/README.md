@@ -1,5 +1,4 @@
-Lentinus thunbergii (Fr.) Sacc. SPECIES
-=======
+# Lentinus thunbergii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

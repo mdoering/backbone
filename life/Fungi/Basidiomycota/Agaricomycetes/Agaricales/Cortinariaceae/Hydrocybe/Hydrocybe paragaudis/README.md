@@ -1,5 +1,4 @@
-Hydrocybe paragaudis (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe paragaudis (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

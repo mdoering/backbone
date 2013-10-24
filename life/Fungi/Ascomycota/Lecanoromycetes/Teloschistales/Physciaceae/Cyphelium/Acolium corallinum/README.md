@@ -1,5 +1,4 @@
-Acolium corallinum (Hepp) Körb. SPECIES
-=======
+# Acolium corallinum (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

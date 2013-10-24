@@ -1,5 +1,4 @@
-Odontia himantioides Rick SPECIES
-=======
+# Odontia himantioides Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces stilici Thaxt. SPECIES
-=======
+# Corethromyces stilici Thaxt. SPECIES
 
 #### Status
 ACCEPTED

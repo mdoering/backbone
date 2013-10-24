@@ -1,5 +1,4 @@
-Sphaerella taraxaci P. Karst. SPECIES
-=======
+# Sphaerella taraxaci P. Karst. SPECIES
 
 #### Status
 ACCEPTED

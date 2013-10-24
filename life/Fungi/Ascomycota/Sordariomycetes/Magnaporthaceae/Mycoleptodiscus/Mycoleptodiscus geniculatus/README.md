@@ -1,5 +1,4 @@
-Mycoleptodiscus geniculatus Alcorn, 1994 SPECIES
-=======
+# Mycoleptodiscus geniculatus Alcorn, 1994 SPECIES
 
 #### Status
 ACCEPTED

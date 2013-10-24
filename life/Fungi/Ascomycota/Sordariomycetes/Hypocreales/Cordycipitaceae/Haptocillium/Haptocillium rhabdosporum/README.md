@@ -1,5 +1,4 @@
-Haptocillium rhabdosporum Zare & W. Gams, 2001 SPECIES
-=======
+# Haptocillium rhabdosporum Zare & W. Gams, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina kantvilasii P. M. McCarthy SPECIES
-=======
+# Porina kantvilasii P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

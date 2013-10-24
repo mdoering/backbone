@@ -1,5 +1,4 @@
-Leptogium anomalum (Nyl.) Harm. SPECIES
-=======
+# Leptogium anomalum (Nyl.) Harm. SPECIES
 
 #### Status
 ACCEPTED

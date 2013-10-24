@@ -1,5 +1,4 @@
-Phyllactinia rigida (E.S. Salmon) S. Blumer SPECIES
-=======
+# Phyllactinia rigida (E.S. Salmon) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

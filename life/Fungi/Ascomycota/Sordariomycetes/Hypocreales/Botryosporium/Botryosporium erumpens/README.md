@@ -1,5 +1,4 @@
-Botryosporium erumpens Schwein. SPECIES
-=======
+# Botryosporium erumpens Schwein. SPECIES
 
 #### Status
 ACCEPTED

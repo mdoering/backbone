@@ -1,5 +1,4 @@
-Melanospora linkii Cornu SPECIES
-=======
+# Melanospora linkii Cornu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta sesami Miura SPECIES
-=======
+# Ascochyta sesami Miura SPECIES
 
 #### Status
 ACCEPTED

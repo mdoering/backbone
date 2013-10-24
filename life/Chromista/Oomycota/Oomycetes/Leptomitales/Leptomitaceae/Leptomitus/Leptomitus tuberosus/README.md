@@ -1,5 +1,4 @@
-Leptomitus tuberosus Kütz. SPECIES
-=======
+# Leptomitus tuberosus Kütz. SPECIES
 
 #### Status
 ACCEPTED

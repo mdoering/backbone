@@ -1,5 +1,4 @@
-Thelidium leightonianum M. Choisy SPECIES
-=======
+# Thelidium leightonianum M. Choisy SPECIES
 
 #### Status
 ACCEPTED

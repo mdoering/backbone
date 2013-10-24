@@ -1,5 +1,4 @@
-Graphina componens (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina componens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

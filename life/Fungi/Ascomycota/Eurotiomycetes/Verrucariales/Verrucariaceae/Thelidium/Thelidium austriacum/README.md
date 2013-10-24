@@ -1,5 +1,4 @@
-Thelidium austriacum Zschacke SPECIES
-=======
+# Thelidium austriacum Zschacke SPECIES
 
 #### Status
 ACCEPTED

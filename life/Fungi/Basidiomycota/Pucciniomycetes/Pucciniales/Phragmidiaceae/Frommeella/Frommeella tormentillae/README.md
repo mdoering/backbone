@@ -1,5 +1,4 @@
-Frommeella tormentillae (Fuckel) Cummins & Y. Hirats., 1983 SPECIES
-=======
+# Frommeella tormentillae (Fuckel) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
 ACCEPTED

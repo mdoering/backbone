@@ -1,5 +1,4 @@
-Cercospora velutina Ellis & Kellerm. SPECIES
-=======
+# Cercospora velutina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

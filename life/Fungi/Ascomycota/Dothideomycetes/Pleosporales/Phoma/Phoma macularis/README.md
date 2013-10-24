@@ -1,5 +1,4 @@
-Phoma macularis Desm. SPECIES
-=======
+# Phoma macularis Desm. SPECIES
 
 #### Status
 ACCEPTED

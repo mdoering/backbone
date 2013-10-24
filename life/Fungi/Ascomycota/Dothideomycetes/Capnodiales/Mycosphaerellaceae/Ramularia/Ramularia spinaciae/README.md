@@ -1,5 +1,4 @@
-Ramularia spinaciae Nypels {?} SPECIES
-=======
+# Ramularia spinaciae Nypels {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinophysis reticulata Gaardner, 1954 SPECIES
-=======
+# Dinophysis reticulata Gaardner, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus mycoides Flügge, 1886 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus mycoides Flügge, 1886 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

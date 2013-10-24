@@ -1,5 +1,4 @@
-Chaetothyrium peltatum L.R. Fraser SPECIES
-=======
+# Chaetothyrium peltatum L.R. Fraser SPECIES
 
 #### Status
 ACCEPTED

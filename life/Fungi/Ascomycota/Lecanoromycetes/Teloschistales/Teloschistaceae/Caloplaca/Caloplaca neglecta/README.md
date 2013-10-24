@@ -1,5 +1,4 @@
-Caloplaca neglecta (Körb.) Lettau SPECIES
-=======
+# Caloplaca neglecta (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

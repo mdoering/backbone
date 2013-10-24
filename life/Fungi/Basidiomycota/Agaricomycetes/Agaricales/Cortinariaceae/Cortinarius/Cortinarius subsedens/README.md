@@ -1,5 +1,4 @@
-Cortinarius subsedens Rob. Henry SPECIES
-=======
+# Cortinarius subsedens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

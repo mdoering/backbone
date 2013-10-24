@@ -1,14 +1,13 @@
-Chamaeceras caperatus (Berk.) Kuntze, 1898 SPECIES
-=======
+# Marasmius caperatus Berk., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 455 (1898)
+in Hooker, Hooker's J. Bot. Kew Gard. Misc. 3: 44 (1851)
 
 #### Original name
 Marasmius caperatus Berk., 1851

@@ -1,5 +1,4 @@
-Graphis dussii Vain. SPECIES
-=======
+# Graphis dussii Vain. SPECIES
 
 #### Status
 ACCEPTED

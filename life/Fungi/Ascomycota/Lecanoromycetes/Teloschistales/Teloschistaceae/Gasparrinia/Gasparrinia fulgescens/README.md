@@ -1,5 +1,4 @@
-Gasparrinia fulgescens (Hue) C.W. Dodge SPECIES
-=======
+# Gasparrinia fulgescens (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

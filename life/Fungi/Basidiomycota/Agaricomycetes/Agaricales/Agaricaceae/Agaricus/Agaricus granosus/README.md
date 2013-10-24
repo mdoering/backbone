@@ -1,5 +1,4 @@
-Agaricus granosus Morgan SPECIES
-=======
+# Agaricus granosus Morgan SPECIES
 
 #### Status
 ACCEPTED

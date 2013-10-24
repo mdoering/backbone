@@ -1,5 +1,4 @@
-Aplosporella lutea (Dearn. & House) Petr. & Syd. SPECIES
-=======
+# Aplosporella lutea (Dearn. & House) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

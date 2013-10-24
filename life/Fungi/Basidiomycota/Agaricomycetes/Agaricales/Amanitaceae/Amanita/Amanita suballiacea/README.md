@@ -1,5 +1,4 @@
-Amanita suballiacea (Murrill) Murrill SPECIES
-=======
+# Amanita suballiacea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

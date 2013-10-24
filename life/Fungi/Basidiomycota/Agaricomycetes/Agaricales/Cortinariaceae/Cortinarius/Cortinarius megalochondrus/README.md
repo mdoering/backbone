@@ -1,5 +1,4 @@
-Cortinarius megalochondrus Rob. Henry SPECIES
-=======
+# Cortinarius megalochondrus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

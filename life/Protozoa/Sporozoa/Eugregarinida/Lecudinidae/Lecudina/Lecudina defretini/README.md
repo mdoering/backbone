@@ -1,5 +1,4 @@
-Lecudina defretini Schrével, 1969 SPECIES
-=======
+# Lecudina defretini Schrével, 1969 SPECIES
 
 #### Status
 ACCEPTED

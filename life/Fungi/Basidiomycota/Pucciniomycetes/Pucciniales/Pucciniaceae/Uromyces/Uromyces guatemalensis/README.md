@@ -1,5 +1,4 @@
-Uromyces guatemalensis Vestergr. SPECIES
-=======
+# Uromyces guatemalensis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

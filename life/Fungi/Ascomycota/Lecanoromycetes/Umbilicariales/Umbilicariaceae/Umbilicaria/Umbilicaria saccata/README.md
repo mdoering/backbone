@@ -1,5 +1,4 @@
-Umbilicaria saccata DC. SPECIES
-=======
+# Umbilicaria saccata DC. SPECIES
 
 #### Status
 ACCEPTED

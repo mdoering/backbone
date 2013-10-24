@@ -1,5 +1,4 @@
-Pertusaria jurana f. jurana Erichsen FORM
-=======
+# Pertusaria jurana Erichsen SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. 41: 100 (1936)
 
 #### Original name
-Pertusaria jurana f. jurana Erichsen
+Pertusaria jurana Erichsen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Didymosporium elevatum Lib. SPECIES
-=======
+# Didymosporium elevatum Lib. SPECIES
 
 #### Status
 ACCEPTED

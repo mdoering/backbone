@@ -1,5 +1,4 @@
-Albatrellus zhuangii Y.C. Dai & Juan Li SPECIES
-=======
+# Albatrellus zhuangii Y.C. Dai & Juan Li SPECIES
 
 #### Status
 ACCEPTED

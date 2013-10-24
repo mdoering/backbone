@@ -1,5 +1,4 @@
-Discostroma caninum Brockmann SPECIES
-=======
+# Discostroma caninum Brockmann SPECIES
 
 #### Status
 ACCEPTED

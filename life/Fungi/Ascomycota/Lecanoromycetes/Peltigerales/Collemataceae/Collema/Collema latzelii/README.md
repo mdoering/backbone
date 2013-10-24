@@ -1,5 +1,4 @@
-Collema latzelii Zahlbr. SPECIES
-=======
+# Collema latzelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

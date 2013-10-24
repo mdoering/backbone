@@ -1,5 +1,4 @@
-Entoloma subnigrum (Murrill) Hesler SPECIES
-=======
+# Entoloma subnigrum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

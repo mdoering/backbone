@@ -1,5 +1,4 @@
-Toninia incretata (Stizenb.) Zahlbr. SPECIES
-=======
+# Toninia incretata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

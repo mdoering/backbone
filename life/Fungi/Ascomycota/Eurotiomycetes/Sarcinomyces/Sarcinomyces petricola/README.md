@@ -1,5 +1,4 @@
-Sarcinomyces petricola Wollenz. & de Hoog, 1997 SPECIES
-=======
+# Sarcinomyces petricola Wollenz. & de Hoog, 1997 SPECIES
 
 #### Status
 ACCEPTED

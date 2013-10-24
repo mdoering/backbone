@@ -1,5 +1,4 @@
-Pleurage verruculosa SPECIES
-=======
+# Pleurage verruculosa SPECIES
 
 #### Status
 ACCEPTED

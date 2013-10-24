@@ -1,5 +1,4 @@
-Asterina belluciae Henn. SPECIES
-=======
+# Asterina belluciae Henn. SPECIES
 
 #### Status
 ACCEPTED

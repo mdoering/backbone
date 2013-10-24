@@ -1,17 +1,16 @@
-Alternaria querci T.Y. Zhang, J.Z. Zhang & W.Q. Chen SPECIES
-=======
+# Alternaria quercus T.Y. Zhang, J.Z. Zhang & W.Q. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Zhang, Zhang, Chen, Ma & Gao, Mycotaxon 72: 433 (1999)
 
 #### Original name
-Alternaria querci T.Y. Zhang, J.Z. Zhang & W.Q. Chen
+Alternaria quercus T.Y. Zhang, J.Z. Zhang & W.Q. Chen
 
 ### Remarks
 null

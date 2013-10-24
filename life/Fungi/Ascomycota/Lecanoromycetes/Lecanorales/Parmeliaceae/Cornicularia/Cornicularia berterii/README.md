@@ -1,8 +1,7 @@
-Cornicularia berteri Spreng. SPECIES
-=======
+# Cornicularia berterii Spreng. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cornicularia berteri Spreng.
+Cornicularia berterii Spreng.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Nectria setofusariae Samuels & Nirenberg SPECIES
-=======
+# Nectria setofusarii Samuels & Nirenberg, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(11): 3372 (1989)
 
 #### Original name
-Nectria setofusariae Samuels & Nirenberg
+Nectria setofusarii Samuels & Nirenberg, 1989
 
 ### Remarks
 null

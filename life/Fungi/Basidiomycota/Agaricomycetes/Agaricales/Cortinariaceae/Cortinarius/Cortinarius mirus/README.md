@@ -1,5 +1,4 @@
-Cortinarius mirus Bidaud & Eyssart. SPECIES
-=======
+# Cortinarius mirus Bidaud & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

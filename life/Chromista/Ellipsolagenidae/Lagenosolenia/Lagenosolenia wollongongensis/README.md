@@ -1,5 +1,4 @@
-Lagenosolenia wollongongensis Yassini & Jones, 1995 SPECIES
-=======
+# Lagenosolenia wollongongensis Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

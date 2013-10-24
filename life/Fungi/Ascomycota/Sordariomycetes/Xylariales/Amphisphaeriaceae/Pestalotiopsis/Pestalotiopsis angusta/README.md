@@ -1,5 +1,4 @@
-Pestalotiopsis angusta Steyaert SPECIES
-=======
+# Pestalotiopsis angusta Steyaert SPECIES
 
 #### Status
 ACCEPTED

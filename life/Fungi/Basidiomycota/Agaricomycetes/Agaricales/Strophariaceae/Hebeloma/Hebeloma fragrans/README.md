@@ -1,5 +1,4 @@
-Hebeloma fragrans A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma fragrans A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

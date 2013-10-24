@@ -1,17 +1,16 @@
-Valsa ceratophora var. ceratophora VARIETY
-=======
+# Valsa ceratophora Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Select. fung. carpol. (Paris) 2: 191 (1863)
 
 #### Original name
-Valsa ceratophora var. ceratophora
+Valsa ceratophora Tul. & C. Tul., 1863
 
 ### Remarks
 null

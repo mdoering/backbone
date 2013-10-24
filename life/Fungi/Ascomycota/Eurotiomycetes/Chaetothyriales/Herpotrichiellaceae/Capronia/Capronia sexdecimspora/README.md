@@ -1,14 +1,13 @@
-Capronia sexdecemspora (Cooke) Sacc. SPECIES
-=======
+# Capronia sexdecimspora (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 289 (1883)
 
 #### Original name
 Sphaeria sexdecimspora Cooke, 1871

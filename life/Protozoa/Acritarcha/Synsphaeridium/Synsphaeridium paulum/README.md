@@ -1,5 +1,4 @@
-Synsphaeridium paulum Potter in Baudelot & Géry, 1979 SPECIES
-=======
+# Synsphaeridium paulum Potter in Baudelot & Géry, 1979 SPECIES
 
 #### Status
 ACCEPTED

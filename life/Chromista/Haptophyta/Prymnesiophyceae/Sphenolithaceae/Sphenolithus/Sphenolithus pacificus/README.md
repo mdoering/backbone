@@ -1,5 +1,4 @@
-Sphenolithus pacificus Martini, 1965 SPECIES
-=======
+# Sphenolithus pacificus Martini, 1965 SPECIES
 
 #### Status
 ACCEPTED

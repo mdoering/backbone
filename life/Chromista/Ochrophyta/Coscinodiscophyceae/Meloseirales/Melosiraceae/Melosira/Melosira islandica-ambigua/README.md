@@ -1,5 +1,4 @@
-Melosira islandica-ambigua (Grunow) O.Müller SPECIES
-=======
+# Melosira islandica-ambigua (Grunow) O.Müller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia humuli Fr. SPECIES
-=======
+# Hendersonia humuli Fr. SPECIES
 
 #### Status
 ACCEPTED

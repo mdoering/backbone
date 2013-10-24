@@ -1,5 +1,4 @@
-Scutellinia korfii Le Gal SPECIES
-=======
+# Scutellinia korfii Le Gal SPECIES
 
 #### Status
 ACCEPTED

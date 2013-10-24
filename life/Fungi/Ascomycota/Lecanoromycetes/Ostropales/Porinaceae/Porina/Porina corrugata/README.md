@@ -1,8 +1,7 @@
-Porina wilsoniana Müll. Arg. SPECIES
-=======
+# Porina corrugata Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Bull. Herb. Boissier 1: 63 (1893)
 
 #### Original name
-Porina wilsoniana Müll. Arg.
+Porina corrugata Müll. Arg.
 
 ### Remarks
 null

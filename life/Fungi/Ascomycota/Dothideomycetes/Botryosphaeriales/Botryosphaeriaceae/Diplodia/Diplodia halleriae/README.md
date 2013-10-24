@@ -1,5 +1,4 @@
-Diplodia halleriae Tassi SPECIES
-=======
+# Diplodia halleriae Tassi SPECIES
 
 #### Status
 ACCEPTED

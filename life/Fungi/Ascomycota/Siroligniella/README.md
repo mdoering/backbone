@@ -1,5 +1,4 @@
-Siroligniella Naumov GENUS
-=======
+# Siroligniella Naumov GENUS
 
 #### Status
 ACCEPTED

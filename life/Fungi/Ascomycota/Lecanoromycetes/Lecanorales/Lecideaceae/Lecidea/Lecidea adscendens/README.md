@@ -1,5 +1,4 @@
-Lecidea adscendens Vain. SPECIES
-=======
+# Lecidea adscendens Vain. SPECIES
 
 #### Status
 ACCEPTED

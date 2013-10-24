@@ -1,5 +1,4 @@
-Curvularia intermedia Boedijn, 1933 SPECIES
-=======
+# Curvularia intermedia Boedijn, 1933 SPECIES
 
 #### Status
 ACCEPTED

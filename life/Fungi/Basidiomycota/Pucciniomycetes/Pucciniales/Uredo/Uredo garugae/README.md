@@ -1,5 +1,4 @@
-Uredo garugae Sundaram SPECIES
-=======
+# Uredo garugae Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Athelia Persoon, 1822 GENUS
-=======
+# Athelia Persoon, 1822 GENUS
 
 #### Status
 ACCEPTED

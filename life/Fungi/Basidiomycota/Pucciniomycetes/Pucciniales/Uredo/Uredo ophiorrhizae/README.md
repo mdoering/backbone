@@ -1,5 +1,4 @@
-Uredo ophiorrhizae Petch SPECIES
-=======
+# Uredo ophiorrhizae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriomyces flavimarginatus Murrill SPECIES
-=======
+# Ceriomyces flavimarginatus Murrill SPECIES
 
 #### Status
 ACCEPTED

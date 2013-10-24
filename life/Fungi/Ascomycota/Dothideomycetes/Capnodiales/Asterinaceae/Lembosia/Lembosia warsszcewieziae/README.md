@@ -1,5 +1,4 @@
-Lembosia warsszcewieziae Henn. SPECIES
-=======
+# Lembosia warsszcewieziae Henn. SPECIES
 
 #### Status
 ACCEPTED

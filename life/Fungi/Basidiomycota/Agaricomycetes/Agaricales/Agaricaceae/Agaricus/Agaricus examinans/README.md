@@ -1,5 +1,4 @@
-Agaricus examinans Berk. SPECIES
-=======
+# Agaricus examinans Berk. SPECIES
 
 #### Status
 ACCEPTED

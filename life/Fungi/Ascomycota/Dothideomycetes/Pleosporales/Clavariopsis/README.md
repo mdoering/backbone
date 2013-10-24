@@ -1,5 +1,4 @@
-Clavariopsis De Wildeman, 1895 GENUS
-=======
+# Clavariopsis De Wildeman, 1895 GENUS
 
 #### Status
 ACCEPTED

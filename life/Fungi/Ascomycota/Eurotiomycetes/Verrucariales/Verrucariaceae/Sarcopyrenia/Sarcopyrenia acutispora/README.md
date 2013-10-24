@@ -1,5 +1,4 @@
-Sarcopyrenia acutispora Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Sarcopyrenia acutispora Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

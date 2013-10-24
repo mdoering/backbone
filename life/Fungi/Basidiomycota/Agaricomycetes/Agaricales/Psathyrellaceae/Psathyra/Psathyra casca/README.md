@@ -1,5 +1,4 @@
-Psathyra casca (Fr.) Singer SPECIES
-=======
+# Psathyra casca (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

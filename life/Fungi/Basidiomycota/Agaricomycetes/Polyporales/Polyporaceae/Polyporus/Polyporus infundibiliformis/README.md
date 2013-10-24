@@ -1,5 +1,4 @@
-Polyporus infundibiliformis Rostk. SPECIES
-=======
+# Polyporus infundibiliformis Rostk. SPECIES
 
 #### Status
 ACCEPTED

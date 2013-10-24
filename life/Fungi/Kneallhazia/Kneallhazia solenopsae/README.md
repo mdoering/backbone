@@ -1,5 +1,4 @@
-Kneallhazia solenopsae (J.D. Knell, G.E. Allen & E.I. Hazard) Sokolova & Fuxa SPECIES
-=======
+# Kneallhazia solenopsae (J.D. Knell, G.E. Allen & E.I. Hazard) Sokolova & Fuxa SPECIES
 
 #### Status
 ACCEPTED

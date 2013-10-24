@@ -1,5 +1,4 @@
-Zoophthora opomyzae Balazy & Mietk., 1993 SPECIES
-=======
+# Zoophthora opomyzae Balazy & Mietk., 1993 SPECIES
 
 #### Status
 ACCEPTED

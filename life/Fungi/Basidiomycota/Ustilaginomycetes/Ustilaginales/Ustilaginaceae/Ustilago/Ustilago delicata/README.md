@@ -1,5 +1,4 @@
-Ustilago delicata L. Ling SPECIES
-=======
+# Ustilago delicata L. Ling SPECIES
 
 #### Status
 ACCEPTED

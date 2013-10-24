@@ -1,5 +1,4 @@
-Physcia villosa f. villosa FORM
-=======
+# Physcia villosa (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

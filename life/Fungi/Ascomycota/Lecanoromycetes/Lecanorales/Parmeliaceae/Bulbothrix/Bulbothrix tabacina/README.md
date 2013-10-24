@@ -1,17 +1,16 @@
-Parmelia meizospora f. isidiosa Müll. Arg. FORM
-=======
+# Bulbothrix tabacina (Mont. & Bosch) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 67: 620 (1884)
+Phytologia 28: 481 (1974)
 
 #### Original name
-Parmelia meizospora f. isidiosa Müll. Arg.
+Parmelia tabacina Mont. & Bosch
 
 ### Remarks
 null

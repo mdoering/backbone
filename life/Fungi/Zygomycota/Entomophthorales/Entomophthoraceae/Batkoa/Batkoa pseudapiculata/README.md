@@ -1,14 +1,13 @@
-Conidiobolus pseudapiculatus S. Keller, 1994 SPECIES
-=======
+# Batkoa pseudapiculata (S. Keller) B. Huang, Humber & K.T. Hodge, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 46(1): 42 (1994)
+Mycotaxon 100: 231 (2007)
 
 #### Original name
 Conidiobolus pseudapiculatus S. Keller, 1994

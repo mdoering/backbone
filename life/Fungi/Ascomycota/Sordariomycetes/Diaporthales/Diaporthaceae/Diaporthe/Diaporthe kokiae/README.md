@@ -1,5 +1,4 @@
-Diaporthe kokiae Petr. SPECIES
-=======
+# Diaporthe kokiae Petr. SPECIES
 
 #### Status
 ACCEPTED

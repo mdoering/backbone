@@ -1,5 +1,4 @@
-Beltraniopsis miconiae Gusmão & Grandi SPECIES
-=======
+# Beltraniopsis miconiae Gusmão & Grandi SPECIES
 
 #### Status
 ACCEPTED

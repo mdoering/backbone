@@ -1,17 +1,16 @@
-Cryptoparodia Petr. GENUS
-=======
+# Antennularia Reichenbach, 1828 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 365 (1950)
+Consp. Regni Veget. (Leipzig) 5 (1828)
 
 #### Original name
-Cryptoparodia Petr.
+Antennularia Reichenbach, 1828
 
 ### Remarks
 null

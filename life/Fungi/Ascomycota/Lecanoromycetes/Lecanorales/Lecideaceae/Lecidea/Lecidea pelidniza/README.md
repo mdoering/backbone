@@ -1,5 +1,4 @@
-Lecidea pelidniza Nyl. SPECIES
-=======
+# Lecidea pelidniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

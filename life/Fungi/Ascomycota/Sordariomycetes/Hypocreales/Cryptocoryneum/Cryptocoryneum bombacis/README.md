@@ -1,5 +1,4 @@
-Cryptocoryneum bombacis Henn. SPECIES
-=======
+# Cryptocoryneum bombacis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomitiporia hesleri M. Fisch. SPECIES
-=======
+# Fomitiporia hesleri M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

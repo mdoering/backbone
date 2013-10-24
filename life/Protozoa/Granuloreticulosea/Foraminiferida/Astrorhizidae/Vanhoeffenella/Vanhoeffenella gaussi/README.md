@@ -1,5 +1,4 @@
-Vanhoeffenella gaussi Rhumbler, 1905 SPECIES
-=======
+# Vanhoeffenella gaussi Rhumbler, 1905 SPECIES
 
 #### Status
 ACCEPTED

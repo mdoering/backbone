@@ -1,5 +1,4 @@
-Cortinarius infractimor Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius infractimor Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

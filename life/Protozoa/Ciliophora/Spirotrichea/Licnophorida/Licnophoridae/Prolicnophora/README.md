@@ -1,5 +1,4 @@
-Prolicnophora Yankovskij, 1978 GENUS
-=======
+# Prolicnophora Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

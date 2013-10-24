@@ -1,5 +1,4 @@
-Cetraria ochrocarpa (Eggerth) Lettau SPECIES
-=======
+# Cetraria ochrocarpa (Eggerth) Lettau SPECIES
 
 #### Status
 ACCEPTED

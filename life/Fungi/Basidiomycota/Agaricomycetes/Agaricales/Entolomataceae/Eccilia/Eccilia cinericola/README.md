@@ -1,5 +1,4 @@
-Eccilia cinericola Peck SPECIES
-=======
+# Eccilia cinericola Peck SPECIES
 
 #### Status
 ACCEPTED

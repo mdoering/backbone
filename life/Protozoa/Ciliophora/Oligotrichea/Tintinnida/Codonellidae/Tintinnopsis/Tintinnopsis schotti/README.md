@@ -1,5 +1,4 @@
-Tintinnopsis schotti Brandt, 1906 SPECIES
-=======
+# Tintinnopsis schotti Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

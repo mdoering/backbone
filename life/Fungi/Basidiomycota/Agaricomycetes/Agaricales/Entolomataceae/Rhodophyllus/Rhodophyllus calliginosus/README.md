@@ -1,5 +1,4 @@
-Rhodophyllus calliginosus Romagn. & J. Favre SPECIES
-=======
+# Rhodophyllus calliginosus Romagn. & J. Favre SPECIES
 
 #### Status
 ACCEPTED

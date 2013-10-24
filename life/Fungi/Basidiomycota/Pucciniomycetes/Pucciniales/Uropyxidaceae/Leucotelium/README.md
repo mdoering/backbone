@@ -1,5 +1,4 @@
-Leucotelium Tranzschel GENUS
-=======
+# Leucotelium Tranzschel GENUS
 
 #### Status
 ACCEPTED

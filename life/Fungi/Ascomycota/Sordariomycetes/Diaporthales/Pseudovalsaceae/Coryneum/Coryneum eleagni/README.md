@@ -1,5 +1,4 @@
-Coryneum eleagni Jacz. SPECIES
-=======
+# Coryneum eleagni Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria mastophoriza Nyl. SPECIES
-=======
+# Verrucaria mastophoriza Nyl. SPECIES
 
 #### Status
 ACCEPTED

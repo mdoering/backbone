@@ -1,5 +1,4 @@
-Ustilago coronariae Liro, 1924 SPECIES
-=======
+# Ustilago coronariae Liro, 1924 SPECIES
 
 #### Status
 ACCEPTED

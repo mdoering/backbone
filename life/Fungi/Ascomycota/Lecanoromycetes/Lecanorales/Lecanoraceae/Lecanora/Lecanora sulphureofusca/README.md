@@ -1,5 +1,4 @@
-Lecanora sulphureofusca var. sulphureofusca VARIETY
-=======
+# Lecanora sulphureofusca Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora sulphureofusca var. sulphureofusca
+Lecanora sulphureofusca Fée
 
 ### Remarks
 null

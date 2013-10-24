@@ -1,5 +1,4 @@
-Corynophlaea verruculiformis (Y.-P.Lee & I.K.Lee) Y.-P.Lee, 2008 SPECIES
-=======
+# Corynophlaea verruculiformis (Y.-P.Lee & I.K.Lee) Y.-P.Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

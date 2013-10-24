@@ -1,5 +1,4 @@
-Maireina texensis (Berk. & M.A. Curtis ex Cooke) W.B. Cooke SPECIES
-=======
+# Maireina texensis (Berk. & M.A. Curtis ex Cooke) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

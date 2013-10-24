@@ -1,5 +1,4 @@
-Septoria periplocae Hollós SPECIES
-=======
+# Septoria periplocae Hollós SPECIES
 
 #### Status
 ACCEPTED

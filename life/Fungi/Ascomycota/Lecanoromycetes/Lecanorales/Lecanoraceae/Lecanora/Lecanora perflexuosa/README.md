@@ -1,5 +1,4 @@
-Lecanora perflexuosa (Räsänen) H. Miyaw. SPECIES
-=======
+# Lecanora perflexuosa (Räsänen) H. Miyaw. SPECIES
 
 #### Status
 ACCEPTED

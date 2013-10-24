@@ -1,14 +1,13 @@
-Xerocarpus pini (Schleich.) P. Karst., 1882 SPECIES
-=======
+# Peniophora pini (Schleich.) Boidin, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 37: 135 (1882)
+Revue Mycol. , Paris 21: 123 (1956)
 
 #### Original name
 Thelephora pini Schleich., 1815

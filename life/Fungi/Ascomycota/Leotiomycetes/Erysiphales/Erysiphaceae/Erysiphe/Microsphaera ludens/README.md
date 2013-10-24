@@ -1,5 +1,4 @@
-Microsphaera ludens var. lathyri U. Braun VARIETY
-=======
+# Microsphaera ludens (E.S. Salmon) S. Blumer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycotaxon 15: 127 (1982)
+Beitr. Kryptfl. Schweiz 7(no. 1): 351 (1933)
 
 #### Original name
-Microsphaera ludens var. lathyri U. Braun
+Microsphaera alni var. ludens E.S. Salmon
 
 ### Remarks
 null

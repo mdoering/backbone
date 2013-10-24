@@ -1,5 +1,4 @@
-Lactarius hrdovensis kubla SPECIES
-=======
+# Lactarius hrdovensis kubla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rumicicola Gonz. Frag. SPECIES
-=======
+# Puccinia rumicicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

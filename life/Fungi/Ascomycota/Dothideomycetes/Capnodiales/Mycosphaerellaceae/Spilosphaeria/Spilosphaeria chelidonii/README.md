@@ -1,5 +1,4 @@
-Spilosphaeria chelidonii Rabenh. SPECIES
-=======
+# Spilosphaeria chelidonii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

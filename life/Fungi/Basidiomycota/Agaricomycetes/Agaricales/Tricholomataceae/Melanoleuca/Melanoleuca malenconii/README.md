@@ -1,17 +1,16 @@
-Melanoleuca malençonii Bon SPECIES
-=======
+# Melanoleuca malenconii Bon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. , mém. hors sér. 20(no. 79): 59 (1990)
 
 #### Original name
-Melanoleuca malençonii Bon
+Melanoleuca malenconii Bon
 
 ### Remarks
 null

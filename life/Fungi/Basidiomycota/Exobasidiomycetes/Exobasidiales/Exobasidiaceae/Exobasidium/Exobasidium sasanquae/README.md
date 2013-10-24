@@ -1,5 +1,4 @@
-Exobasidium sasanquae Hara & Ezuka SPECIES
-=======
+# Exobasidium sasanquae Hara & Ezuka SPECIES
 
 #### Status
 ACCEPTED

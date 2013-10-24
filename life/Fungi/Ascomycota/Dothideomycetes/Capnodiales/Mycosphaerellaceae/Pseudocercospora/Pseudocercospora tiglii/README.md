@@ -1,5 +1,4 @@
-Pseudocercospora tiglii (Henn.) Crous, U. Braun & Alfenas SPECIES
-=======
+# Pseudocercospora tiglii (Henn.) Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

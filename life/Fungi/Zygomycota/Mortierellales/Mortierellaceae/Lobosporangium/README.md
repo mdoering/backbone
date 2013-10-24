@@ -1,5 +1,4 @@
-Lobosporangium M. Blackw. & Benny GENUS
-=======
+# Lobosporangium M. Blackw. & Benny GENUS
 
 #### Status
 ACCEPTED

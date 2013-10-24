@@ -1,5 +1,4 @@
-Pseudocyphellaria brattii D. J. Galloway & Kantvilas SPECIES
-=======
+# Pseudocyphellaria brattii D. J. Galloway & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

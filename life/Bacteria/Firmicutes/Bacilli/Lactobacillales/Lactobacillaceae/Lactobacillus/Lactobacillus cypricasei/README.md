@@ -1,5 +1,4 @@
-Lactobacillus cypricasei Lawson et al., 2001 SPECIES
-=======
+# Lactobacillus cypricasei Lawson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

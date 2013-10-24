@@ -1,5 +1,4 @@
-Sporidesmium rigense Kirschst. SPECIES
-=======
+# Sporidesmium rigense Kirschst. SPECIES
 
 #### Status
 ACCEPTED

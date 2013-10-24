@@ -1,5 +1,4 @@
-Ceuthospora heteromelicola Nag Raj SPECIES
-=======
+# Ceuthospora heteromelicola Nag Raj SPECIES
 
 #### Status
 ACCEPTED

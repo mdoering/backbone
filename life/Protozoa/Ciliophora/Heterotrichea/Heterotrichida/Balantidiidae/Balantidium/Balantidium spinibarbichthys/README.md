@@ -1,5 +1,4 @@
-Balantidium spinibarbichthys Ky, 1971 SPECIES
-=======
+# Balantidium spinibarbichthys Ky, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beulahmonas B.V. Skvortzov, 1969 GENUS
-=======
+# Beulahmonas B.V. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphenomonas mirabilis Playfair SPECIES
-=======
+# Sphenomonas mirabilis Playfair SPECIES
 
 #### Status
 ACCEPTED

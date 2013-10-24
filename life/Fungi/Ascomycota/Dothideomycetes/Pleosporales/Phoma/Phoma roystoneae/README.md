@@ -1,5 +1,4 @@
-Phoma roystoneae Peck SPECIES
-=======
+# Phoma roystoneae Peck SPECIES
 
 #### Status
 ACCEPTED

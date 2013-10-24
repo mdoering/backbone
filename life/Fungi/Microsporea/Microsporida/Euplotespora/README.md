@@ -1,5 +1,4 @@
-Euplotespora Fokin, Di Giuseppe, Erra & Dini GENUS
-=======
+# Euplotespora Fokin, Di Giuseppe, Erra & Dini GENUS
 
 #### Status
 ACCEPTED

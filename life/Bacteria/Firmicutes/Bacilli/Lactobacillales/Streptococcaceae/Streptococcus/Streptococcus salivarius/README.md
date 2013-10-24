@@ -1,5 +1,4 @@
-Streptococcus salivarius subsp. salivarius Andrewes & Horder, 1906 SUBSPECIES
-=======
+# Streptococcus salivarius Andrewes & Horder, 1906 SPECIES
 
 #### Status
 ACCEPTED

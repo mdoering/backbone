@@ -1,5 +1,4 @@
-Paulia perforata (Pers.) Asahina SPECIES
-=======
+# Paulia perforata (Pers.) Asahina SPECIES
 
 #### Status
 ACCEPTED

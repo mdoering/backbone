@@ -1,5 +1,4 @@
-Torula aclotiana Kuff. SPECIES
-=======
+# Torula aclotiana Kuff. SPECIES
 
 #### Status
 ACCEPTED

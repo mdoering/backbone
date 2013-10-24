@@ -1,5 +1,4 @@
-Diploplenodomus Died. GENUS
-=======
+# Diploplenodomus Died. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina GENUS
-=======
+# Pleosphaerulina GENUS
 
 #### Status
 ACCEPTED

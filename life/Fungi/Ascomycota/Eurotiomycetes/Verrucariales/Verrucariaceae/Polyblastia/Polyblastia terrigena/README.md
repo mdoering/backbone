@@ -1,5 +1,4 @@
-Polyblastia terrigena Zschacke SPECIES
-=======
+# Polyblastia terrigena Zschacke SPECIES
 
 #### Status
 ACCEPTED

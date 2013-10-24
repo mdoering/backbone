@@ -1,5 +1,4 @@
-Heterococcus undulatus Pitschmann SPECIES
-=======
+# Heterococcus undulatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

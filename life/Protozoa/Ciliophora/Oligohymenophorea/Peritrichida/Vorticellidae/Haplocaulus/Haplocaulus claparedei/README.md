@@ -1,5 +1,4 @@
-Haplocaulus claparedei (Andrussowa, 1886) Warren, 1986 SPECIES
-=======
+# Haplocaulus claparedei (Andrussowa, 1886) Warren, 1986 SPECIES
 
 #### Status
 ACCEPTED

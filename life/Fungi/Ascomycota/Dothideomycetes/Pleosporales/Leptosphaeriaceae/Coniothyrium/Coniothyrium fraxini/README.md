@@ -1,14 +1,13 @@
-Microdiplodia fraxini Died., 1914 SPECIES
-=======
+# Coniothyrium fraxini (Died.) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Brandenburg augr. Gebiete 9(3): 594 (1914)
+Feddes Repert. , Beih. 42: 367 (1927)
 
 #### Original name
 Microdiplodia fraxini Died., 1914

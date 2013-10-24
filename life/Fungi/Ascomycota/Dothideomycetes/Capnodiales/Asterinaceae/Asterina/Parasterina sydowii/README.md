@@ -1,5 +1,4 @@
-Parasterina sydowii F. Stevens SPECIES
-=======
+# Parasterina sydowii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

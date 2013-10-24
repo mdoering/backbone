@@ -1,5 +1,4 @@
-Exosporium cantareirense (Henn.) M.B. Ellis SPECIES
-=======
+# Exosporium cantareirense (Henn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina ricini Racib. SPECIES
-=======
+# Asterina ricini Racib. SPECIES
 
 #### Status
 ACCEPTED

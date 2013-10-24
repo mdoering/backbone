@@ -1,5 +1,4 @@
-Coprinus marginatus L. Remy SPECIES
-=======
+# Coprinus marginatus L. Remy SPECIES
 
 #### Status
 ACCEPTED

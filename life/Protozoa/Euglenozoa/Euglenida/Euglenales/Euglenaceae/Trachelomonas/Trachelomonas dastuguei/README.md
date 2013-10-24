@@ -1,5 +1,4 @@
-Trachelomonas dastuguei Balech SPECIES
-=======
+# Trachelomonas dastuguei Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum scherzerianum Grunow SPECIES
-=======
+# Sargassum scherzerianum Grunow SPECIES
 
 #### Status
 ACCEPTED

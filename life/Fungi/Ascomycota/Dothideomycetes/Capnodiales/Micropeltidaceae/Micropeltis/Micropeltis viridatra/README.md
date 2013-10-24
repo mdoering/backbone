@@ -1,5 +1,4 @@
-Micropeltis viridatra G. Winter SPECIES
-=======
+# Micropeltis viridatra G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranthostomella valdiviana Speg. SPECIES
-=======
+# Paranthostomella valdiviana Speg. SPECIES
 
 #### Status
 ACCEPTED

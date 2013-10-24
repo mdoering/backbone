@@ -1,5 +1,4 @@
-Ustalia grammitis (Mont.) Stizenb. SPECIES
-=======
+# Ustalia grammitis (Mont.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

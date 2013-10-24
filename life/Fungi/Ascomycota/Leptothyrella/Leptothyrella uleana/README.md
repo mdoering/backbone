@@ -1,5 +1,4 @@
-Leptothyrella uleana Syd. SPECIES
-=======
+# Leptothyrella uleana Syd. SPECIES
 
 #### Status
 ACCEPTED

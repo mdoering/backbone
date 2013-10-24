@@ -1,5 +1,4 @@
-Entoloma percuboideum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma percuboideum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

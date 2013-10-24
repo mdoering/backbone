@@ -1,5 +1,4 @@
-Duosporium yamadanum (Matsuura) Tsuda & Ueyama SPECIES
-=======
+# Duosporium yamadanum (Matsuura) Tsuda & Ueyama SPECIES
 
 #### Status
 ACCEPTED

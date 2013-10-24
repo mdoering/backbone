@@ -1,5 +1,4 @@
-Vorticella colorata Mereschkowski, 1877 SPECIES
-=======
+# Vorticella colorata Mereschkowski, 1877 SPECIES
 
 #### Status
 ACCEPTED

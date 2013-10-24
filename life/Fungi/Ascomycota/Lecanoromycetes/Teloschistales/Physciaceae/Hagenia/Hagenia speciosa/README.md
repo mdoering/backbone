@@ -1,5 +1,4 @@
-Hagenia speciosa SPECIES
-=======
+# Hagenia speciosa SPECIES
 
 #### Status
 ACCEPTED

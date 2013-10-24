@@ -1,5 +1,4 @@
-Cercospora psoraleae Petr. SPECIES
-=======
+# Cercospora psoraleae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia schelliana Thüm. SPECIES
-=======
+# Puccinia schelliana Thüm. SPECIES
 
 #### Status
 ACCEPTED

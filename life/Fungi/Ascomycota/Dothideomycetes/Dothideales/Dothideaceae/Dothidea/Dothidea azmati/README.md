@@ -1,5 +1,4 @@
-Dothidea azmati Chowdhury {?} SPECIES
-=======
+# Dothidea azmati Chowdhury {?} SPECIES
 
 #### Status
 ACCEPTED

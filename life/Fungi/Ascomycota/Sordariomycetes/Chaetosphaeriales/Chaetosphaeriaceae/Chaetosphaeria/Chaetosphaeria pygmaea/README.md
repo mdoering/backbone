@@ -1,17 +1,16 @@
-Zignoella pygmaea (P. Karst.) Sacc., 1878 SPECIES
-=======
+# Chaetosphaeria pygmaea (P. Karst.) Constant., K. Holm & L. Holm, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 99(6): 590 (1995)
 
 #### Original name
-null
+Sphaeria pygmaea P. Karst., 1869
 
 ### Remarks
 null

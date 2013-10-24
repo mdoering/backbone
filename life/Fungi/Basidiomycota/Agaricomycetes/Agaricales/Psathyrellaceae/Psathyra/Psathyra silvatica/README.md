@@ -1,5 +1,4 @@
-Psathyra silvatica Peck SPECIES
-=======
+# Psathyra silvatica Peck SPECIES
 
 #### Status
 ACCEPTED

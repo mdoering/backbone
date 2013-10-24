@@ -1,17 +1,16 @@
-Cortinarius parvepilus var. parvepilus VARIETY
-=======
+# Cortinarius parvepilus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 101(1): 48 (1985)
 
 #### Original name
-null
+Cortinarius parvepilus Rob. Henry
 
 ### Remarks
 null

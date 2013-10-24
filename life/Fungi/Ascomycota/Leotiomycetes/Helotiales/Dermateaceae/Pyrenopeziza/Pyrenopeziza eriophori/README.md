@@ -1,5 +1,4 @@
-Pyrenopeziza eriophori E. Müll. SPECIES
-=======
+# Pyrenopeziza eriophori E. Müll. SPECIES
 
 #### Status
 ACCEPTED

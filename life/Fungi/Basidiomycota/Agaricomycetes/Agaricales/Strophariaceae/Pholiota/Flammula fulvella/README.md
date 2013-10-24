@@ -1,5 +1,4 @@
-Flammula fulvella Peck SPECIES
-=======
+# Flammula fulvella Peck SPECIES
 
 #### Status
 ACCEPTED

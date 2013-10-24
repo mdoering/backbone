@@ -1,5 +1,4 @@
-Hypocrea asperella Starbäck SPECIES
-=======
+# Hypocrea asperella Starbäck SPECIES
 
 #### Status
 ACCEPTED

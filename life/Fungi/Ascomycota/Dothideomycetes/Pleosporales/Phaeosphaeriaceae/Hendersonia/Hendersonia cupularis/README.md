@@ -1,5 +1,4 @@
-Hendersonia cupularis (P. Karst.) Kuntze SPECIES
-=======
+# Hendersonia cupularis (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

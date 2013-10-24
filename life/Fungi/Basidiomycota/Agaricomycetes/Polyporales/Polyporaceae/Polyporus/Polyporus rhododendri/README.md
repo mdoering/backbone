@@ -1,5 +1,4 @@
-Polyporus rhododendri Schwein. SPECIES
-=======
+# Polyporus rhododendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

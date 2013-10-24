@@ -1,5 +1,4 @@
-Coltricia strigosipes Corner, 1991 SPECIES
-=======
+# Coltricia strigosipes Corner, 1991 SPECIES
 
 #### Status
 ACCEPTED

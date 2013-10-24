@@ -1,5 +1,4 @@
-Tubercularia eucalypti Cooke & Harkn. SPECIES
-=======
+# Tubercularia eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

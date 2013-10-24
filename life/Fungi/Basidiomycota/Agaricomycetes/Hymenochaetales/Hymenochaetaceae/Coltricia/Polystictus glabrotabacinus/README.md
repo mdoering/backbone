@@ -1,5 +1,4 @@
-Polystictus glabrotabacinus Lloyd SPECIES
-=======
+# Polystictus glabrotabacinus Lloyd SPECIES
 
 #### Status
 ACCEPTED

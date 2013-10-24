@@ -1,14 +1,13 @@
-Lactarius piperatus var. pergamenus (Sw.) Rea, 1922 VARIETY
-=======
+# Lactarius pergamenus (Sw.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 486 (1922)
+Epicr. syst. mycol. (Upsaliae) 340 (1838)
 
 #### Original name
 Agaricus pergamenus Sw., 1809

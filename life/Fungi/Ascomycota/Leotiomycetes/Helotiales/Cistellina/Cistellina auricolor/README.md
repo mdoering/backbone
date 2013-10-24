@@ -1,5 +1,4 @@
-Cistellina auricolor Raitv. SPECIES
-=======
+# Cistellina auricolor Raitv. SPECIES
 
 #### Status
 ACCEPTED

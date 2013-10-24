@@ -1,5 +1,4 @@
-Pirottaea trichostoma (Kirschst.) E. Müll. & Arx SPECIES
-=======
+# Pirottaea trichostoma (Kirschst.) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

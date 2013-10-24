@@ -1,5 +1,4 @@
-Vermicularia silphii Schwein. SPECIES
-=======
+# Vermicularia silphii Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gloeocystidium ochroleucum Bres. & Torrend, 1913 SPECIES
-=======
+# Scytinostroma ochroleucum (Bres. & Torrend) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 11(1): 81 (1913)
+Fungus, Wageningen 26: 20 (1956)
 
 #### Original name
 Gloeocystidium ochroleucum Bres. & Torrend, 1913

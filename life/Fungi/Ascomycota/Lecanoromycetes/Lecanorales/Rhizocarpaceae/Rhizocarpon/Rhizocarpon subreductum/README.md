@@ -1,5 +1,4 @@
-Rhizocarpon subreductum (Vain.) Vain. SPECIES
-=======
+# Rhizocarpon subreductum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

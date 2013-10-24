@@ -1,5 +1,4 @@
-Lecanora rivulicola H. Magn. SPECIES
-=======
+# Lecanora rivulicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

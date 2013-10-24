@@ -1,5 +1,4 @@
-Laboulbenia leptostoma Speg. SPECIES
-=======
+# Laboulbenia leptostoma Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pylaiella seriata Kuckuck SPECIES
-=======
+# Pylaiella seriata Kuckuck SPECIES
 
 #### Status
 ACCEPTED

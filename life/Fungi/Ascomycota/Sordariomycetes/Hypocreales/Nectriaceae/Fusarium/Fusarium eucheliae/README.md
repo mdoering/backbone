@@ -1,5 +1,4 @@
-Fusarium eucheliae Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Fusarium eucheliae Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

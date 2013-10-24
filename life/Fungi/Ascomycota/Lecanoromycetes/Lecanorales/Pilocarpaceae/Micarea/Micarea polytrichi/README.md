@@ -1,5 +1,4 @@
-Micarea polytrichi Poelt & Döbbeler SPECIES
-=======
+# Micarea polytrichi Poelt & Döbbeler SPECIES
 
 #### Status
 ACCEPTED

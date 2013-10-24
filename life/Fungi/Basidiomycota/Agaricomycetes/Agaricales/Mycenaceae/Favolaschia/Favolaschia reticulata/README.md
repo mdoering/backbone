@@ -1,5 +1,4 @@
-Favolaschia reticulata (Berk. & Cooke) Kuntze SPECIES
-=======
+# Favolaschia reticulata (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

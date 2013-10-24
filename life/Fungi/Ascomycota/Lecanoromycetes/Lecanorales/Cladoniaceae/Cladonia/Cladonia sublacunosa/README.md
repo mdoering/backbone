@@ -1,5 +1,4 @@
-Cladonia sublacunosa Vain. SPECIES
-=======
+# Cladonia sublacunosa Vain. SPECIES
 
 #### Status
 ACCEPTED

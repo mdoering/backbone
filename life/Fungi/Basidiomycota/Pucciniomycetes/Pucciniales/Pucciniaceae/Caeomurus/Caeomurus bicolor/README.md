@@ -1,5 +1,4 @@
-Caeomurus bicolor (Ellis) Kuntze SPECIES
-=======
+# Caeomurus bicolor (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta majalis C. Massal. SPECIES
-=======
+# Ascochyta majalis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalotus mexicanus Guzmán & V. Mora, 1984 SPECIES
-=======
+# Omphalotus mexicanus Guzmán & V. Mora, 1984 SPECIES
 
 #### Status
 ACCEPTED

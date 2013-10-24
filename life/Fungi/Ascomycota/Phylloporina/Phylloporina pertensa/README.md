@@ -1,5 +1,4 @@
-Phylloporina pertensa (Stirt.) Zahlbr. SPECIES
-=======
+# Phylloporina pertensa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

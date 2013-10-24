@@ -1,5 +1,4 @@
-Stipitococcus urceolatus W. West & G.S. West SPECIES
-=======
+# Stipitococcus urceolatus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxothecium musae Kunze SPECIES
-=======
+# Myxothecium musae Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus marinus (Uden & Zobell) Golubev, 1981 SPECIES
-=======
+# Cryptococcus marinus (Uden & Zobell) Golubev, 1981 SPECIES
 
 #### Status
 ACCEPTED

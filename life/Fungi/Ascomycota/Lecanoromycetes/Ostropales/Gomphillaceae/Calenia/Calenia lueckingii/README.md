@@ -1,17 +1,16 @@
-Calenia lükingii C. Hartmann SPECIES
-=======
+# Calenia lueckingii C. Hartmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 59: 484 (1996)
 
 #### Original name
-Calenia lükingii C. Hartmann
+Calenia lueckingii C. Hartmann
 
 ### Remarks
 null

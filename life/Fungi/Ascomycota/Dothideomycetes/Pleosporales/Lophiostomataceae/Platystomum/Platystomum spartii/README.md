@@ -1,5 +1,4 @@
-Platystomum spartii (Fabre) Lindau SPECIES
-=======
+# Platystomum spartii (Fabre) Lindau SPECIES
 
 #### Status
 ACCEPTED

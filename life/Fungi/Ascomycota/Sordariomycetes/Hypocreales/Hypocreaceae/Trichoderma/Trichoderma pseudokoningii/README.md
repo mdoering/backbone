@@ -1,5 +1,4 @@
-Trichoderma pseudokoningii Rifai, 1969 SPECIES
-=======
+# Trichoderma pseudokoningii Rifai, 1969 SPECIES
 
 #### Status
 ACCEPTED

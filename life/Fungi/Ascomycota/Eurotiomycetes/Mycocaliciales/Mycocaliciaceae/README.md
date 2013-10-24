@@ -1,5 +1,4 @@
-Mycocaliciaceae Alf. Schmidt FAMILY
-=======
+# Mycocaliciaceae Alf. Schmidt FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyophimus lucerna SPECIES
-=======
+# Dictyophimus lucerna SPECIES
 
 #### Status
 ACCEPTED

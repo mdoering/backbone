@@ -1,5 +1,4 @@
-Planodiscorbis lingi Huang SPECIES
-=======
+# Planodiscorbis lingi Huang SPECIES
 
 #### Status
 ACCEPTED

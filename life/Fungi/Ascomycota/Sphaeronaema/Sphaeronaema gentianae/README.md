@@ -1,5 +1,4 @@
-Sphaeronaema gentianae Moesz SPECIES
-=======
+# Sphaeronaema gentianae Moesz SPECIES
 
 #### Status
 ACCEPTED

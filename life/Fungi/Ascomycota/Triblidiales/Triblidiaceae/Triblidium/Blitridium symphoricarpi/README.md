@@ -1,5 +1,4 @@
-Blitridium symphoricarpi Ellis & Everh. SPECIES
-=======
+# Blitridium symphoricarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

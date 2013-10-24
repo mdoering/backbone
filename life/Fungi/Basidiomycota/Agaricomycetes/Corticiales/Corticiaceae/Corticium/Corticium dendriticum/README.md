@@ -1,5 +1,4 @@
-Corticium dendriticum Henn. SPECIES
-=======
+# Corticium dendriticum Henn. SPECIES
 
 #### Status
 ACCEPTED

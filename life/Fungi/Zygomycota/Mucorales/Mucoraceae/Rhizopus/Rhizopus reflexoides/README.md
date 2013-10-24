@@ -1,5 +1,4 @@
-Rhizopus reflexoides Philippow SPECIES
-=======
+# Rhizopus reflexoides Philippow SPECIES
 
 #### Status
 ACCEPTED

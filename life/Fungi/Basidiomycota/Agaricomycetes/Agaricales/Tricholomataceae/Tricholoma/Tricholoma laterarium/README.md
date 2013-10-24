@@ -1,5 +1,4 @@
-Tricholoma laterarium (Peck) Sacc. SPECIES
-=======
+# Tricholoma laterarium (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

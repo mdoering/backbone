@@ -1,5 +1,4 @@
-Bathelium velatum Müll. Arg. SPECIES
-=======
+# Bathelium velatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

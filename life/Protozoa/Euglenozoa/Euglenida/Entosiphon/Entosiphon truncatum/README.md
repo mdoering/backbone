@@ -1,5 +1,4 @@
-Entosiphon truncatum SPECIES
-=======
+# Entosiphon truncatum SPECIES
 
 #### Status
 ACCEPTED

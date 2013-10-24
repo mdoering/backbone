@@ -1,5 +1,4 @@
-Cothurina GENUS
-=======
+# Cothurina GENUS
 
 #### Status
 ACCEPTED

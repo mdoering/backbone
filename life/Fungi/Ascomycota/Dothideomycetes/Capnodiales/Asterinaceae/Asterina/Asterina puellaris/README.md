@@ -1,5 +1,4 @@
-Asterina puellaris Syd. SPECIES
-=======
+# Asterina puellaris Syd. SPECIES
 
 #### Status
 ACCEPTED

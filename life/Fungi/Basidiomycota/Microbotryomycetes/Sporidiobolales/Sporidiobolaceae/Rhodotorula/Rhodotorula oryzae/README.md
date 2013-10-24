@@ -1,5 +1,4 @@
-Rhodotorula oryzae F.Y. Bai & Y.M. Cai SPECIES
-=======
+# Rhodotorula oryzae F.Y. Bai & Y.M. Cai SPECIES
 
 #### Status
 ACCEPTED

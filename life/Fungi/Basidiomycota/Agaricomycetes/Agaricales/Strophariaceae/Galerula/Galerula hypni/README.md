@@ -1,5 +1,4 @@
-Galerula hypni (Batsch) Murrill SPECIES
-=======
+# Galerula hypni (Batsch) Murrill SPECIES
 
 #### Status
 ACCEPTED

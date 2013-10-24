@@ -1,5 +1,4 @@
-Botryobasidium verrucisporum (Burds. & Gilb.) G. Langer SPECIES
-=======
+# Botryobasidium verrucisporum (Burds. & Gilb.) G. Langer SPECIES
 
 #### Status
 ACCEPTED

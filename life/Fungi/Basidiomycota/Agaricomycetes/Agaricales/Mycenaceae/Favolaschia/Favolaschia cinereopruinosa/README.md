@@ -1,5 +1,4 @@
-Favolaschia cinereopruinosa (Kalchbr.) Kuntze SPECIES
-=======
+# Favolaschia cinereopruinosa (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

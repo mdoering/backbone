@@ -1,5 +1,4 @@
-Tubercularia ribesii Westend. SPECIES
-=======
+# Tubercularia ribesii Westend. SPECIES
 
 #### Status
 ACCEPTED

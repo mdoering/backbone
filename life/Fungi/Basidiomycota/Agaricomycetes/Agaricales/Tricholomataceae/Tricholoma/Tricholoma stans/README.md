@@ -1,17 +1,16 @@
-Agaricus stans var. stans VARIETY
-=======
+# Tricholoma stans (Fr.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 52 (1874)
+Syll. fung. (Abellini) 5: 94 (1887)
 
 #### Original name
-Agaricus stans var. stans
+Agaricus stans Fr., 1874
 
 ### Remarks
 null

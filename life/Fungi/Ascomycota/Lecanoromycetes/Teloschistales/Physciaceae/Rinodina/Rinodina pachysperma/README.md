@@ -1,5 +1,4 @@
-Rinodina pachysperma H. Magn. SPECIES
-=======
+# Rinodina pachysperma H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria prorumpens Rehm SPECIES
-=======
+# Nectria prorumpens Rehm SPECIES
 
 #### Status
 ACCEPTED

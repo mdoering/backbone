@@ -1,5 +1,4 @@
-Arthonia farinosa Harm. SPECIES
-=======
+# Arthonia farinosa Harm. SPECIES
 
 #### Status
 ACCEPTED

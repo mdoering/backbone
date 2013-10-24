@@ -1,11 +1,10 @@
-Flavobacterium acetylicum Levine & Soppeland, 1926 SPECIES
-=======
+# Exiguobacterium acetylicum (Levine & Soppeland, 1926) Farrow et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

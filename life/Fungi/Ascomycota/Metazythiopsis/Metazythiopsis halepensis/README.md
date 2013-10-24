@@ -1,5 +1,4 @@
-Metazythiopsis halepensis M. Morelet, 1988 SPECIES
-=======
+# Metazythiopsis halepensis M. Morelet, 1988 SPECIES
 
 #### Status
 ACCEPTED

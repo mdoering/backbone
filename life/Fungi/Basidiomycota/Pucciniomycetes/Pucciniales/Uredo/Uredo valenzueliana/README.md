@@ -1,5 +1,4 @@
-Uredo valenzueliana Speg. SPECIES
-=======
+# Uredo valenzueliana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scoliciosporum caesitium (Nyl.) Jatta SPECIES
-=======
+# Scoliciosporum caesitium (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

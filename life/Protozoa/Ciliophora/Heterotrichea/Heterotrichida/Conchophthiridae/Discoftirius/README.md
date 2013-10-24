@@ -1,5 +1,4 @@
-Discoftirius GENUS
-=======
+# Discoftirius GENUS
 
 #### Status
 ACCEPTED

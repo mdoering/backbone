@@ -1,17 +1,16 @@
-Tuber monosporum (Mattir.) Vizzini, 2008 SPECIES
-=======
+# Paradoxa monospora Mattir., 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 8(2): 32 (1935)
 
 #### Original name
-null
+Paradoxa monospora Mattir., 1935
 
 ### Remarks
 null

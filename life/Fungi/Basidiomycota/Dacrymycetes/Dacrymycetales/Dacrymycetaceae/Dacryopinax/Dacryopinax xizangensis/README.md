@@ -1,5 +1,4 @@
-Dacryopinax xizangensis Lowy & M. Zang, 1985 SPECIES
-=======
+# Dacryopinax xizangensis Lowy & M. Zang, 1985 SPECIES
 
 #### Status
 ACCEPTED

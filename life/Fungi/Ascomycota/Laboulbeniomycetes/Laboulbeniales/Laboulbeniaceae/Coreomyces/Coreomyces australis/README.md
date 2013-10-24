@@ -1,5 +1,4 @@
-Coreomyces australis Speg. SPECIES
-=======
+# Coreomyces australis Speg. SPECIES
 
 #### Status
 ACCEPTED

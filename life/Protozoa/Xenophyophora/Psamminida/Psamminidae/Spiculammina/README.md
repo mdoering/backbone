@@ -1,5 +1,4 @@
-Spiculammina Kamenskaya, 2005 GENUS
-=======
+# Spiculammina Kamenskaya, 2005 GENUS
 
 #### Status
 ACCEPTED

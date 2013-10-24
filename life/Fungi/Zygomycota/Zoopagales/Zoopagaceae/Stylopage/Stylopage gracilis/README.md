@@ -1,5 +1,4 @@
-Stylopage gracilis Mekht. & Islamov, 1979 SPECIES
-=======
+# Stylopage gracilis Mekht. & Islamov, 1979 SPECIES
 
 #### Status
 ACCEPTED

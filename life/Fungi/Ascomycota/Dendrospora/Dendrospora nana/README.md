@@ -1,5 +1,4 @@
-Dendrospora nana Descals & J. Webster, 1980 SPECIES
-=======
+# Dendrospora nana Descals & J. Webster, 1980 SPECIES
 
 #### Status
 ACCEPTED

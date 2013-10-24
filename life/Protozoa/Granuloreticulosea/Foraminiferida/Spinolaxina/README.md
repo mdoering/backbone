@@ -1,5 +1,4 @@
-Spinolaxina Conil & Naum, 1977 GENUS
-=======
+# Spinolaxina Conil & Naum, 1977 GENUS
 
 #### Status
 ACCEPTED

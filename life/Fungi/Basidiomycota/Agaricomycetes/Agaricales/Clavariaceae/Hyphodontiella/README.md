@@ -1,5 +1,4 @@
-Hyphodontiella Å. Strid, 1975 GENUS
-=======
+# Hyphodontiella Å. Strid, 1975 GENUS
 
 #### Status
 ACCEPTED

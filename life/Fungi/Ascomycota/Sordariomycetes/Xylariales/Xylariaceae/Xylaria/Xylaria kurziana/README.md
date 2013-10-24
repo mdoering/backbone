@@ -1,5 +1,4 @@
-Xylaria kurziana Curr. SPECIES
-=======
+# Xylaria kurziana Curr. SPECIES
 
 #### Status
 ACCEPTED

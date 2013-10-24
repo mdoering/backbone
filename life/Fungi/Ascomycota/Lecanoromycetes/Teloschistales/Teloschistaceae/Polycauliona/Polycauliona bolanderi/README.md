@@ -1,5 +1,4 @@
-Polycauliona bolanderi Hue SPECIES
-=======
+# Polycauliona bolanderi Hue SPECIES
 
 #### Status
 ACCEPTED

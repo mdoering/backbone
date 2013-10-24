@@ -1,5 +1,4 @@
-Stypella variabilis L.S. Olive SPECIES
-=======
+# Stypella variabilis L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

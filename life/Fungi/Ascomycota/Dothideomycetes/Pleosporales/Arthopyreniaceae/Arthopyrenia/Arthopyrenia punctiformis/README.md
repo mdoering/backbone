@@ -1,5 +1,4 @@
-Arthopyrenia punctiformis (Schrank) A. Massal. SPECIES
-=======
+# Arthopyrenia punctiformis (Schrank) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

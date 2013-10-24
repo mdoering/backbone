@@ -1,17 +1,16 @@
-Mycena clavicularis var. clavicularis VARIETY
-=======
+# Mycena clavicularis (Fr.) Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomycètes (Alençon) 257 (1876)
 
 #### Original name
-Mycena clavicularis var. clavicularis
+Agaricus clavicularis Fr., 1821
 
 ### Remarks
 null

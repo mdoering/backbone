@@ -1,5 +1,4 @@
-Pholiota potanini Kalchbr. SPECIES
-=======
+# Pholiota potanini Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

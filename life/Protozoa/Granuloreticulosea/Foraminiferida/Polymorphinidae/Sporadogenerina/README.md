@@ -1,5 +1,4 @@
-Sporadogenerina Cushman, 1927 GENUS
-=======
+# Sporadogenerina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

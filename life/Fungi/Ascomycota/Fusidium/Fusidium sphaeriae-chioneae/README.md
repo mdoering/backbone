@@ -1,5 +1,4 @@
-Fusidium sphaeriae-chioneae Corda SPECIES
-=======
+# Fusidium sphaeriae-chioneae Corda SPECIES
 
 #### Status
 ACCEPTED

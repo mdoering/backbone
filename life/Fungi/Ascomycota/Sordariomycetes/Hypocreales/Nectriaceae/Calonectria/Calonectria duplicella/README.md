@@ -1,5 +1,4 @@
-Calonectria duplicella (Nyl.) P. Karst. SPECIES
-=======
+# Calonectria duplicella (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium plicatispinae Górka, 1969 SPECIES
-=======
+# Baltisphaeridium plicatispinae Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

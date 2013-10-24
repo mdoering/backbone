@@ -1,5 +1,4 @@
-Tintinnopsis amoyensis SPECIES
-=======
+# Tintinnopsis amoyensis SPECIES
 
 #### Status
 ACCEPTED

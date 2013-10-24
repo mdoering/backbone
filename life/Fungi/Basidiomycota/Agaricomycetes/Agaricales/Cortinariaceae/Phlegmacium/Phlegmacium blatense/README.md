@@ -1,5 +1,4 @@
-Phlegmacium blatense (Pilát) M.M. Moser SPECIES
-=======
+# Phlegmacium blatense (Pilát) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

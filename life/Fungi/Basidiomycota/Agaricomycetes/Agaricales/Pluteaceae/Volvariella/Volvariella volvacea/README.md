@@ -1,17 +1,16 @@
-Volvaria volvacea var. volvacea VARIETY
-=======
+# Volvariella volvacea (Bull.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 23, 99 (1871)
+in Wasser, Lilloa 22: 401 (1951)
 
 #### Original name
-Volvaria volvacea var. volvacea
+Agaricus volvaceus Bull., 1786
 
 ### Remarks
 null

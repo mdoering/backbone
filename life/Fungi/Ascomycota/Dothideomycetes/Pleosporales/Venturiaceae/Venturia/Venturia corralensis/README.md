@@ -1,5 +1,4 @@
-Venturia corralensis Speg. SPECIES
-=======
+# Venturia corralensis Speg. SPECIES
 
 #### Status
 ACCEPTED

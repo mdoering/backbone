@@ -1,5 +1,4 @@
-Eolichen clavatus SPECIES
-=======
+# Eolichen clavatus SPECIES
 
 #### Status
 ACCEPTED

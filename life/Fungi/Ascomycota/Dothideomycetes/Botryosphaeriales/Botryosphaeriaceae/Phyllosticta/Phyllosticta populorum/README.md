@@ -1,5 +1,4 @@
-Phyllosticta populorum Sacc. & Roum. SPECIES
-=======
+# Phyllosticta populorum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

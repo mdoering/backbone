@@ -1,5 +1,4 @@
-Catillaria mortualis (Stizenb.) Zahlbr. SPECIES
-=======
+# Catillaria mortualis (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

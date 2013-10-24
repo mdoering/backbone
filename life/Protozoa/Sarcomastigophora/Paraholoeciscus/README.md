@@ -1,5 +1,4 @@
-Paraholoeciscus Aitchis, 1993 GENUS
-=======
+# Paraholoeciscus Aitchis, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota crispata J.V. Lamouroux SPECIES
-=======
+# Dictyota crispata J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

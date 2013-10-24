@@ -1,5 +1,4 @@
-Mycobacterium leprae (Hansen, 1880) Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium leprae (Hansen, 1880) Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

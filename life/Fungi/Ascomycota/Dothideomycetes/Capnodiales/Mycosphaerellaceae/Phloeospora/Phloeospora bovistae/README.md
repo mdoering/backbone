@@ -1,5 +1,4 @@
-Phloeospora bovistae Hollós SPECIES
-=======
+# Phloeospora bovistae Hollós SPECIES
 
 #### Status
 ACCEPTED

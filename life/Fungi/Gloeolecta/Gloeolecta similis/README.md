@@ -1,5 +1,4 @@
-Gloeolecta similis Vezda SPECIES
-=======
+# Gloeolecta similis Vezda SPECIES
 
 #### Status
 ACCEPTED

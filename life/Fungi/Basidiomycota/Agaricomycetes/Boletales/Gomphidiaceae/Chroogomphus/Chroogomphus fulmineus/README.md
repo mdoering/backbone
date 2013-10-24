@@ -1,14 +1,13 @@
-Chroogomphus ochraceus subsp. fulmineus (R. Heim) Singer SUBSPECIES
-=======
+# Chroogomphus fulmineus (R. Heim) Courtec., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agaric. mod. Tax. (Koenigstein), Edn 4 736 (1986)
+Docums Mycol. 18(no. 72): 50 (1988)
 
 #### Original name
 Gomphidius viscidus var. fulmineus R. Heim, 1934

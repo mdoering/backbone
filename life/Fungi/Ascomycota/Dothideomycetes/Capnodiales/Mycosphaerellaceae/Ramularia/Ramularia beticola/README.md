@@ -1,5 +1,4 @@
-Ramularia beticola Fautrey & Lambotte, 1897 SPECIES
-=======
+# Ramularia beticola Fautrey & Lambotte, 1897 SPECIES
 
 #### Status
 ACCEPTED

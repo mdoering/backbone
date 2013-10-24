@@ -1,14 +1,13 @@
-Geniculifera inaequale (Massee & E.S. Salmon) Subram. SPECIES
-=======
+# Trichothecium inaequale Massee & E.S. Salmon, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. , Lond. 16: 84 (1902)
 
 #### Original name
 Trichothecium inaequale Massee & E.S. Salmon, 1902

@@ -1,5 +1,4 @@
-Phillipsia carminea (Pat.) Le Gal SPECIES
-=======
+# Phillipsia carminea (Pat.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

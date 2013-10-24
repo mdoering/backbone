@@ -1,5 +1,4 @@
-Lophocysta S.B. Manum, 1979 GENUS
-=======
+# Lophocysta S.B. Manum, 1979 GENUS
 
 #### Status
 ACCEPTED

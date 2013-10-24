@@ -1,5 +1,4 @@
-Agaricus gregorianus Speg. SPECIES
-=======
+# Agaricus gregorianus Speg. SPECIES
 
 #### Status
 ACCEPTED

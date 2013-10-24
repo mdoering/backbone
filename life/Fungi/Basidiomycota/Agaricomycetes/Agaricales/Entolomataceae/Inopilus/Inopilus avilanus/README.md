@@ -1,5 +1,4 @@
-Inopilus avilanus (Dennis) Pegler SPECIES
-=======
+# Inopilus avilanus (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

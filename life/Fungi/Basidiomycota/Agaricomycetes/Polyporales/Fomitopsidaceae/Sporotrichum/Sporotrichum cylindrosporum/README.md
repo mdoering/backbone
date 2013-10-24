@@ -1,5 +1,4 @@
-Sporotrichum cylindrosporum Link SPECIES
-=======
+# Sporotrichum cylindrosporum Link SPECIES
 
 #### Status
 ACCEPTED

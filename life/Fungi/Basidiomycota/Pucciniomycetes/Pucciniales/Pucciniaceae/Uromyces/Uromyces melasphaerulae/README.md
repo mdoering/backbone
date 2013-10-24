@@ -1,5 +1,4 @@
-Uromyces melasphaerulae Syd. & P. Syd. SPECIES
-=======
+# Uromyces melasphaerulae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

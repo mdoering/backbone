@@ -1,5 +1,4 @@
-Tetraporina simplicissima Kondratyev, 1963 SPECIES
-=======
+# Tetraporina simplicissima Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

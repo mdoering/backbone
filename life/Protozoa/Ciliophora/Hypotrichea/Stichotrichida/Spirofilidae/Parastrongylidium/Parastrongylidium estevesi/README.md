@@ -1,5 +1,4 @@
-Parastrongylidium estevesi (Paiva & Silva-Neto, 2005) Siqueira-Castro, Paiva & Silva-Neto, 2009 SPECIES
-=======
+# Parastrongylidium estevesi (Paiva & Silva-Neto, 2005) Siqueira-Castro, Paiva & Silva-Neto, 2009 SPECIES
 
 #### Status
 ACCEPTED

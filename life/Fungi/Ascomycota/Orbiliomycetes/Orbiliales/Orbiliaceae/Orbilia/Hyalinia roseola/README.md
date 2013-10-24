@@ -1,5 +1,4 @@
-Hyalinia roseola (Fr.) Boud. SPECIES
-=======
+# Hyalinia roseola (Fr.) Boud. SPECIES
 
 #### Status
 ACCEPTED

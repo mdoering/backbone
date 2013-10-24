@@ -1,5 +1,4 @@
-Steigerispongus Kozur & Mostler, 1996 GENUS
-=======
+# Steigerispongus Kozur & Mostler, 1996 GENUS
 
 #### Status
 ACCEPTED

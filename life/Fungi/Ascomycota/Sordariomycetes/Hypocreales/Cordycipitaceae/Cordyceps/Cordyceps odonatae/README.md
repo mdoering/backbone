@@ -1,5 +1,4 @@
-Cordyceps odonatae Kobayasi SPECIES
-=======
+# Cordyceps odonatae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

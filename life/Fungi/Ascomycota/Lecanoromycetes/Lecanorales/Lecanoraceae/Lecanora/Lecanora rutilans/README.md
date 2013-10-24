@@ -1,5 +1,4 @@
-Lecanora rutilans Nyl. SPECIES
-=======
+# Lecanora rutilans Nyl. SPECIES
 
 #### Status
 ACCEPTED

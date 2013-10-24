@@ -1,5 +1,4 @@
-Scytinostroma microspermum Boidin & Lanq., 1987 SPECIES
-=======
+# Scytinostroma microspermum Boidin & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

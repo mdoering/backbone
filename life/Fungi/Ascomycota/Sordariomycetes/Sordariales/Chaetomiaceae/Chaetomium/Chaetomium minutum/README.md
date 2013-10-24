@@ -1,5 +1,4 @@
-Chaetomium minutum Krzemien. & Badura SPECIES
-=======
+# Chaetomium minutum Krzemien. & Badura SPECIES
 
 #### Status
 ACCEPTED

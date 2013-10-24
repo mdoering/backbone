@@ -1,5 +1,4 @@
-Graphis gomezii Lücking, Will-Wolf & Umaña SPECIES
-=======
+# Graphis gomezii Lücking, Will-Wolf & Umaña SPECIES
 
 #### Status
 ACCEPTED

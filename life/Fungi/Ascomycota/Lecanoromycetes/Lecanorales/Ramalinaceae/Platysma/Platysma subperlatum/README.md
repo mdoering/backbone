@@ -1,5 +1,4 @@
-Platysma subperlatum Nyl. SPECIES
-=======
+# Platysma subperlatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

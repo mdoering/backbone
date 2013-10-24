@@ -1,5 +1,4 @@
-Pseudocercospora dioscoreae Deighton SPECIES
-=======
+# Pseudocercospora dioscoreae Deighton SPECIES
 
 #### Status
 ACCEPTED

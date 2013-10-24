@@ -1,5 +1,4 @@
-Teichospora dispersa (Kirschst.) Sacc. & Trotter SPECIES
-=======
+# Teichospora dispersa (Kirschst.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

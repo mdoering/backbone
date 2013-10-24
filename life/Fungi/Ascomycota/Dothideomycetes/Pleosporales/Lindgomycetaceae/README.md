@@ -1,5 +1,4 @@
-Lindgomycetaceae FAMILY
-=======
+# Lindgomycetaceae FAMILY
 
 #### Status
 ACCEPTED

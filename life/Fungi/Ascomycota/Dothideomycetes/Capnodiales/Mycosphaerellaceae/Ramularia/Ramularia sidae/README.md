@@ -1,5 +1,4 @@
-Ramularia sidae Olive SPECIES
-=======
+# Ramularia sidae Olive SPECIES
 
 #### Status
 ACCEPTED

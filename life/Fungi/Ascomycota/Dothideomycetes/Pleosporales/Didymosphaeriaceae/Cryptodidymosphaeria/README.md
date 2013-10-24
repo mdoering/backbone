@@ -1,5 +1,4 @@
-Cryptodidymosphaeria GENUS
-=======
+# Cryptodidymosphaeria GENUS
 
 #### Status
 ACCEPTED

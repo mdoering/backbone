@@ -1,5 +1,4 @@
-Pleurotus semicaptus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus semicaptus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

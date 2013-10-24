@@ -1,5 +1,4 @@
-Puccinia paederotae Savile SPECIES
-=======
+# Puccinia paederotae Savile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema dolosum (Abbayes) Hale SPECIES
-=======
+# Parmotrema dolosum (Abbayes) Hale SPECIES
 
 #### Status
 ACCEPTED

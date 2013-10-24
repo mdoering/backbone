@@ -1,5 +1,4 @@
-Austroboletus rostrupii (Syd. & P. Syd.) E. Horak SPECIES
-=======
+# Austroboletus rostrupii (Syd. & P. Syd.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

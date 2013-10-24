@@ -1,5 +1,4 @@
-Leptogium patwardhanii Dube & Makhija SPECIES
-=======
+# Leptogium patwardhanii Dube & Makhija SPECIES
 
 #### Status
 ACCEPTED

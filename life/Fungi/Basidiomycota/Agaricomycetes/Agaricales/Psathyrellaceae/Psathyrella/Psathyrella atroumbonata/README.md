@@ -1,5 +1,4 @@
-Psathyrella atroumbonata Pegler SPECIES
-=======
+# Psathyrella atroumbonata Pegler SPECIES
 
 #### Status
 ACCEPTED

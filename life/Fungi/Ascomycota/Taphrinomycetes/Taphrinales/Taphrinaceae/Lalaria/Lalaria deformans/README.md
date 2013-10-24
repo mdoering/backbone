@@ -1,5 +1,4 @@
-Lalaria deformans R.T. Moore SPECIES
-=======
+# Lalaria deformans R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

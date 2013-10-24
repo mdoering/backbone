@@ -1,5 +1,4 @@
-Xylaria brasiliensis (Theiss.) Lloyd SPECIES
-=======
+# Xylaria brasiliensis (Theiss.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

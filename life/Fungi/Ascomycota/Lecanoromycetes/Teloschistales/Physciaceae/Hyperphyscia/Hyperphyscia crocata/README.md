@@ -1,5 +1,4 @@
-Hyperphyscia crocata Kashiw. SPECIES
-=======
+# Hyperphyscia crocata Kashiw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiastozygus spissus SPECIES
-=======
+# Chiastozygus spissus SPECIES
 
 #### Status
 ACCEPTED

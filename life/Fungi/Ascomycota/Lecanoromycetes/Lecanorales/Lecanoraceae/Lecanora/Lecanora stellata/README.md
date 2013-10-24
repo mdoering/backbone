@@ -1,5 +1,4 @@
-Lecanora stellata (Lynge) Sheard SPECIES
-=======
+# Lecanora stellata (Lynge) Sheard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum griseum Heald & F.A. Wolf SPECIES
-=======
+# Colletotrichum griseum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

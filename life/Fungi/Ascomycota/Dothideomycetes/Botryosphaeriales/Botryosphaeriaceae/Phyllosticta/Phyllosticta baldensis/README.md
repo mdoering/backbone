@@ -1,5 +1,4 @@
-Phyllosticta baldensis C. Massal. SPECIES
-=======
+# Phyllosticta baldensis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

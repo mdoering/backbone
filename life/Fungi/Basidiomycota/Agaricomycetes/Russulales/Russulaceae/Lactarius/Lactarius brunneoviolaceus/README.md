@@ -1,5 +1,4 @@
-Lactarius brunneoviolaceus M.P. Christ. SPECIES
-=======
+# Lactarius brunneoviolaceus M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus refractus Wood SPECIES
-=======
+# Chroococcus refractus Wood SPECIES
 
 #### Status
 ACCEPTED

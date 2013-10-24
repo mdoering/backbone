@@ -1,5 +1,4 @@
-Barbarosporina rhytismatis Kirulis, 1942 SPECIES
-=======
+# Barbarosporina rhytismatis Kirulis, 1942 SPECIES
 
 #### Status
 ACCEPTED

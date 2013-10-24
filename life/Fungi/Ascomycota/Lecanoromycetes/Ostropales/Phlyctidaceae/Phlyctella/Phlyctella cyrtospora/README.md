@@ -1,5 +1,4 @@
-Phlyctella cyrtospora (C. Knight) Müll. Arg. SPECIES
-=======
+# Phlyctella cyrtospora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

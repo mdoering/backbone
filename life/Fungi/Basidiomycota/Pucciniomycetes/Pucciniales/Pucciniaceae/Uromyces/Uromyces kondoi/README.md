@@ -1,5 +1,4 @@
-Uromyces kondoi Miura SPECIES
-=======
+# Uromyces kondoi Miura SPECIES
 
 #### Status
 ACCEPTED

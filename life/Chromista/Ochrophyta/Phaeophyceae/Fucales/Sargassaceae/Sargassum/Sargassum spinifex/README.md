@@ -1,5 +1,4 @@
-Sargassum spinifex C. Agardh SPECIES
-=======
+# Sargassum spinifex C. Agardh SPECIES
 
 #### Status
 ACCEPTED

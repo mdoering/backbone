@@ -1,5 +1,4 @@
-Asterolibertia gibbosa Bat. & Peres SPECIES
-=======
+# Asterolibertia gibbosa Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

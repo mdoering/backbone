@@ -1,5 +1,4 @@
-Trametes membranacea (Sw.) Kreisel SPECIES
-=======
+# Trametes membranacea (Sw.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

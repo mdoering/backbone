@@ -1,5 +1,4 @@
-Cystolepiota luteifolia Singer SPECIES
-=======
+# Cystolepiota luteifolia Singer SPECIES
 
 #### Status
 ACCEPTED

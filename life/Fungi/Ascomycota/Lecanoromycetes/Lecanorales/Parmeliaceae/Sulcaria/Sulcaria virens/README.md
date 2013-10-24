@@ -1,5 +1,4 @@
-Sulcaria virens var. virens VARIETY
-=======
+# Sulcaria virens (Taylor) Bystrek SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Univ. Mariae Curie-Sklodowska, Sect. C, Biol. 26(no. 21): 276 (1971)
 
 #### Original name
-Sulcaria virens var. virens
+Alectoria virens Taylor
 
 ### Remarks
 null

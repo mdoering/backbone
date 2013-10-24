@@ -1,5 +1,4 @@
-Lyngbya submonilifera Frémy SPECIES
-=======
+# Lyngbya submonilifera Frémy SPECIES
 
 #### Status
 ACCEPTED

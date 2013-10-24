@@ -1,5 +1,4 @@
-Placographa varangarica Th. Fr. SPECIES
-=======
+# Placographa varangarica Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

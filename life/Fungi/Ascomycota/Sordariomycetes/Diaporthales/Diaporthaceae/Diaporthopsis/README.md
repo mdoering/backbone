@@ -1,5 +1,4 @@
-Diaporthopsis Fabre, 1883 GENUS
-=======
+# Diaporthopsis Fabre, 1883 GENUS
 
 #### Status
 ACCEPTED

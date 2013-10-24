@@ -1,5 +1,4 @@
-Phyllosticta amazonica Syd. {?} SPECIES
-=======
+# Phyllosticta amazonica Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

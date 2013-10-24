@@ -1,5 +1,4 @@
-Lophocorys polyacantha Popofsky, 1913 SPECIES
-=======
+# Lophocorys polyacantha Popofsky, 1913 SPECIES
 
 #### Status
 ACCEPTED

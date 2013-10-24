@@ -1,5 +1,4 @@
-Teratomyces mirificus Thaxt., 1894 SPECIES
-=======
+# Teratomyces mirificus Thaxt., 1894 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligoporus parvus Renvall SPECIES
-=======
+# Oligoporus parvus Renvall SPECIES
 
 #### Status
 ACCEPTED

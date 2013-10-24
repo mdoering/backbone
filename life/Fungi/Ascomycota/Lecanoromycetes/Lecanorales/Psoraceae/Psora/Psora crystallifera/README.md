@@ -1,17 +1,16 @@
-Psora testudinea Müll. Arg. SPECIES
-=======
+# Psora crystallifera (Taylor) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 71: 139 (1888)
+Flora, Jena 71: 140 (1888)
 
 #### Original name
-Psora testudinea Müll. Arg.
+Lecidea crystallifera Taylor
 
 ### Remarks
 null

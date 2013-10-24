@@ -1,5 +1,4 @@
-Clitocybe flavidella Peck SPECIES
-=======
+# Clitocybe flavidella Peck SPECIES
 
 #### Status
 ACCEPTED

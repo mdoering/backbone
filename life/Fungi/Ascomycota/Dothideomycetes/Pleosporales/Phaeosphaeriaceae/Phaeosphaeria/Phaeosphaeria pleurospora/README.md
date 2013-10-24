@@ -1,14 +1,13 @@
-Sulcospora pleurospora (Niessl) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria pleurospora (Niessl) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 67(5): 1594 (1989)
+Sydowia 37: 162 (1984)
 
 #### Original name
 Leptosphaeria pleurospora Niessl

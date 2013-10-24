@@ -1,5 +1,4 @@
-Aspergillus aureolatus Munt.-Cvetk. & Bata, 1964 SPECIES
-=======
+# Aspergillus aureolatus Munt.-Cvetk. & Bata, 1964 SPECIES
 
 #### Status
 ACCEPTED

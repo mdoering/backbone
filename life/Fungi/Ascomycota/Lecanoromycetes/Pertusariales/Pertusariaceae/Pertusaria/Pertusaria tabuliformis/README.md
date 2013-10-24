@@ -1,5 +1,4 @@
-Pertusaria tabuliformis Erichsen SPECIES
-=======
+# Pertusaria tabuliformis Erichsen SPECIES
 
 #### Status
 ACCEPTED

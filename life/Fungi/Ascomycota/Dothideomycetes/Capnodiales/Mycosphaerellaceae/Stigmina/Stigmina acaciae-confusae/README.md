@@ -1,5 +1,4 @@
-Stigmina acaciae-confusae Deighton SPECIES
-=======
+# Stigmina acaciae-confusae Deighton SPECIES
 
 #### Status
 ACCEPTED

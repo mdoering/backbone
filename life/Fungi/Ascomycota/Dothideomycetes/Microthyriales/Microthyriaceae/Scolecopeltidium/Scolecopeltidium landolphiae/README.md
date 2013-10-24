@@ -1,5 +1,4 @@
-Scolecopeltidium landolphiae Bat. SPECIES
-=======
+# Scolecopeltidium landolphiae Bat. SPECIES
 
 #### Status
 ACCEPTED

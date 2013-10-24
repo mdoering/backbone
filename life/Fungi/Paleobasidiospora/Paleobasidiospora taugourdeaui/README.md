@@ -1,17 +1,16 @@
-Paleobasidiospora taugourdeauii Locq. SPECIES
-=======
+# Paleobasidiospora taugourdeaui Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Champignons Fossiles. Nouvelles recherches sur les Champignons fossil (Paris) 2: 88 + pl. IV, figs 1-2, pl. V, figs 1-4 (1982)
 
 #### Original name
-Paleobasidiospora taugourdeauii Locq.
+Paleobasidiospora taugourdeaui Locq.
 
 ### Remarks
 null

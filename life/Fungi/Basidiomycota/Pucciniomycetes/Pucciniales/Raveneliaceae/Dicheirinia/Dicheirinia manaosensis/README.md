@@ -1,17 +1,16 @@
-Diorchidium manaoense Henn. SPECIES
-=======
+# Dicheirinia manaosensis (Henn.) Cummins, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 27: 158 (1935)
 
 #### Original name
-Diorchidium manaoense Henn.
+Diorchidium manaosense Henn., 1902
 
 ### Remarks
 null

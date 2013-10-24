@@ -1,5 +1,4 @@
-Cercospora echinocystis Ellis & G. Martin SPECIES
-=======
+# Cercospora echinocystis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

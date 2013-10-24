@@ -1,5 +1,4 @@
-Asteromella cousiniae (Vasyag.) Aa & Vanev SPECIES
-=======
+# Asteromella cousiniae (Vasyag.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

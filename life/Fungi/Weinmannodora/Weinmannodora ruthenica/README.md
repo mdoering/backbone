@@ -1,5 +1,4 @@
-Weinmannodora ruthenica Fr. SPECIES
-=======
+# Weinmannodora ruthenica Fr. SPECIES
 
 #### Status
 ACCEPTED

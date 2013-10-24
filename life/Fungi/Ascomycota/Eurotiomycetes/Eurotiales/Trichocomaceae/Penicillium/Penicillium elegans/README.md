@@ -1,5 +1,4 @@
-Penicillium elegans Sopp SPECIES
-=======
+# Penicillium elegans Sopp SPECIES
 
 #### Status
 ACCEPTED

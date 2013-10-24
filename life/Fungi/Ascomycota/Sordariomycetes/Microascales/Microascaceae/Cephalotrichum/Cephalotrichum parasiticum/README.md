@@ -1,5 +1,4 @@
-Cephalotrichum parasiticum (Peck) Kuntze SPECIES
-=======
+# Cephalotrichum parasiticum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

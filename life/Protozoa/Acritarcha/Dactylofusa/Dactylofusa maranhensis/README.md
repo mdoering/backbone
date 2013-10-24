@@ -1,5 +1,4 @@
-Dactylofusa maranhensis Brito & Santos, 1965 SPECIES
-=======
+# Dactylofusa maranhensis Brito & Santos, 1965 SPECIES
 
 #### Status
 ACCEPTED

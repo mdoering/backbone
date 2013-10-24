@@ -1,5 +1,4 @@
-Naucoria cidaris (Fr.) Sacc. SPECIES
-=======
+# Naucoria cidaris (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

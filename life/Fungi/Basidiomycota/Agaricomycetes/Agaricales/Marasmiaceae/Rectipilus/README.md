@@ -1,5 +1,4 @@
-Rectipilus Agerer GENUS
-=======
+# Rectipilus Agerer GENUS
 
 #### Status
 ACCEPTED

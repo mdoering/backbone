@@ -1,5 +1,4 @@
-Lepista demissannula Fr. SPECIES
-=======
+# Lepista demissannula Fr. SPECIES
 
 #### Status
 ACCEPTED

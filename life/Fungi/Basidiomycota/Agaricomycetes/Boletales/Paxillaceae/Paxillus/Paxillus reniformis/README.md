@@ -1,5 +1,4 @@
-Paxillus reniformis Berk. SPECIES
-=======
+# Paxillus reniformis Berk. SPECIES
 
 #### Status
 ACCEPTED

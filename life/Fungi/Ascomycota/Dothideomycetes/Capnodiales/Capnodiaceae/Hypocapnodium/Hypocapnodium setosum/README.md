@@ -1,5 +1,4 @@
-Hypocapnodium setosum (Zimm.) Speg. SPECIES
-=======
+# Hypocapnodium setosum (Zimm.) Speg. SPECIES
 
 #### Status
 ACCEPTED

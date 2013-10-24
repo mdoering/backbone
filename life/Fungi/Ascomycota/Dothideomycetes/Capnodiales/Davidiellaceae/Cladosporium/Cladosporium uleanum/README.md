@@ -1,5 +1,4 @@
-Cladosporium uleanum Henn., 1895 SPECIES
-=======
+# Cladosporium uleanum Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

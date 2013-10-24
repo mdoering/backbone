@@ -1,5 +1,4 @@
-Meliola hughesiana Hansf. SPECIES
-=======
+# Meliola hughesiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

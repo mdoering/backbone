@@ -1,5 +1,4 @@
-Phaeosphaerella spartinae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Phaeosphaerella spartinae (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

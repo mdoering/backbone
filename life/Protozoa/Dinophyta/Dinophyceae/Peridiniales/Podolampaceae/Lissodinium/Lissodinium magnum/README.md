@@ -1,5 +1,4 @@
-Lissodinium magnum M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium magnum M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

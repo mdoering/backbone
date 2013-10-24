@@ -1,5 +1,4 @@
-Biatora endochroma (Fée) G. Merr. SPECIES
-=======
+# Biatora endochroma (Fée) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

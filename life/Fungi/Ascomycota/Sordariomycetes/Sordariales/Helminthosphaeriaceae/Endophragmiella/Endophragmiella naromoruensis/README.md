@@ -1,5 +1,4 @@
-Endophragmiella naromoruensis P.M. Kirk, 1985 SPECIES
-=======
+# Endophragmiella naromoruensis P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

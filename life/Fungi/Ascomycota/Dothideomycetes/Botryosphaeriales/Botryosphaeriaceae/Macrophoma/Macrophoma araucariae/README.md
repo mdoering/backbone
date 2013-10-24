@@ -1,5 +1,4 @@
-Macrophoma araucariae Delacr. SPECIES
-=======
+# Macrophoma araucariae Delacr. SPECIES
 
 #### Status
 ACCEPTED

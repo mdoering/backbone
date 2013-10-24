@@ -1,5 +1,4 @@
-Tremella rubromaculata Lowy SPECIES
-=======
+# Tremella rubromaculata Lowy SPECIES
 
 #### Status
 ACCEPTED

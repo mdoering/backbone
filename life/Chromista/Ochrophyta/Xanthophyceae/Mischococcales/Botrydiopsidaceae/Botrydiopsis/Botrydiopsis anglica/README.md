@@ -1,5 +1,4 @@
-Botrydiopsis anglica Fritsch & John SPECIES
-=======
+# Botrydiopsis anglica Fritsch & John SPECIES
 
 #### Status
 ACCEPTED

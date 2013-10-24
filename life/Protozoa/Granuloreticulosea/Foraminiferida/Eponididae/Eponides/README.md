@@ -1,5 +1,4 @@
-Eponides de Montfort, 1808 GENUS
-=======
+# Eponides de Montfort, 1808 GENUS
 
 #### Status
 ACCEPTED

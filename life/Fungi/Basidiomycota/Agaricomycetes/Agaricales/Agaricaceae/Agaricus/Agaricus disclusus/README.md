@@ -1,5 +1,4 @@
-Agaricus disclusus Britzelm. SPECIES
-=======
+# Agaricus disclusus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

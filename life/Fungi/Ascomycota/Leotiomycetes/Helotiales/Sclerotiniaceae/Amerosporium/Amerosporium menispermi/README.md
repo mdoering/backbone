@@ -1,5 +1,4 @@
-Amerosporium menispermi Pass. SPECIES
-=======
+# Amerosporium menispermi Pass. SPECIES
 
 #### Status
 ACCEPTED

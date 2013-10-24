@@ -1,5 +1,4 @@
-Peziza crechqueraultii P. Crouan & H. Crouan SPECIES
-=======
+# Peziza crechqueraultii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

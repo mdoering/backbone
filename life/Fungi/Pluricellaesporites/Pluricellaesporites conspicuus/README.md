@@ -1,5 +1,4 @@
-Pluricellaesporites conspicuus (P. Ke & Z.Y. Shi) G. Norris SPECIES
-=======
+# Pluricellaesporites conspicuus (P. Ke & Z.Y. Shi) G. Norris SPECIES
 
 #### Status
 ACCEPTED

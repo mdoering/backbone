@@ -1,5 +1,4 @@
-Seynesia brachystoma Rehm SPECIES
-=======
+# Seynesia brachystoma Rehm SPECIES
 
 #### Status
 ACCEPTED

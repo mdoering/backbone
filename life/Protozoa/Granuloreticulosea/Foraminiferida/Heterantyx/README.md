@@ -1,5 +1,4 @@
-Heterantyx GENUS
-=======
+# Heterantyx GENUS
 
 #### Status
 ACCEPTED

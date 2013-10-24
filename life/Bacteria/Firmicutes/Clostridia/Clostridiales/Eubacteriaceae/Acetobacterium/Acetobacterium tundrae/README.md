@@ -1,5 +1,4 @@
-Acetobacterium tundrae Simankova et al., 2001 SPECIES
-=======
+# Acetobacterium tundrae Simankova et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

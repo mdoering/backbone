@@ -1,5 +1,4 @@
-Mycena psammicola (Berk. & Broome) Sacc. SPECIES
-=======
+# Mycena psammicola (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

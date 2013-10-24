@@ -1,5 +1,4 @@
-Collema trachyopum Taylor SPECIES
-=======
+# Collema trachyopum Taylor SPECIES
 
 #### Status
 ACCEPTED

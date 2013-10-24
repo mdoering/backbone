@@ -1,5 +1,4 @@
-Verrucaria internata Nyl. SPECIES
-=======
+# Verrucaria internata Nyl. SPECIES
 
 #### Status
 ACCEPTED

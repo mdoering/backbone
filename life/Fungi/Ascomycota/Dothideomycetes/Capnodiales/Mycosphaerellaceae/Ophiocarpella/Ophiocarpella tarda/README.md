@@ -1,14 +1,13 @@
-Ophiodothis tarda Harkn., 1884 SPECIES
-=======
+# Ophiocarpella tarda (Harkn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Calif. Acad. Sci. 1: 46 (1884)
+Annls mycol. 13(5/6): 645 (1915)
 
 #### Original name
 Ophiodothis tarda Harkn., 1884

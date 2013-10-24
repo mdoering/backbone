@@ -1,5 +1,4 @@
-Rhodocybe tergipes Corner & E. Horak SPECIES
-=======
+# Rhodocybe tergipes Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

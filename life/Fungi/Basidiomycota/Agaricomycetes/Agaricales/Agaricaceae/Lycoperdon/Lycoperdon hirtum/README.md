@@ -1,5 +1,4 @@
-Lycoperdon hirtum var. stellare (Peck) Sacc. & Traverso VARIETY
-=======
+# Lycoperdon hirtum Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Handb. Allgem. mykol. (Stuttgart) 253 (1851)
 
 #### Original name
-Lycoperdon umbrinum var. stellare Peck
+Lycoperdon hirtum Bonord.
 
 ### Remarks
 null

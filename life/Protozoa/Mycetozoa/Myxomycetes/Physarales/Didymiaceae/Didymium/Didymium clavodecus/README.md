@@ -1,5 +1,4 @@
-Didymium clavodecus K.D. Whitney, 1980 SPECIES
-=======
+# Didymium clavodecus K.D. Whitney, 1980 SPECIES
 
 #### Status
 ACCEPTED

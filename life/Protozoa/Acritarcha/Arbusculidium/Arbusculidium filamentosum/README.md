@@ -1,5 +1,4 @@
-Arbusculidium filamentosum (Vavrdová, 1965) Vavrdová, 1972 emend. Fatka & Brocke, 1999 SPECIES
-=======
+# Arbusculidium filamentosum (Vavrdová, 1965) Vavrdová, 1972 emend. Fatka & Brocke, 1999 SPECIES
 
 #### Status
 ACCEPTED

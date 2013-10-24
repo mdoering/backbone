@@ -1,5 +1,4 @@
-Hydnobolites javanicus Höhn. SPECIES
-=======
+# Hydnobolites javanicus Höhn. SPECIES
 
 #### Status
 ACCEPTED

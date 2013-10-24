@@ -1,5 +1,4 @@
-Calocera australis McNabb, 1965 SPECIES
-=======
+# Calocera australis McNabb, 1965 SPECIES
 
 #### Status
 ACCEPTED

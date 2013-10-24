@@ -1,5 +1,4 @@
-Agaricus laterarius Peck SPECIES
-=======
+# Agaricus laterarius Peck SPECIES
 
 #### Status
 ACCEPTED

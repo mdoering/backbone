@@ -1,5 +1,4 @@
-Pseudomonadales ORDER
-=======
+# Pseudomonadales ORDER
 
 #### Status
 ACCEPTED

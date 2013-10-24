@@ -1,5 +1,4 @@
-Cortinarius variecolor var. variecolor VARIETY
-=======
+# Cortinarius variecolor (Pers. Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

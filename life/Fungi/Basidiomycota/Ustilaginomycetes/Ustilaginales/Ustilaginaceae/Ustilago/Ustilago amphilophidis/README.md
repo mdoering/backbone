@@ -1,5 +1,4 @@
-Ustilago amphilophidis Zundel SPECIES
-=======
+# Ustilago amphilophidis Zundel SPECIES
 
 #### Status
 ACCEPTED

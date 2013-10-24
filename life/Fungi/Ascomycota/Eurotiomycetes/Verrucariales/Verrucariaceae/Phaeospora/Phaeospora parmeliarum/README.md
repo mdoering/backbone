@@ -1,5 +1,4 @@
-Phaeospora parmeliarum anon. SPECIES
-=======
+# Phaeospora parmeliarum anon. SPECIES
 
 #### Status
 ACCEPTED

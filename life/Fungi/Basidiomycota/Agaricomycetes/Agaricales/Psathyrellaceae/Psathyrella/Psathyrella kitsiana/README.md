@@ -1,5 +1,4 @@
-Psathyrella kitsiana Örstadius SPECIES
-=======
+# Psathyrella kitsiana Örstadius SPECIES
 
 #### Status
 ACCEPTED

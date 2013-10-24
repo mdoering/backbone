@@ -1,5 +1,4 @@
-Dictyothyrium leucopterum Syd. SPECIES
-=======
+# Dictyothyrium leucopterum Syd. SPECIES
 
 #### Status
 ACCEPTED

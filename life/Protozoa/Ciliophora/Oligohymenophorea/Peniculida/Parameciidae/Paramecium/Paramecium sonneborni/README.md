@@ -1,5 +1,4 @@
-Paramecium sonneborni Aufderheide, Daggett & Nerad, 1983 SPECIES
-=======
+# Paramecium sonneborni Aufderheide, Daggett & Nerad, 1983 SPECIES
 
 #### Status
 ACCEPTED

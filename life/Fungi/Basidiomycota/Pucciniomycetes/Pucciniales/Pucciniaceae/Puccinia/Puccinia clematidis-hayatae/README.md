@@ -1,5 +1,4 @@
-Puccinia clematidis-hayatae Sawada SPECIES
-=======
+# Puccinia clematidis-hayatae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza lobulata (Velen.) Svrcek SPECIES
-=======
+# Peziza lobulata (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothrix mamillosa Meneghini SPECIES
-=======
+# Leptothrix mamillosa Meneghini SPECIES
 
 #### Status
 ACCEPTED

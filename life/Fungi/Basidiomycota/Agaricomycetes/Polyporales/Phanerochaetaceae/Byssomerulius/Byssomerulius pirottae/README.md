@@ -1,14 +1,13 @@
-Odontia pirottae Bres., 1893 SPECIES
-=======
+# Byssomerulius pirottae (Bres.) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Imp. Regia Accad. Rovereto 11: 7 (1893)
+Windahlia 17: 56 (1987)
 
 #### Original name
 Odontia pirottae Bres., 1893

@@ -1,5 +1,4 @@
-Lecidea approximans Leight. SPECIES
-=======
+# Lecidea approximans Leight. SPECIES
 
 #### Status
 ACCEPTED

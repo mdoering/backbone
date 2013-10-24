@@ -1,5 +1,4 @@
-Leptoglossum alveolatum (E.J. Durand) Rehm SPECIES
-=======
+# Leptoglossum alveolatum (E.J. Durand) Rehm SPECIES
 
 #### Status
 ACCEPTED

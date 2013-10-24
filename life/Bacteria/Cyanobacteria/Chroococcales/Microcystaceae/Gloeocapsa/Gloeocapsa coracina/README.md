@@ -1,5 +1,4 @@
-Gloeocapsa coracina Kützing SPECIES
-=======
+# Gloeocapsa coracina Kützing SPECIES
 
 #### Status
 ACCEPTED

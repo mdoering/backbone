@@ -1,5 +1,4 @@
-Tremella hyalina Pers. SPECIES
-=======
+# Tremella hyalina Pers. SPECIES
 
 #### Status
 ACCEPTED

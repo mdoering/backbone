@@ -1,5 +1,4 @@
-Vararia alticola Corner & Boidin, 1984 SPECIES
-=======
+# Vararia alticola Corner & Boidin, 1984 SPECIES
 
 #### Status
 ACCEPTED

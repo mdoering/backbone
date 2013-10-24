@@ -1,5 +1,4 @@
-Puccinia butleri Syd. & P. Syd., 1906 SPECIES
-=======
+# Puccinia butleri Syd. & P. Syd., 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deviata spirostoma Alekperov, 1988 SPECIES
-=======
+# Deviata spirostoma Alekperov, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dirina niponica Nyl. SPECIES
-=======
+# Dirina niponica Nyl. SPECIES
 
 #### Status
 ACCEPTED

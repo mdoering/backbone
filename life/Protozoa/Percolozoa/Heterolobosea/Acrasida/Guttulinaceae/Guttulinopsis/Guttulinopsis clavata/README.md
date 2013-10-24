@@ -1,5 +1,4 @@
-Guttulinopsis clavata Olive SPECIES
-=======
+# Guttulinopsis clavata Olive SPECIES
 
 #### Status
 ACCEPTED

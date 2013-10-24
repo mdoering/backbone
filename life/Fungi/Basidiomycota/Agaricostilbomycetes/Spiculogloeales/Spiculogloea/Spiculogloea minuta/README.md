@@ -1,5 +1,4 @@
-Spiculogloea minuta P. Roberts, 1997 SPECIES
-=======
+# Spiculogloea minuta P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella roseola Cooke, 1872 SPECIES
-=======
+# Volutella roseola Cooke, 1872 SPECIES
 
 #### Status
 ACCEPTED

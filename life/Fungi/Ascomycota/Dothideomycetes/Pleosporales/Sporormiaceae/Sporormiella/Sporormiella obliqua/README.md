@@ -1,5 +1,4 @@
-Sporormiella obliqua R.S. Khan & Cain SPECIES
-=======
+# Sporormiella obliqua R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

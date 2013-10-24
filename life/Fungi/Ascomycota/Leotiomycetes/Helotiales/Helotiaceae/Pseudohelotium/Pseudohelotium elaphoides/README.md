@@ -1,5 +1,4 @@
-Pseudohelotium elaphoides Sacc. SPECIES
-=======
+# Pseudohelotium elaphoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

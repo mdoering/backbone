@@ -1,5 +1,4 @@
-Lentinus pulchellus F. Muell. SPECIES
-=======
+# Lentinus pulchellus F. Muell. SPECIES
 
 #### Status
 ACCEPTED

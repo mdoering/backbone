@@ -1,5 +1,4 @@
-Alternaria tropica E.G. Simmons, 1993 SPECIES
-=======
+# Alternaria tropica E.G. Simmons, 1993 SPECIES
 
 #### Status
 ACCEPTED

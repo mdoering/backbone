@@ -1,5 +1,4 @@
-Marasmius trichotus Corner SPECIES
-=======
+# Marasmius trichotus Corner SPECIES
 
 #### Status
 ACCEPTED

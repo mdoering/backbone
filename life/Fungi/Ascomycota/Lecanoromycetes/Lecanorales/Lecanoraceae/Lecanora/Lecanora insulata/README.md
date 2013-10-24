@@ -1,5 +1,4 @@
-Lecanora insulata (Ramond) Steud. SPECIES
-=======
+# Lecanora insulata (Ramond) Steud. SPECIES
 
 #### Status
 ACCEPTED

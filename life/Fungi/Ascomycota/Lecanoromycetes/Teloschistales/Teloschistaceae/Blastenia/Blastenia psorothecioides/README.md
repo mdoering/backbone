@@ -1,5 +1,4 @@
-Blastenia psorothecioides (Vain.) Zahlbr. SPECIES
-=======
+# Blastenia psorothecioides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

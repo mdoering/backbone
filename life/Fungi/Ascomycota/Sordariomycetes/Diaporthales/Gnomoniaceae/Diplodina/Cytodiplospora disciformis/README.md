@@ -1,5 +1,4 @@
-Cytodiplospora disciformis Sacc. SPECIES
-=======
+# Cytodiplospora disciformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

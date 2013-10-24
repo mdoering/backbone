@@ -1,8 +1,7 @@
-Paracineta estuarina Jones, 1974 SPECIES
-=======
+# Sphaeracineta estuarina (Jones, 1974) Jankowski, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

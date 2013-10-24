@@ -1,5 +1,4 @@
-Cortinarius subresectipes A. Delannoy, Eyssart. & Cheype SPECIES
-=======
+# Cortinarius subresectipes A. Delannoy, Eyssart. & Cheype SPECIES
 
 #### Status
 ACCEPTED

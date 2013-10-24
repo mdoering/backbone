@@ -1,5 +1,4 @@
-Psorotichia arenaticola Egg. {?} SPECIES
-=======
+# Psorotichia arenaticola Egg. {?} SPECIES
 
 #### Status
 ACCEPTED

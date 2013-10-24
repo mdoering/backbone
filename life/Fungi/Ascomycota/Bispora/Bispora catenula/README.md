@@ -1,5 +1,4 @@
-Bispora catenula (Lév.) Sacc. SPECIES
-=======
+# Bispora catenula (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

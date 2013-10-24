@@ -1,5 +1,4 @@
-Biatora terrena Willey SPECIES
-=======
+# Biatora terrena Willey SPECIES
 
 #### Status
 ACCEPTED

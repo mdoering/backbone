@@ -1,5 +1,4 @@
-Lecidea biformis Fée SPECIES
-=======
+# Lecidea biformis Fée SPECIES
 
 #### Status
 ACCEPTED

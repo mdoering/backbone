@@ -1,5 +1,4 @@
-Oropogon satoanus Essl. SPECIES
-=======
+# Oropogon satoanus Essl. SPECIES
 
 #### Status
 ACCEPTED

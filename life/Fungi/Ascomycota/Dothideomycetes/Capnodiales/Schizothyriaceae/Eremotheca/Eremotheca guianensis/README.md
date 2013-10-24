@@ -1,5 +1,4 @@
-Eremotheca guianensis (F. Stevens & Manter) Bat. SPECIES
-=======
+# Eremotheca guianensis (F. Stevens & Manter) Bat. SPECIES
 
 #### Status
 ACCEPTED

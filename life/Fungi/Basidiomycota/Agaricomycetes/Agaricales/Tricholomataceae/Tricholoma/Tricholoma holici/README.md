@@ -1,5 +1,4 @@
-Tricholoma holici Velen. SPECIES
-=======
+# Tricholoma holici Velen. SPECIES
 
 #### Status
 ACCEPTED

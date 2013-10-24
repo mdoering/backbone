@@ -1,5 +1,4 @@
-Geitlerinema pseudacutissimum (Geitler) Anagnostidis SPECIES
-=======
+# Geitlerinema pseudacutissimum (Geitler) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

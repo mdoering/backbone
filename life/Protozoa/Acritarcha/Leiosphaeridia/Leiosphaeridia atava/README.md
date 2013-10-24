@@ -1,5 +1,4 @@
-Leiosphaeridia atava (Naumova, 1961) emend. Jankauskas et al., 1989 SPECIES
-=======
+# Leiosphaeridia atava (Naumova, 1961) emend. Jankauskas et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

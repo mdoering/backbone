@@ -1,5 +1,4 @@
-Mycena saccharifera (Berk. & Broome) Gillet SPECIES
-=======
+# Mycena saccharifera (Berk. & Broome) Gillet SPECIES
 
 #### Status
 ACCEPTED

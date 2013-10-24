@@ -1,5 +1,4 @@
-Diatrype praeandina (Speg.) Rappaz SPECIES
-=======
+# Diatrype praeandina (Speg.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

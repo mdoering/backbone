@@ -1,5 +1,4 @@
-Simuliomyces microsporus Lichtw., 1972 SPECIES
-=======
+# Simuliomyces microsporus Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

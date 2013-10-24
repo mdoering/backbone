@@ -1,5 +1,4 @@
-Lecanora teretiuscula Zahlbr. SPECIES
-=======
+# Lecanora teretiuscula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

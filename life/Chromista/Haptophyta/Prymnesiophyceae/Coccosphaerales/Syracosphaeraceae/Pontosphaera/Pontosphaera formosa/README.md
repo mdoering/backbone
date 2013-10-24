@@ -1,5 +1,4 @@
-Pontosphaera formosa (Bukry & Bramlette, 1969) Romein, 1979 SPECIES
-=======
+# Pontosphaera formosa (Bukry & Bramlette, 1969) Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

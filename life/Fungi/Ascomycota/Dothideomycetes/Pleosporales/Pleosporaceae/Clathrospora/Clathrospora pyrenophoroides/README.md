@@ -1,5 +1,4 @@
-Clathrospora pyrenophoroides (Sacc.) Berl. SPECIES
-=======
+# Clathrospora pyrenophoroides (Sacc.) Berl. SPECIES
 
 #### Status
 ACCEPTED

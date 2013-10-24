@@ -1,5 +1,4 @@
-Graphis guineensis C.W. Dodge SPECIES
-=======
+# Graphis guineensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

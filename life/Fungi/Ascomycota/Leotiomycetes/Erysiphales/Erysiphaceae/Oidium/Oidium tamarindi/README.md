@@ -1,5 +1,4 @@
-Oidium tamarindi (J.M. Yen) U. Braun SPECIES
-=======
+# Oidium tamarindi (J.M. Yen) U. Braun SPECIES
 
 #### Status
 ACCEPTED

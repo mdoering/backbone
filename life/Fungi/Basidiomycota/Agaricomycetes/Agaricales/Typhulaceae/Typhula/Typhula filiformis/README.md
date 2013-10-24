@@ -1,14 +1,13 @@
-Clavaria filiformis Bull., 1790 SPECIES
-=======
+# Typhula filiformis (Bull.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Herb. Fr. 10: tab. 448, fig. 1 (1790)
+Epicr. syst. mycol. (Upsaliae) 586 (1838)
 
 #### Original name
 Clavaria filiformis Bull., 1790

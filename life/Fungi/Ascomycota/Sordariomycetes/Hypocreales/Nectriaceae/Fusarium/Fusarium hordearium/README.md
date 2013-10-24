@@ -1,5 +1,4 @@
-Fusarium hordearium Ducomet SPECIES
-=======
+# Fusarium hordearium Ducomet SPECIES
 
 #### Status
 ACCEPTED

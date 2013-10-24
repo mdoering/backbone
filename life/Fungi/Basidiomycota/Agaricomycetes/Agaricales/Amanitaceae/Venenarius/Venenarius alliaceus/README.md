@@ -1,5 +1,4 @@
-Venenarius alliaceus Murrill SPECIES
-=======
+# Venenarius alliaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

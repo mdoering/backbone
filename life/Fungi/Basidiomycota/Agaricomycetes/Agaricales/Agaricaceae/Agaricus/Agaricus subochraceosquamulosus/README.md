@@ -1,5 +1,4 @@
-Agaricus subochraceosquamulosus Heinem. SPECIES
-=======
+# Agaricus subochraceosquamulosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

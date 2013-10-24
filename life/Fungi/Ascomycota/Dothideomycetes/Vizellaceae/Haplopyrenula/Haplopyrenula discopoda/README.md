@@ -1,5 +1,4 @@
-Haplopyrenula discopoda Müll. Arg. SPECIES
-=======
+# Haplopyrenula discopoda Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

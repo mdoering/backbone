@@ -1,5 +1,4 @@
-Leiofusa litotes Loeblich & Tappan, 1978 SPECIES
-=======
+# Leiofusa litotes Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

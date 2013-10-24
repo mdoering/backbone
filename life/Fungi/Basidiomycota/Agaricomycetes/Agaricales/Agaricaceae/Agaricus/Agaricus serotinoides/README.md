@@ -1,5 +1,4 @@
-Agaricus serotinoides Peck SPECIES
-=======
+# Agaricus serotinoides Peck SPECIES
 
 #### Status
 ACCEPTED

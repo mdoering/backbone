@@ -1,5 +1,4 @@
-Uromyces shikokianus Kusano SPECIES
-=======
+# Uromyces shikokianus Kusano SPECIES
 
 #### Status
 ACCEPTED

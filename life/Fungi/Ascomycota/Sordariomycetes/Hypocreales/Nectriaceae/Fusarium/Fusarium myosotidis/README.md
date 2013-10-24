@@ -1,5 +1,4 @@
-Fusarium myosotidis Cooke SPECIES
-=======
+# Fusarium myosotidis Cooke SPECIES
 
 #### Status
 ACCEPTED

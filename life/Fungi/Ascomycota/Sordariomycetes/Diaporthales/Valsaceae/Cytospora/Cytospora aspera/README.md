@@ -1,5 +1,4 @@
-Cytospora aspera Wallr. SPECIES
-=======
+# Cytospora aspera Wallr. SPECIES
 
 #### Status
 ACCEPTED

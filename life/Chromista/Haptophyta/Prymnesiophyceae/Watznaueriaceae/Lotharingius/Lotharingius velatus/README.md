@@ -1,5 +1,4 @@
-Lotharingius velatus SPECIES
-=======
+# Lotharingius velatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria diana f. diana FORM
-=======
+# Leptosphaeria diana Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 4): 398 (1878)
 
 #### Original name
-Leptosphaeria diana f. diana
+Leptosphaeria diana Sacc. & Speg.
 
 ### Remarks
 null

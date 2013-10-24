@@ -1,5 +1,4 @@
-Hadrotrichum agrostidis Sacc. SPECIES
-=======
+# Hadrotrichum agrostidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

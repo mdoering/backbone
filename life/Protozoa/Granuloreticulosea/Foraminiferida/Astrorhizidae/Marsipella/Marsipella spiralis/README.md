@@ -1,5 +1,4 @@
-Marsipella spiralis Heron-Allen & Earland, 1912 SPECIES
-=======
+# Marsipella spiralis Heron-Allen & Earland, 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporellus albiceps (Peck) Pilát SPECIES
-=======
+# Polyporellus albiceps (Peck) Pilát SPECIES
 
 #### Status
 ACCEPTED

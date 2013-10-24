@@ -1,5 +1,4 @@
-Entoloma cistophilum Trimbach SPECIES
-=======
+# Entoloma cistophilum Trimbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Minimidochium eucalypti Vittal & Dorai SPECIES
-=======
+# Minimidochium eucalypti Vittal & Dorai SPECIES
 
 #### Status
 ACCEPTED

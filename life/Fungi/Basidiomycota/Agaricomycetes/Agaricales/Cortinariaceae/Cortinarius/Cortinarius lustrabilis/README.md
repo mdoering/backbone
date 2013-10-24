@@ -1,5 +1,4 @@
-Cortinarius lustrabilis Moënne-Locc. SPECIES
-=======
+# Cortinarius lustrabilis Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

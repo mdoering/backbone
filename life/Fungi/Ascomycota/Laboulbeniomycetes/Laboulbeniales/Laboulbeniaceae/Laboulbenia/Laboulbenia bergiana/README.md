@@ -1,5 +1,4 @@
-Laboulbenia bergiana Speg. SPECIES
-=======
+# Laboulbenia bergiana Speg. SPECIES
 
 #### Status
 ACCEPTED

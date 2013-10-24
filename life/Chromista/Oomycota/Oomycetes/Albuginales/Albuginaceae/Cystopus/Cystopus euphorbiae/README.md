@@ -1,5 +1,4 @@
-Cystopus euphorbiae Cooke & Massee SPECIES
-=======
+# Cystopus euphorbiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

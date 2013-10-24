@@ -1,5 +1,4 @@
-Tilletia pachyderma G.W. Fisch. SPECIES
-=======
+# Tilletia pachyderma G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

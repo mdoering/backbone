@@ -1,5 +1,4 @@
-Stilbospora cistina (Cooke) B. Sutton SPECIES
-=======
+# Stilbospora cistina (Cooke) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

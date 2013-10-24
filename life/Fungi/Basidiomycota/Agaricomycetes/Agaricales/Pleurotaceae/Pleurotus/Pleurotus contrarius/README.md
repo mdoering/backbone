@@ -1,5 +1,4 @@
-Pleurotus contrarius (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus contrarius (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

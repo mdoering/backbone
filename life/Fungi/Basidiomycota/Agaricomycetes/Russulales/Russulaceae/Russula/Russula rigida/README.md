@@ -1,5 +1,4 @@
-Russula rigida Velen. SPECIES
-=======
+# Russula rigida Velen. SPECIES
 
 #### Status
 ACCEPTED

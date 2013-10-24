@@ -1,5 +1,4 @@
-Mycosphaerella dioscoreae (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella dioscoreae (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

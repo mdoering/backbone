@@ -1,5 +1,4 @@
-Glyphostomella Cushman & Waters, 1928 GENUS
-=======
+# Glyphostomella Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus nugatorius Corner SPECIES
-=======
+# Boletus nugatorius Corner SPECIES
 
 #### Status
 ACCEPTED

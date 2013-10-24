@@ -1,5 +1,4 @@
-Plowrightia phyllogena Harkn. SPECIES
-=======
+# Plowrightia phyllogena Harkn. SPECIES
 
 #### Status
 ACCEPTED

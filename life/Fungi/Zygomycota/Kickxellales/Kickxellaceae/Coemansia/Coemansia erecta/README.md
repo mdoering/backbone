@@ -1,5 +1,4 @@
-Coemansia erecta Bainier, 1906 SPECIES
-=======
+# Coemansia erecta Bainier, 1906 SPECIES
 
 #### Status
 ACCEPTED

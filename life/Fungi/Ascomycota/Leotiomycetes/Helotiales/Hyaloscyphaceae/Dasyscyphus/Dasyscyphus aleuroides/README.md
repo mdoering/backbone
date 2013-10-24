@@ -1,8 +1,7 @@
-Dasyscypha aleuroides Cooke SPECIES
-=======
+# Dasyscyphus aleuroides Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha aleuroides Cooke
+Dasyscyphus aleuroides Cooke
 
 ### Remarks
 null

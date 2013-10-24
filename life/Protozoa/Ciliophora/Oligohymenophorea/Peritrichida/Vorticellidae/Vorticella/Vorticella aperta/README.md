@@ -1,5 +1,4 @@
-Vorticella aperta Fromentel, 1876 SPECIES
-=======
+# Vorticella aperta Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

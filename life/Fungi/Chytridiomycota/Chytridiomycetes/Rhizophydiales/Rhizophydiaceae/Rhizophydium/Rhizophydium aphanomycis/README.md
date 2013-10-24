@@ -1,5 +1,4 @@
-Rhizophydium aphanomycis Karling SPECIES
-=======
+# Rhizophydium aphanomycis Karling SPECIES
 
 #### Status
 ACCEPTED

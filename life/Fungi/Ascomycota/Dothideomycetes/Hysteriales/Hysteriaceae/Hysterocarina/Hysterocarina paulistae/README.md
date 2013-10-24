@@ -1,5 +1,4 @@
-Hysterocarina paulistae H. Zogg, 1949 SPECIES
-=======
+# Hysterocarina paulistae H. Zogg, 1949 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Daedaleopsis dickinsii (Berk. ex Cooke) Bondartsev, 1963 SPECIES
-=======
+# Daedalea dickinsii Yasuda, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botanicheskie Materialy 16: 125 (1963)
+Bot. Mag. , Tokyo 36: 127 (1923)
 
 #### Original name
-Trametes dickinsii Berk. ex Cooke, 1891
+Daedalea dickinsii Yasuda, 1923
 
 ### Remarks
 null

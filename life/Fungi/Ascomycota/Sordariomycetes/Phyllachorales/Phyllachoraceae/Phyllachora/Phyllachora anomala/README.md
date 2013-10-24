@@ -1,14 +1,13 @@
-Dothidea anomala Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Phyllachora anomala (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 390 (1868)
+Syll. fung. (Abellini) 2: 608 (1883)
 
 #### Original name
 Dothidea anomala Berk. & M.A. Curtis, 1868

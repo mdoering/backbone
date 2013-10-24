@@ -1,5 +1,4 @@
-Cercospora anagyridis Pat. SPECIES
-=======
+# Cercospora anagyridis Pat. SPECIES
 
 #### Status
 ACCEPTED

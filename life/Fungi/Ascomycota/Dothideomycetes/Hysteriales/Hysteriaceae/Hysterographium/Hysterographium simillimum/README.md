@@ -1,5 +1,4 @@
-Hysterographium simillimum Starbäck SPECIES
-=======
+# Hysterographium simillimum Starbäck SPECIES
 
 #### Status
 ACCEPTED

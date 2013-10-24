@@ -1,5 +1,4 @@
-Laaseomyces microscopicus Ruhland SPECIES
-=======
+# Laaseomyces microscopicus Ruhland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras lanaripes (Cooke & Massee) Kuntze SPECIES
-=======
+# Chamaeceras lanaripes (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

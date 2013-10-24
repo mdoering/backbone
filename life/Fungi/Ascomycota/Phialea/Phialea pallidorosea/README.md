@@ -1,8 +1,7 @@
-Phialea pallide-rosea (Saut.) Sacc. SPECIES
-=======
+# Phialea pallidorosea (Saut.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Puccinia sieversiae Arthur SPECIES
-=======
+# Puccinia sieversiae Arthur SPECIES
 
 #### Status
 ACCEPTED

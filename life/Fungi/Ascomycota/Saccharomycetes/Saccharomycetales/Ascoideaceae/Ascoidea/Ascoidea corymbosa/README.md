@@ -1,5 +1,4 @@
-Ascoidea corymbosa W. Gams & Grinb., 1970 SPECIES
-=======
+# Ascoidea corymbosa W. Gams & Grinb., 1970 SPECIES
 
 #### Status
 ACCEPTED

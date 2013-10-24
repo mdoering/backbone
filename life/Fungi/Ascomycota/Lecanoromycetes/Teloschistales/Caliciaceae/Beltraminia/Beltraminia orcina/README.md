@@ -1,5 +1,4 @@
-Beltraminia orcina SPECIES
-=======
+# Beltraminia orcina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora bavarica Petr. SPECIES
-=======
+# Stagonospora bavarica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha puiggarii Müll. Arg. SPECIES
-=======
+# Opegrapha puiggarii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

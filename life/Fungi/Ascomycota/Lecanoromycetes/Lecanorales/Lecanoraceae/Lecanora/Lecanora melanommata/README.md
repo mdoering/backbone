@@ -1,5 +1,4 @@
-Lecanora melanommata C. Knight SPECIES
-=======
+# Lecanora melanommata C. Knight SPECIES
 
 #### Status
 ACCEPTED

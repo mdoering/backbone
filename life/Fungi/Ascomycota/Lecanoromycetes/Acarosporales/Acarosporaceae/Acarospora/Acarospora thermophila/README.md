@@ -1,5 +1,4 @@
-Acarospora thermophila Herre SPECIES
-=======
+# Acarospora thermophila Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pseudosagedia whinrayi (P. M. McCarthy) Hafellner & Kalb SPECIES
-=======
+# Porina whinrayi P. M. McCarthy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 57: 173 (1995)
+Lichenologist 22: 195 (1990)
 
 #### Original name
 Porina whinrayi P. M. McCarthy

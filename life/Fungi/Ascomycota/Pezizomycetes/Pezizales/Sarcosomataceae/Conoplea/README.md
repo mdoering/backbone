@@ -1,17 +1,16 @@
-Streblocaulium Chevall. GENUS
-=======
+# Conoplea Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tent. disp. meth. fung. (Lipsiae) 55 (1794)
 
 #### Original name
-Streblocaulium Chevall.
+Conoplea Persoon, 1801
 
 ### Remarks
 null

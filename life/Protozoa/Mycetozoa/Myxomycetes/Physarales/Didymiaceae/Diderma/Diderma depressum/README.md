@@ -1,5 +1,4 @@
-Diderma depressum Fr. SPECIES
-=======
+# Diderma depressum Fr. SPECIES
 
 #### Status
 ACCEPTED

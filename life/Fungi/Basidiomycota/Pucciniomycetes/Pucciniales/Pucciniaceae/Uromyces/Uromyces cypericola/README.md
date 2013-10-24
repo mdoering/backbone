@@ -1,5 +1,4 @@
-Uromyces cypericola Gjaerum, 1990 SPECIES
-=======
+# Uromyces cypericola Gjaerum, 1990 SPECIES
 
 #### Status
 ACCEPTED

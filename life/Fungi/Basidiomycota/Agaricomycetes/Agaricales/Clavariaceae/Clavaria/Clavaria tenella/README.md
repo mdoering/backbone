@@ -1,5 +1,4 @@
-Clavaria tenella Boud. SPECIES
-=======
+# Clavaria tenella Boud. SPECIES
 
 #### Status
 ACCEPTED

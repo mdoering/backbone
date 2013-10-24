@@ -1,5 +1,4 @@
-Emmia Zmitr., Spirin & Malysheva GENUS
-=======
+# Emmia Zmitr., Spirin & Malysheva GENUS
 
 #### Status
 ACCEPTED

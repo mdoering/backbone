@@ -1,5 +1,4 @@
-Beggiatoaceae FAMILY
-=======
+# Beggiatoaceae FAMILY
 
 #### Status
 ACCEPTED

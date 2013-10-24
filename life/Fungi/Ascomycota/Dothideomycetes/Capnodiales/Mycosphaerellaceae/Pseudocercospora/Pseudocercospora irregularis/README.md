@@ -1,5 +1,4 @@
-Pseudocercospora irregularis Crous SPECIES
-=======
+# Pseudocercospora irregularis Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina hakgalensis Hansf. SPECIES
-=======
+# Asterina hakgalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

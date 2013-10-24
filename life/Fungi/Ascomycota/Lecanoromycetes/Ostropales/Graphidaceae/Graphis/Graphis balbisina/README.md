@@ -1,5 +1,4 @@
-Graphis balbisina Nyl. SPECIES
-=======
+# Graphis balbisina Nyl. SPECIES
 
 #### Status
 ACCEPTED

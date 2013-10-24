@@ -1,5 +1,4 @@
-Porina tetralocularis Aptroot SPECIES
-=======
+# Porina tetralocularis Aptroot SPECIES
 
 #### Status
 ACCEPTED

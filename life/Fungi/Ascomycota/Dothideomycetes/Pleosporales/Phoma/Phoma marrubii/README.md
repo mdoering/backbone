@@ -1,5 +1,4 @@
-Phoma marrubii f. marrubii FORM
-=======
+# Phoma marrubii (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma marrubii f. marrubii
+Sphaeronaema marrubii Durieu & Mont.
 
 ### Remarks
 null

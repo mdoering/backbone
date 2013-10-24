@@ -1,14 +1,13 @@
-Keissleriella podocarpi Butin, 1975 SPECIES
-=======
+# Lepteutypa podocarpi (Butin) Aa, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 27(1-6): 273 (1975)
+Sydowia 39: 1 (1987)
 
 #### Original name
 Keissleriella podocarpi Butin, 1975

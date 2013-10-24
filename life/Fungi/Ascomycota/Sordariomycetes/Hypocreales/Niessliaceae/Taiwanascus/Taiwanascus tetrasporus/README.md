@@ -1,5 +1,4 @@
-Taiwanascus tetrasporus Sivan. & H.S. Chang, 1997 SPECIES
-=======
+# Taiwanascus tetrasporus Sivan. & H.S. Chang, 1997 SPECIES
 
 #### Status
 ACCEPTED

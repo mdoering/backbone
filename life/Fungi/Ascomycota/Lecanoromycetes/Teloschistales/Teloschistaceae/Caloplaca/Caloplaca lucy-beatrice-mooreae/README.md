@@ -1,5 +1,4 @@
-Caloplaca lucy-beatrice-mooreae Zahlbr. SPECIES
-=======
+# Caloplaca lucy-beatrice-mooreae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

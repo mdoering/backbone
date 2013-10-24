@@ -1,5 +1,4 @@
-Aspergillus tapirirae C. Ram & A. Ram SPECIES
-=======
+# Aspergillus tapirirae C. Ram & A. Ram SPECIES
 
 #### Status
 ACCEPTED

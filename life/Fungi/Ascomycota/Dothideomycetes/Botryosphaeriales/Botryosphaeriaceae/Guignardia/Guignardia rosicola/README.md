@@ -1,5 +1,4 @@
-Guignardia rosicola Feltgen SPECIES
-=======
+# Guignardia rosicola Feltgen SPECIES
 
 #### Status
 ACCEPTED

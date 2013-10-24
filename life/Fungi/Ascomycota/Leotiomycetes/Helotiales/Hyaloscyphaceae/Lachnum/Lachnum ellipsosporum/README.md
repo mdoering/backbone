@@ -1,5 +1,4 @@
-Lachnum ellipsosporum Spooner SPECIES
-=======
+# Lachnum ellipsosporum Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hormosinella ovicula gracilis (Earland, 1933) SUBSPECIES
-=======
+# Hormosinella gracilis (Earland, 1933) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

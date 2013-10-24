@@ -1,5 +1,4 @@
-Phyllachora leucospila var. leucospila VARIETY
-=======
+# Phyllachora leucospila SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37(3): 217 (1939)
+null
 
 #### Original name
-Phyllachora leucospila var. leucospila
+null
 
 ### Remarks
 null

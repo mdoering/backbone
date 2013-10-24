@@ -1,5 +1,4 @@
-Amphileptidae Bütschli, 1889 FAMILY
-=======
+# Amphileptidae Bütschli, 1889 FAMILY
 
 #### Status
 ACCEPTED

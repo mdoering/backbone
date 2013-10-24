@@ -1,5 +1,4 @@
-Imbricaria hyperopta (Ach.) Körb. SPECIES
-=======
+# Imbricaria hyperopta (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

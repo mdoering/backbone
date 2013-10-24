@@ -1,5 +1,4 @@
-Septoria atractylodis Y.S. Yu {?} & K.T. Chen SPECIES
-=======
+# Septoria atractylodis Y.S. Yu {?} & K.T. Chen SPECIES
 
 #### Status
 ACCEPTED

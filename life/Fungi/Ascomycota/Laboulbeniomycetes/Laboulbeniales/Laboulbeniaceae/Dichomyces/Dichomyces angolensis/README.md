@@ -1,5 +1,4 @@
-Dichomyces angolensis Thaxt. SPECIES
-=======
+# Dichomyces angolensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

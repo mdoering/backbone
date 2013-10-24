@@ -1,5 +1,4 @@
-Protoleiosphaeridium rotatum Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
-=======
+# Protoleiosphaeridium rotatum Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

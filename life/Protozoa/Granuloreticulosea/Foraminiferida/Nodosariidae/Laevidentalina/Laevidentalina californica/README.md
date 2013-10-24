@@ -1,5 +1,4 @@
-Laevidentalina californica (Cushman & Gray, 1946) SPECIES
-=======
+# Laevidentalina californica (Cushman & Gray, 1946) SPECIES
 
 #### Status
 ACCEPTED

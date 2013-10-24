@@ -1,5 +1,4 @@
-Discoaster quinqueramus SPECIES
-=======
+# Discoaster quinqueramus SPECIES
 
 #### Status
 ACCEPTED

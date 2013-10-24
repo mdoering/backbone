@@ -1,5 +1,4 @@
-Phoma punctata Speg. SPECIES
-=======
+# Phoma punctata Speg. SPECIES
 
 #### Status
 ACCEPTED

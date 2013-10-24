@@ -1,5 +1,4 @@
-Volutella fusarioides Penz. SPECIES
-=======
+# Volutella fusarioides Penz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria hirta Döbbeler & Poelt, 1978 SPECIES
-=======
+# Trichonectria hirta (A. Bloxam) Petch, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Döbbeler, Mitt. bot. StSamml. , Münch. 14: 76 (1978)
+Naturalist 35: 282 (1937)
 
 #### Original name
 Nectria hirta Döbbeler & Poelt, 1978

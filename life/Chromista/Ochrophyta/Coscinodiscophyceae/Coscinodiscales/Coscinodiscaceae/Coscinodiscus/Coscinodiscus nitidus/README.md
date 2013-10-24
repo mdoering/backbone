@@ -1,5 +1,4 @@
-Coscinodiscus nitidus W. Gregory, 1857 SPECIES
-=======
+# Coscinodiscus nitidus W. Gregory, 1857 SPECIES
 
 #### Status
 ACCEPTED

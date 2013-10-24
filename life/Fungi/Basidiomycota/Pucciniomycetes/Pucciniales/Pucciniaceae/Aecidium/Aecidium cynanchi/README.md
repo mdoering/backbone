@@ -1,5 +1,4 @@
-Aecidium cynanchi Cummins SPECIES
-=======
+# Aecidium cynanchi Cummins SPECIES
 
 #### Status
 ACCEPTED

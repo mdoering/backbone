@@ -1,5 +1,4 @@
-Julella muelleri (Upreti & Ajay Singh) D.D. Awasthi SPECIES
-=======
+# Julella muelleri (Upreti & Ajay Singh) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

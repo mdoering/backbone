@@ -1,5 +1,4 @@
-Pseudocyphellaria mallota (Tuck.) H. Magn. SPECIES
-=======
+# Pseudocyphellaria mallota (Tuck.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

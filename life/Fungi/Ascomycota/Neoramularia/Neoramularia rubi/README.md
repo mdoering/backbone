@@ -1,5 +1,4 @@
-Neoramularia rubi (Bubák) U. Braun SPECIES
-=======
+# Neoramularia rubi (Bubák) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrosporium candidum Spreng. SPECIES
-=======
+# Acrosporium candidum Spreng. SPECIES
 
 #### Status
 ACCEPTED

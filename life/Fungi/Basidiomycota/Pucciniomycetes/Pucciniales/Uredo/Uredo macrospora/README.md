@@ -1,5 +1,4 @@
-Uredo macrospora Desm. SPECIES
-=======
+# Uredo macrospora Desm. SPECIES
 
 #### Status
 ACCEPTED

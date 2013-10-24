@@ -1,5 +1,4 @@
-Gloeocapsa rubicunda Kützing SPECIES
-=======
+# Gloeocapsa rubicunda Kützing SPECIES
 
 #### Status
 ACCEPTED

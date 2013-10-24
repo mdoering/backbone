@@ -1,5 +1,4 @@
-Astrolophus Haeckel, 1881 GENUS
-=======
+# Astrolophus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

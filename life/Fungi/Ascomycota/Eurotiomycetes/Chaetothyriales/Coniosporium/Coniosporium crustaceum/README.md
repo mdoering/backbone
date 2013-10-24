@@ -1,5 +1,4 @@
-Coniosporium crustaceum Speg. SPECIES
-=======
+# Coniosporium crustaceum Speg. SPECIES
 
 #### Status
 ACCEPTED

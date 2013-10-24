@@ -1,5 +1,4 @@
-Cephalospyris clathrobursa (Haeckel, 1887) SPECIES
-=======
+# Cephalospyris clathrobursa (Haeckel, 1887) SPECIES
 
 #### Status
 ACCEPTED

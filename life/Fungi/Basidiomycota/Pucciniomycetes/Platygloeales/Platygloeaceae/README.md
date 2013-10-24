@@ -1,5 +1,4 @@
-Platygloeaceae FAMILY
-=======
+# Platygloeaceae FAMILY
 
 #### Status
 ACCEPTED

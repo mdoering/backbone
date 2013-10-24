@@ -1,17 +1,16 @@
-Buellia venusta f. venusta FORM
-=======
+# Diplotomma venustum (Körb.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 179 (1860)
 
 #### Original name
-Buellia venusta f. venusta
+Buellia epipolia var. venusta Körb.
 
 ### Remarks
 null

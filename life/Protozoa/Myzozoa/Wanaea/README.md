@@ -1,5 +1,4 @@
-Wanaea Cookson & Eisenack GENUS
-=======
+# Wanaea Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

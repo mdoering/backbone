@@ -1,17 +1,16 @@
-Anthostoma italicum Sacc. & Speg., 1878 SPECIES
-=======
+# Anthostomella chionostoma (Durieu & Mont.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 3): 326 (1878)
+Syll. fung. (Abellini) 1: 285 (1882)
 
 #### Original name
-Anthostoma italicum Sacc. & Speg., 1878
+Sphaeria chionostoma Durieu & Mont., 1856
 
 ### Remarks
 null

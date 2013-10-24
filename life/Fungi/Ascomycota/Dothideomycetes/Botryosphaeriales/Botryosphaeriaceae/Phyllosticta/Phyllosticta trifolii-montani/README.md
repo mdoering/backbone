@@ -1,5 +1,4 @@
-Phyllosticta trifolii-montani Lobik SPECIES
-=======
+# Phyllosticta trifolii-montani Lobik SPECIES
 
 #### Status
 ACCEPTED

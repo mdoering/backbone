@@ -1,17 +1,16 @@
-Pseudocercospora xeromphicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla SPECIES
-=======
+# Pseudocercospora xeromphidicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 33(1): 58 (1980)
 
 #### Original name
-Pseudocercospora xeromphicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla
+Pseudocercospora xeromphidicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla
 
 ### Remarks
 null

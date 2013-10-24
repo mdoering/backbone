@@ -1,5 +1,4 @@
-Davisoniella H.J. Swart GENUS
-=======
+# Davisoniella H.J. Swart GENUS
 
 #### Status
 ACCEPTED

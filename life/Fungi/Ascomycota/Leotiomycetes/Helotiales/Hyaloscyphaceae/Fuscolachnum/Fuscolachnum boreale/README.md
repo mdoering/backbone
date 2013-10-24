@@ -1,14 +1,13 @@
-Fuscolachnum borealis (K. Holm & L. Holm) J.H. Haines SPECIES
-=======
+# Fuscolachnum boreale (K. Holm & L. Holm) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 49: 324 (1989)
 
 #### Original name
 Dasyscyphus borealis K. Holm & L. Holm, 1977

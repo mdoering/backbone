@@ -1,17 +1,16 @@
-Togninia rubrigena L. Mostert, W. Gams & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium rubrigenum W. Gams, Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mostert, Groenewald, Summerbell, Gams & Crous, Stud. Mycol. 54: 66 (2006)
+in Crous, Gams, Wingfield & Wyk, Mycologia 88(5): 795 (1996)
 
 #### Original name
-Togninia rubrigena L. Mostert, W. Gams & Crous, 2006
+Phaeoacremonium rubrigenum W. Gams, Crous & M.J. Wingf., 1996
 
 ### Remarks
 null

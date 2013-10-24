@@ -1,5 +1,4 @@
-Lophiostoma alpestre Gucevic SPECIES
-=======
+# Lophiostoma alpestre Gucevic SPECIES
 
 #### Status
 ACCEPTED

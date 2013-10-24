@@ -1,5 +1,4 @@
-Pseudovalsa coriariae Tassi SPECIES
-=======
+# Pseudovalsa coriariae Tassi SPECIES
 
 #### Status
 ACCEPTED

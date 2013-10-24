@@ -1,5 +1,4 @@
-Psoroma brunneum (Sw.) Gray SPECIES
-=======
+# Psoroma brunneum (Sw.) Gray SPECIES
 
 #### Status
 ACCEPTED

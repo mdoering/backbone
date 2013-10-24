@@ -1,5 +1,4 @@
-Bryopogon ambiguus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon ambiguus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

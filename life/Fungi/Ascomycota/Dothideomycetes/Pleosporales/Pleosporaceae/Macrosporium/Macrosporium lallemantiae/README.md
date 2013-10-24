@@ -1,5 +1,4 @@
-Macrosporium lallemantiae Khokhr. SPECIES
-=======
+# Macrosporium lallemantiae Khokhr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ravenelia lysilomae var. annulata (Long) J.F. Hennen & Cummins VARIETY
-=======
+# Ravenelia lysilomae Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Rep. Tottori Mycol. Inst. 28: 7 (1990)
+Bot. Gaz. 39: 392 (1905)
 
 #### Original name
-Ravenelia annulata Long
+Ravenelia lysilomae Arthur
 
 ### Remarks
 null

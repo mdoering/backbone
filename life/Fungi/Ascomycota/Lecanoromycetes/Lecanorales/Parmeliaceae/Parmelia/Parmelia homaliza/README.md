@@ -1,5 +1,4 @@
-Parmelia homaliza (Ach.) Schaer. SPECIES
-=======
+# Parmelia homaliza (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia plectranthicola Gjaerum SPECIES
-=======
+# Puccinia plectranthicola Gjaerum SPECIES
 
 #### Status
 ACCEPTED

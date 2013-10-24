@@ -1,5 +1,4 @@
-Erastophyra GENUS
-=======
+# Erastophyra GENUS
 
 #### Status
 ACCEPTED

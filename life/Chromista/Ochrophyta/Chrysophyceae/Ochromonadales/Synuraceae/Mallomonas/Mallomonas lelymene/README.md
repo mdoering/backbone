@@ -1,5 +1,4 @@
-Mallomonas lelymene Harris & Bradley SPECIES
-=======
+# Mallomonas lelymene Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

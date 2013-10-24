@@ -1,5 +1,4 @@
-Coccomyces niveus C.L. Hou & M. Piepenbr., 2009 SPECIES
-=======
+# Coccomyces niveus C.L. Hou & M. Piepenbr., 2009 SPECIES
 
 #### Status
 ACCEPTED

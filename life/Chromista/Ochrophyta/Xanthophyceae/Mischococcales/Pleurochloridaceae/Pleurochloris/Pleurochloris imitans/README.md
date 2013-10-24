@@ -1,5 +1,4 @@
-Pleurochloris imitans Pascher SPECIES
-=======
+# Pleurochloris imitans Pascher SPECIES
 
 #### Status
 ACCEPTED

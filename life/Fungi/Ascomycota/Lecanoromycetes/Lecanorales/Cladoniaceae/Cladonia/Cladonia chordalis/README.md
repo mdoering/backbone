@@ -1,5 +1,4 @@
-Cladonia chordalis (Flörke) Nyl. SPECIES
-=======
+# Cladonia chordalis (Flörke) Nyl. SPECIES
 
 #### Status
 ACCEPTED

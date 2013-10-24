@@ -1,5 +1,4 @@
-Dirinaria persoredians (Nyl.) D.D. Awasthi SPECIES
-=======
+# Dirinaria persoredians (Nyl.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

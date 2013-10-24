@@ -1,5 +1,4 @@
-Periconia robiniae Schwein. SPECIES
-=======
+# Periconia robiniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

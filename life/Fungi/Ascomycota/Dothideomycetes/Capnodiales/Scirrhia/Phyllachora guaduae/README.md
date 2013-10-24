@@ -1,5 +1,4 @@
-Phyllachora guaduae Chardón, 1932 SPECIES
-=======
+# Phyllachora guaduae Chardón, 1932 SPECIES
 
 #### Status
 DOUBTFUL

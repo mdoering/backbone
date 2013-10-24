@@ -1,17 +1,16 @@
-Catillaria chalybeia var. chalybeia VARIETY
-=======
+# Catillaria chalybeia (Borrer) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 79 (1852)
+null
 
 #### Original name
-Catillaria chalybeia var. chalybeia
+null
 
 ### Remarks
 null

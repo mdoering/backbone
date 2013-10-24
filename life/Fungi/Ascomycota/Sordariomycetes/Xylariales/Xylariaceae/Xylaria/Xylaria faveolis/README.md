@@ -1,5 +1,4 @@
-Xylaria faveolis Lloyd SPECIES
-=======
+# Xylaria faveolis Lloyd SPECIES
 
 #### Status
 ACCEPTED

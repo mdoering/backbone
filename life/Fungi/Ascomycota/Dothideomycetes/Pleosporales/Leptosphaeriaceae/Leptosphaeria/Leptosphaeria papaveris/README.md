@@ -1,5 +1,4 @@
-Leptosphaeria papaveris Rostr. SPECIES
-=======
+# Leptosphaeria papaveris Rostr. SPECIES
 
 #### Status
 ACCEPTED

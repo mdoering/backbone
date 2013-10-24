@@ -1,5 +1,4 @@
-Phycodiscis retigera (Bory) Clem. SPECIES
-=======
+# Phycodiscis retigera (Bory) Clem. SPECIES
 
 #### Status
 ACCEPTED

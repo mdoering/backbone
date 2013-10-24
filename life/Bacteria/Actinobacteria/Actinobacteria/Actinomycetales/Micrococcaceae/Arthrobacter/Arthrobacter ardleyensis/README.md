@@ -1,5 +1,4 @@
-Arthrobacter ardleyensis Chen et al., 2005 SPECIES
-=======
+# Arthrobacter ardleyensis Chen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

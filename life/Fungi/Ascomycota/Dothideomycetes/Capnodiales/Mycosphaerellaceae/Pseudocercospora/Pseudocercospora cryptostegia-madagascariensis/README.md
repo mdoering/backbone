@@ -1,5 +1,4 @@
-Pseudocercospora cryptostegia-madagascariensis J.L. Silva, R.W. Barreto & O.L. Pereira SPECIES
-=======
+# Pseudocercospora cryptostegia-madagascariensis J.L. Silva, R.W. Barreto & O.L. Pereira SPECIES
 
 #### Status
 ACCEPTED

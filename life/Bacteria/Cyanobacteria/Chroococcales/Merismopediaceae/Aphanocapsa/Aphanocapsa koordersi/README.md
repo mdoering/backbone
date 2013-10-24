@@ -1,5 +1,4 @@
-Aphanocapsa koordersi K. Strom SPECIES
-=======
+# Aphanocapsa koordersi K. Strom SPECIES
 
 #### Status
 ACCEPTED

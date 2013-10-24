@@ -1,5 +1,4 @@
-Thraustochytrium striatum Joa. Schneid., 1967 SPECIES
-=======
+# Thraustochytrium striatum Joa. Schneid., 1967 SPECIES
 
 #### Status
 ACCEPTED

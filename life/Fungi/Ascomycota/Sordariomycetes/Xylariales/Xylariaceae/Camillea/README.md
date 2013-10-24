@@ -1,17 +1,16 @@
-Bacillaria Mont. GENUS
-=======
+# Camillea Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 382 (1849)
 
 #### Original name
-Bacillaria Mont.
+Camillea Fr.
 
 ### Remarks
 null

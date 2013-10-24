@@ -1,5 +1,4 @@
-Monilia cornealis Nann. SPECIES
-=======
+# Monilia cornealis Nann. SPECIES
 
 #### Status
 ACCEPTED

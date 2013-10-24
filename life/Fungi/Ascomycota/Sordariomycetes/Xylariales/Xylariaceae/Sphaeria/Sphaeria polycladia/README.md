@@ -1,5 +1,4 @@
-Sphaeria polycladia Pers. SPECIES
-=======
+# Sphaeria polycladia Pers. SPECIES
 
 #### Status
 ACCEPTED

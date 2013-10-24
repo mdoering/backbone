@@ -1,5 +1,4 @@
-Uromyces urariae B. Li SPECIES
-=======
+# Uromyces urariae B. Li SPECIES
 
 #### Status
 ACCEPTED

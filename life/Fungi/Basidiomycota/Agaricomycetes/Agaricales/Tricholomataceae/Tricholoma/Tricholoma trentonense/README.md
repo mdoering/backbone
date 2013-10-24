@@ -1,5 +1,4 @@
-Tricholoma trentonense Peck SPECIES
-=======
+# Tricholoma trentonense Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella holobrunnea (J.M. Yen) J.M. Yen SPECIES
-=======
+# Mycovellosiella holobrunnea (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

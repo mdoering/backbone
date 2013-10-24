@@ -1,5 +1,4 @@
-Deconica pyrispora Murrill SPECIES
-=======
+# Deconica pyrispora Murrill SPECIES
 
 #### Status
 ACCEPTED

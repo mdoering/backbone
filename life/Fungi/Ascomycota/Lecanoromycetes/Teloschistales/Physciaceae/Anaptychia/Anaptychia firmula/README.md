@@ -1,5 +1,4 @@
-Anaptychia firmula (Nyl.) C.W. Dodge & D.D. Awasthi SPECIES
-=======
+# Anaptychia firmula (Nyl.) C.W. Dodge & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

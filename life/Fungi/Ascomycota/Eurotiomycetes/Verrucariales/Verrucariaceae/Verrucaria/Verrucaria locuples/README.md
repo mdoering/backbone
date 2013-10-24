@@ -1,5 +1,4 @@
-Verrucaria locuples Stizenb. SPECIES
-=======
+# Verrucaria locuples Stizenb. SPECIES
 
 #### Status
 ACCEPTED

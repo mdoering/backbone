@@ -1,11 +1,10 @@
-Spirochaeta persica Dschunkowsky, 1913 SPECIES
-=======
+# Borrelia persica (Dschunkowsky, 1913) Steinhaus, 1946 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Penzigia bermudensis J.H. Mill. SPECIES
-=======
+# Penzigia bermudensis J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metopus gibbus Kahl, 1927 SPECIES
-=======
+# Metopus gibbus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina glacialis Singer SPECIES
-=======
+# Galerina glacialis Singer SPECIES
 
 #### Status
 ACCEPTED

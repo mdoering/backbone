@@ -1,5 +1,4 @@
-Mitruliopsis flavida Peck SPECIES
-=======
+# Mitruliopsis flavida Peck SPECIES
 
 #### Status
 ACCEPTED

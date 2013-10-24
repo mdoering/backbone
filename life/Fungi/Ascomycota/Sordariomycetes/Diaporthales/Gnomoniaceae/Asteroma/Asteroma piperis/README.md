@@ -1,5 +1,4 @@
-Asteroma piperis Allesch. SPECIES
-=======
+# Asteroma piperis Allesch. SPECIES
 
 #### Status
 ACCEPTED

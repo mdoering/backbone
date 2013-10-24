@@ -1,5 +1,4 @@
-Glomerella lindermuthianum (Sacc. & Magnus) Shear SPECIES
-=======
+# Glomerella lindermuthianum (Sacc. & Magnus) Shear SPECIES
 
 #### Status
 ACCEPTED

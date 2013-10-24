@@ -1,5 +1,4 @@
-Tetradinium G.A. Klebs, 1912 GENUS
-=======
+# Tetradinium G.A. Klebs, 1912 GENUS
 
 #### Status
 ACCEPTED

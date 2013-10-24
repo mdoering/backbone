@@ -1,5 +1,4 @@
-Leptoxyphium longispora S.L. Jain, A.N. Rai & P. Mehta SPECIES
-=======
+# Leptoxyphium longispora S.L. Jain, A.N. Rai & P. Mehta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sillia biformis Rick SPECIES
-=======
+# Sillia biformis Rick SPECIES
 
 #### Status
 ACCEPTED

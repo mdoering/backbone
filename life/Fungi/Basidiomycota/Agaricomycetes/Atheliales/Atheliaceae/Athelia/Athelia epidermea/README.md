@@ -1,5 +1,4 @@
-Athelia epidermea Pers. SPECIES
-=======
+# Athelia epidermea Pers. SPECIES
 
 #### Status
 ACCEPTED

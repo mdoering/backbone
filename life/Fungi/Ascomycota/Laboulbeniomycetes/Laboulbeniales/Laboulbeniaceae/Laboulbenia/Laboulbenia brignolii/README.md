@@ -1,5 +1,4 @@
-Laboulbenia brignolii W. Rossi & M. Blackw. SPECIES
-=======
+# Laboulbenia brignolii W. Rossi & M. Blackw. SPECIES
 
 #### Status
 ACCEPTED

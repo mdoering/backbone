@@ -1,5 +1,4 @@
-Smittium compactum Lichtw. & M.C. Williams, 1992 SPECIES
-=======
+# Smittium compactum Lichtw. & M.C. Williams, 1992 SPECIES
 
 #### Status
 ACCEPTED

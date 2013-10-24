@@ -1,5 +1,4 @@
-Acarospora pulvinata H. Magn. SPECIES
-=======
+# Acarospora pulvinata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

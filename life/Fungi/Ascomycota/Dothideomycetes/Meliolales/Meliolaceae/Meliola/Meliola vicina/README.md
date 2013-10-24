@@ -1,5 +1,4 @@
-Meliola vicina var. vicina VARIETY
-=======
+# Meliola vicina Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 21: 95 (1923)
 
 #### Original name
-Meliola vicina var. vicina
+Meliola vicina Syd.
 
 ### Remarks
 null

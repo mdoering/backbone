@@ -1,8 +1,7 @@
-Physcia brouardi B. de Lesd. SPECIES
-=======
+# Physcia brouardii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia brouardi B. de Lesd.
+Physcia brouardii B. de Lesd.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Harposporium angularis G.L. Barron SPECIES
-=======
+# Harposporium angulare G.L. Barron SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 58(20): 2193 (1980)
 
 #### Original name
-Harposporium angularis G.L. Barron
+Harposporium angulare G.L. Barron
 
 ### Remarks
 null

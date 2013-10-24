@@ -1,5 +1,4 @@
-Hendersonia daviesiae Petr. SPECIES
-=======
+# Hendersonia daviesiae Petr. SPECIES
 
 #### Status
 ACCEPTED

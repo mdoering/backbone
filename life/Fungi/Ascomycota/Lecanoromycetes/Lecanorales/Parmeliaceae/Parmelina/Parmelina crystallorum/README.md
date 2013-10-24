@@ -1,5 +1,4 @@
-Parmelina crystallorum (Lynge) Hale SPECIES
-=======
+# Parmelina crystallorum (Lynge) Hale SPECIES
 
 #### Status
 ACCEPTED

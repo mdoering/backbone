@@ -1,5 +1,4 @@
-Amanita agglutinata (Berk. & M.A. Curtis) Lloyd SPECIES
-=======
+# Amanita agglutinata (Berk. & M.A. Curtis) Lloyd SPECIES
 
 #### Status
 ACCEPTED

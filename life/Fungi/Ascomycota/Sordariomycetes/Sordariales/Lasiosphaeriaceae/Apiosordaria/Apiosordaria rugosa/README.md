@@ -1,5 +1,4 @@
-Apiosordaria rugosa Udagawa, 1980 SPECIES
-=======
+# Apiosordaria rugosa Udagawa, 1980 SPECIES
 
 #### Status
 ACCEPTED

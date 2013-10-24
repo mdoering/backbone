@@ -1,5 +1,4 @@
-Labrella rosacearum Corda SPECIES
-=======
+# Labrella rosacearum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitopsis velosa Peck SPECIES
-=======
+# Amanitopsis velosa Peck SPECIES
 
 #### Status
 ACCEPTED

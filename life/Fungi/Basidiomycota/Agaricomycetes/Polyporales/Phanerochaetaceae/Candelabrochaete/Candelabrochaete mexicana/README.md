@@ -1,14 +1,13 @@
-Peniophora mexicana Burt, 1926 SPECIES
-=======
+# Candelabrochaete mexicana (Burt) P. Roberts, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 12: 243 (1926)
+Kew Bull. 55(4): 808 (2000)
 
 #### Original name
 Peniophora mexicana Burt, 1926

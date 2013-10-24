@@ -1,5 +1,4 @@
-Lichen obliteratus Pers. SPECIES
-=======
+# Lichen obliteratus Pers. SPECIES
 
 #### Status
 ACCEPTED

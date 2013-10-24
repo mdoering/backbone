@@ -1,5 +1,4 @@
-Oxytoxum variabile Schiller SPECIES
-=======
+# Oxytoxum variabile Schiller SPECIES
 
 #### Status
 ACCEPTED

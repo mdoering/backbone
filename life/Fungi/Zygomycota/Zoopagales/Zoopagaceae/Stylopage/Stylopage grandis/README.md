@@ -1,5 +1,4 @@
-Stylopage grandis Dudd., 1948 SPECIES
-=======
+# Stylopage grandis Dudd., 1948 SPECIES
 
 #### Status
 ACCEPTED

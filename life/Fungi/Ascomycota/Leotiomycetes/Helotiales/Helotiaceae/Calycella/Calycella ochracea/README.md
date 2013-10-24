@@ -1,5 +1,4 @@
-Calycella ochracea Boud., 1907 SPECIES
-=======
+# Calycella ochracea Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

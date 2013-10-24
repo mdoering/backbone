@@ -1,5 +1,4 @@
-Lachnella calycina SPECIES
-=======
+# Lachnella calycina SPECIES
 
 #### Status
 ACCEPTED

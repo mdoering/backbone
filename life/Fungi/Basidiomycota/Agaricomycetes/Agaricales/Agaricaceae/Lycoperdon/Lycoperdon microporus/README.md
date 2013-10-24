@@ -1,5 +1,4 @@
-Lycoperdon microporus (Berk.) Zeller & C.W. Dodge SPECIES
-=======
+# Lycoperdon microporus (Berk.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

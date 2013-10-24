@@ -1,5 +1,4 @@
-Stictina guilleminii (Mont.) Nyl. SPECIES
-=======
+# Stictina guilleminii (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia plectocarpoides (S.Y. Kondr. & D.J. Galloway) Wedin & S.Y. Kondr. SPECIES
-=======
+# Arthonia plectocarpoides (S.Y. Kondr. & D.J. Galloway) Wedin & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

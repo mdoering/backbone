@@ -1,5 +1,4 @@
-Thelohaniidae Hazard & Oldacre, 1975 FAMILY
-=======
+# Thelohaniidae Hazard & Oldacre, 1975 FAMILY
 
 #### Status
 ACCEPTED

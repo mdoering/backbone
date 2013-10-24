@@ -1,5 +1,4 @@
-Synchytrium phaseoli-radiati S. Sinha & J.C.S. Gupta SPECIES
-=======
+# Synchytrium phaseoli-radiati S. Sinha & J.C.S. Gupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium americanum Ellis & Everh. SPECIES
-=======
+# Gloeosporium americanum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

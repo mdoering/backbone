@@ -1,5 +1,4 @@
-Zoothamnium pygmaeum sensu Kahl, 1935 SPECIES
-=======
+# Zoothamnium pygmaeum sensu Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

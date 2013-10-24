@@ -1,5 +1,4 @@
-Lecanora clandestina Fée SPECIES
-=======
+# Lecanora clandestina Fée SPECIES
 
 #### Status
 ACCEPTED

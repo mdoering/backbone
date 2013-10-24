@@ -1,8 +1,7 @@
-Laestadia leucothoës (Cooke) Sacc. SPECIES
-=======
+# Laestadia leucothoes (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

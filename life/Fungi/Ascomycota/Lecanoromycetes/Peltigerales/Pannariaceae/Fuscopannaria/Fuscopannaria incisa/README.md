@@ -1,17 +1,16 @@
-Parmeliella incisa Müll. Arg. SPECIES
-=======
+# Fuscopannaria incisa (Müll. Arg.) P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 103(4): 682 (2000)
 
 #### Original name
-null
+Pannaria incisa Müll. Arg.
 
 ### Remarks
 null

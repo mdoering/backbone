@@ -1,5 +1,4 @@
-Russula orinocensis Pat. & Gaillard SPECIES
-=======
+# Russula orinocensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

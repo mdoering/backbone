@@ -1,14 +1,13 @@
-Epichloë cinerea Berk. & Broome, 1875 SPECIES
-=======
+# Parepichloë cinerea (Berk. & Broome) J.F. White & P.V. Reddy, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 90(2): 231 (1998)
 
 #### Original name
 Epichloë cinerea Berk. & Broome, 1875

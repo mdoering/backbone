@@ -1,5 +1,4 @@
-Diatrype cerasina Rehm SPECIES
-=======
+# Diatrype cerasina Rehm SPECIES
 
 #### Status
 ACCEPTED

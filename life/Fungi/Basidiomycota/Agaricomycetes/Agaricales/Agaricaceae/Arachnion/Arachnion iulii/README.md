@@ -1,5 +1,4 @@
-Arachnion iulii Quadr., 1996 SPECIES
-=======
+# Arachnion iulii Quadr., 1996 SPECIES
 
 #### Status
 ACCEPTED

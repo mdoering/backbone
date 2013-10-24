@@ -1,5 +1,4 @@
-Gymnopilus acystidiatus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus acystidiatus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

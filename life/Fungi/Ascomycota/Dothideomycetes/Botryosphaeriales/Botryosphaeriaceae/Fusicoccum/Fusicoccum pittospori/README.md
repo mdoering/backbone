@@ -1,5 +1,4 @@
-Fusicoccum pittospori (Petr. & Syd.) Vanev SPECIES
-=======
+# Fusicoccum pittospori (Petr. & Syd.) Vanev SPECIES
 
 #### Status
 ACCEPTED

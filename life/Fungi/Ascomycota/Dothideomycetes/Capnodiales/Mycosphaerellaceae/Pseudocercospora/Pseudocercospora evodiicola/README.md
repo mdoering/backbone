@@ -1,5 +1,4 @@
-Pseudocercospora evodiicola (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora evodiicola (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina micromma Zahlbr. SPECIES
-=======
+# Phaeographina micromma Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

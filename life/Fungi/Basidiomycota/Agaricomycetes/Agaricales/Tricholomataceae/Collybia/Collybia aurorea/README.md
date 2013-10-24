@@ -1,5 +1,4 @@
-Collybia aurorea (Fr.) Sacc. SPECIES
-=======
+# Collybia aurorea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

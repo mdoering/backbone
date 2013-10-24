@@ -1,14 +1,13 @@
-Columnocystis africana Boidin, Lanq. & Gilles, 1983 SPECIES
-=======
+# Veluticeps africana (Boidin, Lanq. & Gilles) Hjortstam & Tellería, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 4(2): 129 (1983)
+Mycotaxon 37: 54 (1990)
 
 #### Original name
 Columnocystis africana Boidin, Lanq. & Gilles, 1983

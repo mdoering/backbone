@@ -1,5 +1,4 @@
-Rosellinia macrospora A. Pande & Mhaskar SPECIES
-=======
+# Rosellinia macrospora A. Pande & Mhaskar SPECIES
 
 #### Status
 ACCEPTED

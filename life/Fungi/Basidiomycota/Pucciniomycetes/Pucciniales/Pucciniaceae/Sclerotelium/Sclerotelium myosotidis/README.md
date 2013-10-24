@@ -1,5 +1,4 @@
-Sclerotelium myosotidis (Tranzschel) Syd. SPECIES
-=======
+# Sclerotelium myosotidis (Tranzschel) Syd. SPECIES
 
 #### Status
 ACCEPTED

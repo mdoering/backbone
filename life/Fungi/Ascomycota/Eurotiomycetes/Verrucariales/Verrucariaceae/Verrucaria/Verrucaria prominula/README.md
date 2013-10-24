@@ -1,5 +1,4 @@
-Verrucaria prominula Nyl. SPECIES
-=======
+# Verrucaria prominula Nyl. SPECIES
 
 #### Status
 ACCEPTED

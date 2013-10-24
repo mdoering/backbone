@@ -1,5 +1,4 @@
-Phyllerium palaeomyricae Ettingsh. SPECIES
-=======
+# Phyllerium palaeomyricae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

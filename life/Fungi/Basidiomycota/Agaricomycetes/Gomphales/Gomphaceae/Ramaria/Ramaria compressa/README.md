@@ -1,5 +1,4 @@
-Ramaria compressa Velen. SPECIES
-=======
+# Ramaria compressa Velen. SPECIES
 
 #### Status
 ACCEPTED

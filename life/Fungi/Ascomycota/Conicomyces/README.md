@@ -1,5 +1,4 @@
-Conicomyces R.C. Sinclair, Eicker & Morgan-Jones GENUS
-=======
+# Conicomyces R.C. Sinclair, Eicker & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

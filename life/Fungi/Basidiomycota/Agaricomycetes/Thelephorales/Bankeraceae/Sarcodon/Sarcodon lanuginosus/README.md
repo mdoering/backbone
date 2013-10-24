@@ -1,5 +1,4 @@
-Sarcodon lanuginosus (K.A. Harrison) K.A. Harrison, 1984 SPECIES
-=======
+# Sarcodon lanuginosus (K.A. Harrison) K.A. Harrison, 1984 SPECIES
 
 #### Status
 ACCEPTED

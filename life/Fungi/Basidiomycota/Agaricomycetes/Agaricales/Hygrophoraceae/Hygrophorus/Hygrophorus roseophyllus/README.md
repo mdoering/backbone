@@ -1,5 +1,4 @@
-Hygrophorus roseophyllus Cetto SPECIES
-=======
+# Hygrophorus roseophyllus Cetto SPECIES
 
 #### Status
 ACCEPTED

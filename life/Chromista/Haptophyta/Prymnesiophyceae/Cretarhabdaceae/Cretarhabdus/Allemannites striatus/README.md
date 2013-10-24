@@ -1,8 +1,7 @@
-Gartnerago striatum (Stradner, 1963) Forchheimer, 1972 SPECIES
-=======
+# Allemannites striatus (Stradner, 1963) Grün in Grün & Allemann, 1975 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

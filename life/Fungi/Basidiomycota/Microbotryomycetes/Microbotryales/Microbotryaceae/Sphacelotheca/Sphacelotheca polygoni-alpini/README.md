@@ -1,5 +1,4 @@
-Sphacelotheca polygoni-alpini Cruchet SPECIES
-=======
+# Sphacelotheca polygoni-alpini Cruchet SPECIES
 
 #### Status
 ACCEPTED

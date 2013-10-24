@@ -1,5 +1,4 @@
-Russula groenlandica Ruots. & Vauras SPECIES
-=======
+# Russula groenlandica Ruots. & Vauras SPECIES
 
 #### Status
 ACCEPTED

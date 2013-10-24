@@ -1,5 +1,4 @@
-Passalora aratai (Speg.) U. Braun, Delhey & Kiehr SPECIES
-=======
+# Passalora aratai (Speg.) U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

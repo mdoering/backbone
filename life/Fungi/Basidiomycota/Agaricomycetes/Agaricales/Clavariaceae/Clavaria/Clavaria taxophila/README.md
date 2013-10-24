@@ -1,5 +1,4 @@
-Clavaria taxophila Lloyd SPECIES
-=======
+# Clavaria taxophila Lloyd SPECIES
 
 #### Status
 ACCEPTED

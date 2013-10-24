@@ -1,5 +1,4 @@
-Anaptychia punctifera Kurok. SPECIES
-=======
+# Anaptychia punctifera Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis viridescens (Fée) Zahlbr. SPECIES
-=======
+# Graphis viridescens (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

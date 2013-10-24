@@ -1,5 +1,4 @@
-Phyllosticta arida Earle SPECIES
-=======
+# Phyllosticta arida Earle SPECIES
 
 #### Status
 ACCEPTED

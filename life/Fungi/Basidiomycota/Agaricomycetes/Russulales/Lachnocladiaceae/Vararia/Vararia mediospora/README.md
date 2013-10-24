@@ -1,5 +1,4 @@
-Vararia mediospora var. mediospora Boidin, Lanq. & Gilles, 1980 VARIETY
-=======
+# Vararia mediospora Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Cryptog. Mycol. 1(4): 321 (1980)
 
 #### Original name
-Vararia mediospora var. mediospora Boidin, Lanq. & Gilles, 1980
+Vararia mediospora Boidin, Lanq. & Gilles
 
 ### Remarks
 null

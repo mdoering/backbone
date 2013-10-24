@@ -1,5 +1,4 @@
-Coprinus ebulbosus Peck SPECIES
-=======
+# Coprinus ebulbosus Peck SPECIES
 
 #### Status
 ACCEPTED

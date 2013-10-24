@@ -1,5 +1,4 @@
-Sticta citrina Pers. SPECIES
-=======
+# Sticta citrina Pers. SPECIES
 
 #### Status
 ACCEPTED

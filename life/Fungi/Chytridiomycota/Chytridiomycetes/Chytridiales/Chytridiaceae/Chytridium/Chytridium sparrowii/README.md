@@ -1,5 +1,4 @@
-Chytridium sparrowii S.N. Dasgupta & R. John SPECIES
-=======
+# Chytridium sparrowii S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

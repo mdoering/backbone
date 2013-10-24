@@ -1,5 +1,4 @@
-Coniothyrium subcorticeum Kravtzev SPECIES
-=======
+# Coniothyrium subcorticeum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

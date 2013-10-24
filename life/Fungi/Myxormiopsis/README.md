@@ -1,5 +1,4 @@
-Myxormiopsis B. Sutton GENUS
-=======
+# Myxormiopsis B. Sutton GENUS
 
 #### Status
 ACCEPTED

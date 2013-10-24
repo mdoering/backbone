@@ -1,5 +1,4 @@
-Usnea iberica Motyka SPECIES
-=======
+# Usnea iberica Motyka SPECIES
 
 #### Status
 ACCEPTED

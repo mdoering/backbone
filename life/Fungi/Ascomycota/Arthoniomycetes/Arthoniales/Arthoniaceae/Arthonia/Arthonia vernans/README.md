@@ -1,5 +1,4 @@
-Arthonia vernans Willey SPECIES
-=======
+# Arthonia vernans Willey SPECIES
 
 #### Status
 ACCEPTED

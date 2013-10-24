@@ -1,5 +1,4 @@
-Boletus subterraneus Scop. SPECIES
-=======
+# Boletus subterraneus Scop. SPECIES
 
 #### Status
 ACCEPTED

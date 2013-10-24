@@ -1,5 +1,4 @@
-Slimacomyces Minter GENUS
-=======
+# Slimacomyces Minter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercosporella daucicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercosporella daucicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

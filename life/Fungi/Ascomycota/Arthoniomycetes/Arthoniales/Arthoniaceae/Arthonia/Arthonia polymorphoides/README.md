@@ -1,5 +1,4 @@
-Arthonia polymorphoides Vain. SPECIES
-=======
+# Arthonia polymorphoides Vain. SPECIES
 
 #### Status
 ACCEPTED

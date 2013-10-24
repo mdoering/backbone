@@ -1,5 +1,4 @@
-Phaeophragmeriella tecleae Hansf. SPECIES
-=======
+# Phaeophragmeriella tecleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

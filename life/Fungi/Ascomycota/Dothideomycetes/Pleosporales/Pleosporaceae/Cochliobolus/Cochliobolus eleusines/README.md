@@ -1,17 +1,16 @@
-Bipolaris eleusinea J.H. Peng & J.Y. Lu SPECIES
-=======
+# Cochliobolus eleusines Alcorn, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 39: 367 (1990)
 
 #### Original name
-Bipolaris eleusinea J.H. Peng & J.Y. Lu
+Cochliobolus eleusines Alcorn, 1990
 
 ### Remarks
 null

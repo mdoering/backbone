@@ -1,5 +1,4 @@
-Polyporus saharanpurensis Henn. SPECIES
-=======
+# Polyporus saharanpurensis Henn. SPECIES
 
 #### Status
 ACCEPTED

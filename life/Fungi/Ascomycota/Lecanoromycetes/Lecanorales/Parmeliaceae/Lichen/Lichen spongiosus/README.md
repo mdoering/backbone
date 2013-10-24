@@ -1,5 +1,4 @@
-Lichen spongiosus Scop. SPECIES
-=======
+# Lichen spongiosus Scop. SPECIES
 
 #### Status
 ACCEPTED

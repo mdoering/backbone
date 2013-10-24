@@ -1,5 +1,4 @@
-Puccinia conyzae Henn. SPECIES
-=======
+# Puccinia conyzae Henn. SPECIES
 
 #### Status
 ACCEPTED

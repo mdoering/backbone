@@ -1,5 +1,4 @@
-Marasmius sanguirotalis var. sanguirotalis VARIETY
-=======
+# Marasmius sanguirotalis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 25: 192 (1952)
 
 #### Original name
-Marasmius sanguirotalis var. sanguirotalis
+Marasmius sanguirotalis Singer
 
 ### Remarks
 null

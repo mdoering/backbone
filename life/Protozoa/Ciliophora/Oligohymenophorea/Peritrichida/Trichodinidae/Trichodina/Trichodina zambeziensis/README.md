@@ -1,5 +1,4 @@
-Trichodina zambeziensis SPECIES
-=======
+# Trichodina zambeziensis SPECIES
 
 #### Status
 ACCEPTED

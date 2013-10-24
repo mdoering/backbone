@@ -1,17 +1,16 @@
-Pluteus cinereus f. cinereus FORM
-=======
+# Pluteus thomsonii (Berk. & Broome) Dennis, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 31(3-4): 206 (1948)
 
 #### Original name
-null
+Agaricus thomsonii Berk. & Broome, 1876
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Ustilago beckeropsis Zambett. SPECIES
-=======
+# Ustilago beckeropsidis Zambett. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 95(4): 406 (1980)
 
 #### Original name
-Ustilago beckeropsis Zambett.
+Ustilago beckeropsidis Zambett.
 
 ### Remarks
 null

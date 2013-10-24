@@ -1,5 +1,4 @@
-Puccinia hedysari-obscuri DC. SPECIES
-=======
+# Puccinia hedysari-obscuri DC. SPECIES
 
 #### Status
 ACCEPTED

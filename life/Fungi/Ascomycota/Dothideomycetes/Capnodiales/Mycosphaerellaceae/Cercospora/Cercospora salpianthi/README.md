@@ -1,5 +1,4 @@
-Cercospora salpianthi Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora salpianthi Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

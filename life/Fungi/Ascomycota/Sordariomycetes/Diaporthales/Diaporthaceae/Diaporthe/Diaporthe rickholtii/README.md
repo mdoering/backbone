@@ -1,5 +1,4 @@
-Diaporthe rickholtii Nitschke SPECIES
-=======
+# Diaporthe rickholtii Nitschke SPECIES
 
 #### Status
 ACCEPTED

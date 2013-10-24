@@ -1,5 +1,4 @@
-Caloplaca cerinopsis Poelt & Hinter. SPECIES
-=======
+# Caloplaca cerinopsis Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

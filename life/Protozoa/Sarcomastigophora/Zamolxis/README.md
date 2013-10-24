@@ -1,5 +1,4 @@
-Zamolxis Dumitrica, 1982 GENUS
-=======
+# Zamolxis Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symphyonema sinense var. minor C. Sarthou, Y. Thérézien & A. Couté VARIETY
-=======
+# Symphyonema sinense C.C. Jao SPECIES
 
 #### Status
 ACCEPTED

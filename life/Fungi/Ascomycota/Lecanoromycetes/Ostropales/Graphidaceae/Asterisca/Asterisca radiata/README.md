@@ -1,5 +1,4 @@
-Asterisca radiata G. Mey. SPECIES
-=======
+# Asterisca radiata G. Mey. SPECIES
 
 #### Status
 ACCEPTED

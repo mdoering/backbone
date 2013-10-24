@@ -1,5 +1,4 @@
-Botrytis glauca Ellis & Everh. SPECIES
-=======
+# Botrytis glauca Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria eburnea Velen. SPECIES
-=======
+# Ramaria eburnea Velen. SPECIES
 
 #### Status
 ACCEPTED

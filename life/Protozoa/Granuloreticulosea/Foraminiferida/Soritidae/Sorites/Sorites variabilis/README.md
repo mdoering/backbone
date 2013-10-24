@@ -1,5 +1,4 @@
-Sorites variabilis Lacroix, 1941 SPECIES
-=======
+# Sorites variabilis Lacroix, 1941 SPECIES
 
 #### Status
 ACCEPTED

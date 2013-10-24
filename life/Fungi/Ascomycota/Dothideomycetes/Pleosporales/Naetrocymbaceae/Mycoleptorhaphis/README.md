@@ -1,5 +1,4 @@
-Mycoleptorhaphis GENUS
-=======
+# Mycoleptorhaphis GENUS
 
 #### Status
 ACCEPTED

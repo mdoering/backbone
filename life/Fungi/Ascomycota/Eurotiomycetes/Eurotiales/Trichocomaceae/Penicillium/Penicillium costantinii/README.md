@@ -1,17 +1,16 @@
-Penicillium costantini Bainier SPECIES
-=======
+# Penicillium costantinii Bainier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 22: 205 (1906)
 
 #### Original name
-Penicillium costantini Bainier
+Penicillium costantinii Bainier
 
 ### Remarks
 null

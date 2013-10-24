@@ -1,5 +1,4 @@
-Calonectria chlorinella (Cooke) Sacc. SPECIES
-=======
+# Calonectria chlorinella (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

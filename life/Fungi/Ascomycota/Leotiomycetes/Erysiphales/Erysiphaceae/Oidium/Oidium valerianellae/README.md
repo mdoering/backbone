@@ -1,5 +1,4 @@
-Oidium valerianellae Fuckel SPECIES
-=======
+# Oidium valerianellae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorospleniella collematoides Rehm SPECIES
-=======
+# Chlorospleniella collematoides Rehm SPECIES
 
 #### Status
 ACCEPTED

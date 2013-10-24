@@ -1,5 +1,4 @@
-Placidium analogicum (Breuss) Breuss SPECIES
-=======
+# Placidium analogicum (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

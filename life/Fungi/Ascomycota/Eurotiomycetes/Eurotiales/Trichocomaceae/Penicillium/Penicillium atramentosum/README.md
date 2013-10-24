@@ -1,5 +1,4 @@
-Penicillium atramentosum Thom, 1910 SPECIES
-=======
+# Penicillium atramentosum Thom, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Iodobacter Logan, 1989 GENUS
-=======
+# Iodobacter Logan, 1989 GENUS
 
 #### Status
 ACCEPTED

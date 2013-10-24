@@ -1,5 +1,4 @@
-Tephrophana plexipes var. plexipes VARIETY
-=======
+# Tephrophana plexipes anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tephrophana plexipes var. plexipes
+Tephrophana plexipes anon.
 
 ### Remarks
 null

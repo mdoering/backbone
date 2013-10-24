@@ -1,5 +1,4 @@
-Pseudographis tetraspora Cummins SPECIES
-=======
+# Pseudographis tetraspora Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochilia filans Fauré-Fremiet & Guilcher, 1947 SPECIES
-=======
+# Trochilia filans Fauré-Fremiet & Guilcher, 1947 SPECIES
 
 #### Status
 ACCEPTED

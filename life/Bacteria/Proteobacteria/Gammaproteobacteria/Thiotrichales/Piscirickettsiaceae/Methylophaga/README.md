@@ -1,5 +1,4 @@
-Methylophaga Janvier et al., 1985 GENUS
-=======
+# Methylophaga Janvier et al., 1985 GENUS
 
 #### Status
 ACCEPTED

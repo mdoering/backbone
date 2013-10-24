@@ -1,17 +1,16 @@
-Pseudovalsa hapalocystis var. hapalocystis VARIETY
-=======
+# Pseudovalsa hapalocystis (Berk. & Broome) Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 1): 44 (1877)
 
 #### Original name
-Pseudovalsa hapalocystis var. hapalocystis
+Sphaeria hapalocystis Berk. & Broome, 1852
 
 ### Remarks
 null

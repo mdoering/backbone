@@ -1,5 +1,4 @@
-Bacidia elegantula Groenh. SPECIES
-=======
+# Bacidia elegantula Groenh. SPECIES
 
 #### Status
 ACCEPTED

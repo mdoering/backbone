@@ -1,5 +1,4 @@
-Alicyclobacillus hesperidum Albuquerque et al., 2000 SPECIES
-=======
+# Alicyclobacillus hesperidum Albuquerque et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

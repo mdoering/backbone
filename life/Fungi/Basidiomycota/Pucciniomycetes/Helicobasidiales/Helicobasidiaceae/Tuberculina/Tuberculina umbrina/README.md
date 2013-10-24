@@ -1,5 +1,4 @@
-Tuberculina umbrina Speg. SPECIES
-=======
+# Tuberculina umbrina Speg. SPECIES
 
 #### Status
 ACCEPTED

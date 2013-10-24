@@ -1,5 +1,4 @@
-Cladosporium spinae-christi M.B. Ellis SPECIES
-=======
+# Cladosporium spinae-christi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

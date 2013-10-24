@@ -1,5 +1,4 @@
-Peziza bicolor Schumach. SPECIES
-=======
+# Peziza bicolor Schumach. SPECIES
 
 #### Status
 ACCEPTED

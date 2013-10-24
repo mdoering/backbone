@@ -1,5 +1,4 @@
-Ceuthospora caryae Bubák & Dearn. SPECIES
-=======
+# Ceuthospora caryae Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

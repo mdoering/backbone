@@ -1,5 +1,4 @@
-Phoma farnesianae Tassi SPECIES
-=======
+# Phoma farnesianae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus subarvensis Murrill SPECIES
-=======
+# Agaricus subarvensis Murrill SPECIES
 
 #### Status
 ACCEPTED

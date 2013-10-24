@@ -1,5 +1,4 @@
-Micronectria montenegrina Bubák SPECIES
-=======
+# Micronectria montenegrina Bubák SPECIES
 
 #### Status
 ACCEPTED

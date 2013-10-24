@@ -1,5 +1,4 @@
-Chloridium codinaeoides Piroz. SPECIES
-=======
+# Chloridium codinaeoides Piroz. SPECIES
 
 #### Status
 ACCEPTED

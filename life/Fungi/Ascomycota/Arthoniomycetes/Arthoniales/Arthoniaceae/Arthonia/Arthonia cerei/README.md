@@ -1,5 +1,4 @@
-Arthonia cerei Vain. SPECIES
-=======
+# Arthonia cerei Vain. SPECIES
 
 #### Status
 ACCEPTED

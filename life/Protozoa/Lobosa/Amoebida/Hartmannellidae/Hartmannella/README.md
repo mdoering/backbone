@@ -1,17 +1,16 @@
-Hartmanella Castellani & Chalmers, 1920 GENUS
-=======
+# Hartmannella Alexeiff, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Trop. Med. , 323.
+Bull. Soc. Zool. France, 37, 156.
 
 #### Original name
-null
+Hartmannia Alexeieff, 1912
 
 ### Remarks
 null

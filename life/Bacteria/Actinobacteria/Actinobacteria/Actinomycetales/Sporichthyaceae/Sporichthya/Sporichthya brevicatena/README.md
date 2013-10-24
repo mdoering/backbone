@@ -1,5 +1,4 @@
-Sporichthya brevicatena Tamura et al., 1999 SPECIES
-=======
+# Sporichthya brevicatena Tamura et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adenoides kofoidi (Herdman, 1922) Dodge, 1982 SPECIES
-=======
+# Adenoides kofoidi (Herdman, 1922) Dodge, 1982 SPECIES
 
 #### Status
 ACCEPTED

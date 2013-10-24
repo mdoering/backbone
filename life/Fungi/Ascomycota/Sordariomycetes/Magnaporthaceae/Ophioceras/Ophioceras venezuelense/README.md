@@ -1,5 +1,4 @@
-Ophioceras venezuelense Shearer, J.L. Crane & W. Chen SPECIES
-=======
+# Ophioceras venezuelense Shearer, J.L. Crane & W. Chen SPECIES
 
 #### Status
 ACCEPTED

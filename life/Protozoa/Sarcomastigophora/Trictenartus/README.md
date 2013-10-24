@@ -1,5 +1,4 @@
-Trictenartus Haeckel, 1881 GENUS
-=======
+# Trictenartus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

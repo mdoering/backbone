@@ -1,5 +1,4 @@
-Bullaria chondrillina (Bubák & Syd.) Arthur & Mains SPECIES
-=======
+# Bullaria chondrillina (Bubák & Syd.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

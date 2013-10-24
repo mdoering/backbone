@@ -1,5 +1,4 @@
-Graphis subangustata Vain. SPECIES
-=======
+# Graphis subangustata Vain. SPECIES
 
 #### Status
 ACCEPTED

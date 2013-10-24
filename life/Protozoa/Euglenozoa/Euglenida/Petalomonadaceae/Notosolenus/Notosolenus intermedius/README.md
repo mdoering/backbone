@@ -1,5 +1,4 @@
-Notosolenus intermedius Christen SPECIES
-=======
+# Notosolenus intermedius Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora cassiae Henn., 1895 SPECIES
-=======
+# Phyllachora cassiae Henn., 1895 SPECIES
 
 #### Status
 ACCEPTED

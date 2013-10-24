@@ -1,5 +1,4 @@
-Leotiales Korf & Lizon ORDER
-=======
+# Leotiales Korf & Lizon ORDER
 
 #### Status
 ACCEPTED

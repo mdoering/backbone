@@ -1,5 +1,4 @@
-Praepatellina Blau, 1986 GENUS
-=======
+# Praepatellina Blau, 1986 GENUS
 
 #### Status
 ACCEPTED

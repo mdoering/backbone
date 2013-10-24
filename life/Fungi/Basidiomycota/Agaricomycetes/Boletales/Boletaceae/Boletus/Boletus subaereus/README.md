@@ -1,5 +1,4 @@
-Boletus subaereus Pilát SPECIES
-=======
+# Boletus subaereus Pilát SPECIES
 
 #### Status
 ACCEPTED

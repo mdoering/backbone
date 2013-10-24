@@ -1,17 +1,16 @@
-Inocybe pseudoorbata Esteve-Rav. & García Blanco SPECIES
-=======
+# Inocybe pseudo-orbata Esteve-Rav. & García Blanco SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Esteve-Raventós, García Blanco, Sanz Carazo & Del Val, Öst. Z. Pilzk. 12: 94 (2003)
 
 #### Original name
-Inocybe pseudoorbata Esteve-Rav. & García Blanco
+Inocybe pseudo-orbata Esteve-Rav. & García Blanco
 
 ### Remarks
 null

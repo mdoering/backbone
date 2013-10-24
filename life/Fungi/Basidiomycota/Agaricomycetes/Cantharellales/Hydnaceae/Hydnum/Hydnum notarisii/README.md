@@ -1,5 +1,4 @@
-Hydnum notarisii Inzenga SPECIES
-=======
+# Hydnum notarisii Inzenga SPECIES
 
 #### Status
 ACCEPTED

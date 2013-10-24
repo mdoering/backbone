@@ -1,5 +1,4 @@
-Kolchidina Morozova, Kozhevnikova & Kuryleva, 1967 GENUS
-=======
+# Kolchidina Morozova, Kozhevnikova & Kuryleva, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia mikhnoi (Zahlbr.) SPECIES
-=======
+# Aspicilia mikhnoi (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

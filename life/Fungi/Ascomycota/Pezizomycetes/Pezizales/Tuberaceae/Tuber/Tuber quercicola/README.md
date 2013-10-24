@@ -1,5 +1,4 @@
-Tuber quercicola J.L. Frank, D. Southw. & Trappe SPECIES
-=======
+# Tuber quercicola J.L. Frank, D. Southw. & Trappe SPECIES
 
 #### Status
 ACCEPTED

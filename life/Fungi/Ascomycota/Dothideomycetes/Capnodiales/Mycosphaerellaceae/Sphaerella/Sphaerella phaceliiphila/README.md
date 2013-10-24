@@ -1,5 +1,4 @@
-Sphaerella phaceliiphila Speg. SPECIES
-=======
+# Sphaerella phaceliiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

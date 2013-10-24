@@ -1,5 +1,4 @@
-Bacidia intercedens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia intercedens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

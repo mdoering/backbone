@@ -1,14 +1,13 @@
-Trypethelium gregale C. Knight SPECIES
-=======
+# Parmentaria gregalis (C. Knight) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Synops. Queensl. Fl. 1(Suppl. ): 77 (1886)
+Flora, Jena 70: 426 (1887)
 
 #### Original name
 Trypethelium gregale C. Knight

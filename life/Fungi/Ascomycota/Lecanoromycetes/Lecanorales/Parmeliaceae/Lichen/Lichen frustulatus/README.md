@@ -1,5 +1,4 @@
-Lichen frustulatus Vill. SPECIES
-=======
+# Lichen frustulatus Vill. SPECIES
 
 #### Status
 ACCEPTED

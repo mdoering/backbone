@@ -1,5 +1,4 @@
-Klaengspongus Sashida in Shasida, Salyapongse & Nakornsri, 2000 GENUS
-=======
+# Klaengspongus Sashida in Shasida, Salyapongse & Nakornsri, 2000 GENUS
 
 #### Status
 ACCEPTED

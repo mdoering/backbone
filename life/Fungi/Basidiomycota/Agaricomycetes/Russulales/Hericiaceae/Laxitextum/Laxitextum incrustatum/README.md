@@ -1,5 +1,4 @@
-Laxitextum incrustatum Hjortstam & Ryvarden, 1981 SPECIES
-=======
+# Laxitextum incrustatum Hjortstam & Ryvarden, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria dominici Sacc. SPECIES
-=======
+# Septoria dominici Sacc. SPECIES
 
 #### Status
 ACCEPTED

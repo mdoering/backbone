@@ -1,5 +1,4 @@
-Corynespora calicioidea (Berk. & Broome) M.B. Ellis SPECIES
-=======
+# Corynespora calicioidea (Berk. & Broome) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

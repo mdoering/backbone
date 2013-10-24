@@ -1,5 +1,4 @@
-Ascodesmis aurea Tiegh., 1876 SPECIES
-=======
+# Ascodesmis aurea Tiegh., 1876 SPECIES
 
 #### Status
 ACCEPTED

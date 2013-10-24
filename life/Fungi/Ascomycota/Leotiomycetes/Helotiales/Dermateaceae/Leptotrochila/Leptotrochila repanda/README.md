@@ -1,17 +1,16 @@
-Pseudopeziza repanda var. repanda VARIETY
-=======
+# Leptotrochila repanda (Fr.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 2(6): 161 (1885)
+Mycoth. fenn. (Helsinki) 1: 246 (1871)
 
 #### Original name
-Pseudopeziza repanda var. repanda
+Phacidium repandum Fr., 1819
 
 ### Remarks
 null

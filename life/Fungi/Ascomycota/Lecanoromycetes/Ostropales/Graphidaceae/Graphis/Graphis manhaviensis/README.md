@@ -1,8 +1,7 @@
-Graphis manhaviënsis Zahlbr. SPECIES
-=======
+# Graphis manhaviensis Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis manhaviënsis Zahlbr.
+Graphis manhaviensis Zahlbr.
 
 ### Remarks
 null

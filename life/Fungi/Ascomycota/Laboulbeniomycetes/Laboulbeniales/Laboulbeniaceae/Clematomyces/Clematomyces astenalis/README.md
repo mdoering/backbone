@@ -1,14 +1,13 @@
-Schizomeromyces astenalis Thaxt., 1931 SPECIES
-=======
+# Clematomyces astenalis (Thaxt.) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts 16: 313 (1931)
+Mycol. Mem. 9: 170 (1985)
 
 #### Original name
 Schizomeromyces astenalis Thaxt., 1931

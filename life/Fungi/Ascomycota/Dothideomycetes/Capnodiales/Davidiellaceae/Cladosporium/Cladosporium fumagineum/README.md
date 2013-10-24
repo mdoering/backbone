@@ -1,5 +1,4 @@
-Cladosporium fumagineum Sacc., 1920 SPECIES
-=======
+# Cladosporium fumagineum Sacc., 1920 SPECIES
 
 #### Status
 ACCEPTED

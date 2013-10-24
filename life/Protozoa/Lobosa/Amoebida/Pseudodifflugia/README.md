@@ -1,5 +1,4 @@
-Pseudodifflugia Leidy, 1879 GENUS
-=======
+# Pseudodifflugia Leidy, 1879 GENUS
 
 #### Status
 ACCEPTED

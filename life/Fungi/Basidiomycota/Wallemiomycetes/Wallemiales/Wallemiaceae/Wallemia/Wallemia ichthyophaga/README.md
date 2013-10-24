@@ -1,17 +1,16 @@
-Wallemia ichthiophaga Johan-Olsen SPECIES
-=======
+# Wallemia ichthyophaga Johan-Olsen, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Skr. VidenskSelsk. Christiania, Kl. I, Math. -Natur. 6 (1887)
 
 #### Original name
-Wallemia ichthiophaga Johan-Olsen
+Wallemia ichthyophaga Johan-Olsen, 1887
 
 ### Remarks
 null

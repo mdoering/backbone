@@ -1,5 +1,4 @@
-Sphaerella banksiae Cooke & Massee SPECIES
-=======
+# Sphaerella banksiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

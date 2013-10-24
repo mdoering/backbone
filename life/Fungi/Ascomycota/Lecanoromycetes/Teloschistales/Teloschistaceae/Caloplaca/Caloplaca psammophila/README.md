@@ -1,5 +1,4 @@
-Caloplaca psammophila Poelt & Hinter. SPECIES
-=======
+# Caloplaca psammophila Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

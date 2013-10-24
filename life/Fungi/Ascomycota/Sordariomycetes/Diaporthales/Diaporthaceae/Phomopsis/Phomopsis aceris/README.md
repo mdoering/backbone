@@ -1,5 +1,4 @@
-Phomopsis aceris (Höhn.) Sacc. & D. Sacc. SPECIES
-=======
+# Phomopsis aceris (Höhn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

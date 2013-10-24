@@ -1,5 +1,4 @@
-Savoryella appendiculata K.D. Hyde & E.B.G. Jones, 1992 SPECIES
-=======
+# Savoryella appendiculata K.D. Hyde & E.B.G. Jones, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhytisma placenta Berk. & Broome SPECIES
-=======
+# Cocconia placenta (Berk. & Broome) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 131 (1875)
+Syll. fung. (Abellini) 8: 738 (1889)
 
 #### Original name
 Rhytisma placenta Berk. & Broome

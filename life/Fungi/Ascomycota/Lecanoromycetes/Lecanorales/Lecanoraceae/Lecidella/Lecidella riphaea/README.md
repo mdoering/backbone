@@ -1,5 +1,4 @@
-Lecidella riphaea Körb. SPECIES
-=======
+# Lecidella riphaea Körb. SPECIES
 
 #### Status
 ACCEPTED

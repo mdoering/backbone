@@ -1,5 +1,4 @@
-Cladosporium lantanae Bhalla & A.K. Sarbhoy SPECIES
-=======
+# Cladosporium lantanae Bhalla & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

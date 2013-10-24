@@ -1,5 +1,4 @@
-Graphis aurita Eschw. SPECIES
-=======
+# Graphis aurita Eschw. SPECIES
 
 #### Status
 ACCEPTED

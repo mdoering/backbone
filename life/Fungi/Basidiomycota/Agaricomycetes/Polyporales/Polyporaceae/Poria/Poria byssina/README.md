@@ -1,5 +1,4 @@
-Poria byssina Secr. SPECIES
-=======
+# Poria byssina Secr. SPECIES
 
 #### Status
 ACCEPTED

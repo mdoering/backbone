@@ -1,5 +1,4 @@
-Fusicladium psoraleae (Ellis & Barthol.) S. Hughes & Piroz. SPECIES
-=======
+# Fusicladium psoraleae (Ellis & Barthol.) S. Hughes & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus brunneus J. Schröt. SPECIES
-=======
+# Hypochnus brunneus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

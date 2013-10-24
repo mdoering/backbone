@@ -1,5 +1,4 @@
-Agaricus lepricus Berk. & Broome SPECIES
-=======
+# Agaricus lepricus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

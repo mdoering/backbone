@@ -1,5 +1,4 @@
-Auloceratium Haeckel, 1887 GENUS
-=======
+# Auloceratium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

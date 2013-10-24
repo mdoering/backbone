@@ -1,5 +1,4 @@
-Coscinodiscus horridus Karsten, 1905 SPECIES
-=======
+# Coscinodiscus horridus Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

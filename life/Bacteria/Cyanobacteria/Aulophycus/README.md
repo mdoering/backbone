@@ -1,5 +1,4 @@
-Aulophycus C.L. Fenton & M.A. Fenton, 1939 GENUS
-=======
+# Aulophycus C.L. Fenton & M.A. Fenton, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sacidium gleditschiae Lév. SPECIES
-=======
+# Sacidium gleditschiae Lév. SPECIES
 
 #### Status
 ACCEPTED

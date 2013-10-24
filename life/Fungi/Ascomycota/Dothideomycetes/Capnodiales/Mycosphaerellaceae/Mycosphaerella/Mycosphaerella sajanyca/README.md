@@ -1,5 +1,4 @@
-Mycosphaerella sajanyca Petr. SPECIES
-=======
+# Mycosphaerella sajanyca Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelaria kovalamensis V. Krishnamurthy & Baluswami SPECIES
-=======
+# Sphacelaria kovalamensis V. Krishnamurthy & Baluswami SPECIES
 
 #### Status
 ACCEPTED

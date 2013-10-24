@@ -1,5 +1,4 @@
-Chalara matsushimae McKenzie SPECIES
-=======
+# Chalara matsushimae McKenzie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium bambusicola Hara SPECIES
-=======
+# Fusarium bambusicola Hara SPECIES
 
 #### Status
 ACCEPTED

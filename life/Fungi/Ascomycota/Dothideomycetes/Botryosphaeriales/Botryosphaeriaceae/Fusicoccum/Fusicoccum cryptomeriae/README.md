@@ -1,5 +1,4 @@
-Fusicoccum cryptomeriae Sawada SPECIES
-=======
+# Fusicoccum cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

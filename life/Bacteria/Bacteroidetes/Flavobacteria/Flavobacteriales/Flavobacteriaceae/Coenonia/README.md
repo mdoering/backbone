@@ -1,5 +1,4 @@
-Coenonia Vandamme et al., 1999 GENUS
-=======
+# Coenonia Vandamme et al., 1999 GENUS
 
 #### Status
 ACCEPTED

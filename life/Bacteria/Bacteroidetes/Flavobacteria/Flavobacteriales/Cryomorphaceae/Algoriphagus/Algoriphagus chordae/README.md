@@ -1,5 +1,4 @@
-Algoriphagus chordae Nedashkovskaya et al., 2004 SPECIES
-=======
+# Algoriphagus chordae Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

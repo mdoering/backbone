@@ -1,5 +1,4 @@
-Polyporus luteovelutinus Bres. SPECIES
-=======
+# Polyporus luteovelutinus Bres. SPECIES
 
 #### Status
 ACCEPTED

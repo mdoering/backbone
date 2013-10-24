@@ -1,5 +1,4 @@
-Oxytricha rostrata Müller, 1786 SPECIES
-=======
+# Oxytricha rostrata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

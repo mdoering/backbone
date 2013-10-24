@@ -1,5 +1,4 @@
-Coniothyrium henningsii Gonz. Frag. SPECIES
-=======
+# Coniothyrium henningsii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

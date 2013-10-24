@@ -1,5 +1,4 @@
-Paradiplodiella arecae (Massee) Zambett. SPECIES
-=======
+# Paradiplodiella arecae (Massee) Zambett. SPECIES
 
 #### Status
 ACCEPTED

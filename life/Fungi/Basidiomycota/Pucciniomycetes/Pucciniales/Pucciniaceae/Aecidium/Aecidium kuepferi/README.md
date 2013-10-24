@@ -1,5 +1,4 @@
-Aecidium kuepferi Mayor SPECIES
-=======
+# Aecidium kuepferi Mayor SPECIES
 
 #### Status
 ACCEPTED

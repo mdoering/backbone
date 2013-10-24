@@ -1,5 +1,4 @@
-Asterina leemingii Ellis & Everh. SPECIES
-=======
+# Asterina leemingii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

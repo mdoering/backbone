@@ -1,5 +1,4 @@
-Lecanora parasitans (Wedd) H. Olivier SPECIES
-=======
+# Lecanora parasitans (Wedd) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

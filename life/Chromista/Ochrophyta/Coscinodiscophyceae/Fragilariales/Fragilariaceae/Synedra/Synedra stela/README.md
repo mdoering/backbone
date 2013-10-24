@@ -1,5 +1,4 @@
-Synedra stela Hohn & Hellerm. SPECIES
-=======
+# Synedra stela Hohn & Hellerm. SPECIES
 
 #### Status
 ACCEPTED

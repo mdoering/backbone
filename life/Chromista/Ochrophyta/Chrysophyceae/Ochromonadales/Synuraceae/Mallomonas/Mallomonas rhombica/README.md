@@ -1,5 +1,4 @@
-Mallomonas rhombica G. Cronberg SPECIES
-=======
+# Mallomonas rhombica G. Cronberg SPECIES
 
 #### Status
 ACCEPTED

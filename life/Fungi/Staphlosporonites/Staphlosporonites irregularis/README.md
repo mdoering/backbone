@@ -1,5 +1,4 @@
-Staphlosporonites irregularis (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Staphlosporonites irregularis (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

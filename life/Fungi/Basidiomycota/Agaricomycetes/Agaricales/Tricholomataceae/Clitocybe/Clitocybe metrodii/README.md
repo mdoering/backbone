@@ -1,5 +1,4 @@
-Clitocybe metrodii Raithelh. SPECIES
-=======
+# Clitocybe metrodii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta talae Speg. SPECIES
-=======
+# Phyllosticta talae Speg. SPECIES
 
 #### Status
 ACCEPTED

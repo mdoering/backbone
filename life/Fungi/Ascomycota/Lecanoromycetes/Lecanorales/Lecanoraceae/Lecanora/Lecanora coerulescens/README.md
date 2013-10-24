@@ -1,5 +1,4 @@
-Lecanora coerulescens (Baumg.) Arnold SPECIES
-=======
+# Lecanora coerulescens (Baumg.) Arnold SPECIES
 
 #### Status
 ACCEPTED

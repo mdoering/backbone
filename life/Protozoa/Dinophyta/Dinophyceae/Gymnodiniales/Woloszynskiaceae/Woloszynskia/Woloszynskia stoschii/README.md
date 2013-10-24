@@ -1,5 +1,4 @@
-Woloszynskia stoschii Shyam & Sarma SPECIES
-=======
+# Woloszynskia stoschii Shyam & Sarma SPECIES
 
 #### Status
 ACCEPTED

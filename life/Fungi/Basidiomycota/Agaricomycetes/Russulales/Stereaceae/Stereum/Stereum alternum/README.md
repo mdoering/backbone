@@ -1,5 +1,4 @@
-Stereum alternum Lloyd SPECIES
-=======
+# Stereum alternum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia moelleriana Henn. SPECIES
-=======
+# Sclerotinia moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

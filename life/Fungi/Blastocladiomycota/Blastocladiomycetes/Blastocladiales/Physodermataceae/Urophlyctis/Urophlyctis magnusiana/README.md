@@ -1,5 +1,4 @@
-Urophlyctis magnusiana Neger SPECIES
-=======
+# Urophlyctis magnusiana Neger SPECIES
 
 #### Status
 ACCEPTED

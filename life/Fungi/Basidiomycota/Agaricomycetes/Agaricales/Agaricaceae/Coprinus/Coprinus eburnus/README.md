@@ -1,5 +1,4 @@
-Coprinus eburnus Quél. SPECIES
-=======
+# Coprinus eburnus Quél. SPECIES
 
 #### Status
 ACCEPTED

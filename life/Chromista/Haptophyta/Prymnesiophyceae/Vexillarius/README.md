@@ -1,5 +1,4 @@
-Vexillarius Jordan & A.H.L.Chamberlain, 1993 GENUS
-=======
+# Vexillarius Jordan & A.H.L.Chamberlain, 1993 GENUS
 
 #### Status
 ACCEPTED

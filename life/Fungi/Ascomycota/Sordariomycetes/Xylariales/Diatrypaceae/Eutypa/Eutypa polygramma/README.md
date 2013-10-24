@@ -1,5 +1,4 @@
-Eutypa polygramma Bres. SPECIES
-=======
+# Eutypa polygramma Bres. SPECIES
 
 #### Status
 ACCEPTED

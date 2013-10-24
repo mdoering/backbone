@@ -1,5 +1,4 @@
-Botrytis affinis Ellis & Everh. SPECIES
-=======
+# Botrytis affinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

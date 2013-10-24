@@ -1,5 +1,4 @@
-Torula disciformis Corda SPECIES
-=======
+# Torula disciformis Corda SPECIES
 
 #### Status
 ACCEPTED

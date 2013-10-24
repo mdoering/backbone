@@ -1,5 +1,4 @@
-Septoria secalina (Jancz.) Sacc. SPECIES
-=======
+# Septoria secalina (Jancz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

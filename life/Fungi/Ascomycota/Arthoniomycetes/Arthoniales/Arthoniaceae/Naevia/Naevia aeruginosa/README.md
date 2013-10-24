@@ -1,5 +1,4 @@
-Naevia aeruginosa Rehm SPECIES
-=======
+# Naevia aeruginosa Rehm SPECIES
 
 #### Status
 ACCEPTED

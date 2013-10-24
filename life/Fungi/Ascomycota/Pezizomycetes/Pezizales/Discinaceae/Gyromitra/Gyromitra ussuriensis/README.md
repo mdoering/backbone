@@ -1,5 +1,4 @@
-Gyromitra ussuriensis Lj.N. Vassiljeva SPECIES
-=======
+# Gyromitra ussuriensis Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

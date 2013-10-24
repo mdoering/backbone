@@ -1,5 +1,4 @@
-Paraharknessia Matsush. GENUS
-=======
+# Paraharknessia Matsush. GENUS
 
 #### Status
 ACCEPTED

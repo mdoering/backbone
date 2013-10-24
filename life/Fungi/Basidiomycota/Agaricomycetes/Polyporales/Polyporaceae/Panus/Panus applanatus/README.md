@@ -1,5 +1,4 @@
-Panus applanatus Massee SPECIES
-=======
+# Panus applanatus Massee SPECIES
 
 #### Status
 ACCEPTED

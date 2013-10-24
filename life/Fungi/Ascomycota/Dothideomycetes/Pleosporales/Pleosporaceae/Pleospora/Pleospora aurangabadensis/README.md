@@ -1,5 +1,4 @@
-Pleospora aurangabadensis Tilak & R.L. Kulk. SPECIES
-=======
+# Pleospora aurangabadensis Tilak & R.L. Kulk. SPECIES
 
 #### Status
 ACCEPTED

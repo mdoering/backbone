@@ -1,5 +1,4 @@
-Sphaerophorus ceratites (Wahlenb.) Spreng. SPECIES
-=======
+# Sphaerophorus ceratites (Wahlenb.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

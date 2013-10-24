@@ -1,5 +1,4 @@
-Vibrissea foliorum Thaxt. SPECIES
-=======
+# Vibrissea foliorum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

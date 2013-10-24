@@ -1,5 +1,4 @@
-Pseudocercospora vignae-reticulatae Deighton SPECIES
-=======
+# Pseudocercospora vignae-reticulatae Deighton SPECIES
 
 #### Status
 ACCEPTED

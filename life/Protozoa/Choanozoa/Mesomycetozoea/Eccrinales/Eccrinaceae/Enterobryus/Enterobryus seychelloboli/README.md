@@ -1,17 +1,16 @@
-Enterobryus seichelloboli Tuzet & Manier SPECIES
-=======
+# Enterobryus seychelloboli Tuzet & Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Archs Zool. exp. gén. 94(Notes Revue 3): 128 (1957)
 
 #### Original name
-Enterobryus seichelloboli Tuzet & Manier
+Enterobryus seychelloboli Tuzet & Manier
 
 ### Remarks
 null

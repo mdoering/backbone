@@ -1,5 +1,4 @@
-Typhula corallina Quél., 1883 SPECIES
-=======
+# Typhula corallina Quél., 1883 SPECIES
 
 #### Status
 ACCEPTED

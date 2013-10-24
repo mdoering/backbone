@@ -1,5 +1,4 @@
-Ellisiodothis GENUS
-=======
+# Ellisiodothis GENUS
 
 #### Status
 ACCEPTED

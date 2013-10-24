@@ -1,17 +1,16 @@
-Marasmius calopus var. calopus VARIETY
-=======
+# Marasmiellus vaillantii (Pers.) Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 379 (1838)
+Nova Hedwigia, Beih. 44: 313 (1973)
 
 #### Original name
-Marasmius calopus var. calopus
+Agaricus ericetorum Bull., 1792
 
 ### Remarks
 null

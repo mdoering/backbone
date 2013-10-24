@@ -1,5 +1,4 @@
-Lactocollybia aequatorialis Singer, 1977 SPECIES
-=======
+# Lactocollybia aequatorialis Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

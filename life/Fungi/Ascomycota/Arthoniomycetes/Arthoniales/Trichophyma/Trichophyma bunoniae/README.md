@@ -1,5 +1,4 @@
-Trichophyma bunoniae Rehm SPECIES
-=======
+# Trichophyma bunoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

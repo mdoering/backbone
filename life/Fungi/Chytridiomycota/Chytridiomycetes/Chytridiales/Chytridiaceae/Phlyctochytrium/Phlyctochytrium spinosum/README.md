@@ -1,5 +1,4 @@
-Phlyctochytrium spinosum Sparrow SPECIES
-=======
+# Phlyctochytrium spinosum Sparrow SPECIES
 
 #### Status
 ACCEPTED

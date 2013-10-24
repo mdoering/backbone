@@ -1,5 +1,4 @@
-Caldesiella pallida Rick SPECIES
-=======
+# Caldesiella pallida Rick SPECIES
 
 #### Status
 ACCEPTED

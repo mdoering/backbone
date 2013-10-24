@@ -1,17 +1,16 @@
-Semilecanora transsilvanica Motyka SPECIES
-=======
+# Semilecanora transilvanica Motyka SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Porosty (Lichenes). <b>2</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Pinacisca</i>, <i>Lecidorina</i>, <i>Urceolaria</i>, <i>Semilecanora</i>, <i>Paraplacodium</i>, <i>Koerberiella</i>, <i>Lecidora</i>, <i>Pseudoplacodium</i>, <i>Tephromela</i> 315 (1996)
 
 #### Original name
-Semilecanora transsilvanica Motyka
+Semilecanora transilvanica Motyka
 
 ### Remarks
 null

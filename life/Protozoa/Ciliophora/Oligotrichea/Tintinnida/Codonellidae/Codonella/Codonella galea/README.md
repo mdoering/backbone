@@ -1,5 +1,4 @@
-Codonella galea Haeckel, 1873 SPECIES
-=======
+# Codonella galea Haeckel, 1873 SPECIES
 
 #### Status
 ACCEPTED

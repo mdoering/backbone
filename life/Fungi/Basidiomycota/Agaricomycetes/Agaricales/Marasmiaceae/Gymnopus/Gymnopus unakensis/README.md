@@ -1,5 +1,4 @@
-Gymnopus unakensis Murrill SPECIES
-=======
+# Gymnopus unakensis Murrill SPECIES
 
 #### Status
 ACCEPTED

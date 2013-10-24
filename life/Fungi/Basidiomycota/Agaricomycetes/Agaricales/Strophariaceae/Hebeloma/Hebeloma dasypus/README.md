@@ -1,5 +1,4 @@
-Hebeloma dasypus (Romagn.) Singer SPECIES
-=======
+# Hebeloma dasypus (Romagn.) Singer SPECIES
 
 #### Status
 ACCEPTED

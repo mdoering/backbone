@@ -1,5 +1,4 @@
-Phyllogloea javanica (Pat.) Lowy, 1961 SPECIES
-=======
+# Phyllogloea javanica (Pat.) Lowy, 1961 SPECIES
 
 #### Status
 ACCEPTED

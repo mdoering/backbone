@@ -1,5 +1,4 @@
-Morchella hungarica Bánhegyi SPECIES
-=======
+# Morchella hungarica Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

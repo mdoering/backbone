@@ -1,5 +1,4 @@
-Laschia viridula (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Laschia viridula (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

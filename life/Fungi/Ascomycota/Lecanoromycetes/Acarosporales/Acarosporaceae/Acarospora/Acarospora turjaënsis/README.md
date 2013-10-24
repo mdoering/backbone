@@ -1,5 +1,4 @@
-Acarospora turjaënsis Räsänen SPECIES
-=======
+# Acarospora turjaënsis Räsänen SPECIES
 
 #### Status
 ACCEPTED

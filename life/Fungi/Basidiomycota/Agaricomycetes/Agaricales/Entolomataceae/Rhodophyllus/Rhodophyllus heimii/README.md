@@ -1,5 +1,4 @@
-Rhodophyllus heimii Romagn. SPECIES
-=======
+# Rhodophyllus heimii Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septotrichum lamellosum Corda SPECIES
-=======
+# Septotrichum lamellosum Corda SPECIES
 
 #### Status
 ACCEPTED

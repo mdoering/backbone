@@ -1,5 +1,4 @@
-Pycnothelia cladinoides Nyl. SPECIES
-=======
+# Pycnothelia cladinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

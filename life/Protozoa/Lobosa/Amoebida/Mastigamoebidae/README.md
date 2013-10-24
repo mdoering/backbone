@@ -1,5 +1,4 @@
-Mastigamoebidae FAMILY
-=======
+# Mastigamoebidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcyria viridis Zoll. SPECIES
-=======
+# Arcyria viridis Zoll. SPECIES
 
 #### Status
 ACCEPTED

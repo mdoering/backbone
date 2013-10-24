@@ -1,5 +1,4 @@
-Chromohalobacter Ventosa et al., 1989 GENUS
-=======
+# Chromohalobacter Ventosa et al., 1989 GENUS
 
 #### Status
 ACCEPTED

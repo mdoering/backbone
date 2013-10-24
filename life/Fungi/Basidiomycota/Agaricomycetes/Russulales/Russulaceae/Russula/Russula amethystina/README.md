@@ -1,5 +1,4 @@
-Russula amethystina Quél., 1898 SPECIES
-=======
+# Russula amethystina Quél., 1898 SPECIES
 
 #### Status
 ACCEPTED

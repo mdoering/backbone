@@ -1,5 +1,4 @@
-Calycella subochracea (Cooke & Peck) Dennis SPECIES
-=======
+# Calycella subochracea (Cooke & Peck) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium staphyleae Gonz. Frag. SPECIES
-=======
+# Cryptosporium staphyleae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

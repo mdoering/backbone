@@ -1,5 +1,4 @@
-Chroococcus varius A. Braun SPECIES
-=======
+# Chroococcus varius A. Braun SPECIES
 
 #### Status
 ACCEPTED

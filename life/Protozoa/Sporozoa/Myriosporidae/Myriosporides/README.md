@@ -1,5 +1,4 @@
-Myriosporides Henneré, 1966 GENUS
-=======
+# Myriosporides Henneré, 1966 GENUS
 
 #### Status
 ACCEPTED

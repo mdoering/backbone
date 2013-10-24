@@ -1,5 +1,4 @@
-Dictyosporium intermedium Subram. SPECIES
-=======
+# Dictyosporium intermedium Subram. SPECIES
 
 #### Status
 ACCEPTED

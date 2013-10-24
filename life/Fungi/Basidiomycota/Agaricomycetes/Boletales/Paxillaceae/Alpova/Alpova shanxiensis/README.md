@@ -1,5 +1,4 @@
-Alpova shanxiensis (B. Liu) B. Liu, K. Tao & Ming C. Chang SPECIES
-=======
+# Alpova shanxiensis (B. Liu) B. Liu, K. Tao & Ming C. Chang SPECIES
 
 #### Status
 ACCEPTED

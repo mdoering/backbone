@@ -1,5 +1,4 @@
-Ascochytella vaginarum Nann. SPECIES
-=======
+# Ascochytella vaginarum Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas australica var. myersii (Skvortzov) Deflandre VARIETY
-=======
+# Strombomonas australica (Playfair) Deflandre SPECIES
 
 #### Status
 ACCEPTED

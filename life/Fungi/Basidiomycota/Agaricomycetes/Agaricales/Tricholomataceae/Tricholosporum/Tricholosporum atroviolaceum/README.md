@@ -1,5 +1,4 @@
-Tricholosporum atroviolaceum (Murrill) T.J. Baroni SPECIES
-=======
+# Tricholosporum atroviolaceum (Murrill) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

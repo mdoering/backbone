@@ -1,5 +1,4 @@
-Tuber intermedium Bucholtz SPECIES
-=======
+# Tuber intermedium Bucholtz SPECIES
 
 #### Status
 ACCEPTED

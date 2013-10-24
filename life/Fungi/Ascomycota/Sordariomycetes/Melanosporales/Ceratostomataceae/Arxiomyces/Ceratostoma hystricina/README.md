@@ -1,5 +1,4 @@
-Ceratostoma hystricina Cooke SPECIES
-=======
+# Ceratostoma hystricina Cooke SPECIES
 
 #### Status
 ACCEPTED

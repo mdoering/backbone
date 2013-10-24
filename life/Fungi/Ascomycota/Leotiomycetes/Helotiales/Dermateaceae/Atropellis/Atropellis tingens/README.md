@@ -1,5 +1,4 @@
-Atropellis tingens M.L. Lohman & E.K. Cash, 1940 SPECIES
-=======
+# Atropellis tingens M.L. Lohman & E.K. Cash, 1940 SPECIES
 
 #### Status
 ACCEPTED

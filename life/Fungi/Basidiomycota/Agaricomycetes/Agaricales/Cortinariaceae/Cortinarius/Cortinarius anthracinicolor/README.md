@@ -1,5 +1,4 @@
-Cortinarius anthracinicolor Reumaux SPECIES
-=======
+# Cortinarius anthracinicolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

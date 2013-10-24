@@ -1,5 +1,4 @@
-Ophiobolus mathieui (Westend.) Sacc., 1883 SPECIES
-=======
+# Ophiobolus mathieui (Westend.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

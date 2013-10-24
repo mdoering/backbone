@@ -1,8 +1,7 @@
-Dasyscypha phaeomorphus (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus phaeomorphus (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Ceuthospora punicae Bubák SPECIES
-=======
+# Ceuthospora punicae Bubák SPECIES
 
 #### Status
 ACCEPTED

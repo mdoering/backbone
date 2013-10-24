@@ -1,5 +1,4 @@
-Conradidium firmamentum Wicander, 1974 SPECIES
-=======
+# Conradidium firmamentum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

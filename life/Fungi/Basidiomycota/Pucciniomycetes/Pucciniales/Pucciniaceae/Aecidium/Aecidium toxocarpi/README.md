@@ -1,5 +1,4 @@
-Aecidium toxocarpi Cummins SPECIES
-=======
+# Aecidium toxocarpi Cummins SPECIES
 
 #### Status
 ACCEPTED

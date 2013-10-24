@@ -1,5 +1,4 @@
-Lecanora beamanii B. D. Ryan SPECIES
-=======
+# Lecanora beamanii B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

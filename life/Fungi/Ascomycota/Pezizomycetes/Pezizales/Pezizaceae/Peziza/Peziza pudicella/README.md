@@ -1,5 +1,4 @@
-Peziza pudicella Korf SPECIES
-=======
+# Peziza pudicella Korf SPECIES
 
 #### Status
 ACCEPTED

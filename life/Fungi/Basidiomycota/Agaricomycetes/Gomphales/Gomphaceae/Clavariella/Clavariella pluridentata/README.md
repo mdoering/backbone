@@ -1,5 +1,4 @@
-Clavariella pluridentata P. Karst. SPECIES
-=======
+# Clavariella pluridentata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

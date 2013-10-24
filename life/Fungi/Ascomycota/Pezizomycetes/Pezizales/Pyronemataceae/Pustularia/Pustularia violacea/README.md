@@ -1,5 +1,4 @@
-Pustularia violacea Velen. SPECIES
-=======
+# Pustularia violacea Velen. SPECIES
 
 #### Status
 ACCEPTED

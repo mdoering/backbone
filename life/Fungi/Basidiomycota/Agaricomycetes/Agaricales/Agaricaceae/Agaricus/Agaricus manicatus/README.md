@@ -1,5 +1,4 @@
-Agaricus manicatus Berk. & Broome SPECIES
-=======
+# Agaricus manicatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

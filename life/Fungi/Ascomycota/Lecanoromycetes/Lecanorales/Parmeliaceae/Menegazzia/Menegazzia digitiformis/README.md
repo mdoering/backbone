@@ -1,5 +1,4 @@
-Menegazzia digitiformis P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia digitiformis P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulosphaeria deutziae E. Müll. SPECIES
-=======
+# Nodulosphaeria deutziae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

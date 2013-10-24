@@ -1,5 +1,4 @@
-Meliola thomasii Hansf. SPECIES
-=======
+# Meliola thomasii Hansf. SPECIES
 
 #### Status
 ACCEPTED

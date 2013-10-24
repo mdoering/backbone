@@ -1,5 +1,4 @@
-Stegnamminidae FAMILY
-=======
+# Stegnamminidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hassea Zahlbr. GENUS
-=======
+# Hassea Zahlbr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas tombowika SPECIES
-=======
+# Strombomonas tombowika SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia subplacida Murrill SPECIES
-=======
+# Leptonia subplacida Murrill SPECIES
 
 #### Status
 ACCEPTED

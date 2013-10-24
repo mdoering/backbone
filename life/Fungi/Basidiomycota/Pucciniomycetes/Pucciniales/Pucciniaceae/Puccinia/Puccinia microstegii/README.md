@@ -1,5 +1,4 @@
-Puccinia microstegii Sawada SPECIES
-=======
+# Puccinia microstegii Sawada SPECIES
 
 #### Status
 ACCEPTED

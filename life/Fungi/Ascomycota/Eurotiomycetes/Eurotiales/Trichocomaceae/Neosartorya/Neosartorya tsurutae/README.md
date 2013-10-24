@@ -1,5 +1,4 @@
-Neosartorya tsurutae Y. Horie SPECIES
-=======
+# Neosartorya tsurutae Y. Horie SPECIES
 
 #### Status
 ACCEPTED

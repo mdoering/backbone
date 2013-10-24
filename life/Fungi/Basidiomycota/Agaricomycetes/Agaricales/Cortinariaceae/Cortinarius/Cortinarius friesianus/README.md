@@ -1,5 +1,4 @@
-Cortinarius friesianus Carteret & Reumaux SPECIES
-=======
+# Cortinarius friesianus Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

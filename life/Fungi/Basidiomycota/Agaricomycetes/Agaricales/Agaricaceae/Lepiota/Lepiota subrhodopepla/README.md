@@ -1,5 +1,4 @@
-Lepiota subrhodopepla Murrill SPECIES
-=======
+# Lepiota subrhodopepla Murrill SPECIES
 
 #### Status
 ACCEPTED

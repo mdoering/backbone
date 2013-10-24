@@ -1,5 +1,4 @@
-Aecidium ranunculi-acris Pers. SPECIES
-=======
+# Aecidium ranunculi-acris Pers. SPECIES
 
 #### Status
 ACCEPTED

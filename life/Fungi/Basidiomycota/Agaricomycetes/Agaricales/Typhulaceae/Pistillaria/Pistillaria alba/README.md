@@ -1,5 +1,4 @@
-Pistillaria alba (S. Imai) S. Ito SPECIES
-=======
+# Pistillaria alba (S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

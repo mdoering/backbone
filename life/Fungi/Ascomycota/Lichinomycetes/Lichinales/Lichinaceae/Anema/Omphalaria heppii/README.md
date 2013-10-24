@@ -1,5 +1,4 @@
-Omphalaria heppii Müll. Arg. SPECIES
-=======
+# Omphalaria heppii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

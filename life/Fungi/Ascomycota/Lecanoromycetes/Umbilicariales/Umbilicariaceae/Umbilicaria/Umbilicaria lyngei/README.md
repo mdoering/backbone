@@ -1,5 +1,4 @@
-Umbilicaria lyngei Schol. SPECIES
-=======
+# Umbilicaria lyngei Schol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza penicillata (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza penicillata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

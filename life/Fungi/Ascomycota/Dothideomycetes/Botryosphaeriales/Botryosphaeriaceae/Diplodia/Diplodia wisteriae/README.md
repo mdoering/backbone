@@ -1,5 +1,4 @@
-Diplodia wisteriae Brunaud SPECIES
-=======
+# Diplodia wisteriae Brunaud SPECIES
 
 #### Status
 ACCEPTED

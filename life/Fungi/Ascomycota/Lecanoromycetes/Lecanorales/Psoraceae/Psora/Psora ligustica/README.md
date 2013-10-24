@@ -1,5 +1,4 @@
-Psora ligustica B. de Lesd. SPECIES
-=======
+# Psora ligustica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

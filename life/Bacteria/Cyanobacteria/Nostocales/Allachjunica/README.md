@@ -1,5 +1,4 @@
-Allachjunica P.N. Kolosov, 1982 GENUS
-=======
+# Allachjunica P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

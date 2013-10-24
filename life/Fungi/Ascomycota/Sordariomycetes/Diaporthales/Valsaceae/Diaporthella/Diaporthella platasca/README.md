@@ -1,5 +1,4 @@
-Diaporthella platasca (Peck) Wehm. SPECIES
-=======
+# Diaporthella platasca (Peck) Wehm. SPECIES
 
 #### Status
 ACCEPTED

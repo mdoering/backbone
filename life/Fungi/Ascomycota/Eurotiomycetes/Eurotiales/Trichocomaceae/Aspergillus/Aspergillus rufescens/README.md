@@ -1,5 +1,4 @@
-Aspergillus rufescens Berl. SPECIES
-=======
+# Aspergillus rufescens Berl. SPECIES
 
 #### Status
 ACCEPTED

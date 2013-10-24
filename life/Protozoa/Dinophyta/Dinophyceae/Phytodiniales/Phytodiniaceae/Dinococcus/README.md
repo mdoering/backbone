@@ -1,14 +1,13 @@
-Raciborskia Woloszynska, 1918 GENUS
-=======
+# Dinococcus Fott, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Acad. Cracovie, (Ser. 3, B) 18, 1918, 321.
+null
 
 #### Original name
 null

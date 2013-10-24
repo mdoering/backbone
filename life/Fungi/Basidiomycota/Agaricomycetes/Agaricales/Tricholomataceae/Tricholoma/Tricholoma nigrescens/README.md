@@ -1,5 +1,4 @@
-Tricholoma nigrescens (A. Kawam.) S. Ito SPECIES
-=======
+# Tricholoma nigrescens (A. Kawam.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucophra signata Müller, 1786 SPECIES
-=======
+# Leucophra signata Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

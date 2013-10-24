@@ -1,17 +1,16 @@
-Mycosphaerella evodiae J.F. Lue & P.K. Chi SPECIES
-=======
+# Mycosphaerella euodiae J.F. Lue & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chi, [Fungal Diseases of Cultivated Medicinal Plants in Guangdong Province] (Guangdong) 141 (1994)
 
 #### Original name
-Mycosphaerella evodiae J.F. Lue & P.K. Chi
+Mycosphaerella euodiae J.F. Lue & P.K. Chi
 
 ### Remarks
 null

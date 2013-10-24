@@ -1,5 +1,4 @@
-Yamatoum Takemura, 1986 GENUS
-=======
+# Yamatoum Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

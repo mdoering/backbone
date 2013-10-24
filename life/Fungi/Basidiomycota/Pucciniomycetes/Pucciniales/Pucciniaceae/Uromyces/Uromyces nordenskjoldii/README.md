@@ -1,5 +1,4 @@
-Uromyces nordenskjoldii Dietel SPECIES
-=======
+# Uromyces nordenskjoldii Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Achlya ambisexualis var. ambisexualis Raper VARIETY
-=======
+# Achlya ambisexualis Raper, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Am. J. Bot. 26: 641 (1939)
 
 #### Original name
-Achlya ambisexualis var. ambisexualis Raper
+Achlya ambisexualis Raper, 1939
 
 ### Remarks
 null

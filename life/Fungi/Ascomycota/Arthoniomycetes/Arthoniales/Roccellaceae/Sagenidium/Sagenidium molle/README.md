@@ -1,5 +1,4 @@
-Sagenidium molle Stirt. SPECIES
-=======
+# Sagenidium molle Stirt. SPECIES
 
 #### Status
 ACCEPTED

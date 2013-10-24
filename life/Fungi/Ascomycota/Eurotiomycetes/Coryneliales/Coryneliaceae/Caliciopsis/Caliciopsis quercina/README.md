@@ -1,5 +1,4 @@
-Caliciopsis quercina Marm. SPECIES
-=======
+# Caliciopsis quercina Marm. SPECIES
 
 #### Status
 ACCEPTED

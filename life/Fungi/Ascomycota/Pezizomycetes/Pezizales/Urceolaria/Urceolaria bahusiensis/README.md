@@ -1,5 +1,4 @@
-Urceolaria bahusiensis (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria bahusiensis (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

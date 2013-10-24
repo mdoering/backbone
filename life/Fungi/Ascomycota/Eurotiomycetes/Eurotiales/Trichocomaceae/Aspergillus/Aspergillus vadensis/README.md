@@ -1,5 +1,4 @@
-Aspergillus vadensis Samson, R.P. de Vries, Frisvad & Visser SPECIES
-=======
+# Aspergillus vadensis Samson, R.P. de Vries, Frisvad & Visser SPECIES
 
 #### Status
 ACCEPTED

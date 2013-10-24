@@ -1,14 +1,13 @@
-Entomophthora conica Nowak., 1883 SPECIES
-=======
+# Erynia conica (Nowak.) Remaud. & Hennebert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proceedings of the Krakow Acad. Sci. 153 (1883)
+Mycotaxon 11(1): 302 (1980)
 
 #### Original name
 Entomophthora conica Nowak., 1883

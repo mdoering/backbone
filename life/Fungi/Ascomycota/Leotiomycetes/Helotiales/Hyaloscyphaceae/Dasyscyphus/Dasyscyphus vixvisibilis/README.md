@@ -1,5 +1,4 @@
-Dasyscyphus vixvisibilis (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus vixvisibilis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

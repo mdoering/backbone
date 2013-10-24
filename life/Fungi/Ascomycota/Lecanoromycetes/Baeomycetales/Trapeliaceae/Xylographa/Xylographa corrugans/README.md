@@ -1,5 +1,4 @@
-Xylographa corrugans Norman SPECIES
-=======
+# Xylographa corrugans Norman SPECIES
 
 #### Status
 ACCEPTED

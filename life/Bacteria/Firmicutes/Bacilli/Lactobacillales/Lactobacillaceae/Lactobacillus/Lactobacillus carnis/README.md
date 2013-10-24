@@ -1,5 +1,4 @@
-Lactobacillus carnis Shaw & Harding, 1986 SPECIES
-=======
+# Lactobacillus carnis Shaw & Harding, 1986 SPECIES
 
 #### Status
 ACCEPTED

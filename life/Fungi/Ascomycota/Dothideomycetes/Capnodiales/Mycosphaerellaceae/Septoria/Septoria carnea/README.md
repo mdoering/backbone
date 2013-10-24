@@ -1,5 +1,4 @@
-Septoria carnea Ellis & Everh. SPECIES
-=======
+# Septoria carnea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

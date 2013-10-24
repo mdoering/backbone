@@ -1,5 +1,4 @@
-Buellia viridis SPECIES
-=======
+# Buellia viridis SPECIES
 
 #### Status
 ACCEPTED

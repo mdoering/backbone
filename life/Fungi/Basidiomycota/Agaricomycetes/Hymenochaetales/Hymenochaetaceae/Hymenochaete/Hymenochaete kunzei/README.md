@@ -1,5 +1,4 @@
-Hymenochaete kunzei (Hook.) Massee SPECIES
-=======
+# Hymenochaete kunzei (Hook.) Massee SPECIES
 
 #### Status
 ACCEPTED

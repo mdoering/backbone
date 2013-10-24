@@ -1,5 +1,4 @@
-Arthrinium philipii Larrondo & Calvo SPECIES
-=======
+# Arthrinium philipii Larrondo & Calvo SPECIES
 
 #### Status
 ACCEPTED

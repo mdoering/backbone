@@ -1,5 +1,4 @@
-Peziza natrophila A.Z.M. Khan, 1977 SPECIES
-=======
+# Peziza natrophila A.Z.M. Khan, 1977 SPECIES
 
 #### Status
 ACCEPTED

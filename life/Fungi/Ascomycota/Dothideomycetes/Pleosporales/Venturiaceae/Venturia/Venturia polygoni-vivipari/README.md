@@ -1,5 +1,4 @@
-Venturia polygoni-vivipari Arx, 1950 SPECIES
-=======
+# Venturia polygoni-vivipari Arx, 1950 SPECIES
 
 #### Status
 ACCEPTED

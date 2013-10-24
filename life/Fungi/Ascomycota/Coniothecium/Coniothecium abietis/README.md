@@ -1,5 +1,4 @@
-Coniothecium abietis J. Lindau SPECIES
-=======
+# Coniothecium abietis J. Lindau SPECIES
 
 #### Status
 ACCEPTED

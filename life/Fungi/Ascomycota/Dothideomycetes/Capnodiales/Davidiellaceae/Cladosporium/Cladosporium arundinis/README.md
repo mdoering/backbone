@@ -1,5 +1,4 @@
-Cladosporium arundinis (Corda) Sacc. SPECIES
-=======
+# Cladosporium arundinis (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

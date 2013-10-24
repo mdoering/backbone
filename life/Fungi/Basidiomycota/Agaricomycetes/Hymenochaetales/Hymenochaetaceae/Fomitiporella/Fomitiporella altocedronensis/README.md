@@ -1,5 +1,4 @@
-Fomitiporella altocedronensis Murrill SPECIES
-=======
+# Fomitiporella altocedronensis Murrill SPECIES
 
 #### Status
 ACCEPTED

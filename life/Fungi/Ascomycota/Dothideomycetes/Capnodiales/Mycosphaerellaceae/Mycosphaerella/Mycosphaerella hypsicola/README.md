@@ -1,5 +1,4 @@
-Mycosphaerella hypsicola (Ellis & Everh.) Lindau SPECIES
-=======
+# Mycosphaerella hypsicola (Ellis & Everh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

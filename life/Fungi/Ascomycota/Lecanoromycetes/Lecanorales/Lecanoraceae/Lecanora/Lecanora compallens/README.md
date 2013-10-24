@@ -1,5 +1,4 @@
-Lecanora compallens Herk & Aptroot SPECIES
-=======
+# Lecanora compallens Herk & Aptroot SPECIES
 
 #### Status
 ACCEPTED

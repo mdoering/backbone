@@ -1,11 +1,10 @@
-Chaetoceros impressus K.G.Jensen & Moestrup, 1998 SPECIES
-=======
+# Chaetoceros castracanei Karsten SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

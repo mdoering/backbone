@@ -1,5 +1,4 @@
-Chromidina elegans (Foettinger, 1881) SPECIES
-=======
+# Chromidina elegans (Foettinger, 1881) SPECIES
 
 #### Status
 ACCEPTED

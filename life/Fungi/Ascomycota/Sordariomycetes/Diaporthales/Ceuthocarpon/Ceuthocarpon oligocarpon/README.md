@@ -1,5 +1,4 @@
-Ceuthocarpon oligocarpon Starbäck SPECIES
-=======
+# Ceuthocarpon oligocarpon Starbäck SPECIES
 
 #### Status
 ACCEPTED

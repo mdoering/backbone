@@ -1,5 +1,4 @@
-Marasmius subincarnatus Corner SPECIES
-=======
+# Marasmius subincarnatus Corner SPECIES
 
 #### Status
 ACCEPTED

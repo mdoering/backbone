@@ -1,5 +1,4 @@
-Placodiplodia tanaria (Sacc.) Zambett. SPECIES
-=======
+# Placodiplodia tanaria (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

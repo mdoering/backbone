@@ -1,5 +1,4 @@
-Buellia hillmanii Erichsen SPECIES
-=======
+# Buellia hillmanii Erichsen SPECIES
 
 #### Status
 ACCEPTED

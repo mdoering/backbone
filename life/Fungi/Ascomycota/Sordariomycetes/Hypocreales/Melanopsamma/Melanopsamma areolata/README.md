@@ -1,5 +1,4 @@
-Melanopsamma areolata f. areolata FORM
-=======
+# Melanopsamma areolata Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 40: 105 (1901)
 
 #### Original name
-Melanopsamma areolata f. areolata
+Melanopsamma areolata Rehm
 
 ### Remarks
 null

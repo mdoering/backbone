@@ -1,5 +1,4 @@
-Sphaeria simplex Bull. SPECIES
-=======
+# Sphaeria simplex Bull. SPECIES
 
 #### Status
 ACCEPTED

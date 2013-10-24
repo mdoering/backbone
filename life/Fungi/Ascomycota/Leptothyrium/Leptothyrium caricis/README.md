@@ -1,5 +1,4 @@
-Leptothyrium caricis Bondartsev SPECIES
-=======
+# Leptothyrium caricis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

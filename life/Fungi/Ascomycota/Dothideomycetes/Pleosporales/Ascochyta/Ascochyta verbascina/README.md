@@ -1,5 +1,4 @@
-Ascochyta verbascina Thüm. SPECIES
-=======
+# Ascochyta verbascina Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea lapillicola (Vain.) Coppins & Muhr SPECIES
-=======
+# Micarea lapillicola (Vain.) Coppins & Muhr SPECIES
 
 #### Status
 ACCEPTED

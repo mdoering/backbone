@@ -1,17 +1,16 @@
-Cytoplea zizyphina S. Ahmad SPECIES
-=======
+# Cytoplea ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 6: 131 (1960)
 
 #### Original name
-Cytoplea zizyphina S. Ahmad
+Cytoplea ziziphina S. Ahmad
 
 ### Remarks
 null

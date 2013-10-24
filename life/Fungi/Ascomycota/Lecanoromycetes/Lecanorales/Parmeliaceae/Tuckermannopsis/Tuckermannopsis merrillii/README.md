@@ -1,5 +1,4 @@
-Tuckermannopsis merrillii (Du Rietz) Hale SPECIES
-=======
+# Tuckermannopsis merrillii (Du Rietz) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces athyroglossae W. Rossi & Cesari SPECIES
-=======
+# Stigmatomyces athyroglossae W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

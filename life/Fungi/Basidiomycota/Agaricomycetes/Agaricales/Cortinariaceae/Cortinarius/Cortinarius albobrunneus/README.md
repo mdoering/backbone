@@ -1,5 +1,4 @@
-Cortinarius albobrunneus M.M. Moser SPECIES
-=======
+# Cortinarius albobrunneus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

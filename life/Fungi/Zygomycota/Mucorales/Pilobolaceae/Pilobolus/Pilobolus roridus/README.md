@@ -1,5 +1,4 @@
-Pilobolus roridus var. roridus (Bolton) Pers., 1801 VARIETY
-=======
+# Pilobolus roridus Bref. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 118 (1801)
+null
 
 #### Original name
-Pilobolus roridus var. roridus (Bolton) Pers., 1801
+Pilobolus roridus Bref.
 
 ### Remarks
 null

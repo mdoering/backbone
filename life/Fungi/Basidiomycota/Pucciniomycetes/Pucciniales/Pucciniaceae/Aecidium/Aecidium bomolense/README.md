@@ -1,5 +1,4 @@
-Aecidium bomolense Syd. & P. Syd. SPECIES
-=======
+# Aecidium bomolense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

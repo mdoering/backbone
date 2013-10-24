@@ -1,5 +1,4 @@
-Physalospora cladoniae (Stein) Vouaux SPECIES
-=======
+# Physalospora cladoniae (Stein) Vouaux SPECIES
 
 #### Status
 ACCEPTED

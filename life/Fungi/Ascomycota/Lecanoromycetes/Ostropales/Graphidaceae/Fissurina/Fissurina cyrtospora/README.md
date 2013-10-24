@@ -1,5 +1,4 @@
-Fissurina cyrtospora C. Knight SPECIES
-=======
+# Fissurina cyrtospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium conchulaecola Dumas, 1929 SPECIES
-=======
+# Zoothamnium conchulaecola Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta valerianae-tripteris f. valerianae-tripteris FORM
-=======
+# Phyllosticta valerianae-tripteris Unamuno SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta valerianae-tripteris f. valerianae-tripteris
+Phyllosticta valerianae-tripteris Unamuno
 
 ### Remarks
 null

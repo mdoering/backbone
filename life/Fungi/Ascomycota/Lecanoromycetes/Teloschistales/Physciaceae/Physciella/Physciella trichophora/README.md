@@ -1,5 +1,4 @@
-Physciella trichophora (Hue) Essl. SPECIES
-=======
+# Physciella trichophora (Hue) Essl. SPECIES
 
 #### Status
 ACCEPTED

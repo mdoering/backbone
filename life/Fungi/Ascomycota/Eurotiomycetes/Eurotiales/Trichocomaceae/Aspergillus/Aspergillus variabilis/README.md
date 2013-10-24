@@ -1,5 +1,4 @@
-Aspergillus variabilis Gasperini SPECIES
-=======
+# Aspergillus variabilis Gasperini SPECIES
 
 #### Status
 ACCEPTED

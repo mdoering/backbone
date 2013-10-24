@@ -1,5 +1,4 @@
-Lecidea aquatilis (Nyl.) Vain. SPECIES
-=======
+# Lecidea aquatilis (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

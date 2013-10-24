@@ -1,5 +1,4 @@
-Synchytrium khandalense Payak & Thirum. SPECIES
-=======
+# Synchytrium khandalense Payak & Thirum. SPECIES
 
 #### Status
 ACCEPTED

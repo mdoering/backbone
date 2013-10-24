@@ -1,5 +1,4 @@
-Chlorosperma olivaceaspora Murrill SPECIES
-=======
+# Chlorosperma olivaceaspora Murrill SPECIES
 
 #### Status
 ACCEPTED

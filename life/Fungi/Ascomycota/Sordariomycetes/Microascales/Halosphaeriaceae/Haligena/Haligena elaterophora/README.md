@@ -1,5 +1,4 @@
-Haligena elaterophora Kohlm., 1961 SPECIES
-=======
+# Haligena elaterophora Kohlm., 1961 SPECIES
 
 #### Status
 ACCEPTED

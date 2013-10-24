@@ -1,5 +1,4 @@
-Peloronectriella GENUS
-=======
+# Peloronectriella GENUS
 
 #### Status
 ACCEPTED

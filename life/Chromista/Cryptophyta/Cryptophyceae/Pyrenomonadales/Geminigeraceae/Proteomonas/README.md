@@ -1,5 +1,4 @@
-Proteomonas D.R.A. Hill & R. Wetherbee, 1986 GENUS
-=======
+# Proteomonas D.R.A. Hill & R. Wetherbee, 1986 GENUS
 
 #### Status
 ACCEPTED

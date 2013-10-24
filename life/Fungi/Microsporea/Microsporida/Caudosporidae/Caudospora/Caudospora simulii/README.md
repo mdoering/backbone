@@ -1,5 +1,4 @@
-Caudospora simulii J. Weiser SPECIES
-=======
+# Caudospora simulii J. Weiser SPECIES
 
 #### Status
 ACCEPTED

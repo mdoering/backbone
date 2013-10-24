@@ -1,5 +1,4 @@
-Epidermophyton indicum Castell. & Chalm. SPECIES
-=======
+# Epidermophyton indicum Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

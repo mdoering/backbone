@@ -1,5 +1,4 @@
-Lecanocybe lateralis Desjardin & E. Horak, 1999 SPECIES
-=======
+# Lecanocybe lateralis Desjardin & E. Horak, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromelosporium canadense Hennebert SPECIES
-=======
+# Chromelosporium canadense Hennebert SPECIES
 
 #### Status
 ACCEPTED

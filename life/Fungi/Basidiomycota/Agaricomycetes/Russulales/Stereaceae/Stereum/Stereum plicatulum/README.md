@@ -1,5 +1,4 @@
-Stereum plicatulum (Peck) Lloyd SPECIES
-=======
+# Stereum plicatulum (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED

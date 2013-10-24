@@ -1,5 +1,4 @@
-Dendrodochium helotioides Ellis & Everh. SPECIES
-=======
+# Dendrodochium helotioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

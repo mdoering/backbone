@@ -1,5 +1,4 @@
-Dictyoploca heterophylla R. Heim SPECIES
-=======
+# Dictyoploca heterophylla R. Heim SPECIES
 
 #### Status
 ACCEPTED

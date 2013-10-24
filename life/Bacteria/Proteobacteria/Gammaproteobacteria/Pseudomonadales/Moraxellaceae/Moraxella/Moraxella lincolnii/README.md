@@ -1,5 +1,4 @@
-Moraxella lincolnii Vandamme et al., 1993 SPECIES
-=======
+# Moraxella lincolnii Vandamme et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pythium irregulare var. hawaiiense Sideris VARIETY
-=======
+# Pythium irregulare Buisman, 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24: 40 (1932)
+Meded. Phytopath. Labor. Willie Commelin Scholten Baarn 11: 38 (1927)
 
 #### Original name
-Pythium irregulare var. hawaiiense Sideris
+Pythium irregulare Buisman, 1927
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nectria armeniaca Tul. & C. Tul. SPECIES
-=======
+# Nectria armeniaca Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

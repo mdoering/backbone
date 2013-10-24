@@ -1,5 +1,4 @@
-Marasmius iguazuensis Singer SPECIES
-=======
+# Marasmius iguazuensis Singer SPECIES
 
 #### Status
 ACCEPTED

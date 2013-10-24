@@ -1,5 +1,4 @@
-Humaria limnicola (Hazsl.) Sacc. SPECIES
-=======
+# Humaria limnicola (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

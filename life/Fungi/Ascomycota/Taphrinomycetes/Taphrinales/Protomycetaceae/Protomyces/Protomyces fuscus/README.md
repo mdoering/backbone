@@ -1,5 +1,4 @@
-Protomyces fuscus Peck SPECIES
-=======
+# Protomyces fuscus Peck SPECIES
 
 #### Status
 ACCEPTED

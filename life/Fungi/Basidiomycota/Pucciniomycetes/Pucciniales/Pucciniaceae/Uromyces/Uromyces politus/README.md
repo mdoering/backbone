@@ -1,5 +1,4 @@
-Uromyces politus (Berk.) McAlpine SPECIES
-=======
+# Uromyces politus (Berk.) McAlpine SPECIES
 
 #### Status
 ACCEPTED

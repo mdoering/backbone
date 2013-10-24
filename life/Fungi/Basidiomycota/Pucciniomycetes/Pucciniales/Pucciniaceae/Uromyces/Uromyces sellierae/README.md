@@ -1,5 +1,4 @@
-Uromyces sellierae G. Cunn., 1930 SPECIES
-=======
+# Uromyces sellierae G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

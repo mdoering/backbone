@@ -1,5 +1,4 @@
-Agaricus subfuscoaurantius Krombh. SPECIES
-=======
+# Agaricus subfuscoaurantius Krombh. SPECIES
 
 #### Status
 ACCEPTED

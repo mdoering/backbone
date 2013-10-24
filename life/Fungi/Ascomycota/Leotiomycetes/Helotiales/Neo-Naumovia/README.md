@@ -1,5 +1,4 @@
-Neo-Naumovia S.R. Schwarzman, 1959 GENUS
-=======
+# Neo-Naumovia S.R. Schwarzman, 1959 GENUS
 
 #### Status
 ACCEPTED

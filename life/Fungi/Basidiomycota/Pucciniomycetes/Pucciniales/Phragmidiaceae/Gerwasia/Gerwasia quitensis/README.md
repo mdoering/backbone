@@ -1,14 +1,13 @@
-Desmella quitensis (Lagerh.) Thirum. & Cummins, 1948 SPECIES
-=======
+# Gerwasia quitensis (Lagerh.) Buriticá, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(4): 420 (1948)
+Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 185 (1994)
 
 #### Original name
 Uromyces quitensis Lagerh., 1895

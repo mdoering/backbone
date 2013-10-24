@@ -1,17 +1,16 @@
-Sorosporium setaricola Thirum. & Safeeulla SPECIES
-=======
+# Sorosporium setariicola Thirum. & Safeeulla SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 5(3-6): 439 (1951)
 
 #### Original name
-Sorosporium setaricola Thirum. & Safeeulla
+Sorosporium setariicola Thirum. & Safeeulla
 
 ### Remarks
 null

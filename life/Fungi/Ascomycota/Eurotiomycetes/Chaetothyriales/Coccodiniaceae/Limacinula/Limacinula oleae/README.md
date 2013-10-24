@@ -1,5 +1,4 @@
-Limacinula oleae (G. Arnaud) Sacc. & Trotter SPECIES
-=======
+# Limacinula oleae (G. Arnaud) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

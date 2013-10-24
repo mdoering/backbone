@@ -1,5 +1,4 @@
-Terribacillus goriensis Kim, Hwang, Yoo, Moon, Yoon & Cho, 2007 SPECIES
-=======
+# Terribacillus goriensis Kim, Hwang, Yoo, Moon, Yoon & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia impatientis-elymi Arthur SPECIES
-=======
+# Puccinia impatientis-elymi Arthur SPECIES
 
 #### Status
 ACCEPTED

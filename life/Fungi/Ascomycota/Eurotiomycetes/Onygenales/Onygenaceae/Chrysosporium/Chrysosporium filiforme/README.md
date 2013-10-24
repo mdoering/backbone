@@ -1,5 +1,4 @@
-Chrysosporium filiforme Sigler, J.W. Carmich. & H.S. Whitney, 1982 SPECIES
-=======
+# Chrysosporium filiforme Sigler, J.W. Carmich. & H.S. Whitney, 1982 SPECIES
 
 #### Status
 ACCEPTED

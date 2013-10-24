@@ -1,5 +1,4 @@
-Arthonia melanospila Anzi SPECIES
-=======
+# Arthonia melanospila Anzi SPECIES
 
 #### Status
 ACCEPTED

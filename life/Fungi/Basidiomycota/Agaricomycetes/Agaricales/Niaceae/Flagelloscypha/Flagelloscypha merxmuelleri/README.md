@@ -1,5 +1,4 @@
-Flagelloscypha merxmuelleri Agerer & Schmid-Heckel, 1986 SPECIES
-=======
+# Flagelloscypha merxmuelleri Agerer & Schmid-Heckel, 1986 SPECIES
 
 #### Status
 ACCEPTED

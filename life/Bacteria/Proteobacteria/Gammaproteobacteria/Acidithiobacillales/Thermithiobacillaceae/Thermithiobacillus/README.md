@@ -1,5 +1,4 @@
-Thermithiobacillus Kelly & Wood, 2000 GENUS
-=======
+# Thermithiobacillus Kelly & Wood, 2000 GENUS
 
 #### Status
 ACCEPTED

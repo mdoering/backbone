@@ -1,5 +1,4 @@
-Sporisorium chudaei (Har. & Pat.) Vánky SPECIES
-=======
+# Sporisorium chudaei (Har. & Pat.) Vánky SPECIES
 
 #### Status
 ACCEPTED

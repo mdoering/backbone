@@ -1,5 +1,4 @@
-Exidia tenuis Lév. SPECIES
-=======
+# Exidia tenuis Lév. SPECIES
 
 #### Status
 ACCEPTED

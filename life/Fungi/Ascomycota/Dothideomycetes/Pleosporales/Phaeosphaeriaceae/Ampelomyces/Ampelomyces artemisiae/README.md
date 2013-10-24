@@ -1,5 +1,4 @@
-Ampelomyces artemisiae (Voglino) Rudakov SPECIES
-=======
+# Ampelomyces artemisiae (Voglino) Rudakov SPECIES
 
 #### Status
 ACCEPTED

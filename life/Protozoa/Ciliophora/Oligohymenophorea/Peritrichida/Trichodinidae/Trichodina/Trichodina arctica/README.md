@@ -1,5 +1,4 @@
-Trichodina arctica Zhukov, 1964 SPECIES
-=======
+# Trichodina arctica Zhukov, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera alachuana (Murrill) Murrill SPECIES
-=======
+# Galera alachuana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudomonas phenazinium Bell and Turner, 1973 (Approved Lists, 1980) SPECIES
-=======
+# Burkholderia phenazinium (Bell & Turner, 1973) Viallard et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Periola dura Rabenh. SPECIES
-=======
+# Periola dura Rabenh. SPECIES
 
 #### Status
 ACCEPTED

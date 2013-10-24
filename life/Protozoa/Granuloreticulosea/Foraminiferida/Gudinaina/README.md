@@ -1,5 +1,4 @@
-Gudinaina Levtchuk in Levchuk, 1995 GENUS
-=======
+# Gudinaina Levtchuk in Levchuk, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemiaulus membranaceus Cleve, 1873 SPECIES
-=======
+# Hemiaulus membranaceus Cleve, 1873 SPECIES
 
 #### Status
 ACCEPTED

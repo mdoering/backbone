@@ -1,14 +1,13 @@
-Ustilago bothriochloae L. Ling, 1945 SPECIES
-=======
+# Macalpinomyces bothriochloae (L. Ling) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 11: 4 (1945)
+Fungal Diversity 15: 225 (2004)
 
 #### Original name
 Ustilago bothriochloae L. Ling, 1945

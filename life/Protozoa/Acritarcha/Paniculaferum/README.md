@@ -1,5 +1,4 @@
-Paniculaferum M.A. Miller, 1991 GENUS
-=======
+# Paniculaferum M.A. Miller, 1991 GENUS
 
 #### Status
 ACCEPTED

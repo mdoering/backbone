@@ -1,5 +1,4 @@
-Lepiota spegazzinii Sacc. & Trotter SPECIES
-=======
+# Lepiota spegazzinii Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

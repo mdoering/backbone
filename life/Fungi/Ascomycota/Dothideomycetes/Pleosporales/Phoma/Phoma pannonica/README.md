@@ -1,5 +1,4 @@
-Phoma pannonica Petr. SPECIES
-=======
+# Phoma pannonica Petr. SPECIES
 
 #### Status
 ACCEPTED

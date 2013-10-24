@@ -1,5 +1,4 @@
-Loxophyllum armatum sensu Bütschli, 1889 SPECIES
-=======
+# Loxophyllum armatum sensu Bütschli, 1889 SPECIES
 
 #### Status
 ACCEPTED

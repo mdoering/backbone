@@ -1,5 +1,4 @@
-Protoperidinium sphaericum (Murray & Whitting) Balech SPECIES
-=======
+# Protoperidinium sphaericum (Murray & Whitting) Balech SPECIES
 
 #### Status
 ACCEPTED

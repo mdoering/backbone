@@ -1,5 +1,4 @@
-Fusarium eucalyptorum Cooke & Harkn. SPECIES
-=======
+# Fusarium eucalyptorum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

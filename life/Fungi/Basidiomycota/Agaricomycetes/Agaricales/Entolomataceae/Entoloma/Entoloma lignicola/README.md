@@ -1,5 +1,4 @@
-Entoloma lignicola Largent SPECIES
-=======
+# Entoloma lignicola Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta comoliae Speg. SPECIES
-=======
+# Phyllosticta comoliae Speg. SPECIES
 
 #### Status
 ACCEPTED

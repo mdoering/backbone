@@ -1,17 +1,16 @@
-Raphiospora otagensis (Nyl.) Jatta SPECIES
-=======
+# Sarrameana albidoplumbea (Hook. f. & Taylor) Farkas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 58: 98 (1995)
 
 #### Original name
-Lecidea otagensis Nyl.
+Lecidea albidoplumbea Hook. f. & Taylor
 
 ### Remarks
 null

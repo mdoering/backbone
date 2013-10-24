@@ -1,5 +1,4 @@
-Mesorhizobium Jarvis et al., 1997 GENUS
-=======
+# Mesorhizobium Jarvis et al., 1997 GENUS
 
 #### Status
 ACCEPTED

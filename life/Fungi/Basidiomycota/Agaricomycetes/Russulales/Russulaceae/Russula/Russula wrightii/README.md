@@ -1,5 +1,4 @@
-Russula wrightii Raithelh. SPECIES
-=======
+# Russula wrightii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

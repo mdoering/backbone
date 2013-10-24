@@ -1,5 +1,4 @@
-Cenomyce acicularis (Ach.) Ach. SPECIES
-=======
+# Cenomyce acicularis (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

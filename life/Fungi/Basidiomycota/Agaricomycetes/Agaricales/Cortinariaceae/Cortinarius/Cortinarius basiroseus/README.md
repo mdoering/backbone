@@ -1,17 +1,16 @@
-Cortinarius basiroseus f. subacaulis Moënne-Locc. & Reumaux FORM
-=======
+# Cortinarius basiroseus A. Pearson ex P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlas des Cortinaires (Meyzieu) 10: 514 (2000)
+Notes R. bot. Gdn Edinb. 41(3): 569 (1984)
 
 #### Original name
-Cortinarius basiroseus f. subacaulis Moënne-Locc. & Reumaux
+Cortinarius basiroseus A. Pearson ex P.D. Orton, 1984
 
 ### Remarks
 null

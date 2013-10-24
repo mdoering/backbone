@@ -1,5 +1,4 @@
-Echinoplaca atrofusca R. Sant. SPECIES
-=======
+# Echinoplaca atrofusca R. Sant. SPECIES
 
 #### Status
 ACCEPTED

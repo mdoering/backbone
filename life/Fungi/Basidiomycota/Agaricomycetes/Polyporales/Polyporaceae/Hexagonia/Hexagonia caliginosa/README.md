@@ -1,5 +1,4 @@
-Hexagonia caliginosa Lloyd SPECIES
-=======
+# Hexagonia caliginosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

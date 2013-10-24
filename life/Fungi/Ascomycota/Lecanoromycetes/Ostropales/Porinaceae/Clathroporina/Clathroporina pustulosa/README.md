@@ -1,5 +1,4 @@
-Clathroporina pustulosa (Kremp.) Shirley SPECIES
-=======
+# Clathroporina pustulosa (Kremp.) Shirley SPECIES
 
 #### Status
 ACCEPTED

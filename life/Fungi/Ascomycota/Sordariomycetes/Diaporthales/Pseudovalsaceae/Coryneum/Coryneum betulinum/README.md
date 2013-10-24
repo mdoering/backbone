@@ -1,5 +1,4 @@
-Coryneum betulinum Schulzer, 1882 SPECIES
-=======
+# Coryneum betulinum Schulzer, 1882 SPECIES
 
 #### Status
 ACCEPTED

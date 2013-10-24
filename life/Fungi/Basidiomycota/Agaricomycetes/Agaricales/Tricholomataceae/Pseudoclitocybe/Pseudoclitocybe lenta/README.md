@@ -1,5 +1,4 @@
-Pseudoclitocybe lenta Corner SPECIES
-=======
+# Pseudoclitocybe lenta Corner SPECIES
 
 #### Status
 ACCEPTED

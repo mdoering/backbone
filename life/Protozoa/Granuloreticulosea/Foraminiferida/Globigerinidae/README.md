@@ -1,5 +1,4 @@
-Globigerinidae Carpenter, 1862 FAMILY
-=======
+# Globigerinidae Carpenter, 1862 FAMILY
 
 #### Status
 ACCEPTED

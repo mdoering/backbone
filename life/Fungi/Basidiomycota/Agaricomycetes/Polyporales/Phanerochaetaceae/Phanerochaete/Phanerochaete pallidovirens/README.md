@@ -1,5 +1,4 @@
-Phanerochaete pallidovirens (Bourdot & Galzin) Hjortstam SPECIES
-=======
+# Phanerochaete pallidovirens (Bourdot & Galzin) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

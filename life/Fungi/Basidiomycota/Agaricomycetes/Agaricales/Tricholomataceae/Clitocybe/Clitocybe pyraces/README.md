@@ -1,5 +1,4 @@
-Clitocybe pyraces Berk. & Broome SPECIES
-=======
+# Clitocybe pyraces Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

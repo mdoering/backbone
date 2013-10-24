@@ -1,5 +1,4 @@
-Sirobasidium magnum Boedijn, 1934 SPECIES
-=======
+# Sirobasidium magnum Boedijn, 1934 SPECIES
 
 #### Status
 ACCEPTED

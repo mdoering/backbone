@@ -1,5 +1,4 @@
-Marasmius exustoides Desjardin & E. Horak, 1997 SPECIES
-=======
+# Marasmius exustoides Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

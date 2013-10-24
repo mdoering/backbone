@@ -1,5 +1,4 @@
-Nosema diplostomi SPECIES
-=======
+# Nosema diplostomi SPECIES
 
 #### Status
 ACCEPTED

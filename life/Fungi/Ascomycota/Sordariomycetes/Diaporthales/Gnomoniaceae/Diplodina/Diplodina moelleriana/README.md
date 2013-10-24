@@ -1,5 +1,4 @@
-Diplodina moelleriana N.F. Buchw. SPECIES
-=======
+# Diplodina moelleriana N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

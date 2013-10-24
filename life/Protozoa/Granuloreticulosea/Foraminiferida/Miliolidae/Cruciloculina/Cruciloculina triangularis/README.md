@@ -1,5 +1,4 @@
-Cruciloculina triangularis SPECIES
-=======
+# Cruciloculina triangularis SPECIES
 
 #### Status
 ACCEPTED

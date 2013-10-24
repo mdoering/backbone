@@ -1,5 +1,4 @@
-Trichobacidia Vain. GENUS
-=======
+# Trichobacidia Vain. GENUS
 
 #### Status
 ACCEPTED

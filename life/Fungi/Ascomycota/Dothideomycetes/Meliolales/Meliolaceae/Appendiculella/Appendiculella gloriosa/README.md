@@ -1,5 +1,4 @@
-Appendiculella gloriosa (Doidge) Hansf. SPECIES
-=======
+# Appendiculella gloriosa (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

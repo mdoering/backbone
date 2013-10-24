@@ -1,5 +1,4 @@
-Gibberidea pulchella (Fabre) Kuntze SPECIES
-=======
+# Gibberidea pulchella (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostoma albomaculans Ellis & Everh. SPECIES
-=======
+# Ceratostoma albomaculans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

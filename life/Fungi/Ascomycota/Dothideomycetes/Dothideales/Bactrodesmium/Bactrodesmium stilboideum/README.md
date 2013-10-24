@@ -1,5 +1,4 @@
-Bactrodesmium stilboideum R.F. Castañeda & G.R.W. Arnold SPECIES
-=======
+# Bactrodesmium stilboideum R.F. Castañeda & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

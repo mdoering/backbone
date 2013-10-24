@@ -1,5 +1,4 @@
-Helotium collinum Speg. SPECIES
-=======
+# Helotium collinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmiella constricta M.T. Dunn SPECIES
-=======
+# Endophragmiella constricta M.T. Dunn SPECIES
 
 #### Status
 ACCEPTED

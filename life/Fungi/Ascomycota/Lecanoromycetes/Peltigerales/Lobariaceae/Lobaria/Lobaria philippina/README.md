@@ -1,5 +1,4 @@
-Lobaria philippina Vain. SPECIES
-=======
+# Lobaria philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

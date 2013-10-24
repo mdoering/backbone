@@ -1,5 +1,4 @@
-Entomophaga domestica S. Keller SPECIES
-=======
+# Entomophaga domestica S. Keller SPECIES
 
 #### Status
 ACCEPTED

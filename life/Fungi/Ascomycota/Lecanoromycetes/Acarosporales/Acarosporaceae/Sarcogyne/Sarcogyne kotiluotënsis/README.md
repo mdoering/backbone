@@ -1,8 +1,7 @@
-Sarcogyne kotiluotensis Vain. SPECIES
-=======
+# Sarcogyne kotiluotënsis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sarcogyne kotiluotensis Vain.
+Sarcogyne kotiluotënsis Vain.
 
 ### Remarks
 null

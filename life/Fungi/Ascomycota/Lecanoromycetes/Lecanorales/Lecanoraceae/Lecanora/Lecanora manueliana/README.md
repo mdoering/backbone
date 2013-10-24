@@ -1,5 +1,4 @@
-Lecanora manueliana Harm SPECIES
-=======
+# Lecanora manueliana Harm SPECIES
 
 #### Status
 ACCEPTED

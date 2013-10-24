@@ -1,5 +1,4 @@
-Asterina geniospori (Hansf.) Hansf. SPECIES
-=======
+# Asterina geniospori (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

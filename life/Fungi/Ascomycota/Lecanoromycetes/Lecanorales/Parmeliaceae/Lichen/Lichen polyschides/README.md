@@ -1,5 +1,4 @@
-Lichen polyschides Neck. SPECIES
-=======
+# Lichen polyschides Neck. SPECIES
 
 #### Status
 ACCEPTED

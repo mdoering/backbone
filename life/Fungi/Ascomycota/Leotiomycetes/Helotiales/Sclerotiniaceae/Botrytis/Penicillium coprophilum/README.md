@@ -1,5 +1,4 @@
-Penicillium coprophilum (Berk. & M.A. Curtis) Seifert & Samson, 1986 SPECIES
-=======
+# Penicillium coprophilum (Berk. & M.A. Curtis) Seifert & Samson, 1986 SPECIES
 
 #### Status
 DOUBTFUL

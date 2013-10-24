@@ -1,17 +1,16 @@
-Cercospora soloni-nigri Chidd. SPECIES
-=======
+# Cercospora solani-nigri Chidd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 17: 76 (1962)
 
 #### Original name
-Cercospora soloni-nigri Chidd.
+Cercospora solani-nigri Chidd.
 
 ### Remarks
 null

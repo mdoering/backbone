@@ -1,14 +1,13 @@
-Thraustochytrium multirudimentale S. Goldst., 1963 SPECIES
-=======
+# Oblongichytrium multirudimentale (S. Goldst.) R. Yokoy. & D. Honda, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 50(3): 273 (1963)
+Mycoscience 48(4): 202 (2007)
 
 #### Original name
 Thraustochytrium multirudimentale S. Goldst., 1963

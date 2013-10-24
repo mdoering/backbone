@@ -1,5 +1,4 @@
-Leptomeliola mnii Racov. SPECIES
-=======
+# Leptomeliola mnii Racov. SPECIES
 
 #### Status
 ACCEPTED

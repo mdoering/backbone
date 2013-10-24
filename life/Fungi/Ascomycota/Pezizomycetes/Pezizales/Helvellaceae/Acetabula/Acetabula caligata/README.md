@@ -1,5 +1,4 @@
-Acetabula caligata (Nyl.) Boud. SPECIES
-=======
+# Acetabula caligata (Nyl.) Boud. SPECIES
 
 #### Status
 ACCEPTED

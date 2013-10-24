@@ -1,5 +1,4 @@
-Didymaria conjugans F. Stevens & Solheim SPECIES
-=======
+# Didymaria conjugans F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus submastrucatus Henn. SPECIES
-=======
+# Pleurotus submastrucatus Henn. SPECIES
 
 #### Status
 ACCEPTED

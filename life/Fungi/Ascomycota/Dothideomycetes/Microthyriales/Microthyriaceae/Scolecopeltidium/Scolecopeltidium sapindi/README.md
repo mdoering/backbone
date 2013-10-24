@@ -1,5 +1,4 @@
-Scolecopeltidium sapindi Bat. SPECIES
-=======
+# Scolecopeltidium sapindi Bat. SPECIES
 
 #### Status
 ACCEPTED

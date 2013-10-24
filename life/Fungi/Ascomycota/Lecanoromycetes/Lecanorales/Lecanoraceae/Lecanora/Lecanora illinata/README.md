@@ -1,5 +1,4 @@
-Lecanora illinata SPECIES
-=======
+# Lecanora illinata SPECIES
 
 #### Status
 ACCEPTED

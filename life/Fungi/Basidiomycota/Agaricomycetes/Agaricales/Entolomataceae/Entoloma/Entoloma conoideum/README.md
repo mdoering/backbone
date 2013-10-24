@@ -1,5 +1,4 @@
-Entoloma conoideum (Speg.) E. Horak SPECIES
-=======
+# Entoloma conoideum (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

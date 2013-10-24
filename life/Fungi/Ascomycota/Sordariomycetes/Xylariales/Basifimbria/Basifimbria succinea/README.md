@@ -1,14 +1,13 @@
-Basifimbria succineum (Massee & E.S. Salmon) Seifert & W.B. Kendr. SPECIES
-=======
+# Basifimbria succinea (Massee & E.S. Salmon) Seifert & W.B. Kendr., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Seifert, Kendrick & Murase, Univ. Waterloo Biol. Ser. 27: 23 (1983)
 
 #### Original name
 Cephalosporium succineum Massee & E.S. Salmon, 1902

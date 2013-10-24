@@ -1,5 +1,4 @@
-Cephaliophora tropica Thaxt., 1903 SPECIES
-=======
+# Cephaliophora tropica Thaxt., 1903 SPECIES
 
 #### Status
 ACCEPTED

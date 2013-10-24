@@ -1,5 +1,4 @@
-Dapedophrya Foissner, 1995 GENUS
-=======
+# Dapedophrya Foissner, 1995 GENUS
 
 #### Status
 ACCEPTED

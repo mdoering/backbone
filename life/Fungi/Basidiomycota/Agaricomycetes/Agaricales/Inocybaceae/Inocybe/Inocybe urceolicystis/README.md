@@ -1,5 +1,4 @@
-Inocybe urceolicystis Stangl & Vauras SPECIES
-=======
+# Inocybe urceolicystis Stangl & Vauras SPECIES
 
 #### Status
 ACCEPTED

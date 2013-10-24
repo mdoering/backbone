@@ -1,5 +1,4 @@
-Lecidea kelungana Zahlbr. SPECIES
-=======
+# Lecidea kelungana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

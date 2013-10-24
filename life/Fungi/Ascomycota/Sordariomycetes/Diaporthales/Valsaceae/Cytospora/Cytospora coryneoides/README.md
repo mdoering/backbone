@@ -1,5 +1,4 @@
-Cytospora coryneoides Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora coryneoides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

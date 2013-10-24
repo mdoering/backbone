@@ -1,5 +1,4 @@
-Dictyostelium ohioense Cavender & Vadell, 2006 SPECIES
-=======
+# Dictyostelium ohioense Cavender & Vadell, 2006 SPECIES
 
 #### Status
 ACCEPTED

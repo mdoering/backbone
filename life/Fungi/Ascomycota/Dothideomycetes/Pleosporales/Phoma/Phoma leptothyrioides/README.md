@@ -1,5 +1,4 @@
-Phoma leptothyrioides P. Karst. SPECIES
-=======
+# Phoma leptothyrioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

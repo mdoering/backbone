@@ -1,5 +1,4 @@
-Ramularia bryoniae Fautrey & Roum., 1891 SPECIES
-=======
+# Ramularia bryoniae Fautrey & Roum., 1891 SPECIES
 
 #### Status
 ACCEPTED

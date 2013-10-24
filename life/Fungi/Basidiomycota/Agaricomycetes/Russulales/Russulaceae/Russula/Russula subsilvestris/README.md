@@ -1,17 +1,16 @@
-Russula subsilvestris var. subsilvestris VARIETY
-=======
+# Russula subsilvestris Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Moënne-Loccoz & Reumaux, Les Russules Émétiques (Bassens), Prolégomènes à Une Monographie des <i>Emeticinae</i> d'Europe et d'Amérique du Nord 239 (2003)
 
 #### Original name
-null
+Russula subsilvestris Carteret & Reumaux
 
 ### Remarks
 null

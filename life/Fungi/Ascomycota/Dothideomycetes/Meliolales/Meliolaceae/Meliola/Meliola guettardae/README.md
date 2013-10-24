@@ -1,5 +1,4 @@
-Meliola guettardae (Cif.) Cif. SPECIES
-=======
+# Meliola guettardae (Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

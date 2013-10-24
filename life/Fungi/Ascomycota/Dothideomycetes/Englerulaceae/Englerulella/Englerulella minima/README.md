@@ -1,5 +1,4 @@
-Englerulella minima Hansf. SPECIES
-=======
+# Englerulella minima Hansf. SPECIES
 
 #### Status
 ACCEPTED

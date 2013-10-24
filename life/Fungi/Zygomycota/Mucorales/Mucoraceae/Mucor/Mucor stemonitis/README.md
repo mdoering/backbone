@@ -1,5 +1,4 @@
-Mucor stemonitis Scop. SPECIES
-=======
+# Mucor stemonitis Scop. SPECIES
 
 #### Status
 ACCEPTED

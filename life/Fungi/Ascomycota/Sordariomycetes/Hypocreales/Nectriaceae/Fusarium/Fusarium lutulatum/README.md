@@ -1,5 +1,4 @@
-Fusarium lutulatum Sherb. SPECIES
-=======
+# Fusarium lutulatum Sherb. SPECIES
 
 #### Status
 ACCEPTED

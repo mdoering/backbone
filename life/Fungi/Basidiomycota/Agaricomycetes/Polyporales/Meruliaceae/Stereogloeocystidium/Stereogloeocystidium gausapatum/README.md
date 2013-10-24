@@ -1,5 +1,4 @@
-Stereogloeocystidium gausapatum Rick SPECIES
-=======
+# Stereogloeocystidium gausapatum Rick SPECIES
 
 #### Status
 ACCEPTED

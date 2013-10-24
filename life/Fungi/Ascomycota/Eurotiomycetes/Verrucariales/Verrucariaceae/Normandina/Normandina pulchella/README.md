@@ -1,17 +1,16 @@
-Normandina pulchella var. sorediosa (H. Olivier) Mereschk. VARIETY
-=======
+# Normandina pulchella (Borrer) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 15: 382 (1861)
 
 #### Original name
-null
+Verrucaria pulchella Borrer
 
 ### Remarks
 null

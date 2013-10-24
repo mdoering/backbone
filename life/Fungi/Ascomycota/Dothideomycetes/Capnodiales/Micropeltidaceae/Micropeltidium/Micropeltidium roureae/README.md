@@ -1,5 +1,4 @@
-Micropeltidium roureae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium roureae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyphloeus prieguensis Mor.-Arr., J. Gómez & Calonge SPECIES
-=======
+# Pachyphloeus prieguensis Mor.-Arr., J. Gómez & Calonge SPECIES
 
 #### Status
 ACCEPTED

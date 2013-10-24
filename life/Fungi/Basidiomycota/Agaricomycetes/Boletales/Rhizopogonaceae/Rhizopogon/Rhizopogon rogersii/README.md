@@ -1,5 +1,4 @@
-Rhizopogon rogersii A.H. Sm. SPECIES
-=======
+# Rhizopogon rogersii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

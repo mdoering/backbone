@@ -1,5 +1,4 @@
-Clitopilus depressus Clem. SPECIES
-=======
+# Clitopilus depressus Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum hepaticum (Fr.) Fr. SPECIES
-=======
+# Stereum hepaticum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

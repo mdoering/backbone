@@ -1,5 +1,4 @@
-Succinispira mobilis Janssen & O'Farrell, 1999 SPECIES
-=======
+# Succinispira mobilis Janssen & O'Farrell, 1999 SPECIES
 
 #### Status
 ACCEPTED

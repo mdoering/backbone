@@ -1,5 +1,4 @@
-Jattaeomyces GENUS
-=======
+# Jattaeomyces GENUS
 
 #### Status
 ACCEPTED

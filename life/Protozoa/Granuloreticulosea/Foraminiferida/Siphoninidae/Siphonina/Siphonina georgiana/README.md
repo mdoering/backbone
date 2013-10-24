@@ -1,5 +1,4 @@
-Siphonina georgiana Haynes, 1973 SPECIES
-=======
+# Siphonina georgiana Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

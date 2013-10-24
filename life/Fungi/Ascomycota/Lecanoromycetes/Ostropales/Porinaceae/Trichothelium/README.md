@@ -1,17 +1,16 @@
-Ophiodictyon Sacc. & P. Syd. GENUS
-=======
+# Trichothelium Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 16: 55 (1902)
+Bot. Jb. 6: 418 (1885)
 
 #### Original name
-Ophiodictyon Sacc. & P. Syd.
+Trichothelium Müll. Arg.
 
 ### Remarks
 null

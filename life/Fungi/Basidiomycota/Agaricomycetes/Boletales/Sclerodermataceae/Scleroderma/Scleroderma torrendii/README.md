@@ -1,5 +1,4 @@
-Scleroderma torrendii Bres. SPECIES
-=======
+# Scleroderma torrendii Bres. SPECIES
 
 #### Status
 ACCEPTED

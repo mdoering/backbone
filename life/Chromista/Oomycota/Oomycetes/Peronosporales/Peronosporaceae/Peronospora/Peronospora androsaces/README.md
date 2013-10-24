@@ -1,5 +1,4 @@
-Peronospora androsaces Niessl SPECIES
-=======
+# Peronospora androsaces Niessl SPECIES
 
 #### Status
 ACCEPTED

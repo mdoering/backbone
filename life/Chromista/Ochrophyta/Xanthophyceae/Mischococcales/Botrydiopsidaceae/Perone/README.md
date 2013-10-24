@@ -1,5 +1,4 @@
-Perone Pascher, 1932 GENUS
-=======
+# Perone Pascher, 1932 GENUS
 
 #### Status
 ACCEPTED

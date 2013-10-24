@@ -1,5 +1,4 @@
-Paecilomyces macquandii (Massee) Hughes SPECIES
-=======
+# Paecilomyces macquandii (Massee) Hughes SPECIES
 
 #### Status
 ACCEPTED

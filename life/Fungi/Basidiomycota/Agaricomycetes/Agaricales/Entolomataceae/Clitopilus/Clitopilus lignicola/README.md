@@ -1,5 +1,4 @@
-Clitopilus lignicola Murrill SPECIES
-=======
+# Clitopilus lignicola Murrill SPECIES
 
 #### Status
 ACCEPTED

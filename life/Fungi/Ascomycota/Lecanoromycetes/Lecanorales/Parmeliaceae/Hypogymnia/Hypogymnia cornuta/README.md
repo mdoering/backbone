@@ -1,5 +1,4 @@
-Hypogymnia cornuta C.W. Dodge SPECIES
-=======
+# Hypogymnia cornuta C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

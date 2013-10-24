@@ -1,5 +1,4 @@
-Ophiostoma breviusculum W.Hsin Chung, Yamaoka, Uzunovic & J.J. Kim SPECIES
-=======
+# Ophiostoma breviusculum W.Hsin Chung, Yamaoka, Uzunovic & J.J. Kim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Longifragma Foissner, 1984 GENUS
-=======
+# Longifragma Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria punctiformis Ces. SPECIES
-=======
+# Sordaria punctiformis Ces. SPECIES
 
 #### Status
 ACCEPTED

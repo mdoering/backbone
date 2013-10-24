@@ -1,5 +1,4 @@
-Amanita manilensis Mendoza & Leus-Palo SPECIES
-=======
+# Amanita manilensis Mendoza & Leus-Palo SPECIES
 
 #### Status
 ACCEPTED

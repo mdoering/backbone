@@ -1,5 +1,4 @@
-Diplodia muscicola Racov. SPECIES
-=======
+# Diplodia muscicola Racov. SPECIES
 
 #### Status
 ACCEPTED

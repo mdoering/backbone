@@ -1,5 +1,4 @@
-Peyronellaea fumaginoides (Peyronel) Goid. ex Parg.-Leduc SPECIES
-=======
+# Peyronellaea fumaginoides (Peyronel) Goid. ex Parg.-Leduc SPECIES
 
 #### Status
 ACCEPTED

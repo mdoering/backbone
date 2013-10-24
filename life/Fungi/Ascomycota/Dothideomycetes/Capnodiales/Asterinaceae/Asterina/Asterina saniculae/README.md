@@ -1,5 +1,4 @@
-Asterina saniculae Doidge SPECIES
-=======
+# Asterina saniculae Doidge SPECIES
 
 #### Status
 ACCEPTED

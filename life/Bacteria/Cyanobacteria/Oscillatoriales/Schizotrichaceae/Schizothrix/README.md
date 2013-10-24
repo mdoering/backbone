@@ -1,14 +1,13 @@
-Inactis Thuret, 1875 GENUS
-=======
+# Schizothrix Kützing ex Gomont, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Sci. Nar. -Bot. 6, 1: 375.
+Ann. Sci. Nat. Bot. , ser. 7, 15: 292.
 
 #### Original name
 null

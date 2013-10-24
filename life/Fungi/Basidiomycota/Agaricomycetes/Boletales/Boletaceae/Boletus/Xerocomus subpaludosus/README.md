@@ -1,5 +1,4 @@
-Xerocomus subpaludosus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus subpaludosus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

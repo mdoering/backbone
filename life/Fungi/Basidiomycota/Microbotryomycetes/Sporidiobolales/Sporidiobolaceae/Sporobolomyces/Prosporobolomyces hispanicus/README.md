@@ -1,5 +1,4 @@
-Prosporobolomyces hispanicus (Peláez & C. Ramírez) E.K. Novák & Zsolt SPECIES
-=======
+# Prosporobolomyces hispanicus (Peláez & C. Ramírez) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

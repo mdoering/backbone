@@ -1,5 +1,4 @@
-Trichormus hallensis (Janczewski) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus hallensis (Janczewski) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

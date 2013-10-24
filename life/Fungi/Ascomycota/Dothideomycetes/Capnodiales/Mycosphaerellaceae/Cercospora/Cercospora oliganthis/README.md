@@ -1,17 +1,16 @@
-Cercospora oliganthidis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora oliganthis R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 33: 104 (1951)
 
 #### Original name
-Cercospora oliganthidis R.E.D. Baker & W.T. Dale
+Cercospora oliganthis R.E.D. Baker & W.T. Dale
 
 ### Remarks
 null

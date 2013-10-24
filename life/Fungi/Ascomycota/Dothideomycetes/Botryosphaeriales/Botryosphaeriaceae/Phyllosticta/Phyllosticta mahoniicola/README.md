@@ -1,17 +1,16 @@
-Phyllosticta mahoniicola f. microspora Pollacci FORM
-=======
+# Phyllosticta mahoniicola Pass., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Phyllosticta mahoniicola f. microspora Pollacci
+Phyllosticta mahoniicola Pass., 1886
 
 ### Remarks
 null

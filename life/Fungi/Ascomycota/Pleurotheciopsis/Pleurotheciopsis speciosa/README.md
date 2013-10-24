@@ -1,5 +1,4 @@
-Pleurotheciopsis speciosa R.F. Castañeda & M. Calduch SPECIES
-=======
+# Pleurotheciopsis speciosa R.F. Castañeda & M. Calduch SPECIES
 
 #### Status
 ACCEPTED

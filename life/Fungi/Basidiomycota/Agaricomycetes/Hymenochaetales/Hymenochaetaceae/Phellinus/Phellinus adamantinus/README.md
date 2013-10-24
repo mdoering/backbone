@@ -1,14 +1,13 @@
-Fomes adamantinus f. adamantinus FORM
-=======
+# Phellinus adamantinus (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 69): 21 (1885)
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
 Polyporus adamantinus Berk., 1854

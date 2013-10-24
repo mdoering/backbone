@@ -1,5 +1,4 @@
-Pleostigma piceae Kirschst., 1939 SPECIES
-=======
+# Pleostigma piceae Kirschst., 1939 SPECIES
 
 #### Status
 ACCEPTED

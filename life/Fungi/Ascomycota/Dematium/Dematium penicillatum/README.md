@@ -1,5 +1,4 @@
-Dematium penicillatum Richon SPECIES
-=======
+# Dematium penicillatum Richon SPECIES
 
 #### Status
 ACCEPTED

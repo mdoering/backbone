@@ -1,5 +1,4 @@
-Physcia disjuncta Kremp. SPECIES
-=======
+# Physcia disjuncta Kremp. SPECIES
 
 #### Status
 ACCEPTED

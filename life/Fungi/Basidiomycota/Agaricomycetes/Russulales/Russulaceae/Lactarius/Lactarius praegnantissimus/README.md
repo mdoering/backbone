@@ -1,5 +1,4 @@
-Lactarius praegnantissimus (Paulet) Bataille SPECIES
-=======
+# Lactarius praegnantissimus (Paulet) Bataille SPECIES
 
 #### Status
 ACCEPTED

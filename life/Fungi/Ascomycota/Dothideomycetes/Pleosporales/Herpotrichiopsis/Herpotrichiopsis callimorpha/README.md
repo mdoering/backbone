@@ -1,5 +1,4 @@
-Herpotrichiopsis callimorpha Höhn. SPECIES
-=======
+# Herpotrichiopsis callimorpha Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium harknessianum F. Kern ex Arthur, 1926 SPECIES
-=======
+# Gymnosporangium harknessianum F. Kern ex Arthur, 1926 SPECIES
 
 #### Status
 ACCEPTED

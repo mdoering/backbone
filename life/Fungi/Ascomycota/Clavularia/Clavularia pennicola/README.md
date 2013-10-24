@@ -1,5 +1,4 @@
-Clavularia pennicola J. Lindau SPECIES
-=======
+# Clavularia pennicola J. Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraperonospora apiculata Constant., 1996 SPECIES
-=======
+# Paraperonospora apiculata Constant., 1996 SPECIES
 
 #### Status
 ACCEPTED

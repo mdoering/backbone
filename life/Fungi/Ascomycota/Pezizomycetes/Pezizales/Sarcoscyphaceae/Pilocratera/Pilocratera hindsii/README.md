@@ -1,5 +1,4 @@
-Pilocratera hindsii (Berk.) Henn. SPECIES
-=======
+# Pilocratera hindsii (Berk.) Henn. SPECIES
 
 #### Status
 ACCEPTED

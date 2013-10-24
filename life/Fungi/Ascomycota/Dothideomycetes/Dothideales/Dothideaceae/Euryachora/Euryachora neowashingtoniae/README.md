@@ -1,5 +1,4 @@
-Euryachora neowashingtoniae Dearn. SPECIES
-=======
+# Euryachora neowashingtoniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

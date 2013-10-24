@@ -1,14 +1,13 @@
-Lenzites palisoti (Fr.) Fr. SPECIES
-=======
+# Lenzites palisotii (Fr.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 404 (1838)
 
 #### Original name
 Daedalea amanitoides P. Beauv.

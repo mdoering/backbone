@@ -1,5 +1,4 @@
-Mycovellosiella dioscoreae (Vassiljevsky) N. Pons & B. Sutton SPECIES
-=======
+# Mycovellosiella dioscoreae (Vassiljevsky) N. Pons & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

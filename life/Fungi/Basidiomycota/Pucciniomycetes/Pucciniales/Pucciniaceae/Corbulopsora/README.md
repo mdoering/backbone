@@ -1,5 +1,4 @@
-Corbulopsora Cummins GENUS
-=======
+# Corbulopsora Cummins GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon coccineum var. coccineum VARIETY
-=======
+# Hypoxylon fragiforme (Pers.) J. Kickx f., 1835 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Champ. France (Paris) 1: 174 (1791)
+Fl. Crypt. Louvain 116 (1835)
 
 #### Original name
-Hypoxylon coccineum var. coccineum
+Sphaeria fragiformis Sowerby, 1803
 
 ### Remarks
 null

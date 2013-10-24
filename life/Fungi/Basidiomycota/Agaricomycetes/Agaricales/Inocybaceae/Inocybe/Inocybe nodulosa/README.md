@@ -1,5 +1,4 @@
-Inocybe nodulosa Kauffman SPECIES
-=======
+# Inocybe nodulosa Kauffman SPECIES
 
 #### Status
 ACCEPTED

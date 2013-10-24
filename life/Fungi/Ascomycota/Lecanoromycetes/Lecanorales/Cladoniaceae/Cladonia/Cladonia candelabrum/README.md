@@ -1,5 +1,4 @@
-Cladonia candelabrum (Bory) Nyl. SPECIES
-=======
+# Cladonia candelabrum (Bory) Nyl. SPECIES
 
 #### Status
 ACCEPTED

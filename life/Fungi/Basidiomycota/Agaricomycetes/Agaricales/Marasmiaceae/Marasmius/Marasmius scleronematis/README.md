@@ -1,5 +1,4 @@
-Marasmius scleronematis Singer SPECIES
-=======
+# Marasmius scleronematis Singer SPECIES
 
 #### Status
 ACCEPTED

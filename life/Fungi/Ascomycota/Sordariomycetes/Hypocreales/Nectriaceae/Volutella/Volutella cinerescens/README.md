@@ -1,5 +1,4 @@
-Volutella cinerescens (Ces.) Sacc., 1886 SPECIES
-=======
+# Volutella cinerescens (Ces.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

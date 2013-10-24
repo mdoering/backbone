@@ -1,5 +1,4 @@
-Dicaeoma cyperi-tagetiformis (Henn.) Arthur SPECIES
-=======
+# Dicaeoma cyperi-tagetiformis (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteropatella elliptica Fr. SPECIES
-=======
+# Hysteropatella elliptica Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo phoradendri H.S. Jacks. SPECIES
-=======
+# Uredo phoradendri H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

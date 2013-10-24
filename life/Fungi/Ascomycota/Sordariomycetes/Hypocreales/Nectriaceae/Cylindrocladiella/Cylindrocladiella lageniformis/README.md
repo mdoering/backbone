@@ -1,5 +1,4 @@
-Cylindrocladiella lageniformis Crous, M.J. Wingf. & Alfenas, 1993 SPECIES
-=======
+# Cylindrocladiella lageniformis Crous, M.J. Wingf. & Alfenas, 1993 SPECIES
 
 #### Status
 ACCEPTED

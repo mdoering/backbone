@@ -1,5 +1,4 @@
-Hendersonia acaciae Gonz. Frag. SPECIES
-=======
+# Hendersonia acaciae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella thujae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella thujae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

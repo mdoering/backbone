@@ -1,5 +1,4 @@
-Septoria vignae-sinensis Sawada SPECIES
-=======
+# Septoria vignae-sinensis Sawada SPECIES
 
 #### Status
 ACCEPTED

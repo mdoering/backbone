@@ -1,5 +1,4 @@
-Torula divaricata Matsush., 1971 SPECIES
-=======
+# Torula divaricata Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostoma conicum Ellis & Everh. SPECIES
-=======
+# Ceratostoma conicum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

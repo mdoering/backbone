@@ -1,5 +1,4 @@
-Monascaceae J. Schröt. FAMILY
-=======
+# Monascaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

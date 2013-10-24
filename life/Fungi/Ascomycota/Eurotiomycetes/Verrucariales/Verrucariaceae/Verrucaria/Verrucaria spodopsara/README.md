@@ -1,5 +1,4 @@
-Verrucaria spodopsara Nyl. SPECIES
-=======
+# Verrucaria spodopsara Nyl. SPECIES
 
 #### Status
 ACCEPTED

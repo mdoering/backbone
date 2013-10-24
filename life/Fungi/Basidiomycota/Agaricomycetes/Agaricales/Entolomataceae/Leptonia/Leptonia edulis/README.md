@@ -1,5 +1,4 @@
-Leptonia edulis Peck SPECIES
-=======
+# Leptonia edulis Peck SPECIES
 
 #### Status
 ACCEPTED

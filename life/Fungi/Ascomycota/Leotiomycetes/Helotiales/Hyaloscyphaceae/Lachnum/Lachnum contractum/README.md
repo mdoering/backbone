@@ -1,5 +1,4 @@
-Lachnum contractum P. Karst. SPECIES
-=======
+# Lachnum contractum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

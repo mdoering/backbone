@@ -1,5 +1,4 @@
-Entoloma argenteostriatum Arnolds & Noordel., 1979 SPECIES
-=======
+# Entoloma argenteostriatum Arnolds & Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED

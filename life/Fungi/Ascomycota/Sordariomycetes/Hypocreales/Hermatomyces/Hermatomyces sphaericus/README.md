@@ -1,5 +1,4 @@
-Hermatomyces sphaericus (Sacc.) S. Hughes SPECIES
-=======
+# Hermatomyces sphaericus (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

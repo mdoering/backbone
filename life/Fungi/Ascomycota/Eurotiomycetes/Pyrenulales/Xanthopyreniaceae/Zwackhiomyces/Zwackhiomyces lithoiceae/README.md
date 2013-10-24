@@ -1,5 +1,4 @@
-Zwackhiomyces lithoiceae (B. de Lesd.) Hafellner & V. John SPECIES
-=======
+# Zwackhiomyces lithoiceae (B. de Lesd.) Hafellner & V. John SPECIES
 
 #### Status
 ACCEPTED

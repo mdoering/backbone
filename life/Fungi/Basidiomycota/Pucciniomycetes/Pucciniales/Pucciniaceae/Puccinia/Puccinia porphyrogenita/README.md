@@ -1,5 +1,4 @@
-Puccinia porphyrogenita M.A. Curtis SPECIES
-=======
+# Puccinia porphyrogenita M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

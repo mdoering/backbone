@@ -1,5 +1,4 @@
-Verrucaria marcida (Fée) Spreng. SPECIES
-=======
+# Verrucaria marcida (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

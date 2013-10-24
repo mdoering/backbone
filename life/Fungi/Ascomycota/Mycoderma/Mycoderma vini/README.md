@@ -1,5 +1,4 @@
-Mycoderma vini SPECIES
-=======
+# Mycoderma vini SPECIES
 
 #### Status
 ACCEPTED

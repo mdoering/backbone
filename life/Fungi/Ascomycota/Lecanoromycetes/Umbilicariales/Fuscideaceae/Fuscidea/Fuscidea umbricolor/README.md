@@ -1,5 +1,4 @@
-Fuscidea umbricolor (Nyl.) Hertel SPECIES
-=======
+# Fuscidea umbricolor (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED

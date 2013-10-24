@@ -1,5 +1,4 @@
-Tuberaceae Dumort. FAMILY
-=======
+# Tuberaceae Dumort. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tubulicrinis vinacea Y. Hayashi SPECIES
-=======
+# Tubulicrinis vinaceus Y. Hayashi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Govt Forest Exp. Stn Meguro 260: 48 (1974)
 
 #### Original name
-Tubulicrinis vinacea Y. Hayashi
+Tubulicrinis vinaceus Y. Hayashi
 
 ### Remarks
 null

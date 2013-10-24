@@ -1,5 +1,4 @@
-Shewanella oneidensis Venkateswaran et al., 1999 SPECIES
-=======
+# Shewanella oneidensis Venkateswaran et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

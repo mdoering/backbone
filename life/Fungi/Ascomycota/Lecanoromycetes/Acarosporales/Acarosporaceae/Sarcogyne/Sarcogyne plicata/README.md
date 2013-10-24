@@ -1,5 +1,4 @@
-Sarcogyne plicata H. Magn. SPECIES
-=======
+# Sarcogyne plicata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

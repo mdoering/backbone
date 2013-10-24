@@ -1,5 +1,4 @@
-Amazonia geniostomatia B. Huguenin SPECIES
-=======
+# Amazonia geniostomatia B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

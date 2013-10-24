@@ -1,5 +1,4 @@
-Thelocarpon subantarcticum Øvstedal SPECIES
-=======
+# Thelocarpon subantarcticum Øvstedal SPECIES
 
 #### Status
 ACCEPTED

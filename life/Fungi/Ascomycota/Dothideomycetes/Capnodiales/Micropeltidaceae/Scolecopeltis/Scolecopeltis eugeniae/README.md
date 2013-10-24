@@ -1,5 +1,4 @@
-Scolecopeltis eugeniae Doidge SPECIES
-=======
+# Scolecopeltis eugeniae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozella diplophlyctidis Karling SPECIES
-=======
+# Rozella diplophlyctidis Karling SPECIES
 
 #### Status
 ACCEPTED

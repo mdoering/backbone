@@ -1,5 +1,4 @@
-Phyllosticta fagopyri Miura SPECIES
-=======
+# Phyllosticta fagopyri Miura SPECIES
 
 #### Status
 ACCEPTED

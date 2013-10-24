@@ -1,5 +1,4 @@
-Cortinarius parvulobtusus Rob. Henry SPECIES
-=======
+# Cortinarius parvulobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

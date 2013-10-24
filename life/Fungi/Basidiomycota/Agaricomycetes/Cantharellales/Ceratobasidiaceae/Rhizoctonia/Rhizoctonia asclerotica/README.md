@@ -1,5 +1,4 @@
-Rhizoctonia asclerotica Burgeff SPECIES
-=======
+# Rhizoctonia asclerotica Burgeff SPECIES
 
 #### Status
 ACCEPTED

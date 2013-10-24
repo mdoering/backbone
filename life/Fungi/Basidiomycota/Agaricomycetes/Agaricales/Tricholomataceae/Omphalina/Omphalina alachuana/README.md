@@ -1,5 +1,4 @@
-Omphalina alachuana Murrill SPECIES
-=======
+# Omphalina alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

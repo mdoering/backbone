@@ -1,5 +1,4 @@
-Agaricus corneus Secr. SPECIES
-=======
+# Agaricus corneus Secr. SPECIES
 
 #### Status
 ACCEPTED

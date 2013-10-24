@@ -1,5 +1,4 @@
-Coprinus sylvicola Bogart SPECIES
-=======
+# Coprinus sylvicola Bogart SPECIES
 
 #### Status
 ACCEPTED

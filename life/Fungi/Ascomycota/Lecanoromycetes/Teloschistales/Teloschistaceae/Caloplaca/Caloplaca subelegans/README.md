@@ -1,5 +1,4 @@
-Caloplaca subelegans (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca subelegans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

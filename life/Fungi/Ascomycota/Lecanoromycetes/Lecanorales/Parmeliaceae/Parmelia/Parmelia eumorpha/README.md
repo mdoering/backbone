@@ -1,5 +1,4 @@
-Parmelia eumorpha Hepp SPECIES
-=======
+# Parmelia eumorpha Hepp SPECIES
 
 #### Status
 ACCEPTED

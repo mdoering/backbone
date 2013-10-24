@@ -1,5 +1,4 @@
-Russula costaricensis Singer SPECIES
-=======
+# Russula costaricensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophophaera Bütschli, 1881 GENUS
-=======
+# Lophophaera Bütschli, 1881 GENUS
 
 #### Status
 ACCEPTED

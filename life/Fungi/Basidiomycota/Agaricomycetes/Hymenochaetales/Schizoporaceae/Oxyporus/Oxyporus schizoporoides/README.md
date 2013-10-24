@@ -1,5 +1,4 @@
-Oxyporus schizoporoides Zmitr. & Spirin, 2003 SPECIES
-=======
+# Oxyporus schizoporoides Zmitr. & Spirin, 2003 SPECIES
 
 #### Status
 ACCEPTED

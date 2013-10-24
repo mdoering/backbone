@@ -1,5 +1,4 @@
-Calycina sordida (W. Phillips) Kuntze SPECIES
-=======
+# Calycina sordida (W. Phillips) Kuntze SPECIES
 
 #### Status
 ACCEPTED

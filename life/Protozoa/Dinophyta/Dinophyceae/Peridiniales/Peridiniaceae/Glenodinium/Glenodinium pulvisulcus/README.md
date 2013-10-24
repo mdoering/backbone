@@ -1,5 +1,4 @@
-Glenodinium pulvisulcus Ehr Stein SPECIES
-=======
+# Glenodinium pulvisulcus Ehr Stein SPECIES
 
 #### Status
 ACCEPTED

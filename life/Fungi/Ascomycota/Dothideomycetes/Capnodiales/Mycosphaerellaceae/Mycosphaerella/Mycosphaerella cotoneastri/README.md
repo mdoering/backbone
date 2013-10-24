@@ -1,5 +1,4 @@
-Mycosphaerella cotoneastri Dzhalag. SPECIES
-=======
+# Mycosphaerella cotoneastri Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

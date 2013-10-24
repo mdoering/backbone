@@ -1,5 +1,4 @@
-Rhabdospora bolivarii Gonz. Frag. SPECIES
-=======
+# Rhabdospora bolivarii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

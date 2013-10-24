@@ -1,5 +1,4 @@
-Clathrocorys giltschii Haeckel, 1887 SPECIES
-=======
+# Clathrocorys giltschii Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

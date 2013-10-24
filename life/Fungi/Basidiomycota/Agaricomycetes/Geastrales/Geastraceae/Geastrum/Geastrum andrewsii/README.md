@@ -1,5 +1,4 @@
-Geastrum andrewsii V.H. Blackman SPECIES
-=======
+# Geastrum andrewsii V.H. Blackman SPECIES
 
 #### Status
 ACCEPTED

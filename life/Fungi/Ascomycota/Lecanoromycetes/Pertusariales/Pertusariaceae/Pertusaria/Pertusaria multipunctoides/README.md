@@ -1,5 +1,4 @@
-Pertusaria multipunctoides Dibben SPECIES
-=======
+# Pertusaria multipunctoides Dibben SPECIES
 
 #### Status
 ACCEPTED

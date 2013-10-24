@@ -1,5 +1,4 @@
-Gloeocystidiellum sinuosum G.W. Freeman SPECIES
-=======
+# Gloeocystidiellum sinuosum G.W. Freeman SPECIES
 
 #### Status
 ACCEPTED

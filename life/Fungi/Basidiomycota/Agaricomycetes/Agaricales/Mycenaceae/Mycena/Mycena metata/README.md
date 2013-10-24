@@ -1,17 +1,16 @@
-Mycena metata f. metata FORM
-=======
+# Mycena metata (Secr. ex Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 109 (1871)
 
 #### Original name
-null
+Agaricus metatus Secr. ex Fr., 1821
 
 ### Remarks
 null

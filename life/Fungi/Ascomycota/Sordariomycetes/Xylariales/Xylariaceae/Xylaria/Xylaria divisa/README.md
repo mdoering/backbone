@@ -1,5 +1,4 @@
-Xylaria divisa Lloyd SPECIES
-=======
+# Xylaria divisa Lloyd SPECIES
 
 #### Status
 ACCEPTED

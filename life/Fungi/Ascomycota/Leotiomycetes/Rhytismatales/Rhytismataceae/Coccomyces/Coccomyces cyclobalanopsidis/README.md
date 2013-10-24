@@ -1,17 +1,16 @@
-Coccomyces cyclobalanopsis Y.R. Lin & Z.Z. Li SPECIES
-=======
+# Coccomyces cyclobalanopsidis Y.R. Lin & Z.Z. Li, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lin, Li, Huang & Xiang, Mycosystema 19(3): 297 (2000)
 
 #### Original name
-Coccomyces cyclobalanopsis Y.R. Lin & Z.Z. Li
+Coccomyces cyclobalanopsidis Y.R. Lin & Z.Z. Li, 2000
 
 ### Remarks
 null

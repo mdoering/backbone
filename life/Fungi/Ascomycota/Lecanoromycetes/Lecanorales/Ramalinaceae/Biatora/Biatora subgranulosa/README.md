@@ -1,5 +1,4 @@
-Biatora subgranulosa Tuck. SPECIES
-=======
+# Biatora subgranulosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

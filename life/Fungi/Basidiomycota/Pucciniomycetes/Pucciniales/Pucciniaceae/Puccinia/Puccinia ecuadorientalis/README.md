@@ -1,5 +1,4 @@
-Puccinia ecuadorientalis Berndt SPECIES
-=======
+# Puccinia ecuadorientalis Berndt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skierka canarii Racib., 1900 SPECIES
-=======
+# Skierka canarii Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

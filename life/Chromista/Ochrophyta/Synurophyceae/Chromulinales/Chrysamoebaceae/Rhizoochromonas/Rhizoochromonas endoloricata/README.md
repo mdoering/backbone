@@ -1,5 +1,4 @@
-Rhizoochromonas endoloricata K. H. Nicholls SPECIES
-=======
+# Rhizoochromonas endoloricata K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

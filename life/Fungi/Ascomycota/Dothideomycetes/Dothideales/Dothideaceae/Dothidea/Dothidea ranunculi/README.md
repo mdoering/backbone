@@ -1,17 +1,16 @@
-Ascospora ranunculi (Fr.) Kuntze SPECIES
-=======
+# Dothidea ranunculi Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 444 (1898)
+null
 
 #### Original name
-Stigmatea ranunculi (Fr.) Fr., 1849
+null
 
 ### Remarks
 null

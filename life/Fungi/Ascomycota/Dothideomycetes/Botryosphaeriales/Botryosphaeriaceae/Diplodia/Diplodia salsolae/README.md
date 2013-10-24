@@ -1,5 +1,4 @@
-Diplodia salsolae Szembel SPECIES
-=======
+# Diplodia salsolae Szembel SPECIES
 
 #### Status
 ACCEPTED

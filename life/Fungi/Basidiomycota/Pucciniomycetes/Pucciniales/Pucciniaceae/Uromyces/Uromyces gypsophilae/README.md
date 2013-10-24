@@ -1,5 +1,4 @@
-Uromyces gypsophilae Cooke SPECIES
-=======
+# Uromyces gypsophilae Cooke SPECIES
 
 #### Status
 ACCEPTED

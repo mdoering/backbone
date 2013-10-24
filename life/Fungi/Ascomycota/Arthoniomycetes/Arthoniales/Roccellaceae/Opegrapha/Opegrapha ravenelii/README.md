@@ -1,5 +1,4 @@
-Opegrapha ravenelii (Tuck.) Tehler SPECIES
-=======
+# Opegrapha ravenelii (Tuck.) Tehler SPECIES
 
 #### Status
 ACCEPTED

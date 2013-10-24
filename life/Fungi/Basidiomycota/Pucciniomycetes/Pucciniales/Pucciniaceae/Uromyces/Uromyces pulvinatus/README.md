@@ -1,5 +1,4 @@
-Uromyces pulvinatus Kalchbr. & Cooke SPECIES
-=======
+# Uromyces pulvinatus Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

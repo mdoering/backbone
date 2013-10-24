@@ -1,5 +1,4 @@
-Globulina ingae Pat. SPECIES
-=======
+# Globulina ingae Pat. SPECIES
 
 #### Status
 ACCEPTED

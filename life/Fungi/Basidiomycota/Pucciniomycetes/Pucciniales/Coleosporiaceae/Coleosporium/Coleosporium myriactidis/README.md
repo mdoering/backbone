@@ -1,5 +1,4 @@
-Coleosporium myriactidis Syd. SPECIES
-=======
+# Coleosporium myriactidis Syd. SPECIES
 
 #### Status
 ACCEPTED

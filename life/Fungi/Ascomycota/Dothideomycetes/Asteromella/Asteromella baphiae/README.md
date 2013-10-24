@@ -1,5 +1,4 @@
-Asteromella baphiae (Novoss.) Aa & Vanev SPECIES
-=======
+# Asteromella baphiae (Novoss.) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora septata (Romell) Maire SPECIES
-=======
+# Phloeospora septata (Romell) Maire SPECIES
 
 #### Status
 ACCEPTED

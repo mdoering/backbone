@@ -1,5 +1,4 @@
-Trypethelium exasperatum (Zenker) Zahlbr. SPECIES
-=======
+# Trypethelium exasperatum (Zenker) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

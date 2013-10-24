@@ -1,5 +1,4 @@
-Dicapnuchosphaera Tekin, 1999 GENUS
-=======
+# Dicapnuchosphaera Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

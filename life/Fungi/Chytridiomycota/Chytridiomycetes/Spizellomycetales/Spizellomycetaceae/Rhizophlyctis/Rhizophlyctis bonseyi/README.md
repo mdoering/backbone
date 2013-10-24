@@ -1,5 +1,4 @@
-Rhizophlyctis bonseyi Sparrow, 1965 SPECIES
-=======
+# Rhizophlyctis bonseyi Sparrow, 1965 SPECIES
 
 #### Status
 ACCEPTED

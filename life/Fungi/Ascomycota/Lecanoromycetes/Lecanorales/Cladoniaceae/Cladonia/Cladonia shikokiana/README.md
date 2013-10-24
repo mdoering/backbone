@@ -1,5 +1,4 @@
-Cladonia shikokiana Asahina SPECIES
-=======
+# Cladonia shikokiana Asahina SPECIES
 
 #### Status
 ACCEPTED

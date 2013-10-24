@@ -1,5 +1,4 @@
-Xylaria columnifera Mont. SPECIES
-=======
+# Xylaria columnifera Mont. SPECIES
 
 #### Status
 ACCEPTED

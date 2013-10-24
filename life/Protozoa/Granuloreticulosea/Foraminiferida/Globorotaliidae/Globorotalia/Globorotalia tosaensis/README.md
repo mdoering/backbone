@@ -1,5 +1,4 @@
-Globorotalia tosaensis SPECIES
-=======
+# Globorotalia tosaensis SPECIES
 
 #### Status
 ACCEPTED

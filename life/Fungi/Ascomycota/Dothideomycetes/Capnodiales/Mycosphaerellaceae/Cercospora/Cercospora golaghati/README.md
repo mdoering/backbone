@@ -1,17 +1,16 @@
-Cercospora golaghatii Saikia & A.K. Sarbhoy SPECIES
-=======
+# Cercospora golaghati Saikia & A.K. Sarbhoy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 49(21): 830 (1980)
 
 #### Original name
-Cercospora golaghatii Saikia & A.K. Sarbhoy
+Cercospora golaghati Saikia & A.K. Sarbhoy
 
 ### Remarks
 null

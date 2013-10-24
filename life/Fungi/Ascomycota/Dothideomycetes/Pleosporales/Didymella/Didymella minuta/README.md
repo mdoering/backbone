@@ -1,5 +1,4 @@
-Didymella minuta M.L. Farr SPECIES
-=======
+# Didymella minuta M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

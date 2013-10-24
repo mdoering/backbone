@@ -1,5 +1,4 @@
-Agaricus flavofloccosus Batsch SPECIES
-=======
+# Agaricus flavofloccosus Batsch SPECIES
 
 #### Status
 ACCEPTED

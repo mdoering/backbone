@@ -1,5 +1,4 @@
-Quasiconcha reticulata M.E. Barr & M. Blackw., 1981 SPECIES
-=======
+# Quasiconcha reticulata M.E. Barr & M. Blackw., 1981 SPECIES
 
 #### Status
 ACCEPTED

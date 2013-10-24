@@ -1,5 +1,4 @@
-Cephalosporium roseum Oudem. SPECIES
-=======
+# Cephalosporium roseum Oudem. SPECIES
 
 #### Status
 ACCEPTED

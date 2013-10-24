@@ -1,5 +1,4 @@
-Ellipsoidina ellipsoides Seguenza, 1859 SPECIES
-=======
+# Ellipsoidina ellipsoides Seguenza, 1859 SPECIES
 
 #### Status
 ACCEPTED

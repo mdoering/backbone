@@ -1,5 +1,4 @@
-Mycena minya Grgur. SPECIES
-=======
+# Mycena minya Grgur. SPECIES
 
 #### Status
 ACCEPTED

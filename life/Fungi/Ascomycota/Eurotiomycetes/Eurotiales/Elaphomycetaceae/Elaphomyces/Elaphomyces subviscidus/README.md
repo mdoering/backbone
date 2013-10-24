@@ -1,5 +1,4 @@
-Elaphomyces subviscidus (Zeller) Trappe & Guzmán SPECIES
-=======
+# Elaphomyces subviscidus (Zeller) Trappe & Guzmán SPECIES
 
 #### Status
 ACCEPTED

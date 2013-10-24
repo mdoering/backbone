@@ -1,5 +1,4 @@
-Strickeria calligoni Kravtzev SPECIES
-=======
+# Strickeria calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

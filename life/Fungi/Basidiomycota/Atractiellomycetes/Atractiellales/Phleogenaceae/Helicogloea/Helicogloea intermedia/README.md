@@ -1,5 +1,4 @@
-Helicogloea intermedia (Linder) G.E. Baker SPECIES
-=======
+# Helicogloea intermedia (Linder) G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria spilophaena (Kremp.) Hellb. SPECIES
-=======
+# Segestria spilophaena (Kremp.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

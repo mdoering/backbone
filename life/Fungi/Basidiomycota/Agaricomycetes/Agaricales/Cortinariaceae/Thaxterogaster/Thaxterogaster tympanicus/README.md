@@ -1,5 +1,4 @@
-Thaxterogaster tympanicus E. Horak SPECIES
-=======
+# Thaxterogaster tympanicus E. Horak SPECIES
 
 #### Status
 ACCEPTED

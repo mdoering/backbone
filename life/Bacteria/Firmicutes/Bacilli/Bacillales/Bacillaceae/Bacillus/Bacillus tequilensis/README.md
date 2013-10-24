@@ -1,5 +1,4 @@
-Bacillus tequilensis Gatson et al., 2006 SPECIES
-=======
+# Bacillus tequilensis Gatson et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

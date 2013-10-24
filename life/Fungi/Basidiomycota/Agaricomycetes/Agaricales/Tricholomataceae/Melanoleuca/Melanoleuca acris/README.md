@@ -1,5 +1,4 @@
-Melanoleuca acris (Peck) Murrill SPECIES
-=======
+# Melanoleuca acris (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza pusio Berk. & M.A. Curtis SPECIES
-=======
+# Peziza pusio Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

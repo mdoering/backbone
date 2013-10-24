@@ -1,5 +1,4 @@
-Belonaspis Haeckel, 1881 GENUS
-=======
+# Belonaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

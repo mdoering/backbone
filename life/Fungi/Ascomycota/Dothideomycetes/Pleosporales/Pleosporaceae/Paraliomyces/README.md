@@ -1,5 +1,4 @@
-Paraliomyces Kohlm. GENUS
-=======
+# Paraliomyces Kohlm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stropharia ealeansis Beeli SPECIES
-=======
+# Stropharia ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 91 (1928)
 
 #### Original name
-Stropharia ealeansis Beeli
+Stropharia ealaensis Beeli
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stypopodium atomarium var. ciliatum (C. Agardh) Kützing VARIETY
-=======
+# Stypopodium atomarium (Woodward) Kützing SPECIES
 
 #### Status
 ACCEPTED

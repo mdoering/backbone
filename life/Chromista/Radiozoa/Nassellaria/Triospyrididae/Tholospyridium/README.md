@@ -1,5 +1,4 @@
-Tholospyridium Haeckel, 1887 GENUS
-=======
+# Tholospyridium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

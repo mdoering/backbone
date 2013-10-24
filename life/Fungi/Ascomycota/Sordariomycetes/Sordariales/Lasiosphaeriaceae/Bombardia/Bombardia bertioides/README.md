@@ -1,5 +1,4 @@
-Bombardia bertioides Ces. SPECIES
-=======
+# Bombardia bertioides Ces. SPECIES
 
 #### Status
 ACCEPTED

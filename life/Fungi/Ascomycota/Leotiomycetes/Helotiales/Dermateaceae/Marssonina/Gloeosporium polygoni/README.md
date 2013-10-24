@@ -1,5 +1,4 @@
-Gloeosporium polygoni Dearn. & House SPECIES
-=======
+# Gloeosporium polygoni Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

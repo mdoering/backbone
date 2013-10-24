@@ -1,5 +1,4 @@
-Entoloma amicorum Noordel. SPECIES
-=======
+# Entoloma amicorum Noordel. SPECIES
 
 #### Status
 ACCEPTED

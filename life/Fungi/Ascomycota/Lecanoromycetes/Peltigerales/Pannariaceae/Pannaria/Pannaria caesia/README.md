@@ -1,5 +1,4 @@
-Pannaria caesia (Ach.) Nyl. SPECIES
-=======
+# Pannaria caesia (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

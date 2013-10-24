@@ -1,5 +1,4 @@
-Clavaria swartzii Dalm. {?} SPECIES
-=======
+# Clavaria swartzii Dalm. {?} SPECIES
 
 #### Status
 ACCEPTED

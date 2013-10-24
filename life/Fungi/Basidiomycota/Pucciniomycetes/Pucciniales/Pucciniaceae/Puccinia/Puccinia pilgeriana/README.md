@@ -1,5 +1,4 @@
-Puccinia pilgeriana Henn. SPECIES
-=======
+# Puccinia pilgeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

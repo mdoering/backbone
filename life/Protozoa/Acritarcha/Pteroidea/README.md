@@ -1,5 +1,4 @@
-Pteroidea L.I. Sheshegova, 1975 GENUS
-=======
+# Pteroidea L.I. Sheshegova, 1975 GENUS
 
 #### Status
 ACCEPTED

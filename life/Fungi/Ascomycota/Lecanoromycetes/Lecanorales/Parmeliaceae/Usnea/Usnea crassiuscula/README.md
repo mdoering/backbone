@@ -1,5 +1,4 @@
-Usnea crassiuscula Chao {?}, Hsa {?} & Sun {?} SPECIES
-=======
+# Usnea crassiuscula Chao {?}, Hsa {?} & Sun {?} SPECIES
 
 #### Status
 ACCEPTED

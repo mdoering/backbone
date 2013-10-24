@@ -1,5 +1,4 @@
-Phoma caudata Dearn. & Overh. SPECIES
-=======
+# Phoma caudata Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microthyrium arcticum Oudem. SPECIES
-=======
+# Ronnigeria arctica (Oudem.) Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 1(4-6): 310 (1947)
 
 #### Original name
 Microthyrium arcticum Oudem.

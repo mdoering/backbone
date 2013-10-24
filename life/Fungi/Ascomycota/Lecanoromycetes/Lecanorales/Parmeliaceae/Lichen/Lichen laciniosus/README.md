@@ -1,5 +1,4 @@
-Lichen laciniosus J.F. Gmel. SPECIES
-=======
+# Lichen laciniosus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

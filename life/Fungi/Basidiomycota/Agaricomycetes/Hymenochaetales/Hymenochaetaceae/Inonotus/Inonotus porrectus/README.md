@@ -1,14 +1,13 @@
-Polyporus porrectus (Murrill) Sacc. & Trotter, 1925 SPECIES
-=======
+# Inonotus porrectus Murrill, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 374 (1925)
+Tropical Polypores 68 (1915)
 
 #### Original name
 Inonotus porrectus Murrill, 1915

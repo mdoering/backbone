@@ -1,5 +1,4 @@
-Agaricus fulvotomentosus Peck SPECIES
-=======
+# Agaricus fulvotomentosus Peck SPECIES
 
 #### Status
 ACCEPTED

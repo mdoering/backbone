@@ -1,5 +1,4 @@
-Pertusaria trypetheliiformis Nyl. SPECIES
-=======
+# Pertusaria trypetheliiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

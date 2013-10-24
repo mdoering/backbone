@@ -1,5 +1,4 @@
-Endoreticulatus bombycis M.H. Pan, Y.J. Wan, C. Lu, Z.Y. Zhou & Z.H. Xiang SPECIES
-=======
+# Endoreticulatus bombycis M.H. Pan, Y.J. Wan, C. Lu, Z.Y. Zhou & Z.H. Xiang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria verruculosa (Niessl) Penz. SPECIES
-=======
+# Nectria verruculosa (Niessl) Penz. SPECIES
 
 #### Status
 ACCEPTED

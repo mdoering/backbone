@@ -1,5 +1,4 @@
-Pertusaria pulvereosulphurata Harm. SPECIES
-=======
+# Pertusaria pulvereosulphurata Harm. SPECIES
 
 #### Status
 ACCEPTED

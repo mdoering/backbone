@@ -1,5 +1,4 @@
-Perenniporia piceicola Y.C. Dai SPECIES
-=======
+# Perenniporia piceicola Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

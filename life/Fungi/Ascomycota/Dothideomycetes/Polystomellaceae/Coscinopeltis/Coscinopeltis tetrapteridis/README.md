@@ -1,5 +1,4 @@
-Coscinopeltis tetrapteridis Chardón SPECIES
-=======
+# Coscinopeltis tetrapteridis Chardón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus fimbriatophyllus Kauffman SPECIES
-=======
+# Hygrophorus fimbriatophyllus Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus mullaunius Grgur. SPECIES
-=======
+# Gymnopilus mullaunius Grgur. SPECIES
 
 #### Status
 ACCEPTED

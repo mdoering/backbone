@@ -1,5 +1,4 @@
-Petractis gyalectoides (A. Massal.) Hazsl. SPECIES
-=======
+# Petractis gyalectoides (A. Massal.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

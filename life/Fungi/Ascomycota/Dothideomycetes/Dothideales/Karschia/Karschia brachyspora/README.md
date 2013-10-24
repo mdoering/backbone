@@ -1,5 +1,4 @@
-Karschia brachyspora (Müll. Arg.) Vouaux SPECIES
-=======
+# Karschia brachyspora (Müll. Arg.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

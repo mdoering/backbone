@@ -1,5 +1,4 @@
-Psychrobacter immobilis Juni & Heym, 1986 SPECIES
-=======
+# Psychrobacter immobilis Juni & Heym, 1986 SPECIES
 
 #### Status
 ACCEPTED

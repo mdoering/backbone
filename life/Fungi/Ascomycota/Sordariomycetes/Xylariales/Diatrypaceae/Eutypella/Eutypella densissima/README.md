@@ -1,5 +1,4 @@
-Eutypella densissima Ellis & Everh. SPECIES
-=======
+# Eutypella densissima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatosporella albomaculans Tak. Kobay. & K. Sasaki, 1982 SPECIES
-=======
+# Phomatosporella albomaculans Tak. Kobay. & K. Sasaki, 1982 SPECIES
 
 #### Status
 ACCEPTED

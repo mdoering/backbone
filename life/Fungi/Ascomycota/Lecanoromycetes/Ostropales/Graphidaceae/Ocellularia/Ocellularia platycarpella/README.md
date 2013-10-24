@@ -1,5 +1,4 @@
-Ocellularia platycarpella (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia platycarpella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

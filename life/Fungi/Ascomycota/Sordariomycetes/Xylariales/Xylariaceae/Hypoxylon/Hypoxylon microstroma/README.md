@@ -1,5 +1,4 @@
-Hypoxylon microstroma Penz. & Sacc. SPECIES
-=======
+# Hypoxylon microstroma Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

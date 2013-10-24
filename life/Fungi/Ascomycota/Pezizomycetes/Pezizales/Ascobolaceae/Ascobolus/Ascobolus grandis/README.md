@@ -1,5 +1,4 @@
-Ascobolus grandis Velen. SPECIES
-=======
+# Ascobolus grandis Velen. SPECIES
 
 #### Status
 ACCEPTED

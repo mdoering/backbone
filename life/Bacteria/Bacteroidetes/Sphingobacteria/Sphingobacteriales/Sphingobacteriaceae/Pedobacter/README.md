@@ -1,5 +1,4 @@
-Pedobacter Steyn et al., 1998 GENUS
-=======
+# Pedobacter Steyn et al., 1998 GENUS
 
 #### Status
 ACCEPTED

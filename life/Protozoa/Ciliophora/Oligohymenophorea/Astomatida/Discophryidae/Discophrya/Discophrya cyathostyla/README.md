@@ -1,5 +1,4 @@
-Discophrya cyathostyla Matthes, 1954 SPECIES
-=======
+# Discophrya cyathostyla Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

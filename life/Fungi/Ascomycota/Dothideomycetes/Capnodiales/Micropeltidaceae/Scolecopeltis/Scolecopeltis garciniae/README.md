@@ -1,5 +1,4 @@
-Scolecopeltis garciniae Rehm SPECIES
-=======
+# Scolecopeltis garciniae Rehm SPECIES
 
 #### Status
 ACCEPTED

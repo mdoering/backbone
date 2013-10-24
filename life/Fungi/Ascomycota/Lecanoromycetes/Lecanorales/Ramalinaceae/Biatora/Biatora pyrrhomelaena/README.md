@@ -1,5 +1,4 @@
-Biatora pyrrhomelaena Tuck. SPECIES
-=======
+# Biatora pyrrhomelaena Tuck. SPECIES
 
 #### Status
 ACCEPTED

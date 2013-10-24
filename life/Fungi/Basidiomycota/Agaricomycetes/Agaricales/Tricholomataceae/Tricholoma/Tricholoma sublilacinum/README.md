@@ -1,5 +1,4 @@
-Tricholoma sublilacinum Cleland SPECIES
-=======
+# Tricholoma sublilacinum Cleland SPECIES
 
 #### Status
 ACCEPTED

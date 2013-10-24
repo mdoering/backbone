@@ -1,5 +1,4 @@
-Parasterina tayabensis (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina tayabensis (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

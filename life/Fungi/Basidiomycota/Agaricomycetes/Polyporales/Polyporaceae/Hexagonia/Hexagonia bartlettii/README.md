@@ -1,5 +1,4 @@
-Hexagonia bartlettii Massee SPECIES
-=======
+# Hexagonia bartlettii Massee SPECIES
 
 #### Status
 ACCEPTED

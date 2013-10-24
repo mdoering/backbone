@@ -1,5 +1,4 @@
-Thecamoeba orbis Schaeffer SPECIES
-=======
+# Thecamoeba orbis Schaeffer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola baccharidis Berk. & Ravenel SPECIES
-=======
+# Meliola baccharidis Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

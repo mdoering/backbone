@@ -1,5 +1,4 @@
-Meliola cluytiae Van der Byl SPECIES
-=======
+# Meliola cluytiae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

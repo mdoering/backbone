@@ -1,5 +1,4 @@
-Aithaloderma ferrugineum L.R. Fraser SPECIES
-=======
+# Aithaloderma ferrugineum L.R. Fraser SPECIES
 
 #### Status
 ACCEPTED

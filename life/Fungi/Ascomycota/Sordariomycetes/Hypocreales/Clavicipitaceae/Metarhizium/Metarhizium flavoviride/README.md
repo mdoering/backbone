@@ -1,17 +1,16 @@
-Metarhizium flavoviride var. pemphigum Driver & Milner VARIETY
-=======
+# Metarhizium flavoviride W. Gams & Rozsypal, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta bot. neerl. 22(5): 519 (1973)
 
 #### Original name
-Metarhizium flavoviride var. pemphigum Driver & Milner
+Metarhizium flavoviride W. Gams & Rozsypal, 1973
 
 ### Remarks
 null

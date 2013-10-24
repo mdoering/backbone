@@ -1,5 +1,4 @@
-Plicaria fechtneri Velen. SPECIES
-=======
+# Plicaria fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

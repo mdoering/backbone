@@ -1,5 +1,4 @@
-Agaricus guachari Calonge & Esteve-Rav. SPECIES
-=======
+# Agaricus guachari Calonge & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

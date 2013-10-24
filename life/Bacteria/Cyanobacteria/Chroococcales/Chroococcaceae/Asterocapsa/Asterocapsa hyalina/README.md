@@ -1,5 +1,4 @@
-Asterocapsa hyalina Chu SPECIES
-=======
+# Asterocapsa hyalina Chu SPECIES
 
 #### Status
 ACCEPTED

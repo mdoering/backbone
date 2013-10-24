@@ -1,5 +1,4 @@
-Micromastia Speg. GENUS
-=======
+# Micromastia Speg. GENUS
 
 #### Status
 ACCEPTED

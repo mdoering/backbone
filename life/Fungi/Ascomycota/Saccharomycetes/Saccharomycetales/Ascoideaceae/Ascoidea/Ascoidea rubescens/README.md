@@ -1,5 +1,4 @@
-Ascoidea rubescens. Bref., 1891 SPECIES
-=======
+# Ascoidea rubescens. Bref., 1891 SPECIES
 
 #### Status
 ACCEPTED

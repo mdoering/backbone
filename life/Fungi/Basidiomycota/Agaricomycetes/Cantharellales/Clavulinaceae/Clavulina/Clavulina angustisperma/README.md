@@ -1,5 +1,4 @@
-Clavulina angustisperma Singer SPECIES
-=======
+# Clavulina angustisperma Singer SPECIES
 
 #### Status
 ACCEPTED

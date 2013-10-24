@@ -1,5 +1,4 @@
-Cortinarius langeorum Frøslev & T.S. Jeppesen SPECIES
-=======
+# Cortinarius langeorum Frøslev & T.S. Jeppesen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma poolensis var. poolensis VARIETY
-=======
+# Phoma poolensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Phoma poolensis var. poolensis
+null
 
 ### Remarks
 null

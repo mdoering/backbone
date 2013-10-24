@@ -1,5 +1,4 @@
-Mycosphaerella spiraeae Woron. SPECIES
-=======
+# Mycosphaerella spiraeae Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pololeptus Yin in Leiming Yin & Weiguo Sun, 1994 GENUS
-=======
+# Pololeptus Yin in Leiming Yin & Weiguo Sun, 1994 GENUS
 
 #### Status
 ACCEPTED

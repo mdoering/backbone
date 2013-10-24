@@ -1,5 +1,4 @@
-Cercidospora arthroraphidicola Alstrup SPECIES
-=======
+# Cercidospora arthroraphidicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

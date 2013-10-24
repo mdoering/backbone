@@ -1,5 +1,4 @@
-Geotrichoides lambarenensis Sartory, R. Sartory, J. Mey. & Walter SPECIES
-=======
+# Geotrichoides lambarenensis Sartory, R. Sartory, J. Mey. & Walter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora hydrophila Sommerf. SPECIES
-=======
+# Lecanora hydrophila Sommerf. SPECIES
 
 #### Status
 ACCEPTED

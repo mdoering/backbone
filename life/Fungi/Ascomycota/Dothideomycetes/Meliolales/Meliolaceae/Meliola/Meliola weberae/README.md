@@ -1,5 +1,4 @@
-Meliola weberae J.N. Kapoor SPECIES
-=======
+# Meliola weberae J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

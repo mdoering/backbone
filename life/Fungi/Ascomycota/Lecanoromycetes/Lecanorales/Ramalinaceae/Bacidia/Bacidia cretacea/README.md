@@ -1,5 +1,4 @@
-Bacidia cretacea Zschacke SPECIES
-=======
+# Bacidia cretacea Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endosporisorium pachycarpum (Syd.) Vánky SPECIES
-=======
+# Endosporisorium pachycarpum (Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

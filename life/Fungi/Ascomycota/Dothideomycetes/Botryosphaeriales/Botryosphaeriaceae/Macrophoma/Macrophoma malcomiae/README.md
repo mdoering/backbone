@@ -1,5 +1,4 @@
-Macrophoma malcomiae (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma malcomiae (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

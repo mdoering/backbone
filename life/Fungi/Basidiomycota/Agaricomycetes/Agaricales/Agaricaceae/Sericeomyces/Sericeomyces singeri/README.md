@@ -1,5 +1,4 @@
-Sericeomyces singeri Bon SPECIES
-=======
+# Sericeomyces singeri Bon SPECIES
 
 #### Status
 ACCEPTED

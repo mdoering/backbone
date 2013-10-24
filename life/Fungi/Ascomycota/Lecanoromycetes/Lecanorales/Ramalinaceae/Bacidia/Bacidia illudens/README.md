@@ -1,5 +1,4 @@
-Bacidia illudens (Nyl.) Lynge SPECIES
-=======
+# Bacidia illudens (Nyl.) Lynge SPECIES
 
 #### Status
 ACCEPTED

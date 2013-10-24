@@ -1,5 +1,4 @@
-Cochlonema explicatum Drechsler, 1951 SPECIES
-=======
+# Cochlonema explicatum Drechsler, 1951 SPECIES
 
 #### Status
 ACCEPTED

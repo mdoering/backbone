@@ -1,5 +1,4 @@
-Phloeospora salicifoliae (Trel.) Petr. SPECIES
-=======
+# Phloeospora salicifoliae (Trel.) Petr. SPECIES
 
 #### Status
 ACCEPTED

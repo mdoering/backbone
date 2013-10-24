@@ -1,5 +1,4 @@
-Gramocysta Lund & Lund-Christensen in Daniels et al., 1990 GENUS
-=======
+# Gramocysta Lund & Lund-Christensen in Daniels et al., 1990 GENUS
 
 #### Status
 ACCEPTED

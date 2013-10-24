@@ -1,5 +1,4 @@
-Ascochyta syringae Bres., 1921 SPECIES
-=======
+# Ascochyta syringae Bres., 1921 SPECIES
 
 #### Status
 ACCEPTED

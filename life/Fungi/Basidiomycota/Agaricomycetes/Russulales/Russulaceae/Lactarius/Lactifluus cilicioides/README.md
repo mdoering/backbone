@@ -1,5 +1,4 @@
-Lactifluus cilicioides (Fr.) Kuntze SPECIES
-=======
+# Lactifluus cilicioides (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

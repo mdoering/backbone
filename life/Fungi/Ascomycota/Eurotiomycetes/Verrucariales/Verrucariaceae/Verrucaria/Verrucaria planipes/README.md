@@ -1,5 +1,4 @@
-Verrucaria planipes (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria planipes (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

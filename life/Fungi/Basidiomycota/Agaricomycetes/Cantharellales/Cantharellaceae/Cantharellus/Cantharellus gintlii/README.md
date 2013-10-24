@@ -1,5 +1,4 @@
-Cantharellus gintlii Velen. SPECIES
-=======
+# Cantharellus gintlii Velen. SPECIES
 
 #### Status
 ACCEPTED

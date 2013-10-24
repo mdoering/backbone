@@ -1,5 +1,4 @@
-Streptomyces nodosus Trejo, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces nodosus Trejo, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

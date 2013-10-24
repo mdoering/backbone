@@ -1,5 +1,4 @@
-Chaetarthriomyces spiralis Santam. SPECIES
-=======
+# Chaetarthriomyces spiralis Santam. SPECIES
 
 #### Status
 ACCEPTED

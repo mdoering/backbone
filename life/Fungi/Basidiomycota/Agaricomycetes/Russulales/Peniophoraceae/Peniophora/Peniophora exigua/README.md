@@ -1,5 +1,4 @@
-Peniophora exigua Burt SPECIES
-=======
+# Peniophora exigua Burt SPECIES
 
 #### Status
 ACCEPTED

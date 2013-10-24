@@ -1,5 +1,4 @@
-Parmotrema xanthopustulatum Elix & T.H. Nash SPECIES
-=======
+# Parmotrema xanthopustulatum Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

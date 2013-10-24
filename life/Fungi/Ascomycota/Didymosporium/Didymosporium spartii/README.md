@@ -1,5 +1,4 @@
-Didymosporium spartii Sousa da Câmara & Luz SPECIES
-=======
+# Didymosporium spartii Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

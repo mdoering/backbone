@@ -1,5 +1,4 @@
-Theocorythidae FAMILY
-=======
+# Theocorythidae FAMILY
 
 #### Status
 ACCEPTED

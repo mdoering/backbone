@@ -1,5 +1,4 @@
-Micrantholithus Deflandre GENUS
-=======
+# Micrantholithus Deflandre GENUS
 
 #### Status
 ACCEPTED

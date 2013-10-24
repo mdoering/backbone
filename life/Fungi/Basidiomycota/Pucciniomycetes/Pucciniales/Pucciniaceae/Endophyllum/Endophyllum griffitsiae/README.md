@@ -1,5 +1,4 @@
-Endophyllum griffitsiae Racib. SPECIES
-=======
+# Endophyllum griffitsiae Racib. SPECIES
 
 #### Status
 ACCEPTED

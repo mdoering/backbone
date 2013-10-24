@@ -1,5 +1,4 @@
-Dothiorella boussingaultiae (Syd. & E.J. Butler) Syd. SPECIES
-=======
+# Dothiorella boussingaultiae (Syd. & E.J. Butler) Syd. SPECIES
 
 #### Status
 ACCEPTED

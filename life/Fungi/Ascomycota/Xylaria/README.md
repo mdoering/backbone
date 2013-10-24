@@ -1,5 +1,4 @@
-Xylaria J. Hill ex S.F. Gray, 1821 GENUS
-=======
+# Xylaria J. Hill ex S.F. Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

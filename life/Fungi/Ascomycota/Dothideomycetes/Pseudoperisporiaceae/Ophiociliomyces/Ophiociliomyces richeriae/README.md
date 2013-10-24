@@ -1,5 +1,4 @@
-Ophiociliomyces richeriae Bat. SPECIES
-=======
+# Ophiociliomyces richeriae Bat. SPECIES
 
 #### Status
 ACCEPTED

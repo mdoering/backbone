@@ -1,5 +1,4 @@
-Blepharisma sinosum Sawaya, 1940 SPECIES
-=======
+# Blepharisma sinosum Sawaya, 1940 SPECIES
 
 #### Status
 ACCEPTED

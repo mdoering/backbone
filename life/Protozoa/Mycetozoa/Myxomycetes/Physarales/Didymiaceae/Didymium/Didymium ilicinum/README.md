@@ -1,5 +1,4 @@
-Didymium ilicinum Ing SPECIES
-=======
+# Didymium ilicinum Ing SPECIES
 
 #### Status
 ACCEPTED

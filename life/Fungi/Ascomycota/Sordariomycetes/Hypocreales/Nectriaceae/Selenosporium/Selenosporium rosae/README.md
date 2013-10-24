@@ -1,5 +1,4 @@
-Selenosporium rosae Preuss SPECIES
-=======
+# Selenosporium rosae Preuss SPECIES
 
 #### Status
 ACCEPTED

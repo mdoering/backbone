@@ -1,5 +1,4 @@
-Fomes resupinatus Massee SPECIES
-=======
+# Fomes resupinatus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coemansia linderi Kwasna, M.J. Richardson & G.L. Bateman, 2002 SPECIES
-=======
+# Coemansia linderi Kwasna, M.J. Richardson & G.L. Bateman, 2002 SPECIES
 
 #### Status
 ACCEPTED

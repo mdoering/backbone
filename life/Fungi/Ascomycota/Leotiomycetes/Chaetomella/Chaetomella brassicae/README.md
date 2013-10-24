@@ -1,5 +1,4 @@
-Chaetomella brassicae (Schwein.) Starbäck SPECIES
-=======
+# Chaetomella brassicae (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa caldariorum Rabenhorst SPECIES
-=======
+# Gloeocapsa caldariorum Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

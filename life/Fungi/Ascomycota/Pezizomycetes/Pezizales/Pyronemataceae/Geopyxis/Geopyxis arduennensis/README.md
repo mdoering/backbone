@@ -1,5 +1,4 @@
-Geopyxis arduennensis (Marchal & É.J. Marchal) Sacc. SPECIES
-=======
+# Geopyxis arduennensis (Marchal & É.J. Marchal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella andrewsii (Sacc.) Davis SPECIES
-=======
+# Mycosphaerella andrewsii (Sacc.) Davis SPECIES
 
 #### Status
 ACCEPTED

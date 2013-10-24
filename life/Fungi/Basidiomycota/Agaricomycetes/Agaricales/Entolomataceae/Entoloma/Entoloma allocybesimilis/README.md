@@ -1,5 +1,4 @@
-Entoloma allocybesimilis Manim. & Noordel. SPECIES
-=======
+# Entoloma allocybesimilis Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

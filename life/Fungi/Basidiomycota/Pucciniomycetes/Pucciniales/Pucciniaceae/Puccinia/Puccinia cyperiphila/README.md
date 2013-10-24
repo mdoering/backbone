@@ -1,5 +1,4 @@
-Puccinia cyperiphila Speg. SPECIES
-=======
+# Puccinia cyperiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

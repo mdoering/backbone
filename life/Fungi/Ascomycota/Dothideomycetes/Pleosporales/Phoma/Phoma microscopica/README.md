@@ -1,5 +1,4 @@
-Phoma microscopica Sacc., 1880 SPECIES
-=======
+# Phoma microscopica Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

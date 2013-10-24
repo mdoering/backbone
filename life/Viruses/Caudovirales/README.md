@@ -1,5 +1,4 @@
-Caudovirales ORDER
-=======
+# Caudovirales ORDER
 
 #### Status
 ACCEPTED

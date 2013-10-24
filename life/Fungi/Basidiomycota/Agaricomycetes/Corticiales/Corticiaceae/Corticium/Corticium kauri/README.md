@@ -1,5 +1,4 @@
-Corticium kauri G. Cunn., 1954 SPECIES
-=======
+# Corticium kauri G. Cunn., 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nesterenkonia lacusekhoensis Collins et al., 2002 SPECIES
-=======
+# Nesterenkonia lacusekhoensis Collins et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

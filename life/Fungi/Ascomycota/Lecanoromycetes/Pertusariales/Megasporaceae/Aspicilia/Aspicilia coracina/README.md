@@ -1,5 +1,4 @@
-Aspicilia coracina (Hoffm.) Anzi SPECIES
-=======
+# Aspicilia coracina (Hoffm.) Anzi SPECIES
 
 #### Status
 ACCEPTED

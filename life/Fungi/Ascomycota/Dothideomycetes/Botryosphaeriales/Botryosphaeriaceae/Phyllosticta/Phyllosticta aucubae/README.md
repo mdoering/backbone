@@ -1,5 +1,4 @@
-Phyllosticta aucubae Sacc. & Speg., 1878 SPECIES
-=======
+# Phyllosticta aucubae Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

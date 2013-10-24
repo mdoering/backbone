@@ -1,5 +1,4 @@
-Euglena spathyrhyncha Skuja SPECIES
-=======
+# Euglena spathyrhyncha Skuja SPECIES
 
 #### Status
 ACCEPTED

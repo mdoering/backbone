@@ -1,5 +1,4 @@
-Cortinarius turbinatorum Cors. Gut. & Vila SPECIES
-=======
+# Cortinarius turbinatorum Cors. Gut. & Vila SPECIES
 
 #### Status
 ACCEPTED

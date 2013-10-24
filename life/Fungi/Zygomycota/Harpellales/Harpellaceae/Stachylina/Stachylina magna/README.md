@@ -1,5 +1,4 @@
-Stachylina magna Indoh, Lichtw. & Kobayasi, 1988 SPECIES
-=======
+# Stachylina magna Indoh, Lichtw. & Kobayasi, 1988 SPECIES
 
 #### Status
 ACCEPTED

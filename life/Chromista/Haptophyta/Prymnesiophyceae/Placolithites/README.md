@@ -1,5 +1,4 @@
-Placolithites B. ul Haq, 1971 GENUS
-=======
+# Placolithites B. ul Haq, 1971 GENUS
 
 #### Status
 ACCEPTED

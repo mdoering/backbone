@@ -1,5 +1,4 @@
-Polyschema cubense Mercado & J. Mena SPECIES
-=======
+# Polyschema cubense Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

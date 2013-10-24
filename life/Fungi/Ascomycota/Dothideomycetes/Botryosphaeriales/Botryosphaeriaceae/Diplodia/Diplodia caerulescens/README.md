@@ -1,5 +1,4 @@
-Diplodia caerulescens Pass. SPECIES
-=======
+# Diplodia caerulescens Pass. SPECIES
 
 #### Status
 ACCEPTED

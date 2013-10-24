@@ -1,5 +1,4 @@
-Inocephalus cremeoluteus Largent SPECIES
-=======
+# Inocephalus cremeoluteus Largent SPECIES
 
 #### Status
 ACCEPTED

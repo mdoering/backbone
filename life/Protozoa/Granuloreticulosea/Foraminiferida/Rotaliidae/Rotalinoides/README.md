@@ -1,5 +1,4 @@
-Rotalinoides Saidova, 1975 GENUS
-=======
+# Rotalinoides Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

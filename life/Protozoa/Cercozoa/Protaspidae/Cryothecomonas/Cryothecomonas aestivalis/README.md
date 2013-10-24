@@ -1,5 +1,4 @@
-Cryothecomonas aestivalis Drebes, Kühn & Schnepf, 1996 SPECIES
-=======
+# Cryothecomonas aestivalis Drebes, Kühn & Schnepf, 1996 SPECIES
 
 #### Status
 ACCEPTED

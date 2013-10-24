@@ -1,5 +1,4 @@
-Coelomomyces ascariformis Van Thiel SPECIES
-=======
+# Coelomomyces ascariformis Van Thiel SPECIES
 
 #### Status
 ACCEPTED

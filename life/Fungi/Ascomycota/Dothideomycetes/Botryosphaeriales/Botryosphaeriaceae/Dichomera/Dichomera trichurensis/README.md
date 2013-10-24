@@ -1,5 +1,4 @@
-Dichomera trichurensis V.G. Rao & Varghese SPECIES
-=======
+# Dichomera trichurensis V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

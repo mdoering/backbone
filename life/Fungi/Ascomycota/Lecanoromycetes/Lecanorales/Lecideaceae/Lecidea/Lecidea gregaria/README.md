@@ -1,5 +1,4 @@
-Lecidea gregaria G. Merr. SPECIES
-=======
+# Lecidea gregaria G. Merr. SPECIES
 
 #### Status
 ACCEPTED

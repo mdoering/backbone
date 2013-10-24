@@ -1,5 +1,4 @@
-Poria decorticans (Speg.) Speg. SPECIES
-=======
+# Poria decorticans (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena calangianuensis Robich SPECIES
-=======
+# Mycena calangianuensis Robich SPECIES
 
 #### Status
 ACCEPTED

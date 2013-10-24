@@ -1,5 +1,4 @@
-Celidiopsis gyrolophii Massee SPECIES
-=======
+# Celidiopsis gyrolophii Massee SPECIES
 
 #### Status
 ACCEPTED

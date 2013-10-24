@@ -1,5 +1,4 @@
-Stephanolithion atmetos SPECIES
-=======
+# Stephanolithion atmetos SPECIES
 
 #### Status
 ACCEPTED

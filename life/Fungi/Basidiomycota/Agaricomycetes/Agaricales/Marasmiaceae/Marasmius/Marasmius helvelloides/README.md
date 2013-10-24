@@ -1,5 +1,4 @@
-Marasmius helvelloides Henn. & E. Nyman SPECIES
-=======
+# Marasmius helvelloides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

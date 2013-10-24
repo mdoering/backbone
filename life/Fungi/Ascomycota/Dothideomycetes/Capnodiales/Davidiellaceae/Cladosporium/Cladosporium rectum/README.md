@@ -1,5 +1,4 @@
-Cladosporium rectum Preuss SPECIES
-=======
+# Cladosporium rectum Preuss SPECIES
 
 #### Status
 ACCEPTED

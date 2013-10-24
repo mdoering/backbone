@@ -1,14 +1,13 @@
-Gyrostomum curtisii Tuck. SPECIES
-=======
+# Baculifera curtisii (Tuck.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 119 (2000)
 
 #### Original name
 Gyrostomum curtisii Tuck.

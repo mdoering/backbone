@@ -1,5 +1,4 @@
-Bacidia rufopunctata (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia rufopunctata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

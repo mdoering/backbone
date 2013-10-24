@@ -1,5 +1,4 @@
-Leptosphaeria dianthi Kristov {?} SPECIES
-=======
+# Leptosphaeria dianthi Kristov {?} SPECIES
 
 #### Status
 ACCEPTED

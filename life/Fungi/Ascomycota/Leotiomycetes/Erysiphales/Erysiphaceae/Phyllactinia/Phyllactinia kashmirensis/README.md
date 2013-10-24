@@ -1,5 +1,4 @@
-Phyllactinia kashmirensis A.K. Sharma SPECIES
-=======
+# Phyllactinia kashmirensis A.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

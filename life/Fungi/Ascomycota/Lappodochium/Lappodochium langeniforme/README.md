@@ -1,5 +1,4 @@
-Lappodochium langeniforme Matsush., 1975 SPECIES
-=======
+# Lappodochium langeniforme Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

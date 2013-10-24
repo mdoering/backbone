@@ -1,5 +1,4 @@
-Torula heterospora Westend. SPECIES
-=======
+# Torula heterospora Westend. SPECIES
 
 #### Status
 ACCEPTED

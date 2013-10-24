@@ -1,17 +1,16 @@
-Melanotrichum Corda GENUS
-=======
+# Piedraia Fonseca & Leão GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 89 (1833)
+Mem. Inst. Oswaldo Cruz 4(Suppl. ): 125 (1928)
 
 #### Original name
-Melanotrichum Corda
+Piedraia Fonseca & Leão
 
 ### Remarks
 null

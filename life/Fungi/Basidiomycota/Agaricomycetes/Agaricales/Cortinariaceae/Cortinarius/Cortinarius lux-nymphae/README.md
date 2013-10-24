@@ -1,5 +1,4 @@
-Cortinarius lux-nymphae Melot SPECIES
-=======
+# Cortinarius lux-nymphae Melot SPECIES
 
 #### Status
 ACCEPTED

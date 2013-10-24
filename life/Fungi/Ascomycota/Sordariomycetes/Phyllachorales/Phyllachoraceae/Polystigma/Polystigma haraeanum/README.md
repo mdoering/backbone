@@ -1,5 +1,4 @@
-Polystigma haraeanum Sacc., 1912 SPECIES
-=======
+# Polystigma haraeanum Sacc., 1912 SPECIES
 
 #### Status
 ACCEPTED

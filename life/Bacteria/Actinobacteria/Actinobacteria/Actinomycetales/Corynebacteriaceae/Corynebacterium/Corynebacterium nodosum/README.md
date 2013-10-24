@@ -1,5 +1,4 @@
-Corynebacterium nodosum SPECIES
-=======
+# Corynebacterium nodosum SPECIES
 
 #### Status
 ACCEPTED

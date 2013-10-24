@@ -1,5 +1,4 @@
-Pseudopeziza atrata (Desm.) Sacc. SPECIES
-=======
+# Pseudopeziza atrata (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

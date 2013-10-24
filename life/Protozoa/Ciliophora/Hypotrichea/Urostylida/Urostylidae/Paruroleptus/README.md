@@ -1,5 +1,4 @@
-Paruroleptus Kahl, 1932 GENUS
-=======
+# Paruroleptus Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

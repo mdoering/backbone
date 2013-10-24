@@ -1,5 +1,4 @@
-Ascospora seminata (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Ascospora seminata (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

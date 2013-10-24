@@ -1,5 +1,4 @@
-Endophragmiella canadensis (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Endophragmiella canadensis (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

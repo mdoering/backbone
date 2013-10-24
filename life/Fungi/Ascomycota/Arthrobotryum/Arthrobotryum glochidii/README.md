@@ -1,5 +1,4 @@
-Arthrobotryum glochidii var. glochidii VARIETY
-=======
+# Arthrobotryum glochidii Petch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 6(3): 254 (1917)
 
 #### Original name
-Arthrobotryum glochidii var. glochidii
+Arthrobotryum glochidii Petch
 
 ### Remarks
 null

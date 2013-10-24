@@ -1,5 +1,4 @@
-Inocybe pachydermica Takah. Kobay. SPECIES
-=======
+# Inocybe pachydermica Takah. Kobay. SPECIES
 
 #### Status
 ACCEPTED

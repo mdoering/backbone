@@ -1,5 +1,4 @@
-Conusphaera sinespina SPECIES
-=======
+# Conusphaera sinespina SPECIES
 
 #### Status
 ACCEPTED

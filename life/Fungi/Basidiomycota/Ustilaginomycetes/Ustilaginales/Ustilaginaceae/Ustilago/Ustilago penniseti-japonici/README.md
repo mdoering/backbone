@@ -1,5 +1,4 @@
-Ustilago penniseti-japonici Henn. SPECIES
-=======
+# Ustilago penniseti-japonici Henn. SPECIES
 
 #### Status
 ACCEPTED

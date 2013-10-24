@@ -1,5 +1,4 @@
-Kuehneromyces populicola (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Kuehneromyces populicola (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula madagassensis R. Heim SPECIES
-=======
+# Russula madagassensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

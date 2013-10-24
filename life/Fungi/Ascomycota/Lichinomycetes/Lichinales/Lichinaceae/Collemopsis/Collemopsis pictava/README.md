@@ -1,5 +1,4 @@
-Collemopsis pictava (Nyl.) Nyl. SPECIES
-=======
+# Collemopsis pictava (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

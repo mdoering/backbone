@@ -1,5 +1,4 @@
-Pyrenopeziza subplicata Rehm, 1892 SPECIES
-=======
+# Pyrenopeziza subplicata Rehm, 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rubellopes Rob. Henry SPECIES
-=======
+# Cortinarius rubellopes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

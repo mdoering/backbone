@@ -1,5 +1,4 @@
-Sphaerella trichophila P. Karst. SPECIES
-=======
+# Sphaerella trichophila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

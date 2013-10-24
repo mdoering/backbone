@@ -1,8 +1,7 @@
-Corticium rutilans Bref., 1889 SPECIES
-=======
+# Sistotrema confluens Pers., 1794 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

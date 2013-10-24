@@ -1,5 +1,4 @@
-Ectocarpus corticulatus Saunders SPECIES
-=======
+# Ectocarpus corticulatus Saunders SPECIES
 
 #### Status
 ACCEPTED

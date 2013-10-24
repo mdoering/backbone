@@ -1,5 +1,4 @@
-Leiosphaeridia britannica Deflandre in West, 1961 SPECIES
-=======
+# Leiosphaeridia britannica Deflandre in West, 1961 SPECIES
 
 #### Status
 ACCEPTED

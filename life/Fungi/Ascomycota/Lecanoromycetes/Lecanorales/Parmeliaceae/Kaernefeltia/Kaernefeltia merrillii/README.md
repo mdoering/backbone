@@ -1,14 +1,13 @@
-Tuckermanopsis merrillii (Du Rietz) Hale SPECIES
-=======
+# Kaernefeltia merrillii (Du Rietz) A. Thell & Goward SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Egan, Bryologist 90(2): 164 (1987)
+Bryologist 99(2): 128 (1996)
 
 #### Original name
 Cetraria merrillii Du Rietz

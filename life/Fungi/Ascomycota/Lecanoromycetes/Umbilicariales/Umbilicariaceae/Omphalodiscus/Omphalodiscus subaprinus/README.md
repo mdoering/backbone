@@ -1,5 +1,4 @@
-Omphalodiscus subaprinus var. subaprinus VARIETY
-=======
+# Omphalodiscus subaprinus (Frey) Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Omphalodiscus subaprinus var. subaprinus
+Umbilicaria subaprina Frey
 
 ### Remarks
 null

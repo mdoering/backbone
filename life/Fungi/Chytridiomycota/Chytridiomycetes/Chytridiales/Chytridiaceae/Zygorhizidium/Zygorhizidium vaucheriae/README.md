@@ -1,5 +1,4 @@
-Zygorhizidium vaucheriae Rieth SPECIES
-=======
+# Zygorhizidium vaucheriae Rieth SPECIES
 
 #### Status
 ACCEPTED

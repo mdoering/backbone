@@ -1,5 +1,4 @@
-Cetraria diffusa (Weber) Sandst. SPECIES
-=======
+# Cetraria diffusa (Weber) Sandst. SPECIES
 
 #### Status
 ACCEPTED

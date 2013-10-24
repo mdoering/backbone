@@ -1,5 +1,4 @@
-Leptosphaeria phormicola Cooke & Harkn. SPECIES
-=======
+# Leptosphaeria phormicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

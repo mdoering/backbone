@@ -1,5 +1,4 @@
-Sporisorium iseilematis-ciliati Vánky, 1998 SPECIES
-=======
+# Sporisorium iseilematis-ciliati Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED

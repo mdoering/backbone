@@ -1,5 +1,4 @@
-Phyllosticta smilacinae-trifoliae H.C. Greene SPECIES
-=======
+# Phyllosticta smilacinae-trifoliae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

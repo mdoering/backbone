@@ -1,5 +1,4 @@
-Schizoxylon hansfordii Dennis SPECIES
-=======
+# Schizoxylon hansfordii Dennis SPECIES
 
 #### Status
 ACCEPTED

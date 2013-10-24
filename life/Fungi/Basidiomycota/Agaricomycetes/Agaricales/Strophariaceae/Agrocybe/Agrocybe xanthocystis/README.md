@@ -1,5 +1,4 @@
-Agrocybe xanthocystis Bon & Jamoni SPECIES
-=======
+# Agrocybe xanthocystis Bon & Jamoni SPECIES
 
 #### Status
 ACCEPTED

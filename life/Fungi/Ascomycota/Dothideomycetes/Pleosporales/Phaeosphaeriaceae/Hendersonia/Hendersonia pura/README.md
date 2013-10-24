@@ -1,5 +1,4 @@
-Hendersonia pura Sacc. SPECIES
-=======
+# Hendersonia pura Sacc. SPECIES
 
 #### Status
 ACCEPTED

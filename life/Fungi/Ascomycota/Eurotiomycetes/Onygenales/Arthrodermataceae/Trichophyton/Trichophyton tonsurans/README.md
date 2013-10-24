@@ -1,17 +1,16 @@
-Trichophyton tonsurans subvar. tonsurans SUBVARIETY
-=======
+# Trichophyton tonsurans Malmsten, 1848 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Arch. Anat. Physiol. Wiss. Med. , 1848 14 (1848)
 
 #### Original name
-Trichophyton tonsurans subvar. tonsurans
+Trichophyton tonsurans Malmsten, 1848
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Loxospora A. Massal. GENUS
-=======
+# Loxospora A. Massal. GENUS
 
 #### Status
 ACCEPTED

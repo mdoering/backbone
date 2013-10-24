@@ -1,5 +1,4 @@
-Lactobacillus ferintoshensis Simpson et al., 2002 SPECIES
-=======
+# Lactobacillus ferintoshensis Simpson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pachyphylla H. Magn. SPECIES
-=======
+# Lecanora pachyphylla H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora ambigua A. Massal. SPECIES
-=======
+# Biatora ambigua A. Massal. SPECIES
 
 #### Status
 ACCEPTED

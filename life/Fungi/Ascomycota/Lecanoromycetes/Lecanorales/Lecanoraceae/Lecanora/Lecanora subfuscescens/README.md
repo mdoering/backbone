@@ -1,5 +1,4 @@
-Lecanora subfuscescens Nyl. SPECIES
-=======
+# Lecanora subfuscescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

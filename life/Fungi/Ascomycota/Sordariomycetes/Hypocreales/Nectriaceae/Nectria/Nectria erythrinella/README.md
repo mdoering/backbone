@@ -1,5 +1,4 @@
-Nectria erythrinella (Nyl.) Tul. SPECIES
-=======
+# Nectria erythrinella (Nyl.) Tul. SPECIES
 
 #### Status
 ACCEPTED

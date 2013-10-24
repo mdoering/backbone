@@ -1,5 +1,4 @@
-Parathelium lanosa anon. SPECIES
-=======
+# Parathelium lanosa anon. SPECIES
 
 #### Status
 ACCEPTED

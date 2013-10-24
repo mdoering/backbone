@@ -1,5 +1,4 @@
-Aecidium thrinciae Unamuno SPECIES
-=======
+# Aecidium thrinciae Unamuno SPECIES
 
 #### Status
 ACCEPTED

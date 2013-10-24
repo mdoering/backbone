@@ -1,5 +1,4 @@
-Spiniferites elongatus P.C. Reid, 1974 SPECIES
-=======
+# Spiniferites elongatus P.C. Reid, 1974 SPECIES
 
 #### Status
 ACCEPTED

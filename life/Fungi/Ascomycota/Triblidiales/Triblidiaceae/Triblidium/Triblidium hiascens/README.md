@@ -1,17 +1,16 @@
-Tryblidium hiascens Berk. & M.A. Curtis SPECIES
-=======
+# Triblidium hiascens (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 32): 182 (1876)
 
 #### Original name
-Tryblidium hiascens Berk. & M.A. Curtis
+Hysterium hiascens Berk. & M.A. Curtis
 
 ### Remarks
 null

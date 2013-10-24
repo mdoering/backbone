@@ -1,5 +1,4 @@
-Inocybe abundans Murrill SPECIES
-=======
+# Inocybe abundans Murrill SPECIES
 
 #### Status
 ACCEPTED

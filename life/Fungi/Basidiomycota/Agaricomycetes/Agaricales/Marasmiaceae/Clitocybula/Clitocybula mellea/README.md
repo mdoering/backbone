@@ -1,5 +1,4 @@
-Clitocybula mellea Singer SPECIES
-=======
+# Clitocybula mellea Singer SPECIES
 
 #### Status
 ACCEPTED

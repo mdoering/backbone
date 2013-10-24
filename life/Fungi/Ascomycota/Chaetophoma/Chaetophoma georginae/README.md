@@ -1,5 +1,4 @@
-Chaetophoma georginae (Corda) Sacc. SPECIES
-=======
+# Chaetophoma georginae (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

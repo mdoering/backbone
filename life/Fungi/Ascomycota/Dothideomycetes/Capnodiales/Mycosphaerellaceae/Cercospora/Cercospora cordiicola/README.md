@@ -1,5 +1,4 @@
-Cercospora cordiicola J.M. Yen SPECIES
-=======
+# Cercospora cordiicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

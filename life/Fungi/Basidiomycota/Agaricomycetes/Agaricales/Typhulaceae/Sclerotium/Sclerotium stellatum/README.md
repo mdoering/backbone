@@ -1,5 +1,4 @@
-Sclerotium stellatum W.T. Horne SPECIES
-=======
+# Sclerotium stellatum W.T. Horne SPECIES
 
 #### Status
 ACCEPTED

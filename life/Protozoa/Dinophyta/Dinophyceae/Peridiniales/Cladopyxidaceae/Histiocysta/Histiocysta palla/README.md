@@ -1,5 +1,4 @@
-Histiocysta palla Davey, 1969 SPECIES
-=======
+# Histiocysta palla Davey, 1969 SPECIES
 
 #### Status
 ACCEPTED

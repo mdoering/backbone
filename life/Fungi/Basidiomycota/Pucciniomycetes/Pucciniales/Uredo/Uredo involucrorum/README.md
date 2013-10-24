@@ -1,5 +1,4 @@
-Uredo involucrorum Rabenh. SPECIES
-=======
+# Uredo involucrorum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

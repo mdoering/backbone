@@ -1,5 +1,4 @@
-Melosira jurgensii Agardh SPECIES
-=======
+# Melosira jurgensii Agardh SPECIES
 
 #### Status
 ACCEPTED

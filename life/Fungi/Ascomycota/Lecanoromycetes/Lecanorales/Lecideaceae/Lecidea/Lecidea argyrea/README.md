@@ -1,5 +1,4 @@
-Lecidea argyrea Hue SPECIES
-=======
+# Lecidea argyrea Hue SPECIES
 
 #### Status
 ACCEPTED

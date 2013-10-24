@@ -1,17 +1,16 @@
-Aspidothelium trichothelioides Sérus. & Vezda SPECIES
-=======
+# Thelenella trichothelioides (Sérus. & Vezda) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 167 (1995)
 
 #### Original name
-null
+Aspidothelium trichothelioides Sérus. & Vezda
 
 ### Remarks
 null

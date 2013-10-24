@@ -1,5 +1,4 @@
-Stegopeziza GENUS
-=======
+# Stegopeziza GENUS
 
 #### Status
 ACCEPTED

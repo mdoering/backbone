@@ -1,5 +1,4 @@
-Lycoperdon pistilliforme (Hollós) Bonord. SPECIES
-=======
+# Lycoperdon pistilliforme (Hollós) Bonord. SPECIES
 
 #### Status
 ACCEPTED

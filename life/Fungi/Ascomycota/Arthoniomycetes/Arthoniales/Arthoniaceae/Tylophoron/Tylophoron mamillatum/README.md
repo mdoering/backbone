@@ -1,5 +1,4 @@
-Tylophoron mamillatum Vain. SPECIES
-=======
+# Tylophoron mamillatum Vain. SPECIES
 
 #### Status
 ACCEPTED

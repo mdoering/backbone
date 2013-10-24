@@ -1,5 +1,4 @@
-Parafavella hemifusus (Meunier, 1910) SPECIES
-=======
+# Parafavella hemifusus (Meunier, 1910) SPECIES
 
 #### Status
 ACCEPTED

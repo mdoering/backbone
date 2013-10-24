@@ -1,5 +1,4 @@
-Asterina jacaratiae Theiss. SPECIES
-=======
+# Asterina jacaratiae Theiss. SPECIES
 
 #### Status
 ACCEPTED

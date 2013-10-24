@@ -1,5 +1,4 @@
-Ochroconis crassihumicola (Matsush.) de Hoog & Arx SPECIES
-=======
+# Ochroconis crassihumicola (Matsush.) de Hoog & Arx SPECIES
 
 #### Status
 ACCEPTED

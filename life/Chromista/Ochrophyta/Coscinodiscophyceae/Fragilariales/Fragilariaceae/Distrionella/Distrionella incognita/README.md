@@ -1,5 +1,4 @@
-Distrionella incognita (E. Reichardt) D. M. Williams SPECIES
-=======
+# Distrionella incognita (E. Reichardt) D. M. Williams SPECIES
 
 #### Status
 ACCEPTED

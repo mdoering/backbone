@@ -1,5 +1,4 @@
-Rinodina sorediata H. Magn. SPECIES
-=======
+# Rinodina sorediata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

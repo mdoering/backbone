@@ -1,5 +1,4 @@
-Platystomum subcompressum (P. Karst.) Math. SPECIES
-=======
+# Platystomum subcompressum (P. Karst.) Math. SPECIES
 
 #### Status
 ACCEPTED

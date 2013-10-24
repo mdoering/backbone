@@ -1,5 +1,4 @@
-Tilletia eleusines Syd. & P. Syd., 1934 SPECIES
-=======
+# Tilletia eleusines Syd. & P. Syd., 1934 SPECIES
 
 #### Status
 ACCEPTED

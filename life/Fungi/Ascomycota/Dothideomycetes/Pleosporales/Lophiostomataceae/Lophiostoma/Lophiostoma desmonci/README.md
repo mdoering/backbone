@@ -1,5 +1,4 @@
-Lophiostoma desmonci (Syd. & P. Syd.) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma desmonci (Syd. & P. Syd.) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

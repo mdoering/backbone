@@ -1,5 +1,4 @@
-Arthonia dussii Vain. SPECIES
-=======
+# Arthonia dussii Vain. SPECIES
 
 #### Status
 ACCEPTED

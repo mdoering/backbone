@@ -1,5 +1,4 @@
-Sporotrichum dermatosum Schwartz, Tulipan & Birmingham SPECIES
-=======
+# Sporotrichum dermatosum Schwartz, Tulipan & Birmingham SPECIES
 
 #### Status
 ACCEPTED

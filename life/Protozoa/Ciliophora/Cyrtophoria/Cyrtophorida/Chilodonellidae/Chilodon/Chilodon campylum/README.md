@@ -1,5 +1,4 @@
-Chilodon campylum SPECIES
-=======
+# Chilodon campylum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius archeuretus (Halling) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius archeuretus (Halling) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

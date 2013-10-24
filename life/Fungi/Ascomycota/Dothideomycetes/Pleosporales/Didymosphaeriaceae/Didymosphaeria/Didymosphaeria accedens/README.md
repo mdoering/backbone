@@ -1,5 +1,4 @@
-Didymosphaeria accedens Sacc. SPECIES
-=======
+# Didymosphaeria accedens Sacc. SPECIES
 
 #### Status
 ACCEPTED

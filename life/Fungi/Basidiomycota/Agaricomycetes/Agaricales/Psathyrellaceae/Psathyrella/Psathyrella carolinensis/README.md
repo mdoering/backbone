@@ -1,5 +1,4 @@
-Psathyrella carolinensis A.H. Sm. SPECIES
-=======
+# Psathyrella carolinensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia tenerrima Velen. SPECIES
-=======
+# Collybia tenerrima Velen. SPECIES
 
 #### Status
 ACCEPTED

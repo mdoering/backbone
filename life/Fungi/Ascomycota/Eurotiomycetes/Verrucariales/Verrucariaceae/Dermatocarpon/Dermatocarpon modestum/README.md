@@ -1,5 +1,4 @@
-Dermatocarpon modestum H. Magn. SPECIES
-=======
+# Dermatocarpon modestum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

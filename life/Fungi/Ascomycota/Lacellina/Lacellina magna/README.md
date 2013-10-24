@@ -1,5 +1,4 @@
-Lacellina magna (Speg.) Subram. SPECIES
-=======
+# Lacellina magna (Speg.) Subram. SPECIES
 
 #### Status
 ACCEPTED

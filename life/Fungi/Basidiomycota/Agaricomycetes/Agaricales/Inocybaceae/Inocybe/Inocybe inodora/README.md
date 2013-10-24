@@ -1,17 +1,16 @@
-Inocybe albidodisca var. albidodisca Kühner VARIETY
-=======
+# Inocybe inodora Velen., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. nat. Oyonnax 9: 3 (1955)
+Ceské Houby 2: 373 (1920)
 
 #### Original name
-Inocybe albidodisca var. albidodisca Kühner
+Inocybe inodora Velen., 1920
 
 ### Remarks
 null

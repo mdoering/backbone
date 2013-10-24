@@ -1,5 +1,4 @@
-Camarosporium arthrocnemonis Unamuno SPECIES
-=======
+# Camarosporium arthrocnemonis Unamuno SPECIES
 
 #### Status
 ACCEPTED

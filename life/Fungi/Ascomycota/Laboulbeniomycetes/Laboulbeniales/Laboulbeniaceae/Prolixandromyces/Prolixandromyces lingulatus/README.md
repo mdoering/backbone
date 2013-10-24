@@ -1,5 +1,4 @@
-Prolixandromyces lingulatus R.K. Benj., 1981 SPECIES
-=======
+# Prolixandromyces lingulatus R.K. Benj., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleuria blumenaviensis Henn. SPECIES
-=======
+# Aleuria blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

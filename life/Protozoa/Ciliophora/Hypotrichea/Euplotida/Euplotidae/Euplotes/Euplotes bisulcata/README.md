@@ -1,5 +1,4 @@
-Euplotes bisulcata SPECIES
-=======
+# Euplotes bisulcata SPECIES
 
 #### Status
 ACCEPTED

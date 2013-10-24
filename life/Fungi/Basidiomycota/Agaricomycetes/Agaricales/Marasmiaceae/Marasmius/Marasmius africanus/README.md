@@ -1,5 +1,4 @@
-Marasmius africanus (Pat.) Sacc. SPECIES
-=======
+# Marasmius africanus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

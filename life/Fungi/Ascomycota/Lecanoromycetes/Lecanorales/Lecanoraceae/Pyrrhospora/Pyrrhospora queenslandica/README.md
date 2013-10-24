@@ -1,5 +1,4 @@
-Pyrrhospora queenslandica Elix & Kantvilas SPECIES
-=======
+# Pyrrhospora queenslandica Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

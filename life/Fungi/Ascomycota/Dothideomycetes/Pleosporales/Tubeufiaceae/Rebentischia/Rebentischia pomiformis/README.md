@@ -1,5 +1,4 @@
-Rebentischia pomiformis P. Karst., 1869 SPECIES
-=======
+# Rebentischia pomiformis P. Karst., 1869 SPECIES
 
 #### Status
 ACCEPTED

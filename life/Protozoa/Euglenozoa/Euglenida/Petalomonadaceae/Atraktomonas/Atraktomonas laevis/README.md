@@ -1,5 +1,4 @@
-Atraktomonas laevis Christen SPECIES
-=======
+# Atraktomonas laevis Christen SPECIES
 
 #### Status
 ACCEPTED

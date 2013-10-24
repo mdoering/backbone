@@ -1,5 +1,4 @@
-Hypocrea munkii Tilak & Jadhav SPECIES
-=======
+# Hypocrea munkii Tilak & Jadhav SPECIES
 
 #### Status
 ACCEPTED

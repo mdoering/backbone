@@ -1,5 +1,4 @@
-Physcia mereschkowskii SPECIES
-=======
+# Physcia mereschkowskii SPECIES
 
 #### Status
 ACCEPTED

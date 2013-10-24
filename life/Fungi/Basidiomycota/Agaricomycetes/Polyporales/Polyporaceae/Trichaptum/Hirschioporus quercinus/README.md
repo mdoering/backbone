@@ -1,14 +1,13 @@
-Trichaptum quercinum (Parmasto) Y.C. Dai, 1996 SPECIES
-=======
+# Hirschioporus quercinus Parmasto, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Science, Taipei 11(3, 4): 100 (1996)
+in Parmasto & Parmasto, Biblthca Mycol. 115: 137 (1987)
 
 #### Original name
 Hirschioporus quercinus Parmasto, 1987

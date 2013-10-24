@@ -1,5 +1,4 @@
-Lecidea nobilis Sommerf. SPECIES
-=======
+# Lecidea nobilis Sommerf. SPECIES
 
 #### Status
 ACCEPTED

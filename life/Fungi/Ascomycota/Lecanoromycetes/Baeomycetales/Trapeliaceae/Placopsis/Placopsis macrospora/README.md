@@ -1,5 +1,4 @@
-Placopsis macrospora D. J. Galloway SPECIES
-=======
+# Placopsis macrospora D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

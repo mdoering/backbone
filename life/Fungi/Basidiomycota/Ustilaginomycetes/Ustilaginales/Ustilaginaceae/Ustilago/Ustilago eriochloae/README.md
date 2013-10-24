@@ -1,5 +1,4 @@
-Ustilago eriochloae L. Ling SPECIES
-=======
+# Ustilago eriochloae L. Ling SPECIES
 
 #### Status
 ACCEPTED

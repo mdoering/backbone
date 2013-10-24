@@ -1,5 +1,4 @@
-Parmotrema flavomedullosum Hale SPECIES
-=======
+# Parmotrema flavomedullosum Hale SPECIES
 
 #### Status
 ACCEPTED

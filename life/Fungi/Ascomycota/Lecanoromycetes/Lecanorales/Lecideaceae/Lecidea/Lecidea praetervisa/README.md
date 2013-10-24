@@ -1,5 +1,4 @@
-Lecidea praetervisa H. Magn. SPECIES
-=======
+# Lecidea praetervisa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

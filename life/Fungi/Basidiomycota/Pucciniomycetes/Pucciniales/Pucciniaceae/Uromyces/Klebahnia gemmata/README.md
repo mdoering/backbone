@@ -1,5 +1,4 @@
-Klebahnia gemmata (Berk. & M.A. Curtis) Arthur SPECIES
-=======
+# Klebahnia gemmata (Berk. & M.A. Curtis) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium ionaspicarpum J. Nowak SPECIES
-=======
+# Amphoridium ionaspicarpum J. Nowak SPECIES
 
 #### Status
 ACCEPTED

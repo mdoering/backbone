@@ -1,5 +1,4 @@
-Dothiora tamaricis Dennis & Spooner SPECIES
-=======
+# Dothiora tamaricis Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

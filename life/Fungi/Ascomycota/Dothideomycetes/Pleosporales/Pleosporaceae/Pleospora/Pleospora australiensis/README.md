@@ -1,5 +1,4 @@
-Pleospora australiensis (Crié) Berl. SPECIES
-=======
+# Pleospora australiensis (Crié) Berl. SPECIES
 
 #### Status
 ACCEPTED

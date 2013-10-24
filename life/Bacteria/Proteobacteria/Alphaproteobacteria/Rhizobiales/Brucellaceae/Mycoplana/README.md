@@ -1,5 +1,4 @@
-Mycoplana Gray & Thornton, 1928 GENUS
-=======
+# Mycoplana Gray & Thornton, 1928 GENUS
 
 #### Status
 ACCEPTED

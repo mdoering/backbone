@@ -1,5 +1,4 @@
-Calonectria vernoniae (Hansf.) Rossman SPECIES
-=======
+# Calonectria vernoniae (Hansf.) Rossman SPECIES
 
 #### Status
 ACCEPTED

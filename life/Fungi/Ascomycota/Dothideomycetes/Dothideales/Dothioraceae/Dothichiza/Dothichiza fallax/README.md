@@ -1,5 +1,4 @@
-Dothichiza fallax Sacc. SPECIES
-=======
+# Dothichiza fallax Sacc. SPECIES
 
 #### Status
 ACCEPTED

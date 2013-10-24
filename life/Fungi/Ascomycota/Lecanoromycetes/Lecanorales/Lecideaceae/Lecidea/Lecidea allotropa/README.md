@@ -1,5 +1,4 @@
-Lecidea allotropa Nyl. SPECIES
-=======
+# Lecidea allotropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

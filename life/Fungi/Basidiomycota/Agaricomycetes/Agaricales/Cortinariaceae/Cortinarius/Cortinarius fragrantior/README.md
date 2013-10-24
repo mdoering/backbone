@@ -1,5 +1,4 @@
-Cortinarius fragrantior Gaugué SPECIES
-=======
+# Cortinarius fragrantior Gaugué SPECIES
 
 #### Status
 ACCEPTED

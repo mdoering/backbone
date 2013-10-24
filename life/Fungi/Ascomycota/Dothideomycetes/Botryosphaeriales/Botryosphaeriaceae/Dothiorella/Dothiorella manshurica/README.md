@@ -1,5 +1,4 @@
-Dothiorella manshurica Petr. SPECIES
-=======
+# Dothiorella manshurica Petr. SPECIES
 
 #### Status
 ACCEPTED

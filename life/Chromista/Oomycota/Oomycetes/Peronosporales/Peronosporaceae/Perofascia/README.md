@@ -1,5 +1,4 @@
-Perofascia Constant. GENUS
-=======
+# Perofascia Constant. GENUS
 
 #### Status
 ACCEPTED

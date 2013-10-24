@@ -1,5 +1,4 @@
-Acarospora oreophila K. Knudsen SPECIES
-=======
+# Acarospora oreophila K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

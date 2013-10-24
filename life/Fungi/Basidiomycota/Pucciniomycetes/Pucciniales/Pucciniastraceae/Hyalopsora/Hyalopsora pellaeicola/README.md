@@ -1,5 +1,4 @@
-Hyalopsora pellaeicola Arthur SPECIES
-=======
+# Hyalopsora pellaeicola Arthur SPECIES
 
 #### Status
 ACCEPTED

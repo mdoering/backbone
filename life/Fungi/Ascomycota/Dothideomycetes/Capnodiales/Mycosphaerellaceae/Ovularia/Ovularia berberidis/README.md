@@ -1,5 +1,4 @@
-Ovularia berberidis Cooke SPECIES
-=======
+# Ovularia berberidis Cooke SPECIES
 
 #### Status
 ACCEPTED

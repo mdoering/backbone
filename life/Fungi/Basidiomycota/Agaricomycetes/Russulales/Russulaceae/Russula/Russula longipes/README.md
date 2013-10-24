@@ -1,5 +1,4 @@
-Russula longipes (Singer) Moënne-Locc. & Reumaux SPECIES
-=======
+# Russula longipes (Singer) Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

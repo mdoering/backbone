@@ -1,5 +1,4 @@
-Lanatospora tubulifera A.M. Bronnvall & J.I.R. Larsson SPECIES
-=======
+# Lanatospora tubulifera A.M. Bronnvall & J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

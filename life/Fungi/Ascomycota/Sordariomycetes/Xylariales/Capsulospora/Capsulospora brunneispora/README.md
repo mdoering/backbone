@@ -1,5 +1,4 @@
-Capsulospora brunneispora K.D. Hyde SPECIES
-=======
+# Capsulospora brunneispora K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

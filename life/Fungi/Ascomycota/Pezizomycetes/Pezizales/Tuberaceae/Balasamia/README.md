@@ -1,5 +1,4 @@
-Balasamia GENUS
-=======
+# Balasamia GENUS
 
 #### Status
 ACCEPTED

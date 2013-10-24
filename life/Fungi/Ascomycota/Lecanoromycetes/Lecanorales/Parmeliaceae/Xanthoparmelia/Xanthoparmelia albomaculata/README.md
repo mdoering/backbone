@@ -1,5 +1,4 @@
-Xanthoparmelia albomaculata Hale SPECIES
-=======
+# Xanthoparmelia albomaculata Hale SPECIES
 
 #### Status
 ACCEPTED

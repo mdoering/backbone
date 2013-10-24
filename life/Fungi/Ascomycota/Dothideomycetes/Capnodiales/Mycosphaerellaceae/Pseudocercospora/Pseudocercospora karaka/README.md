@@ -1,14 +1,13 @@
-Cercospora karaka G.F. Laundon, 1973 SPECIES
-=======
+# Pseudocercospora karaka (G.F. Laundon) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 60(2): 320 (1973)
+Mycol. Pap. 140: 146 (1976)
 
 #### Original name
 Cercospora karaka G.F. Laundon, 1973

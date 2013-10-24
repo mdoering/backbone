@@ -1,5 +1,4 @@
-Mycena albolateritia Métrod SPECIES
-=======
+# Mycena albolateritia Métrod SPECIES
 
 #### Status
 ACCEPTED

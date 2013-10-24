@@ -1,5 +1,4 @@
-Dothidella calophylli Petch SPECIES
-=======
+# Dothidella calophylli Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascosacculus J. Campb., J.L. Anderson & Shearer GENUS
-=======
+# Ascosacculus J. Campb., J.L. Anderson & Shearer GENUS
 
 #### Status
 ACCEPTED

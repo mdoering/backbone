@@ -1,5 +1,4 @@
-Asterina leeae S. Hughes SPECIES
-=======
+# Asterina leeae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

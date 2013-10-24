@@ -1,5 +1,4 @@
-Xanthoparmelia planilobata (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia planilobata (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

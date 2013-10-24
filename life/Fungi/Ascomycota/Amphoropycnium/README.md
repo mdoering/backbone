@@ -1,5 +1,4 @@
-Amphoropycnium Bat. GENUS
-=======
+# Amphoropycnium Bat. GENUS
 
 #### Status
 ACCEPTED

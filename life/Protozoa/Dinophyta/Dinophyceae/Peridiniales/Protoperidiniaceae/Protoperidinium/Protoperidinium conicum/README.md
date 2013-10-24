@@ -1,5 +1,4 @@
-Protoperidinium conicum (Gran) Balech SPECIES
-=======
+# Protoperidinium conicum (Gran) Balech SPECIES
 
 #### Status
 ACCEPTED

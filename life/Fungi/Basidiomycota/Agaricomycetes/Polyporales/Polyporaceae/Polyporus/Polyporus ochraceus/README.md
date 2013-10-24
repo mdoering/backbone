@@ -1,5 +1,4 @@
-Polyporus ochraceus Pers. SPECIES
-=======
+# Polyporus ochraceus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptosphaeria phllostachydis Hara SPECIES
-=======
+# Leptosphaeria phyllostachydis Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 27(no. 317): 250 (1913)
 
 #### Original name
-Leptosphaeria phllostachydis Hara
+Leptosphaeria phyllostachydis Hara
 
 ### Remarks
 null

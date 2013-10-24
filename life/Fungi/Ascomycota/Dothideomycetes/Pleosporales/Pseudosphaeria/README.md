@@ -1,5 +1,4 @@
-Pseudosphaeria GENUS
-=======
+# Pseudosphaeria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis biformata H. Olivier SPECIES
-=======
+# Lecanactis biformata H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia albidocincta (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia albidocincta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

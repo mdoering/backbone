@@ -1,5 +1,4 @@
-Alternaria helianthiinficiens E.G. Simmons, Walcz & R.G. Roberts, 1986 SPECIES
-=======
+# Alternaria helianthiinficiens E.G. Simmons, Walcz & R.G. Roberts, 1986 SPECIES
 
 #### Status
 ACCEPTED

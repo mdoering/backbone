@@ -1,5 +1,4 @@
-Laboulbenia fusiformis Thaxt. SPECIES
-=======
+# Laboulbenia fusiformis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

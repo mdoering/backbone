@@ -1,5 +1,4 @@
-Epichloe (E.M. Fries) L.R. Tulasne & C. Tulasne, 1865 GENUS
-=======
+# Epichloe (E.M. Fries) L.R. Tulasne & C. Tulasne, 1865 GENUS
 
 #### Status
 ACCEPTED

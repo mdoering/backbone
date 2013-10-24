@@ -1,5 +1,4 @@
-Bordea formosana (K. Sugiy.) R.K. Benj. SPECIES
-=======
+# Bordea formosana (K. Sugiy.) R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

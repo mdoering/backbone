@@ -1,5 +1,4 @@
-Entoloma svalbardense Noordel. SPECIES
-=======
+# Entoloma svalbardense Noordel. SPECIES
 
 #### Status
 ACCEPTED

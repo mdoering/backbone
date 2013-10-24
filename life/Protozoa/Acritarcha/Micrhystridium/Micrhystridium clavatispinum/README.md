@@ -1,5 +1,4 @@
-Micrhystridium clavatispinum Wall, 1965 SPECIES
-=======
+# Micrhystridium clavatispinum Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteriastrum delicatulum Cleve SPECIES
-=======
+# Bacteriastrum delicatulum Cleve SPECIES
 
 #### Status
 ACCEPTED

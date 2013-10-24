@@ -1,5 +1,4 @@
-Entoloma brunneomarginatum Hesler SPECIES
-=======
+# Entoloma brunneomarginatum Hesler SPECIES
 
 #### Status
 ACCEPTED

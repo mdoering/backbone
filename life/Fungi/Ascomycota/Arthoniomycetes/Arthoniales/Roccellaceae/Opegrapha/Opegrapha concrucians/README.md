@@ -1,5 +1,4 @@
-Opegrapha concrucians Kremp. SPECIES
-=======
+# Opegrapha concrucians Kremp. SPECIES
 
 #### Status
 ACCEPTED

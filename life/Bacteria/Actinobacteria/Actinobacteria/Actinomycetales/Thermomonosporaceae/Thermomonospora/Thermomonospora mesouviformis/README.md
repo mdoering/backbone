@@ -1,5 +1,4 @@
-Thermomonospora mesouviformis Nonomura and Ohara, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Thermomonospora mesouviformis Nonomura and Ohara, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

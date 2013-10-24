@@ -1,5 +1,4 @@
-Asterina breyniae H.S. Yates SPECIES
-=======
+# Asterina breyniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

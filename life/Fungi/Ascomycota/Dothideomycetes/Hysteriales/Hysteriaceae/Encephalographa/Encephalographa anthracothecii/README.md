@@ -1,5 +1,4 @@
-Encephalographa anthracothecii Diederich SPECIES
-=======
+# Encephalographa anthracothecii Diederich SPECIES
 
 #### Status
 ACCEPTED

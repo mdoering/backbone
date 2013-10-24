@@ -1,5 +1,4 @@
-Cutleria compressa Kützing SPECIES
-=======
+# Cutleria compressa Kützing SPECIES
 
 #### Status
 ACCEPTED

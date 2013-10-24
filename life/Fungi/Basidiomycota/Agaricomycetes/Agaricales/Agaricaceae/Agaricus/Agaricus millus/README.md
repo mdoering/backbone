@@ -1,5 +1,4 @@
-Agaricus millus Sowerby SPECIES
-=======
+# Agaricus millus Sowerby SPECIES
 
 #### Status
 ACCEPTED

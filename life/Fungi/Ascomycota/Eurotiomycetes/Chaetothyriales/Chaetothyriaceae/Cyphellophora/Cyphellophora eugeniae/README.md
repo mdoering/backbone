@@ -1,5 +1,4 @@
-Cyphellophora eugeniae Crous & Alfenas SPECIES
-=======
+# Cyphellophora eugeniae Crous & Alfenas SPECIES
 
 #### Status
 ACCEPTED

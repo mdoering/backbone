@@ -1,5 +1,4 @@
-Phyllerium palaeocarpini Ettingsh. SPECIES
-=======
+# Phyllerium palaeocarpini Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostoma dispersum P. Karst. SPECIES
-=======
+# Ceratostoma dispersum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiocytium desertum minor Prescott VARIETY
-=======
+# Ophiocytium desertum Printz SPECIES
 
 #### Status
 ACCEPTED

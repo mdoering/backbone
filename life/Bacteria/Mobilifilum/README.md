@@ -1,5 +1,4 @@
-Mobilifilum GENUS
-=======
+# Mobilifilum GENUS
 
 #### Status
 ACCEPTED

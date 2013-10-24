@@ -1,5 +1,4 @@
-Placodium fulvellum (Malme) Räsänen SPECIES
-=======
+# Placodium fulvellum (Malme) Räsänen SPECIES
 
 #### Status
 ACCEPTED

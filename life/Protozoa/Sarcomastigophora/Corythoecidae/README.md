@@ -1,5 +1,4 @@
-Corythoecidae Nazarov, 1981 FAMILY
-=======
+# Corythoecidae Nazarov, 1981 FAMILY
 
 #### Status
 ACCEPTED

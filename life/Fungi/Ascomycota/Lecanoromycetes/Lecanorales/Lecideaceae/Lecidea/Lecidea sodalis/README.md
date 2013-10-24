@@ -1,5 +1,4 @@
-Lecidea sodalis Stizenb. SPECIES
-=======
+# Lecidea sodalis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

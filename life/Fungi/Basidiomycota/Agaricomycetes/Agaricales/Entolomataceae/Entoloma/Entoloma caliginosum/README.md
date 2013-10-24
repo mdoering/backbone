@@ -1,5 +1,4 @@
-Entoloma caliginosum (Romagn. & J. Favre) Bon & Courtec. SPECIES
-=======
+# Entoloma caliginosum (Romagn. & J. Favre) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

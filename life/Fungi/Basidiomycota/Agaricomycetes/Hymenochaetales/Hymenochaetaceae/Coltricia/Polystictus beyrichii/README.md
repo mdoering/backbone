@@ -1,5 +1,4 @@
-Polystictus beyrichii (Fr.) Fr. SPECIES
-=======
+# Polystictus beyrichii (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratosphaeria foliensis Andjic & S. Jackson, 2010 SPECIES
-=======
+# Teratosphaeria foliensis Andjic & S. Jackson, 2010 SPECIES
 
 #### Status
 ACCEPTED

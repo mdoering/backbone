@@ -1,14 +1,13 @@
-Comatricha laxa var. rigida Brândza VARIETY
-=======
+# Paradiacheopsis rigida (Brândza) Nann.-Bremek., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Sci. Univ. Jassey 11: 126 (1921)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 70: 209 (1967)
 
 #### Original name
 Comatricha laxa var. rigida Brândza

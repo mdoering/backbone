@@ -1,17 +1,16 @@
-Stenella osyrina R.K. Chaudhary & S.K. Singh SPECIES
-=======
+# Stenella osyridina R.K. Chaudhary & S.K. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chaudhary, Singh & Morgan-Jones, Mycotaxon 57: 202 (1996)
 
 #### Original name
-Stenella osyrina R.K. Chaudhary & S.K. Singh
+Stenella osyridina R.K. Chaudhary & S.K. Singh
 
 ### Remarks
 null

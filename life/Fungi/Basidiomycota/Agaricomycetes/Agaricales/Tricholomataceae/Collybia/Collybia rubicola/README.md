@@ -1,5 +1,4 @@
-Collybia rubicola Velen. SPECIES
-=======
+# Collybia rubicola Velen. SPECIES
 
 #### Status
 ACCEPTED

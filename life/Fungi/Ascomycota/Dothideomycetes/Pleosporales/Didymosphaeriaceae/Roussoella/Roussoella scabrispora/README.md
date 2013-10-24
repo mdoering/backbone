@@ -1,5 +1,4 @@
-Roussoella scabrispora (Höhn.) Aptroot SPECIES
-=======
+# Roussoella scabrispora (Höhn.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moelleriella macrostroma (P. Chaverri & K.T. Hodge) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella macrostroma (P. Chaverri & K.T. Hodge) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

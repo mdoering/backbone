@@ -1,17 +1,16 @@
-Mycena celtis Raithelh. SPECIES
-=======
+# Mycena celtidis Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hong. Argentin. 1: 144 (1974)
 
 #### Original name
-Mycena celtis Raithelh.
+Mycena celtidis Raithelh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyronemella limnophila (Beck) Sacc. SPECIES
-=======
+# Pyronemella limnophila (Beck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

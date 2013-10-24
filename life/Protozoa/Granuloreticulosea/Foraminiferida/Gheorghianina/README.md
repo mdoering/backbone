@@ -1,5 +1,4 @@
-Gheorghianina Loeblich & Tappan, 1986 GENUS
-=======
+# Gheorghianina Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

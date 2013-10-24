@@ -1,5 +1,4 @@
-Discella diaphana (Fuckel) Höhn. SPECIES
-=======
+# Discella diaphana (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

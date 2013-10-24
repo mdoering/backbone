@@ -1,5 +1,4 @@
-Platygrapha macrospora C. Knight SPECIES
-=======
+# Platygrapha macrospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

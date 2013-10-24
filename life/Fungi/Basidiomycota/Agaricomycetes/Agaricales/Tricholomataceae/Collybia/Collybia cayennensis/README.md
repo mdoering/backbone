@@ -1,5 +1,4 @@
-Collybia cayennensis (Mont.) Sacc. SPECIES
-=======
+# Collybia cayennensis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

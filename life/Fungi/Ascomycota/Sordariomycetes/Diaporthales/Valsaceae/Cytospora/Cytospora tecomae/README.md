@@ -1,5 +1,4 @@
-Cytospora tecomae Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Cytospora tecomae Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

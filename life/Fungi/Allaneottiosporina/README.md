@@ -1,5 +1,4 @@
-Allaneottiosporina T.R. Nag Raj, 1993 GENUS
-=======
+# Allaneottiosporina T.R. Nag Raj, 1993 GENUS
 
 #### Status
 ACCEPTED

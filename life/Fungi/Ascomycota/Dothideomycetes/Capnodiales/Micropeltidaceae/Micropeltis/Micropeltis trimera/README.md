@@ -1,5 +1,4 @@
-Micropeltis trimera Sacc. SPECIES
-=======
+# Micropeltis trimera Sacc. SPECIES
 
 #### Status
 ACCEPTED

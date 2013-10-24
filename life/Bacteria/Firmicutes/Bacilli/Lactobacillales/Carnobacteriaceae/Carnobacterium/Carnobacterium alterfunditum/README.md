@@ -1,5 +1,4 @@
-Carnobacterium alterfunditum Franzmann et al., 1993 SPECIES
-=======
+# Carnobacterium alterfunditum Franzmann et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosulomyces arthrosporioides Marchand & Cabral, 1976 SPECIES
-=======
+# Rosulomyces arthrosporioides Marchand & Cabral, 1976 SPECIES
 
 #### Status
 ACCEPTED

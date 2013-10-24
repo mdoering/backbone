@@ -1,5 +1,4 @@
-Leucoloma gallinacea (Peck) House SPECIES
-=======
+# Leucoloma gallinacea (Peck) House SPECIES
 
 #### Status
 ACCEPTED

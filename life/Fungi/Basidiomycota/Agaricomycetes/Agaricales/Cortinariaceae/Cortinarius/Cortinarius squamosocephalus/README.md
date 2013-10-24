@@ -1,5 +1,4 @@
-Cortinarius squamosocephalus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius squamosocephalus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

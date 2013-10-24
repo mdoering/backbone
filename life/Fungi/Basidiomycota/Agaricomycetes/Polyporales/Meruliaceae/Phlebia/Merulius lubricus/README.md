@@ -1,5 +1,4 @@
-Merulius lubricus Schumach. SPECIES
-=======
+# Merulius lubricus Schumach. SPECIES
 
 #### Status
 ACCEPTED

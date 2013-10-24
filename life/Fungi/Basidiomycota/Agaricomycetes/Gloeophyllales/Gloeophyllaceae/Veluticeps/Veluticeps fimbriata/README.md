@@ -1,17 +1,16 @@
-Stereum rugisporum (Ellis & Everh.) Burt, 1920 SPECIES
-=======
+# Veluticeps fimbriata (Ellis & Everh.) Nakasone, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 7(2-3): 188 (1920)
+Mycologia 82(5): 634 (1990)
 
 #### Original name
-Hymenochaete rugispora Ellis & Everh., 1890
+Hymenochaete fimbriata Ellis & Everh., 1885
 
 ### Remarks
 null

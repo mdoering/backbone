@@ -1,5 +1,4 @@
-Cladosporium episclerotiale Bubák SPECIES
-=======
+# Cladosporium episclerotiale Bubák SPECIES
 
 #### Status
 ACCEPTED

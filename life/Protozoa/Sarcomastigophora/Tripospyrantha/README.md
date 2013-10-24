@@ -1,5 +1,4 @@
-Tripospyrantha Haeckel, 1887 GENUS
-=======
+# Tripospyrantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

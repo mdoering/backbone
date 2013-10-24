@@ -1,5 +1,4 @@
-Lecidea galactochrysea Zahlbr. SPECIES
-=======
+# Lecidea galactochrysea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

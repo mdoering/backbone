@@ -1,5 +1,4 @@
-Meliola cestri-macrophylli Hansf. SPECIES
-=======
+# Meliola cestri-macrophylli Hansf. SPECIES
 
 #### Status
 ACCEPTED

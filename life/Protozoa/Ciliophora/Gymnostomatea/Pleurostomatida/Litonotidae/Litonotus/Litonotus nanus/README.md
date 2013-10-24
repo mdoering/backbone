@@ -1,5 +1,4 @@
-Litonotus nanus SPECIES
-=======
+# Litonotus nanus SPECIES
 
 #### Status
 ACCEPTED

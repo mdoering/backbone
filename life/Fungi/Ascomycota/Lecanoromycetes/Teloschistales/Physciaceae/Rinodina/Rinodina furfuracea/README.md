@@ -1,5 +1,4 @@
-Rinodina furfuracea H. Magn. SPECIES
-=======
+# Rinodina furfuracea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

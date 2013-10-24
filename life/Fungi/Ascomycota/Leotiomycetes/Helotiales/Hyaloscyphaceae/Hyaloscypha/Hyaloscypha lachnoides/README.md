@@ -1,5 +1,4 @@
-Hyaloscypha lachnoides Velen. SPECIES
-=======
+# Hyaloscypha lachnoides Velen. SPECIES
 
 #### Status
 ACCEPTED

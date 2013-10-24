@@ -1,5 +1,4 @@
-Clitocybula canariensis Barrasa, Esteve-Rav. & Dähncke SPECIES
-=======
+# Clitocybula canariensis Barrasa, Esteve-Rav. & Dähncke SPECIES
 
 #### Status
 ACCEPTED

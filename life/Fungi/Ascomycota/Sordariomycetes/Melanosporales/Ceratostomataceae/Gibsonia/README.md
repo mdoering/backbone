@@ -1,5 +1,4 @@
-Gibsonia GENUS
-=======
+# Gibsonia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus rubissimus A.H. Sm. SPECIES
-=======
+# Boletus rubissimus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

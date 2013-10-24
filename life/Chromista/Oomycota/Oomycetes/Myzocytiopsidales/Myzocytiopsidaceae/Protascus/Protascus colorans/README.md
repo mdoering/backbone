@@ -1,5 +1,4 @@
-Protascus colorans Wolk SPECIES
-=======
+# Protascus colorans Wolk SPECIES
 
 #### Status
 ACCEPTED

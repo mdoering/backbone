@@ -1,14 +1,13 @@
-Anthostoma picaceum (Cooke & Ellis) Cooke SPECIES
-=======
+# Barrmaelia picacea (Cooke & Ellis) Rappaz, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 7(1): 143 (1995)
 
 #### Original name
 Sphaeria picacea Cooke & Ellis, 1878

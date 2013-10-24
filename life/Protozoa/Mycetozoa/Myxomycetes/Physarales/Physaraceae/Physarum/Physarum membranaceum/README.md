@@ -1,5 +1,4 @@
-Physarum membranaceum Schumach. SPECIES
-=======
+# Physarum membranaceum Schumach. SPECIES
 
 #### Status
 ACCEPTED

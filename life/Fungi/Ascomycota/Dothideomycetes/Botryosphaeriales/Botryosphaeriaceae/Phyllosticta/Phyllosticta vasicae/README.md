@@ -1,5 +1,4 @@
-Phyllosticta vasicae Pandotra & Ganguly SPECIES
-=======
+# Phyllosticta vasicae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

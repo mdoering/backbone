@@ -1,5 +1,4 @@
-Abrothallus urceolariae (Nyl.) Arnold SPECIES
-=======
+# Abrothallus urceolariae (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

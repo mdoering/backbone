@@ -1,5 +1,4 @@
-Amphileptus barbatulus SPECIES
-=======
+# Amphileptus barbatulus SPECIES
 
 #### Status
 ACCEPTED

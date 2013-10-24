@@ -1,5 +1,4 @@
-Favolaschia curtisii (Berk.) Kuntze SPECIES
-=======
+# Favolaschia curtisii (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

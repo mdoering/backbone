@@ -1,5 +1,4 @@
-Galera anomala Velen. SPECIES
-=======
+# Galera anomala Velen. SPECIES
 
 #### Status
 ACCEPTED

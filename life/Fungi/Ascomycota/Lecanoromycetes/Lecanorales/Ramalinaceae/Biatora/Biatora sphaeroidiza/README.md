@@ -1,5 +1,4 @@
-Biatora sphaeroidiza (Vain.) Printzen & Holien SPECIES
-=======
+# Biatora sphaeroidiza (Vain.) Printzen & Holien SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus olivaceofuscus Mosseray SPECIES
-=======
+# Aspergillus olivaceofuscus Mosseray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectidium plicatum L. I. Ferraro & Lücking SPECIES
-=======
+# Gyalectidium plicatum L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

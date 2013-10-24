@@ -1,5 +1,4 @@
-Phyllactinia Léveillé, 1851 GENUS
-=======
+# Phyllactinia Léveillé, 1851 GENUS
 
 #### Status
 ACCEPTED

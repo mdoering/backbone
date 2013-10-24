@@ -1,5 +1,4 @@
-Meliola telensis Hansf. SPECIES
-=======
+# Meliola telensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

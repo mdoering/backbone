@@ -1,5 +1,4 @@
-Leiosphaeridia variabilis Pocock, 1972 SPECIES
-=======
+# Leiosphaeridia variabilis Pocock, 1972 SPECIES
 
 #### Status
 ACCEPTED

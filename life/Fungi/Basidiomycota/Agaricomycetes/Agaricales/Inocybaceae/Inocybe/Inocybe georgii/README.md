@@ -1,5 +1,4 @@
-Inocybe georgii Bon SPECIES
-=======
+# Inocybe georgii Bon SPECIES
 
 #### Status
 ACCEPTED

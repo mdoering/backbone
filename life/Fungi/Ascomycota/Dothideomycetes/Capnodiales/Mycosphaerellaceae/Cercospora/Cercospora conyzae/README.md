@@ -1,5 +1,4 @@
-Cercospora conyzae Sawada SPECIES
-=======
+# Cercospora conyzae Sawada SPECIES
 
 #### Status
 ACCEPTED

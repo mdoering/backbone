@@ -1,5 +1,4 @@
-Leptosphaeria massariella var. massariella Sacc. & Speg. VARIETY
-=======
+# Leptosphaeria massariella Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 4): 393 (1878)
 
 #### Original name
-Leptosphaeria massariella var. massariella Sacc. & Speg.
+Leptosphaeria massariella Sacc. & Speg.
 
 ### Remarks
 null

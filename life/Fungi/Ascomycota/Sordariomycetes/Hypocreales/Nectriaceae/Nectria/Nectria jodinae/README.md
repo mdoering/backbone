@@ -1,5 +1,4 @@
-Nectria jodinae Speg. SPECIES
-=======
+# Nectria jodinae Speg. SPECIES
 
 #### Status
 ACCEPTED

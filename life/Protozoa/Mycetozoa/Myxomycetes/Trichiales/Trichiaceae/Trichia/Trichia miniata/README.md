@@ -1,5 +1,4 @@
-Trichia miniata Schwein. SPECIES
-=======
+# Trichia miniata Schwein. SPECIES
 
 #### Status
 ACCEPTED

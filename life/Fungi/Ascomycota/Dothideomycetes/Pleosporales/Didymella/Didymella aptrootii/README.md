@@ -1,5 +1,4 @@
-Didymella aptrootii K.D. Hyde & S.W. Wong SPECIES
-=======
+# Didymella aptrootii K.D. Hyde & S.W. Wong SPECIES
 
 #### Status
 ACCEPTED

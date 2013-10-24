@@ -1,5 +1,4 @@
-Mohlerina Bucur, Senowbari-Daryan & Abate, 1996 GENUS
-=======
+# Mohlerina Bucur, Senowbari-Daryan & Abate, 1996 GENUS
 
 #### Status
 ACCEPTED

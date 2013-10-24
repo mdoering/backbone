@@ -1,5 +1,4 @@
-Marasmius psychotriophilus Singer SPECIES
-=======
+# Marasmius psychotriophilus Singer SPECIES
 
 #### Status
 ACCEPTED

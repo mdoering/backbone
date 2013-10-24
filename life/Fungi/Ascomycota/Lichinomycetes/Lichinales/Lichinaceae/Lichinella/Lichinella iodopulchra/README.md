@@ -1,17 +1,16 @@
-Omphalaria jodopulchra Couderc ex Croz. SPECIES
-=======
+# Lichinella iodopulchra (Croz.) P. P. Moreno & Egea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Bryol. -Lichénol. 13(3): 245 (1992)
 
 #### Original name
-Omphalaria jodopulchra Couderc ex Croz.
+Omphalaria iodopulchra Couderc ex Croz.
 
 ### Remarks
 null

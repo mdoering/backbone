@@ -1,5 +1,4 @@
-Gigantothrix Foissner, 1999 GENUS
-=======
+# Gigantothrix Foissner, 1999 GENUS
 
 #### Status
 ACCEPTED

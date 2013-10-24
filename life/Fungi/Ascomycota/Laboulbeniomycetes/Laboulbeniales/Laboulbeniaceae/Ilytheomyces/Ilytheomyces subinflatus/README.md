@@ -1,5 +1,4 @@
-Ilytheomyces subinflatus Thaxt. SPECIES
-=======
+# Ilytheomyces subinflatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

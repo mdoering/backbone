@@ -1,5 +1,4 @@
-Merulius auroreus Pers. SPECIES
-=======
+# Merulius auroreus Pers. SPECIES
 
 #### Status
 ACCEPTED

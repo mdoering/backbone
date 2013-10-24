@@ -1,5 +1,4 @@
-Hypochnus bicolor G.F. Atk. & Burt SPECIES
-=======
+# Hypochnus bicolor G.F. Atk. & Burt SPECIES
 
 #### Status
 ACCEPTED

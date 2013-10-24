@@ -1,5 +1,4 @@
-Colpoda crinata Fromentel, 1976 SPECIES
-=======
+# Colpoda crinata Fromentel, 1976 SPECIES
 
 #### Status
 ACCEPTED

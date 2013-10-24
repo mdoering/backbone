@@ -1,5 +1,4 @@
-Leptonia azurea Largent SPECIES
-=======
+# Leptonia azurea Largent SPECIES
 
 #### Status
 ACCEPTED

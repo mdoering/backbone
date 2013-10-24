@@ -1,5 +1,4 @@
-Entoloma burlinghamiae Murrill SPECIES
-=======
+# Entoloma burlinghamiae Murrill SPECIES
 
 #### Status
 ACCEPTED

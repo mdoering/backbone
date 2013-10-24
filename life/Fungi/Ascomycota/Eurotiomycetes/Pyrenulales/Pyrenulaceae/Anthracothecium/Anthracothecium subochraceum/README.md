@@ -1,14 +1,13 @@
-Anthracothecium subochracea (Nyl.) Zahlbr. SPECIES
-=======
+# Anthracothecium subochraceum (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 468 (1922)
 
 #### Original name
 Verrucaria albescens * subochracea Nyl.

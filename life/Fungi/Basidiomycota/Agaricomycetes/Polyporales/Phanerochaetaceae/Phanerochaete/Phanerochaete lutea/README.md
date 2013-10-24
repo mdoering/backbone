@@ -1,5 +1,4 @@
-Phanerochaete lutea (Sheng H. Wu) Hjortstam SPECIES
-=======
+# Phanerochaete lutea (Sheng H. Wu) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

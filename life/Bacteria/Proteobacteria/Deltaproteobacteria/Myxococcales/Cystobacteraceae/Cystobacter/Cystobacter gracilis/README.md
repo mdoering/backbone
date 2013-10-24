@@ -1,5 +1,4 @@
-Cystobacter gracilis SPECIES
-=======
+# Cystobacter gracilis SPECIES
 
 #### Status
 ACCEPTED

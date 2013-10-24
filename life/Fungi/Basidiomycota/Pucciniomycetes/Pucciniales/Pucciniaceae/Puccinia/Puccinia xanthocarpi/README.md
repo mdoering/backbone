@@ -1,5 +1,4 @@
-Puccinia xanthocarpi R.Y. Roy & P.C. Gupta SPECIES
-=======
+# Puccinia xanthocarpi R.Y. Roy & P.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pithomyces sivaramaprasadii N.K. Rao & Manohar. SPECIES
-=======
+# Pithomyces sivaramaprasadii N.K. Rao & Manohar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campylospora tetracladia Ingold SPECIES
-=======
+# Campylospora tetracladia Ingold SPECIES
 
 #### Status
 ACCEPTED

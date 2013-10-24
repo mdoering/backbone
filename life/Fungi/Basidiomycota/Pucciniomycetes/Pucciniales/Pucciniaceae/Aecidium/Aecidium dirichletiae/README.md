@@ -1,5 +1,4 @@
-Aecidium dirichletiae Jørst. SPECIES
-=======
+# Aecidium dirichletiae Jørst. SPECIES
 
 #### Status
 ACCEPTED

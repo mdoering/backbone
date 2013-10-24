@@ -1,5 +1,4 @@
-Sphaeronaema coronatum Bonord. SPECIES
-=======
+# Sphaeronaema coronatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

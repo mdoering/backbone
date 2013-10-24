@@ -1,14 +1,13 @@
-Arthuriomyces potentillae Shkarupa, 2002 SPECIES
-=======
+# Gymnoconia potentillae (Shkarupa) Azbukina, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 36(4): 42 (2002)
+Nizshie Rasteniya, Griby i Mokhoobraznye, Dal'nego Vostoka Rossii. Griby 5: 158 (2005)
 
 #### Original name
 Arthuriomyces potentillae Shkarupa, 2002

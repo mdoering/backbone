@@ -1,5 +1,4 @@
-Sphaerothallia fruticulosa (Eversm.) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia fruticulosa (Eversm.) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

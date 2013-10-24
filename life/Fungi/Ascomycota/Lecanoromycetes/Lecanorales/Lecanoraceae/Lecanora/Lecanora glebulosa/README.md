@@ -1,5 +1,4 @@
-Lecanora glebulosa (Flot.) C.W. Dodge SPECIES
-=======
+# Lecanora glebulosa (Flot.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

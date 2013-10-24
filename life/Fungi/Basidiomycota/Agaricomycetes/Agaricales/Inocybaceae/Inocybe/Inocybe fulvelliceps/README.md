@@ -1,5 +1,4 @@
-Inocybe fulvelliceps Murrill SPECIES
-=======
+# Inocybe fulvelliceps Murrill SPECIES
 
 #### Status
 ACCEPTED

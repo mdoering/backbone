@@ -1,5 +1,4 @@
-Coccotrema colobinum (Tuck.) Messuti SPECIES
-=======
+# Coccotrema colobinum (Tuck.) Messuti SPECIES
 
 #### Status
 ACCEPTED

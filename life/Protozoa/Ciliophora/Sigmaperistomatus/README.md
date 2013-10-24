@@ -1,5 +1,4 @@
-Sigmaperistomatus Amaro & Sena, 1968 GENUS
-=======
+# Sigmaperistomatus Amaro & Sena, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporina GENUS
-=======
+# Gloeosporina GENUS
 
 #### Status
 ACCEPTED

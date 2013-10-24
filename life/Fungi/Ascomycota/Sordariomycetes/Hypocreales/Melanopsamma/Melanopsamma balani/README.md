@@ -1,17 +1,16 @@
-Didymella balani (Winter) Feldmann SPECIES
-=======
+# Melanopsamma balani (G. Winter) Meyers, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 49: 485 (1957)
 
 #### Original name
-null
+Epicymatia balani G. Winter ex Hariot, 1887
 
 ### Remarks
 null

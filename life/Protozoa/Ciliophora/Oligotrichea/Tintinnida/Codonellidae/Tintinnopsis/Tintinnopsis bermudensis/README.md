@@ -1,5 +1,4 @@
-Tintinnopsis bermudensis Brandt, 1906 SPECIES
-=======
+# Tintinnopsis bermudensis Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

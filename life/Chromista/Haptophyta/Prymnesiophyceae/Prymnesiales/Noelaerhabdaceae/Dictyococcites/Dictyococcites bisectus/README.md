@@ -1,8 +1,7 @@
-Reticulofenestra scissura Hay, Mohler & Wade, 1966 SPECIES
-=======
+# Dictyococcites bisectus (Hay, Mohler & Wade, 1966) Bukry & Percival, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

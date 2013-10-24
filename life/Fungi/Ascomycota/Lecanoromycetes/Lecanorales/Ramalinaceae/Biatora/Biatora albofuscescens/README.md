@@ -1,5 +1,4 @@
-Biatora albofuscescens (Nyl.) Arnold SPECIES
-=======
+# Biatora albofuscescens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

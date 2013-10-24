@@ -1,5 +1,4 @@
-Peltaster splendens Bat. & J.L. Bezerra SPECIES
-=======
+# Peltaster splendens Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

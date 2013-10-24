@@ -1,5 +1,4 @@
-Buellia chermesina Kalb SPECIES
-=======
+# Buellia chermesina Kalb SPECIES
 
 #### Status
 ACCEPTED

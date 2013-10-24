@@ -1,5 +1,4 @@
-Leptosphaeria inspersa (Schwein.) Sacc. SPECIES
-=======
+# Leptosphaeria inspersa (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

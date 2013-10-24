@@ -1,5 +1,4 @@
-Collema elveloides (Wulfen) Flot. SPECIES
-=======
+# Collema elveloides (Wulfen) Flot. SPECIES
 
 #### Status
 ACCEPTED

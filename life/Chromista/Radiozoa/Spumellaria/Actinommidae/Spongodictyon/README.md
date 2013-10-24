@@ -1,5 +1,4 @@
-Spongodictyon GENUS
-=======
+# Spongodictyon GENUS
 
 #### Status
 ACCEPTED

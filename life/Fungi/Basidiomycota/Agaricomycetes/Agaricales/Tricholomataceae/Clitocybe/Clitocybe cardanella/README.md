@@ -1,5 +1,4 @@
-Clitocybe cardanella Fr. SPECIES
-=======
+# Clitocybe cardanella Fr. SPECIES
 
 #### Status
 ACCEPTED

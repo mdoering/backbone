@@ -1,5 +1,4 @@
-Physmatomyces Rehm, 1900 GENUS
-=======
+# Physmatomyces Rehm, 1900 GENUS
 
 #### Status
 ACCEPTED

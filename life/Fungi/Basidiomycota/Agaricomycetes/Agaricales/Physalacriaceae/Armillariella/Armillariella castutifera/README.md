@@ -1,5 +1,4 @@
-Armillariella castutifera Romagn. SPECIES
-=======
+# Armillariella castutifera Romagn. SPECIES
 
 #### Status
 ACCEPTED

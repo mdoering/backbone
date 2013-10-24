@@ -1,5 +1,4 @@
-Disematostoma minor Kahl, 1931 SPECIES
-=======
+# Disematostoma minor Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

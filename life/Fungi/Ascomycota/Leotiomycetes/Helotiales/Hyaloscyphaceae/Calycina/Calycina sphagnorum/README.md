@@ -1,5 +1,4 @@
-Calycina sphagnorum (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina sphagnorum (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

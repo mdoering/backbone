@@ -1,5 +1,4 @@
-Smittium esteparum Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
-=======
+# Smittium esteparum Ferrington, Lichtw. & López-Lastra, 1999 SPECIES
 
 #### Status
 ACCEPTED

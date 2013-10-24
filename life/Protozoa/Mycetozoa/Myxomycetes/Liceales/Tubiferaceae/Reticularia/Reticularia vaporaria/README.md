@@ -1,5 +1,4 @@
-Reticularia vaporaria (Pers.) Chevall. SPECIES
-=======
+# Reticularia vaporaria (Pers.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

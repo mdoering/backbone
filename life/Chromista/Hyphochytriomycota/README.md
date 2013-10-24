@@ -1,5 +1,4 @@
-Hyphochytriomycota Whittaker PHYLUM
-=======
+# Hyphochytriomycota Whittaker PHYLUM
 
 #### Status
 ACCEPTED

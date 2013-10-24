@@ -1,5 +1,4 @@
-Tetrahymena vorax (Kidder, Lilly & Claff, 1940) Kidder, 1941 SPECIES
-=======
+# Tetrahymena vorax (Kidder, Lilly & Claff, 1940) Kidder, 1941 SPECIES
 
 #### Status
 ACCEPTED

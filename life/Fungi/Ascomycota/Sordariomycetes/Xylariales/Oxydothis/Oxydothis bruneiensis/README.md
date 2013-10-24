@@ -1,5 +1,4 @@
-Oxydothis bruneiensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis bruneiensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

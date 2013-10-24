@@ -1,5 +1,4 @@
-Cortinarius balteatotomentosus Rob. Henry SPECIES
-=======
+# Cortinarius balteatotomentosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugoides J.I.R. Larsson, D. Ebert, J. Vavra & Voronin GENUS
-=======
+# Glugoides J.I.R. Larsson, D. Ebert, J. Vavra & Voronin GENUS
 
 #### Status
 ACCEPTED

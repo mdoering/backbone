@@ -1,5 +1,4 @@
-Cryptococcus taeanensis K.S. Shin & Y.H. Park SPECIES
-=======
+# Cryptococcus taeanensis K.S. Shin & Y.H. Park SPECIES
 
 #### Status
 ACCEPTED

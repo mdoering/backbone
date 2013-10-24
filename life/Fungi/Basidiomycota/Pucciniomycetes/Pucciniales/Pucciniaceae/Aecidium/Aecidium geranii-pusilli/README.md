@@ -1,5 +1,4 @@
-Aecidium geranii-pusilli Tranzschel SPECIES
-=======
+# Aecidium geranii-pusilli Tranzschel SPECIES
 
 #### Status
 ACCEPTED

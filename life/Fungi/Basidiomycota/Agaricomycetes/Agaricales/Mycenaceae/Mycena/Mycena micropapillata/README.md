@@ -1,5 +1,4 @@
-Mycena micropapillata Dennis SPECIES
-=======
+# Mycena micropapillata Dennis SPECIES
 
 #### Status
 ACCEPTED

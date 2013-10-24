@@ -1,5 +1,4 @@
-Lachnum lagerheimii J.H. Haines & Dumont SPECIES
-=======
+# Lachnum lagerheimii J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

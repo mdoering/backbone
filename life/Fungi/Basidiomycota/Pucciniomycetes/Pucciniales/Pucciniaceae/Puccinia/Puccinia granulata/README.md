@@ -1,5 +1,4 @@
-Puccinia granulata de Bary SPECIES
-=======
+# Puccinia granulata de Bary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichella coelostomatis Maessen SPECIES
-=======
+# Trichella coelostomatis Maessen SPECIES
 
 #### Status
 ACCEPTED

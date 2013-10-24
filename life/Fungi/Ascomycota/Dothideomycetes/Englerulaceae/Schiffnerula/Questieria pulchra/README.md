@@ -1,5 +1,4 @@
-Questieria pulchra (Sacc.) G. Arnaud SPECIES
-=======
+# Questieria pulchra (Sacc.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

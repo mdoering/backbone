@@ -1,8 +1,7 @@
-Deccanodia eocenicum Singhai SPECIES
-=======
+# Deccanodia eocenica Singhai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Deccanodia eocenicum Singhai
+Deccanodia eocenica Singhai
 
 ### Remarks
 null

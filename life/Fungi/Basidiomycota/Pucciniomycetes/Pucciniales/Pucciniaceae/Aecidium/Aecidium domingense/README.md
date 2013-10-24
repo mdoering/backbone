@@ -1,5 +1,4 @@
-Aecidium domingense F. Kern & Cif. SPECIES
-=======
+# Aecidium domingense F. Kern & Cif. SPECIES
 
 #### Status
 ACCEPTED

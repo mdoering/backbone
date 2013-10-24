@@ -1,5 +1,4 @@
-Leptosphaeria empetri (Fr.) Winter SPECIES
-=======
+# Leptosphaeria empetri (Fr.) Winter SPECIES
 
 #### Status
 ACCEPTED

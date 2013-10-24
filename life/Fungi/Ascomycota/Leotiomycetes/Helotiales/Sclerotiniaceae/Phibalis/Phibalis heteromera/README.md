@@ -1,5 +1,4 @@
-Phibalis heteromera (Mont.) Korf & L.M. Kohn SPECIES
-=======
+# Phibalis heteromera (Mont.) Korf & L.M. Kohn SPECIES
 
 #### Status
 ACCEPTED

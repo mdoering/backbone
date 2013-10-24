@@ -1,5 +1,4 @@
-Acanthostomella coicoides Kofoid & Campbell, 1929 SPECIES
-=======
+# Acanthostomella coicoides Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

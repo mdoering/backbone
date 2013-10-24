@@ -1,14 +1,13 @@
-Sphaeria potentillae Schwein., 1822 SPECIES
-=======
+# Phyllachora potentillae (Schwein.) Peck, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 46 (1822)
+in Seymour, Host Index of the Fungi of North America (Cambridge) 388 (1929)
 
 #### Original name
 Sphaeria potentillae Schwein., 1822

@@ -1,5 +1,4 @@
-Erysiphe arcuata U. Braun, V.P. Heluta & S. Takam., 2006 SPECIES
-=======
+# Erysiphe arcuata U. Braun, V.P. Heluta & S. Takam., 2006 SPECIES
 
 #### Status
 ACCEPTED

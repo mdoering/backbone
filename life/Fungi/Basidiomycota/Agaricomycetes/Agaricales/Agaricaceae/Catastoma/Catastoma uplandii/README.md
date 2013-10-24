@@ -1,5 +1,4 @@
-Catastoma uplandii Lloyd SPECIES
-=======
+# Catastoma uplandii Lloyd SPECIES
 
 #### Status
 ACCEPTED

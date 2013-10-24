@@ -1,5 +1,4 @@
-Leukobium Skuja GENUS
-=======
+# Leukobium Skuja GENUS
 
 #### Status
 ACCEPTED

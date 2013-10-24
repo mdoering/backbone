@@ -1,5 +1,4 @@
-Triglyphium Fresen. GENUS
-=======
+# Triglyphium Fresen. GENUS
 
 #### Status
 ACCEPTED

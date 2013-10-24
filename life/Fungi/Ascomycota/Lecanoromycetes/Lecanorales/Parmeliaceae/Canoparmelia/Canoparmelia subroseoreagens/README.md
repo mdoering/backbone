@@ -1,5 +1,4 @@
-Canoparmelia subroseoreagens Canêz, Marcelli & Elix SPECIES
-=======
+# Canoparmelia subroseoreagens Canêz, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

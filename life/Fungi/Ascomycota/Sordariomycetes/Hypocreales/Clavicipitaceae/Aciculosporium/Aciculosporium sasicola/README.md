@@ -1,5 +1,4 @@
-Aciculosporium sasicola Oguchi SPECIES
-=======
+# Aciculosporium sasicola Oguchi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hispanica Bubák SPECIES
-=======
+# Puccinia hispanica Bubák SPECIES
 
 #### Status
 ACCEPTED

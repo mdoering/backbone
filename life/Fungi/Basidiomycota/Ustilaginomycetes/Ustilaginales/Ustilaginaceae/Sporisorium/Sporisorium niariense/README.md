@@ -1,5 +1,4 @@
-Sporisorium niariense Vánky SPECIES
-=======
+# Sporisorium niariense Vánky SPECIES
 
 #### Status
 ACCEPTED

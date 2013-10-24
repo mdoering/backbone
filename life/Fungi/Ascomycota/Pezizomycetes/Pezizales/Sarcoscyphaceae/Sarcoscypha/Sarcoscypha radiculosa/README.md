@@ -1,5 +1,4 @@
-Sarcoscypha radiculosa (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sarcoscypha radiculosa (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

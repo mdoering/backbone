@@ -1,5 +1,4 @@
-Triaperturina Gawor-Biedowa, 1987 GENUS
-=======
+# Triaperturina Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

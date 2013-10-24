@@ -1,14 +1,13 @@
-Xylogramma hysterinum (Fr.) Rehm, 1888 SPECIES
-=======
+# Mellitiosporium hysterinum (Fr.) Gillet, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Discom. 1(3): 171 (1888)
+Champignons de France, Discom. 187 (1886)
 
 #### Original name
 Stictis hysterina Fr., 1822

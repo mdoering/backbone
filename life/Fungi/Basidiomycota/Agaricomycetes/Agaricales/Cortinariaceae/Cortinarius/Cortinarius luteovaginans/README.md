@@ -1,5 +1,4 @@
-Cortinarius luteovaginans Bidaud & Faurite-Gendron SPECIES
-=======
+# Cortinarius luteovaginans Bidaud & Faurite-Gendron SPECIES
 
 #### Status
 ACCEPTED

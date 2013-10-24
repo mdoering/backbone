@@ -1,5 +1,4 @@
-Laestadia periclymeni Pass., 1888 SPECIES
-=======
+# Laestadia periclymeni Pass., 1888 SPECIES
 
 #### Status
 ACCEPTED

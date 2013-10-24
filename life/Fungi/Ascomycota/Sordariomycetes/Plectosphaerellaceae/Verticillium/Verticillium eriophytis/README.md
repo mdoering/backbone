@@ -1,14 +1,13 @@
-Verticillium eriphyes (Massee) Sacc. & Trotter SPECIES
-=======
+# Verticillium eriophytis (Massee) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 22: 1299 (1913)
 
 #### Original name
 Botrytis eriophytis Massee

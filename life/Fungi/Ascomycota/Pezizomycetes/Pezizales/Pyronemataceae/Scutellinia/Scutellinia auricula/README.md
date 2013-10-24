@@ -1,5 +1,4 @@
-Scutellinia auricula (Schaeff.) Seaver SPECIES
-=======
+# Scutellinia auricula (Schaeff.) Seaver SPECIES
 
 #### Status
 ACCEPTED

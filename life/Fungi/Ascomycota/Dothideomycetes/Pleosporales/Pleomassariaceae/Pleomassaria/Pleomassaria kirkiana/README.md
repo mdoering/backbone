@@ -1,5 +1,4 @@
-Pleomassaria kirkiana (Linds.) Sacc. SPECIES
-=======
+# Pleomassaria kirkiana (Linds.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

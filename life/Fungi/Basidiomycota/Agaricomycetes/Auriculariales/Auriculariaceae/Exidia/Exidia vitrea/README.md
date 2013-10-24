@@ -1,5 +1,4 @@
-Exidia vitrea Rick SPECIES
-=======
+# Exidia vitrea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces tuac Vord. SPECIES
-=======
+# Saccharomyces tuac Vord. SPECIES
 
 #### Status
 ACCEPTED

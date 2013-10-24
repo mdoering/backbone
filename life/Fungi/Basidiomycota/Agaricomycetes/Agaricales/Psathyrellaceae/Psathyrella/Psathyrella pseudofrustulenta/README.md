@@ -1,5 +1,4 @@
-Psathyrella pseudofrustulenta A.H. Sm. SPECIES
-=======
+# Psathyrella pseudofrustulenta A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

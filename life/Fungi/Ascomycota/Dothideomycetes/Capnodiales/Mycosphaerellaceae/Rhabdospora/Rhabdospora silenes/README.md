@@ -1,5 +1,4 @@
-Rhabdospora silenes Petrov {?} SPECIES
-=======
+# Rhabdospora silenes Petrov {?} SPECIES
 
 #### Status
 ACCEPTED

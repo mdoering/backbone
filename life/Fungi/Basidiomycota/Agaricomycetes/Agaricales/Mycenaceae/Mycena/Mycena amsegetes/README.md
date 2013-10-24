@@ -1,5 +1,4 @@
-Mycena amsegetes Secr. SPECIES
-=======
+# Mycena amsegetes Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Webbina decorata SPECIES
-=======
+# Webbina decorata SPECIES
 
 #### Status
 ACCEPTED

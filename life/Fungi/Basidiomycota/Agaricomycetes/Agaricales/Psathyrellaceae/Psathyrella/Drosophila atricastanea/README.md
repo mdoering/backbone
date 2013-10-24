@@ -1,5 +1,4 @@
-Drosophila atricastanea Murrill SPECIES
-=======
+# Drosophila atricastanea Murrill SPECIES
 
 #### Status
 ACCEPTED

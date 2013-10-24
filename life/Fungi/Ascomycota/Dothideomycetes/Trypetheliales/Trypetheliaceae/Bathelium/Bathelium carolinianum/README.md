@@ -1,5 +1,4 @@
-Bathelium carolinianum (Tuck.) R.C. Harris SPECIES
-=======
+# Bathelium carolinianum (Tuck.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

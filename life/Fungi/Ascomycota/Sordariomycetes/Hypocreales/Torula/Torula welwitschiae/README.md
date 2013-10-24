@@ -1,5 +1,4 @@
-Torula welwitschiae Thüm. SPECIES
-=======
+# Torula welwitschiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

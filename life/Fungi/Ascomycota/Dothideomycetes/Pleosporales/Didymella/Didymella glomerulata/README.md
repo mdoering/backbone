@@ -1,5 +1,4 @@
-Didymella glomerulata (Fuckel) Sacc. SPECIES
-=======
+# Didymella glomerulata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora gyrodes H. Magn. SPECIES
-=======
+# Acarospora gyrodes H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia elaphricola Siemaszko SPECIES
-=======
+# Laboulbenia elaphricola Siemaszko SPECIES
 
 #### Status
 ACCEPTED

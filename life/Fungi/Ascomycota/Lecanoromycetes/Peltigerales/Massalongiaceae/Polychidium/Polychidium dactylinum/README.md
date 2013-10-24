@@ -1,5 +1,4 @@
-Polychidium dactylinum Trevis. SPECIES
-=======
+# Polychidium dactylinum Trevis. SPECIES
 
 #### Status
 ACCEPTED

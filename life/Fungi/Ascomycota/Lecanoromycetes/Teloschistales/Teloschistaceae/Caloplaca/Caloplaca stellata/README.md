@@ -1,5 +1,4 @@
-Caloplaca stellata Wetmore & Kärnefelt SPECIES
-=======
+# Caloplaca stellata Wetmore & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

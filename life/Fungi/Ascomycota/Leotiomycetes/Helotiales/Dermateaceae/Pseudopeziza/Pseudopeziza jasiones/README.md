@@ -1,14 +1,13 @@
-Pseudopeziza jasionis (Romell) Nannf. SPECIES
-=======
+# Pseudopeziza jasiones (Romell) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 2 8(no. 2): 180 (1932)
 
 #### Original name
 Pyrenopeziza jasiones Romell, 1895

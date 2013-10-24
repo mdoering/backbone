@@ -1,5 +1,4 @@
-Leveillula simonianii U. Braun SPECIES
-=======
+# Leveillula simonianii U. Braun SPECIES
 
 #### Status
 ACCEPTED

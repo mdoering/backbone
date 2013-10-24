@@ -1,5 +1,4 @@
-Scleromeris Syd. GENUS
-=======
+# Scleromeris Syd. GENUS
 
 #### Status
 ACCEPTED

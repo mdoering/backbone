@@ -1,5 +1,4 @@
-Chromulinales Pascher, 1910 ORDER
-=======
+# Chromulinales Pascher, 1910 ORDER
 
 #### Status
 ACCEPTED

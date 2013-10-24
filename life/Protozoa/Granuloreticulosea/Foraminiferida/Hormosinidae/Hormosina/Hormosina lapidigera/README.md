@@ -1,5 +1,4 @@
-Hormosina lapidigera Rhumbler, 1905 SPECIES
-=======
+# Hormosina lapidigera Rhumbler, 1905 SPECIES
 
 #### Status
 ACCEPTED

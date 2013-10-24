@@ -1,5 +1,4 @@
-Leptosphaeria zeicola Saccas SPECIES
-=======
+# Leptosphaeria zeicola Saccas SPECIES
 
 #### Status
 ACCEPTED

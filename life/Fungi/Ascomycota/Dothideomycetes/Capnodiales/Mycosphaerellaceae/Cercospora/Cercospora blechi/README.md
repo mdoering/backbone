@@ -1,5 +1,4 @@
-Cercospora blechi Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora blechi Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

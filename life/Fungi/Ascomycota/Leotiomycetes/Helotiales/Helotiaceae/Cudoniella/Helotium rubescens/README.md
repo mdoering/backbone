@@ -1,5 +1,4 @@
-Helotium rubescens P. Crouan & H. Crouan, 1867 SPECIES
-=======
+# Helotium rubescens P. Crouan & H. Crouan, 1867 SPECIES
 
 #### Status
 ACCEPTED

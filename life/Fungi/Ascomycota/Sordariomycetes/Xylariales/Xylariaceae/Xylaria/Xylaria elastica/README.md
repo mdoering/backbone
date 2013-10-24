@@ -1,5 +1,4 @@
-Xylaria elastica Cooke SPECIES
-=======
+# Xylaria elastica Cooke SPECIES
 
 #### Status
 ACCEPTED

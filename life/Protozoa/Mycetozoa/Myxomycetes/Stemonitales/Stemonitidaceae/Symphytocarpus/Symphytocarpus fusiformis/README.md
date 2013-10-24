@@ -1,5 +1,4 @@
-Symphytocarpus fusiformis Nann.-Bremek. & Härk., 1979 SPECIES
-=======
+# Symphytocarpus fusiformis Nann.-Bremek. & Härk., 1979 SPECIES
 
 #### Status
 ACCEPTED

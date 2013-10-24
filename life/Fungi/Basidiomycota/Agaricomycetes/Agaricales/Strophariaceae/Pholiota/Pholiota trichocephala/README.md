@@ -1,5 +1,4 @@
-Pholiota trichocephala Trog SPECIES
-=======
+# Pholiota trichocephala Trog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium perminutum Keissl. SPECIES
-=======
+# Thelidium perminutum Keissl. SPECIES
 
 #### Status
 ACCEPTED

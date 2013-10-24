@@ -1,5 +1,4 @@
-Omphalodiscus subcerebriformis (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Omphalodiscus subcerebriformis (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

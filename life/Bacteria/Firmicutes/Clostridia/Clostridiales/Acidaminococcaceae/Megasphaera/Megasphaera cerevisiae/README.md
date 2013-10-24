@@ -1,5 +1,4 @@
-Megasphaera cerevisiae Engelmann & Weiss, 1986 SPECIES
-=======
+# Megasphaera cerevisiae Engelmann & Weiss, 1986 SPECIES
 
 #### Status
 ACCEPTED

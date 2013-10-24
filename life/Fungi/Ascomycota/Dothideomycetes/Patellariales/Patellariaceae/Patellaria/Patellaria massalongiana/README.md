@@ -1,5 +1,4 @@
-Patellaria massalongiana Trevis. SPECIES
-=======
+# Patellaria massalongiana Trevis. SPECIES
 
 #### Status
 ACCEPTED

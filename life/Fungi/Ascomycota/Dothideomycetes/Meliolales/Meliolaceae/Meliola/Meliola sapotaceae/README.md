@@ -1,5 +1,4 @@
-Meliola sapotaceae anon. SPECIES
-=======
+# Meliola sapotaceae anon. SPECIES
 
 #### Status
 ACCEPTED

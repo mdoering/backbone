@@ -1,5 +1,4 @@
-Fusarium larvatum Fuckel SPECIES
-=======
+# Fusarium larvatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

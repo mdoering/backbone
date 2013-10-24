@@ -1,5 +1,4 @@
-Ascospora Montagne, 1849 GENUS
-=======
+# Ascospora Montagne, 1849 GENUS
 
 #### Status
 ACCEPTED

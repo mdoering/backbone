@@ -1,5 +1,4 @@
-Sydowina vestita (Rehm) Petr. SPECIES
-=======
+# Sydowina vestita (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

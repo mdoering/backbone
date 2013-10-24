@@ -1,17 +1,16 @@
-Triphragmium formosana Sawada SPECIES
-=======
+# Nyssopsora formosana (Sawada) Lütjeh., 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Blumea, Suppl. 29(6): 160 (1937)
 
 #### Original name
-Triphragmium formosana Sawada
+Triphragmium formosanum Sawada, 1931
 
 ### Remarks
 null

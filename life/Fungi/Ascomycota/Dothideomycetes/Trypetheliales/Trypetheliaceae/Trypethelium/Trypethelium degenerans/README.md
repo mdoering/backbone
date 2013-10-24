@@ -1,5 +1,4 @@
-Trypethelium degenerans (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium degenerans (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

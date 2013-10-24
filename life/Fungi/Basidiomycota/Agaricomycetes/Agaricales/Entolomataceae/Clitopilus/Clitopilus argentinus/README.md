@@ -1,5 +1,4 @@
-Clitopilus argentinus Singer SPECIES
-=======
+# Clitopilus argentinus Singer SPECIES
 
 #### Status
 ACCEPTED

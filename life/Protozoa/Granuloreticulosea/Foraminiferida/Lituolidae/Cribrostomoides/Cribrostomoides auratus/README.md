@@ -1,5 +1,4 @@
-Cribrostomoides auratus Saidova, 1975 SPECIES
-=======
+# Cribrostomoides auratus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

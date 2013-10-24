@@ -1,5 +1,4 @@
-Rhizomyces ctenophorus Thaxt., 1896 SPECIES
-=======
+# Rhizomyces ctenophorus Thaxt., 1896 SPECIES
 
 #### Status
 ACCEPTED

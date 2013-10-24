@@ -1,5 +1,4 @@
-Thelebolus lignatilis Wallr. SPECIES
-=======
+# Thelebolus lignatilis Wallr. SPECIES
 
 #### Status
 ACCEPTED

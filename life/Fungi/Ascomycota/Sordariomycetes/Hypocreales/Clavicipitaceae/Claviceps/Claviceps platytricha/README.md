@@ -1,5 +1,4 @@
-Claviceps platytricha Langdon SPECIES
-=======
+# Claviceps platytricha Langdon SPECIES
 
 #### Status
 ACCEPTED

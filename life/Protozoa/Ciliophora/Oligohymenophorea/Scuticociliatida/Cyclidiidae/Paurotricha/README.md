@@ -1,5 +1,4 @@
-Paurotricha Dragesco & Dragesco-Kernéis, 1991 GENUS
-=======
+# Paurotricha Dragesco & Dragesco-Kernéis, 1991 GENUS
 
 #### Status
 ACCEPTED

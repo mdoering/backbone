@@ -1,14 +1,13 @@
-Leptotrema hawaiiense Hale SPECIES
-=======
+# Thelotrema hawaiiense (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 27: 490 (1974)
+Mycotaxon 11(1): 131 (1980)
 
 #### Original name
 Leptotrema hawaiiense Hale

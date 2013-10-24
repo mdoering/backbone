@@ -1,17 +1,16 @@
-Urceolella hirta (Velen.) Svrcek, J.R. De Sloover & Baral, 2009 SPECIES
-=======
+# Betulina hirta Velen., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Novitates Mycologicae Novissimae 138 (1947)
 
 #### Original name
-null
+Betulina hirta Velen., 1947
 
 ### Remarks
 null

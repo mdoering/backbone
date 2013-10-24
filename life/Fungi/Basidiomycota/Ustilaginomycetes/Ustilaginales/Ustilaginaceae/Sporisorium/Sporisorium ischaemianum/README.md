@@ -1,5 +1,4 @@
-Sporisorium ischaemianum A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Sporisorium ischaemianum A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agromonas Ohta & Hattori, 1985 GENUS
-=======
+# Agromonas Ohta & Hattori, 1985 GENUS
 
 #### Status
 ACCEPTED

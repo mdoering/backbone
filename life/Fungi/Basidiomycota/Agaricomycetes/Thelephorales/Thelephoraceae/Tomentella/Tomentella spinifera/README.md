@@ -1,5 +1,4 @@
-Tomentella spinifera (Burt) M.P. Christ. SPECIES
-=======
+# Tomentella spinifera (Burt) M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

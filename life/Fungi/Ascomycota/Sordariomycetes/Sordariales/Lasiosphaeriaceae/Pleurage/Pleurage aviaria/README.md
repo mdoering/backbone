@@ -1,5 +1,4 @@
-Pleurage aviaria (P. Karst.) Kuntze SPECIES
-=======
+# Pleurage aviaria (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

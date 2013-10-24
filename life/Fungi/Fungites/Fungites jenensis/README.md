@@ -1,5 +1,4 @@
-Fungites jenensis Hallier SPECIES
-=======
+# Fungites jenensis Hallier SPECIES
 
 #### Status
 ACCEPTED

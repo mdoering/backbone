@@ -1,5 +1,4 @@
-Fungus truncatulus (Gillet) Kuntze SPECIES
-=======
+# Fungus truncatulus (Gillet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

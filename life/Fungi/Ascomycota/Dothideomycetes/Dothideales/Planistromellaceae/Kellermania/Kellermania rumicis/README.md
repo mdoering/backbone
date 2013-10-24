@@ -1,5 +1,4 @@
-Kellermania rumicis Fautrey & Lambotte SPECIES
-=======
+# Kellermania rumicis Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeocystodinium benjaminii Drugg, 1967 SPECIES
-=======
+# Palaeocystodinium benjaminii Drugg, 1967 SPECIES
 
 #### Status
 ACCEPTED

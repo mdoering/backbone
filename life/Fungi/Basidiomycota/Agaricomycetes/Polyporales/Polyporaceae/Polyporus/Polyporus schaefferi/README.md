@@ -1,5 +1,4 @@
-Polyporus schaefferi Heufl. SPECIES
-=======
+# Polyporus schaefferi Heufl. SPECIES
 
 #### Status
 ACCEPTED

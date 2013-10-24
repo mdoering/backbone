@@ -1,5 +1,4 @@
-Pyrenopeziza coriariae (Pass.) E. Müll. & Hütter SPECIES
-=======
+# Pyrenopeziza coriariae (Pass.) E. Müll. & Hütter SPECIES
 
 #### Status
 ACCEPTED

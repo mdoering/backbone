@@ -1,5 +1,4 @@
-Didymella maderensis Petr. SPECIES
-=======
+# Didymella maderensis Petr. SPECIES
 
 #### Status
 ACCEPTED

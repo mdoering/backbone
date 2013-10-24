@@ -1,5 +1,4 @@
-Mycena multiplicata Har. Takah. SPECIES
-=======
+# Mycena multiplicata Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

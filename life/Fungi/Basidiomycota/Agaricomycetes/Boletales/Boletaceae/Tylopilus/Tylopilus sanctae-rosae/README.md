@@ -1,5 +1,4 @@
-Tylopilus sanctae-rosae Singer SPECIES
-=======
+# Tylopilus sanctae-rosae Singer SPECIES
 
 #### Status
 ACCEPTED

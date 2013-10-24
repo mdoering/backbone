@@ -1,5 +1,4 @@
-Echinoplaca macgregorii (Vain.) Lücking, Sérus. & Vezda SPECIES
-=======
+# Echinoplaca macgregorii (Vain.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

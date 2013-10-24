@@ -1,5 +1,4 @@
-Thelidium polycarpon Servít SPECIES
-=======
+# Thelidium polycarpon Servít SPECIES
 
 #### Status
 ACCEPTED

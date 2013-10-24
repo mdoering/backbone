@@ -1,5 +1,4 @@
-Claudopus quercinus Velen. SPECIES
-=======
+# Claudopus quercinus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis articulata (Vain.) Redinger SPECIES
-=======
+# Phaeographis articulata (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium vitiligo D. Ballantine SPECIES
-=======
+# Gymnodinium vitiligo D. Ballantine SPECIES
 
 #### Status
 ACCEPTED

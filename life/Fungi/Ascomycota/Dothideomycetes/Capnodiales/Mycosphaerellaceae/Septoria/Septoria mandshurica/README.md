@@ -1,5 +1,4 @@
-Septoria mandshurica Miura SPECIES
-=======
+# Septoria mandshurica Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema coniophilum Goward SPECIES
-=======
+# Collema coniophilum Goward SPECIES
 
 #### Status
 ACCEPTED

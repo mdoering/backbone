@@ -1,5 +1,4 @@
-Pterula epiphylla Corner, 1950 SPECIES
-=======
+# Pterula epiphylla Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

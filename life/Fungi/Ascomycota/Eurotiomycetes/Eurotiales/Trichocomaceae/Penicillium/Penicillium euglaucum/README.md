@@ -1,5 +1,4 @@
-Penicillium euglaucum J.F.H. Beyma SPECIES
-=======
+# Penicillium euglaucum J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

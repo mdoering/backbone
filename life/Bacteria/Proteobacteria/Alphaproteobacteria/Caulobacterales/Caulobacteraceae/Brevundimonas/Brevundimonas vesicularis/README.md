@@ -1,11 +1,10 @@
-Pseudomonas vesiculare (Büsing et al., 1953) Galarneault & Leifson, 1964 SPECIES
-=======
+# Brevundimonas vesicularis (Büsing et al., 1953) Segers et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

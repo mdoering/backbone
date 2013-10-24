@@ -1,5 +1,4 @@
-Chalara nigricollis Nag Raj & W.B. Kendr. SPECIES
-=======
+# Chalara nigricollis Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

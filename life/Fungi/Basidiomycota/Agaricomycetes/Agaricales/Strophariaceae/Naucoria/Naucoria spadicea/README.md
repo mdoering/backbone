@@ -1,14 +1,13 @@
-Alnicola spadicea (D.A. Reid) Bon, 1990 SPECIES
-=======
+# Naucoria spadicea D.A. Reid, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 20(no. 78): 40 (1990)
+Trans. Br. mycol. Soc. 82(2): 206 (1984)
 
 #### Original name
 Naucoria spadicea D.A. Reid, 1984

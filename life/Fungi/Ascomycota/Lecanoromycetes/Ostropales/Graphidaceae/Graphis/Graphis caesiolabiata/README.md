@@ -1,5 +1,4 @@
-Graphis caesiolabiata Vain. SPECIES
-=======
+# Graphis caesiolabiata Vain. SPECIES
 
 #### Status
 ACCEPTED

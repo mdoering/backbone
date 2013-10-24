@@ -1,5 +1,4 @@
-Hamigera reticulata Samson SPECIES
-=======
+# Hamigera reticulata Samson SPECIES
 
 #### Status
 ACCEPTED

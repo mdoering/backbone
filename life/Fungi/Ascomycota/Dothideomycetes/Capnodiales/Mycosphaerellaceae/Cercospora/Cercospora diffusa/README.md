@@ -1,5 +1,4 @@
-Cercospora diffusa Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora diffusa Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

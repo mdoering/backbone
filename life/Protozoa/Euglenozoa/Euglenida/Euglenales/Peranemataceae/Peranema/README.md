@@ -1,14 +1,13 @@
-Pseudoperanema Christen, 1962 GENUS
-=======
+# Peranema F. Dujardin, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+(Roret's Suite à Buffon) Infusoires, 353.
 
 #### Original name
 null

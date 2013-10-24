@@ -1,5 +1,4 @@
-Lactarius subamarus Verbeken SPECIES
-=======
+# Lactarius subamarus Verbeken SPECIES
 
 #### Status
 ACCEPTED

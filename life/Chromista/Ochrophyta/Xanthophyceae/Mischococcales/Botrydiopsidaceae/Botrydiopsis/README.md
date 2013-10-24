@@ -1,5 +1,4 @@
-Botrydiopsis A. Borzì, 1889 GENUS
-=======
+# Botrydiopsis A. Borzì, 1889 GENUS
 
 #### Status
 ACCEPTED

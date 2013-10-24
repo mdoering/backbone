@@ -1,5 +1,4 @@
-Lobocella Borgert, 1907 GENUS
-=======
+# Lobocella Borgert, 1907 GENUS
 
 #### Status
 ACCEPTED

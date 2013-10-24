@@ -1,5 +1,4 @@
-Lecanora exserta (Hue) Zahlbr. SPECIES
-=======
+# Lecanora exserta (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pharcidia ephebes Henssen, 1963 SPECIES
-=======
+# Stigmidium ephebes (Henssen) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 18(no. 1): 111 (1963)
+Kew Bull. 30: 201 (1975)
 
 #### Original name
 Pharcidia ephebes Henssen, 1963

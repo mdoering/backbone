@@ -1,5 +1,4 @@
-Cryptosporium imberbe Fr. SPECIES
-=======
+# Cryptosporium imberbe Fr. SPECIES
 
 #### Status
 ACCEPTED

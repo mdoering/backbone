@@ -1,5 +1,4 @@
-Pleospora cerastii Feltgen SPECIES
-=======
+# Pleospora cerastii Feltgen SPECIES
 
 #### Status
 ACCEPTED

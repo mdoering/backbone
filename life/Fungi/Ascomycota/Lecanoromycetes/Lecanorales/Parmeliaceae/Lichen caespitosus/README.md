@@ -1,5 +1,4 @@
-Lichen caespitosus Vill. SPECIES
-=======
+# Lichen caespitosus Vill. SPECIES
 
 #### Status
 ACCEPTED

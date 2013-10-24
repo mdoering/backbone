@@ -1,5 +1,4 @@
-Protomyces sonchi Lindf. SPECIES
-=======
+# Protomyces sonchi Lindf. SPECIES
 
 #### Status
 ACCEPTED

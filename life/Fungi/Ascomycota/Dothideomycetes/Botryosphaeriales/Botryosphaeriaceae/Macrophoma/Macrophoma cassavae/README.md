@@ -1,5 +1,4 @@
-Macrophoma cassavae Sawada SPECIES
-=======
+# Macrophoma cassavae Sawada SPECIES
 
 #### Status
 ACCEPTED

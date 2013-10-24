@@ -1,5 +1,4 @@
-Stereum transvaalium Van der Byl SPECIES
-=======
+# Stereum transvaalium Van der Byl SPECIES
 
 #### Status
 ACCEPTED

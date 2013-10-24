@@ -1,5 +1,4 @@
-Roselliniella papuana Diederich SPECIES
-=======
+# Roselliniella papuana Diederich SPECIES
 
 #### Status
 ACCEPTED

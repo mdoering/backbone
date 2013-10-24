@@ -1,14 +1,13 @@
-Leptosphaeria culmifraga var. linearis Sacc., 1881 VARIETY
-=======
+# Leptosphaeria linearis (Sacc.) E. Müll., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 319 (1881)
+Sydowia 4(1-6): 258 (1950)
 
 #### Original name
 Leptosphaeria culmifraga var. linearis Sacc., 1881

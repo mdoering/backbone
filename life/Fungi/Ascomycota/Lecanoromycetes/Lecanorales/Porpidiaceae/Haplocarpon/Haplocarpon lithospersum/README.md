@@ -1,5 +1,4 @@
-Haplocarpon lithospersum (Zahlbr.) M. Choisy SPECIES
-=======
+# Haplocarpon lithospersum (Zahlbr.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

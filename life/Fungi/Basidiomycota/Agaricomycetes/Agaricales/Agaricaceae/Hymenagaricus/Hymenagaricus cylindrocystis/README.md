@@ -1,5 +1,4 @@
-Hymenagaricus cylindrocystis Heinem. & Little Flower SPECIES
-=======
+# Hymenagaricus cylindrocystis Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

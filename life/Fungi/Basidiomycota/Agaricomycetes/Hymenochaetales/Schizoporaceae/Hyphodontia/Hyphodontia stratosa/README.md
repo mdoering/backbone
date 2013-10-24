@@ -1,5 +1,4 @@
-Hyphodontia stratosa Hjortstam & Ryvarden SPECIES
-=======
+# Hyphodontia stratosa Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

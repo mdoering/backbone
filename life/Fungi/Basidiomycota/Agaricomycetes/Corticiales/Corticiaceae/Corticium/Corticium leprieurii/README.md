@@ -1,5 +1,4 @@
-Corticium leprieurii Mont. SPECIES
-=======
+# Corticium leprieurii Mont. SPECIES
 
 #### Status
 ACCEPTED

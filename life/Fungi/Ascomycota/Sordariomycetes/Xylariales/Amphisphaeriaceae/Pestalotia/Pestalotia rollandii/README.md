@@ -1,8 +1,7 @@
-Pestalotia rollandi Fautrey SPECIES
-=======
+# Pestalotia rollandii Fautrey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia rollandi Fautrey
+Pestalotia rollandii Fautrey
 
 ### Remarks
 null

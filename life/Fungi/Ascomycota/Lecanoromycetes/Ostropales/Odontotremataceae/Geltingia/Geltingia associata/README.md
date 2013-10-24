@@ -1,17 +1,16 @@
-Nesolechia leptostigma (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Geltingia associata (Th. Fr.) Alstrup & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 18: 172 (1906)
+Meddr Grønland, Biosc. 31: 33 (1990)
 
 #### Original name
-Lecidea leptostigma Nyl.
+Lecidea associata Th. Fr.
 
 ### Remarks
 null

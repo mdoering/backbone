@@ -1,5 +1,4 @@
-Conocybe dunensis T.J. Wallace, 1960 SPECIES
-=======
+# Conocybe dunensis T.J. Wallace, 1960 SPECIES
 
 #### Status
 ACCEPTED

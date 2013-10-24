@@ -1,5 +1,4 @@
-Lecidea schistiseda Zahlbr. SPECIES
-=======
+# Lecidea schistiseda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

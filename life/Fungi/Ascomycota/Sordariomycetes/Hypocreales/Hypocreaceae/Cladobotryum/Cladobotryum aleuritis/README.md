@@ -1,17 +1,16 @@
-Cladobotryum aleuritidis Sawada SPECIES
-=======
+# Cladobotryum aleuritis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 184 (1959)
 
 #### Original name
-Cladobotryum aleuritidis Sawada
+Cladobotryum aleuritis Sawada
 
 ### Remarks
 null

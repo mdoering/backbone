@@ -1,5 +1,4 @@
-Coprinus leucostictus Pat. SPECIES
-=======
+# Coprinus leucostictus Pat. SPECIES
 
 #### Status
 ACCEPTED

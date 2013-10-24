@@ -1,5 +1,4 @@
-Appendicisporonites typicus R.K. Saxena & S. Khare SPECIES
-=======
+# Appendicisporonites typicus R.K. Saxena & S. Khare SPECIES
 
 #### Status
 ACCEPTED

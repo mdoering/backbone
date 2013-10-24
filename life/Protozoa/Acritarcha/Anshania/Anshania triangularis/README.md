@@ -1,5 +1,4 @@
-Anshania triangularis Ouyang Shu, 1979 SPECIES
-=======
+# Anshania triangularis Ouyang Shu, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha leucina Müll. Arg. SPECIES
-=======
+# Opegrapha leucina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

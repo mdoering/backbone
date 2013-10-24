@@ -1,5 +1,4 @@
-Cerebella spartinae Ellis & Everh. SPECIES
-=======
+# Cerebella spartinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vakrabeeja GENUS
-=======
+# Vakrabeeja GENUS
 
 #### Status
 ACCEPTED

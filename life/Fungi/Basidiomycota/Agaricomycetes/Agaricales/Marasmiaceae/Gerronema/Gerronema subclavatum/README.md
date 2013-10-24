@@ -1,5 +1,4 @@
-Gerronema subclavatum (Peck) Singer ex Redhead SPECIES
-=======
+# Gerronema subclavatum (Peck) Singer ex Redhead SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicomyces anguisporus Pat. SPECIES
-=======
+# Helicomyces anguisporus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora petrakiana (Rehm) Petr. SPECIES
-=======
+# Dothiora petrakiana (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

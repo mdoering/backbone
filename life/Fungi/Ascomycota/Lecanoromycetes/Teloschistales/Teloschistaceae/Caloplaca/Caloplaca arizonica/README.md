@@ -1,5 +1,4 @@
-Caloplaca arizonica H. Magn. SPECIES
-=======
+# Caloplaca arizonica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

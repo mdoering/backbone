@@ -1,5 +1,4 @@
-Mycena minutuliaffinis Singer SPECIES
-=======
+# Mycena minutuliaffinis Singer SPECIES
 
 #### Status
 ACCEPTED

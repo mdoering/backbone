@@ -1,5 +1,4 @@
-Erysiphe cladrastidis (Jacz.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe cladrastidis (Jacz.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

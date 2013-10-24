@@ -1,5 +1,4 @@
-Tuburcinia polygonati Lavrov SPECIES
-=======
+# Tuburcinia polygonati Lavrov SPECIES
 
 #### Status
 ACCEPTED

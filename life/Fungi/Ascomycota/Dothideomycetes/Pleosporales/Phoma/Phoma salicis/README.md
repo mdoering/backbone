@@ -1,5 +1,4 @@
-Phoma salicis Sacc. SPECIES
-=======
+# Phoma salicis Sacc. SPECIES
 
 #### Status
 ACCEPTED

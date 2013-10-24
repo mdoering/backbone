@@ -1,5 +1,4 @@
-Agaricus lantiusculus Britzelm. SPECIES
-=======
+# Agaricus lantiusculus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

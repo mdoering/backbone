@@ -1,5 +1,4 @@
-Lecanora substellata SPECIES
-=======
+# Lecanora substellata SPECIES
 
 #### Status
 ACCEPTED

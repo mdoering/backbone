@@ -1,5 +1,4 @@
-Gyalolechia pruinosa Körb. SPECIES
-=======
+# Gyalolechia pruinosa Körb. SPECIES
 
 #### Status
 ACCEPTED

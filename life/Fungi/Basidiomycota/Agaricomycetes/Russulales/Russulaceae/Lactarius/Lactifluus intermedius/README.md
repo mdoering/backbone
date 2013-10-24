@@ -1,5 +1,4 @@
-Lactifluus intermedius (Krombh.) Kuntze SPECIES
-=======
+# Lactifluus intermedius (Krombh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

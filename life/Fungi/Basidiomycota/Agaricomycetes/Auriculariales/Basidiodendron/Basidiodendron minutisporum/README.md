@@ -1,14 +1,13 @@
-Sebacina minutispora McNabb, 1969 SPECIES
-=======
+# Basidiodendron minutisporum (McNabb) Wojewoda, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 7(3): 249 (1969)
+Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 88 (1981)
 
 #### Original name
 Sebacina minutispora McNabb, 1969

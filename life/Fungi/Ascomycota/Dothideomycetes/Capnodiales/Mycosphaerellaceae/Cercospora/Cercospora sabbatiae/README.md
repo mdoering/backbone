@@ -1,5 +1,4 @@
-Cercospora sabbatiae Ellis & Everh. SPECIES
-=======
+# Cercospora sabbatiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

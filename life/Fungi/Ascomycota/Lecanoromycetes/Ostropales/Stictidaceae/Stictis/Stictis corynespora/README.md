@@ -1,5 +1,4 @@
-Stictis corynespora Mont. SPECIES
-=======
+# Stictis corynespora Mont. SPECIES
 
 #### Status
 ACCEPTED

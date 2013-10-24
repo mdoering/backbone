@@ -1,5 +1,4 @@
-Verrucaria wolferi SPECIES
-=======
+# Verrucaria wolferi SPECIES
 
 #### Status
 ACCEPTED

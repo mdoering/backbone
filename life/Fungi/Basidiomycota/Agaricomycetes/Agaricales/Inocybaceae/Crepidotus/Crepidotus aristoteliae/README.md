@@ -1,5 +1,4 @@
-Crepidotus aristoteliae Singer SPECIES
-=======
+# Crepidotus aristoteliae Singer SPECIES
 
 #### Status
 ACCEPTED

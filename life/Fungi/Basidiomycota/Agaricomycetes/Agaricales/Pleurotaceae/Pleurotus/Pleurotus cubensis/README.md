@@ -1,5 +1,4 @@
-Pleurotus cubensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Pleurotus cubensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

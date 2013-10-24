@@ -1,8 +1,7 @@
-Oceanospirillum minutulum (Watanabe, 1959) Hylemon et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Marinospirillum minutulum (Watanabe, 1959) Satomi et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

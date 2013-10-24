@@ -1,5 +1,4 @@
-Schizothyrium rufulum (Berk. & M.A. Curtis) Arx SPECIES
-=======
+# Schizothyrium rufulum (Berk. & M.A. Curtis) Arx SPECIES
 
 #### Status
 ACCEPTED

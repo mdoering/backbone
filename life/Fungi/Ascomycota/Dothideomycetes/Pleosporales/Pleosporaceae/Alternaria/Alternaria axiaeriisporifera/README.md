@@ -1,5 +1,4 @@
-Alternaria axiaeriisporifera E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria axiaeriisporifera E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

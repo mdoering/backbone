@@ -1,17 +1,16 @@
-Poria phlebiiformis Berk. ex Cooke, 1886 SPECIES
-=======
+# Hapalopilus phlebiiformis (Berk. ex Cooke) Ryvarden, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(2): 528 (1987)
 
 #### Original name
-null
+Poria phlebiaeformis Berk. ex Cooke
 
 ### Remarks
 null

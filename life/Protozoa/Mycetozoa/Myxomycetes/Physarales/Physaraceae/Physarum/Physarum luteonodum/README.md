@@ -1,5 +1,4 @@
-Physarum luteonodum Nann.-Bremek. & Finger, 1987 SPECIES
-=======
+# Physarum luteonodum Nann.-Bremek. & Finger, 1987 SPECIES
 
 #### Status
 ACCEPTED

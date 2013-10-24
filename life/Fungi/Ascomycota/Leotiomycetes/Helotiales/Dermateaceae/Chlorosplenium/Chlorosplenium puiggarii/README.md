@@ -1,5 +1,4 @@
-Chlorosplenium puiggarii Speg. SPECIES
-=======
+# Chlorosplenium puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

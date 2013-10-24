@@ -1,5 +1,4 @@
-Arachnospora insolita R.F. Castañeda, Minter & Camino, 2003 SPECIES
-=======
+# Arachnospora insolita R.F. Castañeda, Minter & Camino, 2003 SPECIES
 
 #### Status
 ACCEPTED

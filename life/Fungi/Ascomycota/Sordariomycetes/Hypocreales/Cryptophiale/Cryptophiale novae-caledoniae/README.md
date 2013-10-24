@@ -1,5 +1,4 @@
-Cryptophiale novae-caledoniae McKenzie & Kuthub., 1993 SPECIES
-=======
+# Cryptophiale novae-caledoniae McKenzie & Kuthub., 1993 SPECIES
 
 #### Status
 ACCEPTED

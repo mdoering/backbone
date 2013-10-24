@@ -1,5 +1,4 @@
-Rhaphidohelix eligans Moebius, 1880 SPECIES
-=======
+# Rhaphidohelix eligans Moebius, 1880 SPECIES
 
 #### Status
 ACCEPTED

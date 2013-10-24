@@ -1,5 +1,4 @@
-Alternaria suffruticosicola Meng Zhang, Z.S. Chen & T.Y. Zhang SPECIES
-=======
+# Alternaria suffruticosicola Meng Zhang, Z.S. Chen & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina ramosii Syd. SPECIES
-=======
+# Parasterina ramosii Syd. SPECIES
 
 #### Status
 ACCEPTED

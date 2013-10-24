@@ -1,5 +1,4 @@
-Ramularia oplopanacis U. Braun & Crous SPECIES
-=======
+# Ramularia oplopanacis U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

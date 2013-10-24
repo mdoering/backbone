@@ -1,5 +1,4 @@
-Vorticella operculata SPECIES
-=======
+# Vorticella operculata SPECIES
 
 #### Status
 ACCEPTED

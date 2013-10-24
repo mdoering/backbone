@@ -1,5 +1,4 @@
-Laboulbenia clivinae Thaxt. SPECIES
-=======
+# Laboulbenia clivinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

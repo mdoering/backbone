@@ -1,5 +1,4 @@
-Labyrinthodictyon magnificum Valkanov SPECIES
-=======
+# Labyrinthodictyon magnificum Valkanov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnophaeum spongiosum (M.E. Barr) Bat. & Cif. SPECIES
-=======
+# Capnophaeum spongiosum (M.E. Barr) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

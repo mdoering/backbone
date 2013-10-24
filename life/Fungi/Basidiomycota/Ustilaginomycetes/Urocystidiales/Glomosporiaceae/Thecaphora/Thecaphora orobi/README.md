@@ -1,5 +1,4 @@
-Thecaphora orobi Ziling SPECIES
-=======
+# Thecaphora orobi Ziling SPECIES
 
 #### Status
 ACCEPTED

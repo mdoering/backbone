@@ -1,5 +1,4 @@
-Dendrosarcus spiculifer (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus spiculifer (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

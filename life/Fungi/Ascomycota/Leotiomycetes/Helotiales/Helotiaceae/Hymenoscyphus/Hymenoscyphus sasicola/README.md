@@ -1,8 +1,7 @@
-Hymenoscypha sasicola I. Hino & Katum. SPECIES
-=======
+# Hymenoscyphus sasicola I. Hino & Katum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha sasicola I. Hino & Katum.
+Hymenoscyphus sasicola I. Hino & Katum.
 
 ### Remarks
 null

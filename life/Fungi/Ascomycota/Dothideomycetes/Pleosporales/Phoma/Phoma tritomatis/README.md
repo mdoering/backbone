@@ -1,5 +1,4 @@
-Phoma tritomatis Bres. SPECIES
-=======
+# Phoma tritomatis Bres. SPECIES
 
 #### Status
 ACCEPTED

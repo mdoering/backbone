@@ -1,5 +1,4 @@
-Stigmatomyces arcuatus Thaxt. SPECIES
-=======
+# Stigmatomyces arcuatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

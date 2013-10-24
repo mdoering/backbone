@@ -1,5 +1,4 @@
-Mollisia phragmitis (Velen.) Gminder SPECIES
-=======
+# Mollisia phragmitis (Velen.) Gminder SPECIES
 
 #### Status
 ACCEPTED

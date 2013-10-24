@@ -1,5 +1,4 @@
-Mycosphaerella calycanthi Koshk. & Frolov SPECIES
-=======
+# Mycosphaerella calycanthi Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

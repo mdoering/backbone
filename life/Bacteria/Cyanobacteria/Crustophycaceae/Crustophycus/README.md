@@ -1,5 +1,4 @@
-Crustophycus A.G. Vologdin, 1962 GENUS
-=======
+# Crustophycus A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

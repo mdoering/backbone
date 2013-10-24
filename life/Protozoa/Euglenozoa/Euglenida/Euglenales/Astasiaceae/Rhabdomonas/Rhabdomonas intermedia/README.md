@@ -1,5 +1,4 @@
-Rhabdomonas intermedia Christen SPECIES
-=======
+# Rhabdomonas intermedia Christen SPECIES
 
 #### Status
 ACCEPTED

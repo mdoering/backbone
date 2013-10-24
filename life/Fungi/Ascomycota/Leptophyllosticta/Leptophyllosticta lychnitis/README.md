@@ -1,5 +1,4 @@
-Leptophyllosticta lychnitis I.E. Brezhnev, 1939 SPECIES
-=======
+# Leptophyllosticta lychnitis I.E. Brezhnev, 1939 SPECIES
 
 #### Status
 ACCEPTED

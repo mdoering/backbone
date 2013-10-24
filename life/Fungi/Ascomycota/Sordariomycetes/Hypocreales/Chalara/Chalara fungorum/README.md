@@ -1,14 +1,13 @@
-Cylindrium fungorum Sacc., 1873 SPECIES
-=======
+# Chalara fungorum (Sacc.) Sacc., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Accad. Sci. Ven. -Trent. -Istr. 2: 225 (1873)
+Michelia 1(no. 1): 80 (1877)
 
 #### Original name
 Cylindrium fungorum Sacc., 1873

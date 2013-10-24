@@ -1,5 +1,4 @@
-Parmelia oregana Gyeln. SPECIES
-=======
+# Parmelia oregana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

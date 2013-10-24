@@ -1,5 +1,4 @@
-Rotaliella roscoffensis Grell, 1957 SPECIES
-=======
+# Rotaliella roscoffensis Grell, 1957 SPECIES
 
 #### Status
 ACCEPTED

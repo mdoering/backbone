@@ -1,5 +1,4 @@
-Lembosia macula Lév. SPECIES
-=======
+# Lembosia macula Lév. SPECIES
 
 #### Status
 ACCEPTED

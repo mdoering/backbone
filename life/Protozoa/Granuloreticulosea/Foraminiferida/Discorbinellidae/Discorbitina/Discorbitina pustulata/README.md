@@ -1,8 +1,7 @@
-Discorbinella lepida Hornibrook, 1961 SPECIES
-=======
+# Discorbitina pustulata (Heron-Allen & Earland, 1913) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

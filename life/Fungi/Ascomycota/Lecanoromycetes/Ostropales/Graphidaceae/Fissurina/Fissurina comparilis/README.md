@@ -1,14 +1,13 @@
-Graphis comparilis Nyl. SPECIES
-=======
+# Fissurina comparilis (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 2: 119 (1868)
+null
 
 #### Original name
 Graphis comparilis Nyl.

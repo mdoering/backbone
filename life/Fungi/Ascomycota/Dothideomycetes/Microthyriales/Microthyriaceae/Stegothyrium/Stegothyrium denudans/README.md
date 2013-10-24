@@ -1,14 +1,13 @@
-Muyocopron denudans Rehm, 1903 SPECIES
-=======
+# Stegothyrium denudans (Rehm) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 (1918)
 
 #### Original name
 Muyocopron denudans Rehm, 1903

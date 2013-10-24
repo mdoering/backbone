@@ -1,5 +1,4 @@
-Puccinia tiarellicola Hirats. f. SPECIES
-=======
+# Puccinia tiarellicola Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

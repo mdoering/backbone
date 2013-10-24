@@ -1,5 +1,4 @@
-Platysma ampullaceum (L.) Hoffm. SPECIES
-=======
+# Platysma ampullaceum (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

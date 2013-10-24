@@ -1,5 +1,4 @@
-Irenina antidesmae Hansf. SPECIES
-=======
+# Irenina antidesmae Hansf. SPECIES
 
 #### Status
 ACCEPTED

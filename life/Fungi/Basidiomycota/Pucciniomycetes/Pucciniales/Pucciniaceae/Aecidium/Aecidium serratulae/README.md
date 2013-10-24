@@ -1,5 +1,4 @@
-Aecidium serratulae J. Schröt. SPECIES
-=======
+# Aecidium serratulae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

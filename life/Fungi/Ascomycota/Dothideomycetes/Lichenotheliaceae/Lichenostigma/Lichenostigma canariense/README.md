@@ -1,5 +1,4 @@
-Lichenostigma canariense Etayo & van den Boom SPECIES
-=======
+# Lichenostigma canariense Etayo & van den Boom SPECIES
 
 #### Status
 ACCEPTED

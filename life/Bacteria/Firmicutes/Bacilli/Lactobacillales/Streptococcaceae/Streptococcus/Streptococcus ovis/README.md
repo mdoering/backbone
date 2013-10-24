@@ -1,5 +1,4 @@
-Streptococcus ovis Collins et al., 2001 SPECIES
-=======
+# Streptococcus ovis Collins et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

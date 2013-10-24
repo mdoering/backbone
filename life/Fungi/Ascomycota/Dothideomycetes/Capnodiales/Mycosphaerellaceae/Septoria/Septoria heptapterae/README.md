@@ -1,5 +1,4 @@
-Septoria heptapterae Bakalova SPECIES
-=======
+# Septoria heptapterae Bakalova SPECIES
 
 #### Status
 ACCEPTED

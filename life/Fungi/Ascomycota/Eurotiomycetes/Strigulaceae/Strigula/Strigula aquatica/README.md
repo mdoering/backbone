@@ -1,5 +1,4 @@
-Strigula aquatica H. Harada SPECIES
-=======
+# Strigula aquatica H. Harada SPECIES
 
 #### Status
 ACCEPTED

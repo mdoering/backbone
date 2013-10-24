@@ -1,5 +1,4 @@
-Episphaerella gymnosporiae (Hansf.) Arx SPECIES
-=======
+# Episphaerella gymnosporiae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

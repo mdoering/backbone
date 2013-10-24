@@ -1,5 +1,4 @@
-Tomentella kentuckiensis M.J. Larsen, 1974 SPECIES
-=======
+# Tomentella kentuckiensis M.J. Larsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

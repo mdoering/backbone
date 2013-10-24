@@ -1,5 +1,4 @@
-Rhabdospora putaminis Sacc. SPECIES
-=======
+# Rhabdospora putaminis Sacc. SPECIES
 
 #### Status
 ACCEPTED

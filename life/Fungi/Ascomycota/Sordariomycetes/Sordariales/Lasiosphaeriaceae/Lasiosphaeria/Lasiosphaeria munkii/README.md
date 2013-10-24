@@ -1,5 +1,4 @@
-Lasiosphaeria munkii R. Hilber & O. Hilber SPECIES
-=======
+# Lasiosphaeria munkii R. Hilber & O. Hilber SPECIES
 
 #### Status
 ACCEPTED

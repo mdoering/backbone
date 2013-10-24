@@ -1,5 +1,4 @@
-Trematcia halophila Kohlm. & Volkm.-Kohlm. & Erikss, 1995 SPECIES
-=======
+# Trematcia halophila Kohlm. & Volkm.-Kohlm. & Erikss, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecythispora indica Chowdhry, 1985 SPECIES
-=======
+# Lecythispora indica Chowdhry, 1985 SPECIES
 
 #### Status
 ACCEPTED

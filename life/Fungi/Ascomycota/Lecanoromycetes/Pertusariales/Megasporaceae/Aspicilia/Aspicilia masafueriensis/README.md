@@ -1,5 +1,4 @@
-Aspicilia masafueriensis (Zahlbr.) SPECIES
-=======
+# Aspicilia masafueriensis (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

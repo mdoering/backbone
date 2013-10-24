@@ -1,5 +1,4 @@
-Pulverolepiota GENUS
-=======
+# Pulverolepiota GENUS
 
 #### Status
 ACCEPTED

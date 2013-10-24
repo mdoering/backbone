@@ -1,5 +1,4 @@
-Parmelia kamerunensis J. Steiner SPECIES
-=======
+# Parmelia kamerunensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

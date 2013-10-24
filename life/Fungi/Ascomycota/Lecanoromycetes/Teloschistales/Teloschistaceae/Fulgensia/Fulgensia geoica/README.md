@@ -1,5 +1,4 @@
-Fulgensia geoica H. Magn. SPECIES
-=======
+# Fulgensia geoica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

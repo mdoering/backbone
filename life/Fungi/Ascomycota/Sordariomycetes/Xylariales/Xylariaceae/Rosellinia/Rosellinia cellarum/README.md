@@ -1,5 +1,4 @@
-Rosellinia cellarum F. Lamb. SPECIES
-=======
+# Rosellinia cellarum F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

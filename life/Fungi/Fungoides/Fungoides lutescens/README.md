@@ -1,5 +1,4 @@
-Fungoides lutescens J.C. Buxb. SPECIES
-=======
+# Fungoides lutescens J.C. Buxb. SPECIES
 
 #### Status
 ACCEPTED

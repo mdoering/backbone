@@ -1,5 +1,4 @@
-Epochniella GENUS
-=======
+# Epochniella GENUS
 
 #### Status
 ACCEPTED

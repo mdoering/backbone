@@ -1,5 +1,4 @@
-Siroscyphellina lupini Wehm. SPECIES
-=======
+# Siroscyphellina lupini Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gloeosporium fraxineus Peck SPECIES
-=======
+# Gloeosporium fraxineum Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 35: 137 (1884)
 
 #### Original name
-Gloeosporium fraxineus Peck
+Gloeosporium fraxineum Peck
 
 ### Remarks
 null

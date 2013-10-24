@@ -1,14 +1,13 @@
-Gymnopus albuminosus (Berk.) Overeem, 1927 SPECIES
-=======
+# Macrolepiota albuminosa (Berk.) Pegler, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 27(1): 189 (1972)
 
 #### Original name
 Agaricus albuminosus Berk., 1847

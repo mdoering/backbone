@@ -1,5 +1,4 @@
-Passalora curvispora (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
-=======
+# Passalora curvispora (Goh & W.H. Hsieh) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

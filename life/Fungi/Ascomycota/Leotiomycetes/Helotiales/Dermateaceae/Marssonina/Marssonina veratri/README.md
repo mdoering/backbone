@@ -1,5 +1,4 @@
-Marssonina veratri (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina veratri (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

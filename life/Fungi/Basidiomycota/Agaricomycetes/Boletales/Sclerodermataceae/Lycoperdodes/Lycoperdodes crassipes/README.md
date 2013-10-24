@@ -1,5 +1,4 @@
-Lycoperdodes crassipes (DC.) Kuntze SPECIES
-=======
+# Lycoperdodes crassipes (DC.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

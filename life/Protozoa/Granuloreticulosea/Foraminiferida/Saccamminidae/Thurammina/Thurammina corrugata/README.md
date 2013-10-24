@@ -1,5 +1,4 @@
-Thurammina corrugata Earland, 1934 SPECIES
-=======
+# Thurammina corrugata Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

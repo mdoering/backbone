@@ -1,5 +1,4 @@
-Dimerium richardii (Thüm.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium richardii (Thüm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

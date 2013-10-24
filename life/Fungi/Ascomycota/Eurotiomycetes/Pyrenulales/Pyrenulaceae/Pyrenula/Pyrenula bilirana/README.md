@@ -1,5 +1,4 @@
-Pyrenula bilirana SPECIES
-=======
+# Pyrenula bilirana SPECIES
 
 #### Status
 ACCEPTED

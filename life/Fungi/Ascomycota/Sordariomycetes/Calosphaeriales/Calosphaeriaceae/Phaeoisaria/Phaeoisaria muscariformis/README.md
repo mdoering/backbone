@@ -1,5 +1,4 @@
-Phaeoisaria muscariformis Siboe, P.M. Kirk & P.F. Cannon SPECIES
-=======
+# Phaeoisaria muscariformis Siboe, P.M. Kirk & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

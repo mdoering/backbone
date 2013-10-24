@@ -1,5 +1,4 @@
-Coremium subiculatum Schwein. SPECIES
-=======
+# Coremium subiculatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

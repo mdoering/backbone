@@ -1,5 +1,4 @@
-Decussoloculina Neagu, 1984 GENUS
-=======
+# Decussoloculina Neagu, 1984 GENUS
 
 #### Status
 ACCEPTED

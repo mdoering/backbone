@@ -1,17 +1,16 @@
-Parmelina schindleri Hale SPECIES
-=======
+# Parmelinopsis schindleri (Hale) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 243 (1987)
 
 #### Original name
-null
+Parmelina schindleri Hale
 
 ### Remarks
 null

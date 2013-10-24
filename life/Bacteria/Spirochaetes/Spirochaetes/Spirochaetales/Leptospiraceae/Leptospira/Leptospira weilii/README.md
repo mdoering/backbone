@@ -1,5 +1,4 @@
-Leptospira weilii Yasuda et al., 1987 SPECIES
-=======
+# Leptospira weilii Yasuda et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

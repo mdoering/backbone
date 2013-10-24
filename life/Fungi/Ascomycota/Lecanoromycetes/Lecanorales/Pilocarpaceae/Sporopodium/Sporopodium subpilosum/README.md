@@ -1,5 +1,4 @@
-Sporopodium subpilosum (Vain.) SPECIES
-=======
+# Sporopodium subpilosum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

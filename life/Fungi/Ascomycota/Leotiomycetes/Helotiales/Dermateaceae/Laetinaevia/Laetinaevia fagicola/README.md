@@ -1,5 +1,4 @@
-Laetinaevia fagicola Svrcek SPECIES
-=======
+# Laetinaevia fagicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

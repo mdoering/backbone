@@ -1,5 +1,4 @@
-Scaphis compressa Eschw. SPECIES
-=======
+# Scaphis compressa Eschw. SPECIES
 
 #### Status
 ACCEPTED

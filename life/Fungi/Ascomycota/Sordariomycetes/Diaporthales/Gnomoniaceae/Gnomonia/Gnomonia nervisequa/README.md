@@ -1,5 +1,4 @@
-Gnomonia nervisequa (Wallr.) Fuckel, 1870 SPECIES
-=======
+# Gnomonia nervisequa (Wallr.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

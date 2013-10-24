@@ -1,5 +1,4 @@
-Montagnula gigantea (Mont.) Berl. SPECIES
-=======
+# Montagnula gigantea (Mont.) Berl. SPECIES
 
 #### Status
 ACCEPTED

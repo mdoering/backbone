@@ -1,5 +1,4 @@
-Leptostroma abrotani Oudem. SPECIES
-=======
+# Leptostroma abrotani Oudem. SPECIES
 
 #### Status
 ACCEPTED

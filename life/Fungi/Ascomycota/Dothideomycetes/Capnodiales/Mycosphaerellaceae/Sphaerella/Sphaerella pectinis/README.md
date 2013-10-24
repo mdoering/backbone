@@ -1,5 +1,4 @@
-Sphaerella pectinis Pass. SPECIES
-=======
+# Sphaerella pectinis Pass. SPECIES
 
 #### Status
 ACCEPTED

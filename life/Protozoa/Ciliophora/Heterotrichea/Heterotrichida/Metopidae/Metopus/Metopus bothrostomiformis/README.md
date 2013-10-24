@@ -1,5 +1,4 @@
-Metopus bothrostomiformis Foissner, 1980 SPECIES
-=======
+# Metopus bothrostomiformis Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

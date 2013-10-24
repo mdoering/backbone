@@ -1,5 +1,4 @@
-Camarosporium kochiae Sacc. SPECIES
-=======
+# Camarosporium kochiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleuria bicucullata Boud. SPECIES
-=======
+# Aleuria bicucullata Boud. SPECIES
 
 #### Status
 ACCEPTED

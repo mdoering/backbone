@@ -1,5 +1,4 @@
-Leptothyrella olivascens Henn. SPECIES
-=======
+# Leptothyrella olivascens Henn. SPECIES
 
 #### Status
 ACCEPTED

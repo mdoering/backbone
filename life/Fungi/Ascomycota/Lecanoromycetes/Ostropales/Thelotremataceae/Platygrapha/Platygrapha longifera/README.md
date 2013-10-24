@@ -1,5 +1,4 @@
-Platygrapha longifera Nyl. SPECIES
-=======
+# Platygrapha longifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria brachyorrhiza Scop. SPECIES
-=======
+# Clavaria brachyorrhiza Scop. SPECIES
 
 #### Status
 ACCEPTED

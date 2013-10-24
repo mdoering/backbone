@@ -1,5 +1,4 @@
-Catillaria maculosa (Stirt.) Zahlbr. SPECIES
-=======
+# Catillaria maculosa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

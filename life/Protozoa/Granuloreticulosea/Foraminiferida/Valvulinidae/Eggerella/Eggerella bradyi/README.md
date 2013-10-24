@@ -1,5 +1,4 @@
-Eggerella bradyi SPECIES
-=======
+# Eggerella bradyi SPECIES
 
 #### Status
 ACCEPTED

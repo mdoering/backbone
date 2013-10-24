@@ -1,5 +1,4 @@
-Lecanora tofacea (Hue) Zahlbr. SPECIES
-=======
+# Lecanora tofacea (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina zopfii W.L. Culb., C.F. Culb. & A.E. Johnson SPECIES
-=======
+# Ramalina zopfii W.L. Culb., C.F. Culb. & A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

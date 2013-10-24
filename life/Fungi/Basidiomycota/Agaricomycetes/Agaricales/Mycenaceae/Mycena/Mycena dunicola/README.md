@@ -1,5 +1,4 @@
-Mycena dunicola M. Villarreal, Esteve-Rav., Barrasa & A. Ortega SPECIES
-=======
+# Mycena dunicola M. Villarreal, Esteve-Rav., Barrasa & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

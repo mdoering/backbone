@@ -1,5 +1,4 @@
-Illosporium heterosporum (Preuss) Sacc. SPECIES
-=======
+# Illosporium heterosporum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

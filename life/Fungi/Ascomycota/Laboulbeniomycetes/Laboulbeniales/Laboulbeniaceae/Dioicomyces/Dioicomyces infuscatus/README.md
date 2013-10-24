@@ -1,5 +1,4 @@
-Dioicomyces infuscatus Speg. SPECIES
-=======
+# Dioicomyces infuscatus Speg. SPECIES
 
 #### Status
 ACCEPTED

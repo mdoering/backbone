@@ -1,17 +1,16 @@
-Aecidium evodiae J.Y. Zhuang SPECIES
-=======
+# Aecidium euodiae J.Y. Zhuang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 9(3): 193 (1990)
 
 #### Original name
-Aecidium evodiae J.Y. Zhuang
+Aecidium euodiae J.Y. Zhuang
 
 ### Remarks
 null

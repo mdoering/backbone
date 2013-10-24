@@ -1,5 +1,4 @@
-Bathelium feei (C. F. W. Meissn.) Aptroot SPECIES
-=======
+# Bathelium feei (C. F. W. Meissn.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

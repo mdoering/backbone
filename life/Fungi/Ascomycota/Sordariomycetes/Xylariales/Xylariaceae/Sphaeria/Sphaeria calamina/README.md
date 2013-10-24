@@ -1,5 +1,4 @@
-Sphaeria calamina Durieu & Mont. SPECIES
-=======
+# Sphaeria calamina Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycotodea aquilina (Pass.) Kirschst. SPECIES
-=======
+# Mycotodea aquilina (Pass.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

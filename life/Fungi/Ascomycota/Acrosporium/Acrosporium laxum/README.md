@@ -1,5 +1,4 @@
-Acrosporium laxum Pers. SPECIES
-=======
+# Acrosporium laxum Pers. SPECIES
 
 #### Status
 ACCEPTED

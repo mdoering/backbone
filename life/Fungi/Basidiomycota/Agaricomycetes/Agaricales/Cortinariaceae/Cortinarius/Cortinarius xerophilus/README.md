@@ -1,5 +1,4 @@
-Cortinarius xerophilus Rob. Henry & Contu SPECIES
-=======
+# Cortinarius xerophilus Rob. Henry & Contu SPECIES
 
 #### Status
 ACCEPTED

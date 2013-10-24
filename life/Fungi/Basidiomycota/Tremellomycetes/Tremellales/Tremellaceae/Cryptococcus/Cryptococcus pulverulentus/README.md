@@ -1,5 +1,4 @@
-Cryptococcus pulverulentus Beij. SPECIES
-=======
+# Cryptococcus pulverulentus Beij. SPECIES
 
 #### Status
 ACCEPTED

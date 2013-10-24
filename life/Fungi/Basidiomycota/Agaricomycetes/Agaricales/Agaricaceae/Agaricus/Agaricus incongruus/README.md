@@ -1,5 +1,4 @@
-Agaricus incongruus Berk. SPECIES
-=======
+# Agaricus incongruus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton granulare var. granulare (Müll. Arg.) Vain. VARIETY
-=======
+# Chiodecton granulare (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Acad. Sci. fenn. 6(7): 170 (1915)
 
 #### Original name
-Chiodecton granulare var. granulare (Müll. Arg.) Vain.
+Rotula vulgaris var. granularis Müll. Arg.
 
 ### Remarks
 null

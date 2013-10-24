@@ -1,5 +1,4 @@
-Diplodia scheidweileri (Westend.) Sacc. SPECIES
-=======
+# Diplodia scheidweileri (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

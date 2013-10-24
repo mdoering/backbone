@@ -1,5 +1,4 @@
-Hysterographium oleae O. Schwarz SPECIES
-=======
+# Hysterographium oleae O. Schwarz SPECIES
 
 #### Status
 ACCEPTED

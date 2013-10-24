@@ -1,5 +1,4 @@
-Chaetosphaeria rubicunda Huhndorf & F.A. Fernández, 2005 SPECIES
-=======
+# Chaetosphaeria rubicunda Huhndorf & F.A. Fernández, 2005 SPECIES
 
 #### Status
 ACCEPTED

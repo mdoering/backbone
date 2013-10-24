@@ -1,5 +1,4 @@
-Leccinum hortonii (A.H. Sm. & Thiers) Hongo & Nagas. SPECIES
-=======
+# Leccinum hortonii (A.H. Sm. & Thiers) Hongo & Nagas. SPECIES
 
 #### Status
 ACCEPTED

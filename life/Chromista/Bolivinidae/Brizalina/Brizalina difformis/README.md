@@ -1,5 +1,4 @@
-Brizalina difformis (Williamson, 1848) SPECIES
-=======
+# Brizalina difformis (Williamson, 1848) SPECIES
 
 #### Status
 ACCEPTED

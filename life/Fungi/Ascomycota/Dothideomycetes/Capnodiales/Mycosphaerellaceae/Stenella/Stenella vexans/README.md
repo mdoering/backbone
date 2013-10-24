@@ -1,5 +1,4 @@
-Stenella vexans Crous SPECIES
-=======
+# Stenella vexans Crous SPECIES
 
 #### Status
 ACCEPTED

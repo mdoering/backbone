@@ -1,5 +1,4 @@
-Hermesinum adriaticum O. Zacharias SPECIES
-=======
+# Hermesinum adriaticum O. Zacharias SPECIES
 
 #### Status
 ACCEPTED

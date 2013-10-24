@@ -1,5 +1,4 @@
-Bacillus asahii Yumoto et al., 2004 SPECIES
-=======
+# Bacillus asahii Yumoto et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia rosae (Auersw.) Auersw. SPECIES
-=======
+# Laestadia rosae (Auersw.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

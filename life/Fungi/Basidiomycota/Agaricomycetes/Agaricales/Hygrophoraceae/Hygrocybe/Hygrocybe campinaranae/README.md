@@ -1,5 +1,4 @@
-Hygrocybe campinaranae Singer SPECIES
-=======
+# Hygrocybe campinaranae Singer SPECIES
 
 #### Status
 ACCEPTED

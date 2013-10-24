@@ -1,5 +1,4 @@
-Agaricus anapactus Letell. SPECIES
-=======
+# Agaricus anapactus Letell. SPECIES
 
 #### Status
 ACCEPTED

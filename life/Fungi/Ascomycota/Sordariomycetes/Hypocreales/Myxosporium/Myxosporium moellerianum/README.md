@@ -1,8 +1,7 @@
-Myxosporium mollerianum Bres. SPECIES
-=======
+# Myxosporium moellerianum Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Myxosporium mollerianum Bres.
+Myxosporium moellerianum Bres.
 
 ### Remarks
 null

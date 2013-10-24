@@ -1,5 +1,4 @@
-Patellaria rebelliosa Müll. Arg. SPECIES
-=======
+# Patellaria rebelliosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

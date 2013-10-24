@@ -1,5 +1,4 @@
-Delicatula umbonata Velen. SPECIES
-=======
+# Delicatula umbonata Velen. SPECIES
 
 #### Status
 ACCEPTED

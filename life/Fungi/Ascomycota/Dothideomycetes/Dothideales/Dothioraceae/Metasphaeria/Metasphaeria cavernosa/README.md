@@ -1,5 +1,4 @@
-Metasphaeria cavernosa (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Metasphaeria cavernosa (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

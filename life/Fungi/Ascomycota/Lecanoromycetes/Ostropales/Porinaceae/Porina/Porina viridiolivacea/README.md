@@ -1,5 +1,4 @@
-Porina viridiolivacea Fée SPECIES
-=======
+# Porina viridiolivacea Fée SPECIES
 
 #### Status
 ACCEPTED

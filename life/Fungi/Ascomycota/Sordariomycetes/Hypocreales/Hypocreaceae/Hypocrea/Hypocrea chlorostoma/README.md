@@ -1,5 +1,4 @@
-Hypocrea chlorostoma Petch SPECIES
-=======
+# Hypocrea chlorostoma Petch SPECIES
 
 #### Status
 ACCEPTED

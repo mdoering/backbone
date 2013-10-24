@@ -1,5 +1,4 @@
-Cortinarius auchmerus M.M. Moser SPECIES
-=======
+# Cortinarius auchmerus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

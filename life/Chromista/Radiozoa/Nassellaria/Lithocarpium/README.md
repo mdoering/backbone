@@ -1,5 +1,4 @@
-Lithocarpium Stöhr, 1880 GENUS
-=======
+# Lithocarpium Stöhr, 1880 GENUS
 
 #### Status
 ACCEPTED

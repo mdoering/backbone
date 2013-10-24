@@ -1,17 +1,16 @@
-Pseudocercospora fici-sycamorusii Crous & U. Braun SPECIES
-=======
+# Pseudocercospora fici-sycamori Crous & U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 57: 270 (1996)
 
 #### Original name
-Pseudocercospora fici-sycamorusii Crous & U. Braun
+Pseudocercospora fici-sycamori Crous & U. Braun
 
 ### Remarks
 null

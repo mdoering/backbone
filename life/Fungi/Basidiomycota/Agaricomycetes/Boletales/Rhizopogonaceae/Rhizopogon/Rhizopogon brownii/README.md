@@ -1,5 +1,4 @@
-Rhizopogon brownii A.H. Sm. SPECIES
-=======
+# Rhizopogon brownii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

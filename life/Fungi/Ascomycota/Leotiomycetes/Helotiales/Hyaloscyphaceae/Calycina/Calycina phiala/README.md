@@ -1,5 +1,4 @@
-Calycina phiala (Vahl) Kuntze SPECIES
-=======
+# Calycina phiala (Vahl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

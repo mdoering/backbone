@@ -1,5 +1,4 @@
-Comamonas terrigena (ex Hugh, 1962) De Vos et al., 1985 SPECIES
-=======
+# Comamonas terrigena (ex Hugh, 1962) De Vos et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

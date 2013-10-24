@@ -1,5 +1,4 @@
-Pegmatheca lamellata J.I.R. Larsson SPECIES
-=======
+# Pegmatheca lamellata J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

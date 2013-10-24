@@ -1,5 +1,4 @@
-Psathyra penicillata var. penicillata VARIETY
-=======
+# Psathyra penicillata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psathyra penicillata var. penicillata
+Psathyra penicillata
 
 ### Remarks
 null

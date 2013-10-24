@@ -1,5 +1,4 @@
-Valsa assimilis Ces. SPECIES
-=======
+# Valsa assimilis Ces. SPECIES
 
 #### Status
 ACCEPTED

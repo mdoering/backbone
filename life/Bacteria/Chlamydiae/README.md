@@ -1,5 +1,4 @@
-Chlamydiae PHYLUM
-=======
+# Chlamydiae PHYLUM
 
 #### Status
 ACCEPTED

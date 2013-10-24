@@ -1,5 +1,4 @@
-Myriangiella arcuata Toro, 1927 SPECIES
-=======
+# Myriangiella arcuata Toro, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleophragmia pleospora Kirschst. SPECIES
-=======
+# Pleophragmia pleospora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

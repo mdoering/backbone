@@ -1,5 +1,4 @@
-Cercospora oxalidiphila Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora oxalidiphila Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

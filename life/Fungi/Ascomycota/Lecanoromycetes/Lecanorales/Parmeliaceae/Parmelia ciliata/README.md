@@ -1,5 +1,4 @@
-Parmelia ciliata (Lam. & DC.) Nyl. SPECIES
-=======
+# Parmelia ciliata (Lam. & DC.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

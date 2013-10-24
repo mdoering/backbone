@@ -1,5 +1,4 @@
-Leptothyrium trithrinacis Speg. SPECIES
-=======
+# Leptothyrium trithrinacis Speg. SPECIES
 
 #### Status
 ACCEPTED

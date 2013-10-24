@@ -1,5 +1,4 @@
-Crateromyces duplex Bonord. SPECIES
-=======
+# Crateromyces duplex Bonord. SPECIES
 
 #### Status
 ACCEPTED

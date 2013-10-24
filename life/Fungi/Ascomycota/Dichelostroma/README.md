@@ -1,5 +1,4 @@
-Dichelostroma Bat. & Peres GENUS
-=======
+# Dichelostroma Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus corrugis Fr. SPECIES
-=======
+# Polystictus corrugis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma bacterioides Bubák SPECIES
-=======
+# Phoma bacterioides Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella idahoensis Sacc. SPECIES
-=======
+# Cercosporella idahoensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

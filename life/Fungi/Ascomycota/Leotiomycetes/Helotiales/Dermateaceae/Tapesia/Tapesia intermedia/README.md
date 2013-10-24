@@ -1,5 +1,4 @@
-Tapesia intermedia Velen. SPECIES
-=======
+# Tapesia intermedia Velen. SPECIES
 
 #### Status
 ACCEPTED

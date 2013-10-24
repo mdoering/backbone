@@ -1,5 +1,4 @@
-Ecougella Arnaud-Vanneau, 1980 GENUS
-=======
+# Ecougella Arnaud-Vanneau, 1980 GENUS
 
 #### Status
 ACCEPTED

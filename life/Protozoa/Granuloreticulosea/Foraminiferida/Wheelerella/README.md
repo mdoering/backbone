@@ -1,5 +1,4 @@
-Wheelerella Petters, 1954 GENUS
-=======
+# Wheelerella Petters, 1954 GENUS
 
 #### Status
 ACCEPTED

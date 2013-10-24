@@ -1,5 +1,4 @@
-Triloculina (Scutuloris) tegminis (Loeblich & Tappan) SPECIES
-=======
+# Triloculina (Scutuloris) tegminis (Loeblich & Tappan) SPECIES
 
 #### Status
 ACCEPTED

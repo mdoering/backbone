@@ -1,5 +1,4 @@
-Dermatocarpon euplocum (Ach.) A.L. Sm. SPECIES
-=======
+# Dermatocarpon euplocum (Ach.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

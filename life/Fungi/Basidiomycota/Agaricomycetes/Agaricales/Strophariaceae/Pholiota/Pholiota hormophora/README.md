@@ -1,5 +1,4 @@
-Pholiota hormophora Mont. SPECIES
-=======
+# Pholiota hormophora Mont. SPECIES
 
 #### Status
 ACCEPTED

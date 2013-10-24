@@ -1,5 +1,4 @@
-Penicillium krzemieniewskii K.M. Zalessky SPECIES
-=======
+# Penicillium krzemieniewskii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

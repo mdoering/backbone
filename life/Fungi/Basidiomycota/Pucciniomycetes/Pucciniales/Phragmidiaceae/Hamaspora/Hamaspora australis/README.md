@@ -1,5 +1,4 @@
-Hamaspora australis G. Cunn., 1930 SPECIES
-=======
+# Hamaspora australis G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

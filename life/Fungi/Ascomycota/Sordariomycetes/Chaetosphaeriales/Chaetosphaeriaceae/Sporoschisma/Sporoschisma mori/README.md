@@ -1,5 +1,4 @@
-Sporoschisma mori Sawada & Katsuki SPECIES
-=======
+# Sporoschisma mori Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

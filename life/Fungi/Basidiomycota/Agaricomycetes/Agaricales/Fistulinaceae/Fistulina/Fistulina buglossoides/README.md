@@ -1,5 +1,4 @@
-Fistulina buglossoides Bull. SPECIES
-=======
+# Fistulina buglossoides Bull. SPECIES
 
 #### Status
 ACCEPTED

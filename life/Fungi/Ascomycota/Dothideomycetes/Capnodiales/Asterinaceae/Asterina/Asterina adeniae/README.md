@@ -1,5 +1,4 @@
-Asterina adeniae Hansf. SPECIES
-=======
+# Asterina adeniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

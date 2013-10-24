@@ -1,5 +1,4 @@
-Bacidia macrospora (C. Knight) Zahlbr. SPECIES
-=======
+# Bacidia macrospora (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

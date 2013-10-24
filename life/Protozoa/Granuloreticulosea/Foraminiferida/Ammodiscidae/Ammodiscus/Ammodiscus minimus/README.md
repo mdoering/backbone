@@ -1,5 +1,4 @@
-Ammodiscus minimus SPECIES
-=======
+# Ammodiscus minimus SPECIES
 
 #### Status
 ACCEPTED

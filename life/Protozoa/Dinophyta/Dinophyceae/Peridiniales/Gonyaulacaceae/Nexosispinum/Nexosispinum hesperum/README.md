@@ -1,5 +1,4 @@
-Nexosispinum hesperum R. J. Davey SPECIES
-=======
+# Nexosispinum hesperum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracocarpon caribaeum Breuss SPECIES
-=======
+# Anthracocarpon caribaeum Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia orcispora Sogonov SPECIES
-=======
+# Gnomonia orcispora Sogonov SPECIES
 
 #### Status
 ACCEPTED

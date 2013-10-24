@@ -1,5 +1,4 @@
-Dimeromyces chiliotidis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dimeromyces chiliotidis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea dichromatina Hue SPECIES
-=======
+# Lecidea dichromatina Hue SPECIES
 
 #### Status
 ACCEPTED

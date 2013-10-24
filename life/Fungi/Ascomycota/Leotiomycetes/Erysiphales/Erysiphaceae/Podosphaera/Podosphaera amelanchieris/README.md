@@ -1,5 +1,4 @@
-Podosphaera amelanchieris Maurizio SPECIES
-=======
+# Podosphaera amelanchieris Maurizio SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium tricyclinum Speg. SPECIES
-=======
+# Camarosporium tricyclinum Speg. SPECIES
 
 #### Status
 ACCEPTED

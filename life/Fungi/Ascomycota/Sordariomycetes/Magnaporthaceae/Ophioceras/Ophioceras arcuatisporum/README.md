@@ -1,5 +1,4 @@
-Ophioceras arcuatisporum Shearer, J.L. Crane & W. Chen SPECIES
-=======
+# Ophioceras arcuatisporum Shearer, J.L. Crane & W. Chen SPECIES
 
 #### Status
 ACCEPTED

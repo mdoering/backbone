@@ -1,5 +1,4 @@
-Lyngbya demoulinii L. Hoffmann SPECIES
-=======
+# Lyngbya demoulinii L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

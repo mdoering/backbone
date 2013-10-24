@@ -1,17 +1,16 @@
-Polystictus placentaeformis Berk. ex Cooke SPECIES
-=======
+# Polystictus placentiformis Berk. ex Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 15(no. 73): 24 (1886)
 
 #### Original name
-Polystictus placentaeformis Berk. ex Cooke
+Polystictus placentiformis Berk. ex Cooke
 
 ### Remarks
 null

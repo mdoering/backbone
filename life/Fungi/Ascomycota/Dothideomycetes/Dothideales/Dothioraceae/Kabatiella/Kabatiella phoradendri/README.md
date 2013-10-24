@@ -1,5 +1,4 @@
-Kabatiella phoradendri f. phoradendri (Darling) Harv. FORM
-=======
+# Kabatiella phoradendri (Darling) Harv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Madroño 11: 164 (1951)
 
 #### Original name
-Kabatiella phoradendri f. phoradendri (Darling) Harv.
+Protocoronospora phoradendri Darling
 
 ### Remarks
 null

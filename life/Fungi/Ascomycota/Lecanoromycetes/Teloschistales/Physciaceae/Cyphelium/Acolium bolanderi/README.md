@@ -1,5 +1,4 @@
-Acolium bolanderi Tuck. SPECIES
-=======
+# Acolium bolanderi Tuck. SPECIES
 
 #### Status
 ACCEPTED

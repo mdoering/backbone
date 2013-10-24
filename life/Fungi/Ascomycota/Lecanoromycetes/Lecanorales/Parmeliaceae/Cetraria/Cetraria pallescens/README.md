@@ -1,5 +1,4 @@
-Cetraria pallescens Schaer. SPECIES
-=======
+# Cetraria pallescens Schaer. SPECIES
 
 #### Status
 ACCEPTED

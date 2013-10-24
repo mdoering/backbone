@@ -1,5 +1,4 @@
-Guignardia synedrellae Syd. {?} SPECIES
-=======
+# Guignardia synedrellae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

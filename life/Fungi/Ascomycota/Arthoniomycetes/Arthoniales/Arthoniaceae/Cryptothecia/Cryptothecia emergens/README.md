@@ -1,5 +1,4 @@
-Cryptothecia emergens Makhija & Patw. SPECIES
-=======
+# Cryptothecia emergens Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

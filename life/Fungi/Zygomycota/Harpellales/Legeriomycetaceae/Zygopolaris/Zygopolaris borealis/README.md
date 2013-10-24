@@ -1,5 +1,4 @@
-Zygopolaris borealis Lichtw. & M.C. Williams, 1984 SPECIES
-=======
+# Zygopolaris borealis Lichtw. & M.C. Williams, 1984 SPECIES
 
 #### Status
 ACCEPTED

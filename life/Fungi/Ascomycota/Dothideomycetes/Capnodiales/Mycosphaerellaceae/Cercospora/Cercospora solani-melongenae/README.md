@@ -1,5 +1,4 @@
-Cercospora solani-melongenae Chupp, 1948 SPECIES
-=======
+# Cercospora solani-melongenae Chupp, 1948 SPECIES
 
 #### Status
 ACCEPTED

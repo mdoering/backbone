@@ -1,5 +1,4 @@
-Boletopsis smithii K.A. Harrison, 1975 SPECIES
-=======
+# Boletopsis smithii K.A. Harrison, 1975 SPECIES
 
 #### Status
 ACCEPTED

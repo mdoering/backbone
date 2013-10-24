@@ -1,5 +1,4 @@
-Coniothyrium oryzivorum Hara SPECIES
-=======
+# Coniothyrium oryzivorum Hara SPECIES
 
 #### Status
 ACCEPTED

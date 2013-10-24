@@ -1,5 +1,4 @@
-Entoloma subaeruginosum Courtec. SPECIES
-=======
+# Entoloma subaeruginosum Courtec. SPECIES
 
 #### Status
 ACCEPTED

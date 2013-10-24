@@ -1,5 +1,4 @@
-Parmelia japonica Tuck. SPECIES
-=======
+# Parmelia japonica Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium adhaesum Burt SPECIES
-=======
+# Corticium adhaesum Burt SPECIES
 
 #### Status
 ACCEPTED

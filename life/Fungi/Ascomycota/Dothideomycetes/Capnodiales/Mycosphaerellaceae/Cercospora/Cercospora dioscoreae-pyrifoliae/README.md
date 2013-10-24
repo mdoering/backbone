@@ -1,5 +1,4 @@
-Cercospora dioscoreae-pyrifoliae J.M. Yen SPECIES
-=======
+# Cercospora dioscoreae-pyrifoliae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

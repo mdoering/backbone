@@ -1,5 +1,4 @@
-Cortinarius acutoaltus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius acutoaltus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercoseptoria eriobotryicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria eriobotryicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

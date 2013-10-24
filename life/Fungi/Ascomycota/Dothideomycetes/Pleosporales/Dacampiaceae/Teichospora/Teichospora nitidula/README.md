@@ -1,5 +1,4 @@
-Teichospora nitidula P. Karst. SPECIES
-=======
+# Teichospora nitidula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

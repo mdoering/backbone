@@ -1,5 +1,4 @@
-Trichoderma flavum Sommerf. SPECIES
-=======
+# Trichoderma flavum Sommerf. SPECIES
 
 #### Status
 ACCEPTED

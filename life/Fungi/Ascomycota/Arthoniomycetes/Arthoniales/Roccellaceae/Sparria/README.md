@@ -1,5 +1,4 @@
-Sparria GENUS
-=======
+# Sparria GENUS
 
 #### Status
 ACCEPTED

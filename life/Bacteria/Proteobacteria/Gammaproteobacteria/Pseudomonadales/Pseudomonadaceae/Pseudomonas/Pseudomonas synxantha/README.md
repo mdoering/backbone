@@ -1,11 +1,10 @@
-Vibrio synxanthus Ehrenberg, 1840 SPECIES
-=======
+# Pseudomonas synxantha (Ehrenberg, 1840) Holland, 1920 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

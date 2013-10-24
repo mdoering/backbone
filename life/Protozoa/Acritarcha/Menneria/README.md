@@ -1,5 +1,4 @@
-Menneria A.S. Lopuchin, 1971 GENUS
-=======
+# Menneria A.S. Lopuchin, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia oidaliella A. Nordin SPECIES
-=======
+# Buellia oidaliella A. Nordin SPECIES
 
 #### Status
 ACCEPTED

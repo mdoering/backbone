@@ -1,17 +1,16 @@
-Phaeosticta Trevis. GENUS
-=======
+# Pseudocyphellaria Vain. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenoth. Veneta 75 (1869)
+Acta Soc. Fauna Flora fenn. 7(1): 182 (1890)
 
 #### Original name
-Phaeosticta Trevis.
+Pseudocyphellaria Vain.
 
 ### Remarks
 null

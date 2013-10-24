@@ -1,5 +1,4 @@
-Agaricus moricola Fr. SPECIES
-=======
+# Agaricus moricola Fr. SPECIES
 
 #### Status
 ACCEPTED

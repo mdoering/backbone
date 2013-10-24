@@ -1,5 +1,4 @@
-Ascochyta borjomi Bondartsev SPECIES
-=======
+# Ascochyta borjomi Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achorodothis rapaneae Syd., 1930 SPECIES
-=======
+# Achorodothis rapaneae Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria subiculifera Speg. SPECIES
-=======
+# Leptosphaeria subiculifera Speg. SPECIES
 
 #### Status
 ACCEPTED

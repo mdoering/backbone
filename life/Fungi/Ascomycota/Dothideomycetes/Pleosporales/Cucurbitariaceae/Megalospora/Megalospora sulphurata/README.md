@@ -1,17 +1,16 @@
-Patellaria taitensis (Mont.) Müll. Arg., 1882 SPECIES
-=======
+# Megalospora sulphurata Meyen, 1843 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Meyen & Flotow, Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. 19(suppl. ): 228 (1843)
 
 #### Original name
-null
+Megalospora sulphurata Meyen, 1843
 
 ### Remarks
 null

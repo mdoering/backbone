@@ -1,5 +1,4 @@
-Boletus piceinus (Pilát & Dermek) Hlavácek SPECIES
-=======
+# Boletus piceinus (Pilát & Dermek) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

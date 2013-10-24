@@ -1,5 +1,4 @@
-Phaeographis mesographa (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographis mesographa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

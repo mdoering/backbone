@@ -1,5 +1,4 @@
-Melanomma disjectum (P. Karst.) Sacc. SPECIES
-=======
+# Melanomma disjectum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

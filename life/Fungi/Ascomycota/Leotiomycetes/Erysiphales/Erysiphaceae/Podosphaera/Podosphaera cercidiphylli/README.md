@@ -1,5 +1,4 @@
-Podosphaera cercidiphylli Tanda & Y. Nomura SPECIES
-=======
+# Podosphaera cercidiphylli Tanda & Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

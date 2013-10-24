@@ -1,5 +1,4 @@
-Pannaria atrofumosa C. Knight SPECIES
-=======
+# Pannaria atrofumosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

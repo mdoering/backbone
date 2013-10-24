@@ -1,17 +1,16 @@
-Sticta damaecornifolia Vain. SPECIES
-=======
+# Sticta damicornifolia Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 34: 69 (1896)
 
 #### Original name
-Sticta damaecornifolia Vain.
+Sticta damicornifolia Vain.
 
 ### Remarks
 null

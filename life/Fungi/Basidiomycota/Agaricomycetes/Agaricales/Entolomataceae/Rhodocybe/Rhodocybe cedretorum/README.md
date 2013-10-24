@@ -1,5 +1,4 @@
-Rhodocybe cedretorum Bidaud & Cavet SPECIES
-=======
+# Rhodocybe cedretorum Bidaud & Cavet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium algidicarnis Lawson et al., 1995 SPECIES
-=======
+# Clostridium algidicarnis Lawson et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

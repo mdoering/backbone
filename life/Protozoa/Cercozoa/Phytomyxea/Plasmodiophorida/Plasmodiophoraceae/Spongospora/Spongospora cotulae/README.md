@@ -1,5 +1,4 @@
-Spongospora cotulae Barrett SPECIES
-=======
+# Spongospora cotulae Barrett SPECIES
 
 #### Status
 ACCEPTED

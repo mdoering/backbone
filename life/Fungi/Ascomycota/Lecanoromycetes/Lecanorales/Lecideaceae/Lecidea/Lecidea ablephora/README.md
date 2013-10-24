@@ -1,5 +1,4 @@
-Lecidea ablephora Nyl. SPECIES
-=======
+# Lecidea ablephora Nyl. SPECIES
 
 #### Status
 ACCEPTED

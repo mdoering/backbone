@@ -1,5 +1,4 @@
-Eremotheca ugandensis Hansf. SPECIES
-=======
+# Eremotheca ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

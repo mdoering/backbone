@@ -1,5 +1,4 @@
-Teichospora elbursensis var. elbursensis VARIETY
-=======
+# Teichospora elbursensis Petr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 1: 467 (1940)
 
 #### Original name
-Teichospora elbursensis var. elbursensis
+Teichospora elbursensis Petr.
 
 ### Remarks
 null

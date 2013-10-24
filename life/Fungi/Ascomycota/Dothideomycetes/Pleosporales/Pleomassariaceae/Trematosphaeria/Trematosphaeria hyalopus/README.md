@@ -1,5 +1,4 @@
-Trematosphaeria hyalopus Ellis & Everh. SPECIES
-=======
+# Trematosphaeria hyalopus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

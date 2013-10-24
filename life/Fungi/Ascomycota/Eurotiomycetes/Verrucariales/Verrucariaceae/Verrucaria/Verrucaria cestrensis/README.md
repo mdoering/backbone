@@ -1,5 +1,4 @@
-Verrucaria cestrensis Tuck. SPECIES
-=======
+# Verrucaria cestrensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

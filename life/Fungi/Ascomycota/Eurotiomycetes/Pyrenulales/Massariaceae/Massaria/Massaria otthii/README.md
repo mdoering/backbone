@@ -1,5 +1,4 @@
-Massaria otthii Jacz. SPECIES
-=======
+# Massaria otthii Jacz. SPECIES
 
 #### Status
 ACCEPTED

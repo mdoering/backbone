@@ -1,5 +1,4 @@
-Clavatorella Blow, 1965 GENUS
-=======
+# Clavatorella Blow, 1965 GENUS
 
 #### Status
 ACCEPTED

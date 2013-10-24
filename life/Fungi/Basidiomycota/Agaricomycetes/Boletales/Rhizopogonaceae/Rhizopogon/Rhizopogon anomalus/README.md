@@ -1,5 +1,4 @@
-Rhizopogon anomalus A.H. Sm. SPECIES
-=======
+# Rhizopogon anomalus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

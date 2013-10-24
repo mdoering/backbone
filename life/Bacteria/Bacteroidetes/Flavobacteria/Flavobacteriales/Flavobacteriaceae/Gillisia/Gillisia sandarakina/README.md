@@ -1,5 +1,4 @@
-Gillisia sandarakina Bowman & Nichols, 2005 SPECIES
-=======
+# Gillisia sandarakina Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

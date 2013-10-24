@@ -1,17 +1,16 @@
-Meliola oscmanthiana Budathoki & P.N. Singh SPECIES
-=======
+# Meliola osmanthiana Budathoki & P.N. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 47(4): 378 (1994)
 
 #### Original name
-Meliola oscmanthiana Budathoki & P.N. Singh
+Meliola osmanthiana Budathoki & P.N. Singh
 
 ### Remarks
 null

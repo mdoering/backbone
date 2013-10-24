@@ -1,5 +1,4 @@
-Lophiosphaera viticola (Sacc.) Sacc. SPECIES
-=======
+# Lophiosphaera viticola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium abnorme Piskun, 1976 SPECIES
-=======
+# Lophosphaeridium abnorme Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

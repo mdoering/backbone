@@ -1,5 +1,4 @@
-Phoma eugeniae Henn. SPECIES
-=======
+# Phoma eugeniae Henn. SPECIES
 
 #### Status
 ACCEPTED

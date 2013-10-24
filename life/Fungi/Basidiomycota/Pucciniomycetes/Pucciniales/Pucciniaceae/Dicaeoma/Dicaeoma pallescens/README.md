@@ -1,5 +1,4 @@
-Dicaeoma pallescens (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma pallescens (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

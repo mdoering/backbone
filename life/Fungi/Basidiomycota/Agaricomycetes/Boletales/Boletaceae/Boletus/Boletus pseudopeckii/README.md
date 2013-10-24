@@ -1,5 +1,4 @@
-Boletus pseudopeckii A.H. Sm. & Thiers SPECIES
-=======
+# Boletus pseudopeckii A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

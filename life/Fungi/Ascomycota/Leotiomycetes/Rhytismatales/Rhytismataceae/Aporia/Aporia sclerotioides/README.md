@@ -1,5 +1,4 @@
-Aporia sclerotioides Duby SPECIES
-=======
+# Aporia sclerotioides Duby SPECIES
 
 #### Status
 ACCEPTED

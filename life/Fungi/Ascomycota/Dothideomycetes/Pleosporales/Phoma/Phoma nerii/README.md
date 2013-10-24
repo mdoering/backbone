@@ -1,5 +1,4 @@
-Phoma nerii Speg. SPECIES
-=======
+# Phoma nerii Speg. SPECIES
 
 #### Status
 ACCEPTED

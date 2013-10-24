@@ -1,5 +1,4 @@
-Eurychasmopsis multisecunda Canter, 1994 SPECIES
-=======
+# Eurychasmopsis multisecunda Canter, 1994 SPECIES
 
 #### Status
 ACCEPTED

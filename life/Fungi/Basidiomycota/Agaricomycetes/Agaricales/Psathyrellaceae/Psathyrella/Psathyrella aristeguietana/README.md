@@ -1,5 +1,4 @@
-Psathyrella aristeguietana Dennis SPECIES
-=======
+# Psathyrella aristeguietana Dennis SPECIES
 
 #### Status
 ACCEPTED

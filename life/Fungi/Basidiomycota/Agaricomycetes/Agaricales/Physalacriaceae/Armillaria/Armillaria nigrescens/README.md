@@ -1,5 +1,4 @@
-Armillaria nigrescens A. Kawam. SPECIES
-=======
+# Armillaria nigrescens A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

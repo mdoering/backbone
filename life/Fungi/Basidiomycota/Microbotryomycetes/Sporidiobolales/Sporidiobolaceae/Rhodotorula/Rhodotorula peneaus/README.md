@@ -1,5 +1,4 @@
-Rhodotorula peneaus Phaff, Mrak & O.B. Williams SPECIES
-=======
+# Rhodotorula peneaus Phaff, Mrak & O.B. Williams SPECIES
 
 #### Status
 ACCEPTED

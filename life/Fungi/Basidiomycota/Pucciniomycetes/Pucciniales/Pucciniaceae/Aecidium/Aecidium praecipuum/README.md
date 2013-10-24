@@ -1,5 +1,4 @@
-Aecidium praecipuum Arthur SPECIES
-=======
+# Aecidium praecipuum Arthur SPECIES
 
 #### Status
 ACCEPTED

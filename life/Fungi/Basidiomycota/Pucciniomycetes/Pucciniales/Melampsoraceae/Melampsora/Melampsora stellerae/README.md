@@ -1,5 +1,4 @@
-Melampsora stellerae Teich SPECIES
-=======
+# Melampsora stellerae Teich SPECIES
 
 #### Status
 ACCEPTED

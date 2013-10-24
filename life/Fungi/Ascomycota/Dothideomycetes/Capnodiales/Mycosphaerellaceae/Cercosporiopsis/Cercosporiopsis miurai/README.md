@@ -1,5 +1,4 @@
-Cercosporiopsis miurai (Syd. & P. Syd.) Miura SPECIES
-=======
+# Cercosporiopsis miurai (Syd. & P. Syd.) Miura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumatoria longicollis Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Spumatoria longicollis Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus thozetii Berk. & F. Muell. SPECIES
-=======
+# Agaricus thozetii Berk. & F. Muell. SPECIES
 
 #### Status
 ACCEPTED

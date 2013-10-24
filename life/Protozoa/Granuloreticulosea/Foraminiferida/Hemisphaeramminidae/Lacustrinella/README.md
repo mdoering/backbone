@@ -1,5 +1,4 @@
-Lacustrinella Loeblich & Tappan, 1987 GENUS
-=======
+# Lacustrinella Loeblich & Tappan, 1987 GENUS
 
 #### Status
 ACCEPTED

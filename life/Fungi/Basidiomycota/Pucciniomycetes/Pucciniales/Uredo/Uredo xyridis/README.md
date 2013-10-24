@@ -1,5 +1,4 @@
-Uredo xyridis Mains SPECIES
-=======
+# Uredo xyridis Mains SPECIES
 
 #### Status
 ACCEPTED

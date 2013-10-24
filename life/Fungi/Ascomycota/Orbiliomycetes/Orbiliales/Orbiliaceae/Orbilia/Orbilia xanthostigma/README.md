@@ -1,5 +1,4 @@
-Orbilia xanthostigma (Fr.) Fr., 1849 SPECIES
-=======
+# Orbilia xanthostigma (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

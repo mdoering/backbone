@@ -1,5 +1,4 @@
-Thalassiosira bramaputrae (Ehrenberg) Håk. & Locker SPECIES
-=======
+# Thalassiosira bramaputrae (Ehrenberg) Håk. & Locker SPECIES
 
 #### Status
 ACCEPTED

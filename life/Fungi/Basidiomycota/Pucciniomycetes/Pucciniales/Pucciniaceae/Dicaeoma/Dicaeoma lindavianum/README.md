@@ -1,5 +1,4 @@
-Dicaeoma lindavianum (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma lindavianum (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium brevissimum J.N. Rai & Wadhwani, 1976 SPECIES
-=======
+# Penicillium brevissimum J.N. Rai & Wadhwani, 1976 SPECIES
 
 #### Status
 ACCEPTED

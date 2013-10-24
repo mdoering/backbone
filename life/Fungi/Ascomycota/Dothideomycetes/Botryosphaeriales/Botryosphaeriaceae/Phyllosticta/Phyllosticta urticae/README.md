@@ -1,5 +1,4 @@
-Phyllosticta urticae Sacc. SPECIES
-=======
+# Phyllosticta urticae Sacc. SPECIES
 
 #### Status
 ACCEPTED

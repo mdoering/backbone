@@ -1,5 +1,4 @@
-Dothiora platyasca (Peck) Sacc. SPECIES
-=======
+# Dothiora platyasca (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

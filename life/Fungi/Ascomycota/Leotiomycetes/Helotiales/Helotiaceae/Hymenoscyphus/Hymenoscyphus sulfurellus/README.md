@@ -1,5 +1,4 @@
-Hymenoscyphus sulfurellus (Sacc.) Kuntze SPECIES
-=======
+# Hymenoscyphus sulfurellus (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

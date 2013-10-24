@@ -1,5 +1,4 @@
-Clitocybe badioferruginea H.E. Bigelow SPECIES
-=======
+# Clitocybe badioferruginea H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

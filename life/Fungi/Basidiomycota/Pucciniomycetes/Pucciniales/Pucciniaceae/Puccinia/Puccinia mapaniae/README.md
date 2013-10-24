@@ -1,5 +1,4 @@
-Puccinia mapaniae Racib. SPECIES
-=======
+# Puccinia mapaniae Racib. SPECIES
 
 #### Status
 ACCEPTED

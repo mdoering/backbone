@@ -1,5 +1,4 @@
-Sphacelotheca monakai Mishra SPECIES
-=======
+# Sphacelotheca monakai Mishra SPECIES
 
 #### Status
 ACCEPTED

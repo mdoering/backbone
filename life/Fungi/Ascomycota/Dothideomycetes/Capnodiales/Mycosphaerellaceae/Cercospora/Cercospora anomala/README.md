@@ -1,5 +1,4 @@
-Cercospora anomala Ellis & Halst. SPECIES
-=======
+# Cercospora anomala Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula sexlocularis (Nyl.) Müll. Arg., 1887 SPECIES
-=======
+# Pyrenula sexlocularis (Nyl.) Müll. Arg., 1887 SPECIES
 
 #### Status
 DOUBTFUL

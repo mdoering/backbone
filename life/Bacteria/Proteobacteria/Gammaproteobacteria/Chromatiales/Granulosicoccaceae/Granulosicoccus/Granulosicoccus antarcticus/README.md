@@ -1,5 +1,4 @@
-Granulosicoccus antarcticus Lee, Lee, Choi, Kim & Cho, 2008 SPECIES
-=======
+# Granulosicoccus antarcticus Lee, Lee, Choi, Kim & Cho, 2008 SPECIES
 
 #### Status
 ACCEPTED

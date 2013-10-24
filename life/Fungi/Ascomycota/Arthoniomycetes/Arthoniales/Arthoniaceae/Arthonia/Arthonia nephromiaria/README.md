@@ -1,5 +1,4 @@
-Arthonia nephromiaria var. lepidiota H. Olivier VARIETY
-=======
+# Arthonia nephromiaria Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia nephromiaria var. lepidiota H. Olivier
+Arthonia nephromiaria Nyl.
 
 ### Remarks
 null

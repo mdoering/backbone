@@ -1,17 +1,16 @@
-Inocybe bresadoliana Bon SPECIES
-=======
+# Inocybe bresadolana Bon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 12(no. 48): 44 (1983)
 
 #### Original name
-Inocybe bresadoliana Bon
+Inocybe fuscidula Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystomella nectandrae Toro SPECIES
-=======
+# Polystomella nectandrae Toro SPECIES
 
 #### Status
 ACCEPTED

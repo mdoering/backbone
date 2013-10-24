@@ -1,5 +1,4 @@
-Arthrobotryum coprophilum Oudem. SPECIES
-=======
+# Arthrobotryum coprophilum Oudem. SPECIES
 
 #### Status
 ACCEPTED

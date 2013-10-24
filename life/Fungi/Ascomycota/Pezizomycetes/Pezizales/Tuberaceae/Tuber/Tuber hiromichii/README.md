@@ -1,5 +1,4 @@
-Tuber hiromichii (S. Imai) Trappe SPECIES
-=======
+# Tuber hiromichii (S. Imai) Trappe SPECIES
 
 #### Status
 ACCEPTED

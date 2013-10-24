@@ -1,5 +1,4 @@
-Ramalina phalerata (Ach.) Röhl. SPECIES
-=======
+# Ramalina phalerata (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix anomala SPECIES
-=======
+# Calothrix anomala SPECIES
 
 #### Status
 ACCEPTED

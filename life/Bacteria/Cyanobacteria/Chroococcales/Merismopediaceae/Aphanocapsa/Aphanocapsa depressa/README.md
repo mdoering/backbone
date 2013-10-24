@@ -1,5 +1,4 @@
-Aphanocapsa depressa (Berkeley) Rabenhorst SPECIES
-=======
+# Aphanocapsa depressa (Berkeley) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

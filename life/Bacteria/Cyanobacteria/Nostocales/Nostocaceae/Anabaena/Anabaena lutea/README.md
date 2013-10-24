@@ -1,5 +1,4 @@
-Anabaena lutea Gardner SPECIES
-=======
+# Anabaena lutea Gardner SPECIES
 
 #### Status
 ACCEPTED

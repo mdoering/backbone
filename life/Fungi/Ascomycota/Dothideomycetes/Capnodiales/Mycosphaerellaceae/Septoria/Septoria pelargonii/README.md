@@ -1,5 +1,4 @@
-Septoria pelargonii Syd. SPECIES
-=======
+# Septoria pelargonii Syd. SPECIES
 
 #### Status
 ACCEPTED

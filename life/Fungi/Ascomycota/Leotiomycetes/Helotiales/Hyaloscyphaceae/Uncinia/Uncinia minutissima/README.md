@@ -1,5 +1,4 @@
-Uncinia minutissima Velen. SPECIES
-=======
+# Uncinia minutissima Velen. SPECIES
 
 #### Status
 ACCEPTED

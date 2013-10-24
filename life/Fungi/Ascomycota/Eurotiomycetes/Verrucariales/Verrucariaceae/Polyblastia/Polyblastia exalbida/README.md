@@ -1,5 +1,4 @@
-Polyblastia exalbida (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia exalbida (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

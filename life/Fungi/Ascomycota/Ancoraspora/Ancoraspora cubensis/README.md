@@ -1,5 +1,4 @@
-Ancoraspora cubensis Mig. Rodr., 1982 SPECIES
-=======
+# Ancoraspora cubensis Mig. Rodr., 1982 SPECIES
 
 #### Status
 ACCEPTED

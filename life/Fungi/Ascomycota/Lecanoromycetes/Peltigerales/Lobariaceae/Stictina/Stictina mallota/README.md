@@ -1,5 +1,4 @@
-Stictina mallota (Tuck.) Stizenb. SPECIES
-=======
+# Stictina mallota (Tuck.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

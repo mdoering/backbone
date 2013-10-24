@@ -1,5 +1,4 @@
-Coronospora pallescens M. Zhang & T.Y. Zhang SPECIES
-=======
+# Coronospora pallescens M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

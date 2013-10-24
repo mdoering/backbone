@@ -1,5 +1,4 @@
-Botryotrichum indicum Subrahm. SPECIES
-=======
+# Botryotrichum indicum Subrahm. SPECIES
 
 #### Status
 ACCEPTED

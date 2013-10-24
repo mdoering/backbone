@@ -1,5 +1,4 @@
-Phyllosticta amaryllidis Bres. SPECIES
-=======
+# Phyllosticta amaryllidis Bres. SPECIES
 
 #### Status
 ACCEPTED

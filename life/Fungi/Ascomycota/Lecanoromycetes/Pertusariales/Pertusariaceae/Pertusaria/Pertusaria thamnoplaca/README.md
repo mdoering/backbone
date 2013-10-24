@@ -1,5 +1,4 @@
-Pertusaria thamnoplaca Tuck. SPECIES
-=======
+# Pertusaria thamnoplaca Tuck. SPECIES
 
 #### Status
 ACCEPTED

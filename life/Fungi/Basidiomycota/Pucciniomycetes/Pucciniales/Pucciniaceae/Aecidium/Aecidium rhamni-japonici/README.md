@@ -1,5 +1,4 @@
-Aecidium rhamni-japonici Dietel SPECIES
-=======
+# Aecidium rhamni-japonici Dietel SPECIES
 
 #### Status
 ACCEPTED

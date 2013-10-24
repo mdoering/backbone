@@ -1,5 +1,4 @@
-Cercidospora parva Hafellner & Ihlen, 1998 SPECIES
-=======
+# Cercidospora parva Hafellner & Ihlen, 1998 SPECIES
 
 #### Status
 ACCEPTED

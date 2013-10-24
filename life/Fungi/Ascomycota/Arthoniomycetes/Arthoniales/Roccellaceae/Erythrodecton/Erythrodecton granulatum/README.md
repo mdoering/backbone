@@ -1,14 +1,13 @@
-Stigmatidium granulatum (Mont.) Nyl. SPECIES
-=======
+# Erythrodecton granulatum (Mont.) G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 103: 76 (1991)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Archagaricon radiatum A. Hancock & Atthey SPECIES
-=======
+# Archagaricon radiatum A. Hancock & Atthey SPECIES
 
 #### Status
 ACCEPTED

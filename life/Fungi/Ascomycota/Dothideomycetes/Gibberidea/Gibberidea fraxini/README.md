@@ -1,5 +1,4 @@
-Gibberidea fraxini (Ellis & Everh.) Kuntze SPECIES
-=======
+# Gibberidea fraxini (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

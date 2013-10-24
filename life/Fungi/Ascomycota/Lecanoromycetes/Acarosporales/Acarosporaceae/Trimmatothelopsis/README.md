@@ -1,5 +1,4 @@
-Trimmatothelopsis Zschacke GENUS
-=======
+# Trimmatothelopsis Zschacke GENUS
 
 #### Status
 ACCEPTED

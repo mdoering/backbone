@@ -1,5 +1,4 @@
-Phlyctochytrium stipitatum Kobayasi SPECIES
-=======
+# Phlyctochytrium stipitatum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

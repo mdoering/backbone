@@ -1,5 +1,4 @@
-Dacrymyces incarnatus P. Karst. SPECIES
-=======
+# Dacrymyces incarnatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

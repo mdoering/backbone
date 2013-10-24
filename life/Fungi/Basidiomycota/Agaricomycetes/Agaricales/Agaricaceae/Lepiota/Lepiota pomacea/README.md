@@ -1,5 +1,4 @@
-Lepiota pomacea Velen. SPECIES
-=======
+# Lepiota pomacea Velen. SPECIES
 
 #### Status
 ACCEPTED

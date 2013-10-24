@@ -1,5 +1,4 @@
-Corallospora Werderm. GENUS
-=======
+# Corallospora Werderm. GENUS
 
 #### Status
 ACCEPTED

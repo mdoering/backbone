@@ -1,5 +1,4 @@
-Sporonema ramulorum Vestergr. SPECIES
-=======
+# Sporonema ramulorum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

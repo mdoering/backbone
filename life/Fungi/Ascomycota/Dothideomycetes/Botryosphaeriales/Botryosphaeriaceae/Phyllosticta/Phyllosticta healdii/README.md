@@ -1,5 +1,4 @@
-Phyllosticta healdii R. Sprague SPECIES
-=======
+# Phyllosticta healdii R. Sprague SPECIES
 
 #### Status
 ACCEPTED

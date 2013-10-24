@@ -1,5 +1,4 @@
-Dimerium singaporense Sacc. SPECIES
-=======
+# Dimerium singaporense Sacc. SPECIES
 
 #### Status
 ACCEPTED

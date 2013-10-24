@@ -1,5 +1,4 @@
-Mallomonas lychenensis W. Conrad SPECIES
-=======
+# Mallomonas lychenensis W. Conrad SPECIES
 
 #### Status
 ACCEPTED

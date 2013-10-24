@@ -1,5 +1,4 @@
-Diplophrys J.S.F. Barker, 1868 GENUS
-=======
+# Diplophrys J.S.F. Barker, 1868 GENUS
 
 #### Status
 ACCEPTED

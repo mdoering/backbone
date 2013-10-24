@@ -1,5 +1,4 @@
-Phormidium numarium Playfair SPECIES
-=======
+# Phormidium numarium Playfair SPECIES
 
 #### Status
 ACCEPTED

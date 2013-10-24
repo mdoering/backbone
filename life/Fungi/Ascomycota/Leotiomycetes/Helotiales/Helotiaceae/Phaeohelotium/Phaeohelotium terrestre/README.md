@@ -1,5 +1,4 @@
-Phaeohelotium terrestre (Velen.) Svrcek SPECIES
-=======
+# Phaeohelotium terrestre (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

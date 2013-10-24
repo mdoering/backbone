@@ -1,5 +1,4 @@
-Flagelloscypha obovatispora Agerer, 1975 SPECIES
-=======
+# Flagelloscypha obovatispora Agerer, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria laurentiana É.J. Marchal SPECIES
-=======
+# Nectria laurentiana É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

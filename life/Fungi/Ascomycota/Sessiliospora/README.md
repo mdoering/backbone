@@ -1,5 +1,4 @@
-Sessiliospora D. Hawksw. GENUS
-=======
+# Sessiliospora D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

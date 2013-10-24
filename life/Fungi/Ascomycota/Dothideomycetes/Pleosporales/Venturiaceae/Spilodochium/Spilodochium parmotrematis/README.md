@@ -1,5 +1,4 @@
-Spilodochium parmotrematis Diederich & Etayo SPECIES
-=======
+# Spilodochium parmotrematis Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

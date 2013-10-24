@@ -1,5 +1,4 @@
-Bogoriella supersicina SPECIES
-=======
+# Bogoriella supersicina SPECIES
 
 #### Status
 ACCEPTED

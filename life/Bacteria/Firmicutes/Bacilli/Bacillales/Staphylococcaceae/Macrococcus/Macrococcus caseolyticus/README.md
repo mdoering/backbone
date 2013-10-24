@@ -1,8 +1,7 @@
-Staphylococcus caseolyticus (ex Evans, 1916) Schleifer et al., 1982 SPECIES
-=======
+# Macrococcus caseolyticus (Schleifer et al., 1982) Kloos et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Asterina oppositipodia Rahayu & I.H. Parbery SPECIES
-=======
+# Asterina oppositipodia Rahayu & I.H. Parbery SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea mayeri Lindau SPECIES
-=======
+# Lecidea mayeri Lindau SPECIES
 
 #### Status
 ACCEPTED

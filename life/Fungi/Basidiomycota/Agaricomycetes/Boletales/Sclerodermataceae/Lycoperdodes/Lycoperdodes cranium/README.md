@@ -1,5 +1,4 @@
-Lycoperdodes cranium (Lév.) Kuntze SPECIES
-=======
+# Lycoperdodes cranium (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

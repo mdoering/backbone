@@ -1,5 +1,4 @@
-Tubeporina Pronina, 1961 GENUS
-=======
+# Tubeporina Pronina, 1961 GENUS
 
 #### Status
 ACCEPTED

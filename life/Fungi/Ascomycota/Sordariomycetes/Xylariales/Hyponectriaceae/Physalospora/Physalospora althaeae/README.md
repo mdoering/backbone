@@ -1,5 +1,4 @@
-Physalospora althaeae (Kirchn.) Sacc. SPECIES
-=======
+# Physalospora althaeae (Kirchn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

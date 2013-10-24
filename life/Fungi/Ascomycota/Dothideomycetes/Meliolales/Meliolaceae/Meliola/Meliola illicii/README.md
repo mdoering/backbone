@@ -1,5 +1,4 @@
-Meliola illicii (Cif.) Hansf. SPECIES
-=======
+# Meliola illicii (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

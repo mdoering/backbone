@@ -1,14 +1,13 @@
-Cercospora timorensis Cooke, 1883 SPECIES
-=======
+# Pseudocercospora timorensis (Cooke) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 61): 38 (1883)
+Mycol. Pap. 140: 154 (1976)
 
 #### Original name
 Cercospora timorensis Cooke, 1883

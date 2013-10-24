@@ -1,5 +1,4 @@
-Monascus floridanus P.F. Cannon & E.L. Barnard, 1987 SPECIES
-=======
+# Monascus floridanus P.F. Cannon & E.L. Barnard, 1987 SPECIES
 
 #### Status
 ACCEPTED

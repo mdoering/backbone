@@ -1,5 +1,4 @@
-Diachorella xinjiangensis X.Wei Wang & Z.Q. Yuan SPECIES
-=======
+# Diachorella xinjiangensis X.Wei Wang & Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

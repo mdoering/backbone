@@ -1,5 +1,4 @@
-Psathyrella multissima (S. Imai) Hongo SPECIES
-=======
+# Psathyrella multissima (S. Imai) Hongo SPECIES
 
 #### Status
 ACCEPTED

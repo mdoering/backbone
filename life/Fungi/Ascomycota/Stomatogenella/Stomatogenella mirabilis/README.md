@@ -1,5 +1,4 @@
-Stomatogenella mirabilis Petr., 1955 SPECIES
-=======
+# Stomatogenella mirabilis Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

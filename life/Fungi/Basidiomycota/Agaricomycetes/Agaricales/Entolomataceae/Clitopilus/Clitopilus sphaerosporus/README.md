@@ -1,5 +1,4 @@
-Clitopilus sphaerosporus Peck SPECIES
-=======
+# Clitopilus sphaerosporus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonulina tecomae (Sacc.) Tassi SPECIES
-=======
+# Hendersonulina tecomae (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

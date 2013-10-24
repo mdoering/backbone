@@ -1,5 +1,4 @@
-Rhodococcus luteus (ex Söhngen, 1913) Nesterenko et al., 1982 SPECIES
-=======
+# Rhodococcus luteus (ex Söhngen, 1913) Nesterenko et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

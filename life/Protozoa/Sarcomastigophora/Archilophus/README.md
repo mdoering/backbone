@@ -1,5 +1,4 @@
-Archilophus Haeckel, 1881 GENUS
-=======
+# Archilophus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta scabiosa McAlpine SPECIES
-=======
+# Phyllosticta scabiosa McAlpine SPECIES
 
 #### Status
 ACCEPTED

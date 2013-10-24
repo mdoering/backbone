@@ -1,5 +1,4 @@
-Phyllosticta siccata H.C. Greene SPECIES
-=======
+# Phyllosticta siccata H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

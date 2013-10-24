@@ -1,5 +1,4 @@
-Armillaria adelpha (Berk.) Sacc. SPECIES
-=======
+# Armillaria adelpha (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

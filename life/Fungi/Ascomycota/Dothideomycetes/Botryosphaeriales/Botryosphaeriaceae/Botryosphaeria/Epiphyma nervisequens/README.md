@@ -1,5 +1,4 @@
-Epiphyma nervisequens (Chardón) J.H. Mill. & Burton SPECIES
-=======
+# Epiphyma nervisequens (Chardón) J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

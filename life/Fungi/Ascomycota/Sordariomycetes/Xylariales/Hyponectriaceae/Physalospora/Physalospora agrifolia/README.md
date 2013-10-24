@@ -1,5 +1,4 @@
-Physalospora agrifolia Ellis & Everh. SPECIES
-=======
+# Physalospora agrifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

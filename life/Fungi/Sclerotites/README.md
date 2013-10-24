@@ -1,5 +1,4 @@
-Sclerotites E. Jeffrey & Chrysler, 1906 GENUS
-=======
+# Sclerotites E. Jeffrey & Chrysler, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobolomyces yuccicola Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces yuccicola Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

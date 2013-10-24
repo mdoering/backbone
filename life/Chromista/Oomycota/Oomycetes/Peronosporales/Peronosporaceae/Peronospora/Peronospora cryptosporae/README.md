@@ -1,5 +1,4 @@
-Peronospora cryptosporae Annal. SPECIES
-=======
+# Peronospora cryptosporae Annal. SPECIES
 
 #### Status
 ACCEPTED

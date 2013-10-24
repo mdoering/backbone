@@ -1,5 +1,4 @@
-Colletotrichum althaeae Br. {?} & Casp. SPECIES
-=======
+# Colletotrichum althaeae Br. {?} & Casp. SPECIES
 
 #### Status
 ACCEPTED

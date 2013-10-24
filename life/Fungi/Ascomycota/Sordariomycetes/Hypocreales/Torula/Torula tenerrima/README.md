@@ -1,5 +1,4 @@
-Torula tenerrima Preuss SPECIES
-=======
+# Torula tenerrima Preuss SPECIES
 
 #### Status
 ACCEPTED

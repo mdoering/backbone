@@ -1,5 +1,4 @@
-Lopadium leucoxanthoides (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium leucoxanthoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus clementiae Murrill SPECIES
-=======
+# Polyporus clementiae Murrill SPECIES
 
 #### Status
 ACCEPTED

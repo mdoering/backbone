@@ -1,5 +1,4 @@
-Histophilus somni Angen et al., 2003 SPECIES
-=======
+# Histophilus somni Angen et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

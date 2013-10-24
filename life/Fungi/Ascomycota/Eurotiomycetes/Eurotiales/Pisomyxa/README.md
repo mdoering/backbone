@@ -1,5 +1,4 @@
-Pisomyxa Corda GENUS
-=======
+# Pisomyxa Corda GENUS
 
 #### Status
 ACCEPTED

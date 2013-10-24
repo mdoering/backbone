@@ -1,5 +1,4 @@
-Melanconium ellipticum Corda SPECIES
-=======
+# Melanconium ellipticum Corda SPECIES
 
 #### Status
 ACCEPTED

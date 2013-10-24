@@ -1,5 +1,4 @@
-Candelaria murrayi Poelt SPECIES
-=======
+# Candelaria murrayi Poelt SPECIES
 
 #### Status
 ACCEPTED

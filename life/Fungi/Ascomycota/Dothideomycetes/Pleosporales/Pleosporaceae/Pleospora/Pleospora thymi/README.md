@@ -1,5 +1,4 @@
-Pleospora thymi Gucevic SPECIES
-=======
+# Pleospora thymi Gucevic SPECIES
 
 #### Status
 ACCEPTED

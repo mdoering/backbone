@@ -1,5 +1,4 @@
-Teloschistes subcanaliculatus Vain. SPECIES
-=======
+# Teloschistes subcanaliculatus Vain. SPECIES
 
 #### Status
 ACCEPTED

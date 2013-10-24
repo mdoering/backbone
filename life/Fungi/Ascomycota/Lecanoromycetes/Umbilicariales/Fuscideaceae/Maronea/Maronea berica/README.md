@@ -1,14 +1,13 @@
-Maronea constans f. berica (A. Massal.) H. Magn. FORM
-=======
+# Maronea berica A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 39: 291 (1856)
 
 #### Original name
 Maronea berica A. Massal.

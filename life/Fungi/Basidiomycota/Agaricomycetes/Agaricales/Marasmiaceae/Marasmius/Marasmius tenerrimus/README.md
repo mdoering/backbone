@@ -1,5 +1,4 @@
-Marasmius tenerrimus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius tenerrimus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

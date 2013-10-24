@@ -1,5 +1,4 @@
-Opeasterina dyctiolomatis (Henn.) Speg. SPECIES
-=======
+# Opeasterina dyctiolomatis (Henn.) Speg. SPECIES
 
 #### Status
 ACCEPTED

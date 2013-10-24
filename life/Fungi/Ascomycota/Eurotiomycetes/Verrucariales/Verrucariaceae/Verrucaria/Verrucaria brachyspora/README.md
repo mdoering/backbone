@@ -1,5 +1,4 @@
-Verrucaria brachyspora Arnold SPECIES
-=======
+# Verrucaria brachyspora Arnold SPECIES
 
 #### Status
 ACCEPTED

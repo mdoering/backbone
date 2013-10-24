@@ -1,5 +1,4 @@
-Subtilisphaera Jain & Millepied GENUS
-=======
+# Subtilisphaera Jain & Millepied GENUS
 
 #### Status
 ACCEPTED

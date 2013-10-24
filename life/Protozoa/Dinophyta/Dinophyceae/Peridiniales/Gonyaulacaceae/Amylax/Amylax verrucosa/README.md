@@ -1,5 +1,4 @@
-Amylax verrucosa Rampi, 1943 SPECIES
-=======
+# Amylax verrucosa Rampi, 1943 SPECIES
 
 #### Status
 ACCEPTED

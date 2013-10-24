@@ -1,5 +1,4 @@
-Pseudocercospora cinnamomi (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora cinnamomi (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

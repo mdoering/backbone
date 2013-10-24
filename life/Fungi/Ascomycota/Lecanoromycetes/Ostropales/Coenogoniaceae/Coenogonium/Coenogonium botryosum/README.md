@@ -1,5 +1,4 @@
-Coenogonium botryosum C. Knight SPECIES
-=======
+# Coenogonium botryosum C. Knight SPECIES
 
 #### Status
 ACCEPTED

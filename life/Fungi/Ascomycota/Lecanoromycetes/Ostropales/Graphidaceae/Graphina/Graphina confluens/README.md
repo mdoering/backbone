@@ -1,5 +1,4 @@
-Graphina confluens (Fée) Müll. Arg. SPECIES
-=======
+# Graphina confluens (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus candidobulbosus J.F. Gmel. SPECIES
-=======
+# Agaricus candidobulbosus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

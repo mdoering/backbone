@@ -1,5 +1,4 @@
-Parmelina usambarensis (J. Steiner & Zahlbr.) Hale SPECIES
-=======
+# Parmelina usambarensis (J. Steiner & Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

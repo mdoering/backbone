@@ -1,5 +1,4 @@
-Peltosphaeria anacardii Srinivasulu & P.G. Sathe SPECIES
-=======
+# Peltosphaeria anacardii Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

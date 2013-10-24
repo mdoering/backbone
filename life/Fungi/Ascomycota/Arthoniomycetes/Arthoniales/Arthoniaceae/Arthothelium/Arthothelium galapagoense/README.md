@@ -1,5 +1,4 @@
-Arthothelium galapagoense Huneck & Follmann SPECIES
-=======
+# Arthothelium galapagoense Huneck & Follmann SPECIES
 
 #### Status
 ACCEPTED

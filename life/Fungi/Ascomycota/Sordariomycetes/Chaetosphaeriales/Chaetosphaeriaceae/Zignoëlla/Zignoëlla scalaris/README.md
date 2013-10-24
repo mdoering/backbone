@@ -1,5 +1,4 @@
-Zignoëlla scalaris (Durieu & Mont.) Berl. SPECIES
-=======
+# Zignoëlla scalaris (Durieu & Mont.) Berl. SPECIES
 
 #### Status
 ACCEPTED

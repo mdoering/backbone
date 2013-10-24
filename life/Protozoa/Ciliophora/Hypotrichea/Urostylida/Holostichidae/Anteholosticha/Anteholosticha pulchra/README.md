@@ -1,5 +1,4 @@
-Anteholosticha pulchra Kahl, 1932 SPECIES
-=======
+# Anteholosticha pulchra Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

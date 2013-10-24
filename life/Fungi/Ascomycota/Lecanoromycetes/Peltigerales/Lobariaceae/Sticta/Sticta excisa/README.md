@@ -1,5 +1,4 @@
-Sticta excisa Müll. Arg. SPECIES
-=======
+# Sticta excisa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius brunneofulvus Fr. SPECIES
-=======
+# Cortinarius brunneofulvus Fr. SPECIES
 
 #### Status
 ACCEPTED

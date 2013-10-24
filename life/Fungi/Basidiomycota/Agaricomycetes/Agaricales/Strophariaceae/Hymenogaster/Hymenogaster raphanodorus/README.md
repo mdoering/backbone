@@ -1,5 +1,4 @@
-Hymenogaster raphanodorus M.E. Sm. & Trappe SPECIES
-=======
+# Hymenogaster raphanodorus M.E. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe furfuraceipes Corner SPECIES
-=======
+# Clitocybe furfuraceipes Corner SPECIES
 
 #### Status
 ACCEPTED

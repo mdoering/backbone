@@ -1,5 +1,4 @@
-Erineum extentum Ach. ex Fr. SPECIES
-=======
+# Erineum extentum Ach. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

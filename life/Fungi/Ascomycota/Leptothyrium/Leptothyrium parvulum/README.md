@@ -1,5 +1,4 @@
-Leptothyrium parvulum Dearn. SPECIES
-=======
+# Leptothyrium parvulum Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus roseocingulatus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus roseocingulatus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

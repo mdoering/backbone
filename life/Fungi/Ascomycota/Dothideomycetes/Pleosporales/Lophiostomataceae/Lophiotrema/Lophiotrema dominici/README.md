@@ -1,5 +1,4 @@
-Lophiotrema dominici Sacc. SPECIES
-=======
+# Lophiotrema dominici Sacc. SPECIES
 
 #### Status
 ACCEPTED

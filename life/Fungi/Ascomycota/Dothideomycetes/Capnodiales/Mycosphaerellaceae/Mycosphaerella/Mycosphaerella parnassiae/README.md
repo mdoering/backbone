@@ -1,5 +1,4 @@
-Mycosphaerella parnassiae (Rostr.) Lind SPECIES
-=======
+# Mycosphaerella parnassiae (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

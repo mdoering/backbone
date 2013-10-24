@@ -1,5 +1,4 @@
-Eudarluca biconica Katum. SPECIES
-=======
+# Eudarluca biconica Katum. SPECIES
 
 #### Status
 ACCEPTED

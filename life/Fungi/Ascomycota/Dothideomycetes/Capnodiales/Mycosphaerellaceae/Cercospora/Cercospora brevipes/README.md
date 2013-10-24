@@ -1,5 +1,4 @@
-Cercospora brevipes Penz. & Sacc. SPECIES
-=======
+# Cercospora brevipes Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

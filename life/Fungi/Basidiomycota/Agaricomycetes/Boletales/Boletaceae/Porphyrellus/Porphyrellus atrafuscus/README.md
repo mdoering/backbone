@@ -1,5 +1,4 @@
-Porphyrellus atrafuscus E.A. Dick & Snell SPECIES
-=======
+# Porphyrellus atrafuscus E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

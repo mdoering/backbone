@@ -1,5 +1,4 @@
-Acrocladium andinum Petr. SPECIES
-=======
+# Acrocladium andinum Petr. SPECIES
 
 #### Status
 ACCEPTED

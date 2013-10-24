@@ -1,5 +1,4 @@
-Scutellaria scruposa (Schreb.) Baumg. SPECIES
-=======
+# Scutellaria scruposa (Schreb.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria erinacea (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Lasiosphaeria erinacea (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

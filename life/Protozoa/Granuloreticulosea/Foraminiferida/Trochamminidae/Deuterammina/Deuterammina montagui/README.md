@@ -1,5 +1,4 @@
-Deuterammina montagui Brönnigmann & Whittaker, 1988 SPECIES
-=======
+# Deuterammina montagui Brönnigmann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

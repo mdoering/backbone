@@ -1,5 +1,4 @@
-Pelobacter acetylenicus Schink, 1986 SPECIES
-=======
+# Pelobacter acetylenicus Schink, 1986 SPECIES
 
 #### Status
 ACCEPTED

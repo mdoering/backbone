@@ -1,5 +1,4 @@
-Asteromella sphaerospora Sacc. & Traverso SPECIES
-=======
+# Asteromella sphaerospora Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

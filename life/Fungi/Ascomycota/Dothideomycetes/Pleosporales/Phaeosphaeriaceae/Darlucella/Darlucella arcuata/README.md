@@ -1,5 +1,4 @@
-Darlucella arcuata (Ellis & Everh.) Höhn. SPECIES
-=======
+# Darlucella arcuata (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

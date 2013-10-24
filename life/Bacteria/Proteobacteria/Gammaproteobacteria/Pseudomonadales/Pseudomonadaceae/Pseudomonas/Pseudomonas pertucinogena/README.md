@@ -1,5 +1,4 @@
-Pseudomonas pertucinogena Kawai and Yabuuchi, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas pertucinogena Kawai and Yabuuchi, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

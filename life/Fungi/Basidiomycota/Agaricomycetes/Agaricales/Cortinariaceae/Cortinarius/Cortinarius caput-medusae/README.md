@@ -1,5 +1,4 @@
-Cortinarius caput-medusae H. Lindstr. SPECIES
-=======
+# Cortinarius caput-medusae H. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

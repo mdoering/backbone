@@ -1,5 +1,4 @@
-Marinobacter hydrocarbonoclasticus Gauthier et al., 1992 SPECIES
-=======
+# Marinobacter hydrocarbonoclasticus Gauthier et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

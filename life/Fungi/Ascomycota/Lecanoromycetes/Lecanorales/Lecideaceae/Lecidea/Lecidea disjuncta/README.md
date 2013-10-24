@@ -1,5 +1,4 @@
-Lecidea disjuncta Fée SPECIES
-=======
+# Lecidea disjuncta Fée SPECIES
 
 #### Status
 ACCEPTED

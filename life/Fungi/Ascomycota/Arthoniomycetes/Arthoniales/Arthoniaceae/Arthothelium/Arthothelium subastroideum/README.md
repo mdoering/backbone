@@ -1,5 +1,4 @@
-Arthothelium subastroideum (Anzi) Rehm SPECIES
-=======
+# Arthothelium subastroideum (Anzi) Rehm SPECIES
 
 #### Status
 ACCEPTED

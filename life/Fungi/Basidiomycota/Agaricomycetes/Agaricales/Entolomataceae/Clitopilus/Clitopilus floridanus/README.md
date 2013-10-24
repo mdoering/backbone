@@ -1,5 +1,4 @@
-Clitopilus floridanus (Murrill) Murrill SPECIES
-=======
+# Clitopilus floridanus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

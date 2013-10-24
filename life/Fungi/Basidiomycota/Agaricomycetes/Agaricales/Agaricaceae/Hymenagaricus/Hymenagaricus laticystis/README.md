@@ -1,5 +1,4 @@
-Hymenagaricus laticystis Heinem. SPECIES
-=======
+# Hymenagaricus laticystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

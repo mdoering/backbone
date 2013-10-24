@@ -1,5 +1,4 @@
-Puccinia trixitis (F. Kern & Kellerm.) Arthur SPECIES
-=======
+# Puccinia trixitis (F. Kern & Kellerm.) Arthur SPECIES
 
 #### Status
 ACCEPTED

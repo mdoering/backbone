@@ -1,5 +1,4 @@
-Panaeolus texensis V.E. Tyler & A.H. Sm. SPECIES
-=======
+# Panaeolus texensis V.E. Tyler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

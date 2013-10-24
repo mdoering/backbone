@@ -1,5 +1,4 @@
-Sphacelaria masonii Setchell & N.L.Gardner, 1930 SPECIES
-=======
+# Sphacelaria masonii Setchell & N.L.Gardner, 1930 SPECIES
 
 #### Status
 ACCEPTED

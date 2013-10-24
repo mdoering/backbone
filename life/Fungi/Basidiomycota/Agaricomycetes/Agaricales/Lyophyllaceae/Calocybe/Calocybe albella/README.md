@@ -1,5 +1,4 @@
-Calocybe albella (Schaeff.) Bon SPECIES
-=======
+# Calocybe albella (Schaeff.) Bon SPECIES
 
 #### Status
 ACCEPTED

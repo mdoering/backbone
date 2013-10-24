@@ -1,5 +1,4 @@
-Septoria dolichospora Ellis & Everh., 1891 SPECIES
-=======
+# Septoria dolichospora Ellis & Everh., 1891 SPECIES
 
 #### Status
 ACCEPTED

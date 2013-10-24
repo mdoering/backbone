@@ -1,5 +1,4 @@
-Ceratium azoricum Cleve SPECIES
-=======
+# Ceratium azoricum Cleve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phytophthora fragariae var. fragariae Hickman, 1940 VARIETY
-=======
+# Phytophthora fragariae Hickman, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Journal of hort. Sci. 18: 2 (1940)
 
 #### Original name
-Phytophthora fragariae var. fragariae Hickman, 1940
+Phytophthora fragariae Hickman, 1940
 
 ### Remarks
 null

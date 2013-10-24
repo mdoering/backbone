@@ -1,14 +1,13 @@
-Bilimbia nitschkeana J. Lahm ex Rabenh. SPECIES
-=======
+# Micarea nitschkeana (J. Lahm ex Rabenh.) Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flecht. Europ. 21: no. 583 (1861)
+Bull. Séanc. Soc. Sci. Nancy, Sér. 2 33: 64 (1899)
 
 #### Original name
 Bilimbia nitschkeana J. Lahm ex Rabenh.

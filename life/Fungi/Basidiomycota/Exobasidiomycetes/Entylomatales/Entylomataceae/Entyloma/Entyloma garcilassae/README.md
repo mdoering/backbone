@@ -1,5 +1,4 @@
-Entyloma garcilassae Syd. SPECIES
-=======
+# Entyloma garcilassae Syd. SPECIES
 
 #### Status
 ACCEPTED

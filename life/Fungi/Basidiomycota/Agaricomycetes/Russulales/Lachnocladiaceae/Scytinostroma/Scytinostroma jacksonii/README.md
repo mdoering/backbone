@@ -1,5 +1,4 @@
-Scytinostroma jacksonii Boidin, 1981 SPECIES
-=======
+# Scytinostroma jacksonii Boidin, 1981 SPECIES
 
 #### Status
 ACCEPTED

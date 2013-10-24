@@ -1,5 +1,4 @@
-Thanatephorus pennatus Currah SPECIES
-=======
+# Thanatephorus pennatus Currah SPECIES
 
 #### Status
 ACCEPTED

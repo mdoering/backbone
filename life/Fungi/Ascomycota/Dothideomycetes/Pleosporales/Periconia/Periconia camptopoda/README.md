@@ -1,5 +1,4 @@
-Periconia camptopoda Corda SPECIES
-=======
+# Periconia camptopoda Corda SPECIES
 
 #### Status
 ACCEPTED

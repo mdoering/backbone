@@ -1,5 +1,4 @@
-Merulius atropurpureus W.B. Cooke SPECIES
-=======
+# Merulius atropurpureus W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

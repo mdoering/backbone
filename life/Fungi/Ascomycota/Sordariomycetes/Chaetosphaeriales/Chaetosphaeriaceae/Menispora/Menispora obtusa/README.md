@@ -1,5 +1,4 @@
-Menispora obtusa Sacc. & Berl. SPECIES
-=======
+# Menispora obtusa Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

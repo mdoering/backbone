@@ -1,5 +1,4 @@
-Peziza cellaris Pers. SPECIES
-=======
+# Peziza cellaris Pers. SPECIES
 
 #### Status
 ACCEPTED

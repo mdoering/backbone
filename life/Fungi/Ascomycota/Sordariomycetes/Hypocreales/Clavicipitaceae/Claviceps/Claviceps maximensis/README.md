@@ -1,5 +1,4 @@
-Claviceps maximensis T. Theis SPECIES
-=======
+# Claviceps maximensis T. Theis SPECIES
 
 #### Status
 ACCEPTED

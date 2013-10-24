@@ -1,5 +1,4 @@
-Lecanora emodi Vänskä, Grube & Poelt SPECIES
-=======
+# Lecanora emodi Vänskä, Grube & Poelt SPECIES
 
 #### Status
 ACCEPTED

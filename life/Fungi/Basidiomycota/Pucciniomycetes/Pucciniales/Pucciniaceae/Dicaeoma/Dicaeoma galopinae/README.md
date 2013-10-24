@@ -1,5 +1,4 @@
-Dicaeoma galopinae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma galopinae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

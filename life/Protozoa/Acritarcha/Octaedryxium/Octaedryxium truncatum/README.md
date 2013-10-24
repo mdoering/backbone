@@ -1,5 +1,4 @@
-Octaedryxium truncatum Rudavskaya, 1973 SPECIES
-=======
+# Octaedryxium truncatum Rudavskaya, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peltidea crocea (L.) Ach. SPECIES
-=======
+# Solorina crocea (L.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. (1808)
 
 #### Original name
 Lichen croceus Schreb.

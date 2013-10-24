@@ -1,5 +1,4 @@
-Hydrophilomyces coelostomalis Thaxt. SPECIES
-=======
+# Hydrophilomyces coelostomalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

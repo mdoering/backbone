@@ -1,5 +1,4 @@
-Discomycella tjibodensis Höhn., 1912 SPECIES
-=======
+# Discomycella tjibodensis Höhn., 1912 SPECIES
 
 #### Status
 ACCEPTED

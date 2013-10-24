@@ -1,5 +1,4 @@
-Russula subcyanoxantha f. subcyanoxantha FORM
-=======
+# Russula subcyanoxantha Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 217 (1943)
 
 #### Original name
-Russula subcyanoxantha f. subcyanoxantha
+Russula subcyanoxantha Murrill
 
 ### Remarks
 null

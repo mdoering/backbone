@@ -1,5 +1,4 @@
-Ramaria nanispora R.H. Petersen & M. Zang, 1989 SPECIES
-=======
+# Ramaria nanispora R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED

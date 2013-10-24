@@ -1,5 +1,4 @@
-Teratomyces petiolatus Thaxt., 1901 SPECIES
-=======
+# Teratomyces petiolatus Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

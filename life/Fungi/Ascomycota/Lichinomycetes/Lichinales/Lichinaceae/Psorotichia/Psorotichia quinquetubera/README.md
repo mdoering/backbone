@@ -1,5 +1,4 @@
-Psorotichia quinquetubera (Delise) Forssell SPECIES
-=======
+# Psorotichia quinquetubera (Delise) Forssell SPECIES
 
 #### Status
 ACCEPTED

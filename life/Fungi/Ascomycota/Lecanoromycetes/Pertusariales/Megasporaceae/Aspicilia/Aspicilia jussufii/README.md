@@ -1,5 +1,4 @@
-Aspicilia jussufii (Link) Meresch. SPECIES
-=======
+# Aspicilia jussufii (Link) Meresch. SPECIES
 
 #### Status
 ACCEPTED

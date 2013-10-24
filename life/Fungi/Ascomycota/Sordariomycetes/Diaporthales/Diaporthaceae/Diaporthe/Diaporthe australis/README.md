@@ -1,5 +1,4 @@
-Diaporthe australis Sacc. & Speg. SPECIES
-=======
+# Diaporthe australis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

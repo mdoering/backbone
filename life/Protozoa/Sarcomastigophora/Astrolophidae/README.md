@@ -1,5 +1,4 @@
-Astrolophidae FAMILY
-=======
+# Astrolophidae FAMILY
 
 #### Status
 ACCEPTED

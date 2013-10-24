@@ -1,5 +1,4 @@
-Diplodia truncata Lév. SPECIES
-=======
+# Diplodia truncata Lév. SPECIES
 
 #### Status
 ACCEPTED

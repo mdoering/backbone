@@ -1,5 +1,4 @@
-Peziza tiliae Peck SPECIES
-=======
+# Peziza tiliae Peck SPECIES
 
 #### Status
 ACCEPTED

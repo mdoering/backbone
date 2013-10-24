@@ -1,5 +1,4 @@
-Chytridium fusiforme S.N. Dasgupta & R. John SPECIES
-=======
+# Chytridium fusiforme S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

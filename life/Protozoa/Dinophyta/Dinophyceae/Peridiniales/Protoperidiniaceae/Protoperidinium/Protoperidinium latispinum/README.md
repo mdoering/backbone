@@ -1,5 +1,4 @@
-Protoperidinium latispinum Mangin, 1926 SPECIES
-=======
+# Protoperidinium latispinum Mangin, 1926 SPECIES
 
 #### Status
 ACCEPTED

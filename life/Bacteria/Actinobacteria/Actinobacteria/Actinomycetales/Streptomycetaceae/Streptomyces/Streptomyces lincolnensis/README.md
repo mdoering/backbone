@@ -1,5 +1,4 @@
-Streptomyces lincolnensis Mason et al., 1963 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces lincolnensis Mason et al., 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

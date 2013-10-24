@@ -1,5 +1,4 @@
-Brumptina Carini, 1933 GENUS
-=======
+# Brumptina Carini, 1933 GENUS
 
 #### Status
 ACCEPTED

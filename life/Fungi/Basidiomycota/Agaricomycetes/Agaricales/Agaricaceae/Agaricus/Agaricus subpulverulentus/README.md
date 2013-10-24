@@ -1,5 +1,4 @@
-Agaricus subpulverulentus Pers. SPECIES
-=======
+# Agaricus subpulverulentus Pers. SPECIES
 
 #### Status
 ACCEPTED

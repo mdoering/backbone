@@ -1,5 +1,4 @@
-Coelosphaerium minutissimum Lemmermann SPECIES
-=======
+# Coelosphaerium minutissimum Lemmermann SPECIES
 
 #### Status
 ACCEPTED

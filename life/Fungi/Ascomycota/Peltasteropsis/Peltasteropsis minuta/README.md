@@ -1,5 +1,4 @@
-Peltasteropsis minuta Bat. & H. Maia SPECIES
-=======
+# Peltasteropsis minuta Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

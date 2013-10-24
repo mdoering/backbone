@@ -1,5 +1,4 @@
-Coltriciella oblectabilis (Lloyd) Kotl., Pouzar & Ryvarden SPECIES
-=======
+# Coltriciella oblectabilis (Lloyd) Kotl., Pouzar & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

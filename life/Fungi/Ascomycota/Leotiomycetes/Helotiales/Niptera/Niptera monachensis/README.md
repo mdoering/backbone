@@ -1,5 +1,4 @@
-Niptera monachensis Velen. SPECIES
-=======
+# Niptera monachensis Velen. SPECIES
 
 #### Status
 ACCEPTED

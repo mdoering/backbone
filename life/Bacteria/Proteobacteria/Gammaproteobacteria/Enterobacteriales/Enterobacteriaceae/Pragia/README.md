@@ -1,5 +1,4 @@
-Pragia Aldová et al., 1988 GENUS
-=======
+# Pragia Aldová et al., 1988 GENUS
 
 #### Status
 ACCEPTED

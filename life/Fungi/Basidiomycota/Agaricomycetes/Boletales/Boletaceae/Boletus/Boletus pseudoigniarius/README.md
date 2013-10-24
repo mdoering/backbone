@@ -1,5 +1,4 @@
-Boletus pseudoigniarius Bull. SPECIES
-=======
+# Boletus pseudoigniarius Bull. SPECIES
 
 #### Status
 ACCEPTED

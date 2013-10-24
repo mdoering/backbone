@@ -1,5 +1,4 @@
-Clavaria acetosa Velen. SPECIES
-=======
+# Clavaria acetosa Velen. SPECIES
 
 #### Status
 ACCEPTED

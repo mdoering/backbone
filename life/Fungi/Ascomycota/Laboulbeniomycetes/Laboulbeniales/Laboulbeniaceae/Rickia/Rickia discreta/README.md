@@ -1,5 +1,4 @@
-Rickia discreta Thaxt. SPECIES
-=======
+# Rickia discreta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

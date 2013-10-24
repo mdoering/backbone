@@ -1,5 +1,4 @@
-Stirtonia aggregata Groenh. SPECIES
-=======
+# Stirtonia aggregata Groenh. SPECIES
 
 #### Status
 ACCEPTED

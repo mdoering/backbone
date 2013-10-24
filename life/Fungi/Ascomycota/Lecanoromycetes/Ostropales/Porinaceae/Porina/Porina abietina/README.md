@@ -1,5 +1,4 @@
-Porina abietina (Körb.) Mig. SPECIES
-=======
+# Porina abietina (Körb.) Mig. SPECIES
 
 #### Status
 ACCEPTED

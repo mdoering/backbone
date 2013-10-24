@@ -1,5 +1,4 @@
-Phoma dipsaci SPECIES
-=======
+# Phoma dipsaci SPECIES
 
 #### Status
 ACCEPTED

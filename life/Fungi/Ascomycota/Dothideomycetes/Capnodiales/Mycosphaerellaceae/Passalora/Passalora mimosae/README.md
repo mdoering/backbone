@@ -1,14 +1,13 @@
-Ramularia mimosae F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Passalora mimosae (F. Stevens & Dalbey) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 11(1): 6 (1919)
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 1: 118 (1995)
 
 #### Original name
 Ramularia mimosae F. Stevens & Dalbey, 1919

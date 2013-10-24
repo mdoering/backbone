@@ -1,5 +1,4 @@
-Crepidotus inandae Cooke SPECIES
-=======
+# Crepidotus inandae Cooke SPECIES
 
 #### Status
 ACCEPTED

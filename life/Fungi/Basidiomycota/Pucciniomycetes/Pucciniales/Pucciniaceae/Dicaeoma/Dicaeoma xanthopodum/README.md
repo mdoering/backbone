@@ -1,5 +1,4 @@
-Dicaeoma xanthopodum (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Dicaeoma xanthopodum (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

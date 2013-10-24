@@ -1,8 +1,7 @@
-Remispora quadriremis (Hoehnk) Kohlm. SPECIES
-=======
+# Halosphaeria quadriremis (Hoehnk) Kohlm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

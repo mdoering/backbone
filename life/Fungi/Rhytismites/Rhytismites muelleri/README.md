@@ -1,8 +1,7 @@
-Rhytismites mülleri (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites muelleri (Ettingsh.) Mesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

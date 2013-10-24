@@ -1,5 +1,4 @@
-Ranojevicia vagans Ranoj. & Bubák, 1910 SPECIES
-=======
+# Ranojevicia vagans Ranoj. & Bubák, 1910 SPECIES
 
 #### Status
 ACCEPTED

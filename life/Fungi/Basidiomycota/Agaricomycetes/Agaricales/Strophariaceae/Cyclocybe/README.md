@@ -1,5 +1,4 @@
-Cyclocybe GENUS
-=======
+# Cyclocybe GENUS
 
 #### Status
 ACCEPTED

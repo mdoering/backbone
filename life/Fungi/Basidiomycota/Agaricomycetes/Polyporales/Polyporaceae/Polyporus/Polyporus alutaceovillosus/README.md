@@ -1,5 +1,4 @@
-Polyporus alutaceovillosus Henn. SPECIES
-=======
+# Polyporus alutaceovillosus Henn. SPECIES
 
 #### Status
 ACCEPTED

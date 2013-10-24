@@ -1,5 +1,4 @@
-Meliola carapae Hansf. & Deighton SPECIES
-=======
+# Meliola carapae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

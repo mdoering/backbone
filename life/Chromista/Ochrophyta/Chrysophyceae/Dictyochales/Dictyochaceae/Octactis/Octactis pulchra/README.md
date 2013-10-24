@@ -1,5 +1,4 @@
-Octactis pulchra J. Schiller SPECIES
-=======
+# Octactis pulchra J. Schiller SPECIES
 
 #### Status
 ACCEPTED

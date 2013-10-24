@@ -1,5 +1,4 @@
-Hydnum wellingtonii Lloyd SPECIES
-=======
+# Hydnum wellingtonii Lloyd SPECIES
 
 #### Status
 ACCEPTED

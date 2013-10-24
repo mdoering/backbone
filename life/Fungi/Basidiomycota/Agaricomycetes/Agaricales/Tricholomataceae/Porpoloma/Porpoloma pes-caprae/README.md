@@ -1,17 +1,16 @@
-Agaricus multiformis var. multiformis VARIETY
-=======
+# Porpoloma pes-caprae (Fr.) Singer, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 6(1-4): 198 (1952)
 
 #### Original name
-Agaricus multiformis var. multiformis
+Agaricus pes-caprae Fr., 1838
 
 ### Remarks
 null

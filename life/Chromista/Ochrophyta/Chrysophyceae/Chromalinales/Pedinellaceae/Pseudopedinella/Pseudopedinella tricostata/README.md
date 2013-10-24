@@ -1,5 +1,4 @@
-Pseudopedinella tricostata (M. I. Roukhiyajnen) H. A. Thomsen SPECIES
-=======
+# Pseudopedinella tricostata (M. I. Roukhiyajnen) H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

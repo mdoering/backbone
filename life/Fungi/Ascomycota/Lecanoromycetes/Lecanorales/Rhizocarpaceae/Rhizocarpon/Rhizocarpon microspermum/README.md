@@ -1,5 +1,4 @@
-Rhizocarpon microspermum Zahlbr. SPECIES
-=======
+# Rhizocarpon microspermum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

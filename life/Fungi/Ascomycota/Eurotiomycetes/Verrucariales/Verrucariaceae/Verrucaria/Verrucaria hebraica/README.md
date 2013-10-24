@@ -1,5 +1,4 @@
-Verrucaria hebraica (Hoffm.) Willd. SPECIES
-=======
+# Verrucaria hebraica (Hoffm.) Willd. SPECIES
 
 #### Status
 ACCEPTED

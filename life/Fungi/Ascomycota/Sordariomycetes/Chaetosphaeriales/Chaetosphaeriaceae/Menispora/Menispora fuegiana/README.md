@@ -1,5 +1,4 @@
-Menispora fuegiana Aramb. & Godeas SPECIES
-=======
+# Menispora fuegiana Aramb. & Godeas SPECIES
 
 #### Status
 ACCEPTED

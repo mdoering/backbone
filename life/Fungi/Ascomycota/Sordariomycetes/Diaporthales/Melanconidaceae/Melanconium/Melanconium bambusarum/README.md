@@ -1,5 +1,4 @@
-Melanconium bambusarum Penz. & Sacc. SPECIES
-=======
+# Melanconium bambusarum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

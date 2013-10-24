@@ -1,5 +1,4 @@
-Mycoplasma canadense Langford et al., 1976 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma canadense Langford et al., 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gnomonia echinopsis Hollós SPECIES
-=======
+# Gnomonia echinopis Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Magyar Bot. Lapok 49 (1929)
 
 #### Original name
-Gnomonia echinopsis Hollós
+Gnomonia echinopis Hollós
 
 ### Remarks
 null

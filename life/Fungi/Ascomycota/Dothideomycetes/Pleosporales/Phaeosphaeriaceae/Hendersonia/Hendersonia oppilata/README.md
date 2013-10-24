@@ -1,5 +1,4 @@
-Hendersonia oppilata (Fr.) Curr. SPECIES
-=======
+# Hendersonia oppilata (Fr.) Curr. SPECIES
 
 #### Status
 ACCEPTED

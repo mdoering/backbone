@@ -1,5 +1,4 @@
-Stromatostysanus Höhn. GENUS
-=======
+# Stromatostysanus Höhn. GENUS
 
 #### Status
 ACCEPTED

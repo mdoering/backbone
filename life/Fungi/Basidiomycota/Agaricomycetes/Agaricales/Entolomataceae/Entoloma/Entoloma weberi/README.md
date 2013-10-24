@@ -1,5 +1,4 @@
-Entoloma weberi Murrill SPECIES
-=======
+# Entoloma weberi Murrill SPECIES
 
 #### Status
 ACCEPTED

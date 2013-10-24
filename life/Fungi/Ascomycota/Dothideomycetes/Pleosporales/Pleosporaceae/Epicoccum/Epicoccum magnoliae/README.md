@@ -1,17 +1,16 @@
-Epicoccum magnoliae var. magnoliae VARIETY
-=======
+# Epicoccum magnoliae Tognini, 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Ist. bot. R. Univ. Pavia 19 (1899)
 
 #### Original name
-Epicoccum magnoliae var. magnoliae
+Epicoccum magnoliae Tognini, 1899
 
 ### Remarks
 null

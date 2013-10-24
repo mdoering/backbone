@@ -1,5 +1,4 @@
-Phacidium sepincola Fr. SPECIES
-=======
+# Phacidium sepincola Fr. SPECIES
 
 #### Status
 ACCEPTED

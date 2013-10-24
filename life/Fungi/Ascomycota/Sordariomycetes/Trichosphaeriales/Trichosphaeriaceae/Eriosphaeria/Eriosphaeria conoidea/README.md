@@ -1,5 +1,4 @@
-Eriosphaeria conoidea Feltgen SPECIES
-=======
+# Eriosphaeria conoidea Feltgen SPECIES
 
 #### Status
 ACCEPTED

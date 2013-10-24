@@ -1,5 +1,4 @@
-Glomerella glycines Hori SPECIES
-=======
+# Glomerella glycines Hori SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Galerina pumila f. pumila FORM
-=======
+# Galerina pumila (Pers.) M. Lange, 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 2(1): 41 (1961)
 
 #### Original name
-Galerina pumila f. pumila
+Agaricus pumilus Alb. & Schwein.
 
 ### Remarks
 null

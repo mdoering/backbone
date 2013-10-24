@@ -1,5 +1,4 @@
-Bryonora reducta Poelt & H. Mayrhofer SPECIES
-=======
+# Bryonora reducta Poelt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

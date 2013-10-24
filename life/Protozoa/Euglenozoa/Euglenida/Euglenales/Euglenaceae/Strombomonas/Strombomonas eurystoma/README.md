@@ -1,11 +1,10 @@
-Strombomonas eurystoma subsp. eurystoma SUBSPECIES
-=======
+# Strombomonas eurystoma (F. Stein) T.G. Popova SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

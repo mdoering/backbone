@@ -1,17 +1,16 @@
-Arthonia vagans var. vagans VARIETY
-=======
+# Arthonia fuscopurpurea (Tul.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 54(4): 501 (1960)
 
 #### Original name
-null
+Celidium fuscopurpureum Tul.
 
 ### Remarks
 null

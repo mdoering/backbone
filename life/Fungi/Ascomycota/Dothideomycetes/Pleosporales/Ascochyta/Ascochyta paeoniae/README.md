@@ -1,5 +1,4 @@
-Ascochyta paeoniae Bond.-Mont. SPECIES
-=======
+# Ascochyta paeoniae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

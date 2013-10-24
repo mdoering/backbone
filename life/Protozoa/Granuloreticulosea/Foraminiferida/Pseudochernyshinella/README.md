@@ -1,5 +1,4 @@
-Pseudochernyshinella Brazhnikova, 1974 GENUS
-=======
+# Pseudochernyshinella Brazhnikova, 1974 GENUS
 
 #### Status
 ACCEPTED

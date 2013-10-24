@@ -1,5 +1,4 @@
-Cladosporium orchidis E.A. Ellis & M.B. Ellis, 1972 SPECIES
-=======
+# Cladosporium orchidis E.A. Ellis & M.B. Ellis, 1972 SPECIES
 
 #### Status
 ACCEPTED

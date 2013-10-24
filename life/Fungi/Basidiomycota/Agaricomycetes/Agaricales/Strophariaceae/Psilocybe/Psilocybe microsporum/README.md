@@ -1,5 +1,4 @@
-Psilocybe microsporum Speg. SPECIES
-=======
+# Psilocybe microsporum Speg. SPECIES
 
 #### Status
 ACCEPTED

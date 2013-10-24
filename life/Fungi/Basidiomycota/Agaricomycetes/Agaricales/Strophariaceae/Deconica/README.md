@@ -1,5 +1,4 @@
-Deconica GENUS
-=======
+# Deconica GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium campanulae-macranthae Wagner SPECIES
-=======
+# Coleosporium campanulae-macranthae Wagner SPECIES
 
 #### Status
 ACCEPTED

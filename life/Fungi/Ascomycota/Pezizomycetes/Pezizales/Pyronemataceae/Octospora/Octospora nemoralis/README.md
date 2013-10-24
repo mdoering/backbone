@@ -1,5 +1,4 @@
-Octospora nemoralis Benkert & Brouwer SPECIES
-=======
+# Octospora nemoralis Benkert & Brouwer SPECIES
 
 #### Status
 ACCEPTED

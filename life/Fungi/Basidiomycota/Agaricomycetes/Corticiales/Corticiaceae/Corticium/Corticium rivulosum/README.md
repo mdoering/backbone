@@ -1,5 +1,4 @@
-Corticium rivulosum Lloyd SPECIES
-=======
+# Corticium rivulosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

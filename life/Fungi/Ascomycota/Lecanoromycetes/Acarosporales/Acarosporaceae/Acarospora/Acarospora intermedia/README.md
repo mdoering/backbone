@@ -1,5 +1,4 @@
-Acarospora intermedia H. Magn. SPECIES
-=======
+# Acarospora intermedia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

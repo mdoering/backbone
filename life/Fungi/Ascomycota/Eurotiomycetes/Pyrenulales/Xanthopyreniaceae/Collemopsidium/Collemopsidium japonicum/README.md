@@ -1,5 +1,4 @@
-Collemopsidium japonicum (H. Harada) H. Harada SPECIES
-=======
+# Collemopsidium japonicum (H. Harada) H. Harada SPECIES
 
 #### Status
 ACCEPTED

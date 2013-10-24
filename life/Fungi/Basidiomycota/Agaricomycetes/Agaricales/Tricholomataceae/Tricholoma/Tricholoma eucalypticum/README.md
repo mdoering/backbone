@@ -1,5 +1,4 @@
-Tricholoma eucalypticum A. Pearson SPECIES
-=======
+# Tricholoma eucalypticum A. Pearson SPECIES
 
 #### Status
 ACCEPTED

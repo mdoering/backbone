@@ -1,5 +1,4 @@
-Micromycopsis zygnematicola Cejp SPECIES
-=======
+# Micromycopsis zygnematicola Cejp SPECIES
 
 #### Status
 ACCEPTED

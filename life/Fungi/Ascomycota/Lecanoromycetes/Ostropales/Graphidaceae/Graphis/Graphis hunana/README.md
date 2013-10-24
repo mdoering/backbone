@@ -1,5 +1,4 @@
-Graphis hunana Zahlbr. SPECIES
-=======
+# Graphis hunana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

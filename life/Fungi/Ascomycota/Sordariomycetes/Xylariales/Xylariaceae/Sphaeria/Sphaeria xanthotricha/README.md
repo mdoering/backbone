@@ -1,5 +1,4 @@
-Sphaeria xanthotricha Cooke & Broome SPECIES
-=======
+# Sphaeria xanthotricha Cooke & Broome SPECIES
 
 #### Status
 ACCEPTED

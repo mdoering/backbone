@@ -1,5 +1,4 @@
-Conchatium bilobum Velen. SPECIES
-=======
+# Conchatium bilobum Velen. SPECIES
 
 #### Status
 ACCEPTED

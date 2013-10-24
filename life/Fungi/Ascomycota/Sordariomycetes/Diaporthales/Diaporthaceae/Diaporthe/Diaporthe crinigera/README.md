@@ -1,5 +1,4 @@
-Diaporthe crinigera Ellis & Everh., 1890 SPECIES
-=======
+# Diaporthe crinigera Ellis & Everh., 1890 SPECIES
 
 #### Status
 ACCEPTED

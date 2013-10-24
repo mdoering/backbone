@@ -1,5 +1,4 @@
-Entamoeba moshkovskii Tshalaia, 1941 SPECIES
-=======
+# Entamoeba moshkovskii Tshalaia, 1941 SPECIES
 
 #### Status
 ACCEPTED

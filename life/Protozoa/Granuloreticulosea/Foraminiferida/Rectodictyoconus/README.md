@@ -1,5 +1,4 @@
-Rectodictyoconus Schroeder, 1964 GENUS
-=======
+# Rectodictyoconus Schroeder, 1964 GENUS
 
 #### Status
 ACCEPTED

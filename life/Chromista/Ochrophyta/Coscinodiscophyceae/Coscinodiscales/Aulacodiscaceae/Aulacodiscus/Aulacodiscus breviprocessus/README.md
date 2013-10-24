@@ -1,5 +1,4 @@
-Aulacodiscus breviprocessus N. I. Strelnikova SPECIES
-=======
+# Aulacodiscus breviprocessus N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

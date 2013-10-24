@@ -1,5 +1,4 @@
-Megalospora coccodes (Bél.) Sipman SPECIES
-=======
+# Megalospora coccodes (Bél.) Sipman SPECIES
 
 #### Status
 ACCEPTED

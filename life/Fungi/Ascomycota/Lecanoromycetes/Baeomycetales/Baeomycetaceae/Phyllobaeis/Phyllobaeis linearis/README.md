@@ -1,14 +1,13 @@
-Baeomyces imbricatus var. linearis B.G. de Vries VARIETY
-=======
+# Phyllobaeis linearis (B.G. de Vries) V. Marcano & Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Vries & Sipman, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 87(2): 243 (1984)
+in Marcano, Morales Méndez, Sipman & Calderon, Trop. Bryol. 12: 218 (1996)
 
 #### Original name
 Baeomyces imbricatus var. linearis B.G. de Vries

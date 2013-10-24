@@ -1,5 +1,4 @@
-Heterocapsa J. Massart, 1920 GENUS
-=======
+# Heterocapsa J. Massart, 1920 GENUS
 
 #### Status
 ACCEPTED

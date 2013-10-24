@@ -1,5 +1,4 @@
-Cleistotheca GENUS
-=======
+# Cleistotheca GENUS
 
 #### Status
 ACCEPTED

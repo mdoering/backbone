@@ -1,5 +1,4 @@
-Beltrania onirica Lunghini SPECIES
-=======
+# Beltrania onirica Lunghini SPECIES
 
 #### Status
 ACCEPTED

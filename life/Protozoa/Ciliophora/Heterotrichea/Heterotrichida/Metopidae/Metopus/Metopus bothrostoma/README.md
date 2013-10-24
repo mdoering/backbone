@@ -1,5 +1,4 @@
-Metopus bothrostoma subsp. bothrostoma SUBSPECIES
-=======
+# Metopus bothrostoma Mermod SPECIES
 
 #### Status
 ACCEPTED

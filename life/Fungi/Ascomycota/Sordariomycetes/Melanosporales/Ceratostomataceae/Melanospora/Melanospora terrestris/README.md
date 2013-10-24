@@ -1,5 +1,4 @@
-Melanospora terrestris Manka & Gierczak SPECIES
-=======
+# Melanospora terrestris Manka & Gierczak SPECIES
 
 #### Status
 ACCEPTED

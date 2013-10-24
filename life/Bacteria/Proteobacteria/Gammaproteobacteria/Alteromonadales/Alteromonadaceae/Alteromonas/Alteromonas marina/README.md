@@ -1,5 +1,4 @@
-Alteromonas marina Yoon et al., 2003 SPECIES
-=======
+# Alteromonas marina Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas mucosa var. brevicollis Skvortzov VARIETY
-=======
+# Trachelomonas mucosa Svirenko SPECIES
 
 #### Status
 ACCEPTED

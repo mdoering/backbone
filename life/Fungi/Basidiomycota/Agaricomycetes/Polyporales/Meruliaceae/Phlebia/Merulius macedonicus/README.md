@@ -1,5 +1,4 @@
-Merulius macedonicus Pilát & Lindtner SPECIES
-=======
+# Merulius macedonicus Pilát & Lindtner SPECIES
 
 #### Status
 ACCEPTED

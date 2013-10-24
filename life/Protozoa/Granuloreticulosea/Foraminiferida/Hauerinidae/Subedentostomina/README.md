@@ -1,5 +1,4 @@
-Subedentostomina GENUS
-=======
+# Subedentostomina GENUS
 
 #### Status
 ACCEPTED

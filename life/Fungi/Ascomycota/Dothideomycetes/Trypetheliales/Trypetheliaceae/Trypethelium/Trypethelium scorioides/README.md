@@ -1,5 +1,4 @@
-Trypethelium scorioides Leight. SPECIES
-=======
+# Trypethelium scorioides Leight. SPECIES
 
 #### Status
 ACCEPTED

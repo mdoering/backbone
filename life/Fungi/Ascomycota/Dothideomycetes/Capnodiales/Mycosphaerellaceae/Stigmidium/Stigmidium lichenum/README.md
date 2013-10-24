@@ -1,5 +1,4 @@
-Stigmidium lichenum (Arnold) Triebel & P. Scholz SPECIES
-=======
+# Stigmidium lichenum (Arnold) Triebel & P. Scholz SPECIES
 
 #### Status
 ACCEPTED

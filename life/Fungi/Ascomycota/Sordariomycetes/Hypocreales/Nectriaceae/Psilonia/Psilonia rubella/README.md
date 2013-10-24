@@ -1,5 +1,4 @@
-Psilonia rubella Lib. SPECIES
-=======
+# Psilonia rubella Lib. SPECIES
 
 #### Status
 ACCEPTED

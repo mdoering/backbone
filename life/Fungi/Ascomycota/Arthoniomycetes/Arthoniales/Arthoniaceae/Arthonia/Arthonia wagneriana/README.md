@@ -1,5 +1,4 @@
-Arthonia wagneriana Szatala SPECIES
-=======
+# Arthonia wagneriana Szatala SPECIES
 
 #### Status
 ACCEPTED

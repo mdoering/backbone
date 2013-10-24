@@ -1,5 +1,4 @@
-Chaetomium umbratile Udagawa, Toyaz. & Yaguchi SPECIES
-=======
+# Chaetomium umbratile Udagawa, Toyaz. & Yaguchi SPECIES
 
 #### Status
 ACCEPTED

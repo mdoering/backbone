@@ -1,5 +1,4 @@
-Epidermophyton lanoroseum MacCarthy SPECIES
-=======
+# Epidermophyton lanoroseum MacCarthy SPECIES
 
 #### Status
 ACCEPTED

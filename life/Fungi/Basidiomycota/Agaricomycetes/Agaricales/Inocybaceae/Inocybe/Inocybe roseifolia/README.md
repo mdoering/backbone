@@ -1,5 +1,4 @@
-Inocybe roseifolia Murrill SPECIES
-=======
+# Inocybe roseifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

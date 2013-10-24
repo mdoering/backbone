@@ -1,14 +1,13 @@
-Collema boryanum Pers. SPECIES
-=======
+# Physma boryanum (Pers.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Neagenea Lich 6 (1854)
 
 #### Original name
 Collema boryanum Pers.

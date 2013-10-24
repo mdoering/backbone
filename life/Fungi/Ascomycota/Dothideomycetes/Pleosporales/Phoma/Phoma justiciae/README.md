@@ -1,5 +1,4 @@
-Phoma justiciae Tassi SPECIES
-=======
+# Phoma justiciae Tassi SPECIES
 
 #### Status
 ACCEPTED

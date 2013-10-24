@@ -1,5 +1,4 @@
-Puccinia thomasii Gäum. SPECIES
-=======
+# Puccinia thomasii Gäum. SPECIES
 
 #### Status
 ACCEPTED

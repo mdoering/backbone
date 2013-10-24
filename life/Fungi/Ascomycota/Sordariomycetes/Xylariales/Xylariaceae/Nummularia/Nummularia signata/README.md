@@ -1,5 +1,4 @@
-Nummularia signata S.C. Jong & C.R. Benj. SPECIES
-=======
+# Nummularia signata S.C. Jong & C.R. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cerinosterus luteoalba (de Hoog) R.T. Moore SPECIES
-=======
+# Cerinosterus luteoalbus (de Hoog) R.T. Moore, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 30: 216 (1987)
 
 #### Original name
 Sporothrix luteoalba de Hoog, 1974

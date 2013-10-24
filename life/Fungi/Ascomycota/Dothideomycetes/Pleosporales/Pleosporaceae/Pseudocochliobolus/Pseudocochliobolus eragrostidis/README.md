@@ -1,17 +1,16 @@
-Curvularia maculans (C.K. Bancr.) Boedijn, 1933 SPECIES
-=======
+# Pseudocochliobolus eragrostidis Tsuda & Ueyama, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Buitenz, 3 Sér. 13(1): 125 (1933)
+Trans. Mycol. Soc. Japan 26(3): 322 (1985)
 
 #### Original name
-Spondylocladium maculans C.K. Bancr., 1913
+Pseudocochliobolus eragrostidis Tsuda & Ueyama, 1985
 
 ### Remarks
 null

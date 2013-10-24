@@ -1,5 +1,4 @@
-Agaricus galericulatus-tenuis DC. SPECIES
-=======
+# Agaricus galericulatus-tenuis DC. SPECIES
 
 #### Status
 ACCEPTED

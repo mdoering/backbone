@@ -1,5 +1,4 @@
-Rhizochromulinales O'Kelly & Wujek, 1995 ORDER
-=======
+# Rhizochromulinales O'Kelly & Wujek, 1995 ORDER
 
 #### Status
 ACCEPTED

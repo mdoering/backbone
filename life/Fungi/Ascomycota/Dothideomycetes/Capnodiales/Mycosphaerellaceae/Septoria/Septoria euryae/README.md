@@ -1,5 +1,4 @@
-Septoria euryae Henn. SPECIES
-=======
+# Septoria euryae Henn. SPECIES
 
 #### Status
 ACCEPTED

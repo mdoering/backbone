@@ -1,5 +1,4 @@
-Usnea rugulosa Vain. SPECIES
-=======
+# Usnea rugulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

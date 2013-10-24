@@ -1,5 +1,4 @@
-Leiosphaeridia grandiformis Takahashi & matsuoka, 1981 SPECIES
-=======
+# Leiosphaeridia grandiformis Takahashi & matsuoka, 1981 SPECIES
 
 #### Status
 ACCEPTED

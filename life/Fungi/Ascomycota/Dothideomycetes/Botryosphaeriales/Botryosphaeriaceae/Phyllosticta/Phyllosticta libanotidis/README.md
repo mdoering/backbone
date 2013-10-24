@@ -1,5 +1,4 @@
-Phyllosticta libanotidis Mekht. SPECIES
-=======
+# Phyllosticta libanotidis Mekht. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus laryngitidis Sartory, Petges {?} & Claqué SPECIES
-=======
+# Cryptococcus laryngitidis Sartory, Petges {?} & Claqué SPECIES
 
 #### Status
 ACCEPTED

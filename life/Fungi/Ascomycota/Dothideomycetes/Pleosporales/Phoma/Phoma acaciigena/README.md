@@ -1,17 +1,16 @@
-Phoma acacigena S. Ahmad & Arshad SPECIES
-=======
+# Phoma acaciigena S. Ahmad & Arshad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 18(1): 14 (1972)
 
 #### Original name
-Phoma acacigena S. Ahmad & Arshad
+Phoma acaciigena S. Ahmad & Arshad
 
 ### Remarks
 null

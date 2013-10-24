@@ -1,5 +1,4 @@
-Marasmius dispar (Batsch) Fr. SPECIES
-=======
+# Marasmius dispar (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

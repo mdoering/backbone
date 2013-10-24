@@ -1,5 +1,4 @@
-Pluteolus amazonicus Berk. SPECIES
-=======
+# Pluteolus amazonicus Berk. SPECIES
 
 #### Status
 ACCEPTED

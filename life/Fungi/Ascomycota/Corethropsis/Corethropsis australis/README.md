@@ -1,5 +1,4 @@
-Corethropsis australis Speg. SPECIES
-=======
+# Corethropsis australis Speg. SPECIES
 
 #### Status
 ACCEPTED

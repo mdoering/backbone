@@ -1,5 +1,4 @@
-Pseudodiplodia aconiticola (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia aconiticola (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

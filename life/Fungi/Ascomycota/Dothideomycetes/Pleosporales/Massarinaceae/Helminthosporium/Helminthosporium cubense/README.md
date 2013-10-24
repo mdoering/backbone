@@ -1,5 +1,4 @@
-Helminthosporium cubense Matsush. SPECIES
-=======
+# Helminthosporium cubense Matsush. SPECIES
 
 #### Status
 ACCEPTED

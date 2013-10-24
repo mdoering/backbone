@@ -1,5 +1,4 @@
-Rinodina neglecta Aptroot SPECIES
-=======
+# Rinodina neglecta Aptroot SPECIES
 
 #### Status
 ACCEPTED

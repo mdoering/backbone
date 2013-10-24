@@ -1,5 +1,4 @@
-Goplana ribis-andicolae Berndt, 1999 SPECIES
-=======
+# Goplana ribis-andicolae Berndt, 1999 SPECIES
 
 #### Status
 ACCEPTED

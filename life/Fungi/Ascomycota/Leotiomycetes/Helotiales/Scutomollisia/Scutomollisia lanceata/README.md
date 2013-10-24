@@ -1,5 +1,4 @@
-Scutomollisia lanceata B. Hein & Scheuer, 1986 SPECIES
-=======
+# Scutomollisia lanceata B. Hein & Scheuer, 1986 SPECIES
 
 #### Status
 ACCEPTED

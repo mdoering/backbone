@@ -1,5 +1,4 @@
-Eccilia platensis Speg. SPECIES
-=======
+# Eccilia platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

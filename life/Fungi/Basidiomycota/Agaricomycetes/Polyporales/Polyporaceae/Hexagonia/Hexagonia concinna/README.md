@@ -1,5 +1,4 @@
-Hexagonia concinna Pat. & Har. SPECIES
-=======
+# Hexagonia concinna Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

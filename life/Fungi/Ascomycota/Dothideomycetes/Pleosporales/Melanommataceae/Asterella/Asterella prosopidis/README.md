@@ -1,5 +1,4 @@
-Asterella prosopidis Ellis & Everh. SPECIES
-=======
+# Asterella prosopidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

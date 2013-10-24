@@ -1,5 +1,4 @@
-Gloeoporus similis Corner, 1989 SPECIES
-=======
+# Gloeoporus similis Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

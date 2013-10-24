@@ -1,5 +1,4 @@
-Hydropus hyperythrus Singer SPECIES
-=======
+# Hydropus hyperythrus Singer SPECIES
 
 #### Status
 ACCEPTED

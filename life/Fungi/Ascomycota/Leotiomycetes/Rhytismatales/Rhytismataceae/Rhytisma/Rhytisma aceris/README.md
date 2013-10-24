@@ -1,5 +1,4 @@
-Rhytisma aceris Ettingsh. SPECIES
-=======
+# Rhytisma aceris Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

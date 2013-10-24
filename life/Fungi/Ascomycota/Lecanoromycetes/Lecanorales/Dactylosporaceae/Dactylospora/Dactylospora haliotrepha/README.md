@@ -1,5 +1,4 @@
-Dactylospora haliotrepha (Kohlm. & E. Kohlm.) Hafellner SPECIES
-=======
+# Dactylospora haliotrepha (Kohlm. & E. Kohlm.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

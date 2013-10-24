@@ -1,5 +1,4 @@
-Baltisphaeridium jiulaodongense F.Wang & Q. Chen SPECIES
-=======
+# Baltisphaeridium jiulaodongense F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

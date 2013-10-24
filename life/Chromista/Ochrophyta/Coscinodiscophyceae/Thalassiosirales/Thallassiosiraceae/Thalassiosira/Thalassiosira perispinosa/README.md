@@ -1,5 +1,4 @@
-Thalassiosira perispinosa Y. Tanimura SPECIES
-=======
+# Thalassiosira perispinosa Y. Tanimura SPECIES
 
 #### Status
 ACCEPTED

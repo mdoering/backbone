@@ -1,5 +1,4 @@
-Ustilago mulfordiana Ellis & Everh. SPECIES
-=======
+# Ustilago mulfordiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

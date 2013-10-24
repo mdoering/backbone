@@ -1,5 +1,4 @@
-Sargassum nigrescens Zanardini, 1858 SPECIES
-=======
+# Sargassum nigrescens Zanardini, 1858 SPECIES
 
 #### Status
 ACCEPTED

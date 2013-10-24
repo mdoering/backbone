@@ -1,5 +1,4 @@
-Stereocaulon granulans Sipman SPECIES
-=======
+# Stereocaulon granulans Sipman SPECIES
 
 #### Status
 ACCEPTED

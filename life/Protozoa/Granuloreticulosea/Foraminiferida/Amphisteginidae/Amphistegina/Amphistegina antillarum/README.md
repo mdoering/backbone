@@ -1,5 +1,4 @@
-Amphistegina antillarum Williamson, 1852 SPECIES
-=======
+# Amphistegina antillarum Williamson, 1852 SPECIES
 
 #### Status
 ACCEPTED

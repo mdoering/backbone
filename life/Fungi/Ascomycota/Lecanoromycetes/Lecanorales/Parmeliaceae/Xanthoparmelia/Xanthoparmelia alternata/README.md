@@ -1,5 +1,4 @@
-Xanthoparmelia alternata Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia alternata Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

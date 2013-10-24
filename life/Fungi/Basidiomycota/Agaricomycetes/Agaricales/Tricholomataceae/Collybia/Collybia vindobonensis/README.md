@@ -1,5 +1,4 @@
-Collybia vindobonensis Höhn. SPECIES
-=======
+# Collybia vindobonensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

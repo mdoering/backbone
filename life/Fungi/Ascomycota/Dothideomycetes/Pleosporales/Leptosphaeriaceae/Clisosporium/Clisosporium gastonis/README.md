@@ -1,5 +1,4 @@
-Clisosporium gastonis (Roum.) Kuntze SPECIES
-=======
+# Clisosporium gastonis (Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

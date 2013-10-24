@@ -1,17 +1,16 @@
-Phoma aposphaerioides Briard & Har. SPECIES
-=======
+# Pleurophoma cava (Schulzer) Boerema, Loer. & Hamers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 16(2): 172 (1996)
 
 #### Original name
-Phoma aposphaerioides Briard & Har.
+Phoma cava Schulzer
 
 ### Remarks
 null

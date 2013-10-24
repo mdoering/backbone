@@ -1,5 +1,4 @@
-Lanzia livida (Mont.) Dumont SPECIES
-=======
+# Lanzia livida (Mont.) Dumont SPECIES
 
 #### Status
 ACCEPTED

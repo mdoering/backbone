@@ -1,5 +1,4 @@
-Puccinia stephanomeriae P. Syd. & Syd. SPECIES
-=======
+# Puccinia stephanomeriae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

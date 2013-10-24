@@ -1,17 +1,16 @@
-Alternaria alternata f. sp FORM
-=======
+# Alternaria alternata (Fr.) Keissl., 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Dis. 74: 230 (1990)
+Beih. bot. Zbl. , Abt. 1 29(2): 434 (1912)
 
 #### Original name
-Alternaria alternata f. sp
+Torula alternata Fr., 1832
 
 ### Remarks
 null

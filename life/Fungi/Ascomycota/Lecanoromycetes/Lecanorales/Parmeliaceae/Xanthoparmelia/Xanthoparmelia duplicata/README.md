@@ -1,5 +1,4 @@
-Xanthoparmelia duplicata Hale SPECIES
-=======
+# Xanthoparmelia duplicata Hale SPECIES
 
 #### Status
 ACCEPTED

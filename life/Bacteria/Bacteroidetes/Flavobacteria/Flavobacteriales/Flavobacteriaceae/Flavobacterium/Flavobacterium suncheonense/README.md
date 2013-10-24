@@ -1,5 +1,4 @@
-Flavobacterium suncheonense Kim et al., 2006 SPECIES
-=======
+# Flavobacterium suncheonense Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

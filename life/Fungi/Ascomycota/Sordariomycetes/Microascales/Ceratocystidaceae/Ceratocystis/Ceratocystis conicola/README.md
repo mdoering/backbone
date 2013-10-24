@@ -1,5 +1,4 @@
-Ceratocystis conicola Marm. & Butin SPECIES
-=======
+# Ceratocystis conicola Marm. & Butin SPECIES
 
 #### Status
 ACCEPTED

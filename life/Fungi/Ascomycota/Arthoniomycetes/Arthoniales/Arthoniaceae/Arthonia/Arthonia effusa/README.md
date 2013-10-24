@@ -1,5 +1,4 @@
-Arthonia effusa (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia effusa (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

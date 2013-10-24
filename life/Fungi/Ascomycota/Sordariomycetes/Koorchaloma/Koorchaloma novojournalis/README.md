@@ -1,5 +1,4 @@
-Koorchaloma novojournalis Yanna, K.D. Hyde & Goh SPECIES
-=======
+# Koorchaloma novojournalis Yanna, K.D. Hyde & Goh SPECIES
 
 #### Status
 ACCEPTED

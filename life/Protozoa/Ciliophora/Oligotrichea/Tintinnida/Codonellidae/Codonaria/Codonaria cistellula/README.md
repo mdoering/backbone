@@ -1,5 +1,4 @@
-Codonaria cistellula (Fol, 1884) Kofoid & Campbell, 1939 SPECIES
-=======
+# Codonaria cistellula (Fol, 1884) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycopappus Redhead & G.P. White GENUS
-=======
+# Mycopappus Redhead & G.P. White GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo clinopodii Rabenh. SPECIES
-=======
+# Uredo clinopodii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

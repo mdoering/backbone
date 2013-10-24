@@ -1,5 +1,4 @@
-Lyophyllum subglobisporum Consiglio & Contu SPECIES
-=======
+# Lyophyllum subglobisporum Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

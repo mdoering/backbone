@@ -1,5 +1,4 @@
-Helminthosphaeria sanguinolenta (Wallr.) Kirschst. SPECIES
-=======
+# Helminthosphaeria sanguinolenta (Wallr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

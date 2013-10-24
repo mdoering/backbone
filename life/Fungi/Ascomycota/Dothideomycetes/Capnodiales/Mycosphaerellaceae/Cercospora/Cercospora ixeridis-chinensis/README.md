@@ -1,5 +1,4 @@
-Cercospora ixeridis-chinensis Sawada SPECIES
-=======
+# Cercospora ixeridis-chinensis Sawada SPECIES
 
 #### Status
 ACCEPTED

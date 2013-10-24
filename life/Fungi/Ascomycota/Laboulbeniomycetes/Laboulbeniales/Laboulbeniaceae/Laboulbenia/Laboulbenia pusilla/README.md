@@ -1,5 +1,4 @@
-Laboulbenia pusilla Thaxt. SPECIES
-=======
+# Laboulbenia pusilla Thaxt. SPECIES
 
 #### Status
 ACCEPTED

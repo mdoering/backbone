@@ -1,5 +1,4 @@
-Clavaria schaefferi Sacc. SPECIES
-=======
+# Clavaria schaefferi Sacc. SPECIES
 
 #### Status
 ACCEPTED

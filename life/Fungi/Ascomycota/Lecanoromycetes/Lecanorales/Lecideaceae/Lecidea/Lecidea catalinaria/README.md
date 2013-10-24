@@ -1,5 +1,4 @@
-Lecidea catalinaria Stizenb. SPECIES
-=======
+# Lecidea catalinaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

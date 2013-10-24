@@ -1,5 +1,4 @@
-Puccinia nicotianae Arthur SPECIES
-=======
+# Puccinia nicotianae Arthur SPECIES
 
 #### Status
 ACCEPTED

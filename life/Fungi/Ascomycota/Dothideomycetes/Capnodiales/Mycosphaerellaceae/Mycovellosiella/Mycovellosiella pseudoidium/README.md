@@ -1,5 +1,4 @@
-Mycovellosiella pseudoidium (Speg.) U. Braun SPECIES
-=======
+# Mycovellosiella pseudoidium (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

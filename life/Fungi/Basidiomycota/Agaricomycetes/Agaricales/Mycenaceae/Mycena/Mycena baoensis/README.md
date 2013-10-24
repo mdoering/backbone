@@ -1,5 +1,4 @@
-Mycena baoensis T.J. Baroni & T.R. Armstr. SPECIES
-=======
+# Mycena baoensis T.J. Baroni & T.R. Armstr. SPECIES
 
 #### Status
 ACCEPTED

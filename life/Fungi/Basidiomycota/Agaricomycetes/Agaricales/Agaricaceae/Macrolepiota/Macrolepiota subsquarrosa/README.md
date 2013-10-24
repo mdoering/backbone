@@ -1,5 +1,4 @@
-Macrolepiota subsquarrosa (Locq.) Bon SPECIES
-=======
+# Macrolepiota subsquarrosa (Locq.) Bon SPECIES
 
 #### Status
 ACCEPTED

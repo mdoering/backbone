@@ -1,5 +1,4 @@
-Dothiorella scopulina Dearn. & Barthol. SPECIES
-=======
+# Dothiorella scopulina Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

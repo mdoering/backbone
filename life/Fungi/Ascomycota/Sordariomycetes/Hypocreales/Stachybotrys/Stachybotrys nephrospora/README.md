@@ -1,5 +1,4 @@
-Stachybotrys nephrospora Hansf., 1943 SPECIES
-=======
+# Stachybotrys nephrospora Hansf., 1943 SPECIES
 
 #### Status
 ACCEPTED

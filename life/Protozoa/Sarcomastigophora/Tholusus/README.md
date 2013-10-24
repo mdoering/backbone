@@ -1,5 +1,4 @@
-Tholusus Tikhomirova, 1989 GENUS
-=======
+# Tholusus Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

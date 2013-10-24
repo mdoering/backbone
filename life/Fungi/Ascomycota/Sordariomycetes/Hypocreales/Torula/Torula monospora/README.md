@@ -1,5 +1,4 @@
-Torula monospora J. Kickx f. SPECIES
-=======
+# Torula monospora J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

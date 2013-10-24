@@ -1,5 +1,4 @@
-Rubikia samsonii H.C. Evans & Minter, 1985 SPECIES
-=======
+# Rubikia samsonii H.C. Evans & Minter, 1985 SPECIES
 
 #### Status
 ACCEPTED

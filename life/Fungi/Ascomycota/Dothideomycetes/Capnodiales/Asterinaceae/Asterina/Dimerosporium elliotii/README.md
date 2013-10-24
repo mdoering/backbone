@@ -1,17 +1,16 @@
-Dimerosporium elliottii A.L. Sm. SPECIES
-=======
+# Dimerosporium elliotii A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , London 33: 343 (1895)
 
 #### Original name
-Dimerosporium elliottii A.L. Sm.
+Dimerosporium elliotii A.L. Sm.
 
 ### Remarks
 null

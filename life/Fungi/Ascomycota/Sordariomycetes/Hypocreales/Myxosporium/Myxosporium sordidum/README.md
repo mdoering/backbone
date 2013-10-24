@@ -1,5 +1,4 @@
-Myxosporium sordidum Tassi SPECIES
-=======
+# Myxosporium sordidum Tassi SPECIES
 
 #### Status
 ACCEPTED

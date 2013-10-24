@@ -1,5 +1,4 @@
-Hymenoscyphus furfuripes (Berk. & Ellis) Kuntze SPECIES
-=======
+# Hymenoscyphus furfuripes (Berk. & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

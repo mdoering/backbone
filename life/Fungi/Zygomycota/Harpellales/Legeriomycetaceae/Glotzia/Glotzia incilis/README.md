@@ -1,5 +1,4 @@
-Glotzia incilis Strongman & M.M. White, 2008 SPECIES
-=======
+# Glotzia incilis Strongman & M.M. White, 2008 SPECIES
 
 #### Status
 ACCEPTED

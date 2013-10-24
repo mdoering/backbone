@@ -1,5 +1,4 @@
-Sceptromyces GENUS
-=======
+# Sceptromyces GENUS
 
 #### Status
 ACCEPTED

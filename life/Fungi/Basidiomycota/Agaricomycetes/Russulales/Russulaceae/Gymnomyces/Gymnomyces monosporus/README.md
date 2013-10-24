@@ -1,5 +1,4 @@
-Gymnomyces monosporus E.L. Stewart & Trappe SPECIES
-=======
+# Gymnomyces monosporus E.L. Stewart & Trappe SPECIES
 
 #### Status
 ACCEPTED

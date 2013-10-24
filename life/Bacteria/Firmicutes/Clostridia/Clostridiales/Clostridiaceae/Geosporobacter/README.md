@@ -1,5 +1,4 @@
-Geosporobacter Klouche et al., 2007 GENUS
-=======
+# Geosporobacter Klouche et al., 2007 GENUS
 
 #### Status
 ACCEPTED

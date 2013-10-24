@@ -1,5 +1,4 @@
-Pezizella albidolutea Feltgen SPECIES
-=======
+# Pezizella albidolutea Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus scabellus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus scabellus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melittosporium lindavianum Henn. SPECIES
-=======
+# Mellitiosporium lindavianum Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 36: 234 (1897)
 
 #### Original name
-Melittosporium lindavianum Henn.
+Mellitiosporium lindavianum Henn.
 
 ### Remarks
 null

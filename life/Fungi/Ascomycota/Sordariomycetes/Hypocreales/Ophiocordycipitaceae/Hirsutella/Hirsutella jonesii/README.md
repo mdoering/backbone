@@ -1,5 +1,4 @@
-Hirsutella jonesii (Speare) H.C. Evans & Samson, 1982 SPECIES
-=======
+# Hirsutella jonesii (Speare) H.C. Evans & Samson, 1982 SPECIES
 
 #### Status
 ACCEPTED

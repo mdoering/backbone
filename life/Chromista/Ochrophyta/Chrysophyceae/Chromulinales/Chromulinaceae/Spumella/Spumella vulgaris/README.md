@@ -1,5 +1,4 @@
-Spumella vulgaris Cienkowsky SPECIES
-=======
+# Spumella vulgaris Cienkowsky SPECIES
 
 #### Status
 ACCEPTED

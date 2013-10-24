@@ -1,5 +1,4 @@
-Hydnum eichelbaumii Henn. SPECIES
-=======
+# Hydnum eichelbaumii Henn. SPECIES
 
 #### Status
 ACCEPTED

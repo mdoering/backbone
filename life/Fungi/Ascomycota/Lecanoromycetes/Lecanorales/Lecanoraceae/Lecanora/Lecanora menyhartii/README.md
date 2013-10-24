@@ -1,5 +1,4 @@
-Lecanora menyhartii J. Steiner SPECIES
-=======
+# Lecanora menyhartii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

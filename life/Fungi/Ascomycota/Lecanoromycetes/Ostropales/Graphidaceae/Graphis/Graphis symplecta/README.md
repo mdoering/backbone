@@ -1,5 +1,4 @@
-Graphis symplecta Nyl. SPECIES
-=======
+# Graphis symplecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

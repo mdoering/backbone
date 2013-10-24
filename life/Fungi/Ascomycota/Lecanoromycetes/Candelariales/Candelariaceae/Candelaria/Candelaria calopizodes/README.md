@@ -1,5 +1,4 @@
-Candelaria calopizodes (Nyl.) Vain. SPECIES
-=======
+# Candelaria calopizodes (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

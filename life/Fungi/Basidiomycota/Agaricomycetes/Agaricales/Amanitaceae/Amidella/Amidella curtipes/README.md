@@ -1,5 +1,4 @@
-Amidella curtipes (E.-J. Gilbert) E.-J. Gilbert SPECIES
-=======
+# Amidella curtipes (E.-J. Gilbert) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium peziza (Cooke & Ellis) E.W. Mason & S. Hughes SPECIES
-=======
+# Coniosporium peziza (Cooke & Ellis) E.W. Mason & S. Hughes SPECIES
 
 #### Status
 ACCEPTED

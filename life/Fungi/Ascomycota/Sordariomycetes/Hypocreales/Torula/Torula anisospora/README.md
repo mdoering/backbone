@@ -1,5 +1,4 @@
-Torula anisospora Sacc. SPECIES
-=======
+# Torula anisospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

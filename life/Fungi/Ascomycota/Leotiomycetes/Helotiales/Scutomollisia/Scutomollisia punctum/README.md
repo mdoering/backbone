@@ -1,14 +1,13 @@
-Niesslella punctum (Rehm) Höhn., 1918 SPECIES
-=======
+# Scutomollisia punctum (Rehm) Nannf., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 36(8): 470 (1918)
+Bot. Notiser 129(3): 338 (1976)
 
 #### Original name
 Micropeziza punctum Rehm

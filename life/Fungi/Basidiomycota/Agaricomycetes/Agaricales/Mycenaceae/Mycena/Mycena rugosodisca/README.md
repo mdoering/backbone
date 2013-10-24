@@ -1,5 +1,4 @@
-Mycena rugosodisca (Peck) Sacc. SPECIES
-=======
+# Mycena rugosodisca (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

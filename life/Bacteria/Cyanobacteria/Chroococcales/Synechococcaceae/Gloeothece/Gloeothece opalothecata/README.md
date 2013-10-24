@@ -1,5 +1,4 @@
-Gloeothece opalothecata Gardner SPECIES
-=======
+# Gloeothece opalothecata Gardner SPECIES
 
 #### Status
 ACCEPTED

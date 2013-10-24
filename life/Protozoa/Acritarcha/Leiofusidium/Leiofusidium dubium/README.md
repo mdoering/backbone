@@ -1,5 +1,4 @@
-Leiofusidium dubium (Jankauskas, 1980) Jankauskas, 1982 SPECIES
-=======
+# Leiofusidium dubium (Jankauskas, 1980) Jankauskas, 1982 SPECIES
 
 #### Status
 ACCEPTED

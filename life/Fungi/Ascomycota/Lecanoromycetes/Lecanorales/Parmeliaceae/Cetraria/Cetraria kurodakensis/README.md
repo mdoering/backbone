@@ -1,5 +1,4 @@
-Cetraria kurodakensis Asahina SPECIES
-=======
+# Cetraria kurodakensis Asahina SPECIES
 
 #### Status
 ACCEPTED

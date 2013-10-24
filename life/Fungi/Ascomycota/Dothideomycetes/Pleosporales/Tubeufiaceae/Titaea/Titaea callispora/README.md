@@ -1,5 +1,4 @@
-Titaea callispora Sacc., 1876 SPECIES
-=======
+# Titaea callispora Sacc., 1876 SPECIES
 
 #### Status
 ACCEPTED

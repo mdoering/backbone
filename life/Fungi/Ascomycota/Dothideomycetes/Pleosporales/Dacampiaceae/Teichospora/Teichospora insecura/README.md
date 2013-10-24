@@ -1,5 +1,4 @@
-Teichospora insecura Ellis SPECIES
-=======
+# Teichospora insecura Ellis SPECIES
 
 #### Status
 ACCEPTED

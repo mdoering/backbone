@@ -1,5 +1,4 @@
-Schizochytrium aggregatum S. Goldst. & Belsky, 1964 SPECIES
-=======
+# Schizochytrium aggregatum S. Goldst. & Belsky, 1964 SPECIES
 
 #### Status
 ACCEPTED

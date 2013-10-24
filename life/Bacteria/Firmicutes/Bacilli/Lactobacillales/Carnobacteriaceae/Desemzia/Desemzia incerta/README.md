@@ -1,8 +1,7 @@
-Brevibacterium incertum (Steinhaus, 1941) Breed, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Desemzia incerta (Steinhaus, 1941) Stackebrandt et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

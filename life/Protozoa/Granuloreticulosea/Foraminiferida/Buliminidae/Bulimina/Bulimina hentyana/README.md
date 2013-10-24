@@ -1,5 +1,4 @@
-Bulimina hentyana Chapman SPECIES
-=======
+# Bulimina hentyana Chapman SPECIES
 
 #### Status
 ACCEPTED

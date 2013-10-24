@@ -1,5 +1,4 @@
-Amphicervicis Mound, 1961 GENUS
-=======
+# Amphicervicis Mound, 1961 GENUS
 
 #### Status
 ACCEPTED

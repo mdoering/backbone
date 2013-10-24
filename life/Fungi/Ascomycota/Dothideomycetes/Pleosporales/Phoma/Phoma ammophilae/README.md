@@ -1,5 +1,4 @@
-Phoma ammophilae Durieu & Mont., 1849 SPECIES
-=======
+# Phoma ammophilae Durieu & Mont., 1849 SPECIES
 
 #### Status
 ACCEPTED

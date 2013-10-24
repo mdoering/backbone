@@ -1,5 +1,4 @@
-Peltaster gaultheriae Bat., Cavalc. & Peres SPECIES
-=======
+# Peltaster gaultheriae Bat., Cavalc. & Peres SPECIES
 
 #### Status
 ACCEPTED

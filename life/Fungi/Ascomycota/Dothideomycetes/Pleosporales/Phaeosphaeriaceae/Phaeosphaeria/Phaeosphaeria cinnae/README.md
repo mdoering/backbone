@@ -1,5 +1,4 @@
-Phaeosphaeria cinnae Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria cinnae Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

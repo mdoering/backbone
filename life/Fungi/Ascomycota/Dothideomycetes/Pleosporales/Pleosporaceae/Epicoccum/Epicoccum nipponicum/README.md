@@ -1,5 +1,4 @@
-Epicoccum nipponicum Matsush., 1995 SPECIES
-=======
+# Epicoccum nipponicum Matsush., 1995 SPECIES
 
 #### Status
 ACCEPTED

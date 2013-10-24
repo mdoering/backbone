@@ -1,5 +1,4 @@
-Styloceras longissimus Reverdin SPECIES
-=======
+# Styloceras longissimus Reverdin SPECIES
 
 #### Status
 ACCEPTED

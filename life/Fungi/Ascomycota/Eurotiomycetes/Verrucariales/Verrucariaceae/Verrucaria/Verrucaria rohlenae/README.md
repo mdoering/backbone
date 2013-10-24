@@ -1,5 +1,4 @@
-Verrucaria rohlenae Servít SPECIES
-=======
+# Verrucaria rohlenae Servít SPECIES
 
 #### Status
 ACCEPTED

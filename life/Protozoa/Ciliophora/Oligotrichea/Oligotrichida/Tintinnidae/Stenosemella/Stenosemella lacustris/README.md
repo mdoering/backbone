@@ -1,5 +1,4 @@
-Stenosemella lacustris Foissner & O'Donoghue, 1990 SPECIES
-=======
+# Stenosemella lacustris Foissner & O'Donoghue, 1990 SPECIES
 
 #### Status
 ACCEPTED

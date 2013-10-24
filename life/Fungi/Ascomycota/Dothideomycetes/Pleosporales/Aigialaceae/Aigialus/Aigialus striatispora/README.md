@@ -1,5 +1,4 @@
-Aigialus striatispora K.D. Hyde, 1992 SPECIES
-=======
+# Aigialus striatispora K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

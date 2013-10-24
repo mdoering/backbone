@@ -1,5 +1,4 @@
-Thecosphaerantha Haeckel, 1887 GENUS
-=======
+# Thecosphaerantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora vulcani f. vulcani FORM
-=======
+# Biatora vulcani Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora vulcani f. vulcani
+Biatora vulcani Hepp
 
 ### Remarks
 null

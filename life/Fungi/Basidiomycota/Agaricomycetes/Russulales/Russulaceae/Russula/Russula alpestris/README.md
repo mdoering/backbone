@@ -1,5 +1,4 @@
-Russula alpestris (Boud.) Singer SPECIES
-=======
+# Russula alpestris (Boud.) Singer SPECIES
 
 #### Status
 ACCEPTED

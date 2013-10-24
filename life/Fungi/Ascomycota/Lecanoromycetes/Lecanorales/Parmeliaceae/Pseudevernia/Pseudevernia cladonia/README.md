@@ -1,5 +1,4 @@
-Pseudevernia cladonia (Tuck.) Hale & W.L. Culb. SPECIES
-=======
+# Pseudevernia cladonia (Tuck.) Hale & W.L. Culb. SPECIES
 
 #### Status
 ACCEPTED

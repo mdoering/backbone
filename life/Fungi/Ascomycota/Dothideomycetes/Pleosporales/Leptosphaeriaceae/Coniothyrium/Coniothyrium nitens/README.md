@@ -1,5 +1,4 @@
-Coniothyrium nitens (Cooke & Massee) Kuntze SPECIES
-=======
+# Coniothyrium nitens (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

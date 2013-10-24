@@ -1,5 +1,4 @@
-Fuckelia Bonorden, 1864 GENUS
-=======
+# Fuckelia Bonorden, 1864 GENUS
 
 #### Status
 ACCEPTED

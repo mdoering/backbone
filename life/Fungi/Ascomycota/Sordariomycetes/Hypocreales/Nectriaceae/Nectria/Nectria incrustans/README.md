@@ -1,5 +1,4 @@
-Nectria incrustans Weese SPECIES
-=======
+# Nectria incrustans Weese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina phenacis Syd. SPECIES
-=======
+# Asterina phenacis Syd. SPECIES
 
 #### Status
 ACCEPTED

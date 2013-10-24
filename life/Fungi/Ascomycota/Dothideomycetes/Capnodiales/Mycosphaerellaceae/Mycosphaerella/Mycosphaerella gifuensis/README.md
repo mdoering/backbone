@@ -1,5 +1,4 @@
-Mycosphaerella gifuensis Hara SPECIES
-=======
+# Mycosphaerella gifuensis Hara SPECIES
 
 #### Status
 ACCEPTED

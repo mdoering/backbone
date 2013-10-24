@@ -1,17 +1,16 @@
-Anthracothecium libricola f. libricola FORM
-=======
+# Pyrenula leucostoma Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 43: 44 (1880)
+Syn. meth. lich. 124 (1814)
 
 #### Original name
-Anthracothecium libricola f. libricola
+Pyrenula leucostoma Ach.
 
 ### Remarks
 null

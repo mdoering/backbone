@@ -1,5 +1,4 @@
-Hygrophorus acutisporus Britzelm. SPECIES
-=======
+# Hygrophorus acutisporus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

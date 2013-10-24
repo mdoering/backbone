@@ -1,5 +1,4 @@
-Colletotrichum zingiberis (Sundar.) E.J. Butler & Bisby SPECIES
-=======
+# Colletotrichum zingiberis (Sundar.) E.J. Butler & Bisby SPECIES
 
 #### Status
 ACCEPTED

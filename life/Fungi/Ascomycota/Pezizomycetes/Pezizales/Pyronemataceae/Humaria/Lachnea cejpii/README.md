@@ -1,17 +1,16 @@
-Lachnea cejpi Velen. SPECIES
-=======
+# Lachnea cejpii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 1: 305 (1934)
 
 #### Original name
-Lachnea cejpi Velen.
+Lachnea cejpii Velen.
 
 ### Remarks
 null

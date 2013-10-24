@@ -1,14 +1,13 @@
-Parmelia burmeisteri Elix SPECIES
-=======
+# Xanthoparmelia burmeisteri (Elix) Egan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 24: 664 (1976)
+Bryologist 85: 129 (1982)
 
 #### Original name
 Parmelia burmeisteri Elix

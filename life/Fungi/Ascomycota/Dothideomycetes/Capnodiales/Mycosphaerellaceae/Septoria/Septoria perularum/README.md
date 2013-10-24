@@ -1,5 +1,4 @@
-Septoria perularum (Thüm.) Sacc. SPECIES
-=======
+# Septoria perularum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

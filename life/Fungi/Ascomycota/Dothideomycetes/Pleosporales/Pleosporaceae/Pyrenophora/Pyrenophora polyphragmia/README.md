@@ -1,5 +1,4 @@
-Pyrenophora polyphragmia (Sacc.) Sacc. SPECIES
-=======
+# Pyrenophora polyphragmia (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

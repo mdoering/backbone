@@ -1,5 +1,4 @@
-Meliola alchorneicola Hansf. SPECIES
-=======
+# Meliola alchorneicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

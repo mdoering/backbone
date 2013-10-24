@@ -1,5 +1,4 @@
-Rattulus carinatus Lamarck, 1816 SPECIES
-=======
+# Rattulus carinatus Lamarck, 1816 SPECIES
 
 #### Status
 ACCEPTED

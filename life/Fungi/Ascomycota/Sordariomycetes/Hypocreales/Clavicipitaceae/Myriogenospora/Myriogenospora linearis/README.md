@@ -1,5 +1,4 @@
-Myriogenospora linearis (Rehm) J.F. White & Glenn SPECIES
-=======
+# Myriogenospora linearis (Rehm) J.F. White & Glenn SPECIES
 
 #### Status
 ACCEPTED

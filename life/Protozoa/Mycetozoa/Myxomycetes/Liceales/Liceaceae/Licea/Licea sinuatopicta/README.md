@@ -1,5 +1,4 @@
-Licea sinuatopicta Holger Müll., 2008 SPECIES
-=======
+# Licea sinuatopicta Holger Müll., 2008 SPECIES
 
 #### Status
 ACCEPTED

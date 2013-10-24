@@ -1,5 +1,4 @@
-Rhodotorula zsoltii Galgoczy & R.O. Novak SPECIES
-=======
+# Rhodotorula zsoltii Galgoczy & R.O. Novak SPECIES
 
 #### Status
 ACCEPTED

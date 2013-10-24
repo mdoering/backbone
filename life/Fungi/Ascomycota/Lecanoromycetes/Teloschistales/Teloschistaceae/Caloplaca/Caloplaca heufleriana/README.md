@@ -1,5 +1,4 @@
-Caloplaca heufleriana (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca heufleriana (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

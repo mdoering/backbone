@@ -1,5 +1,4 @@
-Leptoporus mexicanus Pat. SPECIES
-=======
+# Leptoporus mexicanus Pat. SPECIES
 
 #### Status
 ACCEPTED

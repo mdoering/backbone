@@ -1,5 +1,4 @@
-Pseudoxanthomonas suwonensis Weon et al., 2006 SPECIES
-=======
+# Pseudoxanthomonas suwonensis Weon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

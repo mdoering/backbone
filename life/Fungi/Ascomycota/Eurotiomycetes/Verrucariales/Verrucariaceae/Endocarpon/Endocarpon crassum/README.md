@@ -1,5 +1,4 @@
-Endocarpon crassum Anzi SPECIES
-=======
+# Endocarpon crassum Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium clavatum Karling, 1968 SPECIES
-=======
+# Rhizophydium clavatum Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

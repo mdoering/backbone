@@ -1,5 +1,4 @@
-Melaspilea maculosa (Fr.) Müll. Arg. SPECIES
-=======
+# Melaspilea maculosa (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

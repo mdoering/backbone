@@ -1,5 +1,4 @@
-Trypethelium sphaericum (G. Mey.) Eschw. SPECIES
-=======
+# Trypethelium sphaericum (G. Mey.) Eschw. SPECIES
 
 #### Status
 ACCEPTED

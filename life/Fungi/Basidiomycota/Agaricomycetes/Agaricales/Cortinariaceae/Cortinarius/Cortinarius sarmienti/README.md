@@ -1,5 +1,4 @@
-Cortinarius sarmienti Speg. SPECIES
-=======
+# Cortinarius sarmienti Speg. SPECIES
 
 #### Status
 ACCEPTED

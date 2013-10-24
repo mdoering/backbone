@@ -1,5 +1,4 @@
-Agaricus truncatula Gillet SPECIES
-=======
+# Agaricus truncatula Gillet SPECIES
 
 #### Status
 ACCEPTED

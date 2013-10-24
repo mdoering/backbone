@@ -1,5 +1,4 @@
-Cosmospora chaetopsinae-polyblastiae (Samuels) Rossman & Samuels SPECIES
-=======
+# Cosmospora chaetopsinae-polyblastiae (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

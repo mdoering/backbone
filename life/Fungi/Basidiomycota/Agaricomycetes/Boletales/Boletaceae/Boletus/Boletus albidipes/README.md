@@ -1,5 +1,4 @@
-Boletus albidipes Peck SPECIES
-=======
+# Boletus albidipes Peck SPECIES
 
 #### Status
 ACCEPTED

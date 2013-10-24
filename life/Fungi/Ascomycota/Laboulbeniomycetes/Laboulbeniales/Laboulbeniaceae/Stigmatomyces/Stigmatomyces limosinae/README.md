@@ -1,5 +1,4 @@
-Stigmatomyces limosinae Thaxt., 1901 SPECIES
-=======
+# Stigmatomyces limosinae Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

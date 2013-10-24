@@ -1,5 +1,4 @@
-Nidulispora quadrifida Nawawi & Kuthub., 1990 SPECIES
-=======
+# Nidulispora quadrifida Nawawi & Kuthub., 1990 SPECIES
 
 #### Status
 ACCEPTED

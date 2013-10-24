@@ -1,5 +1,4 @@
-Limacium paludosum (Peck) Singer SPECIES
-=======
+# Limacium paludosum (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

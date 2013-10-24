@@ -1,5 +1,4 @@
-Hyalopleiochaeta R.F. Castañeda, Guarro & Cano GENUS
-=======
+# Hyalopleiochaeta R.F. Castañeda, Guarro & Cano GENUS
 
 #### Status
 ACCEPTED

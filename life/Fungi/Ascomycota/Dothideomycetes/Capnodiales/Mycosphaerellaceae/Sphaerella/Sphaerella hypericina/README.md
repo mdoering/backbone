@@ -1,5 +1,4 @@
-Sphaerella hypericina Ellis SPECIES
-=======
+# Sphaerella hypericina Ellis SPECIES
 
 #### Status
 ACCEPTED

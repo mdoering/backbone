@@ -1,5 +1,4 @@
-Glonium lecideopsoideum Rehm SPECIES
-=======
+# Glonium lecideopsoideum Rehm SPECIES
 
 #### Status
 ACCEPTED

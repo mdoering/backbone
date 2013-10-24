@@ -1,17 +1,16 @@
-Pycnopodium Corda GENUS
-=======
+# Pilobolus Tode, 1784 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Icon. fung. (Prague) 5: 46 (1842)
+null
 
 #### Original name
-Pycnopodium Corda
+null
 
 ### Remarks
 null

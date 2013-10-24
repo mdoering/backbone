@@ -1,5 +1,4 @@
-Bainieria hyalina G. Arnaud SPECIES
-=======
+# Bainieria hyalina G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

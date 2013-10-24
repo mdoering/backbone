@@ -1,5 +1,4 @@
-Bactoderma alba Tepper & Korshunova, 1973 SPECIES
-=======
+# Bactoderma alba Tepper & Korshunova, 1973 SPECIES
 
 #### Status
 ACCEPTED

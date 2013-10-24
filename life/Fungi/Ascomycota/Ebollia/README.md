@@ -1,5 +1,4 @@
-Ebollia Minter & Caine GENUS
-=======
+# Ebollia Minter & Caine GENUS
 
 #### Status
 ACCEPTED

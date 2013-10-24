@@ -1,14 +1,13 @@
-Amphimyces liodivorus Huggert, 1973 SPECIES
-=======
+# Euphoriomyces liodivorus (Huggert) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 67(3): 240 (1973)
+Mycol. Mem. 9: 218 (1985)
 
 #### Original name
 Amphimyces liodivorus Huggert, 1973

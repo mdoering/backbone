@@ -1,17 +1,16 @@
-Cephalosporium purpurascens Sukapure & Thirum., 1966 SPECIES
-=======
+# Acremonium persicinum (Nicot) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 93(5): 310 (1966)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 75 (1971)
 
 #### Original name
-Cephalosporium purpurascens Sukapure & Thirum., 1966
+Paecilomyces persicinus Nicot, 1958
 
 ### Remarks
 null

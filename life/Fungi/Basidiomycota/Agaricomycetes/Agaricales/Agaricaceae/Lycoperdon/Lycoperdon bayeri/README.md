@@ -1,5 +1,4 @@
-Lycoperdon bayeri Velen. SPECIES
-=======
+# Lycoperdon bayeri Velen. SPECIES
 
 #### Status
 ACCEPTED

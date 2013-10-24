@@ -1,5 +1,4 @@
-Octaplata S.C.D. Sah & R.K. Kar, 1974 GENUS
-=======
+# Octaplata S.C.D. Sah & R.K. Kar, 1974 GENUS
 
 #### Status
 ACCEPTED

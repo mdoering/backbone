@@ -1,5 +1,4 @@
-Lingulina paucicostata Chang SPECIES
-=======
+# Lingulina paucicostata Chang SPECIES
 
 #### Status
 ACCEPTED

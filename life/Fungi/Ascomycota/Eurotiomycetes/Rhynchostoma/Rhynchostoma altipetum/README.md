@@ -1,5 +1,4 @@
-Rhynchostoma altipetum (Peck) Sacc. SPECIES
-=======
+# Rhynchostoma altipetum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploidium gallesiae Bat. & H. Maia SPECIES
-=======
+# Diploidium gallesiae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

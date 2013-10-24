@@ -1,5 +1,4 @@
-Methanocaldococcus indicus L'Haridon et al., 2003 SPECIES
-=======
+# Methanocaldococcus indicus L'Haridon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

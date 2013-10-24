@@ -1,5 +1,4 @@
-Pyricularia kookicola Bussaban SPECIES
-=======
+# Pyricularia kookicola Bussaban SPECIES
 
 #### Status
 ACCEPTED

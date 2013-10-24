@@ -1,5 +1,4 @@
-Russula albida A. Blytt SPECIES
-=======
+# Russula albida A. Blytt SPECIES
 
 #### Status
 ACCEPTED

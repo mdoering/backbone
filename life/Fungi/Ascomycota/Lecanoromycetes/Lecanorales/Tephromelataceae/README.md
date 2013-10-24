@@ -1,5 +1,4 @@
-Tephromelataceae Hafellner FAMILY
-=======
+# Tephromelataceae Hafellner FAMILY
 
 #### Status
 ACCEPTED

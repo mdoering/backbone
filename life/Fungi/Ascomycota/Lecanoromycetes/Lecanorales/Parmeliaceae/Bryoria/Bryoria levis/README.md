@@ -1,5 +1,4 @@
-Bryoria levis D.D. Awasthi SPECIES
-=======
+# Bryoria levis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora ovorum Trab. SPECIES
-=======
+# Oospora ovorum Trab. SPECIES
 
 #### Status
 ACCEPTED

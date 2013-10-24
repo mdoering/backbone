@@ -1,5 +1,4 @@
-Visbysphaera microspinosa (Eisenack, 1954) Lister, 1970 SPECIES
-=======
+# Visbysphaera microspinosa (Eisenack, 1954) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

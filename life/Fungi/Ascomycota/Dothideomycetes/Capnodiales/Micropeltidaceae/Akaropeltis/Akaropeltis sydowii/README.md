@@ -1,5 +1,4 @@
-Akaropeltis sydowii (Petr.) Arx SPECIES
-=======
+# Akaropeltis sydowii (Petr.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia filifera Thaxt. SPECIES
-=======
+# Rickia filifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Homophron particularis (Britzelm.) W.B. Cooke SPECIES
-=======
+# Homophron particularis (Britzelm.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

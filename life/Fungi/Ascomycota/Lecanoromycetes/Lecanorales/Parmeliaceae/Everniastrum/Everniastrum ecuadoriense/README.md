@@ -1,5 +1,4 @@
-Everniastrum ecuadoriense (R. Sant.) Hale SPECIES
-=======
+# Everniastrum ecuadoriense (R. Sant.) Hale SPECIES
 
 #### Status
 ACCEPTED

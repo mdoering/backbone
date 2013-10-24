@@ -1,5 +1,4 @@
-Ptychopeltis roupalae Syd. SPECIES
-=======
+# Ptychopeltis roupalae Syd. SPECIES
 
 #### Status
 ACCEPTED

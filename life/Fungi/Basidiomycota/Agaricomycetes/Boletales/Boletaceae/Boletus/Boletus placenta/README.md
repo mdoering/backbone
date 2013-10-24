@@ -1,5 +1,4 @@
-Boletus placenta Schumach. SPECIES
-=======
+# Boletus placenta Schumach. SPECIES
 
 #### Status
 ACCEPTED

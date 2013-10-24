@@ -1,5 +1,4 @@
-Candida valdiviana Grinb. & Yarrow, 1970 SPECIES
-=======
+# Candida valdiviana Grinb. & Yarrow, 1970 SPECIES
 
 #### Status
 ACCEPTED

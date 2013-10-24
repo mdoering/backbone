@@ -1,5 +1,4 @@
-Rinodina hyperborea H. Magn. SPECIES
-=======
+# Rinodina hyperborea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

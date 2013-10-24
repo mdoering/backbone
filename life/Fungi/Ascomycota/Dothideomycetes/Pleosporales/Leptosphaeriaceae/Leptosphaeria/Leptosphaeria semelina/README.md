@@ -1,5 +1,4 @@
-Leptosphaeria semelina Caball. SPECIES
-=======
+# Leptosphaeria semelina Caball. SPECIES
 
 #### Status
 ACCEPTED

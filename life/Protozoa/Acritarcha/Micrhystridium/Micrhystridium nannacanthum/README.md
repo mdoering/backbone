@@ -1,5 +1,4 @@
-Micrhystridium nannacanthum Deflandre, 1945 SPECIES
-=======
+# Micrhystridium nannacanthum Deflandre, 1945 SPECIES
 
 #### Status
 ACCEPTED

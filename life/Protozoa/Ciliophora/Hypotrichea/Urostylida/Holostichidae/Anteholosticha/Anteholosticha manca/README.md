@@ -1,5 +1,4 @@
-Anteholosticha manca Kahl, 1932 SPECIES
-=======
+# Anteholosticha manca Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

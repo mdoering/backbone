@@ -1,5 +1,4 @@
-Shepeardella taeniformis Siddall, 1880 SPECIES
-=======
+# Shepeardella taeniformis Siddall, 1880 SPECIES
 
 #### Status
 DOUBTFUL

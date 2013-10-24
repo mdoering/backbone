@@ -1,5 +1,4 @@
-Peziza phaeotheca McKnight & Dublin SPECIES
-=======
+# Peziza phaeotheca McKnight & Dublin SPECIES
 
 #### Status
 ACCEPTED

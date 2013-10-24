@@ -1,5 +1,4 @@
-Paraphysothele italica Servít SPECIES
-=======
+# Paraphysothele italica Servít SPECIES
 
 #### Status
 ACCEPTED

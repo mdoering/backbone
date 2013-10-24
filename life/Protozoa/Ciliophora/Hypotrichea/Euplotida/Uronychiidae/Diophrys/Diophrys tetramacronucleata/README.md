@@ -1,5 +1,4 @@
-Diophrys tetramacronucleata Kattar, 1970 SPECIES
-=======
+# Diophrys tetramacronucleata Kattar, 1970 SPECIES
 
 #### Status
 ACCEPTED

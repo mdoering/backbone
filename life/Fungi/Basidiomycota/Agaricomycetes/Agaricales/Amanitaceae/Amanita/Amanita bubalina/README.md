@@ -1,5 +1,4 @@
-Amanita bubalina Bas SPECIES
-=======
+# Amanita bubalina Bas SPECIES
 
 #### Status
 ACCEPTED

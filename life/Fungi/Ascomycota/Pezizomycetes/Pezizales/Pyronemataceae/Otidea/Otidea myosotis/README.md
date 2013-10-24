@@ -1,5 +1,4 @@
-Otidea myosotis Harmaja SPECIES
-=======
+# Otidea myosotis Harmaja SPECIES
 
 #### Status
 ACCEPTED

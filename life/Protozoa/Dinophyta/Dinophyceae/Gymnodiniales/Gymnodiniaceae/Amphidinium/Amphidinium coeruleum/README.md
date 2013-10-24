@@ -1,5 +1,4 @@
-Amphidinium coeruleum Conrad, 1939 SPECIES
-=======
+# Amphidinium coeruleum Conrad, 1939 SPECIES
 
 #### Status
 ACCEPTED

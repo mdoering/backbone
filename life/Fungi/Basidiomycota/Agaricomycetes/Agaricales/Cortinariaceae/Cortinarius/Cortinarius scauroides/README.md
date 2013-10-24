@@ -1,5 +1,4 @@
-Cortinarius scauroides Rob. Henry SPECIES
-=======
+# Cortinarius scauroides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia coracina Ach. SPECIES
-=======
+# Parmelia coracina Ach. SPECIES
 
 #### Status
 ACCEPTED

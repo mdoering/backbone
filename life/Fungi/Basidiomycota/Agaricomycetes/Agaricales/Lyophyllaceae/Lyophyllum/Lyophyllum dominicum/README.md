@@ -1,5 +1,4 @@
-Lyophyllum dominicum Pegler SPECIES
-=======
+# Lyophyllum dominicum Pegler SPECIES
 
 #### Status
 ACCEPTED

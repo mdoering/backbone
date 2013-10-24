@@ -1,5 +1,4 @@
-Xanthoria hypogymnioides S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria hypogymnioides S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

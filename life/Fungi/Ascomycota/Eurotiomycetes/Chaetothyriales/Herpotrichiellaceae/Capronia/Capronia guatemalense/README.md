@@ -1,5 +1,4 @@
-Capronia guatemalense Etayo & Van den Boom SPECIES
-=======
+# Capronia guatemalense Etayo & Van den Boom SPECIES
 
 #### Status
 ACCEPTED

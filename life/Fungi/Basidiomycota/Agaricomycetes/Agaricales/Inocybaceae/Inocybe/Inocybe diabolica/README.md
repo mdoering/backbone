@@ -1,5 +1,4 @@
-Inocybe diabolica Vauras SPECIES
-=======
+# Inocybe diabolica Vauras SPECIES
 
 #### Status
 ACCEPTED

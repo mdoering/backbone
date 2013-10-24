@@ -1,5 +1,4 @@
-Galerula pulchra (Clem.) Murrill SPECIES
-=======
+# Galerula pulchra (Clem.) Murrill SPECIES
 
 #### Status
 ACCEPTED

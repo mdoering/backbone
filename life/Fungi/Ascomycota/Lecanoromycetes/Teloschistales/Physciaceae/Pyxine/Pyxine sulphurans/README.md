@@ -1,5 +1,4 @@
-Pyxine sulphurans Nyl. SPECIES
-=======
+# Pyxine sulphurans Nyl. SPECIES
 
 #### Status
 ACCEPTED

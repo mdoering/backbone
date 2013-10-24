@@ -1,5 +1,4 @@
-Uredo menthastri Link SPECIES
-=======
+# Uredo menthastri Link SPECIES
 
 #### Status
 ACCEPTED

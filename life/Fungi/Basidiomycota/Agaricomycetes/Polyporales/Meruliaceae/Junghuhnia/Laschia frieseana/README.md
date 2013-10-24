@@ -1,5 +1,4 @@
-Laschia frieseana (Henn.) Sacc. SPECIES
-=======
+# Laschia frieseana (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

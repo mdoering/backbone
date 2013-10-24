@@ -1,5 +1,4 @@
-Gramincola Velen. GENUS
-=======
+# Gramincola Velen. GENUS
 
 #### Status
 ACCEPTED

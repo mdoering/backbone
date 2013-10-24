@@ -1,17 +1,16 @@
-Pannaria complanta P.M. Jørg. SPECIES
-=======
+# Pannaria complanata P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 33(4): 297 (2001)
 
 #### Original name
-Pannaria complanta P.M. Jørg.
+Pannaria complanata P. M. Jørg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cochlodinium semistriatum Elbrächter, 1979 SPECIES
-=======
+# Cochlodinium semistriatum Elbrächter, 1979 SPECIES
 
 #### Status
 ACCEPTED

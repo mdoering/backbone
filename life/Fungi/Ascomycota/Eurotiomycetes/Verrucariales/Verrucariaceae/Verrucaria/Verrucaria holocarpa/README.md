@@ -1,5 +1,4 @@
-Verrucaria holocarpa (Ehrh.) Hoffm. SPECIES
-=======
+# Verrucaria holocarpa (Ehrh.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

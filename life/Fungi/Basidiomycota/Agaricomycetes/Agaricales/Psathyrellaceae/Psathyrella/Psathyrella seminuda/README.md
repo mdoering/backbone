@@ -1,5 +1,4 @@
-Psathyrella seminuda A.H. Sm. SPECIES
-=======
+# Psathyrella seminuda A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

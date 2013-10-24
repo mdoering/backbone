@@ -1,5 +1,4 @@
-Peziza hyalochaeta Speg. SPECIES
-=======
+# Peziza hyalochaeta Speg. SPECIES
 
 #### Status
 ACCEPTED

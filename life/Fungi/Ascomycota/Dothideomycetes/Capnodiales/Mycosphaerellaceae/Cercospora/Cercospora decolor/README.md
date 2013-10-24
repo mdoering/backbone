@@ -1,5 +1,4 @@
-Cercospora decolor var. decolor VARIETY
-=======
+# Cercospora decolor Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora decolor var. decolor
+Cercospora decolor Pass.
 
 ### Remarks
 null

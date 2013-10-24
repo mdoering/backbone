@@ -1,5 +1,4 @@
-Sphaeria coerulea Ellis & Everh. SPECIES
-=======
+# Sphaeria coerulea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

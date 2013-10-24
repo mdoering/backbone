@@ -1,5 +1,4 @@
-Phyllopsora chodatinica Elix SPECIES
-=======
+# Phyllopsora chodatinica Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Decaisnella macrospora (Speg.) M.E. Barr SPECIES
-=======
+# Decaisnella macrospora (Speg.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

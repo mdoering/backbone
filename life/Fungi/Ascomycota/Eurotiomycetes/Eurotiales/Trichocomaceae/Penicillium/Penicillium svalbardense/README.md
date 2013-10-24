@@ -1,5 +1,4 @@
-Penicillium svalbardense Frisvad, Sonjak & Gunde-Cim. SPECIES
-=======
+# Penicillium svalbardense Frisvad, Sonjak & Gunde-Cim. SPECIES
 
 #### Status
 ACCEPTED

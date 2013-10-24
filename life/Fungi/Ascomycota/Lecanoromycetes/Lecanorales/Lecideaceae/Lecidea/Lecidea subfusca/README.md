@@ -1,17 +1,16 @@
-Lecidea subfusca var. subfusca VARIETY
-=======
+# Lecidea subfusca SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lecidea subfusca
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus flaviceps Murrill SPECIES
-=======
+# Boletus flaviceps Murrill SPECIES
 
 #### Status
 ACCEPTED

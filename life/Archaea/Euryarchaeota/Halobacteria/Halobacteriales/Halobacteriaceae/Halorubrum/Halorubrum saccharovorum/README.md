@@ -1,8 +1,7 @@
-Halobacterium saccharovorum Tomlinson and Hochstein, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Halorubrum saccharovorum (Tomlinson & Hochstein, 1977) McGenity & Grant, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

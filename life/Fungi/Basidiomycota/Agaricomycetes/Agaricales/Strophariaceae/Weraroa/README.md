@@ -1,5 +1,4 @@
-Weraroa Singer GENUS
-=======
+# Weraroa Singer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydomyxaceae FAMILY
-=======
+# Chlamydomyxaceae FAMILY
 
 #### Status
 ACCEPTED

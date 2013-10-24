@@ -1,5 +1,4 @@
-Agaricus remyi Kalchbr. & Roum. SPECIES
-=======
+# Agaricus remyi Kalchbr. & Roum. SPECIES
 
 #### Status
 ACCEPTED

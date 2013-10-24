@@ -1,5 +1,4 @@
-Dicaeoma gundeliae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma gundeliae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

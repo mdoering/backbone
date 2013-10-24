@@ -1,5 +1,4 @@
-Diplodina euonymi (Oudem.) Allesch. SPECIES
-=======
+# Diplodina euonymi (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

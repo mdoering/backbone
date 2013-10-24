@@ -1,8 +1,7 @@
-Circolagenophrys solida SPECIES
-=======
+# Lagenophrys solida Swarczewsky, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

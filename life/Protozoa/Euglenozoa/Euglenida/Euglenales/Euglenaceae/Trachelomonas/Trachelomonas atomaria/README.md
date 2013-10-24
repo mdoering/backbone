@@ -1,5 +1,4 @@
-Trachelomonas atomaria var. elegans Skvortzov VARIETY
-=======
+# Trachelomonas atomaria Skvortzov SPECIES
 
 #### Status
 ACCEPTED

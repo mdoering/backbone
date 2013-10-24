@@ -1,5 +1,4 @@
-Discosporium acaciae B. Sutton & E.M. Davison, 1983 SPECIES
-=======
+# Discosporium acaciae B. Sutton & E.M. Davison, 1983 SPECIES
 
 #### Status
 ACCEPTED

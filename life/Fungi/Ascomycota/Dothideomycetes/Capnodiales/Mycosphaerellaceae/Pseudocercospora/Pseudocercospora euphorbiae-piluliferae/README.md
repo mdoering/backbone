@@ -1,5 +1,4 @@
-Pseudocercospora euphorbiae-piluliferae J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora euphorbiae-piluliferae J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

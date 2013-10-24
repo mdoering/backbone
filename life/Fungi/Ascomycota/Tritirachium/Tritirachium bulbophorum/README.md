@@ -1,5 +1,4 @@
-Tritirachium bulbophorum Matsush. SPECIES
-=======
+# Tritirachium bulbophorum Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraconiothyrium brasiliense Verkley, 2004 SPECIES
-=======
+# Paraconiothyrium brasiliense Verkley, 2004 SPECIES
 
 #### Status
 ACCEPTED

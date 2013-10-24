@@ -1,5 +1,4 @@
-Lobaria awasthiana (Räsänen) D.D. Awasthi SPECIES
-=======
+# Lobaria awasthiana (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

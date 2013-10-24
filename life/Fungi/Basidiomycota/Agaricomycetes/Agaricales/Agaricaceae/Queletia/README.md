@@ -1,5 +1,4 @@
-Queletia Fr. GENUS
-=======
+# Queletia Fr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquabacter spiritensis Irgens et al., 1993 SPECIES
-=======
+# Aquabacter spiritensis Irgens et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

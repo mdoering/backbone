@@ -1,5 +1,4 @@
-Gloeothece rhodochlamys Skuja SPECIES
-=======
+# Gloeothece rhodochlamys Skuja SPECIES
 
 #### Status
 ACCEPTED

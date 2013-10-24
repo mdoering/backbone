@@ -1,5 +1,4 @@
-Cibalocoryne bogoriensis (Henn. & E. Nyman) S. Imai SPECIES
-=======
+# Cibalocoryne bogoriensis (Henn. & E. Nyman) S. Imai SPECIES
 
 #### Status
 ACCEPTED

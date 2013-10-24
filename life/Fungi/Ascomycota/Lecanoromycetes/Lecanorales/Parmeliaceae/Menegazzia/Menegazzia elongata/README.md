@@ -1,5 +1,4 @@
-Menegazzia elongata P. James SPECIES
-=======
+# Menegazzia elongata P. James SPECIES
 
 #### Status
 ACCEPTED

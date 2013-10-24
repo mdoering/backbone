@@ -1,5 +1,4 @@
-Sporotrichum fungicola (Corda) Sacc. SPECIES
-=======
+# Sporotrichum fungicola (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

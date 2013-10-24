@@ -1,5 +1,4 @@
-Bavlinella minuta Lei Zuoqi, 1982 SPECIES
-=======
+# Bavlinella minuta Lei Zuoqi, 1982 SPECIES
 
 #### Status
 ACCEPTED

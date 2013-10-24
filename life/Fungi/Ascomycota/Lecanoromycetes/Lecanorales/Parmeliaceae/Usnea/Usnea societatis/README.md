@@ -1,5 +1,4 @@
-Usnea societatis Vain. SPECIES
-=======
+# Usnea societatis Vain. SPECIES
 
 #### Status
 ACCEPTED

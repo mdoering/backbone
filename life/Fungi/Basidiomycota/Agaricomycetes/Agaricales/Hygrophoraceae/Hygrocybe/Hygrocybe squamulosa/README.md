@@ -1,5 +1,4 @@
-Hygrocybe squamulosa (Ellis & Everh.) Arnolds SPECIES
-=======
+# Hygrocybe squamulosa (Ellis & Everh.) Arnolds SPECIES
 
 #### Status
 ACCEPTED

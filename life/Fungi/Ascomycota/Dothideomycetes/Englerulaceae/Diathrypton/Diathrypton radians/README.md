@@ -1,5 +1,4 @@
-Diathrypton radians Syd. SPECIES
-=======
+# Diathrypton radians Syd. SPECIES
 
 #### Status
 ACCEPTED

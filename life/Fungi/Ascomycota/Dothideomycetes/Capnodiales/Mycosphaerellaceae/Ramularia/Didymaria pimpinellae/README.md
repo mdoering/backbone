@@ -1,5 +1,4 @@
-Didymaria pimpinellae Vestergr. SPECIES
-=======
+# Didymaria pimpinellae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

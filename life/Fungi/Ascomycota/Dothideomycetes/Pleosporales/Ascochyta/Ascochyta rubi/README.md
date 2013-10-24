@@ -1,5 +1,4 @@
-Ascochyta rubi Sacc. SPECIES
-=======
+# Ascochyta rubi Sacc. SPECIES
 
 #### Status
 ACCEPTED

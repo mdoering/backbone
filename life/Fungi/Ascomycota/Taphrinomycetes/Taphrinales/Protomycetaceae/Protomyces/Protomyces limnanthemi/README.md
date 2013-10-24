@@ -1,5 +1,4 @@
-Protomyces limnanthemi Cif. SPECIES
-=======
+# Protomyces limnanthemi Cif. SPECIES
 
 #### Status
 ACCEPTED

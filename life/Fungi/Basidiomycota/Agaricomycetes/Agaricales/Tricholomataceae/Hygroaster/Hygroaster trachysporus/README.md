@@ -1,5 +1,4 @@
-Hygroaster trachysporus Z.S. Bi SPECIES
-=======
+# Hygroaster trachysporus Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

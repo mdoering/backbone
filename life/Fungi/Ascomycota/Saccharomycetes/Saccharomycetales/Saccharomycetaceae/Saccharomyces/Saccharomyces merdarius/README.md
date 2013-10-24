@@ -1,5 +1,4 @@
-Saccharomyces merdarius Speg. SPECIES
-=======
+# Saccharomyces merdarius Speg. SPECIES
 
 #### Status
 ACCEPTED

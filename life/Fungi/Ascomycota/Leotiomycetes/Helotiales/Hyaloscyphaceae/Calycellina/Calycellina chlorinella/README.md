@@ -1,14 +1,13 @@
-Pezizella chlorinella (Ces.) Sacc., 1889 SPECIES
-=======
+# Calycellina chlorinella (Ces.) Dennis, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 278 (1889)
+Kew Bull. 30(2): 350 (1975)
 
 #### Original name
 null

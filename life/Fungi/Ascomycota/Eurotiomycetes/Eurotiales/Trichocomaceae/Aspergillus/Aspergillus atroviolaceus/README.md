@@ -1,5 +1,4 @@
-Aspergillus atroviolaceus Mosseray SPECIES
-=======
+# Aspergillus atroviolaceus Mosseray SPECIES
 
 #### Status
 ACCEPTED

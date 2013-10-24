@@ -1,5 +1,4 @@
-Cetraria madreporiformis (With.) Müll. Arg. SPECIES
-=======
+# Cetraria madreporiformis (With.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia palumbina Höhn. SPECIES
-=======
+# Odontia palumbina Höhn. SPECIES
 
 #### Status
 ACCEPTED

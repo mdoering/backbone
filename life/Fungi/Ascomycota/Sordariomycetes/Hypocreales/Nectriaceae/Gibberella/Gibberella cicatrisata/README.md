@@ -1,5 +1,4 @@
-Gibberella cicatrisata (Preuss) Sacc. SPECIES
-=======
+# Gibberella cicatrisata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

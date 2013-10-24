@@ -1,5 +1,4 @@
-Phacidium caulincola Schwein. SPECIES
-=======
+# Phacidium caulincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

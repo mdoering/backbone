@@ -1,5 +1,4 @@
-Verrucaria indutula Nyl. SPECIES
-=======
+# Verrucaria indutula Nyl. SPECIES
 
 #### Status
 ACCEPTED

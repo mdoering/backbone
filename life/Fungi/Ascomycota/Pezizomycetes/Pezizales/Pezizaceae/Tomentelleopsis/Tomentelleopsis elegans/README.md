@@ -1,5 +1,4 @@
-Tomentelleopsis elegans Orlova SPECIES
-=======
+# Tomentelleopsis elegans Orlova SPECIES
 
 #### Status
 ACCEPTED

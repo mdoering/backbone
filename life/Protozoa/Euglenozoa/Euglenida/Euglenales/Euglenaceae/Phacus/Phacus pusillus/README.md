@@ -1,8 +1,7 @@
-Phacus parvulus var. pusillus (Lemmermann) Popowa VARIETY
-=======
+# Phacus pusillus Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

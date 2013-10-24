@@ -1,5 +1,4 @@
-Acetobacterium carbinolicum Eichler & Schink, 1985 SPECIES
-=======
+# Acetobacterium carbinolicum Eichler & Schink, 1985 SPECIES
 
 #### Status
 ACCEPTED

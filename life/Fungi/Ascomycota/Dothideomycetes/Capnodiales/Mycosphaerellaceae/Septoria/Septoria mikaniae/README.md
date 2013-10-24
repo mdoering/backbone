@@ -1,5 +1,4 @@
-Septoria mikaniae G. Winter SPECIES
-=======
+# Septoria mikaniae G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pentstemonis Sandu & Serea SPECIES
-=======
+# Phyllosticta pentstemonis Sandu & Serea SPECIES
 
 #### Status
 ACCEPTED

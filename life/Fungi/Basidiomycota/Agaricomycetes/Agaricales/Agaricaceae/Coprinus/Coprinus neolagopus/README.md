@@ -1,5 +1,4 @@
-Coprinus neolagopus Hongo & Sagara SPECIES
-=======
+# Coprinus neolagopus Hongo & Sagara SPECIES
 
 #### Status
 ACCEPTED

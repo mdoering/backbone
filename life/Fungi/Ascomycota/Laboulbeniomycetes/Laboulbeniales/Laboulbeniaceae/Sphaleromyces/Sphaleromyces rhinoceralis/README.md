@@ -1,5 +1,4 @@
-Sphaleromyces rhinoceralis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Sphaleromyces rhinoceralis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma platanoides Cooke, 1885 SPECIES
-=======
+# Phomopsis platanoidis (Cooke) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 243 (1912)
 
 #### Original name
-null
+Phoma platanoidis Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusarium macounii Dearn. SPECIES
-=======
+# Fusarium macounii Dearn. SPECIES
 
 #### Status
 ACCEPTED

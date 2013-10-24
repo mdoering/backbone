@@ -1,5 +1,4 @@
-Lepiota rhacodioides Henn. SPECIES
-=======
+# Lepiota rhacodioides Henn. SPECIES
 
 #### Status
 ACCEPTED

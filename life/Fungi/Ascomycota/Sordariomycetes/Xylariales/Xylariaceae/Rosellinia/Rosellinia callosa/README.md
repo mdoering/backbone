@@ -1,5 +1,4 @@
-Rosellinia callosa G. Winter, 1874 SPECIES
-=======
+# Rosellinia callosa G. Winter, 1874 SPECIES
 
 #### Status
 ACCEPTED

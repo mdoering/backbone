@@ -1,17 +1,16 @@
-Polyporus subacidus var. subacidus VARIETY
-=======
+# Perenniporia subacida (Peck) Donk, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 38: 92 (1885)
+Persoonia 5(1): 76 (1967)
 
 #### Original name
-Polyporus subacidus var. subacidus
+Polyporus subacidus Peck, 1885
 
 ### Remarks
 null

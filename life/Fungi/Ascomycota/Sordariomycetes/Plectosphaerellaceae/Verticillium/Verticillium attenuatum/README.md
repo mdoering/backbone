@@ -1,5 +1,4 @@
-Verticillium attenuatum Petch SPECIES
-=======
+# Verticillium attenuatum Petch SPECIES
 
 #### Status
 ACCEPTED

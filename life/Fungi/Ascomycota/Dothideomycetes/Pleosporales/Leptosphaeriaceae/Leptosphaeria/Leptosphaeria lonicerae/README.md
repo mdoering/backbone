@@ -1,5 +1,4 @@
-Leptosphaeria lonicerae Gucevic SPECIES
-=======
+# Leptosphaeria lonicerae Gucevic SPECIES
 
 #### Status
 ACCEPTED

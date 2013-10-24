@@ -1,5 +1,4 @@
-Acaulospora kandelia Hu SPECIES
-=======
+# Acaulospora kandelia Hu SPECIES
 
 #### Status
 ACCEPTED

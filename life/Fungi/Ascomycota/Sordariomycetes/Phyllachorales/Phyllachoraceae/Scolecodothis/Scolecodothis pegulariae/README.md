@@ -1,5 +1,4 @@
-Scolecodothis pegulariae Tend. SPECIES
-=======
+# Scolecodothis pegulariae Tend. SPECIES
 
 #### Status
 ACCEPTED

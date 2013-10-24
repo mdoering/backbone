@@ -1,5 +1,4 @@
-Phyllachora vulgaris Theiss. & Syd. SPECIES
-=======
+# Phyllachora vulgaris Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

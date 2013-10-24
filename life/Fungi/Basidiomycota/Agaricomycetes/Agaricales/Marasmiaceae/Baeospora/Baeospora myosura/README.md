@@ -1,14 +1,13 @@
-Agaricus myosurus Fr., 1818 SPECIES
-=======
+# Baeospora myosura (Fr.) Singer, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 129 (1818)
+Revue Mycol. , Paris 3: 193 (1938)
 
 #### Original name
 Agaricus myosurus Fr., 1818

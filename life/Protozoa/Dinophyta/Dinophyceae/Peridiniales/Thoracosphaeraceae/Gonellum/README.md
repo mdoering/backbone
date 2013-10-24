@@ -1,5 +1,4 @@
-Gonellum H. Keupp, 1987 GENUS
-=======
+# Gonellum H. Keupp, 1987 GENUS
 
 #### Status
 ACCEPTED

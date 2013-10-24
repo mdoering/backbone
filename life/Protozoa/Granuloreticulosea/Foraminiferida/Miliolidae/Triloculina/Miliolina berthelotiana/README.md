@@ -1,8 +1,7 @@
-Miliolina berthelotiana var. nodulosa Wiesner, 1923 VARIETY
-=======
+# Miliolina berthelotiana (d’Orbigny, 1839) SPECIES
 
 #### Status
-ACCEPTED
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

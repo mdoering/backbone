@@ -1,5 +1,4 @@
-Nodulosphaeria megalospora (Auersw. & Niessl) L. Holm SPECIES
-=======
+# Nodulosphaeria megalospora (Auersw. & Niessl) L. Holm SPECIES
 
 #### Status
 ACCEPTED

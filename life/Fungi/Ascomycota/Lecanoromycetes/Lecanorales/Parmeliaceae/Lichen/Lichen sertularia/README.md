@@ -1,5 +1,4 @@
-Lichen sertularia Schrank SPECIES
-=======
+# Lichen sertularia Schrank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina viridula Sacc. & P. Syd. SPECIES
-=======
+# Diplodina viridula Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

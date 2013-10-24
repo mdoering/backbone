@@ -1,17 +1,16 @@
-Boletus pomaceus var. pomaceus VARIETY
-=======
+# Boletus pomaceus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 5 (1800)
+null
 
 #### Original name
-Boletus pomaceus var. pomaceus
+null
 
 ### Remarks
 null

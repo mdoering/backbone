@@ -1,5 +1,4 @@
-Amanita annulatovaginata Beeli SPECIES
-=======
+# Amanita annulatovaginata Beeli SPECIES
 
 #### Status
 ACCEPTED

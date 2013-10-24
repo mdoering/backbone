@@ -1,5 +1,4 @@
-Parmelia alutacea Zahlbr. SPECIES
-=======
+# Parmelia alutacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

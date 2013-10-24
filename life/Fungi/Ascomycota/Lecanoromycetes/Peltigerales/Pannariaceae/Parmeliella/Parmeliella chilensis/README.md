@@ -1,5 +1,4 @@
-Parmeliella chilensis (Hue) P.M. Jørg. SPECIES
-=======
+# Parmeliella chilensis (Hue) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

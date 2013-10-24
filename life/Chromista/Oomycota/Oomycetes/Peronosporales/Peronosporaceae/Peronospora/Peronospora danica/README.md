@@ -1,5 +1,4 @@
-Peronospora danica Gäum. SPECIES
-=======
+# Peronospora danica Gäum. SPECIES
 
 #### Status
 ACCEPTED

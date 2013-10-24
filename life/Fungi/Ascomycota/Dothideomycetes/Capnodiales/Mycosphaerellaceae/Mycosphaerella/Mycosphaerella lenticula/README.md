@@ -1,5 +1,4 @@
-Mycosphaerella lenticula (Cooke) Tomilin SPECIES
-=======
+# Mycosphaerella lenticula (Cooke) Tomilin SPECIES
 
 #### Status
 ACCEPTED

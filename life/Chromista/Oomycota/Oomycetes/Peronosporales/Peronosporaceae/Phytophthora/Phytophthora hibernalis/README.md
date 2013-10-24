@@ -1,5 +1,4 @@
-Phytophthora hibernalis Carne, 1925 SPECIES
-=======
+# Phytophthora hibernalis Carne, 1925 SPECIES
 
 #### Status
 ACCEPTED

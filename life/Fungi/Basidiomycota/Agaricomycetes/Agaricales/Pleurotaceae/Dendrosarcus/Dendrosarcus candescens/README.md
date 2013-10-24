@@ -1,5 +1,4 @@
-Dendrosarcus candescens (F. Muell. ex Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus candescens (F. Muell. ex Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

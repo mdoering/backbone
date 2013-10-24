@@ -1,5 +1,4 @@
-Endocarpon desquamescens Zahlbr. SPECIES
-=======
+# Endocarpon desquamescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

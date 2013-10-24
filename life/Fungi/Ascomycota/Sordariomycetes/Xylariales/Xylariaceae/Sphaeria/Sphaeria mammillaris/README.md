@@ -1,5 +1,4 @@
-Sphaeria mammillaris Schumach. SPECIES
-=======
+# Sphaeria mammillaris Schumach. SPECIES
 
 #### Status
 ACCEPTED

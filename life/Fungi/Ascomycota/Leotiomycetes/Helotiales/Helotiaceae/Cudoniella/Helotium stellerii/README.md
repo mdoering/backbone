@@ -1,5 +1,4 @@
-Helotium stellerii (Weinm.) Sacc. SPECIES
-=======
+# Helotium stellerii (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

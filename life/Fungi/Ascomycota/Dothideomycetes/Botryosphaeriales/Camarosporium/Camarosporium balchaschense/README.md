@@ -1,17 +1,16 @@
-Camarosporium balchaschensis Kravtzev SPECIES
-=======
+# Camarosporium balchaschense Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Schwarzman & Kravtzev, Trud. Inst. Bot. Acad. Sci. Kazakh SSR 9: 94 (1961)
 
 #### Original name
-Camarosporium balchaschensis Kravtzev
+Camarosporium balchaschense Kravtzev
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerulina inquinans Rehm SPECIES
-=======
+# Sphaerulina inquinans Rehm SPECIES
 
 #### Status
 ACCEPTED

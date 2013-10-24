@@ -1,5 +1,4 @@
-Leccinum idahoense A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum idahoense A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

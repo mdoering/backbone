@@ -1,5 +1,4 @@
-Pestalotia pallida Ellis & G. Martin SPECIES
-=======
+# Pestalotia pallida Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

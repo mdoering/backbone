@@ -1,5 +1,4 @@
-Aecidium gaubae Petr. SPECIES
-=======
+# Aecidium gaubae Petr. SPECIES
 
 #### Status
 ACCEPTED

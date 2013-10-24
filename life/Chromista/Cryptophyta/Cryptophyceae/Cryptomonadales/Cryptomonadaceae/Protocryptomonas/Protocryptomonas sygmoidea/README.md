@@ -1,5 +1,4 @@
-Protocryptomonas sygmoidea A. Castro, C. Bicudo & D. Bicudo SPECIES
-=======
+# Protocryptomonas sygmoidea A. Castro, C. Bicudo & D. Bicudo SPECIES
 
 #### Status
 ACCEPTED

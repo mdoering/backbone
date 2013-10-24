@@ -1,5 +1,4 @@
-Peziza carolinae De Guern. SPECIES
-=======
+# Peziza carolinae De Guern. SPECIES
 
 #### Status
 ACCEPTED

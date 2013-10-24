@@ -1,5 +1,4 @@
-Phaeographis medusuliza Müll. Arg. SPECIES
-=======
+# Phaeographis medusuliza Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

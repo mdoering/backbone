@@ -1,17 +1,16 @@
-Arnoldia D.J. Gray & Morgan-Jones GENUS
-=======
+# Arnoldiomyces Morgan-Jones GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 10(2): 375 (1980)
+Mycotaxon 11(2): 446 (1980)
 
 #### Original name
-Arnoldia D.J. Gray & Morgan-Jones
+Arnoldiomyces Morgan-Jones
 
 ### Remarks
 null

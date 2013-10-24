@@ -1,5 +1,4 @@
-Asterothyrium leptosporum Müll. Arg. SPECIES
-=======
+# Asterothyrium leptosporum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

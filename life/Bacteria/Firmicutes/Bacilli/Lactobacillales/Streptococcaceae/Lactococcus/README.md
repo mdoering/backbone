@@ -1,5 +1,4 @@
-Lactococcus Schleifer et al., 1986 GENUS
-=======
+# Lactococcus Schleifer et al., 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerulina vincae Sousa da Câmara SPECIES
-=======
+# Clypeosphaerulina vincae (Sousa da Câmara) Sousa da Câmara, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agron. lusit. 1(2): 195 (1939)
 
 #### Original name
 Sphaerulina vincae Sousa da Câmara

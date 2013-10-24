@@ -1,5 +1,4 @@
-Poria loennbohmii P. Karst. SPECIES
-=======
+# Poria loennbohmii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

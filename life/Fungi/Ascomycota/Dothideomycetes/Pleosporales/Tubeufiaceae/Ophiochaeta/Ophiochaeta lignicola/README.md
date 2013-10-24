@@ -1,5 +1,4 @@
-Ophiochaeta lignicola Henn. SPECIES
-=======
+# Ophiochaeta lignicola Henn. SPECIES
 
 #### Status
 ACCEPTED

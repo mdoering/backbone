@@ -1,5 +1,4 @@
-Platygramme reticulata Fée SPECIES
-=======
+# Platygramme reticulata Fée SPECIES
 
 #### Status
 ACCEPTED

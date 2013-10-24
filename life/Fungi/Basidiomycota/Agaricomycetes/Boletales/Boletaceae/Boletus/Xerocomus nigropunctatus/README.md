@@ -1,5 +1,4 @@
-Xerocomus nigropunctatus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus nigropunctatus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

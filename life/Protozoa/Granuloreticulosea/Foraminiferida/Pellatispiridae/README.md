@@ -1,5 +1,4 @@
-Pellatispiridae Hanzawa, 1937 FAMILY
-=======
+# Pellatispiridae Hanzawa, 1937 FAMILY
 
 #### Status
 ACCEPTED

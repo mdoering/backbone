@@ -1,5 +1,4 @@
-Lecanora alboatra Nyl. SPECIES
-=======
+# Lecanora alboatra Nyl. SPECIES
 
 #### Status
 ACCEPTED

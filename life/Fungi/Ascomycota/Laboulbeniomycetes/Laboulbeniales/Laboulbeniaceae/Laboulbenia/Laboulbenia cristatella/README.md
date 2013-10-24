@@ -1,5 +1,4 @@
-Laboulbenia cristatella Thaxt. SPECIES
-=======
+# Laboulbenia cristatella Thaxt. SPECIES
 
 #### Status
 ACCEPTED

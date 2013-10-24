@@ -1,5 +1,4 @@
-Filaspora tabacco (Fautrey) Kuntze SPECIES
-=======
+# Filaspora tabacco (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

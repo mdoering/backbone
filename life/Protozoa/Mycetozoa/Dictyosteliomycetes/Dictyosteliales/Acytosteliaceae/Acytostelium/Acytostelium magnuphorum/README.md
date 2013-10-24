@@ -1,5 +1,4 @@
-Acytostelium magnuphorum Cavender & Vadell, 2000 SPECIES
-=======
+# Acytostelium magnuphorum Cavender & Vadell, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lisea tonduzi Speg. SPECIES
-=======
+# Lisea tonduzii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 23(3-4): 564 (1919)
 
 #### Original name
-Lisea tonduzi Speg.
+Lisea tonduzii Speg.
 
 ### Remarks
 null

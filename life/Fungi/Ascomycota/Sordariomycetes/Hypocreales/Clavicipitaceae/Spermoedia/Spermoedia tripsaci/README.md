@@ -1,5 +1,4 @@
-Spermoedia tripsaci (F. Stevens & J.G. Hall) Seaver SPECIES
-=======
+# Spermoedia tripsaci (F. Stevens & J.G. Hall) Seaver SPECIES
 
 #### Status
 ACCEPTED

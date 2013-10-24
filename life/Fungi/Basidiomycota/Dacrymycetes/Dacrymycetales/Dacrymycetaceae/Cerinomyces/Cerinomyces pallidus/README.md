@@ -1,5 +1,4 @@
-Cerinomyces pallidus G.W. Martin, 1949 SPECIES
-=======
+# Cerinomyces pallidus G.W. Martin, 1949 SPECIES
 
 #### Status
 ACCEPTED

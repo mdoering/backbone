@@ -1,5 +1,4 @@
-Neoovularia asteris (Solheim) U. Braun SPECIES
-=======
+# Neoovularia asteris (Solheim) U. Braun SPECIES
 
 #### Status
 ACCEPTED

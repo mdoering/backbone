@@ -1,5 +1,4 @@
-Pilophoron colensoi var. colensoi VARIETY
-=======
+# Pilophoron colensoi (C. Bab.) C. Knight SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pilophoron colensoi var. colensoi
+Stereocaulon colensoi C. Bab.
 
 ### Remarks
 null

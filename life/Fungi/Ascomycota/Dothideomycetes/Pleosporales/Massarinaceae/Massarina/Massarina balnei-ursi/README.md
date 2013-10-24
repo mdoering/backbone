@@ -1,5 +1,4 @@
-Massarina balnei-ursi (Rehm) K. Holm & L. Holm SPECIES
-=======
+# Massarina balnei-ursi (Rehm) K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia jamesiana (Peck) Arthur SPECIES
-=======
+# Puccinia jamesiana (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

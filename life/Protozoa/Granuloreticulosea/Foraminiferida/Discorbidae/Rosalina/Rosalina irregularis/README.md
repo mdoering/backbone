@@ -1,5 +1,4 @@
-Rosalina irregularis (Rhumbler, 1906) SPECIES
-=======
+# Rosalina irregularis (Rhumbler, 1906) SPECIES
 
 #### Status
 ACCEPTED

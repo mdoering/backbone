@@ -1,5 +1,4 @@
-Stilbum dubium (Preuss) Sacc. SPECIES
-=======
+# Stilbum dubium (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

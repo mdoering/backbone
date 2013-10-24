@@ -1,5 +1,4 @@
-Erysiphe epigena S. Takam. & U. Braun SPECIES
-=======
+# Erysiphe epigena S. Takam. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

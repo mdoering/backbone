@@ -1,5 +1,4 @@
-Hyalodaktylethra Delvinquier & Freeland, 1988 GENUS
-=======
+# Hyalodaktylethra Delvinquier & Freeland, 1988 GENUS
 
 #### Status
 ACCEPTED

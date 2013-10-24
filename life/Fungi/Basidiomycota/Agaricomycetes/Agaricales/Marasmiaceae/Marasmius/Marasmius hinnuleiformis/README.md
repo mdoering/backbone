@@ -1,5 +1,4 @@
-Marasmius hinnuleiformis Murrill SPECIES
-=======
+# Marasmius hinnuleiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

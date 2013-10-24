@@ -1,5 +1,4 @@
-Phyllobacterium brassicacearum Mantelin et al., 2006 SPECIES
-=======
+# Phyllobacterium brassicacearum Mantelin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

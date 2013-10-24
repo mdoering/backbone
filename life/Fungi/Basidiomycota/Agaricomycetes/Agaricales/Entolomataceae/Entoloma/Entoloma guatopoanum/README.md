@@ -1,5 +1,4 @@
-Entoloma guatopoanum (Dennis) E. Horak SPECIES
-=======
+# Entoloma guatopoanum (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora atrides Syd. & P. Syd. SPECIES
-=======
+# Cercospora atrides Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

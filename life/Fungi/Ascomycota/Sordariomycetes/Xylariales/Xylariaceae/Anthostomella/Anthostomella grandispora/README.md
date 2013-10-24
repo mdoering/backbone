@@ -1,5 +1,4 @@
-Anthostomella grandispora Penz. & Sacc. SPECIES
-=======
+# Anthostomella grandispora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

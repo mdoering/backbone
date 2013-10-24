@@ -1,5 +1,4 @@
-Dothiorella leucaenicola S. Ahmad SPECIES
-=======
+# Dothiorella leucaenicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

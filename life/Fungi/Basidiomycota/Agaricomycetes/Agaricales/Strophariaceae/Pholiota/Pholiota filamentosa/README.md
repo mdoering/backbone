@@ -1,5 +1,4 @@
-Pholiota filamentosa (Schaeff.) Fr. SPECIES
-=======
+# Pholiota filamentosa (Schaeff.) Fr. SPECIES
 
 #### Status
 ACCEPTED

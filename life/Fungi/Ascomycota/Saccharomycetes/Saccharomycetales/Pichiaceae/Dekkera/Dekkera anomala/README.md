@@ -1,17 +1,16 @@
-Candida beijingensis J.Z. Yue, 1984 SPECIES
-=======
+# Dekkera anomala M.T. Sm. & Grinsven, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 50(2): 144 (1984)
 
 #### Original name
-null
+Dekkera anomala M.T. Sm. & Grinsven, 1984
 
 ### Remarks
 null

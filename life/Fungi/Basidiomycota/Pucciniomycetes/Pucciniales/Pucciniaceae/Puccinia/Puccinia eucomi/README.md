@@ -1,5 +1,4 @@
-Puccinia eucomi Doidge SPECIES
-=======
+# Puccinia eucomi Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria mucosa f. mucosa Wahlenb. FORM
-=======
+# Wahlenbergiella mucosa (Wahlenb.) Gueidan & Thüs SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Acharius, Method. Lich. 23 (1803)
+null
 
 #### Original name
-Verrucaria mucosa f. mucosa Wahlenb.
+null
 
 ### Remarks
 null

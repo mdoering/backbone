@@ -1,5 +1,4 @@
-Camarosporium ceanothi Dearn. SPECIES
-=======
+# Camarosporium ceanothi Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium linicola Kletsh. SPECIES
-=======
+# Helminthosporium linicola Kletsh. SPECIES
 
 #### Status
 ACCEPTED

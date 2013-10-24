@@ -1,14 +1,13 @@
-Monosporium meliolicola Speg., 1910 SPECIES
-=======
+# Monosporiella meliolicola (Speg.) Speg., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 20(13): 416 (1910)
+Physis, Rev. Soc. Arg. Cienc. Nat. 4: 293 (1918)
 
 #### Original name
 Monosporium meliolicola Speg., 1910

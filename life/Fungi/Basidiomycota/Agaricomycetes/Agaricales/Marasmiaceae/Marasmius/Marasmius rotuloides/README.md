@@ -1,5 +1,4 @@
-Marasmius rotuloides Dennis SPECIES
-=======
+# Marasmius rotuloides Dennis SPECIES
 
 #### Status
 ACCEPTED

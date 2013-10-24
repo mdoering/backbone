@@ -1,5 +1,4 @@
-Polyporus corallinus Pers. SPECIES
-=======
+# Polyporus corallinus Pers. SPECIES
 
 #### Status
 ACCEPTED

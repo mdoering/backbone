@@ -1,5 +1,4 @@
-Dendrothele lemkei Gresl. & Rajchenb., 1998 SPECIES
-=======
+# Dendrothele lemkei Gresl. & Rajchenb., 1998 SPECIES
 
 #### Status
 ACCEPTED

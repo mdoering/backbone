@@ -1,5 +1,4 @@
-Cristulospora sherbani L.F. Khodzhaeva & I.V. Issi SPECIES
-=======
+# Cristulospora sherbani L.F. Khodzhaeva & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

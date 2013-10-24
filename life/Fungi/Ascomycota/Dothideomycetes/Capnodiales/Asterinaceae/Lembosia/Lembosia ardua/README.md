@@ -1,5 +1,4 @@
-Lembosia ardua Syd. SPECIES
-=======
+# Lembosia ardua Syd. SPECIES
 
 #### Status
 ACCEPTED

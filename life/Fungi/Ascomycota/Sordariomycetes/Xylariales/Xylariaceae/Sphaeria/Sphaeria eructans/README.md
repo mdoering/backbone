@@ -1,5 +1,4 @@
-Sphaeria eructans Wallr. SPECIES
-=======
+# Sphaeria eructans Wallr. SPECIES
 
 #### Status
 ACCEPTED

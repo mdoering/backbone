@@ -1,5 +1,4 @@
-Cryptomonas ampulla Playfair SPECIES
-=======
+# Cryptomonas ampulla Playfair SPECIES
 
 #### Status
 ACCEPTED

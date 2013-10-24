@@ -1,5 +1,4 @@
-Graphis fulgurata Fée SPECIES
-=======
+# Graphis fulgurata Fée SPECIES
 
 #### Status
 ACCEPTED

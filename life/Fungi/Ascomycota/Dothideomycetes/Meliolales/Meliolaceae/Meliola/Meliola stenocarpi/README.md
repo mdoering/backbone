@@ -1,5 +1,4 @@
-Meliola stenocarpi B. Huguenin SPECIES
-=======
+# Meliola stenocarpi B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

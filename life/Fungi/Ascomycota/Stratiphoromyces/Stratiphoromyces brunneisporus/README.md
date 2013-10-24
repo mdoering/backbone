@@ -1,5 +1,4 @@
-Stratiphoromyces brunneisporus Goh & K.D. Hyde, 1998 SPECIES
-=======
+# Stratiphoromyces brunneisporus Goh & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

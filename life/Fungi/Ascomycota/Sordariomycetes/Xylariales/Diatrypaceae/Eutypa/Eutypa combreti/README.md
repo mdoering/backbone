@@ -1,5 +1,4 @@
-Eutypa combreti Gambhir SPECIES
-=======
+# Eutypa combreti Gambhir SPECIES
 
 #### Status
 ACCEPTED

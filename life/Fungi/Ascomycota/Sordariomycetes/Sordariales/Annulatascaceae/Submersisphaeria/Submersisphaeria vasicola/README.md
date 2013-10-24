@@ -1,17 +1,16 @@
-Amphisphaeria aquatica (Ellis & Everh.) Berl. & Voglino, 1886 SPECIES
-=======
+# Submersisphaeria vasicola You Z. Wang, Aptroot & K.D. Hyde, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 13: 62 (2004)
 
 #### Original name
-Amphisphaeria aquatica (Ellis & Everh.) Berl. & Voglino, 1886
+Sphaeria aquatica Ellis & Everh., 1884
 
 ### Remarks
 null

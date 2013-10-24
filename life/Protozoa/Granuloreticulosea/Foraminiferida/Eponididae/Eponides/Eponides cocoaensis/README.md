@@ -1,5 +1,4 @@
-Eponides cocoaensis Cushman, 1928 SPECIES
-=======
+# Eponides cocoaensis Cushman, 1928 SPECIES
 
 #### Status
 ACCEPTED

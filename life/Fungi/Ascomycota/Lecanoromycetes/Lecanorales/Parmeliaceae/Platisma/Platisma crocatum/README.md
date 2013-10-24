@@ -1,5 +1,4 @@
-Platisma crocatum Hoffm. SPECIES
-=======
+# Platisma crocatum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

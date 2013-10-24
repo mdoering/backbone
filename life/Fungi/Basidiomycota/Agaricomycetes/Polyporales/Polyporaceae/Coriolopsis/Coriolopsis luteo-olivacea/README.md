@@ -1,5 +1,4 @@
-Coriolopsis luteo-olivacea (Berk.) Teng SPECIES
-=======
+# Coriolopsis luteo-olivacea (Berk.) Teng SPECIES
 
 #### Status
 ACCEPTED

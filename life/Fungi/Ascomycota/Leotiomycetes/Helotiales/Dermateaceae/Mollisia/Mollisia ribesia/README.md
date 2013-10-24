@@ -1,5 +1,4 @@
-Mollisia ribesia Cooke & W. Phillips SPECIES
-=======
+# Mollisia ribesia Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

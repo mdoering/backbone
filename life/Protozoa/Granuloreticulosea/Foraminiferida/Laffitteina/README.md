@@ -1,5 +1,4 @@
-Laffitteina Marie, 1945 GENUS
-=======
+# Laffitteina Marie, 1945 GENUS
 
 #### Status
 ACCEPTED

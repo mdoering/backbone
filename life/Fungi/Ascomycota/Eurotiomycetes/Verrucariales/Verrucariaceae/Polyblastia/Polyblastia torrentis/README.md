@@ -1,5 +1,4 @@
-Polyblastia torrentis Servít SPECIES
-=======
+# Polyblastia torrentis Servít SPECIES
 
 #### Status
 ACCEPTED

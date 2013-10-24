@@ -1,5 +1,4 @@
-Hypodermopsis osmundae (Schwein.) Kuntze SPECIES
-=======
+# Hypodermopsis osmundae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

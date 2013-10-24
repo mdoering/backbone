@@ -1,5 +1,4 @@
-Isaria moriokaensis Aoki SPECIES
-=======
+# Isaria moriokaensis Aoki SPECIES
 
 #### Status
 ACCEPTED

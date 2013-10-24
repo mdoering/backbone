@@ -1,5 +1,4 @@
-Aplosporella prunicola Damm & Crous SPECIES
-=======
+# Aplosporella prunicola Damm & Crous SPECIES
 
 #### Status
 ACCEPTED

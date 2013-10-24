@@ -1,17 +1,16 @@
-Hypophyllum tintinnabulum Paulet, 1793 SPECIES
-=======
+# Mycena tintinnabulum (Batsch) Quél., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 105 (1872)
 
 #### Original name
-null
+Agaricus tintinnabulum (Paulet) Fr., 1838
 
 ### Remarks
 null

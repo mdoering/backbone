@@ -1,17 +1,16 @@
-Agaricus augustus var. albus M.M. Moser VARIETY
-=======
+# Agaricus augustus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Rev. Edn 5 2b/2: 230 (1983)
+Epicr. syst. mycol. (Upsaliae) 212 (1838)
 
 #### Original name
-Agaricus augustus var. albus M.M. Moser
+Agaricus augustus Fr., 1838
 
 ### Remarks
 null

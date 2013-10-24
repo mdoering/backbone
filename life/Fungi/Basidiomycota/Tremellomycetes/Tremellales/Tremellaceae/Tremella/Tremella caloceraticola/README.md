@@ -1,5 +1,4 @@
-Tremella caloceraticola Hauerslev SPECIES
-=======
+# Tremella caloceraticola Hauerslev SPECIES
 
 #### Status
 ACCEPTED

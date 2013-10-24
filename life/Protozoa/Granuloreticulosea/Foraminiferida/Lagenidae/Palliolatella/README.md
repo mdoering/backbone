@@ -1,5 +1,4 @@
-Palliolatella Patterson & Richardson, 1987 GENUS
-=======
+# Palliolatella Patterson & Richardson, 1987 GENUS
 
 #### Status
 ACCEPTED

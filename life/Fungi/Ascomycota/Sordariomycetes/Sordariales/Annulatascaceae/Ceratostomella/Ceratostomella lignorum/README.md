@@ -1,5 +1,4 @@
-Ceratostomella lignorum Wollenw. SPECIES
-=======
+# Ceratostomella lignorum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

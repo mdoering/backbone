@@ -1,5 +1,4 @@
-Cercospora artanthes Henn. SPECIES
-=======
+# Cercospora artanthes Henn. SPECIES
 
 #### Status
 ACCEPTED

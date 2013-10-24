@@ -1,5 +1,4 @@
-Hypochnicium cymosum (D.P. Rogers & H.S. Jacks.) K.H. Larss. & Hjortstam SPECIES
-=======
+# Hypochnicium cymosum (D.P. Rogers & H.S. Jacks.) K.H. Larss. & Hjortstam SPECIES
 
 #### Status
 ACCEPTED

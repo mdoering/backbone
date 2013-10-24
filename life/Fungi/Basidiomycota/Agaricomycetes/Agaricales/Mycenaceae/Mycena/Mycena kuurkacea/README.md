@@ -1,5 +1,4 @@
-Mycena kuurkacea Grgur. SPECIES
-=======
+# Mycena kuurkacea Grgur. SPECIES
 
 #### Status
 ACCEPTED

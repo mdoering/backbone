@@ -1,14 +1,13 @@
-Buellia pinastri Erichsen SPECIES
-=======
+# Chrismofulvea pinastri (Erichsen) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 156 (2000)
 
 #### Original name
 Buellia pinastri Erichsen

@@ -1,5 +1,4 @@
-Austrolecia antarctica Hertel SPECIES
-=======
+# Austrolecia antarctica Hertel SPECIES
 
 #### Status
 ACCEPTED

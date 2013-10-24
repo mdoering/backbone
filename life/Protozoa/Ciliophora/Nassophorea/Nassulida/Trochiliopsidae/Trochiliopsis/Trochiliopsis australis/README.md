@@ -1,5 +1,4 @@
-Trochiliopsis australis Foissner, Skogstad & Pratt, 1988 SPECIES
-=======
+# Trochiliopsis australis Foissner, Skogstad & Pratt, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolis parvula (Speg.) Speg. SPECIES
-=======
+# Propolis parvula (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

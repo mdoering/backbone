@@ -1,17 +1,16 @@
-Hirschioporus Donk, 1933 GENUS
-=======
+# Trichaptum Murrill, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 31(11): 608 (1904)
 
 #### Original name
-null
+Trichaptum Murrill, 1904
 
 ### Remarks
 null

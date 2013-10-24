@@ -1,5 +1,4 @@
-Mycovellosiella duplicans (Chupp) U. Braun, Crous & Alfenas SPECIES
-=======
+# Mycovellosiella duplicans (Chupp) U. Braun, Crous & Alfenas SPECIES
 
 #### Status
 ACCEPTED

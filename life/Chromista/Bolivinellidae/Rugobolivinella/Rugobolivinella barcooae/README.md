@@ -1,5 +1,4 @@
-Rugobolivinella barcooae Cann & Hayward, in Hayward, 1990 SPECIES
-=======
+# Rugobolivinella barcooae Cann & Hayward, in Hayward, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus neolundellii ined. SPECIES
-=======
+# Phellinus neolundellii ined. SPECIES
 
 #### Status
 ACCEPTED

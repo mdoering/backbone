@@ -1,5 +1,4 @@
-Lecanora lecanoricola (Alstrup, D. Hawksw. & R. Sant.) Rambold & Triebel SPECIES
-=======
+# Lecanora lecanoricola (Alstrup, D. Hawksw. & R. Sant.) Rambold & Triebel SPECIES
 
 #### Status
 ACCEPTED

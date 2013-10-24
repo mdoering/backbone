@@ -1,5 +1,4 @@
-Sulfurivirga caldicuralii Takai et al., 2006 SPECIES
-=======
+# Sulfurivirga caldicuralii Takai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

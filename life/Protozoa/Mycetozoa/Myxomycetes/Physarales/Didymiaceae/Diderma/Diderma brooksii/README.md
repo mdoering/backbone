@@ -1,5 +1,4 @@
-Diderma brooksii Kowalski, 1968 SPECIES
-=======
+# Diderma brooksii Kowalski, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllachora cenchricola Speg., 1909 SPECIES
-=======
+# Phyllachora sphaerosperma G. Winter, 1884 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

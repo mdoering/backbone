@@ -1,5 +1,4 @@
-Tricholoma rubicundum Peck SPECIES
-=======
+# Tricholoma rubicundum Peck SPECIES
 
 #### Status
 ACCEPTED

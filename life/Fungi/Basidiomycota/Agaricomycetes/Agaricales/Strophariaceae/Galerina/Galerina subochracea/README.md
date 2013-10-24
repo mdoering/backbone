@@ -1,5 +1,4 @@
-Galerina subochracea A.H. Sm., 1953 SPECIES
-=======
+# Galerina subochracea A.H. Sm., 1953 SPECIES
 
 #### Status
 ACCEPTED

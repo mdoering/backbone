@@ -1,5 +1,4 @@
-Trigonaspis diskoensis H.A. Thomsen SPECIES
-=======
+# Trigonaspis diskoensis H.A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

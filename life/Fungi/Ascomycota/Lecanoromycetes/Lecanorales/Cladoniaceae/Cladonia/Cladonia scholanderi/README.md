@@ -1,5 +1,4 @@
-Cladonia scholanderi Abbayes SPECIES
-=======
+# Cladonia scholanderi Abbayes SPECIES
 
 #### Status
 ACCEPTED

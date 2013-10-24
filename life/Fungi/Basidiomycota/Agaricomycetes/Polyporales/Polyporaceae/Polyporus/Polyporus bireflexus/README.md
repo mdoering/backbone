@@ -1,5 +1,4 @@
-Polyporus bireflexus Berk. & Broome ex Cooke SPECIES
-=======
+# Polyporus bireflexus Berk. & Broome ex Cooke SPECIES
 
 #### Status
 ACCEPTED

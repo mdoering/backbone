@@ -1,5 +1,4 @@
-Hypocrea ustulinoides Rick SPECIES
-=======
+# Hypocrea ustulinoides Rick SPECIES
 
 #### Status
 ACCEPTED

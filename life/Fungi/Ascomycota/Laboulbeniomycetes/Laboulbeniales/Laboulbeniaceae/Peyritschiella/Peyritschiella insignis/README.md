@@ -1,5 +1,4 @@
-Peyritschiella insignis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella insignis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

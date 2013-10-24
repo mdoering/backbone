@@ -1,5 +1,4 @@
-Tomentella tabacina f. tabacina FORM
-=======
+# Tomentella tabacina (Bres.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 21: 418 (1912)
 
 #### Original name
-Tomentella tabacina f. tabacina
+Hypochnus tabacinus Bres.
 
 ### Remarks
 null

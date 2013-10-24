@@ -1,5 +1,4 @@
-Aspergillus violaceobrunneus Samson & W. Gams SPECIES
-=======
+# Aspergillus violaceobrunneus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

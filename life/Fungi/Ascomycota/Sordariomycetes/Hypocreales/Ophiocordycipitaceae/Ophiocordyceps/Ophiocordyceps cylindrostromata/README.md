@@ -1,5 +1,4 @@
-Ophiocordyceps cylindrostromata (Z.Q. Liang, A.Y. Liu & M.H. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps cylindrostromata (Z.Q. Liang, A.Y. Liu & M.H. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

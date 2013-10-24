@@ -1,5 +1,4 @@
-Nyctotherus acuminatus SPECIES
-=======
+# Nyctotherus acuminatus SPECIES
 
 #### Status
 ACCEPTED

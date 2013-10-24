@@ -1,5 +1,4 @@
-Hypoxylon apoense Henn. SPECIES
-=======
+# Hypoxylon apoense Henn. SPECIES
 
 #### Status
 ACCEPTED

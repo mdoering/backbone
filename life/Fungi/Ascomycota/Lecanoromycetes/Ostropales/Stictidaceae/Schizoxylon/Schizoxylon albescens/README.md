@@ -1,5 +1,4 @@
-Schizoxylon albescens Gilenstam, Döring & Wedin SPECIES
-=======
+# Schizoxylon albescens Gilenstam, Döring & Wedin SPECIES
 
 #### Status
 ACCEPTED

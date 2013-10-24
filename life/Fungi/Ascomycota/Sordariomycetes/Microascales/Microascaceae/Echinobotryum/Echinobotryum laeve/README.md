@@ -1,5 +1,4 @@
-Echinobotryum laeve Sacc. SPECIES
-=======
+# Echinobotryum laeve Sacc. SPECIES
 
 #### Status
 ACCEPTED

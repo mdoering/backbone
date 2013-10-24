@@ -1,5 +1,4 @@
-Thalassiosira makarovae V. V. Mukhina SPECIES
-=======
+# Thalassiosira makarovae V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crystallocystidium luteolividum Rick SPECIES
-=======
+# Crystallocystidium luteolividum Rick SPECIES
 
 #### Status
 ACCEPTED

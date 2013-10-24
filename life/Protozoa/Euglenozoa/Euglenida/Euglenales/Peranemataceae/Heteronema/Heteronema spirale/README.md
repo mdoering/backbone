@@ -1,5 +1,4 @@
-Heteronema spirale Klebs, 1893 SPECIES
-=======
+# Heteronema spirale Klebs, 1893 SPECIES
 
 #### Status
 ACCEPTED

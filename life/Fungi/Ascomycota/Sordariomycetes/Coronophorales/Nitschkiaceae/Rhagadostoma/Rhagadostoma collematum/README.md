@@ -1,5 +1,4 @@
-Rhagadostoma collematum Etayo & Nav.-Ros. SPECIES
-=======
+# Rhagadostoma collematum Etayo & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

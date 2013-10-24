@@ -1,5 +1,4 @@
-Hypospilina oharana (Y. Nisik. & H. Matsumoto) Katum. & Y. Harada SPECIES
-=======
+# Hypospilina oharana (Y. Nisik. & H. Matsumoto) Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces adenostylis E. Fisch. SPECIES
-=======
+# Uromyces adenostylis E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

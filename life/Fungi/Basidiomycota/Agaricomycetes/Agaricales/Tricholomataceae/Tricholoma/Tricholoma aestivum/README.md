@@ -1,5 +1,4 @@
-Tricholoma aestivum Velen. SPECIES
-=======
+# Tricholoma aestivum Velen. SPECIES
 
 #### Status
 ACCEPTED

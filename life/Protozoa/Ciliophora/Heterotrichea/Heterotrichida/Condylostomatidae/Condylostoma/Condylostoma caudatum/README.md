@@ -1,8 +1,7 @@
-Condylostoma caudata SPECIES
-=======
+# Condylostoma caudatum Lauterborn, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

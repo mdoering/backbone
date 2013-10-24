@@ -1,5 +1,4 @@
-Streptococcus entericus Vela et al., 2002 SPECIES
-=======
+# Streptococcus entericus Vela et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

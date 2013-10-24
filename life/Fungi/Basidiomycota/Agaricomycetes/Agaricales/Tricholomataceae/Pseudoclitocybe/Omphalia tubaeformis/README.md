@@ -1,5 +1,4 @@
-Omphalia tubaeformis Peck SPECIES
-=======
+# Omphalia tubaeformis Peck SPECIES
 
 #### Status
 ACCEPTED

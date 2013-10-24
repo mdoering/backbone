@@ -1,8 +1,7 @@
-Geaster glaber Lloyd SPECIES
-=======
+# Geastrum glaber Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster glaber Lloyd
+Geastrum glaber Lloyd
 
 ### Remarks
 null

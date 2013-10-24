@@ -1,5 +1,4 @@
-Miaplacidus M.A. Fombella, 1978 GENUS
-=======
+# Miaplacidus M.A. Fombella, 1978 GENUS
 
 #### Status
 ACCEPTED

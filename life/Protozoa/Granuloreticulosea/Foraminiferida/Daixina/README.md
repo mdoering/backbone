@@ -1,5 +1,4 @@
-Daixina Rozovskaya, 1949 GENUS
-=======
+# Daixina Rozovskaya, 1949 GENUS
 
 #### Status
 ACCEPTED

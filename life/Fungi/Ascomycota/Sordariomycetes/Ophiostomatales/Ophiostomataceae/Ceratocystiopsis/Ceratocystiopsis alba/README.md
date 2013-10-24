@@ -1,14 +1,13 @@
-Ceratocystis alba DeVay, R.W. Davidson & W.J. Moller, 1968 SPECIES
-=======
+# Ceratocystiopsis alba (DeVay, R.W. Davidson & W.J. Moller) H.P. Upadhyay, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 60(3): 636 (1968)
+Monograph of Ceratocystis and Ceratocystopsis 120 (1981)
 
 #### Original name
 Ceratocystis alba DeVay, R.W. Davidson & W.J. Moller, 1968

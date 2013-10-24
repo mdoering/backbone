@@ -1,5 +1,4 @@
-Phyllosticta kuromoji Miura SPECIES
-=======
+# Phyllosticta kuromoji Miura SPECIES
 
 #### Status
 ACCEPTED

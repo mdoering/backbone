@@ -1,5 +1,4 @@
-Caeomurus aureus (Dietel & Holw.) Kuntze SPECIES
-=======
+# Caeomurus aureus (Dietel & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

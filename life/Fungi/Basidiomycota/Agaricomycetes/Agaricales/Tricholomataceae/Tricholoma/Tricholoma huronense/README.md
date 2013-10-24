@@ -1,5 +1,4 @@
-Tricholoma huronense A.H. Sm. SPECIES
-=======
+# Tricholoma huronense A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

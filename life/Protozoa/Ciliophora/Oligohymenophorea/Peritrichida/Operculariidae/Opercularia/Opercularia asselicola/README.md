@@ -1,5 +1,4 @@
-Opercularia asselicola SPECIES
-=======
+# Opercularia asselicola SPECIES
 
 #### Status
 ACCEPTED

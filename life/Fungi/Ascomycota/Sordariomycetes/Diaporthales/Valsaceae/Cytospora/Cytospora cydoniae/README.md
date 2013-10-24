@@ -1,5 +1,4 @@
-Cytospora cydoniae Schulzer SPECIES
-=======
+# Cytospora cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epichloë yangzii Wei Li & Zhi Wei Wang SPECIES
-=======
+# Epichloë yangzii Wei Li & Zhi Wei Wang SPECIES
 
 #### Status
 ACCEPTED

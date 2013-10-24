@@ -1,5 +1,4 @@
-Rutstroemia leporina Ade SPECIES
-=======
+# Rutstroemia leporina Ade SPECIES
 
 #### Status
 ACCEPTED

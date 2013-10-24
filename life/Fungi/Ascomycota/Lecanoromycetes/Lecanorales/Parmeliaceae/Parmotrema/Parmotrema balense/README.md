@@ -1,5 +1,4 @@
-Parmotrema balense (Winnem) Hale SPECIES
-=======
+# Parmotrema balense (Winnem) Hale SPECIES
 
 #### Status
 ACCEPTED

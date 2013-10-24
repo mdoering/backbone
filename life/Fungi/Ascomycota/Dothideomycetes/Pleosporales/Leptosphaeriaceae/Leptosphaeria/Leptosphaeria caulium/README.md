@@ -1,5 +1,4 @@
-Leptosphaeria caulium Sacc. SPECIES
-=======
+# Leptosphaeria caulium Sacc. SPECIES
 
 #### Status
 ACCEPTED

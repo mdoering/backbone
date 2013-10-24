@@ -1,5 +1,4 @@
-Dicaeoma tinctorium (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma tinctorium (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

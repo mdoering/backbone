@@ -1,5 +1,4 @@
-Lecanora vulcanorum Zahlbr. SPECIES
-=======
+# Lecanora vulcanorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

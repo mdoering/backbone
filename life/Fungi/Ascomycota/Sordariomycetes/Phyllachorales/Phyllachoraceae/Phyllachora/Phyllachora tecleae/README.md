@@ -1,5 +1,4 @@
-Phyllachora tecleae Doidge, 1922 SPECIES
-=======
+# Phyllachora tecleae Doidge, 1922 SPECIES
 
 #### Status
 ACCEPTED

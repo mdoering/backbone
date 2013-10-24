@@ -1,5 +1,4 @@
-Vibrio diabolicus Raguénès et al., 1997 SPECIES
-=======
+# Vibrio diabolicus Raguénès et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lulworthia conica T.W. Johnson SPECIES
-=======
+# Lulworthia conica T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

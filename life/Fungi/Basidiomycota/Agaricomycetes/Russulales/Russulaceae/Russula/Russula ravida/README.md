@@ -1,5 +1,4 @@
-Russula ravida Fr. SPECIES
-=======
+# Russula ravida Fr. SPECIES
 
 #### Status
 ACCEPTED

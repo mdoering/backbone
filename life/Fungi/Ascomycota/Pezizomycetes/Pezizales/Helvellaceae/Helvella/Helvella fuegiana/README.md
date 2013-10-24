@@ -1,5 +1,4 @@
-Helvella fuegiana (Speg.) Eckblad SPECIES
-=======
+# Helvella fuegiana (Speg.) Eckblad SPECIES
 
 #### Status
 ACCEPTED

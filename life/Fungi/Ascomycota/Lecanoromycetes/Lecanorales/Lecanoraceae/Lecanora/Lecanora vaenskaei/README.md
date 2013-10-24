@@ -1,5 +1,4 @@
-Lecanora vaenskaei Cl. Roux & C. Coste SPECIES
-=======
+# Lecanora vaenskaei Cl. Roux & C. Coste SPECIES
 
 #### Status
 ACCEPTED

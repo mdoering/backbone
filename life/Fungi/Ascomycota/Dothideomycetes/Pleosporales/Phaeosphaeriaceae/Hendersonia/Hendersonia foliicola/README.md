@@ -1,5 +1,4 @@
-Hendersonia foliicola SPECIES
-=======
+# Hendersonia foliicola SPECIES
 
 #### Status
 ACCEPTED

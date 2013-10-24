@@ -1,5 +1,4 @@
-Erioscypha subcorticalis (Pat.) Kirschst. SPECIES
-=======
+# Erioscypha subcorticalis (Pat.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

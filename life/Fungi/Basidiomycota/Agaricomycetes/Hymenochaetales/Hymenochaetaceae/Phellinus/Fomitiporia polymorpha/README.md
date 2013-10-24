@@ -1,5 +1,4 @@
-Fomitiporia polymorpha M. Fisch. SPECIES
-=======
+# Fomitiporia polymorpha M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

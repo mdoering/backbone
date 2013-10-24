@@ -1,14 +1,13 @@
-Auerswaldia hirtellae Henn., 1908 SPECIES
-=======
+# Pseudothiella hirtellae (Henn.) Petr., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 47: 268 (1908)
+Hedwigia 68(5): 257 (1928)
 
 #### Original name
 Auerswaldia hirtellae Henn., 1908

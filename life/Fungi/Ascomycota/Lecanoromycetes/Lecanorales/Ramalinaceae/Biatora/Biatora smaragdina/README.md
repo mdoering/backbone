@@ -1,5 +1,4 @@
-Biatora smaragdina Arnold SPECIES
-=======
+# Biatora smaragdina Arnold SPECIES
 
 #### Status
 ACCEPTED

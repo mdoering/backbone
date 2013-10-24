@@ -1,5 +1,4 @@
-Endomyces wichmannii (Zikes) Zender SPECIES
-=======
+# Endomyces wichmannii (Zikes) Zender SPECIES
 
 #### Status
 ACCEPTED

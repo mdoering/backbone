@@ -1,5 +1,4 @@
-Pseudocercospora anthocephali (Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora anthocephali (Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

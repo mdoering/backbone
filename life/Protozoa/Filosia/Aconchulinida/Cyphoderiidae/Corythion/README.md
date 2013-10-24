@@ -1,5 +1,4 @@
-Corythion Taránek, 1882 GENUS
-=======
+# Corythion Taránek, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia pleurothallis Dearn. & House SPECIES
-=======
+# Guignardia pleurothallis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

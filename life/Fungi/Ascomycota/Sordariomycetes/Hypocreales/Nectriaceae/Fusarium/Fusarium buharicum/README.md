@@ -1,5 +1,4 @@
-Fusarium buharicum Jacz. ex Babajan & D.N. Babajan, 1929 SPECIES
-=======
+# Fusarium buharicum Jacz. ex Babajan & D.N. Babajan, 1929 SPECIES
 
 #### Status
 ACCEPTED

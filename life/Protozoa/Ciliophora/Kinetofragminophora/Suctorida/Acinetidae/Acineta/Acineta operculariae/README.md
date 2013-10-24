@@ -1,5 +1,4 @@
-Acineta operculariae Stein, 1859 SPECIES
-=======
+# Acineta operculariae Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

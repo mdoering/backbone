@@ -1,5 +1,4 @@
-Meliola heveae Vincens SPECIES
-=======
+# Meliola heveae Vincens SPECIES
 
 #### Status
 ACCEPTED

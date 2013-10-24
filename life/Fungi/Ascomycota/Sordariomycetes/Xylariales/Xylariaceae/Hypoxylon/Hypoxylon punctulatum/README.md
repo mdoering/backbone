@@ -1,5 +1,4 @@
-Hypoxylon punctulatum Berk. & Broome SPECIES
-=======
+# Hypoxylon punctulatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

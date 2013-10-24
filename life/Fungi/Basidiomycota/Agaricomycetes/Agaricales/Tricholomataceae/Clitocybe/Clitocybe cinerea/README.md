@@ -1,5 +1,4 @@
-Clitocybe cinerea Velen. SPECIES
-=======
+# Clitocybe cinerea Velen. SPECIES
 
 #### Status
 ACCEPTED

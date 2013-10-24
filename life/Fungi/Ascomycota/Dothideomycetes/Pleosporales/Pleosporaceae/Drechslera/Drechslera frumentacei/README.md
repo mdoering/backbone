@@ -1,5 +1,4 @@
-Drechslera frumentacei (Mitra) M.B. Ellis SPECIES
-=======
+# Drechslera frumentacei (Mitra) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paradiscocephalus elongatus Li, Shao, Yi, Song, Warren, Al-Rasheid, Al-Farraj, Al-Quraishy, Zhang, Hu, Zhu & Ma, 2009 SPECIES
-=======
+# Paradiscocephalus elongatus Li, Shao, Yi, Song, Warren, Al-Rasheid, Al-Farraj, Al-Quraishy, Zhang, Hu, Zhu & Ma, 2009 SPECIES
 
 #### Status
 ACCEPTED

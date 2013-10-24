@@ -1,5 +1,4 @@
-Colletotrichum concentricum Massee SPECIES
-=======
+# Colletotrichum concentricum Massee SPECIES
 
 #### Status
 ACCEPTED

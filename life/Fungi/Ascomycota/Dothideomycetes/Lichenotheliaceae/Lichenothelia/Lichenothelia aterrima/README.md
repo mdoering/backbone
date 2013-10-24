@@ -1,5 +1,4 @@
-Lichenothelia aterrima (Kremp. ex Anzi) D. Hawksw. SPECIES
-=======
+# Lichenothelia aterrima (Kremp. ex Anzi) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

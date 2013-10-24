@@ -1,14 +1,13 @@
-Buellia saltensis H. Magn. SPECIES
-=======
+# Cratiria saltensis (H. Magn.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 198 (2000)
 
 #### Original name
 Buellia saltensis H. Magn.

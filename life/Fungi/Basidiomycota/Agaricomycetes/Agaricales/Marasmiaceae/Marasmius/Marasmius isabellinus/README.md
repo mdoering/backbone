@@ -1,5 +1,4 @@
-Marasmius isabellinus Pat. SPECIES
-=======
+# Marasmius isabellinus Pat. SPECIES
 
 #### Status
 ACCEPTED

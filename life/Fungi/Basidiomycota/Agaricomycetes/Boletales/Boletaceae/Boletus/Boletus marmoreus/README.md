@@ -1,5 +1,4 @@
-Boletus marmoreus Rocq. {?} SPECIES
-=======
+# Boletus marmoreus Rocq. {?} SPECIES
 
 #### Status
 ACCEPTED

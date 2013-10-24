@@ -1,5 +1,4 @@
-Verrucaria intrusa Nyl. SPECIES
-=======
+# Verrucaria intrusa Nyl. SPECIES
 
 #### Status
 ACCEPTED

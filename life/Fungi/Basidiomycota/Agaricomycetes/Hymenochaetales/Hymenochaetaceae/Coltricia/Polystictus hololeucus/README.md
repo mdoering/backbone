@@ -1,5 +1,4 @@
-Polystictus hololeucus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus hololeucus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

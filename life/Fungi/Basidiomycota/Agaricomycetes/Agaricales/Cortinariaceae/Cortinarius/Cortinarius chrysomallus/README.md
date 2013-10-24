@@ -1,17 +1,16 @@
-Cortinarius chrysomallus var. odoratus Jamoni & Bon VARIETY
-=======
+# Cortinarius chrysomallus Lamoure, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 38(2 Suppl. ): 63 (1995)
+Trav. Sci. Parc. Natl. Vanoise 8: 135 (1977)
 
 #### Original name
-Cortinarius chrysomallus var. odoratus Jamoni & Bon
+Cortinarius chrysomallus Lamoure, 1977
 
 ### Remarks
 null

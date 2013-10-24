@@ -1,5 +1,4 @@
-Lethariopsis GENUS
-=======
+# Lethariopsis GENUS
 
 #### Status
 ACCEPTED

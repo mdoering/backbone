@@ -1,5 +1,4 @@
-Pleospora pyrenophoroides Sacc. SPECIES
-=======
+# Pleospora pyrenophoroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

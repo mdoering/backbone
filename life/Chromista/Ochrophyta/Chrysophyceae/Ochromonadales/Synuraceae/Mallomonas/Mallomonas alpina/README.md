@@ -1,5 +1,4 @@
-Mallomonas alpina Ruttner SPECIES
-=======
+# Mallomonas alpina Ruttner SPECIES
 
 #### Status
 ACCEPTED

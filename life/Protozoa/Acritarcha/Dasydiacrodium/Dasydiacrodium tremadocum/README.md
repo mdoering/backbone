@@ -1,5 +1,4 @@
-Dasydiacrodium tremadocum (Górka, 1967) emend. Tongiorgi in Bagnoli et al., 1988 SPECIES
-=======
+# Dasydiacrodium tremadocum (Górka, 1967) emend. Tongiorgi in Bagnoli et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

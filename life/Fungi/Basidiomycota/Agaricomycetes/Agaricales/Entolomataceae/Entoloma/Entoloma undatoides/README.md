@@ -1,5 +1,4 @@
-Entoloma undatoides Arnolds SPECIES
-=======
+# Entoloma undatoides Arnolds SPECIES
 
 #### Status
 ACCEPTED

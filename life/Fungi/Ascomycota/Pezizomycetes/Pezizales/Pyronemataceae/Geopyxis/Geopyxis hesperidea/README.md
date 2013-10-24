@@ -1,5 +1,4 @@
-Geopyxis hesperidea (Peck & Cooke) Sacc. SPECIES
-=======
+# Geopyxis hesperidea (Peck & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

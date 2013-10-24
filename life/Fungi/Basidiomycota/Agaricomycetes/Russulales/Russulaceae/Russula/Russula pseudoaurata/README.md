@@ -1,5 +1,4 @@
-Russula pseudoaurata Jul. Schäff. SPECIES
-=======
+# Russula pseudoaurata Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

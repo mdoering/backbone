@@ -1,5 +1,4 @@
-Daillydium pentaster (Staplin, 1961) emend. Playford in Playford & Dring, 1981 SPECIES
-=======
+# Daillydium pentaster (Staplin, 1961) emend. Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes focalis (Kalchbr.) Sacc. SPECIES
-=======
+# Fomes focalis (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

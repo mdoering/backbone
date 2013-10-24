@@ -1,5 +1,4 @@
-Scolicosporium minkeviciusii Treigiene SPECIES
-=======
+# Scolicosporium minkeviciusii Treigiene SPECIES
 
 #### Status
 ACCEPTED

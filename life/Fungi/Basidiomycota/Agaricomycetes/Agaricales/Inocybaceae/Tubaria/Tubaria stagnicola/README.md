@@ -1,5 +1,4 @@
-Tubaria stagnicola (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Tubaria stagnicola (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

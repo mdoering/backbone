@@ -1,5 +1,4 @@
-Eponides minima Cushman, 1933 SPECIES
-=======
+# Eponides minima Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phacidium kumaonense S.K. Bose & E. Müll., 1964 SPECIES
-=======
+# Pseudophacidium kumaonense (S.K. Bose & E. Müll.) DiCosmo, Nag Raj & W.B. Kendr., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 17: 20 (1964)
+Can. J. Bot. 61(1): 44 (1983)
 
 #### Original name
 Phacidium kumaonense S.K. Bose & E. Müll., 1964

@@ -1,5 +1,4 @@
-Phyllachora himalayana (Padwick) Kamat, Seshadri & A. Pande, 1978 SPECIES
-=======
+# Phyllachora himalayana (Padwick) Kamat, Seshadri & A. Pande, 1978 SPECIES
 
 #### Status
 DOUBTFUL

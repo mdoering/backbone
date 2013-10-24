@@ -1,5 +1,4 @@
-Peridinium decens E. Balech SPECIES
-=======
+# Peridinium decens E. Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystoseira hyblaea Giaccone SPECIES
-=======
+# Cystoseira hyblaea Giaccone SPECIES
 
 #### Status
 ACCEPTED

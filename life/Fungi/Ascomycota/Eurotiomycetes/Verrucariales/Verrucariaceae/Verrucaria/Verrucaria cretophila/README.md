@@ -1,5 +1,4 @@
-Verrucaria cretophila Oxner SPECIES
-=======
+# Verrucaria cretophila Oxner SPECIES
 
 #### Status
 ACCEPTED

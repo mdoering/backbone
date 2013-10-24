@@ -1,5 +1,4 @@
-Conicorbitolina GENUS
-=======
+# Conicorbitolina GENUS
 
 #### Status
 ACCEPTED

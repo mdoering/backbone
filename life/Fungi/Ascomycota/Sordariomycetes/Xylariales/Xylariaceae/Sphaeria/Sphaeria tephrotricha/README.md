@@ -1,5 +1,4 @@
-Sphaeria tephrotricha Fr. SPECIES
-=======
+# Sphaeria tephrotricha Fr. SPECIES
 
 #### Status
 ACCEPTED

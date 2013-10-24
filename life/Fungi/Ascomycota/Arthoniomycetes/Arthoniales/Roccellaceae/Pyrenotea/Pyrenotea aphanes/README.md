@@ -1,5 +1,4 @@
-Pyrenotea aphanes (Borrer) Leight. SPECIES
-=======
+# Pyrenotea aphanes (Borrer) Leight. SPECIES
 
 #### Status
 ACCEPTED

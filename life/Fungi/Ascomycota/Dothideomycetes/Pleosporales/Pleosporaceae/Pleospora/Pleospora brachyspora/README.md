@@ -1,14 +1,13 @@
-Pleospora phaeospora var. brachyspora Niessl VARIETY
-=======
+# Pleospora brachyspora (Niessl) Petr., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annln naturh. Mus. Wien 1: 445 (1940)
 
 #### Original name
 Pleospora phaeospora var. brachyspora Niessl

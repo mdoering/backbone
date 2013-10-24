@@ -1,5 +1,4 @@
-Pythium terrestris B. Paul SPECIES
-=======
+# Pythium terrestris B. Paul SPECIES
 
 #### Status
 ACCEPTED

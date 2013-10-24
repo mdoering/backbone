@@ -1,5 +1,4 @@
-Dicoccum cupaniae Syd. SPECIES
-=======
+# Dicoccum cupaniae Syd. SPECIES
 
 #### Status
 ACCEPTED

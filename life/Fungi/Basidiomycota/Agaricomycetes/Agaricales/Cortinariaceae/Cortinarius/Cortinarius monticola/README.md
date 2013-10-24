@@ -1,14 +1,13 @@
-Cortinarius monticolus (Rob. Henry) Rob. Henry SPECIES
-=======
+# Cortinarius monticola (Rob. Henry) Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 105(2): 134 (1989)
 
 #### Original name
 Phlegmacium monticola Velen.

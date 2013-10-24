@@ -1,5 +1,4 @@
-Metasphaeria lauretana Curzi & Barbaini SPECIES
-=======
+# Metasphaeria lauretana Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

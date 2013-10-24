@@ -1,5 +1,4 @@
-Hypocrea straminea P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea straminea P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

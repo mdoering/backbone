@@ -1,5 +1,4 @@
-Collema novomexicanum B. de Lesd. SPECIES
-=======
+# Collema novomexicanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

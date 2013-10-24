@@ -1,5 +1,4 @@
-Sclerotium pruni Opiz SPECIES
-=======
+# Sclerotium pruni Opiz SPECIES
 
 #### Status
 ACCEPTED

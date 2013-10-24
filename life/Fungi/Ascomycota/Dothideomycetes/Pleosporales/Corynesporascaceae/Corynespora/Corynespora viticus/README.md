@@ -1,5 +1,4 @@
-Corynespora viticus Y.L. Guo SPECIES
-=======
+# Corynespora viticus Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

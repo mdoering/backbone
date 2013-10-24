@@ -1,5 +1,4 @@
-Inocybe rubens (R. Heim) Huijsman SPECIES
-=======
+# Inocybe rubens (R. Heim) Huijsman SPECIES
 
 #### Status
 ACCEPTED

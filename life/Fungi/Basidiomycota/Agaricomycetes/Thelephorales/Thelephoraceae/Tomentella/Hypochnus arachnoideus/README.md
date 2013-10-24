@@ -1,5 +1,4 @@
-Hypochnus arachnoideus SPECIES
-=======
+# Hypochnus arachnoideus SPECIES
 
 #### Status
 ACCEPTED

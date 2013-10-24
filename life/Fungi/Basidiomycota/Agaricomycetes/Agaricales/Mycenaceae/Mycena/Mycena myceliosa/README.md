@@ -1,5 +1,4 @@
-Mycena myceliosa Murrill SPECIES
-=======
+# Mycena myceliosa Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora calathiformis Fuckel SPECIES
-=======
+# Ceuthospora calathiformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

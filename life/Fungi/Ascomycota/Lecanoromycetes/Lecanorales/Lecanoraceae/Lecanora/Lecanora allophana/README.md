@@ -1,5 +1,4 @@
-Lecanora allophana f. allophana FORM
-=======
+# Lecanora allophana (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 55: 250 (1872)
 
 #### Original name
-Lecanora allophana f. allophana
+null
 
 ### Remarks
 null

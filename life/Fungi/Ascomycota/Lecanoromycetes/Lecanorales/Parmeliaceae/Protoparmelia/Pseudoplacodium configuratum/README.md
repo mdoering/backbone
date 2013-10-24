@@ -1,5 +1,4 @@
-Pseudoplacodium configuratum (Nyl.) Motyka SPECIES
-=======
+# Pseudoplacodium configuratum (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

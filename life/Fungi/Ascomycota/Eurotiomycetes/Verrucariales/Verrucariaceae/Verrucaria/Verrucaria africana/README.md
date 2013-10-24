@@ -1,5 +1,4 @@
-Verrucaria africana Stizenb. SPECIES
-=======
+# Verrucaria africana Stizenb. SPECIES
 
 #### Status
 ACCEPTED

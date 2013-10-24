@@ -1,5 +1,4 @@
-Sporidesmium pruni Jian Ma & X.G. Zhang SPECIES
-=======
+# Sporidesmium pruni Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

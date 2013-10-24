@@ -1,5 +1,4 @@
-Cortinarius compressus A.H. Sm. SPECIES
-=======
+# Cortinarius compressus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

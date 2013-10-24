@@ -1,11 +1,10 @@
-Lyngbya limnetica subsp. limnetica SUBSPECIES
-=======
+# Planktolyngbya subtilis (G.S. West) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

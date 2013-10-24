@@ -1,5 +1,4 @@
-Spragueola mucida Rodway SPECIES
-=======
+# Spragueola mucida Rodway SPECIES
 
 #### Status
 ACCEPTED

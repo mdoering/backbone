@@ -1,5 +1,4 @@
-Puccinia trientalis (Tranzschel) House SPECIES
-=======
+# Puccinia trientalis (Tranzschel) House SPECIES
 
 #### Status
 ACCEPTED

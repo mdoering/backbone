@@ -1,5 +1,4 @@
-Lecidea posthabita Nyl. SPECIES
-=======
+# Lecidea posthabita Nyl. SPECIES
 
 #### Status
 ACCEPTED

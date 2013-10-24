@@ -1,5 +1,4 @@
-Oidium spilanthedis V.K. Pal, Akhtar, Kamal & N. Ahmad SPECIES
-=======
+# Oidium spilanthedis V.K. Pal, Akhtar, Kamal & N. Ahmad SPECIES
 
 #### Status
 ACCEPTED

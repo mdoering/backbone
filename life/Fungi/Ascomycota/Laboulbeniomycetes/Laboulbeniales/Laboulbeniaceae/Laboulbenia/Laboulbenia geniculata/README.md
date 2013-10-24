@@ -1,5 +1,4 @@
-Laboulbenia geniculata Thaxt. SPECIES
-=======
+# Laboulbenia geniculata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

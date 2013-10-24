@@ -1,5 +1,4 @@
-Helotium trapezoideum Velen. SPECIES
-=======
+# Helotium trapezoideum Velen. SPECIES
 
 #### Status
 ACCEPTED

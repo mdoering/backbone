@@ -1,5 +1,4 @@
-Ochromonas ostreaeformis Swale & J.H. Belcher SPECIES
-=======
+# Ochromonas ostreaeformis Swale & J.H. Belcher SPECIES
 
 #### Status
 ACCEPTED

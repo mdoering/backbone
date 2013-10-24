@@ -1,5 +1,4 @@
-Uredo crotonicola Henn. SPECIES
-=======
+# Uredo crotonicola Henn. SPECIES
 
 #### Status
 ACCEPTED

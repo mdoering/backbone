@@ -1,5 +1,4 @@
-Stenella extremorum (Syd.) U. Braun SPECIES
-=======
+# Stenella extremorum (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

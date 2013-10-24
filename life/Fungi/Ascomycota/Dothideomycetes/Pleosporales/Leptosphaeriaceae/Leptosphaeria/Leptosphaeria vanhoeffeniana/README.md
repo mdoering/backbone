@@ -1,5 +1,4 @@
-Leptosphaeria vanhoeffeniana Allesch. SPECIES
-=======
+# Leptosphaeria vanhoeffeniana Allesch. SPECIES
 
 #### Status
 ACCEPTED

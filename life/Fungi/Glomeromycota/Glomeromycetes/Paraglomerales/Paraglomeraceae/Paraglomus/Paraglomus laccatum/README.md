@@ -1,14 +1,13 @@
-Glomus laccatum Blaszk., 1988 SPECIES
-=======
+# Paraglomus laccatum (Blaszk.) Renker, Blaszk. & Buscot, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Polish Academy of Sciences, Biological Sciences 36(10-12): 271 (1988)
+Nova Hedwigia 84(3-4): 400 (2007)
 
 #### Original name
 Glomus laccatum Blaszk., 1988

@@ -1,8 +1,7 @@
-Angulogerina fijiensis Cushman, 1931 SPECIES
-=======
+# Trifarina fijiensis (Cushman, 1931) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

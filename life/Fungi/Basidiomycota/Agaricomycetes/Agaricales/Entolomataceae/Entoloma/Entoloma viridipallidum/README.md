@@ -1,5 +1,4 @@
-Entoloma viridipallidum Hesler SPECIES
-=======
+# Entoloma viridipallidum Hesler SPECIES
 
 #### Status
 ACCEPTED

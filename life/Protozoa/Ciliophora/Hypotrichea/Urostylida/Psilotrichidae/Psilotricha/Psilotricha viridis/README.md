@@ -1,5 +1,4 @@
-Psilotricha viridis (Penard, 1922) Kahl, 1932 SPECIES
-=======
+# Psilotricha viridis (Penard, 1922) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

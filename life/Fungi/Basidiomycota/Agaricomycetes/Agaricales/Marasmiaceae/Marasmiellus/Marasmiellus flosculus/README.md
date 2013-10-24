@@ -1,5 +1,4 @@
-Marasmiellus flosculus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus flosculus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete rhabarbarina (Berk.) Cooke, 1880 SPECIES
-=======
+# Hymenochaete rhabarbarina (Berk.) Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED

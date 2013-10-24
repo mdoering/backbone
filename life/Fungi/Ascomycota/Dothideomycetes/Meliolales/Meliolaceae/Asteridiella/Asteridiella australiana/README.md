@@ -1,5 +1,4 @@
-Asteridiella australiana (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella australiana (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

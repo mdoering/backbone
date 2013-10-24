@@ -1,5 +1,4 @@
-Scutellinia bifurcata Gamundí SPECIES
-=======
+# Scutellinia bifurcata Gamundí SPECIES
 
 #### Status
 ACCEPTED

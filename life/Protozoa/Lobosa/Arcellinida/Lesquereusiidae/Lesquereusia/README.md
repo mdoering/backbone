@@ -1,11 +1,10 @@
-Lecqereusia Schlumberger, 1845 GENUS
-=======
+# Lesquereusia Schlumberger, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
 null

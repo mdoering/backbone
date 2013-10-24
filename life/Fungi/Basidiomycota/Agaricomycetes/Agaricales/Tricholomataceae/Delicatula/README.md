@@ -1,17 +1,16 @@
-Retocybe Velen. GENUS
-=======
+# Delicatula Fayod, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Novit. Mycol. Nov. , (Op. Bot. Cech. ) 33 (1947)
+null
 
 #### Original name
-Retocybe Velen.
+null
 
 ### Remarks
 null

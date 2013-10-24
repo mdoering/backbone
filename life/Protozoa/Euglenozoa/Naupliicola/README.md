@@ -1,5 +1,4 @@
-Naupliicola Michajlow, 1965 GENUS
-=======
+# Naupliicola Michajlow, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karstenia pinophila Britzelm. SPECIES
-=======
+# Karstenia pinophila Britzelm. SPECIES
 
 #### Status
 ACCEPTED

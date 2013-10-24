@@ -1,5 +1,4 @@
-Mycosphaerella pteridicola Dearn. & House SPECIES
-=======
+# Mycosphaerella pteridicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

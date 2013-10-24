@@ -1,5 +1,4 @@
-Agaricus fulvosus Bolton SPECIES
-=======
+# Agaricus fulvosus Bolton SPECIES
 
 #### Status
 ACCEPTED

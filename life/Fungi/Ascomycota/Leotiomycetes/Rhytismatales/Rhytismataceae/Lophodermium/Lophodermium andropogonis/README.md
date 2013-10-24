@@ -1,5 +1,4 @@
-Lophodermium andropogonis Tehon SPECIES
-=======
+# Lophodermium andropogonis Tehon SPECIES
 
 #### Status
 ACCEPTED

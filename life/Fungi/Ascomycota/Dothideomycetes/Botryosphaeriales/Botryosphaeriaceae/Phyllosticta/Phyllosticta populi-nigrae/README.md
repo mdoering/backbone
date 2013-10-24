@@ -1,5 +1,4 @@
-Phyllosticta populi-nigrae (Allesch.) Allesch. SPECIES
-=======
+# Phyllosticta populi-nigrae (Allesch.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

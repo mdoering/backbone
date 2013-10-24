@@ -1,5 +1,4 @@
-Phaeoisaria curvata de Hoog & Papendorf, 1976 SPECIES
-=======
+# Phaeoisaria curvata de Hoog & Papendorf, 1976 SPECIES
 
 #### Status
 ACCEPTED

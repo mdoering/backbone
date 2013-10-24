@@ -1,14 +1,13 @@
-Helotium stellariae Velen., 1947 SPECIES
-=======
+# Lanzia stellariae (Velen.) Spooner, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae Novissimae 123 (1947)
+Trans. Br. mycol. Soc. 76(2): 285 (1981)
 
 #### Original name
 Helotium stellariae Velen., 1947

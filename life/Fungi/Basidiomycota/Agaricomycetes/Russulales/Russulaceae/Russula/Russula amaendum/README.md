@@ -1,5 +1,4 @@
-Russula amaendum Sillitoe SPECIES
-=======
+# Russula amaendum Sillitoe SPECIES
 
 #### Status
 ACCEPTED

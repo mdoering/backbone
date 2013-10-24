@@ -1,14 +1,13 @@
-Pestalotia virgatula Kleb., 1914 SPECIES
-=======
+# Pestalotiopsis virgatula (Kleb.) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 14: 336 (1949)
 
 #### Original name
 Pestalotia virgatula Kleb., 1914

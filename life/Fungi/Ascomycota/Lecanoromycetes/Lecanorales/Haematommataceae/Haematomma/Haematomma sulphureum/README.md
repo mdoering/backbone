@@ -1,5 +1,4 @@
-Haematomma sulphureum (Müll. Arg.) Kalb & Staiger SPECIES
-=======
+# Haematomma sulphureum (Müll. Arg.) Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

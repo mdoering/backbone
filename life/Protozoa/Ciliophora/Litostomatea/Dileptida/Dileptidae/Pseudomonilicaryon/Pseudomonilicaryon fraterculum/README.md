@@ -1,5 +1,4 @@
-Pseudomonilicaryon fraterculum Vdacny & Foissner, 2011 SPECIES
-=======
+# Pseudomonilicaryon fraterculum Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

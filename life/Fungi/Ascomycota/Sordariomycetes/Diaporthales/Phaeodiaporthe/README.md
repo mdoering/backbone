@@ -1,5 +1,4 @@
-Phaeodiaporthe GENUS
-=======
+# Phaeodiaporthe GENUS
 
 #### Status
 ACCEPTED

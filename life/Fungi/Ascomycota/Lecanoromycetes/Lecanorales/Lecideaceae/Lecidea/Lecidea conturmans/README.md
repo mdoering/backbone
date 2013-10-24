@@ -1,5 +1,4 @@
-Lecidea conturmans Nyl. SPECIES
-=======
+# Lecidea conturmans Nyl. SPECIES
 
 #### Status
 ACCEPTED

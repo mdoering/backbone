@@ -1,5 +1,4 @@
-Foveofusa attenuata Lele & Chandra, 1972 SPECIES
-=======
+# Foveofusa attenuata Lele & Chandra, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria periniana Sacc. & Cub. SPECIES
-=======
+# Naucoria periniana Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

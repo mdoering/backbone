@@ -1,5 +1,4 @@
-Colletotrichum valerianae Kwashn. SPECIES
-=======
+# Colletotrichum valerianae Kwashn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus heliocaes Berk. & Broome SPECIES
-=======
+# Agaricus heliocaes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

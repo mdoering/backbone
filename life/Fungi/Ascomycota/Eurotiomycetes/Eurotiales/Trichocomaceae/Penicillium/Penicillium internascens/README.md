@@ -1,5 +1,4 @@
-Penicillium internascens Svilv. SPECIES
-=======
+# Penicillium internascens Svilv. SPECIES
 
 #### Status
 ACCEPTED

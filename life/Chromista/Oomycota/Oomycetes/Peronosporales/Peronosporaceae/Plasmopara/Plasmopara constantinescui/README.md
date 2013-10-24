@@ -1,14 +1,13 @@
-Bremiella sphaerosperma Constant., 1991 SPECIES
-=======
+# Plasmopara constantinescui Voglmayr & Thines, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 83(4): 473 (1991)
+Mycotaxon 100: 18 (2007)
 
 #### Original name
 Bremiella sphaerosperma Constant., 1991

@@ -1,5 +1,4 @@
-Agaricus argillosus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus argillosus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

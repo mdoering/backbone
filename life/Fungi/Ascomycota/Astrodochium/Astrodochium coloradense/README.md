@@ -1,14 +1,13 @@
-Discula coloradensis (Ellis & Everh.) Carris SPECIES
-=======
+# Astrodochium coloradense Ellis & Everh., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 47(2): 156 (1995)
+Am. Midl. Nat. 31: (1897)
 
 #### Original name
 Astrodochium coloradense Ellis & Everh., 1897

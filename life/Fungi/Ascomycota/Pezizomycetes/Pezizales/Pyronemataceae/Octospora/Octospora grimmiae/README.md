@@ -1,5 +1,4 @@
-Octospora grimmiae Dennis & Itzerott SPECIES
-=======
+# Octospora grimmiae Dennis & Itzerott SPECIES
 
 #### Status
 ACCEPTED

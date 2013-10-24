@@ -1,5 +1,4 @@
-Odontotrema lecanorae Diederich & G. Marson SPECIES
-=======
+# Odontotrema lecanorae Diederich & G. Marson SPECIES
 
 #### Status
 ACCEPTED

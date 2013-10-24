@@ -1,14 +1,13 @@
-Lachnella mutabilis (Berk. & Broome) Quél., 1880 SPECIES
-=======
+# Mollisia mutabilis (Berk. & Broome) Massee, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus flora 4: 496 (1895)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Schizostoma vicinum Sacc. SPECIES
-=======
+# Schizostoma vicinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

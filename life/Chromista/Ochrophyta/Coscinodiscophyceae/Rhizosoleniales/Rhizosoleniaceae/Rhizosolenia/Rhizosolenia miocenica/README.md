@@ -1,5 +1,4 @@
-Rhizosolenia miocenica H.J. Schrader SPECIES
-=======
+# Rhizosolenia miocenica H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

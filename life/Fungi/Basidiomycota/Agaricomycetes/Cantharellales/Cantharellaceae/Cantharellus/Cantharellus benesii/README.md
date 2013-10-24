@@ -1,5 +1,4 @@
-Cantharellus benesii Velen. & Pilát SPECIES
-=======
+# Cantharellus benesii Velen. & Pilát SPECIES
 
 #### Status
 ACCEPTED

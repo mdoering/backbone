@@ -1,5 +1,4 @@
-Arthonia recedens Stirt. SPECIES
-=======
+# Arthonia recedens Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium stromatigenum Bubák & Vleugel SPECIES
-=======
+# Heterosporium stromatigenum Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

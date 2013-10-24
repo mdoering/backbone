@@ -1,5 +1,4 @@
-Puccinia pangasinensis Syd. SPECIES
-=======
+# Puccinia pangasinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

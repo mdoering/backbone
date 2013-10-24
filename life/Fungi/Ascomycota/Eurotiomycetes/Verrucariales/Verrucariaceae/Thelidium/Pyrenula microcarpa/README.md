@@ -1,5 +1,4 @@
-Pyrenula microcarpa Müll. Arg., 1885 SPECIES
-=======
+# Pyrenula microcarpa Müll. Arg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

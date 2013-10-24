@@ -1,5 +1,4 @@
-Siphonaptera horrida SPECIES
-=======
+# Siphonaptera horrida SPECIES
 
 #### Status
 ACCEPTED

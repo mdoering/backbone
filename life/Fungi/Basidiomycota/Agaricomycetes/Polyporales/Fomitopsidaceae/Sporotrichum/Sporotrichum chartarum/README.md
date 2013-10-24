@@ -1,5 +1,4 @@
-Sporotrichum chartarum P. Karst. SPECIES
-=======
+# Sporotrichum chartarum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

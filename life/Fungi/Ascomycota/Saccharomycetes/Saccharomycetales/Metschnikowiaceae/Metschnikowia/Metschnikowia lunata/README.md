@@ -1,5 +1,4 @@
-Metschnikowia lunata Golubev, 1978 SPECIES
-=======
+# Metschnikowia lunata Golubev, 1978 SPECIES
 
 #### Status
 ACCEPTED

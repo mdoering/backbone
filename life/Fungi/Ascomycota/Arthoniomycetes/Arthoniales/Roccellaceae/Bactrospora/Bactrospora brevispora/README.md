@@ -1,5 +1,4 @@
-Bactrospora brevispora R. C. Harris SPECIES
-=======
+# Bactrospora brevispora R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

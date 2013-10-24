@@ -1,5 +1,4 @@
-Cetrariopsis Kurok. GENUS
-=======
+# Cetrariopsis Kurok. GENUS
 
 #### Status
 ACCEPTED

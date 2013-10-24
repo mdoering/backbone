@@ -1,5 +1,4 @@
-Buellia litoralis Zahlbr. SPECIES
-=======
+# Buellia litoralis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

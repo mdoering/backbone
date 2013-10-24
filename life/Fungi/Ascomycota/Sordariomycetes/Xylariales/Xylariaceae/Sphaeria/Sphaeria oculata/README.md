@@ -1,5 +1,4 @@
-Sphaeria oculata Fr. & Mont. SPECIES
-=======
+# Sphaeria oculata Fr. & Mont. SPECIES
 
 #### Status
 ACCEPTED

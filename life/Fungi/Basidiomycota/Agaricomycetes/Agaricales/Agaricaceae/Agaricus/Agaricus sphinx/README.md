@@ -1,5 +1,4 @@
-Agaricus sphinx Batsch SPECIES
-=======
+# Agaricus sphinx Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus roseoalbus (Fr.) Gillet SPECIES
-=======
+# Pluteus roseoalbus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

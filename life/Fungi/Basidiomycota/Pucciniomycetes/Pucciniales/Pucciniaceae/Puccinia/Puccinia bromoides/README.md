@@ -1,5 +1,4 @@
-Puccinia bromoides A.L. Guyot SPECIES
-=======
+# Puccinia bromoides A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora premnigena N. Sharma, R.K. Chaudhary & Kamal SPECIES
-=======
+# Corynespora premnigena N. Sharma, R.K. Chaudhary & Kamal SPECIES
 
 #### Status
 ACCEPTED

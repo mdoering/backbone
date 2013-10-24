@@ -1,17 +1,16 @@
-Rhabdospora kiimmerlei Moesz SPECIES
-=======
+# Rhabdospora kuemmerlei Moesz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Degen, Flora Velebitica 3: 294 (1938)
 
 #### Original name
-Rhabdospora kiimmerlei Moesz
+Rhabdospora kuemmerlei Moesz
 
 ### Remarks
 null

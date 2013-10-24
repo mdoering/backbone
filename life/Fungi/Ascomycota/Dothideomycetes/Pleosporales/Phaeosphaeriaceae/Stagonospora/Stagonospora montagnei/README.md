@@ -1,5 +1,4 @@
-Stagonospora montagnei Castell. & Germano SPECIES
-=======
+# Stagonospora montagnei Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

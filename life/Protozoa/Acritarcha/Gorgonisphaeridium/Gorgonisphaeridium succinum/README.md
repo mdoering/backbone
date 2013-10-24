@@ -1,5 +1,4 @@
-Gorgonisphaeridium succinum Lister, 1970 SPECIES
-=======
+# Gorgonisphaeridium succinum Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

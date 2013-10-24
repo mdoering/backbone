@@ -1,5 +1,4 @@
-Pestalotiopsis affinis Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis affinis Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

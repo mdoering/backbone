@@ -1,5 +1,4 @@
-Graphina leprographa (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina leprographa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

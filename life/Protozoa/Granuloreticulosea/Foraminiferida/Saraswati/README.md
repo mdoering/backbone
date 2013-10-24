@@ -1,5 +1,4 @@
-Saraswati Singh & Kalia, 1972 GENUS
-=======
+# Saraswati Singh & Kalia, 1972 GENUS
 
 #### Status
 ACCEPTED

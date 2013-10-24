@@ -1,5 +1,4 @@
-Pyrenopsis mackenziei T.A. Jones {?} SPECIES
-=======
+# Pyrenopsis mackenziei T.A. Jones {?} SPECIES
 
 #### Status
 ACCEPTED

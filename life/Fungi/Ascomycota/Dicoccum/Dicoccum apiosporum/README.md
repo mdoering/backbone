@@ -1,5 +1,4 @@
-Dicoccum apiosporum Sacc. SPECIES
-=======
+# Dicoccum apiosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

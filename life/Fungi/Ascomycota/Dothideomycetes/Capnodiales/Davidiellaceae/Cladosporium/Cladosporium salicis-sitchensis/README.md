@@ -1,5 +1,4 @@
-Cladosporium salicis-sitchensis Dearn. & Barthol., 1924 SPECIES
-=======
+# Cladosporium salicis-sitchensis Dearn. & Barthol., 1924 SPECIES
 
 #### Status
 ACCEPTED

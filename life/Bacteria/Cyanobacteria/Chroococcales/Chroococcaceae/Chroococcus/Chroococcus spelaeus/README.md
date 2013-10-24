@@ -1,5 +1,4 @@
-Chroococcus spelaeus Ercegovic SPECIES
-=======
+# Chroococcus spelaeus Ercegovic SPECIES
 
 #### Status
 ACCEPTED

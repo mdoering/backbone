@@ -1,5 +1,4 @@
-Hygrophorus impudicus Velen. SPECIES
-=======
+# Hygrophorus impudicus Velen. SPECIES
 
 #### Status
 ACCEPTED

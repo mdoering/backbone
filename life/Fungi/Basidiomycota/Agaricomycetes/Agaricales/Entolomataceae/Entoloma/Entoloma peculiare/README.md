@@ -1,5 +1,4 @@
-Entoloma peculiare E. Horak & Corner SPECIES
-=======
+# Entoloma peculiare E. Horak & Corner SPECIES
 
 #### Status
 ACCEPTED

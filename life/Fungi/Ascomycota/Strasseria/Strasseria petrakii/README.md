@@ -1,5 +1,4 @@
-Strasseria petrakii Dias SPECIES
-=======
+# Strasseria petrakii Dias SPECIES
 
 #### Status
 ACCEPTED

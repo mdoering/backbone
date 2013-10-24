@@ -1,5 +1,4 @@
-Psathyrella fulva A.H. Sm. SPECIES
-=======
+# Psathyrella fulva A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

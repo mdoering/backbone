@@ -1,5 +1,4 @@
-Lecidea atrorubens Fr. SPECIES
-=======
+# Lecidea atrorubens Fr. SPECIES
 
 #### Status
 ACCEPTED

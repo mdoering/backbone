@@ -1,5 +1,4 @@
-Phoma dioscoreae Vestergr. SPECIES
-=======
+# Phoma dioscoreae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

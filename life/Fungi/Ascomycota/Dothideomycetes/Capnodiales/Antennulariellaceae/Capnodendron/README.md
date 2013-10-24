@@ -1,5 +1,4 @@
-Capnodendron S. Hughes GENUS
-=======
+# Capnodendron S. Hughes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coolia monotis Meunier SPECIES
-=======
+# Coolia monotis Meunier SPECIES
 
 #### Status
 ACCEPTED

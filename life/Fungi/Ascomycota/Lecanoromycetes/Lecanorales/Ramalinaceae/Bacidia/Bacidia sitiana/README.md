@@ -1,5 +1,4 @@
-Bacidia sitiana (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia sitiana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

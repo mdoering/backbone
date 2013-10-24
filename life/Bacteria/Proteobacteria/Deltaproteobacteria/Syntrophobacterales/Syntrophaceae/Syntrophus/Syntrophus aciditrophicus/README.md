@@ -1,5 +1,4 @@
-Syntrophus aciditrophicus Jackson et al., 2001 SPECIES
-=======
+# Syntrophus aciditrophicus Jackson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

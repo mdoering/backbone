@@ -1,5 +1,4 @@
-Hyphodiscosia europaea Hol.-Jech. & Borowska SPECIES
-=======
+# Hyphodiscosia europaea Hol.-Jech. & Borowska SPECIES
 
 #### Status
 ACCEPTED

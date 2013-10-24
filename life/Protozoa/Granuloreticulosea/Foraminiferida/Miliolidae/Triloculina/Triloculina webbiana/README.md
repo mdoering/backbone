@@ -1,8 +1,7 @@
-Miliolina webbiana (d’Orbigny, 1839) SPECIES
-=======
+# Triloculina webbiana d'Orbigny, 1839 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

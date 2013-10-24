@@ -1,5 +1,4 @@
-Patellaria leucochaete Ellis & Everh. SPECIES
-=======
+# Patellaria leucochaete Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

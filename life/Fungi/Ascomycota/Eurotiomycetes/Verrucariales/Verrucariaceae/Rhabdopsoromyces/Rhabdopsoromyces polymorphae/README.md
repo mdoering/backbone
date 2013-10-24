@@ -1,5 +1,4 @@
-Rhabdopsoromyces polymorphae Cif. & Tomas. SPECIES
-=======
+# Rhabdopsoromyces polymorphae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

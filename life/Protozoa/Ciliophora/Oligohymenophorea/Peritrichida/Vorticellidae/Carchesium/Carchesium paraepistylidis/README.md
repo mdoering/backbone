@@ -1,5 +1,4 @@
-Carchesium paraepistylidis SPECIES
-=======
+# Carchesium paraepistylidis SPECIES
 
 #### Status
 ACCEPTED

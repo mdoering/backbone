@@ -1,5 +1,4 @@
-Excipula liliorum (Schwein.) Fr. SPECIES
-=======
+# Excipula liliorum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

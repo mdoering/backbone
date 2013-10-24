@@ -1,5 +1,4 @@
-Curtobacterium plantarum Dunleavy, 1989 SPECIES
-=======
+# Curtobacterium plantarum Dunleavy, 1989 SPECIES
 
 #### Status
 ACCEPTED

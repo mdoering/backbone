@@ -1,5 +1,4 @@
-Stereum membranaceum Fr. SPECIES
-=======
+# Stereum membranaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

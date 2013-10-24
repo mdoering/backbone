@@ -1,5 +1,4 @@
-Pestalotia apiculata T.Z. Huang SPECIES
-=======
+# Pestalotia apiculata T.Z. Huang SPECIES
 
 #### Status
 ACCEPTED

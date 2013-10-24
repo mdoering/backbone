@@ -1,5 +1,4 @@
-Lembosia sophorae (Rehm) R.W. Ryan SPECIES
-=======
+# Lembosia sophorae (Rehm) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

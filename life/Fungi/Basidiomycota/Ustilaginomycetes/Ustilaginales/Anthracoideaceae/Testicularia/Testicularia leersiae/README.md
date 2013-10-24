@@ -1,5 +1,4 @@
-Testicularia leersiae Cornu SPECIES
-=======
+# Testicularia leersiae Cornu SPECIES
 
 #### Status
 ACCEPTED

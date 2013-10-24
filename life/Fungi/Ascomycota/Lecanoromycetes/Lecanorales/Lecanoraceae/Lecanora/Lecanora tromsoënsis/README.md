@@ -1,8 +1,7 @@
-Lecanora tromsoeënsis H. Magn. SPECIES
-=======
+# Lecanora tromsoënsis H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora tromsoeënsis H. Magn.
+Lecanora tromsoënsis H. Magn.
 
 ### Remarks
 null

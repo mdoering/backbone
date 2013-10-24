@@ -1,5 +1,4 @@
-Thurmannolithion W. Grün & F. Zweili, 1980 GENUS
-=======
+# Thurmannolithion W. Grün & F. Zweili, 1980 GENUS
 
 #### Status
 ACCEPTED

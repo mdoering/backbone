@@ -1,5 +1,4 @@
-Synchytrium modioliensis M.T. Cook SPECIES
-=======
+# Synchytrium modioliensis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

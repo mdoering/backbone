@@ -1,5 +1,4 @@
-Paxillus vernalis Watling SPECIES
-=======
+# Paxillus vernalis Watling SPECIES
 
 #### Status
 ACCEPTED

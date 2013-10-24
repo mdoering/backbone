@@ -1,5 +1,4 @@
-Mycena wrightii S. Ito & S. Imai SPECIES
-=======
+# Mycena wrightii S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

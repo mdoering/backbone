@@ -1,5 +1,4 @@
-Diplodia arachidis Petch SPECIES
-=======
+# Diplodia arachidis Petch SPECIES
 
 #### Status
 ACCEPTED

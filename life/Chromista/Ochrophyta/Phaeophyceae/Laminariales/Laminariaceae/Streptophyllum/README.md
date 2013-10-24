@@ -1,5 +1,4 @@
-Streptophyllum K. Miyabe & M. Nagai in Nagai, 1940 GENUS
-=======
+# Streptophyllum K. Miyabe & M. Nagai in Nagai, 1940 GENUS
 
 #### Status
 ACCEPTED

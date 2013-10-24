@@ -1,5 +1,4 @@
-Dioxeia richardi de Folin, 1887 SPECIES
-=======
+# Dioxeia richardi de Folin, 1887 SPECIES
 
 #### Status
 DOUBTFUL

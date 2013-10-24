@@ -1,14 +1,13 @@
-Rhodophyllus ianthinus Romagn. & J. Favre, 1938 SPECIES
-=======
+# Entoloma ianthinum (Romagn. & J. Favre) Noordel., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 3(2-3): 76 (1938)
+Persoonia 11(4): 470 (1982)
 
 #### Original name
 Rhodophyllus ianthinus Romagn. & J. Favre, 1938

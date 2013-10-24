@@ -1,5 +1,4 @@
-Hyalotia lateripes (Ellis & Everh.) Guba SPECIES
-=======
+# Hyalotia lateripes (Ellis & Everh.) Guba SPECIES
 
 #### Status
 ACCEPTED

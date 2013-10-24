@@ -1,5 +1,4 @@
-Entyloma astor-sericeanum SPECIES
-=======
+# Entyloma astor-sericeanum SPECIES
 
 #### Status
 ACCEPTED

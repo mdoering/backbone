@@ -1,5 +1,4 @@
-Leiosphaeridia major (Staplin, 1961) Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia major (Staplin, 1961) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

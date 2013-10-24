@@ -1,5 +1,4 @@
-Polystictus arenicola Lloyd SPECIES
-=======
+# Polystictus arenicola Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Duebenia carnea Fr. SPECIES
-=======
+# Duebenia carnea Fr. SPECIES
 
 #### Status
 ACCEPTED

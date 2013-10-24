@@ -1,5 +1,4 @@
-Polystictus felipponei Lloyd SPECIES
-=======
+# Polystictus felipponei Lloyd SPECIES
 
 #### Status
 ACCEPTED

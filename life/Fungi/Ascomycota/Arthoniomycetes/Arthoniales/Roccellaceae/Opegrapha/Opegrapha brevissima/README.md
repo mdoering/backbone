@@ -1,5 +1,4 @@
-Opegrapha brevissima Kalb & Hafellner SPECIES
-=======
+# Opegrapha brevissima Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

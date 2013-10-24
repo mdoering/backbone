@@ -1,17 +1,16 @@
-Lamprospora cashii Gamundí SPECIES
-=======
+# Lamprospora cashiae Gamundí SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln Soc. argent. Bot. 15(1): 89 (1973)
 
 #### Original name
-Lamprospora cashii Gamundí
+Lamprospora cashiae Gamundí
 
 ### Remarks
 null

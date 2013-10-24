@@ -1,5 +1,4 @@
-Heterococcus vesiculosus Pitschmann SPECIES
-=======
+# Heterococcus vesiculosus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

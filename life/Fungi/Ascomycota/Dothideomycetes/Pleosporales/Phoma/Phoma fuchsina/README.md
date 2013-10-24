@@ -1,5 +1,4 @@
-Phoma fuchsina Sacc. SPECIES
-=======
+# Phoma fuchsina Sacc. SPECIES
 
 #### Status
 ACCEPTED

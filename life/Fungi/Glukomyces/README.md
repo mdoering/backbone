@@ -1,5 +1,4 @@
-Glukomyces Beij. GENUS
-=======
+# Glukomyces Beij. GENUS
 
 #### Status
 ACCEPTED

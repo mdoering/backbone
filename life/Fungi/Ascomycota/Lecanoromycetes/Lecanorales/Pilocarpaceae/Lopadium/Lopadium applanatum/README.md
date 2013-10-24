@@ -1,5 +1,4 @@
-Lopadium applanatum Bat. & H. Maia SPECIES
-=======
+# Lopadium applanatum Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

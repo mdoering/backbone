@@ -1,5 +1,4 @@
-Verrucaria micromma SPECIES
-=======
+# Verrucaria micromma SPECIES
 
 #### Status
 ACCEPTED

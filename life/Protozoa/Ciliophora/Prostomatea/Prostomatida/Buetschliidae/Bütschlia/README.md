@@ -1,5 +1,4 @@
-Bütschlia GENUS
-=======
+# Bütschlia GENUS
 
 #### Status
 ACCEPTED

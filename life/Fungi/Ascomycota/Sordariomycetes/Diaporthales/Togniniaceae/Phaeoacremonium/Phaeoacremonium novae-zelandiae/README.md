@@ -1,5 +1,4 @@
-Phaeoacremonium novae-zelandiae L. Mostert, W. Gams & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium novae-zelandiae L. Mostert, W. Gams & Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

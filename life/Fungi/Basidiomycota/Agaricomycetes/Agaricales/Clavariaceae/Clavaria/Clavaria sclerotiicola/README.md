@@ -1,5 +1,4 @@
-Clavaria sclerotiicola Allesch. SPECIES
-=======
+# Clavaria sclerotiicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

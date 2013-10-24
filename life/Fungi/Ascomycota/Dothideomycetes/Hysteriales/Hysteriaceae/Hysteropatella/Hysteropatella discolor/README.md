@@ -1,5 +1,4 @@
-Hysteropatella discolor var. discolor VARIETY
-=======
+# Hysteropatella discolor (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 83: 30 (1907)
 
 #### Original name
-Hysteropatella discolor var. discolor
+Hysterium discolor Speg.
 
 ### Remarks
 null

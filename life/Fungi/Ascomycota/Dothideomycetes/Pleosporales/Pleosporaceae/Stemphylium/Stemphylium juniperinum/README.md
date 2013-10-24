@@ -1,5 +1,4 @@
-Stemphylium juniperinum P. Karst. SPECIES
-=======
+# Stemphylium juniperinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

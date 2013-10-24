@@ -1,5 +1,4 @@
-Agaricus purpureofuligineus (Pers.) Fr. SPECIES
-=======
+# Agaricus purpureofuligineus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

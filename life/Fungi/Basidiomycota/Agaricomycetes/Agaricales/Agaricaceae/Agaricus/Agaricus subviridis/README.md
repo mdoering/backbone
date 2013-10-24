@@ -1,5 +1,4 @@
-Agaricus subviridis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus subviridis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

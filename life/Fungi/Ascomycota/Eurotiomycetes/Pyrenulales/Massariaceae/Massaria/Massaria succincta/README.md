@@ -1,5 +1,4 @@
-Massaria succincta (Wallr.) Sacc. SPECIES
-=======
+# Massaria succincta (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

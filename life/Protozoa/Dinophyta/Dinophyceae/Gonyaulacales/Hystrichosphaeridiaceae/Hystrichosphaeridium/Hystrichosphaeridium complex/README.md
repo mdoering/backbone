@@ -1,5 +1,4 @@
-Hystrichosphaeridium complex (White) Deflandre SPECIES
-=======
+# Hystrichosphaeridium complex (White) Deflandre SPECIES
 
 #### Status
 ACCEPTED

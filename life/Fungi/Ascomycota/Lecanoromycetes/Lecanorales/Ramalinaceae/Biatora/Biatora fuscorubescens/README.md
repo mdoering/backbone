@@ -1,5 +1,4 @@
-Biatora fuscorubescens (Nyl.) Riddle SPECIES
-=======
+# Biatora fuscorubescens (Nyl.) Riddle SPECIES
 
 #### Status
 ACCEPTED

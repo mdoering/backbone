@@ -1,5 +1,4 @@
-Agaricus melanodon Fr. SPECIES
-=======
+# Agaricus melanodon Fr. SPECIES
 
 #### Status
 ACCEPTED

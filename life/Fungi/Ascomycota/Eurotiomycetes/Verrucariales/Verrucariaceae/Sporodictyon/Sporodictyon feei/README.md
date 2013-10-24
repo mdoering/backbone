@@ -1,5 +1,4 @@
-Sporodictyon feei Trevis. SPECIES
-=======
+# Sporodictyon feei Trevis. SPECIES
 
 #### Status
 ACCEPTED

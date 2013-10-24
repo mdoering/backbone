@@ -1,5 +1,4 @@
-Cladostephus hedwigioides Bory SPECIES
-=======
+# Cladostephus hedwigioides Bory SPECIES
 
 #### Status
 ACCEPTED

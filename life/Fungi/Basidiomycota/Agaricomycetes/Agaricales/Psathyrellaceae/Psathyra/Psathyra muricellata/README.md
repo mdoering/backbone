@@ -1,5 +1,4 @@
-Psathyra muricellata Singer SPECIES
-=======
+# Psathyra muricellata Singer SPECIES
 
 #### Status
 ACCEPTED

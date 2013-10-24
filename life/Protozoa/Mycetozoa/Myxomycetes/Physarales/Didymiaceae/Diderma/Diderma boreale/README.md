@@ -1,5 +1,4 @@
-Diderma boreale Novozh. & S.L. Stephenson, 2007 SPECIES
-=======
+# Diderma boreale Novozh. & S.L. Stephenson, 2007 SPECIES
 
 #### Status
 ACCEPTED

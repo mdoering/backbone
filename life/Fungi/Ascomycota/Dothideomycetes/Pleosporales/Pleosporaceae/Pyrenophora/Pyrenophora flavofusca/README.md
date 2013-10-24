@@ -1,5 +1,4 @@
-Pyrenophora flavofusca Feltgen SPECIES
-=======
+# Pyrenophora flavofusca Feltgen SPECIES
 
 #### Status
 ACCEPTED

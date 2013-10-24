@@ -1,5 +1,4 @@
-Cortinarius bavaricus M.M. Moser SPECIES
-=======
+# Cortinarius bavaricus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

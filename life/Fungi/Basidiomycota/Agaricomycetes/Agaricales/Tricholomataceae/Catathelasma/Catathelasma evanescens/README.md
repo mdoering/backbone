@@ -1,5 +1,4 @@
-Catathelasma evanescens Lovejoy, 1910 SPECIES
-=======
+# Catathelasma evanescens Lovejoy, 1910 SPECIES
 
 #### Status
 ACCEPTED

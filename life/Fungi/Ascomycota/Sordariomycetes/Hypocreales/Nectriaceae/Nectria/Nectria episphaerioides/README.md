@@ -1,5 +1,4 @@
-Nectria episphaerioides Penz. & Sacc. SPECIES
-=======
+# Nectria episphaerioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

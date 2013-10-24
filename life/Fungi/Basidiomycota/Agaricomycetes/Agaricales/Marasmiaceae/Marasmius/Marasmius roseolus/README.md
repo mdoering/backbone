@@ -1,5 +1,4 @@
-Marasmius roseolus Henn. SPECIES
-=======
+# Marasmius roseolus Henn. SPECIES
 
 #### Status
 ACCEPTED

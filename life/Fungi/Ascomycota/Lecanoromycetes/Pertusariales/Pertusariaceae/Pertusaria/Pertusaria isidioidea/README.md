@@ -1,5 +1,4 @@
-Pertusaria isidioidea (Schaer.) Arnold SPECIES
-=======
+# Pertusaria isidioidea (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

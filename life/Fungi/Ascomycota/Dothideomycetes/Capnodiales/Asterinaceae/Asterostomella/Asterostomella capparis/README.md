@@ -1,17 +1,16 @@
-Asterostomella capparidis Petr. SPECIES
-=======
+# Asterostomella capparis Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 27(5/6): 396 (1929)
 
 #### Original name
-Asterostomella capparidis Petr.
+Asterostomella capparis Petr.
 
 ### Remarks
 null

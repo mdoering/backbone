@@ -1,5 +1,4 @@
-Placodium schistidii (Anzi) Räsänen SPECIES
-=======
+# Placodium schistidii (Anzi) Räsänen SPECIES
 
 #### Status
 ACCEPTED

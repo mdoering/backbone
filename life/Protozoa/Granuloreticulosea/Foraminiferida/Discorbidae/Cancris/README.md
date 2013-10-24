@@ -1,14 +1,13 @@
-Carcris Deshayes, 1830 GENUS
-=======
+# Cancris de Montfort, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ency. Méth. (Vers), 2 (1), 191.
+Conch. Syst. , 1, 266.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Meliola litseicola Hansf. SPECIES
-=======
+# Meliola litseicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

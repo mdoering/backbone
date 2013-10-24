@@ -1,5 +1,4 @@
-Lacrimasporonites psilatus Z.C. Song & G.X. Li SPECIES
-=======
+# Lacrimasporonites psilatus Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

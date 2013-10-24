@@ -1,5 +1,4 @@
-Puccinia kellermanii F. Kern SPECIES
-=======
+# Puccinia kellermanii F. Kern SPECIES
 
 #### Status
 ACCEPTED

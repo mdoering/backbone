@@ -1,5 +1,4 @@
-Puccinia caricis-heterolepis Morim. SPECIES
-=======
+# Puccinia caricis-heterolepis Morim. SPECIES
 
 #### Status
 ACCEPTED

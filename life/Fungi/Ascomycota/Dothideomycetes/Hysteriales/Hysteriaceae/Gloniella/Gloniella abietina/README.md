@@ -1,5 +1,4 @@
-Gloniella abietina Syd. SPECIES
-=======
+# Gloniella abietina Syd. SPECIES
 
 #### Status
 ACCEPTED

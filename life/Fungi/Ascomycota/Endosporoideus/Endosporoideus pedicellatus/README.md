@@ -1,17 +1,16 @@
-Endosporoideus pedicellata W.H. Ho, Yanna, K.D. Hyde & Goh SPECIES
-=======
+# Endosporoideus pedicellatus W.H. Ho, Yanna, K.D. Hyde & Goh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 97(1): 242 (2005)
 
 #### Original name
-Endosporoideus pedicellata W.H. Ho, Yanna, K.D. Hyde & Goh
+Endosporoideus pedicellatus W.H. Ho, Yanna, K.D. Hyde & Goh, 2005
 
 ### Remarks
 null

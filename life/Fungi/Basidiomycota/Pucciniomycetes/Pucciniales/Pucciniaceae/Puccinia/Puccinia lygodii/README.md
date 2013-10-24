@@ -1,5 +1,4 @@
-Puccinia lygodii (Har.) Arthur SPECIES
-=======
+# Puccinia lygodii (Har.) Arthur SPECIES
 
 #### Status
 ACCEPTED

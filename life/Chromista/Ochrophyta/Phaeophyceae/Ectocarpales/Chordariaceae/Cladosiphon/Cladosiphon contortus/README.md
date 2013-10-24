@@ -1,8 +1,7 @@
-Castagnea contorta Thuret SPECIES
-=======
+# Cladosiphon contortus (Thuret) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

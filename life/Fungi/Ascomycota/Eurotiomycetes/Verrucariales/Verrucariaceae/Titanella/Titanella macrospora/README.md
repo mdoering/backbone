@@ -1,5 +1,4 @@
-Titanella macrospora (Speg.) M.E. Barr SPECIES
-=======
+# Titanella macrospora (Speg.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

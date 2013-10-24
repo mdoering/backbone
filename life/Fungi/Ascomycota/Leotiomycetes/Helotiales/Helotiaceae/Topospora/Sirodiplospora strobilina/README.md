@@ -1,5 +1,4 @@
-Sirodiplospora strobilina Naumov SPECIES
-=======
+# Sirodiplospora strobilina Naumov SPECIES
 
 #### Status
 ACCEPTED

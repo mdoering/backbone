@@ -1,5 +1,4 @@
-Diatrypella moravica Petr. & Keissl. SPECIES
-=======
+# Diatrypella moravica Petr. & Keissl. SPECIES
 
 #### Status
 ACCEPTED

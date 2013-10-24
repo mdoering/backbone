@@ -1,5 +1,4 @@
-Balneola vulgaris Urios et al., 2006 SPECIES
-=======
+# Balneola vulgaris Urios et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

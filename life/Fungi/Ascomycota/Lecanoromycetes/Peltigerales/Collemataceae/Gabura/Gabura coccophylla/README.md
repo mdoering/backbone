@@ -1,5 +1,4 @@
-Gabura coccophylla (Nyl.) Kuntze SPECIES
-=======
+# Gabura coccophylla (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

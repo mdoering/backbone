@@ -1,5 +1,4 @@
-Asterostomella eugenicola Doidge SPECIES
-=======
+# Asterostomella eugenicola Doidge SPECIES
 
 #### Status
 ACCEPTED

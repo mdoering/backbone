@@ -1,5 +1,4 @@
-Amphitetras tetragona (Pantocsek) De Toni SPECIES
-=======
+# Amphitetras tetragona (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

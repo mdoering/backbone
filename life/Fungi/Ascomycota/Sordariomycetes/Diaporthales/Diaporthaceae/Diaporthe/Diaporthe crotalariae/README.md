@@ -1,5 +1,4 @@
-Diaporthe crotalariae G.F. Weber SPECIES
-=======
+# Diaporthe crotalariae G.F. Weber SPECIES
 
 #### Status
 ACCEPTED

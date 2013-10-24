@@ -1,5 +1,4 @@
-Ornatispora frondicola K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl., 1999 SPECIES
-=======
+# Ornatispora frondicola K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia cucullata (Bellardi) DC. SPECIES
-=======
+# Physcia cucullata (Bellardi) DC. SPECIES
 
 #### Status
 ACCEPTED

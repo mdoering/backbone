@@ -1,5 +1,4 @@
-Euglena vivida Playfair SPECIES
-=======
+# Euglena vivida Playfair SPECIES
 
 #### Status
 ACCEPTED

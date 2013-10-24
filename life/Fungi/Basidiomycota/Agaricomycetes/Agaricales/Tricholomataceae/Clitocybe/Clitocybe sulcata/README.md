@@ -1,5 +1,4 @@
-Clitocybe sulcata Z.S. Bi SPECIES
-=======
+# Clitocybe sulcata Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

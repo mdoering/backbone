@@ -1,5 +1,4 @@
-Chaenothecopsis gracilis Nádv. SPECIES
-=======
+# Chaenothecopsis gracilis Nádv. SPECIES
 
 #### Status
 ACCEPTED

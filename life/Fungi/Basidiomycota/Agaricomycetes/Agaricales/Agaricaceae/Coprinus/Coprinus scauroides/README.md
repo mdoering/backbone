@@ -1,5 +1,4 @@
-Coprinus scauroides Godey SPECIES
-=======
+# Coprinus scauroides Godey SPECIES
 
 #### Status
 ACCEPTED

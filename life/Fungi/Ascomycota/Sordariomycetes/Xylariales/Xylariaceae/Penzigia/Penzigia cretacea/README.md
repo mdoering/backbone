@@ -1,5 +1,4 @@
-Penzigia cretacea (Berl. & Broome) Sacc. & Paol. SPECIES
-=======
+# Penzigia cretacea (Berl. & Broome) Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

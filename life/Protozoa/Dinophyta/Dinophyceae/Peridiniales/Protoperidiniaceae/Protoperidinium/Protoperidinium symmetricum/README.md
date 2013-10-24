@@ -1,5 +1,4 @@
-Protoperidinium symmetricum (Halim) Balech SPECIES
-=======
+# Protoperidinium symmetricum (Halim) Balech SPECIES
 
 #### Status
 ACCEPTED

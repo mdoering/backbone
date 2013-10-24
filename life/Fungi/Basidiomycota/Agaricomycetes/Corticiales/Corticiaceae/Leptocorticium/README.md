@@ -1,5 +1,4 @@
-Leptocorticium Hjortstam & Ryvarden GENUS
-=======
+# Leptocorticium Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps rhizoidea Höhn. SPECIES
-=======
+# Cordyceps rhizoidea Höhn. SPECIES
 
 #### Status
 ACCEPTED

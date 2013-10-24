@@ -1,5 +1,4 @@
-Protoventuria chusqueae Pat. SPECIES
-=======
+# Protoventuria chusqueae Pat. SPECIES
 
 #### Status
 ACCEPTED

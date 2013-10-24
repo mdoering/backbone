@@ -1,14 +1,13 @@
-Arthopyrenia contendens (Nyl.) Müll. Arg. SPECIES
-=======
+# Polymeridium contendens (Nyl.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Tucker & Harris, Bryologist 83(1): 12 (1980)
 
 #### Original name
 null

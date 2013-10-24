@@ -1,5 +1,4 @@
-Lecanora leptyroidea Motyka SPECIES
-=======
+# Lecanora leptyroidea Motyka SPECIES
 
 #### Status
 ACCEPTED

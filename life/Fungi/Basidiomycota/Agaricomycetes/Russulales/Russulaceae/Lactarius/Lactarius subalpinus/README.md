@@ -1,5 +1,4 @@
-Lactarius subalpinus A. Blytt SPECIES
-=======
+# Lactarius subalpinus A. Blytt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma siphonis Henn. SPECIES
-=======
+# Phoma siphonis Henn. SPECIES
 
 #### Status
 ACCEPTED

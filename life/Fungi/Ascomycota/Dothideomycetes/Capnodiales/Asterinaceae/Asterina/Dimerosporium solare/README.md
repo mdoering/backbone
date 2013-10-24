@@ -1,5 +1,4 @@
-Dimerosporium solare Speg. SPECIES
-=======
+# Dimerosporium solare Speg. SPECIES
 
 #### Status
 ACCEPTED

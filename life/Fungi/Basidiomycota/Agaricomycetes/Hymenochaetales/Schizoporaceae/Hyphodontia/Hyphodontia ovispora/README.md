@@ -1,17 +1,16 @@
-Schizopora ovispora (Corner) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia ovispora (Corner) T. Hatt., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 44(4): 271 (2003)
 
 #### Original name
-null
+Tyromyces ovisporus Corner, 1992
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gyromium velleum (L.) Wahlenb. SPECIES
-=======
+# Gyromium velleum (L.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

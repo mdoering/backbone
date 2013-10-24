@@ -1,5 +1,4 @@
-Collybia siticulosa Banning & Peck SPECIES
-=======
+# Collybia siticulosa Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus digitaliformis Fr. SPECIES
-=======
+# Coprinus digitaliformis Fr. SPECIES
 
 #### Status
 ACCEPTED

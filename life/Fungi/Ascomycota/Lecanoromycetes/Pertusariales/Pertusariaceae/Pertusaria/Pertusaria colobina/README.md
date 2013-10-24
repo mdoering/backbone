@@ -1,5 +1,4 @@
-Pertusaria colobina Tuck. SPECIES
-=======
+# Pertusaria colobina Tuck. SPECIES
 
 #### Status
 ACCEPTED

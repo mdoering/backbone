@@ -1,11 +1,10 @@
-Dichophyllium Kützing, 1843 GENUS
-=======
+# Dictyota J.V.F. Lamouroux, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

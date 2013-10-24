@@ -1,5 +1,4 @@
-Omphalina subsphaerospora Lamoure ex Bon SPECIES
-=======
+# Omphalina subsphaerospora Lamoure ex Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thauera chlorobenzoica Song et al., 2001 SPECIES
-=======
+# Thauera chlorobenzoica Song et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

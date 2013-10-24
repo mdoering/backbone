@@ -1,14 +1,13 @@
-Poria camaresiana Bourdot & Galzin, 1925 SPECIES
-=======
+# Ceriporia camaresiana (Bourdot & Galzin) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 223 (1925)
+Annls mycol. 39(1): 50 (1941)
 
 #### Original name
 Poria camaresiana Bourdot & Galzin, 1925

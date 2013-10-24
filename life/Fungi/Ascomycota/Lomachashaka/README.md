@@ -1,5 +1,4 @@
-Lomachashaka Subram. GENUS
-=======
+# Lomachashaka Subram. GENUS
 
 #### Status
 ACCEPTED

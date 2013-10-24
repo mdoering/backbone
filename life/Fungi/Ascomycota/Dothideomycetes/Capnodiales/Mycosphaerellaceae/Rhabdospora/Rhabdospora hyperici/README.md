@@ -1,5 +1,4 @@
-Rhabdospora hyperici H.C. Greene SPECIES
-=======
+# Rhabdospora hyperici H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

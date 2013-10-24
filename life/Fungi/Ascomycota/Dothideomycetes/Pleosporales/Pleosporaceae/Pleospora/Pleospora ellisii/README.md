@@ -1,5 +1,4 @@
-Pleospora ellisii Wehm. SPECIES
-=======
+# Pleospora ellisii Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegyria ovalis Gourret & Roeser, 1886 SPECIES
-=======
+# Aegyria ovalis Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

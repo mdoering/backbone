@@ -1,5 +1,4 @@
-Cercospora instabilis Rangel SPECIES
-=======
+# Cercospora instabilis Rangel SPECIES
 
 #### Status
 ACCEPTED

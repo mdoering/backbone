@@ -1,5 +1,4 @@
-Armillaria horrens Berk. SPECIES
-=======
+# Armillaria horrens Berk. SPECIES
 
 #### Status
 ACCEPTED

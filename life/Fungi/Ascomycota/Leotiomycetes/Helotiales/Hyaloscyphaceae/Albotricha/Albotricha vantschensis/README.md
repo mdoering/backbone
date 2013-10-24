@@ -1,5 +1,4 @@
-Albotricha vantschensis Raitv. SPECIES
-=======
+# Albotricha vantschensis Raitv. SPECIES
 
 #### Status
 ACCEPTED

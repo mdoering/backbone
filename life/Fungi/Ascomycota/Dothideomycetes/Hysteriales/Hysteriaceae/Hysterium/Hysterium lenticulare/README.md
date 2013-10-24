@@ -1,5 +1,4 @@
-Hysterium lenticulare P. Karst. SPECIES
-=======
+# Hysterium lenticulare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

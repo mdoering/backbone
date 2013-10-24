@@ -1,5 +1,4 @@
-Myospora Stentiford, Bateman, Small, Moss, Shields, Reece & Tuck, 2010 GENUS
-=======
+# Myospora Stentiford, Bateman, Small, Moss, Shields, Reece & Tuck, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza bubakii Klika SPECIES
-=======
+# Pyrenopeziza bubakii Klika SPECIES
 
 #### Status
 ACCEPTED

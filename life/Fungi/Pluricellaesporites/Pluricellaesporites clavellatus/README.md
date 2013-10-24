@@ -1,5 +1,4 @@
-Pluricellaesporites clavellatus Z.C. Song & G.X. Li SPECIES
-=======
+# Pluricellaesporites clavellatus Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

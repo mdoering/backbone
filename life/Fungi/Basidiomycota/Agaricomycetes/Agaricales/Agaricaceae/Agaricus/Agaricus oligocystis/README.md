@@ -1,5 +1,4 @@
-Agaricus oligocystis Heinem., 1974 SPECIES
-=======
+# Agaricus oligocystis Heinem., 1974 SPECIES
 
 #### Status
 ACCEPTED

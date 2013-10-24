@@ -1,14 +1,13 @@
-Antennaria guava Cooke, 1877 SPECIES
-=======
+# Metacapnodium guava (Cooke) S. Hughes, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 19(2): 204 (1981)
 
 #### Original name
 Antennaria guava Cooke, 1877

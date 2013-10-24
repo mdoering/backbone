@@ -1,5 +1,4 @@
-Lecidea lividonigra Zahlbr. SPECIES
-=======
+# Lecidea lividonigra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dehornia sthenelais Porchet-Henneré, 1972 SPECIES
-=======
+# Rhytidocystis sthenelais (Porchet-Henneré, 1972) Levine, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

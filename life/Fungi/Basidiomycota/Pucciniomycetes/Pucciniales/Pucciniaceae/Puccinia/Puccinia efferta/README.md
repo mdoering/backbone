@@ -1,5 +1,4 @@
-Puccinia efferta Cummins SPECIES
-=======
+# Puccinia efferta Cummins SPECIES
 
 #### Status
 ACCEPTED

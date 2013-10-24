@@ -1,5 +1,4 @@
-Lophodermium camelliicola Minter, 1982 SPECIES
-=======
+# Lophodermium camelliicola Minter, 1982 SPECIES
 
 #### Status
 ACCEPTED

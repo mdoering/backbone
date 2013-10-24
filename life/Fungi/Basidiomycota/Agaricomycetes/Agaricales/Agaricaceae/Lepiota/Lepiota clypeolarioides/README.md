@@ -1,5 +1,4 @@
-Lepiota clypeolarioides var. clypeolarioides VARIETY
-=======
+# Lepiota clypeolarioides Rea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brit. basidiomyc. (Cambridge) 69 (1922)
 
 #### Original name
-Lepiota clypeolarioides var. clypeolarioides
+Lepiota clypeolarioides Rea
 
 ### Remarks
 null

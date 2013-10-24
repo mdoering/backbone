@@ -1,5 +1,4 @@
-Gloeocapsa africana Cholnoky SPECIES
-=======
+# Gloeocapsa africana Cholnoky SPECIES
 
 #### Status
 ACCEPTED

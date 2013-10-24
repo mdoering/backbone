@@ -1,5 +1,4 @@
-Candida orthopsilosis Tavanti, A. Davidson, Gow, M. Maiden & Odds, 2005 SPECIES
-=======
+# Candida orthopsilosis Tavanti, A. Davidson, Gow, M. Maiden & Odds, 2005 SPECIES
 
 #### Status
 ACCEPTED

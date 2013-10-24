@@ -1,5 +1,4 @@
-Gnomonia riparia Niessl, 1875 SPECIES
-=======
+# Gnomonia riparia Niessl, 1875 SPECIES
 
 #### Status
 ACCEPTED

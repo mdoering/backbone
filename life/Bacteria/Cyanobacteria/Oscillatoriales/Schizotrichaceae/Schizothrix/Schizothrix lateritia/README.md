@@ -1,5 +1,4 @@
-Schizothrix lateritia (Kützing) Gomont SPECIES
-=======
+# Schizothrix lateritia (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

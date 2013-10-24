@@ -1,5 +1,4 @@
-Nostocoidia limicola SPECIES
-=======
+# Nostocoidia limicola SPECIES
 
 #### Status
 ACCEPTED

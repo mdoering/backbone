@@ -1,5 +1,4 @@
-Seynesiospora iochromatis (Rehm) Bat. SPECIES
-=======
+# Seynesiospora iochromatis (Rehm) Bat. SPECIES
 
 #### Status
 ACCEPTED

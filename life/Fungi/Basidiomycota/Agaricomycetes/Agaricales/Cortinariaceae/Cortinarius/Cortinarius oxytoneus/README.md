@@ -1,5 +1,4 @@
-Cortinarius oxytoneus Rob. Henry SPECIES
-=======
+# Cortinarius oxytoneus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

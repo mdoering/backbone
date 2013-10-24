@@ -1,5 +1,4 @@
-Nocardia ignorata Yassin et al., 2001 SPECIES
-=======
+# Nocardia ignorata Yassin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

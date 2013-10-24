@@ -1,5 +1,4 @@
-Rhizophydium goniosporum Scherff. SPECIES
-=======
+# Rhizophydium goniosporum Scherff. SPECIES
 
 #### Status
 ACCEPTED

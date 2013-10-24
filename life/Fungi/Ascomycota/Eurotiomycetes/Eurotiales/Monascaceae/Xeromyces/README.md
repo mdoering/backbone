@@ -1,5 +1,4 @@
-Xeromyces L.R. Fraser, 1954 GENUS
-=======
+# Xeromyces L.R. Fraser, 1954 GENUS
 
 #### Status
 ACCEPTED

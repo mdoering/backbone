@@ -1,5 +1,4 @@
-Sphaerella alismatis Hollós SPECIES
-=======
+# Sphaerella alismatis Hollós SPECIES
 
 #### Status
 ACCEPTED

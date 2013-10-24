@@ -1,5 +1,4 @@
-Lacunolithus tholiformis SPECIES
-=======
+# Lacunolithus tholiformis SPECIES
 
 #### Status
 ACCEPTED

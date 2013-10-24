@@ -1,5 +1,4 @@
-Rhizocarpon arnoldii Räsänen SPECIES
-=======
+# Rhizocarpon arnoldii Räsänen SPECIES
 
 #### Status
 ACCEPTED

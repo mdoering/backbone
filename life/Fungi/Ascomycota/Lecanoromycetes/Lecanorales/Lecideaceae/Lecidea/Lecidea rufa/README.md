@@ -1,5 +1,4 @@
-Lecidea rufa (Weiss) Ach. SPECIES
-=======
+# Lecidea rufa (Weiss) Ach. SPECIES
 
 #### Status
 ACCEPTED

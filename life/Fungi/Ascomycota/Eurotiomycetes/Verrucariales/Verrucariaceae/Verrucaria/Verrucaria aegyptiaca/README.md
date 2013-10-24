@@ -1,5 +1,4 @@
-Verrucaria aegyptiaca Müll. Arg. SPECIES
-=======
+# Verrucaria aegyptiaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

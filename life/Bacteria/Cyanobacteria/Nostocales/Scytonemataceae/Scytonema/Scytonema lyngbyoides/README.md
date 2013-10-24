@@ -1,5 +1,4 @@
-Scytonema lyngbyoides Gardner SPECIES
-=======
+# Scytonema lyngbyoides Gardner SPECIES
 
 #### Status
 ACCEPTED

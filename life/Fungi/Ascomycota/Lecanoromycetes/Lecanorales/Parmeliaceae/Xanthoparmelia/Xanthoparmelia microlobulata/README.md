@@ -1,5 +1,4 @@
-Xanthoparmelia microlobulata Hale SPECIES
-=======
+# Xanthoparmelia microlobulata Hale SPECIES
 
 #### Status
 ACCEPTED

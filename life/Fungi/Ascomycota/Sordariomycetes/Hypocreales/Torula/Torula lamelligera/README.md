@@ -1,5 +1,4 @@
-Torula lamelligera Ellis & Marchal SPECIES
-=======
+# Torula lamelligera Ellis & Marchal SPECIES
 
 #### Status
 ACCEPTED

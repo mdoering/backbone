@@ -1,5 +1,4 @@
-Puccinia chloridicola Henn. SPECIES
-=======
+# Puccinia chloridicola Henn. SPECIES
 
 #### Status
 ACCEPTED

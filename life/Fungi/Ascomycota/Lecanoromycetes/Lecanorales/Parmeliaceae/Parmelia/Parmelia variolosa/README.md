@@ -1,5 +1,4 @@
-Parmelia variolosa C.W. Dodge & G.E. Baker SPECIES
-=======
+# Parmelia variolosa C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

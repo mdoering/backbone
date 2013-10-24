@@ -1,5 +1,4 @@
-Melanopsamma subrhombispora Fairm. SPECIES
-=======
+# Melanopsamma subrhombispora Fairm. SPECIES
 
 #### Status
 ACCEPTED

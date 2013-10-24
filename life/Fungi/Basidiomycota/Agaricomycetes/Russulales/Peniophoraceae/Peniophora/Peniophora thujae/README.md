@@ -1,5 +1,4 @@
-Peniophora thujae Burt SPECIES
-=======
+# Peniophora thujae Burt SPECIES
 
 #### Status
 ACCEPTED

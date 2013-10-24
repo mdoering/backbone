@@ -1,5 +1,4 @@
-Geolegnia septisporangia Coker & J.V. Harv., 1925 SPECIES
-=======
+# Geolegnia septisporangia Coker & J.V. Harv., 1925 SPECIES
 
 #### Status
 ACCEPTED

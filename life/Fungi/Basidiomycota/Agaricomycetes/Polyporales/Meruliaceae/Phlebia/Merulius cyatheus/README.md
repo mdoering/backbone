@@ -1,5 +1,4 @@
-Merulius cyatheus Velen. SPECIES
-=======
+# Merulius cyatheus Velen. SPECIES
 
 #### Status
 ACCEPTED

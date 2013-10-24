@@ -1,5 +1,4 @@
-Lecidea atrotestacea Fr. SPECIES
-=======
+# Lecidea atrotestacea Fr. SPECIES
 
 #### Status
 ACCEPTED

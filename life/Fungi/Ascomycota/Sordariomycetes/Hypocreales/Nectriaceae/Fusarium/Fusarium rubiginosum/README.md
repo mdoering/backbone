@@ -1,5 +1,4 @@
-Fusarium rubiginosum Appel & Wollenw. SPECIES
-=======
+# Fusarium rubiginosum Appel & Wollenw. SPECIES
 
 #### Status
 ACCEPTED

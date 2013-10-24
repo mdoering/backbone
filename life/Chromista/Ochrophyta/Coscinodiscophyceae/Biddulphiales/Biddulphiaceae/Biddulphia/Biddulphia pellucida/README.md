@@ -1,5 +1,4 @@
-Biddulphia pellucida F.S.Castracane degli Antelminelli SPECIES
-=======
+# Biddulphia pellucida F.S.Castracane degli Antelminelli SPECIES
 
 #### Status
 ACCEPTED

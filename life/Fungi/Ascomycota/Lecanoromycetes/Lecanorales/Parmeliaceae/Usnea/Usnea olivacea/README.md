@@ -1,5 +1,4 @@
-Usnea olivacea Motyka SPECIES
-=======
+# Usnea olivacea Motyka SPECIES
 
 #### Status
 ACCEPTED

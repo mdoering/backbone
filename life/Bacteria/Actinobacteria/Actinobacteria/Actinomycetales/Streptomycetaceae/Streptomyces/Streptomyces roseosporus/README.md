@@ -1,5 +1,4 @@
-Streptomyces roseosporus Falcão de Morais and Dália Maia, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces roseosporus Falcão de Morais and Dália Maia, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea stipitata Coppins & P. James SPECIES
-=======
+# Micarea stipitata Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

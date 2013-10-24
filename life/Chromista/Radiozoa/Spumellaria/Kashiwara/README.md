@@ -1,5 +1,4 @@
-Kashiwara Sashida & Tonishi, 1985 GENUS
-=======
+# Kashiwara Sashida & Tonishi, 1985 GENUS
 
 #### Status
 ACCEPTED

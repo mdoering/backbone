@@ -1,17 +1,16 @@
-Phaeosphaeria baldingerae (Fautrey & Lambotte) Hedjar., 1969 SPECIES
-=======
+# Leptosphaeria baldingerae Fautrey & Lambotte, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22(1-4): 87 (1969)
+null
 
 #### Original name
-Leptosphaeria baldingerae Fautrey & Lambotte, 1897
+null
 
 ### Remarks
 null

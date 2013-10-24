@@ -1,5 +1,4 @@
-Phyllosticta equiseti Dobrozr. SPECIES
-=======
+# Phyllosticta equiseti Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

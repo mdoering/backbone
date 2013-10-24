@@ -1,5 +1,4 @@
-Phloeospora balsamorrhizae Solheim & K.S. Wilson SPECIES
-=======
+# Phloeospora balsamorrhizae Solheim & K.S. Wilson SPECIES
 
 #### Status
 ACCEPTED

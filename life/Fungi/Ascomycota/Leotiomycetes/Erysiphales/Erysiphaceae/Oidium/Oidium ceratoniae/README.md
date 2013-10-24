@@ -1,5 +1,4 @@
-Oidium ceratoniae Comes SPECIES
-=======
+# Oidium ceratoniae Comes SPECIES
 
 #### Status
 ACCEPTED

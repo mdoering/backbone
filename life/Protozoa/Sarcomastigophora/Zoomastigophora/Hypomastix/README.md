@@ -1,5 +1,4 @@
-Hypomastix B.W. Perfiliev, 1923 GENUS
-=======
+# Hypomastix B.W. Perfiliev, 1923 GENUS
 
 #### Status
 ACCEPTED

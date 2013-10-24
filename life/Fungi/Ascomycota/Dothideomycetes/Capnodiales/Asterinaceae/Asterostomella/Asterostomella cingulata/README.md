@@ -1,5 +1,4 @@
-Asterostomella cingulata Speg. SPECIES
-=======
+# Asterostomella cingulata Speg. SPECIES
 
 #### Status
 ACCEPTED

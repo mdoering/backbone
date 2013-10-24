@@ -1,5 +1,4 @@
-Aulotractus Hensen, 1887 GENUS
-=======
+# Aulotractus Hensen, 1887 GENUS
 
 #### Status
 ACCEPTED

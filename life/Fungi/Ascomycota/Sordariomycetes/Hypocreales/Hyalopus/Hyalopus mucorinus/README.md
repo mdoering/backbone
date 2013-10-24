@@ -1,5 +1,4 @@
-Hyalopus mucorinus Berk. & M.A. Curtis SPECIES
-=======
+# Hyalopus mucorinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

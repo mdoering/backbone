@@ -1,5 +1,4 @@
-Sphaerulina sambucina Peck SPECIES
-=======
+# Sphaerulina sambucina Peck SPECIES
 
 #### Status
 ACCEPTED

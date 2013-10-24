@@ -1,5 +1,4 @@
-Lactarius cupularis var. cupularis VARIETY
-=======
+# Lactarius cupularis (Bull. ex Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea tianshuiensis J.Z. Cao, L. Fan & B. Liu SPECIES
-=======
+# Otidea tianshuiensis J.Z. Cao, L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

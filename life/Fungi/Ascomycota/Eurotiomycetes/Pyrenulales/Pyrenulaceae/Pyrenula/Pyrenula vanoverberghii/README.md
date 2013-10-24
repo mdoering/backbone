@@ -1,5 +1,4 @@
-Pyrenula vanoverberghii SPECIES
-=======
+# Pyrenula vanoverberghii SPECIES
 
 #### Status
 ACCEPTED

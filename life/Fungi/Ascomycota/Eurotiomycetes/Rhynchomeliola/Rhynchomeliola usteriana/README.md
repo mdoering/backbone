@@ -1,5 +1,4 @@
-Rhynchomeliola usteriana (Speg.) Arx & E. Müll. SPECIES
-=======
+# Rhynchomeliola usteriana (Speg.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

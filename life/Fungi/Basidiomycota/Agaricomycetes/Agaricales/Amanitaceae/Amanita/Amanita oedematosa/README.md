@@ -1,5 +1,4 @@
-Amanita oedematosa Lam. SPECIES
-=======
+# Amanita oedematosa Lam. SPECIES
 
 #### Status
 ACCEPTED

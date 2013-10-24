@@ -1,5 +1,4 @@
-Polyporus molliculus Bres. SPECIES
-=======
+# Polyporus molliculus Bres. SPECIES
 
 #### Status
 ACCEPTED

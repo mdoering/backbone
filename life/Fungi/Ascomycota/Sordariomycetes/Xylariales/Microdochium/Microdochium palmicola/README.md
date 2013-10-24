@@ -1,5 +1,4 @@
-Microdochium palmicola Hol.-Jech. & Mercado SPECIES
-=======
+# Microdochium palmicola Hol.-Jech. & Mercado SPECIES
 
 #### Status
 ACCEPTED

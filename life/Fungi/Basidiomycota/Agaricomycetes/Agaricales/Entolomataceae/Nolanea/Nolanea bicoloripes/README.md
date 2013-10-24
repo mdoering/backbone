@@ -1,5 +1,4 @@
-Nolanea bicoloripes Largent & Thiers SPECIES
-=======
+# Nolanea bicoloripes Largent & Thiers SPECIES
 
 #### Status
 ACCEPTED

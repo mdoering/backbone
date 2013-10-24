@@ -1,5 +1,4 @@
-Psathyra subvestita Murrill SPECIES
-=======
+# Psathyra subvestita Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laciniocladium castaneae Petri, 1917 SPECIES
-=======
+# Laciniocladium castaneae Petri, 1917 SPECIES
 
 #### Status
 ACCEPTED

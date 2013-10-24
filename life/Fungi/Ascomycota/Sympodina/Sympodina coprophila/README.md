@@ -1,5 +1,4 @@
-Sympodina coprophila Subram. & Lodha SPECIES
-=======
+# Sympodina coprophila Subram. & Lodha SPECIES
 
 #### Status
 ACCEPTED

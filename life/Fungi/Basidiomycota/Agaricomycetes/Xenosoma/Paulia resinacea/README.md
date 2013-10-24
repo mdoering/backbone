@@ -1,5 +1,4 @@
-Paulia resinacea Lloyd SPECIES
-=======
+# Paulia resinacea Lloyd SPECIES
 
 #### Status
 ACCEPTED

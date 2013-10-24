@@ -1,5 +1,4 @@
-Phragmidium acaenincola Petr. SPECIES
-=======
+# Phragmidium acaenincola Petr. SPECIES
 
 #### Status
 ACCEPTED

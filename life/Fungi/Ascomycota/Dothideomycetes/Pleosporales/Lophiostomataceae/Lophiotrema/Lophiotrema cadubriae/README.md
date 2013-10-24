@@ -1,5 +1,4 @@
-Lophiotrema cadubriae Speg. SPECIES
-=======
+# Lophiotrema cadubriae Speg. SPECIES
 
 #### Status
 ACCEPTED

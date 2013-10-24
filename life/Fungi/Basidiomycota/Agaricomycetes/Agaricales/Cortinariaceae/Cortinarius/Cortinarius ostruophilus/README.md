@@ -1,5 +1,4 @@
-Cortinarius ostruophilus Rob. Henry SPECIES
-=======
+# Cortinarius ostruophilus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

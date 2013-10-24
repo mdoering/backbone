@@ -1,5 +1,4 @@
-Cheiromycina reimeri Printzen SPECIES
-=======
+# Cheiromycina reimeri Printzen SPECIES
 
 #### Status
 ACCEPTED

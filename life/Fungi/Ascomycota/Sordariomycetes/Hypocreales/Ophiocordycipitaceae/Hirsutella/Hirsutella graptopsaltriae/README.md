@@ -1,5 +1,4 @@
-Hirsutella graptopsaltriae (Kobayasi) H.C. Evans & Samson SPECIES
-=======
+# Hirsutella graptopsaltriae (Kobayasi) H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

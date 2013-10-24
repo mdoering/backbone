@@ -1,5 +1,4 @@
-Verrucaria romanica Oxner SPECIES
-=======
+# Verrucaria romanica Oxner SPECIES
 
 #### Status
 ACCEPTED

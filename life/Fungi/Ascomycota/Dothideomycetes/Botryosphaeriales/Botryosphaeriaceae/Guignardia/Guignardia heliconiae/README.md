@@ -1,5 +1,4 @@
-Guignardia heliconiae Gonz. Frag. & Cif. SPECIES
-=======
+# Guignardia heliconiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

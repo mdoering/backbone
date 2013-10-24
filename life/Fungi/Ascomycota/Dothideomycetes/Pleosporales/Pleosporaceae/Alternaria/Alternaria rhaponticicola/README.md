@@ -1,5 +1,4 @@
-Alternaria rhaponticicola X. Sun & T.Y. Zhang SPECIES
-=======
+# Alternaria rhaponticicola X. Sun & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

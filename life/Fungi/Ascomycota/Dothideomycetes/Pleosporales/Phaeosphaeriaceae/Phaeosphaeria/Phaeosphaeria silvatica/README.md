@@ -1,14 +1,13 @@
-Leptosphaeria silvatica Pass., 1877 SPECIES
-=======
+# Phaeosphaeria silvatica (Pass.) Hedjar., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 16(6): 118 (1877)
+Sydowia 22(1-4): 91 (1968)
 
 #### Original name
 Leptosphaeria silvatica Pass., 1877

@@ -1,5 +1,4 @@
-Quinqueloculina arctica SPECIES
-=======
+# Quinqueloculina arctica SPECIES
 
 #### Status
 ACCEPTED

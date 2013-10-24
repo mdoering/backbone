@@ -1,5 +1,4 @@
-Marasmius neglectus Singer SPECIES
-=======
+# Marasmius neglectus Singer SPECIES
 
 #### Status
 ACCEPTED

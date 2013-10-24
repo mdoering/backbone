@@ -1,5 +1,4 @@
-Buellia galapagona W.A. Weber SPECIES
-=======
+# Buellia galapagona W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

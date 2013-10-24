@@ -1,5 +1,4 @@
-Ammobaculites yardiensis Parker, 2009 SPECIES
-=======
+# Ammobaculites yardiensis Parker, 2009 SPECIES
 
 #### Status
 ACCEPTED

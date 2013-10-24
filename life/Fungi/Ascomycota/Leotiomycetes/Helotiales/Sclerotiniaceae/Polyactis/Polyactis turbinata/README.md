@@ -1,5 +1,4 @@
-Polyactis turbinata J.C. Schmidt SPECIES
-=======
+# Polyactis turbinata J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

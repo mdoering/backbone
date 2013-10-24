@@ -1,5 +1,4 @@
-Oxytricha rubra Dujardin, 1841 SPECIES
-=======
+# Oxytricha rubra Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

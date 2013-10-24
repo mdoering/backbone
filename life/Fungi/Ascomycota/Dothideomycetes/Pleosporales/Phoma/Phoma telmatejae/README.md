@@ -1,5 +1,4 @@
-Phoma telmatejae Brunaud SPECIES
-=======
+# Phoma telmatejae Brunaud SPECIES
 
 #### Status
 ACCEPTED

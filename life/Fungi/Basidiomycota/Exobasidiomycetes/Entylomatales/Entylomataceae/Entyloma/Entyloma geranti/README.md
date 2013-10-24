@@ -1,5 +1,4 @@
-Entyloma geranti M.N. Kusnezowa SPECIES
-=======
+# Entyloma geranti M.N. Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

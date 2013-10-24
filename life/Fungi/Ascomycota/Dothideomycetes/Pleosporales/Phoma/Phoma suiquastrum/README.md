@@ -1,5 +1,4 @@
-Phoma suiquastrum SPECIES
-=======
+# Phoma suiquastrum SPECIES
 
 #### Status
 ACCEPTED

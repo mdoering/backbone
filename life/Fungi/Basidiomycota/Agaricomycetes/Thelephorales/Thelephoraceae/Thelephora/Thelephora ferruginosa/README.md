@@ -1,5 +1,4 @@
-Thelephora ferruginosa Schrad. ex J.F. Gmel. SPECIES
-=======
+# Thelephora ferruginosa Schrad. ex J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

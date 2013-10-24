@@ -1,5 +1,4 @@
-Strombidium oblonga SPECIES
-=======
+# Strombidium oblonga SPECIES
 
 #### Status
 ACCEPTED

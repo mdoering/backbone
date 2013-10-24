@@ -1,5 +1,4 @@
-Cortinarius atroviolaceus M.M. Moser, 1987 SPECIES
-=======
+# Cortinarius atroviolaceus M.M. Moser, 1987 SPECIES
 
 #### Status
 ACCEPTED

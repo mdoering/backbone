@@ -1,5 +1,4 @@
-Periconia venezuelana M.B. Ellis SPECIES
-=======
+# Periconia venezuelana M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoxyla yerbae Speg. SPECIES
-=======
+# Endoxyla yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

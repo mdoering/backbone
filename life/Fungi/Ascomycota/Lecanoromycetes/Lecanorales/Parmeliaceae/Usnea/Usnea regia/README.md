@@ -1,5 +1,4 @@
-Usnea regia Motyka SPECIES
-=======
+# Usnea regia Motyka SPECIES
 
 #### Status
 ACCEPTED

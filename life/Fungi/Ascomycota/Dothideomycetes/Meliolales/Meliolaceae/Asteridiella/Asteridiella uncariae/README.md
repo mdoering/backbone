@@ -1,5 +1,4 @@
-Asteridiella uncariae (Rehm) Hansf. SPECIES
-=======
+# Asteridiella uncariae (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

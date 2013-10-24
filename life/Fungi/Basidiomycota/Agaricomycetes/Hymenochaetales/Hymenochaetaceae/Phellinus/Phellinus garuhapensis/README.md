@@ -1,5 +1,4 @@
-Phellinus garuhapensis J.E. Wright & Blumenf. SPECIES
-=======
+# Phellinus garuhapensis J.E. Wright & Blumenf. SPECIES
 
 #### Status
 ACCEPTED

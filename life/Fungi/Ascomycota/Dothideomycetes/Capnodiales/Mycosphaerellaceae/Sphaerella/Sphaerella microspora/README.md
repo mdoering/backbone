@@ -1,5 +1,4 @@
-Sphaerella microspora Sacc. SPECIES
-=======
+# Sphaerella microspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

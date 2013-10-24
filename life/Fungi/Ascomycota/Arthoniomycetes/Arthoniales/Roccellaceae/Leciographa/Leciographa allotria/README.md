@@ -1,5 +1,4 @@
-Leciographa allotria Rehm SPECIES
-=======
+# Leciographa allotria Rehm SPECIES
 
 #### Status
 ACCEPTED

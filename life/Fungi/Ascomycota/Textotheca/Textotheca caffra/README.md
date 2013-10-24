@@ -1,17 +1,16 @@
-Textotheca caffera Matsush. SPECIES
-=======
+# Textotheca caffra Matsush., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 28 (1996)
 
 #### Original name
-Textotheca caffera Matsush.
+Textotheca caffra Matsush., 1996
 
 ### Remarks
 null

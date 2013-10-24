@@ -1,5 +1,4 @@
-Phoma hardenbergiae Penz. & Sacc. SPECIES
-=======
+# Phoma hardenbergiae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

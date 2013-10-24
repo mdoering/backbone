@@ -1,5 +1,4 @@
-Myrotheciastrum Abbas & B. Sutton GENUS
-=======
+# Myrotheciastrum Abbas & B. Sutton GENUS
 
 #### Status
 ACCEPTED

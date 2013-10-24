@@ -1,14 +1,13 @@
-Acrosporium mangiferae (Berthet) Subram., 1971 SPECIES
-=======
+# Oidium mangiferae Berthet, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyphomycetes (New Delhi) 834 (1971)
+Boln Agric. , São Paulo 15: 818 (1914)
 
 #### Original name
 Oidium mangiferae Berthet, 1914

@@ -1,17 +1,16 @@
-Schismatomma abietinum f. abietinum FORM
-=======
+# Lecanactis abietina (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 275 (1855)
 
 #### Original name
-Schismatomma abietinum f. abietinum
+Lichen abietinus Ach.
 
 ### Remarks
 null

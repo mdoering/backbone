@@ -1,5 +1,4 @@
-Ptychogaster frondosus Lloyd SPECIES
-=======
+# Ptychogaster frondosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

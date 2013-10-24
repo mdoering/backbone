@@ -1,17 +1,16 @@
-Heptameria insignis (P. Karst.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria insignis (P. Karst.) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 14(no. 3): 120 (1957)
 
 #### Original name
-null
+Leptosphaeria insignis P. Karst.
 
 ### Remarks
 null

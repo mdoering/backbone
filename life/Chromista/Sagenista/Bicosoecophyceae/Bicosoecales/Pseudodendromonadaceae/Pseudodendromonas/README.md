@@ -1,5 +1,4 @@
-Pseudodendromonas Bourrelly, 1953 GENUS
-=======
+# Pseudodendromonas Bourrelly, 1953 GENUS
 
 #### Status
 ACCEPTED

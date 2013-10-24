@@ -1,5 +1,4 @@
-Vanderwaltozyma verrucispora C.F. Lee, C.H. Liu, Ninomiya, H. Kawas. & Nakase, 2009 SPECIES
-=======
+# Vanderwaltozyma verrucispora C.F. Lee, C.H. Liu, Ninomiya, H. Kawas. & Nakase, 2009 SPECIES
 
 #### Status
 ACCEPTED

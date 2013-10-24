@@ -1,5 +1,4 @@
-Hydrocybe brunneofulva (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe brunneofulva (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

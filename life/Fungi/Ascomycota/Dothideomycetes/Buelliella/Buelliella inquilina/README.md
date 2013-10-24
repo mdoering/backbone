@@ -1,5 +1,4 @@
-Buelliella inquilina (Tuck.) Fink SPECIES
-=======
+# Buelliella inquilina (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

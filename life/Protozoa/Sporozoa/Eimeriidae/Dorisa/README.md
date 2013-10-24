@@ -1,5 +1,4 @@
-Dorisa Levine, 1980 GENUS
-=======
+# Dorisa Levine, 1980 GENUS
 
 #### Status
 ACCEPTED

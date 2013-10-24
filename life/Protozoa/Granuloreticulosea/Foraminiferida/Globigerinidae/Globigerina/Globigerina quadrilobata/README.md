@@ -1,5 +1,4 @@
-Globigerina quadrilobata D'orbigny SPECIES
-=======
+# Globigerina quadrilobata D'orbigny SPECIES
 
 #### Status
 ACCEPTED

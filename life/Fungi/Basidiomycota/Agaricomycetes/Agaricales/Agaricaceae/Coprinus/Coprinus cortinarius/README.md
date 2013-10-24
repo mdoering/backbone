@@ -1,5 +1,4 @@
-Coprinus cortinarius J.E. Lange SPECIES
-=======
+# Coprinus cortinarius J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

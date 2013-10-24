@@ -1,5 +1,4 @@
-Romellia cornina (Peck) M.E. Barr SPECIES
-=======
+# Romellia cornina (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

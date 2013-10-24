@@ -1,5 +1,4 @@
-Graphis gloriosensis A. W. Archer & Elix SPECIES
-=======
+# Graphis gloriosensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

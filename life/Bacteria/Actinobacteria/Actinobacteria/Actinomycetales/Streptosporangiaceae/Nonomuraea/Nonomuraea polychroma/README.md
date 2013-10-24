@@ -1,5 +1,4 @@
-Nonomuraea polychroma (Galatenko et al., 1987) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea polychroma (Galatenko et al., 1987) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

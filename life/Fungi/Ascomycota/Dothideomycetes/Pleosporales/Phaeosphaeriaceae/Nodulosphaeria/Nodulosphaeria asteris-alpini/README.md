@@ -1,5 +1,4 @@
-Nodulosphaeria asteris-alpini (Gonz. Frag.) Checa SPECIES
-=======
+# Nodulosphaeria asteris-alpini (Gonz. Frag.) Checa SPECIES
 
 #### Status
 ACCEPTED

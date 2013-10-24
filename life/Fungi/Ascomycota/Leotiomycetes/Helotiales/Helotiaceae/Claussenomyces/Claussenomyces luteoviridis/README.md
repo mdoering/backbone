@@ -1,5 +1,4 @@
-Claussenomyces luteoviridis Ouell. & Korf SPECIES
-=======
+# Claussenomyces luteoviridis Ouell. & Korf SPECIES
 
 #### Status
 ACCEPTED

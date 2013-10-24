@@ -1,5 +1,4 @@
-Ophionecta GENUS
-=======
+# Ophionecta GENUS
 
 #### Status
 ACCEPTED

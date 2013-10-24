@@ -1,8 +1,7 @@
-Protoperidinium steini SPECIES
-=======
+# Peridinium steini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

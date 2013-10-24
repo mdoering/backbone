@@ -1,17 +1,16 @@
-Mucor petrinsularis var. petrinsularis Naumov VARIETY
-=======
+# Mucor fuscus Bainier, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tab. Opred. Predst. Mucor. 21 (1915)
+Bull. Soc. mycol. Fr. 19: 165 (1903)
 
 #### Original name
-Mucor petrinsularis var. petrinsularis Naumov
+Mucor fuscus Bainier, 1903
 
 ### Remarks
 null

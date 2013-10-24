@@ -1,5 +1,4 @@
-Rectotournayellina Lipina, 1965 GENUS
-=======
+# Rectotournayellina Lipina, 1965 GENUS
 
 #### Status
 ACCEPTED

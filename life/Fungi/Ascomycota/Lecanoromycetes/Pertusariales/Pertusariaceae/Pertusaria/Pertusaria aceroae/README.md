@@ -1,5 +1,4 @@
-Pertusaria aceroae Hern.-Padr., Etayo, I. Pérez-Vargas & Elix SPECIES
-=======
+# Pertusaria aceroae Hern.-Padr., Etayo, I. Pérez-Vargas & Elix SPECIES
 
 #### Status
 ACCEPTED

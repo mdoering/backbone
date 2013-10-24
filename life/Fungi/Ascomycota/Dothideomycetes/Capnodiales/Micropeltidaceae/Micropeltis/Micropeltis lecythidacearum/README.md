@@ -1,5 +1,4 @@
-Micropeltis lecythidacearum Bat., R. Garnier & O.M. Fonseca SPECIES
-=======
+# Micropeltis lecythidacearum Bat., R. Garnier & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

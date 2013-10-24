@@ -1,5 +1,4 @@
-Discolobatus Haq. GENUS
-=======
+# Discolobatus Haq. GENUS
 
 #### Status
 ACCEPTED

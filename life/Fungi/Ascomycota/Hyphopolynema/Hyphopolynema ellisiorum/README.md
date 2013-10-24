@@ -1,17 +1,16 @@
-Hyphopolynema ellisii B. Sutton & Alcorn SPECIES
-=======
+# Hyphopolynema ellisiorum B. Sutton & Alcorn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aust. J. Bot. 32(5): 554 (1984)
 
 #### Original name
-Hyphopolynema ellisii B. Sutton & Alcorn
+Hyphopolynema ellisiorum B. Sutton & Alcorn
 
 ### Remarks
 null

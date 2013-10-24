@@ -1,14 +1,13 @@
-Buellia adaucta Malme SPECIES
-=======
+# Stigmatochroma adaucta (Malme) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 306 (2000)
 
 #### Original name
 Buellia adaucta Malme

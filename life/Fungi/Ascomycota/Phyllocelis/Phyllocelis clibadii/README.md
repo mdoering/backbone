@@ -1,5 +1,4 @@
-Phyllocelis clibadii Syd., 1926 SPECIES
-=======
+# Phyllocelis clibadii Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

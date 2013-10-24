@@ -1,5 +1,4 @@
-Cladosporium maracuja Viégas SPECIES
-=======
+# Cladosporium maracuja Viégas SPECIES
 
 #### Status
 ACCEPTED

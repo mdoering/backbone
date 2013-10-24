@@ -1,5 +1,4 @@
-Verrucaria molaris Servít SPECIES
-=======
+# Verrucaria molaris Servít SPECIES
 
 #### Status
 ACCEPTED

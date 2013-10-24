@@ -1,5 +1,4 @@
-Anabaena aphanizomendoides Forti SPECIES
-=======
+# Anabaena aphanizomendoides Forti SPECIES
 
 #### Status
 ACCEPTED

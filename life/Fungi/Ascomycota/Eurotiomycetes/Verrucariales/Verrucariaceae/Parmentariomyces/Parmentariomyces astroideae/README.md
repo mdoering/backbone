@@ -1,5 +1,4 @@
-Parmentariomyces astroideae Cif. & Tomas. SPECIES
-=======
+# Parmentariomyces astroideae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

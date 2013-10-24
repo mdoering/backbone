@@ -1,5 +1,4 @@
-Parmelia fujisanensis Asahina SPECIES
-=======
+# Parmelia fujisanensis Asahina SPECIES
 
 #### Status
 ACCEPTED

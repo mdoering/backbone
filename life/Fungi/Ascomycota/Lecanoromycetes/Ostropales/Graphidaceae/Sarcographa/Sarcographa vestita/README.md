@@ -1,5 +1,4 @@
-Sarcographa vestita Fée SPECIES
-=======
+# Sarcographa vestita Fée SPECIES
 
 #### Status
 ACCEPTED

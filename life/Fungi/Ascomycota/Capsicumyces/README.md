@@ -1,5 +1,4 @@
-Capsicumyces Gamundí, Aramb. & Giaiotti GENUS
-=======
+# Capsicumyces Gamundí, Aramb. & Giaiotti GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptolyngbya norvegica (Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Leptolyngbya norvegica (Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora symplocicola (J.M. Yen) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora symplocicola (J.M. Yen) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

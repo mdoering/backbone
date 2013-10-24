@@ -1,5 +1,4 @@
-Hendersonula romagnesii Negru SPECIES
-=======
+# Hendersonula romagnesii Negru SPECIES
 
 #### Status
 ACCEPTED

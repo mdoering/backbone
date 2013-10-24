@@ -1,14 +1,13 @@
-Cintractia scleriae-lithospermi Thirum., 1950 SPECIES
-=======
+# Ustanciosporium scleriae-lithospermi (Thirum.) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 13: 173 (1950)
+Nova Hedwigia 70(3-4): 352 (2000)
 
 #### Original name
 Cintractia scleriae-lithospermi Thirum., 1950

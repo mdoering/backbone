@@ -1,5 +1,4 @@
-Peziza phaeoloma Lév. SPECIES
-=======
+# Peziza phaeoloma Lév. SPECIES
 
 #### Status
 ACCEPTED

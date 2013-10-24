@@ -1,17 +1,16 @@
-Dasyscypha lupini Velen. SPECIES
-=======
+# Dasyscyphus lupini Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae Novissimae 129 (1947)
 
 #### Original name
-Dasyscypha lupini Velen.
+Dasyscyphus lupini Velen.
 
 ### Remarks
 null

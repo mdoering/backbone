@@ -1,5 +1,4 @@
-Uromyces hardenbergiae McAlpine SPECIES
-=======
+# Uromyces hardenbergiae McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daidaphore G. Claus & B. Nagy, 1962 GENUS
-=======
+# Daidaphore G. Claus & B. Nagy, 1962 GENUS
 
 #### Status
 ACCEPTED

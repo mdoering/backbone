@@ -1,5 +1,4 @@
-Gonyaulax bruunii F.J.R. Taylor, 1976 SPECIES
-=======
+# Gonyaulax bruunii F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

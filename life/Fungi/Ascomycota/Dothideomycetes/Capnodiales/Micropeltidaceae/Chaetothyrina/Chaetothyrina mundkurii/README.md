@@ -1,5 +1,4 @@
-Chaetothyrina mundkurii Tilak SPECIES
-=======
+# Chaetothyrina mundkurii Tilak SPECIES
 
 #### Status
 ACCEPTED

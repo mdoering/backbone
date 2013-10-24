@@ -1,5 +1,4 @@
-Fomes pala (Lév.) Sacc. SPECIES
-=======
+# Fomes pala (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

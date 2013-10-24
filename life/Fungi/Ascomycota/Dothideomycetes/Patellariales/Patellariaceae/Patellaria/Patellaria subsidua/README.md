@@ -1,5 +1,4 @@
-Patellaria subsidua Cooke & Ellis SPECIES
-=======
+# Patellaria subsidua Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

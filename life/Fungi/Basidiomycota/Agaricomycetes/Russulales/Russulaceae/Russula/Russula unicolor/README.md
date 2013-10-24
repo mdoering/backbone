@@ -1,5 +1,4 @@
-Russula unicolor Romagn., 1967 SPECIES
-=======
+# Russula unicolor Romagn., 1967 SPECIES
 
 #### Status
 ACCEPTED

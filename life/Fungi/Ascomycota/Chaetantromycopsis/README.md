@@ -1,5 +1,4 @@
-Chaetantromycopsis H.P. Upadhyay, Cavalc. & A.A. Silva GENUS
-=======
+# Chaetantromycopsis H.P. Upadhyay, Cavalc. & A.A. Silva GENUS
 
 #### Status
 ACCEPTED

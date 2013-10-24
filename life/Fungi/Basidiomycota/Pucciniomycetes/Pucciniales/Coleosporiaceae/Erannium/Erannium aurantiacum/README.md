@@ -1,5 +1,4 @@
-Erannium aurantiacum Bonord. SPECIES
-=======
+# Erannium aurantiacum Bonord. SPECIES
 
 #### Status
 ACCEPTED

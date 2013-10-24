@@ -1,5 +1,4 @@
-Octaviania occidentalis Harkn. SPECIES
-=======
+# Octaviania occidentalis Harkn. SPECIES
 
 #### Status
 ACCEPTED

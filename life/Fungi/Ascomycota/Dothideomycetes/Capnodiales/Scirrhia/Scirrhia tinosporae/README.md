@@ -1,5 +1,4 @@
-Scirrhia tinosporae R. Rao & Modak SPECIES
-=======
+# Scirrhia tinosporae R. Rao & Modak SPECIES
 
 #### Status
 ACCEPTED

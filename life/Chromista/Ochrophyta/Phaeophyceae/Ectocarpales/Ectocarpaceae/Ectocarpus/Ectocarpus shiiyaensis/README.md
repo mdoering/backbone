@@ -1,5 +1,4 @@
-Ectocarpus shiiyaensis Noda SPECIES
-=======
+# Ectocarpus shiiyaensis Noda SPECIES
 
 #### Status
 ACCEPTED

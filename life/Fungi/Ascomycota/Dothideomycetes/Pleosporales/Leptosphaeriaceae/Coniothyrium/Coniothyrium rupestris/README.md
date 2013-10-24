@@ -1,5 +1,4 @@
-Coniothyrium rupestris M.L. Farr SPECIES
-=======
+# Coniothyrium rupestris M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

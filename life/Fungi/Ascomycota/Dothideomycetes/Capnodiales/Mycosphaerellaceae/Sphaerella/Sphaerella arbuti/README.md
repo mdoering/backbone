@@ -1,14 +1,13 @@
-Anomomyces arbuticolus (Fr.) Höhn. SPECIES
-=======
+# Sphaerella arbuti (Fr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 536 (1882)
 
 #### Original name
 Sphaeria arbuticola Fr., 1823

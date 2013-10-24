@@ -1,5 +1,4 @@
-Spilomyces gramineae Bat. & Peres SPECIES
-=======
+# Spilomyces gramineae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

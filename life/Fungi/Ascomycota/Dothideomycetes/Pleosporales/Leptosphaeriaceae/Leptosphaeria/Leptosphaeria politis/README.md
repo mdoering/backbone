@@ -1,5 +1,4 @@
-Leptosphaeria politis Petr. SPECIES
-=======
+# Leptosphaeria politis Petr. SPECIES
 
 #### Status
 ACCEPTED

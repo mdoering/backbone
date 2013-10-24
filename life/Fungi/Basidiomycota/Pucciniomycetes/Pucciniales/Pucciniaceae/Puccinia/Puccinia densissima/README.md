@@ -1,5 +1,4 @@
-Puccinia densissima Speg. SPECIES
-=======
+# Puccinia densissima Speg. SPECIES
 
 #### Status
 ACCEPTED

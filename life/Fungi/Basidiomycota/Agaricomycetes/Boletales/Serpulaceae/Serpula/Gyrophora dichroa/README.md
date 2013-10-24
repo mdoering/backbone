@@ -1,5 +1,4 @@
-Gyrophora dichroa (Nyl.) Müll. Arg. SPECIES
-=======
+# Gyrophora dichroa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

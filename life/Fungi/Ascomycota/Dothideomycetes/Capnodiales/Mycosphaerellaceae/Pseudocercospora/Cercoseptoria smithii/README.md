@@ -1,5 +1,4 @@
-Cercoseptoria smithii Petr. SPECIES
-=======
+# Cercoseptoria smithii Petr. SPECIES
 
 #### Status
 ACCEPTED

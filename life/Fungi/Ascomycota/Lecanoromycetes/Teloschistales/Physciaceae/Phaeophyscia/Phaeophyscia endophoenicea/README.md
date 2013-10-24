@@ -1,17 +1,16 @@
-Physcia endophoenicea f. endophoenicea FORM
-=======
+# Phaeophyscia endophoenicea (Harm.) Moberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 22(no. 1): 38 (1977)
 
 #### Original name
-Physcia endophoenicea f. endophoenicea
+Physcia obscura var. endophoenicea Harm.
 
 ### Remarks
 null

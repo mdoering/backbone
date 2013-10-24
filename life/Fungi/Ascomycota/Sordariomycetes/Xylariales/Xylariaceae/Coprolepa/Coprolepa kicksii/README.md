@@ -1,5 +1,4 @@
-Coprolepa kicksii Marchal & É.J. Marchal SPECIES
-=======
+# Coprolepa kicksii Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

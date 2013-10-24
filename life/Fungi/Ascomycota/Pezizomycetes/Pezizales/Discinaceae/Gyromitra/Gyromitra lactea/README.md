@@ -1,5 +1,4 @@
-Gyromitra lactea J.Z. Cao, L. Fan & B. Liu SPECIES
-=======
+# Gyromitra lactea J.Z. Cao, L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

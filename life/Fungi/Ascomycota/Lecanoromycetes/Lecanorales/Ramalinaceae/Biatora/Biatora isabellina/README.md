@@ -1,5 +1,4 @@
-Biatora isabellina Flot. SPECIES
-=======
+# Biatora isabellina Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aspergillus terreus var. terreus VARIETY
-=======
+# Aspergillus terreus Thom, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Thom & Church, Am. J. Bot. 5: 85-6 (1918)
 
 #### Original name
-Aspergillus terreus var. terreus
+Aspergillus terreus Thom, 1918
 
 ### Remarks
 null

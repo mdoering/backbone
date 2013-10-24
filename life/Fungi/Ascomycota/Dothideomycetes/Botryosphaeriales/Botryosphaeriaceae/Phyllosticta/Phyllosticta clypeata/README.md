@@ -1,5 +1,4 @@
-Phyllosticta clypeata Ellis & Everh. SPECIES
-=======
+# Phyllosticta clypeata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

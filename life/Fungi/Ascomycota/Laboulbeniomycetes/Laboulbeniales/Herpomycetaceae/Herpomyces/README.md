@@ -1,5 +1,4 @@
-Herpomyces Thaxt. GENUS
-=======
+# Herpomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

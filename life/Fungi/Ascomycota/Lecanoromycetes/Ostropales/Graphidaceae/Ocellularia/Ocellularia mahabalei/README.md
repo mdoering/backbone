@@ -1,14 +1,13 @@
-Thelotrema mahabalei Patw. & C.R. Kulk. SPECIES
-=======
+# Ocellularia mahabalei (Patw. & C.R. Kulk.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Norw. Jl Bot. 24: 128 (1977)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Thelotrema mahabalei Patw. & C.R. Kulk.

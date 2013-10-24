@@ -1,5 +1,4 @@
-Endophragmiella pallescens B. Sutton, 1973 SPECIES
-=======
+# Endophragmiella pallescens B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

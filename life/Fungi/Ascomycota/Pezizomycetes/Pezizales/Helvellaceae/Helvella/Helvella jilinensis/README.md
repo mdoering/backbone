@@ -1,5 +1,4 @@
-Helvella jilinensis J.Z. Cao, L. Fan & B. Liu SPECIES
-=======
+# Helvella jilinensis J.Z. Cao, L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

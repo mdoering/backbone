@@ -1,5 +1,4 @@
-Boletus fagicolor Berk. SPECIES
-=======
+# Boletus fagicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria endlicherae Syd. SPECIES
-=======
+# Septoria endlicherae Syd. SPECIES
 
 #### Status
 ACCEPTED

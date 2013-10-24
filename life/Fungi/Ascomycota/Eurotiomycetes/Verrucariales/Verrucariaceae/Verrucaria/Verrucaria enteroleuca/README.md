@@ -1,5 +1,4 @@
-Verrucaria enteroleuca (Spreng.) Spreng. SPECIES
-=======
+# Verrucaria enteroleuca (Spreng.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

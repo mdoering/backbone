@@ -1,5 +1,4 @@
-Hysterium sambuci Schumach. SPECIES
-=======
+# Hysterium sambuci Schumach. SPECIES
 
 #### Status
 ACCEPTED

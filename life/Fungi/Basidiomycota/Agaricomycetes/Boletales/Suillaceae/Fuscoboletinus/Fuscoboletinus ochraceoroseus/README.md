@@ -1,11 +1,10 @@
-Suillus ochraceoroseus (Snell) Singer, 1973 SPECIES
-=======
+# Fuscoboletinus ochraceoroseus (Snell) Pomerleau & Smith, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The National Checklist of Taiwan
 
 #### Published in
 null

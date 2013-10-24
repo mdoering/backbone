@@ -1,5 +1,4 @@
-Pleospora kirghisorum Domashova SPECIES
-=======
+# Pleospora kirghisorum Domashova SPECIES
 
 #### Status
 ACCEPTED

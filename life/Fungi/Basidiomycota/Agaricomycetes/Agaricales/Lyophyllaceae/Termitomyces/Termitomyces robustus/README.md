@@ -1,17 +1,16 @@
-Termitomyces robustus var. robustus (Beeli) R. Heim VARIETY
-=======
+# Termitomyces robustus (Beeli) R. Heim, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. État 21: 210 (1951)
 
 #### Original name
-Termitomyces robustus var. robustus (Beeli) R. Heim
+Schulzeria robusta Beeli, 1927
 
 ### Remarks
 null

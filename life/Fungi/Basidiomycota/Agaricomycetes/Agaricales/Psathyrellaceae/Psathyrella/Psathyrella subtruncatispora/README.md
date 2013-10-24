@@ -1,5 +1,4 @@
-Psathyrella subtruncatispora A.H. Sm. SPECIES
-=======
+# Psathyrella subtruncatispora A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caryospora phyllostachydis (Hara) I. Hino & Katum. SPECIES
-=======
+# Caryospora phyllostachydis (Hara) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

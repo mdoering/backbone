@@ -1,5 +1,4 @@
-Entonema tenuissimum Reinsch SPECIES
-=======
+# Entonema tenuissimum Reinsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora cynanchica (Sacc., E. Bommer & M. Rousseau) Kuntze SPECIES
-=======
+# Filaspora cynanchica (Sacc., E. Bommer & M. Rousseau) Kuntze SPECIES
 
 #### Status
 ACCEPTED

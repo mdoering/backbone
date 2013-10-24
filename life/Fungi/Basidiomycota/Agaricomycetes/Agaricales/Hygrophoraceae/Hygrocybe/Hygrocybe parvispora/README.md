@@ -1,5 +1,4 @@
-Hygrocybe parvispora T.K. Abraham, K.B. Vrinda & C.K. Pradeep SPECIES
-=======
+# Hygrocybe parvispora T.K. Abraham, K.B. Vrinda & C.K. Pradeep SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo thlaspi Sowerby SPECIES
-=======
+# Uredo thlaspi Sowerby SPECIES
 
 #### Status
 ACCEPTED

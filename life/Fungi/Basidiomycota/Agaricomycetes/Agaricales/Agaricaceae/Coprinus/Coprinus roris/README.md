@@ -1,5 +1,4 @@
-Coprinus roris Quél. SPECIES
-=======
+# Coprinus roris Quél. SPECIES
 
 #### Status
 ACCEPTED

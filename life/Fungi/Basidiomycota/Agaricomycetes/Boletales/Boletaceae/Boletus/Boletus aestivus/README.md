@@ -1,5 +1,4 @@
-Boletus aestivus Schlotterbach SPECIES
-=======
+# Boletus aestivus Schlotterbach SPECIES
 
 #### Status
 ACCEPTED

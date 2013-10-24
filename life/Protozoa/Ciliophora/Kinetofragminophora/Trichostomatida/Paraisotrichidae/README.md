@@ -1,5 +1,4 @@
-Paraisotrichidae FAMILY
-=======
+# Paraisotrichidae FAMILY
 
 #### Status
 ACCEPTED

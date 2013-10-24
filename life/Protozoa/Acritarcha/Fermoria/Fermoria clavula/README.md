@@ -1,5 +1,4 @@
-Fermoria clavula Vecoli, 1999 SPECIES
-=======
+# Fermoria clavula Vecoli, 1999 SPECIES
 
 #### Status
 ACCEPTED

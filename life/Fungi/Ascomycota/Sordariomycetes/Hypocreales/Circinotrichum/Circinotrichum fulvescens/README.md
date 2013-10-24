@@ -1,5 +1,4 @@
-Circinotrichum fulvescens Sacc. & Fautrey SPECIES
-=======
+# Circinotrichum fulvescens Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

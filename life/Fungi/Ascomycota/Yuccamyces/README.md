@@ -1,5 +1,4 @@
-Yuccamyces Gour, Dyko & B. Sutton GENUS
-=======
+# Yuccamyces Gour, Dyko & B. Sutton GENUS
 
 #### Status
 ACCEPTED

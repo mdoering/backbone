@@ -1,5 +1,4 @@
-Rosellinia hypoxyloides (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Rosellinia hypoxyloides (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

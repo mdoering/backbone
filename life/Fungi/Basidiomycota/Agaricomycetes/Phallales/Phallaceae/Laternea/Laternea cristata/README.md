@@ -1,5 +1,4 @@
-Laternea cristata Lloyd SPECIES
-=======
+# Laternea cristata Lloyd SPECIES
 
 #### Status
 ACCEPTED

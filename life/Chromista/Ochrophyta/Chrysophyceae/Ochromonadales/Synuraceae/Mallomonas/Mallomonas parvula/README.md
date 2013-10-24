@@ -1,5 +1,4 @@
-Mallomonas parvula var. nichollsii D.E. Wujek & R.G. Bland VARIETY
-=======
+# Mallomonas parvula Dürrschm. SPECIES
 
 #### Status
 ACCEPTED

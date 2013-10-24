@@ -1,5 +1,4 @@
-Stachybotrys longispora Matsush., 1975 SPECIES
-=======
+# Stachybotrys longispora Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

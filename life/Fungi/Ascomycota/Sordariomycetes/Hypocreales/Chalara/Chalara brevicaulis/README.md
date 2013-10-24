@@ -1,17 +1,16 @@
-Chalara brevicaule Aramb. & Gamundí SPECIES
-=======
+# Chalara brevicaulis Aramb. & Gamundí SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Arambarri, Gamundí & Bucsinszky, Darwiniana 23(2-4): 330 (1981)
 
 #### Original name
-Chalara brevicaule Aramb. & Gamundí
+Chalara brevicaulis Aramb. & Gamundí
 
 ### Remarks
 null

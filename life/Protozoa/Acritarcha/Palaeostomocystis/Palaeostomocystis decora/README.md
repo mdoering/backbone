@@ -1,5 +1,4 @@
-Palaeostomocystis decora Deflandre, 1945 SPECIES
-=======
+# Palaeostomocystis decora Deflandre, 1945 SPECIES
 
 #### Status
 ACCEPTED

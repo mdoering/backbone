@@ -1,5 +1,4 @@
-Striatococcolithus Bukry GENUS
-=======
+# Striatococcolithus Bukry GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena oscillatorioides Bory de Saint-Vincent ex Bornet & Flahault SPECIES
-=======
+# Anabaena oscillatorioides Bory de Saint-Vincent ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria clavata Peck SPECIES
-=======
+# Clavaria clavata Peck SPECIES
 
 #### Status
 ACCEPTED

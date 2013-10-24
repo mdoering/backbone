@@ -1,5 +1,4 @@
-Cercospora plucheae Petr. & Cif. SPECIES
-=======
+# Cercospora plucheae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

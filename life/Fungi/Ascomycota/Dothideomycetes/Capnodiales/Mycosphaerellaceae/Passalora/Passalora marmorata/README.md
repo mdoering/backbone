@@ -1,5 +1,4 @@
-Passalora marmorata (Tranzschel) U. Braun & Crous SPECIES
-=======
+# Passalora marmorata (Tranzschel) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

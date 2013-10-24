@@ -1,5 +1,4 @@
-Clitocybe nitens anon. SPECIES
-=======
+# Clitocybe nitens anon. SPECIES
 
 #### Status
 ACCEPTED

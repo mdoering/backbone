@@ -1,5 +1,4 @@
-Tretosohyrtana impexa (Tappan & Loeblich, 1971) Colbath, 1979 SPECIES
-=======
+# Tretosohyrtana impexa (Tappan & Loeblich, 1971) Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

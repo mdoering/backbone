@@ -1,5 +1,4 @@
-Sargassum salicifolium f. diversifolia (Bory) Grunow FORM
-=======
+# Sargassum salicifolium SPECIES
 
 #### Status
 ACCEPTED

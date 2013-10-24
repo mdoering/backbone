@@ -1,17 +1,16 @@
-Chytridium ottariensis Roane SPECIES
-=======
+# Chytridium ottariense Roane SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 65(3): 531 (1973)
 
 #### Original name
-Chytridium ottariensis Roane
+Chytridium ottariense Roane
 
 ### Remarks
 null

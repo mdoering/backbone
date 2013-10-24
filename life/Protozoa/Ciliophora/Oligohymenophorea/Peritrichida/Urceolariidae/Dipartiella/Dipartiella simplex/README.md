@@ -1,5 +1,4 @@
-Dipartiella simplex (Raabe, 1959) Stein G., 1961 SPECIES
-=======
+# Dipartiella simplex (Raabe, 1959) Stein G., 1961 SPECIES
 
 #### Status
 ACCEPTED

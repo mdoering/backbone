@@ -1,5 +1,4 @@
-Dendrosarcus micheneri (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus micheneri (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

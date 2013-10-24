@@ -1,5 +1,4 @@
-Cilioplea straminis (Cooke & Harkn.) M.E. Barr SPECIES
-=======
+# Cilioplea straminis (Cooke & Harkn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

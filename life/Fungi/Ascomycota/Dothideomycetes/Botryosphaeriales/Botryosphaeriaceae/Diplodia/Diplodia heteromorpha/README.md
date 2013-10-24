@@ -1,5 +1,4 @@
-Diplodia heteromorpha Westend. SPECIES
-=======
+# Diplodia heteromorpha Westend. SPECIES
 
 #### Status
 ACCEPTED

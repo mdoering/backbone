@@ -1,5 +1,4 @@
-Usnea isabellina C.W. Dodge SPECIES
-=======
+# Usnea isabellina C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorothecium schadenbergianum Stein SPECIES
-=======
+# Psorothecium schadenbergianum Stein SPECIES
 
 #### Status
 ACCEPTED

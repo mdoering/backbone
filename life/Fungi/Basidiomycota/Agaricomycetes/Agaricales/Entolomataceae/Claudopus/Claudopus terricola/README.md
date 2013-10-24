@@ -1,5 +1,4 @@
-Claudopus terricola Britzelm. SPECIES
-=======
+# Claudopus terricola Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grigelis pyrulus (d’Orbigny, 1826) SPECIES
-=======
+# Grigelis pyrulus (d’Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

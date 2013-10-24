@@ -1,5 +1,4 @@
-Myxofusicoccum rhois Bubák & Kábát SPECIES
-=======
+# Myxofusicoccum rhois Bubák & Kábát SPECIES
 
 #### Status
 ACCEPTED

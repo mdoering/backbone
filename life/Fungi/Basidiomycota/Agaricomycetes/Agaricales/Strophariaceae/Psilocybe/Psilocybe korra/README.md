@@ -1,5 +1,4 @@
-Psilocybe korra Grgur. SPECIES
-=======
+# Psilocybe korra Grgur. SPECIES
 
 #### Status
 ACCEPTED

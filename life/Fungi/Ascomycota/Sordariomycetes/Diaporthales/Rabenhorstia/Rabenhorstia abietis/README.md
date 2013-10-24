@@ -1,5 +1,4 @@
-Rabenhorstia abietis Naumov {?} SPECIES
-=======
+# Rabenhorstia abietis Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

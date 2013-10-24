@@ -1,17 +1,16 @@
-Melanomma conica Fuckel SPECIES
-=======
+# Melanomma conicum Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: 160 (1870)
 
 #### Original name
-Melanomma conica Fuckel
+Melanomma conicum Fuckel
 
 ### Remarks
 null

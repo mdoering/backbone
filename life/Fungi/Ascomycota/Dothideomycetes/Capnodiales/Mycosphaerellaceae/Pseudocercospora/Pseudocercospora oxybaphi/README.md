@@ -1,5 +1,4 @@
-Pseudocercospora oxybaphi (Ellis & Halst.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora oxybaphi (Ellis & Halst.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

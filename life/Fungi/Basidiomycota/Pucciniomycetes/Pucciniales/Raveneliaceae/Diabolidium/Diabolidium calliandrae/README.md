@@ -1,5 +1,4 @@
-Diabolidium calliandrae Berndt, 1995 SPECIES
-=======
+# Diabolidium calliandrae Berndt, 1995 SPECIES
 
 #### Status
 ACCEPTED

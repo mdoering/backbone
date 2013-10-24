@@ -1,5 +1,4 @@
-Lecanora cinnabariza Nyl. SPECIES
-=======
+# Lecanora cinnabariza Nyl. SPECIES
 
 #### Status
 ACCEPTED

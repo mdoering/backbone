@@ -1,5 +1,4 @@
-Oscillatoria meslini Frémy SPECIES
-=======
+# Oscillatoria meslini Frémy SPECIES
 
 #### Status
 ACCEPTED

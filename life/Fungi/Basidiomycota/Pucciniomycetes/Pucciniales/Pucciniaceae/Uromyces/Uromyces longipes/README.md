@@ -1,5 +1,4 @@
-Uromyces longipes (Lasch) Tranzschel SPECIES
-=======
+# Uromyces longipes (Lasch) Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbillicaria rigida (Du Rietz) Frey SPECIES
-=======
+# Umbillicaria rigida (Du Rietz) Frey SPECIES
 
 #### Status
 DOUBTFUL

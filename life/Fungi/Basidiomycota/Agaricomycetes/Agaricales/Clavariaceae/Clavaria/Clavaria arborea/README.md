@@ -1,5 +1,4 @@
-Clavaria arborea G.F. Atk. SPECIES
-=======
+# Clavaria arborea G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium octo J. Larsen SPECIES
-=======
+# Gymnodinium octo J. Larsen SPECIES
 
 #### Status
 ACCEPTED

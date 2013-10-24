@@ -1,5 +1,4 @@
-Phragmiticola Sherwood GENUS
-=======
+# Phragmiticola Sherwood GENUS
 
 #### Status
 ACCEPTED

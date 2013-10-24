@@ -1,5 +1,4 @@
-Dysteropsis pectinata Nowlin, 1913 SPECIES
-=======
+# Dysteropsis pectinata Nowlin, 1913 SPECIES
 
 #### Status
 ACCEPTED

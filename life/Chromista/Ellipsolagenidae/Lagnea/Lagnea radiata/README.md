@@ -1,5 +1,4 @@
-Lagnea radiata (Seguenza, 1862) SPECIES
-=======
+# Lagnea radiata (Seguenza, 1862) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gomphidius vinicolor subsp. jamaicensis (Murrill) Singer SUBSPECIES
-=======
+# Chroogomphus jamaicensis (Murrill) O.K. Mill., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 2: 531 (1946)
+Mycologia 56: 539 (1964)
 
 #### Original name
 Gomphidius jamaicensis Murrill, 1913

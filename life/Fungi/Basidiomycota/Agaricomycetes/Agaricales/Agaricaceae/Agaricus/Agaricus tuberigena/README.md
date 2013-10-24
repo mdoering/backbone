@@ -1,5 +1,4 @@
-Agaricus tuberigena Berk. SPECIES
-=======
+# Agaricus tuberigena Berk. SPECIES
 
 #### Status
 ACCEPTED

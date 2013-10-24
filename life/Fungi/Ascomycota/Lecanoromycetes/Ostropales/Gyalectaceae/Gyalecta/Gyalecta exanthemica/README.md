@@ -1,5 +1,4 @@
-Gyalecta exanthemica SPECIES
-=======
+# Gyalecta exanthemica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria pseudophlyctis Erichsen SPECIES
-=======
+# Pertusaria pseudophlyctis Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllactinia candollei Lév. SPECIES
-=======
+# Phyllactinia candollei Lév. SPECIES
 
 #### Status
 ACCEPTED

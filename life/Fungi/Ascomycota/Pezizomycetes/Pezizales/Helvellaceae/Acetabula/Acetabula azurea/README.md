@@ -1,5 +1,4 @@
-Acetabula azurea (Lév.) Sacc. SPECIES
-=======
+# Acetabula azurea (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

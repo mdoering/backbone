@@ -1,5 +1,4 @@
-Vibrio litoralis Nam, Chang, Park, Kwon, Quan, Park, Kim & Bae, 2007 SPECIES
-=======
+# Vibrio litoralis Nam, Chang, Park, Kwon, Quan, Park, Kim & Bae, 2007 SPECIES
 
 #### Status
 ACCEPTED

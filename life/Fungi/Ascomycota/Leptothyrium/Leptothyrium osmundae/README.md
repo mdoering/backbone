@@ -1,5 +1,4 @@
-Leptothyrium osmundae Bubák, 1916 SPECIES
-=======
+# Leptothyrium osmundae Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED

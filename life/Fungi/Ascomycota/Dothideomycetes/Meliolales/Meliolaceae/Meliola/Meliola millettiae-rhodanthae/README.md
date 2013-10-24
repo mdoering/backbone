@@ -1,5 +1,4 @@
-Meliola millettiae-rhodanthae Hansf. & Deighton SPECIES
-=======
+# Meliola millettiae-rhodanthae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

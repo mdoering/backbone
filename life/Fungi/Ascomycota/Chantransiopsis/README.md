@@ -1,5 +1,4 @@
-Chantransiopsis Thaxt. GENUS
-=======
+# Chantransiopsis Thaxt. GENUS
 
 #### Status
 ACCEPTED

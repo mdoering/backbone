@@ -1,5 +1,4 @@
-Everniastrum andense Kärnefelt SPECIES
-=======
+# Everniastrum andense Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

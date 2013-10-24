@@ -1,5 +1,4 @@
-Biatorina coccinea C.W. Dodge SPECIES
-=======
+# Biatorina coccinea C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

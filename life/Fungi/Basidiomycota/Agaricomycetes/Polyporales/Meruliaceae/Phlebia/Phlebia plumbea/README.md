@@ -1,5 +1,4 @@
-Phlebia plumbea Parmasto, 1967 SPECIES
-=======
+# Phlebia plumbea Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED

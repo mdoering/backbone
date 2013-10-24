@@ -1,17 +1,16 @@
-Parahelminthosporium Subram. & Bhat GENUS
-=======
+# Polytretophora Mercado GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 15(1-2): 61 (1989)
+Acta Bot. Cubana 16: 1 (1983)
 
 #### Original name
-Parahelminthosporium Subram. & Bhat
+Polytretophora Mercado
 
 ### Remarks
 null

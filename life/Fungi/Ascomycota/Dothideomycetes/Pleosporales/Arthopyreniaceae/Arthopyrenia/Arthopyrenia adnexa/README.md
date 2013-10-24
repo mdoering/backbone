@@ -1,5 +1,4 @@
-Arthopyrenia adnexa var. adnexa VARIETY
-=======
+# Arthopyrenia adnexa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthopyrenia adnexa var. adnexa
+Arthopyrenia adnexa Müll. Arg.
 
 ### Remarks
 null

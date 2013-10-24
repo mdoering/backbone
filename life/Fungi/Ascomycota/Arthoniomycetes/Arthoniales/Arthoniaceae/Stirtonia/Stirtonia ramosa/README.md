@@ -1,5 +1,4 @@
-Stirtonia ramosa Makhija & Patw. SPECIES
-=======
+# Stirtonia ramosa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

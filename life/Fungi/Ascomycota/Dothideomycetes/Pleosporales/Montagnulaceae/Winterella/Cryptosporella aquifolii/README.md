@@ -1,5 +1,4 @@
-Cryptosporella aquifolii Rehm SPECIES
-=======
+# Cryptosporella aquifolii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Amphileptus gigas Claparède & Lachmann, 1859 SPECIES
-=======
+# Monomacrocaryon gigas (Claparède & Lachmann, 1859) Vdacny, Orsi, Bourland, Shimano & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

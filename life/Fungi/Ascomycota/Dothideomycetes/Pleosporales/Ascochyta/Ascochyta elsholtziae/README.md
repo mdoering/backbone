@@ -1,5 +1,4 @@
-Ascochyta elsholtziae Bond.-Mont. SPECIES
-=======
+# Ascochyta elsholtziae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

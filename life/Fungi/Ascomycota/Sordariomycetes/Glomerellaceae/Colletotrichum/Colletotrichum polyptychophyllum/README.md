@@ -1,5 +1,4 @@
-Colletotrichum polyptychophyllum Sousa da Câmara SPECIES
-=======
+# Colletotrichum polyptychophyllum Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

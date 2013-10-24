@@ -1,5 +1,4 @@
-Bacidia rhodocardia (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rhodocardia (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

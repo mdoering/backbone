@@ -1,5 +1,4 @@
-Lenzites ciliata Lév. SPECIES
-=======
+# Lenzites ciliata Lév. SPECIES
 
 #### Status
 ACCEPTED

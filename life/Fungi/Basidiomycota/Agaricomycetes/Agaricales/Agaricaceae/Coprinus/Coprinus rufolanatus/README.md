@@ -1,5 +1,4 @@
-Coprinus rufolanatus Springael & Imler SPECIES
-=======
+# Coprinus rufolanatus Springael & Imler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stypopodium laciniatum Kützing SPECIES
-=======
+# Stypopodium laciniatum Kützing SPECIES
 
 #### Status
 ACCEPTED

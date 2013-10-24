@@ -1,14 +1,13 @@
-Searchomyces coprophiloides B.S. Mehrotra & M.D. Mehrotra, 1963 SPECIES
-=======
+# Amblyosporium coprophiloides (B.S. Mehrotra & M.D. Mehrotra) Piroz., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 16: 213 (1963)
+Can. J. Bot. 47: 333 (1969)
 
 #### Original name
 Searchomyces coprophiloides B.S. Mehrotra & M.D. Mehrotra, 1963

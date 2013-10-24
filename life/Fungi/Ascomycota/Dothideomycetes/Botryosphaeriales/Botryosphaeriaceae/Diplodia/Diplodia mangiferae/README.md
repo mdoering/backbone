@@ -1,5 +1,4 @@
-Diplodia mangiferae Koord. SPECIES
-=======
+# Diplodia mangiferae Koord. SPECIES
 
 #### Status
 ACCEPTED

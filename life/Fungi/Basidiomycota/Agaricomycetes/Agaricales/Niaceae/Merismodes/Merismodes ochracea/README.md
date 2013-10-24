@@ -1,5 +1,4 @@
-Merismodes ochracea (Hoffm.) D.A. Reid SPECIES
-=======
+# Merismodes ochracea (Hoffm.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

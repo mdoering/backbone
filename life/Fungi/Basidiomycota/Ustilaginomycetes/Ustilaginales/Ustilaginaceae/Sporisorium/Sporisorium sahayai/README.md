@@ -1,5 +1,4 @@
-Sporisorium sahayai (Mundk.) Vánky SPECIES
-=======
+# Sporisorium sahayai (Mundk.) Vánky SPECIES
 
 #### Status
 ACCEPTED

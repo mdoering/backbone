@@ -1,5 +1,4 @@
-Sphaerulina caricis Pat. SPECIES
-=======
+# Sphaerulina caricis Pat. SPECIES
 
 #### Status
 ACCEPTED

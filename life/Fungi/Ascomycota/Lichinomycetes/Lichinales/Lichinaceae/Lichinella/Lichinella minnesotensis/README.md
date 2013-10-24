@@ -1,5 +1,4 @@
-Lichinella minnesotensis (Fink) Essl. SPECIES
-=======
+# Lichinella minnesotensis (Fink) Essl. SPECIES
 
 #### Status
 ACCEPTED

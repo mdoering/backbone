@@ -1,5 +1,4 @@
-Vorticella canaliculata Muller, 1773 SPECIES
-=======
+# Vorticella canaliculata Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

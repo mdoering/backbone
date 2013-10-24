@@ -1,5 +1,4 @@
-Petalomonas calycimonadoides Christen SPECIES
-=======
+# Petalomonas calycimonadoides Christen SPECIES
 
 #### Status
 ACCEPTED

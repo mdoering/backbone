@@ -1,5 +1,4 @@
-Winteria lobata Tracy & Earle SPECIES
-=======
+# Winteria lobata Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

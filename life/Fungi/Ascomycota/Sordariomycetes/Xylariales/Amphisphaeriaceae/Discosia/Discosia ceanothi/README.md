@@ -1,5 +1,4 @@
-Discosia ceanothi (A.W. Ramaley) Nag Raj SPECIES
-=======
+# Discosia ceanothi (A.W. Ramaley) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum obscuratum Kirschst. SPECIES
-=======
+# Platystomum obscuratum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

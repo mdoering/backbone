@@ -1,5 +1,4 @@
-Cryptococcus pulcherrimus (Lindner) Benham SPECIES
-=======
+# Cryptococcus pulcherrimus (Lindner) Benham SPECIES
 
 #### Status
 ACCEPTED

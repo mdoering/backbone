@@ -1,5 +1,4 @@
-Stereum durbanense Van der Byl SPECIES
-=======
+# Stereum durbanense Van der Byl SPECIES
 
 #### Status
 ACCEPTED

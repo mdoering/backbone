@@ -1,5 +1,4 @@
-Porina laticarpa Lücking SPECIES
-=======
+# Porina laticarpa Lücking SPECIES
 
 #### Status
 ACCEPTED

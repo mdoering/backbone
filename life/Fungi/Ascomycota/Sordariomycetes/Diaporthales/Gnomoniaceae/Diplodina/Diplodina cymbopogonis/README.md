@@ -1,5 +1,4 @@
-Diplodina cymbopogonis S. Ahmad SPECIES
-=======
+# Diplodina cymbopogonis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

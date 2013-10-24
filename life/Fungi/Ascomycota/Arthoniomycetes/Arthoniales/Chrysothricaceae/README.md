@@ -1,5 +1,4 @@
-Chrysothricaceae FAMILY
-=======
+# Chrysothricaceae FAMILY
 
 #### Status
 ACCEPTED

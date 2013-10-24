@@ -1,5 +1,4 @@
-Zygosaccharomyces kombuchaensis Kurtzman, Robnett & Basehoar-Powers, 2001 SPECIES
-=======
+# Zygosaccharomyces kombuchaensis Kurtzman, Robnett & Basehoar-Powers, 2001 SPECIES
 
 #### Status
 ACCEPTED

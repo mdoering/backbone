@@ -1,5 +1,4 @@
-Diaporthe cydoniicola Petr. SPECIES
-=======
+# Diaporthe cydoniicola Petr. SPECIES
 
 #### Status
 ACCEPTED

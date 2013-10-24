@@ -1,5 +1,4 @@
-Gloeosporium comari Allesch. SPECIES
-=======
+# Gloeosporium comari Allesch. SPECIES
 
 #### Status
 ACCEPTED

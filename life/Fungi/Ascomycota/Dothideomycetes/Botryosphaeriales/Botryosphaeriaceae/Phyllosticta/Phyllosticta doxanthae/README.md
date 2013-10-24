@@ -1,5 +1,4 @@
-Phyllosticta doxanthae Verwoerd & du Plessis SPECIES
-=======
+# Phyllosticta doxanthae Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

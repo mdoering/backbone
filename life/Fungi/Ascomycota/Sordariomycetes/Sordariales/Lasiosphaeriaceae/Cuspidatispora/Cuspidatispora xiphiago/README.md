@@ -1,5 +1,4 @@
-Cuspidatispora xiphiago Shearer & Bartolata, 2006 SPECIES
-=======
+# Cuspidatispora xiphiago Shearer & Bartolata, 2006 SPECIES
 
 #### Status
 ACCEPTED

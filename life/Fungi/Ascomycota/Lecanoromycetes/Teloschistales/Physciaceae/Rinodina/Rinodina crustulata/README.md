@@ -1,5 +1,4 @@
-Rinodina crustulata (A. Massal.) Arnold SPECIES
-=======
+# Rinodina crustulata (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

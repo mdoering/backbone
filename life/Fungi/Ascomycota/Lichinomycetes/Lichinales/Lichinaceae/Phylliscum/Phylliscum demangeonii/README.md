@@ -1,14 +1,13 @@
-Collema demangeonii Moug. & Mont. SPECIES
-=======
+# Phylliscum demangeonii (Moug. & Mont.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 12: 291 (1849)
+Mém. Soc. Imp. Sci. Nat. Cherbourg 3: 166 (1855)
 
 #### Original name
 Collema demangeonii Moug. & Mont.

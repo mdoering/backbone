@@ -1,17 +1,16 @@
-Peziza hirtococcinea W. Phillips & Plowr., 1887 SPECIES
-=======
+# Ciliaria hirtococcinea (W. Phillips & Plowr.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 212 (1887)
+null
 
 #### Original name
-Peziza hirtococcinea W. Phillips & Plowr., 1887
+Lachnea hirtococcinea (W. Phillips & Plowr.) W. Phillips & Plowr., 1887
 
 ### Remarks
 null

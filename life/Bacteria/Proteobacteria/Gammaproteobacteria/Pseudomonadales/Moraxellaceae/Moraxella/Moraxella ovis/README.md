@@ -1,5 +1,4 @@
-Moraxella ovis (Lindqvist, 1960) Bøvre, 1984 SPECIES
-=======
+# Moraxella ovis (Lindqvist, 1960) Bøvre, 1984 SPECIES
 
 #### Status
 ACCEPTED

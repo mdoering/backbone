@@ -1,5 +1,4 @@
-Lophiostoma notarisii Nitschke SPECIES
-=======
+# Lophiostoma notarisii Nitschke SPECIES
 
 #### Status
 ACCEPTED

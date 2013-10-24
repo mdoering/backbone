@@ -1,5 +1,4 @@
-Discokatorella Kozur & Mostler, 1994 GENUS
-=======
+# Discokatorella Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

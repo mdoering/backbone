@@ -1,5 +1,4 @@
-Holosticha brevis Kahl, 1932 SPECIES
-=======
+# Holosticha brevis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

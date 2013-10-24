@@ -1,5 +1,4 @@
-Hypogymnia kosciuskoensis Elix SPECIES
-=======
+# Hypogymnia kosciuskoensis Elix SPECIES
 
 #### Status
 ACCEPTED

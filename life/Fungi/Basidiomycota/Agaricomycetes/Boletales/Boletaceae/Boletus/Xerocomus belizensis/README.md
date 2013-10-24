@@ -1,5 +1,4 @@
-Xerocomus belizensis Ortiz & T.J. Baroni SPECIES
-=======
+# Xerocomus belizensis Ortiz & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

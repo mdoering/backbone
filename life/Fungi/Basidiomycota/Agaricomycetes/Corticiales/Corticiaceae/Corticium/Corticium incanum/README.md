@@ -1,5 +1,4 @@
-Corticium incanum Burt SPECIES
-=======
+# Corticium incanum Burt SPECIES
 
 #### Status
 ACCEPTED

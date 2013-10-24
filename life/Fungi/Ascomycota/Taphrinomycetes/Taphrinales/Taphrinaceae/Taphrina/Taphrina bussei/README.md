@@ -1,5 +1,4 @@
-Taphrina bussei Fabre SPECIES
-=======
+# Taphrina bussei Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora maclurae (Thüm.) Morgan-Jones & R.A. Phelps SPECIES
-=======
+# Pseudocercospora maclurae (Thüm.) Morgan-Jones & R.A. Phelps SPECIES
 
 #### Status
 ACCEPTED

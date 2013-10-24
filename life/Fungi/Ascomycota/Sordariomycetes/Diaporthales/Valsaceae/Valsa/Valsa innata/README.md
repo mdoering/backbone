@@ -1,5 +1,4 @@
-Valsa innata Berk. & M.A. Curtis SPECIES
-=======
+# Valsa innata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pseudofrostii Ortiz SPECIES
-=======
+# Boletus pseudofrostii Ortiz SPECIES
 
 #### Status
 ACCEPTED

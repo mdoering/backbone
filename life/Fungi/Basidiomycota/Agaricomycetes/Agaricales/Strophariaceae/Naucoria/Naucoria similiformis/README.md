@@ -1,5 +1,4 @@
-Naucoria similiformis Murrill SPECIES
-=======
+# Naucoria similiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria cucubali Lebedeva SPECIES
-=======
+# Septoria cucubali Lebedeva SPECIES
 
 #### Status
 ACCEPTED

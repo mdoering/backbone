@@ -1,5 +1,4 @@
-Trichodesmium hildebrandtii Gomont SPECIES
-=======
+# Trichodesmium hildebrandtii Gomont SPECIES
 
 #### Status
 ACCEPTED

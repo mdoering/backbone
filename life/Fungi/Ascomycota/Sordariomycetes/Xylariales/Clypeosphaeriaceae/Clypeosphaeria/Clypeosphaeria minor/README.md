@@ -1,5 +1,4 @@
-Clypeosphaeria minor Ellis & Everh. SPECIES
-=======
+# Clypeosphaeria minor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

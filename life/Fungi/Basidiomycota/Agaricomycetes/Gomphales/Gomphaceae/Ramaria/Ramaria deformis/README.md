@@ -1,5 +1,4 @@
-Ramaria deformis Velen. SPECIES
-=======
+# Ramaria deformis Velen. SPECIES
 
 #### Status
 ACCEPTED

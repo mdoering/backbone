@@ -1,14 +1,13 @@
-Fomes dussii (Pat.) Sacc., 1902 SPECIES
-=======
+# Ganoderma dussii Pat., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 154 (1902)
+Bull. Soc. mycol. Fr. 15: 198 (1899)
 
 #### Original name
 Ganoderma dussii Pat., 1899

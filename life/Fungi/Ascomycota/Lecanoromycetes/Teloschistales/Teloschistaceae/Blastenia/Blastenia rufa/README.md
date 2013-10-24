@@ -1,5 +1,4 @@
-Blastenia rufa (C.W. Dodge & G.E. Baker) Cretz. SPECIES
-=======
+# Blastenia rufa (C.W. Dodge & G.E. Baker) Cretz. SPECIES
 
 #### Status
 ACCEPTED

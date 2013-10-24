@@ -1,5 +1,4 @@
-Galera hydrocyboides Velen. SPECIES
-=======
+# Galera hydrocyboides Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia valida Arthur SPECIES
-=======
+# Puccinia valida Arthur SPECIES
 
 #### Status
 ACCEPTED

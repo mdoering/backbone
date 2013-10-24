@@ -1,5 +1,4 @@
-Belonium furvum Kirschst. SPECIES
-=======
+# Belonium furvum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

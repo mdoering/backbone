@@ -1,5 +1,4 @@
-Isthmolongispora geniculata Nawawi & Kuthub. SPECIES
-=======
+# Isthmolongispora geniculata Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

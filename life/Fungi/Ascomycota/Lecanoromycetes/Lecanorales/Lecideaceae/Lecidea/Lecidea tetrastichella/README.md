@@ -1,5 +1,4 @@
-Lecidea tetrastichella Nyl. SPECIES
-=======
+# Lecidea tetrastichella Nyl. SPECIES
 
 #### Status
 ACCEPTED

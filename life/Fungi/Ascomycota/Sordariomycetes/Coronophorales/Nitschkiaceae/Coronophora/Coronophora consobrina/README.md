@@ -1,5 +1,4 @@
-Coronophora consobrina P. Karst. SPECIES
-=======
+# Coronophora consobrina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

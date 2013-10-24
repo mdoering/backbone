@@ -1,5 +1,4 @@
-Deflexula Corner GENUS
-=======
+# Deflexula Corner GENUS
 
 #### Status
 ACCEPTED

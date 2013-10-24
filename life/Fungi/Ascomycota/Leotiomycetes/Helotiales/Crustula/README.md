@@ -1,5 +1,4 @@
-Crustula GENUS
-=======
+# Crustula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccocarpia glaucina Kremp. SPECIES
-=======
+# Coccocarpia glaucina Kremp. SPECIES
 
 #### Status
 ACCEPTED

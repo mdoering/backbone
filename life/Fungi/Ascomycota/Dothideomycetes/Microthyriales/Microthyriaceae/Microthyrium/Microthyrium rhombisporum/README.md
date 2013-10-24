@@ -1,5 +1,4 @@
-Microthyrium rhombisporum Orejuela SPECIES
-=======
+# Microthyrium rhombisporum Orejuela SPECIES
 
 #### Status
 ACCEPTED

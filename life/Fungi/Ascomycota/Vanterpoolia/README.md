@@ -1,5 +1,4 @@
-Vanterpoolia A. Funk GENUS
-=======
+# Vanterpoolia A. Funk GENUS
 
 #### Status
 ACCEPTED

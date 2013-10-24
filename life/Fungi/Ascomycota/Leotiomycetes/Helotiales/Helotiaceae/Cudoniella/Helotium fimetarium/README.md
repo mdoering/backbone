@@ -1,5 +1,4 @@
-Helotium fimetarium SPECIES
-=======
+# Helotium fimetarium SPECIES
 
 #### Status
 ACCEPTED

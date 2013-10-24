@@ -1,17 +1,16 @@
-Phylloporus rhodoxanthus subsp. europaeus Singer SUBSPECIES
-=======
+# Phylloporus pelletieri (Lév.) Quél., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 3(4/5): 169 (1938)
+Fl. mycol. France (Paris) 409 (1888)
 
 #### Original name
-Phylloporus rhodoxanthus subsp. europaeus Singer
+Agaricus pelletieri Lév., 1867
 
 ### Remarks
 null

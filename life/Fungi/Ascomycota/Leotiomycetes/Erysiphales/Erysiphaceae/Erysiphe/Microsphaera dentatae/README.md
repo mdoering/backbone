@@ -1,5 +1,4 @@
-Microsphaera dentatae Liou SPECIES
-=======
+# Microsphaera dentatae Liou SPECIES
 
 #### Status
 ACCEPTED

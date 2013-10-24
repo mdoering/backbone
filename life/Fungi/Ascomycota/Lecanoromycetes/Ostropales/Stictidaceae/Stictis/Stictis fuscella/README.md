@@ -1,5 +1,4 @@
-Stictis fuscella Sherwood SPECIES
-=======
+# Stictis fuscella Sherwood SPECIES
 
 #### Status
 ACCEPTED

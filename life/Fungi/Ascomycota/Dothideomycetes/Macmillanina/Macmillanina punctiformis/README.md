@@ -1,5 +1,4 @@
-Macmillanina punctiformis (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Macmillanina punctiformis (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

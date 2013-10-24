@@ -1,5 +1,4 @@
-Microsphaera rubi Cherem. SPECIES
-=======
+# Microsphaera rubi Cherem. SPECIES
 
 #### Status
 ACCEPTED

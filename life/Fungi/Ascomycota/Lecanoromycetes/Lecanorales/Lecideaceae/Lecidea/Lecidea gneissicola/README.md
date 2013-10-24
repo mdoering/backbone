@@ -1,5 +1,4 @@
-Lecidea gneissicola Zahlbr. SPECIES
-=======
+# Lecidea gneissicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

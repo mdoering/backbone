@@ -1,5 +1,4 @@
-Gelatinopsis roccellae Etayo, Paz-Berm. & Diederich SPECIES
-=======
+# Gelatinopsis roccellae Etayo, Paz-Berm. & Diederich SPECIES
 
 #### Status
 ACCEPTED

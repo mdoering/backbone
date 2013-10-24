@@ -1,5 +1,4 @@
-Fellomyces sichuanensis Prillinger, G. Kraep. & Lopandic SPECIES
-=======
+# Fellomyces sichuanensis Prillinger, G. Kraep. & Lopandic SPECIES
 
 #### Status
 ACCEPTED

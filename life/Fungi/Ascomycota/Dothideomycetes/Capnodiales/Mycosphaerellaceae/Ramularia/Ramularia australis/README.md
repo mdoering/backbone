@@ -1,5 +1,4 @@
-Ramularia australis Sacc. SPECIES
-=======
+# Ramularia australis Sacc. SPECIES
 
 #### Status
 ACCEPTED

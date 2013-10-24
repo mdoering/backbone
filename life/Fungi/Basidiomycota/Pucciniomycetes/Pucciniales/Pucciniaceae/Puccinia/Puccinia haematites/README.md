@@ -1,5 +1,4 @@
-Puccinia haematites Syd. & P. Syd. SPECIES
-=======
+# Puccinia haematites Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

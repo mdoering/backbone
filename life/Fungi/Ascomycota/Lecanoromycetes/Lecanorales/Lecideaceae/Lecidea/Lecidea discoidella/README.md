@@ -1,5 +1,4 @@
-Lecidea discoidella Nyl. SPECIES
-=======
+# Lecidea discoidella Nyl. SPECIES
 
 #### Status
 ACCEPTED

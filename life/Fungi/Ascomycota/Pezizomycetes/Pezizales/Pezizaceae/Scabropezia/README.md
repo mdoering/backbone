@@ -1,5 +1,4 @@
-Scabropezia GENUS
-=======
+# Scabropezia GENUS
 
 #### Status
 ACCEPTED

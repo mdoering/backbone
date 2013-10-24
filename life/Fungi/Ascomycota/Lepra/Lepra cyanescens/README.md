@@ -1,5 +1,4 @@
-Lepra cyanescens Rabenh. SPECIES
-=======
+# Lepra cyanescens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium ichnanthi Rangel SPECIES
-=======
+# Sclerotium ichnanthi Rangel SPECIES
 
 #### Status
 ACCEPTED

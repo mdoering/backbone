@@ -1,5 +1,4 @@
-Pertusaria miniatescens A.W. Archer & Elix SPECIES
-=======
+# Pertusaria miniatescens A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

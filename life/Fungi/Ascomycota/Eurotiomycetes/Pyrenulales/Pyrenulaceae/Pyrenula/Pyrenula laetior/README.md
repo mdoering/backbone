@@ -1,5 +1,4 @@
-Pyrenula laetior Müll. Arg. SPECIES
-=======
+# Pyrenula laetior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cyperi-tagetiformis (Henn.) F. Kern SPECIES
-=======
+# Puccinia cyperi-tagetiformis (Henn.) F. Kern SPECIES
 
 #### Status
 ACCEPTED

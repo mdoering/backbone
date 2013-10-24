@@ -1,5 +1,4 @@
-Thelenella leucothelia SPECIES
-=======
+# Thelenella leucothelia SPECIES
 
 #### Status
 ACCEPTED

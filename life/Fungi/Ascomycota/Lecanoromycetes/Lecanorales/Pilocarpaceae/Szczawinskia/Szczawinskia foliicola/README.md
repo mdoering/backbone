@@ -1,5 +1,4 @@
-Szczawinskia foliicola Holien & Tønsberg SPECIES
-=======
+# Szczawinskia foliicola Holien & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

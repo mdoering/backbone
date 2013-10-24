@@ -1,5 +1,4 @@
-Abathostoma Berger, 1994 GENUS
-=======
+# Abathostoma Berger, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoroma fruticulosum P. James & Henssen SPECIES
-=======
+# Psoroma fruticulosum P. James & Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protosphaeridium Timofeev, 1966 GENUS
-=======
+# Protosphaeridium Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

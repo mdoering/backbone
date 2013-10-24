@@ -1,5 +1,4 @@
-Dictyonema minus Lücking, E. Navarro & Sipman, 2004 SPECIES
-=======
+# Dictyonema minus Lücking, E. Navarro & Sipman, 2004 SPECIES
 
 #### Status
 ACCEPTED

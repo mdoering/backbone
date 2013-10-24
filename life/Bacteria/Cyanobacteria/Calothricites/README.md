@@ -1,5 +1,4 @@
-Calothricites C.E. Bertrand, 1913 GENUS
-=======
+# Calothricites C.E. Bertrand, 1913 GENUS
 
 #### Status
 ACCEPTED

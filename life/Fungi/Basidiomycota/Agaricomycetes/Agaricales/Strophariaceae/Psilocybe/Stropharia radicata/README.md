@@ -1,5 +1,4 @@
-Stropharia radicata P.W. Graff SPECIES
-=======
+# Stropharia radicata P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

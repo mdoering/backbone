@@ -1,5 +1,4 @@
-Coccomyces salicinus (Ellis & Everh.) Sacc. SPECIES
-=======
+# Coccomyces salicinus (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

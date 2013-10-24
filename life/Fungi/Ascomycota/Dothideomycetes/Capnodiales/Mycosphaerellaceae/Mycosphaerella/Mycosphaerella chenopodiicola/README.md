@@ -1,5 +1,4 @@
-Mycosphaerella chenopodiicola (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella chenopodiicola (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

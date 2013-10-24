@@ -1,5 +1,4 @@
-Aecidium triglochinis Dietel & Holw. SPECIES
-=======
+# Aecidium triglochinis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

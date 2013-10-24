@@ -1,5 +1,4 @@
-Uredo temucensis H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo temucensis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

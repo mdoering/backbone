@@ -1,17 +1,16 @@
-Lepiota serena var. serena VARIETY
-=======
+# Leucoagaricus sericifer (Locq.) Vellinga, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 26: 45 (1880)
+Persoonia 17(3): 477 (2000)
 
 #### Original name
-Lepiota serena var. serena
+Pseudobaeospora sericifera Locq., 1952
 
 ### Remarks
 null

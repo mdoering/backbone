@@ -1,5 +1,4 @@
-Ophiobolus montagneanus (Delacr.) Sacc. SPECIES
-=======
+# Ophiobolus montagneanus (Delacr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

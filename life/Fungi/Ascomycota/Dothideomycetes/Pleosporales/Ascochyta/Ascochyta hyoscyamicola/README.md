@@ -1,5 +1,4 @@
-Ascochyta hyoscyamicola P.K. Chi SPECIES
-=======
+# Ascochyta hyoscyamicola P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

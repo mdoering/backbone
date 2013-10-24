@@ -1,5 +1,4 @@
-Phaeographis syngraphizans (Wright) Zahlbr. SPECIES
-=======
+# Phaeographis syngraphizans (Wright) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

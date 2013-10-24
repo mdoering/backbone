@@ -1,5 +1,4 @@
-Dasyscyphus citrinoalbus (Penz. & Sacc.) Cash SPECIES
-=======
+# Dasyscyphus citrinoalbus (Penz. & Sacc.) Cash SPECIES
 
 #### Status
 ACCEPTED

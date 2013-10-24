@@ -1,5 +1,4 @@
-Phoma lapageriae Henn. SPECIES
-=======
+# Phoma lapageriae Henn. SPECIES
 
 #### Status
 ACCEPTED

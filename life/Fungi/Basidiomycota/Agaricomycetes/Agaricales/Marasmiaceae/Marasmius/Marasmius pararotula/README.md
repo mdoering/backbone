@@ -1,5 +1,4 @@
-Marasmius pararotula Singer SPECIES
-=======
+# Marasmius pararotula Singer SPECIES
 
 #### Status
 ACCEPTED

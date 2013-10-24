@@ -1,5 +1,4 @@
-Leptosphaeria bocconiae (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria bocconiae (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

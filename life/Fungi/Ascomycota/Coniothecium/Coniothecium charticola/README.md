@@ -1,5 +1,4 @@
-Coniothecium charticola Fuckel SPECIES
-=======
+# Coniothecium charticola Fuckel SPECIES
 
 #### Status
 ACCEPTED

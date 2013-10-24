@@ -1,5 +1,4 @@
-Macrophoma alnigena Y. Nisik. & Watan. {?} SPECIES
-=======
+# Macrophoma alnigena Y. Nisik. & Watan. {?} SPECIES
 
 #### Status
 ACCEPTED

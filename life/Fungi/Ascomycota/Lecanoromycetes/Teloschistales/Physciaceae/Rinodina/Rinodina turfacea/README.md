@@ -1,5 +1,4 @@
-Rinodina turfacea subsp. turfacea SUBSPECIES
-=======
+# Rinodina turfacea (Wahlenb.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. lich. germ. (Breslau) 123 (1855)
 
 #### Original name
-Rinodina turfacea subsp. turfacea
+Lichen turfaceus Wahlenb.
 
 ### Remarks
 null

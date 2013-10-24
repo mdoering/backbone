@@ -1,5 +1,4 @@
-Scrippsiella precaria M. Montresor & A. Zingone SPECIES
-=======
+# Scrippsiella precaria M. Montresor & A. Zingone SPECIES
 
 #### Status
 ACCEPTED

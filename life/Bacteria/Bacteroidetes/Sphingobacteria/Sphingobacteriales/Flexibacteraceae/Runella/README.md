@@ -1,5 +1,4 @@
-Runella GENUS
-=======
+# Runella GENUS
 
 #### Status
 ACCEPTED

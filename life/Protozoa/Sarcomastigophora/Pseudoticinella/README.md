@@ -1,5 +1,4 @@
-Pseudoticinella Longoria, 1973 GENUS
-=======
+# Pseudoticinella Longoria, 1973 GENUS
 
 #### Status
 ACCEPTED

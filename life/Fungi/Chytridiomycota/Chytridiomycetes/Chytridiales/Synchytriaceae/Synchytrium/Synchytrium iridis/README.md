@@ -1,5 +1,4 @@
-Synchytrium iridis Rabenh. SPECIES
-=======
+# Synchytrium iridis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

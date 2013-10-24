@@ -1,5 +1,4 @@
-Cladosporium butyri C.N. Jensen SPECIES
-=======
+# Cladosporium butyri C.N. Jensen SPECIES
 
 #### Status
 ACCEPTED

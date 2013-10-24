@@ -1,5 +1,4 @@
-Marasmiellus contrarius (Kalchbr.) D.A. Reid SPECIES
-=======
+# Marasmiellus contrarius (Kalchbr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

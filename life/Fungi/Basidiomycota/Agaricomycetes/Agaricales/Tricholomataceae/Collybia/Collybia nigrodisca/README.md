@@ -1,5 +1,4 @@
-Collybia nigrodisca Peck SPECIES
-=======
+# Collybia nigrodisca Peck SPECIES
 
 #### Status
 ACCEPTED

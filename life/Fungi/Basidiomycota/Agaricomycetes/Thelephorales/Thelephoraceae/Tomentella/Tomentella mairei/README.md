@@ -1,5 +1,4 @@
-Tomentella mairei Bourdot SPECIES
-=======
+# Tomentella mairei Bourdot SPECIES
 
 #### Status
 ACCEPTED

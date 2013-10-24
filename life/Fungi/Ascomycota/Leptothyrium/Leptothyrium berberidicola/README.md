@@ -1,5 +1,4 @@
-Leptothyrium berberidicola C. Massal. SPECIES
-=======
+# Leptothyrium berberidicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

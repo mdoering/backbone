@@ -1,5 +1,4 @@
-Heterodinium leiorhynchum (Murray & Whitting) Kofoid SPECIES
-=======
+# Heterodinium leiorhynchum (Murray & Whitting) Kofoid SPECIES
 
 #### Status
 ACCEPTED

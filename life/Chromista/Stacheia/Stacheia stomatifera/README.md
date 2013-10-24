@@ -1,5 +1,4 @@
-Stacheia stomatifera Chapman, 1901 SPECIES
-=======
+# Stacheia stomatifera Chapman, 1901 SPECIES
 
 #### Status
 ACCEPTED

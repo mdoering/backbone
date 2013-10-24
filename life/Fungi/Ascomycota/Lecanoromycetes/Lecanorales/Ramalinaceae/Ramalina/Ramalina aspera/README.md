@@ -1,5 +1,4 @@
-Ramalina aspera Räsänen SPECIES
-=======
+# Ramalina aspera Räsänen SPECIES
 
 #### Status
 ACCEPTED

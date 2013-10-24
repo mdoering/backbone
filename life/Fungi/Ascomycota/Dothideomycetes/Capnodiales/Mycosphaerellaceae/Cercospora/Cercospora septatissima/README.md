@@ -1,5 +1,4 @@
-Cercospora septatissima Tracy & Earle SPECIES
-=======
+# Cercospora septatissima Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

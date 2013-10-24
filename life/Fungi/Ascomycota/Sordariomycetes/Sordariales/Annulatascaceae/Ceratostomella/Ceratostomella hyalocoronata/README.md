@@ -1,5 +1,4 @@
-Ceratostomella hyalocoronata Inderb. SPECIES
-=======
+# Ceratostomella hyalocoronata Inderb. SPECIES
 
 #### Status
 ACCEPTED

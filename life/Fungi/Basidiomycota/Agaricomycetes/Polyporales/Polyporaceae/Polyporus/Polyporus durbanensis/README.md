@@ -1,5 +1,4 @@
-Polyporus durbanensis Van der Byl SPECIES
-=======
+# Polyporus durbanensis Van der Byl SPECIES
 
 #### Status
 ACCEPTED

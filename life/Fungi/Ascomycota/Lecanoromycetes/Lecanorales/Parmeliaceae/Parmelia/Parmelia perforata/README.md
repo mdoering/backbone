@@ -1,5 +1,4 @@
-Parmelia perforata var. perforata VARIETY
-=======
+# Parmelia perforata (Sm. & Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Method. Lich. 1: 437 (1821)
 
 #### Original name
-null
+Lichen perforatus Sm. & Sowerby
 
 ### Remarks
 null

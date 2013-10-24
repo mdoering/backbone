@@ -1,5 +1,4 @@
-Arthrobotryum caudatum Syd. SPECIES
-=======
+# Arthrobotryum caudatum Syd. SPECIES
 
 #### Status
 ACCEPTED

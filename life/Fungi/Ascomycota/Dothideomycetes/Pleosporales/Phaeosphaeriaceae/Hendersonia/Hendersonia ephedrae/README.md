@@ -1,5 +1,4 @@
-Hendersonia ephedrae Hollós SPECIES
-=======
+# Hendersonia ephedrae Hollós SPECIES
 
 #### Status
 ACCEPTED

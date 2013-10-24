@@ -1,5 +1,4 @@
-Phyllosticta corsineae Gonz. Frag. SPECIES
-=======
+# Phyllosticta corsineae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

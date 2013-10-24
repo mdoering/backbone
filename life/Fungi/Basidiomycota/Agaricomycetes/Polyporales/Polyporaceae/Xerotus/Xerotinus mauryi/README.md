@@ -1,5 +1,4 @@
-Xerotinus mauryi (Pat.) Murrill SPECIES
-=======
+# Xerotinus mauryi (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

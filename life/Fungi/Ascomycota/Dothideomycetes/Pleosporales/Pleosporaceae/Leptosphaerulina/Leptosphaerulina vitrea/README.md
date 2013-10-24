@@ -1,5 +1,4 @@
-Leptosphaerulina vitrea (Rostr.) Woron. SPECIES
-=======
+# Leptosphaerulina vitrea (Rostr.) Woron. SPECIES
 
 #### Status
 ACCEPTED

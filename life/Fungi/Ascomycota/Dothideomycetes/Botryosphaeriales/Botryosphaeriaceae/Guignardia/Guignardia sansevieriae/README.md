@@ -1,14 +1,13 @@
-Discochora sansevieriae (Punith.) Bissett, 1986 SPECIES
-=======
+# Guignardia sansevieriae Punith., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 64(8): 1720 (1986)
+Mycol. Pap. 136: 45 (1974)
 
 #### Original name
 Guignardia sansevieriae Punith., 1974

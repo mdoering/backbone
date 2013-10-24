@@ -1,5 +1,4 @@
-Trichophyton minimum Le Calve {?} & Malherbe {?} SPECIES
-=======
+# Trichophyton minimum Le Calve {?} & Malherbe {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius lignicola Velen. SPECIES
-=======
+# Marasmius lignicola Velen. SPECIES
 
 #### Status
 ACCEPTED

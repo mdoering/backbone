@@ -1,5 +1,4 @@
-Fusidium longisporum G. Arnaud SPECIES
-=======
+# Fusidium longisporum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

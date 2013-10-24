@@ -1,5 +1,4 @@
-Phragmidium oblongum Bonord. SPECIES
-=======
+# Phragmidium oblongum Bonord. SPECIES
 
 #### Status
 ACCEPTED

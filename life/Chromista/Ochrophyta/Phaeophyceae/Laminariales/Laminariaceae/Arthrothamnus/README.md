@@ -1,5 +1,4 @@
-Arthrothamnus F.J. Ruprecht, 1848 GENUS
-=======
+# Arthrothamnus F.J. Ruprecht, 1848 GENUS
 
 #### Status
 ACCEPTED

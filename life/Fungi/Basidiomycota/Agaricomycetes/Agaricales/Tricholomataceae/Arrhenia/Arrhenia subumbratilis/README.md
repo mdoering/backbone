@@ -1,5 +1,4 @@
-Arrhenia subumbratilis Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia subumbratilis Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

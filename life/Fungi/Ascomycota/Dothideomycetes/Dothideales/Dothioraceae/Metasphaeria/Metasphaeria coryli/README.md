@@ -1,5 +1,4 @@
-Metasphaeria coryli var. coryli VARIETY
-=======
+# Metasphaeria coryli Celotti SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Miceti del parco e dintorni della scuola nazionale di agricoltura di Montpellier raccolti e studiati (1887)
 
 #### Original name
-Metasphaeria coryli var. coryli
+Metasphaeria coryli Celotti
 
 ### Remarks
 null

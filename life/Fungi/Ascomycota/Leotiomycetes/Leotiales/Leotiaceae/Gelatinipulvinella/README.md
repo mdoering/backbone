@@ -1,17 +1,16 @@
-Aureohyphozyma Hosoya & Y. Otani GENUS
-=======
+# Gelatinipulvinella Hosoya & Y. Otani GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 87(5): 690 (1995)
 
 #### Original name
-Aureohyphozyma Hosoya & Y. Otani
+Gelatinipulvinella Hosoya & Y. Otani
 
 ### Remarks
 null

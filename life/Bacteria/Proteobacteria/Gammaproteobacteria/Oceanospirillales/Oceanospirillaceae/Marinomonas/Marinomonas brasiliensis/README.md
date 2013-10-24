@@ -1,5 +1,4 @@
-Marinomonas brasiliensis Chimetto, Cleenwerck, Brocchi, Willems, De Vos & Thompson, 2010 SPECIES
-=======
+# Marinomonas brasiliensis Chimetto, Cleenwerck, Brocchi, Willems, De Vos & Thompson, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecanora thiomela Nyl. SPECIES
-=======
+# Rinodina thiomela (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 64: 515 (1881)
 
 #### Original name
 Lecanora thiomela Nyl.

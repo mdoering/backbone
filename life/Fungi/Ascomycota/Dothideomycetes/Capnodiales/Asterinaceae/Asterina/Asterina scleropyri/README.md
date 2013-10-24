@@ -1,5 +1,4 @@
-Asterina scleropyri Hosag. & Chandraprabha, 2009 SPECIES
-=======
+# Asterina scleropyri Hosag. & Chandraprabha, 2009 SPECIES
 
 #### Status
 ACCEPTED

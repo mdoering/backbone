@@ -1,5 +1,4 @@
-Pontosphaera cribraria (Perch-Nielsen, 1967) Haq, 1971 SPECIES
-=======
+# Pontosphaera cribraria (Perch-Nielsen, 1967) Haq, 1971 SPECIES
 
 #### Status
 ACCEPTED

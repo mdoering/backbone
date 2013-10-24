@@ -1,5 +1,4 @@
-Stereocaulon cornutum Müll. Arg. SPECIES
-=======
+# Stereocaulon cornutum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

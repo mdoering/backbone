@@ -1,5 +1,4 @@
-Pyrenocarpon Trevis. GENUS
-=======
+# Pyrenocarpon Trevis. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ditremis carinthiaca (J. Steiner) R.C. Harris SPECIES
-=======
+# Anisomeridium carinthiacum (J. Steiner) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Some Florida Lichens (New York) 32 (1990)
+in Egan, Bryologist 90(2): 163 (1987)
 
 #### Original name
 Arthopyrenia carinthiaca J. Steiner

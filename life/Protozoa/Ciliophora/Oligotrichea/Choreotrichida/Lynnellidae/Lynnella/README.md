@@ -1,5 +1,4 @@
-Lynnella Liu, Yi, Lin & Al-Rasheid, 2011 GENUS
-=======
+# Lynnella Liu, Yi, Lin & Al-Rasheid, 2011 GENUS
 
 #### Status
 ACCEPTED

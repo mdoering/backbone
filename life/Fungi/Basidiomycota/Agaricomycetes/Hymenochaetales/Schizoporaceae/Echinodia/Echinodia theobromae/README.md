@@ -1,14 +1,13 @@
-Polyporus theobromae (Pat.) Lloyd, 1920 SPECIES
-=======
+# Echinodia theobromae Pat., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 997 (1920)
+Bull. Soc. mycol. Fr. 34: 199 (1918)
 
 #### Original name
 Echinodia theobromae Pat., 1918

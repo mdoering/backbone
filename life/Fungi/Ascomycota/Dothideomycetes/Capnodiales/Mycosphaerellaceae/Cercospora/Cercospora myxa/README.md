@@ -1,5 +1,4 @@
-Cercospora myxa P. Syd. SPECIES
-=======
+# Cercospora myxa P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylthocorys GENUS
-=======
+# Tylthocorys GENUS
 
 #### Status
 ACCEPTED

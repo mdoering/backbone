@@ -1,17 +1,16 @@
-Rostrosphaeria Tehon & E.Y. Daniels GENUS
-=======
+# Botryosphaeria Cesati & De Notaris, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 19(3): 112 (1927)
+null
 
 #### Original name
-Rostrosphaeria Tehon & E.Y. Daniels
+null
 
 ### Remarks
 null

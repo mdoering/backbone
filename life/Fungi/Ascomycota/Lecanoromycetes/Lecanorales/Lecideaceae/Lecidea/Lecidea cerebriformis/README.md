@@ -1,5 +1,4 @@
-Lecidea cerebriformis Imshaug SPECIES
-=======
+# Lecidea cerebriformis Imshaug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Manginula scaettae Cavara SPECIES
-=======
+# Manginula scaettae Cavara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linochora nigrimacula (Speg.) Höhn. SPECIES
-=======
+# Linochora nigrimacula (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

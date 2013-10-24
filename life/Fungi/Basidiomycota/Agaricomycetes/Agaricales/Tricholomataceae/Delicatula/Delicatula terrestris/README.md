@@ -1,5 +1,4 @@
-Delicatula terrestris Velen. SPECIES
-=======
+# Delicatula terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria xera Fairm. SPECIES
-=======
+# Amphisphaeria xera Fairm. SPECIES
 
 #### Status
 ACCEPTED

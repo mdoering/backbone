@@ -1,5 +1,4 @@
-Cordyceps clavicipiticola Tokun. & S. Imai SPECIES
-=======
+# Cordyceps clavicipiticola Tokun. & S. Imai SPECIES
 
 #### Status
 ACCEPTED

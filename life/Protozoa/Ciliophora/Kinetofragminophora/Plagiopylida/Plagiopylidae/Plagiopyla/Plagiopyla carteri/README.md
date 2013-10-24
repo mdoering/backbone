@@ -1,5 +1,4 @@
-Plagiopyla carteri Kent, 1881 SPECIES
-=======
+# Plagiopyla carteri Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

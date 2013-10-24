@@ -1,5 +1,4 @@
-Harknessia qualeae Furlan. & Dianese SPECIES
-=======
+# Harknessia qualeae Furlan. & Dianese SPECIES
 
 #### Status
 ACCEPTED

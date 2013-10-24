@@ -1,5 +1,4 @@
-Pezizella glaberrima Penz. & Sacc. SPECIES
-=======
+# Pezizella glaberrima Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

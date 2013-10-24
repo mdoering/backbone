@@ -1,5 +1,4 @@
-Sporisorium horsfallii Vánky SPECIES
-=======
+# Sporisorium horsfallii Vánky SPECIES
 
 #### Status
 ACCEPTED

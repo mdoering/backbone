@@ -1,5 +1,4 @@
-Hysterangium neotunicatum Castellano & Beever, 1994 SPECIES
-=======
+# Hysterangium neotunicatum Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

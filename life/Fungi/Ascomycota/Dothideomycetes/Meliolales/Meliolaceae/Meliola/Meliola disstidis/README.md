@@ -1,5 +1,4 @@
-Meliola disstidis Hansf. & Deighton SPECIES
-=======
+# Meliola disstidis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

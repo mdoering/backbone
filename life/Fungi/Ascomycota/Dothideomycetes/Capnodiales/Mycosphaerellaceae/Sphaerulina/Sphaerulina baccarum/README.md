@@ -1,5 +1,4 @@
-Sphaerulina baccarum Rehm SPECIES
-=======
+# Sphaerulina baccarum Rehm SPECIES
 
 #### Status
 ACCEPTED

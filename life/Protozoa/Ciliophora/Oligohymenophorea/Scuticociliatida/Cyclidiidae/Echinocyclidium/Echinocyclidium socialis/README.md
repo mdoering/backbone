@@ -1,5 +1,4 @@
-Echinocyclidium socialis SPECIES
-=======
+# Echinocyclidium socialis SPECIES
 
 #### Status
 ACCEPTED

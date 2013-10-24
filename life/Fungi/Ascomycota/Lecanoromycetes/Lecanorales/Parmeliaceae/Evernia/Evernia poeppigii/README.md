@@ -1,5 +1,4 @@
-Evernia poeppigii (Nees & Flot.) M. Choisy SPECIES
-=======
+# Evernia poeppigii (Nees & Flot.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

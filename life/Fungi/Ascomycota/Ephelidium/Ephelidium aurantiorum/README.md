@@ -1,5 +1,4 @@
-Ephelidium aurantiorum Speg. SPECIES
-=======
+# Ephelidium aurantiorum Speg. SPECIES
 
 #### Status
 ACCEPTED

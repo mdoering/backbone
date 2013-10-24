@@ -1,5 +1,4 @@
-Lecanora poralifera (Suza) Räsänen SPECIES
-=======
+# Lecanora poralifera (Suza) Räsänen SPECIES
 
 #### Status
 ACCEPTED

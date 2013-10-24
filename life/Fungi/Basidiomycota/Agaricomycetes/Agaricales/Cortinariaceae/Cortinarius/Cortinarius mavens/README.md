@@ -1,5 +1,4 @@
-Cortinarius mavens Herp. SPECIES
-=======
+# Cortinarius mavens Herp. SPECIES
 
 #### Status
 ACCEPTED

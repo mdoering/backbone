@@ -1,5 +1,4 @@
-Rinodina salicina (Schrad.) Gray SPECIES
-=======
+# Rinodina salicina (Schrad.) Gray SPECIES
 
 #### Status
 ACCEPTED

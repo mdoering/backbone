@@ -1,5 +1,4 @@
-Catocarpus polycarpus Hepp SPECIES
-=======
+# Catocarpus polycarpus Hepp SPECIES
 
 #### Status
 ACCEPTED

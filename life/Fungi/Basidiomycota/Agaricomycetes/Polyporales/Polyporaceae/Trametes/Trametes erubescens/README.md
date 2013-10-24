@@ -1,5 +1,4 @@
-Trametes erubescens Schulzer SPECIES
-=======
+# Trametes erubescens Schulzer SPECIES
 
 #### Status
 ACCEPTED

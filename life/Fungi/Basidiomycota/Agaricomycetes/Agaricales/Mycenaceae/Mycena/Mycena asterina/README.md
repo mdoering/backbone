@@ -1,5 +1,4 @@
-Mycena asterina Desjardin, Capelari & Stevani SPECIES
-=======
+# Mycena asterina Desjardin, Capelari & Stevani SPECIES
 
 #### Status
 ACCEPTED

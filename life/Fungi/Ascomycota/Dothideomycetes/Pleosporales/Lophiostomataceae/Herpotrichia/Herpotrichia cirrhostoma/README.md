@@ -1,5 +1,4 @@
-Herpotrichia cirrhostoma (Berk. & Broome) Petch SPECIES
-=======
+# Herpotrichia cirrhostoma (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

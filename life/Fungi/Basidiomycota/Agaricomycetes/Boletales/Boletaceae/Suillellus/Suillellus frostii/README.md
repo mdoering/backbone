@@ -1,5 +1,4 @@
-Suillellus frostii (J.L. Russell) Murrill SPECIES
-=======
+# Suillellus frostii (J.L. Russell) Murrill SPECIES
 
 #### Status
 ACCEPTED

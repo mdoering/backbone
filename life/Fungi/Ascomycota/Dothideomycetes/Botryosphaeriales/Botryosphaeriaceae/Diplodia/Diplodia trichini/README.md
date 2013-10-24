@@ -1,5 +1,4 @@
-Diplodia trichini SPECIES
-=======
+# Diplodia trichini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema anceps Sacc. & D. Sacc. SPECIES
-=======
+# Sphaeronaema anceps Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

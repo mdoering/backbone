@@ -1,5 +1,4 @@
-Arthonia inconspicua Stirt. SPECIES
-=======
+# Arthonia inconspicua Stirt. SPECIES
 
 #### Status
 ACCEPTED

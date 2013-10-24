@@ -1,5 +1,4 @@
-Strigula astroidea Vain. SPECIES
-=======
+# Strigula astroidea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Koralionastes ellipticus Kohlm. & Volkm.-Kohlm., 1987 SPECIES
-=======
+# Koralionastes ellipticus Kohlm. & Volkm.-Kohlm., 1987 SPECIES
 
 #### Status
 ACCEPTED

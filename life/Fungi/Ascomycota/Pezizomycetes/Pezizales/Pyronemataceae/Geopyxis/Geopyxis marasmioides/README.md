@@ -1,5 +1,4 @@
-Geopyxis marasmioides Speg. SPECIES
-=======
+# Geopyxis marasmioides Speg. SPECIES
 
 #### Status
 ACCEPTED

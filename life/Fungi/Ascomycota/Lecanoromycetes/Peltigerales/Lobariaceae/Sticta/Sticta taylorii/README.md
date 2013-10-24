@@ -1,5 +1,4 @@
-Sticta taylorii C.W. Dodge SPECIES
-=======
+# Sticta taylorii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

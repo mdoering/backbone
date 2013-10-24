@@ -1,5 +1,4 @@
-Pluteus leptonia Rick SPECIES
-=======
+# Pluteus leptonia Rick SPECIES
 
 #### Status
 ACCEPTED

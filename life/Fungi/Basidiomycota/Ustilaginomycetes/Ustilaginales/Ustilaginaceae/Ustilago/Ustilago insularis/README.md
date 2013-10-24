@@ -1,5 +1,4 @@
-Ustilago insularis Henn. SPECIES
-=======
+# Ustilago insularis Henn. SPECIES
 
 #### Status
 ACCEPTED

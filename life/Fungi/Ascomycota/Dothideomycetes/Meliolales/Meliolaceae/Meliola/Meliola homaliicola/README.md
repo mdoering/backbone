@@ -1,5 +1,4 @@
-Meliola homaliicola Deighton SPECIES
-=======
+# Meliola homaliicola Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon oportense (Vain.) Räsänen SPECIES
-=======
+# Rhizocarpon oportense (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

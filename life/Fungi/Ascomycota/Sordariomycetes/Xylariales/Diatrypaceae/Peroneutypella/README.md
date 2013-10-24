@@ -1,5 +1,4 @@
-Peroneutypella GENUS
-=======
+# Peroneutypella GENUS
 
 #### Status
 ACCEPTED

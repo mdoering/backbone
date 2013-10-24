@@ -1,5 +1,4 @@
-Placopsis asahinae I.M. Lamb SPECIES
-=======
+# Placopsis asahinae I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

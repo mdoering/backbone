@@ -1,5 +1,4 @@
-Uredo diocleae Cummins SPECIES
-=======
+# Uredo diocleae Cummins SPECIES
 
 #### Status
 ACCEPTED

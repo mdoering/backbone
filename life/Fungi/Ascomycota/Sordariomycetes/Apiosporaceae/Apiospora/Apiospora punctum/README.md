@@ -1,5 +1,4 @@
-Apiospora punctum Sacc. & Speg. SPECIES
-=======
+# Apiospora punctum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

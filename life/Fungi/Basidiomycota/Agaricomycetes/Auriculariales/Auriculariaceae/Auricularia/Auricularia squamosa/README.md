@@ -1,5 +1,4 @@
-Auricularia squamosa Pat. & Har. SPECIES
-=======
+# Auricularia squamosa Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

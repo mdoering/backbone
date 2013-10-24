@@ -1,5 +1,4 @@
-Nodosaria affinis d'Orbigny SPECIES
-=======
+# Nodosaria affinis d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylicauda platensis (da Cunha & Fonseca, 1917) Balech, 1951 SPECIES
-=======
+# Stylicauda platensis (da Cunha & Fonseca, 1917) Balech, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia capillaris A. Blytt SPECIES
-=======
+# Collybia capillaris A. Blytt SPECIES
 
 #### Status
 ACCEPTED

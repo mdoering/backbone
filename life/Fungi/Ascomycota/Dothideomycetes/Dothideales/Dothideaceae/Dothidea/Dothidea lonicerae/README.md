@@ -1,5 +1,4 @@
-Dothidea lonicerae Cooke SPECIES
-=======
+# Dothidea lonicerae Cooke SPECIES
 
 #### Status
 ACCEPTED

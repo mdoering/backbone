@@ -1,5 +1,4 @@
-Nothopatella (Saccardo) Petrak & Sydow, 1926 GENUS
-=======
+# Nothopatella (Saccardo) Petrak & Sydow, 1926 GENUS
 
 #### Status
 ACCEPTED

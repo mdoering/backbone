@@ -1,14 +1,13 @@
-Cryptomela caricis (Corda) Sacc., 1884 SPECIES
-=======
+# Cryptosporium caricis Corda, 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 760 (1884)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 2: tab. 50 (1829)
 
 #### Original name
 Cryptosporium caricis Corda, 1829

@@ -1,5 +1,4 @@
-Cercospora triostei Chupp & H.C. Greene SPECIES
-=======
+# Cercospora triostei Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

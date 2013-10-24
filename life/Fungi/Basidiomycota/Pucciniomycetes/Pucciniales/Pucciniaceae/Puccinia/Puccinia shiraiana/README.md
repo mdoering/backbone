@@ -1,5 +1,4 @@
-Puccinia shiraiana Dietel & P. Syd. SPECIES
-=======
+# Puccinia shiraiana Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

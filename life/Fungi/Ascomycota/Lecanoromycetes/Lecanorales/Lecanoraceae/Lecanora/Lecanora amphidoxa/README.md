@@ -1,5 +1,4 @@
-Lecanora amphidoxa Stizenb. SPECIES
-=======
+# Lecanora amphidoxa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

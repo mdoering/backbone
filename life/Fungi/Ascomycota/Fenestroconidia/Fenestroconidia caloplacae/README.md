@@ -1,5 +1,4 @@
-Fenestroconidia caloplacae Calat. & Etayo, 1999 SPECIES
-=======
+# Fenestroconidia caloplacae Calat. & Etayo, 1999 SPECIES
 
 #### Status
 ACCEPTED

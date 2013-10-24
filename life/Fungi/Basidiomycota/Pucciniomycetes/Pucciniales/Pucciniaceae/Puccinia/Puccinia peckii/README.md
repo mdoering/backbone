@@ -1,5 +1,4 @@
-Puccinia peckii (De Toni) Kellerm. SPECIES
-=======
+# Puccinia peckii (De Toni) Kellerm. SPECIES
 
 #### Status
 ACCEPTED

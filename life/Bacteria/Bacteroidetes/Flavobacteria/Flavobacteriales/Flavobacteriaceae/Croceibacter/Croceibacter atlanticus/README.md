@@ -1,5 +1,4 @@
-Croceibacter atlanticus Cho & Giovannoni, 2003 SPECIES
-=======
+# Croceibacter atlanticus Cho & Giovannoni, 2003 SPECIES
 
 #### Status
 ACCEPTED

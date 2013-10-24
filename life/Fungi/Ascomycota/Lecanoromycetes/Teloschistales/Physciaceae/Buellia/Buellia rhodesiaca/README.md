@@ -1,5 +1,4 @@
-Buellia rhodesiaca Zahlbr. SPECIES
-=======
+# Buellia rhodesiaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

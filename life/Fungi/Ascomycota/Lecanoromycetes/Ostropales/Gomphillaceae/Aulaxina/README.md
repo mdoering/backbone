@@ -1,5 +1,4 @@
-Aulaxina Fée GENUS
-=======
+# Aulaxina Fée GENUS
 
 #### Status
 ACCEPTED

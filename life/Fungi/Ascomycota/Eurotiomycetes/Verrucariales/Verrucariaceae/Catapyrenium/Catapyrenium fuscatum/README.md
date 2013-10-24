@@ -1,5 +1,4 @@
-Catapyrenium fuscatum (Szatala) S.Y. Kondr. SPECIES
-=======
+# Catapyrenium fuscatum (Szatala) S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

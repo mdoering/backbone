@@ -1,5 +1,4 @@
-Nectria striatospora Zimm. SPECIES
-=======
+# Nectria striatospora Zimm. SPECIES
 
 #### Status
 ACCEPTED

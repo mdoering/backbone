@@ -1,5 +1,4 @@
-Dendrocyphella setosa Petch, 1922 SPECIES
-=======
+# Dendrocyphella setosa Petch, 1922 SPECIES
 
 #### Status
 ACCEPTED

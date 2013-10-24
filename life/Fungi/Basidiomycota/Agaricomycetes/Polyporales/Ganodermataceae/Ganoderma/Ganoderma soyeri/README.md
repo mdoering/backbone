@@ -1,5 +1,4 @@
-Ganoderma soyeri Steyaert SPECIES
-=======
+# Ganoderma soyeri Steyaert SPECIES
 
 #### Status
 ACCEPTED

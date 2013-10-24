@@ -1,5 +1,4 @@
-Diplodina laburni Brunaud SPECIES
-=======
+# Diplodina laburni Brunaud SPECIES
 
 #### Status
 ACCEPTED

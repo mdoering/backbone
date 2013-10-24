@@ -1,8 +1,7 @@
-Phytopthora GENUS
-=======
+# Phytophthora de Bary, 1876 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

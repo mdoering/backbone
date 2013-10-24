@@ -1,14 +1,13 @@
-Tilletia arctica Rostr. SPECIES
-=======
+# Orphanomyces arcticus (Rostr.) Savile, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 52(2): 342 (1974)
 
 #### Original name
 Tilletia arctica Rostr.

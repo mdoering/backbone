@@ -1,5 +1,4 @@
-Asterella subcuticulosa Cooke SPECIES
-=======
+# Asterella subcuticulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

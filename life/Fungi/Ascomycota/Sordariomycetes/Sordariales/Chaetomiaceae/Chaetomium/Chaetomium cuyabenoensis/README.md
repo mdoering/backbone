@@ -1,5 +1,4 @@
-Chaetomium cuyabenoensis Decock & Hennebert SPECIES
-=======
+# Chaetomium cuyabenoensis Decock & Hennebert SPECIES
 
 #### Status
 ACCEPTED

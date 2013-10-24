@@ -1,5 +1,4 @@
-Coleophoma laurocerasi (Desm.) Höhn. SPECIES
-=======
+# Coleophoma laurocerasi (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

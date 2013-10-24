@@ -1,5 +1,4 @@
-Agaricus lupuletorum Weinm. SPECIES
-=======
+# Agaricus lupuletorum Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lempholemma vamberyi (Vain.) Zahlbr. SPECIES
-=======
+# Lempholemma vamberyi (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

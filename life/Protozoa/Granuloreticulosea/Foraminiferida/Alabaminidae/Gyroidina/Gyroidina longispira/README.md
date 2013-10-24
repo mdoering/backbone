@@ -1,5 +1,4 @@
-Gyroidina longispira Tedeschi & Zanmatti, 1957 SPECIES
-=======
+# Gyroidina longispira Tedeschi & Zanmatti, 1957 SPECIES
 
 #### Status
 ACCEPTED

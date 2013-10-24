@@ -1,5 +1,4 @@
-Gemella haemolysans (Thjøtta and Bøe, 1938) Berger, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Gemella haemolysans (Thjøtta and Bøe, 1938) Berger, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialemonium curvatum W. Gams & W.B. Cooke, 1983 SPECIES
-=======
+# Phialemonium curvatum W. Gams & W.B. Cooke, 1983 SPECIES
 
 #### Status
 ACCEPTED

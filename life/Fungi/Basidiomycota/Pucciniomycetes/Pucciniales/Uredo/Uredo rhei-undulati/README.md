@@ -1,5 +1,4 @@
-Uredo rhei-undulati Dietel SPECIES
-=======
+# Uredo rhei-undulati Dietel SPECIES
 
 #### Status
 ACCEPTED

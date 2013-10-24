@@ -1,5 +1,4 @@
-Glabratellina traphera Loeblich & Tappan, 1994 SPECIES
-=======
+# Glabratellina traphera Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

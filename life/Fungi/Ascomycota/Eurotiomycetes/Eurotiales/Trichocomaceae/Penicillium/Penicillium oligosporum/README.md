@@ -1,5 +1,4 @@
-Penicillium oligosporum Saito & Minoura SPECIES
-=======
+# Penicillium oligosporum Saito & Minoura SPECIES
 
 #### Status
 ACCEPTED

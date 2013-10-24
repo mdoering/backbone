@@ -1,5 +1,4 @@
-Phlyctella oleosa (Stirt.) Müll. Arg. SPECIES
-=======
+# Phlyctella oleosa (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

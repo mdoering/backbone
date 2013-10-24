@@ -1,5 +1,4 @@
-Lecanora rutilescens Stirt. SPECIES
-=======
+# Lecanora rutilescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

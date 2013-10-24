@@ -1,5 +1,4 @@
-Chroococcus violaceus Rabenhorst SPECIES
-=======
+# Chroococcus violaceus Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

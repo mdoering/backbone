@@ -1,5 +1,4 @@
-Thelotrema atratum Fée SPECIES
-=======
+# Thelotrema atratum Fée SPECIES
 
 #### Status
 ACCEPTED

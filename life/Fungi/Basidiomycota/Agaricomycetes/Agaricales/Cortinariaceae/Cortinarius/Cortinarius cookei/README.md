@@ -1,5 +1,4 @@
-Cortinarius cookei Quél. SPECIES
-=======
+# Cortinarius cookei Quél. SPECIES
 
 #### Status
 ACCEPTED

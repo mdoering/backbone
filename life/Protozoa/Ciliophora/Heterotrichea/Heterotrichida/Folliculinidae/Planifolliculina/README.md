@@ -1,5 +1,4 @@
-Planifolliculina Hadzi, 1951 GENUS
-=======
+# Planifolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

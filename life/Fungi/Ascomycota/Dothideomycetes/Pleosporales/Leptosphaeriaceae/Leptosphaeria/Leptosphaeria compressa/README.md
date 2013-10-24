@@ -1,5 +1,4 @@
-Leptosphaeria compressa (Rehm) L. Holm SPECIES
-=======
+# Leptosphaeria compressa (Rehm) L. Holm SPECIES
 
 #### Status
 ACCEPTED

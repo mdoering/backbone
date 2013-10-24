@@ -1,5 +1,4 @@
-Pyrenula endoxantha Vain. SPECIES
-=======
+# Pyrenula endoxantha Vain. SPECIES
 
 #### Status
 ACCEPTED

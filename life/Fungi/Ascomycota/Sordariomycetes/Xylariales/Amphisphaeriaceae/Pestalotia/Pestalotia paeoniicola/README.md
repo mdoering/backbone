@@ -1,5 +1,4 @@
-Pestalotia paeoniicola Tsukam. & T. Hino SPECIES
-=======
+# Pestalotia paeoniicola Tsukam. & T. Hino SPECIES
 
 #### Status
 ACCEPTED

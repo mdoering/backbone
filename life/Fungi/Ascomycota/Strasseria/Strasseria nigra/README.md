@@ -1,5 +1,4 @@
-Strasseria nigra Dearn. SPECIES
-=======
+# Strasseria nigra Dearn. SPECIES
 
 #### Status
 ACCEPTED

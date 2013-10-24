@@ -1,5 +1,4 @@
-Phaeosphaeria cyperina (Pass.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria cyperina (Pass.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

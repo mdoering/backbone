@@ -1,5 +1,4 @@
-Hendersonia rosae Westend., 1857 SPECIES
-=======
+# Hendersonia rosae Westend., 1857 SPECIES
 
 #### Status
 ACCEPTED

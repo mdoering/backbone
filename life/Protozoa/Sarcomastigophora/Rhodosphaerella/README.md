@@ -1,5 +1,4 @@
-Rhodosphaerella Haeckel, 1887 GENUS
-=======
+# Rhodosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

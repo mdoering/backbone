@@ -1,5 +1,4 @@
-Maireina W.B. Cooke GENUS
-=======
+# Maireina W.B. Cooke GENUS
 
 #### Status
 ACCEPTED

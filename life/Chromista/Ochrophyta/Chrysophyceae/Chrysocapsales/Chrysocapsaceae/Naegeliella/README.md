@@ -1,5 +1,4 @@
-Naegeliella Correns, 1892 GENUS
-=======
+# Naegeliella Correns, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex aridus (Svrcek) Kotir. & Saaren. SPECIES
-=======
+# Irpex aridus (Svrcek) Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

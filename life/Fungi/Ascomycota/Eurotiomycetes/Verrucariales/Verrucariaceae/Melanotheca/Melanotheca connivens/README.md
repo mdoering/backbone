@@ -1,5 +1,4 @@
-Melanotheca connivens (Stirt.) Zahlbr. SPECIES
-=======
+# Melanotheca connivens (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

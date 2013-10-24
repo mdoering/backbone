@@ -1,5 +1,4 @@
-Exidia ampla Lév. SPECIES
-=======
+# Exidia ampla Lév. SPECIES
 
 #### Status
 ACCEPTED

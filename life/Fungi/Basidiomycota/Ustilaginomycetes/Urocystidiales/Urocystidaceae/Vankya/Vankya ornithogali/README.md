@@ -1,17 +1,16 @@
-Ustilago ornithogali f. ornithogali FORM
-=======
+# Vankya ornithogali (J.C. Schmidt & Kunze) Ershad, 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 14: 19 (1875)
+Rostaniha 1(1-4): 66 (2000)
 
 #### Original name
-Ustilago ornithogali f. ornithogali
+Uredo ornithogali J.C. Schmidt & Kunze, 1819
 
 ### Remarks
 null

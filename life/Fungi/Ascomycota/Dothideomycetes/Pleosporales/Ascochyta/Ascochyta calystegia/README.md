@@ -1,5 +1,4 @@
-Ascochyta calystegia Sacc. SPECIES
-=======
+# Ascochyta calystegia Sacc. SPECIES
 
 #### Status
 ACCEPTED

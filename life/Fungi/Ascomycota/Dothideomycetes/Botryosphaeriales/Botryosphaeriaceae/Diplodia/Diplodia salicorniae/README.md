@@ -1,5 +1,4 @@
-Diplodia salicorniae Jaap, 1907 SPECIES
-=======
+# Diplodia salicorniae Jaap, 1907 SPECIES
 
 #### Status
 ACCEPTED

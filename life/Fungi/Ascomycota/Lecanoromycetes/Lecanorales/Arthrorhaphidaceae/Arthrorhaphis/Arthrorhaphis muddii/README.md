@@ -1,5 +1,4 @@
-Arthrorhaphis muddii Obermayer SPECIES
-=======
+# Arthrorhaphis muddii Obermayer SPECIES
 
 #### Status
 ACCEPTED

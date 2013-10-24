@@ -1,5 +1,4 @@
-Phoma tamaricina Sacc. SPECIES
-=======
+# Phoma tamaricina Sacc. SPECIES
 
 #### Status
 ACCEPTED

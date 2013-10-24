@@ -1,5 +1,4 @@
-Santessoniomyces GENUS
-=======
+# Santessoniomyces GENUS
 
 #### Status
 ACCEPTED

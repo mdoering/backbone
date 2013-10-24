@@ -1,5 +1,4 @@
-Diderma diadematum Schokn. & J.L. Crane, 1978 SPECIES
-=======
+# Diderma diadematum Schokn. & J.L. Crane, 1978 SPECIES
 
 #### Status
 ACCEPTED

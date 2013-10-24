@@ -1,5 +1,4 @@
-Dimerella subdiluta Malme SPECIES
-=======
+# Dimerella subdiluta Malme SPECIES
 
 #### Status
 ACCEPTED

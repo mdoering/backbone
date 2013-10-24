@@ -1,5 +1,4 @@
-Tulasnella bifrons Bourdot & Galzin, 1923 SPECIES
-=======
+# Tulasnella bifrons Bourdot & Galzin, 1923 SPECIES
 
 #### Status
 ACCEPTED

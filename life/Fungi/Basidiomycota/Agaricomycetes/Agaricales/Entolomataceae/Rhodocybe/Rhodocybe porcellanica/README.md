@@ -1,5 +1,4 @@
-Rhodocybe porcellanica (Dennis) E. Horak SPECIES
-=======
+# Rhodocybe porcellanica (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

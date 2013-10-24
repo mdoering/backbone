@@ -1,5 +1,4 @@
-Gyalolechia cinnabarina Flagey SPECIES
-=======
+# Gyalolechia cinnabarina Flagey SPECIES
 
 #### Status
 ACCEPTED

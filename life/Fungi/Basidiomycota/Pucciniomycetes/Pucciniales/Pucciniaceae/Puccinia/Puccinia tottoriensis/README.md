@@ -1,5 +1,4 @@
-Puccinia tottoriensis Hirats. SPECIES
-=======
+# Puccinia tottoriensis Hirats. SPECIES
 
 #### Status
 ACCEPTED

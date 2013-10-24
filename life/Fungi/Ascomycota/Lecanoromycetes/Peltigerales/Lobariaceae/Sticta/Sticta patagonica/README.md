@@ -1,5 +1,4 @@
-Sticta patagonica Müll. Arg. SPECIES
-=======
+# Sticta patagonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

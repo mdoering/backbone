@@ -1,5 +1,4 @@
-Glaziella bakeriana Sacc. SPECIES
-=======
+# Glaziella bakeriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

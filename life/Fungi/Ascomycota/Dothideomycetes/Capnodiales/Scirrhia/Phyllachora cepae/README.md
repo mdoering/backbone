@@ -1,5 +1,4 @@
-Phyllachora cepae (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora cepae (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

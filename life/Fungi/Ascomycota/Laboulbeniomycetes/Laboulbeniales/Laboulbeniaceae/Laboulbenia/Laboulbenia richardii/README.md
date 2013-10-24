@@ -1,5 +1,4 @@
-Laboulbenia richardii W. Rossi & Santam. SPECIES
-=======
+# Laboulbenia richardii W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

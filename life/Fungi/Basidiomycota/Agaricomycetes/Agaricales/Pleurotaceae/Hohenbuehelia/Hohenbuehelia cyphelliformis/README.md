@@ -1,14 +1,13 @@
-Agaricus cyphelliformis Berk., 1837 SPECIES
-=======
+# Hohenbuehelia cyphelliformis (Berk.) O.K. Mill., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mag. Zool. Bot. , 1837 1: 511 (1837)
+in Thorn, Mycotaxon 25(1): 33 (1986)
 
 #### Original name
 Agaricus cyphelliformis Berk., 1837

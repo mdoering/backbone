@@ -1,5 +1,4 @@
-Hamaspora acutissima P. Syd. & Syd., 1912 SPECIES
-=======
+# Hamaspora acutissima P. Syd. & Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia ranunculi-auricomi f. ranunculi-auricomi FORM
-=======
+# Tuburcinia ranunculi-auricomi Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
 
 #### Original name
-Tuburcinia ranunculi-auricomi f. ranunculi-auricomi
+Tuburcinia ranunculi-auricomi Liro
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllactinia corni H.D. Shin & Y.J. La SPECIES
-=======
+# Phyllactinia corni H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

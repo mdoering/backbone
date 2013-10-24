@@ -1,5 +1,4 @@
-Placodium aureum (Schaer.) Nyl. SPECIES
-=======
+# Placodium aureum (Schaer.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

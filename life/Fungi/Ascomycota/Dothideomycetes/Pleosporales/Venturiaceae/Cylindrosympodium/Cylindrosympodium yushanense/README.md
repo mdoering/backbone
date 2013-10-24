@@ -1,14 +1,13 @@
-Cylindrosympodium yushanensis (Matsush.) W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Cylindrosympodium yushanense (Matsush.) W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruiz & Kendrick, Univ. Waterloo Biol. Ser. 32: 13 (1990)
 
 #### Original name
 Mirandina yushanensis Matsush.

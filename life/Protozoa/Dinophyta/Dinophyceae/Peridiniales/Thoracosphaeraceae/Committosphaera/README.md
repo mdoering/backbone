@@ -1,5 +1,4 @@
-Committosphaera Rehanek, 1985 GENUS
-=======
+# Committosphaera Rehanek, 1985 GENUS
 
 #### Status
 ACCEPTED

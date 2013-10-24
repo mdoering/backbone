@@ -1,5 +1,4 @@
-Lycoperdon ostiolatum Pat. & Har. SPECIES
-=======
+# Lycoperdon ostiolatum Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Retecapsa neocomiana Black, 1971 SPECIES
-=======
+# Retecapsa neocomiana Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

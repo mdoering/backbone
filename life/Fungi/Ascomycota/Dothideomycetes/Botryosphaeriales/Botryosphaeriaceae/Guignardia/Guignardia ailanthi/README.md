@@ -1,5 +1,4 @@
-Guignardia ailanthi (Grove) Sacc. SPECIES
-=======
+# Guignardia ailanthi (Grove) Sacc. SPECIES
 
 #### Status
 ACCEPTED

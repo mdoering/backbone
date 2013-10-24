@@ -1,5 +1,4 @@
-Lecidea semotula Nyl. SPECIES
-=======
+# Lecidea semotula Nyl. SPECIES
 
 #### Status
 ACCEPTED

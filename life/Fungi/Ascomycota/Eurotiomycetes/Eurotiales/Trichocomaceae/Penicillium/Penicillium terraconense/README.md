@@ -1,5 +1,4 @@
-Penicillium terraconense C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium terraconense C. Ramírez & A.T. Martínez SPECIES
 
 #### Status
 ACCEPTED

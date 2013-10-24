@@ -1,5 +1,4 @@
-Epitokophrya mutica (Bovee, 1981) Jankowski, 1987 SPECIES
-=======
+# Epitokophrya mutica (Bovee, 1981) Jankowski, 1987 SPECIES
 
 #### Status
 ACCEPTED

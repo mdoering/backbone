@@ -1,5 +1,4 @@
-Podospora australis (Speg.) Niessl, 1883 SPECIES
-=======
+# Podospora australis (Speg.) Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED

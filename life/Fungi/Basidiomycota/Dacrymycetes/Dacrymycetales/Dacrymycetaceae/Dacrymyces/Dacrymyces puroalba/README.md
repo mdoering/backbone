@@ -1,5 +1,4 @@
-Dacrymyces puroalba Lloyd SPECIES
-=======
+# Dacrymyces puroalba Lloyd SPECIES
 
 #### Status
 ACCEPTED

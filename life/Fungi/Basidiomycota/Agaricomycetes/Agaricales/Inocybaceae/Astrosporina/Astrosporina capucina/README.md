@@ -1,5 +1,4 @@
-Astrosporina capucina (Fr.) Zerova SPECIES
-=======
+# Astrosporina capucina (Fr.) Zerova SPECIES
 
 #### Status
 ACCEPTED

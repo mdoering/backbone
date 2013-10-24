@@ -1,5 +1,4 @@
-Lecidea oolithina Nyl. SPECIES
-=======
+# Lecidea oolithina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoendothyranopsis GENUS
-=======
+# Eoendothyranopsis GENUS
 
 #### Status
 ACCEPTED

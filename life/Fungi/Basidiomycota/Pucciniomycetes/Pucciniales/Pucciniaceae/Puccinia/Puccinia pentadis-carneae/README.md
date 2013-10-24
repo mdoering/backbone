@@ -1,5 +1,4 @@
-Puccinia pentadis-carneae Wakef. SPECIES
-=======
+# Puccinia pentadis-carneae Wakef. SPECIES
 
 #### Status
 ACCEPTED

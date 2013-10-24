@@ -1,5 +1,4 @@
-Biscutum dorsetensis SPECIES
-=======
+# Biscutum dorsetensis SPECIES
 
 #### Status
 ACCEPTED

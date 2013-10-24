@@ -1,5 +1,4 @@
-Thrombium discordans (Nyl.) Zahlbr. SPECIES
-=======
+# Thrombium discordans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

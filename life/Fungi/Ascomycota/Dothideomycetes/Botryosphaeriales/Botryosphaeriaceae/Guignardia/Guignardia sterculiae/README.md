@@ -1,5 +1,4 @@
-Guignardia sterculiae Rehm SPECIES
-=======
+# Guignardia sterculiae Rehm SPECIES
 
 #### Status
 ACCEPTED

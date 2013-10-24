@@ -1,5 +1,4 @@
-Amphisphaeria pulcherrima Speg. SPECIES
-=======
+# Amphisphaeria pulcherrima Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Elaphomyces muricatus f. variegatus (Vittad.) Ceruti FORM
-=======
+# Melanogaster variegatus (Vittad.) Tul. & C. Tul., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi hypog. 92 (1851)
 
 #### Original name
-null
+Octaviania variegata Vittad., 1831
 
 ### Remarks
 null

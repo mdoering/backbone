@@ -1,5 +1,4 @@
-Phoma stenobothri (Hollande & Moreau) L.R. Fitzg. SPECIES
-=======
+# Phoma stenobothri (Hollande & Moreau) L.R. Fitzg. SPECIES
 
 #### Status
 ACCEPTED

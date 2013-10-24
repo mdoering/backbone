@@ -1,5 +1,4 @@
-Rubeolarius Raith. GENUS
-=======
+# Rubeolarius Raith. GENUS
 
 #### Status
 ACCEPTED

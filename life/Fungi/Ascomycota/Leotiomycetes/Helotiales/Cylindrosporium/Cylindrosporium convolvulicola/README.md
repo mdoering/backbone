@@ -1,5 +1,4 @@
-Cylindrosporium convolvulicola Vassiljevsky SPECIES
-=======
+# Cylindrosporium convolvulicola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

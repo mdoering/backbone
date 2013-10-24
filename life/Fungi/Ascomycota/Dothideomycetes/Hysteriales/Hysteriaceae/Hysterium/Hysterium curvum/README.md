@@ -1,5 +1,4 @@
-Hysterium curvum Fr. SPECIES
-=======
+# Hysterium curvum Fr. SPECIES
 
 #### Status
 ACCEPTED

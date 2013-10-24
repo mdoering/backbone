@@ -1,5 +1,4 @@
-Aecidium euphorbiae-gerardianae E. Fisch. SPECIES
-=======
+# Aecidium euphorbiae-gerardianae E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

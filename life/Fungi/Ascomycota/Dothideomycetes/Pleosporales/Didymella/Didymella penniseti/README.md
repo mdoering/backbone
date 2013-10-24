@@ -1,5 +1,4 @@
-Didymella penniseti Syd. SPECIES
-=======
+# Didymella penniseti Syd. SPECIES
 
 #### Status
 ACCEPTED

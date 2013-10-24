@@ -1,5 +1,4 @@
-Tubaria vinicolor (Peck) Ammirati, Matheny & Vellinga SPECIES
-=======
+# Tubaria vinicolor (Peck) Ammirati, Matheny & Vellinga SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius fusipes (Bull.) SPECIES
-=======
+# Marasmius fusipes (Bull.) SPECIES
 
 #### Status
 ACCEPTED

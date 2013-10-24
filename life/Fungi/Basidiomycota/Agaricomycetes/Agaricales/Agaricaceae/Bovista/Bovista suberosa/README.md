@@ -1,5 +1,4 @@
-Bovista suberosa Fr. SPECIES
-=======
+# Bovista suberosa Fr. SPECIES
 
 #### Status
 ACCEPTED

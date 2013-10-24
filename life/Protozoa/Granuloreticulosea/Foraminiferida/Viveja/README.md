@@ -1,5 +1,4 @@
-Viveja Bugrova, 1990 GENUS
-=======
+# Viveja Bugrova, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptophiale multiseptata Goh & K.D. Hyde SPECIES
-=======
+# Cryptophiale multiseptata Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

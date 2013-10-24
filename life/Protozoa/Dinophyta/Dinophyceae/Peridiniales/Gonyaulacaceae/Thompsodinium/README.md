@@ -1,5 +1,4 @@
-Thompsodinium Bourrelly, 1970 GENUS
-=======
+# Thompsodinium Bourrelly, 1970 GENUS
 
 #### Status
 ACCEPTED

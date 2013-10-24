@@ -1,5 +1,4 @@
-Rhizoctonia apocynacearum K.J. Demet. SPECIES
-=======
+# Rhizoctonia apocynacearum K.J. Demet. SPECIES
 
 #### Status
 ACCEPTED

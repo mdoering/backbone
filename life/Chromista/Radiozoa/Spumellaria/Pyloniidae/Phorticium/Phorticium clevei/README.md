@@ -1,5 +1,4 @@
-Phorticium clevei (Joergensen) Petrushevskaya, 1967 SPECIES
-=======
+# Phorticium clevei (Joergensen) Petrushevskaya, 1967 SPECIES
 
 #### Status
 ACCEPTED

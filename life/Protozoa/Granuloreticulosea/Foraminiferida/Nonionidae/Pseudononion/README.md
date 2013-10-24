@@ -1,5 +1,4 @@
-Pseudononion Asano, 1936 GENUS
-=======
+# Pseudononion Asano, 1936 GENUS
 
 #### Status
 ACCEPTED

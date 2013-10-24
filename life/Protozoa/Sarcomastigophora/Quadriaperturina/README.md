@@ -1,5 +1,4 @@
-Quadriaperturina Gawor-Biedowa, 1987 GENUS
-=======
+# Quadriaperturina Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

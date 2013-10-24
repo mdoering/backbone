@@ -1,5 +1,4 @@
-Pleurotus luminosus Beeli SPECIES
-=======
+# Pleurotus luminosus Beeli SPECIES
 
 #### Status
 ACCEPTED

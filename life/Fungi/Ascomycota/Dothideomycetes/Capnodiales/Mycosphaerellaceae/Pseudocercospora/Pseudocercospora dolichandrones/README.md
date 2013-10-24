@@ -1,5 +1,4 @@
-Pseudocercospora dolichandrones (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora dolichandrones (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

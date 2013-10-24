@@ -1,5 +1,4 @@
-Naegeliella britannica Godward SPECIES
-=======
+# Naegeliella britannica Godward SPECIES
 
 #### Status
 ACCEPTED

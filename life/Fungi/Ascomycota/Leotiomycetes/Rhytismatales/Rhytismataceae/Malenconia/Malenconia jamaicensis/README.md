@@ -1,5 +1,4 @@
-Malenconia jamaicensis Bat. & H. Maia SPECIES
-=======
+# Malenconia jamaicensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

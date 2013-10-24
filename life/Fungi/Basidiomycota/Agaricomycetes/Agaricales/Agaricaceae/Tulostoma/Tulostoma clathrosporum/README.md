@@ -1,5 +1,4 @@
-Tulostoma clathrosporum J.E. Wright SPECIES
-=======
+# Tulostoma clathrosporum J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

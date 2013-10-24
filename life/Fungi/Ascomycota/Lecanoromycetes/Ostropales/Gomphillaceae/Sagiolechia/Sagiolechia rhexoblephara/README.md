@@ -1,17 +1,16 @@
-Gyalecta rhexoblephara (Nyl.) Tuck. SPECIES
-=======
+# Sagiolechia rhexoblephara (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea rhexoblephara Nyl.
+null
 
 ### Remarks
 null

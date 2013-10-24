@@ -1,5 +1,4 @@
-Usnea mirabilis Motyka SPECIES
-=======
+# Usnea mirabilis Motyka SPECIES
 
 #### Status
 ACCEPTED

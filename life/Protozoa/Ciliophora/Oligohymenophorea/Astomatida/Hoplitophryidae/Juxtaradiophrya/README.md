@@ -1,5 +1,4 @@
-Juxtaradiophrya Puytorac, 1954 GENUS
-=======
+# Juxtaradiophrya Puytorac, 1954 GENUS
 
 #### Status
 ACCEPTED

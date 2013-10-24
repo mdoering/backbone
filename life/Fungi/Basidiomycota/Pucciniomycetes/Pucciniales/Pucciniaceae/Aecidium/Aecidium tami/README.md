@@ -1,5 +1,4 @@
-Aecidium tami Z. Urb. SPECIES
-=======
+# Aecidium tami Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

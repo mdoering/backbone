@@ -1,14 +1,13 @@
-Polyporus leoninus Klotzsch, 1839 SPECIES
-=======
+# Trametes leonina (Klotzsch) Pat., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 459 (1838)
+Bull. Gov. Forest Exp. St. Tokyo 57: 120 (1952)
 
 #### Original name
 Polyporus leoninus Klotzsch, 1839

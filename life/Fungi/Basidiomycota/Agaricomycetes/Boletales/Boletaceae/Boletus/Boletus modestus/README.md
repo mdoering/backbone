@@ -1,5 +1,4 @@
-Boletus modestus Peck SPECIES
-=======
+# Boletus modestus Peck SPECIES
 
 #### Status
 ACCEPTED

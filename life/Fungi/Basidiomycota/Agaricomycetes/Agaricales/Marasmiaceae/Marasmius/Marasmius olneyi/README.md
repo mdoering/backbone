@@ -1,5 +1,4 @@
-Marasmius olneyi Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius olneyi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

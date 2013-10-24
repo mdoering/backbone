@@ -1,5 +1,4 @@
-Lyophyllum umbriniceps (Murrill) H.E. Bigelow SPECIES
-=======
+# Lyophyllum umbriniceps (Murrill) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

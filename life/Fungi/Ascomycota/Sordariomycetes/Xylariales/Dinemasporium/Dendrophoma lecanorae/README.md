@@ -1,5 +1,4 @@
-Dendrophoma lecanorae Vouaux SPECIES
-=======
+# Dendrophoma lecanorae Vouaux SPECIES
 
 #### Status
 ACCEPTED

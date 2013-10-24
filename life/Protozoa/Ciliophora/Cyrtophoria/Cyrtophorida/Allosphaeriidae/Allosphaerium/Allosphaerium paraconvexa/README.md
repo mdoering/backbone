@@ -1,5 +1,4 @@
-Allosphaerium paraconvexa SPECIES
-=======
+# Allosphaerium paraconvexa SPECIES
 
 #### Status
 ACCEPTED

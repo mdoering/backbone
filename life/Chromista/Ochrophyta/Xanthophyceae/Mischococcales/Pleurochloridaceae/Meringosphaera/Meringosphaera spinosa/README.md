@@ -1,5 +1,4 @@
-Meringosphaera spinosa Prescott SPECIES
-=======
+# Meringosphaera spinosa Prescott SPECIES
 
 #### Status
 ACCEPTED

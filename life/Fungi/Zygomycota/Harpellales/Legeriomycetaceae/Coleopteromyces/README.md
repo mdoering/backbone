@@ -1,5 +1,4 @@
-Coleopteromyces Ferrington, Lichtw. & López-Lastra GENUS
-=======
+# Coleopteromyces Ferrington, Lichtw. & López-Lastra GENUS
 
 #### Status
 ACCEPTED

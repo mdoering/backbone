@@ -1,17 +1,16 @@
-Microdiplodia phyllocladae Shreem. SPECIES
-=======
+# Microdiplodia phyllocladii Shreem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 3(1): 120 (1974)
 
 #### Original name
-Microdiplodia phyllocladae Shreem.
+Microdiplodia phyllocladii Shreem.
 
 ### Remarks
 null

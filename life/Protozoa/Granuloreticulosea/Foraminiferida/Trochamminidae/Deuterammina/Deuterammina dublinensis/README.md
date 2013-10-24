@@ -1,5 +1,4 @@
-Deuterammina dublinensis Broennimann & Whittaker, 1983 SPECIES
-=======
+# Deuterammina dublinensis Broennimann & Whittaker, 1983 SPECIES
 
 #### Status
 ACCEPTED

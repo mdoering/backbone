@@ -1,5 +1,4 @@
-Propionispira Schink, Thompson & Zeikus, 1983 GENUS
-=======
+# Propionispira Schink, Thompson & Zeikus, 1983 GENUS
 
 #### Status
 ACCEPTED

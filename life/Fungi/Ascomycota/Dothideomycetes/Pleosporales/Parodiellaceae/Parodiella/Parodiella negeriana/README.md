@@ -1,5 +1,4 @@
-Parodiella negeriana Syd. SPECIES
-=======
+# Parodiella negeriana Syd. SPECIES
 
 #### Status
 ACCEPTED

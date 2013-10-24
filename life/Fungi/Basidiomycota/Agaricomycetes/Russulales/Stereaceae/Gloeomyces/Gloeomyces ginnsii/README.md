@@ -1,5 +1,4 @@
-Gloeomyces ginnsii Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeomyces ginnsii Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

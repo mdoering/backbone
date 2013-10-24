@@ -1,5 +1,4 @@
-Pluteus suzae Velen. SPECIES
-=======
+# Pluteus suzae Velen. SPECIES
 
 #### Status
 ACCEPTED

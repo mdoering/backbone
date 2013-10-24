@@ -1,5 +1,4 @@
-Passalora gonatoclada (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora gonatoclada (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

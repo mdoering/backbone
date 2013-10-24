@@ -1,5 +1,4 @@
-Calloria rosella Rehm SPECIES
-=======
+# Calloria rosella Rehm SPECIES
 
 #### Status
 ACCEPTED

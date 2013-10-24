@@ -1,5 +1,4 @@
-Eurotium microsporum Massee & E.S. Salmon, 1901 SPECIES
-=======
+# Eurotium microsporum Massee & E.S. Salmon, 1901 SPECIES
 
 #### Status
 ACCEPTED

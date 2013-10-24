@@ -1,5 +1,4 @@
-Discorehmia hyalina Kirschst. SPECIES
-=======
+# Discorehmia hyalina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

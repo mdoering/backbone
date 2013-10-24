@@ -1,5 +1,4 @@
-Cortinarius squalidus A.H. Sm. SPECIES
-=======
+# Cortinarius squalidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

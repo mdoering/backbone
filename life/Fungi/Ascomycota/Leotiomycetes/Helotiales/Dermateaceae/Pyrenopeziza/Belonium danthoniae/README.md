@@ -1,5 +1,4 @@
-Belonium danthoniae Velen. SPECIES
-=======
+# Belonium danthoniae Velen. SPECIES
 
 #### Status
 ACCEPTED

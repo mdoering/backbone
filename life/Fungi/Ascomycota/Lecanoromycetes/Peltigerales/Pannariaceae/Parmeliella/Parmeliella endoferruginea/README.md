@@ -1,5 +1,4 @@
-Parmeliella endoferruginea Aptroot SPECIES
-=======
+# Parmeliella endoferruginea Aptroot SPECIES
 
 #### Status
 ACCEPTED

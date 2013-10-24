@@ -1,5 +1,4 @@
-Lecanora subdiffracta H. Magn. SPECIES
-=======
+# Lecanora subdiffracta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

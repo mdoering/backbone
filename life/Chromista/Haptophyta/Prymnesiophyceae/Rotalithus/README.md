@@ -1,5 +1,4 @@
-Rotalithus Bilal ul Haq, 1968 GENUS
-=======
+# Rotalithus Bilal ul Haq, 1968 GENUS
 
 #### Status
 ACCEPTED

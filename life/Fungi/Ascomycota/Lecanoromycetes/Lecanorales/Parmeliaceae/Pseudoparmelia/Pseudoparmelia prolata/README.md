@@ -1,5 +1,4 @@
-Pseudoparmelia prolata (Hale) Hale SPECIES
-=======
+# Pseudoparmelia prolata (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

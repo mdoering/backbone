@@ -1,5 +1,4 @@
-Rhizidium vorax (Strasb.) Sparrow SPECIES
-=======
+# Rhizidium vorax (Strasb.) Sparrow SPECIES
 
 #### Status
 ACCEPTED

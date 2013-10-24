@@ -1,5 +1,4 @@
-Sphacelotheca polygoni-persicariae G. Deml & Oberw. SPECIES
-=======
+# Sphacelotheca polygoni-persicariae G. Deml & Oberw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta raworthiae Trinchieri SPECIES
-=======
+# Ascochyta raworthiae Trinchieri SPECIES
 
 #### Status
 ACCEPTED

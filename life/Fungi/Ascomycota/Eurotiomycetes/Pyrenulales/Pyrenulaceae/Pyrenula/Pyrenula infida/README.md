@@ -1,5 +1,4 @@
-Pyrenula infida (Nyl.) Müll. Arg. SPECIES
-=======
+# Pyrenula infida (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

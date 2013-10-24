@@ -1,5 +1,4 @@
-Physoderma thirumalacharii Pavgi & L. Singh SPECIES
-=======
+# Physoderma thirumalacharii Pavgi & L. Singh SPECIES
 
 #### Status
 ACCEPTED

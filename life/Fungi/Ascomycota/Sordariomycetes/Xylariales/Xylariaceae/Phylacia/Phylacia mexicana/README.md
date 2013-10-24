@@ -1,5 +1,4 @@
-Phylacia mexicana Medel, J.D. Rogers & Guzmán, 2006 SPECIES
-=======
+# Phylacia mexicana Medel, J.D. Rogers & Guzmán, 2006 SPECIES
 
 #### Status
 ACCEPTED

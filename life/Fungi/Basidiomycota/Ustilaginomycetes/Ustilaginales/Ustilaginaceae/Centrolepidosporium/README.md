@@ -1,5 +1,4 @@
-Centrolepidosporium R.G. Shivas & Vánky GENUS
-=======
+# Centrolepidosporium R.G. Shivas & Vánky GENUS
 
 #### Status
 ACCEPTED

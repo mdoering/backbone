@@ -1,5 +1,4 @@
-Coniosporium atroeffusum Henn. SPECIES
-=======
+# Coniosporium atroeffusum Henn. SPECIES
 
 #### Status
 ACCEPTED

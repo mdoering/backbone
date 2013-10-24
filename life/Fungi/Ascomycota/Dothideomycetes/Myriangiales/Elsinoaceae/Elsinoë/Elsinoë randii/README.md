@@ -1,5 +1,4 @@
-Elsinoë randii Jenkins & Bitanc., 1938 SPECIES
-=======
+# Elsinoë randii Jenkins & Bitanc., 1938 SPECIES
 
 #### Status
 ACCEPTED

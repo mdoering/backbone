@@ -1,14 +1,13 @@
-Cercospora stizolobii Syd. & P. Syd., 1913 SPECIES
-=======
+# Pseudocercospora stizolobii (Syd. & P. Syd.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11(3): 270 (1913)
+Mycol. Pap. 140: 153 (1976)
 
 #### Original name
 Cercospora stizolobii Syd. & P. Syd., 1913

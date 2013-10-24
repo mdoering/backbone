@@ -1,5 +1,4 @@
-Ravenelia mimosae-coeruleae Dietel SPECIES
-=======
+# Ravenelia mimosae-coeruleae Dietel SPECIES
 
 #### Status
 ACCEPTED

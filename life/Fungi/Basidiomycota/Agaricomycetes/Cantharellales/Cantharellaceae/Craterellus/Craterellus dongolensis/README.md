@@ -1,5 +1,4 @@
-Craterellus dongolensis Sacc. SPECIES
-=======
+# Craterellus dongolensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

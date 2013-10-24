@@ -1,5 +1,4 @@
-Didymella andropogonis Ellis & Everh. SPECIES
-=======
+# Didymella andropogonis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

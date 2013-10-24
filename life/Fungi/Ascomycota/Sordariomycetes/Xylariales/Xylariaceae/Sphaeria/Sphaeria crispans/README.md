@@ -1,5 +1,4 @@
-Sphaeria crispans Wallr. SPECIES
-=======
+# Sphaeria crispans Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemiaulus Ehrenberg GENUS
-=======
+# Hemiaulus Ehrenberg GENUS
 
 #### Status
 ACCEPTED

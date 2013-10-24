@@ -1,5 +1,4 @@
-Cercospora fulvella Heald & F.A. Wolf SPECIES
-=======
+# Cercospora fulvella Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

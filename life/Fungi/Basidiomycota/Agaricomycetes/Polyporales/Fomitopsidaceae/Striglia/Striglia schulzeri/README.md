@@ -1,5 +1,4 @@
-Striglia schulzeri (Poetsch) Kuntze SPECIES
-=======
+# Striglia schulzeri (Poetsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

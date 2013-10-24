@@ -1,5 +1,4 @@
-Palorbitolinoides Cherchi & Schroeder, 1980 GENUS
-=======
+# Palorbitolinoides Cherchi & Schroeder, 1980 GENUS
 
 #### Status
 ACCEPTED

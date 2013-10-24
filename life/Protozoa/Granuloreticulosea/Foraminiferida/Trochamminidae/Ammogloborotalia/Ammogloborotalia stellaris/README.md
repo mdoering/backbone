@@ -1,5 +1,4 @@
-Ammogloborotalia stellaris Zheng & Fu, 2001 SPECIES
-=======
+# Ammogloborotalia stellaris Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

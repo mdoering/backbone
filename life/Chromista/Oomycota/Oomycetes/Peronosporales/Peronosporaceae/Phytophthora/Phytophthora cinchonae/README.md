@@ -1,5 +1,4 @@
-Phytophthora cinchonae Sawada SPECIES
-=======
+# Phytophthora cinchonae Sawada SPECIES
 
 #### Status
 ACCEPTED

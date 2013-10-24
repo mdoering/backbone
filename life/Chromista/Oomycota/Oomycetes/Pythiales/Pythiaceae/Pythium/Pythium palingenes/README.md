@@ -1,5 +1,4 @@
-Pythium palingenes Drechsler SPECIES
-=======
+# Pythium palingenes Drechsler SPECIES
 
 #### Status
 ACCEPTED

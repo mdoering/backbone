@@ -1,5 +1,4 @@
-Lecidea tabacodes Zahlbr. SPECIES
-=======
+# Lecidea tabacodes Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

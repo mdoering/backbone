@@ -1,5 +1,4 @@
-Verrucaria mongolica H. Magn. SPECIES
-=======
+# Verrucaria mongolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

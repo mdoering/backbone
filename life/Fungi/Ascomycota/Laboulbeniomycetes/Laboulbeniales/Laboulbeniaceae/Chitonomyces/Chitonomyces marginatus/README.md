@@ -1,5 +1,4 @@
-Chitonomyces marginatus Thaxt. SPECIES
-=======
+# Chitonomyces marginatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

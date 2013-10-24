@@ -1,5 +1,4 @@
-Jattaeomyces pyrenastrellae Cif. & Tomas. SPECIES
-=======
+# Jattaeomyces pyrenastrellae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

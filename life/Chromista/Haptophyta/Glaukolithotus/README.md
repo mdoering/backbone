@@ -1,5 +1,4 @@
-Glaukolithotus Reinhardt GENUS
-=======
+# Glaukolithotus Reinhardt GENUS
 
 #### Status
 ACCEPTED

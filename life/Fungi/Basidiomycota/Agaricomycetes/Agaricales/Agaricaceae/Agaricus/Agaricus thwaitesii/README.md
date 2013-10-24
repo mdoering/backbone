@@ -1,5 +1,4 @@
-Agaricus thwaitesii Hook. SPECIES
-=======
+# Agaricus thwaitesii Hook. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Godroniella juncigena (P. Karst.) P. Karst. SPECIES
-=======
+# Godroniella juncigena (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

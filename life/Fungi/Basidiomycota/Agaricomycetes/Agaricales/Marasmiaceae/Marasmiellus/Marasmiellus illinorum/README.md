@@ -1,5 +1,4 @@
-Marasmiellus illinorum Singer SPECIES
-=======
+# Marasmiellus illinorum Singer SPECIES
 
 #### Status
 ACCEPTED

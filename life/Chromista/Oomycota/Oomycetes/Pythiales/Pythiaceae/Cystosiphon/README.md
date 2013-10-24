@@ -1,17 +1,16 @@
-Lagenidiopsis De Wild. GENUS
-=======
+# Cystosiphon Roze & Cornu GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Soc. Belge Microscop. 20: 115 (1896)
+Annls Sci. Nat. , Bot. , sér. 5 11: 72 (1869)
 
 #### Original name
-Lagenidiopsis De Wild.
+Cystosiphon Roze & Cornu
 
 ### Remarks
 null

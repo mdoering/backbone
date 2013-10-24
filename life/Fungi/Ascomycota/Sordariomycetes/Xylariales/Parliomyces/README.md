@@ -1,5 +1,4 @@
-Parliomyces Kohlmeyer, 1959 GENUS
-=======
+# Parliomyces Kohlmeyer, 1959 GENUS
 
 #### Status
 ACCEPTED

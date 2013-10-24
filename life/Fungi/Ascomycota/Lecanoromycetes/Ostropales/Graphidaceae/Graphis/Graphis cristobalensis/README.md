@@ -1,5 +1,4 @@
-Graphis cristobalensis A.W. Archer SPECIES
-=======
+# Graphis cristobalensis A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

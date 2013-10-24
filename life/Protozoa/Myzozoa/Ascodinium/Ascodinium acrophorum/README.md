@@ -1,5 +1,4 @@
-Ascodinium acrophorum Cookson & Eisenack, 1960 SPECIES
-=======
+# Ascodinium acrophorum Cookson & Eisenack, 1960 SPECIES
 
 #### Status
 ACCEPTED

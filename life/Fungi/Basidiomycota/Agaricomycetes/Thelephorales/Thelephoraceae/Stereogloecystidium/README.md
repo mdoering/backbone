@@ -1,5 +1,4 @@
-Stereogloecystidium J. Rick, 1940 GENUS
-=======
+# Stereogloecystidium J. Rick, 1940 GENUS
 
 #### Status
 ACCEPTED

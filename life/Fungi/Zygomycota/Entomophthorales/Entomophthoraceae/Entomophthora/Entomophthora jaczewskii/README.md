@@ -1,5 +1,4 @@
-Entomophthora jaczewskii (Zaprom.) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora jaczewskii (Zaprom.) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

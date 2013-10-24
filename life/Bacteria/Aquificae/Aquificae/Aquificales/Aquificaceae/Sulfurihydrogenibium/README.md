@@ -1,5 +1,4 @@
-Sulfurihydrogenibium Takai, Kobayashi, Nealson & Horikoshi, 2003 GENUS
-=======
+# Sulfurihydrogenibium Takai, Kobayashi, Nealson & Horikoshi, 2003 GENUS
 
 #### Status
 ACCEPTED

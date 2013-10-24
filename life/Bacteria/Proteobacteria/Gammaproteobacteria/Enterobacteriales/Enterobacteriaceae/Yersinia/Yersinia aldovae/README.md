@@ -1,5 +1,4 @@
-Yersinia aldovae Bercovier et al., 1984 SPECIES
-=======
+# Yersinia aldovae Bercovier et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

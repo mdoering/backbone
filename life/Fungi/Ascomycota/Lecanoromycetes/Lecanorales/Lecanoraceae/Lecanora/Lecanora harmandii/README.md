@@ -1,5 +1,4 @@
-Lecanora harmandii Hue SPECIES
-=======
+# Lecanora harmandii Hue SPECIES
 
 #### Status
 ACCEPTED

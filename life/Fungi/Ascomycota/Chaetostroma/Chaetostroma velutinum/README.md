@@ -1,5 +1,4 @@
-Chaetostroma velutinum (Ces.) Sacc. SPECIES
-=======
+# Chaetostroma velutinum (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

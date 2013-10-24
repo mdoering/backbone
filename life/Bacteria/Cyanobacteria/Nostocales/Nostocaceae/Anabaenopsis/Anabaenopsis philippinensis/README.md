@@ -1,5 +1,4 @@
-Anabaenopsis philippinensis Taylor SPECIES
-=======
+# Anabaenopsis philippinensis Taylor SPECIES
 
 #### Status
 ACCEPTED

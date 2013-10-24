@@ -1,17 +1,16 @@
-Dasyscypha oblongosporus G.G. Hahn & Ayers SPECIES
-=======
+# Dasyscyphus oblongosporus G.G. Hahn & Ayers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 26(1): 88 (1934)
 
 #### Original name
-Dasyscypha oblongosporus G.G. Hahn & Ayers
+Dasyscyphus oblongosporus G.G. Hahn & Ayers
 
 ### Remarks
 null

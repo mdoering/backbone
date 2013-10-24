@@ -1,5 +1,4 @@
-Pinatubo oryzae J.B. Manandhar & Mew, 1996 SPECIES
-=======
+# Pinatubo oryzae J.B. Manandhar & Mew, 1996 SPECIES
 
 #### Status
 ACCEPTED

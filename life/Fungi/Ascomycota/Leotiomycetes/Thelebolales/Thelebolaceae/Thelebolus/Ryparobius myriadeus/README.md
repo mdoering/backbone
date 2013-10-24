@@ -1,5 +1,4 @@
-Ryparobius myriadeus P. Karst. SPECIES
-=======
+# Ryparobius myriadeus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

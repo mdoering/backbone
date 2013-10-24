@@ -1,5 +1,4 @@
-Nectria fruticola Zimm. SPECIES
-=======
+# Nectria fruticola Zimm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pringshemia GENUS
-=======
+# Pringshemia GENUS
 
 #### Status
 ACCEPTED

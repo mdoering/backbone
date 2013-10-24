@@ -1,5 +1,4 @@
-Phacidium dianthi Fuckel SPECIES
-=======
+# Phacidium dianthi Fuckel SPECIES
 
 #### Status
 ACCEPTED

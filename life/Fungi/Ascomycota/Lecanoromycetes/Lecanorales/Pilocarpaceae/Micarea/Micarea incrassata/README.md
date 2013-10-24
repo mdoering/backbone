@@ -1,14 +1,13 @@
-Bilimbia incrassata (Hedl.) SPECIES
-=======
+# Micarea incrassata Hedl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bih. K. svenska VetenskAkad. Handl. 18(3): 82 (1892)
 
 #### Original name
 Micarea incrassata Hedl.

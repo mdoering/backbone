@@ -1,5 +1,4 @@
-Biloculina d'Orbigny, 1826 GENUS
-=======
+# Biloculina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

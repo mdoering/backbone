@@ -1,5 +1,4 @@
-Lagynion scherffelii Pascher SPECIES
-=======
+# Lagynion scherffelii Pascher SPECIES
 
 #### Status
 ACCEPTED

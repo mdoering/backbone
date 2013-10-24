@@ -1,5 +1,4 @@
-Clavaria eburnea var. eburnea VARIETY
-=======
+# Clavaria eburnea Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 603 (1801)
 
 #### Original name
-Clavaria eburnea var. eburnea
+Clavaria eburnea Pers.
 
 ### Remarks
 null

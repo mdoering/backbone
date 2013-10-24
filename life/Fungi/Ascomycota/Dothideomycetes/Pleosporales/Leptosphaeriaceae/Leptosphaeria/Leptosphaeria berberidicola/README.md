@@ -1,5 +1,4 @@
-Leptosphaeria berberidicola Speg. SPECIES
-=======
+# Leptosphaeria berberidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Usnea barbata var. angulosa Müll. Arg. VARIETY
-=======
+# Usnea inermis Motyka SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Usnea 1: 109 (1936)
 
 #### Original name
-Usnea barbata var. angulosa Müll. Arg.
+Usnea inermis Motyka
 
 ### Remarks
 null

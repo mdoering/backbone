@@ -1,5 +1,4 @@
-Bulimina sublimbata SPECIES
-=======
+# Bulimina sublimbata SPECIES
 
 #### Status
 ACCEPTED

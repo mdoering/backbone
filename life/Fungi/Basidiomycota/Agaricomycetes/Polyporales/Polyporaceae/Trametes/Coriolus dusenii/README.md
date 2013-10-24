@@ -1,14 +1,13 @@
-Coriolus dussenii (Henn.) Pat. SPECIES
-=======
+# Coriolus dusenii (Henn.) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 94 (1900)
 
 #### Original name
 Poria dusenii Henn.

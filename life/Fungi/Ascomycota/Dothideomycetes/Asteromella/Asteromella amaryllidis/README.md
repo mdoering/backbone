@@ -1,5 +1,4 @@
-Asteromella amaryllidis (Bres.) Aa SPECIES
-=======
+# Asteromella amaryllidis (Bres.) Aa SPECIES
 
 #### Status
 ACCEPTED

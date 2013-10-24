@@ -1,5 +1,4 @@
-Hygrophorus croceoluteus Hongo SPECIES
-=======
+# Hygrophorus croceoluteus Hongo SPECIES
 
 #### Status
 ACCEPTED

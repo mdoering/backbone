@@ -1,5 +1,4 @@
-Agaricus pulchellus Cooke & Massee SPECIES
-=======
+# Agaricus pulchellus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

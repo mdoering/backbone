@@ -1,5 +1,4 @@
-Lembosia domingensis Petr. & Cif. SPECIES
-=======
+# Lembosia domingensis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

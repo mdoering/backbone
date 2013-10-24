@@ -1,5 +1,4 @@
-Cephalotrichum macrocephalum Corda SPECIES
-=======
+# Cephalotrichum macrocephalum Corda SPECIES
 
 #### Status
 ACCEPTED

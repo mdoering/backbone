@@ -1,5 +1,4 @@
-Uromyces eragrostidicola Gjaerum, 1988 SPECIES
-=======
+# Uromyces eragrostidicola Gjaerum, 1988 SPECIES
 
 #### Status
 ACCEPTED

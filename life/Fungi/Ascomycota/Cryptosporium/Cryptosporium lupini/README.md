@@ -1,5 +1,4 @@
-Cryptosporium lupini Cooke SPECIES
-=======
+# Cryptosporium lupini Cooke SPECIES
 
 #### Status
 ACCEPTED

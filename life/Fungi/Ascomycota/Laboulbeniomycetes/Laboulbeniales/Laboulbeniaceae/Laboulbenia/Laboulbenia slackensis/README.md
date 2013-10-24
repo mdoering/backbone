@@ -1,5 +1,4 @@
-Laboulbenia slackensis Cépède & F. Picard SPECIES
-=======
+# Laboulbenia slackensis Cépède & F. Picard SPECIES
 
 #### Status
 ACCEPTED

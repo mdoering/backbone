@@ -1,5 +1,4 @@
-Cylindrosporium inconspicuum subsp. inconspicuum SUBSPECIES
-=======
+# Cylindrosporium inconspicuum G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cylindrosporium inconspicuum subsp. inconspicuum
+Cylindrosporium inconspicuum G. Winter
 
 ### Remarks
 null

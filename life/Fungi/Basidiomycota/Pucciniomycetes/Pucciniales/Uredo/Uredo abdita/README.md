@@ -1,5 +1,4 @@
-Uredo abdita H.S. Jacks. SPECIES
-=======
+# Uredo abdita H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

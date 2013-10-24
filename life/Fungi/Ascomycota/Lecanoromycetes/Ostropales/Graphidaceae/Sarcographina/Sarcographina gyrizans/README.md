@@ -1,8 +1,7 @@
-Glyphis gyrizans Leight. SPECIES
-=======
+# Sarcographina gyrizans (Leight.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

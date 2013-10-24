@@ -1,5 +1,4 @@
-Archaeotritrabs Steiger, 1992 GENUS
-=======
+# Archaeotritrabs Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

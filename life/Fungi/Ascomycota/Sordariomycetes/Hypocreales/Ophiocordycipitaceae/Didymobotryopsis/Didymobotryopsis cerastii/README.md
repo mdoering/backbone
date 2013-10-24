@@ -1,5 +1,4 @@
-Didymobotryopsis cerastii Solheim SPECIES
-=======
+# Didymobotryopsis cerastii Solheim SPECIES
 
 #### Status
 ACCEPTED

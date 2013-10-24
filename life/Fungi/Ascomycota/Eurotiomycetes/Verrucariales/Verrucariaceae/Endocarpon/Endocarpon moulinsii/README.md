@@ -1,5 +1,4 @@
-Endocarpon moulinsii Mont. SPECIES
-=======
+# Endocarpon moulinsii Mont. SPECIES
 
 #### Status
 ACCEPTED

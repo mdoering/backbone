@@ -1,5 +1,4 @@
-Arthopyrenia flandrica B. de Lesd. SPECIES
-=======
+# Arthopyrenia flandrica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

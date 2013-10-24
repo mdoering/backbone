@@ -1,5 +1,4 @@
-Stereocaulon platycladum (I.M. Lamb) I.M. Lamb SPECIES
-=======
+# Stereocaulon platycladum (I.M. Lamb) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

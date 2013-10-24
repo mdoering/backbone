@@ -1,5 +1,4 @@
-Kurssanovia triseptata Pidopl. SPECIES
-=======
+# Kurssanovia triseptata Pidopl. SPECIES
 
 #### Status
 ACCEPTED

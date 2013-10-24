@@ -1,5 +1,4 @@
-Sphingomonas oligophenolica Ohta et al., 2004 SPECIES
-=======
+# Sphingomonas oligophenolica Ohta et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

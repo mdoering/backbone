@@ -1,5 +1,4 @@
-Sphaeria albescens Rabenh. SPECIES
-=======
+# Sphaeria albescens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

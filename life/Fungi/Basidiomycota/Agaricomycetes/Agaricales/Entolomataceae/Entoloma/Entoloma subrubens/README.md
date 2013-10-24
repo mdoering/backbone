@@ -1,5 +1,4 @@
-Entoloma subrubens P. Karst. SPECIES
-=======
+# Entoloma subrubens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

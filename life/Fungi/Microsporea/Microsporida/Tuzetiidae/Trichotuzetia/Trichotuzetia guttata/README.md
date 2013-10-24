@@ -1,5 +1,4 @@
-Trichotuzetia guttata J. Vavra, J.I.R. Larsson & Baker SPECIES
-=======
+# Trichotuzetia guttata J. Vavra, J.I.R. Larsson & Baker SPECIES
 
 #### Status
 ACCEPTED

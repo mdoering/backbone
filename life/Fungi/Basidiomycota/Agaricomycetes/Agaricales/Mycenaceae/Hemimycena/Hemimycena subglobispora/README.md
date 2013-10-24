@@ -1,5 +1,4 @@
-Hemimycena subglobispora Aronsen, 1992 SPECIES
-=======
+# Hemimycena subglobispora Aronsen, 1992 SPECIES
 
 #### Status
 ACCEPTED

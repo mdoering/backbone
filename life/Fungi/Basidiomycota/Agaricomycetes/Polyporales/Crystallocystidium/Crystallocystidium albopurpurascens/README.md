@@ -1,5 +1,4 @@
-Crystallocystidium albopurpurascens Rick SPECIES
-=======
+# Crystallocystidium albopurpurascens Rick SPECIES
 
 #### Status
 ACCEPTED

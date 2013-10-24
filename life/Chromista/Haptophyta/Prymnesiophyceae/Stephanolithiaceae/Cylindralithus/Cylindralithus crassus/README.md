@@ -1,5 +1,4 @@
-Cylindralithus crassus Stover, 1966 SPECIES
-=======
+# Cylindralithus crassus Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

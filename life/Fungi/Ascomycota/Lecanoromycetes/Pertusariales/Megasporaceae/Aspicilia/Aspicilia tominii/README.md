@@ -1,5 +1,4 @@
-Aspicilia tominii Oxner SPECIES
-=======
+# Aspicilia tominii Oxner SPECIES
 
 #### Status
 ACCEPTED

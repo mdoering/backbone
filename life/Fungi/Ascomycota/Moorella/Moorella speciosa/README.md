@@ -1,5 +1,4 @@
-Moorella speciosa P.Rag. Rao & D. Rao, 1964 SPECIES
-=======
+# Moorella speciosa P.Rag. Rao & D. Rao, 1964 SPECIES
 
 #### Status
 ACCEPTED

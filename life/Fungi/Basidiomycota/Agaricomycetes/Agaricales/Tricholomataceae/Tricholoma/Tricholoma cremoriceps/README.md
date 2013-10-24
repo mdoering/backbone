@@ -1,5 +1,4 @@
-Tricholoma cremoriceps Berk. SPECIES
-=======
+# Tricholoma cremoriceps Berk. SPECIES
 
 #### Status
 ACCEPTED

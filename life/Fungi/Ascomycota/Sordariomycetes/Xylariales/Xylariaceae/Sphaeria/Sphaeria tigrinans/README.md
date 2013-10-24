@@ -1,5 +1,4 @@
-Sphaeria tigrinans Schwein. SPECIES
-=======
+# Sphaeria tigrinans Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina barleriae Pat. SPECIES
-=======
+# Asterina barleriae Pat. SPECIES
 
 #### Status
 ACCEPTED

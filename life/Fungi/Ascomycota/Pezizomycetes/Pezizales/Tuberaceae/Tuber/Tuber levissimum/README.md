@@ -1,5 +1,4 @@
-Tuber levissimum Gilkey SPECIES
-=======
+# Tuber levissimum Gilkey SPECIES
 
 #### Status
 ACCEPTED

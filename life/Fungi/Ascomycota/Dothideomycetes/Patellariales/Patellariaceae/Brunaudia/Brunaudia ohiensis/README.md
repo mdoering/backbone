@@ -1,5 +1,4 @@
-Brunaudia ohiensis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Brunaudia ohiensis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

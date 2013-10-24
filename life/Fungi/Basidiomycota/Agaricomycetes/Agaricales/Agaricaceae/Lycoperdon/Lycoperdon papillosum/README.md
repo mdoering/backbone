@@ -1,5 +1,4 @@
-Lycoperdon papillosum Velen. SPECIES
-=======
+# Lycoperdon papillosum Velen. SPECIES
 
 #### Status
 ACCEPTED

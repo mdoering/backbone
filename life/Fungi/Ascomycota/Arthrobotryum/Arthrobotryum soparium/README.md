@@ -1,5 +1,4 @@
-Arthrobotryum soparium Henn. SPECIES
-=======
+# Arthrobotryum soparium Henn. SPECIES
 
 #### Status
 ACCEPTED

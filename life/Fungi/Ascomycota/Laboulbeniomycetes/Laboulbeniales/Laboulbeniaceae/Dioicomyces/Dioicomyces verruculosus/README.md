@@ -1,5 +1,4 @@
-Dioicomyces verruculosus T. Majewski SPECIES
-=======
+# Dioicomyces verruculosus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

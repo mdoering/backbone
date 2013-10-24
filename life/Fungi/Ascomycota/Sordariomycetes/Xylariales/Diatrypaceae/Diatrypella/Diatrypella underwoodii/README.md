@@ -1,5 +1,4 @@
-Diatrypella underwoodii Peck SPECIES
-=======
+# Diatrypella underwoodii Peck SPECIES
 
 #### Status
 ACCEPTED

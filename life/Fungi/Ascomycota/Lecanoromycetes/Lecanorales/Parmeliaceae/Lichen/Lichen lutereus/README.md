@@ -1,5 +1,4 @@
-Lichen lutereus J.F. Gmel. SPECIES
-=======
+# Lichen lutereus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

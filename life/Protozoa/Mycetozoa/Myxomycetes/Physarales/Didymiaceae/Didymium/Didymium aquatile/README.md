@@ -1,5 +1,4 @@
-Didymium aquatile Gottsb. & Nann.-Bremek., 1971 SPECIES
-=======
+# Didymium aquatile Gottsb. & Nann.-Bremek., 1971 SPECIES
 
 #### Status
 ACCEPTED

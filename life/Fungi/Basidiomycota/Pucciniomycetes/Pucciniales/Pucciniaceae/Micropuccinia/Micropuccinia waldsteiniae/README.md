@@ -1,5 +1,4 @@
-Micropuccinia waldsteiniae (M.A. Curtis) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia waldsteiniae (M.A. Curtis) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

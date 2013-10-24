@@ -1,5 +1,4 @@
-Craterularia truncatulinoides Rhumbler, 1949 SPECIES
-=======
+# Craterularia truncatulinoides Rhumbler, 1949 SPECIES
 
 #### Status
 ACCEPTED

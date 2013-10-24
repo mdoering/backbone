@@ -1,5 +1,4 @@
-Rhodocybe tasmanica T.J. Baroni & G.M. Gates SPECIES
-=======
+# Rhodocybe tasmanica T.J. Baroni & G.M. Gates SPECIES
 
 #### Status
 ACCEPTED

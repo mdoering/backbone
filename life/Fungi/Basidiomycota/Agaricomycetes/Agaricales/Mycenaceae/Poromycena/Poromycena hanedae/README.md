@@ -1,5 +1,4 @@
-Poromycena hanedae Kobayasi SPECIES
-=======
+# Poromycena hanedae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

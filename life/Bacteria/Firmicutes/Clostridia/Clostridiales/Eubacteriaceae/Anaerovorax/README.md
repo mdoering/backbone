@@ -1,5 +1,4 @@
-Anaerovorax Matthies et al., 2000 GENUS
-=======
+# Anaerovorax Matthies et al., 2000 GENUS
 
 #### Status
 ACCEPTED

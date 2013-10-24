@@ -1,5 +1,4 @@
-Spicaria formosensis Sawada SPECIES
-=======
+# Spicaria formosensis Sawada SPECIES
 
 #### Status
 ACCEPTED

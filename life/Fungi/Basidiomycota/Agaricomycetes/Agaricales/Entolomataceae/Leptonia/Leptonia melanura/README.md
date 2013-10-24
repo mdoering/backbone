@@ -1,5 +1,4 @@
-Leptonia melanura (Cooke & Massee) McAlpine SPECIES
-=======
+# Leptonia melanura (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

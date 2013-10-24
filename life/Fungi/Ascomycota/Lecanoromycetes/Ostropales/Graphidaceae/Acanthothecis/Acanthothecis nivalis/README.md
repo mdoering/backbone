@@ -1,5 +1,4 @@
-Acanthothecis nivalis Makhija & Adaw. SPECIES
-=======
+# Acanthothecis nivalis Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

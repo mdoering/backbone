@@ -1,17 +1,16 @@
-Oidium antigononii B.S. Reddy, Khalis & Manohar. SPECIES
-=======
+# Oidium antigononis B.S. Reddy, Khalis & Manohar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 51(16): 793 (1982)
 
 #### Original name
-Oidium antigononii B.S. Reddy, Khalis & Manohar.
+Oidium antigononis B.S. Reddy, Khalis & Manohar.
 
 ### Remarks
 null

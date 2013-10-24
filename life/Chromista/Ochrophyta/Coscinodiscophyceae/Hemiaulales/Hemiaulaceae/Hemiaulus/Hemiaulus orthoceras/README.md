@@ -1,5 +1,4 @@
-Hemiaulus orthoceras N. I. Strelnikova SPECIES
-=======
+# Hemiaulus orthoceras N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria derridis Henn. SPECIES
-=======
+# Placosphaeria derridis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria ericsoni SPECIES
-=======
+# Nodosaria ericsoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon asiaticum (Poelt) Poelt SPECIES
-=======
+# Rhizocarpon asiaticum (Poelt) Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thielavia aurantiaca Tad. Ito, Okane & Nagak. SPECIES
-=======
+# Thielavia aurantiaca Tad. Ito, Okane & Nagak. SPECIES
 
 #### Status
 ACCEPTED

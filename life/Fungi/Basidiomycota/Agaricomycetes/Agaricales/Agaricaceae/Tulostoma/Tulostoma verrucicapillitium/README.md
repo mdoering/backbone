@@ -1,5 +1,4 @@
-Tulostoma verrucicapillitium L. Fan & B. Liu, 2005 SPECIES
-=======
+# Tulostoma verrucicapillitium L. Fan & B. Liu, 2005 SPECIES
 
 #### Status
 ACCEPTED

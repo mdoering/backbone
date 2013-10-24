@@ -1,5 +1,4 @@
-Phallus triceps O.F. Müll. SPECIES
-=======
+# Phallus triceps O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

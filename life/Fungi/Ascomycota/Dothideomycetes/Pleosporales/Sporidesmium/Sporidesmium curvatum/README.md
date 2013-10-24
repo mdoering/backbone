@@ -1,5 +1,4 @@
-Sporidesmium curvatum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium curvatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

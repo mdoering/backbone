@@ -1,5 +1,4 @@
-Russula anomala Peck SPECIES
-=======
+# Russula anomala Peck SPECIES
 
 #### Status
 ACCEPTED

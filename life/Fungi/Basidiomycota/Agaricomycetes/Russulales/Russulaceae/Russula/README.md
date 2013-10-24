@@ -1,17 +1,16 @@
-Lactarelis Earle GENUS
-=======
+# Russula Persoon, 1796 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bulletin of the New York Botanical Garden 5: 409 (1909)
+null
 
 #### Original name
-Lactarelis Earle
+null
 
 ### Remarks
 null

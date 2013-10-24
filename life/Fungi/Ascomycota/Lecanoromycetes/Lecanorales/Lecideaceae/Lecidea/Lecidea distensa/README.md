@@ -1,5 +1,4 @@
-Lecidea distensa Vain. SPECIES
-=======
+# Lecidea distensa Vain. SPECIES
 
 #### Status
 ACCEPTED

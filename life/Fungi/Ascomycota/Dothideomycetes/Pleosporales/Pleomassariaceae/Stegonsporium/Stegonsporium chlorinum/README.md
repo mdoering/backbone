@@ -1,5 +1,4 @@
-Stegonsporium chlorinum Pass. & Beltr. SPECIES
-=======
+# Stegonsporium chlorinum Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

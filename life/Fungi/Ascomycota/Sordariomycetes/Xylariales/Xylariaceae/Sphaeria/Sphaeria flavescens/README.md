@@ -1,5 +1,4 @@
-Sphaeria flavescens Fr. SPECIES
-=======
+# Sphaeria flavescens Fr. SPECIES
 
 #### Status
 ACCEPTED

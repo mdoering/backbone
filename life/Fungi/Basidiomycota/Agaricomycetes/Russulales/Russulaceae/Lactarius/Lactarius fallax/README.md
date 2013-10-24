@@ -1,5 +1,4 @@
-Lactarius fallax var. fallax VARIETY
-=======
+# Lactarius fallax A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brittonia 14: 405 (1962)
 
 #### Original name
-Lactarius fallax var. fallax
+Lactarius fallax A.H. Sm. & Hesler
 
 ### Remarks
 null

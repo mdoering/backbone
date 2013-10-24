@@ -1,5 +1,4 @@
-Pluteus horridus Singer SPECIES
-=======
+# Pluteus horridus Singer SPECIES
 
 #### Status
 ACCEPTED

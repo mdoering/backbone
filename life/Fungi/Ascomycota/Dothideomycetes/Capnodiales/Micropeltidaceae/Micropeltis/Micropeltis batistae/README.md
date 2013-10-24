@@ -1,5 +1,4 @@
-Micropeltis batistae Peres & O.M. Fonseca SPECIES
-=======
+# Micropeltis batistae Peres & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

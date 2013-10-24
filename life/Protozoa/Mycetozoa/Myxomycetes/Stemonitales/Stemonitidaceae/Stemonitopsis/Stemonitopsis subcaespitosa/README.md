@@ -1,14 +1,13 @@
-Comatricha nigra var. subcaespitosa (Peck) G. Lister VARIETY
-=======
+# Stemonitopsis subcaespitosa (Peck) Nann.-Bremek., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lister, Monogr. Mycetozoa, Edn 2 142 (1925)
+Nederlandse Myxomyceten (Amsterdam) 211 (1975)
 
 #### Original name
 Comatricha subcaespitosa Peck, 1890

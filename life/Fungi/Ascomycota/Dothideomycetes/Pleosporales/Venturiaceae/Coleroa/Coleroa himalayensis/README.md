@@ -1,5 +1,4 @@
-Coleroa himalayensis (C. Bachm.) Sivan. SPECIES
-=======
+# Coleroa himalayensis (C. Bachm.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

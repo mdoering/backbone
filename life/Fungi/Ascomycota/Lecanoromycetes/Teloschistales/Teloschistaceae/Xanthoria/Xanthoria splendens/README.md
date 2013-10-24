@@ -1,5 +1,4 @@
-Xanthoria splendens (Darb.) Christensen {?} ex Poelt SPECIES
-=======
+# Xanthoria splendens (Darb.) Christensen {?} ex Poelt SPECIES
 
 #### Status
 ACCEPTED

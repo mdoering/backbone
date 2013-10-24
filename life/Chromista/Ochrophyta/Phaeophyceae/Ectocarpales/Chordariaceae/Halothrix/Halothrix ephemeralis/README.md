@@ -1,5 +1,4 @@
-Halothrix ephemeralis Skinner SPECIES
-=======
+# Halothrix ephemeralis Skinner SPECIES
 
 #### Status
 ACCEPTED

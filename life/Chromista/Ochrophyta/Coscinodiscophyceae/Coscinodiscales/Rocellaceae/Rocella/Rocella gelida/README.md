@@ -1,5 +1,4 @@
-Rocella gelida (A. Mann) D. Bukry SPECIES
-=======
+# Rocella gelida (A. Mann) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mimeomyces zeelandicus Middelh. & Boelens SPECIES
-=======
+# Mimeomyces zeelandicus Middelh. & Boelens SPECIES
 
 #### Status
 ACCEPTED

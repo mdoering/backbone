@@ -1,5 +1,4 @@
-Buellia tristicolor Zahlbr. SPECIES
-=======
+# Buellia tristicolor Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

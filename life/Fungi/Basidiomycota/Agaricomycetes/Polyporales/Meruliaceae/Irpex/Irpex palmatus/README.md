@@ -1,5 +1,4 @@
-Irpex palmatus (Berk.) Speg. SPECIES
-=======
+# Irpex palmatus (Berk.) Speg. SPECIES
 
 #### Status
 ACCEPTED

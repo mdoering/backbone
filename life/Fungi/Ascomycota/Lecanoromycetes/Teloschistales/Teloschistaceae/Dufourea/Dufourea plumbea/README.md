@@ -1,5 +1,4 @@
-Dufourea plumbea Taylor SPECIES
-=======
+# Dufourea plumbea Taylor SPECIES
 
 #### Status
 ACCEPTED

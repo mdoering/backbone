@@ -1,5 +1,4 @@
-Distephanus quintus (D. Bukry & J.H. Foster) D. Bukry SPECIES
-=======
+# Distephanus quintus (D. Bukry & J.H. Foster) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

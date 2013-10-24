@@ -1,5 +1,4 @@
-Russula pauli Schulzer SPECIES
-=======
+# Russula pauli Schulzer SPECIES
 
 #### Status
 ACCEPTED

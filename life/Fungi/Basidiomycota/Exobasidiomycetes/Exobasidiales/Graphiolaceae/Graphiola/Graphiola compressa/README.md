@@ -1,5 +1,4 @@
-Graphiola compressa E. Fisch. SPECIES
-=======
+# Graphiola compressa E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

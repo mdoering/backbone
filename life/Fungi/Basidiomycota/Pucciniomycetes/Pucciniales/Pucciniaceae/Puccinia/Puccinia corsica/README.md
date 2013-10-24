@@ -1,5 +1,4 @@
-Puccinia corsica Maire SPECIES
-=======
+# Puccinia corsica Maire SPECIES
 
 #### Status
 ACCEPTED

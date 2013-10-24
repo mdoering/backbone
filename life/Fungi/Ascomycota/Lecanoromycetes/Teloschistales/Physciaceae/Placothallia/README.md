@@ -1,5 +1,4 @@
-Placothallia GENUS
-=======
+# Placothallia GENUS
 
 #### Status
 ACCEPTED

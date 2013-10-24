@@ -1,5 +1,4 @@
-Buellia haliotrepha Kohlm. & E. Kohlm. SPECIES
-=======
+# Buellia haliotrepha Kohlm. & E. Kohlm. SPECIES
 
 #### Status
 ACCEPTED

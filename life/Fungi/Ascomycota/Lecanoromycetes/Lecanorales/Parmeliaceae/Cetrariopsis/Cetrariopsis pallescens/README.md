@@ -1,5 +1,4 @@
-Cetrariopsis pallescens var. pallescens VARIETY
-=======
+# Cetrariopsis pallescens (Schaer.) A. Thell & Randlane SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Randlane, Thell & Saag, Cryptog. Bryol. -Lichénol. 16(1): 42 (1995)
 
 #### Original name
-Cetrariopsis pallescens var. pallescens
+Cetraria pallescens Schaer.
 
 ### Remarks
 null

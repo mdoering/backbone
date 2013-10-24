@@ -1,5 +1,4 @@
-Phomopsis ramicola (Petch) Aa SPECIES
-=======
+# Phomopsis ramicola (Petch) Aa SPECIES
 
 #### Status
 ACCEPTED

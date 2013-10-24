@@ -1,5 +1,4 @@
-Fusarium medicaginis anon. SPECIES
-=======
+# Fusarium medicaginis anon. SPECIES
 
 #### Status
 ACCEPTED

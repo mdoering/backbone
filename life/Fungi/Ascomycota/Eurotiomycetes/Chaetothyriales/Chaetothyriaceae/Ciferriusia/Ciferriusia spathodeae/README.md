@@ -1,5 +1,4 @@
-Ciferriusia spathodeae Bat. & Matta SPECIES
-=======
+# Ciferriusia spathodeae Bat. & Matta SPECIES
 
 #### Status
 ACCEPTED

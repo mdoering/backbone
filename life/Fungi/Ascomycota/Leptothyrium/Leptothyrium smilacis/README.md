@@ -1,5 +1,4 @@
-Leptothyrium smilacis Dearn. SPECIES
-=======
+# Leptothyrium smilacis Dearn. SPECIES
 
 #### Status
 ACCEPTED

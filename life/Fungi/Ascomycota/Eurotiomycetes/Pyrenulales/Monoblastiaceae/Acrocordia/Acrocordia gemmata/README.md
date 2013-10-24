@@ -1,17 +1,16 @@
-Arthopyrenia sphaeroides var. sphaeroides VARIETY
-=======
+# Acrocordia gemmata (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 17 (1854)
 
 #### Original name
-Arthopyrenia sphaeroides var. sphaeroides
+Lichen gemmatus Ach.
 
 ### Remarks
 null

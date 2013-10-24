@@ -1,5 +1,4 @@
-Coprinus glandulifer Speg. SPECIES
-=======
+# Coprinus glandulifer Speg. SPECIES
 
 #### Status
 ACCEPTED

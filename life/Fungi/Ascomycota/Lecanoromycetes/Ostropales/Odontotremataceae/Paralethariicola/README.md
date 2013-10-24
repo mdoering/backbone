@@ -1,5 +1,4 @@
-Paralethariicola Calatayud, Etayo & Diederich GENUS
-=======
+# Paralethariicola Calatayud, Etayo & Diederich GENUS
 
 #### Status
 ACCEPTED

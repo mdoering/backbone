@@ -1,5 +1,4 @@
-Microthyrium vittiforme Speg. SPECIES
-=======
+# Microthyrium vittiforme Speg. SPECIES
 
 #### Status
 ACCEPTED

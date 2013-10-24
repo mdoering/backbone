@@ -1,5 +1,4 @@
-Xanthoparmelia bartlettii Kurok. SPECIES
-=======
+# Xanthoparmelia bartlettii Kurok. SPECIES
 
 #### Status
 ACCEPTED

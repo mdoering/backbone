@@ -1,5 +1,4 @@
-Gyrostomomyces scyphuliferi Cif. & Tomas. SPECIES
-=======
+# Gyrostomomyces scyphuliferi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

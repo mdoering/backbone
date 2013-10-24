@@ -1,5 +1,4 @@
-Methanobrevibacter smithii Balch & Wolfe, 1981 SPECIES
-=======
+# Methanobrevibacter smithii Balch & Wolfe, 1981 SPECIES
 
 #### Status
 ACCEPTED

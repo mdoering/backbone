@@ -1,5 +1,4 @@
-Parapterulicium octopodites Corner, 1952 SPECIES
-=======
+# Parapterulicium octopodites Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

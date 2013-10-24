@@ -1,5 +1,4 @@
-Strigula albomaculata Sérus. SPECIES
-=======
+# Strigula albomaculata Sérus. SPECIES
 
 #### Status
 ACCEPTED

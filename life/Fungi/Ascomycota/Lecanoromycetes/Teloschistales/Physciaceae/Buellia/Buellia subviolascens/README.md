@@ -1,5 +1,4 @@
-Buellia subviolascens Zahlbr. SPECIES
-=======
+# Buellia subviolascens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

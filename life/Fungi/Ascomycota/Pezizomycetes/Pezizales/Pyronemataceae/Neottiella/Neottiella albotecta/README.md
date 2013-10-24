@@ -1,5 +1,4 @@
-Neottiella albotecta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Neottiella albotecta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

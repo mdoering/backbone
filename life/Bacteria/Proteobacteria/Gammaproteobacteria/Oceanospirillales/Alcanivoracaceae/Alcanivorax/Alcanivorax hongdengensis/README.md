@@ -1,5 +1,4 @@
-Alcanivorax hongdengensis Wu, Lai, Zhou, Qiao, Liu & Shao SPECIES
-=======
+# Alcanivorax hongdengensis Wu, Lai, Zhou, Qiao, Liu & Shao SPECIES
 
 #### Status
 ACCEPTED

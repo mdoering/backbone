@@ -1,5 +1,4 @@
-Psathyra graminicola Velen. SPECIES
-=======
+# Psathyra graminicola Velen. SPECIES
 
 #### Status
 ACCEPTED

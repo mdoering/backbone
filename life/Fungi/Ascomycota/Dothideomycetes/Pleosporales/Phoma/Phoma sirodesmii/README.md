@@ -1,5 +1,4 @@
-Phoma sirodesmii Chona & Munjal SPECIES
-=======
+# Phoma sirodesmii Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

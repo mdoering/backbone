@@ -1,5 +1,4 @@
-Cyanoderma laminariae (Setchell & Gardner) Komárek & Anagnostidis SPECIES
-=======
+# Cyanoderma laminariae (Setchell & Gardner) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria sorbinea Breuss SPECIES
-=======
+# Verrucaria sorbinea Breuss SPECIES
 
 #### Status
 ACCEPTED

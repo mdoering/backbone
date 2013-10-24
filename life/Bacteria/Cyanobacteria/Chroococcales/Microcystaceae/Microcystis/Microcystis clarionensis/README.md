@@ -1,5 +1,4 @@
-Microcystis clarionensis (Setchell & Gardner) de Toni SPECIES
-=======
+# Microcystis clarionensis (Setchell & Gardner) de Toni SPECIES
 
 #### Status
 ACCEPTED

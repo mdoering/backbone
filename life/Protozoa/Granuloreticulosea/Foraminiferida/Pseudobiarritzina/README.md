@@ -1,5 +1,4 @@
-Pseudobiarritzina Matheli & Sztrakos, 1993 GENUS
-=======
+# Pseudobiarritzina Matheli & Sztrakos, 1993 GENUS
 
 #### Status
 ACCEPTED

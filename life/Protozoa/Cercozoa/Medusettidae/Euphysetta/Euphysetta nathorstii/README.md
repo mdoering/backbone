@@ -1,5 +1,4 @@
-Euphysetta nathorstii Cleve, 1899 SPECIES
-=======
+# Euphysetta nathorstii Cleve, 1899 SPECIES
 
 #### Status
 ACCEPTED

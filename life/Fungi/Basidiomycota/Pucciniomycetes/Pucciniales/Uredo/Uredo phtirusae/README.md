@@ -1,5 +1,4 @@
-Uredo phtirusae (Mayor) Buriticá SPECIES
-=======
+# Uredo phtirusae (Mayor) Buriticá SPECIES
 
 #### Status
 ACCEPTED

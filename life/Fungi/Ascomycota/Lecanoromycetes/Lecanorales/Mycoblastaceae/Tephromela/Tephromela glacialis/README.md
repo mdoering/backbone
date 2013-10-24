@@ -1,5 +1,4 @@
-Tephromela glacialis Grube & Poelt SPECIES
-=======
+# Tephromela glacialis Grube & Poelt SPECIES
 
 #### Status
 ACCEPTED

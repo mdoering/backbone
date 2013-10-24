@@ -1,5 +1,4 @@
-Thelidium ochrobaeum Norman SPECIES
-=======
+# Thelidium ochrobaeum Norman SPECIES
 
 #### Status
 ACCEPTED

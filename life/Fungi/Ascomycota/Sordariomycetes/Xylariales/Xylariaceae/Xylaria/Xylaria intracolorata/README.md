@@ -1,5 +1,4 @@
-Xylaria intracolorata (J.D. Rogers, Callan & Samuels) J.D. Rogers & Y.M. Ju SPECIES
-=======
+# Xylaria intracolorata (J.D. Rogers, Callan & Samuels) J.D. Rogers & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronellaria pulicaris P. Karst. SPECIES
-=======
+# Coronellaria pulicaris P. Karst. SPECIES
 
 #### Status
 ACCEPTED

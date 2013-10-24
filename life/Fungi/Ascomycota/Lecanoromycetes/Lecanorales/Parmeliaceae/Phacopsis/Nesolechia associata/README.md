@@ -1,5 +1,4 @@
-Nesolechia associata var. associata VARIETY
-=======
+# Nesolechia associata SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 17: 171 (1905)
+null
 
 #### Original name
-Nesolechia associata var. associata
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Illosporium roseum var. roseum VARIETY
-=======
+# Illosporium carneum Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 259 (1829)
 
 #### Original name
-null
+Illosporium carneum Fr., 1829
 
 ### Remarks
 null

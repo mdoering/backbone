@@ -1,5 +1,4 @@
-Dacrymyces tremellosus Kobayasi SPECIES
-=======
+# Dacrymyces tremellosus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora mordiana H. Magn. SPECIES
-=======
+# Acarospora mordiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

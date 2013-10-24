@@ -1,5 +1,4 @@
-Sphaeria trogii Heer SPECIES
-=======
+# Sphaeria trogii Heer SPECIES
 
 #### Status
 ACCEPTED

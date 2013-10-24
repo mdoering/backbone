@@ -1,5 +1,4 @@
-Aspergillus aureus var. aureus VARIETY
-=======
+# Aspergillus aureus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 The English Flora, Fungi 5-2: 340 (1836)
 
 #### Original name
-Aspergillus aureus var. aureus
+Aspergillus aureus Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phellinus cylindrosporus Ryvarden, 1987 SPECIES
-=======
+# Phellinus cylindrosporus Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

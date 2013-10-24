@@ -1,5 +1,4 @@
-Leptothyrium rubicola Speg. SPECIES
-=======
+# Leptothyrium rubicola Speg. SPECIES
 
 #### Status
 ACCEPTED

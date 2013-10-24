@@ -1,5 +1,4 @@
-Graphis sorsogona Vain. SPECIES
-=======
+# Graphis sorsogona Vain. SPECIES
 
 #### Status
 ACCEPTED

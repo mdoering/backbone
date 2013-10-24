@@ -1,5 +1,4 @@
-Choanephoroidea cucurbitae I. Miyake & S. Ito SPECIES
-=======
+# Choanephoroidea cucurbitae I. Miyake & S. Ito SPECIES
 
 #### Status
 ACCEPTED

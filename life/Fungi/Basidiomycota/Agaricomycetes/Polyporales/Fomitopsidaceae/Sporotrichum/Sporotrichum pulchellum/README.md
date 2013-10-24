@@ -1,5 +1,4 @@
-Sporotrichum pulchellum (Pers.) Duby SPECIES
-=======
+# Sporotrichum pulchellum (Pers.) Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonosporites Babajan & Tasl. GENUS
-=======
+# Stagonosporites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

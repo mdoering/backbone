@@ -1,5 +1,4 @@
-Lecidea incomptula Nyl. SPECIES
-=======
+# Lecidea incomptula Nyl. SPECIES
 
 #### Status
 ACCEPTED

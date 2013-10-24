@@ -1,5 +1,4 @@
-Micropeltidium peireskiae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium peireskiae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

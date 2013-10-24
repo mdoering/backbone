@@ -1,5 +1,4 @@
-Rhabdospora viburni-opuli Dearn. & Bisby SPECIES
-=======
+# Rhabdospora viburni-opuli Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

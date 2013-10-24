@@ -1,14 +1,13 @@
-Luellia lembospora (Bourdot) Jülich, 1975 SPECIES
-=======
+# Athelopsis lembospora (Bourdot) Oberw., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 8(3): 292 (1975)
+Persoonia 7(1): 3 (1972)
 
 #### Original name
 null

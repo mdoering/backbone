@@ -1,5 +1,4 @@
-Torula gelatinosa Saito SPECIES
-=======
+# Torula gelatinosa Saito SPECIES
 
 #### Status
 ACCEPTED

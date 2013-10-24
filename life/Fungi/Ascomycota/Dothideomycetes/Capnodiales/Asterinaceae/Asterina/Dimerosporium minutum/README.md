@@ -1,5 +1,4 @@
-Dimerosporium minutum Pat. SPECIES
-=======
+# Dimerosporium minutum Pat. SPECIES
 
 #### Status
 ACCEPTED

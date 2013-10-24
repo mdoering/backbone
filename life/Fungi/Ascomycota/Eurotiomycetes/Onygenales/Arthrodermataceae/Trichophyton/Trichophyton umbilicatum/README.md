@@ -1,5 +1,4 @@
-Trichophyton umbilicatum Sabour. SPECIES
-=======
+# Trichophyton umbilicatum Sabour. SPECIES
 
 #### Status
 ACCEPTED

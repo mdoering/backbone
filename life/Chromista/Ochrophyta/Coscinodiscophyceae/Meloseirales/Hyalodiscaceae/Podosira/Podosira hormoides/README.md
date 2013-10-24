@@ -1,5 +1,4 @@
-Podosira hormoides (Montagne) Kützing SPECIES
-=======
+# Podosira hormoides (Montagne) Kützing SPECIES
 
 #### Status
 ACCEPTED

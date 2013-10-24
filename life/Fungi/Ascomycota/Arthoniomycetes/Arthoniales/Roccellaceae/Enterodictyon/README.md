@@ -1,17 +1,16 @@
-Enterodictyum Clem. & Shear GENUS
-=======
+# Enterodictyon Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 29: 230 (1892)
 
 #### Original name
-Enterodictyum Clem. & Shear
+Enterodictyon Müll. Arg.
 
 ### Remarks
 null

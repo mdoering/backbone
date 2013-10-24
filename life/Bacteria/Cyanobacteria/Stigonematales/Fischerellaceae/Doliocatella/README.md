@@ -1,5 +1,4 @@
-Doliocatella Geitler, 1933 GENUS
-=======
+# Doliocatella Geitler, 1933 GENUS
 
 #### Status
 ACCEPTED

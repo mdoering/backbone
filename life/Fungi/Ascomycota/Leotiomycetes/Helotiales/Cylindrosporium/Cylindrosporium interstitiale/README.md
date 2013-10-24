@@ -1,5 +1,4 @@
-Cylindrosporium interstitiale H.C. Greene SPECIES
-=======
+# Cylindrosporium interstitiale H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

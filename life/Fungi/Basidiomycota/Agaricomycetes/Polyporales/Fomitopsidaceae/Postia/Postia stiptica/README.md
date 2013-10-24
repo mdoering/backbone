@@ -1,14 +1,13 @@
-Tyromyces stipticus f. stipticus FORM
-=======
+# Postia stiptica (Pers.) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 13(1): 28 (1959)
+Persoonia 11(4): 424 (1982)
 
 #### Original name
 Boletus stipticus Pers., 1801

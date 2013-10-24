@@ -1,5 +1,4 @@
-Goesella parri Cushman SPECIES
-=======
+# Goesella parri Cushman SPECIES
 
 #### Status
 ACCEPTED

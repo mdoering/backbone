@@ -1,5 +1,4 @@
-Diplodia grewiae Terjajeva SPECIES
-=======
+# Diplodia grewiae Terjajeva SPECIES
 
 #### Status
 ACCEPTED

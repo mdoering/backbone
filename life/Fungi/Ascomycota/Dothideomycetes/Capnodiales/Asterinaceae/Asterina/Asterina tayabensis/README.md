@@ -1,5 +1,4 @@
-Asterina tayabensis H.S. Yates SPECIES
-=======
+# Asterina tayabensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

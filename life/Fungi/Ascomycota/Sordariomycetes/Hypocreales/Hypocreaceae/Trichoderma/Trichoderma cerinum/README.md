@@ -1,5 +1,4 @@
-Trichoderma cerinum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
-=======
+# Trichoderma cerinum Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
 
 #### Status
 ACCEPTED

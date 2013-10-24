@@ -1,8 +1,7 @@
-Menoidium cultellus Pringsheim SPECIES
-=======
+# Menoidium pellucidum Perty SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

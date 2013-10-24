@@ -1,5 +1,4 @@
-Blyttiomyces conicus T.W. Johnson SPECIES
-=======
+# Blyttiomyces conicus T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

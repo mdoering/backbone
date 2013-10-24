@@ -1,5 +1,4 @@
-Coelomomyces orbicularis Couch & Muspratt SPECIES
-=======
+# Coelomomyces orbicularis Couch & Muspratt SPECIES
 
 #### Status
 ACCEPTED

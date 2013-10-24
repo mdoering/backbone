@@ -1,5 +1,4 @@
-Catharinia maritima E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Catharinia maritima E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

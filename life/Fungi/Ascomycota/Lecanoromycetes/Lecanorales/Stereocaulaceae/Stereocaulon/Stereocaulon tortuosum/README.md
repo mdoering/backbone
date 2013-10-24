@@ -1,5 +1,4 @@
-Stereocaulon tortuosum Fr. SPECIES
-=======
+# Stereocaulon tortuosum Fr. SPECIES
 
 #### Status
 ACCEPTED

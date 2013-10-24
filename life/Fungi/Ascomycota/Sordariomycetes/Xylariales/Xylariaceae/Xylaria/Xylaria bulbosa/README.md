@@ -1,14 +1,13 @@
-Hypoxylon bulbosum (Pers.) Rabenh., 1844 SPECIES
-=======
+# Xylaria bulbosa (Pers.) Berk. & Broome, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Deutschl. Krypt. -Fl. (Leipzig) 1: 222 (1844)
+Outl. Brit. Fung. (London) 385 (1860)
 
 #### Original name
 Sphaeria bulbosa Pers., 1794

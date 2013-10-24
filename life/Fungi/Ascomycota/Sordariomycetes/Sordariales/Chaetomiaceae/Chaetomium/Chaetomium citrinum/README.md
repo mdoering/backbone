@@ -1,5 +1,4 @@
-Chaetomium citrinum Udagawa & T. Muroi, 1981 SPECIES
-=======
+# Chaetomium citrinum Udagawa & T. Muroi, 1981 SPECIES
 
 #### Status
 ACCEPTED

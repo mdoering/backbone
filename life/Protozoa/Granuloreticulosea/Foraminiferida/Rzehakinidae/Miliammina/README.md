@@ -1,5 +1,4 @@
-Miliammina Heron-Allen & Earland, 1930 GENUS
-=======
+# Miliammina Heron-Allen & Earland, 1930 GENUS
 
 #### Status
 ACCEPTED

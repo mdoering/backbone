@@ -1,5 +1,4 @@
-Placomaronea mendozae (Räsänen) M. Westb. SPECIES
-=======
+# Placomaronea mendozae (Räsänen) M. Westb. SPECIES
 
 #### Status
 ACCEPTED

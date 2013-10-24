@@ -1,5 +1,4 @@
-Dermatocarpon minutum H. Magn. SPECIES
-=======
+# Dermatocarpon minutum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummulites ammonoides (Gronovius) SPECIES
-=======
+# Nummulites ammonoides (Gronovius) SPECIES
 
 #### Status
 ACCEPTED

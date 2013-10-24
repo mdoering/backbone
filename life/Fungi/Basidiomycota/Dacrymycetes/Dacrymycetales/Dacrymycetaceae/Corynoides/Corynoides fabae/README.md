@@ -1,14 +1,13 @@
-Corynoides fabarum (Soweby) Gray SPECIES
-=======
+# Corynoides fabae (Soweby) Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 654 (1821)
 
 #### Original name
 Clavaria fabae Sowerby

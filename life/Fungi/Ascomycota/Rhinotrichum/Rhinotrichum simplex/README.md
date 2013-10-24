@@ -1,5 +1,4 @@
-Rhinotrichum simplex Corda SPECIES
-=======
+# Rhinotrichum simplex Corda SPECIES
 
 #### Status
 ACCEPTED

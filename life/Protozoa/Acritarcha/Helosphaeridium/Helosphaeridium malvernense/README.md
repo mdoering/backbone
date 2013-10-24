@@ -1,5 +1,4 @@
-Helosphaeridium malvernense Dorning, 1981 SPECIES
-=======
+# Helosphaeridium malvernense Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

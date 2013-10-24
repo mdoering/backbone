@@ -1,5 +1,4 @@
-Lichen crispatellus Ach. SPECIES
-=======
+# Lichen crispatellus Ach. SPECIES
 
 #### Status
 ACCEPTED

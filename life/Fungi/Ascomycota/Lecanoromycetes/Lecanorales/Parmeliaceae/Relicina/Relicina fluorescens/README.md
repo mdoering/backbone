@@ -1,17 +1,16 @@
-Parmelia fluorescens Hale SPECIES
-=======
+# Relicina fluorescens (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 484 (1974)
 
 #### Original name
-null
+Parmelia fluorescens Hale
 
 ### Remarks
 null

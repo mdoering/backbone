@@ -1,5 +1,4 @@
-Puccinia nothaphoebes J.Y. Zhuang SPECIES
-=======
+# Puccinia nothaphoebes J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

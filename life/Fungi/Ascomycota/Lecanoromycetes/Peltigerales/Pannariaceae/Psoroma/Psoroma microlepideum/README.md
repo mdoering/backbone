@@ -1,5 +1,4 @@
-Psoroma microlepideum Malme SPECIES
-=======
+# Psoroma microlepideum Malme SPECIES
 
 #### Status
 ACCEPTED

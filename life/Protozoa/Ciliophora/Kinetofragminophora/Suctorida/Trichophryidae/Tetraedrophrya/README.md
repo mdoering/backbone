@@ -1,5 +1,4 @@
-Tetraedrophrya Zykoff, 1902 GENUS
-=======
+# Tetraedrophrya Zykoff, 1902 GENUS
 
 #### Status
 ACCEPTED

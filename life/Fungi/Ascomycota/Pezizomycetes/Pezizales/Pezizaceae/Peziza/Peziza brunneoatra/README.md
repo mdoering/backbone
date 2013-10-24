@@ -1,5 +1,4 @@
-Peziza brunneoatra Desm., 1836 SPECIES
-=======
+# Peziza brunneoatra Desm., 1836 SPECIES
 
 #### Status
 ACCEPTED

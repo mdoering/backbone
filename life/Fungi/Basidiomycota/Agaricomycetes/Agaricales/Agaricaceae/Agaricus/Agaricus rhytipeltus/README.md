@@ -1,5 +1,4 @@
-Agaricus rhytipeltus F. Muell. SPECIES
-=======
+# Agaricus rhytipeltus F. Muell. SPECIES
 
 #### Status
 ACCEPTED

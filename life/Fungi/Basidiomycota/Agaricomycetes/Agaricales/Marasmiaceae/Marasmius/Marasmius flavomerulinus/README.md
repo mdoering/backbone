@@ -1,5 +1,4 @@
-Marasmius flavomerulinus Redhead SPECIES
-=======
+# Marasmius flavomerulinus Redhead SPECIES
 
 #### Status
 ACCEPTED

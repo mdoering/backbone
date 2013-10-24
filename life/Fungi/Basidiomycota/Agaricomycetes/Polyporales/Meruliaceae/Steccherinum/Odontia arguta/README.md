@@ -1,17 +1,16 @@
-Odontia arguta var. arguta VARIETY
-=======
+# Odontia arguta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Fl. mycol. France (Paris) 435 (1888)
+null
 
 #### Original name
-Odontia arguta var. arguta
+null
 
 ### Remarks
 null

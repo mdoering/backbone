@@ -1,5 +1,4 @@
-Actinosynnema mirum Hasegawa et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Actinosynnema mirum Hasegawa et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Athelia binucleospora J. Erikss. & Ryvarden, 1973 SPECIES
-=======
+# Athelia binucleospora J. Erikss. & Ryvarden, 1973 SPECIES
 
 #### Status
 ACCEPTED

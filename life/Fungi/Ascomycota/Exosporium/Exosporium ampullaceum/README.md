@@ -1,17 +1,16 @@
-Pseudospiropes cubensis Hol.-Jech., 1986 SPECIES
-=======
+# Exosporium ampullaceum (Petch) M.B. Ellis, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Holubová-Jechová & Mercado Sierra, Ceská Mykol. 40(3): 154 (1986)
+Mycol. Pap. 82: 32 (1961)
 
 #### Original name
-Pseudospiropes cubensis Hol.-Jech., 1986
+Helminthosporium ampullaceum Petch, 1922
 
 ### Remarks
 null

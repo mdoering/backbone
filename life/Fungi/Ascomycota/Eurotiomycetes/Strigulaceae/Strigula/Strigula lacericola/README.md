@@ -1,5 +1,4 @@
-Strigula lacericola P.M. McCarthy SPECIES
-=======
+# Strigula lacericola P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

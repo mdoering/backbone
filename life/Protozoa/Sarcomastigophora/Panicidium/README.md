@@ -1,5 +1,4 @@
-Panicidium Haeckel, 1887 GENUS
-=======
+# Panicidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

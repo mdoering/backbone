@@ -1,5 +1,4 @@
-Phragmodothella symphoniae Hansf. SPECIES
-=======
+# Phragmodothella symphoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

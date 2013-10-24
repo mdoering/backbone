@@ -1,5 +1,4 @@
-Russula ochrophylla Peck SPECIES
-=======
+# Russula ochrophylla Peck SPECIES
 
 #### Status
 ACCEPTED

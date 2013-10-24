@@ -1,5 +1,4 @@
-Ophiodothis picramniae Speg. SPECIES
-=======
+# Ophiodothis picramniae Speg. SPECIES
 
 #### Status
 ACCEPTED

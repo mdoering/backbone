@@ -1,5 +1,4 @@
-Lophosphaeridium conferatum Yin Leiming & Li Zaiping, 1978 SPECIES
-=======
+# Lophosphaeridium conferatum Yin Leiming & Li Zaiping, 1978 SPECIES
 
 #### Status
 ACCEPTED

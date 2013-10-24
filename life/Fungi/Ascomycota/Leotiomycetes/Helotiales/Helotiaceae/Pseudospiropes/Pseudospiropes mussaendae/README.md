@@ -1,5 +1,4 @@
-Pseudospiropes mussaendae Z.Q. Shang & X.G. Zhang SPECIES
-=======
+# Pseudospiropes mussaendae Z.Q. Shang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

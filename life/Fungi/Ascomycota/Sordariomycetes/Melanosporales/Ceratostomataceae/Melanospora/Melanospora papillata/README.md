@@ -1,5 +1,4 @@
-Melanospora papillata Hobson bis SPECIES
-=======
+# Melanospora papillata Hobson bis SPECIES
 
 #### Status
 ACCEPTED

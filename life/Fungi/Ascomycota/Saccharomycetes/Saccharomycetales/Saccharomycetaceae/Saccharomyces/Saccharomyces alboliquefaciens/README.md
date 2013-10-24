@@ -1,5 +1,4 @@
-Saccharomyces alboliquefaciens anon. ined. SPECIES
-=======
+# Saccharomyces alboliquefaciens anon. ined. SPECIES
 
 #### Status
 ACCEPTED

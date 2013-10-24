@@ -1,5 +1,4 @@
-Euglena pseudoviridis Chadefaud SPECIES
-=======
+# Euglena pseudoviridis Chadefaud SPECIES
 
 #### Status
 ACCEPTED

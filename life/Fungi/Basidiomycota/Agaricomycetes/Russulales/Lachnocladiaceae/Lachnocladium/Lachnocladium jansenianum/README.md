@@ -1,8 +1,7 @@
-Lachnocladium janseniana (Holterm.) Henn. SPECIES
-=======
+# Lachnocladium jansenianum (Holterm.) Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lachnocladium janseniana (Holterm.) Henn.
+Clavaria janseniana Holterm.
 
 ### Remarks
 null

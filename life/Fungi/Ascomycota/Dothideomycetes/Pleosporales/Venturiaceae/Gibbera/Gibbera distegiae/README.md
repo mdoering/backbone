@@ -1,5 +1,4 @@
-Gibbera distegiae (Tracy & Earle) M.E. Barr SPECIES
-=======
+# Gibbera distegiae (Tracy & Earle) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora stigmodes Syd., 1939 SPECIES
-=======
+# Phyllachora stigmodes Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

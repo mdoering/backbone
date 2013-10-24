@@ -1,5 +1,4 @@
-Hendersonia trifolii Gucevic SPECIES
-=======
+# Hendersonia trifolii Gucevic SPECIES
 
 #### Status
 ACCEPTED

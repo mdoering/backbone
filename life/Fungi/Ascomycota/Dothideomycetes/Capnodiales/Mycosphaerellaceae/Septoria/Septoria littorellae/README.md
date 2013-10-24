@@ -1,5 +1,4 @@
-Septoria littorellae Tassi SPECIES
-=======
+# Septoria littorellae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peronospora capparidis Sawada SPECIES
-=======
+# Peronospora capparis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Nat. Hist. Soc. Formosa 32: 225, 247 (1942)
 
 #### Original name
-Peronospora capparidis Sawada
+Peronospora capparis Sawada
 
 ### Remarks
 null

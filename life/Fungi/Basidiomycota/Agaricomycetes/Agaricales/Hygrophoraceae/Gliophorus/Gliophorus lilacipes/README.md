@@ -1,14 +1,13 @@
-Hygrocybe lilacipes (E. Horak) Boertm., 2002 SPECIES
-=======
+# Gliophorus lilacipes E. Horak, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 192: 43 (2002)
+Beih. Nova Hedwigia 43: 178 (1973)
 
 #### Original name
 Gliophorus lilacipes E. Horak, 1973

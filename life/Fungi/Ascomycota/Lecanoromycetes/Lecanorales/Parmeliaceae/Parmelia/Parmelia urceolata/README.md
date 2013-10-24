@@ -1,5 +1,4 @@
-Parmelia urceolata var. urceolata VARIETY
-=======
+# Parmelia urceolata Eschw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia urceolata var. urceolata
+Parmelia urceolata Eschw.
 
 ### Remarks
 null

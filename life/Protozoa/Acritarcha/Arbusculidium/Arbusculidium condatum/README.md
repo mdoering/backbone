@@ -1,5 +1,4 @@
-Arbusculidium condatum Sheshegova, 1984 SPECIES
-=======
+# Arbusculidium condatum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

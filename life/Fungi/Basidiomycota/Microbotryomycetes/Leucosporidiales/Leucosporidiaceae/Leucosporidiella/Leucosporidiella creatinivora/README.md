@@ -1,17 +1,16 @@
-Rhodotorula creatinovora Golubev SPECIES
-=======
+# Leucosporidiella creatinivora (Golubev) J.P. Samp., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sampaio, Gadanho, Bauer & Weiss, Mycol. Progr. 2(1): 8 (2003)
 
 #### Original name
-Rhodotorula creatinovora Golubev
+Rhodotorula creatinivora Golubev, 1998
 
 ### Remarks
 null

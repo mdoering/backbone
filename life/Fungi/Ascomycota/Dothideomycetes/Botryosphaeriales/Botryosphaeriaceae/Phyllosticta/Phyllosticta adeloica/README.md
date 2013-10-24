@@ -1,5 +1,4 @@
-Phyllosticta adeloica Speg. SPECIES
-=======
+# Phyllosticta adeloica Speg. SPECIES
 
 #### Status
 ACCEPTED

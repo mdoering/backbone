@@ -1,5 +1,4 @@
-Fuscoderma applanatum (D. J. Galloway & P. M. Jørg.) P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Fuscoderma applanatum (D. J. Galloway & P. M. Jørg.) P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

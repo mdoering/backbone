@@ -1,5 +1,4 @@
-Calicium ravenelii Tuck. SPECIES
-=======
+# Calicium ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

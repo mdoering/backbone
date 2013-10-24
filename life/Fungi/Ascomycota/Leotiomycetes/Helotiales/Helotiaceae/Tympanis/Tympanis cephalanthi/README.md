@@ -1,5 +1,4 @@
-Tympanis cephalanthi Dearn. & House SPECIES
-=======
+# Tympanis cephalanthi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

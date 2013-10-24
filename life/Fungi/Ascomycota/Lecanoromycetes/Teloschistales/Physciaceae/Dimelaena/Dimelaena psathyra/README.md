@@ -1,5 +1,4 @@
-Dimelaena psathyra SPECIES
-=======
+# Dimelaena psathyra SPECIES
 
 #### Status
 ACCEPTED

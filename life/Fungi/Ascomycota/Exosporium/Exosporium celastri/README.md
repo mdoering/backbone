@@ -1,5 +1,4 @@
-Exosporium celastri Kalchbr. & Cooke SPECIES
-=======
+# Exosporium celastri Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea antiqua B. de Lesd. SPECIES
-=======
+# Lecidea antiqua B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

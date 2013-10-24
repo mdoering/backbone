@@ -1,5 +1,4 @@
-Olla lonicerae Velen. SPECIES
-=======
+# Olla lonicerae Velen. SPECIES
 
 #### Status
 ACCEPTED

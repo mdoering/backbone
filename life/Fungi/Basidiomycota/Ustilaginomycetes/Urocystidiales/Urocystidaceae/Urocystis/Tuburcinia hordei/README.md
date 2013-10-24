@@ -1,5 +1,4 @@
-Tuburcinia hordei Cif. SPECIES
-=======
+# Tuburcinia hordei Cif. SPECIES
 
 #### Status
 ACCEPTED

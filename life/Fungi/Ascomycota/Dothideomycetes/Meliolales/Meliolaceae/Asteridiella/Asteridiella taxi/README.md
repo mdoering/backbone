@@ -1,5 +1,4 @@
-Asteridiella taxi (Sawada) Hansf. ex E. Müll. & S.K. Bose SPECIES
-=======
+# Asteridiella taxi (Sawada) Hansf. ex E. Müll. & S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa enteroxantha (Berk.) Sacc. SPECIES
-=======
+# Eutypa enteroxantha (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

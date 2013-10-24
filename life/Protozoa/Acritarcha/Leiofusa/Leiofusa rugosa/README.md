@@ -1,5 +1,4 @@
-Leiofusa rugosa N. Umnova, 1975 SPECIES
-=======
+# Leiofusa rugosa N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

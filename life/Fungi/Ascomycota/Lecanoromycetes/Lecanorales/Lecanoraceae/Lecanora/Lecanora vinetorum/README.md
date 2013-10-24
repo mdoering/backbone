@@ -1,5 +1,4 @@
-Lecanora vinetorum Poelt & Huneck SPECIES
-=======
+# Lecanora vinetorum Poelt & Huneck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colus pentagonus (F.M. Bailey) Sawada SPECIES
-=======
+# Colus pentagonus (F.M. Bailey) Sawada SPECIES
 
 #### Status
 ACCEPTED

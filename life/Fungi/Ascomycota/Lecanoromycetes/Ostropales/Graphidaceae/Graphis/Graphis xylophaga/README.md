@@ -1,5 +1,4 @@
-Graphis xylophaga (R.C. Harris) Lendemer SPECIES
-=======
+# Graphis xylophaga (R.C. Harris) Lendemer SPECIES
 
 #### Status
 ACCEPTED

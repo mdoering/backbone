@@ -1,5 +1,4 @@
-Cortinarius stercorarius f. stercorarius FORM
-=======
+# Cortinarius stercorarius SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius stercorarius f. stercorarius
+Cortinarius stercorarius
 
 ### Remarks
 null

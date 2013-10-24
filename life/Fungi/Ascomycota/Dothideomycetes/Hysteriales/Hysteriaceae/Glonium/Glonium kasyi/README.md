@@ -1,5 +1,4 @@
-Glonium kasyi Wechtl & Riedl SPECIES
-=======
+# Glonium kasyi Wechtl & Riedl SPECIES
 
 #### Status
 ACCEPTED

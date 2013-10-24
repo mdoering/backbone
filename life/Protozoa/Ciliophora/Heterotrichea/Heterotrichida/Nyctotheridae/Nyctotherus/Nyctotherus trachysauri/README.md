@@ -1,5 +1,4 @@
-Nyctotherus trachysauri Johnson, 1932 SPECIES
-=======
+# Nyctotherus trachysauri Johnson, 1932 SPECIES
 
 #### Status
 ACCEPTED

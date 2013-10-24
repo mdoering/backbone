@@ -1,5 +1,4 @@
-Periconia minima (Cooke) Sacc. SPECIES
-=======
+# Periconia minima (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

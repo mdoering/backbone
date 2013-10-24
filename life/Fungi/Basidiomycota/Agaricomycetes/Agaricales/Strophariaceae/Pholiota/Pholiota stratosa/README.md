@@ -1,5 +1,4 @@
-Pholiota stratosa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota stratosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

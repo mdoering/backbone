@@ -1,5 +1,4 @@
-Erysiphe discariae (Havryl.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe discariae (Havryl.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

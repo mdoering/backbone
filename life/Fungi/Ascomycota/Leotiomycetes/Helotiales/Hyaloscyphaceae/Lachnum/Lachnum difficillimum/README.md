@@ -1,5 +1,4 @@
-Lachnum difficillimum (Höhn.) W.Y. Zhuang SPECIES
-=======
+# Lachnum difficillimum (Höhn.) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

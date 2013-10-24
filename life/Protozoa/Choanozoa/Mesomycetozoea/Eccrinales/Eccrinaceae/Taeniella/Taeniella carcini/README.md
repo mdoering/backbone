@@ -1,17 +1,16 @@
-Taeniella grandis Hibbits, 1979 SPECIES
-=======
+# Taeniella carcini L. Léger & Duboscq, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syesis 11: 242 (1979)
+Ann. R. bot Gdn, Calcutta 23: 140 (1911)
 
 #### Original name
-Taeniella grandis Hibbits, 1979
+Taeniella carcini L. Léger & Duboscq, 1911
 
 ### Remarks
 null

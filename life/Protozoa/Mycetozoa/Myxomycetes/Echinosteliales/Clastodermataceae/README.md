@@ -1,17 +1,16 @@
-Clastodermidae FAMILY
-=======
+# Clastodermataceae Alexop. & T.E. Brooks FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 63(4): 926 (1971)
 
 #### Original name
-null
+Clastodermataceae Alexop. & T.E. Brooks
 
 ### Remarks
 null

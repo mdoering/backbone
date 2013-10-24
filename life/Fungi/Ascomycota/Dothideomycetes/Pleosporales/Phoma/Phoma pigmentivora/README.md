@@ -1,5 +1,4 @@
-Phoma pigmentivora Massee SPECIES
-=======
+# Phoma pigmentivora Massee SPECIES
 
 #### Status
 ACCEPTED

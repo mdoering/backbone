@@ -1,17 +1,16 @@
-Sporisorium andropogonis-gabonensis Vánky, 2006 SPECIES
-=======
+# Sporisorium congoense (Syd. & P. Syd.) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity 12: 186 (2003)
 
 #### Original name
-Sporisorium andropogonis-gabonensis Vánky, 2006
+Ustilago congoensis Syd. & P. Syd., 1909
 
 ### Remarks
 null

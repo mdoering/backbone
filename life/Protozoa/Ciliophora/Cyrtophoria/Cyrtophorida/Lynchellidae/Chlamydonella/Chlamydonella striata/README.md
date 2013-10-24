@@ -1,5 +1,4 @@
-Chlamydonella striata Deroux, 1976 SPECIES
-=======
+# Chlamydonella striata Deroux, 1976 SPECIES
 
 #### Status
 ACCEPTED

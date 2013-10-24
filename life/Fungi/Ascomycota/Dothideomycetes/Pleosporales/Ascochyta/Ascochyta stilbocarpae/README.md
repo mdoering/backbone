@@ -1,5 +1,4 @@
-Ascochyta stilbocarpae Syd., 1924 SPECIES
-=======
+# Ascochyta stilbocarpae Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

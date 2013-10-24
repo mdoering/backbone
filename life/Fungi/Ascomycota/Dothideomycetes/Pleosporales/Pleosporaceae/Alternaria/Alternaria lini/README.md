@@ -1,5 +1,4 @@
-Alternaria lini Dey, 1933 SPECIES
-=======
+# Alternaria lini Dey, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe desquamans Peck SPECIES
-=======
+# Inocybe desquamans Peck SPECIES
 
 #### Status
 ACCEPTED

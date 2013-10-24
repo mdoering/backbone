@@ -1,5 +1,4 @@
-Pholiota serrulata Cleland SPECIES
-=======
+# Pholiota serrulata Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma fuirenae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma fuirenae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporidium cnidii Constant. SPECIES
-=======
+# Cercosporidium cnidii Constant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena distoma SPECIES
-=======
+# Lagena distoma SPECIES
 
 #### Status
 ACCEPTED

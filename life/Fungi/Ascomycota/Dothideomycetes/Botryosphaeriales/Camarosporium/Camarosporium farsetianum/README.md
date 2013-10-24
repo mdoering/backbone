@@ -1,17 +1,16 @@
-Camarosporium farsetiana S. Ahmad SPECIES
-=======
+# Camarosporium farsetianum S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 13: 26 (1967)
 
 #### Original name
-Camarosporium farsetiana S. Ahmad
+Camarosporium farsetianum S. Ahmad
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phanerochaete alba Sang H. Lin & Z.C. Chen SPECIES
-=======
+# Phanerochaete alba Sang H. Lin & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula annularis Fée SPECIES
-=======
+# Pyrenula annularis Fée SPECIES
 
 #### Status
 ACCEPTED

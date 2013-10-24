@@ -1,5 +1,4 @@
-Metschnikowia similis Lachance & J.M. Bowles, 2004 SPECIES
-=======
+# Metschnikowia similis Lachance & J.M. Bowles, 2004 SPECIES
 
 #### Status
 ACCEPTED

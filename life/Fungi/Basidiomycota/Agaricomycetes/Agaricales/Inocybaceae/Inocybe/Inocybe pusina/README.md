@@ -1,5 +1,4 @@
-Inocybe pusina F.H. Møller SPECIES
-=======
+# Inocybe pusina F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe immersa U. Braun SPECIES
-=======
+# Erysiphe immersa U. Braun SPECIES
 
 #### Status
 ACCEPTED

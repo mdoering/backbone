@@ -1,5 +1,4 @@
-Cordyceps olivascens Mains SPECIES
-=======
+# Cordyceps olivascens Mains SPECIES
 
 #### Status
 ACCEPTED

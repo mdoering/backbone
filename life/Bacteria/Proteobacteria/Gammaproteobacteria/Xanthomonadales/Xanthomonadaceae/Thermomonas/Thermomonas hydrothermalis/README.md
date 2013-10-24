@@ -1,5 +1,4 @@
-Thermomonas hydrothermalis Alves et al., 2003 SPECIES
-=======
+# Thermomonas hydrothermalis Alves et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

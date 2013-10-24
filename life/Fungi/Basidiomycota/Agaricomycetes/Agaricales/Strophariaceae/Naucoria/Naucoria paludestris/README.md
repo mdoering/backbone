@@ -1,5 +1,4 @@
-Naucoria paludestris Herp. SPECIES
-=======
+# Naucoria paludestris Herp. SPECIES
 
 #### Status
 ACCEPTED

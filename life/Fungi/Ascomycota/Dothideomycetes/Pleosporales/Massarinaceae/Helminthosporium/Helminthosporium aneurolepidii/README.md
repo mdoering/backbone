@@ -1,5 +1,4 @@
-Helminthosporium aneurolepidii Lavrov SPECIES
-=======
+# Helminthosporium aneurolepidii Lavrov SPECIES
 
 #### Status
 ACCEPTED

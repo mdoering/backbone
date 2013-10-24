@@ -1,5 +1,4 @@
-Coccomyces pumilio (Velen.) Magnes SPECIES
-=======
+# Coccomyces pumilio (Velen.) Magnes SPECIES
 
 #### Status
 ACCEPTED

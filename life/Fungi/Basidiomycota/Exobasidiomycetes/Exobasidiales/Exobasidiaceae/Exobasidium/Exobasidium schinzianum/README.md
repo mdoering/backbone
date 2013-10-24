@@ -1,5 +1,4 @@
-Exobasidium schinzianum Magnus SPECIES
-=======
+# Exobasidium schinzianum Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria nectandrae R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria nectandrae R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

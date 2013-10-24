@@ -1,5 +1,4 @@
-Biatorina aeruginella Arnold SPECIES
-=======
+# Biatorina aeruginella Arnold SPECIES
 
 #### Status
 ACCEPTED

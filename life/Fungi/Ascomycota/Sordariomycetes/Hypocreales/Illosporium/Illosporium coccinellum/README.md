@@ -1,5 +1,4 @@
-Illosporium coccinellum Cooke SPECIES
-=======
+# Illosporium coccinellum Cooke SPECIES
 
 #### Status
 ACCEPTED

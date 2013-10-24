@@ -1,5 +1,4 @@
-Sarcopodium atrum Corda SPECIES
-=======
+# Sarcopodium atrum Corda SPECIES
 
 #### Status
 ACCEPTED

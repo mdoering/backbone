@@ -1,5 +1,4 @@
-Dimerosporium ellisii Sacc. SPECIES
-=======
+# Dimerosporium ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

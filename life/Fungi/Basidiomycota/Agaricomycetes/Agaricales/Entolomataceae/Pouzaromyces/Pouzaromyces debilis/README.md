@@ -1,5 +1,4 @@
-Pouzaromyces debilis Corner & E. Horak SPECIES
-=======
+# Pouzaromyces debilis Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium betae Keyworth et al., 1956 SPECIES
-=======
+# Corynebacterium betae Keyworth et al., 1956 SPECIES
 
 #### Status
 ACCEPTED

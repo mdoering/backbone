@@ -1,5 +1,4 @@
-Gasterellaceae Zeller FAMILY
-=======
+# Gasterellaceae Zeller FAMILY
 
 #### Status
 ACCEPTED

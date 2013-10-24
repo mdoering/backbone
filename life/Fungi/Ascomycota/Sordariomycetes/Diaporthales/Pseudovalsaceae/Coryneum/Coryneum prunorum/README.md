@@ -1,5 +1,4 @@
-Coryneum prunorum Sacc. SPECIES
-=======
+# Coryneum prunorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

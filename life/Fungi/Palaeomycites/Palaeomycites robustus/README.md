@@ -1,5 +1,4 @@
-Palaeomycites robustus (R.K. Kar) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites robustus (R.K. Kar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

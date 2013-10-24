@@ -1,14 +1,13 @@
-Merulius castaneus Lloyd, 1916 SPECIES
-=======
+# Cystidiophorus castaneus (Lloyd) Imazeki, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4: 555 (1916)
+Col. Ill. Fungi Jap. 2: 125 (1965)
 
 #### Original name
 Merulius castaneus Lloyd, 1916

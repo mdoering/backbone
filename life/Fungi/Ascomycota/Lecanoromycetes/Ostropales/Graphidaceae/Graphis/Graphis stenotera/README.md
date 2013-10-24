@@ -1,5 +1,4 @@
-Graphis stenotera subsp. stenotera Vain. SUBSPECIES
-=======
+# Graphis stenotera Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis stenotera subsp. stenotera Vain.
+Graphis stenotera Vain.
 
 ### Remarks
 null

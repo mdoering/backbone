@@ -1,5 +1,4 @@
-Trichosporum splenicum Sacc. & Berl. SPECIES
-=======
+# Trichosporum splenicum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

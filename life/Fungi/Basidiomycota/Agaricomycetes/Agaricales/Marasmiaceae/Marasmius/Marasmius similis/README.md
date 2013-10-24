@@ -1,5 +1,4 @@
-Marasmius similis Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius similis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

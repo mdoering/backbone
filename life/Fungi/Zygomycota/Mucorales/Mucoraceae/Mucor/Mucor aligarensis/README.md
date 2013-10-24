@@ -1,17 +1,16 @@
-Mucor petrinsularis var. ovalisporus G. Sm., 1957 VARIETY
-=======
+# Mucor aligarensis B.S. Mehrotra & B.R. Mehrotra, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 40(4): 481 (1957)
+Sydowia 23: 183 (1970)
 
 #### Original name
-Mucor petrinsularis var. ovalisporus G. Sm., 1957
+Mucor aligarensis B.S. Mehrotra & B.R. Mehrotra, 1970
 
 ### Remarks
 null

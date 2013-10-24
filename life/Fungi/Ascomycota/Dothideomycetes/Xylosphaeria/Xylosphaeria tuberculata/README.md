@@ -1,5 +1,4 @@
-Xylosphaeria tuberculata (Rehm) Petr. SPECIES
-=======
+# Xylosphaeria tuberculata (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flavisolibacter Yoon & Im, 2007 GENUS
-=======
+# Flavisolibacter Yoon & Im, 2007 GENUS
 
 #### Status
 ACCEPTED

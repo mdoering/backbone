@@ -1,5 +1,4 @@
-Mycena crinalis (Berk.) Sacc. SPECIES
-=======
+# Mycena crinalis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

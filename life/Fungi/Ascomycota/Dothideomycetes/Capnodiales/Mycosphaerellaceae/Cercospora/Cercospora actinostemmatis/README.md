@@ -1,5 +1,4 @@
-Cercospora actinostemmatis Sawada SPECIES
-=======
+# Cercospora actinostemmatis Sawada SPECIES
 
 #### Status
 ACCEPTED

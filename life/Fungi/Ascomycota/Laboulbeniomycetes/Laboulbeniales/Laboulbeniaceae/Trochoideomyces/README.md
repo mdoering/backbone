@@ -1,5 +1,4 @@
-Trochoideomyces Thaxt. GENUS
-=======
+# Trochoideomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

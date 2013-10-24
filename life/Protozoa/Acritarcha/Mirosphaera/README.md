@@ -1,5 +1,4 @@
-Mirosphaera P. Palik, 1966 GENUS
-=======
+# Mirosphaera P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

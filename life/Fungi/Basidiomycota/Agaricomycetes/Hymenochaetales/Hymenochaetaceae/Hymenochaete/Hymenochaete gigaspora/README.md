@@ -1,5 +1,4 @@
-Hymenochaete gigaspora D.A. Reid, 1974 SPECIES
-=======
+# Hymenochaete gigaspora D.A. Reid, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosporium rhododendri Fuckel SPECIES
-=======
+# Apiosporium rhododendri Fuckel SPECIES
 
 #### Status
 ACCEPTED

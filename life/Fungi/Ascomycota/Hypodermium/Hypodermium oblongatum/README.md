@@ -1,5 +1,4 @@
-Hypodermium oblongatum Link SPECIES
-=======
+# Hypodermium oblongatum Link SPECIES
 
 #### Status
 ACCEPTED

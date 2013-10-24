@@ -1,5 +1,4 @@
-Lecanora pallidofusca Kremp. SPECIES
-=======
+# Lecanora pallidofusca Kremp. SPECIES
 
 #### Status
 ACCEPTED

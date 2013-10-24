@@ -1,8 +1,7 @@
-Septoria molleriana Bres. & Roum. SPECIES
-=======
+# Septoria moelleriana Bres. & Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria molleriana Bres. & Roum.
+Septoria moelleriana Bres. & Roum.
 
 ### Remarks
 null

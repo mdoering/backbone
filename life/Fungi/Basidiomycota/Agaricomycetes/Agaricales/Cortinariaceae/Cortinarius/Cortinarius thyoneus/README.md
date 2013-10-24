@@ -1,5 +1,4 @@
-Cortinarius thyoneus E. Horak SPECIES
-=======
+# Cortinarius thyoneus E. Horak SPECIES
 
 #### Status
 ACCEPTED

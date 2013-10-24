@@ -1,5 +1,4 @@
-Gasparrinia tegularis (Ehrh.) Hav. SPECIES
-=======
+# Gasparrinia tegularis (Ehrh.) Hav. SPECIES
 
 #### Status
 ACCEPTED

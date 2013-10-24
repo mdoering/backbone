@@ -1,5 +1,4 @@
-Selenophoma proximella Petr. SPECIES
-=======
+# Selenophoma proximella Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria shastensis Bonar & W.B. Cooke SPECIES
-=======
+# Septoria shastensis Bonar & W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

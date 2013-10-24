@@ -1,5 +1,4 @@
-Blennoria rubi Mont. SPECIES
-=======
+# Blennoria rubi Mont. SPECIES
 
 #### Status
 ACCEPTED

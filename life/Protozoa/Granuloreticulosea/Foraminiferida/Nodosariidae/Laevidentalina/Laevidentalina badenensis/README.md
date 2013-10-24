@@ -1,5 +1,4 @@
-Laevidentalina badenensis (d’Orbigny, 1846) SPECIES
-=======
+# Laevidentalina badenensis (d’Orbigny, 1846) SPECIES
 
 #### Status
 ACCEPTED

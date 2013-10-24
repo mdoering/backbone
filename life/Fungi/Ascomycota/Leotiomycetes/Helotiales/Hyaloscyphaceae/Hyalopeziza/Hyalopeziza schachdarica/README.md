@@ -1,5 +1,4 @@
-Hyalopeziza schachdarica Raitv. SPECIES
-=======
+# Hyalopeziza schachdarica Raitv. SPECIES
 
 #### Status
 ACCEPTED

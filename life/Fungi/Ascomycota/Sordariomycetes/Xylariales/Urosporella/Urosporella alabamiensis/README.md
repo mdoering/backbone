@@ -1,5 +1,4 @@
-Urosporella alabamiensis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Urosporella alabamiensis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

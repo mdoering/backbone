@@ -1,5 +1,4 @@
-Boletus roseobadius A.H. Sm. & Thiers SPECIES
-=======
+# Boletus roseobadius A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

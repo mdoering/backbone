@@ -1,14 +1,13 @@
-Hiatula wynniae Berk. & Broome, 1879 SPECIES
-=======
+# Leucocoprinus wynniae (Berk. & Broome) Locq., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 3: 206 (1879)
+Bull. trimest. Soc. mycol. Fr. 67: (1951)
 
 #### Original name
 Hiatula wynniae Berk. & Broome, 1879

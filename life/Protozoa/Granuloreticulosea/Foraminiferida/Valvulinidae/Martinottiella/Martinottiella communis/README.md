@@ -1,5 +1,4 @@
-Martinottiella communis SPECIES
-=======
+# Martinottiella communis SPECIES
 
 #### Status
 ACCEPTED

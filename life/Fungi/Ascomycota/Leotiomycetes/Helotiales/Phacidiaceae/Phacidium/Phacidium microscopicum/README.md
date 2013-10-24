@@ -1,5 +1,4 @@
-Phacidium microscopicum Desm. SPECIES
-=======
+# Phacidium microscopicum Desm. SPECIES
 
 #### Status
 ACCEPTED

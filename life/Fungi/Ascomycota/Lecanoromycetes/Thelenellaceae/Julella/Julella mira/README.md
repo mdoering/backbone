@@ -1,5 +1,4 @@
-Julella mira (Marcich) Popuschoj SPECIES
-=======
+# Julella mira (Marcich) Popuschoj SPECIES
 
 #### Status
 ACCEPTED

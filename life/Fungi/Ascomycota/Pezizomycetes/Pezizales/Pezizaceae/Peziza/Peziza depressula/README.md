@@ -1,5 +1,4 @@
-Peziza depressula Nyl. SPECIES
-=======
+# Peziza depressula Nyl. SPECIES
 
 #### Status
 ACCEPTED

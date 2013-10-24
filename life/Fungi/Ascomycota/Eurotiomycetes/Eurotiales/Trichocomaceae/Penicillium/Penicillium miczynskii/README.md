@@ -1,17 +1,16 @@
-Penicillium miczynskii var. miczynskii VARIETY
-=======
+# Penicillium miczynskii K.M. Zalessky, 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bulletin Acad. Polonaise Sci. , Math. et Nat. , Sér. B 482 (1927)
 
 #### Original name
-Penicillium miczynskii var. miczynskii
+Penicillium miczynskii K.M. Zalessky, 1927
 
 ### Remarks
 null

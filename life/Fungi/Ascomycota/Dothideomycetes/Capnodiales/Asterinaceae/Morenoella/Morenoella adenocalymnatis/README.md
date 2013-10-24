@@ -1,5 +1,4 @@
-Morenoella adenocalymnatis SPECIES
-=======
+# Morenoella adenocalymnatis SPECIES
 
 #### Status
 ACCEPTED

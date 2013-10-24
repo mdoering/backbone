@@ -1,5 +1,4 @@
-Siphonina howei Cushman, 1927 SPECIES
-=======
+# Siphonina howei Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

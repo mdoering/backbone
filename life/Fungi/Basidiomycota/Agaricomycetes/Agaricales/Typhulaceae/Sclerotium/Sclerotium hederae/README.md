@@ -1,5 +1,4 @@
-Sclerotium hederae Schleich. SPECIES
-=======
+# Sclerotium hederae Schleich. SPECIES
 
 #### Status
 ACCEPTED

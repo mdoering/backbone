@@ -1,5 +1,4 @@
-Calpionella cylindrica SPECIES
-=======
+# Calpionella cylindrica SPECIES
 
 #### Status
 ACCEPTED

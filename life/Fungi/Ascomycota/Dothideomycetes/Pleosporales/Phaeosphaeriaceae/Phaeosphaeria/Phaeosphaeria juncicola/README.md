@@ -1,14 +1,13 @@
-Leptosphaeria juncicola Rehm, 1879 SPECIES
-=======
+# Phaeosphaeria juncicola (Rehm ex G. Winter) L. Holm, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascomyceten Dign. 11: no. 533 (1879)
+Symb. bot. upsal. 14(no. 3): 129 (1957)
 
 #### Original name
 Leptosphaeria juncicola Rehm, 1879

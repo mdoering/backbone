@@ -1,5 +1,4 @@
-Dicaeoma galanthi (Unger) Kuntze SPECIES
-=======
+# Dicaeoma galanthi (Unger) Kuntze SPECIES
 
 #### Status
 ACCEPTED

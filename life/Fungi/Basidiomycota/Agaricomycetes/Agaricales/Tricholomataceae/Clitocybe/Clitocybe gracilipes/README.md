@@ -1,14 +1,13 @@
-Clitocybe dionysae Bon, 1997 SPECIES
-=======
+# Clitocybe gracilipes Lamoure, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 26(no. 104): 29 (1997)
+Trav. Sci. Parc. Natl. Vanoise 2: 145 (1972)
 
 #### Original name
 Clitocybe gracilipes Lamoure, 1972

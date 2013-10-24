@@ -1,14 +1,13 @@
-Paecilomyces fusidioides Nicot, 1968 SPECIES
-=======
+# Acremonium fusidioides (Nicot) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 6: 18 (1968)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 70 (1971)
 
 #### Original name
 Paecilomyces fusidioides Nicot, 1968

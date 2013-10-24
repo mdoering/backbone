@@ -1,5 +1,4 @@
-Psathyrella bivelata Contu SPECIES
-=======
+# Psathyrella bivelata Contu SPECIES
 
 #### Status
 ACCEPTED

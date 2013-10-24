@@ -1,5 +1,4 @@
-Haeuslerina Simmons, BouDagher-Fadel, Banner & Whittaker, 1997 GENUS
-=======
+# Haeuslerina Simmons, BouDagher-Fadel, Banner & Whittaker, 1997 GENUS
 
 #### Status
 ACCEPTED

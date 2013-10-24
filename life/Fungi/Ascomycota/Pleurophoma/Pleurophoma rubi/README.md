@@ -1,5 +1,4 @@
-Pleurophoma rubi H. Ruppr., 1958 SPECIES
-=======
+# Pleurophoma rubi H. Ruppr., 1958 SPECIES
 
 #### Status
 ACCEPTED

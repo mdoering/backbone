@@ -1,5 +1,4 @@
-Verrucaria glauconephela Nyl. SPECIES
-=======
+# Verrucaria glauconephela Nyl. SPECIES
 
 #### Status
 ACCEPTED

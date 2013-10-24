@@ -1,5 +1,4 @@
-Peltosoma Sydow, 1925 GENUS
-=======
+# Peltosoma Sydow, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella tamaricis Hollós SPECIES
-=======
+# Aplosporella tamaricis Hollós SPECIES
 
 #### Status
 ACCEPTED

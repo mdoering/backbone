@@ -1,5 +1,4 @@
-Sagenidium candidum (Müll. Arg.) Follmann SPECIES
-=======
+# Sagenidium candidum (Müll. Arg.) Follmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoothamnium xuianum Sun, Ji & Song, 2005 SPECIES
-=======
+# Zoothamnium xuianum Sun, Ji & Song, 2005 SPECIES
 
 #### Status
 ACCEPTED

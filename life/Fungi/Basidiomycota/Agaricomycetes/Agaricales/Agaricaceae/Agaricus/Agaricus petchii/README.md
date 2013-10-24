@@ -1,5 +1,4 @@
-Agaricus petchii Pegler SPECIES
-=======
+# Agaricus petchii Pegler SPECIES
 
 #### Status
 ACCEPTED

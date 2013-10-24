@@ -1,5 +1,4 @@
-Discula fraxinea (Peck) Redlin & Stack SPECIES
-=======
+# Discula fraxinea (Peck) Redlin & Stack SPECIES
 
 #### Status
 ACCEPTED

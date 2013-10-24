@@ -1,5 +1,4 @@
-Cercospora mate Naito SPECIES
-=======
+# Cercospora mate Naito SPECIES
 
 #### Status
 ACCEPTED

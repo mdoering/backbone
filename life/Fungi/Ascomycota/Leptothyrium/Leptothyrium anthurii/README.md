@@ -1,5 +1,4 @@
-Leptothyrium anthurii Bat. & Nascim. SPECIES
-=======
+# Leptothyrium anthurii Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

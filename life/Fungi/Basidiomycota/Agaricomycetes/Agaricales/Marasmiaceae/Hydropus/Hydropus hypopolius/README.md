@@ -1,5 +1,4 @@
-Hydropus hypopolius Singer SPECIES
-=======
+# Hydropus hypopolius Singer SPECIES
 
 #### Status
 ACCEPTED

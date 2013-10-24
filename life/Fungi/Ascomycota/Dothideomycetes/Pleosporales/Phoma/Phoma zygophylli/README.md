@@ -1,5 +1,4 @@
-Phoma zygophylli Szembel SPECIES
-=======
+# Phoma zygophylli Szembel SPECIES
 
 #### Status
 ACCEPTED

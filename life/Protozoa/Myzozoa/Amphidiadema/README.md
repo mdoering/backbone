@@ -1,5 +1,4 @@
-Amphidiadema Cookson & Eisenack GENUS
-=======
+# Amphidiadema Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

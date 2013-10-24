@@ -1,5 +1,4 @@
-Aspergillus mellinus Novobr., 1972 SPECIES
-=======
+# Aspergillus mellinus Novobr., 1972 SPECIES
 
 #### Status
 ACCEPTED

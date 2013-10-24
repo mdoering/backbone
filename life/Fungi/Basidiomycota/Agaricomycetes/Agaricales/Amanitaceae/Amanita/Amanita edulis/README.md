@@ -1,5 +1,4 @@
-Amanita edulis Lam. SPECIES
-=======
+# Amanita edulis Lam. SPECIES
 
 #### Status
 ACCEPTED

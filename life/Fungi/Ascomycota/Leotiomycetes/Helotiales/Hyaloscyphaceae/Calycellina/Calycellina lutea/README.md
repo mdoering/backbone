@@ -1,5 +1,4 @@
-Calycellina lutea (Raschle) Baral & P. Blank SPECIES
-=======
+# Calycellina lutea (Raschle) Baral & P. Blank SPECIES
 
 #### Status
 ACCEPTED

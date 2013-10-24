@@ -1,5 +1,4 @@
-Oligostroma suttoniae F. Stevens SPECIES
-=======
+# Oligostroma suttoniae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

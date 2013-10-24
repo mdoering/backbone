@@ -1,5 +1,4 @@
-Lecidea artyta Ach. SPECIES
-=======
+# Lecidea artyta Ach. SPECIES
 
 #### Status
 ACCEPTED

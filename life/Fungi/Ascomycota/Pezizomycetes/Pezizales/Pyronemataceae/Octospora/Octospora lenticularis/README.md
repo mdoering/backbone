@@ -1,5 +1,4 @@
-Octospora lenticularis Gray SPECIES
-=======
+# Octospora lenticularis Gray SPECIES
 
 #### Status
 ACCEPTED

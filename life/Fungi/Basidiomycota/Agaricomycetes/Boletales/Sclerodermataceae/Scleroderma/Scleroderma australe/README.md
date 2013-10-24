@@ -1,5 +1,4 @@
-Scleroderma australe Massee SPECIES
-=======
+# Scleroderma australe Massee SPECIES
 
 #### Status
 ACCEPTED

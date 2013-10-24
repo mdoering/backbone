@@ -1,5 +1,4 @@
-Guignardia kareliniae Nasyrov SPECIES
-=======
+# Guignardia kareliniae Nasyrov SPECIES
 
 #### Status
 ACCEPTED

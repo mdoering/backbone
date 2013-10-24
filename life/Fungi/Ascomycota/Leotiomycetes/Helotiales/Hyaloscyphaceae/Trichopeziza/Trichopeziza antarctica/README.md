@@ -1,5 +1,4 @@
-Trichopeziza antarctica (Speg.) Sacc. SPECIES
-=======
+# Trichopeziza antarctica (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

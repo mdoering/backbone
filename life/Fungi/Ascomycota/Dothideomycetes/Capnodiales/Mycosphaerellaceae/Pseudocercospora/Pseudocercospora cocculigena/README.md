@@ -1,5 +1,4 @@
-Pseudocercospora cocculigena Y.L. Guo SPECIES
-=======
+# Pseudocercospora cocculigena Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

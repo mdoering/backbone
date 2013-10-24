@@ -1,5 +1,4 @@
-Micropeltella merrillii Syd. & P. Syd. SPECIES
-=======
+# Micropeltella merrillii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

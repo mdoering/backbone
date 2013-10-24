@@ -1,5 +1,4 @@
-Aglaospora occulta (Ellis) Farl. SPECIES
-=======
+# Aglaospora occulta (Ellis) Farl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegospyris Haeckel, 1881 GENUS
-=======
+# Aegospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nannoconus colomii (de Lapparent, 1931) Kamptner, 1938 SPECIES
-=======
+# Nannoconus colomii (de Lapparent, 1931) Kamptner, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchostoma nucis Fairm. SPECIES
-=======
+# Rhynchostoma nucis Fairm. SPECIES
 
 #### Status
 ACCEPTED

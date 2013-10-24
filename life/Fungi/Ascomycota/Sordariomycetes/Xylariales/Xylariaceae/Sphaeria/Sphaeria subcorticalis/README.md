@@ -1,5 +1,4 @@
-Sphaeria subcorticalis Sowerby SPECIES
-=======
+# Sphaeria subcorticalis Sowerby SPECIES
 
 #### Status
 ACCEPTED

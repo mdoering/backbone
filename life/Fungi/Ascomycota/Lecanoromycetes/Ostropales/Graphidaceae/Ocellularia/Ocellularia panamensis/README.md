@@ -1,14 +1,13 @@
-Leptotrema panamense Hale SPECIES
-=======
+# Ocellularia panamensis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Smithson. Contr. bot. 38: 54 (1978)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Leptotrema panamense Hale

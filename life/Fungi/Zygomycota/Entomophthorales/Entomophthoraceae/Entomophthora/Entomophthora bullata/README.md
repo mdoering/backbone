@@ -1,5 +1,4 @@
-Entomophthora bullata Thaxt. SPECIES
-=======
+# Entomophthora bullata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

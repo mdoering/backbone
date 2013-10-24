@@ -1,5 +1,4 @@
-Auloscena verticillus Haeckel SPECIES
-=======
+# Auloscena verticillus Haeckel SPECIES
 
 #### Status
 ACCEPTED

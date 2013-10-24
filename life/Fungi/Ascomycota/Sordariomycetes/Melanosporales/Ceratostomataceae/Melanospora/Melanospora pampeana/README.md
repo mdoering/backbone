@@ -1,5 +1,4 @@
-Melanospora pampeana Speg. SPECIES
-=======
+# Melanospora pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

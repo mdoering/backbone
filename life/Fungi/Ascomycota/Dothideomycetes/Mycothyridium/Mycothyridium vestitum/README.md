@@ -1,17 +1,16 @@
-Mycothyridium vestitum (Fr.) E. Müll. SPECIES
-=======
+# Mycothyridium vestitum (Fr.) E. Müll., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 14: 121 (1973)
+null
 
 #### Original name
-Sphaeria vestita Fr., 1823
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thyrea arabica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Thyrea arabica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria lasiacidis Samuels, 1989 SPECIES
-=======
+# Bionectria lasiacidis (Samuels) Schroers, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 49: 273 (1989)
+Stud. Mycol. 46: 187 (2001)
 
 #### Original name
 Nectria lasiacidis Samuels, 1989

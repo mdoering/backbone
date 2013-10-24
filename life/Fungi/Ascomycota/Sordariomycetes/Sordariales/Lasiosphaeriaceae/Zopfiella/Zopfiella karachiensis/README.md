@@ -1,14 +1,13 @@
-Triangularia karachiensis (S.I. Ahmed & Asad) Udagawa, 1979 SPECIES
-=======
+# Zopfiella karachiensis (S.I. Ahmed & Asad) Guarro, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Udagawa, Tsuzaki & Uehara, Trans. Mycol. Soc. Japan 20(3): 362 (1979)
+in Guarro & Cano, Trans. Br. mycol. Soc. 91(4): 589 (1988)
 
 #### Original name
 Strattonia karachiensis S.I. Ahmed & Asad, 1968

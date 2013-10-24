@@ -1,5 +1,4 @@
-Laboulbenia columbiana Thaxt. SPECIES
-=======
+# Laboulbenia columbiana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

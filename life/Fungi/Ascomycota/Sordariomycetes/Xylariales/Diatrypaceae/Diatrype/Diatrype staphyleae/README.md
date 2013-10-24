@@ -1,5 +1,4 @@
-Diatrype staphyleae (Dearn. & House) Dearn. & House SPECIES
-=======
+# Diatrype staphyleae (Dearn. & House) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

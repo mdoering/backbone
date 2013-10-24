@@ -1,5 +1,4 @@
-Zymomonas mobilis subsp. mobilis SUBSPECIES
-=======
+# Zymomonas mobilis (Lindner, 1928) Kluyver & van Niel, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea americanus SPECIES
-=======
+# Glugea americanus SPECIES
 
 #### Status
 ACCEPTED

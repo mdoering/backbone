@@ -1,17 +1,16 @@
-Helmisporium stromatoideum Dearn. SPECIES
-=======
+# Helminthosporium stromatoideum Dearn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 16(4): 174 (1924)
 
 #### Original name
-Helmisporium stromatoideum Dearn.
+Helminthosporium stromatoideum Dearn.
 
 ### Remarks
 null

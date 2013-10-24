@@ -1,5 +1,4 @@
-Marasmius concinnus Ellis & Everh. SPECIES
-=======
+# Marasmius concinnus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

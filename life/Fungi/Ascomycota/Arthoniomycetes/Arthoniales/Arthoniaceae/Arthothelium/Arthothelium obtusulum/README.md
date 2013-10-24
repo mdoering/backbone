@@ -1,5 +1,4 @@
-Arthothelium obtusulum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium obtusulum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

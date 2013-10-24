@@ -1,5 +1,4 @@
-Botuobia V.G. Pjatiletov, 1979 GENUS
-=======
+# Botuobia V.G. Pjatiletov, 1979 GENUS
 
 #### Status
 ACCEPTED

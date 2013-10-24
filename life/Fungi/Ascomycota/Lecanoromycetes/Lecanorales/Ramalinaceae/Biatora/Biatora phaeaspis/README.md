@@ -1,5 +1,4 @@
-Biatora phaeaspis Tuck. SPECIES
-=======
+# Biatora phaeaspis Tuck. SPECIES
 
 #### Status
 ACCEPTED

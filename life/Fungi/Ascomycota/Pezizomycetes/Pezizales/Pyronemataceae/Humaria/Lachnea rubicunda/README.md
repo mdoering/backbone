@@ -1,5 +1,4 @@
-Lachnea rubicunda (Quél.) Sacc. SPECIES
-=======
+# Lachnea rubicunda (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

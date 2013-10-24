@@ -1,5 +1,4 @@
-Terfezia pinoyi Maire SPECIES
-=======
+# Terfezia pinoyi Maire SPECIES
 
 #### Status
 ACCEPTED

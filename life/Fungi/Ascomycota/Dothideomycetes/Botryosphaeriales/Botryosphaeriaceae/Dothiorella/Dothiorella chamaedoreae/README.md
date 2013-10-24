@@ -1,5 +1,4 @@
-Dothiorella chamaedoreae Caball. SPECIES
-=======
+# Dothiorella chamaedoreae Caball. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosalina globularis SPECIES
-=======
+# Rosalina globularis SPECIES
 
 #### Status
 ACCEPTED

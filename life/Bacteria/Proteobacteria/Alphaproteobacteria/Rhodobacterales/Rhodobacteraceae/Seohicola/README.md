@@ -1,5 +1,4 @@
-Seohicola GENUS
-=======
+# Seohicola GENUS
 
 #### Status
 ACCEPTED

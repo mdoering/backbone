@@ -1,5 +1,4 @@
-Puccinia araliae-cordatae Henn. SPECIES
-=======
+# Puccinia araliae-cordatae Henn. SPECIES
 
 #### Status
 ACCEPTED

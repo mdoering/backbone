@@ -1,5 +1,4 @@
-Rosellinia hystricula (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia hystricula (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

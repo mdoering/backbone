@@ -1,5 +1,4 @@
-Catillaria rudiuscula (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria rudiuscula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

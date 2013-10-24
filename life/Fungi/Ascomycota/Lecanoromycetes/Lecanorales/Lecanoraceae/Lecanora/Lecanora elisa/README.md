@@ -1,5 +1,4 @@
-Lecanora elisa Nyl. SPECIES
-=======
+# Lecanora elisa Nyl. SPECIES
 
 #### Status
 ACCEPTED

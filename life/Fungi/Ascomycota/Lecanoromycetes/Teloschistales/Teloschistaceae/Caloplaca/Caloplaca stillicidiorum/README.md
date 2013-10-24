@@ -1,5 +1,4 @@
-Caloplaca stillicidiorum SPECIES
-=======
+# Caloplaca stillicidiorum SPECIES
 
 #### Status
 ACCEPTED

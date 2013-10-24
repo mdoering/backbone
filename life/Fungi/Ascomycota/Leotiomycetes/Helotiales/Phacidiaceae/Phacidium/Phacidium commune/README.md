@@ -1,5 +1,4 @@
-Phacidium commune Feistm. SPECIES
-=======
+# Phacidium commune Feistm. SPECIES
 
 #### Status
 ACCEPTED

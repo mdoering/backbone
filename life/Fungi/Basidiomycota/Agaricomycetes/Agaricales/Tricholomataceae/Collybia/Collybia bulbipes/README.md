@@ -1,5 +1,4 @@
-Collybia bulbipes Pat. & Gaillard SPECIES
-=======
+# Collybia bulbipes Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

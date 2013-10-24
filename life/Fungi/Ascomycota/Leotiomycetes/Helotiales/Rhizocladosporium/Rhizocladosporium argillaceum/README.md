@@ -1,14 +1,13 @@
-Cladosporium argillaceum Minoura, 1966 SPECIES
-=======
+# Rhizocladosporium argillaceum (Minoura) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Ferment. Technol. , Osaka 44: 140 (1966)
+in Crous, Braun, Schubert & Groenewald, Stud. Mycol. 58: 50 (2007)
 
 #### Original name
 Cladosporium argillaceum Minoura, 1966

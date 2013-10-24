@@ -1,5 +1,4 @@
-Tremellodon hirneoloides (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Tremellodon hirneoloides (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

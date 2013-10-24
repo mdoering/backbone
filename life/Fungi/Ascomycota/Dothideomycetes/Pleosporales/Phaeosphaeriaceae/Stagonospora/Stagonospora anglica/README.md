@@ -1,5 +1,4 @@
-Stagonospora anglica Cunnell, 1956 SPECIES
-=======
+# Stagonospora anglica Cunnell, 1956 SPECIES
 
 #### Status
 ACCEPTED

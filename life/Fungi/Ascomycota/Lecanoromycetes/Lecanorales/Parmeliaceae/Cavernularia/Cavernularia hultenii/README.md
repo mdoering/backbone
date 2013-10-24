@@ -1,5 +1,4 @@
-Cavernularia hultenii Degel. SPECIES
-=======
+# Cavernularia hultenii Degel. SPECIES
 
 #### Status
 ACCEPTED

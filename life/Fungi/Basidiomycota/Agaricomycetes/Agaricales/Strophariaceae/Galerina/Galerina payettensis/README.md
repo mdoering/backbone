@@ -1,5 +1,4 @@
-Galerina payettensis A.H. Sm. & Singer SPECIES
-=======
+# Galerina payettensis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

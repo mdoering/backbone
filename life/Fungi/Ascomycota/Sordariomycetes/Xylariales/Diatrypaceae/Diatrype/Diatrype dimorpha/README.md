@@ -1,5 +1,4 @@
-Diatrype dimorpha Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype dimorpha Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

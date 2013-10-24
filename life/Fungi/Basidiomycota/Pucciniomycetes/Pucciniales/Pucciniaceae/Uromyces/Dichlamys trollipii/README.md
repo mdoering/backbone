@@ -1,14 +1,13 @@
-Dichlamys trollipi (Kalchbr. & Cooke) Syd. & P. Syd. SPECIES
-=======
+# Dichlamys trollipii (Kalchbr. & Cooke) Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 17(2/6): 105 (1920)
 
 #### Original name
 Uromyces trollipii Kalchbr. & MacOwan

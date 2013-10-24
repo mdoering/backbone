@@ -1,14 +1,13 @@
-Palaeopeneroplis Hofker, 1964 GENUS
-=======
+# Laevipeneroplis Sulc, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Ann. Protistologie, 5, 161.
 
 #### Original name
 null

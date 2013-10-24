@@ -1,5 +1,4 @@
-Efibula tropica Sheng H. Wu SPECIES
-=======
+# Efibula tropica Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

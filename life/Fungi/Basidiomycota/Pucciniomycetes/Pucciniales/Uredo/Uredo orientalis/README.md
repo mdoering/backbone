@@ -1,5 +1,4 @@
-Uredo orientalis Racib. SPECIES
-=======
+# Uredo orientalis Racib. SPECIES
 
 #### Status
 ACCEPTED

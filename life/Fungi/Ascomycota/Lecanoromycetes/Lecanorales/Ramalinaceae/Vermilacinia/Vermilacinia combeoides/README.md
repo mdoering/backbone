@@ -1,5 +1,4 @@
-Vermilacinia combeoides (Nyl.) Spjut & Hale SPECIES
-=======
+# Vermilacinia combeoides (Nyl.) Spjut & Hale SPECIES
 
 #### Status
 ACCEPTED

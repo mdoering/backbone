@@ -1,5 +1,4 @@
-Asterina averrhoae Hosag., Kamar. & K.P. Babu SPECIES
-=======
+# Asterina averrhoae Hosag., Kamar. & K.P. Babu SPECIES
 
 #### Status
 ACCEPTED

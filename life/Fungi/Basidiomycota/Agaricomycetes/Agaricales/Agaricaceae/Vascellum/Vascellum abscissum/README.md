@@ -1,5 +1,4 @@
-Vascellum abscissum (R.E. Fr.) Kreisel SPECIES
-=======
+# Vascellum abscissum (R.E. Fr.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

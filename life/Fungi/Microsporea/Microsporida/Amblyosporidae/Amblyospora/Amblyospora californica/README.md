@@ -1,5 +1,4 @@
-Amblyospora californica (W.R. Kellen & J.J. Lipa) E.I. Hazard & Oldacre SPECIES
-=======
+# Amblyospora californica (W.R. Kellen & J.J. Lipa) E.I. Hazard & Oldacre SPECIES
 
 #### Status
 ACCEPTED

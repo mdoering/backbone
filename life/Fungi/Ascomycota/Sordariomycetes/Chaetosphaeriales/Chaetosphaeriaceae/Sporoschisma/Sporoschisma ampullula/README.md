@@ -1,5 +1,4 @@
-Sporoschisma ampullula Sacc. SPECIES
-=======
+# Sporoschisma ampullula Sacc. SPECIES
 
 #### Status
 ACCEPTED

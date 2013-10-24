@@ -1,5 +1,4 @@
-Stylonychia viridis Dumas, 1937 SPECIES
-=======
+# Stylonychia viridis Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia subobscura Vain. SPECIES
-=======
+# Parmelia subobscura Vain. SPECIES
 
 #### Status
 ACCEPTED

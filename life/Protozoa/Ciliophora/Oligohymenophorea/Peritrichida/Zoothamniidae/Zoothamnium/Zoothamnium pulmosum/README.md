@@ -1,5 +1,4 @@
-Zoothamnium pulmosum SPECIES
-=======
+# Zoothamnium pulmosum SPECIES
 
 #### Status
 ACCEPTED

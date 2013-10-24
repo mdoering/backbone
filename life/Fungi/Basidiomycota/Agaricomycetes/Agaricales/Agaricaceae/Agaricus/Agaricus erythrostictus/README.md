@@ -1,5 +1,4 @@
-Agaricus erythrostictus Berk. & Broome SPECIES
-=======
+# Agaricus erythrostictus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

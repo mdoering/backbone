@@ -1,5 +1,4 @@
-Candida nitida (Castell.) Basgal SPECIES
-=======
+# Candida nitida (Castell.) Basgal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria mesenterica (Möller) M. Stadler, Laessøe & J. Fourn., 2008 SPECIES
-=======
+# Xylaria mesenterica (Möller) M. Stadler, Laessøe & J. Fourn., 2008 SPECIES
 
 #### Status
 ACCEPTED

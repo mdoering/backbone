@@ -1,5 +1,4 @@
-Cystamminoides Zheng, 2001 GENUS
-=======
+# Cystamminoides Zheng, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paratrochammina (Paratrochammina) earlandi Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Paratrochammina (Paratrochammina) earlandi Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

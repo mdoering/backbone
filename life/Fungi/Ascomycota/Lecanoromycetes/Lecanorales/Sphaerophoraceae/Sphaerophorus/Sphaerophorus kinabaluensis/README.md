@@ -1,5 +1,4 @@
-Sphaerophorus kinabaluensis (M. Satô) Ohlsson SPECIES
-=======
+# Sphaerophorus kinabaluensis (M. Satô) Ohlsson SPECIES
 
 #### Status
 ACCEPTED

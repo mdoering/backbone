@@ -1,5 +1,4 @@
-Ascobolus thwaitesii Berk. & Broome SPECIES
-=======
+# Ascobolus thwaitesii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

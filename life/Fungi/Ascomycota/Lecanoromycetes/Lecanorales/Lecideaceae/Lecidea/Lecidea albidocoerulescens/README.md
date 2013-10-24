@@ -1,5 +1,4 @@
-Lecidea albidocoerulescens (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea albidocoerulescens (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

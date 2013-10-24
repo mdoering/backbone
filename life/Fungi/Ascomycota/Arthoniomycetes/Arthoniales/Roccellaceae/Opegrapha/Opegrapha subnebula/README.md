@@ -1,5 +1,4 @@
-Opegrapha subnebula Chevall. SPECIES
-=======
+# Opegrapha subnebula Chevall. SPECIES
 
 #### Status
 ACCEPTED

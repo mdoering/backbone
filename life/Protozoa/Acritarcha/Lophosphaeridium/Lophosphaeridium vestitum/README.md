@@ -1,5 +1,4 @@
-Lophosphaeridium vestitum L.A. Sergeeva, 1979 SPECIES
-=======
+# Lophosphaeridium vestitum L.A. Sergeeva, 1979 SPECIES
 
 #### Status
 ACCEPTED

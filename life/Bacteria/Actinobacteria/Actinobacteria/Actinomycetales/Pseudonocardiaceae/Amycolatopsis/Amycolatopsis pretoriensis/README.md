@@ -1,5 +1,4 @@
-Amycolatopsis pretoriensis Labeda et al., 2003 SPECIES
-=======
+# Amycolatopsis pretoriensis Labeda et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

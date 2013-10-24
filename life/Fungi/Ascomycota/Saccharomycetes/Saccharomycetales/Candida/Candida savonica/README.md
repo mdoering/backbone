@@ -1,5 +1,4 @@
-Candida savonica Sonck, 1974 SPECIES
-=======
+# Candida savonica Sonck, 1974 SPECIES
 
 #### Status
 ACCEPTED

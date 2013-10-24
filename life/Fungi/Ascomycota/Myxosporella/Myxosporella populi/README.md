@@ -1,5 +1,4 @@
-Myxosporella populi Jaap SPECIES
-=======
+# Myxosporella populi Jaap SPECIES
 
 #### Status
 ACCEPTED

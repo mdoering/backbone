@@ -1,5 +1,4 @@
-Dicellaesporites guineensis Sal.-Cheb. & Locq. SPECIES
-=======
+# Dicellaesporites guineensis Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium blumenaviensis Henn. SPECIES
-=======
+# Helotium blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellomyces Y. Yamada & I. Banno GENUS
-=======
+# Fellomyces Y. Yamada & I. Banno GENUS
 
 #### Status
 ACCEPTED

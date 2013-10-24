@@ -1,8 +1,7 @@
-Microcystis bullosa Meneghini SPECIES
-=======
+# Aphanothece bullosa (Meneghini) Rabenhorst SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

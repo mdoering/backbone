@@ -1,5 +1,4 @@
-Magdalaenaea G. Arnaud GENUS
-=======
+# Magdalaenaea G. Arnaud GENUS
 
 #### Status
 ACCEPTED

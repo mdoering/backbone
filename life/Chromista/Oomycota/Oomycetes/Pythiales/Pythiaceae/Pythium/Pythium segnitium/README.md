@@ -1,5 +1,4 @@
-Pythium segnitium B. Paul SPECIES
-=======
+# Pythium segnitium B. Paul SPECIES
 
 #### Status
 ACCEPTED

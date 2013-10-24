@@ -1,5 +1,4 @@
-Thalassochytrium gracilariopsidis Nyvall, M. Pedersén & Longcore, 1999 SPECIES
-=======
+# Thalassochytrium gracilariopsidis Nyvall, M. Pedersén & Longcore, 1999 SPECIES
 
 #### Status
 ACCEPTED

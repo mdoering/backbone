@@ -1,5 +1,4 @@
-Lulworthia bulgariae Parg.-Leduc SPECIES
-=======
+# Lulworthia bulgariae Parg.-Leduc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora salicicola (T. Johnson) Sacc. & Traverso SPECIES
-=======
+# Stagonospora salicicola (T. Johnson) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

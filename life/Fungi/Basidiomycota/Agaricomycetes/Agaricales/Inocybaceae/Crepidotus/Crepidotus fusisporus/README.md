@@ -1,5 +1,4 @@
-Crepidotus fusisporus var. fusisporus VARIETY
-=======
+# Crepidotus fusisporus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+North American species of Crepidotus 96 (1965)
 
 #### Original name
-Crepidotus fusisporus var. fusisporus
+Crepidotus fusisporus Hesler & A.H. Sm.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Arthrobotrys elegans (Oudem.) M. Scholler, Hagedorn & A. Rubner, 1999 SPECIES
-=======
+# Arthrobotrys oudemansii M. Scholler, Hagedorn & A. Rubner, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 51(1): 102 (1999)
+Sydowia 52(1): 60 (2000)
 
 #### Original name
 Monacrosporium elegans Oudem., 1884

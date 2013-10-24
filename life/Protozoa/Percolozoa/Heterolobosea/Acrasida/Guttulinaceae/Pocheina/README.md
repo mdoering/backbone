@@ -1,5 +1,4 @@
-Pocheina GENUS
-=======
+# Pocheina GENUS
 
 #### Status
 ACCEPTED

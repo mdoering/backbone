@@ -1,5 +1,4 @@
-Lecidea fineranii C.W. Dodge SPECIES
-=======
+# Lecidea fineranii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

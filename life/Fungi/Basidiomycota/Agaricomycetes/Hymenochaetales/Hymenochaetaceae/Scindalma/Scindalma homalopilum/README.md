@@ -1,5 +1,4 @@
-Scindalma homalopilum (Mont.) Kuntze SPECIES
-=======
+# Scindalma homalopilum (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

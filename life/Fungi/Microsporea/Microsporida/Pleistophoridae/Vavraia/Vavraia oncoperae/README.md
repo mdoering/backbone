@@ -1,5 +1,4 @@
-Vavraia oncoperae (R.J. Milner & C.D. Beaton) L.A. Malone, P.J. Wigley & S. Dhana SPECIES
-=======
+# Vavraia oncoperae (R.J. Milner & C.D. Beaton) L.A. Malone, P.J. Wigley & S. Dhana SPECIES
 
 #### Status
 ACCEPTED

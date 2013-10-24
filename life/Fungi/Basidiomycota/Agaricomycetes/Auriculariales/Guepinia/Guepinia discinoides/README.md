@@ -1,5 +1,4 @@
-Guepinia discinoides Henn. & E. Nyman SPECIES
-=======
+# Guepinia discinoides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

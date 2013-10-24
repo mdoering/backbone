@@ -1,5 +1,4 @@
-Ophiurephelota Jankowski, 1981 GENUS
-=======
+# Ophiurephelota Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

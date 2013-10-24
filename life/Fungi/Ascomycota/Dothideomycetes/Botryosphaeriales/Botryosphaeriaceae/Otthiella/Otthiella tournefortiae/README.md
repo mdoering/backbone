@@ -1,5 +1,4 @@
-Otthiella tournefortiae (Rehm) Höhn. SPECIES
-=======
+# Otthiella tournefortiae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium abietis W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Helminthosporium abietis W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 44(6): 808 (1952)
 
 #### Original name
-Helmisporium abietis W.B. Cooke & C.G. Shaw
+Helminthosporium abietis W.B. Cooke & C.G. Shaw
 
 ### Remarks
 null

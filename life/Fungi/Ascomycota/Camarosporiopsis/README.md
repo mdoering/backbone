@@ -1,5 +1,4 @@
-Camarosporiopsis Abbas, B. Sutton & Ghaffar GENUS
-=======
+# Camarosporiopsis Abbas, B. Sutton & Ghaffar GENUS
 
 #### Status
 ACCEPTED

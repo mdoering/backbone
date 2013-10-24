@@ -1,5 +1,4 @@
-Papposphaera bourrellyi H. A. Thomsen & K. R. Buck SPECIES
-=======
+# Papposphaera bourrellyi H. A. Thomsen & K. R. Buck SPECIES
 
 #### Status
 ACCEPTED

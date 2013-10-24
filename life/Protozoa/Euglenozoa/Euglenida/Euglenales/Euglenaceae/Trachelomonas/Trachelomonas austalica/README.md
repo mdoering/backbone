@@ -1,5 +1,4 @@
-Trachelomonas austalica var. invaginata Conrad VARIETY
-=======
+# Trachelomonas austalica SPECIES
 
 #### Status
 ACCEPTED

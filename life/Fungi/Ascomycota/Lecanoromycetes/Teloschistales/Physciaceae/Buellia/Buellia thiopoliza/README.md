@@ -1,5 +1,4 @@
-Buellia thiopoliza (Nyl.) Boistel SPECIES
-=======
+# Buellia thiopoliza (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

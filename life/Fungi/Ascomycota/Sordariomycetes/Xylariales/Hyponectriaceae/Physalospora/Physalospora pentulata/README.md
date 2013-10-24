@@ -1,5 +1,4 @@
-Physalospora pentulata Sacc. SPECIES
-=======
+# Physalospora pentulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

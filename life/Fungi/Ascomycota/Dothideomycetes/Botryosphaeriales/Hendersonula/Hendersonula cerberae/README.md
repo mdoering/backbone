@@ -1,5 +1,4 @@
-Hendersonula cerberae Tassi SPECIES
-=======
+# Hendersonula cerberae Tassi SPECIES
 
 #### Status
 ACCEPTED

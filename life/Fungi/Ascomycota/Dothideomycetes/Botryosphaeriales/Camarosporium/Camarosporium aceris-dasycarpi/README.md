@@ -1,17 +1,16 @@
-Camarosporium dasycarpi Oudem. SPECIES
-=======
+# Camarosporium aceris-dasycarpi Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Ned. kruidk. Archf 1: 502 (1898)
 
 #### Original name
-null
+Camarosporium aceris-dasycarpi Oudem.
 
 ### Remarks
 null

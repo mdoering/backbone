@@ -1,5 +1,4 @@
-Spegazziniella bauhiniae (Bat. & Gayão) Bat. SPECIES
-=======
+# Spegazziniella bauhiniae (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium arbuscula E. Fisch. SPECIES
-=======
+# Coremium arbuscula E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

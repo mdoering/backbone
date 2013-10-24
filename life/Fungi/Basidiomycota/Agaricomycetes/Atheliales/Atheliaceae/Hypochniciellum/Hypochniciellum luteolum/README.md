@@ -1,5 +1,4 @@
-Hypochniciellum luteolum Hjortstam & Ryvarden, 2000 SPECIES
-=======
+# Hypochniciellum luteolum Hjortstam & Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

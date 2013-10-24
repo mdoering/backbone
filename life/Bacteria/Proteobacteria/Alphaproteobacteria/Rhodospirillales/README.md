@@ -1,5 +1,4 @@
-Rhodospirillales ORDER
-=======
+# Rhodospirillales ORDER
 
 #### Status
 ACCEPTED

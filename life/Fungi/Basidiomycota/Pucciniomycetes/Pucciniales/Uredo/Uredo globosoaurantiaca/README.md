@@ -1,5 +1,4 @@
-Uredo globosoaurantiaca Bonord. SPECIES
-=======
+# Uredo globosoaurantiaca Bonord. SPECIES
 
 #### Status
 ACCEPTED

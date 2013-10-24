@@ -1,5 +1,4 @@
-Trachelomonas dictyophora Tschernov SPECIES
-=======
+# Trachelomonas dictyophora Tschernov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globulina tuberculata d'Orbigny SPECIES
-=======
+# Globulina tuberculata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

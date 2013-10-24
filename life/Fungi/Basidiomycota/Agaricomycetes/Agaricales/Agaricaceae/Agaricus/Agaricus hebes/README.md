@@ -1,5 +1,4 @@
-Agaricus hebes Fr. SPECIES
-=======
+# Agaricus hebes Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Podaxon loandensis Welw. & Curr. SPECIES
-=======
+# Podaxis loandensis Welw. & Curr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon loandensis Welw. & Curr.
+Podaxis loandensis Welw. & Curr.
 
 ### Remarks
 null

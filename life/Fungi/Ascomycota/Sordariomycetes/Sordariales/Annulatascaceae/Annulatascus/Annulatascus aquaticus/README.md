@@ -1,5 +1,4 @@
-Annulatascus aquaticus W.H. Ho, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Annulatascus aquaticus W.H. Ho, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

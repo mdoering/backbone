@@ -1,5 +1,4 @@
-Histopalla Playford in Playford & Dring, 1981 GENUS
-=======
+# Histopalla Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

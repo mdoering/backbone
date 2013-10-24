@@ -1,5 +1,4 @@
-Oospora dori (Beurm. & Gougerot) Sartory SPECIES
-=======
+# Oospora dori (Beurm. & Gougerot) Sartory SPECIES
 
 #### Status
 ACCEPTED

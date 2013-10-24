@@ -1,5 +1,4 @@
-Discorbis baccatus (Earland & Heron-Allen) SPECIES
-=======
+# Discorbis baccatus (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

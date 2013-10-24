@@ -1,5 +1,4 @@
-Pseudocyphellaria leucophylla (Müll. Arg.) Szatala SPECIES
-=======
+# Pseudocyphellaria leucophylla (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

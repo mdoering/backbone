@@ -1,5 +1,4 @@
-Discosia deflectens Sacc. SPECIES
-=======
+# Discosia deflectens Sacc. SPECIES
 
 #### Status
 ACCEPTED

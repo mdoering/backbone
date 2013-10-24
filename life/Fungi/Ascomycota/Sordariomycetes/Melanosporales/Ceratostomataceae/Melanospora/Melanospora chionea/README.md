@@ -1,17 +1,16 @@
-Melanospora chionea var. chionea VARIETY
-=======
+# Melanospora chionea (Fr.) Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. 1: 24, tab. 7, fig. 297 (1837)
+Icon. fung. (Prague) 1: 24, tab. 7, fig. 297 (1837)
 
 #### Original name
-Melanospora chionea var. chionea
+Ceratostoma chioneum Fr., 1815
 
 ### Remarks
 null

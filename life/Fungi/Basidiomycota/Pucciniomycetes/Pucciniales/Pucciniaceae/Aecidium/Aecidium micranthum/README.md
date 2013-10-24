@@ -1,5 +1,4 @@
-Aecidium micranthum Syd. & P. Syd. SPECIES
-=======
+# Aecidium micranthum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

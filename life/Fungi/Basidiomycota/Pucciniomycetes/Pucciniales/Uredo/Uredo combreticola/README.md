@@ -1,5 +1,4 @@
-Uredo combreticola Doidge SPECIES
-=======
+# Uredo combreticola Doidge SPECIES
 
 #### Status
 ACCEPTED

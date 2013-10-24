@@ -1,5 +1,4 @@
-Aubertianella Szczechura, 1969 GENUS
-=======
+# Aubertianella Szczechura, 1969 GENUS
 
 #### Status
 ACCEPTED

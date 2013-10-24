@@ -1,14 +1,13 @@
-Urceolina kerguelensis Tuck. SPECIES
-=======
+# Orceolina kerguelensis (Tuck.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 6: 58 (1875)
+null
 
 #### Original name
 Urceolina kerguelensis Tuck.

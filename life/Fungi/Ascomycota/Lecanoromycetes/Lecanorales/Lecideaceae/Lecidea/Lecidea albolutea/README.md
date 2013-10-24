@@ -1,5 +1,4 @@
-Lecidea albolutea (Nyl.) Hue SPECIES
-=======
+# Lecidea albolutea (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

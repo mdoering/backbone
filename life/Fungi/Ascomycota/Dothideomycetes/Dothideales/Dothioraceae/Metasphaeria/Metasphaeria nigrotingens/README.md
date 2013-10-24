@@ -1,5 +1,4 @@
-Metasphaeria nigrotingens Mouton SPECIES
-=======
+# Metasphaeria nigrotingens Mouton SPECIES
 
 #### Status
 ACCEPTED

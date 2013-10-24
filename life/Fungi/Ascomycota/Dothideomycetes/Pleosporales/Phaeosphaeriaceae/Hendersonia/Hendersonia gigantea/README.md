@@ -1,5 +1,4 @@
-Hendersonia gigantea Lind SPECIES
-=======
+# Hendersonia gigantea Lind SPECIES
 
 #### Status
 ACCEPTED

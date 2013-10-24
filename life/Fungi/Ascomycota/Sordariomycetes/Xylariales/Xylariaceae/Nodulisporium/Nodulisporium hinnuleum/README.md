@@ -1,5 +1,4 @@
-Nodulisporium hinnuleum G. Sm., 1962 SPECIES
-=======
+# Nodulisporium hinnuleum G. Sm., 1962 SPECIES
 
 #### Status
 ACCEPTED

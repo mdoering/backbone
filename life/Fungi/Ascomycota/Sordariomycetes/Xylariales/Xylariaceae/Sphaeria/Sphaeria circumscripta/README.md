@@ -1,5 +1,4 @@
-Sphaeria circumscripta Mont. SPECIES
-=======
+# Sphaeria circumscripta Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus crenulatus subsp. crenulatus SUBSPECIES
-=======
+# Agaricus crenulatus Batsch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fl. Danic. 5: tab. 832: 2 (1780)
+Elench. fung. (Halle) 71 (1783)
 
 #### Original name
-Agaricus crenulatus subsp. crenulatus
+Agaricus crenulatus Batsch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coccotrichum GENUS
-=======
+# Coccotrichum GENUS
 
 #### Status
 ACCEPTED

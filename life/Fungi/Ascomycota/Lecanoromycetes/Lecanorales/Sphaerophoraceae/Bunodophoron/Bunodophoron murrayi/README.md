@@ -1,17 +1,16 @@
-Sphaerophorus murrayii Ohlsson SPECIES
-=======
+# Bunodophoron murrayi (Ohlsson) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Syst. Evol. 187(1-4): 234 (1993)
 
 #### Original name
-Sphaerophorus murrayii Ohlsson
+Sphaerophorus murrayi Ohlsson
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microthyrium rickii (Rehm) Höhn. SPECIES
-=======
+# Microthyrium rickii (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

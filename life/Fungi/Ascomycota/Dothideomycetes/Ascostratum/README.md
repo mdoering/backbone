@@ -1,5 +1,4 @@
-Ascostratum Syd. & P. Syd. GENUS
-=======
+# Ascostratum Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

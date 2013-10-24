@@ -1,5 +1,4 @@
-Hydropus depauperatus Singer SPECIES
-=======
+# Hydropus depauperatus Singer SPECIES
 
 #### Status
 ACCEPTED

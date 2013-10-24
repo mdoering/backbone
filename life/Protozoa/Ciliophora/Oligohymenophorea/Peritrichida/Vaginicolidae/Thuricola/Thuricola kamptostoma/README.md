@@ -1,5 +1,4 @@
-Thuricola kamptostoma SPECIES
-=======
+# Thuricola kamptostoma SPECIES
 
 #### Status
 ACCEPTED

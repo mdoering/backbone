@@ -1,5 +1,4 @@
-Valvulina schwageri Chapman, 1902 SPECIES
-=======
+# Valvulina schwageri Chapman, 1902 SPECIES
 
 #### Status
 ACCEPTED

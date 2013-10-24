@@ -1,5 +1,4 @@
-Asteridiella atra (Doidge) Hansf. SPECIES
-=======
+# Asteridiella atra (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

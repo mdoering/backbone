@@ -1,5 +1,4 @@
-Opegrapha zapallarensis C.W. Dodge SPECIES
-=======
+# Opegrapha zapallarensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

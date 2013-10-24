@@ -1,5 +1,4 @@
-Cytosporina subclypeata Sousa da Câmara SPECIES
-=======
+# Cytosporina subclypeata Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

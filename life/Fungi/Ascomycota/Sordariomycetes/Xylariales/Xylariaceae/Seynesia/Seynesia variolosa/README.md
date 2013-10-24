@@ -1,5 +1,4 @@
-Seynesia variolosa Speg. SPECIES
-=======
+# Seynesia variolosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea tomentosa (Massee) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea tomentosa (Massee) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius sulphureus A.E. Johnson SPECIES
-=======
+# Marasmius sulphureus A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

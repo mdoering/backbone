@@ -1,5 +1,4 @@
-Cladobotryum capitatum Raybaud SPECIES
-=======
+# Cladobotryum capitatum Raybaud SPECIES
 
 #### Status
 ACCEPTED

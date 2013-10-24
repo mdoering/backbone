@@ -1,5 +1,4 @@
-Pholiota sororia P. Karst. SPECIES
-=======
+# Pholiota sororia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

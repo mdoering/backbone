@@ -1,5 +1,4 @@
-Euglypha Dujardin, 1840 GENUS
-=======
+# Euglypha Dujardin, 1840 GENUS
 
 #### Status
 ACCEPTED

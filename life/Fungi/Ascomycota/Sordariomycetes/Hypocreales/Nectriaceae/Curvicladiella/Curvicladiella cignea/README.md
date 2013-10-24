@@ -1,14 +1,13 @@
-Curvicladium cigneum Decock & Crous, 1998 SPECIES
-=======
+# Curvicladiella cignea (Decock & Crous) Decock & Crous, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 90(2): 277 (1998)
+in Crous, Groenewald, Risède, Simoneau & Hyde, Stud. Mycol. 55: 225 (2006)
 
 #### Original name
 Curvicladium cigneum Decock & Crous, 1998

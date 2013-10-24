@@ -1,5 +1,4 @@
-Sporochnus dotyi Brostoff SPECIES
-=======
+# Sporochnus dotyi Brostoff SPECIES
 
 #### Status
 ACCEPTED

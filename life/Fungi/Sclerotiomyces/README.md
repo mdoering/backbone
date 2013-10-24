@@ -1,5 +1,4 @@
-Sclerotiomyces GENUS
-=======
+# Sclerotiomyces GENUS
 
 #### Status
 ACCEPTED

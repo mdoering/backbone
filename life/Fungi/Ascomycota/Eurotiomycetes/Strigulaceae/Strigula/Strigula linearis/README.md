@@ -1,5 +1,4 @@
-Strigula linearis Vain. SPECIES
-=======
+# Strigula linearis Vain. SPECIES
 
 #### Status
 ACCEPTED

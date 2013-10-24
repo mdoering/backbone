@@ -1,5 +1,4 @@
-Leiosphaeridia laevigata K. Takahashi SPECIES
-=======
+# Leiosphaeridia laevigata K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

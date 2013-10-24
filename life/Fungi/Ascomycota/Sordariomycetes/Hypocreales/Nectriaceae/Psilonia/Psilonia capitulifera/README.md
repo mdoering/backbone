@@ -1,5 +1,4 @@
-Psilonia capitulifera Corda SPECIES
-=======
+# Psilonia capitulifera Corda SPECIES
 
 #### Status
 ACCEPTED

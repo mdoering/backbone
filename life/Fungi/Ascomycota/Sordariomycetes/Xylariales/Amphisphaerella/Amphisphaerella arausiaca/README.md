@@ -1,5 +1,4 @@
-Amphisphaerella arausiaca (Fabre) Kirschst. SPECIES
-=======
+# Amphisphaerella arausiaca (Fabre) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

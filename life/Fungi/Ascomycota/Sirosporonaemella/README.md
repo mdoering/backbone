@@ -1,5 +1,4 @@
-Sirosporonaemella Naumov GENUS
-=======
+# Sirosporonaemella Naumov GENUS
 
 #### Status
 ACCEPTED

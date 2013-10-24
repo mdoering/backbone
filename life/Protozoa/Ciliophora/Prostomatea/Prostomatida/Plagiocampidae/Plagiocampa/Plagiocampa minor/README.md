@@ -1,5 +1,4 @@
-Plagiocampa minor Lepsi, 1927 SPECIES
-=======
+# Plagiocampa minor Lepsi, 1927 SPECIES
 
 #### Status
 ACCEPTED

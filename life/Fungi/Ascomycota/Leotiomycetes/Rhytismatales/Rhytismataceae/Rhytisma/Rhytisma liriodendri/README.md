@@ -1,5 +1,4 @@
-Rhytisma liriodendri Wallr. SPECIES
-=======
+# Rhytisma liriodendri Wallr. SPECIES
 
 #### Status
 ACCEPTED

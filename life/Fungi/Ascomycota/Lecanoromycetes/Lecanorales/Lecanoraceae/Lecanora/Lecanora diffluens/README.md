@@ -1,5 +1,4 @@
-Lecanora diffluens Hue SPECIES
-=======
+# Lecanora diffluens Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo gymnogrammes Henn. SPECIES
-=======
+# Uredo gymnogrammes Henn. SPECIES
 
 #### Status
 ACCEPTED

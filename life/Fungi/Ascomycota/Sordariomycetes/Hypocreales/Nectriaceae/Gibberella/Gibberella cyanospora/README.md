@@ -1,5 +1,4 @@
-Gibberella cyanospora E. Bommer & M. Rousseau SPECIES
-=======
+# Gibberella cyanospora E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

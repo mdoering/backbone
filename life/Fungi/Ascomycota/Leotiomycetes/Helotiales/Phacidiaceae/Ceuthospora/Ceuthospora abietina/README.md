@@ -1,5 +1,4 @@
-Ceuthospora abietina Delacr. SPECIES
-=======
+# Ceuthospora abietina Delacr. SPECIES
 
 #### Status
 ACCEPTED

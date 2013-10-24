@@ -1,5 +1,4 @@
-Asteridiella tersa (Cif.) Hansf. SPECIES
-=======
+# Asteridiella tersa (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

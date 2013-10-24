@@ -1,5 +1,4 @@
-Hystrichosphaeridiaceae FAMILY
-=======
+# Hystrichosphaeridiaceae FAMILY
 
 #### Status
 ACCEPTED

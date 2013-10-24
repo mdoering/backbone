@@ -1,8 +1,7 @@
-Clostridium quercicolum Stankewich et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Dendrosporobacter quercicolus (Stankewich et al., 1971) Strömpl et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

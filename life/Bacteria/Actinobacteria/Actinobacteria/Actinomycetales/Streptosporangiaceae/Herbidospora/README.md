@@ -1,5 +1,4 @@
-Herbidospora Kudo et al., 1993 GENUS
-=======
+# Herbidospora Kudo et al., 1993 GENUS
 
 #### Status
 ACCEPTED

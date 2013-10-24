@@ -1,5 +1,4 @@
-Plowrightia karstenii Delacr. SPECIES
-=======
+# Plowrightia karstenii Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygrapha opegraphina Nyl. SPECIES
-=======
+# Platygrapha opegraphina Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Biatora monasteriensis (J. Lahm) Müll. Arg. SPECIES
-=======
+# Biatoridium monasteriense J. Lahm ex Körb., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) (1860)
 
 #### Original name
 Biatoridium monasteriense J. Lahm ex Körb., 1860

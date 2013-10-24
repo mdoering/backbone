@@ -1,5 +1,4 @@
-Nocardia sulphurea Goodfellow & Lechevalier, 1988 SPECIES
-=======
+# Nocardia sulphurea Goodfellow & Lechevalier, 1988 SPECIES
 
 #### Status
 ACCEPTED

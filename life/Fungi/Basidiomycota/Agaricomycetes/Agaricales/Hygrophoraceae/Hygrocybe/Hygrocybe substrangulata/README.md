@@ -1,17 +1,16 @@
-Hygrocybe substrangulata var. rhodophylla (Kühner) Boertm. VARIETY
-=======
+# Hygrocybe substrangulata (Peck) P.D. Orton & Watling, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi of Northern Europe (Greve) 1: 108 (1995)
+Notes R. bot. Gdn Edinb. 29(1): 131 (1969)
 
 #### Original name
-Hygrocybe rhodophylla Kühner
+Hygrophorus substrangulatus P.D. Orton, 1960
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Micropeltis molleriana Sacc. SPECIES
-=======
+# Micropeltis moelleriana Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micropeltis molleriana Sacc.
+Micropeltis moelleriana Sacc.
 
 ### Remarks
 null

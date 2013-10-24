@@ -1,5 +1,4 @@
-Diplodia bignoniae f. bignoniae FORM
-=======
+# Diplodia bignoniae Tassi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti R. Accad. Fisiocrit. Siena, Sér. 4 8: 6 (1896)
 
 #### Original name
-Diplodia bignoniae f. bignoniae
+Diplodia bignoniae Tassi
 
 ### Remarks
 null

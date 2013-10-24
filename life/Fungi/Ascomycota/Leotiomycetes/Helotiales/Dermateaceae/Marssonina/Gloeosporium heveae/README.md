@@ -1,5 +1,4 @@
-Gloeosporium heveae Petch, 1906 SPECIES
-=======
+# Gloeosporium heveae Petch, 1906 SPECIES
 
 #### Status
 ACCEPTED

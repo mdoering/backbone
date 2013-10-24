@@ -1,17 +1,16 @@
-Empusa thaxteriana Petch, 1936 SPECIES
-=======
+# Conidiobolus obscurus (I.M. Hall & P.H. Dunn) Remaud. & S. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist, London 59 (1936)
+Mycotaxon 11(1): 331 (1980)
 
 #### Original name
-Empusa thaxteriana Petch, 1936
+Entomophthora obscura I.M. Hall & P.H. Dunn, 1957
 
 ### Remarks
 null

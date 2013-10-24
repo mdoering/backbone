@@ -1,5 +1,4 @@
-Entoloma percognatum Corner & E. Horak SPECIES
-=======
+# Entoloma percognatum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora baccharidis Hollós SPECIES
-=======
+# Rhabdospora baccharidis Hollós SPECIES
 
 #### Status
 ACCEPTED

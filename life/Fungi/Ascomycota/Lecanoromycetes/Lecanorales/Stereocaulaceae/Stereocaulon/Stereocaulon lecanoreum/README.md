@@ -1,5 +1,4 @@
-Stereocaulon lecanoreum Nyl. SPECIES
-=======
+# Stereocaulon lecanoreum Nyl. SPECIES
 
 #### Status
 ACCEPTED

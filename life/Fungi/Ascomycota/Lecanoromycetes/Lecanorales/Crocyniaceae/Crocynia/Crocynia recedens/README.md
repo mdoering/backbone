@@ -1,5 +1,4 @@
-Crocynia recedens Hue SPECIES
-=======
+# Crocynia recedens Hue SPECIES
 
 #### Status
 ACCEPTED

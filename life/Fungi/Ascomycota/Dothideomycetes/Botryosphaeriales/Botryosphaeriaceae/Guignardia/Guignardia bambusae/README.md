@@ -1,5 +1,4 @@
-Guignardia bambusae I. Miyake & Hara SPECIES
-=======
+# Guignardia bambusae I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

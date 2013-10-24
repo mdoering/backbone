@@ -1,5 +1,4 @@
-Scapholithus fossilis Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Scapholithus fossilis Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 DOUBTFUL

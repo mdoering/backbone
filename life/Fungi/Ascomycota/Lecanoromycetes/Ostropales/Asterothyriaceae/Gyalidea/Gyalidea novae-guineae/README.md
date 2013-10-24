@@ -1,17 +1,16 @@
-Gyalidea novae-guineae var. novae-guineae VARIETY
-=======
+# Gyalidea novae-guineae P. James & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Folia geobot. phytotax. bohemoslov. 8(3): 314 (1973)
 
 #### Original name
-null
+Gyalidea novae-guineae P. James & Vezda
 
 ### Remarks
 null

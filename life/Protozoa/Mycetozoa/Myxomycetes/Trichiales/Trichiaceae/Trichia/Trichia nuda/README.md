@@ -1,5 +1,4 @@
-Trichia nuda With. SPECIES
-=======
+# Trichia nuda With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium gleditschiae (Therry) Wollenw. SPECIES
-=======
+# Gloeosporium gleditschiae (Therry) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

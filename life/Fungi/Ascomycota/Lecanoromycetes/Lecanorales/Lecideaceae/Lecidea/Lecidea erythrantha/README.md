@@ -1,5 +1,4 @@
-Lecidea erythrantha (Tuck.) Hue SPECIES
-=======
+# Lecidea erythrantha (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

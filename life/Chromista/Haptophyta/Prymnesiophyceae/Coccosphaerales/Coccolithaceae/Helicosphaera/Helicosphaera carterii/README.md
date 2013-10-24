@@ -1,5 +1,4 @@
-Helicosphaera carterii (Wallich) Kamptner, 1954 SPECIES
-=======
+# Helicosphaera carterii (Wallich) Kamptner, 1954 SPECIES
 
 #### Status
 ACCEPTED

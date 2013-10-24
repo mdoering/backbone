@@ -1,5 +1,4 @@
-Helminthosporium siliquarum Thüm. SPECIES
-=======
+# Helminthosporium siliquarum Thüm. SPECIES
 
 #### Status
 ACCEPTED

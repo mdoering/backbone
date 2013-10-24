@@ -1,5 +1,4 @@
-Gibbera uliginosi B. Erikss. SPECIES
-=======
+# Gibbera uliginosi B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

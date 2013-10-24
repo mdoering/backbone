@@ -1,5 +1,4 @@
-Quadricoccus australiensis Maszenan et al., 2002 SPECIES
-=======
+# Quadricoccus australiensis Maszenan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

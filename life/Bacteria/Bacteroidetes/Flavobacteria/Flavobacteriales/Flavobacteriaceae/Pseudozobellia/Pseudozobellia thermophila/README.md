@@ -1,5 +1,4 @@
-Pseudozobellia thermophila Nedashkovskaya, Suzuki, Lee, Lee, Shevchenko & Mikhailov, 2009 SPECIES
-=======
+# Pseudozobellia thermophila Nedashkovskaya, Suzuki, Lee, Lee, Shevchenko & Mikhailov, 2009 SPECIES
 
 #### Status
 ACCEPTED

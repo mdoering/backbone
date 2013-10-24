@@ -1,5 +1,4 @@
-Phomopsis macrocarpae P.G. Xi, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis macrocarpae P.G. Xi, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

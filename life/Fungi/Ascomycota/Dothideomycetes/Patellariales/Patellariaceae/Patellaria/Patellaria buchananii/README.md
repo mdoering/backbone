@@ -1,5 +1,4 @@
-Patellaria buchananii Müll. Arg. SPECIES
-=======
+# Patellaria buchananii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

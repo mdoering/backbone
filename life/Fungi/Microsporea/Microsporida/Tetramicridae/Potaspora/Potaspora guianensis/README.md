@@ -1,5 +1,4 @@
-Potaspora guianensis G. Casal, E. Matos, M.L. Teles-Grilo & C. Azevedo SPECIES
-=======
+# Potaspora guianensis G. Casal, E. Matos, M.L. Teles-Grilo & C. Azevedo SPECIES
 
 #### Status
 ACCEPTED

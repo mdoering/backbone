@@ -1,17 +1,16 @@
-Inocybe descissa f. descissa (Fr.) Quél. FORM
-=======
+# Inocybe phaeodisca Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 154 (1872)
+Bull. Soc. nat. Oyonnax 9(Suppl. ): 5 (1955)
 
 #### Original name
-Inocybe descissa f. descissa (Fr.) Quél.
+Inocybe phaeodisca Kühner, 1955
 
 ### Remarks
 null

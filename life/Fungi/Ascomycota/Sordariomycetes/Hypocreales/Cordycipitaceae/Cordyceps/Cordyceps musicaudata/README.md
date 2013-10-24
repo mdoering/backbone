@@ -1,5 +1,4 @@
-Cordyceps musicaudata Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps musicaudata Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oolithinia GENUS
-=======
+# Oolithinia GENUS
 
 #### Status
 ACCEPTED

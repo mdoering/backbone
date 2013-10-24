@@ -1,5 +1,4 @@
-Aspidella lanosa (Beeli) E.-J. Gilbert SPECIES
-=======
+# Aspidella lanosa (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

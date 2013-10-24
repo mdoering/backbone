@@ -1,14 +1,13 @@
-Stenocybe minutissima (G. Merr.) Zahlbr. SPECIES
-=======
+# Phaeocalicium minutissimum (G. Merr.) Selva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 1: 650 (1922)
+in Selva & Tibell, Bryologist 102(3): 390 (1999)
 
 #### Original name
 Calicium minutissimum G. Merr.

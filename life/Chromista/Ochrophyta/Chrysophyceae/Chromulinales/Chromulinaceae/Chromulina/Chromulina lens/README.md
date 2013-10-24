@@ -1,5 +1,4 @@
-Chromulina lens SPECIES
-=======
+# Chromulina lens SPECIES
 
 #### Status
 ACCEPTED

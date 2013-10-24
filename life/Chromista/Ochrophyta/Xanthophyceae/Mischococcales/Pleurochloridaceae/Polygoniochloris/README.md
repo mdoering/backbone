@@ -1,5 +1,4 @@
-Polygoniochloris Ettl, 1977 GENUS
-=======
+# Polygoniochloris Ettl, 1977 GENUS
 
 #### Status
 ACCEPTED

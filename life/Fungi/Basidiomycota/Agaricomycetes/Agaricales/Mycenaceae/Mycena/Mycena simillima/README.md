@@ -1,5 +1,4 @@
-Mycena simillima P. Karst. SPECIES
-=======
+# Mycena simillima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

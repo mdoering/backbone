@@ -1,5 +1,4 @@
-Albatrellus fuligineus (Pers.) Gray SPECIES
-=======
+# Albatrellus fuligineus (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

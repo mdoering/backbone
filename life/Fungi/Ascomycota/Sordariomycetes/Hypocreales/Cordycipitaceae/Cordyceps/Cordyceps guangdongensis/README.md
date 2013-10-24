@@ -1,17 +1,16 @@
-Cordyceps japonica f. guangdongensis T.H. Li, Q.Y. Lin & B. Song, 2007 FORM
-=======
+# Cordyceps guangdongensis T.H. Li, Q.Y. Lin & B. Song, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 103: 373 (2008)
 
 #### Original name
-null
+Cordyceps guangdongensis T.H. Li, Q.Y. Lin & B. Song, 2008
 
 ### Remarks
 null

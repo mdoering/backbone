@@ -1,5 +1,4 @@
-Acanthocircus calvus SPECIES
-=======
+# Acanthocircus calvus SPECIES
 
 #### Status
 ACCEPTED

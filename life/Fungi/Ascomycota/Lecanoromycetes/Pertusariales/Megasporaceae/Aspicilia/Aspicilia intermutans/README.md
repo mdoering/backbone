@@ -1,17 +1,16 @@
-Lecanora intermutans var. intermutans VARIETY
-=======
+# Aspicilia intermutans (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 37: 98 (1887)
 
 #### Original name
-Lecanora intermutans var. intermutans
+Lecanora intermutans Nyl.
 
 ### Remarks
 null

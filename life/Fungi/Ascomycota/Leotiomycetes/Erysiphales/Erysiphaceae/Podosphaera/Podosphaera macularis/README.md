@@ -1,17 +1,16 @@
-Sphaerotheca macularis f. macularis FORM
-=======
+# Podosphaera macularis (Wallr.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schlechtendalia 4: 30 (2000)
 
 #### Original name
-Sphaerotheca macularis f. macularis
+Alphitomorpha macularis Wallr., 1819
 
 ### Remarks
 null

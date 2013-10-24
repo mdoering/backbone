@@ -1,5 +1,4 @@
-Clisosporium scrophulariae (Fuckel) Kuntze SPECIES
-=======
+# Clisosporium scrophulariae (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

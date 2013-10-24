@@ -1,5 +1,4 @@
-Pluteus leucocyanescens Singer SPECIES
-=======
+# Pluteus leucocyanescens Singer SPECIES
 
 #### Status
 ACCEPTED

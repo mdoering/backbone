@@ -1,5 +1,4 @@
-Annularia lusitanica Torrend SPECIES
-=======
+# Annularia lusitanica Torrend SPECIES
 
 #### Status
 ACCEPTED

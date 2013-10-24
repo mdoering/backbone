@@ -1,17 +1,16 @@
-Spilomela (Saccardo) Keissler, 1920 GENUS
-=======
+# Spirographa Zahlbruckner, 1903 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Botanisches Centralblatt, Beihefte 37(2): 272 (1920)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 96 (1903)
 
 #### Original name
-null
+Spirographa Zahlbruckner, 1903
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochytula cardui Sandu SPECIES
-=======
+# Ascochytula cardui Sandu SPECIES
 
 #### Status
 ACCEPTED

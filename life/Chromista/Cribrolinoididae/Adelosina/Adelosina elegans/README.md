@@ -1,5 +1,4 @@
-Adelosina elegans var. separans Wiesner, 1923 VARIETY
-=======
+# Adelosina elegans (Williamson, 1848) SPECIES
 
 #### Status
 ACCEPTED

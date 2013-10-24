@@ -1,5 +1,4 @@
-Lecanora andina Räsänen SPECIES
-=======
+# Lecanora andina Räsänen SPECIES
 
 #### Status
 ACCEPTED

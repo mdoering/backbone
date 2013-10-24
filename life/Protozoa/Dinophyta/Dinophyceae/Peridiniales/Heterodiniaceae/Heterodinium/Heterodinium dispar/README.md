@@ -1,5 +1,4 @@
-Heterodinium dispar Kofoid & Adarnson SPECIES
-=======
+# Heterodinium dispar Kofoid & Adarnson SPECIES
 
 #### Status
 ACCEPTED

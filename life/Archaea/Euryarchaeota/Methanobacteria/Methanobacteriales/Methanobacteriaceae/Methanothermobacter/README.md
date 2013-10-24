@@ -1,5 +1,4 @@
-Methanothermobacter Wasserfallen et al., 2000 GENUS
-=======
+# Methanothermobacter Wasserfallen et al., 2000 GENUS
 
 #### Status
 ACCEPTED

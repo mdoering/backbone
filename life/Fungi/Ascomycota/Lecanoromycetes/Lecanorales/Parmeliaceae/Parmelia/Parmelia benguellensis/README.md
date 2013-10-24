@@ -1,5 +1,4 @@
-Parmelia benguellensis (Vain.) C.W. Dodge SPECIES
-=======
+# Parmelia benguellensis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

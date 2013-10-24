@@ -1,5 +1,4 @@
-Skyttea caesii Diederich & Etayo SPECIES
-=======
+# Skyttea caesii Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

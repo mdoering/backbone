@@ -1,5 +1,4 @@
-Helvella brevis (Peck) Harmaja SPECIES
-=======
+# Helvella brevis (Peck) Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ehrenbergina bradyi Cushman, 1922 SPECIES
-=======
+# Ehrenbergina bradyi Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

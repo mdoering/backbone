@@ -1,5 +1,4 @@
-Chlorogloea microcystoides Geitler SPECIES
-=======
+# Chlorogloea microcystoides Geitler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora lomandrae Sivan. & R.G. Shivas SPECIES
-=======
+# Physalospora lomandrae Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

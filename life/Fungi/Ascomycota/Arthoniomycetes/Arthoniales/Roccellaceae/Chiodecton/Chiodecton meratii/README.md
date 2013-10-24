@@ -1,5 +1,4 @@
-Chiodecton meratii Fée SPECIES
-=======
+# Chiodecton meratii Fée SPECIES
 
 #### Status
 ACCEPTED

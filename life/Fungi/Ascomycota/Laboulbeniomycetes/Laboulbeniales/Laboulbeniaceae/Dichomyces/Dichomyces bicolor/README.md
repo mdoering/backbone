@@ -1,5 +1,4 @@
-Dichomyces bicolor Thaxt. SPECIES
-=======
+# Dichomyces bicolor Thaxt. SPECIES
 
 #### Status
 ACCEPTED

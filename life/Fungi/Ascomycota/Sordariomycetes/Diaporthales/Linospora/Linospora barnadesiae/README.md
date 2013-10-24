@@ -1,5 +1,4 @@
-Linospora barnadesiae Pat. SPECIES
-=======
+# Linospora barnadesiae Pat. SPECIES
 
 #### Status
 ACCEPTED

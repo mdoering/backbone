@@ -1,5 +1,4 @@
-Meliola linacearum Hansf. & Deighton SPECIES
-=======
+# Meliola linacearum Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

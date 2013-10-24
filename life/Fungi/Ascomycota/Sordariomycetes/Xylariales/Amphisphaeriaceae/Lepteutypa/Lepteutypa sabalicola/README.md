@@ -1,5 +1,4 @@
-Lepteutypa sabalicola (Ellis & G. Martin) M.E. Barr SPECIES
-=======
+# Lepteutypa sabalicola (Ellis & G. Martin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

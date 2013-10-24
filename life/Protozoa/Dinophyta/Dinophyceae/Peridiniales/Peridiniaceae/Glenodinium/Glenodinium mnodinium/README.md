@@ -1,5 +1,4 @@
-Glenodinium mnodinium Pernard SPECIES
-=======
+# Glenodinium mnodinium Pernard SPECIES
 
 #### Status
 ACCEPTED

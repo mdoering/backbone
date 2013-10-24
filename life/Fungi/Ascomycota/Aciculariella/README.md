@@ -1,5 +1,4 @@
-Aciculariella G. Arnaud GENUS
-=======
+# Aciculariella G. Arnaud GENUS
 
 #### Status
 ACCEPTED

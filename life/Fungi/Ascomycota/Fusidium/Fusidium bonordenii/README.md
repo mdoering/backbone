@@ -1,5 +1,4 @@
-Fusidium bonordenii Sacc. SPECIES
-=======
+# Fusidium bonordenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

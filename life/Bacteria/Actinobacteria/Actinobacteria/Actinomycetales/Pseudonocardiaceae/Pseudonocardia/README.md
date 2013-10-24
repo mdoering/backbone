@@ -1,5 +1,4 @@
-Pseudonocardia Henssen GENUS
-=======
+# Pseudonocardia Henssen GENUS
 
 #### Status
 ACCEPTED

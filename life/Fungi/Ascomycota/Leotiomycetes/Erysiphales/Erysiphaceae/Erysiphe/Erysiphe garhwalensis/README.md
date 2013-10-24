@@ -1,5 +1,4 @@
-Erysiphe garhwalensis N. Ahmad, D.K. Agarwal & A.K. Sarbhoy SPECIES
-=======
+# Erysiphe garhwalensis N. Ahmad, D.K. Agarwal & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

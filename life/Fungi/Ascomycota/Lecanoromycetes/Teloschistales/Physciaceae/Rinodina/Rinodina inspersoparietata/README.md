@@ -1,5 +1,4 @@
-Rinodina inspersoparietata Giralt & van den Boom SPECIES
-=======
+# Rinodina inspersoparietata Giralt & van den Boom SPECIES
 
 #### Status
 ACCEPTED

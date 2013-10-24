@@ -1,5 +1,4 @@
-Astrosphaeriella polymorpha (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Astrosphaeriella polymorpha (Rehm) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

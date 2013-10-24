@@ -1,5 +1,4 @@
-Pertusaria uttaraditensis Jariangpr. SPECIES
-=======
+# Pertusaria uttaraditensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

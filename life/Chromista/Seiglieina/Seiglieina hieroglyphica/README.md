@@ -1,5 +1,4 @@
-Seiglieina hieroglyphica Sellier de Civrieux, 1991 SPECIES
-=======
+# Seiglieina hieroglyphica Sellier de Civrieux, 1991 SPECIES
 
 #### Status
 ACCEPTED

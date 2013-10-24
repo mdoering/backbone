@@ -1,5 +1,4 @@
-Cordierites guianensis Mont., 1840 SPECIES
-=======
+# Cordierites guianensis Mont., 1840 SPECIES
 
 #### Status
 ACCEPTED

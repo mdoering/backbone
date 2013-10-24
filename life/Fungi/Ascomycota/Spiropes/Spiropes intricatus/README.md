@@ -1,5 +1,4 @@
-Spiropes intricatus (Sacc.) M.B. Ellis SPECIES
-=======
+# Spiropes intricatus (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

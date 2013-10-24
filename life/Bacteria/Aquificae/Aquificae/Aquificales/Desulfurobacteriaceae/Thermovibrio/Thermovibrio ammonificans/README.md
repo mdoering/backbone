@@ -1,5 +1,4 @@
-Thermovibrio ammonificans Vetriani et al., 2004 SPECIES
-=======
+# Thermovibrio ammonificans Vetriani et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

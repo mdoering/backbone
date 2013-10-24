@@ -1,5 +1,4 @@
-Usnea cinchonarum var. cinchonarum VARIETY
-=======
+# Usnea cinchonarum (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

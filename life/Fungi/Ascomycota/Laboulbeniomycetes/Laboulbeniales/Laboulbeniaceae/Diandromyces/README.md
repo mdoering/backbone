@@ -1,5 +1,4 @@
-Diandromyces Thaxt. GENUS
-=======
+# Diandromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

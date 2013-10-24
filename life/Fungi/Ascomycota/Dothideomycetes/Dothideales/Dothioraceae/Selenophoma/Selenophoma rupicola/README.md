@@ -1,5 +1,4 @@
-Selenophoma rupicola Petr. SPECIES
-=======
+# Selenophoma rupicola Petr. SPECIES
 
 #### Status
 ACCEPTED

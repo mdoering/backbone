@@ -1,5 +1,4 @@
-Lecanora bulbifera Stirt. SPECIES
-=======
+# Lecanora bulbifera Stirt. SPECIES
 
 #### Status
 ACCEPTED

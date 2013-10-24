@@ -1,5 +1,4 @@
-Hymenopsis atra Sacc. & Trotter SPECIES
-=======
+# Hymenopsis atra Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

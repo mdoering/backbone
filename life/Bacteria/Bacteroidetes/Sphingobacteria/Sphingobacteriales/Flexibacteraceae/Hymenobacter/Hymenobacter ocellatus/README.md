@@ -1,5 +1,4 @@
-Hymenobacter ocellatus Buczolits et al., 2006 SPECIES
-=======
+# Hymenobacter ocellatus Buczolits et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

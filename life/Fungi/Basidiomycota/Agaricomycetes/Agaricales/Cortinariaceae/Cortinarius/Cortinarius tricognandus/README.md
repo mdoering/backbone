@@ -1,5 +1,4 @@
-Cortinarius tricognandus Rob. Henry SPECIES
-=======
+# Cortinarius tricognandus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

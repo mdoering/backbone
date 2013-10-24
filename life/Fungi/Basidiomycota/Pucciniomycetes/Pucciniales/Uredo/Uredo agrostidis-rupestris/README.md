@@ -1,8 +1,7 @@
-Uredo agrostis-palustris E. Fisch. SPECIES
-=======
+# Uredo agrostidis-rupestris E. Fisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo agrostis-palustris E. Fisch.
+Uredo agrostidis-rupestris E. Fisch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Penicillium aculiatum SPECIES
-=======
+# Penicillium aculiatum SPECIES
 
 #### Status
 ACCEPTED

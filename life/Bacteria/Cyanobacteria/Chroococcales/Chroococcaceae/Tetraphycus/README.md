@@ -1,5 +1,4 @@
-Tetraphycus D.Z. Oehler, 1978 GENUS
-=======
+# Tetraphycus D.Z. Oehler, 1978 GENUS
 
 #### Status
 ACCEPTED

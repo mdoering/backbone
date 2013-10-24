@@ -1,5 +1,4 @@
-Dimeromyces nanomasculus Thaxt. SPECIES
-=======
+# Dimeromyces nanomasculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

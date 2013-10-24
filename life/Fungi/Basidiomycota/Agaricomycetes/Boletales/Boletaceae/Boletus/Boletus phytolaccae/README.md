@@ -1,5 +1,4 @@
-Boletus phytolaccae E. Horak SPECIES
-=======
+# Boletus phytolaccae E. Horak SPECIES
 
 #### Status
 ACCEPTED

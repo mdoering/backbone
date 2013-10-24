@@ -1,5 +1,4 @@
-Uromyces notabilis Wakef. SPECIES
-=======
+# Uromyces notabilis Wakef. SPECIES
 
 #### Status
 ACCEPTED

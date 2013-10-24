@@ -1,5 +1,4 @@
-Corethropsis hominis var. hominis VARIETY
-=======
+# Corethropsis hominis Vuill. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Corethropsis hominis var. hominis
+Corethropsis hominis Vuill.
 
 ### Remarks
 null

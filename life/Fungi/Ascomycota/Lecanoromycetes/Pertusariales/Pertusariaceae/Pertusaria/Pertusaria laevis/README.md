@@ -1,5 +1,4 @@
-Pertusaria laevis C. Knight SPECIES
-=======
+# Pertusaria laevis C. Knight SPECIES
 
 #### Status
 ACCEPTED

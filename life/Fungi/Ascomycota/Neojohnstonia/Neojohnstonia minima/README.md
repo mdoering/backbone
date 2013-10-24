@@ -1,5 +1,4 @@
-Neojohnstonia minima Gusmão & Grandi SPECIES
-=======
+# Neojohnstonia minima Gusmão & Grandi SPECIES
 
 #### Status
 ACCEPTED

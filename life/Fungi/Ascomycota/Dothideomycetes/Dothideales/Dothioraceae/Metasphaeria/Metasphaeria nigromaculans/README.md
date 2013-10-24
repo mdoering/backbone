@@ -1,5 +1,4 @@
-Metasphaeria nigromaculans Earle SPECIES
-=======
+# Metasphaeria nigromaculans Earle SPECIES
 
 #### Status
 ACCEPTED

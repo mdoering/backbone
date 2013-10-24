@@ -1,5 +1,4 @@
-Sphaeria versatilis Fr. SPECIES
-=======
+# Sphaeria versatilis Fr. SPECIES
 
 #### Status
 ACCEPTED

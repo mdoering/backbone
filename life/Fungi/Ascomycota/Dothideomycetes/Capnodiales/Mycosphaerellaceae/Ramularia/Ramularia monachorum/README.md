@@ -1,5 +1,4 @@
-Ramularia monachorum Bubák SPECIES
-=======
+# Ramularia monachorum Bubák SPECIES
 
 #### Status
 ACCEPTED

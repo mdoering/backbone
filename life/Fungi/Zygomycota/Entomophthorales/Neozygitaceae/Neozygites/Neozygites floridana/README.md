@@ -1,14 +1,13 @@
-Entomophthora floridana Weiser & Muma, 1966 SPECIES
-=======
+# Neozygites floridana (Weiser & Muma) Remaud. & S. Keller, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Florida Entomologist 49: 155 (1966)
+Mycotaxon 11(1): 331 (1980)
 
 #### Original name
 Entomophthora floridana Weiser & Muma, 1966

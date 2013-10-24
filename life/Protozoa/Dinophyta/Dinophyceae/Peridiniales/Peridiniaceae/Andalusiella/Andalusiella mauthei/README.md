@@ -1,5 +1,4 @@
-Andalusiella mauthei W. Reigel SPECIES
-=======
+# Andalusiella mauthei W. Reigel SPECIES
 
 #### Status
 ACCEPTED

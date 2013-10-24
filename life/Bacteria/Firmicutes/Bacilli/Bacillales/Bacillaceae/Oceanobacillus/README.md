@@ -1,5 +1,4 @@
-Oceanobacillus Lu, Nogi & Takami, 2002 GENUS
-=======
+# Oceanobacillus Lu, Nogi & Takami, 2002 GENUS
 
 #### Status
 ACCEPTED

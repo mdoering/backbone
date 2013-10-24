@@ -1,5 +1,4 @@
-Diorygma rufopruinosum (A.W. Archer) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma rufopruinosum (A.W. Archer) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

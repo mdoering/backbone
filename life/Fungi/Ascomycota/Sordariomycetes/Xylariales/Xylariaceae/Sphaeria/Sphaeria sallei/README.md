@@ -1,5 +1,4 @@
-Sphaeria sallei Berk. SPECIES
-=======
+# Sphaeria sallei Berk. SPECIES
 
 #### Status
 ACCEPTED

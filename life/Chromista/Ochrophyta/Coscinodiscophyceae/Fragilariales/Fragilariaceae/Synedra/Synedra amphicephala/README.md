@@ -1,5 +1,4 @@
-Synedra amphicephala var. densestriata Fontell VARIETY
-=======
+# Synedra amphicephala Kützing SPECIES
 
 #### Status
 ACCEPTED

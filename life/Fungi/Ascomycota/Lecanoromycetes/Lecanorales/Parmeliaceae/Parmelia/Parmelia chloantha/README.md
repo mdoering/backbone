@@ -1,5 +1,4 @@
-Parmelia chloantha Ach. SPECIES
-=======
+# Parmelia chloantha Ach. SPECIES
 
 #### Status
 ACCEPTED

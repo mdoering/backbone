@@ -1,5 +1,4 @@
-Octospora lutziana (Boud.) Caillet & Moyne SPECIES
-=======
+# Octospora lutziana (Boud.) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

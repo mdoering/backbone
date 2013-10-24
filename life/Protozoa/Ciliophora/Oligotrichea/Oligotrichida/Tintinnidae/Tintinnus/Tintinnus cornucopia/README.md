@@ -1,5 +1,4 @@
-Tintinnus cornucopia SPECIES
-=======
+# Tintinnus cornucopia SPECIES
 
 #### Status
 ACCEPTED

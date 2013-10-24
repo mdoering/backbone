@@ -1,5 +1,4 @@
-Glomerella mume Hemmi SPECIES
-=======
+# Glomerella mume Hemmi SPECIES
 
 #### Status
 ACCEPTED

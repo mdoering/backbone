@@ -1,5 +1,4 @@
-Pyrenula willeyana Müll. Arg. SPECIES
-=======
+# Pyrenula willeyana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

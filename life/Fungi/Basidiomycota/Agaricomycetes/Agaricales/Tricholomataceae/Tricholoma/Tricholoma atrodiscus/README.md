@@ -1,17 +1,16 @@
-Tricholoma atrodiscum Ovrebo SPECIES
-=======
+# Tricholoma atrodiscus Ovrebo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 67(11): 3140 (1989)
 
 #### Original name
-Tricholoma atrodiscum Ovrebo
+Tricholoma atrodiscus Ovrebo
 
 ### Remarks
 null

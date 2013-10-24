@@ -1,5 +1,4 @@
-Dactylellina illaqueata D.S. Yang & M.H. Mo SPECIES
-=======
+# Dactylellina illaqueata D.S. Yang & M.H. Mo SPECIES
 
 #### Status
 ACCEPTED

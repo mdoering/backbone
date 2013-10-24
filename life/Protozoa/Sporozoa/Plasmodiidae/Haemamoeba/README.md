@@ -1,5 +1,4 @@
-Haemamoeba Simond, 1901 GENUS
-=======
+# Haemamoeba Simond, 1901 GENUS
 
 #### Status
 ACCEPTED

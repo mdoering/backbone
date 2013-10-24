@@ -1,5 +1,4 @@
-Diaporthe tiliacea (Ellis) Höhn. SPECIES
-=======
+# Diaporthe tiliacea (Ellis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

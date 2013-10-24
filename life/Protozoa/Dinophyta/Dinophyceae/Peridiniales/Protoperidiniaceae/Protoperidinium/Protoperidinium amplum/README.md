@@ -1,5 +1,4 @@
-Protoperidinium amplum (Matzenauer, 1933) Balech, 1974 SPECIES
-=======
+# Protoperidinium amplum (Matzenauer, 1933) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria contexta Wallr. SPECIES
-=======
+# Sphaeria contexta Wallr. SPECIES
 
 #### Status
 ACCEPTED

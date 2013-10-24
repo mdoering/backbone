@@ -1,5 +1,4 @@
-Calothyrium confluens (Pat.) Bat. & Peres SPECIES
-=======
+# Calothyrium confluens (Pat.) Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

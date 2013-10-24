@@ -1,5 +1,4 @@
-Coltricia opisthopus (Pat.) Teng SPECIES
-=======
+# Coltricia opisthopus (Pat.) Teng SPECIES
 
 #### Status
 ACCEPTED

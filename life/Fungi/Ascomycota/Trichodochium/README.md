@@ -1,5 +1,4 @@
-Trichodochium Syd. GENUS
-=======
+# Trichodochium Syd. GENUS
 
 #### Status
 ACCEPTED

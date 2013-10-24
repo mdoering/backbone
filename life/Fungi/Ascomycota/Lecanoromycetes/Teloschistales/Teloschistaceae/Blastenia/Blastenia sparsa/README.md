@@ -1,5 +1,4 @@
-Blastenia sparsa B.J. Murray SPECIES
-=======
+# Blastenia sparsa B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

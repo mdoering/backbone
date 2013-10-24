@@ -1,5 +1,4 @@
-Peridermium pini-koraiensis Sawada SPECIES
-=======
+# Peridermium pini-koraiensis Sawada SPECIES
 
 #### Status
 ACCEPTED

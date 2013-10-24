@@ -1,5 +1,4 @@
-Napicladium rufescens Speg. SPECIES
-=======
+# Napicladium rufescens Speg. SPECIES
 
 #### Status
 ACCEPTED

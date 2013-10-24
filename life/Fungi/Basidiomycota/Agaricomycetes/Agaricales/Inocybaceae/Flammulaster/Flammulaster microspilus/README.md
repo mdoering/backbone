@@ -1,14 +1,13 @@
-Flammulaster microspila (Romagn.) Watling SPECIES
-=======
+# Flammulaster microspilus (Romagn.) Watling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 28: 68 (1967)
 
 #### Original name
 Naucoria microspila Romagn.

@@ -1,5 +1,4 @@
-Fusicoccum corni Oudem. SPECIES
-=======
+# Fusicoccum corni Oudem. SPECIES
 
 #### Status
 ACCEPTED

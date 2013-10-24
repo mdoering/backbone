@@ -1,5 +1,4 @@
-Cytospora angularis Sacc. SPECIES
-=======
+# Cytospora angularis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella subtilis S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella subtilis S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

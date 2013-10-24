@@ -1,5 +1,4 @@
-Allodus musenii (Ellis & Everh.) Orton SPECIES
-=======
+# Allodus musenii (Ellis & Everh.) Orton SPECIES
 
 #### Status
 ACCEPTED

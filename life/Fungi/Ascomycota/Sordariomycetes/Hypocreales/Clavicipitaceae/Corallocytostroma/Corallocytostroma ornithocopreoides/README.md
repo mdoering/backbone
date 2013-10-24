@@ -1,17 +1,16 @@
-Corallocytostroma ornicopreoides R.G. Shivas & Alcorn SPECIES
-=======
+# Corallocytostroma ornithocopreoides R.G. Shivas & Alcorn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Shivas, Mitchell & Jubb, Mycol. Res. 101(7): 849 (1997)
 
 #### Original name
-Corallocytostroma ornicopreoides R.G. Shivas & Alcorn
+Corallocytostroma ornithocopreoides R.G. Shivas & Alcorn
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyclotella kurdica Håk. SPECIES
-=======
+# Cyclotella kurdica Håk. SPECIES
 
 #### Status
 ACCEPTED

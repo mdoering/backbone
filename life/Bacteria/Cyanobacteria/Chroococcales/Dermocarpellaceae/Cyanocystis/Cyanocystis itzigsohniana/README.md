@@ -1,5 +1,4 @@
-Cyanocystis itzigsohniana Rabenhorst, pro synon. SPECIES
-=======
+# Cyanocystis itzigsohniana Rabenhorst, pro synon. SPECIES
 
 #### Status
 ACCEPTED

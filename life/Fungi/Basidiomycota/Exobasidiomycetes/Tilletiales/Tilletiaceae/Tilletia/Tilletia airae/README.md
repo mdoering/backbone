@@ -1,5 +1,4 @@
-Tilletia airae A. Blytt SPECIES
-=======
+# Tilletia airae A. Blytt SPECIES
 
 #### Status
 ACCEPTED

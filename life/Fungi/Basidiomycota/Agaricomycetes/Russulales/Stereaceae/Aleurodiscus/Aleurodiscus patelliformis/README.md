@@ -1,17 +1,16 @@
-Aleurodiscus patellaeformis G. Cunn. SPECIES
-=======
+# Aleurodiscus patelliformis G. Cunn., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Roy. Soc. New Zealand 84(2): 243 (1956)
 
 #### Original name
-Aleurodiscus patellaeformis G. Cunn.
+Aleurodiscus patelliformis G. Cunn., 1956
 
 ### Remarks
 null

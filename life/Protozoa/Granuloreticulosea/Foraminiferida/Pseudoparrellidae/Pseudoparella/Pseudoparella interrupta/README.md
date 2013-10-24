@@ -1,8 +1,7 @@
-Pulvinulinella interrupta Cushman, 1927 SPECIES
-=======
+# Pseudoparella interrupta (Cushman, 1927) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

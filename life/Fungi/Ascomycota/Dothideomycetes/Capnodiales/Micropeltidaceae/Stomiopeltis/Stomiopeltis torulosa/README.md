@@ -1,5 +1,4 @@
-Stomiopeltis torulosa M.L. Farr SPECIES
-=======
+# Stomiopeltis torulosa M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

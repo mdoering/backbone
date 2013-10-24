@@ -1,5 +1,4 @@
-Arthopyrenia calcariae Flagey SPECIES
-=======
+# Arthopyrenia calcariae Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus foedatus (Peck) Murrill SPECIES
-=======
+# Gymnopilus foedatus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

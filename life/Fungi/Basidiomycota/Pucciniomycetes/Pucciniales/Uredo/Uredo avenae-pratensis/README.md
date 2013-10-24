@@ -1,5 +1,4 @@
-Uredo avenae-pratensis Erikss. SPECIES
-=======
+# Uredo avenae-pratensis Erikss. SPECIES
 
 #### Status
 ACCEPTED

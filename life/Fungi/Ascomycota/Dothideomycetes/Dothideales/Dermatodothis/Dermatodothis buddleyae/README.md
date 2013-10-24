@@ -1,5 +1,4 @@
-Dermatodothis buddleyae (F. Stevens) Arx & E. Müll. SPECIES
-=======
+# Dermatodothis buddleyae (F. Stevens) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

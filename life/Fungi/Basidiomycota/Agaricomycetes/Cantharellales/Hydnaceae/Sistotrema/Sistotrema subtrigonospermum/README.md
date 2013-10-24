@@ -1,5 +1,4 @@
-Sistotrema subtrigonospermum D.P. Rogers, 1935 SPECIES
-=======
+# Sistotrema subtrigonospermum D.P. Rogers, 1935 SPECIES
 
 #### Status
 ACCEPTED

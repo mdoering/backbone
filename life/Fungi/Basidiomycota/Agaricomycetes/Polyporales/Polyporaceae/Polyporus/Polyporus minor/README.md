@@ -1,5 +1,4 @@
-Polyporus minor Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Polyporus minor Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella galii (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella galii (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

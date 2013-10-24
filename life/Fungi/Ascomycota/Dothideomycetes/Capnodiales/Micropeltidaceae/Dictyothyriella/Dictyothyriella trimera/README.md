@@ -1,5 +1,4 @@
-Dictyothyriella trimera (Sacc.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella trimera (Sacc.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

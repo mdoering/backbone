@@ -1,11 +1,10 @@
-Coscinodiscus yabei T. Kanaya SPECIES
-=======
+# Thalassiosira yabei (T. Kanaya) F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Penicillium howardii Thom SPECIES
-=======
+# Penicillium howardii Thom SPECIES
 
 #### Status
 ACCEPTED

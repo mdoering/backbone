@@ -1,5 +1,4 @@
-Trichomaris invadens Hibbits, G.C. Hughes & Sparks, 1981 SPECIES
-=======
+# Trichomaris invadens Hibbits, G.C. Hughes & Sparks, 1981 SPECIES
 
 #### Status
 ACCEPTED

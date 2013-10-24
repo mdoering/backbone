@@ -1,5 +1,4 @@
-Raoultella Drancourt et al., 2001 GENUS
-=======
+# Raoultella Drancourt et al., 2001 GENUS
 
 #### Status
 ACCEPTED

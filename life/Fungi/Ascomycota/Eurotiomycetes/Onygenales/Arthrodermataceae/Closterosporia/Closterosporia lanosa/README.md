@@ -1,5 +1,4 @@
-Closterosporia lanosa (Sabour.) Grigoraki SPECIES
-=======
+# Closterosporia lanosa (Sabour.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

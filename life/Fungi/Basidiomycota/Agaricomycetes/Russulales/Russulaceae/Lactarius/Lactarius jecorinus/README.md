@@ -1,5 +1,4 @@
-Lactarius jecorinus var. jecorinus VARIETY
-=======
+# Lactarius jecorinus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 344 (1838)
 
 #### Original name
-Lactarius jecorinus var. jecorinus
+Agaricus jecorinus Berk., 1848
 
 ### Remarks
 null

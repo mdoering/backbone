@@ -1,5 +1,4 @@
-Sphaeria epilobii-tetragoni Kirchn. SPECIES
-=======
+# Sphaeria epilobii-tetragoni Kirchn. SPECIES
 
 #### Status
 ACCEPTED

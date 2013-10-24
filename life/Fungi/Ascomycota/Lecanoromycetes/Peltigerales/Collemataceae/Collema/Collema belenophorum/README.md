@@ -1,5 +1,4 @@
-Collema belenophorum Nyl. SPECIES
-=======
+# Collema belenophorum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praecitriduma Kozur, 1986 GENUS
-=======
+# Praecitriduma Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

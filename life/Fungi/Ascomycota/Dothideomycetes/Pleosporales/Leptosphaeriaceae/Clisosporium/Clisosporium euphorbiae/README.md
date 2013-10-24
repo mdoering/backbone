@@ -1,5 +1,4 @@
-Clisosporium euphorbiae (Roum.) Kuntze SPECIES
-=======
+# Clisosporium euphorbiae (Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

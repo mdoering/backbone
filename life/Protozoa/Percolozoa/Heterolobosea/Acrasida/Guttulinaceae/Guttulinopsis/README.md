@@ -1,5 +1,4 @@
-Guttulinopsis L.S. Olive GENUS
-=======
+# Guttulinopsis L.S. Olive GENUS
 
 #### Status
 ACCEPTED

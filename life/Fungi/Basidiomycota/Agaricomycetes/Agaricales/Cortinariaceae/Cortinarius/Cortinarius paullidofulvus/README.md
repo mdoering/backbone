@@ -1,5 +1,4 @@
-Cortinarius paullidofulvus Rob. Henry SPECIES
-=======
+# Cortinarius paullidofulvus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

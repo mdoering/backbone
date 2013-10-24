@@ -1,5 +1,4 @@
-Battarrea patagonica Speg. SPECIES
-=======
+# Battarrea patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

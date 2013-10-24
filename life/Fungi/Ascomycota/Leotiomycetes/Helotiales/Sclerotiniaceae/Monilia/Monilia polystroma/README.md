@@ -1,5 +1,4 @@
-Monilia polystroma G. Leeuwen, 2002 SPECIES
-=======
+# Monilia polystroma G. Leeuwen, 2002 SPECIES
 
 #### Status
 ACCEPTED

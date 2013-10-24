@@ -1,17 +1,16 @@
-Asteridiella mathengeiana Mibey SPECIES
-=======
+# Asteridiella mathengeana Mibey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mibey, Kokwaro & Mukunya, Mycotaxon 57: 91 (1996)
 
 #### Original name
-Asteridiella mathengeiana Mibey
+Asteridiella mathengeana Mibey
 
 ### Remarks
 null

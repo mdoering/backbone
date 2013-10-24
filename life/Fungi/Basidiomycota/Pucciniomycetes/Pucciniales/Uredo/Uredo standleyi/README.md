@@ -1,5 +1,4 @@
-Uredo standleyi Z. Urb. SPECIES
-=======
+# Uredo standleyi Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

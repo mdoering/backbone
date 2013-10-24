@@ -1,5 +1,4 @@
-Pythium inflatum V.D. Matthews, 1931 SPECIES
-=======
+# Pythium inflatum V.D. Matthews, 1931 SPECIES
 
 #### Status
 ACCEPTED

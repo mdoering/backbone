@@ -1,5 +1,4 @@
-Pseudofissurina quaternaria (McCulloch, 1977) SPECIES
-=======
+# Pseudofissurina quaternaria (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

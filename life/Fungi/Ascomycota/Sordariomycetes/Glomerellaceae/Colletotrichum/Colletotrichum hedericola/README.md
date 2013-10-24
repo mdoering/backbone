@@ -1,5 +1,4 @@
-Colletotrichum hedericola Laubert SPECIES
-=======
+# Colletotrichum hedericola Laubert SPECIES
 
 #### Status
 ACCEPTED

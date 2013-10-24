@@ -1,5 +1,4 @@
-Cantharellus pseudominimus Eyssart. & Buyck SPECIES
-=======
+# Cantharellus pseudominimus Eyssart. & Buyck SPECIES
 
 #### Status
 ACCEPTED

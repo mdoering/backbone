@@ -1,8 +1,7 @@
-Spirillina spinigera Chapman, 1900 SPECIES
-=======
+# Planispirillina spinigera (Chapman, 1900) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

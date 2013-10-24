@@ -1,5 +1,4 @@
-Sphaeria redimita Wallr. SPECIES
-=======
+# Sphaeria redimita Wallr. SPECIES
 
 #### Status
 ACCEPTED

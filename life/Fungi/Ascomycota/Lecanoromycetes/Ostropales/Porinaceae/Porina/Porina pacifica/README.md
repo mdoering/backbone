@@ -1,5 +1,4 @@
-Porina pacifica Brodo SPECIES
-=======
+# Porina pacifica Brodo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palmeria Greville, 1865 GENUS
-=======
+# Palmeria Greville, 1865 GENUS
 
 #### Status
 ACCEPTED

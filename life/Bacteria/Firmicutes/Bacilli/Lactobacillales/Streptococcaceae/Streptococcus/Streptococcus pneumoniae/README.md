@@ -1,11 +1,10 @@
-Diplococcus pneumoniae (Klein, 1884) Weichselbaum, 1886 SPECIES
-=======
+# Streptococcus pneumoniae (Klein, 1884) Chester, 1901 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

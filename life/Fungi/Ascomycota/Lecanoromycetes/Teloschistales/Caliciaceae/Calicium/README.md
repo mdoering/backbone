@@ -1,17 +1,16 @@
-Embolidium Sacc. GENUS
-=======
+# Calicium Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Michelia 1(no. 4): 418 (1878)
+null
 
 #### Original name
-Embolidium Sacc.
+null
 
 ### Remarks
 null

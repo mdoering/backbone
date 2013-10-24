@@ -1,5 +1,4 @@
-Parafolliculina patagonica (Ringuelet) Ringuelet, 1957 SPECIES
-=======
+# Parafolliculina patagonica (Ringuelet) Ringuelet, 1957 SPECIES
 
 #### Status
 ACCEPTED

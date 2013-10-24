@@ -1,5 +1,4 @@
-Diplochorella burchelliae Syd. SPECIES
-=======
+# Diplochorella burchelliae Syd. SPECIES
 
 #### Status
 ACCEPTED

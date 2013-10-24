@@ -1,5 +1,4 @@
-Teratosphaeria pseudoeucalypti Andjic & T. Burgess, 2010 SPECIES
-=======
+# Teratosphaeria pseudoeucalypti Andjic & T. Burgess, 2010 SPECIES
 
 #### Status
 ACCEPTED

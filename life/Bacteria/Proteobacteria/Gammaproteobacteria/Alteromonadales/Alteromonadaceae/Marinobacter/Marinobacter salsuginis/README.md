@@ -1,5 +1,4 @@
-Marinobacter salsuginis Antunes, Franca, Rainey, Huber, Nobre, Edwards & Costa, 2007 SPECIES
-=======
+# Marinobacter salsuginis Antunes, Franca, Rainey, Huber, Nobre, Edwards & Costa, 2007 SPECIES
 
 #### Status
 ACCEPTED

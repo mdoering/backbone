@@ -1,5 +1,4 @@
-Didymosphaeria cerasorum subsp. padina Sacc. SUBSPECIES
-=======
+# Didymosphaeria cerasorum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria cerasorum subsp. padina Sacc.
+Sphaeria cerasorum Fr.
 
 ### Remarks
 null

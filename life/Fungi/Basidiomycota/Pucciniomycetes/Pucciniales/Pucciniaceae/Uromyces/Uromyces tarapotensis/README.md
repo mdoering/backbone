@@ -1,5 +1,4 @@
-Uromyces tarapotensis Henn. SPECIES
-=======
+# Uromyces tarapotensis Henn. SPECIES
 
 #### Status
 ACCEPTED

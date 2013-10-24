@@ -1,5 +1,4 @@
-Stenella mahoniae R.K. Verma, Budathoki & Kamal SPECIES
-=======
+# Stenella mahoniae R.K. Verma, Budathoki & Kamal SPECIES
 
 #### Status
 ACCEPTED

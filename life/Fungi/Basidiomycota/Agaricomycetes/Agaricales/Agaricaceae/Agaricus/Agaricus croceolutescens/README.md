@@ -1,5 +1,4 @@
-Agaricus croceolutescens Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus croceolutescens Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

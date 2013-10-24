@@ -1,5 +1,4 @@
-Sepedonium laevigatum Sahr & Ammer, 1999 SPECIES
-=======
+# Sepedonium laevigatum Sahr & Ammer, 1999 SPECIES
 
 #### Status
 ACCEPTED

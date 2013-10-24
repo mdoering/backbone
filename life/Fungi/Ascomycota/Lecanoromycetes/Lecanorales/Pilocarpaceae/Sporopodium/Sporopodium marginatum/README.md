@@ -1,5 +1,4 @@
-Sporopodium marginatum Lücking & Lumbsch SPECIES
-=======
+# Sporopodium marginatum Lücking & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

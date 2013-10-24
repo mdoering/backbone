@@ -1,5 +1,4 @@
-Massarina coniferarum Butin SPECIES
-=======
+# Massarina coniferarum Butin SPECIES
 
 #### Status
 ACCEPTED

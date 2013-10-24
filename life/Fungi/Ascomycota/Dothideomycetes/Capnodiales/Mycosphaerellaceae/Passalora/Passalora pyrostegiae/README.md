@@ -1,5 +1,4 @@
-Passalora pyrostegiae (Viégas) U. Braun & Crous SPECIES
-=======
+# Passalora pyrostegiae (Viégas) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

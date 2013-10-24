@@ -1,5 +1,4 @@
-Ectocarpus pectenis Ercegovic SPECIES
-=======
+# Ectocarpus pectenis Ercegovic SPECIES
 
 #### Status
 ACCEPTED

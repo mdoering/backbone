@@ -1,5 +1,4 @@
-Phyllosticta heliconiae F. Stevens & P.A. Young SPECIES
-=======
+# Phyllosticta heliconiae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

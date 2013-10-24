@@ -1,5 +1,4 @@
-Myxodictyon lopadioides Zahlbr. SPECIES
-=======
+# Myxodictyon lopadioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

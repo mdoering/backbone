@@ -1,5 +1,4 @@
-Xanthoria alfredii S.Y. Kondr. & Poelt SPECIES
-=======
+# Xanthoria alfredii S.Y. Kondr. & Poelt SPECIES
 
 #### Status
 ACCEPTED

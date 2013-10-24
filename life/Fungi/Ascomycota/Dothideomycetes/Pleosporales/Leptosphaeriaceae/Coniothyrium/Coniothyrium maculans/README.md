@@ -1,5 +1,4 @@
-Coniothyrium maculans (Peck) Tassi SPECIES
-=======
+# Coniothyrium maculans (Peck) Tassi SPECIES
 
 #### Status
 ACCEPTED

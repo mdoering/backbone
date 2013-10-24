@@ -1,5 +1,4 @@
-Entorhipidium Lynch, 1929 GENUS
-=======
+# Entorhipidium Lynch, 1929 GENUS
 
 #### Status
 ACCEPTED

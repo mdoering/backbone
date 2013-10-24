@@ -1,5 +1,4 @@
-Chaetomium paucipilum A. Carter SPECIES
-=======
+# Chaetomium paucipilum A. Carter SPECIES
 
 #### Status
 ACCEPTED

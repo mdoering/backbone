@@ -1,5 +1,4 @@
-Agaricus albocaesius Pers. SPECIES
-=======
+# Agaricus albocaesius Pers. SPECIES
 
 #### Status
 ACCEPTED

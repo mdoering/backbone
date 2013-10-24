@@ -1,5 +1,4 @@
-Phyllactinia miracula Y.S. Paul SPECIES
-=======
+# Phyllactinia miracula Y.S. Paul SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Thermomonospora mesophila Nonomura and Ohara, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Microbispora mesophila (Nonomura & Ohara, 1971) Zhang et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

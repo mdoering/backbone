@@ -1,5 +1,4 @@
-Puccinia burmeisteri Speg. SPECIES
-=======
+# Puccinia burmeisteri Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora tephraea Tuck. SPECIES
-=======
+# Biatora tephraea Tuck. SPECIES
 
 #### Status
 ACCEPTED

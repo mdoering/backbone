@@ -1,5 +1,4 @@
-Hygrocybe viridiconica A.M. Young SPECIES
-=======
+# Hygrocybe viridiconica A.M. Young SPECIES
 
 #### Status
 ACCEPTED

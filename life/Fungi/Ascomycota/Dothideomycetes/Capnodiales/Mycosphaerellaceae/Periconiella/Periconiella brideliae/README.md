@@ -1,5 +1,4 @@
-Periconiella brideliae A.N. Rai SPECIES
-=======
+# Periconiella brideliae A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

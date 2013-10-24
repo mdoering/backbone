@@ -1,5 +1,4 @@
-Nectria dodgei D.R. Heiser SPECIES
-=======
+# Nectria dodgei D.R. Heiser SPECIES
 
 #### Status
 ACCEPTED

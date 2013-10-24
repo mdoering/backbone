@@ -1,5 +1,4 @@
-Rhizosolenia decipiens B.G.Sundström, 1986 SPECIES
-=======
+# Rhizosolenia decipiens B.G.Sundström, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelina homogenes (Nyl.) Hale SPECIES
-=======
+# Parmelina homogenes (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

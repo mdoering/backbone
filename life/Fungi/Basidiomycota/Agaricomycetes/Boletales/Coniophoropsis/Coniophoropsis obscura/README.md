@@ -1,5 +1,4 @@
-Coniophoropsis obscura Hjortstam & Ryvarden, 1986 SPECIES
-=======
+# Coniophoropsis obscura Hjortstam & Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

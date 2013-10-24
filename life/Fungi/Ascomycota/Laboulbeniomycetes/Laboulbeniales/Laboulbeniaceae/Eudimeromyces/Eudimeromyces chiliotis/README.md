@@ -1,5 +1,4 @@
-Eudimeromyces chiliotis Thaxt. SPECIES
-=======
+# Eudimeromyces chiliotis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

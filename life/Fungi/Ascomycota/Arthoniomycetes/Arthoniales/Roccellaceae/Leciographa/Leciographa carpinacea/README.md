@@ -1,5 +1,4 @@
-Leciographa carpinacea Velen. SPECIES
-=======
+# Leciographa carpinacea Velen. SPECIES
 
 #### Status
 ACCEPTED

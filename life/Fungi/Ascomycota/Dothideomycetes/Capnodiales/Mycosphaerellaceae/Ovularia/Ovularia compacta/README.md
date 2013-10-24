@@ -1,5 +1,4 @@
-Ovularia compacta Ellis & Everh. SPECIES
-=======
+# Ovularia compacta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

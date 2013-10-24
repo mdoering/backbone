@@ -1,5 +1,4 @@
-Parmelia sprengelii Flörke SPECIES
-=======
+# Parmelia sprengelii Flörke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria repens Ruprecht SPECIES
-=======
+# Laminaria repens Ruprecht SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo panici Henn. SPECIES
-=======
+# Uredo panici Henn. SPECIES
 
 #### Status
 ACCEPTED

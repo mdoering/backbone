@@ -1,5 +1,4 @@
-Pleomassaria acericola Petr. SPECIES
-=======
+# Pleomassaria acericola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora araliarum Petr., 1966 SPECIES
-=======
+# Phyllachora araliarum Petr., 1966 SPECIES
 
 #### Status
 DOUBTFUL

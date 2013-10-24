@@ -1,5 +1,4 @@
-Agaricus decumbens Pers. SPECIES
-=======
+# Agaricus decumbens Pers. SPECIES
 
 #### Status
 ACCEPTED

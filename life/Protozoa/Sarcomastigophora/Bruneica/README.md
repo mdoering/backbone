@@ -1,5 +1,4 @@
-Bruneica Bronnimann, Keij & Zaninetti, 1983 GENUS
-=======
+# Bruneica Bronnimann, Keij & Zaninetti, 1983 GENUS
 
 #### Status
 ACCEPTED

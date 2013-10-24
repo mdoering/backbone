@@ -1,5 +1,4 @@
-Cordella argentina Speg. SPECIES
-=======
+# Cordella argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

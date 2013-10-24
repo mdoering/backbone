@@ -1,5 +1,4 @@
-Metamera Duke, 1910 GENUS
-=======
+# Metamera Duke, 1910 GENUS
 
 #### Status
 ACCEPTED

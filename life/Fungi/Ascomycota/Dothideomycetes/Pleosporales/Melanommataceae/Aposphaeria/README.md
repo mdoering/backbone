@@ -1,5 +1,4 @@
-Aposphaeria Saccardo, 1880 GENUS
-=======
+# Aposphaeria Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

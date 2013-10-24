@@ -1,5 +1,4 @@
-Russula pachycystis Singer SPECIES
-=======
+# Russula pachycystis Singer SPECIES
 
 #### Status
 ACCEPTED

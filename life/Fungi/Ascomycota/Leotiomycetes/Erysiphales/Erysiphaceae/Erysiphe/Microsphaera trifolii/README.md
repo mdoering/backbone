@@ -1,17 +1,16 @@
-Erysiphe communis f. sp FORM
-=======
+# Microsphaera trifolii (Grev.) U. Braun, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 34(3 & 4): 685 (1981)
 
 #### Original name
-Erysiphe communis f. sp
+Erysiphe trifolii Grev.
 
 ### Remarks
 null

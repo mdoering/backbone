@@ -1,5 +1,4 @@
-Leptosphaeria kunzeana Berl. SPECIES
-=======
+# Leptosphaeria kunzeana Berl. SPECIES
 
 #### Status
 ACCEPTED

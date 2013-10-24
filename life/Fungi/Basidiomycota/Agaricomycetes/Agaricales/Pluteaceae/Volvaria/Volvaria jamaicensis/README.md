@@ -1,5 +1,4 @@
-Volvaria jamaicensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Volvaria jamaicensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

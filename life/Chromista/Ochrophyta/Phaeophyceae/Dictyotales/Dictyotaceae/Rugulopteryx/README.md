@@ -1,5 +1,4 @@
-Rugulopteryx De Clerck & Coppejans, 2006 GENUS
-=======
+# Rugulopteryx De Clerck & Coppejans, 2006 GENUS
 
 #### Status
 ACCEPTED

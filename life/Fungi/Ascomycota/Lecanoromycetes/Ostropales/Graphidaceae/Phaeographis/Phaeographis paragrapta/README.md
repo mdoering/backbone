@@ -1,5 +1,4 @@
-Phaeographis paragrapta Müll. Arg. SPECIES
-=======
+# Phaeographis paragrapta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favella taraikaensis Hada, 1932 SPECIES
-=======
+# Favella taraikaensis Hada, 1932 SPECIES
 
 #### Status
 ACCEPTED

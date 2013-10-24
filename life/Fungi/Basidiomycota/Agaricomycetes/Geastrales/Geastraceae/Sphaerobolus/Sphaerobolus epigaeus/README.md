@@ -1,5 +1,4 @@
-Sphaerobolus epigaeus Berk. & M.A. Curtis SPECIES
-=======
+# Sphaerobolus epigaeus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

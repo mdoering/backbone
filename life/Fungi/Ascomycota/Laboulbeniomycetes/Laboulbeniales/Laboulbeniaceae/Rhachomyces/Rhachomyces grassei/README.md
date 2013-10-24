@@ -1,5 +1,4 @@
-Rhachomyces grassei Lepesme SPECIES
-=======
+# Rhachomyces grassei Lepesme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella michiganiana Skvortsov SPECIES
-=======
+# Cyclotella michiganiana Skvortsov SPECIES
 
 #### Status
 ACCEPTED

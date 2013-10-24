@@ -1,5 +1,4 @@
-Hemipuccinia Sacc. & De Toni GENUS
-=======
+# Hemipuccinia Sacc. & De Toni GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pogotrichium GENUS
-=======
+# Pogotrichium GENUS
 
 #### Status
 ACCEPTED

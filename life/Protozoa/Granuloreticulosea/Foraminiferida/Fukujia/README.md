@@ -1,5 +1,4 @@
-Fukujia Adachi, 1980 GENUS
-=======
+# Fukujia Adachi, 1980 GENUS
 
 #### Status
 ACCEPTED

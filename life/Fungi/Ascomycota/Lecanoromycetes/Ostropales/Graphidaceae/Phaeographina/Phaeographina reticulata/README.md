@@ -1,5 +1,4 @@
-Phaeographina reticulata (Fée) Müll. Arg. SPECIES
-=======
+# Phaeographina reticulata (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

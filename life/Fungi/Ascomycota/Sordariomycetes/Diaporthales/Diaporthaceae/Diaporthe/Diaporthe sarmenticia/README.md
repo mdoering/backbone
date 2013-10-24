@@ -1,5 +1,4 @@
-Diaporthe sarmenticia Sacc., 1878 SPECIES
-=======
+# Diaporthe sarmenticia Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

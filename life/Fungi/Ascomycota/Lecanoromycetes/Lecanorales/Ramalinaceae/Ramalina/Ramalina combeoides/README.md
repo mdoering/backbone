@@ -1,5 +1,4 @@
-Ramalina combeoides Nyl. SPECIES
-=======
+# Ramalina combeoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

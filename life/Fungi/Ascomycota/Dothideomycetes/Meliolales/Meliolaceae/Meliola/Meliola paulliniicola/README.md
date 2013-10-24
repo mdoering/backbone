@@ -1,5 +1,4 @@
-Meliola paulliniicola Hansf. SPECIES
-=======
+# Meliola paulliniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

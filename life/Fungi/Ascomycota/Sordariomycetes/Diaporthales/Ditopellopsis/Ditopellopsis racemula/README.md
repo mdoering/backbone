@@ -1,5 +1,4 @@
-Ditopellopsis racemula (Cooke & Peck) M.E. Barr SPECIES
-=======
+# Ditopellopsis racemula (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia tirolensis Zwetko, 1993 SPECIES
-=======
+# Puccinia tirolensis Zwetko, 1993 SPECIES
 
 #### Status
 ACCEPTED

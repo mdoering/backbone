@@ -1,5 +1,4 @@
-Passalora pruni (Y.L. Guo & X.J. Liu) U. Braun & Crous SPECIES
-=======
+# Passalora pruni (Y.L. Guo & X.J. Liu) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

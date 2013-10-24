@@ -1,5 +1,4 @@
-Ophiocordyceps crinalis (Ellis ex Lloyd) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps crinalis (Ellis ex Lloyd) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

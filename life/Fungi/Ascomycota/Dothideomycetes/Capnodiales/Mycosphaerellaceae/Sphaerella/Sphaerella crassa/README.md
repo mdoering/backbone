@@ -1,5 +1,4 @@
-Sphaerella crassa Auersw. SPECIES
-=======
+# Sphaerella crassa Auersw. SPECIES
 
 #### Status
 ACCEPTED

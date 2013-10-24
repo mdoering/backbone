@@ -1,5 +1,4 @@
-Asteroma parkinsoniae Ellis & Everh. SPECIES
-=======
+# Asteroma parkinsoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

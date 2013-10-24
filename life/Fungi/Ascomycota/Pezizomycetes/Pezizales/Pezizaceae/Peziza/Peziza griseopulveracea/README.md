@@ -1,5 +1,4 @@
-Peziza griseopulveracea Schwein. SPECIES
-=======
+# Peziza griseopulveracea Schwein. SPECIES
 
 #### Status
 ACCEPTED

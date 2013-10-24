@@ -1,5 +1,4 @@
-Uredo cussoniae Cooke SPECIES
-=======
+# Uredo cussoniae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria soredioglabra Kantvilas & Elix SPECIES
-=======
+# Pseudocyphellaria soredioglabra Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

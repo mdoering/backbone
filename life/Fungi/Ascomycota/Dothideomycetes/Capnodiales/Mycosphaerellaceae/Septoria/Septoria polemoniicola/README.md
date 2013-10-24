@@ -1,5 +1,4 @@
-Septoria polemoniicola Ellis & G. Martin SPECIES
-=======
+# Septoria polemoniicola Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

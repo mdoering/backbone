@@ -1,5 +1,4 @@
-Agaricus austerus subsp. austerus SUBSPECIES
-=======
+# Agaricus austerus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 3: 49 (1828)
 
 #### Original name
-Agaricus austerus subsp. austerus
+Agaricus austerus Pers.
 
 ### Remarks
 null

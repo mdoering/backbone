@@ -1,5 +1,4 @@
-Graphina norlabiata Patw. & C.R. Kulk. SPECIES
-=======
+# Graphina norlabiata Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

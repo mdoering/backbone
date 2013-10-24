@@ -1,5 +1,4 @@
-Umbilicaria himalayensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Umbilicaria himalayensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

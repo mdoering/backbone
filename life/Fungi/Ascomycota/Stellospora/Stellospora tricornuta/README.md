@@ -1,5 +1,4 @@
-Stellospora tricornuta K. Matsush. & Matsush. SPECIES
-=======
+# Stellospora tricornuta K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

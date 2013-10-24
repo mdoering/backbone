@@ -1,5 +1,4 @@
-Agaricus thelephoroides Secr. SPECIES
-=======
+# Agaricus thelephoroides Secr. SPECIES
 
 #### Status
 ACCEPTED

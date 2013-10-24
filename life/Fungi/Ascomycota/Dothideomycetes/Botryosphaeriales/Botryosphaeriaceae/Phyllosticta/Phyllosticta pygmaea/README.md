@@ -1,5 +1,4 @@
-Phyllosticta pygmaea Allesch. SPECIES
-=======
+# Phyllosticta pygmaea Allesch. SPECIES
 
 #### Status
 ACCEPTED

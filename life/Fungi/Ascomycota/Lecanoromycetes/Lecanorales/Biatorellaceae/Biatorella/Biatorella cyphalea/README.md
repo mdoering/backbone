@@ -1,5 +1,4 @@
-Biatorella cyphalea (Tuck.) Zahlbr. SPECIES
-=======
+# Biatorella cyphalea (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

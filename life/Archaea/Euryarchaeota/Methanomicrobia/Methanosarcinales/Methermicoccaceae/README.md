@@ -1,5 +1,4 @@
-Methermicoccaceae FAMILY
-=======
+# Methermicoccaceae FAMILY
 
 #### Status
 ACCEPTED

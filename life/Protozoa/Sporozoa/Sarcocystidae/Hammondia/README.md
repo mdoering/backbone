@@ -1,5 +1,4 @@
-Hammondia Frenkel, 1974 GENUS
-=======
+# Hammondia Frenkel, 1974 GENUS
 
 #### Status
 ACCEPTED

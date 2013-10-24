@@ -1,5 +1,4 @@
-Mycena viscata Métrod SPECIES
-=======
+# Mycena viscata Métrod SPECIES
 
 #### Status
 ACCEPTED

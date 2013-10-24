@@ -1,5 +1,4 @@
-Sphaeria diaphana Cooke & Ellis SPECIES
-=======
+# Sphaeria diaphana Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pulcher var. pulcher VARIETY
-=======
+# Agaricus pulcher Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus pulcher var. pulcher
+Agaricus pulcher Pers.
 
 ### Remarks
 null

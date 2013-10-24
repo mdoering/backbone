@@ -1,5 +1,4 @@
-Cortinellus azalearum Murrill SPECIES
-=======
+# Cortinellus azalearum Murrill SPECIES
 
 #### Status
 ACCEPTED

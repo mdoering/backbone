@@ -1,5 +1,4 @@
-Sphaeria duncani Ettingsh. SPECIES
-=======
+# Sphaeria duncani Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula lucifera R.C. Harris SPECIES
-=======
+# Pyrenula lucifera R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

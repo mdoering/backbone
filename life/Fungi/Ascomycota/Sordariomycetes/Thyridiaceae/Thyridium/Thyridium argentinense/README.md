@@ -1,5 +1,4 @@
-Thyridium argentinense Speg. SPECIES
-=======
+# Thyridium argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

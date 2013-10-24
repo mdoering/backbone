@@ -1,5 +1,4 @@
-Maryna galeata Gelei, 1950 SPECIES
-=======
+# Maryna galeata Gelei, 1950 SPECIES
 
 #### Status
 ACCEPTED

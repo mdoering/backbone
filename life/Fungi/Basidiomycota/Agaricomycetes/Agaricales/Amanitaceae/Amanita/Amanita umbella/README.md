@@ -1,5 +1,4 @@
-Amanita umbella Quél. SPECIES
-=======
+# Amanita umbella Quél. SPECIES
 
 #### Status
 ACCEPTED

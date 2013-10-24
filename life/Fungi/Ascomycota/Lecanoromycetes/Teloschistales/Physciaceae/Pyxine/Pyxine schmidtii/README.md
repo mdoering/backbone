@@ -1,5 +1,4 @@
-Pyxine schmidtii Vain. SPECIES
-=======
+# Pyxine schmidtii Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria rufofusca (O. Weberb.) Sacc., 1889 SPECIES
-=======
+# Ciboria rufofusca (O. Weberb.) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

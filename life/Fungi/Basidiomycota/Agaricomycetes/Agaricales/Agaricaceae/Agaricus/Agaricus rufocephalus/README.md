@@ -1,5 +1,4 @@
-Agaricus rufocephalus Schumach. SPECIES
-=======
+# Agaricus rufocephalus Schumach. SPECIES
 
 #### Status
 ACCEPTED

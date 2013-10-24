@@ -1,5 +1,4 @@
-Physalospora jonaspidis (Stein) Vouaux SPECIES
-=======
+# Physalospora jonaspidis (Stein) Vouaux SPECIES
 
 #### Status
 ACCEPTED

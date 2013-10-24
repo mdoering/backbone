@@ -1,5 +1,4 @@
-Merulius versiformis Berk. & Broome SPECIES
-=======
+# Merulius versiformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas molluscorum Romanenko, Uchino, Frolova, Tanaka, Kalinovskaya, Latyshev & Mikhailov, 2007 SPECIES
-=======
+# Sphingomonas molluscorum Romanenko, Uchino, Frolova, Tanaka, Kalinovskaya, Latyshev & Mikhailov, 2007 SPECIES
 
 #### Status
 ACCEPTED

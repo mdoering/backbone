@@ -1,5 +1,4 @@
-Pantospora guazumae Cif., 1938 SPECIES
-=======
+# Pantospora guazumae Cif., 1938 SPECIES
 
 #### Status
 ACCEPTED

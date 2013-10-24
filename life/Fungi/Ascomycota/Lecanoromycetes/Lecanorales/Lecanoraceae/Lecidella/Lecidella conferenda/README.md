@@ -1,5 +1,4 @@
-Lecidella conferenda (Nyl.) Arnold SPECIES
-=======
+# Lecidella conferenda (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

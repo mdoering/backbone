@@ -1,5 +1,4 @@
-Gibberidea setosa (G. Winter) Kuntze SPECIES
-=======
+# Gibberidea setosa (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

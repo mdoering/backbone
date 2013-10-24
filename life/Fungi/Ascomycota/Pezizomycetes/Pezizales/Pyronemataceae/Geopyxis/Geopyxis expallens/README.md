@@ -1,5 +1,4 @@
-Geopyxis expallens Velen. SPECIES
-=======
+# Geopyxis expallens Velen. SPECIES
 
 #### Status
 ACCEPTED

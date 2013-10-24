@@ -1,5 +1,4 @@
-Stagonosporina diospyri (Tassi) Tassi SPECIES
-=======
+# Stagonosporina diospyri (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

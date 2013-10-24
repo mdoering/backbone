@@ -1,5 +1,4 @@
-Cylindrosporium vaccariae Annal. SPECIES
-=======
+# Cylindrosporium vaccariae Annal. SPECIES
 
 #### Status
 ACCEPTED

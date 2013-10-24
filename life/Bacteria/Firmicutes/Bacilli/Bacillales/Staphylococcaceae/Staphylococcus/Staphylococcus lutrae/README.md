@@ -1,5 +1,4 @@
-Staphylococcus lutrae Foster et al., 1997 SPECIES
-=======
+# Staphylococcus lutrae Foster et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

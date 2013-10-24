@@ -1,5 +1,4 @@
-Paracaligella Lipina, 1955 GENUS
-=======
+# Paracaligella Lipina, 1955 GENUS
 
 #### Status
 ACCEPTED

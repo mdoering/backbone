@@ -1,5 +1,4 @@
-Drepanopeziza schoenicola Graddon, 1977 SPECIES
-=======
+# Drepanopeziza schoenicola Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

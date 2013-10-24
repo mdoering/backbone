@@ -1,5 +1,4 @@
-Splanchnonema verruculospora W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Splanchnonema verruculospora W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

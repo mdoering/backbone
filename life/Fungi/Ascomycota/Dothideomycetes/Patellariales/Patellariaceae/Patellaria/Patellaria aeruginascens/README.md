@@ -1,5 +1,4 @@
-Patellaria aeruginascens Müll. Arg. SPECIES
-=======
+# Patellaria aeruginascens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

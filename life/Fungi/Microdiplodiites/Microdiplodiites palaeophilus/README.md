@@ -1,5 +1,4 @@
-Microdiplodiites palaeophilus Babajan & Tasl. SPECIES
-=======
+# Microdiplodiites palaeophilus Babajan & Tasl. SPECIES
 
 #### Status
 ACCEPTED

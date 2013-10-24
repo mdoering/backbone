@@ -1,5 +1,4 @@
-Vorticella macroura SPECIES
-=======
+# Vorticella macroura SPECIES
 
 #### Status
 ACCEPTED

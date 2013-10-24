@@ -1,5 +1,4 @@
-Rhopaliophora granulata Yin Leiming, 1995 SPECIES
-=======
+# Rhopaliophora granulata Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

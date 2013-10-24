@@ -1,5 +1,4 @@
-Physalospora eriostega (Cooke & Ellis) Sacc. SPECIES
-=======
+# Physalospora eriostega (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

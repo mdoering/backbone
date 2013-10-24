@@ -1,5 +1,4 @@
-Diplopeltis fumago Höhn. SPECIES
-=======
+# Diplopeltis fumago Höhn. SPECIES
 
 #### Status
 ACCEPTED

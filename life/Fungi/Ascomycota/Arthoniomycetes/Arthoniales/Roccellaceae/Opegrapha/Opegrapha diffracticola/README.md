@@ -1,5 +1,4 @@
-Opegrapha diffracticola R. C. Harris & Ladd SPECIES
-=======
+# Opegrapha diffracticola R. C. Harris & Ladd SPECIES
 
 #### Status
 ACCEPTED

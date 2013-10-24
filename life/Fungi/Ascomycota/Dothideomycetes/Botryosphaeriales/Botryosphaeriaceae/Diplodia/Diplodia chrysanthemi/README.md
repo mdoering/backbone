@@ -1,5 +1,4 @@
-Diplodia chrysanthemi Tassi SPECIES
-=======
+# Diplodia chrysanthemi Tassi SPECIES
 
 #### Status
 ACCEPTED

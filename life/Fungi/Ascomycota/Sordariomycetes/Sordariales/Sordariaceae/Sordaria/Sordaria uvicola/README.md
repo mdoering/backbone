@@ -1,5 +1,4 @@
-Sordaria uvicola Viala & Marsais SPECIES
-=======
+# Sordaria uvicola Viala & Marsais SPECIES
 
 #### Status
 ACCEPTED

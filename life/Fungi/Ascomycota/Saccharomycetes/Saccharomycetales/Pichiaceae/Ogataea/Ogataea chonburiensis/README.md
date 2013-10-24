@@ -1,5 +1,4 @@
-Ogataea chonburiensis Limtong, Srisuk, Yongman., Yurim. & Nakase, 2008 SPECIES
-=======
+# Ogataea chonburiensis Limtong, Srisuk, Yongman., Yurim. & Nakase, 2008 SPECIES
 
 #### Status
 ACCEPTED

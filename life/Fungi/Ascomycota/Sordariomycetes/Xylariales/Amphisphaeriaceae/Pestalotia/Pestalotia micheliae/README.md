@@ -1,5 +1,4 @@
-Pestalotia micheliae Kalani SPECIES
-=======
+# Pestalotia micheliae Kalani SPECIES
 
 #### Status
 ACCEPTED

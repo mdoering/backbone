@@ -1,5 +1,4 @@
-Zignoëlla improvisa (P. Karst.) Sacc. SPECIES
-=======
+# Zignoëlla improvisa (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

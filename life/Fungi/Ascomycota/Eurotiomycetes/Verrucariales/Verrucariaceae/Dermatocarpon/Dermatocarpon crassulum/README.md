@@ -1,5 +1,4 @@
-Dermatocarpon crassulum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatocarpon crassulum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

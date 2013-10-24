@@ -1,5 +1,4 @@
-Allantoparmelia (Vain.) Essl. GENUS
-=======
+# Allantoparmelia (Vain.) Essl. GENUS
 
 #### Status
 ACCEPTED

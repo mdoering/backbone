@@ -1,14 +1,13 @@
-Pannaria austro-orcadensis Øvstedal SPECIES
-=======
+# Protopannaria austro-orcadensis (Øvstedal) P.M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cryptog. Bryol. -Lichénol. 14(4): 337 (1993)
+Cryptog. Mycol. 22(1): 68 (2001)
 
 #### Original name
 Pannaria austro-orcadensis Øvstedal

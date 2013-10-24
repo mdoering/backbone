@@ -1,17 +1,16 @@
-Willeya difractella (Nyl.) Müll. Arg. SPECIES
-=======
+# Willeya diffractella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 66: 345 (1883)
 
 #### Original name
-Verrucaria difractella Nyl.
+Verrucaria diffractella Nyl.
 
 ### Remarks
 null

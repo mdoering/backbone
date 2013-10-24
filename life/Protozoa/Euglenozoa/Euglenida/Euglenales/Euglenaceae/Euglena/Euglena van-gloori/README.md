@@ -1,5 +1,4 @@
-Euglena van-gloori Deflandre SPECIES
-=======
+# Euglena van-gloori Deflandre SPECIES
 
 #### Status
 ACCEPTED

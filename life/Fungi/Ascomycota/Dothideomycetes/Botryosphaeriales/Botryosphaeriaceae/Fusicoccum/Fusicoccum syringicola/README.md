@@ -1,14 +1,13 @@
-Fusicoccum syringicolum (M.T. Lucas & Sousa da Câmara) Vanev SPECIES
-=======
+# Fusicoccum syringicola (M.T. Lucas & Sousa da Câmara) Vanev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in van der Aa & Vanev, A Revision of the Species Described in Phyllosticta (Utrecht) 246 (2002)
 
 #### Original name
 Dothiorella syringicola M.T. Lucas & Sousa da Câmara

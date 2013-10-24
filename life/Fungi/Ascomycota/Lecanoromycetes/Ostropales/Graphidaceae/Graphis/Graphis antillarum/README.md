@@ -1,5 +1,4 @@
-Graphis antillarum Vain. SPECIES
-=======
+# Graphis antillarum Vain. SPECIES
 
 #### Status
 ACCEPTED

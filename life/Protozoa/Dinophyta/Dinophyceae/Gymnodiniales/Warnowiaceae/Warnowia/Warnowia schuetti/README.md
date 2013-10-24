@@ -1,5 +1,4 @@
-Warnowia schuetti (Koifoid & Swezy) J. Schiller SPECIES
-=======
+# Warnowia schuetti (Koifoid & Swezy) J. Schiller SPECIES
 
 #### Status
 ACCEPTED

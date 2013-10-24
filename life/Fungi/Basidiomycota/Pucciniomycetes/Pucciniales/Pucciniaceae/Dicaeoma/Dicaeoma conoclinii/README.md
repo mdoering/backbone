@@ -1,5 +1,4 @@
-Dicaeoma conoclinii (Seym.) Kuntze SPECIES
-=======
+# Dicaeoma conoclinii (Seym.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

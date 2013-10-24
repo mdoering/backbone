@@ -1,5 +1,4 @@
-Dermocybe alnophila M.M. Moser SPECIES
-=======
+# Dermocybe alnophila M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

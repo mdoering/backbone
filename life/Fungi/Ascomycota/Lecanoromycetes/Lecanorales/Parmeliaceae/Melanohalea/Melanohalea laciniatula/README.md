@@ -1,5 +1,4 @@
-Parmelia laciniatula f. laciniatula FORM
-=======
+# Melanohalea laciniatula (Flagey ex H. Olivier) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 108(8): 882 (2004)
 
 #### Original name
 Parmelia exasperatula var. laciniatula Flagey ex H. Olivier

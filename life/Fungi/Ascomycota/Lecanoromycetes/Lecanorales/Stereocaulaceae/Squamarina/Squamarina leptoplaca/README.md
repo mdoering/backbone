@@ -1,5 +1,4 @@
-Squamarina leptoplaca (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Squamarina leptoplaca (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

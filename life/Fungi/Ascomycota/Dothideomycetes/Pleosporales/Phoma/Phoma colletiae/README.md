@@ -1,5 +1,4 @@
-Phoma colletiae Henn. SPECIES
-=======
+# Phoma colletiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon procerus Maas Geest., 1967 SPECIES
-=======
+# Sarcodon procerus Maas Geest., 1967 SPECIES
 
 #### Status
 ACCEPTED

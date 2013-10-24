@@ -1,5 +1,4 @@
-Leptogium paramensis M. Lindstr. SPECIES
-=======
+# Leptogium paramensis M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

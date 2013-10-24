@@ -1,5 +1,4 @@
-Agaricus lenticeps Peck SPECIES
-=======
+# Agaricus lenticeps Peck SPECIES
 
 #### Status
 ACCEPTED

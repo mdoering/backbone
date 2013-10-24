@@ -1,5 +1,4 @@
-Pyrenophora oligotrcha SPECIES
-=======
+# Pyrenophora oligotrcha SPECIES
 
 #### Status
 ACCEPTED

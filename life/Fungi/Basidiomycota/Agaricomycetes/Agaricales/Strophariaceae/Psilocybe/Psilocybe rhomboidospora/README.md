@@ -1,5 +1,4 @@
-Psilocybe rhomboidospora (G.F. Atk.) A.H. Sm. SPECIES
-=======
+# Psilocybe rhomboidospora (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

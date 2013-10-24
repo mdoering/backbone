@@ -1,5 +1,4 @@
-Anthina E.M. Fries, 1832 GENUS
-=======
+# Anthina E.M. Fries, 1832 GENUS
 
 #### Status
 ACCEPTED

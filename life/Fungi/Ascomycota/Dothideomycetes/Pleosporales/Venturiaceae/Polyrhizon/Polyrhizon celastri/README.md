@@ -1,5 +1,4 @@
-Polyrhizon celastri Doidge SPECIES
-=======
+# Polyrhizon celastri Doidge SPECIES
 
 #### Status
 ACCEPTED

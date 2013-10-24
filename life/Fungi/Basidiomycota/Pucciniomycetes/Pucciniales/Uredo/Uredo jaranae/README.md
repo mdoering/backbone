@@ -1,5 +1,4 @@
-Uredo jaranae F.C. Albuq. SPECIES
-=======
+# Uredo jaranae F.C. Albuq. SPECIES
 
 #### Status
 ACCEPTED

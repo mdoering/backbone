@@ -1,5 +1,4 @@
-Coprinus colosseus Bogart SPECIES
-=======
+# Coprinus colosseus Bogart SPECIES
 
 #### Status
 ACCEPTED

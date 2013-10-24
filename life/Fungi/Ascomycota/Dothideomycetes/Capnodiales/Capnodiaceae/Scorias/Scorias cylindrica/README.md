@@ -1,5 +1,4 @@
-Scorias cylindrica W. Yamam. SPECIES
-=======
+# Scorias cylindrica W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

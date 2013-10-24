@@ -1,5 +1,4 @@
-Entoloma subsericellum Murrill SPECIES
-=======
+# Entoloma subsericellum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis shiraiana P, Henn. SPECIES
-=======
+# Pestalotiopsis shiraiana P, Henn. SPECIES
 
 #### Status
 ACCEPTED

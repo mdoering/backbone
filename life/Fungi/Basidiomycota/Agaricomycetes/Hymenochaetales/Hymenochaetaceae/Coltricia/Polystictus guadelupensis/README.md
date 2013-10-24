@@ -1,8 +1,7 @@
-Polystictus guadalupensis (Lév.) Cooke SPECIES
-=======
+# Polystictus guadelupensis (Lév.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

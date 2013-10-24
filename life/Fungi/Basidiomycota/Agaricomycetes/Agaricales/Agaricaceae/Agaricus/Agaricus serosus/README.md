@@ -1,5 +1,4 @@
-Agaricus serosus With. SPECIES
-=======
+# Agaricus serosus With. SPECIES
 
 #### Status
 ACCEPTED

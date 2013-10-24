@@ -1,5 +1,4 @@
-Agromyces ulmi Rivas et al., 2004 SPECIES
-=======
+# Agromyces ulmi Rivas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

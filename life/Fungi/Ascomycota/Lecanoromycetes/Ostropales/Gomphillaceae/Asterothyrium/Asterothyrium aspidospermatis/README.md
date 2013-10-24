@@ -1,5 +1,4 @@
-Asterothyrium aspidospermatis (Peres) Lücking & Sérus. SPECIES
-=======
+# Asterothyrium aspidospermatis (Peres) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

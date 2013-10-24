@@ -1,17 +1,16 @@
-Bacidia arceutina var. arceutina VARIETY
-=======
+# Bacidia arceutina (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 19: 624 (1869)
 
 #### Original name
-Bacidia arceutina var. arceutina
+Bacidia luteola var. arceutina Ach.
 
 ### Remarks
 null

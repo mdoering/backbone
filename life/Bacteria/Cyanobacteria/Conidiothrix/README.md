@@ -1,5 +1,4 @@
-Conidiothrix W. Benecke ex E.J. Petersen, 1921 GENUS
-=======
+# Conidiothrix W. Benecke ex E.J. Petersen, 1921 GENUS
 
 #### Status
 ACCEPTED

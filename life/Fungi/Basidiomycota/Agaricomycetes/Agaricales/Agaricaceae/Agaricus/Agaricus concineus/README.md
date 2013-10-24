@@ -1,5 +1,4 @@
-Agaricus concineus Bolton SPECIES
-=======
+# Agaricus concineus Bolton SPECIES
 
 #### Status
 ACCEPTED

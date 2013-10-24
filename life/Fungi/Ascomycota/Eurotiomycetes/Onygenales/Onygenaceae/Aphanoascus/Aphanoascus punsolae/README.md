@@ -1,5 +1,4 @@
-Aphanoascus punsolae Cano & Guarro, 1990 SPECIES
-=======
+# Aphanoascus punsolae Cano & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

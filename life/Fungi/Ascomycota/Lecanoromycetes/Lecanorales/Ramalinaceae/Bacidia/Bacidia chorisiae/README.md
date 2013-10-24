@@ -1,5 +1,4 @@
-Bacidia chorisiae Malme SPECIES
-=======
+# Bacidia chorisiae Malme SPECIES
 
 #### Status
 ACCEPTED

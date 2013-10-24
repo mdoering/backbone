@@ -1,5 +1,4 @@
-Cortinarius alliiodora SPECIES
-=======
+# Cortinarius alliiodora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium chenopodii Dearn. & Barthol. SPECIES
-=======
+# Leptothyrium chenopodii Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

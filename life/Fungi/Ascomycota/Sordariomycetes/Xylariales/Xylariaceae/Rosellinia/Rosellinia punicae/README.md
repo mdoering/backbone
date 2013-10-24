@@ -1,5 +1,4 @@
-Rosellinia punicae Anahosur SPECIES
-=======
+# Rosellinia punicae Anahosur SPECIES
 
 #### Status
 ACCEPTED

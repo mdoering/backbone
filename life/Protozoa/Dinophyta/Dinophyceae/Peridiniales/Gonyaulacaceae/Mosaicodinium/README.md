@@ -1,5 +1,4 @@
-Mosaicodinium Dodekova, 1990 GENUS
-=======
+# Mosaicodinium Dodekova, 1990 GENUS
 
 #### Status
 ACCEPTED

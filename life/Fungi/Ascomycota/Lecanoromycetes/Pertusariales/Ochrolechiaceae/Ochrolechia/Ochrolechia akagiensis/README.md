@@ -1,5 +1,4 @@
-Ochrolechia akagiensis Yasuda SPECIES
-=======
+# Ochrolechia akagiensis Yasuda SPECIES
 
 #### Status
 ACCEPTED

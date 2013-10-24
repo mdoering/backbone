@@ -1,5 +1,4 @@
-Phlegmacium arcifolium (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium arcifolium (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

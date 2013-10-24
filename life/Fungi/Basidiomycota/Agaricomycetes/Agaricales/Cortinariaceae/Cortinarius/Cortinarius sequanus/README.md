@@ -1,5 +1,4 @@
-Cortinarius sequanus Rob. Henry SPECIES
-=======
+# Cortinarius sequanus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

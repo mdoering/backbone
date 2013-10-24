@@ -1,5 +1,4 @@
-Euglena megalithus Skuja SPECIES
-=======
+# Euglena megalithus Skuja SPECIES
 
 #### Status
 ACCEPTED

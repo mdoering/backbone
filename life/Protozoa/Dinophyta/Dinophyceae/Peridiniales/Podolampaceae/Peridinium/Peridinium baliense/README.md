@@ -1,5 +1,4 @@
-Peridinium baliense E.R. Lindemann SPECIES
-=======
+# Peridinium baliense E.R. Lindemann SPECIES
 
 #### Status
 ACCEPTED

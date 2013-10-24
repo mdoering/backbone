@@ -1,5 +1,4 @@
-Oidium lacertae Stutzer {?} SPECIES
-=======
+# Oidium lacertae Stutzer {?} SPECIES
 
 #### Status
 ACCEPTED

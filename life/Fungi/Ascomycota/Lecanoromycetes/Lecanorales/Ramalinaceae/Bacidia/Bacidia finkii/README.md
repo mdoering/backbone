@@ -1,5 +1,4 @@
-Bacidia finkii (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia finkii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

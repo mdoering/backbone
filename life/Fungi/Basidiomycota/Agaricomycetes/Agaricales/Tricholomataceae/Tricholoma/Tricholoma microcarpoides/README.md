@@ -1,5 +1,4 @@
-Tricholoma microcarpoides Corner SPECIES
-=======
+# Tricholoma microcarpoides Corner SPECIES
 
 #### Status
 ACCEPTED

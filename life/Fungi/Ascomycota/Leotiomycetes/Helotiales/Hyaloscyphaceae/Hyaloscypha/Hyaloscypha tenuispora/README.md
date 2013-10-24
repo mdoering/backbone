@@ -1,5 +1,4 @@
-Hyaloscypha tenuispora Velen. SPECIES
-=======
+# Hyaloscypha tenuispora Velen. SPECIES
 
 #### Status
 ACCEPTED

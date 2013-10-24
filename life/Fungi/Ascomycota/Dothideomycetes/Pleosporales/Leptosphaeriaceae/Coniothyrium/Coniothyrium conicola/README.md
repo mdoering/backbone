@@ -1,5 +1,4 @@
-Coniothyrium conicola Vestergr., 1902 SPECIES
-=======
+# Coniothyrium conicola Vestergr., 1902 SPECIES
 
 #### Status
 ACCEPTED

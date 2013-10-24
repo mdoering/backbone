@@ -1,5 +1,4 @@
-Drechslera palmicola (Speg.) F. Anderson, Bianchin. & U. Braun SPECIES
-=======
+# Drechslera palmicola (Speg.) F. Anderson, Bianchin. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

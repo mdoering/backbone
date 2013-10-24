@@ -1,5 +1,4 @@
-Vaucheria prescottii Islam SPECIES
-=======
+# Vaucheria prescottii Islam SPECIES
 
 #### Status
 ACCEPTED

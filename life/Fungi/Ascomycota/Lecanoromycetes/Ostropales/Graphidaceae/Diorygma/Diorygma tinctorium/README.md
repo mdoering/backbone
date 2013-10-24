@@ -1,5 +1,4 @@
-Diorygma tinctorium Eschw. SPECIES
-=======
+# Diorygma tinctorium Eschw. SPECIES
 
 #### Status
 ACCEPTED

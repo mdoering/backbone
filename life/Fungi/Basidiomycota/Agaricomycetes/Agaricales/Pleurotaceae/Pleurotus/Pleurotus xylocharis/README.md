@@ -1,5 +1,4 @@
-Pleurotus xylocharis Mouton SPECIES
-=======
+# Pleurotus xylocharis Mouton SPECIES
 
 #### Status
 ACCEPTED

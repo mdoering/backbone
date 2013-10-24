@@ -1,5 +1,4 @@
-Usnea pictoides G. Awasthi SPECIES
-=======
+# Usnea pictoides G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

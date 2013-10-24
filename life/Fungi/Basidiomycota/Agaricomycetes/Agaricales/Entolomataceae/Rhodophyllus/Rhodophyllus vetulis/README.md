@@ -1,5 +1,4 @@
-Rhodophyllus vetulis Romagn. SPECIES
-=======
+# Rhodophyllus vetulis Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster deflandrei Bramlette & Riedel, 1954 SPECIES
-=======
+# Discoaster deflandrei Bramlette & Riedel, 1954 SPECIES
 
 #### Status
 ACCEPTED

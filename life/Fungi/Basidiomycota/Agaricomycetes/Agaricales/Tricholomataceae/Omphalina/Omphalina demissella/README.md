@@ -1,5 +1,4 @@
-Omphalina demissella M. Lange SPECIES
-=======
+# Omphalina demissella M. Lange SPECIES
 
 #### Status
 ACCEPTED

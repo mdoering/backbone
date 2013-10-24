@@ -1,5 +1,4 @@
-Remototrachyna kingii (Hale) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna kingii (Hale) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Durella connivens var. connivens VARIETY
-=======
+# Durella connivens (Fr.) Rehm, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascom. Ill. no. 18 (1881)
+Ascom. Ill. 3: no. 18 (1881)
 
 #### Original name
-Durella connivens var. connivens
+null
 
 ### Remarks
 null

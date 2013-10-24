@@ -1,17 +1,16 @@
-Hypoxylon nummularioides var. nummularioides Rehm VARIETY
-=======
+# Nemania nummularioides (Rehm) G.J.D. Sm. & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leafl. of Philipp. Bot. 6: 2272 (1914)
+Fungal Diversity 7: 119 (2001)
 
 #### Original name
-Hypoxylon nummularioides var. nummularioides Rehm
+Hypoxylon nummularioides Rehm, 1914
 
 ### Remarks
 null

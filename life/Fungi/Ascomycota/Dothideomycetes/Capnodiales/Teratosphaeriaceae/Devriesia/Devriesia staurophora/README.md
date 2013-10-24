@@ -1,5 +1,4 @@
-Devriesia staurophora (W.B. Kendr.) Seifert & N.L. Nick., 2004 SPECIES
-=======
+# Devriesia staurophora (W.B. Kendr.) Seifert & N.L. Nick., 2004 SPECIES
 
 #### Status
 ACCEPTED

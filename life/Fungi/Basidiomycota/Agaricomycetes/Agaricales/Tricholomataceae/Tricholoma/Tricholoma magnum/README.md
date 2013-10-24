@@ -1,5 +1,4 @@
-Tricholoma magnum Banning & Peck SPECIES
-=======
+# Tricholoma magnum Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza ascoboloides De Not. SPECIES
-=======
+# Peziza ascoboloides De Not. SPECIES
 
 #### Status
 ACCEPTED

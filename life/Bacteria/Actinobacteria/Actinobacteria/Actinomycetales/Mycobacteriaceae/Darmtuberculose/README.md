@@ -1,5 +1,4 @@
-Darmtuberculose GENUS
-=======
+# Darmtuberculose GENUS
 
 #### Status
 ACCEPTED

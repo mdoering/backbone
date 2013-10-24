@@ -1,5 +1,4 @@
-Protousnea poeppigii (Nees & Flot.) Krog SPECIES
-=======
+# Protousnea poeppigii (Nees & Flot.) Krog SPECIES
 
 #### Status
 ACCEPTED

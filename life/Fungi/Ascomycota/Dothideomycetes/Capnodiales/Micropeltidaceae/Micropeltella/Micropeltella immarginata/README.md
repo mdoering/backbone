@@ -1,5 +1,4 @@
-Micropeltella immarginata (Rehm) F. Stevens & Manter SPECIES
-=======
+# Micropeltella immarginata (Rehm) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

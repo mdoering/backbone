@@ -1,5 +1,4 @@
-Peridermium occidentale Butt. {?} SPECIES
-=======
+# Peridermium occidentale Butt. {?} SPECIES
 
 #### Status
 ACCEPTED

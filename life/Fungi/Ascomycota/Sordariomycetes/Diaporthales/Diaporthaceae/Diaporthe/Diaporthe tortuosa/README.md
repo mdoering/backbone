@@ -1,14 +1,13 @@
-Valsa tortuosa (Fr.) Fuckel, 1874 SPECIES
-=======
+# Diaporthe tortuosa (Fr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 630 (1882)
 
 #### Original name
 Sphaeria tortuosa Fr., 1823

@@ -1,5 +1,4 @@
-Sphingobium rhizovicinum Chiu-Chung Young, 2008 accepted SPECIES
-=======
+# Sphingobium rhizovicinum Chiu-Chung Young, 2008 accepted SPECIES
 
 #### Status
 ACCEPTED

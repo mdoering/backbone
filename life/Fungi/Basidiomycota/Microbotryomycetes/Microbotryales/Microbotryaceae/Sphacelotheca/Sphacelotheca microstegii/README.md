@@ -1,5 +1,4 @@
-Sphacelotheca microstegii S. Ahmad SPECIES
-=======
+# Sphacelotheca microstegii S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

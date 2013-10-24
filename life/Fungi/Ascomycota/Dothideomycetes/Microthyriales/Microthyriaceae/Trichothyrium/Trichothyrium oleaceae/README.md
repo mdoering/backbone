@@ -1,5 +1,4 @@
-Trichothyrium oleaceae Gonz. Frag. & Cif. SPECIES
-=======
+# Trichothyrium oleaceae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

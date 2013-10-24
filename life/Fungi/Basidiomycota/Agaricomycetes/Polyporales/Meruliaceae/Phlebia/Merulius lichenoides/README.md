@@ -1,5 +1,4 @@
-Merulius lichenoides (Schrank) J.F. Gmel. SPECIES
-=======
+# Merulius lichenoides (Schrank) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromosporium roseum Corda SPECIES
-=======
+# Chromosporium roseum Corda SPECIES
 
 #### Status
 ACCEPTED

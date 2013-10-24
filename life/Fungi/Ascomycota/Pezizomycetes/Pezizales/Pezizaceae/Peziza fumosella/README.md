@@ -1,5 +1,4 @@
-Peziza fumosella Rehm SPECIES
-=======
+# Peziza fumosella Rehm SPECIES
 
 #### Status
 ACCEPTED

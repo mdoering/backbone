@@ -1,8 +1,7 @@
-Guinardia blavyana H. Peragallo SPECIES
-=======
+# Dactyliosolen blavyanus (H. Peragallo) Hasle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

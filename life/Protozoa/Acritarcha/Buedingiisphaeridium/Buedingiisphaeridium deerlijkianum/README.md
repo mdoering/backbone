@@ -1,5 +1,4 @@
-Buedingiisphaeridium deerlijkianum Martin, 1973 SPECIES
-=======
+# Buedingiisphaeridium deerlijkianum Martin, 1973 SPECIES
 
 #### Status
 ACCEPTED

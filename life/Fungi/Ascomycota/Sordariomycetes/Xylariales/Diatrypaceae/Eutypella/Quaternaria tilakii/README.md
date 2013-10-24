@@ -1,5 +1,4 @@
-Quaternaria tilakii A. Pande & V.G. Rao SPECIES
-=======
+# Quaternaria tilakii A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

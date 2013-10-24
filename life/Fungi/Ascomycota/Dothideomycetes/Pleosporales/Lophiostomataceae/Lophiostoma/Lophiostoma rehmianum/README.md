@@ -1,5 +1,4 @@
-Lophiostoma rehmianum Sacc. SPECIES
-=======
+# Lophiostoma rehmianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

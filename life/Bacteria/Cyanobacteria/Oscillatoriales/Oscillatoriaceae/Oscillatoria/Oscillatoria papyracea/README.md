@@ -1,5 +1,4 @@
-Oscillatoria papyracea C. Agardh SPECIES
-=======
+# Oscillatoria papyracea C. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium pertusariae Jaap SPECIES
-=======
+# Coniosporium pertusariae Jaap SPECIES
 
 #### Status
 ACCEPTED

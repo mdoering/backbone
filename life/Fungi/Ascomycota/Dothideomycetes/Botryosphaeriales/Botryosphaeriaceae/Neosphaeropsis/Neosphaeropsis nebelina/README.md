@@ -1,5 +1,4 @@
-Neosphaeropsis nebelina (Fairm.) Petr. & Syd. SPECIES
-=======
+# Neosphaeropsis nebelina (Fairm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

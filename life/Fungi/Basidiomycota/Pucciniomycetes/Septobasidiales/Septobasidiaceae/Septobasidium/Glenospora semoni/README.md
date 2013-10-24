@@ -1,5 +1,4 @@
-Glenospora semoni Chalm. & R.G. Archibald SPECIES
-=======
+# Glenospora semoni Chalm. & R.G. Archibald SPECIES
 
 #### Status
 ACCEPTED

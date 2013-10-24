@@ -1,5 +1,4 @@
-Aroramyces Castellano & Verbeken GENUS
-=======
+# Aroramyces Castellano & Verbeken GENUS
 
 #### Status
 ACCEPTED

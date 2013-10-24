@@ -1,14 +1,13 @@
-Hysterium degenerans Kunze, 1823 SPECIES
-=======
+# Sporomega degenerans (Fr.) Corda, 1842 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologische Hefte (Leipzig) 2: 60 (1823)
+Icon. fung. (Prague) 5: 34 (1842)
 
 #### Original name
 Hysterium degenerans Kunze, 1823

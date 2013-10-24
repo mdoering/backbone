@@ -1,5 +1,4 @@
-Helotium musicola Speg. SPECIES
-=======
+# Helotium musicola Speg. SPECIES
 
 #### Status
 ACCEPTED

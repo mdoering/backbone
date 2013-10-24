@@ -1,5 +1,4 @@
-Amanita arocheae Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita arocheae Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ornatasphaera elliptica Saxena et al., 1982 SPECIES
-=======
+# Ornatasphaera elliptica Saxena et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

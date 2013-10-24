@@ -1,5 +1,4 @@
-Clitocybe griseoargentea Herp. SPECIES
-=======
+# Clitocybe griseoargentea Herp. SPECIES
 
 #### Status
 ACCEPTED

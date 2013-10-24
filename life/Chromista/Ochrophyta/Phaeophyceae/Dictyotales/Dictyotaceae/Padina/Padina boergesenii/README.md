@@ -1,5 +1,4 @@
-Padina boergesenii Allender & Kraft SPECIES
-=======
+# Padina boergesenii Allender & Kraft SPECIES
 
 #### Status
 ACCEPTED

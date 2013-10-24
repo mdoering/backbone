@@ -1,5 +1,4 @@
-Halteriida ORDER
-=======
+# Halteriida ORDER
 
 #### Status
 ACCEPTED

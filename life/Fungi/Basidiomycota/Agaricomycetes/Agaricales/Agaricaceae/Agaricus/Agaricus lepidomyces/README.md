@@ -1,5 +1,4 @@
-Agaricus lepidomyces Alb. & Schwein. SPECIES
-=======
+# Agaricus lepidomyces Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

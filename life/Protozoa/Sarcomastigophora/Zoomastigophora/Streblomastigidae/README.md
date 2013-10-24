@@ -1,5 +1,4 @@
-Streblomastigidae FAMILY
-=======
+# Streblomastigidae FAMILY
 
 #### Status
 ACCEPTED

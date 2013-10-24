@@ -1,5 +1,4 @@
-Mycosphaerella coptis (Schwein.) House SPECIES
-=======
+# Mycosphaerella coptis (Schwein.) House SPECIES
 
 #### Status
 ACCEPTED

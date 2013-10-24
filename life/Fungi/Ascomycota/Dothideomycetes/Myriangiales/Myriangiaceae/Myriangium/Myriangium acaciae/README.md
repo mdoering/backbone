@@ -1,5 +1,4 @@
-Myriangium acaciae McAlpine SPECIES
-=======
+# Myriangium acaciae McAlpine SPECIES
 
 #### Status
 ACCEPTED

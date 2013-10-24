@@ -1,5 +1,4 @@
-Nyctalina G. Arnaud GENUS
-=======
+# Nyctalina G. Arnaud GENUS
 
 #### Status
 ACCEPTED

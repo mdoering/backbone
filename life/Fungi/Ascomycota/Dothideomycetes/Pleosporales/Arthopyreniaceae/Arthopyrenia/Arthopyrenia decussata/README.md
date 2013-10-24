@@ -1,5 +1,4 @@
-Arthopyrenia decussata Kremp. SPECIES
-=======
+# Arthopyrenia decussata Kremp. SPECIES
 
 #### Status
 ACCEPTED

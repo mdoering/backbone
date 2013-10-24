@@ -1,5 +1,4 @@
-Rutilaria kamyshlovensis R. Ross SPECIES
-=======
+# Rutilaria kamyshlovensis R. Ross SPECIES
 
 #### Status
 ACCEPTED

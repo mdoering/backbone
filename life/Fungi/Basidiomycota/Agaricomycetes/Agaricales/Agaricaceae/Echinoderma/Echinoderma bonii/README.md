@@ -1,5 +1,4 @@
-Echinoderma bonii C.E. Hermos. & Jul. Sánchez SPECIES
-=======
+# Echinoderma bonii C.E. Hermos. & Jul. Sánchez SPECIES
 
 #### Status
 ACCEPTED

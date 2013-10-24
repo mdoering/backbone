@@ -1,5 +1,4 @@
-Aegyria peneckei Lepsi, 1926 SPECIES
-=======
+# Aegyria peneckei Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

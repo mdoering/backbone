@@ -1,5 +1,4 @@
-Dicaeoma vulpinodis (Dietel & Holw.) Kuntze SPECIES
-=======
+# Dicaeoma vulpinodis (Dietel & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

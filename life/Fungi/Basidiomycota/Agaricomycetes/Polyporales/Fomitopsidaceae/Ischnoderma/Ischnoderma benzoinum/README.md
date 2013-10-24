@@ -1,17 +1,16 @@
-Polyporus guttatus Weinm., 1826 SPECIES
-=======
+# Ischnoderma benzoinum (Wahlenb.) P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 2(1): 32 (1881)
 
 #### Original name
-null
+Boletus benzoinus Wahlenb., 1826
 
 ### Remarks
 null

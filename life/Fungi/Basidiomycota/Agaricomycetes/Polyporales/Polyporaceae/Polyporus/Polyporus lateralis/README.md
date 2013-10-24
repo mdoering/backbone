@@ -1,5 +1,4 @@
-Polyporus lateralis Pers., 1827 SPECIES
-=======
+# Polyporus lateralis Pers., 1827 SPECIES
 
 #### Status
 ACCEPTED

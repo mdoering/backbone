@@ -1,5 +1,4 @@
-Nodulisporium cinereovirens (Kunze & J.C. Schmidt) M.B. Ellis SPECIES
-=======
+# Nodulisporium cinereovirens (Kunze & J.C. Schmidt) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

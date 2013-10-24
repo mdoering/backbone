@@ -1,5 +1,4 @@
-Aecidium relhaniae Dippen. SPECIES
-=======
+# Aecidium relhaniae Dippen. SPECIES
 
 #### Status
 ACCEPTED

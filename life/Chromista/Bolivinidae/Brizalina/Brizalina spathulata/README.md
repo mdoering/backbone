@@ -1,5 +1,4 @@
-Brizalina spathulata (Williamson, 1858) SPECIES
-=======
+# Brizalina spathulata (Williamson, 1858) SPECIES
 
 #### Status
 ACCEPTED

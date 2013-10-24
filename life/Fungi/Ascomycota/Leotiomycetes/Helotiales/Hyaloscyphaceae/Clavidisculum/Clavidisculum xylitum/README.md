@@ -1,5 +1,4 @@
-Clavidisculum xylitum (P. Karst.) Raitv. SPECIES
-=======
+# Clavidisculum xylitum (P. Karst.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

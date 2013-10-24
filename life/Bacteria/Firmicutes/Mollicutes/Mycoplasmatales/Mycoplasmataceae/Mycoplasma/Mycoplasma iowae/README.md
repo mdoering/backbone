@@ -1,5 +1,4 @@
-Mycoplasma iowae Jordan et al., 1982 SPECIES
-=======
+# Mycoplasma iowae Jordan et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

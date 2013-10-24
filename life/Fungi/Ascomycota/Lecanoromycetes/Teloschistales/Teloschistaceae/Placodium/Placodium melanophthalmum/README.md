@@ -1,5 +1,4 @@
-Placodium melanophthalmum DC. SPECIES
-=======
+# Placodium melanophthalmum DC. SPECIES
 
 #### Status
 ACCEPTED

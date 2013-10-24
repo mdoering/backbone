@@ -1,5 +1,4 @@
-Chrysosporium olivaceum (Link) J.J. Taylor SPECIES
-=======
+# Chrysosporium olivaceum (Link) J.J. Taylor SPECIES
 
 #### Status
 ACCEPTED

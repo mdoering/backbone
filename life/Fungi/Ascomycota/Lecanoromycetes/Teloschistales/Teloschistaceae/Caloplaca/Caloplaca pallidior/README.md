@@ -1,5 +1,4 @@
-Caloplaca pallidior (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca pallidior (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

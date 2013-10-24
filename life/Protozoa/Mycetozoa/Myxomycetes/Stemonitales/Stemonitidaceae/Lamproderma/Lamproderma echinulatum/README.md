@@ -1,14 +1,13 @@
-Stemonitis echinulata Berk., 1859 SPECIES
-=======
+# Lamproderma echinulatum (Berk.) Rostaf., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Flora Tasman. , Fungi 2: 268 (1859)
+Gewächse des Fichtelgebirg's 25 (1876)
 
 #### Original name
 Stemonitis echinulata Berk., 1859

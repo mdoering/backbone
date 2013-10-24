@@ -1,5 +1,4 @@
-Coniophora kauaiensis Gilb. & Hemmes SPECIES
-=======
+# Coniophora kauaiensis Gilb. & Hemmes SPECIES
 
 #### Status
 ACCEPTED

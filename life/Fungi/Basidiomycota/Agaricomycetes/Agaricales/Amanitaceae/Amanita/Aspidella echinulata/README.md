@@ -1,5 +1,4 @@
-Aspidella echinulata (Beeli) E.-J. Gilbert SPECIES
-=======
+# Aspidella echinulata (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

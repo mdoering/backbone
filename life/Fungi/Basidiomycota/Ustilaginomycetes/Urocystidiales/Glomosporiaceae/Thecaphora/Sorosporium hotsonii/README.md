@@ -1,5 +1,4 @@
-Sorosporium hotsonii Zundel SPECIES
-=======
+# Sorosporium hotsonii Zundel SPECIES
 
 #### Status
 ACCEPTED

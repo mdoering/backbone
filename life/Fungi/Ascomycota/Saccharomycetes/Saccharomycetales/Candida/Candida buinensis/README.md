@@ -1,5 +1,4 @@
-Candida buinensis Soneda & S. Uchida, 1971 SPECIES
-=======
+# Candida buinensis Soneda & S. Uchida, 1971 SPECIES
 
 #### Status
 ACCEPTED

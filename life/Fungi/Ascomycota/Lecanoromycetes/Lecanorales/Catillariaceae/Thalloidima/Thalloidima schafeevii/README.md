@@ -1,5 +1,4 @@
-Thalloidima schafeevii Tomin SPECIES
-=======
+# Thalloidima schafeevii Tomin SPECIES
 
 #### Status
 ACCEPTED

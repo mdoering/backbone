@@ -1,5 +1,4 @@
-Synechococcus rayssae Dor SPECIES
-=======
+# Synechococcus rayssae Dor SPECIES
 
 #### Status
 ACCEPTED

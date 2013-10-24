@@ -1,5 +1,4 @@
-Phyllachora truncatispora (Viégas) Bat. & H. Maia, 1967 SPECIES
-=======
+# Phyllachora truncatispora (Viégas) Bat. & H. Maia, 1967 SPECIES
 
 #### Status
 DOUBTFUL

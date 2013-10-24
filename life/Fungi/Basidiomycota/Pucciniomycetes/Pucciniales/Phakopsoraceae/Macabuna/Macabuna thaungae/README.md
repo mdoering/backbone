@@ -1,5 +1,4 @@
-Macabuna thaungae Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Macabuna thaungae Buriticá & J.F. Hennen, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deigloria pulcherrima Agerer, 1980 SPECIES
-=======
+# Deigloria pulcherrima Agerer, 1980 SPECIES
 
 #### Status
 ACCEPTED

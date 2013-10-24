@@ -1,5 +1,4 @@
-Lepiota infundibuliformis Jacobashch SPECIES
-=======
+# Lepiota infundibuliformis Jacobashch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia leptosporiza Vain. SPECIES
-=======
+# Arthopyrenia leptosporiza Vain. SPECIES
 
 #### Status
 ACCEPTED

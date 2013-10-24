@@ -1,5 +1,4 @@
-Aspergillus corolligenus (Massee) Subram. SPECIES
-=======
+# Aspergillus corolligenus (Massee) Subram. SPECIES
 
 #### Status
 ACCEPTED

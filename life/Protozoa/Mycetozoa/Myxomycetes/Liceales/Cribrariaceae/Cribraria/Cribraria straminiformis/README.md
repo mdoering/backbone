@@ -1,5 +1,4 @@
-Cribraria straminiformis Speg. SPECIES
-=======
+# Cribraria straminiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

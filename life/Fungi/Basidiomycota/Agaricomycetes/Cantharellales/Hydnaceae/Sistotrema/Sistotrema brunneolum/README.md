@@ -1,5 +1,4 @@
-Sistotrema brunneolum Spirin & Zmitr. SPECIES
-=======
+# Sistotrema brunneolum Spirin & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

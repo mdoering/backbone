@@ -1,14 +1,13 @@
-Ustilago fagopyri (Syd., P. Syd. & E.J. Butler) Cif., 1959 SPECIES
-=======
+# Sphacelotheca fagopyri Syd., P. Syd. & E.J. Butler, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 5(6): 486 (1907)
 
 #### Original name
 Sphacelotheca fagopyri Syd., P. Syd. & E.J. Butler, 1907

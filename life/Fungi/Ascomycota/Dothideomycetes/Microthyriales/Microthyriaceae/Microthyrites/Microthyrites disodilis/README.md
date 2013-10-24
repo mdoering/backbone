@@ -1,5 +1,4 @@
-Microthyrites disodilis Pampal. SPECIES
-=======
+# Microthyrites disodilis Pampal. SPECIES
 
 #### Status
 ACCEPTED

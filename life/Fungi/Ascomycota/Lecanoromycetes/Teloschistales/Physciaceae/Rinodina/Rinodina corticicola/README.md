@@ -1,5 +1,4 @@
-Rinodina corticicola (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Rinodina corticicola (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

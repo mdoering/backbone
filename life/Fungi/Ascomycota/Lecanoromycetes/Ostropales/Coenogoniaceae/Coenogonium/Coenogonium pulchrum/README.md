@@ -1,5 +1,4 @@
-Coenogonium pulchrum (Müll. Arg.) Kalb SPECIES
-=======
+# Coenogonium pulchrum (Müll. Arg.) Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

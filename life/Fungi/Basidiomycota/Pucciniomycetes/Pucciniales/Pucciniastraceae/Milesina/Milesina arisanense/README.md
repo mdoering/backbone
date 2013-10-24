@@ -1,5 +1,4 @@
-Milesina arisanense Hirats. SPECIES
-=======
+# Milesina arisanense Hirats. SPECIES
 
 #### Status
 ACCEPTED

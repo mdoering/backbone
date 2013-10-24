@@ -1,5 +1,4 @@
-Didymella maculiformis G. Winter SPECIES
-=======
+# Didymella maculiformis G. Winter SPECIES
 
 #### Status
 ACCEPTED

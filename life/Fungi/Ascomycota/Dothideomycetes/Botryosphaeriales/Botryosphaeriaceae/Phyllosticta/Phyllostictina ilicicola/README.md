@@ -1,5 +1,4 @@
-Phyllostictina ilicicola (Cooke & Ellis) Höhn. SPECIES
-=======
+# Phyllostictina ilicicola (Cooke & Ellis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

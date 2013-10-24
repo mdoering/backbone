@@ -1,5 +1,4 @@
-Oospora tomentella Speg. SPECIES
-=======
+# Oospora tomentella Speg. SPECIES
 
 #### Status
 ACCEPTED

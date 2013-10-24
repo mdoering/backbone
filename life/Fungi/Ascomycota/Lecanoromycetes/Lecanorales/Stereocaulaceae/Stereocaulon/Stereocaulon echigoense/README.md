@@ -1,5 +1,4 @@
-Stereocaulon echigoense (Asahina) I.M. Lamb SPECIES
-=======
+# Stereocaulon echigoense (Asahina) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

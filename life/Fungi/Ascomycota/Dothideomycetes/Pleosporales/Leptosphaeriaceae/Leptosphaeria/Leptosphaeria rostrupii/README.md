@@ -1,5 +1,4 @@
-Leptosphaeria rostrupii Sacc. & D. Sacc. SPECIES
-=======
+# Leptosphaeria rostrupii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

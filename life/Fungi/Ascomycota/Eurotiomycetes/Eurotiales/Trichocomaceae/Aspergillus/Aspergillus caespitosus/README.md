@@ -1,5 +1,4 @@
-Aspergillus caespitosus Raper & Thom, 1944 SPECIES
-=======
+# Aspergillus caespitosus Raper & Thom, 1944 SPECIES
 
 #### Status
 ACCEPTED

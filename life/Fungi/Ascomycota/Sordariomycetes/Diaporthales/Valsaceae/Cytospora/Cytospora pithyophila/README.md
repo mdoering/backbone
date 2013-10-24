@@ -1,5 +1,4 @@
-Cytospora pithyophila Westend. SPECIES
-=======
+# Cytospora pithyophila Westend. SPECIES
 
 #### Status
 ACCEPTED

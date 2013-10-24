@@ -1,5 +1,4 @@
-Cortinarius pseudoporphyropus Gasparini SPECIES
-=======
+# Cortinarius pseudoporphyropus Gasparini SPECIES
 
 #### Status
 ACCEPTED

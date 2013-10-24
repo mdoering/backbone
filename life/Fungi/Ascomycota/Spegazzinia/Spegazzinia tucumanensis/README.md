@@ -1,5 +1,4 @@
-Spegazzinia tucumanensis Speg. SPECIES
-=======
+# Spegazzinia tucumanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

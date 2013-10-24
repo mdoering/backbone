@@ -1,5 +1,4 @@
-Heterogloea planctonica (Pascher) Pascher SPECIES
-=======
+# Heterogloea planctonica (Pascher) Pascher SPECIES
 
 #### Status
 ACCEPTED

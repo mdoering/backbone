@@ -1,5 +1,4 @@
-Irenopsis macarangae Hansf. SPECIES
-=======
+# Irenopsis macarangae Hansf. SPECIES
 
 #### Status
 ACCEPTED

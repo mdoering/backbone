@@ -1,5 +1,4 @@
-Cortinarius fulgorubeolus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius fulgorubeolus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

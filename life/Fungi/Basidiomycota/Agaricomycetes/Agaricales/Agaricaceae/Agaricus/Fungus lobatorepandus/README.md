@@ -1,5 +1,4 @@
-Fungus lobatorepandus (V. Brig..) Kuntze SPECIES
-=======
+# Fungus lobatorepandus (V. Brig..) Kuntze SPECIES
 
 #### Status
 ACCEPTED

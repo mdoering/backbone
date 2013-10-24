@@ -1,5 +1,4 @@
-Tricholoma michiganense A.H. Sm. SPECIES
-=======
+# Tricholoma michiganense A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

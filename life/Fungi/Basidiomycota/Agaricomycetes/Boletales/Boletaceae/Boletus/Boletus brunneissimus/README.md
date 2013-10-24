@@ -1,5 +1,4 @@
-Boletus brunneissimus W.F. Chiu SPECIES
-=======
+# Boletus brunneissimus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

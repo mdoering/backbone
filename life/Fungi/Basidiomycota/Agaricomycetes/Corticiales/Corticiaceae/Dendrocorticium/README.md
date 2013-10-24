@@ -1,5 +1,4 @@
-Dendrocorticium M.J. Larsen & Gilb. GENUS
-=======
+# Dendrocorticium M.J. Larsen & Gilb. GENUS
 
 #### Status
 ACCEPTED

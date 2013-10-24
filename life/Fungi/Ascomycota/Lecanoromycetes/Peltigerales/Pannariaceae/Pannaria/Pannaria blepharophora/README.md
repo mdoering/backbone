@@ -1,5 +1,4 @@
-Pannaria blepharophora (Bél.) Hue SPECIES
-=======
+# Pannaria blepharophora (Bél.) Hue SPECIES
 
 #### Status
 ACCEPTED

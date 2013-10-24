@@ -1,17 +1,16 @@
-Pseudocoprinus Kühner GENUS
-=======
+# Coprinus Persoon, 1797 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Botaniste 20: 155 (1928)
+null
 
 #### Original name
-Pseudocoprinus Kühner
+null
 
 ### Remarks
 null

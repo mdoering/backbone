@@ -1,5 +1,4 @@
-Gymnopus physcopodius (Mont.) Murrill SPECIES
-=======
+# Gymnopus physcopodius (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

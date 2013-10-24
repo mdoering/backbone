@@ -1,5 +1,4 @@
-Pertusaria gallica B. de Lesd. SPECIES
-=======
+# Pertusaria gallica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma capniocephalus (Bull.) Fr. SPECIES
-=======
+# Hebeloma capniocephalus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

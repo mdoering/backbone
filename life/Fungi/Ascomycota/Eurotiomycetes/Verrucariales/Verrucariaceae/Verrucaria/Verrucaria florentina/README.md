@@ -1,5 +1,4 @@
-Verrucaria florentina Zschacke SPECIES
-=======
+# Verrucaria florentina Zschacke SPECIES
 
 #### Status
 ACCEPTED

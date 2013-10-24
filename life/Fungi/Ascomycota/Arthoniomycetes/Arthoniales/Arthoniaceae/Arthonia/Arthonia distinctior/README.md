@@ -1,5 +1,4 @@
-Arthonia distinctior Norman SPECIES
-=======
+# Arthonia distinctior Norman SPECIES
 
 #### Status
 ACCEPTED

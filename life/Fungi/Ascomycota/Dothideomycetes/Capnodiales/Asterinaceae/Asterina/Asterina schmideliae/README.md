@@ -1,5 +1,4 @@
-Asterina schmideliae Gaillard SPECIES
-=======
+# Asterina schmideliae Gaillard SPECIES
 
 #### Status
 ACCEPTED

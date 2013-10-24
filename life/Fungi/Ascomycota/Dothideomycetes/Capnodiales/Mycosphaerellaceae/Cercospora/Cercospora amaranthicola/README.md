@@ -1,5 +1,4 @@
-Cercospora amaranthicola J.M. Yen SPECIES
-=======
+# Cercospora amaranthicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

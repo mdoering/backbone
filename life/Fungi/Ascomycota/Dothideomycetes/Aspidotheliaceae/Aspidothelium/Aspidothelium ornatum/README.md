@@ -1,5 +1,4 @@
-Aspidothelium ornatum Lücking SPECIES
-=======
+# Aspidothelium ornatum Lücking SPECIES
 
 #### Status
 ACCEPTED

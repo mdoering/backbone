@@ -1,5 +1,4 @@
-Meliola dysoxyli-nitidi B. Huguenin SPECIES
-=======
+# Meliola dysoxyli-nitidi B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractobolus stipiticola (Schwein.) Kuntze SPECIES
-=======
+# Atractobolus stipiticola (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

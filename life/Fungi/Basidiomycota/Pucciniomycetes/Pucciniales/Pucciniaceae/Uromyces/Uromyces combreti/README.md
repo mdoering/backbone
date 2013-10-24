@@ -1,5 +1,4 @@
-Uromyces combreti Thaung SPECIES
-=======
+# Uromyces combreti Thaung SPECIES
 
 #### Status
 ACCEPTED

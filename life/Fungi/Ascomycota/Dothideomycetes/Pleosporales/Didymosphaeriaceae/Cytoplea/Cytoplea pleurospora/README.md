@@ -1,5 +1,4 @@
-Cytoplea pleurospora Petr. SPECIES
-=======
+# Cytoplea pleurospora Petr. SPECIES
 
 #### Status
 ACCEPTED

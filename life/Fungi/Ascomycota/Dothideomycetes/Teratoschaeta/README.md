@@ -1,5 +1,4 @@
-Teratoschaeta Bat. & O.M. Fonseca GENUS
-=======
+# Teratoschaeta Bat. & O.M. Fonseca GENUS
 
 #### Status
 ACCEPTED

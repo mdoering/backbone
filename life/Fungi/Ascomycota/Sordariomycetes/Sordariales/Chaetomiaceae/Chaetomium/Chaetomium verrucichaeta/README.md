@@ -1,5 +1,4 @@
-Chaetomium verrucichaeta Natarajan SPECIES
-=======
+# Chaetomium verrucichaeta Natarajan SPECIES
 
 #### Status
 ACCEPTED

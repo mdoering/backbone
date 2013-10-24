@@ -1,17 +1,16 @@
-Phyllachora impressa (Fr.) Sacc., 1883 SPECIES
-=======
+# Diplocarpon impressum (Fr.) L. Holm & K. Holm, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 21: 568 (1977)
 
 #### Original name
-null
+Dothidea impressa Fr., 1823
 
 ### Remarks
 null

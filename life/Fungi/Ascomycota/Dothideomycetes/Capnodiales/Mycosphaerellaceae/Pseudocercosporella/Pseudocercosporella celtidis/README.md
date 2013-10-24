@@ -1,5 +1,4 @@
-Pseudocercosporella celtidis (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Pseudocercosporella celtidis (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

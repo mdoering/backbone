@@ -1,5 +1,4 @@
-Acetobacterium woodii Balch et al., 1977 (Approved Lists, 1980) SPECIES
-=======
+# Acetobacterium woodii Balch et al., 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

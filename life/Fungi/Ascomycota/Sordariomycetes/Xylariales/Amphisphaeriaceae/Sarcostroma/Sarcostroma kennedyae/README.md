@@ -1,14 +1,13 @@
-Amphichaeta kennedyae McAlpine SPECIES
-=======
+# Sarcostroma kennedyae (McAlpine) M. Morelet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 29: 119 (1904)
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 37(4): 233 (1985)
 
 #### Original name
 Amphichaeta kennedyae McAlpine

@@ -1,5 +1,4 @@
-Strombomonas cylindrica var. minor V. Conforti & G.-J. Joo VARIETY
-=======
+# Strombomonas cylindrica V. Conforti & G.-J. Jo SPECIES
 
 #### Status
 ACCEPTED

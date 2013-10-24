@@ -1,5 +1,4 @@
-Pyrenula sublaevigata (Patw. & Makhija) Upreti SPECIES
-=======
+# Pyrenula sublaevigata (Patw. & Makhija) Upreti SPECIES
 
 #### Status
 ACCEPTED

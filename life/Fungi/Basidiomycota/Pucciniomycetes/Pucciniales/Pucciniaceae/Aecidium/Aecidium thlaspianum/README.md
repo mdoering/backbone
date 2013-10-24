@@ -1,17 +1,16 @@
-Aecidium thlaspinum Syd. & P. Syd. SPECIES
-=======
+# Aecidium thlaspianum Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 52(5): 183 (1902)
 
 #### Original name
-Aecidium thlaspinum Syd. & P. Syd.
+Aecidium thlaspianum Syd. & P. Syd.
 
 ### Remarks
 null

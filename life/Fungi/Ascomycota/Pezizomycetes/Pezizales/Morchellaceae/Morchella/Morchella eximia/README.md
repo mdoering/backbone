@@ -1,5 +1,4 @@
-Morchella eximia f. eximia FORM
-=======
+# Morchella eximia Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Morchella eximia f. eximia
+Morchella eximia Boud.
 
 ### Remarks
 null

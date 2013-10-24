@@ -1,5 +1,4 @@
-Mycosphaerella queenslandica Sivan. & R.G. Shivas SPECIES
-=======
+# Mycosphaerella queenslandica Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

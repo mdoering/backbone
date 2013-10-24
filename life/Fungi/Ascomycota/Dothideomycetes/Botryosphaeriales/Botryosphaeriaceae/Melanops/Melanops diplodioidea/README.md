@@ -1,5 +1,4 @@
-Melanops diplodioidea (Durieu & Mont.) Weese SPECIES
-=======
+# Melanops diplodioidea (Durieu & Mont.) Weese SPECIES
 
 #### Status
 ACCEPTED

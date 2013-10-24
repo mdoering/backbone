@@ -1,5 +1,4 @@
-Ploioderma destruens Y.R. Lin & C.L. Hou SPECIES
-=======
+# Ploioderma destruens Y.R. Lin & C.L. Hou SPECIES
 
 #### Status
 ACCEPTED

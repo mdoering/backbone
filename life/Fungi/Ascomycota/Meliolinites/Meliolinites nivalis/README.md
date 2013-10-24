@@ -1,5 +1,4 @@
-Meliolinites nivalis Selkirk SPECIES
-=======
+# Meliolinites nivalis Selkirk SPECIES
 
 #### Status
 ACCEPTED

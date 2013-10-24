@@ -1,5 +1,4 @@
-Cladonia subreticulata Ahti SPECIES
-=======
+# Cladonia subreticulata Ahti SPECIES
 
 #### Status
 ACCEPTED

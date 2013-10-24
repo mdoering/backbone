@@ -1,5 +1,4 @@
-Bacidia tenera (Lönnr.) Blomb. & Forssell SPECIES
-=======
+# Bacidia tenera (Lönnr.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

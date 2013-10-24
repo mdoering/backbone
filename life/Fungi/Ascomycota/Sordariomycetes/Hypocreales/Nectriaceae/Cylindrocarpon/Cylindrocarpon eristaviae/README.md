@@ -1,5 +1,4 @@
-Cylindrocarpon eristaviae Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon eristaviae Schischkina & Tsanava SPECIES
 
 #### Status
 ACCEPTED

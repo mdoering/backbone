@@ -1,8 +1,7 @@
-Doliocystis heterocephala Mingazzini, 1891 SPECIES
-=======
+# Lecudina heterocephala Mingazzini, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

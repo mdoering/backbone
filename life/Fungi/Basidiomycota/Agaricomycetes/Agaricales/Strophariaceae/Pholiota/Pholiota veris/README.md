@@ -1,5 +1,4 @@
-Pholiota veris A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota veris A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

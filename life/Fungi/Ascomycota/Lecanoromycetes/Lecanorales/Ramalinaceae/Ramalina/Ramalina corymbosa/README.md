@@ -1,5 +1,4 @@
-Ramalina corymbosa (Hue) Kotlov SPECIES
-=======
+# Ramalina corymbosa (Hue) Kotlov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia colletiae Speg. SPECIES
-=======
+# Diplodia colletiae Speg. SPECIES
 
 #### Status
 ACCEPTED

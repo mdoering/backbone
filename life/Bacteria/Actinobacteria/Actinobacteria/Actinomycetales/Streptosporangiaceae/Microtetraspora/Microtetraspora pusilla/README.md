@@ -1,5 +1,4 @@
-Microtetraspora pusilla (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora pusilla (Nonomura & Ohara, 1971) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Asterotheca minoensis (Hara) Hara, 1957 SPECIES
-=======
+# Astrosphaeriella minoensis (Hara) D. Hawksw., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hawksworth & Boise, Sydowia 38: 118 (1986)
 
 #### Original name
-null
+Leptosphaeria minoensis Hara, 1913
 
 ### Remarks
 null

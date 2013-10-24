@@ -1,17 +1,16 @@
-Polystictus cyclodes var. homoporus Sacc. VARIETY
-=======
+# Funalia polyzona (Pers.) Niemelä, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Härkönen, Niemelä & Mwasumbi, Norrlinia 10: 190 (2003)
 
 #### Original name
-Polystictus cyclodes var. homoporus Sacc.
+Polyporus polyzonus Pers., 1827
 
 ### Remarks
 null

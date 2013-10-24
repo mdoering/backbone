@@ -1,5 +1,4 @@
-Rhizophydium cladophorale (Kobayasi & Ookubo) Sparrow SPECIES
-=======
+# Rhizophydium cladophorale (Kobayasi & Ookubo) Sparrow SPECIES
 
 #### Status
 ACCEPTED

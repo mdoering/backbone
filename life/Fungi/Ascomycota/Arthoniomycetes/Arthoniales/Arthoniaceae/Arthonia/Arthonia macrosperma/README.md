@@ -1,5 +1,4 @@
-Arthonia macrosperma (Zahlbr.) R. Sant. SPECIES
-=======
+# Arthonia macrosperma (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

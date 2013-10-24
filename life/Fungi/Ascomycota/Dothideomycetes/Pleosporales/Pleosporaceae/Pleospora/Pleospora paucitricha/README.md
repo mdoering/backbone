@@ -1,5 +1,4 @@
-Pleospora paucitricha Fuckel SPECIES
-=======
+# Pleospora paucitricha Fuckel SPECIES
 
 #### Status
 ACCEPTED

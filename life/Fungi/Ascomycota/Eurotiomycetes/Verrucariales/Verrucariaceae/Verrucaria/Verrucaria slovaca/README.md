@@ -1,5 +1,4 @@
-Verrucaria slovaca Servít SPECIES
-=======
+# Verrucaria slovaca Servít SPECIES
 
 #### Status
 ACCEPTED

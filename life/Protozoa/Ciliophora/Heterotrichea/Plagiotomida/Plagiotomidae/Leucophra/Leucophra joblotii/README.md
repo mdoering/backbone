@@ -1,5 +1,4 @@
-Leucophra joblotii Bory, 1824 SPECIES
-=======
+# Leucophra joblotii Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

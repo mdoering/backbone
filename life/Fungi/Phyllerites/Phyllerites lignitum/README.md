@@ -1,5 +1,4 @@
-Phyllerites lignitum (Ettingsh.) Mesch. SPECIES
-=======
+# Phyllerites lignitum (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

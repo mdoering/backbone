@@ -1,8 +1,7 @@
-Dimeregrammopsis M.Ricard, 1987 GENUS
-=======
+# Talaroneis W.H.C.F.Kooistra & M.De Stefano, 2004 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

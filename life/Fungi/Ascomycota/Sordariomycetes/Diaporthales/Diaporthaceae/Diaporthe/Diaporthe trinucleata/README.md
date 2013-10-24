@@ -1,5 +1,4 @@
-Diaporthe trinucleata Niessl SPECIES
-=======
+# Diaporthe trinucleata Niessl SPECIES
 
 #### Status
 ACCEPTED

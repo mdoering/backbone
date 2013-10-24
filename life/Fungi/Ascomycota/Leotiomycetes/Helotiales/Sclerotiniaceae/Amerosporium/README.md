@@ -1,17 +1,16 @@
-Amerosporina (Petr.) Petr. GENUS
-=======
+# Amerosporium Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 18: 377 (1965)
+Anal. Soc. cient. argent. 13: 20 (1882)
 
 #### Original name
-null
+Amerosporium Speg.
 
 ### Remarks
 null

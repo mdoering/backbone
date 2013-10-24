@@ -1,5 +1,4 @@
-Guepinia sparassoides Kalchbr. SPECIES
-=======
+# Guepinia sparassoides Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

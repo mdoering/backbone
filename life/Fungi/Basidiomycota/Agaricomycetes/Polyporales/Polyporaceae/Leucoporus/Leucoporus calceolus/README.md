@@ -1,5 +1,4 @@
-Leucoporus calceolus (Bull.) Quél. SPECIES
-=======
+# Leucoporus calceolus (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

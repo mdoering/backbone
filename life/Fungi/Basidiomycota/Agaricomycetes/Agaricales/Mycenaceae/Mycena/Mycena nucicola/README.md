@@ -1,5 +1,4 @@
-Mycena nucicola Huijsman SPECIES
-=======
+# Mycena nucicola Huijsman SPECIES
 
 #### Status
 ACCEPTED

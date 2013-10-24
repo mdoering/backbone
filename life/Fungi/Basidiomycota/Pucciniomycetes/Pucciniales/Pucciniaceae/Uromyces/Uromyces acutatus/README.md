@@ -1,5 +1,4 @@
-Uromyces acutatus Fuckel SPECIES
-=======
+# Uromyces acutatus Fuckel SPECIES
 
 #### Status
 ACCEPTED

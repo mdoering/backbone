@@ -1,5 +1,4 @@
-Dioszegia aurantiaca (B.N. Johri & Bandoni) M. Takash., T. Deák & Nakase SPECIES
-=======
+# Dioszegia aurantiaca (B.N. Johri & Bandoni) M. Takash., T. Deák & Nakase SPECIES
 
 #### Status
 ACCEPTED

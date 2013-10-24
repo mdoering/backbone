@@ -1,5 +1,4 @@
-Amanita subnudipes (Romagn.) Tulloss SPECIES
-=======
+# Amanita subnudipes (Romagn.) Tulloss SPECIES
 
 #### Status
 ACCEPTED

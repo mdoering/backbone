@@ -1,5 +1,4 @@
-Vahlkampfia longicauda Schmoller, 1964 SPECIES
-=======
+# Vahlkampfia longicauda Schmoller, 1964 SPECIES
 
 #### Status
 ACCEPTED

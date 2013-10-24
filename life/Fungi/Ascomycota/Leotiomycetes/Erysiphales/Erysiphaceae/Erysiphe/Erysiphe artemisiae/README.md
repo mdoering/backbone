@@ -1,17 +1,16 @@
-Erysiphe artemisiae var. artemisiae Grev. VARIETY
-=======
+# Erysiphe artemisiae Grev., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Edin. 459 (1824)
 
 #### Original name
-Erysiphe artemisiae var. artemisiae Grev.
+Erysiphe artemisiae Grev., 1824
 
 ### Remarks
 null

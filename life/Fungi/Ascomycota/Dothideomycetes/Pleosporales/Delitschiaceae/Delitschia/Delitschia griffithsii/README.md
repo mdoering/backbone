@@ -1,5 +1,4 @@
-Delitschia griffithsii SPECIES
-=======
+# Delitschia griffithsii SPECIES
 
 #### Status
 ACCEPTED

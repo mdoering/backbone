@@ -1,5 +1,4 @@
-Calosphaeria tumidula Sacc. SPECIES
-=======
+# Calosphaeria tumidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

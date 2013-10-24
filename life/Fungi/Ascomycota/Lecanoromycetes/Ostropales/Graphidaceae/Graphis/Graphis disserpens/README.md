@@ -1,5 +1,4 @@
-Graphis disserpens Nyl. SPECIES
-=======
+# Graphis disserpens Nyl. SPECIES
 
 #### Status
 ACCEPTED

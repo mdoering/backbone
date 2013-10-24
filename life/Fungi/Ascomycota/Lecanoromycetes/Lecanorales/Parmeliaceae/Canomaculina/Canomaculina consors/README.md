@@ -1,14 +1,13 @@
-Parmelina consors (Nyl.) Hale SPECIES
-=======
+# Canomaculina consors (Nyl.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28(5): 482 (1974)
+Mycotaxon 29: 239 (1987)
 
 #### Original name
 Parmelia consors Nyl.

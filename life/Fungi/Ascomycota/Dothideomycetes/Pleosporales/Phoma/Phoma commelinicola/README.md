@@ -1,5 +1,4 @@
-Phoma commelinicola (E. Young) Gruyter, 2002 SPECIES
-=======
+# Phoma commelinicola (E. Young) Gruyter, 2002 SPECIES
 
 #### Status
 ACCEPTED

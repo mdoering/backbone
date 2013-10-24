@@ -1,5 +1,4 @@
-Microthyriella caseariae Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella caseariae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

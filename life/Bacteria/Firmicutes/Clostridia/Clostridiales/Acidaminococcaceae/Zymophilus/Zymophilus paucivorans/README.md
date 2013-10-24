@@ -1,5 +1,4 @@
-Zymophilus paucivorans Schleifer et al., 1990 SPECIES
-=======
+# Zymophilus paucivorans Schleifer et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelagomonadales ORDER
-=======
+# Pelagomonadales ORDER
 
 #### Status
 ACCEPTED

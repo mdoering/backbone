@@ -1,5 +1,4 @@
-Grillita Fuchs, 1967 GENUS
-=======
+# Grillita Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

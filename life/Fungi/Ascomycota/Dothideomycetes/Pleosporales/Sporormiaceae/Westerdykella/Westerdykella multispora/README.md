@@ -1,14 +1,13 @@
-Preussiella multispora (Saito & Minoura ex Cain) Lodha, 1978 SPECIES
-=======
+# Westerdykella multispora (Saito & Minoura ex Cain) Cejp & Milko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Subramanian, Taxonomy of Fungi (Proc. Int. Symp. Madras, 1973) 1: 251 (1978)
+Ceská Mykol. 18: 84 (1964)
 
 #### Original name
 Preussia multispora Saito & Minoura ex Cain, 1961

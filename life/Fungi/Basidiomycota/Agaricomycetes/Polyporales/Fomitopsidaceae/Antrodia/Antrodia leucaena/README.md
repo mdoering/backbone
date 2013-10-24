@@ -1,5 +1,4 @@
-Antrodia leucaena Y.C. Dai & Niemelä, 2002 SPECIES
-=======
+# Antrodia leucaena Y.C. Dai & Niemelä, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyopteris ligulata (Suhr) O.C. Schmidt SPECIES
-=======
+# Dictyopteris ligulata (Suhr) O.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

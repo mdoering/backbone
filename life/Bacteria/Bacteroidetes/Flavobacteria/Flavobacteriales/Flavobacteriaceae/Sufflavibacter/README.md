@@ -1,5 +1,4 @@
-Sufflavibacter Kwon, Yang, Lee, Cho & Kim, 2007 GENUS
-=======
+# Sufflavibacter Kwon, Yang, Lee, Cho & Kim, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas klinostoma Skuja SPECIES
-=======
+# Petalomonas klinostoma Skuja SPECIES
 
 #### Status
 ACCEPTED

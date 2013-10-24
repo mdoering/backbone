@@ -1,8 +1,7 @@
-Globigerina rubra D'orbigny SPECIES
-=======
+# Globigerinoides ruber (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

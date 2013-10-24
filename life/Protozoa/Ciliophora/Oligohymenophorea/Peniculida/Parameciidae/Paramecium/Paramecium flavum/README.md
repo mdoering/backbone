@@ -1,5 +1,4 @@
-Paramecium flavum Fromentel, 1876 SPECIES
-=======
+# Paramecium flavum Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

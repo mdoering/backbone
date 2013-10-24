@@ -1,5 +1,4 @@
-Penicillium mirabile Beliakova & Milko, 1972 SPECIES
-=======
+# Penicillium mirabile Beliakova & Milko, 1972 SPECIES
 
 #### Status
 DOUBTFUL

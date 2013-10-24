@@ -1,17 +1,16 @@
-Entyloma sacintha Vánky SPECIES
-=======
+# Entyloma zacintha Vánky, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 36(2): 474 (1990)
 
 #### Original name
-Entyloma sacintha Vánky
+Entyloma zacintha Vánky, 1990
 
 ### Remarks
 null

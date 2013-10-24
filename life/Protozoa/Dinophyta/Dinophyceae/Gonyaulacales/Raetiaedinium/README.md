@@ -1,5 +1,4 @@
-Raetiaedinium Kirsch, 1991 GENUS
-=======
+# Raetiaedinium Kirsch, 1991 GENUS
 
 #### Status
 ACCEPTED

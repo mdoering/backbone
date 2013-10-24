@@ -1,5 +1,4 @@
-Sphaeria consociata Ellis & Harkn. SPECIES
-=======
+# Sphaeria consociata Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

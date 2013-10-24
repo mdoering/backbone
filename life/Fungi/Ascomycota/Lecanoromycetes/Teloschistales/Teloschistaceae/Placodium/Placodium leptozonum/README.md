@@ -1,5 +1,4 @@
-Placodium leptozonum (Nyl.) Vain. SPECIES
-=======
+# Placodium leptozonum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

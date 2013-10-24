@@ -1,5 +1,4 @@
-Cephalosporium stellatum Harz SPECIES
-=======
+# Cephalosporium stellatum Harz SPECIES
 
 #### Status
 ACCEPTED

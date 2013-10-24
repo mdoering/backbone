@@ -1,5 +1,4 @@
-Eutypa choseniae Lar.N. Vassiljeva SPECIES
-=======
+# Eutypa choseniae Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

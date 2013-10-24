@@ -1,5 +1,4 @@
-Arthonia gibberulosa Ach. SPECIES
-=======
+# Arthonia gibberulosa Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cochleatina Assejeva in Velikanov & Fedonkin, 1983 GENUS
-=======
+# Cochleatina Assejeva in Velikanov & Fedonkin, 1983 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chondromyces robustus SPECIES
-=======
+# Chondromyces robustus SPECIES
 
 #### Status
 ACCEPTED

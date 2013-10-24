@@ -1,5 +1,4 @@
-Pilophoron GENUS
-=======
+# Pilophoron GENUS
 
 #### Status
 ACCEPTED

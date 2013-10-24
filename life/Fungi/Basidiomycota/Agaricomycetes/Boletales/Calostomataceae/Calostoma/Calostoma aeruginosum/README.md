@@ -1,5 +1,4 @@
-Calostoma aeruginosum Massee SPECIES
-=======
+# Calostoma aeruginosum Massee SPECIES
 
 #### Status
 ACCEPTED

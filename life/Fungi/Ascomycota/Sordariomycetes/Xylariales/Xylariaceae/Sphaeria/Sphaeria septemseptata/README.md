@@ -1,5 +1,4 @@
-Sphaeria septemseptata Auersw. SPECIES
-=======
+# Sphaeria septemseptata Auersw. SPECIES
 
 #### Status
 ACCEPTED

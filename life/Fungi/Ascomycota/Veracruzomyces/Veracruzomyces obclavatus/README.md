@@ -1,5 +1,4 @@
-Veracruzomyces obclavatus Mercado, Guarro, Heredia & J. Mena, 2002 SPECIES
-=======
+# Veracruzomyces obclavatus Mercado, Guarro, Heredia & J. Mena, 2002 SPECIES
 
 #### Status
 ACCEPTED

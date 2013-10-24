@@ -1,5 +1,4 @@
-Exosporium calophylli Syd. SPECIES
-=======
+# Exosporium calophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

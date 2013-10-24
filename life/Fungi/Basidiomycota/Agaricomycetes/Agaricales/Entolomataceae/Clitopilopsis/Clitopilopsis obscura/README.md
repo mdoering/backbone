@@ -1,5 +1,4 @@
-Clitopilopsis obscura (Pilát) M.M. Moser SPECIES
-=======
+# Clitopilopsis obscura (Pilát) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

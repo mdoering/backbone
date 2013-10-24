@@ -1,5 +1,4 @@
-Rugulopteryx okamurae (Dawson) I.K.Hwang, W.J.Lee & H.S.Kim, 2009 SPECIES
-=======
+# Rugulopteryx okamurae (Dawson) I.K.Hwang, W.J.Lee & H.S.Kim, 2009 SPECIES
 
 #### Status
 ACCEPTED

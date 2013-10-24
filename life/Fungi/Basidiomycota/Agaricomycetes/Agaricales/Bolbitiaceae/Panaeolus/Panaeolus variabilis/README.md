@@ -1,5 +1,4 @@
-Panaeolus variabilis Overh. SPECIES
-=======
+# Panaeolus variabilis Overh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gyrodinium impudicum S. Fraga & I. Bravo SPECIES
-=======
+# Gymnodinium impudicum (S. Fraga & I. Bravo) G. Hansen & Ø. Moestrup SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

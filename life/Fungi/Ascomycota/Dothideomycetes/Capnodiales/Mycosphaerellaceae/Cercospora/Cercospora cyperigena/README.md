@@ -1,5 +1,4 @@
-Cercospora cyperigena U. Braun & Crous, 2003 SPECIES
-=======
+# Cercospora cyperigena U. Braun & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

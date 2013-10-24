@@ -1,5 +1,4 @@
-Microglaena javanica Groenh. SPECIES
-=======
+# Microglaena javanica Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyothyriella philodendri F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella philodendri F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

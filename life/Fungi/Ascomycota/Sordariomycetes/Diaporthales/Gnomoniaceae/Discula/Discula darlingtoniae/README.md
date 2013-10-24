@@ -1,5 +1,4 @@
-Discula darlingtoniae (Thüm.) Sacc. SPECIES
-=======
+# Discula darlingtoniae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

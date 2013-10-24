@@ -1,5 +1,4 @@
-Septoria schlechteriana Henn. SPECIES
-=======
+# Septoria schlechteriana Henn. SPECIES
 
 #### Status
 ACCEPTED

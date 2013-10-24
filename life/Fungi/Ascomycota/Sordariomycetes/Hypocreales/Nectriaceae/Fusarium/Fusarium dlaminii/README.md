@@ -1,17 +1,16 @@
-Fusarium dlamini Marasas, P.E. Nelson & Toussoun SPECIES
-=======
+# Fusarium dlaminii Marasas, P.E. Nelson & Toussoun, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 77(6): 971 (1986)
 
 #### Original name
-Fusarium dlamini Marasas, P.E. Nelson & Toussoun
+Fusarium dlaminii Marasas, P.E. Nelson & Toussoun, 1986
 
 ### Remarks
 null

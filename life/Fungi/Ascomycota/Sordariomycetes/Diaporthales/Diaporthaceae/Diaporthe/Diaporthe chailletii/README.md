@@ -1,17 +1,16 @@
-Diaporthe chailletii var. molleri Sacc. VARIETY
-=======
+# Diaporthe chailletii Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 2: 276 (1870)
 
 #### Original name
-Diaporthe chailletii var. molleri Sacc.
+Diaporthe chailletii Nitschke, 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phormidium lyngbyaceum Kützing SPECIES
-=======
+# Phormidium lyngbyaceum Kützing SPECIES
 
 #### Status
 ACCEPTED

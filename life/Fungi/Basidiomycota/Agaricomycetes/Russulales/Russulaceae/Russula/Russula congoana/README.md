@@ -1,5 +1,4 @@
-Russula congoana var. djongoensis Buyck VARIETY
-=======
+# Russula congoana Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 58(3-4): 474 (1988)
+null
 
 #### Original name
-Russula congoana var. djongoensis Buyck
+Russula congoana Pat.
 
 ### Remarks
 null

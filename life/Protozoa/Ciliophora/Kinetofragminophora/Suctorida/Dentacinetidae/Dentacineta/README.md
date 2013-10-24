@@ -1,5 +1,4 @@
-Dentacineta Yankovskii, 1978 GENUS
-=======
+# Dentacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ramaria flaviceps var. cremea Corner, K.S. Thind & Anand VARIETY
-=======
+# Ramaria flaviceps Corner, K.S. Thind & Anand, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 39: 475 (1956)
 
 #### Original name
-Ramaria flaviceps var. cremea Corner, K.S. Thind & Anand
+Ramaria flaviceps Corner, K.S. Thind & Anand, 1956
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russula archaea R. Heim SPECIES
-=======
+# Russula archaea R. Heim SPECIES
 
 #### Status
 ACCEPTED

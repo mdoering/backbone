@@ -1,5 +1,4 @@
-Bulbomicrosphaera magnoliae A.Q. Wang SPECIES
-=======
+# Bulbomicrosphaera magnoliae A.Q. Wang SPECIES
 
 #### Status
 ACCEPTED

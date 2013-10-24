@@ -1,5 +1,4 @@
-Hypogymnia bullata Rass. SPECIES
-=======
+# Hypogymnia bullata Rass. SPECIES
 
 #### Status
 ACCEPTED

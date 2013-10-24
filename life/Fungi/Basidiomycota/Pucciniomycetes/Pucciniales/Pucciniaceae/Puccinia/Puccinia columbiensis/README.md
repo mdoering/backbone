@@ -1,5 +1,4 @@
-Puccinia columbiensis Ellis & Everh. SPECIES
-=======
+# Puccinia columbiensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

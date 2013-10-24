@@ -1,5 +1,4 @@
-Edmundmasonia bulbosa D. Rao & P.Rag. Rao SPECIES
-=======
+# Edmundmasonia bulbosa D. Rao & P.Rag. Rao SPECIES
 
 #### Status
 ACCEPTED

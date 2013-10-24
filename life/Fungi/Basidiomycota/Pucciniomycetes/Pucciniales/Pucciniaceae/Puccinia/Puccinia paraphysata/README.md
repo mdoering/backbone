@@ -1,5 +1,4 @@
-Puccinia paraphysata Reichert SPECIES
-=======
+# Puccinia paraphysata Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia subatomaria (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia subatomaria (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodosporidium paludigenum Fell & Tallman, 1980 SPECIES
-=======
+# Rhodosporidium paludigenum Fell & Tallman, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus palmicola Murrill SPECIES
-=======
+# Gymnopilus palmicola Murrill SPECIES
 
 #### Status
 ACCEPTED

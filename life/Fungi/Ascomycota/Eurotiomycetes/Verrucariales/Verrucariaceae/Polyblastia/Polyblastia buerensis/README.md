@@ -1,5 +1,4 @@
-Polyblastia buerensis Zschacke SPECIES
-=======
+# Polyblastia buerensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

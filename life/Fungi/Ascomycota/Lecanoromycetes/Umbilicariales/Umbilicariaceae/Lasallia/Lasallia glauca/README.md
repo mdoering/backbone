@@ -1,5 +1,4 @@
-Lasallia glauca var. glauca VARIETY
-=======
+# Lasallia glauca (Stizenb.) Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lasallia glauca var. glauca
+Umbilicaria glauca Stizenb.
 
 ### Remarks
 null

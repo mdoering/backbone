@@ -1,5 +1,4 @@
-Ampullifera ugandensis Deighton SPECIES
-=======
+# Ampullifera ugandensis Deighton SPECIES
 
 #### Status
 ACCEPTED

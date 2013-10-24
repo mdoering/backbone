@@ -1,5 +1,4 @@
-Arthopyrenia austriaca (Körb.) J. Nowak & Tobol. SPECIES
-=======
+# Arthopyrenia austriaca (Körb.) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

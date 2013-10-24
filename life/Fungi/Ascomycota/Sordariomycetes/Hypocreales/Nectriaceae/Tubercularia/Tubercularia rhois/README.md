@@ -1,5 +1,4 @@
-Tubercularia rhois Halst. SPECIES
-=======
+# Tubercularia rhois Halst. SPECIES
 
 #### Status
 ACCEPTED

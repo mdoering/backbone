@@ -1,5 +1,4 @@
-Diplodina paeoniae Hollós SPECIES
-=======
+# Diplodina paeoniae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora gymnadeniae Hollós SPECIES
-=======
+# Pleospora gymnadeniae Hollós SPECIES
 
 #### Status
 ACCEPTED

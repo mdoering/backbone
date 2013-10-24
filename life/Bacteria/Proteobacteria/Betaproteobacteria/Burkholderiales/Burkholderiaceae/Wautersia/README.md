@@ -1,5 +1,4 @@
-Wautersia Vaneechoutte et al., 2004 GENUS
-=======
+# Wautersia Vaneechoutte et al., 2004 GENUS
 
 #### Status
 ACCEPTED

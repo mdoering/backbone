@@ -1,5 +1,4 @@
-Urceolaria grandinella Müller SPECIES
-=======
+# Urceolaria grandinella Müller SPECIES
 
 #### Status
 ACCEPTED

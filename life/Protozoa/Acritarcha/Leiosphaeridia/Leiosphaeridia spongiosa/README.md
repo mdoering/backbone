@@ -1,5 +1,4 @@
-Leiosphaeridia spongiosa Pocock, 1972 SPECIES
-=======
+# Leiosphaeridia spongiosa Pocock, 1972 SPECIES
 
 #### Status
 ACCEPTED

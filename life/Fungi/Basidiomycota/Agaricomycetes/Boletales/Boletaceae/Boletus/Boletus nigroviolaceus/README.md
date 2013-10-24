@@ -1,5 +1,4 @@
-Boletus nigroviolaceus R. Heim SPECIES
-=======
+# Boletus nigroviolaceus R. Heim SPECIES
 
 #### Status
 ACCEPTED

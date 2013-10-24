@@ -1,5 +1,4 @@
-Valsa lata SPECIES
-=======
+# Valsa lata SPECIES
 
 #### Status
 ACCEPTED

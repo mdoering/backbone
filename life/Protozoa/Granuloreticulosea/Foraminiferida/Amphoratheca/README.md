@@ -1,5 +1,4 @@
-Amphoratheca Mamet & Pinard, 1992 GENUS
-=======
+# Amphoratheca Mamet & Pinard, 1992 GENUS
 
 #### Status
 ACCEPTED

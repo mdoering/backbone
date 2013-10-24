@@ -1,5 +1,4 @@
-Tomentellina grandinioides (Rick) Rick SPECIES
-=======
+# Tomentellina grandinioides (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

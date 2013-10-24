@@ -1,5 +1,4 @@
-Alectoria motykana Bystrek SPECIES
-=======
+# Alectoria motykana Bystrek SPECIES
 
 #### Status
 ACCEPTED

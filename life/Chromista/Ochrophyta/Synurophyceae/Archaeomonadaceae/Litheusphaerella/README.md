@@ -1,5 +1,4 @@
-Litheusphaerella G. Deflandre, 1932 GENUS
-=======
+# Litheusphaerella G. Deflandre, 1932 GENUS
 
 #### Status
 ACCEPTED

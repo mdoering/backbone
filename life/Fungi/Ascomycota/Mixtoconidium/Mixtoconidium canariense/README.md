@@ -1,5 +1,4 @@
-Mixtoconidium canariense Etayo, 1995 SPECIES
-=======
+# Mixtoconidium canariense Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

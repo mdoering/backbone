@@ -1,5 +1,4 @@
-Colonnaria pereximia L.D. Gómez SPECIES
-=======
+# Colonnaria pereximia L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

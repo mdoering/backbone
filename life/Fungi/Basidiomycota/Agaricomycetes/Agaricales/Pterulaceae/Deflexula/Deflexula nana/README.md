@@ -1,5 +1,4 @@
-Deflexula nana (Pat.) Corner SPECIES
-=======
+# Deflexula nana (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

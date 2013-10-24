@@ -1,5 +1,4 @@
-Torula sacchari Corda SPECIES
-=======
+# Torula sacchari Corda SPECIES
 
 #### Status
 ACCEPTED

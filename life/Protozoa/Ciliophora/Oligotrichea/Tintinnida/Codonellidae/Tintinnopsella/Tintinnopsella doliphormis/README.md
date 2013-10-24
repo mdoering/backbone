@@ -1,5 +1,4 @@
-Tintinnopsella doliphormis SPECIES
-=======
+# Tintinnopsella doliphormis SPECIES
 
 #### Status
 ACCEPTED

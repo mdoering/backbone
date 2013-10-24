@@ -1,5 +1,4 @@
-Porina epiphylla var. epiphylla VARIETY
-=======
+# Porina epiphylla Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Essai Crypt. Exot. (Paris) 1: 76 (1825)
 
 #### Original name
-Porina epiphylla var. epiphylla
+Porina epiphylla Fée
 
 ### Remarks
 null

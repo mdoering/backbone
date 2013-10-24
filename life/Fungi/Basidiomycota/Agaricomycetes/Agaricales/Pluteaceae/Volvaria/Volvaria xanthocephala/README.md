@@ -1,5 +1,4 @@
-Volvaria xanthocephala (Berk.) Sacc. SPECIES
-=======
+# Volvaria xanthocephala (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

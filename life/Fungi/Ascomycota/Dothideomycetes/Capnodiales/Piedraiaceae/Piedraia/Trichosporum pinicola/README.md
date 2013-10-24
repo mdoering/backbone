@@ -1,17 +1,16 @@
-Trichosporum pinicolum Dearn. & Barthol. SPECIES
-=======
+# Trichosporum pinicola Dearn. & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 16(4): 174 (1924)
 
 #### Original name
-Trichosporum pinicolum Dearn. & Barthol.
+Trichosporum pinicola Dearn. & Barthol.
 
 ### Remarks
 null

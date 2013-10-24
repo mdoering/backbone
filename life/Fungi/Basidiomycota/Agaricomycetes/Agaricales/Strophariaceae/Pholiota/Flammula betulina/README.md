@@ -1,5 +1,4 @@
-Flammula betulina Peck SPECIES
-=======
+# Flammula betulina Peck SPECIES
 
 #### Status
 ACCEPTED

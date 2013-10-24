@@ -1,5 +1,4 @@
-Chloroscypha thujopsidis (Sawada) T. Kobay. {?} SPECIES
-=======
+# Chloroscypha thujopsidis (Sawada) T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

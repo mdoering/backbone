@@ -1,5 +1,4 @@
-Rosenscheldiella eugeniae Petch SPECIES
-=======
+# Rosenscheldiella eugeniae Petch SPECIES
 
 #### Status
 ACCEPTED

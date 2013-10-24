@@ -1,5 +1,4 @@
-Proselachista Y.P.Lee & Garbary, 1999 GENUS
-=======
+# Proselachista Y.P.Lee & Garbary, 1999 GENUS
 
 #### Status
 ACCEPTED

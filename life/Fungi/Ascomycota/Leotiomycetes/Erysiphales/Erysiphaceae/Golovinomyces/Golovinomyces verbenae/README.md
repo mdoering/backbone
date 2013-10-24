@@ -1,5 +1,4 @@
-Golovinomyces verbenae (Schwein.) V.P. Heluta SPECIES
-=======
+# Golovinomyces verbenae (Schwein.) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

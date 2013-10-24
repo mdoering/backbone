@@ -1,5 +1,4 @@
-Gloeosporiella eucalypti Hansf. SPECIES
-=======
+# Gloeosporiella eucalypti Hansf. SPECIES
 
 #### Status
 ACCEPTED

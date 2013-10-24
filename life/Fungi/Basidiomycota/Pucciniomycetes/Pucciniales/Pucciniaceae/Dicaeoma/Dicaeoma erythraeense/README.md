@@ -1,5 +1,4 @@
-Dicaeoma erythraeense (Pazschke) Kuntze SPECIES
-=======
+# Dicaeoma erythraeense (Pazschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

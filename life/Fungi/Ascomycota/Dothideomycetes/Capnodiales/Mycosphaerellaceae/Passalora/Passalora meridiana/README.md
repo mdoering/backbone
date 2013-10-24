@@ -1,5 +1,4 @@
-Passalora meridiana (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora meridiana (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

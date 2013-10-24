@@ -1,5 +1,4 @@
-Stictis indica Tilak & Nanir SPECIES
-=======
+# Stictis indica Tilak & Nanir SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium spinulosum Zalar, de Hoog & Gunde-Cim. SPECIES
-=======
+# Cladosporium spinulosum Zalar, de Hoog & Gunde-Cim. SPECIES
 
 #### Status
 ACCEPTED

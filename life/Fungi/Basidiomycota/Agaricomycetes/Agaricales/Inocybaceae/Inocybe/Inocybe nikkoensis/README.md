@@ -1,5 +1,4 @@
-Inocybe nikkoensis Kobayasi SPECIES
-=======
+# Inocybe nikkoensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

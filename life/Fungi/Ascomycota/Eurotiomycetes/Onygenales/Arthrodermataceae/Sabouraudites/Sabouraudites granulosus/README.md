@@ -1,5 +1,4 @@
-Sabouraudites granulosus (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites granulosus (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terfezia austroafricana Marasas & Trappe SPECIES
-=======
+# Terfezia austroafricana Marasas & Trappe SPECIES
 
 #### Status
 ACCEPTED

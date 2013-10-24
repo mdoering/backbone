@@ -1,5 +1,4 @@
-Lycoperdon simulatum Peck SPECIES
-=======
+# Lycoperdon simulatum Peck SPECIES
 
 #### Status
 ACCEPTED

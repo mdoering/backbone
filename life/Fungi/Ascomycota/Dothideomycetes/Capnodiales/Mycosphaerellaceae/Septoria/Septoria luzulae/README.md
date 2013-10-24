@@ -1,5 +1,4 @@
-Septoria luzulae J. Schröt. SPECIES
-=======
+# Septoria luzulae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

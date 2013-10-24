@@ -1,5 +1,4 @@
-Aderkomyces rigidus Lücking & Sipman SPECIES
-=======
+# Aderkomyces rigidus Lücking & Sipman SPECIES
 
 #### Status
 ACCEPTED

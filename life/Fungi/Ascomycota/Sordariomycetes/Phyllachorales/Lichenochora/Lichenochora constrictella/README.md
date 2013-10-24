@@ -1,14 +1,13 @@
-Verrucaria constrictella (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lichenochora constrictella (Müll. Arg.) Hafellner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. Tät. St Gall. naturw. Ges. 511 (1882)
+Nova Hedwigia 48(3-4): 359 (1989)
 
 #### Original name
 null

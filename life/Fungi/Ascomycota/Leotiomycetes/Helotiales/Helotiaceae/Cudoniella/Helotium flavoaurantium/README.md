@@ -1,5 +1,4 @@
-Helotium flavoaurantium (Henn.) Rick SPECIES
-=======
+# Helotium flavoaurantium (Henn.) Rick SPECIES
 
 #### Status
 ACCEPTED

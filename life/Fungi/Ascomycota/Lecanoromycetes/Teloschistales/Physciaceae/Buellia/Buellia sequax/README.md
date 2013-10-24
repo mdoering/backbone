@@ -1,14 +1,13 @@
-Lecidea sequax Nyl. SPECIES
-=======
+# Buellia sequax (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 58: 302 (1875)
+Cat. Lich. Univers. 7: 410 (1931)
 
 #### Original name
 Lecidea sequax Nyl.

@@ -1,5 +1,4 @@
-Helicobolomyces Matzer GENUS
-=======
+# Helicobolomyces Matzer GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe conica Singer SPECIES
-=======
+# Rhodocybe conica Singer SPECIES
 
 #### Status
 ACCEPTED

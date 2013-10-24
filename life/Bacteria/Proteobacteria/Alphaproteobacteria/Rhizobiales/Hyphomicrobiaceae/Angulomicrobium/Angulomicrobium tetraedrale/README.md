@@ -1,5 +1,4 @@
-Angulomicrobium tetraedrale Vasil'eva et al., 1986 SPECIES
-=======
+# Angulomicrobium tetraedrale Vasil'eva et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophora caroliniana (Tuck.) Schol. SPECIES
-=======
+# Gyrophora caroliniana (Tuck.) Schol. SPECIES
 
 #### Status
 ACCEPTED

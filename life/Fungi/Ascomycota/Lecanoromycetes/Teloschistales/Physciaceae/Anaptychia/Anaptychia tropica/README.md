@@ -1,5 +1,4 @@
-Anaptychia tropica Kurok. SPECIES
-=======
+# Anaptychia tropica Kurok. SPECIES
 
 #### Status
 ACCEPTED

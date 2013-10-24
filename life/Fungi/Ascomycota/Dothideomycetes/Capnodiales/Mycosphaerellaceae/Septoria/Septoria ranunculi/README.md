@@ -1,5 +1,4 @@
-Septoria ranunculi Westend. SPECIES
-=======
+# Septoria ranunculi Westend. SPECIES
 
 #### Status
 ACCEPTED

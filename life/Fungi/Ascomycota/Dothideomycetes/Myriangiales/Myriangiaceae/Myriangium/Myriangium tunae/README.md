@@ -1,5 +1,4 @@
-Myriangium tunae (Spreng.) Petr. SPECIES
-=======
+# Myriangium tunae (Spreng.) Petr. SPECIES
 
 #### Status
 ACCEPTED

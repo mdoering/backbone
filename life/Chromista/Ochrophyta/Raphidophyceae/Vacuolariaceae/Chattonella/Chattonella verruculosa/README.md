@@ -1,5 +1,4 @@
-Chattonella verruculosa Y. Hara & M. Chihara SPECIES
-=======
+# Chattonella verruculosa Y. Hara & M. Chihara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora laricis-pentandrae Kleb., 1897 SPECIES
-=======
+# Melampsora laricis-pentandrae Kleb., 1897 SPECIES
 
 #### Status
 ACCEPTED

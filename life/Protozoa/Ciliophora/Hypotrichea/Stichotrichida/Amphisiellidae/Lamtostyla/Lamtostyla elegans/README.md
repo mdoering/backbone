@@ -1,8 +1,7 @@
-Amphisiella elegans Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Lamtostyla elegans (Foissner, Agatha & Berger, 2002) Berger, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

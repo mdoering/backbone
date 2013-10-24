@@ -1,5 +1,4 @@
-Hypocrea ascoboloides Rehm SPECIES
-=======
+# Hypocrea ascoboloides Rehm SPECIES
 
 #### Status
 ACCEPTED

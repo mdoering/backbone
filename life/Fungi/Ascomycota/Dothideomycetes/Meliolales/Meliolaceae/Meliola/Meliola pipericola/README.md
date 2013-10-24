@@ -1,5 +1,4 @@
-Meliola pipericola (Hansf.) Cif. SPECIES
-=======
+# Meliola pipericola (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

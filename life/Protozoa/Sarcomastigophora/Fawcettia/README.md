@@ -1,5 +1,4 @@
-Fawcettia McCulloch, 1977 GENUS
-=======
+# Fawcettia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

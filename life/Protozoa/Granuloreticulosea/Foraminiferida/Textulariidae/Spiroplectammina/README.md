@@ -1,5 +1,4 @@
-Spiroplectammina Cushman, 1927 GENUS
-=======
+# Spiroplectammina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

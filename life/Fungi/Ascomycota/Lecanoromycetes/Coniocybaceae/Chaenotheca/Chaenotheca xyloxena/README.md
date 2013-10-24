@@ -1,17 +1,16 @@
-Chaenotheca brunneola f. griseola Vain. FORM
-=======
+# Chaenotheca xyloxena Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. 36: 308 (1934)
 
 #### Original name
-null
+Chaenotheca xyloxena Nádv.
 
 ### Remarks
 null

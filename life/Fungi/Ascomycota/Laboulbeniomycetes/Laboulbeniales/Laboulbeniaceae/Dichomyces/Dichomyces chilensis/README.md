@@ -1,5 +1,4 @@
-Dichomyces chilensis Thaxt. SPECIES
-=======
+# Dichomyces chilensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

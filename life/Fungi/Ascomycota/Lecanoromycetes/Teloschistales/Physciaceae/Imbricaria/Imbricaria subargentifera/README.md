@@ -1,5 +1,4 @@
-Imbricaria subargentifera Nyl. SPECIES
-=======
+# Imbricaria subargentifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

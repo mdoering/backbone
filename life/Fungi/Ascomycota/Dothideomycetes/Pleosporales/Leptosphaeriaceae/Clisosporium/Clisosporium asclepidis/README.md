@@ -1,5 +1,4 @@
-Clisosporium asclepidis (Schulzer & Sacc.) Kuntze SPECIES
-=======
+# Clisosporium asclepidis (Schulzer & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

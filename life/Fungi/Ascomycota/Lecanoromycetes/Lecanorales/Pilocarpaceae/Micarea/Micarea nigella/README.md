@@ -1,5 +1,4 @@
-Micarea nigella Coppins SPECIES
-=======
+# Micarea nigella Coppins SPECIES
 
 #### Status
 ACCEPTED

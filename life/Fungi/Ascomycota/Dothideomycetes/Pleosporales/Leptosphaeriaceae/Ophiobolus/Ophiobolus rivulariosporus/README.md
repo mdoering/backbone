@@ -1,5 +1,4 @@
-Ophiobolus rivulariosporus Starbäck SPECIES
-=======
+# Ophiobolus rivulariosporus Starbäck SPECIES
 
 #### Status
 ACCEPTED

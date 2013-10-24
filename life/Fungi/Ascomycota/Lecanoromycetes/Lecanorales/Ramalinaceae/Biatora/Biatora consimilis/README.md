@@ -1,5 +1,4 @@
-Biatora consimilis (Nyl.) Arnold SPECIES
-=======
+# Biatora consimilis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

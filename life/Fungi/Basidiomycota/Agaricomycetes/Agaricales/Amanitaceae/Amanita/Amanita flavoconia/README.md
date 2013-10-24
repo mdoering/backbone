@@ -1,17 +1,16 @@
-Amanita flavoconia var. inquinata Tulloss, Ovrebo & Halling VARIETY
-=======
+# Amanita flavoconia G.F. Atk., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 66: 30 (1992)
+J. Mycol. 8: 110 (1902)
 
 #### Original name
-Amanita flavoconia var. inquinata Tulloss, Ovrebo & Halling
+Amanita flavoconia G.F. Atk., 1902
 
 ### Remarks
 null

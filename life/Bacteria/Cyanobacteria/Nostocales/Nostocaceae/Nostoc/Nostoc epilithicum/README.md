@@ -1,5 +1,4 @@
-Nostoc epilithicum Ercegovic SPECIES
-=======
+# Nostoc epilithicum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

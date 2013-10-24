@@ -1,5 +1,4 @@
-Gynogonadinium F.Gómez, 2007 GENUS
-=======
+# Gynogonadinium F.Gómez, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria purpurascens SPECIES
-=======
+# Clavaria purpurascens SPECIES
 
 #### Status
 ACCEPTED

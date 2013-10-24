@@ -1,5 +1,4 @@
-Platygraphomyces rimatae Cif. & Tomas. SPECIES
-=======
+# Platygraphomyces rimatae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

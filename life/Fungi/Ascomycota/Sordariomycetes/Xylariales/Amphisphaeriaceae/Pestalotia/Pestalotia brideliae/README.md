@@ -1,5 +1,4 @@
-Pestalotia brideliae C.I. Chen SPECIES
-=======
+# Pestalotia brideliae C.I. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodospira trueperi Pfennig et al., 1998 SPECIES
-=======
+# Rhodospira trueperi Pfennig et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

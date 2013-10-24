@@ -1,5 +1,4 @@
-Cryptothecia scriblitella (Nyl.) Makhija & Patw. SPECIES
-=======
+# Cryptothecia scriblitella (Nyl.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

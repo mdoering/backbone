@@ -1,5 +1,4 @@
-Bathrocalpis Clark & Campbell, 1942 GENUS
-=======
+# Bathrocalpis Clark & Campbell, 1942 GENUS
 
 #### Status
 ACCEPTED

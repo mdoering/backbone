@@ -1,5 +1,4 @@
-Phyllachora japonica Cooke & Massee, 1890 SPECIES
-=======
+# Phyllachora japonica Cooke & Massee, 1890 SPECIES
 
 #### Status
 ACCEPTED

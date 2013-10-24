@@ -1,5 +1,4 @@
-Discosia nobilis Petr. SPECIES
-=======
+# Discosia nobilis Petr. SPECIES
 
 #### Status
 ACCEPTED

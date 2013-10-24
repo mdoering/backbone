@@ -1,5 +1,4 @@
-Xylaria carteri Berk. SPECIES
-=======
+# Xylaria carteri Berk. SPECIES
 
 #### Status
 ACCEPTED

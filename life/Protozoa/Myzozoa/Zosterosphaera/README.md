@@ -1,5 +1,4 @@
-Zosterosphaera Schopf GENUS
-=======
+# Zosterosphaera Schopf GENUS
 
 #### Status
 ACCEPTED

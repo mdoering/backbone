@@ -1,5 +1,4 @@
-Cortinarius pachythrix M.M. Moser SPECIES
-=======
+# Cortinarius pachythrix M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

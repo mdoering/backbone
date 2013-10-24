@@ -1,5 +1,4 @@
-Parmelia pseudolaevior Asahina SPECIES
-=======
+# Parmelia pseudolaevior Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina iranica Esfand. SPECIES
-=======
+# Diplodina iranica Esfand. SPECIES
 
 #### Status
 ACCEPTED

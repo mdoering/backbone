@@ -1,5 +1,4 @@
-Hypoxylon kickxii Westend. SPECIES
-=======
+# Hypoxylon kickxii Westend. SPECIES
 
 #### Status
 ACCEPTED

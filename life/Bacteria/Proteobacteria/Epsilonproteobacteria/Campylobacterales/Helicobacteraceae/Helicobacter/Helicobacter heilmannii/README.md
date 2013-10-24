@@ -1,5 +1,4 @@
-Helicobacter heilmannii O'Rourke et al., 2004. SPECIES
-=======
+# Helicobacter heilmannii O'Rourke et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

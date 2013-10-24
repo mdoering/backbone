@@ -1,5 +1,4 @@
-Schizotrichella lunata E.F. Morris, 1956 SPECIES
-=======
+# Schizotrichella lunata E.F. Morris, 1956 SPECIES
 
 #### Status
 ACCEPTED

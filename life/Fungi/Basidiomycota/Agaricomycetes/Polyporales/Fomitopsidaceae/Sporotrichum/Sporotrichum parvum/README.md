@@ -1,5 +1,4 @@
-Sporotrichum parvum Svilv. SPECIES
-=======
+# Sporotrichum parvum Svilv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo desmium Petch SPECIES
-=======
+# Uredo desmium Petch SPECIES
 
 #### Status
 ACCEPTED

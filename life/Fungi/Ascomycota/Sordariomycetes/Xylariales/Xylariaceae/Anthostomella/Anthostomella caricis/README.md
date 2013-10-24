@@ -1,5 +1,4 @@
-Anthostomella caricis S.M. Francis, 1975 SPECIES
-=======
+# Anthostomella caricis S.M. Francis, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium cantherellum (Ach.) Chevall. SPECIES
-=======
+# Cyphelium cantherellum (Ach.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

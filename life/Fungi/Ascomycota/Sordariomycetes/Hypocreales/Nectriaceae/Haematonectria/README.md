@@ -1,5 +1,4 @@
-Haematonectria Samuels & Nirenberg GENUS
-=======
+# Haematonectria Samuels & Nirenberg GENUS
 
 #### Status
 ACCEPTED

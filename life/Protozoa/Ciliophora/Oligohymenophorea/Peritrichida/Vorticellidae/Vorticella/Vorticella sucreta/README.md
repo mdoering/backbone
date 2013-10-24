@@ -1,5 +1,4 @@
-Vorticella sucreta Dumas, 1930 SPECIES
-=======
+# Vorticella sucreta Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

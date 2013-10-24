@@ -1,5 +1,4 @@
-Ascochyta corchori Hara SPECIES
-=======
+# Ascochyta corchori Hara SPECIES
 
 #### Status
 ACCEPTED

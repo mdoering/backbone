@@ -1,5 +1,4 @@
-Bolivina alata SPECIES
-=======
+# Bolivina alata SPECIES
 
 #### Status
 ACCEPTED

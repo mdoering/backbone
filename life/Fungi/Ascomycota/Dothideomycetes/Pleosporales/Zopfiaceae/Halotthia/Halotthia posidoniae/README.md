@@ -1,14 +1,13 @@
-Amphisphaeria posidoniae (Durieu & Mont.) Ces. & de Not., 1863 SPECIES
-=======
+# Halotthia posidoniae (Durieu & Mont.) Kohlm., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 6: 9 (1963)
 
 #### Original name
 Sphaeria posidoniae Durieu & Mont., 1849

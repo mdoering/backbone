@@ -1,5 +1,4 @@
-Puccinia cirsii-maritimi Dietel SPECIES
-=======
+# Puccinia cirsii-maritimi Dietel SPECIES
 
 #### Status
 ACCEPTED

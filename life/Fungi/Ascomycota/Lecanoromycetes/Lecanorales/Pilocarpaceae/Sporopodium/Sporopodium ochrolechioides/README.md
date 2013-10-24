@@ -1,5 +1,4 @@
-Sporopodium ochrolechioides Vain. SPECIES
-=======
+# Sporopodium ochrolechioides Vain. SPECIES
 
 #### Status
 ACCEPTED

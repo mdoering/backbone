@@ -1,5 +1,4 @@
-Karstenula Spegazzini, 1879 GENUS
-=======
+# Karstenula Spegazzini, 1879 GENUS
 
 #### Status
 ACCEPTED

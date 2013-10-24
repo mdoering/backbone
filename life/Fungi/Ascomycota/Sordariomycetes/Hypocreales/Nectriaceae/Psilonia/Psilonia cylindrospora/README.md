@@ -1,5 +1,4 @@
-Psilonia cylindrospora Berk. & M.A. Curtis SPECIES
-=======
+# Psilonia cylindrospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

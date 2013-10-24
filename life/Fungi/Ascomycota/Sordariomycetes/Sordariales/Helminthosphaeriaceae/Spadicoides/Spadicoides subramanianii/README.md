@@ -1,5 +1,4 @@
-Spadicoides subramanianii Bhat SPECIES
-=======
+# Spadicoides subramanianii Bhat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus mesomorphus var. roseus Alb. & Schwein. VARIETY
-=======
+# Lepiota mesomorpha (Bull.) Gillet, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 146 (1805)
+Hyménomycètes (Alençon) 65 (1874)
 
 #### Original name
-Agaricus mesomorphus var. roseus Alb. & Schwein.
+Agaricus mesomorphus Bull., 1791
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bullaria solidipes (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria solidipes (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

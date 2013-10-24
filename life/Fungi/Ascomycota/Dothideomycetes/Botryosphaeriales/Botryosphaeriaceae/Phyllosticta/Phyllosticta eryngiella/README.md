@@ -1,5 +1,4 @@
-Phyllosticta eryngiella Bubák SPECIES
-=======
+# Phyllosticta eryngiella Bubák SPECIES
 
 #### Status
 ACCEPTED

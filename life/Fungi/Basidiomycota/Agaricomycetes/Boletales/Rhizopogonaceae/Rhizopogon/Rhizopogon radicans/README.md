@@ -1,5 +1,4 @@
-Rhizopogon radicans Lloyd SPECIES
-=======
+# Rhizopogon radicans Lloyd SPECIES
 
 #### Status
 ACCEPTED

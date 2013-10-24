@@ -1,5 +1,4 @@
-Colwellia demingia Bowman, Gosink, McCammon, Lewis, Nichols, Nichols, Skerratt, Staley, McMeekin, 1998 SPECIES
-=======
+# Colwellia demingia Bowman, Gosink, McCammon, Lewis, Nichols, Nichols, Skerratt, Staley, McMeekin, 1998 SPECIES
 
 #### Status
 ACCEPTED

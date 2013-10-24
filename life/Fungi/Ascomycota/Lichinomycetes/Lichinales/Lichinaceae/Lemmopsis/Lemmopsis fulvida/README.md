@@ -1,5 +1,4 @@
-Lemmopsis fulvida (Harm.) Lettau SPECIES
-=======
+# Lemmopsis fulvida (Harm.) Lettau SPECIES
 
 #### Status
 ACCEPTED

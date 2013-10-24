@@ -1,5 +1,4 @@
-Hentschelia thalassemae Mackinnon & Ray, 1931 SPECIES
-=======
+# Hentschelia thalassemae Mackinnon & Ray, 1931 SPECIES
 
 #### Status
 ACCEPTED

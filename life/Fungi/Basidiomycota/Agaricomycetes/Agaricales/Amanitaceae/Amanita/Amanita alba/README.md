@@ -1,5 +1,4 @@
-Amanita alba Lam. SPECIES
-=======
+# Amanita alba Lam. SPECIES
 
 #### Status
 ACCEPTED

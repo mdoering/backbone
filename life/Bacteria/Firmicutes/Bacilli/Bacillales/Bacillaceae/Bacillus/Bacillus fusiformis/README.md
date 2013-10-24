@@ -1,5 +1,4 @@
-Bacillus fusiformis (ex Meyer & Gottheil, 1901) Priest et al., 1989 SPECIES
-=======
+# Bacillus fusiformis (ex Meyer & Gottheil, 1901) Priest et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

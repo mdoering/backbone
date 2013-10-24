@@ -1,5 +1,4 @@
-Javonarxia quadriseptata Subram., 1992 SPECIES
-=======
+# Javonarxia quadriseptata Subram., 1992 SPECIES
 
 #### Status
 ACCEPTED

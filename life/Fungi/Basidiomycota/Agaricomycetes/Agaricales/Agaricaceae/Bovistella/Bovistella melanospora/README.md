@@ -1,5 +1,4 @@
-Bovistella melanospora Kreisel SPECIES
-=======
+# Bovistella melanospora Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterospermopsimorpha wolynica Kiryanov, 1974 SPECIES
-=======
+# Pterospermopsimorpha wolynica Kiryanov, 1974 SPECIES
 
 #### Status
 ACCEPTED

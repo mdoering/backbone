@@ -1,5 +1,4 @@
-Coccolithus abisectus C. Müller SPECIES
-=======
+# Coccolithus abisectus C. Müller SPECIES
 
 #### Status
 ACCEPTED

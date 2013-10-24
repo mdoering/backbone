@@ -1,5 +1,4 @@
-Agaricus fuscolilacinus Peck SPECIES
-=======
+# Agaricus fuscolilacinus Peck SPECIES
 
 #### Status
 ACCEPTED

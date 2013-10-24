@@ -1,5 +1,4 @@
-Bulgaria deligata Peck SPECIES
-=======
+# Bulgaria deligata Peck SPECIES
 
 #### Status
 ACCEPTED

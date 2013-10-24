@@ -1,5 +1,4 @@
-Russula violaceoincarnata Knudsen & T. Borgen SPECIES
-=======
+# Russula violaceoincarnata Knudsen & T. Borgen SPECIES
 
 #### Status
 ACCEPTED

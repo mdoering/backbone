@@ -1,5 +1,4 @@
-Calyptralegnia ripariensis Höhnk, 1953 SPECIES
-=======
+# Calyptralegnia ripariensis Höhnk, 1953 SPECIES
 
 #### Status
 ACCEPTED

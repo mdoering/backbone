@@ -1,5 +1,4 @@
-Aecidium pulcherrimum Ravenel SPECIES
-=======
+# Aecidium pulcherrimum Ravenel SPECIES
 
 #### Status
 ACCEPTED

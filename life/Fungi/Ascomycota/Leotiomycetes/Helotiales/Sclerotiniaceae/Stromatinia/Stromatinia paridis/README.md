@@ -1,5 +1,4 @@
-Stromatinia paridis Boud. SPECIES
-=======
+# Stromatinia paridis Boud. SPECIES
 
 #### Status
 ACCEPTED

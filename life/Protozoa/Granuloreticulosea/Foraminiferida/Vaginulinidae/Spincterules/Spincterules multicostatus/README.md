@@ -1,5 +1,4 @@
-Spincterules multicostatus (Cushman, 1917) SPECIES
-=======
+# Spincterules multicostatus (Cushman, 1917) SPECIES
 
 #### Status
 ACCEPTED

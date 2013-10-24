@@ -1,5 +1,4 @@
-Septoria theicola Curzi SPECIES
-=======
+# Septoria theicola Curzi SPECIES
 
 #### Status
 ACCEPTED

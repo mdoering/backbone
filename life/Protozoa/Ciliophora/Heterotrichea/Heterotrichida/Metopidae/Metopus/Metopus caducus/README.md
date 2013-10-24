@@ -1,5 +1,4 @@
-Metopus caducus Kahl, 1927 SPECIES
-=======
+# Metopus caducus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota cygneo-affinis Pilát SPECIES
-=======
+# Lepiota cygneo-affinis Pilát SPECIES
 
 #### Status
 ACCEPTED

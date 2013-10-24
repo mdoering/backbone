@@ -1,14 +1,13 @@
-Calicium subparoicum Nyl. SPECIES
-=======
+# Chaenothecopsis subparoica (Nyl.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Tibell & Ryman, Nova Hedwigia 60(1-2): 215 (1995)
 
 #### Original name
 Calicium subparoicum Nyl.

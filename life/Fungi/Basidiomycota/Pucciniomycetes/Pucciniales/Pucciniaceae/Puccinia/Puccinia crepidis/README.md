@@ -1,14 +1,13 @@
-Dicaeoma crepidis (J. Schröt.) Kuntze, 1898 SPECIES
-=======
+# Puccinia crepidis J. Schröt., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 319 (1887)
 
 #### Original name
 Puccinia crepidis J. Schröt., 1887

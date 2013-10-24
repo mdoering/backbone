@@ -1,5 +1,4 @@
-Parmelia spadicea (Roth) Spreng. SPECIES
-=======
+# Parmelia spadicea (Roth) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilodonella auricula SPECIES
-=======
+# Chilodonella auricula SPECIES
 
 #### Status
 ACCEPTED

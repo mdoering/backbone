@@ -1,5 +1,4 @@
-Lactobacillus malefermentans (ex Russell & Walker, 1953) Farrow et al., 1989 SPECIES
-=======
+# Lactobacillus malefermentans (ex Russell & Walker, 1953) Farrow et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachysacca Syd. GENUS
-=======
+# Pachysacca Syd. GENUS
 
 #### Status
 ACCEPTED

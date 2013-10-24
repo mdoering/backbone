@@ -1,5 +1,4 @@
-Porina leioplacoides (Vain.) Zahlbr. SPECIES
-=======
+# Porina leioplacoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

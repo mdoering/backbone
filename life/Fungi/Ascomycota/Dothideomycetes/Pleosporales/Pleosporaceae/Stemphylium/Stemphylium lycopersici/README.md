@@ -1,17 +1,16 @@
-Stemphylium floridanum var. floridanum VARIETY
-=======
+# Stemphylium lycopersici (Enjoji) W. Yamam., 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 45: 14 (1955)
+Trans. Mycol. Soc. Japan 2(5): 93 (1960)
 
 #### Original name
-Stemphylium floridanum var. floridanum
+Thyrospora lycopersici Enjoji, 1931
 
 ### Remarks
 null

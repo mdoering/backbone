@@ -1,5 +1,4 @@
-Sphaerella eulaliae Pass. SPECIES
-=======
+# Sphaerella eulaliae Pass. SPECIES
 
 #### Status
 ACCEPTED

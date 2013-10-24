@@ -1,5 +1,4 @@
-Abrothallus thelioplacum Diederich SPECIES
-=======
+# Abrothallus thelioplacum Diederich SPECIES
 
 #### Status
 ACCEPTED

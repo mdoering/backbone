@@ -1,5 +1,4 @@
-Parmelia ulcerata Vain. SPECIES
-=======
+# Parmelia ulcerata Vain. SPECIES
 
 #### Status
 ACCEPTED

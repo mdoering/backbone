@@ -1,5 +1,4 @@
-Trichopezizella otanii J.H. Haines SPECIES
-=======
+# Trichopezizella otanii J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

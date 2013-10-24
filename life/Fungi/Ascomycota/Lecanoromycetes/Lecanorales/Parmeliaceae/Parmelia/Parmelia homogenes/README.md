@@ -1,5 +1,4 @@
-Parmelia homogenes f. homogenes FORM
-=======
+# Parmelia homogenes Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia homogenes f. homogenes
+Parmelia homogenes Nyl.
 
 ### Remarks
 null

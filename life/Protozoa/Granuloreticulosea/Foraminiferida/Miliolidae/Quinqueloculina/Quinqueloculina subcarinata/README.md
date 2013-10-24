@@ -1,5 +1,4 @@
-Quinqueloculina subcarinata d'Orbigny, 1839 SPECIES
-=======
+# Quinqueloculina subcarinata d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

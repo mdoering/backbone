@@ -1,5 +1,4 @@
-Sphaerella verbascicola (Schwein.) Ellis SPECIES
-=======
+# Sphaerella verbascicola (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

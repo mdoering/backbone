@@ -1,5 +1,4 @@
-Pholiota effusa (Kalchbr.) Sacc. SPECIES
-=======
+# Pholiota effusa (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

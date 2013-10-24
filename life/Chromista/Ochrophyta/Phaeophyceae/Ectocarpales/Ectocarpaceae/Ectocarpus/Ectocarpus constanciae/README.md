@@ -1,5 +1,4 @@
-Ectocarpus constanciae Hariot SPECIES
-=======
+# Ectocarpus constanciae Hariot SPECIES
 
 #### Status
 ACCEPTED

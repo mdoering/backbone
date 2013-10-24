@@ -1,5 +1,4 @@
-Anaerolineae CLASS
-=======
+# Anaerolineae CLASS
 
 #### Status
 ACCEPTED

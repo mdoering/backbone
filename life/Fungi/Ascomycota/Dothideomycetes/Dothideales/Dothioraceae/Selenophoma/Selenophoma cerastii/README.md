@@ -1,5 +1,4 @@
-Selenophoma cerastii Vasyag. SPECIES
-=======
+# Selenophoma cerastii Vasyag. SPECIES
 
 #### Status
 ACCEPTED

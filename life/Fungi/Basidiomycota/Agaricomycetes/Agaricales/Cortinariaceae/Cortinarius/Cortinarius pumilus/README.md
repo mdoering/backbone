@@ -1,17 +1,16 @@
-Cortinarius collinitus pumilus Fr., 1874 INFRASPECIFIC_NAME
-=======
+# Cortinarius pumilus (Fr.) J.E. Lange, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Agaric. Danic. 5: lll (1940)
 
 #### Original name
-null
+Cortinarius collinitus (Pers.) Fr., 1838
 
 ### Remarks
 null

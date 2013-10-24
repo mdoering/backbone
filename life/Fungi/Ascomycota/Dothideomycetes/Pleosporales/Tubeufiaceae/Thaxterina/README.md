@@ -1,5 +1,4 @@
-Thaxterina Sivan., R.C. Rajak & R.C. Gupta GENUS
-=======
+# Thaxterina Sivan., R.C. Rajak & R.C. Gupta GENUS
 
 #### Status
 ACCEPTED

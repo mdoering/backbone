@@ -1,5 +1,4 @@
-Dicaeoma persicariae Gray SPECIES
-=======
+# Dicaeoma persicariae Gray SPECIES
 
 #### Status
 ACCEPTED

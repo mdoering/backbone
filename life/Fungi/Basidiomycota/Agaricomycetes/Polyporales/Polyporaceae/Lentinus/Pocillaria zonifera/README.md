@@ -1,5 +1,4 @@
-Pocillaria zonifera (Berk. & Broome) Kuntze SPECIES
-=======
+# Pocillaria zonifera (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

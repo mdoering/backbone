@@ -1,5 +1,4 @@
-Ophiocordyceps appendiculata (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps appendiculata (Kobayasi & Shimizu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

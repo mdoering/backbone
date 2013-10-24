@@ -1,5 +1,4 @@
-Diplodia tassiana Sacc. & P. Syd. SPECIES
-=======
+# Diplodia tassiana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

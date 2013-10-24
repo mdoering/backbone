@@ -1,5 +1,4 @@
-Parapeltella sprucei (Cooke & Massee) Bat. SPECIES
-=======
+# Parapeltella sprucei (Cooke & Massee) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erynia jaczewskii (Zaprom.) Humber SPECIES
-=======
+# Erynia jaczewskii (Zaprom.) Humber SPECIES
 
 #### Status
 ACCEPTED

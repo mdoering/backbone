@@ -1,5 +1,4 @@
-Peziza rimosa anon. SPECIES
-=======
+# Peziza rimosa anon. SPECIES
 
 #### Status
 ACCEPTED

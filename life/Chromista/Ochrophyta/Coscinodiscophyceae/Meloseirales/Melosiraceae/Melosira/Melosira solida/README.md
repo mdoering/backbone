@@ -1,5 +1,4 @@
-Melosira solida Eulenstein SPECIES
-=======
+# Melosira solida Eulenstein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus ater Beeli SPECIES
-=======
+# Favolus ater Beeli SPECIES
 
 #### Status
 ACCEPTED

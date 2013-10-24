@@ -1,5 +1,4 @@
-Tapellaria herpetospora Müll. Arg. SPECIES
-=======
+# Tapellaria herpetospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

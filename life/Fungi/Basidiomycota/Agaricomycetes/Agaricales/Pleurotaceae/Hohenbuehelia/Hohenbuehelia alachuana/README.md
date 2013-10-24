@@ -1,5 +1,4 @@
-Hohenbuehelia alachuana (Murrill) Singer SPECIES
-=======
+# Hohenbuehelia alachuana (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

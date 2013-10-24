@@ -1,5 +1,4 @@
-Agaricus hemiphlebius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus hemiphlebius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

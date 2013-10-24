@@ -1,5 +1,4 @@
-Mycosphaerella adenophorae Sawada SPECIES
-=======
+# Mycosphaerella adenophorae Sawada SPECIES
 
 #### Status
 ACCEPTED

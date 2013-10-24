@@ -1,5 +1,4 @@
-Entomophaga ptychopterae (S. Keller & Eilenberg) A.E. Hajek & Eilenberg, 2003 SPECIES
-=======
+# Entomophaga ptychopterae (S. Keller & Eilenberg) A.E. Hajek & Eilenberg, 2003 SPECIES
 
 #### Status
 ACCEPTED

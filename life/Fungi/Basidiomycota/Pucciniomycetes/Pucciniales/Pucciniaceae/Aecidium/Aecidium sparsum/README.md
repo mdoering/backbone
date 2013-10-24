@@ -1,5 +1,4 @@
-Aecidium sparsum Hazsl. SPECIES
-=======
+# Aecidium sparsum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

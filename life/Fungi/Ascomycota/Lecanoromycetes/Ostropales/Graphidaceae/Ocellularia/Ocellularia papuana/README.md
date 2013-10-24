@@ -1,5 +1,4 @@
-Ocellularia papuana Müll. Arg. SPECIES
-=======
+# Ocellularia papuana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

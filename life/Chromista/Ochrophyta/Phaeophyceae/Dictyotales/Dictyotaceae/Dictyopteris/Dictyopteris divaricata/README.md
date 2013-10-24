@@ -1,5 +1,4 @@
-Dictyopteris divaricata (Okamura) Okamura SPECIES
-=======
+# Dictyopteris divaricata (Okamura) Okamura SPECIES
 
 #### Status
 ACCEPTED

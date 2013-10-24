@@ -1,5 +1,4 @@
-Conidiobolus rhynchosporus Drechsler SPECIES
-=======
+# Conidiobolus rhynchosporus Drechsler SPECIES
 
 #### Status
 ACCEPTED

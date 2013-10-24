@@ -1,5 +1,4 @@
-Calothrix consociata Kützing ex Bornet & Flahault SPECIES
-=======
+# Calothrix consociata Kützing ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

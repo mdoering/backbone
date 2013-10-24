@@ -1,5 +1,4 @@
-Tintinnidium marinum SPECIES
-=======
+# Tintinnidium marinum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Henningsomyces maximus (Massee) Kuntze SPECIES
-=======
+# Henningsomyces maximus (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

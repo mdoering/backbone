@@ -1,5 +1,4 @@
-Boletus carramarus Grgur. SPECIES
-=======
+# Boletus carramarus Grgur. SPECIES
 
 #### Status
 ACCEPTED

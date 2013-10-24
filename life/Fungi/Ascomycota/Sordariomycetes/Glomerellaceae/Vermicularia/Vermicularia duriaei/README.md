@@ -1,5 +1,4 @@
-Vermicularia duriaei Mont. SPECIES
-=======
+# Vermicularia duriaei Mont. SPECIES
 
 #### Status
 ACCEPTED

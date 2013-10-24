@@ -1,17 +1,16 @@
-Aspergillus fumigatus var. fumigatus VARIETY
-=======
+# Aspergillus fumigatus Fresen., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beitr. Mykol. 3: 81 (1863)
 
 #### Original name
-Aspergillus fumigatus var. fumigatus
+Aspergillus fumigatus Fresen., 1863
 
 ### Remarks
 null

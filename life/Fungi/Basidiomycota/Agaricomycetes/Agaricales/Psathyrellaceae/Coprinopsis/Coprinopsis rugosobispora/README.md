@@ -1,5 +1,4 @@
-Coprinopsis rugosobispora (J. Geesink & Imler) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis rugosobispora (J. Geesink & Imler) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

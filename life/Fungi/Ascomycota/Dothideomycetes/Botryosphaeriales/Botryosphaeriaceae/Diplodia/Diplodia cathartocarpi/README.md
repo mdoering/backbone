@@ -1,5 +1,4 @@
-Diplodia cathartocarpi Berk. & Broome SPECIES
-=======
+# Diplodia cathartocarpi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

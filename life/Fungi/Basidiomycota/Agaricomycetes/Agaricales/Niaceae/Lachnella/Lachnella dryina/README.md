@@ -1,5 +1,4 @@
-Lachnella dryina P. Karst. SPECIES
-=======
+# Lachnella dryina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

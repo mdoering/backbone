@@ -1,5 +1,4 @@
-Lophiotrema alpinum (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Lophiotrema alpinum (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

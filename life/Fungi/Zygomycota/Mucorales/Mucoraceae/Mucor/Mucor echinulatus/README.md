@@ -1,5 +1,4 @@
-Mucor echinulatus F.S. Paine SPECIES
-=======
+# Mucor echinulatus F.S. Paine SPECIES
 
 #### Status
 ACCEPTED

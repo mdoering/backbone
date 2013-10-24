@@ -1,5 +1,4 @@
-Danubiella Neagu, 1968 GENUS
-=======
+# Danubiella Neagu, 1968 GENUS
 
 #### Status
 ACCEPTED

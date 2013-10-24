@@ -1,5 +1,4 @@
-Phyllosticta vexans Bubák & Dearn. SPECIES
-=======
+# Phyllosticta vexans Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

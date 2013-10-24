@@ -1,5 +1,4 @@
-Eccilia henningsii (Starbäck) Sacc. & D. Sacc. SPECIES
-=======
+# Eccilia henningsii (Starbäck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

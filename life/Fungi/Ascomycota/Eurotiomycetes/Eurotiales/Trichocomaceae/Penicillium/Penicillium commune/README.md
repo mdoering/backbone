@@ -1,17 +1,16 @@
-Penicillium lanosoviride var. lanosoviride VARIETY
-=======
+# Penicillium commune Thom, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Penicillia 314 (1930)
+Bulletin of the U. S. Department of Agriculture, Bureau Animal Industry 118: 56-57 (1910)
 
 #### Original name
-Penicillium lanosoviride var. lanosoviride
+Penicillium commune Thom, 1910
 
 ### Remarks
 null

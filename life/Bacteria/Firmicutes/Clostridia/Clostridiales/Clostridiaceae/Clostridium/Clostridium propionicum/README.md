@@ -1,5 +1,4 @@
-Clostridium propionicum Cardon and Barker, 1946 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium propionicum Cardon and Barker, 1946 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

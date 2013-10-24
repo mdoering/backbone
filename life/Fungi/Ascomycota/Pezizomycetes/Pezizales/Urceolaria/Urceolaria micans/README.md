@@ -1,5 +1,4 @@
-Urceolaria micans Eschw. SPECIES
-=======
+# Urceolaria micans Eschw. SPECIES
 
 #### Status
 ACCEPTED

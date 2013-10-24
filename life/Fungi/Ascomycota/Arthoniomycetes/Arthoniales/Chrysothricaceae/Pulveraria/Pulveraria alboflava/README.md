@@ -1,5 +1,4 @@
-Pulveraria alboflava Flörke SPECIES
-=======
+# Pulveraria alboflava Flörke SPECIES
 
 #### Status
 ACCEPTED

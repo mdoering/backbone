@@ -1,5 +1,4 @@
-Muellerella thallophila Arnold SPECIES
-=======
+# Muellerella thallophila Arnold SPECIES
 
 #### Status
 ACCEPTED

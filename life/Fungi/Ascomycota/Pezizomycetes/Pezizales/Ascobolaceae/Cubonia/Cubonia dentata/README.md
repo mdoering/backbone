@@ -1,5 +1,4 @@
-Cubonia dentata var. macrospora Grelet VARIETY
-=======
+# Cubonia dentata (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cubonia dentata var. macrospora Grelet
+Ascophanus dentatus Boud.
 
 ### Remarks
 null

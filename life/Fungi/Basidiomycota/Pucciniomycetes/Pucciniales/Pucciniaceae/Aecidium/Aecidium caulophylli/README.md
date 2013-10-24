@@ -1,5 +1,4 @@
-Aecidium caulophylli Kom. SPECIES
-=======
+# Aecidium caulophylli Kom. SPECIES
 
 #### Status
 ACCEPTED

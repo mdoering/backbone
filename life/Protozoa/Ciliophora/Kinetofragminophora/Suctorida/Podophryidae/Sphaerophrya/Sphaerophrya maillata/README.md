@@ -1,5 +1,4 @@
-Sphaerophrya maillata SPECIES
-=======
+# Sphaerophrya maillata SPECIES
 
 #### Status
 ACCEPTED

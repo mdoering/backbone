@@ -1,5 +1,4 @@
-Lepiota amplifolia Murrill SPECIES
-=======
+# Lepiota amplifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

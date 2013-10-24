@@ -1,5 +1,4 @@
-Parmelia sparsa SPECIES
-=======
+# Parmelia sparsa SPECIES
 
 #### Status
 ACCEPTED

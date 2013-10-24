@@ -1,5 +1,4 @@
-Halopteris virgata (J.D. Hooker & Harvey) N.M. Adams SPECIES
-=======
+# Halopteris virgata (J.D. Hooker & Harvey) N.M. Adams SPECIES
 
 #### Status
 ACCEPTED

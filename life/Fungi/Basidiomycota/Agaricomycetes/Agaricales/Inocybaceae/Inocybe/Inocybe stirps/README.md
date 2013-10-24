@@ -1,5 +1,4 @@
-Inocybe stirps Obscurobadia Poirier SPECIES
-=======
+# Inocybe stirps Obscurobadia Poirier SPECIES
 
 #### Status
 ACCEPTED

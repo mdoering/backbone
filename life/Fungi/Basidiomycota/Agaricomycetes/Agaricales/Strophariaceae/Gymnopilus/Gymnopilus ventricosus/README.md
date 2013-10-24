@@ -1,5 +1,4 @@
-Gymnopilus ventricosus (Earle) Hesler SPECIES
-=======
+# Gymnopilus ventricosus (Earle) Hesler SPECIES
 
 #### Status
 ACCEPTED

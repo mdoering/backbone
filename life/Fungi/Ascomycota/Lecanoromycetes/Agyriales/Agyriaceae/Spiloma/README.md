@@ -1,5 +1,4 @@
-Spiloma GENUS
-=======
+# Spiloma GENUS
 
 #### Status
 ACCEPTED

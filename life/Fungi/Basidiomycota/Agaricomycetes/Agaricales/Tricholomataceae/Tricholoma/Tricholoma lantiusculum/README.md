@@ -1,5 +1,4 @@
-Tricholoma lantiusculum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma lantiusculum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

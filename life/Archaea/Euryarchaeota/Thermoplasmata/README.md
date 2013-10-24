@@ -1,5 +1,4 @@
-Thermoplasmata CLASS
-=======
+# Thermoplasmata CLASS
 
 #### Status
 ACCEPTED

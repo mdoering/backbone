@@ -1,8 +1,7 @@
-Ascochyta aristolochicola Hollós SPECIES
-=======
+# Ascochyta aristolochiicola Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta aristolochicola Hollós
+Ascochyta aristolochiicola Hollós
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mathasterites bramlettei SPECIES
-=======
+# Mathasterites bramlettei SPECIES
 
 #### Status
 ACCEPTED

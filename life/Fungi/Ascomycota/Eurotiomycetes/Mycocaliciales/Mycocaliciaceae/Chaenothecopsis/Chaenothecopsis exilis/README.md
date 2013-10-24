@@ -1,5 +1,4 @@
-Chaenothecopsis exilis Tibell SPECIES
-=======
+# Chaenothecopsis exilis Tibell SPECIES
 
 #### Status
 ACCEPTED

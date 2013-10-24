@@ -1,5 +1,4 @@
-Ectocarpus hamulosus Harv. & Bailey SPECIES
-=======
+# Ectocarpus hamulosus Harv. & Bailey SPECIES
 
 #### Status
 ACCEPTED

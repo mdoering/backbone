@@ -1,5 +1,4 @@
-Polystictus pallidofulvellus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polystictus pallidofulvellus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

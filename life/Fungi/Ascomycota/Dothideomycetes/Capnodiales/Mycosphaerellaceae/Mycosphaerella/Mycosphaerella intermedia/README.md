@@ -1,5 +1,4 @@
-Mycosphaerella intermedia M.A. Dick & K. Dobbie, 2001 SPECIES
-=======
+# Mycosphaerella intermedia M.A. Dick & K. Dobbie, 2001 SPECIES
 
 #### Status
 ACCEPTED

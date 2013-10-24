@@ -1,5 +1,4 @@
-Semilecanora latro (Poelt) Motyka SPECIES
-=======
+# Semilecanora latro (Poelt) Motyka SPECIES
 
 #### Status
 ACCEPTED

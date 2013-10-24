@@ -1,5 +1,4 @@
-Dendrosarcus kerneri (Wettst.) Kuntze SPECIES
-=======
+# Dendrosarcus kerneri (Wettst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

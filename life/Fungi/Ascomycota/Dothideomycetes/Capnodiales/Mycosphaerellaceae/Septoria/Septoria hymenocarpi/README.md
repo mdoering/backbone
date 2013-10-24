@@ -1,5 +1,4 @@
-Septoria hymenocarpi Jaap SPECIES
-=======
+# Septoria hymenocarpi Jaap SPECIES
 
 #### Status
 ACCEPTED

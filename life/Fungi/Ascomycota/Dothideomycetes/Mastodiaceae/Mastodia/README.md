@@ -1,17 +1,16 @@
-Kohlmeyera S. Schatz GENUS
-=======
+# Mastodia Hook. f. & Harv. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 72(1): 114 (1980)
+in Hooker, Bot. Antarc. Voy. 1(2): 499 (1847)
 
 #### Original name
-Kohlmeyera S. Schatz
+Mastodia Hook. f. & Harv.
 
 ### Remarks
 null

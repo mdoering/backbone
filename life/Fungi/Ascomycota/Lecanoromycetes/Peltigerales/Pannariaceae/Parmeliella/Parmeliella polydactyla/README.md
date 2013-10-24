@@ -1,5 +1,4 @@
-Parmeliella polydactyla P. M. Jørg. & Coppins SPECIES
-=======
+# Parmeliella polydactyla P. M. Jørg. & Coppins SPECIES
 
 #### Status
 ACCEPTED

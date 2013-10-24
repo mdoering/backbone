@@ -1,5 +1,4 @@
-Sporonema phacidioides Desm., 1847 SPECIES
-=======
+# Sporonema phacidioides Desm., 1847 SPECIES
 
 #### Status
 ACCEPTED

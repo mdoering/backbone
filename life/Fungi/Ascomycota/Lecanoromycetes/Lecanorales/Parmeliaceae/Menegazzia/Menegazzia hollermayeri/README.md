@@ -1,5 +1,4 @@
-Menegazzia hollermayeri (Räsänen) R. Sant. SPECIES
-=======
+# Menegazzia hollermayeri (Räsänen) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

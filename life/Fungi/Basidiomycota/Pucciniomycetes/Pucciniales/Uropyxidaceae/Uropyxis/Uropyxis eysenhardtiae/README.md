@@ -1,5 +1,4 @@
-Uropyxis eysenhardtiae Dietel & Holw. SPECIES
-=======
+# Uropyxis eysenhardtiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

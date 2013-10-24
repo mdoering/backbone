@@ -1,5 +1,4 @@
-Mycosphaerella phaseoli Chona & Munjal, 1956 SPECIES
-=======
+# Mycosphaerella phaseoli Chona & Munjal, 1956 SPECIES
 
 #### Status
 ACCEPTED

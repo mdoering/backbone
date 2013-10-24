@@ -1,5 +1,4 @@
-Rosenvingea Børgesen, 1914 GENUS
-=======
+# Rosenvingea Børgesen, 1914 GENUS
 
 #### Status
 ACCEPTED

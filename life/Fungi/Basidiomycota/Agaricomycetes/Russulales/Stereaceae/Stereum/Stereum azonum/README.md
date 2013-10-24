@@ -1,5 +1,4 @@
-Stereum azonum Velen. SPECIES
-=======
+# Stereum azonum Velen. SPECIES
 
 #### Status
 ACCEPTED

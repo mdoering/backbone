@@ -1,5 +1,4 @@
-Bipolaris siliculosa (P. Crouan & H. Crouan) Shoemaker SPECIES
-=======
+# Bipolaris siliculosa (P. Crouan & H. Crouan) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

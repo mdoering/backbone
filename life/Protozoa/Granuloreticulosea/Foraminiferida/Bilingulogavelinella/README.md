@@ -1,5 +1,4 @@
-Bilingulogavelinella Scheibnerova, 1971 GENUS
-=======
+# Bilingulogavelinella Scheibnerova, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Actinomadura coeruleofusca Preobrazhenskaya and Sveshnikova, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Saccharothrix coeruleofusca (Preobrazhenskaya & Sveshnikova, 1974) Grund & Kroppenstedt, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

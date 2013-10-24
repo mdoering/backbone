@@ -1,5 +1,4 @@
-Loricella pilosa Velen. SPECIES
-=======
+# Loricella pilosa Velen. SPECIES
 
 #### Status
 ACCEPTED

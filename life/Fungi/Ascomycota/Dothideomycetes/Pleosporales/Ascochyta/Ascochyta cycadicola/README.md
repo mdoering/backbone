@@ -1,5 +1,4 @@
-Ascochyta cycadicola Punith. SPECIES
-=======
+# Ascochyta cycadicola Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta aloidis Rupprecht SPECIES
-=======
+# Ascochyta aloidis Rupprecht SPECIES
 
 #### Status
 ACCEPTED

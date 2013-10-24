@@ -1,5 +1,4 @@
-Glomerella sorghi Saccas SPECIES
-=======
+# Glomerella sorghi Saccas SPECIES
 
 #### Status
 ACCEPTED

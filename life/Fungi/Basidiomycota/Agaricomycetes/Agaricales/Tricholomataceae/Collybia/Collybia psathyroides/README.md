@@ -1,5 +1,4 @@
-Collybia psathyroides (Cooke) Sacc. SPECIES
-=======
+# Collybia psathyroides (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

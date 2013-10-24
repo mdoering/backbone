@@ -1,5 +1,4 @@
-Clautriavia parva Calway & Lackey SPECIES
-=======
+# Clautriavia parva Calway & Lackey SPECIES
 
 #### Status
 ACCEPTED

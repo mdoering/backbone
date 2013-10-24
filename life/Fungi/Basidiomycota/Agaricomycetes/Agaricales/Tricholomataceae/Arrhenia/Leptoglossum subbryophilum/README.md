@@ -1,5 +1,4 @@
-Leptoglossum subbryophilum Singer SPECIES
-=======
+# Leptoglossum subbryophilum Singer SPECIES
 
 #### Status
 ACCEPTED

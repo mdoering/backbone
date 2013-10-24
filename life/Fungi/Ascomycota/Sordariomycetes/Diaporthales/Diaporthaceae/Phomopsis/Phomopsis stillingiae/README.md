@@ -1,5 +1,4 @@
-Phomopsis stillingiae (Ellis & Everh.) Aa SPECIES
-=======
+# Phomopsis stillingiae (Ellis & Everh.) Aa SPECIES
 
 #### Status
 ACCEPTED

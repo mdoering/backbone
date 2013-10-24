@@ -1,5 +1,4 @@
-Phoma euphorbiae-spinosae Bubák SPECIES
-=======
+# Phoma euphorbiae-spinosae Bubák SPECIES
 
 #### Status
 ACCEPTED

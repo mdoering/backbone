@@ -1,5 +1,4 @@
-Lindrothia GENUS
-=======
+# Lindrothia GENUS
 
 #### Status
 ACCEPTED

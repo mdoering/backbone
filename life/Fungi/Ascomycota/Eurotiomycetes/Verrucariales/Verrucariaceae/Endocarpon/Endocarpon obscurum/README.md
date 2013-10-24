@@ -1,5 +1,4 @@
-Endocarpon obscurum (Ach.) Steud. SPECIES
-=======
+# Endocarpon obscurum (Ach.) Steud. SPECIES
 
 #### Status
 ACCEPTED

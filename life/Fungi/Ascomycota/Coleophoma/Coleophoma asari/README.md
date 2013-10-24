@@ -1,5 +1,4 @@
-Coleophoma asari H. Ruppr. SPECIES
-=======
+# Coleophoma asari H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

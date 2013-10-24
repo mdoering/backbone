@@ -1,5 +1,4 @@
-Didymoporisporonites elegans P. Ke & Z.Y. Shi SPECIES
-=======
+# Didymoporisporonites elegans P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

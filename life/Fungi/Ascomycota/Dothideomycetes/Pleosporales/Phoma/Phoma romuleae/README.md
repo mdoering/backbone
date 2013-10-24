@@ -1,5 +1,4 @@
-Phoma romuleae McAlpine SPECIES
-=======
+# Phoma romuleae McAlpine SPECIES
 
 #### Status
 ACCEPTED

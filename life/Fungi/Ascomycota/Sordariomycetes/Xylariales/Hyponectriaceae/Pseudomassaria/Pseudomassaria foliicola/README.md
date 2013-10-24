@@ -1,5 +1,4 @@
-Pseudomassaria foliicola M.E. Barr SPECIES
-=======
+# Pseudomassaria foliicola M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

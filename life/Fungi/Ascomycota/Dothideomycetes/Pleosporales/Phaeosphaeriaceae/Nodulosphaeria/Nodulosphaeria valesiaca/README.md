@@ -1,5 +1,4 @@
-Nodulosphaeria valesiaca L. Holm & E. Müll. SPECIES
-=======
+# Nodulosphaeria valesiaca L. Holm & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

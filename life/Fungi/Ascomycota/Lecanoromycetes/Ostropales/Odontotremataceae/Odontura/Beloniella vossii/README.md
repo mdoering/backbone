@@ -1,5 +1,4 @@
-Beloniella vossii Rehm SPECIES
-=======
+# Beloniella vossii Rehm SPECIES
 
 #### Status
 ACCEPTED

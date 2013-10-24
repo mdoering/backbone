@@ -1,5 +1,4 @@
-Histeridomyces ramosus Thaxt., 1931 SPECIES
-=======
+# Histeridomyces ramosus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

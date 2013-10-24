@@ -1,5 +1,4 @@
-Leptogiopsis Nyl., 1884 GENUS
-=======
+# Leptogiopsis Nyl., 1884 GENUS
 
 #### Status
 ACCEPTED

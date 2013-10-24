@@ -1,8 +1,7 @@
-Mesospora pangoensis var. galapagensis (Setchell & Gardner) Chihara & J.Tanaka, 1982 VARIETY
-=======
+# Hapalospongidion pangoensis (Setchell) G.J.Hollenberg, 1942 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

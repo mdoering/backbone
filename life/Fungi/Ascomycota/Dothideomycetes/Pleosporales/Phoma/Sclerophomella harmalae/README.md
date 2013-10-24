@@ -1,5 +1,4 @@
-Sclerophomella harmalae (Hazsl.) Moesz SPECIES
-=======
+# Sclerophomella harmalae (Hazsl.) Moesz SPECIES
 
 #### Status
 ACCEPTED

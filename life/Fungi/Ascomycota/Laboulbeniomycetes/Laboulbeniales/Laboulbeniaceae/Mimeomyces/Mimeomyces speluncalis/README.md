@@ -1,5 +1,4 @@
-Mimeomyces speluncalis (Maire) I.I. Tav. SPECIES
-=======
+# Mimeomyces speluncalis (Maire) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

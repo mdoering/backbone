@@ -1,5 +1,4 @@
-Lichen glandifer Schrank SPECIES
-=======
+# Lichen glandifer Schrank SPECIES
 
 #### Status
 ACCEPTED

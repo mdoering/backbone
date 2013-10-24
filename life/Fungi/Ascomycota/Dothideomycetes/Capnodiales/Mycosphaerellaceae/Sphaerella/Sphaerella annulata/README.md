@@ -1,5 +1,4 @@
-Sphaerella annulata Cooke SPECIES
-=======
+# Sphaerella annulata Cooke SPECIES
 
 #### Status
 ACCEPTED

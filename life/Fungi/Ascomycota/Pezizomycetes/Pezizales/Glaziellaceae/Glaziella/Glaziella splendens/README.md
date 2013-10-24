@@ -1,5 +1,4 @@
-Glaziella splendens (Berk. & M.A. Curtis) Berk. SPECIES
-=======
+# Glaziella splendens (Berk. & M.A. Curtis) Berk. SPECIES
 
 #### Status
 ACCEPTED

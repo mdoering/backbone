@@ -1,17 +1,16 @@
-Inocybe brunneorufa var. brunneorufa VARIETY
-=======
+# Inocybe calida Velen., 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 25(1): 5 (1971)
+Ceské Houby 2: 366 (1920)
 
 #### Original name
-Inocybe brunneorufa var. brunneorufa
+Inocybe calida Velen., 1920
 
 ### Remarks
 null

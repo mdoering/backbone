@@ -1,5 +1,4 @@
-Cenangium hypochlorum Berk. & M.A. Curtis SPECIES
-=======
+# Cenangium hypochlorum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

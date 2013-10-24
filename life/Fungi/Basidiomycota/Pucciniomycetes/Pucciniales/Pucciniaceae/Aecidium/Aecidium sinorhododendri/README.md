@@ -1,5 +1,4 @@
-Aecidium sinorhododendri G.W. Wilson SPECIES
-=======
+# Aecidium sinorhododendri G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca eccentrica A.H. Sm. SPECIES
-=======
+# Melanoleuca eccentrica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

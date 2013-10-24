@@ -1,5 +1,4 @@
-Caloplaca gracilescens Zahlbr. SPECIES
-=======
+# Caloplaca gracilescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces antillarum Sherwood, 1980 SPECIES
-=======
+# Coccomyces antillarum Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

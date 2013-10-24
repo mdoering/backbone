@@ -1,5 +1,4 @@
-Colpoma nothofagi P.R. Johnst., 1991 SPECIES
-=======
+# Colpoma nothofagi P.R. Johnst., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus cochlear Nees SPECIES
-=======
+# Polyporus cochlear Nees SPECIES
 
 #### Status
 ACCEPTED

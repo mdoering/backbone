@@ -1,5 +1,4 @@
-Cordyceps javensis Henn. SPECIES
-=======
+# Cordyceps javensis Henn. SPECIES
 
 #### Status
 ACCEPTED

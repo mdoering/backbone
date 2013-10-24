@@ -1,5 +1,4 @@
-Clitocybe tornata (Fr.) P. Kumm. SPECIES
-=======
+# Clitocybe tornata (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

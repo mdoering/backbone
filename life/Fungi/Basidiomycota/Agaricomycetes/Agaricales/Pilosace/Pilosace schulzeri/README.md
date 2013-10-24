@@ -1,5 +1,4 @@
-Pilosace schulzeri (Quél.) Kuntze SPECIES
-=======
+# Pilosace schulzeri (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

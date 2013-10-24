@@ -1,5 +1,4 @@
-Eccrinoides stammeri Maessen SPECIES
-=======
+# Eccrinoides stammeri Maessen SPECIES
 
 #### Status
 ACCEPTED

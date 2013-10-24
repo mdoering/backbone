@@ -1,5 +1,4 @@
-Lachnella fuscobarbata (Schwein.) Sacc. SPECIES
-=======
+# Lachnella fuscobarbata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullaria velata (Ellis & Everh.) Arthur & Mains SPECIES
-=======
+# Bullaria velata (Ellis & Everh.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

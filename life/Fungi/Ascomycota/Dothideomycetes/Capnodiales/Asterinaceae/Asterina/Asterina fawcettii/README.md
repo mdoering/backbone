@@ -1,5 +1,4 @@
-Asterina fawcettii R.W. Ryan SPECIES
-=======
+# Asterina fawcettii R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

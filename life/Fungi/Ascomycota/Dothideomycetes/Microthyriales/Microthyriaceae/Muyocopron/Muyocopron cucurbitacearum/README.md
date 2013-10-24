@@ -1,5 +1,4 @@
-Muyocopron cucurbitacearum Rehm SPECIES
-=======
+# Muyocopron cucurbitacearum Rehm SPECIES
 
 #### Status
 ACCEPTED

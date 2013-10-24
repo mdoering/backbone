@@ -1,5 +1,4 @@
-Cortinarius ahsii McKnight SPECIES
-=======
+# Cortinarius ahsii McKnight SPECIES
 
 #### Status
 ACCEPTED

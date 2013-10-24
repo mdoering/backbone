@@ -1,5 +1,4 @@
-Diplocladiella taurina Cazau, Aramb. & Cabello SPECIES
-=======
+# Diplocladiella taurina Cazau, Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

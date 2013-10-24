@@ -1,5 +1,4 @@
-Dimerium mori (Y. Endo) Sacc. SPECIES
-=======
+# Dimerium mori (Y. Endo) Sacc. SPECIES
 
 #### Status
 ACCEPTED

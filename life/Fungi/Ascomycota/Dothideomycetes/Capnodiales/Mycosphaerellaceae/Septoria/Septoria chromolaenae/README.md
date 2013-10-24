@@ -1,5 +1,4 @@
-Septoria chromolaenae Crous & Den Breeÿen SPECIES
-=======
+# Septoria chromolaenae Crous & Den Breeÿen SPECIES
 
 #### Status
 ACCEPTED

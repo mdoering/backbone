@@ -1,5 +1,4 @@
-Amanita alpina Contu SPECIES
-=======
+# Amanita alpina Contu SPECIES
 
 #### Status
 ACCEPTED

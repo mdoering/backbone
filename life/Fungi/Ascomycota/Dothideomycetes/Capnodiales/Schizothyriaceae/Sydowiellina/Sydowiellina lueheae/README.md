@@ -1,5 +1,4 @@
-Sydowiellina lueheae Bat. & Cavalc. SPECIES
-=======
+# Sydowiellina lueheae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

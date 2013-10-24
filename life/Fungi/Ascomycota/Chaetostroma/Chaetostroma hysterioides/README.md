@@ -1,5 +1,4 @@
-Chaetostroma hysterioides Sacc. SPECIES
-=======
+# Chaetostroma hysterioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

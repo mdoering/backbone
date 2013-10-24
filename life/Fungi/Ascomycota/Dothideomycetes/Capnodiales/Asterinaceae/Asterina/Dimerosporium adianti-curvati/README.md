@@ -1,5 +1,4 @@
-Dimerosporium adianti-curvati Rehm SPECIES
-=======
+# Dimerosporium adianti-curvati Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea melanobotrys (Müll. Arg.) Vain. SPECIES
-=======
+# Lecidea melanobotrys (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

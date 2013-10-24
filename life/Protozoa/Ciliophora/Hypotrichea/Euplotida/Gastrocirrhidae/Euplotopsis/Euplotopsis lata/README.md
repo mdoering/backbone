@@ -1,5 +1,4 @@
-Euplotopsis lata SPECIES
-=======
+# Euplotopsis lata SPECIES
 
 #### Status
 ACCEPTED

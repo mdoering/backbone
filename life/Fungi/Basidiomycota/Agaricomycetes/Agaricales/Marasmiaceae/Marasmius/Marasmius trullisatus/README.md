@@ -1,5 +1,4 @@
-Marasmius trullisatus (Murrill) Singer SPECIES
-=======
+# Marasmius trullisatus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

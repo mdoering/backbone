@@ -1,5 +1,4 @@
-Cercospora colubrina Ellis & Everh. SPECIES
-=======
+# Cercospora colubrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

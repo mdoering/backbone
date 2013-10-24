@@ -1,17 +1,16 @@
-Helminthosporium sechiicolum J.A. Stev. SPECIES
-=======
+# Helminthosporium sechiicola J.A. Stev., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rep. P. Rico insul. agric. Exp. Station, 1917-18 137 (1919)
 
 #### Original name
-Helminthosporium sechiicolum J.A. Stev.
+Helminthosporium sechiicola J.A. Stev., 1919
 
 ### Remarks
 null

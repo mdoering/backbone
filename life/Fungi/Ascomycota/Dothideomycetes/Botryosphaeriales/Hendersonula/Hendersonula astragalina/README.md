@@ -1,5 +1,4 @@
-Hendersonula astragalina Petr. SPECIES
-=======
+# Hendersonula astragalina Petr. SPECIES
 
 #### Status
 ACCEPTED

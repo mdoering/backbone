@@ -1,5 +1,4 @@
-Verrucaria halophiloides Vain. SPECIES
-=======
+# Verrucaria halophiloides Vain. SPECIES
 
 #### Status
 ACCEPTED

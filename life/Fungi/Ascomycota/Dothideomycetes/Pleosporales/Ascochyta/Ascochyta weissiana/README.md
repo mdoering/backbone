@@ -1,5 +1,4 @@
-Ascochyta weissiana Allesch. SPECIES
-=======
+# Ascochyta weissiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

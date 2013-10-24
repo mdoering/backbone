@@ -1,5 +1,4 @@
-Syncephalis sphaerica Tiegh., 1875 SPECIES
-=======
+# Syncephalis sphaerica Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

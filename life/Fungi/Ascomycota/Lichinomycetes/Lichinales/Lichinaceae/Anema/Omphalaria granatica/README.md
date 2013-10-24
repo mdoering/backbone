@@ -1,5 +1,4 @@
-Omphalaria granatica Samp. SPECIES
-=======
+# Omphalaria granatica Samp. SPECIES
 
 #### Status
 ACCEPTED

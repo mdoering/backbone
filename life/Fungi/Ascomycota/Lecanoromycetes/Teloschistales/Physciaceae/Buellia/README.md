@@ -1,17 +1,16 @@
-Aplotomma A. Massal. ex Beltr. GENUS
-=======
+# Buellia De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Licheni Bassanesi 181 (1858)
+G. bot. ital. 2(1,1): 195 (1846)
 
 #### Original name
-Aplotomma A. Massal. ex Beltr.
+Buellia De Not.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neogloboquadrina incompta (Cifelli, 1961) SPECIES
-=======
+# Neogloboquadrina incompta (Cifelli, 1961) SPECIES
 
 #### Status
 ACCEPTED

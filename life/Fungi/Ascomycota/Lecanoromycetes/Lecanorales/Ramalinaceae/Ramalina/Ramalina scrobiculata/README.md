@@ -1,5 +1,4 @@
-Ramalina scrobiculata Müll. Arg. SPECIES
-=======
+# Ramalina scrobiculata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

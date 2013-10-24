@@ -1,5 +1,4 @@
-Penicillium quadrilineatum Warcup SPECIES
-=======
+# Penicillium quadrilineatum Warcup SPECIES
 
 #### Status
 ACCEPTED

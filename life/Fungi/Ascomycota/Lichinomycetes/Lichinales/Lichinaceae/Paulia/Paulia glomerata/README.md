@@ -1,5 +1,4 @@
-Paulia glomerata Henssen & Tretiach SPECIES
-=======
+# Paulia glomerata Henssen & Tretiach SPECIES
 
 #### Status
 ACCEPTED

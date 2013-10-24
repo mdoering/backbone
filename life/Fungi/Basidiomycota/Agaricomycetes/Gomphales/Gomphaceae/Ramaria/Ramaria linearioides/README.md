@@ -1,5 +1,4 @@
-Ramaria linearioides R.H. Petersen & M. Zang, 1989 SPECIES
-=======
+# Ramaria linearioides R.H. Petersen & M. Zang, 1989 SPECIES
 
 #### Status
 ACCEPTED

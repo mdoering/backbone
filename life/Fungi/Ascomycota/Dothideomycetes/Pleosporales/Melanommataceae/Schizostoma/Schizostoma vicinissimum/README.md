@@ -1,5 +1,4 @@
-Schizostoma vicinissimum Speg. SPECIES
-=======
+# Schizostoma vicinissimum Speg. SPECIES
 
 #### Status
 ACCEPTED

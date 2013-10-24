@@ -1,5 +1,4 @@
-Cercospora adeniae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora adeniae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

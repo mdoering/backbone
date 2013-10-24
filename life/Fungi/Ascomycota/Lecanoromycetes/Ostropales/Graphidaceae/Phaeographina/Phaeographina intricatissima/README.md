@@ -1,5 +1,4 @@
-Phaeographina intricatissima Müll. Arg. SPECIES
-=======
+# Phaeographina intricatissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

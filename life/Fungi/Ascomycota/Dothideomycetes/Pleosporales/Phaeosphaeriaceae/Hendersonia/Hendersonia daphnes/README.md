@@ -1,5 +1,4 @@
-Hendersonia daphnes Pass. SPECIES
-=======
+# Hendersonia daphnes Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comatricha variabilis R.K. Chopra & T.N. Lakh., 1992 SPECIES
-=======
+# Comatricha variabilis R.K. Chopra & T.N. Lakh., 1992 SPECIES
 
 #### Status
 ACCEPTED

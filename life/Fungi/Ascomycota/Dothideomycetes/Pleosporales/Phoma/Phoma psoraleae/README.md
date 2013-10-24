@@ -1,5 +1,4 @@
-Phoma psoraleae Cooke SPECIES
-=======
+# Phoma psoraleae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoderma pteridis (Schwein.) Sacc. SPECIES
-=======
+# Hypoderma pteridis (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

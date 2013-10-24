@@ -1,5 +1,4 @@
-Uredo peckoltiae Syd. & P. Syd. SPECIES
-=======
+# Uredo peckoltiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

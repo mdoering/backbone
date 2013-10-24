@@ -1,5 +1,4 @@
-Sphenolithus moriformis (Bronnimann & Stradner, 1960) Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Sphenolithus moriformis (Bronnimann & Stradner, 1960) Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

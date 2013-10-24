@@ -1,5 +1,4 @@
-Pertusaria phaeophthalma SPECIES
-=======
+# Pertusaria phaeophthalma SPECIES
 
 #### Status
 ACCEPTED

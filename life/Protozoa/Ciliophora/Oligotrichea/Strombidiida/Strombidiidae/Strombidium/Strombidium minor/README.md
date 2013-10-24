@@ -1,11 +1,10 @@
-Strombidium stylifer var. minor Kahl, 1935 VARIETY
-=======
+# Strombidium minor (Kahl, 1935) Maeda & Carey, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

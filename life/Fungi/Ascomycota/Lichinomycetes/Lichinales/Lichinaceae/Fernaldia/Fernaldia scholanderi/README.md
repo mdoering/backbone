@@ -1,5 +1,4 @@
-Fernaldia scholanderi Lynge SPECIES
-=======
+# Fernaldia scholanderi Lynge SPECIES
 
 #### Status
 ACCEPTED

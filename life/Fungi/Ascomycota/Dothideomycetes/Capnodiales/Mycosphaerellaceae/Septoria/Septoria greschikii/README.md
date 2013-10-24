@@ -1,5 +1,4 @@
-Septoria greschikii Bres. SPECIES
-=======
+# Septoria greschikii Bres. SPECIES
 
 #### Status
 ACCEPTED

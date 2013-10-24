@@ -1,5 +1,4 @@
-Ceratosporella elegans Höhn. SPECIES
-=======
+# Ceratosporella elegans Höhn. SPECIES
 
 #### Status
 ACCEPTED

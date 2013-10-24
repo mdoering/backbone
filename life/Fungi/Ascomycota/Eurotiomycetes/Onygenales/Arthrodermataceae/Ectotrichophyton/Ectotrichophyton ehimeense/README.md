@@ -1,5 +1,4 @@
-Ectotrichophyton ehimeense (H. Fujii) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton ehimeense (H. Fujii) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

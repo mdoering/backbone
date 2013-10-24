@@ -1,5 +1,4 @@
-Ophiocordyceps selkirkii (Olliff) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps selkirkii (Olliff) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

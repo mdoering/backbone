@@ -1,5 +1,4 @@
-Phyllostictina mecranii Petr. & Cif. SPECIES
-=======
+# Phyllostictina mecranii Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

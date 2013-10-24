@@ -1,5 +1,4 @@
-Collema globuliferum Degel. SPECIES
-=======
+# Collema globuliferum Degel. SPECIES
 
 #### Status
 ACCEPTED

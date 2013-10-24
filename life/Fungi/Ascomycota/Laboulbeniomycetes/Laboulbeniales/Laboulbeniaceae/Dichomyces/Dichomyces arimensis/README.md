@@ -1,5 +1,4 @@
-Dichomyces arimensis Thaxt. SPECIES
-=======
+# Dichomyces arimensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

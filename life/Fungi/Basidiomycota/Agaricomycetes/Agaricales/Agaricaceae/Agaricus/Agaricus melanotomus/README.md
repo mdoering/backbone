@@ -1,5 +1,4 @@
-Agaricus melanotomus Berk. & Broome SPECIES
-=======
+# Agaricus melanotomus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

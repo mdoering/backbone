@@ -1,5 +1,4 @@
-Russula verna Singer SPECIES
-=======
+# Russula verna Singer SPECIES
 
 #### Status
 ACCEPTED

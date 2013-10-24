@@ -1,5 +1,4 @@
-Dirinastrum chilense (C.W. Dodge) Follmann SPECIES
-=======
+# Dirinastrum chilense (C.W. Dodge) Follmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Alternaria florigenum (Ellis & Dearn.) Nelen SPECIES
-=======
+# Alternaria florigena (Ellis & Dearn.) Nelen & Vasiljeva ex Joly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Encyclop. Mycol. 33: 201 (1964)
 
 #### Original name
 Macrosporium florigenum Ellis & Dearn.

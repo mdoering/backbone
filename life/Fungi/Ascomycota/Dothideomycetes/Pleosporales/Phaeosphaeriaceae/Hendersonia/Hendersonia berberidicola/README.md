@@ -1,5 +1,4 @@
-Hendersonia berberidicola Naumova & Naumov SPECIES
-=======
+# Hendersonia berberidicola Naumova & Naumov SPECIES
 
 #### Status
 ACCEPTED

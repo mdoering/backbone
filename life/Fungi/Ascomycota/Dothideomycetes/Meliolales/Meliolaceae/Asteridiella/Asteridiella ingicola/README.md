@@ -1,14 +1,13 @@
-Asteridiella ingaeicola (Speg.) Hansf. SPECIES
-=======
+# Asteridiella ingicola (Speg.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 258 (1961)
 
 #### Original name
 Meliola ingicola Speg.

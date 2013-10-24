@@ -1,5 +1,4 @@
-Phaeosaccardinula funtumiae (Hansf.) Hansf. SPECIES
-=======
+# Phaeosaccardinula funtumiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

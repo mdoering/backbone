@@ -1,5 +1,4 @@
-Gloeothece baileyana Schmidle SPECIES
-=======
+# Gloeothece baileyana Schmidle SPECIES
 
 #### Status
 ACCEPTED

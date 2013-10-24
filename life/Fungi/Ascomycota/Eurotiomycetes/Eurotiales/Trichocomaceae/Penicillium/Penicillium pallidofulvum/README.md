@@ -1,5 +1,4 @@
-Penicillium pallidofulvum Peck SPECIES
-=======
+# Penicillium pallidofulvum Peck SPECIES
 
 #### Status
 ACCEPTED

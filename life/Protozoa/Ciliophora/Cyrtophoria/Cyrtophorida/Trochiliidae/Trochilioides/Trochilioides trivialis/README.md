@@ -1,5 +1,4 @@
-Trochilioides trivialis Fenchel, 1965 SPECIES
-=======
+# Trochilioides trivialis Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

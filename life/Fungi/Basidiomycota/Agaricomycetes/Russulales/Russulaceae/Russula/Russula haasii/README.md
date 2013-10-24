@@ -1,5 +1,4 @@
-Russula haasii Raithelh. SPECIES
-=======
+# Russula haasii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

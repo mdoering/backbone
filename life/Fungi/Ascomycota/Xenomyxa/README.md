@@ -1,5 +1,4 @@
-Xenomyxa Syd. GENUS
-=======
+# Xenomyxa Syd. GENUS
 
 #### Status
 ACCEPTED

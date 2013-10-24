@@ -1,5 +1,4 @@
-Peridinium gregarium E. H. Lombard & B. Capon SPECIES
-=======
+# Peridinium gregarium E. H. Lombard & B. Capon SPECIES
 
 #### Status
 ACCEPTED

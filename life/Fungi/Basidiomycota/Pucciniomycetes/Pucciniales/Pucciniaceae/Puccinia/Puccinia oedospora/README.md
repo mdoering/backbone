@@ -1,5 +1,4 @@
-Puccinia oedospora J.Y. Zhuang SPECIES
-=======
+# Puccinia oedospora J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella phyllophila Raithelh. SPECIES
-=======
+# Psathyrella phyllophila Raithelh. SPECIES
 
 #### Status
 ACCEPTED

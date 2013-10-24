@@ -1,5 +1,4 @@
-Atropellis pinicola Zeller & Goodd., 1930 SPECIES
-=======
+# Atropellis pinicola Zeller & Goodd., 1930 SPECIES
 
 #### Status
 ACCEPTED

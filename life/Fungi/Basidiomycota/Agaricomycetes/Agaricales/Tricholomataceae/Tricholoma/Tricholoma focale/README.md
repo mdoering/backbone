@@ -1,17 +1,16 @@
-Tricholoma focale var. focale VARIETY
-=======
+# Tricholoma focale (Fr.) Ricken, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Die Blätterpilze 332 (1914)
 
 #### Original name
-Tricholoma focale var. focale
+Agaricus focalis Fr., 1838
 
 ### Remarks
 null

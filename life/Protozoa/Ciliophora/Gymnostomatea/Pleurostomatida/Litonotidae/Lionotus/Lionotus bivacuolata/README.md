@@ -1,5 +1,4 @@
-Lionotus bivacuolata Kahl, 1931 SPECIES
-=======
+# Lionotus bivacuolata Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

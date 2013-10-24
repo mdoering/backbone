@@ -1,5 +1,4 @@
-Shewanella irciniae Lee, Lau, Tsoi, Li, Plakhotnikova, Dobretsov, Wu, Wong, Weinbauer & Qian, 2006 SPECIES
-=======
+# Shewanella irciniae Lee, Lau, Tsoi, Li, Plakhotnikova, Dobretsov, Wu, Wong, Weinbauer & Qian, 2006 SPECIES
 
 #### Status
 ACCEPTED

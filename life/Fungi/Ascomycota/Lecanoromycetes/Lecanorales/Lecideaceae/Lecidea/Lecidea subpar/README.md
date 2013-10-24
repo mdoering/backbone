@@ -1,5 +1,4 @@
-Lecidea subpar Nyl. SPECIES
-=======
+# Lecidea subpar Nyl. SPECIES
 
 #### Status
 ACCEPTED

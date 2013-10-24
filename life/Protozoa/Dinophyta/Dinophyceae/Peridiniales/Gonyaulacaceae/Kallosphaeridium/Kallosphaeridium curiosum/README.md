@@ -1,5 +1,4 @@
-Kallosphaeridium curiosum J. P. Bujak SPECIES
-=======
+# Kallosphaeridium curiosum J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

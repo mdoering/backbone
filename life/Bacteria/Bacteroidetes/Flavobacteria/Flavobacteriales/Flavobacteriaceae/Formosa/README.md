@@ -1,5 +1,4 @@
-Formosa Ivanova, Alexeeva, Flavier, Wright, Zhukova, Gorshkova, Mikhailov, Nicolau & Christen, 2006 GENUS
-=======
+# Formosa Ivanova, Alexeeva, Flavier, Wright, Zhukova, Gorshkova, Mikhailov, Nicolau & Christen, 2006 GENUS
 
 #### Status
 ACCEPTED

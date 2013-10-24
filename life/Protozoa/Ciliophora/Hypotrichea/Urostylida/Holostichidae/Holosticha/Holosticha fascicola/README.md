@@ -1,5 +1,4 @@
-Holosticha fascicola SPECIES
-=======
+# Holosticha fascicola SPECIES
 
 #### Status
 ACCEPTED

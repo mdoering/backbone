@@ -1,5 +1,4 @@
-Cladotricha elongata Ruinen, 1938 SPECIES
-=======
+# Cladotricha elongata Ruinen, 1938 SPECIES
 
 #### Status
 ACCEPTED

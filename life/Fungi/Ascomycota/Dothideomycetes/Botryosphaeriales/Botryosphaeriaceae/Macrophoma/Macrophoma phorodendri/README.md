@@ -1,5 +1,4 @@
-Macrophoma phorodendri F.A. Wolf SPECIES
-=======
+# Macrophoma phorodendri F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

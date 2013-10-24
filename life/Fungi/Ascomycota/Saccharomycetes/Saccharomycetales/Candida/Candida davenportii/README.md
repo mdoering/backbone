@@ -1,5 +1,4 @@
-Candida davenportii Stratford, C.J. Bond, S.A. James, I.N. Roberts & Steels SPECIES
-=======
+# Candida davenportii Stratford, C.J. Bond, S.A. James, I.N. Roberts & Steels SPECIES
 
 #### Status
 ACCEPTED

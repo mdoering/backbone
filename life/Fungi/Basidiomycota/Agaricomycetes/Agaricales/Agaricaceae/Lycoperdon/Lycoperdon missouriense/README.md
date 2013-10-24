@@ -1,5 +1,4 @@
-Lycoperdon missouriense Trel. SPECIES
-=======
+# Lycoperdon missouriense Trel. SPECIES
 
 #### Status
 ACCEPTED

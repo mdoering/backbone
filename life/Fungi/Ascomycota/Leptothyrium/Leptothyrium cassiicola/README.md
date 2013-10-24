@@ -1,5 +1,4 @@
-Leptothyrium cassiicola Dearn. & House SPECIES
-=======
+# Leptothyrium cassiicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

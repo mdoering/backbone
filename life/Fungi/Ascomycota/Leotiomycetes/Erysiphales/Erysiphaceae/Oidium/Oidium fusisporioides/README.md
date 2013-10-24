@@ -1,5 +1,4 @@
-Oidium fusisporioides var. fusisporioides VARIETY
-=======
+# Oidium fusisporioides Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fungi rhenani exsic. 2: no. 135 (1883)
 
 #### Original name
-Oidium fusisporioides var. fusisporioides
+Oidium fusisporioides Fuckel
 
 ### Remarks
 null

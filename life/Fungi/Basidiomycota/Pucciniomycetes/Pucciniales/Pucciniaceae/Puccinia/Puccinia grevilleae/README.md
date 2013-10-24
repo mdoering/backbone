@@ -1,5 +1,4 @@
-Puccinia grevilleae McTaggart & R.G. Shivas SPECIES
-=======
+# Puccinia grevilleae McTaggart & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

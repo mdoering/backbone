@@ -1,5 +1,4 @@
-Asterina pouteriae B. Song SPECIES
-=======
+# Asterina pouteriae B. Song SPECIES
 
 #### Status
 ACCEPTED

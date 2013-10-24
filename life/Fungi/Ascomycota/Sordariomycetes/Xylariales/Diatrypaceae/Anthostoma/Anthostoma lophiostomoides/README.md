@@ -1,5 +1,4 @@
-Anthostoma lophiostomoides Speg. SPECIES
-=======
+# Anthostoma lophiostomoides Speg. SPECIES
 
 #### Status
 ACCEPTED

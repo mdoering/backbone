@@ -1,14 +1,13 @@
-Asterina antioquensis (Toro) Orejuela SPECIES
-=======
+# Placoasterina antioquensis Toro, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Dept. Agric. Porto Rico 14: (1930)
 
 #### Original name
 Placoasterina antioquensis Toro, 1930

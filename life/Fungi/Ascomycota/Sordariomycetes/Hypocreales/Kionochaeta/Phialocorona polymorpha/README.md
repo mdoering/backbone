@@ -1,17 +1,16 @@
-Phialocorona pleomorpha Subram. SPECIES
-=======
+# Phialocorona polymorpha Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 20/21(1-2): 57 (1995)
 
 #### Original name
-Phialocorona pleomorpha Subram.
+Phialocorona polymorpha Subram.
 
 ### Remarks
 null

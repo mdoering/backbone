@@ -1,14 +1,13 @@
-Alnicola pseudoamarescens Kühner & Romagn., 1947 SPECIES
-=======
+# Hebeloma pseudoamarescens (Kühner & Romagn.) P. Collin, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Sci. Franche-Comté 2: 10 (1947)
+Docums Mycol. 19(no. 74): 61 (1988)
 
 #### Original name
 Alnicola pseudoamarescens Kühner & Romagn., 1947

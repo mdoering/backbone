@@ -1,17 +1,16 @@
-Cytospora juglandina var. juglandina VARIETY
-=======
+# Cytospora juglandina Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 7): 264 (1881)
 
 #### Original name
-Cytospora juglandina var. juglandina
+Cytospora juglandina Sacc., 1881
 
 ### Remarks
 null

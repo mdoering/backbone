@@ -1,5 +1,4 @@
-Cortinarius clarobrunneus (H. Lindstr. & Melot) Niskanen, Kytöv. & Liimat. SPECIES
-=======
+# Cortinarius clarobrunneus (H. Lindstr. & Melot) Niskanen, Kytöv. & Liimat. SPECIES
 
 #### Status
 ACCEPTED

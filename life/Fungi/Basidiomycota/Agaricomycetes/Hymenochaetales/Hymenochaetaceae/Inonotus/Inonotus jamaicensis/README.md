@@ -1,5 +1,4 @@
-Inonotus jamaicensis Murrill SPECIES
-=======
+# Inonotus jamaicensis Murrill SPECIES
 
 #### Status
 ACCEPTED

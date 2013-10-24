@@ -1,5 +1,4 @@
-Schizosaccharomyces taito Nakaz. SPECIES
-=======
+# Schizosaccharomyces taito Nakaz. SPECIES
 
 #### Status
 ACCEPTED

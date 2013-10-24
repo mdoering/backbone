@@ -1,5 +1,4 @@
-Leptonia violaceonigra Largent SPECIES
-=======
+# Leptonia violaceonigra Largent SPECIES
 
 #### Status
 ACCEPTED

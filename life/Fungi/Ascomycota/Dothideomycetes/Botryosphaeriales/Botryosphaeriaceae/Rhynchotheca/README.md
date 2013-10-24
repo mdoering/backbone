@@ -1,5 +1,4 @@
-Rhynchotheca Klebahn, 1933 GENUS
-=======
+# Rhynchotheca Klebahn, 1933 GENUS
 
 #### Status
 ACCEPTED

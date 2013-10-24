@@ -1,5 +1,4 @@
-Secoliga acerina (Ach.) Stizenb. SPECIES
-=======
+# Secoliga acerina (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

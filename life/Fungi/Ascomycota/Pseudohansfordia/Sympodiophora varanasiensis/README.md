@@ -1,5 +1,4 @@
-Sympodiophora varanasiensis Deighton & Piroz. SPECIES
-=======
+# Sympodiophora varanasiensis Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

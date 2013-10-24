@@ -1,5 +1,4 @@
-Paulinella osloensis SPECIES
-=======
+# Paulinella osloensis SPECIES
 
 #### Status
 ACCEPTED

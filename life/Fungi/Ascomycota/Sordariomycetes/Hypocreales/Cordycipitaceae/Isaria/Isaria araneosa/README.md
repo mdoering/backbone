@@ -1,5 +1,4 @@
-Isaria araneosa Speg. SPECIES
-=======
+# Isaria araneosa Speg. SPECIES
 
 #### Status
 ACCEPTED

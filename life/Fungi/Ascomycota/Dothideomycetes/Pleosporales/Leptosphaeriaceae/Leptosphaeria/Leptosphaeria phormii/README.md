@@ -1,5 +1,4 @@
-Leptosphaeria phormii Grove, 1921 SPECIES
-=======
+# Leptosphaeria phormii Grove, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodiscus auricolor (Raitv.) Raitv., 2004 SPECIES
-=======
+# Hyphodiscus auricolor (Raitv.) Raitv., 2004 SPECIES
 
 #### Status
 ACCEPTED

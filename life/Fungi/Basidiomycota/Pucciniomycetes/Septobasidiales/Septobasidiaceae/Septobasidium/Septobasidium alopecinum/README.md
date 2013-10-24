@@ -1,5 +1,4 @@
-Septobasidium alopecinum (Berk. & Broome) Petch SPECIES
-=======
+# Septobasidium alopecinum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

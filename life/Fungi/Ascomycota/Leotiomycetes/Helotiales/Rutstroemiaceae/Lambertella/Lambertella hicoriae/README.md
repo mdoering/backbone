@@ -1,5 +1,4 @@
-Lambertella hicoriae Whetzel, 1943 SPECIES
-=======
+# Lambertella hicoriae Whetzel, 1943 SPECIES
 
 #### Status
 ACCEPTED

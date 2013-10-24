@@ -1,5 +1,4 @@
-Polystomella pulcherrima Speg. SPECIES
-=======
+# Polystomella pulcherrima Speg. SPECIES
 
 #### Status
 ACCEPTED

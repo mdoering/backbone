@@ -1,5 +1,4 @@
-Phragmotrichum applanatum (Sacc.) Madej SPECIES
-=======
+# Phragmotrichum applanatum (Sacc.) Madej SPECIES
 
 #### Status
 ACCEPTED

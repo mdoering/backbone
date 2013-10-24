@@ -1,14 +1,13 @@
-Omphalina melanomphax (Singer) Raithelh., 1973 SPECIES
-=======
+# Gerronema melanomphax Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Metrodiana 4(4): 64 (1973)
+Mycologia 43(5): 602 (1951)
 
 #### Original name
 Gerronema melanomphax Singer, 1951

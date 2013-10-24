@@ -1,5 +1,4 @@
-Verrucaria delitoides Servít SPECIES
-=======
+# Verrucaria delitoides Servít SPECIES
 
 #### Status
 ACCEPTED

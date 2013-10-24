@@ -1,5 +1,4 @@
-Trametes febris Corner SPECIES
-=======
+# Trametes febris Corner SPECIES
 
 #### Status
 ACCEPTED

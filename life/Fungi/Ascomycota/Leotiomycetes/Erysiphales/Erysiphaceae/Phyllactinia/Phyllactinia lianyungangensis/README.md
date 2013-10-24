@@ -1,5 +1,4 @@
-Phyllactinia lianyungangensis S.J. Gu & Y.S. Zhang SPECIES
-=======
+# Phyllactinia lianyungangensis S.J. Gu & Y.S. Zhang SPECIES
 
 #### Status
 ACCEPTED

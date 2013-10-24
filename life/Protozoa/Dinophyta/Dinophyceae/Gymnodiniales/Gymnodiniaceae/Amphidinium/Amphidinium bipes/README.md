@@ -1,5 +1,4 @@
-Amphidinium bipes Herdman SPECIES
-=======
+# Amphidinium bipes Herdman SPECIES
 
 #### Status
 ACCEPTED

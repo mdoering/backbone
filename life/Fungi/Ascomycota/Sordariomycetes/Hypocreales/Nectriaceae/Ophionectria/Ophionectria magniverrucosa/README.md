@@ -1,5 +1,4 @@
-Ophionectria magniverrucosa Rossman, 1983 SPECIES
-=======
+# Ophionectria magniverrucosa Rossman, 1983 SPECIES
 
 #### Status
 ACCEPTED

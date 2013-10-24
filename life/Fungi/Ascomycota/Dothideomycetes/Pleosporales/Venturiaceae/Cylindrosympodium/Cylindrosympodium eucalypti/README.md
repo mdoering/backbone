@@ -1,5 +1,4 @@
-Cylindrosympodium eucalypti (Vittal & Dorai) R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Cylindrosympodium eucalypti (Vittal & Dorai) R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

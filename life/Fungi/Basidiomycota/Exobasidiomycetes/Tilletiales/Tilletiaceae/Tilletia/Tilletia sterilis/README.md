@@ -1,5 +1,4 @@
-Tilletia sterilis Ule SPECIES
-=======
+# Tilletia sterilis Ule SPECIES
 
 #### Status
 ACCEPTED

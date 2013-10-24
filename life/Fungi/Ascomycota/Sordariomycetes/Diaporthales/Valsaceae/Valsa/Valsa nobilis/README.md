@@ -1,5 +1,4 @@
-Valsa nobilis Sacc. SPECIES
-=======
+# Valsa nobilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

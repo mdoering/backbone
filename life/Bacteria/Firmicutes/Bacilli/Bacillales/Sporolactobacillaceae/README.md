@@ -1,5 +1,4 @@
-Sporolactobacillaceae FAMILY
-=======
+# Sporolactobacillaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eupoikilofusa ergatoides Cramer & Díez, 1977 SPECIES
-=======
+# Eupoikilofusa ergatoides Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

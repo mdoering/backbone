@@ -1,5 +1,4 @@
-Chroococcales ORDER
-=======
+# Chroococcales ORDER
 
 #### Status
 ACCEPTED

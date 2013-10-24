@@ -1,5 +1,4 @@
-Lecanora kelungensis Zahlbr. SPECIES
-=======
+# Lecanora kelungensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

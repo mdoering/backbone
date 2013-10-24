@@ -1,5 +1,4 @@
-Cenangium acutum (Schumach.) Fr. SPECIES
-=======
+# Cenangium acutum (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

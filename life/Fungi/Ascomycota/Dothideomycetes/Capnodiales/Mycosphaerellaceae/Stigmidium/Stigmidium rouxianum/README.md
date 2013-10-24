@@ -1,5 +1,4 @@
-Stigmidium rouxianum Calat. & Triebel, 2003 SPECIES
-=======
+# Stigmidium rouxianum Calat. & Triebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

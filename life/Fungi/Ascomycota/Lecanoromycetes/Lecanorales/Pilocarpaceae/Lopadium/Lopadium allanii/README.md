@@ -1,5 +1,4 @@
-Lopadium allanii Zahlbr. SPECIES
-=======
+# Lopadium allanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia scholanderi C.W. Dodge SPECIES
-=======
+# Parmelia scholanderi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

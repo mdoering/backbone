@@ -1,5 +1,4 @@
-Catapyrenium norrlandicum (H. Magn.) SPECIES
-=======
+# Catapyrenium norrlandicum (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

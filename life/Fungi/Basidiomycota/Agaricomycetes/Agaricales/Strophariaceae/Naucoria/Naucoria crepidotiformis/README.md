@@ -1,5 +1,4 @@
-Naucoria crepidotiformis Velen. SPECIES
-=======
+# Naucoria crepidotiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tripospermum inflacatum K. Ando & Tubaki SPECIES
-=======
+# Tripospermum infalcatum K. Ando & Tubaki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 25(1): 42 (1984)
 
 #### Original name
-Tripospermum inflacatum K. Ando & Tubaki
+Tripospermum infalcatum K. Ando & Tubaki
 
 ### Remarks
 null

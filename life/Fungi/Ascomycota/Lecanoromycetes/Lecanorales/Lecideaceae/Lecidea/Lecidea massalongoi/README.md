@@ -1,8 +1,7 @@
-Lecidea massalongii SPECIES
-=======
+# Lecidea massalongoi Mig. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Lecidea massalongoi Mig.
 
 ### Remarks
 null

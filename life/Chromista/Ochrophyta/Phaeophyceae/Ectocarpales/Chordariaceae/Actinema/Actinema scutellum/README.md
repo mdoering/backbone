@@ -1,5 +1,4 @@
-Actinema scutellum Reinsch SPECIES
-=======
+# Actinema scutellum Reinsch SPECIES
 
 #### Status
 ACCEPTED

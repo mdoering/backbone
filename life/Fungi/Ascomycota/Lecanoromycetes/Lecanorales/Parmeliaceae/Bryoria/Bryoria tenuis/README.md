@@ -1,14 +1,13 @@
-Alectoria tenuis Å.E. Dahl SPECIES
-=======
+# Bryoria tenuis (Å. E. Dahl) Brodo & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddr Grønland, Biosc. 150(no. 2): 144 (1950)
+Op. bot. 42: 112 (1977)
 
 #### Original name
 Alectoria tenuis Å.E. Dahl

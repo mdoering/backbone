@@ -1,5 +1,4 @@
-Kionochaeta spissa P.M. Kirk & B. Sutton, 1986 SPECIES
-=======
+# Kionochaeta spissa P.M. Kirk & B. Sutton, 1986 SPECIES
 
 #### Status
 ACCEPTED

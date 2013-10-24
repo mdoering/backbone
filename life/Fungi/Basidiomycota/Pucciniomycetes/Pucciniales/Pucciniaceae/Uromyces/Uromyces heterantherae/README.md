@@ -1,5 +1,4 @@
-Uromyces heterantherae (Henn.) P. Syd. & Syd. SPECIES
-=======
+# Uromyces heterantherae (Henn.) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

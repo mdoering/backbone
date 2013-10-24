@@ -1,5 +1,4 @@
-Agaricus orcellus Bull. ex Pers. SPECIES
-=======
+# Agaricus orcellus Bull. ex Pers. SPECIES
 
 #### Status
 ACCEPTED

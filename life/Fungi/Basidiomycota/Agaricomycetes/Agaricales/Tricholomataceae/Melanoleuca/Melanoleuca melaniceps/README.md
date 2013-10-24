@@ -1,5 +1,4 @@
-Melanoleuca melaniceps (Cooke & Massee) Pegler SPECIES
-=======
+# Melanoleuca melaniceps (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

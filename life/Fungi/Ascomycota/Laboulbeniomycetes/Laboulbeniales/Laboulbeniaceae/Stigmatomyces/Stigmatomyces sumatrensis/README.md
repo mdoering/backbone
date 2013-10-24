@@ -1,5 +1,4 @@
-Stigmatomyces sumatrensis Thaxt. SPECIES
-=======
+# Stigmatomyces sumatrensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

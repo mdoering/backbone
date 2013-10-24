@@ -1,5 +1,4 @@
-Pyrenostigme Syd. GENUS
-=======
+# Pyrenostigme Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora mimosigena U. Braun & F.O. Freire SPECIES
-=======
+# Passalora mimosigena U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

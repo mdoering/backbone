@@ -1,5 +1,4 @@
-Uredo rubi-fruticosi Pers. SPECIES
-=======
+# Uredo rubi-fruticosi Pers. SPECIES
 
 #### Status
 ACCEPTED

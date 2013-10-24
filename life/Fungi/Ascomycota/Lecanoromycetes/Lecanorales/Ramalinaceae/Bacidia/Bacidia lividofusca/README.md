@@ -1,14 +1,13 @@
-Lecidea lividofusca Nyl. SPECIES
-=======
+# Bacidia lividofusca (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 2 2: 81 (1868)
+Cat. Lich. Univers. 4: 121 (1926)
 
 #### Original name
 Lecidea lividofusca Nyl.

@@ -1,5 +1,4 @@
-Schizoxylon centaureae Bres. SPECIES
-=======
+# Schizoxylon centaureae Bres. SPECIES
 
 #### Status
 ACCEPTED

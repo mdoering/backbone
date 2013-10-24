@@ -1,5 +1,4 @@
-Psathyrella terrestris Natarajan SPECIES
-=======
+# Psathyrella terrestris Natarajan SPECIES
 
 #### Status
 ACCEPTED

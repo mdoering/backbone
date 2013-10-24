@@ -1,5 +1,4 @@
-Hygrophorus glaucus P. Karst. SPECIES
-=======
+# Hygrophorus glaucus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

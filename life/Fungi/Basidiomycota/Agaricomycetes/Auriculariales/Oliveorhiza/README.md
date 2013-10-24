@@ -1,5 +1,4 @@
-Oliveorhiza P. Roberts GENUS
-=======
+# Oliveorhiza P. Roberts GENUS
 
 #### Status
 ACCEPTED

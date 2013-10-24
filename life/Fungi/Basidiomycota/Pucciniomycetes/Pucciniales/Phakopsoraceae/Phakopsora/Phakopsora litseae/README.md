@@ -1,5 +1,4 @@
-Phakopsora litseae J.Y. Zhuang SPECIES
-=======
+# Phakopsora litseae J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

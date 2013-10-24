@@ -1,5 +1,4 @@
-Collema kansuense H. Magn. SPECIES
-=======
+# Collema kansuense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

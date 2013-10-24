@@ -1,5 +1,4 @@
-Polyporus limbatus Fr. SPECIES
-=======
+# Polyporus limbatus Fr. SPECIES
 
 #### Status
 ACCEPTED

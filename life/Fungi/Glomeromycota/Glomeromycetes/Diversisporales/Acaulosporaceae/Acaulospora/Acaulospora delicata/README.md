@@ -1,5 +1,4 @@
-Acaulospora delicata C. Walker, C.M. Pfeiff. & Bloss, 1986 SPECIES
-=======
+# Acaulospora delicata C. Walker, C.M. Pfeiff. & Bloss, 1986 SPECIES
 
 #### Status
 ACCEPTED

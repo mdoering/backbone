@@ -1,5 +1,4 @@
-Trachysphaeridium complanatum Andreeva, 1966 SPECIES
-=======
+# Trachysphaeridium complanatum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

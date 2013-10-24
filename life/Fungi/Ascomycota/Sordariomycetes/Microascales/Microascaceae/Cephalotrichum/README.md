@@ -1,17 +1,16 @@
-Synpenicillium Costantin GENUS
-=======
+# Cephalotrichum Link ex E.M. Fries, 1832 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4: 62 (1888)
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 20 (1809)
 
 #### Original name
-Synpenicillium Costantin
+Cephalotrichum Link ex E.M. Fries, 1832
 
 ### Remarks
 null

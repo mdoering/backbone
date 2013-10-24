@@ -1,5 +1,4 @@
-Flammula hypholomoides Murrill SPECIES
-=======
+# Flammula hypholomoides Murrill SPECIES
 
 #### Status
 ACCEPTED

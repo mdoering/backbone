@@ -1,5 +1,4 @@
-Catenularia echinata Wakker SPECIES
-=======
+# Catenularia echinata Wakker SPECIES
 
 #### Status
 ACCEPTED

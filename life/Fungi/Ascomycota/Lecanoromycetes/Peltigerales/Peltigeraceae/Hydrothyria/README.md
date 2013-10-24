@@ -1,5 +1,4 @@
-Hydrothyria Russ. GENUS
-=======
+# Hydrothyria Russ. GENUS
 
 #### Status
 ACCEPTED

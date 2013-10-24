@@ -1,5 +1,4 @@
-Cortinarius aureocalceolatus M.M. Moser & Peintner SPECIES
-=======
+# Cortinarius aureocalceolatus M.M. Moser & Peintner SPECIES
 
 #### Status
 ACCEPTED

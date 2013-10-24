@@ -1,14 +1,13 @@
-Crepidotus subpurpureus S. Ito & S. Imai, 1940 SPECIES
-=======
+# Pyrrhoglossum subpurpureum (S. Ito & S. Imai) E. Horak & Desjardin, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 16: 50 (1940)
+Mem. N. Y. bot. Gdn 89: 62 (2004)
 
 #### Original name
 Crepidotus subpurpureus S. Ito & S. Imai, 1940

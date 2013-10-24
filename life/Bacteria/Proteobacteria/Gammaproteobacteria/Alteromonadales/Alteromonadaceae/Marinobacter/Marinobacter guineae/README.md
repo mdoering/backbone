@@ -1,5 +1,4 @@
-Marinobacter guineae Montes, Bozal & Mercade, 2008 SPECIES
-=======
+# Marinobacter guineae Montes, Bozal & Mercade, 2008 SPECIES
 
 #### Status
 ACCEPTED

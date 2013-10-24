@@ -1,5 +1,4 @@
-Spiroloculina lyra d'Orbigny, 1839 SPECIES
-=======
+# Spiroloculina lyra d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

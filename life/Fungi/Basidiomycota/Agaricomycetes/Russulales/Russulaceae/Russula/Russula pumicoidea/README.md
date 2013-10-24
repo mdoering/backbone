@@ -1,5 +1,4 @@
-Russula pumicoidea T. Lebel SPECIES
-=======
+# Russula pumicoidea T. Lebel SPECIES
 
 #### Status
 ACCEPTED

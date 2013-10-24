@@ -1,5 +1,4 @@
-Agaricus detonsus Fr. SPECIES
-=======
+# Agaricus detonsus Fr. SPECIES
 
 #### Status
 ACCEPTED

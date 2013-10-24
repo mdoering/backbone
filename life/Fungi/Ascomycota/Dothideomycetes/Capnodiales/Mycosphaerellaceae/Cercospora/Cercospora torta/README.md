@@ -1,5 +1,4 @@
-Cercospora torta Tracy & Earle SPECIES
-=======
+# Cercospora torta Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

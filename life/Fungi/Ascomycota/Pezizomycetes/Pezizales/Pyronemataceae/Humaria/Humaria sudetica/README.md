@@ -1,5 +1,4 @@
-Humaria sudetica Kirschst. SPECIES
-=======
+# Humaria sudetica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

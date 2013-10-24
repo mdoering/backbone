@@ -1,5 +1,4 @@
-Meliola osmanthicola Hansf. SPECIES
-=======
+# Meliola osmanthicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

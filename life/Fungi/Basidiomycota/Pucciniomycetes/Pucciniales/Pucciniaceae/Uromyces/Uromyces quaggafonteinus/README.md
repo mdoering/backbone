@@ -1,5 +1,4 @@
-Uromyces quaggafonteinus Mennicken & Oberw., 2004 SPECIES
-=======
+# Uromyces quaggafonteinus Mennicken & Oberw., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fuscopallidus Bolton SPECIES
-=======
+# Agaricus fuscopallidus Bolton SPECIES
 
 #### Status
 ACCEPTED

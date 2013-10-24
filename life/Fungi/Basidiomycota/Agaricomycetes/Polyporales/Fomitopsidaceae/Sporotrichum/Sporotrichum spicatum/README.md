@@ -1,5 +1,4 @@
-Sporotrichum spicatum Delitsch SPECIES
-=======
+# Sporotrichum spicatum Delitsch SPECIES
 
 #### Status
 ACCEPTED

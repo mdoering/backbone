@@ -1,5 +1,4 @@
-Rinodina placodina Jatta SPECIES
-=======
+# Rinodina placodina Jatta SPECIES
 
 #### Status
 ACCEPTED

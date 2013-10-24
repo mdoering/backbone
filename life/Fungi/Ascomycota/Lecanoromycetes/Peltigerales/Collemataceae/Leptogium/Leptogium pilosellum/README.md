@@ -1,5 +1,4 @@
-Leptogium pilosellum G. Merr. SPECIES
-=======
+# Leptogium pilosellum G. Merr. SPECIES
 
 #### Status
 ACCEPTED

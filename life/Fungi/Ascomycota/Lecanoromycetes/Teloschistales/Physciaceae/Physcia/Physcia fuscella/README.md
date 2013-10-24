@@ -1,5 +1,4 @@
-Physcia fuscella Hue SPECIES
-=======
+# Physcia fuscella Hue SPECIES
 
 #### Status
 ACCEPTED

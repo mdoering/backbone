@@ -1,5 +1,4 @@
-Schiffnerula ambigua Petr. SPECIES
-=======
+# Schiffnerula ambigua Petr. SPECIES
 
 #### Status
 ACCEPTED

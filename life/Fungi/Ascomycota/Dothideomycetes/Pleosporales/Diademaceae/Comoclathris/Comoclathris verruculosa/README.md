@@ -1,5 +1,4 @@
-Comoclathris verruculosa (O.E. Erikss.) Nograsek SPECIES
-=======
+# Comoclathris verruculosa (O.E. Erikss.) Nograsek SPECIES
 
 #### Status
 ACCEPTED

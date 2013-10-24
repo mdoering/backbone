@@ -1,5 +1,4 @@
-Galerula glabra Murrill SPECIES
-=======
+# Galerula glabra Murrill SPECIES
 
 #### Status
 ACCEPTED

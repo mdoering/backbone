@@ -1,5 +1,4 @@
-Stagonospora gardeniae Tassi SPECIES
-=======
+# Stagonospora gardeniae Tassi SPECIES
 
 #### Status
 ACCEPTED

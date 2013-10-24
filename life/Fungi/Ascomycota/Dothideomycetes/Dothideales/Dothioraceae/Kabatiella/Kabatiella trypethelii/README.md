@@ -1,5 +1,4 @@
-Kabatiella trypethelii (Tuck.) Keissl. SPECIES
-=======
+# Kabatiella trypethelii (Tuck.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon leightonianum Servít SPECIES
-=======
+# Dermatocarpon leightonianum Servít SPECIES
 
 #### Status
 ACCEPTED

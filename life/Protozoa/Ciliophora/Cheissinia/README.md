@@ -1,17 +1,16 @@
-Tiarella Cheissin, 1931 GENUS
-=======
+# Cheissinia Chatton & Lwoff, 1949 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Protistenk. , 73, 280.
+Arch. Zool. exp. gén. , 86, 223.
 
 #### Original name
-null
+Tiarella Cheissin, 1931
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diaporthe rhamnigena Petr. SPECIES
-=======
+# Diaporthe rhamnigena Petr. SPECIES
 
 #### Status
 ACCEPTED

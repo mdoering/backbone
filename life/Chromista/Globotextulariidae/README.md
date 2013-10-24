@@ -1,5 +1,4 @@
-Globotextulariidae Cushman, 1927 FAMILY
-=======
+# Globotextulariidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora controversa SPECIES
-=======
+# Lecanora controversa SPECIES
 
 #### Status
 ACCEPTED

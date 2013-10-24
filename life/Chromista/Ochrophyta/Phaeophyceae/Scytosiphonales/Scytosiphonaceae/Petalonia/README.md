@@ -1,5 +1,4 @@
-Petalonia Derbès & Solier, 1850 GENUS
-=======
+# Petalonia Derbès & Solier, 1850 GENUS
 
 #### Status
 ACCEPTED

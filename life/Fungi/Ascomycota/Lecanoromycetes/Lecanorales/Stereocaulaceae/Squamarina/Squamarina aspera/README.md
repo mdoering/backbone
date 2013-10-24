@@ -1,5 +1,4 @@
-Squamarina aspera (Stizenb.) C.W. Dodge SPECIES
-=======
+# Squamarina aspera (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

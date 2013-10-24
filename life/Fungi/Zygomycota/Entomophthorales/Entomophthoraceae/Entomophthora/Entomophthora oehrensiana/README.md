@@ -1,5 +1,4 @@
-Entomophthora oehrensiana (Aruta, Carrillo & Monteal.) O. Martínez & E. Valenz. SPECIES
-=======
+# Entomophthora oehrensiana (Aruta, Carrillo & Monteal.) O. Martínez & E. Valenz. SPECIES
 
 #### Status
 ACCEPTED

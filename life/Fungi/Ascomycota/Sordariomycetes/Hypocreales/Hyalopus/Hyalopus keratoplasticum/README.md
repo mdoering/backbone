@@ -1,5 +1,4 @@
-Hyalopus keratoplasticum (T. Morik.) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus keratoplasticum (T. Morik.) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

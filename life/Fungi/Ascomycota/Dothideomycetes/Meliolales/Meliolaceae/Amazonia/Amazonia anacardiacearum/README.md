@@ -1,5 +1,4 @@
-Amazonia anacardiacearum F. Stevens SPECIES
-=======
+# Amazonia anacardiacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

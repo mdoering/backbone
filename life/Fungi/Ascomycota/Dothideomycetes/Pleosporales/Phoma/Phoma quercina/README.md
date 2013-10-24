@@ -1,5 +1,4 @@
-Phoma quercina (Peck) Sacc. SPECIES
-=======
+# Phoma quercina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

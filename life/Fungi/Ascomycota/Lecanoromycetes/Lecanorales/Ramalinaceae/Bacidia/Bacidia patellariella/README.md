@@ -1,5 +1,4 @@
-Bacidia patellariella Werner & M. Choisy SPECIES
-=======
+# Bacidia patellariella Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

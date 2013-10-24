@@ -1,5 +1,4 @@
-Phialea ambigua Bres. & Henn. SPECIES
-=======
+# Phialea ambigua Bres. & Henn. SPECIES
 
 #### Status
 ACCEPTED

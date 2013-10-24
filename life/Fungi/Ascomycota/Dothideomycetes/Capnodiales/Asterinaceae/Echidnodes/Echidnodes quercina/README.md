@@ -1,17 +1,16 @@
-Echidnodes quercina var. quercina VARIETY
-=======
+# Echidnodes quercina (Ellis & G. Martin) Hansf. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 15: 177 (1946)
 
 #### Original name
-null
+Aulographum quercinum Ellis & G. Martin
 
 ### Remarks
 null

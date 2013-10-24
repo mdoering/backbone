@@ -1,5 +1,4 @@
-Brevundimonas nasdae Li et al., 2004 SPECIES
-=======
+# Brevundimonas nasdae Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

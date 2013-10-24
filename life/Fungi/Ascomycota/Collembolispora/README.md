@@ -1,5 +1,4 @@
-Collembolispora Marvanová & Pascoal GENUS
-=======
+# Collembolispora Marvanová & Pascoal GENUS
 
 #### Status
 ACCEPTED

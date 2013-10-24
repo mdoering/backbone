@@ -1,5 +1,4 @@
-Balansina GENUS
-=======
+# Balansina GENUS
 
 #### Status
 ACCEPTED

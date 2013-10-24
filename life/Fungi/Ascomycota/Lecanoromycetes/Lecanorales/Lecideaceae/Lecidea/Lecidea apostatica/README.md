@@ -1,5 +1,4 @@
-Lecidea apostatica (Nyl.) Hue SPECIES
-=======
+# Lecidea apostatica (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

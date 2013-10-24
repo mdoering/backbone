@@ -1,5 +1,4 @@
-Phylacteria diffusa (Fr.) Pat. SPECIES
-=======
+# Phylacteria diffusa (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

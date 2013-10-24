@@ -1,14 +1,13 @@
-Melanconis californica Wehm., 1941 SPECIES
-=======
+# Massariovalsa californica (Wehm.) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revision of Melanconis, Pseudovalsa, Prosthecium & Titania 50 (1941)
+Mycol. Mem. 7: 191 (1978)
 
 #### Original name
 Melanconis californica Wehm., 1941

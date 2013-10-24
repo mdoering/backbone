@@ -1,5 +1,4 @@
-Leptosphaeria megalospora Auersw. & Niessl SPECIES
-=======
+# Leptosphaeria megalospora Auersw. & Niessl SPECIES
 
 #### Status
 ACCEPTED

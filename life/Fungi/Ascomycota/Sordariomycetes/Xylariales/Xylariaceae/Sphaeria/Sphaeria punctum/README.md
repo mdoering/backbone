@@ -1,5 +1,4 @@
-Sphaeria punctum Sowerby SPECIES
-=======
+# Sphaeria punctum Sowerby SPECIES
 
 #### Status
 ACCEPTED

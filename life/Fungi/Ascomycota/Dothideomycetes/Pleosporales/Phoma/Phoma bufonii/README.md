@@ -1,5 +1,4 @@
-Phoma bufonii Oudem. SPECIES
-=======
+# Phoma bufonii Oudem. SPECIES
 
 #### Status
 ACCEPTED

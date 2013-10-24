@@ -1,5 +1,4 @@
-Asterocalyx mirabilis Höhn., 1912 SPECIES
-=======
+# Asterocalyx mirabilis Höhn., 1912 SPECIES
 
 #### Status
 ACCEPTED

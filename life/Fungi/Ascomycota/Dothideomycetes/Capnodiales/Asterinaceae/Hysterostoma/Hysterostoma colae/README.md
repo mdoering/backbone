@@ -1,5 +1,4 @@
-Hysterostoma colae Hansf. SPECIES
-=======
+# Hysterostoma colae Hansf. SPECIES
 
 #### Status
 ACCEPTED

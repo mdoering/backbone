@@ -1,5 +1,4 @@
-Trametes hirsute (Fr.) Pilát., 1939 SPECIES
-=======
+# Trametes hirsute (Fr.) Pilát., 1939 SPECIES
 
 #### Status
 ACCEPTED

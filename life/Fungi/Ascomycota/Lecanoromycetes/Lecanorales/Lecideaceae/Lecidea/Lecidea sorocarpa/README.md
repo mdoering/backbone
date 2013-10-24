@@ -1,5 +1,4 @@
-Lecidea sorocarpa Malme SPECIES
-=======
+# Lecidea sorocarpa Malme SPECIES
 
 #### Status
 ACCEPTED

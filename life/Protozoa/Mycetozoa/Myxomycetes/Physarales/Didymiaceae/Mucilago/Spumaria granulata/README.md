@@ -1,5 +1,4 @@
-Spumaria granulata Schumach. SPECIES
-=======
+# Spumaria granulata Schumach. SPECIES
 
 #### Status
 ACCEPTED

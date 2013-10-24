@@ -1,5 +1,4 @@
-Hypoxylon bombacinum Bat. & Oliveira SPECIES
-=======
+# Hypoxylon bombacinum Bat. & Oliveira SPECIES
 
 #### Status
 ACCEPTED

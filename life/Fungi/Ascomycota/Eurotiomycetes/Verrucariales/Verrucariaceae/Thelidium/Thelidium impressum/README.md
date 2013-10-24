@@ -1,14 +1,13 @@
-Verrucaria impressula H. Magn. SPECIES
-=======
+# Thelidium impressum (Stizenb.) Zschacke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 62: 124 (1920)
 
 #### Original name
 Verrucaria impressula H. Magn.

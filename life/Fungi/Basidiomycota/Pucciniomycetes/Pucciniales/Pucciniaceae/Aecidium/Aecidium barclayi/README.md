@@ -1,5 +1,4 @@
-Aecidium barclayi Sacc. & Trotter SPECIES
-=======
+# Aecidium barclayi Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discinella luteoalba Bres. SPECIES
-=======
+# Discinella luteoalba Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploderma tuberosum Link SPECIES
-=======
+# Diploderma tuberosum Link SPECIES
 
 #### Status
 ACCEPTED

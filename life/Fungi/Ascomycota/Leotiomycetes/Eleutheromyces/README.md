@@ -1,5 +1,4 @@
-Eleutheromyces Fuckel, 1870 GENUS
-=======
+# Eleutheromyces Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

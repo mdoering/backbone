@@ -1,5 +1,4 @@
-Stictis lamyi Mont. SPECIES
-=======
+# Stictis lamyi Mont. SPECIES
 
 #### Status
 ACCEPTED

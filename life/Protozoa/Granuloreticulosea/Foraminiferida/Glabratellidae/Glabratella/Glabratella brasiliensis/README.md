@@ -1,5 +1,4 @@
-Glabratella brasiliensis Boltovskoy, 1959 SPECIES
-=======
+# Glabratella brasiliensis Boltovskoy, 1959 SPECIES
 
 #### Status
 ACCEPTED

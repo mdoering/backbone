@@ -1,5 +1,4 @@
-Asterina crotoniensis R.W. Ryan SPECIES
-=======
+# Asterina crotoniensis R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

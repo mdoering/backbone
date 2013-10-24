@@ -1,5 +1,4 @@
-Griphosphaeria hyperborea (P. Karst.) L. Holm SPECIES
-=======
+# Griphosphaeria hyperborea (P. Karst.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

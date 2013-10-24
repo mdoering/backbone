@@ -1,5 +1,4 @@
-Pseudovorticella pseudocampanula Foissner, 1979 SPECIES
-=======
+# Pseudovorticella pseudocampanula Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

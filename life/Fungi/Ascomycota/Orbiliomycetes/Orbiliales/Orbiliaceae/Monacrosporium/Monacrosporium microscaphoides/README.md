@@ -1,5 +1,4 @@
-Monacrosporium microscaphoides Xing Z. Liu & B.S. Lu SPECIES
-=======
+# Monacrosporium microscaphoides Xing Z. Liu & B.S. Lu SPECIES
 
 #### Status
 ACCEPTED

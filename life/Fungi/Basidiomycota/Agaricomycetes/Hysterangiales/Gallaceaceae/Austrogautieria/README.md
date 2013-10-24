@@ -1,5 +1,4 @@
-Austrogautieria E.L. Stewart & Trappe GENUS
-=======
+# Austrogautieria E.L. Stewart & Trappe GENUS
 
 #### Status
 ACCEPTED

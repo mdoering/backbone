@@ -1,5 +1,4 @@
-Gibberellulina Sousa da Câmara GENUS
-=======
+# Gibberellulina Sousa da Câmara GENUS
 
 #### Status
 ACCEPTED

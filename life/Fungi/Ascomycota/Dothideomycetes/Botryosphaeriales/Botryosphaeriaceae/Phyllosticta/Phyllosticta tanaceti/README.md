@@ -1,5 +1,4 @@
-Phyllosticta tanaceti Vasyag. SPECIES
-=======
+# Phyllosticta tanaceti Vasyag. SPECIES
 
 #### Status
 ACCEPTED

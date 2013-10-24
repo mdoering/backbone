@@ -1,5 +1,4 @@
-Verrucaria fraudulenta J. Steiner SPECIES
-=======
+# Verrucaria fraudulenta J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium pentziae-globosae Doidge SPECIES
-=======
+# Aecidium pentziae-globosae Doidge SPECIES
 
 #### Status
 ACCEPTED

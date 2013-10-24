@@ -1,14 +1,13 @@
-Hypoxylon angustum Petch, 1924 SPECIES
-=======
+# Nemania angusta (Petch) Y.M. Ju & J.D. Rogers, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 8: 153 (1924)
+Nova Hedwigia 74(1-2): 87 (2002)
 
 #### Original name
 Hypoxylon angustum Petch, 1924

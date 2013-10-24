@@ -1,14 +1,13 @@
-Pleurostoma vibratile (Fr.) M.E. Barr, J.D. Rogers & Y.M. Ju, 1993 SPECIES
-=======
+# Togninia vibratilis (Fr.) Réblová & L. Mostert, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 48: 534 (1993)
+Mycol. Res. 111(3): 301 (2007)
 
 #### Original name
 Sphaeria vibratilis Fr., 1823

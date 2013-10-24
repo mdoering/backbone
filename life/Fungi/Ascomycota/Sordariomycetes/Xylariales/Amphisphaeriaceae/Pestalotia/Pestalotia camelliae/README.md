@@ -1,5 +1,4 @@
-Pestalotia camelliae Pass. SPECIES
-=======
+# Pestalotia camelliae Pass. SPECIES
 
 #### Status
 ACCEPTED

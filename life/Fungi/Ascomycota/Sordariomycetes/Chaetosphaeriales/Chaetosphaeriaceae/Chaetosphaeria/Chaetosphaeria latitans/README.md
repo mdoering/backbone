@@ -1,5 +1,4 @@
-Chaetosphaeria latitans Sacc. SPECIES
-=======
+# Chaetosphaeria latitans Sacc. SPECIES
 
 #### Status
 ACCEPTED

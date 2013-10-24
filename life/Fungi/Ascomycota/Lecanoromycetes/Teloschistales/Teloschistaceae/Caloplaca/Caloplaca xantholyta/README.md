@@ -1,17 +1,16 @@
-Placodium xantholytum (Nyl.) Nyl. SPECIES
-=======
+# Caloplaca xantholyta (Nyl.) Jatta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Envir. Paris 46 (1896)
+null
 
 #### Original name
-Lecanora xantholyta Nyl.
+null
 
 ### Remarks
 null

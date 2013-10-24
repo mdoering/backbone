@@ -1,5 +1,4 @@
-Ustilago medians Biedenk. SPECIES
-=======
+# Ustilago medians Biedenk. SPECIES
 
 #### Status
 ACCEPTED

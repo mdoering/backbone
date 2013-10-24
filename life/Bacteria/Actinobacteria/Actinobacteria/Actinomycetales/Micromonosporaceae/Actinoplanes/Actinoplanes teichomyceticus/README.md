@@ -1,5 +1,4 @@
-Actinoplanes teichomyceticus Wink et al., 2006 SPECIES
-=======
+# Actinoplanes teichomyceticus Wink et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

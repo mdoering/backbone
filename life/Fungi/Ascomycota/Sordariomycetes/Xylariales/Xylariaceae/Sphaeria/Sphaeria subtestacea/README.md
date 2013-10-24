@@ -1,5 +1,4 @@
-Sphaeria subtestacea Kunze SPECIES
-=======
+# Sphaeria subtestacea Kunze SPECIES
 
 #### Status
 ACCEPTED

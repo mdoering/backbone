@@ -1,5 +1,4 @@
-Psilocybe subalnetorum Guzmán & E. Horak SPECIES
-=======
+# Psilocybe subalnetorum Guzmán & E. Horak SPECIES
 
 #### Status
 ACCEPTED

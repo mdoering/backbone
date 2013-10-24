@@ -1,5 +1,4 @@
-Agaricus ponticola Lasch SPECIES
-=======
+# Agaricus ponticola Lasch SPECIES
 
 #### Status
 ACCEPTED

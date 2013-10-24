@@ -1,5 +1,4 @@
-Xiphatractylis Haeckel, 1887 GENUS
-=======
+# Xiphatractylis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

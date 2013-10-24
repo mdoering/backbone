@@ -1,5 +1,4 @@
-Plicaria riparia Hazsl. SPECIES
-=======
+# Plicaria riparia Hazsl. SPECIES
 
 #### Status
 ACCEPTED

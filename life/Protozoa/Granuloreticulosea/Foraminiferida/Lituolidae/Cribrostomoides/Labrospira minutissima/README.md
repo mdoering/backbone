@@ -1,5 +1,4 @@
-Labrospira minutissima Zheng & Fu, 2001 SPECIES
-=======
+# Labrospira minutissima Zheng & Fu, 2001 SPECIES
 
 #### Status
 DOUBTFUL

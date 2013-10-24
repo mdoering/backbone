@@ -1,8 +1,7 @@
-Nonionella turgida var. digitata Norvang, 1945 VARIETY
-=======
+# Nonionella digitata Norvang, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

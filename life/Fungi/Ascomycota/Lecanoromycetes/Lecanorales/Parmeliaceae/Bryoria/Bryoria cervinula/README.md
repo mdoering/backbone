@@ -1,5 +1,4 @@
-Bryoria cervinula Motyka ex Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria cervinula Motyka ex Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

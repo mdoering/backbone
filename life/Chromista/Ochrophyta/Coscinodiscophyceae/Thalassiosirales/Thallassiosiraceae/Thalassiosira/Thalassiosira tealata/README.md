@@ -1,5 +1,4 @@
-Thalassiosira tealata Takano SPECIES
-=======
+# Thalassiosira tealata Takano SPECIES
 
 #### Status
 ACCEPTED

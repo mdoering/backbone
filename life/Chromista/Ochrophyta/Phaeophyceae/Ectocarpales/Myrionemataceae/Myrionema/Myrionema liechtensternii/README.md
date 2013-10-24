@@ -1,5 +1,4 @@
-Myrionema liechtensternii Hauck SPECIES
-=======
+# Myrionema liechtensternii Hauck SPECIES
 
 #### Status
 ACCEPTED

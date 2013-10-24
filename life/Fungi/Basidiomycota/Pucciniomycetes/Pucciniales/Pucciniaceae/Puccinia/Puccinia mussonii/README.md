@@ -1,5 +1,4 @@
-Puccinia mussonii McAlpine SPECIES
-=======
+# Puccinia mussonii McAlpine SPECIES
 
 #### Status
 ACCEPTED

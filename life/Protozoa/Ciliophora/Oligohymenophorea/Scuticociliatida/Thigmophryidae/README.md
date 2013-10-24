@@ -1,5 +1,4 @@
-Thigmophryidae Chatton & Lwoff, 1926 FAMILY
-=======
+# Thigmophryidae Chatton & Lwoff, 1926 FAMILY
 
 #### Status
 ACCEPTED

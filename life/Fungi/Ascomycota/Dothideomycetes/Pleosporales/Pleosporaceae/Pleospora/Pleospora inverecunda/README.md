@@ -1,5 +1,4 @@
-Pleospora inverecunda Ces. SPECIES
-=======
+# Pleospora inverecunda Ces. SPECIES
 
 #### Status
 ACCEPTED

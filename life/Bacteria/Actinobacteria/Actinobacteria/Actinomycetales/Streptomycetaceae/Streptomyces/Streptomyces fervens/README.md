@@ -1,5 +1,4 @@
-Streptomyces fervens subsp. fervens SUBSPECIES
-=======
+# Streptomyces fervens (de Boer et al., 1960) Witt & Stackebrandt, 1991 SPECIES
 
 #### Status
 ACCEPTED

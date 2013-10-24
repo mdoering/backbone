@@ -1,5 +1,4 @@
-Phaeographina colubrosa (Nyl.) Müll. Arg. SPECIES
-=======
+# Phaeographina colubrosa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

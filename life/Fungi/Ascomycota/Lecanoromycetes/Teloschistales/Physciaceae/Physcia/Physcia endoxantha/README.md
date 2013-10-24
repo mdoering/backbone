@@ -1,5 +1,4 @@
-Physcia endoxantha SPECIES
-=======
+# Physcia endoxantha SPECIES
 
 #### Status
 ACCEPTED

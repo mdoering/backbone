@@ -1,5 +1,4 @@
-Pyrenodium macrocarpon Fée SPECIES
-=======
+# Pyrenodium macrocarpon Fée SPECIES
 
 #### Status
 ACCEPTED

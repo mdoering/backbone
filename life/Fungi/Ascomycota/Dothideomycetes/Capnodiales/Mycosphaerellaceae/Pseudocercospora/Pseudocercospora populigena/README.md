@@ -1,5 +1,4 @@
-Pseudocercospora populigena U. Braun, Alé-Agha & Feige SPECIES
-=======
+# Pseudocercospora populigena U. Braun, Alé-Agha & Feige SPECIES
 
 #### Status
 ACCEPTED

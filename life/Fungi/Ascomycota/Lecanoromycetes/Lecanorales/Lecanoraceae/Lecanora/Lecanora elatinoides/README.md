@@ -1,17 +1,16 @@
-Lecanora elatinoides var. elatinoides Räsänen VARIETY
-=======
+# Lecanora elatinoides Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Suom. Elain-ja Kasvit. Seuran Van. Tiedon. Pöytäkirjat 3: 179 (1949)
 
 #### Original name
-Lecanora elatinoides var. elatinoides Räsänen
+Lecanora elatinoides Räsänen
 
 ### Remarks
 null

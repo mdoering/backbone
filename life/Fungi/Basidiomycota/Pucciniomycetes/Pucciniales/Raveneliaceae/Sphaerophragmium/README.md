@@ -1,5 +1,4 @@
-Sphaerophragmium Magnus GENUS
-=======
+# Sphaerophragmium Magnus GENUS
 
 #### Status
 ACCEPTED

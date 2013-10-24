@@ -1,5 +1,4 @@
-Achorodothis Syd. GENUS
-=======
+# Achorodothis Syd. GENUS
 
 #### Status
 ACCEPTED

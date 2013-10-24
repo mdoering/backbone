@@ -1,5 +1,4 @@
-Gnomonia vleugelii Kleb. SPECIES
-=======
+# Gnomonia vleugelii Kleb. SPECIES
 
 #### Status
 ACCEPTED

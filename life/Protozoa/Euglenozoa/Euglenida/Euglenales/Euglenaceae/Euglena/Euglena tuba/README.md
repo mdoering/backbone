@@ -1,5 +1,4 @@
-Euglena tuba H. J. Carter SPECIES
-=======
+# Euglena tuba H. J. Carter SPECIES
 
 #### Status
 ACCEPTED

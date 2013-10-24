@@ -1,5 +1,4 @@
-Sphaerellothecium pannariacearum Etayo, 2008 SPECIES
-=======
+# Sphaerellothecium pannariacearum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia caespitosa (Bolton) Cooke SPECIES
-=======
+# Omphalia caespitosa (Bolton) Cooke SPECIES
 
 #### Status
 ACCEPTED

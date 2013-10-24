@@ -1,8 +1,7 @@
-Paracineta lauterborni Sondheim, 1929 SPECIES
-=======
+# Loricophrya lauterborni (Sondheim, 1929) Curds, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

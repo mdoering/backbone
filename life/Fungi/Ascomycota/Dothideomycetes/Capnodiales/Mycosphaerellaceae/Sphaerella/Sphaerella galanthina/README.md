@@ -1,5 +1,4 @@
-Sphaerella galanthina Tassi SPECIES
-=======
+# Sphaerella galanthina Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula inaequalis Corda SPECIES
-=======
+# Torula inaequalis Corda SPECIES
 
 #### Status
 ACCEPTED

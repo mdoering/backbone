@@ -1,5 +1,4 @@
-Helotium lanceolatoparaphysatum (Rehm) Seaver SPECIES
-=======
+# Helotium lanceolatoparaphysatum (Rehm) Seaver SPECIES
 
 #### Status
 ACCEPTED

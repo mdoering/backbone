@@ -1,5 +1,4 @@
-Entoloma mauritianum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma mauritianum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

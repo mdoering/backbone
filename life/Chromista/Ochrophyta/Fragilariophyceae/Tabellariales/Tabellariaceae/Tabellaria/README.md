@@ -1,5 +1,4 @@
-Tabellaria Ehrenberg ex Kützing GENUS
-=======
+# Tabellaria Ehrenberg ex Kützing GENUS
 
 #### Status
 ACCEPTED

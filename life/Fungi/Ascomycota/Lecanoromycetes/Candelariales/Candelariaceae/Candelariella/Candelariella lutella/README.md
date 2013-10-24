@@ -1,5 +1,4 @@
-Candelariella lutella (Vain.) Räsänen SPECIES
-=======
+# Candelariella lutella (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

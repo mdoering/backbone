@@ -1,5 +1,4 @@
-Sclerophomella lavaterae Ade SPECIES
-=======
+# Sclerophomella lavaterae Ade SPECIES
 
 #### Status
 ACCEPTED

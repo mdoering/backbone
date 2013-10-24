@@ -1,5 +1,4 @@
-Buellia microsporella Elix SPECIES
-=======
+# Buellia microsporella Elix SPECIES
 
 #### Status
 ACCEPTED

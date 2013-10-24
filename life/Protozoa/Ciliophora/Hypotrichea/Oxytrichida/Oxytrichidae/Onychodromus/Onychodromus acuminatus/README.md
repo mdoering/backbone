@@ -1,5 +1,4 @@
-Onychodromus acuminatus SPECIES
-=======
+# Onychodromus acuminatus SPECIES
 
 #### Status
 ACCEPTED

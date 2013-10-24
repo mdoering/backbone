@@ -1,5 +1,4 @@
-Arthonia ochrolutea Nyl. SPECIES
-=======
+# Arthonia ochrolutea Nyl. SPECIES
 
 #### Status
 ACCEPTED

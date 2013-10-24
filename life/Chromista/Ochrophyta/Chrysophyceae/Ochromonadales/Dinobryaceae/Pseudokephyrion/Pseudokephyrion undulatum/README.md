@@ -1,8 +1,7 @@
-Dinobryon undulatum G.A. Klebs SPECIES
-=======
+# Pseudokephyrion undulatum (G.A. Klebs) Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

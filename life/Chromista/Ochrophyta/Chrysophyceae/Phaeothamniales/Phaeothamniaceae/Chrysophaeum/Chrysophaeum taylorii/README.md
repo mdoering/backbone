@@ -1,5 +1,4 @@
-Chrysophaeum taylorii I.F. Lewis & H.F. Bryan SPECIES
-=======
+# Chrysophaeum taylorii I.F. Lewis & H.F. Bryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladosporium puccinioides Cooke, 1877 SPECIES
-=======
+# Pseudoasperisporium puccinioides (Cooke) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 33): 15 (1877)
+Fungal Diversity 20: 202 (2005)
 
 #### Original name
 Cladosporium puccinioides Cooke, 1877

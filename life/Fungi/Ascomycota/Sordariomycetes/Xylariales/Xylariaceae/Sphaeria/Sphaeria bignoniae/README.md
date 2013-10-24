@@ -1,5 +1,4 @@
-Sphaeria bignoniae Schwein. SPECIES
-=======
+# Sphaeria bignoniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

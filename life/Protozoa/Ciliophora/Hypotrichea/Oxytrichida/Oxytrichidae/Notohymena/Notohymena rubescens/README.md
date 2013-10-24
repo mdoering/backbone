@@ -1,5 +1,4 @@
-Notohymena rubescens Blatterer & Foissner, 1988 SPECIES
-=======
+# Notohymena rubescens Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

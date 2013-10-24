@@ -1,5 +1,4 @@
-Glabratella salasi SPECIES
-=======
+# Glabratella salasi SPECIES
 
 #### Status
 ACCEPTED

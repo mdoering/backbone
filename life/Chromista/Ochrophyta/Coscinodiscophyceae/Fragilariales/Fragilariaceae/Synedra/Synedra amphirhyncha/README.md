@@ -1,5 +1,4 @@
-Synedra amphirhyncha Kützing SPECIES
-=======
+# Synedra amphirhyncha Kützing SPECIES
 
 #### Status
 ACCEPTED

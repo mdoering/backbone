@@ -1,5 +1,4 @@
-Phyllachora euphorbiaceae Rehm, 1897 SPECIES
-=======
+# Phyllachora euphorbiaceae Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

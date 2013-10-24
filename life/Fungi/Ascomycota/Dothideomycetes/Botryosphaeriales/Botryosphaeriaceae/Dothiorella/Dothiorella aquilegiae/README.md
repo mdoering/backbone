@@ -1,5 +1,4 @@
-Dothiorella aquilegiae (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Dothiorella aquilegiae (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

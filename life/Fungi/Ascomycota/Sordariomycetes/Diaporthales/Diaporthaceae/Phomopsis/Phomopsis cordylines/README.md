@@ -1,5 +1,4 @@
-Phomopsis cordylines Ponnappa, 1971 SPECIES
-=======
+# Phomopsis cordylines Ponnappa, 1971 SPECIES
 
 #### Status
 ACCEPTED

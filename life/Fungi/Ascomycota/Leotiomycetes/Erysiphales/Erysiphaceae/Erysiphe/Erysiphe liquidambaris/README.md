@@ -1,5 +1,4 @@
-Erysiphe liquidambaris (R.Y. Zheng & G.Q. Chen) U. Braun SPECIES
-=======
+# Erysiphe liquidambaris (R.Y. Zheng & G.Q. Chen) U. Braun SPECIES
 
 #### Status
 ACCEPTED

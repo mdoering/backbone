@@ -1,5 +1,4 @@
-Syracosphaera nodosa Kamptner SPECIES
-=======
+# Syracosphaera nodosa Kamptner SPECIES
 
 #### Status
 ACCEPTED

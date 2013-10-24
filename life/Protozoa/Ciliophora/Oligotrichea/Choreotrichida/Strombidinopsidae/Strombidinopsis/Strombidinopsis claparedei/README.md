@@ -1,5 +1,4 @@
-Strombidinopsis claparedei Faure-Fremiet, 1924 SPECIES
-=======
+# Strombidinopsis claparedei Faure-Fremiet, 1924 SPECIES
 
 #### Status
 ACCEPTED

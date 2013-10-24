@@ -1,5 +1,4 @@
-Dimerium imperspicuum (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium imperspicuum (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

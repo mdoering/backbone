@@ -1,5 +1,4 @@
-Cytospora eucalypticola Van der Westh., 1965 SPECIES
-=======
+# Cytospora eucalypticola Van der Westh., 1965 SPECIES
 
 #### Status
 ACCEPTED

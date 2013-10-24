@@ -1,5 +1,4 @@
-Diaporthe transiens Sacc. SPECIES
-=======
+# Diaporthe transiens Sacc. SPECIES
 
 #### Status
 ACCEPTED

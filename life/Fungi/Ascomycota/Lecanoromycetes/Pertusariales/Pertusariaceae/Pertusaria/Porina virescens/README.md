@@ -1,8 +1,7 @@
-Verrucaria virescens Kremp., 1874 SPECIES
-=======
+# Porina virescens (Kremp.) Müll. Arg., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

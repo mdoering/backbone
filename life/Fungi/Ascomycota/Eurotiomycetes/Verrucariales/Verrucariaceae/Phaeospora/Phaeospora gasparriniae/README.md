@@ -1,5 +1,4 @@
-Phaeospora gasparriniae C.W. Dodge SPECIES
-=======
+# Phaeospora gasparriniae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

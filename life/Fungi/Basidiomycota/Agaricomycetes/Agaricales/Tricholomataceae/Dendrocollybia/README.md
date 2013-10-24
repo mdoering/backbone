@@ -1,5 +1,4 @@
-Dendrocollybia R.H. Petersen & Redhead GENUS
-=======
+# Dendrocollybia R.H. Petersen & Redhead GENUS
 
 #### Status
 ACCEPTED

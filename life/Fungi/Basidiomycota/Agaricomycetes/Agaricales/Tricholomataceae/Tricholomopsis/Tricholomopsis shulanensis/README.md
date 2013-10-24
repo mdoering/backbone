@@ -1,5 +1,4 @@
-Tricholomopsis shulanensis X. He SPECIES
-=======
+# Tricholomopsis shulanensis X. He SPECIES
 
 #### Status
 ACCEPTED

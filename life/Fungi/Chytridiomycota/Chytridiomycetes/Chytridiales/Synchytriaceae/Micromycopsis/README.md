@@ -1,5 +1,4 @@
-Micromycopsis GENUS
-=======
+# Micromycopsis GENUS
 
 #### Status
 ACCEPTED

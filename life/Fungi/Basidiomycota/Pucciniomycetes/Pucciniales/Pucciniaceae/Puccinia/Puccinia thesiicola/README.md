@@ -1,5 +1,4 @@
-Puccinia thesiicola Jørst. SPECIES
-=======
+# Puccinia thesiicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

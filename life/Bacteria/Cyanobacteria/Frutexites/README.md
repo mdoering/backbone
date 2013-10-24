@@ -1,5 +1,4 @@
-Frutexites V.P. Maslov, 1960 GENUS
-=======
+# Frutexites V.P. Maslov, 1960 GENUS
 
 #### Status
 ACCEPTED

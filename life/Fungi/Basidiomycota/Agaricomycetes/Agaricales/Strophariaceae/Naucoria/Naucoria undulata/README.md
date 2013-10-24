@@ -1,5 +1,4 @@
-Naucoria undulata (Jungh.) P. Kumm. SPECIES
-=======
+# Naucoria undulata (Jungh.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

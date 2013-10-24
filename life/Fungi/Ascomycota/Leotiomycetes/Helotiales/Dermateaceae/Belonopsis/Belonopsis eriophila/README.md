@@ -1,5 +1,4 @@
-Belonopsis eriophila Syd. SPECIES
-=======
+# Belonopsis eriophila Syd. SPECIES
 
 #### Status
 ACCEPTED

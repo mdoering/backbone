@@ -1,5 +1,4 @@
-Puccinia avocensis Cummins & H.C. Greene SPECIES
-=======
+# Puccinia avocensis Cummins & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

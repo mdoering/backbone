@@ -1,5 +1,4 @@
-Phyllosticta orontii var. orontii VARIETY
-=======
+# Phyllosticta orontii Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta orontii var. orontii
+Phyllosticta orontii Ellis & G. Martin
 
 ### Remarks
 null

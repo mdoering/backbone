@@ -1,5 +1,4 @@
-Coprinus minutisporus Uljé SPECIES
-=======
+# Coprinus minutisporus Uljé SPECIES
 
 #### Status
 ACCEPTED

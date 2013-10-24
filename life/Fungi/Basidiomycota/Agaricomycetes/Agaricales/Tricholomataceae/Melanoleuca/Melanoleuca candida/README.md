@@ -1,5 +1,4 @@
-Melanoleuca candida (Velen.) Singer SPECIES
-=======
+# Melanoleuca candida (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

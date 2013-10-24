@@ -1,5 +1,4 @@
-Agaricus pendulinus Wormsk. SPECIES
-=======
+# Agaricus pendulinus Wormsk. SPECIES
 
 #### Status
 ACCEPTED

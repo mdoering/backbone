@@ -1,14 +1,13 @@
-Odontia incrustans Speg., 1921 SPECIES
-=======
+# Phanerochaete incrustans (Speg.) Rajchenb. & J.E. Wright, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 90: 168 (1921)
+Mycologia 79(2): 255 (1987)
 
 #### Original name
 Odontia incrustans Speg., 1921

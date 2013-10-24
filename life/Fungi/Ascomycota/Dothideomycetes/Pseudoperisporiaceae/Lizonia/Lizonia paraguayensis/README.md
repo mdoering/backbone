@@ -1,5 +1,4 @@
-Lizonia paraguayensis Speg. SPECIES
-=======
+# Lizonia paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

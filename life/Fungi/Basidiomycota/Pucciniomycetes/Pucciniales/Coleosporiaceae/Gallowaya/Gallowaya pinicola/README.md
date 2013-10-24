@@ -1,14 +1,13 @@
-Coleosporium pini L.D. Galloway, 1896 SPECIES
-=======
+# Gallowaya pinicola Arthur, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 48: 36 (1921)
 
 #### Original name
 Coleosporium pini L.D. Galloway, 1896

@@ -1,5 +1,4 @@
-Escherichia vesiculosus SPECIES
-=======
+# Escherichia vesiculosus SPECIES
 
 #### Status
 ACCEPTED

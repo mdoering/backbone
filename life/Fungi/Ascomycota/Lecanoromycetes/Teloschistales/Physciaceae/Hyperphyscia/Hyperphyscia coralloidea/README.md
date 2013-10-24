@@ -1,17 +1,16 @@
-Physcia coralloidea Lynge SPECIES
-=======
+# Hyperphyscia coralloidea (Lynge) Scutari SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 23(1): 21 (1991)
 
 #### Original name
-null
+Physcia coralloidea Lynge
 
 ### Remarks
 null

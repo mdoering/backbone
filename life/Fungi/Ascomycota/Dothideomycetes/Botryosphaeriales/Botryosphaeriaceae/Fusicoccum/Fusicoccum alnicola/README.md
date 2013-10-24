@@ -1,17 +1,16 @@
-Fusicoccum alnicolum Petr. SPECIES
-=======
+# Fusicoccum alnicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 18: 118 (1920)
 
 #### Original name
-Fusicoccum alnicolum Petr.
+Fusicoccum alnicola Petr.
 
 ### Remarks
 null

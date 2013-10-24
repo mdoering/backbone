@@ -1,5 +1,4 @@
-Hebeloma squamulosum W.F. Chiu SPECIES
-=======
+# Hebeloma squamulosum W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

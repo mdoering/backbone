@@ -1,5 +1,4 @@
-Ustilago lepyrodiclidis Schwarzman SPECIES
-=======
+# Ustilago lepyrodiclidis Schwarzman SPECIES
 
 #### Status
 ACCEPTED

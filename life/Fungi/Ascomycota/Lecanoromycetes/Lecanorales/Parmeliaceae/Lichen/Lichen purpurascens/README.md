@@ -1,5 +1,4 @@
-Lichen purpurascens Host {?} SPECIES
-=======
+# Lichen purpurascens Host {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenopsis magnifica (Berk. & Broome) Sacc. SPECIES
-=======
+# Lichenopsis magnifica (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

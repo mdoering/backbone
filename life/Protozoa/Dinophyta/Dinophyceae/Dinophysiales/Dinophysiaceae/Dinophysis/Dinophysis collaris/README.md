@@ -1,5 +1,4 @@
-Dinophysis collaris Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Dinophysis collaris Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

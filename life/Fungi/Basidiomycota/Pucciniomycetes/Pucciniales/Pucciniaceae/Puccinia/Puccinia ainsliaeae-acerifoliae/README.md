@@ -1,5 +1,4 @@
-Puccinia ainsliaeae-acerifoliae Y. Harada SPECIES
-=======
+# Puccinia ainsliaeae-acerifoliae Y. Harada SPECIES
 
 #### Status
 ACCEPTED

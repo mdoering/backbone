@@ -1,14 +1,13 @@
-Cylindrocladium novae-zelandiae Boesew., 1981 SPECIES
-=======
+# Cylindrocladiella novae-zelandiae (Boesew.) Boesew., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 76(2): 341 (1981)
+Can. J. Bot. 60(11): 2289 (1982)
 
 #### Original name
 Cylindrocladium novae-zelandiae Boesew., 1981

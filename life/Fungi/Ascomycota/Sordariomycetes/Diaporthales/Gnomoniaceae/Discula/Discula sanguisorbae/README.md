@@ -1,5 +1,4 @@
-Discula sanguisorbae (Fuckel) Arx SPECIES
-=======
+# Discula sanguisorbae (Fuckel) Arx SPECIES
 
 #### Status
 ACCEPTED

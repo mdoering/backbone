@@ -1,5 +1,4 @@
-Phoma lycii Zerova SPECIES
-=======
+# Phoma lycii Zerova SPECIES
 
 #### Status
 ACCEPTED

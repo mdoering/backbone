@@ -1,5 +1,4 @@
-Protoachlya paradoxa Coker, 1923 SPECIES
-=======
+# Protoachlya paradoxa Coker, 1923 SPECIES
 
 #### Status
 ACCEPTED

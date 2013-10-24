@@ -1,5 +1,4 @@
-Cortinarius sublubricus Jul. Schäff. SPECIES
-=======
+# Cortinarius sublubricus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

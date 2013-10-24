@@ -1,5 +1,4 @@
-Cephalosporium puerariae Sawada SPECIES
-=======
+# Cephalosporium puerariae Sawada SPECIES
 
 #### Status
 ACCEPTED

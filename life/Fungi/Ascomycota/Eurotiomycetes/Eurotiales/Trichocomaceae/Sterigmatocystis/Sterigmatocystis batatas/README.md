@@ -1,8 +1,7 @@
-Sterigmatocystis batatae (Saito) Sacc. SPECIES
-=======
+# Sterigmatocystis batatas (Saito) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

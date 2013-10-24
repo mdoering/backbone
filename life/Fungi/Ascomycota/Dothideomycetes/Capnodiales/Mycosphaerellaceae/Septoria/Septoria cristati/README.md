@@ -1,5 +1,4 @@
-Septoria cristati Hollós SPECIES
-=======
+# Septoria cristati Hollós SPECIES
 
 #### Status
 ACCEPTED

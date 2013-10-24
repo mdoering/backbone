@@ -1,5 +1,4 @@
-Unguiculariopsis infundibuliformis (E.J. Durand) Korf SPECIES
-=======
+# Unguiculariopsis infundibuliformis (E.J. Durand) Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gorgonisphaeridium medianum Colbath, 1990 SPECIES
-=======
+# Gorgonisphaeridium medianum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

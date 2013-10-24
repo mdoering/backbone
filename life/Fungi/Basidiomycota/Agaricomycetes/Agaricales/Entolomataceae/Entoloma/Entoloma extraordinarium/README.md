@@ -1,5 +1,4 @@
-Entoloma extraordinarium E. Horak SPECIES
-=======
+# Entoloma extraordinarium E. Horak SPECIES
 
 #### Status
 ACCEPTED

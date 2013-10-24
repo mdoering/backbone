@@ -1,5 +1,4 @@
-Placodium domingense (Pers.) Vain. SPECIES
-=======
+# Placodium domingense (Pers.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kutchiathyrites eccentricus R.K. Kar SPECIES
-=======
+# Kutchiathyrites eccentricus R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

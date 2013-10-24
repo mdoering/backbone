@@ -1,5 +1,4 @@
-Cytophaga krzemieniewskae SPECIES
-=======
+# Cytophaga krzemieniewskae SPECIES
 
 #### Status
 ACCEPTED

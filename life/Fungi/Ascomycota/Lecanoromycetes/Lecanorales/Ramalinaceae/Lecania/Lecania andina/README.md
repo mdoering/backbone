@@ -1,5 +1,4 @@
-Lecania andina C.W. Dodge SPECIES
-=======
+# Lecania andina C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

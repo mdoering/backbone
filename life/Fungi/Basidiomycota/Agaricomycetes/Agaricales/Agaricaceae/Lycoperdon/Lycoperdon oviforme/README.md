@@ -1,5 +1,4 @@
-Lycoperdon oviforme Pat. SPECIES
-=======
+# Lycoperdon oviforme Pat. SPECIES
 
 #### Status
 ACCEPTED

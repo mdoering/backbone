@@ -1,5 +1,4 @@
-Lophiostoma calligoni Kravtzev SPECIES
-=======
+# Lophiostoma calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptotrema umbratum (Ach.) Müll. Arg. SPECIES
-=======
+# Thelotrema umbratum (Ach.) Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mém. Soc. Phys. Hist. nat. Genève 29(8): 12 (1887)
+Essai Crypt. Exot. (Paris), Suppl. 90 (1837)
 
 #### Original name
 null

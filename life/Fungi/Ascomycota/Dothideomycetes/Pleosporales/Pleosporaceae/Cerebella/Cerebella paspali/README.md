@@ -1,5 +1,4 @@
-Cerebella paspali var. paspali VARIETY
-=======
+# Cerebella paspali Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cerebella paspali var. paspali
+Cerebella paspali Cooke & Massee
 
 ### Remarks
 null

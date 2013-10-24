@@ -1,5 +1,4 @@
-Holosticha scutellum Cohn, 1866 SPECIES
-=======
+# Holosticha scutellum Cohn, 1866 SPECIES
 
 #### Status
 ACCEPTED

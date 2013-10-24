@@ -1,5 +1,4 @@
-Usnea aciculifera Vain. SPECIES
-=======
+# Usnea aciculifera Vain. SPECIES
 
 #### Status
 ACCEPTED

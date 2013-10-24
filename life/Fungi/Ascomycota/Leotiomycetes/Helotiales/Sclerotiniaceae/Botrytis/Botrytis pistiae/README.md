@@ -1,5 +1,4 @@
-Botrytis pistiae Bacc. SPECIES
-=======
+# Botrytis pistiae Bacc. SPECIES
 
 #### Status
 ACCEPTED

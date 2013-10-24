@@ -1,17 +1,16 @@
-Madurella ikedae (Gammel) Pollacci & Nann. SPECIES
-=======
+# Madurella mycetomatis (Laveran) Brumpt, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. r. Seanc. Soc. Biol. 57: 997-999 (1905)
 
 #### Original name
-null
+Streptothrix mycetomatis Laveran
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inopilus bombycinus Pegler SPECIES
-=======
+# Inopilus bombycinus Pegler SPECIES
 
 #### Status
 ACCEPTED

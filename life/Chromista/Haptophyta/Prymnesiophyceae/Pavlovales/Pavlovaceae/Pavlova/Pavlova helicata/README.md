@@ -1,5 +1,4 @@
-Pavlova helicata J. van der Veer SPECIES
-=======
+# Pavlova helicata J. van der Veer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepistella T.J. Baroni & Ovrebo GENUS
-=======
+# Lepistella T.J. Baroni & Ovrebo GENUS
 
 #### Status
 ACCEPTED

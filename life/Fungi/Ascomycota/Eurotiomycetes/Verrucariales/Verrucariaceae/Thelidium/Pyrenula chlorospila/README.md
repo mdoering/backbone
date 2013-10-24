@@ -1,5 +1,4 @@
-Pyrenula chlorospila (Nyl.) Arnold, 1887 SPECIES
-=======
+# Pyrenula chlorospila (Nyl.) Arnold, 1887 SPECIES
 
 #### Status
 DOUBTFUL

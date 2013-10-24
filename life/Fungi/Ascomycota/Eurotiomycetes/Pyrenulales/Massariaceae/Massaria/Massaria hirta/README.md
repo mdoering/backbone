@@ -1,5 +1,4 @@
-Massaria hirta (Fr.) Fuckel SPECIES
-=======
+# Massaria hirta (Fr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tryblidaria sibirica Petr. SPECIES
-=======
+# Tryblidaria sibirica Petr. SPECIES
 
 #### Status
 ACCEPTED

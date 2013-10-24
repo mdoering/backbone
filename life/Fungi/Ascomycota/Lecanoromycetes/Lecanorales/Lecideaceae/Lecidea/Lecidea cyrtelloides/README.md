@@ -1,5 +1,4 @@
-Lecidea cyrtelloides Nyl. SPECIES
-=======
+# Lecidea cyrtelloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

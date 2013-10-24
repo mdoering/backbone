@@ -1,5 +1,4 @@
-Weinbergillus Heller, 1922 GENUS
-=======
+# Weinbergillus Heller, 1922 GENUS
 
 #### Status
 ACCEPTED

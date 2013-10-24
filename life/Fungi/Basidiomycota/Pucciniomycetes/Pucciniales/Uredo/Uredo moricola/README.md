@@ -1,5 +1,4 @@
-Uredo moricola Henn. SPECIES
-=======
+# Uredo moricola Henn. SPECIES
 
 #### Status
 ACCEPTED

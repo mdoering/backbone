@@ -1,5 +1,4 @@
-Haplaria melioliphila Cif. SPECIES
-=======
+# Haplaria melioliphila Cif. SPECIES
 
 #### Status
 ACCEPTED

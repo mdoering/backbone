@@ -1,5 +1,4 @@
-Mycovellosiella sublateritia (Henn.) Deighton SPECIES
-=======
+# Mycovellosiella sublateritia (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

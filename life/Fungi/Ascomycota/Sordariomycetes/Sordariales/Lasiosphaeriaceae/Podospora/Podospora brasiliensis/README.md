@@ -1,5 +1,4 @@
-Podospora brasiliensis Cain, 1962 SPECIES
-=======
+# Podospora brasiliensis Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

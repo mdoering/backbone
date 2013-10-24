@@ -1,5 +1,4 @@
-Verrucaria laburni Leight. SPECIES
-=======
+# Verrucaria laburni Leight. SPECIES
 
 #### Status
 ACCEPTED

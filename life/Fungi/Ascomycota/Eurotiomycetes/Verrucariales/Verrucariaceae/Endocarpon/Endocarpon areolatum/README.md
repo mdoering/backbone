@@ -1,5 +1,4 @@
-Endocarpon areolatum Nyl. SPECIES
-=======
+# Endocarpon areolatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

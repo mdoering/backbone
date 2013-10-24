@@ -1,5 +1,4 @@
-Porina viridinigricans Vain. SPECIES
-=======
+# Porina viridinigricans Vain. SPECIES
 
 #### Status
 ACCEPTED

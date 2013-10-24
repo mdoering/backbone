@@ -1,5 +1,4 @@
-Merisma schweinitzii Lév. SPECIES
-=======
+# Merisma schweinitzii Lév. SPECIES
 
 #### Status
 ACCEPTED

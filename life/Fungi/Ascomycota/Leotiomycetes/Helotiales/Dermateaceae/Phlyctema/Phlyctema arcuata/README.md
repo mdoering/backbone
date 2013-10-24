@@ -1,5 +1,4 @@
-Phlyctema arcuata Berk. SPECIES
-=======
+# Phlyctema arcuata Berk. SPECIES
 
 #### Status
 ACCEPTED

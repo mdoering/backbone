@@ -1,17 +1,16 @@
-Fusarium cavispermum var. minus Wollenw. VARIETY
-=======
+# Fusarium cavispermum Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 3 (1837)
 
 #### Original name
-Fusarium cavispermum var. minus Wollenw.
+Fusarium cavispermum Corda, 1837
 
 ### Remarks
 null

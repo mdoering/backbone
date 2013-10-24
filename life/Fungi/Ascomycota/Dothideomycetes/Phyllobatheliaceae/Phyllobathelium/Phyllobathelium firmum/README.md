@@ -1,5 +1,4 @@
-Phyllobathelium firmum (Stirt.) Vezda SPECIES
-=======
+# Phyllobathelium firmum (Stirt.) Vezda SPECIES
 
 #### Status
 ACCEPTED

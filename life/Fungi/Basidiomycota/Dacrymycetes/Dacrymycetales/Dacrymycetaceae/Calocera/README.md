@@ -1,17 +1,16 @@
-Caloceras Fr. ex Wallr. GENUS
-=======
+# Calocera (E.M. Fries) E.M. Fries, 1828 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Caloceras Fr. ex Wallr.
+null
 
 ### Remarks
 null

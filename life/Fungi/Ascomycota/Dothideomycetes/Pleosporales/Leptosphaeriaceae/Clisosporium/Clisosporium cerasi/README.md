@@ -1,5 +1,4 @@
-Clisosporium cerasi (Pass.) Kuntze SPECIES
-=======
+# Clisosporium cerasi (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

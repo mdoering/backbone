@@ -1,5 +1,4 @@
-Diplodia laureaia Fautrey SPECIES
-=======
+# Diplodia laureaia Fautrey SPECIES
 
 #### Status
 ACCEPTED

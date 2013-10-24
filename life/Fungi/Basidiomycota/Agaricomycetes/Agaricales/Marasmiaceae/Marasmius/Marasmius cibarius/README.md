@@ -1,5 +1,4 @@
-Marasmius cibarius Singer SPECIES
-=======
+# Marasmius cibarius Singer SPECIES
 
 #### Status
 ACCEPTED

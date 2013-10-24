@@ -1,17 +1,16 @@
-Matruchotiella Grigoraki GENUS
-=======
+# Ateleothylax M. Ota & Langeron GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Parasit. hum. comp. 1: 333 (1923)
 
 #### Original name
-Matruchotiella Grigoraki
+Ateleothylax M. Ota & Langeron
 
 ### Remarks
 null

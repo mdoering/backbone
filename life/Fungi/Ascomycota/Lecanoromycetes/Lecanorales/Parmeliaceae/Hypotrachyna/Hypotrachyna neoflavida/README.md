@@ -1,5 +1,4 @@
-Hypotrachyna neoflavida Hale & López-Figueiras SPECIES
-=======
+# Hypotrachyna neoflavida Hale & López-Figueiras SPECIES
 
 #### Status
 ACCEPTED

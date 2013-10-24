@@ -1,5 +1,4 @@
-Dicaeoma rosenii (Arthur) Arthur SPECIES
-=======
+# Dicaeoma rosenii (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

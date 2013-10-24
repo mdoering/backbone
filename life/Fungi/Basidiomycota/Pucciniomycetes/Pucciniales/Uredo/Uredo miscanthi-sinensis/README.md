@@ -1,5 +1,4 @@
-Uredo miscanthi-sinensis Sawada ex Hirats. f. SPECIES
-=======
+# Uredo miscanthi-sinensis Sawada ex Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

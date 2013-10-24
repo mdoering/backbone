@@ -1,5 +1,4 @@
-Ramalina subamplicata f. subamplicata FORM
-=======
+# Ramalina subamplicata (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina subamplicata f. subamplicata
+Pertusaria subamplicata Nyl.
 
 ### Remarks
 null

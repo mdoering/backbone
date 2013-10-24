@@ -1,5 +1,4 @@
-Psilocybe venezuelana Dennis SPECIES
-=======
+# Psilocybe venezuelana Dennis SPECIES
 
 #### Status
 ACCEPTED

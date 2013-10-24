@@ -1,5 +1,4 @@
-Cystolepiota pusilla Nezdojm. SPECIES
-=======
+# Cystolepiota pusilla Nezdojm. SPECIES
 
 #### Status
 ACCEPTED

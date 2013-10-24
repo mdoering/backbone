@@ -1,5 +1,4 @@
-Macroseptoria moravica Petr. SPECIES
-=======
+# Macroseptoria moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma ambiguum Petri SPECIES
-=======
+# Scleroderma ambiguum Petri SPECIES
 
 #### Status
 ACCEPTED

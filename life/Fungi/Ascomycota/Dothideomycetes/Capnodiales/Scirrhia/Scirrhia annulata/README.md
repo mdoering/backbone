@@ -1,5 +1,4 @@
-Scirrhia annulata Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
-=======
+# Scirrhia annulata Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1996 SPECIES
 
 #### Status
 ACCEPTED

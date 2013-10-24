@@ -1,5 +1,4 @@
-Telamonia cinereo-olivacea Velen. SPECIES
-=======
+# Telamonia cinereo-olivacea Velen. SPECIES
 
 #### Status
 ACCEPTED

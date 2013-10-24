@@ -1,5 +1,4 @@
-Sphaeria foliicola Berl. & Roum. SPECIES
-=======
+# Sphaeria foliicola Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia paurospora (Singer) Singer SPECIES
-=======
+# Collybia paurospora (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

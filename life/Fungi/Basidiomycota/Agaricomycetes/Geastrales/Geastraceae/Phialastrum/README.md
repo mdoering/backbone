@@ -1,5 +1,4 @@
-Phialastrum Sunhede GENUS
-=======
+# Phialastrum Sunhede GENUS
 
 #### Status
 ACCEPTED

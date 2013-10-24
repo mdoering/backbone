@@ -1,5 +1,4 @@
-Chytriomyces heliozoicola Canter, 1966 SPECIES
-=======
+# Chytriomyces heliozoicola Canter, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collonaemella microscopica (Fr.) Höhn. SPECIES
-=======
+# Collonaemella microscopica (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria anceps Sacc., 1878 SPECIES
-=======
+# Leptosphaeria anceps Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

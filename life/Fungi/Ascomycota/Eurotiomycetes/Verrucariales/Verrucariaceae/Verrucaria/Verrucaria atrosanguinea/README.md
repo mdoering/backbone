@@ -1,5 +1,4 @@
-Verrucaria atrosanguinea Hoffm. SPECIES
-=======
+# Verrucaria atrosanguinea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

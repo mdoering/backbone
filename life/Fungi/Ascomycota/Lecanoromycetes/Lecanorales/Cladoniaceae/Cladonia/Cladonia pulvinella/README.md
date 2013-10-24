@@ -1,5 +1,4 @@
-Cladonia pulvinella S. Hammer SPECIES
-=======
+# Cladonia pulvinella S. Hammer SPECIES
 
 #### Status
 ACCEPTED

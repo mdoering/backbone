@@ -1,5 +1,4 @@
-Sorosporium borrichiae Ellis & Everh. SPECIES
-=======
+# Sorosporium borrichiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

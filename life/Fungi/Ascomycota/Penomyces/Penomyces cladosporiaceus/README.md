@@ -1,5 +1,4 @@
-Penomyces cladosporiaceus Sacc. SPECIES
-=======
+# Penomyces cladosporiaceus Sacc. SPECIES
 
 #### Status
 ACCEPTED

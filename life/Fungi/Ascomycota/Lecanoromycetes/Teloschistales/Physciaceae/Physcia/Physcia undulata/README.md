@@ -1,5 +1,4 @@
-Physcia undulata Moberg SPECIES
-=======
+# Physcia undulata Moberg SPECIES
 
 #### Status
 ACCEPTED

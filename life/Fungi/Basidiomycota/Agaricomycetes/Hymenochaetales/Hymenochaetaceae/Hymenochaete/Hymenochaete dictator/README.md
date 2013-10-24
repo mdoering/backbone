@@ -1,5 +1,4 @@
-Hymenochaete dictator G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete dictator G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

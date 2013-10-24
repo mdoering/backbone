@@ -1,5 +1,4 @@
-Ophiobolus nigromaculatus Rehm SPECIES
-=======
+# Ophiobolus nigromaculatus Rehm SPECIES
 
 #### Status
 ACCEPTED

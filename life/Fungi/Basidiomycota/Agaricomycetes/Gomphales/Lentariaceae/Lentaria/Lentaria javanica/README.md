@@ -1,17 +1,16 @@
-Eriocladus compressus (Berk.) Lév., 1846 SPECIES
-=======
+# Lentaria javanica R.H. Petersen, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revta Biol. trop. 48(2/3): 559 (2000)
 
 #### Original name
-null
+Clavaria compressa Schwein., 1832
 
 ### Remarks
 null

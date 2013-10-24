@@ -1,5 +1,4 @@
-Stephanastrum Ehrenberg, 1847 GENUS
-=======
+# Stephanastrum Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerothyrium GENUS
-=======
+# Sphaerothyrium GENUS
 
 #### Status
 ACCEPTED

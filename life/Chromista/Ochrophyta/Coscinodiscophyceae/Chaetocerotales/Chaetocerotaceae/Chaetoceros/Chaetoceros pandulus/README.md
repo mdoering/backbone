@@ -1,5 +1,4 @@
-Chaetoceros pandulus SPECIES
-=======
+# Chaetoceros pandulus SPECIES
 
 #### Status
 ACCEPTED

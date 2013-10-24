@@ -1,5 +1,4 @@
-Marssonia lorentzii Speg. SPECIES
-=======
+# Marssonia lorentzii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia arachnion Burgeff SPECIES
-=======
+# Rhizoctonia arachnion Burgeff SPECIES
 
 #### Status
 ACCEPTED

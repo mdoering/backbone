@@ -1,5 +1,4 @@
-Valsa secedens Mont. & Fr. SPECIES
-=======
+# Valsa secedens Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

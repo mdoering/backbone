@@ -1,5 +1,4 @@
-Phyllachora merrillii Ricker, 1906 SPECIES
-=======
+# Phyllachora merrillii Ricker, 1906 SPECIES
 
 #### Status
 DOUBTFUL

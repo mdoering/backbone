@@ -1,5 +1,4 @@
-Clypeosphaeria hendersoniae (Ellis) Sacc. SPECIES
-=======
+# Clypeosphaeria hendersoniae (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

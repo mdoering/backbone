@@ -1,17 +1,16 @@
-Olivea neotectonae Buriticá & Salazar-Yepes, 2007 SPECIES
-=======
+# Olivea tectonae (T.S. Ramakr. & K. Ramakr.) J.L. Mulder, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista, Facultad Nacional de Agronomía Medellín 60(1): 3652 (2007)
+Curr. Sci. 18: 176 (1949)
 
 #### Original name
-Chaconia tectonae T.S. Ramakr. & K. Ramakr., 1949
+Uredo tectonae Racib., 1900
 
 ### Remarks
 null

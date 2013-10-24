@@ -1,5 +1,4 @@
-Clitocybe sudorifica (Peck) Peck SPECIES
-=======
+# Clitocybe sudorifica (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

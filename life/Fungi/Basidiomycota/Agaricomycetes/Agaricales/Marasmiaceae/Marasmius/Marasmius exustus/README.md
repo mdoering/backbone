@@ -1,5 +1,4 @@
-Marasmius exustus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius exustus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia gainii (Hue) C.W. Dodge SPECIES
-=======
+# Gasparrinia gainii (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

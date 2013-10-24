@@ -1,5 +1,4 @@
-Cothurnia inclinans SPECIES
-=======
+# Cothurnia inclinans SPECIES
 
 #### Status
 ACCEPTED

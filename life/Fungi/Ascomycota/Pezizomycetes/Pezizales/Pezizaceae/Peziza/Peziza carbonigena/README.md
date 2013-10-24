@@ -1,5 +1,4 @@
-Peziza carbonigena SPECIES
-=======
+# Peziza carbonigena SPECIES
 
 #### Status
 ACCEPTED

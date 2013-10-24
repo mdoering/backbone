@@ -1,5 +1,4 @@
-Aecidium iquitosense Henn. SPECIES
-=======
+# Aecidium iquitosense Henn. SPECIES
 
 #### Status
 ACCEPTED

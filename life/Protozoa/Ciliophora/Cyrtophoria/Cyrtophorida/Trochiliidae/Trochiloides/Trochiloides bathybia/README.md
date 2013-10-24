@@ -1,5 +1,4 @@
-Trochiloides bathybia Jankowski, 1967 SPECIES
-=======
+# Trochiloides bathybia Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

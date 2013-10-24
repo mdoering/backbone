@@ -1,5 +1,4 @@
-Xylaria hirtella Wakef. SPECIES
-=======
+# Xylaria hirtella Wakef. SPECIES
 
 #### Status
 ACCEPTED

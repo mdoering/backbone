@@ -1,5 +1,4 @@
-Mycotypha Fenner, 1932 GENUS
-=======
+# Mycotypha Fenner, 1932 GENUS
 
 #### Status
 ACCEPTED

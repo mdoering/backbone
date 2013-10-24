@@ -1,5 +1,4 @@
-Kalmusia eutypa Hazsl. SPECIES
-=======
+# Kalmusia eutypa Hazsl. SPECIES
 
 #### Status
 ACCEPTED

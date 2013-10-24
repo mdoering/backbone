@@ -1,5 +1,4 @@
-Gloeosporium myristicae Henn. SPECIES
-=======
+# Gloeosporium myristicae Henn. SPECIES
 
 #### Status
 ACCEPTED

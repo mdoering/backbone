@@ -1,5 +1,4 @@
-Xylaria scruposa var. scruposa VARIETY
-=======
+# Xylaria scruposa (Fr.) Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 127 (1851)
 
 #### Original name
-Xylaria scruposa var. scruposa
+Sphaeria scruposa Fr.
 
 ### Remarks
 null

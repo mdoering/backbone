@@ -1,14 +1,13 @@
-Diplocystis collabascens (Czern.) De Toni, 1888 SPECIES
-=======
+# Disciseda collabescens Czern., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 92 (1888)
+Bull. Soc. Imp. nat. Moscou 18(2, III): 153 (1845)
 
 #### Original name
 Disciseda collabescens Czern., 1845

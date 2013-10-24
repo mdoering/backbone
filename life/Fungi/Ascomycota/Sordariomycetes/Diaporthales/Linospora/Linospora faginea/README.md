@@ -1,5 +1,4 @@
-Linospora faginea Sacc. SPECIES
-=======
+# Linospora faginea Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flagelloscypha coloradensis W.B. Cooke SPECIES
-=======
+# Flagelloscypha coloradensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

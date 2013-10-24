@@ -1,5 +1,4 @@
-Limacium occidentale (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium occidentale (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

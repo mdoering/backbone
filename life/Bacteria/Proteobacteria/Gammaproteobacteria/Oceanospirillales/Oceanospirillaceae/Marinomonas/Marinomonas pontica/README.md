@@ -1,5 +1,4 @@
-Marinomonas pontica Ivanova et al., 2005 SPECIES
-=======
+# Marinomonas pontica Ivanova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

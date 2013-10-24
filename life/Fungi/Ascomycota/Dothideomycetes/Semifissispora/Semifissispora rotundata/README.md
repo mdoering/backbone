@@ -1,5 +1,4 @@
-Semifissispora rotundata H.J. Swart, 1982 SPECIES
-=======
+# Semifissispora rotundata H.J. Swart, 1982 SPECIES
 
 #### Status
 ACCEPTED

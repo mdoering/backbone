@@ -1,17 +1,16 @@
-Bilimbia albidocarnea var. alborubella (Nyl.) A.L. Sm. VARIETY
-=======
+# Lecania cuprea (A. Massal.) van den Boom & Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 2: 140 (1911)
+Nova Hedwigia 54(1-2): 234 (1992)
 
 #### Original name
-Lecidea alborubella Nyl.
+Bilimbia cuprea
 
 ### Remarks
 null

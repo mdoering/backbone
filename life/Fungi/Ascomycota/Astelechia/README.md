@@ -1,5 +1,4 @@
-Astelechia Cif. GENUS
-=======
+# Astelechia Cif. GENUS
 
 #### Status
 ACCEPTED

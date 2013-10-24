@@ -1,5 +1,4 @@
-Pertusaria subtruncata Müll. Arg. SPECIES
-=======
+# Pertusaria subtruncata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina perianiana (Sacc. & Cub.) Pegler SPECIES
-=======
+# Galerina perianiana (Sacc. & Cub.) Pegler SPECIES
 
 #### Status
 ACCEPTED

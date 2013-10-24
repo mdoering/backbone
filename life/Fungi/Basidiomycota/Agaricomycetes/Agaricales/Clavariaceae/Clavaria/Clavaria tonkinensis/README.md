@@ -1,5 +1,4 @@
-Clavaria tonkinensis Pat. SPECIES
-=======
+# Clavaria tonkinensis Pat. SPECIES
 
 #### Status
 ACCEPTED

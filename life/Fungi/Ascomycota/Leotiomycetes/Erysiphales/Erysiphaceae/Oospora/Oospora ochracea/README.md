@@ -1,5 +1,4 @@
-Oospora ochracea (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora ochracea (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

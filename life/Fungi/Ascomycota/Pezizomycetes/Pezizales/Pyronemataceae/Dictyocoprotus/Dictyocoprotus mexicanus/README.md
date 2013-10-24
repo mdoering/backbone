@@ -1,5 +1,4 @@
-Dictyocoprotus mexicanus J.C. Krug & R.S. Khan, 1991 SPECIES
-=======
+# Dictyocoprotus mexicanus J.C. Krug & R.S. Khan, 1991 SPECIES
 
 #### Status
 ACCEPTED

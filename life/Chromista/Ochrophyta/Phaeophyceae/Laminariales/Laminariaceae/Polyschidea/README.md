@@ -1,5 +1,4 @@
-Polyschidea Stackhouse, 1809 GENUS
-=======
+# Polyschidea Stackhouse, 1809 GENUS
 
 #### Status
 ACCEPTED

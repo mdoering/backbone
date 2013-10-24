@@ -1,5 +1,4 @@
-Podospora gigantea J.H. Mirza & Cain, 1970 SPECIES
-=======
+# Podospora gigantea J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

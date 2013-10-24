@@ -1,5 +1,4 @@
-Baeomyces lignorum (Ach.) Gray SPECIES
-=======
+# Baeomyces lignorum (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

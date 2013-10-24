@@ -1,5 +1,4 @@
-Zignoella rhytidodes (Berk. & Broome) Sacc., 1878 SPECIES
-=======
+# Zignoella rhytidodes (Berk. & Broome) Sacc., 1878 SPECIES
 
 #### Status
 DOUBTFUL

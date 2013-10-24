@@ -1,5 +1,4 @@
-Pseudocercospora peristeriae (H.C. Burnett) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora peristeriae (H.C. Burnett) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

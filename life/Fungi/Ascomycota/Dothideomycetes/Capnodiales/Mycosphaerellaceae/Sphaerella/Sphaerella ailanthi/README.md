@@ -1,5 +1,4 @@
-Sphaerella ailanthi (Ellis & Barthol.) Cooke SPECIES
-=======
+# Sphaerella ailanthi (Ellis & Barthol.) Cooke SPECIES
 
 #### Status
 ACCEPTED

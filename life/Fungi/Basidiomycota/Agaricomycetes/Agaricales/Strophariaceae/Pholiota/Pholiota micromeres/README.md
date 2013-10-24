@@ -1,5 +1,4 @@
-Pholiota micromeres Berk. & Broome SPECIES
-=======
+# Pholiota micromeres Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella spartii Berl. & Voglino, 1886 SPECIES
-=======
+# Anthostomella spartii Berl. & Voglino, 1886 SPECIES
 
 #### Status
 ACCEPTED

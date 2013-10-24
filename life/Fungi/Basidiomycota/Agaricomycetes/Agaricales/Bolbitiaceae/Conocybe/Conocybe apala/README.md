@@ -1,17 +1,16 @@
-Conocybe albipes var. albipes VARIETY
-=======
+# Conocybe apala (Fr.) Arnolds, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. Z. Pilzk. 7: 102 (1998)
+Persoonia 18(2): 225 (2003)
 
 #### Original name
-Conocybe albipes var. albipes
+Agaricus apalus Fr., 1818
 
 ### Remarks
 null

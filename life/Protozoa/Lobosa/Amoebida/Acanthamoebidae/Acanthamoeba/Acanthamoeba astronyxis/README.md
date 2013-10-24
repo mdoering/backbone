@@ -1,5 +1,4 @@
-Acanthamoeba astronyxis (Ray & Hayes, 1954) SPECIES
-=======
+# Acanthamoeba astronyxis (Ray & Hayes, 1954) SPECIES
 
 #### Status
 ACCEPTED

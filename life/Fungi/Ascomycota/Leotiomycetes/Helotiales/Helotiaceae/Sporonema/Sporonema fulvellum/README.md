@@ -1,5 +1,4 @@
-Sporonema fulvellum (Speg.) Arx SPECIES
-=======
+# Sporonema fulvellum (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

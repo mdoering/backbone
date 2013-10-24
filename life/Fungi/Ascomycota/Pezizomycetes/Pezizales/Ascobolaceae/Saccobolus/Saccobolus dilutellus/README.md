@@ -1,17 +1,16 @@
-Saccobolus globulifer Boud., 1869 SPECIES
-=======
+# Saccobolus dilutellus (Fuckel) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 526 (1889)
 
 #### Original name
-Saccobolus globulifer Boud., 1869
+Ascobolus dilutellus Fuckel, 1866
 
 ### Remarks
 null

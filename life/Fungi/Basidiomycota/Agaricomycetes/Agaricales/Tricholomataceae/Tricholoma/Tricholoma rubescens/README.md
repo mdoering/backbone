@@ -1,5 +1,4 @@
-Tricholoma rubescens Velen. SPECIES
-=======
+# Tricholoma rubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

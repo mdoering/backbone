@@ -1,5 +1,4 @@
-Rhabdospora linariae Unamuno SPECIES
-=======
+# Rhabdospora linariae Unamuno SPECIES
 
 #### Status
 ACCEPTED

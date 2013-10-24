@@ -1,5 +1,4 @@
-Parmelia sagenalis Ach. SPECIES
-=======
+# Parmelia sagenalis Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula altaica (Singer) Singer SPECIES
-=======
+# Russula altaica (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

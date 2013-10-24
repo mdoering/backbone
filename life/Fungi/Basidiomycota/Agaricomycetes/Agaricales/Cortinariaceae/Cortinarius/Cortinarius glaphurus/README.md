@@ -1,5 +1,4 @@
-Cortinarius glaphurus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius glaphurus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

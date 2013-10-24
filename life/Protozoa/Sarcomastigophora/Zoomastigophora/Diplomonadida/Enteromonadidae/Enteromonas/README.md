@@ -1,5 +1,4 @@
-Enteromonas da Fonseca, 1915 GENUS
-=======
+# Enteromonas da Fonseca, 1915 GENUS
 
 #### Status
 ACCEPTED

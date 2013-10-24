@@ -1,5 +1,4 @@
-Cyathus sphaerosporus Lloyd SPECIES
-=======
+# Cyathus sphaerosporus Lloyd SPECIES
 
 #### Status
 ACCEPTED

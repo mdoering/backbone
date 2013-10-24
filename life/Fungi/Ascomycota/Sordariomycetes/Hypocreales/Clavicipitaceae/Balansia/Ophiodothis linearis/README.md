@@ -1,5 +1,4 @@
-Ophiodothis linearis Rehm SPECIES
-=======
+# Ophiodothis linearis Rehm SPECIES
 
 #### Status
 ACCEPTED

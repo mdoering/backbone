@@ -1,17 +1,16 @@
-Parmelia tucsonensis T. H. Nash SPECIES
-=======
+# Xanthoparmelia tucsonensis (T. H. Nash) Egan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 77: 234 (1974)
+null
 
 #### Original name
-Parmelia tucsonensis T. H. Nash
+null
 
 ### Remarks
 null

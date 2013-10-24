@@ -1,5 +1,4 @@
-Trochamminidae Schwager, 1877 FAMILY
-=======
+# Trochamminidae Schwager, 1877 FAMILY
 
 #### Status
 ACCEPTED

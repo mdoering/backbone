@@ -1,5 +1,4 @@
-Leptothyrium medicaginis Pass. SPECIES
-=======
+# Leptothyrium medicaginis Pass. SPECIES
 
 #### Status
 ACCEPTED

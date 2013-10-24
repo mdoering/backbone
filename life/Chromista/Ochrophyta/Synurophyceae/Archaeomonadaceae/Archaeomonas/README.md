@@ -1,5 +1,4 @@
-Archaeomonas Deflandre, 1932 GENUS
-=======
+# Archaeomonas Deflandre, 1932 GENUS
 
 #### Status
 ACCEPTED

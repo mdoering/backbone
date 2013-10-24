@@ -1,5 +1,4 @@
-Polyblastia sommerfeltii Lynge SPECIES
-=======
+# Polyblastia sommerfeltii Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora henningsii Sacc. & P. Syd., 1899 SPECIES
-=======
+# Phyllachora henningsii Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

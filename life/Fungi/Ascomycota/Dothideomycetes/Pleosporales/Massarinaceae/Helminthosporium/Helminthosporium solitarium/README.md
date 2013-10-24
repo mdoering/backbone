@@ -1,5 +1,4 @@
-Helminthosporium solitarium F. Patt. SPECIES
-=======
+# Helminthosporium solitarium F. Patt. SPECIES
 
 #### Status
 ACCEPTED

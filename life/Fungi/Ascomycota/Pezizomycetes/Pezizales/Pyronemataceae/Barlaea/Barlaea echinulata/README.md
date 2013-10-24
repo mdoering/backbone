@@ -1,5 +1,4 @@
-Barlaea echinulata Rodway SPECIES
-=======
+# Barlaea echinulata Rodway SPECIES
 
 #### Status
 ACCEPTED

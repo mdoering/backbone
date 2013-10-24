@@ -1,5 +1,4 @@
-Rogergoosiella roystoneicola A. Hern. Gut. & J. Mena, 1996 SPECIES
-=======
+# Rogergoosiella roystoneicola A. Hern. Gut. & J. Mena, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystigma uniloculare I. Hino & Katum., 1958 SPECIES
-=======
+# Polystigma uniloculare I. Hino & Katum., 1958 SPECIES
 
 #### Status
 ACCEPTED

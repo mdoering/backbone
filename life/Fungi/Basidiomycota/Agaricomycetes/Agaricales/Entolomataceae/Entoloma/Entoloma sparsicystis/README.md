@@ -1,5 +1,4 @@
-Entoloma sparsicystis E. Horak & Singer SPECIES
-=======
+# Entoloma sparsicystis E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

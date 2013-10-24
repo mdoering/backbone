@@ -1,5 +1,4 @@
-Balansia redundans Möller SPECIES
-=======
+# Balansia redundans Möller SPECIES
 
 #### Status
 ACCEPTED

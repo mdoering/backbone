@@ -1,5 +1,4 @@
-Asterostromella subalutaria Rick SPECIES
-=======
+# Asterostromella subalutaria Rick SPECIES
 
 #### Status
 ACCEPTED

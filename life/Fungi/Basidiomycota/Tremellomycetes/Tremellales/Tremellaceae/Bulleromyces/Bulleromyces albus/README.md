@@ -1,17 +1,16 @@
-Bullera alba var. alba (W.F. Hanna) Derx VARIETY
-=======
+# Bulleromyces albus Boekhout & Á. Fonseca, 1991 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28(1/2): 11 (1930)
+in Boekhout, Fonseca & Batenburg-van der Vegte, Antonie van Leeuwenhoek 59(2): 91 (1991)
 
 #### Original name
-Bullera alba var. alba (W.F. Hanna) Derx
+Bulleromyces albus Boekhout & Á. Fonseca, 1991
 
 ### Remarks
 null

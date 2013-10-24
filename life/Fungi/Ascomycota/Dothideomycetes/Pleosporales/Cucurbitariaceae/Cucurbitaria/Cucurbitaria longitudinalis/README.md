@@ -1,5 +1,4 @@
-Cucurbitaria longitudinalis Peck SPECIES
-=======
+# Cucurbitaria longitudinalis Peck SPECIES
 
 #### Status
 ACCEPTED

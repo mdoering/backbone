@@ -1,5 +1,4 @@
-Lembosia vonarxii Bat. SPECIES
-=======
+# Lembosia vonarxii Bat. SPECIES
 
 #### Status
 ACCEPTED

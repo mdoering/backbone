@@ -1,5 +1,4 @@
-Podospora multipilosa J.H. Chang & Y.Z. Wang SPECIES
-=======
+# Podospora multipilosa J.H. Chang & Y.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

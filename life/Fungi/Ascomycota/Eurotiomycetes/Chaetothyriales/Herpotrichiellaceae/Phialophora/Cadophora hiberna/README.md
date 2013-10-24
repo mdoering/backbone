@@ -1,17 +1,16 @@
-Cadophora hibernica Bills SPECIES
-=======
+# Cadophora hiberna Bills SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 89: 115 (2004)
 
 #### Original name
-Cadophora hibernica Bills
+Cadophora hiberna Bills
 
 ### Remarks
 null

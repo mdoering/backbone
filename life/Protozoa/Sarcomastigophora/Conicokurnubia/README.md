@@ -1,5 +1,4 @@
-Conicokurnubia Septfontaine, 1988 GENUS
-=======
+# Conicokurnubia Septfontaine, 1988 GENUS
 
 #### Status
 ACCEPTED

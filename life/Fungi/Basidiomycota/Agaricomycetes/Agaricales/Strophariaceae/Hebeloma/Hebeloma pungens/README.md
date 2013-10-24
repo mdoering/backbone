@@ -1,5 +1,4 @@
-Hebeloma pungens A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma pungens A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

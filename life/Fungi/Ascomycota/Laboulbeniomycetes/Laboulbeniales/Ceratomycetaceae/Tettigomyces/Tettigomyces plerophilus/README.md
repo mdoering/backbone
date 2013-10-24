@@ -1,5 +1,4 @@
-Tettigomyces plerophilus Thaxt. SPECIES
-=======
+# Tettigomyces plerophilus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma clavipes Riedl SPECIES
-=======
+# Tricholoma clavipes Riedl SPECIES
 
 #### Status
 ACCEPTED

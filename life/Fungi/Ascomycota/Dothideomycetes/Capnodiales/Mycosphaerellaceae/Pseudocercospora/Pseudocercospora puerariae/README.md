@@ -1,5 +1,4 @@
-Pseudocercospora puerariae (Syd. & P. Syd.) Deighton SPECIES
-=======
+# Pseudocercospora puerariae (Syd. & P. Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptospora Overstreet, Hawkins & Fournie, 1984 GENUS
-=======
+# Calyptospora Overstreet, Hawkins & Fournie, 1984 GENUS
 
 #### Status
 ACCEPTED

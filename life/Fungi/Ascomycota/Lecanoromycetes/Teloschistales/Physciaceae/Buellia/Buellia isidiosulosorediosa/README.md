@@ -1,5 +1,4 @@
-Buellia isidiosulosorediosa Werner SPECIES
-=======
+# Buellia isidiosulosorediosa Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevundimonas aurantiaca (ex Poindexter, 1964) Abraham et al., 1999 SPECIES
-=======
+# Brevundimonas aurantiaca (ex Poindexter, 1964) Abraham et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

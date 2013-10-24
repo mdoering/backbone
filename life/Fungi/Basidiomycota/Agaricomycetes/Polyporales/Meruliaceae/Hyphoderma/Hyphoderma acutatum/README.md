@@ -1,5 +1,4 @@
-Hyphoderma acutatum Hjortstam & Ryvarden SPECIES
-=======
+# Hyphoderma acutatum Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

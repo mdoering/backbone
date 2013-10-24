@@ -1,5 +1,4 @@
-Hemispeira asteriasi Fabre-Domergue, 1888 SPECIES
-=======
+# Hemispeira asteriasi Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnus steenstrupi SPECIES
-=======
+# Tintinnus steenstrupi SPECIES
 
 #### Status
 ACCEPTED

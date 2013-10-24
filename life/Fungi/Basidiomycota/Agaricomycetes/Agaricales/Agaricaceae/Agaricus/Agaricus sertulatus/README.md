@@ -1,5 +1,4 @@
-Agaricus sertulatus Pers. SPECIES
-=======
+# Agaricus sertulatus Pers. SPECIES
 
 #### Status
 ACCEPTED

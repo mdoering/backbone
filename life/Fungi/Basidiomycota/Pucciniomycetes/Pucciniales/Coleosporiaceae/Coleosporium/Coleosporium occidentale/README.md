@@ -1,5 +1,4 @@
-Coleosporium occidentale Arthur SPECIES
-=======
+# Coleosporium occidentale Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium anceps Pass. SPECIES
-=======
+# Microthyrium anceps Pass. SPECIES
 
 #### Status
 ACCEPTED

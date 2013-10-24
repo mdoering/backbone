@@ -1,5 +1,4 @@
-Mycena subviscida Kauffman & A.H. Sm. SPECIES
-=======
+# Mycena subviscida Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

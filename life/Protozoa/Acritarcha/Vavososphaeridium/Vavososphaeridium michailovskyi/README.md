@@ -1,5 +1,4 @@
-Vavososphaeridium michailovskyi Timofeev, 1959 ex Downie & Sarjeant SPECIES
-=======
+# Vavososphaeridium michailovskyi Timofeev, 1959 ex Downie & Sarjeant SPECIES
 
 #### Status
 ACCEPTED

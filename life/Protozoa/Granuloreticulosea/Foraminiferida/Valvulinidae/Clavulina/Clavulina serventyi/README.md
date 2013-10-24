@@ -1,5 +1,4 @@
-Clavulina serventyi Chapman, W D & Parr, W J SPECIES
-=======
+# Clavulina serventyi Chapman, W D & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

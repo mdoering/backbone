@@ -1,5 +1,4 @@
-Marasmiellus eugeniae Singer SPECIES
-=======
+# Marasmiellus eugeniae Singer SPECIES
 
 #### Status
 ACCEPTED

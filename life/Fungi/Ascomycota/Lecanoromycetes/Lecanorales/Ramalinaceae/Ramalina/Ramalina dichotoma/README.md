@@ -1,5 +1,4 @@
-Ramalina dichotoma Hepp SPECIES
-=======
+# Ramalina dichotoma Hepp SPECIES
 
 #### Status
 ACCEPTED

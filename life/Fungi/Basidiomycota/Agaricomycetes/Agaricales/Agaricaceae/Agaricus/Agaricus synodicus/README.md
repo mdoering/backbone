@@ -1,5 +1,4 @@
-Agaricus synodicus Kunze SPECIES
-=======
+# Agaricus synodicus Kunze SPECIES
 
 #### Status
 ACCEPTED

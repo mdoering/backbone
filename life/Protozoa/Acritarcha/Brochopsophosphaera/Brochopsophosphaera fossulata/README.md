@@ -1,5 +1,4 @@
-Brochopsophosphaera fossulata Grishina in Grishina & Klenina, 1981 SPECIES
-=======
+# Brochopsophosphaera fossulata Grishina in Grishina & Klenina, 1981 SPECIES
 
 #### Status
 ACCEPTED

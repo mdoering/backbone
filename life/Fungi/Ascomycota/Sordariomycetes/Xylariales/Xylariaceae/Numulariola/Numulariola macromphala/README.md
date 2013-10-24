@@ -1,5 +1,4 @@
-Numulariola macromphala (Mont.) P.M.D. Martin SPECIES
-=======
+# Numulariola macromphala (Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

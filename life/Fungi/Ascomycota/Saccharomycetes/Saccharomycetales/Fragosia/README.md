@@ -1,5 +1,4 @@
-Fragosia Caball. GENUS
-=======
+# Fragosia Caball. GENUS
 
 #### Status
 ACCEPTED

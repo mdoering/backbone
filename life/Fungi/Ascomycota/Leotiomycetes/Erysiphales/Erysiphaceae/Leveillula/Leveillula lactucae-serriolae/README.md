@@ -1,5 +1,4 @@
-Leveillula lactucae-serriolae Khodap. & Hedjar. SPECIES
-=======
+# Leveillula lactucae-serriolae Khodap. & Hedjar. SPECIES
 
 #### Status
 ACCEPTED

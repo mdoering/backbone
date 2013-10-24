@@ -1,5 +1,4 @@
-Metasphaeria phalaridis Feltgen SPECIES
-=======
+# Metasphaeria phalaridis Feltgen SPECIES
 
 #### Status
 ACCEPTED

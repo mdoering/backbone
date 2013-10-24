@@ -1,5 +1,4 @@
-Cystoagaricus jujuyensis Singer, 1973 SPECIES
-=======
+# Cystoagaricus jujuyensis Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED

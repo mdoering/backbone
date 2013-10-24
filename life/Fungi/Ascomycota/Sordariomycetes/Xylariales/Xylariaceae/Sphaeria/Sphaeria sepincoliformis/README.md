@@ -1,5 +1,4 @@
-Sphaeria sepincoliformis (De Not.) SPECIES
-=======
+# Sphaeria sepincoliformis (De Not.) SPECIES
 
 #### Status
 ACCEPTED

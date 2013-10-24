@@ -1,5 +1,4 @@
-Pseudocercospora cordiae Kamal & R.P. Singh SPECIES
-=======
+# Pseudocercospora cordiae Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

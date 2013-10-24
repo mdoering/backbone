@@ -1,5 +1,4 @@
-Eutypa euterpes Henn. SPECIES
-=======
+# Eutypa euterpes Henn. SPECIES
 
 #### Status
 ACCEPTED

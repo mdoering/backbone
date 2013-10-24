@@ -1,5 +1,4 @@
-Ascochyta podagrariae Bres. SPECIES
-=======
+# Ascochyta podagrariae Bres. SPECIES
 
 #### Status
 ACCEPTED

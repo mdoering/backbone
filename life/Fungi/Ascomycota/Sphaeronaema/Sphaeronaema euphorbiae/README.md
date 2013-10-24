@@ -1,5 +1,4 @@
-Sphaeronaema euphorbiae Hollós SPECIES
-=======
+# Sphaeronaema euphorbiae Hollós SPECIES
 
 #### Status
 ACCEPTED

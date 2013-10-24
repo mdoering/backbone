@@ -1,5 +1,4 @@
-Tapesia luteola (Fr.) Sacc. SPECIES
-=======
+# Tapesia luteola (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

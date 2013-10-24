@@ -1,5 +1,4 @@
-Lophium igoschinae Chleb., 2001 SPECIES
-=======
+# Lophium igoschinae Chleb., 2001 SPECIES
 
 #### Status
 ACCEPTED

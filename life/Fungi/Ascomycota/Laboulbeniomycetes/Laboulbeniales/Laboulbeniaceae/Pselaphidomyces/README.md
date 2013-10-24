@@ -1,5 +1,4 @@
-Pselaphidomyces Speg. GENUS
-=======
+# Pselaphidomyces Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microstroma pachybasioides (Alcalde) W.B. Cooke SPECIES
-=======
+# Microstroma pachybasioides (Alcalde) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

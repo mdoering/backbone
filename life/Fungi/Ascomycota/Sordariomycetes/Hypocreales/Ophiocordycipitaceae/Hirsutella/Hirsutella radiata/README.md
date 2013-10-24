@@ -1,5 +1,4 @@
-Hirsutella radiata Petch SPECIES
-=======
+# Hirsutella radiata Petch SPECIES
 
 #### Status
 ACCEPTED

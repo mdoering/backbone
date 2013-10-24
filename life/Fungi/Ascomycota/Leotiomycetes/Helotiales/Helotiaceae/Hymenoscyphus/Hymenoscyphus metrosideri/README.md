@@ -1,5 +1,4 @@
-Hymenoscyphus metrosideri (Dennis) Dennis SPECIES
-=======
+# Hymenoscyphus metrosideri (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

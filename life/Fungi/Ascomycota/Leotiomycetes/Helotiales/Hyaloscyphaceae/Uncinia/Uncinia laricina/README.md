@@ -1,5 +1,4 @@
-Uncinia laricina Velen. SPECIES
-=======
+# Uncinia laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

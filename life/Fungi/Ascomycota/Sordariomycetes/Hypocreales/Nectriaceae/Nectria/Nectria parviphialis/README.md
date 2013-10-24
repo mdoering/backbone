@@ -1,5 +1,4 @@
-Nectria parviphialis Samuels SPECIES
-=======
+# Nectria parviphialis Samuels SPECIES
 
 #### Status
 ACCEPTED

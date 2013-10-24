@@ -1,5 +1,4 @@
-Hydrocybe bibula (Quél.) M.M. Moser SPECIES
-=======
+# Hydrocybe bibula (Quél.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

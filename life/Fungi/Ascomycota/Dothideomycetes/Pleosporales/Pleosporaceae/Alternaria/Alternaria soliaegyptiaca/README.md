@@ -1,5 +1,4 @@
-Alternaria soliaegyptiaca E.G. Simmons SPECIES
-=======
+# Alternaria soliaegyptiaca E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

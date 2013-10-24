@@ -1,5 +1,4 @@
-Pholiota submutabilis Henn. SPECIES
-=======
+# Pholiota submutabilis Henn. SPECIES
 
 #### Status
 ACCEPTED

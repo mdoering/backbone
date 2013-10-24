@@ -1,5 +1,4 @@
-Passalora dichondrae (Crous & U. Braun) U. Braun & Crous SPECIES
-=======
+# Passalora dichondrae (Crous & U. Braun) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

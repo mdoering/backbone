@@ -1,5 +1,4 @@
-Euplotoides agamalievi SPECIES
-=======
+# Euplotoides agamalievi SPECIES
 
 #### Status
 ACCEPTED

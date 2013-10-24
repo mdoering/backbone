@@ -1,5 +1,4 @@
-Cookella paulistana Speg. SPECIES
-=======
+# Cookella paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

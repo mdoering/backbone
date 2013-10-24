@@ -1,5 +1,4 @@
-Anacharon Ito & Imai, 2000 GENUS
-=======
+# Anacharon Ito & Imai, 2000 GENUS
 
 #### Status
 ACCEPTED

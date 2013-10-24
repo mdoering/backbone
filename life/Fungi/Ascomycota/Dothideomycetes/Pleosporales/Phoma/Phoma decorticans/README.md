@@ -1,5 +1,4 @@
-Phoma decorticans var. decorticans VARIETY
-=======
+# Phoma decorticans De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma decorticans var. decorticans
+Phoma decorticans De Not.
 
 ### Remarks
 null

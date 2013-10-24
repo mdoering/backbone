@@ -1,5 +1,4 @@
-Penicillium auridorsum Biourge SPECIES
-=======
+# Penicillium auridorsum Biourge SPECIES
 
 #### Status
 ACCEPTED

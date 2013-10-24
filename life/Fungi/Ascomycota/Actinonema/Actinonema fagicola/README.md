@@ -1,5 +1,4 @@
-Actinonema fagicola Allesch. SPECIES
-=======
+# Actinonema fagicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

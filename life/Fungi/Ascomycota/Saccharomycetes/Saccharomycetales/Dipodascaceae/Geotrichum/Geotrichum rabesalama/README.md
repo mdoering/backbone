@@ -1,5 +1,4 @@
-Geotrichum rabesalama (Fontoyn. & Boucher {?} ) Basgal SPECIES
-=======
+# Geotrichum rabesalama (Fontoyn. & Boucher {?} ) Basgal SPECIES
 
 #### Status
 ACCEPTED

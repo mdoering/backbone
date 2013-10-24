@@ -1,5 +1,4 @@
-Marasmiellus petiolicola Singer SPECIES
-=======
+# Marasmiellus petiolicola Singer SPECIES
 
 #### Status
 ACCEPTED

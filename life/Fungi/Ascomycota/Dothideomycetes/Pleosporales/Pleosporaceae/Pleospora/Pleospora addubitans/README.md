@@ -1,5 +1,4 @@
-Pleospora addubitans (Stirt.) A.L. Sm. ex Walt. Watson, 1948 SPECIES
-=======
+# Pleospora addubitans (Stirt.) A.L. Sm. ex Walt. Watson, 1948 SPECIES
 
 #### Status
 ACCEPTED

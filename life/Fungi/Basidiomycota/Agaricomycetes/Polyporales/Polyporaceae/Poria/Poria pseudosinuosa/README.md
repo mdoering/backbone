@@ -1,5 +1,4 @@
-Poria pseudosinuosa Henn. SPECIES
-=======
+# Poria pseudosinuosa Henn. SPECIES
 
 #### Status
 ACCEPTED

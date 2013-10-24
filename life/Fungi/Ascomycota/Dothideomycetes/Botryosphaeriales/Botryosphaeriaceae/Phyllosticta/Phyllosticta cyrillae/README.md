@@ -1,5 +1,4 @@
-Phyllosticta cyrillae Ellis & G. Martin SPECIES
-=======
+# Phyllosticta cyrillae Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma acaciaecola Pat. SPECIES
-=======
+# Macrophoma acaciaecola Pat. SPECIES
 
 #### Status
 ACCEPTED

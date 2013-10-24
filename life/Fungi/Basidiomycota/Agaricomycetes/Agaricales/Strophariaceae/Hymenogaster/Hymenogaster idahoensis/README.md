@@ -1,5 +1,4 @@
-Hymenogaster idahoensis A.H. Sm. SPECIES
-=======
+# Hymenogaster idahoensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

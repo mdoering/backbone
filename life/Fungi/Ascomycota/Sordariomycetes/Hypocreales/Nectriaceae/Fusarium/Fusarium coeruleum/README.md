@@ -1,17 +1,16 @@
-Fusarium caeruleum Lib. ex Sacc. SPECIES
-=======
+# Fusarium coeruleum Lib. ex Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 705 (1886)
 
 #### Original name
-Fusarium caeruleum Lib. ex Sacc.
+Fusarium coeruleum Lib. ex Sacc., 1886
 
 ### Remarks
 null

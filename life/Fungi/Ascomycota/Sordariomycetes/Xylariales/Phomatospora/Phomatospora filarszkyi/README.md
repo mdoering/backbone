@@ -1,5 +1,4 @@
-Phomatospora filarszkyi Petr. SPECIES
-=======
+# Phomatospora filarszkyi Petr. SPECIES
 
 #### Status
 ACCEPTED

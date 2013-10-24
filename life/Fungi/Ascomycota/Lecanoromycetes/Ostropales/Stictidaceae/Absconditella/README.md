@@ -1,5 +1,4 @@
-Absconditella Vezda, 1965 GENUS
-=======
+# Absconditella Vezda, 1965 GENUS
 
 #### Status
 ACCEPTED

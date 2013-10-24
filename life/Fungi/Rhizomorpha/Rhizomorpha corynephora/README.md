@@ -1,5 +1,4 @@
-Rhizomorpha corynephora Kunze SPECIES
-=======
+# Rhizomorpha corynephora Kunze SPECIES
 
 #### Status
 ACCEPTED

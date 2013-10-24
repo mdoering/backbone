@@ -1,5 +1,4 @@
-Clavaria sulphurascens Schwein. SPECIES
-=======
+# Clavaria sulphurascens Schwein. SPECIES
 
 #### Status
 ACCEPTED

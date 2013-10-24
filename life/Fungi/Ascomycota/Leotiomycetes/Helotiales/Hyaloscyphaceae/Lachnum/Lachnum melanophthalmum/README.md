@@ -1,14 +1,13 @@
-Dasyscyphus melanophthalmus Dennis, 1961 SPECIES
-=======
+# Lachnum melanophthalmum (Dennis) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 15(2): 299 (1961)
+Biblthca Mycol. 116: 544 (1987)
 
 #### Original name
 Dasyscyphus melanophthalmus Dennis, 1961

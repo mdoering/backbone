@@ -1,5 +1,4 @@
-Hygrocybe hololeuca Singer SPECIES
-=======
+# Hygrocybe hololeuca Singer SPECIES
 
 #### Status
 ACCEPTED

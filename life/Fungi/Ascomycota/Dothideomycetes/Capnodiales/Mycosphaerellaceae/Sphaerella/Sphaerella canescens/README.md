@@ -1,5 +1,4 @@
-Sphaerella canescens P. Karst. SPECIES
-=======
+# Sphaerella canescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

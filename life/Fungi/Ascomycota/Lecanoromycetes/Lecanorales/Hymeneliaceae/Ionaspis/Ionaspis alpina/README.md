@@ -1,5 +1,4 @@
-Ionaspis alpina SPECIES
-=======
+# Ionaspis alpina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum abietinum (Pers.) Link SPECIES
-=======
+# Sporotrichum abietinum (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

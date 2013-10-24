@@ -1,5 +1,4 @@
-Dothidella melastomatis Pat. SPECIES
-=======
+# Dothidella melastomatis Pat. SPECIES
 
 #### Status
 ACCEPTED

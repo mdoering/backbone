@@ -1,5 +1,4 @@
-Lecanora coniza Tuck. SPECIES
-=======
+# Lecanora coniza Tuck. SPECIES
 
 #### Status
 ACCEPTED

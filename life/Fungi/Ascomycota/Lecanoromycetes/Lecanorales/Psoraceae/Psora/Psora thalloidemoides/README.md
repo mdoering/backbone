@@ -1,5 +1,4 @@
-Psora thalloidemoides Eitner SPECIES
-=======
+# Psora thalloidemoides Eitner SPECIES
 
 #### Status
 ACCEPTED

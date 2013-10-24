@@ -1,5 +1,4 @@
-Vahlkampfia trilaminata Schmoller, Jonas & Ludvik, 1983 SPECIES
-=======
+# Vahlkampfia trilaminata Schmoller, Jonas & Ludvik, 1983 SPECIES
 
 #### Status
 ACCEPTED

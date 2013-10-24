@@ -1,5 +1,4 @@
-Symphyosira clematidis Baral SPECIES
-=======
+# Symphyosira clematidis Baral SPECIES
 
 #### Status
 ACCEPTED

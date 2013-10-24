@@ -1,5 +1,4 @@
-Cercospora palicoureina Petr. & Cif. SPECIES
-=======
+# Cercospora palicoureina Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

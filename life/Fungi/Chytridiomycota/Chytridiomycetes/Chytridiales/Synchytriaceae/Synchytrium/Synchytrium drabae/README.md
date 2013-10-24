@@ -1,5 +1,4 @@
-Synchytrium drabae Lüdi SPECIES
-=======
+# Synchytrium drabae Lüdi SPECIES
 
 #### Status
 ACCEPTED

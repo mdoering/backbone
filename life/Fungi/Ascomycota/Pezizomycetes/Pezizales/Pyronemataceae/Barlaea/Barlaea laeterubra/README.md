@@ -1,5 +1,4 @@
-Barlaea laeterubra Rehm SPECIES
-=======
+# Barlaea laeterubra Rehm SPECIES
 
 #### Status
 ACCEPTED

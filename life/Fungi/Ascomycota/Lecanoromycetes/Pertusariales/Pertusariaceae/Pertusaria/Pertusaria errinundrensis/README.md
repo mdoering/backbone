@@ -1,5 +1,4 @@
-Pertusaria errinundrensis A. W. Archer SPECIES
-=======
+# Pertusaria errinundrensis A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

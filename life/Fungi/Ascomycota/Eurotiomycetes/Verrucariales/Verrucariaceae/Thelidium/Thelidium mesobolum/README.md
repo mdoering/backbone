@@ -1,5 +1,4 @@
-Thelidium mesobolum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelidium mesobolum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

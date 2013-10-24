@@ -1,5 +1,4 @@
-Herpotrichia rara Kirschst. SPECIES
-=======
+# Herpotrichia rara Kirschst. SPECIES
 
 #### Status
 ACCEPTED

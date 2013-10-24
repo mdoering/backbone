@@ -1,5 +1,4 @@
-Pertusaria protuberans var. protuberans VARIETY
-=======
+# Pertusaria protuberans SPECIES
 
 #### Status
 ACCEPTED

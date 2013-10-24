@@ -1,5 +1,4 @@
-Mycena horrida Métrod SPECIES
-=======
+# Mycena horrida Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea sanctaeritae P. Clerc & Herrera-Campos SPECIES
-=======
+# Usnea sanctaeritae P. Clerc & Herrera-Campos SPECIES
 
 #### Status
 ACCEPTED

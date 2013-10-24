@@ -1,5 +1,4 @@
-Phyllachora dischidiae Syd. & P. Syd., 1913 SPECIES
-=======
+# Phyllachora dischidiae Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

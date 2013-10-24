@@ -1,5 +1,4 @@
-Tricholoma subterreiforme (Murrill) Murrill SPECIES
-=======
+# Tricholoma subterreiforme (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

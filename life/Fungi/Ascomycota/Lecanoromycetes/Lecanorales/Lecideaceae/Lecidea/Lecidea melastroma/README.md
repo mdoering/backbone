@@ -1,5 +1,4 @@
-Lecidea melastroma Nyl. SPECIES
-=======
+# Lecidea melastroma Nyl. SPECIES
 
 #### Status
 ACCEPTED

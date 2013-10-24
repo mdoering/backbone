@@ -1,17 +1,16 @@
-Pichia scutulata var. exigua Phaff, M.W. Mill. & M. Miranda, 1976 VARIETY
-=======
+# Pichia exigua (Phaff, M.W. Mill. & M. Miranda) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 946 (2008)
 
 #### Original name
-null
+Pichia scutulata var. exigua Phaff, M.W. Mill. & M. Miranda, 1976
 
 ### Remarks
 null

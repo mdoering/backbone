@@ -1,5 +1,4 @@
-Collybia nahuelbutensis Garrido SPECIES
-=======
+# Collybia nahuelbutensis Garrido SPECIES
 
 #### Status
 ACCEPTED

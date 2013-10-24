@@ -1,5 +1,4 @@
-Aecidium isomerinum Peck SPECIES
-=======
+# Aecidium isomerinum Peck SPECIES
 
 #### Status
 ACCEPTED

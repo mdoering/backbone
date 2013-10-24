@@ -1,5 +1,4 @@
-Cercosporella myosotidis Buchalo SPECIES
-=======
+# Cercosporella myosotidis Buchalo SPECIES
 
 #### Status
 ACCEPTED

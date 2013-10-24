@@ -1,5 +1,4 @@
-Gaudryina compressa SPECIES
-=======
+# Gaudryina compressa SPECIES
 
 #### Status
 ACCEPTED

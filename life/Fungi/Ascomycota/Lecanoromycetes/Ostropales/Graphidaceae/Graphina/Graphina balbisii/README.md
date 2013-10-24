@@ -1,5 +1,4 @@
-Graphina balbisii var. balbisii VARIETY
-=======
+# Graphina balbisii (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina balbisii var. balbisii
+Graphis balbisii Fée
 
 ### Remarks
 null

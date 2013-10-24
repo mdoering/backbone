@@ -1,5 +1,4 @@
-Gymnodinium fossarum Conrad & Kufferath SPECIES
-=======
+# Gymnodinium fossarum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria oncopterae McAlpine SPECIES
-=======
+# Isaria oncopterae McAlpine SPECIES
 
 #### Status
 ACCEPTED

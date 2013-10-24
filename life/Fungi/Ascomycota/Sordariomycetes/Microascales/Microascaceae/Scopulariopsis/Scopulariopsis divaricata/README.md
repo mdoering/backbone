@@ -1,5 +1,4 @@
-Scopulariopsis divaricata var. divaricata VARIETY
-=======
+# Scopulariopsis divaricata Yamashita SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Otolaryngol. Jpn. 59: 129 (1956)
 
 #### Original name
-Scopulariopsis divaricata var. divaricata
+Scopulariopsis divaricata Yamashita
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parabryophrya penardi (Kahl, 1931) Foissner, 1985 SPECIES
-=======
+# Parabryophrya penardi (Kahl, 1931) Foissner, 1985 SPECIES
 
 #### Status
 ACCEPTED

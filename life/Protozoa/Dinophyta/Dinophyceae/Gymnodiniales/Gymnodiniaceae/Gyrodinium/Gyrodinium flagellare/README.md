@@ -1,5 +1,4 @@
-Gyrodinium flagellare Schiller SPECIES
-=======
+# Gyrodinium flagellare Schiller SPECIES
 
 #### Status
 ACCEPTED

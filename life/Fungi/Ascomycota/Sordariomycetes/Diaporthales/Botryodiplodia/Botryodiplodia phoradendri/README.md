@@ -1,5 +1,4 @@
-Botryodiplodia phoradendri (Cooke) Petr. SPECIES
-=======
+# Botryodiplodia phoradendri (Cooke) Petr. SPECIES
 
 #### Status
 ACCEPTED

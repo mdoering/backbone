@@ -1,5 +1,4 @@
-Ascochyta ebeleki Kalymb. SPECIES
-=======
+# Ascochyta ebeleki Kalymb. SPECIES
 
 #### Status
 ACCEPTED

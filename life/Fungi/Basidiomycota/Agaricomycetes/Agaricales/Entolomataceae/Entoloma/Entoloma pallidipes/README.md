@@ -1,5 +1,4 @@
-Entoloma pallidipes Hesler SPECIES
-=======
+# Entoloma pallidipes Hesler SPECIES
 
 #### Status
 ACCEPTED

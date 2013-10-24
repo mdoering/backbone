@@ -1,5 +1,4 @@
-Staurothele praecedens SPECIES
-=======
+# Staurothele praecedens SPECIES
 
 #### Status
 ACCEPTED

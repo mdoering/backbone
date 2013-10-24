@@ -1,5 +1,4 @@
-Malmgrenia acarosporoides Räsänen SPECIES
-=======
+# Malmgrenia acarosporoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria macularis var. macularis VARIETY
-=======
+# Venturia macularis (Fr.) E. Müll. & Arx, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 60: 365 (1950)
 
 #### Original name
-null
+Sphaeria macularis Fr., 1815
 
 ### Remarks
 null

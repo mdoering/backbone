@@ -1,14 +1,13 @@
-Lachnum venturioides (Sacc. & Romell) Nannf., 1932 SPECIES
-=======
+# Venturiocistella venturioides (Sacc. & Roum.) Raitv., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. 8(2): 131 (1932)
+Sistematiki i Rasprostranenie Gribov (Tartu) 156 (1978)
 
 #### Original name
 Pirottaea venturioides Sacc. & Romell, 1889

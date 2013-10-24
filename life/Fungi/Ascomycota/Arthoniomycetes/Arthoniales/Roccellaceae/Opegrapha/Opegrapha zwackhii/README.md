@@ -1,5 +1,4 @@
-Opegrapha zwackhii (A. Massal. ex Zwackh) Källsten SPECIES
-=======
+# Opegrapha zwackhii (A. Massal. ex Zwackh) Källsten SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bacidia rubella var. assulata Körb. VARIETY
-=======
+# Bacidina assulata (Körb.) S. Ekman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Bacidia rubella var. assulata Körb.
+null
 
 ### Remarks
 null

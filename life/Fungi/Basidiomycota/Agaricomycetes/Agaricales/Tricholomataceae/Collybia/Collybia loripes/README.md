@@ -1,5 +1,4 @@
-Collybia loripes Fr. SPECIES
-=======
+# Collybia loripes Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirneola leveillei Forq. SPECIES
-=======
+# Hirneola leveillei Forq. SPECIES
 
 #### Status
 ACCEPTED

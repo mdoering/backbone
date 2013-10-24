@@ -1,5 +1,4 @@
-Mycomicrothelia atomaria f. atomaria FORM
-=======
+# Mycomicrothelia atomaria (DC.) Keissl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycomicrothelia atomaria f. atomaria
+Verrucaria atomaria DC.
 
 ### Remarks
 null

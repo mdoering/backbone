@@ -1,5 +1,4 @@
-Lachnum ulei (G. Winter) S.A. Cantrell & J.H. Haines SPECIES
-=======
+# Lachnum ulei (G. Winter) S.A. Cantrell & J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

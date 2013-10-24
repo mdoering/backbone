@@ -1,5 +1,4 @@
-Psora inconspicua Elenkin SPECIES
-=======
+# Psora inconspicua Elenkin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pentapharsodinium dalei Indelicato & Loblich Iii SPECIES
-=======
+# Pentapharsodinium dalei Indelicato & Loblich Iii SPECIES
 
 #### Status
 ACCEPTED

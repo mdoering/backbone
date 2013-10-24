@@ -1,5 +1,4 @@
-Arthopyrenia effugiens Müll. Arg. SPECIES
-=======
+# Arthopyrenia effugiens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

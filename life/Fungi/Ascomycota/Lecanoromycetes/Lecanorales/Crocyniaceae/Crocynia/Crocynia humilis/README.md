@@ -1,5 +1,4 @@
-Crocynia humilis Hue SPECIES
-=======
+# Crocynia humilis Hue SPECIES
 
 #### Status
 ACCEPTED

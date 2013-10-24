@@ -1,5 +1,4 @@
-Alternaria qualeae Dorn.-Silva & Dianese SPECIES
-=======
+# Alternaria qualeae Dorn.-Silva & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus microcystoideus W. West & G.S. West SPECIES
-=======
+# Chroococcus microcystoideus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

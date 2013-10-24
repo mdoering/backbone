@@ -1,5 +1,4 @@
-Puccinia scaliana P. Syd. & Syd. SPECIES
-=======
+# Puccinia scaliana P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

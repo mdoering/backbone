@@ -1,5 +1,4 @@
-Gyromorpha GENUS
-=======
+# Gyromorpha GENUS
 
 #### Status
 ACCEPTED

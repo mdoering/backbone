@@ -1,5 +1,4 @@
-Dichomera persooniae Henn. SPECIES
-=======
+# Dichomera persooniae Henn. SPECIES
 
 #### Status
 ACCEPTED

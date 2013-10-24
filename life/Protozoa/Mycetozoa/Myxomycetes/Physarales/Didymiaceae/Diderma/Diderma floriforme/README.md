@@ -1,17 +1,16 @@
-Diderma floriforme var. subfloriforme (Cand. & Nann.-Bremek.) Y. Yamam. VARIETY
-=======
+# Diderma floriforme (Bull.) Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 294 (1998)
+Neues Mag. Bot. 1: 89 (1794)
 
 #### Original name
-Diderma subfloriforme Cand. & Nann.-Bremek., 1980
+Sphaerocarpus floriformis Bull.
 
 ### Remarks
 null

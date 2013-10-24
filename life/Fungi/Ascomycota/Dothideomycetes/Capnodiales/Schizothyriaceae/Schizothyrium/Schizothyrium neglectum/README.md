@@ -1,5 +1,4 @@
-Schizothyrium neglectum (Duby) Sacc. SPECIES
-=======
+# Schizothyrium neglectum (Duby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

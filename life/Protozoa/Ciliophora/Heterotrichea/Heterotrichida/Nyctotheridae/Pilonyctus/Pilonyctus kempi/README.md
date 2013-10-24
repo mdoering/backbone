@@ -1,8 +1,7 @@
-Nyctotherus kempi Ghosh, 1921 SPECIES
-=======
+# Pilonyctus kempi (Ghosh, 1921) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

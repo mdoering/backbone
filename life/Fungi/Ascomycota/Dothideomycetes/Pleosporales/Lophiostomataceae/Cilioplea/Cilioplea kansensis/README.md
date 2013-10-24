@@ -1,8 +1,7 @@
-Pleospora kansensis Ellis & Everh., 1902 SPECIES
-=======
+# Cilioplea kansensis (Ellis & Everh.) Crivelli, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pleospora kansensis Ellis & Everh., 1902
 
 ### Remarks
 null

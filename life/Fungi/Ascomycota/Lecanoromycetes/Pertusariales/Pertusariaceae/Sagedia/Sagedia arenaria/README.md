@@ -1,5 +1,4 @@
-Sagedia arenaria Anzi SPECIES
-=======
+# Sagedia arenaria Anzi SPECIES
 
 #### Status
 ACCEPTED

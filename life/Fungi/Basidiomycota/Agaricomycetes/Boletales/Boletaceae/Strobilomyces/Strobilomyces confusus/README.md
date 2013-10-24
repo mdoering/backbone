@@ -1,5 +1,4 @@
-Strobilomyces confusus Singer SPECIES
-=======
+# Strobilomyces confusus Singer SPECIES
 
 #### Status
 ACCEPTED

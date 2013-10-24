@@ -1,5 +1,4 @@
-Acarospora aeruginosa Hasse SPECIES
-=======
+# Acarospora aeruginosa Hasse SPECIES
 
 #### Status
 ACCEPTED

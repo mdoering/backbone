@@ -1,5 +1,4 @@
-Helicoön peruamazonense Matsush. SPECIES
-=======
+# Helicoön peruamazonense Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractium therryanum Sacc. SPECIES
-=======
+# Atractium therryanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

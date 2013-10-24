@@ -1,5 +1,4 @@
-Tetrahymena Furgason, 1940 GENUS
-=======
+# Tetrahymena Furgason, 1940 GENUS
 
 #### Status
 ACCEPTED

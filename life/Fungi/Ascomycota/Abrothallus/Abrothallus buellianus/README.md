@@ -1,5 +1,4 @@
-Abrothallus buellianus De Not. SPECIES
-=======
+# Abrothallus buellianus De Not. SPECIES
 
 #### Status
 ACCEPTED

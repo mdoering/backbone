@@ -1,5 +1,4 @@
-Lachnum gahniae Spooner SPECIES
-=======
+# Lachnum gahniae Spooner SPECIES
 
 #### Status
 ACCEPTED

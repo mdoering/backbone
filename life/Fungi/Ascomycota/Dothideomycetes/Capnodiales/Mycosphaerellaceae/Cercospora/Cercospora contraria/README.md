@@ -1,5 +1,4 @@
-Cercospora contraria Syd. & P. Syd. SPECIES
-=======
+# Cercospora contraria Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

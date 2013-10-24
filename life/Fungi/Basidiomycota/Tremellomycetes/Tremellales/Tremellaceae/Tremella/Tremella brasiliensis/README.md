@@ -1,5 +1,4 @@
-Tremella brasiliensis (Möller) Lloyd SPECIES
-=======
+# Tremella brasiliensis (Möller) Lloyd SPECIES
 
 #### Status
 ACCEPTED

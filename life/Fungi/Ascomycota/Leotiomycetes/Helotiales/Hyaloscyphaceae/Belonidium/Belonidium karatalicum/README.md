@@ -1,5 +1,4 @@
-Belonidium karatalicum Raitv. SPECIES
-=======
+# Belonidium karatalicum Raitv. SPECIES
 
 #### Status
 ACCEPTED

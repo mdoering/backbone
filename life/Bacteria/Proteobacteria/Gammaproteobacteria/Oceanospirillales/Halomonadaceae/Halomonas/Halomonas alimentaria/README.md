@@ -1,5 +1,4 @@
-Halomonas alimentaria Yoon et al., 2002 SPECIES
-=======
+# Halomonas alimentaria Yoon et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

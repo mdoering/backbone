@@ -1,5 +1,4 @@
-Kumanasamuha geaster Nagao, Kurogi & Kiyota SPECIES
-=======
+# Kumanasamuha geaster Nagao, Kurogi & Kiyota SPECIES
 
 #### Status
 ACCEPTED

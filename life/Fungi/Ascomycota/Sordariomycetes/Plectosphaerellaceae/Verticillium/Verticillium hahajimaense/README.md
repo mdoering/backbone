@@ -1,5 +1,4 @@
-Verticillium hahajimaense Ts. Watan. SPECIES
-=======
+# Verticillium hahajimaense Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

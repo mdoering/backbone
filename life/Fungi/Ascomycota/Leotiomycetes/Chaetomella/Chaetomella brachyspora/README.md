@@ -1,5 +1,4 @@
-Chaetomella brachyspora Sacc. & Speg. SPECIES
-=======
+# Chaetomella brachyspora Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

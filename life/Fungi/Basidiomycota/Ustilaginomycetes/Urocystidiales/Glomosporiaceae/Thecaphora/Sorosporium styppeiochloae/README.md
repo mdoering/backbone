@@ -1,5 +1,4 @@
-Sorosporium styppeiochloae Dennis & M.B. Ellis SPECIES
-=======
+# Sorosporium styppeiochloae Dennis & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

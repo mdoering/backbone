@@ -1,5 +1,4 @@
-Septonema laricinum Hol.-Jech. SPECIES
-=======
+# Septonema laricinum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

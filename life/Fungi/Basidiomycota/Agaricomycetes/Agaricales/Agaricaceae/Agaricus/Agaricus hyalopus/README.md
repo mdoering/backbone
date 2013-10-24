@@ -1,5 +1,4 @@
-Agaricus hyalopus J. Otto SPECIES
-=======
+# Agaricus hyalopus J. Otto SPECIES
 
 #### Status
 ACCEPTED

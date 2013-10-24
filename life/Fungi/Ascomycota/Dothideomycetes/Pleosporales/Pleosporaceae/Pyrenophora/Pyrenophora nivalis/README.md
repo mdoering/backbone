@@ -1,5 +1,4 @@
-Pyrenophora nivalis (Niessl) Sacc. SPECIES
-=======
+# Pyrenophora nivalis (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

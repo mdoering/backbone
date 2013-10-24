@@ -1,5 +1,4 @@
-Cercospora campanumoeae Sawada SPECIES
-=======
+# Cercospora campanumoeae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygrapha viridescens (Fée) Müll. Arg. SPECIES
-=======
+# Platygrapha viridescens (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

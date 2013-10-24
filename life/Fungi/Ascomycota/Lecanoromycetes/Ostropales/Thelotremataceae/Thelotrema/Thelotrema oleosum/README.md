@@ -1,5 +1,4 @@
-Thelotrema oleosum Mangold SPECIES
-=======
+# Thelotrema oleosum Mangold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria hesperidearum (E. Pantan.) E.G. Simmons SPECIES
-=======
+# Alternaria hesperidearum (E. Pantan.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

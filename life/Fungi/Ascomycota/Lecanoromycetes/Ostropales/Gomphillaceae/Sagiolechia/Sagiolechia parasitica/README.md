@@ -1,5 +1,4 @@
-Sagiolechia parasitica Alstrup & E.S. Hansen SPECIES
-=======
+# Sagiolechia parasitica Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

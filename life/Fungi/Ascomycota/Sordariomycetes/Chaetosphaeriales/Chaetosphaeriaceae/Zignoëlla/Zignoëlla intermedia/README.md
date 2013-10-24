@@ -1,5 +1,4 @@
-Zignoëlla intermedia Pass. SPECIES
-=======
+# Zignoëlla intermedia Pass. SPECIES
 
 #### Status
 ACCEPTED

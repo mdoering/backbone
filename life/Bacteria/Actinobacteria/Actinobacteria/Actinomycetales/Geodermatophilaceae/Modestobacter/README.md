@@ -1,5 +1,4 @@
-Modestobacter Mevs et al., 2000 GENUS
-=======
+# Modestobacter Mevs et al., 2000 GENUS
 
 #### Status
 ACCEPTED

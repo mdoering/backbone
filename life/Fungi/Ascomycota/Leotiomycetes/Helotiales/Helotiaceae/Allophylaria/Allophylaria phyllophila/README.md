@@ -1,5 +1,4 @@
-Allophylaria phyllophila P. Karst. SPECIES
-=======
+# Allophylaria phyllophila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massospora levispora R.S. Soper, 1963 SPECIES
-=======
+# Massospora levispora R.S. Soper, 1963 SPECIES
 
 #### Status
 ACCEPTED

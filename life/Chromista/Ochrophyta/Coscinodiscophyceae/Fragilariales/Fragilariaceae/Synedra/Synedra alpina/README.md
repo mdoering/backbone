@@ -1,5 +1,4 @@
-Synedra alpina Naegeli ex Kützing SPECIES
-=======
+# Synedra alpina Naegeli ex Kützing SPECIES
 
 #### Status
 ACCEPTED

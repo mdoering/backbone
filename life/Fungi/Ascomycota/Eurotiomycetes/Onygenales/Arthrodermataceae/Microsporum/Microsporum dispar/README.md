@@ -1,5 +1,4 @@
-Microsporum dispar Vidal {?} SPECIES
-=======
+# Microsporum dispar Vidal {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus denudata Rabenh. SPECIES
-=======
+# Agaricus denudata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

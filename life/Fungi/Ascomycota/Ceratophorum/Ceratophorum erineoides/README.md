@@ -1,5 +1,4 @@
-Ceratophorum erineoides (Ces.) Sacc. SPECIES
-=======
+# Ceratophorum erineoides (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

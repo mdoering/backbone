@@ -1,5 +1,4 @@
-Lactobacillus gastricus Roos et al., 2005 SPECIES
-=======
+# Lactobacillus gastricus Roos et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

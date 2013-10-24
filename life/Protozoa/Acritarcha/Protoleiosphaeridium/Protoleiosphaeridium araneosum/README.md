@@ -1,5 +1,4 @@
-Protoleiosphaeridium araneosum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium araneosum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

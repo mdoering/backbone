@@ -1,5 +1,4 @@
-Coprinarius compactus (Schumach.) P. Kumm. SPECIES
-=======
+# Coprinarius compactus (Schumach.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

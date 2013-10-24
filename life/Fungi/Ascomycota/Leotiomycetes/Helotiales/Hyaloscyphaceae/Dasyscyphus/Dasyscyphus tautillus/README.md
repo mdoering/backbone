@@ -1,8 +1,7 @@
-Dasyscypha tautillus (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Dasyscyphus tautillus (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

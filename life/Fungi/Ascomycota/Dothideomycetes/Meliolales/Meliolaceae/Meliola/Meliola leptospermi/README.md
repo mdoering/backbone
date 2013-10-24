@@ -1,5 +1,4 @@
-Meliola leptospermi Hansf., 1953 SPECIES
-=======
+# Meliola leptospermi Hansf., 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolum talaumae Racib. SPECIES
-=======
+# Clypeolum talaumae Racib. SPECIES
 
 #### Status
 ACCEPTED

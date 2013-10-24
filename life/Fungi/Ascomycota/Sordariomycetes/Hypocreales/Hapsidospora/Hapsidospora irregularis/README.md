@@ -1,5 +1,4 @@
-Hapsidospora irregularis Malloch & Cain, 1970 SPECIES
-=======
+# Hapsidospora irregularis Malloch & Cain, 1970 SPECIES
 
 #### Status
 ACCEPTED

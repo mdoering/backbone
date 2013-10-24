@@ -1,5 +1,4 @@
-Mycena mucronata Velen. SPECIES
-=======
+# Mycena mucronata Velen. SPECIES
 
 #### Status
 ACCEPTED

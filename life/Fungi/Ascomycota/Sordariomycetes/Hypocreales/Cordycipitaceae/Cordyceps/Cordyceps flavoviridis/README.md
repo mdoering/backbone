@@ -1,5 +1,4 @@
-Cordyceps flavoviridis Möller SPECIES
-=======
+# Cordyceps flavoviridis Möller SPECIES
 
 #### Status
 ACCEPTED

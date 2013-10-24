@@ -1,5 +1,4 @@
-Parmotrema concurrens Hale SPECIES
-=======
+# Parmotrema concurrens Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pyxine hispanica H. Magn. SPECIES
-=======
+# Tetramelas pulverulentus (Anzi) A. Nordin & Thell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 37(6): 497 (2005)
 
 #### Original name
-null
+Abrothallus pulverulentus Anzi
 
 ### Remarks
 null

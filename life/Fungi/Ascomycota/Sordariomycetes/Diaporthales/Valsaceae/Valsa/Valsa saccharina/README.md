@@ -1,5 +1,4 @@
-Valsa saccharina Rehm SPECIES
-=======
+# Valsa saccharina Rehm SPECIES
 
 #### Status
 ACCEPTED

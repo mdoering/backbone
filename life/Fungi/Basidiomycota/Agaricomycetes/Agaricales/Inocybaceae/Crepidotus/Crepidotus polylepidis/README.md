@@ -1,5 +1,4 @@
-Crepidotus polylepidis Singer SPECIES
-=======
+# Crepidotus polylepidis Singer SPECIES
 
 #### Status
 ACCEPTED

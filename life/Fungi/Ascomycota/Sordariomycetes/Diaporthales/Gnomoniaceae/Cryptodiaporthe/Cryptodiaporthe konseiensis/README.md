@@ -1,5 +1,4 @@
-Cryptodiaporthe konseiensis Tak. Kobay. SPECIES
-=======
+# Cryptodiaporthe konseiensis Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

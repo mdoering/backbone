@@ -1,8 +1,7 @@
-Ceratium articum var. longipes (Bailey) Graham & Bronikovsky VARIETY
-=======
+# Ceratium longipes (Bailey) Gran SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Rhodocybe angustispora Singer SPECIES
-=======
+# Rhodocybe angustispora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulacoseira crenulata (Ehrenberg) Thwaites SPECIES
-=======
+# Aulacoseira crenulata (Ehrenberg) Thwaites SPECIES
 
 #### Status
 ACCEPTED

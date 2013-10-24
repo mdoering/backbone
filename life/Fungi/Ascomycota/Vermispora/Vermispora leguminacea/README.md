@@ -1,5 +1,4 @@
-Vermispora leguminacea J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
-=======
+# Vermispora leguminacea J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidiidae Kahl, 1933 FAMILY
-=======
+# Scyphidiidae Kahl, 1933 FAMILY
 
 #### Status
 ACCEPTED

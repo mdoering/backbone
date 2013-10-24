@@ -1,5 +1,4 @@
-Storeatula Hill, 1991 GENUS
-=======
+# Storeatula Hill, 1991 GENUS
 
 #### Status
 ACCEPTED

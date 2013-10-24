@@ -1,5 +1,4 @@
-Spongodiscidae Haeckel, 1862 FAMILY
-=======
+# Spongodiscidae Haeckel, 1862 FAMILY
 
 #### Status
 ACCEPTED

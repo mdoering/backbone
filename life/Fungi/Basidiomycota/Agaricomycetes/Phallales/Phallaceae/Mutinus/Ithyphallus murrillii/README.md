@@ -1,5 +1,4 @@
-Ithyphallus murrillii E. West SPECIES
-=======
+# Ithyphallus murrillii E. West SPECIES
 
 #### Status
 ACCEPTED

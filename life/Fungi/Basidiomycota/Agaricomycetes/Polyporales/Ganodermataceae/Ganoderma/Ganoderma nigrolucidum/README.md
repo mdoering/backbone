@@ -1,5 +1,4 @@
-Ganoderma nigrolucidum (Lloyd) D.A. Reid SPECIES
-=======
+# Ganoderma nigrolucidum (Lloyd) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenocarpon pelodes (Körb.) Trevis. SPECIES
-=======
+# Pyrenocarpon pelodes (Körb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

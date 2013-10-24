@@ -1,5 +1,4 @@
-Estiastra culcita Wicander, 1974 SPECIES
-=======
+# Estiastra culcita Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

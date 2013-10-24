@@ -1,5 +1,4 @@
-Pestalozziella disseminata (Thüm.) SPECIES
-=======
+# Pestalozziella disseminata (Thüm.) SPECIES
 
 #### Status
 ACCEPTED

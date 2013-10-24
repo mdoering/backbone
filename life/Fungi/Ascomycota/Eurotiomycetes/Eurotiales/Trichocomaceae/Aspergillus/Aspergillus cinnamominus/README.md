@@ -1,5 +1,4 @@
-Aspergillus cinnamominus (Weiss {?} ) C.W. Dodge SPECIES
-=======
+# Aspergillus cinnamominus (Weiss {?} ) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

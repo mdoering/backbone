@@ -1,5 +1,4 @@
-Hyaloderma horridum Pat. SPECIES
-=======
+# Hyaloderma horridum Pat. SPECIES
 
 #### Status
 ACCEPTED

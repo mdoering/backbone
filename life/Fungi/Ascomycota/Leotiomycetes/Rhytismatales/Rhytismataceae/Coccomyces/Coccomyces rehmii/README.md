@@ -1,5 +1,4 @@
-Coccomyces rehmii Sacc. SPECIES
-=======
+# Coccomyces rehmii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria rhabdosporioides Syd. SPECIES
-=======
+# Septoria rhabdosporioides Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea melaleuca Tuck. SPECIES
-=======
+# Lecidea melaleuca Tuck. SPECIES
 
 #### Status
 ACCEPTED

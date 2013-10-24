@@ -1,17 +1,16 @@
-Plectolitus Kohlm. GENUS
-=======
+# Amylocarpus Currey, 1859 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 2: 328 (1960)
+Proc. R. Soc. Lond. , B. Biol. Sci. 9: 122 (1859)
 
 #### Original name
-Plectolitus Kohlm.
+Amylocarpus Currey, 1859
 
 ### Remarks
 null

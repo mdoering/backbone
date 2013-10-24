@@ -1,5 +1,4 @@
-Pestalotia depazeoides Welw. & Curr. SPECIES
-=======
+# Pestalotia depazeoides Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

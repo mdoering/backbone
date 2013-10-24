@@ -1,5 +1,4 @@
-Marasmiellus papillatomarginatus Singer SPECIES
-=======
+# Marasmiellus papillatomarginatus Singer SPECIES
 
 #### Status
 ACCEPTED

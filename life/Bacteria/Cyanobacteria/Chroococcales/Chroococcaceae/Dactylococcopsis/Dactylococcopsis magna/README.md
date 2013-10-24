@@ -1,5 +1,4 @@
-Dactylococcopsis magna Bharadwaja SPECIES
-=======
+# Dactylococcopsis magna Bharadwaja SPECIES
 
 #### Status
 ACCEPTED

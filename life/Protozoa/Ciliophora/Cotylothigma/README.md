@@ -1,5 +1,4 @@
-Cotylothigma Raabe, 1949 GENUS
-=======
+# Cotylothigma Raabe, 1949 GENUS
 
 #### Status
 ACCEPTED

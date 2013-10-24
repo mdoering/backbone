@@ -1,8 +1,7 @@
-Chainia olivacea Thirumalachar and Sukapure, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces olivaceiscleroticus Pridham, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

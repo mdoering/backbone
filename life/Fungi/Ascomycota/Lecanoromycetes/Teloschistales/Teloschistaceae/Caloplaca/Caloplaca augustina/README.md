@@ -1,5 +1,4 @@
-Caloplaca augustina (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca augustina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

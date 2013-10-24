@@ -1,5 +1,4 @@
-Rhabdospora uniseptata Bubák & Wróbl. SPECIES
-=======
+# Rhabdospora uniseptata Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

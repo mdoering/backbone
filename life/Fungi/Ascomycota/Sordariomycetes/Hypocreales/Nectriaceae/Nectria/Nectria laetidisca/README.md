@@ -1,5 +1,4 @@
-Nectria laetidisca Rossman, 1983 SPECIES
-=======
+# Nectria laetidisca Rossman, 1983 SPECIES
 
 #### Status
 ACCEPTED

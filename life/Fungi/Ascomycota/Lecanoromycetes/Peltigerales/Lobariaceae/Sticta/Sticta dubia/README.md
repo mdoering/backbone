@@ -1,5 +1,4 @@
-Sticta dubia var. dubia VARIETY
-=======
+# Sticta dubia (Du Rietz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Lich. Univers. 8: 309 (1932)
 
 #### Original name
-Sticta dubia var. dubia
+Pseudocyphellaria dubia Du Rietz
 
 ### Remarks
 null

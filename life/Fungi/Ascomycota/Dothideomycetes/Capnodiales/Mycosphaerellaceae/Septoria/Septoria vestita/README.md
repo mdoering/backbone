@@ -1,5 +1,4 @@
-Septoria vestita Berk. & M.A. Curtis SPECIES
-=======
+# Septoria vestita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

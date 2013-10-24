@@ -1,5 +1,4 @@
-Hypocreopsis rhododendri Thaxt., 1922 SPECIES
-=======
+# Hypocreopsis rhododendri Thaxt., 1922 SPECIES
 
 #### Status
 ACCEPTED

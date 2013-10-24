@@ -1,5 +1,4 @@
-Torula myxococci-incrustantis Zederb. {?} SPECIES
-=======
+# Torula myxococci-incrustantis Zederb. {?} SPECIES
 
 #### Status
 ACCEPTED

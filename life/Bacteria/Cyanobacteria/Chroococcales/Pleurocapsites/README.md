@@ -1,5 +1,4 @@
-Pleurocapsites V.P. Maslov, 1960 GENUS
-=======
+# Pleurocapsites V.P. Maslov, 1960 GENUS
 
 #### Status
 ACCEPTED

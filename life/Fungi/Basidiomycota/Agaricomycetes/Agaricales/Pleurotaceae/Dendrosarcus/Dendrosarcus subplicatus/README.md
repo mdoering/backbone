@@ -1,5 +1,4 @@
-Dendrosarcus subplicatus (P. Karst.) Kuntze SPECIES
-=======
+# Dendrosarcus subplicatus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

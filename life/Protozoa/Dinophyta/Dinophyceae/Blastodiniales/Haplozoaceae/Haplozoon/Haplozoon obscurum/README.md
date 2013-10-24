@@ -1,5 +1,4 @@
-Haplozoon obscurum Dogiel SPECIES
-=======
+# Haplozoon obscurum Dogiel SPECIES
 
 #### Status
 ACCEPTED

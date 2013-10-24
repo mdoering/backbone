@@ -1,5 +1,4 @@
-Puccinia rubicunda Holw. SPECIES
-=======
+# Puccinia rubicunda Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johansoniella maranhensis Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Johansoniella maranhensis Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

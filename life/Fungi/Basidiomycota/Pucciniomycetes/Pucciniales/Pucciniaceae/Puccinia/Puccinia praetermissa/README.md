@@ -1,5 +1,4 @@
-Puccinia praetermissa Parmelee SPECIES
-=======
+# Puccinia praetermissa Parmelee SPECIES
 
 #### Status
 ACCEPTED

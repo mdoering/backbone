@@ -1,8 +1,7 @@
-Sarcobium lyticum Drozanski, 1991 SPECIES
-=======
+# Legionella lytica (Drozanski, 1991) Hookey et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

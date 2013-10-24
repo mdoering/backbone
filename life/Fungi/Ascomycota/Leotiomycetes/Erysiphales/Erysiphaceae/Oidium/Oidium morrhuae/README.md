@@ -1,5 +1,4 @@
-Oidium morrhuae Farl. SPECIES
-=======
+# Oidium morrhuae Farl. SPECIES
 
 #### Status
 ACCEPTED

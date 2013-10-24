@@ -1,5 +1,4 @@
-Pluricellaesporites psilatus R.T. Clarke SPECIES
-=======
+# Pluricellaesporites psilatus R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

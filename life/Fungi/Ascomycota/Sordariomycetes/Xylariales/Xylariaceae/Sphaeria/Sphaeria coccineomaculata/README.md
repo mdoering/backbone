@@ -1,5 +1,4 @@
-Sphaeria coccineomaculata Schwein. SPECIES
-=======
+# Sphaeria coccineomaculata Schwein. SPECIES
 
 #### Status
 ACCEPTED

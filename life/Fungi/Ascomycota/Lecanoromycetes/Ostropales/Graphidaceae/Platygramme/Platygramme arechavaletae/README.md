@@ -1,17 +1,16 @@
-Phaeographina arechavaletae var. arechavaletae VARIETY
-=======
+# Platygramme arechavaletae (Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Telopea 11(1): 76 (2005)
 
 #### Original name
-Phaeographina arechavaletae var. arechavaletae
+Phaeographina arechavaletae Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta malisorica Bubák SPECIES
-=======
+# Phyllosticta malisorica Bubák SPECIES
 
 #### Status
 ACCEPTED

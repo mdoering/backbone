@@ -1,5 +1,4 @@
-Arcyria melanocephala Schumach. SPECIES
-=======
+# Arcyria melanocephala Schumach. SPECIES
 
 #### Status
 ACCEPTED

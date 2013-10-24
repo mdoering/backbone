@@ -1,5 +1,4 @@
-Septobasidium miyakei W. Yamam. SPECIES
-=======
+# Septobasidium miyakei W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma sinensis Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
-=======
+# Trichoderma sinensis Bissett, C.P. Kubicek & Szakacs, 2003 SPECIES
 
 #### Status
 ACCEPTED

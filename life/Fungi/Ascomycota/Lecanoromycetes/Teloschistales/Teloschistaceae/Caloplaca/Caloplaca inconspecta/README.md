@@ -1,5 +1,4 @@
-Caloplaca inconspecta Arup SPECIES
-=======
+# Caloplaca inconspecta Arup SPECIES
 
 #### Status
 ACCEPTED

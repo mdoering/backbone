@@ -1,5 +1,4 @@
-Euglena rubida Mainx SPECIES
-=======
+# Euglena rubida Mainx SPECIES
 
 #### Status
 ACCEPTED

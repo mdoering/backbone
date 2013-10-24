@@ -1,5 +1,4 @@
-Fermoria tripartita Chapman in Fermor, 1933 SPECIES
-=======
+# Fermoria tripartita Chapman in Fermor, 1933 SPECIES
 
 #### Status
 ACCEPTED

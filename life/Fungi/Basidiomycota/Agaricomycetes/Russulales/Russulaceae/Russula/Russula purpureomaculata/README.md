@@ -1,5 +1,4 @@
-Russula purpureomaculata Shaffer SPECIES
-=======
+# Russula purpureomaculata Shaffer SPECIES
 
 #### Status
 ACCEPTED

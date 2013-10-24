@@ -1,17 +1,16 @@
-Aseroë rubra var. rubra VARIETY
-=======
+# Aseroë rubra Labill., 1800 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Murith. Soc. Valais. Sci. Nat. 1: 145 (1800)
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 26 (1888)
 
 #### Original name
-Aseroë rubra var. rubra
+Aseroë rubra var. muelleriana E. Fisch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyblastia clopimoides (Bagl. & Carestia) Anzi SPECIES
-=======
+# Polyblastia clopimoides (Bagl. & Carestia) Anzi SPECIES
 
 #### Status
 ACCEPTED

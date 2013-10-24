@@ -1,5 +1,4 @@
-Trichothyrium asterolibertiae Deighton SPECIES
-=======
+# Trichothyrium asterolibertiae Deighton SPECIES
 
 #### Status
 ACCEPTED

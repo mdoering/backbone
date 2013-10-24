@@ -1,5 +1,4 @@
-Pholiota austrospumosa Hongo SPECIES
-=======
+# Pholiota austrospumosa Hongo SPECIES
 
 #### Status
 ACCEPTED

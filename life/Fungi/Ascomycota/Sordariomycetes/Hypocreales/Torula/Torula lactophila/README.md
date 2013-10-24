@@ -1,5 +1,4 @@
-Torula lactophila F.C. Harrison SPECIES
-=======
+# Torula lactophila F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia hirudineorum Nenninger, 1948 SPECIES
-=======
+# Scyphidia hirudineorum Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

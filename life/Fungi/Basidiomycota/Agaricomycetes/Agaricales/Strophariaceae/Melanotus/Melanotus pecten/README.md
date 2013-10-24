@@ -1,5 +1,4 @@
-Melanotus pecten (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Melanotus pecten (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium bifurcum (Fresen.) Sacc. SPECIES
-=======
+# Macrosporium bifurcum (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

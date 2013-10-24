@@ -1,5 +1,4 @@
-Phyllachora lundiae Chardón, 1940 SPECIES
-=======
+# Phyllachora lundiae Chardón, 1940 SPECIES
 
 #### Status
 ACCEPTED

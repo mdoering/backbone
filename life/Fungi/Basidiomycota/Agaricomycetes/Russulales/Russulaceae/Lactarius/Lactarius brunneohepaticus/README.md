@@ -1,5 +1,4 @@
-Lactarius brunneohepaticus M.M. Moser SPECIES
-=======
+# Lactarius brunneohepaticus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium crinigerum (Fr.) Kuntze SPECIES
-=======
+# Scenidium crinigerum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

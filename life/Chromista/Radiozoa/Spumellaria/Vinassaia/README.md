@@ -1,5 +1,4 @@
-Vinassaia Cossmann, 1900 GENUS
-=======
+# Vinassaia Cossmann, 1900 GENUS
 
 #### Status
 ACCEPTED

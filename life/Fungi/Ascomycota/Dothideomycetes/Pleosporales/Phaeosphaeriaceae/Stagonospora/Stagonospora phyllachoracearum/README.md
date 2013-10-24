@@ -1,5 +1,4 @@
-Stagonospora phyllachoracearum Petr. SPECIES
-=======
+# Stagonospora phyllachoracearum Petr. SPECIES
 
 #### Status
 ACCEPTED

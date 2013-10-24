@@ -1,5 +1,4 @@
-Phyllosticta berteroae I.E. Brezhnev SPECIES
-=======
+# Phyllosticta berteroae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

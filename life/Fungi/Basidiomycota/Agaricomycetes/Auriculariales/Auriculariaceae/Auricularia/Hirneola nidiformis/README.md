@@ -1,5 +1,4 @@
-Hirneola nidiformis Lév. SPECIES
-=======
+# Hirneola nidiformis Lév. SPECIES
 
 #### Status
 ACCEPTED

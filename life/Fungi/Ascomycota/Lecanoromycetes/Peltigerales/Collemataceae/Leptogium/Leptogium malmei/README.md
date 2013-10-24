@@ -1,5 +1,4 @@
-Leptogium malmei P. M. Jørg. SPECIES
-=======
+# Leptogium malmei P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

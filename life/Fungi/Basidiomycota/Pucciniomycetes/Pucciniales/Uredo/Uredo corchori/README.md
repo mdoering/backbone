@@ -1,17 +1,16 @@
-Cerotelium corchori Syd., 1938 SPECIES
-=======
+# Uredo corchori Cummins, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36(2/3): 158 (1938)
+Bull. Torrey bot. Club 87: 41 (1960)
 
 #### Original name
-Cerotelium corchori Syd., 1938
+Uredo corchori Cummins, 1960
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crepidotus leptomorphus (Berk.) Sacc. SPECIES
-=======
+# Crepidotus leptomorphus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

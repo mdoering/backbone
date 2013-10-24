@@ -1,5 +1,4 @@
-Phyllachora fici-pumilae Sawada, 1959 SPECIES
-=======
+# Phyllachora fici-pumilae Sawada, 1959 SPECIES
 
 #### Status
 DOUBTFUL

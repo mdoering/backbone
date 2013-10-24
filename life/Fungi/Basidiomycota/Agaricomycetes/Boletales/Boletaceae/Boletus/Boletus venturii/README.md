@@ -1,5 +1,4 @@
-Boletus venturii Bon SPECIES
-=======
+# Boletus venturii Bon SPECIES
 
 #### Status
 ACCEPTED

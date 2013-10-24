@@ -1,5 +1,4 @@
-Rhytisma borealis Heer SPECIES
-=======
+# Rhytisma borealis Heer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius pterosporus Romagn., 1949 SPECIES
-=======
+# Lactarius pterosporus Romagn., 1949 SPECIES
 
 #### Status
 ACCEPTED

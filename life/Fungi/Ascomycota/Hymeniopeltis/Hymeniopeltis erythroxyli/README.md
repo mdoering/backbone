@@ -1,17 +1,16 @@
-Hymeniopeltis erythroxylii Bat. & A.F. Vital SPECIES
-=======
+# Hymeniopeltis erythroxyli Bat. & A.F. Vital, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 16(1): 147 (1959)
 
 #### Original name
-Hymeniopeltis erythroxylii Bat. & A.F. Vital
+Hymeniopeltis erythroxyli Bat. & A.F. Vital, 1959
 
 ### Remarks
 null

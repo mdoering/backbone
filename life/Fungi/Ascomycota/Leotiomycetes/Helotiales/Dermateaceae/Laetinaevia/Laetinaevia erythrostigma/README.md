@@ -1,14 +1,13 @@
-Calloria erythrostigmoides (Rehm) Rehm, 1891 SPECIES
-=======
+# Laetinaevia erythrostigma (Rehm) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 448 (1891)
+Beih. Willdenowia 9: 41 (1976)
 
 #### Original name
 Mollisia erythrostigma Rehm, 1887

@@ -1,5 +1,4 @@
-Corticium portentosum SPECIES
-=======
+# Corticium portentosum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria leptosporella Müll. Arg. SPECIES
-=======
+# Patellaria leptosporella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia allantella Sacc. SPECIES
-=======
+# Hendersonia allantella Sacc. SPECIES
 
 #### Status
 ACCEPTED

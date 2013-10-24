@@ -1,5 +1,4 @@
-Lichenothelia minor Henssen SPECIES
-=======
+# Lichenothelia minor Henssen SPECIES
 
 #### Status
 ACCEPTED

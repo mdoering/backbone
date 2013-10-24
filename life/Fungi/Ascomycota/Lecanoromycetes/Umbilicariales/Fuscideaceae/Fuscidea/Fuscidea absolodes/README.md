@@ -1,5 +1,4 @@
-Fuscidea absolodes (Nyl.) Hertel & V. Wirth SPECIES
-=======
+# Fuscidea absolodes (Nyl.) Hertel & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ruspoliella Sambo GENUS
-=======
+# Solorina Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. , N. S. 42: 465 (1937)
+K. svenska Vetensk-Akad. Handl. 29: 228 (1808)
 
 #### Original name
-Ruspoliella Sambo
+Solorina Ach.
 
 ### Remarks
 null

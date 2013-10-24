@@ -1,5 +1,4 @@
-Psorotichia obpallescens (Nyl.) Forssell SPECIES
-=======
+# Psorotichia obpallescens (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

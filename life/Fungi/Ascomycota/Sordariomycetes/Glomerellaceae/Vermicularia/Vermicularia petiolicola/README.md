@@ -1,5 +1,4 @@
-Vermicularia petiolicola Brunaud SPECIES
-=======
+# Vermicularia petiolicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

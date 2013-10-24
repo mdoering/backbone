@@ -1,5 +1,4 @@
-Ocellularia mauritiana Hale SPECIES
-=======
+# Ocellularia mauritiana Hale SPECIES
 
 #### Status
 ACCEPTED

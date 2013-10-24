@@ -1,5 +1,4 @@
-Parmelia mastrucata (Wahlenb.) Fr. SPECIES
-=======
+# Parmelia mastrucata (Wahlenb.) Fr. SPECIES
 
 #### Status
 ACCEPTED

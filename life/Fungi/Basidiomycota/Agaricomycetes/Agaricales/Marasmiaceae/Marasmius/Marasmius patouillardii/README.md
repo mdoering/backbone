@@ -1,5 +1,4 @@
-Marasmius patouillardii Sacc. & P. Syd. SPECIES
-=======
+# Marasmius patouillardii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cinnamomi-glanduliferi Henn. SPECIES
-=======
+# Phyllosticta cinnamomi-glanduliferi Henn. SPECIES
 
 #### Status
 ACCEPTED

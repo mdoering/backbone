@@ -1,5 +1,4 @@
-Strongylidium crepidatum Wang, 1940 SPECIES
-=======
+# Strongylidium crepidatum Wang, 1940 SPECIES
 
 #### Status
 ACCEPTED

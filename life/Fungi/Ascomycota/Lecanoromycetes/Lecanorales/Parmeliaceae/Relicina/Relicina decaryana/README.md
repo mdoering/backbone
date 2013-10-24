@@ -1,5 +1,4 @@
-Relicina decaryana (Gyeln.) Hale SPECIES
-=======
+# Relicina decaryana (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

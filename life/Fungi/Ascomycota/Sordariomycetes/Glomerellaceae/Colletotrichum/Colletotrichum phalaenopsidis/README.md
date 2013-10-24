@@ -1,5 +1,4 @@
-Colletotrichum phalaenopsidis Sawada SPECIES
-=======
+# Colletotrichum phalaenopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

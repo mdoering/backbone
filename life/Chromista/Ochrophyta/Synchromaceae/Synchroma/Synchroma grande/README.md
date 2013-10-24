@@ -1,5 +1,4 @@
-Synchroma grande Schnetter in S. Horn et al., 2007 SPECIES
-=======
+# Synchroma grande Schnetter in S. Horn et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

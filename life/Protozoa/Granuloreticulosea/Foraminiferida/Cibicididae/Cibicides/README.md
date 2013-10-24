@@ -1,14 +1,13 @@
-Cymbicides Costa, 1839 GENUS
-=======
+# Cibicides de Montfort, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti R. Accad. Sci. (Napoli), 4 (Zool. ), 186.
+Conch. Syst. , 1, 122.
 
 #### Original name
 null

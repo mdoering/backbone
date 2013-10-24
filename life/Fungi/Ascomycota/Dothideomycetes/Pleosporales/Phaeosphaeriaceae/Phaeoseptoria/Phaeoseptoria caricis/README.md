@@ -1,5 +1,4 @@
-Phaeoseptoria caricis Tehon & E.Y. Daniels SPECIES
-=======
+# Phaeoseptoria caricis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

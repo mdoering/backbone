@@ -1,5 +1,4 @@
-Pirostoma circinans (Fr.) Sacc., 1870 SPECIES
-=======
+# Pirostoma circinans (Fr.) Sacc., 1870 SPECIES
 
 #### Status
 ACCEPTED

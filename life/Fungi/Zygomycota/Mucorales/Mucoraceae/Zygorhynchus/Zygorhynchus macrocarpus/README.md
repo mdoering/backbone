@@ -1,17 +1,16 @@
-Zygorhynchus hennebergii Naumov, 1935 SPECIES
-=======
+# Zygorhynchus macrocarpus Y. Ling, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opred. Mukor. , Edn 2 59 (1935)
+Rev. gén. Bot. 42: 150 (1930)
 
 #### Original name
-Zygorhynchus hennebergii Naumov, 1935
+Zygorhynchus macrocarpus Y. Ling, 1930
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trematosphaeria macrospora Panwar & S.J. Kaur SPECIES
-=======
+# Trematosphaeria macrospora Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

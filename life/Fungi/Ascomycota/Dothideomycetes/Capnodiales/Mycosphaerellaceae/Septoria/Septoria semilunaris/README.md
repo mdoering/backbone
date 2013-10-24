@@ -1,5 +1,4 @@
-Septoria semilunaris Johanson, 1884 SPECIES
-=======
+# Septoria semilunaris Johanson, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriomyces guadelupensis anon. SPECIES
-=======
+# Ceriomyces guadelupensis anon. SPECIES
 
 #### Status
 ACCEPTED

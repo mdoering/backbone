@@ -1,5 +1,4 @@
-Erineum geranii Schwein. SPECIES
-=======
+# Erineum geranii Schwein. SPECIES
 
 #### Status
 ACCEPTED

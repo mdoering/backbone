@@ -1,5 +1,4 @@
-Hymenoscyphus nudus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus nudus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

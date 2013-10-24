@@ -1,5 +1,4 @@
-Chlorocloster terrestris Pascher SPECIES
-=======
+# Chlorocloster terrestris Pascher SPECIES
 
 #### Status
 ACCEPTED

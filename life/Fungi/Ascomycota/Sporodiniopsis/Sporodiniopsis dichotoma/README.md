@@ -1,5 +1,4 @@
-Sporodiniopsis dichotoma Höhn. SPECIES
-=======
+# Sporodiniopsis dichotoma Höhn. SPECIES
 
 #### Status
 ACCEPTED

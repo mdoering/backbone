@@ -1,5 +1,4 @@
-Coltricia fibrosa Aime & Ryvarden SPECIES
-=======
+# Coltricia fibrosa Aime & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

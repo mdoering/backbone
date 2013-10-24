@@ -1,5 +1,4 @@
-Humaria gollmeri Henn. SPECIES
-=======
+# Humaria gollmeri Henn. SPECIES
 
 #### Status
 ACCEPTED

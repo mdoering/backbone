@@ -1,5 +1,4 @@
-Miogypsinoides Yabe & Hanzawa, 1928 GENUS
-=======
+# Miogypsinoides Yabe & Hanzawa, 1928 GENUS
 
 #### Status
 ACCEPTED

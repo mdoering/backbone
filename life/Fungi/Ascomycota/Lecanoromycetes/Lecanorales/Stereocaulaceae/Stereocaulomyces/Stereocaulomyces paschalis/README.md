@@ -1,5 +1,4 @@
-Stereocaulomyces paschalis E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Stereocaulomyces paschalis E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

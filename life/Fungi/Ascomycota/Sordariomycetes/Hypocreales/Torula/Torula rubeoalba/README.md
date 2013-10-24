@@ -1,5 +1,4 @@
-Torula rubeoalba Preuss SPECIES
-=======
+# Torula rubeoalba Preuss SPECIES
 
 #### Status
 ACCEPTED

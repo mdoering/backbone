@@ -1,5 +1,4 @@
-Helotium dianae Velen. SPECIES
-=======
+# Helotium dianae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe bolensis A.M. Young SPECIES
-=======
+# Hygrocybe bolensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

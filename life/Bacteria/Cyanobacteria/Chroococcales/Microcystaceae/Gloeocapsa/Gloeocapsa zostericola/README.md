@@ -1,8 +1,7 @@
-Gloeocystis zostericola (Farlow) F.S. Collins SPECIES
-=======
+# Gloeocapsa zostericola Farlow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

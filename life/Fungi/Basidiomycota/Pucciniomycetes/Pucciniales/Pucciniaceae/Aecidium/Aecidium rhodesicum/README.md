@@ -1,5 +1,4 @@
-Aecidium rhodesicum Cummins SPECIES
-=======
+# Aecidium rhodesicum Cummins SPECIES
 
 #### Status
 ACCEPTED

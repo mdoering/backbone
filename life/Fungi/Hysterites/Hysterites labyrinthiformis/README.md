@@ -1,5 +1,4 @@
-Hysterites labyrinthiformis Unger SPECIES
-=======
+# Hysterites labyrinthiformis Unger SPECIES
 
 #### Status
 ACCEPTED

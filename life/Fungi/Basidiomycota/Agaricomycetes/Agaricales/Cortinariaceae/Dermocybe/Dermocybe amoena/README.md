@@ -1,5 +1,4 @@
-Dermocybe amoena M.M. Moser & E. Horak SPECIES
-=======
+# Dermocybe amoena M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

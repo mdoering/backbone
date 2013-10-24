@@ -1,17 +1,16 @@
-Cladonia delica f. delica FORM
-=======
+# Cladonia delica SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Cladonia delica f. delica
+null
 
 ### Remarks
 null

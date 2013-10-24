@@ -1,5 +1,4 @@
-Phomopsis yuccae V.P. Sahni SPECIES
-=======
+# Phomopsis yuccae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

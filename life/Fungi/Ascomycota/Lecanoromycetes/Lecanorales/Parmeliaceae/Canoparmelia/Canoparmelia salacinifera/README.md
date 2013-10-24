@@ -1,17 +1,16 @@
-Parmelia salacinifera Hale SPECIES
-=======
+# Canoparmelia salacinifera (Hale) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 279 (1986)
 
 #### Original name
-null
+Parmelia salacinifera Hale
 
 ### Remarks
 null

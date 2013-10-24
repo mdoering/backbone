@@ -1,5 +1,4 @@
-Verrucaria ochraceoflavens Nyl. SPECIES
-=======
+# Verrucaria ochraceoflavens Nyl. SPECIES
 
 #### Status
 ACCEPTED

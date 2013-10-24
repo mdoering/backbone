@@ -1,5 +1,4 @@
-Protospathidium Dragesco & Dragesco-Kernéis, 1979 GENUS
-=======
+# Protospathidium Dragesco & Dragesco-Kernéis, 1979 GENUS
 
 #### Status
 ACCEPTED

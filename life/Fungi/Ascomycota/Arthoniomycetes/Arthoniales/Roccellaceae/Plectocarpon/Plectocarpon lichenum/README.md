@@ -1,14 +1,13 @@
-Homostegia lichenum (Sommerf.) Fuckel SPECIES
-=======
+# Plectocarpon lichenum (Sommerf.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+in Hawksworth & Galloway, Lichenologist 16(1): 86 (1984)
 
 #### Original name
 Dothidea lichenum Sommerf.

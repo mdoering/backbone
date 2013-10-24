@@ -1,5 +1,4 @@
-Septoria psittacina Tassi SPECIES
-=======
+# Septoria psittacina Tassi SPECIES
 
 #### Status
 ACCEPTED

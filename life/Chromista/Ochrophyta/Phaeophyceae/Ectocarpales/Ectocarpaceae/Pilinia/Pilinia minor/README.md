@@ -1,5 +1,4 @@
-Pilinia minor (Hansgrig) Kützing SPECIES
-=======
+# Pilinia minor (Hansgrig) Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leotia atropurpurea (Pers.) Corda SPECIES
-=======
+# Leotia atropurpurea (Pers.) Corda SPECIES
 
 #### Status
 ACCEPTED

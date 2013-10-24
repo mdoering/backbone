@@ -1,5 +1,4 @@
-Uromyces cucullatus Syd. & P. Syd. SPECIES
-=======
+# Uromyces cucullatus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

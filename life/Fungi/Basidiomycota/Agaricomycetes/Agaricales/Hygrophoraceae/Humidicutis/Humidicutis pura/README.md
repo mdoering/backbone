@@ -1,14 +1,13 @@
-Hygrophorus purus Peck, 1874 SPECIES
-=======
+# Humidicutis pura (Peck) E. Horak, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 63 (1874)
+N. Z. Jl Bot. 28(3): 294 (1990)
 
 #### Original name
 Hygrophorus purus Peck, 1874

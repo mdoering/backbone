@@ -1,5 +1,4 @@
-Tricholoma submulticeps Murrill SPECIES
-=======
+# Tricholoma submulticeps Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma dictyosporum Pat., 1896 SPECIES
-=======
+# Scleroderma dictyosporum Pat., 1896 SPECIES
 
 #### Status
 ACCEPTED

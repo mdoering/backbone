@@ -1,5 +1,4 @@
-Conocybe nodulosospora (Hongo) Watling SPECIES
-=======
+# Conocybe nodulosospora (Hongo) Watling SPECIES
 
 #### Status
 ACCEPTED

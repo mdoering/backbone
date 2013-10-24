@@ -1,5 +1,4 @@
-Isaria corallina Fr. SPECIES
-=======
+# Isaria corallina Fr. SPECIES
 
 #### Status
 ACCEPTED

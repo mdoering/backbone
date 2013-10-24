@@ -1,5 +1,4 @@
-Phyllachora wismarensis F. Stevens, 1923 SPECIES
-=======
+# Phyllachora wismarensis F. Stevens, 1923 SPECIES
 
 #### Status
 DOUBTFUL

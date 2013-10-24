@@ -1,5 +1,4 @@
-Scipionospora tetraspora (Léger & Hesse) E.K.C. Bylén & J.I.R. Larsson SPECIES
-=======
+# Scipionospora tetraspora (Léger & Hesse) E.K.C. Bylén & J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus brodenii var. vancampenhoutii (Mattlet) C.W. Dodge VARIETY
-=======
+# Aspergillus brodenii (Mattlet) Basgal SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Medical mycology. Fungous diseases of men and other mammals 636 (1935)
+null
 
 #### Original name
-Sterigmatocystis vancampenhoutii Mattlet
+Sterigmatocystis brodenii Mattlet
 
 ### Remarks
 null

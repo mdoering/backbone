@@ -1,5 +1,4 @@
-Micrhystridium ornatum Stockmans & Willière, 1963 SPECIES
-=======
+# Micrhystridium ornatum Stockmans & Willière, 1963 SPECIES
 
 #### Status
 ACCEPTED

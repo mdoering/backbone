@@ -1,17 +1,16 @@
-Jaapia triglitzensis Kirschst. SPECIES
-=======
+# Jaapia triglitziensis Kirschst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) (1938)
 
 #### Original name
-Jaapia triglitzensis Kirschst.
+Jaapia triglitziensis Kirschst.
 
 ### Remarks
 null

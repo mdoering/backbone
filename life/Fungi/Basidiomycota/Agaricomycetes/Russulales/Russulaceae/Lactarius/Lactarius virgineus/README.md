@@ -1,5 +1,4 @@
-Lactarius virgineus (J.E. Lange) J. Blum ex Bon SPECIES
-=======
+# Lactarius virgineus (J.E. Lange) J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

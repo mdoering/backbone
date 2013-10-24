@@ -1,5 +1,4 @@
-Gymnoderma insulare Yoshim. & Sharp SPECIES
-=======
+# Gymnoderma insulare Yoshim. & Sharp SPECIES
 
 #### Status
 ACCEPTED

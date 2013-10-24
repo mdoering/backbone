@@ -1,5 +1,4 @@
-Aecidium spegazzinii De Toni SPECIES
-=======
+# Aecidium spegazzinii De Toni SPECIES
 
 #### Status
 ACCEPTED

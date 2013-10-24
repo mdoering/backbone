@@ -1,5 +1,4 @@
-Trachelomonas cordata var. punctata V. Conforti & G.-J. Joo VARIETY
-=======
+# Trachelomonas cordata Roll SPECIES
 
 #### Status
 ACCEPTED

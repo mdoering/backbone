@@ -1,5 +1,4 @@
-Pseudofistulina O. Fidalgo & M. Fidalgo GENUS
-=======
+# Pseudofistulina O. Fidalgo & M. Fidalgo GENUS
 
 #### Status
 ACCEPTED

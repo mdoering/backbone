@@ -1,5 +1,4 @@
-Involucrothele subcontinua (Nyl.) Servít SPECIES
-=======
+# Involucrothele subcontinua (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

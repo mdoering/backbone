@@ -1,5 +1,4 @@
-Trochamminita irregularis SPECIES
-=======
+# Trochamminita irregularis SPECIES
 
 #### Status
 ACCEPTED

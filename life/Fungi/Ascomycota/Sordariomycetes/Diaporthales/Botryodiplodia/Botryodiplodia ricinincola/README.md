@@ -1,5 +1,4 @@
-Botryodiplodia ricinincola S. Ahmad SPECIES
-=======
+# Botryodiplodia ricinincola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

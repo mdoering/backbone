@@ -1,5 +1,4 @@
-Cytospora farinosa Feltgen SPECIES
-=======
+# Cytospora farinosa Feltgen SPECIES
 
 #### Status
 ACCEPTED

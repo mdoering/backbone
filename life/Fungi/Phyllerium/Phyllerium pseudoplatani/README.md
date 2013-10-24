@@ -1,5 +1,4 @@
-Phyllerium pseudoplatani J.C. Schmidt SPECIES
-=======
+# Phyllerium pseudoplatani J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

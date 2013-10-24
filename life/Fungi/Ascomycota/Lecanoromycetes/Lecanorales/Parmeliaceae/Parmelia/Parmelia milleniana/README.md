@@ -1,5 +1,4 @@
-Parmelia milleniana SPECIES
-=======
+# Parmelia milleniana SPECIES
 
 #### Status
 ACCEPTED

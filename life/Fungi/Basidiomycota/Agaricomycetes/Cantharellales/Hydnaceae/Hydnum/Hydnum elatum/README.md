@@ -1,5 +1,4 @@
-Hydnum elatum Massee, 1914 SPECIES
-=======
+# Hydnum elatum Massee, 1914 SPECIES
 
 #### Status
 ACCEPTED

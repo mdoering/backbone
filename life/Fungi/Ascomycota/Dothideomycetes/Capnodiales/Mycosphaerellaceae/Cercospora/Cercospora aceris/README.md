@@ -1,5 +1,4 @@
-Cercospora aceris Hori ex Hara SPECIES
-=======
+# Cercospora aceris Hori ex Hara SPECIES
 
 #### Status
 ACCEPTED

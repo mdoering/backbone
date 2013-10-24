@@ -1,5 +1,4 @@
-Fusarium sampaioi Gonz. Frag. SPECIES
-=======
+# Fusarium sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

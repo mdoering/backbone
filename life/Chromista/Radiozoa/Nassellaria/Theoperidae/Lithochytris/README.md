@@ -1,5 +1,4 @@
-Lithochytris Ehrenberg, 1847 GENUS
-=======
+# Lithochytris Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

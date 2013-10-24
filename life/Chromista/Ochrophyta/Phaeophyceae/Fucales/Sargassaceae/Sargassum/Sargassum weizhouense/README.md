@@ -1,5 +1,4 @@
-Sargassum weizhouense Bangmei & Tseng, 2002 SPECIES
-=======
+# Sargassum weizhouense Bangmei & Tseng, 2002 SPECIES
 
 #### Status
 ACCEPTED

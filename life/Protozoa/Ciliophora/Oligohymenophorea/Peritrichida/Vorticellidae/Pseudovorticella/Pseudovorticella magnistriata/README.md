@@ -1,5 +1,4 @@
-Pseudovorticella magnistriata subsp. magnistriata Foissner, 1975 SUBSPECIES
-=======
+# Pseudovorticella magnistriata Foissner, 1975 SPECIES
 
 #### Status
 ACCEPTED

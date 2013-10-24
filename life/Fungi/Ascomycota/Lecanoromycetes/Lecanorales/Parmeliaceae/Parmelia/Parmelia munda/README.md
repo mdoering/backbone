@@ -1,5 +1,4 @@
-Parmelia munda (Harm.) Gyeln. SPECIES
-=======
+# Parmelia munda (Harm.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

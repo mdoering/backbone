@@ -1,5 +1,4 @@
-Polyadosporites conoideus (Sheffy & Dilcher) V.S. Ediger SPECIES
-=======
+# Polyadosporites conoideus (Sheffy & Dilcher) V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

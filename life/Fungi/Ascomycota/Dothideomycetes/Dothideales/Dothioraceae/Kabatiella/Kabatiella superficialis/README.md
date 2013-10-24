@@ -1,5 +1,4 @@
-Kabatiella superficialis Rudakov SPECIES
-=======
+# Kabatiella superficialis Rudakov SPECIES
 
 #### Status
 ACCEPTED

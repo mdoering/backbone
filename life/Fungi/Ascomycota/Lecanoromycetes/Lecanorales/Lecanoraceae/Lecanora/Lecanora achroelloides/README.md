@@ -1,5 +1,4 @@
-Lecanora achroelloides Nyl. SPECIES
-=======
+# Lecanora achroelloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfuromusa Liesack & Finster, 1994 GENUS
-=======
+# Desulfuromusa Liesack & Finster, 1994 GENUS
 
 #### Status
 ACCEPTED

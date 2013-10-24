@@ -1,5 +1,4 @@
-Metopus attenuatus Penard, 1931 SPECIES
-=======
+# Metopus attenuatus Penard, 1931 SPECIES
 
 #### Status
 ACCEPTED

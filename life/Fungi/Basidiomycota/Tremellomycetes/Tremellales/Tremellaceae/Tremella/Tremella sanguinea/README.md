@@ -1,5 +1,4 @@
-Tremella sanguinea Y.B. Peng SPECIES
-=======
+# Tremella sanguinea Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

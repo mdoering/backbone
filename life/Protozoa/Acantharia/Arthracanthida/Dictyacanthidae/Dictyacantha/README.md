@@ -1,5 +1,4 @@
-Dictyacantha Schewiakoff, 1926 GENUS
-=======
+# Dictyacantha Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

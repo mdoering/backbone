@@ -1,5 +1,4 @@
-Euplotes alatus subsp. alatus SUBSPECIES
-=======
+# Euplotes alatus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

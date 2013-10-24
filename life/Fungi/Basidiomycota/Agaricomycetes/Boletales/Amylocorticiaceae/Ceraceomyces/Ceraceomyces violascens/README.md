@@ -1,17 +1,16 @@
-Coniophora violascens (Fr.) Sacc., 1888 SPECIES
-=======
+# Ceraceomyces violascens (Fr.) Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 652 (1888)
+Willdenowia, Beih. 7: 162 (1972)
 
 #### Original name
-Himantia violascens Fr., 1815
+Coniophora violascens (Fr.) Sacc., 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Curvatispora V.V. Sarma & K.D. Hyde GENUS
-=======
+# Curvatispora V.V. Sarma & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

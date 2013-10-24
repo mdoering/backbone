@@ -1,5 +1,4 @@
-Clavariopsis aquatica De Wild., 1895 SPECIES
-=======
+# Clavariopsis aquatica De Wild., 1895 SPECIES
 
 #### Status
 ACCEPTED

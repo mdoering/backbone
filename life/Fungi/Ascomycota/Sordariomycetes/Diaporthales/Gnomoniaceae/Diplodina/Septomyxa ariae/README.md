@@ -1,5 +1,4 @@
-Septomyxa ariae Oudem. SPECIES
-=======
+# Septomyxa ariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

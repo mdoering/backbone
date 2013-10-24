@@ -1,5 +1,4 @@
-Polytolypa hystricis J.A. Scott & Malloch, 1993 SPECIES
-=======
+# Polytolypa hystricis J.A. Scott & Malloch, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas fominii Roll SPECIES
-=======
+# Trachelomonas fominii Roll SPECIES
 
 #### Status
 ACCEPTED

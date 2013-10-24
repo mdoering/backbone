@@ -1,17 +1,16 @@
-Loflammia flammea (Müll. Arg.) Vezda SPECIES
-=======
+# Loflammia epiphylla (Fée) Lücking & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Folia geobot. phytotax. 21(2): 216 (1986)
+in Lücking, Phyton, Horn 39(1): 141 (1999)
 
 #### Original name
-Lopadium flammeum Müll. Arg.
+Lecanora epiphylla Fée
 
 ### Remarks
 null

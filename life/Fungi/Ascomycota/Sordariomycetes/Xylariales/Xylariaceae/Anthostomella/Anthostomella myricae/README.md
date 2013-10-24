@@ -1,5 +1,4 @@
-Anthostomella myricae Grove, 1933 SPECIES
-=======
+# Anthostomella myricae Grove, 1933 SPECIES
 
 #### Status
 ACCEPTED

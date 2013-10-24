@@ -1,5 +1,4 @@
-Hebeloma cinereum Velen. SPECIES
-=======
+# Hebeloma cinereum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Topeliopsis toensbergii Kantvilas & Vezda SPECIES
-=======
+# Melanotopelia toensbergii (Vezda & Kantvilas) Lumbsch & Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 32(4): 353 (2000)
+Lichenologist 40: 44 (2008)
 
 #### Original name
 Topeliopsis toensbergii Kantvilas & Vezda

@@ -1,5 +1,4 @@
-Hemicystodinium D.Wall, 1967 GENUS
-=======
+# Hemicystodinium D.Wall, 1967 GENUS
 
 #### Status
 ACCEPTED

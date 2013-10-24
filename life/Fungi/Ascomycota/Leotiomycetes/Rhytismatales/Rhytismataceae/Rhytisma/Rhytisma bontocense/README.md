@@ -1,5 +1,4 @@
-Rhytisma bontocense Syd. SPECIES
-=======
+# Rhytisma bontocense Syd. SPECIES
 
 #### Status
 ACCEPTED

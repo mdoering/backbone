@@ -1,5 +1,4 @@
-Leptostromella orbicularis Berl. SPECIES
-=======
+# Leptostromella orbicularis Berl. SPECIES
 
 #### Status
 ACCEPTED

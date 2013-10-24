@@ -1,5 +1,4 @@
-Podosphaera schwarzmaniana Vasyag. SPECIES
-=======
+# Podosphaera schwarzmaniana Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas nasuta SPECIES
-=======
+# Cryptomonas nasuta SPECIES
 
 #### Status
 ACCEPTED

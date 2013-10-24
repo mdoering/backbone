@@ -1,5 +1,4 @@
-Chonosaurus Jankowksi, 1973 GENUS
-=======
+# Chonosaurus Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

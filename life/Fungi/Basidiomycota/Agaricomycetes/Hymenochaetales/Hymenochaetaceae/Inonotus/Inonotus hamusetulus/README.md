@@ -1,5 +1,4 @@
-Inonotus hamusetulus Ryvarden, 1984 SPECIES
-=======
+# Inonotus hamusetulus Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED

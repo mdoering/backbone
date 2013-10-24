@@ -1,5 +1,4 @@
-Lecania phaeosphaeroides Vain. SPECIES
-=======
+# Lecania phaeosphaeroides Vain. SPECIES
 
 #### Status
 ACCEPTED

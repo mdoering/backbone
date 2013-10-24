@@ -1,5 +1,4 @@
-Stictis hyssopi Schwein. SPECIES
-=======
+# Stictis hyssopi Schwein. SPECIES
 
 #### Status
 ACCEPTED

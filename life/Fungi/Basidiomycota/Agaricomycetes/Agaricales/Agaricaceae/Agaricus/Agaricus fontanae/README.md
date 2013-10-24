@@ -1,5 +1,4 @@
-Agaricus fontanae Fraiture, 1999 SPECIES
-=======
+# Agaricus fontanae Fraiture, 1999 SPECIES
 
 #### Status
 ACCEPTED

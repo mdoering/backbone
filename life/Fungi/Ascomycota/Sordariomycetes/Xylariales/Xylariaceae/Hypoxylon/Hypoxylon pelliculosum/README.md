@@ -1,5 +1,4 @@
-Hypoxylon pelliculosum Petch, 1924 SPECIES
-=======
+# Hypoxylon pelliculosum Petch, 1924 SPECIES
 
 #### Status
 ACCEPTED

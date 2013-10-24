@@ -1,5 +1,4 @@
-Clitocybe aperta (Peck) Sacc. SPECIES
-=======
+# Clitocybe aperta (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

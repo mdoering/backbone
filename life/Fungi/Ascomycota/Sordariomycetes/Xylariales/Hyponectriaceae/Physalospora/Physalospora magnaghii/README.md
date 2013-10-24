@@ -1,5 +1,4 @@
-Physalospora magnaghii Traverso SPECIES
-=======
+# Physalospora magnaghii Traverso SPECIES
 
 #### Status
 ACCEPTED

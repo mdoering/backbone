@@ -1,5 +1,4 @@
-Entoloma luteum Peck SPECIES
-=======
+# Entoloma luteum Peck SPECIES
 
 #### Status
 ACCEPTED

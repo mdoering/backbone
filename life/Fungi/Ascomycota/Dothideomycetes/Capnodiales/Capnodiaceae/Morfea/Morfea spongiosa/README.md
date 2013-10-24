@@ -1,5 +1,4 @@
-Morfea spongiosa (G. Arnaud) Cif. & Bat. SPECIES
-=======
+# Morfea spongiosa (G. Arnaud) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

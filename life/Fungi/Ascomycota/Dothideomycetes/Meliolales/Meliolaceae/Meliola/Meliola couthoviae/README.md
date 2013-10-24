@@ -1,5 +1,4 @@
-Meliola couthoviae B. Huguenin SPECIES
-=======
+# Meliola couthoviae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

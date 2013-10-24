@@ -1,5 +1,4 @@
-Agaricus goettingensis Humb. SPECIES
-=======
+# Agaricus goettingensis Humb. SPECIES
 
 #### Status
 ACCEPTED

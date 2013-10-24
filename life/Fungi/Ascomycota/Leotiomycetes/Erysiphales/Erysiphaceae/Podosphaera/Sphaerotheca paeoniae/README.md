@@ -1,5 +1,4 @@
-Sphaerotheca paeoniae Z.Y. Zhao SPECIES
-=======
+# Sphaerotheca paeoniae Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

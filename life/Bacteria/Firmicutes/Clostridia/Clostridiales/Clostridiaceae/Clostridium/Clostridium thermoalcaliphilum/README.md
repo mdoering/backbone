@@ -1,5 +1,4 @@
-Clostridium thermoalcaliphilum Li et al., 1994 SPECIES
-=======
+# Clostridium thermoalcaliphilum Li et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plasmopara geranii-sylvatici Savul. & O. Savul. SPECIES
-=======
+# Plasmopara geranii-silvatici Savul. & O. Savul. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Buletin sti. Acad. Repub. pop. rom. , Ser. Sect. sti. biol. geol. geog. 3(3): 344 (1951)
 
 #### Original name
-Plasmopara geranii-sylvatici Savul. & O. Savul.
+Plasmopara geranii-silvatici Savul. & O. Savul.
 
 ### Remarks
 null

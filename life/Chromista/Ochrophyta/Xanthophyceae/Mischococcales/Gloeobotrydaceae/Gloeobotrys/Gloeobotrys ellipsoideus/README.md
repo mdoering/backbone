@@ -1,5 +1,4 @@
-Gloeobotrys ellipsoideus Pascher SPECIES
-=======
+# Gloeobotrys ellipsoideus Pascher SPECIES
 
 #### Status
 ACCEPTED

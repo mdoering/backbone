@@ -1,5 +1,4 @@
-Pilinia endophytica F.S. Collins SPECIES
-=======
+# Pilinia endophytica F.S. Collins SPECIES
 
 #### Status
 ACCEPTED

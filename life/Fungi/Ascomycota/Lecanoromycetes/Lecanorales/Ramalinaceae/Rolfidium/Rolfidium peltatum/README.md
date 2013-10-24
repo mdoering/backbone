@@ -1,5 +1,4 @@
-Rolfidium peltatum Moberg SPECIES
-=======
+# Rolfidium peltatum Moberg SPECIES
 
 #### Status
 ACCEPTED

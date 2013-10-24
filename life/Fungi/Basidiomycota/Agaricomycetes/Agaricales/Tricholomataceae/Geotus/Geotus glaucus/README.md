@@ -1,5 +1,4 @@
-Geotus glaucus (Batsch) Pilát & Svrcek SPECIES
-=======
+# Geotus glaucus (Batsch) Pilát & Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocrea coccophila Petch SPECIES
-=======
+# Stereocrea coccophila Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma engleriana Reichert SPECIES
-=======
+# Macrophoma engleriana Reichert SPECIES
 
 #### Status
 ACCEPTED

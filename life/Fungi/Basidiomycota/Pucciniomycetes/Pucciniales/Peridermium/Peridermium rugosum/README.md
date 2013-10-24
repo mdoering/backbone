@@ -1,5 +1,4 @@
-Peridermium rugosum H.S. Jacks. SPECIES
-=======
+# Peridermium rugosum H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

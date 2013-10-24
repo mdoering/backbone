@@ -1,5 +1,4 @@
-Arthopyrenia oblongans R.C. Harris SPECIES
-=======
+# Arthopyrenia oblongans R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

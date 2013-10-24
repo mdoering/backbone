@@ -1,5 +1,4 @@
-Lecidea maculosa Stizenb. SPECIES
-=======
+# Lecidea maculosa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

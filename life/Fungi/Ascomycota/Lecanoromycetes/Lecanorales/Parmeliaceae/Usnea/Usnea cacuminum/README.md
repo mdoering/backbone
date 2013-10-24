@@ -1,5 +1,4 @@
-Usnea cacuminum Motyka SPECIES
-=======
+# Usnea cacuminum Motyka SPECIES
 
 #### Status
 ACCEPTED

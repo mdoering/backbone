@@ -1,5 +1,4 @@
-Phaeomarasmius terrigenus Singer SPECIES
-=======
+# Phaeomarasmius terrigenus Singer SPECIES
 
 #### Status
 ACCEPTED

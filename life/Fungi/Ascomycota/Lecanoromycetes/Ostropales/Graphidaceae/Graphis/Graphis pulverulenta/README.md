@@ -1,5 +1,4 @@
-Graphis pulverulenta SPECIES
-=======
+# Graphis pulverulenta SPECIES
 
 #### Status
 ACCEPTED

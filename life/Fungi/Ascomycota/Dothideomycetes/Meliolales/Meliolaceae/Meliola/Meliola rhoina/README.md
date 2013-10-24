@@ -1,5 +1,4 @@
-Meliola rhoina var. rhoina VARIETY
-=======
+# Meliola rhoina Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 2: 454, 466 (1928)
 
 #### Original name
-Meliola rhoina var. rhoina
+Meliola rhoina Doidge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ceriporia alba M. Pieri & B. Rivoire SPECIES
-=======
+# Ceriporia alba M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptomitus violaceus Kütz. SPECIES
-=======
+# Leptomitus violaceus Kütz. SPECIES
 
 #### Status
 ACCEPTED

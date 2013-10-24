@@ -1,5 +1,4 @@
-Lagenidium intermedium De Wild. SPECIES
-=======
+# Lagenidium intermedium De Wild. SPECIES
 
 #### Status
 ACCEPTED

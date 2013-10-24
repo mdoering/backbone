@@ -1,5 +1,4 @@
-Dictyoporthe Petr. GENUS
-=======
+# Dictyoporthe Petr. GENUS
 
 #### Status
 ACCEPTED

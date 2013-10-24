@@ -1,5 +1,4 @@
-Lepocinclis nayali var. excavata Conrad VARIETY
-=======
+# Lepocinclis nayali Conrad SPECIES
 
 #### Status
 ACCEPTED

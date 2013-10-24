@@ -1,14 +1,13 @@
-Arthrosiphon Kützing, 1845 GENUS
-=======
+# Petalonema Berkeley ex Correns, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phyc. germ. , p. 117.
+Flora 72: 321.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Corticium macounii Burt SPECIES
-=======
+# Corticium macounii Burt SPECIES
 
 #### Status
 ACCEPTED

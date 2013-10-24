@@ -1,5 +1,4 @@
-Rosenscheldiella tropaeoli Arx, 1954 SPECIES
-=======
+# Rosenscheldiella tropaeoli Arx, 1954 SPECIES
 
 #### Status
 ACCEPTED

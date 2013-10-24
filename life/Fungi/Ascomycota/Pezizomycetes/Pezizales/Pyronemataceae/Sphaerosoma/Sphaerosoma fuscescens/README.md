@@ -1,17 +1,16 @@
-Sphaerozosma fuscescens (Klotzsch) Corda, 1854 SPECIES
-=======
+# Sphaerosoma fuscescens Klotzsch, 1839 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Boruss. 7: (1839)
 
 #### Original name
-null
+Sphaerosoma fuscescens Klotzsch, 1839
 
 ### Remarks
 null

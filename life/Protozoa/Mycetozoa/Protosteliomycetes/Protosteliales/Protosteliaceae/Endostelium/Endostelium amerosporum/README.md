@@ -1,17 +1,16 @@
-Endostelium amerosporum var. minus L.S. Olive & Deasey VARIETY
-=======
+# Endostelium amerosporum L.S. Olive, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Olive, Bennet & Deasey, Mycologia 76(5): 888 (1984)
+in Olive, Bennett & Deasey, Mycologia 76(5): 886 (1984)
 
 #### Original name
-Endostelium amerosporum var. minus L.S. Olive & Deasey
+Endostelium amerosporum L.S. Olive, 1984
 
 ### Remarks
 null

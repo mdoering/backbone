@@ -1,5 +1,4 @@
-Nostoc fuscescens F.E. Fritsch SPECIES
-=======
+# Nostoc fuscescens F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

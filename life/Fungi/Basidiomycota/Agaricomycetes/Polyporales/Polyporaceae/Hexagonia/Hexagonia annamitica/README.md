@@ -1,5 +1,4 @@
-Hexagonia annamitica Pat. SPECIES
-=======
+# Hexagonia annamitica Pat. SPECIES
 
 #### Status
 ACCEPTED

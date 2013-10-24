@@ -1,5 +1,4 @@
-Ganoderma albocinctum Pat. & Morot SPECIES
-=======
+# Ganoderma albocinctum Pat. & Morot SPECIES
 
 #### Status
 ACCEPTED

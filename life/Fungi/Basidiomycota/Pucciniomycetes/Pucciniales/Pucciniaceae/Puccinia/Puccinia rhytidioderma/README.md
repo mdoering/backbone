@@ -1,5 +1,4 @@
-Puccinia rhytidioderma Berndt SPECIES
-=======
+# Puccinia rhytidioderma Berndt SPECIES
 
 #### Status
 ACCEPTED

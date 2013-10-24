@@ -1,5 +1,4 @@
-Agaricus xanthosarcus Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus xanthosarcus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

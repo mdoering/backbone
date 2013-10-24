@@ -1,5 +1,4 @@
-Auricularia minor Kobayasi SPECIES
-=======
+# Auricularia minor Kobayasi SPECIES
 
 #### Status
 ACCEPTED

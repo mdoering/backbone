@@ -1,5 +1,4 @@
-Conocybe nigrescens Hauskn. & Gubitz SPECIES
-=======
+# Conocybe nigrescens Hauskn. & Gubitz SPECIES
 
 #### Status
 ACCEPTED

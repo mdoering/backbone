@@ -1,5 +1,4 @@
-Tetralacorys Haeckel, 1881 GENUS
-=======
+# Tetralacorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

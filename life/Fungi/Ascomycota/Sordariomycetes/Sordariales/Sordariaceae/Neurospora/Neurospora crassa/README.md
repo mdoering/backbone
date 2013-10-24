@@ -1,5 +1,4 @@
-Neurospora crassa Shear & B.O. Dodge, 1927 SPECIES
-=======
+# Neurospora crassa Shear & B.O. Dodge, 1927 SPECIES
 
 #### Status
 ACCEPTED

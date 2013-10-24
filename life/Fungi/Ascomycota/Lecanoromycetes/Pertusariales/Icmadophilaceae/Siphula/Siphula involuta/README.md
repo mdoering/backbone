@@ -1,5 +1,4 @@
-Siphula involuta R. Sant. SPECIES
-=======
+# Siphula involuta R. Sant. SPECIES
 
 #### Status
 ACCEPTED

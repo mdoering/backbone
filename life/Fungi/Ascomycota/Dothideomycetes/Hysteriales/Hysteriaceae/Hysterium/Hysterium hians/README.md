@@ -1,5 +1,4 @@
-Hysterium hians Ellis & Everh. SPECIES
-=======
+# Hysterium hians Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

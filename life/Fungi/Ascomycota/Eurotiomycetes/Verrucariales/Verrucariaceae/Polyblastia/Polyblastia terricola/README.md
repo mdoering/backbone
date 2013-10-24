@@ -1,5 +1,4 @@
-Polyblastia terricola Bagl. SPECIES
-=======
+# Polyblastia terricola Bagl. SPECIES
 
 #### Status
 ACCEPTED

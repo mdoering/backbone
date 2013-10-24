@@ -1,5 +1,4 @@
-Uredo coccolobae Henn. SPECIES
-=======
+# Uredo coccolobae Henn. SPECIES
 
 #### Status
 ACCEPTED

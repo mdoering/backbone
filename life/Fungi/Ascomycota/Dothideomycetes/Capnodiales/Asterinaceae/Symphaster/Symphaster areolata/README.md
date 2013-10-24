@@ -1,14 +1,13 @@
-Isipinga areolata Doidge, 1921 SPECIES
-=======
+# Symphaster areolata (Doidge) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 1(1): 15 (1921)
+Beitr. Kryptfl. Schweiz 11(no. 2): 95 (1962)
 
 #### Original name
 Isipinga areolata Doidge, 1921

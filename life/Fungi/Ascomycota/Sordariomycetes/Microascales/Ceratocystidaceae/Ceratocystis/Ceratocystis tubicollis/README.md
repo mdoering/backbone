@@ -1,5 +1,4 @@
-Ceratocystis tubicollis Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis tubicollis Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

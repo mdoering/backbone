@@ -1,5 +1,4 @@
-Sphaerella lithraeae Speg. SPECIES
-=======
+# Sphaerella lithraeae Speg. SPECIES
 
 #### Status
 ACCEPTED

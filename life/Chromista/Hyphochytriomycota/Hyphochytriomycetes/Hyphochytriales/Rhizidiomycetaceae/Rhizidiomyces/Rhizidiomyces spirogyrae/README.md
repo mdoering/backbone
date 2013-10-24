@@ -1,5 +1,4 @@
-Rhizidiomyces spirogyrae De Wild., 1895 SPECIES
-=======
+# Rhizidiomyces spirogyrae De Wild., 1895 SPECIES
 
 #### Status
 ACCEPTED

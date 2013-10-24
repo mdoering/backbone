@@ -1,5 +1,4 @@
-Septoria allescheri Dietel & P. Syd. SPECIES
-=======
+# Septoria allescheri Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

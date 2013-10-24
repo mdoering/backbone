@@ -1,5 +1,4 @@
-Psathyrella owyheensis A.H. Sm. SPECIES
-=======
+# Psathyrella owyheensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

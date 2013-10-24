@@ -1,5 +1,4 @@
-Lycoperdon infundibulum Willd. SPECIES
-=======
+# Lycoperdon infundibulum Willd. SPECIES
 
 #### Status
 ACCEPTED

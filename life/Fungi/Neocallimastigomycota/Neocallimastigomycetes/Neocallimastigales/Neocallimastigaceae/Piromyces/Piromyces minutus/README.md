@@ -1,5 +1,4 @@
-Piromyces minutus Y.W. Ho, 1993 SPECIES
-=======
+# Piromyces minutus Y.W. Ho, 1993 SPECIES
 
 #### Status
 ACCEPTED

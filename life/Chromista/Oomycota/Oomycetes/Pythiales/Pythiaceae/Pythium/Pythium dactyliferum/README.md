@@ -1,5 +1,4 @@
-Pythium dactyliferum Drechsler SPECIES
-=======
+# Pythium dactyliferum Drechsler SPECIES
 
 #### Status
 ACCEPTED

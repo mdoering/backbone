@@ -1,5 +1,4 @@
-Ceuthospora feurichii Bubák, 1906 SPECIES
-=======
+# Ceuthospora feurichii Bubák, 1906 SPECIES
 
 #### Status
 ACCEPTED

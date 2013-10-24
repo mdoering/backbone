@@ -1,5 +1,4 @@
-Strigula sychnogonioides (Nitschke) R.C. Harris SPECIES
-=======
+# Strigula sychnogonioides (Nitschke) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

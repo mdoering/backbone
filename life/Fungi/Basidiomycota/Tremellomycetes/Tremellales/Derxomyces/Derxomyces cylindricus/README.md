@@ -1,17 +1,16 @@
-Derxomyces cylindrica F.Y. Bai, Q.M. Wang & M. Takash. ex F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces cylindricus F.Y. Bai, Q.M. Wang & M. Takash. ex F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang & Bai, FEMS Yeast Res. 8(5): 804 (2008)
 
 #### Original name
-Derxomyces cylindrica F.Y. Bai, Q.M. Wang & M. Takash. ex F.Y. Bai & Q.M. Wang
+Derxomyces cylindricus F.Y. Bai, Q.M. Wang & M. Takash. ex F.Y. Bai & Q.M. Wang
 
 ### Remarks
 null

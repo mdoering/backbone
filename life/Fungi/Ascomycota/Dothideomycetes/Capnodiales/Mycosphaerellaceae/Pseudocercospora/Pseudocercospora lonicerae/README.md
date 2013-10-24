@@ -1,17 +1,16 @@
-Cercospora lonicerae Chupp, 1954 SPECIES
-=======
+# Pseudocercospora lonicerae (Chupp) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Cercospora 102 (1954)
+Mycosystema 7: 121 (1995)
 
 #### Original name
-Cercospora lonicerae Chupp, 1954
+Pseudocercospora lonicerae (Chupp) U. Braun & Crous, 2003
 
 ### Remarks
 null

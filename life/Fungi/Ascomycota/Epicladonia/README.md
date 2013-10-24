@@ -1,5 +1,4 @@
-Epicladonia D. Hawksw. GENUS
-=======
+# Epicladonia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

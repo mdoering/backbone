@@ -1,5 +1,4 @@
-Inaequalina Luczkowska, 1971 GENUS
-=======
+# Inaequalina Luczkowska, 1971 GENUS
 
 #### Status
 ACCEPTED

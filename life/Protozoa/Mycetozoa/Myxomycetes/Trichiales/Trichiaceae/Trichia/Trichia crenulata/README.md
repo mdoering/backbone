@@ -1,17 +1,16 @@
-Trichia crenulata latitubularis Y. Yamam. & Shuanglin Chen, 2002 INFRASPECIFIC_NAME
-=======
+# Trichia crenulata (Meyl.) Meyl., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin de la Société Vaudoise des Sciences Naturelles 57: 47 (1929)
 
 #### Original name
-null
+Trichia contorta crenulata Meyl., 1924
 
 ### Remarks
 null

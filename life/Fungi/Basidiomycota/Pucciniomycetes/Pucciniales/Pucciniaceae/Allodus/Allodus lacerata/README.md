@@ -1,5 +1,4 @@
-Allodus lacerata Doidge SPECIES
-=======
+# Allodus lacerata Doidge SPECIES
 
 #### Status
 ACCEPTED

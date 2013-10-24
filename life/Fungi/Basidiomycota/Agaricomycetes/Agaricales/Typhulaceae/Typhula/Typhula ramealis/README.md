@@ -1,5 +1,4 @@
-Typhula ramealis (Lib.) Speg. SPECIES
-=======
+# Typhula ramealis (Lib.) Speg. SPECIES
 
 #### Status
 ACCEPTED

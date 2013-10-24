@@ -1,5 +1,4 @@
-Pseudocercospora guettardae (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora guettardae (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeotrichia punctulata (Thuret) Bornet & Flahault SPECIES
-=======
+# Gloeotrichia punctulata (Thuret) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

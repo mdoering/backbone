@@ -1,5 +1,4 @@
-Metulodontia indica (K.S. Thind & S.S. Rattan) S.S. Rattan SPECIES
-=======
+# Metulodontia indica (K.S. Thind & S.S. Rattan) S.S. Rattan SPECIES
 
 #### Status
 ACCEPTED

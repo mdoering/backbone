@@ -1,8 +1,7 @@
-Holosticha rubra Ehrenberg, 1838 SPECIES
-=======
+# Pseudokeronopsis rubra (Ehrenberg, 1838) Borror & Wicklow, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

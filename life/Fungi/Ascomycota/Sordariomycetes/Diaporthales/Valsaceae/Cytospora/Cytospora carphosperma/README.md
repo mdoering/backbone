@@ -1,17 +1,16 @@
-Cytispora carphosperma Fr. SPECIES
-=======
+# Cytospora carphosperma Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 543 (1823)
 
 #### Original name
-Cytispora carphosperma Fr.
+Cytospora carphosperma Fr., 1823
 
 ### Remarks
 null

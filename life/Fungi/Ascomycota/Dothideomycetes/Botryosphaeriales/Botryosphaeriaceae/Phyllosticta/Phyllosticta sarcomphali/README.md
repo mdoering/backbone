@@ -1,5 +1,4 @@
-Phyllosticta sarcomphali Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta sarcomphali Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

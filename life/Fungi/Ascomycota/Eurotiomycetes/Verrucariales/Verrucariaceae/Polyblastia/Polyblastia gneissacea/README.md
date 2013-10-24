@@ -1,5 +1,4 @@
-Polyblastia gneissacea Müll. Arg. SPECIES
-=======
+# Polyblastia gneissacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

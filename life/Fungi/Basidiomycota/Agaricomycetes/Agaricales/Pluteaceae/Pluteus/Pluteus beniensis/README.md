@@ -1,5 +1,4 @@
-Pluteus beniensis Singer SPECIES
-=======
+# Pluteus beniensis Singer SPECIES
 
 #### Status
 ACCEPTED

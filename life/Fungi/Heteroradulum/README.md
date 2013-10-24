@@ -1,5 +1,4 @@
-Heteroradulum Lloyd GENUS
-=======
+# Heteroradulum Lloyd GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zonaria angustata (Kützing) Papenfuss SPECIES
-=======
+# Zonaria angustata (Kützing) Papenfuss SPECIES
 
 #### Status
 ACCEPTED

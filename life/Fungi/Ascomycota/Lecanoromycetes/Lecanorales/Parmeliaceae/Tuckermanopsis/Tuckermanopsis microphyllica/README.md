@@ -1,5 +1,4 @@
-Tuckermanopsis microphyllica (W.L. Culb. & C.F. Culb.) M.J. Lai SPECIES
-=======
+# Tuckermanopsis microphyllica (W.L. Culb. & C.F. Culb.) M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella euphorbii Sacc. SPECIES
-=======
+# Dothiorella euphorbii Sacc. SPECIES
 
 #### Status
 ACCEPTED

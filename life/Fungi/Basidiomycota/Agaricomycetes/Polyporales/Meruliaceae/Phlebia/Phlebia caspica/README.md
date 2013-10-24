@@ -1,5 +1,4 @@
-Phlebia caspica Hallenb., 1980 SPECIES
-=======
+# Phlebia caspica Hallenb., 1980 SPECIES
 
 #### Status
 ACCEPTED

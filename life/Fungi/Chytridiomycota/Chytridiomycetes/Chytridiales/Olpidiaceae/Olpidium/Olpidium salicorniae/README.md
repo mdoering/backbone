@@ -1,5 +1,4 @@
-Olpidium salicorniae Nemec SPECIES
-=======
+# Olpidium salicorniae Nemec SPECIES
 
 #### Status
 ACCEPTED

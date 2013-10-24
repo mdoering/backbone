@@ -1,5 +1,4 @@
-Tremella pinicola Britzelm. SPECIES
-=======
+# Tremella pinicola Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum sobolewskii Weinm. SPECIES
-=======
+# Hydnum sobolewskii Weinm. SPECIES
 
 #### Status
 ACCEPTED

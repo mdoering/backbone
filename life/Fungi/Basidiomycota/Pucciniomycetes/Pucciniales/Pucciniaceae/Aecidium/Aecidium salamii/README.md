@@ -1,5 +1,4 @@
-Aecidium salamii G.F. Laundon SPECIES
-=======
+# Aecidium salamii G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

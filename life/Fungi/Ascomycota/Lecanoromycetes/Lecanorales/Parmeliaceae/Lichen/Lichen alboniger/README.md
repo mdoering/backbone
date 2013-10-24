@@ -1,5 +1,4 @@
-Lichen alboniger Schleich. SPECIES
-=======
+# Lichen alboniger Schleich. SPECIES
 
 #### Status
 ACCEPTED

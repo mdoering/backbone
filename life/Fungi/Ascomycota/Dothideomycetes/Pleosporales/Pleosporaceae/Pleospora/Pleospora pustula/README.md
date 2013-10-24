@@ -1,5 +1,4 @@
-Pleospora pustula Berl. & F. Sacc. SPECIES
-=======
+# Pleospora pustula Berl. & F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

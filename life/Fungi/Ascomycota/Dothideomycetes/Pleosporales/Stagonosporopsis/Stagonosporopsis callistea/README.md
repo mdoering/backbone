@@ -1,5 +1,4 @@
-Stagonosporopsis callistea (Syd.) Bubák SPECIES
-=======
+# Stagonosporopsis callistea (Syd.) Bubák SPECIES
 
 #### Status
 ACCEPTED

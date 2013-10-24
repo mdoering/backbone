@@ -1,5 +1,4 @@
-Myxosporium hariotianum Sacc. SPECIES
-=======
+# Myxosporium hariotianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea muelleri Berk. ex Cooke SPECIES
-=======
+# Daedalea muelleri Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphileptus inquieta Biernacka, 1963 SPECIES
-=======
+# Amphileptus inquieta Biernacka, 1963 SPECIES
 
 #### Status
 ACCEPTED

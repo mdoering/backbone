@@ -1,5 +1,4 @@
-Anthracoidea smithii Kukkonen SPECIES
-=======
+# Anthracoidea smithii Kukkonen SPECIES
 
 #### Status
 ACCEPTED

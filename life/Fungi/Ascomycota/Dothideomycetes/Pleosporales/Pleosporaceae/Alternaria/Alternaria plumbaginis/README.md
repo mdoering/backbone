@@ -1,17 +1,16 @@
-Alternaria plumbaginae G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Alternaria plumbaginis G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sharma & Agarwal, J. Indian bot. Soc. 53(1-2): 82 (1974)
 
 #### Original name
-Alternaria plumbaginae G.P. Agarwal & N.D. Sharma
+Alternaria plumbaginis G.P. Agarwal & N.D. Sharma
 
 ### Remarks
 null

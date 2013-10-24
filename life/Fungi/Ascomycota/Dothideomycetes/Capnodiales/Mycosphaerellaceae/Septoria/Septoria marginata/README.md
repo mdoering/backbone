@@ -1,5 +1,4 @@
-Septoria marginata Sacc. SPECIES
-=======
+# Septoria marginata Sacc. SPECIES
 
 #### Status
 ACCEPTED

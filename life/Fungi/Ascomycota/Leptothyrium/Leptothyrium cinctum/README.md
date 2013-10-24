@@ -1,5 +1,4 @@
-Leptothyrium cinctum Cooke SPECIES
-=======
+# Leptothyrium cinctum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella capitata Yorou & Agerer SPECIES
-=======
+# Tomentella capitata Yorou & Agerer SPECIES
 
 #### Status
 ACCEPTED

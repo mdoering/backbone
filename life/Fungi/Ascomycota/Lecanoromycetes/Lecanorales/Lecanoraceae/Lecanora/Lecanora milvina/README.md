@@ -1,5 +1,4 @@
-Lecanora milvina SPECIES
-=======
+# Lecanora milvina SPECIES
 
 #### Status
 ACCEPTED

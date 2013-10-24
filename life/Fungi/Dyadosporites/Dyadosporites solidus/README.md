@@ -1,5 +1,4 @@
-Dyadosporites solidus (P. Ke & Z.Y. Shi) Z.C. Song SPECIES
-=======
+# Dyadosporites solidus (P. Ke & Z.Y. Shi) Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

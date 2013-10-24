@@ -1,5 +1,4 @@
-Enslinia cupuliformis (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Enslinia cupuliformis (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

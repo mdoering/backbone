@@ -1,5 +1,4 @@
-Kirschsteiniothelia D. Hawksw. GENUS
-=======
+# Kirschsteiniothelia D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

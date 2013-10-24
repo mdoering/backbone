@@ -1,5 +1,4 @@
-Astasia fritschi SPECIES
-=======
+# Astasia fritschi SPECIES
 
 #### Status
 ACCEPTED

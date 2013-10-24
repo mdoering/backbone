@@ -1,5 +1,4 @@
-Tilletia bromina Maire SPECIES
-=======
+# Tilletia bromina Maire SPECIES
 
 #### Status
 ACCEPTED

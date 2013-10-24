@@ -1,5 +1,4 @@
-Aecidium lonicerae Duby SPECIES
-=======
+# Aecidium lonicerae Duby SPECIES
 
 #### Status
 ACCEPTED

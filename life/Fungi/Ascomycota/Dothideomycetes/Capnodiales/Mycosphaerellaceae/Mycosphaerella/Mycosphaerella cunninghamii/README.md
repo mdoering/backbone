@@ -1,5 +1,4 @@
-Mycosphaerella cunninghamii Syd., 1924 SPECIES
-=======
+# Mycosphaerella cunninghamii Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

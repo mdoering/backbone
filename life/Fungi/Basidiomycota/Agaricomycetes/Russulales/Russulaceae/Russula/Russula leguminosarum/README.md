@@ -1,5 +1,4 @@
-Russula leguminosarum Singer SPECIES
-=======
+# Russula leguminosarum Singer SPECIES
 
 #### Status
 ACCEPTED

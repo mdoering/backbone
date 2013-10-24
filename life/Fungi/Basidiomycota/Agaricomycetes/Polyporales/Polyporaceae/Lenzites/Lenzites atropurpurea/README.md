@@ -1,5 +1,4 @@
-Lenzites atropurpurea Sacc. SPECIES
-=======
+# Lenzites atropurpurea Sacc. SPECIES
 
 #### Status
 ACCEPTED

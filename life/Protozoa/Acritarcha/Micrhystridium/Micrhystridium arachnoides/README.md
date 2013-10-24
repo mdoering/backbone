@@ -1,5 +1,4 @@
-Micrhystridium arachnoides Valensi, 1953 SPECIES
-=======
+# Micrhystridium arachnoides Valensi, 1953 SPECIES
 
 #### Status
 ACCEPTED

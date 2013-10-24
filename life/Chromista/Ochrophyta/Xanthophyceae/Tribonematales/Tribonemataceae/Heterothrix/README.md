@@ -1,5 +1,4 @@
-Heterothrix A. Pascher, 1932 GENUS
-=======
+# Heterothrix A. Pascher, 1932 GENUS
 
 #### Status
 SYNONYM

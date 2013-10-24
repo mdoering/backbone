@@ -1,5 +1,4 @@
-Spermatodium xyloides (Eschw.) Trevis. SPECIES
-=======
+# Spermatodium xyloides (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

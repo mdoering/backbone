@@ -1,17 +1,16 @@
-Coprinus marculentus f. marculentus FORM
-=======
+# Coprinellus marculentus (Britzelm.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 54(15-17): 13 (1893)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
-Coprinus marculentus f. marculentus
+Coprinus marculentus Britzelm., 1893
 
 ### Remarks
 null

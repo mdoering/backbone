@@ -1,5 +1,4 @@
-Mortierella longigemmata Linnem., 1969 SPECIES
-=======
+# Mortierella longigemmata Linnem., 1969 SPECIES
 
 #### Status
 ACCEPTED

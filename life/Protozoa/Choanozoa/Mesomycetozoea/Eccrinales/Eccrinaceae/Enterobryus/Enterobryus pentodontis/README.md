@@ -1,14 +1,13 @@
-Enterobryus pentodoni (Manier) Manier SPECIES
-=======
+# Enterobryus pentodontis (Manier) Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 10(4): 603 (1970)
 
 #### Original name
 Paratrichella pentodona Manier

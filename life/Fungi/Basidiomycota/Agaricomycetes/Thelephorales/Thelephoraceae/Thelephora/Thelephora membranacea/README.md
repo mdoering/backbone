@@ -1,5 +1,4 @@
-Thelephora membranacea Bory ex Fr. SPECIES
-=======
+# Thelephora membranacea Bory ex Fr. SPECIES
 
 #### Status
 ACCEPTED

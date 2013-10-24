@@ -1,5 +1,4 @@
-Thyridaria cajugae Rehm SPECIES
-=======
+# Thyridaria cajugae Rehm SPECIES
 
 #### Status
 ACCEPTED

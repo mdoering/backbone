@@ -1,17 +1,16 @@
-Alboffiella Speg. GENUS
-=======
+# Itajahya Möller GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 6: 183 (1898)
+Bot. Mitt. Trop. 7: 148 (1895)
 
 #### Original name
-Alboffiella Speg.
+Itajahya Möller
 
 ### Remarks
 null

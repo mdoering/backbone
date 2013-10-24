@@ -1,5 +1,4 @@
-Caloplaca submodesta H. Magn. SPECIES
-=======
+# Caloplaca submodesta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

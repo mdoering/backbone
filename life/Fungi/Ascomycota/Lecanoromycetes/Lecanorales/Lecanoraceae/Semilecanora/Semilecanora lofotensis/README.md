@@ -1,5 +1,4 @@
-Semilecanora lofotensis Motyka SPECIES
-=======
+# Semilecanora lofotensis Motyka SPECIES
 
 #### Status
 ACCEPTED

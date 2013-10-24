@@ -1,5 +1,4 @@
-Thalassiosira praeyabei (R. Simonsen) F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira praeyabei (R. Simonsen) F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

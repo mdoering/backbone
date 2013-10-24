@@ -1,5 +1,4 @@
-Diorygma reniforme (Fée) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma reniforme (Fée) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

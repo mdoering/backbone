@@ -1,5 +1,4 @@
-Dematium cinnabarinum var. cinnabarinum Pers. VARIETY
-=======
+# Dematium cinnabarinum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 697 (1801)
 
 #### Original name
-Dematium cinnabarinum var. cinnabarinum Pers.
+Dematium cinnabarinum Pers.
 
 ### Remarks
 null

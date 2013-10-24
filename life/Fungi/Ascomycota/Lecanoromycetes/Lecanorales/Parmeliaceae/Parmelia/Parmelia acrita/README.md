@@ -1,5 +1,4 @@
-Parmelia acrita (Ach.) Röhl. SPECIES
-=======
+# Parmelia acrita (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

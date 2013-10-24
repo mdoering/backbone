@@ -1,5 +1,4 @@
-Russula praeclavipes Murrill SPECIES
-=======
+# Russula praeclavipes Murrill SPECIES
 
 #### Status
 ACCEPTED

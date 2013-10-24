@@ -1,5 +1,4 @@
-Didymascina lignicola Höhn. SPECIES
-=======
+# Didymascina lignicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

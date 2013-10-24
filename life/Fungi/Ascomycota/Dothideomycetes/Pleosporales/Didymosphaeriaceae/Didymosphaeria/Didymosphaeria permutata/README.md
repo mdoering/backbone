@@ -1,5 +1,4 @@
-Didymosphaeria permutata Sacc. SPECIES
-=======
+# Didymosphaeria permutata Sacc. SPECIES
 
 #### Status
 ACCEPTED

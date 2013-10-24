@@ -1,5 +1,4 @@
-Physcia regalis Zahlbr. SPECIES
-=======
+# Physcia regalis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

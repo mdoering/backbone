@@ -1,5 +1,4 @@
-Lachnocladium dusenii Henn. SPECIES
-=======
+# Lachnocladium dusenii Henn. SPECIES
 
 #### Status
 ACCEPTED

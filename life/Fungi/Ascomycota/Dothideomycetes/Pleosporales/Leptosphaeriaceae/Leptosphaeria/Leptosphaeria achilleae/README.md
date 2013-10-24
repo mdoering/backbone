@@ -1,5 +1,4 @@
-Leptosphaeria achilleae Sacc. SPECIES
-=======
+# Leptosphaeria achilleae Sacc. SPECIES
 
 #### Status
 ACCEPTED

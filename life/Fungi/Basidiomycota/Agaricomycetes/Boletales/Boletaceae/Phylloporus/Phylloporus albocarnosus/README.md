@@ -1,5 +1,4 @@
-Phylloporus albocarnosus Heinem. SPECIES
-=======
+# Phylloporus albocarnosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

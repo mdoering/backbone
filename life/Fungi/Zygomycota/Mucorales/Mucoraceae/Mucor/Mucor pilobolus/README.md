@@ -1,5 +1,4 @@
-Mucor pilobolus Sorokin SPECIES
-=======
+# Mucor pilobolus Sorokin SPECIES
 
 #### Status
 ACCEPTED

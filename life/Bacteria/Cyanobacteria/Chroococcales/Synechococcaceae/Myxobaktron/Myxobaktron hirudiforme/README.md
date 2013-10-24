@@ -1,5 +1,4 @@
-Myxobaktron hirudiforme G.S. West SPECIES
-=======
+# Myxobaktron hirudiforme G.S. West SPECIES
 
 #### Status
 ACCEPTED

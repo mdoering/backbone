@@ -1,5 +1,4 @@
-Acarospora calviniensis H. Magn. SPECIES
-=======
+# Acarospora calviniensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

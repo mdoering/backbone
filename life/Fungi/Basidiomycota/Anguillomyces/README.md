@@ -1,5 +1,4 @@
-Anguillomyces Marvanová & Bärl. GENUS
-=======
+# Anguillomyces Marvanová & Bärl. GENUS
 
 #### Status
 ACCEPTED

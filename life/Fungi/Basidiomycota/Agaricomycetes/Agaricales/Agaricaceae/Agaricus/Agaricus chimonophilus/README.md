@@ -1,17 +1,16 @@
-Agaricus chimonophyllus Berk. & Broome SPECIES
-=======
+# Agaricus chimonophilus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 13: (1854)
 
 #### Original name
-Agaricus chimonophyllus Berk. & Broome
+Agaricus chimonophilus Berk. & Broome
 
 ### Remarks
 null

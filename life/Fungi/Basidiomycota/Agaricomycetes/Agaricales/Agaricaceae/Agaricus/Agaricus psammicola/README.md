@@ -1,5 +1,4 @@
-Agaricus psammicola Berk. & Broome SPECIES
-=======
+# Agaricus psammicola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

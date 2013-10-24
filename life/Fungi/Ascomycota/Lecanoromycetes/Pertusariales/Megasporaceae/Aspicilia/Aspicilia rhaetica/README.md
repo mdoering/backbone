@@ -1,5 +1,4 @@
-Aspicilia rhaetica (Th. Fr.) Hue SPECIES
-=======
+# Aspicilia rhaetica (Th. Fr.) Hue SPECIES
 
 #### Status
 ACCEPTED

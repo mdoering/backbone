@@ -1,5 +1,4 @@
-Otaina Ramalho, 1990 GENUS
-=======
+# Otaina Ramalho, 1990 GENUS
 
 #### Status
 ACCEPTED

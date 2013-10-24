@@ -1,5 +1,4 @@
-Psoroma ascociscana Tuck. SPECIES
-=======
+# Psoroma ascociscana Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiociliomyces bauhiniae Bat. & I.H. Lima, 1955 SPECIES
-=======
+# Ophiociliomyces bauhiniae Bat. & I.H. Lima, 1955 SPECIES
 
 #### Status
 ACCEPTED

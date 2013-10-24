@@ -1,5 +1,4 @@
-Trypethelium pusillum Jatta SPECIES
-=======
+# Trypethelium pusillum Jatta SPECIES
 
 #### Status
 ACCEPTED

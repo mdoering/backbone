@@ -1,5 +1,4 @@
-Lentaria subcaulescens (Rebent.) Rauschert SPECIES
-=======
+# Lentaria subcaulescens (Rebent.) Rauschert SPECIES
 
 #### Status
 ACCEPTED

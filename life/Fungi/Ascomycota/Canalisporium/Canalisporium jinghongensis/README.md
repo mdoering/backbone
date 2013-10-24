@@ -1,5 +1,4 @@
-Canalisporium jinghongensis L. Cai, K.D. Hyde & McKenzie SPECIES
-=======
+# Canalisporium jinghongensis L. Cai, K.D. Hyde & McKenzie SPECIES
 
 #### Status
 ACCEPTED

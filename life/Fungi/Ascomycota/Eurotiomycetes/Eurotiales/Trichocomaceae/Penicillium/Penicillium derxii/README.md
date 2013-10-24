@@ -1,5 +1,4 @@
-Penicillium derxii Takada & Udagawa SPECIES
-=======
+# Penicillium derxii Takada & Udagawa SPECIES
 
 #### Status
 ACCEPTED

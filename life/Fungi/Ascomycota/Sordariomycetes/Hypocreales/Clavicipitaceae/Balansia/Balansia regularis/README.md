@@ -1,5 +1,4 @@
-Balansia regularis Möller SPECIES
-=======
+# Balansia regularis Möller SPECIES
 
 #### Status
 ACCEPTED

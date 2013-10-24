@@ -1,5 +1,4 @@
-Caloplaca streimannii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca streimannii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

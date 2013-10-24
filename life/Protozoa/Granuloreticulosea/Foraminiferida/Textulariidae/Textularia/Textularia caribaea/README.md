@@ -1,5 +1,4 @@
-Textularia caribaea SPECIES
-=======
+# Textularia caribaea SPECIES
 
 #### Status
 ACCEPTED

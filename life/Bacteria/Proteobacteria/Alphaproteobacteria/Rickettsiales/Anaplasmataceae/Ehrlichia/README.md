@@ -1,5 +1,4 @@
-Ehrlichia GENUS
-=======
+# Ehrlichia GENUS
 
 #### Status
 ACCEPTED

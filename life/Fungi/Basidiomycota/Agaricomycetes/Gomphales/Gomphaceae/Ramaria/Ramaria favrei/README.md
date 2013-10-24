@@ -1,5 +1,4 @@
-Ramaria favrei Quél. SPECIES
-=======
+# Ramaria favrei Quél. SPECIES
 
 #### Status
 ACCEPTED

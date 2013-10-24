@@ -1,5 +1,4 @@
-Parmotrema ornatulum (Hale) Hale SPECIES
-=======
+# Parmotrema ornatulum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

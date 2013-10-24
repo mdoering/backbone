@@ -1,5 +1,4 @@
-Ciboria poronioides Speg. SPECIES
-=======
+# Ciboria poronioides Speg. SPECIES
 
 #### Status
 ACCEPTED

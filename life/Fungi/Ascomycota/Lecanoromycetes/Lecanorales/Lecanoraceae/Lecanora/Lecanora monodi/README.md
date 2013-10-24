@@ -1,5 +1,4 @@
-Lecanora monodi Werner SPECIES
-=======
+# Lecanora monodi Werner SPECIES
 
 #### Status
 ACCEPTED

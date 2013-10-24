@@ -1,5 +1,4 @@
-Scleroderris cephalanthi (Schwein.) Farl. SPECIES
-=======
+# Scleroderris cephalanthi (Schwein.) Farl. SPECIES
 
 #### Status
 ACCEPTED

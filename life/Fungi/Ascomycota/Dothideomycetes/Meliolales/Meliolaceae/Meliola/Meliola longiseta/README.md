@@ -1,5 +1,4 @@
-Meliola longiseta Höhn. SPECIES
-=======
+# Meliola longiseta Höhn. SPECIES
 
 #### Status
 ACCEPTED

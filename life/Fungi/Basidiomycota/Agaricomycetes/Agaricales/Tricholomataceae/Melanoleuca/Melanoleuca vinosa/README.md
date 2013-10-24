@@ -1,5 +1,4 @@
-Melanoleuca vinosa (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Melanoleuca vinosa (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

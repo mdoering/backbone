@@ -1,5 +1,4 @@
-Zebrashapka vanhintei SPECIES
-=======
+# Zebrashapka vanhintei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma macedonicum (Litsch.) Donk, 1957 SPECIES
-=======
+# Hyphoderma macedonicum (Litsch.) Donk, 1957 SPECIES
 
 #### Status
 ACCEPTED

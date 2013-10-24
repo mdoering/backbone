@@ -1,5 +1,4 @@
-Lecania cyrtella (Ach.) Th. Fr. SPECIES
-=======
+# Lecania cyrtella (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

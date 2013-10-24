@@ -1,8 +1,7 @@
-Torulopsis apicola Hajsig, 1958 SPECIES
-=======
+# Candida apicola (Hajsig) S.A. Mey. & Yarrow, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

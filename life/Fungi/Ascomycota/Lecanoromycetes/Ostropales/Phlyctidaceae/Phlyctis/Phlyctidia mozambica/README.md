@@ -1,5 +1,4 @@
-Phlyctidia mozambica Vain. SPECIES
-=======
+# Phlyctidia mozambica Vain. SPECIES
 
 #### Status
 ACCEPTED

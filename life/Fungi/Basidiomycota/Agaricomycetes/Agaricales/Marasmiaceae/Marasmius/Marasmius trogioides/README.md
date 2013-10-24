@@ -1,5 +1,4 @@
-Marasmius trogioides var. trogioides VARIETY
-=======
+# Marasmius trogioides Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia, Beih. 111: 105 (1996)
 
 #### Original name
-Marasmius trogioides var. trogioides
+Marasmius trogioides Corner
 
 ### Remarks
 null

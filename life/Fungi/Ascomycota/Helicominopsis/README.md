@@ -1,5 +1,4 @@
-Helicominopsis Deighton GENUS
-=======
+# Helicominopsis Deighton GENUS
 
 #### Status
 ACCEPTED

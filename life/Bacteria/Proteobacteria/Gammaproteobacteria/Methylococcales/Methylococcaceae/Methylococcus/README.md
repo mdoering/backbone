@@ -1,5 +1,4 @@
-Methylococcus Foster & Davis, 1966 GENUS
-=======
+# Methylococcus Foster & Davis, 1966 GENUS
 
 #### Status
 ACCEPTED

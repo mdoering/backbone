@@ -1,5 +1,4 @@
-Petaloferidium monstruosum Vavrdová, 1989 SPECIES
-=======
+# Petaloferidium monstruosum Vavrdová, 1989 SPECIES
 
 #### Status
 ACCEPTED

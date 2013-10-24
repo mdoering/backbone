@@ -1,5 +1,4 @@
-Heliosestilla Haeckel, 1887 GENUS
-=======
+# Heliosestilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

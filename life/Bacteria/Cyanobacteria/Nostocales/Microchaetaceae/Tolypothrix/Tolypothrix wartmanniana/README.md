@@ -1,5 +1,4 @@
-Tolypothrix wartmanniana Rabenhorst SPECIES
-=======
+# Tolypothrix wartmanniana Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

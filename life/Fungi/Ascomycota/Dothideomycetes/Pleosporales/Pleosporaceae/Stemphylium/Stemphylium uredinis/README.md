@@ -1,5 +1,4 @@
-Stemphylium uredinis (Ellis & Barthol.) Thirum. SPECIES
-=======
+# Stemphylium uredinis (Ellis & Barthol.) Thirum. SPECIES
 
 #### Status
 ACCEPTED

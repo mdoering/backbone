@@ -1,5 +1,4 @@
-Sphaerella astragali (Curr.) Curr. SPECIES
-=======
+# Sphaerella astragali (Curr.) Curr. SPECIES
 
 #### Status
 ACCEPTED

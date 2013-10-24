@@ -1,14 +1,13 @@
-Ramularia rutae T.M. Achundov, 1987 SPECIES
-=======
+# Cladosporium rutae (T.M. Achundov) U. Braun, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 24: 96 (1987)
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 306 (1998)
 
 #### Original name
 Ramularia rutae T.M. Achundov, 1987

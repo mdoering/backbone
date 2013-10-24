@@ -1,5 +1,4 @@
-Septoria picridina Lobik SPECIES
-=======
+# Septoria picridina Lobik SPECIES
 
 #### Status
 ACCEPTED

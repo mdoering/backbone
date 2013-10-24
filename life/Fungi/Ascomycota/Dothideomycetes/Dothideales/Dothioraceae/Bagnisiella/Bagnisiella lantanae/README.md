@@ -1,5 +1,4 @@
-Bagnisiella lantanae R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey SPECIES
-=======
+# Bagnisiella lantanae R.C. Rajak, R.C. Gupta, Belap. & A.K. Pandey SPECIES
 
 #### Status
 ACCEPTED

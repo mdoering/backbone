@@ -1,5 +1,4 @@
-Omphalia hohensis A.H. Sm. SPECIES
-=======
+# Omphalia hohensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

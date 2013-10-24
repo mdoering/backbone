@@ -1,5 +1,4 @@
-Skiagia C.Downie, 1982 GENUS
-=======
+# Skiagia C.Downie, 1982 GENUS
 
 #### Status
 ACCEPTED

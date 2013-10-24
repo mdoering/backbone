@@ -1,5 +1,4 @@
-Lecanora subpallens Zahlbr. SPECIES
-=======
+# Lecanora subpallens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus gamsii Bourrelly SPECIES
-=======
+# Phacus gamsii Bourrelly SPECIES
 
 #### Status
 ACCEPTED

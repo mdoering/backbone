@@ -1,5 +1,4 @@
-Uromyces clivalis Mitter SPECIES
-=======
+# Uromyces clivalis Mitter SPECIES
 
 #### Status
 ACCEPTED

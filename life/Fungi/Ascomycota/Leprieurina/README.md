@@ -1,5 +1,4 @@
-Leprieurina G. Arnaud GENUS
-=======
+# Leprieurina G. Arnaud GENUS
 
 #### Status
 ACCEPTED

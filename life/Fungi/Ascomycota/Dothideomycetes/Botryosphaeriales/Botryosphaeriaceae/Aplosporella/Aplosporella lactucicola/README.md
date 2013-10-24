@@ -1,5 +1,4 @@
-Aplosporella lactucicola (Kellerm.) Petr. & Syd. SPECIES
-=======
+# Aplosporella lactucicola (Kellerm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

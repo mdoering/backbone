@@ -1,5 +1,4 @@
-Dictyochaetopsis polysetosa R.F. Castañeda, Gusmão, Guarro & Saikawa SPECIES
-=======
+# Dictyochaetopsis polysetosa R.F. Castañeda, Gusmão, Guarro & Saikawa SPECIES
 
 #### Status
 ACCEPTED

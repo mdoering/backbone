@@ -1,5 +1,4 @@
-Laboulbenia parvula Thaxt. SPECIES
-=======
+# Laboulbenia parvula Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania odora Bagl. SPECIES
-=======
+# Lecania odora Bagl. SPECIES
 
 #### Status
 ACCEPTED

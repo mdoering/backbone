@@ -1,5 +1,4 @@
-Inocybe earleana Kauffman SPECIES
-=======
+# Inocybe earleana Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporiella uredinicola Deighton SPECIES
-=======
+# Cladosporiella uredinicola Deighton SPECIES
 
 #### Status
 ACCEPTED

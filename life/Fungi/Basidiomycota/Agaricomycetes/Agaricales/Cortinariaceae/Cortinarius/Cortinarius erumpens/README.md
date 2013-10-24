@@ -1,5 +1,4 @@
-Cortinarius erumpens Rob. Henry SPECIES
-=======
+# Cortinarius erumpens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

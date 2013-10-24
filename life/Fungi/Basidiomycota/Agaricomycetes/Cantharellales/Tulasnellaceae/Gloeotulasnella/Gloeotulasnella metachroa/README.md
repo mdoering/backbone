@@ -1,5 +1,4 @@
-Gloeotulasnella metachroa Bourdot & Galzin SPECIES
-=======
+# Gloeotulasnella metachroa Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

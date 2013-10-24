@@ -1,5 +1,4 @@
-Timofeevia estonica Volkova, 1990 SPECIES
-=======
+# Timofeevia estonica Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

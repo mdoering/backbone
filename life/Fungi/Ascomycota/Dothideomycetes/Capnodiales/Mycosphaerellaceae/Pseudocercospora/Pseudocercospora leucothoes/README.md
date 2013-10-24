@@ -1,5 +1,4 @@
-Pseudocercospora leucothoes (B.H. Davis) Deighton SPECIES
-=======
+# Pseudocercospora leucothoes (B.H. Davis) Deighton SPECIES
 
 #### Status
 ACCEPTED

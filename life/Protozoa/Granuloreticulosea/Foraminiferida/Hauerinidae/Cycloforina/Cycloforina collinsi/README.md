@@ -1,5 +1,4 @@
-Cycloforina collinsi Langer, 1992 SPECIES
-=======
+# Cycloforina collinsi Langer, 1992 SPECIES
 
 #### Status
 ACCEPTED

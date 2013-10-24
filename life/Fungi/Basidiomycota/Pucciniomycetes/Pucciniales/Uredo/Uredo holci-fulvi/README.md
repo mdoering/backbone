@@ -1,5 +1,4 @@
-Uredo holci-fulvi Sawada SPECIES
-=======
+# Uredo holci-fulvi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria solani-argentei (Henn.) Dietel SPECIES
-=======
+# Didymosphaeria solani-argentei (Henn.) Dietel SPECIES
 
 #### Status
 ACCEPTED

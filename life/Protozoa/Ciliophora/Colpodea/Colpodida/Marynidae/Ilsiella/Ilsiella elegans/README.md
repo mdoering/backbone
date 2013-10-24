@@ -1,5 +1,4 @@
-Ilsiella elegans Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Ilsiella elegans Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

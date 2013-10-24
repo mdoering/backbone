@@ -1,5 +1,4 @@
-Psorotichia americana Vain. SPECIES
-=======
+# Psorotichia americana Vain. SPECIES
 
 #### Status
 ACCEPTED

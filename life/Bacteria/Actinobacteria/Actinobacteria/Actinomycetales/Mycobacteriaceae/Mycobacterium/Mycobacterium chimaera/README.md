@@ -1,5 +1,4 @@
-Mycobacterium chimaera Tortoli et al., 2004 SPECIES
-=======
+# Mycobacterium chimaera Tortoli et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

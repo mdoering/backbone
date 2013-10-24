@@ -1,5 +1,4 @@
-Hygrocybe sublurida (Murrill) M. Zang SPECIES
-=======
+# Hygrocybe sublurida (Murrill) M. Zang SPECIES
 
 #### Status
 ACCEPTED

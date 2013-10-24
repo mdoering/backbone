@@ -1,5 +1,4 @@
-Macrophoma piperina Syd. SPECIES
-=======
+# Macrophoma piperina Syd. SPECIES
 
 #### Status
 ACCEPTED

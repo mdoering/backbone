@@ -1,5 +1,4 @@
-Cryptomonas rostratiformis Skuja ex T. Willén SPECIES
-=======
+# Cryptomonas rostratiformis Skuja ex T. Willén SPECIES
 
 #### Status
 ACCEPTED

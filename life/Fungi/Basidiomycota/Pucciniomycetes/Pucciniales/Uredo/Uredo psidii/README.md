@@ -1,5 +1,4 @@
-Uredo psidii J.A. Simpson, K. Thomas & Grgur. SPECIES
-=======
+# Uredo psidii J.A. Simpson, K. Thomas & Grgur. SPECIES
 
 #### Status
 ACCEPTED

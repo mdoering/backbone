@@ -1,5 +1,4 @@
-Pholiota engleriana Henn. SPECIES
-=======
+# Pholiota engleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

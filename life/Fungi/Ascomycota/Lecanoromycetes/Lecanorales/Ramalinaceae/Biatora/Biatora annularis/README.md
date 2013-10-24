@@ -1,5 +1,4 @@
-Biatora annularis Müll. Arg. SPECIES
-=======
+# Biatora annularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

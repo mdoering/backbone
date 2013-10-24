@@ -1,5 +1,4 @@
-Stichophormiscus Haeckel, 1887 GENUS
-=======
+# Stichophormiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

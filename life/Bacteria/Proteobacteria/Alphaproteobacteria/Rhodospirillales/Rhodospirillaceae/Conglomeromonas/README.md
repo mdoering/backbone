@@ -1,5 +1,4 @@
-Conglomeromonas Skerman et al., 1983 GENUS
-=======
+# Conglomeromonas Skerman et al., 1983 GENUS
 
 #### Status
 ACCEPTED

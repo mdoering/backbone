@@ -1,5 +1,4 @@
-Leptostromella tenuissima (Schwein.) Starbäck SPECIES
-=======
+# Leptostromella tenuissima (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

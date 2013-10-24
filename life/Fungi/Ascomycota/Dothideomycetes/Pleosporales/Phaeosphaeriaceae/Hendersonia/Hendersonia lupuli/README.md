@@ -1,5 +1,4 @@
-Hendersonia lupuli Moug. & Lév. SPECIES
-=======
+# Hendersonia lupuli Moug. & Lév. SPECIES
 
 #### Status
 ACCEPTED

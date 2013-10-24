@@ -1,5 +1,4 @@
-Roseiflexus castenholzii Hanada et al., 2002 SPECIES
-=======
+# Roseiflexus castenholzii Hanada et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

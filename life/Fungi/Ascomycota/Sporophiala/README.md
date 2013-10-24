@@ -1,5 +1,4 @@
-Sporophiala P. Rag. Rao GENUS
-=======
+# Sporophiala P. Rag. Rao GENUS
 
 #### Status
 ACCEPTED

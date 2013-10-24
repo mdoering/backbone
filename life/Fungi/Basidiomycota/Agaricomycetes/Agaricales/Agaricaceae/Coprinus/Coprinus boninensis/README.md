@@ -1,5 +1,4 @@
-Coprinus boninensis S. Ito & S. Imai SPECIES
-=======
+# Coprinus boninensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

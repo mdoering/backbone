@@ -1,5 +1,4 @@
-Mucor carnis Link SPECIES
-=======
+# Mucor carnis Link SPECIES
 
 #### Status
 ACCEPTED

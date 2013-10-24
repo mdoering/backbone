@@ -1,5 +1,4 @@
-Phyllachora barnadesiae Syd., 1939 SPECIES
-=======
+# Phyllachora barnadesiae Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Tulostoma pampeanum (Speg.) J.E. Wright SPECIES
-=======
+# Tulostoma pampeanum (Speg.) J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

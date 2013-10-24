@@ -1,5 +1,4 @@
-Jaaginema Anagnostidis & Komárek, 1988 GENUS
-=======
+# Jaaginema Anagnostidis & Komárek, 1988 GENUS
 
 #### Status
 ACCEPTED

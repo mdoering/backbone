@@ -1,5 +1,4 @@
-Hygrocybe griseoramosa A.M. Young, R. Kearney & E. Kearney SPECIES
-=======
+# Hygrocybe griseoramosa A.M. Young, R. Kearney & E. Kearney SPECIES
 
 #### Status
 ACCEPTED

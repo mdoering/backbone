@@ -1,5 +1,4 @@
-Sclerotinia asari Y. Wu & C.R. Wang, 1983 SPECIES
-=======
+# Sclerotinia asari Y. Wu & C.R. Wang, 1983 SPECIES
 
 #### Status
 ACCEPTED

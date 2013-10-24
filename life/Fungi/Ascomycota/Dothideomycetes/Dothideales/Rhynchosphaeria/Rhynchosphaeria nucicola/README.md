@@ -1,5 +1,4 @@
-Rhynchosphaeria nucicola Fairm. SPECIES
-=======
+# Rhynchosphaeria nucicola Fairm. SPECIES
 
 #### Status
 ACCEPTED

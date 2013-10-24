@@ -1,17 +1,16 @@
-Bulgaria rufa var. rufa VARIETY
-=======
+# Galiella rufa (Schwein.) Nannf. & Korf, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 178 (1832)
+Mycologia 49(1): 108 (1957)
 
 #### Original name
-Bulgaria rufa var. rufa
+Bulgaria rufa Schwein., 1832
 
 ### Remarks
 null

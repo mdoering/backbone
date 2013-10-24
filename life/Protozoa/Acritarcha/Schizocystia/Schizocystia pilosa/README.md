@@ -1,5 +1,4 @@
-Schizocystia pilosa Jardiné et al., 1972 SPECIES
-=======
+# Schizocystia pilosa Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

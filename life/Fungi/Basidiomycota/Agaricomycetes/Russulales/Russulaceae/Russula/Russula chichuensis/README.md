@@ -1,5 +1,4 @@
-Russula chichuensis W.F. Chiu SPECIES
-=======
+# Russula chichuensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

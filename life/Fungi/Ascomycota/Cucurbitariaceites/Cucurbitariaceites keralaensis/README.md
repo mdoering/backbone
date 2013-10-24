@@ -1,5 +1,4 @@
-Cucurbitariaceites keralaensis Y.N.R. Varma & R.S. Patil SPECIES
-=======
+# Cucurbitariaceites keralaensis Y.N.R. Varma & R.S. Patil SPECIES
 
 #### Status
 ACCEPTED

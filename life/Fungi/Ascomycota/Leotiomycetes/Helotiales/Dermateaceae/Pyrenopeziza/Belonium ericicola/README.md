@@ -1,8 +1,7 @@
-Belonium ericicolum Rehm SPECIES
-=======
+# Belonium ericicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Belonium ericicolum Rehm
+Belonium ericicola Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptothecia queenslandica Elix SPECIES
-=======
+# Cryptothecia queenslandica Elix SPECIES
 
 #### Status
 ACCEPTED

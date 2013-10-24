@@ -1,5 +1,4 @@
-Endophragmiella tripartita S. Hughes, 1979 SPECIES
-=======
+# Endophragmiella tripartita S. Hughes, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeridium citrinum Sacc. SPECIES
-=======
+# Sphaeridium citrinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

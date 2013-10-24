@@ -1,14 +1,13 @@
-Peltula capensis (Brusse) Büdel SPECIES
-=======
+# Corynecystis capensis Brusse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 23: 49 (1987)
+Bothalia 15: 552 (1985)
 
 #### Original name
 Corynecystis capensis Brusse

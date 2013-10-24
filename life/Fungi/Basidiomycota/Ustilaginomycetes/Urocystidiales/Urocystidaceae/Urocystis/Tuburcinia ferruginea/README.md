@@ -1,5 +1,4 @@
-Tuburcinia ferruginea Liro SPECIES
-=======
+# Tuburcinia ferruginea Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glenospora melioloides Berk. & M.A. Curtis SPECIES
-=======
+# Glenospora melioloides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

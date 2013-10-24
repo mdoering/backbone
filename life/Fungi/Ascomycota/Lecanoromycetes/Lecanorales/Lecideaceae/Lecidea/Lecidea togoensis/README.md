@@ -1,8 +1,7 @@
-Lecidea togoënsis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea togoensis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Theimaniella ugandensis Hansf. SPECIES
-=======
+# Theimaniella ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus henningsii Kuntze SPECIES
-=======
+# Dendrosarcus henningsii Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis tuberculatus (Balkwill & Wright) SPECIES
-=======
+# Discorbis tuberculatus (Balkwill & Wright) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hebelomatis colossum (Huijsman) Locq. SPECIES
-=======
+# Hebelomatis colossus (Huijsman) Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

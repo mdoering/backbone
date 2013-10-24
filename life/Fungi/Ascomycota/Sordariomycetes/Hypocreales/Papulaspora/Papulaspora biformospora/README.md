@@ -1,17 +1,16 @@
-Papulospora biformospora Kiril. SPECIES
-=======
+# Papulaspora biformospora Kiril. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikrobiol. Zh. 33(3): 303 (1971)
 
 #### Original name
-Papulospora biformospora Kiril.
+Papulaspora biformospora Kiril.
 
 ### Remarks
 null

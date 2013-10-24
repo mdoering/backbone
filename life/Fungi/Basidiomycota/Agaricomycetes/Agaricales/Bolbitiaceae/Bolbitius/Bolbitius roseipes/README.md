@@ -1,5 +1,4 @@
-Bolbitius roseipes W.F. Chin {?} SPECIES
-=======
+# Bolbitius roseipes W.F. Chin {?} SPECIES
 
 #### Status
 ACCEPTED

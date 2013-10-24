@@ -1,5 +1,4 @@
-Lecidea insperata SPECIES
-=======
+# Lecidea insperata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplasma litorale Konai et al., 1997 SPECIES
-=======
+# Spiroplasma litorale Konai et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma edwardii Tully et al., 1970 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma edwardii Tully et al., 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

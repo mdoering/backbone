@@ -1,5 +1,4 @@
-Marasmius theobromicola Murrill SPECIES
-=======
+# Marasmius theobromicola Murrill SPECIES
 
 #### Status
 ACCEPTED

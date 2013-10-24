@@ -1,5 +1,4 @@
-Phoma fuscomaculans Sacc. SPECIES
-=======
+# Phoma fuscomaculans Sacc. SPECIES
 
 #### Status
 ACCEPTED

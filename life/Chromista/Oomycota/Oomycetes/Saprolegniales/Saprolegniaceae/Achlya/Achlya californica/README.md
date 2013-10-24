@@ -1,5 +1,4 @@
-Achlya californica J.V. Harv. SPECIES
-=======
+# Achlya californica J.V. Harv. SPECIES
 
 #### Status
 ACCEPTED

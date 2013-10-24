@@ -1,5 +1,4 @@
-Theleporus Fr. GENUS
-=======
+# Theleporus Fr. GENUS
 
 #### Status
 ACCEPTED

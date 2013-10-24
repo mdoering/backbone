@@ -1,5 +1,4 @@
-Ichthyobodo necator (Henneguy, 1883) Pinto, 1928 SPECIES
-=======
+# Ichthyobodo necator (Henneguy, 1883) Pinto, 1928 SPECIES
 
 #### Status
 ACCEPTED

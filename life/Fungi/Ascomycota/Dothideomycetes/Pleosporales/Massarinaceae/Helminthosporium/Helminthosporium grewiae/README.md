@@ -1,5 +1,4 @@
-Helminthosporium grewiae Henn. SPECIES
-=======
+# Helminthosporium grewiae Henn. SPECIES
 
 #### Status
 ACCEPTED

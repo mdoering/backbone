@@ -1,5 +1,4 @@
-Marasmius bonii Pat. SPECIES
-=======
+# Marasmius bonii Pat. SPECIES
 
 #### Status
 ACCEPTED

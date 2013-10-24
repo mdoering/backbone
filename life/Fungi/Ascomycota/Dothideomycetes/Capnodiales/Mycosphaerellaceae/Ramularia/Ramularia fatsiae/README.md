@@ -1,5 +1,4 @@
-Ramularia fatsiae U. Braun SPECIES
-=======
+# Ramularia fatsiae U. Braun SPECIES
 
 #### Status
 ACCEPTED

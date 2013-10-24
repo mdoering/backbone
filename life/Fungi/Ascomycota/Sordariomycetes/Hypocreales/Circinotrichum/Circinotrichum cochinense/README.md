@@ -1,17 +1,16 @@
-Circinotrichum cochinensis V.G. Rao & Varghese SPECIES
-=======
+# Circinotrichum cochinense V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 3(2-3): 296 (1988)
 
 #### Original name
-Circinotrichum cochinensis V.G. Rao & Varghese
+Circinotrichum cochinense V.G. Rao & Varghese
 
 ### Remarks
 null

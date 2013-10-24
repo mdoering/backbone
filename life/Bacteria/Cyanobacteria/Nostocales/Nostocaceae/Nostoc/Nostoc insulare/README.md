@@ -1,5 +1,4 @@
-Nostoc insulare Borzi SPECIES
-=======
+# Nostoc insulare Borzi SPECIES
 
 #### Status
 ACCEPTED

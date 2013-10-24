@@ -1,5 +1,4 @@
-Valsa diospyri Ellis & Everh. SPECIES
-=======
+# Valsa diospyri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

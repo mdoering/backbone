@@ -1,5 +1,4 @@
-Marssonina ipomoeae (Cooke & Massee) Magnus SPECIES
-=======
+# Marssonina ipomoeae (Cooke & Massee) Magnus SPECIES
 
 #### Status
 ACCEPTED

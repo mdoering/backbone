@@ -1,5 +1,4 @@
-Nolanea delicatula Peck SPECIES
-=======
+# Nolanea delicatula Peck SPECIES
 
 #### Status
 ACCEPTED

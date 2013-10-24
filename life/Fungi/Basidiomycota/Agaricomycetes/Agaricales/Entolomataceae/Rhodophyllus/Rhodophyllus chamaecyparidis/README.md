@@ -1,8 +1,7 @@
-Rhodophyllus chamaecyparis Hongo SPECIES
-=======
+# Rhodophyllus chamaecyparidis Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhodophyllus chamaecyparis Hongo
+Rhodophyllus chamaecyparidis Hongo
 
 ### Remarks
 null

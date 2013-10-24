@@ -1,5 +1,4 @@
-Muirella alascensis R. Sprague, 1959 SPECIES
-=======
+# Muirella alascensis R. Sprague, 1959 SPECIES
 
 #### Status
 ACCEPTED

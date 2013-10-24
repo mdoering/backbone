@@ -1,5 +1,4 @@
-Phyllosticta vindobonensis Thüm. SPECIES
-=======
+# Phyllosticta vindobonensis Thüm. SPECIES
 
 #### Status
 ACCEPTED

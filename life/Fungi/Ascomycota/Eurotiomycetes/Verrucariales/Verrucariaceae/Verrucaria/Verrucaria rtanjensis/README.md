@@ -1,5 +1,4 @@
-Verrucaria rtanjensis Servít SPECIES
-=======
+# Verrucaria rtanjensis Servít SPECIES
 
 #### Status
 ACCEPTED

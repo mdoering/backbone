@@ -1,5 +1,4 @@
-Camarosporium citri McAlpine SPECIES
-=======
+# Camarosporium citri McAlpine SPECIES
 
 #### Status
 ACCEPTED

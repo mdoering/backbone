@@ -1,5 +1,4 @@
-Septoria magydaridis Unamuno SPECIES
-=======
+# Septoria magydaridis Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella eucalyptorum Crous & M.J. Wingf., 2006 SPECIES
-=======
+# Mycosphaerella eucalyptorum Crous & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED

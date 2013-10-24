@@ -1,5 +1,4 @@
-Leptosphaeria daphnes Dias & Sousa da Câmara SPECIES
-=======
+# Leptosphaeria daphnes Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

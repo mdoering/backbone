@@ -1,5 +1,4 @@
-Aplosporella flacourtiae Subhedar, A. Pande & V.G. Rao SPECIES
-=======
+# Aplosporella flacourtiae Subhedar, A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

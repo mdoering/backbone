@@ -1,5 +1,4 @@
-Pyrrhospora lusitanica (Räsänen) Hafellner SPECIES
-=======
+# Pyrrhospora lusitanica (Räsänen) Hafellner SPECIES
 
 #### Status
 ACCEPTED

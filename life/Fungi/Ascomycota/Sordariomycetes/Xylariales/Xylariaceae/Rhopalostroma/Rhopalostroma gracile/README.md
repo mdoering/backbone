@@ -1,5 +1,4 @@
-Rhopalostroma gracile D. Hawksw. & Whalley, 1985 SPECIES
-=======
+# Rhopalostroma gracile D. Hawksw. & Whalley, 1985 SPECIES
 
 #### Status
 ACCEPTED

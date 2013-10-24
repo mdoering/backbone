@@ -1,5 +1,4 @@
-Caloplaca scythica Khodos. & Søchting SPECIES
-=======
+# Caloplaca scythica Khodos. & Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora crataegi anon. SPECIES
-=======
+# Cytospora crataegi anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina conglobata Berk. & Cooke SPECIES
-=======
+# Asterina conglobata Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

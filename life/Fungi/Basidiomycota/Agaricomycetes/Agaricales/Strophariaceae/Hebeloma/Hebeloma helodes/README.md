@@ -1,5 +1,4 @@
-Hebeloma helodes J. Favre, 1948 SPECIES
-=======
+# Hebeloma helodes J. Favre, 1948 SPECIES
 
 #### Status
 ACCEPTED

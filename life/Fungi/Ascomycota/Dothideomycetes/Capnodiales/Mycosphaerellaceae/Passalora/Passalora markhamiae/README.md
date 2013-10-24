@@ -1,5 +1,4 @@
-Passalora markhamiae (X.J. Liu & Y.L. Guo) U. Braun & Crous SPECIES
-=======
+# Passalora markhamiae (X.J. Liu & Y.L. Guo) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

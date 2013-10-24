@@ -1,5 +1,4 @@
-Graphis lumbricina Vain. SPECIES
-=======
+# Graphis lumbricina Vain. SPECIES
 
 #### Status
 ACCEPTED

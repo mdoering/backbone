@@ -1,5 +1,4 @@
-Poria herbicola D.V. Baxter SPECIES
-=======
+# Poria herbicola D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

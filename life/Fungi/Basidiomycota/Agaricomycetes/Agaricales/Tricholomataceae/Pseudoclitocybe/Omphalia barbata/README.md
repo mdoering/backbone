@@ -1,5 +1,4 @@
-Omphalia barbata Velen. SPECIES
-=======
+# Omphalia barbata Velen. SPECIES
 
 #### Status
 ACCEPTED

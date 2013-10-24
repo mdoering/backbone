@@ -1,5 +1,4 @@
-Cytospora forsythiae Hollós SPECIES
-=======
+# Cytospora forsythiae Hollós SPECIES
 
 #### Status
 ACCEPTED

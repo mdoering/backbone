@@ -1,5 +1,4 @@
-Exobasidium inconspicuum Nagao & Ezuka, 2006 SPECIES
-=======
+# Exobasidium inconspicuum Nagao & Ezuka, 2006 SPECIES
 
 #### Status
 ACCEPTED

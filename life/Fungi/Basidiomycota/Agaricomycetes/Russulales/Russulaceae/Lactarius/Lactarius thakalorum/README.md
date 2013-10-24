@@ -1,5 +1,4 @@
-Lactarius thakalorum Bills & Cotter SPECIES
-=======
+# Lactarius thakalorum Bills & Cotter SPECIES
 
 #### Status
 ACCEPTED

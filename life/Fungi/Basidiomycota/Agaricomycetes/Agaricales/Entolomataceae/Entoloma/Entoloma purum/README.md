@@ -1,5 +1,4 @@
-Entoloma purum E. Horak & Desjardin SPECIES
-=======
+# Entoloma purum E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

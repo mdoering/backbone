@@ -1,5 +1,4 @@
-Leptosphaeria weimeri Shoemaker, C.E. Babc. & J.A.G. Irwin SPECIES
-=======
+# Leptosphaeria weimeri Shoemaker, C.E. Babc. & J.A.G. Irwin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnodium rehmii (Feltgen) Höhn. SPECIES
-=======
+# Capnodium rehmii (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

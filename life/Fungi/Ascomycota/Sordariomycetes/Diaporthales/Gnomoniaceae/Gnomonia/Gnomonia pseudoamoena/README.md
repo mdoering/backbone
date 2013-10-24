@@ -1,5 +1,4 @@
-Gnomonia pseudoamoena M. Monod, 1983 SPECIES
-=======
+# Gnomonia pseudoamoena M. Monod, 1983 SPECIES
 
 #### Status
 ACCEPTED

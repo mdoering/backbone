@@ -1,5 +1,4 @@
-Tremella lilacea Bandoni & J. Carranza SPECIES
-=======
+# Tremella lilacea Bandoni & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

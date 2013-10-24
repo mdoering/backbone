@@ -1,5 +1,4 @@
-Parmeliella suringari Müll. Arg. SPECIES
-=======
+# Parmeliella suringari Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

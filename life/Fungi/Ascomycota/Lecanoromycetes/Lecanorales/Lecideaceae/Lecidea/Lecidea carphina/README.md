@@ -1,5 +1,4 @@
-Lecidea carphina Ach. SPECIES
-=======
+# Lecidea carphina Ach. SPECIES
 
 #### Status
 ACCEPTED

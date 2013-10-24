@@ -1,5 +1,4 @@
-Sphaerella nebulosa-veneta De Not. SPECIES
-=======
+# Sphaerella nebulosa-veneta De Not. SPECIES
 
 #### Status
 ACCEPTED

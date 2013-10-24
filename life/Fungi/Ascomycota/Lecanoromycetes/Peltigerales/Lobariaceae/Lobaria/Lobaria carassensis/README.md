@@ -1,5 +1,4 @@
-Lobaria carassensis Vain. SPECIES
-=======
+# Lobaria carassensis Vain. SPECIES
 
 #### Status
 ACCEPTED

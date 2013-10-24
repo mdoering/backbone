@@ -1,14 +1,13 @@
-Tilletia serpens P. Karst., 1866 SPECIES
-=======
+# Ustilago serpens (P. Karst.) B. Lindeb., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Fenniae Exsiccati, Fasc. 6: no. 599 (1866)
+Symb. bot. upsal. 16(no. 2): 151 (1959)
 
 #### Original name
 Tilletia serpens P. Karst., 1866

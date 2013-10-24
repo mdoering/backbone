@@ -1,5 +1,4 @@
-Catapyrenium kansuense (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium kansuense (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

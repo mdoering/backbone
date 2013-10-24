@@ -1,5 +1,4 @@
-Stemonitis vesiculosa J.F. Gmel. SPECIES
-=======
+# Stemonitis vesiculosa J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

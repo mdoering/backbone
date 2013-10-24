@@ -1,14 +1,13 @@
-Phanerochaete omnivorum (Shear) Burds. & Nakasone SPECIES
-=======
+# Phanerochaete omnivora (Shear) Burds. & Nakasone, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(1): 17 (1978)
 
 #### Original name
 Hydnum omnivorum Shear, 1925

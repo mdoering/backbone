@@ -1,5 +1,4 @@
-Lempholemma maritimum (Taylor) Müll. Arg. SPECIES
-=======
+# Lempholemma maritimum (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

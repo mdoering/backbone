@@ -1,14 +1,13 @@
-Acrospeira fluctuata Tandon & Bilgrami, 1961 SPECIES
-=======
+# Monodictys fluctuata (Tandon & Bilgrami) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sci. Cult. 27: 408 (1961)
+Mycol. Pap. 125: 5 (1971)
 
 #### Original name
 Acrospeira fluctuata Tandon & Bilgrami, 1961

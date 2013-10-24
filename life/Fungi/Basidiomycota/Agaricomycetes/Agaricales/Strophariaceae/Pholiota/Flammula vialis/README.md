@@ -1,5 +1,4 @@
-Flammula vialis Murrill SPECIES
-=======
+# Flammula vialis Murrill SPECIES
 
 #### Status
 ACCEPTED

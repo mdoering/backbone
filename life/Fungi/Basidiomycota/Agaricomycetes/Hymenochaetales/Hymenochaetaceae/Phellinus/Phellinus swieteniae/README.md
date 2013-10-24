@@ -1,14 +1,13 @@
-Fulvifomes swieteniae Murrill, 1915 SPECIES
-=======
+# Phellinus swieteniae (Murrill) S. Herrera & Bondartseva, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tropical Polypores 87 (1915)
+in Bondartseva & Herrera, Mikol. Fitopatol. 14(1): 9 (1980)
 
 #### Original name
 Fulvifomes swieteniae Murrill, 1915

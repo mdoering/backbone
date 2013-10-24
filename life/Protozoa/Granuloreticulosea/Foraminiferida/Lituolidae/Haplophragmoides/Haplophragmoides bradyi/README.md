@@ -1,5 +1,4 @@
-Haplophragmoides bradyi SPECIES
-=======
+# Haplophragmoides bradyi SPECIES
 
 #### Status
 ACCEPTED

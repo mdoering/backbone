@@ -1,5 +1,4 @@
-Arthonia septemlocularis Müll. Arg. SPECIES
-=======
+# Arthonia septemlocularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

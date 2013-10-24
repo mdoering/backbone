@@ -1,5 +1,4 @@
-Schiffnerula clemensiae Petr. SPECIES
-=======
+# Schiffnerula clemensiae Petr. SPECIES
 
 #### Status
 ACCEPTED

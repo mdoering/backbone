@@ -1,5 +1,4 @@
-Rinodina carneolutea SPECIES
-=======
+# Rinodina carneolutea SPECIES
 
 #### Status
 ACCEPTED

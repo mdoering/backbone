@@ -1,5 +1,4 @@
-Stereocaulon macaronesicum Purvis & P. James SPECIES
-=======
+# Stereocaulon macaronesicum Purvis & P. James SPECIES
 
 #### Status
 ACCEPTED

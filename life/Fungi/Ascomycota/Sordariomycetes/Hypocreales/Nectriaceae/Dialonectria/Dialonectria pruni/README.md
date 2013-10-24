@@ -1,5 +1,4 @@
-Dialonectria pruni Popuschoj SPECIES
-=======
+# Dialonectria pruni Popuschoj SPECIES
 
 #### Status
 ACCEPTED

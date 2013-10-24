@@ -1,5 +1,4 @@
-Lecidea pycnocarpiza Vain. SPECIES
-=======
+# Lecidea pycnocarpiza Vain. SPECIES
 
 #### Status
 ACCEPTED

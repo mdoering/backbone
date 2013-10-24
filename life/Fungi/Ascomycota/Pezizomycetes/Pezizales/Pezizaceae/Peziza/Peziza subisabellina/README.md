@@ -1,17 +1,16 @@
-Peziza subisabellina var. subisabellina VARIETY
-=======
+# Peziza subisabellina P. Blank, Häffner & Hohmeyer, 1993 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rheinl. -Pfälz. Pilzj. 3(1): 43 (1993)
 
 #### Original name
-Peziza subisabellina var. subisabellina
+Aleuria isabellina Boud., 1907
 
 ### Remarks
 null

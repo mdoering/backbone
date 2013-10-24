@@ -1,5 +1,4 @@
-Monodus coccomyxoides Pascher SPECIES
-=======
+# Monodus coccomyxoides Pascher SPECIES
 
 #### Status
 ACCEPTED

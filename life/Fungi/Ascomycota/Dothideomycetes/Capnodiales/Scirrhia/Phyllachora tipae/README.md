@@ -1,5 +1,4 @@
-Phyllachora tipae Speg., 1898 SPECIES
-=======
+# Phyllachora tipae Speg., 1898 SPECIES
 
 #### Status
 DOUBTFUL

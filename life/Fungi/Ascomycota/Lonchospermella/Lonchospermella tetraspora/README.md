@@ -1,5 +1,4 @@
-Lonchospermella tetraspora Speg. SPECIES
-=======
+# Lonchospermella tetraspora Speg. SPECIES
 
 #### Status
 ACCEPTED

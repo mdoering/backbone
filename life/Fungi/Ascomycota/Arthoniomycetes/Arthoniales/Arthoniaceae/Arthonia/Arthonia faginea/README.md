@@ -1,5 +1,4 @@
-Arthonia faginea Müll. Arg. SPECIES
-=======
+# Arthonia faginea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

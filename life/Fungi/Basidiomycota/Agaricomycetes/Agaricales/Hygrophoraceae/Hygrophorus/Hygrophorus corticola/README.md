@@ -1,5 +1,4 @@
-Hygrophorus corticola (Feltgen) Sacc. & Trotter SPECIES
-=======
+# Hygrophorus corticola (Feltgen) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

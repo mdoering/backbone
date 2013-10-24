@@ -1,5 +1,4 @@
-Haemohormidium cotti Henry, 1910 SPECIES
-=======
+# Haemohormidium cotti Henry, 1910 SPECIES
 
 #### Status
 ACCEPTED

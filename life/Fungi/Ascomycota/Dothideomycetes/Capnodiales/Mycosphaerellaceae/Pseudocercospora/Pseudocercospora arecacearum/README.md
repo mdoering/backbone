@@ -1,5 +1,4 @@
-Pseudocercospora arecacearum U. Braun & C.F. Hill, 2006 SPECIES
-=======
+# Pseudocercospora arecacearum U. Braun & C.F. Hill, 2006 SPECIES
 
 #### Status
 ACCEPTED

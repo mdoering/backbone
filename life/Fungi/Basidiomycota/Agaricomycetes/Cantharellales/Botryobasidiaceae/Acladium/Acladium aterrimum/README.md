@@ -1,5 +1,4 @@
-Acladium aterrimum (Ehrenb.) S. Hughes SPECIES
-=======
+# Acladium aterrimum (Ehrenb.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

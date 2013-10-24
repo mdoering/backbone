@@ -1,5 +1,4 @@
-Lecanora lapponica (Hue) Zahlbr. SPECIES
-=======
+# Lecanora lapponica (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

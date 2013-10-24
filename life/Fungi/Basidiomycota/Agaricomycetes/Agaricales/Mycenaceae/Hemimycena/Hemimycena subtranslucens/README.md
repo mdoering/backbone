@@ -1,5 +1,4 @@
-Hemimycena subtranslucens (Dennis) Dennis SPECIES
-=======
+# Hemimycena subtranslucens (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea atrogelatinosa Dingley, 1956 SPECIES
-=======
+# Hypocrea atrogelatinosa Dingley, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma meridianum A. Pearson SPECIES
-=======
+# Tricholoma meridianum A. Pearson SPECIES
 
 #### Status
 ACCEPTED

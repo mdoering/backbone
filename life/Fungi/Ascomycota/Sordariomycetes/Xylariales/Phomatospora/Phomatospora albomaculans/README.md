@@ -1,5 +1,4 @@
-Phomatospora albomaculans Tak. Kobay. & K. Sasaki SPECIES
-=======
+# Phomatospora albomaculans Tak. Kobay. & K. Sasaki SPECIES
 
 #### Status
 ACCEPTED

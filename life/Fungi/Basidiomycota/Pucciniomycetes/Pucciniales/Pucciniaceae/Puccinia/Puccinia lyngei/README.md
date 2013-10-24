@@ -1,5 +1,4 @@
-Puccinia lyngei Jørst. SPECIES
-=======
+# Puccinia lyngei Jørst. SPECIES
 
 #### Status
 ACCEPTED

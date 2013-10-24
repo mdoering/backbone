@@ -1,5 +1,4 @@
-Sarcographa thoroldi C.W. Dodge SPECIES
-=======
+# Sarcographa thoroldi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

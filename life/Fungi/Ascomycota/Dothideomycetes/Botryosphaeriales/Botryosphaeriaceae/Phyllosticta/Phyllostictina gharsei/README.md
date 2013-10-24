@@ -1,17 +1,16 @@
-Phyllostictina gharsii S.B. Thakur SPECIES
-=======
+# Phyllostictina gharsei S.B. Thakur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 42(9): 329 (1973)
 
 #### Original name
-Phyllostictina gharsii S.B. Thakur
+Phyllostictina gharsei S.B. Thakur
 
 ### Remarks
 null

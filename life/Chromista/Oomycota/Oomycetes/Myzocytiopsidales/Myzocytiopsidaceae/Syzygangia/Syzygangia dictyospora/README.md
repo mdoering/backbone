@@ -1,5 +1,4 @@
-Syzygangia dictyospora M.W. Dick, 1997 SPECIES
-=======
+# Syzygangia dictyospora M.W. Dick, 1997 SPECIES
 
 #### Status
 ACCEPTED

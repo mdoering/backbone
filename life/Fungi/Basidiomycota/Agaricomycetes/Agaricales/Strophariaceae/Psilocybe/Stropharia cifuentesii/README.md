@@ -1,5 +1,4 @@
-Stropharia cifuentesii Bandala, Montoya & Jarvio SPECIES
-=======
+# Stropharia cifuentesii Bandala, Montoya & Jarvio SPECIES
 
 #### Status
 ACCEPTED

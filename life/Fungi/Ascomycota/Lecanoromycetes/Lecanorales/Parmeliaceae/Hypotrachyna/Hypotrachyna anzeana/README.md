@@ -1,5 +1,4 @@
-Hypotrachyna anzeana Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna anzeana Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

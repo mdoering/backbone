@@ -1,8 +1,7 @@
-Monilia kenyaensis De Smidt SPECIES
-=======
+# Monilia kenyensis De Smidt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monilia kenyaensis De Smidt
+Monilia kenyensis De Smidt
 
 ### Remarks
 null

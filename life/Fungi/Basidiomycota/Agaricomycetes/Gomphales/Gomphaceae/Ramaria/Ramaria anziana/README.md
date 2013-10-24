@@ -1,5 +1,4 @@
-Ramaria anziana R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria anziana R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

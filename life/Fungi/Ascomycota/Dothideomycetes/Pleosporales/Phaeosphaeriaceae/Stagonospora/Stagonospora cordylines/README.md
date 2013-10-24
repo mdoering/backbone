@@ -1,5 +1,4 @@
-Stagonospora cordylines Tassi SPECIES
-=======
+# Stagonospora cordylines Tassi SPECIES
 
 #### Status
 ACCEPTED

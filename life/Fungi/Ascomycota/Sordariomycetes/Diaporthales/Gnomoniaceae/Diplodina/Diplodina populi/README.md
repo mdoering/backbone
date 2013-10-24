@@ -1,5 +1,4 @@
-Diplodina populi Ellis & Everh. SPECIES
-=======
+# Diplodina populi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

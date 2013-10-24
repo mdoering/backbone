@@ -1,5 +1,4 @@
-Buellia tyrolensis Körb. SPECIES
-=======
+# Buellia tyrolensis Körb. SPECIES
 
 #### Status
 ACCEPTED

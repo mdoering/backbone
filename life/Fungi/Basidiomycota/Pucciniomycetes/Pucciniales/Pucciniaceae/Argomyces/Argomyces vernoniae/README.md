@@ -1,5 +1,4 @@
-Argomyces vernoniae Arthur SPECIES
-=======
+# Argomyces vernoniae Arthur SPECIES
 
 #### Status
 ACCEPTED

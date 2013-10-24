@@ -1,5 +1,4 @@
-Synuridae FAMILY
-=======
+# Synuridae FAMILY
 
 #### Status
 ACCEPTED

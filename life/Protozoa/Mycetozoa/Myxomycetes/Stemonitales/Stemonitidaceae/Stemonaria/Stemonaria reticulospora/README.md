@@ -1,5 +1,4 @@
-Stemonaria reticulospora Nann.-Bremek., R. Sharma & K.S. Thind, 1984 SPECIES
-=======
+# Stemonaria reticulospora Nann.-Bremek., R. Sharma & K.S. Thind, 1984 SPECIES
 
 #### Status
 ACCEPTED

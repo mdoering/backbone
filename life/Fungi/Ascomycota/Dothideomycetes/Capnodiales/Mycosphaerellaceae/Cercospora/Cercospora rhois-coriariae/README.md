@@ -1,5 +1,4 @@
-Cercospora rhois-coriariae Kuhnh.-Lord. SPECIES
-=======
+# Cercospora rhois-coriariae Kuhnh.-Lord. SPECIES
 
 #### Status
 ACCEPTED

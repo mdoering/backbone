@@ -1,5 +1,4 @@
-Clitocybe metria Berk. & Broome SPECIES
-=======
+# Clitocybe metria Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

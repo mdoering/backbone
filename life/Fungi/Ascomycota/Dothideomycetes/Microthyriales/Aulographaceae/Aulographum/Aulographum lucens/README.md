@@ -1,5 +1,4 @@
-Aulographum lucens Harkn. SPECIES
-=======
+# Aulographum lucens Harkn. SPECIES
 
 #### Status
 ACCEPTED

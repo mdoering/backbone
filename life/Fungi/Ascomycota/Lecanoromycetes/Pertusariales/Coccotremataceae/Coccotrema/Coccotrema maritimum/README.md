@@ -1,5 +1,4 @@
-Coccotrema maritimum Brodo SPECIES
-=======
+# Coccotrema maritimum Brodo SPECIES
 
 #### Status
 ACCEPTED

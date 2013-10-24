@@ -1,5 +1,4 @@
-Mycosphaerella salicis Jaap, 1916 SPECIES
-=======
+# Mycosphaerella salicis Jaap, 1916 SPECIES
 
 #### Status
 ACCEPTED

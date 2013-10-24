@@ -1,5 +1,4 @@
-Hemiophrya microsoma (Maupas, 1876) Kent, 1882 SPECIES
-=======
+# Hemiophrya microsoma (Maupas, 1876) Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanographium spleniosporum Sacc., 1913 SPECIES
-=======
+# Melanographium spleniosporum Sacc., 1913 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhynchophrya Collin, 1909 GENUS
-=======
+# Rhynchophrya Collin, 1909 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia punctoidea P. Karst. SPECIES
-=======
+# Hendersonia punctoidea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

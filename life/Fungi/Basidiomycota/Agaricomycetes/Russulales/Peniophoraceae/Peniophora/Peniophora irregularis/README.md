@@ -1,5 +1,4 @@
-Peniophora irregularis Burt SPECIES
-=======
+# Peniophora irregularis Burt SPECIES
 
 #### Status
 ACCEPTED

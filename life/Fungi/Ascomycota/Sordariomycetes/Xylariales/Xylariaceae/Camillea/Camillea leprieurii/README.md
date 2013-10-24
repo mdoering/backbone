@@ -1,14 +1,13 @@
-Hypoxylon leprieurii (Mont.) Mont., 1840 SPECIES
-=======
+# Camillea leprieurii Mont., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 13: 352 (1840)
+Summa veg. Scand. (Stockholm), Section Post. 382 (1849)
 
 #### Original name
 Camillea leprieurii Mont., 1849

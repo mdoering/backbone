@@ -1,5 +1,4 @@
-Rhynchostoma P. Karst. GENUS
-=======
+# Rhynchostoma P. Karst. GENUS
 
 #### Status
 ACCEPTED

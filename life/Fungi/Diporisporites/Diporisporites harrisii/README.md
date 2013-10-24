@@ -1,5 +1,4 @@
-Diporisporites harrisii (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites harrisii (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

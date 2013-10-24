@@ -1,5 +1,4 @@
-Caloplaca alnetorum Giralt, Nimis & Poelt SPECIES
-=======
+# Caloplaca alnetorum Giralt, Nimis & Poelt SPECIES
 
 #### Status
 ACCEPTED

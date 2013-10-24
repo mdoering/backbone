@@ -1,5 +1,4 @@
-Valvulineria mexicana SPECIES
-=======
+# Valvulineria mexicana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus michiganensis A.H. Sm. SPECIES
-=======
+# Pluteus michiganensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

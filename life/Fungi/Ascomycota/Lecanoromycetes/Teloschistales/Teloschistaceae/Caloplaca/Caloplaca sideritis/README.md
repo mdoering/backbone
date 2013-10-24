@@ -1,5 +1,4 @@
-Caloplaca sideritis (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca sideritis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita fusco-olivacea Kühner SPECIES
-=======
+# Amanita fusco-olivacea Kühner SPECIES
 
 #### Status
 ACCEPTED

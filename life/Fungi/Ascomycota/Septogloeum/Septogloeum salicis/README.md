@@ -1,5 +1,4 @@
-Septogloeum salicis Christoff & Christova SPECIES
-=======
+# Septogloeum salicis Christoff & Christova SPECIES
 
 #### Status
 ACCEPTED

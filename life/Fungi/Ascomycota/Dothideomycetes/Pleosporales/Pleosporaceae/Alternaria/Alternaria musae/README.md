@@ -1,5 +1,4 @@
-Alternaria musae Bouriquet & Bataille SPECIES
-=======
+# Alternaria musae Bouriquet & Bataille SPECIES
 
 #### Status
 ACCEPTED

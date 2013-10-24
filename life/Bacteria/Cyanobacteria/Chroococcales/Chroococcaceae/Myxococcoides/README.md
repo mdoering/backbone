@@ -1,5 +1,4 @@
-Myxococcoides J.W.Schopf, 1968 GENUS
-=======
+# Myxococcoides J.W.Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia goessi Cushman, 1911 SPECIES
-=======
+# Textularia goessi Cushman, 1911 SPECIES
 
 #### Status
 ACCEPTED

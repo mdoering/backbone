@@ -1,5 +1,4 @@
-Volutella citrulli Stoneman SPECIES
-=======
+# Volutella citrulli Stoneman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaeria interpilosa Fairm. SPECIES
-=======
+# Trichosphaeria interpilosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endomyces ascobolus Bach.-Raich. SPECIES
-=======
+# Endomyces ascobolus Bach.-Raich. SPECIES
 
 #### Status
 ACCEPTED

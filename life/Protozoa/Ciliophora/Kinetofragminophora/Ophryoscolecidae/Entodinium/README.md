@@ -1,5 +1,4 @@
-Entodinium Stein, 1858 GENUS
-=======
+# Entodinium Stein, 1858 GENUS
 
 #### Status
 ACCEPTED

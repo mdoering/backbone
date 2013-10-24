@@ -1,5 +1,4 @@
-Conocybe brunneoaurantiaca K.A. Thomas, Hauskn. & Manim. SPECIES
-=======
+# Conocybe brunneoaurantiaca K.A. Thomas, Hauskn. & Manim. SPECIES
 
 #### Status
 ACCEPTED

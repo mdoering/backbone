@@ -1,5 +1,4 @@
-Hydnangium glabrum Rodway SPECIES
-=======
+# Hydnangium glabrum Rodway SPECIES
 
 #### Status
 ACCEPTED

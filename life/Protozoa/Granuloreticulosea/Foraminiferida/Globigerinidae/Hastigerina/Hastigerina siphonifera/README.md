@@ -1,5 +1,4 @@
-Hastigerina siphonifera SPECIES
-=======
+# Hastigerina siphonifera SPECIES
 
 #### Status
 ACCEPTED

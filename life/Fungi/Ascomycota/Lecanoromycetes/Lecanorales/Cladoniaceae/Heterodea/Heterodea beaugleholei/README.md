@@ -1,5 +1,4 @@
-Heterodea beaugleholei Filson SPECIES
-=======
+# Heterodea beaugleholei Filson SPECIES
 
 #### Status
 ACCEPTED

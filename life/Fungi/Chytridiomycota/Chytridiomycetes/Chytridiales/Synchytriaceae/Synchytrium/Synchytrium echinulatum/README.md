@@ -1,5 +1,4 @@
-Synchytrium echinulatum Karling SPECIES
-=======
+# Synchytrium echinulatum Karling SPECIES
 
 #### Status
 ACCEPTED

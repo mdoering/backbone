@@ -1,5 +1,4 @@
-Megalotremis cauliflora Aptroot, Sérus. & Lücking SPECIES
-=======
+# Megalotremis cauliflora Aptroot, Sérus. & Lücking SPECIES
 
 #### Status
 ACCEPTED

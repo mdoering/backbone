@@ -1,5 +1,4 @@
-Ramalina siliquosa var. siliquosa VARIETY
-=======
+# Ramalina siliquosa (Huds.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Brit. Lich. 1: 172 (1918)
 
 #### Original name
-Ramalina siliquosa var. siliquosa
+Lichen siliquosus Huds.
 
 ### Remarks
 null

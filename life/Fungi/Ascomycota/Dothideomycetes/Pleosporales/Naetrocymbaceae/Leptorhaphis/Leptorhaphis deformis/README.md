@@ -1,5 +1,4 @@
-Leptorhaphis deformis Norman SPECIES
-=======
+# Leptorhaphis deformis Norman SPECIES
 
 #### Status
 ACCEPTED

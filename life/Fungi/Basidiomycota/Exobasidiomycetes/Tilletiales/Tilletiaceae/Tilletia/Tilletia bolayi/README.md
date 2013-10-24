@@ -1,5 +1,4 @@
-Tilletia bolayi H. Zogg SPECIES
-=======
+# Tilletia bolayi H. Zogg SPECIES
 
 #### Status
 ACCEPTED

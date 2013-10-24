@@ -1,5 +1,4 @@
-Rhynchosporina Arx GENUS
-=======
+# Rhynchosporina Arx GENUS
 
 #### Status
 ACCEPTED

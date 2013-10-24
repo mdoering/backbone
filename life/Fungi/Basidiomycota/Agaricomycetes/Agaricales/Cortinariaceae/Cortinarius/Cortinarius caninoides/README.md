@@ -1,5 +1,4 @@
-Cortinarius caninoides var. confertifolius Rob. Henry VARIETY
-=======
+# Cortinarius caninoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Docums Mycol. 16(no. 61): 26 (1985)
+Flora Polska (Warszawa-Kraków), Grzyby (Mycota). Basidiomycetes, Agaricales, Cortinariaceae, Cortinarius II 14: 193 (1981)
 
 #### Original name
-Cortinarius caninoides var. confertifolius Rob. Henry
+Cortinarius caninoides Rob. Henry
 
 ### Remarks
 null

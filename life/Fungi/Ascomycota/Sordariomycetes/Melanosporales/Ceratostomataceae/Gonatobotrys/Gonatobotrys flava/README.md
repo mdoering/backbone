@@ -1,17 +1,16 @@
-Gonatobotrys flava var. flava VARIETY
-=======
+# Gonatobotrys flava Bonord., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Handb. Allgem. mykol. (Stuttgart) 105 (1851)
 
 #### Original name
-Gonatobotrys flava var. flava
+Gonatobotrys flava Bonord., 1851
 
 ### Remarks
 null

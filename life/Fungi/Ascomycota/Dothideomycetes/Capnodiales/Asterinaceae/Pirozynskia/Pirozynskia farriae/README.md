@@ -1,5 +1,4 @@
-Pirozynskia farriae Subram., 1972 SPECIES
-=======
+# Pirozynskia farriae Subram., 1972 SPECIES
 
 #### Status
 ACCEPTED

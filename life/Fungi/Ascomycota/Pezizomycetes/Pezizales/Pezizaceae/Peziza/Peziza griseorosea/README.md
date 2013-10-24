@@ -1,5 +1,4 @@
-Peziza griseorosea W.R. Gerard SPECIES
-=======
+# Peziza griseorosea W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

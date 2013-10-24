@@ -1,5 +1,4 @@
-Dermatocarpon amylaceum (A. Massal.) Zahlbr. SPECIES
-=======
+# Dermatocarpon amylaceum (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella cynodontis Sacc. SPECIES
-=======
+# Leptostromella cynodontis Sacc. SPECIES
 
 #### Status
 ACCEPTED

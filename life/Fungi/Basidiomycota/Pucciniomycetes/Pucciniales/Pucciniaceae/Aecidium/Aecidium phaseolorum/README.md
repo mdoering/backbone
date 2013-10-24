@@ -1,5 +1,4 @@
-Aecidium phaseolorum Wallr. SPECIES
-=======
+# Aecidium phaseolorum Wallr. SPECIES
 
 #### Status
 ACCEPTED

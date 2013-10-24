@@ -1,5 +1,4 @@
-Gyalecta kibiensis H. Harada & Yoshim. SPECIES
-=======
+# Gyalecta kibiensis H. Harada & Yoshim. SPECIES
 
 #### Status
 ACCEPTED

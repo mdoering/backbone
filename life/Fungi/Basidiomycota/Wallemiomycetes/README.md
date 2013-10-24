@@ -1,5 +1,4 @@
-Wallemiomycetes Zalar, de Hoog & Schroers CLASS
-=======
+# Wallemiomycetes Zalar, de Hoog & Schroers CLASS
 
 #### Status
 ACCEPTED

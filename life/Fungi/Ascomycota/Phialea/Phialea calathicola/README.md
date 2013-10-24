@@ -1,5 +1,4 @@
-Phialea calathicola (Rehm) Sacc. SPECIES
-=======
+# Phialea calathicola (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

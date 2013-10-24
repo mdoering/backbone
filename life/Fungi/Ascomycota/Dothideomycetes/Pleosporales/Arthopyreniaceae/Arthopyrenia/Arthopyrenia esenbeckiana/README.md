@@ -1,5 +1,4 @@
-Arthopyrenia esenbeckiana (Fée) R.C. Harris SPECIES
-=======
+# Arthopyrenia esenbeckiana (Fée) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

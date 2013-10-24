@@ -1,5 +1,4 @@
-Nadelospora GENUS
-=======
+# Nadelospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discorbis byramensis Cushman SPECIES
-=======
+# Discorbis byramensis Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merrilliopeltis tayabensis H.S. Yates SPECIES
-=======
+# Merrilliopeltis tayabensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

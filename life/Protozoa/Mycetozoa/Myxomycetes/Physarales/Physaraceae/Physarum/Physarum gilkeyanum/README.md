@@ -1,5 +1,4 @@
-Physarum gilkeyanum H.C. Gilbert, 1932 SPECIES
-=======
+# Physarum gilkeyanum H.C. Gilbert, 1932 SPECIES
 
 #### Status
 ACCEPTED

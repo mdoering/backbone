@@ -1,5 +1,4 @@
-Septoria pipulae Cooke SPECIES
-=======
+# Septoria pipulae Cooke SPECIES
 
 #### Status
 ACCEPTED

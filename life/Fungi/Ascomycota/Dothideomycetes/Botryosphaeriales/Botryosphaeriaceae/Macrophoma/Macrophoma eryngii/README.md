@@ -1,5 +1,4 @@
-Macrophoma eryngii Politis SPECIES
-=======
+# Macrophoma eryngii Politis SPECIES
 
 #### Status
 ACCEPTED

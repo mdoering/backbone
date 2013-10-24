@@ -1,5 +1,4 @@
-Marasmius pseudocollinus (Singer) Singer SPECIES
-=======
+# Marasmius pseudocollinus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

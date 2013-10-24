@@ -1,5 +1,4 @@
-Strumella steganosporioides Ellis & Everh. SPECIES
-=======
+# Strumella steganosporioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

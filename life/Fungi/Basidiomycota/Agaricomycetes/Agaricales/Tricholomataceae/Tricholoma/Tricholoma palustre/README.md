@@ -1,5 +1,4 @@
-Tricholoma palustre A.H. Sm. SPECIES
-=======
+# Tricholoma palustre A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

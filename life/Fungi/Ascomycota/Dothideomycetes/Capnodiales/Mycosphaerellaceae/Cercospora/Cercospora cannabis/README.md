@@ -1,5 +1,4 @@
-Cercospora cannabis (Hara) Chupp SPECIES
-=======
+# Cercospora cannabis (Hara) Chupp SPECIES
 
 #### Status
 ACCEPTED

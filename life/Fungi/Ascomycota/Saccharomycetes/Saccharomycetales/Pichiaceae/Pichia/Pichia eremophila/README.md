@@ -1,17 +1,16 @@
-Candida eremophila Phaff, Starmer & Tredick, 1987 SPECIES
-=======
+# Pichia eremophila (Phaff, Starmer & Tredick) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 941 (2008)
 
 #### Original name
-null
+Pichia kluyveri var. eremophila Phaff, Starmer & Tredick, 1987
 
 ### Remarks
 null

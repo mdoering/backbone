@@ -1,5 +1,4 @@
-Lichina polycarpa Henssen SPECIES
-=======
+# Lichina polycarpa Henssen SPECIES
 
 #### Status
 ACCEPTED

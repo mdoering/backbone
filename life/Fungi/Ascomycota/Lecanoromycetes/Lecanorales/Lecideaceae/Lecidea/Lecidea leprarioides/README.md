@@ -1,14 +1,13 @@
-Lecidea turgidula var. pulveracea Th. Fr. VARIETY
-=======
+# Lecidea leprarioides Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sommerfeltia 14: 173 (1992)
 
 #### Original name
 Lecidea turgidula var. pulveracea Th. Fr.

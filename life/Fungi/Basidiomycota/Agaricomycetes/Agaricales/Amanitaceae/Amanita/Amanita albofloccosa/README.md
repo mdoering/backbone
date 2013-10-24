@@ -1,5 +1,4 @@
-Amanita albofloccosa Sathe & S.D. Deshp. SPECIES
-=======
+# Amanita albofloccosa Sathe & S.D. Deshp. SPECIES
 
 #### Status
 ACCEPTED

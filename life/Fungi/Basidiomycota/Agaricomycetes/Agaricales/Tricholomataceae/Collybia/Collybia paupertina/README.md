@@ -1,5 +1,4 @@
-Collybia paupertina A. Pearson SPECIES
-=======
+# Collybia paupertina A. Pearson SPECIES
 
 #### Status
 ACCEPTED

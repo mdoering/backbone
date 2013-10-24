@@ -1,5 +1,4 @@
-Marasmius ilicicola Desjardin SPECIES
-=======
+# Marasmius ilicicola Desjardin SPECIES
 
 #### Status
 ACCEPTED

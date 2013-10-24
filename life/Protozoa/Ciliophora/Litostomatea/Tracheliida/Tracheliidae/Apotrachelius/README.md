@@ -1,5 +1,4 @@
-Apotrachelius GENUS
-=======
+# Apotrachelius GENUS
 
 #### Status
 ACCEPTED

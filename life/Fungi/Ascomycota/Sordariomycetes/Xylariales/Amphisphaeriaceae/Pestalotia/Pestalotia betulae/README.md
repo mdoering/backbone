@@ -1,17 +1,16 @@
-Pestalozzia betulae Morochk. SPECIES
-=======
+# Pestalotia betulae Morochk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. Acad. Sci. RSS Ukraine 2(3-4): 183 (1946)
 
 #### Original name
-Pestalozzia betulae Morochk.
+Pestalotia betulae Morochk.
 
 ### Remarks
 null

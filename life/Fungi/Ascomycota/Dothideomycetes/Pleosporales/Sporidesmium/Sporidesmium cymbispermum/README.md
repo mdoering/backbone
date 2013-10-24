@@ -1,5 +1,4 @@
-Sporidesmium cymbispermum P.M. Kirk, 1983 SPECIES
-=======
+# Sporidesmium cymbispermum P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

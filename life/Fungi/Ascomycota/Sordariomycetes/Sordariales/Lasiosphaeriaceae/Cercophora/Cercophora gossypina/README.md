@@ -1,5 +1,4 @@
-Cercophora gossypina N. Lundq. SPECIES
-=======
+# Cercophora gossypina N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

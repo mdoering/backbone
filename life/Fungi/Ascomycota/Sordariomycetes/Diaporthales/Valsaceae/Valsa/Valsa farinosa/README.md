@@ -1,5 +1,4 @@
-Valsa farinosa Feltgen SPECIES
-=======
+# Valsa farinosa Feltgen SPECIES
 
 #### Status
 ACCEPTED

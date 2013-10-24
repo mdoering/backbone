@@ -1,5 +1,4 @@
-Truncatella suffocata (Ellis & Everh.) Kausar SPECIES
-=======
+# Truncatella suffocata (Ellis & Everh.) Kausar SPECIES
 
 #### Status
 ACCEPTED

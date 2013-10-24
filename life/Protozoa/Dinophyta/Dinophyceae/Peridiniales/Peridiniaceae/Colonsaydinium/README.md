@@ -1,5 +1,4 @@
-Colonsaydinium C.O. Hunt in C.O. Hunt, M.V. Andrews & D.D. Gilbertson, 1985 GENUS
-=======
+# Colonsaydinium C.O. Hunt in C.O. Hunt, M.V. Andrews & D.D. Gilbertson, 1985 GENUS
 
 #### Status
 ACCEPTED

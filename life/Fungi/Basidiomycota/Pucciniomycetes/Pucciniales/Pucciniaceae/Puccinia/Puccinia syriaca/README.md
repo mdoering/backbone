@@ -1,5 +1,4 @@
-Puccinia syriaca P. Syd. & Syd. SPECIES
-=======
+# Puccinia syriaca P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

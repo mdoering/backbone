@@ -1,5 +1,4 @@
-Micropeltella alchorneae Hansf. SPECIES
-=======
+# Micropeltella alchorneae Hansf. SPECIES
 
 #### Status
 ACCEPTED

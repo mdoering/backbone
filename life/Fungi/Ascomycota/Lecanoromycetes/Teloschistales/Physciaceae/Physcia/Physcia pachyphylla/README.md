@@ -1,5 +1,4 @@
-Physcia pachyphylla Müll. Arg. SPECIES
-=======
+# Physcia pachyphylla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

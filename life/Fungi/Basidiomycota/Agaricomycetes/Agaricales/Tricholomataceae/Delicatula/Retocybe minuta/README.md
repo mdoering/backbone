@@ -1,5 +1,4 @@
-Retocybe minuta Velen. SPECIES
-=======
+# Retocybe minuta Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeogalera medullosa (Bres.) M.M. Moser SPECIES
-=======
+# Phaeogalera medullosa (Bres.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

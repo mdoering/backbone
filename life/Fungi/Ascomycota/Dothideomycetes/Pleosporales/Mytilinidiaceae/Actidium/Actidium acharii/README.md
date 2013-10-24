@@ -1,5 +1,4 @@
-Actidium acharii Fr. SPECIES
-=======
+# Actidium acharii Fr. SPECIES
 
 #### Status
 ACCEPTED

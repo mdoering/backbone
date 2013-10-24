@@ -1,8 +1,7 @@
-Boletus brevipes Peck, 1885 SPECIES
-=======
+# Suillus brevipes (Peck) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

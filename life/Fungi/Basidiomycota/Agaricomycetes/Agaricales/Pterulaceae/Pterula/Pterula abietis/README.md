@@ -1,5 +1,4 @@
-Pterula abietis Lloyd SPECIES
-=======
+# Pterula abietis Lloyd SPECIES
 
 #### Status
 ACCEPTED

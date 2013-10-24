@@ -1,5 +1,4 @@
-Phaeoseptoria paulowniae Dadwal, Soni & Jamaluddin SPECIES
-=======
+# Phaeoseptoria paulowniae Dadwal, Soni & Jamaluddin SPECIES
 
 #### Status
 ACCEPTED

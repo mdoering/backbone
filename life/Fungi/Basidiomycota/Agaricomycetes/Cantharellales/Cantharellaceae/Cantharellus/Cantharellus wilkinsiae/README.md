@@ -1,17 +1,16 @@
-Cantharellus wilkinsae Morse SPECIES
-=======
+# Cantharellus wilkinsiae Morse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 39(5): 528 (1947)
 
 #### Original name
-Cantharellus wilkinsae Morse
+Cantharellus wilkinsiae Morse
 
 ### Remarks
 null

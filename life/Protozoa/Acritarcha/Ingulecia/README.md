@@ -1,5 +1,4 @@
-Ingulecia B.V. Timofeev, 1982 GENUS
-=======
+# Ingulecia B.V. Timofeev, 1982 GENUS
 
 #### Status
 ACCEPTED

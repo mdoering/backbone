@@ -1,5 +1,4 @@
-Scytonema viarium Kuetzing SPECIES
-=======
+# Scytonema viarium Kuetzing SPECIES
 
 #### Status
 ACCEPTED

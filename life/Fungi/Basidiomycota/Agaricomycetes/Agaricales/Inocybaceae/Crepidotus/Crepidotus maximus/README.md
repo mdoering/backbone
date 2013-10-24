@@ -1,5 +1,4 @@
-Crepidotus maximus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus maximus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

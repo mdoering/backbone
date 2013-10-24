@@ -1,5 +1,4 @@
-Clypeosphaeria asparagi var. asparagi VARIETY
-=======
+# Clypeosphaeria asparagi (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clypeosphaeria asparagi var. asparagi
+Diaporthe asparagi (Fuckel) Nitschke
 
 ### Remarks
 null

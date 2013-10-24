@@ -1,5 +1,4 @@
-Coryneum populi Oudem. SPECIES
-=======
+# Coryneum populi Oudem. SPECIES
 
 #### Status
 ACCEPTED

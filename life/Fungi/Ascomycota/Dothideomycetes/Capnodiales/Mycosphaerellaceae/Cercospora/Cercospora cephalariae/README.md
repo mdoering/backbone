@@ -1,5 +1,4 @@
-Cercospora cephalariae Rayss SPECIES
-=======
+# Cercospora cephalariae Rayss SPECIES
 
 #### Status
 ACCEPTED

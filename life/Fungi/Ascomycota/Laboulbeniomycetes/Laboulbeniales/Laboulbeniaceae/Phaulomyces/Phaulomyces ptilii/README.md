@@ -1,5 +1,4 @@
-Phaulomyces ptilii T. Majewski, 1999 SPECIES
-=======
+# Phaulomyces ptilii T. Majewski, 1999 SPECIES
 
 #### Status
 ACCEPTED

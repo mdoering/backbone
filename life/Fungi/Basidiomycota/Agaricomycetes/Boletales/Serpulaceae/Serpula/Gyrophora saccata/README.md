@@ -1,5 +1,4 @@
-Gyrophora saccata (DC.) Fée SPECIES
-=======
+# Gyrophora saccata (DC.) Fée SPECIES
 
 #### Status
 ACCEPTED

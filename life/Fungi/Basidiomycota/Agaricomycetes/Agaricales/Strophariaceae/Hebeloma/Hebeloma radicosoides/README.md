@@ -1,5 +1,4 @@
-Hebeloma radicosoides Sagara, Hongo & Y. Murak. SPECIES
-=======
+# Hebeloma radicosoides Sagara, Hongo & Y. Murak. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Petersenia irregularis (Const.) Sparrow, 1943 SPECIES
-=======
+# Cornumyces irregularis (Const.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aquatic Phycomycetes 634 (1943)
+Straminipilous Fungi (Dordrecht) 327 (2001)
 
 #### Original name
 Olpidiopsis irregularis Const., 1901

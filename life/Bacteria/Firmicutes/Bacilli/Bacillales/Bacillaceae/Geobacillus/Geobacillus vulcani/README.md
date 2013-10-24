@@ -1,8 +1,7 @@
-Bacillus vulcani Caccamo et al., 2000 SPECIES
-=======
+# Geobacillus vulcani (Caccamo et al., 2000) Nazina et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

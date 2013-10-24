@@ -1,5 +1,4 @@
-Tichothecium collemarium (Linds.) Zopf SPECIES
-=======
+# Tichothecium collemarium (Linds.) Zopf SPECIES
 
 #### Status
 ACCEPTED

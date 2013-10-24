@@ -1,17 +1,16 @@
-Pistillaria ovata subsp. ovata SUBSPECIES
-=======
+# Typhula setipes (Grev.) Berthier, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 497 (1821)
+Bull. mens. Soc. linn. Lyon 45: 141 (1976)
 
 #### Original name
-Clavaria ovata Pers., 1797
+Pistillaria setipes Grev., 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Epidochium oryzae T. Miyake SPECIES
-=======
+# Epidochium oryzae T. Miyake SPECIES
 
 #### Status
 ACCEPTED

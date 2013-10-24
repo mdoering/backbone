@@ -1,5 +1,4 @@
-Phoma sticta Berk. & Broome SPECIES
-=======
+# Phoma sticta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

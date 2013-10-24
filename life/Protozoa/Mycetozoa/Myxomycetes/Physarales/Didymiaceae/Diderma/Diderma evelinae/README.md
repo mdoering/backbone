@@ -1,14 +1,13 @@
-Wilczekia evelinae Meyl., 1925 SPECIES
-=======
+# Diderma evelinae (Meyl.) Kowalski, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Vaud. Sci. Nat. 56: 69 (1925)
+Mycologia 67(3): 484 (1975)
 
 #### Original name
 Wilczekia evelinae Meyl., 1925

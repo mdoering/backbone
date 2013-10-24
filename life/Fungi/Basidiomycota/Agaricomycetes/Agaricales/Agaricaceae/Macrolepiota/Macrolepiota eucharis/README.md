@@ -1,5 +1,4 @@
-Macrolepiota eucharis Vellinga & Halling SPECIES
-=======
+# Macrolepiota eucharis Vellinga & Halling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis sexlocularis (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis sexlocularis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

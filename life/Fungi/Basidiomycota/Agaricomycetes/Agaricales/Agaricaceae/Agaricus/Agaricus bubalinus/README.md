@@ -1,5 +1,4 @@
-Agaricus bubalinus Berk. SPECIES
-=======
+# Agaricus bubalinus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa conseptata (Schwein.) Cooke SPECIES
-=======
+# Valsa conseptata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

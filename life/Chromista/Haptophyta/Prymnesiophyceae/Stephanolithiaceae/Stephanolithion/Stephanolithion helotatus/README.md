@@ -1,5 +1,4 @@
-Stephanolithion helotatus SPECIES
-=======
+# Stephanolithion helotatus SPECIES
 
 #### Status
 ACCEPTED

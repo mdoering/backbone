@@ -1,5 +1,4 @@
-Lepiota fuliginosa Cleland SPECIES
-=======
+# Lepiota fuliginosa Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea concinnior Stirt. SPECIES
-=======
+# Lecidea concinnior Stirt. SPECIES
 
 #### Status
 ACCEPTED

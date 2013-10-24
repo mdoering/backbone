@@ -1,5 +1,4 @@
-Dimeromyces adriaticus W. Rossi SPECIES
-=======
+# Dimeromyces adriaticus W. Rossi SPECIES
 
 #### Status
 ACCEPTED

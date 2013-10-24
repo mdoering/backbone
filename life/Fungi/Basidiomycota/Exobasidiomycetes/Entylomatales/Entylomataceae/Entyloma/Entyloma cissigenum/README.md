@@ -1,5 +1,4 @@
-Entyloma cissigenum Henn. SPECIES
-=======
+# Entyloma cissigenum Henn. SPECIES
 
 #### Status
 ACCEPTED

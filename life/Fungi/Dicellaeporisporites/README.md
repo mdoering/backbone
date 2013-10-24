@@ -1,5 +1,4 @@
-Dicellaeporisporites Kalgutkar GENUS
-=======
+# Dicellaeporisporites Kalgutkar GENUS
 
 #### Status
 ACCEPTED

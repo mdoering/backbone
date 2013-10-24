@@ -1,8 +1,7 @@
-Geaster cryptorhynchus Hazsl. SPECIES
-=======
+# Geastrum cryptorhynchus Hazsl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster cryptorhynchus Hazsl.
+Geastrum cryptorhynchus Hazsl.
 
 ### Remarks
 null

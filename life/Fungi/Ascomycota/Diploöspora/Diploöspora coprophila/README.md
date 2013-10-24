@@ -1,5 +1,4 @@
-Diploöspora coprophila G. Arnaud SPECIES
-=======
+# Diploöspora coprophila G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stempellia tuzetae S. Tour, J.A. Rioux & H. Croset SPECIES
-=======
+# Stempellia tuzetae S. Tour, J.A. Rioux & H. Croset SPECIES
 
 #### Status
 ACCEPTED

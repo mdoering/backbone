@@ -1,5 +1,4 @@
-Patellinella ambulacrata (Mobius, 1880) SPECIES
-=======
+# Patellinella ambulacrata (Mobius, 1880) SPECIES
 
 #### Status
 ACCEPTED

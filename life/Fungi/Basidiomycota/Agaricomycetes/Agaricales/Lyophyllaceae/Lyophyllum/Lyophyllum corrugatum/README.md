@@ -1,5 +1,4 @@
-Lyophyllum corrugatum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum corrugatum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

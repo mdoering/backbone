@@ -1,5 +1,4 @@
-Pertusaria baryana SPECIES
-=======
+# Pertusaria baryana SPECIES
 
 #### Status
 ACCEPTED

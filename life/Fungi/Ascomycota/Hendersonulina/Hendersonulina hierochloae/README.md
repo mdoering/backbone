@@ -1,5 +1,4 @@
-Hendersonulina hierochloae Speg. SPECIES
-=======
+# Hendersonulina hierochloae Speg. SPECIES
 
 #### Status
 ACCEPTED

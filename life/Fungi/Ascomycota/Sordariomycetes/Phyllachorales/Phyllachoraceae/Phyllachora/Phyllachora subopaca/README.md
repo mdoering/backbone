@@ -1,5 +1,4 @@
-Phyllachora subopaca Rehm, 1897 SPECIES
-=======
+# Phyllachora subopaca Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

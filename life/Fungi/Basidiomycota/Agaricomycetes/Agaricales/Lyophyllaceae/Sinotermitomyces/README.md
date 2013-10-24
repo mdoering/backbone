@@ -1,5 +1,4 @@
-Sinotermitomyces M. Zang, 1981 GENUS
-=======
+# Sinotermitomyces M. Zang, 1981 GENUS
 
 #### Status
 ACCEPTED

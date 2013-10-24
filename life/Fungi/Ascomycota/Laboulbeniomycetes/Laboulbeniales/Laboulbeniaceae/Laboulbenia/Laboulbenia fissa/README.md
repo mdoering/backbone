@@ -1,5 +1,4 @@
-Laboulbenia fissa Thaxt. SPECIES
-=======
+# Laboulbenia fissa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

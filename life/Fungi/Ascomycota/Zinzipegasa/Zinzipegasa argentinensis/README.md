@@ -1,14 +1,13 @@
-Dinemasporium argentinense Speg., 1910 SPECIES
-=======
+# Zinzipegasa argentinensis (Speg.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 13: 398 (1910)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 1006 (1993)
 
 #### Original name
 Dinemasporium argentinense Speg., 1910

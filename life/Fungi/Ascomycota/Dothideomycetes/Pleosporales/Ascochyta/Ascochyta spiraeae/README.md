@@ -1,5 +1,4 @@
-Ascochyta spiraeae Kabát & Bubák SPECIES
-=======
+# Ascochyta spiraeae Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

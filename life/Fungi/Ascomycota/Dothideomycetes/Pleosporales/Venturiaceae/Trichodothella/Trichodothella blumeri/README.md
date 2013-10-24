@@ -1,5 +1,4 @@
-Trichodothella blumeri Petr. ex S. Blumer, 1946 SPECIES
-=======
+# Trichodothella blumeri Petr. ex S. Blumer, 1946 SPECIES
 
 #### Status
 ACCEPTED

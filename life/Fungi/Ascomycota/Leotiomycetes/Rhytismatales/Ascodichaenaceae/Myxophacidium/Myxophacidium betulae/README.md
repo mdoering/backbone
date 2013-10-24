@@ -1,5 +1,4 @@
-Myxophacidium betulae (Rehm) Höhn. SPECIES
-=======
+# Myxophacidium betulae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria graminicola E.G. Simmons SPECIES
-=======
+# Alternaria graminicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

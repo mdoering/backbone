@@ -1,5 +1,4 @@
-Phyllosticta osmanthicola Trinchieri SPECIES
-=======
+# Phyllosticta osmanthicola Trinchieri SPECIES
 
 #### Status
 ACCEPTED

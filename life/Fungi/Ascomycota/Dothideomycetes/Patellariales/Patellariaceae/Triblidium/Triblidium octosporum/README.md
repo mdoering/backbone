@@ -1,5 +1,4 @@
-Triblidium octosporum D. Hawksw. & Coppins, 1973 SPECIES
-=======
+# Triblidium octosporum D. Hawksw. & Coppins, 1973 SPECIES
 
 #### Status
 ACCEPTED

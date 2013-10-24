@@ -1,5 +1,4 @@
-Ascochyta fragariicola L. Bertram SPECIES
-=======
+# Ascochyta fragariicola L. Bertram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Succinivibrio Bryant & Small, 1956 GENUS
-=======
+# Succinivibrio Bryant & Small, 1956 GENUS
 
 #### Status
 ACCEPTED

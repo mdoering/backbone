@@ -1,5 +1,4 @@
-Hysterium pulcherrimum Tehon & P.A. Young SPECIES
-=======
+# Hysterium pulcherrimum Tehon & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

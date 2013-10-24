@@ -1,5 +1,4 @@
-Anzia gracilis Asahina SPECIES
-=======
+# Anzia gracilis Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microcystis brunnea (A. Brown) Bourrelly SPECIES
-=======
+# Microcystis brunnea (A. Brown) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

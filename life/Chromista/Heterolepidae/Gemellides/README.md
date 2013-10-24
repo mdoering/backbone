@@ -1,5 +1,4 @@
-Gemellides GENUS
-=======
+# Gemellides GENUS
 
 #### Status
 ACCEPTED

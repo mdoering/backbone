@@ -1,5 +1,4 @@
-Ionaspis ceracea Jatta SPECIES
-=======
+# Ionaspis ceracea Jatta SPECIES
 
 #### Status
 ACCEPTED

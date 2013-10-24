@@ -1,5 +1,4 @@
-Coprinellus singularis (Uljé) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus singularis (Uljé) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

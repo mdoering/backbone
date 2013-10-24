@@ -1,5 +1,4 @@
-Phacidium ignobile P. Karst. SPECIES
-=======
+# Phacidium ignobile P. Karst. SPECIES
 
 #### Status
 ACCEPTED

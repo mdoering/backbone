@@ -1,5 +1,4 @@
-Prunulum Haeckel, 1887 GENUS
-=======
+# Prunulum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

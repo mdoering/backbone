@@ -1,5 +1,4 @@
-Gephyrocapsa oceanica Kamptner SPECIES
-=======
+# Gephyrocapsa oceanica Kamptner SPECIES
 
 #### Status
 ACCEPTED

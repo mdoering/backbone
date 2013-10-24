@@ -1,5 +1,4 @@
-Filisphaeridium solidum (Ouyang Shu & Li Zaiping, 1980) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium solidum (Ouyang Shu & Li Zaiping, 1980) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

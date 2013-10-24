@@ -1,5 +1,4 @@
-Tapesia fuscoatra (Hazsl.) Sacc. SPECIES
-=======
+# Tapesia fuscoatra (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

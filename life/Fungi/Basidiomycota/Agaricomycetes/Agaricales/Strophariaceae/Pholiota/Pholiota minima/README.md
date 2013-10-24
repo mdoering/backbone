@@ -1,5 +1,4 @@
-Pholiota minima Peck SPECIES
-=======
+# Pholiota minima Peck SPECIES
 
 #### Status
 ACCEPTED

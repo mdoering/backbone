@@ -1,5 +1,4 @@
-Aspergillus longivesica L.H. Huang & Raper, 1971 SPECIES
-=======
+# Aspergillus longivesica L.H. Huang & Raper, 1971 SPECIES
 
 #### Status
 ACCEPTED

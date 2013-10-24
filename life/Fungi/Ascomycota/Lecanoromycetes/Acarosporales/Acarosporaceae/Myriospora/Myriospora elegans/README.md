@@ -1,5 +1,4 @@
-Myriospora elegans Hepp SPECIES
-=======
+# Myriospora elegans Hepp SPECIES
 
 #### Status
 ACCEPTED

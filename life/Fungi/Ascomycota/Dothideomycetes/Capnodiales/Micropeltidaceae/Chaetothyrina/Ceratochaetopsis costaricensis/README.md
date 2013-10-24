@@ -1,5 +1,4 @@
-Ceratochaetopsis costaricensis F. Stevens & Weedon SPECIES
-=======
+# Ceratochaetopsis costaricensis F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

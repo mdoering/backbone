@@ -1,5 +1,4 @@
-Escherichia GENUS
-=======
+# Escherichia GENUS
 
 #### Status
 ACCEPTED

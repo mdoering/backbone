@@ -1,5 +1,4 @@
-Hendersonia senecionis Sacc. SPECIES
-=======
+# Hendersonia senecionis Sacc. SPECIES
 
 #### Status
 ACCEPTED

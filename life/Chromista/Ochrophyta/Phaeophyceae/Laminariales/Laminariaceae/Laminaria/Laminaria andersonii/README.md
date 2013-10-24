@@ -1,5 +1,4 @@
-Laminaria andersonii Eaton SPECIES
-=======
+# Laminaria andersonii Eaton SPECIES
 
 #### Status
 ACCEPTED

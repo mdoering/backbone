@@ -1,5 +1,4 @@
-Camarosporium geitonoplesii Pass. SPECIES
-=======
+# Camarosporium geitonoplesii Pass. SPECIES
 
 #### Status
 ACCEPTED

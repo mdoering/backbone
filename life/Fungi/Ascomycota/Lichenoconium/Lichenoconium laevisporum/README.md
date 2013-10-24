@@ -1,5 +1,4 @@
-Lichenoconium laevisporum Kalb & Hafellner SPECIES
-=======
+# Lichenoconium laevisporum Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

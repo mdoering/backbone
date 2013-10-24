@@ -1,5 +1,4 @@
-Triloculina sculpturata Cushman SPECIES
-=======
+# Triloculina sculpturata Cushman SPECIES
 
 #### Status
 ACCEPTED

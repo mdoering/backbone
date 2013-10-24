@@ -1,5 +1,4 @@
-Placidiopsis oreades Breuss SPECIES
-=======
+# Placidiopsis oreades Breuss SPECIES
 
 #### Status
 ACCEPTED

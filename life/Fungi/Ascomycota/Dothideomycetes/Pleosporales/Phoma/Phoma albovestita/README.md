@@ -1,5 +1,4 @@
-Phoma albovestita Fairm. SPECIES
-=======
+# Phoma albovestita Fairm. SPECIES
 
 #### Status
 ACCEPTED

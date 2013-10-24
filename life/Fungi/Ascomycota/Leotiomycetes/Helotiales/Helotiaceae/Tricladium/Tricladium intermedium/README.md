@@ -1,14 +1,13 @@
-Geniculospora intermedia (R.H. Petersen) Sv. Nilsson ex Marvanová & Sv. Nilsson, 1971 SPECIES
-=======
+# Tricladium intermedium R.H. Petersen, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 18(no. 2): 96 (1964)
+Mycologia 54(2): 135 (1962)
 
 #### Original name
 Tricladium intermedium R.H. Petersen, 1962

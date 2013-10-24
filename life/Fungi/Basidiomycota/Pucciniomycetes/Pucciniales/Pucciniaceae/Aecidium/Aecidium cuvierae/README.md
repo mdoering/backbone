@@ -1,5 +1,4 @@
-Aecidium cuvierae J.M. Yen & Gilles SPECIES
-=======
+# Aecidium cuvierae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

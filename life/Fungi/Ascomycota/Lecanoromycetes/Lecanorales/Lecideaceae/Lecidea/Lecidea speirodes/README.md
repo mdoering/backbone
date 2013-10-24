@@ -1,5 +1,4 @@
-Lecidea speirodes Nyl. SPECIES
-=======
+# Lecidea speirodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria clavarioides Schild SPECIES
-=======
+# Ramaria clavarioides Schild SPECIES
 
 #### Status
 ACCEPTED

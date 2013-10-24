@@ -1,5 +1,4 @@
-Heliobacterium modesticaldum Kimble et al., 1996 SPECIES
-=======
+# Heliobacterium modesticaldum Kimble et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

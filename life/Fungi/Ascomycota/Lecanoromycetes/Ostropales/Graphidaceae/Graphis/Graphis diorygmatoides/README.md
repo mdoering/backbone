@@ -1,5 +1,4 @@
-Graphis diorygmatoides Vain. SPECIES
-=======
+# Graphis diorygmatoides Vain. SPECIES
 
 #### Status
 ACCEPTED

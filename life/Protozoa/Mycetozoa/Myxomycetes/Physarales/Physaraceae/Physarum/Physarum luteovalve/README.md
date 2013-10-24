@@ -1,5 +1,4 @@
-Physarum luteovalve Schwein. SPECIES
-=======
+# Physarum luteovalve Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema papuasicum Borzi SPECIES
-=======
+# Scytonema papuasicum Borzi SPECIES
 
 #### Status
 ACCEPTED

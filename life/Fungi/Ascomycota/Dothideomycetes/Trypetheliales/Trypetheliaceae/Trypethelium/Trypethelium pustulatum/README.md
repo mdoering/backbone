@@ -1,5 +1,4 @@
-Trypethelium pustulatum (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium pustulatum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

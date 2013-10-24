@@ -1,5 +1,4 @@
-Entoloma albidiforme Murrill SPECIES
-=======
+# Entoloma albidiforme Murrill SPECIES
 
 #### Status
 ACCEPTED

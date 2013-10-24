@@ -1,5 +1,4 @@
-Moelleriella ochracea (Massee) M. Liu & P. Chaverri SPECIES
-=======
+# Moelleriella ochracea (Massee) M. Liu & P. Chaverri SPECIES
 
 #### Status
 ACCEPTED

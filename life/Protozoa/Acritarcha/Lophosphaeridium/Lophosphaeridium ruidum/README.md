@@ -1,5 +1,4 @@
-Lophosphaeridium ruidum Ottone, Albanesi, Ortega & Holfeltz, 1999 SPECIES
-=======
+# Lophosphaeridium ruidum Ottone, Albanesi, Ortega & Holfeltz, 1999 SPECIES
 
 #### Status
 ACCEPTED

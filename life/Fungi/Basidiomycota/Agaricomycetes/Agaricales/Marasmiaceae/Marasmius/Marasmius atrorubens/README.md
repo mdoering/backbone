@@ -1,5 +1,4 @@
-Marasmius atrorubens var. atrorubens VARIETY
-=======
+# Marasmius atrorubens Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius atrorubens var. atrorubens
+Marasmius atrorubens Berk.
 
 ### Remarks
 null

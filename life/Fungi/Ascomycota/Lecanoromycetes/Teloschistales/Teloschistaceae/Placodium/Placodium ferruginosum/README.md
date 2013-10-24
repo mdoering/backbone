@@ -1,5 +1,4 @@
-Placodium ferruginosum Tuck. SPECIES
-=======
+# Placodium ferruginosum Tuck. SPECIES
 
 #### Status
 ACCEPTED

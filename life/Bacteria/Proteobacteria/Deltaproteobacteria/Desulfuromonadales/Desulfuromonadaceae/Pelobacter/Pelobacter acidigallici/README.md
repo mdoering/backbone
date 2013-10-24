@@ -1,5 +1,4 @@
-Pelobacter acidigallici Schink & Pfennig, 1983 SPECIES
-=======
+# Pelobacter acidigallici Schink & Pfennig, 1983 SPECIES
 
 #### Status
 ACCEPTED

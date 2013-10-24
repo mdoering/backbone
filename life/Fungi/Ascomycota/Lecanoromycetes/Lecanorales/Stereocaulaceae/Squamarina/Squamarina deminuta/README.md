@@ -1,5 +1,4 @@
-Squamarina deminuta (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Squamarina deminuta (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

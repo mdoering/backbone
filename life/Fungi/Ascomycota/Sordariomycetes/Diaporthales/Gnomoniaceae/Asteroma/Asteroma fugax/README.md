@@ -1,5 +1,4 @@
-Asteroma fugax Roberge ex Desm. SPECIES
-=======
+# Asteroma fugax Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

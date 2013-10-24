@@ -1,17 +1,16 @@
-Cucujomyces japonicus (Terada) W. Rossi & A. Weir, 2008 SPECIES
-=======
+# Balazucia japonica Terada, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 21(2): 193 (1980)
 
 #### Original name
-null
+Balazucia japonica Terada, 1980
 
 ### Remarks
 null

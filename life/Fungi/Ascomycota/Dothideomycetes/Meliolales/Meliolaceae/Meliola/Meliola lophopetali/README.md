@@ -1,5 +1,4 @@
-Meliola lophopetali Hansf. SPECIES
-=======
+# Meliola lophopetali Hansf. SPECIES
 
 #### Status
 ACCEPTED

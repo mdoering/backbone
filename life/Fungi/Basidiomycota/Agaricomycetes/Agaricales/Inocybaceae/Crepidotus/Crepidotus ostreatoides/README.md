@@ -1,5 +1,4 @@
-Crepidotus ostreatoides Henn. & E. Nyman SPECIES
-=======
+# Crepidotus ostreatoides Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia subfruticulosa (Elenkin) Oxner SPECIES
-=======
+# Gasparrinia subfruticulosa (Elenkin) Oxner SPECIES
 
 #### Status
 ACCEPTED

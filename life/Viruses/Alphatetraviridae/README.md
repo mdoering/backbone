@@ -1,5 +1,4 @@
-Alphatetraviridae FAMILY
-=======
+# Alphatetraviridae FAMILY
 
 #### Status
 ACCEPTED

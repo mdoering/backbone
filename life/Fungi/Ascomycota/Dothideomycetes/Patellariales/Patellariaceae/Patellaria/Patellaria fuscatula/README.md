@@ -1,17 +1,16 @@
-Patellaria fuscatula var. fuscatula VARIETY
-=======
+# Patellaria fuscatula SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Flora, Jena 64: 231 (1881)
+null
 
 #### Original name
-Patellaria fuscatula var. fuscatula
+null
 
 ### Remarks
 null

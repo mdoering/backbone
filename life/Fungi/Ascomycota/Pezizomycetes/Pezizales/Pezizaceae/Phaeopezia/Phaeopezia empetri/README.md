@@ -1,5 +1,4 @@
-Phaeopezia empetri Rostr. SPECIES
-=======
+# Phaeopezia empetri Rostr. SPECIES
 
 #### Status
 ACCEPTED

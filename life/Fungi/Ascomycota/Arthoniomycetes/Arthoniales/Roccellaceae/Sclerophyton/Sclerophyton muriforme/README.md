@@ -1,5 +1,4 @@
-Sclerophyton muriforme Sparrius SPECIES
-=======
+# Sclerophyton muriforme Sparrius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha bulla SPECIES
-=======
+# Oxytricha bulla SPECIES
 
 #### Status
 ACCEPTED

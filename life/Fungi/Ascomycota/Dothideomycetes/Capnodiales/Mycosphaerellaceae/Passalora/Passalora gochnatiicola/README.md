@@ -1,5 +1,4 @@
-Passalora gochnatiicola O.L. Pereira & U. Braun SPECIES
-=======
+# Passalora gochnatiicola O.L. Pereira & U. Braun SPECIES
 
 #### Status
 ACCEPTED

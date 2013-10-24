@@ -1,5 +1,4 @@
-Peckia pereirae Tassi SPECIES
-=======
+# Peckia pereirae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora interfulgens Nyl. SPECIES
-=======
+# Lecanora interfulgens Nyl. SPECIES
 
 #### Status
 ACCEPTED

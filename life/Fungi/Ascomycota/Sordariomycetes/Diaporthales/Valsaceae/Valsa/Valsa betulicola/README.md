@@ -1,5 +1,4 @@
-Valsa betulicola Schulzer SPECIES
-=======
+# Valsa betulicola Schulzer SPECIES
 
 #### Status
 ACCEPTED

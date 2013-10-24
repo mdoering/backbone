@@ -1,5 +1,4 @@
-Allarthothelium sparsum Zahlbr. SPECIES
-=======
+# Allarthothelium sparsum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amycolatopsis kentuckyensis Labeda et al., 2003 SPECIES
-=======
+# Amycolatopsis kentuckyensis Labeda et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ophiostoma arborea (Olchow. & J. Reid) Yamaoka & M.J. Wingf., 1997 SPECIES
-=======
+# Ceratocystis arborea Olchow. & J. Reid, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yamaoka, Wingfield, Takahashi & Solheim, Mycol. Res. 101(10): 1223 (1997)
+Can. J. Bot. 52(7): 1688 (1974)
 
 #### Original name
 Ceratocystis arborea Olchow. & J. Reid, 1974

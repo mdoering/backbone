@@ -1,5 +1,4 @@
-Phoma lupinicola Tracy & Earle SPECIES
-=======
+# Phoma lupinicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

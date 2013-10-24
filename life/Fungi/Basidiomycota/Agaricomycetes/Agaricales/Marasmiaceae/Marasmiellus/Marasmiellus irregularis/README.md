@@ -1,5 +1,4 @@
-Marasmiellus irregularis (Rick) Singer SPECIES
-=======
+# Marasmiellus irregularis (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

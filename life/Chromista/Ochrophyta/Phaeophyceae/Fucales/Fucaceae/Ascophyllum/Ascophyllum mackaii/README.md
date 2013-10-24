@@ -1,5 +1,4 @@
-Ascophyllum mackaii SPECIES
-=======
+# Ascophyllum mackaii SPECIES
 
 #### Status
 ACCEPTED

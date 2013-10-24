@@ -1,5 +1,4 @@
-Staurocaryum Haeckel, 1881 GENUS
-=======
+# Staurocaryum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

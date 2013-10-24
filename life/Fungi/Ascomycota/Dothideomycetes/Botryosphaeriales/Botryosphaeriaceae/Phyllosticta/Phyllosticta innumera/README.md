@@ -1,5 +1,4 @@
-Phyllosticta innumera Cooke & Harkn. SPECIES
-=======
+# Phyllosticta innumera Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

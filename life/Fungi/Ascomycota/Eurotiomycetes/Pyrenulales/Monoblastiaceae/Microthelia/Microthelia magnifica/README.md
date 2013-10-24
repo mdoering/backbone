@@ -1,5 +1,4 @@
-Microthelia magnifica (Nyl.) Müll. Arg. SPECIES
-=======
+# Microthelia magnifica (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

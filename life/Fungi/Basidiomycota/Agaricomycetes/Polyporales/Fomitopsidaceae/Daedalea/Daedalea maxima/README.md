@@ -1,5 +1,4 @@
-Daedalea maxima (Brot.) Fr. SPECIES
-=======
+# Daedalea maxima (Brot.) Fr. SPECIES
 
 #### Status
 ACCEPTED

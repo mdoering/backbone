@@ -1,8 +1,7 @@
-Zygocystis portunidarum Frenzel, 1885 SPECIES
-=======
+# Nematopsis portunidarum (Frenzel, 1885) Hatt, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,8 +1,7 @@
-Fucus pedunculatus Hudson SPECIES
-=======
+# Sporochnus pedunculatus (Hudson) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Uredo rottboelliae Dietel SPECIES
-=======
+# Uredo rottboelliae Dietel SPECIES
 
 #### Status
 ACCEPTED

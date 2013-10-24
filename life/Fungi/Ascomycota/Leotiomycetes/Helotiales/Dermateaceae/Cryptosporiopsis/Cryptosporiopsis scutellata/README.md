@@ -1,5 +1,4 @@
-Cryptosporiopsis scutellata (G.H. Otth) Petr. SPECIES
-=======
+# Cryptosporiopsis scutellata (G.H. Otth) Petr. SPECIES
 
 #### Status
 ACCEPTED

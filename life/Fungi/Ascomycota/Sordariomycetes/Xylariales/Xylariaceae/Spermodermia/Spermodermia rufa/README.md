@@ -1,5 +1,4 @@
-Spermodermia rufa Schwein. SPECIES
-=======
+# Spermodermia rufa Schwein. SPECIES
 
 #### Status
 ACCEPTED

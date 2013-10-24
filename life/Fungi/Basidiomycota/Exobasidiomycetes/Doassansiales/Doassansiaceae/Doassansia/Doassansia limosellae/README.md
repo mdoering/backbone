@@ -1,14 +1,13 @@
-Protomyces limosellae Kunze, 1873 SPECIES
-=======
+# Doassansia limosellae (J. Kunze) J. Schröt., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. exsicc. no. 1694 (1873)
+J. Mycol. 4(2-3): 17 (1888)
 
 #### Original name
 Protomyces limosellae Kunze, 1873

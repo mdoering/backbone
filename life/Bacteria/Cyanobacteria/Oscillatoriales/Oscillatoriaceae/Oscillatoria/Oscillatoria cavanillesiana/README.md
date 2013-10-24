@@ -1,5 +1,4 @@
-Oscillatoria cavanillesiana P. González SPECIES
-=======
+# Oscillatoria cavanillesiana P. González SPECIES
 
 #### Status
 ACCEPTED

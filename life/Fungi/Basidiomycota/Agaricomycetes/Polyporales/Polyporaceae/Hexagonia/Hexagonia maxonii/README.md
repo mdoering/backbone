@@ -1,17 +1,16 @@
-Hexagonia maxoni Murrill SPECIES
-=======
+# Hexagonia maxonii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(1): 49 (1907)
 
 #### Original name
-Hexagonia maxoni Murrill
+Hexagonia maxonii Murrill
 
 ### Remarks
 null

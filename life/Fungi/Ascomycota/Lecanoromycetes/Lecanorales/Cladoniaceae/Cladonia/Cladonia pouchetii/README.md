@@ -1,5 +1,4 @@
-Cladonia pouchetii f. pouchetii FORM
-=======
+# Cladonia pouchetii M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia pouchetii f. pouchetii
+Cladonia pouchetii M. Choisy
 
 ### Remarks
 null

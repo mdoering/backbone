@@ -1,5 +1,4 @@
-Beaumontella delicatum (Wall, 1965) Below, 1987 SPECIES
-=======
+# Beaumontella delicatum (Wall, 1965) Below, 1987 SPECIES
 
 #### Status
 ACCEPTED

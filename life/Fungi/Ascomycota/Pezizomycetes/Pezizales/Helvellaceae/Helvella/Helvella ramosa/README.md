@@ -1,17 +1,16 @@
-Elvela ramosa Schaeff. SPECIES
-=======
+# Helvella ramosa Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: 106 (1774)
 
 #### Original name
-Elvela ramosa Schaeff.
+Helvella ramosa Schaeff.
 
 ### Remarks
 null

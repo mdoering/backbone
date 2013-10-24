@@ -1,5 +1,4 @@
-Marasmius rammelooi Antonín SPECIES
-=======
+# Marasmius rammelooi Antonín SPECIES
 
 #### Status
 ACCEPTED

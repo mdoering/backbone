@@ -1,5 +1,4 @@
-Leptothyrium belluciae Henn. SPECIES
-=======
+# Leptothyrium belluciae Henn. SPECIES
 
 #### Status
 ACCEPTED

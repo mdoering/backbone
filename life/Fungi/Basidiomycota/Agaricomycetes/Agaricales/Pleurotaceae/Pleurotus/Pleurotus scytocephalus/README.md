@@ -1,5 +1,4 @@
-Pleurotus scytocephalus (Berk. & Broome) Sacc. SPECIES
-=======
+# Pleurotus scytocephalus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

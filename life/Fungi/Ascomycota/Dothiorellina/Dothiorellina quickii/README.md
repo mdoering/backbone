@@ -1,5 +1,4 @@
-Dothiorellina quickii Bonar SPECIES
-=======
+# Dothiorellina quickii Bonar SPECIES
 
 #### Status
 ACCEPTED

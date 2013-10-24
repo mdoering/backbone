@@ -1,5 +1,4 @@
-Aecidium celosiae Jørst. SPECIES
-=======
+# Aecidium celosiae Jørst. SPECIES
 
 #### Status
 ACCEPTED

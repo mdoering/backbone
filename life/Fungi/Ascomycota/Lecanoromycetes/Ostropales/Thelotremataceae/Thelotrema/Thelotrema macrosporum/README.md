@@ -1,5 +1,4 @@
-Thelotrema macrosporum P.M. Jørg. & P. James SPECIES
-=======
+# Thelotrema macrosporum P.M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED

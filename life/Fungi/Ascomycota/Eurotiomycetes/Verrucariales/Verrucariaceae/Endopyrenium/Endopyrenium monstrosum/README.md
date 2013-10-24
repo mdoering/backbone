@@ -1,5 +1,4 @@
-Endopyrenium monstrosum (Schaer.) Hazsl. SPECIES
-=======
+# Endopyrenium monstrosum (Schaer.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

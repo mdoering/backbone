@@ -1,5 +1,4 @@
-Discosia podisomatis Cooke & Ellis SPECIES
-=======
+# Discosia podisomatis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

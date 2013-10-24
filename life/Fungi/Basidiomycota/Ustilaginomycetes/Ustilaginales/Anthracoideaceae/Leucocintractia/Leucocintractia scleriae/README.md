@@ -1,14 +1,13 @@
-Uredo scleriae DC., 1808 SPECIES
-=======
+# Leucocintractia scleriae (DC.) M. Piepenbr., Begerow & Oberw., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encycl. Méth. Bot. (1808)
+Mycologia 91(3): 497 (1999)
 
 #### Original name
 Uredo scleriae DC., 1808

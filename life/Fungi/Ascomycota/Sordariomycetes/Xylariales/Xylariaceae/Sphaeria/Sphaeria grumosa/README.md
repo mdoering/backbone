@@ -1,5 +1,4 @@
-Sphaeria grumosa Pers. SPECIES
-=======
+# Sphaeria grumosa Pers. SPECIES
 
 #### Status
 ACCEPTED

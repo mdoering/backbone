@@ -1,5 +1,4 @@
-Helminthosporium pyracanthae M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Helminthosporium pyracanthae M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

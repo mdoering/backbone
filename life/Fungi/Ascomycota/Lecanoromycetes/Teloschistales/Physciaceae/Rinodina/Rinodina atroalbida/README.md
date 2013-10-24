@@ -1,5 +1,4 @@
-Rinodina atroalbida (Nyl.) C.W. Dodge SPECIES
-=======
+# Rinodina atroalbida (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedaleites volhynicus E.V. Eichw. SPECIES
-=======
+# Daedaleites volhynicus E.V. Eichw. SPECIES
 
 #### Status
 ACCEPTED

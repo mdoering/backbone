@@ -1,5 +1,4 @@
-Coccomyces triseptatus Spooner, 1990 SPECIES
-=======
+# Coccomyces triseptatus Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

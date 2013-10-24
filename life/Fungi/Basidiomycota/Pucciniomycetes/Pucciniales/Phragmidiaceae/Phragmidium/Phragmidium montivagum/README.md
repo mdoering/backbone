@@ -1,5 +1,4 @@
-Phragmidium montivagum Arthur SPECIES
-=======
+# Phragmidium montivagum Arthur SPECIES
 
 #### Status
 ACCEPTED

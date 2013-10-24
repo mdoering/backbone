@@ -1,17 +1,16 @@
-Catenomycopsis rosea Constant. SPECIES
-=======
+# Chaenothecopsis haematopus Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Tibell & Constantinescu, Mycol. Res. 95(5): 556 (1991)
+Symb. bot. upsal. 27(no. 1): 126 (1987)
 
 #### Original name
-Catenomycopsis rosea Constant.
+Chaenothecopsis haematopus Tibell
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhabdospora betonicae Sacc. & Briard SPECIES
-=======
+# Rhabdospora betonicae Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

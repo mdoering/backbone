@@ -1,5 +1,4 @@
-Ascochyta miniquadriguttulata Punith. SPECIES
-=======
+# Ascochyta miniquadriguttulata Punith. SPECIES
 
 #### Status
 ACCEPTED

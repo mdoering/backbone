@@ -1,5 +1,4 @@
-Sphaeronaema mali Ade SPECIES
-=======
+# Sphaeronaema mali Ade SPECIES
 
 #### Status
 ACCEPTED

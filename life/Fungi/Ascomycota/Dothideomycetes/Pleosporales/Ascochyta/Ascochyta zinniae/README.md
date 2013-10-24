@@ -1,5 +1,4 @@
-Ascochyta zinniae Allesch., 1899 SPECIES
-=======
+# Ascochyta zinniae Allesch., 1899 SPECIES
 
 #### Status
 ACCEPTED

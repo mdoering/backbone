@@ -1,5 +1,4 @@
-Melanoleuca cinchonensis (Murrill) Singer SPECIES
-=======
+# Melanoleuca cinchonensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

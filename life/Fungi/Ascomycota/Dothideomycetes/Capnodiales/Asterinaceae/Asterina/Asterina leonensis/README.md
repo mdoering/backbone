@@ -1,5 +1,4 @@
-Asterina leonensis Syd. SPECIES
-=======
+# Asterina leonensis Syd. SPECIES
 
 #### Status
 ACCEPTED

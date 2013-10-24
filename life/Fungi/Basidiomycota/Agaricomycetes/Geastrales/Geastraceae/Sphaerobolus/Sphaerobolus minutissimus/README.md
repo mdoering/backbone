@@ -1,5 +1,4 @@
-Sphaerobolus minutissimus Schwein. SPECIES
-=======
+# Sphaerobolus minutissimus Schwein. SPECIES
 
 #### Status
 ACCEPTED

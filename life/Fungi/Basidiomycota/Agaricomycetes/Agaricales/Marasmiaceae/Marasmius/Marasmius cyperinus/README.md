@@ -1,5 +1,4 @@
-Marasmius cyperinus Speg. SPECIES
-=======
+# Marasmius cyperinus Speg. SPECIES
 
 #### Status
 ACCEPTED

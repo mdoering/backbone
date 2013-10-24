@@ -1,5 +1,4 @@
-Trachyxylaria phaeodidyma Möller SPECIES
-=======
+# Trachyxylaria phaeodidyma Möller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula levisporiformis Murrill SPECIES
-=======
+# Russula levisporiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peronospora calotheca var. galii-vaillantii de Bary VARIETY
-=======
+# Peronospora calotheca de Bary, 1858 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 20: 112 (1863)
+in Rabenhorst, Herb. myc. no. 673 (1858)
 
 #### Original name
-Peronospora calotheca var. galii-vaillantii de Bary
+Peronospora calotheca de Bary, 1858
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cordyceps japonensis Hara SPECIES
-=======
+# Cordyceps japonensis Hara SPECIES
 
 #### Status
 ACCEPTED

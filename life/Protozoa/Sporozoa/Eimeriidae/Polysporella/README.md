@@ -1,5 +1,4 @@
-Polysporella McQuiston, 1990 GENUS
-=======
+# Polysporella McQuiston, 1990 GENUS
 
 #### Status
 ACCEPTED

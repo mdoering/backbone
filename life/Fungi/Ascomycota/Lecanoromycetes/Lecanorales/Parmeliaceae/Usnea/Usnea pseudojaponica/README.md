@@ -1,5 +1,4 @@
-Usnea pseudojaponica G. Awasthi SPECIES
-=======
+# Usnea pseudojaponica G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

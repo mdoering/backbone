@@ -1,5 +1,4 @@
-Phakopsora ehretiae Hirats. f. SPECIES
-=======
+# Phakopsora ehretiae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

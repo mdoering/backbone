@@ -1,5 +1,4 @@
-Asterina sapotacearum Speg. SPECIES
-=======
+# Asterina sapotacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

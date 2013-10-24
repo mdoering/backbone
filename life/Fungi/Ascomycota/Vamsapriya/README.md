@@ -1,5 +1,4 @@
-Vamsapriya Gawas & Bhat GENUS
-=======
+# Vamsapriya Gawas & Bhat GENUS
 
 #### Status
 ACCEPTED

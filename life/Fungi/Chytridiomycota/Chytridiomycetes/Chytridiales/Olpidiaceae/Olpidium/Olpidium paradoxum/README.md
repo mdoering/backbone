@@ -1,5 +1,4 @@
-Olpidium paradoxum Glockling, 1998 SPECIES
-=======
+# Olpidium paradoxum Glockling, 1998 SPECIES
 
 #### Status
 ACCEPTED

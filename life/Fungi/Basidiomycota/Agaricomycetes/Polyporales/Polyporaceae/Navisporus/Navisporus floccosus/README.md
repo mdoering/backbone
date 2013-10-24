@@ -1,17 +1,16 @@
-Polyporus mollicarnosus Lloyd, 1915 SPECIES
-=======
+# Navisporus floccosus (Bres.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 60) 11 (1915)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 443 (1980)
 
 #### Original name
-Polyporus mollicarnosus Lloyd, 1915
+Trametes floccosa (Jungh.) G. Cunn., 1950
 
 ### Remarks
 null

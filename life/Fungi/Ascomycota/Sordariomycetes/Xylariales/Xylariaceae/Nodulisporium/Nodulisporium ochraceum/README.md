@@ -1,17 +1,16 @@
-Nodulisporium ocheraceum Preuss SPECIES
-=======
+# Nodulisporium ochraceum Preuss, 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Klotzsch Herb. Myc. no. 1272 (1849)
 
 #### Original name
-Nodulisporium ocheraceum Preuss
+Nodulisporium ochraceum Preuss, 1849
 
 ### Remarks
 null

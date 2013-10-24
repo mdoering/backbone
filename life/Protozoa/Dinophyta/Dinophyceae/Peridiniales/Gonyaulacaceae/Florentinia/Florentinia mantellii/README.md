@@ -1,5 +1,4 @@
-Florentinia mantellii (Davey & Williams, 1966) Davey & Verdier SPECIES
-=======
+# Florentinia mantellii (Davey & Williams, 1966) Davey & Verdier SPECIES
 
 #### Status
 ACCEPTED

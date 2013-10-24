@@ -1,5 +1,4 @@
-Tricholoma phoeniceum (V. Brig.) Singer SPECIES
-=======
+# Tricholoma phoeniceum (V. Brig.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus caatingensis (Berk.) Singer SPECIES
-=======
+# Marasmiellus caatingensis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

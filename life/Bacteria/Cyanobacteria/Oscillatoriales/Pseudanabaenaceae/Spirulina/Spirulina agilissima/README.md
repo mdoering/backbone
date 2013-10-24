@@ -1,5 +1,4 @@
-Spirulina agilissima (Lagerheim) Kirchner SPECIES
-=======
+# Spirulina agilissima (Lagerheim) Kirchner SPECIES
 
 #### Status
 ACCEPTED

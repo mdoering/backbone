@@ -1,5 +1,4 @@
-Naegleria australiensis De Jonckheere, 1981 SPECIES
-=======
+# Naegleria australiensis De Jonckheere, 1981 SPECIES
 
 #### Status
 ACCEPTED

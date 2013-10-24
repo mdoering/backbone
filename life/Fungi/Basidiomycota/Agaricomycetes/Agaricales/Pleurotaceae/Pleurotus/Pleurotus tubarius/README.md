@@ -1,5 +1,4 @@
-Pleurotus tubarius (Pat.) Pegler SPECIES
-=======
+# Pleurotus tubarius (Pat.) Pegler SPECIES
 
 #### Status
 ACCEPTED

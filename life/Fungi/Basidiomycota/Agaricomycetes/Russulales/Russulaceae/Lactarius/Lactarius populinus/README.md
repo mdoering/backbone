@@ -1,5 +1,4 @@
-Lactarius populinus R. Heim SPECIES
-=======
+# Lactarius populinus R. Heim SPECIES
 
 #### Status
 ACCEPTED

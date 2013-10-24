@@ -1,5 +1,4 @@
-Hypomyces pseudocorticiicola Tokiwa & Okuda SPECIES
-=======
+# Hypomyces pseudocorticiicola Tokiwa & Okuda SPECIES
 
 #### Status
 ACCEPTED

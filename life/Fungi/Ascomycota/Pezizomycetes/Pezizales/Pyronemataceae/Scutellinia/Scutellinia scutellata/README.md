@@ -1,17 +1,16 @@
-Lachnea scutellata f. scutellata FORM
-=======
+# Scutellinia scutellata (L.) Lambotte, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Champignons de France, Discom. 57 (1879)
+Mém. Soc. roy. Sci. Liège, Série 2 1: 299 (1887)
 
 #### Original name
-Lachnea scutellata f. scutellata
+Peziza scutellata Batsch, 1786
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Massariopsis GENUS
-=======
+# Massariopsis GENUS
 
 #### Status
 ACCEPTED

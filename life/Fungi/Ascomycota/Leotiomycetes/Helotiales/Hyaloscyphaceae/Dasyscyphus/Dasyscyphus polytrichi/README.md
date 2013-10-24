@@ -1,17 +1,16 @@
-Dasyscypha polytrichi Velen. SPECIES
-=======
+# Dasyscyphus polytrichi Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 241 (1934)
 
 #### Original name
-Dasyscypha polytrichi Velen.
+Dasyscyphus polytrichi Velen.
 
 ### Remarks
 null

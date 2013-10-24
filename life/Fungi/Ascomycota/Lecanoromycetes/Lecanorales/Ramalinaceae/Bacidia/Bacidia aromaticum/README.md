@@ -1,5 +1,4 @@
-Bacidia aromaticum Romankova SPECIES
-=======
+# Bacidia aromaticum Romankova SPECIES
 
 #### Status
 ACCEPTED

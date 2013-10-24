@@ -1,5 +1,4 @@
-Graphis umbrina Nyl. SPECIES
-=======
+# Graphis umbrina Nyl. SPECIES
 
 #### Status
 ACCEPTED

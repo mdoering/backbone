@@ -1,5 +1,4 @@
-Spaceloma A. de Bary, 1874 GENUS
-=======
+# Spaceloma A. de Bary, 1874 GENUS
 
 #### Status
 ACCEPTED

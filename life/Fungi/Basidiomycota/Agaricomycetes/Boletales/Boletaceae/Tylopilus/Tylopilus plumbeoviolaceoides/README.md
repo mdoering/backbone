@@ -1,5 +1,4 @@
-Tylopilus plumbeoviolaceoides T.H. Li, B. Song & Y.H. Shen SPECIES
-=======
+# Tylopilus plumbeoviolaceoides T.H. Li, B. Song & Y.H. Shen SPECIES
 
 #### Status
 ACCEPTED

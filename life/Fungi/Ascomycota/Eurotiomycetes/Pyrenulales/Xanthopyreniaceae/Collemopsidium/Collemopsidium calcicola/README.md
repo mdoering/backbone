@@ -1,5 +1,4 @@
-Collemopsidium calcicola J. Steiner SPECIES
-=======
+# Collemopsidium calcicola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

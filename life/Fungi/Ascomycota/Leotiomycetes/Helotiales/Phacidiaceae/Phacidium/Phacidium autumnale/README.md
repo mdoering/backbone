@@ -1,5 +1,4 @@
-Phacidium autumnale Fuckel SPECIES
-=======
+# Phacidium autumnale Fuckel SPECIES
 
 #### Status
 ACCEPTED

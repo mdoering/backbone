@@ -1,5 +1,4 @@
-Septoria pinicola Desm. SPECIES
-=======
+# Septoria pinicola Desm. SPECIES
 
 #### Status
 ACCEPTED

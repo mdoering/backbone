@@ -1,5 +1,4 @@
-Diploschistes lavicola H. Magn. SPECIES
-=======
+# Diploschistes lavicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

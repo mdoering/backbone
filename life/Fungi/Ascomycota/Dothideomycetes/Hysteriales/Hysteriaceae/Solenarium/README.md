@@ -1,5 +1,4 @@
-Solenarium GENUS
-=======
+# Solenarium GENUS
 
 #### Status
 ACCEPTED

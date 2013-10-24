@@ -1,5 +1,4 @@
-Calidion bombacis (Petch) D.J. Soares & R.W. Barreto SPECIES
-=======
+# Calidion bombacis (Petch) D.J. Soares & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

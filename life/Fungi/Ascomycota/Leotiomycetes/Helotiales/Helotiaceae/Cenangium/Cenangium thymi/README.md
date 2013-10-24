@@ -1,5 +1,4 @@
-Cenangium thymi Fuckel SPECIES
-=======
+# Cenangium thymi Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon asteroides (Rischin) M. Ota, 1926 SPECIES
-=======
+# Trichosporon asteroides (Rischin) M. Ota, 1926 SPECIES
 
 #### Status
 ACCEPTED

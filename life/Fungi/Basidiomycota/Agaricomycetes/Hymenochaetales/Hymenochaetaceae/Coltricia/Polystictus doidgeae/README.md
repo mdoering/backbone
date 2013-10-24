@@ -1,17 +1,16 @@
-Polystictus doidgei Lloyd SPECIES
-=======
+# Polystictus doidgeae Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(no. 73): 1329 (1924)
 
 #### Original name
-Polystictus doidgei Lloyd
+Polystictus doidgeae Lloyd
 
 ### Remarks
 null

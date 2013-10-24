@@ -1,17 +1,16 @@
-Thecostroma Clem. GENUS
-=======
+# Bloxamia Berkeley & Broome, 1854 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis) 135, 176 (1909)
+null
 
 #### Original name
-Thecostroma Clem.
+null
 
 ### Remarks
 null

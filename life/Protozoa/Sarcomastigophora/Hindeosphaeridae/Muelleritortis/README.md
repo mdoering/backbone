@@ -1,8 +1,7 @@
-Mulleritortis Kozur, 1988 GENUS
-=======
+# Muelleritortis Kozur, 1988 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

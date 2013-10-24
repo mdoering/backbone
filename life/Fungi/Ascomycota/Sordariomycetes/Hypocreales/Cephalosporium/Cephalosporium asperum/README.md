@@ -1,5 +1,4 @@
-Cephalosporium asperum Marchal SPECIES
-=======
+# Cephalosporium asperum Marchal SPECIES
 
 #### Status
 ACCEPTED

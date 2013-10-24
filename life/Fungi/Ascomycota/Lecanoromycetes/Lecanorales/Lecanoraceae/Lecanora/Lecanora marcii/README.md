@@ -1,8 +1,7 @@
-Lecanora marci SPECIES
-=======
+# Lecanora marcii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Aspicilia marcii B. de Lesd.
 
 ### Remarks
 null

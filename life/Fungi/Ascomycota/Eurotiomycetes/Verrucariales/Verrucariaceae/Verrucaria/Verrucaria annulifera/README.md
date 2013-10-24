@@ -1,5 +1,4 @@
-Verrucaria annulifera Eitner SPECIES
-=======
+# Verrucaria annulifera Eitner SPECIES
 
 #### Status
 ACCEPTED

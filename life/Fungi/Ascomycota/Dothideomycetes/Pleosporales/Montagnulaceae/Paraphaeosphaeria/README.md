@@ -1,5 +1,4 @@
-Paraphaeosphaeria O.E. Eriksson, 1967 GENUS
-=======
+# Paraphaeosphaeria O.E. Eriksson, 1967 GENUS
 
 #### Status
 ACCEPTED

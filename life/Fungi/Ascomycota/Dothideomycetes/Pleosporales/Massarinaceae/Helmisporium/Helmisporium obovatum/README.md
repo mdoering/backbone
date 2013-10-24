@@ -1,5 +1,4 @@
-Helmisporium obovatum Berk. SPECIES
-=======
+# Helmisporium obovatum Berk. SPECIES
 
 #### Status
 ACCEPTED

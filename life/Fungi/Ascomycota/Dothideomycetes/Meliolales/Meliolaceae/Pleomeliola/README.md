@@ -1,5 +1,4 @@
-Pleomeliola (Sacc.) Sacc. GENUS
-=======
+# Pleomeliola (Sacc.) Sacc. GENUS
 
 #### Status
 ACCEPTED

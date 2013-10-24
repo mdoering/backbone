@@ -1,5 +1,4 @@
-Amanita flavida Lam. SPECIES
-=======
+# Amanita flavida Lam. SPECIES
 
 #### Status
 ACCEPTED

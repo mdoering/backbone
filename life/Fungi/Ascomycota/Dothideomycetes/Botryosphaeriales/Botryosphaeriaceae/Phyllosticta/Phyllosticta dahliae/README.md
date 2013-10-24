@@ -1,5 +1,4 @@
-Phyllosticta dahliae Verpl. & Van den Broecke SPECIES
-=======
+# Phyllosticta dahliae Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

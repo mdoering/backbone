@@ -1,5 +1,4 @@
-Phacus nordstedtii Lemmermann, 1904 SPECIES
-=======
+# Phacus nordstedtii Lemmermann, 1904 SPECIES
 
 #### Status
 ACCEPTED

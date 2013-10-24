@@ -1,5 +1,4 @@
-Taphrina alpina Johanson SPECIES
-=======
+# Taphrina alpina Johanson SPECIES
 
 #### Status
 ACCEPTED

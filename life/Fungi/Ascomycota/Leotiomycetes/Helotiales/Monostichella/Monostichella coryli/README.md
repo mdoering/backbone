@@ -1,14 +1,13 @@
-Labrella coryli (Roberge ex Desm.) Sacc., 1884 SPECIES
-=======
+# Monostichella coryli (Roberge ex Desm.) Höhn., 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 648 (1884)
+null
 
 #### Original name
 Cheilaria coryli Roberge ex Desm., 1853

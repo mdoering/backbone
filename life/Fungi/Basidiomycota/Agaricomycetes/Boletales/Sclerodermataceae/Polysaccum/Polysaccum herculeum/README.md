@@ -1,5 +1,4 @@
-Polysaccum herculeum (Pall.) Fr. SPECIES
-=======
+# Polysaccum herculeum (Pall.) Fr. SPECIES
 
 #### Status
 ACCEPTED

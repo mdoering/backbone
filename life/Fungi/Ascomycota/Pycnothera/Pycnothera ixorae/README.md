@@ -1,5 +1,4 @@
-Pycnothera ixorae Punith. & Manohar., 1979 SPECIES
-=======
+# Pycnothera ixorae Punith. & Manohar., 1979 SPECIES
 
 #### Status
 ACCEPTED

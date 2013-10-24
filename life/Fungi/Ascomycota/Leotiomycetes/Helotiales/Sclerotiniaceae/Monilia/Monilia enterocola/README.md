@@ -1,5 +1,4 @@
-Monilia enterocola Macfie SPECIES
-=======
+# Monilia enterocola Macfie SPECIES
 
 #### Status
 ACCEPTED

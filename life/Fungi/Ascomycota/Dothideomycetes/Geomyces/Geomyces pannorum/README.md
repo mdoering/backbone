@@ -1,14 +1,13 @@
-Geomyces pannorus (Link) Sigler & J.W. Carmich. SPECIES
-=======
+# Geomyces pannorum (Link) Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 4(2): 377 (1976)
 
 #### Original name
 Sporotrichum pannorum Link, 1824

@@ -1,5 +1,4 @@
-Lepiota vernalis Bagl. SPECIES
-=======
+# Lepiota vernalis Bagl. SPECIES
 
 #### Status
 ACCEPTED

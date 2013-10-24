@@ -1,5 +1,4 @@
-Marasmius rhododendrorum Kalamees SPECIES
-=======
+# Marasmius rhododendrorum Kalamees SPECIES
 
 #### Status
 ACCEPTED

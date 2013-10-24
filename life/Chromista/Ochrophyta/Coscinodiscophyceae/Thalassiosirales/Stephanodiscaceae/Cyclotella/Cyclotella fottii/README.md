@@ -1,5 +1,4 @@
-Cyclotella fottii Hustedt Hub.-Pest. SPECIES
-=======
+# Cyclotella fottii Hustedt Hub.-Pest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia adelinensis F. Stevens & Celino SPECIES
-=======
+# Diplodia adelinensis F. Stevens & Celino SPECIES
 
 #### Status
 ACCEPTED

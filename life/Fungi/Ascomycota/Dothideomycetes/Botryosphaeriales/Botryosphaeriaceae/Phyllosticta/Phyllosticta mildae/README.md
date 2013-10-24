@@ -1,5 +1,4 @@
-Phyllosticta mildae Treigiene SPECIES
-=======
+# Phyllosticta mildae Treigiene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hidaella Fujimoto & Igo, 1955 GENUS
-=======
+# Hidaella Fujimoto & Igo, 1955 GENUS
 
 #### Status
 ACCEPTED

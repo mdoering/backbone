@@ -1,5 +1,4 @@
-Ascophanus pseudogranuliformis Speg. SPECIES
-=======
+# Ascophanus pseudogranuliformis Speg. SPECIES
 
 #### Status
 ACCEPTED

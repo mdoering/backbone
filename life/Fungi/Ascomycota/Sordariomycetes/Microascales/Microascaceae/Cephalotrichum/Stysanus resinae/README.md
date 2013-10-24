@@ -1,5 +1,4 @@
-Stysanus resinae (J. Lindau) Sacc. SPECIES
-=======
+# Stysanus resinae (J. Lindau) Sacc. SPECIES
 
 #### Status
 ACCEPTED

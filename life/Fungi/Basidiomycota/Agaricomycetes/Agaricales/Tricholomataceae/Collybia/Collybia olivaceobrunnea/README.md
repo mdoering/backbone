@@ -1,5 +1,4 @@
-Collybia olivaceobrunnea A.H. Sm. SPECIES
-=======
+# Collybia olivaceobrunnea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Choiromyces echinulatus Trappe & Marasas, 1973 SPECIES
-=======
+# Eremiomyces echinulatus (Trappe & Marasas) Trappe & Kagan-Zur, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Marasas & Trappe, Bothalia 11: 139 (1973)
+Mycol. Res. 109(2): 244 (2005)
 
 #### Original name
 Choiromyces echinulatus Trappe & Marasas, 1973

@@ -1,5 +1,4 @@
-Acarospora rimulosa H. Magn. SPECIES
-=======
+# Acarospora rimulosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

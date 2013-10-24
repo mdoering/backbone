@@ -1,5 +1,4 @@
-Triquetrorhabdulus shetlandensis SPECIES
-=======
+# Triquetrorhabdulus shetlandensis SPECIES
 
 #### Status
 ACCEPTED

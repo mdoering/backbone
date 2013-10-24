@@ -1,5 +1,4 @@
-Gyalecta geoicoides Vain. SPECIES
-=======
+# Gyalecta geoicoides Vain. SPECIES
 
 #### Status
 ACCEPTED

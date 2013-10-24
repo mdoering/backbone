@@ -1,5 +1,4 @@
-Phyllachora microcenta var. microcenta VARIETY
-=======
+# Phyllachora microcenta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 595 (1883)
+null
 
 #### Original name
-Dothidea microcenta Berk. & Broome, 1875
+null
 
 ### Remarks
 null

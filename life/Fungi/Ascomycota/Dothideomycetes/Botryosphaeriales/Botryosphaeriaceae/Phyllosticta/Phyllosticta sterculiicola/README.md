@@ -1,5 +1,4 @@
-Phyllosticta sterculicola f. sterculicola FORM
-=======
+# Phyllosticta sterculiicola Traverso SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 1(1/2): 3 (1903)
 
 #### Original name
-null
+Phyllosticta sterculiicola Traverso
 
 ### Remarks
 null

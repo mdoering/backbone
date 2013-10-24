@@ -1,5 +1,4 @@
-Trichopeziza citrinoalba Penz. & Sacc. SPECIES
-=======
+# Trichopeziza citrinoalba Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

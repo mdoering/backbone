@@ -1,17 +1,16 @@
-Septonema verrucosa Zachariah, Sankaran & Leelav. SPECIES
-=======
+# Septonema verrucosum Zachariah, Sankaran & Leelav. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 73(1): 208 (1981)
 
 #### Original name
-Septonema verrucosa Zachariah, Sankaran & Leelav.
+Septonema verrucosum Zachariah, Sankaran & Leelav.
 
 ### Remarks
 null

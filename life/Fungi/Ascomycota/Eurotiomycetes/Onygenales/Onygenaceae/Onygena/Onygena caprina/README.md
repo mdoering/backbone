@@ -1,5 +1,4 @@
-Onygena caprina Fuckel SPECIES
-=======
+# Onygena caprina Fuckel SPECIES
 
 #### Status
 ACCEPTED

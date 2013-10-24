@@ -1,5 +1,4 @@
-Tylopilus subpunctipes (Peck) A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus subpunctipes (Peck) A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

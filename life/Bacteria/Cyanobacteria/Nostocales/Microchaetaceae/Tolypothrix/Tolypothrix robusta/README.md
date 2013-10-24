@@ -1,5 +1,4 @@
-Tolypothrix robusta Gardner SPECIES
-=======
+# Tolypothrix robusta Gardner SPECIES
 
 #### Status
 ACCEPTED

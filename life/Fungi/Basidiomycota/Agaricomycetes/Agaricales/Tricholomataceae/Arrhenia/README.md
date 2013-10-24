@@ -1,17 +1,16 @@
-Corniola Gray GENUS
-=======
+# Arrhenia Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 637 (1821)
+Summa veg. Scand. (Stockholm), Section Post. 312 (1849)
 
 #### Original name
-Corniola Gray
+Arrhenia Fr.
 
 ### Remarks
 null

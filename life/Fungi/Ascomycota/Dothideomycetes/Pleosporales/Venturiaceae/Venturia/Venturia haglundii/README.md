@@ -1,8 +1,7 @@
-Venturia haglundi Starbäck SPECIES
-=======
+# Venturia haglundii Starbäck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Venturia haglundi Starbäck
+Venturia haglundii Starbäck
 
 ### Remarks
 null

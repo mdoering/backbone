@@ -1,5 +1,4 @@
-Peniophora flava (Burt) D.P. Rogers & H.S. Jacks. SPECIES
-=======
+# Peniophora flava (Burt) D.P. Rogers & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Floccaria glauca Grev. SPECIES
-=======
+# Floccaria glauca Grev. SPECIES
 
 #### Status
 ACCEPTED

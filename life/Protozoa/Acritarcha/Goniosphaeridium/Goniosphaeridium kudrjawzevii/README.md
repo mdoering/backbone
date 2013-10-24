@@ -1,5 +1,4 @@
-Goniosphaeridium kudrjawzevii Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Goniosphaeridium kudrjawzevii Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

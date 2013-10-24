@@ -1,5 +1,4 @@
-Pseudocercospora ilicis (Ellis) U. Braun SPECIES
-=======
+# Pseudocercospora ilicis (Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

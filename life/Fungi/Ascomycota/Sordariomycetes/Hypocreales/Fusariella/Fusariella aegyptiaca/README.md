@@ -1,17 +1,16 @@
-Fusariella aegyptiacum Mouch. SPECIES
-=======
+# Fusariella aegyptiaca Mouch., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mouchacca & Nicot, Revue Mycol. , Paris 37(3): 181 (1973)
 
 #### Original name
-Fusariella aegyptiacum Mouch.
+Fusariella aegyptiaca Mouch., 1973
 
 ### Remarks
 null

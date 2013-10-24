@@ -1,5 +1,4 @@
-Isthmolongispora asymmetrica Aramb. & Cabello SPECIES
-=======
+# Isthmolongispora asymmetrica Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

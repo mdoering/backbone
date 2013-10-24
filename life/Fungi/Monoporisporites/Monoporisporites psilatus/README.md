@@ -1,5 +1,4 @@
-Monoporisporites psilatus A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Monoporisporites psilatus A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

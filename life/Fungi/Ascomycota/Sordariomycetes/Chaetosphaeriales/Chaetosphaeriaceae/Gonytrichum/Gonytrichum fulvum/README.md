@@ -1,5 +1,4 @@
-Gonytrichum fulvum Ellis SPECIES
-=======
+# Gonytrichum fulvum Ellis SPECIES
 
 #### Status
 ACCEPTED

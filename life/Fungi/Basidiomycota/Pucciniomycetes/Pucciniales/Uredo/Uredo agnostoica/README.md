@@ -1,5 +1,4 @@
-Uredo agnostoica Speg. SPECIES
-=======
+# Uredo agnostoica Speg. SPECIES
 
 #### Status
 ACCEPTED

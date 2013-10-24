@@ -1,5 +1,4 @@
-Alectoria corymbosa Hue SPECIES
-=======
+# Alectoria corymbosa Hue SPECIES
 
 #### Status
 ACCEPTED

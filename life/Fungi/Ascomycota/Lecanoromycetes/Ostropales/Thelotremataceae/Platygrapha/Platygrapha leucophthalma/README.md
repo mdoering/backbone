@@ -1,5 +1,4 @@
-Platygrapha leucophthalma Müll. Arg. SPECIES
-=======
+# Platygrapha leucophthalma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium camptotrichum Corda SPECIES
-=======
+# Helminthosporium camptotrichum Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 14 (1837)
 
 #### Original name
-Helmisporium camptotrichum Corda
+Helminthosporium camptotrichum Corda
 
 ### Remarks
 null

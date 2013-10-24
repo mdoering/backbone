@@ -1,5 +1,4 @@
-Ephelina GENUS
-=======
+# Ephelina GENUS
 
 #### Status
 ACCEPTED

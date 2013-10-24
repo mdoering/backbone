@@ -1,5 +1,4 @@
-Chytroeisphaeridia pericompsa (Ioannides, Stavrinos & Downie, 1977) Davey SPECIES
-=======
+# Chytroeisphaeridia pericompsa (Ioannides, Stavrinos & Downie, 1977) Davey SPECIES
 
 #### Status
 ACCEPTED

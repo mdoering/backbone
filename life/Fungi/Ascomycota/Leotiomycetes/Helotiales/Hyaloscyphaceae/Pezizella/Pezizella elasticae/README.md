@@ -1,5 +1,4 @@
-Pezizella elasticae Koord. SPECIES
-=======
+# Pezizella elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

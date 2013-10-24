@@ -1,5 +1,4 @@
-Fusisporium aureum Fr. SPECIES
-=======
+# Fusisporium aureum Fr. SPECIES
 
 #### Status
 ACCEPTED

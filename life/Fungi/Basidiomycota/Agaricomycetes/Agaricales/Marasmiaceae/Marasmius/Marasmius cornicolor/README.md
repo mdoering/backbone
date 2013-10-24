@@ -1,5 +1,4 @@
-Marasmius cornicolor Berk. & Broome SPECIES
-=======
+# Marasmius cornicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplographis GENUS
-=======
+# Diplographis GENUS
 
 #### Status
 ACCEPTED

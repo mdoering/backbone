@@ -1,5 +1,4 @@
-Phomopsis hughesii N.D. Sharma SPECIES
-=======
+# Phomopsis hughesii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocochlus asteroides Drechsler, 1935 SPECIES
-=======
+# Endocochlus asteroides Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

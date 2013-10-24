@@ -1,5 +1,4 @@
-Schiffnerula robusta Orejuela SPECIES
-=======
+# Schiffnerula robusta Orejuela SPECIES
 
 #### Status
 ACCEPTED

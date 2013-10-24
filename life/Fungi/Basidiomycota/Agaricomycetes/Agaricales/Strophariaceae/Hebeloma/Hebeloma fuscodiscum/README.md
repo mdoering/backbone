@@ -1,5 +1,4 @@
-Hebeloma fuscodiscum (Peck) Sacc. SPECIES
-=======
+# Hebeloma fuscodiscum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

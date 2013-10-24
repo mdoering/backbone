@@ -1,5 +1,4 @@
-Actinomadura fastidiosa Soina et al., 1975 SPECIES
-=======
+# Actinomadura fastidiosa Soina et al., 1975 SPECIES
 
 #### Status
 ACCEPTED

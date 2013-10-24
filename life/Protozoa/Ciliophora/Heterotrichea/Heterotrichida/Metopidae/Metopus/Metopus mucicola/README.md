@@ -1,5 +1,4 @@
-Metopus mucicola Kahl, 1927 SPECIES
-=======
+# Metopus mucicola Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

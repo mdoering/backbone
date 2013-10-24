@@ -1,5 +1,4 @@
-Zygosaccharomyces leproticus Mello & Lob. Faria SPECIES
-=======
+# Zygosaccharomyces leproticus Mello & Lob. Faria SPECIES
 
 #### Status
 ACCEPTED

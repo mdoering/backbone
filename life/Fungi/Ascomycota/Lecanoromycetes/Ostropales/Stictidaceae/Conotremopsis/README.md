@@ -1,5 +1,4 @@
-Conotremopsis Vezda GENUS
-=======
+# Conotremopsis Vezda GENUS
 
 #### Status
 ACCEPTED

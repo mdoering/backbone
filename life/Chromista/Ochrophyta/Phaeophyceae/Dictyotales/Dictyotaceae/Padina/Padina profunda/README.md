@@ -1,5 +1,4 @@
-Padina profunda S.A. Earle SPECIES
-=======
+# Padina profunda S.A. Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus mustellinus Fr. SPECIES
-=======
+# Agaricus mustelinus Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 169 (1838)
 
 #### Original name
-Agaricus mustellinus Fr.
+Agaricus mustelinus Fr.
 
 ### Remarks
 null

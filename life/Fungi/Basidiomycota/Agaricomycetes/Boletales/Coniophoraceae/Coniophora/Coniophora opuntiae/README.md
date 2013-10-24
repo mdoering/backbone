@@ -1,5 +1,4 @@
-Coniophora opuntiae Tellería, 1984 SPECIES
-=======
+# Coniophora opuntiae Tellería, 1984 SPECIES
 
 #### Status
 ACCEPTED

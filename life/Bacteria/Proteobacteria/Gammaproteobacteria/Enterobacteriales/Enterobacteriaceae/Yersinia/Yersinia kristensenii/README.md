@@ -1,5 +1,4 @@
-Yersinia kristensenii Bercovier et al., 1981 SPECIES
-=======
+# Yersinia kristensenii Bercovier et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

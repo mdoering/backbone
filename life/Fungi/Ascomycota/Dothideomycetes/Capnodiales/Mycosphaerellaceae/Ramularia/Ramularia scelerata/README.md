@@ -1,14 +1,13 @@
-Ovularia scelerata (Cooke) Massee, 1893 SPECIES
-=======
+# Ramularia scelerata Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Fungus Flora. Agarics and Boleti (London) 3: 323 (1893)
+Grevillea 14(no. 70): 40 (1885)
 
 #### Original name
 Ramularia scelerata Cooke, 1885

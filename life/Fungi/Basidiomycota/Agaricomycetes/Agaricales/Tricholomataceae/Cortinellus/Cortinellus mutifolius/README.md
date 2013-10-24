@@ -1,5 +1,4 @@
-Cortinellus mutifolius Murrill SPECIES
-=======
+# Cortinellus mutifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bisaccium imbricatum SPECIES
-=======
+# Bisaccium imbricatum SPECIES
 
 #### Status
 ACCEPTED

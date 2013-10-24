@@ -1,8 +1,7 @@
-Tontonia grandis Suzuki & Han, 2000 SPECIES
-=======
+# Spirotontonia grandis (Suzuki & Han, 2000) Agatha, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Teichospora alpataci Speg. SPECIES
-=======
+# Teichospora alpataci Speg. SPECIES
 
 #### Status
 ACCEPTED

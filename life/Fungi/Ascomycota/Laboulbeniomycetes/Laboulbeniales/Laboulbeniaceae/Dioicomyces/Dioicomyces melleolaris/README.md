@@ -1,5 +1,4 @@
-Dioicomyces melleolaris Thaxt. SPECIES
-=======
+# Dioicomyces melleolaris Thaxt. SPECIES
 
 #### Status
 ACCEPTED

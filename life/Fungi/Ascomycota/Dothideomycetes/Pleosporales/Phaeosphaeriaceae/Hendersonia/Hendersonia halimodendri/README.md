@@ -1,5 +1,4 @@
-Hendersonia halimodendri Murashk. SPECIES
-=======
+# Hendersonia halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

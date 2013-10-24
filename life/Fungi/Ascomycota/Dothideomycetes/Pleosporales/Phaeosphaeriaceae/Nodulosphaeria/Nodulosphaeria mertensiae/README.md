@@ -1,5 +1,4 @@
-Nodulosphaeria mertensiae (Ellis) Huhndorf SPECIES
-=======
+# Nodulosphaeria mertensiae (Ellis) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

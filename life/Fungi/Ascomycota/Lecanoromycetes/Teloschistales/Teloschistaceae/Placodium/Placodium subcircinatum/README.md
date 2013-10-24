@@ -1,5 +1,4 @@
-Placodium subcircinatum (Nyl.) Arnold SPECIES
-=======
+# Placodium subcircinatum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

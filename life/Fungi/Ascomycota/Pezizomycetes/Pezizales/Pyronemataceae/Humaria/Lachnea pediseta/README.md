@@ -1,5 +1,4 @@
-Lachnea pediseta (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea pediseta (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

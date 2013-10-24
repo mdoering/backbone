@@ -1,5 +1,4 @@
-Leptosphaeria aceris Woron. SPECIES
-=======
+# Leptosphaeria aceris Woron. SPECIES
 
 #### Status
 ACCEPTED

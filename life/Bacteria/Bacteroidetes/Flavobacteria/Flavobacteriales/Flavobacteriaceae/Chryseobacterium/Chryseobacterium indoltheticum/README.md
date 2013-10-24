@@ -1,11 +1,10 @@
-Beneckea indolthetica (Campbell & Williams, 1951) Campbell, 1957 SPECIES
-=======
+# Chryseobacterium indoltheticum (Campbell & Williams, 1951) Vandamme et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

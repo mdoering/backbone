@@ -1,5 +1,4 @@
-Huea confluens (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Huea confluens (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

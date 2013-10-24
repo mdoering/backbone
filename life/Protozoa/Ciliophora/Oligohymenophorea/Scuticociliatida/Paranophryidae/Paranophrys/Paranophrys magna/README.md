@@ -1,5 +1,4 @@
-Paranophrys magna Borror, 1972 SPECIES
-=======
+# Paranophrys magna Borror, 1972 SPECIES
 
 #### Status
 ACCEPTED

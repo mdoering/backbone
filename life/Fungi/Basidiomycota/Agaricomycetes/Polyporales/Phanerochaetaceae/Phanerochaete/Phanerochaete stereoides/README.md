@@ -1,5 +1,4 @@
-Phanerochaete stereoides Sheng H. Wu SPECIES
-=======
+# Phanerochaete stereoides Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

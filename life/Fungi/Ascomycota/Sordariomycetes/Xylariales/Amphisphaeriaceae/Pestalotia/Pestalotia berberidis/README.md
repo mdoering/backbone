@@ -1,5 +1,4 @@
-Pestalotia berberidis Guba SPECIES
-=======
+# Pestalotia berberidis Guba SPECIES
 
 #### Status
 ACCEPTED

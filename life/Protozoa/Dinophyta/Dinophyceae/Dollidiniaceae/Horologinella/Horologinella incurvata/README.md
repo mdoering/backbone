@@ -1,5 +1,4 @@
-Horologinella incurvata Cookson & Eisenack, 1962 SPECIES
-=======
+# Horologinella incurvata Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

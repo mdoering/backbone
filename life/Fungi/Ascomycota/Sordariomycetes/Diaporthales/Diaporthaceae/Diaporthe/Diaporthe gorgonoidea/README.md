@@ -1,5 +1,4 @@
-Diaporthe gorgonoidea Cooke & Harkn. SPECIES
-=======
+# Diaporthe gorgonoidea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus pusio Locq. SPECIES
-=======
+# Coprinus pusio Locq. SPECIES
 
 #### Status
 ACCEPTED

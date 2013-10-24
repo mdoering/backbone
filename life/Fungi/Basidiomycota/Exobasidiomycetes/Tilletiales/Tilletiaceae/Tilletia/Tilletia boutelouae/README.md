@@ -1,5 +1,4 @@
-Tilletia boutelouae Durán SPECIES
-=======
+# Tilletia boutelouae Durán SPECIES
 
 #### Status
 ACCEPTED

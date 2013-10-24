@@ -1,5 +1,4 @@
-Arthonia squamarinae Etayo SPECIES
-=======
+# Arthonia squamarinae Etayo SPECIES
 
 #### Status
 ACCEPTED

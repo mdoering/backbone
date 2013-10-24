@@ -1,14 +1,13 @@
-Pterygium zeylanense Leight. SPECIES
-=======
+# Leightoniella zeylanensis (Leight.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 3: 40 (1965)
 
 #### Original name
 Pterygium zeylanense Leight.

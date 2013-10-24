@@ -1,5 +1,4 @@
-Bryophryida ORDER
-=======
+# Bryophryida ORDER
 
 #### Status
 ACCEPTED

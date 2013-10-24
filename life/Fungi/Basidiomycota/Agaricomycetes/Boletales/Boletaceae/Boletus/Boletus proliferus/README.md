@@ -1,5 +1,4 @@
-Boletus proliferus With. SPECIES
-=======
+# Boletus proliferus With. SPECIES
 
 #### Status
 ACCEPTED

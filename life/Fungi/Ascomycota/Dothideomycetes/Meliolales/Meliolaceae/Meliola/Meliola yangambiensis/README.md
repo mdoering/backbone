@@ -1,5 +1,4 @@
-Meliola yangambiensis Hansf. SPECIES
-=======
+# Meliola yangambiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

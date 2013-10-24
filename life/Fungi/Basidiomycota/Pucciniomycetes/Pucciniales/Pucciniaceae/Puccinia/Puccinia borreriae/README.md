@@ -1,5 +1,4 @@
-Puccinia borreriae P. Syd. & Syd. SPECIES
-=======
+# Puccinia borreriae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

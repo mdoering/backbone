@@ -1,5 +1,4 @@
-Phlyctema septorioides Sacc. SPECIES
-=======
+# Phlyctema septorioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

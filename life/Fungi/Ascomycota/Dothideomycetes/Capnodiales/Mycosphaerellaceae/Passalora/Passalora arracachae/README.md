@@ -1,5 +1,4 @@
-Passalora arracachae (Pat.) U. Braun & Crous SPECIES
-=======
+# Passalora arracachae (Pat.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

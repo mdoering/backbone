@@ -1,5 +1,4 @@
-Vishnumyces otonephelii Hosag. & Harish, 2010 SPECIES
-=======
+# Vishnumyces otonephelii Hosag. & Harish, 2010 SPECIES
 
 #### Status
 ACCEPTED

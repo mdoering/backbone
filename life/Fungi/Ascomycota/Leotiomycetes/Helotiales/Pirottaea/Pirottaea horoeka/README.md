@@ -1,5 +1,4 @@
-Pirottaea horoeka P.R. Johnst., 1998 SPECIES
-=======
+# Pirottaea horoeka P.R. Johnst., 1998 SPECIES
 
 #### Status
 ACCEPTED

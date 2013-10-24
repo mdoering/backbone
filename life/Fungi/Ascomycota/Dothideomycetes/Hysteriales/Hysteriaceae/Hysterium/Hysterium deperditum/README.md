@@ -1,5 +1,4 @@
-Hysterium deperditum Heer SPECIES
-=======
+# Hysterium deperditum Heer SPECIES
 
 #### Status
 ACCEPTED

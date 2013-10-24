@@ -1,8 +1,7 @@
-Bactridiopsis Hennings, 1904 GENUS
-=======
+# Coccospora Wallroth, 1833 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List

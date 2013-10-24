@@ -1,5 +1,4 @@
-Capronia normandinae R. Sant. & D. Hawksw., 1990 SPECIES
-=======
+# Capronia normandinae R. Sant. & D. Hawksw., 1990 SPECIES
 
 #### Status
 ACCEPTED

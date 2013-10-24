@@ -1,5 +1,4 @@
-Ceriomyces hepaticus Arcang. SPECIES
-=======
+# Ceriomyces hepaticus Arcang. SPECIES
 
 #### Status
 ACCEPTED

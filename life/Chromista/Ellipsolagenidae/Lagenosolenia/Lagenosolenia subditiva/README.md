@@ -1,5 +1,4 @@
-Lagenosolenia subditiva McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia subditiva McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

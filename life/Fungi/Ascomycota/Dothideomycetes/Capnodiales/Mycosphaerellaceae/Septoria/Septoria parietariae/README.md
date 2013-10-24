@@ -1,5 +1,4 @@
-Septoria parietariae Davis SPECIES
-=======
+# Septoria parietariae Davis SPECIES
 
 #### Status
 ACCEPTED

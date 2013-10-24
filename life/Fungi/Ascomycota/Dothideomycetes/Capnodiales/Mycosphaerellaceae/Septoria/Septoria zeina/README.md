@@ -1,5 +1,4 @@
-Septoria zeina G.L. Stout, 1930 SPECIES
-=======
+# Septoria zeina G.L. Stout, 1930 SPECIES
 
 #### Status
 ACCEPTED

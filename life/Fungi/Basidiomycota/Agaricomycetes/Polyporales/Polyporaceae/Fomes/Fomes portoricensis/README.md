@@ -1,5 +1,4 @@
-Fomes portoricensis Overh. SPECIES
-=======
+# Fomes portoricensis Overh. SPECIES
 
 #### Status
 ACCEPTED

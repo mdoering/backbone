@@ -1,5 +1,4 @@
-Thalassomyces spiczakovii Niezab. SPECIES
-=======
+# Thalassomyces spiczakovii Niezab. SPECIES
 
 #### Status
 ACCEPTED

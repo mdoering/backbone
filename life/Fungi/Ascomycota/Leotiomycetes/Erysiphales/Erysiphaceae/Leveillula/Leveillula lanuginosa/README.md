@@ -1,5 +1,4 @@
-Leveillula lanuginosa (Fuckel) Golovin SPECIES
-=======
+# Leveillula lanuginosa (Fuckel) Golovin SPECIES
 
 #### Status
 ACCEPTED

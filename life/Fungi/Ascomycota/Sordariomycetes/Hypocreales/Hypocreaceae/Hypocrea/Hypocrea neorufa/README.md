@@ -1,5 +1,4 @@
-Hypocrea neorufa Samuels, Dodd & Lieckf., 2002 SPECIES
-=======
+# Hypocrea neorufa Samuels, Dodd & Lieckf., 2002 SPECIES
 
 #### Status
 ACCEPTED

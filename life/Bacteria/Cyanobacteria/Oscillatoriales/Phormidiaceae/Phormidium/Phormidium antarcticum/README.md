@@ -1,5 +1,4 @@
-Phormidium antarcticum W. & G. S. West SPECIES
-=======
+# Phormidium antarcticum W. & G. S. West SPECIES
 
 #### Status
 ACCEPTED

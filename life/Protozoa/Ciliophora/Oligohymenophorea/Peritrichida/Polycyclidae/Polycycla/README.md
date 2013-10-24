@@ -1,5 +1,4 @@
-Polycycla Poljanskij, 1951 GENUS
-=======
+# Polycycla Poljanskij, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella mali var. mali VARIETY
-=======
+# Dothiorella mali (P. Karst.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Acad. nat. Sci. Philad. 47: 456 (1895)
 
 #### Original name
-Dothiorella mali var. mali
+Dothiora mali P. Karst.
 
 ### Remarks
 null

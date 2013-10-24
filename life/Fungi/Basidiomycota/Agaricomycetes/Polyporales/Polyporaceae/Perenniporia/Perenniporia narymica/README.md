@@ -1,17 +1,16 @@
-Poria elongata Overh., 1942 SPECIES
-=======
+# Perenniporia narymica (Pilát) Pouzar, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Pa agric. Exp. Stn 418: 28 (1942)
+Ceská Mykol. 38(4): 204 (1984)
 
 #### Original name
-Poria elongata Overh., 1942
+Trametes narymica Pilát, 1936
 
 ### Remarks
 null

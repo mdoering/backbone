@@ -1,5 +1,4 @@
-Coprinus straminis Copel. SPECIES
-=======
+# Coprinus straminis Copel. SPECIES
 
 #### Status
 ACCEPTED

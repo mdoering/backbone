@@ -1,5 +1,4 @@
-Botrytis bryi Gonz. Frag. SPECIES
-=======
+# Botrytis bryi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

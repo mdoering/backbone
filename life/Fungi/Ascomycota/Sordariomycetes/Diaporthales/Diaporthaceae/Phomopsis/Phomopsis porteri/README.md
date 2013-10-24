@@ -1,5 +1,4 @@
-Phomopsis porteri A. Funk SPECIES
-=======
+# Phomopsis porteri A. Funk SPECIES
 
 #### Status
 ACCEPTED

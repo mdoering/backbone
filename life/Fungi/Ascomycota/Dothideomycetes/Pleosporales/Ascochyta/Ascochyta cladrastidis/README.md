@@ -1,5 +1,4 @@
-Ascochyta cladrastidis Kabát & Bubák SPECIES
-=======
+# Ascochyta cladrastidis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

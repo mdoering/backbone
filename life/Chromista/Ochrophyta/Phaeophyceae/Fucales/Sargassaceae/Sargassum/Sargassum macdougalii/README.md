@@ -1,5 +1,4 @@
-Sargassum macdougalii E.Y. Dawson SPECIES
-=======
+# Sargassum macdougalii E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

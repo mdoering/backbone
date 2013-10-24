@@ -1,5 +1,4 @@
-Lecidea inexpectata Müll. Arg. SPECIES
-=======
+# Lecidea inexpectata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

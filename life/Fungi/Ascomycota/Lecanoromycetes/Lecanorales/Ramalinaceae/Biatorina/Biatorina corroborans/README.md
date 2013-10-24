@@ -1,8 +1,7 @@
-Biatorina corraborans (Stirt.) Hedl. SPECIES
-=======
+# Biatorina corroborans (Stirt.) Hedl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Hiatula boniana Pat. SPECIES
-=======
+# Hiatula boniana Pat. SPECIES
 
 #### Status
 ACCEPTED

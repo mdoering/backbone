@@ -1,17 +1,16 @@
-Polyblastia theleodes f. theleodes FORM
-=======
+# Polyblastia theleodes (Sommerf.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 7(2): 48 (1867)
 
 #### Original name
-Polyblastia theleodes f. theleodes
+Verrucaria theleodes Sommerf.
 
 ### Remarks
 null

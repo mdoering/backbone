@@ -1,5 +1,4 @@
-Asterocapsa sinica Liang & Chen SPECIES
-=======
+# Asterocapsa sinica Liang & Chen SPECIES
 
 #### Status
 ACCEPTED

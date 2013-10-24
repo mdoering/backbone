@@ -1,5 +1,4 @@
-Gnomoniella rubicola Pass., 1888 SPECIES
-=======
+# Gnomoniella rubicola Pass., 1888 SPECIES
 
 #### Status
 ACCEPTED

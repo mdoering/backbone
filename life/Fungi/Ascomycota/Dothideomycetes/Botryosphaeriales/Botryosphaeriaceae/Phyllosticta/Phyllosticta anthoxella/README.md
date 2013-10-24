@@ -1,5 +1,4 @@
-Phyllosticta anthoxella R. Sprague SPECIES
-=======
+# Phyllosticta anthoxella R. Sprague SPECIES
 
 #### Status
 ACCEPTED

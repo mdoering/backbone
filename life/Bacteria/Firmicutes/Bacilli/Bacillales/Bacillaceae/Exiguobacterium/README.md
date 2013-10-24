@@ -1,5 +1,4 @@
-Exiguobacterium Collins et al., 1984 GENUS
-=======
+# Exiguobacterium Collins et al., 1984 GENUS
 
 #### Status
 ACCEPTED

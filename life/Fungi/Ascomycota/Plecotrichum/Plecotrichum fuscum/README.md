@@ -1,5 +1,4 @@
-Plecotrichum fuscum Corda SPECIES
-=======
+# Plecotrichum fuscum Corda SPECIES
 
 #### Status
 ACCEPTED

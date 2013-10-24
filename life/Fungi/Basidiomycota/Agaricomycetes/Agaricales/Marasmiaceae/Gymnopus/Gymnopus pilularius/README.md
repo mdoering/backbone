@@ -1,5 +1,4 @@
-Gymnopus pilularius (Mont.) Murrill SPECIES
-=======
+# Gymnopus pilularius (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes biogilvoides Corner SPECIES
-=======
+# Trametes biogilvoides Corner SPECIES
 
 #### Status
 ACCEPTED

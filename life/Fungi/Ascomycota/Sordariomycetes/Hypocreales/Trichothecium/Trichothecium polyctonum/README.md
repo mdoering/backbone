@@ -1,5 +1,4 @@
-Trichothecium polyctonum Drechsler SPECIES
-=======
+# Trichothecium polyctonum Drechsler SPECIES
 
 #### Status
 ACCEPTED

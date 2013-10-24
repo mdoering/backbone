@@ -1,5 +1,4 @@
-Dicaeoma insidiosum (Berk.) Kuntze SPECIES
-=======
+# Dicaeoma insidiosum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

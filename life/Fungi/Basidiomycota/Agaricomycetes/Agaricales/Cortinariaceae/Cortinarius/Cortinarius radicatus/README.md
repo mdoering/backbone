@@ -1,5 +1,4 @@
-Cortinarius radicatus Cleland SPECIES
-=======
+# Cortinarius radicatus Cleland SPECIES
 
 #### Status
 ACCEPTED

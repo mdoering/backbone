@@ -1,5 +1,4 @@
-Rhizophydium barkerianum (W.A. Archer) A. Fisch. SPECIES
-=======
+# Rhizophydium barkerianum (W.A. Archer) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

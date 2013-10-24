@@ -1,14 +1,13 @@
-Köllikeria Mingazzini, 1891 GENUS
-=======
+# Lecudina Mingazzini, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Atti Accad. Lincei, Rend. , (4) 7 (1), 470.
+Atti Accad. Lincei, Rend. , (4) 7 (1), 469.
 
 #### Original name
 null

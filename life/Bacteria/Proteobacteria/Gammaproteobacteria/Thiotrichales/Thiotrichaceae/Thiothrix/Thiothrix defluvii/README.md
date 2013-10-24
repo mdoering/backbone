@@ -1,5 +1,4 @@
-Thiothrix defluvii Howarth et al., 1999 SPECIES
-=======
+# Thiothrix defluvii Howarth et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

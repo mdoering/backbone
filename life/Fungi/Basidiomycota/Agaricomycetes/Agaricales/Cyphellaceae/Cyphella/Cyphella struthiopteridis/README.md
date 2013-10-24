@@ -1,5 +1,4 @@
-Cyphella struthiopteridis Pilát SPECIES
-=======
+# Cyphella struthiopteridis Pilát SPECIES
 
 #### Status
 ACCEPTED

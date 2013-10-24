@@ -1,5 +1,4 @@
-Bactrospora intermedia Egea & Torrente SPECIES
-=======
+# Bactrospora intermedia Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza donadiniana I. Arroyo SPECIES
-=======
+# Peziza donadiniana I. Arroyo SPECIES
 
 #### Status
 ACCEPTED

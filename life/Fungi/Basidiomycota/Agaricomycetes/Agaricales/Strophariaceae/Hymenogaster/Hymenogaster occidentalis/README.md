@@ -1,5 +1,4 @@
-Hymenogaster occidentalis Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster occidentalis Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

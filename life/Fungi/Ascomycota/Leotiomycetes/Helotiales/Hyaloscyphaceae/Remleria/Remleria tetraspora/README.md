@@ -1,14 +1,13 @@
-Calycellina tetraspora K.S. Thind & M.P. Sharma, 1980 SPECIES
-=======
+# Remleria tetraspora (K.S. Thind & M.P. Sharma) Raitv., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 59(4): 350 (1980)
+Scripta Mycol. , Tartu 20: 111 (2004)
 
 #### Original name
 Calycellina tetraspora K.S. Thind & M.P. Sharma, 1980

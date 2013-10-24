@@ -1,5 +1,4 @@
-Sphaeria incrustata Kunze SPECIES
-=======
+# Sphaeria incrustata Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora tentaculata Kröber & Marwitz, 1993 SPECIES
-=======
+# Phytophthora tentaculata Kröber & Marwitz, 1993 SPECIES
 
 #### Status
 ACCEPTED

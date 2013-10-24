@@ -1,5 +1,4 @@
-Diplodia narthecii Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Diplodia narthecii Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

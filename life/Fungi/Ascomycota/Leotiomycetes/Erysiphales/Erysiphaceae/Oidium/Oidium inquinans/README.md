@@ -1,5 +1,4 @@
-Oidium inquinans Schwein. SPECIES
-=======
+# Oidium inquinans Schwein. SPECIES
 
 #### Status
 ACCEPTED

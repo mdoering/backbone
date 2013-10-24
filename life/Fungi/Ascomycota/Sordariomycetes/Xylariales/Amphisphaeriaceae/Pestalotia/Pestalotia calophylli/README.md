@@ -1,5 +1,4 @@
-Pestalotia calophylli Henn. SPECIES
-=======
+# Pestalotia calophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

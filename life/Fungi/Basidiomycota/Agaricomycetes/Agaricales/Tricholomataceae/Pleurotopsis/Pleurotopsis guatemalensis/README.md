@@ -1,5 +1,4 @@
-Pleurotopsis guatemalensis R.H. Petersen & S.A. Gordon SPECIES
-=======
+# Pleurotopsis guatemalensis R.H. Petersen & S.A. Gordon SPECIES
 
 #### Status
 ACCEPTED

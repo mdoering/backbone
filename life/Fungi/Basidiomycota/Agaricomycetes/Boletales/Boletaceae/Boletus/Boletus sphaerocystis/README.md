@@ -1,5 +1,4 @@
-Boletus sphaerocystis A.H. Sm. & Thiers SPECIES
-=======
+# Boletus sphaerocystis A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

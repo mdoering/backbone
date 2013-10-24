@@ -1,14 +1,13 @@
-Ascidium dignitosum Kremp. SPECIES
-=======
+# Thelotrema dignitosum (Kremp.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 7: 24 (1875)
+Cat. Lich. Univers. 2: 616 (1923)
 
 #### Original name
 Ascidium dignitosum Kremp.

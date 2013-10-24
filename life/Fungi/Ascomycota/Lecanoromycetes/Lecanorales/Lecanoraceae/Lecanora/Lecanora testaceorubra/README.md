@@ -1,5 +1,4 @@
-Lecanora testaceorubra (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora testaceorubra (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

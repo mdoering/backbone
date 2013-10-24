@@ -1,5 +1,4 @@
-Apodachlyella Indoh GENUS
-=======
+# Apodachlyella Indoh GENUS
 
 #### Status
 ACCEPTED

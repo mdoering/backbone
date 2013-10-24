@@ -1,5 +1,4 @@
-Treleasiella Speg. GENUS
-=======
+# Treleasiella Speg. GENUS
 
 #### Status
 ACCEPTED

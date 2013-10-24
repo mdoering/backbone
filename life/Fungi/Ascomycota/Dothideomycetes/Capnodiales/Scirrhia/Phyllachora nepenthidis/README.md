@@ -1,5 +1,4 @@
-Phyllachora nepenthidis Racib., 1915 SPECIES
-=======
+# Phyllachora nepenthidis Racib., 1915 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Pachyella peltata Pfister & Cand. SPECIES
-=======
+# Pachyella peltata Pfister & Cand. SPECIES
 
 #### Status
 ACCEPTED

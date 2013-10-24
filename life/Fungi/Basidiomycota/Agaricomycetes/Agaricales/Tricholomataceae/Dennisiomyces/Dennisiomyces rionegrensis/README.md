@@ -1,5 +1,4 @@
-Dennisiomyces rionegrensis Singer, 1989 SPECIES
-=======
+# Dennisiomyces rionegrensis Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

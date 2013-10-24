@@ -1,5 +1,4 @@
-Nitrospinaceae FAMILY
-=======
+# Nitrospinaceae FAMILY
 
 #### Status
 ACCEPTED

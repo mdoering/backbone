@@ -1,5 +1,4 @@
-Septoria erechtitis Ellis & Everh. SPECIES
-=======
+# Septoria erechtitis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

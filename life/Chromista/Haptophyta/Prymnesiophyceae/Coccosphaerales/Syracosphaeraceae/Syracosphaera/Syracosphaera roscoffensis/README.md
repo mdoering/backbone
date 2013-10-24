@@ -1,5 +1,4 @@
-Syracosphaera roscoffensis P. Dangeard SPECIES
-=======
+# Syracosphaera roscoffensis P. Dangeard SPECIES
 
 #### Status
 ACCEPTED

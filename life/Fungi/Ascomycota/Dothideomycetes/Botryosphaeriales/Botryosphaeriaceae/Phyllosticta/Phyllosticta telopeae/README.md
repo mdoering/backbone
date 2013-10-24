@@ -1,5 +1,4 @@
-Phyllosticta telopeae H.Y. Yip, 1989 SPECIES
-=======
+# Phyllosticta telopeae H.Y. Yip, 1989 SPECIES
 
 #### Status
 ACCEPTED

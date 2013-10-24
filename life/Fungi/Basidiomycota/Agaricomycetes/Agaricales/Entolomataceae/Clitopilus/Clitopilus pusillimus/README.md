@@ -1,5 +1,4 @@
-Clitopilus pusillimus (Speg.) Singer SPECIES
-=======
+# Clitopilus pusillimus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Eucollema cheilium f. cheilium FORM
-=======
+# Eucollema cheilium SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Eucollema cheilium f. cheilium
+null
 
 ### Remarks
 null

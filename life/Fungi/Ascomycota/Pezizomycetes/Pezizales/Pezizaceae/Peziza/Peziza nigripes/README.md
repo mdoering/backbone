@@ -1,5 +1,4 @@
-Peziza nigripes var. nigripes VARIETY
-=======
+# Peziza nigripes Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 132 (1822)
 
 #### Original name
-Peziza nigripes var. nigripes
+Peziza nigripes Fr.
 
 ### Remarks
 null

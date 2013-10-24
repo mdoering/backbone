@@ -1,5 +1,4 @@
-Polyporus tubarius Quél. SPECIES
-=======
+# Polyporus tubarius Quél. SPECIES
 
 #### Status
 ACCEPTED

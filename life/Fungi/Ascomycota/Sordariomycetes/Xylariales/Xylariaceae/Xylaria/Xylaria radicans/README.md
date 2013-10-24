@@ -1,5 +1,4 @@
-Xylaria radicans Lloyd SPECIES
-=======
+# Xylaria radicans Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria columnaris Malme SPECIES
-=======
+# Pertusaria columnaris Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius mitificus Britzelm. SPECIES
-=======
+# Lactarius mitificus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

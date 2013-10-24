@@ -1,5 +1,4 @@
-Flammula taraxaci (Fr.) Sacc. SPECIES
-=======
+# Flammula taraxaci (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton carateum Brumpt SPECIES
-=======
+# Trichophyton carateum Brumpt SPECIES
 
 #### Status
 ACCEPTED

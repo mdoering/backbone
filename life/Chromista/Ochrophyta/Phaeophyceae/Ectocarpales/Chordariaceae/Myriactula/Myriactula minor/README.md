@@ -1,5 +1,4 @@
-Myriactula minor (Farlow) W.R. Taylor SPECIES
-=======
+# Myriactula minor (Farlow) W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

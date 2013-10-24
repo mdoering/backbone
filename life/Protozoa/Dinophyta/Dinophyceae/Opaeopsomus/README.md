@@ -1,5 +1,4 @@
-Opaeopsomus W.R. Evitt in Pocock, 1972 GENUS
-=======
+# Opaeopsomus W.R. Evitt in Pocock, 1972 GENUS
 
 #### Status
 ACCEPTED

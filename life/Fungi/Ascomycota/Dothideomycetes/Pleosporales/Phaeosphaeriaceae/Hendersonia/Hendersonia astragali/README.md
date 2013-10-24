@@ -1,5 +1,4 @@
-Hendersonia astragali P. Karst. SPECIES
-=======
+# Hendersonia astragali P. Karst. SPECIES
 
 #### Status
 ACCEPTED

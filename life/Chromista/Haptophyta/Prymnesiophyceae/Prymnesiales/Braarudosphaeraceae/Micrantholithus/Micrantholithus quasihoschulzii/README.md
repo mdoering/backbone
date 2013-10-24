@@ -1,5 +1,4 @@
-Micrantholithus quasihoschulzii SPECIES
-=======
+# Micrantholithus quasihoschulzii SPECIES
 
 #### Status
 ACCEPTED

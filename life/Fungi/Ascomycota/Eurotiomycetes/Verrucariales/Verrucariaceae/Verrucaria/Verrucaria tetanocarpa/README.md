@@ -1,5 +1,4 @@
-Verrucaria tetanocarpa J. Steiner SPECIES
-=======
+# Verrucaria tetanocarpa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

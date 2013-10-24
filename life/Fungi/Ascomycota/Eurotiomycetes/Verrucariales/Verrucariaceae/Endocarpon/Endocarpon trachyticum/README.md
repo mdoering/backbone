@@ -1,5 +1,4 @@
-Endocarpon trachyticum (Hazsl.) Garov. SPECIES
-=======
+# Endocarpon trachyticum (Hazsl.) Garov. SPECIES
 
 #### Status
 ACCEPTED

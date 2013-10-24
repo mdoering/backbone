@@ -1,5 +1,4 @@
-Manaustrum palmae Cavalc. & A.A. Silva SPECIES
-=======
+# Manaustrum palmae Cavalc. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

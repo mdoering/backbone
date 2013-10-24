@@ -1,5 +1,4 @@
-Cyanomastix Lackey, 1936 GENUS
-=======
+# Cyanomastix Lackey, 1936 GENUS
 
 #### Status
 ACCEPTED

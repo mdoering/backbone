@@ -1,5 +1,4 @@
-Nudispora J.I.R. Larsson GENUS
-=======
+# Nudispora J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

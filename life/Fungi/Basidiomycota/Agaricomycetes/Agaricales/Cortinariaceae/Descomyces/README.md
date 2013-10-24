@@ -1,5 +1,4 @@
-Descomyces Bougher & Castellano GENUS
-=======
+# Descomyces Bougher & Castellano GENUS
 
 #### Status
 ACCEPTED

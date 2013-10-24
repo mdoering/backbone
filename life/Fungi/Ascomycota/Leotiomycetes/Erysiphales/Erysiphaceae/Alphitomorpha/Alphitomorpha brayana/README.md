@@ -1,5 +1,4 @@
-Alphitomorpha brayana Doith SPECIES
-=======
+# Alphitomorpha brayana Doith SPECIES
 
 #### Status
 ACCEPTED

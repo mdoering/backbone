@@ -1,5 +1,4 @@
-Valvorotalia minuta Ujiie, 1997 SPECIES
-=======
+# Valvorotalia minuta Ujiie, 1997 SPECIES
 
 #### Status
 ACCEPTED

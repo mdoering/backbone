@@ -1,5 +1,4 @@
-Ramularia lactucae Jaap SPECIES
-=======
+# Ramularia lactucae Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium paspali-notati (Henn.) M. Piepenbr. SPECIES
-=======
+# Sporisorium paspali-notati (Henn.) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

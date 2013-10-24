@@ -1,5 +1,4 @@
-Amphoroblastia muscorum Servít SPECIES
-=======
+# Amphoroblastia muscorum Servít SPECIES
 
 #### Status
 ACCEPTED

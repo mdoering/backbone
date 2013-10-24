@@ -1,17 +1,16 @@
-Penicillium japonicum G. Sm., 1963 SPECIES
-=======
+# Penicillium resticulosum Birkinshaw, Raistrick & G. Sm., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 46: 333 (1963)
+Bio-chemical Journal 36: 830 (1942)
 
 #### Original name
-Penicillium japonicum G. Sm., 1963
+Penicillium resticulosum Birkinshaw, Raistrick & G. Sm., 1942
 
 ### Remarks
 null

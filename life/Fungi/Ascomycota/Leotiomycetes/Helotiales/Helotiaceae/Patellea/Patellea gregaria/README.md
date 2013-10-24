@@ -1,5 +1,4 @@
-Patellea gregaria Kunze SPECIES
-=======
+# Patellea gregaria Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora fuegiana Speg. SPECIES
-=======
+# Ceuthospora fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

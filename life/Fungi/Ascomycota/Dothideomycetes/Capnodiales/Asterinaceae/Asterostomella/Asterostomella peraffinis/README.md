@@ -1,5 +1,4 @@
-Asterostomella peraffinis Speg. SPECIES
-=======
+# Asterostomella peraffinis Speg. SPECIES
 
 #### Status
 ACCEPTED

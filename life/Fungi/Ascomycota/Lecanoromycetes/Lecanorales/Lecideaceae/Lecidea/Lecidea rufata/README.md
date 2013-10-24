@@ -1,5 +1,4 @@
-Lecidea rufata Stizenb. SPECIES
-=======
+# Lecidea rufata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

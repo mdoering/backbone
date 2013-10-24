@@ -1,5 +1,4 @@
-Crepidotus auricula Sacc. SPECIES
-=======
+# Crepidotus auricula Sacc. SPECIES
 
 #### Status
 ACCEPTED

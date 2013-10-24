@@ -1,5 +1,4 @@
-Caloplaca gilvofumosa (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca gilvofumosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

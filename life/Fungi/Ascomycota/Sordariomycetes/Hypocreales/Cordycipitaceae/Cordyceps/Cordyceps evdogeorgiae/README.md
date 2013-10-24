@@ -1,5 +1,4 @@
-Cordyceps evdogeorgiae Koval SPECIES
-=======
+# Cordyceps evdogeorgiae Koval SPECIES
 
 #### Status
 ACCEPTED

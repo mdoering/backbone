@@ -1,5 +1,4 @@
-Phyllachora ochnae Pat. & Har., 1912 SPECIES
-=======
+# Phyllachora ochnae Pat. & Har., 1912 SPECIES
 
 #### Status
 ACCEPTED

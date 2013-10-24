@@ -1,5 +1,4 @@
-Mycena opaca Velen. SPECIES
-=======
+# Mycena opaca Velen. SPECIES
 
 #### Status
 ACCEPTED

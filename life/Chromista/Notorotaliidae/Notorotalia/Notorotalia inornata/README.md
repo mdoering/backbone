@@ -1,5 +1,4 @@
-Notorotalia inornata Vella, 1957 SPECIES
-=======
+# Notorotalia inornata Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

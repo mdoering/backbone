@@ -1,5 +1,4 @@
-Excipulariopsis P.M. Kirk & Spooner GENUS
-=======
+# Excipulariopsis P.M. Kirk & Spooner GENUS
 
 #### Status
 ACCEPTED

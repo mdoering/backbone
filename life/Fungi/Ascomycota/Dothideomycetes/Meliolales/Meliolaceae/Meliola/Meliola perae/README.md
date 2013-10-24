@@ -1,5 +1,4 @@
-Meliola perae Hansf. SPECIES
-=======
+# Meliola perae Hansf. SPECIES
 
 #### Status
 ACCEPTED

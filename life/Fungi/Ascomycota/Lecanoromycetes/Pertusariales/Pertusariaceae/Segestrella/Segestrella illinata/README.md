@@ -1,5 +1,4 @@
-Segestrella illinata (Körb.) Körb. SPECIES
-=======
+# Segestrella illinata (Körb.) Körb. SPECIES
 
 #### Status
 ACCEPTED

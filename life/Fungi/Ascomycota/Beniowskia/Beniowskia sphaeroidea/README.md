@@ -1,17 +1,16 @@
-Beniowskia penniseti Wakef., 1916 SPECIES
-=======
+# Beniowskia sphaeroidea (Kalchbr. & Cooke) E.W. Mason, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 75 (1916)
+Mycol. Pap. 2: 26 (1928)
 
 #### Original name
-Beniowskia penniseti Wakef., 1916
+null
 
 ### Remarks
 null

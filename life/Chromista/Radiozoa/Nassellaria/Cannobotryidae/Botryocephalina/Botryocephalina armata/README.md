@@ -1,5 +1,4 @@
-Botryocephalina armata Petrushevskaya, 1965 SPECIES
-=======
+# Botryocephalina armata Petrushevskaya, 1965 SPECIES
 
 #### Status
 ACCEPTED

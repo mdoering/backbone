@@ -1,5 +1,4 @@
-Diplodia catalpae Speg. SPECIES
-=======
+# Diplodia catalpae Speg. SPECIES
 
 #### Status
 ACCEPTED

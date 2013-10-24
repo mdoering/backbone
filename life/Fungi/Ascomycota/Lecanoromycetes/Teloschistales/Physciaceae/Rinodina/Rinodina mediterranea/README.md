@@ -1,5 +1,4 @@
-Rinodina mediterranea Flagey SPECIES
-=======
+# Rinodina mediterranea Flagey SPECIES
 
 #### Status
 ACCEPTED

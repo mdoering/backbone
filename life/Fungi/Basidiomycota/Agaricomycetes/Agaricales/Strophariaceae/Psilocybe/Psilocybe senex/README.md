@@ -1,5 +1,4 @@
-Psilocybe senex Peck SPECIES
-=======
+# Psilocybe senex Peck SPECIES
 
 #### Status
 ACCEPTED

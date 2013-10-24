@@ -1,5 +1,4 @@
-Setosphaeria glycinea L.S. Srivast., V. Dhar, Shambi & D.N. Chaudhary SPECIES
-=======
+# Setosphaeria glycinea L.S. Srivast., V. Dhar, Shambi & D.N. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Vanrija hylophila (Van der Walt, D.B. Scott & Klift) R.T. Moore, 1987 SPECIES
-=======
+# Rhodotorula hylophila (Van der Walt, D.B. Scott & Klift) Rodr. Mir. & Weijman, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

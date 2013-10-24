@@ -1,5 +1,4 @@
-Eutypella tetraspora Berl. SPECIES
-=======
+# Eutypella tetraspora Berl. SPECIES
 
 #### Status
 ACCEPTED

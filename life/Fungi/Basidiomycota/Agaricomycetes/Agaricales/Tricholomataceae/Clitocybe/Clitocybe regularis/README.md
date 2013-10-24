@@ -1,5 +1,4 @@
-Clitocybe regularis Peck SPECIES
-=======
+# Clitocybe regularis Peck SPECIES
 
 #### Status
 ACCEPTED

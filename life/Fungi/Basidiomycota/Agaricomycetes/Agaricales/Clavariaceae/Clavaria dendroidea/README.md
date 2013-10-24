@@ -1,5 +1,4 @@
-Clavaria dendroidea var. dendroidea VARIETY
-=======
+# Clavaria dendroidea O.R. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 281 (1863)
 
 #### Original name
-Clavaria dendroidea var. dendroidea
+Clavaria dendroidea O.R. Fr.
 
 ### Remarks
 null

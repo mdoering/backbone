@@ -1,5 +1,4 @@
-Lithocia murorum (A. Massal.) Arnold SPECIES
-=======
+# Lithocia murorum (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

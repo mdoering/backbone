@@ -1,5 +1,4 @@
-Melanconium angustum Ellis & Everh. SPECIES
-=======
+# Melanconium angustum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

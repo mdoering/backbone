@@ -1,5 +1,4 @@
-Trichoglossum longisporum F.L. Tai SPECIES
-=======
+# Trichoglossum longisporum F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

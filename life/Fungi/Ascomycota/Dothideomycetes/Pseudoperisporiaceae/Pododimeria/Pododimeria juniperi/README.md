@@ -1,14 +1,13 @@
-Lojkania juniperi Bat. & Peres, 1960 SPECIES
-=======
+# Pododimeria juniperi (Bat. & Peres) Luttr. & M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saccardoa 1: 31 (1960)
+Am. J. Bot. 65(3): 252 (1978)
 
 #### Original name
 Lojkania juniperi Bat. & Peres, 1960

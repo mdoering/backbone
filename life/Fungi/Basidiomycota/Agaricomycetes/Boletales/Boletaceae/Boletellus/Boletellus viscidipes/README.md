@@ -1,5 +1,4 @@
-Boletellus viscidipes (Hongo) Har. Takah. SPECIES
-=======
+# Boletellus viscidipes (Hongo) Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

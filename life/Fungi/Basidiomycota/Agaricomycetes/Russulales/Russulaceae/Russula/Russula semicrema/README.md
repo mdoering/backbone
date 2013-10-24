@@ -1,5 +1,4 @@
-Russula semicrema Fr. SPECIES
-=======
+# Russula semicrema Fr. SPECIES
 
 #### Status
 ACCEPTED

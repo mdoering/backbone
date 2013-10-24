@@ -1,5 +1,4 @@
-Inocybe melissolens Reumaux SPECIES
-=======
+# Inocybe melissolens Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria ammopiptanthi R.Q. Shen, H.S. Shang, K.C. Wang SPECIES
-=======
+# Alternaria ammopiptanthi R.Q. Shen, H.S. Shang, K.C. Wang SPECIES
 
 #### Status
 ACCEPTED

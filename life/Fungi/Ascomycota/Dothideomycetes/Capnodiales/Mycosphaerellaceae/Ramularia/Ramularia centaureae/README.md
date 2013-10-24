@@ -1,5 +1,4 @@
-Ramularia centaureae Lindr., 1902 SPECIES
-=======
+# Ramularia centaureae Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

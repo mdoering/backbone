@@ -1,5 +1,4 @@
-Leptodiscella japonica Matsush., 1975 SPECIES
-=======
+# Leptodiscella japonica Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

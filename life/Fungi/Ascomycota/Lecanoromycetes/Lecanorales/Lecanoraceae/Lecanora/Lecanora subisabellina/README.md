@@ -1,5 +1,4 @@
-Lecanora subisabellina H. Magn. SPECIES
-=======
+# Lecanora subisabellina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cedrelae S. Chowdhury SPECIES
-=======
+# Cercospora cedrelae S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosigmoilina Bartenstein, 1965 GENUS
-=======
+# Pseudosigmoilina Bartenstein, 1965 GENUS
 
 #### Status
 ACCEPTED

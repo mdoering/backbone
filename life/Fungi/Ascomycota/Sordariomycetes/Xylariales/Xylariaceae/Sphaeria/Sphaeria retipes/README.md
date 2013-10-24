@@ -1,5 +1,4 @@
-Sphaeria retipes Lév. SPECIES
-=======
+# Sphaeria retipes Lév. SPECIES
 
 #### Status
 ACCEPTED

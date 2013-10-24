@@ -1,5 +1,4 @@
-Phoma dispersa Cooke SPECIES
-=======
+# Phoma dispersa Cooke SPECIES
 
 #### Status
 ACCEPTED

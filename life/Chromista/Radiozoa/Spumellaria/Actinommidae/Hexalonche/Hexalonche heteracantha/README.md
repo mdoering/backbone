@@ -1,5 +1,4 @@
-Hexalonche heteracantha Popofsky, 1912 SPECIES
-=======
+# Hexalonche heteracantha Popofsky, 1912 SPECIES
 
 #### Status
 ACCEPTED

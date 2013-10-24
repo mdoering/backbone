@@ -1,17 +1,16 @@
-Munkiella guaranitica var. guaranitica Speg. VARIETY
-=======
+# Apiosphaeria guaranitica (Speg.) Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 19: 249 (1885)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1218 (1909)
 
 #### Original name
-Munkiella guaranitica var. guaranitica Speg.
+Munkiella guaranitica Speg., 1885
 
 ### Remarks
 null

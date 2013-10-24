@@ -1,5 +1,4 @@
-Entoloma murinum Pegler SPECIES
-=======
+# Entoloma murinum Pegler SPECIES
 
 #### Status
 ACCEPTED

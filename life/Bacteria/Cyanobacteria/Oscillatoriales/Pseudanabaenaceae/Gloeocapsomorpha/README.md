@@ -1,5 +1,4 @@
-Gloeocapsomorpha M.D. Zalessky, 1918 GENUS
-=======
+# Gloeocapsomorpha M.D. Zalessky, 1918 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis ocoteae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis ocoteae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

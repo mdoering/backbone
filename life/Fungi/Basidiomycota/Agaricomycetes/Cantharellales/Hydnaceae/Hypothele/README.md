@@ -1,5 +1,4 @@
-Hypothele GENUS
-=======
+# Hypothele GENUS
 
 #### Status
 ACCEPTED

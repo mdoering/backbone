@@ -1,5 +1,4 @@
-Discorotalia Hornibrook, 1961 GENUS
-=======
+# Discorotalia Hornibrook, 1961 GENUS
 
 #### Status
 ACCEPTED

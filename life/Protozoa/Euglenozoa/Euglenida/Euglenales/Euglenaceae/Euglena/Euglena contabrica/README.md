@@ -1,5 +1,4 @@
-Euglena contabrica E.G. Pringsheim SPECIES
-=======
+# Euglena contabrica E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

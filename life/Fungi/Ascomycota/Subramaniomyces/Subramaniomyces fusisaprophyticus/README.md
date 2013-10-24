@@ -1,14 +1,13 @@
-Ramularia fusisaprophytica Matsush. SPECIES
-=======
+# Subramaniomyces fusisaprophyticus (Matsush.) P.M. Kirk, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 48 (1971)
+Trans. Br. mycol. Soc. 78(1): 71 (1982)
 
 #### Original name
 Ramularia fusisaprophytica Matsush.

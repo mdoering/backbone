@@ -1,5 +1,4 @@
-Lembosia rugispora Tracy & Earle SPECIES
-=======
+# Lembosia rugispora Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

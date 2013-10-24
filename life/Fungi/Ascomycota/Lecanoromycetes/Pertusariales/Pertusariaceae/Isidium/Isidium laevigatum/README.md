@@ -1,5 +1,4 @@
-Isidium laevigatum Ach. SPECIES
-=======
+# Isidium laevigatum Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bursaria chlorostigma Stein SPECIES
-=======
+# Bursaria patula sensu Dujardin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

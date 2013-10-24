@@ -1,5 +1,4 @@
-Pezizella ombrophilacea Rehm SPECIES
-=======
+# Pezizella ombrophilacea Rehm SPECIES
 
 #### Status
 ACCEPTED

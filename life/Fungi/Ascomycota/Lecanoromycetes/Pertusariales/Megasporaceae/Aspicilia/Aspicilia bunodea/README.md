@@ -1,5 +1,4 @@
-Aspicilia bunodea (A. Massal.) Maheu & A. Gillet SPECIES
-=======
+# Aspicilia bunodea (A. Massal.) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

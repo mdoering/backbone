@@ -1,5 +1,4 @@
-Gymnopilus terrestris Hesler SPECIES
-=======
+# Gymnopilus terrestris Hesler SPECIES
 
 #### Status
 ACCEPTED

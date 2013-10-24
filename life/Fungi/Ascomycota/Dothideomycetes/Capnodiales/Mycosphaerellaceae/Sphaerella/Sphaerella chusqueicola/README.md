@@ -1,5 +1,4 @@
-Sphaerella chusqueicola Speg. SPECIES
-=======
+# Sphaerella chusqueicola Speg. SPECIES
 
 #### Status
 ACCEPTED

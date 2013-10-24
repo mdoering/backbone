@@ -1,5 +1,4 @@
-Belaya V.P. Shuysky, 1973 GENUS
-=======
+# Belaya V.P. Shuysky, 1973 GENUS
 
 #### Status
 ACCEPTED

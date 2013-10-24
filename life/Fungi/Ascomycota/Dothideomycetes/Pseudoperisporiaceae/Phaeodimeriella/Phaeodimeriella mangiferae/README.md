@@ -1,5 +1,4 @@
-Phaeodimeriella mangiferae (Henn.) Steyaert SPECIES
-=======
+# Phaeodimeriella mangiferae (Henn.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

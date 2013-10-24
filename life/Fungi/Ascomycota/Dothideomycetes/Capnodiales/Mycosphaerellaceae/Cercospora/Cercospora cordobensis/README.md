@@ -1,5 +1,4 @@
-Cercospora cordobensis Speg. SPECIES
-=======
+# Cercospora cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

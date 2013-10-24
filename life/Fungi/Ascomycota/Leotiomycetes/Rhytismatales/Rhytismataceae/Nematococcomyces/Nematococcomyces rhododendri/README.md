@@ -1,5 +1,4 @@
-Nematococcomyces rhododendri C.L. Hou, M. Piepenbr. & Oberw., 2004 SPECIES
-=======
+# Nematococcomyces rhododendri C.L. Hou, M. Piepenbr. & Oberw., 2004 SPECIES
 
 #### Status
 ACCEPTED

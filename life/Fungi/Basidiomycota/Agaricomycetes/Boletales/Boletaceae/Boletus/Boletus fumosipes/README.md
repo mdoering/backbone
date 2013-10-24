@@ -1,5 +1,4 @@
-Boletus fumosipes Peck SPECIES
-=======
+# Boletus fumosipes Peck SPECIES
 
 #### Status
 ACCEPTED

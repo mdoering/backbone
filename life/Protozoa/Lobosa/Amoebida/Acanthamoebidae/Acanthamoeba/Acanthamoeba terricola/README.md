@@ -1,5 +1,4 @@
-Acanthamoeba terricola Pussard, 1964 SPECIES
-=======
+# Acanthamoeba terricola Pussard, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora crotonoides Pass. SPECIES
-=======
+# Teichospora crotonoides Pass. SPECIES
 
 #### Status
 ACCEPTED

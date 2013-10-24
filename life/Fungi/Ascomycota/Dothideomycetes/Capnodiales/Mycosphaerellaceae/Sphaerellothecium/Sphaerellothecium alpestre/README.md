@@ -1,5 +1,4 @@
-Sphaerellothecium alpestre Frieder. SPECIES
-=======
+# Sphaerellothecium alpestre Frieder. SPECIES
 
 #### Status
 ACCEPTED

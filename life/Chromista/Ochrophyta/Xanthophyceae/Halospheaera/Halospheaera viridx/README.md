@@ -1,5 +1,4 @@
-Halospheaera viridx Tseng SPECIES
-=======
+# Halospheaera viridx Tseng SPECIES
 
 #### Status
 ACCEPTED

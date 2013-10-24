@@ -1,5 +1,4 @@
-Irpex grossus Kalchbr. SPECIES
-=======
+# Irpex grossus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

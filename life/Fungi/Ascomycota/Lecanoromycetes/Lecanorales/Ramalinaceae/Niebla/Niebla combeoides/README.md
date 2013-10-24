@@ -1,5 +1,4 @@
-Niebla combeoides (Nyl.) Rundel & Bowler SPECIES
-=======
+# Niebla combeoides (Nyl.) Rundel & Bowler SPECIES
 
 #### Status
 ACCEPTED

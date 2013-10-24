@@ -1,5 +1,4 @@
-Stereum amphibolium (Fr.) Fr. SPECIES
-=======
+# Stereum amphibolium (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

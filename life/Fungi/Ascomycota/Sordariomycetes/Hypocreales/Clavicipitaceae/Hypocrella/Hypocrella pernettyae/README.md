@@ -1,5 +1,4 @@
-Hypocrella pernettyae Pat. SPECIES
-=======
+# Hypocrella pernettyae Pat. SPECIES
 
 #### Status
 ACCEPTED

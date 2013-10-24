@@ -1,5 +1,4 @@
-Valsa querna (Curr.) Berk. & Broome, 1859 SPECIES
-=======
+# Valsa querna (Curr.) Berk. & Broome, 1859 SPECIES
 
 #### Status
 ACCEPTED

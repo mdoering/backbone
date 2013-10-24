@@ -1,5 +1,4 @@
-Asterolibertia schroeteri (Rehm) Arx SPECIES
-=======
+# Asterolibertia schroeteri (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

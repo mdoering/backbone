@@ -1,5 +1,4 @@
-Gyrodinium spumantia Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium spumantia Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

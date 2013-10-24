@@ -1,5 +1,4 @@
-Epicoccum phaseoli Sawada, 1958 SPECIES
-=======
+# Epicoccum phaseoli Sawada, 1958 SPECIES
 
 #### Status
 ACCEPTED

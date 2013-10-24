@@ -1,5 +1,4 @@
-Lachnella extricata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lachnella extricata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

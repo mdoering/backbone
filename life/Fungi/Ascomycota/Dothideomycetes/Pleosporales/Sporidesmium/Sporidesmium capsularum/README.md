@@ -1,5 +1,4 @@
-Sporidesmium capsularum Thüm. SPECIES
-=======
+# Sporidesmium capsularum Thüm. SPECIES
 
 #### Status
 ACCEPTED

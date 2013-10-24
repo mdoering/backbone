@@ -1,5 +1,4 @@
-Xylaria capensis (Lév.) Sacc. SPECIES
-=======
+# Xylaria capensis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

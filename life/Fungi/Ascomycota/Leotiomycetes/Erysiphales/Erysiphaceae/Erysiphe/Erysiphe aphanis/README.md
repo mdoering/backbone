@@ -1,5 +1,4 @@
-Erysiphe aphanis Link SPECIES
-=======
+# Erysiphe aphanis Link SPECIES
 
 #### Status
 ACCEPTED

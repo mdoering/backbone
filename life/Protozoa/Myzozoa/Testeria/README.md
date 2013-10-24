@@ -1,5 +1,4 @@
-Testeria GENUS
-=======
+# Testeria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora larreiphila Speg. SPECIES
-=======
+# Teichospora larreiphila Speg. SPECIES
 
 #### Status
 ACCEPTED

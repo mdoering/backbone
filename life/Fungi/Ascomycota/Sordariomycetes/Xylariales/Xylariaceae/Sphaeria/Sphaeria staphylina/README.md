@@ -1,5 +1,4 @@
-Sphaeria staphylina Peck SPECIES
-=======
+# Sphaeria staphylina Peck SPECIES
 
 #### Status
 ACCEPTED

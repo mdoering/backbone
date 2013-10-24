@@ -1,5 +1,4 @@
-Lecidea lamprospora (Nyl.) Hue SPECIES
-=======
+# Lecidea lamprospora (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus pop-ivanensis Pilát SPECIES
-=======
+# Pleurotus pop-ivanensis Pilát SPECIES
 
 #### Status
 ACCEPTED

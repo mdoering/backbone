@@ -1,5 +1,4 @@
-Xylaria albopunctulata Rehm SPECIES
-=======
+# Xylaria albopunctulata Rehm SPECIES
 
 #### Status
 ACCEPTED

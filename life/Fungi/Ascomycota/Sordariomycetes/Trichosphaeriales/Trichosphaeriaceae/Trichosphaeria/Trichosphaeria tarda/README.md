@@ -1,5 +1,4 @@
-Trichosphaeria tarda (Fuckel) Fuckel SPECIES
-=======
+# Trichosphaeria tarda (Fuckel) Fuckel SPECIES
 
 #### Status
 ACCEPTED

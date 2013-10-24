@@ -1,5 +1,4 @@
-Leptogium cornicularioides Bagl. SPECIES
-=======
+# Leptogium cornicularioides Bagl. SPECIES
 
 #### Status
 ACCEPTED

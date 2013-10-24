@@ -1,17 +1,16 @@
-Arthrinium curvatum var. curvatum Kunze & J.C. Schmidt VARIETY
-=======
+# Physalospora scirpi (Gutner) Arx, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kunze & Schmidt, Mykologische Hefte (Leipzig) 2: 103 (1823)
+Gen. Fungi Sporul. Cult. (Lehr) 116 (1970)
 
 #### Original name
-Arthrinium curvatum var. curvatum Kunze & J.C. Schmidt
+Pseudoguignardia scirpi Gutner, 1927
 
 ### Remarks
 null

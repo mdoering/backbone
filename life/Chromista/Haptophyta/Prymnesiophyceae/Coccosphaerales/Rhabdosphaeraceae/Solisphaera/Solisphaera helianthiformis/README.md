@@ -1,5 +1,4 @@
-Solisphaera helianthiformis Bollmann, Cortés, Kleijne, Østergaard & Younggen, 2006 SPECIES
-=======
+# Solisphaera helianthiformis Bollmann, Cortés, Kleijne, Østergaard & Younggen, 2006 SPECIES
 
 #### Status
 ACCEPTED

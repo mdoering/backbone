@@ -1,5 +1,4 @@
-Thelidium ungeri (Flot.) Körb. SPECIES
-=======
+# Thelidium ungeri (Flot.) Körb. SPECIES
 
 #### Status
 ACCEPTED

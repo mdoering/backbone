@@ -1,5 +1,4 @@
-Arcangeliella laevis (R. Hesse) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella laevis (R. Hesse) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

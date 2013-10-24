@@ -1,5 +1,4 @@
-Irene strophanthi (Doidge) Doidge SPECIES
-=======
+# Irene strophanthi (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

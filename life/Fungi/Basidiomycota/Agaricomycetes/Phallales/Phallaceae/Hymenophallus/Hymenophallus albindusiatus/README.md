@@ -1,5 +1,4 @@
-Hymenophallus albindusiatus L. SPECIES
-=======
+# Hymenophallus albindusiatus L. SPECIES
 
 #### Status
 ACCEPTED

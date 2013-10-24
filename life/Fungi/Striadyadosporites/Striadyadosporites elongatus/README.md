@@ -1,5 +1,4 @@
-Striadyadosporites elongatus Dueñas SPECIES
-=======
+# Striadyadosporites elongatus Dueñas SPECIES
 
 #### Status
 ACCEPTED

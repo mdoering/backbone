@@ -1,5 +1,4 @@
-Opegrapha subcentrifuga Nyl. SPECIES
-=======
+# Opegrapha subcentrifuga Nyl. SPECIES
 
 #### Status
 ACCEPTED

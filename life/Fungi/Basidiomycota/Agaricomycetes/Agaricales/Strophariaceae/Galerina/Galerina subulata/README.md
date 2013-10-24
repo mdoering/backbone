@@ -1,5 +1,4 @@
-Galerina subulata A.E. Wood SPECIES
-=======
+# Galerina subulata A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

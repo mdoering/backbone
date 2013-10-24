@@ -1,5 +1,4 @@
-Arthonia affinis (A. Massal.) Jatta SPECIES
-=======
+# Arthonia affinis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

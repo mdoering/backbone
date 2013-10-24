@@ -1,5 +1,4 @@
-Hypha muralis Pers. SPECIES
-=======
+# Hypha muralis Pers. SPECIES
 
 #### Status
 ACCEPTED

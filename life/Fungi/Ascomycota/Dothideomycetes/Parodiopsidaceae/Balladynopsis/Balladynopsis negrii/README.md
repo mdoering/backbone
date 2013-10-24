@@ -1,5 +1,4 @@
-Balladynopsis negrii (E. Castell.) M.B. Ellis SPECIES
-=======
+# Balladynopsis negrii (E. Castell.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

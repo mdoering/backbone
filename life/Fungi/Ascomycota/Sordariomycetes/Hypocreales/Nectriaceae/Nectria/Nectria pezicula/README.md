@@ -1,5 +1,4 @@
-Nectria pezicula Speg. SPECIES
-=======
+# Nectria pezicula Speg. SPECIES
 
 #### Status
 ACCEPTED

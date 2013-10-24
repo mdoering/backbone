@@ -1,5 +1,4 @@
-Sphacelotheca tepicensis Durán SPECIES
-=======
+# Sphacelotheca tepicensis Durán SPECIES
 
 #### Status
 ACCEPTED

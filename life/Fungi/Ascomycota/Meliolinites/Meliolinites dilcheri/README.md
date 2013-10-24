@@ -1,17 +1,16 @@
-Meliolinites dilcherii Daghlian SPECIES
-=======
+# Meliolinites dilcheri Daghlian SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontology 21(1): 172 + pl. 13, figs 1-6 (1978)
 
 #### Original name
-Meliolinites dilcherii Daghlian
+Meliolinites dilcheri Daghlian
 
 ### Remarks
 null

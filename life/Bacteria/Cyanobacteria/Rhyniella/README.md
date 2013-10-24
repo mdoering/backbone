@@ -1,5 +1,4 @@
-Rhyniella W.N. Croft & E.A. George, 1959 GENUS
-=======
+# Rhyniella W.N. Croft & E.A. George, 1959 GENUS
 
 #### Status
 ACCEPTED

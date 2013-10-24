@@ -1,5 +1,4 @@
-Apteodinium spongiosum D. J. McIntyre & W. W. Brideaux SPECIES
-=======
+# Apteodinium spongiosum D. J. McIntyre & W. W. Brideaux SPECIES
 
 #### Status
 ACCEPTED

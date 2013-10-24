@@ -1,5 +1,4 @@
-Claudopus commixtus Bres. SPECIES
-=======
+# Claudopus commixtus Bres. SPECIES
 
 #### Status
 ACCEPTED

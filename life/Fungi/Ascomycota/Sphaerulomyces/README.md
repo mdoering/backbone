@@ -1,5 +1,4 @@
-Sphaerulomyces Marvanová GENUS
-=======
+# Sphaerulomyces Marvanová GENUS
 
 #### Status
 ACCEPTED

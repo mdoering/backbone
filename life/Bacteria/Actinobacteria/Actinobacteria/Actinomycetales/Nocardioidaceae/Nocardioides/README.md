@@ -1,5 +1,4 @@
-Nocardioides Prauser GENUS
-=======
+# Nocardioides Prauser GENUS
 
 #### Status
 ACCEPTED

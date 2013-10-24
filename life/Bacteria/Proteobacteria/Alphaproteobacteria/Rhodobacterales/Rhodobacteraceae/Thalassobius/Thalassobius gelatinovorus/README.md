@@ -1,5 +1,4 @@
-Thalassobius gelatinovorus (Rüger & Höfle, 1992) Arahal et al., 2005 SPECIES
-=======
+# Thalassobius gelatinovorus (Rüger & Höfle, 1992) Arahal et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

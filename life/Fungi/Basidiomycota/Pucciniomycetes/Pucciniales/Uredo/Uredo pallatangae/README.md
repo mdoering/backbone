@@ -1,5 +1,4 @@
-Uredo pallatangae Jørst. SPECIES
-=======
+# Uredo pallatangae Jørst. SPECIES
 
 #### Status
 ACCEPTED

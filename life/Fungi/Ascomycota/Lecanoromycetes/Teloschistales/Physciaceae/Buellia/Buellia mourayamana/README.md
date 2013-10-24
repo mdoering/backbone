@@ -1,5 +1,4 @@
-Buellia mourayamana (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia mourayamana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

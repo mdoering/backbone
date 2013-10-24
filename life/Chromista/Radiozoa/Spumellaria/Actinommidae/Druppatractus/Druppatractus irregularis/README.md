@@ -1,5 +1,4 @@
-Druppatractus irregularis Popofsky, 1912 SPECIES
-=======
+# Druppatractus irregularis Popofsky, 1912 SPECIES
 
 #### Status
 ACCEPTED

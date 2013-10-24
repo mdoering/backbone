@@ -1,5 +1,4 @@
-Lophiostoma papillatum Pass. SPECIES
-=======
+# Lophiostoma papillatum Pass. SPECIES
 
 #### Status
 ACCEPTED

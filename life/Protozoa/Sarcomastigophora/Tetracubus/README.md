@@ -1,5 +1,4 @@
-Tetracubus Haeckel, 1887 GENUS
-=======
+# Tetracubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

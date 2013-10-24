@@ -1,5 +1,4 @@
-Heterodermia papuana Aptroot & Sipman SPECIES
-=======
+# Heterodermia papuana Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

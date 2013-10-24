@@ -1,5 +1,4 @@
-Punctaria Greville, 1830 GENUS
-=======
+# Punctaria Greville, 1830 GENUS
 
 #### Status
 ACCEPTED

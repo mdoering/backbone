@@ -1,5 +1,4 @@
-Microthelia arctata (Stirt.) Zahlbr. SPECIES
-=======
+# Microthelia arctata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora vesicaria Pers. SPECIES
-=======
+# Pleospora vesicaria Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptophycus J.H. Johnson, 1940 GENUS
-=======
+# Leptophycus J.H. Johnson, 1940 GENUS
 
 #### Status
 ACCEPTED

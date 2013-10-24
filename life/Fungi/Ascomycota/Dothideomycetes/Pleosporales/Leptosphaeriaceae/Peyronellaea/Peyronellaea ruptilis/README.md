@@ -1,5 +1,4 @@
-Peyronellaea ruptilis Kusnezowa SPECIES
-=======
+# Peyronellaea ruptilis Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

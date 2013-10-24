@@ -1,5 +1,4 @@
-Dothiorella indica Soni, Dadwal & Jamaluddin SPECIES
-=======
+# Dothiorella indica Soni, Dadwal & Jamaluddin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia norica Glow. SPECIES
-=======
+# Puccinia norica Glow. SPECIES
 
 #### Status
 ACCEPTED

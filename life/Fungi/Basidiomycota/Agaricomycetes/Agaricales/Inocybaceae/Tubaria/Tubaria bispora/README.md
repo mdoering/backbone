@@ -1,5 +1,4 @@
-Tubaria bispora Matheny, P.-A. Moreau, M.A. Neves & Vellinga SPECIES
-=======
+# Tubaria bispora Matheny, P.-A. Moreau, M.A. Neves & Vellinga SPECIES
 
 #### Status
 ACCEPTED

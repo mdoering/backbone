@@ -1,5 +1,4 @@
-Torula viridescens Bonord. SPECIES
-=======
+# Torula viridescens Bonord. SPECIES
 
 #### Status
 ACCEPTED

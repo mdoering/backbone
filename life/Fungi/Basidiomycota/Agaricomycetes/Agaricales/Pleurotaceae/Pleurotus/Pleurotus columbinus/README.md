@@ -1,14 +1,13 @@
-Pleurotus ostreatus var. columbinus (Quél.) Quél., 1886 VARIETY
-=======
+# Pleurotus columbinus Quél., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 148 (1886)
+Fung. trident. 1: 10 (1881)
 
 #### Original name
 Pleurotus columbinus Quél., 1881

@@ -1,8 +1,7 @@
-Uvigerina pigmea var. curticosta Cushman, 1927 VARIETY
-=======
+# Uvigerina pygmea d’Orbigny, 1826 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

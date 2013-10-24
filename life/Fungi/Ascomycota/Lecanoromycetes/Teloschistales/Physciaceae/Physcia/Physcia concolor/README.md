@@ -1,5 +1,4 @@
-Physcia concolor (Dicks.) Bagl. & Carestia SPECIES
-=======
+# Physcia concolor (Dicks.) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

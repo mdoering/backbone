@@ -1,5 +1,4 @@
-Valeria tschapomica (Timofeev, 1966) Fensome et al., 1990 SPECIES
-=======
+# Valeria tschapomica (Timofeev, 1966) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

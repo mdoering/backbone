@@ -1,5 +1,4 @@
-Amphidinium aeschrum Harris, 1940 SPECIES
-=======
+# Amphidinium aeschrum Harris, 1940 SPECIES
 
 #### Status
 ACCEPTED

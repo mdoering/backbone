@@ -1,5 +1,4 @@
-Massarinula lignorum Wehm. SPECIES
-=======
+# Massarinula lignorum Wehm. SPECIES
 
 #### Status
 ACCEPTED

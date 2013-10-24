@@ -1,5 +1,4 @@
-Biatorella elegans (Zwackh) Rehm SPECIES
-=======
+# Biatorella elegans (Zwackh) Rehm SPECIES
 
 #### Status
 ACCEPTED

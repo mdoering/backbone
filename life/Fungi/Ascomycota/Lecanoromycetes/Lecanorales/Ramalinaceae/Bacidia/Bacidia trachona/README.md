@@ -1,5 +1,4 @@
-Bacidia trachona (Ach.) Lettau SPECIES
-=======
+# Bacidia trachona (Ach.) Lettau SPECIES
 
 #### Status
 ACCEPTED

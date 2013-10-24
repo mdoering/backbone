@@ -1,5 +1,4 @@
-Lecidea contractula Müll. Arg. SPECIES
-=======
+# Lecidea contractula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

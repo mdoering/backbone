@@ -1,5 +1,4 @@
-Inocybe violacea Massee SPECIES
-=======
+# Inocybe violacea Massee SPECIES
 
 #### Status
 ACCEPTED

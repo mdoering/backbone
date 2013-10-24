@@ -1,5 +1,4 @@
-Conioscypha japonica Udagawa & Toyaz., 1983 SPECIES
-=======
+# Conioscypha japonica Udagawa & Toyaz., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia clara Berk. & Broome SPECIES
-=======
+# Collybia clara Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dischloridium camelliae Alcorn & Sivan. SPECIES
-=======
+# Dischloridium camelliae Alcorn & Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium maculans Bonord. SPECIES
-=======
+# Oidium maculans Bonord. SPECIES
 
 #### Status
 ACCEPTED

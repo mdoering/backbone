@@ -1,5 +1,4 @@
-Acrospermum puiggarii Speg. SPECIES
-=======
+# Acrospermum puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

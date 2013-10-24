@@ -1,5 +1,4 @@
-Omphalia anthodia (Pers.) S. Lundell SPECIES
-=======
+# Omphalia anthodia (Pers.) S. Lundell SPECIES
 
 #### Status
 ACCEPTED

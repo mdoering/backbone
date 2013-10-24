@@ -1,14 +1,13 @@
-Diheterospora ovispora G.L. Barron, 1980 SPECIES
-=======
+# Rotiferophthora ovispora (G.L. Barron) G.L. Barron, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 58(4): 436 (1980)
+Can. J. Bot. 69(3): 495 (1991)
 
 #### Original name
 Diheterospora ovispora G.L. Barron, 1980

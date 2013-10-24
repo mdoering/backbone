@@ -1,5 +1,4 @@
-Harpographium zonatum Lentz SPECIES
-=======
+# Harpographium zonatum Lentz SPECIES
 
 #### Status
 ACCEPTED

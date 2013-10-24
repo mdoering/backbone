@@ -1,5 +1,4 @@
-Trichosphaeria fasciculifera Petch SPECIES
-=======
+# Trichosphaeria fasciculifera Petch SPECIES
 
 #### Status
 ACCEPTED

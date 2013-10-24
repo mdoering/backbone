@@ -1,5 +1,4 @@
-Ombrophila trachycarpa W. Phillips SPECIES
-=======
+# Ombrophila trachycarpa W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella evansiae Pat. SPECIES
-=======
+# Sphaerella evansiae Pat. SPECIES
 
 #### Status
 ACCEPTED

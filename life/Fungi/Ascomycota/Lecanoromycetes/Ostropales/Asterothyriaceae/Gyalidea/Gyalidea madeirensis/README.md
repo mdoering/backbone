@@ -1,5 +1,4 @@
-Gyalidea madeirensis Kalb SPECIES
-=======
+# Gyalidea madeirensis Kalb SPECIES
 
 #### Status
 ACCEPTED

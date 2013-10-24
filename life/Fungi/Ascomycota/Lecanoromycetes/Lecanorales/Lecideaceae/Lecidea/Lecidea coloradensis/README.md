@@ -1,5 +1,4 @@
-Lecidea coloradensis R.A. Anderson SPECIES
-=======
+# Lecidea coloradensis R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

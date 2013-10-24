@@ -1,14 +1,13 @@
-Porinella tansanica (Vezda) Vezda SPECIES
-=======
+# Porinella tanzanica (Vezda) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Musei Richnoviensis, Sect. Natur. 11(2): 62 (2004)
 
 #### Original name
 Porinula tanzanica Vezda

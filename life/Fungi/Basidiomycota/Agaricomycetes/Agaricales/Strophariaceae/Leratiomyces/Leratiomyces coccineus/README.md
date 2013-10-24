@@ -1,17 +1,16 @@
-Le-Ratia coccinea Massee & Wakef., 1920 SPECIES
-=======
+# Leratiomyces coccineus Massee & Wakef. ex Bresinsky & Manfr. Binder, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Leratiomyces coccineus Massee & Wakef. ex Bresinsky & Manfr. Binder, 1998
 
 ### Remarks
 null

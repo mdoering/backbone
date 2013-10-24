@@ -1,5 +1,4 @@
-Cystoseira C.Agardh, 1820 GENUS
-=======
+# Cystoseira C.Agardh, 1820 GENUS
 
 #### Status
 ACCEPTED

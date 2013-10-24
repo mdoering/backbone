@@ -1,5 +1,4 @@
-Xylosphaeria antiqua (Ellis & Everh.) Petr. SPECIES
-=======
+# Xylosphaeria antiqua (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

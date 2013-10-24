@@ -1,5 +1,4 @@
-Teratosphaeria altensteinii Crous, 2008 SPECIES
-=======
+# Teratosphaeria altensteinii Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

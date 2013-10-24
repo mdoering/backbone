@@ -1,5 +1,4 @@
-Puccinia thelypodii Cummins SPECIES
-=======
+# Puccinia thelypodii Cummins SPECIES
 
 #### Status
 ACCEPTED

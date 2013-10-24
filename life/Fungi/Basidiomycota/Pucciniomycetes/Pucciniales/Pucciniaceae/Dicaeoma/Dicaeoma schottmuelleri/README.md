@@ -1,5 +1,4 @@
-Dicaeoma schottmuelleri (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma schottmuelleri (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

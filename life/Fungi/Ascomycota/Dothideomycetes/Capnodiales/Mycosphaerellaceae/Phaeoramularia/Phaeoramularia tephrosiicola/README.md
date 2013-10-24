@@ -1,5 +1,4 @@
-Phaeoramularia tephrosiicola S.K. Singh, Bhalla & Kamal SPECIES
-=======
+# Phaeoramularia tephrosiicola S.K. Singh, Bhalla & Kamal SPECIES
 
 #### Status
 ACCEPTED

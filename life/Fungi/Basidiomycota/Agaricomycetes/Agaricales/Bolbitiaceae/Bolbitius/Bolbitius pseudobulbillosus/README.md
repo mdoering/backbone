@@ -1,5 +1,4 @@
-Bolbitius pseudobulbillosus Herp. SPECIES
-=======
+# Bolbitius pseudobulbillosus Herp. SPECIES
 
 #### Status
 ACCEPTED

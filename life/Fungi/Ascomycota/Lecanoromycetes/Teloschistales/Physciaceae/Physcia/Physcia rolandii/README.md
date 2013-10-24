@@ -1,5 +1,4 @@
-Physcia rolandii Elix SPECIES
-=======
+# Physcia rolandii Elix SPECIES
 
 #### Status
 ACCEPTED

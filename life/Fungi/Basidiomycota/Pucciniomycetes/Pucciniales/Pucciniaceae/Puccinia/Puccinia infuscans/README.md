@@ -1,5 +1,4 @@
-Puccinia infuscans Arthur & Holw. SPECIES
-=======
+# Puccinia infuscans Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

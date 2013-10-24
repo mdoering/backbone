@@ -1,5 +1,4 @@
-Pirottaea lamii Nannf., 1985 SPECIES
-=======
+# Pirottaea lamii Nannf., 1985 SPECIES
 
 #### Status
 ACCEPTED

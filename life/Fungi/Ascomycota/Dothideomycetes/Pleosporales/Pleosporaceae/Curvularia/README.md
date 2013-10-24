@@ -1,17 +1,16 @@
-Curvusporium Corbetta GENUS
-=======
+# Curvularia Boedijn, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Riso 12(3): 28, 30 (1963)
+null
 
 #### Original name
-Curvusporium Corbetta
+null
 
 ### Remarks
 null

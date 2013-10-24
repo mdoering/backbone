@@ -1,5 +1,4 @@
-Tuber indicum Cooke & Massee SPECIES
-=======
+# Tuber indicum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

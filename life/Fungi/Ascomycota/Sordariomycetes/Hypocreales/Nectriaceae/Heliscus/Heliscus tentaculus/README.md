@@ -1,5 +1,4 @@
-Heliscus tentaculus Umphlett SPECIES
-=======
+# Heliscus tentaculus Umphlett SPECIES
 
 #### Status
 ACCEPTED

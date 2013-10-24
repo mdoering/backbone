@@ -1,5 +1,4 @@
-Buellia brittoniae Riddle SPECIES
-=======
+# Buellia brittoniae Riddle SPECIES
 
 #### Status
 ACCEPTED

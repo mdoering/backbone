@@ -1,5 +1,4 @@
-Gloeosporium fallax Sacc. SPECIES
-=======
+# Gloeosporium fallax Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria dracocephali Thüm. SPECIES
-=======
+# Septoria dracocephali Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verpa sauteri Rehm SPECIES
-=======
+# Verpa sauteri Rehm SPECIES
 
 #### Status
 ACCEPTED

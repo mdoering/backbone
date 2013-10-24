@@ -1,5 +1,4 @@
-Comasphaeridium piluliferum (Playford & martin, 1984) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium piluliferum (Playford & martin, 1984) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

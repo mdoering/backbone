@@ -1,8 +1,7 @@
-Piscicryptosporidium cichlidis Paperna & Vilenkin, 1996 SPECIES
-=======
+# Cryptosporidium cichlidis (Paperna & Vilenkin, 1996) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Macrosporium verrucosum Lutz {?} SPECIES
-=======
+# Macrosporium verrucosum Lutz {?} SPECIES
 
 #### Status
 ACCEPTED

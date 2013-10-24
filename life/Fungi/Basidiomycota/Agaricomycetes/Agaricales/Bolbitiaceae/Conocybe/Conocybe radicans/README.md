@@ -1,5 +1,4 @@
-Conocybe radicans K.A. Thomas, Hauskn. & Manim. SPECIES
-=======
+# Conocybe radicans K.A. Thomas, Hauskn. & Manim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perrotiella uralensis Naumov SPECIES
-=======
+# Perrotiella uralensis Naumov SPECIES
 
 #### Status
 ACCEPTED

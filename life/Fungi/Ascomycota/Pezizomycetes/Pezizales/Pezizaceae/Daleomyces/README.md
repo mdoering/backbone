@@ -1,5 +1,4 @@
-Daleomyces GENUS
-=======
+# Daleomyces GENUS
 
 #### Status
 ACCEPTED

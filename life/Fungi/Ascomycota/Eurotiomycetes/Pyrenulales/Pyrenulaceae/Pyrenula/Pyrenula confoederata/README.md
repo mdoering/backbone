@@ -1,5 +1,4 @@
-Pyrenula confoederata R.C. Harris SPECIES
-=======
+# Pyrenula confoederata R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

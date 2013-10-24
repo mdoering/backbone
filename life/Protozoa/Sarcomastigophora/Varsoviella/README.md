@@ -1,5 +1,4 @@
-Varsoviella Gawor-Biedowa, 1987 GENUS
-=======
+# Varsoviella Gawor-Biedowa, 1987 GENUS
 
 #### Status
 ACCEPTED

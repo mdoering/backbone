@@ -1,5 +1,4 @@
-Amandinea babingtonii (Hook. f. & Taylor) Søchting & Øvstedal SPECIES
-=======
+# Amandinea babingtonii (Hook. f. & Taylor) Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

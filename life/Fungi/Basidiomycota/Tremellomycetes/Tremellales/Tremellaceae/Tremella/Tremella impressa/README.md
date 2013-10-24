@@ -1,5 +1,4 @@
-Tremella impressa Pers. SPECIES
-=======
+# Tremella impressa Pers. SPECIES
 
 #### Status
 ACCEPTED

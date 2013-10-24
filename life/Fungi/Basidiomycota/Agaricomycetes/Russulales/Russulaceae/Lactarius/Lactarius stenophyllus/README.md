@@ -1,5 +1,4 @@
-Lactarius stenophyllus Berk. SPECIES
-=======
+# Lactarius stenophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

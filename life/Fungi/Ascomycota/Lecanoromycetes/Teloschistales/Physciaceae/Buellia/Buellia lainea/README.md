@@ -1,5 +1,4 @@
-Buellia lainea (Ach.) Clauzade SPECIES
-=======
+# Buellia lainea (Ach.) Clauzade SPECIES
 
 #### Status
 ACCEPTED

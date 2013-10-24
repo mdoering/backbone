@@ -1,5 +1,4 @@
-Chytridium macrosporum Nowak. SPECIES
-=======
+# Chytridium macrosporum Nowak. SPECIES
 
 #### Status
 ACCEPTED

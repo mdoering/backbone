@@ -1,5 +1,4 @@
-Petalomonas inflexa var. obliqua Klebs VARIETY
-=======
+# Petalomonas inflexa Klebs SPECIES
 
 #### Status
 ACCEPTED

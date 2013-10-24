@@ -1,5 +1,4 @@
-Dasyscyphus himalayensis (E. Müll. & Dennis) Dennis SPECIES
-=======
+# Dasyscyphus himalayensis (E. Müll. & Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

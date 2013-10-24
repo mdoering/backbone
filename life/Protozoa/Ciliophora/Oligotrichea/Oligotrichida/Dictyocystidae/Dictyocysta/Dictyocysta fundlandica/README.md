@@ -1,5 +1,4 @@
-Dictyocysta fundlandica SPECIES
-=======
+# Dictyocysta fundlandica SPECIES
 
 #### Status
 ACCEPTED

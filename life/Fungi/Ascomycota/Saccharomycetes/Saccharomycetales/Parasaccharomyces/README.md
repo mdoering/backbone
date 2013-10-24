@@ -1,5 +1,4 @@
-Parasaccharomyces GENUS
-=======
+# Parasaccharomyces GENUS
 
 #### Status
 ACCEPTED

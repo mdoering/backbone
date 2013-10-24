@@ -1,5 +1,4 @@
-Dendrosarcus berberidicola (Speg.) Kuntze SPECIES
-=======
+# Dendrosarcus berberidicola (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

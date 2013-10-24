@@ -1,5 +1,4 @@
-Sclerotiomyces colchicus Woron. SPECIES
-=======
+# Sclerotiomyces colchicus Woron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria submargacea C. Knight SPECIES
-=======
+# Verrucaria submargacea C. Knight SPECIES
 
 #### Status
 ACCEPTED

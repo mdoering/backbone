@@ -1,5 +1,4 @@
-Xylomites moskenbergensis Ettingsh. SPECIES
-=======
+# Xylomites moskenbergensis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium salicinum Fuckel SPECIES
-=======
+# Phacidium salicinum Fuckel SPECIES
 
 #### Status
 ACCEPTED

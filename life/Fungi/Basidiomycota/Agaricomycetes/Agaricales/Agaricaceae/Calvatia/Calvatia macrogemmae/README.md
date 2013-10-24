@@ -1,5 +1,4 @@
-Calvatia macrogemmae Lloyd SPECIES
-=======
+# Calvatia macrogemmae Lloyd SPECIES
 
 #### Status
 ACCEPTED

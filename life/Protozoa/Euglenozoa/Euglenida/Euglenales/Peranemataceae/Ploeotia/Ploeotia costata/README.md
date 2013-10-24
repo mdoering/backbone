@@ -1,5 +1,4 @@
-Ploeotia costata (R. E. Triemer) M. A. Farmer & R. E. Triemer SPECIES
-=======
+# Ploeotia costata (R. E. Triemer) M. A. Farmer & R. E. Triemer SPECIES
 
 #### Status
 ACCEPTED

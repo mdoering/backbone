@@ -1,5 +1,4 @@
-Torula pulvinata (Bonord.) Sacc. SPECIES
-=======
+# Torula pulvinata (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

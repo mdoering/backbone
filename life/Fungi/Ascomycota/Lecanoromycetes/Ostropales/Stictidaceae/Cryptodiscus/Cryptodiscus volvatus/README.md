@@ -1,5 +1,4 @@
-Cryptodiscus volvatus Höhn. SPECIES
-=======
+# Cryptodiscus volvatus Höhn. SPECIES
 
 #### Status
 ACCEPTED

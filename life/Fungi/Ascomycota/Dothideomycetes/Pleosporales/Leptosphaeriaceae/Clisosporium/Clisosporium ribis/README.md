@@ -1,5 +1,4 @@
-Clisosporium ribis (Brunaud) Kuntze SPECIES
-=======
+# Clisosporium ribis (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

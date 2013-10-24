@@ -1,5 +1,4 @@
-Hemitrichia botrytis Georgev., 1929 SPECIES
-=======
+# Hemitrichia botrytis Georgev., 1929 SPECIES
 
 #### Status
 ACCEPTED

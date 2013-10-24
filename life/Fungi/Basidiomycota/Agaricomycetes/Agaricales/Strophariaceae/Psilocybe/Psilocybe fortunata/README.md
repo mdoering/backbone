@@ -1,5 +1,4 @@
-Psilocybe fortunata Cooke SPECIES
-=======
+# Psilocybe fortunata Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora mirabilis Galindo & H.R. Hohl, 1986 SPECIES
-=======
+# Phytophthora mirabilis Galindo & H.R. Hohl, 1986 SPECIES
 
 #### Status
 ACCEPTED

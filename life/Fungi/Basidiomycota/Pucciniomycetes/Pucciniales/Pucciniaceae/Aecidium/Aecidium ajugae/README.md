@@ -1,5 +1,4 @@
-Aecidium ajugae Syd. & P. Syd. SPECIES
-=======
+# Aecidium ajugae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

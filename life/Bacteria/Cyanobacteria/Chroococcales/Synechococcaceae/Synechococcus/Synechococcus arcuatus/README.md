@@ -1,5 +1,4 @@
-Synechococcus arcuatus var. calcicolus Fjerdingstad VARIETY
-=======
+# Synechococcus arcuatus Naegeli SPECIES
 
 #### Status
 ACCEPTED

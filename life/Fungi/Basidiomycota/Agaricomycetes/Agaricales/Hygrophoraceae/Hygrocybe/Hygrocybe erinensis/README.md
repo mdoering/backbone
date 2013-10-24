@@ -1,5 +1,4 @@
-Hygrocybe erinensis (Dennis) R. Valenz., Guzmán & J. Castillo SPECIES
-=======
+# Hygrocybe erinensis (Dennis) R. Valenz., Guzmán & J. Castillo SPECIES
 
 #### Status
 ACCEPTED

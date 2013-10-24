@@ -1,5 +1,4 @@
-Parahistomonas Lund, 1963 GENUS
-=======
+# Parahistomonas Lund, 1963 GENUS
 
 #### Status
 ACCEPTED

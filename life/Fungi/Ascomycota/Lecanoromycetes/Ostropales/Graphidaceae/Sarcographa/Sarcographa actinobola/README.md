@@ -1,5 +1,4 @@
-Sarcographa actinobola (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa actinobola (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

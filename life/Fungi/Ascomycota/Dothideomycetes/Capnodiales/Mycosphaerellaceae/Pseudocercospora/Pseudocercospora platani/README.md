@@ -1,5 +1,4 @@
-Pseudocercospora platani (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora platani (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria oleaginea Thüm. SPECIES
-=======
+# Septoria oleaginea Thüm. SPECIES
 
 #### Status
 ACCEPTED

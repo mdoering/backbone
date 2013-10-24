@@ -1,5 +1,4 @@
-Vuilleminia subglobispora Hallenb. & Hjortstam, 1996 SPECIES
-=======
+# Vuilleminia subglobispora Hallenb. & Hjortstam, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina microphthalma SPECIES
-=======
+# Rinodina microphthalma SPECIES
 
 #### Status
 ACCEPTED

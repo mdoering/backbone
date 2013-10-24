@@ -1,5 +1,4 @@
-Septoria schirajewskii Bubák & Serebrian. SPECIES
-=======
+# Septoria schirajewskii Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

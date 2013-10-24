@@ -1,5 +1,4 @@
-Pyxine chevalieri Hue SPECIES
-=======
+# Pyxine chevalieri Hue SPECIES
 
 #### Status
 ACCEPTED

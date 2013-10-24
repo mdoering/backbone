@@ -1,5 +1,4 @@
-Entonaema Möller GENUS
-=======
+# Entonaema Möller GENUS
 
 #### Status
 ACCEPTED

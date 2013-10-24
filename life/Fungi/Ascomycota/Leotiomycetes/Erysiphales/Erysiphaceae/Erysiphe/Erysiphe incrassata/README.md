@@ -1,5 +1,4 @@
-Erysiphe incrassata (E.S. Salmon) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe incrassata (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

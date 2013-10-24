@@ -1,5 +1,4 @@
-Nectria pedicularis (Tracy & Earle) Petr. SPECIES
-=======
+# Nectria pedicularis (Tracy & Earle) Petr. SPECIES
 
 #### Status
 ACCEPTED

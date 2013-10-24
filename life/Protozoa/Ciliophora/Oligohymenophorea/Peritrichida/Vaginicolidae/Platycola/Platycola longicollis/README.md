@@ -1,5 +1,4 @@
-Platycola longicollis subsp. longicollis Kent, 1882 SUBSPECIES
-=======
+# Platycola longicollis Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

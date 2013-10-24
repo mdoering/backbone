@@ -1,5 +1,4 @@
-Petalomonas quinquecarinata Hollande SPECIES
-=======
+# Petalomonas quinquecarinata Hollande SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium concentricum Nirenberg & O'Donnell, 1998 SPECIES
-=======
+# Fusarium concentricum Nirenberg & O'Donnell, 1998 SPECIES
 
 #### Status
 ACCEPTED

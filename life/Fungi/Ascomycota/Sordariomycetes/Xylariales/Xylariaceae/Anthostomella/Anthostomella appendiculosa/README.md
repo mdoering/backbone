@@ -1,14 +1,13 @@
-Entosordaria appendiculosa (Berk. & Broome) Höhn., 1920 SPECIES
-=======
+# Anthostomella appendiculosa (Berk. & Broome) Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 129: 166 (1920)
+Michelia 2(no. 7): 234 (1881)
 
 #### Original name
 Sphaeria appendiculosa Berk. & Broome, 1861

@@ -1,5 +1,4 @@
-Ambrodiscus S.E. Carp. GENUS
-=======
+# Ambrodiscus S.E. Carp. GENUS
 
 #### Status
 ACCEPTED

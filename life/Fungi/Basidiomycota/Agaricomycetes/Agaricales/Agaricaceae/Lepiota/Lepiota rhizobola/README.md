@@ -1,5 +1,4 @@
-Lepiota rhizobola (Berk.) Sacc. SPECIES
-=======
+# Lepiota rhizobola (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

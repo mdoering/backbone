@@ -1,5 +1,4 @@
-Leptothyrium hymenaeicola Bat. & I.H. Lima SPECIES
-=======
+# Leptothyrium hymenaeicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

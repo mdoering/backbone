@@ -1,5 +1,4 @@
-Rotaliatinopsis semiinvoluta (Germeraad, 1946) SPECIES
-=======
+# Rotaliatinopsis semiinvoluta (Germeraad, 1946) SPECIES
 
 #### Status
 ACCEPTED

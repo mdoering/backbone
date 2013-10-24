@@ -1,5 +1,4 @@
-Delosinoides McCulloch, 1977 GENUS
-=======
+# Delosinoides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

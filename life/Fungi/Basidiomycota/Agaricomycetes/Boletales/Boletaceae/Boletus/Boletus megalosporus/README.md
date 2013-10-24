@@ -1,5 +1,4 @@
-Boletus megalosporus Berk., 1859 SPECIES
-=======
+# Boletus megalosporus Berk., 1859 SPECIES
 
 #### Status
 ACCEPTED

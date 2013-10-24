@@ -1,17 +1,16 @@
-Verrucaria subtrahens var. microspora Kremp. VARIETY
-=======
+# Pyrenula aspistea (Ach.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 6: 17 (1814)
 
 #### Original name
-null
+Verrucaria aspistea Ach.
 
 ### Remarks
 null

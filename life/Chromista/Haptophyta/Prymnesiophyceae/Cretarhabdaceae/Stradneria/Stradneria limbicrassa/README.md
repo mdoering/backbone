@@ -1,5 +1,4 @@
-Stradneria limbicrassa Reinhardt, 1964 SPECIES
-=======
+# Stradneria limbicrassa Reinhardt, 1964 SPECIES
 
 #### Status
 ACCEPTED

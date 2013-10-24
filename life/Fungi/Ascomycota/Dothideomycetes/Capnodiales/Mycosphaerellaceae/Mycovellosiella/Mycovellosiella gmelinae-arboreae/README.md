@@ -1,5 +1,4 @@
-Mycovellosiella gmelinae-arboreae A.K. Sarbhoy, Hosag. & N. Ahmad SPECIES
-=======
+# Mycovellosiella gmelinae-arboreae A.K. Sarbhoy, Hosag. & N. Ahmad SPECIES
 
 #### Status
 ACCEPTED

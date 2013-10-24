@@ -1,5 +1,4 @@
-Gorgoniceps candida Speg. SPECIES
-=======
+# Gorgoniceps candida Speg. SPECIES
 
 #### Status
 ACCEPTED

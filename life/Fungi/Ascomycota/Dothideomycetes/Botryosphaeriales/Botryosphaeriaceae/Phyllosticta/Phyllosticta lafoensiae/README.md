@@ -1,5 +1,4 @@
-Phyllosticta lafoensiae Allesch. SPECIES
-=======
+# Phyllosticta lafoensiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

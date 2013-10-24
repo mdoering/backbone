@@ -1,5 +1,4 @@
-Lecidea epixyla (Nyl.) Hue SPECIES
-=======
+# Lecidea epixyla (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

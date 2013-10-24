@@ -1,5 +1,4 @@
-Usnea vainioi Motyka SPECIES
-=======
+# Usnea vainioi Motyka SPECIES
 
 #### Status
 ACCEPTED

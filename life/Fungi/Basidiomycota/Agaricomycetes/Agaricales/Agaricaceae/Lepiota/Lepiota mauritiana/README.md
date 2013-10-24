@@ -1,5 +1,4 @@
-Lepiota mauritiana Henn. SPECIES
-=======
+# Lepiota mauritiana Henn. SPECIES
 
 #### Status
 ACCEPTED

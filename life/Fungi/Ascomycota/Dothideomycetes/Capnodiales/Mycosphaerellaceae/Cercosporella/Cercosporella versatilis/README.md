@@ -1,5 +1,4 @@
-Cercosporella versatilis Syd. SPECIES
-=======
+# Cercosporella versatilis Syd. SPECIES
 
 #### Status
 ACCEPTED

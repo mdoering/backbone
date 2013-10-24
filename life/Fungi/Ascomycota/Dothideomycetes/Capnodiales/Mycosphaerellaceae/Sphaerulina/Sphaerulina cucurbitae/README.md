@@ -1,5 +1,4 @@
-Sphaerulina cucurbitae Naito SPECIES
-=======
+# Sphaerulina cucurbitae Naito SPECIES
 
 #### Status
 ACCEPTED

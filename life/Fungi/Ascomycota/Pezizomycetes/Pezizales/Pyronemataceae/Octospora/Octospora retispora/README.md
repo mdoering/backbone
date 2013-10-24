@@ -1,5 +1,4 @@
-Octospora retispora Itzerott & Thate SPECIES
-=======
+# Octospora retispora Itzerott & Thate SPECIES
 
 #### Status
 ACCEPTED

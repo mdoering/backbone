@@ -1,5 +1,4 @@
-Porina submundula Malme SPECIES
-=======
+# Porina submundula Malme SPECIES
 
 #### Status
 ACCEPTED

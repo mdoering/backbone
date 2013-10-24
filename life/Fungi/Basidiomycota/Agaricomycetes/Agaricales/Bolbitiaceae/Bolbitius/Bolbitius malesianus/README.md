@@ -1,5 +1,4 @@
-Bolbitius malesianus Watling SPECIES
-=======
+# Bolbitius malesianus Watling SPECIES
 
 #### Status
 ACCEPTED

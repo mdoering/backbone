@@ -1,5 +1,4 @@
-Camarosporium turkomanicum Koshk. & Frolov SPECIES
-=======
+# Camarosporium turkomanicum Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

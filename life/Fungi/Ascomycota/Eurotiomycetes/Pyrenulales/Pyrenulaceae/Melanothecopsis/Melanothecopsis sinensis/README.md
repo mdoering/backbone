@@ -1,8 +1,7 @@
-Melanotheca sinensis Kremp. SPECIES
-=======
+# Melanothecopsis sinensis (Kremp.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

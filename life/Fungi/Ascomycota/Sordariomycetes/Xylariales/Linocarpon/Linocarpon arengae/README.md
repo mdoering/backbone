@@ -1,5 +1,4 @@
-Linocarpon arengae Sivan. & W.H. Hsieh SPECIES
-=======
+# Linocarpon arengae Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

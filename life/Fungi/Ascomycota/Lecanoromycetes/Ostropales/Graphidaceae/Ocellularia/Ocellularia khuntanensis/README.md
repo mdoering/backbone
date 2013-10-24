@@ -1,5 +1,4 @@
-Ocellularia khuntanensis (Homchant. & Coppins) Lumbsch & Papong SPECIES
-=======
+# Ocellularia khuntanensis (Homchant. & Coppins) Lumbsch & Papong SPECIES
 
 #### Status
 ACCEPTED

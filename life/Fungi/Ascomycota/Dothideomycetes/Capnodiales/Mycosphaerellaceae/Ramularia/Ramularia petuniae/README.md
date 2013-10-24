@@ -1,5 +1,4 @@
-Ramularia petuniae Cooke SPECIES
-=======
+# Ramularia petuniae Cooke SPECIES
 
 #### Status
 ACCEPTED

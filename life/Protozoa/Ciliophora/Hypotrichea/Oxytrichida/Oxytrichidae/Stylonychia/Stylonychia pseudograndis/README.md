@@ -1,5 +1,4 @@
-Stylonychia pseudograndis Wang & Nie, 1935 SPECIES
-=======
+# Stylonychia pseudograndis Wang & Nie, 1935 SPECIES
 
 #### Status
 ACCEPTED

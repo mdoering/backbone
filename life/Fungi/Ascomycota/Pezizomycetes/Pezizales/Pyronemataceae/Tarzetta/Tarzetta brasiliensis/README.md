@@ -1,5 +1,4 @@
-Tarzetta brasiliensis Rick SPECIES
-=======
+# Tarzetta brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella elegans Saut. SPECIES
-=======
+# Cyphella elegans Saut. SPECIES
 
 #### Status
 ACCEPTED

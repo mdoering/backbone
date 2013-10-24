@@ -1,17 +1,16 @@
-Aecidium crepidis-paludosae SPECIES
-=======
+# Puccinia lapsanae Fuckel, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 15: 13 (1860)
 
 #### Original name
-null
+Puccinia lapsanae Fuckel, 1860
 
 ### Remarks
 null

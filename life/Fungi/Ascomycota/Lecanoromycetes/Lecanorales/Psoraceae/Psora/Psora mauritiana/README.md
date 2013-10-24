@@ -1,5 +1,4 @@
-Psora mauritiana (Taylor) Müll. Arg. SPECIES
-=======
+# Psora mauritiana (Taylor) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

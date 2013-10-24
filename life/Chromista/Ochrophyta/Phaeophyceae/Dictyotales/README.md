@@ -1,5 +1,4 @@
-Dictyotales Bory de Saint-Vincent, 1828 ORDER
-=======
+# Dictyotales Bory de Saint-Vincent, 1828 ORDER
 
 #### Status
 ACCEPTED

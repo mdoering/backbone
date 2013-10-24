@@ -1,5 +1,4 @@
-Semilecanora flavescens Motyka SPECIES
-=======
+# Semilecanora flavescens Motyka SPECIES
 
 #### Status
 ACCEPTED

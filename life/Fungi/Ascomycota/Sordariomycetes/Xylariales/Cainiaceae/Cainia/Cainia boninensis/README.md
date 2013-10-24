@@ -1,5 +1,4 @@
-Cainia boninensis Katum. & Y. Harada SPECIES
-=======
+# Cainia boninensis Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

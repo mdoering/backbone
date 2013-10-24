@@ -1,5 +1,4 @@
-Agaricus nitrosovirescens Secr. SPECIES
-=======
+# Agaricus nitrosovirescens Secr. SPECIES
 
 #### Status
 ACCEPTED

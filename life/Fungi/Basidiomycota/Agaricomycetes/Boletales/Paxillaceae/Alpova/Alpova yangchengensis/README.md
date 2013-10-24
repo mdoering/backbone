@@ -1,5 +1,4 @@
-Alpova yangchengensis B. Liu, K. Tao & Ming C. Chang SPECIES
-=======
+# Alpova yangchengensis B. Liu, K. Tao & Ming C. Chang SPECIES
 
 #### Status
 ACCEPTED

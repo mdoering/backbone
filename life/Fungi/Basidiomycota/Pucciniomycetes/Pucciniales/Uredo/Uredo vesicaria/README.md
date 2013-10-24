@@ -1,5 +1,4 @@
-Uredo vesicaria J.S. Kaulf. SPECIES
-=======
+# Uredo vesicaria J.S. Kaulf. SPECIES
 
 #### Status
 ACCEPTED

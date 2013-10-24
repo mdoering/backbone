@@ -1,5 +1,4 @@
-Neofuckelia Zeller & Goodd. GENUS
-=======
+# Neofuckelia Zeller & Goodd. GENUS
 
 #### Status
 ACCEPTED

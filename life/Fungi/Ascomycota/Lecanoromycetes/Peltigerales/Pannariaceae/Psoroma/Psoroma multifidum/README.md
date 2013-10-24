@@ -1,5 +1,4 @@
-Psoroma multifidum P. M. Jørg. SPECIES
-=======
+# Psoroma multifidum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

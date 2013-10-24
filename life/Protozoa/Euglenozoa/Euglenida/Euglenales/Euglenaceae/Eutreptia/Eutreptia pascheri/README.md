@@ -1,5 +1,4 @@
-Eutreptia pascheri Skvortzow SPECIES
-=======
+# Eutreptia pascheri Skvortzow SPECIES
 
 #### Status
 ACCEPTED

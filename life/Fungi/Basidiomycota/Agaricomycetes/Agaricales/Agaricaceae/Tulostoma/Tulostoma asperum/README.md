@@ -1,5 +1,4 @@
-Tulostoma asperum Long SPECIES
-=======
+# Tulostoma asperum Long SPECIES
 
 #### Status
 ACCEPTED

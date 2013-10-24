@@ -1,5 +1,4 @@
-Phomopsis stromatigena Maire SPECIES
-=======
+# Phomopsis stromatigena Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon heterosporum Velen. SPECIES
-=======
+# Lycoperdon heterosporum Velen. SPECIES
 
 #### Status
 ACCEPTED

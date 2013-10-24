@@ -1,5 +1,4 @@
-Opegraphomyces atrae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Opegraphomyces atrae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

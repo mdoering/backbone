@@ -1,5 +1,4 @@
-Cladonia rangiformis var. rangiformis VARIETY
-=======
+# Cladonia rangiformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Deutschl. Fl. (Erlangen), Zweiter Theil 114 (1796)
 
 #### Original name
-Cladonia rangiformis var. rangiformis
+Cladonia rangiformis Hoffm.
 
 ### Remarks
 null

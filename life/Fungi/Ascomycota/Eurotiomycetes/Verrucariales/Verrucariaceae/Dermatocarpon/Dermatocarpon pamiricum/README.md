@@ -1,5 +1,4 @@
-Dermatocarpon pamiricum N.S. Golubk. SPECIES
-=======
+# Dermatocarpon pamiricum N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

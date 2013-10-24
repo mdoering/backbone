@@ -1,5 +1,4 @@
-Peripanartus Haeckel, 1887 GENUS
-=======
+# Peripanartus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

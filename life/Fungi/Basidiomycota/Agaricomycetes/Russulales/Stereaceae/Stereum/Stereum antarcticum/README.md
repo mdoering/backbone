@@ -1,14 +1,13 @@
-Terana antarctica (Speg.) Kuntze, 1891 SPECIES
-=======
+# Stereum antarcticum (Speg.) Rajchenb., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Sydowia 40: 248 (1988)
 
 #### Original name
 null

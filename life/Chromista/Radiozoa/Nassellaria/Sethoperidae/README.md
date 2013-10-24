@@ -1,5 +1,4 @@
-Sethoperidae Haeckel, 1881 FAMILY
-=======
+# Sethoperidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

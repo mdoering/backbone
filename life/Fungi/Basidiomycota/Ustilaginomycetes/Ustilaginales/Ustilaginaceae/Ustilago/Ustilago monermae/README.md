@@ -1,5 +1,4 @@
-Ustilago monermae Maire SPECIES
-=======
+# Ustilago monermae Maire SPECIES
 
 #### Status
 ACCEPTED

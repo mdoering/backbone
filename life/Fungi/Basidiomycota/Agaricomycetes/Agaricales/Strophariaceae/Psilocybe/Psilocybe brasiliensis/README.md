@@ -1,5 +1,4 @@
-Psilocybe brasiliensis Guzmán SPECIES
-=======
+# Psilocybe brasiliensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca athanotripta SPECIES
-=======
+# Caloplaca athanotripta SPECIES
 
 #### Status
 ACCEPTED

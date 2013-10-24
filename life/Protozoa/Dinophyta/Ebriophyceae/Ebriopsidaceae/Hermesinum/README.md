@@ -1,5 +1,4 @@
-Hermesinum O.Zacharias, 1906 GENUS
-=======
+# Hermesinum O.Zacharias, 1906 GENUS
 
 #### Status
 ACCEPTED

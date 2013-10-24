@@ -1,5 +1,4 @@
-Cytospora canariensis Urries SPECIES
-=======
+# Cytospora canariensis Urries SPECIES
 
 #### Status
 ACCEPTED

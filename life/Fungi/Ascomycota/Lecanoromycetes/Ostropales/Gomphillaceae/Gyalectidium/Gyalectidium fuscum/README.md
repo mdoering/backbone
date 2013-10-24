@@ -1,5 +1,4 @@
-Gyalectidium fuscum Lücking & Sérus. SPECIES
-=======
+# Gyalectidium fuscum Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

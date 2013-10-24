@@ -1,5 +1,4 @@
-Cryptodiaporthe hickoriae (G.F. Atk.) Wehm. SPECIES
-=======
+# Cryptodiaporthe hickoriae (G.F. Atk.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

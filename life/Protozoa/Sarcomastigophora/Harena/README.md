@@ -1,5 +1,4 @@
-Harena Voloshina, 1965 GENUS
-=======
+# Harena Voloshina, 1965 GENUS
 
 #### Status
 ACCEPTED

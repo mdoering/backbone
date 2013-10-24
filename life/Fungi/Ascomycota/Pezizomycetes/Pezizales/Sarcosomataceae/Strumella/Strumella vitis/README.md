@@ -1,5 +1,4 @@
-Strumella vitis McAlpine SPECIES
-=======
+# Strumella vitis McAlpine SPECIES
 
 #### Status
 ACCEPTED

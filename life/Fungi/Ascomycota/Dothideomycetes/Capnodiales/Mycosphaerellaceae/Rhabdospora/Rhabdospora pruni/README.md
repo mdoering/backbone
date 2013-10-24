@@ -1,5 +1,4 @@
-Rhabdospora pruni var. pruni VARIETY
-=======
+# Rhabdospora pruni SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora pruni var. pruni
+Rhabdospora pruni
 
 ### Remarks
 null

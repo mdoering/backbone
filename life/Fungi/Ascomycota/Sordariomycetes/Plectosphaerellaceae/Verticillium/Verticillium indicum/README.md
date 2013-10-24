@@ -1,5 +1,4 @@
-Verticillium indicum (Petch) W. Gams SPECIES
-=======
+# Verticillium indicum (Petch) W. Gams SPECIES
 
 #### Status
 ACCEPTED

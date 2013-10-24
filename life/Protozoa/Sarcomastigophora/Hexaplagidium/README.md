@@ -1,5 +1,4 @@
-Hexaplagidium Haeckel, 1881 GENUS
-=======
+# Hexaplagidium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

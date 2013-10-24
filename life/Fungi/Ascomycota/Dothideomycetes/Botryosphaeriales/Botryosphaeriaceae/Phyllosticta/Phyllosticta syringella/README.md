@@ -1,5 +1,4 @@
-Phyllosticta syringella Allesch. SPECIES
-=======
+# Phyllosticta syringella Allesch. SPECIES
 
 #### Status
 ACCEPTED

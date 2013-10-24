@@ -1,5 +1,4 @@
-Microdiplodia obsoleta (P. Karst.) Tassi SPECIES
-=======
+# Microdiplodia obsoleta (P. Karst.) Tassi SPECIES
 
 #### Status
 ACCEPTED

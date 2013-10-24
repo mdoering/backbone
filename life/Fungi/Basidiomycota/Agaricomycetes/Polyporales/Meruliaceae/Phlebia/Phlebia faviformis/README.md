@@ -1,5 +1,4 @@
-Phlebia faviformis W.B. Cooke SPECIES
-=======
+# Phlebia faviformis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

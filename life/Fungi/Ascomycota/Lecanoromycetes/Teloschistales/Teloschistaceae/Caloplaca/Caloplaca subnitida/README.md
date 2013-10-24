@@ -1,5 +1,4 @@
-Caloplaca subnitida (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca subnitida (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

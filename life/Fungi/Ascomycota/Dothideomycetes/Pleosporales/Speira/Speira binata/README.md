@@ -1,5 +1,4 @@
-Speira binata Sacc. SPECIES
-=======
+# Speira binata Sacc. SPECIES
 
 #### Status
 ACCEPTED

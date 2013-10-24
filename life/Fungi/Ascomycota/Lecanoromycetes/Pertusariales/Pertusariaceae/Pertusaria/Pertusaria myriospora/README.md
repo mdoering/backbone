@@ -1,5 +1,4 @@
-Pertusaria myriospora Erichsen SPECIES
-=======
+# Pertusaria myriospora Erichsen SPECIES
 
 #### Status
 ACCEPTED

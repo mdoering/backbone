@@ -1,5 +1,4 @@
-Russula synaptica Sarnari SPECIES
-=======
+# Russula synaptica Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plowrightia neomexicana Earle SPECIES
-=======
+# Plowrightia neomexicana Earle SPECIES
 
 #### Status
 ACCEPTED

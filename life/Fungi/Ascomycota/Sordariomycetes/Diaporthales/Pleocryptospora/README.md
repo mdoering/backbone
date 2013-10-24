@@ -1,5 +1,4 @@
-Pleocryptospora J. Reid & C. Booth GENUS
-=======
+# Pleocryptospora J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

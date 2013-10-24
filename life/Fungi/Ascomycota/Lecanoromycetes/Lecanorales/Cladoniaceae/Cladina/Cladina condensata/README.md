@@ -1,5 +1,4 @@
-Cladina condensata (Flörke) Zopf SPECIES
-=======
+# Cladina condensata (Flörke) Zopf SPECIES
 
 #### Status
 ACCEPTED

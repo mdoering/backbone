@@ -1,5 +1,4 @@
-Cortinarius mellinus Britzelm. SPECIES
-=======
+# Cortinarius mellinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

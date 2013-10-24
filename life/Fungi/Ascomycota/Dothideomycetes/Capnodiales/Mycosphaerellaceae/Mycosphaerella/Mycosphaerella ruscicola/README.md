@@ -1,5 +1,4 @@
-Mycosphaerella ruscicola A. Pande SPECIES
-=======
+# Mycosphaerella ruscicola A. Pande SPECIES
 
 #### Status
 ACCEPTED

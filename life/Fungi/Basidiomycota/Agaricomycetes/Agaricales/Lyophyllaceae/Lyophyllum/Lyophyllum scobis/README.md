@@ -1,5 +1,4 @@
-Lyophyllum scobis Métrod ex Contu SPECIES
-=======
+# Lyophyllum scobis Métrod ex Contu SPECIES
 
 #### Status
 ACCEPTED

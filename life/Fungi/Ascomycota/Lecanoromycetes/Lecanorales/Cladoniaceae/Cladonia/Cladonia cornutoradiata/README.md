@@ -1,5 +1,4 @@
-Cladonia cornutoradiata var. cornutoradiata VARIETY
-=======
+# Cladonia cornutoradiata (Vain.) Zopf SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Abh. naturw. Ver. Bremen 25: 224 (1922)
 
 #### Original name
 Cladonia fimbriata var. cornutoradiata Vain.

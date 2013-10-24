@@ -1,5 +1,4 @@
-Parmelia subargentifer SPECIES
-=======
+# Parmelia subargentifer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia cocoës Rehm SPECIES
-=======
+# Lembosia cocoës Rehm SPECIES
 
 #### Status
 ACCEPTED

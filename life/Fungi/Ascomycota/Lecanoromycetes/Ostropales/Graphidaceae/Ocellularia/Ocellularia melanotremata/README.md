@@ -1,5 +1,4 @@
-Ocellularia melanotremata Hale SPECIES
-=======
+# Ocellularia melanotremata Hale SPECIES
 
 #### Status
 ACCEPTED

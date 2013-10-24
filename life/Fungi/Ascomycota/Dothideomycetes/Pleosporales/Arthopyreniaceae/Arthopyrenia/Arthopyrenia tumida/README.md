@@ -1,5 +1,4 @@
-Arthopyrenia tumida Müll. Arg. SPECIES
-=======
+# Arthopyrenia tumida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

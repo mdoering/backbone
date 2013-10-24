@@ -1,5 +1,4 @@
-Parathelium superans Müll. Arg. SPECIES
-=======
+# Parathelium superans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

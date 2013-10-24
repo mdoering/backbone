@@ -1,5 +1,4 @@
-Cytospora incerta Thüm. SPECIES
-=======
+# Cytospora incerta Thüm. SPECIES
 
 #### Status
 ACCEPTED

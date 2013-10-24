@@ -1,5 +1,4 @@
-Opegrapha hawaiiensis H. Magn. SPECIES
-=======
+# Opegrapha hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ethmodiscus appendiculatus SPECIES
-=======
+# Ethmodiscus appendiculatus SPECIES
 
 #### Status
 ACCEPTED

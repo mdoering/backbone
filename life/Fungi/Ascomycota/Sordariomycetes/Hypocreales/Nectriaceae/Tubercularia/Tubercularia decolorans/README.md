@@ -1,5 +1,4 @@
-Tubercularia decolorans Peck SPECIES
-=======
+# Tubercularia decolorans Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma elegans G. Stev., 1964 SPECIES
-=======
+# Tricholoma elegans G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

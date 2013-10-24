@@ -1,5 +1,4 @@
-Puccinia nasellae Arthur & Holw. SPECIES
-=======
+# Puccinia nasellae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

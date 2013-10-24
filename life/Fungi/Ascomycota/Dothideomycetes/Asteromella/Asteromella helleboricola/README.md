@@ -1,5 +1,4 @@
-Asteromella helleboricola (C. Massal.) Moesz SPECIES
-=======
+# Asteromella helleboricola (C. Massal.) Moesz SPECIES
 
 #### Status
 ACCEPTED

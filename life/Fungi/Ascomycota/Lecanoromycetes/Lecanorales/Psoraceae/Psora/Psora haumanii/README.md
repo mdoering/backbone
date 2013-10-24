@@ -1,5 +1,4 @@
-Psora haumanii (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Psora haumanii (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

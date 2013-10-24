@@ -1,5 +1,4 @@
-Dermacoccus Stackebrandt et al., 1995 GENUS
-=======
+# Dermacoccus Stackebrandt et al., 1995 GENUS
 
 #### Status
 ACCEPTED

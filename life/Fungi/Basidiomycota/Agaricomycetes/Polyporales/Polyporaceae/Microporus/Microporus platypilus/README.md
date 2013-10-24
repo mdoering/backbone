@@ -1,5 +1,4 @@
-Microporus platypilus (Lév.) Kuntze SPECIES
-=======
+# Microporus platypilus (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

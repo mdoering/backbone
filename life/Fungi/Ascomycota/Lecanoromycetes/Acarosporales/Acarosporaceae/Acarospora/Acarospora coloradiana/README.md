@@ -1,5 +1,4 @@
-Acarospora coloradiana H. Magn. SPECIES
-=======
+# Acarospora coloradiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

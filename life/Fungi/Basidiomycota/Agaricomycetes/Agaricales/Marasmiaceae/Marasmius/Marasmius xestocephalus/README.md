@@ -1,5 +1,4 @@
-Marasmius xestocephalus Singer SPECIES
-=======
+# Marasmius xestocephalus Singer SPECIES
 
 #### Status
 ACCEPTED

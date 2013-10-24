@@ -1,5 +1,4 @@
-Stigmina cornicola (Ellis & Everh.) B. Sutton SPECIES
-=======
+# Stigmina cornicola (Ellis & Everh.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

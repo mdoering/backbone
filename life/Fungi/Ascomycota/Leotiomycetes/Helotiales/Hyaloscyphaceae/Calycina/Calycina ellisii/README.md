@@ -1,17 +1,16 @@
-Microscypha ellisii var. ellisii VARIETY
-=======
+# Calycina ellisii (Dennis) Raitv., 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 25: 358 (1971)
+Scripta Mycol. , Tartu 20: 17 (2004)
 
 #### Original name
-Microscypha ellisii var. ellisii
+Microscypha ellisii Dennis, 1971
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Loranitschkia viticola Lar.N. Vassiljeva, 1990 SPECIES
-=======
+# Loranitschkia viticola Lar.N. Vassiljeva, 1990 SPECIES
 
 #### Status
 ACCEPTED

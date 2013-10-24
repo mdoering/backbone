@@ -1,5 +1,4 @@
-Trichosporum falcatae Dearn. & Barthol. SPECIES
-=======
+# Trichosporum falcatae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

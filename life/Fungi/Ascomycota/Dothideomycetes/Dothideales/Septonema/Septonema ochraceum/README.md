@@ -1,17 +1,16 @@
-Septonema ochracea Matsush. SPECIES
-=======
+# Septonema ochraceum Matsush., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. microfung. Matsush. lect. (Kobe) 132 (1975)
 
 #### Original name
-Septonema ochracea Matsush.
+Septonema ochraceum Matsush., 1975
 
 ### Remarks
 null

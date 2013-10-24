@@ -1,5 +1,4 @@
-Wegea tylophorelloides Aptroot & Tibell SPECIES
-=======
+# Wegea tylophorelloides Aptroot & Tibell SPECIES
 
 #### Status
 ACCEPTED

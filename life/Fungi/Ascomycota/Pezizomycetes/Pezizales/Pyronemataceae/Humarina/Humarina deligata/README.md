@@ -1,5 +1,4 @@
-Humarina deligata (Peck) Seaver SPECIES
-=======
+# Humarina deligata (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

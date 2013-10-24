@@ -1,17 +1,16 @@
-Rhizocarpon athalloides (Nyl.) Hasse SPECIES
-=======
+# Diploschistella athalloides (Nyl.) Lücking, K. Knudsen & Fryday SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichen Flora of the Greater Sonoran Desert Region (Tempe) 3: 228 (2007)
 
 #### Original name
-null
+Lecidea athalloides Nyl.
 
 ### Remarks
 null

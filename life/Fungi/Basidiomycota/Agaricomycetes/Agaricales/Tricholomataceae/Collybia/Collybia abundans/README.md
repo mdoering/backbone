@@ -1,5 +1,4 @@
-Collybia abundans Peck SPECIES
-=======
+# Collybia abundans Peck SPECIES
 
 #### Status
 ACCEPTED

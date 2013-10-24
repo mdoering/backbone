@@ -1,5 +1,4 @@
-Trigonocyclia GENUS
-=======
+# Trigonocyclia GENUS
 
 #### Status
 ACCEPTED

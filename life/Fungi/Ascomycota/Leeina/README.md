@@ -1,5 +1,4 @@
-Leeina Petrak, 1923 GENUS
-=======
+# Leeina Petrak, 1923 GENUS
 
 #### Status
 ACCEPTED

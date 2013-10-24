@@ -1,5 +1,4 @@
-Gasparrinia depauperata (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Gasparrinia depauperata (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

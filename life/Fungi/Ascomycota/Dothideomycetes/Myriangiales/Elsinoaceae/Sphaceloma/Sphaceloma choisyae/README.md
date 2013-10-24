@@ -1,5 +1,4 @@
-Sphaceloma choisyae A.M.J. Watson & Jenkins SPECIES
-=======
+# Sphaceloma choisyae A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

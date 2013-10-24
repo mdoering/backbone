@@ -1,5 +1,4 @@
-Puncticulata bodanica (Eulenstein ex Grunow) Håk., 2002 SPECIES
-=======
+# Puncticulata bodanica (Eulenstein ex Grunow) Håk., 2002 SPECIES
 
 #### Status
 ACCEPTED

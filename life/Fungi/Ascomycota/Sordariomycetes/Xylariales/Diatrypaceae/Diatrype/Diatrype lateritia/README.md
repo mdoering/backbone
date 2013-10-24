@@ -1,5 +1,4 @@
-Diatrype lateritia Ellis SPECIES
-=======
+# Diatrype lateritia Ellis SPECIES
 
 #### Status
 ACCEPTED

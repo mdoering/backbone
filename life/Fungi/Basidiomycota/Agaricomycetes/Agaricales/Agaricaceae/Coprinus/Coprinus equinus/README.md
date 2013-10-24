@@ -1,5 +1,4 @@
-Coprinus equinus Chelch. SPECIES
-=======
+# Coprinus equinus Chelch. SPECIES
 
 #### Status
 ACCEPTED

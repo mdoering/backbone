@@ -1,5 +1,4 @@
-Fungus didactylus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus didactylus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

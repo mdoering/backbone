@@ -1,5 +1,4 @@
-Cortinarius pseudopaleaceus Herp. SPECIES
-=======
+# Cortinarius pseudopaleaceus Herp. SPECIES
 
 #### Status
 ACCEPTED

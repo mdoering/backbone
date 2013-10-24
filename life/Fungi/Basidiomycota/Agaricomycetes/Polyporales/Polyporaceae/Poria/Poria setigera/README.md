@@ -1,5 +1,4 @@
-Poria setigera Peck SPECIES
-=======
+# Poria setigera Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora pycnidioides (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora pycnidioides (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton ceroton Cazalbou SPECIES
-=======
+# Trichophyton ceroton Cazalbou SPECIES
 
 #### Status
 ACCEPTED

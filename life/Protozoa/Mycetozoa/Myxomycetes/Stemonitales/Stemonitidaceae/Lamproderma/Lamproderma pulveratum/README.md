@@ -1,5 +1,4 @@
-Lamproderma pulveratum Mar.Mey. & Poulain, 1991 SPECIES
-=======
+# Lamproderma pulveratum Mar.Mey. & Poulain, 1991 SPECIES
 
 #### Status
 ACCEPTED

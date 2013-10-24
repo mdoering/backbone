@@ -1,5 +1,4 @@
-Arthopyrenia glacialis (Bagl. & Carestia) Zahlbr. SPECIES
-=======
+# Arthopyrenia glacialis (Bagl. & Carestia) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

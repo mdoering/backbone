@@ -1,5 +1,4 @@
-Lecidea sandwicensis H. Magn. SPECIES
-=======
+# Lecidea sandwicensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

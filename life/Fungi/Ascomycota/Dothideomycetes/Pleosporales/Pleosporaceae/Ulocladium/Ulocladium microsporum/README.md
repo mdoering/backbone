@@ -1,5 +1,4 @@
-Ulocladium microsporum Moub. & Abdel-Hafez, 1977 SPECIES
-=======
+# Ulocladium microsporum Moub. & Abdel-Hafez, 1977 SPECIES
 
 #### Status
 ACCEPTED

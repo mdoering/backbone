@@ -1,5 +1,4 @@
-Amanita porrinensis Freire & Castro SPECIES
-=======
+# Amanita porrinensis Freire & Castro SPECIES
 
 #### Status
 ACCEPTED

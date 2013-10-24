@@ -1,5 +1,4 @@
-Sebacina polyschista Burt SPECIES
-=======
+# Sebacina polyschista Burt SPECIES
 
 #### Status
 ACCEPTED

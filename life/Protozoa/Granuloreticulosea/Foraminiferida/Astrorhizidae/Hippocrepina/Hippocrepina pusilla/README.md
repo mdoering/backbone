@@ -1,5 +1,4 @@
-Hippocrepina pusilla Heron-Allen & Earland, 1930 SPECIES
-=======
+# Hippocrepina pusilla Heron-Allen & Earland, 1930 SPECIES
 
 #### Status
 ACCEPTED

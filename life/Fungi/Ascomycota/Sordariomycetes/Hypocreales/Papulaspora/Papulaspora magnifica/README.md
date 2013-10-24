@@ -1,5 +1,4 @@
-Papulaspora magnifica Hotson SPECIES
-=======
+# Papulaspora magnifica Hotson SPECIES
 
 #### Status
 ACCEPTED

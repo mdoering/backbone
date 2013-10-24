@@ -1,5 +1,4 @@
-Enterographa bartlettii Sérus. SPECIES
-=======
+# Enterographa bartlettii Sérus. SPECIES
 
 #### Status
 ACCEPTED

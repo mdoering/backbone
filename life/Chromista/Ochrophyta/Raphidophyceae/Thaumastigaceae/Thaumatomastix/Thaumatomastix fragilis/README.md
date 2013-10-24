@@ -1,5 +1,4 @@
-Thaumatomastix fragilis H.A. Thomsen, Kosman & Ikävalko, 1995 SPECIES
-=======
+# Thaumatomastix fragilis H.A. Thomsen, Kosman & Ikävalko, 1995 SPECIES
 
 #### Status
 ACCEPTED

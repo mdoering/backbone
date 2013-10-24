@@ -1,5 +1,4 @@
-Corethromyces piesticola Thaxt. SPECIES
-=======
+# Corethromyces piesticola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

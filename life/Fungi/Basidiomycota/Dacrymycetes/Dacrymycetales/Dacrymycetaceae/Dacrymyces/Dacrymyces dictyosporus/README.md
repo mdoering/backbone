@@ -1,5 +1,4 @@
-Dacrymyces dictyosporus G.W. Martin, 1959 SPECIES
-=======
+# Dacrymyces dictyosporus G.W. Martin, 1959 SPECIES
 
 #### Status
 ACCEPTED

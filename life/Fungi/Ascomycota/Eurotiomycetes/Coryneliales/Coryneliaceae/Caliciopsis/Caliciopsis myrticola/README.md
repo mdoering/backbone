@@ -1,5 +1,4 @@
-Caliciopsis myrticola B. Huguenin SPECIES
-=======
+# Caliciopsis myrticola B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

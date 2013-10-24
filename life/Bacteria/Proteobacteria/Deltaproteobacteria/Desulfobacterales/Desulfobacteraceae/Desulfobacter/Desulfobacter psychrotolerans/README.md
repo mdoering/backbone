@@ -1,5 +1,4 @@
-Desulfobacter psychrotolerans Tarpgaard, Boetius & Finster, 2006 SPECIES
-=======
+# Desulfobacter psychrotolerans Tarpgaard, Boetius & Finster, 2006 SPECIES
 
 #### Status
 ACCEPTED

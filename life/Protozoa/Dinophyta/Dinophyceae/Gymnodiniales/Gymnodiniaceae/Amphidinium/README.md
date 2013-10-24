@@ -1,5 +1,4 @@
-Amphidinium Claparède & Lachmann, 1859 GENUS
-=======
+# Amphidinium Claparède & Lachmann, 1859 GENUS
 
 #### Status
 ACCEPTED

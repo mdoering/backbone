@@ -1,5 +1,4 @@
-Vermisporium biseptatum H.J. Swart & M.A. Will. SPECIES
-=======
+# Vermisporium biseptatum H.J. Swart & M.A. Will. SPECIES
 
 #### Status
 ACCEPTED

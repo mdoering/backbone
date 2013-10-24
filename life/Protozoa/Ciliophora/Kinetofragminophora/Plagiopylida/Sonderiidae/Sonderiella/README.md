@@ -1,5 +1,4 @@
-Sonderiella Kahl, 1928 GENUS
-=======
+# Sonderiella Kahl, 1928 GENUS
 
 #### Status
 ACCEPTED

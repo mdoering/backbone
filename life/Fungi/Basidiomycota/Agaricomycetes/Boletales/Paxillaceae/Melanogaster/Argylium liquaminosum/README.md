@@ -1,5 +1,4 @@
-Argylium liquaminosum Wallr. SPECIES
-=======
+# Argylium liquaminosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

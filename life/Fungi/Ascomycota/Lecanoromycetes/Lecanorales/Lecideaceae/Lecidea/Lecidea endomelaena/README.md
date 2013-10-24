@@ -1,5 +1,4 @@
-Lecidea endomelaena Leight. SPECIES
-=======
+# Lecidea endomelaena Leight. SPECIES
 
 #### Status
 ACCEPTED

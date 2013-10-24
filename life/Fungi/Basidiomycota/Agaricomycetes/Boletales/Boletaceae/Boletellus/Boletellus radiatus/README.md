@@ -1,5 +1,4 @@
-Boletellus radiatus C.S. Bi SPECIES
-=======
+# Boletellus radiatus C.S. Bi SPECIES
 
 #### Status
 ACCEPTED

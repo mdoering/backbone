@@ -1,5 +1,4 @@
-Phyllosticta trichostomi (Seaver & Waterston) Racov. SPECIES
-=======
+# Phyllosticta trichostomi (Seaver & Waterston) Racov. SPECIES
 
 #### Status
 ACCEPTED

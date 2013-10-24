@@ -1,5 +1,4 @@
-Podosphaera alpina (S. Blumer) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera alpina (S. Blumer) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

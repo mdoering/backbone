@@ -1,5 +1,4 @@
-Laschia cartilaginosa Rick SPECIES
-=======
+# Laschia cartilaginosa Rick SPECIES
 
 #### Status
 ACCEPTED

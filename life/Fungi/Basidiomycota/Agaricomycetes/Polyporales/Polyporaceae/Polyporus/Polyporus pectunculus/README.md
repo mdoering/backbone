@@ -1,5 +1,4 @@
-Polyporus pectunculus Lloyd SPECIES
-=======
+# Polyporus pectunculus Lloyd SPECIES
 
 #### Status
 ACCEPTED

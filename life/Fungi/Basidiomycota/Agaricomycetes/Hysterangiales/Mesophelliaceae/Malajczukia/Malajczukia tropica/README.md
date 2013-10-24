@@ -1,5 +1,4 @@
-Malajczukia tropica Trappe & Castellano, 1992 SPECIES
-=======
+# Malajczukia tropica Trappe & Castellano, 1992 SPECIES
 
 #### Status
 ACCEPTED

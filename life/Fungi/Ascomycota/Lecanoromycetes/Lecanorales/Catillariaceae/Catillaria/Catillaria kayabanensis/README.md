@@ -1,5 +1,4 @@
-Catillaria kayabanensis Vain. SPECIES
-=======
+# Catillaria kayabanensis Vain. SPECIES
 
 #### Status
 ACCEPTED

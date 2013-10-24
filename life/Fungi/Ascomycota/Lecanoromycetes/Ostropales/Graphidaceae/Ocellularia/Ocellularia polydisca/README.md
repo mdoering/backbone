@@ -1,17 +1,16 @@
-Ocellularia polydisca var. polydisca Redinger VARIETY
-=======
+# Ocellularia polydisca Redinger SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 73: 61 (1933)
 
 #### Original name
-Ocellularia polydisca var. polydisca Redinger
+Ocellularia polydisca Redinger
 
 ### Remarks
 null

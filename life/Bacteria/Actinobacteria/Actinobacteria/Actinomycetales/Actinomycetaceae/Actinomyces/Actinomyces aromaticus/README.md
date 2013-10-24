@@ -1,5 +1,4 @@
-Actinomyces aromaticus Krassiln. SPECIES
-=======
+# Actinomyces aromaticus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

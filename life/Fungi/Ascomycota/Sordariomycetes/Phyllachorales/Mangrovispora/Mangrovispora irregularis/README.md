@@ -1,5 +1,4 @@
-Mangrovispora irregularis Yanna, W.H. Ho & K.D. Hyde, 2004 SPECIES
-=======
+# Mangrovispora irregularis Yanna, W.H. Ho & K.D. Hyde, 2004 SPECIES
 
 #### Status
 ACCEPTED

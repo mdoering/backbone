@@ -1,5 +1,4 @@
-Entomocosma laboulbenioides Speg. SPECIES
-=======
+# Entomocosma laboulbenioides Speg. SPECIES
 
 #### Status
 ACCEPTED

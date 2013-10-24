@@ -1,5 +1,4 @@
-Lingulina vitrea Heron-Allen & Earland, 1932 SPECIES
-=======
+# Lingulina vitrea Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorosplenium schweinitzii Fr. SPECIES
-=======
+# Chlorosplenium schweinitzii Fr. SPECIES
 
 #### Status
 ACCEPTED

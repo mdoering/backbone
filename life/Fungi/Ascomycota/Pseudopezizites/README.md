@@ -1,5 +1,4 @@
-Pseudopezizites Fiore GENUS
-=======
+# Pseudopezizites Fiore GENUS
 
 #### Status
 ACCEPTED

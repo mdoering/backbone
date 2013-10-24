@@ -1,5 +1,4 @@
-Opegrapha illecebrosula Müll. Arg. SPECIES
-=======
+# Opegrapha illecebrosula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

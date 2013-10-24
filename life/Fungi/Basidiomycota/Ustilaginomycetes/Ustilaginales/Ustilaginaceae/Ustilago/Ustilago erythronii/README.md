@@ -1,5 +1,4 @@
-Ustilago erythronii Clinton SPECIES
-=======
+# Ustilago erythronii Clinton SPECIES
 
 #### Status
 ACCEPTED

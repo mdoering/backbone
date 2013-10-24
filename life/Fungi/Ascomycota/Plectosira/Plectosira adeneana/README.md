@@ -1,5 +1,4 @@
-Plectosira adeneana Petr. SPECIES
-=======
+# Plectosira adeneana Petr. SPECIES
 
 #### Status
 ACCEPTED

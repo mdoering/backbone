@@ -1,17 +1,16 @@
-Verrucaria stanfordii Herre SPECIES
-=======
+# Placopyrenium stanfordii (Herre) K. Knudsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Knudsen & Lendemer, Mycotaxon 95: 310 (2006)
 
 #### Original name
-null
+Verrucaria stanfordii Herre
 
 ### Remarks
 null

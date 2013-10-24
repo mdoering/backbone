@@ -1,5 +1,4 @@
-Lycoperdon ferrugineum Hedw. SPECIES
-=======
+# Lycoperdon ferrugineum Hedw. SPECIES
 
 #### Status
 ACCEPTED

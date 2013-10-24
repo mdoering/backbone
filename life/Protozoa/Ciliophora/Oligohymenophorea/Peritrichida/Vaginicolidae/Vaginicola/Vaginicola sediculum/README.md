@@ -1,5 +1,4 @@
-Vaginicola sediculum Penard, 1914 SPECIES
-=======
+# Vaginicola sediculum Penard, 1914 SPECIES
 
 #### Status
 ACCEPTED

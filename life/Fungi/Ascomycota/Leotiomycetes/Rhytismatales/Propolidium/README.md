@@ -1,5 +1,4 @@
-Propolidium Sacc. GENUS
-=======
+# Propolidium Sacc. GENUS
 
 #### Status
 ACCEPTED

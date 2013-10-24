@@ -1,5 +1,4 @@
-Pterygium baumgartneri Zahlbr. SPECIES
-=======
+# Pterygium baumgartneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus subtomentosus (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Lactifluus subtomentosus (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

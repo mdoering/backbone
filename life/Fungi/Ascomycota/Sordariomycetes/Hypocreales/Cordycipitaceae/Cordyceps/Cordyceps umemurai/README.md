@@ -1,5 +1,4 @@
-Cordyceps umemurai S. Imai SPECIES
-=======
+# Cordyceps umemurai S. Imai SPECIES
 
 #### Status
 ACCEPTED

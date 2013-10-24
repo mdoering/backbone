@@ -1,5 +1,4 @@
-Pholiota tabacinirugosa S. Ito & S. Imai SPECIES
-=======
+# Pholiota tabacinirugosa S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

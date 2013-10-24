@@ -1,5 +1,4 @@
-Rhodomonas stigmatica (Wislouch) D. R. A. Hill SPECIES
-=======
+# Rhodomonas stigmatica (Wislouch) D. R. A. Hill SPECIES
 
 #### Status
 ACCEPTED

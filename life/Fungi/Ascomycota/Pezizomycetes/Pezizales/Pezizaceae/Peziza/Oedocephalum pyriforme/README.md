@@ -1,8 +1,7 @@
-Oedocephalum piriforme (Bonord.) Sacc. SPECIES
-=======
+# Oedocephalum pyriforme (Bonord.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

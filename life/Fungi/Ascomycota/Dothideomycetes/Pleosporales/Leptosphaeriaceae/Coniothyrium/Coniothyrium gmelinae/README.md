@@ -1,5 +1,4 @@
-Coniothyrium gmelinae Henn. SPECIES
-=======
+# Coniothyrium gmelinae Henn. SPECIES
 
 #### Status
 ACCEPTED

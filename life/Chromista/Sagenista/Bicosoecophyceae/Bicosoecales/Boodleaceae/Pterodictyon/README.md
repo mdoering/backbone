@@ -1,5 +1,4 @@
-Pterodictyon J.E. Gray, 1866 GENUS
-=======
+# Pterodictyon J.E. Gray, 1866 GENUS
 
 #### Status
 ACCEPTED

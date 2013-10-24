@@ -1,5 +1,4 @@
-Peziza cinerella P. Crouan & H. Crouan SPECIES
-=======
+# Peziza cinerella P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

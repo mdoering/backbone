@@ -1,5 +1,4 @@
-Trichopeziza harmandi Vouaux SPECIES
-=======
+# Trichopeziza harmandi Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaeroplasma Robinson, Allison & Hartman, 1975 GENUS
-=======
+# Anaeroplasma Robinson, Allison & Hartman, 1975 GENUS
 
 #### Status
 ACCEPTED

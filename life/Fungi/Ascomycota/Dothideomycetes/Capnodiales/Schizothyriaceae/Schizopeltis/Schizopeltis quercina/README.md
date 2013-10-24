@@ -1,5 +1,4 @@
-Schizopeltis quercina (Schulzer) Bat. SPECIES
-=======
+# Schizopeltis quercina (Schulzer) Bat. SPECIES
 
 #### Status
 ACCEPTED

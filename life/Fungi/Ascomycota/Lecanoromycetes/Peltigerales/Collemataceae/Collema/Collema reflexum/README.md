@@ -1,5 +1,4 @@
-Collema reflexum Taylor SPECIES
-=======
+# Collema reflexum Taylor SPECIES
 
 #### Status
 ACCEPTED

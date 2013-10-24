@@ -1,5 +1,4 @@
-Asterina rhodomyrti Hosag., H. Biju & Manojk., 2006 SPECIES
-=======
+# Asterina rhodomyrti Hosag., H. Biju & Manojk., 2006 SPECIES
 
 #### Status
 ACCEPTED

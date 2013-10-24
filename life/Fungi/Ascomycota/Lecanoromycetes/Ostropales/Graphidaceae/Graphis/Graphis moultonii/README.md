@@ -1,5 +1,4 @@
-Graphis moultonii Vain. SPECIES
-=======
+# Graphis moultonii Vain. SPECIES
 
 #### Status
 ACCEPTED

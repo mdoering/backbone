@@ -1,5 +1,4 @@
-Brachysporium vesiculosum (Thüm.) Sacc. SPECIES
-=======
+# Brachysporium vesiculosum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

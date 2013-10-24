@@ -1,5 +1,4 @@
-Hypoxylon peckianum Sacc. SPECIES
-=======
+# Hypoxylon peckianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

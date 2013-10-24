@@ -1,5 +1,4 @@
-Tuberculina costaricana Syd. SPECIES
-=======
+# Tuberculina costaricana Syd. SPECIES
 
 #### Status
 ACCEPTED

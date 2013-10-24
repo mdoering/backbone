@@ -1,5 +1,4 @@
-Biatora monticola (Ach.) Hepp SPECIES
-=======
+# Biatora monticola (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED

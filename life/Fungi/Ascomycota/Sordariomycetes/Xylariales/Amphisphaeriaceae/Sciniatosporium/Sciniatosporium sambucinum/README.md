@@ -1,5 +1,4 @@
-Sciniatosporium sambucinum (Ellis & Everh.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium sambucinum (Ellis & Everh.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

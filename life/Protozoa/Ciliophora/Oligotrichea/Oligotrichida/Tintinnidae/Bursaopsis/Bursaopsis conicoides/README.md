@@ -1,5 +1,4 @@
-Bursaopsis conicoides Hada, 1970 SPECIES
-=======
+# Bursaopsis conicoides Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

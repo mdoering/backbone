@@ -1,8 +1,7 @@
-Conglobatoides Saidova, 1981 GENUS
-=======
+# Conglophragmium Bermudez & Rivero, 1963 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

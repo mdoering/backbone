@@ -1,5 +1,4 @@
-Bodo amoebinus Lemm. SPECIES
-=======
+# Bodo amoebinus Lemm. SPECIES
 
 #### Status
 ACCEPTED

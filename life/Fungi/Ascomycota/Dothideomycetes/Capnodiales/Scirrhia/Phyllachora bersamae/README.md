@@ -1,5 +1,4 @@
-Phyllachora bersamae Lingelsh., 1907 SPECIES
-=======
+# Phyllachora bersamae Lingelsh., 1907 SPECIES
 
 #### Status
 DOUBTFUL

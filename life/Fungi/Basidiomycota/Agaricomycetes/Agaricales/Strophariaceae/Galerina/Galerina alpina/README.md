@@ -1,5 +1,4 @@
-Galerina alpina (E. Horak) E. Horak & Watling SPECIES
-=======
+# Galerina alpina (E. Horak) E. Horak & Watling SPECIES
 
 #### Status
 ACCEPTED

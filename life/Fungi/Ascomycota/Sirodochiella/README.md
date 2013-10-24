@@ -1,5 +1,4 @@
-Sirodochiella Höhn. GENUS
-=======
+# Sirodochiella Höhn. GENUS
 
 #### Status
 ACCEPTED

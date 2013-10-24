@@ -1,5 +1,4 @@
-Porina flavopapillata Rain. Schub. & Lücking SPECIES
-=======
+# Porina flavopapillata Rain. Schub. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aulographella epilobii (Lib.) Höhn., 1917 SPECIES
-=======
+# Morenoina epilobii (Lib.) E. Müll. & Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 15(5): 367 (1917)
+Beitr. Kryptfl. Schweiz 11(no. 2): 130 (1962)
 
 #### Original name
 Aulographum epilobii Lib., 1834

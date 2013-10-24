@@ -1,5 +1,4 @@
-Myxosporium rhois (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Myxosporium rhois (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

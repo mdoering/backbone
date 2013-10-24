@@ -1,5 +1,4 @@
-Pertusaria rugulosa Vain. SPECIES
-=======
+# Pertusaria rugulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

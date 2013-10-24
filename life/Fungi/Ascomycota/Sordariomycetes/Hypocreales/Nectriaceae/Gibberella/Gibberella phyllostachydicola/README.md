@@ -1,5 +1,4 @@
-Gibberella phyllostachydicola S. Yamam. SPECIES
-=======
+# Gibberella phyllostachydicola S. Yamam. SPECIES
 
 #### Status
 ACCEPTED

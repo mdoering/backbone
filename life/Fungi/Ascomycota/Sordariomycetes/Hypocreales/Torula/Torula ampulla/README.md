@@ -1,5 +1,4 @@
-Torula ampulla F.C. Harrison SPECIES
-=======
+# Torula ampulla F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea urotheca Müll. Arg. SPECIES
-=======
+# Lecidea urotheca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

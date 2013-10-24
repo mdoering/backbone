@@ -1,5 +1,4 @@
-Cercospora bruceae Petch SPECIES
-=======
+# Cercospora bruceae Petch SPECIES
 
 #### Status
 ACCEPTED

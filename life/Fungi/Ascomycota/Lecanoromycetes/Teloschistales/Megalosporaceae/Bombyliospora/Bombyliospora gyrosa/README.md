@@ -1,5 +1,4 @@
-Bombyliospora gyrosa (Spreng.) A. Massal. SPECIES
-=======
+# Bombyliospora gyrosa (Spreng.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

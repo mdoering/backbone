@@ -1,5 +1,4 @@
-Cortinarius fraudulosoconnatus Rob. Henry SPECIES
-=======
+# Cortinarius fraudulosoconnatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

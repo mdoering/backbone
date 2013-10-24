@@ -1,8 +1,7 @@
-Buellia depressa Vain. SPECIES
-=======
+# Rinodina huillensis Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Rinodina huillensis Vain.
 
 ### Remarks
 null

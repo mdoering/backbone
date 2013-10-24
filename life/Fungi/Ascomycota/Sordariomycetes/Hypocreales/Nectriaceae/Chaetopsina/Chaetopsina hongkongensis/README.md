@@ -1,5 +1,4 @@
-Chaetopsina hongkongensis Goh & K.D. Hyde SPECIES
-=======
+# Chaetopsina hongkongensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

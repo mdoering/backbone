@@ -1,5 +1,4 @@
-Arthoniomycetes O.E. Erikss. & Winka CLASS
-=======
+# Arthoniomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

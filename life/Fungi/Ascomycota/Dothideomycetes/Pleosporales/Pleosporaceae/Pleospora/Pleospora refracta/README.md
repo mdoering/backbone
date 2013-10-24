@@ -1,5 +1,4 @@
-Pleospora refracta (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Pleospora refracta (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

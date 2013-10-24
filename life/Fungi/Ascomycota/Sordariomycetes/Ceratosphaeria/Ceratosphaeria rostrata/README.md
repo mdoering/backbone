@@ -1,5 +1,4 @@
-Ceratosphaeria rostrata (J. Kickx f.) Sacc. SPECIES
-=======
+# Ceratosphaeria rostrata (J. Kickx f.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

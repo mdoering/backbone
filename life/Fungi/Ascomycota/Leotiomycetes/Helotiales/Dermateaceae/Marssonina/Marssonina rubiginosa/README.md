@@ -1,5 +1,4 @@
-Marssonina rubiginosa (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina rubiginosa (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

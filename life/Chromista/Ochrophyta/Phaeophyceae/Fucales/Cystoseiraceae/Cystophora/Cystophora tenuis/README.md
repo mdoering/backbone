@@ -1,5 +1,4 @@
-Cystophora tenuis Womersley SPECIES
-=======
+# Cystophora tenuis Womersley SPECIES
 
 #### Status
 ACCEPTED

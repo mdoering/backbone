@@ -1,5 +1,4 @@
-Phyllosticta carpathica Allesch. SPECIES
-=======
+# Phyllosticta carpathica Allesch. SPECIES
 
 #### Status
 ACCEPTED

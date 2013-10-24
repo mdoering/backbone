@@ -1,5 +1,4 @@
-Pseudoacrodictys appendiculata (M.B. Ellis) W.A. Baker & Morgan-Jones SPECIES
-=======
+# Pseudoacrodictys appendiculata (M.B. Ellis) W.A. Baker & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

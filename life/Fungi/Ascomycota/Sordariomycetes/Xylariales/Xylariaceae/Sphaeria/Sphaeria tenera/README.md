@@ -1,5 +1,4 @@
-Sphaeria tenera Ellis SPECIES
-=======
+# Sphaeria tenera Ellis SPECIES
 
 #### Status
 ACCEPTED

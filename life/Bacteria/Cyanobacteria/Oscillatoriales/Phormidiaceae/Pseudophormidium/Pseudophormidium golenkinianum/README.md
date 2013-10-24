@@ -1,5 +1,4 @@
-Pseudophormidium golenkinianum (Gomont) Anagnostidis, 2001 SPECIES
-=======
+# Pseudophormidium golenkinianum (Gomont) Anagnostidis, 2001 SPECIES
 
 #### Status
 ACCEPTED

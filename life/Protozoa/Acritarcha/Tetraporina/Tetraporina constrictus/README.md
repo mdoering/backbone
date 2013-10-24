@@ -1,5 +1,4 @@
-Tetraporina constrictus Teteryuk, 1956 SPECIES
-=======
+# Tetraporina constrictus Teteryuk, 1956 SPECIES
 
 #### Status
 ACCEPTED

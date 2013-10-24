@@ -1,17 +1,16 @@
-Collodendrum Clem. GENUS
-=======
+# Tremellodendron G.F. Atk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 104 (1909)
+J. Mycol. 8: 106 (1902)
 
 #### Original name
-Collodendrum Clem.
+Tremellodendron G.F. Atk.
 
 ### Remarks
 null

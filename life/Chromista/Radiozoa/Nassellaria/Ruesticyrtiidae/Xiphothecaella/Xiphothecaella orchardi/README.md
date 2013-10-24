@@ -1,5 +1,4 @@
-Xiphothecaella orchardi SPECIES
-=======
+# Xiphothecaella orchardi SPECIES
 
 #### Status
 ACCEPTED

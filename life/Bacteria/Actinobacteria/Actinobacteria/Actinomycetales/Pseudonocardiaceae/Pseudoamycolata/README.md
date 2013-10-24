@@ -1,5 +1,4 @@
-Pseudoamycolata Akimov et al., 1989 GENUS
-=======
+# Pseudoamycolata Akimov et al., 1989 GENUS
 
 #### Status
 ACCEPTED

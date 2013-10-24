@@ -1,5 +1,4 @@
-Poria hirsuta Rick SPECIES
-=======
+# Poria hirsuta Rick SPECIES
 
 #### Status
 ACCEPTED

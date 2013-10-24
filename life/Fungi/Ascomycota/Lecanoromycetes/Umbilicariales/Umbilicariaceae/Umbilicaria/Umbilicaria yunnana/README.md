@@ -1,5 +1,4 @@
-Umbilicaria yunnana (Nyl.) Hue SPECIES
-=======
+# Umbilicaria yunnana (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

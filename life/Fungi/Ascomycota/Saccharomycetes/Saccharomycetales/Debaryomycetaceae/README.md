@@ -1,5 +1,4 @@
-Debaryomycetaceae FAMILY
-=======
+# Debaryomycetaceae FAMILY
 
 #### Status
 ACCEPTED

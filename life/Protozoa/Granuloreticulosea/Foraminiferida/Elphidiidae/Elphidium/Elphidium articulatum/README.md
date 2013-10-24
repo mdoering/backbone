@@ -1,11 +1,10 @@
-Elphidium articulatum var. multicameratum Collins, 1974 VARIETY
-=======
+# Elphidium articulatum (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

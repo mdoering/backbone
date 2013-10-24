@@ -1,5 +1,4 @@
-Lecidea aeniformis (Anzi) Jatta SPECIES
-=======
+# Lecidea aeniformis (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

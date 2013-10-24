@@ -1,5 +1,4 @@
-Glaziella aurantiaca (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Glaziella aurantiaca (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

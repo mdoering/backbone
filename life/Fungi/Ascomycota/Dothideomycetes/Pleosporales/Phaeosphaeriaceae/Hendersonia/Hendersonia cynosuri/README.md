@@ -1,5 +1,4 @@
-Hendersonia cynosuri Petr., 1925 SPECIES
-=======
+# Hendersonia cynosuri Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

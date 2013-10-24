@@ -1,5 +1,4 @@
-Irene ugandensis Hansf. SPECIES
-=======
+# Irene ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

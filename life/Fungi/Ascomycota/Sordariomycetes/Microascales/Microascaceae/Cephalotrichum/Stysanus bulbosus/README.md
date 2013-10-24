@@ -1,5 +1,4 @@
-Stysanus bulbosus Sorokin SPECIES
-=======
+# Stysanus bulbosus Sorokin SPECIES
 
 #### Status
 ACCEPTED

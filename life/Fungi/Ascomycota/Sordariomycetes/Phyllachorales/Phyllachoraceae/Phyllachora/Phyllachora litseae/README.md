@@ -1,5 +1,4 @@
-Phyllachora litseae Koord., 1907 SPECIES
-=======
+# Phyllachora litseae Koord., 1907 SPECIES
 
 #### Status
 ACCEPTED

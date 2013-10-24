@@ -1,5 +1,4 @@
-Humaria phaeoloma (Wallr.) Hazsl. SPECIES
-=======
+# Humaria phaeoloma (Wallr.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria coniformis (Fuckel) Sacc. SPECIES
-=======
+# Metasphaeria coniformis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

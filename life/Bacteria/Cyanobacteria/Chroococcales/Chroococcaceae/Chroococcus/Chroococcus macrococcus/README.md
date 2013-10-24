@@ -1,5 +1,4 @@
-Chroococcus macrococcus var. salinarum Hansgirg VARIETY
-=======
+# Chroococcus macrococcus (Kützing) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictosphaeridium podolense Timofeev, 1962 ex Fensome et al., 1990 SPECIES
-=======
+# Stictosphaeridium podolense Timofeev, 1962 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

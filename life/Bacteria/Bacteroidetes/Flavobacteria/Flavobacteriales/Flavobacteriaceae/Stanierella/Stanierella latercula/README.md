@@ -1,8 +1,7 @@
-Cytophaga latercula Lewin, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Stanierella latercula Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

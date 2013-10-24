@@ -1,5 +1,4 @@
-Asteromella thermopsidis (Thüm.) Aa SPECIES
-=======
+# Asteromella thermopsidis (Thüm.) Aa SPECIES
 
 #### Status
 ACCEPTED

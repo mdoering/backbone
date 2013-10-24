@@ -1,5 +1,4 @@
-Boletus variipes Peck SPECIES
-=======
+# Boletus variipes Peck SPECIES
 
 #### Status
 ACCEPTED

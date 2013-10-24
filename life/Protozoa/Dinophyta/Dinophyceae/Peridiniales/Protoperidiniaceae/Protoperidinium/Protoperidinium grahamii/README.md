@@ -1,8 +1,7 @@
-Protoperidinium truncatum Graham, 1942 SPECIES
-=======
+# Protoperidinium grahamii (Sournia, 1973) Balech, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

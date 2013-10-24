@@ -1,5 +1,4 @@
-Merulius crassus Spreng. SPECIES
-=======
+# Merulius crassus Spreng. SPECIES
 
 #### Status
 ACCEPTED

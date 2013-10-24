@@ -1,17 +1,16 @@
-Agaricus romagnesii var. romagnesii Wasser VARIETY
-=======
+# Agaricus bresadolanus Bohus, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ukr. bot. Zh. 34: 305 (1977)
+Annls hist. -nat. Mus. natn. hung. 61: 154 (1969)
 
 #### Original name
-Agaricus romagnesii var. romagnesii Wasser
+Agaricus bresadolanus Bohus, 1969
 
 ### Remarks
 null

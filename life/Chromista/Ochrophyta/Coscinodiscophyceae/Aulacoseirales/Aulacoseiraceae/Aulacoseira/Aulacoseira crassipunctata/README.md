@@ -1,5 +1,4 @@
-Aulacoseira crassipunctata Krammer SPECIES
-=======
+# Aulacoseira crassipunctata Krammer SPECIES
 
 #### Status
 ACCEPTED

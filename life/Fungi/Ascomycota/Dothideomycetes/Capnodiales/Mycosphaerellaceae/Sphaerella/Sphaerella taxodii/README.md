@@ -1,5 +1,4 @@
-Sphaerella taxodii Cooke SPECIES
-=======
+# Sphaerella taxodii Cooke SPECIES
 
 #### Status
 ACCEPTED

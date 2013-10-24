@@ -1,8 +1,7 @@
-Diplotomma triphragmoides (Anzi) Szatala SPECIES
-=======
+# Diplotomma triphragmioides (Anzi) Szatala SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Iodamoeba buetschlii (Prowazek, 1912) SPECIES
-=======
+# Iodamoeba buetschlii (Prowazek, 1912) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemiaulus pacificus (P.A. Sims) A.M. Gombos & P.F. Ciesielski SPECIES
-=======
+# Hemiaulus pacificus (P.A. Sims) A.M. Gombos & P.F. Ciesielski SPECIES
 
 #### Status
 ACCEPTED

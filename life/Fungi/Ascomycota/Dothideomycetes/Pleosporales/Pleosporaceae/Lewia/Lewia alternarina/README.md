@@ -1,5 +1,4 @@
-Lewia alternarina (M.D. Whitehead & J.G. Dicks.) E.G. Simmons, 2007 SPECIES
-=======
+# Lewia alternarina (M.D. Whitehead & J.G. Dicks.) E.G. Simmons, 2007 SPECIES
 
 #### Status
 ACCEPTED

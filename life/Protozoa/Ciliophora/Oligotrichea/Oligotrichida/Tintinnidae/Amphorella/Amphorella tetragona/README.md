@@ -1,5 +1,4 @@
-Amphorella tetragona SPECIES
-=======
+# Amphorella tetragona SPECIES
 
 #### Status
 ACCEPTED

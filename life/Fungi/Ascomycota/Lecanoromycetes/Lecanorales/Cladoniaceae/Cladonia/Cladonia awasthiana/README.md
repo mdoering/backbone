@@ -1,5 +1,4 @@
-Cladonia awasthiana Ahti & Upreti SPECIES
-=======
+# Cladonia awasthiana Ahti & Upreti SPECIES
 
 #### Status
 ACCEPTED

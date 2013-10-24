@@ -1,5 +1,4 @@
-Usnea himalayana f. himalayana G. Awasthi FORM
-=======
+# Usnea himalayana G. Awasthi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea himalayana f. himalayana G. Awasthi
+Usnea himalayana G. Awasthi
 
 ### Remarks
 null

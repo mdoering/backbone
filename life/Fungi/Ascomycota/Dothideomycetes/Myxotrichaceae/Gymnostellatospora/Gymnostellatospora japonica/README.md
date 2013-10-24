@@ -1,5 +1,4 @@
-Gymnostellatospora japonica Udagawa, Uchiy. & Kamiya, 1993 SPECIES
-=======
+# Gymnostellatospora japonica Udagawa, Uchiy. & Kamiya, 1993 SPECIES
 
 #### Status
 ACCEPTED

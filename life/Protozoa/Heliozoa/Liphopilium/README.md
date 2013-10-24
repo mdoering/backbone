@@ -1,5 +1,4 @@
-Liphopilium GENUS
-=======
+# Liphopilium GENUS
 
 #### Status
 ACCEPTED

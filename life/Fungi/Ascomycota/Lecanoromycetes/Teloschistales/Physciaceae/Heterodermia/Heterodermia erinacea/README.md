@@ -1,5 +1,4 @@
-Heterodermia erinacea (Ach.) W. A. Weber SPECIES
-=======
+# Heterodermia erinacea (Ach.) W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

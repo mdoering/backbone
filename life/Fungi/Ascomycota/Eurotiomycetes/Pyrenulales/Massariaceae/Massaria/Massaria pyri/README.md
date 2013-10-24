@@ -1,5 +1,4 @@
-Massaria pyri G.H. Otth SPECIES
-=======
+# Massaria pyri G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

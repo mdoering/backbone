@@ -1,5 +1,4 @@
-Clavariadelphus caespitosus Methven, 1989 SPECIES
-=======
+# Clavariadelphus caespitosus Methven, 1989 SPECIES
 
 #### Status
 ACCEPTED

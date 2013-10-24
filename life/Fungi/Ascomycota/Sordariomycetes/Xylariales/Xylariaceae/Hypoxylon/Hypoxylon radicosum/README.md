@@ -1,5 +1,4 @@
-Hypoxylon radicosum (Bull.) Mérat SPECIES
-=======
+# Hypoxylon radicosum (Bull.) Mérat SPECIES
 
 #### Status
 ACCEPTED

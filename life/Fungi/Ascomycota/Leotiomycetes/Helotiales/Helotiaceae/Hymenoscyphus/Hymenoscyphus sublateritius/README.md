@@ -1,14 +1,13 @@
-Helotium sublateritium Berk. & Broome, 1875 SPECIES
-=======
+# Hymenoscyphus sublateritius (Berk. & Broome) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 15: (1875)
+Persoonia 3(1): 75 (1964)
 
 #### Original name
 Helotium sublateritium Berk. & Broome, 1875

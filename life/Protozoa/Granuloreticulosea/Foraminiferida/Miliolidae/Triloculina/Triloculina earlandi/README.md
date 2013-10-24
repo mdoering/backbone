@@ -1,5 +1,4 @@
-Triloculina earlandi Cushman, 1954 SPECIES
-=======
+# Triloculina earlandi Cushman, 1954 SPECIES
 
 #### Status
 ACCEPTED

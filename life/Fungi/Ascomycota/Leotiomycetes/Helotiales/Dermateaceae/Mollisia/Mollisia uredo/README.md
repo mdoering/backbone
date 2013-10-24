@@ -1,5 +1,4 @@
-Mollisia uredo Rehm SPECIES
-=======
+# Mollisia uredo Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaeria cupressina Rehm SPECIES
-=======
+# Trichosphaeria cupressina Rehm SPECIES
 
 #### Status
 ACCEPTED

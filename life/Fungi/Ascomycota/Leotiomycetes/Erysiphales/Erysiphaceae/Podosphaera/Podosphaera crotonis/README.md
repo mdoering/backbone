@@ -1,5 +1,4 @@
-Podosphaera crotonis (Ponnappa) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera crotonis (Ponnappa) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

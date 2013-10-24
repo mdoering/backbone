@@ -1,8 +1,7 @@
-Tintinnus ventricosus Claparède & Lachmann, 1858 SPECIES
-=======
+# Stenosemella ventricosa (Claparède & Lachmann, 1858) Jörgensen, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

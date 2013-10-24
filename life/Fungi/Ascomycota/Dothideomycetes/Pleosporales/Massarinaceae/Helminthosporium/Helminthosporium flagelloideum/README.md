@@ -1,5 +1,4 @@
-Helminthosporium flagelloideum G.F. Atk. SPECIES
-=======
+# Helminthosporium flagelloideum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

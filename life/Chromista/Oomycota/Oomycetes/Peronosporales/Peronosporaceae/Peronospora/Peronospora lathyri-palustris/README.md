@@ -1,5 +1,4 @@
-Peronospora lathyri-palustris Gäum. SPECIES
-=======
+# Peronospora lathyri-palustris Gäum. SPECIES
 
 #### Status
 ACCEPTED

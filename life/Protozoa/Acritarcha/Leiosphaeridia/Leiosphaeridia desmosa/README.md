@@ -1,5 +1,4 @@
-Leiosphaeridia desmosa Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Leiosphaeridia desmosa Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

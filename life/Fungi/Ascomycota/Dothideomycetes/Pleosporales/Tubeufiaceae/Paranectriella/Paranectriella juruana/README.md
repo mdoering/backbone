@@ -1,14 +1,13 @@
-Paranectria juruana Henn., 1904 SPECIES
-=======
+# Paranectriella juruana (Henn.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 245 (1904)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 899 (1910)
 
 #### Original name
 Paranectria juruana Henn., 1904

@@ -1,5 +1,4 @@
-Rhachomyces orientalis Thaxt. SPECIES
-=======
+# Rhachomyces orientalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

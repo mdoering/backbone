@@ -1,5 +1,4 @@
-Trichophyton papilliosum Lebasque SPECIES
-=======
+# Trichophyton papilliosum Lebasque SPECIES
 
 #### Status
 ACCEPTED

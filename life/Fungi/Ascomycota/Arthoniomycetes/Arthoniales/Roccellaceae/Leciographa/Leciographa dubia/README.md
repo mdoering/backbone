@@ -1,5 +1,4 @@
-Leciographa dubia Rehm SPECIES
-=======
+# Leciographa dubia Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phaeociliospora Bat. & Peres GENUS
-=======
+# Ciliochorella Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 5: 152 (1967)
+in Sydow & Mitter, Annls mycol. 33: 62 (1935)
 
 #### Original name
-Phaeociliospora Bat. & Peres
+Ciliochorella Syd.
 
 ### Remarks
 null

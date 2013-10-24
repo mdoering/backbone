@@ -1,5 +1,4 @@
-Physcia candelaris Nyl. SPECIES
-=======
+# Physcia candelaris Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bronnimannia Bermudez, 1952 GENUS
-=======
+# Bronnimannia Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

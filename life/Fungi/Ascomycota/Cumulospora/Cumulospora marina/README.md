@@ -1,5 +1,4 @@
-Cumulospora marina I. Schmidt, 1985 SPECIES
-=======
+# Cumulospora marina I. Schmidt, 1985 SPECIES
 
 #### Status
 ACCEPTED

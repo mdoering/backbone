@@ -1,5 +1,4 @@
-Ascochyta smilacigena Bubák & Dearn. SPECIES
-=======
+# Ascochyta smilacigena Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

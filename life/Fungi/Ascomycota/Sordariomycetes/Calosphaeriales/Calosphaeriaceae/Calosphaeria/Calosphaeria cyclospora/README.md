@@ -1,14 +1,13 @@
-Ceratostomella cyclospora Kirschst., 1906 SPECIES
-=======
+# Calosphaeria cyclospora (Kirschst.) Petr., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 48: 52 (1906)
+Annls mycol. 22(1/2): 74 (1924)
 
 #### Original name
 Ceratostomella cyclospora Kirschst., 1906

@@ -1,14 +1,13 @@
-Byssonectria terrestris (Alb. & Schwein.) Pfister, 1994 SPECIES
-=======
+# Thelebolus terrestris Alb. & Schwein., 1805 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 85(6): 953 (1994)
+Consp. fung. (Leipzig) 71 (1805)
 
 #### Original name
 Thelebolus terrestris Alb. & Schwein., 1805

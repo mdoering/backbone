@@ -1,5 +1,4 @@
-Gilmaniella humicola G.L. Barron, 1964 SPECIES
-=======
+# Gilmaniella humicola G.L. Barron, 1964 SPECIES
 
 #### Status
 ACCEPTED

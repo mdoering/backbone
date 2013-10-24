@@ -1,5 +1,4 @@
-Uromyces komarowii Bubák SPECIES
-=======
+# Uromyces komarowii Bubák SPECIES
 
 #### Status
 ACCEPTED

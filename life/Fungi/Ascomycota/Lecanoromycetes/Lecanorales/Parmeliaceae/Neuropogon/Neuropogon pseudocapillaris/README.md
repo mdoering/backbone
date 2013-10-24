@@ -1,5 +1,4 @@
-Neuropogon pseudocapillaris (F.J. Walker) D.J. Galloway SPECIES
-=======
+# Neuropogon pseudocapillaris (F.J. Walker) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

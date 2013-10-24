@@ -1,5 +1,4 @@
-Anatolinites Elsik, V.S. Ediger & Bati GENUS
-=======
+# Anatolinites Elsik, V.S. Ediger & Bati GENUS
 
 #### Status
 ACCEPTED

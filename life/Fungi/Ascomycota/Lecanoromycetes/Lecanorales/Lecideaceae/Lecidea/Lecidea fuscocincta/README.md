@@ -1,5 +1,4 @@
-Lecidea fuscocincta Stirt. SPECIES
-=======
+# Lecidea fuscocincta Stirt. SPECIES
 
 #### Status
 ACCEPTED

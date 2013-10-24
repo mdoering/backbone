@@ -1,5 +1,4 @@
-Pyrenula kermesina R.C. Harris SPECIES
-=======
+# Pyrenula kermesina R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

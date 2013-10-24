@@ -1,5 +1,4 @@
-Graphium glaucum Preuss SPECIES
-=======
+# Graphium glaucum Preuss SPECIES
 
 #### Status
 ACCEPTED

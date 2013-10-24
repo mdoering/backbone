@@ -1,5 +1,4 @@
-Astrothelium ochrocleistum Nyl. SPECIES
-=======
+# Astrothelium ochrocleistum Nyl. SPECIES
 
 #### Status
 ACCEPTED

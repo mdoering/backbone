@@ -1,5 +1,4 @@
-Pyrenophora rayssiae Sandu SPECIES
-=======
+# Pyrenophora rayssiae Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta saxifragae Brunaud SPECIES
-=======
+# Phyllosticta saxifragae Brunaud SPECIES
 
 #### Status
 ACCEPTED

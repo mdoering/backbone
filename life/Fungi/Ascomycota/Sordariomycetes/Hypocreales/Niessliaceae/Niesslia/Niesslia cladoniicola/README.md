@@ -1,5 +1,4 @@
-Niesslia cladoniicola D. Hawksw. & W. Gams, 1975 SPECIES
-=======
+# Niesslia cladoniicola D. Hawksw. & W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

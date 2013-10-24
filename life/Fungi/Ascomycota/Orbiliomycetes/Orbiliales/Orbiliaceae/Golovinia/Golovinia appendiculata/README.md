@@ -1,5 +1,4 @@
-Golovinia appendiculata Mekht. SPECIES
-=======
+# Golovinia appendiculata Mekht. SPECIES
 
 #### Status
 ACCEPTED

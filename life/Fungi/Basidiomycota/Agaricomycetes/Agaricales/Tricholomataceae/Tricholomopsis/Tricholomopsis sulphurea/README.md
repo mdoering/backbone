@@ -1,5 +1,4 @@
-Tricholomopsis sulphurea (Peck) H.E. Bigelow SPECIES
-=======
+# Tricholomopsis sulphurea (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

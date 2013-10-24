@@ -1,5 +1,4 @@
-Protoperidinium finitimum Balech, 1976 SPECIES
-=======
+# Protoperidinium finitimum Balech, 1976 SPECIES
 
 #### Status
 ACCEPTED

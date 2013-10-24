@@ -1,5 +1,4 @@
-Clathrospora baccata (Ellis) Lar.N. Vassiljeva SPECIES
-=======
+# Clathrospora baccata (Ellis) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

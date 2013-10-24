@@ -1,5 +1,4 @@
-Harposporium microsporale Xing Z. Liu, K.Q. Zhang & R.H. Gao SPECIES
-=======
+# Harposporium microsporale Xing Z. Liu, K.Q. Zhang & R.H. Gao SPECIES
 
 #### Status
 ACCEPTED

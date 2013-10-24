@@ -1,5 +1,4 @@
-Oospora pulvinata (Berk. & M.A. Curtis) Sacc. & Voglino SPECIES
-=======
+# Oospora pulvinata (Berk. & M.A. Curtis) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

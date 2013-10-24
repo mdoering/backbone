@@ -1,8 +1,7 @@
-Verrucaria nucula (Ach.) Nyl., 1858 SPECIES
-=======
+# Porina nucula Ach., 1814 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Hyalopsora japonica Dietel SPECIES
-=======
+# Hyalopsora japonica Dietel SPECIES
 
 #### Status
 ACCEPTED

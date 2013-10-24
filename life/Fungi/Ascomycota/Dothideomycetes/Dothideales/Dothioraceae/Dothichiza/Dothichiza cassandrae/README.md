@@ -1,5 +1,4 @@
-Dothichiza cassandrae Ellis & Everh. SPECIES
-=======
+# Dothichiza cassandrae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

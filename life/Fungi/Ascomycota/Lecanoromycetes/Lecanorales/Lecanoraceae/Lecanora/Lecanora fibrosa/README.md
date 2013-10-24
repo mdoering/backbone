@@ -1,5 +1,4 @@
-Lecanora fibrosa Müll. Arg. SPECIES
-=======
+# Lecanora fibrosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotomentella griseopergamacea M.J. Larsen, 1971 SPECIES
-=======
+# Pseudotomentella griseopergamacea M.J. Larsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

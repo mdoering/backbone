@@ -1,8 +1,7 @@
-Gymnodinium helix Pouchet SPECIES
-=======
+# Cochlodinium helix (Pouchet) Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

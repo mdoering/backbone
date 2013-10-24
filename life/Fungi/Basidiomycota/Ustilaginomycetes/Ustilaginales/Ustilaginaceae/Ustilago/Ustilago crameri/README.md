@@ -1,5 +1,4 @@
-Ustilago crameri Körn., 1874 SPECIES
-=======
+# Ustilago crameri Körn., 1874 SPECIES
 
 #### Status
 ACCEPTED

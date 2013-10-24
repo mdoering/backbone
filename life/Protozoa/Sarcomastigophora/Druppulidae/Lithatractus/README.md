@@ -1,5 +1,4 @@
-Lithatractus Haeckel, 1887 GENUS
-=======
+# Lithatractus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

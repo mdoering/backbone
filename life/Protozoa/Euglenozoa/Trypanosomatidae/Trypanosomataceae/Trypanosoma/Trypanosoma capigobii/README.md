@@ -1,5 +1,4 @@
-Trypanosoma capigobii Fantham, 1919 SPECIES
-=======
+# Trypanosoma capigobii Fantham, 1919 SPECIES
 
 #### Status
 ACCEPTED

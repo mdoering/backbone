@@ -1,5 +1,4 @@
-Nimisiostella lichenicola Calat., Barreno & O.E. Erikss. SPECIES
-=======
+# Nimisiostella lichenicola Calat., Barreno & O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

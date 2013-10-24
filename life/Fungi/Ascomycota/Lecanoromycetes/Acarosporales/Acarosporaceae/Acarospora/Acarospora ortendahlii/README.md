@@ -1,5 +1,4 @@
-Acarospora ortendahlii H. Magn. SPECIES
-=======
+# Acarospora ortendahlii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

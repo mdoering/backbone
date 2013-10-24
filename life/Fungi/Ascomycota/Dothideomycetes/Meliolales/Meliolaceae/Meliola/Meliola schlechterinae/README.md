@@ -1,5 +1,4 @@
-Meliola schlechterinae Mibey SPECIES
-=======
+# Meliola schlechterinae Mibey SPECIES
 
 #### Status
 ACCEPTED

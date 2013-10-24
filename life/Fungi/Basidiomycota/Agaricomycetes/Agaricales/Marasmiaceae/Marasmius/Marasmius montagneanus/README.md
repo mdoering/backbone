@@ -1,5 +1,4 @@
-Marasmius montagneanus Singer SPECIES
-=======
+# Marasmius montagneanus Singer SPECIES
 
 #### Status
 ACCEPTED

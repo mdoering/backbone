@@ -1,5 +1,4 @@
-Poria entelea Sacc. & Trotter SPECIES
-=======
+# Poria entelea Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

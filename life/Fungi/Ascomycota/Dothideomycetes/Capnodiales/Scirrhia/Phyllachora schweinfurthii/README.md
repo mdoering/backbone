@@ -1,5 +1,4 @@
-Phyllachora schweinfurthii Henn., 1891 SPECIES
-=======
+# Phyllachora schweinfurthii Henn., 1891 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,8 +1,7 @@
-Chrysalogonium atlanticum Cushman, 1947 SPECIES
-=======
+# Grigelis atlanticus (Cushman, 1947) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

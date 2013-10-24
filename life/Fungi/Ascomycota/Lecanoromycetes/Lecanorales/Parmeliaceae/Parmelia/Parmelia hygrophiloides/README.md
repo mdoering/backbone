@@ -1,5 +1,4 @@
-Parmelia hygrophiloides Divakar, Upreti & Elix SPECIES
-=======
+# Parmelia hygrophiloides Divakar, Upreti & Elix SPECIES
 
 #### Status
 ACCEPTED

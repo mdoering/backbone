@@ -1,5 +1,4 @@
-Stampfliella tuvalica SPECIES
-=======
+# Stampfliella tuvalica SPECIES
 
 #### Status
 ACCEPTED

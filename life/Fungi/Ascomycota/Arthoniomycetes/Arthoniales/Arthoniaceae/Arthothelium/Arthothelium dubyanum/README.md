@@ -1,5 +1,4 @@
-Arthothelium dubyanum (Rehm) Höhn. SPECIES
-=======
+# Arthothelium dubyanum (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

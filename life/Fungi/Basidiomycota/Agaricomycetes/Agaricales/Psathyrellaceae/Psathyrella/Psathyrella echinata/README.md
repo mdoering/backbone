@@ -1,14 +1,13 @@
-Psilocybe echinata Cleland, 1934 SPECIES
-=======
+# Psathyrella echinata (Cleland) Grgur., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Toadstools and Mushrooms and Other Larger Fungi of South Australia (Adelaide) 143 (1934)
+Larger Fungi of South Australia (Adelaide) 491 (1997)
 
 #### Original name
 Psilocybe echinata Cleland, 1934

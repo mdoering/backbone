@@ -1,5 +1,4 @@
-Septogloeum acerinum (Pass.) Sacc. SPECIES
-=======
+# Septogloeum acerinum (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

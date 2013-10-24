@@ -1,5 +1,4 @@
-Dicellaesporites disphaericus Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites disphaericus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

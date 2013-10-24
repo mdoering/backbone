@@ -1,5 +1,4 @@
-Telamonia alopecura Velen. SPECIES
-=======
+# Telamonia alopecura Velen. SPECIES
 
 #### Status
 ACCEPTED

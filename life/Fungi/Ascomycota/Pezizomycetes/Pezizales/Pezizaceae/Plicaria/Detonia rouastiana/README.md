@@ -1,5 +1,4 @@
-Detonia rouastiana (Boud.) Sacc. & Traverso SPECIES
-=======
+# Detonia rouastiana (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

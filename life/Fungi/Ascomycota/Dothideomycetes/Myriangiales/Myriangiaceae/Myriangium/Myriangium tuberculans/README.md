@@ -1,5 +1,4 @@
-Myriangium tuberculans Miles, 1922 SPECIES
-=======
+# Myriangium tuberculans Miles, 1922 SPECIES
 
 #### Status
 ACCEPTED

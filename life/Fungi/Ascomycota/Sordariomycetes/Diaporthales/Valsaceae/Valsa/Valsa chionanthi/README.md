@@ -1,5 +1,4 @@
-Valsa chionanthi Ellis & Everh. SPECIES
-=======
+# Valsa chionanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

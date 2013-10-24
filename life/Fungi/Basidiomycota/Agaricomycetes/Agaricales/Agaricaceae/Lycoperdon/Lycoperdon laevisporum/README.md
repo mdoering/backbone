@@ -1,5 +1,4 @@
-Lycoperdon laevisporum Velen. SPECIES
-=======
+# Lycoperdon laevisporum Velen. SPECIES
 
 #### Status
 ACCEPTED

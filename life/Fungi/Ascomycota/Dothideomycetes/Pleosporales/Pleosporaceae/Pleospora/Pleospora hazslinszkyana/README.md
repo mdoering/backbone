@@ -1,5 +1,4 @@
-Pleospora hazslinszkyana Sacc. & P. Syd. SPECIES
-=======
+# Pleospora hazslinszkyana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

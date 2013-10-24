@@ -1,5 +1,4 @@
-Fuscoporia nicaraguensis Murrill SPECIES
-=======
+# Fuscoporia nicaraguensis Murrill SPECIES
 
 #### Status
 ACCEPTED

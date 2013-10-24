@@ -1,5 +1,4 @@
-Ascochyta hippocastani Lib. SPECIES
-=======
+# Ascochyta hippocastani Lib. SPECIES
 
 #### Status
 ACCEPTED

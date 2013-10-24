@@ -1,5 +1,4 @@
-Hirneola delicata (Fr.) Bres. SPECIES
-=======
+# Hirneola delicata (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

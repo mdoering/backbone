@@ -1,5 +1,4 @@
-Usnea capilliformis Asahina SPECIES
-=======
+# Usnea capilliformis Asahina SPECIES
 
 #### Status
 ACCEPTED

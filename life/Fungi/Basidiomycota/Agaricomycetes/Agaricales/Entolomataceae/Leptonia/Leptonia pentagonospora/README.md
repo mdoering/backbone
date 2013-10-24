@@ -1,5 +1,4 @@
-Leptonia pentagonospora (G.F. Atk.) R. McNeil & Pomerl. SPECIES
-=======
+# Leptonia pentagonospora (G.F. Atk.) R. McNeil & Pomerl. SPECIES
 
 #### Status
 ACCEPTED

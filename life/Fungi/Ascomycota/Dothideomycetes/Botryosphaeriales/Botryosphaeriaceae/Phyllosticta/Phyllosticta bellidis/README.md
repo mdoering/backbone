@@ -1,5 +1,4 @@
-Phyllosticta bellidis Hollós SPECIES
-=======
+# Phyllosticta bellidis Hollós SPECIES
 
 #### Status
 ACCEPTED

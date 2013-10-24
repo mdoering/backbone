@@ -1,5 +1,4 @@
-Cyclopsiella trematophora (Cookson & Eisenack, 1967) Lentin & Williams, 1977 SPECIES
-=======
+# Cyclopsiella trematophora (Cookson & Eisenack, 1967) Lentin & Williams, 1977 SPECIES
 
 #### Status
 ACCEPTED

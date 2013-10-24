@@ -1,5 +1,4 @@
-Everniastrum halei (W.L. Culb. & C.F. Culb.) Sipman SPECIES
-=======
+# Everniastrum halei (W.L. Culb. & C.F. Culb.) Sipman SPECIES
 
 #### Status
 ACCEPTED

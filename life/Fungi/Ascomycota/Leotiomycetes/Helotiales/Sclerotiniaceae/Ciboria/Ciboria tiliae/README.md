@@ -1,5 +1,4 @@
-Ciboria tiliae (J.M. Reade) N.F. Buchw. SPECIES
-=======
+# Ciboria tiliae (J.M. Reade) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus columbanus Mont. SPECIES
-=======
+# Agaricus columbanus Mont. SPECIES
 
 #### Status
 ACCEPTED

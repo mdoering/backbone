@@ -1,5 +1,4 @@
-Cercospora platanicola Ellis & Everh. SPECIES
-=======
+# Cercospora platanicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

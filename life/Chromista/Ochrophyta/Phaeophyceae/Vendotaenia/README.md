@@ -1,5 +1,4 @@
-Vendotaenia M.B. Gnilovskaja, 1971 GENUS
-=======
+# Vendotaenia M.B. Gnilovskaja, 1971 GENUS
 
 #### Status
 ACCEPTED

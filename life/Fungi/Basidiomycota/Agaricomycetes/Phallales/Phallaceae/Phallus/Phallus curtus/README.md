@@ -1,5 +1,4 @@
-Phallus curtus Berk. SPECIES
-=======
+# Phallus curtus Berk. SPECIES
 
 #### Status
 ACCEPTED

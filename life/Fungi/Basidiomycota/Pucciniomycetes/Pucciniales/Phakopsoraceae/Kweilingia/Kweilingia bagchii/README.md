@@ -1,5 +1,4 @@
-Kweilingia bagchii (Suj. Singh & P.C. Pandey) Buriticá, 1998 SPECIES
-=======
+# Kweilingia bagchii (Suj. Singh & P.C. Pandey) Buriticá, 1998 SPECIES
 
 #### Status
 ACCEPTED

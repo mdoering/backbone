@@ -1,5 +1,4 @@
-Coprinopsis stangliana (Enderle, Bender & Gröger) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis stangliana (Enderle, Bender & Gröger) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

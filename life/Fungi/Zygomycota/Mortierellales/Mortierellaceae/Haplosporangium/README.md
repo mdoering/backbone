@@ -1,5 +1,4 @@
-Haplosporangium Thaxter, 1931 GENUS
-=======
+# Haplosporangium Thaxter, 1931 GENUS
 
 #### Status
 ACCEPTED

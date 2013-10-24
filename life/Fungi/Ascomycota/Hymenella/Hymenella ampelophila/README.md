@@ -1,5 +1,4 @@
-Hymenella ampelophila (Pat.) Höhn. SPECIES
-=======
+# Hymenella ampelophila (Pat.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

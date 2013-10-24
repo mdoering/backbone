@@ -1,5 +1,4 @@
-Parmelia nikkoensis Zahlbr. SPECIES
-=======
+# Parmelia nikkoensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

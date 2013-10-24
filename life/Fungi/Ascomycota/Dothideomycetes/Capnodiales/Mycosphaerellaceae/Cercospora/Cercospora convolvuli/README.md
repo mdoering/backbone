@@ -1,5 +1,4 @@
-Cercospora convolvuli Tracy & Earle SPECIES
-=======
+# Cercospora convolvuli Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

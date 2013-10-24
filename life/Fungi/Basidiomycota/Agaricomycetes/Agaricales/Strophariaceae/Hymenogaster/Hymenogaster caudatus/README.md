@@ -1,5 +1,4 @@
-Hymenogaster caudatus Harkn. SPECIES
-=======
+# Hymenogaster caudatus Harkn. SPECIES
 
 #### Status
 ACCEPTED

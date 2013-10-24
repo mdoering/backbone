@@ -1,5 +1,4 @@
-Acetabula riederi (Weinm.) Sacc. SPECIES
-=======
+# Acetabula riederi (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

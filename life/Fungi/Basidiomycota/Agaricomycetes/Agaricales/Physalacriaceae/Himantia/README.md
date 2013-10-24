@@ -1,5 +1,4 @@
-Himantia GENUS
-=======
+# Himantia GENUS
 
 #### Status
 ACCEPTED

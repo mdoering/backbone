@@ -1,17 +1,16 @@
-Lachnum lanyuensis Y.Z. Wang SPECIES
-=======
+# Lachnum lanyuense Y.Z. Wang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Collection and Research 15: 82 (2002)
 
 #### Original name
-Lachnum lanyuensis Y.Z. Wang
+Lachnum lanyuense Y.Z. Wang
 
 ### Remarks
 null

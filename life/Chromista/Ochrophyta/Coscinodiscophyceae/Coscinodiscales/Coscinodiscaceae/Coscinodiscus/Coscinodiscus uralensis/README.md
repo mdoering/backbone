@@ -1,5 +1,4 @@
-Coscinodiscus uralensis A.P. Jousé SPECIES
-=======
+# Coscinodiscus uralensis A.P. Jousé SPECIES
 
 #### Status
 ACCEPTED

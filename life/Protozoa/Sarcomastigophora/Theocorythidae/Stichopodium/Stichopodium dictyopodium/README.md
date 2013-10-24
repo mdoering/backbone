@@ -1,5 +1,4 @@
-Stichopodium dictyopodium Haeckel SPECIES
-=======
+# Stichopodium dictyopodium Haeckel SPECIES
 
 #### Status
 ACCEPTED

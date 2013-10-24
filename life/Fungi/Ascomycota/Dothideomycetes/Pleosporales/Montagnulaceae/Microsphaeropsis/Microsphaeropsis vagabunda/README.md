@@ -1,5 +1,4 @@
-Microsphaeropsis vagabunda (Sacc.) Höhn. SPECIES
-=======
+# Microsphaeropsis vagabunda (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

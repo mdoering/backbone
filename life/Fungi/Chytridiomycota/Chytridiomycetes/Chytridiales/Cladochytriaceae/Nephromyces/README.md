@@ -1,5 +1,4 @@
-Nephromyces Giard, 1888 GENUS
-=======
+# Nephromyces Giard, 1888 GENUS
 
 #### Status
 ACCEPTED

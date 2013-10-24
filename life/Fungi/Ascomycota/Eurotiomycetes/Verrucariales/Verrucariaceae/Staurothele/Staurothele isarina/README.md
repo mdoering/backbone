@@ -1,5 +1,4 @@
-Staurothele isarina Riehm. SPECIES
-=======
+# Staurothele isarina Riehm. SPECIES
 
 #### Status
 ACCEPTED

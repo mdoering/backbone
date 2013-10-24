@@ -1,5 +1,4 @@
-Caloplaca ehrenbergii (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca ehrenbergii (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

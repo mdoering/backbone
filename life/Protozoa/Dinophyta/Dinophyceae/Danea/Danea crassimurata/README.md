@@ -1,5 +1,4 @@
-Danea crassimurata G. J. Wilson SPECIES
-=======
+# Danea crassimurata G. J. Wilson SPECIES
 
 #### Status
 ACCEPTED

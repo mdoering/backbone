@@ -1,5 +1,4 @@
-Rhizopogon alpestris A.H. Sm. SPECIES
-=======
+# Rhizopogon alpestris A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

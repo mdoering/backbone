@@ -1,5 +1,4 @@
-Placodium tetrasporum (Nyl.) Vain. SPECIES
-=======
+# Placodium tetrasporum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

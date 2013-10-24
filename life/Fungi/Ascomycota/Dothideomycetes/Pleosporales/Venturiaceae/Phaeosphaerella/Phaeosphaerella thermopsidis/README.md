@@ -1,5 +1,4 @@
-Phaeosphaerella thermopsidis (Kalymb.) Tomilin SPECIES
-=======
+# Phaeosphaerella thermopsidis (Kalymb.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia distans (Pers.) Morgan SPECIES
-=======
+# Stropharia distans (Pers.) Morgan SPECIES
 
 #### Status
 ACCEPTED

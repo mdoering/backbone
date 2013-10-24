@@ -1,5 +1,4 @@
-Thalassoascus lessoniae Kohlm., 1981 SPECIES
-=======
+# Thalassoascus lessoniae Kohlm., 1981 SPECIES
 
 #### Status
 ACCEPTED

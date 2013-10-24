@@ -1,5 +1,4 @@
-Porina subcutanea Ach. SPECIES
-=======
+# Porina subcutanea Ach. SPECIES
 
 #### Status
 ACCEPTED

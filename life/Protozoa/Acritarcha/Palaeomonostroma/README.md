@@ -1,5 +1,4 @@
-Palaeomonostroma Eklund, 1990 GENUS
-=======
+# Palaeomonostroma Eklund, 1990 GENUS
 
 #### Status
 ACCEPTED

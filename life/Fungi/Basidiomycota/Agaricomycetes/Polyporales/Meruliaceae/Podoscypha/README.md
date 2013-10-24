@@ -1,5 +1,4 @@
-Podoscypha Patouillard, 1900 GENUS
-=======
+# Podoscypha Patouillard, 1900 GENUS
 
 #### Status
 ACCEPTED

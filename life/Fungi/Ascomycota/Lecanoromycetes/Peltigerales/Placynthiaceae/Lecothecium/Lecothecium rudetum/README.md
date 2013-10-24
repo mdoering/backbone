@@ -1,5 +1,4 @@
-Lecothecium rudetum (Ach.) Blomb. & Forssell SPECIES
-=======
+# Lecothecium rudetum (Ach.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

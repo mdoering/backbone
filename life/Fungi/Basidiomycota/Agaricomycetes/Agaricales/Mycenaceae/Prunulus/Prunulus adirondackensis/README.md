@@ -1,5 +1,4 @@
-Prunulus adirondackensis Murrill SPECIES
-=======
+# Prunulus adirondackensis Murrill SPECIES
 
 #### Status
 ACCEPTED

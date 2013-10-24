@@ -1,17 +1,16 @@
-Helotium cyathoideum var. cyathoideum VARIETY
-=======
+# Crocicreas cyathoideum (Bull.) S.E. Carp., 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Helotium cyathoideum var. cyathoideum
+null
 
 ### Remarks
 null

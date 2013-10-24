@@ -1,17 +1,16 @@
-Pleosphaerulina briosiana var. briosiana VARIETY
-=======
+# Leptosphaerulina trifolii (Rostr.) Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 13: 76 (1959)
 
 #### Original name
-Pleosphaerulina briosiana var. briosiana
+Sphaerulina trifolii Rostr., 1899
 
 ### Remarks
 null

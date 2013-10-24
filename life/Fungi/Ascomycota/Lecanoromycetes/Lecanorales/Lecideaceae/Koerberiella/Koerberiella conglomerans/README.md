@@ -1,5 +1,4 @@
-Koerberiella conglomerans (Nyl.) Motyka SPECIES
-=======
+# Koerberiella conglomerans (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

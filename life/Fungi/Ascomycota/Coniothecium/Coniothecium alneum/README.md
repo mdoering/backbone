@@ -1,5 +1,4 @@
-Coniothecium alneum P. Karst. SPECIES
-=======
+# Coniothecium alneum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

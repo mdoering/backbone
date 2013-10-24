@@ -1,5 +1,4 @@
-Emericella similis Y. Horie, Udagawa, Abdullah & Al-Bader, 1990 SPECIES
-=======
+# Emericella similis Y. Horie, Udagawa, Abdullah & Al-Bader, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria halici Velen. SPECIES
-=======
+# Plicaria halici Velen. SPECIES
 
 #### Status
 ACCEPTED

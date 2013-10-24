@@ -1,5 +1,4 @@
-Camarosporium ribis Briard, 1888 SPECIES
-=======
+# Camarosporium ribis Briard, 1888 SPECIES
 
 #### Status
 ACCEPTED

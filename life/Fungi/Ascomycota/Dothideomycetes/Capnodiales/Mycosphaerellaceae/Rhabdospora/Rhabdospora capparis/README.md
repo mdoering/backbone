@@ -1,17 +1,16 @@
-Rhabdospora capparidis Woron. SPECIES
-=======
+# Rhabdospora capparis Woron. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Izvestiya Kavkaz. Muz. 9: 20 (1915)
 
 #### Original name
-Rhabdospora capparidis Woron.
+Rhabdospora capparis Woron.
 
 ### Remarks
 null

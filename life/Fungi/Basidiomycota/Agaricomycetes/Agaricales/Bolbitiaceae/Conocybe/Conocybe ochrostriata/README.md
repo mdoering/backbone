@@ -1,5 +1,4 @@
-Conocybe ochrostriata var. favrei Hauskn. VARIETY
-=======
+# Conocybe ochrostriata Hauskn. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Öst. Z. Pilzk. 14: 250 (2005)
+Öst. Z. Pilzk. 14: 246 (2005)
 
 #### Original name
-Conocybe ochrostriata var. favrei Hauskn.
+Conocybe ochrostriata Hauskn.
 
 ### Remarks
 null

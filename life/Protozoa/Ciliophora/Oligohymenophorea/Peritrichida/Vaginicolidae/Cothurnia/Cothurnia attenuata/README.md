@@ -1,5 +1,4 @@
-Cothurnia attenuata Fromentel, 1876 SPECIES
-=======
+# Cothurnia attenuata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

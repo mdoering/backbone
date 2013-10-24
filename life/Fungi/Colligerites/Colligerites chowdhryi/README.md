@@ -1,5 +1,4 @@
-Colligerites chowdhryi K.P. Jain & R.K. Kar SPECIES
-=======
+# Colligerites chowdhryi K.P. Jain & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

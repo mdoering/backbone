@@ -1,5 +1,4 @@
-Thuricola Kent, 1881 GENUS
-=======
+# Thuricola Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

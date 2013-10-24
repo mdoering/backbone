@@ -1,5 +1,4 @@
-Patellaria citrella Pers. SPECIES
-=======
+# Patellaria citrella Pers. SPECIES
 
 #### Status
 ACCEPTED

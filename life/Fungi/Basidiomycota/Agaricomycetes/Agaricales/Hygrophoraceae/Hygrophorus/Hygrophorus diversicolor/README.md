@@ -1,5 +1,4 @@
-Hygrophorus diversicolor Petch SPECIES
-=======
+# Hygrophorus diversicolor Petch SPECIES
 
 #### Status
 ACCEPTED

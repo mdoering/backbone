@@ -1,5 +1,4 @@
-Pholiota rhombifolia Herp. SPECIES
-=======
+# Pholiota rhombifolia Herp. SPECIES
 
 #### Status
 ACCEPTED

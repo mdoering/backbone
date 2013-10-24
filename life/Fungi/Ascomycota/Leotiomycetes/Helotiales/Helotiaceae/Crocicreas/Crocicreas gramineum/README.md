@@ -1,17 +1,16 @@
-Cyathicula incertella subsp. incertella SUBSPECIES
-=======
+# Crocicreas gramineum (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. , Addit. Ser. 30(2): 349 (1975)
+Summa veg. Scand. (Stockholm), Section Post. 418 (1849)
 
 #### Original name
-Cyathicula incertella subsp. incertella
+Perisporium gramineum Fr., 1829
 
 ### Remarks
 null

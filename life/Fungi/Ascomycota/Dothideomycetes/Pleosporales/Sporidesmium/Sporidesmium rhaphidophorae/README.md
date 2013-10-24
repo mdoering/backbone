@@ -1,5 +1,4 @@
-Sporidesmium rhaphidophorae K. Zhang & X.G. Zhang SPECIES
-=======
+# Sporidesmium rhaphidophorae K. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

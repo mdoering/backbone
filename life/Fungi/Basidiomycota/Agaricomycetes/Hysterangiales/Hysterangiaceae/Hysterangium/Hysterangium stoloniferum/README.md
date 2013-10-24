@@ -1,17 +1,16 @@
-Hysterangium stoloniferum var. stoloniferum VARIETY
-=======
+# Hysterangium stoloniferum Tul. & C. Tul., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi hypog. 84 (1851)
 
 #### Original name
-Hysterangium stoloniferum var. stoloniferum
+Hysterangium stoloniferum Tul. & C. Tul., 1851
 
 ### Remarks
 null

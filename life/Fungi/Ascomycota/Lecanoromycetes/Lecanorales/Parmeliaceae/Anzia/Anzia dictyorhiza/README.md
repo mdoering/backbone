@@ -1,5 +1,4 @@
-Anzia dictyorhiza (Massee) Yoshim. SPECIES
-=======
+# Anzia dictyorhiza (Massee) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

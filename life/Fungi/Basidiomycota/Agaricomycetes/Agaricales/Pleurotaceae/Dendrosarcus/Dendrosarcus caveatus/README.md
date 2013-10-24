@@ -1,5 +1,4 @@
-Dendrosarcus caveatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus caveatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

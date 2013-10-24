@@ -1,5 +1,4 @@
-Russula subsordida Peck SPECIES
-=======
+# Russula subsordida Peck SPECIES
 
 #### Status
 ACCEPTED

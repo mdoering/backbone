@@ -1,5 +1,4 @@
-Cladia oreophila Kantvilas & Elix SPECIES
-=======
+# Cladia oreophila Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

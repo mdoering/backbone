@@ -1,5 +1,4 @@
-Lithomespilus Haeckel, 1881 GENUS
-=======
+# Lithomespilus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Malustela esculentii Moniz & U.R. Patil SPECIES
-=======
+# Malustela esculenti Moniz & U.R. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Research Journal of the Mahatma Phule agricultural University 6(1): 79 (1975)
 
 #### Original name
-Malustela esculentii Moniz & U.R. Patil
+Malustela esculenti Moniz & U.R. Patil
 
 ### Remarks
 null

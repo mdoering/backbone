@@ -1,5 +1,4 @@
-Sordaria alpina Griffiths SPECIES
-=======
+# Sordaria alpina Griffiths SPECIES
 
 #### Status
 ACCEPTED

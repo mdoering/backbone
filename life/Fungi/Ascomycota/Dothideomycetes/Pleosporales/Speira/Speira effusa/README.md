@@ -1,5 +1,4 @@
-Speira effusa (Peck) Sacc. SPECIES
-=======
+# Speira effusa (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

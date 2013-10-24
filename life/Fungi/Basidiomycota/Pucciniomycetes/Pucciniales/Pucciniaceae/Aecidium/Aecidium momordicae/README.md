@@ -1,5 +1,4 @@
-Aecidium momordicae Juel SPECIES
-=======
+# Aecidium momordicae Juel SPECIES
 
 #### Status
 ACCEPTED

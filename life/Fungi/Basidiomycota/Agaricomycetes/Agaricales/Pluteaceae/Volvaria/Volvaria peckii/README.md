@@ -1,5 +1,4 @@
-Volvaria peckii G.F. Atk. SPECIES
-=======
+# Volvaria peckii G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

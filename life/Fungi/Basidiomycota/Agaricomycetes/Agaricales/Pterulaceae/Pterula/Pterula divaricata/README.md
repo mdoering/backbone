@@ -1,5 +1,4 @@
-Pterula divaricata Lév. SPECIES
-=======
+# Pterula divaricata Lév. SPECIES
 
 #### Status
 ACCEPTED

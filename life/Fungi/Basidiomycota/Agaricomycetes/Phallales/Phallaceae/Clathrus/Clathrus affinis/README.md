@@ -1,5 +1,4 @@
-Clathrus affinis Lloyd SPECIES
-=======
+# Clathrus affinis Lloyd SPECIES
 
 #### Status
 ACCEPTED

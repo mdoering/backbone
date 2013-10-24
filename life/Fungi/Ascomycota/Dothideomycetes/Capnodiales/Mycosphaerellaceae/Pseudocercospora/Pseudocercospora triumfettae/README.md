@@ -1,14 +1,13 @@
-Cercospora triumfettae Syd., 1930 SPECIES
-=======
+# Pseudocercospora triumfettae (Syd.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28(1-2): 218 (1930)
+Mycol. Pap. 140: 122 (1976)
 
 #### Original name
 Cercospora triumfettae Syd., 1930

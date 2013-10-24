@@ -1,8 +1,7 @@
-Torula lipofera Den Dooren, 1926 SPECIES
-=======
+# Lipomyces lipofer (Den Dooren) Lodder & Kreger-van Rij ex Slooff, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

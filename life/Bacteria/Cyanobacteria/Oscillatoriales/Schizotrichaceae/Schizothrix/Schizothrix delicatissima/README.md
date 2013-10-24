@@ -1,5 +1,4 @@
-Schizothrix delicatissima West & G.S. West SPECIES
-=======
+# Schizothrix delicatissima West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

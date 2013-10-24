@@ -1,5 +1,4 @@
-Haploravenelia portoricensis (Arthur) Syd. SPECIES
-=======
+# Haploravenelia portoricensis (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

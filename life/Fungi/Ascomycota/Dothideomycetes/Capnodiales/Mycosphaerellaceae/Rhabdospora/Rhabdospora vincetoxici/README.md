@@ -1,5 +1,4 @@
-Rhabdospora vincetoxici C. Massal. SPECIES
-=======
+# Rhabdospora vincetoxici C. Massal. SPECIES
 
 #### Status
 ACCEPTED

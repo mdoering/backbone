@@ -1,5 +1,4 @@
-Dothidea gibberulosa Fr. SPECIES
-=======
+# Dothidea gibberulosa Fr. SPECIES
 
 #### Status
 ACCEPTED

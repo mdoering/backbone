@@ -1,5 +1,4 @@
-Actinomadura pusilla Nonomura & Ohara, 1971 SPECIES
-=======
+# Actinomadura pusilla Nonomura & Ohara, 1971 SPECIES
 
 #### Status
 ACCEPTED

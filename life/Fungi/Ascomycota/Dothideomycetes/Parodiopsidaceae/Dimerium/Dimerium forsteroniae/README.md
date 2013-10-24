@@ -1,5 +1,4 @@
-Dimerium forsteroniae (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium forsteroniae (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

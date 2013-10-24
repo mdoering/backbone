@@ -1,5 +1,4 @@
-Baeomyces auratus (Mont. & Bosch) Nyl. SPECIES
-=======
+# Baeomyces auratus (Mont. & Bosch) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Tinoporus vesicularis var. sphaeroidalis Carter, 1877 VARIETY
-=======
+# Discogypsina vesicularis (Parker & Jones, 1860) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,14 +1,13 @@
-Agaricus pseudogranulosus Berk. & Broome, 1871 SPECIES
-=======
+# Cystolepiota pseudogranulosa (Berk. & Broome) Pegler, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 501 (1871)
+Kew Bull. , Addit. Ser. 12: 283 (1986)
 
 #### Original name
 Agaricus pseudogranulosus Berk. & Broome, 1871

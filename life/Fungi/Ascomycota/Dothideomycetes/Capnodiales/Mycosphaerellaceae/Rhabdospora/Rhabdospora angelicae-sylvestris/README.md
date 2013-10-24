@@ -1,5 +1,4 @@
-Rhabdospora angelicae-sylvestris Jørst. SPECIES
-=======
+# Rhabdospora angelicae-sylvestris Jørst. SPECIES
 
 #### Status
 ACCEPTED

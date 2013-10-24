@@ -1,5 +1,4 @@
-Pleurotus cardarella (Battara ex Fr.) Quél. SPECIES
-=======
+# Pleurotus cardarella (Battara ex Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

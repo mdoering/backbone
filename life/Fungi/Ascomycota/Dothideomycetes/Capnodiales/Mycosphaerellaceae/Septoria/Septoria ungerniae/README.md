@@ -1,5 +1,4 @@
-Septoria ungerniae N.P. Golovina SPECIES
-=======
+# Septoria ungerniae N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

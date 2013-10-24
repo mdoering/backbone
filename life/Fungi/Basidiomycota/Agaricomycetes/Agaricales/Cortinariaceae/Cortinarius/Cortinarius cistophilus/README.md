@@ -1,5 +1,4 @@
-Cortinarius cistophilus Rob. Henry & Contu SPECIES
-=======
+# Cortinarius cistophilus Rob. Henry & Contu SPECIES
 
 #### Status
 ACCEPTED

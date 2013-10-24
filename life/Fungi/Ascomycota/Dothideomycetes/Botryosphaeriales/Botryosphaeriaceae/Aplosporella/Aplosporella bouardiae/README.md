@@ -1,5 +1,4 @@
-Aplosporella bouardiae Pass. SPECIES
-=======
+# Aplosporella bouardiae Pass. SPECIES
 
 #### Status
 ACCEPTED

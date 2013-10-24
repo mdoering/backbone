@@ -1,14 +1,13 @@
-Leciographa scapanaria (Carrington) A.L. Sm. SPECIES
-=======
+# Dactylospora scapanaria (Carrington) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Monogr. Brit. Lich. 2: 186 (1911)
+Lichenologist 35(3): 205 (2003)
 
 #### Original name
 Lecidea scapanaria Carrington

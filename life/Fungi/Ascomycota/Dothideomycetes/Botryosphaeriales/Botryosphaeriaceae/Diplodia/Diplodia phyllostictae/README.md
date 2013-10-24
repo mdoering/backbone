@@ -1,5 +1,4 @@
-Diplodia phyllostictae Cooke SPECIES
-=======
+# Diplodia phyllostictae Cooke SPECIES
 
 #### Status
 ACCEPTED

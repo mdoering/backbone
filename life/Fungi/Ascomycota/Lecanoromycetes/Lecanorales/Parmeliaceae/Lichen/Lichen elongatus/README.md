@@ -1,5 +1,4 @@
-Lichen elongatus Wulfen SPECIES
-=======
+# Lichen elongatus Wulfen SPECIES
 
 #### Status
 ACCEPTED

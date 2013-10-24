@@ -1,5 +1,4 @@
-Nectria verrucariae Vouaux SPECIES
-=======
+# Nectria verrucariae Vouaux SPECIES
 
 #### Status
 ACCEPTED

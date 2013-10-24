@@ -1,5 +1,4 @@
-Mycena haematochroa Mont. SPECIES
-=======
+# Mycena haematochroa Mont. SPECIES
 
 #### Status
 ACCEPTED

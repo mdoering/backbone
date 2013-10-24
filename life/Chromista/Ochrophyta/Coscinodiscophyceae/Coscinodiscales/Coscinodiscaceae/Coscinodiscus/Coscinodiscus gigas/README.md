@@ -1,5 +1,4 @@
-Coscinodiscus gigas Ehrenb., 1841 SPECIES
-=======
+# Coscinodiscus gigas Ehrenb., 1841 SPECIES
 
 #### Status
 ACCEPTED

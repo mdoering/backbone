@@ -1,5 +1,4 @@
-Challengerilla Haeckel, 1887 GENUS
-=======
+# Challengerilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Bacteroides perfoetens (Tissier, 1905) Hauduroy et al., 1937 SPECIES
-=======
+# Fusobacterium perfoetens (Tissier, 1905) Moore and Holdeman, 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

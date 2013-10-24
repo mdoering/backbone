@@ -1,17 +1,16 @@
-Entoloma lividoalbum f. inodoratum Largent FORM
-=======
+# Entoloma lividoalbum (Kühner & Romagn.) Kubicka, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Entolomatoid fungi of the Western United States and Alaska (Eureka) 334 (1994)
+Ceská Mykol. 29: 27 (1975)
 
 #### Original name
-Entoloma lividoalbum f. inodoratum Largent
+Rhodophyllus lividoalbus Kühner & Romagn., 1954
 
 ### Remarks
 null

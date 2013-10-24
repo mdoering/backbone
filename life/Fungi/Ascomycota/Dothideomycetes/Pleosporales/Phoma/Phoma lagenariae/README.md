@@ -1,5 +1,4 @@
-Phoma lagenariae Thüm. SPECIES
-=======
+# Phoma lagenariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphodontia pilaecystidiata (S. Lundell) J. Erikss. SPECIES
-=======
+# Hyphodontia pilaecystidiata (S. Lundell) J. Erikss. SPECIES
 
 #### Status
 ACCEPTED

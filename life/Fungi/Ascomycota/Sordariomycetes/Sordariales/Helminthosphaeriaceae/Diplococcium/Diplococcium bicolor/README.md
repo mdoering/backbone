@@ -1,5 +1,4 @@
-Diplococcium bicolor Hol.-Jech. SPECIES
-=======
+# Diplococcium bicolor Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

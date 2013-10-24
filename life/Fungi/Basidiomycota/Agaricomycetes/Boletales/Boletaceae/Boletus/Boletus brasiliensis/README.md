@@ -1,5 +1,4 @@
-Boletus brasiliensis Rick SPECIES
-=======
+# Boletus brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

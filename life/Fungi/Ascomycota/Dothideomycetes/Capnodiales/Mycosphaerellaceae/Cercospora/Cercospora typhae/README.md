@@ -1,5 +1,4 @@
-Cercospora typhae N.P. Golovina SPECIES
-=======
+# Cercospora typhae N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

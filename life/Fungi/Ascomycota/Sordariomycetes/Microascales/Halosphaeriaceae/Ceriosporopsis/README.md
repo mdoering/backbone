@@ -1,5 +1,4 @@
-Ceriosporopsis Linder GENUS
-=======
+# Ceriosporopsis Linder GENUS
 
 #### Status
 ACCEPTED

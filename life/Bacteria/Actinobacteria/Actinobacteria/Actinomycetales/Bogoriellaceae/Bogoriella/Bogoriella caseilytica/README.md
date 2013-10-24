@@ -1,5 +1,4 @@
-Bogoriella caseilytica Groth et al., 1997 SPECIES
-=======
+# Bogoriella caseilytica Groth et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

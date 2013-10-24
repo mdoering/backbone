@@ -1,5 +1,4 @@
-Puccinia picridii Magnus SPECIES
-=======
+# Puccinia picridii Magnus SPECIES
 
 #### Status
 ACCEPTED

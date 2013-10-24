@@ -1,5 +1,4 @@
-Cercospora neriicola Ershad SPECIES
-=======
+# Cercospora neriicola Ershad SPECIES
 
 #### Status
 ACCEPTED

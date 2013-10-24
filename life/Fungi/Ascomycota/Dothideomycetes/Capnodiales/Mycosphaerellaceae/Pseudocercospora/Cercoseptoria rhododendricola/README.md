@@ -1,5 +1,4 @@
-Cercoseptoria rhododendricola (J.M. Yen) Deighton SPECIES
-=======
+# Cercoseptoria rhododendricola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

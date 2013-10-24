@@ -1,5 +1,4 @@
-Graphis virens var. virens VARIETY
-=======
+# Graphis virens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis virens var. virens
+Graphis virens Müll. Arg.
 
 ### Remarks
 null

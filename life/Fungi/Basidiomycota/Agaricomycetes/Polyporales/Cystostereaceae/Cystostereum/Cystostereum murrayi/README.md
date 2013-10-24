@@ -1,17 +1,16 @@
-Stereum murrayi f. murrayi (Berk. & M.A. Curtis) Burt FORM
-=======
+# Cystostereum murrayi (Berk. & M.A. Curtis) Pouzar, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 13: 18 (1959)
 
 #### Original name
-Stereum murrayi f. murrayi (Berk. & M.A. Curtis) Burt
+Thelephora murrayi Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

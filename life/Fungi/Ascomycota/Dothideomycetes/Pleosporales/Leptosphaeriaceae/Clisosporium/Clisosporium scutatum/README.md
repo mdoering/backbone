@@ -1,5 +1,4 @@
-Clisosporium scutatum (Preuss) Kuntze SPECIES
-=======
+# Clisosporium scutatum (Preuss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

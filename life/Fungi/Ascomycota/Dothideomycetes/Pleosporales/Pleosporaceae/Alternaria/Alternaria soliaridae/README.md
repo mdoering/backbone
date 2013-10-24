@@ -1,5 +1,4 @@
-Alternaria soliaridae E.G. Simmons SPECIES
-=======
+# Alternaria soliaridae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

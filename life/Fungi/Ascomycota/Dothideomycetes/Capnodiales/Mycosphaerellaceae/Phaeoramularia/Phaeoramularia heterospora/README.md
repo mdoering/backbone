@@ -1,5 +1,4 @@
-Phaeoramularia heterospora (Ellis & Galloway) Deighton SPECIES
-=======
+# Phaeoramularia heterospora (Ellis & Galloway) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nematostigma arachnoideum Petr. SPECIES
-=======
+# Nematostigma arachnoideum Petr. SPECIES
 
 #### Status
 ACCEPTED

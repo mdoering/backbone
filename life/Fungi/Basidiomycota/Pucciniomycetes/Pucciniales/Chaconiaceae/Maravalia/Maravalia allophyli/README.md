@@ -1,5 +1,4 @@
-Maravalia allophyli Berndt & F.O. Freire, 2004 SPECIES
-=======
+# Maravalia allophyli Berndt & F.O. Freire, 2004 SPECIES
 
 #### Status
 ACCEPTED

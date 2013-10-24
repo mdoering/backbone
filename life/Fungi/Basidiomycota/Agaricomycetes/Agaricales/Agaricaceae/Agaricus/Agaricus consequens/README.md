@@ -1,5 +1,4 @@
-Agaricus consequens Britzelm. SPECIES
-=======
+# Agaricus consequens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

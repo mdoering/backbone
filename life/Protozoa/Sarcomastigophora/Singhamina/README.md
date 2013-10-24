@@ -1,5 +1,4 @@
-Singhamina Garg & Singh, 1986 GENUS
-=======
+# Singhamina Garg & Singh, 1986 GENUS
 
 #### Status
 ACCEPTED

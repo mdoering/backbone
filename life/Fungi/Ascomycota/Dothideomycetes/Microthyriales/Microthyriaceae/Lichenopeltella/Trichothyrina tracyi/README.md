@@ -1,5 +1,4 @@
-Trichothyrina tracyi (Peck) M.E. Barr SPECIES
-=======
+# Trichothyrina tracyi (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ducheminii Bon SPECIES
-=======
+# Agaricus ducheminii Bon SPECIES
 
 #### Status
 ACCEPTED

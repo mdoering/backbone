@@ -1,5 +1,4 @@
-Polycephalomyces ovalisporum (A.L. Sm.) Ing SPECIES
-=======
+# Polycephalomyces ovalisporum (A.L. Sm.) Ing SPECIES
 
 #### Status
 ACCEPTED

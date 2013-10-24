@@ -1,5 +1,4 @@
-Phoma turnerae Tassi SPECIES
-=======
+# Phoma turnerae Tassi SPECIES
 
 #### Status
 ACCEPTED

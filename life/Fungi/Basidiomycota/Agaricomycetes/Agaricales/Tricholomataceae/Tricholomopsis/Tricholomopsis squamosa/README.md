@@ -1,5 +1,4 @@
-Tricholomopsis squamosa Thiers SPECIES
-=======
+# Tricholomopsis squamosa Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria extenus Herp. SPECIES
-=======
+# Clavaria extenus Herp. SPECIES
 
 #### Status
 ACCEPTED

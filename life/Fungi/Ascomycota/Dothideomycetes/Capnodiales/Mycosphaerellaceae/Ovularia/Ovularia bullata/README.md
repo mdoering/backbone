@@ -1,5 +1,4 @@
-Ovularia bullata Ellis & Everh. SPECIES
-=======
+# Ovularia bullata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

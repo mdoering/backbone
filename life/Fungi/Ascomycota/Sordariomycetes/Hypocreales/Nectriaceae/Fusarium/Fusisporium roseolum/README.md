@@ -1,14 +1,13 @@
-Fusarium roseolum (Stephens) Sacc., 1886 SPECIES
-=======
+# Fusisporium roseolum Stephens, 1850 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 700 (1886)
+in Berkeley, Ann. Mag. nat. Hist. , Ser. 2 5: no. 549 (1850)
 
 #### Original name
 Fusisporium roseolum Stephens, 1850

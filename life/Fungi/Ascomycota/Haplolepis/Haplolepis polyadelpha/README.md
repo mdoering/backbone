@@ -1,5 +1,4 @@
-Haplolepis polyadelpha Syd., 1925 SPECIES
-=======
+# Haplolepis polyadelpha Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

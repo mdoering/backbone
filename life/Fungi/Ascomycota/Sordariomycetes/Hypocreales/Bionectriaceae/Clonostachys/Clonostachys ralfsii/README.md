@@ -1,5 +1,4 @@
-Clonostachys ralfsii Schroers SPECIES
-=======
+# Clonostachys ralfsii Schroers SPECIES
 
 #### Status
 ACCEPTED

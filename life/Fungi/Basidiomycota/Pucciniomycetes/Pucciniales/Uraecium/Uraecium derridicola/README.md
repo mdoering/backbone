@@ -1,5 +1,4 @@
-Uraecium derridicola Cummins, 1937 SPECIES
-=======
+# Uraecium derridicola Cummins, 1937 SPECIES
 
 #### Status
 ACCEPTED

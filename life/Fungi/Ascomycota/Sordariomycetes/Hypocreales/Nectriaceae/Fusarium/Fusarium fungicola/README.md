@@ -1,5 +1,4 @@
-Fusarium fungicola P. Karst. SPECIES
-=======
+# Fusarium fungicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

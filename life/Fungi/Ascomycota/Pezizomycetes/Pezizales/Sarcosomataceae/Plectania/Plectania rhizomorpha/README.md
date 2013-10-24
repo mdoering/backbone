@@ -1,5 +1,4 @@
-Plectania rhizomorpha (Cooke & Ellis) Sacc. SPECIES
-=======
+# Plectania rhizomorpha (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

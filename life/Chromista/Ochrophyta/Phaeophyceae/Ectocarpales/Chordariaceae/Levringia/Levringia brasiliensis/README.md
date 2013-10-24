@@ -1,8 +1,7 @@
-Mesogloia brasiliensis Montagne SPECIES
-=======
+# Levringia brasiliensis (Montagne) A.B. Joly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

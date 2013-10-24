@@ -1,5 +1,4 @@
-Arthonia efflorescens Räsänen SPECIES
-=======
+# Arthonia efflorescens Räsänen SPECIES
 
 #### Status
 ACCEPTED

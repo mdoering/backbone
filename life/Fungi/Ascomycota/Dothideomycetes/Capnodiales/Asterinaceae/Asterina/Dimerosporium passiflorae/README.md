@@ -1,5 +1,4 @@
-Dimerosporium passiflorae Pat. SPECIES
-=======
+# Dimerosporium passiflorae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon ostracium Bull. SPECIES
-=======
+# Hypoxylon ostracium Bull. SPECIES
 
 #### Status
 ACCEPTED

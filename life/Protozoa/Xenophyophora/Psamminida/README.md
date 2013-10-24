@@ -1,5 +1,4 @@
-Psamminida CLASS
-=======
+# Psamminida CLASS
 
 #### Status
 ACCEPTED

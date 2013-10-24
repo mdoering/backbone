@@ -1,5 +1,4 @@
-Sphaeria calthaecola (DC.) Fr. SPECIES
-=======
+# Sphaeria calthaecola (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Graphis aggregans Nyl. SPECIES
-=======
+# Anomomorpha aggregans (Nyl.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 91 (2002)
 
 #### Original name
-null
+Graphis aggregans Nyl.
 
 ### Remarks
 null

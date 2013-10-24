@@ -1,5 +1,4 @@
-Gigasperma E. Horak GENUS
-=======
+# Gigasperma E. Horak GENUS
 
 #### Status
 ACCEPTED

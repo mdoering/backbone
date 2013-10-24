@@ -1,5 +1,4 @@
-Arthopyrenia ungeri (Flot.) Boistel SPECIES
-=======
+# Arthopyrenia ungeri (Flot.) Boistel SPECIES
 
 #### Status
 ACCEPTED

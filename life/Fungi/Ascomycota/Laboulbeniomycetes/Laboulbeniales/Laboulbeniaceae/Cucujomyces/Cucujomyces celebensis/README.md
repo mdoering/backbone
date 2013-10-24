@@ -1,5 +1,4 @@
-Cucujomyces celebensis W. Rossi & A. Weir, 1996 SPECIES
-=======
+# Cucujomyces celebensis W. Rossi & A. Weir, 1996 SPECIES
 
 #### Status
 ACCEPTED

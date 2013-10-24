@@ -1,5 +1,4 @@
-Telemeniella elaeicola Bat., 1955 SPECIES
-=======
+# Telemeniella elaeicola Bat., 1955 SPECIES
 
 #### Status
 ACCEPTED

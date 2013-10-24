@@ -1,5 +1,4 @@
-Phaeodimeriella appendiculata (Earle) R.E.D. Baker SPECIES
-=======
+# Phaeodimeriella appendiculata (Earle) R.E.D. Baker SPECIES
 
 #### Status
 ACCEPTED

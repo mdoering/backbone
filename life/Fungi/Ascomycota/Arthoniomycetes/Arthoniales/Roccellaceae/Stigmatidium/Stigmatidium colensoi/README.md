@@ -1,5 +1,4 @@
-Stigmatidium colensoi Vain. SPECIES
-=======
+# Stigmatidium colensoi Vain. SPECIES
 
 #### Status
 ACCEPTED

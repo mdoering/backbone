@@ -1,5 +1,4 @@
-Mycovellosiella vitis-ripariae U. Braun SPECIES
-=======
+# Mycovellosiella vitis-ripariae U. Braun SPECIES
 
 #### Status
 ACCEPTED

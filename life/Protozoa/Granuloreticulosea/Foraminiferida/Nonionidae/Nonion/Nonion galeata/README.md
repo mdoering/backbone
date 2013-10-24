@@ -1,5 +1,4 @@
-Nonion galeata Cushman, 1931 SPECIES
-=======
+# Nonion galeata Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

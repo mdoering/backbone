@@ -1,5 +1,4 @@
-Cucurbitaria sambuci (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria sambuci (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

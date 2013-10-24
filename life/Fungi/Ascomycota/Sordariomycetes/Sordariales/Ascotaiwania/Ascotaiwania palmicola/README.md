@@ -1,5 +1,4 @@
-Ascotaiwania palmicola K.D. Hyde, 1995 SPECIES
-=======
+# Ascotaiwania palmicola K.D. Hyde, 1995 SPECIES
 
 #### Status
 ACCEPTED

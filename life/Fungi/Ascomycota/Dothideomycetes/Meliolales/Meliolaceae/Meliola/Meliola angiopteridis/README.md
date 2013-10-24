@@ -1,5 +1,4 @@
-Meliola angiopteridis Hansf. SPECIES
-=======
+# Meliola angiopteridis Hansf. SPECIES
 
 #### Status
 ACCEPTED

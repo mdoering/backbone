@@ -1,5 +1,4 @@
-Karschia laeta K. Gerber SPECIES
-=======
+# Karschia laeta K. Gerber SPECIES
 
 #### Status
 ACCEPTED

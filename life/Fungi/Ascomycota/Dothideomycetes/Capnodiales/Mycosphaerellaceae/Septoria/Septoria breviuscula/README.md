@@ -1,5 +1,4 @@
-Septoria breviuscula Bubák & Dearn. SPECIES
-=======
+# Septoria breviuscula Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

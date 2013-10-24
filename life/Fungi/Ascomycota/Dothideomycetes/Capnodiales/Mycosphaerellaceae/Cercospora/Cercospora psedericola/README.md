@@ -1,5 +1,4 @@
-Cercospora psedericola Tehon SPECIES
-=======
+# Cercospora psedericola Tehon SPECIES
 
 #### Status
 ACCEPTED

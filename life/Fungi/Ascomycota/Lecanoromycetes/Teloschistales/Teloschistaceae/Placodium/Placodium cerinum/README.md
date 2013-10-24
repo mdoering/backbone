@@ -1,5 +1,4 @@
-Placodium cerinum f. cerinum FORM
-=======
+# Placodium cerinum SPECIES
 
 #### Status
 ACCEPTED

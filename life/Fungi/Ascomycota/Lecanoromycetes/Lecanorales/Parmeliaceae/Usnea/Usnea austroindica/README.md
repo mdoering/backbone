@@ -1,5 +1,4 @@
-Usnea austroindica G. Awasthi SPECIES
-=======
+# Usnea austroindica G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

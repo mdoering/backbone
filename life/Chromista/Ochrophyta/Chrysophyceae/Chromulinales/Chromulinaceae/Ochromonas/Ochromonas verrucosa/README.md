@@ -1,5 +1,4 @@
-Ochromonas verrucosa Skuja SPECIES
-=======
+# Ochromonas verrucosa Skuja SPECIES
 
 #### Status
 ACCEPTED

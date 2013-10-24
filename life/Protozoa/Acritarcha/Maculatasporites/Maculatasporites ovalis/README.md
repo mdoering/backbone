@@ -1,5 +1,4 @@
-Maculatasporites ovalis Maithy, 1971 SPECIES
-=======
+# Maculatasporites ovalis Maithy, 1971 SPECIES
 
 #### Status
 ACCEPTED

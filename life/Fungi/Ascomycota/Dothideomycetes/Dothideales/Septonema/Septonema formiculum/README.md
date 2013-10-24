@@ -1,5 +1,4 @@
-Septonema formiculum Dearn. & Barthol. SPECIES
-=======
+# Septonema formiculum Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

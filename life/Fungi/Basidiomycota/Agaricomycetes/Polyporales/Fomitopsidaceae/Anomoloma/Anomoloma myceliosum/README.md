@@ -1,17 +1,16 @@
-Poria perextensa Murrill, 1920 SPECIES
-=======
+# Anomoloma myceliosum (Peck) Niemelä & K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 12(6): 304 (1920)
+in Niemelä, Larsson, Dai & Larsson, Mycotaxon 100: 313 (2007)
 
 #### Original name
-Poria perextensa Murrill, 1920
+Poria myceliosa Peck, 1902
 
 ### Remarks
 null

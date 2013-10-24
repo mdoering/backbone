@@ -1,5 +1,4 @@
-Galerula rufipes (Peck) Murrill SPECIES
-=======
+# Galerula rufipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

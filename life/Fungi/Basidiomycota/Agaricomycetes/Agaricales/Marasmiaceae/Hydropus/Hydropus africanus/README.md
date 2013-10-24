@@ -1,5 +1,4 @@
-Hydropus africanus Singer SPECIES
-=======
+# Hydropus africanus Singer SPECIES
 
 #### Status
 ACCEPTED

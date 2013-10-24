@@ -1,5 +1,4 @@
-Xyloma leptostroma Fr. SPECIES
-=======
+# Xyloma leptostroma Fr. SPECIES
 
 #### Status
 ACCEPTED

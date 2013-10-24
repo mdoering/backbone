@@ -1,5 +1,4 @@
-Euglena excavata Schiller SPECIES
-=======
+# Euglena excavata Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeomurus aristidae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Caeomurus aristidae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

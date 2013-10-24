@@ -1,5 +1,4 @@
-Therrya eucalypti Z.Q. Yuan SPECIES
-=======
+# Therrya eucalypti Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

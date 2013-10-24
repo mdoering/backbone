@@ -1,17 +1,16 @@
-Pila Speg. GENUS
-=======
+# Gastropila Homrich & J.E. Wright GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Chilena Hist. Nat. 25: 77 (1923)
+Mycologia 65(4): 780 (1973)
 
 #### Original name
-Pila Speg.
+Gastropila Homrich & J.E. Wright
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vorticella procerus Nenninger, 1948 SPECIES
-=======
+# Vorticella procerus Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

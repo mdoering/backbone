@@ -1,5 +1,4 @@
-Hygrophorus caeruleus O.K. Mill. SPECIES
-=======
+# Hygrophorus caeruleus O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

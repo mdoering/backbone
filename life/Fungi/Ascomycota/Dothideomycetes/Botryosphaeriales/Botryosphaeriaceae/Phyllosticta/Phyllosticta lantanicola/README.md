@@ -1,5 +1,4 @@
-Phyllosticta lantanicola Stev. SPECIES
-=======
+# Phyllosticta lantanicola Stev. SPECIES
 
 #### Status
 ACCEPTED

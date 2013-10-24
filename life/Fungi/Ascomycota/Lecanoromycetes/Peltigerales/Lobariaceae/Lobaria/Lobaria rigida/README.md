@@ -1,5 +1,4 @@
-Lobaria rigida (Wulfen) Hoffm. SPECIES
-=======
+# Lobaria rigida (Wulfen) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

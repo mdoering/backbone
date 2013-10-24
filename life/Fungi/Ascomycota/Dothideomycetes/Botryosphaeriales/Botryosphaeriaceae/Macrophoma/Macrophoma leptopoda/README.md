@@ -1,5 +1,4 @@
-Macrophoma leptopoda Nann. SPECIES
-=======
+# Macrophoma leptopoda Nann. SPECIES
 
 #### Status
 ACCEPTED

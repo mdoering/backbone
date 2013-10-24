@@ -1,5 +1,4 @@
-Lecidea microspora Nyl. SPECIES
-=======
+# Lecidea microspora Nyl. SPECIES
 
 #### Status
 ACCEPTED

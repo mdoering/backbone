@@ -1,5 +1,4 @@
-Eudimeriolum neolitseae Hansf. SPECIES
-=======
+# Eudimeriolum neolitseae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcangeliella brunneola (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella brunneola (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

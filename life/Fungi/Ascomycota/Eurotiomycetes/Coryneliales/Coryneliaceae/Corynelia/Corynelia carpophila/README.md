@@ -1,5 +1,4 @@
-Corynelia carpophila Syd. SPECIES
-=======
+# Corynelia carpophila Syd. SPECIES
 
 #### Status
 ACCEPTED

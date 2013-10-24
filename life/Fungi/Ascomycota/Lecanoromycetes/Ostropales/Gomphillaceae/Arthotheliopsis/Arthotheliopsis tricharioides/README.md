@@ -1,5 +1,4 @@
-Arthotheliopsis tricharioides (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Arthotheliopsis tricharioides (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hygrotrama tetrasporum Singer SPECIES
-=======
+# Camarophyllopsis tetraspora (Singer) Raithelh., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Metrodiana 19(1): 20 (1992)
 
 #### Original name
-Hygrotrama tetrasporum Singer
+Hygrotrama tetraspora Singer, 1989
 
 ### Remarks
 null

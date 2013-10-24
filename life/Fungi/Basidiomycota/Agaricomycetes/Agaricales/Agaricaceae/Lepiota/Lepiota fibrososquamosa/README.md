@@ -1,5 +1,4 @@
-Lepiota fibrososquamosa Herp. SPECIES
-=======
+# Lepiota fibrososquamosa Herp. SPECIES
 
 #### Status
 ACCEPTED

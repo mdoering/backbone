@@ -1,17 +1,16 @@
-Corycia Reuss, 1862 GENUS
-=======
+# Microcorycia Cockerell, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-S. B. Akad. Wien, Math. -Naturw. Cl. , 44 (1), 363.
+Zool. Anz. , 38, 137.
 
 #### Original name
-null
+Corycia Reuss, 1862
 
 ### Remarks
 null

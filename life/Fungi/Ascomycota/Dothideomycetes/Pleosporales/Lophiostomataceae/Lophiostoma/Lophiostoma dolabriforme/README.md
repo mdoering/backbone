@@ -1,5 +1,4 @@
-Lophiostoma dolabriforme De Not. SPECIES
-=======
+# Lophiostoma dolabriforme De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe magnifica Lar.N. Vassiljeva SPECIES
-=======
+# Diaporthe magnifica Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

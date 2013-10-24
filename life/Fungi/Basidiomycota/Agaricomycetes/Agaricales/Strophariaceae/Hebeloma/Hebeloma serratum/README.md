@@ -1,5 +1,4 @@
-Hebeloma serratum (Cleland) E. Horak SPECIES
-=======
+# Hebeloma serratum (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

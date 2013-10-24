@@ -1,5 +1,4 @@
-Uromyces rhapaneae Henn. SPECIES
-=======
+# Uromyces rhapaneae Henn. SPECIES
 
 #### Status
 ACCEPTED

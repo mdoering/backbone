@@ -1,5 +1,4 @@
-Periconia commonsii Earle SPECIES
-=======
+# Periconia commonsii Earle SPECIES
 
 #### Status
 ACCEPTED

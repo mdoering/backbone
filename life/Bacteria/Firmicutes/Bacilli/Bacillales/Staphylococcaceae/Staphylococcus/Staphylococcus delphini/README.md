@@ -1,5 +1,4 @@
-Staphylococcus delphini Varaldo et al., 1988 SPECIES
-=======
+# Staphylococcus delphini Varaldo et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

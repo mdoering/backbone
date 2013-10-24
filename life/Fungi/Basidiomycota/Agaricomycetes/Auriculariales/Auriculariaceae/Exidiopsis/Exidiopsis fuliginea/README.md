@@ -1,5 +1,4 @@
-Exidiopsis fuliginea Rick SPECIES
-=======
+# Exidiopsis fuliginea Rick SPECIES
 
 #### Status
 ACCEPTED

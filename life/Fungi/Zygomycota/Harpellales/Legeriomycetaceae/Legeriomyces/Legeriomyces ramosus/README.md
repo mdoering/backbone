@@ -1,14 +1,13 @@
-Genistella ramosa. L. Léger & M. Gauthier, 1932 SPECIES
-=======
+# Legeriomyces ramosus. (L. Léger & M. Gauthier) Pouzar, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 194: 2264 (1932)
+Folia geobot. phytotax. 7: 319 (1972)
 
 #### Original name
 Genistella ramosa. L. Léger & M. Gauthier, 1932

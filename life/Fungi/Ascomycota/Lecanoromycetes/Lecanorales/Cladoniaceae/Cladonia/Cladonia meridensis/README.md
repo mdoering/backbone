@@ -1,5 +1,4 @@
-Cladonia meridensis Ahti & S. Stenroos SPECIES
-=======
+# Cladonia meridensis Ahti & S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

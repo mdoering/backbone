@@ -1,5 +1,4 @@
-Leptodothiorella notabilis Petr. & Cif. SPECIES
-=======
+# Leptodothiorella notabilis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

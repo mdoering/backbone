@@ -1,5 +1,4 @@
-Entoloma olivaceostipitatum E. Ludw. & A.-S. Karlsson SPECIES
-=======
+# Entoloma olivaceostipitatum E. Ludw. & A.-S. Karlsson SPECIES
 
 #### Status
 ACCEPTED

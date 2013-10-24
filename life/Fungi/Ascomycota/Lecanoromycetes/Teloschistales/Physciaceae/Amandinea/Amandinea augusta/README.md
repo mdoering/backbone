@@ -1,5 +1,4 @@
-Amandinea augusta (Vain.) Søchting & Øvstedal SPECIES
-=======
+# Amandinea augusta (Vain.) Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis pseudoflava (Saito) Sacc. SPECIES
-=======
+# Sterigmatocystis pseudoflava (Saito) Sacc. SPECIES
 
 #### Status
 ACCEPTED

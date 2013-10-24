@@ -1,5 +1,4 @@
-Dicaeoma hieraciatum Arthur & F. Kern SPECIES
-=======
+# Dicaeoma hieraciatum Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta straminea Fée SPECIES
-=======
+# Sticta straminea Fée SPECIES
 
 #### Status
 ACCEPTED

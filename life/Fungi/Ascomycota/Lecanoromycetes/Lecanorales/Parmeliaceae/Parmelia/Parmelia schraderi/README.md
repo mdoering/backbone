@@ -1,5 +1,4 @@
-Parmelia schraderi Hornem. SPECIES
-=======
+# Parmelia schraderi Hornem. SPECIES
 
 #### Status
 ACCEPTED

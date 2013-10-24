@@ -1,5 +1,4 @@
-Wangiella Nie, 1934 GENUS
-=======
+# Wangiella Nie, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora ubajarensis U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora ubajarensis U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

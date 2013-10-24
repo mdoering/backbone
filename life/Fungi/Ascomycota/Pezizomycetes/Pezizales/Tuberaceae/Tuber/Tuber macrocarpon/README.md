@@ -1,5 +1,4 @@
-Tuber macrocarpon Corda SPECIES
-=======
+# Tuber macrocarpon Corda SPECIES
 
 #### Status
 ACCEPTED

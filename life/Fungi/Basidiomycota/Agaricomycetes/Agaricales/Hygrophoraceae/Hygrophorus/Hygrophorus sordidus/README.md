@@ -1,5 +1,4 @@
-Hygrophorus sordidus Velen. SPECIES
-=======
+# Hygrophorus sordidus Velen. SPECIES
 
 #### Status
 ACCEPTED

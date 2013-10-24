@@ -1,5 +1,4 @@
-Phoma coffaeicida Speg. SPECIES
-=======
+# Phoma coffaeicida Speg. SPECIES
 
 #### Status
 ACCEPTED

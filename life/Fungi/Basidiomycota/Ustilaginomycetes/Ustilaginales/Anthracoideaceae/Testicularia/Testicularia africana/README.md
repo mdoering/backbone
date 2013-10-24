@@ -1,5 +1,4 @@
-Testicularia africana Vánky & Piatek, 2006 SPECIES
-=======
+# Testicularia africana Vánky & Piatek, 2006 SPECIES
 
 #### Status
 ACCEPTED

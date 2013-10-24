@@ -1,5 +1,4 @@
-Ditremis laevigata P.M. McCarthy SPECIES
-=======
+# Ditremis laevigata P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

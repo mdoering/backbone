@@ -1,5 +1,4 @@
-Strumella cucurbitacearum Fr., 1849 SPECIES
-=======
+# Strumella cucurbitacearum Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

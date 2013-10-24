@@ -1,5 +1,4 @@
-Corethromyces calyculatus Thaxt. SPECIES
-=======
+# Corethromyces calyculatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

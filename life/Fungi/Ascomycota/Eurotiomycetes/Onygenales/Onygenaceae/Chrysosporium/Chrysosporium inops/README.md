@@ -1,5 +1,4 @@
-Chrysosporium inops J.W. Carmich., 1962 SPECIES
-=======
+# Chrysosporium inops J.W. Carmich., 1962 SPECIES
 
 #### Status
 ACCEPTED

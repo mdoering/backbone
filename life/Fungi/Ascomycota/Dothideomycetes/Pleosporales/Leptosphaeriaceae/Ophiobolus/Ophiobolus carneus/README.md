@@ -1,5 +1,4 @@
-Ophiobolus carneus Höhn. SPECIES
-=======
+# Ophiobolus carneus Höhn. SPECIES
 
 #### Status
 ACCEPTED

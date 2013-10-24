@@ -1,5 +1,4 @@
-Nitrosomonadales ORDER
-=======
+# Nitrosomonadales ORDER
 
 #### Status
 ACCEPTED

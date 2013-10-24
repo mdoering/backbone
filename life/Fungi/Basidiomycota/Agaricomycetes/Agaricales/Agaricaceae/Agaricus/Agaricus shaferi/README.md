@@ -1,5 +1,4 @@
-Agaricus shaferi Murrill SPECIES
-=======
+# Agaricus shaferi Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces caribbeus Thaxt. SPECIES
-=======
+# Stigmatomyces caribbeus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

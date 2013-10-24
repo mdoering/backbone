@@ -1,5 +1,4 @@
-Leiosphaeridia corrugata (Pykhova, 1973) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia corrugata (Pykhova, 1973) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

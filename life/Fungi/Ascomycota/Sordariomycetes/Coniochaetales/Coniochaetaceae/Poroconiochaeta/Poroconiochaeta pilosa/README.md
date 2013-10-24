@@ -1,5 +1,4 @@
-Poroconiochaeta pilosa Stchigel, Guarro & M. Calduch SPECIES
-=======
+# Poroconiochaeta pilosa Stchigel, Guarro & M. Calduch SPECIES
 
 #### Status
 ACCEPTED

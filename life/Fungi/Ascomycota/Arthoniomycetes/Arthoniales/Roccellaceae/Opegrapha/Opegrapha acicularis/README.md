@@ -1,5 +1,4 @@
-Opegrapha acicularis Riddle SPECIES
-=======
+# Opegrapha acicularis Riddle SPECIES
 
 #### Status
 ACCEPTED

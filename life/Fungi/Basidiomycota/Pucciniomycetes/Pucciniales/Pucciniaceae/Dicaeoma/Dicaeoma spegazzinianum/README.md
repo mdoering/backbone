@@ -1,5 +1,4 @@
-Dicaeoma spegazzinianum (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma spegazzinianum (De Toni) Kuntze SPECIES
 
 #### Status
 ACCEPTED

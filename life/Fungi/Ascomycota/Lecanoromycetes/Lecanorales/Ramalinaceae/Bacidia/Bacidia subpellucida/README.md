@@ -1,5 +1,4 @@
-Bacidia subpellucida (Müll. Arg.) Darb. SPECIES
-=======
+# Bacidia subpellucida (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

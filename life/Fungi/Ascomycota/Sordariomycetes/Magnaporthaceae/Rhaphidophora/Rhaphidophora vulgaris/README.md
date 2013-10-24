@@ -1,5 +1,4 @@
-Rhaphidophora vulgaris Sacc. SPECIES
-=======
+# Rhaphidophora vulgaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

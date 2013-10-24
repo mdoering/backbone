@@ -1,5 +1,4 @@
-Hymenoscyphus perelegans (Saut.) Kuntze SPECIES
-=======
+# Hymenoscyphus perelegans (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

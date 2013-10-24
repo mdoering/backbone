@@ -1,5 +1,4 @@
-Eutypa heveana Saccas SPECIES
-=======
+# Eutypa heveana Saccas SPECIES
 
 #### Status
 ACCEPTED

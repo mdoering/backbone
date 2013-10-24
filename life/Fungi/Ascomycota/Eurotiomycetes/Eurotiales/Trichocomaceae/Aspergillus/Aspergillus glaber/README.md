@@ -1,5 +1,4 @@
-Aspergillus glaber Blaser, 1976 SPECIES
-=======
+# Aspergillus glaber Blaser, 1976 SPECIES
 
 #### Status
 ACCEPTED

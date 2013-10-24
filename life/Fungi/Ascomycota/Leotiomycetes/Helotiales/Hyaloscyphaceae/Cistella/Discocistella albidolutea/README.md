@@ -1,5 +1,4 @@
-Discocistella albidolutea (Feltgen) Svrcek SPECIES
-=======
+# Discocistella albidolutea (Feltgen) Svrcek SPECIES
 
 #### Status
 ACCEPTED

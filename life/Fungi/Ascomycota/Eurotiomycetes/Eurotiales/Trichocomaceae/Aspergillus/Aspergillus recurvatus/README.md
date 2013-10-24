@@ -1,5 +1,4 @@
-Aspergillus recurvatus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus recurvatus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

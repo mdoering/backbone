@@ -1,5 +1,4 @@
-Goesella pliocenica Natland, 1938 SPECIES
-=======
+# Goesella pliocenica Natland, 1938 SPECIES
 
 #### Status
 ACCEPTED

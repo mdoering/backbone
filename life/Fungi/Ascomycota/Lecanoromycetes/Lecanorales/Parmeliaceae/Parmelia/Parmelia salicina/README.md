@@ -1,5 +1,4 @@
-Parmelia salicina (Schrad.) Ach. SPECIES
-=======
+# Parmelia salicina (Schrad.) Ach. SPECIES
 
 #### Status
 ACCEPTED

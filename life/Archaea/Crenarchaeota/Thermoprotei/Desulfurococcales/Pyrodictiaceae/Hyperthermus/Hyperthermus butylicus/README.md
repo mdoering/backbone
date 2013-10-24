@@ -1,5 +1,4 @@
-Hyperthermus butylicus Zillig et al., 1991 SPECIES
-=======
+# Hyperthermus butylicus Zillig et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

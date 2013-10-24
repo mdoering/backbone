@@ -1,5 +1,4 @@
-Aecidium scillinum Durieu & Mont. SPECIES
-=======
+# Aecidium scillinum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

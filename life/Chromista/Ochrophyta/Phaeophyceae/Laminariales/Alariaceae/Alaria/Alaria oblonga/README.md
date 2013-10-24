@@ -1,5 +1,4 @@
-Alaria oblonga Kjellman SPECIES
-=======
+# Alaria oblonga Kjellman SPECIES
 
 #### Status
 ACCEPTED

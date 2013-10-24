@@ -1,5 +1,4 @@
-Hymenagaricus canoruber (Berk. & Broome) Heinem. & Little Flower SPECIES
-=======
+# Hymenagaricus canoruber (Berk. & Broome) Heinem. & Little Flower SPECIES
 
 #### Status
 ACCEPTED

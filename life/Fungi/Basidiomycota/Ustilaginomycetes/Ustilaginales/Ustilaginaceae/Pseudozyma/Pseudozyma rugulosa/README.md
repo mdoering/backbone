@@ -1,14 +1,13 @@
-Stephanoascus rugulosus Traquair, L.A. Shaw & Jarvis, 1988 SPECIES
-=======
+# Pseudozyma rugulosa (Traquair, L.A. Shaw & Jarvis) Boekhout & Traquair, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 66(5): 929 (1988)
+in Boekhout, J. gen. appl. Microbiol. , Tokyo 41(4): 364 (1995)
 
 #### Original name
 Stephanoascus rugulosus Traquair, L.A. Shaw & Jarvis, 1988

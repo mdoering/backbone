@@ -1,5 +1,4 @@
-Peniophora discoidea Henn. SPECIES
-=======
+# Peniophora discoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

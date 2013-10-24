@@ -1,5 +1,4 @@
-Archaeofavosina naumovae P. K. Maithy SPECIES
-=======
+# Archaeofavosina naumovae P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

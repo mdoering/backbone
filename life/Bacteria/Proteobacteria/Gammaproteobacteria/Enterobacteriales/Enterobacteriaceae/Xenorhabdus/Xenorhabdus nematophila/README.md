@@ -1,5 +1,4 @@
-Xenorhabdus nematophila subsp. nematophila SUBSPECIES
-=======
+# Xenorhabdus nematophila SPECIES
 
 #### Status
 ACCEPTED

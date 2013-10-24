@@ -1,5 +1,4 @@
-Pezizella sepulta Rehm SPECIES
-=======
+# Pezizella sepulta Rehm SPECIES
 
 #### Status
 ACCEPTED

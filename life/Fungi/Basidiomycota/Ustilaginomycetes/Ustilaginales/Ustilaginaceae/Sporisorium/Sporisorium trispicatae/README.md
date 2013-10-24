@@ -1,5 +1,4 @@
-Sporisorium trispicatae R.G. Shivas, Vánky & Athip., 2006 SPECIES
-=======
+# Sporisorium trispicatae R.G. Shivas, Vánky & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

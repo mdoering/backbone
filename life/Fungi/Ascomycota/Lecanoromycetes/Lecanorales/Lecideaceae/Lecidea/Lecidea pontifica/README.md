@@ -1,5 +1,4 @@
-Lecidea pontifica (Körb.) Zahlbr. SPECIES
-=======
+# Lecidea pontifica (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

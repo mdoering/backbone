@@ -1,5 +1,4 @@
-Micropeltis albo-ostiolata Henn. SPECIES
-=======
+# Micropeltis albo-ostiolata Henn. SPECIES
 
 #### Status
 ACCEPTED

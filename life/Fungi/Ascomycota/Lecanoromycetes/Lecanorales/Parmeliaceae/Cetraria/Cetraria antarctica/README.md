@@ -1,5 +1,4 @@
-Cetraria antarctica Zahlbr. SPECIES
-=======
+# Cetraria antarctica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

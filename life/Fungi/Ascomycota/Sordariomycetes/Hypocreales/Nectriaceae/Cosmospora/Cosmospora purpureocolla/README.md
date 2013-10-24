@@ -1,5 +1,4 @@
-Cosmospora purpureocolla J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Cosmospora purpureocolla J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

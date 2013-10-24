@@ -1,5 +1,4 @@
-Colletotrichum himantophylli f. himantophylli FORM
-=======
+# Colletotrichum himantophylli Verpl. & Claess. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Colletotrichum himantophylli f. himantophylli
+Colletotrichum himantophylli Verpl. & Claess.
 
 ### Remarks
 null

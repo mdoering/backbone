@@ -1,5 +1,4 @@
-Leptosphaeria gallicola Sacc. SPECIES
-=======
+# Leptosphaeria gallicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

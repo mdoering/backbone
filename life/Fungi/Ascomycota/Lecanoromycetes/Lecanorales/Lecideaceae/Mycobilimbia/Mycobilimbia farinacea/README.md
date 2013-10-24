@@ -1,5 +1,4 @@
-Mycobilimbia farinacea (H. Olivier) Vouaux SPECIES
-=======
+# Mycobilimbia farinacea (H. Olivier) Vouaux SPECIES
 
 #### Status
 ACCEPTED

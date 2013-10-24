@@ -1,5 +1,4 @@
-Laboulbenia carelica Huldén SPECIES
-=======
+# Laboulbenia carelica Huldén SPECIES
 
 #### Status
 ACCEPTED

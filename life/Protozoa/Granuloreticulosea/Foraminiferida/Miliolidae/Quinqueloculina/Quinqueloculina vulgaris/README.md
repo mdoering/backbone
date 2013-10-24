@@ -1,5 +1,4 @@
-Quinqueloculina vulgaris SPECIES
-=======
+# Quinqueloculina vulgaris SPECIES
 
 #### Status
 ACCEPTED

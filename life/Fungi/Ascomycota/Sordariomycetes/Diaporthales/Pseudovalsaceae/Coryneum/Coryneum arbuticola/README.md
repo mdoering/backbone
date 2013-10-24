@@ -1,5 +1,4 @@
-Coryneum arbuticola (Sowerby) Sacc. SPECIES
-=======
+# Coryneum arbuticola (Sowerby) Sacc. SPECIES
 
 #### Status
 ACCEPTED

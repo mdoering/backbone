@@ -1,5 +1,4 @@
-Litharachnium tentorium Haeckel, 1860 SPECIES
-=======
+# Litharachnium tentorium Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

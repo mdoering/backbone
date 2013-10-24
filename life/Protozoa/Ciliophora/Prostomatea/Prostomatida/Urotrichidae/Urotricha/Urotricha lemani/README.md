@@ -1,5 +1,4 @@
-Urotricha lemani Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Urotricha lemani Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

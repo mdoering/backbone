@@ -1,5 +1,4 @@
-Amanita brunneofuliginea Zhu L. Yang SPECIES
-=======
+# Amanita brunneofuliginea Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hydnum arachnoideum Peck, 1891 SPECIES
-=======
+# Scytinostroma arachnoideum (Peck) Gilb., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 44: 133 (1891)
+Mycologia 54(6): 660 (1963)
 
 #### Original name
 Hydnum arachnoideum Peck, 1891

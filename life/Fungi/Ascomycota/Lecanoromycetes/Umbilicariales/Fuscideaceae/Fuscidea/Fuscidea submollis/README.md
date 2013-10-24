@@ -1,5 +1,4 @@
-Fuscidea submollis Mas. Inoue SPECIES
-=======
+# Fuscidea submollis Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria dracocephalicola Vasyag. SPECIES
-=======
+# Septoria dracocephalicola Vasyag. SPECIES
 
 #### Status
 ACCEPTED

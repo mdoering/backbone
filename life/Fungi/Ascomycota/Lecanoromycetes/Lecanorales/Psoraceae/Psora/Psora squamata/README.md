@@ -1,5 +1,4 @@
-Psora squamata (Dicks.) Hoffm. SPECIES
-=======
+# Psora squamata (Dicks.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

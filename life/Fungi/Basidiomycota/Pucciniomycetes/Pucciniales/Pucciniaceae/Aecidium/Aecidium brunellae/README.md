@@ -1,5 +1,4 @@
-Aecidium brunellae G. Winter SPECIES
-=======
+# Aecidium brunellae G. Winter SPECIES
 
 #### Status
 ACCEPTED

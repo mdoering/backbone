@@ -1,5 +1,4 @@
-Clasterosporium tamaricinum Maire SPECIES
-=======
+# Clasterosporium tamaricinum Maire SPECIES
 
 #### Status
 ACCEPTED

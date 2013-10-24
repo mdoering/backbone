@@ -1,5 +1,4 @@
-Hymenogaster coerulescens Soehner SPECIES
-=======
+# Hymenogaster coerulescens Soehner SPECIES
 
 #### Status
 ACCEPTED

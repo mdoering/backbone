@@ -1,5 +1,4 @@
-Xanthoparmelia nortegeta Elix SPECIES
-=======
+# Xanthoparmelia nortegeta Elix SPECIES
 
 #### Status
 ACCEPTED

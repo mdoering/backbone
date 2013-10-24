@@ -1,5 +1,4 @@
-Trachelostyla caudata Kahl, 1932 SPECIES
-=======
+# Trachelostyla caudata Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

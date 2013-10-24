@@ -1,5 +1,4 @@
-Austrocolomi GENUS
-=======
+# Austrocolomi GENUS
 
 #### Status
 ACCEPTED

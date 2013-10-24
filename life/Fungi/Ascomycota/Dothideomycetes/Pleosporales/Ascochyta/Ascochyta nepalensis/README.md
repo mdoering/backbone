@@ -1,5 +1,4 @@
-Ascochyta nepalensis Punith. SPECIES
-=======
+# Ascochyta nepalensis Punith. SPECIES
 
 #### Status
 ACCEPTED

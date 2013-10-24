@@ -1,5 +1,4 @@
-Danea impages S. P. Damassa SPECIES
-=======
+# Danea impages S. P. Damassa SPECIES
 
 #### Status
 ACCEPTED

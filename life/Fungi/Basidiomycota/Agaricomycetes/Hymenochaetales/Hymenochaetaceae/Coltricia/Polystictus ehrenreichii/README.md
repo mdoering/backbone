@@ -1,5 +1,4 @@
-Polystictus ehrenreichii Henn. SPECIES
-=======
+# Polystictus ehrenreichii Henn. SPECIES
 
 #### Status
 ACCEPTED

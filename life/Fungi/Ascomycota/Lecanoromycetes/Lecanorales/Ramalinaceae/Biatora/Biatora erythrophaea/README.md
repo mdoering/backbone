@@ -1,5 +1,4 @@
-Biatora erythrophaea SPECIES
-=======
+# Biatora erythrophaea SPECIES
 
 #### Status
 ACCEPTED

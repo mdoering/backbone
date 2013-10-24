@@ -1,5 +1,4 @@
-Cortinarius cucumisporus M.M. Moser SPECIES
-=======
+# Cortinarius cucumisporus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

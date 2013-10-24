@@ -1,5 +1,4 @@
-Westerdykella sexualis Stchigel & Guarro SPECIES
-=======
+# Westerdykella sexualis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalodina macquariensis C.W. Dodge SPECIES
-=======
+# Omphalodina macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

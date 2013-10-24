@@ -1,5 +1,4 @@
-Patellina epimyces Petch SPECIES
-=======
+# Patellina epimyces Petch SPECIES
 
 #### Status
 ACCEPTED

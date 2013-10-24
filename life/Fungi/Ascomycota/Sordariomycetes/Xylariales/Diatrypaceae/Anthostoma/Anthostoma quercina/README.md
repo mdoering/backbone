@@ -1,5 +1,4 @@
-Anthostoma quercina (Petr.) Arx & E. Müll. SPECIES
-=======
+# Anthostoma quercina (Petr.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

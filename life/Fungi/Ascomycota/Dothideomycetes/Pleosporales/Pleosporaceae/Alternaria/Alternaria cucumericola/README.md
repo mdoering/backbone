@@ -1,5 +1,4 @@
-Alternaria cucumericola E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria cucumericola E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

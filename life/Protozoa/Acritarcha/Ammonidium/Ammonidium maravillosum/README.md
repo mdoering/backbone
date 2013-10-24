@@ -1,5 +1,4 @@
-Ammonidium maravillosum (Cramer, 1969) Thusu, 1973 SPECIES
-=======
+# Ammonidium maravillosum (Cramer, 1969) Thusu, 1973 SPECIES
 
 #### Status
 ACCEPTED

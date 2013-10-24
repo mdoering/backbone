@@ -1,5 +1,4 @@
-Leproloma sipmanianum Kümmerl. & Leuckert SPECIES
-=======
+# Leproloma sipmanianum Kümmerl. & Leuckert SPECIES
 
 #### Status
 ACCEPTED

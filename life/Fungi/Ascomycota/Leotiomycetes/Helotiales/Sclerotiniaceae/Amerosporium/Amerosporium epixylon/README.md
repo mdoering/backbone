@@ -1,5 +1,4 @@
-Amerosporium epixylon (Fr.) Grove SPECIES
-=======
+# Amerosporium epixylon (Fr.) Grove SPECIES
 
 #### Status
 ACCEPTED

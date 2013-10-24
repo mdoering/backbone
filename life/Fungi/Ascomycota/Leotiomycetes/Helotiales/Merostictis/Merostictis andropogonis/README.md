@@ -1,5 +1,4 @@
-Merostictis andropogonis (Berk. & Cooke) Défago SPECIES
-=======
+# Merostictis andropogonis (Berk. & Cooke) Défago SPECIES
 
 #### Status
 ACCEPTED

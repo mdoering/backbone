@@ -1,5 +1,4 @@
-Tilletia biharica Thirum. & Pavgi SPECIES
-=======
+# Tilletia biharica Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

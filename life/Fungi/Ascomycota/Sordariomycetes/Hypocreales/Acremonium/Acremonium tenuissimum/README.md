@@ -1,5 +1,4 @@
-Acremonium tenuissimum Bonord. SPECIES
-=======
+# Acremonium tenuissimum Bonord. SPECIES
 
 #### Status
 ACCEPTED

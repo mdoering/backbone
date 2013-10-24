@@ -1,5 +1,4 @@
-Trichothyrites echinatus (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites echinatus (K.P. Rao & Ramanujam) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

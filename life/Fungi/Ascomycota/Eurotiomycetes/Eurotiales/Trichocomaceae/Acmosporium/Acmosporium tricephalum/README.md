@@ -1,5 +1,4 @@
-Acmosporium tricephalum W. Phillips SPECIES
-=======
+# Acmosporium tricephalum W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teuthophrys Chatton & Beauchamp, 1923 GENUS
-=======
+# Teuthophrys Chatton & Beauchamp, 1923 GENUS
 
 #### Status
 ACCEPTED

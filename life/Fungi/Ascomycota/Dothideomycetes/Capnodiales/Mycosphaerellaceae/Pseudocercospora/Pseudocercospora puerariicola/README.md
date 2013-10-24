@@ -1,17 +1,16 @@
-Cercospora pueraricola W. Yamam. SPECIES
-=======
+# Pseudocercospora puerariicola (W. Yamam.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 151 (1976)
 
 #### Original name
-Cercospora pueraricola W. Yamam.
+Cercospora puerariicola W. Yamam., 1934
 
 ### Remarks
 null

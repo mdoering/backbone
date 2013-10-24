@@ -1,5 +1,4 @@
-Metasphaeria orthospora Sacc., 1893 SPECIES
-=======
+# Metasphaeria orthospora Sacc., 1893 SPECIES
 
 #### Status
 ACCEPTED

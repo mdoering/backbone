@@ -1,5 +1,4 @@
-Phoma ambrosioidis Kamal & P. Kumar SPECIES
-=======
+# Phoma ambrosioidis Kamal & P. Kumar SPECIES
 
 #### Status
 ACCEPTED

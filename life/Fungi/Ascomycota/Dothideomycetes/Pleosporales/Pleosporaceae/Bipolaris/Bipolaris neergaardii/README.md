@@ -1,5 +1,4 @@
-Bipolaris neergaardii (Danquah) Alcorn SPECIES
-=======
+# Bipolaris neergaardii (Danquah) Alcorn SPECIES
 
 #### Status
 ACCEPTED

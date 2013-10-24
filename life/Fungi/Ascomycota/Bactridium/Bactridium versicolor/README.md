@@ -1,5 +1,4 @@
-Bactridium versicolor McAlpine SPECIES
-=======
+# Bactridium versicolor McAlpine SPECIES
 
 #### Status
 ACCEPTED

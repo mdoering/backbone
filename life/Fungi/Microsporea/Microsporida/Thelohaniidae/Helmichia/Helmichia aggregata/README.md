@@ -1,5 +1,4 @@
-Helmichia aggregata J.I.R. Larsson SPECIES
-=======
+# Helmichia aggregata J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

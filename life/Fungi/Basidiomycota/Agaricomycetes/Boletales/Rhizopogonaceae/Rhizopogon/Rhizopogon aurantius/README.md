@@ -1,5 +1,4 @@
-Rhizopogon aurantius Harkn. SPECIES
-=======
+# Rhizopogon aurantius Harkn. SPECIES
 
 #### Status
 ACCEPTED

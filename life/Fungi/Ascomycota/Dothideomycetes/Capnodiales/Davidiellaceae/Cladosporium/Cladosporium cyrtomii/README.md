@@ -1,17 +1,16 @@
-Cladosporium cyrtomi Z.Y. Zhang, H.H. Peng & H. Zhang SPECIES
-=======
+# Cladosporium cyrtomii Z.Y. Zhang, H.H. Peng & H. Zhang, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Zhang, Peng, Liu & Zhang, Mycosystema 17(1): 4 (1998)
 
 #### Original name
-Cladosporium cyrtomi Z.Y. Zhang, H.H. Peng & H. Zhang
+Cladosporium cyrtomii Z.Y. Zhang, H.H. Peng & H. Zhang, 1998
 
 ### Remarks
 null

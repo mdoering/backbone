@@ -1,5 +1,4 @@
-Parmelia limaeformis Taylor SPECIES
-=======
+# Parmelia limaeformis Taylor SPECIES
 
 #### Status
 ACCEPTED

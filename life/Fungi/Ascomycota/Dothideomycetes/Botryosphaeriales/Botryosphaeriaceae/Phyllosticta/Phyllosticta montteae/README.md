@@ -1,5 +1,4 @@
-Phyllosticta montteae Speg. SPECIES
-=======
+# Phyllosticta montteae Speg. SPECIES
 
 #### Status
 ACCEPTED

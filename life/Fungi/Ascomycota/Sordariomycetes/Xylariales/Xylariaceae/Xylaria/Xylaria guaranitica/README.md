@@ -1,5 +1,4 @@
-Xylaria guaranitica (Speg.) Dennis SPECIES
-=======
+# Xylaria guaranitica (Speg.) Dennis SPECIES
 
 #### Status
 ACCEPTED

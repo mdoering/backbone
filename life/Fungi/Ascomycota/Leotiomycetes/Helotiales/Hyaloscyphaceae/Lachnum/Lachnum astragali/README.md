@@ -1,5 +1,4 @@
-Lachnum astragali Höhn. SPECIES
-=======
+# Lachnum astragali Höhn. SPECIES
 
 #### Status
 ACCEPTED

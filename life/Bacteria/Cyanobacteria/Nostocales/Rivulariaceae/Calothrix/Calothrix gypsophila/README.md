@@ -1,5 +1,4 @@
-Calothrix gypsophila Thuret SPECIES
-=======
+# Calothrix gypsophila Thuret SPECIES
 
 #### Status
 ACCEPTED

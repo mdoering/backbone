@@ -1,5 +1,4 @@
-Rugosomyces caucasicus (Singer) Kalamees SPECIES
-=======
+# Rugosomyces caucasicus (Singer) Kalamees SPECIES
 
 #### Status
 ACCEPTED

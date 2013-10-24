@@ -1,5 +1,4 @@
-Graphis glaucoleucoides Nyl. SPECIES
-=======
+# Graphis glaucoleucoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

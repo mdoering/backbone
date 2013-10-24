@@ -1,5 +1,4 @@
-Puccinia iniapii Buriticá SPECIES
-=======
+# Puccinia iniapii Buriticá SPECIES
 
 #### Status
 ACCEPTED

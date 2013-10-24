@@ -1,5 +1,4 @@
-Uredo vernoniae-hookerianae Petch SPECIES
-=======
+# Uredo vernoniae-hookerianae Petch SPECIES
 
 #### Status
 ACCEPTED

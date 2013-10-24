@@ -1,5 +1,4 @@
-Ascochytella potentillae Petr. SPECIES
-=======
+# Ascochytella potentillae Petr. SPECIES
 
 #### Status
 ACCEPTED

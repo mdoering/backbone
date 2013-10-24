@@ -1,5 +1,4 @@
-Litosolenius GENUS
-=======
+# Litosolenius GENUS
 
 #### Status
 ACCEPTED

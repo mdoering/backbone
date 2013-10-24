@@ -1,5 +1,4 @@
-Macrosporium bataticola Ikata SPECIES
-=======
+# Macrosporium bataticola Ikata SPECIES
 
 #### Status
 ACCEPTED

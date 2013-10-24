@@ -1,5 +1,4 @@
-Ascochytella davatchii Esfand. SPECIES
-=======
+# Ascochytella davatchii Esfand. SPECIES
 
 #### Status
 ACCEPTED

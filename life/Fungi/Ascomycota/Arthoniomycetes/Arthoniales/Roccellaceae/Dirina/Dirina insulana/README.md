@@ -1,5 +1,4 @@
-Dirina insulana (Tav.) Tehler SPECIES
-=======
+# Dirina insulana (Tav.) Tehler SPECIES
 
 #### Status
 ACCEPTED

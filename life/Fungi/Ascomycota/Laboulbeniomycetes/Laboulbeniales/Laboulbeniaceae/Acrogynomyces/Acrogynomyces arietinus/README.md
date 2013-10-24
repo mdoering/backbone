@@ -1,5 +1,4 @@
-Acrogynomyces arietinus Thaxt. SPECIES
-=======
+# Acrogynomyces arietinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

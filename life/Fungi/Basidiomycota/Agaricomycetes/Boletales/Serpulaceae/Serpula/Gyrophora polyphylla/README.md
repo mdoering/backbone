@@ -1,17 +1,16 @@
-Gyrophora polyphylla f. polyphylla FORM
-=======
+# Gyrophora polyphylla SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Lichen polyphyllus L.
+null
 
 ### Remarks
 null

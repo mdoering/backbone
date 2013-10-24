@@ -1,5 +1,4 @@
-Lentisphaerae CLASS
-=======
+# Lentisphaerae CLASS
 
 #### Status
 ACCEPTED

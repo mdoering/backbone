@@ -1,5 +1,4 @@
-Discella zythiacea Fairm. SPECIES
-=======
+# Discella zythiacea Fairm. SPECIES
 
 #### Status
 ACCEPTED

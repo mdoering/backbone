@@ -1,5 +1,4 @@
-Hysterium episphaerium Fr. SPECIES
-=======
+# Hysterium episphaerium Fr. SPECIES
 
 #### Status
 ACCEPTED

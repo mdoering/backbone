@@ -1,5 +1,4 @@
-Cerocorticium Hennings, 1900 GENUS
-=======
+# Cerocorticium Hennings, 1900 GENUS
 
 #### Status
 ACCEPTED

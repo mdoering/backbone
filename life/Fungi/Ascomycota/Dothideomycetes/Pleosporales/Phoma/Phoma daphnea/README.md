@@ -1,5 +1,4 @@
-Phoma daphnea (Preuss) Sacc. SPECIES
-=======
+# Phoma daphnea (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella fraxinicola (Schwein.) House SPECIES
-=======
+# Mycosphaerella fraxinicola (Schwein.) House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus lipoferus (Den Dooren) C.E. Skinner SPECIES
-=======
+# Cryptococcus lipoferus (Den Dooren) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

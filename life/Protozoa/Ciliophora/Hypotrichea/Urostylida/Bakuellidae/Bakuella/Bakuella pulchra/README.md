@@ -1,5 +1,4 @@
-Bakuella pulchra SPECIES
-=======
+# Bakuella pulchra SPECIES
 
 #### Status
 ACCEPTED

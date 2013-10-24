@@ -1,5 +1,4 @@
-Calocybe caucasica Singer SPECIES
-=======
+# Calocybe caucasica Singer SPECIES
 
 #### Status
 ACCEPTED

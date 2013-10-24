@@ -1,5 +1,4 @@
-Laboulbenia filiformis Balazuc SPECIES
-=======
+# Laboulbenia filiformis Balazuc SPECIES
 
 #### Status
 ACCEPTED

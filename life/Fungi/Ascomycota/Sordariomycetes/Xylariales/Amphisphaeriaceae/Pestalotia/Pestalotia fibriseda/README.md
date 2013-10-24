@@ -1,5 +1,4 @@
-Pestalotia fibriseda Ellis & Barthol. SPECIES
-=======
+# Pestalotia fibriseda Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

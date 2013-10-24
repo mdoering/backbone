@@ -1,5 +1,4 @@
-Lachnocladium pusillum Coker SPECIES
-=======
+# Lachnocladium pusillum Coker SPECIES
 
 #### Status
 ACCEPTED

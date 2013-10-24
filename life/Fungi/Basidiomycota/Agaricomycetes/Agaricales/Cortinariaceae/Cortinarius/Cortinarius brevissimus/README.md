@@ -1,5 +1,4 @@
-Cortinarius brevissimus Peck SPECIES
-=======
+# Cortinarius brevissimus Peck SPECIES
 
 #### Status
 ACCEPTED

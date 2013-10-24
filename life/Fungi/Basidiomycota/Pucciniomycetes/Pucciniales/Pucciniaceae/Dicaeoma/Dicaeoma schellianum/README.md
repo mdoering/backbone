@@ -1,5 +1,4 @@
-Dicaeoma schellianum (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma schellianum (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

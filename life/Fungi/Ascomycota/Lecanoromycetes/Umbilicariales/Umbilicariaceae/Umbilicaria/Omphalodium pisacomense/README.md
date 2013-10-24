@@ -1,5 +1,4 @@
-Omphalodium pisacomense Meyen & Flot. SPECIES
-=======
+# Omphalodium pisacomense Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

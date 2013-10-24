@@ -1,5 +1,4 @@
-Lecanora fuscocinerea H. Magn. SPECIES
-=======
+# Lecanora fuscocinerea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

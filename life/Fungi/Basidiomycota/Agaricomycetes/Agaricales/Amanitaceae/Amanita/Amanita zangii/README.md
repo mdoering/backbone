@@ -1,5 +1,4 @@
-Amanita zangii Zhu L. Yang, T.H. Li & X.L. Wu SPECIES
-=======
+# Amanita zangii Zhu L. Yang, T.H. Li & X.L. Wu SPECIES
 
 #### Status
 ACCEPTED

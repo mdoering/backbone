@@ -1,5 +1,4 @@
-Marasmius lateritiosulcatus S. Ito & S. Imai SPECIES
-=======
+# Marasmius lateritiosulcatus S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

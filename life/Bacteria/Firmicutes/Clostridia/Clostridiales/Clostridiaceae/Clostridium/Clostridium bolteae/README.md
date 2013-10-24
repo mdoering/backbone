@@ -1,5 +1,4 @@
-Clostridium bolteae Song et al., 2003 SPECIES
-=======
+# Clostridium bolteae Song et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

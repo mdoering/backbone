@@ -1,5 +1,4 @@
-Sphaerostilbe fujikuroi Sawada SPECIES
-=======
+# Sphaerostilbe fujikuroi Sawada SPECIES
 
 #### Status
 ACCEPTED

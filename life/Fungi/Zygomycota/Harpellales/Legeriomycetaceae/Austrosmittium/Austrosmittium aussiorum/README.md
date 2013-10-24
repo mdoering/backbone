@@ -1,5 +1,4 @@
-Austrosmittium aussiorum M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Austrosmittium aussiorum M.C. Williams & Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

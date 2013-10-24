@@ -1,5 +1,4 @@
-Hemideunffia B. Thusu, 1973 GENUS
-=======
+# Hemideunffia B. Thusu, 1973 GENUS
 
 #### Status
 ACCEPTED

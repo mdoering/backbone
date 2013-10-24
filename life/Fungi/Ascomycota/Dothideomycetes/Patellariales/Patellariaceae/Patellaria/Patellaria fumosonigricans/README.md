@@ -1,5 +1,4 @@
-Patellaria fumosonigricans Müll. Arg. SPECIES
-=======
+# Patellaria fumosonigricans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

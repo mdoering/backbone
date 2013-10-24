@@ -1,5 +1,4 @@
-Diporicellaesporites lanceolatus Z.C. Song SPECIES
-=======
+# Diporicellaesporites lanceolatus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

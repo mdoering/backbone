@@ -1,5 +1,4 @@
-Pyrenopeziza fimbriata Rehm SPECIES
-=======
+# Pyrenopeziza fimbriata Rehm SPECIES
 
 #### Status
 ACCEPTED

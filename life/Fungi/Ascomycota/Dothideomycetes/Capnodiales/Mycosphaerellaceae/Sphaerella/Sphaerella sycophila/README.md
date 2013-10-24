@@ -1,5 +1,4 @@
-Sphaerella sycophila G. Winter SPECIES
-=======
+# Sphaerella sycophila G. Winter SPECIES
 
 #### Status
 ACCEPTED

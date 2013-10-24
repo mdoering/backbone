@@ -1,5 +1,4 @@
-Entoloma cretaceum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma cretaceum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

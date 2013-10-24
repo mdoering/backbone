@@ -1,5 +1,4 @@
-Lactarius sublacustris Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius sublacustris Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

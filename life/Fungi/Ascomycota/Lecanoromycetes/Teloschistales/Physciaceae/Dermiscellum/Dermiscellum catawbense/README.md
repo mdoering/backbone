@@ -1,14 +1,13 @@
-Buellia catawbensis Willey SPECIES
-=======
+# Dermiscellum catawbense (Willey) Hafellner & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 5(1-2): 56 (1979)
 
 #### Original name
 Buellia catawbensis Willey

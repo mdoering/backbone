@@ -1,5 +1,4 @@
-Racodium rigidum Schultz SPECIES
-=======
+# Racodium rigidum Schultz SPECIES
 
 #### Status
 ACCEPTED

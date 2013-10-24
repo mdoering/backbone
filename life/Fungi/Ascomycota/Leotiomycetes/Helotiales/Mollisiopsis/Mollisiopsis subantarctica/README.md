@@ -1,14 +1,13 @@
-Belonium subantarcticum Speg., 1924 SPECIES
-=======
+# Mollisiopsis subantarctica (Speg.) Gamundí, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 27(4): 391 (1924)
+Sydowia 31(1-6): 100 (1979)
 
 #### Original name
 Belonium subantarcticum Speg., 1924

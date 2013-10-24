@@ -1,5 +1,4 @@
-Amphorella pallida SPECIES
-=======
+# Amphorella pallida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina bigeniculata B. de Lesd. SPECIES
-=======
+# Ramalina bigeniculata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

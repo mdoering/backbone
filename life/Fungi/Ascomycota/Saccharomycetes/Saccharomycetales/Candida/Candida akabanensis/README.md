@@ -1,5 +1,4 @@
-Candida akabanensis Nakase, M. Suzuki, M. Takash., Rosadi, Hermosillo, & Komagata, 1994 SPECIES
-=======
+# Candida akabanensis Nakase, M. Suzuki, M. Takash., Rosadi, Hermosillo, & Komagata, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurodiscus strumosoides Rick SPECIES
-=======
+# Aleurodiscus strumosoides Rick SPECIES
 
 #### Status
 ACCEPTED

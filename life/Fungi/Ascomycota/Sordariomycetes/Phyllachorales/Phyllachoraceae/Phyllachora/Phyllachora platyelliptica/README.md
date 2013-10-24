@@ -1,5 +1,4 @@
-Phyllachora platyelliptica Parbery, 1967 SPECIES
-=======
+# Phyllachora platyelliptica Parbery, 1967 SPECIES
 
 #### Status
 ACCEPTED

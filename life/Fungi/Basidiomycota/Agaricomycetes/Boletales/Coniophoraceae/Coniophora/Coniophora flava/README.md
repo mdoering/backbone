@@ -1,5 +1,4 @@
-Coniophora flava Burt SPECIES
-=======
+# Coniophora flava Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus cremeicinctus Corner SPECIES
-=======
+# Inonotus cremeicinctus Corner SPECIES
 
 #### Status
 ACCEPTED

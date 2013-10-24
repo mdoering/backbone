@@ -1,5 +1,4 @@
-Reticularia apiosporum Berk. & Broome SPECIES
-=======
+# Reticularia apiosporum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

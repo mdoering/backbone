@@ -1,5 +1,4 @@
-Favosyringium Steiger, 1992 GENUS
-=======
+# Favosyringium Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

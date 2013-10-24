@@ -1,5 +1,4 @@
-Podospora apiculifera (Speg.) Mirza & Cain SPECIES
-=======
+# Podospora apiculifera (Speg.) Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

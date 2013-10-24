@@ -1,5 +1,4 @@
-Colletotrichum daphnes-ponticae Siemaszko SPECIES
-=======
+# Colletotrichum daphnes-ponticae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

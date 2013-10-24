@@ -1,5 +1,4 @@
-Lopadostoma polynesium (Berk. & M.A. Curtis) Rappaz SPECIES
-=======
+# Lopadostoma polynesium (Berk. & M.A. Curtis) Rappaz SPECIES
 
 #### Status
 ACCEPTED

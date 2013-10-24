@@ -1,5 +1,4 @@
-Pseudobaeospora pyrifera Bas & L.G. Krieglst. SPECIES
-=======
+# Pseudobaeospora pyrifera Bas & L.G. Krieglst. SPECIES
 
 #### Status
 ACCEPTED

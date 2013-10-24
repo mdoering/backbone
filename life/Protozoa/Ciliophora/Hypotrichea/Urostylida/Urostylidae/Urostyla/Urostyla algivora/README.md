@@ -1,5 +1,4 @@
-Urostyla algivora SPECIES
-=======
+# Urostyla algivora SPECIES
 
 #### Status
 ACCEPTED

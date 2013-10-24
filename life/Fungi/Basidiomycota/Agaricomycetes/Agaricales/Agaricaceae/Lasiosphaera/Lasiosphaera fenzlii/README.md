@@ -1,5 +1,4 @@
-Lasiosphaera fenzlii Lloyd SPECIES
-=======
+# Lasiosphaera fenzlii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylonychia membranaceus Dumas, 1937 SPECIES
-=======
+# Stylonychia membranaceus Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

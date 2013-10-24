@@ -1,5 +1,4 @@
-Phyllachora crotonis (Cooke) Sacc., 1883 SPECIES
-=======
+# Phyllachora crotonis (Cooke) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

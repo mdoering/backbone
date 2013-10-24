@@ -1,5 +1,4 @@
-Tetracladium bifurcatum anon. SPECIES
-=======
+# Tetracladium bifurcatum anon. SPECIES
 
 #### Status
 ACCEPTED

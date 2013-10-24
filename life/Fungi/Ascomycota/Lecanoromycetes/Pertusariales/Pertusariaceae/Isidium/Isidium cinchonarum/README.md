@@ -1,5 +1,4 @@
-Isidium cinchonarum (Fée) Fée SPECIES
-=======
+# Isidium cinchonarum (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

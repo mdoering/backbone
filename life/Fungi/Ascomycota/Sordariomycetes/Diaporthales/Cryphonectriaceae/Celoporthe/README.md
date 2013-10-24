@@ -1,5 +1,4 @@
-Celoporthe Nakab., Gryzenh., Jol. Roux & M.J. Wingf. GENUS
-=======
+# Celoporthe Nakab., Gryzenh., Jol. Roux & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

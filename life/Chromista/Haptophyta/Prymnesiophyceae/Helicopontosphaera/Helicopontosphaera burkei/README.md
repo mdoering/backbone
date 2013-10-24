@@ -1,5 +1,4 @@
-Helicopontosphaera burkei (M. Black) S.W. Wise SPECIES
-=======
+# Helicopontosphaera burkei (M. Black) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

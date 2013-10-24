@@ -1,5 +1,4 @@
-Scyphidia terebellidis Precht, 1935 SPECIES
-=======
+# Scyphidia terebellidis Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

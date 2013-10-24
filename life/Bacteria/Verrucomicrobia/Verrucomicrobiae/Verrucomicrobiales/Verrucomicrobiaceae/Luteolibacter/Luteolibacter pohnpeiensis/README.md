@@ -1,5 +1,4 @@
-Luteolibacter pohnpeiensis Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
-=======
+# Luteolibacter pohnpeiensis Yoon, Matsuo, Adachi, Nozawa, Matsuda, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

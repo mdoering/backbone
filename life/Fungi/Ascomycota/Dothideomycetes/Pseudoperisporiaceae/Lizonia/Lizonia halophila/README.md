@@ -1,17 +1,16 @@
-Sphaerulina halophila (E. Bommer, M. Rousseau & Sacc.) Starbäck, 1896 SPECIES
-=======
+# Lizonia halophila E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini) 9: 680 (1891)
 
 #### Original name
-null
+Lizonia halophila E. Bommer, M. Rousseau & Sacc., 1891
 
 ### Remarks
 null

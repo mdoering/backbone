@@ -1,5 +1,4 @@
-Trypanodinium Chatton GENUS
-=======
+# Trypanodinium Chatton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombium halophiloides (Vain.) Servít SPECIES
-=======
+# Thrombium halophiloides (Vain.) Servít SPECIES
 
 #### Status
 ACCEPTED

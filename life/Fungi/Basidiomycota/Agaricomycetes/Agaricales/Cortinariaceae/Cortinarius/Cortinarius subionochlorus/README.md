@@ -1,5 +1,4 @@
-Cortinarius subionochlorus Rob. Henry SPECIES
-=======
+# Cortinarius subionochlorus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

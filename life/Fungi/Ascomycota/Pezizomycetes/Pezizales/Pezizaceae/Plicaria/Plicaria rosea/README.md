@@ -1,5 +1,4 @@
-Plicaria rosea Velen. SPECIES
-=======
+# Plicaria rosea Velen. SPECIES
 
 #### Status
 ACCEPTED

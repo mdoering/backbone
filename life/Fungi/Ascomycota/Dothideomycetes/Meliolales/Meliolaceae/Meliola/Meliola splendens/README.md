@@ -1,5 +1,4 @@
-Meliola splendens (F. Stevens) Cif. SPECIES
-=======
+# Meliola splendens (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

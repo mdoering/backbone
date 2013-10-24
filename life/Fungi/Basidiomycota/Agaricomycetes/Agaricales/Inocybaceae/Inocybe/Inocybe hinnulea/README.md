@@ -1,5 +1,4 @@
-Inocybe hinnulea Kühner SPECIES
-=======
+# Inocybe hinnulea Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca maura Poelt & Hinter. SPECIES
-=======
+# Caloplaca maura Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

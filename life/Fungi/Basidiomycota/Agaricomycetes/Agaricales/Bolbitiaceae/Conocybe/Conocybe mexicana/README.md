@@ -1,5 +1,4 @@
-Conocybe mexicana (Murrill) Watling SPECIES
-=======
+# Conocybe mexicana (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

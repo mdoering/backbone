@@ -1,5 +1,4 @@
-Russula caucaensis Singer SPECIES
-=======
+# Russula caucaensis Singer SPECIES
 
 #### Status
 ACCEPTED

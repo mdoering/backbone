@@ -1,5 +1,4 @@
-Placosphaeria cousiniae Vasyag. SPECIES
-=======
+# Placosphaeria cousiniae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

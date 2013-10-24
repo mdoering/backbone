@@ -1,5 +1,4 @@
-Hemimycena angusta Singer SPECIES
-=======
+# Hemimycena angusta Singer SPECIES
 
 #### Status
 ACCEPTED

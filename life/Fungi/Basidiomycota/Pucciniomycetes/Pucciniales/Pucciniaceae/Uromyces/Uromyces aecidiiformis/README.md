@@ -1,17 +1,16 @@
-Caeoma lilii Link, 1825 SPECIES
-=======
+# Uromyces aecidiiformis (F. Strauss) C.C. Rees, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Willd. Sp. Plant. 6(2): 8 (1825)
+Am. J. Bot. 4: 369 (1917)
 
 #### Original name
-Caeoma lilii Link, 1825
+Uredo aecidiiformis F. Strauss, 1810
 
 ### Remarks
 null

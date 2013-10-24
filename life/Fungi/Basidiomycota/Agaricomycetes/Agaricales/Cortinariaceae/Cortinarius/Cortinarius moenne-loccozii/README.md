@@ -1,5 +1,4 @@
-Cortinarius moenne-loccozii Bidaud SPECIES
-=======
+# Cortinarius moenne-loccozii Bidaud SPECIES
 
 #### Status
 ACCEPTED

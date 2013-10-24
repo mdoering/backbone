@@ -1,5 +1,4 @@
-Phaeographis cryptica Zahlbr. SPECIES
-=======
+# Phaeographis cryptica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

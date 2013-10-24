@@ -1,5 +1,4 @@
-Sporoacania copromya A. Massal. SPECIES
-=======
+# Sporoacania copromya A. Massal. SPECIES
 
 #### Status
 ACCEPTED

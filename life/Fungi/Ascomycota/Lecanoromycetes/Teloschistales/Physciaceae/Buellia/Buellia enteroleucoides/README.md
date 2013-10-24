@@ -1,5 +1,4 @@
-Buellia enteroleucoides SPECIES
-=======
+# Buellia enteroleucoides SPECIES
 
 #### Status
 ACCEPTED

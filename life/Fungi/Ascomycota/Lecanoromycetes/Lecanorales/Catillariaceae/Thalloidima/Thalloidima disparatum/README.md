@@ -1,5 +1,4 @@
-Thalloidima disparatum (Nyl.) Arnold SPECIES
-=======
+# Thalloidima disparatum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

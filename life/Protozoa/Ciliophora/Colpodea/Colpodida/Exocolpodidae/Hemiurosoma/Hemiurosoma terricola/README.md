@@ -1,5 +1,4 @@
-Hemiurosoma terricola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Hemiurosoma terricola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

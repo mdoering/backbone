@@ -1,5 +1,4 @@
-Lentinus carneotomentosus (Batsch) J. Schröt. SPECIES
-=======
+# Lentinus carneotomentosus (Batsch) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

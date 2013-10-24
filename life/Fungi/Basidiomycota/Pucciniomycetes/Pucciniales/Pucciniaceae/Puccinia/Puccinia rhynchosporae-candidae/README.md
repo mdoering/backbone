@@ -1,5 +1,4 @@
-Puccinia rhynchosporae-candidae Gjaerum SPECIES
-=======
+# Puccinia rhynchosporae-candidae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

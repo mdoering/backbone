@@ -1,5 +1,4 @@
-Sphaeria pungens Wallr. SPECIES
-=======
+# Sphaeria pungens Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium hyperici-frondosi Schwein. SPECIES
-=======
+# Aecidium hyperici-frondosi Schwein. SPECIES
 
 #### Status
 ACCEPTED

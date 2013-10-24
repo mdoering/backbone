@@ -1,5 +1,4 @@
-Phyllosticta ulmaria Pass., 1891 SPECIES
-=======
+# Phyllosticta ulmaria Pass., 1891 SPECIES
 
 #### Status
 ACCEPTED

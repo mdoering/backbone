@@ -1,5 +1,4 @@
-Schizothecium formosanum (Yei Z. Wang) L. Cai SPECIES
-=======
+# Schizothecium formosanum (Yei Z. Wang) L. Cai SPECIES
 
 #### Status
 ACCEPTED

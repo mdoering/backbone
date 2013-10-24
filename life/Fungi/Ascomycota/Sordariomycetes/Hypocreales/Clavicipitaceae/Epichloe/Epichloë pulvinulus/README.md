@@ -1,5 +1,4 @@
-Epichloë pulvinulus Berk. & Broome SPECIES
-=======
+# Epichloë pulvinulus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

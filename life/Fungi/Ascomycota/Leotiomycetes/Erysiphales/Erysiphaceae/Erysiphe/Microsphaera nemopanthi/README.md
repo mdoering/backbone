@@ -1,17 +1,16 @@
-Microsphaera nemopanthis Peck SPECIES
-=======
+# Microsphaera nemopanthi Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 10: 75 (1883)
 
 #### Original name
-Microsphaera nemopanthis Peck
+Microsphaera nemopanthi Peck
 
 ### Remarks
 null

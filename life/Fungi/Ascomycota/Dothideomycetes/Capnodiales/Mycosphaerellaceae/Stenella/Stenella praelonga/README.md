@@ -1,5 +1,4 @@
-Stenella praelonga (Syd.) U. Braun SPECIES
-=======
+# Stenella praelonga (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

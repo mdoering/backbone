@@ -1,5 +1,4 @@
-Strangfordia bispora Maggs pers. comm. SPECIES
-=======
+# Strangfordia bispora Maggs pers. comm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula mycophaga Berthier & Redhead, 1982 SPECIES
-=======
+# Typhula mycophaga Berthier & Redhead, 1982 SPECIES
 
 #### Status
 ACCEPTED

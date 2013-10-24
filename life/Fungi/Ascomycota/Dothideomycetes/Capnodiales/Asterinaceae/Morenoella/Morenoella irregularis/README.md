@@ -1,5 +1,4 @@
-Morenoella irregularis (Syd.) Theiss. SPECIES
-=======
+# Morenoella irregularis (Syd.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

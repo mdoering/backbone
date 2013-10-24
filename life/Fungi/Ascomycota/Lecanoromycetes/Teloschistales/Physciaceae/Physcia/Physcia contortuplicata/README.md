@@ -1,5 +1,4 @@
-Physcia contortuplicata (Ach.) Nyl. SPECIES
-=======
+# Physcia contortuplicata (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

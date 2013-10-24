@@ -1,5 +1,4 @@
-Hirsutella dipterigena Petch SPECIES
-=======
+# Hirsutella dipterigena Petch SPECIES
 
 #### Status
 ACCEPTED

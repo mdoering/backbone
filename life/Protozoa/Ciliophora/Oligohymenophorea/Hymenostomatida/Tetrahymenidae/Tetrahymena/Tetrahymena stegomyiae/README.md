@@ -1,5 +1,4 @@
-Tetrahymena stegomyiae Corliss, 1971 SPECIES
-=======
+# Tetrahymena stegomyiae Corliss, 1971 SPECIES
 
 #### Status
 ACCEPTED

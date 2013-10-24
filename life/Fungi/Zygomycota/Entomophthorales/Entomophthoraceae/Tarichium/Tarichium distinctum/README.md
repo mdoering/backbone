@@ -1,5 +1,4 @@
-Tarichium distinctum Balazy, J. Wisn. & S. Kaczm. SPECIES
-=======
+# Tarichium distinctum Balazy, J. Wisn. & S. Kaczm. SPECIES
 
 #### Status
 ACCEPTED

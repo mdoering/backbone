@@ -1,5 +1,4 @@
-Eccilia fuliginosa Murrill SPECIES
-=======
+# Eccilia fuliginosa Murrill SPECIES
 
 #### Status
 ACCEPTED

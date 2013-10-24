@@ -1,5 +1,4 @@
-Nosema trichoplusiae Tanabe & Tamashiro, 1967 SPECIES
-=======
+# Nosema trichoplusiae Tanabe & Tamashiro, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hirosakiensis Terui & Y. Harada SPECIES
-=======
+# Puccinia hirosakiensis Terui & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

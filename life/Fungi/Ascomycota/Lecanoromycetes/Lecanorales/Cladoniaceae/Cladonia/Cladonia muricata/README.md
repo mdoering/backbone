@@ -1,5 +1,4 @@
-Cladonia muricata SPECIES
-=======
+# Cladonia muricata SPECIES
 
 #### Status
 ACCEPTED

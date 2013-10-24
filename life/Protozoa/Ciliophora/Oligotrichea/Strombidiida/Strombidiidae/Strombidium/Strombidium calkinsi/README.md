@@ -1,5 +1,4 @@
-Strombidium calkinsi Kahl, 1932 SPECIES
-=======
+# Strombidium calkinsi Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

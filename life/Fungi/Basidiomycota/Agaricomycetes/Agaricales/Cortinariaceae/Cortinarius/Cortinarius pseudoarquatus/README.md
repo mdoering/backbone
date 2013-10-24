@@ -1,5 +1,4 @@
-Cortinarius pseudoarquatus A.H. Sm. SPECIES
-=======
+# Cortinarius pseudoarquatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

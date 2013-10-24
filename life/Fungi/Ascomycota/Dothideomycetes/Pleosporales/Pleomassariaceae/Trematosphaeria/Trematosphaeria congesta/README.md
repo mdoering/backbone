@@ -1,5 +1,4 @@
-Trematosphaeria congesta (Cooke) Berl. & Voglino SPECIES
-=======
+# Trematosphaeria congesta (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

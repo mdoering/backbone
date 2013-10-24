@@ -1,5 +1,4 @@
-Scleroderma lanosum Pat. SPECIES
-=======
+# Scleroderma lanosum Pat. SPECIES
 
 #### Status
 ACCEPTED

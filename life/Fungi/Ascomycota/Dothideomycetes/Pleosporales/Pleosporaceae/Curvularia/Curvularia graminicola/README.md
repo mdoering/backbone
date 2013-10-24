@@ -1,5 +1,4 @@
-Curvularia graminicola Alcorn SPECIES
-=======
+# Curvularia graminicola Alcorn SPECIES
 
 #### Status
 ACCEPTED

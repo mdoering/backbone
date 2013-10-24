@@ -1,5 +1,4 @@
-Uberispora heteroseptata R.F. Castañeda, Guarro & Cano, 1996 SPECIES
-=======
+# Uberispora heteroseptata R.F. Castañeda, Guarro & Cano, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius crenulatus Rob. Henry ex Bidaud & Reumaux SPECIES
-=======
+# Cortinarius crenulatus Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

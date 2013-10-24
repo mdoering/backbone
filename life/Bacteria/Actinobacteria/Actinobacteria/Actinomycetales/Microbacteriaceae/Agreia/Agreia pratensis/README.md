@@ -1,8 +1,7 @@
-Subtercola pratensis Behrendt et al., 2002 SPECIES
-=======
+# Agreia pratensis (Behrendt et al., 2002) Schumann et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

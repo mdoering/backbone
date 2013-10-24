@@ -1,5 +1,4 @@
-Cercospora wrightiicola Satya SPECIES
-=======
+# Cercospora wrightiicola Satya SPECIES
 
 #### Status
 ACCEPTED

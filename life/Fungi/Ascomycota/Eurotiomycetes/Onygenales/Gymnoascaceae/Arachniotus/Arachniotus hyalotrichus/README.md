@@ -1,17 +1,16 @@
-Arachniotus hyaliotrichus Lodha SPECIES
-=======
+# Arachniotus hyalotrichus Lodha SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 50(2): 197 (1971)
 
 #### Original name
-Arachniotus hyaliotrichus Lodha
+Arachniotus hyalotrichus Lodha
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Cornuella lemnae Setch., 1891 SPECIES
-=======
+# Tracya lemnae (Setch.) Syd. & P. Syd., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 26: 19 (1891)
+null
 
 #### Original name
 Cornuella lemnae Setch., 1891

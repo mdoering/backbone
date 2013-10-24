@@ -1,8 +1,7 @@
-Gluconoacetobacter liquifaciens Asai, 1935 SPECIES
-=======
+# Gluconoacetobacter GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

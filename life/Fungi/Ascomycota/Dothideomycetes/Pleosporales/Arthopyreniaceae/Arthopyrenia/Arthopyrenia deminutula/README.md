@@ -1,5 +1,4 @@
-Arthopyrenia deminutula (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia deminutula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

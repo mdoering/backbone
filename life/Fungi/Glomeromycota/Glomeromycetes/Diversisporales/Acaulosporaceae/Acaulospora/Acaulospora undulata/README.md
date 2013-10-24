@@ -1,5 +1,4 @@
-Acaulospora undulata Sieverd. SPECIES
-=======
+# Acaulospora undulata Sieverd. SPECIES
 
 #### Status
 ACCEPTED

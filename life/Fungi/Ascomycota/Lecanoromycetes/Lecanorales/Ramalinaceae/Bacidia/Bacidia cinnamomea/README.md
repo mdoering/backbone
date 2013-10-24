@@ -1,5 +1,4 @@
-Bacidia cinnamomea (Kremp.) Vain. SPECIES
-=======
+# Bacidia cinnamomea (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

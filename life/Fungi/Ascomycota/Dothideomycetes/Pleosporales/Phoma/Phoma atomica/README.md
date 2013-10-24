@@ -1,5 +1,4 @@
-Phoma atomica Sacc. SPECIES
-=======
+# Phoma atomica Sacc. SPECIES
 
 #### Status
 ACCEPTED

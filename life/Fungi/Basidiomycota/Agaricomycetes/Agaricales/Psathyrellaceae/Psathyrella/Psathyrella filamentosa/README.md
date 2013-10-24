@@ -1,5 +1,4 @@
-Psathyrella filamentosa A.H. Sm. SPECIES
-=======
+# Psathyrella filamentosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

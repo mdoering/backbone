@@ -1,5 +1,4 @@
-Catillaria banksiae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria banksiae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dothidea rhois (Schwein.) Fr., 1823 SPECIES
-=======
+# Phyllachora rhois (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(2): 555 (1823)
+Syll. fung. (Abellini) 2: 609 (1883)
 
 #### Original name
 null

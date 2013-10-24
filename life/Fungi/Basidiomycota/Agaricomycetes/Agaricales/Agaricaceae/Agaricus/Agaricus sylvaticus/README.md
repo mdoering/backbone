@@ -1,5 +1,4 @@
-Agaricus sylvaticus J. Otto SPECIES
-=======
+# Agaricus sylvaticus J. Otto SPECIES
 
 #### Status
 ACCEPTED

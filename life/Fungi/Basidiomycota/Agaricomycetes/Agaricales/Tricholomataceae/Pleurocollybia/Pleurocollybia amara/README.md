@@ -1,5 +1,4 @@
-Pleurocollybia amara (Murrill) Singer ex T.J. Baroni & Bocsusis SPECIES
-=======
+# Pleurocollybia amara (Murrill) Singer ex T.J. Baroni & Bocsusis SPECIES
 
 #### Status
 ACCEPTED

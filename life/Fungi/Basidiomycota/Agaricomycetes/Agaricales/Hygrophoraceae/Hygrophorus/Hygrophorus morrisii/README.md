@@ -1,5 +1,4 @@
-Hygrophorus morrisii Peck SPECIES
-=======
+# Hygrophorus morrisii Peck SPECIES
 
 #### Status
 ACCEPTED

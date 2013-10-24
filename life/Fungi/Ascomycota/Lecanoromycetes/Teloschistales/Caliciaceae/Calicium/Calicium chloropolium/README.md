@@ -1,5 +1,4 @@
-Calicium chloropolium Tuck. SPECIES
-=======
+# Calicium chloropolium Tuck. SPECIES
 
 #### Status
 ACCEPTED

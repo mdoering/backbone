@@ -1,5 +1,4 @@
-Blastenia uberrima (Hue) Zahlbr. SPECIES
-=======
+# Blastenia uberrima (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

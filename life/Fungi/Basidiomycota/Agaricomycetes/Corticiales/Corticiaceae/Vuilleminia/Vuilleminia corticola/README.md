@@ -1,5 +1,4 @@
-Vuilleminia corticola Parmasto, 1965 SPECIES
-=======
+# Vuilleminia corticola Parmasto, 1965 SPECIES
 
 #### Status
 ACCEPTED

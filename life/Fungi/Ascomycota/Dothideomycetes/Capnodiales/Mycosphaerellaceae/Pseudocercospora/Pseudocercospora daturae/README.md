@@ -1,5 +1,4 @@
-Pseudocercospora daturae Chidd. SPECIES
-=======
+# Pseudocercospora daturae Chidd. SPECIES
 
 #### Status
 ACCEPTED

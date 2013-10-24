@@ -1,5 +1,4 @@
-Inocybe avellana P. Kumm. SPECIES
-=======
+# Inocybe avellana P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

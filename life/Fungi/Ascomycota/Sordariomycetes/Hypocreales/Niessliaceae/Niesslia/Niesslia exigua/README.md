@@ -1,14 +1,13 @@
-Eriosphaeria exigua Sacc., 1882 SPECIES
-=======
+# Niesslia exigua (Sacc.) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 597 (1882)
+Annls mycol. 37: 91 (1939)
 
 #### Original name
 Eriosphaeria exigua Sacc., 1882

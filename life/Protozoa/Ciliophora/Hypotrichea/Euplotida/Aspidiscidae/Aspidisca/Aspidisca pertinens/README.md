@@ -1,5 +1,4 @@
-Aspidisca pertinens Bock, 1955 SPECIES
-=======
+# Aspidisca pertinens Bock, 1955 SPECIES
 
 #### Status
 ACCEPTED

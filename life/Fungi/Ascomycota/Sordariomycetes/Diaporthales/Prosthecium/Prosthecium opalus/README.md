@@ -1,5 +1,4 @@
-Prosthecium opalus Voglmayr & Jakl. SPECIES
-=======
+# Prosthecium opalus Voglmayr & Jakl. SPECIES
 
 #### Status
 ACCEPTED

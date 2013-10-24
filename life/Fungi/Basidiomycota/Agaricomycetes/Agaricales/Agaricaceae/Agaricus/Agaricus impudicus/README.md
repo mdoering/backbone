@@ -1,17 +1,16 @@
-Entoloma reaae (Maire) Noordel., 2004 SPECIES
-=======
+# Agaricus impudicus (Rea) Pilát, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 403 (1951)
 
 #### Original name
-null
+Psalliota impudica Rea, 1932
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytosporina myriocarpa Sacc. SPECIES
-=======
+# Cytosporina myriocarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

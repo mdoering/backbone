@@ -1,5 +1,4 @@
-Karamia P.N. Kolosov, 1984 GENUS
-=======
+# Karamia P.N. Kolosov, 1984 GENUS
 
 #### Status
 ACCEPTED

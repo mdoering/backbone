@@ -1,5 +1,4 @@
-Mycosphaerella typhina Ponnappa SPECIES
-=======
+# Mycosphaerella typhina Ponnappa SPECIES
 
 #### Status
 ACCEPTED

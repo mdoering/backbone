@@ -1,8 +1,7 @@
-Rhodomonas amphioxeia W. Conrad SPECIES
-=======
+# Teleaulax amphioxeia (W. Conrad) D. R. A. Hill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

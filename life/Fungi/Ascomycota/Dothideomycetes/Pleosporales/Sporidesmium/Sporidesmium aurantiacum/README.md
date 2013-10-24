@@ -1,5 +1,4 @@
-Sporidesmium aurantiacum Berk. & M.A. Curtis SPECIES
-=======
+# Sporidesmium aurantiacum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

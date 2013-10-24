@@ -1,5 +1,4 @@
-Myzocytiopsidales M.W. Dick ORDER
-=======
+# Myzocytiopsidales M.W. Dick ORDER
 
 #### Status
 ACCEPTED

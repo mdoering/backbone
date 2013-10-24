@@ -1,5 +1,4 @@
-Eowaeringella Skinner & Wilde, 1967 GENUS
-=======
+# Eowaeringella Skinner & Wilde, 1967 GENUS
 
 #### Status
 ACCEPTED

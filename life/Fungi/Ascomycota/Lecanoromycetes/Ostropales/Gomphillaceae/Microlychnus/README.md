@@ -1,5 +1,4 @@
-Microlychnus A. Funk GENUS
-=======
+# Microlychnus A. Funk GENUS
 
 #### Status
 ACCEPTED

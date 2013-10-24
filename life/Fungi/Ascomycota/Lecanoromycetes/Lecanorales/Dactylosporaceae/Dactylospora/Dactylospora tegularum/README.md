@@ -1,14 +1,13 @@
-Karschia tegularum (Arnold) Rehm SPECIES
-=======
+# Dactylospora tegularum (Arnold) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 62: 149 (1979)
 
 #### Original name
 Buellia tegularum Arnold

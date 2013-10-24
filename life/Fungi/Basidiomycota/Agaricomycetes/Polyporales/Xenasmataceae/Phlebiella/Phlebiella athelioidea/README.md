@@ -1,5 +1,4 @@
-Phlebiella athelioidea N. Maek. SPECIES
-=======
+# Phlebiella athelioidea N. Maek. SPECIES
 
 #### Status
 ACCEPTED

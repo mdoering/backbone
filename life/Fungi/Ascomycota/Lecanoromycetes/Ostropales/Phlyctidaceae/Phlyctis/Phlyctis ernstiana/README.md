@@ -1,5 +1,4 @@
-Phlyctis ernstiana Müll. Arg. SPECIES
-=======
+# Phlyctis ernstiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karyorelictida ORDER
-=======
+# Karyorelictida ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subcerata Stizenb. SPECIES
-=======
+# Lecanora subcerata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

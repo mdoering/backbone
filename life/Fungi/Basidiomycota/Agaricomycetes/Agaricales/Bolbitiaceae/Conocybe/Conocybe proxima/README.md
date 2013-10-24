@@ -1,5 +1,4 @@
-Conocybe proxima Singer SPECIES
-=======
+# Conocybe proxima Singer SPECIES
 
 #### Status
 ACCEPTED

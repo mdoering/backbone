@@ -1,5 +1,4 @@
-Neonaviculopsis spinosa (D. Bukry) P. Prema & T. V. Desikachary SPECIES
-=======
+# Neonaviculopsis spinosa (D. Bukry) P. Prema & T. V. Desikachary SPECIES
 
 #### Status
 ACCEPTED

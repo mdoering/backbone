@@ -1,14 +1,13 @@
-Gonionema compactum (C. Agardh) Nyl. SPECIES
-=======
+# Thermutis compacta (C. Agardh) A.L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 66: 104 (1883)
+Monogr. Brit. Lich. 1: 29 (1918)
 
 #### Original name
 Scytonema compactum C. Agardh

@@ -1,5 +1,4 @@
-Samuelsia intermedia P. Chaverri & K.T. Hodge SPECIES
-=======
+# Samuelsia intermedia P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

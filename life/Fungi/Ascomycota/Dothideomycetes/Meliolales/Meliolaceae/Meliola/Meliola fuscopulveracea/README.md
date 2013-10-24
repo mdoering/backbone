@@ -1,5 +1,4 @@
-Meliola fuscopulveracea Toro SPECIES
-=======
+# Meliola fuscopulveracea Toro SPECIES
 
 #### Status
 ACCEPTED

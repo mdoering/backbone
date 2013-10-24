@@ -1,5 +1,4 @@
-Penicillium melanoconidium (Frisvad) Frisvad & Samson, 1994 SPECIES
-=======
+# Penicillium melanoconidium (Frisvad) Frisvad & Samson, 1994 SPECIES
 
 #### Status
 DOUBTFUL

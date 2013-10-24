@@ -1,5 +1,4 @@
-Eutypella confluens var. confluens VARIETY
-=======
+# Eutypella confluens (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella confluens var. confluens
+Valsa confluens Nitschke
 
 ### Remarks
 null

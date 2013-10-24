@@ -1,5 +1,4 @@
-Phacidium plicatum Fr. SPECIES
-=======
+# Phacidium plicatum Fr. SPECIES
 
 #### Status
 ACCEPTED

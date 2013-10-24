@@ -1,5 +1,4 @@
-Flammula amarissima (Murrill) Murrill SPECIES
-=======
+# Flammula amarissima (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

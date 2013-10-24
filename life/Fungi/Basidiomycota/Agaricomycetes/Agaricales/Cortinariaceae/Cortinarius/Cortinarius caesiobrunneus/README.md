@@ -1,5 +1,4 @@
-Cortinarius caesiobrunneus Kytöv., Niskanen & Liimat. SPECIES
-=======
+# Cortinarius caesiobrunneus Kytöv., Niskanen & Liimat. SPECIES
 
 #### Status
 ACCEPTED

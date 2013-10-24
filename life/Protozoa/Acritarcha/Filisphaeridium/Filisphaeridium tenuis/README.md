@@ -1,5 +1,4 @@
-Filisphaeridium tenuis (Playford in Playford & Dring, 1981) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium tenuis (Playford in Playford & Dring, 1981) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

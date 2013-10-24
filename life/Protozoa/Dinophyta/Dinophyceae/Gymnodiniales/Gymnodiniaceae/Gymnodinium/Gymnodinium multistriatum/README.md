@@ -1,5 +1,4 @@
-Gymnodinium multistriatum Kofoid & Swezy SPECIES
-=======
+# Gymnodinium multistriatum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

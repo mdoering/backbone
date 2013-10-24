@@ -1,5 +1,4 @@
-Pleospora erythrinae Ces. SPECIES
-=======
+# Pleospora erythrinae Ces. SPECIES
 
 #### Status
 ACCEPTED

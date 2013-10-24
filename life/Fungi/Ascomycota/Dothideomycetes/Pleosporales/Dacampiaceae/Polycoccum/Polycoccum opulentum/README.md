@@ -1,8 +1,7 @@
-Discothecium opulentum (Th. Fr.) Vouaux SPECIES
-=======
+# Polycoccum opulentum (Th. Fr.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

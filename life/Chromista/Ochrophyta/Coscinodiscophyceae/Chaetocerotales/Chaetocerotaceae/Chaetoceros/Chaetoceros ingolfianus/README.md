@@ -1,5 +1,4 @@
-Chaetoceros ingolfianus Ostenfeld, 1902 SPECIES
-=======
+# Chaetoceros ingolfianus Ostenfeld, 1902 SPECIES
 
 #### Status
 ACCEPTED

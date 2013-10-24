@@ -1,5 +1,4 @@
-Mycosphaerella caricis (Dearn. & House) Petr. & Syd. SPECIES
-=======
+# Mycosphaerella caricis (Dearn. & House) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

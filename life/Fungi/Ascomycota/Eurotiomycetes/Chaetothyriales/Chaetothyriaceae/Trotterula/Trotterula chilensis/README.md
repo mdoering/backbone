@@ -1,5 +1,4 @@
-Trotterula chilensis Speg. SPECIES
-=======
+# Trotterula chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

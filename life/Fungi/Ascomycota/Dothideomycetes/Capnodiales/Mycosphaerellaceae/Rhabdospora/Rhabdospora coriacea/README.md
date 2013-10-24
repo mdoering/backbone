@@ -1,5 +1,4 @@
-Rhabdospora coriacea Bubák SPECIES
-=======
+# Rhabdospora coriacea Bubák SPECIES
 
 #### Status
 ACCEPTED

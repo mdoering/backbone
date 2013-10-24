@@ -1,5 +1,4 @@
-Caeoma aegirinon Schltdl. SPECIES
-=======
+# Caeoma aegirinon Schltdl. SPECIES
 
 #### Status
 ACCEPTED

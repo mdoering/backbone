@@ -1,5 +1,4 @@
-Corticium maculaeforme (Fr.) Fr. SPECIES
-=======
+# Corticium maculaeforme (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

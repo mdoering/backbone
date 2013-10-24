@@ -1,5 +1,4 @@
-Cortinarius subarcheri Cleland, 1928 SPECIES
-=======
+# Cortinarius subarcheri Cleland, 1928 SPECIES
 
 #### Status
 ACCEPTED

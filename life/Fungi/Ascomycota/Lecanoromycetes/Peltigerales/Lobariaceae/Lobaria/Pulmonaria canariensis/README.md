@@ -1,5 +1,4 @@
-Pulmonaria canariensis Bory SPECIES
-=======
+# Pulmonaria canariensis Bory SPECIES
 
 #### Status
 ACCEPTED

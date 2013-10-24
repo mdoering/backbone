@@ -1,5 +1,4 @@
-Mamianiella yukawana (I. Hino & Katum.) M. Monod SPECIES
-=======
+# Mamianiella yukawana (I. Hino & Katum.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

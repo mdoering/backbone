@@ -1,5 +1,4 @@
-Arthonia velata Stirt. SPECIES
-=======
+# Arthonia velata Stirt. SPECIES
 
 #### Status
 ACCEPTED

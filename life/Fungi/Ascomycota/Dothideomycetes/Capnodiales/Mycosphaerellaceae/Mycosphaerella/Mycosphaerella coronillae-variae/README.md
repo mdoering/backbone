@@ -1,5 +1,4 @@
-Mycosphaerella coronillae-variae Petr. SPECIES
-=======
+# Mycosphaerella coronillae-variae Petr. SPECIES
 
 #### Status
 ACCEPTED

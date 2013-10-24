@@ -1,5 +1,4 @@
-Bertia quercicola Mouton SPECIES
-=======
+# Bertia quercicola Mouton SPECIES
 
 #### Status
 ACCEPTED

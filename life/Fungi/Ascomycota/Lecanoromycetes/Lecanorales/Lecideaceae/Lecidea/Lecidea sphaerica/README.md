@@ -1,5 +1,4 @@
-Lecidea sphaerica Schaer. SPECIES
-=======
+# Lecidea sphaerica Schaer. SPECIES
 
 #### Status
 ACCEPTED

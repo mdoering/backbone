@@ -1,5 +1,4 @@
-Cystangium depauperatum Singer & A.H. Sm., 1960 SPECIES
-=======
+# Cystangium depauperatum Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
 ACCEPTED

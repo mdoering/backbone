@@ -1,5 +1,4 @@
-Sphaeria cichorii Kirchn. SPECIES
-=======
+# Sphaeria cichorii Kirchn. SPECIES
 
 #### Status
 ACCEPTED

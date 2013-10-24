@@ -1,5 +1,4 @@
-Amanita valens (E.-J. Gilbert) Bertault SPECIES
-=======
+# Amanita valens (E.-J. Gilbert) Bertault SPECIES
 
 #### Status
 ACCEPTED

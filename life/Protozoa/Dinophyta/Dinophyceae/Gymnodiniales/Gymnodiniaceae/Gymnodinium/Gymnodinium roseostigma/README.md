@@ -1,5 +1,4 @@
-Gymnodinium roseostigma Campbell SPECIES
-=======
+# Gymnodinium roseostigma Campbell SPECIES
 
 #### Status
 ACCEPTED

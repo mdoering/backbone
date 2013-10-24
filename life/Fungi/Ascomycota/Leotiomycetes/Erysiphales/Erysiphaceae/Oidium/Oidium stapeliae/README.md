@@ -1,5 +1,4 @@
-Oidium stapeliae (Picb.) U. Braun SPECIES
-=======
+# Oidium stapeliae (Picb.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia schafeevii (Tomin) Poelt SPECIES
-=======
+# Aspicilia schafeevii (Tomin) Poelt SPECIES
 
 #### Status
 ACCEPTED

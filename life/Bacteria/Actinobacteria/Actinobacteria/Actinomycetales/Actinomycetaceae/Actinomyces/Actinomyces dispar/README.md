@@ -1,5 +1,4 @@
-Actinomyces dispar (Vidal {?} ) Brumpt SPECIES
-=======
+# Actinomyces dispar (Vidal {?} ) Brumpt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania schastensis SPECIES
-=======
+# Lecania schastensis SPECIES
 
 #### Status
 ACCEPTED

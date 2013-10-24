@@ -1,5 +1,4 @@
-Omphalia bipindeensis Henn. SPECIES
-=======
+# Omphalia bipindeensis Henn. SPECIES
 
 #### Status
 ACCEPTED

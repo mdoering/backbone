@@ -1,5 +1,4 @@
-Eucecryphalus tricostatus (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Eucecryphalus tricostatus (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

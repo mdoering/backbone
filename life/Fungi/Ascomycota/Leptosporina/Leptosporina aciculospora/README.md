@@ -1,5 +1,4 @@
-Leptosporina aciculospora Chardón SPECIES
-=======
+# Leptosporina aciculospora Chardón SPECIES
 
 #### Status
 ACCEPTED

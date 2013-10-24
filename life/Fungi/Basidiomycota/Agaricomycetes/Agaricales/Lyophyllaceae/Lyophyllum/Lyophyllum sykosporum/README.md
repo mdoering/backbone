@@ -1,5 +1,4 @@
-Lyophyllum sykosporum Hongo & Clémençon SPECIES
-=======
+# Lyophyllum sykosporum Hongo & Clémençon SPECIES
 
 #### Status
 ACCEPTED

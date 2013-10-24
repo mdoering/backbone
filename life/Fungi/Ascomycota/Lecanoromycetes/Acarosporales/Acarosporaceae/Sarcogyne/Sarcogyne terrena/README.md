@@ -1,5 +1,4 @@
-Sarcogyne terrena (H. Magn.) H. Magn. SPECIES
-=======
+# Sarcogyne terrena (H. Magn.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

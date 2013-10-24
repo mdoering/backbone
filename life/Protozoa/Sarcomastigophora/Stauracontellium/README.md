@@ -1,5 +1,4 @@
-Stauracontellium Haeckel, 1887 GENUS
-=======
+# Stauracontellium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

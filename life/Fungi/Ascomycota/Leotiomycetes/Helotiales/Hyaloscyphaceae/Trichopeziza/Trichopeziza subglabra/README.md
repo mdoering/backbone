@@ -1,5 +1,4 @@
-Trichopeziza subglabra (Rehm) Sacc. SPECIES
-=======
+# Trichopeziza subglabra (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

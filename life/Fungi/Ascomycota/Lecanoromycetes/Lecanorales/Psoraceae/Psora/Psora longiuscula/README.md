@@ -1,5 +1,4 @@
-Psora longiuscula (Nyl.) Müll. Arg. SPECIES
-=======
+# Psora longiuscula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

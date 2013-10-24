@@ -1,5 +1,4 @@
-Septoria bacilligera G. Winter SPECIES
-=======
+# Septoria bacilligera G. Winter SPECIES
 
 #### Status
 ACCEPTED

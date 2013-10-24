@@ -1,5 +1,4 @@
-Acanthocircus simplex SPECIES
-=======
+# Acanthocircus simplex SPECIES
 
 #### Status
 ACCEPTED

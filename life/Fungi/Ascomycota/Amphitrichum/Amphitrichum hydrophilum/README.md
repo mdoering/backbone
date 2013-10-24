@@ -1,5 +1,4 @@
-Amphitrichum hydrophilum (Mouton) Kuntze SPECIES
-=======
+# Amphitrichum hydrophilum (Mouton) Kuntze SPECIES
 
 #### Status
 ACCEPTED

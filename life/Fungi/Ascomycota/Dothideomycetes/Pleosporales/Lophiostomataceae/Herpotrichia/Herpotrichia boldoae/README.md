@@ -1,5 +1,4 @@
-Herpotrichia boldoae Speg. SPECIES
-=======
+# Herpotrichia boldoae Speg. SPECIES
 
 #### Status
 ACCEPTED

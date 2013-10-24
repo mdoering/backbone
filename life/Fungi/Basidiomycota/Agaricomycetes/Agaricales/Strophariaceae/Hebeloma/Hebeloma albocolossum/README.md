@@ -1,5 +1,4 @@
-Hebeloma albocolossum M.M. Moser SPECIES
-=======
+# Hebeloma albocolossum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

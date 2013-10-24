@@ -1,5 +1,4 @@
-Oxydothis wallichianensis Hidayat, To-Anun & K.D. Hyde SPECIES
-=======
+# Oxydothis wallichianensis Hidayat, To-Anun & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

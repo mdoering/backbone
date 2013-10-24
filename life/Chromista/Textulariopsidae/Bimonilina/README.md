@@ -1,5 +1,4 @@
-Bimonilina Eicher, 1960 GENUS
-=======
+# Bimonilina Eicher, 1960 GENUS
 
 #### Status
 ACCEPTED

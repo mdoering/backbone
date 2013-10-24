@@ -1,5 +1,4 @@
-Dimerosporiella amomi (Berk. & Broome) Höhn. SPECIES
-=======
+# Dimerosporiella amomi (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

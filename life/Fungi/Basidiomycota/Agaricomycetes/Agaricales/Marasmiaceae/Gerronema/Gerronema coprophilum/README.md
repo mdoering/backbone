@@ -1,14 +1,13 @@
-Gerronema coprophila (Speg.) Raithelh. SPECIES
-=======
+# Gerronema coprophilum (Speg.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana, Sonderheft 2: 4 (1983)
 
 #### Original name
 Clitocybe coprophila Speg.

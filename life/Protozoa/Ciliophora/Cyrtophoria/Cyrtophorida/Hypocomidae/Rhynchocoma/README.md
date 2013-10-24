@@ -1,5 +1,4 @@
-Rhynchocoma Jankowski, 1975 GENUS
-=======
+# Rhynchocoma Jankowski, 1975 GENUS
 
 #### Status
 ACCEPTED

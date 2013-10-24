@@ -1,5 +1,4 @@
-Panus microspermus (Speg.) Singer SPECIES
-=======
+# Panus microspermus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

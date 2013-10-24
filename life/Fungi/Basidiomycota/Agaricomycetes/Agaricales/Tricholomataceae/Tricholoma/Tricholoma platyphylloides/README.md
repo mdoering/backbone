@@ -1,5 +1,4 @@
-Tricholoma platyphylloides (Murrill) Murrill SPECIES
-=======
+# Tricholoma platyphylloides (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodiscula cudraniae Petch SPECIES
-=======
+# Phaeodiscula cudraniae Petch SPECIES
 
 #### Status
 ACCEPTED

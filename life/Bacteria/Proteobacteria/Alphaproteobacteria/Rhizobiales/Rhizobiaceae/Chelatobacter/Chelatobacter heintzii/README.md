@@ -1,5 +1,4 @@
-Chelatobacter heintzii Auling et al., 1993 SPECIES
-=======
+# Chelatobacter heintzii Auling et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

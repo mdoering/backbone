@@ -1,5 +1,4 @@
-Baltisphaeridium digitiforme Górka, 1969 SPECIES
-=======
+# Baltisphaeridium digitiforme Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

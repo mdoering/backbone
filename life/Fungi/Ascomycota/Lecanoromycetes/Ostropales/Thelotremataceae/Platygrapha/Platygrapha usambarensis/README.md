@@ -1,5 +1,4 @@
-Platygrapha usambarensis Müll. Arg. SPECIES
-=======
+# Platygrapha usambarensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Minimelanolocus curvisporus Heredia, R.M. Arias & M. Reyes, 2001 SPECIES
-=======
+# Minimelanolocus curvisporus Heredia, R.M. Arias & M. Reyes, 2001 SPECIES
 
 #### Status
 ACCEPTED

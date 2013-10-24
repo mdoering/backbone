@@ -1,5 +1,4 @@
-Lecanora zahlbruckneriana Servít SPECIES
-=======
+# Lecanora zahlbruckneriana Servít SPECIES
 
 #### Status
 ACCEPTED

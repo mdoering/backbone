@@ -1,5 +1,4 @@
-Intoshellina Cépède, 1910 GENUS
-=======
+# Intoshellina Cépède, 1910 GENUS
 
 #### Status
 ACCEPTED

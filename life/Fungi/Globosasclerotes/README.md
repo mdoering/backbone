@@ -1,5 +1,4 @@
-Globosasclerotes Stach & Pickh. GENUS
-=======
+# Globosasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linderiella bicolumnata (Kusano) G. Cunn. SPECIES
-=======
+# Linderiella bicolumnata (Kusano) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

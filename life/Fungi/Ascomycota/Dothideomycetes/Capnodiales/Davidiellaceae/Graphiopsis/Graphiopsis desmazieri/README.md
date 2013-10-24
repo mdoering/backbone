@@ -1,5 +1,4 @@
-Graphiopsis desmazieri (Sacc.) Höhn. SPECIES
-=======
+# Graphiopsis desmazieri (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

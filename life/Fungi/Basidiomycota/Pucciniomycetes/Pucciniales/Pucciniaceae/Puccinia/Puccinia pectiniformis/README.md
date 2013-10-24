@@ -1,5 +1,4 @@
-Puccinia pectiniformis T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Puccinia pectiniformis T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

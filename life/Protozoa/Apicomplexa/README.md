@@ -1,5 +1,4 @@
-Apicomplexa PHYLUM
-=======
+# Apicomplexa PHYLUM
 
 #### Status
 ACCEPTED

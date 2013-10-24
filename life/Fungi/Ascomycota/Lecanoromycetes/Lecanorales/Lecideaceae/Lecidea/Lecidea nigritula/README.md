@@ -1,5 +1,4 @@
-Lecidea nigritula Nyl. SPECIES
-=======
+# Lecidea nigritula Nyl. SPECIES
 
 #### Status
 ACCEPTED

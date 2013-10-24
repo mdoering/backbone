@@ -1,5 +1,4 @@
-Enterographa follmannii C.W. Dodge SPECIES
-=======
+# Enterographa follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

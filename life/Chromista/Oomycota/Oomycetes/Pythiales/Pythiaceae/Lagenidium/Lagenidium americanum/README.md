@@ -1,5 +1,4 @@
-Lagenidium americanum G.F. Atk. SPECIES
-=======
+# Lagenidium americanum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

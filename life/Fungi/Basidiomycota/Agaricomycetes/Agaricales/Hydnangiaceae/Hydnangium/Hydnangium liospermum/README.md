@@ -1,5 +1,4 @@
-Hydnangium liospermum Tul. & C. Tul. SPECIES
-=======
+# Hydnangium liospermum Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

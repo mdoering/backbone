@@ -1,5 +1,4 @@
-Chapsa platycarpella (Vain.) Frisch SPECIES
-=======
+# Chapsa platycarpella (Vain.) Frisch SPECIES
 
 #### Status
 ACCEPTED

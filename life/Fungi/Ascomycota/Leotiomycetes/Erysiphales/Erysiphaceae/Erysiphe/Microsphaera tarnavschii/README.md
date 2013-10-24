@@ -1,5 +1,4 @@
-Microsphaera tarnavschii Eliade SPECIES
-=======
+# Microsphaera tarnavschii Eliade SPECIES
 
 #### Status
 ACCEPTED

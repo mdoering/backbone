@@ -1,5 +1,4 @@
-Pleospora logani Gucevic SPECIES
-=======
+# Pleospora logani Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon semireticulatus A.H. Sm., 1966 SPECIES
-=======
+# Rhizopogon semireticulatus A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis radiatoramosa Redinger SPECIES
-=======
+# Phaeographis radiatoramosa Redinger SPECIES
 
 #### Status
 ACCEPTED

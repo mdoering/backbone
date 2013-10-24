@@ -1,5 +1,4 @@
-Lophomerum darkeri Ouell., 1966 SPECIES
-=======
+# Lophomerum darkeri Ouell., 1966 SPECIES
 
 #### Status
 ACCEPTED

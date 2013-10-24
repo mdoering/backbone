@@ -1,5 +1,4 @@
-Halanaerobium saccharolyticum subsp. saccharolyticum SUBSPECIES
-=======
+# Halanaerobium saccharolyticum (Zhilina et al., 1992) Rainey et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

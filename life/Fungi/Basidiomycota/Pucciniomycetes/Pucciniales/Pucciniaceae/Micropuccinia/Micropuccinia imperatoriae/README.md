@@ -1,5 +1,4 @@
-Micropuccinia imperatoriae (Jacky) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia imperatoriae (Jacky) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

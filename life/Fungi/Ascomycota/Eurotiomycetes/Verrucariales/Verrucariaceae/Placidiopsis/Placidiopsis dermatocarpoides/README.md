@@ -1,5 +1,4 @@
-Placidiopsis dermatocarpoides Anzi SPECIES
-=======
+# Placidiopsis dermatocarpoides Anzi SPECIES
 
 #### Status
 ACCEPTED

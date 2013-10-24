@@ -1,5 +1,4 @@
-Boletus spretus Bertéa SPECIES
-=======
+# Boletus spretus Bertéa SPECIES
 
 #### Status
 ACCEPTED

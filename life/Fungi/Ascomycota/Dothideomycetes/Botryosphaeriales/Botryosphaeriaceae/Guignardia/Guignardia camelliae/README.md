@@ -1,14 +1,13 @@
-Sphaerella camilleae Cooke SPECIES
-=======
+# Guignardia camelliae (Cooke) E.J. Butler ex Petch, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi of India 62 (1923)
 
 #### Original name
 Sphaerella camilleae Cooke

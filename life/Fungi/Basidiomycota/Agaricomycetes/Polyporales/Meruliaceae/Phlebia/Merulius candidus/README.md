@@ -1,5 +1,4 @@
-Merulius candidus Lloyd SPECIES
-=======
+# Merulius candidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

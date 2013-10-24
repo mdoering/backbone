@@ -1,5 +1,4 @@
-Vermilacinia johncassadyi Spjut SPECIES
-=======
+# Vermilacinia johncassadyi Spjut SPECIES
 
 #### Status
 ACCEPTED

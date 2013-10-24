@@ -1,8 +1,7 @@
-Enerthenema papillatum syncarpon (Sturgis) G. Lister, 1925 INFRASPECIFIC_NAME
-=======
+# Enerthenema berkeleyanum Rostaf., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

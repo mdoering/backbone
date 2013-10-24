@@ -1,5 +1,4 @@
-Parmelia protosignifera Elix & J. Johnst. SPECIES
-=======
+# Parmelia protosignifera Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

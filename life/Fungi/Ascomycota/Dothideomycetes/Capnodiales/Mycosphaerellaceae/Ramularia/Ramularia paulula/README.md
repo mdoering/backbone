@@ -1,5 +1,4 @@
-Ramularia paulula Davis SPECIES
-=======
+# Ramularia paulula Davis SPECIES
 
 #### Status
 ACCEPTED

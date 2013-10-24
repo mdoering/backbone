@@ -1,14 +1,13 @@
-Phyllachora haydenii (Berk. & M.A. Curtis) Dearn., 1919 SPECIES
-=======
+# Guignardia haydenii (Berk. & M.A. Curtis) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Y. St. Mus. 205-206: 55 (1919)
+Beitr. Kryptfl. Schweiz 11(no. 1): 53 (1954)
 
 #### Original name
 Dothidea haydenii Berk. & M.A. Curtis, 1876

@@ -1,5 +1,4 @@
-Sphaeria ceratotheca Cooke SPECIES
-=======
+# Sphaeria ceratotheca Cooke SPECIES
 
 #### Status
 ACCEPTED

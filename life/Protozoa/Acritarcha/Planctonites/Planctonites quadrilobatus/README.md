@@ -1,5 +1,4 @@
-Planctonites quadrilobatus Krutzsch & Vanhoorne, 1977 SPECIES
-=======
+# Planctonites quadrilobatus Krutzsch & Vanhoorne, 1977 SPECIES
 
 #### Status
 ACCEPTED

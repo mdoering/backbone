@@ -1,5 +1,4 @@
-Sargassum maclurei Setchell SPECIES
-=======
+# Sargassum maclurei Setchell SPECIES
 
 #### Status
 ACCEPTED

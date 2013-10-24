@@ -1,5 +1,4 @@
-Penicillium citreosulfuratum Biourge SPECIES
-=======
+# Penicillium citreosulfuratum Biourge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephrospyris paradictyum Kaeckel SPECIES
-=======
+# Nephrospyris paradictyum Kaeckel SPECIES
 
 #### Status
 ACCEPTED

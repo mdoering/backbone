@@ -1,5 +1,4 @@
-Chlorogloea tuberculosa f. maior Ardré FORM
-=======
+# Chlorogloea tuberculosa (Hansgirg) Wille SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archephoma Watanabe, H. Nishida & Kobayashi GENUS
-=======
+# Archephoma Watanabe, H. Nishida & Kobayashi GENUS
 
 #### Status
 ACCEPTED

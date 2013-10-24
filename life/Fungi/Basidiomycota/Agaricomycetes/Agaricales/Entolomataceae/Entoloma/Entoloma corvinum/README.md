@@ -1,14 +1,13 @@
-Leptonia corvina (Kühner) P.D. Orton, 1960 SPECIES
-=======
+# Entoloma corvinum (Kühner) Noordel., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 177 (1960)
+Nordic Jl Bot. 2(2): 162 (1982)
 
 #### Original name
 Rhodophyllus corvinus Kühner, 1954

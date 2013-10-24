@@ -1,5 +1,4 @@
-Boletus pseudosensibilis A.H. Sm. & Thiers SPECIES
-=======
+# Boletus pseudosensibilis A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

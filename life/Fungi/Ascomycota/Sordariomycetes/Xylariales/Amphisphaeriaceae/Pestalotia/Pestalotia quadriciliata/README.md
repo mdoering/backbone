@@ -1,5 +1,4 @@
-Pestalotia quadriciliata Bubák & Dearn. SPECIES
-=======
+# Pestalotia quadriciliata Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

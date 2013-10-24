@@ -1,5 +1,4 @@
-Trypethelium aureomaculatum (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium aureomaculatum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma quercus (F. Lamb.) Sacc. SPECIES
-=======
+# Phoma quercus (F. Lamb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

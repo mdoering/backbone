@@ -1,5 +1,4 @@
-Parajoenia Janicki GENUS
-=======
+# Parajoenia Janicki GENUS
 
 #### Status
 ACCEPTED

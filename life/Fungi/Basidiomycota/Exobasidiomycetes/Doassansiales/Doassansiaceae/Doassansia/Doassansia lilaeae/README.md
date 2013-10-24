@@ -1,5 +1,4 @@
-Doassansia lilaeae Henn. SPECIES
-=======
+# Doassansia lilaeae Henn. SPECIES
 
 #### Status
 ACCEPTED

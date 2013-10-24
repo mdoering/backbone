@@ -1,5 +1,4 @@
-Pleurophragmium angamosense Matsush. SPECIES
-=======
+# Pleurophragmium angamosense Matsush. SPECIES
 
 #### Status
 ACCEPTED

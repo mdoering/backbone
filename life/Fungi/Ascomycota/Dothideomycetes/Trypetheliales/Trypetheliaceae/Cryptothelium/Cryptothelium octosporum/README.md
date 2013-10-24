@@ -1,5 +1,4 @@
-Cryptothelium octosporum (Vain.) Zahlbr. SPECIES
-=======
+# Cryptothelium octosporum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

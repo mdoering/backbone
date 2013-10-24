@@ -1,5 +1,4 @@
-Protoparmelia capitata Lendemer SPECIES
-=======
+# Protoparmelia capitata Lendemer SPECIES
 
 #### Status
 ACCEPTED

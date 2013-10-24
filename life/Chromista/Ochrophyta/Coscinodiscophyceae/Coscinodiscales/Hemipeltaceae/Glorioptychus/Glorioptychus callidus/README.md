@@ -1,5 +1,4 @@
-Glorioptychus callidus Hanna SPECIES
-=======
+# Glorioptychus callidus Hanna SPECIES
 
 #### Status
 ACCEPTED

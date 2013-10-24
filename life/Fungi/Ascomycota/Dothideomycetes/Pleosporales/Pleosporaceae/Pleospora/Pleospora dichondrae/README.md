@@ -1,5 +1,4 @@
-Pleospora dichondrae Frisullo & U. Braun, 1996 SPECIES
-=======
+# Pleospora dichondrae Frisullo & U. Braun, 1996 SPECIES
 
 #### Status
 ACCEPTED

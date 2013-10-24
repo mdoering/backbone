@@ -1,5 +1,4 @@
-Protoleiosphaeridium cellulare Ilchenko, 1966 SPECIES
-=======
+# Protoleiosphaeridium cellulare Ilchenko, 1966 SPECIES
 
 #### Status
 ACCEPTED

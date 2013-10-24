@@ -1,17 +1,16 @@
-Thielavia minuta var. minuta (Cain) Malloch & Cain VARIETY
-=======
+# Thielavia minuta (Cain) Malloch & Cain, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 65(5): 1066 (1973)
 
 #### Original name
-Thielavia minuta var. minuta (Cain) Malloch & Cain
+Thielavia minuta (Cain) Malloch & Cain, 1973
 
 ### Remarks
 null

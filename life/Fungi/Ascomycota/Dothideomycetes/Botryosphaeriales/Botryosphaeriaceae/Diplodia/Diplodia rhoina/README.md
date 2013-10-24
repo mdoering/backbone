@@ -1,5 +1,4 @@
-Diplodia rhoina Cooke & Harkn. SPECIES
-=======
+# Diplodia rhoina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placynthium rudetum (Ach.) Zahlbr. SPECIES
-=======
+# Placynthium rudetum (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

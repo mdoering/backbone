@@ -1,5 +1,4 @@
-Gymnopilus crassitunicatus Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus crassitunicatus Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

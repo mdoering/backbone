@@ -1,5 +1,4 @@
-Entyloma ranunculi-scelerati Kochman SPECIES
-=======
+# Entyloma ranunculi-scelerati Kochman SPECIES
 
 #### Status
 ACCEPTED

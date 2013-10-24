@@ -1,5 +1,4 @@
-Aecidium mariani-raciborskii Siemaszko SPECIES
-=======
+# Aecidium mariani-raciborskii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

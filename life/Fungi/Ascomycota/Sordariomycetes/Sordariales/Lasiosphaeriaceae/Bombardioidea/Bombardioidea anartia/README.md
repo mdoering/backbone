@@ -1,5 +1,4 @@
-Bombardioidea anartia J.C. Krug & J.A. Scott, 1994 SPECIES
-=======
+# Bombardioidea anartia J.C. Krug & J.A. Scott, 1994 SPECIES
 
 #### Status
 ACCEPTED

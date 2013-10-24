@@ -1,5 +1,4 @@
-Flosculomyces floridaensis B. Sutton, 1978 SPECIES
-=======
+# Flosculomyces floridaensis B. Sutton, 1978 SPECIES
 
 #### Status
 ACCEPTED

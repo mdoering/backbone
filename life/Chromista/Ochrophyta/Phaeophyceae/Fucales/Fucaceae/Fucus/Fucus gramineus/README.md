@@ -1,5 +1,4 @@
-Fucus gramineus A. P. de Candolle SPECIES
-=======
+# Fucus gramineus A. P. de Candolle SPECIES
 
 #### Status
 ACCEPTED

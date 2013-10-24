@@ -1,5 +1,4 @@
-Melanoleuca edura (Banning & Peck) Murrill SPECIES
-=======
+# Melanoleuca edura (Banning & Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

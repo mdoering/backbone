@@ -1,5 +1,4 @@
-Spheconisca luctuosa Norman SPECIES
-=======
+# Spheconisca luctuosa Norman SPECIES
 
 #### Status
 ACCEPTED

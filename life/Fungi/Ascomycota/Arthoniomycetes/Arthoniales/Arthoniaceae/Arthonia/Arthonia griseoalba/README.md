@@ -1,5 +1,4 @@
-Arthonia griseoalba Anzi SPECIES
-=======
+# Arthonia griseoalba Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea sinhgadensis S.D. Patil, Ranade & R.L. Mishra {?} SPECIES
-=======
+# Licea sinhgadensis S.D. Patil, Ranade & R.L. Mishra {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia decurrens Velen. SPECIES
-=======
+# Omphalia decurrens Velen. SPECIES
 
 #### Status
 ACCEPTED

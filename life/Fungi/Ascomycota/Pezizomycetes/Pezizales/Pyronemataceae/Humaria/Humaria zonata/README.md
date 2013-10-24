@@ -1,5 +1,4 @@
-Humaria zonata Velen. SPECIES
-=======
+# Humaria zonata Velen. SPECIES
 
 #### Status
 ACCEPTED

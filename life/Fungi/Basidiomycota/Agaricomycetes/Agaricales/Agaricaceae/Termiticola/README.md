@@ -1,5 +1,4 @@
-Termiticola E. Horak GENUS
-=======
+# Termiticola E. Horak GENUS
 
 #### Status
 ACCEPTED

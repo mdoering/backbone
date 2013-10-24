@@ -1,5 +1,4 @@
-Ustilago panici-proliferi Henn. SPECIES
-=======
+# Ustilago panici-proliferi Henn. SPECIES
 
 #### Status
 ACCEPTED

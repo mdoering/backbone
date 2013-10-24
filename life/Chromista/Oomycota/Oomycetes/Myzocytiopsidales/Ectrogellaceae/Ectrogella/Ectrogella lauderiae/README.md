@@ -1,5 +1,4 @@
-Ectrogella lauderiae (Gran) Scherff. SPECIES
-=======
+# Ectrogella lauderiae (Gran) Scherff. SPECIES
 
 #### Status
 ACCEPTED

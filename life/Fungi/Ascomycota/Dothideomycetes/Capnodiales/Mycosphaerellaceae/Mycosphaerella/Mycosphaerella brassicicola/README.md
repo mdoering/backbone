@@ -1,14 +1,13 @@
-Sphaerella brassicicola (Duby) Ces. & De Not., 1863 SPECIES
-=======
+# Mycosphaerella brassicicola (Duby) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 424 (1897)
 
 #### Original name
 Sphaeria brassicicola Duby, 1830

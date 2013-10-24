@@ -1,17 +1,16 @@
-Aulographum vagum f. vagum FORM
-=======
+# Aulographum hederae Lib., 1834 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Crypt. Ard. exs. 3: no. 272 (1834)
 
 #### Original name
-Aulographum vagum f. vagum
+Aulographum hederae Lib., 1834
 
 ### Remarks
 null

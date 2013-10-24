@@ -1,5 +1,4 @@
-Oospora pullorum Jungherr SPECIES
-=======
+# Oospora pullorum Jungherr SPECIES
 
 #### Status
 ACCEPTED

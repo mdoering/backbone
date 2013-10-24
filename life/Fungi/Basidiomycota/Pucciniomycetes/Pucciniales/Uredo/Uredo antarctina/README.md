@@ -1,5 +1,4 @@
-Uredo antarctina (Berk.) Sacc. SPECIES
-=======
+# Uredo antarctina (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

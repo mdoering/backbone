@@ -1,5 +1,4 @@
-Eladia striatispora Matsush., 1971 SPECIES
-=======
+# Eladia striatispora Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea montauvertiana Croz. SPECIES
-=======
+# Lecidea montauvertiana Croz. SPECIES
 
 #### Status
 ACCEPTED

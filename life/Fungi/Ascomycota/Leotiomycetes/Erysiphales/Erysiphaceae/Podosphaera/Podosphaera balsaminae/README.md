@@ -1,5 +1,4 @@
-Podosphaera balsaminae (Wallr.) U. Braun & S. Takam., 2000 SPECIES
-=======
+# Podosphaera balsaminae (Wallr.) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma petuniae Speg. SPECIES
-=======
+# Entyloma petuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

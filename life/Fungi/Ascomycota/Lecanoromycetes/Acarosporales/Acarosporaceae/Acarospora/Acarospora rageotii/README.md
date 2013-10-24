@@ -1,8 +1,7 @@
-Acarospora rageoti Maheu & Werner SPECIES
-=======
+# Acarospora rageotii Maheu & Werner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora rageoti Maheu & Werner
+Acarospora rageotii Maheu & Werner
 
 ### Remarks
 null

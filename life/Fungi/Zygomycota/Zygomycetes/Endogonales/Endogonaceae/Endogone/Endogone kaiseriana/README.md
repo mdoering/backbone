@@ -1,5 +1,4 @@
-Endogone kaiseriana Henn. SPECIES
-=======
+# Endogone kaiseriana Henn. SPECIES
 
 #### Status
 ACCEPTED

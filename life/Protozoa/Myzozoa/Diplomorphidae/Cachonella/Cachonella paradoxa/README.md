@@ -1,5 +1,4 @@
-Cachonella paradoxa (Rose & Cachon, 1951) SPECIES
-=======
+# Cachonella paradoxa (Rose & Cachon, 1951) SPECIES
 
 #### Status
 ACCEPTED

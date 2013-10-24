@@ -1,5 +1,4 @@
-Xenorhabditis GENUS
-=======
+# Xenorhabditis GENUS
 
 #### Status
 ACCEPTED

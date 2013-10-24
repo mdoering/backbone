@@ -1,8 +1,7 @@
-Theocalyptra bicornis (Popofsky, 1908) SPECIES
-=======
+# Cycladophora bicornis (Popofsky) Lombari & Lazarus, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

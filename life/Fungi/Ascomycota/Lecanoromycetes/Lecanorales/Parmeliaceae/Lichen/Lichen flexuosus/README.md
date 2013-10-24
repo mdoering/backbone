@@ -1,5 +1,4 @@
-Lichen flexuosus Pers. SPECIES
-=======
+# Lichen flexuosus Pers. SPECIES
 
 #### Status
 ACCEPTED

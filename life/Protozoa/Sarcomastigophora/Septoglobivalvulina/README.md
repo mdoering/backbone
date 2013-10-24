@@ -1,5 +1,4 @@
-Septoglobivalvulina Lin, 1978 GENUS
-=======
+# Septoglobivalvulina Lin, 1978 GENUS
 
 #### Status
 ACCEPTED

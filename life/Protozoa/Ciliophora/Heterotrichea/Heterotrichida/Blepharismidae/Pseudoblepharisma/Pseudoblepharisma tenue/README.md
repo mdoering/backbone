@@ -1,5 +1,4 @@
-Pseudoblepharisma tenue subsp. tenue Kahl, 1927 SUBSPECIES
-=======
+# Pseudoblepharisma tenue (Kahl, 1926) Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

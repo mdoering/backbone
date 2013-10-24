@@ -1,5 +1,4 @@
-Distocercospora N. Pons & B. Sutton GENUS
-=======
+# Distocercospora N. Pons & B. Sutton GENUS
 
 #### Status
 ACCEPTED

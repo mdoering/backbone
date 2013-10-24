@@ -1,5 +1,4 @@
-Stilbospora nigra P. Karst. SPECIES
-=======
+# Stilbospora nigra P. Karst. SPECIES
 
 #### Status
 ACCEPTED

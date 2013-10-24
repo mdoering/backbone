@@ -1,5 +1,4 @@
-Endochytrium operculatum (De Wild.) Karling, 1937 SPECIES
-=======
+# Endochytrium operculatum (De Wild.) Karling, 1937 SPECIES
 
 #### Status
 ACCEPTED

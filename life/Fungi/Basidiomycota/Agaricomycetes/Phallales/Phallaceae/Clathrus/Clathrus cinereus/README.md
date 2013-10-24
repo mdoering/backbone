@@ -1,5 +1,4 @@
-Clathrus cinereus L. SPECIES
-=======
+# Clathrus cinereus L. SPECIES
 
 #### Status
 ACCEPTED

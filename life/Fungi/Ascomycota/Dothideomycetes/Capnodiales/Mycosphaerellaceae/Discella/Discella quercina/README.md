@@ -1,5 +1,4 @@
-Discella quercina (G. Winter) Arx SPECIES
-=======
+# Discella quercina (G. Winter) Arx SPECIES
 
 #### Status
 ACCEPTED

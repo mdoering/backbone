@@ -1,5 +1,4 @@
-Meliola carludovicae Hansf. SPECIES
-=======
+# Meliola carludovicae Hansf. SPECIES
 
 #### Status
 ACCEPTED

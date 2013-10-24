@@ -1,5 +1,4 @@
-Spirulina flavovirens Wislouch SPECIES
-=======
+# Spirulina flavovirens Wislouch SPECIES
 
 #### Status
 ACCEPTED

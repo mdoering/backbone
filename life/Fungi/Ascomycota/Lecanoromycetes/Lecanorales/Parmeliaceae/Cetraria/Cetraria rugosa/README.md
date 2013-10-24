@@ -1,5 +1,4 @@
-Cetraria rugosa (Asahina) M. Satô SPECIES
-=======
+# Cetraria rugosa (Asahina) M. Satô SPECIES
 
 #### Status
 ACCEPTED

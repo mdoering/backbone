@@ -1,5 +1,4 @@
-Punctelia cedrosensis Egan & Elix SPECIES
-=======
+# Punctelia cedrosensis Egan & Elix SPECIES
 
 #### Status
 ACCEPTED

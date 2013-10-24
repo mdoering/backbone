@@ -1,5 +1,4 @@
-Buellia glaucomarioides Willey ex Tuck. SPECIES
-=======
+# Buellia glaucomarioides Willey ex Tuck. SPECIES
 
 #### Status
 ACCEPTED

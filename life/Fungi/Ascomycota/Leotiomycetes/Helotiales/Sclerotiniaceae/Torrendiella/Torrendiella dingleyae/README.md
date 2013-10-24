@@ -1,5 +1,4 @@
-Torrendiella dingleyae P.R. Johnst. & Gamundí, 2000 SPECIES
-=======
+# Torrendiella dingleyae P.R. Johnst. & Gamundí, 2000 SPECIES
 
 #### Status
 ACCEPTED

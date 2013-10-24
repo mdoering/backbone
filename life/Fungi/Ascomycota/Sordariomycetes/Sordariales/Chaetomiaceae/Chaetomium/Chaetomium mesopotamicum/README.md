@@ -1,5 +1,4 @@
-Chaetomium mesopotamicum Abdullah & Zora SPECIES
-=======
+# Chaetomium mesopotamicum Abdullah & Zora SPECIES
 
 #### Status
 ACCEPTED

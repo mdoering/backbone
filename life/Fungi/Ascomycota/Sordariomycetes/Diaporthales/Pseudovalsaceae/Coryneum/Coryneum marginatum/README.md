@@ -1,5 +1,4 @@
-Coryneum marginatum Fr. SPECIES
-=======
+# Coryneum marginatum Fr. SPECIES
 
 #### Status
 ACCEPTED

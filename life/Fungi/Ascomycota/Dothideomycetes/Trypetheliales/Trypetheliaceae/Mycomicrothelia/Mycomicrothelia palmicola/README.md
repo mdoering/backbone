@@ -1,5 +1,4 @@
-Mycomicrothelia palmicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Mycomicrothelia palmicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

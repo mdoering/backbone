@@ -1,5 +1,4 @@
-Loxophyllum choii  Lin, Song & Li, 2007 SPECIES
-=======
+# Loxophyllum choii  Lin, Song & Li, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora verruculosa F. Stevens & Solheim SPECIES
-=======
+# Cercospora verruculosa F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Racodium strigosum Pers. SPECIES
-=======
+# Racodium strigosum Pers. SPECIES
 
 #### Status
 ACCEPTED

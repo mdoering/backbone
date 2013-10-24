@@ -1,5 +1,4 @@
-Coniochaeta angustispora D. Hawksw. & H.Y. Yip, 1981 SPECIES
-=======
+# Coniochaeta angustispora D. Hawksw. & H.Y. Yip, 1981 SPECIES
 
 #### Status
 ACCEPTED

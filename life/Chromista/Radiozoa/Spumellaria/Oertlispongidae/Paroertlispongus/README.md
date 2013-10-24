@@ -1,5 +1,4 @@
-Paroertlispongus GENUS
-=======
+# Paroertlispongus GENUS
 
 #### Status
 ACCEPTED

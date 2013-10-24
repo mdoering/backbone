@@ -1,5 +1,4 @@
-Leccinum incarnatum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum incarnatum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

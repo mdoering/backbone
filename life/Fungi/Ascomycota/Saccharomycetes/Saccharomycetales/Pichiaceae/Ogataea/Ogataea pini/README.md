@@ -1,17 +1,16 @@
-Zygosaccharomyces pini Holst, 1936 SPECIES
-=======
+# Ogataea pini (Holst) Y. Yamada, M. Matsuda, K. Maeda & Mikata, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Agricultural Research 53(7): 515 (1936)
+null
 
 #### Original name
-Zygosaccharomyces pini Holst, 1936
+null
 
 ### Remarks
 null

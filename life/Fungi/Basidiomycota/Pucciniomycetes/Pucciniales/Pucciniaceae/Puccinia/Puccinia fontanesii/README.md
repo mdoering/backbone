@@ -1,5 +1,4 @@
-Puccinia fontanesii Maire SPECIES
-=======
+# Puccinia fontanesii Maire SPECIES
 
 #### Status
 ACCEPTED

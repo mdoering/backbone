@@ -1,5 +1,4 @@
-Remispora galerita Tubaki, 1967 SPECIES
-=======
+# Remispora galerita Tubaki, 1967 SPECIES
 
 #### Status
 ACCEPTED

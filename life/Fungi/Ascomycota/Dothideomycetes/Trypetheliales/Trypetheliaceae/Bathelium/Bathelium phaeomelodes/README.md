@@ -1,5 +1,4 @@
-Bathelium phaeomelodes Müll. Arg. SPECIES
-=======
+# Bathelium phaeomelodes Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

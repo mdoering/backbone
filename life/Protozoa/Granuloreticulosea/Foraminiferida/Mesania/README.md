@@ -1,5 +1,4 @@
-Mesania Sahni & Sastri, 1954 GENUS
-=======
+# Mesania Sahni & Sastri, 1954 GENUS
 
 #### Status
 ACCEPTED

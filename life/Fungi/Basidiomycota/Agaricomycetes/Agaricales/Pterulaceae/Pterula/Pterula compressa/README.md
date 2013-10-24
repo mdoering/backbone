@@ -1,5 +1,4 @@
-Pterula compressa Klotzsch SPECIES
-=======
+# Pterula compressa Klotzsch SPECIES
 
 #### Status
 ACCEPTED

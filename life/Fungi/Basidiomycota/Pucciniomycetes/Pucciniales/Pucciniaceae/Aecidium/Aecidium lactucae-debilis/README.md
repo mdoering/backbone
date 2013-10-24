@@ -1,5 +1,4 @@
-Aecidium lactucae-debilis Syd. & P. Syd. SPECIES
-=======
+# Aecidium lactucae-debilis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

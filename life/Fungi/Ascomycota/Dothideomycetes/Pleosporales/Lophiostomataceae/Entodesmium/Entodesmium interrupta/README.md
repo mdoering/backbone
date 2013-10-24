@@ -1,5 +1,4 @@
-Entodesmium interrupta (G. Winter) Höhn., 1910 SPECIES
-=======
+# Entodesmium interrupta (G. Winter) Höhn., 1910 SPECIES
 
 #### Status
 ACCEPTED

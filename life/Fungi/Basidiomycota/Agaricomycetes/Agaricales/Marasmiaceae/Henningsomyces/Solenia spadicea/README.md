@@ -1,5 +1,4 @@
-Solenia spadicea Fuckel SPECIES
-=======
+# Solenia spadicea Fuckel SPECIES
 
 #### Status
 ACCEPTED

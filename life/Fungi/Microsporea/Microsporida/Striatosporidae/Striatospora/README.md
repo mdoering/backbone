@@ -1,5 +1,4 @@
-Striatospora I.V. Issi & Voronin GENUS
-=======
+# Striatospora I.V. Issi & Voronin GENUS
 
 #### Status
 ACCEPTED

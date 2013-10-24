@@ -1,5 +1,4 @@
-Cucurbitaria retamae Pat. SPECIES
-=======
+# Cucurbitaria retamae Pat. SPECIES
 
 #### Status
 ACCEPTED

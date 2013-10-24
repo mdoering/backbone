@@ -1,5 +1,4 @@
-Ceratium teres Kofoid SPECIES
-=======
+# Ceratium teres Kofoid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia baradensis P.B. Chavan & U.V. Kulk. SPECIES
-=======
+# Puccinia baradensis P.B. Chavan & U.V. Kulk. SPECIES
 
 #### Status
 ACCEPTED

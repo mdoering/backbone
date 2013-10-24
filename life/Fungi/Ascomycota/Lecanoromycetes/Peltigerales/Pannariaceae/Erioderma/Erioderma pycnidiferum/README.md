@@ -1,5 +1,4 @@
-Erioderma pycnidiferum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma pycnidiferum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

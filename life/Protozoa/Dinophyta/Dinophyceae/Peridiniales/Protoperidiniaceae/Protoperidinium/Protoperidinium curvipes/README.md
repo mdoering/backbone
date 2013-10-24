@@ -1,5 +1,4 @@
-Protoperidinium curvipes (Ostenfeld) Balech SPECIES
-=======
+# Protoperidinium curvipes (Ostenfeld) Balech SPECIES
 
 #### Status
 ACCEPTED

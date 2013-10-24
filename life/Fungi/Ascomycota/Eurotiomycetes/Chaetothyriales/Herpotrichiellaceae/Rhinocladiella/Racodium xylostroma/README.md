@@ -1,5 +1,4 @@
-Racodium xylostroma var. giganteum Alb. & Schwein. VARIETY
-=======
+# Racodium xylostroma Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Consp. fung. (Leipzig) 372 (1805)
+Syn. meth. fung. (Göttingen) 2: 702 (1801)
 
 #### Original name
-Racodium xylostroma var. giganteum Alb. & Schwein.
+Racodium xylostroma Pers.
 
 ### Remarks
 null

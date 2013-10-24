@@ -1,5 +1,4 @@
-Phomopsis musae P. Joly SPECIES
-=======
+# Phomopsis musae P. Joly SPECIES
 
 #### Status
 ACCEPTED

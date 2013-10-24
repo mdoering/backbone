@@ -1,5 +1,4 @@
-Lophiostoma barbeyanum Sacc. & Roum. SPECIES
-=======
+# Lophiostoma barbeyanum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

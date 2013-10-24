@@ -1,5 +1,4 @@
-Anaptychia detonsa (Fr.) Jatta SPECIES
-=======
+# Anaptychia detonsa (Fr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeria paucipilis Cooke, 1871 SPECIES
-=======
+# Lasiosphaeria paucipilis (Cooke) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: no. 2585 (1871)
+Syll. fung. (Abellini) 2: 196 (1883)
 
 #### Original name
 Sphaeria paucipilis Cooke, 1871

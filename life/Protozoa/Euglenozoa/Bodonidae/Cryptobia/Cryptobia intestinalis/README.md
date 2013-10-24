@@ -1,5 +1,4 @@
-Cryptobia intestinalis (Léger, 1905) SPECIES
-=======
+# Cryptobia intestinalis (Léger, 1905) SPECIES
 
 #### Status
 ACCEPTED

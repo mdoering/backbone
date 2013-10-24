@@ -1,5 +1,4 @@
-Peziza candida Göpp. & Berendt SPECIES
-=======
+# Peziza candida Göpp. & Berendt SPECIES
 
 #### Status
 ACCEPTED

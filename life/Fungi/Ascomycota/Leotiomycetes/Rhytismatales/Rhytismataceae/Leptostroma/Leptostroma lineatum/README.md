@@ -1,5 +1,4 @@
-Leptostroma lineatum Sacc. SPECIES
-=======
+# Leptostroma lineatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

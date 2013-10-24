@@ -1,5 +1,4 @@
-Baltisphaeridium dentatum Timofeev, 1959 ex Konzalova-Mazancova, 1969 SPECIES
-=======
+# Baltisphaeridium dentatum Timofeev, 1959 ex Konzalova-Mazancova, 1969 SPECIES
 
 #### Status
 ACCEPTED

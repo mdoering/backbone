@@ -1,5 +1,4 @@
-Phyllosticta danthoniae Speg. SPECIES
-=======
+# Phyllosticta danthoniae Speg. SPECIES
 
 #### Status
 ACCEPTED

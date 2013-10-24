@@ -1,5 +1,4 @@
-Clavaria amethystea Bull. SPECIES
-=======
+# Clavaria amethystea Bull. SPECIES
 
 #### Status
 ACCEPTED

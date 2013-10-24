@@ -1,5 +1,4 @@
-Camarosporium acerinum Ellis & Everh. SPECIES
-=======
+# Camarosporium acerinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

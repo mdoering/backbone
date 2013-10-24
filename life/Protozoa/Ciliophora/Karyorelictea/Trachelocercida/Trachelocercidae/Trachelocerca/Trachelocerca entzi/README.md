@@ -1,5 +1,4 @@
-Trachelocerca entzi Kahl, 1927 SPECIES
-=======
+# Trachelocerca entzi Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

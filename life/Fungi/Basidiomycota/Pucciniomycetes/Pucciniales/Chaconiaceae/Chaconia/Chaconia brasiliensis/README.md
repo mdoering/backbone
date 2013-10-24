@@ -1,17 +1,16 @@
-Chaconia braziliensis Y. Ono & J.F. Hennen SPECIES
-=======
+# Chaconia brasiliensis Y. Ono & J.F. Hennen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 24(4): 382 (1984)
 
 #### Original name
-Chaconia braziliensis Y. Ono & J.F. Hennen
+Chaconia brasiliensis Y. Ono & J.F. Hennen, 1984
 
 ### Remarks
 null

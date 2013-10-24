@@ -1,5 +1,4 @@
-Elachista sargassicola Noda SPECIES
-=======
+# Elachista sargassicola Noda SPECIES
 
 #### Status
 ACCEPTED

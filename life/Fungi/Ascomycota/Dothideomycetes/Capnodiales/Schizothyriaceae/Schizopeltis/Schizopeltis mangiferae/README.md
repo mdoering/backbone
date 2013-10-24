@@ -1,5 +1,4 @@
-Schizopeltis mangiferae Bat. & H. Maia SPECIES
-=======
+# Schizopeltis mangiferae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

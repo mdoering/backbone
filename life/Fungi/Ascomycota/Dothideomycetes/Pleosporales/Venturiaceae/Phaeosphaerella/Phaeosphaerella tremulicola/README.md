@@ -1,5 +1,4 @@
-Phaeosphaerella tremulicola (DC.) Traverso SPECIES
-=======
+# Phaeosphaerella tremulicola (DC.) Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinellus fimbriatus (Berk. & Broome) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus fimbriatus (Berk. & Broome) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

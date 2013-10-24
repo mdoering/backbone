@@ -1,5 +1,4 @@
-Parmelia clementii SPECIES
-=======
+# Parmelia clementii SPECIES
 
 #### Status
 ACCEPTED

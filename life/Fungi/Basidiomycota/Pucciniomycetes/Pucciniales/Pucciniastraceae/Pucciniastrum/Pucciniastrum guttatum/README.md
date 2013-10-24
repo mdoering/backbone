@@ -1,17 +1,16 @@
-Pucciniastrum galii E. Fisch., 1904 SPECIES
-=======
+# Pucciniastrum guttatum (J. Schröt.) Hyl., Jørst. & Nannf., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ured. der Schweiz 471 (1904)
+Op. bot. 1: 81 (1953)
 
 #### Original name
-Pucciniastrum galii E. Fisch., 1904
+Melampsora guttata J. Schröt., 1870
 
 ### Remarks
 null

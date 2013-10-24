@@ -1,17 +1,16 @@
-Scopuloides hydnoides var. hydnoides VARIETY
-=======
+# Scopuloides hydnoides (Cooke & Massee) Hjortstam & Ryvarden, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycotaxon 9(2): 509 (1979)
 
 #### Original name
-Scopuloides hydnoides var. hydnoides
+Peniophora hydnoides Cooke & Massee, 1888
 
 ### Remarks
 null

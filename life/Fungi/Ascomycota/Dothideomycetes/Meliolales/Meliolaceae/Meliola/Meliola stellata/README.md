@@ -1,5 +1,4 @@
-Meliola stellata Cif. SPECIES
-=======
+# Meliola stellata Cif. SPECIES
 
 #### Status
 ACCEPTED

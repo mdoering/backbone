@@ -1,5 +1,4 @@
-Trinacrium Riess, 1852 GENUS
-=======
+# Trinacrium Riess, 1852 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptosporangium pseudovulgare Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Streptosporangium pseudovulgare Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metallosphaera prunae Fuchs et al., 1996 SPECIES
-=======
+# Metallosphaera prunae Fuchs et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium sparrowii Dogma SPECIES
-=======
+# Olpidium sparrowii Dogma SPECIES
 
 #### Status
 ACCEPTED

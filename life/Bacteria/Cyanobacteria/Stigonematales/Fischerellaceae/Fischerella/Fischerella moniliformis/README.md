@@ -1,5 +1,4 @@
-Fischerella moniliformis Frémy SPECIES
-=======
+# Fischerella moniliformis Frémy SPECIES
 
 #### Status
 ACCEPTED

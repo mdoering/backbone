@@ -1,8 +1,7 @@
-Phyllachora schweinfurthii var. schweinfurthii Henn., 1891 VARIETY
-=======
+# Phyllachora schweinfurthii Henn., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Engler's Bot. Jahrb. 14: 364 (1891)
 
 #### Original name
-Phyllachora schweinfurthii var. schweinfurthii Henn., 1891
+Phyllachora schweinfurthii Henn., 1891
 
 ### Remarks
 null

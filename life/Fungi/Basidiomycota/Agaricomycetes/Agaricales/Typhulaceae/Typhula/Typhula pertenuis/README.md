@@ -1,5 +1,4 @@
-Typhula pertenuis Remsberg, 1940 SPECIES
-=======
+# Typhula pertenuis Remsberg, 1940 SPECIES
 
 #### Status
 ACCEPTED

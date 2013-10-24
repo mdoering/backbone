@@ -1,5 +1,4 @@
-Corethromyces zethopsi Thaxt. SPECIES
-=======
+# Corethromyces zethopsi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

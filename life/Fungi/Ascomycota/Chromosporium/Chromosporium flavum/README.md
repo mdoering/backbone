@@ -1,5 +1,4 @@
-Chromosporium flavum Pat. SPECIES
-=======
+# Chromosporium flavum Pat. SPECIES
 
 #### Status
 ACCEPTED

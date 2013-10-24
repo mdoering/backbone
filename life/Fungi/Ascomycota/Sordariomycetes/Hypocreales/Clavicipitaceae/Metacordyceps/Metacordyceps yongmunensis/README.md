@@ -1,5 +1,4 @@
-Metacordyceps yongmunensis G.H. Sung, J.M. Sung & Spatafora, 2007 SPECIES
-=======
+# Metacordyceps yongmunensis G.H. Sung, J.M. Sung & Spatafora, 2007 SPECIES
 
 #### Status
 ACCEPTED

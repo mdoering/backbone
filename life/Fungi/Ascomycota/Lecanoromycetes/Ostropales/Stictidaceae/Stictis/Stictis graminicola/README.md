@@ -1,5 +1,4 @@
-Stictis graminicola f. graminicola FORM
-=======
+# Stictis graminicola Lasch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictis graminicola f. graminicola
+Stictis graminicola Lasch
 
 ### Remarks
 null

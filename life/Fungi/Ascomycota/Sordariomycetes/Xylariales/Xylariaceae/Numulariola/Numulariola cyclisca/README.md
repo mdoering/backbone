@@ -1,5 +1,4 @@
-Numulariola cyclisca (Mont.) P.M.D. Martin SPECIES
-=======
+# Numulariola cyclisca (Mont.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota cubensis Earle SPECIES
-=======
+# Pholiota cubensis Earle SPECIES
 
 #### Status
 ACCEPTED

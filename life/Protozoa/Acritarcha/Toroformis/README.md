@@ -1,5 +1,4 @@
-Toroformis Lopukhin, 1972 GENUS
-=======
+# Toroformis Lopukhin, 1972 GENUS
 
 #### Status
 ACCEPTED

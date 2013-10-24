@@ -1,5 +1,4 @@
-Hymenoscyphus mirabilis (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus mirabilis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

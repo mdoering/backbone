@@ -1,5 +1,4 @@
-Keronopsis sphagni Groliere, 1975 SPECIES
-=======
+# Keronopsis sphagni Groliere, 1975 SPECIES
 
 #### Status
 ACCEPTED

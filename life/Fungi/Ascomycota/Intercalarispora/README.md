@@ -1,5 +1,4 @@
-Intercalarispora J.L. Crane & Schokn. GENUS
-=======
+# Intercalarispora J.L. Crane & Schokn. GENUS
 
 #### Status
 ACCEPTED

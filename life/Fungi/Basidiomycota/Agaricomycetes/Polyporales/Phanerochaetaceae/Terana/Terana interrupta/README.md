@@ -1,5 +1,4 @@
-Terana interrupta (Berk.) Kuntze SPECIES
-=======
+# Terana interrupta (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

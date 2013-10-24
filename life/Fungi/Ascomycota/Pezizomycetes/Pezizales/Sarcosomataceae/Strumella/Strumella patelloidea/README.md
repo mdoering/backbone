@@ -1,5 +1,4 @@
-Strumella patelloidea Cooke & Massee SPECIES
-=======
+# Strumella patelloidea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

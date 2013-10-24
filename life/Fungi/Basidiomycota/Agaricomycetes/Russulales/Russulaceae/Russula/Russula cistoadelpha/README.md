@@ -1,5 +1,4 @@
-Russula cistoadelpha f. cistoadelpha FORM
-=======
+# Russula cistoadelpha M.M. Moser & Trimbach SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 34: 125 (1981)
 
 #### Original name
-Russula cistoadelpha f. cistoadelpha
+Russula cistoadelpha M.M. Moser & Trimbach
 
 ### Remarks
 null

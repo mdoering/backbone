@@ -1,5 +1,4 @@
-Cordierites irregularis (Schwein.) SPECIES
-=======
+# Cordierites irregularis (Schwein.) SPECIES
 
 #### Status
 ACCEPTED

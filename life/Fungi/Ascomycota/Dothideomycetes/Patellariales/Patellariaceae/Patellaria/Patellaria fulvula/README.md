@@ -1,5 +1,4 @@
-Patellaria fulvula Müll. Arg. SPECIES
-=======
+# Patellaria fulvula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

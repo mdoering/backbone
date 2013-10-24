@@ -1,5 +1,4 @@
-Fuscheria nodosa subsp. nodosa SUBSPECIES
-=======
+# Fuscheria nodosa Foissner SPECIES
 
 #### Status
 ACCEPTED

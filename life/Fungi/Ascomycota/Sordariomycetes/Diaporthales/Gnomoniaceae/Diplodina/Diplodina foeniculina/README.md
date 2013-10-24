@@ -1,5 +1,4 @@
-Diplodina foeniculina Speg. SPECIES
-=======
+# Diplodina foeniculina Speg. SPECIES
 
 #### Status
 ACCEPTED

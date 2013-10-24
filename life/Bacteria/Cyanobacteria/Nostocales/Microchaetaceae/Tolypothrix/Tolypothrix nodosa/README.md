@@ -1,5 +1,4 @@
-Tolypothrix nodosa Bharadwaya SPECIES
-=======
+# Tolypothrix nodosa Bharadwaya SPECIES
 
 #### Status
 ACCEPTED

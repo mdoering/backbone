@@ -1,5 +1,4 @@
-Cymatiogalea pudica Deunff, 1961 SPECIES
-=======
+# Cymatiogalea pudica Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia ingae Syd. & P. Syd. SPECIES
-=======
+# Botryodiplodia ingae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

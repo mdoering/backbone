@@ -1,5 +1,4 @@
-Micropeltis tonduzii Speg. SPECIES
-=======
+# Micropeltis tonduzii Speg. SPECIES
 
 #### Status
 ACCEPTED

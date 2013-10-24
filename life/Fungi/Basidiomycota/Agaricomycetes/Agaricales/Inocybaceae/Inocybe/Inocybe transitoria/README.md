@@ -1,5 +1,4 @@
-Inocybe transitoria (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe transitoria (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

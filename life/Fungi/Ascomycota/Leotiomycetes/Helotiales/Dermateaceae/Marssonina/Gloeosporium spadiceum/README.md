@@ -1,5 +1,4 @@
-Gloeosporium spadiceum Dearn. & Bisby SPECIES
-=======
+# Gloeosporium spadiceum Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

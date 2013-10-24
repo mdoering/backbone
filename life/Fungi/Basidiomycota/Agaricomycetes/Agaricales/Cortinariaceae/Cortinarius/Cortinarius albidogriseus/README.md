@@ -1,5 +1,4 @@
-Cortinarius albidogriseus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius albidogriseus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

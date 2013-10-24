@@ -1,5 +1,4 @@
-Marasmius pulcherripes Peck SPECIES
-=======
+# Marasmius pulcherripes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta selini Cejp SPECIES
-=======
+# Phyllosticta selini Cejp SPECIES
 
 #### Status
 ACCEPTED

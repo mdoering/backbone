@@ -1,5 +1,4 @@
-Westiella Borzì, 1907 GENUS
-=======
+# Westiella Borzì, 1907 GENUS
 
 #### Status
 ACCEPTED

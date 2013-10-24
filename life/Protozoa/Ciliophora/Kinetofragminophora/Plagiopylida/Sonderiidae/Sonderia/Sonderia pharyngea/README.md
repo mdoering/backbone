@@ -1,5 +1,4 @@
-Sonderia pharyngea Kirby, 1934 SPECIES
-=======
+# Sonderia pharyngea Kirby, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Agaricus bulbopili Raddi SPECIES
-=======
+# Agaricus bulbopillis Raddi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus bulbopili Raddi
+Agaricus bulbopillis Raddi
 
 ### Remarks
 null

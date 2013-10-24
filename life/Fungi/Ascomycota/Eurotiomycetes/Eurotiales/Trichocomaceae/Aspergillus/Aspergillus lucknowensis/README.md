@@ -1,5 +1,4 @@
-Aspergillus lucknowensis J.N. Rai, J.P. Tewari & S.C. Agarwal, 1968 SPECIES
-=======
+# Aspergillus lucknowensis J.N. Rai, J.P. Tewari & S.C. Agarwal, 1968 SPECIES
 
 #### Status
 ACCEPTED

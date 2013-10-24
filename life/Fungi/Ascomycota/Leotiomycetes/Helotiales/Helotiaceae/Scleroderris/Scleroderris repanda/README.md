@@ -1,5 +1,4 @@
-Scleroderris repanda (Fr.) Rehm SPECIES
-=======
+# Scleroderris repanda (Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

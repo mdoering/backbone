@@ -1,5 +1,4 @@
-Laestadia theae Racib. SPECIES
-=======
+# Laestadia theae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella subatomata P. Karst. SPECIES
-=======
+# Psathyrella subatomata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

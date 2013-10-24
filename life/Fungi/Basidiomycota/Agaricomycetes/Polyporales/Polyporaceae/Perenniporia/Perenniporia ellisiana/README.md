@@ -1,14 +1,13 @@
-Poria ellisiana (F.W. Anderson) Ginns, 1984 SPECIES
-=======
+# Perenniporia ellisiana (F.W. Anderson) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 21: 331 (1984)
+Mycotaxon 22(2): 365 (1985)
 
 #### Original name
 Fomes ellisianus F.W. Anderson, 1891

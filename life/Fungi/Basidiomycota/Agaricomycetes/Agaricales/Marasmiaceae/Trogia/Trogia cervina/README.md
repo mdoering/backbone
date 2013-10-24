@@ -1,5 +1,4 @@
-Trogia cervina Corner SPECIES
-=======
+# Trogia cervina Corner SPECIES
 
 #### Status
 ACCEPTED

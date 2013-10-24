@@ -1,5 +1,4 @@
-Trabutia GENUS
-=======
+# Trabutia GENUS
 
 #### Status
 ACCEPTED

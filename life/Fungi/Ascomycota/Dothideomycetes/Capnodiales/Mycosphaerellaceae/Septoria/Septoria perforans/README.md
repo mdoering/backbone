@@ -1,5 +1,4 @@
-Septoria perforans McAlpine, 1903 SPECIES
-=======
+# Septoria perforans McAlpine, 1903 SPECIES
 
 #### Status
 ACCEPTED

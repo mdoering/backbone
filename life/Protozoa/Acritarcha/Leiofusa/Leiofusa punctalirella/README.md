@@ -1,5 +1,4 @@
-Leiofusa punctalirella Loeblich, 1970 SPECIES
-=======
+# Leiofusa punctalirella Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

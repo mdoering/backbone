@@ -1,5 +1,4 @@
-Baltisphaeridium psilatum (Li) in Wang & Chen, 1987 SPECIES
-=======
+# Baltisphaeridium psilatum (Li) in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

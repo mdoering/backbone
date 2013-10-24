@@ -1,5 +1,4 @@
-Tritaxis squamata (Jones & Parker, 1860) SPECIES
-=======
+# Tritaxis squamata (Jones & Parker, 1860) SPECIES
 
 #### Status
 ACCEPTED

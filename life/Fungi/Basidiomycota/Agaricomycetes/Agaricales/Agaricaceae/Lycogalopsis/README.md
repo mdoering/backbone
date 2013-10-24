@@ -1,17 +1,16 @@
-Enteromyxa Ces. GENUS
-=======
+# Lycogalopsis E. Fisch. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Accad. Sci. fis. mat. Napoli 8(3): 13 (1879)
+Ber. dt. bot. Ges. 4: 197 (1886)
 
 #### Original name
-Enteromyxa Ces.
+Lycogalopsis E. Fisch.
 
 ### Remarks
 null

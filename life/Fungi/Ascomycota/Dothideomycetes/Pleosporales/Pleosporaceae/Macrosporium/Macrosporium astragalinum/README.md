@@ -1,5 +1,4 @@
-Macrosporium astragalinum Petr. SPECIES
-=======
+# Macrosporium astragalinum Petr. SPECIES
 
 #### Status
 ACCEPTED

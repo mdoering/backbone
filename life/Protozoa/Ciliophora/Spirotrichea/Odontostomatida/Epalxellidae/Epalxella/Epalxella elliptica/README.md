@@ -1,5 +1,4 @@
-Epalxella elliptica Penard, 1922 SPECIES
-=======
+# Epalxella elliptica Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

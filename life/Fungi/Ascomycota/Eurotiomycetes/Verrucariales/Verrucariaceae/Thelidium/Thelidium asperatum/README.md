@@ -1,5 +1,4 @@
-Thelidium asperatum (Garov.) Zahlbr. SPECIES
-=======
+# Thelidium asperatum (Garov.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

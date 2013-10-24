@@ -1,5 +1,4 @@
-Lecidea luteorosella f. luteorosella FORM
-=======
+# Lecidea luteorosella (Nyl.) Nyl. ex Lojka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea luteorosella f. luteorosella
+Bacidia luteorosella Nyl.
 
 ### Remarks
 null

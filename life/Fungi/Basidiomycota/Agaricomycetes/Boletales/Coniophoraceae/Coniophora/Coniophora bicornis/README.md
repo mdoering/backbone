@@ -1,5 +1,4 @@
-Coniophora bicornis Boidin & Gilles SPECIES
-=======
+# Coniophora bicornis Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

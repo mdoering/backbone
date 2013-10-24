@@ -1,5 +1,4 @@
-Remototrachyna rigidula (Kurok.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna rigidula (Kurok.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

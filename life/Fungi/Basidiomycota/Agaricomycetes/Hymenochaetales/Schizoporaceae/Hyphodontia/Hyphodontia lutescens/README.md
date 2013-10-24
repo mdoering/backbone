@@ -1,5 +1,4 @@
-Hyphodontia lutescens Hjortstam & Ryvarden SPECIES
-=======
+# Hyphodontia lutescens Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

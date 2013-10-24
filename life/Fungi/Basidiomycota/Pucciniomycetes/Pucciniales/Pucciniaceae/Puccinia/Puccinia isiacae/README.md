@@ -1,5 +1,4 @@
-Puccinia isiacae (Thüm.) G. Winter SPECIES
-=======
+# Puccinia isiacae (Thüm.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

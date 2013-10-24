@@ -1,5 +1,4 @@
-Struvea tuticorinensis Børgesen, 1933 SPECIES
-=======
+# Struvea tuticorinensis Børgesen, 1933 SPECIES
 
 #### Status
 ACCEPTED

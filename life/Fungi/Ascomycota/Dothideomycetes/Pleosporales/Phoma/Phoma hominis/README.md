@@ -1,5 +1,4 @@
-Phoma hominis A. Agostini & Tredici SPECIES
-=======
+# Phoma hominis A. Agostini & Tredici SPECIES
 
 #### Status
 ACCEPTED

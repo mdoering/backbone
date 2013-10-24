@@ -1,5 +1,4 @@
-Schizothrix funalis W. West & G.S. West SPECIES
-=======
+# Schizothrix funalis W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

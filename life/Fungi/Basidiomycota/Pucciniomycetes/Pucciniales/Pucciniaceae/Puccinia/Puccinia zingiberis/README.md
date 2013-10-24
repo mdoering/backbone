@@ -1,5 +1,4 @@
-Puccinia zingiberis T.S. Ramakr. SPECIES
-=======
+# Puccinia zingiberis T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

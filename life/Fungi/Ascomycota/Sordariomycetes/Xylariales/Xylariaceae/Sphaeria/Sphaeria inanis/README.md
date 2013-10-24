@@ -1,5 +1,4 @@
-Sphaeria inanis Schwein. SPECIES
-=======
+# Sphaeria inanis Schwein. SPECIES
 
 #### Status
 ACCEPTED

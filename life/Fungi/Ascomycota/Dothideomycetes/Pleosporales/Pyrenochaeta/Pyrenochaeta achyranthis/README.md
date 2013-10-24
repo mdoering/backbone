@@ -1,5 +1,4 @@
-Pyrenochaeta achyranthis R.S. Mathur, L.S. Chauhan & S.C. Verma SPECIES
-=======
+# Pyrenochaeta achyranthis R.S. Mathur, L.S. Chauhan & S.C. Verma SPECIES
 
 #### Status
 ACCEPTED

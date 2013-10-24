@@ -1,5 +1,4 @@
-Aecidium album G.P. Clinton SPECIES
-=======
+# Aecidium album G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

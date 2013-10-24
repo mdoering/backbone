@@ -1,5 +1,4 @@
-Menegazzia norstictica P. James SPECIES
-=======
+# Menegazzia norstictica P. James SPECIES
 
 #### Status
 ACCEPTED

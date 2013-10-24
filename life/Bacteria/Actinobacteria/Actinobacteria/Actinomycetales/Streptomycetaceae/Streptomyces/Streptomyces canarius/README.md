@@ -1,5 +1,4 @@
-Streptomyces canarius Vavra and Dietz, 1965 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces canarius Vavra and Dietz, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

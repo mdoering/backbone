@@ -1,17 +1,16 @@
-Diceras Eberhard, 1862 GENUS
-=======
+# Diceratula Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Zweite Abhandlungen über die Infusorienwelt. Programm d. Realschule zu Coburg. Ostern.
+J. Protozool. 7: 272, 274.
 
 #### Original name
-null
+Diceras Eberhard, 1862
 
 ### Remarks
 null

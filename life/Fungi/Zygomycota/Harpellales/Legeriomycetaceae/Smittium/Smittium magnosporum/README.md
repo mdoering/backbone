@@ -1,5 +1,4 @@
-Smittium magnosporum Ferrington, Hayford & Lichtw., 2005 SPECIES
-=======
+# Smittium magnosporum Ferrington, Hayford & Lichtw., 2005 SPECIES
 
 #### Status
 ACCEPTED

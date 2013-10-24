@@ -1,5 +1,4 @@
-Chiodecton paradoxum Fée SPECIES
-=======
+# Chiodecton paradoxum Fée SPECIES
 
 #### Status
 ACCEPTED

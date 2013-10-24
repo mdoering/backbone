@@ -1,5 +1,4 @@
-Napicladium testaceum Speg. SPECIES
-=======
+# Napicladium testaceum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes neesii (Fr.) Sacc. SPECIES
-=======
+# Fomes neesii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

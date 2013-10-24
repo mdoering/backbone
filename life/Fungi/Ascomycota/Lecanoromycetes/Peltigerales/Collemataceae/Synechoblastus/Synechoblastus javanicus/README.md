@@ -1,5 +1,4 @@
-Synechoblastus javanicus Müll. Arg. SPECIES
-=======
+# Synechoblastus javanicus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

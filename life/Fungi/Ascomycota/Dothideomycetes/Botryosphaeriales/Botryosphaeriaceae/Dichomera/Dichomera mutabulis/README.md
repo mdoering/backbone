@@ -1,5 +1,4 @@
-Dichomera mutabulis SPECIES
-=======
+# Dichomera mutabulis SPECIES
 
 #### Status
 ACCEPTED

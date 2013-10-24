@@ -1,5 +1,4 @@
-Sandona Howe, Bass, Vickerman, Chao & Cavalier-Smith, 2009 GENUS
-=======
+# Sandona Howe, Bass, Vickerman, Chao & Cavalier-Smith, 2009 GENUS
 
 #### Status
 ACCEPTED

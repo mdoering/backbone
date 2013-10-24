@@ -1,5 +1,4 @@
-Imbricaria proxila SPECIES
-=======
+# Imbricaria proxila SPECIES
 
 #### Status
 ACCEPTED

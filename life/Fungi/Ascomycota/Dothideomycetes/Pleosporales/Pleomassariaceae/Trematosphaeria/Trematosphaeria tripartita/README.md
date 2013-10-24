@@ -1,5 +1,4 @@
-Trematosphaeria tripartita Kirschst. SPECIES
-=======
+# Trematosphaeria tripartita Kirschst. SPECIES
 
 #### Status
 ACCEPTED

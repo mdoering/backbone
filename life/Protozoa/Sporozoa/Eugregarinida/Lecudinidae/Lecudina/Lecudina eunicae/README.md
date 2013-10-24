@@ -1,5 +1,4 @@
-Lecudina eunicae Lankester, 1866 SPECIES
-=======
+# Lecudina eunicae Lankester, 1866 SPECIES
 
 #### Status
 ACCEPTED

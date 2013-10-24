@@ -1,5 +1,4 @@
-Cercospora schiffnerulae Hansf. SPECIES
-=======
+# Cercospora schiffnerulae Hansf. SPECIES
 
 #### Status
 ACCEPTED

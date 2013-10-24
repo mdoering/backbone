@@ -1,17 +1,16 @@
-Hymenogaster olivaceus var. collinitus Soehner VARIETY
-=======
+# Hymenogaster olivaceus Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 24 (1831)
 
 #### Original name
-Hymenogaster olivaceus var. collinitus Soehner
+Hymenogaster olivaceus Vittad., 1831
 
 ### Remarks
 null

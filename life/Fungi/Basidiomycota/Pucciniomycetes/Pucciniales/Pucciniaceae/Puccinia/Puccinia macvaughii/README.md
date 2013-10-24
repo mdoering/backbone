@@ -1,8 +1,7 @@
-Puccinia mcvaughii J.F. Hennen, León-Gall. & Cummins SPECIES
-=======
+# Puccinia macvaughii J.F. Hennen, León-Gall. & Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia mcvaughii J.F. Hennen, León-Gall. & Cummins
+Puccinia macvaughii J.F. Hennen, León-Gall. & Cummins
 
 ### Remarks
 null

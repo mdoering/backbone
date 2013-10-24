@@ -1,5 +1,4 @@
-Rhytisma discoidea Cooke & Massee SPECIES
-=======
+# Rhytisma discoidea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

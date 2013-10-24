@@ -1,5 +1,4 @@
-Pertusaria aperta Stizenb. SPECIES
-=======
+# Pertusaria aperta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

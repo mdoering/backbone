@@ -1,5 +1,4 @@
-Amazonia psychotriicola (Henn.) Theiss. SPECIES
-=======
+# Amazonia psychotriicola (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

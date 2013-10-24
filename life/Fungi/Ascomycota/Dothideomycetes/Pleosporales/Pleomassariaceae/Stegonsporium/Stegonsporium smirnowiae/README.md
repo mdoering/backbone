@@ -1,8 +1,7 @@
-Stegonsporium smirnoviae Nasyrov SPECIES
-=======
+# Stegonsporium smirnowiae Nasyrov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stegonsporium smirnoviae Nasyrov
+Stegonsporium smirnowiae Nasyrov
 
 ### Remarks
 null

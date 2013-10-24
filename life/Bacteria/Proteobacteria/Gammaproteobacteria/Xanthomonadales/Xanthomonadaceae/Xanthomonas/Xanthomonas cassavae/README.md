@@ -1,5 +1,4 @@
-Xanthomonas cassavae (ex Wiehe & Dowson, 1953) Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas cassavae (ex Wiehe & Dowson, 1953) Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

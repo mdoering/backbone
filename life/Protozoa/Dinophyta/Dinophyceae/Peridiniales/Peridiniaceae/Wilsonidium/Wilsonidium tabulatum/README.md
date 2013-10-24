@@ -1,5 +1,4 @@
-Wilsonidium tabulatum (Wilson, 1967) Lentin & Williams, 1976 SPECIES
-=======
+# Wilsonidium tabulatum (Wilson, 1967) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

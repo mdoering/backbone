@@ -1,5 +1,4 @@
-Pseudofavolus polygrammus (Mont.) G. Cunn. SPECIES
-=======
+# Pseudofavolus polygrammus (Mont.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

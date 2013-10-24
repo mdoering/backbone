@@ -1,5 +1,4 @@
-Pseudaegerita ossicola Abdullah SPECIES
-=======
+# Pseudaegerita ossicola Abdullah SPECIES
 
 #### Status
 ACCEPTED

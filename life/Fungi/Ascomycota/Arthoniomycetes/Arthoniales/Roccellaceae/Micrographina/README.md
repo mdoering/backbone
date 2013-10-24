@@ -1,5 +1,4 @@
-Micrographina GENUS
-=======
+# Micrographina GENUS
 
 #### Status
 ACCEPTED

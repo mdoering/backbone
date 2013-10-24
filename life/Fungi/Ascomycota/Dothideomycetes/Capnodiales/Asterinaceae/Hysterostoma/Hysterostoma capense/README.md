@@ -1,5 +1,4 @@
-Hysterostoma capense Syd. SPECIES
-=======
+# Hysterostoma capense Syd. SPECIES
 
 #### Status
 ACCEPTED

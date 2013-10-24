@@ -1,5 +1,4 @@
-Boletus purus Corner SPECIES
-=======
+# Boletus purus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microsporum langeroni (Vanbreus.) Cif. SPECIES
-=======
+# Microsporum langeronii (Vanbreus.) Cif., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Manuale di Micologia Medica, Edn 2 2: 416 (1960)
 
 #### Original name
 Sabouraudites langeronii Vanbreus., 1950

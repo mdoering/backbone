@@ -1,5 +1,4 @@
-Penicillium rogeri Wehmer SPECIES
-=======
+# Penicillium rogeri Wehmer SPECIES
 
 #### Status
 ACCEPTED

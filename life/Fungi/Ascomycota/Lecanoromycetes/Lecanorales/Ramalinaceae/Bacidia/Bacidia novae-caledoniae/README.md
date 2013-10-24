@@ -1,5 +1,4 @@
-Bacidia novae-caledoniae (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia novae-caledoniae (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

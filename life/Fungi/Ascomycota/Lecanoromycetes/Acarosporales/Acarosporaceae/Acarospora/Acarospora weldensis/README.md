@@ -1,5 +1,4 @@
-Acarospora weldensis H. Magn. SPECIES
-=======
+# Acarospora weldensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

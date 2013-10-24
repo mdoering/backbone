@@ -1,5 +1,4 @@
-Pseudophaeoramularia U. Braun GENUS
-=======
+# Pseudophaeoramularia U. Braun GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dysteria aculeata Claparède & Lachmann, 1859 SPECIES
-=======
+# Dysteria aculeata Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

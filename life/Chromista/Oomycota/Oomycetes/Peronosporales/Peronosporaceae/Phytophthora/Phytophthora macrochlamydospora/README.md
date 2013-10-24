@@ -1,5 +1,4 @@
-Phytophthora macrochlamydospora J.A.G. Irwin, 1991 SPECIES
-=======
+# Phytophthora macrochlamydospora J.A.G. Irwin, 1991 SPECIES
 
 #### Status
 ACCEPTED

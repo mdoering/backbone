@@ -1,5 +1,4 @@
-Entoloma minus Peck SPECIES
-=======
+# Entoloma minus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spadicoides obclavata var. obclavata VARIETY
-=======
+# Spadicoides obclavata Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Res. 95(2): 166 (1991)
 
 #### Original name
-Spadicoides obclavata var. obclavata
+Spadicoides obclavata Kuthub. & Nawawi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lyophyllum chondrocephalum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum chondrocephalum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

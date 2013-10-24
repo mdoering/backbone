@@ -1,5 +1,4 @@
-Tofispora scaberula (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Tofispora scaberula (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

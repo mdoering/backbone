@@ -1,5 +1,4 @@
-Mesogloia lanosa P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Mesogloia lanosa P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

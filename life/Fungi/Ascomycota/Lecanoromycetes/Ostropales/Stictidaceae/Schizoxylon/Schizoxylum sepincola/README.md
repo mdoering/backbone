@@ -1,5 +1,4 @@
-Schizoxylum sepincola Pers. SPECIES
-=======
+# Schizoxylum sepincola Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiropes insignis (Sacc.) M.B. Ellis SPECIES
-=======
+# Spiropes insignis (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

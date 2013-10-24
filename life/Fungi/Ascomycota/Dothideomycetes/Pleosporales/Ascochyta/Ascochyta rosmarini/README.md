@@ -1,5 +1,4 @@
-Ascochyta rosmarini Tassi SPECIES
-=======
+# Ascochyta rosmarini Tassi SPECIES
 
 #### Status
 ACCEPTED

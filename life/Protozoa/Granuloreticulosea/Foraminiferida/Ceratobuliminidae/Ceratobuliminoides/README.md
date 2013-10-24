@@ -1,5 +1,4 @@
-Ceratobuliminoides Parr, 1950 GENUS
-=======
+# Ceratobuliminoides Parr, 1950 GENUS
 
 #### Status
 ACCEPTED

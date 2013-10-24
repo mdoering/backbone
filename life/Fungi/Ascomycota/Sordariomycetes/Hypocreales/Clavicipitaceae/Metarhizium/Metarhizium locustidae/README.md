@@ -1,5 +1,4 @@
-Metarhizium locustidae ined. SPECIES
-=======
+# Metarhizium locustidae ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosphaera erineophila Naumov SPECIES
-=======
+# Podosphaera erineophila Naumov SPECIES
 
 #### Status
 ACCEPTED

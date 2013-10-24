@@ -1,5 +1,4 @@
-Bavlinella E.D. Shepeleva, 1962 GENUS
-=======
+# Bavlinella E.D. Shepeleva, 1962 GENUS
 
 #### Status
 ACCEPTED

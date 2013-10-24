@@ -1,5 +1,4 @@
-Gautieria chengdensis J.Z. Ying SPECIES
-=======
+# Gautieria chengdensis J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

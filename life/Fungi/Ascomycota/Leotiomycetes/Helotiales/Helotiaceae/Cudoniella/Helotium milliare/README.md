@@ -1,5 +1,4 @@
-Helotium milliare Velen. SPECIES
-=======
+# Helotium milliare Velen. SPECIES
 
 #### Status
 ACCEPTED

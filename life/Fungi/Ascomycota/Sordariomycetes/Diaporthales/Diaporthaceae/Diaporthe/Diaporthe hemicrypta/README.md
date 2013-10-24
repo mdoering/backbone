@@ -1,5 +1,4 @@
-Diaporthe hemicrypta (Durieu & Mont.) Sacc. SPECIES
-=======
+# Diaporthe hemicrypta (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

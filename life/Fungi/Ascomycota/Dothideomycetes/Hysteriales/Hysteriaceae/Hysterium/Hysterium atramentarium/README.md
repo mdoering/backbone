@@ -1,5 +1,4 @@
-Hysterium atramentarium Berk. & Broome SPECIES
-=======
+# Hysterium atramentarium Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

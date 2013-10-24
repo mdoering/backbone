@@ -1,5 +1,4 @@
-Sagedia glabra A. Massal. SPECIES
-=======
+# Sagedia glabra A. Massal. SPECIES
 
 #### Status
 ACCEPTED

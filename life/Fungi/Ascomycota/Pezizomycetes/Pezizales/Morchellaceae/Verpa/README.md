@@ -1,5 +1,4 @@
-Verpa Swartz, 1815 GENUS
-=======
+# Verpa Swartz, 1815 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina oreina (J. Favre) E. Horak SPECIES
-=======
+# Astrosporina oreina (J. Favre) E. Horak SPECIES
 
 #### Status
 ACCEPTED

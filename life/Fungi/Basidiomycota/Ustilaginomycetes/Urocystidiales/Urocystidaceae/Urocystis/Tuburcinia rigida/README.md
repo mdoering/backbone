@@ -1,5 +1,4 @@
-Tuburcinia rigida Liro SPECIES
-=======
+# Tuburcinia rigida Liro SPECIES
 
 #### Status
 ACCEPTED

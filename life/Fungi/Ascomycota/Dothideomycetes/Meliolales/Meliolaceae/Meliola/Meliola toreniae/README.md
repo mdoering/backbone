@@ -1,5 +1,4 @@
-Meliola toreniae Hosag. SPECIES
-=======
+# Meliola toreniae Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota mediorosea Contu SPECIES
-=======
+# Lepiota mediorosea Contu SPECIES
 
 #### Status
 ACCEPTED

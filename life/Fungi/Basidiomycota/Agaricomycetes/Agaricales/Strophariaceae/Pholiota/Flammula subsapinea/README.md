@@ -1,5 +1,4 @@
-Flammula subsapinea Henn. SPECIES
-=======
+# Flammula subsapinea Henn. SPECIES
 
 #### Status
 ACCEPTED

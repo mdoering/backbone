@@ -1,5 +1,4 @@
-Tintinnus ussowi SPECIES
-=======
+# Tintinnus ussowi SPECIES
 
 #### Status
 ACCEPTED

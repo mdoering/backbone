@@ -1,5 +1,4 @@
-Agaricus telephorus Pers. SPECIES
-=======
+# Agaricus telephorus Pers. SPECIES
 
 #### Status
 ACCEPTED

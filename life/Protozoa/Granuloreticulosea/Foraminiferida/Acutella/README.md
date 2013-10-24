@@ -1,5 +1,4 @@
-Acutella Orlova, 1996 GENUS
-=======
+# Acutella Orlova, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcobacter cibarius Houf et al., 2005 SPECIES
-=======
+# Arcobacter cibarius Houf et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulgariastrum caespitosum Syd. & P. Syd. SPECIES
-=======
+# Bulgariastrum caespitosum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

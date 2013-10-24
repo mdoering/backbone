@@ -1,5 +1,4 @@
-Erythrobacter nanhaisediminis Xu, Xin, Yu, Zhang, Zhou, Liu, Tian & Li, 2010 SPECIES
-=======
+# Erythrobacter nanhaisediminis Xu, Xin, Yu, Zhang, Zhou, Liu, Tian & Li, 2010 SPECIES
 
 #### Status
 ACCEPTED

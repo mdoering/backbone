@@ -1,5 +1,4 @@
-Cercospora paederiicola Y.L. Guo SPECIES
-=======
+# Cercospora paederiicola Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

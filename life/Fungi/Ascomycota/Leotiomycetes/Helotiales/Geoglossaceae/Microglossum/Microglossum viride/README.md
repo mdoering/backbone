@@ -1,17 +1,16 @@
-Geoglossum viride var. viride Pers., 1797 VARIETY
-=======
+# Microglossum viride (Pers.) Gillet, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 40 (1797)
+Champignons de France, Discom. 25 (1879)
 
 #### Original name
-Geoglossum viride var. viride Pers., 1797
+Geoglossum viride (Holmsk.) Schumach., 1803
 
 ### Remarks
 null

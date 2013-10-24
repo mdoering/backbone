@@ -1,5 +1,4 @@
-Simocybe coniferarum var. coniferarum VARIETY
-=======
+# Simocybe coniferarum Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fieldiana, Bot. 21: 120 (1989)
 
 #### Original name
-Simocybe coniferarum var. coniferarum
+Simocybe coniferarum Singer
 
 ### Remarks
 null

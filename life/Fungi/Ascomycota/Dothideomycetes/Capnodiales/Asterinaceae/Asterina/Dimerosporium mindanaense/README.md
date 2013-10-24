@@ -1,5 +1,4 @@
-Dimerosporium mindanaense Henn. SPECIES
-=======
+# Dimerosporium mindanaense Henn. SPECIES
 
 #### Status
 ACCEPTED

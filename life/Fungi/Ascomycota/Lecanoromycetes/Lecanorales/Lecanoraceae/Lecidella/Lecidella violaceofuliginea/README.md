@@ -1,5 +1,4 @@
-Lecidella violaceofuliginea (Vain.) Kalb SPECIES
-=======
+# Lecidella violaceofuliginea (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

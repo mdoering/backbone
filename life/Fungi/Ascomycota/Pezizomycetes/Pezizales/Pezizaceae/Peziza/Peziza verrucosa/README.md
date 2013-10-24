@@ -1,5 +1,4 @@
-Peziza verrucosa Pers. SPECIES
-=======
+# Peziza verrucosa Pers. SPECIES
 
 #### Status
 ACCEPTED

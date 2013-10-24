@@ -1,5 +1,4 @@
-Chaetothyrium hawaiiense J.M. Mend. SPECIES
-=======
+# Chaetothyrium hawaiiense J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

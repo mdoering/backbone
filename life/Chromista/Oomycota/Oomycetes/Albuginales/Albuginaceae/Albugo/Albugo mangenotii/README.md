@@ -1,17 +1,16 @@
-Albugo mangenoti Mayor & Vienn.-Bourg. SPECIES
-=======
+# Albugo mangenotii Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 67: 115 (1951)
 
 #### Original name
-Albugo mangenoti Mayor & Vienn.-Bourg.
+Albugo mangenotii Mayor & Vienn.-Bourg.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Dryodon luteocarneum Secr. ex Quél. SPECIES
-=======
+# Dryodon luteocarneus Secr. ex Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. mycol. France (Paris) 437 (1888)
 
 #### Original name
-Dryodon luteocarneum Secr. ex Quél.
+Dryodon luteocarneus Secr. ex Quél.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tolypothrix curta Gardner SPECIES
-=======
+# Tolypothrix curta Gardner SPECIES
 
 #### Status
 ACCEPTED

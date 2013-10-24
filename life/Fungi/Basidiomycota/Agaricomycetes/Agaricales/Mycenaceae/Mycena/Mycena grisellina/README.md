@@ -1,5 +1,4 @@
-Mycena grisellina J. Favre SPECIES
-=======
+# Mycena grisellina J. Favre SPECIES
 
 #### Status
 ACCEPTED

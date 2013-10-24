@@ -1,5 +1,4 @@
-Valsa halimodendri Kravtzev SPECIES
-=======
+# Valsa halimodendri Kravtzev SPECIES
 
 #### Status
 ACCEPTED

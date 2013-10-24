@@ -1,5 +1,4 @@
-Cladochytrium narcissi G. Poirault SPECIES
-=======
+# Cladochytrium narcissi G. Poirault SPECIES
 
 #### Status
 ACCEPTED

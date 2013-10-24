@@ -1,5 +1,4 @@
-Mycobacillaria simplex Naumov, 1915 SPECIES
-=======
+# Mycobacillaria simplex Naumov, 1915 SPECIES
 
 #### Status
 ACCEPTED

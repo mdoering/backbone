@@ -1,5 +1,4 @@
-Deinococcus sonorensis Rainey & da Costa, 2005 SPECIES
-=======
+# Deinococcus sonorensis Rainey & da Costa, 2005 SPECIES
 
 #### Status
 ACCEPTED

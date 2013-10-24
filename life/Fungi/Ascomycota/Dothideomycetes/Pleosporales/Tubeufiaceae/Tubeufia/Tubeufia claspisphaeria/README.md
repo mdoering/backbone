@@ -1,5 +1,4 @@
-Tubeufia claspisphaeria Kodsueb, 2004 SPECIES
-=======
+# Tubeufia claspisphaeria Kodsueb, 2004 SPECIES
 
 #### Status
 ACCEPTED

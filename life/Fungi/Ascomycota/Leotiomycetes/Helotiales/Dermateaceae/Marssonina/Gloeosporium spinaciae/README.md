@@ -1,5 +1,4 @@
-Gloeosporium spinaciae Ellis & Fautrey SPECIES
-=======
+# Gloeosporium spinaciae Ellis & Fautrey SPECIES
 
 #### Status
 ACCEPTED

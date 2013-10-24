@@ -1,5 +1,4 @@
-Pseudogymnopilus Raithelh. GENUS
-=======
+# Pseudogymnopilus Raithelh. GENUS
 
 #### Status
 ACCEPTED

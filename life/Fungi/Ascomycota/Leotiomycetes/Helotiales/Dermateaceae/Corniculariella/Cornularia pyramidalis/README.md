@@ -1,5 +1,4 @@
-Cornularia pyramidalis (Schwein.) Starbäck SPECIES
-=======
+# Cornularia pyramidalis (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

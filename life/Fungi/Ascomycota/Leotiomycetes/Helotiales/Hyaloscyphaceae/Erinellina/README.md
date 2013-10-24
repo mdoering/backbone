@@ -1,5 +1,4 @@
-Erinellina GENUS
-=======
+# Erinellina GENUS
 
 #### Status
 ACCEPTED

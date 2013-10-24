@@ -1,5 +1,4 @@
-Desmazierella piceicola Huhtinen & Y. Mäkinen SPECIES
-=======
+# Desmazierella piceicola Huhtinen & Y. Mäkinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium improvisum (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Helotium improvisum (P. Karst.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lanveocia formosa Deunff, 1978 SPECIES
-=======
+# Lanveocia formosa Deunff, 1978 SPECIES
 
 #### Status
 ACCEPTED

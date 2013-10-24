@@ -1,5 +1,4 @@
-Nimbya celosiae E.G. Simmons & Holcomb, 1995 SPECIES
-=======
+# Nimbya celosiae E.G. Simmons & Holcomb, 1995 SPECIES
 
 #### Status
 ACCEPTED

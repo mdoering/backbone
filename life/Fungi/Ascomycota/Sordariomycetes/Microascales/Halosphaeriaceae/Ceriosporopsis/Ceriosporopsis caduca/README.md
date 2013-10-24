@@ -1,5 +1,4 @@
-Ceriosporopsis caduca E.B.G. Jones & Zainal, 1988 SPECIES
-=======
+# Ceriosporopsis caduca E.B.G. Jones & Zainal, 1988 SPECIES
 
 #### Status
 ACCEPTED

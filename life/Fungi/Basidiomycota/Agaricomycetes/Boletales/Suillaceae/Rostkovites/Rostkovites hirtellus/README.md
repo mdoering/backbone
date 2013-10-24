@@ -1,5 +1,4 @@
-Rostkovites hirtellus (Peck) Murrill SPECIES
-=======
+# Rostkovites hirtellus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

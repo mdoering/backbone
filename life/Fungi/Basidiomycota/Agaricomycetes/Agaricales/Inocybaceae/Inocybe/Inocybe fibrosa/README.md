@@ -1,17 +1,16 @@
-Inocybe fibrosa var. fibrosa VARIETY
-=======
+# Inocybe fibrosa (Sowerby) Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomycètes (Alençon) 517 (1876)
 
 #### Original name
-Inocybe fibrosa var. fibrosa
+Agaricus fibrosus Sowerby, 1809
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bulimina quadrata Plummer SPECIES
-=======
+# Bulimina quadrata Plummer SPECIES
 
 #### Status
 ACCEPTED

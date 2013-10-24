@@ -1,5 +1,4 @@
-Phyllosticta theaefolia Hara SPECIES
-=======
+# Phyllosticta theaefolia Hara SPECIES
 
 #### Status
 ACCEPTED

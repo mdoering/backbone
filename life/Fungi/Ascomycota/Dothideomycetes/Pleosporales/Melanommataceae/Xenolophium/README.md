@@ -1,5 +1,4 @@
-Xenolophium Syd. GENUS
-=======
+# Xenolophium Syd. GENUS
 
 #### Status
 ACCEPTED

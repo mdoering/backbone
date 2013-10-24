@@ -1,5 +1,4 @@
-Parmotrema bogoriense (Zahlbr.) Elix SPECIES
-=======
+# Parmotrema bogoriense (Zahlbr.) Elix SPECIES
 
 #### Status
 ACCEPTED

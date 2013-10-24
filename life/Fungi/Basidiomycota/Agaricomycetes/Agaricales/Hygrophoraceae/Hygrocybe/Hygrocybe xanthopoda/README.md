@@ -1,5 +1,4 @@
-Hygrocybe xanthopoda A.M. Young SPECIES
-=======
+# Hygrocybe xanthopoda A.M. Young SPECIES
 
 #### Status
 ACCEPTED

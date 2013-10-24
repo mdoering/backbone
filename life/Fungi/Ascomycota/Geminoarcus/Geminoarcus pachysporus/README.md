@@ -1,5 +1,4 @@
-Geminoarcus pachysporus K. Ando, 1993 SPECIES
-=======
+# Geminoarcus pachysporus K. Ando, 1993 SPECIES
 
 #### Status
 ACCEPTED

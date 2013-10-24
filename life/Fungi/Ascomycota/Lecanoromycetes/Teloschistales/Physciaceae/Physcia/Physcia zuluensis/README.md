@@ -1,5 +1,4 @@
-Physcia zuluensis Vain. SPECIES
-=======
+# Physcia zuluensis Vain. SPECIES
 
 #### Status
 ACCEPTED

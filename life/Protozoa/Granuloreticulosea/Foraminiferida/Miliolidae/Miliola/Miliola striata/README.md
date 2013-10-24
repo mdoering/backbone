@@ -1,5 +1,4 @@
-Miliola striata Brown, 1827 SPECIES
-=======
+# Miliola striata Brown, 1827 SPECIES
 
 #### Status
 ACCEPTED

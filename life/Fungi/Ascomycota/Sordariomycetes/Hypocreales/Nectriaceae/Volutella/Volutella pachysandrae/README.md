@@ -1,5 +1,4 @@
-Volutella pachysandrae W.G. Hutch. SPECIES
-=======
+# Volutella pachysandrae W.G. Hutch. SPECIES
 
 #### Status
 ACCEPTED

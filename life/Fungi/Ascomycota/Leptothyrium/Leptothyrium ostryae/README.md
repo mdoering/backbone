@@ -1,5 +1,4 @@
-Leptothyrium ostryae C. Massal. SPECIES
-=======
+# Leptothyrium ostryae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

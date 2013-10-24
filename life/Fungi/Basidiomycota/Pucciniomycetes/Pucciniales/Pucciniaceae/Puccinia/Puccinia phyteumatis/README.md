@@ -1,5 +1,4 @@
-Puccinia phyteumatis DC. SPECIES
-=======
+# Puccinia phyteumatis DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovulina parva Anderson, Rogerson & Hannah, 1996 SPECIES
-=======
+# Ovulina parva Anderson, Rogerson & Hannah, 1996 SPECIES
 
 #### Status
 ACCEPTED

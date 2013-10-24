@@ -1,5 +1,4 @@
-Caliciopsis maxima (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Caliciopsis maxima (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

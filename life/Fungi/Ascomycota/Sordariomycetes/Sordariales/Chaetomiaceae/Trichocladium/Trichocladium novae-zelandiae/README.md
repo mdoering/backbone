@@ -1,5 +1,4 @@
-Trichocladium novae-zelandiae S. Hughes, 1969 SPECIES
-=======
+# Trichocladium novae-zelandiae S. Hughes, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium caryae Ellis & Everh. SPECIES
-=======
+# Gloeosporium caryae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

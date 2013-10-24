@@ -1,5 +1,4 @@
-Rhodophyllus infundibularis Romagn. SPECIES
-=======
+# Rhodophyllus infundibularis Romagn. SPECIES
 
 #### Status
 ACCEPTED

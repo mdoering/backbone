@@ -1,5 +1,4 @@
-Lasiosphaeria vestita Cand., J. Fourn. & Magni SPECIES
-=======
+# Lasiosphaeria vestita Cand., J. Fourn. & Magni SPECIES
 
 #### Status
 ACCEPTED

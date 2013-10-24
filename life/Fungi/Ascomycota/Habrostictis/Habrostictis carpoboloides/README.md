@@ -1,5 +1,4 @@
-Habrostictis carpoboloides (P. Crouan & H. Crouan) Boud. SPECIES
-=======
+# Habrostictis carpoboloides (P. Crouan & H. Crouan) Boud. SPECIES
 
 #### Status
 ACCEPTED

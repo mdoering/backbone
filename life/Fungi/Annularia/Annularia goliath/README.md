@@ -1,5 +1,4 @@
-Annularia goliath Speg. SPECIES
-=======
+# Annularia goliath Speg. SPECIES
 
 #### Status
 ACCEPTED

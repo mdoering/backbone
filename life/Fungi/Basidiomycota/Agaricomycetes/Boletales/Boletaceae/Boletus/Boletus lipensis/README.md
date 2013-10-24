@@ -1,5 +1,4 @@
-Boletus lipensis Hlavácek SPECIES
-=======
+# Boletus lipensis Hlavácek SPECIES
 
 #### Status
 ACCEPTED

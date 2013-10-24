@@ -1,5 +1,4 @@
-Verticillium byssinum Pat. SPECIES
-=======
+# Verticillium byssinum Pat. SPECIES
 
 #### Status
 ACCEPTED

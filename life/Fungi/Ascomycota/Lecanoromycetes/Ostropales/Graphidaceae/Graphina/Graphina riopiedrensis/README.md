@@ -1,5 +1,4 @@
-Graphina riopiedrensis Fink SPECIES
-=======
+# Graphina riopiedrensis Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria weigeliae Theiss. SPECIES
-=======
+# Botryosphaeria weigeliae Theiss. SPECIES
 
 #### Status
 ACCEPTED

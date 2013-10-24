@@ -1,5 +1,4 @@
-"Prorocentrum compressm (Bailey) ab'e & Doge" SPECIES
-=======
+# "Prorocentrum compressm (Bailey) ab'e & Doge" SPECIES
 
 #### Status
 ACCEPTED

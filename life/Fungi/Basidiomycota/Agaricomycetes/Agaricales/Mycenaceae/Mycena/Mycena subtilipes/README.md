@@ -1,5 +1,4 @@
-Mycena subtilipes Métrod SPECIES
-=======
+# Mycena subtilipes Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula rosella Romell SPECIES
-=======
+# Russula rosella Romell SPECIES
 
 #### Status
 ACCEPTED

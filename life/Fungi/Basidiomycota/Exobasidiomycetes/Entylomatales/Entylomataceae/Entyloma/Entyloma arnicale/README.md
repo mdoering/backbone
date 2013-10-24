@@ -1,5 +1,4 @@
-Entyloma arnicale Ellis & Everh. SPECIES
-=======
+# Entyloma arnicale Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

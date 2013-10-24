@@ -1,5 +1,4 @@
-Agaricus subtestaceus Batsch SPECIES
-=======
+# Agaricus subtestaceus Batsch SPECIES
 
 #### Status
 ACCEPTED

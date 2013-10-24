@@ -1,5 +1,4 @@
-Cucurbitaria poliosa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria poliosa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

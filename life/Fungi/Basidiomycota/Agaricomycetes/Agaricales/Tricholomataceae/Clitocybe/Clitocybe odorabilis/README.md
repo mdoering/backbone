@@ -1,5 +1,4 @@
-Clitocybe odorabilis (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe odorabilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

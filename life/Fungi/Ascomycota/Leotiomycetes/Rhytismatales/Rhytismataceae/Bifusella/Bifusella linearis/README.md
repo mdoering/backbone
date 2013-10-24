@@ -1,17 +1,16 @@
-Hypoderma lineare Peck, 1878 SPECIES
-=======
+# Bifusella linearis (Peck) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Diagn. Mycoth. Univ. Cent. 10-12: 12 (1878)
+Annls mycol. 15(5): 318 (1917)
 
 #### Original name
-Hypoderma lineare Peck, 1878
+Rhytisma lineare Peck, 1873
 
 ### Remarks
 null

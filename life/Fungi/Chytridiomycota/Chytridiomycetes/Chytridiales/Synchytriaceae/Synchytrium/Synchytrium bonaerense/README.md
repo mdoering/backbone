@@ -1,5 +1,4 @@
-Synchytrium bonaerense Speg. SPECIES
-=======
+# Synchytrium bonaerense Speg. SPECIES
 
 #### Status
 ACCEPTED

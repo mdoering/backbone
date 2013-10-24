@@ -1,5 +1,4 @@
-Collema dermatinum Ach. SPECIES
-=======
+# Collema dermatinum Ach. SPECIES
 
 #### Status
 ACCEPTED

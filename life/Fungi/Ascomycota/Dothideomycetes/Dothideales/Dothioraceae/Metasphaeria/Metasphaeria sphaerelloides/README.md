@@ -1,5 +1,4 @@
-Metasphaeria sphaerelloides Pass. SPECIES
-=======
+# Metasphaeria sphaerelloides Pass. SPECIES
 
 #### Status
 ACCEPTED

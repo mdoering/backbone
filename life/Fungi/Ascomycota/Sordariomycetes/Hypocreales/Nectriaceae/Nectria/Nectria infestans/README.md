@@ -1,5 +1,4 @@
-Nectria infestans Boesew. SPECIES
-=======
+# Nectria infestans Boesew. SPECIES
 
 #### Status
 ACCEPTED

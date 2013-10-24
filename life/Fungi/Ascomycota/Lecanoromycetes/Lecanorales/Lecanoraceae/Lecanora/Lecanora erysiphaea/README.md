@@ -1,5 +1,4 @@
-Lecanora erysiphaea Nyl. SPECIES
-=======
+# Lecanora erysiphaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium celtidis (Syd.) R.T. Moore SPECIES
-=======
+# Stegonsporium celtidis (Syd.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deinococcus Brooks & Murray, 1981 GENUS
-=======
+# Deinococcus Brooks & Murray, 1981 GENUS
 
 #### Status
 ACCEPTED

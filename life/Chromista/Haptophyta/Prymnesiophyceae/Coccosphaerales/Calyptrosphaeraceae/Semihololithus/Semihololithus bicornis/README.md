@@ -1,5 +1,4 @@
-Semihololithus bicornis Perch-Nielsen, 1973 SPECIES
-=======
+# Semihololithus bicornis Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paralagena Sabirov, 1986 GENUS
-=======
+# Paralagena Sabirov, 1986 GENUS
 
 #### Status
 ACCEPTED

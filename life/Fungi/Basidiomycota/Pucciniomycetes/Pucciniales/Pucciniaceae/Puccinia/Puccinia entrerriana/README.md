@@ -1,5 +1,4 @@
-Puccinia entrerriana J.C. Lindq. SPECIES
-=======
+# Puccinia entrerriana J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

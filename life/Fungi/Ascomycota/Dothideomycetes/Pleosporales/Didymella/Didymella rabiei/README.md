@@ -1,17 +1,16 @@
-Phoma rabiei (Pass.) Khune & J.N. Kapoor SPECIES
-=======
+# Didymella rabiei (Kovatsch.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 33(1): 120 (1980)
+null
 
 #### Original name
-Zythia rabiei Pass.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus status Britzelm. SPECIES
-=======
+# Agaricus status Britzelm. SPECIES
 
 #### Status
 ACCEPTED

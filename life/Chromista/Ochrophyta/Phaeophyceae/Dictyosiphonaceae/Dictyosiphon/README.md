@@ -1,5 +1,4 @@
-Dictyosiphon Greville, 1830 GENUS
-=======
+# Dictyosiphon Greville, 1830 GENUS
 
 #### Status
 ACCEPTED

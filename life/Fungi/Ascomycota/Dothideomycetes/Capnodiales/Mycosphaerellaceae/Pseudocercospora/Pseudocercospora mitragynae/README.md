@@ -1,5 +1,4 @@
-Pseudocercospora mitragynae (Pavgi, U.P. Singh & Deighton) U. Braun SPECIES
-=======
+# Pseudocercospora mitragynae (Pavgi, U.P. Singh & Deighton) U. Braun SPECIES
 
 #### Status
 ACCEPTED

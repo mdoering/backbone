@@ -1,5 +1,4 @@
-Sphaeria sphincta Kunze SPECIES
-=======
+# Sphaeria sphincta Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus landekiensis Stawinski SPECIES
-=======
+# Phacus landekiensis Stawinski SPECIES
 
 #### Status
 ACCEPTED

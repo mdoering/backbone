@@ -1,5 +1,4 @@
-Uredo mkusiensis Henn. SPECIES
-=======
+# Uredo mkusiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

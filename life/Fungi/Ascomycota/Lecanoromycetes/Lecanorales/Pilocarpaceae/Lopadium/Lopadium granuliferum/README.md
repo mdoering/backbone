@@ -1,5 +1,4 @@
-Lopadium granuliferum Müll. Arg. SPECIES
-=======
+# Lopadium granuliferum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

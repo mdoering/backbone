@@ -1,17 +1,16 @@
-Physarum famintzinii var. sibiricum Lavrov VARIETY
-=======
+# Physarum famintzinii Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Physarum famintzinii var. sibiricum Lavrov
+Physarum famintzinii Rostaf., 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora graphica Ach. SPECIES
-=======
+# Lecanora graphica Ach. SPECIES
 
 #### Status
 ACCEPTED

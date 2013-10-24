@@ -1,5 +1,4 @@
-Melanconium secalis Lib. SPECIES
-=======
+# Melanconium secalis Lib. SPECIES
 
 #### Status
 ACCEPTED

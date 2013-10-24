@@ -1,5 +1,4 @@
-Pestalotiopsis sapotae (Henn.) Rib. Souza SPECIES
-=======
+# Pestalotiopsis sapotae (Henn.) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma byrsonimae Pat. SPECIES
-=======
+# Macrophoma byrsonimae Pat. SPECIES
 
 #### Status
 ACCEPTED

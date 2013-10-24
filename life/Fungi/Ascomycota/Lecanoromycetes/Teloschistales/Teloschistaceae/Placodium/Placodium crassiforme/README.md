@@ -1,5 +1,4 @@
-Placodium crassiforme (Hoffm.) Frege SPECIES
-=======
+# Placodium crassiforme (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria platensis Speg. SPECIES
-=======
+# Poria platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporium incrustans Fautrey SPECIES
-=======
+# Cytosporium incrustans Fautrey SPECIES
 
 #### Status
 ACCEPTED

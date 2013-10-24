@@ -1,5 +1,4 @@
-Microthyrium patagonicum Speg. SPECIES
-=======
+# Microthyrium patagonicum Speg. SPECIES
 
 #### Status
 ACCEPTED

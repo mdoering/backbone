@@ -1,5 +1,4 @@
-Baltisphaeridium aitholikellum Loeblich & Wicander, 1976 SPECIES
-=======
+# Baltisphaeridium aitholikellum Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

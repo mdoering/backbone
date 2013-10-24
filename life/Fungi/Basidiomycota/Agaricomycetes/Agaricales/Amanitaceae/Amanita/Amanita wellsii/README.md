@@ -1,5 +1,4 @@
-Amanita wellsii (Murrill) Murrill SPECIES
-=======
+# Amanita wellsii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia peritheciorum L. Holm SPECIES
-=======
+# Mollisia peritheciorum L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas pseudofelix Deflandre SPECIES
-=======
+# Trachelomonas pseudofelix Deflandre SPECIES
 
 #### Status
 ACCEPTED

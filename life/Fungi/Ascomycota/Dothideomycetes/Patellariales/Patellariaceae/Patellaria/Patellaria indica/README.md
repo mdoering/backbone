@@ -1,5 +1,4 @@
-Patellaria indica Srinivas. SPECIES
-=======
+# Patellaria indica Srinivas. SPECIES
 
 #### Status
 ACCEPTED

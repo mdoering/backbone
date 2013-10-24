@@ -1,5 +1,4 @@
-Strongylidium pseudocrassum SPECIES
-=======
+# Strongylidium pseudocrassum SPECIES
 
 #### Status
 ACCEPTED

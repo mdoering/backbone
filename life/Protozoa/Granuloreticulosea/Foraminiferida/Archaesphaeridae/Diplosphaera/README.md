@@ -1,11 +1,10 @@
-Diplosphaerina P.H. Derville, 1952 GENUS
-=======
+# Diplosphaera P.H. Derville, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Fusarium solaris anon. SPECIES
-=======
+# Fusarium solaris anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sericeocybe caninus var. caninus VARIETY
-=======
+# Sericeocybe caninus anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sericeocybe caninus var. caninus
+Sericeocybe caninus anon.
 
 ### Remarks
 null

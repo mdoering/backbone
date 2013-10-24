@@ -1,17 +1,16 @@
-Helotium carpinicolum Rehm SPECIES
-=======
+# Phaeohelotium carpinicola (Rehm) Hengstm., 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 107: 272 (2009)
 
 #### Original name
-Helotium carpinicolum Rehm
+Helotium carpinicola Rehm, 1896
 
 ### Remarks
 null

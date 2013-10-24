@@ -1,5 +1,4 @@
-Graphis glyphysoides (Fée) A. Massal. SPECIES
-=======
+# Graphis glyphysoides (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

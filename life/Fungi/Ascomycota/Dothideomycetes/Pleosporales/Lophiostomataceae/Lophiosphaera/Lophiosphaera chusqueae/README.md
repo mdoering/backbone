@@ -1,5 +1,4 @@
-Lophiosphaera chusqueae Speg. SPECIES
-=======
+# Lophiosphaera chusqueae Speg. SPECIES
 
 #### Status
 ACCEPTED

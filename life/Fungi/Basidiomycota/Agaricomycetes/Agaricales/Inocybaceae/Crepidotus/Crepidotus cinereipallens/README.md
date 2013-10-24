@@ -1,5 +1,4 @@
-Crepidotus cinereipallens Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus cinereipallens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

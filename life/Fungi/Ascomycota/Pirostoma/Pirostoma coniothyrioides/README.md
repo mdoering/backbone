@@ -1,5 +1,4 @@
-Pirostoma coniothyrioides Sacc. SPECIES
-=======
+# Pirostoma coniothyrioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

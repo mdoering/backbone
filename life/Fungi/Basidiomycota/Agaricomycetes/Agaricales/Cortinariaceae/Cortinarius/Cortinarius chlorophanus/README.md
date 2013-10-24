@@ -1,5 +1,4 @@
-Cortinarius chlorophanus M.M. Moser SPECIES
-=======
+# Cortinarius chlorophanus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

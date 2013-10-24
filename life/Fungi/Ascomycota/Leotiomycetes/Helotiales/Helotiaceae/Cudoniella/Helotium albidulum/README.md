@@ -1,5 +1,4 @@
-Helotium albidulum (Hedw.) P. Karst. SPECIES
-=======
+# Helotium albidulum (Hedw.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

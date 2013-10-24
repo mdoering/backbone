@@ -1,5 +1,4 @@
-Puccinia seorsa H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia seorsa H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

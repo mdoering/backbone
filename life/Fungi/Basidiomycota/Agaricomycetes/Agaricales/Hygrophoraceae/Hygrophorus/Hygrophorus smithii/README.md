@@ -1,5 +1,4 @@
-Hygrophorus smithii Berk. & Broome SPECIES
-=======
+# Hygrophorus smithii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum plagiophyllum var. benkulense Grunow VARIETY
-=======
+# Sargassum plagiophyllum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

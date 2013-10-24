@@ -1,5 +1,4 @@
-Planistromellaceae M.E. Barr FAMILY
-=======
+# Planistromellaceae M.E. Barr FAMILY
 
 #### Status
 ACCEPTED

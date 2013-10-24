@@ -1,5 +1,4 @@
-Pleospora caricis-pendulae Unamuno SPECIES
-=======
+# Pleospora caricis-pendulae Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leveillula caryophyllacearum f. caryophyllacearum FORM
-=======
+# Leveillula caryophyllacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula caryophyllacearum f. caryophyllacearum
+Leveillula caryophyllacearum Golovin
 
 ### Remarks
 null

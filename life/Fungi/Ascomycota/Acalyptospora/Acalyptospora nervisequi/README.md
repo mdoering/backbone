@@ -1,5 +1,4 @@
-Acalyptospora nervisequi Desm. SPECIES
-=======
+# Acalyptospora nervisequi Desm. SPECIES
 
 #### Status
 ACCEPTED

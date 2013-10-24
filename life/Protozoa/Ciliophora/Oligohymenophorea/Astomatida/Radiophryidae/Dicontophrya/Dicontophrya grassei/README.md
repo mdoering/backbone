@@ -1,5 +1,4 @@
-Dicontophrya grassei Puytorac & Dragesco, 1969 SPECIES
-=======
+# Dicontophrya grassei Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

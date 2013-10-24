@@ -1,5 +1,4 @@
-Glomerella himantophylli (Gonz. Frag.) Petr. SPECIES
-=======
+# Glomerella himantophylli (Gonz. Frag.) Petr. SPECIES
 
 #### Status
 ACCEPTED

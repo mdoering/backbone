@@ -1,17 +1,16 @@
-Sphaerophorus polycarpon Colenso SPECIES
-=======
+# Calycidium polycarpum (Colenso) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 34(1): 67 (2002)
 
 #### Original name
-Sphaerophorus polycarpon Colenso
+Sphaerophorus polycarpus Colenso
 
 ### Remarks
 null

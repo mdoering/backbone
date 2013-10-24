@@ -1,5 +1,4 @@
-Sclerotium solani Brunaud SPECIES
-=======
+# Sclerotium solani Brunaud SPECIES
 
 #### Status
 ACCEPTED

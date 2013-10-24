@@ -1,5 +1,4 @@
-Fauxtylostoma McGinty GENUS
-=======
+# Fauxtylostoma McGinty GENUS
 
 #### Status
 ACCEPTED

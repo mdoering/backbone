@@ -1,5 +1,4 @@
-Leptotrichum medicaginis (Brond.) Roum. SPECIES
-=======
+# Leptotrichum medicaginis (Brond.) Roum. SPECIES
 
 #### Status
 ACCEPTED

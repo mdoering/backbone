@@ -1,5 +1,4 @@
-Rhopalocladium myxophilum Schroers, Samuels & W. Gams, 1999 SPECIES
-=======
+# Rhopalocladium myxophilum Schroers, Samuels & W. Gams, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium spadiceum Tuck. SPECIES
-=======
+# Placodium spadiceum Tuck. SPECIES
 
 #### Status
 ACCEPTED

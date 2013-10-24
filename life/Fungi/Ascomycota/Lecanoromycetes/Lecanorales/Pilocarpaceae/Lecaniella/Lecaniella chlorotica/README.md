@@ -1,5 +1,4 @@
-Lecaniella chlorotica Jatta SPECIES
-=======
+# Lecaniella chlorotica Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durandia fraxini (Peck) Rehm SPECIES
-=======
+# Durandia fraxini (Peck) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cyanella Singer SPECIES
-=======
+# Mycena cyanella Singer SPECIES
 
 #### Status
 ACCEPTED

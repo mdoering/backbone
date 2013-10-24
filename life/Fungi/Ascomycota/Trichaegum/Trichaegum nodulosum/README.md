@@ -1,5 +1,4 @@
-Trichaegum nodulosum Ellis & Everh. SPECIES
-=======
+# Trichaegum nodulosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

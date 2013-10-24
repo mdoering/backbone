@@ -1,17 +1,16 @@
-Pseudorobillarda asparagis Vujan. SPECIES
-=======
+# Pseudorobillarda asparagi Vujan. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vujanovic, Hamel, Jabaji-Hare & St-Arnaud, Mycotaxon 87: 352 (2003)
 
 #### Original name
-Pseudorobillarda asparagis Vujan.
+Pseudorobillarda asparagi Vujan.
 
 ### Remarks
 null

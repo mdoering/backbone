@@ -1,5 +1,4 @@
-Morenoina Theiss. GENUS
-=======
+# Morenoina Theiss. GENUS
 
 #### Status
 ACCEPTED

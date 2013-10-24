@@ -1,5 +1,4 @@
-Lecidea panaeoloides Nyl. SPECIES
-=======
+# Lecidea panaeoloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gluconacetobacter johannae Fuentes-Ramírez et al., 2001 SPECIES
-=======
+# Gluconacetobacter johannae Fuentes-Ramírez et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

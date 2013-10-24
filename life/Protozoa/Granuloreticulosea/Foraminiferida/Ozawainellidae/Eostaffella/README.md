@@ -1,5 +1,4 @@
-Eostaffella Rauser-Chernousova, 1948 GENUS
-=======
+# Eostaffella Rauser-Chernousova, 1948 GENUS
 
 #### Status
 ACCEPTED

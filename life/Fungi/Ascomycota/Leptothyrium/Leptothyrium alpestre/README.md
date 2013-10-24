@@ -1,5 +1,4 @@
-Leptothyrium alpestre Sacc. SPECIES
-=======
+# Leptothyrium alpestre Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schulzeria flavidula Rick SPECIES
-=======
+# Schulzeria flavidula Rick SPECIES
 
 #### Status
 ACCEPTED

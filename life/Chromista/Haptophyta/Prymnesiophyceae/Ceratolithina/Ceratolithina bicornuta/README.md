@@ -1,5 +1,4 @@
-Ceratolithina bicornuta SPECIES
-=======
+# Ceratolithina bicornuta SPECIES
 
 #### Status
 ACCEPTED

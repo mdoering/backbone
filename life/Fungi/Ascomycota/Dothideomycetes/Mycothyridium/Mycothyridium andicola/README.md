@@ -1,5 +1,4 @@
-Mycothyridium andicola (Speg.) Petr. SPECIES
-=======
+# Mycothyridium andicola (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

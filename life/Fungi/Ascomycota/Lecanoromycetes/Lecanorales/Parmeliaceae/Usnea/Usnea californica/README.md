@@ -1,5 +1,4 @@
-Usnea californica subsp. californica SUBSPECIES
-=======
+# Usnea californica Herre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea californica subsp. californica
+Usnea californica Herre
 
 ### Remarks
 null

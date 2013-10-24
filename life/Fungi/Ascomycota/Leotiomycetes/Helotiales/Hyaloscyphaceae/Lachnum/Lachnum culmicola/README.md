@@ -1,5 +1,4 @@
-Lachnum culmicola W.Y. Zhuang SPECIES
-=======
+# Lachnum culmicola W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

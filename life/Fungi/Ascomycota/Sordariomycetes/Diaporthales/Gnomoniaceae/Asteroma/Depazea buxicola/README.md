@@ -1,5 +1,4 @@
-Depazea buxicola Sacc. SPECIES
-=======
+# Depazea buxicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

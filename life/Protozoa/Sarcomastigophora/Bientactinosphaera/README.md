@@ -1,5 +1,4 @@
-Bientactinosphaera Afanasieva, 2000 GENUS
-=======
+# Bientactinosphaera Afanasieva, 2000 GENUS
 
 #### Status
 ACCEPTED

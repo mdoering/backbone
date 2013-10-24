@@ -1,5 +1,4 @@
-Midotis infundibuliformis E.J. Durand SPECIES
-=======
+# Midotis infundibuliformis E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

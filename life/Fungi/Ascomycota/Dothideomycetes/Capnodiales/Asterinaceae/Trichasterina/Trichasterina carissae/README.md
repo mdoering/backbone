@@ -1,5 +1,4 @@
-Trichasterina carissae Doidge SPECIES
-=======
+# Trichasterina carissae Doidge SPECIES
 
 #### Status
 ACCEPTED

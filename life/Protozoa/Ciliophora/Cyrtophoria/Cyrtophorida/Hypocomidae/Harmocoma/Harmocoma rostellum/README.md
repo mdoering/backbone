@@ -1,8 +1,7 @@
-Hypocoma rostellum Deroux, 1976 SPECIES
-=======
+# Harmocoma rostellum (Deroux, 1976) Jankowski, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

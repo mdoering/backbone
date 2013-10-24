@@ -1,5 +1,4 @@
-Thalassiosira latimarginata Makarova SPECIES
-=======
+# Thalassiosira latimarginata Makarova SPECIES
 
 #### Status
 ACCEPTED

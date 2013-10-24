@@ -1,5 +1,4 @@
-Psathyra diminutiva Murrill SPECIES
-=======
+# Psathyra diminutiva Murrill SPECIES
 
 #### Status
 ACCEPTED

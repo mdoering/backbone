@@ -1,5 +1,4 @@
-Mycosphaerella dacrydii Butin SPECIES
-=======
+# Mycosphaerella dacrydii Butin SPECIES
 
 #### Status
 ACCEPTED

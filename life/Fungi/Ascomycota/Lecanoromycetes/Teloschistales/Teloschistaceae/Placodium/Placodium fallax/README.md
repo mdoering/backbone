@@ -1,5 +1,4 @@
-Placodium fallax Hepp SPECIES
-=======
+# Placodium fallax Hepp SPECIES
 
 #### Status
 ACCEPTED

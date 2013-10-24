@@ -1,14 +1,13 @@
-Paraphaeosphaeria capparidicola (Mundk. & S. Ahmad) S. Ahmad SPECIES
-=======
+# Paraphaeosphaeria capparicola (Mundk. & S. Ahmad) S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Biol. Soc. Pakistan 8: 106 (1979)
 
 #### Original name
 Leptosphaeria capparicola Mundk. & S. Ahmad

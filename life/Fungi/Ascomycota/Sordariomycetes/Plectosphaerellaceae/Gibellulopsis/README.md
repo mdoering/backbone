@@ -1,5 +1,4 @@
-Gibellulopsis Bat. & H. Maia GENUS
-=======
+# Gibellulopsis Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

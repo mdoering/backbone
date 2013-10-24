@@ -1,5 +1,4 @@
-Gibbera acervalis Fuckel SPECIES
-=======
+# Gibbera acervalis Fuckel SPECIES
 
 #### Status
 ACCEPTED

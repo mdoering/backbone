@@ -1,5 +1,4 @@
-Stemphylium callistephi K.F. Baker & L.H. Davis, 1950 SPECIES
-=======
+# Stemphylium callistephi K.F. Baker & L.H. Davis, 1950 SPECIES
 
 #### Status
 ACCEPTED

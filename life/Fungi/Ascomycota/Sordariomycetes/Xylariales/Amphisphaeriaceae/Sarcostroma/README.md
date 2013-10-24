@@ -1,5 +1,4 @@
-Sarcostroma GENUS
-=======
+# Sarcostroma GENUS
 
 #### Status
 ACCEPTED

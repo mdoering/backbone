@@ -1,5 +1,4 @@
-Cheirosporium triseriale L. Cai & K.D. Hyde, 2008 SPECIES
-=======
+# Cheirosporium triseriale L. Cai & K.D. Hyde, 2008 SPECIES
 
 #### Status
 ACCEPTED

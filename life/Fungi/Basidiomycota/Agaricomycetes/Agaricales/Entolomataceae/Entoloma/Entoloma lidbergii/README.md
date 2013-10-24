@@ -1,5 +1,4 @@
-Entoloma lidbergii Noordel. SPECIES
-=======
+# Entoloma lidbergii Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina oxyacanthi Doidge SPECIES
-=======
+# Asterina oxyacanthi Doidge SPECIES
 
 #### Status
 ACCEPTED

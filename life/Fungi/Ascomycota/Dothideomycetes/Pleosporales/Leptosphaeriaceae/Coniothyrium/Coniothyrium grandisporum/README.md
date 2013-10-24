@@ -1,5 +1,4 @@
-Coniothyrium grandisporum Bubák SPECIES
-=======
+# Coniothyrium grandisporum Bubák SPECIES
 
 #### Status
 ACCEPTED

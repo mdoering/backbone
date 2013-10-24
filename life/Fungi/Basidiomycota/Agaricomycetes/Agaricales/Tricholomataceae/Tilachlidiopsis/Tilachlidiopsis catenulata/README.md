@@ -1,5 +1,4 @@
-Tilachlidiopsis catenulata Papierok & Charp. SPECIES
-=======
+# Tilachlidiopsis catenulata Papierok & Charp. SPECIES
 
 #### Status
 ACCEPTED

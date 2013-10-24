@@ -1,5 +1,4 @@
-Septoria inulae-japonicae Sawada SPECIES
-=======
+# Septoria inulae-japonicae Sawada SPECIES
 
 #### Status
 ACCEPTED

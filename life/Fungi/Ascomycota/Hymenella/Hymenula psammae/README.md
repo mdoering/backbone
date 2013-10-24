@@ -1,5 +1,4 @@
-Hymenula psammae Oudem. SPECIES
-=======
+# Hymenula psammae Oudem. SPECIES
 
 #### Status
 ACCEPTED

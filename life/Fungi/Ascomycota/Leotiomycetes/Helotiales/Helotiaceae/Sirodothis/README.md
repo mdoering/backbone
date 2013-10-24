@@ -1,5 +1,4 @@
-Sirodothis Clem. GENUS
-=======
+# Sirodothis Clem. GENUS
 
 #### Status
 ACCEPTED

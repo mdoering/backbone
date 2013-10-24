@@ -1,5 +1,4 @@
-Cymbosphaeridium T.R. Lister, 1970 GENUS
-=======
+# Cymbosphaeridium T.R. Lister, 1970 GENUS
 
 #### Status
 ACCEPTED

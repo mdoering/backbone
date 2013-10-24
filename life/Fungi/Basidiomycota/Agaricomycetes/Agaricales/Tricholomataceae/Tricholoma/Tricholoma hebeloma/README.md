@@ -1,5 +1,4 @@
-Tricholoma hebeloma Peck SPECIES
-=======
+# Tricholoma hebeloma Peck SPECIES
 
 #### Status
 ACCEPTED

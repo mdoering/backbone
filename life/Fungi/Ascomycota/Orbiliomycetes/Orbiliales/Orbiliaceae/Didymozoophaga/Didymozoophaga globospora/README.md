@@ -1,5 +1,4 @@
-Didymozoophaga globospora var. globospora VARIETY
-=======
+# Didymozoophaga globospora Soprunov & Galiulina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Microbiol. , Reading 20: 495 (1951)
 
 #### Original name
-Didymozoophaga globospora var. globospora
+Didymozoophaga globospora Soprunov & Galiulina
 
 ### Remarks
 null

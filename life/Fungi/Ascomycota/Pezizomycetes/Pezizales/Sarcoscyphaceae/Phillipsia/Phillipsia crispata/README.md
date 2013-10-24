@@ -1,5 +1,4 @@
-Phillipsia crispata (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Phillipsia crispata (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

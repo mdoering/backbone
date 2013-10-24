@@ -1,8 +1,7 @@
-Galera pulcra Clem. SPECIES
-=======
+# Galera pulchra Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Galera pulcra Clem.
+Galera pulchra Clem.
 
 ### Remarks
 null

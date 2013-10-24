@@ -1,5 +1,4 @@
-Nematoplaca incrustans Geitler SPECIES
-=======
+# Nematoplaca incrustans Geitler SPECIES
 
 #### Status
 ACCEPTED

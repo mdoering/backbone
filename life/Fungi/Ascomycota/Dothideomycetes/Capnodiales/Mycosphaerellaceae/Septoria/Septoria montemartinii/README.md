@@ -1,5 +1,4 @@
-Septoria montemartinii Pollacci SPECIES
-=======
+# Septoria montemartinii Pollacci SPECIES
 
 #### Status
 ACCEPTED

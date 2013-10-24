@@ -1,5 +1,4 @@
-Uredo pallens Sacc. SPECIES
-=======
+# Uredo pallens Sacc. SPECIES
 
 #### Status
 ACCEPTED

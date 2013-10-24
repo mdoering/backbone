@@ -1,5 +1,4 @@
-Aecidium dolichi Cooke SPECIES
-=======
+# Aecidium dolichi Cooke SPECIES
 
 #### Status
 ACCEPTED

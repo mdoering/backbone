@@ -1,5 +1,4 @@
-Psilocitharella Loeblich & Tappan, 1986 GENUS
-=======
+# Psilocitharella Loeblich & Tappan, 1986 GENUS
 
 #### Status
 ACCEPTED

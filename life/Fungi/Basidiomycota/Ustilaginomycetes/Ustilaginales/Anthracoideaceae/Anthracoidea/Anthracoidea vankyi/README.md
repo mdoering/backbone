@@ -1,5 +1,4 @@
-Anthracoidea vankyi Nannf. SPECIES
-=======
+# Anthracoidea vankyi Nannf. SPECIES
 
 #### Status
 ACCEPTED

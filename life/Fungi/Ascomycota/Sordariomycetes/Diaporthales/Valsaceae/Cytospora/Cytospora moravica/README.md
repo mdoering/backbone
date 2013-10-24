@@ -1,5 +1,4 @@
-Cytospora moravica Sacc. SPECIES
-=======
+# Cytospora moravica Sacc. SPECIES
 
 #### Status
 ACCEPTED

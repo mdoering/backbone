@@ -1,5 +1,4 @@
-Entoloma langei Noordel. & T. Borgen, 1984 SPECIES
-=======
+# Entoloma langei Noordel. & T. Borgen, 1984 SPECIES
 
 #### Status
 ACCEPTED

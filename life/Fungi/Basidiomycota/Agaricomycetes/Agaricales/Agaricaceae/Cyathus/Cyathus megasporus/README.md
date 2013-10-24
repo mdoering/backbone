@@ -1,5 +1,4 @@
-Cyathus megasporus W. Ren & T.X. Zhou SPECIES
-=======
+# Cyathus megasporus W. Ren & T.X. Zhou SPECIES
 
 #### Status
 ACCEPTED

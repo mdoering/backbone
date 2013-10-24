@@ -1,5 +1,4 @@
-Spathidium deforme Kahl, 1928 SPECIES
-=======
+# Spathidium deforme Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hoplitophrya Stein, 1860 GENUS
-=======
+# Hoplitophrya Stein, 1860 GENUS
 
 #### Status
 ACCEPTED

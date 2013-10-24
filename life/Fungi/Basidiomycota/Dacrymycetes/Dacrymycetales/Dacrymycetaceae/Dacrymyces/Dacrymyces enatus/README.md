@@ -1,17 +1,16 @@
-Dacrymyces enatus var. enatus VARIETY
-=======
+# Dacrymyces enatus (Berk. & M.A. Curtis) Massee, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 6(4): 182 (1891)
 
 #### Original name
-Dacrymyces enatus var. enatus
+null
 
 ### Remarks
 null

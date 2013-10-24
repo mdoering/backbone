@@ -1,5 +1,4 @@
-Diplodia ipomoeae S. Ahmad SPECIES
-=======
+# Diplodia ipomoeae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella epicarphinea (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Didymella epicarphinea (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyophimus Ehrenberg, 1847 GENUS
-=======
+# Dictyophimus Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypholoma oruellum (Peck) Morgan SPECIES
-=======
+# Hypholoma ornellum (Peck) Morgan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 14: 65 (1908)
 
 #### Original name
 Agaricus ornellus Peck

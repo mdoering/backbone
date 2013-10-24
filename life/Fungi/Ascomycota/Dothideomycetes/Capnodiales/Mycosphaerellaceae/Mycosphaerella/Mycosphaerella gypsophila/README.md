@@ -1,5 +1,4 @@
-Mycosphaerella gypsophila (Lasch) G. Winter SPECIES
-=======
+# Mycosphaerella gypsophila (Lasch) G. Winter SPECIES
 
 #### Status
 ACCEPTED

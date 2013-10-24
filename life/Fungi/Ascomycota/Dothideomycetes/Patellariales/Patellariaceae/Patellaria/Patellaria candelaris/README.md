@@ -1,5 +1,4 @@
-Patellaria candelaris (L.) DC. SPECIES
-=======
+# Patellaria candelaris (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

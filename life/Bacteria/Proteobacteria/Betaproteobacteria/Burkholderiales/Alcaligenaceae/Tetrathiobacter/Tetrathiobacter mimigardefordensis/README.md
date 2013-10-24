@@ -1,5 +1,4 @@
-Tetrathiobacter mimigardefordensis Wübbeler et al., 2006 SPECIES
-=======
+# Tetrathiobacter mimigardefordensis Wübbeler et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

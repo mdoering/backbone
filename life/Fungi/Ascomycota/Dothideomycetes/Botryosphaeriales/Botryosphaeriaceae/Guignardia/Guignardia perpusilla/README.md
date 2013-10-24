@@ -1,14 +1,13 @@
-Sphaerella perpusilla (Desm.) Fuckel, 1863 SPECIES
-=======
+# Guignardia perpusilla (Desm.) Verpl., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 5: 340 (1939)
 
 #### Original name
 Sphaeria perpusilla Desm., 1846

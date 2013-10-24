@@ -1,5 +1,4 @@
-Baltisphaeridium pilosum (Ehrenberg) W.A.S. Sarjeant SPECIES
-=======
+# Baltisphaeridium pilosum (Ehrenberg) W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

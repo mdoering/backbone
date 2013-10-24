@@ -1,5 +1,4 @@
-Lichen fibrosus Sm. SPECIES
-=======
+# Lichen fibrosus Sm. SPECIES
 
 #### Status
 ACCEPTED

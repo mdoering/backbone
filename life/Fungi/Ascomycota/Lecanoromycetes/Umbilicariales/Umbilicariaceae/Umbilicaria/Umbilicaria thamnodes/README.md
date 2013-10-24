@@ -1,5 +1,4 @@
-Umbilicaria thamnodes Hue SPECIES
-=======
+# Umbilicaria thamnodes Hue SPECIES
 
 #### Status
 ACCEPTED

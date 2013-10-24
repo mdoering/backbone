@@ -1,5 +1,4 @@
-Cercosporidium helleri Earle SPECIES
-=======
+# Cercosporidium helleri Earle SPECIES
 
 #### Status
 ACCEPTED

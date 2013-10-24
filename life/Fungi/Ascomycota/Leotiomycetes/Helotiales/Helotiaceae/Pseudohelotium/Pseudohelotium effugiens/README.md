@@ -1,5 +1,4 @@
-Pseudohelotium effugiens (Roberge ex Desm.) Sacc. SPECIES
-=======
+# Pseudohelotium effugiens (Roberge ex Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

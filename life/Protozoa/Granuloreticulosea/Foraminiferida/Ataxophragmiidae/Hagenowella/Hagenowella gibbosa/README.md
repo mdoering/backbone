@@ -1,5 +1,4 @@
-Hagenowella gibbosa (d'Orbigny) SPECIES
-=======
+# Hagenowella gibbosa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

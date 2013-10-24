@@ -1,5 +1,4 @@
-Sphaeria rottlerae Berk. & Broome SPECIES
-=======
+# Sphaeria rottlerae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

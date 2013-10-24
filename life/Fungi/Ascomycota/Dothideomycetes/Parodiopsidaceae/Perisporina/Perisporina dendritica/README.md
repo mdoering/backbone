@@ -1,5 +1,4 @@
-Perisporina dendritica F. Stevens SPECIES
-=======
+# Perisporina dendritica F. Stevens SPECIES
 
 #### Status
 ACCEPTED

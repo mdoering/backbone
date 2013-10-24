@@ -1,5 +1,4 @@
-Trachelomonas bernardi SPECIES
-=======
+# Trachelomonas bernardi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon clavatum Bull. SPECIES
-=======
+# Hypoxylon clavatum Bull. SPECIES
 
 #### Status
 ACCEPTED

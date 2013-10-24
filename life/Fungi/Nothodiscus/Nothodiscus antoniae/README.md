@@ -1,5 +1,4 @@
-Nothodiscus antoniae Sacc. SPECIES
-=======
+# Nothodiscus antoniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

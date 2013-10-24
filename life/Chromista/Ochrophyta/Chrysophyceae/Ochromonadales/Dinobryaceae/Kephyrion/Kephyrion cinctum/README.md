@@ -1,5 +1,4 @@
-Kephyrion cinctum (Lackey) Bourrelly SPECIES
-=======
+# Kephyrion cinctum (Lackey) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

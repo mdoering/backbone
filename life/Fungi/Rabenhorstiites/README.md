@@ -1,5 +1,4 @@
-Rabenhorstiites Teterevn. & Tasl. GENUS
-=======
+# Rabenhorstiites Teterevn. & Tasl. GENUS
 
 #### Status
 ACCEPTED

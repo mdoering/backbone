@@ -1,5 +1,4 @@
-Laboulbenia algerina Speg. SPECIES
-=======
+# Laboulbenia algerina Speg. SPECIES
 
 #### Status
 ACCEPTED

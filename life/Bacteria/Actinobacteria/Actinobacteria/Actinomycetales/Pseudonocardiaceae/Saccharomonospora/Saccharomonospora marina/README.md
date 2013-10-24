@@ -1,5 +1,4 @@
-Saccharomonospora marina Liu, Li, Zheng, Huang & Li, 2010 SPECIES
-=======
+# Saccharomonospora marina Liu, Li, Zheng, Huang & Li, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora nebulosa Malbr. SPECIES
-=======
+# Physalospora nebulosa Malbr. SPECIES
 
 #### Status
 ACCEPTED

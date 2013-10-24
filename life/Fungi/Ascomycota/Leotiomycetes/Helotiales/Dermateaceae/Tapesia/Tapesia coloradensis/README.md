@@ -1,5 +1,4 @@
-Tapesia coloradensis Ellis & Everh. SPECIES
-=======
+# Tapesia coloradensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

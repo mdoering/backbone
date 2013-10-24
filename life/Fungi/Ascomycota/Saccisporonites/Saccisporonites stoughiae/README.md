@@ -1,5 +1,4 @@
-Saccisporonites stoughiae (Elsik) Kalgutkar & Janson. SPECIES
-=======
+# Saccisporonites stoughiae (Elsik) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

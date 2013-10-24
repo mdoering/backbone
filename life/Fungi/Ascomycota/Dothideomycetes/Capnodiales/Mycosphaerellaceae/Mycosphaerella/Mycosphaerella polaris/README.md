@@ -1,5 +1,4 @@
-Mycosphaerella polaris (P. Karst.) Lindau SPECIES
-=======
+# Mycosphaerella polaris (P. Karst.) Lindau SPECIES
 
 #### Status
 ACCEPTED

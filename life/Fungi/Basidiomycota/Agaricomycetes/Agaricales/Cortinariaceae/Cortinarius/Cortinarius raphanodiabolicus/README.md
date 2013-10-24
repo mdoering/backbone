@@ -1,5 +1,4 @@
-Cortinarius raphanodiabolicus Rob. Henry SPECIES
-=======
+# Cortinarius raphanodiabolicus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

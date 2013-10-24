@@ -1,14 +1,13 @@
-Empusa gastropachae Racib., 1910 SPECIES
-=======
+# Furia gastropachae (Racib.) S. Keller, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kosmos 35(7-9): 775 (1910)
+in Keller & Petrini, Sydowia 57(1): 39 (2005)
 
 #### Original name
 Empusa gastropachae Racib., 1910

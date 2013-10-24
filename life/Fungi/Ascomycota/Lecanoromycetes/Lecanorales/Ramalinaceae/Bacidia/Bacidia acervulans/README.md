@@ -1,5 +1,4 @@
-Bacidia acervulans (Nyl.) B. de Lesd. SPECIES
-=======
+# Bacidia acervulans (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

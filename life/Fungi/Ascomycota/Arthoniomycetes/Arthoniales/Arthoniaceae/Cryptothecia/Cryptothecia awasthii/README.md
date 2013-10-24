@@ -1,17 +1,16 @@
-Cryptothecia awasthi Makhija & Patw. SPECIES
-=======
+# Cryptothecia awasthii Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 11(1): 4 (1985)
 
 #### Original name
-Cryptothecia awasthi Makhija & Patw.
+Cryptothecia awasthii Makhija & Patw.
 
 ### Remarks
 null

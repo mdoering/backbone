@@ -1,5 +1,4 @@
-Cornuvia minutula Speg. SPECIES
-=======
+# Cornuvia minutula Speg. SPECIES
 
 #### Status
 ACCEPTED

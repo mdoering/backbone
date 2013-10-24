@@ -1,5 +1,4 @@
-Agaricus sciophylla Fr. SPECIES
-=======
+# Agaricus sciophylla Fr. SPECIES
 
 #### Status
 ACCEPTED

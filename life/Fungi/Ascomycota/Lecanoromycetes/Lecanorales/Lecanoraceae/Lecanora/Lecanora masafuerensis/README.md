@@ -1,5 +1,4 @@
-Lecanora masafuerensis Zahlbr. SPECIES
-=======
+# Lecanora masafuerensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum claviforme (Preuss) Goid. SPECIES
-=======
+# Stilbum claviforme (Preuss) Goid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clitocybe hoffmanni Peck SPECIES
-=======
+# Clitocybe hoffmannii Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 123 (1871)
 
 #### Original name
-Clitocybe hoffmanni Peck
+Clitocybe hoffmannii Peck
 
 ### Remarks
 null

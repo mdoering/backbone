@@ -1,17 +1,16 @@
-Leptospora ovina var. glabrata (Fr.) Fuckel, 1870 VARIETY
-=======
+# Lasiosphaeria glabrata (Fr.) Munk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 17(no. 1): 111 (1957)
 
 #### Original name
-null
+Sphaeria ovina var. glabrata Fr., 1823
 
 ### Remarks
 null

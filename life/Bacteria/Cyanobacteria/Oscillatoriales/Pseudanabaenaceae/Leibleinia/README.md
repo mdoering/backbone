@@ -1,5 +1,4 @@
-Leibleinia (M. Gomont) L. Hoffmann, 1985 GENUS
-=======
+# Leibleinia (M. Gomont) L. Hoffmann, 1985 GENUS
 
 #### Status
 ACCEPTED

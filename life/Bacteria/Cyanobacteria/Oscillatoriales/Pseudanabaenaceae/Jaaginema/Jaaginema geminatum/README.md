@@ -1,11 +1,10 @@
-Oscillatoria geminata tenella Copeland SUBSPECIES
-=======
+# Jaaginema geminatum (Meneghini ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

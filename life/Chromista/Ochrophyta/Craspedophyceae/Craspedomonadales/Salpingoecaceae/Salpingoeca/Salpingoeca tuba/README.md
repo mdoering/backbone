@@ -1,8 +1,7 @@
-Salpingoeca vaginicola sensu Dunkerly, 1910 SPECIES
-=======
+# Salpingoeca tuba Kent, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

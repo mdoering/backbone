@@ -1,5 +1,4 @@
-Leucogymnospora intricata Fink SPECIES
-=======
+# Leucogymnospora intricata Fink SPECIES
 
 #### Status
 ACCEPTED

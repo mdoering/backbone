@@ -1,5 +1,4 @@
-Dictyocha tripartita J.Schumann SPECIES
-=======
+# Dictyocha tripartita J.Schumann SPECIES
 
 #### Status
 ACCEPTED

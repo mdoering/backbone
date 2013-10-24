@@ -1,5 +1,4 @@
-Cerebrosphaera buickii Butterfield, Knoll & Swett, 1994 SPECIES
-=======
+# Cerebrosphaera buickii Butterfield, Knoll & Swett, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conida GENUS
-=======
+# Conida GENUS
 
 #### Status
 ACCEPTED

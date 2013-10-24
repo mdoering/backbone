@@ -1,5 +1,4 @@
-Gymnopilus fuscosquamulosus Hesler SPECIES
-=======
+# Gymnopilus fuscosquamulosus Hesler SPECIES
 
 #### Status
 ACCEPTED

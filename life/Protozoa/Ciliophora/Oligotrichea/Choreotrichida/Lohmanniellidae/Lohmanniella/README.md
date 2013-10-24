@@ -1,5 +1,4 @@
-Lohmanniella Leegaard GENUS
-=======
+# Lohmanniella Leegaard GENUS
 
 #### Status
 ACCEPTED

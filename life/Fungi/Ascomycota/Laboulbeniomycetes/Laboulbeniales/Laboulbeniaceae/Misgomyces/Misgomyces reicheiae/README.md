@@ -1,5 +1,4 @@
-Misgomyces reicheiae (Santam.) Santam. SPECIES
-=======
+# Misgomyces reicheiae (Santam.) Santam. SPECIES
 
 #### Status
 ACCEPTED

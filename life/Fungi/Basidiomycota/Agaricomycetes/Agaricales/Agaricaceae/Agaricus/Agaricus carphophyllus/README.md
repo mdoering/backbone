@@ -1,17 +1,16 @@
-Agaricus carpophyllus Berk. & Broome SPECIES
-=======
+# Agaricus carphophyllus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 498 (1871)
 
 #### Original name
-Agaricus carpophyllus Berk. & Broome
+Agaricus carphophyllus Berk. & Broome
 
 ### Remarks
 null

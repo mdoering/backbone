@@ -1,5 +1,4 @@
-Septoria elsholtziae Pandotra & Ganguly SPECIES
-=======
+# Septoria elsholtziae Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

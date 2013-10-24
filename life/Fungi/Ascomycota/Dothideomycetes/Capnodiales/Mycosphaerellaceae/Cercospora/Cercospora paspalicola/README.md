@@ -1,5 +1,4 @@
-Cercospora paspalicola Petr. & Cif. SPECIES
-=======
+# Cercospora paspalicola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

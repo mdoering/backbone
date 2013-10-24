@@ -1,5 +1,4 @@
-Husseia insignis Berk. SPECIES
-=======
+# Husseia insignis Berk. SPECIES
 
 #### Status
 ACCEPTED

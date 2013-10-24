@@ -1,5 +1,4 @@
-Rhodophyllus putus Romagn. SPECIES
-=======
+# Rhodophyllus putus Romagn. SPECIES
 
 #### Status
 ACCEPTED

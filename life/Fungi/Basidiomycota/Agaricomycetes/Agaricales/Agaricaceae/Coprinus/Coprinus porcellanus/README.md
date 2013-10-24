@@ -1,5 +1,4 @@
-Coprinus porcellanus (Schaeff.) J. Schröt. SPECIES
-=======
+# Coprinus porcellanus (Schaeff.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

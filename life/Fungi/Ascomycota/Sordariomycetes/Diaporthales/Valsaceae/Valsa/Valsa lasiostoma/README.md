@@ -1,5 +1,4 @@
-Valsa lasiostoma Ellis & Everh. SPECIES
-=======
+# Valsa lasiostoma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

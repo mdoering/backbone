@@ -1,5 +1,4 @@
-Cercospora euonymi Ellis SPECIES
-=======
+# Cercospora euonymi Ellis SPECIES
 
 #### Status
 ACCEPTED

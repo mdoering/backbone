@@ -1,5 +1,4 @@
-Macrophoma crassipes (Mont.) Sacc. SPECIES
-=======
+# Macrophoma crassipes (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula pseudocampestris Kühner SPECIES
-=======
+# Russula pseudocampestris Kühner SPECIES
 
 #### Status
 ACCEPTED

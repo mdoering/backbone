@@ -1,5 +1,4 @@
-Lecidea submilvina Vain. SPECIES
-=======
+# Lecidea submilvina Vain. SPECIES
 
 #### Status
 ACCEPTED

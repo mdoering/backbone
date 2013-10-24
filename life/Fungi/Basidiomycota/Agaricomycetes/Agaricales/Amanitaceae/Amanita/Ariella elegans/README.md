@@ -1,5 +1,4 @@
-Ariella elegans (Beeli) E.-J. Gilbert SPECIES
-=======
+# Ariella elegans (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

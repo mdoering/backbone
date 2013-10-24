@@ -1,5 +1,4 @@
-Thelephora hirneoloides (Pat.) Sacc. SPECIES
-=======
+# Thelephora hirneoloides (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

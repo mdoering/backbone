@@ -1,5 +1,4 @@
-Polyporus xanthus Schwein. SPECIES
-=======
+# Polyporus xanthus Schwein. SPECIES
 
 #### Status
 ACCEPTED

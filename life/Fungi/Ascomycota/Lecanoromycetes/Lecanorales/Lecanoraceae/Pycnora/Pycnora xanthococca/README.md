@@ -1,17 +1,16 @@
-Lecidea xanthococca subsp. xanthococca Sommerf. SUBSPECIES
-=======
+# Pycnora xanthococca (Sommerf.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stapfia 76: 158 (2001)
 
 #### Original name
-Lecidea xanthococca subsp. xanthococca Sommerf.
+Lecidea xanthococca Sommerf.
 
 ### Remarks
 null

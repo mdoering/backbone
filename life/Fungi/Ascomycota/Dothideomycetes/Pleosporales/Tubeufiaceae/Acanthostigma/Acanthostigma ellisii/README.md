@@ -1,17 +1,16 @@
-Acanthostigma parasiticum Ellis & Everh., 1893 SPECIES
-=======
+# Acanthostigma ellisii Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1893 45: 443 (1893)
+Syll. fung. (Abellini) 14: 591 (1899)
 
 #### Original name
-Trichosphaeria parasitica R. Hartig, 1884
+Acanthostigma parasiticum Ellis & Everh., 1893
 
 ### Remarks
 null

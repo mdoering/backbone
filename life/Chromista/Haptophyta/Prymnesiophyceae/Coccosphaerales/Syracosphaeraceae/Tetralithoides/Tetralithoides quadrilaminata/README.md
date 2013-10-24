@@ -1,5 +1,4 @@
-Tetralithoides quadrilaminata (Okada & McIntyre) Jordan et al., 1993 SPECIES
-=======
+# Tetralithoides quadrilaminata (Okada & McIntyre) Jordan et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

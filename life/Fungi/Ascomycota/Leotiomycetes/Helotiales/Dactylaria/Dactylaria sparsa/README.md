@@ -1,5 +1,4 @@
-Dactylaria sparsa R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Dactylaria sparsa R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

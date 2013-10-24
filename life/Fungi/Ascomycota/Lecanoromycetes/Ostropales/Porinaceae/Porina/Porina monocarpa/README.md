@@ -1,5 +1,4 @@
-Porina monocarpa (Kremp.) F. Schill. SPECIES
-=======
+# Porina monocarpa (Kremp.) F. Schill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea lunulans Fée SPECIES
-=======
+# Lecidea lunulans Fée SPECIES
 
 #### Status
 ACCEPTED

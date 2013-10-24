@@ -1,5 +1,4 @@
-Septobasidium perforatum Couch SPECIES
-=======
+# Septobasidium perforatum Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium ceratostomoides Speg. SPECIES
-=======
+# Graphium ceratostomoides Speg. SPECIES
 
 #### Status
 ACCEPTED

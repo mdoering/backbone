@@ -1,5 +1,4 @@
-Monandromyces umbonatus R.K. Benj., 1999 SPECIES
-=======
+# Monandromyces umbonatus R.K. Benj., 1999 SPECIES
 
 #### Status
 ACCEPTED

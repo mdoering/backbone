@@ -1,5 +1,4 @@
-Leiophloea pongamiae (Vain.) Riedl SPECIES
-=======
+# Leiophloea pongamiae (Vain.) Riedl SPECIES
 
 #### Status
 ACCEPTED

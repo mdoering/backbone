@@ -1,5 +1,4 @@
-Cercospora paraguayensis Tak. Kobay. SPECIES
-=======
+# Cercospora paraguayensis Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

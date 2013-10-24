@@ -1,5 +1,4 @@
-Meliola anastomosans G. Winter SPECIES
-=======
+# Meliola anastomosans G. Winter SPECIES
 
 #### Status
 ACCEPTED

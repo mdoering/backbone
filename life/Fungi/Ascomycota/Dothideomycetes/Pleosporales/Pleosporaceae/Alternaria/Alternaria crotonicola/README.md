@@ -1,5 +1,4 @@
-Alternaria crotonicola T.Y. Zhang & J.C. David SPECIES
-=======
+# Alternaria crotonicola T.Y. Zhang & J.C. David SPECIES
 
 #### Status
 ACCEPTED

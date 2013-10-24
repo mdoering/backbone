@@ -1,5 +1,4 @@
-Peteinosphaeridium micranthum (Eisenack, 1959) Eisenack et al., 1973 SPECIES
-=======
+# Peteinosphaeridium micranthum (Eisenack, 1959) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

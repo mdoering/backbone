@@ -1,5 +1,4 @@
-Aurantiosporium M. Piepenbr., Vánky & Oberw. GENUS
-=======
+# Aurantiosporium M. Piepenbr., Vánky & Oberw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Demordium inquinas Link SPECIES
-=======
+# Demordium inquinas Link SPECIES
 
 #### Status
 ACCEPTED

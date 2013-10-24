@@ -1,5 +1,4 @@
-Marasmius haedinus var. haedinus VARIETY
-=======
+# Marasmius haedinus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hooker's J. Bot. 8: 135 (1856)
 
 #### Original name
-Marasmius haedinus var. haedinus
+Marasmius haedinus Berk.
 
 ### Remarks
 null

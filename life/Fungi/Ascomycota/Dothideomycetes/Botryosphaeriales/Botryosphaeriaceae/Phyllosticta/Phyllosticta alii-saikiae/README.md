@@ -1,5 +1,4 @@
-Phyllosticta alii-saikiae Vanev & Aa SPECIES
-=======
+# Phyllosticta alii-saikiae Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

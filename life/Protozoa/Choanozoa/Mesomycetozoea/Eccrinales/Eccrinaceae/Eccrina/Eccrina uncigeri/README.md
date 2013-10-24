@@ -1,5 +1,4 @@
-Eccrina uncigeri Maessen SPECIES
-=======
+# Eccrina uncigeri Maessen SPECIES
 
 #### Status
 ACCEPTED

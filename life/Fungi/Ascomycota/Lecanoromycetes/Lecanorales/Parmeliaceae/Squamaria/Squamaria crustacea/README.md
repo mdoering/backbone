@@ -1,5 +1,4 @@
-Squamaria crustacea Savicz SPECIES
-=======
+# Squamaria crustacea Savicz SPECIES
 
 #### Status
 ACCEPTED

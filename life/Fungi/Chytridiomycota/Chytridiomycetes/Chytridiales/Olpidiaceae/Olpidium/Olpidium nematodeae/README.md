@@ -1,5 +1,4 @@
-Olpidium nematodeae Skvortsov SPECIES
-=======
+# Olpidium nematodeae Skvortsov SPECIES
 
 #### Status
 ACCEPTED

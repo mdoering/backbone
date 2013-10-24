@@ -1,5 +1,4 @@
-Comatricha parvispora Dhillon & Nann.-Bremek., 1977 SPECIES
-=======
+# Comatricha parvispora Dhillon & Nann.-Bremek., 1977 SPECIES
 
 #### Status
 ACCEPTED

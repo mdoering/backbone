@@ -1,5 +1,4 @@
-Puccinia heideri Wettst. SPECIES
-=======
+# Puccinia heideri Wettst. SPECIES
 
 #### Status
 ACCEPTED

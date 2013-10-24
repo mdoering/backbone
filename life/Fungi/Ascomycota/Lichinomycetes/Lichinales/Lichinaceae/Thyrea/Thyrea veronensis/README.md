@@ -1,5 +1,4 @@
-Thyrea veronensis (A. Massal.) A. Massal. SPECIES
-=======
+# Thyrea veronensis (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

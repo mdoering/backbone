@@ -1,17 +1,16 @@
-Sphaerella borealis (Bubák & Vleugel) Sacc., 1928 SPECIES
-=======
+# Phaeosphaerella borealis (Bubák & Vleugel) Tomilin, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 9: 119 (1972)
 
 #### Original name
-null
+Mycosphaerella borealis (Bubák & Vleugel) M.E. Barr, 1972
 
 ### Remarks
 null

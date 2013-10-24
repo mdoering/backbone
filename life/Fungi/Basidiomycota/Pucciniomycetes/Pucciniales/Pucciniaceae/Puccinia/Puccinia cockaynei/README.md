@@ -1,5 +1,4 @@
-Puccinia cockaynei G. Cunn., 1923 SPECIES
-=======
+# Puccinia cockaynei G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

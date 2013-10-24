@@ -1,5 +1,4 @@
-Rhizothyrium parasiticum Bunting, 1986 SPECIES
-=======
+# Rhizothyrium parasiticum Bunting, 1986 SPECIES
 
 #### Status
 ACCEPTED

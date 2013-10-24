@@ -1,5 +1,4 @@
-Cladosporium phragmitis Opiz SPECIES
-=======
+# Cladosporium phragmitis Opiz SPECIES
 
 #### Status
 ACCEPTED

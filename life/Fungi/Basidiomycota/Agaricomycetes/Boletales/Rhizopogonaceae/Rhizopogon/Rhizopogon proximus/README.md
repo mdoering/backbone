@@ -1,5 +1,4 @@
-Rhizopogon proximus A.H. Sm. SPECIES
-=======
+# Rhizopogon proximus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

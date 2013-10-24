@@ -1,5 +1,4 @@
-Coriolus albovestidus (Lloyd) G. Cunn. SPECIES
-=======
+# Coriolus albovestidus (Lloyd) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

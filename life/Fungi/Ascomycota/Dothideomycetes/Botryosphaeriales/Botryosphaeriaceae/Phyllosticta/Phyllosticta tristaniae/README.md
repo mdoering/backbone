@@ -1,5 +1,4 @@
-Phyllosticta tristaniae D. Sacc. SPECIES
-=======
+# Phyllosticta tristaniae D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

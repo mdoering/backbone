@@ -1,5 +1,4 @@
-Barlaea planchonis (Dunal ex Boud.) Sacc. SPECIES
-=======
+# Barlaea planchonis (Dunal ex Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

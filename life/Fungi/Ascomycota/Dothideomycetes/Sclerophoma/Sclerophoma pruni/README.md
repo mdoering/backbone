@@ -1,5 +1,4 @@
-Sclerophoma pruni Died. SPECIES
-=======
+# Sclerophoma pruni Died. SPECIES
 
 #### Status
 ACCEPTED

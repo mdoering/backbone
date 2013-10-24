@@ -1,5 +1,4 @@
-Phyllachora phyllanthophila var. phyllanthophila Henn., 1904 VARIETY
-=======
+# Phyllachora phyllanthophila SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 250 (1904)
+null
 
 #### Original name
-Phyllachora phyllanthophila var. phyllanthophila Henn., 1904
+null
 
 ### Remarks
 null

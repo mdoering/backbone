@@ -1,5 +1,4 @@
-Tuber croci Dubois SPECIES
-=======
+# Tuber croci Dubois SPECIES
 
 #### Status
 ACCEPTED

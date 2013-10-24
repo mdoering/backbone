@@ -1,5 +1,4 @@
-Ovulariopsis insolita (U. Braun, Kiehr & Delhey) Havryl., S. Takam. & U. Braun SPECIES
-=======
+# Ovulariopsis insolita (U. Braun, Kiehr & Delhey) Havryl., S. Takam. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

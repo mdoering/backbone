@@ -1,5 +1,4 @@
-Canomaculina reitzii (Hale) Elix SPECIES
-=======
+# Canomaculina reitzii (Hale) Elix SPECIES
 
 #### Status
 ACCEPTED

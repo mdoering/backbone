@@ -1,5 +1,4 @@
-Diatrype chlorosarca Berk. & Broome SPECIES
-=======
+# Diatrype chlorosarca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

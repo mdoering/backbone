@@ -1,5 +1,4 @@
-Helotium cupularum Velen. SPECIES
-=======
+# Helotium cupularum Velen. SPECIES
 
 #### Status
 ACCEPTED

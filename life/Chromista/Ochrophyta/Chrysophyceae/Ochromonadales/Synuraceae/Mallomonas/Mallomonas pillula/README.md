@@ -1,5 +1,4 @@
-Mallomonas pillula Harris SPECIES
-=======
+# Mallomonas pillula Harris SPECIES
 
 #### Status
 ACCEPTED

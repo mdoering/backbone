@@ -1,5 +1,4 @@
-Amphiernia rubra Grüss SPECIES
-=======
+# Amphiernia rubra Grüss SPECIES
 
 #### Status
 ACCEPTED

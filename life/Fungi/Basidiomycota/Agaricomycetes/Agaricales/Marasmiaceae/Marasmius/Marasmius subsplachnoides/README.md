@@ -1,5 +1,4 @@
-Marasmius subsplachnoides var. subsplachnoides VARIETY
-=======
+# Marasmius subsplachnoides Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius subsplachnoides var. subsplachnoides
+Marasmius subsplachnoides Britzelm.
 
 ### Remarks
 null

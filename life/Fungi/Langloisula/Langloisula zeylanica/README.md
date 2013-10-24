@@ -1,5 +1,4 @@
-Langloisula zeylanica Petch SPECIES
-=======
+# Langloisula zeylanica Petch SPECIES
 
 #### Status
 ACCEPTED

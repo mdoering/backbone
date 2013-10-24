@@ -1,5 +1,4 @@
-Laboulbenia formicarum Thaxt. SPECIES
-=======
+# Laboulbenia formicarum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium shiraianum Syd. SPECIES
-=======
+# Gloeosporium shiraianum Syd. SPECIES
 
 #### Status
 ACCEPTED

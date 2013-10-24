@@ -1,17 +1,16 @@
-Agaricus decastes var. decastes VARIETY
-=======
+# Lyophyllum decastes (Fr.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 165 (1951)
 
 #### Original name
-null
+Agaricus decastes Fr., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Panellus orientalis (Kobayasi) Corner SPECIES
-=======
+# Panellus orientalis (Kobayasi) Corner SPECIES
 
 #### Status
 ACCEPTED

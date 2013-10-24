@@ -1,5 +1,4 @@
-Proteus jordaniformis SPECIES
-=======
+# Proteus jordaniformis SPECIES
 
 #### Status
 ACCEPTED

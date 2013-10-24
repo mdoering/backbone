@@ -1,5 +1,4 @@
-Septoria stellerae Rostr. SPECIES
-=======
+# Septoria stellerae Rostr. SPECIES
 
 #### Status
 ACCEPTED

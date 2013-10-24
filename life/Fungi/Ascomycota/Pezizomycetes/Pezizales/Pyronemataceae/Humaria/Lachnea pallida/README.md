@@ -1,5 +1,4 @@
-Lachnea pallida Naumov SPECIES
-=======
+# Lachnea pallida Naumov SPECIES
 
 #### Status
 ACCEPTED

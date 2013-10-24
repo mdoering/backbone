@@ -1,5 +1,4 @@
-Isariopsis sapindi Ellis & Everh. SPECIES
-=======
+# Isariopsis sapindi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

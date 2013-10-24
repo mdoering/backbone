@@ -1,5 +1,4 @@
-Phomopsis hydnocarpi S.M. Lin & P.K. Chi SPECIES
-=======
+# Phomopsis hydnocarpi S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

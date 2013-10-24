@@ -1,5 +1,4 @@
-Sphaeria sphagnaeceticola P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria sphagnaeceticola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

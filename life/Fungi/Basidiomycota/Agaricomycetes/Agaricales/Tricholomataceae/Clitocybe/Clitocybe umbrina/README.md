@@ -1,5 +1,4 @@
-Clitocybe umbrina G.H. Otth SPECIES
-=======
+# Clitocybe umbrina G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

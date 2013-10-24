@@ -1,17 +1,16 @@
-Gliocladium roseum var. roseum VARIETY
-=======
+# Clonostachys rosea (Preuss) Mussat SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 23: 111 (1907)
+in Saccardo, Syll. fung. (Abellini) 15: 95 (1901)
 
 #### Original name
-Gliocladium roseum var. roseum
+Clonostachys araucaria var. rosea Preuss
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ploesconia cycloides SPECIES
-=======
+# Ploesconia cycloides SPECIES
 
 #### Status
 ACCEPTED

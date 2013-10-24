@@ -1,5 +1,4 @@
-Parmelia pseudohyporysalea Asahina SPECIES
-=======
+# Parmelia pseudohyporysalea Asahina SPECIES
 
 #### Status
 ACCEPTED

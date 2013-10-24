@@ -1,5 +1,4 @@
-Pestalotiopsis eriobotrifolia (Guba) G.G. Chen & R.B. Cao SPECIES
-=======
+# Pestalotiopsis eriobotrifolia (Guba) G.G. Chen & R.B. Cao SPECIES
 
 #### Status
 ACCEPTED

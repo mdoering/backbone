@@ -1,5 +1,4 @@
-Carnobacterium mobile Collins et al., 1987 SPECIES
-=======
+# Carnobacterium mobile Collins et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

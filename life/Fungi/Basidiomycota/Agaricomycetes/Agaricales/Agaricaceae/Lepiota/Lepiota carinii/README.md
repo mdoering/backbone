@@ -1,14 +1,13 @@
-Echinoderma carinii (Bres.) Bon, 1991 SPECIES
-=======
+# Lepiota carinii Bres., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. , mém. hors sér. 21(no. 82): 63 (1991)
+Iconogr. Mycol. 12: 598 (1929)
 
 #### Original name
 Lepiota carinii Bres., 1929

@@ -1,5 +1,4 @@
-Kilinora tecta SPECIES
-=======
+# Kilinora tecta SPECIES
 
 #### Status
 ACCEPTED

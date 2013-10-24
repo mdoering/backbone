@@ -1,5 +1,4 @@
-Cercoseptoria chamaesyces (F. Stevens & Dalbey) Petr. SPECIES
-=======
+# Cercoseptoria chamaesyces (F. Stevens & Dalbey) Petr. SPECIES
 
 #### Status
 ACCEPTED

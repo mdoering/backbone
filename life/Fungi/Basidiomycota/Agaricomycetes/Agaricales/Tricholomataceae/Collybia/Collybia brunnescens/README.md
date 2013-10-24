@@ -1,5 +1,4 @@
-Collybia brunnescens Peck SPECIES
-=======
+# Collybia brunnescens Peck SPECIES
 
 #### Status
 ACCEPTED

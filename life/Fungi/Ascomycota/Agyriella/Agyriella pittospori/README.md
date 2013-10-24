@@ -1,5 +1,4 @@
-Agyriella pittospori B. Sutton SPECIES
-=======
+# Agyriella pittospori B. Sutton SPECIES
 
 #### Status
 ACCEPTED

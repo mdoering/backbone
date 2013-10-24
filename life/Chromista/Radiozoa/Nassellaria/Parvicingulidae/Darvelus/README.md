@@ -1,5 +1,4 @@
-Darvelus Hull, 1995 GENUS
-=======
+# Darvelus Hull, 1995 GENUS
 
 #### Status
 ACCEPTED

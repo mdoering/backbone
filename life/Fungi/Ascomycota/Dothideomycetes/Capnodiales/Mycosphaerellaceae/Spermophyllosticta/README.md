@@ -1,5 +1,4 @@
-Spermophyllosticta Kamilov GENUS
-=======
+# Spermophyllosticta Kamilov GENUS
 
 #### Status
 ACCEPTED

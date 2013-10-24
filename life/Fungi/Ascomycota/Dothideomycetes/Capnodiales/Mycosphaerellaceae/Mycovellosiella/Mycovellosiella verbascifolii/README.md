@@ -1,5 +1,4 @@
-Mycovellosiella verbascifolii Munt.-Cvetk. SPECIES
-=======
+# Mycovellosiella verbascifolii Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida tibetensis F.Y. Bai & Z.W. Wu SPECIES
-=======
+# Candida tibetensis F.Y. Bai & Z.W. Wu SPECIES
 
 #### Status
 ACCEPTED

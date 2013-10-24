@@ -1,5 +1,4 @@
-Marasmiellus papillatus (Peck) Redhead & Halling SPECIES
-=======
+# Marasmiellus papillatus (Peck) Redhead & Halling SPECIES
 
 #### Status
 ACCEPTED

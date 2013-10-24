@@ -1,5 +1,4 @@
-Megaloseptoria Naumov GENUS
-=======
+# Megaloseptoria Naumov GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea korundensis Räsänen SPECIES
-=======
+# Tephromela korundensis (Räsänen) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Suom. Elain-ja Kasvit. Seuran Van. Tiedon. Pöytäkirjat 3: 183 (1949)
+Biblthca Lichenol. 88: 322 (2004)
 
 #### Original name
 Lecidea korundensis Räsänen

@@ -1,8 +1,7 @@
-Trachelocerca trepida Kahl, 1928 SPECIES
-=======
+# Pseudotrachelocerca trepida (Kahl, 1928) Song, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

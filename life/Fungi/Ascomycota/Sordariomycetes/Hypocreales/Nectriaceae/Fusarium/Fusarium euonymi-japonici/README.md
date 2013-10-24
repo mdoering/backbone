@@ -1,5 +1,4 @@
-Fusarium euonymi-japonici Henn. SPECIES
-=======
+# Fusarium euonymi-japonici Henn. SPECIES
 
 #### Status
 ACCEPTED

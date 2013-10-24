@@ -1,5 +1,4 @@
-Cercospora bombycina Chidd. SPECIES
-=======
+# Cercospora bombycina Chidd. SPECIES
 
 #### Status
 ACCEPTED

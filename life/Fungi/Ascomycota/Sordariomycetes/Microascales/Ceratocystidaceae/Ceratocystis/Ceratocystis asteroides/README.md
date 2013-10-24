@@ -1,5 +1,4 @@
-Ceratocystis asteroides Roldan SPECIES
-=======
+# Ceratocystis asteroides Roldan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporicellaesporites stacyi Elsik SPECIES
-=======
+# Diporicellaesporites stacyi Elsik SPECIES
 
 #### Status
 ACCEPTED

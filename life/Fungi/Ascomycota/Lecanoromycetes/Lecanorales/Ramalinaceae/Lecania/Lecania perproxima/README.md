@@ -1,5 +1,4 @@
-Lecania perproxima (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania perproxima (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

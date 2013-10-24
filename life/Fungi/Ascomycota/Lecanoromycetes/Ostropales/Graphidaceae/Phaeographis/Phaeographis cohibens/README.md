@@ -1,5 +1,4 @@
-Phaeographis cohibens (Nyl.) Redinger SPECIES
-=======
+# Phaeographis cohibens (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

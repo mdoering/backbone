@@ -1,5 +1,4 @@
-Lecidea atrocuprea Vain. SPECIES
-=======
+# Lecidea atrocuprea Vain. SPECIES
 
 #### Status
 ACCEPTED

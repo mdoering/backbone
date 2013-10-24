@@ -1,5 +1,4 @@
-Nectria alba Pat. SPECIES
-=======
+# Nectria alba Pat. SPECIES
 
 #### Status
 ACCEPTED

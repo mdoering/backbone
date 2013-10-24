@@ -1,5 +1,4 @@
-Rhabdospora melampyricola Petr. SPECIES
-=======
+# Rhabdospora melampyricola Petr. SPECIES
 
 #### Status
 ACCEPTED

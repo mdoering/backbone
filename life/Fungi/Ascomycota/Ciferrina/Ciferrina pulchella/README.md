@@ -1,5 +1,4 @@
-Ciferrina pulchella Petr., 1932 SPECIES
-=======
+# Ciferrina pulchella Petr., 1932 SPECIES
 
 #### Status
 ACCEPTED

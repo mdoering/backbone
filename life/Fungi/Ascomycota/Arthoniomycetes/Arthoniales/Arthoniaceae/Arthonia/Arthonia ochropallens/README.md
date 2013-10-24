@@ -1,5 +1,4 @@
-Arthonia ochropallens Zahlbr. SPECIES
-=======
+# Arthonia ochropallens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

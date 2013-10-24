@@ -1,5 +1,4 @@
-Russula piceicola Sarnari SPECIES
-=======
+# Russula piceicola Sarnari SPECIES
 
 #### Status
 ACCEPTED

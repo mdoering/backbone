@@ -1,5 +1,4 @@
-Prunulus subfumosus Murrill SPECIES
-=======
+# Prunulus subfumosus Murrill SPECIES
 
 #### Status
 ACCEPTED

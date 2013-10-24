@@ -1,5 +1,4 @@
-Agaricus magniceps Peck SPECIES
-=======
+# Agaricus magniceps Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcanicapsa Takemura, 1986 GENUS
-=======
+# Arcanicapsa Takemura, 1986 GENUS
 
 #### Status
 ACCEPTED

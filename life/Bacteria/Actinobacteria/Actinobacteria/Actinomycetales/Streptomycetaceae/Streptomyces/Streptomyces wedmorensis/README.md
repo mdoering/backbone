@@ -1,11 +1,10 @@
-Actinomyces wedmorensis Milard & Burr, 1926 SPECIES
-=======
+# Streptomyces wedmorensis (ex Milard & Burr, 1926) Preobrazhenskaya, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

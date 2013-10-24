@@ -1,5 +1,4 @@
-Sphaeria despreauxii Mont. SPECIES
-=======
+# Sphaeria despreauxii Mont. SPECIES
 
 #### Status
 ACCEPTED

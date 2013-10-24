@@ -1,5 +1,4 @@
-Aecidium wiehei Cummins SPECIES
-=======
+# Aecidium wiehei Cummins SPECIES
 
 #### Status
 ACCEPTED

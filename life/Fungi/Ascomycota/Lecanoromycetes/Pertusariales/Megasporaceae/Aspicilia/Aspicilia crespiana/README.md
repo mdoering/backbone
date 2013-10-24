@@ -1,5 +1,4 @@
-Aspicilia crespiana V. J. Rico SPECIES
-=======
+# Aspicilia crespiana V. J. Rico SPECIES
 
 #### Status
 ACCEPTED

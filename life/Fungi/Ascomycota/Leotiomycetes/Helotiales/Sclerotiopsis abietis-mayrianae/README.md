@@ -1,5 +1,4 @@
-Sclerotiopsis abietis-mayrianae Sawada SPECIES
-=======
+# Sclerotiopsis abietis-mayrianae Sawada SPECIES
 
 #### Status
 ACCEPTED

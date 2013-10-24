@@ -1,5 +1,4 @@
-Verrucaria elaeodes (Hue) Zschacke SPECIES
-=======
+# Verrucaria elaeodes (Hue) Zschacke SPECIES
 
 #### Status
 ACCEPTED

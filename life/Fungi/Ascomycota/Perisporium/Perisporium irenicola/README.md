@@ -1,17 +1,16 @@
-Perisporium irenicolum Doidge SPECIES
-=======
+# Perisporium irenicola Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 1(4): 209 (1924)
 
 #### Original name
-Perisporium irenicolum Doidge
+Perisporium irenicola Doidge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stereosphaeria americana (M.E. Barr & Samuels) K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Stereosphaeria americana (M.E. Barr & Samuels) K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

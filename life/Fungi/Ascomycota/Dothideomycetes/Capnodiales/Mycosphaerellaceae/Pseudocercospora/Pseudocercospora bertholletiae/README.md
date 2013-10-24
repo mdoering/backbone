@@ -1,17 +1,16 @@
-Cercospora bertholletiae var. bertholletiae F.C. Albuq. VARIETY
-=======
+# Pseudocercospora bertholletiae (F.C. Albuq.) U. Braun & F.O. Freire, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Azágos Orszö Kozegészségügyi Intézet Müködése 38: 8 (1960)
+Cryptog. Mycol. 25(3): 227 (2004)
 
 #### Original name
-Cercospora bertholletiae var. bertholletiae F.C. Albuq.
+Cercospora bertholletiae F.C. Albuq., 1960
 
 ### Remarks
 null

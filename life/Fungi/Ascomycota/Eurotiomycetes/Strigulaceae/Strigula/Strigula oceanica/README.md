@@ -1,5 +1,4 @@
-Strigula oceanica P. M. McCarthy, Streimann & Elix SPECIES
-=======
+# Strigula oceanica P. M. McCarthy, Streimann & Elix SPECIES
 
 #### Status
 ACCEPTED

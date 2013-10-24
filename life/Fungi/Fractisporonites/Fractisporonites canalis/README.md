@@ -1,5 +1,4 @@
-Fractisporonites canalis R.T. Clarke SPECIES
-=======
+# Fractisporonites canalis R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

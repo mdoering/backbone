@@ -1,5 +1,4 @@
-Phyllosticta borinquensis E. Young SPECIES
-=======
+# Phyllosticta borinquensis E. Young SPECIES
 
 #### Status
 ACCEPTED

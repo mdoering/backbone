@@ -1,17 +1,16 @@
-Chrysosporium merdarium var. sulfureum (Speg.) J.E. Wright VARIETY
-=======
+# Chrysosporium merdarium (Ehrenb.) J.W. Carmich., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Wright, Calviello & Marchand, Revta Mus. argent. Cienc. nat. 'Bernardino Rivadavia', Ciencias Botanicas 5(13): 246 (1979)
+Can. J. Bot. 40: 1160 (1962)
 
 #### Original name
-Sepedonium sulphureum Speg.
+Sporotrichum merdarium Ehrenb., 1818
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cylindrocolla acuum Ellis & Everh. SPECIES
-=======
+# Cylindrocolla acuum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

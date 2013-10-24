@@ -1,5 +1,4 @@
-Taeniolella stricta (Corda) S. Hughes SPECIES
-=======
+# Taeniolella stricta (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

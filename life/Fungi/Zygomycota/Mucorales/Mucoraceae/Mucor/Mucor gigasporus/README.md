@@ -1,5 +1,4 @@
-Mucor gigasporus G.Q. Chen & R.Y. Zheng, 1987 SPECIES
-=======
+# Mucor gigasporus G.Q. Chen & R.Y. Zheng, 1987 SPECIES
 
 #### Status
 ACCEPTED

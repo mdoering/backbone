@@ -1,5 +1,4 @@
-Peltasterinostroma rubi Punith., 1975 SPECIES
-=======
+# Peltasterinostroma rubi Punith., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoplea stenocarpa (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea stenocarpa (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

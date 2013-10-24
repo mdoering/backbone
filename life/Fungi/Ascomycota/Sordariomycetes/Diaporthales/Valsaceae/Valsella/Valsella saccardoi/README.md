@@ -1,5 +1,4 @@
-Valsella saccardoi Berl. SPECIES
-=======
+# Valsella saccardoi Berl. SPECIES
 
 #### Status
 ACCEPTED

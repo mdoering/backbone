@@ -1,5 +1,4 @@
-Paracarpidium obscurum Müll. Arg. SPECIES
-=======
+# Paracarpidium obscurum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

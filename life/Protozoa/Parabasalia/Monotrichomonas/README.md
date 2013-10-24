@@ -1,5 +1,4 @@
-Monotrichomonas Bernard, Simpson & Patterson, 2000 GENUS
-=======
+# Monotrichomonas Bernard, Simpson & Patterson, 2000 GENUS
 
 #### Status
 ACCEPTED

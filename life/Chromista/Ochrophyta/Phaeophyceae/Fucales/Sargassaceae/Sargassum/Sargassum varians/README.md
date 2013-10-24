@@ -1,5 +1,4 @@
-Sargassum varians Sonder SPECIES
-=======
+# Sargassum varians Sonder SPECIES
 
 #### Status
 ACCEPTED

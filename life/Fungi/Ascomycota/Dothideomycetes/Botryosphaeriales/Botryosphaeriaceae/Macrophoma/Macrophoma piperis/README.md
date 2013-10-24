@@ -1,5 +1,4 @@
-Macrophoma piperis Tassi SPECIES
-=======
+# Macrophoma piperis Tassi SPECIES
 
 #### Status
 ACCEPTED

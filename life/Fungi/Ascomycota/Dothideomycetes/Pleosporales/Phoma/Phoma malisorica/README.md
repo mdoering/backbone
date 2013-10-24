@@ -1,5 +1,4 @@
-Phoma malisorica Bubák SPECIES
-=======
+# Phoma malisorica Bubák SPECIES
 
 #### Status
 ACCEPTED

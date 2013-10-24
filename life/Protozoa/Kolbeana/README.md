@@ -1,5 +1,4 @@
-Kolbeana Skvortzov GENUS
-=======
+# Kolbeana Skvortzov GENUS
 
 #### Status
 ACCEPTED

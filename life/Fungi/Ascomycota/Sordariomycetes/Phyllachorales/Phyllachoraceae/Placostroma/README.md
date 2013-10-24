@@ -1,5 +1,4 @@
-Placostroma Theissen & Sydow, 1914 GENUS
-=======
+# Placostroma Theissen & Sydow, 1914 GENUS
 
 #### Status
 ACCEPTED

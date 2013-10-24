@@ -1,5 +1,4 @@
-Otidea cinerascens Velen. SPECIES
-=======
+# Otidea cinerascens Velen. SPECIES
 
 #### Status
 ACCEPTED

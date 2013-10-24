@@ -1,5 +1,4 @@
-Monodia elegans Breton & Faurel, 1970 SPECIES
-=======
+# Monodia elegans Breton & Faurel, 1970 SPECIES
 
 #### Status
 ACCEPTED

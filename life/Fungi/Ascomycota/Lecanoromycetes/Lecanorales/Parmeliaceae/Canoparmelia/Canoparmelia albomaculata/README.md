@@ -1,5 +1,4 @@
-Canoparmelia albomaculata C. H. Ribeiro & Marcelli SPECIES
-=======
+# Canoparmelia albomaculata C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

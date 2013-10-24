@@ -1,5 +1,4 @@
-Basidiobolus hominis Casagrandi SPECIES
-=======
+# Basidiobolus hominis Casagrandi SPECIES
 
 #### Status
 ACCEPTED

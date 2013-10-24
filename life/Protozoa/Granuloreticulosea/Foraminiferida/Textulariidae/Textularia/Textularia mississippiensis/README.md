@@ -1,5 +1,4 @@
-Textularia mississippiensis var. alabamensis Cushman, 1923 VARIETY
-=======
+# Textularia mississippiensis Cushman SPECIES
 
 #### Status
 ACCEPTED

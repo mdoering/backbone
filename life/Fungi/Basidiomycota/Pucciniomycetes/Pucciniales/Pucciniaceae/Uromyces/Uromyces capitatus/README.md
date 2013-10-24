@@ -1,5 +1,4 @@
-Uromyces capitatus Syd. & P. Syd. SPECIES
-=======
+# Uromyces capitatus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

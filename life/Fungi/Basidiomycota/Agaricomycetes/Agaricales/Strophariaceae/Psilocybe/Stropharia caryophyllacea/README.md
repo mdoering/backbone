@@ -1,5 +1,4 @@
-Stropharia caryophyllacea (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Stropharia caryophyllacea (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

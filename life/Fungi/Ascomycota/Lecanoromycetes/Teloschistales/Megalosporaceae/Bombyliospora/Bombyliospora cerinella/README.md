@@ -1,5 +1,4 @@
-Bombyliospora cerinella A. Massal. SPECIES
-=======
+# Bombyliospora cerinella A. Massal. SPECIES
 
 #### Status
 ACCEPTED

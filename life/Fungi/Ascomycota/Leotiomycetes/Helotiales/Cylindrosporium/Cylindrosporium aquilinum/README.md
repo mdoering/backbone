@@ -1,5 +1,4 @@
-Cylindrosporium aquilinum (Pass.) J.C. Gilman & W.A. Archer SPECIES
-=======
+# Cylindrosporium aquilinum (Pass.) J.C. Gilman & W.A. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë eucalypticola Cheew. & Crous, 2009 SPECIES
-=======
+# Elsinoë eucalypticola Cheew. & Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

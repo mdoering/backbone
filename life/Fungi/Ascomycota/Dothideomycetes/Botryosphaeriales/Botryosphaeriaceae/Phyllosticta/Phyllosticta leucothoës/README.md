@@ -1,17 +1,16 @@
-Phyllosticta leucothoes Ellis SPECIES
-=======
+# Phyllosticta leucothoës Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. Nat. 18: 1264 (1884)
 
 #### Original name
-Phyllosticta leucothoes Ellis
+Phyllosticta leucothoës Ellis
 
 ### Remarks
 null

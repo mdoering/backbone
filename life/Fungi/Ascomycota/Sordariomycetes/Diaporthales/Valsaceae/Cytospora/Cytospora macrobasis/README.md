@@ -1,5 +1,4 @@
-Cytospora macrobasis Sacc. SPECIES
-=======
+# Cytospora macrobasis Sacc. SPECIES
 
 #### Status
 ACCEPTED

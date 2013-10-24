@@ -1,5 +1,4 @@
-Helminthosporium caaguazuense Speg. SPECIES
-=======
+# Helminthosporium caaguazuense Speg. SPECIES
 
 #### Status
 ACCEPTED

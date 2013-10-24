@@ -1,5 +1,4 @@
-Lecanorella subcaecula Motyka SPECIES
-=======
+# Lecanorella subcaecula Motyka SPECIES
 
 #### Status
 ACCEPTED

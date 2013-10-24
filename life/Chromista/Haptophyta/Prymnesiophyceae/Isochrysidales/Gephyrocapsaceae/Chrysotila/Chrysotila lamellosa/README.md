@@ -1,8 +1,7 @@
-Ruttnera spectabilis Geitler SPECIES
-=======
+# Chrysotila lamellosa P.L. Anand SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

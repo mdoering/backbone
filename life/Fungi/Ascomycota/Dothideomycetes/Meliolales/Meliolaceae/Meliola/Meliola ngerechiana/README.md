@@ -1,5 +1,4 @@
-Meliola ngerechiana Mibey SPECIES
-=======
+# Meliola ngerechiana Mibey SPECIES
 
 #### Status
 ACCEPTED

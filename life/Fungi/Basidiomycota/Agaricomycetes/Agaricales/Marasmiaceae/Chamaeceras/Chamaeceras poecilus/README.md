@@ -1,5 +1,4 @@
-Chamaeceras poecilus (Berk.) Kuntze SPECIES
-=======
+# Chamaeceras poecilus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

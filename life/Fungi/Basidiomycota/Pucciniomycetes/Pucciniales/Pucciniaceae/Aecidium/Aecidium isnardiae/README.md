@@ -1,5 +1,4 @@
-Aecidium isnardiae Lagerh. SPECIES
-=======
+# Aecidium isnardiae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

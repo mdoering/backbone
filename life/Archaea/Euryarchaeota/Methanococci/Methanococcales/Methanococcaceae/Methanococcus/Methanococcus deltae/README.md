@@ -1,5 +1,4 @@
-Methanococcus deltae Corder et al., 1988 SPECIES
-=======
+# Methanococcus deltae Corder et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

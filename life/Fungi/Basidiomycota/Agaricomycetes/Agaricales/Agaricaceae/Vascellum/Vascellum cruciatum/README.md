@@ -1,5 +1,4 @@
-Vascellum cruciatum (Rostk.) P. Ponce de León SPECIES
-=======
+# Vascellum cruciatum (Rostk.) P. Ponce de León SPECIES
 
 #### Status
 ACCEPTED

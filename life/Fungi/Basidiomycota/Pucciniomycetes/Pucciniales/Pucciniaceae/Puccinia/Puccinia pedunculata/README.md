@@ -1,5 +1,4 @@
-Puccinia pedunculata J. Schröt. SPECIES
-=======
+# Puccinia pedunculata J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

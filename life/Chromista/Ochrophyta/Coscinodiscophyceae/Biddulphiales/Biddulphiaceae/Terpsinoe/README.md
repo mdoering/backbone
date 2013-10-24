@@ -1,5 +1,4 @@
-Terpsinoe Ehrenberg GENUS
-=======
+# Terpsinoe Ehrenberg GENUS
 
 #### Status
 ACCEPTED

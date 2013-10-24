@@ -1,5 +1,4 @@
-Sporidesmium novozymium W.P. Wu SPECIES
-=======
+# Sporidesmium novozymium W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

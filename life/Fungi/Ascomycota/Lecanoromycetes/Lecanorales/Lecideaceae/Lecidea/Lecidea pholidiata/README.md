@@ -1,5 +1,4 @@
-Lecidea pholidiata Ach. SPECIES
-=======
+# Lecidea pholidiata Ach. SPECIES
 
 #### Status
 ACCEPTED

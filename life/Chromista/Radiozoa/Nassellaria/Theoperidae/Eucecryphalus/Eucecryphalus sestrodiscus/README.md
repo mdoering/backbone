@@ -1,5 +1,4 @@
-Eucecryphalus sestrodiscus (Haeckel) Takahashi, 1991 SPECIES
-=======
+# Eucecryphalus sestrodiscus (Haeckel) Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

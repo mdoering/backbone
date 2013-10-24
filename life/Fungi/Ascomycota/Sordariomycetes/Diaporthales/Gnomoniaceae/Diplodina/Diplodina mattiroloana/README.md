@@ -1,17 +1,16 @@
-Diplodina mattiroliana Cif. SPECIES
-=======
+# Diplodina mattiroloana Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20: 46 (1922)
 
 #### Original name
-Diplodina mattiroliana Cif.
+Diplodina mattiroloana Cif.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Terana rimosissima (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Hjortstamia rimosissima (Berk. & M.A. Curtis) Boidin & Gilles, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Bull. Soc. mycol. Fr. 118(2): 99 (2003)
 
 #### Original name
 Corticium rimosissimum Berk. & M.A. Curtis, 1860

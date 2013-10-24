@@ -1,5 +1,4 @@
-Timofeevia ianischewskyi (Timofeev, 1959 ex Vavrdová, 1976) Volkova, 1990 SPECIES
-=======
+# Timofeevia ianischewskyi (Timofeev, 1959 ex Vavrdová, 1976) Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

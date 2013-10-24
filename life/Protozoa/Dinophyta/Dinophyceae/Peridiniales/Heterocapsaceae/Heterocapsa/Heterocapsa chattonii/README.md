@@ -1,5 +1,4 @@
-Heterocapsa chattonii (Biecheler, 1952) P.H. Campbell, 1973 SPECIES
-=======
+# Heterocapsa chattonii (Biecheler, 1952) P.H. Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

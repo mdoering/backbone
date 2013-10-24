@@ -1,5 +1,4 @@
-Galera hapala SPECIES
-=======
+# Galera hapala SPECIES
 
 #### Status
 ACCEPTED

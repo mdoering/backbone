@@ -1,5 +1,4 @@
-Astrothelium heterophorum Nyl. SPECIES
-=======
+# Astrothelium heterophorum Nyl. SPECIES
 
 #### Status
 ACCEPTED

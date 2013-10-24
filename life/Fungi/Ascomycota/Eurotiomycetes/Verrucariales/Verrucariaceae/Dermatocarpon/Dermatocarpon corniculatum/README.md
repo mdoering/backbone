@@ -1,5 +1,4 @@
-Dermatocarpon corniculatum (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon corniculatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

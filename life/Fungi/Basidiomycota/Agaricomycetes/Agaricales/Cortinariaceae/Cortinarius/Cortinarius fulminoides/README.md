@@ -1,5 +1,4 @@
-Cortinarius fulminoides (M.M. Moser) Bon SPECIES
-=======
+# Cortinarius fulminoides (M.M. Moser) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza anomala var. anomala VARIETY
-=======
+# Peziza anomala Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 2: 656 (1801)
 
 #### Original name
-Peziza anomala var. anomala
+Peziza anomala Schumach.
 
 ### Remarks
 null

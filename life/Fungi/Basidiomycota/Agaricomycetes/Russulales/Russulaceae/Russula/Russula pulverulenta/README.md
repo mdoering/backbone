@@ -1,5 +1,4 @@
-Russula pulverulenta Peck SPECIES
-=======
+# Russula pulverulenta Peck SPECIES
 
 #### Status
 ACCEPTED

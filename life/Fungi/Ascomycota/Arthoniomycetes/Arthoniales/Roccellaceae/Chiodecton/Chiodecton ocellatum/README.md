@@ -1,5 +1,4 @@
-Chiodecton ocellatum Yasuda SPECIES
-=======
+# Chiodecton ocellatum Yasuda SPECIES
 
 #### Status
 ACCEPTED

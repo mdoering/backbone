@@ -1,5 +1,4 @@
-Quinqueloculina frigida SPECIES
-=======
+# Quinqueloculina frigida SPECIES
 
 #### Status
 ACCEPTED

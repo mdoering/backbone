@@ -1,5 +1,4 @@
-Phyllachora panamensis F. Stevens, 1927 SPECIES
-=======
+# Phyllachora panamensis F. Stevens, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium aureolum SPECIES
-=======
+# Placodium aureolum SPECIES
 
 #### Status
 ACCEPTED

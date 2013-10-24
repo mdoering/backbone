@@ -1,11 +1,10 @@
-Babesia pullorum Morcos, 1935 SPECIES
-=======
+# Aegyptianella pullorum Carpano, 1929 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

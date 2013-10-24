@@ -1,5 +1,4 @@
-Lachnea aurea (Boud.) Sacc. & Traverso SPECIES
-=======
+# Lachnea aurea (Boud.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

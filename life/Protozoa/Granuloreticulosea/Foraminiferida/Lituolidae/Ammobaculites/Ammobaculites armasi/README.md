@@ -1,5 +1,4 @@
-Ammobaculites armasi SPECIES
-=======
+# Ammobaculites armasi SPECIES
 
 #### Status
 ACCEPTED

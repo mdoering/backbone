@@ -1,5 +1,4 @@
-Bryoria pikei Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria pikei Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

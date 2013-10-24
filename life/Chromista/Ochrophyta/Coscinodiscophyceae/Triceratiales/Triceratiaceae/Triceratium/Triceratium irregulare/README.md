@@ -1,5 +1,4 @@
-Triceratium irregulare Greville SPECIES
-=======
+# Triceratium irregulare Greville SPECIES
 
 #### Status
 ACCEPTED

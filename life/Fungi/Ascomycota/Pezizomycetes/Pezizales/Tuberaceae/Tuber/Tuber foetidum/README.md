@@ -1,5 +1,4 @@
-Tuber foetidum Vittad., 1831 SPECIES
-=======
+# Tuber foetidum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED

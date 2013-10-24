@@ -1,5 +1,4 @@
-Pyrenochaetina variabilis Servazzi SPECIES
-=======
+# Pyrenochaetina variabilis Servazzi SPECIES
 
 #### Status
 ACCEPTED

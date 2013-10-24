@@ -1,5 +1,4 @@
-Dothiorella ricini (Cooke) Petr. & Syd. SPECIES
-=======
+# Dothiorella ricini (Cooke) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

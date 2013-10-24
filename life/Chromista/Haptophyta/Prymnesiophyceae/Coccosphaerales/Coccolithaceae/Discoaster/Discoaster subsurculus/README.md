@@ -1,5 +1,4 @@
-Discoaster subsurculus Gartner, 1967 SPECIES
-=======
+# Discoaster subsurculus Gartner, 1967 SPECIES
 
 #### Status
 ACCEPTED

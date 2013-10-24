@@ -1,5 +1,4 @@
-Didymosphaeria gouaniae Gonz. Frag. & Cif. SPECIES
-=======
+# Didymosphaeria gouaniae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

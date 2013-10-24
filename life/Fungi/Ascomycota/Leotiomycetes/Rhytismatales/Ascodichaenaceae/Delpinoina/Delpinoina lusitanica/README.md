@@ -1,14 +1,13 @@
-Henriquesia lusitanica Pass. & Thüm., 1879 SPECIES
-=======
+# Delpinoina lusitanica (Pass. & Thüm.) Kuntze, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Instituto, (Coimbra) 27: (1879)
+Revis. gen. pl. (Leipzig) 2: 851 (1891)
 
 #### Original name
 Henriquesia lusitanica Pass. & Thüm., 1879

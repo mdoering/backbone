@@ -1,5 +1,4 @@
-Kuehneromyces alpinus A.H. Sm. SPECIES
-=======
+# Kuehneromyces alpinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

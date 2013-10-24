@@ -1,14 +1,13 @@
-Meliola photinicola (W. Yamam.) Cif. SPECIES
-=======
+# Meliola photiniicola (W. Yamam.) Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 87 (1954)
 
 #### Original name
 Irene photiniicola W. Yamam.

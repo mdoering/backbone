@@ -1,5 +1,4 @@
-Cortinarius vinaceocinereus Cleland SPECIES
-=======
+# Cortinarius vinaceocinereus Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis leptina Nyl. SPECIES
-=======
+# Graphis leptina Nyl. SPECIES
 
 #### Status
 ACCEPTED

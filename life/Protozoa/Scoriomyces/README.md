@@ -1,5 +1,4 @@
-Scoriomyces Ellis & Sacc. GENUS
-=======
+# Scoriomyces Ellis & Sacc. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytula aconiticola Petr. SPECIES
-=======
+# Ascochytula aconiticola Petr. SPECIES
 
 #### Status
 ACCEPTED

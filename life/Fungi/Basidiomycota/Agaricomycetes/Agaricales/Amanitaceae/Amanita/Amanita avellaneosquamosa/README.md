@@ -1,5 +1,4 @@
-Amanita avellaneosquamosa (S. Imai) S. Imai SPECIES
-=======
+# Amanita avellaneosquamosa (S. Imai) S. Imai SPECIES
 
 #### Status
 ACCEPTED

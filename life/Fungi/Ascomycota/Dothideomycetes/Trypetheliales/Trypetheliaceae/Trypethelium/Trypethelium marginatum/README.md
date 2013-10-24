@@ -1,5 +1,4 @@
-Trypethelium marginatum Fée SPECIES
-=======
+# Trypethelium marginatum Fée SPECIES
 
 #### Status
 ACCEPTED

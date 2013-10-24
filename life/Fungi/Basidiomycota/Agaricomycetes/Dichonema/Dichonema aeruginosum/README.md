@@ -1,5 +1,4 @@
-Dichonema aeruginosum Blume & T. Nees SPECIES
-=======
+# Dichonema aeruginosum Blume & T. Nees SPECIES
 
 #### Status
 ACCEPTED

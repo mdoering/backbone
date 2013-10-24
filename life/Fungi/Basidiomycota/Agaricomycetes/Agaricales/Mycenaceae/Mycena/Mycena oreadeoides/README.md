@@ -1,5 +1,4 @@
-Mycena oreadeoides Singer SPECIES
-=======
+# Mycena oreadeoides Singer SPECIES
 
 #### Status
 ACCEPTED

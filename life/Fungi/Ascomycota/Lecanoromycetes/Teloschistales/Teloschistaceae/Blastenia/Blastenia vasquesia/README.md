@@ -1,5 +1,4 @@
-Blastenia vasquesia A. Massal. SPECIES
-=======
+# Blastenia vasquesia A. Massal. SPECIES
 
 #### Status
 ACCEPTED

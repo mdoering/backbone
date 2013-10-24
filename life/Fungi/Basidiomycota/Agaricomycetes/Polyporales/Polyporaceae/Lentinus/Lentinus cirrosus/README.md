@@ -1,5 +1,4 @@
-Lentinus cirrosus Fr. SPECIES
-=======
+# Lentinus cirrosus Fr. SPECIES
 
 #### Status
 ACCEPTED

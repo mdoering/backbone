@@ -1,5 +1,4 @@
-Hygrocybe rigelliae (Velen.) E. Ludw. SPECIES
-=======
+# Hygrocybe rigelliae (Velen.) E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

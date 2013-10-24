@@ -1,5 +1,4 @@
-Tremella subrubiginosa Lowy SPECIES
-=======
+# Tremella subrubiginosa Lowy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomus manihotis R.H. Howeler, Sieverd. & N.C. Schenck SPECIES
-=======
+# Glomus manihotis R.H. Howeler, Sieverd. & N.C. Schenck SPECIES
 
 #### Status
 ACCEPTED

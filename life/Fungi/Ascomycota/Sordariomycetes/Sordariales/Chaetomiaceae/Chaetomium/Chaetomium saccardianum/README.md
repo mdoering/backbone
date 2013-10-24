@@ -1,5 +1,4 @@
-Chaetomium saccardianum E. Bommer & M. Rousseau SPECIES
-=======
+# Chaetomium saccardianum E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterina eugeniae (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina eugeniae (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

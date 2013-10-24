@@ -1,17 +1,16 @@
-Polyporus winogradowi Bondartsev SPECIES
-=======
+# Diplomitoporus flavescens (Bres.) Domanski, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Bot. Pol. 39: 191 (1970)
 
 #### Original name
-Polyporus winogradowi Bondartsev
+Trametes flavescens Bres., 1903
 
 ### Remarks
 null

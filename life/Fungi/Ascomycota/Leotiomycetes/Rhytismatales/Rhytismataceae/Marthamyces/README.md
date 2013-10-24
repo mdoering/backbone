@@ -1,5 +1,4 @@
-Marthamyces Minter GENUS
-=======
+# Marthamyces Minter GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lachnella spirotricha (Oudem.) W. Phillips, 1887 SPECIES
-=======
+# Urceolella crispula (P. Karst.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 266 (1887)
+Hist. Class. Discom. Eur. (Paris) 130 (1907)
 
 #### Original name
-null
+Helotium crispulum P. Karst., 1871
 
 ### Remarks
 null

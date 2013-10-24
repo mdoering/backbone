@@ -1,5 +1,4 @@
-Uredinopsis corchoropsidis Dietel SPECIES
-=======
+# Uredinopsis corchoropsidis Dietel SPECIES
 
 #### Status
 ACCEPTED

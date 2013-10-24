@@ -1,5 +1,4 @@
-Limacium tennesseense (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium tennesseense (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

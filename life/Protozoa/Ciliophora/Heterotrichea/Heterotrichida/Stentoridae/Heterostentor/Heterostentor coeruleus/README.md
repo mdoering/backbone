@@ -1,5 +1,4 @@
-Heterostentor coeruleus Song & Wilbert, 2002 SPECIES
-=======
+# Heterostentor coeruleus Song & Wilbert, 2002 SPECIES
 
 #### Status
 ACCEPTED

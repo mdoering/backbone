@@ -1,5 +1,4 @@
-Wuroia capnosa Stover & Helby, 1987 SPECIES
-=======
+# Wuroia capnosa Stover & Helby, 1987 SPECIES
 
 #### Status
 ACCEPTED

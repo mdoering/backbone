@@ -1,5 +1,4 @@
-Phaeoseptoria poae R. Sprague SPECIES
-=======
+# Phaeoseptoria poae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

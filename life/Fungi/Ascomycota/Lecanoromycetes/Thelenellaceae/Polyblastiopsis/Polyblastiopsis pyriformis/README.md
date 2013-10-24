@@ -1,5 +1,4 @@
-Polyblastiopsis pyriformis C.W. Dodge SPECIES
-=======
+# Polyblastiopsis pyriformis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

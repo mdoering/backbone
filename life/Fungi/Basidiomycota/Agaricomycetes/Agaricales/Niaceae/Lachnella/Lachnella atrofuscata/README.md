@@ -1,5 +1,4 @@
-Lachnella atrofuscata (Schwein.) Sacc. SPECIES
-=======
+# Lachnella atrofuscata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

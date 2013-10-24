@@ -1,5 +1,4 @@
-Thelephora latissima Fr. SPECIES
-=======
+# Thelephora latissima Fr. SPECIES
 
 #### Status
 ACCEPTED

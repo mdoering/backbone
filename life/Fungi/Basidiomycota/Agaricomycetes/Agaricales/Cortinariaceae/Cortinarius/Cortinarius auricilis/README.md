@@ -1,5 +1,4 @@
-Cortinarius auricilis Chevassut & Trescol SPECIES
-=======
+# Cortinarius auricilis Chevassut & Trescol SPECIES
 
 #### Status
 ACCEPTED

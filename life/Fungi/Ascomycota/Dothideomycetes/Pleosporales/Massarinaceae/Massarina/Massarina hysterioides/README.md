@@ -1,5 +1,4 @@
-Massarina hysterioides (Ellis & Everh.) Berl. SPECIES
-=======
+# Massarina hysterioides (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

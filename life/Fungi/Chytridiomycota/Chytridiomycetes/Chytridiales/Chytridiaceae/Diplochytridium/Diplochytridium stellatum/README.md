@@ -1,5 +1,4 @@
-Diplochytridium stellatum (H.E. Petersen) Karling SPECIES
-=======
+# Diplochytridium stellatum (H.E. Petersen) Karling SPECIES
 
 #### Status
 ACCEPTED

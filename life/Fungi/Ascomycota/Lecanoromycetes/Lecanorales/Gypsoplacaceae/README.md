@@ -1,17 +1,16 @@
-Gypsoplaceae Timdal FAMILY
-=======
+# Gypsoplacaceae Timdal FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 423 (1990)
 
 #### Original name
-null
+Gypsoplacaceae Timdal
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Lithomitra altamiraensis Campbell & Clark, 1944 SPECIES
-=======
+# Siphocampe arachnea (Ehrenberg) Nigrini, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

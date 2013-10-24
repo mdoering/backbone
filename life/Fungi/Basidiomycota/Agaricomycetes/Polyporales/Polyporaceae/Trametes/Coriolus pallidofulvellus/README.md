@@ -1,5 +1,4 @@
-Coriolus pallidofulvellus Murrill SPECIES
-=======
+# Coriolus pallidofulvellus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxyporus philadelphi (Parmasto) Ryvarden SPECIES
-=======
+# Oxyporus philadelphi (Parmasto) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

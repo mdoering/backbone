@@ -1,5 +1,4 @@
-Placidiopsis cinerascens (Nyl.) Breuss SPECIES
-=======
+# Placidiopsis cinerascens (Nyl.) Breuss SPECIES
 
 #### Status
 ACCEPTED

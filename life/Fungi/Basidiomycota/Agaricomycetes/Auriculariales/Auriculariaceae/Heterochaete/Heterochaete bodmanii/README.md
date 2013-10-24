@@ -1,5 +1,4 @@
-Heterochaete bodmanii Lowy SPECIES
-=======
+# Heterochaete bodmanii Lowy SPECIES
 
 #### Status
 ACCEPTED

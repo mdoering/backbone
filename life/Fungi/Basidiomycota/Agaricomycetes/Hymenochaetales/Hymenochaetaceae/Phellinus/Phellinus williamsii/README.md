@@ -1,5 +1,4 @@
-Phellinus williamsii (Murrill) Pat. SPECIES
-=======
+# Phellinus williamsii (Murrill) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria papyrifera subsp. papyrifera (Link) Fr. SUBSPECIES
-=======
+# Xylaria papyrifera (Link) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nov. Symb. Myc. 126 (1851)
 
 #### Original name
-Xylaria papyrifera subsp. papyrifera (Link) Fr.
+Sphaeria papyrifera Link
 
 ### Remarks
 null

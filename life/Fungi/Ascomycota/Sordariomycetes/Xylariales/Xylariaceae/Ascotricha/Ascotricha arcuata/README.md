@@ -1,5 +1,4 @@
-Ascotricha arcuata L.M. Ames SPECIES
-=======
+# Ascotricha arcuata L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora perpendicularis H. Magn. SPECIES
-=======
+# Lecanora perpendicularis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

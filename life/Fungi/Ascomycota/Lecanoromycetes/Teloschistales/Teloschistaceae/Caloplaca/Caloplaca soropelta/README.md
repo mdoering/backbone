@@ -1,5 +1,4 @@
-Caloplaca soropelta (E.S. Hansen, Poelt & Søchting) Søchting SPECIES
-=======
+# Caloplaca soropelta (E.S. Hansen, Poelt & Søchting) Søchting SPECIES
 
 #### Status
 ACCEPTED

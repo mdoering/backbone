@@ -1,5 +1,4 @@
-Porotheleum pezizoides Schwein. SPECIES
-=======
+# Porotheleum pezizoides Schwein. SPECIES
 
 #### Status
 ACCEPTED

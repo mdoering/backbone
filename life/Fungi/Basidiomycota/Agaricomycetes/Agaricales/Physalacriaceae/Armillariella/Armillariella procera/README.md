@@ -1,5 +1,4 @@
-Armillariella procera (Speg.) Singer SPECIES
-=======
+# Armillariella procera (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

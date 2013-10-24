@@ -1,5 +1,4 @@
-Opephora parva (Grunow) Krasske SPECIES
-=======
+# Opephora parva (Grunow) Krasske SPECIES
 
 #### Status
 ACCEPTED

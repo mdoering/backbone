@@ -1,5 +1,4 @@
-Ascochyta ailanthi Boud. & Fautrey SPECIES
-=======
+# Ascochyta ailanthi Boud. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

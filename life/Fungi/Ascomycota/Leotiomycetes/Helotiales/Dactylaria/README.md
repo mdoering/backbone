@@ -1,5 +1,4 @@
-Dactylaria Sacc. GENUS
-=======
+# Dactylaria Sacc. GENUS
 
 #### Status
 ACCEPTED

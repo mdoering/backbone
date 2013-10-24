@@ -1,5 +1,4 @@
-Heterosporium laricinum Dearn. SPECIES
-=======
+# Heterosporium laricinum Dearn. SPECIES
 
 #### Status
 ACCEPTED

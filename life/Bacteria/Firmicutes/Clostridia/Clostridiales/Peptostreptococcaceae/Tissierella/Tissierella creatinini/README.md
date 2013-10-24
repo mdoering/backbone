@@ -1,5 +1,4 @@
-Tissierella creatinini Farrow et al., 1995 SPECIES
-=======
+# Tissierella creatinini Farrow et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

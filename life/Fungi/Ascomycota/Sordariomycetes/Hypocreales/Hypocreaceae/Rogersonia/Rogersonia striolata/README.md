@@ -1,5 +1,4 @@
-Rogersonia striolata Samuels & Lodge, 1996 SPECIES
-=======
+# Rogersonia striolata Samuels & Lodge, 1996 SPECIES
 
 #### Status
 ACCEPTED

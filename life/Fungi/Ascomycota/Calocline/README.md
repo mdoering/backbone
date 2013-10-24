@@ -1,5 +1,4 @@
-Calocline Syd. GENUS
-=======
+# Calocline Syd. GENUS
 
 #### Status
 ACCEPTED

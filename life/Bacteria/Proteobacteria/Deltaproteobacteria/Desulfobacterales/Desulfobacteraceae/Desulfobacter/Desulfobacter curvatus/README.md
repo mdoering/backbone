@@ -1,5 +1,4 @@
-Desulfobacter curvatus Widdel, 1988 SPECIES
-=======
+# Desulfobacter curvatus Widdel, 1988 SPECIES
 
 #### Status
 ACCEPTED

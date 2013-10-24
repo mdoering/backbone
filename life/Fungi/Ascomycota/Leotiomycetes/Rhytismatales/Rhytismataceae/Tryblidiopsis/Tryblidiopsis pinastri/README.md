@@ -1,14 +1,13 @@
-Triblidium pinastri (Pers.) Fr., 1849 SPECIES
-=======
+# Tryblidiopsis pinastri (Pers.) P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 369 (1849)
+Bidr. Känn. Finl. Nat. Folk 19: 262 (1871)
 
 #### Original name
 null

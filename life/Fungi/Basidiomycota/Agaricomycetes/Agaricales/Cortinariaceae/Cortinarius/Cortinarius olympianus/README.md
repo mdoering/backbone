@@ -1,5 +1,4 @@
-Cortinarius olympianus A.H. Sm. SPECIES
-=======
+# Cortinarius olympianus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

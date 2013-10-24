@@ -1,5 +1,4 @@
-Thelephora ramarioides D.A. Reid, 1958 SPECIES
-=======
+# Thelephora ramarioides D.A. Reid, 1958 SPECIES
 
 #### Status
 ACCEPTED

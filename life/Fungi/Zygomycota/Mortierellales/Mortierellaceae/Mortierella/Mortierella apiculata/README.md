@@ -1,5 +1,4 @@
-Mortierella apiculata Marchal, 1891 SPECIES
-=======
+# Mortierella apiculata Marchal, 1891 SPECIES
 
 #### Status
 ACCEPTED

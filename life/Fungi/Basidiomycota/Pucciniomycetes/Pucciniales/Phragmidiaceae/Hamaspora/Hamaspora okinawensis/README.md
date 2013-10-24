@@ -1,5 +1,4 @@
-Hamaspora okinawensis Hirats. f., 1954 SPECIES
-=======
+# Hamaspora okinawensis Hirats. f., 1954 SPECIES
 
 #### Status
 ACCEPTED

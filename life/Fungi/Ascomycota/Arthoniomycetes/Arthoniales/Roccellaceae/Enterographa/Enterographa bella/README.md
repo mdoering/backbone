@@ -1,5 +1,4 @@
-Enterographa bella R. Sant. SPECIES
-=======
+# Enterographa bella R. Sant. SPECIES
 
 #### Status
 ACCEPTED

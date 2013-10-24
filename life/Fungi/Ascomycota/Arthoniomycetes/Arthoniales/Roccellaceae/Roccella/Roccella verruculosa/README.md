@@ -1,5 +1,4 @@
-Roccella verruculosa Follmann SPECIES
-=======
+# Roccella verruculosa Follmann SPECIES
 
 #### Status
 ACCEPTED

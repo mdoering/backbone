@@ -1,5 +1,4 @@
-Placosphaeria tiliae Bubák SPECIES
-=======
+# Placosphaeria tiliae Bubák SPECIES
 
 #### Status
 ACCEPTED

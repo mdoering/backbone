@@ -1,5 +1,4 @@
-Xylomyces pusillus Goh, W.H. Ho, K.D. Hyde & K.M. Tsui SPECIES
-=======
+# Xylomyces pusillus Goh, W.H. Ho, K.D. Hyde & K.M. Tsui SPECIES
 
 #### Status
 ACCEPTED

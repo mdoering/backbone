@@ -1,5 +1,4 @@
-Mycoëmilia scoparia Kurihara, Degawa & Tokum., 2004 SPECIES
-=======
+# Mycoëmilia scoparia Kurihara, Degawa & Tokum., 2004 SPECIES
 
 #### Status
 ACCEPTED

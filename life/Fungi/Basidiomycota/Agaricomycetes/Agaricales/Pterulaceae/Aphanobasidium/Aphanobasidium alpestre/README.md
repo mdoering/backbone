@@ -1,5 +1,4 @@
-Aphanobasidium alpestre Boidin & Gilles SPECIES
-=======
+# Aphanobasidium alpestre Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

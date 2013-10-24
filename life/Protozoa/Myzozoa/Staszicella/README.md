@@ -1,5 +1,4 @@
-Staszicella Woloszynska, 1916 GENUS
-=======
+# Staszicella Woloszynska, 1916 GENUS
 
 #### Status
 SYNONYM

@@ -1,5 +1,4 @@
-Polyporus subcontigua Cleland & Rodway SPECIES
-=======
+# Polyporus subcontigua Cleland & Rodway SPECIES
 
 #### Status
 ACCEPTED

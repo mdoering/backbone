@@ -1,14 +1,13 @@
-Biatorina diffracta (A. Massal.) Jatta SPECIES
-=======
+# Toninia diffracta (A. Massal.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 51: 284 (1901)
 
 #### Original name
 Thalloidima vesiculare ß vesiculare (Hoffm.) A. Massal.

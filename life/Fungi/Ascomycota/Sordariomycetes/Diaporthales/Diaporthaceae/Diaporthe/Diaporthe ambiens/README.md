@@ -1,5 +1,4 @@
-Diaporthe ambiens Fuckel SPECIES
-=======
+# Diaporthe ambiens Fuckel SPECIES
 
 #### Status
 ACCEPTED

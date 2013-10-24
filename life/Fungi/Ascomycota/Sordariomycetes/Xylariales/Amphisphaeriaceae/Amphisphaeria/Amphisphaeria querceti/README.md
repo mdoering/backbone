@@ -1,5 +1,4 @@
-Amphisphaeria querceti Cooke & Massee SPECIES
-=======
+# Amphisphaeria querceti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

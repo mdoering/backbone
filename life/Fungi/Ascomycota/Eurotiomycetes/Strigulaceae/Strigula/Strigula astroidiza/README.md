@@ -1,5 +1,4 @@
-Strigula astroidiza Vain. SPECIES
-=======
+# Strigula astroidiza Vain. SPECIES
 
 #### Status
 ACCEPTED

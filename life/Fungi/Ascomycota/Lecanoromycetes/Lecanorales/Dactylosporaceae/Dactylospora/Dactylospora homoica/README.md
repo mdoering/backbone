@@ -1,5 +1,4 @@
-Dactylospora homoica (Nyl.) Zopf SPECIES
-=======
+# Dactylospora homoica (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

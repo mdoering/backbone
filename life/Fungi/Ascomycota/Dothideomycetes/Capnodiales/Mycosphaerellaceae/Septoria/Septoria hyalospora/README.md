@@ -1,5 +1,4 @@
-Septoria hyalospora (Mont. & Ces.) Sacc. SPECIES
-=======
+# Septoria hyalospora (Mont. & Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

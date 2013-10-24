@@ -1,5 +1,4 @@
-Toninia arctica Timdal SPECIES
-=======
+# Toninia arctica Timdal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tania mohamedii H. Harada & Yoshik. Yamam. SPECIES
-=======
+# Tania mohamedii H. Harada & Yoshik. Yamam. SPECIES
 
 #### Status
 ACCEPTED

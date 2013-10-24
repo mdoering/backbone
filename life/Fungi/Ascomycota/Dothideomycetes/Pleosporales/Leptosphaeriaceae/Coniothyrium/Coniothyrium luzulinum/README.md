@@ -1,5 +1,4 @@
-Coniothyrium luzulinum Petr. SPECIES
-=======
+# Coniothyrium luzulinum Petr. SPECIES
 
 #### Status
 ACCEPTED

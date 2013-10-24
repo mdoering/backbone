@@ -1,17 +1,16 @@
-Hebeloma fimicolum S. Imai SPECIES
-=======
+# Hebeloma fimicola S. Imai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Coll. agric. , Hokkaido Imp. Univ. 43: 227 (1938)
 
 #### Original name
-Hebeloma fimicolum S. Imai
+Hebeloma fimicola S. Imai
 
 ### Remarks
 null

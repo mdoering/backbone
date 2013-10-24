@@ -1,5 +1,4 @@
-Mallomonas wujekii P. A. Siver SPECIES
-=======
+# Mallomonas wujekii P. A. Siver SPECIES
 
 #### Status
 ACCEPTED

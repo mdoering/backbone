@@ -1,5 +1,4 @@
-Weddellomyces pachyosporicola Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Weddellomyces pachyosporicola Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

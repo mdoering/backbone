@@ -1,5 +1,4 @@
-Guepinia pennsylvanica Overh. SPECIES
-=======
+# Guepinia pennsylvanica Overh. SPECIES
 
 #### Status
 ACCEPTED

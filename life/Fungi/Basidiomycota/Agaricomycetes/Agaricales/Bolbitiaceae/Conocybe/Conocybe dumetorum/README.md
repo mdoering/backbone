@@ -1,17 +1,16 @@
-Conocybe laricina var. laricina VARIETY
-=======
+# Conocybe dumetorum (Velen.) Svrcek, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 51 (1935)
+Ceská Mykol. 10: 175 (1956)
 
 #### Original name
-Conocybe laricina var. laricina
+Galera dumetorum Velen., 1921
 
 ### Remarks
 null

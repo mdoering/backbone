@@ -1,5 +1,4 @@
-Squamaria picta SPECIES
-=======
+# Squamaria picta SPECIES
 
 #### Status
 ACCEPTED

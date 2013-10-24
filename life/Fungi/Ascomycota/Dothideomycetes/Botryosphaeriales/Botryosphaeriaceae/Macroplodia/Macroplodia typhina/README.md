@@ -1,5 +1,4 @@
-Macroplodia typhina (Peck) Kuntze SPECIES
-=======
+# Macroplodia typhina (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

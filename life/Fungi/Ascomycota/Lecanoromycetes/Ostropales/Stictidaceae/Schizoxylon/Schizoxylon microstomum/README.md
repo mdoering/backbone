@@ -1,5 +1,4 @@
-Schizoxylon microstomum Ellis & Everh. SPECIES
-=======
+# Schizoxylon microstomum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

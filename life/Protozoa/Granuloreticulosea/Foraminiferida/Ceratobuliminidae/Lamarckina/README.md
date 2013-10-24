@@ -1,5 +1,4 @@
-Lamarckina Berthelin, 1881 GENUS
-=======
+# Lamarckina Berthelin, 1881 GENUS
 
 #### Status
 ACCEPTED

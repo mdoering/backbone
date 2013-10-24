@@ -1,5 +1,4 @@
-Phyllostictina clemensae Petr. SPECIES
-=======
+# Phyllostictina clemensae Petr. SPECIES
 
 #### Status
 ACCEPTED

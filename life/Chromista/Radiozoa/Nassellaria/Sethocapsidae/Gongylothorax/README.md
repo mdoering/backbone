@@ -1,5 +1,4 @@
-Gongylothorax Foreman, 1968 GENUS
-=======
+# Gongylothorax Foreman, 1968 GENUS
 
 #### Status
 ACCEPTED

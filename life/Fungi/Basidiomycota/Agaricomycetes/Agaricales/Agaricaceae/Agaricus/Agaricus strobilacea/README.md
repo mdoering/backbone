@@ -1,5 +1,4 @@
-Agaricus strobilacea Cooke SPECIES
-=======
+# Agaricus strobilacea Cooke SPECIES
 
 #### Status
 ACCEPTED

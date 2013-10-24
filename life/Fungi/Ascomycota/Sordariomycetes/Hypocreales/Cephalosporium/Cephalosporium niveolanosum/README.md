@@ -1,5 +1,4 @@
-Cephalosporium niveolanosum Benedek SPECIES
-=======
+# Cephalosporium niveolanosum Benedek SPECIES
 
 #### Status
 ACCEPTED

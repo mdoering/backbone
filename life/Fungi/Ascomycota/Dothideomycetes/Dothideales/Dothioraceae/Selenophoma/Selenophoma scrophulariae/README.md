@@ -1,5 +1,4 @@
-Selenophoma scrophulariae B. Sutton SPECIES
-=======
+# Selenophoma scrophulariae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

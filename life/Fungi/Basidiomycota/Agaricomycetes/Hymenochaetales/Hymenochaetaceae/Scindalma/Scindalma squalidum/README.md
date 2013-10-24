@@ -1,5 +1,4 @@
-Scindalma squalidum (Fr.) Kuntze SPECIES
-=======
+# Scindalma squalidum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

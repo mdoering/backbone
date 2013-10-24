@@ -1,5 +1,4 @@
-Triceratium repletum Greville, 1866 SPECIES
-=======
+# Triceratium repletum Greville, 1866 SPECIES
 
 #### Status
 ACCEPTED

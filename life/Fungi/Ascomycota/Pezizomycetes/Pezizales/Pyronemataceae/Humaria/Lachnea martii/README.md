@@ -1,5 +1,4 @@
-Lachnea martii (F. Strauss) Sacc. SPECIES
-=======
+# Lachnea martii (F. Strauss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

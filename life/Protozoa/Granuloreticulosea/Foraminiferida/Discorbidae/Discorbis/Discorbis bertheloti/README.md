@@ -1,5 +1,4 @@
-Discorbis bertheloti SPECIES
-=======
+# Discorbis bertheloti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerogaster R. Hesse, 1891 GENUS
-=======
+# Sclerogaster R. Hesse, 1891 GENUS
 
 #### Status
 ACCEPTED

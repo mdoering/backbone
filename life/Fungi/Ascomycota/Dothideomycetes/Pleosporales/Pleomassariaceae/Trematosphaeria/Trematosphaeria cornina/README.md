@@ -1,5 +1,4 @@
-Trematosphaeria cornina Dearn. SPECIES
-=======
+# Trematosphaeria cornina Dearn. SPECIES
 
 #### Status
 ACCEPTED

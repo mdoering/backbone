@@ -1,8 +1,7 @@
-Laminononion tumidum (Cushman & Edwards, 1937) SPECIES
-=======
+# Astrononion tumidum Cushman & Edwards, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Arthonia baeastroidea Nyl. SPECIES
-=======
+# Arthonia baeastroidea Nyl. SPECIES
 
 #### Status
 ACCEPTED

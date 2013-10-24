@@ -1,5 +1,4 @@
-Tintinnopsis petasa Hada, 1970 SPECIES
-=======
+# Tintinnopsis petasa Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

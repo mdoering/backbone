@@ -1,5 +1,4 @@
-Guignardia herbarum Vasyag. SPECIES
-=======
+# Guignardia herbarum Vasyag. SPECIES
 
 #### Status
 ACCEPTED

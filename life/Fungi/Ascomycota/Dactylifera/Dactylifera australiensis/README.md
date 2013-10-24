@@ -1,5 +1,4 @@
-Dactylifera australiensis Alcorn, 1987 SPECIES
-=======
+# Dactylifera australiensis Alcorn, 1987 SPECIES
 
 #### Status
 ACCEPTED

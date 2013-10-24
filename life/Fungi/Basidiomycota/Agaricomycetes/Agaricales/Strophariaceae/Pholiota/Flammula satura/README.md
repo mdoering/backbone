@@ -1,5 +1,4 @@
-Flammula satura Kühner SPECIES
-=======
+# Flammula satura Kühner SPECIES
 
 #### Status
 ACCEPTED

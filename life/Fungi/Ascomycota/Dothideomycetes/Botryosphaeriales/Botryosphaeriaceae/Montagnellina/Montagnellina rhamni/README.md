@@ -1,5 +1,4 @@
-Montagnellina rhamni Sawada SPECIES
-=======
+# Montagnellina rhamni Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora lathyri-aphacae (Lall, H.S. Gill & Munjal) U. Braun & Crous SPECIES
-=======
+# Passalora lathyri-aphacae (Lall, H.S. Gill & Munjal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

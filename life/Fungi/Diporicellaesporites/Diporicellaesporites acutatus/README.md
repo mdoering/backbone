@@ -1,5 +1,4 @@
-Diporicellaesporites acutatus Rouse & Mustard SPECIES
-=======
+# Diporicellaesporites acutatus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

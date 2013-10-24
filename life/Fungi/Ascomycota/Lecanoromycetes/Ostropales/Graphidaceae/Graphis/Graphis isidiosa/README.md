@@ -1,5 +1,4 @@
-Graphis isidiosa Vain. SPECIES
-=======
+# Graphis isidiosa Vain. SPECIES
 
 #### Status
 ACCEPTED

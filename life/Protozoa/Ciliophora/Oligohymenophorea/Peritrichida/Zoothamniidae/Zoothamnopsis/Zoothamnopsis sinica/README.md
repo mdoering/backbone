@@ -1,5 +1,4 @@
-Zoothamnopsis sinica Ji & Song, 2004 SPECIES
-=======
+# Zoothamnopsis sinica Ji & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

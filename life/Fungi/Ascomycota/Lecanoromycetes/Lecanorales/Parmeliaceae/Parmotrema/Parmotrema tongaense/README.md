@@ -1,5 +1,4 @@
-Parmotrema tongaense Elix SPECIES
-=======
+# Parmotrema tongaense Elix SPECIES
 
 #### Status
 ACCEPTED

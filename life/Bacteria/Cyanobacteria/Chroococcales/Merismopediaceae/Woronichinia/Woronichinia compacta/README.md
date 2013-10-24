@@ -1,8 +1,7 @@
-Gomphosphaeria lacustris var. compacta Lemmermann VARIETY
-=======
+# Woronichinia compacta (Lemmermann) Komárek & Hindák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

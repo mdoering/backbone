@@ -1,5 +1,4 @@
-Rinodina sipmanii Aptroot SPECIES
-=======
+# Rinodina sipmanii Aptroot SPECIES
 
 #### Status
 ACCEPTED

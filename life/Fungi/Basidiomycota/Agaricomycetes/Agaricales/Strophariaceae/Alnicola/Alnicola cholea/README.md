@@ -1,5 +1,4 @@
-Alnicola cholea Kühner SPECIES
-=======
+# Alnicola cholea Kühner SPECIES
 
 #### Status
 ACCEPTED

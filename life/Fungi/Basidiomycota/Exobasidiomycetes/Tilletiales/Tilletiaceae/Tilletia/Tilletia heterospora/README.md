@@ -1,5 +1,4 @@
-Tilletia heterospora (Henn.) Zundel SPECIES
-=======
+# Tilletia heterospora (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

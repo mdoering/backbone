@@ -1,5 +1,4 @@
-Grubyella castanea Tanig. SPECIES
-=======
+# Grubyella castanea Tanig. SPECIES
 
 #### Status
 ACCEPTED

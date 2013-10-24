@@ -1,5 +1,4 @@
-Ectocarpus tenellus (Kützing) Zanardini SPECIES
-=======
+# Ectocarpus tenellus (Kützing) Zanardini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scolecobasidium variabile var. variabile VARIETY
-=======
+# Scolecobasidium tshawytschae (Doty & D.W. Slater) McGinnis & Ajello, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 83 (1962)
+Trans. Br. mycol. Soc. 63(1): 202 (1974)
 
 #### Original name
-Scolecobasidium variabile var. variabile
+Heterosporium tshawytschae Doty & D.W. Slater, 1946
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleospora lomandrae Petr. SPECIES
-=======
+# Pleospora lomandrae Petr. SPECIES
 
 #### Status
 ACCEPTED

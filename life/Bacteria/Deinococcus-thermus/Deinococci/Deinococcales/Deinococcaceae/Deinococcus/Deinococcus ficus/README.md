@@ -1,5 +1,4 @@
-Deinococcus ficus Lai et al., 2006 SPECIES
-=======
+# Deinococcus ficus Lai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

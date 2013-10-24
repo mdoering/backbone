@@ -1,5 +1,4 @@
-Hyperrhiza rubescens Rabenh. SPECIES
-=======
+# Hyperrhiza rubescens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

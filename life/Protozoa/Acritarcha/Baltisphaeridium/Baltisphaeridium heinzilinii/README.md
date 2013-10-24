@@ -1,5 +1,4 @@
-Baltisphaeridium heinzilinii Stockmans & Willière, 1969 SPECIES
-=======
+# Baltisphaeridium heinzilinii Stockmans & Willière, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tympanis xylophila Kirschst. SPECIES
-=======
+# Tympanis xylophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

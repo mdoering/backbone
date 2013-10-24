@@ -1,17 +1,16 @@
-Fusisporium berenice Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Ascocalyx abietis Naumov, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3(no. 28): 147 (1875)
+Morbi Plant. Script. Sect. Phytopath. Hort. Bot. Prince. USSR 14: 138 (1925)
 
 #### Original name
-Fusisporium berenice Berk. & M.A. Curtis, 1875
+Ascocalyx abietis Naumov, 1925
 
 ### Remarks
 null

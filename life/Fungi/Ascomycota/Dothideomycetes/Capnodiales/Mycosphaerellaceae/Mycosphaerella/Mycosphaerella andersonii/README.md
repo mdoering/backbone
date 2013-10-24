@@ -1,5 +1,4 @@
-Mycosphaerella andersonii (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella andersonii (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

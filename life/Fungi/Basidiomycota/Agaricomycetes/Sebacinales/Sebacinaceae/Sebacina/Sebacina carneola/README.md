@@ -1,5 +1,4 @@
-Sebacina carneola Bres. SPECIES
-=======
+# Sebacina carneola Bres. SPECIES
 
 #### Status
 ACCEPTED

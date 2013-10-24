@@ -1,5 +1,4 @@
-Chaetoceros bacteriastroides Karsten SPECIES
-=======
+# Chaetoceros bacteriastroides Karsten SPECIES
 
 #### Status
 ACCEPTED

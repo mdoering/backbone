@@ -1,5 +1,4 @@
-Trechispora umbrinospora anon. SPECIES
-=======
+# Trechispora umbrinospora anon. SPECIES
 
 #### Status
 ACCEPTED

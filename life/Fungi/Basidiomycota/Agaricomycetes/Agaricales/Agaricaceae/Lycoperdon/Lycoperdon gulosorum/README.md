@@ -1,5 +1,4 @@
-Lycoperdon gulosorum Scop. SPECIES
-=======
+# Lycoperdon gulosorum Scop. SPECIES
 
 #### Status
 ACCEPTED

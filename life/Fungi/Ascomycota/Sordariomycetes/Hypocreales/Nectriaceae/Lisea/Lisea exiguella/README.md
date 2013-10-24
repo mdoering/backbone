@@ -1,5 +1,4 @@
-Lisea exiguella (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Lisea exiguella (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

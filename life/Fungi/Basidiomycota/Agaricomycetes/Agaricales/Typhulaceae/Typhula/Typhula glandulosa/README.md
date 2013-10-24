@@ -1,5 +1,4 @@
-Typhula glandulosa Preuss SPECIES
-=======
+# Typhula glandulosa Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acolium stigonellum Flot. SPECIES
-=======
+# Acolium stigonellum Flot. SPECIES
 
 #### Status
 ACCEPTED

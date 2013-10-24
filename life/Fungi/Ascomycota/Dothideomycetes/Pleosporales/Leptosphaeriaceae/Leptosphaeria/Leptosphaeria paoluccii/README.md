@@ -1,5 +1,4 @@
-Leptosphaeria paoluccii Curzi SPECIES
-=======
+# Leptosphaeria paoluccii Curzi SPECIES
 
 #### Status
 ACCEPTED

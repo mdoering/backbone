@@ -1,5 +1,4 @@
-Amanita anisata (Murrill) Murrill SPECIES
-=======
+# Amanita anisata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

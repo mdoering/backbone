@@ -1,5 +1,4 @@
-Dicaeoma intermedium (Dietel) Kuntze SPECIES
-=======
+# Dicaeoma intermedium (Dietel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

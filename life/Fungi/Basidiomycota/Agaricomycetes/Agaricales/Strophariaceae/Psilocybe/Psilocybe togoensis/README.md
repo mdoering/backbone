@@ -1,17 +1,16 @@
-Psilocybe togoënsis Henn. SPECIES
-=======
+# Psilocybe togoensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 14: 353 (1891)
 
 #### Original name
-Psilocybe togoënsis Henn.
+Psilocybe togoensis Henn.
 
 ### Remarks
 null

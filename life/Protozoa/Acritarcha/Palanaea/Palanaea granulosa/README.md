@@ -1,5 +1,4 @@
-Palanaea granulosa Sah & Kar, 1974 SPECIES
-=======
+# Palanaea granulosa Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

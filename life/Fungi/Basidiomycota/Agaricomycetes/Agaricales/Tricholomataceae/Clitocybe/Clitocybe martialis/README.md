@@ -1,5 +1,4 @@
-Clitocybe martialis Velen. SPECIES
-=======
+# Clitocybe martialis Velen. SPECIES
 
 #### Status
 ACCEPTED

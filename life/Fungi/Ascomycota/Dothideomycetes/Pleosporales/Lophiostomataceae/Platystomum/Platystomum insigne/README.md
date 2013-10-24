@@ -1,5 +1,4 @@
-Platystomum insigne (Fabre) M.E. Barr SPECIES
-=======
+# Platystomum insigne (Fabre) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

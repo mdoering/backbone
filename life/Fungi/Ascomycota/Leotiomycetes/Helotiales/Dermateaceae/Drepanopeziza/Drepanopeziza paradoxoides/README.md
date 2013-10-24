@@ -1,5 +1,4 @@
-Drepanopeziza paradoxoides (Rehm) Défago SPECIES
-=======
+# Drepanopeziza paradoxoides (Rehm) Défago SPECIES
 
 #### Status
 ACCEPTED

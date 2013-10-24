@@ -1,5 +1,4 @@
-Mucor hachijyoensis Ts. Watan. SPECIES
-=======
+# Mucor hachijyoensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxidiella I.C. Cookson & A. Eisenack, 1958 GENUS
-=======
+# Pyxidiella I.C. Cookson & A. Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

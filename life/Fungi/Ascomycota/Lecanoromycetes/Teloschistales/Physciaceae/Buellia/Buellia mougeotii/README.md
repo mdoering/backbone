@@ -1,5 +1,4 @@
-Buellia mougeotii (Hepp) Lojka SPECIES
-=======
+# Buellia mougeotii (Hepp) Lojka SPECIES
 
 #### Status
 ACCEPTED

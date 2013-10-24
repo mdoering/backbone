@@ -1,5 +1,4 @@
-Uredo cyrtococci Z.C. Chen SPECIES
-=======
+# Uredo cyrtococci Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

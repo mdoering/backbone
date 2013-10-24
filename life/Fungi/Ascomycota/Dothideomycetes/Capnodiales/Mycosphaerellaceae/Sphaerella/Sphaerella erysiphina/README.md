@@ -1,14 +1,13 @@
-Sphaeria erysiphina Berk. & Broome, 1854 SPECIES
-=======
+# Sphaerella erysiphina (Berk. & Broome) Cooke, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. hort. Soc. , London 9: 66 (1854)
+Handbook of British Fungi no. 2766 (1871)
 
 #### Original name
 Sphaeria erysiphina Berk. & Broome, 1854

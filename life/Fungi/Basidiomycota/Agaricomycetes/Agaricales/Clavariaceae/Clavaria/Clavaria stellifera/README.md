@@ -1,5 +1,4 @@
-Clavaria stellifera J. Geesink & Bas, 1992 SPECIES
-=======
+# Clavaria stellifera J. Geesink & Bas, 1992 SPECIES
 
 #### Status
 ACCEPTED

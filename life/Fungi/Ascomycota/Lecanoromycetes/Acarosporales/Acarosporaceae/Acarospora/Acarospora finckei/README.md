@@ -1,5 +1,4 @@
-Acarospora finckei Zahlbr. SPECIES
-=======
+# Acarospora finckei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

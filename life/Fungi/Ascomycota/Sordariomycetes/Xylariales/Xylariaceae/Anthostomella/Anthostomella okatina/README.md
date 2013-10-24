@@ -1,5 +1,4 @@
-Anthostomella okatina Whitton, K.D. Hyde & McKenzie, 2000 SPECIES
-=======
+# Anthostomella okatina Whitton, K.D. Hyde & McKenzie, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Boletus colossus R. Heim, 1936 SPECIES
-=======
+# Phlebopus colossus (R. Heim) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 34: 326 (1936)
 
 #### Original name
 Boletus colossus R. Heim, 1936

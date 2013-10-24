@@ -1,5 +1,4 @@
-Globicuniculus Saito & Thompson in Saito, Thompson & Breger, 1976 GENUS
-=======
+# Globicuniculus Saito & Thompson in Saito, Thompson & Breger, 1976 GENUS
 
 #### Status
 ACCEPTED

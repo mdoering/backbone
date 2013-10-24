@@ -1,5 +1,4 @@
-Rhizocarpon atrotestaceum (Fr.) Müll. Arg. SPECIES
-=======
+# Rhizocarpon atrotestaceum (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

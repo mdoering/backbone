@@ -1,5 +1,4 @@
-Puccinia baccharidis-polifoliae J.C. Lindq. SPECIES
-=======
+# Puccinia baccharidis-polifoliae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Idriella vandalurensis Vittal, 1970 SPECIES
-=======
+# Idriella vandalurensis Vittal, 1970 SPECIES
 
 #### Status
 ACCEPTED

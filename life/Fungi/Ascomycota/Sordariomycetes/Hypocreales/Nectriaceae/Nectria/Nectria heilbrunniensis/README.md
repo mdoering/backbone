@@ -1,5 +1,4 @@
-Nectria heilbrunniensis Kirschst. SPECIES
-=======
+# Nectria heilbrunniensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen citrinus Hedw. SPECIES
-=======
+# Lichen citrinus Hedw. SPECIES
 
 #### Status
 ACCEPTED

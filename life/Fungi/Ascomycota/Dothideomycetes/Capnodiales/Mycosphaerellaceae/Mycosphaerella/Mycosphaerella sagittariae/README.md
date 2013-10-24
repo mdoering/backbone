@@ -1,5 +1,4 @@
-Mycosphaerella sagittariae (Tassi) Tomilin SPECIES
-=======
+# Mycosphaerella sagittariae (Tassi) Tomilin SPECIES
 
 #### Status
 ACCEPTED

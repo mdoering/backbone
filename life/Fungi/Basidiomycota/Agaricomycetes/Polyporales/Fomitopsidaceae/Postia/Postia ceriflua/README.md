@@ -1,14 +1,13 @@
-Oligoporus cerifluus (Berk. & M.A. Curtis) Ryvarden & Gilb., 1985 SPECIES
-=======
+# Postia ceriflua (Berk. & M.A. Curtis) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 22(2): 365 (1985)
+Persoonia 11(4): 423 (1982)
 
 #### Original name
 Polyporus cerifluus Berk. & M.A. Curtis, 1872

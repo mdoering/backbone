@@ -1,5 +1,4 @@
-Lactarius leucophaeus Verbeken & E. Horak SPECIES
-=======
+# Lactarius leucophaeus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

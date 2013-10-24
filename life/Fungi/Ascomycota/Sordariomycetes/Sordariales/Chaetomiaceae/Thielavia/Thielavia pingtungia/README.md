@@ -1,5 +1,4 @@
-Thielavia pingtungia K.Y. Chen & Z.C. Chen SPECIES
-=======
+# Thielavia pingtungia K.Y. Chen & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

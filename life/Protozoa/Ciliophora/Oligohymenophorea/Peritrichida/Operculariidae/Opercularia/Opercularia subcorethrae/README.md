@@ -1,5 +1,4 @@
-Opercularia subcorethrae Sommer, 1951 SPECIES
-=======
+# Opercularia subcorethrae Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Colpodidium viridis (Mirabdullayev, 1986) Jankowski, 1992 SPECIES
-=======
+# Colpodidium viride (Mirabdullayev, 1986) Jankowski, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

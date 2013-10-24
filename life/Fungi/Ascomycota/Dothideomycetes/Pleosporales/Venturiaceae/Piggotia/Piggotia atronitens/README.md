@@ -1,5 +1,4 @@
-Piggotia atronitens f. atronitens FORM
-=======
+# Piggotia atronitens Oudem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Piggotia atronitens f. atronitens
+Piggotia atronitens Oudem.
 
 ### Remarks
 null

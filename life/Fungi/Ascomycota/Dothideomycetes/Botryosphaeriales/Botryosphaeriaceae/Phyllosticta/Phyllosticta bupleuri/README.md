@@ -1,5 +1,4 @@
-Phyllosticta bupleuri (Fuckel) Sacc. SPECIES
-=======
+# Phyllosticta bupleuri (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

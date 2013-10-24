@@ -1,5 +1,4 @@
-Storrsella Drooger, 1960 GENUS
-=======
+# Storrsella Drooger, 1960 GENUS
 
 #### Status
 ACCEPTED

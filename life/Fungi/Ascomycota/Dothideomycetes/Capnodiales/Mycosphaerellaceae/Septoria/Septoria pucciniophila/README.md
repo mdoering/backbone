@@ -1,5 +1,4 @@
-Septoria pucciniophila Gonz. Frag. SPECIES
-=======
+# Septoria pucciniophila Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

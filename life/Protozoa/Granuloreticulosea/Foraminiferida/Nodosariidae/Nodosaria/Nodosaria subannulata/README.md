@@ -1,8 +1,7 @@
-Pseudonodosaria subannulata (Cushman, 1923) SPECIES
-=======
+# Nodosaria subannulata Cushman, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

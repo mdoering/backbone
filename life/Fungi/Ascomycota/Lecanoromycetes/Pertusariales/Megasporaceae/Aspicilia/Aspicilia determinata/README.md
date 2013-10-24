@@ -1,17 +1,16 @@
-Lecanora determinata H. Magn. SPECIES
-=======
+# Aspicilia determinata (H. Magn.) N. S. Golubk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 9: 236 (1972)
 
 #### Original name
-null
+Lecanora determinata H. Magn.
 
 ### Remarks
 null

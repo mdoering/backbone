@@ -1,5 +1,4 @@
-Hysteropezizella junciseda (J. Schröt.) Nannf. SPECIES
-=======
+# Hysteropezizella junciseda (J. Schröt.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

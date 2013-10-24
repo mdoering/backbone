@@ -1,5 +1,4 @@
-Malassezia sympodialis R.B. Simmons & E. Guého, 1990 SPECIES
-=======
+# Malassezia sympodialis R.B. Simmons & E. Guého, 1990 SPECIES
 
 #### Status
 ACCEPTED

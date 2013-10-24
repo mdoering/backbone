@@ -1,14 +1,13 @@
-Phoma ramalinae Nordin SPECIES
-=======
+# Vouauxiomyces ramalinae (Nordin) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 58: 227 (1964)
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 67 (1981)
 
 #### Original name
 Phoma ramalinae Nordin

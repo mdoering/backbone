@@ -1,5 +1,4 @@
-Cryptoderis misella (Niessl) Sacc. SPECIES
-=======
+# Cryptoderis misella (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

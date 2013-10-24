@@ -1,5 +1,4 @@
-Tsukamurella spumae Nam et al., 2003 SPECIES
-=======
+# Tsukamurella spumae Nam et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

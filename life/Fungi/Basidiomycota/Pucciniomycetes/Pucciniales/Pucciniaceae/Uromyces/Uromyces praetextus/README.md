@@ -1,5 +1,4 @@
-Uromyces praetextus Vestergr. SPECIES
-=======
+# Uromyces praetextus Vestergr. SPECIES
 
 #### Status
 ACCEPTED

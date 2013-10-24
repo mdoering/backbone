@@ -1,5 +1,4 @@
-Toninia auriculata Timdal SPECIES
-=======
+# Toninia auriculata Timdal SPECIES
 
 #### Status
 ACCEPTED

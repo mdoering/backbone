@@ -1,5 +1,4 @@
-Pluteus grandineus Berk. & Broome SPECIES
-=======
+# Pluteus grandineus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

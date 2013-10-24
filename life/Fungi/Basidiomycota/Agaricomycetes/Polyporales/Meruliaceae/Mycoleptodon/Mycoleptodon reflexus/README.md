@@ -1,14 +1,13 @@
-Mycoleptodon reflexum (Burt) Pilát SPECIES
-=======
+# Mycoleptodon reflexus (Burt) Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 49: 302 (1934)
 
 #### Original name
 Hydnum reflexum Burt

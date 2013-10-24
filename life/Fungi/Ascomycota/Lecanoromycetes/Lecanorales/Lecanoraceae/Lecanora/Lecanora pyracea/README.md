@@ -1,5 +1,4 @@
-Lecanora pyracea f. pyracea FORM
-=======
+# Lecanora pyracea Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora pyracea f. pyracea
+Lecanora pyracea Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeronaema calathiscus Corda SPECIES
-=======
+# Sphaeronaema calathiscus Corda SPECIES
 
 #### Status
 ACCEPTED

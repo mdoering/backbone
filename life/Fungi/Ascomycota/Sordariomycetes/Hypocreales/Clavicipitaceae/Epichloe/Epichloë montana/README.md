@@ -1,5 +1,4 @@
-Epichloë montana Racib. SPECIES
-=======
+# Epichloë montana Racib. SPECIES
 
 #### Status
 ACCEPTED

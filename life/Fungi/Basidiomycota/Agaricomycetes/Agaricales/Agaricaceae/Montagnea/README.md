@@ -1,5 +1,4 @@
-Montagnea Fr. GENUS
-=======
+# Montagnea Fr. GENUS
 
 #### Status
 ACCEPTED

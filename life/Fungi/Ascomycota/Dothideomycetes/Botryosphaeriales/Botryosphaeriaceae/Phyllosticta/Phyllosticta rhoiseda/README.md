@@ -1,5 +1,4 @@
-Phyllosticta rhoiseda Fairm. SPECIES
-=======
+# Phyllosticta rhoiseda Fairm. SPECIES
 
 #### Status
 ACCEPTED

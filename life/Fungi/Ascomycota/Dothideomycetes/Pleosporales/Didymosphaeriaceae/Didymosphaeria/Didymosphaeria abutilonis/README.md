@@ -1,5 +1,4 @@
-Didymosphaeria abutilonis M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Didymosphaeria abutilonis M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

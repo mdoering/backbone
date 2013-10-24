@@ -1,5 +1,4 @@
-Biatora flavocoerulescens (Hornem.) Hepp SPECIES
-=======
+# Biatora flavocoerulescens (Hornem.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus areolatus Berk. SPECIES
-=======
+# Panus areolatus Berk. SPECIES
 
 #### Status
 ACCEPTED

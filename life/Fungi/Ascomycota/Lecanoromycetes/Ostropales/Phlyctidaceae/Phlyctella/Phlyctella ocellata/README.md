@@ -1,5 +1,4 @@
-Phlyctella ocellata (C. Knight) Müll. Arg. SPECIES
-=======
+# Phlyctella ocellata (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

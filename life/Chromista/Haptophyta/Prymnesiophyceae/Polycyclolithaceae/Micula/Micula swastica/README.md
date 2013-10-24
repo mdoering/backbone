@@ -1,5 +1,4 @@
-Micula swastica Stradner & Steinmetz, 1984 SPECIES
-=======
+# Micula swastica Stradner & Steinmetz, 1984 SPECIES
 
 #### Status
 ACCEPTED

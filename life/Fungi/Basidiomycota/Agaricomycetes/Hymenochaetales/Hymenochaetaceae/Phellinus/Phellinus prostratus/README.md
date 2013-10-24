@@ -1,5 +1,4 @@
-Phellinus prostratus Corner SPECIES
-=======
+# Phellinus prostratus Corner SPECIES
 
 #### Status
 ACCEPTED

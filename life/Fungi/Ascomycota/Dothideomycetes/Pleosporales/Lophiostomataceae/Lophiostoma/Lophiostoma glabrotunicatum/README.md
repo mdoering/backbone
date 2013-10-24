@@ -1,5 +1,4 @@
-Lophiostoma glabrotunicatum Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
-=======
+# Lophiostoma glabrotunicatum Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

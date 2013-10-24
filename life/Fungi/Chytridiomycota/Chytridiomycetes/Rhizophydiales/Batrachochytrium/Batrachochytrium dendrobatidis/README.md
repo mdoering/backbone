@@ -1,5 +1,4 @@
-Batrachochytrium dendrobatidis Longcore, Pessier & D.K. Nichols, 1999 SPECIES
-=======
+# Batrachochytrium dendrobatidis Longcore, Pessier & D.K. Nichols, 1999 SPECIES
 
 #### Status
 ACCEPTED

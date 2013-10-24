@@ -1,5 +1,4 @@
-Phyllosticta pterocaryae Thüm. SPECIES
-=======
+# Phyllosticta pterocaryae Thüm. SPECIES
 
 #### Status
 ACCEPTED

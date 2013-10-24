@@ -1,5 +1,4 @@
-Umbilicaria dichroa Nyl. SPECIES
-=======
+# Umbilicaria dichroa Nyl. SPECIES
 
 #### Status
 ACCEPTED

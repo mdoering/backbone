@@ -1,14 +1,13 @@
-Pestalotiopsis guepinii var. macrotricha (Kleb.) B. Sutton, 1961 VARIETY
-=======
+# Pestalotia macrotricha Kleb., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 80: 11 (1961)
+Mykol. Zentbl. 4: 7 (1914)
 
 #### Original name
 Pestalotia macrotricha Kleb., 1914

@@ -1,8 +1,7 @@
-Euplotidium itoi Ito, 1958 SPECIES
-=======
+# Paraeuplotidium itoi (Ito, 1958) Lei, Choi & Xu, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

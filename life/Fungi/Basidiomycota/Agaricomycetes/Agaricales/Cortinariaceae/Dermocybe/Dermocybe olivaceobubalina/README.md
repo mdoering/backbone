@@ -1,5 +1,4 @@
-Dermocybe olivaceobubalina M.M. Moser SPECIES
-=======
+# Dermocybe olivaceobubalina M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

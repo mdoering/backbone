@@ -1,5 +1,4 @@
-Anaulus scalaris C.G. Ehrenberg SPECIES
-=======
+# Anaulus scalaris C.G. Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

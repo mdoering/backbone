@@ -1,5 +1,4 @@
-Pseudocercospora myricacearum M.K. Khan, Budathoki & Kamal SPECIES
-=======
+# Pseudocercospora myricacearum M.K. Khan, Budathoki & Kamal SPECIES
 
 #### Status
 ACCEPTED

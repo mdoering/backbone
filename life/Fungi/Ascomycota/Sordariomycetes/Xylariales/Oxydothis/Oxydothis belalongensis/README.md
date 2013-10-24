@@ -1,5 +1,4 @@
-Oxydothis belalongensis J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis belalongensis J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium smithiae M.S. Patil SPECIES
-=======
+# Synchytrium smithiae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

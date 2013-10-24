@@ -1,17 +1,16 @@
-Ramalina duriaei var. duriaei VARIETY
-=======
+# Ramalina lacera (With.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 16(3): 221 (1984)
 
 #### Original name
-null
+Lichen lacerus Sw.
 
 ### Remarks
 null

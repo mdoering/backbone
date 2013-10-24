@@ -1,5 +1,4 @@
-Roselliniomyces Matzer & Hafellner GENUS
-=======
+# Roselliniomyces Matzer & Hafellner GENUS
 
 #### Status
 ACCEPTED

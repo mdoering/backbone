@@ -1,5 +1,4 @@
-Rugulasphaeridium D.C. Bharadwaj, R.S. Tiwari & B.S. Venkatachala, 1971 GENUS
-=======
+# Rugulasphaeridium D.C. Bharadwaj, R.S. Tiwari & B.S. Venkatachala, 1971 GENUS
 
 #### Status
 ACCEPTED

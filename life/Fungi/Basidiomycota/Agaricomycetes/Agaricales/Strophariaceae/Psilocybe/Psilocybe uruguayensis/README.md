@@ -1,5 +1,4 @@
-Psilocybe uruguayensis Singer ex Guzmán SPECIES
-=======
+# Psilocybe uruguayensis Singer ex Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudolachnea Velen. GENUS
-=======
+# Hyalopeziza Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 313 (1934)
+null
 
 #### Original name
-Pseudolachnea Velen.
+null
 
 ### Remarks
 null

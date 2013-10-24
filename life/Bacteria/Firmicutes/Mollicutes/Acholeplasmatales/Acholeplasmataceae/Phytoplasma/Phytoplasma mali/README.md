@@ -1,5 +1,4 @@
-Phytoplasma mali Seemüller and Schneider, 2004. SPECIES
-=======
+# Phytoplasma mali Seemüller and Schneider, 2004. SPECIES
 
 #### Status
 ACCEPTED

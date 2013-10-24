@@ -1,5 +1,4 @@
-Dexiotricha kahli SPECIES
-=======
+# Dexiotricha kahli SPECIES
 
 #### Status
 ACCEPTED

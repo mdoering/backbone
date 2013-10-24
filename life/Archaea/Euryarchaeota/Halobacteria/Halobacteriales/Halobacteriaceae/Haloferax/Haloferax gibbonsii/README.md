@@ -1,5 +1,4 @@
-Haloferax gibbonsii Juez et al., 1986 SPECIES
-=======
+# Haloferax gibbonsii Juez et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

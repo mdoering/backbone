@@ -1,5 +1,4 @@
-Buellia cangoënsis Vain. SPECIES
-=======
+# Buellia cangoënsis Vain. SPECIES
 
 #### Status
 ACCEPTED

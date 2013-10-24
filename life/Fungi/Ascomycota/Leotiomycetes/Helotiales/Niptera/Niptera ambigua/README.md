@@ -1,5 +1,4 @@
-Niptera ambigua Dennis & Spooner, 1993 SPECIES
-=======
+# Niptera ambigua Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

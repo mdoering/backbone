@@ -1,5 +1,4 @@
-Helotium deodarum K.S. Thind & Saini SPECIES
-=======
+# Helotium deodarum K.S. Thind & Saini SPECIES
 
 #### Status
 ACCEPTED

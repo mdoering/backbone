@@ -1,5 +1,4 @@
-Diplodia arachnoidea Ces. SPECIES
-=======
+# Diplodia arachnoidea Ces. SPECIES
 
 #### Status
 ACCEPTED

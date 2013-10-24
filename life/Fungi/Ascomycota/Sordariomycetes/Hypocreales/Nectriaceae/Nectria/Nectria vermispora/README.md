@@ -1,5 +1,4 @@
-Nectria vermispora Samuels & Brayford SPECIES
-=======
+# Nectria vermispora Samuels & Brayford SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyridium spraguei (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Thyridium spraguei (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

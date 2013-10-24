@@ -1,5 +1,4 @@
-Rhizophydium pythii De Wild. SPECIES
-=======
+# Rhizophydium pythii De Wild. SPECIES
 
 #### Status
 ACCEPTED

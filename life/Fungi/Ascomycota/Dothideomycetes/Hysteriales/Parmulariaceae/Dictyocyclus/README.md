@@ -1,5 +1,4 @@
-Dictyocyclus GENUS
-=======
+# Dictyocyclus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus lutescens Zanardini SPECIES
-=======
+# Ectocarpus lutescens Zanardini SPECIES
 
 #### Status
 ACCEPTED

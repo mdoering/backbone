@@ -1,5 +1,4 @@
-Lophodermium luzulae Hazsl. SPECIES
-=======
+# Lophodermium luzulae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

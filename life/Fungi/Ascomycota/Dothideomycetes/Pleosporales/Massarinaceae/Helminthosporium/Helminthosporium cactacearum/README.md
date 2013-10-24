@@ -1,5 +1,4 @@
-Helminthosporium cactacearum Bongini SPECIES
-=======
+# Helminthosporium cactacearum Bongini SPECIES
 
 #### Status
 ACCEPTED

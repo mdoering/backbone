@@ -1,5 +1,4 @@
-Didymella cortitecta (Norman) H. Magn. SPECIES
-=======
+# Didymella cortitecta (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerostagonospora sessilis (Mont.) E. Gallego SPECIES
-=======
+# Sclerostagonospora sessilis (Mont.) E. Gallego SPECIES
 
 #### Status
 ACCEPTED

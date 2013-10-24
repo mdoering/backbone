@@ -1,5 +1,4 @@
-Sulcopyrenula cruciata Aptroot SPECIES
-=======
+# Sulcopyrenula cruciata Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Culicinomyces Couch, Romney & B. Rao GENUS
-=======
+# Culicinomyces Couch, Romney & B. Rao GENUS
 
 #### Status
 ACCEPTED

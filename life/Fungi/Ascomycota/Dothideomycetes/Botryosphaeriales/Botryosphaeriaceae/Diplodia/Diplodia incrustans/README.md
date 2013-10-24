@@ -1,5 +1,4 @@
-Diplodia incrustans Sacc. SPECIES
-=======
+# Diplodia incrustans Sacc. SPECIES
 
 #### Status
 ACCEPTED

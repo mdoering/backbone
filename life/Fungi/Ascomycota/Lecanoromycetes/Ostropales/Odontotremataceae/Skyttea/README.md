@@ -1,5 +1,4 @@
-Skyttea Sherwood, D. Hawksw. & Coppins GENUS
-=======
+# Skyttea Sherwood, D. Hawksw. & Coppins GENUS
 
 #### Status
 ACCEPTED

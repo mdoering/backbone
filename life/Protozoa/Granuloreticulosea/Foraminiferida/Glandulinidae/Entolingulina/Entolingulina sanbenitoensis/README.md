@@ -1,5 +1,4 @@
-Entolingulina sanbenitoensis McCulloch, 1977 SPECIES
-=======
+# Entolingulina sanbenitoensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

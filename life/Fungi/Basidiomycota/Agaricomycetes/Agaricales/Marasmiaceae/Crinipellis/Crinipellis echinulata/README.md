@@ -1,5 +1,4 @@
-Crinipellis echinulata Murrill SPECIES
-=======
+# Crinipellis echinulata Murrill SPECIES
 
 #### Status
 ACCEPTED

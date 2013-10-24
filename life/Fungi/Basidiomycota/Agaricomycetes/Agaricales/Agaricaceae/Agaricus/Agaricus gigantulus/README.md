@@ -1,5 +1,4 @@
-Agaricus gigantulus Britzelm. SPECIES
-=======
+# Agaricus gigantulus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

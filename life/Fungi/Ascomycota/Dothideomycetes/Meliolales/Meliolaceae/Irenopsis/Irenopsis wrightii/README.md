@@ -1,5 +1,4 @@
-Irenopsis wrightii (Berk. & M.A. Curtis) Hansf. SPECIES
-=======
+# Irenopsis wrightii (Berk. & M.A. Curtis) Hansf. SPECIES
 
 #### Status
 ACCEPTED

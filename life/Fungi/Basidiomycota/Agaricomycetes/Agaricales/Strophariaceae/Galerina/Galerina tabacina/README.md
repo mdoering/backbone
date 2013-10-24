@@ -1,5 +1,4 @@
-Galerina tabacina E. Horak SPECIES
-=======
+# Galerina tabacina E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium nodulosum Kulshr., Raych. & A.Z.M. Khan SPECIES
-=======
+# Chaetomium nodulosum Kulshr., Raych. & A.Z.M. Khan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia inflatula Motyka SPECIES
-=======
+# Aspicilia inflatula Motyka SPECIES
 
 #### Status
 ACCEPTED

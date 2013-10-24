@@ -1,5 +1,4 @@
-Aspicilia verruculosa f. verruculosa FORM
-=======
+# Aspicilia verruculosa Kremp. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia verruculosa f. verruculosa
+Aspicilia verruculosa Kremp.
 
 ### Remarks
 null

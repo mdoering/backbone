@@ -1,5 +1,4 @@
-Hemimycena alba (Bres.) SPECIES
-=======
+# Hemimycena alba (Bres.) SPECIES
 
 #### Status
 ACCEPTED

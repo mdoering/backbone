@@ -1,5 +1,4 @@
-Lecanora mikuraensis Miyawaki SPECIES
-=======
+# Lecanora mikuraensis Miyawaki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cerasina Cooke SPECIES
-=======
+# Phoma cerasina Cooke SPECIES
 
 #### Status
 ACCEPTED

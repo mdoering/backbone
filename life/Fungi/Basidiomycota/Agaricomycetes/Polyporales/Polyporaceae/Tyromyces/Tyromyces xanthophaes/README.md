@@ -1,5 +1,4 @@
-Tyromyces xanthophaes Corner SPECIES
-=======
+# Tyromyces xanthophaes Corner SPECIES
 
 #### Status
 ACCEPTED

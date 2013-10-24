@@ -1,5 +1,4 @@
-Polyscytalum caribense W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Polyscytalum caribense W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peltigera venosa var. venosa VARIETY
-=======
+# Peltigera venosa (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. Adumb. Plant. Lich. 1(1): 31 + pl. 6, fig. 2 (1790)
 
 #### Original name
-Peltigera venosa var. venosa
+Lichen venosus Gilib.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fuscopannaria subgemmascens Upreti & Divakar SPECIES
-=======
+# Fuscopannaria subgemmascens Upreti & Divakar SPECIES
 
 #### Status
 ACCEPTED

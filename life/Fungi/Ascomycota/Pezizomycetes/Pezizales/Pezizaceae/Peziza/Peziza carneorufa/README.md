@@ -1,5 +1,4 @@
-Peziza carneorufa Mart. SPECIES
-=======
+# Peziza carneorufa Mart. SPECIES
 
 #### Status
 ACCEPTED

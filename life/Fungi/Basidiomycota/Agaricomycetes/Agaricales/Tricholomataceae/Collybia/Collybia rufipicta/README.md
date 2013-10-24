@@ -1,5 +1,4 @@
-Collybia rufipicta Berk. & Broome SPECIES
-=======
+# Collybia rufipicta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

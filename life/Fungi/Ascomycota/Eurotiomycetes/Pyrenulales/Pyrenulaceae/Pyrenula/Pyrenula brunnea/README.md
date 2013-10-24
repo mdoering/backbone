@@ -1,5 +1,4 @@
-Pyrenula brunnea Fée SPECIES
-=======
+# Pyrenula brunnea Fée SPECIES
 
 #### Status
 ACCEPTED

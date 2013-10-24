@@ -1,5 +1,4 @@
-Hydnum cohaerens Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Hydnum cohaerens Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

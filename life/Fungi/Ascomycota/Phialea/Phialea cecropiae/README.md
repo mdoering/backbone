@@ -1,5 +1,4 @@
-Phialea cecropiae (Henn.) Seaver SPECIES
-=======
+# Phialea cecropiae (Henn.) Seaver SPECIES
 
 #### Status
 ACCEPTED

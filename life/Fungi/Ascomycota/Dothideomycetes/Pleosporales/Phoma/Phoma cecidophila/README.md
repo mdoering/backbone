@@ -1,5 +1,4 @@
-Phoma cecidophila Trotter SPECIES
-=======
+# Phoma cecidophila Trotter SPECIES
 
 #### Status
 ACCEPTED

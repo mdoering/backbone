@@ -1,5 +1,4 @@
-Dactylospora davidii Hafellner & H. Mayrhofer SPECIES
-=======
+# Dactylospora davidii Hafellner & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

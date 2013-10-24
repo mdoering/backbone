@@ -1,5 +1,4 @@
-Trametes malaysiana Corner SPECIES
-=======
+# Trametes malaysiana Corner SPECIES
 
 #### Status
 ACCEPTED

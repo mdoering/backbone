@@ -1,5 +1,4 @@
-Hypochnus subdendriticus Rick SPECIES
-=======
+# Hypochnus subdendriticus Rick SPECIES
 
 #### Status
 ACCEPTED

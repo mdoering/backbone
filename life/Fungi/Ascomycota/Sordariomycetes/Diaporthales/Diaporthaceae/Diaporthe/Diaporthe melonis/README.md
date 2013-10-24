@@ -1,17 +1,16 @@
-Phomopsis cucurbitae McKeen, 1957 SPECIES
-=======
+# Diaporthe melonis Beraha & M.J. O'Brien, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 35: 46 (1957)
+Phytopath. Z. 94(3): 205 (1979)
 
 #### Original name
-Phomopsis cucurbitae McKeen, 1957
+Diaporthe melonis Beraha & M.J. O'Brien, 1979
 
 ### Remarks
 null

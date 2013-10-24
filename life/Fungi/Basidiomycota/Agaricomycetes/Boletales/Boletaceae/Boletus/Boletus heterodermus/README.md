@@ -1,5 +1,4 @@
-Boletus heterodermus Singer SPECIES
-=======
+# Boletus heterodermus Singer SPECIES
 
 #### Status
 ACCEPTED

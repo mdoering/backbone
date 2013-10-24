@@ -1,5 +1,4 @@
-Parmelia undulata (Fée) Mont. SPECIES
-=======
+# Parmelia undulata (Fée) Mont. SPECIES
 
 #### Status
 ACCEPTED

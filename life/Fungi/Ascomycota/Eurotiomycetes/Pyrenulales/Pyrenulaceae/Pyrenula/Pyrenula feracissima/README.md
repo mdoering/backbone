@@ -1,5 +1,4 @@
-Pyrenula feracissima Vain. SPECIES
-=======
+# Pyrenula feracissima Vain. SPECIES
 
 #### Status
 ACCEPTED

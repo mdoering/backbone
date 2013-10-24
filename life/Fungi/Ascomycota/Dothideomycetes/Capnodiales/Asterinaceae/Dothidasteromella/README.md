@@ -1,17 +1,16 @@
-Dothidasteris Clem. & Shear GENUS
-=======
+# Dothidasteromella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 97, 298 (1931)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 421 (1910)
 
 #### Original name
-Dothidasteris Clem. & Shear
+Dothidasteromella Höhn.
 
 ### Remarks
 null

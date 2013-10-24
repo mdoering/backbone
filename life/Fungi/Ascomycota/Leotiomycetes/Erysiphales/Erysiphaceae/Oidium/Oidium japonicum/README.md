@@ -1,5 +1,4 @@
-Oidium japonicum Syd. SPECIES
-=======
+# Oidium japonicum Syd. SPECIES
 
 #### Status
 ACCEPTED

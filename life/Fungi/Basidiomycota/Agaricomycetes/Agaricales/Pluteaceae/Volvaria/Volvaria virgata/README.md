@@ -1,5 +1,4 @@
-Volvaria virgata (Pers.) Quél. SPECIES
-=======
+# Volvaria virgata (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

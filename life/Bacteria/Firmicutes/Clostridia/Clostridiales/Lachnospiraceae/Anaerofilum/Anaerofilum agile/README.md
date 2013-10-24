@@ -1,5 +1,4 @@
-Anaerofilum agile Zellner et al., 1996 SPECIES
-=======
+# Anaerofilum agile Zellner et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

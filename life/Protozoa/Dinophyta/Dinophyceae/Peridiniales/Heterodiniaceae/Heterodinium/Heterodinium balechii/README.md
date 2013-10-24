@@ -1,5 +1,4 @@
-Heterodinium balechii Rampi, 1951 SPECIES
-=======
+# Heterodinium balechii Rampi, 1951 SPECIES
 
 #### Status
 ACCEPTED

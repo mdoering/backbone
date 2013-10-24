@@ -1,5 +1,4 @@
-Eoconusphaera zlambachensis SPECIES
-=======
+# Eoconusphaera zlambachensis SPECIES
 
 #### Status
 DOUBTFUL

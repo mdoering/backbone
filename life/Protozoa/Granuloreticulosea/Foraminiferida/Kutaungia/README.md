@@ -1,5 +1,4 @@
-Kutaungia Sahni & Sastri, 1954 GENUS
-=======
+# Kutaungia Sahni & Sastri, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placynthium psotinum (Fr.) Harm. SPECIES
-=======
+# Placynthium psotinum (Fr.) Harm. SPECIES
 
 #### Status
 ACCEPTED

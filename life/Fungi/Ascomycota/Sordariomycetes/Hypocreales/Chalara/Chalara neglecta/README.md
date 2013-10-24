@@ -1,5 +1,4 @@
-Chalara neglecta Hol.-Jech. SPECIES
-=======
+# Chalara neglecta Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

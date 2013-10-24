@@ -1,8 +1,7 @@
-Didymosphaeria hippophaëos Rehm SPECIES
-=======
+# Didymosphaeria hippophaës Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria hippophaëos Rehm
+Didymosphaeria hippophaës Rehm
 
 ### Remarks
 null

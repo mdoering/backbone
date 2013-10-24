@@ -1,5 +1,4 @@
-Bacillus firmus Bredemann and Werner, 1933 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus firmus Bredemann and Werner, 1933 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

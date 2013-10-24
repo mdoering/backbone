@@ -1,14 +1,13 @@
-Lepiota morgani (Peck) Sacc. SPECIES
-=======
+# Lepiota morganii (Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 31 (1887)
 
 #### Original name
 Agaricus morganii Peck

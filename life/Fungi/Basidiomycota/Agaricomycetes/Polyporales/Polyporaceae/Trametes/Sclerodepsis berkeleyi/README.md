@@ -1,5 +1,4 @@
-Sclerodepsis berkeleyi Cooke SPECIES
-=======
+# Sclerodepsis berkeleyi Cooke SPECIES
 
 #### Status
 ACCEPTED

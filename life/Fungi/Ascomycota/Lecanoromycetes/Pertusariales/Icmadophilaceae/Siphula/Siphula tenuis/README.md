@@ -1,5 +1,4 @@
-Siphula tenuis R. Sant. SPECIES
-=======
+# Siphula tenuis R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus marcidus Bogart SPECIES
-=======
+# Coprinus marcidus Bogart SPECIES
 
 #### Status
 ACCEPTED

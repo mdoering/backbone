@@ -1,5 +1,4 @@
-Lichen albidus Lam. SPECIES
-=======
+# Lichen albidus Lam. SPECIES
 
 #### Status
 ACCEPTED

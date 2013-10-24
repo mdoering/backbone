@@ -1,14 +1,13 @@
-Cercospora stahlii (F. Stevens) Subram., 1956 SPECIES
-=======
+# Pseudocercospora stahlii (F. Stevens) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 35: 460 (1956)
+Mycol. Pap. 140: 82 (1976)
 
 #### Original name
 Helminthosporium stahlii F. Stevens, 1917

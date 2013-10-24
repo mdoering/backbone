@@ -1,5 +1,4 @@
-Coprococcus Holdeman & Moore, 1974 GENUS
-=======
+# Coprococcus Holdeman & Moore, 1974 GENUS
 
 #### Status
 ACCEPTED

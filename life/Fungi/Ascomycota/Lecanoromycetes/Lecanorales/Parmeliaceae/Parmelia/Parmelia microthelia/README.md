@@ -1,5 +1,4 @@
-Parmelia microthelia Ach. SPECIES
-=======
+# Parmelia microthelia Ach. SPECIES
 
 #### Status
 ACCEPTED

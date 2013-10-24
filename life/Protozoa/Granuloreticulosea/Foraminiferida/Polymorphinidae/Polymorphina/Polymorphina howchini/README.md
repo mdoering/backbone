@@ -1,5 +1,4 @@
-Polymorphina howchini Cushman & Ozawa SPECIES
-=======
+# Polymorphina howchini Cushman & Ozawa SPECIES
 
 #### Status
 ACCEPTED

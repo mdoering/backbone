@@ -1,5 +1,4 @@
-Schizothrix coriacea (Kützing) Gomont SPECIES
-=======
+# Schizothrix coriacea (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

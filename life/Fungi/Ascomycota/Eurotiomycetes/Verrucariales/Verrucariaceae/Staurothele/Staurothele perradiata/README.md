@@ -1,5 +1,4 @@
-Staurothele perradiata var. perradiata VARIETY
-=======
+# Staurothele perradiata Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele perradiata var. perradiata
+Staurothele perradiata Lynge
 
 ### Remarks
 null

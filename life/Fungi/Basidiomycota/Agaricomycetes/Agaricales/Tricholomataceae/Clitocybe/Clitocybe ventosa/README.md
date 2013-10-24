@@ -1,5 +1,4 @@
-Clitocybe ventosa (Fr.) Singer SPECIES
-=======
+# Clitocybe ventosa (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naviculopsis contraria D. Bukry SPECIES
-=======
+# Naviculopsis contraria D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protostegiomyces Bat. & A.F. Vital GENUS
-=======
+# Protostegiomyces Bat. & A.F. Vital GENUS
 
 #### Status
 ACCEPTED

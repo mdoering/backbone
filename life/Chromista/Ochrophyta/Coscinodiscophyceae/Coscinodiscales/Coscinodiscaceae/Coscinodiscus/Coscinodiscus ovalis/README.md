@@ -1,5 +1,4 @@
-Coscinodiscus ovalis Roper SPECIES
-=======
+# Coscinodiscus ovalis Roper SPECIES
 
 #### Status
 ACCEPTED

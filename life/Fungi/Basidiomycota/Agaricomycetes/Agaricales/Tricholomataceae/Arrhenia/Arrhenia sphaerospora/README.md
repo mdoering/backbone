@@ -1,5 +1,4 @@
-Arrhenia sphaerospora (Lamoure) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia sphaerospora (Lamoure) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

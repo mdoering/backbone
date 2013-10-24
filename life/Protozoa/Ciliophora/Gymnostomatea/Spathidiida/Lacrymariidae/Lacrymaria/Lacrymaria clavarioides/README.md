@@ -1,5 +1,4 @@
-Lacrymaria clavarioides SPECIES
-=======
+# Lacrymaria clavarioides SPECIES
 
 #### Status
 ACCEPTED

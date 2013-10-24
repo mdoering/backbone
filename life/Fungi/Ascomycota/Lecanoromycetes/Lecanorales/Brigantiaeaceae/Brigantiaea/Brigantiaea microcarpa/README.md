@@ -1,17 +1,16 @@
-Sporopodium leucoxanthum var. microcarpum Räsänen VARIETY
-=======
+# Brigantiaea microcarpa (Räsänen) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Suom. Elain-ja Kasvit. Seuran Van. Tiedon. Pöytäkirjat 3: 184 (1949)
+Symb. bot. upsal. 32(no. 1): 56 (1997)
 
 #### Original name
-null
+Sporopodium leucoxanthum var. microcarpa Räsänen
 
 ### Remarks
 null

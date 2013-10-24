@@ -1,5 +1,4 @@
-Belonia pellucida Coppins & Malcolm SPECIES
-=======
+# Belonia pellucida Coppins & Malcolm SPECIES
 
 #### Status
 ACCEPTED

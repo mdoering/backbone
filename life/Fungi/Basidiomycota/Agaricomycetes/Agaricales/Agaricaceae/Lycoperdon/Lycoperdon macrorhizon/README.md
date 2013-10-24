@@ -1,5 +1,4 @@
-Lycoperdon macrorhizon Pers. SPECIES
-=======
+# Lycoperdon macrorhizon Pers. SPECIES
 
 #### Status
 ACCEPTED

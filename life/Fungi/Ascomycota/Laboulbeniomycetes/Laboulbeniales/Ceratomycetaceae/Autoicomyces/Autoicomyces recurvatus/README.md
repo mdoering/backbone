@@ -1,5 +1,4 @@
-Autoicomyces recurvatus Thaxt. SPECIES
-=======
+# Autoicomyces recurvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

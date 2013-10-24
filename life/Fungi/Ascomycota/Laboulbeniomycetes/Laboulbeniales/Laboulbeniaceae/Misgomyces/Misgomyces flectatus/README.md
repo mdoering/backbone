@@ -1,5 +1,4 @@
-Misgomyces flectatus Thaxt. SPECIES
-=======
+# Misgomyces flectatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectidium dispersum Müll. Arg. SPECIES
-=======
+# Gyalectidium dispersum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

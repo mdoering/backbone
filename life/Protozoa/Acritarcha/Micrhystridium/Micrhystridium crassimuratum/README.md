@@ -1,5 +1,4 @@
-Micrhystridium crassimuratum Sarjeant, 1968 SPECIES
-=======
+# Micrhystridium crassimuratum Sarjeant, 1968 SPECIES
 
 #### Status
 ACCEPTED

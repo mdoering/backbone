@@ -1,5 +1,4 @@
-Pythium muscae P.A. Dang. SPECIES
-=======
+# Pythium muscae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

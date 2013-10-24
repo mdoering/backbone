@@ -1,5 +1,4 @@
-Pseudotrochammina echolsi Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Pseudotrochammina echolsi Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

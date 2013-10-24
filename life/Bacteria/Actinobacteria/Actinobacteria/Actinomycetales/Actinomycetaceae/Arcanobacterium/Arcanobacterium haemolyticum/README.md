@@ -1,11 +1,10 @@
-Corynebacterium haemolyticum Mac Lean et al., 1946 SPECIES
-=======
+# Arcanobacterium haemolyticum (ex Mac Lean et al., 1946) Collins et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

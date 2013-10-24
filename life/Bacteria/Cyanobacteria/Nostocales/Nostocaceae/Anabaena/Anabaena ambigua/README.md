@@ -1,5 +1,4 @@
-Anabaena ambigua var. unispora VARIETY
-=======
+# Anabaena ambigua C.B.Rao SPECIES
 
 #### Status
 ACCEPTED

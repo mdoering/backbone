@@ -1,5 +1,4 @@
-Pseudocercospora montantiana M.D. Mehrotra SPECIES
-=======
+# Pseudocercospora montantiana M.D. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

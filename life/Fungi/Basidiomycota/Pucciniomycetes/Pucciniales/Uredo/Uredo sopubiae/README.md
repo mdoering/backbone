@@ -1,5 +1,4 @@
-Uredo sopubiae Petch SPECIES
-=======
+# Uredo sopubiae Petch SPECIES
 
 #### Status
 ACCEPTED

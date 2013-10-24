@@ -1,5 +1,4 @@
-Phyllosticta euonymicola Sawada SPECIES
-=======
+# Phyllosticta euonymicola Sawada SPECIES
 
 #### Status
 ACCEPTED

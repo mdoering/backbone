@@ -1,17 +1,16 @@
-Lecanora obscurata var. obscurata VARIETY
-=======
+# Aspicilia obscurata (Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecanora obscurata var. obscurata
+Lecanora cinerea var. obscurata Fr.
 
 ### Remarks
 null

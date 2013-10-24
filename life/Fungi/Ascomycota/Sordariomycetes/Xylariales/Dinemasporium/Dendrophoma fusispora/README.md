@@ -1,5 +1,4 @@
-Dendrophoma fusispora Höhn. SPECIES
-=======
+# Dendrophoma fusispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

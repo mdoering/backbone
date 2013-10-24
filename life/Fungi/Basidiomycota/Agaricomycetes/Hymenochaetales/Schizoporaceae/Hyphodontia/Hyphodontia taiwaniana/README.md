@@ -1,5 +1,4 @@
-Hyphodontia taiwaniana Sheng H. Wu, 2001 SPECIES
-=======
+# Hyphodontia taiwaniana Sheng H. Wu, 2001 SPECIES
 
 #### Status
 ACCEPTED

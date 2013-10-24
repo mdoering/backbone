@@ -1,5 +1,4 @@
-Marasmius pandanicola Henn. SPECIES
-=======
+# Marasmius pandanicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces mentschulensis (Pilát) Bondartsev SPECIES
-=======
+# Tyromyces mentschulensis (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum obtusipes (Sacc.) P. Joly SPECIES
-=======
+# Colletotrichum obtusipes (Sacc.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

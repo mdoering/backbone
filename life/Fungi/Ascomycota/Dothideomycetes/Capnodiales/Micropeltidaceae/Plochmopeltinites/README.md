@@ -1,5 +1,4 @@
-Plochmopeltinites Cookson GENUS
-=======
+# Plochmopeltinites Cookson GENUS
 
 #### Status
 ACCEPTED

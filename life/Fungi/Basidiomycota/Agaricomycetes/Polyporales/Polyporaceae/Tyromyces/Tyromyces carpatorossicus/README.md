@@ -1,5 +1,4 @@
-Tyromyces carpatorossicus (Pilát) Bondartsev SPECIES
-=======
+# Tyromyces carpatorossicus (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

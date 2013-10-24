@@ -1,5 +1,4 @@
-Puccinia difonzoi J.C. Lindq. SPECIES
-=======
+# Puccinia difonzoi J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

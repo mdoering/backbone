@@ -1,5 +1,4 @@
-Pseudohelotium glaucum Speg. SPECIES
-=======
+# Pseudohelotium glaucum Speg. SPECIES
 
 #### Status
 ACCEPTED

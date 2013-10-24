@@ -1,5 +1,4 @@
-Lasiosphaeria sepulta (Berk. & M.A. Curtis) Speg. SPECIES
-=======
+# Lasiosphaeria sepulta (Berk. & M.A. Curtis) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza comata Schwein. SPECIES
-=======
+# Peziza comata Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophrydium aedae SPECIES
-=======
+# Ophrydium aedae SPECIES
 
 #### Status
 ACCEPTED

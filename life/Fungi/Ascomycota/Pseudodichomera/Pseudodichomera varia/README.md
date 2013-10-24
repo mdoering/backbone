@@ -1,17 +1,16 @@
-Camarosporium varium f. mahalebi Sandu FORM
-=======
+# Pseudodichomera varia (Pers.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia (1918)
 
 #### Original name
-Camarosporium varium f. mahalebi Sandu
+Sphaeria varia Pers., 1801
 
 ### Remarks
 null

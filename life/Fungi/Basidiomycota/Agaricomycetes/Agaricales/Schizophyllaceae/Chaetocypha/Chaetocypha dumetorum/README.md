@@ -1,5 +1,4 @@
-Chaetocypha dumetorum (E. Bommer & M. Rousseau) Kuntze SPECIES
-=======
+# Chaetocypha dumetorum (E. Bommer & M. Rousseau) Kuntze SPECIES
 
 #### Status
 ACCEPTED

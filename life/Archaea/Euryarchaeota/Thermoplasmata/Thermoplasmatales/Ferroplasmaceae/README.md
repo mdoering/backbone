@@ -1,5 +1,4 @@
-Ferroplasmaceae FAMILY
-=======
+# Ferroplasmaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Otthia rosae f. rosae FORM
-=======
+# Otthia spiraeae (Fuckel) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 169 (1870)
+Jb. nassau. Ver. Naturk. 23-24: 170 (1870)
 
 #### Original name
-Otthia rosae f. rosae
+Cucurbitaria spiraearum Petr., 1928
 
 ### Remarks
 null

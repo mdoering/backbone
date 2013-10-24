@@ -1,5 +1,4 @@
-Lobaria cuprea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria cuprea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

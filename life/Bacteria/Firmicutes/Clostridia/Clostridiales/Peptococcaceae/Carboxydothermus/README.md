@@ -1,5 +1,4 @@
-Carboxydothermus Svetlichny et al., 1991 GENUS
-=======
+# Carboxydothermus Svetlichny et al., 1991 GENUS
 
 #### Status
 ACCEPTED

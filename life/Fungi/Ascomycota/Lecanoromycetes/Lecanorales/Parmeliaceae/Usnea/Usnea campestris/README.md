@@ -1,5 +1,4 @@
-Usnea campestris R. Sant. SPECIES
-=======
+# Usnea campestris R. Sant. SPECIES
 
 #### Status
 ACCEPTED

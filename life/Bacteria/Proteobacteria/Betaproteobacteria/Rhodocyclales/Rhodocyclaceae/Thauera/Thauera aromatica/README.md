@@ -1,5 +1,4 @@
-Thauera aromatica Anders et al., 1995 SPECIES
-=======
+# Thauera aromatica Anders et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

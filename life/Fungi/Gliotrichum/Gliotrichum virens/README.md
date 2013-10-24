@@ -1,5 +1,4 @@
-Gliotrichum virens Eschw. SPECIES
-=======
+# Gliotrichum virens Eschw. SPECIES
 
 #### Status
 ACCEPTED

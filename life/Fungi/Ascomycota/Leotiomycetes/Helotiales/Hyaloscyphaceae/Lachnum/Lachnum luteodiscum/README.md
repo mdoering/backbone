@@ -1,5 +1,4 @@
-Lachnum luteodiscum (Peck) J.H. Haines SPECIES
-=======
+# Lachnum luteodiscum (Peck) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

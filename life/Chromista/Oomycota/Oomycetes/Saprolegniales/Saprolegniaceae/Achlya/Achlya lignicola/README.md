@@ -1,5 +1,4 @@
-Achlya lignicola Hildebr. SPECIES
-=======
+# Achlya lignicola Hildebr. SPECIES
 
 #### Status
 ACCEPTED

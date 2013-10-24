@@ -1,5 +1,4 @@
-Helotium nitens E.K. Cash SPECIES
-=======
+# Helotium nitens E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

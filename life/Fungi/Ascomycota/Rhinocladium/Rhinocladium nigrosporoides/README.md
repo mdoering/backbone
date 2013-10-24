@@ -1,5 +1,4 @@
-Rhinocladium nigrosporoides Kamyschko SPECIES
-=======
+# Rhinocladium nigrosporoides Kamyschko SPECIES
 
 #### Status
 ACCEPTED

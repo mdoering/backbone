@@ -1,5 +1,4 @@
-Ustilago zambettakesii Durrieu SPECIES
-=======
+# Ustilago zambettakesii Durrieu SPECIES
 
 #### Status
 ACCEPTED

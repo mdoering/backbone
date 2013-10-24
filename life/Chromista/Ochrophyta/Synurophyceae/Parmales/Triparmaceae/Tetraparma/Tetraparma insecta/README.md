@@ -1,5 +1,4 @@
-Tetraparma insecta Bravo-Sierra & Hernández-Becerril SPECIES
-=======
+# Tetraparma insecta Bravo-Sierra & Hernández-Becerril SPECIES
 
 #### Status
 ACCEPTED

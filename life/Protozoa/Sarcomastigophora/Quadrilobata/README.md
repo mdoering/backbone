@@ -1,5 +1,4 @@
-Quadrilobata Wang in Wang Rujian, 1995 GENUS
-=======
+# Quadrilobata Wang in Wang Rujian, 1995 GENUS
 
 #### Status
 ACCEPTED

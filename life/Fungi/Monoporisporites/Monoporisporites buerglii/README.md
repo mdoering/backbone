@@ -1,8 +1,7 @@
-Monoporisporites bürgli Hammen SPECIES
-=======
+# Monoporisporites buerglii Hammen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monoporisporites bürgli Hammen
+Monoporisporites buerglii Hammen
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta agrimoniae (Lasch) Allesch. ex Died. SPECIES
-=======
+# Phyllosticta agrimoniae (Lasch) Allesch. ex Died. SPECIES
 
 #### Status
 ACCEPTED

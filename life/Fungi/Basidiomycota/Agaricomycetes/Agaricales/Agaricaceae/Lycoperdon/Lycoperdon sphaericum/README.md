@@ -1,5 +1,4 @@
-Lycoperdon sphaericum P. Micheli SPECIES
-=======
+# Lycoperdon sphaericum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

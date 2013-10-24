@@ -1,5 +1,4 @@
-Nowakowskia Borzí GENUS
-=======
+# Nowakowskia Borzí GENUS
 
 #### Status
 ACCEPTED

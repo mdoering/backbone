@@ -1,5 +1,4 @@
-Arthonia rhododendri Arnold & Rehm SPECIES
-=======
+# Arthonia rhododendri Arnold & Rehm SPECIES
 
 #### Status
 ACCEPTED

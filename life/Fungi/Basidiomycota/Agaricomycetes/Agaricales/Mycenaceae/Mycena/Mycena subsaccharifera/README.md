@@ -1,5 +1,4 @@
-Mycena subsaccharifera Speg. SPECIES
-=======
+# Mycena subsaccharifera Speg. SPECIES
 
 #### Status
 ACCEPTED

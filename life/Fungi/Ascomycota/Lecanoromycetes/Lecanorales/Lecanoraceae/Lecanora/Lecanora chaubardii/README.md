@@ -1,5 +1,4 @@
-Lecanora chaubardii (Fr.) Schaer. SPECIES
-=======
+# Lecanora chaubardii (Fr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

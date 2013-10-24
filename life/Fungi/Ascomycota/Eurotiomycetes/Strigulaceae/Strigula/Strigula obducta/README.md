@@ -1,14 +1,13 @@
-Porina obducta (Müll. Arg.) F. Schill. SPECIES
-=======
+# Strigula obducta (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 67(6): 275 (1927)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 158 (1995)
 
 #### Original name
 Phylloporina obducta Müll. Arg.

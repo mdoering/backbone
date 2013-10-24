@@ -1,5 +1,4 @@
-Cercophora areolata N. Lundq. SPECIES
-=======
+# Cercophora areolata N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus subinteger Schulzer SPECIES
-=======
+# Crepidotus subinteger Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria phyllachoricola Petr. SPECIES
-=======
+# Leptosphaeria phyllachoricola Petr. SPECIES
 
 #### Status
 ACCEPTED

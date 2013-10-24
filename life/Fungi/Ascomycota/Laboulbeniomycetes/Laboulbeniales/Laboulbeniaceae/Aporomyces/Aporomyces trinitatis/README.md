@@ -1,5 +1,4 @@
-Aporomyces trinitatis Thaxt., 1931 SPECIES
-=======
+# Aporomyces trinitatis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

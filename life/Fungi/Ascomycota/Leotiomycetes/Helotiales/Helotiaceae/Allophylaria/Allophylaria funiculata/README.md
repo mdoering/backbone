@@ -1,5 +1,4 @@
-Allophylaria funiculata (Kirschst.) Dennis SPECIES
-=======
+# Allophylaria funiculata (Kirschst.) Dennis SPECIES
 
 #### Status
 ACCEPTED

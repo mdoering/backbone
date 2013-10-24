@@ -1,5 +1,4 @@
-Bacidia lecidealis (Müll. Arg.) Darb. SPECIES
-=======
+# Bacidia lecidealis (Müll. Arg.) Darb. SPECIES
 
 #### Status
 ACCEPTED

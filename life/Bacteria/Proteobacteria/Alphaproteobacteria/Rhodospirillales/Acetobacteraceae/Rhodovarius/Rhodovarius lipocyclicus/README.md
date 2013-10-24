@@ -1,5 +1,4 @@
-Rhodovarius lipocyclicus Kämpfer et al., 2004 SPECIES
-=======
+# Rhodovarius lipocyclicus Kämpfer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

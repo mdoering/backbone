@@ -1,5 +1,4 @@
-Flammula xanthophylla (Cooke & Massee) McAlpine SPECIES
-=======
+# Flammula xanthophylla (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

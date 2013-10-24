@@ -1,5 +1,4 @@
-Scleroderma endoxanthum Petch SPECIES
-=======
+# Scleroderma endoxanthum Petch SPECIES
 
 #### Status
 ACCEPTED

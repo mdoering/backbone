@@ -1,5 +1,4 @@
-Cortinarius phyllophilus Peck SPECIES
-=======
+# Cortinarius phyllophilus Peck SPECIES
 
 #### Status
 ACCEPTED

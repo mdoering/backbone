@@ -1,5 +1,4 @@
-Pleurotus pinsitiformis Pilát SPECIES
-=======
+# Pleurotus pinsitiformis Pilát SPECIES
 
 #### Status
 ACCEPTED

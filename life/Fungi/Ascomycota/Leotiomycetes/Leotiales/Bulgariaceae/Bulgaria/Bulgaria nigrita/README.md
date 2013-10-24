@@ -1,5 +1,4 @@
-Bulgaria nigrita Fr. SPECIES
-=======
+# Bulgaria nigrita Fr. SPECIES
 
 #### Status
 ACCEPTED

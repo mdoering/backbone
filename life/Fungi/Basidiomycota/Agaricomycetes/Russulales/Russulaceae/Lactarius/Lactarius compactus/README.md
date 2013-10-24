@@ -1,5 +1,4 @@
-Lactarius compactus A. Blytt SPECIES
-=======
+# Lactarius compactus A. Blytt SPECIES
 
 #### Status
 ACCEPTED

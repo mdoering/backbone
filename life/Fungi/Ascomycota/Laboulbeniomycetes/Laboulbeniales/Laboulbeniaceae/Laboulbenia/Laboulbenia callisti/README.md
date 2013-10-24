@@ -1,5 +1,4 @@
-Laboulbenia callisti Speg. SPECIES
-=======
+# Laboulbenia callisti Speg. SPECIES
 
 #### Status
 ACCEPTED

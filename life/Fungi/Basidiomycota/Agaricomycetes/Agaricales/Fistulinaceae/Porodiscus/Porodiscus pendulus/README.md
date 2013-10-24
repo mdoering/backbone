@@ -1,5 +1,4 @@
-Porodiscus pendulus Murrill SPECIES
-=======
+# Porodiscus pendulus Murrill SPECIES
 
 #### Status
 ACCEPTED

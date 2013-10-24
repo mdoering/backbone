@@ -1,5 +1,4 @@
-Phoma caricae Punith. SPECIES
-=======
+# Phoma caricae Punith. SPECIES
 
 #### Status
 ACCEPTED

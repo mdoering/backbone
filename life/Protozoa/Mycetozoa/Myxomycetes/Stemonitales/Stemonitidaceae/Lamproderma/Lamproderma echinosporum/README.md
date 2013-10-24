@@ -1,5 +1,4 @@
-Lamproderma echinosporum Meyl., 1924 SPECIES
-=======
+# Lamproderma echinosporum Meyl., 1924 SPECIES
 
 #### Status
 ACCEPTED

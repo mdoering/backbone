@@ -1,5 +1,4 @@
-Rhizoctonia fraxini E. Castell., 1935 SPECIES
-=======
+# Rhizoctonia fraxini E. Castell., 1935 SPECIES
 
 #### Status
 ACCEPTED

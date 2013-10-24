@@ -1,5 +1,4 @@
-Helotium tigillare P. Karst. SPECIES
-=======
+# Helotium tigillare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

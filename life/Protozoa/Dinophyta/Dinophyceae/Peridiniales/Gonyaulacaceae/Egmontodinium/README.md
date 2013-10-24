@@ -1,5 +1,4 @@
-Egmontodinium G.U.Gitmez & W.A.S.Sarjeant, 1972 GENUS
-=======
+# Egmontodinium G.U.Gitmez & W.A.S.Sarjeant, 1972 GENUS
 
 #### Status
 ACCEPTED

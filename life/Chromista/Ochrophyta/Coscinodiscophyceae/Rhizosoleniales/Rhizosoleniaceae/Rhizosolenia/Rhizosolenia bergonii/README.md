@@ -1,11 +1,10 @@
-Rhizosolenia amputata Ostenfeld SPECIES
-=======
+# Rhizosolenia bergonii H.Peragallo, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

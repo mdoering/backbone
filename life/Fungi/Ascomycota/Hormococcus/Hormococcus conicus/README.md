@@ -1,5 +1,4 @@
-Hormococcus conicus Preuss SPECIES
-=======
+# Hormococcus conicus Preuss SPECIES
 
 #### Status
 ACCEPTED

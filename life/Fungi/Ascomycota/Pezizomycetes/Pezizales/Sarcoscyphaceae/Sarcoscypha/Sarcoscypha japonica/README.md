@@ -1,5 +1,4 @@
-Sarcoscypha japonica Yasuda SPECIES
-=======
+# Sarcoscypha japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

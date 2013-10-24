@@ -1,5 +1,4 @@
-Uredo anthurii Har. SPECIES
-=======
+# Uredo anthurii Har. SPECIES
 
 #### Status
 ACCEPTED

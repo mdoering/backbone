@@ -1,5 +1,4 @@
-Pluteus aromaticus Henn. & E. Nyman SPECIES
-=======
+# Pluteus aromaticus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

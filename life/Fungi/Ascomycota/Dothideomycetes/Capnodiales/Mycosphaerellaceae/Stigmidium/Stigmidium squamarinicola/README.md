@@ -1,5 +1,4 @@
-Stigmidium squamarinicola Calat. & Triebel, 2003 SPECIES
-=======
+# Stigmidium squamarinicola Calat. & Triebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

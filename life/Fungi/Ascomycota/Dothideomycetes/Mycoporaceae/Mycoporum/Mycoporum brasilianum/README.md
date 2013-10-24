@@ -1,17 +1,16 @@
-Mycoporum brazilianum Stirt. SPECIES
-=======
+# Mycoporum brasilianum Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Phil. Soc. Glasgow 10: 163 (1876)
 
 #### Original name
-Mycoporum brazilianum Stirt.
+Mycoporum brasilianum Stirt.
 
 ### Remarks
 null

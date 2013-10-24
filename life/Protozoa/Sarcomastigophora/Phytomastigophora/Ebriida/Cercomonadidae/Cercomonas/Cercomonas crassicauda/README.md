@@ -1,5 +1,4 @@
-Cercomonas crassicauda SPECIES
-=======
+# Cercomonas crassicauda SPECIES
 
 #### Status
 ACCEPTED

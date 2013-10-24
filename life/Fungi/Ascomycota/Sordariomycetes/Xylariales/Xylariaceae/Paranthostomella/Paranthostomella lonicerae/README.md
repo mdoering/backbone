@@ -1,5 +1,4 @@
-Paranthostomella lonicerae (Fuckel) Savul. SPECIES
-=======
+# Paranthostomella lonicerae (Fuckel) Savul. SPECIES
 
 #### Status
 ACCEPTED

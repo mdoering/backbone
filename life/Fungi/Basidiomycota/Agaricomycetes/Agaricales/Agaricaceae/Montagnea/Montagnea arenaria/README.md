@@ -1,17 +1,16 @@
-Montagnea arenaria var. arenaria VARIETY
-=======
+# Montagnea arenaria (DC.) Zeller, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 35(4): 418 (1943)
 
 #### Original name
-Montagnea arenaria var. arenaria
+Agaricus arenarius DC., 1815
 
 ### Remarks
 null

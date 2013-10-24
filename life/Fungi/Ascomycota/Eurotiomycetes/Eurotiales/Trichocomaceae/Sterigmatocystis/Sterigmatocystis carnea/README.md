@@ -1,5 +1,4 @@
-Sterigmatocystis carnea Tiegh. SPECIES
-=======
+# Sterigmatocystis carnea Tiegh. SPECIES
 
 #### Status
 ACCEPTED

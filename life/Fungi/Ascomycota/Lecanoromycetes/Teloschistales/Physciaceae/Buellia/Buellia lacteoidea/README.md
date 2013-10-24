@@ -1,5 +1,4 @@
-Buellia lacteoidea B. de Lesd. SPECIES
-=======
+# Buellia lacteoidea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

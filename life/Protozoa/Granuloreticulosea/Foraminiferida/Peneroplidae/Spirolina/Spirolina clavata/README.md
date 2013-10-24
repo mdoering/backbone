@@ -1,5 +1,4 @@
-Spirolina clavata Crouch, 1827 SPECIES
-=======
+# Spirolina clavata Crouch, 1827 SPECIES
 
 #### Status
 ACCEPTED

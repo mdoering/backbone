@@ -1,17 +1,16 @@
-Dermatocarpon hepaticum f. hepaticum FORM
-=======
+# Catapyrenium cinereum (Pers.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 325 (1855)
 
 #### Original name
-Dermatocarpon hepaticum f. hepaticum
+Endocarpon cinereum Pers.
 
 ### Remarks
 null

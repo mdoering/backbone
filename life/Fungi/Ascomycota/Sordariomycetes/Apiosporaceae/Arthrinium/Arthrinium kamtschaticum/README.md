@@ -1,5 +1,4 @@
-Arthrinium kamtschaticum Tranzschel & Woron. SPECIES
-=======
+# Arthrinium kamtschaticum Tranzschel & Woron. SPECIES
 
 #### Status
 ACCEPTED

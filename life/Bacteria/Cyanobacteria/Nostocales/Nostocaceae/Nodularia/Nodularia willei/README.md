@@ -1,5 +1,4 @@
-Nodularia willei Gardner SPECIES
-=======
+# Nodularia willei Gardner SPECIES
 
 #### Status
 ACCEPTED

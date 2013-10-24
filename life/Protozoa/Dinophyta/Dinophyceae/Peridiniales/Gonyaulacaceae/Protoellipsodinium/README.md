@@ -1,5 +1,4 @@
-Protoellipsodinium R.J. Davey & J.P. Verdier, 1971 GENUS
-=======
+# Protoellipsodinium R.J. Davey & J.P. Verdier, 1971 GENUS
 
 #### Status
 ACCEPTED

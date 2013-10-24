@@ -1,5 +1,4 @@
-Chitonomyces australasiae Thaxt. SPECIES
-=======
+# Chitonomyces australasiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

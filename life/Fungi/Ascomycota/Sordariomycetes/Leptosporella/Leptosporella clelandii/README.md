@@ -1,5 +1,4 @@
-Leptosporella clelandii Hansf. SPECIES
-=======
+# Leptosporella clelandii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia serotina SPECIES
-=======
+# Buellia serotina SPECIES
 
 #### Status
 ACCEPTED

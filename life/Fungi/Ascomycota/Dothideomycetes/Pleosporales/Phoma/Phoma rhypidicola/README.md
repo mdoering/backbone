@@ -1,5 +1,4 @@
-Phoma rhypidicola Speg. SPECIES
-=======
+# Phoma rhypidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

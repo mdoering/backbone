@@ -1,5 +1,4 @@
-Lecanora waldrastensis H. Magn. SPECIES
-=======
+# Lecanora waldrastensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

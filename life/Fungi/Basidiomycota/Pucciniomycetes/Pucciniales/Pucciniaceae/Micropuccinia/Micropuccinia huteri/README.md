@@ -1,5 +1,4 @@
-Micropuccinia huteri (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia huteri (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

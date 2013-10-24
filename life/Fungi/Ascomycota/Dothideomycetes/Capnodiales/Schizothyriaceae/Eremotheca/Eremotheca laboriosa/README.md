@@ -1,5 +1,4 @@
-Eremotheca laboriosa Bat., R. Garnier & O.M. Fonseca SPECIES
-=======
+# Eremotheca laboriosa Bat., R. Garnier & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

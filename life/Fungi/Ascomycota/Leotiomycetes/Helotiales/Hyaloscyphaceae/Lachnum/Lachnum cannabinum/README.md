@@ -1,5 +1,4 @@
-Lachnum cannabinum Rehm SPECIES
-=======
+# Lachnum cannabinum Rehm SPECIES
 
 #### Status
 ACCEPTED

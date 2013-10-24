@@ -1,5 +1,4 @@
-Pertusaria acroscyphoides Sipman SPECIES
-=======
+# Pertusaria acroscyphoides Sipman SPECIES
 
 #### Status
 ACCEPTED

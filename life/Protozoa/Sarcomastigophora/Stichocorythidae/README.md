@@ -1,5 +1,4 @@
-Stichocorythidae FAMILY
-=======
+# Stichocorythidae FAMILY
 
 #### Status
 ACCEPTED

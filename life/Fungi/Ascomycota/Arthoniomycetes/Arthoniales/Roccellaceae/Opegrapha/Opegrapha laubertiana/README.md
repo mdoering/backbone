@@ -1,5 +1,4 @@
-Opegrapha laubertiana (Fée) Bél. SPECIES
-=======
+# Opegrapha laubertiana (Fée) Bél. SPECIES
 
 #### Status
 ACCEPTED

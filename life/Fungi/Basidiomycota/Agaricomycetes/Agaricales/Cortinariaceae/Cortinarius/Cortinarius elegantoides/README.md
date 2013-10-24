@@ -1,17 +1,16 @@
-Cortinarius elegantioides Kauffman SPECIES
-=======
+# Cortinarius elegantoides Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publications Mich. geol. biol. Surv. , Biol. Ser. 5 26: 344 (1918)
 
 #### Original name
-Cortinarius elegantioides Kauffman
+Cortinarius elegantoides Kauffman
 
 ### Remarks
 null

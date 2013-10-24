@@ -1,5 +1,4 @@
-Uredo satyrii Massee SPECIES
-=======
+# Uredo satyrii Massee SPECIES
 
 #### Status
 ACCEPTED

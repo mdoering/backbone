@@ -1,5 +1,4 @@
-Corticium tenuissimum Berk. & Broome SPECIES
-=======
+# Corticium tenuissimum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

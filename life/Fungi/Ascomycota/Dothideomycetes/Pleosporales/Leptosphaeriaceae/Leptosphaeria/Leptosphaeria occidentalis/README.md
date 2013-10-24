@@ -1,5 +1,4 @@
-Leptosphaeria occidentalis Ellis & Everh. SPECIES
-=======
+# Leptosphaeria occidentalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

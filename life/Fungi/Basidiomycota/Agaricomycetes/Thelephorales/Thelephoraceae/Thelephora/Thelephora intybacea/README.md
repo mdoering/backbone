@@ -1,17 +1,16 @@
-Phylacteria intybacea f. intybacea FORM
-=======
+# Thelephora intybacea Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. Eur. (Paris) 154 (1887)
+Syn. meth. fung. (Göttingen) 2: 567 (1801)
 
 #### Original name
-Phylacteria intybacea f. intybacea
+Thelephora intybacea Pers., 1801
 
 ### Remarks
 null

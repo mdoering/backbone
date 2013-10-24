@@ -1,5 +1,4 @@
-Tulostoma exasperatum Mont. SPECIES
-=======
+# Tulostoma exasperatum Mont. SPECIES
 
 #### Status
 ACCEPTED

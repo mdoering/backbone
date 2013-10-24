@@ -1,5 +1,4 @@
-Halomonas maura Bouchotroch et al., 2001 SPECIES
-=======
+# Halomonas maura Bouchotroch et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

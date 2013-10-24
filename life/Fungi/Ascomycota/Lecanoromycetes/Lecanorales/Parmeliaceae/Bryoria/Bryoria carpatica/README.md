@@ -1,5 +1,4 @@
-Bryoria carpatica (Motyka) Bystrek SPECIES
-=======
+# Bryoria carpatica (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

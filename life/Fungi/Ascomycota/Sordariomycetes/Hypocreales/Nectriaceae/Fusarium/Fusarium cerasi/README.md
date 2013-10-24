@@ -1,5 +1,4 @@
-Fusarium cerasi Rolland & Ferry SPECIES
-=======
+# Fusarium cerasi Rolland & Ferry SPECIES
 
 #### Status
 ACCEPTED

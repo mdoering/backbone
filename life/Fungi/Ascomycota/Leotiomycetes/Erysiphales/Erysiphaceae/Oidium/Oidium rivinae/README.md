@@ -1,17 +1,16 @@
-Oidium riviniae Bagyan., Srinivasulu & C. Ramesh SPECIES
-=======
+# Oidium rivinae Bagyan., Srinivasulu & C. Ramesh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bagyanarayana, Srinivasulu, Ramesh & Raju, Journal of Mycology and Plant Pathology 33(1): 119 (2003)
 
 #### Original name
-Oidium riviniae Bagyan., Srinivasulu & C. Ramesh
+Oidium rivinae Bagyan., Srinivasulu & C. Ramesh
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clasterosporium typhicola Fautrey SPECIES
-=======
+# Clasterosporium typhicola Fautrey SPECIES
 
 #### Status
 ACCEPTED

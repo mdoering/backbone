@@ -1,5 +1,4 @@
-Galerina riparia Singer SPECIES
-=======
+# Galerina riparia Singer SPECIES
 
 #### Status
 ACCEPTED

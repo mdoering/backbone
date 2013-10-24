@@ -1,5 +1,4 @@
-Terana albidocarnea (Schwein.) Kuntze SPECIES
-=======
+# Terana albidocarnea (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

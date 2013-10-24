@@ -1,5 +1,4 @@
-Cycloclypeus carpenteri Brady, 1881 SPECIES
-=======
+# Cycloclypeus carpenteri Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

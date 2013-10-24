@@ -1,17 +1,16 @@
-Carbonea superjecta (Nyl.) Hertel SPECIES
-=======
+# Lecidea superjecta Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 79: 444 (1984)
+null
 
 #### Original name
-Lecidea superjecta Zahlbr.
+Lecidea subdecipiens Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia minuscula Arthur SPECIES
-=======
+# Puccinia minuscula Arthur SPECIES
 
 #### Status
 ACCEPTED

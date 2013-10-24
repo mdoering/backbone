@@ -1,5 +1,4 @@
-Fusoma glandarium Corda SPECIES
-=======
+# Fusoma glandarium Corda SPECIES
 
 #### Status
 ACCEPTED

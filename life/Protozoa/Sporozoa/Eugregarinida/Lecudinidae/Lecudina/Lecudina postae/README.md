@@ -1,5 +1,4 @@
-Lecudina postae Théodoridès & Desportes, 1978 SPECIES
-=======
+# Lecudina postae Théodoridès & Desportes, 1978 SPECIES
 
 #### Status
 ACCEPTED

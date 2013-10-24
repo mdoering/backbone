@@ -1,5 +1,4 @@
-Schismatomma ravenelii (Tuck.) Zahlbr. SPECIES
-=======
+# Schismatomma ravenelii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema socotrae Cooke SPECIES
-=======
+# Lophiotrema socotrae Cooke SPECIES
 
 #### Status
 ACCEPTED

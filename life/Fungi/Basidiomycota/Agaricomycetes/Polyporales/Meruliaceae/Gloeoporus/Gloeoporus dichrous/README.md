@@ -1,17 +1,16 @@
-Leptoporus dichrous f. dichrous FORM
-=======
+# Gloeoporus dichrous (Fr.) Bres., 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 177 (1888)
+Hedwigia 53: 74 (1913)
 
 #### Original name
-Leptoporus dichrous f. dichrous
+Polyporus dichrous Fr., 1815
 
 ### Remarks
 null

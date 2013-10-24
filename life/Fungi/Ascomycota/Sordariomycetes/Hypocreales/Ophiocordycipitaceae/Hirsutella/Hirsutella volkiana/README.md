@@ -1,5 +1,4 @@
-Hirsutella volkiana Kobayasi SPECIES
-=======
+# Hirsutella volkiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

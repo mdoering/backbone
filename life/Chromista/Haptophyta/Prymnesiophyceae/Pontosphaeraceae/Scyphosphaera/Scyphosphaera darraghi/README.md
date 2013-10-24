@@ -1,5 +1,4 @@
-Scyphosphaera darraghi Rade, 1975 SPECIES
-=======
+# Scyphosphaera darraghi Rade, 1975 SPECIES
 
 #### Status
 ACCEPTED

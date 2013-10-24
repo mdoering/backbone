@@ -1,5 +1,4 @@
-Lycoperdon vanderystii Bres. SPECIES
-=======
+# Lycoperdon vanderystii Bres. SPECIES
 
 #### Status
 ACCEPTED

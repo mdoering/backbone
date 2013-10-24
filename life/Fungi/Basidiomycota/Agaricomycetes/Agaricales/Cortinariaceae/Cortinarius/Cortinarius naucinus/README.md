@@ -1,5 +1,4 @@
-Cortinarius naucinus M.M. Moser SPECIES
-=======
+# Cortinarius naucinus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

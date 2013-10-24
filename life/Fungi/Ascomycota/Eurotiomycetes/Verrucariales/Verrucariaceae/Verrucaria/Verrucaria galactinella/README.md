@@ -1,5 +1,4 @@
-Verrucaria galactinella Servít SPECIES
-=======
+# Verrucaria galactinella Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrandromyces weirianus W. Rossi & Santam., 2000 SPECIES
-=======
+# Tetrandromyces weirianus W. Rossi & Santam., 2000 SPECIES
 
 #### Status
 ACCEPTED

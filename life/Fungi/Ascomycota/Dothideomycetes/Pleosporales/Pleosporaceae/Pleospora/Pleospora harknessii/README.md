@@ -1,5 +1,4 @@
-Pleospora harknessii Berl. & Voglino SPECIES
-=======
+# Pleospora harknessii Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria asperula Mont. SPECIES
-=======
+# Sphaeria asperula Mont. SPECIES
 
 #### Status
 ACCEPTED

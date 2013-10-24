@@ -1,17 +1,16 @@
-Dothichloe aristidae G.F. Atk., 1894 SPECIES
-=======
+# Balansia aristidae (G.F. Atk.) Diehl, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agriculture Monogr. , US Dept Agric. 4: 43 (1950)
 
 #### Original name
-null
+Dothichloë aristidae G.F. Atk., 1894
 
 ### Remarks
 null

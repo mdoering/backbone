@@ -1,5 +1,4 @@
-Cortinarius olfactorius Bidaud SPECIES
-=======
+# Cortinarius olfactorius Bidaud SPECIES
 
 #### Status
 ACCEPTED

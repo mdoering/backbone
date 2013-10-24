@@ -1,5 +1,4 @@
-Piptocephalis richardii ined. SPECIES
-=======
+# Piptocephalis richardii ined. SPECIES
 
 #### Status
 ACCEPTED

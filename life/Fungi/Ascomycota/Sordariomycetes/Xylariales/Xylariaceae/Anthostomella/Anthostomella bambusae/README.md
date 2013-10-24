@@ -1,5 +1,4 @@
-Anthostomella bambusae (Lév.) Sacc. SPECIES
-=======
+# Anthostomella bambusae (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phymatomyces Kobayasi GENUS
-=======
+# Barssia Gilkey GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 13: 913 (1937)
+Mycologia 17(6): 253 (1925)
 
 #### Original name
-Phymatomyces Kobayasi
+Barssia Gilkey
 
 ### Remarks
 null

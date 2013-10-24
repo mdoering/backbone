@@ -1,5 +1,4 @@
-Trichormus ellipsosporus (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus ellipsosporus (F. E. Fritsch) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

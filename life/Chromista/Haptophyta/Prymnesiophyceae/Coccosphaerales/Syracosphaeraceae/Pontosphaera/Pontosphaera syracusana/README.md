@@ -1,5 +1,4 @@
-Pontosphaera syracusana Lohmann SPECIES
-=======
+# Pontosphaera syracusana Lohmann SPECIES
 
 #### Status
 ACCEPTED

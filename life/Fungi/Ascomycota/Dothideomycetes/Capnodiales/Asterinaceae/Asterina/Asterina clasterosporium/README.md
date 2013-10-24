@@ -1,5 +1,4 @@
-Asterina clasterosporium S. Hughes SPECIES
-=======
+# Asterina clasterosporium S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Persooniella asperulae-cynanchicae (Wurth) Syd., 1922 SPECIES
-=======
+# Puccinia asperulae-cynanchicae Wurth, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 118 (1922)
+Zentbl. Bakt. ParasitKde, Abt. II 12: 714 (1904)
 
 #### Original name
 Puccinia asperulae-cynanchicae Wurth, 1904

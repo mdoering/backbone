@@ -1,5 +1,4 @@
-Caloplaca cupulata Poelt & Hinter. SPECIES
-=======
+# Caloplaca cupulata Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

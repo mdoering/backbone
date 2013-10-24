@@ -1,5 +1,4 @@
-Hypotrachyna showmanii Hale SPECIES
-=======
+# Hypotrachyna showmanii Hale SPECIES
 
 #### Status
 ACCEPTED

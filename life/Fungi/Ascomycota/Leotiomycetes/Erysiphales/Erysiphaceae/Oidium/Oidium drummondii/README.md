@@ -1,5 +1,4 @@
-Oidium drummondii Thüm. SPECIES
-=======
+# Oidium drummondii Thüm. SPECIES
 
 #### Status
 ACCEPTED

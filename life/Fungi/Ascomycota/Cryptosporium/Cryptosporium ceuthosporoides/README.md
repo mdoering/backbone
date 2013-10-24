@@ -1,17 +1,16 @@
-Septoria ceuthosporoides (Cooke & Harkn.) Sacc., 1884 SPECIES
-=======
+# Cryptosporium ceuthosporoides Cooke & Harkn., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 9(no. 52): 127 (1881)
 
 #### Original name
-null
+Cryptosporium ceuthosporoides Cooke & Harkn., 1881
 
 ### Remarks
 null

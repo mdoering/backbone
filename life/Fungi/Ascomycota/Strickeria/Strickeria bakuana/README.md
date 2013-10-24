@@ -1,5 +1,4 @@
-Strickeria bakuana (Rehm) Koshk. & Frolov SPECIES
-=======
+# Strickeria bakuana (Rehm) Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo lupulinae Speg. SPECIES
-=======
+# Uredo lupulinae Speg. SPECIES
 
 #### Status
 ACCEPTED

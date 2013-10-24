@@ -1,5 +1,4 @@
-Ceratostoma rosae Richon SPECIES
-=======
+# Ceratostoma rosae Richon SPECIES
 
 #### Status
 ACCEPTED

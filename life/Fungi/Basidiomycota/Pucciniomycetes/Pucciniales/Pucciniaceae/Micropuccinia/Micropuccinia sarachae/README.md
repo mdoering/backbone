@@ -1,5 +1,4 @@
-Micropuccinia sarachae (Mayor) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia sarachae (Mayor) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exserticlava keniensis K.M. Tsui, Goh & K.D. Hyde SPECIES
-=======
+# Exserticlava keniensis K.M. Tsui, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

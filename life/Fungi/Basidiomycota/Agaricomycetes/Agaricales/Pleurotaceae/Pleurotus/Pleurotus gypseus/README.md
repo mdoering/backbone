@@ -1,5 +1,4 @@
-Pleurotus gypseus Velen. SPECIES
-=======
+# Pleurotus gypseus Velen. SPECIES
 
 #### Status
 ACCEPTED

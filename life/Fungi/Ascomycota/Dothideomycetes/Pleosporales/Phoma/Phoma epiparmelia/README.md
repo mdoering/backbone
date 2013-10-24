@@ -1,5 +1,4 @@
-Phoma epiparmelia Vouaux SPECIES
-=======
+# Phoma epiparmelia Vouaux SPECIES
 
 #### Status
 ACCEPTED

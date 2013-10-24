@@ -1,5 +1,4 @@
-Cyanobacterium stanieri R. Rippka & G. Cohen-Bazire SPECIES
-=======
+# Cyanobacterium stanieri R. Rippka & G. Cohen-Bazire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guttulina australis SPECIES
-=======
+# Guttulina australis SPECIES
 
 #### Status
 ACCEPTED

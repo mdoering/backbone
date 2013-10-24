@@ -1,5 +1,4 @@
-Urceolaria rhizophora Delise SPECIES
-=======
+# Urceolaria rhizophora Delise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fuckelia insidens Cooke SPECIES
-=======
+# Fuckelia insidens Cooke SPECIES
 
 #### Status
 ACCEPTED

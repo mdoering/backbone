@@ -1,5 +1,4 @@
-Boletus ascendens Corner SPECIES
-=======
+# Boletus ascendens Corner SPECIES
 
 #### Status
 ACCEPTED

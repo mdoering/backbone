@@ -1,5 +1,4 @@
-Blastenia festiva (Ach.) A. Massal. SPECIES
-=======
+# Blastenia festiva (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

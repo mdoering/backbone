@@ -1,5 +1,4 @@
-Pannaria centrifuga P. M. Jørg. SPECIES
-=======
+# Pannaria centrifuga P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

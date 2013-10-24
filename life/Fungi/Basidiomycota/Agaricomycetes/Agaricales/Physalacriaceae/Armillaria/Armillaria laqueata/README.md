@@ -1,5 +1,4 @@
-Armillaria laqueata (Fr.) Sacc. SPECIES
-=======
+# Armillaria laqueata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

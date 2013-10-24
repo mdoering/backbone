@@ -1,5 +1,4 @@
-Russula subfragilis Rick SPECIES
-=======
+# Russula subfragilis Rick SPECIES
 
 #### Status
 ACCEPTED

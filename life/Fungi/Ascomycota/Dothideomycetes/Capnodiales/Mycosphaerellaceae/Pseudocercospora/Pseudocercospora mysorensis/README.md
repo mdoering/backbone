@@ -1,5 +1,4 @@
-Pseudocercospora mysorensis (Thirum. & Chupp) Deighton SPECIES
-=======
+# Pseudocercospora mysorensis (Thirum. & Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora oleifera H. Magn. SPECIES
-=======
+# Lecanora oleifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

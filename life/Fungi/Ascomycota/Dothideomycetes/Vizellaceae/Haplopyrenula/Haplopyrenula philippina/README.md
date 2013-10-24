@@ -1,5 +1,4 @@
-Haplopyrenula philippina Vain. SPECIES
-=======
+# Haplopyrenula philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

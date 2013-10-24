@@ -1,5 +1,4 @@
-Septloculina tortuosa El Nakhal, 1990 SPECIES
-=======
+# Septloculina tortuosa El Nakhal, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola parasitica (F. Stevens) Cif. SPECIES
-=======
+# Meliola parasitica (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

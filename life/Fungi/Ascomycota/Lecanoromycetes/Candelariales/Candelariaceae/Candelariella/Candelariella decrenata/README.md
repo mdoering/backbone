@@ -1,5 +1,4 @@
-Candelariella decrenata (Nyl.) Zahlbr. SPECIES
-=======
+# Candelariella decrenata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

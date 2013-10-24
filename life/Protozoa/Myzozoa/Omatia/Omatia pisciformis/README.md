@@ -1,5 +1,4 @@
-Omatia pisciformis Cookson & Eisenack SPECIES
-=======
+# Omatia pisciformis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

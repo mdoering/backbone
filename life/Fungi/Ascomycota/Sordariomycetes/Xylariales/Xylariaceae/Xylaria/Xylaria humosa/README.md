@@ -1,5 +1,4 @@
-Xylaria humosa Lloyd SPECIES
-=======
+# Xylaria humosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

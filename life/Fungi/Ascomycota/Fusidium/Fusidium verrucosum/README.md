@@ -1,5 +1,4 @@
-Fusidium verrucosum Mont. SPECIES
-=======
+# Fusidium verrucosum Mont. SPECIES
 
 #### Status
 ACCEPTED

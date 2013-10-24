@@ -1,5 +1,4 @@
-Gloniella caruniana Sacc. SPECIES
-=======
+# Gloniella caruniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

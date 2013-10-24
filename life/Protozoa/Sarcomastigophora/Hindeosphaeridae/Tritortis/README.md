@@ -1,5 +1,4 @@
-Tritortis Kozur, 1988 GENUS
-=======
+# Tritortis Kozur, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Defluviicoccus Maszenan, Seviour, Patel, Janssen & Wanner, 2005 GENUS
-=======
+# Defluviicoccus Maszenan, Seviour, Patel, Janssen & Wanner, 2005 GENUS
 
 #### Status
 ACCEPTED

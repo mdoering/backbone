@@ -1,5 +1,4 @@
-Jusella Vozzhennikova GENUS
-=======
+# Jusella Vozzhennikova GENUS
 
 #### Status
 ACCEPTED

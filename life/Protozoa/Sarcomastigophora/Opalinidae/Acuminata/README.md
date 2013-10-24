@@ -1,5 +1,4 @@
-Acuminata Amaro, 1966 GENUS
-=======
+# Acuminata Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

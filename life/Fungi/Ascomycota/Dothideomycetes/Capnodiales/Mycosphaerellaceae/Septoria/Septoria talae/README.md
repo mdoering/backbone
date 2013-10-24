@@ -1,5 +1,4 @@
-Septoria talae Speg. SPECIES
-=======
+# Septoria talae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca eremochloae L. Ling SPECIES
-=======
+# Sphacelotheca eremochloae L. Ling SPECIES
 
 #### Status
 ACCEPTED

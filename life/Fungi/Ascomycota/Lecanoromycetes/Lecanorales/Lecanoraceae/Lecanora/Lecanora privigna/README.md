@@ -1,5 +1,4 @@
-Lecanora privigna var. privigna VARIETY
-=======
+# Lecanora privigna SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora privigna var. privigna
+null
 
 ### Remarks
 null

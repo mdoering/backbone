@@ -1,17 +1,16 @@
-Tubolachnum danthonlae SPECIES
-=======
+# Tubolachnum danthoniae Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 262 (1934)
 
 #### Original name
-Tubolachnum danthonlae
+Tubolachnum danthoniae Velen.
 
 ### Remarks
 null

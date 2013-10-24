@@ -1,5 +1,4 @@
-Usnea livida Motyka SPECIES
-=======
+# Usnea livida Motyka SPECIES
 
 #### Status
 ACCEPTED

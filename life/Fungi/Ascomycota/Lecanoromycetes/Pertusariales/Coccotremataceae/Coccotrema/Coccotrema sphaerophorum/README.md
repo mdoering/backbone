@@ -1,5 +1,4 @@
-Coccotrema sphaerophorum SPECIES
-=======
+# Coccotrema sphaerophorum SPECIES
 
 #### Status
 ACCEPTED

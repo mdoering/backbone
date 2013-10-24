@@ -1,5 +1,4 @@
-Lecanographa atropunctata Sparrius, Saipunkaew & Wolseley SPECIES
-=======
+# Lecanographa atropunctata Sparrius, Saipunkaew & Wolseley SPECIES
 
 #### Status
 ACCEPTED

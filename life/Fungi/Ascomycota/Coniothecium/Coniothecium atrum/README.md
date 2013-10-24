@@ -1,5 +1,4 @@
-Coniothecium atrum Corda SPECIES
-=======
+# Coniothecium atrum Corda SPECIES
 
 #### Status
 ACCEPTED

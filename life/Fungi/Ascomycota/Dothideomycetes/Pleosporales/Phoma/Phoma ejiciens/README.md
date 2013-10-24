@@ -1,5 +1,4 @@
-Phoma ejiciens Pass. SPECIES
-=======
+# Phoma ejiciens Pass. SPECIES
 
 #### Status
 ACCEPTED

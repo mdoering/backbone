@@ -1,5 +1,4 @@
-Bacidia mollisiaeformis Zahlbr. SPECIES
-=======
+# Bacidia mollisiaeformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

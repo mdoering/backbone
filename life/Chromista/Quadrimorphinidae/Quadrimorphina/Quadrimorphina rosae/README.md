@@ -1,5 +1,4 @@
-Quadrimorphina rosae Saidova, 1975 SPECIES
-=======
+# Quadrimorphina rosae Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paravauchomia Raabe, 1963 GENUS
-=======
+# Paravauchomia Raabe, 1963 GENUS
 
 #### Status
 ACCEPTED

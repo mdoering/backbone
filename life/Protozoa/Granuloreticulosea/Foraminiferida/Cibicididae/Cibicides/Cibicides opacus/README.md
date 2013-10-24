@@ -1,5 +1,4 @@
-Cibicides opacus SPECIES
-=======
+# Cibicides opacus SPECIES
 
 #### Status
 ACCEPTED

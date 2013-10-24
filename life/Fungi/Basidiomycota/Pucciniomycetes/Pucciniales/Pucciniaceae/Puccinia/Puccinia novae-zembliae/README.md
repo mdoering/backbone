@@ -1,5 +1,4 @@
-Puccinia novae-zembliae Jørst. SPECIES
-=======
+# Puccinia novae-zembliae Jørst. SPECIES
 
 #### Status
 ACCEPTED

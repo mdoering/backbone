@@ -1,5 +1,4 @@
-Pestalotia metasequoiae Gucevic SPECIES
-=======
+# Pestalotia metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

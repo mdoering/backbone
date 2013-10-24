@@ -1,5 +1,4 @@
-Dimerium banksiae (Sacc. & Bizz.) Petr. SPECIES
-=======
+# Dimerium banksiae (Sacc. & Bizz.) Petr. SPECIES
 
 #### Status
 ACCEPTED

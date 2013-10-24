@@ -1,5 +1,4 @@
-Heteroconium neriifoliae Joanne E. Taylor, Crous & M.E. Palm SPECIES
-=======
+# Heteroconium neriifoliae Joanne E. Taylor, Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

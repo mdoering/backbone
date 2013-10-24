@@ -1,5 +1,4 @@
-Siphogenerinoides Cushman, 1927 GENUS
-=======
+# Siphogenerinoides Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

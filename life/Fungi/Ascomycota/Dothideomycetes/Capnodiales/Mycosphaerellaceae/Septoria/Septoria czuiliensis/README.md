@@ -1,5 +1,4 @@
-Septoria czuiliensis Byzova SPECIES
-=======
+# Septoria czuiliensis Byzova SPECIES
 
 #### Status
 ACCEPTED

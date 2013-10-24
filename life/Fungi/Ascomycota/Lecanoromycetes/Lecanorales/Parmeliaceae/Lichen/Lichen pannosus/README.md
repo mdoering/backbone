@@ -1,5 +1,4 @@
-Lichen pannosus Sw. SPECIES
-=======
+# Lichen pannosus Sw. SPECIES
 
 #### Status
 ACCEPTED

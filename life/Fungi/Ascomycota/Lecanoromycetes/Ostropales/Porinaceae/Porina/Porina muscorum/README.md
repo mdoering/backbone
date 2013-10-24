@@ -1,5 +1,4 @@
-Porina muscorum A. Massal. SPECIES
-=======
+# Porina muscorum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

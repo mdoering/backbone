@@ -1,5 +1,4 @@
-Daviesiconus Hottinger & Drobne, 1980 GENUS
-=======
+# Daviesiconus Hottinger & Drobne, 1980 GENUS
 
 #### Status
 ACCEPTED

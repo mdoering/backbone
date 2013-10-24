@@ -1,14 +1,13 @@
-Corcosphaera Certes, 1889 GENUS
-=======
+# Conosphaera Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Miss. Cap. Horn, 6 (3), Protoz. , 40.
+Jena. Z. , 15, 451.
 
 #### Original name
 null

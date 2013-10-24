@@ -1,5 +1,4 @@
-Cordyceps coleoptera ined. SPECIES
-=======
+# Cordyceps coleoptera ined. SPECIES
 
 #### Status
 ACCEPTED

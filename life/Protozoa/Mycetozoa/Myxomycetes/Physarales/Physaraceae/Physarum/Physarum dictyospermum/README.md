@@ -1,5 +1,4 @@
-Physarum dictyospermum Lister & G. Lister, 1905 SPECIES
-=======
+# Physarum dictyospermum Lister & G. Lister, 1905 SPECIES
 
 #### Status
 ACCEPTED

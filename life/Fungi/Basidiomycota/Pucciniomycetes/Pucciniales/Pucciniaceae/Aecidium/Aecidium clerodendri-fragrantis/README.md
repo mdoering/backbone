@@ -1,5 +1,4 @@
-Aecidium clerodendri-fragrantis J.M. Yen SPECIES
-=======
+# Aecidium clerodendri-fragrantis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

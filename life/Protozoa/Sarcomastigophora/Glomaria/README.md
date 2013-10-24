@@ -1,5 +1,4 @@
-Glomaria Sanfilippo & Riedel, 1970 GENUS
-=======
+# Glomaria Sanfilippo & Riedel, 1970 GENUS
 
 #### Status
 ACCEPTED

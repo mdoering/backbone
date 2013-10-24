@@ -1,5 +1,4 @@
-Dermoloma bellerianum Bon SPECIES
-=======
+# Dermoloma bellerianum Bon SPECIES
 
 #### Status
 ACCEPTED

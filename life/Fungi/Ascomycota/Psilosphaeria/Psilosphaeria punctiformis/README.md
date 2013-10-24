@@ -1,5 +1,4 @@
-Psilosphaeria punctiformis (Sacc. & Therry) Cooke SPECIES
-=======
+# Psilosphaeria punctiformis (Sacc. & Therry) Cooke SPECIES
 
 #### Status
 ACCEPTED

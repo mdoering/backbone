@@ -1,5 +1,4 @@
-Syncephalis viridis Faurel & Schotter, 1965 SPECIES
-=======
+# Syncephalis viridis Faurel & Schotter, 1965 SPECIES
 
 #### Status
 ACCEPTED

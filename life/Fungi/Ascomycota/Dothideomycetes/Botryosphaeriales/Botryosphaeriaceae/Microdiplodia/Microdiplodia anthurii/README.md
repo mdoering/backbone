@@ -1,5 +1,4 @@
-Microdiplodia anthurii Trinchieri SPECIES
-=======
+# Microdiplodia anthurii Trinchieri SPECIES
 
 #### Status
 ACCEPTED

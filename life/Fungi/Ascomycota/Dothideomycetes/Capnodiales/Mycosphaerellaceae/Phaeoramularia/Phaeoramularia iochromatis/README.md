@@ -1,5 +1,4 @@
-Phaeoramularia iochromatis (Pat.) Deighton SPECIES
-=======
+# Phaeoramularia iochromatis (Pat.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus macrourus Scop. SPECIES
-=======
+# Agaricus macrourus Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctella indica D.D. Awasthi SPECIES
-=======
+# Phlyctella indica D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilomonas paramaecium Ehrenberg SPECIES
-=======
+# Chilomonas paramaecium Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prosthecobacter fusiformis (ex Staley et al., 1976) Staley et al., 1980 SPECIES
-=======
+# Prosthecobacter fusiformis (ex Staley et al., 1976) Staley et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

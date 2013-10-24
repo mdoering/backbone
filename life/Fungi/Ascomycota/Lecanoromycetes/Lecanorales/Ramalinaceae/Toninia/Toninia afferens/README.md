@@ -1,5 +1,4 @@
-Toninia afferens (Nyl.) Kotlov SPECIES
-=======
+# Toninia afferens (Nyl.) Kotlov SPECIES
 
 #### Status
 ACCEPTED

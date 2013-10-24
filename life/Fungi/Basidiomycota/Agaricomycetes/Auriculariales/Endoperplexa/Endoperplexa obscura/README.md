@@ -1,5 +1,4 @@
-Endoperplexa obscura (G.W. Martin) P. Roberts SPECIES
-=======
+# Endoperplexa obscura (G.W. Martin) P. Roberts SPECIES
 
 #### Status
 ACCEPTED

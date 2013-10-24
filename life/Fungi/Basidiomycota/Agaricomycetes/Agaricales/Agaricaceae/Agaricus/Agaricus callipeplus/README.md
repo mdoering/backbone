@@ -1,5 +1,4 @@
-Agaricus callipeplus Berk. & Broome SPECIES
-=======
+# Agaricus callipeplus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

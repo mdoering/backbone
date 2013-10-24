@@ -1,5 +1,4 @@
-Verrucaria langhensis Servít SPECIES
-=======
+# Verrucaria langhensis Servít SPECIES
 
 #### Status
 ACCEPTED

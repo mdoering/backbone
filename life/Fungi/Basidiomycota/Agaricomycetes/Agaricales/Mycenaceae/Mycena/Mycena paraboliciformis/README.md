@@ -1,5 +1,4 @@
-Mycena paraboliciformis Singer SPECIES
-=======
+# Mycena paraboliciformis Singer SPECIES
 
 #### Status
 ACCEPTED

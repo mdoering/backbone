@@ -1,5 +1,4 @@
-Cytosporella rubricosa Petr. SPECIES
-=======
+# Cytosporella rubricosa Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calotheca Thomsen & Moestrup, 1983 GENUS
-=======
+# Calotheca Thomsen & Moestrup, 1983 GENUS
 
 #### Status
 ACCEPTED

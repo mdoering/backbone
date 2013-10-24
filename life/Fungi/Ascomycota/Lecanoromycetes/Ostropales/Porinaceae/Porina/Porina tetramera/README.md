@@ -1,5 +1,4 @@
-Porina tetramera (Malme) R. Sant. SPECIES
-=======
+# Porina tetramera (Malme) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

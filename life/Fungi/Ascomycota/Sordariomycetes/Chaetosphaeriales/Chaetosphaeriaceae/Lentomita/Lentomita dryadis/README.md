@@ -1,5 +1,4 @@
-Lentomita dryadis (Lar.N. Vassiljeva) Lar.N. Vassiljeva SPECIES
-=======
+# Lentomita dryadis (Lar.N. Vassiljeva) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

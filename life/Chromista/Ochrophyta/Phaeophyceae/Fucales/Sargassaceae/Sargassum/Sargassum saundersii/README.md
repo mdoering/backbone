@@ -1,5 +1,4 @@
-Sargassum saundersii Kraft, 2009 SPECIES
-=======
+# Sargassum saundersii Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

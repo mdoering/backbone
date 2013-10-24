@@ -1,8 +1,7 @@
-Cladosiphon zostericola Harvey ex Kützing SPECIES
-=======
+# Polycerea zostericola (Harvey ex Kützing) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

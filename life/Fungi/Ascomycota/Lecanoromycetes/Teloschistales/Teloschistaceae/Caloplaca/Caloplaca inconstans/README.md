@@ -1,5 +1,4 @@
-Caloplaca inconstans Zahlbr. SPECIES
-=======
+# Caloplaca inconstans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

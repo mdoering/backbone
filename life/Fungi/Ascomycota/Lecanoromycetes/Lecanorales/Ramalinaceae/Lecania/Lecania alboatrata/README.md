@@ -1,5 +1,4 @@
-Lecania alboatrata (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania alboatrata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

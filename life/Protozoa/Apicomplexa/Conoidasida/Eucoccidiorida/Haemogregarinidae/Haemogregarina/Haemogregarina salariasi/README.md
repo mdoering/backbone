@@ -1,5 +1,4 @@
-Haemogregarina salariasi Laird, 1951 SPECIES
-=======
+# Haemogregarina salariasi Laird, 1951 SPECIES
 
 #### Status
 ACCEPTED

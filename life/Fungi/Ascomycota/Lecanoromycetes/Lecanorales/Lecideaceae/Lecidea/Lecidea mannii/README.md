@@ -1,5 +1,4 @@
-Lecidea mannii Tuck. SPECIES
-=======
+# Lecidea mannii Tuck. SPECIES
 
 #### Status
 ACCEPTED

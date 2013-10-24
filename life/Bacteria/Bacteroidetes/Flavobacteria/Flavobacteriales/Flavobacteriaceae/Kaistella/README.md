@@ -1,5 +1,4 @@
-Kaistella Kim et al., 2004 GENUS
-=======
+# Kaistella Kim et al., 2004 GENUS
 
 #### Status
 ACCEPTED

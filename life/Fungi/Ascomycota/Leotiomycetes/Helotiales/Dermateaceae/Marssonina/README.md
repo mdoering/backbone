@@ -1,5 +1,4 @@
-Marssonina Magnus, 1906 GENUS
-=======
+# Marssonina Magnus, 1906 GENUS
 
 #### Status
 ACCEPTED

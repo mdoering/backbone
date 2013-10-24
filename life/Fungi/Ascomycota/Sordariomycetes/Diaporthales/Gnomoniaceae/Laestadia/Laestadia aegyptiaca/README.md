@@ -1,5 +1,4 @@
-Laestadia aegyptiaca (Müll. Arg.) Keissl. SPECIES
-=======
+# Laestadia aegyptiaca (Müll. Arg.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

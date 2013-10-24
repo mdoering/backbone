@@ -1,5 +1,4 @@
-Aplosporella moringicola Subhedar, A. Pande & V.G. Rao SPECIES
-=======
+# Aplosporella moringicola Subhedar, A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

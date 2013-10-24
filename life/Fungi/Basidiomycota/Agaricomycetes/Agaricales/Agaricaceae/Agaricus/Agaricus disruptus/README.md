@@ -1,5 +1,4 @@
-Agaricus disruptus Cooke & Massee SPECIES
-=======
+# Agaricus disruptus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea floriformis C.W. Dodge SPECIES
-=======
+# Usnea floriformis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protopannaria alcicornis P.M. Jørg. & R.S. Poulsen SPECIES
-=======
+# Protopannaria alcicornis P.M. Jørg. & R.S. Poulsen SPECIES
 
 #### Status
 ACCEPTED

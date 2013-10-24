@@ -1,14 +1,13 @@
-Hypochnicium gomezii S.E. López & J.E. Wright, 1985 SPECIES
-=======
+# Nodotia gomezii (S.E. López & J.E. Wright) Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 23: 439 (1985)
+Syn. Fung. (Oslo) 18: 18 (2004)
 
 #### Original name
 Hypochnicium gomezii S.E. López & J.E. Wright, 1985

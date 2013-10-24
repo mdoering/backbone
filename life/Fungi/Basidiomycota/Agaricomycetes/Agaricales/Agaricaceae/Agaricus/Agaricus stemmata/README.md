@@ -1,5 +1,4 @@
-Agaricus stemmata Fr. SPECIES
-=======
+# Agaricus stemmata Fr. SPECIES
 
 #### Status
 ACCEPTED

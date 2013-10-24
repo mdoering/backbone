@@ -1,5 +1,4 @@
-Cercospora torilidis Chupp SPECIES
-=======
+# Cercospora torilidis Chupp SPECIES
 
 #### Status
 ACCEPTED

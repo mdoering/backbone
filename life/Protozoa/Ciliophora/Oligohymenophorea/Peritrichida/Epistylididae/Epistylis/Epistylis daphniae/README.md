@@ -1,5 +1,4 @@
-Epistylis daphniae subsp. infundibula Nenninger, 1948 SUBSPECIES
-=======
+# Epistylis daphniae Faure-Fremiet, 1905 SPECIES
 
 #### Status
 ACCEPTED

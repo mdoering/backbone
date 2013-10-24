@@ -1,5 +1,4 @@
-Trechispora subhelvetica (Parmasto) Liberta SPECIES
-=======
+# Trechispora subhelvetica (Parmasto) Liberta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia farinophylla Ahti SPECIES
-=======
+# Cladonia farinophylla Ahti SPECIES
 
 #### Status
 ACCEPTED

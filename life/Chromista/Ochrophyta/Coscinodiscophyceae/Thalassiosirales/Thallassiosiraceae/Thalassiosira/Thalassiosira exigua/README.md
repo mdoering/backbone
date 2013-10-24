@@ -1,5 +1,4 @@
-Thalassiosira exigua G. Fryx & Hasle SPECIES
-=======
+# Thalassiosira exigua G. Fryx & Hasle SPECIES
 
 #### Status
 ACCEPTED

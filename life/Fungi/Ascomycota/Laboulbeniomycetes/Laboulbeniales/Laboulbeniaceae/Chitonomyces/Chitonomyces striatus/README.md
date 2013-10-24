@@ -1,5 +1,4 @@
-Chitonomyces striatus Thaxt. SPECIES
-=======
+# Chitonomyces striatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

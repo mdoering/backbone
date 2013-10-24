@@ -1,5 +1,4 @@
-Ramularia siemaszkoi Trotter SPECIES
-=======
+# Ramularia siemaszkoi Trotter SPECIES
 
 #### Status
 ACCEPTED

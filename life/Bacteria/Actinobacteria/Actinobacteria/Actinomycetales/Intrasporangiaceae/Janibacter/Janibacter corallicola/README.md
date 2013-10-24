@@ -1,5 +1,4 @@
-Janibacter corallicola Kageyama, Takahashi, Yasumoto-Hirose, Kasai, Shizuri & Omura, 2007 SPECIES
-=======
+# Janibacter corallicola Kageyama, Takahashi, Yasumoto-Hirose, Kasai, Shizuri & Omura, 2007 SPECIES
 
 #### Status
 ACCEPTED

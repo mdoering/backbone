@@ -1,5 +1,4 @@
-Aegeritopsis Höhn. GENUS
-=======
+# Aegeritopsis Höhn. GENUS
 
 #### Status
 ACCEPTED

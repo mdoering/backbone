@@ -1,5 +1,4 @@
-Eubacterium coprostanoligenes Freier et al., 1994 SPECIES
-=======
+# Eubacterium coprostanoligenes Freier et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

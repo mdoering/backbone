@@ -1,5 +1,4 @@
-Kisselovia reticulata (Williams & Downie, 1966) Lentin & Williams SPECIES
-=======
+# Kisselovia reticulata (Williams & Downie, 1966) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

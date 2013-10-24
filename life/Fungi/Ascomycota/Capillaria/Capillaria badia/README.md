@@ -1,5 +1,4 @@
-Capillaria badia Pers. SPECIES
-=======
+# Capillaria badia Pers. SPECIES
 
 #### Status
 ACCEPTED

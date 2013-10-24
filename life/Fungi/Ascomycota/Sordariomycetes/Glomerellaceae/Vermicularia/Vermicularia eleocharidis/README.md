@@ -1,8 +1,7 @@
-Vermicularia heleocharidis Pat. SPECIES
-=======
+# Vermicularia eleocharidis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Vermicularia heleocharidis Pat.
+Vermicularia eleocharidis Pat.
 
 ### Remarks
 null

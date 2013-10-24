@@ -1,5 +1,4 @@
-Schizochora elmeri Syd. & P. Syd., 1913 SPECIES
-=======
+# Schizochora elmeri Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

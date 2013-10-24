@@ -1,5 +1,4 @@
-Arundinula galatheae Manier & Ormières ex Manier, 1968 SPECIES
-=======
+# Arundinula galatheae Manier & Ormières ex Manier, 1968 SPECIES
 
 #### Status
 ACCEPTED

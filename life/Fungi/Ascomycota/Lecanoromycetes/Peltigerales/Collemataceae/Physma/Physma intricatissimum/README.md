@@ -1,5 +1,4 @@
-Physma intricatissimum J. Steiner SPECIES
-=======
+# Physma intricatissimum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

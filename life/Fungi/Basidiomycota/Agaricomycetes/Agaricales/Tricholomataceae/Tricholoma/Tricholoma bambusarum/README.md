@@ -1,5 +1,4 @@
-Tricholoma bambusarum Corner SPECIES
-=======
+# Tricholoma bambusarum Corner SPECIES
 
 #### Status
 ACCEPTED

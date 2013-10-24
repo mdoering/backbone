@@ -1,5 +1,4 @@
-Uredo areolata Rabenh. SPECIES
-=======
+# Uredo areolata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

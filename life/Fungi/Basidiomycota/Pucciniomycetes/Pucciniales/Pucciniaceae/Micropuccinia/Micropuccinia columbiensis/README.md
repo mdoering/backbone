@@ -1,5 +1,4 @@
-Micropuccinia columbiensis (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia columbiensis (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

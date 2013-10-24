@@ -1,5 +1,4 @@
-Thelephora fucoides Corner, 1968 SPECIES
-=======
+# Thelephora fucoides Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

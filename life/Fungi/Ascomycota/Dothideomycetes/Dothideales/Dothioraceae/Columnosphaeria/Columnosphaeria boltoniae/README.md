@@ -1,5 +1,4 @@
-Columnosphaeria boltoniae (Dearn. & Barthol.) M.E. Barr SPECIES
-=======
+# Columnosphaeria boltoniae (Dearn. & Barthol.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

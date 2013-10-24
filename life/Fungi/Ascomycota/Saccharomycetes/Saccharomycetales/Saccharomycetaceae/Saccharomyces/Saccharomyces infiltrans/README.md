@@ -1,5 +1,4 @@
-Saccharomyces infiltrans Casagrandi & Santori SPECIES
-=======
+# Saccharomyces infiltrans Casagrandi & Santori SPECIES
 
 #### Status
 ACCEPTED

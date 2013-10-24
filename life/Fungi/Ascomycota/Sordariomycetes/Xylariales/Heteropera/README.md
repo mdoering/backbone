@@ -1,5 +1,4 @@
-Heteropera GENUS
-=======
+# Heteropera GENUS
 
 #### Status
 ACCEPTED

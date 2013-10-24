@@ -1,5 +1,4 @@
-Meliola chlorophorae Hansf. SPECIES
-=======
+# Meliola chlorophorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stigmatomyces chilomenes Thaxt. SPECIES
-=======
+# Stigmatomyces chilomenis Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts & Sci. 53(9): 748 (1918)
 
 #### Original name
-Stigmatomyces chilomenes Thaxt.
+Stigmatomyces chilomenis Thaxt.
 
 ### Remarks
 null

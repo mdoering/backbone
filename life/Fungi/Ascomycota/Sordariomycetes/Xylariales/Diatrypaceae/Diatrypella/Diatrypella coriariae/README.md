@@ -1,5 +1,4 @@
-Diatrypella coriariae Speg. SPECIES
-=======
+# Diatrypella coriariae Speg. SPECIES
 
 #### Status
 ACCEPTED

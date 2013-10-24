@@ -1,5 +1,4 @@
-Nectria botryosa Henn. SPECIES
-=======
+# Nectria botryosa Henn. SPECIES
 
 #### Status
 ACCEPTED

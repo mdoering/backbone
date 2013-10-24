@@ -1,5 +1,4 @@
-Graphis distincta Makhija & Adaw. SPECIES
-=======
+# Graphis distincta Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

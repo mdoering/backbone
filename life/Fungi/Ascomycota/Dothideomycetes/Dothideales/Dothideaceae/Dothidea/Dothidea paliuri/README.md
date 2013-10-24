@@ -1,5 +1,4 @@
-Dothidea paliuri Lév. SPECIES
-=======
+# Dothidea paliuri Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium desertorum Thüm. SPECIES
-=======
+# Sorosporium desertorum Thüm. SPECIES
 
 #### Status
 ACCEPTED

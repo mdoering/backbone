@@ -1,5 +1,4 @@
-Cercospora peristrophes Thirum. & Govindu SPECIES
-=======
+# Cercospora peristrophes Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

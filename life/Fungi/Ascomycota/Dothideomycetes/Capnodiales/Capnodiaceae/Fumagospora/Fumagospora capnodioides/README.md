@@ -1,5 +1,4 @@
-Fumagospora capnodioides G. Arnaud, 1911 SPECIES
-=======
+# Fumagospora capnodioides G. Arnaud, 1911 SPECIES
 
 #### Status
 ACCEPTED

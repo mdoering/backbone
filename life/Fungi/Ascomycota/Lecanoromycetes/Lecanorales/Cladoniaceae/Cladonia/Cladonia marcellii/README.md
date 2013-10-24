@@ -1,5 +1,4 @@
-Cladonia marcellii Ahti & S. Stenroos SPECIES
-=======
+# Cladonia marcellii Ahti & S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

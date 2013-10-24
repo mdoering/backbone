@@ -1,5 +1,4 @@
-Bryodiscus grimmiae B. Hein, E. Müll. & Poelt SPECIES
-=======
+# Bryodiscus grimmiae B. Hein, E. Müll. & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycena lactea (Pers. Fr.) P. Kumm. SPECIES
-=======
+# Hemimycena lactea (Pers.) Singer, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 3: 195 (1938)
 
 #### Original name
-null
+Agaricus lacteus Pers., 1801
 
 ### Remarks
 null

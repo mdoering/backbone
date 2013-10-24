@@ -1,5 +1,4 @@
-Stilbella timetaria anon. SPECIES
-=======
+# Stilbella timetaria anon. SPECIES
 
 #### Status
 ACCEPTED

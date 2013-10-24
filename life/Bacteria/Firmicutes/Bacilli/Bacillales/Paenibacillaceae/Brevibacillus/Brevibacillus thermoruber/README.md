@@ -1,8 +1,7 @@
-Bacillus thermoruber (ex Guicciardi et al., 1968) Manachini et al., 1985 SPECIES
-=======
+# Brevibacillus thermoruber (Manachini et al., 1985) Shida et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

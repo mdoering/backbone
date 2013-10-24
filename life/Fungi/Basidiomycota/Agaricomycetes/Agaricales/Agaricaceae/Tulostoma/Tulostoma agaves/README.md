@@ -1,5 +1,4 @@
-Tulostoma agaves Miliarakis {?} SPECIES
-=======
+# Tulostoma agaves Miliarakis {?} SPECIES
 
 #### Status
 ACCEPTED

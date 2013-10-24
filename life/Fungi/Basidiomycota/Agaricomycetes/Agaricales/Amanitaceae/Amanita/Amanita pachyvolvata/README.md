@@ -1,5 +1,4 @@
-Amanita pachyvolvata (Bon) Krieglst., 1984 SPECIES
-=======
+# Amanita pachyvolvata (Bon) Krieglst., 1984 SPECIES
 
 #### Status
 ACCEPTED

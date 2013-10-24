@@ -1,5 +1,4 @@
-Pertusaria rechingeri Zahlbr. SPECIES
-=======
+# Pertusaria rechingeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

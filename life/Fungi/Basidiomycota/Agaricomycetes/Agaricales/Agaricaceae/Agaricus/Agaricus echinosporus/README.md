@@ -1,5 +1,4 @@
-Agaricus echinosporus Wm. G. Sm. SPECIES
-=======
+# Agaricus echinosporus Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

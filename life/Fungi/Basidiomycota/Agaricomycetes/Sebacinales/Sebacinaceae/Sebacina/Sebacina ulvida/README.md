@@ -1,5 +1,4 @@
-Sebacina ulvida SPECIES
-=======
+# Sebacina ulvida SPECIES
 
 #### Status
 ACCEPTED

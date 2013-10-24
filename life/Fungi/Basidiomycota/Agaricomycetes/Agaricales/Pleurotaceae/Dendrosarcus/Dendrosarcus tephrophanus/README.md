@@ -1,5 +1,4 @@
-Dendrosarcus tephrophanus (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus tephrophanus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

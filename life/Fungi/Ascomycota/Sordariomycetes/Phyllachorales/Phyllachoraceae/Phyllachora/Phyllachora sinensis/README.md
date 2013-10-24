@@ -1,5 +1,4 @@
-Phyllachora sinensis Sacc., 1921 SPECIES
-=======
+# Phyllachora sinensis Sacc., 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha montanus (Quél. & Pat.) Sacc. SPECIES
-=======
+# Dasyscyphus montanus (Quél. & Pat.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

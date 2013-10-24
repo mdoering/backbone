@@ -1,5 +1,4 @@
-Pleuroplitoides smithi Foissner, 1996 SPECIES
-=======
+# Pleuroplitoides smithi Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula insularis Boedijn SPECIES
-=======
+# Flammula insularis Boedijn SPECIES
 
 #### Status
 ACCEPTED

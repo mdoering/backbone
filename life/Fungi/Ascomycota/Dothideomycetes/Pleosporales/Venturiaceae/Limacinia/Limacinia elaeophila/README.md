@@ -1,5 +1,4 @@
-Limacinia elaeophila (Mont.) Herter SPECIES
-=======
+# Limacinia elaeophila (Mont.) Herter SPECIES
 
 #### Status
 ACCEPTED

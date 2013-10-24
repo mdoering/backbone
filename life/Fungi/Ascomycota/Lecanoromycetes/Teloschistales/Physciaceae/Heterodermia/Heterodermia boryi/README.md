@@ -1,5 +1,4 @@
-Heterodermia boryi var. boryi VARIETY
-=======
+# Heterodermia boryi (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Geophytology 6(1): 33 (1976)
 
 #### Original name
-Heterodermia boryi var. boryi
+Borrera boryi Fée
 
 ### Remarks
 null

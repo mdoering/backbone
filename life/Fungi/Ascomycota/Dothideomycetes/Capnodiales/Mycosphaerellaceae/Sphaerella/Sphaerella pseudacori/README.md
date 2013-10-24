@@ -1,5 +1,4 @@
-Sphaerella pseudacori Kirschst. SPECIES
-=======
+# Sphaerella pseudacori Kirschst. SPECIES
 
 #### Status
 ACCEPTED

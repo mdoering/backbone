@@ -1,5 +1,4 @@
-Hyalomeliolina costaricensis F. Stevens SPECIES
-=======
+# Hyalomeliolina costaricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

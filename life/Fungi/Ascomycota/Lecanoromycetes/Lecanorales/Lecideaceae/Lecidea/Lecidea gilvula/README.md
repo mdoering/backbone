@@ -1,5 +1,4 @@
-Lecidea gilvula (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea gilvula (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

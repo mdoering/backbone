@@ -1,5 +1,4 @@
-Verrucaria adguttata Zahlbr. SPECIES
-=======
+# Verrucaria adguttata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

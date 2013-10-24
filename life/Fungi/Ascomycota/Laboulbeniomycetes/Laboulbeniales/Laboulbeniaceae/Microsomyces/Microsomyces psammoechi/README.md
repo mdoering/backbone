@@ -1,5 +1,4 @@
-Microsomyces psammoechi Thaxt., 1931 SPECIES
-=======
+# Microsomyces psammoechi Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

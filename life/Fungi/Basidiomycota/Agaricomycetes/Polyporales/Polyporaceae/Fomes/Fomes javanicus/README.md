@@ -1,5 +1,4 @@
-Fomes javanicus Bres. SPECIES
-=======
+# Fomes javanicus Bres. SPECIES
 
 #### Status
 ACCEPTED

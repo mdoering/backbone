@@ -1,5 +1,4 @@
-Nolanea variegata Velen. SPECIES
-=======
+# Nolanea variegata Velen. SPECIES
 
 #### Status
 ACCEPTED

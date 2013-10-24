@@ -1,5 +1,4 @@
-Isaria puberula Berk., 1841 SPECIES
-=======
+# Isaria puberula Berk., 1841 SPECIES
 
 #### Status
 ACCEPTED

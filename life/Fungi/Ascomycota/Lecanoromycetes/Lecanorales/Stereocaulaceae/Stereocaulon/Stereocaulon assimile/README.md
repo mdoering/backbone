@@ -1,5 +1,4 @@
-Stereocaulon assimile Nyl. SPECIES
-=======
+# Stereocaulon assimile Nyl. SPECIES
 
 #### Status
 ACCEPTED

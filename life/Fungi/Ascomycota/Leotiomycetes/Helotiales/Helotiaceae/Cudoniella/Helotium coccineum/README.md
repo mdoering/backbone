@@ -1,5 +1,4 @@
-Helotium coccineum Pers. SPECIES
-=======
+# Helotium coccineum Pers. SPECIES
 
 #### Status
 ACCEPTED

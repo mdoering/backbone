@@ -1,5 +1,4 @@
-Perisporiopsis perae var. perae VARIETY
-=======
+# Perisporiopsis perae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Perisporiopsis perae var. perae
+Perisporiopsis perae
 
 ### Remarks
 null

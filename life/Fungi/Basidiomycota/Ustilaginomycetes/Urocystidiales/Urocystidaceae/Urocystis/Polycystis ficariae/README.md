@@ -1,5 +1,4 @@
-Polycystis ficariae Lév. SPECIES
-=======
+# Polycystis ficariae Lév. SPECIES
 
 #### Status
 ACCEPTED

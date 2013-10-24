@@ -1,5 +1,4 @@
-Chlorobotrys simplex Pascher SPECIES
-=======
+# Chlorobotrys simplex Pascher SPECIES
 
 #### Status
 ACCEPTED

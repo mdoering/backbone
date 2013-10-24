@@ -1,5 +1,4 @@
-Anthracoidea baldensis Vánky SPECIES
-=======
+# Anthracoidea baldensis Vánky SPECIES
 
 #### Status
 ACCEPTED

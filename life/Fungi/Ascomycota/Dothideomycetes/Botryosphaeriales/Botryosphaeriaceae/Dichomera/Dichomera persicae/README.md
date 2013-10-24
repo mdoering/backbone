@@ -1,5 +1,4 @@
-Dichomera persicae Pass. SPECIES
-=======
+# Dichomera persicae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma hibisci Scalia SPECIES
-=======
+# Macrophoma hibisci Scalia SPECIES
 
 #### Status
 ACCEPTED

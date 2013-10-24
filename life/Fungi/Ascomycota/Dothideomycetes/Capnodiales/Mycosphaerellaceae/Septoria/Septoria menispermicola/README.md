@@ -1,5 +1,4 @@
-Septoria menispermicola H.D. Shin & Sameva SPECIES
-=======
+# Septoria menispermicola H.D. Shin & Sameva SPECIES
 
 #### Status
 ACCEPTED

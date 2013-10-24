@@ -1,5 +1,4 @@
-Boletus bicoloroides A.H. Sm. & Thiers SPECIES
-=======
+# Boletus bicoloroides A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

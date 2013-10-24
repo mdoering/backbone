@@ -1,5 +1,4 @@
-Lagenosolenia McCulloch, 1977 GENUS
-=======
+# Lagenosolenia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

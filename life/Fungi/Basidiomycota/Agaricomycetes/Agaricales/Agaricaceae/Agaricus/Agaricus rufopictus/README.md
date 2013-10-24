@@ -1,5 +1,4 @@
-Agaricus rufopictus Berk. SPECIES
-=======
+# Agaricus rufopictus Berk. SPECIES
 
 #### Status
 ACCEPTED

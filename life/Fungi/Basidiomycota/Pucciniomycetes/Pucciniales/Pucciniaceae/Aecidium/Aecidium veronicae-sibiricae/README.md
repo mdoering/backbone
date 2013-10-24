@@ -1,5 +1,4 @@
-Aecidium veronicae-sibiricae Syd. & P. Syd. SPECIES
-=======
+# Aecidium veronicae-sibiricae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

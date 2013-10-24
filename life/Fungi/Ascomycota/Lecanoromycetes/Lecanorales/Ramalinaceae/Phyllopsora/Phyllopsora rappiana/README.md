@@ -1,17 +1,16 @@
-Phyllopsora corallina var. rappiana Brako VARIETY
-=======
+# Phyllopsora rappiana (Brako) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Australasian Lichenology 58: 6 (2006)
 
 #### Original name
-null
+Phyllopsora corallina var. rappiana Brako
 
 ### Remarks
 null

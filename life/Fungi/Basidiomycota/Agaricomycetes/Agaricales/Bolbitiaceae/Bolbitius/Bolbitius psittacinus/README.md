@@ -1,5 +1,4 @@
-Bolbitius psittacinus Hauskn., Antonín & Polcák SPECIES
-=======
+# Bolbitius psittacinus Hauskn., Antonín & Polcák SPECIES
 
 #### Status
 ACCEPTED

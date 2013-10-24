@@ -1,5 +1,4 @@
-Desulfotomaculum putei Liu et al., 1997 SPECIES
-=======
+# Desulfotomaculum putei Liu et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

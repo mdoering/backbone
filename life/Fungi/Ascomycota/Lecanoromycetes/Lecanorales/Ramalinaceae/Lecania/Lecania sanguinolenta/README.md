@@ -1,5 +1,4 @@
-Lecania sanguinolenta (Stirt. ex F.M. Bailey) Zahlbr. SPECIES
-=======
+# Lecania sanguinolenta (Stirt. ex F.M. Bailey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoscyphella fuckelii (Bres.) Svrcek SPECIES
-=======
+# Trichoscyphella fuckelii (Bres.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

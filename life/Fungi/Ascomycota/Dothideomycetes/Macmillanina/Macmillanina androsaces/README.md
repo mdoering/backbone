@@ -1,5 +1,4 @@
-Macmillanina androsaces (Rostr.) Kuntze SPECIES
-=======
+# Macmillanina androsaces (Rostr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

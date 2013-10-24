@@ -1,5 +1,4 @@
-Dorothia pseudoturris SPECIES
-=======
+# Dorothia pseudoturris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum carpinicola B. Sutton SPECIES
-=======
+# Coryneum carpinicola B. Sutton SPECIES
 
 #### Status
 ACCEPTED

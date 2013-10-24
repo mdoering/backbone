@@ -1,5 +1,4 @@
-Aecidium paramense Mayor SPECIES
-=======
+# Aecidium paramense Mayor SPECIES
 
 #### Status
 ACCEPTED

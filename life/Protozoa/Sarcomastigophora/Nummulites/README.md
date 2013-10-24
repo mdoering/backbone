@@ -1,5 +1,4 @@
-Nummulites Nemkov, 1967 GENUS
-=======
+# Nummulites Nemkov, 1967 GENUS
 
 #### Status
 ACCEPTED

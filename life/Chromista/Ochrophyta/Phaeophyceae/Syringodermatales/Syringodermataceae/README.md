@@ -1,5 +1,4 @@
-Syringodermataceae E.C. Henry, 1984 FAMILY
-=======
+# Syringodermataceae E.C. Henry, 1984 FAMILY
 
 #### Status
 ACCEPTED

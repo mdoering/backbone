@@ -1,5 +1,4 @@
-Pleurocybe GENUS
-=======
+# Pleurocybe GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus miriabilis SPECIES
-=======
+# Phacus miriabilis SPECIES
 
 #### Status
 ACCEPTED

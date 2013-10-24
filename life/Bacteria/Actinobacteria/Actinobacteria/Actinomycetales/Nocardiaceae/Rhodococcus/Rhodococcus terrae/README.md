@@ -1,5 +1,4 @@
-Rhodococcus terrae (Tsukamura, 1971) Tsukamura, 1974 SPECIES
-=======
+# Rhodococcus terrae (Tsukamura, 1971) Tsukamura, 1974 SPECIES
 
 #### Status
 ACCEPTED

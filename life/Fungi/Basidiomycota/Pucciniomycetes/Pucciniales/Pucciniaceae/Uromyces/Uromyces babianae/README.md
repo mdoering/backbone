@@ -1,5 +1,4 @@
-Uromyces babianae Doidge SPECIES
-=======
+# Uromyces babianae Doidge SPECIES
 
 #### Status
 ACCEPTED

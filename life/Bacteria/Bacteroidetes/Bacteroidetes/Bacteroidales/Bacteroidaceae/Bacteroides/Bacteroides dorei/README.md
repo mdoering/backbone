@@ -1,5 +1,4 @@
-Bacteroides dorei Bakir et al., 2006 SPECIES
-=======
+# Bacteroides dorei Bakir et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

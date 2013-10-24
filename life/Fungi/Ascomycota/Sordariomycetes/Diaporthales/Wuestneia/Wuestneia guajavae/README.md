@@ -1,5 +1,4 @@
-Wuestneia guajavae (H. Kern) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia guajavae (H. Kern) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

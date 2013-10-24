@@ -1,5 +1,4 @@
-Cortinarius fennoscandicus Bendiksen, K. Bendiksen & Brandrud SPECIES
-=======
+# Cortinarius fennoscandicus Bendiksen, K. Bendiksen & Brandrud SPECIES
 
 #### Status
 ACCEPTED

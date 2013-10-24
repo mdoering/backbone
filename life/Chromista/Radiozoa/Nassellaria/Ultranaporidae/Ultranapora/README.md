@@ -1,5 +1,4 @@
-Ultranapora Pessagno, 1977 GENUS
-=======
+# Ultranapora Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

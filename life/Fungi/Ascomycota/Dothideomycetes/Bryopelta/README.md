@@ -1,5 +1,4 @@
-Bryopelta Döbbeler & Poelt GENUS
-=======
+# Bryopelta Döbbeler & Poelt GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Montagnites GENUS
-=======
+# Montagnites GENUS
 
 #### Status
 ACCEPTED

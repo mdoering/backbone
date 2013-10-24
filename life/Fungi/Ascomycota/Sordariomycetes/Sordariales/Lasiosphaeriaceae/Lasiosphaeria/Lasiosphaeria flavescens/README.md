@@ -1,5 +1,4 @@
-Lasiosphaeria flavescens (Fr.) Sacc. SPECIES
-=======
+# Lasiosphaeria flavescens (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

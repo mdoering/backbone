@@ -1,5 +1,4 @@
-Clonostachys byssicola Schroers SPECIES
-=======
+# Clonostachys byssicola Schroers SPECIES
 
 #### Status
 ACCEPTED

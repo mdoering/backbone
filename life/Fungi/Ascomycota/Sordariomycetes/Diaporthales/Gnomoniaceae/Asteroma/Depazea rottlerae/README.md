@@ -1,5 +1,4 @@
-Depazea rottlerae Berk. & Broome SPECIES
-=======
+# Depazea rottlerae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

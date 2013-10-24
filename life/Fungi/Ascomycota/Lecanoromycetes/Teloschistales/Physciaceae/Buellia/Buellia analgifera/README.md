@@ -1,5 +1,4 @@
-Buellia analgifera Aptroot & Diederich SPECIES
-=======
+# Buellia analgifera Aptroot & Diederich SPECIES
 
 #### Status
 ACCEPTED

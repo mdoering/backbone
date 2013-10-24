@@ -1,5 +1,4 @@
-Chermomyces Brain GENUS
-=======
+# Chermomyces Brain GENUS
 
 #### Status
 ACCEPTED

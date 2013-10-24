@@ -1,5 +1,4 @@
-Dictyoconella Henson, 1948 GENUS
-=======
+# Dictyoconella Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

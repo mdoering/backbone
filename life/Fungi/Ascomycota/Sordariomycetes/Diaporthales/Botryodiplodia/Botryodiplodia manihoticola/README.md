@@ -1,5 +1,4 @@
-Botryodiplodia manihoticola Petr., 1926 SPECIES
-=======
+# Botryodiplodia manihoticola Petr., 1926 SPECIES
 
 #### Status
 ACCEPTED

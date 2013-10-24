@@ -1,5 +1,4 @@
-Marasmiellus flaccidus (A.H. Sm. & Hesler) Desjardin & Halling SPECIES
-=======
+# Marasmiellus flaccidus (A.H. Sm. & Hesler) Desjardin & Halling SPECIES
 
 #### Status
 ACCEPTED

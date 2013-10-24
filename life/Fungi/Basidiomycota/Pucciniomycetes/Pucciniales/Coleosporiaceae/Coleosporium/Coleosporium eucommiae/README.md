@@ -1,5 +1,4 @@
-Coleosporium eucommiae F.X. Chao & P.K. Chi SPECIES
-=======
+# Coleosporium eucommiae F.X. Chao & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

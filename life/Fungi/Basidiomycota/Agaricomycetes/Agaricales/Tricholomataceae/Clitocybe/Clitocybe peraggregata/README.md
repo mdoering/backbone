@@ -1,5 +1,4 @@
-Clitocybe peraggregata Cleland SPECIES
-=======
+# Clitocybe peraggregata Cleland SPECIES
 
 #### Status
 ACCEPTED

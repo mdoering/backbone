@@ -1,5 +1,4 @@
-Ocellaria nashii Hara SPECIES
-=======
+# Ocellaria nashii Hara SPECIES
 
 #### Status
 ACCEPTED

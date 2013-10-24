@@ -1,5 +1,4 @@
-Xanthoparmelia schistaceae SPECIES
-=======
+# Xanthoparmelia schistaceae SPECIES
 
 #### Status
 ACCEPTED

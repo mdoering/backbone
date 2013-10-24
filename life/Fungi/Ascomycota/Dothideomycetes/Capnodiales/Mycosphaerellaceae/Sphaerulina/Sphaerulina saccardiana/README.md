@@ -1,5 +1,4 @@
-Sphaerulina saccardiana Potebnia SPECIES
-=======
+# Sphaerulina saccardiana Potebnia SPECIES
 
 #### Status
 ACCEPTED

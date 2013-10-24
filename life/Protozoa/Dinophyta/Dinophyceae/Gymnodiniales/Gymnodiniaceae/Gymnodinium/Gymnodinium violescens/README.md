@@ -1,5 +1,4 @@
-Gymnodinium violescens Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium violescens Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

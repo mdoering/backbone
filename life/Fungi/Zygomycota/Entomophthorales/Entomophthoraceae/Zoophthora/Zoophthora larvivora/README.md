@@ -1,5 +1,4 @@
-Zoophthora larvivora Balazy, 1993 SPECIES
-=======
+# Zoophthora larvivora Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

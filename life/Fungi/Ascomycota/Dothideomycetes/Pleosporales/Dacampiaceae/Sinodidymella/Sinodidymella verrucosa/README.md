@@ -1,14 +1,13 @@
-Amphididymella verrucosa Petr. SPECIES
-=======
+# Sinodidymella verrucosa (Petr.) J.Z. Yue & O.E. Erikss. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Meddn Göteb. Bot. 17: 129 (1947)
+Mycotaxon 24: 295 (1985)
 
 #### Original name
 Amphididymella verrucosa Petr.

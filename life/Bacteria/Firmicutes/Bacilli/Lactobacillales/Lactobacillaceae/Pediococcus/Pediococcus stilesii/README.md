@@ -1,5 +1,4 @@
-Pediococcus stilesii Franz et al., 2006 SPECIES
-=======
+# Pediococcus stilesii Franz et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

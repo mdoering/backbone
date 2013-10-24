@@ -1,5 +1,4 @@
-Phomopsis campomanesiae Bond.-Mont. SPECIES
-=======
+# Phomopsis campomanesiae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

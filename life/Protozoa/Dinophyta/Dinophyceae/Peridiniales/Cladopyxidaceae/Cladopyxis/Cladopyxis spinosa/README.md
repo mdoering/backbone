@@ -1,5 +1,4 @@
-Cladopyxis spinosa (Kofoid) Schiller SPECIES
-=======
+# Cladopyxis spinosa (Kofoid) Schiller SPECIES
 
 #### Status
 ACCEPTED

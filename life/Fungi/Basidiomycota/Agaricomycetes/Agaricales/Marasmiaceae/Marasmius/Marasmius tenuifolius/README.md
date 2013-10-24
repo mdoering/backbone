@@ -1,5 +1,4 @@
-Marasmius tenuifolius (Murrill) Singer SPECIES
-=======
+# Marasmius tenuifolius (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

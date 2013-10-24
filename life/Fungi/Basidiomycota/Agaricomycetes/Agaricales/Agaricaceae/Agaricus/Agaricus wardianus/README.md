@@ -1,5 +1,4 @@
-Agaricus wardianus Mesch. SPECIES
-=======
+# Agaricus wardianus Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praethecacinetidae Dovgal, 1996 FAMILY
-=======
+# Praethecacinetidae Dovgal, 1996 FAMILY
 
 #### Status
 ACCEPTED

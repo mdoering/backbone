@@ -1,14 +1,13 @@
-Micropeltis carniolica Rehm SPECIES
-=======
+# Ceramothyrium carniolicum (Rehm) Petr., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 15: 208 (1962)
 
 #### Original name
 Micropeltis carniolica Rehm

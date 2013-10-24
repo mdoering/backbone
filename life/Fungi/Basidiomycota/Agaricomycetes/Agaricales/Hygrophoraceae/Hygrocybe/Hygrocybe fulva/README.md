@@ -1,5 +1,4 @@
-Hygrocybe fulva (Berk.) Manjula SPECIES
-=======
+# Hygrocybe fulva (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

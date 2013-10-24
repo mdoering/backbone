@@ -1,5 +1,4 @@
-Miliolacostata Andersen, 1997 GENUS
-=======
+# Miliolacostata Andersen, 1997 GENUS
 
 #### Status
 ACCEPTED

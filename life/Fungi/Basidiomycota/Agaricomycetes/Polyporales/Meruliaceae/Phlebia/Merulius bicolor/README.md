@@ -1,5 +1,4 @@
-Merulius bicolor (Ces.) Kuntze SPECIES
-=======
+# Merulius bicolor (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

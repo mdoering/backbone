@@ -1,5 +1,4 @@
-Xanthoparmelia enteroxantha Hale SPECIES
-=======
+# Xanthoparmelia enteroxantha Hale SPECIES
 
 #### Status
 ACCEPTED

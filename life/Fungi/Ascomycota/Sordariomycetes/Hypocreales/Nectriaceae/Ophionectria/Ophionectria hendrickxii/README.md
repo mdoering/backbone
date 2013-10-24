@@ -1,5 +1,4 @@
-Ophionectria hendrickxii Hansf. SPECIES
-=======
+# Ophionectria hendrickxii Hansf. SPECIES
 
 #### Status
 ACCEPTED

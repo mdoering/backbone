@@ -1,5 +1,4 @@
-Naucoria albolutea Mont. SPECIES
-=======
+# Naucoria albolutea Mont. SPECIES
 
 #### Status
 ACCEPTED

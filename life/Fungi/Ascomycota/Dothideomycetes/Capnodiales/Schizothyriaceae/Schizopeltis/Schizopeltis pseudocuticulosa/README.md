@@ -1,5 +1,4 @@
-Schizopeltis pseudocuticulosa (G. Winter) Bat. SPECIES
-=======
+# Schizopeltis pseudocuticulosa (G. Winter) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Eriocercospora olivaceae Piroz. SPECIES
-=======
+# Eriocercospora olivacea Piroz., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 2: 38 (1974)
 
 #### Original name
-Eriocercospora olivaceae Piroz.
+Eriocercospora olivacea Piroz., 1974
 
 ### Remarks
 null

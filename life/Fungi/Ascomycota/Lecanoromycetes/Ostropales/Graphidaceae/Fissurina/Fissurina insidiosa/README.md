@@ -1,14 +1,13 @@
-Graphis insidiosa (C. Knight & Mitt.) C. Knight & Mitt. SPECIES
-=======
+# Fissurina insidiosa C. Knight & Mitt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Handb. N. Z. Fl. 586 (1867)
+Trans. Linn. Soc. London 23: 102 (1860)
 
 #### Original name
 Fissurina insidiosa C. Knight & Mitt.

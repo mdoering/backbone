@@ -1,5 +1,4 @@
-Graphina polycarpa Müll. Arg. SPECIES
-=======
+# Graphina polycarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

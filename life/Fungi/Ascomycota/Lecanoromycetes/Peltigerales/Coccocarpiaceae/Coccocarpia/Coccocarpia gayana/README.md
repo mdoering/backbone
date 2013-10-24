@@ -1,5 +1,4 @@
-Coccocarpia gayana var. gayana VARIETY
-=======
+# Coccocarpia gayana SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. lich. 2: 41 (1869)
+null
 
 #### Original name
-Coccocarpia gayana var. gayana
+null
 
 ### Remarks
 null

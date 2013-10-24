@@ -1,5 +1,4 @@
-Naetrocymbe atomarioides (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Naetrocymbe atomarioides (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

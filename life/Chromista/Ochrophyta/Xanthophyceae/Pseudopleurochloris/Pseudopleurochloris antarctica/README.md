@@ -1,5 +1,4 @@
-Pseudopleurochloris antarctica C. Andreoli, I. Moro, N. La Rocca, F. Rigoni, L. Dalla Valle & L. Bargelloni SPECIES
-=======
+# Pseudopleurochloris antarctica C. Andreoli, I. Moro, N. La Rocca, F. Rigoni, L. Dalla Valle & L. Bargelloni SPECIES
 
 #### Status
 ACCEPTED

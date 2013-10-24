@@ -1,5 +1,4 @@
-Triadelphia morgoensis Révay SPECIES
-=======
+# Triadelphia morgoensis Révay SPECIES
 
 #### Status
 ACCEPTED

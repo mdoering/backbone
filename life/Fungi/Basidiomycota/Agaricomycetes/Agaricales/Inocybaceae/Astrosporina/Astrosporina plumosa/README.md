@@ -1,5 +1,4 @@
-Astrosporina plumosa (Bolton) Rea SPECIES
-=======
+# Astrosporina plumosa (Bolton) Rea SPECIES
 
 #### Status
 ACCEPTED

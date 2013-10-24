@@ -1,5 +1,4 @@
-Uromyces martinii Farl. SPECIES
-=======
+# Uromyces martinii Farl. SPECIES
 
 #### Status
 ACCEPTED

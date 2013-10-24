@@ -1,5 +1,4 @@
-Ascidium discolor SPECIES
-=======
+# Ascidium discolor SPECIES
 
 #### Status
 ACCEPTED

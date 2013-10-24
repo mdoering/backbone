@@ -1,5 +1,4 @@
-Cercospora passiflorae-foetidae J.M. Yen SPECIES
-=======
+# Cercospora passiflorae-foetidae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

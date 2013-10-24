@@ -1,5 +1,4 @@
-Clisosporium pallidofuscum (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium pallidofuscum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

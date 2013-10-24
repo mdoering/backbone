@@ -1,5 +1,4 @@
-Calicium flavum Chevall. SPECIES
-=======
+# Calicium flavum Chevall. SPECIES
 
 #### Status
 ACCEPTED

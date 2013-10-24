@@ -1,5 +1,4 @@
-Cenangium tremulae Velen. SPECIES
-=======
+# Cenangium tremulae Velen. SPECIES
 
 #### Status
 ACCEPTED

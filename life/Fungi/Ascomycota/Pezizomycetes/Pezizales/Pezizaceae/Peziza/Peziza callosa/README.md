@@ -1,5 +1,4 @@
-Peziza callosa var. callosa VARIETY
-=======
+# Peziza callosa Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Elench. fung. (Halle), cont. sec. 95, tab. 39:219 (1789)
 
 #### Original name
-Peziza callosa var. callosa
+Peziza callosa Bull.
 
 ### Remarks
 null

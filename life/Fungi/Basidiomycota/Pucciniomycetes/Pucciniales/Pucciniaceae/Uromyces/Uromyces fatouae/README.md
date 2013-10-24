@@ -1,5 +1,4 @@
-Uromyces fatouae Henn. SPECIES
-=======
+# Uromyces fatouae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proselachista taeniiformis (Y. Yamada) Y.-P. Lee & D. J. Garbary SPECIES
-=======
+# Proselachista taeniiformis (Y. Yamada) Y.-P. Lee & D. J. Garbary SPECIES
 
 #### Status
 ACCEPTED

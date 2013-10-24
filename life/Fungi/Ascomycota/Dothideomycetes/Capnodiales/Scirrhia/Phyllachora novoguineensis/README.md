@@ -1,5 +1,4 @@
-Phyllachora novoguineensis (Theiss. & Syd.) Petr., 1929 SPECIES
-=======
+# Phyllachora novoguineensis (Theiss. & Syd.) Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

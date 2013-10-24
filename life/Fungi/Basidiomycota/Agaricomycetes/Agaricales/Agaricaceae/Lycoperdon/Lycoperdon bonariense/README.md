@@ -1,5 +1,4 @@
-Lycoperdon bonariense Speg. SPECIES
-=======
+# Lycoperdon bonariense Speg. SPECIES
 
 #### Status
 ACCEPTED

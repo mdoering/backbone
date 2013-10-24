@@ -1,5 +1,4 @@
-Calonectria multiseptata Crous & M.J. Wingf. SPECIES
-=======
+# Calonectria multiseptata Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

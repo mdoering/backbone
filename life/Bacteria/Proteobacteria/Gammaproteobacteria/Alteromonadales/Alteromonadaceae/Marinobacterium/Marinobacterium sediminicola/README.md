@@ -1,5 +1,4 @@
-Marinobacterium sediminicola Huo, Xu, Cao, Wang, Zhu, Oren & Wu, 2009 SPECIES
-=======
+# Marinobacterium sediminicola Huo, Xu, Cao, Wang, Zhu, Oren & Wu, 2009 SPECIES
 
 #### Status
 ACCEPTED

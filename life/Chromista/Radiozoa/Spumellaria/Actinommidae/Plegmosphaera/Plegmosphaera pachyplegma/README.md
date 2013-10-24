@@ -1,5 +1,4 @@
-Plegmosphaera pachyplegma Haeckel, 1887 SPECIES
-=======
+# Plegmosphaera pachyplegma Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chondrocystis bracei Howe SPECIES
-=======
+# Chondrocystis bracei Howe SPECIES
 
 #### Status
 ACCEPTED

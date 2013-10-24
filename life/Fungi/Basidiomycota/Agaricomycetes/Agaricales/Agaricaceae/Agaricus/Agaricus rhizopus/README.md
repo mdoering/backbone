@@ -1,5 +1,4 @@
-Agaricus rhizopus Pers. SPECIES
-=======
+# Agaricus rhizopus Pers. SPECIES
 
 #### Status
 ACCEPTED

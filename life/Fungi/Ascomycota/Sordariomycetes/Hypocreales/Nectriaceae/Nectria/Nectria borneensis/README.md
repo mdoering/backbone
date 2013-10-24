@@ -1,5 +1,4 @@
-Nectria borneensis Petr., 1954 SPECIES
-=======
+# Nectria borneensis Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

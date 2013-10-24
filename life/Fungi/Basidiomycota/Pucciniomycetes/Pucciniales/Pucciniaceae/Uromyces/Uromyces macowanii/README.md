@@ -1,8 +1,7 @@
-Uromyces macowani Bubák SPECIES
-=======
+# Uromyces macowanii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uromyces macowani Bubák
+Uromyces macowanii Bubák
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trypethelium ceylonicum Makhija & Patw. SPECIES
-=======
+# Trypethelium ceylonicum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

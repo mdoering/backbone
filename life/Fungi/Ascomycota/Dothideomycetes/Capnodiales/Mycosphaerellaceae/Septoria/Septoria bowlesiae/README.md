@@ -1,5 +1,4 @@
-Septoria bowlesiae Speg. SPECIES
-=======
+# Septoria bowlesiae Speg. SPECIES
 
 #### Status
 ACCEPTED

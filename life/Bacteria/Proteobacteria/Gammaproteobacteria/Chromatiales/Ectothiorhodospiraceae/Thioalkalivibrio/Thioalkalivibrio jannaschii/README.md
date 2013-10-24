@@ -1,5 +1,4 @@
-Thioalkalivibrio jannaschii Sorokin et al., 2002 SPECIES
-=======
+# Thioalkalivibrio jannaschii Sorokin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

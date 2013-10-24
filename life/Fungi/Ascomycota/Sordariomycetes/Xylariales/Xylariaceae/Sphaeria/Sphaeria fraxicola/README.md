@@ -1,5 +1,4 @@
-Sphaeria fraxicola Schwein. SPECIES
-=======
+# Sphaeria fraxicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia spermophila Noble, 1948 SPECIES
-=======
+# Sclerotinia spermophila Noble, 1948 SPECIES
 
 #### Status
 ACCEPTED

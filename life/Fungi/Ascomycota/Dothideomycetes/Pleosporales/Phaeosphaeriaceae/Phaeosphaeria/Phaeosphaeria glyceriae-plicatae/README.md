@@ -1,14 +1,13 @@
-Leptosphaeria glyceriae-plicatae Savul. & Sandu, 1933 SPECIES
-=======
+# Phaeosphaeria glyceriae-plicatae (Savul. & Sandu) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 73: 74 (1933)
+Can. J. Bot. 67(5): 1527 (1989)
 
 #### Original name
 Leptosphaeria glyceriae-plicatae Savul. & Sandu, 1933

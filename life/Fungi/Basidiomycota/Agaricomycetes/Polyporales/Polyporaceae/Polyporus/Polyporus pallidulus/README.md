@@ -1,5 +1,4 @@
-Polyporus pallidulus (Bres.) SPECIES
-=======
+# Polyporus pallidulus (Bres.) SPECIES
 
 #### Status
 ACCEPTED

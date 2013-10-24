@@ -1,5 +1,4 @@
-Illosporium persicinum Fr. SPECIES
-=======
+# Illosporium persicinum Fr. SPECIES
 
 #### Status
 ACCEPTED

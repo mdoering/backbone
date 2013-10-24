@@ -1,5 +1,4 @@
-Gyroidinopsis McCulloch, 1977 GENUS
-=======
+# Gyroidinopsis McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

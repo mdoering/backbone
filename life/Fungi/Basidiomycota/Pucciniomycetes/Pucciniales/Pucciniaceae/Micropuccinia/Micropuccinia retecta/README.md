@@ -1,5 +1,4 @@
-Micropuccinia retecta (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia retecta (Syd. & P. Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

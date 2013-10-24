@@ -1,5 +1,4 @@
-Hadrotrichum triseti R. Sprague SPECIES
-=======
+# Hadrotrichum triseti R. Sprague SPECIES
 
 #### Status
 ACCEPTED

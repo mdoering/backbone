@@ -1,5 +1,4 @@
-Bryoria abietina (Bystrek) Bystrek SPECIES
-=======
+# Bryoria abietina (Bystrek) Bystrek SPECIES
 
 #### Status
 ACCEPTED

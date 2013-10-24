@@ -1,17 +1,16 @@
-Badhamia utricularis var. schimperiana Rostaf. VARIETY
-=======
+# Badhamia utricularis (Bull.) Berk., 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Badhamia utricularis var. schimperiana Rostaf.
+null
 
 ### Remarks
 null

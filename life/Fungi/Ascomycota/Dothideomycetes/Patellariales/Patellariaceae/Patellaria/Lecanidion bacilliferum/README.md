@@ -1,5 +1,4 @@
-Lecanidion bacilliferum (P. Karst.) E. Müll. SPECIES
-=======
+# Lecanidion bacilliferum (P. Karst.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

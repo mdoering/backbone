@@ -1,5 +1,4 @@
-Parmeliella papillata P.M. Jørg. SPECIES
-=======
+# Parmeliella papillata P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

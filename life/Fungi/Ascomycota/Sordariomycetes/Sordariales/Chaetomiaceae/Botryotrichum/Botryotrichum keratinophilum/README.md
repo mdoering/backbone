@@ -1,5 +1,4 @@
-Botryotrichum keratinophilum Kushwaha & S.C. Agarwal SPECIES
-=======
+# Botryotrichum keratinophilum Kushwaha & S.C. Agarwal SPECIES
 
 #### Status
 ACCEPTED

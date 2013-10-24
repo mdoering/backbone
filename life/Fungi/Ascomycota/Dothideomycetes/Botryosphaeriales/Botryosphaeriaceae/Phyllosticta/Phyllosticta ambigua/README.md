@@ -1,5 +1,4 @@
-Phyllosticta ambigua Scalia SPECIES
-=======
+# Phyllosticta ambigua Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fistulina Bulliard, 1791 GENUS
-=======
+# Fistulina Bulliard, 1791 GENUS
 
 #### Status
 ACCEPTED

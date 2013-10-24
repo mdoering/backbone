@@ -1,5 +1,4 @@
-Uredo scrophulariae Lasch SPECIES
-=======
+# Uredo scrophulariae Lasch SPECIES
 
 #### Status
 ACCEPTED

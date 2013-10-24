@@ -1,5 +1,4 @@
-Monodictys chlamydosporoidea H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Monodictys chlamydosporoidea H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria ameghinoi Speg. SPECIES
-=======
+# Armillaria ameghinoi Speg. SPECIES
 
 #### Status
 ACCEPTED

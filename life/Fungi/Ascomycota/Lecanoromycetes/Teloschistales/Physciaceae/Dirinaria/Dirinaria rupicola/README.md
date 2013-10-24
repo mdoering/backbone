@@ -1,5 +1,4 @@
-Dirinaria rupicola (Bagl.) C.W. Dodge SPECIES
-=======
+# Dirinaria rupicola (Bagl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia hirtissima Peck SPECIES
-=======
+# Tubercularia hirtissima Peck SPECIES
 
 #### Status
 ACCEPTED

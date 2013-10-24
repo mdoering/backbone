@@ -1,5 +1,4 @@
-Erysiphe mayumi (Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe mayumi (Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

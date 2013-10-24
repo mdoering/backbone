@@ -1,5 +1,4 @@
-Auriscalpium villipes (Lloyd) Snell & E.A. Dick, 1958 SPECIES
-=======
+# Auriscalpium villipes (Lloyd) Snell & E.A. Dick, 1958 SPECIES
 
 #### Status
 ACCEPTED

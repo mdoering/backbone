@@ -1,5 +1,4 @@
-Lambertella verrucosispora W.Y. Zhuang SPECIES
-=======
+# Lambertella verrucosispora W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paratrochammina harti Brönnimann & Whittaker, 1990 SPECIES
-=======
+# Paratrochammina harti Brönnimann & Whittaker, 1990 SPECIES
 
 #### Status
 ACCEPTED

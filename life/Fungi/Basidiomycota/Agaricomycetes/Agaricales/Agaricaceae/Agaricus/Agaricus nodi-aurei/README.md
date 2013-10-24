@@ -1,5 +1,4 @@
-Agaricus nodi-aurei With. SPECIES
-=======
+# Agaricus nodi-aurei With. SPECIES
 
 #### Status
 ACCEPTED

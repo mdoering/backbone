@@ -1,5 +1,4 @@
-Mycobacterium lepraemurium Marchoux and Sorel, 1912 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium lepraemurium Marchoux and Sorel, 1912 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samara helicia D.Dietr. SPECIES
-=======
+# Samara helicia D.Dietr. SPECIES
 
 #### Status
 ACCEPTED

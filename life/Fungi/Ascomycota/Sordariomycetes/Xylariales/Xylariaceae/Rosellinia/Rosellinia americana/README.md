@@ -1,5 +1,4 @@
-Rosellinia americana (Petr.) Rappaz SPECIES
-=======
+# Rosellinia americana (Petr.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

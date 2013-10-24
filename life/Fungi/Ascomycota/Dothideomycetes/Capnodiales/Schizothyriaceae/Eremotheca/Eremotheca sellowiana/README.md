@@ -1,5 +1,4 @@
-Eremotheca sellowiana Bat. & J.A. Lima SPECIES
-=======
+# Eremotheca sellowiana Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

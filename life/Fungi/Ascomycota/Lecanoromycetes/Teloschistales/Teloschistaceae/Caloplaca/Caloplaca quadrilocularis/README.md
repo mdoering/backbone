@@ -1,5 +1,4 @@
-Caloplaca quadrilocularis (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca quadrilocularis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

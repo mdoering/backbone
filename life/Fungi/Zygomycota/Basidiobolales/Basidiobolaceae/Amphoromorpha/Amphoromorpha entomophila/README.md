@@ -1,5 +1,4 @@
-Amphoromorpha entomophila Thaxt. SPECIES
-=======
+# Amphoromorpha entomophila Thaxt. SPECIES
 
 #### Status
 ACCEPTED

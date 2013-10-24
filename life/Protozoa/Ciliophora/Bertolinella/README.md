@@ -1,5 +1,4 @@
-Bertolinella Carpano, 1941 GENUS
-=======
+# Bertolinella Carpano, 1941 GENUS
 
 #### Status
 ACCEPTED

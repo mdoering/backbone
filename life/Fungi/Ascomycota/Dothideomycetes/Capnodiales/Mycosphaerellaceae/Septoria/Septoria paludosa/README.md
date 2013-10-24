@@ -1,5 +1,4 @@
-Septoria paludosa Kabát & Bubák SPECIES
-=======
+# Septoria paludosa Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

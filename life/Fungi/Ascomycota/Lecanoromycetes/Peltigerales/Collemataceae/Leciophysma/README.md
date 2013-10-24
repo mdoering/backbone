@@ -1,5 +1,4 @@
-Leciophysma Th. Fr. GENUS
-=======
+# Leciophysma Th. Fr. GENUS
 
 #### Status
 ACCEPTED

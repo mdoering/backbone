@@ -1,5 +1,4 @@
-Graphis subfulgurata Nyl. SPECIES
-=======
+# Graphis subfulgurata Nyl. SPECIES
 
 #### Status
 ACCEPTED

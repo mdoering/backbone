@@ -1,5 +1,4 @@
-Pleurotus resinaceus Bres. SPECIES
-=======
+# Pleurotus resinaceus Bres. SPECIES
 
 #### Status
 ACCEPTED

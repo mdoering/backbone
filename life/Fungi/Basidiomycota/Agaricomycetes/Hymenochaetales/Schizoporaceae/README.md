@@ -1,5 +1,4 @@
-Schizoporaceae FAMILY
-=======
+# Schizoporaceae FAMILY
 
 #### Status
 ACCEPTED

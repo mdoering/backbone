@@ -1,5 +1,4 @@
-Belonidium javense Höhn. SPECIES
-=======
+# Belonidium javense Höhn. SPECIES
 
 #### Status
 ACCEPTED

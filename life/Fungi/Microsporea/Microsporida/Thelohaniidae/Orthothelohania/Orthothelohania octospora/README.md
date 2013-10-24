@@ -1,5 +1,4 @@
-Orthothelohania octospora (Henneguy) Codreanu & Codreanu-Balcescu SPECIES
-=======
+# Orthothelohania octospora (Henneguy) Codreanu & Codreanu-Balcescu SPECIES
 
 #### Status
 ACCEPTED

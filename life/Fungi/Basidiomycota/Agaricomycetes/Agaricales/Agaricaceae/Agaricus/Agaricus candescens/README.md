@@ -1,5 +1,4 @@
-Agaricus candescens F. Muell. ex Berk. SPECIES
-=======
+# Agaricus candescens F. Muell. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

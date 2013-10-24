@@ -1,5 +1,4 @@
-Cordyceps clavata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps clavata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

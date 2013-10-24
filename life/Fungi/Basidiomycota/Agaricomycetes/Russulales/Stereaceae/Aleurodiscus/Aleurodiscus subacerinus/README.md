@@ -1,5 +1,4 @@
-Aleurodiscus subacerinus Höhn. & Litsch. SPECIES
-=======
+# Aleurodiscus subacerinus Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

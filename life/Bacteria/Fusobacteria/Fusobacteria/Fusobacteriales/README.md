@@ -1,5 +1,4 @@
-Fusobacteriales ORDER
-=======
+# Fusobacteriales ORDER
 
 #### Status
 ACCEPTED

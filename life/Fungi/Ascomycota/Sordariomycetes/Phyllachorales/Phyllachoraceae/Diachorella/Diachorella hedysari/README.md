@@ -1,5 +1,4 @@
-Diachorella hedysari (Scalia) Petr. SPECIES
-=======
+# Diachorella hedysari (Scalia) Petr. SPECIES
 
 #### Status
 ACCEPTED

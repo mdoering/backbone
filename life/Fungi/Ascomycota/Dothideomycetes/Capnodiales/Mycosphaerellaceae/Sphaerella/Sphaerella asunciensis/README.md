@@ -1,5 +1,4 @@
-Sphaerella asunciensis (Starbäck) Sacc. & Trotter SPECIES
-=======
+# Sphaerella asunciensis (Starbäck) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

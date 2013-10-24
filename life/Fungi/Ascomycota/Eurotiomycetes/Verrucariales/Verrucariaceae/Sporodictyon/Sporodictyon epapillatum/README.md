@@ -1,5 +1,4 @@
-Sporodictyon epapillatum (Nyl.) Trevis. SPECIES
-=======
+# Sporodictyon epapillatum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

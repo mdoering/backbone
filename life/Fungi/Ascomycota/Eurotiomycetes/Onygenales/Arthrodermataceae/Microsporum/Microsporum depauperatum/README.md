@@ -1,5 +1,4 @@
-Microsporum depauperatum Guég. SPECIES
-=======
+# Microsporum depauperatum Guég. SPECIES
 
 #### Status
 ACCEPTED

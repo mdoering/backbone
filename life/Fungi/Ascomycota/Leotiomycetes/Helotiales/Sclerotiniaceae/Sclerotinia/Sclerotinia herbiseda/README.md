@@ -1,5 +1,4 @@
-Sclerotinia herbiseda Velen. SPECIES
-=======
+# Sclerotinia herbiseda Velen. SPECIES
 
 #### Status
 ACCEPTED

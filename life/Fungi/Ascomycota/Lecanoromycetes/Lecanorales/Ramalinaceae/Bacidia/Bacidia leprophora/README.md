@@ -1,5 +1,4 @@
-Bacidia leprophora SPECIES
-=======
+# Bacidia leprophora SPECIES
 
 #### Status
 ACCEPTED

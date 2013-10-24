@@ -1,5 +1,4 @@
-Belonium hellebori Velen. SPECIES
-=======
+# Belonium hellebori Velen. SPECIES
 
 #### Status
 ACCEPTED

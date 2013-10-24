@@ -1,5 +1,4 @@
-Geopyxis nebulosoides Peck SPECIES
-=======
+# Geopyxis nebulosoides Peck SPECIES
 
 #### Status
 ACCEPTED

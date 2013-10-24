@@ -1,5 +1,4 @@
-Hendersonia crataegi Brenckle SPECIES
-=======
+# Hendersonia crataegi Brenckle SPECIES
 
 #### Status
 ACCEPTED

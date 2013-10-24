@@ -1,5 +1,4 @@
-Clypeothecium caesalpiniae R. Rao SPECIES
-=======
+# Clypeothecium caesalpiniae R. Rao SPECIES
 
 #### Status
 ACCEPTED

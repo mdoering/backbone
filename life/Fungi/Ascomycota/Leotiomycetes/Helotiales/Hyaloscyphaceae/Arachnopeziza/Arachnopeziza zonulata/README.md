@@ -1,5 +1,4 @@
-Arachnopeziza zonulata (Rolland) Malençon & Bertault SPECIES
-=======
+# Arachnopeziza zonulata (Rolland) Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

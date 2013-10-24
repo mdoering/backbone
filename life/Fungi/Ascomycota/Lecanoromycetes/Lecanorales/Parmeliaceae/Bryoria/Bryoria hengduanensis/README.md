@@ -1,5 +1,4 @@
-Bryoria hengduanensis Li S. Wang & H. Harada SPECIES
-=======
+# Bryoria hengduanensis Li S. Wang & H. Harada SPECIES
 
 #### Status
 ACCEPTED

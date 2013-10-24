@@ -1,5 +1,4 @@
-Zoothamnium belliformum Nenninger, 1948 SPECIES
-=======
+# Zoothamnium belliformum Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

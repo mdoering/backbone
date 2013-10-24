@@ -1,5 +1,4 @@
-Botryosphaeria aterrima (Fuckel) Sacc. SPECIES
-=======
+# Botryosphaeria aterrima (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

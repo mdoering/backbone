@@ -1,5 +1,4 @@
-Phragmothyrites kiandrensis Selkirk SPECIES
-=======
+# Phragmothyrites kiandrensis Selkirk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bolivina skagerrakensis Qvale & Nigam, 1985 SPECIES
-=======
+# Brizalina skagerrakensis (Qvale & Nigam, 1985) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

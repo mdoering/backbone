@@ -1,5 +1,4 @@
-Phaeostroma parasiticum Børgesen SPECIES
-=======
+# Phaeostroma parasiticum Børgesen SPECIES
 
 #### Status
 ACCEPTED

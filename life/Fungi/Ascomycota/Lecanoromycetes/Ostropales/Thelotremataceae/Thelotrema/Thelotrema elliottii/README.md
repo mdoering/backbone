@@ -1,5 +1,4 @@
-Thelotrema elliottii Vain. SPECIES
-=======
+# Thelotrema elliottii Vain. SPECIES
 
 #### Status
 ACCEPTED

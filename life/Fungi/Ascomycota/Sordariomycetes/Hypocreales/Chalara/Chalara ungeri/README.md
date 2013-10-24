@@ -1,14 +1,13 @@
-Thielaviopsis ungeri (Sacc.) A.E. Paulin, T.C. Harr. & McNew, 2002 SPECIES
-=======
+# Chalara ungeri Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 94(1): 70 (2002)
+Syll. fung. (Abellini) 4: 336 (1886)
 
 #### Original name
 Chalara ungeri Sacc., 1886

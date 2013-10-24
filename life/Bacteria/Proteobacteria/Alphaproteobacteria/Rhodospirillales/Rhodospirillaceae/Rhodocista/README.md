@@ -1,5 +1,4 @@
-Rhodocista Kawasaki et al., 1994 GENUS
-=======
+# Rhodocista Kawasaki et al., 1994 GENUS
 
 #### Status
 ACCEPTED

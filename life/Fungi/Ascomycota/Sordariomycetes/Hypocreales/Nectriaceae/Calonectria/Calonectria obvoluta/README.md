@@ -1,5 +1,4 @@
-Calonectria obvoluta (P. Karst.) Sacc. SPECIES
-=======
+# Calonectria obvoluta (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

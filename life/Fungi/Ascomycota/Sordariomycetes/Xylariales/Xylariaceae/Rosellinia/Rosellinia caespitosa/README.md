@@ -1,5 +1,4 @@
-Rosellinia caespitosa Starbäck SPECIES
-=======
+# Rosellinia caespitosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

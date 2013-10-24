@@ -1,5 +1,4 @@
-Ustilago sorghi-stipoidei L. Ling SPECIES
-=======
+# Ustilago sorghi-stipoidei L. Ling SPECIES
 
 #### Status
 ACCEPTED

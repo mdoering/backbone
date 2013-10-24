@@ -1,5 +1,4 @@
-Puccinia tshujensis Murashk. SPECIES
-=======
+# Puccinia tshujensis Murashk. SPECIES
 
 #### Status
 ACCEPTED

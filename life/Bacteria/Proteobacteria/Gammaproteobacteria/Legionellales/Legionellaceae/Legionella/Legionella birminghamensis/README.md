@@ -1,5 +1,4 @@
-Legionella birminghamensis Wilkinson et al., 1988 SPECIES
-=======
+# Legionella birminghamensis Wilkinson et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

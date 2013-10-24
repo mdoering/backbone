@@ -1,5 +1,4 @@
-Elsinoe ampelina Shear, 1929 SPECIES
-=======
+# Elsinoe ampelina Shear, 1929 SPECIES
 
 #### Status
 ACCEPTED

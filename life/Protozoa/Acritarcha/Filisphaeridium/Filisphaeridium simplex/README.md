@@ -1,5 +1,4 @@
-Filisphaeridium simplex Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium simplex Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

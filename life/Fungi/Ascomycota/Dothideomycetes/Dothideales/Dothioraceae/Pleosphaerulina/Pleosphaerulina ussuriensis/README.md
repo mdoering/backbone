@@ -1,5 +1,4 @@
-Pleosphaerulina ussuriensis Abramov SPECIES
-=======
+# Pleosphaerulina ussuriensis Abramov SPECIES
 
 #### Status
 ACCEPTED

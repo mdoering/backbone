@@ -1,5 +1,4 @@
-Suillellus austrinus (Singer) Murrill SPECIES
-=======
+# Suillellus austrinus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

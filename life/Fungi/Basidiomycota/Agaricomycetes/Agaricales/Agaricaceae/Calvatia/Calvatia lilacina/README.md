@@ -1,8 +1,7 @@
-Lycoperdon lilacinum (Mont. & Berk.) Speg., 1881 SPECIES
-=======
+# Calvatia lilacina (Berk. & Mont.) Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Micropuccinia hydrophylli (Peck & Clinton) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia hydrophylli (Peck & Clinton) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

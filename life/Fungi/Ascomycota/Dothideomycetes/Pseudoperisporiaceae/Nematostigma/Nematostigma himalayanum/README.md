@@ -1,17 +1,16 @@
-Nematostigma himalayana R.K. Verma & Kamal SPECIES
-=======
+# Nematostigma himalayanum R.K. Verma & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 40(4): 464 (1988)
 
 #### Original name
-Nematostigma himalayana R.K. Verma & Kamal
+Nematostigma himalayanum R.K. Verma & Kamal
 
 ### Remarks
 null

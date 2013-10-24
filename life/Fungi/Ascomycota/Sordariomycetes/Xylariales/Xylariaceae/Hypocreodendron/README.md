@@ -1,17 +1,16 @@
-Poroniopsis Speg. GENUS
-=======
+# Hypocreodendron Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Mus. La Plata 26: 171 (1922)
+Hedwigia 36: 223 (1897)
 
 #### Original name
-Poroniopsis Speg.
+Hypocreodendron Henn.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Candida ancudensis C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida petrohuensis C. Ramírez & A.E. González, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 88(2-3): 99 (1984)
 
 #### Original name
-null
+Candida petrohuensis C. Ramírez & A.E. González, 1984
 
 ### Remarks
 null

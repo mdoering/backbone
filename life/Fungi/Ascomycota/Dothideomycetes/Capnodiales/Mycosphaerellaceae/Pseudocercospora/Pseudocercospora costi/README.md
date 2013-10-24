@@ -1,5 +1,4 @@
-Pseudocercospora costi (F. Stevens) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora costi (F. Stevens) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

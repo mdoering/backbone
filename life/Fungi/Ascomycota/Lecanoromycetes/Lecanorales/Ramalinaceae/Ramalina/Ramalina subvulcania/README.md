@@ -1,5 +1,4 @@
-Ramalina subvulcania Werner SPECIES
-=======
+# Ramalina subvulcania Werner SPECIES
 
 #### Status
 ACCEPTED

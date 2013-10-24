@@ -1,5 +1,4 @@
-Zignoëlla mori (Fabre) Sacc. SPECIES
-=======
+# Zignoëlla mori (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

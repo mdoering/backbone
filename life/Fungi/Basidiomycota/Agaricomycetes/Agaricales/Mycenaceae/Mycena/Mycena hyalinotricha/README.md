@@ -1,5 +1,4 @@
-Mycena hyalinotricha Singer SPECIES
-=======
+# Mycena hyalinotricha Singer SPECIES
 
 #### Status
 ACCEPTED

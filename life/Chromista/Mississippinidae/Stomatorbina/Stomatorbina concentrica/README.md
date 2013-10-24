@@ -1,8 +1,7 @@
-Pulvinulina concentrica Parker & Jones, 1864 SPECIES
-=======
+# Stomatorbina concentrica (Parker & Jones, 1864) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

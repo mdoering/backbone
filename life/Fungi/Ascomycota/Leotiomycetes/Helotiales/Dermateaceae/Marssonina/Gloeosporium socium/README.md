@@ -1,5 +1,4 @@
-Gloeosporium socium Sacc. SPECIES
-=======
+# Gloeosporium socium Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta comoensis Delacr. SPECIES
-=======
+# Phyllosticta comoensis Delacr. SPECIES
 
 #### Status
 ACCEPTED

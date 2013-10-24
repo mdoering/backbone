@@ -1,5 +1,4 @@
-Phyllosticta liquidambaris-formosanae J.K. Bai & G.Z. Lu SPECIES
-=======
+# Phyllosticta liquidambaris-formosanae J.K. Bai & G.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

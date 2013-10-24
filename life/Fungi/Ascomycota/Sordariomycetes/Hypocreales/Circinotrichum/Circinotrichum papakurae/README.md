@@ -1,5 +1,4 @@
-Circinotrichum papakurae S. Hughes & Piroz., 1971 SPECIES
-=======
+# Circinotrichum papakurae S. Hughes & Piroz., 1971 SPECIES
 
 #### Status
 ACCEPTED

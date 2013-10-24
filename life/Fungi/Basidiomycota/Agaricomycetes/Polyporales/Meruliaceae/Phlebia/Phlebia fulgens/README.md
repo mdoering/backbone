@@ -1,5 +1,4 @@
-Phlebia fulgens Fr. SPECIES
-=======
+# Phlebia fulgens Fr. SPECIES
 
 #### Status
 ACCEPTED

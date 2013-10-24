@@ -1,17 +1,16 @@
-Cercospora puerario-thomsona S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora puerariae-thomsonii S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 11(3): 62 (1990)
 
 #### Original name
-Cercospora puerario-thomsona S.Q. Chen & P.K. Chi
+Cercospora puerariae-thomsonii S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

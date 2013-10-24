@@ -1,5 +1,4 @@
-Hydnum ikenoi Sacc. & D. Sacc. SPECIES
-=======
+# Hydnum ikenoi Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amoebidium poissoni Duboscq, L. Léger & Tuzet SPECIES
-=======
+# Amoebidium parasiticum Cienk., 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 19: 25 (1861)
 
 #### Original name
-Amoebidium poissoni Duboscq, L. Léger & Tuzet
+Amoebidium parasiticum Cienk., 1861
 
 ### Remarks
 null

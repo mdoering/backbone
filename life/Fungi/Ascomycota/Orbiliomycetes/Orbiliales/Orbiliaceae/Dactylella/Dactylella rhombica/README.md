@@ -1,5 +1,4 @@
-Dactylella rhombica Matsush. SPECIES
-=======
+# Dactylella rhombica Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius tinctorius Massee, 1898 SPECIES
-=======
+# Marasmius tinctorius Massee, 1898 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciella pallidella (Willey) Fink SPECIES
-=======
+# Caliciella pallidella (Willey) Fink SPECIES
 
 #### Status
 ACCEPTED

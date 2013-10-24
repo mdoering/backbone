@@ -1,5 +1,4 @@
-Sudzukiella Golemansky, 1991 GENUS
-=======
+# Sudzukiella Golemansky, 1991 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cupreobadia Nyl. SPECIES
-=======
+# Lecanora cupreobadia Nyl. SPECIES
 
 #### Status
 ACCEPTED

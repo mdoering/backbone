@@ -1,5 +1,4 @@
-Rectobolivina sydneyensis Goddard & Jensen SPECIES
-=======
+# Rectobolivina sydneyensis Goddard & Jensen SPECIES
 
 #### Status
 ACCEPTED

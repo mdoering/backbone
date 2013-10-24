@@ -1,5 +1,4 @@
-Puccinia axiniphylli Arthur SPECIES
-=======
+# Puccinia axiniphylli Arthur SPECIES
 
 #### Status
 ACCEPTED

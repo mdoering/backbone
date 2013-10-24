@@ -1,5 +1,4 @@
-Coniothyrium epidermidis Corda SPECIES
-=======
+# Coniothyrium epidermidis Corda SPECIES
 
 #### Status
 ACCEPTED

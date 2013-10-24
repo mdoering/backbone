@@ -1,5 +1,4 @@
-Tegumentum stradneri Thierstein in Roth & Thierstein, 1972 SPECIES
-=======
+# Tegumentum stradneri Thierstein in Roth & Thierstein, 1972 SPECIES
 
 #### Status
 ACCEPTED

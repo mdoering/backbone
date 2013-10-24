@@ -1,5 +1,4 @@
-Zaninettia manaarensis Brönnimann & Whittaker, 1983 SPECIES
-=======
+# Zaninettia manaarensis Brönnimann & Whittaker, 1983 SPECIES
 
 #### Status
 ACCEPTED

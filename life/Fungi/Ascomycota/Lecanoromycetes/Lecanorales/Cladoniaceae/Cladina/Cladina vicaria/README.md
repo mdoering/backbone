@@ -1,5 +1,4 @@
-Cladina vicaria (R. Sant.) C.W. Dodge SPECIES
-=======
+# Cladina vicaria (R. Sant.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

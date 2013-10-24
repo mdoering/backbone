@@ -1,5 +1,4 @@
-Odontia paulensis Syd. & P. Syd. SPECIES
-=======
+# Odontia paulensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

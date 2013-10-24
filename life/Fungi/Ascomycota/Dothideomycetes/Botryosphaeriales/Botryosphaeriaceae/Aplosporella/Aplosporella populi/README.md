@@ -1,5 +1,4 @@
-Aplosporella populi (Ellis & Barthol.) Petr. & Syd. SPECIES
-=======
+# Aplosporella populi (Ellis & Barthol.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

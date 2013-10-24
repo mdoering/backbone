@@ -1,5 +1,4 @@
-Graphis spodoplaca Zahlbr. SPECIES
-=======
+# Graphis spodoplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

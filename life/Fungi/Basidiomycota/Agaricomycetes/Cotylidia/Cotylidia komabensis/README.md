@@ -1,17 +1,16 @@
-Stereum albidum Lloyd, 1916 SPECIES
-=======
+# Cotylidia komabensis (Henn.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4: 555 (1916)
+Beih. Nova Hedwigia 18: 77 (1965)
 
 #### Original name
-Stereum albidum Lloyd, 1916
+Thelephora komabensis Henn., 1902
 
 ### Remarks
 null

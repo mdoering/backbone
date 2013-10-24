@@ -1,5 +1,4 @@
-Aulacoseira fennoscandica (A. Cleve-Euler) R. Ross SPECIES
-=======
+# Aulacoseira fennoscandica (A. Cleve-Euler) R. Ross SPECIES
 
 #### Status
 ACCEPTED

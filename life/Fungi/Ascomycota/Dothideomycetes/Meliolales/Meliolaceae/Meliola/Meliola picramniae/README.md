@@ -1,5 +1,4 @@
-Meliola picramniae Hansf. SPECIES
-=======
+# Meliola picramniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

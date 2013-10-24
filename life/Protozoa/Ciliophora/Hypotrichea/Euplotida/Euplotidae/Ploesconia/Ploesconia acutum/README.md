@@ -1,5 +1,4 @@
-Ploesconia acutum SPECIES
-=======
+# Ploesconia acutum SPECIES
 
 #### Status
 ACCEPTED

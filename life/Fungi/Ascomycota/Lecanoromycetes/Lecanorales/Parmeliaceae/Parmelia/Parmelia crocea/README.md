@@ -1,5 +1,4 @@
-Parmelia crocea (Lynge) Gyeln. SPECIES
-=======
+# Parmelia crocea (Lynge) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

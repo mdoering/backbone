@@ -1,5 +1,4 @@
-Maireina regnelliana W.B. Cooke SPECIES
-=======
+# Maireina regnelliana W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

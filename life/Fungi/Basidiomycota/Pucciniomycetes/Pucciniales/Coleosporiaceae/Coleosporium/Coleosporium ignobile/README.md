@@ -1,5 +1,4 @@
-Coleosporium ignobile Speg. SPECIES
-=======
+# Coleosporium ignobile Speg. SPECIES
 
 #### Status
 ACCEPTED

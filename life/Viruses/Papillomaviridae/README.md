@@ -1,5 +1,4 @@
-Papillomaviridae FAMILY
-=======
+# Papillomaviridae FAMILY
 
 #### Status
 ACCEPTED

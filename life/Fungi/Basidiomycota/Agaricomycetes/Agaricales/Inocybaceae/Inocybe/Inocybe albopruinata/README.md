@@ -1,5 +1,4 @@
-Inocybe albopruinata Herp. SPECIES
-=======
+# Inocybe albopruinata Herp. SPECIES
 
 #### Status
 ACCEPTED

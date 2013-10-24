@@ -1,5 +1,4 @@
-Ramularia baccharidis (Ellis & Everh.) U. Braun SPECIES
-=======
+# Ramularia baccharidis (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

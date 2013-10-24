@@ -1,8 +1,7 @@
-Penicillium clavigerum Demelius, 1923 SPECIES
-=======
+# Penicillium duclauxii Delacr., 1892 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

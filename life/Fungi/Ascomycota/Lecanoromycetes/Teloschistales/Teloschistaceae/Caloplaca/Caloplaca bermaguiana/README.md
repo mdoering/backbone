@@ -1,5 +1,4 @@
-Caloplaca bermaguiana S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca bermaguiana S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia ceanothi Ellis & Barthol., 1946 SPECIES
-=======
+# Diplodia ceanothi Ellis & Barthol., 1946 SPECIES
 
 #### Status
 ACCEPTED

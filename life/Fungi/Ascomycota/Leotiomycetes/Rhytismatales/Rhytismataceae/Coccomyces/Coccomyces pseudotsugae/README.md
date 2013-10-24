@@ -1,5 +1,4 @@
-Coccomyces pseudotsugae A. Funk, 1975 SPECIES
-=======
+# Coccomyces pseudotsugae A. Funk, 1975 SPECIES
 
 #### Status
 ACCEPTED

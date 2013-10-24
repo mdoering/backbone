@@ -1,17 +1,16 @@
-Fomes bossardi Lloyd SPECIES
-=======
+# Fomes bossardii Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Bretonne Bot. 18: 67 (1923)
 
 #### Original name
-Fomes bossardi Lloyd
+Fomes bossardii Lloyd
 
 ### Remarks
 null

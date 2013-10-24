@@ -1,5 +1,4 @@
-Triceratium sundbyense Hustedt ex R. Simonsen SPECIES
-=======
+# Triceratium sundbyense Hustedt ex R. Simonsen SPECIES
 
 #### Status
 ACCEPTED

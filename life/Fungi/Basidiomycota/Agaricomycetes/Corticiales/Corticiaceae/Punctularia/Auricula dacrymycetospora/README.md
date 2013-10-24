@@ -1,17 +1,16 @@
-Auricula dacryomycetospora (Speg.) Rick SPECIES
-=======
+# Auricula dacrymycetospora (Speg.) Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Egatea 18: 215 (1933)
 
 #### Original name
-Hirneola dacryomycetospora Speg.
+Hirneola dacrymycetospora Speg.
 
 ### Remarks
 null

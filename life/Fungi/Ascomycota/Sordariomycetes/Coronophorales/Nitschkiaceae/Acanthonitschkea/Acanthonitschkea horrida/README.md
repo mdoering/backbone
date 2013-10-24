@@ -1,5 +1,4 @@
-Acanthonitschkea horrida (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Acanthonitschkea horrida (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

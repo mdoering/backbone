@@ -1,5 +1,4 @@
-Huea cerussata (Hue) C.W. Dodge & G.E. Baker SPECIES
-=======
+# Huea cerussata (Hue) C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

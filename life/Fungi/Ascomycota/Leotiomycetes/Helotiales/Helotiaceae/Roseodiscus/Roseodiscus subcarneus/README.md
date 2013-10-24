@@ -1,14 +1,13 @@
-Phialea subcarnea (Cooke & Peck) Sacc., 1889 SPECIES
-=======
+# Roseodiscus subcarneus (Sacc.) Baral, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Baral & Krieglsteiner, Acta Mycologica, Warszawa 41(1): 17 (2006)
 
 #### Original name
 null

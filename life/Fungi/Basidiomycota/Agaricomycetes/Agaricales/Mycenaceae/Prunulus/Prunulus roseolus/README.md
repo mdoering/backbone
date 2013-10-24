@@ -1,5 +1,4 @@
-Prunulus roseolus Murrill SPECIES
-=======
+# Prunulus roseolus Murrill SPECIES
 
 #### Status
 ACCEPTED

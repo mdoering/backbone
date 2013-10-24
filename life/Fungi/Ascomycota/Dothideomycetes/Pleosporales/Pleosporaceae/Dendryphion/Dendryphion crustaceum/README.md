@@ -1,5 +1,4 @@
-Dendryphion crustaceum Ellis & Everh. SPECIES
-=======
+# Dendryphion crustaceum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

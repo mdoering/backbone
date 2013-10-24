@@ -1,5 +1,4 @@
-Enteromyxa cerebrina Ces. SPECIES
-=======
+# Enteromyxa cerebrina Ces. SPECIES
 
 #### Status
 ACCEPTED

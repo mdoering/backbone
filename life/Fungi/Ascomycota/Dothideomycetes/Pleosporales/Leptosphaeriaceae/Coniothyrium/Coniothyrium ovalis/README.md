@@ -1,5 +1,4 @@
-Coniothyrium ovalis (Cooke & Harkn.) Tassi SPECIES
-=======
+# Coniothyrium ovalis (Cooke & Harkn.) Tassi SPECIES
 
 #### Status
 ACCEPTED

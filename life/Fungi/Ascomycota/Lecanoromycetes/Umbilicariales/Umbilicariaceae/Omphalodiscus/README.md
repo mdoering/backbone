@@ -1,5 +1,4 @@
-Omphalodiscus GENUS
-=======
+# Omphalodiscus GENUS
 
 #### Status
 ACCEPTED

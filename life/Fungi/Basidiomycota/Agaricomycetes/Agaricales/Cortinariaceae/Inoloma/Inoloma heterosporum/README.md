@@ -1,5 +1,4 @@
-Inoloma heterosporum Velen. SPECIES
-=======
+# Inoloma heterosporum Velen. SPECIES
 
 #### Status
 ACCEPTED

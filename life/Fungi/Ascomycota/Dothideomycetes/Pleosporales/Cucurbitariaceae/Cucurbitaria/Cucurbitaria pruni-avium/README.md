@@ -1,5 +1,4 @@
-Cucurbitaria pruni-avium Allesch. SPECIES
-=======
+# Cucurbitaria pruni-avium Allesch. SPECIES
 
 #### Status
 ACCEPTED

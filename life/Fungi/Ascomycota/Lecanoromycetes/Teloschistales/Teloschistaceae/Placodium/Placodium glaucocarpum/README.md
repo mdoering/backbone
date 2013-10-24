@@ -1,5 +1,4 @@
-Placodium glaucocarpum (Ach.) Müll. Arg. SPECIES
-=======
+# Placodium glaucocarpum (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

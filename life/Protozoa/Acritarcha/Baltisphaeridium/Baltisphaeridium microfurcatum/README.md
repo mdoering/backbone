@@ -1,5 +1,4 @@
-Baltisphaeridium microfurcatum SPECIES
-=======
+# Baltisphaeridium microfurcatum SPECIES
 
 #### Status
 ACCEPTED

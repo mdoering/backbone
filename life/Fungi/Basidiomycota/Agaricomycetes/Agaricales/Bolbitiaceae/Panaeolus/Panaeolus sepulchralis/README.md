@@ -1,14 +1,13 @@
-Panaeolus sepulcralis (Berk.) Sacc. SPECIES
-=======
+# Panaeolus sepulchralis (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 1119 (1887)
 
 #### Original name
 Agaricus sepulchralis Berk.

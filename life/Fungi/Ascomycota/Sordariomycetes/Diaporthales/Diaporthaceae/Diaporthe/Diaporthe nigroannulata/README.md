@@ -1,5 +1,4 @@
-Diaporthe nigroannulata Kunze SPECIES
-=======
+# Diaporthe nigroannulata Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Farinaria alba Sowerby SPECIES
-=======
+# Farinaria alba Sowerby SPECIES
 
 #### Status
 ACCEPTED

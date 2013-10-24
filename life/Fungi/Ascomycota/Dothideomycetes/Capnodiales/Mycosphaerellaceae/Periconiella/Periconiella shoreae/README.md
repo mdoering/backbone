@@ -1,5 +1,4 @@
-Periconiella shoreae C. Gupta, Abbasi & Kamal SPECIES
-=======
+# Periconiella shoreae C. Gupta, Abbasi & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodiella cocculi Sousa da Câmara SPECIES
-=======
+# Diplodiella cocculi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

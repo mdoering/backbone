@@ -1,5 +1,4 @@
-Periptygma lunothalamia Arnold, 1978 SPECIES
-=======
+# Periptygma lunothalamia Arnold, 1978 SPECIES
 
 #### Status
 ACCEPTED

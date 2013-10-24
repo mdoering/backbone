@@ -1,11 +1,10 @@
-Rhodorrhagus spheroides (van Niel) Brisou, 1955 SPECIES
-=======
+# Rhodobacter sphaeroides (van Niel, 1944) Imhoff et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

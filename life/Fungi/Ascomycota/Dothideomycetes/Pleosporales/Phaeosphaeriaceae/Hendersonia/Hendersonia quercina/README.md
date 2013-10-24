@@ -1,5 +1,4 @@
-Hendersonia quercina f. viminis Rolland & Fautrey FORM
-=======
+# Hendersonia quercina Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Revue mycol. , Toulouse 16: 73 (1894)
+null
 
 #### Original name
-Hendersonia quercina f. viminis Rolland & Fautrey
+Hendersonia quercina Sacc.
 
 ### Remarks
 null

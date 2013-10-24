@@ -1,5 +1,4 @@
-Polyblastia sprucei (Anzi) Arnold SPECIES
-=======
+# Polyblastia sprucei (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

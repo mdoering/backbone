@@ -1,5 +1,4 @@
-Placodium subvitellinulum (Vain.) Räsänen SPECIES
-=======
+# Placodium subvitellinulum (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sacidium umbilicatum Fr. SPECIES
-=======
+# Sacidium umbilicatum Fr. SPECIES
 
 #### Status
 ACCEPTED

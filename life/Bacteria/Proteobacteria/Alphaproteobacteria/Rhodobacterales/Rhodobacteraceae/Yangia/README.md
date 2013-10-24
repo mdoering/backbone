@@ -1,5 +1,4 @@
-Yangia Dai et al., 2006 GENUS
-=======
+# Yangia Dai et al., 2006 GENUS
 
 #### Status
 ACCEPTED

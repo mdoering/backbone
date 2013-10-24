@@ -1,5 +1,4 @@
-Tricholoma flavifolium Velen. SPECIES
-=======
+# Tricholoma flavifolium Velen. SPECIES
 
 #### Status
 ACCEPTED

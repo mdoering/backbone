@@ -1,5 +1,4 @@
-Phlyctidia brasiliensis (Nyl.) Müll. Arg. SPECIES
-=======
+# Phlyctidia brasiliensis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

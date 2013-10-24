@@ -1,5 +1,4 @@
-Orbilia flexispora Spooner SPECIES
-=======
+# Orbilia flexispora Spooner SPECIES
 
 #### Status
 ACCEPTED

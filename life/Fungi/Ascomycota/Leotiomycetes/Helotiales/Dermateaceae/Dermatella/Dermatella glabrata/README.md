@@ -1,5 +1,4 @@
-Dermatella glabrata (Sacc.) Höhn. SPECIES
-=======
+# Dermatella glabrata (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora opuntiae Ellis & Everh. SPECIES
-=======
+# Teichospora opuntiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

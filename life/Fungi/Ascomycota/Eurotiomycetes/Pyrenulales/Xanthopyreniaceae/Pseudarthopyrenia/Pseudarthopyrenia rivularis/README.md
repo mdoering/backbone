@@ -1,5 +1,4 @@
-Pseudarthopyrenia rivularis Servít SPECIES
-=======
+# Pseudarthopyrenia rivularis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora xylopiae Viégas & Chupp SPECIES
-=======
+# Cercospora xylopiae Viégas & Chupp SPECIES
 
 #### Status
 ACCEPTED

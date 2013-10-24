@@ -1,5 +1,4 @@
-Rhodophyllus subgoniosporus (Speg.) Singer SPECIES
-=======
+# Rhodophyllus subgoniosporus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

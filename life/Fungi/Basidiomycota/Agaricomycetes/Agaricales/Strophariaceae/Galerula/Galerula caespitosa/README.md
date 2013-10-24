@@ -1,5 +1,4 @@
-Galerula caespitosa Murrill SPECIES
-=======
+# Galerula caespitosa Murrill SPECIES
 
 #### Status
 ACCEPTED

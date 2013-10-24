@@ -1,5 +1,4 @@
-Astrocystis Berk. & Broome GENUS
-=======
+# Astrocystis Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

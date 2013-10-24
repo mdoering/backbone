@@ -1,5 +1,4 @@
-Ceratostoma asininum Bat. & Pontual SPECIES
-=======
+# Ceratostoma asininum Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

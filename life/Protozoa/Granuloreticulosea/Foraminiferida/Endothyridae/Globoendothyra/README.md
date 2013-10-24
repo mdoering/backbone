@@ -1,5 +1,4 @@
-Globoendothyra Reitlinger, 1959 GENUS
-=======
+# Globoendothyra Reitlinger, 1959 GENUS
 
 #### Status
 ACCEPTED

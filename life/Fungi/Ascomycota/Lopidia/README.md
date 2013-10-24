@@ -1,5 +1,4 @@
-Lopidia Vezda GENUS
-=======
+# Lopidia Vezda GENUS
 
 #### Status
 ACCEPTED

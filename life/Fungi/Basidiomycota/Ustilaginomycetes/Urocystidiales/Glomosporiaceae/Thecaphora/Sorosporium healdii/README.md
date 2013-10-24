@@ -1,5 +1,4 @@
-Sorosporium healdii Zundel SPECIES
-=======
+# Sorosporium healdii Zundel SPECIES
 
 #### Status
 ACCEPTED

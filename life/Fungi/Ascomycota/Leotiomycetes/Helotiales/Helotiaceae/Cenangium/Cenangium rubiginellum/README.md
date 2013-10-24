@@ -1,5 +1,4 @@
-Cenangium rubiginellum Sacc. SPECIES
-=======
+# Cenangium rubiginellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reinekea Romanenko, Schumann, Rohde, Mikhailov & Stackebrandt, 2004 GENUS
-=======
+# Reinekea Romanenko, Schumann, Rohde, Mikhailov & Stackebrandt, 2004 GENUS
 
 #### Status
 ACCEPTED

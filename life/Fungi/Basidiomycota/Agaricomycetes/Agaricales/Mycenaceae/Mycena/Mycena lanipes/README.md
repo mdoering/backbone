@@ -1,5 +1,4 @@
-Mycena lanipes Maas Geest. & E. Horak SPECIES
-=======
+# Mycena lanipes Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

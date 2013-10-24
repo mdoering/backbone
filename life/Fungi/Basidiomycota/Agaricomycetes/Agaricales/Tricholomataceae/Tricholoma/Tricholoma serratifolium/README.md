@@ -1,5 +1,4 @@
-Tricholoma serratifolium Peck SPECIES
-=======
+# Tricholoma serratifolium Peck SPECIES
 
 #### Status
 ACCEPTED

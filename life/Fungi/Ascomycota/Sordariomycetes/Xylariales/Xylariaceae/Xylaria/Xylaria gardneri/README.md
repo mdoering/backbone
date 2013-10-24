@@ -1,5 +1,4 @@
-Xylaria gardneri var. minor Sacc. VARIETY
-=======
+# Xylaria gardneri Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria gardneri var. minor Sacc.
+Xylaria gardneri Berk.
 
 ### Remarks
 null

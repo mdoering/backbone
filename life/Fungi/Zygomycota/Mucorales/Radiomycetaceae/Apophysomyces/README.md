@@ -1,5 +1,4 @@
-Apophysomyces P.C. Misra GENUS
-=======
+# Apophysomyces P.C. Misra GENUS
 
 #### Status
 ACCEPTED

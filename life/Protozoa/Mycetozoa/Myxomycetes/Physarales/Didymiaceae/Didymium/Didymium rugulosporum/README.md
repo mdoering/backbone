@@ -1,5 +1,4 @@
-Didymium rugulosporum Kowalski, 1969 SPECIES
-=======
+# Didymium rugulosporum Kowalski, 1969 SPECIES
 
 #### Status
 ACCEPTED

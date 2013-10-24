@@ -1,5 +1,4 @@
-Hyalina Boudier, 1885 GENUS
-=======
+# Hyalina Boudier, 1885 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polymorphina lanceolata Reuss, 1851 SPECIES
-=======
+# Polymorphina lanceolata Reuss, 1851 SPECIES
 
 #### Status
 ACCEPTED

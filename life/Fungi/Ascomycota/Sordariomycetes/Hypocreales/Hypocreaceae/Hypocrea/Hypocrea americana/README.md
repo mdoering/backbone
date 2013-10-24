@@ -1,14 +1,13 @@
-Hypocrea citrina var. americana Canham, 1969 VARIETY
-=======
+# Hypocrea americana (Canham) Overton, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 61: 320 (1969)
+in Overton, Stewart, Geiser & Jaklitsch, Stud. Mycol. 56: 21 (2006)
 
 #### Original name
 Hypocrea citrina var. americana Canham, 1969

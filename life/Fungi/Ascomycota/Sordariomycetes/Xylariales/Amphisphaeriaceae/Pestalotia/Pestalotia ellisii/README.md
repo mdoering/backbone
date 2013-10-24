@@ -1,5 +1,4 @@
-Pestalotia ellisii Sacc. & P. Syd. SPECIES
-=======
+# Pestalotia ellisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amylovorax Cameron & O'Donoghue, 2002 GENUS
-=======
+# Amylovorax Cameron & O'Donoghue, 2002 GENUS
 
 #### Status
 ACCEPTED

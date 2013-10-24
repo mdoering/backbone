@@ -1,5 +1,4 @@
-Phyllosticta porteana Sacc. SPECIES
-=======
+# Phyllosticta porteana Sacc. SPECIES
 
 #### Status
 ACCEPTED

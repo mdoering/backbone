@@ -1,5 +1,4 @@
-Clitocybe glacialis Redhead, Ammirati, Norvell & M.T. Seidl SPECIES
-=======
+# Clitocybe glacialis Redhead, Ammirati, Norvell & M.T. Seidl SPECIES
 
 #### Status
 ACCEPTED

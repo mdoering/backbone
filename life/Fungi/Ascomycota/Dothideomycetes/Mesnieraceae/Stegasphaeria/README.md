@@ -1,5 +1,4 @@
-Stegasphaeria Syd. & P. Syd. GENUS
-=======
+# Stegasphaeria Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

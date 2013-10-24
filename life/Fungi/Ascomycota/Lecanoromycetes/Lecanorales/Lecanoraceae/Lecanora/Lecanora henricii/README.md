@@ -1,8 +1,7 @@
-Lecanora henrici (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora henricii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

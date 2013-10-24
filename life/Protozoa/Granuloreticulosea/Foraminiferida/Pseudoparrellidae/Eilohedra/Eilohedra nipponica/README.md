@@ -1,5 +1,4 @@
-Eilohedra nipponica Kuwano, 1962 SPECIES
-=======
+# Eilohedra nipponica Kuwano, 1962 SPECIES
 
 #### Status
 ACCEPTED

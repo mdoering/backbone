@@ -1,8 +1,7 @@
-Massartia schilleri Woloszynska SPECIES
-=======
+# Katodinium schilleri (Woloszynska) A.R. Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

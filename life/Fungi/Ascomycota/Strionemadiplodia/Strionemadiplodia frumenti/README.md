@@ -1,5 +1,4 @@
-Strionemadiplodia frumenti (Ellis & Everh.) Zambett. SPECIES
-=======
+# Strionemadiplodia frumenti (Ellis & Everh.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

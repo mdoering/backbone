@@ -1,5 +1,4 @@
-Pyrrhospora chlororphnia (Tuck.) Aptroot & Seaward SPECIES
-=======
+# Pyrrhospora chlororphnia (Tuck.) Aptroot & Seaward SPECIES
 
 #### Status
 ACCEPTED

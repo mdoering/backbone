@@ -1,5 +1,4 @@
-Pycnothera N.D. Sharma & G.P. Agarwal GENUS
-=======
+# Pycnothera N.D. Sharma & G.P. Agarwal GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella tabaci (Maubl.) Tomilin SPECIES
-=======
+# Mycosphaerella tabaci (Maubl.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

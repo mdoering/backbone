@@ -1,5 +1,4 @@
-Polyporus brisbanensis Berk. & Broome ex Cooke SPECIES
-=======
+# Polyporus brisbanensis Berk. & Broome ex Cooke SPECIES
 
 #### Status
 ACCEPTED

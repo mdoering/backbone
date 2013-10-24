@@ -1,5 +1,4 @@
-Galerina alutacea A.E. Wood SPECIES
-=======
+# Galerina alutacea A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

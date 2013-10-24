@@ -1,5 +1,4 @@
-Psilolechia leprosa Coppins & Purvis SPECIES
-=======
+# Psilolechia leprosa Coppins & Purvis SPECIES
 
 #### Status
 ACCEPTED

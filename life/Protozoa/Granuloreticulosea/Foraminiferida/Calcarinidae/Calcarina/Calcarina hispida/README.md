@@ -1,5 +1,4 @@
-Calcarina hispida Brady SPECIES
-=======
+# Calcarina hispida Brady SPECIES
 
 #### Status
 ACCEPTED

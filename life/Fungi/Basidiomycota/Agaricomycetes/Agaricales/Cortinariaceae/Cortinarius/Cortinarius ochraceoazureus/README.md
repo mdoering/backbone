@@ -1,5 +1,4 @@
-Cortinarius ochraceoazureus (E. Horak) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius ochraceoazureus (E. Horak) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

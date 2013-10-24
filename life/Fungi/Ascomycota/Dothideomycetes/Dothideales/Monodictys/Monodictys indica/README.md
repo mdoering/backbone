@@ -1,5 +1,4 @@
-Monodictys indica S.M. Singh & Barde SPECIES
-=======
+# Monodictys indica S.M. Singh & Barde SPECIES
 
 #### Status
 ACCEPTED

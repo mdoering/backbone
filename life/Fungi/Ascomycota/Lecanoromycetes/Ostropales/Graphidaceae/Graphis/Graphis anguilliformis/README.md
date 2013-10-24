@@ -1,5 +1,4 @@
-Graphis anguilliformis Taylor SPECIES
-=======
+# Graphis anguilliformis Taylor SPECIES
 
 #### Status
 ACCEPTED

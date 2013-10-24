@@ -1,17 +1,16 @@
-Phialosimplex sclerotialis (W. Gams & Breton) Sigler, 2010 SPECIES
-=======
+# Sagenomella sclerotialis W. Gams & Breton, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Persoonia 10(1): 109 (1978)
 
 #### Original name
-null
+Sagenomella sclerotialis W. Gams & Breton, 1978
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Salinibacterium Han et al., 2003 GENUS
-=======
+# Salinibacterium Han et al., 2003 GENUS
 
 #### Status
 ACCEPTED

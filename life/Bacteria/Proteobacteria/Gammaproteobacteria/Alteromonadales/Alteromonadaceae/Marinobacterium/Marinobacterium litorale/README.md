@@ -1,5 +1,4 @@
-Marinobacterium litorale Kim, Choo, Song, Lee, Lee & Cho, 2007 SPECIES
-=======
+# Marinobacterium litorale Kim, Choo, Song, Lee, Lee & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

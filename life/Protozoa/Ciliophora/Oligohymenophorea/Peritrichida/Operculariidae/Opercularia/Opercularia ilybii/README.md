@@ -1,5 +1,4 @@
-Opercularia ilybii SPECIES
-=======
+# Opercularia ilybii SPECIES
 
 #### Status
 ACCEPTED

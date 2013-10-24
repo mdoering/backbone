@@ -1,5 +1,4 @@
-Aleurodiscus albidus Massee ex Cooke SPECIES
-=======
+# Aleurodiscus albidus Massee ex Cooke SPECIES
 
 #### Status
 ACCEPTED

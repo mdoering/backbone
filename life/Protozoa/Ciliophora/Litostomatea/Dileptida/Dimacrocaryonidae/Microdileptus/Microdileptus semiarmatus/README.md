@@ -1,5 +1,4 @@
-Microdileptus semiarmatus (Vdacny & Foissner, 2008) Vdacny & Foissner, 2011 SPECIES
-=======
+# Microdileptus semiarmatus (Vdacny & Foissner, 2008) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

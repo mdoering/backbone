@@ -1,5 +1,4 @@
-Fusoma sambucinum Naumov SPECIES
-=======
+# Fusoma sambucinum Naumov SPECIES
 
 #### Status
 ACCEPTED

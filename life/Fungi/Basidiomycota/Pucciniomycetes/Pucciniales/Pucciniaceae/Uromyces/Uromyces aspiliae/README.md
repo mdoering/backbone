@@ -1,5 +1,4 @@
-Uromyces aspiliae H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces aspiliae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

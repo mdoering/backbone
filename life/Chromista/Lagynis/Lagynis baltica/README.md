@@ -1,5 +1,4 @@
-Lagynis baltica Schultze, 1854 SPECIES
-=======
+# Lagynis baltica Schultze, 1854 SPECIES
 
 #### Status
 ACCEPTED

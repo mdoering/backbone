@@ -1,5 +1,4 @@
-Chondrospora GENUS
-=======
+# Chondrospora GENUS
 
 #### Status
 ACCEPTED

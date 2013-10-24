@@ -1,5 +1,4 @@
-Buellia inquilina Tuck. SPECIES
-=======
+# Buellia inquilina Tuck. SPECIES
 
 #### Status
 ACCEPTED

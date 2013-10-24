@@ -1,17 +1,16 @@
-Gloeoporus nigrescens var. microsporus Corner VARIETY
-=======
+# Gloeoporus nigrescens Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 53 (1989)
+Beih. Nova Hedwigia 96: 52 (1989)
 
 #### Original name
-Gloeoporus nigrescens var. microsporus Corner
+Gloeoporus nigrescens Corner, 1989
 
 ### Remarks
 null

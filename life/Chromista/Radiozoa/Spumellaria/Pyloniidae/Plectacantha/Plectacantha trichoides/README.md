@@ -1,5 +1,4 @@
-Plectacantha trichoides Jorgensen, 1905 SPECIES
-=======
+# Plectacantha trichoides Jorgensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

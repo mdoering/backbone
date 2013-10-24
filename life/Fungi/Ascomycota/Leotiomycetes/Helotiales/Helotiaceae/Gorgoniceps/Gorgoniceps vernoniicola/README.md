@@ -1,5 +1,4 @@
-Gorgoniceps vernoniicola (Henn.) Bat. SPECIES
-=======
+# Gorgoniceps vernoniicola (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

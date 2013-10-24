@@ -1,5 +1,4 @@
-Puccinia luxuriosa P. Syd. & Syd. SPECIES
-=======
+# Puccinia luxuriosa P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

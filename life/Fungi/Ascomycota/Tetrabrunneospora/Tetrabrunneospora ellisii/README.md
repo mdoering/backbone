@@ -1,5 +1,4 @@
-Tetrabrunneospora ellisii Dyko, 1978 SPECIES
-=======
+# Tetrabrunneospora ellisii Dyko, 1978 SPECIES
 
 #### Status
 ACCEPTED

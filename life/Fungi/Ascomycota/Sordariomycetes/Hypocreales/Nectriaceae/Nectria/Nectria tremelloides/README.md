@@ -1,5 +1,4 @@
-Nectria tremelloides Ellis & Everh. SPECIES
-=======
+# Nectria tremelloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

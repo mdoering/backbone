@@ -1,14 +1,13 @@
-Nephroma gyelniki (Räsänen) I.M. Lamb SPECIES
-=======
+# Nephroma gyelnikii (Räsänen) I.M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+An. Parques Nac. , Buenos Aires 7: 81 (1959)
 
 #### Original name
 Opisteria homanii var. gyelnikii Räsänen

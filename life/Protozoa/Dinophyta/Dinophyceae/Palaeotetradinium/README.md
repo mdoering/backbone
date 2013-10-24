@@ -1,14 +1,13 @@
-Inversidinium D.M. McLean, 1973 GENUS
-=======
+# Palaeotetradinium G. Deflandre, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Palaeontology 16: 730.
+null
 
 #### Original name
 null

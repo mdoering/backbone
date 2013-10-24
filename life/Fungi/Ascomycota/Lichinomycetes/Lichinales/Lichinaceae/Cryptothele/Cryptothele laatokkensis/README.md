@@ -1,14 +1,13 @@
-Cryptothele laatokkaënsis (Vain.) Henssen SPECIES
-=======
+# Cryptothele laatokkensis (Vain.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Henssen & Jørgensen, Lichenologist 22(2): 139 (1990)
 
 #### Original name
 Malmgrenia laatokkensis Vain.

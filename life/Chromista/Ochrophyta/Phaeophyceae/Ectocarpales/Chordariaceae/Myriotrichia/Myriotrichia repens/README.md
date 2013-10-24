@@ -1,8 +1,7 @@
-Dichosporangium repens (Hauck) Hauck SPECIES
-=======
+# Myriotrichia repens Hauck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

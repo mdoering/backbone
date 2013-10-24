@@ -1,5 +1,4 @@
-Agaricus hyalodepas Berk. & Broome SPECIES
-=======
+# Agaricus hyalodepas Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

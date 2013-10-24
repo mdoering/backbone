@@ -1,5 +1,4 @@
-Menispora orthospora Sacc. & Fautrey SPECIES
-=======
+# Menispora orthospora Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

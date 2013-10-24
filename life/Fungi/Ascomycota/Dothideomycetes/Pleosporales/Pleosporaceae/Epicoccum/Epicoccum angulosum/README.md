@@ -1,5 +1,4 @@
-Epicoccum angulosum Penz. & Sacc. SPECIES
-=======
+# Epicoccum angulosum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

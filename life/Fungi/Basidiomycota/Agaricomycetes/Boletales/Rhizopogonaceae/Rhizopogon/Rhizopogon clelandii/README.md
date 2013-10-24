@@ -1,17 +1,16 @@
-Rhizopogon clelandi G. Cunn. SPECIES
-=======
+# Rhizopogon clelandii G. Cunn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 162 (1934)
 
 #### Original name
-Rhizopogon clelandi G. Cunn.
+Rhizopogon clelandii G. Cunn.
 
 ### Remarks
 null

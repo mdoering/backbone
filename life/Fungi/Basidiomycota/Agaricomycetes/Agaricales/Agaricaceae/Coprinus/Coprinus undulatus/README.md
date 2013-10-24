@@ -1,5 +1,4 @@
-Coprinus undulatus Bogart SPECIES
-=======
+# Coprinus undulatus Bogart SPECIES
 
 #### Status
 ACCEPTED

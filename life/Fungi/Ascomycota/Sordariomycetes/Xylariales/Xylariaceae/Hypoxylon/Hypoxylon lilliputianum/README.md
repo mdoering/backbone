@@ -1,5 +1,4 @@
-Hypoxylon lilliputianum Syd. & P. Syd. SPECIES
-=======
+# Hypoxylon lilliputianum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

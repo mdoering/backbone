@@ -1,5 +1,4 @@
-Intranstylum ovulum Sommer, 1951 SPECIES
-=======
+# Intranstylum ovulum Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

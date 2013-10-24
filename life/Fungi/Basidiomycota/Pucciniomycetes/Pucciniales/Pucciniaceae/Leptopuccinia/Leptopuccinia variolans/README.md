@@ -1,5 +1,4 @@
-Leptopuccinia variolans (Harkn.) Syd. SPECIES
-=======
+# Leptopuccinia variolans (Harkn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

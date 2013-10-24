@@ -1,5 +1,4 @@
-Pocillaria alliacea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pocillaria alliacea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

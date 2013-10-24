@@ -1,5 +1,4 @@
-Leptothyrium urticae Preuss SPECIES
-=======
+# Leptothyrium urticae Preuss SPECIES
 
 #### Status
 ACCEPTED

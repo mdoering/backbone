@@ -1,5 +1,4 @@
-Arkonia triangulata (Cramer, Kanes, Díez & Christopher, 1974) Vavrdová, 1978 SPECIES
-=======
+# Arkonia triangulata (Cramer, Kanes, Díez & Christopher, 1974) Vavrdová, 1978 SPECIES
 
 #### Status
 ACCEPTED

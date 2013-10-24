@@ -1,5 +1,4 @@
-Calicium candelare Schaer. SPECIES
-=======
+# Calicium candelare Schaer. SPECIES
 
 #### Status
 ACCEPTED

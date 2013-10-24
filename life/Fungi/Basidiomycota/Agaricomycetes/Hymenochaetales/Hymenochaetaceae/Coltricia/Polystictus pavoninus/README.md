@@ -1,5 +1,4 @@
-Polystictus pavoninus Rick SPECIES
-=======
+# Polystictus pavoninus Rick SPECIES
 
 #### Status
 ACCEPTED

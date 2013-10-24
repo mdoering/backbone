@@ -1,5 +1,4 @@
-Gloeosporium josephinae D. Sacc. SPECIES
-=======
+# Gloeosporium josephinae D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

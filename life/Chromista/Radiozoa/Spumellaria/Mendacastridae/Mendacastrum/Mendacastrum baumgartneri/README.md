@@ -1,5 +1,4 @@
-Mendacastrum baumgartneri SPECIES
-=======
+# Mendacastrum baumgartneri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pediococcus parvulus Gunther and White, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Pediococcus parvulus Gunther and White, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

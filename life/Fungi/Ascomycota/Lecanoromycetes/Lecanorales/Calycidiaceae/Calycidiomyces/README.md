@@ -1,5 +1,4 @@
-Calycidiomyces GENUS
-=======
+# Calycidiomyces GENUS
 
 #### Status
 ACCEPTED

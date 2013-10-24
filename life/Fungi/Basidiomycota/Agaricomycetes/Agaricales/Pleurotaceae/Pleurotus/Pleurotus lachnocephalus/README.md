@@ -1,5 +1,4 @@
-Pleurotus lachnocephalus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus lachnocephalus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

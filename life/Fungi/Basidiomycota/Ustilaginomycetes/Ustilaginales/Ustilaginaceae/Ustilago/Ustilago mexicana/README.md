@@ -1,5 +1,4 @@
-Ustilago mexicana Ellis & Everh., 1887 SPECIES
-=======
+# Ustilago mexicana Ellis & Everh., 1887 SPECIES
 
 #### Status
 ACCEPTED

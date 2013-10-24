@@ -1,5 +1,4 @@
-Aulographum tropicale var. tropicale VARIETY
-=======
+# Aulographum tropicale Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 39(4): 210 (1900)
 
 #### Original name
-Aulographum tropicale var. tropicale
+Aulographum tropicale Rehm
 
 ### Remarks
 null

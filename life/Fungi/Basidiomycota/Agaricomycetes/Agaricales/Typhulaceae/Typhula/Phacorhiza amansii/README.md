@@ -1,5 +1,4 @@
-Phacorhiza amansii Brond. SPECIES
-=======
+# Phacorhiza amansii Brond. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trichia subretisporum T.N. Lakh. & Mukerji SPECIES
-=======
+# Trichia subretispora T.N. Lakh. & K.G. Mukerji, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 7: 61 (1980)
 
 #### Original name
-Trichia subretisporum T.N. Lakh. & Mukerji
+Trichia subretispora T.N. Lakh. & K.G. Mukerji, 1980
 
 ### Remarks
 null

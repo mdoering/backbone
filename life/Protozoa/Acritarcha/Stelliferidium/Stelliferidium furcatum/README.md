@@ -1,5 +1,4 @@
-Stelliferidium furcatum (Deunff, 1961) emend. Deunff, Górka & Rauscher SPECIES
-=======
+# Stelliferidium furcatum (Deunff, 1961) emend. Deunff, Górka & Rauscher SPECIES
 
 #### Status
 ACCEPTED

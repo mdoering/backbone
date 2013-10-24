@@ -1,5 +1,4 @@
-Hypoderma cookianum P.R. Johnst., 1990 SPECIES
-=======
+# Hypoderma cookianum P.R. Johnst., 1990 SPECIES
 
 #### Status
 ACCEPTED

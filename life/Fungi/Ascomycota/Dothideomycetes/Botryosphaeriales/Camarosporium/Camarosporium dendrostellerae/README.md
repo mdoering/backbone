@@ -1,5 +1,4 @@
-Camarosporium dendrostellerae Kravtzev SPECIES
-=======
+# Camarosporium dendrostellerae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

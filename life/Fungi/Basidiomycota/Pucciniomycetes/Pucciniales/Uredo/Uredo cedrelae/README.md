@@ -1,5 +1,4 @@
-Uredo cedrelae Henn. SPECIES
-=======
+# Uredo cedrelae Henn. SPECIES
 
 #### Status
 ACCEPTED

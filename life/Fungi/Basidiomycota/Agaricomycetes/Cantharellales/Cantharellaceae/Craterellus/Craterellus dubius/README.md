@@ -1,5 +1,4 @@
-Craterellus dubius Peck SPECIES
-=======
+# Craterellus dubius Peck SPECIES
 
 #### Status
 ACCEPTED

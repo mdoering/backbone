@@ -1,5 +1,4 @@
-Squamaria austroamericana Räsänen SPECIES
-=======
+# Squamaria austroamericana Räsänen SPECIES
 
 #### Status
 ACCEPTED

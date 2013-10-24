@@ -1,5 +1,4 @@
-Tuberculostoma sphaerocephalum Sollm. SPECIES
-=======
+# Tuberculostoma sphaerocephalum Sollm. SPECIES
 
 #### Status
 ACCEPTED

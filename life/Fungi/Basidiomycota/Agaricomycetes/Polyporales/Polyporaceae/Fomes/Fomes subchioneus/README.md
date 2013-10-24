@@ -1,5 +1,4 @@
-Fomes subchioneus (Murrill) P.W. Graff SPECIES
-=======
+# Fomes subchioneus (Murrill) P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

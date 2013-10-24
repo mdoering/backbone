@@ -1,5 +1,4 @@
-Sorosporium brachiariae J.C.F. Hopkins SPECIES
-=======
+# Sorosporium brachiariae J.C.F. Hopkins SPECIES
 
 #### Status
 ACCEPTED

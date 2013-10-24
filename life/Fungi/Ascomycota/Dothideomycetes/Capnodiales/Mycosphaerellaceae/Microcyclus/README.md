@@ -1,17 +1,16 @@
-Melanopsammopsis Stahel GENUS
-=======
+# Microcyclus Saccardo, Sydow & P. Sydow, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meded. Dept. Landb. Suriname 1: [2] (1915)
+in Sydow & Sydow, Annls mycol. 2: 165 (1904)
 
 #### Original name
-Melanopsammopsis Stahel
+Microcyclus Saccardo, Sydow & P. Sydow, 1904
 
 ### Remarks
 null

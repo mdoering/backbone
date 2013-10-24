@@ -1,5 +1,4 @@
-Haptocillium W. Gams & Zare, 2001 GENUS
-=======
+# Haptocillium W. Gams & Zare, 2001 GENUS
 
 #### Status
 ACCEPTED

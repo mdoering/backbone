@@ -1,5 +1,4 @@
-Uromyces argaeus Maire SPECIES
-=======
+# Uromyces argaeus Maire SPECIES
 
 #### Status
 ACCEPTED

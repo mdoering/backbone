@@ -1,5 +1,4 @@
-Septoria desciscens Sacc. SPECIES
-=======
+# Septoria desciscens Sacc. SPECIES
 
 #### Status
 ACCEPTED

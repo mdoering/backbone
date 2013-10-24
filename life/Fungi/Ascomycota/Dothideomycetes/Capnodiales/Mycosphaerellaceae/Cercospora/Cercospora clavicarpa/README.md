@@ -1,5 +1,4 @@
-Cercospora clavicarpa Ellis & Everh. SPECIES
-=======
+# Cercospora clavicarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

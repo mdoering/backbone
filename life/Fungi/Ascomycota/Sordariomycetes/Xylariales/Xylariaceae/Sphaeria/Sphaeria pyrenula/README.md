@@ -1,5 +1,4 @@
-Sphaeria pyrenula Fr. SPECIES
-=======
+# Sphaeria pyrenula Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium microscopicum P. Karst. & Har. SPECIES
-=======
+# Gloeosporium microscopicum P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

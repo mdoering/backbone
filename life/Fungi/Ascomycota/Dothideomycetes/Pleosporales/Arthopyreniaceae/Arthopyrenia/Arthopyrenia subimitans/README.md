@@ -1,5 +1,4 @@
-Arthopyrenia subimitans Müll. Arg. SPECIES
-=======
+# Arthopyrenia subimitans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

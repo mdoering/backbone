@@ -1,5 +1,4 @@
-Rinodina huefferiana Müll. Arg. SPECIES
-=======
+# Rinodina huefferiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia albohyalina SPECIES
-=======
+# Bacidia albohyalina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium saccharobutylicum Keis et al., 2001 SPECIES
-=======
+# Clostridium saccharobutylicum Keis et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

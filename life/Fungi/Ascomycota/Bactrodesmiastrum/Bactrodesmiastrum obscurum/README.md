@@ -1,5 +1,4 @@
-Bactrodesmiastrum obscurum Hol.-Jech., 1984 SPECIES
-=======
+# Bactrodesmiastrum obscurum Hol.-Jech., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora glomerella SPECIES
-=======
+# Lecanora glomerella SPECIES
 
 #### Status
 ACCEPTED

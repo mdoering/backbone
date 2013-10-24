@@ -1,5 +1,4 @@
-Marasmius tessellatus Mont. SPECIES
-=======
+# Marasmius tessellatus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria araliae M.A. Curtis SPECIES
-=======
+# Botryosphaeria araliae M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea rodmanii Samuels & Chaverri SPECIES
-=======
+# Hypocrea rodmanii Samuels & Chaverri SPECIES
 
 #### Status
 ACCEPTED

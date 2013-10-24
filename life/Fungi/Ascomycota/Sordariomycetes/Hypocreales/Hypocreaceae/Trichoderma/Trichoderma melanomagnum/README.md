@@ -1,5 +1,4 @@
-Trichoderma melanomagnum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma melanomagnum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

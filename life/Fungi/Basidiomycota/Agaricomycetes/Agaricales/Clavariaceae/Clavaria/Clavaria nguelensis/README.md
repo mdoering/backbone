@@ -1,5 +1,4 @@
-Clavaria nguelensis Henn. SPECIES
-=======
+# Clavaria nguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

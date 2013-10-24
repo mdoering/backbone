@@ -1,14 +1,13 @@
-Epibryon hepaticola (Racov.) Döbbeler SPECIES
-=======
+# Epibryon hepaticicola (Racov.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 14: 279 (1978)
 
 #### Original name
 Acanthostigma hepaticicola Racov., 1959

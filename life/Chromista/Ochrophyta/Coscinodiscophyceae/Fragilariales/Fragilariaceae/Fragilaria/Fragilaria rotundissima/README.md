@@ -1,5 +1,4 @@
-Fragilaria rotundissima Hargraves & Guillard SPECIES
-=======
+# Fragilaria rotundissima Hargraves & Guillard SPECIES
 
 #### Status
 ACCEPTED

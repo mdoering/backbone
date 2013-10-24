@@ -1,5 +1,4 @@
-Parmelia phaeophana var. phaeophana VARIETY
-=======
+# Parmelia phaeophana Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia phaeophana var. phaeophana
+Parmelia phaeophana Stirt.
 
 ### Remarks
 null

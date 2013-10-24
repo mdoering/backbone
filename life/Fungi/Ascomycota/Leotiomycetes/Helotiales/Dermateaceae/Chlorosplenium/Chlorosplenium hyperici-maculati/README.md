@@ -1,5 +1,4 @@
-Chlorosplenium hyperici-maculati Svrcek SPECIES
-=======
+# Chlorosplenium hyperici-maculati Svrcek SPECIES
 
 #### Status
 ACCEPTED

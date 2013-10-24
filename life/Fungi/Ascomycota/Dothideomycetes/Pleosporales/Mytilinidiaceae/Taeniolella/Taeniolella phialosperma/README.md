@@ -1,5 +1,4 @@
-Taeniolella phialosperma Ts. Watan. SPECIES
-=======
+# Taeniolella phialosperma Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

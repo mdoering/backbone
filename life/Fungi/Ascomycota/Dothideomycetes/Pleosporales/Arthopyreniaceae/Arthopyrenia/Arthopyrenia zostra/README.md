@@ -1,5 +1,4 @@
-Arthopyrenia zostra (C. Knight) Shirley SPECIES
-=======
+# Arthopyrenia zostra (C. Knight) Shirley SPECIES
 
 #### Status
 ACCEPTED

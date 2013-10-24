@@ -1,5 +1,4 @@
-Endothiella caraganae (Danilova) Arx SPECIES
-=======
+# Endothiella caraganae (Danilova) Arx SPECIES
 
 #### Status
 ACCEPTED

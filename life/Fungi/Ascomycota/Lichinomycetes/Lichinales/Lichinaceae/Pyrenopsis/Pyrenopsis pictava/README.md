@@ -1,5 +1,4 @@
-Pyrenopsis pictava Nyl. SPECIES
-=======
+# Pyrenopsis pictava Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium spinulosum S.H. He & L. Guo SPECIES
-=======
+# Sporisorium spinulosum S.H. He & L. Guo SPECIES
 
 #### Status
 ACCEPTED

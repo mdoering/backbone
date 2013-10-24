@@ -1,5 +1,4 @@
-Myriangium flavum (G. Winter) Henn. SPECIES
-=======
+# Myriangium flavum (G. Winter) Henn. SPECIES
 
 #### Status
 ACCEPTED

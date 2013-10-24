@@ -1,5 +1,4 @@
-Polyplocium californicum Harkn. SPECIES
-=======
+# Polyplocium californicum Harkn. SPECIES
 
 #### Status
 ACCEPTED

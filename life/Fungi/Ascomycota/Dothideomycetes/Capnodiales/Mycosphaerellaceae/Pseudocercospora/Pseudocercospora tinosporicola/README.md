@@ -1,5 +1,4 @@
-Pseudocercospora tinosporicola U. Braun & Bagyan. SPECIES
-=======
+# Pseudocercospora tinosporicola U. Braun & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

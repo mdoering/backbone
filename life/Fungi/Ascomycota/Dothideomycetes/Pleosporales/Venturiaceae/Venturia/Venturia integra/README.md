@@ -1,5 +1,4 @@
-Venturia integra Cooke, 1871 SPECIES
-=======
+# Venturia integra Cooke, 1871 SPECIES
 
 #### Status
 ACCEPTED

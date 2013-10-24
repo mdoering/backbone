@@ -1,5 +1,4 @@
-Coelomomyces neotropicus Lichtw. & L.D. Gómez SPECIES
-=======
+# Coelomomyces neotropicus Lichtw. & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum roseolum (Banker) Snell SPECIES
-=======
+# Hydnum roseolum (Banker) Snell SPECIES
 
 #### Status
 ACCEPTED

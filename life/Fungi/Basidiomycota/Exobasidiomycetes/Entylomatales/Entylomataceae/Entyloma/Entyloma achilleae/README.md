@@ -1,14 +1,13 @@
-Entyloma compositarum var. achilleae (Magnus) Cif., 1963 VARIETY
-=======
+# Entyloma achilleae Magnus, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quaderno Ist. Bot. Univ. Pavia 27: 87 (1963)
+Abh. naturhist. Ges. Nürnberg 13: 8 (1900)
 
 #### Original name
 Entyloma achilleae Magnus, 1900

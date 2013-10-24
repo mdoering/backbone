@@ -1,5 +1,4 @@
-Microcystis protocystis Crow SPECIES
-=======
+# Microcystis protocystis Crow SPECIES
 
 #### Status
 ACCEPTED

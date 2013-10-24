@@ -1,5 +1,4 @@
-Discosia ostiolata Berk. & M.A. Curtis SPECIES
-=======
+# Discosia ostiolata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

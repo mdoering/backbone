@@ -1,5 +1,4 @@
-Lepista fibrosissima Singer, 1954 SPECIES
-=======
+# Lepista fibrosissima Singer, 1954 SPECIES
 
 #### Status
 ACCEPTED

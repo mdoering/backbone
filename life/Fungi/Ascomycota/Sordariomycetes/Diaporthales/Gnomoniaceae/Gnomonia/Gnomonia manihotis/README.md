@@ -1,5 +1,4 @@
-Gnomonia manihotis Punith., 1974 SPECIES
-=======
+# Gnomonia manihotis Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

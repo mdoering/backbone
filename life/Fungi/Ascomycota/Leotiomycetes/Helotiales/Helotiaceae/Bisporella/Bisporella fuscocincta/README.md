@@ -1,14 +1,13 @@
-Calycella fuscocincta Graddon, 1967 SPECIES
-=======
+# Bisporella fuscocincta (Graddon) Dennis, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 50: 9 (1967)
+British Ascomycetes, Rev. Edn 132 (1978)
 
 #### Original name
 Calycella fuscocincta Graddon, 1967

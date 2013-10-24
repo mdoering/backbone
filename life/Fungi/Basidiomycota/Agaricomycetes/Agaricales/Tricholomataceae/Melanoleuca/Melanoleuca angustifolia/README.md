@@ -1,5 +1,4 @@
-Melanoleuca angustifolia Murrill SPECIES
-=======
+# Melanoleuca angustifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

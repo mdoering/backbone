@@ -1,5 +1,4 @@
-Elsinoë tristaniae Hansf., 1954 SPECIES
-=======
+# Elsinoë tristaniae Hansf., 1954 SPECIES
 
 #### Status
 ACCEPTED

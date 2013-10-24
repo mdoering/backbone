@@ -1,5 +1,4 @@
-Vorticella geminata Dumas, 1929 SPECIES
-=======
+# Vorticella geminata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

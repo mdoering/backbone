@@ -1,5 +1,4 @@
-Hypotrichidium geleii Lohmann, 1908 SPECIES
-=======
+# Hypotrichidium geleii Lohmann, 1908 SPECIES
 
 #### Status
 ACCEPTED

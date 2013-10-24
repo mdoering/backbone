@@ -1,5 +1,4 @@
-Stauracanthidium Haeckel, 1887 GENUS
-=======
+# Stauracanthidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

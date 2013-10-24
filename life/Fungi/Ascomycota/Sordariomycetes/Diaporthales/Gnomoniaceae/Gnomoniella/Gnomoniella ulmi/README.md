@@ -1,5 +1,4 @@
-Gnomoniella ulmi Sawada SPECIES
-=======
+# Gnomoniella ulmi Sawada SPECIES
 
 #### Status
 ACCEPTED

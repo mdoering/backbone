@@ -1,17 +1,16 @@
-Psilosphaeria minutissima (P. Crouan & H. Crouan) Cooke, 1887 SPECIES
-=======
+# Phomatospora minutissima (P. Crouan & H. Crouan) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 20(1): 334 (1972)
 
 #### Original name
-null
+Sphaeria minutissima P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

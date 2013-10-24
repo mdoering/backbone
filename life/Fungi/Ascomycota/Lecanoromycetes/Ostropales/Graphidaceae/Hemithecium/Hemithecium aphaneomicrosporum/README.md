@@ -1,5 +1,4 @@
-Hemithecium aphaneomicrosporum Makhija & Adaw. SPECIES
-=======
+# Hemithecium aphaneomicrosporum Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus semipetiolatus (Schaeff.) Wettst. SPECIES
-=======
+# Panus semipetiolatus (Schaeff.) Wettst. SPECIES
 
 #### Status
 ACCEPTED

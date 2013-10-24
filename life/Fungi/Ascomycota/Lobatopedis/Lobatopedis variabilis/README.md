@@ -1,5 +1,4 @@
-Lobatopedis variabilis B. Sutton SPECIES
-=======
+# Lobatopedis variabilis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

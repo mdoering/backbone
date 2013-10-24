@@ -1,5 +1,4 @@
-Chaetophoma oleacina Vuill. SPECIES
-=======
+# Chaetophoma oleacina Vuill. SPECIES
 
 #### Status
 ACCEPTED

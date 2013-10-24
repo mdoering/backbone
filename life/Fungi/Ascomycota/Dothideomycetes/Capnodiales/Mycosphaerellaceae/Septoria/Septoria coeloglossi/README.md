@@ -1,5 +1,4 @@
-Septoria coeloglossi Schwarzman SPECIES
-=======
+# Septoria coeloglossi Schwarzman SPECIES
 
 #### Status
 ACCEPTED

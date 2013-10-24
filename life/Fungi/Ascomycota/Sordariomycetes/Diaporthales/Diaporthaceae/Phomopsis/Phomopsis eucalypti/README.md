@@ -1,5 +1,4 @@
-Phomopsis eucalypti Zerova, 1940 SPECIES
-=======
+# Phomopsis eucalypti Zerova, 1940 SPECIES
 
 #### Status
 ACCEPTED

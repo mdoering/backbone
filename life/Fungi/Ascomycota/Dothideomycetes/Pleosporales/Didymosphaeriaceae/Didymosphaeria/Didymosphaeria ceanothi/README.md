@@ -1,5 +1,4 @@
-Didymosphaeria ceanothi (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Didymosphaeria ceanothi (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

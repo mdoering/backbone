@@ -1,5 +1,4 @@
-Micropeltella confluens Petch SPECIES
-=======
+# Micropeltella confluens Petch SPECIES
 
 #### Status
 ACCEPTED

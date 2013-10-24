@@ -1,14 +1,13 @@
-Scopella mimusops (Cooke) Cummins, 1950 SPECIES
-=======
+# Maravalia mimusops (Cooke) Y. Ono, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 77: 209 (1950)
+Mycologia 76(5): 907 (1984)
 
 #### Original name
 Uromyces mimusops Cooke, 1882

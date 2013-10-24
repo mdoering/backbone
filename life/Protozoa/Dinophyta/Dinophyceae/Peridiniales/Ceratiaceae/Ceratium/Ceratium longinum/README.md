@@ -1,5 +1,4 @@
-Ceratium longinum SPECIES
-=======
+# Ceratium longinum SPECIES
 
 #### Status
 ACCEPTED

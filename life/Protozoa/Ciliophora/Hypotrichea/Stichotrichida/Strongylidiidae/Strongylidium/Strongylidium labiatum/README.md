@@ -1,5 +1,4 @@
-Strongylidium labiatum Kahl, 1932 SPECIES
-=======
+# Strongylidium labiatum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

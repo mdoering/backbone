@@ -1,5 +1,4 @@
-Merulius irpicoides Corner SPECIES
-=======
+# Merulius irpicoides Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placidium trapeziforme (J. König) Arnold SPECIES
-=======
+# Placidium trapeziforme (J. König) Arnold SPECIES
 
 #### Status
 ACCEPTED

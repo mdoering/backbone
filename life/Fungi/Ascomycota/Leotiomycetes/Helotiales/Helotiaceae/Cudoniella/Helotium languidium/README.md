@@ -1,5 +1,4 @@
-Helotium languidium P. Karst. SPECIES
-=======
+# Helotium languidium P. Karst. SPECIES
 
 #### Status
 ACCEPTED

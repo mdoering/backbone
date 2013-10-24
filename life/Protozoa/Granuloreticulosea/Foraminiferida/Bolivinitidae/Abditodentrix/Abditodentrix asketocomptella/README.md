@@ -1,5 +1,4 @@
-Abditodentrix asketocomptella Patterson, 1985 SPECIES
-=======
+# Abditodentrix asketocomptella Patterson, 1985 SPECIES
 
 #### Status
 ACCEPTED

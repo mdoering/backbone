@@ -1,14 +1,13 @@
-Humaria glumarum (Desm.) Sacc., 1889 SPECIES
-=======
+# Ascophanus glumarum (Desm.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 130 (1889)
+null
 
 #### Original name
 Peziza glumarum Desm., 1841

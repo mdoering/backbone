@@ -1,5 +1,4 @@
-Psilocybe catervata Massee SPECIES
-=======
+# Psilocybe catervata Massee SPECIES
 
 #### Status
 ACCEPTED

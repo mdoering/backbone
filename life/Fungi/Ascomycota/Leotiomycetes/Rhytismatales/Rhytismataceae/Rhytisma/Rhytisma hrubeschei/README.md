@@ -1,5 +1,4 @@
-Rhytisma hrubeschei Ettingsh. SPECIES
-=======
+# Rhytisma hrubeschei Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

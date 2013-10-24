@@ -1,17 +1,16 @@
-Titaeospora andropogonis F.L. Tai, 1932 SPECIES
-=======
+# Gloeocercospora sorghi D.C. Bain & Edgerton ex Deighton, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 57(2): 358 (1971)
 
 #### Original name
-Titaeospora andropogonis F.L. Tai, 1932
+Gloeocercospora sorghi D.C. Bain & Edgerton ex Deighton, 1971
 
 ### Remarks
 null

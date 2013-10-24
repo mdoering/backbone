@@ -1,5 +1,4 @@
-Uredo gaultheriae (P. Syd. & Syd.) Hirats. f. SPECIES
-=======
+# Uredo gaultheriae (P. Syd. & Syd.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora scyphulifera var. scyphulifera VARIETY
-=======
+# Acarospora scyphulifera SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora scyphulifera var. scyphulifera
+null
 
 ### Remarks
 null

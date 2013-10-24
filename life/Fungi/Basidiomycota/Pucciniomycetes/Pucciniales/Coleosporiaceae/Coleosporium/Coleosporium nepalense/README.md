@@ -1,5 +1,4 @@
-Coleosporium nepalense Durrieu SPECIES
-=======
+# Coleosporium nepalense Durrieu SPECIES
 
 #### Status
 ACCEPTED

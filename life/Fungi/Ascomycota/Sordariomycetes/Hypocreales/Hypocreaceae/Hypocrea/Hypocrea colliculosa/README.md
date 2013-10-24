@@ -1,5 +1,4 @@
-Hypocrea colliculosa Fr. ex Berk. SPECIES
-=======
+# Hypocrea colliculosa Fr. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma alaculuf Speg. SPECIES
-=======
+# Anthostoma alaculuf Speg. SPECIES
 
 #### Status
 ACCEPTED

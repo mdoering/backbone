@@ -1,5 +1,4 @@
-Cladosporium aecidiicola Thüm., 1876 SPECIES
-=======
+# Cladosporium aecidiicola Thüm., 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oolina striatopunctata SPECIES
-=======
+# Oolina striatopunctata SPECIES
 
 #### Status
 ACCEPTED

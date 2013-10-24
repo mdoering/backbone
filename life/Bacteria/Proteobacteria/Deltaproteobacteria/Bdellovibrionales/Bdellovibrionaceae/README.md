@@ -1,5 +1,4 @@
-Bdellovibrionaceae Garrity, Bell & Lilburn, 2006 FAMILY
-=======
+# Bdellovibrionaceae Garrity, Bell & Lilburn, 2006 FAMILY
 
 #### Status
 ACCEPTED

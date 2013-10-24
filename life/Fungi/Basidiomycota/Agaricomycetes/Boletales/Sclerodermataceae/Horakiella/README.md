@@ -1,5 +1,4 @@
-Horakiella Castellano & Trappe, 1992 GENUS
-=======
+# Horakiella Castellano & Trappe, 1992 GENUS
 
 #### Status
 ACCEPTED

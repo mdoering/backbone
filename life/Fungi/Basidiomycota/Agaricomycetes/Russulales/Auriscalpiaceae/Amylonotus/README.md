@@ -1,5 +1,4 @@
-Amylonotus Ryvarden GENUS
-=======
+# Amylonotus Ryvarden GENUS
 
 #### Status
 ACCEPTED

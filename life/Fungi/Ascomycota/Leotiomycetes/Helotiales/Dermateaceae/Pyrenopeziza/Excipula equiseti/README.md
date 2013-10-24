@@ -1,5 +1,4 @@
-Excipula equiseti Peck SPECIES
-=======
+# Excipula equiseti Peck SPECIES
 
 #### Status
 ACCEPTED

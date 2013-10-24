@@ -1,8 +1,7 @@
-Discorbina biconcava Parker & Jones in Carpenter, 1862 SPECIES
-=======
+# Planulinoides biconcavus (Parker & Jones, 1862) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

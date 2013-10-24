@@ -1,5 +1,4 @@
-Cortinarius redemitus Cooke, 1888 SPECIES
-=======
+# Cortinarius redemitus Cooke, 1888 SPECIES
 
 #### Status
 ACCEPTED

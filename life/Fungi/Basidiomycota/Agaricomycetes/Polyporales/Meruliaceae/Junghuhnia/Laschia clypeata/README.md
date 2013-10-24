@@ -1,5 +1,4 @@
-Laschia clypeata Pat. SPECIES
-=======
+# Laschia clypeata Pat. SPECIES
 
 #### Status
 ACCEPTED

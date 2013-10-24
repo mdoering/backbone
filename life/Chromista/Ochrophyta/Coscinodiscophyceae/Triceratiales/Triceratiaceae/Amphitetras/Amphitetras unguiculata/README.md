@@ -1,5 +1,4 @@
-Amphitetras unguiculata (Greville) De Toni SPECIES
-=======
+# Amphitetras unguiculata (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

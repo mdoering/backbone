@@ -1,8 +1,7 @@
-Coscinosira floridana I.C.G. Cooper SPECIES
-=======
+# Thalassiosira minima Gaarder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Euglena haematodes (Ehrenberg) Lemmermann SPECIES
-=======
+# Euglena haematodes (Ehrenberg) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

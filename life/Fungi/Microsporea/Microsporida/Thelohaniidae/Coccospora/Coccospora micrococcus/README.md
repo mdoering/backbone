@@ -1,5 +1,4 @@
-Coccospora micrococcus (Léger & Hesse) R. Kudo SPECIES
-=======
+# Coccospora micrococcus (Léger & Hesse) R. Kudo SPECIES
 
 #### Status
 ACCEPTED

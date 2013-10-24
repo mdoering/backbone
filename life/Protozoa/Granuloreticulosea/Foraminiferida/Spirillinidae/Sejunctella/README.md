@@ -1,5 +1,4 @@
-Sejunctella Loeblich & Tappan, 1957 GENUS
-=======
+# Sejunctella Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

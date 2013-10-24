@@ -1,5 +1,4 @@
-Catenaria uncinata W. Martin, 1978 SPECIES
-=======
+# Catenaria uncinata W. Martin, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella subcylindrica Ghosh, 1925 SPECIES
-=======
+# Vorticella subcylindrica Ghosh, 1925 SPECIES
 
 #### Status
 ACCEPTED

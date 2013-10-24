@@ -1,17 +1,16 @@
-Pezizella lythri (Desm.) Shear & B.O. Dodge, 1921 SPECIES
-=======
+# Discohainesia oenotherae (Cooke & Ellis) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(1. 2): 88 (1932)
 
 #### Original name
-null
+Peziza oenotherae Cooke & Ellis
 
 ### Remarks
 null

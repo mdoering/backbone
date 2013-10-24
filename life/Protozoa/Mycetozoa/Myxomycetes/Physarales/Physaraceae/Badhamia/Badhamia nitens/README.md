@@ -1,17 +1,16 @@
-Badhamia nitens var. aurantiaca (Lizárraga, G. Moreno & Illana) Lizárraga, G. Moreno & Illana VARIETY
-=======
+# Badhamia nitens Berk., 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 63: 289 (1997)
+Trans. Linn. Soc. London 21: 153 (1852)
 
 #### Original name
-Badhamia aurantiaca Lizárraga, G. Moreno & Illana, 1996
+Badhamia nitens Berk., 1853
 
 ### Remarks
 null

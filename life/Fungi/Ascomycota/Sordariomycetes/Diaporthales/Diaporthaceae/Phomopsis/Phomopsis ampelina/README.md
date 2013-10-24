@@ -1,5 +1,4 @@
-Phomopsis ampelina (Berk. & M.A. Curtis) Grove SPECIES
-=======
+# Phomopsis ampelina (Berk. & M.A. Curtis) Grove SPECIES
 
 #### Status
 ACCEPTED

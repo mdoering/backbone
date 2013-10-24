@@ -1,5 +1,4 @@
-Halobacillus locisalis Yoon et al., 2004 SPECIES
-=======
+# Halobacillus locisalis Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepochromulina bursa Scherffel SPECIES
-=======
+# Lepochromulina bursa Scherffel SPECIES
 
 #### Status
 ACCEPTED

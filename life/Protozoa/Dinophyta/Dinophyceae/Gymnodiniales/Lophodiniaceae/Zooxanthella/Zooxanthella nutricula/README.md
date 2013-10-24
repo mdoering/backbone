@@ -1,5 +1,4 @@
-Zooxanthella nutricula Brandt SPECIES
-=======
+# Zooxanthella nutricula Brandt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces immutabilis Speg. SPECIES
-=======
+# Elaphomyces immutabilis Speg. SPECIES
 
 #### Status
 ACCEPTED

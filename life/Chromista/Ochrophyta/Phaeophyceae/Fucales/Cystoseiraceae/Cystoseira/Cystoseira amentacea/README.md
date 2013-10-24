@@ -1,8 +1,7 @@
-Cystoseira stricta var. amentacea (Bory) Giaccone VARIETY
-=======
+# Cystoseira amentacea (C. Agardh) Bory de Saint-Vincent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

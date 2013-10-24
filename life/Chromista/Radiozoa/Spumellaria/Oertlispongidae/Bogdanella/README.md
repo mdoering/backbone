@@ -1,5 +1,4 @@
-Bogdanella Kolar-Jurkovsek, 1989 GENUS
-=======
+# Bogdanella Kolar-Jurkovsek, 1989 GENUS
 
 #### Status
 ACCEPTED

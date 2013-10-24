@@ -1,5 +1,4 @@
-Pyrenula parva Vain. SPECIES
-=======
+# Pyrenula parva Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tjibodana SPECIES
-=======
+# Lecidea tjibodana SPECIES
 
 #### Status
 ACCEPTED

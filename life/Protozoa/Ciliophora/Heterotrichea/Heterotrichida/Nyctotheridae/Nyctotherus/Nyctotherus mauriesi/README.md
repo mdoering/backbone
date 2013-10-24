@@ -1,5 +1,4 @@
-Nyctotherus mauriesi Albaret, 1970 SPECIES
-=======
+# Nyctotherus mauriesi Albaret, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxidiophora crenata Barrasa & G. Moreno SPECIES
-=======
+# Pyxidiophora crenata Barrasa & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

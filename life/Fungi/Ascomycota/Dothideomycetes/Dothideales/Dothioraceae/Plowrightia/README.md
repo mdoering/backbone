@@ -1,5 +1,4 @@
-Plowrightia Sacc. GENUS
-=======
+# Plowrightia Sacc. GENUS
 
 #### Status
 ACCEPTED

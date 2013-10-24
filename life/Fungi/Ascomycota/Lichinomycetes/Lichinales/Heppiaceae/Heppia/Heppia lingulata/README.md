@@ -1,5 +1,4 @@
-Heppia lingulata Vain. SPECIES
-=======
+# Heppia lingulata Vain. SPECIES
 
 #### Status
 ACCEPTED

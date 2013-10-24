@@ -1,5 +1,4 @@
-Trichodiscus citrinoalbus (Penz. & Sacc.) Kirschst. SPECIES
-=======
+# Trichodiscus citrinoalbus (Penz. & Sacc.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

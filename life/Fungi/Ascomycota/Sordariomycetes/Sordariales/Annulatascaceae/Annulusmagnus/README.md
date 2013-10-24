@@ -1,5 +1,4 @@
-Annulusmagnus J. Campb. & Shearer GENUS
-=======
+# Annulusmagnus J. Campb. & Shearer GENUS
 
 #### Status
 ACCEPTED

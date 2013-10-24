@@ -1,5 +1,4 @@
-Systematophora palmula R. J. Davey SPECIES
-=======
+# Systematophora palmula R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

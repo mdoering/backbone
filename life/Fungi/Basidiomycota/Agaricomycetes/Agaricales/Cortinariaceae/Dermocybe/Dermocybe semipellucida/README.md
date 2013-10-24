@@ -1,5 +1,4 @@
-Dermocybe semipellucida M.M. Moser SPECIES
-=======
+# Dermocybe semipellucida M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

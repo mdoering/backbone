@@ -1,5 +1,4 @@
-Olpidium radicicola De Wild. SPECIES
-=======
+# Olpidium radicicola De Wild. SPECIES
 
 #### Status
 ACCEPTED

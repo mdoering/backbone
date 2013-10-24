@@ -1,5 +1,4 @@
-Stigmatomyces canzonerii W. Rossi & Cesari SPECIES
-=======
+# Stigmatomyces canzonerii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

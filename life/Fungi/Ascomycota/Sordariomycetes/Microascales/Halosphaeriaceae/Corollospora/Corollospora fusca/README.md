@@ -1,5 +1,4 @@
-Corollospora fusca Nakagiri & Tokura, 1988 SPECIES
-=======
+# Corollospora fusca Nakagiri & Tokura, 1988 SPECIES
 
 #### Status
 ACCEPTED

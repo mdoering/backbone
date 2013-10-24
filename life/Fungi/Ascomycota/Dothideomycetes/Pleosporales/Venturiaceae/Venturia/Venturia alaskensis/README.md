@@ -1,5 +1,4 @@
-Venturia alaskensis M.E. Barr SPECIES
-=======
+# Venturia alaskensis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

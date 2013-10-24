@@ -1,8 +1,7 @@
-Nematoloma amazonicum Singer SPECIES
-=======
+# Naematoloma amazonicum Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma amazonicum Singer
+Naematoloma amazonicum Singer
 
 ### Remarks
 null

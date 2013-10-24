@@ -1,5 +1,4 @@
-Cryptocoryneopsis B. Sutton GENUS
-=======
+# Cryptocoryneopsis B. Sutton GENUS
 
 #### Status
 ACCEPTED

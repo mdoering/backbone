@@ -1,14 +1,13 @@
-Acia subochracea (Alb. & Schwein.) Bourdot & Galzin, 1928 SPECIES
-=======
+# Phlebia subochracea (Alb. & Schwein.) J. Erikss. & Ryvarden, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 417 (1928)
+Cortic. N. Eur. (Oslo) 4: 873 (1976)
 
 #### Original name
 Thelephora granulosa var. subochracea Alb. & Schwein., 1805

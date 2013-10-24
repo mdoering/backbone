@@ -1,5 +1,4 @@
-Puccinia xeranthemi H. Mori SPECIES
-=======
+# Puccinia xeranthemi H. Mori SPECIES
 
 #### Status
 ACCEPTED

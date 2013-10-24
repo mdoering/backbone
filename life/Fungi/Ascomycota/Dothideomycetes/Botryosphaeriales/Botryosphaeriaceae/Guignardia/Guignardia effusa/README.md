@@ -1,5 +1,4 @@
-Guignardia effusa (Rehm) Sacc. SPECIES
-=======
+# Guignardia effusa (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

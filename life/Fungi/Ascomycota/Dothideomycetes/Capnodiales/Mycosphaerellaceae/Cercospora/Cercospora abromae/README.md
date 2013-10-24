@@ -1,5 +1,4 @@
-Cercospora abromae Hansf. SPECIES
-=======
+# Cercospora abromae Hansf. SPECIES
 
 #### Status
 ACCEPTED

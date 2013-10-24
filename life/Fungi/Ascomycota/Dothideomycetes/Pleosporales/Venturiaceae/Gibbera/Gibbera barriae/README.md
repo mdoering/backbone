@@ -1,5 +1,4 @@
-Gibbera barriae L. Holm & K. Holm SPECIES
-=======
+# Gibbera barriae L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epalxis striatat SPECIES
-=======
+# Epalxis striatat SPECIES
 
 #### Status
 ACCEPTED

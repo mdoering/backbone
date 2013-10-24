@@ -1,5 +1,4 @@
-Lecanora orientalis Hue SPECIES
-=======
+# Lecanora orientalis Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma albellum (Romagn.) Singer SPECIES
-=======
+# Entoloma albellum (Romagn.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus naucinus Fr. SPECIES
-=======
+# Polyporus naucinus Fr. SPECIES
 
 #### Status
 ACCEPTED

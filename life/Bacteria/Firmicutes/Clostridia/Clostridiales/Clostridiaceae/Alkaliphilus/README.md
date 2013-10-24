@@ -1,5 +1,4 @@
-Alkaliphilus Takai, Moser, Onstott, Spoelstra, Dohnalkova & Fredrickson, 2001 GENUS
-=======
+# Alkaliphilus Takai, Moser, Onstott, Spoelstra, Dohnalkova & Fredrickson, 2001 GENUS
 
 #### Status
 ACCEPTED

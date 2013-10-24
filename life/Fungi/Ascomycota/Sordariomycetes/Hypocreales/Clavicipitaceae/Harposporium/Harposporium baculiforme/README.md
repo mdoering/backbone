@@ -1,5 +1,4 @@
-Harposporium baculiforme Drechsler SPECIES
-=======
+# Harposporium baculiforme Drechsler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium holwayi Syd. SPECIES
-=======
+# Peridermium holwayi Syd. SPECIES
 
 #### Status
 ACCEPTED

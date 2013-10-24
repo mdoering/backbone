@@ -1,5 +1,4 @@
-Beggiatoa mirabilis Cohn SPECIES
-=======
+# Beggiatoa mirabilis Cohn SPECIES
 
 #### Status
 ACCEPTED

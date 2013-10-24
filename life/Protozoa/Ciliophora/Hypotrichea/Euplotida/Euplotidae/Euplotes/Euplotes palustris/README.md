@@ -1,5 +1,4 @@
-Euplotes palustris SPECIES
-=======
+# Euplotes palustris SPECIES
 
 #### Status
 ACCEPTED

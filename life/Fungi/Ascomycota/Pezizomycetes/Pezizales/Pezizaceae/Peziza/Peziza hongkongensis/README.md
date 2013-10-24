@@ -1,5 +1,4 @@
-Peziza hongkongensis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza hongkongensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia macularis (J. Schröt.) Sacc. & P. Syd., 1899 SPECIES
-=======
+# Ramularia macularis (J. Schröt.) Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

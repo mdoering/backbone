@@ -1,5 +1,4 @@
-Peniophora fulvocinerea Popoff & J.E. Wright SPECIES
-=======
+# Peniophora fulvocinerea Popoff & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

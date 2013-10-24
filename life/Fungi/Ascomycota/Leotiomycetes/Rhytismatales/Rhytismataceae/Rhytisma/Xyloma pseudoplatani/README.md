@@ -1,5 +1,4 @@
-Xyloma pseudoplatani Hoppe ex DC. SPECIES
-=======
+# Xyloma pseudoplatani Hoppe ex DC. SPECIES
 
 #### Status
 ACCEPTED

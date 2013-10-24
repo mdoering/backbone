@@ -1,5 +1,4 @@
-Meliola weigeltii var. weigeltii VARIETY
-=======
+# Meliola weigeltii Kunze SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Weigelt. Exsicc. no. 137
 
 #### Original name
-Meliola weigeltii var. weigeltii
+Meliola weigeltii Kunze
 
 ### Remarks
 null

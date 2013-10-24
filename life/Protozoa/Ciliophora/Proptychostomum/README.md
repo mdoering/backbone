@@ -1,5 +1,4 @@
-Proptychostomum Ngassam & Grain, 1997 GENUS
-=======
+# Proptychostomum Ngassam & Grain, 1997 GENUS
 
 #### Status
 ACCEPTED

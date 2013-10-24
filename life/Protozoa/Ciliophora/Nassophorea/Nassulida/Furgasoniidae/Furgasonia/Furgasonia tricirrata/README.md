@@ -1,8 +1,7 @@
-Cyclogramma tricirrata Gelei, 1932 SPECIES
-=======
+# Furgasonia tricirrata (Gelei, 1932) Jankowski, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

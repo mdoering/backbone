@@ -1,5 +1,4 @@
-Agaricus aurantioviolaceus (R. Heim) Walleyn & Rammeloo SPECIES
-=======
+# Agaricus aurantioviolaceus (R. Heim) Walleyn & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

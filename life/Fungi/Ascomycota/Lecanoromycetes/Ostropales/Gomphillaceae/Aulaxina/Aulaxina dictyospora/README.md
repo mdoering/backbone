@@ -1,5 +1,4 @@
-Aulaxina dictyospora R. Sant. SPECIES
-=======
+# Aulaxina dictyospora R. Sant. SPECIES
 
 #### Status
 ACCEPTED

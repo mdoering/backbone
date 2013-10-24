@@ -1,5 +1,4 @@
-Limnaiomyces Thaxt. GENUS
-=======
+# Limnaiomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

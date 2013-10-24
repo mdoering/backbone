@@ -1,5 +1,4 @@
-Bartalinia mellea F. Anderson & Bianchin. SPECIES
-=======
+# Bartalinia mellea F. Anderson & Bianchin. SPECIES
 
 #### Status
 ACCEPTED

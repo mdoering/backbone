@@ -1,17 +1,16 @@
-Cercospora ixoriana J.M. Yen & Lim SPECIES
-=======
+# Cercospora ixorana J.M. Yen & Lim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 85(4): 471 (1969)
 
 #### Original name
-Cercospora ixoriana J.M. Yen & Lim
+Cercospora ixorana J.M. Yen & Lim
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sargassum siliquosum var. basilanicum Grunow VARIETY
-=======
+# Sargassum siliquosum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

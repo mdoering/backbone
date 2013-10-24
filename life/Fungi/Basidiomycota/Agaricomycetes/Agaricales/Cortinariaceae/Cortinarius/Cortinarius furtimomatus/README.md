@@ -1,5 +1,4 @@
-Cortinarius furtimomatus Rob. Henry SPECIES
-=======
+# Cortinarius furtimomatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

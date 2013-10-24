@@ -1,5 +1,4 @@
-Rhizocarpon pindarense Räsänen SPECIES
-=======
+# Rhizocarpon pindarense Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum eryngii Velen. SPECIES
-=======
+# Lachnum eryngii Velen. SPECIES
 
 #### Status
 ACCEPTED

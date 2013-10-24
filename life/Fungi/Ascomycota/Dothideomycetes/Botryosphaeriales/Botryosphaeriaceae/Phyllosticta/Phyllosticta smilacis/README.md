@@ -1,5 +1,4 @@
-Phyllosticta smilacis var. smilacis Ellis & G. Martin VARIETY
-=======
+# Phyllosticta smilacis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta smilacis var. smilacis Ellis & G. Martin
+Phyllosticta smilacis Ellis & Everh.
 
 ### Remarks
 null

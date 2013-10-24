@@ -1,5 +1,4 @@
-Lecidea praelucida Kremp. SPECIES
-=======
+# Lecidea praelucida Kremp. SPECIES
 
 #### Status
 ACCEPTED

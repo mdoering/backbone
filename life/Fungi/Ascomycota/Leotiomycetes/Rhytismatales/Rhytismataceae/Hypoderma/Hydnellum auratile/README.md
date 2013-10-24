@@ -1,5 +1,4 @@
-Hydnellum auratile (Britzelm.) Maas Geest., 1959 SPECIES
-=======
+# Hydnellum auratile (Britzelm.) Maas Geest., 1959 SPECIES
 
 #### Status
 DOUBTFUL

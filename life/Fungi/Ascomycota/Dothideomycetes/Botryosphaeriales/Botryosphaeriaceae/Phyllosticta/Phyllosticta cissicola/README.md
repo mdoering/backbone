@@ -1,5 +1,4 @@
-Phyllosticta cissicola Speg. SPECIES
-=======
+# Phyllosticta cissicola Speg. SPECIES
 
 #### Status
 ACCEPTED

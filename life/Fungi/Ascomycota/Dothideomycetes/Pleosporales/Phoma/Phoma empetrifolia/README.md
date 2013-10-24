@@ -1,5 +1,4 @@
-Phoma empetrifolia Brunaud SPECIES
-=======
+# Phoma empetrifolia Brunaud SPECIES
 
 #### Status
 ACCEPTED

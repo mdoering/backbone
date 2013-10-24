@@ -1,5 +1,4 @@
-Collema granulosum Hoffm. SPECIES
-=======
+# Collema granulosum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

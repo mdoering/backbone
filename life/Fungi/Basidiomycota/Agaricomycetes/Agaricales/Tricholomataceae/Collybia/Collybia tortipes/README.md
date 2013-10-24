@@ -1,5 +1,4 @@
-Collybia tortipes Cleland SPECIES
-=======
+# Collybia tortipes Cleland SPECIES
 
 #### Status
 ACCEPTED

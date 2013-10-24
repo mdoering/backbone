@@ -1,5 +1,4 @@
-Rhabdospora euonymina (Severini) Petr. SPECIES
-=======
+# Rhabdospora euonymina (Severini) Petr. SPECIES
 
 #### Status
 ACCEPTED

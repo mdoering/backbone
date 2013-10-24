@@ -1,5 +1,4 @@
-Eubacterium acidaminophilum Zindel et al., 1989 SPECIES
-=======
+# Eubacterium acidaminophilum Zindel et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

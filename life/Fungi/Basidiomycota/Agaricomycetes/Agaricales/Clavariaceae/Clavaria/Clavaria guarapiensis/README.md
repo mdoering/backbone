@@ -1,5 +1,4 @@
-Clavaria guarapiensis Speg. SPECIES
-=======
+# Clavaria guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phaeosphaeria sorgho-arundinacei (Luc) Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria sorghi-arundinacei (Luc) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 67(5): 1535 (1989)
 
 #### Original name
 Leptosphaeria sorghi-arundinacei Luc

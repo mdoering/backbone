@@ -1,5 +1,4 @@
-Sporidesmium dioscoreae M.B. Ellis SPECIES
-=======
+# Sporidesmium dioscoreae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

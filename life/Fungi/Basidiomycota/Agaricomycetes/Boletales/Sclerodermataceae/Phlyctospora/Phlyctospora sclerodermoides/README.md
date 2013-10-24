@@ -1,5 +1,4 @@
-Phlyctospora sclerodermoides Clem. SPECIES
-=======
+# Phlyctospora sclerodermoides Clem. SPECIES
 
 #### Status
 ACCEPTED

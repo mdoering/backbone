@@ -1,17 +1,16 @@
-Keisslerellum Werner GENUS
-=======
+# Mycoporellum Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 6: 14 (1884)
 
 #### Original name
-Keisslerellum Werner
+Mycoporellum Müll. Arg.
 
 ### Remarks
 null

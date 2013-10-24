@@ -1,5 +1,4 @@
-Peziza polarispinosa J. Moravec SPECIES
-=======
+# Peziza polarispinosa J. Moravec SPECIES
 
 #### Status
 ACCEPTED

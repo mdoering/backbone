@@ -1,5 +1,4 @@
-Hydrocybe saturata (J.E. Lange) M.M. Moser SPECIES
-=======
+# Hydrocybe saturata (J.E. Lange) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

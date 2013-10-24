@@ -1,5 +1,4 @@
-Puccinia modica Holw. SPECIES
-=======
+# Puccinia modica Holw. SPECIES
 
 #### Status
 ACCEPTED

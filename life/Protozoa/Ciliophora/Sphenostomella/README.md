@@ -1,5 +1,4 @@
-Sphenostomella Yankovskij, 1980 GENUS
-=======
+# Sphenostomella Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

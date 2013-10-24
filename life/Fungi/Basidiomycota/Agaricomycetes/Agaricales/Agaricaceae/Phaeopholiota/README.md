@@ -1,5 +1,4 @@
-Phaeopholiota Locq. & Sarwal GENUS
-=======
+# Phaeopholiota Locq. & Sarwal GENUS
 
 #### Status
 ACCEPTED

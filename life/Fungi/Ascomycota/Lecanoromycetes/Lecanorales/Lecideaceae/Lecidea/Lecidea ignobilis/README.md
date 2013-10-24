@@ -1,5 +1,4 @@
-Lecidea ignobilis f. subroridula Vain. FORM
-=======
+# Lecidea ignobilis (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea ignobilis f. subroridula Vain.
+Rhizocarpon ignobile Th. Fr.
 
 ### Remarks
 null

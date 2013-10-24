@@ -1,5 +1,4 @@
-Gymnodinium soyai Hada, 1970 SPECIES
-=======
+# Gymnodinium soyai Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

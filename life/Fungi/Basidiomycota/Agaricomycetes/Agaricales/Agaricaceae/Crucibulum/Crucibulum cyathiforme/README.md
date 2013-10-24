@@ -1,5 +1,4 @@
-Crucibulum cyathiforme H.J. Brodie, 1971 SPECIES
-=======
+# Crucibulum cyathiforme H.J. Brodie, 1971 SPECIES
 
 #### Status
 ACCEPTED

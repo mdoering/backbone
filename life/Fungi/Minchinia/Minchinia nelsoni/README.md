@@ -1,5 +1,4 @@
-Minchinia nelsoni Haskins, Stauber & Mackin, 1966 SPECIES
-=======
+# Minchinia nelsoni Haskins, Stauber & Mackin, 1966 SPECIES
 
 #### Status
 ACCEPTED

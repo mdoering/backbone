@@ -1,5 +1,4 @@
-Trichopeziza sericea (Alb. & Schwein. Fr.) SPECIES
-=======
+# Trichopeziza sericea (Alb. & Schwein. Fr.) SPECIES
 
 #### Status
 ACCEPTED

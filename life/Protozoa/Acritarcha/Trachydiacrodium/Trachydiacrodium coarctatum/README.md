@@ -1,5 +1,4 @@
-Trachydiacrodium coarctatum Timofeev, 1959 SPECIES
-=======
+# Trachydiacrodium coarctatum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

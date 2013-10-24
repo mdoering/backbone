@@ -1,5 +1,4 @@
-Agaricus badipus J. Otto SPECIES
-=======
+# Agaricus badipus J. Otto SPECIES
 
 #### Status
 ACCEPTED

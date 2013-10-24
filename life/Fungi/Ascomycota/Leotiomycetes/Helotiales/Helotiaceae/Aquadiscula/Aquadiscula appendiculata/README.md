@@ -1,5 +1,4 @@
-Aquadiscula appendiculata Shearer & J.L. Crane, 1985 SPECIES
-=======
+# Aquadiscula appendiculata Shearer & J.L. Crane, 1985 SPECIES
 
 #### Status
 ACCEPTED

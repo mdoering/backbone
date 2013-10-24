@@ -1,5 +1,4 @@
-Borrera ceratea (Ach.) Röhl. SPECIES
-=======
+# Borrera ceratea (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

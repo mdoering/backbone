@@ -1,5 +1,4 @@
-Plectocarpon melanohaleae Christnach, Ertz & Diederich SPECIES
-=======
+# Plectocarpon melanohaleae Christnach, Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

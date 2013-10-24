@@ -1,5 +1,4 @@
-Lecidea perpunctulata Nyl. SPECIES
-=======
+# Lecidea perpunctulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

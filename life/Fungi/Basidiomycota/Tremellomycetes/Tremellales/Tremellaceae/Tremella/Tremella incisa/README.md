@@ -1,5 +1,4 @@
-Tremella incisa Lloyd SPECIES
-=======
+# Tremella incisa Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria cinereolurida SPECIES
-=======
+# Verrucaria cinereolurida SPECIES
 
 #### Status
 ACCEPTED

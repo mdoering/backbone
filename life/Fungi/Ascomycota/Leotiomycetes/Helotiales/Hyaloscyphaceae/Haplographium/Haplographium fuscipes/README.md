@@ -1,5 +1,4 @@
-Haplographium fuscipes (Preuss) Sacc. SPECIES
-=======
+# Haplographium fuscipes (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

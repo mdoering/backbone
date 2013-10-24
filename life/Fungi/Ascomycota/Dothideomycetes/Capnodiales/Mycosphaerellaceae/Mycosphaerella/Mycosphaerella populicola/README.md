@@ -1,5 +1,4 @@
-Mycosphaerella populicola C.H. Thomps., 1941 SPECIES
-=======
+# Mycosphaerella populicola C.H. Thomps., 1941 SPECIES
 
 #### Status
 ACCEPTED

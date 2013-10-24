@@ -1,5 +1,4 @@
-Polyporus strangeri F. Muell. SPECIES
-=======
+# Polyporus strangeri F. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphula madreporiformis (With.) Duby SPECIES
-=======
+# Siphula madreporiformis (With.) Duby SPECIES
 
 #### Status
 ACCEPTED

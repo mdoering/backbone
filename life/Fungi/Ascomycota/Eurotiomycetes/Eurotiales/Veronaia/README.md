@@ -1,5 +1,4 @@
-Veronaia Benedek GENUS
-=======
+# Veronaia Benedek GENUS
 
 #### Status
 ACCEPTED

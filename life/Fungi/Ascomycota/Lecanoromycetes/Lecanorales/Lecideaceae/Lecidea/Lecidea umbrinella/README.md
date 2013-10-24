@@ -1,5 +1,4 @@
-Lecidea umbrinella Pers. SPECIES
-=======
+# Lecidea umbrinella Pers. SPECIES
 
 #### Status
 ACCEPTED

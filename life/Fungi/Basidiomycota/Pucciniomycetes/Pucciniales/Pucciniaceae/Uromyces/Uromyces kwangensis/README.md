@@ -1,5 +1,4 @@
-Uromyces kwangensis Henn. SPECIES
-=======
+# Uromyces kwangensis Henn. SPECIES
 
 #### Status
 ACCEPTED

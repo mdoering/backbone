@@ -1,5 +1,4 @@
-Ginginodinium ornatum (Felix & Burbridge, 1973) Lentin & Williams, 1976 SPECIES
-=======
+# Ginginodinium ornatum (Felix & Burbridge, 1973) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

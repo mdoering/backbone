@@ -1,5 +1,4 @@
-Coprinus longipes Buller SPECIES
-=======
+# Coprinus longipes Buller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nivatogastrium baylisianum E. Horak, 1971 SPECIES
-=======
+# Nivatogastrium baylisianum E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

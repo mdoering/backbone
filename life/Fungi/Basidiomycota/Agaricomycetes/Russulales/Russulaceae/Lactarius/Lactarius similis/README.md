@@ -1,5 +1,4 @@
-Lactarius similis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius similis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

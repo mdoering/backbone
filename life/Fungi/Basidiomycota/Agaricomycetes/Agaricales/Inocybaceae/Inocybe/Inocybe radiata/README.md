@@ -1,5 +1,4 @@
-Inocybe radiata Peck SPECIES
-=======
+# Inocybe radiata Peck SPECIES
 
 #### Status
 ACCEPTED

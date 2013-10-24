@@ -1,5 +1,4 @@
-Ctenosporites eskerensis Elsik & Janson. SPECIES
-=======
+# Ctenosporites eskerensis Elsik & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia leptospora Zschacke SPECIES
-=======
+# Polyblastia leptospora Zschacke SPECIES
 
 #### Status
 ACCEPTED

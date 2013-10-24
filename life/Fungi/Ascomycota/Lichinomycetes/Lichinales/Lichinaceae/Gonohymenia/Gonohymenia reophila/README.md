@@ -1,5 +1,4 @@
-Gonohymenia reophila N.S. Golubk. SPECIES
-=======
+# Gonohymenia reophila N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

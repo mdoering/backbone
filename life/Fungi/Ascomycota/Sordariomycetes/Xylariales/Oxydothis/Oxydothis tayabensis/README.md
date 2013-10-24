@@ -1,5 +1,4 @@
-Oxydothis tayabensis (H.S. Yates) Trotter SPECIES
-=======
+# Oxydothis tayabensis (H.S. Yates) Trotter SPECIES
 
 #### Status
 ACCEPTED

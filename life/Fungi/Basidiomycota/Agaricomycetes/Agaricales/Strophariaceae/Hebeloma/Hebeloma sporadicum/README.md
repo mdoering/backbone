@@ -1,5 +1,4 @@
-Hebeloma sporadicum Sm. SPECIES
-=======
+# Hebeloma sporadicum Sm. SPECIES
 
 #### Status
 ACCEPTED

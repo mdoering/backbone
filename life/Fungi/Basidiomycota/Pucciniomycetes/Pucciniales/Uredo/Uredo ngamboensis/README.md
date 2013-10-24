@@ -1,5 +1,4 @@
-Uredo ngamboensis Henn. SPECIES
-=======
+# Uredo ngamboensis Henn. SPECIES
 
 #### Status
 ACCEPTED

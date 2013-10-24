@@ -1,5 +1,4 @@
-Rosellinia citrinopulverulenta Henn. & E. Nyman SPECIES
-=======
+# Rosellinia citrinopulverulenta Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

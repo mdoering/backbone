@@ -1,17 +1,16 @@
-Battarrea phalloides var. phalloides VARIETY
-=======
+# Battarrea phalloides (Dicks.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: xiv, 129 (1801)
 
 #### Original name
-Battarrea phalloides var. phalloides
+Lycoperdon phalloides Dicks., 1785
 
 ### Remarks
 null

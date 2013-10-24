@@ -1,5 +1,4 @@
-Aleurisma arloingi (Busquet ex Guég.) Vaill. SPECIES
-=======
+# Aleurisma arloingi (Busquet ex Guég.) Vaill. SPECIES
 
 #### Status
 ACCEPTED

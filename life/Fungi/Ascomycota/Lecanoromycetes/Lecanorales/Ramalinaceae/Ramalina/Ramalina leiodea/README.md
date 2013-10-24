@@ -1,5 +1,4 @@
-Ramalina leiodea (Nyl.) Nyl. SPECIES
-=======
+# Ramalina leiodea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

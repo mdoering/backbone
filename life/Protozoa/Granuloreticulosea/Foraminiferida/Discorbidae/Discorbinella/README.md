@@ -1,5 +1,4 @@
-Discorbinella Cushman & Martin, 1935 GENUS
-=======
+# Discorbinella Cushman & Martin, 1935 GENUS
 
 #### Status
 ACCEPTED

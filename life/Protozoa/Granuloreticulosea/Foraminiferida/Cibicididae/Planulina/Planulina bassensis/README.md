@@ -1,5 +1,4 @@
-Planulina bassensis Collins, 1974 SPECIES
-=======
+# Planulina bassensis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanorella GENUS
-=======
+# Lecanorella GENUS
 
 #### Status
 ACCEPTED

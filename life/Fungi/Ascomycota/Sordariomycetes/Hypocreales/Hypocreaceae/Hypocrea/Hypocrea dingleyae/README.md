@@ -1,5 +1,4 @@
-Hypocrea dingleyae Samuels & Dodd SPECIES
-=======
+# Hypocrea dingleyae Samuels & Dodd SPECIES
 
 #### Status
 ACCEPTED

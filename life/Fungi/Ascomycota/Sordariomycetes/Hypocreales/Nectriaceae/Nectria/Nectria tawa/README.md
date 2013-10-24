@@ -1,5 +1,4 @@
-Nectria tawa Dingley, 1951 SPECIES
-=======
+# Nectria tawa Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

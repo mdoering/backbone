@@ -1,5 +1,4 @@
-Gymnographomyces medusulinae Cif. & Tomas. SPECIES
-=======
+# Gymnographomyces medusulinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

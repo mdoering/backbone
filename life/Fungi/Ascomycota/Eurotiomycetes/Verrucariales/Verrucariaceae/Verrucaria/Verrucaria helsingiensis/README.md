@@ -1,5 +1,4 @@
-Verrucaria helsingiensis Vain. SPECIES
-=======
+# Verrucaria helsingiensis Vain. SPECIES
 
 #### Status
 ACCEPTED

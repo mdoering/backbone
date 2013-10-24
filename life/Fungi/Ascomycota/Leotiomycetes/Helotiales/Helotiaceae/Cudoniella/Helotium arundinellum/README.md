@@ -1,5 +1,4 @@
-Helotium arundinellum Sacc. & Speg. SPECIES
-=======
+# Helotium arundinellum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

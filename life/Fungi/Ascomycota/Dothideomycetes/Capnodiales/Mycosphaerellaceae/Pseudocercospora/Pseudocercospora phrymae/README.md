@@ -1,5 +1,4 @@
-Pseudocercospora phrymae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora phrymae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

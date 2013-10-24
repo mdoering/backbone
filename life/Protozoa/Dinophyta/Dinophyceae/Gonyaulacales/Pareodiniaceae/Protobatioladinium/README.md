@@ -1,5 +1,4 @@
-Protobatioladinium Nøhr-Hansen, 1986 GENUS
-=======
+# Protobatioladinium Nøhr-Hansen, 1986 GENUS
 
 #### Status
 ACCEPTED

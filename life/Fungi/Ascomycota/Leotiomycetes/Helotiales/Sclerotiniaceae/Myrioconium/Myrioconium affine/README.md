@@ -1,5 +1,4 @@
-Myrioconium affine (Desm.) N.F. Buchw. SPECIES
-=======
+# Myrioconium affine (Desm.) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

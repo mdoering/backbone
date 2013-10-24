@@ -1,5 +1,4 @@
-Tricholigotriletum glauconiticum Timofeev, 1959 SPECIES
-=======
+# Tricholigotriletum glauconiticum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

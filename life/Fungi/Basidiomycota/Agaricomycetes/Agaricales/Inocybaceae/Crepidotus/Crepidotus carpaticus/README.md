@@ -1,17 +1,16 @@
-Crepidotus wakefieldiae Pilát, 1949 SPECIES
-=======
+# Crepidotus carpaticus Pilát, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Bot. Cechoslav. 10(4): 152 (1949)
+Hedwigia 69: 140 (1929)
 
 #### Original name
-Crepidotus wakefieldiae Pilát, 1949
+Crepidotus carpaticus Pilát, 1929
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Petromyces muricatus Udagawa, Uchiy. & Kamiya, 1994 SPECIES
-=======
+# Neopetromyces muricatus (Udagawa, Uchiy. & Kamiya) Frisvad & Samson, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 52(1): 208 (1994)
+Stud. Mycol. 45: 204 (2000)
 
 #### Original name
 Petromyces muricatus Udagawa, Uchiy. & Kamiya, 1994

@@ -1,5 +1,4 @@
-Pirottaea exilispora Graddon, 1977 SPECIES
-=======
+# Pirottaea exilispora Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

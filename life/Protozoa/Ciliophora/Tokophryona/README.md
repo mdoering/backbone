@@ -1,5 +1,4 @@
-Tokophryona Yankovskij, 1982 GENUS
-=======
+# Tokophryona Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

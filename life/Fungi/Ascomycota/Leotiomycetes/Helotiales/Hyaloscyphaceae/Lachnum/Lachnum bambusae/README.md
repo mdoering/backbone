@@ -1,5 +1,4 @@
-Lachnum bambusae (Rick) J.H. Haines SPECIES
-=======
+# Lachnum bambusae (Rick) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

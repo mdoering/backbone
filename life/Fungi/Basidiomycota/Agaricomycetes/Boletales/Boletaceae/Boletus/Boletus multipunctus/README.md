@@ -1,5 +1,4 @@
-Boletus multipunctus Peck SPECIES
-=======
+# Boletus multipunctus Peck SPECIES
 
 #### Status
 ACCEPTED

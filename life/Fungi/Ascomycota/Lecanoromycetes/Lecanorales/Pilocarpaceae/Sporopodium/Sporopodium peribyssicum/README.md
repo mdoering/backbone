@@ -1,5 +1,4 @@
-Sporopodium peribyssicum (Nyl.) Vain. SPECIES
-=======
+# Sporopodium peribyssicum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

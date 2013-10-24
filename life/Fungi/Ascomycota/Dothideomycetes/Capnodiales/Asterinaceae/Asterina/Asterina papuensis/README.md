@@ -1,5 +1,4 @@
-Asterina papuensis Hansf. SPECIES
-=======
+# Asterina papuensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

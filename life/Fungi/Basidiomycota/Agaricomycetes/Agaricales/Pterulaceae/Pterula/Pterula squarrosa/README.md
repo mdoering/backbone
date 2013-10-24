@@ -1,5 +1,4 @@
-Pterula squarrosa Henn. SPECIES
-=======
+# Pterula squarrosa Henn. SPECIES
 
 #### Status
 ACCEPTED

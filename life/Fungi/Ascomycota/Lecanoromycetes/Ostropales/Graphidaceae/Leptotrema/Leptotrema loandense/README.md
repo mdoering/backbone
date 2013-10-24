@@ -1,5 +1,4 @@
-Leptotrema loandense (Vain.) Zahlbr. SPECIES
-=======
+# Leptotrema loandense (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

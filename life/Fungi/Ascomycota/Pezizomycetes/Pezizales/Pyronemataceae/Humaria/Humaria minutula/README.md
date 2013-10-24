@@ -1,5 +1,4 @@
-Humaria minutula Pat. SPECIES
-=======
+# Humaria minutula Pat. SPECIES
 
 #### Status
 ACCEPTED

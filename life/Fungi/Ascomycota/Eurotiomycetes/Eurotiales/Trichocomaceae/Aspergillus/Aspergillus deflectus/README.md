@@ -1,5 +1,4 @@
-Aspergillus deflectus Fennell & Raper, 1955 SPECIES
-=======
+# Aspergillus deflectus Fennell & Raper, 1955 SPECIES
 
 #### Status
 ACCEPTED

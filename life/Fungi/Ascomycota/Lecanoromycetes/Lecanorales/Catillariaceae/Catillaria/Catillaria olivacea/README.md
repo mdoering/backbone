@@ -1,5 +1,4 @@
-Catillaria olivacea var. soredifera Zahlbr. VARIETY
-=======
+# Catillaria olivacea (Dufour) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catillaria olivacea var. soredifera Zahlbr.
+Biatora olivacea Dufour
 
 ### Remarks
 null

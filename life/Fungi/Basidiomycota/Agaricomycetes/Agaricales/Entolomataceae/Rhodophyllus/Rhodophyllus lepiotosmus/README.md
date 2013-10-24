@@ -1,5 +1,4 @@
-Rhodophyllus lepiotosmus Romagn. SPECIES
-=======
+# Rhodophyllus lepiotosmus Romagn. SPECIES
 
 #### Status
 ACCEPTED

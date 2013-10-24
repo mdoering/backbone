@@ -1,5 +1,4 @@
-Hydnum helveolum Zipp. ex Lév. SPECIES
-=======
+# Hydnum helveolum Zipp. ex Lév. SPECIES
 
 #### Status
 ACCEPTED

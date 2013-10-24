@@ -1,5 +1,4 @@
-Ceratosphaeria phyllostachydis Y.R. Liao SPECIES
-=======
+# Ceratosphaeria phyllostachydis Y.R. Liao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella conferviphila Velen. SPECIES
-=======
+# Pezizella conferviphila Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyococcites callidus Perch-Nielsen (1971 d SPECIES
-=======
+# Dictyococcites callidus Perch-Nielsen (1971 d SPECIES
 
 #### Status
 ACCEPTED

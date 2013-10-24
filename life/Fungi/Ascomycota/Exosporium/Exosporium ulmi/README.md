@@ -1,5 +1,4 @@
-Exosporium ulmi Erikss. SPECIES
-=======
+# Exosporium ulmi Erikss. SPECIES
 
 #### Status
 ACCEPTED

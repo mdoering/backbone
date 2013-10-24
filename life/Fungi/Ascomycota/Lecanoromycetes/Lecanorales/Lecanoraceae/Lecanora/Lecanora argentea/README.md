@@ -1,5 +1,4 @@
-Lecanora argentea Oxner & Volkova SPECIES
-=======
+# Lecanora argentea Oxner & Volkova SPECIES
 
 #### Status
 ACCEPTED

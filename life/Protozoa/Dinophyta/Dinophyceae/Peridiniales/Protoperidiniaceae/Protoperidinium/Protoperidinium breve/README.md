@@ -1,5 +1,4 @@
-Protoperidinium breve Paulsen SPECIES
-=======
+# Protoperidinium breve Paulsen SPECIES
 
 #### Status
 ACCEPTED

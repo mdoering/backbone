@@ -1,5 +1,4 @@
-Pleurotus velatus Segedin, P.K. Buchanan & J.P. Wilkie, 1995 SPECIES
-=======
+# Pleurotus velatus Segedin, P.K. Buchanan & J.P. Wilkie, 1995 SPECIES
 
 #### Status
 ACCEPTED

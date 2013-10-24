@@ -1,5 +1,4 @@
-Endothiella singularis (Syd.) Roane SPECIES
-=======
+# Endothiella singularis (Syd.) Roane SPECIES
 
 #### Status
 ACCEPTED

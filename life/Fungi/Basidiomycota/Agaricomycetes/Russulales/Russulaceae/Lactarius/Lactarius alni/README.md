@@ -1,5 +1,4 @@
-Lactarius alni Singer SPECIES
-=======
+# Lactarius alni Singer SPECIES
 
 #### Status
 ACCEPTED

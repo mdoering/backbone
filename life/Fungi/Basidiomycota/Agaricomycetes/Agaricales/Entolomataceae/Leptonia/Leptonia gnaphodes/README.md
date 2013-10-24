@@ -1,5 +1,4 @@
-Leptonia gnaphodes Berk. & Broome SPECIES
-=======
+# Leptonia gnaphodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

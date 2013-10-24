@@ -1,5 +1,4 @@
-Dinemasporium acaciae Magdum SPECIES
-=======
+# Dinemasporium acaciae Magdum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavariadelphus yunnanensis Methven, 1989 SPECIES
-=======
+# Clavariadelphus yunnanensis Methven, 1989 SPECIES
 
 #### Status
 ACCEPTED

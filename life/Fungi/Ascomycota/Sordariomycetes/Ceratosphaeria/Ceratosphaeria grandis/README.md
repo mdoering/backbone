@@ -1,5 +1,4 @@
-Ceratosphaeria grandis Boud. SPECIES
-=======
+# Ceratosphaeria grandis Boud. SPECIES
 
 #### Status
 ACCEPTED

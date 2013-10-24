@@ -1,5 +1,4 @@
-Ascobolus phasaneus Velen. SPECIES
-=======
+# Ascobolus phasaneus Velen. SPECIES
 
 #### Status
 ACCEPTED

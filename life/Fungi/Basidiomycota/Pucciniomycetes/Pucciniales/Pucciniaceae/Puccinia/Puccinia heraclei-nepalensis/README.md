@@ -1,5 +1,4 @@
-Puccinia heraclei-nepalensis Durrieu SPECIES
-=======
+# Puccinia heraclei-nepalensis Durrieu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerella vogelii P. Syd., 1908 SPECIES
-=======
+# Mycosphaerella vogelii (Syd. & P. Syd.) Tomilin, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaerella vogesiaca Syd. & P. Syd.
 
 ### Remarks
 null

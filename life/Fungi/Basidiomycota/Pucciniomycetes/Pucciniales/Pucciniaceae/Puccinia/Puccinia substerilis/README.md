@@ -1,5 +1,4 @@
-Puccinia substerilis Ellis & Everh. SPECIES
-=======
+# Puccinia substerilis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

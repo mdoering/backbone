@@ -1,5 +1,4 @@
-Marasmius rigidichorda Petch SPECIES
-=======
+# Marasmius rigidichorda Petch SPECIES
 
 #### Status
 ACCEPTED

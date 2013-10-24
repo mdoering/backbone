@@ -1,5 +1,4 @@
-Cladonia subfurcata (Nyl.) Arnold SPECIES
-=======
+# Cladonia subfurcata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

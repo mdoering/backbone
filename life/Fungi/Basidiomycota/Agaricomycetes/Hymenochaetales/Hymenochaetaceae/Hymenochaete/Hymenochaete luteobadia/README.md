@@ -1,17 +1,16 @@
-Coniophora pulverulenta (Lév.) Cooke, 1888 SPECIES
-=======
+# Hymenochaete luteobadia (Fr.) Höhn. & Litsch., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 649 (1888)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 750 (1907)
 
 #### Original name
-Thelephora pulverulenta Lév., 1846
+Thelephora badia Kunze
 
 ### Remarks
 null

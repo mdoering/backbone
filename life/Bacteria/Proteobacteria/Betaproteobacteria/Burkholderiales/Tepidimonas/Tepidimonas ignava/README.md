@@ -1,5 +1,4 @@
-Tepidimonas ignava Moreira et al., 2000 SPECIES
-=======
+# Tepidimonas ignava Moreira et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

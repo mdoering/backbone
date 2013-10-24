@@ -1,5 +1,4 @@
-Arthonia microcarpa Müll. Arg. SPECIES
-=======
+# Arthonia microcarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

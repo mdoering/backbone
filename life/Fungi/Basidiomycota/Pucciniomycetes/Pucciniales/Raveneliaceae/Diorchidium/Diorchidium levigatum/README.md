@@ -1,5 +1,4 @@
-Diorchidium levigatum Syd. & E.J. Butler SPECIES
-=======
+# Diorchidium levigatum Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

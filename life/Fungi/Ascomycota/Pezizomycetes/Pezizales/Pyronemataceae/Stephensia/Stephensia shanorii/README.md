@@ -1,5 +1,4 @@
-Stephensia shanorii (Gilkey) Gilkey, 1962 SPECIES
-=======
+# Stephensia shanorii (Gilkey) Gilkey, 1962 SPECIES
 
 #### Status
 ACCEPTED

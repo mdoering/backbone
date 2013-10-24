@@ -1,5 +1,4 @@
-Pleurothyrium Bubák, 1916 GENUS
-=======
+# Pleurothyrium Bubák, 1916 GENUS
 
 #### Status
 ACCEPTED

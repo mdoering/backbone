@@ -1,5 +1,4 @@
-Salpingacantha ampla Kofoid & Campbell, 1929 SPECIES
-=======
+# Salpingacantha ampla Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

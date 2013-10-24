@@ -1,5 +1,4 @@
-Ramalina pentecostii Krog & Swinscow SPECIES
-=======
+# Ramalina pentecostii Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

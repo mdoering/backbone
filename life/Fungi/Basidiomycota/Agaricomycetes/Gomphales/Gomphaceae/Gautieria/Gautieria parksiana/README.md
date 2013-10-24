@@ -1,5 +1,4 @@
-Gautieria parksiana Zeller & C.W. Dodge SPECIES
-=======
+# Gautieria parksiana Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

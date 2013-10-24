@@ -1,14 +1,13 @@
-Gloeocystidium insidiosum Bourdot & Galzin, 1913 SPECIES
-=======
+# Conferticium insidiosum (Bourdot & Galzin) Hallenb., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 370 (1913)
+Mycotaxon 11(2): 448 (1980)
 
 #### Original name
 Gloeocystidium insidiosum Bourdot & Galzin, 1913

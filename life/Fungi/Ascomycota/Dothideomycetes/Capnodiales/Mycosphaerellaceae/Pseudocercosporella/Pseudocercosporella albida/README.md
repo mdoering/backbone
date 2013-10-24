@@ -1,5 +1,4 @@
-Pseudocercosporella albida (Matta & Belliard) Deighton SPECIES
-=======
+# Pseudocercosporella albida (Matta & Belliard) Deighton SPECIES
 
 #### Status
 ACCEPTED

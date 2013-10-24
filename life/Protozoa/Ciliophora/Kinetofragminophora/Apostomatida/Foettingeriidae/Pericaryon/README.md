@@ -1,5 +1,4 @@
-Pericaryon Chatton, 1911 GENUS
-=======
+# Pericaryon Chatton, 1911 GENUS
 
 #### Status
 ACCEPTED

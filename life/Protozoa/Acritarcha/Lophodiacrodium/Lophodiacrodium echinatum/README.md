@@ -1,5 +1,4 @@
-Lophodiacrodium echinatum (Naumova, 1950) Martin, 1972 SPECIES
-=======
+# Lophodiacrodium echinatum (Naumova, 1950) Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

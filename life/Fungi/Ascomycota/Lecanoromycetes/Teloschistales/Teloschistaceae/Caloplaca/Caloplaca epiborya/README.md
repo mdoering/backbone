@@ -1,5 +1,4 @@
-Caloplaca epiborya S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca epiborya S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

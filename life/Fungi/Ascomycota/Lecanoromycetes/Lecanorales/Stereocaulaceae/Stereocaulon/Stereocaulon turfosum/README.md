@@ -1,5 +1,4 @@
-Stereocaulon turfosum Bory SPECIES
-=======
+# Stereocaulon turfosum Bory SPECIES
 
 #### Status
 ACCEPTED

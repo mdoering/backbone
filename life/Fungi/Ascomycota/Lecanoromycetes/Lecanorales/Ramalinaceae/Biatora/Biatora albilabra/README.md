@@ -1,5 +1,4 @@
-Biatora albilabra Dufour SPECIES
-=======
+# Biatora albilabra Dufour SPECIES
 
 #### Status
 ACCEPTED

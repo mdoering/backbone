@@ -1,8 +1,7 @@
-Mycoleptodon taurinum (Pers.) Bourdot SPECIES
-=======
+# Mycoleptodon taurinus (Pers.) Bourdot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

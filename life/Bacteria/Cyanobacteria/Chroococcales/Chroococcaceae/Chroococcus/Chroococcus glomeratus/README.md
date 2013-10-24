@@ -1,5 +1,4 @@
-Chroococcus glomeratus (Meneghini) Forti SPECIES
-=======
+# Chroococcus glomeratus (Meneghini) Forti SPECIES
 
 #### Status
 ACCEPTED

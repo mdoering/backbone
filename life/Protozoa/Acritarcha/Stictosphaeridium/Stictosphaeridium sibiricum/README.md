@@ -1,5 +1,4 @@
-Stictosphaeridium sibiricum Rudavskaya & Timofeev, 1963 ex Timofeev SPECIES
-=======
+# Stictosphaeridium sibiricum Rudavskaya & Timofeev, 1963 ex Timofeev SPECIES
 
 #### Status
 ACCEPTED

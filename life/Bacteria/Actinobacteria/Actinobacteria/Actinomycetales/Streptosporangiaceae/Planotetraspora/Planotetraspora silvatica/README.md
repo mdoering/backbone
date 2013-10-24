@@ -1,5 +1,4 @@
-Planotetraspora silvatica Tamura & Sakane, 2004 SPECIES
-=======
+# Planotetraspora silvatica Tamura & Sakane, 2004 SPECIES
 
 #### Status
 ACCEPTED

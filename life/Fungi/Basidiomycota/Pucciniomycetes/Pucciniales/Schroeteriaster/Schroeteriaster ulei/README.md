@@ -1,5 +1,4 @@
-Schroeteriaster ulei Syd. & P. Syd. SPECIES
-=======
+# Schroeteriaster ulei Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

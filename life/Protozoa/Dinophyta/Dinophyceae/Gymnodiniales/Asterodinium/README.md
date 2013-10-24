@@ -1,5 +1,4 @@
-Asterodinium Sournia, 1972 GENUS
-=======
+# Asterodinium Sournia, 1972 GENUS
 
 #### Status
 ACCEPTED

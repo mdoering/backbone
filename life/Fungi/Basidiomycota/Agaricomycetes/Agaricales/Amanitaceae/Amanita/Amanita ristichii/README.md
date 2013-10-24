@@ -1,5 +1,4 @@
-Amanita ristichii Tulloss SPECIES
-=======
+# Amanita ristichii Tulloss SPECIES
 
 #### Status
 ACCEPTED

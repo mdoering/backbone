@@ -1,5 +1,4 @@
-Thelenella inductula (Nyl.) H. Mayrhofer SPECIES
-=======
+# Thelenella inductula (Nyl.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

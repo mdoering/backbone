@@ -1,5 +1,4 @@
-Lichen fungiflorus Schrank SPECIES
-=======
+# Lichen fungiflorus Schrank SPECIES
 
 #### Status
 ACCEPTED

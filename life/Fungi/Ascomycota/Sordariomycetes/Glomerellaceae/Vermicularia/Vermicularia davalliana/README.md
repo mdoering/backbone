@@ -1,5 +1,4 @@
-Vermicularia davalliana Briard & Har. SPECIES
-=======
+# Vermicularia davalliana Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

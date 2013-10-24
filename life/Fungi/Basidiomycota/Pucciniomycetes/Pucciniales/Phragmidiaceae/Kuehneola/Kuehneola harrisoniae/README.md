@@ -1,5 +1,4 @@
-Kuehneola harrisoniae (Syd. & P. Syd.) Arthur & Cummins SPECIES
-=======
+# Kuehneola harrisoniae (Syd. & P. Syd.) Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

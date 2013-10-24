@@ -1,5 +1,4 @@
-Erysiphe greeneana U. Braun SPECIES
-=======
+# Erysiphe greeneana U. Braun SPECIES
 
 #### Status
 ACCEPTED

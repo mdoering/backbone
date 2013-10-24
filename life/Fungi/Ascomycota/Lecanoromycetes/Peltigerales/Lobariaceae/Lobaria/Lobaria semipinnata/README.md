@@ -1,5 +1,4 @@
-Lobaria semipinnata Hoffm. SPECIES
-=======
+# Lobaria semipinnata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphenospora copaifera P. Syd., 1924 SPECIES
-=======
+# Diorchidium copaifera (P. Syd.) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Sphenospora copaifera P. Syd., 1924

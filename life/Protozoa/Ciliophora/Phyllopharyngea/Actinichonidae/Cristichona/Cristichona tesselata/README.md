@@ -1,5 +1,4 @@
-Cristichona tesselata Jankowski, 1973 SPECIES
-=======
+# Cristichona tesselata Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

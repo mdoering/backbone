@@ -1,5 +1,4 @@
-Tulostoma purpusii Henn. SPECIES
-=======
+# Tulostoma purpusii Henn. SPECIES
 
 #### Status
 ACCEPTED

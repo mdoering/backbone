@@ -1,5 +1,4 @@
-Periconia laxa Bat. & Peres SPECIES
-=======
+# Periconia laxa Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

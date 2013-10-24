@@ -1,5 +1,4 @@
-Elasmomyces GENUS
-=======
+# Elasmomyces GENUS
 
 #### Status
 ACCEPTED

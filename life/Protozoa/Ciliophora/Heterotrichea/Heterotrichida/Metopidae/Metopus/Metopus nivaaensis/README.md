@@ -1,5 +1,4 @@
-Metopus nivaaensis Esteban, Fenchel & Finlay, 1995 SPECIES
-=======
+# Metopus nivaaensis Esteban, Fenchel & Finlay, 1995 SPECIES
 
 #### Status
 ACCEPTED

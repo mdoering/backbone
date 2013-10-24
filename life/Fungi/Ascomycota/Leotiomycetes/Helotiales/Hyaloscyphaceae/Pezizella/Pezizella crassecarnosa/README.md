@@ -1,5 +1,4 @@
-Pezizella crassecarnosa Velen. SPECIES
-=======
+# Pezizella crassecarnosa Velen. SPECIES
 
 #### Status
 ACCEPTED

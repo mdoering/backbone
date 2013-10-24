@@ -1,5 +1,4 @@
-Anthostomella hinoana Katum. SPECIES
-=======
+# Anthostomella hinoana Katum. SPECIES
 
 #### Status
 ACCEPTED

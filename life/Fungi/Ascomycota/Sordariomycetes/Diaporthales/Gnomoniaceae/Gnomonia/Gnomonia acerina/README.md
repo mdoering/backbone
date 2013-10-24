@@ -1,5 +1,4 @@
-Gnomonia acerina Starbäck SPECIES
-=======
+# Gnomonia acerina Starbäck SPECIES
 
 #### Status
 ACCEPTED

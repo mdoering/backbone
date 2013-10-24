@@ -1,5 +1,4 @@
-Aphanobasidium curvisporum Boidin & Gilles SPECIES
-=======
+# Aphanobasidium curvisporum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

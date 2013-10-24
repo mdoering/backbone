@@ -1,5 +1,4 @@
-Sphaeria juniperina P. Karst. SPECIES
-=======
+# Sphaeria juniperina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

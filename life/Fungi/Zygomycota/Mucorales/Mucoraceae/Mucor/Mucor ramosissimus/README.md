@@ -1,5 +1,4 @@
-Mucor ramosissimus Samouts., 1927 SPECIES
-=======
+# Mucor ramosissimus Samouts., 1927 SPECIES
 
 #### Status
 ACCEPTED

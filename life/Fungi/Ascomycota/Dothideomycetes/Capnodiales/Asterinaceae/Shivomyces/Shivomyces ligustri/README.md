@@ -1,17 +1,16 @@
-Shivamyces ligustri Hosag. & Kamar., 2004 SPECIES
-=======
+# Shivomyces ligustri Hosag. & Kamar., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hosagoudar, J. Econ. Taxon. Bot. 28(1): 193 (2004)
 
 #### Original name
-Shivamyces ligustri Hosag. & Kamar., 2004
+Shivomyces ligustri Hosag. & Kamar., 2004
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota flavescens Morgan SPECIES
-=======
+# Lepiota flavescens Morgan SPECIES
 
 #### Status
 ACCEPTED

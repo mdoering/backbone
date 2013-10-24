@@ -1,5 +1,4 @@
-Alatipicapora latoalata SPECIES
-=======
+# Alatipicapora latoalata SPECIES
 
 #### Status
 ACCEPTED

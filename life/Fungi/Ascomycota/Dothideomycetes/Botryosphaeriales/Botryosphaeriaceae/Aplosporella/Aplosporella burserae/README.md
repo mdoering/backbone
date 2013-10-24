@@ -1,5 +1,4 @@
-Aplosporella burserae Luke & C.N. Reddy SPECIES
-=======
+# Aplosporella burserae Luke & C.N. Reddy SPECIES
 
 #### Status
 ACCEPTED

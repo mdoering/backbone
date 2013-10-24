@@ -1,5 +1,4 @@
-Nanostictis M.S. Christ. GENUS
-=======
+# Nanostictis M.S. Christ. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora cateilea f. cateilea FORM
-=======
+# Lecanora cateilea (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

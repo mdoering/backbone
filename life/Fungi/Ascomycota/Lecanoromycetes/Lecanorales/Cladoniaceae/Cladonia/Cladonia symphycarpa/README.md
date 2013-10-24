@@ -1,5 +1,4 @@
-Cladonia symphycarpa (Ach.) Fr. SPECIES
-=======
+# Cladonia symphycarpa (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

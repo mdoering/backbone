@@ -1,5 +1,4 @@
-Trichangium vinosum Kirschst., 1935 SPECIES
-=======
+# Trichangium vinosum Kirschst., 1935 SPECIES
 
 #### Status
 ACCEPTED

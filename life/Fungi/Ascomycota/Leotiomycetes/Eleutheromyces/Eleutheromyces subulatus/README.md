@@ -1,14 +1,13 @@
-Sphaeronaema subulatum Tode, 1790 SPECIES
-=======
+# Eleutheromyces subulatus (Tode) Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. mecklenb. sel. (Lüneburg) 2: 44 (1790)
+Jb. nassau. Ver. Naturk. 23-24: 183 (1870)
 
 #### Original name
 Sphaeronaema subulatum Tode, 1790

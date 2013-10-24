@@ -1,5 +1,4 @@
-Arthrobotrys soprunovii Mekht. SPECIES
-=======
+# Arthrobotrys soprunovii Mekht. SPECIES
 
 #### Status
 ACCEPTED

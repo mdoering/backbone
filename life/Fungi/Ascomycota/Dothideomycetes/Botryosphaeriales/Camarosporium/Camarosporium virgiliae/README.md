@@ -1,5 +1,4 @@
-Camarosporium virgiliae Henn., 1903 SPECIES
-=======
+# Camarosporium virgiliae Henn., 1903 SPECIES
 
 #### Status
 ACCEPTED

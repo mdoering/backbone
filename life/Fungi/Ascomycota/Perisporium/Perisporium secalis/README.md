@@ -1,5 +1,4 @@
-Perisporium secalis (Richon) Sacc. SPECIES
-=======
+# Perisporium secalis (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

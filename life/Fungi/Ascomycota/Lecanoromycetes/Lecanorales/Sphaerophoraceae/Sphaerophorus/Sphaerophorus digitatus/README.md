@@ -1,5 +1,4 @@
-Sphaerophorus digitatus Wang-Yang & M.J. Lai SPECIES
-=======
+# Sphaerophorus digitatus Wang-Yang & M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

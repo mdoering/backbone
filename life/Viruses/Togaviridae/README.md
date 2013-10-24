@@ -1,5 +1,4 @@
-Togaviridae FAMILY
-=======
+# Togaviridae FAMILY
 
 #### Status
 ACCEPTED

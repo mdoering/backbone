@@ -1,5 +1,4 @@
-Cercoseptoria glycosmidis B.K. Gupta & Kamal SPECIES
-=======
+# Cercoseptoria glycosmidis B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

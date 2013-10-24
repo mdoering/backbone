@@ -1,5 +1,4 @@
-Puccinia polycampta Syd. SPECIES
-=======
+# Puccinia polycampta Syd. SPECIES
 
 #### Status
 ACCEPTED

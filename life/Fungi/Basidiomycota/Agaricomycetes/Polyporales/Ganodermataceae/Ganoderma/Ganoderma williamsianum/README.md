@@ -1,14 +1,13 @@
-Elfvingia williamsiana (Murrill) Imazeki, 1952 SPECIES
-=======
+# Ganoderma williamsianum Murrill, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Gov. Forest Exp. St. Tokyo 57: 106 (1952)
+Bull. Torrey bot. Club 34: 478 (1907)
 
 #### Original name
 Ganoderma williamsianum Murrill, 1907

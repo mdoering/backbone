@@ -1,5 +1,4 @@
-Septoria chinensis Miura SPECIES
-=======
+# Septoria chinensis Miura SPECIES
 
 #### Status
 ACCEPTED

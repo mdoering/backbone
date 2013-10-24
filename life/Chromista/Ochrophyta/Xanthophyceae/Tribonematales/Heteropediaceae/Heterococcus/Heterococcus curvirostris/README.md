@@ -1,5 +1,4 @@
-Heterococcus curvirostris Pitschmann SPECIES
-=======
+# Heterococcus curvirostris Pitschmann SPECIES
 
 #### Status
 ACCEPTED

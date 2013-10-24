@@ -1,5 +1,4 @@
-Marasmius ferruginacies Antonín SPECIES
-=======
+# Marasmius ferruginacies Antonín SPECIES
 
 #### Status
 ACCEPTED

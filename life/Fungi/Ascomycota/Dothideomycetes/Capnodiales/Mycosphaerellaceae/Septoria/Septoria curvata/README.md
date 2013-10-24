@@ -1,5 +1,4 @@
-Septoria curvata (Rabenh. & A. Braun) Sacc. SPECIES
-=======
+# Septoria curvata (Rabenh. & A. Braun) Sacc. SPECIES
 
 #### Status
 ACCEPTED

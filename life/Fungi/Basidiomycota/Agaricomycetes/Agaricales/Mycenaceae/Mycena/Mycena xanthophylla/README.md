@@ -1,5 +1,4 @@
-Mycena xanthophylla Berk. SPECIES
-=======
+# Mycena xanthophylla Berk. SPECIES
 
 #### Status
 ACCEPTED

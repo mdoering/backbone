@@ -1,5 +1,4 @@
-Eomycetopsis J.W. Schopf GENUS
-=======
+# Eomycetopsis J.W. Schopf GENUS
 
 #### Status
 ACCEPTED

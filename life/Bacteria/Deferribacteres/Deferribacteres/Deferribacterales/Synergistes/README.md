@@ -1,5 +1,4 @@
-Synergistes Allison, Mayberry, McSweeney & Stahl, 1993 GENUS
-=======
+# Synergistes Allison, Mayberry, McSweeney & Stahl, 1993 GENUS
 
 #### Status
 ACCEPTED

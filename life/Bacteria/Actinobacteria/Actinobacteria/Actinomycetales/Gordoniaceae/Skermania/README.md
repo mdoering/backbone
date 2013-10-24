@@ -1,5 +1,4 @@
-Skermania Chun, Blackall, Kang, Hah & Goodfellow, 1997 GENUS
-=======
+# Skermania Chun, Blackall, Kang, Hah & Goodfellow, 1997 GENUS
 
 #### Status
 ACCEPTED

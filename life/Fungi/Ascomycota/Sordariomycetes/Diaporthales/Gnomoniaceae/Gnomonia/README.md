@@ -1,17 +1,16 @@
-Melanopelta Kirschstein, 1939 GENUS
-=======
+# Gnomonia Cesati & De Notaris, 1863 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37: 113 (1939)
+Comm. Soc. crittog. Ital. 1: 231 (1863)
 
 #### Original name
-Melanopelta Kirschstein, 1939
+Gnomonia Cesati & De Notaris, 1863
 
 ### Remarks
 null

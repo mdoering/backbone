@@ -1,5 +1,4 @@
-Plectophoma umbelliferarum Höhn. SPECIES
-=======
+# Plectophoma umbelliferarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum fraxini Velen. SPECIES
-=======
+# Lachnum fraxini Velen. SPECIES
 
 #### Status
 ACCEPTED

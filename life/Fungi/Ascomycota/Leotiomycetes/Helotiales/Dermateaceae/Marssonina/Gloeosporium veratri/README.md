@@ -1,5 +1,4 @@
-Gloeosporium veratri (Allesch.) Höhn. SPECIES
-=======
+# Gloeosporium veratri (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

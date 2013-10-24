@@ -1,5 +1,4 @@
-Striglia discolor (Fr.) Kuntze SPECIES
-=======
+# Striglia discolor (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

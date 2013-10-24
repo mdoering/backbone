@@ -1,5 +1,4 @@
-Ramalina abyssinica Nyl. SPECIES
-=======
+# Ramalina abyssinica Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina garciniicola Ouyang & B. Song SPECIES
-=======
+# Asterina garciniicola Ouyang & B. Song SPECIES
 
 #### Status
 ACCEPTED

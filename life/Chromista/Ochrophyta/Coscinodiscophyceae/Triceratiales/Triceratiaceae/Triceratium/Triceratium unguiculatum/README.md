@@ -1,5 +1,4 @@
-Triceratium unguiculatum f. quinquangulum P.A. Sims & R. Ross FORM
-=======
+# Triceratium unguiculatum SPECIES
 
 #### Status
 ACCEPTED

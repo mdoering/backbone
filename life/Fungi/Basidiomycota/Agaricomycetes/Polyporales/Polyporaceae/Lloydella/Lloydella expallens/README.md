@@ -1,5 +1,4 @@
-Lloydella expallens var. expallens Rick VARIETY
-=======
+# Lloydella expallens Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brotéria, sér. Ci. Nat. 9: 90 (1940)
 
 #### Original name
-Lloydella expallens var. expallens Rick
+Lloydella expallens Rick
 
 ### Remarks
 null

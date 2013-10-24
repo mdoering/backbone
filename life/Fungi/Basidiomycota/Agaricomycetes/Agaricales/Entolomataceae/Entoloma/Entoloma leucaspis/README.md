@@ -1,5 +1,4 @@
-Entoloma leucaspis E. Horak SPECIES
-=======
+# Entoloma leucaspis E. Horak SPECIES
 
 #### Status
 ACCEPTED

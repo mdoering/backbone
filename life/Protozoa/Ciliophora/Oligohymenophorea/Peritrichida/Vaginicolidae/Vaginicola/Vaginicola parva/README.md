@@ -1,5 +1,4 @@
-Vaginicola parva Dumas, 1929 SPECIES
-=======
+# Vaginicola parva Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

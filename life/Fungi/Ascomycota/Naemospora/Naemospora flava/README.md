@@ -1,5 +1,4 @@
-Naemospora flava (Bonord.) Sacc. SPECIES
-=======
+# Naemospora flava (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

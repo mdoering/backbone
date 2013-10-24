@@ -1,5 +1,4 @@
-Ceraiomyces GENUS
-=======
+# Ceraiomyces GENUS
 
 #### Status
 ACCEPTED

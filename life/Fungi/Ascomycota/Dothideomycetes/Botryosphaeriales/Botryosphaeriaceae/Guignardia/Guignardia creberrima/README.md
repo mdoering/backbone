@@ -1,5 +1,4 @@
-Guignardia creberrima Syd. & P. Syd. SPECIES
-=======
+# Guignardia creberrima Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

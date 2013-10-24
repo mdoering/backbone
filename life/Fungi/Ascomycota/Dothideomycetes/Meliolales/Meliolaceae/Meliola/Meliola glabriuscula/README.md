@@ -1,5 +1,4 @@
-Meliola glabriuscula Speg. SPECIES
-=======
+# Meliola glabriuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

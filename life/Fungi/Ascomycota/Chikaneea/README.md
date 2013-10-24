@@ -1,5 +1,4 @@
-Chikaneea B. Sutton GENUS
-=======
+# Chikaneea B. Sutton GENUS
 
 #### Status
 ACCEPTED

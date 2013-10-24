@@ -1,5 +1,4 @@
-Uredo ixiae Lév. SPECIES
-=======
+# Uredo ixiae Lév. SPECIES
 
 #### Status
 ACCEPTED

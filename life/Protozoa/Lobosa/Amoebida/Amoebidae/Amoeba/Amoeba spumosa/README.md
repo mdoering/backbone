@@ -1,5 +1,4 @@
-Amoeba spumosa Grub. SPECIES
-=======
+# Amoeba spumosa Grub. SPECIES
 
 #### Status
 ACCEPTED

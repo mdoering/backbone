@@ -1,17 +1,16 @@
-Bacidia incompta var. incompta VARIETY
-=======
+# Bacidia incompta (Borrer ex Hook.) Anzi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Cat. Lich. Sondr. 70 (1860)
 
 #### Original name
-Bacidia incompta var. incompta
+Lecidea incompta Borrer ex Hook.
 
 ### Remarks
 null

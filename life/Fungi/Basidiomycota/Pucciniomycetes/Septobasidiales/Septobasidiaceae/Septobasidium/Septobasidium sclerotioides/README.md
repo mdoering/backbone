@@ -1,5 +1,4 @@
-Septobasidium sclerotioides Couch SPECIES
-=======
+# Septobasidium sclerotioides Couch SPECIES
 
 #### Status
 ACCEPTED

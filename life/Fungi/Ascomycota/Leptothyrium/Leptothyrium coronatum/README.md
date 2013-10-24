@@ -1,5 +1,4 @@
-Leptothyrium coronatum Ranoj. SPECIES
-=======
+# Leptothyrium coronatum Ranoj. SPECIES
 
 #### Status
 ACCEPTED

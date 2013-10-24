@@ -1,5 +1,4 @@
-Sorosporium densiflorum L. Ling SPECIES
-=======
+# Sorosporium densiflorum L. Ling SPECIES
 
 #### Status
 ACCEPTED

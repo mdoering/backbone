@@ -1,5 +1,4 @@
-Caminosphaera Haeckel, 1887 GENUS
-=======
+# Caminosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

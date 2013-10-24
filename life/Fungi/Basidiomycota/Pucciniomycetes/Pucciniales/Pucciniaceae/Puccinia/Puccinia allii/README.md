@@ -1,14 +1,13 @@
-Uredo alliorum var. alliorum VARIETY
-=======
+# Puccinia allii (DC.) F. Rudolphi, 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 4: 392 (1829)
 
 #### Original name
 null

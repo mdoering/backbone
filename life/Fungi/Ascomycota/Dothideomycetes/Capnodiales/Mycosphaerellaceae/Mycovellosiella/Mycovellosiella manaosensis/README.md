@@ -1,5 +1,4 @@
-Mycovellosiella manaosensis (Henn.) U. Braun, Crous & Alfenas SPECIES
-=======
+# Mycovellosiella manaosensis (Henn.) U. Braun, Crous & Alfenas SPECIES
 
 #### Status
 ACCEPTED

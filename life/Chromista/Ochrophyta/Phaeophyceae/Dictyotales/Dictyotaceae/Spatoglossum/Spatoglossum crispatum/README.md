@@ -1,5 +1,4 @@
-Spatoglossum crispatum M.A.Howe, 1914 SPECIES
-=======
+# Spatoglossum crispatum M.A.Howe, 1914 SPECIES
 
 #### Status
 ACCEPTED

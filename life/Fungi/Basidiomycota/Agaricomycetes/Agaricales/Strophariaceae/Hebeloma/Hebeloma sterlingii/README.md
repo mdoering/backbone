@@ -1,5 +1,4 @@
-Hebeloma sterlingii (Peck) Murrill SPECIES
-=======
+# Hebeloma sterlingii (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

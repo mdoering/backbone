@@ -1,5 +1,4 @@
-Eriopezia erratica (Fr.) Rehm SPECIES
-=======
+# Eriopezia erratica (Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

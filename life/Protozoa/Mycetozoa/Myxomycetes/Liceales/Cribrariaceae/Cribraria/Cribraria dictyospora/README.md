@@ -1,5 +1,4 @@
-Cribraria dictyospora G.W. Martin & Lovejoy, 1932 SPECIES
-=======
+# Cribraria dictyospora G.W. Martin & Lovejoy, 1932 SPECIES
 
 #### Status
 ACCEPTED

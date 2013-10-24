@@ -1,17 +1,16 @@
-Russula pumila Rouzeau & F. Massart, 1970 SPECIES
-=======
+# Russula alnetorum Romagn., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rouzeau, Act. Soc. linn. Bordeaux, sér. A 105(7): 3 (1970)
+Bull. mens. Soc. linn. Lyon 25: 181 (1956)
 
 #### Original name
-Russula pumila Rouzeau & F. Massart, 1970
+Russula alnetorum Romagn., 1956
 
 ### Remarks
 null

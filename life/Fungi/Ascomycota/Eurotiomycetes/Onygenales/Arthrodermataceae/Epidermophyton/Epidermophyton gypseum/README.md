@@ -1,5 +1,4 @@
-Epidermophyton gypseum MacCarthy SPECIES
-=======
+# Epidermophyton gypseum MacCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora verbascicola Died. SPECIES
-=======
+# Rhabdospora verbascicola Died. SPECIES
 
 #### Status
 ACCEPTED

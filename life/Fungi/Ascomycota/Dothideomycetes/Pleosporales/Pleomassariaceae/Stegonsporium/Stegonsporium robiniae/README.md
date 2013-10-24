@@ -1,5 +1,4 @@
-Stegonsporium robiniae Jacz. SPECIES
-=======
+# Stegonsporium robiniae Jacz. SPECIES
 
 #### Status
 ACCEPTED

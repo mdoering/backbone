@@ -1,5 +1,4 @@
-Eiffellithus windii SPECIES
-=======
+# Eiffellithus windii SPECIES
 
 #### Status
 ACCEPTED

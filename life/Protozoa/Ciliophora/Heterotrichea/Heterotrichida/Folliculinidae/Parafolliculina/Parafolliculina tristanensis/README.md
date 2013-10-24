@@ -1,5 +1,4 @@
-Parafolliculina tristanensis Dons, 1948 SPECIES
-=======
+# Parafolliculina tristanensis Dons, 1948 SPECIES
 
 #### Status
 ACCEPTED

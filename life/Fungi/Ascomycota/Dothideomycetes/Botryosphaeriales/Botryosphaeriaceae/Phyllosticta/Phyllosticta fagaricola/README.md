@@ -1,5 +1,4 @@
-Phyllosticta fagaricola Speg. SPECIES
-=======
+# Phyllosticta fagaricola Speg. SPECIES
 
 #### Status
 ACCEPTED

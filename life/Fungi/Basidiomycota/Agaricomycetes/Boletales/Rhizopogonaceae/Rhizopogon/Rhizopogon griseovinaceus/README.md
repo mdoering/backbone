@@ -1,5 +1,4 @@
-Rhizopogon griseovinaceus A.H. Sm. SPECIES
-=======
+# Rhizopogon griseovinaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

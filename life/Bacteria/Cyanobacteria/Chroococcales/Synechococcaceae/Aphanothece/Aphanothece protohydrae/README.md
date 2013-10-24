@@ -1,5 +1,4 @@
-Aphanothece protohydrae Häyrén SPECIES
-=======
+# Aphanothece protohydrae Häyrén SPECIES
 
 #### Status
 ACCEPTED

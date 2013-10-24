@@ -1,5 +1,4 @@
-Sphaerulina phalaenopsidis Sawada SPECIES
-=======
+# Sphaerulina phalaenopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

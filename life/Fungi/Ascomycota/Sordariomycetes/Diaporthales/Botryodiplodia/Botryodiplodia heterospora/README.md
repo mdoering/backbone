@@ -1,5 +1,4 @@
-Botryodiplodia heterospora f. toxicodendri (Dearn.) Zambett. FORM
-=======
+# Botryodiplodia heterospora (Syd.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 70(3): 320 (1955)
+Bull. Soc. mycol. Fr. 70(3): 319 (1955)
 
 #### Original name
-Botryodiplodia compressa f. toxicodendri Dearn.
+Diplodia heterospora Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora isidiophora (Vain.) Zahlbr. SPECIES
-=======
+# Lecanora isidiophora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

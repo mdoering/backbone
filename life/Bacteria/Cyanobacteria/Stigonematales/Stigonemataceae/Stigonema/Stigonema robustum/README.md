@@ -1,5 +1,4 @@
-Stigonema robustum Gardner SPECIES
-=======
+# Stigonema robustum Gardner SPECIES
 
 #### Status
 ACCEPTED

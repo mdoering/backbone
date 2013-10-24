@@ -1,5 +1,4 @@
-Cercosporidium okinawaense Tak. Kobay. & Nishij. SPECIES
-=======
+# Cercosporidium okinawaense Tak. Kobay. & Nishij. SPECIES
 
 #### Status
 ACCEPTED

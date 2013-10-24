@@ -1,5 +1,4 @@
-Puccinia mexicensis H.C. Greene & Cummins SPECIES
-=======
+# Puccinia mexicensis H.C. Greene & Cummins SPECIES
 
 #### Status
 ACCEPTED

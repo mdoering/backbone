@@ -1,5 +1,4 @@
-Perisporium poliotum Fr. SPECIES
-=======
+# Perisporium poliotum Fr. SPECIES
 
 #### Status
 ACCEPTED

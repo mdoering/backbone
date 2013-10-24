@@ -1,5 +1,4 @@
-Terramycetaceae Letcher FAMILY
-=======
+# Terramycetaceae Letcher FAMILY
 
 #### Status
 ACCEPTED

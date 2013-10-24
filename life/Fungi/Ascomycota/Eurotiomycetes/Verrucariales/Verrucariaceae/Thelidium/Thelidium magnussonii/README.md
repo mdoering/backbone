@@ -1,5 +1,4 @@
-Thelidium magnussonii (Servít) R. Sant. SPECIES
-=======
+# Thelidium magnussonii (Servít) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca badioreagens Tretiach & Muggia SPECIES
-=======
+# Caloplaca badioreagens Tretiach & Muggia SPECIES
 
 #### Status
 ACCEPTED

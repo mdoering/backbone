@@ -1,5 +1,4 @@
-Puccinia dolosoides Cummins SPECIES
-=======
+# Puccinia dolosoides Cummins SPECIES
 
 #### Status
 ACCEPTED

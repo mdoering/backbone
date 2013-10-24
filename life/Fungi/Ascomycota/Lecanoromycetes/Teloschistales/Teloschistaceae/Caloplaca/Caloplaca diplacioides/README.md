@@ -1,5 +1,4 @@
-Caloplaca diplacioides (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca diplacioides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

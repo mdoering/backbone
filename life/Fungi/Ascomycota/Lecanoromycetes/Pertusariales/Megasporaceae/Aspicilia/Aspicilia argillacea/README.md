@@ -1,5 +1,4 @@
-Aspicilia argillacea Anzi SPECIES
-=======
+# Aspicilia argillacea Anzi SPECIES
 
 #### Status
 ACCEPTED

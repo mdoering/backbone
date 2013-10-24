@@ -1,5 +1,4 @@
-Leciophysma occidentale Å.E. Dahl SPECIES
-=======
+# Leciophysma occidentale Å.E. Dahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine mexicana Kalb SPECIES
-=======
+# Pyxine mexicana Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grandinia sulphurea Velen. SPECIES
-=======
+# Grandinia sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

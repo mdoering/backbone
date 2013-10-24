@@ -1,5 +1,4 @@
-Stereum adnatum Lloyd SPECIES
-=======
+# Stereum adnatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

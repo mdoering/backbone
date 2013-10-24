@@ -1,5 +1,4 @@
-Cometodendron Swarczewsky, 1928 GENUS
-=======
+# Cometodendron Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

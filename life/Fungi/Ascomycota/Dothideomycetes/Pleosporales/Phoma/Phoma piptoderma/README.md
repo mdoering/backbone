@@ -1,5 +1,4 @@
-Phoma piptoderma Tassi SPECIES
-=======
+# Phoma piptoderma Tassi SPECIES
 
 #### Status
 ACCEPTED

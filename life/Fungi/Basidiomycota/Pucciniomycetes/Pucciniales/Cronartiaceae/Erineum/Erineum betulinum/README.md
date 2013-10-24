@@ -1,5 +1,4 @@
-Erineum betulinum Alb. & Schwein. SPECIES
-=======
+# Erineum betulinum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

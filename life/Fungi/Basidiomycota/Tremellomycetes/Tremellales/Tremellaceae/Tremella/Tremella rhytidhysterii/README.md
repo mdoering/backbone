@@ -1,5 +1,4 @@
-Tremella rhytidhysterii J.L. Bezerra & Kimbr. SPECIES
-=======
+# Tremella rhytidhysterii J.L. Bezerra & Kimbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula fragrans Romagn. SPECIES
-=======
+# Russula fragrans Romagn. SPECIES
 
 #### Status
 ACCEPTED

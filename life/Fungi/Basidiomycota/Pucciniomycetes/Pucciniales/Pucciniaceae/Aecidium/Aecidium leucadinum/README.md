@@ -1,5 +1,4 @@
-Aecidium leucadinum Mitter SPECIES
-=======
+# Aecidium leucadinum Mitter SPECIES
 
 #### Status
 ACCEPTED

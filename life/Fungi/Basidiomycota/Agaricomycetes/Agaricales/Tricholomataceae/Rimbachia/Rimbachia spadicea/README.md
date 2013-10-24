@@ -1,5 +1,4 @@
-Rimbachia spadicea Lloyd SPECIES
-=======
+# Rimbachia spadicea Lloyd SPECIES
 
 #### Status
 ACCEPTED

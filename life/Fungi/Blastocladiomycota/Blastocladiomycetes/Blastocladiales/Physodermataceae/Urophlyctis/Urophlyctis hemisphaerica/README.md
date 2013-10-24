@@ -1,5 +1,4 @@
-Urophlyctis hemisphaerica (Speg.) Syd. SPECIES
-=======
+# Urophlyctis hemisphaerica (Speg.) Syd. SPECIES
 
 #### Status
 ACCEPTED

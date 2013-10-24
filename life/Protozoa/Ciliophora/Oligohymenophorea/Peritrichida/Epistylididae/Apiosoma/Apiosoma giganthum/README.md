@@ -1,5 +1,4 @@
-Apiosoma giganthum SPECIES
-=======
+# Apiosoma giganthum SPECIES
 
 #### Status
 ACCEPTED

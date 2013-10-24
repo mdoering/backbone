@@ -1,5 +1,4 @@
-Yelsemia J. Walker GENUS
-=======
+# Yelsemia J. Walker GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella magnata (Cooke & Peck) Kuntze SPECIES
-=======
+# Navicella magnata (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

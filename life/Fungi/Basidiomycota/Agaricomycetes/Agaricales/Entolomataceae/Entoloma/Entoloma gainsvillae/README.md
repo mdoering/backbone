@@ -1,5 +1,4 @@
-Entoloma gainsvillae Morgan-Jones SPECIES
-=======
+# Entoloma gainsvillae Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

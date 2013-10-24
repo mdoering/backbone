@@ -1,5 +1,4 @@
-Mindoa batistae J.L. Bezerra & Valle SPECIES
-=======
+# Mindoa batistae J.L. Bezerra & Valle SPECIES
 
 #### Status
 ACCEPTED

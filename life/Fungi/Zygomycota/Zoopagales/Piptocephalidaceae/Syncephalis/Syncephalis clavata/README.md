@@ -1,5 +1,4 @@
-Syncephalis clavata H.M. Ho & Benny, 2007 SPECIES
-=======
+# Syncephalis clavata H.M. Ho & Benny, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synuropsis J.Schiller, 1929 GENUS
-=======
+# Synuropsis J.Schiller, 1929 GENUS
 
 #### Status
 ACCEPTED

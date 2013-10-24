@@ -1,5 +1,4 @@
-Delitschia nephrospora Luck-Allen & Cain SPECIES
-=======
+# Delitschia nephrospora Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

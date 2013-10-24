@@ -1,5 +1,4 @@
-Mycosphaerellaceae Lindau FAMILY
-=======
+# Mycosphaerellaceae Lindau FAMILY
 
 #### Status
 ACCEPTED

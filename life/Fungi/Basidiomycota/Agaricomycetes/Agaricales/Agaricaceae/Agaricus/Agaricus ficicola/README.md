@@ -1,5 +1,4 @@
-Agaricus ficicola Mont. SPECIES
-=======
+# Agaricus ficicola Mont. SPECIES
 
 #### Status
 ACCEPTED

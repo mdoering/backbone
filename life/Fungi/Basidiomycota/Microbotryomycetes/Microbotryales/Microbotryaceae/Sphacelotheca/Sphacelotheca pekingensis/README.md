@@ -1,5 +1,4 @@
-Sphacelotheca pekingensis Y.C. Wang SPECIES
-=======
+# Sphacelotheca pekingensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

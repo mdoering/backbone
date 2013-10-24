@@ -1,5 +1,4 @@
-Micropeltis subapplanata Speg. SPECIES
-=======
+# Micropeltis subapplanata Speg. SPECIES
 
 #### Status
 ACCEPTED

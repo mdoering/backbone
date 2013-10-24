@@ -1,5 +1,4 @@
-Elaphomyces appalachiensis Linder SPECIES
-=======
+# Elaphomyces appalachiensis Linder SPECIES
 
 #### Status
 ACCEPTED

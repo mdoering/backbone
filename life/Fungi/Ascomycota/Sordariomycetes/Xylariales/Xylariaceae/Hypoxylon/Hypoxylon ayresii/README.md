@@ -1,5 +1,4 @@
-Hypoxylon ayresii Berk. ex Cooke SPECIES
-=======
+# Hypoxylon ayresii Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

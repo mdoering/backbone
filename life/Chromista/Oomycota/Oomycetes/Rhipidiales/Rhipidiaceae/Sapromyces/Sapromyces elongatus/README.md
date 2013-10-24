@@ -1,14 +1,13 @@
-Rhipidium elongatum Cornu, 1872 SPECIES
-=======
+# Sapromyces elongatus (Cornu) Thaxt., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 21: 329 (1896)
 
 #### Original name
 Rhipidium elongatum Cornu, 1872

@@ -1,5 +1,4 @@
-Bactridium australe B. Sutton SPECIES
-=======
+# Bactridium australe B. Sutton SPECIES
 
 #### Status
 ACCEPTED

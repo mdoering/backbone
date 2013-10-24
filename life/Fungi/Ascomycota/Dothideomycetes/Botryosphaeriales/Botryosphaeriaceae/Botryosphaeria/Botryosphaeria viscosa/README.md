@@ -1,5 +1,4 @@
-Botryosphaeria viscosa (Cooke & Ellis) Theiss. SPECIES
-=======
+# Botryosphaeria viscosa (Cooke & Ellis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

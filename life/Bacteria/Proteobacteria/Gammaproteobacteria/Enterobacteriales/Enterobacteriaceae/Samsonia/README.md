@@ -1,5 +1,4 @@
-Samsonia Sutra et al., 2001 GENUS
-=======
+# Samsonia Sutra et al., 2001 GENUS
 
 #### Status
 ACCEPTED

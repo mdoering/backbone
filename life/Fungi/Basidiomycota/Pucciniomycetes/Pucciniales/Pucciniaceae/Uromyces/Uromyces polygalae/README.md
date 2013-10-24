@@ -1,5 +1,4 @@
-Uromyces polygalae Grove SPECIES
-=======
+# Uromyces polygalae Grove SPECIES
 
 #### Status
 ACCEPTED

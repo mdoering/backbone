@@ -1,5 +1,4 @@
-Heppia psammophila Nyl. SPECIES
-=======
+# Heppia psammophila Nyl. SPECIES
 
 #### Status
 ACCEPTED

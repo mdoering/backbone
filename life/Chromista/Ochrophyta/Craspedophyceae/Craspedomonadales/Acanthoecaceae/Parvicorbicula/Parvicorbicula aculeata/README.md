@@ -1,5 +1,4 @@
-Parvicorbicula aculeata S. M. Tong SPECIES
-=======
+# Parvicorbicula aculeata S. M. Tong SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thigmokeronopsis crystallis Petz, 1995 SPECIES
-=======
+# Thigmokeronopsis crystallis Petz, 1995 SPECIES
 
 #### Status
 ACCEPTED

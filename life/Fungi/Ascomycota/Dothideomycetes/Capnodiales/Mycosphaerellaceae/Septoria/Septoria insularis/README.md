@@ -1,5 +1,4 @@
-Septoria insularis Berk. & Broome SPECIES
-=======
+# Septoria insularis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

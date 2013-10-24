@@ -1,5 +1,4 @@
-Globobulimina australiensis Collins, 1958 SPECIES
-=======
+# Globobulimina australiensis Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea circinarioides Casares & Hafellner SPECIES
-=======
+# Lecidea circinarioides Casares & Hafellner SPECIES
 
 #### Status
 ACCEPTED

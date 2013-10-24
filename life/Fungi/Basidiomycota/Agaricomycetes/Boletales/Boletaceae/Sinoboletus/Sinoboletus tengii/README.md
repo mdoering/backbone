@@ -1,5 +1,4 @@
-Sinoboletus tengii M. Zang & Yan Liu, 2002 SPECIES
-=======
+# Sinoboletus tengii M. Zang & Yan Liu, 2002 SPECIES
 
 #### Status
 ACCEPTED

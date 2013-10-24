@@ -1,5 +1,4 @@
-Didymella valerianae Corbaz SPECIES
-=======
+# Didymella valerianae Corbaz SPECIES
 
 #### Status
 ACCEPTED

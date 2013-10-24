@@ -1,5 +1,4 @@
-Mycena ramulicola Métrod SPECIES
-=======
+# Mycena ramulicola Métrod SPECIES
 
 #### Status
 ACCEPTED

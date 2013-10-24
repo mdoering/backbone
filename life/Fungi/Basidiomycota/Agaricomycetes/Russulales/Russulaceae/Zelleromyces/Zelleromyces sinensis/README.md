@@ -1,5 +1,4 @@
-Zelleromyces sinensis B. Liu, K. Tao & Ming C. Chang, 1993 SPECIES
-=======
+# Zelleromyces sinensis B. Liu, K. Tao & Ming C. Chang, 1993 SPECIES
 
 #### Status
 ACCEPTED

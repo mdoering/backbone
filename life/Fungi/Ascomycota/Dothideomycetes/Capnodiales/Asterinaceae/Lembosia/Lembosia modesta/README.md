@@ -1,5 +1,4 @@
-Lembosia modesta Theiss. SPECIES
-=======
+# Lembosia modesta Theiss. SPECIES
 
 #### Status
 ACCEPTED

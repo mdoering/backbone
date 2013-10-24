@@ -1,5 +1,4 @@
-Penicillium acidiferum Sopp SPECIES
-=======
+# Penicillium acidiferum Sopp SPECIES
 
 #### Status
 ACCEPTED

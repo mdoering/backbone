@@ -1,5 +1,4 @@
-Lecideopsis coeruleoatra Höhn. SPECIES
-=======
+# Lecideopsis coeruleoatra Höhn. SPECIES
 
 #### Status
 ACCEPTED

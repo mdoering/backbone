@@ -1,5 +1,4 @@
-Diaporthe elephantina Cooke & Harkn. SPECIES
-=======
+# Diaporthe elephantina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

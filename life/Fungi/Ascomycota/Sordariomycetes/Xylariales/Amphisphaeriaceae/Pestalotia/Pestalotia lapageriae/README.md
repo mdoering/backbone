@@ -1,5 +1,4 @@
-Pestalotia lapageriae Henn. SPECIES
-=======
+# Pestalotia lapageriae Henn. SPECIES
 
 #### Status
 ACCEPTED

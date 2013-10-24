@@ -1,5 +1,4 @@
-Petrobacter Bonilla Salinas et al., 2004 GENUS
-=======
+# Petrobacter Bonilla Salinas et al., 2004 GENUS
 
 #### Status
 ACCEPTED

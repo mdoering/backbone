@@ -1,5 +1,4 @@
-Polyporus dybowskii Pat. SPECIES
-=======
+# Polyporus dybowskii Pat. SPECIES
 
 #### Status
 ACCEPTED

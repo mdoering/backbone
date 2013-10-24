@@ -1,5 +1,4 @@
-Ripartites metrodii Huijsman, 1960 SPECIES
-=======
+# Ripartites metrodii Huijsman, 1960 SPECIES
 
 #### Status
 ACCEPTED

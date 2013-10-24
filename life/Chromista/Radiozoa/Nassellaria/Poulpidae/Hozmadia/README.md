@@ -1,5 +1,4 @@
-Hozmadia Dumitrica, Kozur & Mostler, 1981 GENUS
-=======
+# Hozmadia Dumitrica, Kozur & Mostler, 1981 GENUS
 
 #### Status
 ACCEPTED

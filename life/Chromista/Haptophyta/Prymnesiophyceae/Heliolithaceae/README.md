@@ -1,5 +1,4 @@
-Heliolithaceae Hay & Mohler, 1967 FAMILY
-=======
+# Heliolithaceae Hay & Mohler, 1967 FAMILY
 
 #### Status
 ACCEPTED

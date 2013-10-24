@@ -1,5 +1,4 @@
-Schizostoma pusillum Lév. SPECIES
-=======
+# Schizostoma pusillum Lév. SPECIES
 
 #### Status
 ACCEPTED

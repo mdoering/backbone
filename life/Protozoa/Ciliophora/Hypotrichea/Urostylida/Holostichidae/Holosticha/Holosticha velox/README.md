@@ -1,5 +1,4 @@
-Holosticha velox Quennerstedt, 1869 SPECIES
-=======
+# Holosticha velox Quennerstedt, 1869 SPECIES
 
 #### Status
 ACCEPTED

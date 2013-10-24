@@ -1,5 +1,4 @@
-Dendrostilbella baeomycioides (C. Massal.) J. Lindau SPECIES
-=======
+# Dendrostilbella baeomycioides (C. Massal.) J. Lindau SPECIES
 
 #### Status
 ACCEPTED

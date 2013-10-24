@@ -1,5 +1,4 @@
-Rhizobium radiobacter (Beijerinck & van Delden, 1902) Young et al., 2001 SPECIES
-=======
+# Rhizobium radiobacter (Beijerinck & van Delden, 1902) Young et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

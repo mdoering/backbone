@@ -1,5 +1,4 @@
-Phyllosticta gallarum Thüm. SPECIES
-=======
+# Phyllosticta gallarum Thüm. SPECIES
 
 #### Status
 ACCEPTED

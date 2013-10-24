@@ -1,8 +1,7 @@
-Marssoniella elegans Lemmermann, 1900 SPECIES
-=======
+# Gurleyi marssoniella Doflein, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

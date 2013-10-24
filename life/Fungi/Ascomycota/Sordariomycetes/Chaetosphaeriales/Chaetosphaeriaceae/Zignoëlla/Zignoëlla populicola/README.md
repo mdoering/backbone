@@ -1,5 +1,4 @@
-Zignoëlla populicola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Zignoëlla populicola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoscypha shennongjiana W.Y. Zhuang SPECIES
-=======
+# Sarcoscypha shennongjiana W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

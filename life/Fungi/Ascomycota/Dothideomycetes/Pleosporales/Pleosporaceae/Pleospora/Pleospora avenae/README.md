@@ -1,5 +1,4 @@
-Pleospora avenae Rathschlag SPECIES
-=======
+# Pleospora avenae Rathschlag SPECIES
 
 #### Status
 ACCEPTED

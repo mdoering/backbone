@@ -1,14 +1,13 @@
-Pleuroceras quercicolum (Kobayasi) M. Monod SPECIES
-=======
+# Pleuroceras quercicola (Kobayasi) M. Monod SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 9: 170 (1983)
 
 #### Original name
 Plagiosphaera quercicola Kobayasi

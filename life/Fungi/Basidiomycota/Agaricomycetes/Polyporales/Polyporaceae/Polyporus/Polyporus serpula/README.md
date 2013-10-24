@@ -1,5 +1,4 @@
-Polyporus serpula (P. Karst.) Sacc. SPECIES
-=======
+# Polyporus serpula (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

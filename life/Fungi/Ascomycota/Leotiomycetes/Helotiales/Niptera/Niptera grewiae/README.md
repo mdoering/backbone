@@ -1,5 +1,4 @@
-Niptera grewiae Rehm SPECIES
-=======
+# Niptera grewiae Rehm SPECIES
 
 #### Status
 ACCEPTED

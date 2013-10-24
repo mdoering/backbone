@@ -1,5 +1,4 @@
-Agaricus canobrunneus Batsch SPECIES
-=======
+# Agaricus canobrunneus Batsch SPECIES
 
 #### Status
 ACCEPTED

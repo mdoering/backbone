@@ -1,17 +1,16 @@
-Mortierella sossauensis E. Wolf, 1954 SPECIES
-=======
+# Mortierella pulchella Linnem., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 107: 533 (1954)
+Mucor. -Gatt. Mortierella Coem. 41 (1941)
 
 #### Original name
-Mortierella sossauensis E. Wolf, 1954
+Mortierella pulchella Linnem., 1941
 
 ### Remarks
 null

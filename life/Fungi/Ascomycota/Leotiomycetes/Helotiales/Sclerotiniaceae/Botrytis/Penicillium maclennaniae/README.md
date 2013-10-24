@@ -1,5 +1,4 @@
-Penicillium maclennaniae H.Y. Yip, 1981 SPECIES
-=======
+# Penicillium maclennaniae H.Y. Yip, 1981 SPECIES
 
 #### Status
 DOUBTFUL

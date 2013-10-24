@@ -1,5 +1,4 @@
-Marasmius lotaënsis Henn. SPECIES
-=======
+# Marasmius lotaënsis Henn. SPECIES
 
 #### Status
 ACCEPTED

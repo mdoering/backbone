@@ -1,5 +1,4 @@
-Aecidium magnatum Arthur SPECIES
-=======
+# Aecidium magnatum Arthur SPECIES
 
 #### Status
 ACCEPTED

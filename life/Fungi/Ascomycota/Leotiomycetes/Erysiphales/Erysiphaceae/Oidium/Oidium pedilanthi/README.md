@@ -1,5 +1,4 @@
-Oidium pedilanthi J.M. Yen SPECIES
-=======
+# Oidium pedilanthi J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

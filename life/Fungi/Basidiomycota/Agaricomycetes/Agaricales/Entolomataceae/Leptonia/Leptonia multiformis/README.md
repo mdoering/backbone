@@ -1,14 +1,13 @@
-Leptonia multiforma (Peck) Largent SPECIES
-=======
+# Leptonia multiformis (Peck) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 91 (1977)
 
 #### Original name
 Nolanea multiformis Peck

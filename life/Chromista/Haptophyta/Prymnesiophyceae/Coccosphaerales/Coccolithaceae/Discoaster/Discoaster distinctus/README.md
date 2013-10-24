@@ -1,5 +1,4 @@
-Discoaster distinctus Martini, 1958 SPECIES
-=======
+# Discoaster distinctus Martini, 1958 SPECIES
 
 #### Status
 ACCEPTED

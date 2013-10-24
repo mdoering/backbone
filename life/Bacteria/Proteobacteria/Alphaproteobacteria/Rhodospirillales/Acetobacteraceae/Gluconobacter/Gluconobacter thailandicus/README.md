@@ -1,5 +1,4 @@
-Gluconobacter thailandicus Tanasupawat et al., 2005 SPECIES
-=======
+# Gluconobacter thailandicus Tanasupawat et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

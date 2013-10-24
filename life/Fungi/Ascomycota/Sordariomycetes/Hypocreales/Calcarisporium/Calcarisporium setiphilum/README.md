@@ -1,5 +1,4 @@
-Calcarisporium setiphilum Deighton & Piroz. SPECIES
-=======
+# Calcarisporium setiphilum Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

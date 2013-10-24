@@ -1,5 +1,4 @@
-Pertusaria paragibberosa A. W. Archer SPECIES
-=======
+# Pertusaria paragibberosa A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

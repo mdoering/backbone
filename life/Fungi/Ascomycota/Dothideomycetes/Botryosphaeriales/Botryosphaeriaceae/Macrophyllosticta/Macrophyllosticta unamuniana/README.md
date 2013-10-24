@@ -1,5 +1,4 @@
-Macrophyllosticta unamuniana Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta unamuniana Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

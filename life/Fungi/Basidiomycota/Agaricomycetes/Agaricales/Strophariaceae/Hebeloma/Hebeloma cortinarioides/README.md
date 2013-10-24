@@ -1,5 +1,4 @@
-Hebeloma cortinarioides E.H.L. Krause SPECIES
-=======
+# Hebeloma cortinarioides E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

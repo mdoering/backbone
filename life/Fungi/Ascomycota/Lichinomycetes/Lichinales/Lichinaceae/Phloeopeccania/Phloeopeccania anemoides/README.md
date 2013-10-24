@@ -1,5 +1,4 @@
-Phloeopeccania anemoides M. Schultz & Büdel SPECIES
-=======
+# Phloeopeccania anemoides M. Schultz & Büdel SPECIES
 
 #### Status
 ACCEPTED

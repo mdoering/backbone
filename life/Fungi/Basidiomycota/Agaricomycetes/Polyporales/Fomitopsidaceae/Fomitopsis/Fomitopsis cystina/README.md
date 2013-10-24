@@ -1,5 +1,4 @@
-Fomitopsis cystina (Berk.) Bondartsev & Singer SPECIES
-=======
+# Fomitopsis cystina (Berk.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

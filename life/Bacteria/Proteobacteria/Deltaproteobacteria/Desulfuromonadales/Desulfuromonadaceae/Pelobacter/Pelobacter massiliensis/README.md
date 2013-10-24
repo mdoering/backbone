@@ -1,5 +1,4 @@
-Pelobacter massiliensis Schnell et al., 1991 SPECIES
-=======
+# Pelobacter massiliensis Schnell et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

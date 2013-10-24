@@ -1,5 +1,4 @@
-Dictyopus luridus SPECIES
-=======
+# Dictyopus luridus SPECIES
 
 #### Status
 ACCEPTED

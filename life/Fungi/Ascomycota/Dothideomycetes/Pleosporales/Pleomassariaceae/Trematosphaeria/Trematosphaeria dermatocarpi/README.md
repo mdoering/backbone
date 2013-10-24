@@ -1,5 +1,4 @@
-Trematosphaeria dermatocarpi Werner SPECIES
-=======
+# Trematosphaeria dermatocarpi Werner SPECIES
 
 #### Status
 ACCEPTED

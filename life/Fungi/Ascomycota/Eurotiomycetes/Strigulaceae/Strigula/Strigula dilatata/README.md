@@ -1,5 +1,4 @@
-Strigula dilatata Vain. SPECIES
-=======
+# Strigula dilatata Vain. SPECIES
 
 #### Status
 ACCEPTED

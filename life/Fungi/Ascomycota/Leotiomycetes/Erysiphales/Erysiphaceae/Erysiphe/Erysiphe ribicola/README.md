@@ -1,5 +1,4 @@
-Erysiphe ribicola (Havryl.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe ribicola (Havryl.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

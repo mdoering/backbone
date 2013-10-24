@@ -1,5 +1,4 @@
-Placostromella amazonensis Bat. & H. Maia SPECIES
-=======
+# Placostromella amazonensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

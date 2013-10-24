@@ -1,5 +1,4 @@
-Xanthoria digitata S.Y. Kondr. SPECIES
-=======
+# Xanthoria digitata S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

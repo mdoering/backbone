@@ -1,5 +1,4 @@
-Belonopsis montanensis Kanouse SPECIES
-=======
+# Belonopsis montanensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

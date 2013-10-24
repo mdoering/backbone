@@ -1,5 +1,4 @@
-Cocconia sellowii Henn., 1893 SPECIES
-=======
+# Cocconia sellowii Henn., 1893 SPECIES
 
 #### Status
 ACCEPTED

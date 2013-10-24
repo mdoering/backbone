@@ -1,5 +1,4 @@
-Pestalotiopsis triseptata A.K. Agarwal & S. Chauhan SPECIES
-=======
+# Pestalotiopsis triseptata A.K. Agarwal & S. Chauhan SPECIES
 
 #### Status
 ACCEPTED

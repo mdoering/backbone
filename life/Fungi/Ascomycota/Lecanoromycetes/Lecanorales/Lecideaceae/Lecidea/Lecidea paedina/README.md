@@ -1,5 +1,4 @@
-Lecidea paedina Sommerf. SPECIES
-=======
+# Lecidea paedina Sommerf. SPECIES
 
 #### Status
 ACCEPTED

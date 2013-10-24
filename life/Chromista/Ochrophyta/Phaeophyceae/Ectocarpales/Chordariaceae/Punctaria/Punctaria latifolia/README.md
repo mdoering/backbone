@@ -1,5 +1,4 @@
-Punctaria latifolia var. laminarioides Holmes & Batters VARIETY
-=======
+# Punctaria latifolia Greville SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Greville, R. K. (1830). [Algae britannicae, or, descriptions of the marine and other inarticulated plants of the British Islands, belonging to the order Algae]. Maclachlan & Stewart: Edingburgh, UK. lxxxviii, 218 pp.
 
 #### Original name
 null

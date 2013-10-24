@@ -1,5 +1,4 @@
-Chitonomyces cornucopioides Thaxt. SPECIES
-=======
+# Chitonomyces cornucopioides Thaxt. SPECIES
 
 #### Status
 ACCEPTED

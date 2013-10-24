@@ -1,5 +1,4 @@
-Sebacina atrata Burt SPECIES
-=======
+# Sebacina atrata Burt SPECIES
 
 #### Status
 ACCEPTED

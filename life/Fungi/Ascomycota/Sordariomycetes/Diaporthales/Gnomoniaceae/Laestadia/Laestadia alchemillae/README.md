@@ -1,5 +1,4 @@
-Laestadia alchemillae Rostr. SPECIES
-=======
+# Laestadia alchemillae Rostr. SPECIES
 
 #### Status
 ACCEPTED

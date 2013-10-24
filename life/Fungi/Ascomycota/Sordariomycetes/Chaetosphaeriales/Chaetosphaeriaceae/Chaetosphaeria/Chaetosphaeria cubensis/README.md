@@ -1,5 +1,4 @@
-Chaetosphaeria cubensis Hol.-Jech., 1982 SPECIES
-=======
+# Chaetosphaeria cubensis Hol.-Jech., 1982 SPECIES
 
 #### Status
 ACCEPTED

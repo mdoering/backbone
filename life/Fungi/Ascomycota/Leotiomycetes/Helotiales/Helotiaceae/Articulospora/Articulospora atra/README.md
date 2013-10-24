@@ -1,5 +1,4 @@
-Articulospora atra Descals, 1982 SPECIES
-=======
+# Articulospora atra Descals, 1982 SPECIES
 
 #### Status
 ACCEPTED

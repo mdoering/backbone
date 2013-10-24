@@ -1,5 +1,4 @@
-Flammula subinodora P. Karst. SPECIES
-=======
+# Flammula subinodora P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia discreta (Nyl.) Nyl. SPECIES
-=======
+# Parmelia discreta (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

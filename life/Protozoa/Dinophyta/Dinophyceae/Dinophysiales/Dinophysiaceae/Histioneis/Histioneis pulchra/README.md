@@ -1,5 +1,4 @@
-Histioneis pulchra Kofoid, 1907 SPECIES
-=======
+# Histioneis pulchra Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

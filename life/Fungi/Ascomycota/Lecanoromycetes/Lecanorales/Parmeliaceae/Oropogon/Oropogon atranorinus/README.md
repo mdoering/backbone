@@ -1,5 +1,4 @@
-Oropogon atranorinus Essl. SPECIES
-=======
+# Oropogon atranorinus Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis hypoleptoides Nyl. SPECIES
-=======
+# Graphis hypoleptoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

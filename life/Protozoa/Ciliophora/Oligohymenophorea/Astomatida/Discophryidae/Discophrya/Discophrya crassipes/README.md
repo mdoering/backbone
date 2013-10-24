@@ -1,5 +1,4 @@
-Discophrya crassipes Rieder, 1936 SPECIES
-=======
+# Discophrya crassipes Rieder, 1936 SPECIES
 
 #### Status
 ACCEPTED

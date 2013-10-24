@@ -1,5 +1,4 @@
-Jansoniisporites Kalgutkar GENUS
-=======
+# Jansoniisporites Kalgutkar GENUS
 
 #### Status
 ACCEPTED

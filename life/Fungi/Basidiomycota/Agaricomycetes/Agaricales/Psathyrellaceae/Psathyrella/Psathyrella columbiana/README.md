@@ -1,5 +1,4 @@
-Psathyrella columbiana K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Psathyrella columbiana K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

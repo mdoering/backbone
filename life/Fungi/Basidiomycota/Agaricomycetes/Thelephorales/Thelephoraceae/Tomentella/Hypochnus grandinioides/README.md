@@ -1,5 +1,4 @@
-Hypochnus grandinioides Rick SPECIES
-=======
+# Hypochnus grandinioides Rick SPECIES
 
 #### Status
 ACCEPTED

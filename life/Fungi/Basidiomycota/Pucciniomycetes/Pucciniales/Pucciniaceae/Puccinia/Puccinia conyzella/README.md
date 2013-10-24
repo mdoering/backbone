@@ -1,5 +1,4 @@
-Puccinia conyzella P. Syd. & Syd. SPECIES
-=======
+# Puccinia conyzella P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

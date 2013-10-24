@@ -1,5 +1,4 @@
-Puccinia atropuncta Peck & Cooke SPECIES
-=======
+# Puccinia atropuncta Peck & Cooke SPECIES
 
 #### Status
 ACCEPTED

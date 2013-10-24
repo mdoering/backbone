@@ -1,5 +1,4 @@
-Thamnonoma coralloides (Tuck.) Gyeln. SPECIES
-=======
+# Thamnonoma coralloides (Tuck.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

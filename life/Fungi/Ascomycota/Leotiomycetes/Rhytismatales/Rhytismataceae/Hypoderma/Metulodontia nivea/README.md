@@ -1,14 +1,13 @@
-Kneiffia nivea P. Karst., 1896 SPECIES
-=======
+# Metulodontia nivea (P. Karst.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 118 (1968)
 
 #### Original name
 null

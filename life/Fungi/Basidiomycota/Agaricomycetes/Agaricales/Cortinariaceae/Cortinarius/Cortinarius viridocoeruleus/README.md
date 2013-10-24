@@ -1,5 +1,4 @@
-Cortinarius viridocoeruleus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius viridocoeruleus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

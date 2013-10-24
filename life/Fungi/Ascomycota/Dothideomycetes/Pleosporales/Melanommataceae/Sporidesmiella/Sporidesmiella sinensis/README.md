@@ -1,5 +1,4 @@
-Sporidesmiella sinensis W.P. Wu SPECIES
-=======
+# Sporidesmiella sinensis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

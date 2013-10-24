@@ -1,5 +1,4 @@
-Cladosporium helicosporum R.F. Castañeda & W.B. Kendr., 1997 SPECIES
-=======
+# Cladosporium helicosporum R.F. Castañeda & W.B. Kendr., 1997 SPECIES
 
 #### Status
 ACCEPTED

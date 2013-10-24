@@ -1,5 +1,4 @@
-Diaporthe aorista Ellis & Everh. SPECIES
-=======
+# Diaporthe aorista Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

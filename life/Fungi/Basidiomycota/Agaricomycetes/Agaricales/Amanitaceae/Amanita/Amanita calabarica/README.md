@@ -1,5 +1,4 @@
-Amanita calabarica Massee SPECIES
-=======
+# Amanita calabarica Massee SPECIES
 
 #### Status
 ACCEPTED

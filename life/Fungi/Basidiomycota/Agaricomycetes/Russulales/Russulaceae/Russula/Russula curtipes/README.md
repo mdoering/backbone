@@ -1,5 +1,4 @@
-Russula curtipes F.H. Møller & Jul. Schäff., 1935 SPECIES
-=======
+# Russula curtipes F.H. Møller & Jul. Schäff., 1935 SPECIES
 
 #### Status
 ACCEPTED

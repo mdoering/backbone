@@ -1,5 +1,4 @@
-Deflandrea crassistriata K.P. Jain, S.C.D. Sah & R.Y. Singh SPECIES
-=======
+# Deflandrea crassistriata K.P. Jain, S.C.D. Sah & R.Y. Singh SPECIES
 
 #### Status
 ACCEPTED

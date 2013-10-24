@@ -1,5 +1,4 @@
-Polyactis carnea Ehrenb. SPECIES
-=======
+# Polyactis carnea Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

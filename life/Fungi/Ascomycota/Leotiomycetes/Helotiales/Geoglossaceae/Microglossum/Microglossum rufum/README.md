@@ -1,14 +1,13 @@
-Ochroglossum rufum (Schwein.) S. Imai, 1955 SPECIES
-=======
+# Microglossum rufum (Schwein.) Underw., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Science Rep. Yokohama Nat. Univ. , Section 2 4: 7 (1955)
+Minn. bot. Stud. 1: 496 (1896)
 
 #### Original name
 Geoglossum rufum Schwein., 1832

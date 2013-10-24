@@ -1,5 +1,4 @@
-Santessonia Hale & Vobis GENUS
-=======
+# Santessonia Hale & Vobis GENUS
 
 #### Status
 ACCEPTED

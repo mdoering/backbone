@@ -1,5 +1,4 @@
-Trimyema difficile Kahl, 1928 SPECIES
-=======
+# Trimyema difficile Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

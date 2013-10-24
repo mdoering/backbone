@@ -1,5 +1,4 @@
-Opegrapha murorum Fée SPECIES
-=======
+# Opegrapha murorum Fée SPECIES
 
 #### Status
 ACCEPTED

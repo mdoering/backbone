@@ -1,17 +1,16 @@
-Tubulicrinis crassa (Burt) Y. Hayashi SPECIES
-=======
+# Dacryobolus karstenii (Bres.) Oberw. ex Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 98 (1968)
 
 #### Original name
-Peniophora crassa Burt, 1901
+Stereum karstenii Bres., 1897
 
 ### Remarks
 null

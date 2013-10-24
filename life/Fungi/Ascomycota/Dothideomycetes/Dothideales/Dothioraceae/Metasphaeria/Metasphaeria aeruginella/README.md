@@ -1,5 +1,4 @@
-Metasphaeria aeruginella (Nyl.) Vain. SPECIES
-=======
+# Metasphaeria aeruginella (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

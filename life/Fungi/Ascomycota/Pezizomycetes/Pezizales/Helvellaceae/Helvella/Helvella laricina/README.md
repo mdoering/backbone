@@ -1,5 +1,4 @@
-Helvella laricina Vill. SPECIES
-=======
+# Helvella laricina Vill. SPECIES
 
 #### Status
 ACCEPTED

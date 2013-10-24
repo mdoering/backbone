@@ -1,5 +1,4 @@
-Schaereria abietinum (Humb.) A. Massal. SPECIES
-=======
+# Schaereria abietinum (Humb.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

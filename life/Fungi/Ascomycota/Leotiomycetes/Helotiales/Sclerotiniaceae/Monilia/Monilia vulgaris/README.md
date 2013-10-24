@@ -1,5 +1,4 @@
-Monilia vulgaris Pers. SPECIES
-=======
+# Monilia vulgaris Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiromastigotes Duboscq & Grassé, 1943 GENUS
-=======
+# Spiromastigotes Duboscq & Grassé, 1943 GENUS
 
 #### Status
 ACCEPTED

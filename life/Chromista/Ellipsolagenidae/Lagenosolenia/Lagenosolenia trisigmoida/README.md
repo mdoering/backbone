@@ -1,5 +1,4 @@
-Lagenosolenia trisigmoida McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia trisigmoida McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

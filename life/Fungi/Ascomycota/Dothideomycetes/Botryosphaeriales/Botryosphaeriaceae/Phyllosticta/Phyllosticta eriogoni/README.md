@@ -1,5 +1,4 @@
-Phyllosticta eriogoni W.B. Cooke SPECIES
-=======
+# Phyllosticta eriogoni W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces oricola Hall et al., 2003 SPECIES
-=======
+# Actinomyces oricola Hall et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

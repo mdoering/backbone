@@ -1,17 +1,16 @@
-Ramularia occidentalis var. occidentalis Ellis & Kellerm. VARIETY
-=======
+# Ramularia occidentalis Ellis & Kellerm., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Mycol. 3(9): 103 (1887)
 
 #### Original name
-Ramularia occidentalis var. occidentalis Ellis & Kellerm.
+Ramularia occidentalis Ellis & Kellerm., 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea lutulenta SPECIES
-=======
+# Lecidea lutulenta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeoconis padi Sacc. & Roum. SPECIES
-=======
+# Phloeoconis padi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

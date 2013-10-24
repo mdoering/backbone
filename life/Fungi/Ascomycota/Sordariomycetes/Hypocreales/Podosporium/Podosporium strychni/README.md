@@ -1,5 +1,4 @@
-Podosporium strychni (Henn.) Cif. SPECIES
-=======
+# Podosporium strychni (Henn.) Cif. SPECIES
 
 #### Status
 ACCEPTED

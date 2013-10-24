@@ -1,5 +1,4 @@
-Septoria confusa G.F. Atk. SPECIES
-=======
+# Septoria confusa G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

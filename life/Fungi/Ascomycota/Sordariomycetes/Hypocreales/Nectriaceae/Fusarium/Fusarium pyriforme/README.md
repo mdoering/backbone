@@ -1,5 +1,4 @@
-Fusarium pyriforme Nirenberg & Tiedemann {?} ined. SPECIES
-=======
+# Fusarium pyriforme Nirenberg & Tiedemann {?} ined. SPECIES
 
 #### Status
 ACCEPTED

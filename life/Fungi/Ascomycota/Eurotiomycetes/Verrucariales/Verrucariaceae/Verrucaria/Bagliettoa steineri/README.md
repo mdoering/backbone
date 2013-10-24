@@ -1,17 +1,16 @@
-Verrucaria steineri f. steineri FORM
-=======
+# Bagliettoa steineri (Kušan) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Poelt & Vezda, Biblthca Lichenol. 16: 363 (1981)
 
 #### Original name
-Verrucaria steineri f. steineri
+Verrucaria steineri Kušan
 
 ### Remarks
 null

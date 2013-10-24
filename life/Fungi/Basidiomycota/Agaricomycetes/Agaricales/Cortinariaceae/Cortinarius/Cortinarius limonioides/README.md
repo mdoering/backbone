@@ -1,5 +1,4 @@
-Cortinarius limonioides M.M. Moser SPECIES
-=======
+# Cortinarius limonioides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

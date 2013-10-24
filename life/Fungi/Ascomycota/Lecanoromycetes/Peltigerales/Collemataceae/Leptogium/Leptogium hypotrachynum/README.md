@@ -1,5 +1,4 @@
-Leptogium hypotrachynum Müll. Arg. SPECIES
-=======
+# Leptogium hypotrachynum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

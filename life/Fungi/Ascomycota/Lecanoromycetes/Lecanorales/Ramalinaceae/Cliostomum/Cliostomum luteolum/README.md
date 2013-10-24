@@ -1,5 +1,4 @@
-Cliostomum luteolum Gowan SPECIES
-=======
+# Cliostomum luteolum Gowan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta limoniastri Pat. SPECIES
-=======
+# Phyllosticta limoniastri Pat. SPECIES
 
 #### Status
 ACCEPTED

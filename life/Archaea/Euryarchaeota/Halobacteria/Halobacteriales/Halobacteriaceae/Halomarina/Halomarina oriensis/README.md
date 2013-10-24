@@ -1,5 +1,4 @@
-Halomarina oriensis Inoue, Itoh, Ohkuma & Kogure, 2011 SPECIES
-=======
+# Halomarina oriensis Inoue, Itoh, Ohkuma & Kogure, 2011 SPECIES
 
 #### Status
 ACCEPTED

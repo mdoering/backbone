@@ -1,5 +1,4 @@
-Ramalina inflata subsp. inflata SUBSPECIES
-=======
+# Ramalina inflata (Hook. f. & T. Taylor) Hook. f. & T. Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Hooker, Flora Tasman. 1: 194 (1845)
+null
 
 #### Original name
-Cetraria inflata Hook. f. & Taylor
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Idriella angamosensis Matsush. SPECIES
-=======
+# Idriella angamosensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

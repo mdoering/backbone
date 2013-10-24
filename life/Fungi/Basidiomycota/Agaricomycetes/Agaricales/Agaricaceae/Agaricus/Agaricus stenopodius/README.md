@@ -1,5 +1,4 @@
-Agaricus stenopodius Pers. SPECIES
-=======
+# Agaricus stenopodius Pers. SPECIES
 
 #### Status
 ACCEPTED

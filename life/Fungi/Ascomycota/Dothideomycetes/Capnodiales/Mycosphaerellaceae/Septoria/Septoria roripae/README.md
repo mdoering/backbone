@@ -1,5 +1,4 @@
-Septoria roripae Bubák SPECIES
-=======
+# Septoria roripae Bubák SPECIES
 
 #### Status
 ACCEPTED

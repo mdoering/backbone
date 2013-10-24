@@ -1,5 +1,4 @@
-Lobaria tristis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria tristis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

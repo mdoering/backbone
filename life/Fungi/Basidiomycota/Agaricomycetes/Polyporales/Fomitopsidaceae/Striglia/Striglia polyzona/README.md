@@ -1,5 +1,4 @@
-Striglia polyzona (Pers.) Kuntze SPECIES
-=======
+# Striglia polyzona (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

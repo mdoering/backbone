@@ -1,5 +1,4 @@
-Fungus rhinocerotis (Jungh.) Kuntze SPECIES
-=======
+# Fungus rhinocerotis (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

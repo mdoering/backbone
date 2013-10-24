@@ -1,5 +1,4 @@
-Sphaerostilbe flammeola Höhn. SPECIES
-=======
+# Sphaerostilbe flammeola Höhn. SPECIES
 
 #### Status
 ACCEPTED

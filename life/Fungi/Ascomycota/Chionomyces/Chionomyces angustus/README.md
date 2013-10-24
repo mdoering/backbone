@@ -1,5 +1,4 @@
-Chionomyces angustus Deighton SPECIES
-=======
+# Chionomyces angustus Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora novae-zelandiae G. Cunn., 1928 SPECIES
-=======
+# Melampsora novae-zelandiae G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

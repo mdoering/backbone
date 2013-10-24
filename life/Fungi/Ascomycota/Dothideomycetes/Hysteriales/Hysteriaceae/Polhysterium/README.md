@@ -1,5 +1,4 @@
-Polhysterium GENUS
-=======
+# Polhysterium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Folliculinopsis Fauré-Fremiet, 1936 GENUS
-=======
+# Folliculinopsis Fauré-Fremiet, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nephroma analogicum var. macrospora (Räsänen) Follmann VARIETY
-=======
+# Nephroma analogicum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Univ. (Santiago) 50-51: 62 (1966)
+in Crombie, J. Linn. Soc. , Bot. 15: 231 (1876)
 
 #### Original name
-null
+Nephroma analogicum Nyl.
 
 ### Remarks
 null

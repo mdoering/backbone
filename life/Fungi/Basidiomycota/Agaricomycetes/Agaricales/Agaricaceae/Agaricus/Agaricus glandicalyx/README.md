@@ -1,5 +1,4 @@
-Agaricus glandicalyx With. SPECIES
-=======
+# Agaricus glandicalyx With. SPECIES
 
 #### Status
 ACCEPTED

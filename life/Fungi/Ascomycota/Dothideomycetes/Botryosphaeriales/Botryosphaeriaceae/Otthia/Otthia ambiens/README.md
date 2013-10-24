@@ -1,5 +1,4 @@
-Otthia ambiens Niessl SPECIES
-=======
+# Otthia ambiens Niessl SPECIES
 
 #### Status
 ACCEPTED

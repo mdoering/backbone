@@ -1,5 +1,4 @@
-Pirottaea saxonica Nannf. SPECIES
-=======
+# Pirottaea saxonica Nannf. SPECIES
 
 #### Status
 ACCEPTED

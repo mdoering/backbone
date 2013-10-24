@@ -1,5 +1,4 @@
-Humaria imperialis Beck SPECIES
-=======
+# Humaria imperialis Beck SPECIES
 
 #### Status
 ACCEPTED

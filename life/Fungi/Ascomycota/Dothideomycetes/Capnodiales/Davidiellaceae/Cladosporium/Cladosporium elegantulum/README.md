@@ -1,5 +1,4 @@
-Cladosporium elegantulum Pidopl. & Deniak SPECIES
-=======
+# Cladosporium elegantulum Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

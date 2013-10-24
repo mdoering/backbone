@@ -1,5 +1,4 @@
-Staurothele orispruinosa J.W. Thomson SPECIES
-=======
+# Staurothele orispruinosa J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

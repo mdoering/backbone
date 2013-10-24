@@ -1,5 +1,4 @@
-Agaricus praticola Vittad. SPECIES
-=======
+# Agaricus praticola Vittad. SPECIES
 
 #### Status
 ACCEPTED

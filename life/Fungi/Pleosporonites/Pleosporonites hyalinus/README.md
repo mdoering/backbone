@@ -1,5 +1,4 @@
-Pleosporonites hyalinus R.T. Lange & P.H. Sm. SPECIES
-=======
+# Pleosporonites hyalinus R.T. Lange & P.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

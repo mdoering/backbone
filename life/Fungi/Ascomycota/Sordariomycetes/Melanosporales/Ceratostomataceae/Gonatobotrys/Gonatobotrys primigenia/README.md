@@ -1,5 +1,4 @@
-Gonatobotrys primigenia Casp. SPECIES
-=======
+# Gonatobotrys primigenia Casp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovulariopsis papayae Van der Byl, 1921 SPECIES
-=======
+# Ovulariopsis papayae Van der Byl, 1921 SPECIES
 
 #### Status
 ACCEPTED

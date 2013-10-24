@@ -1,5 +1,4 @@
-Phomopsis pinicola Petr. & Cif. SPECIES
-=======
+# Phomopsis pinicola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

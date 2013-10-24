@@ -1,5 +1,4 @@
-Blastenia viridans B.J. Murray SPECIES
-=======
+# Blastenia viridans B.J. Murray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta gladioli-minor Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta gladioli-minor Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Caeomurus asclepiadis (Cooke) Kuntze, 1898 SPECIES
-=======
+# Uromyces asclepiadis Cooke, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 449 (1898)
+Grevillea 5(no. 36): 152 (1877)
 
 #### Original name
 Uromyces asclepiadis Cooke, 1877

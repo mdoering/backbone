@@ -1,5 +1,4 @@
-Lecidea texana W.A. Weber SPECIES
-=======
+# Lecidea texana W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

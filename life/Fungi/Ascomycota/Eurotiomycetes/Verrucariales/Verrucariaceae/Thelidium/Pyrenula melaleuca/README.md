@@ -1,5 +1,4 @@
-Pyrenula melaleuca Müll. Arg., 1891 SPECIES
-=======
+# Pyrenula melaleuca Müll. Arg., 1891 SPECIES
 
 #### Status
 DOUBTFUL

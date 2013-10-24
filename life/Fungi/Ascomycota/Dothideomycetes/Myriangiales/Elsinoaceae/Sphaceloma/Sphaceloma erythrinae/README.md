@@ -1,5 +1,4 @@
-Sphaceloma erythrinae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma erythrinae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

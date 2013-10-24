@@ -1,5 +1,4 @@
-Fusarium biseptatum Sawada SPECIES
-=======
+# Fusarium biseptatum Sawada SPECIES
 
 #### Status
 ACCEPTED

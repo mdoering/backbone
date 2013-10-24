@@ -1,5 +1,4 @@
-Xylaria ciliata Pat. SPECIES
-=======
+# Xylaria ciliata Pat. SPECIES
 
 #### Status
 ACCEPTED

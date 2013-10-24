@@ -1,17 +1,16 @@
-Astreptonema longispora Hauptfl. SPECIES
-=======
+# Astreptonema longisporum Hauptfl., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 13: 87 (1895)
 
 #### Original name
-Astreptonema longispora Hauptfl.
+Astreptonema longisporum Hauptfl., 1895
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola rapaneae var. rapaneae VARIETY
-=======
+# Meliola rapaneae Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 26(1/2): 86 (1928)
 
 #### Original name
-Meliola rapaneae var. rapaneae
+Meliola rapaneae Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dothiorella alchorneae Petr. & Cif. SPECIES
-=======
+# Dothiorella alchorneae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

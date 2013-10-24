@@ -1,5 +1,4 @@
-Roccella humboldtiana Follmann SPECIES
-=======
+# Roccella humboldtiana Follmann SPECIES
 
 #### Status
 ACCEPTED

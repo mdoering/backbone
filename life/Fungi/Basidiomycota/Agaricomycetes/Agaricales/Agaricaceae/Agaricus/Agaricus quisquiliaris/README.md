@@ -1,5 +1,4 @@
-Agaricus quisquiliaris Pers. SPECIES
-=======
+# Agaricus quisquiliaris Pers. SPECIES
 
 #### Status
 ACCEPTED

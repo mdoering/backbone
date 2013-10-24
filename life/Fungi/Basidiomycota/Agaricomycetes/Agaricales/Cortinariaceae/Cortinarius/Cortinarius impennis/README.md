@@ -1,5 +1,4 @@
-Cortinarius impennis subsp. impennis SUBSPECIES
-=======
+# Cortinarius impennis Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 293 (1838)
 
 #### Original name
-Cortinarius impennis subsp. impennis
+Cortinarius impennis Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russula bachii Cern. & H. Raab SPECIES
-=======
+# Russula bachii Cern. & H. Raab SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrocystis rarissima Dulym., P.F. Cannon & Peerally SPECIES
-=======
+# Astrocystis rarissima Dulym., P.F. Cannon & Peerally SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Camarosporium affine f. compositarum Gonz. Frag. FORM
-=======
+# Camarosporium passerinii Sacc., 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 10: 344 (1892)
 
 #### Original name
-Camarosporium affine f. compositarum Gonz. Frag.
+Camarosporium passerinii Sacc., 1892
 
 ### Remarks
 null

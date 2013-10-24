@@ -1,5 +1,4 @@
-Uredo verecunda Syd. SPECIES
-=======
+# Uredo verecunda Syd. SPECIES
 
 #### Status
 ACCEPTED

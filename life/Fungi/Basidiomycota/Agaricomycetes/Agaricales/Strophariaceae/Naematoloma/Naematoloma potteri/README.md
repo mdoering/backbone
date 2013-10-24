@@ -1,17 +1,16 @@
-Nematoloma potteri A.H. Sm. SPECIES
-=======
+# Naematoloma potteri A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(5): 499 (1951)
 
 #### Original name
-Nematoloma potteri A.H. Sm.
+Naematoloma potteri A.H. Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota discipes Henn. SPECIES
-=======
+# Lepiota discipes Henn. SPECIES
 
 #### Status
 ACCEPTED

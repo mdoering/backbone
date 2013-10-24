@@ -1,5 +1,4 @@
-Bodinia GENUS
-=======
+# Bodinia GENUS
 
 #### Status
 ACCEPTED

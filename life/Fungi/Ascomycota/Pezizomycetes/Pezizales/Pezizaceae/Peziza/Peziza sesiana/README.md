@@ -1,5 +1,4 @@
-Peziza sesiana Garofoli & Baiano SPECIES
-=======
+# Peziza sesiana Garofoli & Baiano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella amorae Viégas SPECIES
-=======
+# Diatrypella amorae Viégas SPECIES
 
 #### Status
 ACCEPTED

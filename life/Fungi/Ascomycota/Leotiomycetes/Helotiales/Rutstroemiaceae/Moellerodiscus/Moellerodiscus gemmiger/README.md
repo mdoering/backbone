@@ -1,14 +1,13 @@
-Moellerodiscus gemmigerus (Svrcek) M.P. Sharma SPECIES
-=======
+# Moellerodiscus gemmiger (Svrcek) M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 36(2-4): 710 (1983)
 
 #### Original name
 Ciboriopsis gemmigera Svrcek

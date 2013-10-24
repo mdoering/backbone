@@ -1,5 +1,4 @@
-Euglena trisulcata L. P. Johnson SPECIES
-=======
+# Euglena trisulcata L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

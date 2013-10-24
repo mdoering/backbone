@@ -1,5 +1,4 @@
-Halosarcina Savage et al., 2008 GENUS
-=======
+# Halosarcina Savage et al., 2008 GENUS
 
 #### Status
 ACCEPTED

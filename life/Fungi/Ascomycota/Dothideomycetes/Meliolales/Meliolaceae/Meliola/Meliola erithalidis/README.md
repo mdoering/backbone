@@ -1,5 +1,4 @@
-Meliola erithalidis (Cif.) Hansf. SPECIES
-=======
+# Meliola erithalidis (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

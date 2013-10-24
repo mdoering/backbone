@@ -1,5 +1,4 @@
-Lecanographa farinulenta (Müll. Arg.) Egea & Torrente SPECIES
-=======
+# Lecanographa farinulenta (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

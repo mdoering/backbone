@@ -1,5 +1,4 @@
-Arachnion album Schwein., 1822 SPECIES
-=======
+# Arachnion album Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED

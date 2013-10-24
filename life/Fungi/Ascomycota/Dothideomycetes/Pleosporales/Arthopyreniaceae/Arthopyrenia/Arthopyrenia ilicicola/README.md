@@ -1,5 +1,4 @@
-Arthopyrenia ilicicola (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia ilicicola (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

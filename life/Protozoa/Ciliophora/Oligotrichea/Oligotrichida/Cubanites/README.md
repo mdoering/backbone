@@ -1,5 +1,4 @@
-Cubanites Aescht, 2001 GENUS
-=======
+# Cubanites Aescht, 2001 GENUS
 
 #### Status
 ACCEPTED

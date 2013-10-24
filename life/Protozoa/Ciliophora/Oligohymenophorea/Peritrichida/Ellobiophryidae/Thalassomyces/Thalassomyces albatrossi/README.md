@@ -1,5 +1,4 @@
-Thalassomyces albatrossi Wing, 1975 SPECIES
-=======
+# Thalassomyces albatrossi Wing, 1975 SPECIES
 
 #### Status
 ACCEPTED

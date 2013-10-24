@@ -1,8 +1,7 @@
-Microdiplodia thymeleae (Pat.) Tassi SPECIES
-=======
+# Microdiplodia thymelaeae (Pat.) Tassi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodia thymelaeae Pat.
+Diplodia thymeleae Pat.
 
 ### Remarks
 null

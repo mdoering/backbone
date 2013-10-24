@@ -1,5 +1,4 @@
-Phyllosticta maculicola Halst. SPECIES
-=======
+# Phyllosticta maculicola Halst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia follmannii Barreno & Crespo SPECIES
-=======
+# Buellia follmannii Barreno & Crespo SPECIES
 
 #### Status
 ACCEPTED

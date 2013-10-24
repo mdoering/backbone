@@ -1,5 +1,4 @@
-Hysterangium epiroticum Pacioni SPECIES
-=======
+# Hysterangium epiroticum Pacioni SPECIES
 
 #### Status
 ACCEPTED

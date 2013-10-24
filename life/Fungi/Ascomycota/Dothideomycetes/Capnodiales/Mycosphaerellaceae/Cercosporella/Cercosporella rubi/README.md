@@ -1,14 +1,13 @@
-Ramularia rubi (G. Winter) Wollenw., 1916 SPECIES
-=======
+# Cercosporella rubi (G. Winter) Plakidas, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata, Edn 1 no. 470 (1916)
+J. Agric. Res. , Washington 54: 283 (1937)
 
 #### Original name
 Fusisporium rubi G. Winter, 1885

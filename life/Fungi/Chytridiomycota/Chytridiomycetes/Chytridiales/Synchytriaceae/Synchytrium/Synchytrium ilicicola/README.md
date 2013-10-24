@@ -1,5 +1,4 @@
-Synchytrium ilicicola M.T. Cook SPECIES
-=======
+# Synchytrium ilicicola M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

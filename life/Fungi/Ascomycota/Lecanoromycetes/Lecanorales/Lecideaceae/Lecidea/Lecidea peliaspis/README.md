@@ -1,5 +1,4 @@
-Lecidea peliaspis (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea peliaspis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

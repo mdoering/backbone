@@ -1,5 +1,4 @@
-Scutellinia balansae (Speg.) Gamundí SPECIES
-=======
+# Scutellinia balansae (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

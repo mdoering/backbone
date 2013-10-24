@@ -1,5 +1,4 @@
-Synurales Andersen, 1987 ORDER
-=======
+# Synurales Andersen, 1987 ORDER
 
 #### Status
 ACCEPTED

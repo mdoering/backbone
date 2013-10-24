@@ -1,14 +1,13 @@
-Caeomurus colchici (Massee) Kuntze, 1898 SPECIES
-=======
+# Uromyces colchici Massee, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Grevillea 21(no. 97): 6 (1892)
 
 #### Original name
 Uromyces colchici Massee, 1892

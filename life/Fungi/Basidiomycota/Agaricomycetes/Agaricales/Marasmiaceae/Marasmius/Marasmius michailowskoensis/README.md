@@ -1,5 +1,4 @@
-Marasmius michailowskoensis Henn. SPECIES
-=======
+# Marasmius michailowskoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

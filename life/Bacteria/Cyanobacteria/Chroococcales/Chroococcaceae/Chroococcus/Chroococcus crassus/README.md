@@ -1,5 +1,4 @@
-Chroococcus crassus (Kützing) Nägeli SPECIES
-=======
+# Chroococcus crassus (Kützing) Nägeli SPECIES
 
 #### Status
 ACCEPTED

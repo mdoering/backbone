@@ -1,5 +1,4 @@
-Arthonia cinnamomea Müll. Arg. SPECIES
-=======
+# Arthonia cinnamomea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

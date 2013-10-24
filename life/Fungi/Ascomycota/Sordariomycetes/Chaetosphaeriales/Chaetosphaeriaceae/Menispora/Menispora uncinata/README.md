@@ -1,5 +1,4 @@
-Menispora uncinata S. Hughes & W.B. Kendr., 1968 SPECIES
-=======
+# Menispora uncinata S. Hughes & W.B. Kendr., 1968 SPECIES
 
 #### Status
 ACCEPTED

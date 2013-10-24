@@ -1,5 +1,4 @@
-Parmelia praesquarrosa Kurok. SPECIES
-=======
+# Parmelia praesquarrosa Kurok. SPECIES
 
 #### Status
 ACCEPTED

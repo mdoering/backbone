@@ -1,5 +1,4 @@
-Lecanora metzleri H. Magn. SPECIES
-=======
+# Lecanora metzleri H. Magn. SPECIES
 
 #### Status
 ACCEPTED

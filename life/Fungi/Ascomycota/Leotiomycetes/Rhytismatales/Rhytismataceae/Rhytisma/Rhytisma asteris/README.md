@@ -1,17 +1,16 @@
-Xyloma asteris Schwein., 1822 SPECIES
-=======
+# Rhytisma asteris (Schwein.) Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 53 (1822)
+Trans. Am. phil. Soc. , New Series 4(2): 241 (1832)
 
 #### Original name
-Xyloma asteris Schwein., 1822
+Rhytisma asteris (Schwein.) Schwein., 1832
 
 ### Remarks
 null

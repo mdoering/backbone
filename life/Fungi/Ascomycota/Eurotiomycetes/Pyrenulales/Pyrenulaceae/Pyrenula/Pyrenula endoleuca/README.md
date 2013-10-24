@@ -1,5 +1,4 @@
-Pyrenula endoleuca Fée SPECIES
-=======
+# Pyrenula endoleuca Fée SPECIES
 
 #### Status
 ACCEPTED

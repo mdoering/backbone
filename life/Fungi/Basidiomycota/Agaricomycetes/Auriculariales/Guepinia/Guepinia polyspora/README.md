@@ -1,5 +1,4 @@
-Guepinia polyspora Hepp SPECIES
-=======
+# Guepinia polyspora Hepp SPECIES
 
 #### Status
 ACCEPTED

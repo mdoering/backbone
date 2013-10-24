@@ -1,5 +1,4 @@
-Ceratostomella echinella Ellis & Everh. SPECIES
-=======
+# Ceratostomella echinella Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

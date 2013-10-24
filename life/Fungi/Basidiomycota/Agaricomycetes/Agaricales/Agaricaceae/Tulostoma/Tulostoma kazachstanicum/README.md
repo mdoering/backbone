@@ -1,5 +1,4 @@
-Tulostoma kazachstanicum Philimonova & Tartenova SPECIES
-=======
+# Tulostoma kazachstanicum Philimonova & Tartenova SPECIES
 
 #### Status
 ACCEPTED

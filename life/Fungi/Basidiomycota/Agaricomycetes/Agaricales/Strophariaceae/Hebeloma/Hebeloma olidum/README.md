@@ -1,5 +1,4 @@
-Hebeloma olidum (Cooke & Massee) Sacc. SPECIES
-=======
+# Hebeloma olidum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

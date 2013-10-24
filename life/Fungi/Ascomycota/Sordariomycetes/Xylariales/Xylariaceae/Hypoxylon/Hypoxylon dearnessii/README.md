@@ -1,5 +1,4 @@
-Hypoxylon dearnessii Y.M. Ju & J.D. Rogers, 1996 SPECIES
-=======
+# Hypoxylon dearnessii Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED

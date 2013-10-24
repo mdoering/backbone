@@ -1,14 +1,13 @@
-Corticium sphaerosporum praefocatum Bourdot & Galzin, 1928 SUBSPECIES
-=======
+# Trechispora praefocata (Bourdot & Galzin) Liberta, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 15(8): 319 (1966)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Puccinia synthyridis Ellis & Everh. SPECIES
-=======
+# Puccinia synthyridis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

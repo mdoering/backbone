@@ -1,5 +1,4 @@
-Tricladiopsis Descals GENUS
-=======
+# Tricladiopsis Descals GENUS
 
 #### Status
 ACCEPTED

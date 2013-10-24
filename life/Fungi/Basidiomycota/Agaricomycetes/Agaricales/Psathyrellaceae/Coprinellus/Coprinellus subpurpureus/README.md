@@ -1,14 +1,13 @@
-Coprinus subpurpureus A.H. Sm., 1948 SPECIES
-=======
+# Coprinellus subpurpureus (A.H. Sm.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(6): 684 (1948)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
 Coprinus subpurpureus A.H. Sm., 1948

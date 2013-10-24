@@ -1,5 +1,4 @@
-Sphaerella cytisi-sagittalis Auersw. SPECIES
-=======
+# Sphaerella cytisi-sagittalis Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora maroccana B. de Lesd. SPECIES
-=======
+# Acarospora maroccana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

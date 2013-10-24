@@ -1,17 +1,16 @@
-Helotium trabinellum subsp. trabinellum SUBSPECIES
-=======
+# Phaeohelotium trabinellum (P. Karst.) Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 126 (1871)
+Kew Bull. 25(2): 354 (1971)
 
 #### Original name
-Helotium trabinellum subsp. trabinellum
+Helotium trabinellum P. Karst., 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xylaria asperata J.D. Rogers, Rossman & Samuels SPECIES
-=======
+# Xylaria asperata J.D. Rogers, Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

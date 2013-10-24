@@ -1,5 +1,4 @@
-Laschia pustulosa Jungh. SPECIES
-=======
+# Laschia pustulosa Jungh. SPECIES
 
 #### Status
 ACCEPTED

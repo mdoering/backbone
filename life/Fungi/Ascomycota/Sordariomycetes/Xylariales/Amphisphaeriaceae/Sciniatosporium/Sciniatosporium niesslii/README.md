@@ -1,5 +1,4 @@
-Sciniatosporium niesslii Morgan-Jones SPECIES
-=======
+# Sciniatosporium niesslii Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

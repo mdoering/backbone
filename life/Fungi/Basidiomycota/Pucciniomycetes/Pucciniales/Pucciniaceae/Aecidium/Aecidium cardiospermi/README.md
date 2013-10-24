@@ -1,5 +1,4 @@
-Aecidium cardiospermi Cooke SPECIES
-=======
+# Aecidium cardiospermi Cooke SPECIES
 
 #### Status
 ACCEPTED

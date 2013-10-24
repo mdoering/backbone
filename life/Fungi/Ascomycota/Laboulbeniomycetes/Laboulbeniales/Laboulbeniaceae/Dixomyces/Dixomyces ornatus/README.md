@@ -1,5 +1,4 @@
-Dixomyces ornatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces ornatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia brachycarpa Syd. SPECIES
-=======
+# Puccinia brachycarpa Syd. SPECIES
 
 #### Status
 ACCEPTED

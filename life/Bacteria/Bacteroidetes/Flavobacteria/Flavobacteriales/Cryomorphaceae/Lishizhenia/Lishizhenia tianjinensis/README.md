@@ -1,5 +1,4 @@
-Lishizhenia tianjinensis Chen, Xu, Fu, Fan, Zhou & Liu, 2009 SPECIES
-=======
+# Lishizhenia tianjinensis Chen, Xu, Fu, Fan, Zhou & Liu, 2009 SPECIES
 
 #### Status
 ACCEPTED

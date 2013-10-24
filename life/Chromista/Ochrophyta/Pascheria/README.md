@@ -1,5 +1,4 @@
-Pascheria Conrad GENUS
-=======
+# Pascheria Conrad GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps thwaitesii Lloyd SPECIES
-=======
+# Cordyceps thwaitesii Lloyd SPECIES
 
 #### Status
 ACCEPTED

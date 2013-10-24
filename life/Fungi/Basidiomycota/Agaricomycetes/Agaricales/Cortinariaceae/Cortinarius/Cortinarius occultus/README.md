@@ -1,5 +1,4 @@
-Cortinarius occultus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius occultus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

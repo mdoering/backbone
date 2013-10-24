@@ -1,5 +1,4 @@
-Cercidospora australis (Fabre) Kuntze SPECIES
-=======
+# Cercidospora australis (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

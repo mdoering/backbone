@@ -1,5 +1,4 @@
-Thelotrema subgranulosum Jatta SPECIES
-=======
+# Thelotrema subgranulosum Jatta SPECIES
 
 #### Status
 ACCEPTED

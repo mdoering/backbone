@@ -1,5 +1,4 @@
-Lactella sciarae (Tschud.) Maessen SPECIES
-=======
+# Lactella sciarae (Tschud.) Maessen SPECIES
 
 #### Status
 ACCEPTED

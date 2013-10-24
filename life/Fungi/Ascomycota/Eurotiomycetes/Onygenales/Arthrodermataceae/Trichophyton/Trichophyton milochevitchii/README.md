@@ -1,5 +1,4 @@
-Trichophyton milochevitchii (Langeron & Baeza) Ansari & Faghih SPECIES
-=======
+# Trichophyton milochevitchii (Langeron & Baeza) Ansari & Faghih SPECIES
 
 #### Status
 ACCEPTED

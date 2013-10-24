@@ -1,5 +1,4 @@
-Sirothyrium citri Bitanc. SPECIES
-=======
+# Sirothyrium citri Bitanc. SPECIES
 
 #### Status
 ACCEPTED

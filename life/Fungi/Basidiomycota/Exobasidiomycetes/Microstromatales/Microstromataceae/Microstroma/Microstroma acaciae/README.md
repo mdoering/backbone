@@ -1,5 +1,4 @@
-Microstroma acaciae Syd. SPECIES
-=======
+# Microstroma acaciae Syd. SPECIES
 
 #### Status
 ACCEPTED

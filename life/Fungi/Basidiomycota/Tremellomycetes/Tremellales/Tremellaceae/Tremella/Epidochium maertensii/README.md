@@ -1,5 +1,4 @@
-Epidochium maertensii Westend. SPECIES
-=======
+# Epidochium maertensii Westend. SPECIES
 
 #### Status
 ACCEPTED

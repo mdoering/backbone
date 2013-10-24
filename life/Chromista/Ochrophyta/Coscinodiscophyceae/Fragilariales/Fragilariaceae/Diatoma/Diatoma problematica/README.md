@@ -1,5 +1,4 @@
-Diatoma problematica Lange-Bertalot SPECIES
-=======
+# Diatoma problematica Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

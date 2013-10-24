@@ -1,5 +1,4 @@
-Candida odintsovae Babeva, Reshetova, Blagod. & Galimova, 1989 SPECIES
-=======
+# Candida odintsovae Babeva, Reshetova, Blagod. & Galimova, 1989 SPECIES
 
 #### Status
 ACCEPTED

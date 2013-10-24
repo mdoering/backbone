@@ -1,5 +1,4 @@
-Paramoritella alkaliphila Hosoya, Suzuki, Adachi, Matsuda & Kasai, 2009 SPECIES
-=======
+# Paramoritella alkaliphila Hosoya, Suzuki, Adachi, Matsuda & Kasai, 2009 SPECIES
 
 #### Status
 ACCEPTED

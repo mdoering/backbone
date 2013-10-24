@@ -1,5 +1,4 @@
-Sphaeria phileura Cooke & Peck SPECIES
-=======
+# Sphaeria phileura Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

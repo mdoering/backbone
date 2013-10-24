@@ -1,5 +1,4 @@
-Lophiostoma speciosum Ellis & Everh. SPECIES
-=======
+# Lophiostoma speciosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

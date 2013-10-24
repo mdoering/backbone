@@ -1,5 +1,4 @@
-Orgulla P.N. Kolosov & V.A. Rudavskaja in P.N. Kolosov, 1984 GENUS
-=======
+# Orgulla P.N. Kolosov & V.A. Rudavskaja in P.N. Kolosov, 1984 GENUS
 
 #### Status
 ACCEPTED

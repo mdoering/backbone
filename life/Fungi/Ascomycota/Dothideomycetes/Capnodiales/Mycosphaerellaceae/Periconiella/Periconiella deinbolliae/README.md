@@ -1,5 +1,4 @@
-Periconiella deinbolliae M.B. Ellis SPECIES
-=======
+# Periconiella deinbolliae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

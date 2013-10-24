@@ -1,14 +1,13 @@
-Stereum attenuatum Lév., 1844 SPECIES
-=======
+# Hymenochaete attenuata (Lév.) Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 2: 212 (1844)
+Annls Sci. Nat. , Bot. , sér. 3 5: 152 (1846)
 
 #### Original name
 Stereum attenuatum Lév., 1844

@@ -1,5 +1,4 @@
-Russula subtomentosa Cern. & H. Raab SPECIES
-=======
+# Russula subtomentosa Cern. & H. Raab SPECIES
 
 #### Status
 ACCEPTED

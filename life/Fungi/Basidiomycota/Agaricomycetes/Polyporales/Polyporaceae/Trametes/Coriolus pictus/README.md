@@ -1,5 +1,4 @@
-Coriolus pictus (Berk. & Broome ex Cooke) G. Cunn. SPECIES
-=======
+# Coriolus pictus (Berk. & Broome ex Cooke) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

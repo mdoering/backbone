@@ -1,5 +1,4 @@
-Lecanora limborinella (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora limborinella (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

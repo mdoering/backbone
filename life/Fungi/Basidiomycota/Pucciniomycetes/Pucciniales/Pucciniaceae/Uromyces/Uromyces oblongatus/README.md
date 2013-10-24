@@ -1,5 +1,4 @@
-Uromyces oblongatus E. Fisch. SPECIES
-=======
+# Uromyces oblongatus E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

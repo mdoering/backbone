@@ -1,17 +1,16 @@
-Rhizidiopsis Sparrow GENUS
-=======
+# Podochytrium Pfitzer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 216 (1933)
+Verh. naturh. Ver. preuss. Rheinl. Westphalens 27(Sitzungsber): 62 (1870)
 
 #### Original name
-Rhizidiopsis Sparrow
+Podochytrium Pfitzer
 
 ### Remarks
 null

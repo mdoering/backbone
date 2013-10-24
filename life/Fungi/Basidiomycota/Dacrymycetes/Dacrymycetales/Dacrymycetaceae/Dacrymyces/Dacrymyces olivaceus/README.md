@@ -1,5 +1,4 @@
-Dacrymyces olivaceus Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Dacrymyces olivaceus Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygloea longispora Hauerslev SPECIES
-=======
+# Platygloea longispora Hauerslev SPECIES
 
 #### Status
 ACCEPTED

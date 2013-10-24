@@ -1,5 +1,4 @@
-Agaricus olorinus Fr. SPECIES
-=======
+# Agaricus olorinus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora heveae (Vincens) Deighton SPECIES
-=======
+# Pseudocercospora heveae (Vincens) Deighton SPECIES
 
 #### Status
 ACCEPTED

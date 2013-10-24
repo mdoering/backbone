@@ -1,5 +1,4 @@
-Marasmiellus afer Pegler SPECIES
-=======
+# Marasmiellus afer Pegler SPECIES
 
 #### Status
 ACCEPTED

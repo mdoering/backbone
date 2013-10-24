@@ -1,5 +1,4 @@
-Dendrodochium citrinum Grove, 1886 SPECIES
-=======
+# Dendrodochium citrinum Grove, 1886 SPECIES
 
 #### Status
 ACCEPTED

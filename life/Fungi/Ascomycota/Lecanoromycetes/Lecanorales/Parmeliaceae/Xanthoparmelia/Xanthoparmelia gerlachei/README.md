@@ -1,5 +1,4 @@
-Xanthoparmelia gerlachei (Zahlbr.) Hale SPECIES
-=======
+# Xanthoparmelia gerlachei (Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium saxifragae Rostr. SPECIES
-=======
+# Coniothyrium saxifragae Rostr. SPECIES
 
 #### Status
 ACCEPTED

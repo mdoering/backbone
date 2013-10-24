@@ -1,14 +1,13 @@
-Graphis hologlauca Nyl. SPECIES
-=======
+# Cyclographina hologlauca (Nyl.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenes Neotropici (Neumarkt), Fascicle <b>VIII</b> (nos 301-350) 7, no. 312 (1984)
 
 #### Original name
 Graphis hologlauca Nyl.

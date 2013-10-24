@@ -1,5 +1,4 @@
-Clavaria geoglossoides Boud. & Pat. SPECIES
-=======
+# Clavaria geoglossoides Boud. & Pat. SPECIES
 
 #### Status
 ACCEPTED

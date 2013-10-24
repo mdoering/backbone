@@ -1,5 +1,4 @@
-Biatorella gibberella (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella gibberella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

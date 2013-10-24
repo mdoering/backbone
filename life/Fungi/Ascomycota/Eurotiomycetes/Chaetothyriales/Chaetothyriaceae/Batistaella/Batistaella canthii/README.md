@@ -1,5 +1,4 @@
-Batistaella canthii (Hansf.) Cif. SPECIES
-=======
+# Batistaella canthii (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

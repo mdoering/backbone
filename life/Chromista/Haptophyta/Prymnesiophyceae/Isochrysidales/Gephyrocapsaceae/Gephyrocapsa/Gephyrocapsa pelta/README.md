@@ -1,5 +1,4 @@
-Gephyrocapsa pelta Samtleben, 1980 SPECIES
-=======
+# Gephyrocapsa pelta Samtleben, 1980 SPECIES
 
 #### Status
 ACCEPTED

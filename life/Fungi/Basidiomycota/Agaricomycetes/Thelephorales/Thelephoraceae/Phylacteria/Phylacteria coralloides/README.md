@@ -1,5 +1,4 @@
-Phylacteria coralloides (Fr.) Bigeard & H. Guill. SPECIES
-=======
+# Phylacteria coralloides (Fr.) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

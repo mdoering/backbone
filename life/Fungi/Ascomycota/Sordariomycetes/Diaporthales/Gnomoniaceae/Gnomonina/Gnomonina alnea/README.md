@@ -1,5 +1,4 @@
-Gnomonina alnea (Fr.) Höhn. SPECIES
-=======
+# Gnomonina alnea (Fr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

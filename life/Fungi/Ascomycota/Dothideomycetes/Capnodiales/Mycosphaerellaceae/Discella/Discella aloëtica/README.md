@@ -1,5 +1,4 @@
-Discella aloëtica Sacc. SPECIES
-=======
+# Discella aloëtica Sacc. SPECIES
 
 #### Status
 ACCEPTED

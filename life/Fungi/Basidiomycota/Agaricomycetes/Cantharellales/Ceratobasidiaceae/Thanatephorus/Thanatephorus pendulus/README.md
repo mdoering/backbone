@@ -1,14 +1,13 @@
-Aquathanatephorus pendulus C.C. Tu & Kimbr., 1978 SPECIES
-=======
+# Thanatephorus pendulus (C.C. Tu & Kimbr.) Stalpers & T.F. Andersen, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 39(4): 459 (1978)
+Rhizoctonia Species (Dordrecht), Taxonomy, Molecular Biology, Ecology, Pathology and Disease Control 57 (1996)
 
 #### Original name
 Aquathanatephorus pendulus C.C. Tu & Kimbr., 1978

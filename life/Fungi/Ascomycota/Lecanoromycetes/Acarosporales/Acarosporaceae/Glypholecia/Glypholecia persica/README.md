@@ -1,5 +1,4 @@
-Glypholecia persica J. Steiner SPECIES
-=======
+# Glypholecia persica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

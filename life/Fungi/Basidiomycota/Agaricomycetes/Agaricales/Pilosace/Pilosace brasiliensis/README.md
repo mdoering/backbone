@@ -1,5 +1,4 @@
-Pilosace brasiliensis Rick SPECIES
-=======
+# Pilosace brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

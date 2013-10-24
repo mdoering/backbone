@@ -1,5 +1,4 @@
-Lecanora takyroides Dzhur. SPECIES
-=======
+# Lecanora takyroides Dzhur. SPECIES
 
 #### Status
 ACCEPTED

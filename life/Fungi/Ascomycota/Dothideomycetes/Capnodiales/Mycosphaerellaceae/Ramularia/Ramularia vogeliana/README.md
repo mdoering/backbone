@@ -1,5 +1,4 @@
-Ramularia vogeliana (Sacc. & P. Syd.) U. Braun SPECIES
-=======
+# Ramularia vogeliana (Sacc. & P. Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

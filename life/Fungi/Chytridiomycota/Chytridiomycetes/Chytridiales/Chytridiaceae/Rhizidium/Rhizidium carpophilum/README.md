@@ -1,5 +1,4 @@
-Rhizidium carpophilum Zopf SPECIES
-=======
+# Rhizidium carpophilum Zopf SPECIES
 
 #### Status
 ACCEPTED

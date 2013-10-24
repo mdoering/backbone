@@ -1,5 +1,4 @@
-Xylaria plumbea J.D. Rogers & Samuels SPECIES
-=======
+# Xylaria plumbea J.D. Rogers & Samuels SPECIES
 
 #### Status
 ACCEPTED

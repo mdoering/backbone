@@ -1,5 +1,4 @@
-Syringoderma phinneyi Henry & D.G. Müller SPECIES
-=======
+# Syringoderma phinneyi Henry & D.G. Müller SPECIES
 
 #### Status
 ACCEPTED

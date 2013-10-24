@@ -1,5 +1,4 @@
-Euglena ettlii K. Woowski SPECIES
-=======
+# Euglena ettlii K. Woowski SPECIES
 
 #### Status
 ACCEPTED

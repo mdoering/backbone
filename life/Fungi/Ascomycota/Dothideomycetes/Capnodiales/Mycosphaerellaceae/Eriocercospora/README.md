@@ -1,5 +1,4 @@
-Eriocercospora Deighton GENUS
-=======
+# Eriocercospora Deighton GENUS
 
 #### Status
 ACCEPTED

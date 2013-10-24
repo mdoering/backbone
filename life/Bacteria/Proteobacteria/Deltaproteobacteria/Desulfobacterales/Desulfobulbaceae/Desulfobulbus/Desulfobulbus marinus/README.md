@@ -1,5 +1,4 @@
-Desulfobulbus marinus Kuever, Rainey & Widdel, 2005 SPECIES
-=======
+# Desulfobulbus marinus Kuever, Rainey & Widdel, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon neozelandicum (Räsänen) Räsänen SPECIES
-=======
+# Rhizocarpon neozelandicum (Räsänen) Räsänen SPECIES
 
 #### Status
 ACCEPTED

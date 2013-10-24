@@ -1,5 +1,4 @@
-Lecanora raesenii SPECIES
-=======
+# Lecanora raesenii SPECIES
 
 #### Status
 ACCEPTED

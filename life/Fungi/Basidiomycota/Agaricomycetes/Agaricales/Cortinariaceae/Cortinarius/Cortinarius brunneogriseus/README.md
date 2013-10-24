@@ -1,5 +1,4 @@
-Cortinarius brunneogriseus Soop SPECIES
-=======
+# Cortinarius brunneogriseus Soop SPECIES
 
 #### Status
 ACCEPTED

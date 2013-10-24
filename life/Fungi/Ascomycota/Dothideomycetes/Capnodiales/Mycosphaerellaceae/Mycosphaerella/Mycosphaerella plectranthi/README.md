@@ -1,5 +1,4 @@
-Mycosphaerella plectranthi Doidge SPECIES
-=======
+# Mycosphaerella plectranthi Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria simillima Rehm SPECIES
-=======
+# Leptosphaeria simillima Rehm SPECIES
 
 #### Status
 ACCEPTED

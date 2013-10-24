@@ -1,5 +1,4 @@
-Columnosphaeria euganea (Sacc.) M.E. Barr SPECIES
-=======
+# Columnosphaeria euganea (Sacc.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

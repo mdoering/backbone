@@ -1,5 +1,4 @@
-Agaricus oblitteratus Schumach. SPECIES
-=======
+# Agaricus oblitteratus Schumach. SPECIES
 
 #### Status
 ACCEPTED

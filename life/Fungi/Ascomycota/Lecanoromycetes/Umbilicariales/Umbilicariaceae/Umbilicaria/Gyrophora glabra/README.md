@@ -1,5 +1,4 @@
-Gyrophora glabra SPECIES
-=======
+# Gyrophora glabra SPECIES
 
 #### Status
 ACCEPTED

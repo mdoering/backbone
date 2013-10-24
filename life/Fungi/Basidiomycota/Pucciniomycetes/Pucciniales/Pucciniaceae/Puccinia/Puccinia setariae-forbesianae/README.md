@@ -1,5 +1,4 @@
-Puccinia setariae-forbesianae Tai {?} SPECIES
-=======
+# Puccinia setariae-forbesianae Tai {?} SPECIES
 
 #### Status
 ACCEPTED

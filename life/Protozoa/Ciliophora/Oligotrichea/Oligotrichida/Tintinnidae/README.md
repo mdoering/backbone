@@ -1,5 +1,4 @@
-Tintinnidae Claparède & Lachmann, 1858 FAMILY
-=======
+# Tintinnidae Claparède & Lachmann, 1858 FAMILY
 
 #### Status
 ACCEPTED

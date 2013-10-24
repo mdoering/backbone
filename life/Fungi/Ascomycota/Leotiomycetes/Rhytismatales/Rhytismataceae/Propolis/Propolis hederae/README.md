@@ -1,5 +1,4 @@
-Propolis hederae (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Propolis hederae (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

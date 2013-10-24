@@ -1,5 +1,4 @@
-Clitocybe azalearum Murrill SPECIES
-=======
+# Clitocybe azalearum Murrill SPECIES
 
 #### Status
 ACCEPTED

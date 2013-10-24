@@ -1,5 +1,4 @@
-Textularia semialata Cushman, 1913 SPECIES
-=======
+# Textularia semialata Cushman, 1913 SPECIES
 
 #### Status
 ACCEPTED

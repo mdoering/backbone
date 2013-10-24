@@ -1,5 +1,4 @@
-Phlebia dictyophoroides Sang H. Lin & Z.C. Chen SPECIES
-=======
+# Phlebia dictyophoroides Sang H. Lin & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

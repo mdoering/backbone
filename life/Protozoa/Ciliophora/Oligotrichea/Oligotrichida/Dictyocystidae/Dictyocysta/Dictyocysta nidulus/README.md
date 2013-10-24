@@ -1,5 +1,4 @@
-Dictyocysta nidulus Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta nidulus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

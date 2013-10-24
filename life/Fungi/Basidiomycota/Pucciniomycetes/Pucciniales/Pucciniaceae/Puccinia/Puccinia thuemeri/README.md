@@ -1,5 +1,4 @@
-Puccinia thuemeri SPECIES
-=======
+# Puccinia thuemeri SPECIES
 
 #### Status
 ACCEPTED

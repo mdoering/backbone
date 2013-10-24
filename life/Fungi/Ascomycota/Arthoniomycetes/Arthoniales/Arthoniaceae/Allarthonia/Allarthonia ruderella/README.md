@@ -1,5 +1,4 @@
-Allarthonia ruderella (Nyl.) Szatala SPECIES
-=======
+# Allarthonia ruderella (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arenamonas B.V. Skvortzov, 1960 GENUS
-=======
+# Arenamonas B.V. Skvortzov, 1960 GENUS
 
 #### Status
 ACCEPTED

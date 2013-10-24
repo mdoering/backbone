@@ -1,5 +1,4 @@
-Phaeographis crassilabra (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Phaeographis crassilabra (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

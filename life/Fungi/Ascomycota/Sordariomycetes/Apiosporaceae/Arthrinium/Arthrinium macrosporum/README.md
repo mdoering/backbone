@@ -1,5 +1,4 @@
-Arthrinium macrosporum B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Arthrinium macrosporum B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

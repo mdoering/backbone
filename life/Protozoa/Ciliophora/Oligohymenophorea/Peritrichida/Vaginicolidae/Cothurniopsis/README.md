@@ -1,5 +1,4 @@
-Cothurniopsis Stokes, 1893 GENUS
-=======
+# Cothurniopsis Stokes, 1893 GENUS
 
 #### Status
 ACCEPTED

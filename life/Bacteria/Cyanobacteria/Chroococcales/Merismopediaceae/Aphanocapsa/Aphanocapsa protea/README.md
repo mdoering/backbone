@@ -1,5 +1,4 @@
-Aphanocapsa protea (Copeland) Komárek & Anagnostidis SPECIES
-=======
+# Aphanocapsa protea (Copeland) Komárek & Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

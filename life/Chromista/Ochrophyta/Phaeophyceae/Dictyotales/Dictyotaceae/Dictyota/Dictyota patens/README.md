@@ -1,5 +1,4 @@
-Dictyota patens J. Agardh SPECIES
-=======
+# Dictyota patens J. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clonostachys pseudostriata Schroers SPECIES
-=======
+# Clonostachys pseudostriata Schroers SPECIES
 
 #### Status
 ACCEPTED

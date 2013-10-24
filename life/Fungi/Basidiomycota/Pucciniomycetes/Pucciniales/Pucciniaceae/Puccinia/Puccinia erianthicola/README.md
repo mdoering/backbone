@@ -1,5 +1,4 @@
-Puccinia erianthicola Cummins SPECIES
-=======
+# Puccinia erianthicola Cummins SPECIES
 
 #### Status
 ACCEPTED

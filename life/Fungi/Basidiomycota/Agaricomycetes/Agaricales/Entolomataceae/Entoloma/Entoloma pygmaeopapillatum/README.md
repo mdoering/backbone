@@ -1,5 +1,4 @@
-Entoloma pygmaeopapillatum Arnolds & Winterh., 1986 SPECIES
-=======
+# Entoloma pygmaeopapillatum Arnolds & Winterh., 1986 SPECIES
 
 #### Status
 ACCEPTED

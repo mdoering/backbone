@@ -1,5 +1,4 @@
-Puccinia hendersonii Hüseyin & Kirbag SPECIES
-=======
+# Puccinia hendersonii Hüseyin & Kirbag SPECIES
 
 #### Status
 ACCEPTED

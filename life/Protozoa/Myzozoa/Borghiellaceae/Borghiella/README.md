@@ -1,5 +1,4 @@
-Borghiella Moestrup, G.Hansen & Daugberg, 2008 GENUS
-=======
+# Borghiella Moestrup, G.Hansen & Daugberg, 2008 GENUS
 
 #### Status
 ACCEPTED

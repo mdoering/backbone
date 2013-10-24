@@ -1,17 +1,16 @@
-Sticta gilva var. gilva VARIETY
-=======
+# Pseudocyphellaria gilva (Ach.) Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 32 (1899)
 
 #### Original name
-Sticta gilva var. gilva
+Lichen gilvus Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coscinodiscus tuberculatus Greville SPECIES
-=======
+# Coscinodiscus tuberculatus Greville SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opisteria homanii (Gyeln.) Räsänen SPECIES
-=======
+# Opisteria homanii (Gyeln.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

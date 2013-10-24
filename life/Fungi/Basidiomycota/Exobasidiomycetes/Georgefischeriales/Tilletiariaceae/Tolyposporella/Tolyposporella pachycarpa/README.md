@@ -1,5 +1,4 @@
-Tolyposporella pachycarpa (Syd.) L. Ling SPECIES
-=======
+# Tolyposporella pachycarpa (Syd.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

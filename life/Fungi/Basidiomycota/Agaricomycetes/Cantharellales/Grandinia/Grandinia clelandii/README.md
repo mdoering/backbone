@@ -1,5 +1,4 @@
-Grandinia clelandii Wakef. SPECIES
-=======
+# Grandinia clelandii Wakef. SPECIES
 
 #### Status
 ACCEPTED

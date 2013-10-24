@@ -1,17 +1,16 @@
-Metasphaeria recutita var. recutita VARIETY
-=======
+# Mycosphaerella recutita (Fr.) Johanson, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 176 (1883)
+Öfvers. K. Förh. Kongl. Svenska Vetensk. -Akad. 41(9): 166 (1884)
 
 #### Original name
-Metasphaeria recutita var. recutita
+Sphaeria recutita Fr., 1823
 
 ### Remarks
 null

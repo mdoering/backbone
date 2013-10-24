@@ -1,17 +1,16 @@
-Tephrophana osmophora (E.-J. Gilbert) Romagn., 1978 SPECIES
-=======
+# Tephrocybe osmophora (E.-J. Gilbert) Bon, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 28(no. 111): 74 (1998)
 
 #### Original name
-null
+Clitocybe osmophora E.-J. Gilbert, 1935
 
 ### Remarks
 null

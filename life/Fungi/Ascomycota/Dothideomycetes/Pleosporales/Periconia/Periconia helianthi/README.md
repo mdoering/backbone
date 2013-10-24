@@ -1,5 +1,4 @@
-Periconia helianthi Bonord. SPECIES
-=======
+# Periconia helianthi Bonord. SPECIES
 
 #### Status
 ACCEPTED

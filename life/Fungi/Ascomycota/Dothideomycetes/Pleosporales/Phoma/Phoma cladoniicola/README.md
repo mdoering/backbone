@@ -1,5 +1,4 @@
-Phoma cladoniicola Diederich, Kocourk. & Etayo SPECIES
-=======
+# Phoma cladoniicola Diederich, Kocourk. & Etayo SPECIES
 
 #### Status
 ACCEPTED

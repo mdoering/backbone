@@ -1,17 +1,16 @@
-Botrytis vicia-hirssutae Xue Y. Wang, L.X. Zhang & Z.Y. Zhang SPECIES
-=======
+# Botrytis viciae-hirsutae Xue Y. Wang, L.X. Zhang & Z.Y. Zhang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Advances in Plant Pathology (Beijing), Proceedings of the 2nd Young Phytopathologists' Conference on Plant Pathology 266 (1995)
 
 #### Original name
-Botrytis vicia-hirssutae Xue Y. Wang, L.X. Zhang & Z.Y. Zhang
+Botrytis viciae-hirsutae Xue Y. Wang, L.X. Zhang & Z.Y. Zhang
 
 ### Remarks
 null

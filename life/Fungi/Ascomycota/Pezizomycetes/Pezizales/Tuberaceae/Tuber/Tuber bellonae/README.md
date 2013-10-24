@@ -1,5 +1,4 @@
-Tuber bellonae Quél. SPECIES
-=======
+# Tuber bellonae Quél. SPECIES
 
 #### Status
 ACCEPTED

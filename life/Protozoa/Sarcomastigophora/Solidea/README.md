@@ -1,5 +1,4 @@
-Solidea Whalen & Carter, 1998 GENUS
-=======
+# Solidea Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

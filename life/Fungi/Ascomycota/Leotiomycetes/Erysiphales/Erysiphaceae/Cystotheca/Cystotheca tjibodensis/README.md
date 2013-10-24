@@ -1,17 +1,16 @@
-Cystotheca tijbodensis SPECIES
-=======
+# Cystotheca tjibodensis (Gäum.) Katum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. Tottori Mycol. Inst. 10: 443 (1973)
 
 #### Original name
-Cystotheca tijbodensis
+Lanomyces tjibodensis Gäum.
 
 ### Remarks
 null

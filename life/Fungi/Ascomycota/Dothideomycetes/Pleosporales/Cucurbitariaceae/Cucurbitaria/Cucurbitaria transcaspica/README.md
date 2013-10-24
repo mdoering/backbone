@@ -1,5 +1,4 @@
-Cucurbitaria transcaspica Rehm SPECIES
-=======
+# Cucurbitaria transcaspica Rehm SPECIES
 
 #### Status
 ACCEPTED

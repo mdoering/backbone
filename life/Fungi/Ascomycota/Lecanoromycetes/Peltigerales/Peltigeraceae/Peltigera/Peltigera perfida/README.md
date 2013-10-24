@@ -1,5 +1,4 @@
-Peltigera perfida f. perfida FORM
-=======
+# Peltigera perfida Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera perfida f. perfida
+Peltigera perfida Gyeln.
 
 ### Remarks
 null

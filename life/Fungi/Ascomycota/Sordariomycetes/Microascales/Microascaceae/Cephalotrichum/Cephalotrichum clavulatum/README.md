@@ -1,5 +1,4 @@
-Cephalotrichum clavulatum (Ces.) Kuntze SPECIES
-=======
+# Cephalotrichum clavulatum (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

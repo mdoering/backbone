@@ -1,5 +1,4 @@
-Sphaerozoum punctatum (Huxley) Mueller, 1858 SPECIES
-=======
+# Sphaerozoum punctatum (Huxley) Mueller, 1858 SPECIES
 
 #### Status
 ACCEPTED

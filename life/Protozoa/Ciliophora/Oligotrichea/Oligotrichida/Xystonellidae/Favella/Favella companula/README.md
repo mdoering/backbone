@@ -1,5 +1,4 @@
-Favella companula SPECIES
-=======
+# Favella companula SPECIES
 
 #### Status
 ACCEPTED

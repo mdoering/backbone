@@ -1,5 +1,4 @@
-Mycosphaerella foeniculi Komirn. SPECIES
-=======
+# Mycosphaerella foeniculi Komirn. SPECIES
 
 #### Status
 ACCEPTED

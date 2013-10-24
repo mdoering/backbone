@@ -1,5 +1,4 @@
-Pleospora saccoboloides Speg. SPECIES
-=======
+# Pleospora saccoboloides Speg. SPECIES
 
 #### Status
 ACCEPTED

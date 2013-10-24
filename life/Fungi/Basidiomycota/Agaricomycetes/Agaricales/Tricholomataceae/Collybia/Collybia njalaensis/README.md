@@ -1,5 +1,4 @@
-Collybia njalaensis (Beeli) Pegler SPECIES
-=======
+# Collybia njalaensis (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

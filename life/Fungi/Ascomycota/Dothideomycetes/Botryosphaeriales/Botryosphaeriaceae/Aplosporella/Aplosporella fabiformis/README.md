@@ -1,5 +1,4 @@
-Aplosporella fabiformis (Pass. & Thüm.) Petr. & Syd. SPECIES
-=======
+# Aplosporella fabiformis (Pass. & Thüm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

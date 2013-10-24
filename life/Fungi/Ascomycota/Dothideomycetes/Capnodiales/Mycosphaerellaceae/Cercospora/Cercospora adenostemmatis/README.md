@@ -1,17 +1,16 @@
-Cercospora adenostemmae Togashi & Katsuki SPECIES
-=======
+# Cercospora adenostemmatis Togashi & Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 65: 18 (1952)
 
 #### Original name
-Cercospora adenostemmae Togashi & Katsuki
+Cercospora adenostemmatis Togashi & Katsuki
 
 ### Remarks
 null

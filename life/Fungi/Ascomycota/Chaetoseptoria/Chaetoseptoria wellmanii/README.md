@@ -1,5 +1,4 @@
-Chaetoseptoria wellmanii J.A. Stev. SPECIES
-=======
+# Chaetoseptoria wellmanii J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

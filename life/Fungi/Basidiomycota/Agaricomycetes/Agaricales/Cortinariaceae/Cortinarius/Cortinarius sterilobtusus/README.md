@@ -1,5 +1,4 @@
-Cortinarius sterilobtusus Rob. Henry SPECIES
-=======
+# Cortinarius sterilobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

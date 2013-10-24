@@ -1,5 +1,4 @@
-Cordyceps rubricapitata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps rubricapitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

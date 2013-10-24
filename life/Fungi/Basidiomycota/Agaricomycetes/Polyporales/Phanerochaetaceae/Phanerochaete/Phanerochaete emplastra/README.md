@@ -1,14 +1,13 @@
-Corticium emplastrum Berk. & Broome, 1875 SPECIES
-=======
+# Phanerochaete emplastra (Berk. & Broome) Hjortstam, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 70 (1875)
+Kew Bull. 44(2): 306 (1989)
 
 #### Original name
 Corticium emplastrum Berk. & Broome, 1875

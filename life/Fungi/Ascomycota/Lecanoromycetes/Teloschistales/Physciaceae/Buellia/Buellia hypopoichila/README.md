@@ -1,5 +1,4 @@
-Buellia hypopoichila (Vain.) C.W. Dodge SPECIES
-=======
+# Buellia hypopoichila (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

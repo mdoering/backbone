@@ -1,5 +1,4 @@
-Daedalea membranacea Wormsk. SPECIES
-=======
+# Daedalea membranacea Wormsk. SPECIES
 
 #### Status
 ACCEPTED

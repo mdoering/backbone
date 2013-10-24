@@ -1,5 +1,4 @@
-Porina radiata Kalb, Lücking & Vezda SPECIES
-=======
+# Porina radiata Kalb, Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED

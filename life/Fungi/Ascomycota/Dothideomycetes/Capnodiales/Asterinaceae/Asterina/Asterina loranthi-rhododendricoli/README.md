@@ -1,5 +1,4 @@
-Asterina loranthi-rhododendricoli W. Yamam. SPECIES
-=======
+# Asterina loranthi-rhododendricoli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

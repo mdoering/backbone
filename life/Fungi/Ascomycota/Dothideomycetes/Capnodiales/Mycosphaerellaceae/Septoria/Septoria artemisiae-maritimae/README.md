@@ -1,5 +1,4 @@
-Septoria artemisiae-maritimae Lobik SPECIES
-=======
+# Septoria artemisiae-maritimae Lobik SPECIES
 
 #### Status
 ACCEPTED

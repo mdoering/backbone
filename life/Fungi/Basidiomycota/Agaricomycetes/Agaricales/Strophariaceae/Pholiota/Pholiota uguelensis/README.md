@@ -1,5 +1,4 @@
-Pholiota uguelensis Henn. SPECIES
-=======
+# Pholiota uguelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

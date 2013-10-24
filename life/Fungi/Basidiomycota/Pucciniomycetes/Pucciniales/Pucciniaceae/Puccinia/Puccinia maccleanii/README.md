@@ -1,17 +1,16 @@
-Puccinia mccleanii Doidge SPECIES
-=======
+# Puccinia maccleanii Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 231 (1941)
 
 #### Original name
-Puccinia mccleanii Doidge
+Puccinia maccleanii Doidge
 
 ### Remarks
 null

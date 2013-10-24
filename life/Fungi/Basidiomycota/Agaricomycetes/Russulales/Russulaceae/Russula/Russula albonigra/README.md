@@ -1,17 +1,16 @@
-Russula albonigra f. pseudonigricans Romagn. FORM
-=======
+# Russula albonigra (Krombh.) Fr., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 31(1): 173 (1962)
+Hymenomyc. eur. (Upsaliae) 440 (1874)
 
 #### Original name
-Russula albonigra f. pseudonigricans Romagn.
+Agaricus alboniger Krombh., 1845
 
 ### Remarks
 null

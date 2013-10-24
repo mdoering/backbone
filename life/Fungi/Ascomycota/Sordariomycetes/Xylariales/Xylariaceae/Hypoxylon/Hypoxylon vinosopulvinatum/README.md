@@ -1,5 +1,4 @@
-Hypoxylon vinosopulvinatum Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2004 SPECIES
-=======
+# Hypoxylon vinosopulvinatum Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

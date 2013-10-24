@@ -1,5 +1,4 @@
-Pyrococcus furiosus Fiala & Stetter, 1986 SPECIES
-=======
+# Pyrococcus furiosus Fiala & Stetter, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora ipirangae Speg., 1908 SPECIES
-=======
+# Phyllachora ipirangae Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

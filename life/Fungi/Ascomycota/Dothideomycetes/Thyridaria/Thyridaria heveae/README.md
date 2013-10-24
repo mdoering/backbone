@@ -1,5 +1,4 @@
-Thyridaria heveae Saccas SPECIES
-=======
+# Thyridaria heveae Saccas SPECIES
 
 #### Status
 ACCEPTED

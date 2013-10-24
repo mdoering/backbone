@@ -1,5 +1,4 @@
-Catellatospora chokoriensis Ara & Kudo, 2006 SPECIES
-=======
+# Catellatospora chokoriensis Ara & Kudo, 2006 SPECIES
 
 #### Status
 ACCEPTED

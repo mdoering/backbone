@@ -1,5 +1,4 @@
-Epipyxis stokesii (Lemmerman) G. M. Smith SPECIES
-=======
+# Epipyxis stokesii (Lemmerman) G. M. Smith SPECIES
 
 #### Status
 ACCEPTED

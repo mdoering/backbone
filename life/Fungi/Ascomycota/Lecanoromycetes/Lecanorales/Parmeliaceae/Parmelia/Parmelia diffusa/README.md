@@ -1,5 +1,4 @@
-Parmelia diffusa var. diffusa VARIETY
-=======
+# Parmelia diffusa (Weber) Rebent. SPECIES
 
 #### Status
 ACCEPTED

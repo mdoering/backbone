@@ -1,5 +1,4 @@
-Dacrymyces syringicola Berk. & M.A. Curtis SPECIES
-=======
+# Dacrymyces syringicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

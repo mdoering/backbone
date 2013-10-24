@@ -1,5 +1,4 @@
-Mycena flocculina (Kalamees) M. Villarreal SPECIES
-=======
+# Mycena flocculina (Kalamees) M. Villarreal SPECIES
 
 #### Status
 ACCEPTED

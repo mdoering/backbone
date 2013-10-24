@@ -1,5 +1,4 @@
-Cercospora kyllingicola J.M. Yen & Gilles SPECIES
-=======
+# Cercospora kyllingicola J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

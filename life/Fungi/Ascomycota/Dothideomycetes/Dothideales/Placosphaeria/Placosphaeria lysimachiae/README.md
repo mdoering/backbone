@@ -1,5 +1,4 @@
-Placosphaeria lysimachiae Bres. SPECIES
-=======
+# Placosphaeria lysimachiae Bres. SPECIES
 
 #### Status
 ACCEPTED

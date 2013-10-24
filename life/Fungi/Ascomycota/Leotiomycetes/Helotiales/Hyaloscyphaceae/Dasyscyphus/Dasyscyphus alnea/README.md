@@ -1,17 +1,16 @@
-Dasyscypha alnea Velen. SPECIES
-=======
+# Dasyscyphus alnea Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 190 (1939)
 
 #### Original name
-Dasyscypha alnea Velen.
+Dasyscyphus alnea Velen.
 
 ### Remarks
 null

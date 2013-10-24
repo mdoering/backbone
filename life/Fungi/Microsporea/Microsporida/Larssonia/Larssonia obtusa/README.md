@@ -1,5 +1,4 @@
-Larssonia obtusa Vidtmann & Sokolova SPECIES
-=======
+# Larssonia obtusa Vidtmann & Sokolova SPECIES
 
 #### Status
 ACCEPTED

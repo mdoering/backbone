@@ -1,5 +1,4 @@
-Omphalina alba Velen. SPECIES
-=======
+# Omphalina alba Velen. SPECIES
 
 #### Status
 ACCEPTED

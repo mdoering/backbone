@@ -1,5 +1,4 @@
-Androsaceus dispar (Mont.) Pat. SPECIES
-=======
+# Androsaceus dispar (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

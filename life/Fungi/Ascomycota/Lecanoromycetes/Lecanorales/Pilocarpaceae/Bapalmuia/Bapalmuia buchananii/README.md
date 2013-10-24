@@ -1,14 +1,13 @@
-Stereocaulon buchananii Stirt. SPECIES
-=======
+# Bapalmuia buchananii (Stirt.) Kalb & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. New Zealand Inst. 7: 367-368 (1875)
+in Kalb, Lücking & Sérusiaux, Mycotaxon 75: 286 (2000)
 
 #### Original name
 Stereocaulon buchananii Stirt.

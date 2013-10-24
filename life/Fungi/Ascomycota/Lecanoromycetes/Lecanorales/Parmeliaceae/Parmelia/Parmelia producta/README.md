@@ -1,5 +1,4 @@
-Parmelia producta (Hale) J.P. Dey SPECIES
-=======
+# Parmelia producta (Hale) J.P. Dey SPECIES
 
 #### Status
 ACCEPTED

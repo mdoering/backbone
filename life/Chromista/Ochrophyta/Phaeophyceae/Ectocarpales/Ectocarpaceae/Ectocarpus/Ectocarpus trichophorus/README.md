@@ -1,5 +1,4 @@
-Ectocarpus trichophorus H. Gran SPECIES
-=======
+# Ectocarpus trichophorus H. Gran SPECIES
 
 #### Status
 ACCEPTED

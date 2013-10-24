@@ -1,5 +1,4 @@
-Xylographa rufa (Pers.) Fr. SPECIES
-=======
+# Xylographa rufa (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

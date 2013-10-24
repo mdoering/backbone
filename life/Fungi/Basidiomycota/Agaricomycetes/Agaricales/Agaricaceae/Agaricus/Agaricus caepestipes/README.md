@@ -1,5 +1,4 @@
-Agaricus caepestipes Sowerby SPECIES
-=======
+# Agaricus caepestipes Sowerby SPECIES
 
 #### Status
 ACCEPTED

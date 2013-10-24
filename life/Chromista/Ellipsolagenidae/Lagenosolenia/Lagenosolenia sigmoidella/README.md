@@ -1,11 +1,10 @@
-Lagenosolenia sigmoidella subsp. sigmoidella SUBSPECIES
-=======
+# Lagenosolenia sigmoidella SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

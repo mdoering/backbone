@@ -1,14 +1,13 @@
-Peridermium comptoniae (Arthur) Orton & J.F. Adams, 1914 SPECIES
-=======
+# Cronartium comptoniae Arthur, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 33: 29 (1906)
 
 #### Original name
 Cronartium comptoniae Arthur, 1906

@@ -1,5 +1,4 @@
-Pulveroboletus atkinsonianus (Murrill) L.D. Gómez SPECIES
-=======
+# Pulveroboletus atkinsonianus (Murrill) L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

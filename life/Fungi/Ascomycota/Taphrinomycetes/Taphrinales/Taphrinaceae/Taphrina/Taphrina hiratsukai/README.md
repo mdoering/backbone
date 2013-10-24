@@ -1,5 +1,4 @@
-Taphrina hiratsukai Nishida SPECIES
-=======
+# Taphrina hiratsukai Nishida SPECIES
 
 #### Status
 ACCEPTED

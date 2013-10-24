@@ -1,5 +1,4 @@
-Entorrhiza casparyanella Vánky, 1998 SPECIES
-=======
+# Entorrhiza casparyanella Vánky, 1998 SPECIES
 
 #### Status
 ACCEPTED

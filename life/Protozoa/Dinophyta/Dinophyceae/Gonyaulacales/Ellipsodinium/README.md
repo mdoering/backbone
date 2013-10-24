@@ -1,14 +1,13 @@
-Chelinocysta W.A.S. Sarjeant, 1967 GENUS
-=======
+# Ellipsodinium R.F.A. Clarke & J.P. Verdier, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. (Sect. 1) 24 (3): 68.
 
 #### Original name
 null

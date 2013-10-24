@@ -1,5 +1,4 @@
-Rhabdospora arisari Durieu & Mont. SPECIES
-=======
+# Rhabdospora arisari Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

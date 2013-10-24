@@ -1,5 +1,4 @@
-Verrucaria trapeziformis (J. König) Jatta SPECIES
-=======
+# Verrucaria trapeziformis (J. König) Jatta SPECIES
 
 #### Status
 ACCEPTED

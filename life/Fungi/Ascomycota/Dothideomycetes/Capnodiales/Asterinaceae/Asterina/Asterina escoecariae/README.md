@@ -1,5 +1,4 @@
-Asterina escoecariae Doidge SPECIES
-=======
+# Asterina escoecariae Doidge SPECIES
 
 #### Status
 ACCEPTED

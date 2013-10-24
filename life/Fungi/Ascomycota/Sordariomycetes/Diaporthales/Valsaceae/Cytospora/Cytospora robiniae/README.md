@@ -1,5 +1,4 @@
-Cytospora robiniae Schwein. SPECIES
-=======
+# Cytospora robiniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis circumradians Nyl. SPECIES
-=======
+# Graphis circumradians Nyl. SPECIES
 
 #### Status
 ACCEPTED

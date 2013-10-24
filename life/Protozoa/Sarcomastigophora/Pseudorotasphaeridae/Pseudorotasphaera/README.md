@@ -1,5 +1,4 @@
-Pseudorotasphaera Noble, 1994 GENUS
-=======
+# Pseudorotasphaera Noble, 1994 GENUS
 
 #### Status
 ACCEPTED

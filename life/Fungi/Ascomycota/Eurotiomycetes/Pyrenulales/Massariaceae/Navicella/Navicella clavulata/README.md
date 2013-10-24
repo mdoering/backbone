@@ -1,5 +1,4 @@
-Navicella clavulata (Pass.) Kuntze SPECIES
-=======
+# Navicella clavulata (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

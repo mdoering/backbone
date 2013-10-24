@@ -1,5 +1,4 @@
-Asterina trichocladi Doidge SPECIES
-=======
+# Asterina trichocladi Doidge SPECIES
 
 #### Status
 ACCEPTED

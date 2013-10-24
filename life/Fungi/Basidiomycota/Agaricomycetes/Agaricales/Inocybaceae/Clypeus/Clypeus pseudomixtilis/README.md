@@ -1,5 +1,4 @@
-Clypeus pseudomixtilis Britzelm. SPECIES
-=======
+# Clypeus pseudomixtilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

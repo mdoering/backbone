@@ -1,5 +1,4 @@
-Ascochyta balsamita Tasl. SPECIES
-=======
+# Ascochyta balsamita Tasl. SPECIES
 
 #### Status
 ACCEPTED

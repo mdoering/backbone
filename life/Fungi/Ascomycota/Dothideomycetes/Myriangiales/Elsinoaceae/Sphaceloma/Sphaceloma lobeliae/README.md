@@ -1,5 +1,4 @@
-Sphaceloma lobeliae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma lobeliae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

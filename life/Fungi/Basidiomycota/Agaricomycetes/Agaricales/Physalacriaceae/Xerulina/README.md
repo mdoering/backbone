@@ -1,5 +1,4 @@
-Xerulina GENUS
-=======
+# Xerulina GENUS
 
 #### Status
 ACCEPTED

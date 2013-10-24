@@ -1,5 +1,4 @@
-Vouauxiomyces brattii S.Y. Kondr. SPECIES
-=======
+# Vouauxiomyces brattii S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

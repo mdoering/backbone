@@ -1,5 +1,4 @@
-Puccinia ripulae Mains SPECIES
-=======
+# Puccinia ripulae Mains SPECIES
 
 #### Status
 ACCEPTED

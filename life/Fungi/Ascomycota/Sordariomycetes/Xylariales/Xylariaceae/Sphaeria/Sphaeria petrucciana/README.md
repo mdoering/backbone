@@ -1,5 +1,4 @@
-Sphaeria petrucciana (Caldesi & De Not.) Caldesi SPECIES
-=======
+# Sphaeria petrucciana (Caldesi & De Not.) Caldesi SPECIES
 
 #### Status
 ACCEPTED

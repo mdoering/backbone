@@ -1,5 +1,4 @@
-Hilidicellites dubius Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites dubius Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

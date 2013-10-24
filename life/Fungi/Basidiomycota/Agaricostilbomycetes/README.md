@@ -1,5 +1,4 @@
-Agaricostilbomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
-=======
+# Agaricostilbomycetes R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. CLASS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Entomophthora megasperma E. Cohn, 1888 SPECIES
-=======
+# Tarichium megaspermum (E. Cohn) G. Winter, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boston Society of Natural History 4: 178 (1888)
+Beitr. Biol. Pfl. 1: 69 (1875)
 
 #### Original name
 Entomophthora megasperma E. Cohn, 1888

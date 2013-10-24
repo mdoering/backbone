@@ -1,5 +1,4 @@
-Uredo castaneae Henn. SPECIES
-=======
+# Uredo castaneae Henn. SPECIES
 
 #### Status
 ACCEPTED

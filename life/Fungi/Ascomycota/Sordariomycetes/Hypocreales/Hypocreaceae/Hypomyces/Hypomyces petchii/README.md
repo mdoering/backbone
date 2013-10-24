@@ -1,5 +1,4 @@
-Hypomyces petchii G.R.W. Arnold, 1972 SPECIES
-=======
+# Hypomyces petchii G.R.W. Arnold, 1972 SPECIES
 
 #### Status
 ACCEPTED

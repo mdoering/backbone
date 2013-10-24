@@ -1,5 +1,4 @@
-Stigmidium stygnospila (Minks) R. Sant. SPECIES
-=======
+# Stigmidium stygnospila (Minks) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

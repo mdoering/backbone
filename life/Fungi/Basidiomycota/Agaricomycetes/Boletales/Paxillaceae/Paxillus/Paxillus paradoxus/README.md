@@ -1,5 +1,4 @@
-Paxillus paradoxus (Kalchbr.) SPECIES
-=======
+# Paxillus paradoxus (Kalchbr.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus circinans Pers. SPECIES
-=======
+# Agaricus circinans Pers. SPECIES
 
 #### Status
 ACCEPTED

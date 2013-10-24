@@ -1,5 +1,4 @@
-Cribrobaggina McCulloch, 1977 GENUS
-=======
+# Cribrobaggina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

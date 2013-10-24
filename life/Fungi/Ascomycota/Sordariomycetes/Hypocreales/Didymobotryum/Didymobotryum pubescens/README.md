@@ -1,5 +1,4 @@
-Didymobotryum pubescens (Cooke & Ellis) Sacc. SPECIES
-=======
+# Didymobotryum pubescens (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

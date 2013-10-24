@@ -1,5 +1,4 @@
-Diaporthe ligustri-vulgaris Petr. SPECIES
-=======
+# Diaporthe ligustri-vulgaris Petr. SPECIES
 
 #### Status
 ACCEPTED

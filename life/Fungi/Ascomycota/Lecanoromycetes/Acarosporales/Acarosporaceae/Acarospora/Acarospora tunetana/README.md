@@ -1,5 +1,4 @@
-Acarospora tunetana H. Magn. SPECIES
-=======
+# Acarospora tunetana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

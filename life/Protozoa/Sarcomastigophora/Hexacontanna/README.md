@@ -1,5 +1,4 @@
-Hexacontanna Haeckel, 1887 GENUS
-=======
+# Hexacontanna Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

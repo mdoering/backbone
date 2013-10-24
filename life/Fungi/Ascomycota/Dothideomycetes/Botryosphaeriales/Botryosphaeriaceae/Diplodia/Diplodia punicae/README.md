@@ -1,5 +1,4 @@
-Diplodia punicae Brunaud SPECIES
-=======
+# Diplodia punicae Brunaud SPECIES
 
 #### Status
 ACCEPTED

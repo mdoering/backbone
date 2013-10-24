@@ -1,5 +1,4 @@
-Schizothyrium pteridis Feltgen SPECIES
-=======
+# Schizothyrium pteridis Feltgen SPECIES
 
 #### Status
 ACCEPTED

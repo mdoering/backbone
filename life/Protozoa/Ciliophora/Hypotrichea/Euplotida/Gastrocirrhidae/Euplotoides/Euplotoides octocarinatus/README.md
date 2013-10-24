@@ -1,5 +1,4 @@
-Euplotoides octocarinatus SPECIES
-=======
+# Euplotoides octocarinatus SPECIES
 
 #### Status
 ACCEPTED

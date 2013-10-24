@@ -1,5 +1,4 @@
-Arthoniopsis ramosii Räsänen SPECIES
-=======
+# Arthoniopsis ramosii Räsänen SPECIES
 
 #### Status
 ACCEPTED

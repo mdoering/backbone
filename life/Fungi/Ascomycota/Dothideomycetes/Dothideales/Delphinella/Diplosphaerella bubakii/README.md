@@ -1,5 +1,4 @@
-Diplosphaerella bubakii Tomilin SPECIES
-=======
+# Diplosphaerella bubakii Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria amaurosa Stirt. SPECIES
-=======
+# Catillaria amaurosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

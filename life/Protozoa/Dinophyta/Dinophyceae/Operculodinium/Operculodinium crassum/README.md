@@ -1,5 +1,4 @@
-Operculodinium crassum R. Harland SPECIES
-=======
+# Operculodinium crassum R. Harland SPECIES
 
 #### Status
 ACCEPTED

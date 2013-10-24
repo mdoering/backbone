@@ -1,5 +1,4 @@
-Seguenzaea Borzì, 1907 GENUS
-=======
+# Seguenzaea Borzì, 1907 GENUS
 
 #### Status
 ACCEPTED

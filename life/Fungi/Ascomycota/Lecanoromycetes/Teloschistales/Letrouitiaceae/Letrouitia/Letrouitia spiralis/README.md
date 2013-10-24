@@ -1,5 +1,4 @@
-Letrouitia spiralis Hafellner SPECIES
-=======
+# Letrouitia spiralis Hafellner SPECIES
 
 #### Status
 ACCEPTED

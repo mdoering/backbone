@@ -1,5 +1,4 @@
-Cryptodiscus angulosus P. Karst. SPECIES
-=======
+# Cryptodiscus angulosus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comatricha kowalskii T.N. Lakh. & K.G. Mukerji, 1977 SPECIES
-=======
+# Comatricha kowalskii T.N. Lakh. & K.G. Mukerji, 1977 SPECIES
 
 #### Status
 ACCEPTED

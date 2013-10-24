@@ -1,5 +1,4 @@
-Pucciniastrum rostrupia Lagerh. SPECIES
-=======
+# Pucciniastrum rostrupia Lagerh. SPECIES
 
 #### Status
 ACCEPTED

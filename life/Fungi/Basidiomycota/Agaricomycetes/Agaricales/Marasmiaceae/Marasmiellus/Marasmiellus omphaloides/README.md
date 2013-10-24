@@ -1,5 +1,4 @@
-Marasmiellus omphaloides G. Stev., 1964 SPECIES
-=======
+# Marasmiellus omphaloides G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

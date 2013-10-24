@@ -1,5 +1,4 @@
-Vasicola annulata Stokes, 1895 SPECIES
-=======
+# Vasicola annulata Stokes, 1895 SPECIES
 
 #### Status
 ACCEPTED

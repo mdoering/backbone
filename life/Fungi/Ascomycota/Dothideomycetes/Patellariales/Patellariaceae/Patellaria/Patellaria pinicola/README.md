@@ -1,5 +1,4 @@
-Patellaria pinicola (Ach.) Mathieu SPECIES
-=======
+# Patellaria pinicola (Ach.) Mathieu SPECIES
 
 #### Status
 ACCEPTED

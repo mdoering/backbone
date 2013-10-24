@@ -1,5 +1,4 @@
-Fabraea GENUS
-=======
+# Fabraea GENUS
 
 #### Status
 ACCEPTED

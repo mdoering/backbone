@@ -1,5 +1,4 @@
-Setomelanomma M. Morelet, 1980 GENUS
-=======
+# Setomelanomma M. Morelet, 1980 GENUS
 
 #### Status
 ACCEPTED

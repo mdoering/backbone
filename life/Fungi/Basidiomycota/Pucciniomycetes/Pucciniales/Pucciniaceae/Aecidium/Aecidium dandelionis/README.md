@@ -1,5 +1,4 @@
-Aecidium dandelionis Schwein. SPECIES
-=======
+# Aecidium dandelionis Schwein. SPECIES
 
 #### Status
 ACCEPTED

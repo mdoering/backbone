@@ -1,5 +1,4 @@
-Dothiorella daniellae Pat. & Har. SPECIES
-=======
+# Dothiorella daniellae Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

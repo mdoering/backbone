@@ -1,5 +1,4 @@
-Filisphaeridium morenense (Mette, 1989) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium morenense (Mette, 1989) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

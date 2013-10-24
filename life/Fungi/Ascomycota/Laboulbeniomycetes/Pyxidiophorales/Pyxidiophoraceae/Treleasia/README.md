@@ -1,5 +1,4 @@
-Treleasia GENUS
-=======
+# Treleasia GENUS
 
 #### Status
 ACCEPTED

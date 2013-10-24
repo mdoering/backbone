@@ -1,5 +1,4 @@
-Mycogone ochracea Boud. SPECIES
-=======
+# Mycogone ochracea Boud. SPECIES
 
 #### Status
 ACCEPTED

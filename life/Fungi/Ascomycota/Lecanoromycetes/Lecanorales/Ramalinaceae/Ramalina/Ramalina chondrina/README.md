@@ -1,5 +1,4 @@
-Ramalina chondrina J. Steiner SPECIES
-=======
+# Ramalina chondrina J. Steiner SPECIES
 
 #### Status
 ACCEPTED

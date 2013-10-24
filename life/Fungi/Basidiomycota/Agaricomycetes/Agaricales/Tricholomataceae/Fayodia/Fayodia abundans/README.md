@@ -1,5 +1,4 @@
-Fayodia abundans (Peck) Singer SPECIES
-=======
+# Fayodia abundans (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

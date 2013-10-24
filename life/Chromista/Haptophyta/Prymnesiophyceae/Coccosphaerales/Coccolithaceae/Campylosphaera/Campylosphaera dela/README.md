@@ -1,5 +1,4 @@
-Campylosphaera dela (Bramlette & Sullivan, 1961) Hay & Mohler, 1967 SPECIES
-=======
+# Campylosphaera dela (Bramlette & Sullivan, 1961) Hay & Mohler, 1967 SPECIES
 
 #### Status
 ACCEPTED

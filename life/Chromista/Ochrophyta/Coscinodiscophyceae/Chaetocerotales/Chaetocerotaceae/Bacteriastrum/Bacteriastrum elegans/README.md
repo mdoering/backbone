@@ -1,5 +1,4 @@
-Bacteriastrum elegans Pavillard, 1916 SPECIES
-=======
+# Bacteriastrum elegans Pavillard, 1916 SPECIES
 
 #### Status
 ACCEPTED

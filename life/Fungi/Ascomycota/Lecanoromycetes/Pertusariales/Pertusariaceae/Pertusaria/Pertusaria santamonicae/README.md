@@ -1,5 +1,4 @@
-Pertusaria santamonicae Dibben SPECIES
-=======
+# Pertusaria santamonicae Dibben SPECIES
 
 #### Status
 ACCEPTED

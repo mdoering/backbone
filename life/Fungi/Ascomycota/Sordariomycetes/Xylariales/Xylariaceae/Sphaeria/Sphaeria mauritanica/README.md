@@ -1,5 +1,4 @@
-Sphaeria mauritanica Durieu & Mont. SPECIES
-=======
+# Sphaeria mauritanica Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED
