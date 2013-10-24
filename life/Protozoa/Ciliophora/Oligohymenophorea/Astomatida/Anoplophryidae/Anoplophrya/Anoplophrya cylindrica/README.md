@@ -1,5 +1,4 @@
-Anoplophrya cylindrica SPECIES
-=======
+# Anoplophrya cylindrica SPECIES
 
 #### Status
 ACCEPTED

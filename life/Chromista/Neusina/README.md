@@ -1,5 +1,4 @@
-Neusina Goes, 1892 GENUS
-=======
+# Neusina Goes, 1892 GENUS
 
 #### Status
 ACCEPTED

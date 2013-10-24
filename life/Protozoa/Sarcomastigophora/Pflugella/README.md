@@ -1,5 +1,4 @@
-Pflugella Huddleston & Haman, 1981 GENUS
-=======
+# Pflugella Huddleston & Haman, 1981 GENUS
 
 #### Status
 ACCEPTED

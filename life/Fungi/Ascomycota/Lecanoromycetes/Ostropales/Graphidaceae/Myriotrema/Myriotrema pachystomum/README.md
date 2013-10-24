@@ -1,17 +1,16 @@
-Thelotrema pachystomum subsp. pachystomum Nyl. SUBSPECIES
-=======
+# Myriotrema pachystomum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 11(1): 134 (1980)
 
 #### Original name
-Thelotrema pachystomum subsp. pachystomum Nyl.
+Thelotrema pachystomum Nyl.
 
 ### Remarks
 null

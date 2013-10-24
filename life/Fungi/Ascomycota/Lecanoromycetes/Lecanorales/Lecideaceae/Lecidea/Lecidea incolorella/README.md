@@ -1,5 +1,4 @@
-Lecidea incolorella Nyl. SPECIES
-=======
+# Lecidea incolorella Nyl. SPECIES
 
 #### Status
 ACCEPTED

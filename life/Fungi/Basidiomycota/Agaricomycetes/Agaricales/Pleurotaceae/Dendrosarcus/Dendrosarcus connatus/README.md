@@ -1,5 +1,4 @@
-Dendrosarcus connatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus connatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothrix arenaria (Berkeley) Gomont SPECIES
-=======
+# Schizothrix arenaria (Berkeley) Gomont SPECIES
 
 #### Status
 ACCEPTED

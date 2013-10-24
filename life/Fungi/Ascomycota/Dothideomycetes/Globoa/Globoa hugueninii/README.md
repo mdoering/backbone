@@ -1,5 +1,4 @@
-Globoa hugueninii Bat. & Peres SPECIES
-=======
+# Globoa hugueninii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

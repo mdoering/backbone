@@ -1,11 +1,10 @@
-Protoperidinium constrictum (Abé, 1936) Balech, 1974 SPECIES
-=======
+# Protoperidinium monospinum (Paulsen) K. A. F. Zonneveld & B. Dale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

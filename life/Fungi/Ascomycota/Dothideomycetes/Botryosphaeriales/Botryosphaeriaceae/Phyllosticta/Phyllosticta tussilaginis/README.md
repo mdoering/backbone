@@ -1,5 +1,4 @@
-Phyllosticta tussilaginis Woron. SPECIES
-=======
+# Phyllosticta tussilaginis Woron. SPECIES
 
 #### Status
 ACCEPTED

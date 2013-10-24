@@ -1,5 +1,4 @@
-Rhabdospora cocconii Sacc. SPECIES
-=======
+# Rhabdospora cocconii Sacc. SPECIES
 
 #### Status
 ACCEPTED

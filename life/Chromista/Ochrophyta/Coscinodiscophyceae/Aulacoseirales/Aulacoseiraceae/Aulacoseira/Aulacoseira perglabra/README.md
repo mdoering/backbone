@@ -1,5 +1,4 @@
-Aulacoseira perglabra var. florinae (Camburn) E.Y. Haw. VARIETY
-=======
+# Aulacoseira perglabra (Østrup) E.Y.Haw. SPECIES
 
 #### Status
 ACCEPTED

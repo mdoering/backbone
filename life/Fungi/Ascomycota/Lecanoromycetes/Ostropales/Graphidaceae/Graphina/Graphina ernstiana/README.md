@@ -1,5 +1,4 @@
-Graphina ernstiana Müll. Arg. SPECIES
-=======
+# Graphina ernstiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

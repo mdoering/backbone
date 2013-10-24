@@ -1,5 +1,4 @@
-Byssosphaeria holophaea Berk. & M.A. Curtis SPECIES
-=======
+# Byssosphaeria holophaea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

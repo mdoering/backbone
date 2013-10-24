@@ -1,5 +1,4 @@
-Monochaetia mangiferae G.C. Chawla SPECIES
-=======
+# Monochaetia mangiferae G.C. Chawla SPECIES
 
 #### Status
 ACCEPTED

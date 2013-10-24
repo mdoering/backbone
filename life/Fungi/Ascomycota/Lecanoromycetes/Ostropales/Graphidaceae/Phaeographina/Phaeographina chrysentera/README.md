@@ -1,5 +1,4 @@
-Phaeographina chrysentera (Mont.) Müll. Arg., 1891 SPECIES
-=======
+# Phaeographina chrysentera (Mont.) Müll. Arg., 1891 SPECIES
 
 #### Status
 ACCEPTED

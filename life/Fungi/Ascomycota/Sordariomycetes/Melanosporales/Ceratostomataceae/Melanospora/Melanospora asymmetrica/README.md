@@ -1,17 +1,16 @@
-Petriella asymmetrica var. asymmetrica VARIETY
-=======
+# Melanospora asymmetrica (Curzi) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boll. R. Staz. Patalog. Veget. Roma 10: (1930)
+Beitr. Kryptfl. Schweiz 11(no. 1): 148 (1954)
 
 #### Original name
-Petriella asymmetrica var. asymmetrica
+Petriella asymmetrica Curzi, 1930
 
 ### Remarks
 null

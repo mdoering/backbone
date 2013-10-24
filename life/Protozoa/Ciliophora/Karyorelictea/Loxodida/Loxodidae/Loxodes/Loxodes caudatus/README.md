@@ -1,5 +1,4 @@
-Loxodes caudatus SPECIES
-=======
+# Loxodes caudatus SPECIES
 
 #### Status
 ACCEPTED

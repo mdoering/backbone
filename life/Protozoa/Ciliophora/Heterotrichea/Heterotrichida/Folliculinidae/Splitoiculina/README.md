@@ -1,5 +1,4 @@
-Splitoiculina Hadzi, 1950 GENUS
-=======
+# Splitoiculina Hadzi, 1950 GENUS
 
 #### Status
 ACCEPTED

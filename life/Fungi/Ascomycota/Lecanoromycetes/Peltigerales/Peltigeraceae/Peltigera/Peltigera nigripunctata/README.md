@@ -1,5 +1,4 @@
-Peltigera nigripunctata f. nigripunctata FORM
-=======
+# Peltigera nigripunctata Bitter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera nigripunctata f. nigripunctata
+Peltigera nigripunctata Bitter
 
 ### Remarks
 null

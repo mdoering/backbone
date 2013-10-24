@@ -1,5 +1,4 @@
-Harmandiana B. de Lesd. GENUS
-=======
+# Harmandiana B. de Lesd. GENUS
 
 #### Status
 ACCEPTED

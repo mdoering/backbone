@@ -1,5 +1,4 @@
-Verrucaria limitans Nyl. SPECIES
-=======
+# Verrucaria limitans Nyl. SPECIES
 
 #### Status
 ACCEPTED

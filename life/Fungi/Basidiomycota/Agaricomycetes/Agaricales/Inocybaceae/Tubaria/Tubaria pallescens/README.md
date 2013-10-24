@@ -1,5 +1,4 @@
-Tubaria pallescens Peck SPECIES
-=======
+# Tubaria pallescens Peck SPECIES
 
 #### Status
 ACCEPTED

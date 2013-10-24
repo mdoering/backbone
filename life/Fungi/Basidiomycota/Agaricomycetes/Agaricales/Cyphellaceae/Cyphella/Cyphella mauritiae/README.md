@@ -1,5 +1,4 @@
-Cyphella mauritiae Pat. & Gaillard SPECIES
-=======
+# Cyphella mauritiae Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

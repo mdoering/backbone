@@ -1,5 +1,4 @@
-Cordyceps regeliana Lév. SPECIES
-=======
+# Cordyceps regeliana Lév. SPECIES
 
 #### Status
 ACCEPTED

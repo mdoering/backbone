@@ -1,5 +1,4 @@
-Boletopsis icterinus Pat. & C.F. Baker SPECIES
-=======
+# Boletopsis icterinus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

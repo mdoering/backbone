@@ -1,5 +1,4 @@
-Diplodia seminula Pat. SPECIES
-=======
+# Diplodia seminula Pat. SPECIES
 
 #### Status
 ACCEPTED

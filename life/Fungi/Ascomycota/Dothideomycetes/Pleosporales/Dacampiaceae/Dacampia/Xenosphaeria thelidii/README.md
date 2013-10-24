@@ -1,5 +1,4 @@
-Xenosphaeria thelidii Hazsl. SPECIES
-=======
+# Xenosphaeria thelidii Hazsl. SPECIES
 
 #### Status
 ACCEPTED

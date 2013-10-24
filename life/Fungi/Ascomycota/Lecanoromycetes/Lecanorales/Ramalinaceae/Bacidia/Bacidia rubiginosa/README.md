@@ -1,5 +1,4 @@
-Bacidia rubiginosa (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia rubiginosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora flavescens (Huds.) Baumg. SPECIES
-=======
+# Psora flavescens (Huds.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum solenioides P. Karst. SPECIES
-=======
+# Hydnum solenioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

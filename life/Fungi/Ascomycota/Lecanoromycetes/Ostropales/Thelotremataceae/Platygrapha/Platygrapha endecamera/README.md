@@ -1,5 +1,4 @@
-Platygrapha endecamera Nyl. SPECIES
-=======
+# Platygrapha endecamera Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micraspis acicola Darker, 1963 SPECIES
-=======
+# Micraspis acicola Darker, 1963 SPECIES
 
 #### Status
 ACCEPTED

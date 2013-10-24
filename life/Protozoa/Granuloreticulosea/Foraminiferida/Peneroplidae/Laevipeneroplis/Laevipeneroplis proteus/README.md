@@ -1,5 +1,4 @@
-Laevipeneroplis proteus (d’Orbigny, 1839) SPECIES
-=======
+# Laevipeneroplis proteus (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

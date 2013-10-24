@@ -1,5 +1,4 @@
-Verrucaria sychnogonoides (Nitschke) Stizenb. SPECIES
-=======
+# Verrucaria sychnogonoides (Nitschke) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

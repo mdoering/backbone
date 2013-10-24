@@ -1,5 +1,4 @@
-Exidiopsis pallida K. Wells & Raitv. SPECIES
-=======
+# Exidiopsis pallida K. Wells & Raitv. SPECIES
 
 #### Status
 ACCEPTED

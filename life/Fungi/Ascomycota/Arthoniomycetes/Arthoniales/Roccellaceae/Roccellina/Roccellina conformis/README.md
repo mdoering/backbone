@@ -1,5 +1,4 @@
-Roccellina conformis Tehler SPECIES
-=======
+# Roccellina conformis Tehler SPECIES
 
 #### Status
 ACCEPTED

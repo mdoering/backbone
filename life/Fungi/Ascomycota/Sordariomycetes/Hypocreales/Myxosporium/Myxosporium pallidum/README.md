@@ -1,5 +1,4 @@
-Myxosporium pallidum Fautrey SPECIES
-=======
+# Myxosporium pallidum Fautrey SPECIES
 
 #### Status
 ACCEPTED

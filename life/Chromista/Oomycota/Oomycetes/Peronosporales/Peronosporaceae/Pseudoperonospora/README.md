@@ -1,8 +1,7 @@
-Pseudoperonospera Rostovzev, 1903 GENUS
-=======
+# Pseudoperonospora Rostovzev, 1903 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

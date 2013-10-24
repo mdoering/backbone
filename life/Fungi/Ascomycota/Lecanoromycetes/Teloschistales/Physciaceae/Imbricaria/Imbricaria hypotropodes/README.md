@@ -1,5 +1,4 @@
-Imbricaria hypotropodes (Nyl.) Jatta SPECIES
-=======
+# Imbricaria hypotropodes (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

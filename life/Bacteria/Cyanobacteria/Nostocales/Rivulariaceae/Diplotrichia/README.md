@@ -1,5 +1,4 @@
-Diplotrichia J.Agardh, 1842 GENUS
-=======
+# Diplotrichia J.Agardh, 1842 GENUS
 
 #### Status
 SYNONYM

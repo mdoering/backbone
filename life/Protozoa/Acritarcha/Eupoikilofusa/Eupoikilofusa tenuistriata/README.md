@@ -1,5 +1,4 @@
-Eupoikilofusa tenuistriata (Pöthé de Baldis, 1975) Pöthé de Baldis, 1981 emend. Mullins, 2001 SPECIES
-=======
+# Eupoikilofusa tenuistriata (Pöthé de Baldis, 1975) Pöthé de Baldis, 1981 emend. Mullins, 2001 SPECIES
 
 #### Status
 ACCEPTED

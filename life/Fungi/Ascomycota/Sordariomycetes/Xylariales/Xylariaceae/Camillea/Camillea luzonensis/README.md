@@ -1,5 +1,4 @@
-Camillea luzonensis Lloyd SPECIES
-=======
+# Camillea luzonensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

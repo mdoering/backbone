@@ -1,5 +1,4 @@
-Planispirina bucculenta (Brady, 1884) SPECIES
-=======
+# Planispirina bucculenta (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

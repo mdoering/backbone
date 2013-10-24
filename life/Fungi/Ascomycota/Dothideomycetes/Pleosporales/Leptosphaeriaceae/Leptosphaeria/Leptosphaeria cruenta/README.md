@@ -1,17 +1,16 @@
-Heptameria cruenta (Sacc.) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria cruenta Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 7): 318 (1881)
 
 #### Original name
-null
+Leptosphaeria cruenta Sacc., 1881
 
 ### Remarks
 null

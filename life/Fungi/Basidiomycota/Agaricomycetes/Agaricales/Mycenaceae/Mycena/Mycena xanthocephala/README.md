@@ -1,5 +1,4 @@
-Mycena xanthocephala Singer SPECIES
-=======
+# Mycena xanthocephala Singer SPECIES
 
 #### Status
 ACCEPTED

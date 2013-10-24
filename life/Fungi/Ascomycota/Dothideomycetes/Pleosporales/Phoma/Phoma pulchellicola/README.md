@@ -1,5 +1,4 @@
-Phoma pulchellicola Wehm. SPECIES
-=======
+# Phoma pulchellicola Wehm. SPECIES
 
 #### Status
 ACCEPTED

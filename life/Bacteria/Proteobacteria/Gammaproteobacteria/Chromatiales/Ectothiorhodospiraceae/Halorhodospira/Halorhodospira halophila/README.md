@@ -1,8 +1,7 @@
-Ectothiorhodospira halophila Raymond and Sistrom, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Halorhodospira halophila (Raymond & Sistrom, 1969) Imhoff & Süling, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

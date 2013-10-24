@@ -1,17 +1,16 @@
-Sphaeria catariae Cooke & Ellis, 1876 SPECIES
-=======
+# Didymella catariae (Cooke & Ellis) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 557 (1882)
 
 #### Original name
-null
+Sphaeria catariae Cooke & Ellis, 1876
 
 ### Remarks
 null

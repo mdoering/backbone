@@ -1,5 +1,4 @@
-Bathelium GENUS
-=======
+# Bathelium GENUS
 
 #### Status
 ACCEPTED

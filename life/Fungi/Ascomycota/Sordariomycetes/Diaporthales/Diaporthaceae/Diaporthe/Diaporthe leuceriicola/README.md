@@ -1,5 +1,4 @@
-Diaporthe leuceriicola Speg. SPECIES
-=======
+# Diaporthe leuceriicola Speg. SPECIES
 
 #### Status
 ACCEPTED

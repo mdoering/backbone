@@ -1,5 +1,4 @@
-Hemimycena xanthopoda Dennis SPECIES
-=======
+# Hemimycena xanthopoda Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces albus Demelius SPECIES
-=======
+# Paecilomyces albus Demelius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clitocybe imperialis (Quél.) Ricken, 1914 SPECIES
-=======
+# Catathelasma imperiale (Fr.) Singer, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Blätterpilze 1: 361 (1914)
+Revue Mycol. , Paris 5: 9 (1940)
 
 #### Original name
 Agaricus imperialis Fr., 1845

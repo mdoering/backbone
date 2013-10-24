@@ -1,5 +1,4 @@
-Syllarcon Jankowski, 1981 GENUS
-=======
+# Syllarcon Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

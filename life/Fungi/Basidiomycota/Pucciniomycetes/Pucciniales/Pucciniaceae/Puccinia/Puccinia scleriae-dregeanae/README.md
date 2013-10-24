@@ -1,5 +1,4 @@
-Puccinia scleriae-dregeanae Doidge SPECIES
-=======
+# Puccinia scleriae-dregeanae Doidge SPECIES
 
 #### Status
 ACCEPTED

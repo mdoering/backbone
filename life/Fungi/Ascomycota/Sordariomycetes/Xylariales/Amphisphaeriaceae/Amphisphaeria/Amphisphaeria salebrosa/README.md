@@ -1,5 +1,4 @@
-Amphisphaeria salebrosa (Cooke & Peck) Sacc. SPECIES
-=======
+# Amphisphaeria salebrosa (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

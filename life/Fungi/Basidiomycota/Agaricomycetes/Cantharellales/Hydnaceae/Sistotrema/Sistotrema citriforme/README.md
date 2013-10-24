@@ -1,17 +1,16 @@
-Sistotrema subangulisporum K.H. Larss. & Hjortstam, 1977 SPECIES
-=======
+# Sistotrema citriforme (M.P. Christ.) K.H. Larss. & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 5(2): 479 (1977)
+in Hjortstam & Larsson, Mycotaxon 29: 318 (1987)
 
 #### Original name
-Sistotrema subangulisporum K.H. Larss. & Hjortstam, 1977
+Uthatobasidium citriforme M.P. Christ., 1959
 
 ### Remarks
 null

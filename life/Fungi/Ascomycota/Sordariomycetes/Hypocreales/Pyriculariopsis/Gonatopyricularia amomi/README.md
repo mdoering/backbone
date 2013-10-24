@@ -1,5 +1,4 @@
-Gonatopyricularia amomi Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Gonatopyricularia amomi Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

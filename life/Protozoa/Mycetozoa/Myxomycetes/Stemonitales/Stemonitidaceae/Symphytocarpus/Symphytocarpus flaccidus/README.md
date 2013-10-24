@@ -1,14 +1,13 @@
-Stemonitis splendens var. flaccida Lister VARIETY
-=======
+# Symphytocarpus flaccidus (Lister) Ing & Nann.-Bremek., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 112 (1894)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 70(2): 217 (1967)
 
 #### Original name
 Stemonitis splendens var. flaccida Lister

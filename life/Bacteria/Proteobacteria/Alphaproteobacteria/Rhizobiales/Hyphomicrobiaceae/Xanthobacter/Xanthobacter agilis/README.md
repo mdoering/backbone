@@ -1,5 +1,4 @@
-Xanthobacter agilis Jenni & Aragno, 1988 SPECIES
-=======
+# Xanthobacter agilis Jenni & Aragno, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus oliveisporus (Murrill) Murrill SPECIES
-=======
+# Boletus oliveisporus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

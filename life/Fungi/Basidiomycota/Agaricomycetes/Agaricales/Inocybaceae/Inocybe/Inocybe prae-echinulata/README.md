@@ -1,5 +1,4 @@
-Inocybe prae-echinulata Murrill SPECIES
-=======
+# Inocybe prae-echinulata Murrill SPECIES
 
 #### Status
 ACCEPTED

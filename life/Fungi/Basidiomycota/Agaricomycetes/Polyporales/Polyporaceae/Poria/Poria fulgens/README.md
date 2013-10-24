@@ -1,5 +1,4 @@
-Poria fulgens Rostk. SPECIES
-=======
+# Poria fulgens Rostk. SPECIES
 
 #### Status
 ACCEPTED

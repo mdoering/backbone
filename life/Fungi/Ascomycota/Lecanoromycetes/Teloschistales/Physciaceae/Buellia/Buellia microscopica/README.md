@@ -1,5 +1,4 @@
-Buellia microscopica Vain. SPECIES
-=======
+# Buellia microscopica Vain. SPECIES
 
 #### Status
 ACCEPTED

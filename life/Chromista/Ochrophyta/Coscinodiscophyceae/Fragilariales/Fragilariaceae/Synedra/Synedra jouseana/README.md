@@ -1,5 +1,4 @@
-Synedra jouseana V. S. Sheshukova-Poretzkaya SPECIES
-=======
+# Synedra jouseana V. S. Sheshukova-Poretzkaya SPECIES
 
 #### Status
 ACCEPTED

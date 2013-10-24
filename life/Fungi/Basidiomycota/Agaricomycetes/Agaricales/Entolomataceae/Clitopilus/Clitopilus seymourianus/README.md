@@ -1,5 +1,4 @@
-Clitopilus seymourianus Peck SPECIES
-=======
+# Clitopilus seymourianus Peck SPECIES
 
 #### Status
 ACCEPTED

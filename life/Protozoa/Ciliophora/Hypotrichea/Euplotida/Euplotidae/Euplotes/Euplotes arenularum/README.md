@@ -1,5 +1,4 @@
-Euplotes arenularum Chardez, 1981 SPECIES
-=======
+# Euplotes arenularum Chardez, 1981 SPECIES
 
 #### Status
 ACCEPTED

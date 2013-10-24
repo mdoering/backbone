@@ -1,5 +1,4 @@
-Hormothamnion enteromorphioides Grunow ex Bornet & Flahault SPECIES
-=======
+# Hormothamnion enteromorphioides Grunow ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

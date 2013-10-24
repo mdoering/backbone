@@ -1,5 +1,4 @@
-Pseudomonas amygdali Psallidas and Panagopoulos, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas amygdali Psallidas and Panagopoulos, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

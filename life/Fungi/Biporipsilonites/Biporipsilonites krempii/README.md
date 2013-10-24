@@ -1,5 +1,4 @@
-Biporipsilonites krempii (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites krempii (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

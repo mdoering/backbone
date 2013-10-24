@@ -1,5 +1,4 @@
-Nectriella sambuci (Höhn.) Weese SPECIES
-=======
+# Nectriella sambuci (Höhn.) Weese SPECIES
 
 #### Status
 ACCEPTED

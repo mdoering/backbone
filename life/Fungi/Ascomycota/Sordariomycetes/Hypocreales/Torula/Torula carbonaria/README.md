@@ -1,5 +1,4 @@
-Torula carbonaria Corda SPECIES
-=======
+# Torula carbonaria Corda SPECIES
 
 #### Status
 ACCEPTED

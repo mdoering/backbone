@@ -1,5 +1,4 @@
-Trichosporon coremiiforme (M. Moore) E. Guého & M.T. Sm. SPECIES
-=======
+# Trichosporon coremiiforme (M. Moore) E. Guého & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

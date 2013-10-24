@@ -1,5 +1,4 @@
-Ophiobolus prunicola Garb. SPECIES
-=======
+# Ophiobolus prunicola Garb. SPECIES
 
 #### Status
 ACCEPTED

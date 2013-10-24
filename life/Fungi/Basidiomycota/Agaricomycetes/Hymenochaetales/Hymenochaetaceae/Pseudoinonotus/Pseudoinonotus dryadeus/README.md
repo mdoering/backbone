@@ -1,17 +1,16 @@
-Inonotus dryadeus var. dryadeus VARIETY
-=======
+# Pseudoinonotus dryadeus (Pers.) T. Wagner & M. Fisch., 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(2): 86 (1908)
+Mycol. Res. 105(7): 781 (2001)
 
 #### Original name
-Inonotus dryadeus var. dryadeus
+Boletus dryadeus Pers., 1800
 
 ### Remarks
 null

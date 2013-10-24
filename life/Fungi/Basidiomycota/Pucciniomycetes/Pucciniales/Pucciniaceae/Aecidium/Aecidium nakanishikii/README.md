@@ -1,5 +1,4 @@
-Aecidium nakanishikii Henn. SPECIES
-=======
+# Aecidium nakanishikii Henn. SPECIES
 
 #### Status
 ACCEPTED

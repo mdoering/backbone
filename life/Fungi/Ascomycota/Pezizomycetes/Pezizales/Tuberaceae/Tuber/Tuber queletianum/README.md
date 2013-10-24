@@ -1,5 +1,4 @@
-Tuber queletianum Bataille SPECIES
-=======
+# Tuber queletianum Bataille SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia xylographoides (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia xylographoides (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

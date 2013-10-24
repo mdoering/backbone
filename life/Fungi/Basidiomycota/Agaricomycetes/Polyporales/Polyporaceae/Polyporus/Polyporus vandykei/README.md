@@ -1,5 +1,4 @@
-Polyporus vandykei Lloyd SPECIES
-=======
+# Polyporus vandykei Lloyd SPECIES
 
 #### Status
 ACCEPTED

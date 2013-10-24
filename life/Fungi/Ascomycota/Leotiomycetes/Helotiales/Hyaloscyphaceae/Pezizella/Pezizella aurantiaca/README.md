@@ -1,5 +1,4 @@
-Pezizella aurantiaca E.K. Cash SPECIES
-=======
+# Pezizella aurantiaca E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

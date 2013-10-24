@@ -1,5 +1,4 @@
-Pleosphaerulina petuniae Sandu SPECIES
-=======
+# Pleosphaerulina petuniae Sandu SPECIES
 
 #### Status
 ACCEPTED

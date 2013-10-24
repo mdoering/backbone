@@ -1,5 +1,4 @@
-Delftia Wen, Fegan, Hayward, Chakraborty & Sly, 1999 GENUS
-=======
+# Delftia Wen, Fegan, Hayward, Chakraborty & Sly, 1999 GENUS
 
 #### Status
 ACCEPTED

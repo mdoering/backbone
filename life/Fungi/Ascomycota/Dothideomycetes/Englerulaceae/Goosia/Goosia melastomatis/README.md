@@ -1,5 +1,4 @@
-Goosia melastomatis B. Song, 2003 SPECIES
-=======
+# Goosia melastomatis B. Song, 2003 SPECIES
 
 #### Status
 ACCEPTED

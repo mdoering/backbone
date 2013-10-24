@@ -1,5 +1,4 @@
-Micrhystridium inusitatum Wicander, 1974 SPECIES
-=======
+# Micrhystridium inusitatum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

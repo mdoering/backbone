@@ -1,5 +1,4 @@
-Gloeosporium beniaminae Scalia SPECIES
-=======
+# Gloeosporium beniaminae Scalia SPECIES
 
 #### Status
 ACCEPTED

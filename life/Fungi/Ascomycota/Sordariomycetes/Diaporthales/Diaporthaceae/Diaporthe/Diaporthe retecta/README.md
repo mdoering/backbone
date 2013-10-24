@@ -1,5 +1,4 @@
-Diaporthe retecta Fuckel & Nitschke, 1867 SPECIES
-=======
+# Diaporthe retecta Fuckel & Nitschke, 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Echinoplaca lucernifera Kalb & Vezda SPECIES
-=======
+# Echinoplaca lucernifera Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

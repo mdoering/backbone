@@ -1,5 +1,4 @@
-Gyalecta cretacea Ach. SPECIES
-=======
+# Gyalecta cretacea Ach. SPECIES
 
 #### Status
 ACCEPTED

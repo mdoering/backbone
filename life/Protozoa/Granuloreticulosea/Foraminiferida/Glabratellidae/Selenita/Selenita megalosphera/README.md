@@ -1,5 +1,4 @@
-Selenita megalosphera Pawlowski & Lee, 1991 SPECIES
-=======
+# Selenita megalosphera Pawlowski & Lee, 1991 SPECIES
 
 #### Status
 ACCEPTED

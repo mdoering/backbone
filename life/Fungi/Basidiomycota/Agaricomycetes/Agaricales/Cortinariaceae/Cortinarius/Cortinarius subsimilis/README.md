@@ -1,5 +1,4 @@
-Cortinarius subsimilis (Pers.) Fr. SPECIES
-=======
+# Cortinarius subsimilis (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

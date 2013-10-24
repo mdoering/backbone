@@ -1,5 +1,4 @@
-Plectanium Haeckel, 1881 GENUS
-=======
+# Plectanium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

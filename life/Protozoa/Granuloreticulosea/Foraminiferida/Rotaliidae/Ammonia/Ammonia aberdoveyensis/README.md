@@ -1,5 +1,4 @@
-Ammonia aberdoveyensis Haynes, 1973 SPECIES
-=======
+# Ammonia aberdoveyensis Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

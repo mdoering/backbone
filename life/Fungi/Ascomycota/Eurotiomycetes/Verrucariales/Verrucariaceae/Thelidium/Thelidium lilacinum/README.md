@@ -1,5 +1,4 @@
-Thelidium lilacinum (A. Massal.) Servít SPECIES
-=======
+# Thelidium lilacinum (A. Massal.) Servít SPECIES
 
 #### Status
 ACCEPTED

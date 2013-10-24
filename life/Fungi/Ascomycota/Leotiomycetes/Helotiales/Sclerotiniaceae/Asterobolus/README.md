@@ -1,5 +1,4 @@
-Asterobolus GENUS
-=======
+# Asterobolus GENUS
 
 #### Status
 ACCEPTED

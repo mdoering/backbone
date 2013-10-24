@@ -1,5 +1,4 @@
-Meliola toddaliicola var. toddaliicola VARIETY
-=======
+# Meliola toddaliicola Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. London 158: 36 (1947)
 
 #### Original name
-Meliola toddaliicola var. toddaliicola
+Meliola toddaliicola Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pronectria xanthoriae Lowen & Diederich, 1990 SPECIES
-=======
+# Pronectria xanthoriae Lowen & Diederich, 1990 SPECIES
 
 #### Status
 ACCEPTED

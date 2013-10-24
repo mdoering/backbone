@@ -1,17 +1,16 @@
-Trichoscypha Boud. GENUS
-=======
+# Lachnellula P. Karsten, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 1: 117 (1885)
+null
 
 #### Original name
-Trichoscypha Boud.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium wareoense Cummins SPECIES
-=======
+# Aecidium wareoense Cummins SPECIES
 
 #### Status
 ACCEPTED

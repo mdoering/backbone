@@ -1,5 +1,4 @@
-Mallomonas multiunca Asmund SPECIES
-=======
+# Mallomonas multiunca Asmund SPECIES
 
 #### Status
 ACCEPTED

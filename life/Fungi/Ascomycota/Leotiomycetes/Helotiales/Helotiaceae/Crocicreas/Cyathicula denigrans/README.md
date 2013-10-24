@@ -1,5 +1,4 @@
-Cyathicula denigrans (Fuckel) Sacc. SPECIES
-=======
+# Cyathicula denigrans (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

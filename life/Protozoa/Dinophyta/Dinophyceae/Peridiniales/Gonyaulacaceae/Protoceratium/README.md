@@ -1,14 +1,13 @@
-Clathrocysta F. Stein, 1883 GENUS
-=======
+# Protoceratium Bergh, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Org. Infus. , 3 (2) 9 (as Chathrocysta; also as Clathrocysta pl. 4).
+Morphol. Jahrb. , 7, 242.
 
 #### Original name
 null

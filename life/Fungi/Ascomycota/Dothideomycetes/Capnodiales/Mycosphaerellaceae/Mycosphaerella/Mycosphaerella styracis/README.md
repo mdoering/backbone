@@ -1,5 +1,4 @@
-Mycosphaerella styracis Starbäck SPECIES
-=======
+# Mycosphaerella styracis Starbäck SPECIES
 
 #### Status
 ACCEPTED

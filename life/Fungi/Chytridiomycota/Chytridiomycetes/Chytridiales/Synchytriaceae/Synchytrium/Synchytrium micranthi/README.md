@@ -1,5 +1,4 @@
-Synchytrium micranthi G.P. Singh SPECIES
-=======
+# Synchytrium micranthi G.P. Singh SPECIES
 
 #### Status
 ACCEPTED

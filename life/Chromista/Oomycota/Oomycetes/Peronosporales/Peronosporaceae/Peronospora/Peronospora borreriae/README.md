@@ -1,5 +1,4 @@
-Peronospora borreriae Lagerh. SPECIES
-=======
+# Peronospora borreriae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

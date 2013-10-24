@@ -1,5 +1,4 @@
-Actinoptychus triacriformis Cheng & Chin SPECIES
-=======
+# Actinoptychus triacriformis Cheng & Chin SPECIES
 
 #### Status
 ACCEPTED

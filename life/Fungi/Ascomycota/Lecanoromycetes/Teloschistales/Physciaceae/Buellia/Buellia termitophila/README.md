@@ -1,5 +1,4 @@
-Buellia termitophila f. termitophila FORM
-=======
+# Buellia termitophila Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia termitophila f. termitophila
+Buellia termitophila Malme
 
 ### Remarks
 null

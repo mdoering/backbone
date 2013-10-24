@@ -1,5 +1,4 @@
-Symbionecta Yankovskii, 1973 GENUS
-=======
+# Symbionecta Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

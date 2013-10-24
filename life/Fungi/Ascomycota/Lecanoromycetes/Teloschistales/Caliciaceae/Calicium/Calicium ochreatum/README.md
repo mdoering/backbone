@@ -1,5 +1,4 @@
-Calicium ochreatum (De Not.) Zahlbr. SPECIES
-=======
+# Calicium ochreatum (De Not.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

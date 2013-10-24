@@ -1,17 +1,16 @@
-Rhodophyllus neglectus var. neglectus VARIETY
-=======
+# Entoloma neglectum (Lasch) Arnolds, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 10(no. 3): 50 (1948)
+Biblthca Mycol. 90: 339 (1982)
 
 #### Original name
-Rhodophyllus neglectus var. neglectus
+Agaricus neglectus Lasch, 1828
 
 ### Remarks
 null

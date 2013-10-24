@@ -1,5 +1,4 @@
-Lecidea subtilis Degel. SPECIES
-=======
+# Lecidea subtilis Degel. SPECIES
 
 #### Status
 ACCEPTED

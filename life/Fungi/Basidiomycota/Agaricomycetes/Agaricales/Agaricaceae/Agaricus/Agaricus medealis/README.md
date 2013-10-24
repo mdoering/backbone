@@ -1,5 +1,4 @@
-Agaricus medealis Lasch SPECIES
-=======
+# Agaricus medealis Lasch SPECIES
 
 #### Status
 ACCEPTED

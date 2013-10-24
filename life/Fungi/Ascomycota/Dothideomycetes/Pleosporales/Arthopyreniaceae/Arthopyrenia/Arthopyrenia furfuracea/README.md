@@ -1,5 +1,4 @@
-Arthopyrenia furfuracea A. Massal. SPECIES
-=======
+# Arthopyrenia furfuracea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

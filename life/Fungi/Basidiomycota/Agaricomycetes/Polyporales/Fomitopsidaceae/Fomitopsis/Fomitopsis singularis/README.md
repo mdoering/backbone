@@ -1,5 +1,4 @@
-Fomitopsis singularis (Corner) T. Hatt. SPECIES
-=======
+# Fomitopsis singularis (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

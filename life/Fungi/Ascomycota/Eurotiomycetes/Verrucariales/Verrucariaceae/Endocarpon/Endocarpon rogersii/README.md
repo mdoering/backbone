@@ -1,5 +1,4 @@
-Endocarpon rogersii P. M. McCarthy SPECIES
-=======
+# Endocarpon rogersii P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium thapsiae-villosae Gonz. Frag. SPECIES
-=======
+# Aecidium thapsiae-villosae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

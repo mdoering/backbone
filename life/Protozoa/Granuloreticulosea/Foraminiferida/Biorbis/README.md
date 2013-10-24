@@ -1,5 +1,4 @@
-Biorbis Strank, 1983 GENUS
-=======
+# Biorbis Strank, 1983 GENUS
 
 #### Status
 ACCEPTED

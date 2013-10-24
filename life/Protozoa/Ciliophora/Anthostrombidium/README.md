@@ -1,5 +1,4 @@
-Anthostrombidium Yankovskij, 1980 GENUS
-=======
+# Anthostrombidium Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

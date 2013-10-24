@@ -1,5 +1,4 @@
-Distromium skottsbergii Levring SPECIES
-=======
+# Distromium skottsbergii Levring SPECIES
 
 #### Status
 ACCEPTED

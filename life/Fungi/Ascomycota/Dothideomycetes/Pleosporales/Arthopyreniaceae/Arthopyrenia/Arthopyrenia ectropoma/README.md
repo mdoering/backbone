@@ -1,5 +1,4 @@
-Arthopyrenia ectropoma A. Massal. SPECIES
-=======
+# Arthopyrenia ectropoma A. Massal. SPECIES
 
 #### Status
 ACCEPTED

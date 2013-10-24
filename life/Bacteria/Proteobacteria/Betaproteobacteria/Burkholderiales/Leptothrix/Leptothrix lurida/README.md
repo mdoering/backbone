@@ -1,5 +1,4 @@
-Leptothrix lurida Kützing SPECIES
-=======
+# Leptothrix lurida Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurocystis candelabrum (Corda) Bonord. SPECIES
-=======
+# Pleurocystis candelabrum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

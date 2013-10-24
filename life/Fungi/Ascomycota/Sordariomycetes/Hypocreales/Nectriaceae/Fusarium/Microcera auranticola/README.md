@@ -1,5 +1,4 @@
-Microcera auranticola Petch SPECIES
-=======
+# Microcera auranticola Petch SPECIES
 
 #### Status
 ACCEPTED

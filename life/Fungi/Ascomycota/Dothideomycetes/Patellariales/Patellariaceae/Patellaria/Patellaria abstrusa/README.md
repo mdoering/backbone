@@ -1,5 +1,4 @@
-Patellaria abstrusa Wallr. SPECIES
-=======
+# Patellaria abstrusa Wallr. SPECIES
 
 #### Status
 ACCEPTED

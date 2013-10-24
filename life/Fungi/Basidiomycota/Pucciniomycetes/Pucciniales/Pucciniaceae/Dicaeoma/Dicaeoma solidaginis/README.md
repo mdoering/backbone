@@ -1,5 +1,4 @@
-Dicaeoma solidaginis (Peck) Kuntze SPECIES
-=======
+# Dicaeoma solidaginis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

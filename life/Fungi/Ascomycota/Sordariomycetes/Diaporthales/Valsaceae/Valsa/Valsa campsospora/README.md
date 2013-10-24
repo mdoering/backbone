@@ -1,5 +1,4 @@
-Valsa campsospora Mont. SPECIES
-=======
+# Valsa campsospora Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrospora scirpivora E.G. Simmons & D.A. Johnson SPECIES
-=======
+# Macrospora scirpivora E.G. Simmons & D.A. Johnson SPECIES
 
 #### Status
 ACCEPTED

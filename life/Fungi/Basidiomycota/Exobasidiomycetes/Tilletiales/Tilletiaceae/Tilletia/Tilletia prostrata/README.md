@@ -1,5 +1,4 @@
-Tilletia prostrata (Lavrov) Lavrov SPECIES
-=======
+# Tilletia prostrata (Lavrov) Lavrov SPECIES
 
 #### Status
 ACCEPTED

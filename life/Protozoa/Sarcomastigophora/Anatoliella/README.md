@@ -1,5 +1,4 @@
-Anatoliella Sirel, 1988 GENUS
-=======
+# Anatoliella Sirel, 1988 GENUS
 
 #### Status
 ACCEPTED

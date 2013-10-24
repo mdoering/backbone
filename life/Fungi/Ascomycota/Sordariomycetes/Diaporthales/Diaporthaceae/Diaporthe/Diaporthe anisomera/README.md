@@ -1,5 +1,4 @@
-Diaporthe anisomera Sacc. & Scalia SPECIES
-=======
+# Diaporthe anisomera Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

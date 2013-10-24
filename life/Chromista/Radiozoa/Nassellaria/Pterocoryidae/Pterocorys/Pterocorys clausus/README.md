@@ -1,5 +1,4 @@
-Pterocorys clausus (Popofsky) Petrushevskaya & Kozlova, 1972 SPECIES
-=======
+# Pterocorys clausus (Popofsky) Petrushevskaya & Kozlova, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecotheus pallens (Boud.) Kimbr. SPECIES
-=======
+# Thecotheus pallens (Boud.) Kimbr. SPECIES
 
 #### Status
 ACCEPTED

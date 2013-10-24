@@ -1,5 +1,4 @@
-Sympoventuria Crous & Seifert GENUS
-=======
+# Sympoventuria Crous & Seifert GENUS
 
 #### Status
 ACCEPTED

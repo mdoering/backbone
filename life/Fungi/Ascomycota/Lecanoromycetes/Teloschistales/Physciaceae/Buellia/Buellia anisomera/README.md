@@ -1,5 +1,4 @@
-Buellia anisomera Vain. SPECIES
-=======
+# Buellia anisomera Vain. SPECIES
 
 #### Status
 ACCEPTED

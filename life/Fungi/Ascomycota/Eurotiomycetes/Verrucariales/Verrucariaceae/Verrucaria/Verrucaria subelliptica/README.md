@@ -1,5 +1,4 @@
-Verrucaria subelliptica Tuck. SPECIES
-=======
+# Verrucaria subelliptica Tuck. SPECIES
 
 #### Status
 ACCEPTED

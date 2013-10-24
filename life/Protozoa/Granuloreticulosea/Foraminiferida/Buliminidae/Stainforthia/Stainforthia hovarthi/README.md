@@ -1,5 +1,4 @@
-Stainforthia hovarthi Green, 1960 SPECIES
-=======
+# Stainforthia hovarthi Green, 1960 SPECIES
 
 #### Status
 ACCEPTED

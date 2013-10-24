@@ -1,5 +1,4 @@
-Phaeographina internigricans (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina internigricans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

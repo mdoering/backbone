@@ -1,8 +1,7 @@
-Uvigerina vadescens Cushman, 1933 SPECIES
-=======
+# Siphouvigerina proboscidea (Schwager, 1866) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

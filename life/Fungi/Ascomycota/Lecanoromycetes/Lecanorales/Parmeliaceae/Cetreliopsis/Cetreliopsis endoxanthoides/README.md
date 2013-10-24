@@ -1,14 +1,13 @@
-Cetraria endoxanthoides D.D. Awasthi SPECIES
-=======
+# Cetreliopsis endoxanthoides (D.D. Awasthi) Randlane & Saag SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. bot. Surv. India 24: 9 (1982)
+in Randlane, Thell & Saag, Cryptog. Bryol. -Lichénol. 16(1): 51 (1995)
 
 #### Original name
 Cetraria endoxanthoides D.D. Awasthi

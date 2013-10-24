@@ -1,5 +1,4 @@
-Tinnajaphyton P.N. Kolosov, 1982 GENUS
-=======
+# Tinnajaphyton P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

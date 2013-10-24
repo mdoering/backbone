@@ -1,5 +1,4 @@
-Clavaria nodulosperma G.F. Atk. SPECIES
-=======
+# Clavaria nodulosperma G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

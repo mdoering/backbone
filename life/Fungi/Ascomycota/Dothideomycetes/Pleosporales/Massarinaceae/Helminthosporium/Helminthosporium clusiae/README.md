@@ -1,5 +1,4 @@
-Helminthosporium clusiae Cif. & Gonz. Frag. SPECIES
-=======
+# Helminthosporium clusiae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

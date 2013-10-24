@@ -1,5 +1,4 @@
-Geotrichum cinereum (Bonord.) Sacc. SPECIES
-=======
+# Geotrichum cinereum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe mellea T.J. Baroni & Ovrebo SPECIES
-=======
+# Rhodocybe mellea T.J. Baroni & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

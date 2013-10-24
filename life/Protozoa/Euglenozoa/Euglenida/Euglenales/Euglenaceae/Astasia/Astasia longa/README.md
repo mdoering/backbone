@@ -1,5 +1,4 @@
-Astasia longa var. truncata Pringsheim VARIETY
-=======
+# Astasia longa E. G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Technitella atlantica Cushman, 1947 SPECIES
-=======
+# Technitella atlantica Cushman, 1947 SPECIES
 
 #### Status
 ACCEPTED

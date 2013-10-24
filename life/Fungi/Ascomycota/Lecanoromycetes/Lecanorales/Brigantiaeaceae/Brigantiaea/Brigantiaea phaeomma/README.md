@@ -1,14 +1,13 @@
-Heterothecium phaeomma (Nyl.) SPECIES
-=======
+# Brigantiaea phaeomma (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 32(no. 1): 61 (1997)
 
 #### Original name
 Lecidea phaeomma Nyl.

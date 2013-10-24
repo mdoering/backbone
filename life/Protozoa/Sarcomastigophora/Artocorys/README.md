@@ -1,5 +1,4 @@
-Artocorys Haeckel, 1881 GENUS
-=======
+# Artocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

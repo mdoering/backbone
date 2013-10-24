@@ -1,14 +1,13 @@
-Thelidium tongleti (Hue) Zahlbr. SPECIES
-=======
+# Thelidium tongletii (Hue) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 133 (1921)
 
 #### Original name
 Verrucaria tongletii Hue

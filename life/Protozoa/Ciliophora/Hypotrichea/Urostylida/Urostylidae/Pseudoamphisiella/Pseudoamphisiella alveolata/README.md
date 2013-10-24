@@ -1,5 +1,4 @@
-Pseudoamphisiella alveolata (Kahl, 1932) Song & Warren, 2000 SPECIES
-=======
+# Pseudoamphisiella alveolata (Kahl, 1932) Song & Warren, 2000 SPECIES
 
 #### Status
 ACCEPTED

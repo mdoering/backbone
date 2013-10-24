@@ -1,17 +1,16 @@
-Cortinarius rotundisporus subsp. rotundisporus SUBSPECIES
-=======
+# Cortinarius rotundisporus Cleland & Cheel, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Roy. Soc. South Australia 42: 96 (1918)
 
 #### Original name
-Cortinarius rotundisporus subsp. rotundisporus
+Cortinarius rotundisporus Cleland & Cheel, 1918
 
 ### Remarks
 null

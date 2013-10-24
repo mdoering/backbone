@@ -1,5 +1,4 @@
-Bifidocarpus cubensis Cano, Guarro & R.F. Castañeda, 1994 SPECIES
-=======
+# Bifidocarpus cubensis Cano, Guarro & R.F. Castañeda, 1994 SPECIES
 
 #### Status
 ACCEPTED

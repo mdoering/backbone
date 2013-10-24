@@ -1,5 +1,4 @@
-Polyporus sprucei Lloyd SPECIES
-=======
+# Polyporus sprucei Lloyd SPECIES
 
 #### Status
 ACCEPTED

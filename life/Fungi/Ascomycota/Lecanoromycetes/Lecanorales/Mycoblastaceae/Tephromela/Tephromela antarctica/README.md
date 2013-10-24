@@ -1,5 +1,4 @@
-Tephromela antarctica Øvstedal SPECIES
-=======
+# Tephromela antarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

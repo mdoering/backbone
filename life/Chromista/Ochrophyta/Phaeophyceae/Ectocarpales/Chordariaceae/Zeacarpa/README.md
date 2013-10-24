@@ -1,5 +1,4 @@
-Zeacarpa Anderson, Simons & Bolton, 1988 GENUS
-=======
+# Zeacarpa Anderson, Simons & Bolton, 1988 GENUS
 
 #### Status
 ACCEPTED

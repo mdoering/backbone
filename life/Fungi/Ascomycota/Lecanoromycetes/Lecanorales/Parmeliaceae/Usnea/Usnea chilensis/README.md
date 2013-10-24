@@ -1,5 +1,4 @@
-Usnea chilensis Motyka SPECIES
-=======
+# Usnea chilensis Motyka SPECIES
 
 #### Status
 ACCEPTED

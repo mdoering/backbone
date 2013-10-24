@@ -1,5 +1,4 @@
-Chlorospleniella gomphiae (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Chlorospleniella gomphiae (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

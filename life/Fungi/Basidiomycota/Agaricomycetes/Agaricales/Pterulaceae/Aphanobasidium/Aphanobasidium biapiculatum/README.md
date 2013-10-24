@@ -1,5 +1,4 @@
-Aphanobasidium biapiculatum Boidin & Gilles SPECIES
-=======
+# Aphanobasidium biapiculatum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

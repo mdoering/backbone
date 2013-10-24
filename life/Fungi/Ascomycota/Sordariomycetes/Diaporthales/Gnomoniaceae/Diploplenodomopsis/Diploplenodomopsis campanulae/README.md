@@ -1,5 +1,4 @@
-Diploplenodomopsis campanulae Petr. SPECIES
-=======
+# Diploplenodomopsis campanulae Petr. SPECIES
 
 #### Status
 ACCEPTED

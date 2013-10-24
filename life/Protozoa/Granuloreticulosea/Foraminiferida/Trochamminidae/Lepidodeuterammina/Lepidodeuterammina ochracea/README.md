@@ -1,8 +1,7 @@
-Rotalina ochracea Williamson, 1858 SPECIES
-=======
+# Lepidodeuterammina ochracea (Williamson, 1858) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

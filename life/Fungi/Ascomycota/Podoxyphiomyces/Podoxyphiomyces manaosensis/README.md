@@ -1,5 +1,4 @@
-Podoxyphiomyces manaosensis Bat., Valle & Peres SPECIES
-=======
+# Podoxyphiomyces manaosensis Bat., Valle & Peres SPECIES
 
 #### Status
 ACCEPTED

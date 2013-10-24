@@ -1,14 +1,13 @@
-Ustilago kuehneana R. Wolff, 1874 SPECIES
-=======
+# Microbotryum kuehneanum (R. Wolff) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 32: 815 (1874)
+Mycotaxon 67: 45 (1998)
 
 #### Original name
 Ustilago kuehneana R. Wolff, 1874

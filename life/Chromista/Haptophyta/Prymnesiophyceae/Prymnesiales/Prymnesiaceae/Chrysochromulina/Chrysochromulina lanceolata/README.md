@@ -1,5 +1,4 @@
-Chrysochromulina lanceolata Puigserver, Chretiennot-Dinet & Nezan, 2003 SPECIES
-=======
+# Chrysochromulina lanceolata Puigserver, Chretiennot-Dinet & Nezan, 2003 SPECIES
 
 #### Status
 ACCEPTED

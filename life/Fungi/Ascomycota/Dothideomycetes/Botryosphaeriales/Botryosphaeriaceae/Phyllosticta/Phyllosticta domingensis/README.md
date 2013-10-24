@@ -1,5 +1,4 @@
-Phyllosticta domingensis Cif. & Gonz. Frag. SPECIES
-=======
+# Phyllosticta domingensis Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

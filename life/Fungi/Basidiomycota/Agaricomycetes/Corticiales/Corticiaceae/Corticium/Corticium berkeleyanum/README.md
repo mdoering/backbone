@@ -1,5 +1,4 @@
-Corticium berkeleyanum Ces. SPECIES
-=======
+# Corticium berkeleyanum Ces. SPECIES
 
 #### Status
 ACCEPTED

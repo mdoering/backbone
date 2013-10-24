@@ -1,17 +1,16 @@
-Zignoëlla pluriseptatis Gucevic SPECIES
-=======
+# Zignoëlla pluriseptata Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 7: 163 (1970)
 
 #### Original name
-Zignoëlla pluriseptatis Gucevic
+Zignoëlla pluriseptata Gucevic
 
 ### Remarks
 null

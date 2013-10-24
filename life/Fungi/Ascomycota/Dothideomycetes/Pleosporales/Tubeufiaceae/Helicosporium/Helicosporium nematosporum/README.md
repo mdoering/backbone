@@ -1,5 +1,4 @@
-Helicosporium nematosporum Linder SPECIES
-=======
+# Helicosporium nematosporum Linder SPECIES
 
 #### Status
 ACCEPTED

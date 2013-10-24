@@ -1,5 +1,4 @@
-Mucor miniatusjacquinii Scholler SPECIES
-=======
+# Mucor miniatusjacquinii Scholler SPECIES
 
 #### Status
 ACCEPTED

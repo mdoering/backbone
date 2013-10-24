@@ -1,5 +1,4 @@
-Lecidea scutiformis SPECIES
-=======
+# Lecidea scutiformis SPECIES
 
 #### Status
 ACCEPTED

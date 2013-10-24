@@ -1,5 +1,4 @@
-Macrophoma crustosa (Sacc. & Berl.) Berl. & Voglino SPECIES
-=======
+# Macrophoma crustosa (Sacc. & Berl.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

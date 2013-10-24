@@ -1,5 +1,4 @@
-Septoria dalmatica Jaap SPECIES
-=======
+# Septoria dalmatica Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia triodiae Ellis & Barthol. SPECIES
-=======
+# Puccinia triodiae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

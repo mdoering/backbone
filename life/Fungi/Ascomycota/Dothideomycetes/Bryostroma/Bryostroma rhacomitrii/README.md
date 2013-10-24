@@ -1,5 +1,4 @@
-Bryostroma rhacomitrii Döbbeler, 1978 SPECIES
-=======
+# Bryostroma rhacomitrii Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

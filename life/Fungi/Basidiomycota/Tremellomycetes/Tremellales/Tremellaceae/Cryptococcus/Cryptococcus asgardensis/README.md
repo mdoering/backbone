@@ -1,5 +1,4 @@
-Cryptococcus asgardensis Vishniac & Baharaeen SPECIES
-=======
+# Cryptococcus asgardensis Vishniac & Baharaeen SPECIES
 
 #### Status
 ACCEPTED

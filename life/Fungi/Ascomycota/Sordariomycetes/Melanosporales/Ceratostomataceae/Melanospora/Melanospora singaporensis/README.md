@@ -1,5 +1,4 @@
-Melanospora singaporensis Morinaga, Minoura & Udagawa SPECIES
-=======
+# Melanospora singaporensis Morinaga, Minoura & Udagawa SPECIES
 
 #### Status
 ACCEPTED

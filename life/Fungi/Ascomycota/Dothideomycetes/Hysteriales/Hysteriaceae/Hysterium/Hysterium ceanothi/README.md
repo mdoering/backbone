@@ -1,5 +1,4 @@
-Hysterium ceanothi W. Phillips & Harkn. SPECIES
-=======
+# Hysterium ceanothi W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

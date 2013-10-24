@@ -1,5 +1,4 @@
-Peronospora gypsophilae Jacz. SPECIES
-=======
+# Peronospora gypsophilae Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Denitrobacterium detoxificans Anderson et al., 2000 SPECIES
-=======
+# Denitrobacterium detoxificans Anderson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

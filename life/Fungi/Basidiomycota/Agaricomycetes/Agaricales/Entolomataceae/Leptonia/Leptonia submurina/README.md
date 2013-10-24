@@ -1,5 +1,4 @@
-Leptonia submurina (Pat.) Sacc. & Trotter SPECIES
-=======
+# Leptonia submurina (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

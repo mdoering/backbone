@@ -1,5 +1,4 @@
-Microbispora parva Nonomura and Ohara, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Microbispora parva Nonomura and Ohara, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

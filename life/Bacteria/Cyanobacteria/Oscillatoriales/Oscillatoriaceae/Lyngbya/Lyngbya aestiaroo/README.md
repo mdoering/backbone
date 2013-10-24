@@ -1,5 +1,4 @@
-Lyngbya aestiaroo (Mertens) Liebmann SPECIES
-=======
+# Lyngbya aestiaroo (Mertens) Liebmann SPECIES
 
 #### Status
 ACCEPTED

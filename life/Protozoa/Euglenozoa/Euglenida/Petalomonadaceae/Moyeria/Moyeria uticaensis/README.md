@@ -1,5 +1,4 @@
-Moyeria uticaensis Thusu, 1973 SPECIES
-=======
+# Moyeria uticaensis Thusu, 1973 SPECIES
 
 #### Status
 ACCEPTED

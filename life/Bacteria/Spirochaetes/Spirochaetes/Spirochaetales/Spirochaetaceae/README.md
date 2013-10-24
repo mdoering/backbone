@@ -1,5 +1,4 @@
-Spirochaetaceae FAMILY
-=======
+# Spirochaetaceae FAMILY
 
 #### Status
 ACCEPTED

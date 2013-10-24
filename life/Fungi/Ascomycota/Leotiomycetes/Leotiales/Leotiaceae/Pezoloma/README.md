@@ -1,17 +1,16 @@
-Pseudodiscinella Dennis GENUS
-=======
+# Pezoloma Clements, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Kew Bull. 567 (1956)
+null
 
 #### Original name
-Pseudodiscinella Dennis
+null
 
 ### Remarks
 null

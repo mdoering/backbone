@@ -1,5 +1,4 @@
-Diatrype chilensis Henn. SPECIES
-=======
+# Diatrype chilensis Henn. SPECIES
 
 #### Status
 ACCEPTED

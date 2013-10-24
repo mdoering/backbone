@@ -1,5 +1,4 @@
-Cryptostictis europaea (Grove) B. Sutton SPECIES
-=======
+# Cryptostictis europaea (Grove) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

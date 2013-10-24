@@ -1,5 +1,4 @@
-Exobasidium fraseri McNabb, 1962 SPECIES
-=======
+# Exobasidium fraseri McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

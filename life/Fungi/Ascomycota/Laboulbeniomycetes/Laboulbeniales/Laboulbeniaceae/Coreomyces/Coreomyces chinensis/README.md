@@ -1,5 +1,4 @@
-Coreomyces chinensis Thaxt. SPECIES
-=======
+# Coreomyces chinensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

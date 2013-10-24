@@ -1,5 +1,4 @@
-Pseudopolyedriopsis Gollerbach, 1962 GENUS
-=======
+# Pseudopolyedriopsis Gollerbach, 1962 GENUS
 
 #### Status
 ACCEPTED

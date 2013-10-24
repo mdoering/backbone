@@ -1,5 +1,4 @@
-Urocystis rostrariae Piatek, 2006 SPECIES
-=======
+# Urocystis rostrariae Piatek, 2006 SPECIES
 
 #### Status
 ACCEPTED

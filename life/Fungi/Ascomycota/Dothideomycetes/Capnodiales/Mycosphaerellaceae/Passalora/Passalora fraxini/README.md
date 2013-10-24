@@ -1,17 +1,16 @@
-Cercospora fraxini f. fraxini FORM
-=======
+# Passalora fraxini (DC.) Arx, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(1): 44 (1983)
 
 #### Original name
-null
+Asteroma fraxini DC., 1815
 
 ### Remarks
 null

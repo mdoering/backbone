@@ -1,5 +1,4 @@
-Gibellula perexigua (Kobayasi) Koval SPECIES
-=======
+# Gibellula perexigua (Kobayasi) Koval SPECIES
 
 #### Status
 ACCEPTED

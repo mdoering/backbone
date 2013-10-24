@@ -1,5 +1,4 @@
-Microthyriella rickii (Rehm) Höhn. SPECIES
-=======
+# Microthyriella rickii (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceramothyrium erysiphinum (Syd. & P. Syd.) Bat. & Cif., 1956 SPECIES
-=======
+# Leucoconis erysiphina (Syd. & P. Syd.) Theiss. & Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 23(1-3): 16 (1956)
+Annls mycol. 15(6): 456 (1918)
 
 #### Original name
 Zukalia erysiphina Syd. & P. Syd., 1916

@@ -1,5 +1,4 @@
-Gloeophyllum sepiarum (Fr.) Karst., 1879 SPECIES
-=======
+# Gloeophyllum sepiarum (Fr.) Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED

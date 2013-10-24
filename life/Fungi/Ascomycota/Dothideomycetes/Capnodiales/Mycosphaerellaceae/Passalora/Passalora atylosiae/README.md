@@ -1,5 +1,4 @@
-Passalora atylosiae (Raghu Ram & Mallaiah) U. Braun & Crous SPECIES
-=======
+# Passalora atylosiae (Raghu Ram & Mallaiah) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

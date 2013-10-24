@@ -1,5 +1,4 @@
-Arrhenosphaera craneae Stejskal, 1974 SPECIES
-=======
+# Arrhenosphaera craneae Stejskal, 1974 SPECIES
 
 #### Status
 ACCEPTED

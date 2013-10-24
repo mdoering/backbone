@@ -1,5 +1,4 @@
-Placidiopsis tenella (Nyl.) Zahlbr. SPECIES
-=======
+# Placidiopsis tenella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

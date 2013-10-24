@@ -1,5 +1,4 @@
-Umbilicaria syagroderma Nyl. SPECIES
-=======
+# Umbilicaria syagroderma Nyl. SPECIES
 
 #### Status
 ACCEPTED

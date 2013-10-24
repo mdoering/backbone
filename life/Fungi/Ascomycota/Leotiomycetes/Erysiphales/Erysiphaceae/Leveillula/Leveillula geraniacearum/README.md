@@ -1,5 +1,4 @@
-Leveillula geraniacearum f. geraniacearum FORM
-=======
+# Leveillula geraniacearum Eliade SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula geraniacearum f. geraniacearum
+Leveillula geraniacearum Eliade
 
 ### Remarks
 null

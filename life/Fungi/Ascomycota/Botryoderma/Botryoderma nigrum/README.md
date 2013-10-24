@@ -1,5 +1,4 @@
-Botryoderma nigrum S.E. López SPECIES
-=======
+# Botryoderma nigrum S.E. López SPECIES
 
 #### Status
 ACCEPTED

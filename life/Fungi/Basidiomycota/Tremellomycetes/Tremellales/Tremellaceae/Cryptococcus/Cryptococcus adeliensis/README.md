@@ -1,5 +1,4 @@
-Cryptococcus adeliensis Scorzetti, I. Petrescu, Yarrow & Fell SPECIES
-=======
+# Cryptococcus adeliensis Scorzetti, I. Petrescu, Yarrow & Fell SPECIES
 
 #### Status
 ACCEPTED

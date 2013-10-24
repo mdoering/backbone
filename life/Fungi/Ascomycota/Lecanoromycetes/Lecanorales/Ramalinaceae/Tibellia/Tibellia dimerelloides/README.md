@@ -1,5 +1,4 @@
-Tibellia dimerelloides Vezda & Hafellner SPECIES
-=======
+# Tibellia dimerelloides Vezda & Hafellner SPECIES
 
 #### Status
 ACCEPTED

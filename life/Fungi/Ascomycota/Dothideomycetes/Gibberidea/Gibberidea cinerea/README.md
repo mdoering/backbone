@@ -1,5 +1,4 @@
-Gibberidea cinerea (P. Karst.) Kirschst. SPECIES
-=======
+# Gibberidea cinerea (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

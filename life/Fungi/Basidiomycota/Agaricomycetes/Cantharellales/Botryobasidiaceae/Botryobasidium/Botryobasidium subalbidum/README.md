@@ -1,5 +1,4 @@
-Botryobasidium subalbidum Ginns, 1988 SPECIES
-=======
+# Botryobasidium subalbidum Ginns, 1988 SPECIES
 
 #### Status
 ACCEPTED

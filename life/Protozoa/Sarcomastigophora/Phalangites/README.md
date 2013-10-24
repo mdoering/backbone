@@ -1,5 +1,4 @@
-Phalangites O'Dogherty, 1994 GENUS
-=======
+# Phalangites O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

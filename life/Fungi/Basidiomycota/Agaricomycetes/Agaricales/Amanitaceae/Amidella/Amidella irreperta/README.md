@@ -1,5 +1,4 @@
-Amidella irreperta (E.-J. Gilbert) E.-J. Gilbert SPECIES
-=======
+# Amidella irreperta (E.-J. Gilbert) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus rutilus var. rutilus VARIETY
-=======
+# Boletus rutilus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus rutilus var. rutilus
+Boletus rutilus Fr.
 
 ### Remarks
 null

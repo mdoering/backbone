@@ -1,5 +1,4 @@
-Pseudopeziza tormentillae (Rehm) Höhn. SPECIES
-=======
+# Pseudopeziza tormentillae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alkalibacillus filiformis Romano et al., 2005 SPECIES
-=======
+# Alkalibacillus filiformis Romano et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

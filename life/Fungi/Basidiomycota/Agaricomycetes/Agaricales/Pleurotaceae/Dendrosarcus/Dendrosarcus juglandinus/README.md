@@ -1,5 +1,4 @@
-Dendrosarcus juglandinus (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus juglandinus (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

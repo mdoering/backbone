@@ -1,5 +1,4 @@
-Coprinus stenocoleus Lindblad SPECIES
-=======
+# Coprinus stenocoleus Lindblad SPECIES
 
 #### Status
 ACCEPTED

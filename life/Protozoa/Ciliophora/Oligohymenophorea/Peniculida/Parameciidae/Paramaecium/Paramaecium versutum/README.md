@@ -1,5 +1,4 @@
-Paramaecium versutum Müller, 1786 SPECIES
-=======
+# Paramaecium versutum Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

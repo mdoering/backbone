@@ -1,5 +1,4 @@
-Stanfordella Helenes & Lucas-Clark, 1997 GENUS
-=======
+# Stanfordella Helenes & Lucas-Clark, 1997 GENUS
 
 #### Status
 ACCEPTED

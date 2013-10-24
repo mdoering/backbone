@@ -1,5 +1,4 @@
-Marasmius discoideus Henn. SPECIES
-=======
+# Marasmius discoideus Henn. SPECIES
 
 #### Status
 ACCEPTED

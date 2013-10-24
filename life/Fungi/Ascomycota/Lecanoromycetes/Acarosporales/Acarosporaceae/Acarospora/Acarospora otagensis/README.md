@@ -1,5 +1,4 @@
-Acarospora otagensis H. Magn. SPECIES
-=======
+# Acarospora otagensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

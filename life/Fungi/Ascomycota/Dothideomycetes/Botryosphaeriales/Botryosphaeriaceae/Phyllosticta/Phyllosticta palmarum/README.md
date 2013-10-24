@@ -1,5 +1,4 @@
-Phyllosticta palmarum Rabenh. SPECIES
-=======
+# Phyllosticta palmarum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

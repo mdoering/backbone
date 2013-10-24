@@ -1,5 +1,4 @@
-Phragmonaevia charticola Feltgen SPECIES
-=======
+# Phragmonaevia charticola Feltgen SPECIES
 
 #### Status
 ACCEPTED

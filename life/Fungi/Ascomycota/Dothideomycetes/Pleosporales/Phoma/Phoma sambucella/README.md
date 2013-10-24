@@ -1,5 +1,4 @@
-Phoma sambucella Sacc. SPECIES
-=======
+# Phoma sambucella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia lactucaefolia Pers. SPECIES
-=======
+# Parmelia lactucaefolia Pers. SPECIES
 
 #### Status
 ACCEPTED

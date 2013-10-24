@@ -1,5 +1,4 @@
-Zopfiella bonariensis ined. SPECIES
-=======
+# Zopfiella bonariensis ined. SPECIES
 
 #### Status
 ACCEPTED

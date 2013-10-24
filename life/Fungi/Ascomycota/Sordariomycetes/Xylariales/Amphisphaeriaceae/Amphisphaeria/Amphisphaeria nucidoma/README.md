@@ -1,5 +1,4 @@
-Amphisphaeria nucidoma Fairm. SPECIES
-=======
+# Amphisphaeria nucidoma Fairm. SPECIES
 
 #### Status
 ACCEPTED

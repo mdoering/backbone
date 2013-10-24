@@ -1,5 +1,4 @@
-Laboulbenia oxyglymmatis K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia oxyglymmatis K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

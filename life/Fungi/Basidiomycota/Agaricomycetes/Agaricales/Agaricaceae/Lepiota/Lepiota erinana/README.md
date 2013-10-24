@@ -1,5 +1,4 @@
-Lepiota erinana Dennis SPECIES
-=======
+# Lepiota erinana Dennis SPECIES
 
 #### Status
 ACCEPTED

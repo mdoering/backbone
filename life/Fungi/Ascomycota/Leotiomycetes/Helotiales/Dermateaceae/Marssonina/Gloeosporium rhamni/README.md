@@ -1,5 +1,4 @@
-Gloeosporium rhamni Negru SPECIES
-=======
+# Gloeosporium rhamni Negru SPECIES
 
 #### Status
 ACCEPTED

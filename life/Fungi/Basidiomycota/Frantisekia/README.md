@@ -1,5 +1,4 @@
-Frantisekia Spirin & Zmitr. GENUS
-=======
+# Frantisekia Spirin & Zmitr. GENUS
 
 #### Status
 ACCEPTED

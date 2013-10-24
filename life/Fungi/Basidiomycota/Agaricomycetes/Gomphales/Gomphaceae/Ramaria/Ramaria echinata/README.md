@@ -1,5 +1,4 @@
-Ramaria echinata Velen. SPECIES
-=======
+# Ramaria echinata Velen. SPECIES
 
 #### Status
 ACCEPTED

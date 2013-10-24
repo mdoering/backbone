@@ -1,5 +1,4 @@
-Agaricus illicitus Peck SPECIES
-=======
+# Agaricus illicitus Peck SPECIES
 
 #### Status
 ACCEPTED

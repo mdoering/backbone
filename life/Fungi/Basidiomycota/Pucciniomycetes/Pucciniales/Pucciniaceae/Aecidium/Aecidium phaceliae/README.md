@@ -1,5 +1,4 @@
-Aecidium phaceliae Peck SPECIES
-=======
+# Aecidium phaceliae Peck SPECIES
 
 #### Status
 ACCEPTED

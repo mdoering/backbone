@@ -1,5 +1,4 @@
-Inocybe maritimoides (Peck) Sacc. SPECIES
-=======
+# Inocybe maritimoides (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

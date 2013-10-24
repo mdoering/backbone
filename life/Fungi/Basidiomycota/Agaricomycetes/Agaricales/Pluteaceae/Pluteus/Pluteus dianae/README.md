@@ -1,5 +1,4 @@
-Pluteus dianae Pilát SPECIES
-=======
+# Pluteus dianae Pilát SPECIES
 
 #### Status
 ACCEPTED

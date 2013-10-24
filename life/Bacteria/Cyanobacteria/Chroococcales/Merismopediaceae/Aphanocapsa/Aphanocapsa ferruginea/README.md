@@ -1,5 +1,4 @@
-Aphanocapsa ferruginea Beck-Mannagetta SPECIES
-=======
+# Aphanocapsa ferruginea Beck-Mannagetta SPECIES
 
 #### Status
 ACCEPTED

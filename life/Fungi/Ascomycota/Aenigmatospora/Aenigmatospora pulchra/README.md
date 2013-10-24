@@ -1,5 +1,4 @@
-Aenigmatospora pulchra R.F. Castañeda, Saikawa, Decock, Guarro & M. Calduch, 1999 SPECIES
-=======
+# Aenigmatospora pulchra R.F. Castañeda, Saikawa, Decock, Guarro & M. Calduch, 1999 SPECIES
 
 #### Status
 ACCEPTED

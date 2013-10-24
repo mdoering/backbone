@@ -1,5 +1,4 @@
-Sphaeronaema capillare Ellis & Harkn. SPECIES
-=======
+# Sphaeronaema capillare Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

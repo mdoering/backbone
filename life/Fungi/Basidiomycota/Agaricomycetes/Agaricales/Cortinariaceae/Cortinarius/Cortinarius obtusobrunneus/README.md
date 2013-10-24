@@ -1,5 +1,4 @@
-Cortinarius obtusobrunneus Rob. Henry SPECIES
-=======
+# Cortinarius obtusobrunneus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

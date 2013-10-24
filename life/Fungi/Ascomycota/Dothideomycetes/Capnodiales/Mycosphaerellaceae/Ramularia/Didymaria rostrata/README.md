@@ -1,5 +1,4 @@
-Didymaria rostrata Speg. SPECIES
-=======
+# Didymaria rostrata Speg. SPECIES
 
 #### Status
 ACCEPTED

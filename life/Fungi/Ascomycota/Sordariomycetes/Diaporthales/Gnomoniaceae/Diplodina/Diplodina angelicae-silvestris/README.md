@@ -1,5 +1,4 @@
-Diplodina angelicae-silvestris Petr. SPECIES
-=======
+# Diplodina angelicae-silvestris Petr. SPECIES
 
 #### Status
 ACCEPTED

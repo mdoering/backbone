@@ -1,5 +1,4 @@
-Amandinea turgescens (Tuck.) Marbach SPECIES
-=======
+# Amandinea turgescens (Tuck.) Marbach SPECIES
 
 #### Status
 ACCEPTED

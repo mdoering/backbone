@@ -1,5 +1,4 @@
-Biatora athoa Räsänen SPECIES
-=======
+# Biatora athoa Räsänen SPECIES
 
 #### Status
 ACCEPTED

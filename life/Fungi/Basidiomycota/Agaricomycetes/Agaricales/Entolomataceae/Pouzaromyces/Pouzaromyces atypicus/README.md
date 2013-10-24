@@ -1,5 +1,4 @@
-Pouzaromyces atypicus E. Horak SPECIES
-=======
+# Pouzaromyces atypicus E. Horak SPECIES
 
 #### Status
 ACCEPTED

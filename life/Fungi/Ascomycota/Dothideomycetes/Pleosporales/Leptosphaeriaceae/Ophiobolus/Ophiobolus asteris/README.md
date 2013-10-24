@@ -1,5 +1,4 @@
-Ophiobolus asteris Gucevic SPECIES
-=======
+# Ophiobolus asteris Gucevic SPECIES
 
 #### Status
 ACCEPTED

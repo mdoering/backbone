@@ -1,5 +1,4 @@
-Orbopercularia gnathophila SPECIES
-=======
+# Orbopercularia gnathophila SPECIES
 
 #### Status
 ACCEPTED

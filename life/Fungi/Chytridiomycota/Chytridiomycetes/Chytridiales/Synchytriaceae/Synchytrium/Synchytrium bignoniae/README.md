@@ -1,5 +1,4 @@
-Synchytrium bignoniae M.T. Cook SPECIES
-=======
+# Synchytrium bignoniae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

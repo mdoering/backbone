@@ -1,5 +1,4 @@
-Myriophacidium corticola Sherwood, 1980 SPECIES
-=======
+# Myriophacidium corticola Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

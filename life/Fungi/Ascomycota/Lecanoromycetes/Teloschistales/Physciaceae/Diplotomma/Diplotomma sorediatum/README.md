@@ -1,5 +1,4 @@
-Diplotomma sorediatum (Tuck.) S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Diplotomma sorediatum (Tuck.) S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halteria bipartita Fromentel, 1876 SPECIES
-=======
+# Halteria bipartita Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

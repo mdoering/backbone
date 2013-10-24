@@ -1,5 +1,4 @@
-Helotium sedi P. Karst. SPECIES
-=======
+# Helotium sedi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

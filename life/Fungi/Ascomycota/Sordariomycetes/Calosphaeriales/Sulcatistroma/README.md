@@ -1,5 +1,4 @@
-Sulcatistroma A.W. Ramaley GENUS
-=======
+# Sulcatistroma A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

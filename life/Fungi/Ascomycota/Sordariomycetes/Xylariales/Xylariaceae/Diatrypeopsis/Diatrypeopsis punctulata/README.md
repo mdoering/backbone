@@ -1,5 +1,4 @@
-Diatrypeopsis punctulata (Berk. & Broome) Speg. SPECIES
-=======
+# Diatrypeopsis punctulata (Berk. & Broome) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinula pyrophila (Snyder) Donadini, G. Riousset & Riousset SPECIES
-=======
+# Pulvinula pyrophila (Snyder) Donadini, G. Riousset & Riousset SPECIES
 
 #### Status
 ACCEPTED

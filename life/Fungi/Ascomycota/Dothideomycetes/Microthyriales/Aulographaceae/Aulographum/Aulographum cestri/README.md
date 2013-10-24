@@ -1,5 +1,4 @@
-Aulographum cestri R.W. Ryan SPECIES
-=======
+# Aulographum cestri R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

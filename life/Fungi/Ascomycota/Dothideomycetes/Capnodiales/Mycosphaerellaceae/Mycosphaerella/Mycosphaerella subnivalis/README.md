@@ -1,5 +1,4 @@
-Mycosphaerella subnivalis (Rehm) Lindau SPECIES
-=======
+# Mycosphaerella subnivalis (Rehm) Lindau SPECIES
 
 #### Status
 ACCEPTED

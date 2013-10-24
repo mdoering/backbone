@@ -1,5 +1,4 @@
-Phoma planiuscula P. Karst. SPECIES
-=======
+# Phoma planiuscula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus bellum A.P. Jousé SPECIES
-=======
+# Coscinodiscus bellum A.P. Jousé SPECIES
 
 #### Status
 ACCEPTED

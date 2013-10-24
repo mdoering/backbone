@@ -1,5 +1,4 @@
-Clavulina viridula (Bres.) D.A. Reid, 1962 SPECIES
-=======
+# Clavulina viridula (Bres.) D.A. Reid, 1962 SPECIES
 
 #### Status
 ACCEPTED

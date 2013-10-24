@@ -1,5 +1,4 @@
-Ophiodothis rostrupii Ferd. & Winge SPECIES
-=======
+# Ophiodothis rostrupii Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

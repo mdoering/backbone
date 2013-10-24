@@ -1,5 +1,4 @@
-Dendrophoma lignorum Schulzer & Sacc. SPECIES
-=======
+# Dendrophoma lignorum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eomycetopsis robusta J.W. Schopf SPECIES
-=======
+# Eomycetopsis robusta J.W. Schopf SPECIES
 
 #### Status
 ACCEPTED

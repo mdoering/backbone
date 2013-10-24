@@ -1,5 +1,4 @@
-Alternaria hortensiae Unamuno ex E.G. Simmons SPECIES
-=======
+# Alternaria hortensiae Unamuno ex E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

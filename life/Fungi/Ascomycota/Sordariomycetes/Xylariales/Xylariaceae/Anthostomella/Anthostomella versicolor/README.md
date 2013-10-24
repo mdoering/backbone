@@ -1,5 +1,4 @@
-Anthostomella versicolor Starbäck SPECIES
-=======
+# Anthostomella versicolor Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fumosiavellanea Murrill SPECIES
-=======
+# Mycena fumosiavellanea Murrill SPECIES
 
 #### Status
 ACCEPTED

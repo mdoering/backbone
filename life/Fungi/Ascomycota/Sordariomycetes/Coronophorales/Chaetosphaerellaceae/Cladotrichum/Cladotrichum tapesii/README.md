@@ -1,5 +1,4 @@
-Cladotrichum tapesii Sacc. SPECIES
-=======
+# Cladotrichum tapesii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella hyoscyami Syd. SPECIES
-=======
+# Didymella hyoscyami Syd. SPECIES
 
 #### Status
 ACCEPTED

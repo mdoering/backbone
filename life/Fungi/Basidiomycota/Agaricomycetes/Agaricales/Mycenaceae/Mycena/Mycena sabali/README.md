@@ -1,5 +1,4 @@
-Mycena sabali Murrill SPECIES
-=======
+# Mycena sabali Murrill SPECIES
 
 #### Status
 ACCEPTED

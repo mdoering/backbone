@@ -1,5 +1,4 @@
-Endophragmia canadensis (Ellis & Everh.) Matsush. SPECIES
-=======
+# Endophragmia canadensis (Ellis & Everh.) Matsush. SPECIES
 
 #### Status
 ACCEPTED

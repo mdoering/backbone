@@ -1,5 +1,4 @@
-Rhizosphaera oudemansii Maubl. SPECIES
-=======
+# Rhizosphaera oudemansii Maubl. SPECIES
 
 #### Status
 ACCEPTED

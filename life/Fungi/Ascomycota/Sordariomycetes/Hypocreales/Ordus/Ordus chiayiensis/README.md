@@ -1,5 +1,4 @@
-Ordus chiayiensis (Matsush.) K. Ando, Tubaki & Katum. SPECIES
-=======
+# Ordus chiayiensis (Matsush.) K. Ando, Tubaki & Katum. SPECIES
 
 #### Status
 ACCEPTED

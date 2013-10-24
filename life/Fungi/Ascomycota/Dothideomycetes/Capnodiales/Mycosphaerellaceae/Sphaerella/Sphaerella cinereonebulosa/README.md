@@ -1,5 +1,4 @@
-Sphaerella cinereonebulosa (Desm.) Sacc. SPECIES
-=======
+# Sphaerella cinereonebulosa (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetophoma paulistana Speg. SPECIES
-=======
+# Chaetophoma paulistana Speg. SPECIES
 
 #### Status
 ACCEPTED

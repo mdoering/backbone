@@ -1,5 +1,4 @@
-Entoloma novum E. Horak SPECIES
-=======
+# Entoloma novum E. Horak SPECIES
 
 #### Status
 ACCEPTED

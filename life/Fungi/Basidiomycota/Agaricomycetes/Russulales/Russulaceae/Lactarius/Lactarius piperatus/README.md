@@ -1,17 +1,16 @@
-Agaricus piperatus var. piperatus VARIETY
-=======
+# Lactarius piperatus (L.) Pers., 1797 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sp. pl. 2: 1173 (1753)
+Tent. disp. meth. fung. (Lipsiae) 64 (1797)
 
 #### Original name
-Agaricus piperatus var. piperatus
+Lactarius piperatus (L.) Pers., 1797
 
 ### Remarks
 null

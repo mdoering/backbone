@@ -1,14 +1,13 @@
-Parmelina baguioensis (Hale) Hale SPECIES
-=======
+# Hypotrachyna baguioensis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 28(5): 482 (1974)
+Smithson. Contr. bot. 33: 53 (1976)
 
 #### Original name
 Parmelia baguioensis Hale

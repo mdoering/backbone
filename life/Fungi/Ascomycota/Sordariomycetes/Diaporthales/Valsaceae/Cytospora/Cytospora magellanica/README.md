@@ -1,5 +1,4 @@
-Cytospora magellanica Speg. SPECIES
-=======
+# Cytospora magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

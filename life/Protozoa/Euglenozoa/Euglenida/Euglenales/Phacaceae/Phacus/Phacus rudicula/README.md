@@ -1,5 +1,4 @@
-Phacus rudicula Pochmann SPECIES
-=======
+# Phacus rudicula Pochmann SPECIES
 
 #### Status
 ACCEPTED

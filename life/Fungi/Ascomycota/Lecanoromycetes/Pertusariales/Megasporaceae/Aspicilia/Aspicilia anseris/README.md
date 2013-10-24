@@ -1,5 +1,4 @@
-Aspicilia anseris (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia anseris (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

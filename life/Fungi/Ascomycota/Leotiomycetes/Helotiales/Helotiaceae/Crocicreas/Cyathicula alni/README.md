@@ -1,5 +1,4 @@
-Cyathicula alni Kauffman & Kanouse SPECIES
-=======
+# Cyathicula alni Kauffman & Kanouse SPECIES
 
 #### Status
 ACCEPTED

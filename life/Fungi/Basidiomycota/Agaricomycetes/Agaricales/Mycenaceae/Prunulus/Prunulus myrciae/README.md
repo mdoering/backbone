@@ -1,5 +1,4 @@
-Prunulus myrciae (Pat.) Murrill SPECIES
-=======
+# Prunulus myrciae (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

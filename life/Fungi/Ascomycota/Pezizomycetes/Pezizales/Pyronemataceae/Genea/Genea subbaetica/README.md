@@ -1,5 +1,4 @@
-Genea subbaetica Mor.-Arr., J. Gómez & Calonge SPECIES
-=======
+# Genea subbaetica Mor.-Arr., J. Gómez & Calonge SPECIES
 
 #### Status
 ACCEPTED

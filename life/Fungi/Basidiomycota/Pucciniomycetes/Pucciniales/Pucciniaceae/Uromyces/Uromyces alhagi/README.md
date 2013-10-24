@@ -1,5 +1,4 @@
-Uromyces alhagi Szemb. SPECIES
-=======
+# Uromyces alhagi Szemb. SPECIES
 
 #### Status
 ACCEPTED

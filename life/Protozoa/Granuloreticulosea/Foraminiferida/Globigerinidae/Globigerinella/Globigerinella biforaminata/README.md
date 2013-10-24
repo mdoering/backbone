@@ -1,5 +1,4 @@
-Globigerinella biforaminata Hofker, 1956 SPECIES
-=======
+# Globigerinella biforaminata Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

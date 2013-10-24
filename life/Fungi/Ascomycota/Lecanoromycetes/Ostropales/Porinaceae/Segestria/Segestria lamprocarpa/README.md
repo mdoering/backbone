@@ -1,5 +1,4 @@
-Segestria lamprocarpa (Stirt.) Hellb. SPECIES
-=======
+# Segestria lamprocarpa (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

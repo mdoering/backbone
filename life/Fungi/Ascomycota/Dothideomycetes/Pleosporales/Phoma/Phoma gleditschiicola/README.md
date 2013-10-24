@@ -1,8 +1,7 @@
-Phoma gleditschiaecola Brunaud SPECIES
-=======
+# Phoma gleditschiicola Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma gleditschiaecola Brunaud
+Phoma gleditschiicola Brunaud
 
 ### Remarks
 null

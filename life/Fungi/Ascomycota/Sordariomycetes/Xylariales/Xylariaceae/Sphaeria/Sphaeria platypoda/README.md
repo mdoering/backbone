@@ -1,5 +1,4 @@
-Sphaeria platypoda Lév. SPECIES
-=======
+# Sphaeria platypoda Lév. SPECIES
 
 #### Status
 ACCEPTED

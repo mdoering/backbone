@@ -1,5 +1,4 @@
-Rhachosoarium lappaceum Tappan & Loeblich, 1971 SPECIES
-=======
+# Rhachosoarium lappaceum Tappan & Loeblich, 1971 SPECIES
 
 #### Status
 ACCEPTED

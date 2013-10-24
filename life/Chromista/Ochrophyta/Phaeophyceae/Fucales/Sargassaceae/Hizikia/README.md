@@ -1,5 +1,4 @@
-Hizikia Okamura, 1932 GENUS
-=======
+# Hizikia Okamura, 1932 GENUS
 
 #### Status
 ACCEPTED

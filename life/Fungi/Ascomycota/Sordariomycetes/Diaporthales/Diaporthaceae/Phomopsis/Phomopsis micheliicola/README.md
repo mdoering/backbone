@@ -1,5 +1,4 @@
-Phomopsis micheliicola Z.D. Jiang, P.K. Chi & M.M. Xiang SPECIES
-=======
+# Phomopsis micheliicola Z.D. Jiang, P.K. Chi & M.M. Xiang SPECIES
 
 #### Status
 ACCEPTED

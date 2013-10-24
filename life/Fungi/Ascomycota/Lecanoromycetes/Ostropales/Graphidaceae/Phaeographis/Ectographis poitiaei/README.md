@@ -1,5 +1,4 @@
-Ectographis poitiaei (Fée) Trevis. SPECIES
-=======
+# Ectographis poitiaei (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

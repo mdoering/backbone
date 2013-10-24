@@ -1,5 +1,4 @@
-Hexagonia mirabilis Lloyd SPECIES
-=======
+# Hexagonia mirabilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

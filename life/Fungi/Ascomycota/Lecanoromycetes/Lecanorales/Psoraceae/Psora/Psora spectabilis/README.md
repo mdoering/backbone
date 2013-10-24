@@ -1,5 +1,4 @@
-Psora spectabilis (Flörke) Anzi SPECIES
-=======
+# Psora spectabilis (Flörke) Anzi SPECIES
 
 #### Status
 ACCEPTED

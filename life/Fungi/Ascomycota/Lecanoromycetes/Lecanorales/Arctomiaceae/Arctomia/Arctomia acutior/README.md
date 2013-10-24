@@ -1,5 +1,4 @@
-Arctomia acutior (Nyl.) Vain. SPECIES
-=======
+# Arctomia acutior (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

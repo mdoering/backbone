@@ -1,5 +1,4 @@
-Septoria bonteae D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria bonteae D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

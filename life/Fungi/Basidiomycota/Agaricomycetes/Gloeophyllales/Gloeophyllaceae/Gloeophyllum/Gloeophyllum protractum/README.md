@@ -1,17 +1,16 @@
-Polyporus ufensis (P. Karst.) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Gloeophyllum protractum (Fr.) Imazeki, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 115 (1905)
+Bull. Tokyo Sci. Mus. 6: 75 (1943)
 
 #### Original name
-Inonotus ufensis P. Karst., 1904
+Trametes protracta Fr., 1851
 
 ### Remarks
 null

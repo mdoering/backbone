@@ -1,5 +1,4 @@
-Trichospira verticillata SPECIES
-=======
+# Trichospira verticillata SPECIES
 
 #### Status
 ACCEPTED

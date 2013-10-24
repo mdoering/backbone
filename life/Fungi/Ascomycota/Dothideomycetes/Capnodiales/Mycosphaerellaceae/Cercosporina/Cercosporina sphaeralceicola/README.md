@@ -1,5 +1,4 @@
-Cercosporina sphaeralceicola Speg. SPECIES
-=======
+# Cercosporina sphaeralceicola Speg. SPECIES
 
 #### Status
 ACCEPTED

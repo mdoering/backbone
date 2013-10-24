@@ -1,5 +1,4 @@
-Tintinnopsella simplex Radoicic, 1969 SPECIES
-=======
+# Tintinnopsella simplex Radoicic, 1969 SPECIES
 
 #### Status
 ACCEPTED

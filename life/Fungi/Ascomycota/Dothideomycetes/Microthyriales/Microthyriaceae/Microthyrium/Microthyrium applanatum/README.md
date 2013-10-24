@@ -1,5 +1,4 @@
-Microthyrium applanatum Rehm SPECIES
-=======
+# Microthyrium applanatum Rehm SPECIES
 
 #### Status
 ACCEPTED

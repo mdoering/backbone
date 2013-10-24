@@ -1,5 +1,4 @@
-Cladosporium salicis Moesz & Smarods SPECIES
-=======
+# Cladosporium salicis Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

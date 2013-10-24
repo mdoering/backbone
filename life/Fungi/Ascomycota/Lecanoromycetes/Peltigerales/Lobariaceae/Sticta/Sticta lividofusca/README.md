@@ -1,5 +1,4 @@
-Sticta lividofusca Kremp. SPECIES
-=======
+# Sticta lividofusca Kremp. SPECIES
 
 #### Status
 ACCEPTED

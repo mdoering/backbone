@@ -1,5 +1,4 @@
-Siphonaspis GENUS
-=======
+# Siphonaspis GENUS
 
 #### Status
 ACCEPTED

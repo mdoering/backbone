@@ -1,5 +1,4 @@
-Paleolituonella GENUS
-=======
+# Paleolituonella GENUS
 
 #### Status
 ACCEPTED

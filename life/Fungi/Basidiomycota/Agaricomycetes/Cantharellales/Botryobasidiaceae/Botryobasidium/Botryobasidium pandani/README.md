@@ -1,5 +1,4 @@
-Botryobasidium pandani Boidin & Gilles, 1982 SPECIES
-=======
+# Botryobasidium pandani Boidin & Gilles, 1982 SPECIES
 
 #### Status
 ACCEPTED

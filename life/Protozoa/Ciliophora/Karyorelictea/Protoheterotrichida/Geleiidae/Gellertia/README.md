@@ -1,5 +1,4 @@
-Gellertia Dragesco, 1999 GENUS
-=======
+# Gellertia Dragesco, 1999 GENUS
 
 #### Status
 ACCEPTED

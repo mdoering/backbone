@@ -1,5 +1,4 @@
-Stevensomyces E.F. Morris & Finley GENUS
-=======
+# Stevensomyces E.F. Morris & Finley GENUS
 
 #### Status
 ACCEPTED

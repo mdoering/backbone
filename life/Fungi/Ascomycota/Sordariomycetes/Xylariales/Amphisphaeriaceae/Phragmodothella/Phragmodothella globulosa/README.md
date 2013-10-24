@@ -1,5 +1,4 @@
-Phragmodothella globulosa (Cooke & Massee) Theiss. & Syd. SPECIES
-=======
+# Phragmodothella globulosa (Cooke & Massee) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

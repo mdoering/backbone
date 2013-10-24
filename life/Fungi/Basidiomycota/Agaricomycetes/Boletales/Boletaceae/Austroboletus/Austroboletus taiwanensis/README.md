@@ -1,5 +1,4 @@
-Austroboletus taiwanensis Zang & C.M. Chien SPECIES
-=======
+# Austroboletus taiwanensis Zang & C.M. Chien SPECIES
 
 #### Status
 ACCEPTED

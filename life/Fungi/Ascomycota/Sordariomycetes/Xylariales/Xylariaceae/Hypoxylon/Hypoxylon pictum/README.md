@@ -1,5 +1,4 @@
-Hypoxylon pictum Berk. SPECIES
-=======
+# Hypoxylon pictum Berk. SPECIES
 
 #### Status
 ACCEPTED

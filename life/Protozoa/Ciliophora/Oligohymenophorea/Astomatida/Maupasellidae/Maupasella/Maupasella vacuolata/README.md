@@ -1,5 +1,4 @@
-Maupasella vacuolata Lom, 1959 SPECIES
-=======
+# Maupasella vacuolata Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

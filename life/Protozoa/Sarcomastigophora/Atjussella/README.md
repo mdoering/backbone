@@ -1,5 +1,4 @@
-Atjussella Petrova, 1981 GENUS
-=======
+# Atjussella Petrova, 1981 GENUS
 
 #### Status
 ACCEPTED

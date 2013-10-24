@@ -1,5 +1,4 @@
-Puccinia sublesta Cummins SPECIES
-=======
+# Puccinia sublesta Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium mozinnae Arthur SPECIES
-=======
+# Aecidium mozinnae Arthur SPECIES
 
 #### Status
 ACCEPTED

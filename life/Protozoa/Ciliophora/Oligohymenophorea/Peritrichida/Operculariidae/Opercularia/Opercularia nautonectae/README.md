@@ -1,5 +1,4 @@
-Opercularia nautonectae Faure-Fremiet, 1905 SPECIES
-=======
+# Opercularia nautonectae Faure-Fremiet, 1905 SPECIES
 
 #### Status
 ACCEPTED

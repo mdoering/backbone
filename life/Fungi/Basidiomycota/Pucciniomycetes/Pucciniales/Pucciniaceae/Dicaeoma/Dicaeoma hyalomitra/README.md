@@ -1,5 +1,4 @@
-Dicaeoma hyalomitra (Dietel & Holw.) Kuntze SPECIES
-=======
+# Dicaeoma hyalomitra (Dietel & Holw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

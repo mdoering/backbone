@@ -1,5 +1,4 @@
-Lathagrium multipartiens (Nyl.) Szatala SPECIES
-=======
+# Lathagrium multipartiens (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

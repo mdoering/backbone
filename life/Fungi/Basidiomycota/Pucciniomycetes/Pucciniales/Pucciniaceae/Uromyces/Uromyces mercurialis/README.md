@@ -1,5 +1,4 @@
-Uromyces mercurialis Henn. SPECIES
-=======
+# Uromyces mercurialis Henn. SPECIES
 
 #### Status
 ACCEPTED

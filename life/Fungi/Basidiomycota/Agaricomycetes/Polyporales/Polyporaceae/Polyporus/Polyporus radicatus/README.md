@@ -1,17 +1,16 @@
-Scutiger radicatus (Schwein.) Murrill, 1903 SPECIES
-=======
+# Polyporus radicatus Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 30(8): 430 (1903)
+Trans. Am. phil. Soc. 4(2): 155 (1832)
 
 #### Original name
-Boletus radicatus Schwein.
+Polyporus radicatus Schwein., 1832
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chaetophoma setigera Peck SPECIES
-=======
+# Chaetophoma setigera Peck SPECIES
 
 #### Status
 ACCEPTED

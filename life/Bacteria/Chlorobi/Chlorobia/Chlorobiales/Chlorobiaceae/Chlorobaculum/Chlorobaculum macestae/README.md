@@ -1,5 +1,4 @@
-Chlorobaculum macestae Keppen, Berg, Lebedeva, Taisova, Kolganova, Slobodova, Bulygina, Tourova & Ivanovsky, 2008 SPECIES
-=======
+# Chlorobaculum macestae Keppen, Berg, Lebedeva, Taisova, Kolganova, Slobodova, Bulygina, Tourova & Ivanovsky, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subsmaragdina Reumaux SPECIES
-=======
+# Russula subsmaragdina Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma capitatum J. Erikss. & Å. Strid, 1975 SPECIES
-=======
+# Hyphoderma capitatum J. Erikss. & Å. Strid, 1975 SPECIES
 
 #### Status
 ACCEPTED

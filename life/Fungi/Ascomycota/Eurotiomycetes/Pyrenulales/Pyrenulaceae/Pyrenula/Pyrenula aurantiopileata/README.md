@@ -1,5 +1,4 @@
-Pyrenula aurantiopileata Aptroot SPECIES
-=======
+# Pyrenula aurantiopileata Aptroot SPECIES
 
 #### Status
 ACCEPTED

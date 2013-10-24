@@ -1,5 +1,4 @@
-Olpidium laguncula H.E. Petersen SPECIES
-=======
+# Olpidium laguncula H.E. Petersen SPECIES
 
 #### Status
 ACCEPTED

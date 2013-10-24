@@ -1,5 +1,4 @@
-Anthostomella rattanicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
-=======
+# Anthostomella rattanicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
 
 #### Status
 ACCEPTED

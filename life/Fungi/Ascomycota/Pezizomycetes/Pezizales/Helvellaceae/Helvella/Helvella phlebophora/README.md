@@ -1,17 +1,16 @@
-Globopilea phlebophora (Pat. & Doass.) Beauseign., 1926 SPECIES
-=======
+# Helvella phlebophora Pat. & Doass., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 20 (1889)
 
 #### Original name
-null
+Helvella phlebophora Pat. & Doass., 1886
 
 ### Remarks
 null

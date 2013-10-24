@@ -1,5 +1,4 @@
-Staphylococcus pasteuri Chesneau et al., 1993 SPECIES
-=======
+# Staphylococcus pasteuri Chesneau et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

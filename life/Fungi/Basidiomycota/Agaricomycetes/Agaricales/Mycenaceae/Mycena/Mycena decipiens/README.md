@@ -1,5 +1,4 @@
-Mycena decipiens (Overeem) Métrod SPECIES
-=======
+# Mycena decipiens (Overeem) Métrod SPECIES
 
 #### Status
 ACCEPTED

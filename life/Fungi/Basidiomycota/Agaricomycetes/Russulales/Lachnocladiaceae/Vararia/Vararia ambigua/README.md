@@ -1,5 +1,4 @@
-Vararia ambigua Boidin, Lanq. & Gilles, 1980 SPECIES
-=======
+# Vararia ambigua Boidin, Lanq. & Gilles, 1980 SPECIES
 
 #### Status
 ACCEPTED

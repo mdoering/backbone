@@ -1,5 +1,4 @@
-Sphaceloma catalpae Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma catalpae Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

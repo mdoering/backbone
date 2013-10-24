@@ -1,5 +1,4 @@
-Corynebacterium xerose SPECIES
-=======
+# Corynebacterium xerose SPECIES
 
 #### Status
 ACCEPTED

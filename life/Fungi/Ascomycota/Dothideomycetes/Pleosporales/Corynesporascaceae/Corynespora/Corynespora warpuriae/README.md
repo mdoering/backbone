@@ -1,5 +1,4 @@
-Corynespora warpuriae (Wakef.) M.B. Ellis SPECIES
-=======
+# Corynespora warpuriae (Wakef.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora iteae (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora iteae (Sawada & Katsuki) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

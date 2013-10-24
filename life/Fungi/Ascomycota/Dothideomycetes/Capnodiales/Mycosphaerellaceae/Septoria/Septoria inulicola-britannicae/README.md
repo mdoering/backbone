@@ -1,17 +1,16 @@
-Septoria inulicola-britanicae D.N. Babajan & Savinceva SPECIES
-=======
+# Septoria inulicola-britannicae D.N. Babajan & Savinceva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Uchen. Zap. Yerev. Gos. Univ. , Est. nauk. Biol. 71 (1972)
 
 #### Original name
-Septoria inulicola-britanicae D.N. Babajan & Savinceva
+Septoria inulicola-britannicae D.N. Babajan & Savinceva
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Gnomonia alnea (Fr.) Sogonov, 2008 SPECIES
-=======
+# Plagiostoma alneum (Fr.) Arx, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 17: 264 (1951)
 
 #### Original name
-null
+Sphaeria alnea Fr., 1815
 
 ### Remarks
 null

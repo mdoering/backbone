@@ -1,5 +1,4 @@
-Teratosperma lichenicola D. Hawksw. SPECIES
-=======
+# Teratosperma lichenicola D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha fineranii C.W. Dodge SPECIES
-=======
+# Opegrapha fineranii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia hendersonioides (Fautrey) Sacc. SPECIES
-=======
+# Monochaetia hendersonioides (Fautrey) Sacc. SPECIES
 
 #### Status
 ACCEPTED

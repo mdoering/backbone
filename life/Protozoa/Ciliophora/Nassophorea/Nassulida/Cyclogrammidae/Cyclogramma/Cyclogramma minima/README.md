@@ -1,5 +1,4 @@
-Cyclogramma minima Minkiewicz, 1899 SPECIES
-=======
+# Cyclogramma minima Minkiewicz, 1899 SPECIES
 
 #### Status
 ACCEPTED

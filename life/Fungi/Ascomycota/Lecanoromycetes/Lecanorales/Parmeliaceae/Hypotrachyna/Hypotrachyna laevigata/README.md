@@ -1,17 +1,16 @@
-Parmelia laevigata var. laevigata VARIETY
-=======
+# Hypotrachyna laevigata (Sm.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 212 (1814)
+Smithson. Contr. bot. 25: 44 (1975)
 
 #### Original name
-Parmelia laevigata var. laevigata
+Lichen laevigatus Sm.
 
 ### Remarks
 null

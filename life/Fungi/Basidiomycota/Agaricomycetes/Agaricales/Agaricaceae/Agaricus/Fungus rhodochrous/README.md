@@ -1,5 +1,4 @@
-Fungus rhodochrous (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus rhodochrous (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

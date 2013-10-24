@@ -1,5 +1,4 @@
-Russula aeruginascens Peck SPECIES
-=======
+# Russula aeruginascens Peck SPECIES
 
 #### Status
 ACCEPTED

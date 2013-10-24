@@ -1,5 +1,4 @@
-Peziza stipiticola Schwein. SPECIES
-=======
+# Peziza stipiticola Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora sulphureorufa Nyl. SPECIES
-=======
+# Lecanora sulphureorufa Nyl. SPECIES
 
 #### Status
 ACCEPTED

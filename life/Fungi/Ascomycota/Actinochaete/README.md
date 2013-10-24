@@ -1,5 +1,4 @@
-Actinochaete Ferro GENUS
-=======
+# Actinochaete Ferro GENUS
 
 #### Status
 ACCEPTED

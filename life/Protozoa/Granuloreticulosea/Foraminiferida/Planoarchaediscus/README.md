@@ -1,5 +1,4 @@
-Planoarchaediscus Miklukho-Maklay, 1956 GENUS
-=======
+# Planoarchaediscus Miklukho-Maklay, 1956 GENUS
 
 #### Status
 ACCEPTED

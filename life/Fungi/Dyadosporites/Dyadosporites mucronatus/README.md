@@ -1,5 +1,4 @@
-Dyadosporites mucronatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites mucronatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

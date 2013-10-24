@@ -1,5 +1,4 @@
-Rickia dominicensis Thaxt. SPECIES
-=======
+# Rickia dominicensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

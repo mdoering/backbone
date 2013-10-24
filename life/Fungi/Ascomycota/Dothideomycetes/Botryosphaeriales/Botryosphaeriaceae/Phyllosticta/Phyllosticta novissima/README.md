@@ -1,5 +1,4 @@
-Phyllosticta novissima (Bres.) Gonz. Frag. SPECIES
-=======
+# Phyllosticta novissima (Bres.) Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

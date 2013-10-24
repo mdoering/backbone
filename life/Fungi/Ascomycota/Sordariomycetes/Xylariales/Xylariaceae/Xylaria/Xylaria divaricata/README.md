@@ -1,5 +1,4 @@
-Xylaria divaricata (Fée) Sacc. SPECIES
-=======
+# Xylaria divaricata (Fée) Sacc. SPECIES
 
 #### Status
 ACCEPTED

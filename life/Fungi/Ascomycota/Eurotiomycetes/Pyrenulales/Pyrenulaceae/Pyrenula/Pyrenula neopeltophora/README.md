@@ -1,5 +1,4 @@
-Pyrenula neopeltophora Ajay Singh SPECIES
-=======
+# Pyrenula neopeltophora Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

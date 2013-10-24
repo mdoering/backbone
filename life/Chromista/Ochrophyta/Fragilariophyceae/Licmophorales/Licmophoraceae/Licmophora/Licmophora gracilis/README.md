@@ -1,8 +1,7 @@
-Licmophora gracilis f. elongata (Kützing) Hustedt FORM
-=======
+# Licmophora gracilis (Ehrenberg) Grunow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

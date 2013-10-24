@@ -1,5 +1,4 @@
-Allantogloea Pascher GENUS
-=======
+# Allantogloea Pascher GENUS
 
 #### Status
 ACCEPTED

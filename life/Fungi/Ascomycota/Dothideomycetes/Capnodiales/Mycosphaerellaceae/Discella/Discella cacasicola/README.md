@@ -1,5 +1,4 @@
-Discella cacasicola Appel & Strunk SPECIES
-=======
+# Discella cacasicola Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

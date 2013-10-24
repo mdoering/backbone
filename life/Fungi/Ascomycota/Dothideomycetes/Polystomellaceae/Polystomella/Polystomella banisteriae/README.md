@@ -1,5 +1,4 @@
-Polystomella banisteriae (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Polystomella banisteriae (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

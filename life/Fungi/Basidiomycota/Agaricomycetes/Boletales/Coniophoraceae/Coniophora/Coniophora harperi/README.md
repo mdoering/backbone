@@ -1,5 +1,4 @@
-Coniophora harperi Burt SPECIES
-=======
+# Coniophora harperi Burt SPECIES
 
 #### Status
 ACCEPTED

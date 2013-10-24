@@ -1,5 +1,4 @@
-Scindalma placopus (Lév.) Kuntze SPECIES
-=======
+# Scindalma placopus (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma albocinctum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma albocinctum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

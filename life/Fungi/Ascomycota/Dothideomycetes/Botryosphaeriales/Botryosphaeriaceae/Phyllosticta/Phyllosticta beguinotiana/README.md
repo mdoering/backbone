@@ -1,5 +1,4 @@
-Phyllosticta beguinotiana Sacc. SPECIES
-=======
+# Phyllosticta beguinotiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

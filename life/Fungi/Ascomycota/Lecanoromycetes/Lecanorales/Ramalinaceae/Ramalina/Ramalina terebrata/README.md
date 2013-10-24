@@ -1,5 +1,4 @@
-Ramalina terebrata Hook. f. & Taylor SPECIES
-=======
+# Ramalina terebrata Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

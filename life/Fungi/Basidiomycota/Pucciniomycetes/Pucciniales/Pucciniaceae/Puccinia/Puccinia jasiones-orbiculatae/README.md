@@ -1,5 +1,4 @@
-Puccinia jasiones-orbiculatae Hafellner SPECIES
-=======
+# Puccinia jasiones-orbiculatae Hafellner SPECIES
 
 #### Status
 ACCEPTED

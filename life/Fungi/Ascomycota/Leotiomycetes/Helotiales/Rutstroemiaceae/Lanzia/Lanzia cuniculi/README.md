@@ -1,14 +1,13 @@
-Helotium cuniculi Boud., 1897 SPECIES
-=======
+# Lanzia cuniculi (Boud.) Dumont, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13(1): 16 (1897)
+Mycologia 67(2): 326 (1975)
 
 #### Original name
 Helotium cuniculi Boud., 1897

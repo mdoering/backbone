@@ -1,5 +1,4 @@
-Typhula translucens Berk. & Broome SPECIES
-=======
+# Typhula translucens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

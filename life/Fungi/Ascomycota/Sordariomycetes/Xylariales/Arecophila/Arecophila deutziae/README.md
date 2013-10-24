@@ -1,5 +1,4 @@
-Arecophila deutziae (E. Müll.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Arecophila deutziae (E. Müll.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype palmarum var. palmarum VARIETY
-=======
+# Diatrype palmarum Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diatrype palmarum var. palmarum
+Diatrype palmarum Rick
 
 ### Remarks
 null

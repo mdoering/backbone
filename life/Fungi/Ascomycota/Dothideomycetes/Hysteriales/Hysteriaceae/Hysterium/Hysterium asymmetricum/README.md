@@ -1,5 +1,4 @@
-Hysterium asymmetricum Checa, Shoemaker & Umaña, 2007 SPECIES
-=======
+# Hysterium asymmetricum Checa, Shoemaker & Umaña, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endomyces scopularum Helfer, 1991 SPECIES
-=======
+# Endomyces scopularum Helfer, 1991 SPECIES
 
 #### Status
 ACCEPTED

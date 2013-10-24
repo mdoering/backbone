@@ -1,5 +1,4 @@
-Diplodia hungarica Bubák SPECIES
-=======
+# Diplodia hungarica Bubák SPECIES
 
 #### Status
 ACCEPTED

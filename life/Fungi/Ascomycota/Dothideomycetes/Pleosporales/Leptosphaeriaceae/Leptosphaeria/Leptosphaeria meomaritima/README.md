@@ -1,5 +1,4 @@
-Leptosphaeria meomaritima R.V. Gessner & Kohlm. SPECIES
-=======
+# Leptosphaeria meomaritima R.V. Gessner & Kohlm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus acidominimus Ayers and Mudge, 1922 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus acidominimus Ayers and Mudge, 1922 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

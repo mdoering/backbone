@@ -1,5 +1,4 @@
-Arachnoidiscales Round ORDER
-=======
+# Arachnoidiscales Round ORDER
 
 #### Status
 ACCEPTED

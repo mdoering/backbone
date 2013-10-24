@@ -1,5 +1,4 @@
-Epicoccum pallescens Berk., 1855 SPECIES
-=======
+# Epicoccum pallescens Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

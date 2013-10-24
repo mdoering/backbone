@@ -1,5 +1,4 @@
-Lalaria virginica R.T. Moore SPECIES
-=======
+# Lalaria virginica R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

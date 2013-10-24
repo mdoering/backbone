@@ -1,5 +1,4 @@
-Marasmius mundulus Singer SPECIES
-=======
+# Marasmius mundulus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium subsimile Sacc. SPECIES
-=======
+# Helminthosporium subsimile Sacc. SPECIES
 
 #### Status
 ACCEPTED

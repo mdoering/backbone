@@ -1,5 +1,4 @@
-Marasmius oleae Quél. SPECIES
-=======
+# Marasmius oleae Quél. SPECIES
 
 #### Status
 ACCEPTED

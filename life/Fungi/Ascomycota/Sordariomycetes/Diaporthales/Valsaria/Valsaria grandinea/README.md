@@ -1,5 +1,4 @@
-Valsaria grandinea (Berk.) Berl. & Voglino SPECIES
-=======
+# Valsaria grandinea (Berk.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

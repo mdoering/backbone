@@ -1,5 +1,4 @@
-Cystomyces Syd. GENUS
-=======
+# Cystomyces Syd. GENUS
 
 #### Status
 ACCEPTED

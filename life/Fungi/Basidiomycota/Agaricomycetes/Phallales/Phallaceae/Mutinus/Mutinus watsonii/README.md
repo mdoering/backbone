@@ -1,8 +1,7 @@
-Mutinus watsoni (Berk.) E. Fisch. SPECIES
-=======
+# Mutinus watsonii (Berk.) E. Fisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

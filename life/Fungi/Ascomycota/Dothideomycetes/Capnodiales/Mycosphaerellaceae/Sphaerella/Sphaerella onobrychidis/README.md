@@ -1,5 +1,4 @@
-Sphaerella onobrychidis Hollós SPECIES
-=======
+# Sphaerella onobrychidis Hollós SPECIES
 
 #### Status
 ACCEPTED

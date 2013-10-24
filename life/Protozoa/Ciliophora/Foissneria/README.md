@@ -1,5 +1,4 @@
-Foissneria Mirabdullayev, 1986 GENUS
-=======
+# Foissneria Mirabdullayev, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora glauca (Tomin) Tomin SPECIES
-=======
+# Lecanora glauca (Tomin) Tomin SPECIES
 
 #### Status
 ACCEPTED

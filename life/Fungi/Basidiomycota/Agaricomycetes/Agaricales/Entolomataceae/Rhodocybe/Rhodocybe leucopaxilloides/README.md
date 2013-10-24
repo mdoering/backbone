@@ -1,5 +1,4 @@
-Rhodocybe leucopaxilloides (H.E. Bigelow & A.H. Sm.) Singer SPECIES
-=======
+# Rhodocybe leucopaxilloides (H.E. Bigelow & A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

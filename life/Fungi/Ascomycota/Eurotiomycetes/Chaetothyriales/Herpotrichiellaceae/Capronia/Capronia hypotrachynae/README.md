@@ -1,5 +1,4 @@
-Capronia hypotrachynae Etayo & Diederich SPECIES
-=======
+# Capronia hypotrachynae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

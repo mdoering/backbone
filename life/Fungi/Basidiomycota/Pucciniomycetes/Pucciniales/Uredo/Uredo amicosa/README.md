@@ -1,5 +1,4 @@
-Uredo amicosa Arthur SPECIES
-=======
+# Uredo amicosa Arthur SPECIES
 
 #### Status
 ACCEPTED

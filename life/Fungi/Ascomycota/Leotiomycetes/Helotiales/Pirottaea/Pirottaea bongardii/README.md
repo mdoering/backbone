@@ -1,5 +1,4 @@
-Pirottaea bongardii (Weinm.) Rehm ex Jaap SPECIES
-=======
+# Pirottaea bongardii (Weinm.) Rehm ex Jaap SPECIES
 
 #### Status
 ACCEPTED

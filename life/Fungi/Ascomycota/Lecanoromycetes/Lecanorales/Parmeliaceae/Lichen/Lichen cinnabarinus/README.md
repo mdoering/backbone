@@ -1,5 +1,4 @@
-Lichen cinnabarinus Bellardi SPECIES
-=======
+# Lichen cinnabarinus Bellardi SPECIES
 
 #### Status
 ACCEPTED

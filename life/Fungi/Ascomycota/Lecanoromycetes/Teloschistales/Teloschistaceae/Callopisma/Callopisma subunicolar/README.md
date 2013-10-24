@@ -1,5 +1,4 @@
-Callopisma subunicolar SPECIES
-=======
+# Callopisma subunicolar SPECIES
 
 #### Status
 ACCEPTED

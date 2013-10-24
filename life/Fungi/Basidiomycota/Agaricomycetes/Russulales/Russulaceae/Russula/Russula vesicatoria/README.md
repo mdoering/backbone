@@ -1,5 +1,4 @@
-Russula vesicatoria Murrill SPECIES
-=======
+# Russula vesicatoria Murrill SPECIES
 
 #### Status
 ACCEPTED

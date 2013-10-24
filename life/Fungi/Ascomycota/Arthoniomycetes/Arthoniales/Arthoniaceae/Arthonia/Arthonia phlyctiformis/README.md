@@ -1,17 +1,16 @@
-Arthonia phlyctiformis subsp. phlyctiformis SUBSPECIES
-=======
+# Arthonia phlyctiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 163 (1853)
 
 #### Original name
-null
+Arthonia phlyctiformis Nyl.
 
 ### Remarks
 null

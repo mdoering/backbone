@@ -1,5 +1,4 @@
-Phaeosphaeria tenuispora Scheuer SPECIES
-=======
+# Phaeosphaeria tenuispora Scheuer SPECIES
 
 #### Status
 ACCEPTED

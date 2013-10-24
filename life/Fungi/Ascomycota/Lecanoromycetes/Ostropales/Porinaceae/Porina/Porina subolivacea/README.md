@@ -1,5 +1,4 @@
-Porina subolivacea Müll. Arg. SPECIES
-=======
+# Porina subolivacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

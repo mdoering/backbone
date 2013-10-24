@@ -1,5 +1,4 @@
-Opegrapha leucoplaca Müll. Arg. SPECIES
-=======
+# Opegrapha leucoplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma luteifolium Hesler SPECIES
-=======
+# Entoloma luteifolium Hesler SPECIES
 
 #### Status
 ACCEPTED

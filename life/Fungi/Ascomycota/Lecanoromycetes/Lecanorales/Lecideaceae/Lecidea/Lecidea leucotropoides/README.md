@@ -1,5 +1,4 @@
-Lecidea leucotropoides (Vain.) Vain. SPECIES
-=======
+# Lecidea leucotropoides (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

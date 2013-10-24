@@ -1,5 +1,4 @@
-Spizellomtces punctatum (Koch) Barr SPECIES
-=======
+# Spizellomtces punctatum (Koch) Barr SPECIES
 
 #### Status
 ACCEPTED

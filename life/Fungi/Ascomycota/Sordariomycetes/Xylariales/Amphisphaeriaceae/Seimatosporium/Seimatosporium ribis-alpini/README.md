@@ -1,14 +1,13 @@
-Cryptostictis ribis-alpini (Fautrey) Guba, 1961 SPECIES
-=======
+# Seimatosporium ribis-alpini (Fautrey) Shoemaker & E. Müll., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 286 (1961)
+Can. J. Bot. 42: 403 (1964)
 
 #### Original name
 null

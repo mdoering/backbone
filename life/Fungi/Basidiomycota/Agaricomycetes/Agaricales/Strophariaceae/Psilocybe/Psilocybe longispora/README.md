@@ -1,5 +1,4 @@
-Psilocybe longispora Murrill SPECIES
-=======
+# Psilocybe longispora Murrill SPECIES
 
 #### Status
 ACCEPTED

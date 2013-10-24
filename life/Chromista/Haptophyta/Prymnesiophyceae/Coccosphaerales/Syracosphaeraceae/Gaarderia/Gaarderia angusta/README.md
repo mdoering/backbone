@@ -1,5 +1,4 @@
-Gaarderia angusta Carbonell-Moore, 1994 SPECIES
-=======
+# Gaarderia angusta Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

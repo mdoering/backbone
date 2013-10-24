@@ -1,5 +1,4 @@
-Agaricus testaceofulvus Britzelm. SPECIES
-=======
+# Agaricus testaceofulvus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastocladiopsis elegans J.A. Robertson, 1976 SPECIES
-=======
+# Blastocladiopsis elegans J.A. Robertson, 1976 SPECIES
 
 #### Status
 ACCEPTED

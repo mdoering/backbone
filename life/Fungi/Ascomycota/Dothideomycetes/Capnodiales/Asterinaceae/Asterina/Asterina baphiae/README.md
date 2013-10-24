@@ -1,5 +1,4 @@
-Asterina baphiae S. Hughes SPECIES
-=======
+# Asterina baphiae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

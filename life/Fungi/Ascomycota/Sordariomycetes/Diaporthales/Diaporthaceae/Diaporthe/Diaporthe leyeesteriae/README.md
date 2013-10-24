@@ -1,5 +1,4 @@
-Diaporthe leyeesteriae Grove SPECIES
-=======
+# Diaporthe leyeesteriae Grove SPECIES
 
 #### Status
 ACCEPTED

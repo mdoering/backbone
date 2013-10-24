@@ -1,5 +1,4 @@
-Euglena caudata var. minor Deflandre VARIETY
-=======
+# Euglena caudata Hübner SPECIES
 
 #### Status
 ACCEPTED

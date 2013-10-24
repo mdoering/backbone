@@ -1,5 +1,4 @@
-Baltisphaeridium debilispinum SPECIES
-=======
+# Baltisphaeridium debilispinum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciliella epidendri (Rehm) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Ciliella epidendri (Rehm) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia nycteribiae Peyr. SPECIES
-=======
+# Laboulbenia nycteribiae Peyr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus skinneri Phaff & Carmo Souza, 1962 SPECIES
-=======
+# Cryptococcus skinneri Phaff & Carmo Souza, 1962 SPECIES
 
 #### Status
 ACCEPTED

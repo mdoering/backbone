@@ -1,5 +1,4 @@
-Stigmina elaeagni M.B. Ellis SPECIES
-=======
+# Stigmina elaeagni M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

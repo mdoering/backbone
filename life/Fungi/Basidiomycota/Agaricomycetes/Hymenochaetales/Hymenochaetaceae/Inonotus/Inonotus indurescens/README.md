@@ -1,5 +1,4 @@
-Inonotus indurescens Y.C. Dai SPECIES
-=======
+# Inonotus indurescens Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

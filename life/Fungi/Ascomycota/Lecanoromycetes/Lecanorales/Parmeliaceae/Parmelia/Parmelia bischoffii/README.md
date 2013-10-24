@@ -1,5 +1,4 @@
-Parmelia bischoffii (Hepp) Lönnr. SPECIES
-=======
+# Parmelia bischoffii (Hepp) Lönnr. SPECIES
 
 #### Status
 ACCEPTED

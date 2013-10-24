@@ -1,5 +1,4 @@
-Psorinia Gotth. Schneid. GENUS
-=======
+# Psorinia Gotth. Schneid. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Holocoryne (Fr.) Bonord. GENUS
-=======
+# Clavaria Vaillant ex Linnaeus, 1753 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 166 (1851)
+Sp. pl. 2: 1182 (1753)
 
 #### Original name
-null
+Clavaria Vaillant ex Linnaeus, 1753
 
 ### Remarks
 null

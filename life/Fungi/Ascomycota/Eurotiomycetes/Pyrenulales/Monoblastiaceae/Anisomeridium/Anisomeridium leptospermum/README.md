@@ -1,5 +1,4 @@
-Anisomeridium leptospermum (Zahlbr.) R.C. Harris SPECIES
-=======
+# Anisomeridium leptospermum (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

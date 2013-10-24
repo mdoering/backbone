@@ -1,5 +1,4 @@
-Coniothyrium sarcinellae V.P. Sahni SPECIES
-=======
+# Coniothyrium sarcinellae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

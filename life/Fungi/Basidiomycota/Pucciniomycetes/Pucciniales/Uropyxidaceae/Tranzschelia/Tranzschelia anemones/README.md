@@ -1,17 +1,16 @@
-Puccinia anemones var. anemones VARIETY
-=======
+# Tranzschelia anemones (Pers.) Nannf., 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 2: 6 (1800)
+in Lundell & Nannfeldt, Fungi Exsiccati Suecici no. 839a (1939)
 
 #### Original name
-Puccinia anemones var. anemones
+Puccinia anemones Pers., 1800
 
 ### Remarks
 null

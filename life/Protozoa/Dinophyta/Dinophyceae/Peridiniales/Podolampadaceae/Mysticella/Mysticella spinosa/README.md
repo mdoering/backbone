@@ -1,5 +1,4 @@
-Mysticella spinosa M.C.Carbonell-Moore, 1994 SPECIES
-=======
+# Mysticella spinosa M.C.Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

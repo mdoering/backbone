@@ -1,5 +1,4 @@
-Helicosporium indicum P.Rag. Rao & D. Rao, 1964 SPECIES
-=======
+# Helicosporium indicum P.Rag. Rao & D. Rao, 1964 SPECIES
 
 #### Status
 ACCEPTED

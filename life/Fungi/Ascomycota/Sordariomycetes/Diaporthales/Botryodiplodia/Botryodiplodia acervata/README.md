@@ -1,5 +1,4 @@
-Botryodiplodia acervata (Pat.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia acervata (Pat.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

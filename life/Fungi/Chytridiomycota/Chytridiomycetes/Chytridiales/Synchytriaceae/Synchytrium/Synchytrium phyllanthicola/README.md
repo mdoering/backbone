@@ -1,5 +1,4 @@
-Synchytrium phyllanthicola Mishra SPECIES
-=======
+# Synchytrium phyllanthicola Mishra SPECIES
 
 #### Status
 ACCEPTED

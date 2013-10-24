@@ -1,5 +1,4 @@
-Peyritschiella fumosa (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella fumosa (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

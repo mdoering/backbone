@@ -1,5 +1,4 @@
-Cercosporina instabilis (Rangel) Sacc. SPECIES
-=======
+# Cercosporina instabilis (Rangel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

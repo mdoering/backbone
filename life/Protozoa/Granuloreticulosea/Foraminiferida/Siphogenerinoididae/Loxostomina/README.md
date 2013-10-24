@@ -1,5 +1,4 @@
-Loxostomina Sellier de Civrieux, 1968 GENUS
-=======
+# Loxostomina Sellier de Civrieux, 1968 GENUS
 
 #### Status
 ACCEPTED

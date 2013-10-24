@@ -1,5 +1,4 @@
-Cryptococcus minor Pollacci & Nann. SPECIES
-=======
+# Cryptococcus minor Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

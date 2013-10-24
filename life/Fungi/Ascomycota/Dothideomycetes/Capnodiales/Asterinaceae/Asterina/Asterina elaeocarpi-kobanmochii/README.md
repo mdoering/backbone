@@ -1,5 +1,4 @@
-Asterina elaeocarpi-kobanmochii W. Yamam. SPECIES
-=======
+# Asterina elaeocarpi-kobanmochii W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

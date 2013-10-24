@@ -1,8 +1,7 @@
-Arthopyrenia subglobosa Vezda SPECIES
-=======
+# Acrocordia subglobosa (Vezda) Vezda & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

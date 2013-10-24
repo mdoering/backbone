@@ -1,5 +1,4 @@
-Sporisorium euclastae Vánky, 2004 SPECIES
-=======
+# Sporisorium euclastae Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

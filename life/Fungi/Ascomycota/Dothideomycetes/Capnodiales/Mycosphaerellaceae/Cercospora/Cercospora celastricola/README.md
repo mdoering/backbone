@@ -1,5 +1,4 @@
-Cercospora celastricola Govindu & Thirum. SPECIES
-=======
+# Cercospora celastricola Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

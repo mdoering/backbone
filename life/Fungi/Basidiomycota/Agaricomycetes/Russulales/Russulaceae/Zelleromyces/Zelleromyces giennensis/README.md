@@ -1,17 +1,16 @@
-Arcangeliella giennensis (Moreno-Arroya, J. Gómez & Calonge) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces giennensis Mor.-Arr., J. Gómez & Calonge, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 19(1-2): 108 (1998)
 
 #### Original name
-null
+Zelleromyces giennensis Mor.-Arr., J. Gómez & Calonge, 1998
 
 ### Remarks
 null

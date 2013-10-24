@@ -1,5 +1,4 @@
-Catillaria varium anon. SPECIES
-=======
+# Catillaria varium anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sebacina grandinioides (Bourdot & Galzin) D.P. Rogers SPECIES
-=======
+# Sebacina grandinioides (Bourdot & Galzin) D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

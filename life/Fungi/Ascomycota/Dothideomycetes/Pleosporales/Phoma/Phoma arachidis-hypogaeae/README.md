@@ -1,5 +1,4 @@
-Phoma arachidis-hypogaeae (V.G. Rao) Aa & Boerema SPECIES
-=======
+# Phoma arachidis-hypogaeae (V.G. Rao) Aa & Boerema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroidium fuscum Saito SPECIES
-=======
+# Spiroidium fuscum Saito SPECIES
 
 #### Status
 ACCEPTED

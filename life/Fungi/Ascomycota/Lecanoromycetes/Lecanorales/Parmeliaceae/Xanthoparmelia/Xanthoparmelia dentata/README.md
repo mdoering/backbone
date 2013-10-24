@@ -1,5 +1,4 @@
-Xanthoparmelia dentata (J.D. Zhao) J.C. Wei SPECIES
-=======
+# Xanthoparmelia dentata (J.D. Zhao) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

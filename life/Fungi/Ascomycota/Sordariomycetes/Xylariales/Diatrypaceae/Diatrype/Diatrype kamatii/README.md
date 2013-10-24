@@ -1,5 +1,4 @@
-Diatrype kamatii Tilak SPECIES
-=======
+# Diatrype kamatii Tilak SPECIES
 
 #### Status
 ACCEPTED

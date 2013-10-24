@@ -1,5 +1,4 @@
-Nemadiplodia anomala (Mont.) Zambett. SPECIES
-=======
+# Nemadiplodia anomala (Mont.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactrospora jaceae Velen. SPECIES
-=======
+# Bactrospora jaceae Velen. SPECIES
 
 #### Status
 ACCEPTED

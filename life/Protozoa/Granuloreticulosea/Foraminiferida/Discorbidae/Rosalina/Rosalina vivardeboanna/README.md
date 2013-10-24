@@ -1,5 +1,4 @@
-Rosalina vivardeboanna SPECIES
-=======
+# Rosalina vivardeboanna SPECIES
 
 #### Status
 ACCEPTED

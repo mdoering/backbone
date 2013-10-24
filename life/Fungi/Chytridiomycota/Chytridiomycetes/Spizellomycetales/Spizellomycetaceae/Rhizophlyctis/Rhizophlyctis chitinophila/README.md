@@ -1,14 +1,13 @@
-Karlingia chitinophila Karling, 1949 SPECIES
-=======
+# Rhizophlyctis chitinophila (Karling) Sparrow, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(5): 506 (1949)
+Aquatic Phycomycetes (Ann Arbor), Edn 2 444 (1960)
 
 #### Original name
 Karlingia chitinophila Karling, 1949

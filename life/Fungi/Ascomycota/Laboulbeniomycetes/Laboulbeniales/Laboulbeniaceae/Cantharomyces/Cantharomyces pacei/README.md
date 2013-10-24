@@ -1,5 +1,4 @@
-Cantharomyces pacei W. Rossi & Santam. SPECIES
-=======
+# Cantharomyces pacei W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

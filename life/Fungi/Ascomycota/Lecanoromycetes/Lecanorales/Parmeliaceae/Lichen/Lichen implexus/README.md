@@ -1,5 +1,4 @@
-Lichen implexus Lam. SPECIES
-=======
+# Lichen implexus Lam. SPECIES
 
 #### Status
 ACCEPTED

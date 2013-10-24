@@ -1,5 +1,4 @@
-Puccinia jussiaeae Speg. SPECIES
-=======
+# Puccinia jussiaeae Speg. SPECIES
 
 #### Status
 ACCEPTED

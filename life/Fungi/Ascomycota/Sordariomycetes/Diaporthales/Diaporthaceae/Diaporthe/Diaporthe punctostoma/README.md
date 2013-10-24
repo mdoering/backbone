@@ -1,5 +1,4 @@
-Diaporthe punctostoma Ellis SPECIES
-=======
+# Diaporthe punctostoma Ellis SPECIES
 
 #### Status
 ACCEPTED

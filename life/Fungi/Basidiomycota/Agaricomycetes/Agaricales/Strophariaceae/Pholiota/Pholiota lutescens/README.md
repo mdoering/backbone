@@ -1,5 +1,4 @@
-Pholiota lutescens var. lutescens VARIETY
-=======
+# Pholiota lutescens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+The North American species of Pholiota 150 (1968)
 
 #### Original name
-Pholiota lutescens var. lutescens
+Pholiota lutescens A.H. Sm. & Hesler
 
 ### Remarks
 null

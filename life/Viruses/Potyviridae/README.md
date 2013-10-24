@@ -1,5 +1,4 @@
-Potyviridae FAMILY
-=======
+# Potyviridae FAMILY
 
 #### Status
 ACCEPTED

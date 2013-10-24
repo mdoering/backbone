@@ -1,5 +1,4 @@
-Pliocaenicus omarensis (I. A. Kuptsova) F. E. Round & H. Håkansson SPECIES
-=======
+# Pliocaenicus omarensis (I. A. Kuptsova) F. E. Round & H. Håkansson SPECIES
 
 #### Status
 ACCEPTED

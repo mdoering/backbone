@@ -1,5 +1,4 @@
-Mycosphaerella casiozumi Hara SPECIES
-=======
+# Mycosphaerella casiozumi Hara SPECIES
 
 #### Status
 ACCEPTED

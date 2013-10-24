@@ -1,5 +1,4 @@
-Vaginata fulva (Schaeff.) A.H. Sm. SPECIES
-=======
+# Vaginata fulva (Schaeff.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

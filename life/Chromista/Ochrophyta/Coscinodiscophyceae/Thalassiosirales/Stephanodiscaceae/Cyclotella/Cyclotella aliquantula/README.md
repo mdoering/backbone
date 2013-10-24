@@ -1,5 +1,4 @@
-Cyclotella aliquantula Hohn & Hellerman SPECIES
-=======
+# Cyclotella aliquantula Hohn & Hellerman SPECIES
 
 #### Status
 ACCEPTED

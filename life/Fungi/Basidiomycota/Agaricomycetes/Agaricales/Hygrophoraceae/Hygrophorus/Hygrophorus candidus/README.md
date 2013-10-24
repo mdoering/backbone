@@ -1,5 +1,4 @@
-Hygrophorus candidus Cooke & Massee SPECIES
-=======
+# Hygrophorus candidus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

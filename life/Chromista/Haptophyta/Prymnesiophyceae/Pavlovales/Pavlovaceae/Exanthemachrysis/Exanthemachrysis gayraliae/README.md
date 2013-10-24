@@ -1,5 +1,4 @@
-Exanthemachrysis gayraliae H. Lepailleur SPECIES
-=======
+# Exanthemachrysis gayraliae H. Lepailleur SPECIES
 
 #### Status
 ACCEPTED

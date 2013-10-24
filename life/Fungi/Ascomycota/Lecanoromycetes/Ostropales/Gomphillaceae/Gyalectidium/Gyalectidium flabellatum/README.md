@@ -1,5 +1,4 @@
-Gyalectidium flabellatum Sérus. SPECIES
-=======
+# Gyalectidium flabellatum Sérus. SPECIES
 
 #### Status
 ACCEPTED

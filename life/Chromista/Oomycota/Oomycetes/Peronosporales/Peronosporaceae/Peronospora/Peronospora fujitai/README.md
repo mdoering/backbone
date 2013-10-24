@@ -1,5 +1,4 @@
-Peronospora fujitai S. Ito & Tokun. SPECIES
-=======
+# Peronospora fujitai S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

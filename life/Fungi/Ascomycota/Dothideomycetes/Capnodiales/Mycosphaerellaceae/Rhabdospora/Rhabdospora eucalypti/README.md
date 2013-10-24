@@ -1,5 +1,4 @@
-Rhabdospora eucalypti Dearn. & Barthol. SPECIES
-=======
+# Rhabdospora eucalypti Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

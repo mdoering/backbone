@@ -1,5 +1,4 @@
-Vibrio rumoiensis Yumoto et al., 1999 SPECIES
-=======
+# Vibrio rumoiensis Yumoto et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

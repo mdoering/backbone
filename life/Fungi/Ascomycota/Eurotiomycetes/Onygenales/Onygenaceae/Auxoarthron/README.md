@@ -1,5 +1,4 @@
-Auxoarthron GENUS
-=======
+# Auxoarthron GENUS
 
 #### Status
 ACCEPTED

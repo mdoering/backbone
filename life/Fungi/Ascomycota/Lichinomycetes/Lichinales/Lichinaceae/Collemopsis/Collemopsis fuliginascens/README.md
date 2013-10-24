@@ -1,5 +1,4 @@
-Collemopsis fuliginascens Nyl. SPECIES
-=======
+# Collemopsis fuliginascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

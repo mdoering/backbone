@@ -1,5 +1,4 @@
-Rhabdospora subgrisea Peck SPECIES
-=======
+# Rhabdospora subgrisea Peck SPECIES
 
 #### Status
 ACCEPTED

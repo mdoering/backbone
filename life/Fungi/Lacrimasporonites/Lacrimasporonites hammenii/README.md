@@ -1,5 +1,4 @@
-Lacrimasporonites hammenii (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
-=======
+# Lacrimasporonites hammenii (Mart.-Hern. & Tom.-Ort.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

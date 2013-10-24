@@ -1,5 +1,4 @@
-Lecidea phaeocarpa C. Knight SPECIES
-=======
+# Lecidea phaeocarpa C. Knight SPECIES
 
 #### Status
 ACCEPTED

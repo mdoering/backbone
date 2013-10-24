@@ -1,5 +1,4 @@
-Physalospora subsolitaria (Schwein.) Sacc. SPECIES
-=======
+# Physalospora subsolitaria (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

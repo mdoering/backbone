@@ -1,5 +1,4 @@
-Mycena atrata Grgur. & A.A. Holland SPECIES
-=======
+# Mycena atrata Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

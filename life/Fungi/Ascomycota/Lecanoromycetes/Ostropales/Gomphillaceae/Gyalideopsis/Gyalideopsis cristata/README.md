@@ -1,14 +1,13 @@
-Epilithia cristata Nyl. SPECIES
-=======
+# Gyalideopsis cristata (Nyl.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Collect. Lichenol. 16: 66 (1853)
+Lichenologist 37(2): 164 (2005)
 
 #### Original name
 Epilithia cristata Nyl.

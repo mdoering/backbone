@@ -1,5 +1,4 @@
-Melanotheca griseola (Vain.) Zahlbr. SPECIES
-=======
+# Melanotheca griseola (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria petrucciana var. petrucciana VARIETY
-=======
+# Nectria petrucciana (Caldesi) Höhn. SPECIES
 
 #### Status
 ACCEPTED

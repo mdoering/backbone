@@ -1,5 +1,4 @@
-Meliola cissi Hansf. SPECIES
-=======
+# Meliola cissi Hansf. SPECIES
 
 #### Status
 ACCEPTED

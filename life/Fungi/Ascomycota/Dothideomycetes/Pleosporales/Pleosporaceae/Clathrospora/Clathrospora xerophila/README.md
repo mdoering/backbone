@@ -1,5 +1,4 @@
-Clathrospora xerophila Curzi & Barbaini SPECIES
-=======
+# Clathrospora xerophila Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

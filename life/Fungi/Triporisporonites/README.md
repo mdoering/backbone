@@ -1,5 +1,4 @@
-Triporisporonites Sheffy & Dilcher GENUS
-=======
+# Triporisporonites Sheffy & Dilcher GENUS
 
 #### Status
 ACCEPTED

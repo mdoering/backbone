@@ -1,5 +1,4 @@
-Nectria chlorinella Cooke SPECIES
-=======
+# Nectria chlorinella Cooke SPECIES
 
 #### Status
 ACCEPTED

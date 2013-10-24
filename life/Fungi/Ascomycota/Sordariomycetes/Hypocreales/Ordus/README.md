@@ -1,5 +1,4 @@
-Ordus K. Ando & Tubaki GENUS
-=======
+# Ordus K. Ando & Tubaki GENUS
 
 #### Status
 ACCEPTED

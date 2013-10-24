@@ -1,5 +1,4 @@
-Naucoria corticola Murrill SPECIES
-=======
+# Naucoria corticola Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostroma carneum Preuss SPECIES
-=======
+# Chaetostroma carneum Preuss SPECIES
 
 #### Status
 ACCEPTED

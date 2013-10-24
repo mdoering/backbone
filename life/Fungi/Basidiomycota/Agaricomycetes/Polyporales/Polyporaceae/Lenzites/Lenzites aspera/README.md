@@ -1,5 +1,4 @@
-Lenzites aspera (Klotzsch) Fr. SPECIES
-=======
+# Lenzites aspera (Klotzsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

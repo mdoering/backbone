@@ -1,5 +1,4 @@
-Sclerotinia galanthi Ludw. {?} SPECIES
-=======
+# Sclerotinia galanthi Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

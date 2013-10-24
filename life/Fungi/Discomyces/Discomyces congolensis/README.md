@@ -1,5 +1,4 @@
-Discomyces congolensis Baerts SPECIES
-=======
+# Discomyces congolensis Baerts SPECIES
 
 #### Status
 ACCEPTED

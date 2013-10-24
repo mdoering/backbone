@@ -1,14 +1,13 @@
-Hendersonia simplicior (Berl. & Sacc.) Kuntze, 1898 SPECIES
-=======
+# Stagonospora simplicior Sacc. & Berl., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 483 (1898)
+in Roumeguère, Roum. F. Gall. no. 4086 (1886)
 
 #### Original name
 Stagonospora simplicior Sacc. & Berl., 1886

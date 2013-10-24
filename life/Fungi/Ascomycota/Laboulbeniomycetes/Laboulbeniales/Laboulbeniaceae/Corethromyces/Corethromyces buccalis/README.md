@@ -1,5 +1,4 @@
-Corethromyces buccalis Thaxt. SPECIES
-=======
+# Corethromyces buccalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

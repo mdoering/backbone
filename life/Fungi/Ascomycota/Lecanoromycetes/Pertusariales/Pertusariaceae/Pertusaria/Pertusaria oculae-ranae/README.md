@@ -1,5 +1,4 @@
-Pertusaria oculae-ranae Øvstedal & Søchting SPECIES
-=======
+# Pertusaria oculae-ranae Øvstedal & Søchting SPECIES
 
 #### Status
 ACCEPTED

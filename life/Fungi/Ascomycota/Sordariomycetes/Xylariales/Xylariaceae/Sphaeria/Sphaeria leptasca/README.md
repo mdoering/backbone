@@ -1,5 +1,4 @@
-Sphaeria leptasca Auersw. SPECIES
-=======
+# Sphaeria leptasca Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kiusiana Hirats. f. SPECIES
-=======
+# Puccinia kiusiana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus alutaceorubens G.H. Otth SPECIES
-=======
+# Hygrophorus alutaceorubens G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus schreuderi Van der Byl SPECIES
-=======
+# Polyporus schreuderi Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Craterellus hypolyssoides Ces. SPECIES
-=======
+# Craterellus hypolyssoides Ces. SPECIES
 
 #### Status
 ACCEPTED

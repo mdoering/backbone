@@ -1,5 +1,4 @@
-Clitocybe subcandicans Z.S. Bi SPECIES
-=======
+# Clitocybe subcandicans Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

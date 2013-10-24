@@ -1,5 +1,4 @@
-Polyblastiopsis tropica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis tropica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

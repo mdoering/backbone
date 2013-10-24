@@ -1,5 +1,4 @@
-Komoella Lahm, 1984 GENUS
-=======
+# Komoella Lahm, 1984 GENUS
 
 #### Status
 ACCEPTED

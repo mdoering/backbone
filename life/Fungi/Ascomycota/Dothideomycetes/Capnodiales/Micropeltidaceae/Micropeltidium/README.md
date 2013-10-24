@@ -1,5 +1,4 @@
-Micropeltidium GENUS
-=======
+# Micropeltidium GENUS
 
 #### Status
 ACCEPTED

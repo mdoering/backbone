@@ -1,5 +1,4 @@
-Dimerium balsamicola (Peck) Shoemaker SPECIES
-=======
+# Dimerium balsamicola (Peck) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

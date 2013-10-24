@@ -1,5 +1,4 @@
-Spegazziniella costi Bat. & I.H. Lima SPECIES
-=======
+# Spegazziniella costi Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptodiscus niveopurpureus Ellis & Everh. SPECIES
-=======
+# Cryptodiscus niveopurpureus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

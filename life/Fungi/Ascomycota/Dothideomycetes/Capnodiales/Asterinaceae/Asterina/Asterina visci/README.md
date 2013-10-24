@@ -1,5 +1,4 @@
-Asterina visci Hosag. SPECIES
-=======
+# Asterina visci Hosag. SPECIES
 
 #### Status
 ACCEPTED

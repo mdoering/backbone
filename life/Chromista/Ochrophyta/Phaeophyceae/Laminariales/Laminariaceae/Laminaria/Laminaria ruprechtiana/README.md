@@ -1,5 +1,4 @@
-Laminaria ruprechtiana Le Jolis SPECIES
-=======
+# Laminaria ruprechtiana Le Jolis SPECIES
 
 #### Status
 ACCEPTED

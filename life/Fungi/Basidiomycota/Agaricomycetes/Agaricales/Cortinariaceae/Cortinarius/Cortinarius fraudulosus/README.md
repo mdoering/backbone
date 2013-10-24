@@ -1,5 +1,4 @@
-Cortinarius fraudulosus var. fraudulosus VARIETY
-=======
+# Cortinarius fraudulosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ber. naturw. Augsburg 4: 122 (1885)
 
 #### Original name
-Cortinarius fraudulosus var. fraudulosus
+Cortinarius fraudulosus Britzelm.
 
 ### Remarks
 null

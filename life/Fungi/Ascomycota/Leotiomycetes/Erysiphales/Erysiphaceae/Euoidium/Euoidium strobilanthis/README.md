@@ -1,17 +1,16 @@
-Euoidium strobilanthii Y.S. Paul & J.L. Kaul SPECIES
-=======
+# Euoidium strobilanthis Y.S. Paul & J.L. Kaul SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 17(2): 173 (1988)
 
 #### Original name
-Euoidium strobilanthii Y.S. Paul & J.L. Kaul
+Euoidium strobilanthis Y.S. Paul & J.L. Kaul
 
 ### Remarks
 null

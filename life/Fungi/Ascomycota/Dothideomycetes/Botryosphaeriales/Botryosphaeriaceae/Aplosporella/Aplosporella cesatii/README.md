@@ -1,8 +1,7 @@
-Aplosporella cesati Sacc. SPECIES
-=======
+# Aplosporella cesatii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aplosporella cesati Sacc.
+Aplosporella cesatii Sacc.
 
 ### Remarks
 null

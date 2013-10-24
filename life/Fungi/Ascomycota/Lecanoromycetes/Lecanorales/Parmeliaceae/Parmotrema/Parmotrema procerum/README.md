@@ -1,5 +1,4 @@
-Parmotrema procerum (J. Steiner & Zahlbr.) Hale SPECIES
-=======
+# Parmotrema procerum (J. Steiner & Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha versiformis Chevall. SPECIES
-=======
+# Opegrapha versiformis Chevall. SPECIES
 
 #### Status
 ACCEPTED

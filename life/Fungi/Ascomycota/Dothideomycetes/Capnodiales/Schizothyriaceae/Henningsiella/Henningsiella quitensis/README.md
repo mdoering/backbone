@@ -1,5 +1,4 @@
-Henningsiella quitensis Rehm, 1895 SPECIES
-=======
+# Henningsiella quitensis Rehm, 1895 SPECIES
 
 #### Status
 ACCEPTED

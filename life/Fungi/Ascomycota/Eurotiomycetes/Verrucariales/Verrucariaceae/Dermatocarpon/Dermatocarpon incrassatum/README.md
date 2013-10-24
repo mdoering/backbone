@@ -1,5 +1,4 @@
-Dermatocarpon incrassatum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatocarpon incrassatum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

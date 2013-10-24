@@ -1,5 +1,4 @@
-Hypoxylon rostrisporum (W.R. Gerard) P.M.D. Martin SPECIES
-=======
+# Hypoxylon rostrisporum (W.R. Gerard) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

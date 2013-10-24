@@ -1,5 +1,4 @@
-Trichodina murmanica Poljansky, 1955 SPECIES
-=======
+# Trichodina murmanica Poljansky, 1955 SPECIES
 
 #### Status
 ACCEPTED

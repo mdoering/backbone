@@ -1,5 +1,4 @@
-Ascochyta phlogina Fairm. SPECIES
-=======
+# Ascochyta phlogina Fairm. SPECIES
 
 #### Status
 ACCEPTED

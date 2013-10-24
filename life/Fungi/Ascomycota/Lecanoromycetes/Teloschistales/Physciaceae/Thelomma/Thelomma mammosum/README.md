@@ -1,5 +1,4 @@
-Thelomma mammosum (Hepp) A. Massal. SPECIES
-=======
+# Thelomma mammosum (Hepp) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

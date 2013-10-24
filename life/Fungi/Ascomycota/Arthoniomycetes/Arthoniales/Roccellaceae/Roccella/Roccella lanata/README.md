@@ -1,5 +1,4 @@
-Roccella lanata Hampe SPECIES
-=======
+# Roccella lanata Hampe SPECIES
 
 #### Status
 ACCEPTED

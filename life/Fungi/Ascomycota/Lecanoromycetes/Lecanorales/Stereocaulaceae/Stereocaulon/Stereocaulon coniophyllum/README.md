@@ -1,5 +1,4 @@
-Stereocaulon coniophyllum I.M. Lamb SPECIES
-=======
+# Stereocaulon coniophyllum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

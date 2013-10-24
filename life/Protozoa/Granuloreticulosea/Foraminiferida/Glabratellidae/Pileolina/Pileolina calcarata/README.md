@@ -1,8 +1,7 @@
-Discorbina calcarata Heron-Allen & earland, 1922 SPECIES
-=======
+# Pileolina calcarata (Heron-Allen & Earland, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,14 +1,13 @@
-Botryodiplodia platanicola (Sacc.) Keissl., 1922 SPECIES
-=======
+# Diplodia platanicola Sacc., 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annln naturh. Mus. Wien 35: 22 (1922)
+null
 
 #### Original name
 Diplodia platanicola Sacc., 1908

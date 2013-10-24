@@ -1,5 +1,4 @@
-Clavaria trichopus Pers. SPECIES
-=======
+# Clavaria trichopus Pers. SPECIES
 
 #### Status
 ACCEPTED

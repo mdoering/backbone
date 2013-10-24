@@ -1,5 +1,4 @@
-Ophiobolus cardomae (Fuckel) Rehm SPECIES
-=======
+# Ophiobolus cardomae (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

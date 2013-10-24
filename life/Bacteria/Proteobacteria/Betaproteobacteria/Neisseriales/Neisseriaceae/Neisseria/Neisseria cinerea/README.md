@@ -1,5 +1,4 @@
-Neisseria cinerea (von Lingelsheim, 1906) Murray, 1939 (Approved Lists, 1980) SPECIES
-=======
+# Neisseria cinerea (von Lingelsheim, 1906) Murray, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

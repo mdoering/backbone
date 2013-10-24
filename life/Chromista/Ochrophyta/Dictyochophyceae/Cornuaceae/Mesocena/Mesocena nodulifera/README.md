@@ -1,5 +1,4 @@
-Mesocena nodulifera var. triangula K. Tsumura VARIETY
-=======
+# Mesocena nodulifera SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta allegheniensis Tehon & G.L. Stout SPECIES
-=======
+# Phyllosticta allegheniensis Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

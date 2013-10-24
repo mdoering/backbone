@@ -1,5 +1,4 @@
-Sargassum oocyste var. chierchii Grunow VARIETY
-=======
+# Sargassum oocyste J. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pericystis apis var. minor Prökschl & Zobl VARIETY
-=======
+# Ascosphaera apis (Maasen ex Claussen) L.S. Olive & Spiltoir, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Mikrobiol. 18(2): 200 (1953)
+in Spiltoir & Olive, Mycologia 47(2): 242 (1955)
 
 #### Original name
-Pericystis apis var. minor Prökschl & Zobl
+Pericystis apis Maasen ex Claussen, 1921
 
 ### Remarks
 null

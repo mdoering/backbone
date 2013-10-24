@@ -1,5 +1,4 @@
-Pseudotrichia allequashensis Fallah & Shearer, 2001 SPECIES
-=======
+# Pseudotrichia allequashensis Fallah & Shearer, 2001 SPECIES
 
 #### Status
 ACCEPTED

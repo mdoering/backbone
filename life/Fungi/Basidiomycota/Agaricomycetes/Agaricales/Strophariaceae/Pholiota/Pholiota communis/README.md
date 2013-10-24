@@ -1,5 +1,4 @@
-Pholiota communis (Cleland & Cheel) Grgur. SPECIES
-=======
+# Pholiota communis (Cleland & Cheel) Grgur. SPECIES
 
 #### Status
 ACCEPTED

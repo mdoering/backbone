@@ -1,5 +1,4 @@
-Lecidea hymeneliicola Alstrup & D. Hawksw. SPECIES
-=======
+# Lecidea hymeneliicola Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

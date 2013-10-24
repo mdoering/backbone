@@ -1,5 +1,4 @@
-Macalpinomyces eragrostiellae Vánky & C. Vánky, 1996 SPECIES
-=======
+# Macalpinomyces eragrostiellae Vánky & C. Vánky, 1996 SPECIES
 
 #### Status
 ACCEPTED

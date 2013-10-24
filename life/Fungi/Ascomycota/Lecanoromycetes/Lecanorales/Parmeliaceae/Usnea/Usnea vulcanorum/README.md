@@ -1,5 +1,4 @@
-Usnea vulcanorum Motyka SPECIES
-=======
+# Usnea vulcanorum Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma persicina (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma persicina (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

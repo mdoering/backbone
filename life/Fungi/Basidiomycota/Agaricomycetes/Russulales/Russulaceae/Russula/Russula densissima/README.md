@@ -1,5 +1,4 @@
-Russula densissima Romagn. SPECIES
-=======
+# Russula densissima Romagn. SPECIES
 
 #### Status
 ACCEPTED

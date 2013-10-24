@@ -1,5 +1,4 @@
-Dendrogaster olivaceus Zeller SPECIES
-=======
+# Dendrogaster olivaceus Zeller SPECIES
 
 #### Status
 ACCEPTED

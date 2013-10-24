@@ -1,5 +1,4 @@
-Asterina shoreana Sacc. SPECIES
-=======
+# Asterina shoreana Sacc. SPECIES
 
 #### Status
 ACCEPTED

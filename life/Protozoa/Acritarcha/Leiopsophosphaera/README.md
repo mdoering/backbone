@@ -1,5 +1,4 @@
-Leiopsophosphaera S.N. Naumova, 1968 GENUS
-=======
+# Leiopsophosphaera S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopezicula Korf GENUS
-=======
+# Pseudopezicula Korf GENUS
 
 #### Status
 ACCEPTED

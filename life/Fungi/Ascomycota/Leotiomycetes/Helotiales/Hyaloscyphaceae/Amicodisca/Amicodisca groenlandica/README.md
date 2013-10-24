@@ -1,5 +1,4 @@
-Amicodisca groenlandica Raitv. SPECIES
-=======
+# Amicodisca groenlandica Raitv. SPECIES
 
 #### Status
 ACCEPTED

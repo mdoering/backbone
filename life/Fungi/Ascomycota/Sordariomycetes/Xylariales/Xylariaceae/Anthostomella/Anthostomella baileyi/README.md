@@ -1,5 +1,4 @@
-Anthostomella baileyi S.M. Francis SPECIES
-=======
+# Anthostomella baileyi S.M. Francis SPECIES
 
 #### Status
 ACCEPTED

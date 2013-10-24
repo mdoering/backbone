@@ -1,5 +1,4 @@
-Paenibacillus jamilae Aguilera et al., 2001 SPECIES
-=======
+# Paenibacillus jamilae Aguilera et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

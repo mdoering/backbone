@@ -1,5 +1,4 @@
-Graphis javanica SPECIES
-=======
+# Graphis javanica SPECIES
 
 #### Status
 ACCEPTED

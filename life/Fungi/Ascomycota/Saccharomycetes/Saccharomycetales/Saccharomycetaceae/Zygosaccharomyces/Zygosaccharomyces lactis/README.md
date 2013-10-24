@@ -1,5 +1,4 @@
-Zygosaccharomyces lactis Dombrowski SPECIES
-=======
+# Zygosaccharomyces lactis Dombrowski SPECIES
 
 #### Status
 ACCEPTED

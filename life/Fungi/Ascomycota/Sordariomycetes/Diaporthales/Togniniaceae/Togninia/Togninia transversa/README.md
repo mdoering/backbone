@@ -1,5 +1,4 @@
-Togninia transversa (Sacc. & Fairm.) House SPECIES
-=======
+# Togninia transversa (Sacc. & Fairm.) House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grandinia Fr. GENUS
-=======
+# Grandinia Fr. GENUS
 
 #### Status
 ACCEPTED

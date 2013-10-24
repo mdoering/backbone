@@ -1,5 +1,4 @@
-Hendersonia peponis Rolland SPECIES
-=======
+# Hendersonia peponis Rolland SPECIES
 
 #### Status
 ACCEPTED

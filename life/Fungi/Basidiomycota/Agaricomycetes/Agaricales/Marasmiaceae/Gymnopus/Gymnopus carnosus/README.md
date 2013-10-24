@@ -1,5 +1,4 @@
-Gymnopus carnosus (Curtis) Murrill SPECIES
-=======
+# Gymnopus carnosus (Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stromatinia pruni-spinosae (Lib.) Boud. SPECIES
-=======
+# Stromatinia pruni-spinosae (Lib.) Boud. SPECIES
 
 #### Status
 ACCEPTED

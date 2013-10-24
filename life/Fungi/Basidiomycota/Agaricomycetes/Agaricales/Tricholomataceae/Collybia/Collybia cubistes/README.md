@@ -1,5 +1,4 @@
-Collybia cubistes Berk. & Broome SPECIES
-=======
+# Collybia cubistes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

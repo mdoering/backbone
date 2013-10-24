@@ -1,5 +1,4 @@
-Septoria cucumeris Girz. SPECIES
-=======
+# Septoria cucumeris Girz. SPECIES
 
 #### Status
 ACCEPTED

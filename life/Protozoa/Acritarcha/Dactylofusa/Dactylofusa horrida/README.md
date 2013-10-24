@@ -1,5 +1,4 @@
-Dactylofusa horrida Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
-=======
+# Dactylofusa horrida Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
 
 #### Status
 ACCEPTED

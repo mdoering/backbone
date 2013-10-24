@@ -1,17 +1,16 @@
-Agaricus nebularis var. nebularis VARIETY
-=======
+# Clitocybe nebularis (Batsch) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 124 (1871)
 
 #### Original name
-Agaricus nebularis var. nebularis
+Agaricus nebularis Batsch, 1789
 
 ### Remarks
 null

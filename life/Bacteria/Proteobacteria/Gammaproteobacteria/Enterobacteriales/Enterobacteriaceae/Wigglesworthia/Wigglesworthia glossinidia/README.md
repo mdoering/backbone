@@ -1,5 +1,4 @@
-Wigglesworthia glossinidia Aksoy, 1995 SPECIES
-=======
+# Wigglesworthia glossinidia Aksoy, 1995 SPECIES
 
 #### Status
 ACCEPTED

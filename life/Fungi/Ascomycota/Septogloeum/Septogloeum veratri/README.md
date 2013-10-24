@@ -1,5 +1,4 @@
-Septogloeum veratri (Allesch.) Wollenw. SPECIES
-=======
+# Septogloeum veratri (Allesch.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

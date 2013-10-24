@@ -1,5 +1,4 @@
-Notothyrites haizhouensis S.L. Zheng & W. Zhang SPECIES
-=======
+# Notothyrites haizhouensis S.L. Zheng & W. Zhang SPECIES
 
 #### Status
 ACCEPTED

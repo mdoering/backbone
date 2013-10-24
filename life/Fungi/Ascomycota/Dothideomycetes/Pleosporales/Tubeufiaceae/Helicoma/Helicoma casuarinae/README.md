@@ -1,5 +1,4 @@
-Helicoma casuarinae (Matsush.) G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicoma casuarinae (Matsush.) G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

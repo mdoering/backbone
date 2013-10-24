@@ -1,5 +1,4 @@
-Ojibwaya perpulchra B. Sutton, 1973 SPECIES
-=======
+# Ojibwaya perpulchra B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

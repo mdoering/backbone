@@ -1,5 +1,4 @@
-Clavulina novangliae SPECIES
-=======
+# Clavulina novangliae SPECIES
 
 #### Status
 ACCEPTED

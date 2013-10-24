@@ -1,5 +1,4 @@
-Anthurus macowanii Marloth SPECIES
-=======
+# Anthurus macowanii Marloth SPECIES
 
 #### Status
 ACCEPTED

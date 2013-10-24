@@ -1,5 +1,4 @@
-Cytospora symphoricarpi Ellis & Barthol. SPECIES
-=======
+# Cytospora symphoricarpi Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

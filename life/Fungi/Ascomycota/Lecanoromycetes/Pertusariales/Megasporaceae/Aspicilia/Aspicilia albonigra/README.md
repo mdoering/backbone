@@ -1,5 +1,4 @@
-Aspicilia albonigra (H. Magn.) SPECIES
-=======
+# Aspicilia albonigra (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

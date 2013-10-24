@@ -1,5 +1,4 @@
-Didymosphaeria polysticta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymosphaeria polysticta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum pothi Koord. SPECIES
-=======
+# Colletotrichum pothi Koord. SPECIES
 
 #### Status
 ACCEPTED

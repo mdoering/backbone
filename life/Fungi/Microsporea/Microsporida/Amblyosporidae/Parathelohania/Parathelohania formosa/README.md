@@ -1,5 +1,4 @@
-Parathelohania formosa A.V. Simakova & T.F. Pankova SPECIES
-=======
+# Parathelohania formosa A.V. Simakova & T.F. Pankova SPECIES
 
 #### Status
 ACCEPTED

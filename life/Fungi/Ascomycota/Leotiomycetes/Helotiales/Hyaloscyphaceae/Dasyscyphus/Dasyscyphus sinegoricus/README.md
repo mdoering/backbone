@@ -1,5 +1,4 @@
-Dasyscyphus sinegoricus Raitv. SPECIES
-=======
+# Dasyscyphus sinegoricus Raitv. SPECIES
 
 #### Status
 ACCEPTED

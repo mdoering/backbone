@@ -1,5 +1,4 @@
-Planularia tricarinella (Reuss) SPECIES
-=======
+# Planularia tricarinella (Reuss) SPECIES
 
 #### Status
 ACCEPTED

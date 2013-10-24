@@ -1,5 +1,4 @@
-Tetraplosphaeria GENUS
-=======
+# Tetraplosphaeria GENUS
 
 #### Status
 ACCEPTED

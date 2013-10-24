@@ -1,5 +1,4 @@
-Peziza byssiseda Fr. SPECIES
-=======
+# Peziza byssiseda Fr. SPECIES
 
 #### Status
 ACCEPTED

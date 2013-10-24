@@ -1,14 +1,13 @@
-Phakopsora elletariae (Racib.) Cummins SPECIES
-=======
+# Phakopsora elettariae (Racib.) Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 33: 380 (1941)
 
 #### Original name
 Schroeteriaster elettariae Racib.

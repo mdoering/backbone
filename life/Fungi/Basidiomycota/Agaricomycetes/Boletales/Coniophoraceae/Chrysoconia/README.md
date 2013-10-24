@@ -1,5 +1,4 @@
-Chrysoconia McCabe & G.A. Escobar GENUS
-=======
+# Chrysoconia McCabe & G.A. Escobar GENUS
 
 #### Status
 ACCEPTED

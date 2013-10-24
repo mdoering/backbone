@@ -1,5 +1,4 @@
-Lecanora tegulicola SPECIES
-=======
+# Lecanora tegulicola SPECIES
 
 #### Status
 ACCEPTED

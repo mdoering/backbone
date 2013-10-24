@@ -1,5 +1,4 @@
-Podostroma zeylanicum S. Imai SPECIES
-=======
+# Podostroma zeylanicum S. Imai SPECIES
 
 #### Status
 ACCEPTED

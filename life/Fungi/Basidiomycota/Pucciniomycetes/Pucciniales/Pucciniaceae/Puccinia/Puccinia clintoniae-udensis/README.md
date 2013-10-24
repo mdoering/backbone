@@ -1,5 +1,4 @@
-Puccinia clintoniae-udensis var. clintoniae-udensis VARIETY
-=======
+# Puccinia clintoniae-udensis Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia clintoniae-udensis var. clintoniae-udensis
+Puccinia clintoniae-udensis Bubák
 
 ### Remarks
 null

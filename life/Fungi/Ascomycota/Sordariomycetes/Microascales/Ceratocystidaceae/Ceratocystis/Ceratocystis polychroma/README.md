@@ -1,5 +1,4 @@
-Ceratocystis polychroma M. van Wyk, M.J. Wingf. & E.C.Y. Liew SPECIES
-=======
+# Ceratocystis polychroma M. van Wyk, M.J. Wingf. & E.C.Y. Liew SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dermocybe cinnabarina f. cinnabarina FORM
-=======
+# Cortinarius cinnabarinus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Pilze 125 (1877)
+Epicr. syst. mycol. (Upsaliae) 287 (1838)
 
 #### Original name
-Dermocybe cinnabarina f. cinnabarina
+Cortinarius cinnabarinus Fr., 1838
 
 ### Remarks
 null

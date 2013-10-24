@@ -1,5 +1,4 @@
-Micropsalliota Höhn. GENUS
-=======
+# Micropsalliota Höhn. GENUS
 
 #### Status
 ACCEPTED

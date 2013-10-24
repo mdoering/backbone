@@ -1,5 +1,4 @@
-Pucciniola jonesii (Peck) Arthur SPECIES
-=======
+# Pucciniola jonesii (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

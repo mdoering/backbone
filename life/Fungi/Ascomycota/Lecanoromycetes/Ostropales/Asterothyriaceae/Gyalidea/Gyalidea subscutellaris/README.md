@@ -1,14 +1,13 @@
-Gyalecta subscutellaris Vezda SPECIES
-=======
+# Gyalidea subscutellaris (Vezda) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biológia, Bratislava 15: 173 (1960)
+Folia geobot. phytotax. 1: 327 (1966)
 
 #### Original name
 Gyalecta subscutellaris Vezda

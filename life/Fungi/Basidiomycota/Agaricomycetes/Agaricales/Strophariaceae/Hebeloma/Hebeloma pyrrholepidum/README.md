@@ -1,5 +1,4 @@
-Hebeloma pyrrholepidum Mont. SPECIES
-=======
+# Hebeloma pyrrholepidum Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea primitiva Motyka SPECIES
-=======
+# Usnea primitiva Motyka SPECIES
 
 #### Status
 ACCEPTED

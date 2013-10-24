@@ -1,5 +1,4 @@
-Chroodiscus anomalus Vezda SPECIES
-=======
+# Chroodiscus anomalus Vezda SPECIES
 
 #### Status
 ACCEPTED

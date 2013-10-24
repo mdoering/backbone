@@ -1,5 +1,4 @@
-Graphina lecanactiformis Zahlbr. SPECIES
-=======
+# Graphina lecanactiformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

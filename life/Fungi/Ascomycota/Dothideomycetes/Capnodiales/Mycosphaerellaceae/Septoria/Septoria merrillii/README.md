@@ -1,5 +1,4 @@
-Septoria merrillii Syd. SPECIES
-=======
+# Septoria merrillii Syd. SPECIES
 
 #### Status
 ACCEPTED

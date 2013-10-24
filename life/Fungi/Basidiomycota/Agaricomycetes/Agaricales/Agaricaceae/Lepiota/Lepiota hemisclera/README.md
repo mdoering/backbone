@@ -1,5 +1,4 @@
-Lepiota hemisclera (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lepiota hemisclera (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

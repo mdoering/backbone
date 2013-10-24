@@ -1,5 +1,4 @@
-Polaromonas naphthalenivorans Jeon et al., 2004 SPECIES
-=======
+# Polaromonas naphthalenivorans Jeon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

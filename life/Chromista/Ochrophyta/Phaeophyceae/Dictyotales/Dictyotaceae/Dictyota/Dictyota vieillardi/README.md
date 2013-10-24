@@ -1,5 +1,4 @@
-Dictyota vieillardi Kuetzing SPECIES
-=======
+# Dictyota vieillardi Kuetzing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella sorbina Rehm SPECIES
-=======
+# Anthostomella sorbina Rehm SPECIES
 
 #### Status
 ACCEPTED

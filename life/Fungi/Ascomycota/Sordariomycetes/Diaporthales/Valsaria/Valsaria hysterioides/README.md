@@ -1,5 +1,4 @@
-Valsaria hysterioides Rehm SPECIES
-=======
+# Valsaria hysterioides Rehm SPECIES
 
 #### Status
 ACCEPTED

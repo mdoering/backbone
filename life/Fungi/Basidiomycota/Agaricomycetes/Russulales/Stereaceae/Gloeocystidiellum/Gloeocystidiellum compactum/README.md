@@ -1,5 +1,4 @@
-Gloeocystidiellum compactum Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeocystidiellum compactum Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

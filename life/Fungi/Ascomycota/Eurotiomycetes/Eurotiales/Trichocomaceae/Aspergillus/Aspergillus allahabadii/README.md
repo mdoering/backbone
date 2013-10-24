@@ -1,5 +1,4 @@
-Aspergillus allahabadii B.S. Mehrotra & Agnihotri, 1963 SPECIES
-=======
+# Aspergillus allahabadii B.S. Mehrotra & Agnihotri, 1963 SPECIES
 
 #### Status
 ACCEPTED

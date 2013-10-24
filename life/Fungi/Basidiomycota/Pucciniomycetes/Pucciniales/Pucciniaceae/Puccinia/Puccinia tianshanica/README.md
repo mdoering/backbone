@@ -1,5 +1,4 @@
-Puccinia tianshanica J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia tianshanica J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

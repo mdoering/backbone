@@ -1,5 +1,4 @@
-Agaricus turcicus Lasch SPECIES
-=======
+# Agaricus turcicus Lasch SPECIES
 
 #### Status
 ACCEPTED

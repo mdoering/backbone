@@ -1,5 +1,4 @@
-Anoplophrya foetidae SPECIES
-=======
+# Anoplophrya foetidae SPECIES
 
 #### Status
 ACCEPTED

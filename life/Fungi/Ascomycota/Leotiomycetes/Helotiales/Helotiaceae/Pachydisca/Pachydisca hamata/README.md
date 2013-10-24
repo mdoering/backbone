@@ -1,5 +1,4 @@
-Pachydisca hamata anon. SPECIES
-=======
+# Pachydisca hamata anon. SPECIES
 
 #### Status
 ACCEPTED

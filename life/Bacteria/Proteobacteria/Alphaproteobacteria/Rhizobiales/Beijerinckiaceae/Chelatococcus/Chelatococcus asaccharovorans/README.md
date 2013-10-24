@@ -1,5 +1,4 @@
-Chelatococcus asaccharovorans Auling et al., 1993 SPECIES
-=======
+# Chelatococcus asaccharovorans Auling et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

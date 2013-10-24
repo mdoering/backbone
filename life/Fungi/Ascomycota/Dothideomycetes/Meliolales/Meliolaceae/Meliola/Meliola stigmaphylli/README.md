@@ -1,5 +1,4 @@
-Meliola stigmaphylli Petr. SPECIES
-=======
+# Meliola stigmaphylli Petr. SPECIES
 
 #### Status
 ACCEPTED

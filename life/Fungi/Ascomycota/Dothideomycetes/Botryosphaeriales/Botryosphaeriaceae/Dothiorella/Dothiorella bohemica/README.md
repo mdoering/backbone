@@ -1,5 +1,4 @@
-Dothiorella bohemica (Bubák & Kabát) M. Morelet & Bellem. SPECIES
-=======
+# Dothiorella bohemica (Bubák & Kabát) M. Morelet & Bellem. SPECIES
 
 #### Status
 ACCEPTED

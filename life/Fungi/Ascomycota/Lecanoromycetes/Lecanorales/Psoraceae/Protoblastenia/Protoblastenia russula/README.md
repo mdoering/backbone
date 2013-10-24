@@ -1,5 +1,4 @@
-Protoblastenia russula var. russula VARIETY
-=======
+# Protoblastenia russula SPECIES
 
 #### Status
 ACCEPTED

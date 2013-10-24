@@ -1,5 +1,4 @@
-Trichangium Kirschst. GENUS
-=======
+# Trichangium Kirschst. GENUS
 
 #### Status
 ACCEPTED

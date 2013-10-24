@@ -1,5 +1,4 @@
-Hemithecium confluens (Fée) Trevis. SPECIES
-=======
+# Hemithecium confluens (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis inconstans (Sacc.) Died. SPECIES
-=======
+# Phomopsis inconstans (Sacc.) Died. SPECIES
 
 #### Status
 ACCEPTED

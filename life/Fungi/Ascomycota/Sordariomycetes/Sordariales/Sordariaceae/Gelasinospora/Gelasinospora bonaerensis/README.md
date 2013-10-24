@@ -1,5 +1,4 @@
-Gelasinospora bonaerensis Stchigel & Guarro SPECIES
-=======
+# Gelasinospora bonaerensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

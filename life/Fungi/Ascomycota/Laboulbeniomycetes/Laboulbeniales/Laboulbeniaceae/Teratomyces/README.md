@@ -1,5 +1,4 @@
-Teratomyces Thaxt. GENUS
-=======
+# Teratomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

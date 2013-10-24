@@ -1,5 +1,4 @@
-Abrothallus acetabuli Diederich SPECIES
-=======
+# Abrothallus acetabuli Diederich SPECIES
 
 #### Status
 ACCEPTED

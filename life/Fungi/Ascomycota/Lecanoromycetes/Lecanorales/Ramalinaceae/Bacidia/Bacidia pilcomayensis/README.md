@@ -1,5 +1,4 @@
-Bacidia pilcomayensis Malme SPECIES
-=======
+# Bacidia pilcomayensis Malme SPECIES
 
 #### Status
 ACCEPTED

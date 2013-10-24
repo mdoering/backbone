@@ -1,5 +1,4 @@
-Coralloderma guzmanii A.L. Welden, 1993 SPECIES
-=======
+# Coralloderma guzmanii A.L. Welden, 1993 SPECIES
 
 #### Status
 ACCEPTED

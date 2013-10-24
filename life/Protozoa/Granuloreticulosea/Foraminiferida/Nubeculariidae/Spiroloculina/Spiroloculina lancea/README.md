@@ -1,5 +1,4 @@
-Spiroloculina lancea Ehrenberg, 1861 SPECIES
-=======
+# Spiroloculina lancea Ehrenberg, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrotrichum menisporioides Cabello & Aramb. SPECIES
-=======
+# Cylindrotrichum menisporioides Cabello & Aramb. SPECIES
 
 #### Status
 ACCEPTED

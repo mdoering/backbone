@@ -1,5 +1,4 @@
-Fomes cesatianus Henn. SPECIES
-=======
+# Fomes cesatianus Henn. SPECIES
 
 #### Status
 ACCEPTED

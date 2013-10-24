@@ -1,5 +1,4 @@
-Diplodia camphorae Tassi SPECIES
-=======
+# Diplodia camphorae Tassi SPECIES
 
 #### Status
 ACCEPTED

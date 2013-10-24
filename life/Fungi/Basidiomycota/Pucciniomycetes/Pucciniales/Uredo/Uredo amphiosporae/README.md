@@ -1,5 +1,4 @@
-Uredo amphiosporae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo amphiosporae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

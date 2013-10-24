@@ -1,5 +1,4 @@
-Craterellus confluens Berk. & M.A. Curtis SPECIES
-=======
+# Craterellus confluens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

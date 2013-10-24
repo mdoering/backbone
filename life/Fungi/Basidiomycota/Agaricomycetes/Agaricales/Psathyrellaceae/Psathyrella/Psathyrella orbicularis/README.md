@@ -1,5 +1,4 @@
-Psathyrella orbicularis (Romagn.) Kits van Wav. SPECIES
-=======
+# Psathyrella orbicularis (Romagn.) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

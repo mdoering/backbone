@@ -1,5 +1,4 @@
-Chromosporium atrobrunneum Peck SPECIES
-=======
+# Chromosporium atrobrunneum Peck SPECIES
 
 #### Status
 ACCEPTED

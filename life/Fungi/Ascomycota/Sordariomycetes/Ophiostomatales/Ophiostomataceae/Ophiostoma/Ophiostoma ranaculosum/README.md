@@ -1,5 +1,4 @@
-Ophiostoma ranaculosum (J.R. Bridges & T.J. Perry) Georg Hausner, J. Reid & Klassen, 1993 SPECIES
-=======
+# Ophiostoma ranaculosum (J.R. Bridges & T.J. Perry) Georg Hausner, J. Reid & Klassen, 1993 SPECIES
 
 #### Status
 ACCEPTED

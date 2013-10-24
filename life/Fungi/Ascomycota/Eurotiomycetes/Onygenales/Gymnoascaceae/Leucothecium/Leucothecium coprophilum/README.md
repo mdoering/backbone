@@ -1,5 +1,4 @@
-Leucothecium coprophilum Valldos. & Guarro, 1991 SPECIES
-=======
+# Leucothecium coprophilum Valldos. & Guarro, 1991 SPECIES
 
 #### Status
 ACCEPTED

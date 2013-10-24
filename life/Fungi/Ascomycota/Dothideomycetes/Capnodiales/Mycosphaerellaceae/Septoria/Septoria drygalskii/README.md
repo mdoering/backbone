@@ -1,5 +1,4 @@
-Septoria drygalskii Henn. SPECIES
-=======
+# Septoria drygalskii Henn. SPECIES
 
 #### Status
 ACCEPTED

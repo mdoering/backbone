@@ -1,5 +1,4 @@
-Scenidium elegans (Har.) Kuntze SPECIES
-=======
+# Scenidium elegans (Har.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

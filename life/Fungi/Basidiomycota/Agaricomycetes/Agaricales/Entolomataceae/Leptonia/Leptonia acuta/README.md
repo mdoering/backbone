@@ -1,5 +1,4 @@
-Leptonia acuta Rea SPECIES
-=======
+# Leptonia acuta Rea SPECIES
 
 #### Status
 ACCEPTED

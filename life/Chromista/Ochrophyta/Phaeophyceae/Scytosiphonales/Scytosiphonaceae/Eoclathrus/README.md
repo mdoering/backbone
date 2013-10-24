@@ -1,5 +1,4 @@
-Eoclathrus Squinabol, 1888 GENUS
-=======
+# Eoclathrus Squinabol, 1888 GENUS
 
 #### Status
 ACCEPTED

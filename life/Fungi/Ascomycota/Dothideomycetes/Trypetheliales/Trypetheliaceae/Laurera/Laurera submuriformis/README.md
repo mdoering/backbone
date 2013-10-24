@@ -1,5 +1,4 @@
-Laurera submuriformis Abbayes SPECIES
-=======
+# Laurera submuriformis Abbayes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus socialis (Peck) Murrill SPECIES
-=======
+# Pleuropus socialis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

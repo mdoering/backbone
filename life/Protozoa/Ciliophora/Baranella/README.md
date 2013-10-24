@@ -1,5 +1,4 @@
-Baranella Nagy, 1989 GENUS
-=======
+# Baranella Nagy, 1989 GENUS
 
 #### Status
 ACCEPTED

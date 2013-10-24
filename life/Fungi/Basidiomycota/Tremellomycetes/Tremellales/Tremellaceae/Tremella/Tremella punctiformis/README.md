@@ -1,5 +1,4 @@
-Tremella punctiformis Schrank SPECIES
-=======
+# Tremella punctiformis Schrank SPECIES
 
 #### Status
 ACCEPTED

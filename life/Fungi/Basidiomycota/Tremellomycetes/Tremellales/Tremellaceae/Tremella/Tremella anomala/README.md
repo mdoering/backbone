@@ -1,5 +1,4 @@
-Tremella anomala Möller SPECIES
-=======
+# Tremella anomala Möller SPECIES
 
 #### Status
 ACCEPTED

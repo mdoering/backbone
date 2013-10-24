@@ -1,5 +1,4 @@
-Agaricus spinulifer Peck SPECIES
-=======
+# Agaricus spinulifer Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella maquilingiana (Rehm) K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella maquilingiana (Rehm) K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium stenocarpi A. Agostini SPECIES
-=======
+# Gloeosporium stenocarpi A. Agostini SPECIES
 
 #### Status
 ACCEPTED

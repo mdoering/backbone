@@ -1,5 +1,4 @@
-Lycoperdon atrum Pat. SPECIES
-=======
+# Lycoperdon atrum Pat. SPECIES
 
 #### Status
 ACCEPTED

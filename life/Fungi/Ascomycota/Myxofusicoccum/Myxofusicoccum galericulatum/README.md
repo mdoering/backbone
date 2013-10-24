@@ -1,5 +1,4 @@
-Myxofusicoccum galericulatum Died. SPECIES
-=======
+# Myxofusicoccum galericulatum Died. SPECIES
 
 #### Status
 ACCEPTED

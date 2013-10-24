@@ -1,5 +1,4 @@
-Nectria proteae Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Nectria proteae Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

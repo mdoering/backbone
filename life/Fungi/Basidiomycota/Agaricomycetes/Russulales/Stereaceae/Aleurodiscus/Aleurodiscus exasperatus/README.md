@@ -1,5 +1,4 @@
-Aleurodiscus exasperatus Hjortstam & Ryvarden, 1993 SPECIES
-=======
+# Aleurodiscus exasperatus Hjortstam & Ryvarden, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Uleomyces canavaliae (Racib.) G. Arnaud, 1925 SPECIES
-=======
+# Elsinoë canavaliae Racib., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parasit. Alg. Pilze Java's (Jakarta) 1: 14 (1900)
 
 #### Original name
 Elsinoë canavaliae Racib., 1900

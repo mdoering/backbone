@@ -1,5 +1,4 @@
-Stemmaria globosa Preuss SPECIES
-=======
+# Stemmaria globosa Preuss SPECIES
 
 #### Status
 ACCEPTED

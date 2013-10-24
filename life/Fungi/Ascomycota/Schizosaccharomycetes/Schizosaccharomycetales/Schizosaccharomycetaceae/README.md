@@ -1,5 +1,4 @@
-Schizosaccharomycetaceae Beij. ex Klöcker FAMILY
-=======
+# Schizosaccharomycetaceae Beij. ex Klöcker FAMILY
 
 #### Status
 ACCEPTED

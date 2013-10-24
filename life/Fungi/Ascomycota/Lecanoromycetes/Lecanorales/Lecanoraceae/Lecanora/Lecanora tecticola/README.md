@@ -1,5 +1,4 @@
-Lecanora tecticola Motyka SPECIES
-=======
+# Lecanora tecticola Motyka SPECIES
 
 #### Status
 ACCEPTED

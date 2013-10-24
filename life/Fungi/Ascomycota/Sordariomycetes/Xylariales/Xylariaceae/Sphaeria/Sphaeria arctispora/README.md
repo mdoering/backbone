@@ -1,5 +1,4 @@
-Sphaeria arctispora Cooke & Ellis SPECIES
-=======
+# Sphaeria arctispora Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

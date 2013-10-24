@@ -1,5 +1,4 @@
-Helicolithus D. Noël, 1970 GENUS
-=======
+# Helicolithus D. Noël, 1970 GENUS
 
 #### Status
 ACCEPTED

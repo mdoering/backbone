@@ -1,5 +1,4 @@
-Hygrophorus citrinofuscus J. Favre SPECIES
-=======
+# Hygrophorus citrinofuscus J. Favre SPECIES
 
 #### Status
 ACCEPTED

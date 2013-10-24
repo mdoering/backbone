@@ -1,5 +1,4 @@
-Biatora melampepla Tuck. SPECIES
-=======
+# Biatora melampepla Tuck. SPECIES
 
 #### Status
 ACCEPTED

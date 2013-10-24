@@ -1,5 +1,4 @@
-Pyrenopeziza atrocinerea (Cooke) SPECIES
-=======
+# Pyrenopeziza atrocinerea (Cooke) SPECIES
 
 #### Status
 ACCEPTED

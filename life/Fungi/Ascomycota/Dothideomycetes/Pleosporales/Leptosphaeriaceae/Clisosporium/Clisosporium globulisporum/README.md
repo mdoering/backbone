@@ -1,5 +1,4 @@
-Clisosporium globulisporum (Speg.) Kuntze SPECIES
-=======
+# Clisosporium globulisporum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

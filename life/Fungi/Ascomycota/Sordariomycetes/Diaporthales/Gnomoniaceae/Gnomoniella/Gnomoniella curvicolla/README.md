@@ -1,5 +1,4 @@
-Gnomoniella curvicolla (Peck) Sacc. SPECIES
-=======
+# Gnomoniella curvicolla (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

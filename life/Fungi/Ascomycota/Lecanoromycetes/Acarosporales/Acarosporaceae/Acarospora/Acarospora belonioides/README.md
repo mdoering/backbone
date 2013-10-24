@@ -1,5 +1,4 @@
-Acarospora belonioides (Nyl.) Arnold SPECIES
-=======
+# Acarospora belonioides (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium paralabiatum Small & Lynn, 1985 SPECIES
-=======
+# Spathidium paralabiatum Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenosporella queenslandica Matsush. SPECIES
-=======
+# Selenosporella queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

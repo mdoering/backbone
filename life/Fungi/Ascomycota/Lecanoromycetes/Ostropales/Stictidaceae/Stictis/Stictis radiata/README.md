@@ -1,5 +1,4 @@
-Stictis radiata subsp. radiata SUBSPECIES
-=======
+# Stictis radiata (L.) Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Lipsiae) 2: 73 (1800)
 
 #### Original name
-Stictis radiata subsp. radiata
+Lichen radiatus Schreb.
 
 ### Remarks
 null

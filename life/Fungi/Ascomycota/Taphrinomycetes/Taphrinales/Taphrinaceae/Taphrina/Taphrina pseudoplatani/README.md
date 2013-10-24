@@ -1,5 +1,4 @@
-Taphrina pseudoplatani (C. Massal.) Jaap SPECIES
-=======
+# Taphrina pseudoplatani (C. Massal.) Jaap SPECIES
 
 #### Status
 ACCEPTED

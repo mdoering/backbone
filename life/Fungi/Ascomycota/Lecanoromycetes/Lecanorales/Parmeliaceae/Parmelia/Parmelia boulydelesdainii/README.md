@@ -1,5 +1,4 @@
-Parmelia boulydelesdainii Gyeln. SPECIES
-=======
+# Parmelia boulydelesdainii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

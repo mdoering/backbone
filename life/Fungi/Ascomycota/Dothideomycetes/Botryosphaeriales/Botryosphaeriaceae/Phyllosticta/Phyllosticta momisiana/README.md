@@ -1,5 +1,4 @@
-Phyllosticta momisiana E. Young SPECIES
-=======
+# Phyllosticta momisiana E. Young SPECIES
 
 #### Status
 ACCEPTED

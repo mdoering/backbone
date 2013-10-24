@@ -1,5 +1,4 @@
-Verrucaria prostans Mont. SPECIES
-=======
+# Verrucaria prostans Mont. SPECIES
 
 #### Status
 ACCEPTED

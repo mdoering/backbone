@@ -1,5 +1,4 @@
-Ivdelina Malakhova, 1963 GENUS
-=======
+# Ivdelina Malakhova, 1963 GENUS
 
 #### Status
 ACCEPTED

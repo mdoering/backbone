@@ -1,5 +1,4 @@
-Phakopsora loudetiae Cummins SPECIES
-=======
+# Phakopsora loudetiae Cummins SPECIES
 
 #### Status
 ACCEPTED

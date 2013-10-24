@@ -1,5 +1,4 @@
-Lachnocladium hoffmannii Henn. SPECIES
-=======
+# Lachnocladium hoffmannii Henn. SPECIES
 
 #### Status
 ACCEPTED

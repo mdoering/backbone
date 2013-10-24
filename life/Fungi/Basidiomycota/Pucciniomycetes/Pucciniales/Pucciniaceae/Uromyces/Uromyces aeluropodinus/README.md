@@ -1,5 +1,4 @@
-Uromyces aeluropodinus Tranzschel SPECIES
-=======
+# Uromyces aeluropodinus Tranzschel SPECIES
 
 #### Status
 ACCEPTED

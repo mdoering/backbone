@@ -1,5 +1,4 @@
-Aspergillus pouchetii Mont. SPECIES
-=======
+# Aspergillus pouchetii Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysibe linearis Wallr. SPECIES
-=======
+# Erysibe linearis Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza araucana Speg. SPECIES
-=======
+# Pyrenopeziza araucana Speg. SPECIES
 
 #### Status
 ACCEPTED

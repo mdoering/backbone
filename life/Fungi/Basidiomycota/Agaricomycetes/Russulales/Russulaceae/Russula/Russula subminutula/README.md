@@ -1,5 +1,4 @@
-Russula subminutula Singer SPECIES
-=======
+# Russula subminutula Singer SPECIES
 
 #### Status
 ACCEPTED

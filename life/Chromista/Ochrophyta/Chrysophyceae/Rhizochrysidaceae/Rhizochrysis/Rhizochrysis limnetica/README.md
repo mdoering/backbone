@@ -1,5 +1,4 @@
-Rhizochrysis limnetica G.M.Smith, 1920 SPECIES
-=======
+# Rhizochrysis limnetica G.M.Smith, 1920 SPECIES
 
 #### Status
 ACCEPTED

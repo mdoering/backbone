@@ -1,5 +1,4 @@
-Gymnopilus zempoalensis Guzmán & V. Mora SPECIES
-=======
+# Gymnopilus zempoalensis Guzmán & V. Mora SPECIES
 
 #### Status
 ACCEPTED

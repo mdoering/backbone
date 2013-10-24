@@ -1,5 +1,4 @@
-Coprinus lotinae Picón SPECIES
-=======
+# Coprinus lotinae Picón SPECIES
 
 #### Status
 ACCEPTED

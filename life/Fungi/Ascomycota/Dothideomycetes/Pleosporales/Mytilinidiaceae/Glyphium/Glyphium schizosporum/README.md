@@ -1,5 +1,4 @@
-Glyphium schizosporum (Maire) H. Zogg SPECIES
-=======
+# Glyphium schizosporum (Maire) H. Zogg SPECIES
 
 #### Status
 ACCEPTED

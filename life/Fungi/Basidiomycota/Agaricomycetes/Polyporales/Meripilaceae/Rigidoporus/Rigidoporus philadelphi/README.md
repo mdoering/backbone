@@ -1,5 +1,4 @@
-Rigidoporus philadelphi (Parmasto) Pouzar SPECIES
-=======
+# Rigidoporus philadelphi (Parmasto) Pouzar SPECIES
 
 #### Status
 ACCEPTED

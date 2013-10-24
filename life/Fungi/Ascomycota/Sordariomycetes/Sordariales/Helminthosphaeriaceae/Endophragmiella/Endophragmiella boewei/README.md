@@ -1,14 +1,13 @@
-Endophragmia boewei J.L. Crane, 1972 SPECIES
-=======
+# Endophragmiella boewei (J.L. Crane) S. Hughes, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 64(3): 658 (1972)
+N. Z. Jl Bot. 17(2): 147 (1979)
 
 #### Original name
 Endophragmia boewei J.L. Crane, 1972

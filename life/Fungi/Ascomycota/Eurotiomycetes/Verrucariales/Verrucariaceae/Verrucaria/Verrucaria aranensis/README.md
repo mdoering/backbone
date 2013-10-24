@@ -1,5 +1,4 @@
-Verrucaria aranensis P. M. McCarthy SPECIES
-=======
+# Verrucaria aranensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

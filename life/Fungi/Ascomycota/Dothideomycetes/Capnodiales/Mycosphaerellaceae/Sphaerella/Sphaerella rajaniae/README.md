@@ -1,5 +1,4 @@
-Sphaerella rajaniae Ellis & Everh. SPECIES
-=======
+# Sphaerella rajaniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

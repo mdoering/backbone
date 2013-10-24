@@ -1,5 +1,4 @@
-Traversoa excipuloides Sacc. & P. Syd. SPECIES
-=======
+# Traversoa excipuloides Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

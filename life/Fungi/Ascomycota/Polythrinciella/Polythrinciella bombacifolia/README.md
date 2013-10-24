@@ -1,5 +1,4 @@
-Polythrinciella bombacifolia Bat. & H. Maia, 1960 SPECIES
-=======
+# Polythrinciella bombacifolia Bat. & H. Maia, 1960 SPECIES
 
 #### Status
 ACCEPTED

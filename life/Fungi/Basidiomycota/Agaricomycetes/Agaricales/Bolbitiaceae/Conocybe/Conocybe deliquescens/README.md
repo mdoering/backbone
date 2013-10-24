@@ -1,14 +1,13 @@
-Galeropsis lateritia (Watling) G. Moreno, Heykoop & Illana, 1989 SPECIES
-=======
+# Conocybe deliquescens Hauskn. & Krisai, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 36(1): 66 (1989)
+Öst. Z. Pilzk. 15: 206 (2006)
 
 #### Original name
 Gastrocybe lateritia Watling, 1968

@@ -1,5 +1,4 @@
-Phascolarctobacterium faecium Del Dot et al., 1994 SPECIES
-=======
+# Phascolarctobacterium faecium Del Dot et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

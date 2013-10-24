@@ -1,5 +1,4 @@
-Peziza adpressa Wallr. SPECIES
-=======
+# Peziza adpressa Wallr. SPECIES
 
 #### Status
 ACCEPTED

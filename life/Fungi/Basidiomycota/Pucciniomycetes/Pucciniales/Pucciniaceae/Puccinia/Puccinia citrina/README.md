@@ -1,5 +1,4 @@
-Puccinia citrina P. Syd. & Syd., 1903 SPECIES
-=======
+# Puccinia citrina P. Syd. & Syd., 1903 SPECIES
 
 #### Status
 ACCEPTED

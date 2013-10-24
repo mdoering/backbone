@@ -1,5 +1,4 @@
-Loxolithus thiersteinii SPECIES
-=======
+# Loxolithus thiersteinii SPECIES
 
 #### Status
 ACCEPTED

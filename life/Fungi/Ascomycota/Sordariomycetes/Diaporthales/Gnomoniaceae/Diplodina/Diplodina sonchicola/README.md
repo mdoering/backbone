@@ -1,5 +1,4 @@
-Diplodina sonchicola Ade SPECIES
-=======
+# Diplodina sonchicola Ade SPECIES
 
 #### Status
 ACCEPTED

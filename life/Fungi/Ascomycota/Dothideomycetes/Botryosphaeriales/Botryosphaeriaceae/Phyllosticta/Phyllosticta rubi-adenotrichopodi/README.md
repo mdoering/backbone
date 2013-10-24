@@ -1,5 +1,4 @@
-Phyllosticta rubi-adenotrichopodi Sawada SPECIES
-=======
+# Phyllosticta rubi-adenotrichopodi Sawada SPECIES
 
 #### Status
 ACCEPTED

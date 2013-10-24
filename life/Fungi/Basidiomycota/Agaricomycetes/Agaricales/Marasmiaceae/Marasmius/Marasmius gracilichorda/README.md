@@ -1,5 +1,4 @@
-Marasmius gracilichorda Corner SPECIES
-=======
+# Marasmius gracilichorda Corner SPECIES
 
 #### Status
 ACCEPTED

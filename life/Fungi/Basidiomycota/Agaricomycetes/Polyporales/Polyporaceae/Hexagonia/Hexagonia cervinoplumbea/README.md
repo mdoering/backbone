@@ -1,5 +1,4 @@
-Hexagonia cervinoplumbea (Jungh.) Lév. SPECIES
-=======
+# Hexagonia cervinoplumbea (Jungh.) Lév. SPECIES
 
 #### Status
 ACCEPTED

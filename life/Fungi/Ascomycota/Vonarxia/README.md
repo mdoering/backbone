@@ -1,5 +1,4 @@
-Vonarxia Bat. GENUS
-=======
+# Vonarxia Bat. GENUS
 
 #### Status
 ACCEPTED

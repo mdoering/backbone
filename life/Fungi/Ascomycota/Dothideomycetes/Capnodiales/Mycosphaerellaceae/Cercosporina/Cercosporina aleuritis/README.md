@@ -1,14 +1,13 @@
-Cercosporina aleuritidis (I. Miyake) Sacc. SPECIES
-=======
+# Cercosporina aleuritis (I. Miyake) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 25: 902 (1931)
 
 #### Original name
 Cercospora aleuritis I. Miyake

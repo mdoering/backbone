@@ -1,5 +1,4 @@
-Clisosporium fuscum Bonord. SPECIES
-=======
+# Clisosporium fuscum Bonord. SPECIES
 
 #### Status
 ACCEPTED

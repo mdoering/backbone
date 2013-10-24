@@ -1,5 +1,4 @@
-Cercoseptoria valerianae Solheim SPECIES
-=======
+# Cercoseptoria valerianae Solheim SPECIES
 
 #### Status
 ACCEPTED

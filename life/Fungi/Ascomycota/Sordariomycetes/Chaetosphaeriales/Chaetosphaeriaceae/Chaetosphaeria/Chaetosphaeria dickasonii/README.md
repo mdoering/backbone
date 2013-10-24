@@ -1,5 +1,4 @@
-Chaetosphaeria dickasonii Wehm. SPECIES
-=======
+# Chaetosphaeria dickasonii Wehm. SPECIES
 
 #### Status
 ACCEPTED

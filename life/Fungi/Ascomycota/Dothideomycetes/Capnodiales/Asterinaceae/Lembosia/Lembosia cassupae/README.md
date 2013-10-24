@@ -1,5 +1,4 @@
-Lembosia cassupae Henn. SPECIES
-=======
+# Lembosia cassupae Henn. SPECIES
 
 #### Status
 ACCEPTED

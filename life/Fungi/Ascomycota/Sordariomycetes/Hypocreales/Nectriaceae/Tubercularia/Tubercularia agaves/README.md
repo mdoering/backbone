@@ -1,5 +1,4 @@
-Tubercularia agaves Pat. SPECIES
-=======
+# Tubercularia agaves Pat. SPECIES
 
 #### Status
 ACCEPTED

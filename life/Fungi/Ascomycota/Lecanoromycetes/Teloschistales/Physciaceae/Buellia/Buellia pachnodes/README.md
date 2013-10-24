@@ -1,5 +1,4 @@
-Buellia pachnodes (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia pachnodes (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

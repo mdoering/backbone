@@ -1,5 +1,4 @@
-Mollisia amyloidea Svrcek SPECIES
-=======
+# Mollisia amyloidea Svrcek SPECIES
 
 #### Status
 ACCEPTED

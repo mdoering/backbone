@@ -1,5 +1,4 @@
-Poria perspicillum Scop. SPECIES
-=======
+# Poria perspicillum Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza pleurota W. Phillips, 1887 SPECIES
-=======
+# Peziza badiofusca (Boud.) Dennis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 51 (1887)
+British Cup Fungi & their Allies 16: 16 (1960)
 
 #### Original name
-Peziza pleurota W. Phillips, 1887
+Galactinia badiofusca Boud., 1907
 
 ### Remarks
 null

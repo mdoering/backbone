@@ -1,17 +1,16 @@
-Favolus maxoni (Murrill) Sacc. & Trotter SPECIES
-=======
+# Favolus maxonii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 21: 356 (1912)
 
 #### Original name
-Hexagonia maxoni Murrill
+Hexagonia maxonii Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scutuloris tegminis Loeblich & Tappan SPECIES
-=======
+# Scutuloris tegminis Loeblich & Tappan SPECIES
 
 #### Status
 ACCEPTED

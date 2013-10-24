@@ -1,5 +1,4 @@
-Stilbum minutissimum Speg. SPECIES
-=======
+# Stilbum minutissimum Speg. SPECIES
 
 #### Status
 ACCEPTED

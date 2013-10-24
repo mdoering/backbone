@@ -1,8 +1,7 @@
-Dasyscypha elatior (P. Karst.) Sacc. SPECIES
-=======
+# Dasyscyphus elatior (P. Karst.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

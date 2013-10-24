@@ -1,8 +1,7 @@
-Sphaerella hellebori (Chaillet ex Fr.) Ces. & De Not., 1863 SPECIES
-=======
+# Didymella hellebori (Chaillet) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria hellebori Chaillet, 1823
 
 ### Remarks
 null

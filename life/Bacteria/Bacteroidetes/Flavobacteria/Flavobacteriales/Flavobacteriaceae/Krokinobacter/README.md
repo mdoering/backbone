@@ -1,5 +1,4 @@
-Krokinobacter Khan, Nakagawa & Harayama, 2006 GENUS
-=======
+# Krokinobacter Khan, Nakagawa & Harayama, 2006 GENUS
 
 #### Status
 ACCEPTED

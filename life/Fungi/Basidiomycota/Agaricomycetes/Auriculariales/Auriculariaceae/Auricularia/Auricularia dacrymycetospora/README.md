@@ -1,5 +1,4 @@
-Auricularia dacrymycetospora (Speg.) Rick SPECIES
-=======
+# Auricularia dacrymycetospora (Speg.) Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia profusa De Not. SPECIES
-=======
+# Diplodia profusa De Not. SPECIES
 
 #### Status
 ACCEPTED

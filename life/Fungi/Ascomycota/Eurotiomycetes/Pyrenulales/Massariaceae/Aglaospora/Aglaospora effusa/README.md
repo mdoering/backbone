@@ -1,5 +1,4 @@
-Aglaospora effusa Rehm SPECIES
-=======
+# Aglaospora effusa Rehm SPECIES
 
 #### Status
 ACCEPTED

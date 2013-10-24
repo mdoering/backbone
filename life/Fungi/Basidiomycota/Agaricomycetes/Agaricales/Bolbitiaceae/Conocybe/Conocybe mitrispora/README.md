@@ -1,5 +1,4 @@
-Conocybe mitrispora Watling SPECIES
-=======
+# Conocybe mitrispora Watling SPECIES
 
 #### Status
 ACCEPTED

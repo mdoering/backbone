@@ -1,5 +1,4 @@
-Peyronellaea cincta (Berk. & M.A. Curtis) Goid. SPECIES
-=======
+# Peyronellaea cincta (Berk. & M.A. Curtis) Goid. SPECIES
 
 #### Status
 ACCEPTED

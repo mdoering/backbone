@@ -1,5 +1,4 @@
-Didymosphaeria ulothii G. Winter SPECIES
-=======
+# Didymosphaeria ulothii G. Winter SPECIES
 
 #### Status
 ACCEPTED

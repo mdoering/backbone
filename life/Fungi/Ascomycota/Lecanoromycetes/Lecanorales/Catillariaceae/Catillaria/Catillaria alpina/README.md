@@ -1,5 +1,4 @@
-Catillaria alpina (Hazsl.) Zahlbr. SPECIES
-=======
+# Catillaria alpina (Hazsl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

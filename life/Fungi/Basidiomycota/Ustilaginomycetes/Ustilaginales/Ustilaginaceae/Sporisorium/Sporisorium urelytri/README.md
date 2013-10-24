@@ -1,5 +1,4 @@
-Sporisorium urelytri (L. Ling) Vánky SPECIES
-=======
+# Sporisorium urelytri (L. Ling) Vánky SPECIES
 
 #### Status
 ACCEPTED

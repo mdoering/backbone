@@ -1,5 +1,4 @@
-Microthelia clavaeformis (Stirt.) Zahlbr. SPECIES
-=======
+# Microthelia clavaeformis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

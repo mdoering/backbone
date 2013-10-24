@@ -1,5 +1,4 @@
-Teratosphaeria dendritica (Crous & Summerell) Crous & U. Braun SPECIES
-=======
+# Teratosphaeria dendritica (Crous & Summerell) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

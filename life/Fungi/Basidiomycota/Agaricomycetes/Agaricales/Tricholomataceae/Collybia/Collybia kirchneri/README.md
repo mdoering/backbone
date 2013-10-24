@@ -1,5 +1,4 @@
-Collybia kirchneri (Thüm.) Halling & T.J. Baroni SPECIES
-=======
+# Collybia kirchneri (Thüm.) Halling & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

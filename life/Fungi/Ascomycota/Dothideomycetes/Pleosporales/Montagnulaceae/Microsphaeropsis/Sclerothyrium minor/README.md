@@ -1,5 +1,4 @@
-Sclerothyrium minor (Ellis & Barthol.) Höhn. SPECIES
-=======
+# Sclerothyrium minor (Ellis & Barthol.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

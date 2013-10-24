@@ -1,5 +1,4 @@
-Craterellus plicatulus Heinem. SPECIES
-=======
+# Craterellus plicatulus Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus humicola Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus humicola Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

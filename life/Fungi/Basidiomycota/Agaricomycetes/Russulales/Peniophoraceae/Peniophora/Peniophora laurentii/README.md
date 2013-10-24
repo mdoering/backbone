@@ -1,5 +1,4 @@
-Peniophora laurentii S. Lundell, 1946 SPECIES
-=======
+# Peniophora laurentii S. Lundell, 1946 SPECIES
 
 #### Status
 ACCEPTED

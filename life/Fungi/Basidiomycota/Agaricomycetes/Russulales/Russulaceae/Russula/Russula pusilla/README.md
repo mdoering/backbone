@@ -1,5 +1,4 @@
-Russula pusilla Peck SPECIES
-=======
+# Russula pusilla Peck SPECIES
 
 #### Status
 ACCEPTED

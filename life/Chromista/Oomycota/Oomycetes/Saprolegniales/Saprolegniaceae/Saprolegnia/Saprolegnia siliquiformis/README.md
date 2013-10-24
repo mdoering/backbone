@@ -1,8 +1,7 @@
-Saprolegnia siliquaeformis Reinsch SPECIES
-=======
+# Saprolegnia siliquiformis Reinsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Saprolegnia siliquaeformis Reinsch
+Saprolegnia siliquiformis Reinsch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bottaria connectens Vain. SPECIES
-=======
+# Bottaria connectens Vain. SPECIES
 
 #### Status
 ACCEPTED

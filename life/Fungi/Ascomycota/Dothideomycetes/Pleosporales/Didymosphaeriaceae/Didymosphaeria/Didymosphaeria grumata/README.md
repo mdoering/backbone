@@ -1,5 +1,4 @@
-Didymosphaeria grumata (Cooke & Ellis) Rehm SPECIES
-=======
+# Didymosphaeria grumata (Cooke & Ellis) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina lolii Zimm. SPECIES
-=======
+# Diplodina lolii Zimm. SPECIES
 
 #### Status
 ACCEPTED

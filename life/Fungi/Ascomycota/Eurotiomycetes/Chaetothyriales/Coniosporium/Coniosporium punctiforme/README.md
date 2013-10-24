@@ -1,5 +1,4 @@
-Coniosporium punctiforme Maire & Sacc. SPECIES
-=======
+# Coniosporium punctiforme Maire & Sacc. SPECIES
 
 #### Status
 ACCEPTED

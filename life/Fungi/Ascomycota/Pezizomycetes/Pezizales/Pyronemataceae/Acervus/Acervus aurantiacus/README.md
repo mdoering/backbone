@@ -1,5 +1,4 @@
-Acervus aurantiacus Kanouse, 1938 SPECIES
-=======
+# Acervus aurantiacus Kanouse, 1938 SPECIES
 
 #### Status
 ACCEPTED

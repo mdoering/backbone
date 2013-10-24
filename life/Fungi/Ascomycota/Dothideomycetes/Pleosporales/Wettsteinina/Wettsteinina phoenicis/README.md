@@ -1,5 +1,4 @@
-Wettsteinina phoenicis Tilak SPECIES
-=======
+# Wettsteinina phoenicis Tilak SPECIES
 
 #### Status
 ACCEPTED

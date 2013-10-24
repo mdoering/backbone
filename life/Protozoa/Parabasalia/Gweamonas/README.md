@@ -1,5 +1,4 @@
-Gweamonas Lee, 2002 GENUS
-=======
+# Gweamonas Lee, 2002 GENUS
 
 #### Status
 ACCEPTED

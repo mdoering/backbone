@@ -1,5 +1,4 @@
-Phomopsis zeicola M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomopsis zeicola M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

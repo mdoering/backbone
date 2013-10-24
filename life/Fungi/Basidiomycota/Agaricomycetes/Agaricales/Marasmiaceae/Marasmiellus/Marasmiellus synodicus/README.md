@@ -1,5 +1,4 @@
-Marasmiellus synodicus (Kunze) Singer SPECIES
-=======
+# Marasmiellus synodicus (Kunze) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdostyla fromenteli Kent, 1881 SPECIES
-=======
+# Rhabdostyla fromenteli Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe sedi U. Braun SPECIES
-=======
+# Erysiphe sedi U. Braun SPECIES
 
 #### Status
 ACCEPTED

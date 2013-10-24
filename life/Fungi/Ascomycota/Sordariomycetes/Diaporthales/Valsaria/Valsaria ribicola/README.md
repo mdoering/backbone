@@ -1,5 +1,4 @@
-Valsaria ribicola Naumov SPECIES
-=======
+# Valsaria ribicola Naumov SPECIES
 
 #### Status
 ACCEPTED

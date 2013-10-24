@@ -1,8 +1,7 @@
-Aecidium carphochaetes Syd. & P. Syd. SPECIES
-=======
+# Aecidium carpochaetes Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium carphochaetes Syd. & P. Syd.
+Aecidium carpochaetes Syd. & P. Syd.
 
 ### Remarks
 null

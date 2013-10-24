@@ -1,5 +1,4 @@
-Dendrospora juncicola S.H. Iqbal, 1972 SPECIES
-=======
+# Dendrospora juncicola S.H. Iqbal, 1972 SPECIES
 
 #### Status
 ACCEPTED

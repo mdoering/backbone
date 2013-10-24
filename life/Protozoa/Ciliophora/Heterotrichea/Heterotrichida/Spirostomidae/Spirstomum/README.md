@@ -1,5 +1,4 @@
-Spirstomum GENUS
-=======
+# Spirstomum GENUS
 
 #### Status
 ACCEPTED

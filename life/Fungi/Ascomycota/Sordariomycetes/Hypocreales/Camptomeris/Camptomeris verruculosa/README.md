@@ -1,5 +1,4 @@
-Camptomeris verruculosa (Syd.) E.A. Bessey SPECIES
-=======
+# Camptomeris verruculosa (Syd.) E.A. Bessey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrostilbe chlorina Malençon SPECIES
-=======
+# Dendrostilbe chlorina Malençon SPECIES
 
 #### Status
 ACCEPTED

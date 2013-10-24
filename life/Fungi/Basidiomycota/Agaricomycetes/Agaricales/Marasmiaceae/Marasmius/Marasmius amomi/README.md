@@ -1,5 +1,4 @@
-Marasmius amomi Petch SPECIES
-=======
+# Marasmius amomi Petch SPECIES
 
 #### Status
 ACCEPTED

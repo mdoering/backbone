@@ -1,5 +1,4 @@
-Pseudocenangium pinastri P. Karst. SPECIES
-=======
+# Pseudocenangium pinastri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

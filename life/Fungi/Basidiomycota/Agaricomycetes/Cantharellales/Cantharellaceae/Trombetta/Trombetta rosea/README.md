@@ -1,5 +1,4 @@
-Trombetta rosea (Schwein.) Kuntze SPECIES
-=======
+# Trombetta rosea (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

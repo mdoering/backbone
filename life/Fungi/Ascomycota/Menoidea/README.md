@@ -1,5 +1,4 @@
-Menoidea L. Mangin & Har. GENUS
-=======
+# Menoidea L. Mangin & Har. GENUS
 
 #### Status
 ACCEPTED

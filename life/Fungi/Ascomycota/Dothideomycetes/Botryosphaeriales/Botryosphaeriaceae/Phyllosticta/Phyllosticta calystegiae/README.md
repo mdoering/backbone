@@ -1,5 +1,4 @@
-Phyllosticta calystegiae Sacc. SPECIES
-=======
+# Phyllosticta calystegiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

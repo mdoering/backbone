@@ -1,5 +1,4 @@
-Boletus angulatus Schumach. SPECIES
-=======
+# Boletus angulatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

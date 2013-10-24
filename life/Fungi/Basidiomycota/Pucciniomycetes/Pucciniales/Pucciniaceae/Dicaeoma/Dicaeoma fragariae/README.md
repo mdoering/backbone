@@ -1,5 +1,4 @@
-Dicaeoma fragariae (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma fragariae (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

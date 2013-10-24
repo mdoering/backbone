@@ -1,14 +1,13 @@
-Nesolechia inquinans (Tul.) A. Massal. SPECIES
-=======
+# Micarea inquinans (Tul.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 48: 169 (1992)
 
 #### Original name
 Abrothallus inquinans Tul.

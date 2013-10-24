@@ -1,5 +1,4 @@
-Coniothyrium rafniicola (Henn.) Petr. SPECIES
-=======
+# Coniothyrium rafniicola (Henn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

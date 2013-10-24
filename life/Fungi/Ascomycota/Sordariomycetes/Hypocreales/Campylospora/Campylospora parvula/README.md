@@ -1,5 +1,4 @@
-Campylospora parvula Kuzuha, 1973 SPECIES
-=======
+# Campylospora parvula Kuzuha, 1973 SPECIES
 
 #### Status
 ACCEPTED

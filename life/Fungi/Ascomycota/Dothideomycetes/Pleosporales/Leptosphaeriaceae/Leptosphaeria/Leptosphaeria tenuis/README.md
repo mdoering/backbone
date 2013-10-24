@@ -1,5 +1,4 @@
-Leptosphaeria tenuis E. Müll. SPECIES
-=======
+# Leptosphaeria tenuis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

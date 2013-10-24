@@ -1,5 +1,4 @@
-Thalloidima mesenteriforme Arnold SPECIES
-=======
+# Thalloidima mesenteriforme Arnold SPECIES
 
 #### Status
 ACCEPTED

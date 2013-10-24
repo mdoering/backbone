@@ -1,5 +1,4 @@
-Asteridiella daphniphylli W. Yamam. SPECIES
-=======
+# Asteridiella daphniphylli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nephroma bellum f. bellum FORM
-=======
+# Nephroma bellum (Spreng.) Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boston J. Nat. Hist. 3: 293 (1841)
 
 #### Original name
-Nephroma bellum f. bellum
+Peltigera bella Spreng.
 
 ### Remarks
 null

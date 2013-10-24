@@ -1,5 +1,4 @@
-Buellia toninioides SPECIES
-=======
+# Buellia toninioides SPECIES
 
 #### Status
 ACCEPTED

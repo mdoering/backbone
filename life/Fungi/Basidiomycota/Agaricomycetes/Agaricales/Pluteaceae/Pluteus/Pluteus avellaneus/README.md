@@ -1,5 +1,4 @@
-Pluteus avellaneus Murrill SPECIES
-=======
+# Pluteus avellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anastrophella macrospora E. Horak & Desjardin, 1994 SPECIES
-=======
+# Anastrophella macrospora E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

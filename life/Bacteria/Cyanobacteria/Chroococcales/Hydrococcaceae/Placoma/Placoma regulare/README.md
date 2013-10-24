@@ -1,5 +1,4 @@
-Placoma regulare P.A. Broady & M. Ingerfeld SPECIES
-=======
+# Placoma regulare P.A. Broady & M. Ingerfeld SPECIES
 
 #### Status
 ACCEPTED

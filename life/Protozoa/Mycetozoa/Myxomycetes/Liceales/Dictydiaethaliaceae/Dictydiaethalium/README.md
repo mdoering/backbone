@@ -1,5 +1,4 @@
-Dictydiaethalium Rostaf. GENUS
-=======
+# Dictydiaethalium Rostaf. GENUS
 
 #### Status
 ACCEPTED

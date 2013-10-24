@@ -1,5 +1,4 @@
-Chrysococcus diaphanus Skuja SPECIES
-=======
+# Chrysococcus diaphanus Skuja SPECIES
 
 #### Status
 ACCEPTED

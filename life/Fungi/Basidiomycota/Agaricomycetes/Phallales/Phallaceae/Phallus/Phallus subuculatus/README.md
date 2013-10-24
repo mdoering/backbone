@@ -1,5 +1,4 @@
-Phallus subuculatus Mont. SPECIES
-=======
+# Phallus subuculatus Mont. SPECIES
 
 #### Status
 ACCEPTED

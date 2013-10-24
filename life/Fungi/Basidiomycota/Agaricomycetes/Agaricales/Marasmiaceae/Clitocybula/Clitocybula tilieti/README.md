@@ -1,5 +1,4 @@
-Clitocybula tilieti (Singer) Singer SPECIES
-=======
+# Clitocybula tilieti (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

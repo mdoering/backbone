@@ -1,5 +1,4 @@
-Heppia trinitatis Vain. SPECIES
-=======
+# Heppia trinitatis Vain. SPECIES
 
 #### Status
 ACCEPTED

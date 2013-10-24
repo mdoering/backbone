@@ -1,17 +1,16 @@
-Coenogonium linkii var. linkii Ehrenb. VARIETY
-=======
+# Coenogonium linkii Ehrenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Nees, Horae Phys. Berol. 120, pl. 27 (1820)
 
 #### Original name
-Coenogonium linkii var. linkii Ehrenb.
+Coenogonium linkii Ehrenb.
 
 ### Remarks
 null

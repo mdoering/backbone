@@ -1,5 +1,4 @@
-Lepiota chudaei Pat. SPECIES
-=======
+# Lepiota chudaei Pat. SPECIES
 
 #### Status
 ACCEPTED

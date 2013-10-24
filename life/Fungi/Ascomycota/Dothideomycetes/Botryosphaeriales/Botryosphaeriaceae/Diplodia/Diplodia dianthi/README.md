@@ -1,5 +1,4 @@
-Diplodia dianthi Ces. SPECIES
-=======
+# Diplodia dianthi Ces. SPECIES
 
 #### Status
 ACCEPTED

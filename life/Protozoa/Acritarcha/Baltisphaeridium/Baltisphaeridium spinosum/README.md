@@ -1,5 +1,4 @@
-Baltisphaeridium spinosum Rasul, 1979 SPECIES
-=======
+# Baltisphaeridium spinosum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

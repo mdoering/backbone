@@ -1,5 +1,4 @@
-Candida chickasaworum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida chickasaworum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

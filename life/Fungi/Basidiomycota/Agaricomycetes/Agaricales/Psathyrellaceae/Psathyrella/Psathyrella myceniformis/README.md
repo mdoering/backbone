@@ -1,5 +1,4 @@
-Psathyrella myceniformis Dennis SPECIES
-=======
+# Psathyrella myceniformis Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella difficilis Kahl, 1933 SPECIES
-=======
+# Vorticella difficilis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

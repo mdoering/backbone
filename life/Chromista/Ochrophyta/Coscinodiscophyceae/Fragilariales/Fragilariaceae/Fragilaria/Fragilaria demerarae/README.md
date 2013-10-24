@@ -1,5 +1,4 @@
-Fragilaria demerarae (Grunow) Lange-Bertalot SPECIES
-=======
+# Fragilaria demerarae (Grunow) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

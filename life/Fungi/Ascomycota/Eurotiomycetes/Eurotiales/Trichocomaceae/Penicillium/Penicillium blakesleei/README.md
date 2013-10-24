@@ -1,5 +1,4 @@
-Penicillium blakesleei K.M. Zalessky SPECIES
-=======
+# Penicillium blakesleei K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

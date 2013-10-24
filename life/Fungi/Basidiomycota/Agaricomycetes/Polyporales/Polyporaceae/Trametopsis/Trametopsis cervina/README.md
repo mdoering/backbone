@@ -1,14 +1,13 @@
-Coriolellus cervinus f. cervinus FORM
-=======
+# Trametopsis cervina (Schwein.) Tomšovský, 2008 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 11(3): 161 (1957)
+Czech Mycol. 60(1): 8 (2008)
 
 #### Original name
 Boletus cervinus Schwein., 1822

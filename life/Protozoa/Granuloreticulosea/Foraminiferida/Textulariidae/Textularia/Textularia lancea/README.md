@@ -1,5 +1,4 @@
-Textularia lancea Lalicker & McCulloch, 1940 SPECIES
-=======
+# Textularia lancea Lalicker & McCulloch, 1940 SPECIES
 
 #### Status
 ACCEPTED

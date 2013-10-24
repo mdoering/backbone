@@ -1,5 +1,4 @@
-Diaporthe phaceliae Cooke & Harkn. SPECIES
-=======
+# Diaporthe phaceliae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

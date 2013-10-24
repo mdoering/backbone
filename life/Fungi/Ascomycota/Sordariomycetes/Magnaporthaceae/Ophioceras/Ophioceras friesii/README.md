@@ -1,5 +1,4 @@
-Ophioceras friesii (Mont.) Sacc. SPECIES
-=======
+# Ophioceras friesii (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Westerdykella rapa-nuiensis Stchigel & Guarro SPECIES
-=======
+# Westerdykella rapa-nuiensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

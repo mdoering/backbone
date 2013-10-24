@@ -1,17 +1,16 @@
-Lepraria frigida J.R. Laundon SPECIES
-=======
+# Lepraria eburnea J. R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 24(4): 332 (1992)
+Sommerfeltia 14: 196 (1992)
 
 #### Original name
-Lepraria frigida J.R. Laundon
+Lepraria eburnea J. R. Laundon
 
 ### Remarks
 null

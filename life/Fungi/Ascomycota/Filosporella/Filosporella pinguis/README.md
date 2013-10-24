@@ -1,5 +1,4 @@
-Filosporella pinguis Marvanová & Bärl. SPECIES
-=======
+# Filosporella pinguis Marvanová & Bärl. SPECIES
 
 #### Status
 ACCEPTED

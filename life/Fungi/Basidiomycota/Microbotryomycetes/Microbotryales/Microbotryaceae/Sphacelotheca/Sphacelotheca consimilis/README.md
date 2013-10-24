@@ -1,5 +1,4 @@
-Sphacelotheca consimilis Thirum. & Pavgi SPECIES
-=======
+# Sphacelotheca consimilis Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

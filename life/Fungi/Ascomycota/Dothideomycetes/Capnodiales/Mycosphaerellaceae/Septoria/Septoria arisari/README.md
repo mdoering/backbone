@@ -1,5 +1,4 @@
-Septoria arisari (Durieu & Mont.) Sacc. SPECIES
-=======
+# Septoria arisari (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

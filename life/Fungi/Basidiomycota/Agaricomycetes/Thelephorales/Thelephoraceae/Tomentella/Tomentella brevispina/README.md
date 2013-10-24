@@ -1,14 +1,13 @@
-Tomentella spongiosa var. brevispina Bourdot & Galzin, 1924 VARIETY
-=======
+# Tomentella brevispina (Bourdot & Galzin) M.J. Larsen, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40(2): 154 (1924)
+Mycologia 62(1): 136 (1970)
 
 #### Original name
 Tomentella spongiosa var. brevispina Bourdot & Galzin, 1924

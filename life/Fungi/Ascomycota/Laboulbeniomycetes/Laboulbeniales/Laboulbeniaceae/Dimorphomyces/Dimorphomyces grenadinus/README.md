@@ -1,5 +1,4 @@
-Dimorphomyces grenadinus Thaxt. SPECIES
-=======
+# Dimorphomyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerella pittospori Cooke, 1878 SPECIES
-=======
+# Mycosphaerella pittospori (Cooke) F.A. Weiss, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 7(no. 42): 53 (1878)
+null
 
 #### Original name
 Sphaerella pittospori Cooke, 1878

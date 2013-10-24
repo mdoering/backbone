@@ -1,5 +1,4 @@
-Exobasidium poasanum L.D. Gómez & Kisim.-Hor., 1998 SPECIES
-=======
+# Exobasidium poasanum L.D. Gómez & Kisim.-Hor., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylatractona Haeckel, 1887 GENUS
-=======
+# Stylatractona Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

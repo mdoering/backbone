@@ -1,5 +1,4 @@
-Endogonium vitis Crocq. {?} SPECIES
-=======
+# Endogonium vitis Crocq. {?} SPECIES
 
 #### Status
 ACCEPTED

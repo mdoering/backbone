@@ -1,5 +1,4 @@
-Gloniopsis ambigua Sacc. SPECIES
-=======
+# Gloniopsis ambigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

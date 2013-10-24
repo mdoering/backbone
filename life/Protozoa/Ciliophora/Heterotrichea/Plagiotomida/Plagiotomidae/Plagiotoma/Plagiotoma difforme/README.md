@@ -1,5 +1,4 @@
-Plagiotoma difforme SPECIES
-=======
+# Plagiotoma difforme SPECIES
 
 #### Status
 ACCEPTED

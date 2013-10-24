@@ -1,5 +1,4 @@
-Galzinia ellipsospora S.S. Rattan, 1977 SPECIES
-=======
+# Galzinia ellipsospora S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

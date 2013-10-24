@@ -1,5 +1,4 @@
-Penicillium jugoslavicum C. Ramírez & Munt.-Cvetk. SPECIES
-=======
+# Penicillium jugoslavicum C. Ramírez & Munt.-Cvetk. SPECIES
 
 #### Status
 ACCEPTED

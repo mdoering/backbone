@@ -1,5 +1,4 @@
-Tyromyces sibiricus Penzina & Ryvarden SPECIES
-=======
+# Tyromyces sibiricus Penzina & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

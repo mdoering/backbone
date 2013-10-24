@@ -1,5 +1,4 @@
-Sporothrix setiphila (Deighton & Piroz.) de Hoog SPECIES
-=======
+# Sporothrix setiphila (Deighton & Piroz.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

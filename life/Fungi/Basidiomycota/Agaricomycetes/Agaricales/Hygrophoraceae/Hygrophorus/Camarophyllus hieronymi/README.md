@@ -1,5 +1,4 @@
-Camarophyllus hieronymi Singer SPECIES
-=======
+# Camarophyllus hieronymi Singer SPECIES
 
 #### Status
 ACCEPTED

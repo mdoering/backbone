@@ -1,5 +1,4 @@
-Lithodesmioides minutum H.A. von Stosch, 1987 SPECIES
-=======
+# Lithodesmioides minutum H.A. von Stosch, 1987 SPECIES
 
 #### Status
 ACCEPTED

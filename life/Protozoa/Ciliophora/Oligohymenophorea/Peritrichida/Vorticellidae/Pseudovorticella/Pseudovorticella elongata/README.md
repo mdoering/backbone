@@ -1,5 +1,4 @@
-Pseudovorticella elongata (Fromentel, 1876) Leitner & Foissner, 1987 SPECIES
-=======
+# Pseudovorticella elongata (Fromentel, 1876) Leitner & Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

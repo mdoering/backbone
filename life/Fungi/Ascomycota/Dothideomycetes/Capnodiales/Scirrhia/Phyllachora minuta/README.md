@@ -1,5 +1,4 @@
-Phyllachora minuta Henn., 1902 SPECIES
-=======
+# Phyllachora minuta Henn., 1902 SPECIES
 
 #### Status
 DOUBTFUL

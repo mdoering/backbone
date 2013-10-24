@@ -1,5 +1,4 @@
-Placodium olbiense (Nyl.) Boistel SPECIES
-=======
+# Placodium olbiense (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

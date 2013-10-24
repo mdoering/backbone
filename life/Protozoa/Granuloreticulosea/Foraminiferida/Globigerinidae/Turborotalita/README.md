@@ -1,8 +1,7 @@
-Turborotalida GENUS
-=======
+# Turborotalita Blow & Banner, 1962 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

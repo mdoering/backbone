@@ -1,5 +1,4 @@
-Fragilaria leptostauron var. leptostauron VARIETY
-=======
+# Fragilaria leptostauron (Ehrenberg) Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Metasphaeria rubella (Sacc. & Malbr.) Sacc., 1883 SPECIES
-=======
+# Leptosphaeria rubella Sacc. & Malbr., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 161 (1883)
+Michelia 2(no. 8): 598 (1882)
 
 #### Original name
-Sphaeria rubella Pers., 1801
+Leptosphaeria rubella Sacc. & Malbr., 1882
 
 ### Remarks
 null

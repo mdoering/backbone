@@ -1,5 +1,4 @@
-Crinipellis ticoi Halling SPECIES
-=======
+# Crinipellis ticoi Halling SPECIES
 
 #### Status
 ACCEPTED

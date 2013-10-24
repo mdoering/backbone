@@ -1,5 +1,4 @@
-Uredo consanguinea Syd. & P. Syd. SPECIES
-=======
+# Uredo consanguinea Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

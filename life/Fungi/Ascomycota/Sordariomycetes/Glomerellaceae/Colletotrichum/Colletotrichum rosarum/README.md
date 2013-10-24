@@ -1,5 +1,4 @@
-Colletotrichum rosarum Av.-Saccá SPECIES
-=======
+# Colletotrichum rosarum Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

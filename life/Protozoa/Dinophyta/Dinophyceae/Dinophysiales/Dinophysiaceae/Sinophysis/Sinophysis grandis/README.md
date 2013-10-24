@@ -1,5 +1,4 @@
-Sinophysis grandis M. Hoppenrath SPECIES
-=======
+# Sinophysis grandis M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Creonectria seminicola Seaver SPECIES
-=======
+# Creonectria seminicola Seaver SPECIES
 
 #### Status
 ACCEPTED

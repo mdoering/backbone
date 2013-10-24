@@ -1,8 +1,7 @@
-Dasyscypha heterochaetus Syd. {?} SPECIES
-=======
+# Dasyscyphus heterochaetus Syd. {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha heterochaetus Syd. {?}
+Dasyscyphus heterochaetus Syd. {?}
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeonectriella lignicola R.A. Eaton & E.B.G. Jones, 1971 SPECIES
-=======
+# Phaeonectriella lignicola R.A. Eaton & E.B.G. Jones, 1971 SPECIES
 
 #### Status
 ACCEPTED

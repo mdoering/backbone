@@ -1,5 +1,4 @@
-Hymenogaster rubyensis Fogel & States SPECIES
-=======
+# Hymenogaster rubyensis Fogel & States SPECIES
 
 #### Status
 ACCEPTED

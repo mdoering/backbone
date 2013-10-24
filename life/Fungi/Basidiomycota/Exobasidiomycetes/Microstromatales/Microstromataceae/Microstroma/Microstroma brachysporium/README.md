@@ -1,5 +1,4 @@
-Microstroma brachysporium Peck SPECIES
-=======
+# Microstroma brachysporium Peck SPECIES
 
 #### Status
 ACCEPTED

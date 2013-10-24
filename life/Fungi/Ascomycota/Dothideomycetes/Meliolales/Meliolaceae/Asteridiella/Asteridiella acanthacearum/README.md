@@ -1,5 +1,4 @@
-Asteridiella acanthacearum Hosag. SPECIES
-=======
+# Asteridiella acanthacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chelisporium hysterioides Speg. SPECIES
-=======
+# Chelisporium hysterioides Speg. SPECIES
 
 #### Status
 ACCEPTED

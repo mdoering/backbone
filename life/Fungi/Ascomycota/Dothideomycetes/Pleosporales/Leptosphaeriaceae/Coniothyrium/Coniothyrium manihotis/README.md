@@ -1,5 +1,4 @@
-Coniothyrium manihotis Nann. SPECIES
-=======
+# Coniothyrium manihotis Nann. SPECIES
 
 #### Status
 ACCEPTED

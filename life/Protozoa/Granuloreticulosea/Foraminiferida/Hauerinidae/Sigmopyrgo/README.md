@@ -1,5 +1,4 @@
-Sigmopyrgo Hofker, 1983 GENUS
-=======
+# Sigmopyrgo Hofker, 1983 GENUS
 
 #### Status
 ACCEPTED

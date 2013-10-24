@@ -1,5 +1,4 @@
-Cercospora scabiosicola Rangel SPECIES
-=======
+# Cercospora scabiosicola Rangel SPECIES
 
 #### Status
 ACCEPTED

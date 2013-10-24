@@ -1,14 +1,13 @@
-Exobasidiellum graminiicola (Bres.) Donk SPECIES
-=======
+# Helicogloea graminicola (Bres.) G.E. Baker, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annual Report of the Missouri Botanical Garden, St. Louis 23: 90 (1936)
 
 #### Original name
 Exobasidium graminicola Bres., 1893

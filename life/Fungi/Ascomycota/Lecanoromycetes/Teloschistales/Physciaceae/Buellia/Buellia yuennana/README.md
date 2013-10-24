@@ -1,8 +1,7 @@
-Buellia yunnana Zahlbr. SPECIES
-=======
+# Buellia yuennana Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia yunnana Zahlbr.
+Buellia yuennana Zahlbr.
 
 ### Remarks
 null

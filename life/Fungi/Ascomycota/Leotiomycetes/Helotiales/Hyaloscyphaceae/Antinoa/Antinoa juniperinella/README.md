@@ -1,5 +1,4 @@
-Antinoa juniperinella (P. Karst.) Velen. SPECIES
-=======
+# Antinoa juniperinella (P. Karst.) Velen. SPECIES
 
 #### Status
 ACCEPTED

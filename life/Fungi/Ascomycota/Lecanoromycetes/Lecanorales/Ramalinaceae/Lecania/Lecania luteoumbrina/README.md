@@ -1,5 +1,4 @@
-Lecania luteoumbrina Zahlbr. SPECIES
-=======
+# Lecania luteoumbrina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

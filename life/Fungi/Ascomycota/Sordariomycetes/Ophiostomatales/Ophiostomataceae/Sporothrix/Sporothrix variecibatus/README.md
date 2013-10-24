@@ -1,5 +1,4 @@
-Sporothrix variecibatus Roets, Z.W. de Beer & P.W. Crous SPECIES
-=======
+# Sporothrix variecibatus Roets, Z.W. de Beer & P.W. Crous SPECIES
 
 #### Status
 ACCEPTED

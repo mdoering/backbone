@@ -1,5 +1,4 @@
-Lecidea atrocarpa (Ach.) Ach. SPECIES
-=======
+# Lecidea atrocarpa (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

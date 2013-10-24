@@ -1,5 +1,4 @@
-Phoma plumbaginis Pass. SPECIES
-=======
+# Phoma plumbaginis Pass. SPECIES
 
 #### Status
 ACCEPTED

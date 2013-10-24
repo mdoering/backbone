@@ -1,5 +1,4 @@
-Rimaconus Huhndorf, F.A. Fernández, J.E. Taylor & K.D. Hyde GENUS
-=======
+# Rimaconus Huhndorf, F.A. Fernández, J.E. Taylor & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

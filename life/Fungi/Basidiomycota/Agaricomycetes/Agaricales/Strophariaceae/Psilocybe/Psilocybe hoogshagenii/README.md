@@ -1,5 +1,4 @@
-Psilocybe hoogshagenii R. Heim SPECIES
-=======
+# Psilocybe hoogshagenii R. Heim SPECIES
 
 #### Status
 ACCEPTED

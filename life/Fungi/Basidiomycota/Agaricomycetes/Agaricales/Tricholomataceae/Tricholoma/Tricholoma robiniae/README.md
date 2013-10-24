@@ -1,5 +1,4 @@
-Tricholoma robiniae Velen. SPECIES
-=======
+# Tricholoma robiniae Velen. SPECIES
 
 #### Status
 ACCEPTED

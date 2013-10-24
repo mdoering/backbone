@@ -1,5 +1,4 @@
-Prodenia terricola Npv SPECIES
-=======
+# Prodenia terricola Npv SPECIES
 
 #### Status
 ACCEPTED

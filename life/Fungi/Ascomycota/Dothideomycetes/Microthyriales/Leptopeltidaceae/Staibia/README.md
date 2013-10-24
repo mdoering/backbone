@@ -1,5 +1,4 @@
-Staibia Bat. & Peres GENUS
-=======
+# Staibia Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

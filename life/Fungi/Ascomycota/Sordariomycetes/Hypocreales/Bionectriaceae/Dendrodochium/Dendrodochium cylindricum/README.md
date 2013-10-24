@@ -1,5 +1,4 @@
-Dendrodochium cylindricum Matsush. SPECIES
-=======
+# Dendrodochium cylindricum Matsush. SPECIES
 
 #### Status
 ACCEPTED

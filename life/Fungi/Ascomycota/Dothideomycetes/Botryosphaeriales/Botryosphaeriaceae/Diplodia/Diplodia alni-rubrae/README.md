@@ -1,5 +1,4 @@
-Diplodia alni-rubrae Peck SPECIES
-=======
+# Diplodia alni-rubrae Peck SPECIES
 
 #### Status
 ACCEPTED

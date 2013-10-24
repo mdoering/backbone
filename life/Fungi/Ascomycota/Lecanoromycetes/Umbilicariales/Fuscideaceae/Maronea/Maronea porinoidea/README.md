@@ -1,5 +1,4 @@
-Maronea porinoidea Zahlbr. SPECIES
-=======
+# Maronea porinoidea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

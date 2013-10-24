@@ -1,5 +1,4 @@
-Sporotrichum flavum (Fr.) Sacc. SPECIES
-=======
+# Sporotrichum flavum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Plectopeltis egenulae Syd. SPECIES
-=======
+# Plectopeltis egenula Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 25(1/2): 125 (1927)
 
 #### Original name
-Plectopeltis egenulae Syd.
+Plectopeltis egenula Syd., 1927
 
 ### Remarks
 null

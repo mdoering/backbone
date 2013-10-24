@@ -1,5 +1,4 @@
-Coprinites Poinar & Singer GENUS
-=======
+# Coprinites Poinar & Singer GENUS
 
 #### Status
 ACCEPTED

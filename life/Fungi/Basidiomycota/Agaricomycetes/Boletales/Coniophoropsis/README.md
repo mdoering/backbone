@@ -1,5 +1,4 @@
-Coniophoropsis Hjortstam & Ryvarden GENUS
-=======
+# Coniophoropsis Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

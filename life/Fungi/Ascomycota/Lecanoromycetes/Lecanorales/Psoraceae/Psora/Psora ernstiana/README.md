@@ -1,5 +1,4 @@
-Psora ernstiana (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Psora ernstiana (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

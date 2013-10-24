@@ -1,5 +1,4 @@
-Ovidiscina W.-W. Zheng in Q.-H. Yang et al., 1980 GENUS
-=======
+# Ovidiscina W.-W. Zheng in Q.-H. Yang et al., 1980 GENUS
 
 #### Status
 ACCEPTED

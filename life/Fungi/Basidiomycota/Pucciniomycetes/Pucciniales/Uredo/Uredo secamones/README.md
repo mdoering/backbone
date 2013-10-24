@@ -1,5 +1,4 @@
-Uredo secamones (Wakef. & Hansf.) Gjaerum SPECIES
-=======
+# Uredo secamones (Wakef. & Hansf.) Gjaerum SPECIES
 
 #### Status
 ACCEPTED

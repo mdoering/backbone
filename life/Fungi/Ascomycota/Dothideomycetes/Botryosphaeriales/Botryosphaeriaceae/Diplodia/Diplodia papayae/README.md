@@ -1,5 +1,4 @@
-Diplodia papayae Thüm. SPECIES
-=======
+# Diplodia papayae Thüm. SPECIES
 
 #### Status
 ACCEPTED

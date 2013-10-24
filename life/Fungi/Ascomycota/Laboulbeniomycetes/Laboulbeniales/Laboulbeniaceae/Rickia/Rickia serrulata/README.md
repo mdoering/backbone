@@ -1,5 +1,4 @@
-Rickia serrulata A. Weir SPECIES
-=======
+# Rickia serrulata A. Weir SPECIES
 
 #### Status
 ACCEPTED

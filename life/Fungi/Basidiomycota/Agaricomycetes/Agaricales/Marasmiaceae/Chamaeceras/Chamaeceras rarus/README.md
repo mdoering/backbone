@@ -1,5 +1,4 @@
-Chamaeceras rarus (Britzelm.) Kuntze SPECIES
-=======
+# Chamaeceras rarus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samlandia chlamydophora Eisenack, 1954 SPECIES
-=======
+# Samlandia chlamydophora Eisenack, 1954 SPECIES
 
 #### Status
 ACCEPTED

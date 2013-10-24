@@ -1,8 +1,7 @@
-Anabaena flos-aquae var. gracile Lemmermann VARIETY
-=======
+# Aphanizomenon gracile Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

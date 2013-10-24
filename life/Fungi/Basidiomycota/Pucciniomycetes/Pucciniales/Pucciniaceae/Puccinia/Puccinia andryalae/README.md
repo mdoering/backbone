@@ -1,5 +1,4 @@
-Puccinia andryalae (Syd. & P. Syd.) Maire SPECIES
-=======
+# Puccinia andryalae (Syd. & P. Syd.) Maire SPECIES
 
 #### Status
 ACCEPTED

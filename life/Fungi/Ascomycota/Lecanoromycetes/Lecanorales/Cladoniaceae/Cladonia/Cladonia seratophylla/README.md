@@ -1,5 +1,4 @@
-Cladonia seratophylla (Sw.) Spreng. SPECIES
-=======
+# Cladonia seratophylla (Sw.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

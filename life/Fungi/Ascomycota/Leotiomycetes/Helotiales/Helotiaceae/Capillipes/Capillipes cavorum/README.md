@@ -1,5 +1,4 @@
-Capillipes cavorum R. Sant., 1956 SPECIES
-=======
+# Capillipes cavorum R. Sant., 1956 SPECIES
 
 #### Status
 ACCEPTED

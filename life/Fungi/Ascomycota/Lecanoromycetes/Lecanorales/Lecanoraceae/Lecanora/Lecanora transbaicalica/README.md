@@ -1,5 +1,4 @@
-Lecanora transbaicalica Oxner SPECIES
-=======
+# Lecanora transbaicalica Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stagonospora vexata var. foliicola Bres. VARIETY
-=======
+# Stagonospora foliicola (Bres.) Bubák, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trudy Sredneaz. Univ. 14(5): 37 (1950)
 
 #### Original name
-Stagonospora vexata var. foliicola Bres.
+Stagonospora foliicola (Bres.) Bubák, 1915
 
 ### Remarks
 null

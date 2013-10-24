@@ -1,5 +1,4 @@
-Omphalina lilaceorosea Svrcek & Kubicka SPECIES
-=======
+# Omphalina lilaceorosea Svrcek & Kubicka SPECIES
 
 #### Status
 ACCEPTED

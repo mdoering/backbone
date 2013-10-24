@@ -1,5 +1,4 @@
-Limacinia japonicum Hara SPECIES
-=======
+# Limacinia japonicum Hara SPECIES
 
 #### Status
 ACCEPTED

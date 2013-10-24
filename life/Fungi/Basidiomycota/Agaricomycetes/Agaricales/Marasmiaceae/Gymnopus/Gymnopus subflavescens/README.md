@@ -1,5 +1,4 @@
-Gymnopus subflavescens Murrill SPECIES
-=======
+# Gymnopus subflavescens Murrill SPECIES
 
 #### Status
 ACCEPTED

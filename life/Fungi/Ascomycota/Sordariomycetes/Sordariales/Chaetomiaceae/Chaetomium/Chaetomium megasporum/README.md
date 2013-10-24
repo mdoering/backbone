@@ -1,14 +1,13 @@
-Achaetomiella megaspora (Sörgel) D. Hawksw., 1975 SPECIES
-=======
+# Chaetomium megasporum Sörgel ex Seth, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 65(1): 136 (1975)
+in Seth, Nova Hedwigia, Beih. 37: 82 (1972)
 
 #### Original name
 Chaetomium megasporum Sörgel ex Seth, 1972

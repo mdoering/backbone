@@ -1,5 +1,4 @@
-Septoria polyalthicola V.G. Rao & B.R.D. Yadav SPECIES
-=======
+# Septoria polyalthicola V.G. Rao & B.R.D. Yadav SPECIES
 
 #### Status
 ACCEPTED

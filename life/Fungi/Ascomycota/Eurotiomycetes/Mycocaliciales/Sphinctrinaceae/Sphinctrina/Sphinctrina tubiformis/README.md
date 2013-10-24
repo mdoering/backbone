@@ -1,14 +1,13 @@
-Cyphelium tubaeforme (A. Massal.) A. Schneid. SPECIES
-=======
+# Sphinctrina tubiformis A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. lich. 155 (1853)
 
 #### Original name
 Sphinctrina tubiformis A. Massal.

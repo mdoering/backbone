@@ -1,5 +1,4 @@
-Carbacanthographis stictica Staiger & Kalb SPECIES
-=======
+# Carbacanthographis stictica Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

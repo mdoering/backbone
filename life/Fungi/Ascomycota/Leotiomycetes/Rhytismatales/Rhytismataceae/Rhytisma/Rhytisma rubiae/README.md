@@ -1,5 +1,4 @@
-Rhytisma rubiae Mont. SPECIES
-=======
+# Rhytisma rubiae Mont. SPECIES
 
 #### Status
 ACCEPTED

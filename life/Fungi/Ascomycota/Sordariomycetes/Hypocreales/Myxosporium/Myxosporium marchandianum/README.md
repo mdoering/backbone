@@ -1,5 +1,4 @@
-Myxosporium marchandianum Sacc. & Roum. SPECIES
-=======
+# Myxosporium marchandianum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

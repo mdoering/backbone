@@ -1,5 +1,4 @@
-Sphaerella brunnea (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sphaerella brunnea (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

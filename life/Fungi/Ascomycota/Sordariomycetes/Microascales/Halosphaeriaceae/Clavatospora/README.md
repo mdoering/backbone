@@ -1,5 +1,4 @@
-Clavatospora Sv. Nilsson ex Marvanová & Sv. Nilsson GENUS
-=======
+# Clavatospora Sv. Nilsson ex Marvanová & Sv. Nilsson GENUS
 
 #### Status
 ACCEPTED

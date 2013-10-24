@@ -1,5 +1,4 @@
-Spirulina gigantea Schmidle SPECIES
-=======
+# Spirulina gigantea Schmidle SPECIES
 
 #### Status
 ACCEPTED

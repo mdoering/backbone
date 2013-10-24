@@ -1,5 +1,4 @@
-Crenasclerotes stachii Pickh. SPECIES
-=======
+# Crenasclerotes stachii Pickh. SPECIES
 
 #### Status
 ACCEPTED

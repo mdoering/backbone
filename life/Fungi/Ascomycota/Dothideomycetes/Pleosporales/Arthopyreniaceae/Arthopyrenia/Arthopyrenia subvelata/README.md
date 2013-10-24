@@ -1,5 +1,4 @@
-Arthopyrenia subvelata (Ach.) R.C. Harris SPECIES
-=======
+# Arthopyrenia subvelata (Ach.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trimosina echinata Earland & Heron-Allen SPECIES
-=======
+# Trimosina echinata Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

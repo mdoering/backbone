@@ -1,8 +1,7 @@
-Lecidea stuhlmanni (Müll. Arg.) Hue SPECIES
-=======
+# Lecidea stuhlmannii (Müll. Arg.) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

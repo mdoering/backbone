@@ -1,5 +1,4 @@
-Psathyrella naucoria A.H. Sm. SPECIES
-=======
+# Psathyrella naucoria A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

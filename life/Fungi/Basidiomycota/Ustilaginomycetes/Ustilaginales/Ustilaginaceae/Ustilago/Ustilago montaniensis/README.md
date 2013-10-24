@@ -1,5 +1,4 @@
-Ustilago montaniensis Ellis & Holw. SPECIES
-=======
+# Ustilago montaniensis Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

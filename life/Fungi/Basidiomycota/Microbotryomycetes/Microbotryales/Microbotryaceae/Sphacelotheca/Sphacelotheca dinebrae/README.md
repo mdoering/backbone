@@ -1,5 +1,4 @@
-Sphacelotheca dinebrae Mundk. SPECIES
-=======
+# Sphacelotheca dinebrae Mundk. SPECIES
 
 #### Status
 ACCEPTED

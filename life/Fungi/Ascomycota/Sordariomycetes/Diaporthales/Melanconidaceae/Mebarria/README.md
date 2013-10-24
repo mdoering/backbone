@@ -1,5 +1,4 @@
-Mebarria J. Reid & C. Booth GENUS
-=======
+# Mebarria J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

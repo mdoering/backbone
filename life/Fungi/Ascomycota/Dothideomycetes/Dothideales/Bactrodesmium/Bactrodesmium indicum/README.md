@@ -1,5 +1,4 @@
-Bactrodesmium indicum Udaiyan SPECIES
-=======
+# Bactrodesmium indicum Udaiyan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeophyscia insignis (Mereschk.) Moberg SPECIES
-=======
+# Phaeophyscia insignis (Mereschk.) Moberg SPECIES
 
 #### Status
 ACCEPTED

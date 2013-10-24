@@ -1,5 +1,4 @@
-Lactifluus stenophyllus (Berk.) Kuntze SPECIES
-=======
+# Lactifluus stenophyllus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

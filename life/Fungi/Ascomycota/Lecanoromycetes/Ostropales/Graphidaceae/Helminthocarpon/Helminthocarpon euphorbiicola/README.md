@@ -1,8 +1,7 @@
-Helminthocarpon euphorbicola J. Steiner SPECIES
-=======
+# Helminthocarpon euphorbiicola J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helminthocarpon euphorbicola J. Steiner
+Helminthocarpon euphorbiicola J. Steiner
 
 ### Remarks
 null

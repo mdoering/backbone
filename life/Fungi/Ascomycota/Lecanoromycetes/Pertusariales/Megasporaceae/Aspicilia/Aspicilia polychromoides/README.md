@@ -1,5 +1,4 @@
-Aspicilia polychromoides f. polychromoides FORM
-=======
+# Aspicilia polychromoides (Stirt.) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia polychromoides f. polychromoides
+Lecanora polychromoides Stirt.
 
 ### Remarks
 null

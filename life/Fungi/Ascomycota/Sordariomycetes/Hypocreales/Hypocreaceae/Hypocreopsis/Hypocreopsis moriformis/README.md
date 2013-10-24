@@ -1,5 +1,4 @@
-Hypocreopsis moriformis Starbäck SPECIES
-=======
+# Hypocreopsis moriformis Starbäck SPECIES
 
 #### Status
 ACCEPTED

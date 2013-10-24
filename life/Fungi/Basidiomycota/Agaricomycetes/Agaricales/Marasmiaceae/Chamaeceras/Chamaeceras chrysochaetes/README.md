@@ -1,5 +1,4 @@
-Chamaeceras chrysochaetes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras chrysochaetes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

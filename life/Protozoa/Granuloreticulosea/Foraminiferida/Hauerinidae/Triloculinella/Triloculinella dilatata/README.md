@@ -1,8 +1,7 @@
-Miliolina dilatata var. angusteoralis Wiesner, 1923 VARIETY
-=======
+# Triloculinella dilatata (d’Orbigny, 1839) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

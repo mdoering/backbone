@@ -1,5 +1,4 @@
-Anisomeridium consimile (Vain.) R.C. Harris SPECIES
-=======
+# Anisomeridium consimile (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

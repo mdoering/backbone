@@ -1,5 +1,4 @@
-Melanospora schmidtii Sacc. SPECIES
-=======
+# Melanospora schmidtii Sacc. SPECIES
 
 #### Status
 ACCEPTED

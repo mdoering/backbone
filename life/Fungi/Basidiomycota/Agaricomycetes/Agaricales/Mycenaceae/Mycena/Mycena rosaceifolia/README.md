@@ -1,5 +1,4 @@
-Mycena rosaceifolia Singer SPECIES
-=======
+# Mycena rosaceifolia Singer SPECIES
 
 #### Status
 ACCEPTED

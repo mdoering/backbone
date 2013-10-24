@@ -1,5 +1,4 @@
-Marasmius trabutii var. trabutii VARIETY
-=======
+# Marasmius trabutii Maire SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius trabutii var. trabutii
+Marasmius trabutii Maire
 
 ### Remarks
 null

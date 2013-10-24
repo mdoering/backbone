@@ -1,5 +1,4 @@
-Puccinia cephalotes W.T. Dale SPECIES
-=======
+# Puccinia cephalotes W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

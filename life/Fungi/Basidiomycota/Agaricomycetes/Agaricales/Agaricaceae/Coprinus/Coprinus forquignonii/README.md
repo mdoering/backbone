@@ -1,5 +1,4 @@
-Coprinus forquignonii Jacobashch SPECIES
-=======
+# Coprinus forquignonii Jacobashch SPECIES
 
 #### Status
 ACCEPTED

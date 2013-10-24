@@ -1,17 +1,16 @@
-Ceratocystis rufipenni M.J. Wingf., T.C. Harr. & H. Solheim SPECIES
-=======
+# Ceratocystis rufipennis M.J. Wingf., T.C. Harr. & H. Solheim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 75(5): 828 (1997)
 
 #### Original name
-Ceratocystis rufipenni M.J. Wingf., T.C. Harr. & H. Solheim
+Ceratocystis rufipennis M.J. Wingf., T.C. Harr. & H. Solheim
 
 ### Remarks
 null

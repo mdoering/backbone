@@ -1,5 +1,4 @@
-Hymenoscyphus tatrae (Svrcek) Lizon SPECIES
-=======
+# Hymenoscyphus tatrae (Svrcek) Lizon SPECIES
 
 #### Status
 ACCEPTED

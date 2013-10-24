@@ -1,5 +1,4 @@
-Cylindrium intermixtum McAlpine SPECIES
-=======
+# Cylindrium intermixtum McAlpine SPECIES
 
 #### Status
 ACCEPTED

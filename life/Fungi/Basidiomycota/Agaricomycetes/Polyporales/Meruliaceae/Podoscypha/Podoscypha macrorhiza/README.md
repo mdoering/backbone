@@ -1,5 +1,4 @@
-Podoscypha macrorhiza (Lév.) Pat. SPECIES
-=======
+# Podoscypha macrorhiza (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

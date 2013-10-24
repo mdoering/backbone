@@ -1,5 +1,4 @@
-Tricholoma rimosoides Dennis SPECIES
-=======
+# Tricholoma rimosoides Dennis SPECIES
 
 #### Status
 ACCEPTED

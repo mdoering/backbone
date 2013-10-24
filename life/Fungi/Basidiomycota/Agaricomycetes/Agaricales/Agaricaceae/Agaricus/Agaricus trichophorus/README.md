@@ -1,5 +1,4 @@
-Agaricus trichophorus Zipp. & Lév. SPECIES
-=======
+# Agaricus trichophorus Zipp. & Lév. SPECIES
 
 #### Status
 ACCEPTED

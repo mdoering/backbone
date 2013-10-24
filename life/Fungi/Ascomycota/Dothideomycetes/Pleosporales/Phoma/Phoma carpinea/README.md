@@ -1,5 +1,4 @@
-Phoma carpinea (Rehm) Kuntze SPECIES
-=======
+# Phoma carpinea (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

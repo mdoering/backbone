@@ -1,5 +1,4 @@
-Platystomum populinae Gucevic SPECIES
-=======
+# Platystomum populinae Gucevic SPECIES
 
 #### Status
 ACCEPTED

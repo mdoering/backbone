@@ -1,5 +1,4 @@
-Amphitetras zonatulata (Greville) De Toni SPECIES
-=======
+# Amphitetras zonatulata (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

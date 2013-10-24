@@ -1,5 +1,4 @@
-Hendersonia sanguinea Brunaud SPECIES
-=======
+# Hendersonia sanguinea Brunaud SPECIES
 
 #### Status
 ACCEPTED

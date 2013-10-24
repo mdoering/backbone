@@ -1,5 +1,4 @@
-Cladosterigma Pat. GENUS
-=======
+# Cladosterigma Pat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptochloris J. Schiller, 1926 GENUS
-=======
+# Cryptochloris J. Schiller, 1926 GENUS
 
 #### Status
 ACCEPTED

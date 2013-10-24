@@ -1,5 +1,4 @@
-Ramularia aconiti (Petr.) Penz. SPECIES
-=======
+# Ramularia aconiti (Petr.) Penz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen jubatus L. SPECIES
-=======
+# Lichen jubatus L. SPECIES
 
 #### Status
 ACCEPTED

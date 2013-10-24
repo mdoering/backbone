@@ -1,5 +1,4 @@
-Diatoma tenuevar pachycephala Grunow INFRASPECIFIC_NAME
-=======
+# Diatoma tenuevar SPECIES
 
 #### Status
 ACCEPTED

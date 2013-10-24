@@ -1,5 +1,4 @@
-Sargassum huangluense C.K.Tseng & Lu SPECIES
-=======
+# Sargassum huangluense C.K.Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

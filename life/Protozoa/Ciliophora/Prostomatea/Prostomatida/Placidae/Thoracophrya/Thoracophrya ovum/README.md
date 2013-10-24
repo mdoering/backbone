@@ -1,5 +1,4 @@
-Thoracophrya ovum Kahl, 1926 SPECIES
-=======
+# Thoracophrya ovum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

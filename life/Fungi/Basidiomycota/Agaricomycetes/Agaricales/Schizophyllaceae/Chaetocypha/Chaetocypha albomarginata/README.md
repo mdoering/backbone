@@ -1,5 +1,4 @@
-Chaetocypha albomarginata (Pat.) Kuntze SPECIES
-=======
+# Chaetocypha albomarginata (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

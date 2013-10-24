@@ -1,5 +1,4 @@
-Lacazia loboi Taborda, V.A. Taborda & McGinnis, 1999 SPECIES
-=======
+# Lacazia loboi Taborda, V.A. Taborda & McGinnis, 1999 SPECIES
 
 #### Status
 ACCEPTED

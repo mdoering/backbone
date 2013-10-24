@@ -1,5 +1,4 @@
-Melanolecia similigena (Nyl.) Hertel SPECIES
-=======
+# Melanolecia similigena (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED

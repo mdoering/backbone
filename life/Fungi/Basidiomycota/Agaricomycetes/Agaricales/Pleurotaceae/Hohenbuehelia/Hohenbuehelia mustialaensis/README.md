@@ -1,14 +1,13 @@
-Agaricus mustialaensis P. Karst., 1876 SPECIES
-=======
+# Hohenbuehelia mustialaensis (P. Karst.) Thorn, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 25: 99 (1876)
+Mycotaxon 25(1): 62 (1986)
 
 #### Original name
 Agaricus mustialaensis P. Karst., 1876

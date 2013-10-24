@@ -1,5 +1,4 @@
-Zygosaccharomyces ficicola Chaborski SPECIES
-=======
+# Zygosaccharomyces ficicola Chaborski SPECIES
 
 #### Status
 ACCEPTED

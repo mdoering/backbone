@@ -1,5 +1,4 @@
-Acarospora nigromarginata B. de Lesd. SPECIES
-=======
+# Acarospora nigromarginata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

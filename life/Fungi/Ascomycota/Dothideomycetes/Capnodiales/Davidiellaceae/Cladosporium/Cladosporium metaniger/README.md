@@ -1,5 +1,4 @@
-Cladosporium metaniger (Castell.) Ferraris SPECIES
-=======
+# Cladosporium metaniger (Castell.) Ferraris SPECIES
 
 #### Status
 ACCEPTED

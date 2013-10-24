@@ -1,5 +1,4 @@
-Coryneum septosporioides Sacc. & P. Syd. SPECIES
-=======
+# Coryneum septosporioides Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

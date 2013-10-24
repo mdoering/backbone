@@ -1,5 +1,4 @@
-Poteriochroomonas GENUS
-=======
+# Poteriochroomonas GENUS
 
 #### Status
 ACCEPTED

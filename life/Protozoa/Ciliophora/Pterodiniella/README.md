@@ -1,17 +1,16 @@
-Pterodinium Latteur & Dartevelle, 1971 GENUS
-=======
+# Pterodiniella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Cellule 69: 48.
+Denisia 1: 138.
 
 #### Original name
-null
+Pterodinium Latteur & Dartevelle, 1971
 
 ### Remarks
 null

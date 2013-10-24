@@ -1,17 +1,16 @@
-Gyrophora hyperborea var. hyperborea VARIETY
-=======
+# Gyrophora hyperborea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora hyperborea var. hyperborea
+null
 
 ### Remarks
 null

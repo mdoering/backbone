@@ -1,5 +1,4 @@
-Pateramycetaceae Letcher FAMILY
-=======
+# Pateramycetaceae Letcher FAMILY
 
 #### Status
 ACCEPTED

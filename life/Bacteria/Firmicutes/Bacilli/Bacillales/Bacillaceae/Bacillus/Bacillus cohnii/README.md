@@ -1,5 +1,4 @@
-Bacillus cohnii Spanka & Fritze, 1993 SPECIES
-=======
+# Bacillus cohnii Spanka & Fritze, 1993 SPECIES
 
 #### Status
 ACCEPTED

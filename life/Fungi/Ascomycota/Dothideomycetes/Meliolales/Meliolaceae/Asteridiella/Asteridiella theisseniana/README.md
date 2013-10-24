@@ -1,5 +1,4 @@
-Asteridiella theisseniana Hansf. SPECIES
-=======
+# Asteridiella theisseniana Hansf. SPECIES
 
 #### Status
 ACCEPTED

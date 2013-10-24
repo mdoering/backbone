@@ -1,5 +1,4 @@
-Aspergillus appendiculatus Blaser, 1976 SPECIES
-=======
+# Aspergillus appendiculatus Blaser, 1976 SPECIES
 
 #### Status
 ACCEPTED

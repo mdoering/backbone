@@ -1,5 +1,4 @@
-Haplotelium myrsines (Dietel) Syd. SPECIES
-=======
+# Haplotelium myrsines (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilocarpon wettsteinii Zahlbr. SPECIES
-=======
+# Pilocarpon wettsteinii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

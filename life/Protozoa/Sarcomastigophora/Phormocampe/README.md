@@ -1,5 +1,4 @@
-Phormocampe Haeckel, 1887 GENUS
-=======
+# Phormocampe Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

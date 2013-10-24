@@ -1,5 +1,4 @@
-Zukalina GENUS
-=======
+# Zukalina GENUS
 
 #### Status
 ACCEPTED

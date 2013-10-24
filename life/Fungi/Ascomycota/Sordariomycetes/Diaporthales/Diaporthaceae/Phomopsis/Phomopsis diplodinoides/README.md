@@ -1,5 +1,4 @@
-Phomopsis diplodinoides (Sacc.) Punith. SPECIES
-=======
+# Phomopsis diplodinoides (Sacc.) Punith. SPECIES
 
 #### Status
 ACCEPTED

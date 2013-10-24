@@ -1,5 +1,4 @@
-Imbricaria latissima (Fée) Jatta SPECIES
-=======
+# Imbricaria latissima (Fée) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolypothrix crassa W. West & G.S. West SPECIES
-=======
+# Tolypothrix crassa W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

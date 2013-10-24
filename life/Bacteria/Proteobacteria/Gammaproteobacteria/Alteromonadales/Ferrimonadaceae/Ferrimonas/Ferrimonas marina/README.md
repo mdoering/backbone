@@ -1,5 +1,4 @@
-Ferrimonas marina Katsuta et al., 2005 SPECIES
-=======
+# Ferrimonas marina Katsuta et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

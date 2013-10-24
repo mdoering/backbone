@@ -1,5 +1,4 @@
-Irenopsis crataegi S.K. Bose SPECIES
-=======
+# Irenopsis crataegi S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

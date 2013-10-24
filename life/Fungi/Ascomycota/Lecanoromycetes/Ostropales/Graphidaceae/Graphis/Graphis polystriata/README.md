@@ -1,5 +1,4 @@
-Graphis polystriata Makhija, A. Dube, Adaw. & Chitale SPECIES
-=======
+# Graphis polystriata Makhija, A. Dube, Adaw. & Chitale SPECIES
 
 #### Status
 ACCEPTED

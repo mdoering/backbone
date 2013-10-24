@@ -1,5 +1,4 @@
-Sphaerulina ipomoeae F. Stevens SPECIES
-=======
+# Sphaerulina ipomoeae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

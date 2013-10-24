@@ -1,5 +1,4 @@
-Protomycopsis cratalariae Joshi {?} SPECIES
-=======
+# Protomycopsis cratalariae Joshi {?} SPECIES
 
 #### Status
 ACCEPTED

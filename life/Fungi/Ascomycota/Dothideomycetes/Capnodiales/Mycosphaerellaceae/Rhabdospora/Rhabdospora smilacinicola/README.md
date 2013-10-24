@@ -1,5 +1,4 @@
-Rhabdospora smilacinicola Keissl. SPECIES
-=======
+# Rhabdospora smilacinicola Keissl. SPECIES
 
 #### Status
 ACCEPTED

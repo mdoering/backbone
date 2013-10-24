@@ -1,5 +1,4 @@
-Lepiota flos-sulphuris (Schnizl.) Matt. SPECIES
-=======
+# Lepiota flos-sulphuris (Schnizl.) Matt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora ichthyomethiae (Dearn. & Barthol.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora ichthyomethiae (Dearn. & Barthol.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

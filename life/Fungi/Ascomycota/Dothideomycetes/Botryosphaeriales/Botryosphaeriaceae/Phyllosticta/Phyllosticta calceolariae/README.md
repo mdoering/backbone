@@ -1,5 +1,4 @@
-Phyllosticta calceolariae Speg. SPECIES
-=======
+# Phyllosticta calceolariae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trabutia quercina var. quercina VARIETY
-=======
+# Trabutia quercina (F. Rudolphi ex Fr.) Sacc. & Roum., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Revue mycol. , Toulouse 3(9): 27 (1881)
 
 #### Original name
-Trabutia quercina var. quercina
+null
 
 ### Remarks
 null

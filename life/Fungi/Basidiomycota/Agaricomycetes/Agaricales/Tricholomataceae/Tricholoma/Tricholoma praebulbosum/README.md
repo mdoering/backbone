@@ -1,5 +1,4 @@
-Tricholoma praebulbosum (Murrill) Murrill SPECIES
-=======
+# Tricholoma praebulbosum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

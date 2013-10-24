@@ -1,5 +1,4 @@
-Hygrocybe borealis f. borealis FORM
-=======
+# Hygrocybe borealis (Peck) Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 3(no. 9): 8 (1973)
 
 #### Original name
-Hygrocybe borealis f. borealis
+Hygrophorus borealis Peck
 
 ### Remarks
 null

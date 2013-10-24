@@ -1,5 +1,4 @@
-Bacteroides coprosuis Whitehead et al., 2005 SPECIES
-=======
+# Bacteroides coprosuis Whitehead et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

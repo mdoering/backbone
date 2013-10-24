@@ -1,5 +1,4 @@
-Lyngbya investiens Hauck SPECIES
-=======
+# Lyngbya investiens Hauck SPECIES
 
 #### Status
 ACCEPTED

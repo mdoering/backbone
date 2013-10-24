@@ -1,5 +1,4 @@
-Tjibodasia pezizoides Holterm. SPECIES
-=======
+# Tjibodasia pezizoides Holterm. SPECIES
 
 #### Status
 ACCEPTED

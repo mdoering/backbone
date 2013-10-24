@@ -1,5 +1,4 @@
-Xylaria palmicola G. Winter, 1887 SPECIES
-=======
+# Xylaria palmicola G. Winter, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta golenkinianthes Annal. SPECIES
-=======
+# Phyllosticta golenkinianthes Annal. SPECIES
 
 #### Status
 ACCEPTED

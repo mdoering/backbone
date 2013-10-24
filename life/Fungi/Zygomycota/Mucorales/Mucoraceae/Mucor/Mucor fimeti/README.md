@@ -1,5 +1,4 @@
-Mucor fimeti Schrank SPECIES
-=======
+# Mucor fimeti Schrank SPECIES
 
 #### Status
 ACCEPTED

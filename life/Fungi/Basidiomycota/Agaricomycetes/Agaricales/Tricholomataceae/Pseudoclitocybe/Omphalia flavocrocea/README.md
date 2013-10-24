@@ -1,5 +1,4 @@
-Omphalia flavocrocea (Berk.) Sacc. SPECIES
-=======
+# Omphalia flavocrocea (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

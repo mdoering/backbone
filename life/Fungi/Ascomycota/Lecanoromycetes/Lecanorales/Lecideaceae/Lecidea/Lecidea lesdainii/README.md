@@ -1,5 +1,4 @@
-Lecidea lesdainii Zahlbr. SPECIES
-=======
+# Lecidea lesdainii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

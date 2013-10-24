@@ -1,5 +1,4 @@
-Monographella consociata (Rehm) O.E. Erikss. & J.Z. Yue SPECIES
-=======
+# Monographella consociata (Rehm) O.E. Erikss. & J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

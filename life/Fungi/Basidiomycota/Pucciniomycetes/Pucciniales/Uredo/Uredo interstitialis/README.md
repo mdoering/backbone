@@ -1,5 +1,4 @@
-Uredo interstitialis Schltdl. SPECIES
-=======
+# Uredo interstitialis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia gracilis McCune SPECIES
-=======
+# Hypogymnia gracilis McCune SPECIES
 
 #### Status
 ACCEPTED

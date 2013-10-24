@@ -1,5 +1,4 @@
-Gloeosporium malvae P. Syd. SPECIES
-=======
+# Gloeosporium malvae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria rubrococca Brayford & Samuels, 1993 SPECIES
-=======
+# Nectria rubrococca Brayford & Samuels, 1993 SPECIES
 
 #### Status
 ACCEPTED

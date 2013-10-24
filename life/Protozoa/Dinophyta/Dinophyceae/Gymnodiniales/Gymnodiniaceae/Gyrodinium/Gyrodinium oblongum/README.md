@@ -1,5 +1,4 @@
-Gyrodinium oblongum J. Larsen & Patterson, 1990 SPECIES
-=======
+# Gyrodinium oblongum J. Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

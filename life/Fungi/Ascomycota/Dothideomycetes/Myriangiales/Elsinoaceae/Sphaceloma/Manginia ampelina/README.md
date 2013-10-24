@@ -1,5 +1,4 @@
-Manginia ampelina Viala & Pacottet SPECIES
-=======
+# Manginia ampelina Viala & Pacottet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Scleroderma lejospermum (Mont.) De Toni SPECIES
-=======
+# Scleroderma leiospermum (Mont.) De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

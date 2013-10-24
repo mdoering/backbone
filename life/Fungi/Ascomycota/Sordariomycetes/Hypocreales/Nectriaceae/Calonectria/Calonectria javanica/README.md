@@ -1,5 +1,4 @@
-Calonectria javanica Höhn. SPECIES
-=======
+# Calonectria javanica Höhn. SPECIES
 
 #### Status
 ACCEPTED

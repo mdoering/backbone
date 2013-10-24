@@ -1,5 +1,4 @@
-Eutypa bambusiana Penz. & Sacc. SPECIES
-=======
+# Eutypa bambusiana Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

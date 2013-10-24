@@ -1,5 +1,4 @@
-Antennaria castilloae Zimm. SPECIES
-=======
+# Antennaria castilloae Zimm. SPECIES
 
 #### Status
 ACCEPTED

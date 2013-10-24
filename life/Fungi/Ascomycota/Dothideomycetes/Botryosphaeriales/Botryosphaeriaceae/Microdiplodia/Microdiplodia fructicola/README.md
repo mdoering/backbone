@@ -1,5 +1,4 @@
-Microdiplodia fructicola Rieuf SPECIES
-=======
+# Microdiplodia fructicola Rieuf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia echinocarpica T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia echinocarpica T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

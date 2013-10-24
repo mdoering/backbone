@@ -1,5 +1,4 @@
-Thelidium pachysporum Zschacke SPECIES
-=======
+# Thelidium pachysporum Zschacke SPECIES
 
 #### Status
 ACCEPTED

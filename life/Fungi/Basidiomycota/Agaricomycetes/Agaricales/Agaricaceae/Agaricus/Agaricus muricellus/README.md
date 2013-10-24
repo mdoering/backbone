@@ -1,5 +1,4 @@
-Agaricus muricellus Fr. SPECIES
-=======
+# Agaricus muricellus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria praeposita (Nyl.) Lettau SPECIES
-=======
+# Catillaria praeposita (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia smithii (Ach.) Spreng. SPECIES
-=======
+# Parmelia smithii (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

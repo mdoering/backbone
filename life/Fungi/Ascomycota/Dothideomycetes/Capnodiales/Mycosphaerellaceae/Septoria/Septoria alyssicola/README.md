@@ -1,5 +1,4 @@
-Septoria alyssicola Hollós SPECIES
-=======
+# Septoria alyssicola Hollós SPECIES
 
 #### Status
 ACCEPTED

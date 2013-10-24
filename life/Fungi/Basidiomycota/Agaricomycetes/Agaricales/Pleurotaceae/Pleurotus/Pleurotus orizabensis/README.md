@@ -1,5 +1,4 @@
-Pleurotus orizabensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Pleurotus orizabensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

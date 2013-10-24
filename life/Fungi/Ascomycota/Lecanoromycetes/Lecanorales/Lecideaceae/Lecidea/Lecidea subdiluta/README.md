@@ -1,5 +1,4 @@
-Lecidea subdiluta Leight. SPECIES
-=======
+# Lecidea subdiluta Leight. SPECIES
 
 #### Status
 ACCEPTED

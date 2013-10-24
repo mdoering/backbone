@@ -1,5 +1,4 @@
-Alveocyclammina von Hillebrandt, 1971 GENUS
-=======
+# Alveocyclammina von Hillebrandt, 1971 GENUS
 
 #### Status
 ACCEPTED

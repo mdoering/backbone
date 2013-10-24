@@ -1,5 +1,4 @@
-Phoma aucupariae Bres. SPECIES
-=======
+# Phoma aucupariae Bres. SPECIES
 
 #### Status
 ACCEPTED

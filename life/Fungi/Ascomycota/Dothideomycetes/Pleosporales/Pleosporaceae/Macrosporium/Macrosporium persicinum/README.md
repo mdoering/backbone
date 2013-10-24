@@ -1,5 +1,4 @@
-Macrosporium persicinum McAlpine SPECIES
-=======
+# Macrosporium persicinum McAlpine SPECIES
 
 #### Status
 ACCEPTED

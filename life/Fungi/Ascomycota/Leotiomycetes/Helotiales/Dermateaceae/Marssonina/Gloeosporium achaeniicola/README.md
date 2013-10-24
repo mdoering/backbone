@@ -1,5 +1,4 @@
-Gloeosporium achaeniicola Rostr. SPECIES
-=======
+# Gloeosporium achaeniicola Rostr. SPECIES
 
 #### Status
 ACCEPTED

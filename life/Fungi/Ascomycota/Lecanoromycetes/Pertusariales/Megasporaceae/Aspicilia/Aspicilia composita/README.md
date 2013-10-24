@@ -1,5 +1,4 @@
-Aspicilia composita Motyka SPECIES
-=======
+# Aspicilia composita Motyka SPECIES
 
 #### Status
 ACCEPTED

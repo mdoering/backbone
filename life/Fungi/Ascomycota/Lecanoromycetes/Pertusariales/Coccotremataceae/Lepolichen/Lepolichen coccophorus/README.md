@@ -1,5 +1,4 @@
-Lepolichen coccophorus (Mont.) Trevis. SPECIES
-=======
+# Lepolichen coccophorus (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

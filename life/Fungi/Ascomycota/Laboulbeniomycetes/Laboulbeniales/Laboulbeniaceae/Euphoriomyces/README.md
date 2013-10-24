@@ -1,5 +1,4 @@
-Euphoriomyces Thaxt. GENUS
-=======
+# Euphoriomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

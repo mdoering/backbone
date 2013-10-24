@@ -1,5 +1,4 @@
-Synchytrium tragiae S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium tragiae S.D. Patil & Mahab. SPECIES
 
 #### Status
 ACCEPTED

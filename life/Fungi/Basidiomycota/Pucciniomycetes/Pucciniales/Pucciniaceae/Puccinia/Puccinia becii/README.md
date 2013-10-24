@@ -1,5 +1,4 @@
-Puccinia becii Doidge SPECIES
-=======
+# Puccinia becii Doidge SPECIES
 
 #### Status
 ACCEPTED

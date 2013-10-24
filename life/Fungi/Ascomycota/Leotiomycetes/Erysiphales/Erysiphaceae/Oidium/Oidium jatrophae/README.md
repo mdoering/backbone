@@ -1,5 +1,4 @@
-Oidium jatrophae Hosag., Siddappa, Vijay. & Udaiyan SPECIES
-=======
+# Oidium jatrophae Hosag., Siddappa, Vijay. & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

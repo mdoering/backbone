@@ -1,5 +1,4 @@
-Tribulatia Joanne E. Taylor, K.D. Hyde, E.B.G. Jones GENUS
-=======
+# Tribulatia Joanne E. Taylor, K.D. Hyde, E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

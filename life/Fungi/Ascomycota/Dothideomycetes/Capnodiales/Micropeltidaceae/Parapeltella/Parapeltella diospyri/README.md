@@ -1,5 +1,4 @@
-Parapeltella diospyri Bat. & Nascim. SPECIES
-=======
+# Parapeltella diospyri Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

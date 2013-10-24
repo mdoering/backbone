@@ -1,5 +1,4 @@
-Phyllosticta epipactidis Died. SPECIES
-=======
+# Phyllosticta epipactidis Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma illicitum (Peck) Sacc. SPECIES
-=======
+# Hebeloma illicitum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

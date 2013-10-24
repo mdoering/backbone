@@ -1,5 +1,4 @@
-Sporormiella immersa (Zukal) N. Lundq. SPECIES
-=======
+# Sporormiella immersa (Zukal) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

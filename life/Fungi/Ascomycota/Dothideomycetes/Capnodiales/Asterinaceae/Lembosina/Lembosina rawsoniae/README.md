@@ -1,5 +1,4 @@
-Lembosina rawsoniae Doidge SPECIES
-=======
+# Lembosina rawsoniae Doidge SPECIES
 
 #### Status
 ACCEPTED

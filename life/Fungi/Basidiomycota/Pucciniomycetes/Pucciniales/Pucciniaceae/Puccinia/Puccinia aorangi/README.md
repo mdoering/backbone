@@ -1,5 +1,4 @@
-Puccinia aorangi G. Cunn. SPECIES
-=======
+# Puccinia aorangi G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Myxostomella Syd. GENUS
-=======
+# Campoa Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sydow & Petrak, Annls mycol. 29: 218 (1931)
+Boln Acad. nac. Cienc. Córdoba 25: 90 (1921)
 
 #### Original name
-Myxostomella Syd.
+Campoa Speg.
 
 ### Remarks
 null

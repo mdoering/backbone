@@ -1,5 +1,4 @@
-Puccinia achnatheri-inebriantis Z.Y. Zhao SPECIES
-=======
+# Puccinia achnatheri-inebriantis Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

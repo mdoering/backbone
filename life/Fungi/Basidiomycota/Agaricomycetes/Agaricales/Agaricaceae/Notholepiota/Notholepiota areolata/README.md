@@ -1,14 +1,13 @@
-Secotium areolatum G. Cunn., 1942 SPECIES
-=======
+# Notholepiota areolata (G. Cunn.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 479 (1971)
 
 #### Original name
 Secotium areolatum G. Cunn., 1942

@@ -1,5 +1,4 @@
-Laboulbenia formosana Sugiy. SPECIES
-=======
+# Laboulbenia formosana Sugiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria chuquiragae Speg. SPECIES
-=======
+# Strickeria chuquiragae Speg. SPECIES
 
 #### Status
 ACCEPTED

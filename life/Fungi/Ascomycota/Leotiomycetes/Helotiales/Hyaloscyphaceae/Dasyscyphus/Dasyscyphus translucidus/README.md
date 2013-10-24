@@ -1,14 +1,13 @@
-Dasyscypha translucidus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dasyscyphus translucidus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 439 (1889)
 
 #### Original name
 Peziza translucida Berk. & M.A. Curtis

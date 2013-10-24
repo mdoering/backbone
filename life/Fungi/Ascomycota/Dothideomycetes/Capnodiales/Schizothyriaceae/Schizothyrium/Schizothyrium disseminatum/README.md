@@ -1,5 +1,4 @@
-Schizothyrium disseminatum (I. Hino & Katum.) Katum. SPECIES
-=======
+# Schizothyrium disseminatum (I. Hino & Katum.) Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colacium epiphyticum F.E. Fritsch SPECIES
-=======
+# Colacium epiphyticum F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobacter nitroguajacolicus Kotoucková et al., 2004 SPECIES
-=======
+# Arthrobacter nitroguajacolicus Kotoucková et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

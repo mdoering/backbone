@@ -1,5 +1,4 @@
-Didymaria trollii Jacz. SPECIES
-=======
+# Didymaria trollii Jacz. SPECIES
 
 #### Status
 ACCEPTED

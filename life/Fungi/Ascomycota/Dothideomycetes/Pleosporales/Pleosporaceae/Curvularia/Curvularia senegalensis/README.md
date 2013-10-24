@@ -1,14 +1,13 @@
-Brachysporium senegalense Speg., 1914 SPECIES
-=======
+# Curvularia senegalensis (Speg.) Subram., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 26: 133 [no. 39] (1914)
+J. Indian bot. Soc. 35(4): 467 (1956)
 
 #### Original name
 Brachysporium senegalense Speg., 1914

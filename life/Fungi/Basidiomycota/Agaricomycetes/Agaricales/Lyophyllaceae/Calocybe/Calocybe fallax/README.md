@@ -1,17 +1,16 @@
-Tricholoma naucoria (Murrill) Murrill, 1914 SPECIES
-=======
+# Calocybe fallax (Sacc.) Redhead & Singer, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Klíc Kurc. Na. Hub Hrib. Bedl. (Praha) 155 (1951)
+Mycotaxon 6(3): 501 (1978)
 
 #### Original name
-Melanoleuca naucoria Murrill, 1914
+Tricholoma fallax Sacc., 1887
 
 ### Remarks
 null

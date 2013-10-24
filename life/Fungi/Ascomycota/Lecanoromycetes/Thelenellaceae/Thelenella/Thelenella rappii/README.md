@@ -1,5 +1,4 @@
-Thelenella rappii R. C. Harris SPECIES
-=======
+# Thelenella rappii R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

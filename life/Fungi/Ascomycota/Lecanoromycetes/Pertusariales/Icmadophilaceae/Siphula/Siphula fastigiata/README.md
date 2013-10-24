@@ -1,14 +1,13 @@
-Siphula torulosa var. fastigiata Nyl. VARIETY
-=======
+# Siphula fastigiata (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 19: 297 (1863)
 
 #### Original name
 Siphula torulosa var. fastigiata Nyl.

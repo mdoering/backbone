@@ -1,5 +1,4 @@
-Zalerion thermophylli Udaiyan SPECIES
-=======
+# Zalerion thermophylli Udaiyan SPECIES
 
 #### Status
 ACCEPTED

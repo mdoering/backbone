@@ -1,5 +1,4 @@
-Hormiscium leonardianum Gaja SPECIES
-=======
+# Hormiscium leonardianum Gaja SPECIES
 
 #### Status
 ACCEPTED

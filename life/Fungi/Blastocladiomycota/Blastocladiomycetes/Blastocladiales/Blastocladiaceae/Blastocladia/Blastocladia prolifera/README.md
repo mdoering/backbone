@@ -1,5 +1,4 @@
-Blastocladia prolifera Minden SPECIES
-=======
+# Blastocladia prolifera Minden SPECIES
 
 #### Status
 ACCEPTED

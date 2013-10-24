@@ -1,5 +1,4 @@
-Hypholoma sublentum P. Karst. SPECIES
-=======
+# Hypholoma sublentum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

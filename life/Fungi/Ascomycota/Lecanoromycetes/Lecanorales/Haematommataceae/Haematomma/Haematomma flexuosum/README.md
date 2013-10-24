@@ -1,5 +1,4 @@
-Haematomma flexuosum Hillmann SPECIES
-=======
+# Haematomma flexuosum Hillmann SPECIES
 
 #### Status
 ACCEPTED

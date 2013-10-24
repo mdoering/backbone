@@ -1,5 +1,4 @@
-Vaucheria gardneri Collins SPECIES
-=======
+# Vaucheria gardneri Collins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium millettiae A.L. Sm. SPECIES
-=======
+# Microthyrium millettiae A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

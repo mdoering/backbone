@@ -1,5 +1,4 @@
-Trichia fuscoatra Sibth. SPECIES
-=======
+# Trichia fuscoatra Sibth. SPECIES
 
 #### Status
 ACCEPTED

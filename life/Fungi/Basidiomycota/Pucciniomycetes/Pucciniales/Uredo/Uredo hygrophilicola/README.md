@@ -1,5 +1,4 @@
-Uredo hygrophilicola G.F. Laundon & Ponnappa SPECIES
-=======
+# Uredo hygrophilicola G.F. Laundon & Ponnappa SPECIES
 
 #### Status
 ACCEPTED

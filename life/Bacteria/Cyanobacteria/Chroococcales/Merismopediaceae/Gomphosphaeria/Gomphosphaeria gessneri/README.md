@@ -1,5 +1,4 @@
-Gomphosphaeria gessneri Schiller SPECIES
-=======
+# Gomphosphaeria gessneri Schiller SPECIES
 
 #### Status
 ACCEPTED

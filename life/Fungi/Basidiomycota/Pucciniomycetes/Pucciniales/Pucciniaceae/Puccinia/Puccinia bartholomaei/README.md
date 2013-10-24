@@ -1,5 +1,4 @@
-Puccinia bartholomaei Dietel SPECIES
-=======
+# Puccinia bartholomaei Dietel SPECIES
 
 #### Status
 ACCEPTED

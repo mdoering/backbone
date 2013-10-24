@@ -1,5 +1,4 @@
-Stilbum villosum Petch SPECIES
-=======
+# Stilbum villosum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paxillus validus C. Hahn SPECIES
-=======
+# Paxillus validus C. Hahn SPECIES
 
 #### Status
 ACCEPTED

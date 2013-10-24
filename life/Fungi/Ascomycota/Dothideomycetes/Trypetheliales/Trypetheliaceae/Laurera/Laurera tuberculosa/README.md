@@ -1,5 +1,4 @@
-Laurera tuberculosa Makhija & Patw. SPECIES
-=======
+# Laurera tuberculosa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

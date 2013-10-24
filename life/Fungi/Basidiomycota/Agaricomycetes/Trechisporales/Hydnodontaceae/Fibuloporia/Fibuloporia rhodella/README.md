@@ -1,5 +1,4 @@
-Fibuloporia rhodella (Fr.) M.P. Christ. SPECIES
-=======
+# Fibuloporia rhodella (Fr.) M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

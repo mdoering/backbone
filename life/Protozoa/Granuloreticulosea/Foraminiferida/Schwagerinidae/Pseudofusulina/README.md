@@ -1,5 +1,4 @@
-Pseudofusulina Dunbar & Skinner, 1931 GENUS
-=======
+# Pseudofusulina Dunbar & Skinner, 1931 GENUS
 
 #### Status
 ACCEPTED

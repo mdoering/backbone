@@ -1,5 +1,4 @@
-Uredo dorymopsidis Thüm. SPECIES
-=======
+# Uredo dorymopsidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

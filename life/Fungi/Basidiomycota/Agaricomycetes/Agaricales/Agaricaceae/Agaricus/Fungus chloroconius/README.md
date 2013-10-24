@@ -1,5 +1,4 @@
-Fungus chloroconius (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus chloroconius (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

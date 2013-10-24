@@ -1,5 +1,4 @@
-Buellia calciseda Erichsen SPECIES
-=======
+# Buellia calciseda Erichsen SPECIES
 
 #### Status
 ACCEPTED

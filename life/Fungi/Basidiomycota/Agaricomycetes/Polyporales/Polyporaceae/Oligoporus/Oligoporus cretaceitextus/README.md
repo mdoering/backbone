@@ -1,5 +1,4 @@
-Oligoporus cretaceitextus (Corner) T. Hatt. SPECIES
-=======
+# Oligoporus cretaceitextus (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

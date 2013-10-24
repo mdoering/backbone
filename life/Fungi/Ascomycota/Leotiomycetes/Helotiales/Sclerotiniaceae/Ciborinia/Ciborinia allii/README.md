@@ -1,8 +1,7 @@
-Botrytis byssoidea J.C. Walker, 1925 SPECIES
-=======
+# Ciborinia allii (Sawada) L.M. Kohn, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lecanora mosaica (Clemente) Colmeiro SPECIES
-=======
+# Lecanora mosaica (Clemente) Colmeiro SPECIES
 
 #### Status
 ACCEPTED

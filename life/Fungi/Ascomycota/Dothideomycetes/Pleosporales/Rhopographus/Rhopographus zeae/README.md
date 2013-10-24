@@ -1,5 +1,4 @@
-Rhopographus zeae Pat., 1893 SPECIES
-=======
+# Rhopographus zeae Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED

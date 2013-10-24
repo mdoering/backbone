@@ -1,5 +1,4 @@
-Asbolisiomyces ingae Bat. & H. Maia, 1961 SPECIES
-=======
+# Asbolisiomyces ingae Bat. & H. Maia, 1961 SPECIES
 
 #### Status
 ACCEPTED

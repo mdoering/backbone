@@ -1,5 +1,4 @@
-Licmophora Agardh GENUS
-=======
+# Licmophora Agardh GENUS
 
 #### Status
 ACCEPTED

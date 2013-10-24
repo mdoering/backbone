@@ -1,5 +1,4 @@
-Polyporus haedinus Berk. SPECIES
-=======
+# Polyporus haedinus Berk. SPECIES
 
 #### Status
 ACCEPTED

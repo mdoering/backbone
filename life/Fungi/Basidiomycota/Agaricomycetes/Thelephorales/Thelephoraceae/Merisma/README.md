@@ -1,5 +1,4 @@
-Merisma GENUS
-=======
+# Merisma GENUS
 
 #### Status
 ACCEPTED

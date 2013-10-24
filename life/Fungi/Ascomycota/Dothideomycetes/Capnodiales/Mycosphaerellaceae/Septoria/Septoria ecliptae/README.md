@@ -1,5 +1,4 @@
-Septoria ecliptae Sawada SPECIES
-=======
+# Septoria ecliptae Sawada SPECIES
 
 #### Status
 ACCEPTED

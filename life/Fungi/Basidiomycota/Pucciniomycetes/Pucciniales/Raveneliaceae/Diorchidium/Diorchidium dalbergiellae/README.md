@@ -1,5 +1,4 @@
-Diorchidium dalbergiellae (Vienn.-Bourg.) Ritschel, Berndt & Oberw. SPECIES
-=======
+# Diorchidium dalbergiellae (Vienn.-Bourg.) Ritschel, Berndt & Oberw. SPECIES
 
 #### Status
 ACCEPTED

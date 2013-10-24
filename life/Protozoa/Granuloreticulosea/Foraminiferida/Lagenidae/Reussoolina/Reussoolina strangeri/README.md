@@ -1,5 +1,4 @@
-Reussoolina strangeri Loeblich & Tappan, 1994 SPECIES
-=======
+# Reussoolina strangeri Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella cassiae Syd. SPECIES
-=======
+# Mycosphaerella cassiae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchylium synalissum A. Massal. SPECIES
-=======
+# Enchylium synalissum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

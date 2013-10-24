@@ -1,5 +1,4 @@
-Cortinarius sericeus var. sericeus VARIETY
-=======
+# Cortinarius sericeus (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 249 (1898)
 
 #### Original name
-Cortinarius sericeus var. sericeus
+Hydrocybe sericea Velen.
 
 ### Remarks
 null

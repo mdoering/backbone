@@ -1,5 +1,4 @@
-Aglaospora GENUS
-=======
+# Aglaospora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssonectria chrysocoma Cooke & Harkn. SPECIES
-=======
+# Byssonectria chrysocoma Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

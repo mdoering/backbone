@@ -1,17 +1,16 @@
-Puccinia andropogonis-hirti (Maire) Beltrán, 1921 SPECIES
-=======
+# Puccinia purpurea Cooke, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. de le Real Soc. Española Hist. Nat. 50: 252 (1921)
+Grevillea 5(no. 33): 15 (1876)
 
 #### Original name
-Uredo andropogonis-hirti Maire, 1905
+Puccinia purpurea Cooke, 1876
 
 ### Remarks
 null

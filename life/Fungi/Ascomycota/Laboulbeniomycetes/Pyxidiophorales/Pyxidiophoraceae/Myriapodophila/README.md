@@ -1,5 +1,4 @@
-Myriapodophila GENUS
-=======
+# Myriapodophila GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium hiemale Bonord. SPECIES
-=======
+# Coremium hiemale Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolicotrichum ruthenicum (Petr.) Karak. & Vassiljevsky SPECIES
-=======
+# Scolicotrichum ruthenicum (Petr.) Karak. & Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

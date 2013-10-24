@@ -1,5 +1,4 @@
-Lachnum bannaënse Z.H. Yu & W.Y. Zhuang SPECIES
-=======
+# Lachnum bannaënse Z.H. Yu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

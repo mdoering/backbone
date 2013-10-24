@@ -1,5 +1,4 @@
-Lactarius nigroviolascens G.F. Atk. SPECIES
-=======
+# Lactarius nigroviolascens G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

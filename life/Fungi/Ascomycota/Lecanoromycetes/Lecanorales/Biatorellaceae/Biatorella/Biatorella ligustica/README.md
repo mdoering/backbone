@@ -1,5 +1,4 @@
-Biatorella ligustica Klem. SPECIES
-=======
+# Biatorella ligustica Klem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta theacearum Aa SPECIES
-=======
+# Phyllosticta theacearum Aa SPECIES
 
 #### Status
 ACCEPTED

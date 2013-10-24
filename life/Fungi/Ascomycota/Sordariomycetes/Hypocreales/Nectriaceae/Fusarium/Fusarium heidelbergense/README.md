@@ -1,5 +1,4 @@
-Fusarium heidelbergense Sacc. SPECIES
-=======
+# Fusarium heidelbergense Sacc. SPECIES
 
 #### Status
 ACCEPTED

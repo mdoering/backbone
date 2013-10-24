@@ -1,5 +1,4 @@
-Opegrapha tuckermanii H. Magn. SPECIES
-=======
+# Opegrapha tuckermanii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

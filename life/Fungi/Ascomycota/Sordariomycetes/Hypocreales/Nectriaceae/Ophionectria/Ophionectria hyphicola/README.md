@@ -1,5 +1,4 @@
-Ophionectria hyphicola Henn. SPECIES
-=======
+# Ophionectria hyphicola Henn. SPECIES
 
 #### Status
 ACCEPTED

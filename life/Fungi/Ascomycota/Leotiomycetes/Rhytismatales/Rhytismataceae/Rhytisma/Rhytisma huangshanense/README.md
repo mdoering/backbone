@@ -1,5 +1,4 @@
-Rhytisma huangshanense C.L. Hou & M.M. Wang, 2009 SPECIES
-=======
+# Rhytisma huangshanense C.L. Hou & M.M. Wang, 2009 SPECIES
 
 #### Status
 ACCEPTED

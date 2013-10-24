@@ -1,5 +1,4 @@
-Hysterographium hysterioides (Ellis & Everh.) Wehm. SPECIES
-=======
+# Hysterographium hysterioides (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella ernstiae Feuerer & A. Thell SPECIES
-=======
+# Parmeliella ernstiae Feuerer & A. Thell SPECIES
 
 #### Status
 ACCEPTED

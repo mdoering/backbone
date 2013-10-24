@@ -1,8 +1,7 @@
-Aspergillus falconensis Y. Horie, Miyaji, Nishim. & Udagawa, 1989 SPECIES
-=======
+# Emericella falconensis Y. Horie, Miyaji, Nishim. & Udagawa, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Mycol. Soc. Japan 30(3): 257 (1989)
 
 #### Original name
-Aspergillus falconensis Y. Horie, Miyaji, Nishim. & Udagawa, 1989
+Emericella falconensis Y. Horie, Miyaji, Nishim. & Udagawa, 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ochromonas aspera Playfair SPECIES
-=======
+# Ochromonas aspera Playfair SPECIES
 
 #### Status
 ACCEPTED

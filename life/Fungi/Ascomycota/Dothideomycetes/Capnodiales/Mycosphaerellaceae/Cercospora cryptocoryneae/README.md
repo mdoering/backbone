@@ -1,5 +1,4 @@
-Cercospora cryptocoryneae Chidd. SPECIES
-=======
+# Cercospora cryptocoryneae Chidd. SPECIES
 
 #### Status
 ACCEPTED

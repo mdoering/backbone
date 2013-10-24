@@ -1,5 +1,4 @@
-Triceratium tessela (A. I. Krotov) N. I. Strelnikova SPECIES
-=======
+# Triceratium tessela (A. I. Krotov) N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

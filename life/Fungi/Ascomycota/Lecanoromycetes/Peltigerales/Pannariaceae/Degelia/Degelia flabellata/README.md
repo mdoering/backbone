@@ -1,5 +1,4 @@
-Degelia flabellata P.M. Jørg. & P. James SPECIES
-=======
+# Degelia flabellata P.M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED

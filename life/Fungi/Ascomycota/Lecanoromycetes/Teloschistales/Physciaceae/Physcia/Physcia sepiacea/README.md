@@ -1,5 +1,4 @@
-Physcia sepiacea Pers. SPECIES
-=======
+# Physcia sepiacea Pers. SPECIES
 
 #### Status
 ACCEPTED

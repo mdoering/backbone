@@ -1,5 +1,4 @@
-Protosporangium bisporum L.S. Olive & Stoian., 1972 SPECIES
-=======
+# Protosporangium bisporum L.S. Olive & Stoian., 1972 SPECIES
 
 #### Status
 ACCEPTED

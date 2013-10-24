@@ -1,17 +1,16 @@
-Hysterium culmigenum airarum Fr. INFRASPECIFIC_NAME
-=======
+# Lophodermium airarum (Fr.) Hilitzer, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ved. Spisy csl. Akad. zemed. 3: 94 (1929)
 
 #### Original name
-null
+Hysterium culmigenum airarum Fr.
 
 ### Remarks
 null

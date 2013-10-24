@@ -1,5 +1,4 @@
-Warnowiaceae Lindemann, 1928 FAMILY
-=======
+# Warnowiaceae Lindemann, 1928 FAMILY
 
 #### Status
 ACCEPTED

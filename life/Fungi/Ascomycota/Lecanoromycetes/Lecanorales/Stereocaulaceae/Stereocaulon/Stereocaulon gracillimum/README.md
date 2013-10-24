@@ -1,5 +1,4 @@
-Stereocaulon gracillimum Müll. Arg. SPECIES
-=======
+# Stereocaulon gracillimum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

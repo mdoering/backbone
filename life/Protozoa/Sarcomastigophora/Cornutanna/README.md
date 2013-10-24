@@ -1,5 +1,4 @@
-Cornutanna Haeckel, 1881 GENUS
-=======
+# Cornutanna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyedrosphaeridium variopolygonum Wang Naiwen, 1989 SPECIES
-=======
+# Polyedrosphaeridium variopolygonum Wang Naiwen, 1989 SPECIES
 
 #### Status
 ACCEPTED

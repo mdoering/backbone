@@ -1,5 +1,4 @@
-Stictina gracilis Müll. Arg. SPECIES
-=======
+# Stictina gracilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

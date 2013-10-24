@@ -1,14 +1,13 @@
-Cephalosporium chrysanthemi Zachos, Constant. & Panag., 1960 SPECIES
-=======
+# Phialophora chrysanthemi (Zachos, Constant. & Panag.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anales Inst. Med. Trop. 3: 55 (1960)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 207 (1971)
 
 #### Original name
 Cephalosporium chrysanthemi Zachos, Constant. & Panag., 1960

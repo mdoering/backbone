@@ -1,5 +1,4 @@
-Opegrapha fuscomaculans Nyl. SPECIES
-=======
+# Opegrapha fuscomaculans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma heliopsidis (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma heliopsidis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

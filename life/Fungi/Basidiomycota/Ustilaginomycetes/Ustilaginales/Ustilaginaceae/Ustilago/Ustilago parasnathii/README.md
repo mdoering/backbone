@@ -1,5 +1,4 @@
-Ustilago parasnathii Thirum. & Pavgi SPECIES
-=======
+# Ustilago parasnathii Thirum. & Pavgi SPECIES
 
 #### Status
 ACCEPTED

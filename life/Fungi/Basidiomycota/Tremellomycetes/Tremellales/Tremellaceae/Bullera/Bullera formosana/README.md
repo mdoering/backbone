@@ -1,5 +1,4 @@
-Bullera formosana Nakase, Tsuzuki, F.L. Lee & M. Takash. SPECIES
-=======
+# Bullera formosana Nakase, Tsuzuki, F.L. Lee & M. Takash. SPECIES
 
 #### Status
 ACCEPTED

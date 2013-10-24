@@ -1,5 +1,4 @@
-Pelagostrobilidium simile Song & Bradbury, 1998 SPECIES
-=======
+# Pelagostrobilidium simile Song & Bradbury, 1998 SPECIES
 
 #### Status
 ACCEPTED

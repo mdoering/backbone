@@ -1,5 +1,4 @@
-Ocellularia kansriae Homchant. & Coppins SPECIES
-=======
+# Ocellularia kansriae Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

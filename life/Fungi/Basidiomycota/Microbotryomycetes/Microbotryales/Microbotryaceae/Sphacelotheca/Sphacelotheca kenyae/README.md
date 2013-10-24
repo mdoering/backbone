@@ -1,5 +1,4 @@
-Sphacelotheca kenyae Zundel SPECIES
-=======
+# Sphacelotheca kenyae Zundel SPECIES
 
 #### Status
 ACCEPTED

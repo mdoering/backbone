@@ -1,5 +1,4 @@
-Phaeodermatiaceae FAMILY
-=======
+# Phaeodermatiaceae FAMILY
 
 #### Status
 ACCEPTED

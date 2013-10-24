@@ -1,5 +1,4 @@
-Paramesocena biseptenaria var. fossilis (K. Tsumura) T. V. Desikachary & P. Prema VARIETY
-=======
+# Paramesocena biseptenaria (Gemeinhard) T.V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

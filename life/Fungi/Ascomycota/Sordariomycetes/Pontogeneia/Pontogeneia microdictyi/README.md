@@ -1,5 +1,4 @@
-Pontogeneia microdictyi Kohlm. & Volkm.-Kohlm., 2009 SPECIES
-=======
+# Pontogeneia microdictyi Kohlm. & Volkm.-Kohlm., 2009 SPECIES
 
 #### Status
 ACCEPTED

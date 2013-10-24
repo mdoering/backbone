@@ -1,5 +1,4 @@
-Allodus GENUS
-=======
+# Allodus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prillieuxina ixorae (R.W. Ryan) R.W. Ryan SPECIES
-=======
+# Prillieuxina ixorae (R.W. Ryan) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

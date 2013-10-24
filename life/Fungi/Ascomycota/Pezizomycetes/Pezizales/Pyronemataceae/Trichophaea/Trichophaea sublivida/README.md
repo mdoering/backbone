@@ -1,17 +1,16 @@
-Lachnea sublivida var. sublivida (Sacc. & Speg.) Sacc. VARIETY
-=======
+# Trichophaea sublivida (Sacc. & Speg.) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 185 (1889)
+null
 
 #### Original name
-Lachnea sublivida var. sublivida (Sacc. & Speg.) Sacc.
+Humaria sublivida Sacc. & Speg., 1878
 
 ### Remarks
 null

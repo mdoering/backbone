@@ -1,5 +1,4 @@
-Pleuroceras populi G.E. Thomps. SPECIES
-=======
+# Pleuroceras populi G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

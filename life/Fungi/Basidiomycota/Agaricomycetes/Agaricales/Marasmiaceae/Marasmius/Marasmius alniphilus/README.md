@@ -1,5 +1,4 @@
-Marasmius alniphilus J. Favre SPECIES
-=======
+# Marasmius alniphilus J. Favre SPECIES
 
 #### Status
 ACCEPTED

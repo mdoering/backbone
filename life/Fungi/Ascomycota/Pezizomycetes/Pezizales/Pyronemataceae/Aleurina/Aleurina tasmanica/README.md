@@ -1,17 +1,16 @@
-Jafnea tasmanica var. tasmanica VARIETY
-=======
+# Aleurina tasmanica Massee, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Misc. Inf. , Kew 131 (1898)
 
 #### Original name
-null
+Aleurina tasmanica Massee, 1898
 
 ### Remarks
 null

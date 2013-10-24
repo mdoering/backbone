@@ -1,17 +1,16 @@
-Aspergillus apica B.S. Mehrotra & Basu SPECIES
-=======
+# Aspergillus apicalis B.S. Mehrotra & Basu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 27(3-4): 597 (1976)
 
 #### Original name
-Aspergillus apica B.S. Mehrotra & Basu
+Aspergillus apicalis B.S. Mehrotra & Basu
 
 ### Remarks
 null

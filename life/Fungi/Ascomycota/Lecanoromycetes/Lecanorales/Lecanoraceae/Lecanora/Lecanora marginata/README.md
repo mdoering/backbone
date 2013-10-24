@@ -1,17 +1,16 @@
-Lecidea marginata var. marginata VARIETY
-=======
+# Lecanora marginata (Schaer.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 107(1-4): 494 (1985)
 
 #### Original name
-Lecidea marginata var. marginata
+Lecidea marginata Schaer.
 
 ### Remarks
 null

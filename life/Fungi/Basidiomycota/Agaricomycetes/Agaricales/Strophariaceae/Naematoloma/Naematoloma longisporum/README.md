@@ -1,14 +1,13 @@
-Nematoloma longisporum (Murrill) A.H. Sm. SPECIES
-=======
+# Naematoloma longisporum (Murrill) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(5): 480 (1951)
 
 #### Original name
 Psilocybe longispora Murrill

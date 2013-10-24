@@ -1,5 +1,4 @@
-Cytosporina nigromaculans (Thüm.) Died. SPECIES
-=======
+# Cytosporina nigromaculans (Thüm.) Died. SPECIES
 
 #### Status
 ACCEPTED

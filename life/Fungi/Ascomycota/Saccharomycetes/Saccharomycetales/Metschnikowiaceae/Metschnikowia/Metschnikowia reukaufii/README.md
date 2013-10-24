@@ -1,17 +1,16 @@
-Anthomyces reukaufii Grüss, 1918 SPECIES
-=======
+# Metschnikowia reukaufii Pitt & M.W. Mill., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 60(3): 671 (1968)
 
 #### Original name
-null
+Metschnikowia reukaufii Pitt & M.W. Mill., 1968
 
 ### Remarks
 null

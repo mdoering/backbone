@@ -1,5 +1,4 @@
-Pyrenodesmia albovariegata B. de Lesd. SPECIES
-=======
+# Pyrenodesmia albovariegata B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

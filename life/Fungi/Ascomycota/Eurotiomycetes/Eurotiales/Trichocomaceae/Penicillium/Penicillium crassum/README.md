@@ -1,5 +1,4 @@
-Penicillium crassum Sopp SPECIES
-=======
+# Penicillium crassum Sopp SPECIES
 
 #### Status
 ACCEPTED

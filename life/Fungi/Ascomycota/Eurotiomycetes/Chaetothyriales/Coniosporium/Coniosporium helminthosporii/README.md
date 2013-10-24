@@ -1,5 +1,4 @@
-Coniosporium helminthosporii Corda SPECIES
-=======
+# Coniosporium helminthosporii Corda SPECIES
 
 #### Status
 ACCEPTED

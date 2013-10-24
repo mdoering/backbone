@@ -1,5 +1,4 @@
-Striatotheca G.Burmann, 1970 GENUS
-=======
+# Striatotheca G.Burmann, 1970 GENUS
 
 #### Status
 ACCEPTED

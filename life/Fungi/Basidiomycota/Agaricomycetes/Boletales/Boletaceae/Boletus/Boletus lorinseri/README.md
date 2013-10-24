@@ -1,5 +1,4 @@
-Boletus lorinseri Beck SPECIES
-=======
+# Boletus lorinseri Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis berberidis De Not. SPECIES
-=======
+# Stictis berberidis De Not. SPECIES
 
 #### Status
 ACCEPTED

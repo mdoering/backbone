@@ -1,5 +1,4 @@
-Mesocena occidentalis G.D. Hanna ex D. Bukry SPECIES
-=======
+# Mesocena occidentalis G.D. Hanna ex D. Bukry SPECIES
 
 #### Status
 ACCEPTED

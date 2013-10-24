@@ -1,5 +1,4 @@
-Paramaecioides Bütschli in Bronn, 1889 GENUS
-=======
+# Paramaecioides Bütschli in Bronn, 1889 GENUS
 
 #### Status
 ACCEPTED

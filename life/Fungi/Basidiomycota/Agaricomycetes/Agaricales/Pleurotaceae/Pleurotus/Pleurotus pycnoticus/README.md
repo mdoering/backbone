@@ -1,5 +1,4 @@
-Pleurotus pycnoticus Klotzsch SPECIES
-=======
+# Pleurotus pycnoticus Klotzsch SPECIES
 
 #### Status
 ACCEPTED

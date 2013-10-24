@@ -1,5 +1,4 @@
-Zygosaccharomyces cavarae Rodio SPECIES
-=======
+# Zygosaccharomyces cavarae Rodio SPECIES
 
 #### Status
 ACCEPTED

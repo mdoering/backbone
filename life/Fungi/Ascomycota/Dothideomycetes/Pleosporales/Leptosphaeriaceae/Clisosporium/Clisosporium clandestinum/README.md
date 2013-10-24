@@ -1,5 +1,4 @@
-Clisosporium clandestinum (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium clandestinum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

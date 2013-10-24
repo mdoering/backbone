@@ -1,5 +1,4 @@
-Aspicilia ingae (Zahlbr.) SPECIES
-=======
+# Aspicilia ingae (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

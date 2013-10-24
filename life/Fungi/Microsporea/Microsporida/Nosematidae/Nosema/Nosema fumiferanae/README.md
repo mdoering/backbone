@@ -1,5 +1,4 @@
-Nosema fumiferanae SPECIES
-=======
+# Nosema fumiferanae SPECIES
 
 #### Status
 ACCEPTED

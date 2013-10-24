@@ -1,5 +1,4 @@
-Puccinia peristrophes Petr., 1954 SPECIES
-=======
+# Puccinia peristrophes Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

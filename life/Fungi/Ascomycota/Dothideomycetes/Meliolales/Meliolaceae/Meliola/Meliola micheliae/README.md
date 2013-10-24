@@ -1,5 +1,4 @@
-Meliola micheliae Hansf. SPECIES
-=======
+# Meliola micheliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe leucocephala Boud. SPECIES
-=======
+# Inocybe leucocephala Boud. SPECIES
 
 #### Status
 ACCEPTED

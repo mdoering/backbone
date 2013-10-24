@@ -1,5 +1,4 @@
-Colpoda reniformis Kahl, 1931 SPECIES
-=======
+# Colpoda reniformis Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

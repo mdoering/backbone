@@ -1,5 +1,4 @@
-Dothidea robergei G. Winter SPECIES
-=======
+# Dothidea robergei G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus laciniatus Purton SPECIES
-=======
+# Boletus laciniatus Purton SPECIES
 
 #### Status
 ACCEPTED

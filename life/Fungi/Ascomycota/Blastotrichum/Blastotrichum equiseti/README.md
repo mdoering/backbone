@@ -1,5 +1,4 @@
-Blastotrichum equiseti Jaap SPECIES
-=======
+# Blastotrichum equiseti Jaap SPECIES
 
 #### Status
 ACCEPTED

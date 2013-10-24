@@ -1,5 +1,4 @@
-Pertusaria cinerascens (Müll. Arg.) Vain. SPECIES
-=======
+# Pertusaria cinerascens (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

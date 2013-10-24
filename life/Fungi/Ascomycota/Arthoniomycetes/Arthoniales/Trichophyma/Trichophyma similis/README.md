@@ -1,5 +1,4 @@
-Trichophyma similis Matzer SPECIES
-=======
+# Trichophyma similis Matzer SPECIES
 
 #### Status
 ACCEPTED

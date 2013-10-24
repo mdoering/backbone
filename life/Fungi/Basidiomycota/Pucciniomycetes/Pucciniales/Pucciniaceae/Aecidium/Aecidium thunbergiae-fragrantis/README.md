@@ -1,5 +1,4 @@
-Aecidium thunbergiae-fragrantis Syd. SPECIES
-=======
+# Aecidium thunbergiae-fragrantis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra laureata Quél. SPECIES
-=======
+# Psathyra laureata Quél. SPECIES
 
 #### Status
 ACCEPTED

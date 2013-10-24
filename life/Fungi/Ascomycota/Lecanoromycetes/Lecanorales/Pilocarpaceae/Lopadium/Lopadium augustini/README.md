@@ -1,5 +1,4 @@
-Lopadium augustini SPECIES
-=======
+# Lopadium augustini SPECIES
 
 #### Status
 ACCEPTED

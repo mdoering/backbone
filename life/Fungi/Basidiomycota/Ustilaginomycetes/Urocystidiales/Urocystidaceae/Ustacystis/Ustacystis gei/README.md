@@ -1,14 +1,13 @@
-Urocystis gei Ellis & Everh., 1900 SPECIES
-=======
+# Ustacystis gei (Ellis & Everh.) H. Zogg, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptogamica Helvetica 16: 131 (1986)
 
 #### Original name
 Urocystis gei Ellis & Everh., 1900

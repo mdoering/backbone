@@ -1,5 +1,4 @@
-Thalassiosira tetraoestrupii var. reimeri A.D. Mahood & J.A. Barron VARIETY
-=======
+# Thalassiosira tetraoestrupii P. Bodén SPECIES
 
 #### Status
 ACCEPTED

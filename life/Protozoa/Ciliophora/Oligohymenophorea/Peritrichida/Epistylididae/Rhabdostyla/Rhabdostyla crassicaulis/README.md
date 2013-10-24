@@ -1,5 +1,4 @@
-Rhabdostyla crassicaulis SPECIES
-=======
+# Rhabdostyla crassicaulis SPECIES
 
 #### Status
 ACCEPTED

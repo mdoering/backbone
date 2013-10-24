@@ -1,5 +1,4 @@
-Heterosporis anguillarum SPECIES
-=======
+# Heterosporis anguillarum SPECIES
 
 #### Status
 ACCEPTED

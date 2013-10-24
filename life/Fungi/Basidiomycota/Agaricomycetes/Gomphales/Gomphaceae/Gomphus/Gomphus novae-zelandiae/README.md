@@ -1,5 +1,4 @@
-Gomphus novae-zelandiae Segedin, 1984 SPECIES
-=======
+# Gomphus novae-zelandiae Segedin, 1984 SPECIES
 
 #### Status
 ACCEPTED

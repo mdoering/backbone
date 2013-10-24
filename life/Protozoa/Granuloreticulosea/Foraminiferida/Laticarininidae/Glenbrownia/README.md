@@ -1,5 +1,4 @@
-Glenbrownia GENUS
-=======
+# Glenbrownia GENUS
 
 #### Status
 ACCEPTED

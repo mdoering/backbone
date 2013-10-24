@@ -1,5 +1,4 @@
-Philasterides armatalis Song, 2000 SPECIES
-=======
+# Philasterides armatalis Song, 2000 SPECIES
 
 #### Status
 ACCEPTED

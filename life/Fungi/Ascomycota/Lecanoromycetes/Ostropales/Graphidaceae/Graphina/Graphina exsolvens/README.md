@@ -1,5 +1,4 @@
-Graphina exsolvens (Vain.) Zahlbr. SPECIES
-=======
+# Graphina exsolvens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

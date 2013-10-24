@@ -1,5 +1,4 @@
-Medusula fulva Mont. SPECIES
-=======
+# Medusula fulva Mont. SPECIES
 
 #### Status
 ACCEPTED

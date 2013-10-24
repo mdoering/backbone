@@ -1,5 +1,4 @@
-Lachnellula hysterigena (Berk. & Broome) Sacc. SPECIES
-=======
+# Lachnellula hysterigena (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

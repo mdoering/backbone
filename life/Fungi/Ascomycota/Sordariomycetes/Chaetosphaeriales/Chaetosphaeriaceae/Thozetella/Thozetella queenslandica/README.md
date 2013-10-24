@@ -1,5 +1,4 @@
-Thozetella queenslandica B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Thozetella queenslandica B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidioides exsecata Kahl, 1930 SPECIES
-=======
+# Spathidioides exsecata Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

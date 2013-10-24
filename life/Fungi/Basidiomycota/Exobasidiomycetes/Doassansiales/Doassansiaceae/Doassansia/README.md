@@ -1,17 +1,16 @@
-Setchellia Magnus GENUS
-=======
+# Doassansia Cornu, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 37: 91 (1896)
+null
 
 #### Original name
-Setchellia Magnus
+null
 
 ### Remarks
 null

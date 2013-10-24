@@ -1,5 +1,4 @@
-Trichodina pagoda SPECIES
-=======
+# Trichodina pagoda SPECIES
 
 #### Status
 ACCEPTED

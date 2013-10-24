@@ -1,5 +1,4 @@
-Peltigera sumatrana Gyeln. SPECIES
-=======
+# Peltigera sumatrana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

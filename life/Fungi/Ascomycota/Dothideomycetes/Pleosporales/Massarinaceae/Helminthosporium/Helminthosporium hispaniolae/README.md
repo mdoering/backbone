@@ -1,5 +1,4 @@
-Helminthosporium hispaniolae Cif. SPECIES
-=======
+# Helminthosporium hispaniolae Cif. SPECIES
 
 #### Status
 ACCEPTED

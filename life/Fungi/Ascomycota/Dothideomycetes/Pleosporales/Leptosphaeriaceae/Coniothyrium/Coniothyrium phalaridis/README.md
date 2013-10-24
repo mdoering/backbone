@@ -1,5 +1,4 @@
-Coniothyrium phalaridis Fautrey & Roum. SPECIES
-=======
+# Coniothyrium phalaridis Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

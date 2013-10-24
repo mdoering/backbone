@@ -1,5 +1,4 @@
-Chrysochromulina quadrikonta M. Kawachi & I. Inouye SPECIES
-=======
+# Chrysochromulina quadrikonta M. Kawachi & I. Inouye SPECIES
 
 #### Status
 ACCEPTED

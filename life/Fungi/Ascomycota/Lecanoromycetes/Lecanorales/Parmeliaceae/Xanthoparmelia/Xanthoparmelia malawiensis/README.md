@@ -1,5 +1,4 @@
-Xanthoparmelia malawiensis Elix SPECIES
-=======
+# Xanthoparmelia malawiensis Elix SPECIES
 
 #### Status
 ACCEPTED

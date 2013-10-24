@@ -1,5 +1,4 @@
-Collybia oculata (Murrill) Murrill SPECIES
-=======
+# Collybia oculata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophotrichus incarnatus Seth, 1971 SPECIES
-=======
+# Lophotrichus incarnatus Seth, 1971 SPECIES
 
 #### Status
 ACCEPTED

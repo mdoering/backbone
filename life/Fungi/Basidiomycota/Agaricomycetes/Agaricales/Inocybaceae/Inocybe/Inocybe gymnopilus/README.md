@@ -1,5 +1,4 @@
-Inocybe gymnopilus Kühner SPECIES
-=======
+# Inocybe gymnopilus Kühner SPECIES
 
 #### Status
 ACCEPTED

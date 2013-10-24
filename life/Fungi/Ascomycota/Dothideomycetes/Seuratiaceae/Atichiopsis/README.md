@@ -1,5 +1,4 @@
-Atichiopsis GENUS
-=======
+# Atichiopsis GENUS
 
 #### Status
 ACCEPTED

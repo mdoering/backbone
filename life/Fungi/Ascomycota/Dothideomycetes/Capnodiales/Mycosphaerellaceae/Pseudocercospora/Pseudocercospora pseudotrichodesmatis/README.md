@@ -1,5 +1,4 @@
-Pseudocercospora pseudotrichodesmatis Bagyan., Jagad. & U. Braun SPECIES
-=======
+# Pseudocercospora pseudotrichodesmatis Bagyan., Jagad. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

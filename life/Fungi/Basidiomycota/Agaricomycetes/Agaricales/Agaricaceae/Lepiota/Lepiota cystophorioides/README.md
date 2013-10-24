@@ -1,5 +1,4 @@
-Lepiota cystophorioides var. cystophorioides VARIETY
-=======
+# Lepiota cystophorioides Joss. & Riousset SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota cystophorioides var. cystophorioides
+Lepiota cystophorioides Joss. & Riousset
 
 ### Remarks
 null

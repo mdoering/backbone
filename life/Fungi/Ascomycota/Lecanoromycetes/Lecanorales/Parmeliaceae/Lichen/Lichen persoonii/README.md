@@ -1,5 +1,4 @@
-Lichen persoonii Ach. SPECIES
-=======
+# Lichen persoonii Ach. SPECIES
 
 #### Status
 ACCEPTED

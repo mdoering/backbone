@@ -1,5 +1,4 @@
-Daedalea aspera Klotzsch SPECIES
-=======
+# Daedalea aspera Klotzsch SPECIES
 
 #### Status
 ACCEPTED

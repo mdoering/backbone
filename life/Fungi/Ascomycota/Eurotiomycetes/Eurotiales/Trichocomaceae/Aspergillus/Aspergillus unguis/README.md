@@ -1,5 +1,4 @@
-Aspergillus unguis (Émile-Weill & L. Gaudin) Thom & Raper, 1934 SPECIES
-=======
+# Aspergillus unguis (Émile-Weill & L. Gaudin) Thom & Raper, 1934 SPECIES
 
 #### Status
 ACCEPTED

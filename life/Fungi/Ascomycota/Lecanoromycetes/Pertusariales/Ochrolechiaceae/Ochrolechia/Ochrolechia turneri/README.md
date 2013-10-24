@@ -1,17 +1,16 @@
-Pertusaria leprarioides var. leprarioides Erichsen VARIETY
-=======
+# Ochrolechia turneri (Sm.) Hasselrot SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 39: 130 (1945)
 
 #### Original name
-Pertusaria leprarioides var. leprarioides Erichsen
+Lichen turneri Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tubulistroma Vologdin GENUS
-=======
+# Tubulistroma Vologdin GENUS
 
 #### Status
 ACCEPTED

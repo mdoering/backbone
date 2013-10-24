@@ -1,5 +1,4 @@
-Aphanomycopsis punctata Karling, 1968 SPECIES
-=======
+# Aphanomycopsis punctata Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

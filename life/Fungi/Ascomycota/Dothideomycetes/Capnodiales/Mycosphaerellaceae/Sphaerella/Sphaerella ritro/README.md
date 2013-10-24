@@ -1,5 +1,4 @@
-Sphaerella ritro Pass. SPECIES
-=======
+# Sphaerella ritro Pass. SPECIES
 
 #### Status
 ACCEPTED

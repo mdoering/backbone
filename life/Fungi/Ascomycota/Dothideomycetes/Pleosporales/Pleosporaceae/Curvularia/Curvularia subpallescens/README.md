@@ -1,5 +1,4 @@
-Curvularia subpallescens J.J. Xu & T.Y. Zhang SPECIES
-=======
+# Curvularia subpallescens J.J. Xu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

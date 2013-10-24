@@ -1,5 +1,4 @@
-Cercosporella trichophila Davis SPECIES
-=======
+# Cercosporella trichophila Davis SPECIES
 
 #### Status
 ACCEPTED

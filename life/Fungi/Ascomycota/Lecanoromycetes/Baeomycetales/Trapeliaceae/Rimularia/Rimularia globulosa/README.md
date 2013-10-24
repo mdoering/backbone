@@ -1,5 +1,4 @@
-Rimularia globulosa Coppins SPECIES
-=======
+# Rimularia globulosa Coppins SPECIES
 
 #### Status
 ACCEPTED

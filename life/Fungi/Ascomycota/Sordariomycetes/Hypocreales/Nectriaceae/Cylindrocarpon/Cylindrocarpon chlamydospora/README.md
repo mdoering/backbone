@@ -1,17 +1,16 @@
-Cylindrocarpon chlamydosporium Schischkina & Tsanava SPECIES
-=======
+# Cylindrocarpon chlamydospora Schischkina & Tsanava SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 10: 160 (1973)
 
 #### Original name
-Cylindrocarpon chlamydosporium Schischkina & Tsanava
+Cylindrocarpon chlamydospora Schischkina & Tsanava
 
 ### Remarks
 null

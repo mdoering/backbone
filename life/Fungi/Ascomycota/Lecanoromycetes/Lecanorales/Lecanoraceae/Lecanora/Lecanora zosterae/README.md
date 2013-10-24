@@ -1,17 +1,16 @@
-Lecanora zosterae var. zosterae VARIETY
-=======
+# Lecanora zosterae (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Lich. 1: 158 (1860)
 
 #### Original name
-null
+Lecanora subfusca var. zosterae Ach.
 
 ### Remarks
 null

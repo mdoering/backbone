@@ -1,5 +1,4 @@
-Scutellum javanicum Höhn. SPECIES
-=======
+# Scutellum javanicum Höhn. SPECIES
 
 #### Status
 ACCEPTED

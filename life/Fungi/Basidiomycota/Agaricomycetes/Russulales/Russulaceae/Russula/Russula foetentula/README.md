@@ -1,5 +1,4 @@
-Russula foetentula Peck SPECIES
-=======
+# Russula foetentula Peck SPECIES
 
 #### Status
 ACCEPTED

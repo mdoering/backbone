@@ -1,5 +1,4 @@
-Cordyceps goniophora Speg. SPECIES
-=======
+# Cordyceps goniophora Speg. SPECIES
 
 #### Status
 ACCEPTED

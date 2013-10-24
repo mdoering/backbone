@@ -1,5 +1,4 @@
-Trichothelium rubellum Malcolm & Vezda SPECIES
-=======
+# Trichothelium rubellum Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

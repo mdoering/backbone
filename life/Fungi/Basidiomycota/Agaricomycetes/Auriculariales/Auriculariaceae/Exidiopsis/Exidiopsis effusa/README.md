@@ -1,17 +1,16 @@
-Sebacina atra var. macrospora Rick VARIETY
-=======
+# Exidiopsis effusa Bref., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mitt. Trop. 7: 94 (1888)
 
 #### Original name
-Sebacina atra var. macrospora Rick
+Exidiopsis effusa Bref., 1888
 
 ### Remarks
 null

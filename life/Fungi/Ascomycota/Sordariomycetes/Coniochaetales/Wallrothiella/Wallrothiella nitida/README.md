@@ -1,5 +1,4 @@
-Wallrothiella nitida (Fuckel) Kirschst. SPECIES
-=======
+# Wallrothiella nitida (Fuckel) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

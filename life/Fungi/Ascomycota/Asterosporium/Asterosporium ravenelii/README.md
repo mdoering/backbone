@@ -1,5 +1,4 @@
-Asterosporium ravenelii Farl. SPECIES
-=======
+# Asterosporium ravenelii Farl. SPECIES
 
 #### Status
 ACCEPTED

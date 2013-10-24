@@ -1,5 +1,4 @@
-Hypocreopsis subiculoides Yoshim. Doi SPECIES
-=======
+# Hypocreopsis subiculoides Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hyphodontia griselinae (G. Cunn.) Langer SPECIES
-=======
+# Rogersella griseliniae (G. Cunn.) Stalpers, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 23(2): 305 (1985)
 
 #### Original name
 null

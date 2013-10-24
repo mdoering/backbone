@@ -1,5 +1,4 @@
-Manginulopsis lunariae Bat. & Peres SPECIES
-=======
+# Manginulopsis lunariae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

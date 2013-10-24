@@ -1,5 +1,4 @@
-Flagelloscypha tetraedrispora Agerer, 1980 SPECIES
-=======
+# Flagelloscypha tetraedrispora Agerer, 1980 SPECIES
 
 #### Status
 ACCEPTED

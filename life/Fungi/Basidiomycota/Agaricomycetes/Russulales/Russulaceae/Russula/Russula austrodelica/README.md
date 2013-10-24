@@ -1,5 +1,4 @@
-Russula austrodelica Singer SPECIES
-=======
+# Russula austrodelica Singer SPECIES
 
 #### Status
 ACCEPTED

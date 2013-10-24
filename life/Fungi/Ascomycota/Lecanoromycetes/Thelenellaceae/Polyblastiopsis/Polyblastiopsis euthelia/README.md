@@ -1,5 +1,4 @@
-Polyblastiopsis euthelia (Nyl.) Upreti & Ajay Singh SPECIES
-=======
+# Polyblastiopsis euthelia (Nyl.) Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistominella pungoensis SPECIES
-=======
+# Epistominella pungoensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia pecanae (Cole) M. Monod SPECIES
-=======
+# Gnomonia pecanae (Cole) M. Monod SPECIES
 
 #### Status
 ACCEPTED

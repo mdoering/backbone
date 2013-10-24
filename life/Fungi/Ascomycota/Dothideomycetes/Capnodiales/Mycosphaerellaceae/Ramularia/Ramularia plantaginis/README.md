@@ -1,17 +1,16 @@
-Ramularia plantaginea Sacc. & Berl. SPECIES
-=======
+# Ramularia plantaginis Sacc. & Berl., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Miscell. mycol. 2: no. 110 (1884)
 
 #### Original name
-Ramularia plantaginea Sacc. & Berl.
+Ramularia plantaginis Sacc. & Berl., 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis pyrrhocystis Petr. SPECIES
-=======
+# Phomopsis pyrrhocystis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnopsis graminicola Tul. & C. Tul. SPECIES
-=======
+# Hydnopsis graminicola Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

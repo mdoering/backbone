@@ -1,5 +1,4 @@
-Parmelia paxinoides C.W. Dodge SPECIES
-=======
+# Parmelia paxinoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

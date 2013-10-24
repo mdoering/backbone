@@ -1,5 +1,4 @@
-Hypocrea sphaeroidea Möller SPECIES
-=======
+# Hypocrea sphaeroidea Möller SPECIES
 
 #### Status
 ACCEPTED

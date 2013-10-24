@@ -1,5 +1,4 @@
-Haplothecium GENUS
-=======
+# Haplothecium GENUS
 
 #### Status
 ACCEPTED

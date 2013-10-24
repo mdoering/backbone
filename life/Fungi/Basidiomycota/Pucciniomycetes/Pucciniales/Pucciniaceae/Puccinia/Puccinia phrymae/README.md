@@ -1,5 +1,4 @@
-Puccinia phrymae Arthur SPECIES
-=======
+# Puccinia phrymae Arthur SPECIES
 
 #### Status
 ACCEPTED

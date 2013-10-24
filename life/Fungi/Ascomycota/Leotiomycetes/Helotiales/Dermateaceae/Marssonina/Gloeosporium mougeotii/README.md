@@ -1,5 +1,4 @@
-Gloeosporium mougeotii Desm. SPECIES
-=======
+# Gloeosporium mougeotii Desm. SPECIES
 
 #### Status
 ACCEPTED

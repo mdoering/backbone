@@ -1,5 +1,4 @@
-Stysanus globosus Peglion SPECIES
-=======
+# Stysanus globosus Peglion SPECIES
 
 #### Status
 ACCEPTED

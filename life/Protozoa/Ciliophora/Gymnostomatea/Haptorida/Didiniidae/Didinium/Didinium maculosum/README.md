@@ -1,5 +1,4 @@
-Didinium maculosum SPECIES
-=======
+# Didinium maculosum SPECIES
 
 #### Status
 ACCEPTED

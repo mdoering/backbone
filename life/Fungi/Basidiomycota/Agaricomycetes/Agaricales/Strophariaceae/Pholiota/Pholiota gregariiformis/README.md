@@ -1,5 +1,4 @@
-Pholiota gregariiformis (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota gregariiformis (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

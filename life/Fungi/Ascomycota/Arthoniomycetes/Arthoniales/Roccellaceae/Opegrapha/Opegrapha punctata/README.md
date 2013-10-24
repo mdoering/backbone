@@ -1,5 +1,4 @@
-Opegrapha punctata Chevall. SPECIES
-=======
+# Opegrapha punctata Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia trichella (Quél.) Sacc. SPECIES
-=======
+# Venturia trichella (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

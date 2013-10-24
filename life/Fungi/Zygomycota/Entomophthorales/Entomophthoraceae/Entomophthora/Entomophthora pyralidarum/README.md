@@ -1,5 +1,4 @@
-Entomophthora pyralidarum Petch SPECIES
-=======
+# Entomophthora pyralidarum Petch SPECIES
 
 #### Status
 ACCEPTED

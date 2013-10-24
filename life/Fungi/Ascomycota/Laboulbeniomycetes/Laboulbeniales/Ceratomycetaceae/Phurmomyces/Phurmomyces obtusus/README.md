@@ -1,5 +1,4 @@
-Phurmomyces obtusus Thaxt., 1931 SPECIES
-=======
+# Phurmomyces obtusus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

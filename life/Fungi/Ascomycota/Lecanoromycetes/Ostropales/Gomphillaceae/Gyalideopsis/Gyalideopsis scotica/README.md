@@ -1,14 +1,13 @@
-Jamesiella scotica (P. James) Lücking, Sérus. & Vezda SPECIES
-=======
+# Gyalideopsis scotica P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 37(2): 165 (2005)
+Lichenologist 7(2): 159 (1975)
 
 #### Original name
 Gyalideopsis scotica P. James

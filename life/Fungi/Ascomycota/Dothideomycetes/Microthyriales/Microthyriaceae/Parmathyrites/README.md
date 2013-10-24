@@ -1,5 +1,4 @@
-Parmathyrites K.P. Jain & R.C. Gupta GENUS
-=======
+# Parmathyrites K.P. Jain & R.C. Gupta GENUS
 
 #### Status
 ACCEPTED

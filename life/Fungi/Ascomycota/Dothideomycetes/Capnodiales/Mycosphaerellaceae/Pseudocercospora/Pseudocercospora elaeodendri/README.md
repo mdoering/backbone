@@ -1,5 +1,4 @@
-Pseudocercospora elaeodendri (G.P. Agarwal & Hasija) Deighton SPECIES
-=======
+# Pseudocercospora elaeodendri (G.P. Agarwal & Hasija) Deighton SPECIES
 
 #### Status
 ACCEPTED

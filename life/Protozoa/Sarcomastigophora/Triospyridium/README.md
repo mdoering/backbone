@@ -1,5 +1,4 @@
-Triospyridium Haeckel, 1887 GENUS
-=======
+# Triospyridium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

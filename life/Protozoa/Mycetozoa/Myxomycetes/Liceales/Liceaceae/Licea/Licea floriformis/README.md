@@ -1,17 +1,16 @@
-Licea floriformis var. aureospora M.T.M. Willemse & Nann.-Bremek. VARIETY
-=======
+# Licea floriformis T.N. Lakh. & R.K. Chopra, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 97(1): 137 (1994)
+null
 
 #### Original name
-Licea floriformis var. aureospora M.T.M. Willemse & Nann.-Bremek.
+null
 
 ### Remarks
 null

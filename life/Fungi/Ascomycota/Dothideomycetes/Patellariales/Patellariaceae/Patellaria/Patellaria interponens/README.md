@@ -1,5 +1,4 @@
-Patellaria interponens (Nyl.) SPECIES
-=======
+# Patellaria interponens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Verrucaria yünnana Zahlbr. SPECIES
-=======
+# Verrucaria yuennana Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria yünnana Zahlbr.
+Verrucaria yuennana Zahlbr.
 
 ### Remarks
 null

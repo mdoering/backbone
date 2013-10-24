@@ -1,5 +1,4 @@
-Leptolyngbya subterranea (J. Copeland) I. Umezaki & M. Watanabe SPECIES
-=======
+# Leptolyngbya subterranea (J. Copeland) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

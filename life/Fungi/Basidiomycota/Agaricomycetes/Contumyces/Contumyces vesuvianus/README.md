@@ -1,14 +1,13 @@
-Omphalina vesuviana (F. Brig.) Bellù & Lazzari, 1985 SPECIES
-=======
+# Contumyces vesuvianus (F. Brig.) Redhead, Moncalvo, Vilgalys & Lutzoni, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lazzari, Boll. Gruppo Micol. 'G. Bresadola' (Trento) 28(1-2): 122 (1985)
+Mycotaxon 82: 161 (2002)
 
 #### Original name
 Agaricus vesuvianus F. Brig.

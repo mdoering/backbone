@@ -1,5 +1,4 @@
-Phyllosticta amorphophalli Hara SPECIES
-=======
+# Phyllosticta amorphophalli Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia arctata Stirt. SPECIES
-=======
+# Arthonia arctata Stirt. SPECIES
 
 #### Status
 ACCEPTED

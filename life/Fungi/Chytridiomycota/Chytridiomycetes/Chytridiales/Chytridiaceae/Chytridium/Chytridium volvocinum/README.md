@@ -1,5 +1,4 @@
-Chytridium volvocinum A. Braun SPECIES
-=======
+# Chytridium volvocinum A. Braun SPECIES
 
 #### Status
 ACCEPTED

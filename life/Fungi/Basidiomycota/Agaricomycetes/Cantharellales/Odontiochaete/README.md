@@ -1,5 +1,4 @@
-Odontiochaete Rick GENUS
-=======
+# Odontiochaete Rick GENUS
 
 #### Status
 ACCEPTED

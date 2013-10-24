@@ -1,17 +1,16 @@
-Tapinia (Fr.) P. Karst. GENUS
-=======
+# Tapinella E.-J. Gilbert, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 32: xxiii, 452 (1879)
+Skrifter udgivet af Videskabsselskabet i Christiania 67 (1931)
 
 #### Original name
-Agaricus Linnaeus, 1753
+Tapinella E.-J. Gilbert, 1931
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta lorentzii Speg. SPECIES
-=======
+# Ascochyta lorentzii Speg. SPECIES
 
 #### Status
 ACCEPTED

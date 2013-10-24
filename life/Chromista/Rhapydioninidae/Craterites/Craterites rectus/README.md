@@ -1,5 +1,4 @@
-Craterites rectus Heron-Allen & Earland, 1924 SPECIES
-=======
+# Craterites rectus Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

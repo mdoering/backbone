@@ -1,5 +1,4 @@
-Platyophrya Kahl, 1926 GENUS
-=======
+# Platyophrya Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

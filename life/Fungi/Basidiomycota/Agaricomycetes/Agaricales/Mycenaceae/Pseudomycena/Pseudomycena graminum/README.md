@@ -1,5 +1,4 @@
-Pseudomycena graminum Velen. SPECIES
-=======
+# Pseudomycena graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

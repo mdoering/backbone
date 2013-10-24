@@ -1,11 +1,10 @@
-Gymnodinium mitra Schütt, 1895 SPECIES
-=======
+# Gyrodinium mitra Kofoid & Swezy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

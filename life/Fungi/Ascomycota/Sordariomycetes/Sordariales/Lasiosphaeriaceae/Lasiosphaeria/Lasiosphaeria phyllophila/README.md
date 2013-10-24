@@ -1,14 +1,13 @@
-Iodosphaeria phyllophila (Mouton) Samuels, E. Müll. & Petrini, 1987 SPECIES
-=======
+# Lasiosphaeria phyllophila Mouton, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(2): 486 (1987)
+Bull. Soc. R. Bot. Belg. 39: 48 (1900)
 
 #### Original name
 Lasiosphaeria phyllophila Mouton, 1900

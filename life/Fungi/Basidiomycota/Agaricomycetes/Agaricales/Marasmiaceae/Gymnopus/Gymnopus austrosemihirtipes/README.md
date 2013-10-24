@@ -1,5 +1,4 @@
-Gymnopus austrosemihirtipes A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus austrosemihirtipes A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

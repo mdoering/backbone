@@ -1,5 +1,4 @@
-Agaricus elasticus With. SPECIES
-=======
+# Agaricus elasticus With. SPECIES
 
 #### Status
 ACCEPTED

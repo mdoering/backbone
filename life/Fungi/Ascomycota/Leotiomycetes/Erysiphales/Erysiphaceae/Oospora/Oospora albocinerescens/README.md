@@ -1,5 +1,4 @@
-Oospora albocinerescens Maubl. SPECIES
-=======
+# Oospora albocinerescens Maubl. SPECIES
 
 #### Status
 ACCEPTED

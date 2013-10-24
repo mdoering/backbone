@@ -1,5 +1,4 @@
-Pyrenula cylindrica Kashiw. SPECIES
-=======
+# Pyrenula cylindrica Kashiw. SPECIES
 
 #### Status
 ACCEPTED

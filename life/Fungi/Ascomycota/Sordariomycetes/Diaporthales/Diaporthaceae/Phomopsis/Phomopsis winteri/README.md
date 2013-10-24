@@ -1,5 +1,4 @@
-Phomopsis winteri (Kunze) Petr. SPECIES
-=======
+# Phomopsis winteri (Kunze) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia anatolica (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia anatolica (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

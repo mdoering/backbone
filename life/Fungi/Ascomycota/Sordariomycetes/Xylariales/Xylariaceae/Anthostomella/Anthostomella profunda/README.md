@@ -1,5 +1,4 @@
-Anthostomella profunda Sacc. SPECIES
-=======
+# Anthostomella profunda Sacc. SPECIES
 
 #### Status
 ACCEPTED

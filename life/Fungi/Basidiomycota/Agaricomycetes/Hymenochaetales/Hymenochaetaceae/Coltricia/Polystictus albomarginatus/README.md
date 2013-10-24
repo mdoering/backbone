@@ -1,5 +1,4 @@
-Polystictus albomarginatus (Peck) Sacc. SPECIES
-=======
+# Polystictus albomarginatus (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

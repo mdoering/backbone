@@ -1,5 +1,4 @@
-Meliola ciferrii Hansf. SPECIES
-=======
+# Meliola ciferrii Hansf. SPECIES
 
 #### Status
 ACCEPTED

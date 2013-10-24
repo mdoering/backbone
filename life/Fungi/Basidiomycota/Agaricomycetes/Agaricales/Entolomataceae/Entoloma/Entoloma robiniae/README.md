@@ -1,5 +1,4 @@
-Entoloma robiniae (Velen.) Noordel. SPECIES
-=======
+# Entoloma robiniae (Velen.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

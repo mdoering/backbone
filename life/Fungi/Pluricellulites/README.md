@@ -1,5 +1,4 @@
-Pluricellulites Hammen GENUS
-=======
+# Pluricellulites Hammen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo prodigiosa Y.C. Wang & J.Y. Zhuang SPECIES
-=======
+# Uredo prodigiosa Y.C. Wang & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

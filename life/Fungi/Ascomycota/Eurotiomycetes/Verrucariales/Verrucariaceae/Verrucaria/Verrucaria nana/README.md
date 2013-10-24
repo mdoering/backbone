@@ -1,5 +1,4 @@
-Verrucaria nana (Fée) Nyl. SPECIES
-=======
+# Verrucaria nana (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

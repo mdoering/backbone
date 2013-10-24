@@ -1,17 +1,16 @@
-Coleosporium pedicularidis F.L. Tai SPECIES
-=======
+# Coleosporium pedicularis F.L. Tai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Farlowia 3: 100 (1947)
 
 #### Original name
-Coleosporium pedicularidis F.L. Tai
+Coleosporium pedicularis F.L. Tai
 
 ### Remarks
 null

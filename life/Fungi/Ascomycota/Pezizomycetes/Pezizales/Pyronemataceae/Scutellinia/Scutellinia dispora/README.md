@@ -1,5 +1,4 @@
-Scutellinia dispora Clem. SPECIES
-=======
+# Scutellinia dispora Clem. SPECIES
 
 #### Status
 ACCEPTED

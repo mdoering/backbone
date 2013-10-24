@@ -1,5 +1,4 @@
-Bactrodesmium obliquum var. obliquum B. Sutton, 1967 VARIETY
-=======
+# Bactrodesmium obliquum B. Sutton, 1967 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 45: 1778 (1967)
+null
 
 #### Original name
-Bactrodesmium obliquum var. obliquum B. Sutton, 1967
+null
 
 ### Remarks
 null

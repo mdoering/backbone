@@ -1,5 +1,4 @@
-Hydnum testaceum F. Brig. SPECIES
-=======
+# Hydnum testaceum F. Brig. SPECIES
 
 #### Status
 ACCEPTED

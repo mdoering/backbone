@@ -1,5 +1,4 @@
-Meliola parreirae Bat. SPECIES
-=======
+# Meliola parreirae Bat. SPECIES
 
 #### Status
 ACCEPTED

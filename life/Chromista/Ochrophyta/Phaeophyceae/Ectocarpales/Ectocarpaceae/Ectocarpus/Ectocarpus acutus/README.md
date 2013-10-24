@@ -1,11 +1,10 @@
-Ectocarpus acutus var. aecidioides VARIETY
-=======
+# Ectocarpus acutus Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

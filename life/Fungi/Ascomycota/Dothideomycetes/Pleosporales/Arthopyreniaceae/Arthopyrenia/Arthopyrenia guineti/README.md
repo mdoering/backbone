@@ -1,5 +1,4 @@
-Arthopyrenia guineti Müll. Arg. SPECIES
-=======
+# Arthopyrenia guineti Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

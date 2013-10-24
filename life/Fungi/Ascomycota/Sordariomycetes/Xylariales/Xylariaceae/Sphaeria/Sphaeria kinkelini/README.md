@@ -1,5 +1,4 @@
-Sphaeria kinkelini Engelhard SPECIES
-=======
+# Sphaeria kinkelini Engelhard SPECIES
 
 #### Status
 ACCEPTED

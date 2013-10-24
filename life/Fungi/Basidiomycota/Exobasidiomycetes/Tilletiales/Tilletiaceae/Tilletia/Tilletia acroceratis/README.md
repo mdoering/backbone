@@ -1,5 +1,4 @@
-Tilletia acroceratis Vánky, 2004 SPECIES
-=======
+# Tilletia acroceratis Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

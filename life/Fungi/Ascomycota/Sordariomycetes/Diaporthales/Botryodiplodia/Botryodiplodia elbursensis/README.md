@@ -1,5 +1,4 @@
-Botryodiplodia elbursensis Petr. SPECIES
-=======
+# Botryodiplodia elbursensis Petr. SPECIES
 
 #### Status
 ACCEPTED

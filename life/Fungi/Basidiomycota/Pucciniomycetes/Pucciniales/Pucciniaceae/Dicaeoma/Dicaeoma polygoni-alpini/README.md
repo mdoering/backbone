@@ -1,5 +1,4 @@
-Dicaeoma polygoni-alpini (Cruchet & Mayor) Arthur SPECIES
-=======
+# Dicaeoma polygoni-alpini (Cruchet & Mayor) Arthur SPECIES
 
 #### Status
 ACCEPTED

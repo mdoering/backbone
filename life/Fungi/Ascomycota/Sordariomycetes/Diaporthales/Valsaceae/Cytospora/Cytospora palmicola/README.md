@@ -1,5 +1,4 @@
-Cytospora palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

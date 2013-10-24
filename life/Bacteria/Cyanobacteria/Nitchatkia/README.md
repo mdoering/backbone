@@ -1,5 +1,4 @@
-Nitchatkia P.N. Kolosov in A.K. Bobrov, 1970 GENUS
-=======
+# Nitchatkia P.N. Kolosov in A.K. Bobrov, 1970 GENUS
 
 #### Status
 ACCEPTED

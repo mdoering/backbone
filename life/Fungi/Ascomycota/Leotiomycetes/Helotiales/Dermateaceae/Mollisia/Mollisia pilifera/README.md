@@ -1,5 +1,4 @@
-Mollisia pilifera Velen. SPECIES
-=======
+# Mollisia pilifera Velen. SPECIES
 
 #### Status
 ACCEPTED

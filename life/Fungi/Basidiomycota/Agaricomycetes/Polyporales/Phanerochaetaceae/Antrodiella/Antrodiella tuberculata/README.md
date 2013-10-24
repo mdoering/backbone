@@ -1,5 +1,4 @@
-Antrodiella tuberculata Ryvarden & Guzmán SPECIES
-=======
+# Antrodiella tuberculata Ryvarden & Guzmán SPECIES
 
 #### Status
 ACCEPTED

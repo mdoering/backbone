@@ -1,5 +1,4 @@
-Ephebeia GENUS
-=======
+# Ephebeia GENUS
 
 #### Status
 ACCEPTED

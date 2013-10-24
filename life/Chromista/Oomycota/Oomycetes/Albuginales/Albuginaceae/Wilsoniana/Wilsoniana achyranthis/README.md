@@ -1,14 +1,13 @@
-Cystopus bliti f. achyranthis Henn. FORM
-=======
+# Wilsoniana achyranthis (Henn.) Thines, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 92: 456 (2005)
 
 #### Original name
 Cystopus bliti f. achyranthis Henn.

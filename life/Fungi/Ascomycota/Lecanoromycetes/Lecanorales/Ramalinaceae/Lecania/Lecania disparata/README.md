@@ -1,5 +1,4 @@
-Lecania disparata (Nyl.) Lettau SPECIES
-=======
+# Lecania disparata (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

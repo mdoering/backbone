@@ -1,5 +1,4 @@
-Pseudocercospora coperniciae U. Braun & F.O. Freire, 2003 SPECIES
-=======
+# Pseudocercospora coperniciae U. Braun & F.O. Freire, 2003 SPECIES
 
 #### Status
 ACCEPTED

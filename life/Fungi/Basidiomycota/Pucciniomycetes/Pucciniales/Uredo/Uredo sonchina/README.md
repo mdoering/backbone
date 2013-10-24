@@ -1,5 +1,4 @@
-Uredo sonchina Thüm. SPECIES
-=======
+# Uredo sonchina Thüm. SPECIES
 
 #### Status
 ACCEPTED

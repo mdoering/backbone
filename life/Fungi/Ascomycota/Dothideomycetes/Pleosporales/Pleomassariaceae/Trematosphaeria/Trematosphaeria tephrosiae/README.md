@@ -1,5 +1,4 @@
-Trematosphaeria tephrosiae (Cooke & Ellis) Huhndorf SPECIES
-=======
+# Trematosphaeria tephrosiae (Cooke & Ellis) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

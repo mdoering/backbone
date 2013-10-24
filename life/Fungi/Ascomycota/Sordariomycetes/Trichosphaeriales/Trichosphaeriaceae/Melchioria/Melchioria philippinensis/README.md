@@ -1,5 +1,4 @@
-Melchioria philippinensis (Rehm) I. Hino & Katum. SPECIES
-=======
+# Melchioria philippinensis (Rehm) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

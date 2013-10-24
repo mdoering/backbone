@@ -1,5 +1,4 @@
-Actinomyxa Syd. & P. Syd. GENUS
-=======
+# Actinomyxa Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

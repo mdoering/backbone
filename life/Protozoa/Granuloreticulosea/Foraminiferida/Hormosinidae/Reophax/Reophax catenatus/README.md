@@ -1,5 +1,4 @@
-Reophax catenatus Höglund, 1947 SPECIES
-=======
+# Reophax catenatus Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta echinodoricola Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta echinodoricola Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

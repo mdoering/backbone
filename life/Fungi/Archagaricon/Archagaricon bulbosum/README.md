@@ -1,5 +1,4 @@
-Archagaricon bulbosum A. Hancock & Atthey SPECIES
-=======
+# Archagaricon bulbosum A. Hancock & Atthey SPECIES
 
 #### Status
 ACCEPTED

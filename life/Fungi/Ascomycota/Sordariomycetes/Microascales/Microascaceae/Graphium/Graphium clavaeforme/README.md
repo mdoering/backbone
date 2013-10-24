@@ -1,5 +1,4 @@
-Graphium clavaeforme Preuss SPECIES
-=======
+# Graphium clavaeforme Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Horologinella apiculata Cookson & Eisenack, 1962 SPECIES
-=======
+# Horologinella apiculata Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

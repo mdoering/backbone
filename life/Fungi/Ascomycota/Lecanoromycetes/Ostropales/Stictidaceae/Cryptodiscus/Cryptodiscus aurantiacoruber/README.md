@@ -1,5 +1,4 @@
-Cryptodiscus aurantiacoruber Rehm SPECIES
-=======
+# Cryptodiscus aurantiacoruber Rehm SPECIES
 
 #### Status
 ACCEPTED

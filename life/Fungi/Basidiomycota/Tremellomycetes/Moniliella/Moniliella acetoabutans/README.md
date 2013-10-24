@@ -1,17 +1,16 @@
-Moniliella acetoabutens Stolk & Dakin SPECIES
-=======
+# Moniliella acetoabutans Stolk & Dakin, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 32: 400 (1966)
 
 #### Original name
-Moniliella acetoabutens Stolk & Dakin
+Moniliella acetoabutans Stolk & Dakin, 1966
 
 ### Remarks
 null

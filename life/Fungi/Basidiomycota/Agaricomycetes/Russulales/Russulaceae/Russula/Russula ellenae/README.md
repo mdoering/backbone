@@ -1,5 +1,4 @@
-Russula ellenae Thiers SPECIES
-=======
+# Russula ellenae Thiers SPECIES
 
 #### Status
 ACCEPTED

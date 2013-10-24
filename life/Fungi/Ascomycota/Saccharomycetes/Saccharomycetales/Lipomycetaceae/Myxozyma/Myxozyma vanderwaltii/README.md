@@ -1,5 +1,4 @@
-Myxozyma vanderwaltii Spaaij, G. Weber & M.T. Sm., 1993 SPECIES
-=======
+# Myxozyma vanderwaltii Spaaij, G. Weber & M.T. Sm., 1993 SPECIES
 
 #### Status
 ACCEPTED

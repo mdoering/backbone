@@ -1,5 +1,4 @@
-Nesterenkonia sandarakina Li et al., 2005 SPECIES
-=======
+# Nesterenkonia sandarakina Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Theopiliidae Haeckel, 1881 FAMILY
-=======
+# Theopiliidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

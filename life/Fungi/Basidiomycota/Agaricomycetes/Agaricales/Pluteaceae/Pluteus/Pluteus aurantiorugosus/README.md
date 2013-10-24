@@ -1,14 +1,13 @@
-Agaricus aurantiorugosus Trog, 1857 SPECIES
-=======
+# Pluteus aurantiorugosus (Trog) Sacc., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. naturf. Ges. Bern 32: 388 (1857)
+in Bivona-Bernardi, Hedwigia, Beibl. 35(7): 5 (1896)
 
 #### Original name
 Agaricus aurantiorugosus Trog, 1857

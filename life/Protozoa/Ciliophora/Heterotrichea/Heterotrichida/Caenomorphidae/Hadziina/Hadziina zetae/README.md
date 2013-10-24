@@ -1,8 +1,7 @@
-Hadziella zetae Radoicic, 1962 SPECIES
-=======
+# Hadziina zetae (Radoicic, 1962) Radoicic, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

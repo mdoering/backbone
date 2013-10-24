@@ -1,5 +1,4 @@
-Cytospora cupressina Sousa da Câmara SPECIES
-=======
+# Cytospora cupressina Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria cryptocarpa Nyl. SPECIES
-=======
+# Pertusaria cryptocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

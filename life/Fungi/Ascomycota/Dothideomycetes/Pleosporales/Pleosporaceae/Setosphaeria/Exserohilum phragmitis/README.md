@@ -1,17 +1,16 @@
-Exserohilum phragmatis W.P. Wu SPECIES
-=======
+# Exserohilum phragmitis W.P. Wu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the Hebei Academy of Sciences, Selected papers 60 (1990)
 
 #### Original name
-Exserohilum phragmatis W.P. Wu
+Exserohilum phragmitis W.P. Wu
 
 ### Remarks
 null

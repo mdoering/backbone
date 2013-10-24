@@ -1,5 +1,4 @@
-Chaetoceros externus Gran, 1897 SPECIES
-=======
+# Chaetoceros externus Gran, 1897 SPECIES
 
 #### Status
 ACCEPTED

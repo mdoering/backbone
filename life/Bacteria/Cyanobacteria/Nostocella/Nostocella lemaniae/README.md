@@ -1,5 +1,4 @@
-Nostocella lemaniae (C. Agardh) Gaillon SPECIES
-=======
+# Nostocella lemaniae (C. Agardh) Gaillon SPECIES
 
 #### Status
 ACCEPTED

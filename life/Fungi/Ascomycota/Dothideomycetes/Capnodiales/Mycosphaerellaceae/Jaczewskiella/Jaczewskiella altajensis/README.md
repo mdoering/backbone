@@ -1,5 +1,4 @@
-Jaczewskiella altajensis Murashk. SPECIES
-=======
+# Jaczewskiella altajensis Murashk. SPECIES
 
 #### Status
 ACCEPTED

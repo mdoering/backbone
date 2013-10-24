@@ -1,14 +1,13 @@
-Pezicula malicorticis (H.S. Jacks.) Nannf., 1932 SPECIES
-=======
+# Neofabraea malicorticis H.S. Jacks., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(1. 2): 92 (1932)
+Rep. Oregon Exp. Sta. 187 (1913)
 
 #### Original name
 Neofabraea malicorticis H.S. Jacks., 1913

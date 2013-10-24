@@ -1,5 +1,4 @@
-Paecilomyces aerugineus Samson, 1974 SPECIES
-=======
+# Paecilomyces aerugineus Samson, 1974 SPECIES
 
 #### Status
 ACCEPTED

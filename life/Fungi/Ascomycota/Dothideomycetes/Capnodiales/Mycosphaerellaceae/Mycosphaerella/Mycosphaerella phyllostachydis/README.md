@@ -1,5 +1,4 @@
-Mycosphaerella phyllostachydis (Hara) Hara SPECIES
-=======
+# Mycosphaerella phyllostachydis (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

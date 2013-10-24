@@ -1,5 +1,4 @@
-Stigmatea quercina Rehm SPECIES
-=======
+# Stigmatea quercina Rehm SPECIES
 
 #### Status
 ACCEPTED

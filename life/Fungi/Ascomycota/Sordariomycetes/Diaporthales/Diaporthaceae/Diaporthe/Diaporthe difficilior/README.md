@@ -1,5 +1,4 @@
-Diaporthe difficilior Kunze ex Sacc. SPECIES
-=======
+# Diaporthe difficilior Kunze ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

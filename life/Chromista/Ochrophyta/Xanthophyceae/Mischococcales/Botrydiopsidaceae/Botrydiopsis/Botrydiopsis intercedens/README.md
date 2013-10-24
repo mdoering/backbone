@@ -1,8 +1,7 @@
-Botrydiopsis alpina Vischer SPECIES
-=======
+# Botrydiopsis intercedens Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

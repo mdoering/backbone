@@ -1,17 +1,16 @@
-Pucciniostele mandschurica Dietel SPECIES
-=======
+# Pucciniostele mandshurica Dietel, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 2(1): 21 (1904)
 
 #### Original name
-Pucciniostele mandschurica Dietel
+Pucciniostele mandshurica Dietel, 1904
 
 ### Remarks
 null

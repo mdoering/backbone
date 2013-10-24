@@ -1,5 +1,4 @@
-Lecidea chloroticella Nyl. SPECIES
-=======
+# Lecidea chloroticella Nyl. SPECIES
 
 #### Status
 ACCEPTED

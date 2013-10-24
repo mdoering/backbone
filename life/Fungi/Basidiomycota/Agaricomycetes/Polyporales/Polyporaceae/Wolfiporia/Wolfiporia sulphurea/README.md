@@ -1,14 +1,13 @@
-Merulius sulphureus Burt, 1917 SPECIES
-=======
+# Wolfiporia sulphurea (Burt) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 4: 333 (1917)
+Mycotaxon 21: 332 (1984)
 
 #### Original name
 Merulius sulphureus Burt, 1917

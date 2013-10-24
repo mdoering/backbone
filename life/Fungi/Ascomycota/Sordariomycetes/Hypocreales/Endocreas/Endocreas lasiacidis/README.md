@@ -1,5 +1,4 @@
-Endocreas lasiacidis Samuels & Rogerson SPECIES
-=======
+# Endocreas lasiacidis Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita badia (Schaeff.) Bon & Contu SPECIES
-=======
+# Amanita badia (Schaeff.) Bon & Contu SPECIES
 
 #### Status
 ACCEPTED

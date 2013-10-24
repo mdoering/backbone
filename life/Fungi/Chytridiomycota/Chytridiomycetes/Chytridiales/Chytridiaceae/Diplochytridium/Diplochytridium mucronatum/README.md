@@ -1,5 +1,4 @@
-Diplochytridium mucronatum (Sparrow & M.E. Barr) Karling SPECIES
-=======
+# Diplochytridium mucronatum (Sparrow & M.E. Barr) Karling SPECIES
 
 #### Status
 ACCEPTED

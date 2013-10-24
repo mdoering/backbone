@@ -1,5 +1,4 @@
-Lichen ambavillarius Bory SPECIES
-=======
+# Lichen ambavillarius Bory SPECIES
 
 #### Status
 ACCEPTED

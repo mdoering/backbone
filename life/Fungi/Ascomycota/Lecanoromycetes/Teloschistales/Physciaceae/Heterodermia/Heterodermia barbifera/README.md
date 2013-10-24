@@ -1,5 +1,4 @@
-Heterodermia barbifera (Nyl.) J.C. Wei SPECIES
-=======
+# Heterodermia barbifera (Nyl.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

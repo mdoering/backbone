@@ -1,5 +1,4 @@
-Lepiota luteocastanea E. Horak SPECIES
-=======
+# Lepiota luteocastanea E. Horak SPECIES
 
 #### Status
 ACCEPTED

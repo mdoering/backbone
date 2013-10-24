@@ -1,5 +1,4 @@
-Cortinarius caeruleogriseus Ramain SPECIES
-=======
+# Cortinarius caeruleogriseus Ramain SPECIES
 
 #### Status
 ACCEPTED

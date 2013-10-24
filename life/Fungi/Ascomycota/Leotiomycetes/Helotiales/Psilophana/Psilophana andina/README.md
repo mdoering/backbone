@@ -1,5 +1,4 @@
-Psilophana andina Syd., 1939 SPECIES
-=======
+# Psilophana andina Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

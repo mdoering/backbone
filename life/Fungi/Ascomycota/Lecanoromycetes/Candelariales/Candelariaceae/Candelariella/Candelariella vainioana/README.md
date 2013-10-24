@@ -1,5 +1,4 @@
-Candelariella vainioana Hakul. SPECIES
-=======
+# Candelariella vainioana Hakul. SPECIES
 
 #### Status
 ACCEPTED

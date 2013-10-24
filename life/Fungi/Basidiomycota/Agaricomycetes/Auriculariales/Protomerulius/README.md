@@ -1,5 +1,4 @@
-Protomerulius Möller GENUS
-=======
+# Protomerulius Möller GENUS
 
 #### Status
 ACCEPTED

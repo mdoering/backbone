@@ -1,5 +1,4 @@
-Asteroma tinctorium Cooke SPECIES
-=======
+# Asteroma tinctorium Cooke SPECIES
 
 #### Status
 ACCEPTED

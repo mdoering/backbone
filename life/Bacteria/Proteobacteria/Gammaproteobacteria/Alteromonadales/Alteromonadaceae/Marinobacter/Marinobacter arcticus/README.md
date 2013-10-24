@@ -1,5 +1,4 @@
-Marinobacter arcticus Gauthier, Lafay, Christen, Fernandez, Acquaviva, Bonin & Bertrand, 1992 SPECIES
-=======
+# Marinobacter arcticus Gauthier, Lafay, Christen, Fernandez, Acquaviva, Bonin & Bertrand, 1992 SPECIES
 
 #### Status
 ACCEPTED

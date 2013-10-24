@@ -1,5 +1,4 @@
-Sporisorium cymbicum Vánky, 2003 SPECIES
-=======
+# Sporisorium cymbicum Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

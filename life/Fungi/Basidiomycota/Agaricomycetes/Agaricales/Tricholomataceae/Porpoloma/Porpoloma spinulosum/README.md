@@ -1,14 +1,13 @@
-Tricholoma spinulosum Kühner & Romagn., 1947 SPECIES
-=======
+# Porpoloma spinulosum (Kühner & Romagn.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 16: 134 (1947)
+Sydowia 15: 53 (1962)
 
 #### Original name
 Tricholoma spinulosum Kühner & Romagn., 1947

@@ -1,5 +1,4 @@
-Melanoleuca oreades Murrill SPECIES
-=======
+# Melanoleuca oreades Murrill SPECIES
 
 #### Status
 ACCEPTED

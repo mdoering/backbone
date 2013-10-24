@@ -1,5 +1,4 @@
-Lecidea karelica Vain. SPECIES
-=======
+# Lecidea karelica Vain. SPECIES
 
 #### Status
 ACCEPTED

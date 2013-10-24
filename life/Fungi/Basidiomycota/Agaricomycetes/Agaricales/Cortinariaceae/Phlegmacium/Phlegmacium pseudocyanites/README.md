@@ -1,5 +1,4 @@
-Phlegmacium pseudocyanites (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium pseudocyanites (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

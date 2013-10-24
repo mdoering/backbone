@@ -1,5 +1,4 @@
-Lecidea melastegia f. melastegia FORM
-=======
+# Lecidea melastegia Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea melastegia f. melastegia
+Lecidea melastegia Nyl.
 
 ### Remarks
 null

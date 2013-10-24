@@ -1,5 +1,4 @@
-Derxomyces komagatae (F.Y. Bai, M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces komagatae (F.Y. Bai, M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

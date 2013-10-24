@@ -1,5 +1,4 @@
-Coleosporium dahliae Arthur SPECIES
-=======
+# Coleosporium dahliae Arthur SPECIES
 
 #### Status
 ACCEPTED

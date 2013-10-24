@@ -1,5 +1,4 @@
-Stereum obliquulum S. Ito & S. Imai SPECIES
-=======
+# Stereum obliquulum S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

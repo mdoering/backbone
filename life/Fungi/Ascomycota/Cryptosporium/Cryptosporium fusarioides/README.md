@@ -1,5 +1,4 @@
-Cryptosporium fusarioides Sacc. SPECIES
-=======
+# Cryptosporium fusarioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anulosporium Sherb. GENUS
-=======
+# Anulosporium Sherb. GENUS
 
 #### Status
 ACCEPTED

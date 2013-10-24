@@ -1,5 +1,4 @@
-Cortinarius subbalteatus f. balteatotomentosus (Rob. Henry ex Rob. Henry) Bidaud, Moënne-Locc. & Reumaux FORM
-=======
+# Cortinarius subbalteatus Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Bidaud, Moënne-Loccoz, Reumaux & Henry, Atlas des Cortinaires (Meyzieu) 7: 231 (1995)
+Bull. mens. Soc. linn. Lyon 24(2): 40 (1955)
 
 #### Original name
-Cortinarius balteatotomentosus Rob. Henry
+Cortinarius subbalteatus Kühner
 
 ### Remarks
 null

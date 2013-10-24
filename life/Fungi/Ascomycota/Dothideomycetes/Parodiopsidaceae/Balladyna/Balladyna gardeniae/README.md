@@ -1,5 +1,4 @@
-Balladyna gardeniae Racib., 1900 SPECIES
-=======
+# Balladyna gardeniae Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia arracacharum (Lindr.) Arthur SPECIES
-=======
+# Puccinia arracacharum (Lindr.) Arthur SPECIES
 
 #### Status
 ACCEPTED

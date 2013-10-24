@@ -1,5 +1,4 @@
-Coleosporium oldenlandiae E.J. Butler SPECIES
-=======
+# Coleosporium oldenlandiae E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

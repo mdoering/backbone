@@ -1,5 +1,4 @@
-Diploschistes compositus C.W. Dodge SPECIES
-=======
+# Diploschistes compositus C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

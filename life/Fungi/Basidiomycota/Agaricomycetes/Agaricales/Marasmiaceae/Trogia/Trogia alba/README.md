@@ -1,5 +1,4 @@
-Trogia alba Corner SPECIES
-=======
+# Trogia alba Corner SPECIES
 
 #### Status
 ACCEPTED

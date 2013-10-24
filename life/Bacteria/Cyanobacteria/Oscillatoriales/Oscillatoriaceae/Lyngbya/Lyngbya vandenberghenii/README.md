@@ -1,5 +1,4 @@
-Lyngbya vandenberghenii Symoens & van der Werff SPECIES
-=======
+# Lyngbya vandenberghenii Symoens & van der Werff SPECIES
 
 #### Status
 ACCEPTED

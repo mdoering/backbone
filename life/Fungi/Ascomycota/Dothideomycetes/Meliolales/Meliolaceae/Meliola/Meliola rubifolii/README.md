@@ -1,5 +1,4 @@
-Meliola rubifolii Mibey SPECIES
-=======
+# Meliola rubifolii Mibey SPECIES
 
 #### Status
 ACCEPTED

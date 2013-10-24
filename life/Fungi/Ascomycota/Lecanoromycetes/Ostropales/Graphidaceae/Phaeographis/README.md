@@ -1,17 +1,16 @@
-Phaeographidomyces Cif. & Tomas. GENUS
-=======
+# Phaeographis Müller Arg., 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 50, 76 (1953)
+null
 
 #### Original name
-Phaeographidomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

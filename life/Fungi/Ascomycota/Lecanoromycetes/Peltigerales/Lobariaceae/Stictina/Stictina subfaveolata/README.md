@@ -1,5 +1,4 @@
-Stictina subfaveolata Nyl. SPECIES
-=======
+# Stictina subfaveolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

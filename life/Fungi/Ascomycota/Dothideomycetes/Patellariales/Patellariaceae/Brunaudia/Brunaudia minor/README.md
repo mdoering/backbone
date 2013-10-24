@@ -1,5 +1,4 @@
-Brunaudia minor (Cooke) Kuntze SPECIES
-=======
+# Brunaudia minor (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleistophora hippoglossoideos Bosanquet, 1910 SPECIES
-=======
+# Pleistophora hippoglossoideos Bosanquet, 1910 SPECIES
 
 #### Status
 ACCEPTED

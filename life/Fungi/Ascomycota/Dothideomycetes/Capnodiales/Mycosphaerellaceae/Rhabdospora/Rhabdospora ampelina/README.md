@@ -1,5 +1,4 @@
-Rhabdospora ampelina (Thüm.) Sacc. SPECIES
-=======
+# Rhabdospora ampelina (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

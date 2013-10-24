@@ -1,5 +1,4 @@
-Didymium trachysporum G. Lister, 1923 SPECIES
-=======
+# Didymium trachysporum G. Lister, 1923 SPECIES
 
 #### Status
 ACCEPTED

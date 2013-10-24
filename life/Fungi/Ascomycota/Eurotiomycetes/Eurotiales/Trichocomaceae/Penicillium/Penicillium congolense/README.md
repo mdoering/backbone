@@ -1,5 +1,4 @@
-Penicillium congolense Dierckx SPECIES
-=======
+# Penicillium congolense Dierckx SPECIES
 
 #### Status
 ACCEPTED

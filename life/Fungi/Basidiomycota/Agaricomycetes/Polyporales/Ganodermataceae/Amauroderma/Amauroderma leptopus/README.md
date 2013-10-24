@@ -1,14 +1,13 @@
-Polyporus leptopus Pers., 1827 SPECIES
-=======
+# Amauroderma leptopus (Pers.) J.S. Furtado, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Voy. Uranie. Bot. 5: 169 (1827)
+Bull. Jard. Bot. Nat. Belg. 37: 310 (1967)
 
 #### Original name
 Polyporus leptopus Pers., 1827

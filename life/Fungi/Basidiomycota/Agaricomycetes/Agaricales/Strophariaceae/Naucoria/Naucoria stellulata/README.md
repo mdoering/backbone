@@ -1,5 +1,4 @@
-Naucoria stellulata Berk. & M.A. Curtis SPECIES
-=======
+# Naucoria stellulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

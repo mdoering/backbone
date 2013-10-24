@@ -1,5 +1,4 @@
-Leptoniella murina Murrill SPECIES
-=======
+# Leptoniella murina Murrill SPECIES
 
 #### Status
 ACCEPTED

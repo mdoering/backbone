@@ -1,17 +1,16 @@
-Physcia minor (Fée) Vain. SPECIES
-=======
+# Hyperphyscia minor (Fée) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenes Neotropici (Neumarkt), Fascicle <b>X</b> (nos 401-450) 9 (1988)
 
 #### Original name
-null
+Parmelia minor Fée
 
 ### Remarks
 null

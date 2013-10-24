@@ -1,5 +1,4 @@
-Cryptosporium falcisporum Antok. SPECIES
-=======
+# Cryptosporium falcisporum Antok. SPECIES
 
 #### Status
 ACCEPTED

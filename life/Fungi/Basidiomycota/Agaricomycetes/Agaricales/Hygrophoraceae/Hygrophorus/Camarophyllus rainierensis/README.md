@@ -1,5 +1,4 @@
-Camarophyllus rainierensis (Hesler & A.H. Sm.) Singer SPECIES
-=======
+# Camarophyllus rainierensis (Hesler & A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

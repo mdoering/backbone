@@ -1,5 +1,4 @@
-Alysidium sulfurellum (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Alysidium sulfurellum (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

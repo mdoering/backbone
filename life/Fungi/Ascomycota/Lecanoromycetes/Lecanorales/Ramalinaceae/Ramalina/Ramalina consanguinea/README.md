@@ -1,5 +1,4 @@
-Ramalina consanguinea Müll. Arg. SPECIES
-=======
+# Ramalina consanguinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

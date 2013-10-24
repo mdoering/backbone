@@ -1,17 +1,16 @@
-Elateraecium salacicola Thirum., F. Kern & B.V. Patil SPECIES
-=======
+# Elateraecium salaciicola Thirum., F. Kern & B.V. Patil, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 58(3): 394 (1966)
 
 #### Original name
-Elateraecium salacicola Thirum., F. Kern & B.V. Patil
+Elateraecium salaciicola Thirum., F. Kern & B.V. Patil, 1966
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Spinifermonas patelliformis (Takahashi & Hara) Nicholls, 1984 SPECIES
-=======
+# Thaumatomastix patelliformis (Takahashi & Hara) Beech & Moestrup, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Peziza cernua Pers. SPECIES
-=======
+# Peziza cernua Pers. SPECIES
 
 #### Status
 ACCEPTED

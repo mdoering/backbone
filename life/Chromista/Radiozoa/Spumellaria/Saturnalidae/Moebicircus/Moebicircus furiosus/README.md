@@ -1,5 +1,4 @@
-Moebicircus furiosus SPECIES
-=======
+# Moebicircus furiosus SPECIES
 
 #### Status
 ACCEPTED

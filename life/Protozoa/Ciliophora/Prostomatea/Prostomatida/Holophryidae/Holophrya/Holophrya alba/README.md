@@ -1,5 +1,4 @@
-Holophrya alba Fromentel, 1876 SPECIES
-=======
+# Holophrya alba Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

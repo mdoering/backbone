@@ -1,5 +1,4 @@
-Buellia cinnabarina U. Grube SPECIES
-=======
+# Buellia cinnabarina U. Grube SPECIES
 
 #### Status
 ACCEPTED

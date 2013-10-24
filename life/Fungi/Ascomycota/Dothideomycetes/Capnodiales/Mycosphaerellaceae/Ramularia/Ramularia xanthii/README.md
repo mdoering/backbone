@@ -1,5 +1,4 @@
-Ramularia xanthii Lobik SPECIES
-=======
+# Ramularia xanthii Lobik SPECIES
 
 #### Status
 ACCEPTED

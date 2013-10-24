@@ -1,5 +1,4 @@
-Protomyces pithyophilus P. Karst. SPECIES
-=======
+# Protomyces pithyophilus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

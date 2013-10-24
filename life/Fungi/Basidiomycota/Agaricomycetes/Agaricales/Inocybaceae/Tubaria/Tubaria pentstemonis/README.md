@@ -1,5 +1,4 @@
-Tubaria pentstemonis Singer SPECIES
-=======
+# Tubaria pentstemonis Singer SPECIES
 
 #### Status
 ACCEPTED

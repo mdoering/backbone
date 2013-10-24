@@ -1,5 +1,4 @@
-Heppia solorinoides (Nyl.) Nyl. SPECIES
-=======
+# Heppia solorinoides (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

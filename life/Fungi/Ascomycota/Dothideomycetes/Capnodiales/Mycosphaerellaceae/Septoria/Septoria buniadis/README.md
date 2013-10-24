@@ -1,5 +1,4 @@
-Septoria buniadis Tomilin SPECIES
-=======
+# Septoria buniadis Tomilin SPECIES
 
 #### Status
 ACCEPTED

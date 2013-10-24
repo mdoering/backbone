@@ -1,5 +1,4 @@
-Cellularia rugulosa (Berk.) Kuntze SPECIES
-=======
+# Cellularia rugulosa (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

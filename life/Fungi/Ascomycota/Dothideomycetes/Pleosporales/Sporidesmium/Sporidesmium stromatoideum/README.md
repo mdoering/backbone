@@ -1,5 +1,4 @@
-Sporidesmium stromatoideum (Dearn.) Morgan-Jones SPECIES
-=======
+# Sporidesmium stromatoideum (Dearn.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

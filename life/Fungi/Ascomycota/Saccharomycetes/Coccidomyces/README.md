@@ -1,5 +1,4 @@
-Coccidomyces Buchner GENUS
-=======
+# Coccidomyces Buchner GENUS
 
 #### Status
 ACCEPTED

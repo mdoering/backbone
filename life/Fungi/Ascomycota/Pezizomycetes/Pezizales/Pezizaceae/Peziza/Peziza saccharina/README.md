@@ -1,5 +1,4 @@
-Peziza saccharina Bres. SPECIES
-=======
+# Peziza saccharina Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium polymorphum SPECIES
-=======
+# Strombidium polymorphum SPECIES
 
 #### Status
 ACCEPTED

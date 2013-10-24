@@ -1,5 +1,4 @@
-Cystoseira helvetica Heer, 1877 SPECIES
-=======
+# Cystoseira helvetica Heer, 1877 SPECIES
 
 #### Status
 ACCEPTED

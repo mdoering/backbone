@@ -1,5 +1,4 @@
-Ramaria incurvata (Morgan) Corner SPECIES
-=======
+# Ramaria incurvata (Morgan) Corner SPECIES
 
 #### Status
 ACCEPTED

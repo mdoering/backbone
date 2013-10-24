@@ -1,5 +1,4 @@
-Hendersonia hortilecta Fairm. SPECIES
-=======
+# Hendersonia hortilecta Fairm. SPECIES
 
 #### Status
 ACCEPTED

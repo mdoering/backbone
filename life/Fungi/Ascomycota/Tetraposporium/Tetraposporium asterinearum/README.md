@@ -1,5 +1,4 @@
-Tetraposporium asterinearum S. Hughes, 1951 SPECIES
-=======
+# Tetraposporium asterinearum S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

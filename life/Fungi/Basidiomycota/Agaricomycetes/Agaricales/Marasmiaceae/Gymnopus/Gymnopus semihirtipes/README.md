@@ -1,5 +1,4 @@
-Gymnopus semihirtipes (Peck) Halling, 1997 SPECIES
-=======
+# Gymnopus semihirtipes (Peck) Halling, 1997 SPECIES
 
 #### Status
 ACCEPTED

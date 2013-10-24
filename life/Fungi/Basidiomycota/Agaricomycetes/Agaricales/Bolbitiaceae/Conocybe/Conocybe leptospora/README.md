@@ -1,5 +1,4 @@
-Conocybe leptospora Zschiesch. SPECIES
-=======
+# Conocybe leptospora Zschiesch. SPECIES
 
 #### Status
 ACCEPTED

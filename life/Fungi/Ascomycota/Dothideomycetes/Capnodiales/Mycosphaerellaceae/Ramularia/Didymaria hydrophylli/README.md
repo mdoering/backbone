@@ -1,5 +1,4 @@
-Didymaria hydrophylli (Ellis & Everh.) Solheim SPECIES
-=======
+# Didymaria hydrophylli (Ellis & Everh.) Solheim SPECIES
 
 #### Status
 ACCEPTED

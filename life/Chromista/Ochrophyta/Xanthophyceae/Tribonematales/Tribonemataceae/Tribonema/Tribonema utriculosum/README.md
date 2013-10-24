@@ -1,5 +1,4 @@
-Tribonema utriculosum (Kuetz.) Hazen SPECIES
-=======
+# Tribonema utriculosum (Kuetz.) Hazen SPECIES
 
 #### Status
 ACCEPTED

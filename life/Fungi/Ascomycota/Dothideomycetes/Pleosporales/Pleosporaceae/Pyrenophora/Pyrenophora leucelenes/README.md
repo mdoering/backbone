@@ -1,5 +1,4 @@
-Pyrenophora leucelenes Fairm. SPECIES
-=======
+# Pyrenophora leucelenes Fairm. SPECIES
 
 #### Status
 ACCEPTED

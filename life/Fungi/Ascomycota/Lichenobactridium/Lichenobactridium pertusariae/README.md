@@ -1,5 +1,4 @@
-Lichenobactridium pertusariae Diederich & Etayo, 1995 SPECIES
-=======
+# Lichenobactridium pertusariae Diederich & Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

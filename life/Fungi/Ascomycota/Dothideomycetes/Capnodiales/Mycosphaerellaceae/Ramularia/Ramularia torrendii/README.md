@@ -1,5 +1,4 @@
-Ramularia torrendii (Bres.) U. Braun SPECIES
-=======
+# Ramularia torrendii (Bres.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

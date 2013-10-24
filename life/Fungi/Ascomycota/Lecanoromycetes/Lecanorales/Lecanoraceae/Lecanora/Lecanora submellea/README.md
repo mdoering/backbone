@@ -1,5 +1,4 @@
-Lecanora submellea Savicz SPECIES
-=======
+# Lecanora submellea Savicz SPECIES
 
 #### Status
 ACCEPTED

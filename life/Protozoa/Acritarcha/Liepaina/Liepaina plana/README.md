@@ -1,5 +1,4 @@
-Liepaina plana Jankauskas & Volkova in Volkova et al., 1979 SPECIES
-=======
+# Liepaina plana Jankauskas & Volkova in Volkova et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

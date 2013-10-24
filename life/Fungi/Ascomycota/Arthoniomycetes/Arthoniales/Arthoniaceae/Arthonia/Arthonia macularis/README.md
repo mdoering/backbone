@@ -1,5 +1,4 @@
-Arthonia macularis Chevall. SPECIES
-=======
+# Arthonia macularis Chevall. SPECIES
 
 #### Status
 ACCEPTED

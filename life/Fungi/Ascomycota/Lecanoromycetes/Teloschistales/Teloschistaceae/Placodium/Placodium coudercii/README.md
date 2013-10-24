@@ -1,5 +1,4 @@
-Placodium coudercii (Harm.) Gyeln. SPECIES
-=======
+# Placodium coudercii (Harm.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

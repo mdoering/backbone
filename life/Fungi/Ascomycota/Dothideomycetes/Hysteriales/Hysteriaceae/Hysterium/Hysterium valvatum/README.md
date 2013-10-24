@@ -1,5 +1,4 @@
-Hysterium valvatum Nees SPECIES
-=======
+# Hysterium valvatum Nees SPECIES
 
 #### Status
 ACCEPTED

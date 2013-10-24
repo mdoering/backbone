@@ -1,5 +1,4 @@
-Troglodytellidae FAMILY
-=======
+# Troglodytellidae FAMILY
 
 #### Status
 ACCEPTED

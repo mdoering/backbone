@@ -1,5 +1,4 @@
-Torodinium Kofoid & Swezy, 1921 GENUS
-=======
+# Torodinium Kofoid & Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

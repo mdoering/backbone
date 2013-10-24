@@ -1,5 +1,4 @@
-Verrucaria aureocerina Hoffm. SPECIES
-=======
+# Verrucaria aureocerina Hoffm. SPECIES
 
 #### Status
 ACCEPTED

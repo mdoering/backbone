@@ -1,5 +1,4 @@
-Lembosina eucalypti Sivan. & R.G. Shivas SPECIES
-=======
+# Lembosina eucalypti Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

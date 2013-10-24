@@ -1,5 +1,4 @@
-Lecanora discolor Duby SPECIES
-=======
+# Lecanora discolor Duby SPECIES
 
 #### Status
 ACCEPTED

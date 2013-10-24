@@ -1,5 +1,4 @@
-Erysiphe staphyleae (Sawada) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe staphyleae (Sawada) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

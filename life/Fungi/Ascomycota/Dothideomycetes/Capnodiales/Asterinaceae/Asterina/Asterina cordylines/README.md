@@ -1,5 +1,4 @@
-Asterina cordylines Syd. SPECIES
-=======
+# Asterina cordylines Syd. SPECIES
 
 #### Status
 ACCEPTED

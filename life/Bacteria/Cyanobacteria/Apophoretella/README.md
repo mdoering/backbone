@@ -1,5 +1,4 @@
-Apophoretella G.F. Elliott, 1975 GENUS
-=======
+# Apophoretella G.F. Elliott, 1975 GENUS
 
 #### Status
 ACCEPTED

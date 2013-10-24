@@ -1,5 +1,4 @@
-Lecidea diasema Nyl. SPECIES
-=======
+# Lecidea diasema Nyl. SPECIES
 
 #### Status
 ACCEPTED

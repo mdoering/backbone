@@ -1,5 +1,4 @@
-Laboulbenia muscariae Thaxt. SPECIES
-=======
+# Laboulbenia muscariae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

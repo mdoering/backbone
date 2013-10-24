@@ -1,5 +1,4 @@
-Puccinia thalictri-distichophylli E. Fisch. & Mayor SPECIES
-=======
+# Puccinia thalictri-distichophylli E. Fisch. & Mayor SPECIES
 
 #### Status
 ACCEPTED

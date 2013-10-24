@@ -1,5 +1,4 @@
-Peridermium boudieri E. Fisch. SPECIES
-=======
+# Peridermium boudieri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

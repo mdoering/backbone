@@ -1,5 +1,4 @@
-Uredo myriactidis Sundaram SPECIES
-=======
+# Uredo myriactidis Sundaram SPECIES
 
 #### Status
 ACCEPTED

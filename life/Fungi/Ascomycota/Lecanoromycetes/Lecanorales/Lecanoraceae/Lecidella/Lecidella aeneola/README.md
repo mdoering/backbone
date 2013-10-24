@@ -1,5 +1,4 @@
-Lecidella aeneola Arnold SPECIES
-=======
+# Lecidella aeneola Arnold SPECIES
 
 #### Status
 ACCEPTED

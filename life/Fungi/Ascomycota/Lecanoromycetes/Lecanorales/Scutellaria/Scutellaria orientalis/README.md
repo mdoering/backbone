@@ -1,5 +1,4 @@
-Scutellaria orientalis L. SPECIES
-=======
+# Scutellaria orientalis L. SPECIES
 
 #### Status
 ACCEPTED

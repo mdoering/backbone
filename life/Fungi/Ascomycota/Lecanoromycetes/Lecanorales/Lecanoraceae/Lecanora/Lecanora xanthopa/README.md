@@ -1,5 +1,4 @@
-Lecanora xanthopa Hue SPECIES
-=======
+# Lecanora xanthopa Hue SPECIES
 
 #### Status
 ACCEPTED

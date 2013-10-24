@@ -1,5 +1,4 @@
-Holosticha lacazei Maupas, 1888 SPECIES
-=======
+# Holosticha lacazei Maupas, 1888 SPECIES
 
 #### Status
 ACCEPTED

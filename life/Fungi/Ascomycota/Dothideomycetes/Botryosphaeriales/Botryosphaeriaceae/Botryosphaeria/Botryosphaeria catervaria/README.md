@@ -1,5 +1,4 @@
-Botryosphaeria catervaria (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Botryosphaeria catervaria (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

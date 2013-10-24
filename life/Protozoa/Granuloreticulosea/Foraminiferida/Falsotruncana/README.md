@@ -1,5 +1,4 @@
-Falsotruncana Caron, 1981 GENUS
-=======
+# Falsotruncana Caron, 1981 GENUS
 
 #### Status
 ACCEPTED

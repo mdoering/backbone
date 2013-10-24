@@ -1,5 +1,4 @@
-Thelephora tenuis Burt, 1931 SPECIES
-=======
+# Thelephora tenuis Burt, 1931 SPECIES
 
 #### Status
 ACCEPTED

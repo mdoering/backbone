@@ -1,5 +1,4 @@
-Systremma canthii Hansf. SPECIES
-=======
+# Systremma canthii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marinactinospora Tian, Tang, Dong, Zhang, Xu, Zhang & Li, 2009 GENUS
-=======
+# Marinactinospora Tian, Tang, Dong, Zhang, Xu, Zhang & Li, 2009 GENUS
 
 #### Status
 ACCEPTED

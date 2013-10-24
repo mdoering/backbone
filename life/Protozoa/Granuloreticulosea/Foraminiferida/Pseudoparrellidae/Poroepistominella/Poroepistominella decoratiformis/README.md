@@ -1,5 +1,4 @@
-Poroepistominella decoratiformis (McCulloch, 1977) SPECIES
-=======
+# Poroepistominella decoratiformis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

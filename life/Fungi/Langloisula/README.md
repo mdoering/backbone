@@ -1,5 +1,4 @@
-Langloisula Ellis & Everh. GENUS
-=======
+# Langloisula Ellis & Everh. GENUS
 
 #### Status
 ACCEPTED

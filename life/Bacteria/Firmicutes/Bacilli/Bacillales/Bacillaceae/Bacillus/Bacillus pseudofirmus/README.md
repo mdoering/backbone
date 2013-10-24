@@ -1,5 +1,4 @@
-Bacillus pseudofirmus Nielsen et al., 1995 SPECIES
-=======
+# Bacillus pseudofirmus Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

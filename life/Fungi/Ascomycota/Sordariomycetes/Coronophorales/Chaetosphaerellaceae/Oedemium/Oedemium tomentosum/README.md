@@ -1,5 +1,4 @@
-Oedemium tomentosum Corda SPECIES
-=======
+# Oedemium tomentosum Corda SPECIES
 
 #### Status
 ACCEPTED

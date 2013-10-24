@@ -1,5 +1,4 @@
-Arthothelium genuflexum Müll. Arg. SPECIES
-=======
+# Arthothelium genuflexum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

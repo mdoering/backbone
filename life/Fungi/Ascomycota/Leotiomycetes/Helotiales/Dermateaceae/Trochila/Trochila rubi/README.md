@@ -1,5 +1,4 @@
-Trochila rubi De Not. SPECIES
-=======
+# Trochila rubi De Not. SPECIES
 
 #### Status
 ACCEPTED

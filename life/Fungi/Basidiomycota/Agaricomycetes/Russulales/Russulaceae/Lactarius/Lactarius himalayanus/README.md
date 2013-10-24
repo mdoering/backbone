@@ -1,17 +1,16 @@
-Lactarius himalayana Rawla & Sarwal SPECIES
-=======
+# Lactarius himalayanus Rawla & Sarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 91: 42 (1983)
 
 #### Original name
-Lactarius himalayana Rawla & Sarwal
+Lactarius himalayanus Rawla & Sarwal
 
 ### Remarks
 null

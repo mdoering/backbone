@@ -1,5 +1,4 @@
-Thelidium kutakii (Servít) Servít SPECIES
-=======
+# Thelidium kutakii (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

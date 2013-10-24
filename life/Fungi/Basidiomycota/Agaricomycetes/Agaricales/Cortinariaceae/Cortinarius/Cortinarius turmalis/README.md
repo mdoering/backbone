@@ -1,17 +1,16 @@
-Cortinarius claricolor f. turmalis (Fr.) Nespiak, 1975 FORM
-=======
+# Cortinarius turmalis (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska, Grzyby (Mycota), 7, Basidiomycetes, Agaricales, Cortinartaccae, Cortinarius 1 (Warszawa-Krakow) 78 (1975)
+Epicr. syst. mycol. (Upsaliae) 257 (1838)
 
 #### Original name
-Cortinarius claricolor var. turmalis (Fr.) Quél., 1886
+Cortinarius turmalis (Fr.) Fr., 1838
 
 ### Remarks
 null

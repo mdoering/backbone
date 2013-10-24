@@ -1,5 +1,4 @@
-Naucoria obscura Velen. SPECIES
-=======
+# Naucoria obscura Velen. SPECIES
 
 #### Status
 ACCEPTED

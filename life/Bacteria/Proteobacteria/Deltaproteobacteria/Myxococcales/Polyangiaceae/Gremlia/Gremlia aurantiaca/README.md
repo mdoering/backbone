@@ -1,5 +1,4 @@
-Gremlia aurantiaca (Kalchbr. & Cooke) Nieuwl. SPECIES
-=======
+# Gremlia aurantiaca (Kalchbr. & Cooke) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

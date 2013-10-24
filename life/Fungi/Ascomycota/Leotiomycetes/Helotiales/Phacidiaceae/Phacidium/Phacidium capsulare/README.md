@@ -1,5 +1,4 @@
-Phacidium capsulare Schwein. SPECIES
-=======
+# Phacidium capsulare Schwein. SPECIES
 
 #### Status
 ACCEPTED

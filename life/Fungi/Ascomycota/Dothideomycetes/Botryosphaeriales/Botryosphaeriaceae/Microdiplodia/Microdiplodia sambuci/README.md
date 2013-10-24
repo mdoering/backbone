@@ -1,5 +1,4 @@
-Microdiplodia sambuci Politis SPECIES
-=======
+# Microdiplodia sambuci Politis SPECIES
 
 #### Status
 ACCEPTED

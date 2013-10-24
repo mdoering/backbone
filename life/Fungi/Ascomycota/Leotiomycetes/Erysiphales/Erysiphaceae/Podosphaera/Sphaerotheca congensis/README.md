@@ -1,5 +1,4 @@
-Sphaerotheca congensis SPECIES
-=======
+# Sphaerotheca congensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe tricolor Kühner SPECIES
-=======
+# Inocybe tricolor Kühner SPECIES
 
 #### Status
 ACCEPTED

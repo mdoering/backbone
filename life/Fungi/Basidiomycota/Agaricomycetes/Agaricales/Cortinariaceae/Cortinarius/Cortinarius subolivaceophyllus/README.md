@@ -1,5 +1,4 @@
-Cortinarius subolivaceophyllus Rob. Henry SPECIES
-=======
+# Cortinarius subolivaceophyllus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

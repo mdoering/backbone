@@ -1,5 +1,4 @@
-Aecidium columnare Alb. & Schwein. SPECIES
-=======
+# Aecidium columnare Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

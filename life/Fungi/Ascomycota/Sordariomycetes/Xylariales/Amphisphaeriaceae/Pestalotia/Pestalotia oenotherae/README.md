@@ -1,5 +1,4 @@
-Pestalotia oenotherae Ellis & Barthol. SPECIES
-=======
+# Pestalotia oenotherae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

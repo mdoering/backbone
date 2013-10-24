@@ -1,5 +1,4 @@
-Sphaeria spurca Wallr. SPECIES
-=======
+# Sphaeria spurca Wallr. SPECIES
 
 #### Status
 ACCEPTED

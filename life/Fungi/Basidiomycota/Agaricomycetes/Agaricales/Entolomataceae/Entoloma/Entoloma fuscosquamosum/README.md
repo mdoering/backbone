@@ -1,5 +1,4 @@
-Entoloma fuscosquamosum Hesler SPECIES
-=======
+# Entoloma fuscosquamosum Hesler SPECIES
 
 #### Status
 ACCEPTED

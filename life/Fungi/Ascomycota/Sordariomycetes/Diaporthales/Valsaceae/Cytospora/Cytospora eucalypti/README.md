@@ -1,5 +1,4 @@
-Cytospora eucalypti J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Cytospora eucalypti J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
 ACCEPTED

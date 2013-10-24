@@ -1,5 +1,4 @@
-Gnomoniella excentrica (Cooke & Peck) Sacc. SPECIES
-=======
+# Gnomoniella excentrica (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

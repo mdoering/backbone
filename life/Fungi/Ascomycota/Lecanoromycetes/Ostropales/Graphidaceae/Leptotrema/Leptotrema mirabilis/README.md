@@ -1,5 +1,4 @@
-Leptotrema mirabilis Zahlbr. SPECIES
-=======
+# Leptotrema mirabilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

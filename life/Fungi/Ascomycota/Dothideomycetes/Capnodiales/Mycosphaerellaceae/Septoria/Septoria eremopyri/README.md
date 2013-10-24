@@ -1,5 +1,4 @@
-Septoria eremopyri Kalymb. SPECIES
-=======
+# Septoria eremopyri Kalymb. SPECIES
 
 #### Status
 ACCEPTED

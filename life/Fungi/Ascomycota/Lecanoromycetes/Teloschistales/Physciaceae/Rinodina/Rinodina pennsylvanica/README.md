@@ -1,5 +1,4 @@
-Rinodina pennsylvanica H. Magn. SPECIES
-=======
+# Rinodina pennsylvanica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria crinita Pers. SPECIES
-=======
+# Sphaeria crinita Pers. SPECIES
 
 #### Status
 ACCEPTED

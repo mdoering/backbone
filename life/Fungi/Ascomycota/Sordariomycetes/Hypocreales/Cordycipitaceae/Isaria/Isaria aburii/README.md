@@ -1,5 +1,4 @@
-Isaria aburii SPECIES
-=======
+# Isaria aburii SPECIES
 
 #### Status
 ACCEPTED

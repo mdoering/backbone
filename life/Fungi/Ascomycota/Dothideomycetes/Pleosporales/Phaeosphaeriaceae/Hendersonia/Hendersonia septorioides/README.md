@@ -1,14 +1,13 @@
-Hendersonia septoriodes (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia septorioides (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 483 (1898)
 
 #### Original name
 Stagonospora septorioides Hara

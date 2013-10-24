@@ -1,5 +1,4 @@
-Numulariola comedens (Ces.) P.M.D. Martin SPECIES
-=======
+# Numulariola comedens (Ces.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

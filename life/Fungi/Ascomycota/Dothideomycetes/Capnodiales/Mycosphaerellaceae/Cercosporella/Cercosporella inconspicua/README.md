@@ -1,5 +1,4 @@
-Cercosporella inconspicua (G. Winter) Höhn. SPECIES
-=======
+# Cercosporella inconspicua (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

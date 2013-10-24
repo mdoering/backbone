@@ -1,5 +1,4 @@
-Amanita spissacea S. Imai SPECIES
-=======
+# Amanita spissacea S. Imai SPECIES
 
 #### Status
 ACCEPTED

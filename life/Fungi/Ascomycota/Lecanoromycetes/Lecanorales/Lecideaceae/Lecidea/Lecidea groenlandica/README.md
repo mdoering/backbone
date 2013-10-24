@@ -1,5 +1,4 @@
-Lecidea groenlandica Linds. SPECIES
-=======
+# Lecidea groenlandica Linds. SPECIES
 
 #### Status
 ACCEPTED

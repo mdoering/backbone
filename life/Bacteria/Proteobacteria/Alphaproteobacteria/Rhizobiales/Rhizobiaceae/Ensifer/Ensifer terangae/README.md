@@ -1,11 +1,10 @@
-Sinorhizobium terangae De Lajudie et al., 1994 SPECIES
-=======
+# Ensifer terangae (De Lajudie et al., 1994) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

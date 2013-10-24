@@ -1,5 +1,4 @@
-Pseudocercospora dolichi (Ellis & Everh.) J.M. Yen SPECIES
-=======
+# Pseudocercospora dolichi (Ellis & Everh.) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

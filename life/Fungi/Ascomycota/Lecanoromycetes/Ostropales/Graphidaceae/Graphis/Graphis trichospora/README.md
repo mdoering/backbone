@@ -1,5 +1,4 @@
-Graphis trichospora Vain. SPECIES
-=======
+# Graphis trichospora Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracyclus subclypeus J. Li & D. M. Williams SPECIES
-=======
+# Tetracyclus subclypeus J. Li & D. M. Williams SPECIES
 
 #### Status
 ACCEPTED

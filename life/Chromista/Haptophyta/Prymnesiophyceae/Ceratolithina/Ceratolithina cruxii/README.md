@@ -1,5 +1,4 @@
-Ceratolithina cruxii SPECIES
-=======
+# Ceratolithina cruxii SPECIES
 
 #### Status
 ACCEPTED

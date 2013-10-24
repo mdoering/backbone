@@ -1,5 +1,4 @@
-Arthopyrenia elegans R. Sant. SPECIES
-=======
+# Arthopyrenia elegans R. Sant. SPECIES
 
 #### Status
 ACCEPTED

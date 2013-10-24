@@ -1,5 +1,4 @@
-Diplodinula psoraleae (Ellis & Barthol.) Tassi SPECIES
-=======
+# Diplodinula psoraleae (Ellis & Barthol.) Tassi SPECIES
 
 #### Status
 ACCEPTED

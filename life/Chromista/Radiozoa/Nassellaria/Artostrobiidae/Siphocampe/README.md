@@ -1,5 +1,4 @@
-Siphocampe Haeckel, 1881 GENUS
-=======
+# Siphocampe Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

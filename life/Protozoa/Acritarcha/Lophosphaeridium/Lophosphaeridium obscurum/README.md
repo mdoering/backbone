@@ -1,5 +1,4 @@
-Lophosphaeridium obscurum Colbath, 1990 SPECIES
-=======
+# Lophosphaeridium obscurum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

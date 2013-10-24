@@ -1,5 +1,4 @@
-Oxytricha elegans Foissner, 1999 SPECIES
-=======
+# Oxytricha elegans Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

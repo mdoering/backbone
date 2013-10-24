@@ -1,5 +1,4 @@
-Sphaerita endogena P.A. Dang., 1886 SPECIES
-=======
+# Sphaerita endogena P.A. Dang., 1886 SPECIES
 
 #### Status
 ACCEPTED

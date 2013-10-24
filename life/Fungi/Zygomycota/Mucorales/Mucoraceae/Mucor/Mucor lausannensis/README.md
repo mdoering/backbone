@@ -1,5 +1,4 @@
-Mucor lausannensis Lendn., 1907 SPECIES
-=======
+# Mucor lausannensis Lendn., 1907 SPECIES
 
 #### Status
 ACCEPTED

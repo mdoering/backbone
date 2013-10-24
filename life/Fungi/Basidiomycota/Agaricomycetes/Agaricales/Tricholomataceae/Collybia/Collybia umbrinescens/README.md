@@ -1,5 +1,4 @@
-Collybia umbrinescens Murrill SPECIES
-=======
+# Collybia umbrinescens Murrill SPECIES
 
 #### Status
 ACCEPTED

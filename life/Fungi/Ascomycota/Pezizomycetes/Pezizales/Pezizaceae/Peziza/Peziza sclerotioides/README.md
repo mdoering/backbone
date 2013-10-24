@@ -1,5 +1,4 @@
-Peziza sclerotioides Berk. SPECIES
-=======
+# Peziza sclerotioides Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otthiella hazslinszkyi Sacc. & D. Sacc. SPECIES
-=======
+# Otthiella hazslinszkyi Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

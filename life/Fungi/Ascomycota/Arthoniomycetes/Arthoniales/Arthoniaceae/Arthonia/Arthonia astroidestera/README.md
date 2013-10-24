@@ -1,17 +1,16 @@
-Arthonia zwackhii var. macrospora P. James VARIETY
-=======
+# Arthonia astroidestera Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 10(2): 188 (1978)
+Flora, Jena 57: 13 (1874)
 
 #### Original name
-Arthonia zwackhii var. macrospora P. James
+Arthonia astroidestera Nyl.
 
 ### Remarks
 null

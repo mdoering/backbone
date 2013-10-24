@@ -1,14 +1,13 @@
-Phoma ramealis Desm., 1850 SPECIES
-=======
+# Phomopsis ramealis (Desm.) Died., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 9(1): 28 (1911)
 
 #### Original name
 Phoma ramealis Desm., 1850

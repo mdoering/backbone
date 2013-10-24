@@ -1,17 +1,16 @@
-Deconica chionophila (Lamoure) Noordel., 2009 SPECIES
-=======
+# Psilocybe chionophila Lamoure, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 46(7): 215 (1977)
 
 #### Original name
-null
+Psilocybe chionophila Lamoure, 1977
 
 ### Remarks
 null

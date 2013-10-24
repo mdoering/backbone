@@ -1,5 +1,4 @@
-Rhizaster crinoides Pascher SPECIES
-=======
+# Rhizaster crinoides Pascher SPECIES
 
 #### Status
 ACCEPTED

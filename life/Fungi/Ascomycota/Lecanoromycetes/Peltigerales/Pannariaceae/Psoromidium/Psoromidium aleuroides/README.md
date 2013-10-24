@@ -1,14 +1,13 @@
-Phyllopsora aleuroides (Stirt.) Müll. Arg. SPECIES
-=======
+# Psoromidium aleuroides (Stirt.) D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Z. Jl Bot. 21(2): 196 (1983)
 
 #### Original name
 Lecidea aleuroides Stirt.

@@ -1,5 +1,4 @@
-Aphanomyces keratinophilus (M. Ôkubo & Kobayasi) R.L. Seym. & T.W. Johnson SPECIES
-=======
+# Aphanomyces keratinophilus (M. Ôkubo & Kobayasi) R.L. Seym. & T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

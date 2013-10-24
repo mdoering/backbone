@@ -1,5 +1,4 @@
-Psilosphaeria conospora (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Psilosphaeria conospora (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria malloti C. Ramesh SPECIES
-=======
+# Didymosphaeria malloti C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

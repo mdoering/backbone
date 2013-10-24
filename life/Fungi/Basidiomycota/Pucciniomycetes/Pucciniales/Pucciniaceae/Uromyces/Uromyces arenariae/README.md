@@ -1,5 +1,4 @@
-Uromyces arenariae Tranzschel SPECIES
-=======
+# Uromyces arenariae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

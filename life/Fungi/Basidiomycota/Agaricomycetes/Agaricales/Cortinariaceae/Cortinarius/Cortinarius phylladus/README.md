@@ -1,5 +1,4 @@
-Cortinarius phylladus Rob. Henry SPECIES
-=======
+# Cortinarius phylladus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

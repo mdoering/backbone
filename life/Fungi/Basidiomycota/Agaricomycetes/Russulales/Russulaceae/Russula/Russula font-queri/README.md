@@ -1,17 +1,16 @@
-Russula font-queri var. font-queri VARIETY
-=======
+# Russula font-queri Singer, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Collnea bot. , Barcinone Bot. Instit. 1: 215 (1936)
+Collnea bot. , Barcinone Bot. Instit. 1(2): 215 (1936)
 
 #### Original name
-Russula font-queri var. font-queri
+Russula font-queri Singer, 1936
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calonectria collapsa Starbäck SPECIES
-=======
+# Calonectria collapsa Starbäck SPECIES
 
 #### Status
 ACCEPTED

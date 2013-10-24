@@ -1,5 +1,4 @@
-Furia zabri (Rozsypal ex Ben Ze'ev & R.G. Kenneth) Humber, 1989 SPECIES
-=======
+# Furia zabri (Rozsypal ex Ben Ze'ev & R.G. Kenneth) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

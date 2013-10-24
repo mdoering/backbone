@@ -1,5 +1,4 @@
-Comatricha afroalpina Rammeloo, 1983 SPECIES
-=======
+# Comatricha afroalpina Rammeloo, 1983 SPECIES
 
 #### Status
 ACCEPTED

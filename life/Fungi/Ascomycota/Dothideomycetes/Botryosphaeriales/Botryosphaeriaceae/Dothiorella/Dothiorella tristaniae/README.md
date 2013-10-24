@@ -1,5 +1,4 @@
-Dothiorella tristaniae (Tassi) Petr. & Syd. SPECIES
-=======
+# Dothiorella tristaniae (Tassi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

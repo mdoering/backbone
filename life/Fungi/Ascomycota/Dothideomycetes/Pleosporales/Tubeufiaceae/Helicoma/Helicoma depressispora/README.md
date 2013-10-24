@@ -1,5 +1,4 @@
-Helicoma depressispora Matsush. SPECIES
-=======
+# Helicoma depressispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

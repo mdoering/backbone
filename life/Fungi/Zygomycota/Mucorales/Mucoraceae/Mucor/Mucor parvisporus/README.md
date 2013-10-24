@@ -1,5 +1,4 @@
-Mucor parvisporus Kanouse SPECIES
-=======
+# Mucor parvisporus Kanouse SPECIES
 
 #### Status
 ACCEPTED

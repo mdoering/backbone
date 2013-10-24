@@ -1,5 +1,4 @@
-Verrucaria dermatocarpoides (Anzi) Stizenb. SPECIES
-=======
+# Verrucaria dermatocarpoides (Anzi) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

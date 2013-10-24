@@ -1,5 +1,4 @@
-Yalisphaeridium baculatum L. Gao SPECIES
-=======
+# Yalisphaeridium baculatum L. Gao SPECIES
 
 #### Status
 ACCEPTED

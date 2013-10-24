@@ -1,5 +1,4 @@
-Arthopyrenia picconii (De Not.) Aptroot SPECIES
-=======
+# Arthopyrenia picconii (De Not.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

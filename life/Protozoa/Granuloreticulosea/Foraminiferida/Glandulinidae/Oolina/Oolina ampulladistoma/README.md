@@ -1,8 +1,7 @@
-Lagena ampulladistoma (Rymer-Jones, 1874) SPECIES
-=======
+# Oolina ampulladistoma (Rymer-Jones, 1874) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

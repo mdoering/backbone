@@ -1,5 +1,4 @@
-Ophioceras chiangdaoense Thongk., Lumyong & K.D. Hyde SPECIES
-=======
+# Ophioceras chiangdaoense Thongk., Lumyong & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

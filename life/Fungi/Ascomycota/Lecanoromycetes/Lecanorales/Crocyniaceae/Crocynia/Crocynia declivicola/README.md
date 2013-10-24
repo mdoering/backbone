@@ -1,5 +1,4 @@
-Crocynia declivicola Hue SPECIES
-=======
+# Crocynia declivicola Hue SPECIES
 
 #### Status
 ACCEPTED

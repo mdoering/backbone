@@ -1,5 +1,4 @@
-Pharcidia psoromatis (Massee) Vouaux SPECIES
-=======
+# Pharcidia psoromatis (Massee) Vouaux SPECIES
 
 #### Status
 ACCEPTED

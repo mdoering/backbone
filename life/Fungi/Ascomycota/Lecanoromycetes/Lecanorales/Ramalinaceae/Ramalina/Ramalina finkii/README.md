@@ -1,5 +1,4 @@
-Ramalina finkii Zahlbr. SPECIES
-=======
+# Ramalina finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

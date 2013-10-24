@@ -1,5 +1,4 @@
-Arthopyrenia planorbiculata Müll. Arg. SPECIES
-=======
+# Arthopyrenia planorbiculata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

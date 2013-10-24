@@ -1,5 +1,4 @@
-Ochroglossum capitatum (F.L. Tai) S. Imai SPECIES
-=======
+# Ochroglossum capitatum (F.L. Tai) S. Imai SPECIES
 
 #### Status
 ACCEPTED

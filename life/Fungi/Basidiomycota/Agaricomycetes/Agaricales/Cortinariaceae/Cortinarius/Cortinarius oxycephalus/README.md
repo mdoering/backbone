@@ -1,5 +1,4 @@
-Cortinarius oxycephalus Rob. Henry SPECIES
-=======
+# Cortinarius oxycephalus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

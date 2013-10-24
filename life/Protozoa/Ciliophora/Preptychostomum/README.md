@@ -1,5 +1,4 @@
-Preptychostomum de Puytorac, 1968 GENUS
-=======
+# Preptychostomum de Puytorac, 1968 GENUS
 
 #### Status
 ACCEPTED

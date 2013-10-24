@@ -1,5 +1,4 @@
-Entoloma griseoavellaneum Largent SPECIES
-=======
+# Entoloma griseoavellaneum Largent SPECIES
 
 #### Status
 ACCEPTED

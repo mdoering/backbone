@@ -1,14 +1,13 @@
-Drosophila lutensis Romagn., 1952 SPECIES
-=======
+# Psathyrella lutensis (Romagn.) M.M. Moser, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 21: 155 (1952)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 2 2b: 241 (1955)
 
 #### Original name
 Drosophila lutensis Romagn., 1952

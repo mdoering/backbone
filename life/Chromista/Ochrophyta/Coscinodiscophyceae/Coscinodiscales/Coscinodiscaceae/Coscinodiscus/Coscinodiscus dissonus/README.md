@@ -1,5 +1,4 @@
-Coscinodiscus dissonus A. Schulz SPECIES
-=======
+# Coscinodiscus dissonus A. Schulz SPECIES
 
 #### Status
 ACCEPTED

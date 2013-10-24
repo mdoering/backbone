@@ -1,5 +1,4 @@
-Rhabdospora acicularis Alcalde SPECIES
-=======
+# Rhabdospora acicularis Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina laminariana Sutherland SPECIES
-=======
+# Diplodina laminariana Sutherland SPECIES
 
 #### Status
 ACCEPTED

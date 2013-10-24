@@ -1,8 +1,7 @@
-Penicillium kursanovii Chalab., 1950 SPECIES
-=======
+# Penicillium restrictum J.C. Gilman & E.V. Abbott, 1927 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

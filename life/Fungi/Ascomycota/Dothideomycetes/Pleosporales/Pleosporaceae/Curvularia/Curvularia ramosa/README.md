@@ -1,14 +1,13 @@
-Brachycladium ramosum Bainier, 1908 SPECIES
-=======
+# Curvularia ramosa (Bainier) Boedijn, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. Buitenz, 3 Sér. 13(1): 129 (1933)
 
 #### Original name
 Brachycladium ramosum Bainier, 1908

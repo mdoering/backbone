@@ -1,5 +1,4 @@
-Verrucaria hypophaeodes Zschacke SPECIES
-=======
+# Verrucaria hypophaeodes Zschacke SPECIES
 
 #### Status
 ACCEPTED

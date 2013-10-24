@@ -1,5 +1,4 @@
-Cheiroconium beaumontii (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Cheiroconium beaumontii (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

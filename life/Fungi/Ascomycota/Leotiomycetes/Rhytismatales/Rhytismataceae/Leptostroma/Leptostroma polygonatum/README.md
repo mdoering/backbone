@@ -1,5 +1,4 @@
-Leptostroma polygonatum var. polygonatum VARIETY
-=======
+# Leptostroma polygonatum Lasch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Deutschl. Fl. 1: 142 (1844)
+in Klotzsch, Deutschl. Fl. 1: 142 (1844)
 
 #### Original name
-Leptostroma polygonatum var. polygonatum
+Leptostroma polygonatum Lasch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydnum albomagnum Banker SPECIES
-=======
+# Hydnum albomagnum Banker SPECIES
 
 #### Status
 ACCEPTED

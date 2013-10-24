@@ -1,5 +1,4 @@
-Cantharellus concinnius Berk. SPECIES
-=======
+# Cantharellus concinnius Berk. SPECIES
 
 #### Status
 ACCEPTED

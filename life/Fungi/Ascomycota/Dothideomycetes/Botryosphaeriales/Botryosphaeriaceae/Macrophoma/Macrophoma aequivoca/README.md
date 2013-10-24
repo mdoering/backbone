@@ -1,5 +1,4 @@
-Macrophoma aequivoca (Ces.) Berl. & Voglino SPECIES
-=======
+# Macrophoma aequivoca (Ces.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

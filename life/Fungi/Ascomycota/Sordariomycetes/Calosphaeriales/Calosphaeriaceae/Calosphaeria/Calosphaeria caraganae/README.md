@@ -1,5 +1,4 @@
-Calosphaeria caraganae Danilova SPECIES
-=======
+# Calosphaeria caraganae Danilova SPECIES
 
 #### Status
 ACCEPTED

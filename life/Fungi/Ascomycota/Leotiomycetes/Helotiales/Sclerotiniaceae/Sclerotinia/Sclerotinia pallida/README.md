@@ -1,5 +1,4 @@
-Sclerotinia pallida Velen. SPECIES
-=======
+# Sclerotinia pallida Velen. SPECIES
 
 #### Status
 ACCEPTED

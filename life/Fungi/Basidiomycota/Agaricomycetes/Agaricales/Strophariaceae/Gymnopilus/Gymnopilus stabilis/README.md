@@ -1,14 +1,13 @@
-Agaricus stabilis Weinm., 1836 SPECIES
-=======
+# Gymnopilus stabilis (Weinm.) Kühner & Romagn., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hym. à Gast. Imp. Ross. Obs. (Petropoli) 210 (1836)
+Docums Mycol. 16(no. 61): 16 (1985)
 
 #### Original name
 Agaricus stabilis Weinm., 1836

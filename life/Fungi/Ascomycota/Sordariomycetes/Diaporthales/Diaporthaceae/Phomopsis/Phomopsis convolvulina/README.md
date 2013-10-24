@@ -1,5 +1,4 @@
-Phomopsis convolvulina Petr. SPECIES
-=======
+# Phomopsis convolvulina Petr. SPECIES
 
 #### Status
 ACCEPTED

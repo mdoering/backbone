@@ -1,5 +1,4 @@
-Puccinia suzutake Kakish. & S. Sato SPECIES
-=======
+# Puccinia suzutake Kakish. & S. Sato SPECIES
 
 #### Status
 ACCEPTED

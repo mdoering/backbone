@@ -1,17 +1,16 @@
-Phyllachora graminis fuscescens Speg., 1880 INFRASPECIFIC_NAME
-=======
+# Phyllachora fuscescens (Speg.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 604 (1883)
 
 #### Original name
-null
+Phyllachora graminis fuscescens Speg., 1880
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corethromyces scopaeicola Thaxt. SPECIES
-=======
+# Corethromyces scopaeicola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

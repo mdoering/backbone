@@ -1,5 +1,4 @@
-Trichothelium spinulosum (Spreng.) Höhn. SPECIES
-=======
+# Trichothelium spinulosum (Spreng.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orygmatosphaeridium plicatum P. K. Maithy & M. Shukla SPECIES
-=======
+# Orygmatosphaeridium plicatum P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

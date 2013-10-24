@@ -1,5 +1,4 @@
-Marasmius luteomarginatus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius luteomarginatus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella nivalis (Körb.) Lettau SPECIES
-=======
+# Candelariella nivalis (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

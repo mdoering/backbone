@@ -1,5 +1,4 @@
-Stylogemma Jankowski, 1981 GENUS
-=======
+# Stylogemma Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

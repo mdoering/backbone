@@ -1,5 +1,4 @@
-Thermoanaerobacter wiegelii Cook et al., 1996 SPECIES
-=======
+# Thermoanaerobacter wiegelii Cook et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

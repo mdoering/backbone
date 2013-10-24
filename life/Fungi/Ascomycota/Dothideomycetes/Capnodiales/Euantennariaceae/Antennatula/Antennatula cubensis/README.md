@@ -1,5 +1,4 @@
-Antennatula cubensis S. Hughes & G.R.W. Arnold SPECIES
-=======
+# Antennatula cubensis S. Hughes & G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

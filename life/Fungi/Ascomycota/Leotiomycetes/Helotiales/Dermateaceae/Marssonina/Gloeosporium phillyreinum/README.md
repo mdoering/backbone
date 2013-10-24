@@ -1,5 +1,4 @@
-Gloeosporium phillyreinum Grove SPECIES
-=======
+# Gloeosporium phillyreinum Grove SPECIES
 
 #### Status
 ACCEPTED

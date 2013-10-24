@@ -1,5 +1,4 @@
-Amphichaeta hispanica Alcalde SPECIES
-=======
+# Amphichaeta hispanica Alcalde SPECIES
 
 #### Status
 ACCEPTED

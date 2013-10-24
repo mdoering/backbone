@@ -1,5 +1,4 @@
-Chrysococcus Klebs, 1892 GENUS
-=======
+# Chrysococcus Klebs, 1892 GENUS
 
 #### Status
 ACCEPTED

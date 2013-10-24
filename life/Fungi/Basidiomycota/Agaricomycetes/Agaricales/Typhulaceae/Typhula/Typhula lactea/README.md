@@ -1,5 +1,4 @@
-Typhula lactea Tul. & C. Tul. SPECIES
-=======
+# Typhula lactea Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

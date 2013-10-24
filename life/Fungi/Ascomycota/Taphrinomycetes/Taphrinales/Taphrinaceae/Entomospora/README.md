@@ -1,5 +1,4 @@
-Entomospora GENUS
-=======
+# Entomospora GENUS
 
 #### Status
 ACCEPTED

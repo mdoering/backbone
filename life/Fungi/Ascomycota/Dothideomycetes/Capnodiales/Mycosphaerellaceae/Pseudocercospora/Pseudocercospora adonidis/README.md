@@ -1,5 +1,4 @@
-Pseudocercospora adonidis (Gonz. Frag.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora adonidis (Gonz. Frag.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

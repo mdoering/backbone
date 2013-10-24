@@ -1,5 +1,4 @@
-Rhizidiaceae J. Schröt. FAMILY
-=======
+# Rhizidiaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

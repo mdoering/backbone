@@ -1,14 +1,13 @@
-Mucor fungicola (Corda) Berl. & De Toni SPECIES
-=======
+# Mucor fungicolus (Corda) Berl. & De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 197 (1888)
 
 #### Original name
 Ascophora fungicola Corda

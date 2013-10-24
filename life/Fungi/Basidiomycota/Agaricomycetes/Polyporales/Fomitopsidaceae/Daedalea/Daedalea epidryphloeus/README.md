@@ -1,5 +1,4 @@
-Daedalea epidryphloeus E.H.L. Krause SPECIES
-=======
+# Daedalea epidryphloeus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

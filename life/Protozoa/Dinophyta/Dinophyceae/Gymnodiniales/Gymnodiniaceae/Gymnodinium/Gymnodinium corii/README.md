@@ -1,5 +1,4 @@
-Gymnodinium corii Schiller SPECIES
-=======
+# Gymnodinium corii Schiller SPECIES
 
 #### Status
 ACCEPTED

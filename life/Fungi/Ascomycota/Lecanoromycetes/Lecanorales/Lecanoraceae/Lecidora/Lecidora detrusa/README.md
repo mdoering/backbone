@@ -1,5 +1,4 @@
-Lecidora detrusa (Th. Fr.) Motyka SPECIES
-=======
+# Lecidora detrusa (Th. Fr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

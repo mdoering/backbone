@@ -1,14 +1,13 @@
-Ascobolus diversisporus Fuckel, 1870 SPECIES
-=======
+# Lasiobolus diversisporus (Fuckel) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+Syll. fung. (Abellini) 8: 538 (1889)
 
 #### Original name
 Ascobolus diversisporus Fuckel, 1870

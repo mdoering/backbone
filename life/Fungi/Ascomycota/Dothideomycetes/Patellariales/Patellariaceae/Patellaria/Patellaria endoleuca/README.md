@@ -1,5 +1,4 @@
-Patellaria endoleuca (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria endoleuca (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

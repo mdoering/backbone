@@ -1,5 +1,4 @@
-Ithyphallus balansae Pat. SPECIES
-=======
+# Ithyphallus balansae Pat. SPECIES
 
 #### Status
 ACCEPTED

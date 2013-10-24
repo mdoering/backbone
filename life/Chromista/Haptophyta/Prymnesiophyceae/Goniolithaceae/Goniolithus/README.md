@@ -1,5 +1,4 @@
-Goniolithus G. Deflandre, 1957 GENUS
-=======
+# Goniolithus G. Deflandre, 1957 GENUS
 
 #### Status
 ACCEPTED

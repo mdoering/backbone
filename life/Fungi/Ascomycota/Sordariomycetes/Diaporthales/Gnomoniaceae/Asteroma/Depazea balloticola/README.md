@@ -1,5 +1,4 @@
-Depazea balloticola Fr. SPECIES
-=======
+# Depazea balloticola Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debaryomyces artagaveytiae Bat., J.S. Silveira & Coêlho SPECIES
-=======
+# Debaryomyces artagaveytiae Bat., J.S. Silveira & Coêlho SPECIES
 
 #### Status
 ACCEPTED

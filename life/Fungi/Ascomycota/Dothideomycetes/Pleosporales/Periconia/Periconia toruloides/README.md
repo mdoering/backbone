@@ -1,5 +1,4 @@
-Periconia toruloides Fresen. SPECIES
-=======
+# Periconia toruloides Fresen. SPECIES
 
 #### Status
 ACCEPTED

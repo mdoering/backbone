@@ -1,14 +1,13 @@
-Rhopalocystis carbonaria (Bainier) Grove, 1911 SPECIES
-=======
+# Aspergillus carbonarius (Bainier) Thom, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Econ. Biol. 6: 41 (1911)
+in Thom & Currie, Journal of Agricultural Research 7: 12 (1916)
 
 #### Original name
 Sterigmatocystis carbonaria Bainier, 1880

@@ -1,17 +1,16 @@
-Phyllosticta phaseolorum Sacc. & Speg., 1878 SPECIES
-=======
+# Phyllosticta phaseolina Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 160 (1878)
+Michelia 1(no. 2): 149 (1878)
 
 #### Original name
-Phyllosticta phaseolorum Sacc. & Speg., 1878
+Phyllosticta phaseolina Sacc., 1878
 
 ### Remarks
 null

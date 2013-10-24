@@ -1,5 +1,4 @@
-Trichodinium intermedium Eisenack & Cookson, 1960 SPECIES
-=======
+# Trichodinium intermedium Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

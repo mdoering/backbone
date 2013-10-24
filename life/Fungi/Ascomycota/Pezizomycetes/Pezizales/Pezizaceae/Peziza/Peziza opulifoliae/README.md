@@ -1,5 +1,4 @@
-Peziza opulifoliae Schwein. SPECIES
-=======
+# Peziza opulifoliae Schwein. SPECIES
 
 #### Status
 ACCEPTED

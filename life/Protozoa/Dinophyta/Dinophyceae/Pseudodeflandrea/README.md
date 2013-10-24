@@ -1,5 +1,4 @@
-Pseudodeflandrea G. Alberti, 1959 GENUS
-=======
+# Pseudodeflandrea G. Alberti, 1959 GENUS
 
 #### Status
 ACCEPTED

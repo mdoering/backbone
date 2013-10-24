@@ -1,5 +1,4 @@
-Pseudomassaria jaczewskii Czerepan. SPECIES
-=======
+# Pseudomassaria jaczewskii Czerepan. SPECIES
 
 #### Status
 ACCEPTED

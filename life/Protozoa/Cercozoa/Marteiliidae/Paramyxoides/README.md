@@ -1,5 +1,4 @@
-Paramyxoides Larsson & Køie, 2005 GENUS
-=======
+# Paramyxoides Larsson & Køie, 2005 GENUS
 
 #### Status
 ACCEPTED

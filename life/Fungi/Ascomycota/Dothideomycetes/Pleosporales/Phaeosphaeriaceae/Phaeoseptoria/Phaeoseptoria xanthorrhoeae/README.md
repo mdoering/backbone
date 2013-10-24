@@ -1,5 +1,4 @@
-Phaeoseptoria xanthorrhoeae Sivan. & B. Sutton SPECIES
-=======
+# Phaeoseptoria xanthorrhoeae Sivan. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

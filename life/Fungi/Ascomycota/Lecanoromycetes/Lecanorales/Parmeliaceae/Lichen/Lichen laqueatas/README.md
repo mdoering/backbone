@@ -1,5 +1,4 @@
-Lichen laqueatas Wulf. SPECIES
-=======
+# Lichen laqueatas Wulf. SPECIES
 
 #### Status
 ACCEPTED

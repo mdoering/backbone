@@ -1,5 +1,4 @@
-Amanita yuaniana Zhu L. Yang SPECIES
-=======
+# Amanita yuaniana Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

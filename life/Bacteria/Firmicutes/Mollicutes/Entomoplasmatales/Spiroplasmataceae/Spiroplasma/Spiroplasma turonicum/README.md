@@ -1,5 +1,4 @@
-Spiroplasma turonicum Hélias et al., 1998 SPECIES
-=======
+# Spiroplasma turonicum Hélias et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

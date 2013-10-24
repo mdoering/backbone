@@ -1,5 +1,4 @@
-Sphaeria spathulata Pers. SPECIES
-=======
+# Sphaeria spathulata Pers. SPECIES
 
 #### Status
 ACCEPTED

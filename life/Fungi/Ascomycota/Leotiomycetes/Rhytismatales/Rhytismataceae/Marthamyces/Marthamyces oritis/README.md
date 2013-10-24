@@ -1,5 +1,4 @@
-Marthamyces oritis P.R. Johnst., 2006 SPECIES
-=======
+# Marthamyces oritis P.R. Johnst., 2006 SPECIES
 
 #### Status
 ACCEPTED

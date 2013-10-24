@@ -1,5 +1,4 @@
-Dyadosporites novus P. Kumar SPECIES
-=======
+# Dyadosporites novus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

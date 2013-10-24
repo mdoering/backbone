@@ -1,5 +1,4 @@
-Paleamorpha Sin & Liu, 1978 GENUS
-=======
+# Paleamorpha Sin & Liu, 1978 GENUS
 
 #### Status
 ACCEPTED

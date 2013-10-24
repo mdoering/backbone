@@ -1,5 +1,4 @@
-Taphrina rhizophora Johanson, 1886 SPECIES
-=======
+# Taphrina rhizophora Johanson, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum viride Link SPECIES
-=======
+# Sporotrichum viride Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus setipes Fr. SPECIES
-=======
+# Agaricus setipes Fr. SPECIES
 
 #### Status
 ACCEPTED

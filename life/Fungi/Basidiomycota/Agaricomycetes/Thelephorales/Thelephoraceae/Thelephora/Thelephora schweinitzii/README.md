@@ -1,5 +1,4 @@
-Thelephora schweinitzii Peck SPECIES
-=======
+# Thelephora schweinitzii Peck SPECIES
 
 #### Status
 ACCEPTED

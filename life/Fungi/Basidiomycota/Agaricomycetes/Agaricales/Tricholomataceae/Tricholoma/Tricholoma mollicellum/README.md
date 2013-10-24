@@ -1,5 +1,4 @@
-Tricholoma mollicellum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma mollicellum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

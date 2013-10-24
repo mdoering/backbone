@@ -1,5 +1,4 @@
-Dimerosporium sacchari Henn. SPECIES
-=======
+# Dimerosporium sacchari Henn. SPECIES
 
 #### Status
 ACCEPTED

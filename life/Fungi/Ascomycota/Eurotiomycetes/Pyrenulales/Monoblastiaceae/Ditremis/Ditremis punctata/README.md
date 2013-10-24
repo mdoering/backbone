@@ -1,5 +1,4 @@
-Ditremis punctata Makhija & Patw. SPECIES
-=======
+# Ditremis punctata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

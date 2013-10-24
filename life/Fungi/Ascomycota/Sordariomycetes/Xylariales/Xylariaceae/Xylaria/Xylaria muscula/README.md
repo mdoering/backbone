@@ -1,5 +1,4 @@
-Xylaria muscula Lloyd SPECIES
-=======
+# Xylaria muscula Lloyd SPECIES
 
 #### Status
 ACCEPTED

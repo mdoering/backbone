@@ -1,17 +1,16 @@
-Agaricus caerulea Pers. SPECIES
-=======
+# Russula caerulea (Pers.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 353 (1838)
 
 #### Original name
-Agaricus caerulea Pers.
+Agaricus caeruleus Pers., 1801
 
 ### Remarks
 null

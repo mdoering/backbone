@@ -1,5 +1,4 @@
-Pyrenula bonariensis Malme SPECIES
-=======
+# Pyrenula bonariensis Malme SPECIES
 
 #### Status
 ACCEPTED

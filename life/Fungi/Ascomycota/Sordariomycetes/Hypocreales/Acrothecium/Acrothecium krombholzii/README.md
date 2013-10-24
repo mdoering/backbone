@@ -1,5 +1,4 @@
-Acrothecium krombholzii Sacc. SPECIES
-=======
+# Acrothecium krombholzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopsora subcrustacea (Malme) Brako SPECIES
-=======
+# Phyllopsora subcrustacea (Malme) Brako SPECIES
 
 #### Status
 ACCEPTED

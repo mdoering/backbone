@@ -1,14 +1,13 @@
-Mycena tortuosa P.D. Orton, 1960 SPECIES
-=======
+# Hemimycena tortuosa (P.D. Orton) Redhead, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 307 (1960)
+Fungi Canadenses (Ottawa), no. 177 177: [1] (1980)
 
 #### Original name
 Mycena tortuosa P.D. Orton, 1960

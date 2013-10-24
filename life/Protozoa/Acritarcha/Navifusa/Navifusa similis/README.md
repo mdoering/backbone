@@ -1,5 +1,4 @@
-Navifusa similis SPECIES
-=======
+# Navifusa similis SPECIES
 
 #### Status
 ACCEPTED

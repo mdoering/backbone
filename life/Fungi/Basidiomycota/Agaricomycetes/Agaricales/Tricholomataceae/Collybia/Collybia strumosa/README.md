@@ -1,14 +1,13 @@
-Collybia strumosus (Fr.) Quél. SPECIES
-=======
+# Collybia strumosa (Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 94 (1872)
 
 #### Original name
 Agaricus strumosus Fr.

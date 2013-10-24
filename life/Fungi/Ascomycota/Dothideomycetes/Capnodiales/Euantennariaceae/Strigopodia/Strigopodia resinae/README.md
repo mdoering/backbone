@@ -1,17 +1,16 @@
-Helminthosporium resinae Bres., 1897 SPECIES
-=======
+# Strigopodia resinae (Sacc. & Bres.) S. Hughes, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bresadola & Saccardo, Malpighia 11: 322 (1897)
+Can. J. Bot. 46: 1100 (1968)
 
 #### Original name
-Helminthosporium resinae Bres., 1897
+Capnodium resinae Sacc. & Bres., 1897
 
 ### Remarks
 null

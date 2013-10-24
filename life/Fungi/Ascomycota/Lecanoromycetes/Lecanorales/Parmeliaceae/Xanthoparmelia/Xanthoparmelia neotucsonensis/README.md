@@ -1,5 +1,4 @@
-Xanthoparmelia neotucsonensis Elix SPECIES
-=======
+# Xanthoparmelia neotucsonensis Elix SPECIES
 
 #### Status
 ACCEPTED

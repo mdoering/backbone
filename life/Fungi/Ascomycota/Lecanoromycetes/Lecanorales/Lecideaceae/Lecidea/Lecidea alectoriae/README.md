@@ -1,5 +1,4 @@
-Lecidea alectoriae Linds. SPECIES
-=======
+# Lecidea alectoriae Linds. SPECIES
 
 #### Status
 ACCEPTED

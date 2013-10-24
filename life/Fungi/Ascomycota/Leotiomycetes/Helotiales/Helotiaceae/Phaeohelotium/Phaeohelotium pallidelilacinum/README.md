@@ -1,5 +1,4 @@
-Phaeohelotium pallidelilacinum Svrcek SPECIES
-=======
+# Phaeohelotium pallidelilacinum Svrcek SPECIES
 
 #### Status
 ACCEPTED

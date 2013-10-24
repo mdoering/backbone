@@ -1,5 +1,4 @@
-Asterella rubi var. rubi VARIETY
-=======
+# Asterella rubi (Fuckel) Höhn. SPECIES
 
 #### Status
 ACCEPTED

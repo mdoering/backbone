@@ -1,5 +1,4 @@
-Nephromium resupinatum var. resupinatum VARIETY
-=======
+# Nephromium resupinatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephromium resupinatum var. resupinatum
+null
 
 ### Remarks
 null

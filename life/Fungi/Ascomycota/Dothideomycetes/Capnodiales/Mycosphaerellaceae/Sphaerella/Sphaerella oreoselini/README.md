@@ -1,5 +1,4 @@
-Sphaerella oreoselini Auersw. SPECIES
-=======
+# Sphaerella oreoselini Auersw. SPECIES
 
 #### Status
 ACCEPTED

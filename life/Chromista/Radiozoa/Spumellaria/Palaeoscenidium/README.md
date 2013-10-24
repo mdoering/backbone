@@ -1,5 +1,4 @@
-Palaeoscenidium GENUS
-=======
+# Palaeoscenidium GENUS
 
 #### Status
 ACCEPTED

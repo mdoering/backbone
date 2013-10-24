@@ -1,5 +1,4 @@
-Phoma graminicola anon. SPECIES
-=======
+# Phoma graminicola anon. SPECIES
 
 #### Status
 ACCEPTED

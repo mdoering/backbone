@@ -1,5 +1,4 @@
-Litschauerella Oberwinkler, 1966 GENUS
-=======
+# Litschauerella Oberwinkler, 1966 GENUS
 
 #### Status
 ACCEPTED

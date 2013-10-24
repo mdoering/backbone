@@ -1,5 +1,4 @@
-Dactylella clavispora J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
-=======
+# Dactylella clavispora J. Chen, L.L. Xu, B. Liu & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

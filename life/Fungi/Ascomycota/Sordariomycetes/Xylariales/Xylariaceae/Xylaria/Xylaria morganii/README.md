@@ -1,5 +1,4 @@
-Xylaria morganii Lloyd SPECIES
-=======
+# Xylaria morganii Lloyd SPECIES
 
 #### Status
 ACCEPTED

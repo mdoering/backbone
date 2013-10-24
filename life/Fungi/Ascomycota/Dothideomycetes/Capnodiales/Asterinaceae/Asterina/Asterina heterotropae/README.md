@@ -1,5 +1,4 @@
-Asterina heterotropae Nakam. {?} SPECIES
-=======
+# Asterina heterotropae Nakam. {?} SPECIES
 
 #### Status
 ACCEPTED

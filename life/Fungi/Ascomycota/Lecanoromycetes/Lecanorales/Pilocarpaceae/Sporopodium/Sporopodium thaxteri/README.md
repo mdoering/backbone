@@ -1,5 +1,4 @@
-Sporopodium thaxteri Vain. SPECIES
-=======
+# Sporopodium thaxteri Vain. SPECIES
 
 #### Status
 ACCEPTED

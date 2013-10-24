@@ -1,5 +1,4 @@
-Hysterangium australe Speg. SPECIES
-=======
+# Hysterangium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

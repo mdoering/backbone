@@ -1,5 +1,4 @@
-Polyblastia efflorescens Coppins SPECIES
-=======
+# Polyblastia efflorescens Coppins SPECIES
 
 #### Status
 ACCEPTED

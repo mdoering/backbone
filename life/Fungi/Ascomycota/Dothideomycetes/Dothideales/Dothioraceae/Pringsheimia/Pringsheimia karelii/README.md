@@ -1,5 +1,4 @@
-Pringsheimia karelii Petr., 1957 SPECIES
-=======
+# Pringsheimia karelii Petr., 1957 SPECIES
 
 #### Status
 ACCEPTED

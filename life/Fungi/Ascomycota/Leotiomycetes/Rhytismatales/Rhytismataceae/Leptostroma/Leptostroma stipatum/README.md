@@ -1,5 +1,4 @@
-Leptostroma stipatum Fr. SPECIES
-=======
+# Leptostroma stipatum Fr. SPECIES
 
 #### Status
 ACCEPTED

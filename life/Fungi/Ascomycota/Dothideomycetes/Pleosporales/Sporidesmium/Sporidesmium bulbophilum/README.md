@@ -1,5 +1,4 @@
-Sporidesmium bulbophilum Westend. SPECIES
-=======
+# Sporidesmium bulbophilum Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cryptopharynx setigerum Dragesco, 1960 SPECIES
-=======
+# Cryptopharynx setigerus Kahl, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

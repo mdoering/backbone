@@ -1,17 +1,16 @@
-Cercospora nogalesi Urries SPECIES
-=======
+# Pseudocercospora nogalesii (Urries) U. Braun & M.A. Dick, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Braun, Hill & Dick, Australas. Pl. Path. 32(1): 91 (2003)
 
 #### Original name
-Cercospora nogalesi Urries
+Cercospora nogalesii Urries, 1956
 
 ### Remarks
 null

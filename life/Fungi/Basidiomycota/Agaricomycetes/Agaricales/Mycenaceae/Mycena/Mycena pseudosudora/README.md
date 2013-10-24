@@ -1,5 +1,4 @@
-Mycena pseudosudora Raithelh. SPECIES
-=======
+# Mycena pseudosudora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

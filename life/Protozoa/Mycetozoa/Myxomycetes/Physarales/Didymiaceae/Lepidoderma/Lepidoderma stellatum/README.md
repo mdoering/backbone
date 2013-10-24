@@ -1,5 +1,4 @@
-Lepidoderma stellatum Massee SPECIES
-=======
+# Lepidoderma stellatum Massee SPECIES
 
 #### Status
 ACCEPTED

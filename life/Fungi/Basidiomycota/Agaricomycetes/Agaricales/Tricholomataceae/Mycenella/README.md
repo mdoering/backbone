@@ -1,5 +1,4 @@
-Mycenella (J.E. Lange) Singer, 1938 GENUS
-=======
+# Mycenella (J.E. Lange) Singer, 1938 GENUS
 
 #### Status
 ACCEPTED

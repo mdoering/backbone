@@ -1,5 +1,4 @@
-Ophiostoma schrenkianum (Hedgc.) Syd. SPECIES
-=======
+# Ophiostoma schrenkianum (Hedgc.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithomyxa Howe, 1932 GENUS
-=======
+# Lithomyxa Howe, 1932 GENUS
 
 #### Status
 ACCEPTED

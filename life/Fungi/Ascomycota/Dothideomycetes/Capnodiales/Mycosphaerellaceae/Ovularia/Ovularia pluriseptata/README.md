@@ -1,5 +1,4 @@
-Ovularia pluriseptata Scaram. SPECIES
-=======
+# Ovularia pluriseptata Scaram. SPECIES
 
 #### Status
 ACCEPTED

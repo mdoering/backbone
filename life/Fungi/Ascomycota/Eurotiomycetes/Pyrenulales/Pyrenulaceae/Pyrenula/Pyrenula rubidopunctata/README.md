@@ -1,5 +1,4 @@
-Pyrenula rubidopunctata Szatala SPECIES
-=======
+# Pyrenula rubidopunctata Szatala SPECIES
 
 #### Status
 ACCEPTED

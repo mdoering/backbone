@@ -1,17 +1,16 @@
-Tubeufia corynespora Munk, 1966 SPECIES
-=======
+# Thaxteriella corynespora (Munk) J.L. Crane, Shearer & M.E. Barr, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 76(4): 610 (1998)
 
 #### Original name
-null
+Tubeufia corynespora Munk, 1966
 
 ### Remarks
 null

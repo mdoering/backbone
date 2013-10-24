@@ -1,5 +1,4 @@
-Didymium chrysosporum T.N. Lakh. & K.G. Mukerji, 1979 SPECIES
-=======
+# Didymium chrysosporum T.N. Lakh. & K.G. Mukerji, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella exanthemoides (Mont.) Sacc. SPECIES
-=======
+# Eutypella exanthemoides (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

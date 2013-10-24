@@ -1,5 +1,4 @@
-Agaricus earochrous Berk. & Broome SPECIES
-=======
+# Agaricus earochrous Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

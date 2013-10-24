@@ -1,5 +1,4 @@
-Psorotichia cleistocarpa Müll. Arg. SPECIES
-=======
+# Psorotichia cleistocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

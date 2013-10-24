@@ -1,5 +1,4 @@
-Sphenolithus elongatus E. Martini SPECIES
-=======
+# Sphenolithus elongatus E. Martini SPECIES
 
 #### Status
 ACCEPTED

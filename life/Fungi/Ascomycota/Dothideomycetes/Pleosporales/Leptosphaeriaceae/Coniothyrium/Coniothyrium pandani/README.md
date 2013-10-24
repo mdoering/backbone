@@ -1,5 +1,4 @@
-Coniothyrium pandani B. Huguenin SPECIES
-=======
+# Coniothyrium pandani B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

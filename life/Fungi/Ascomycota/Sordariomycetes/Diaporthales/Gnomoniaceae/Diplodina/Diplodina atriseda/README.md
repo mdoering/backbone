@@ -1,5 +1,4 @@
-Diplodina atriseda Kabát & Bubák SPECIES
-=======
+# Diplodina atriseda Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisina flava Arendh., 1979 SPECIES
-=======
+# Mollisina flava Arendh., 1979 SPECIES
 
 #### Status
 ACCEPTED

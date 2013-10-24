@@ -1,5 +1,4 @@
-Lecanora coccinella Stizenb. SPECIES
-=======
+# Lecanora coccinella Stizenb. SPECIES
 
 #### Status
 ACCEPTED

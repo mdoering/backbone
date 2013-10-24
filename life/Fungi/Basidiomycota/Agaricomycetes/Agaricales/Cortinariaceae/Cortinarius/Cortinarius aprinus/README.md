@@ -1,5 +1,4 @@
-Cortinarius aprinus Melot, 1989 SPECIES
-=======
+# Cortinarius aprinus Melot, 1989 SPECIES
 
 #### Status
 ACCEPTED

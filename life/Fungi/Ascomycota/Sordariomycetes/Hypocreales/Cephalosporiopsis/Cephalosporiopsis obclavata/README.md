@@ -1,5 +1,4 @@
-Cephalosporiopsis obclavata (Matsush.) C. Booth SPECIES
-=======
+# Cephalosporiopsis obclavata (Matsush.) C. Booth SPECIES
 
 #### Status
 ACCEPTED

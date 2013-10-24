@@ -1,5 +1,4 @@
-Trichophyma bunchosiae Rehm SPECIES
-=======
+# Trichophyma bunchosiae Rehm SPECIES
 
 #### Status
 ACCEPTED

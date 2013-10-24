@@ -1,5 +1,4 @@
-Cercospora firmianae Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora firmianae Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

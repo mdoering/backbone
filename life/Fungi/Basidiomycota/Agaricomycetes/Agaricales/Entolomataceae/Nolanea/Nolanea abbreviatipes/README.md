@@ -1,5 +1,4 @@
-Nolanea abbreviatipes Largent SPECIES
-=======
+# Nolanea abbreviatipes Largent SPECIES
 
 #### Status
 ACCEPTED

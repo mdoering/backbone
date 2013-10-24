@@ -1,5 +1,4 @@
-Endophlaea Cooke GENUS
-=======
+# Endophlaea Cooke GENUS
 
 #### Status
 ACCEPTED

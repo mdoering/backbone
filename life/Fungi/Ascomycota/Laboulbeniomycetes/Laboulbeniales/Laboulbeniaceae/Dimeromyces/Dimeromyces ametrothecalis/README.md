@@ -1,5 +1,4 @@
-Dimeromyces ametrothecalis Thaxt. SPECIES
-=======
+# Dimeromyces ametrothecalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

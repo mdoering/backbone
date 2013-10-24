@@ -1,5 +1,4 @@
-Polyclypeolum maiae Bat. SPECIES
-=======
+# Polyclypeolum maiae Bat. SPECIES
 
 #### Status
 ACCEPTED

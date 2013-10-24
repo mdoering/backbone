@@ -1,5 +1,4 @@
-Venenarius praelongisporus Murrill SPECIES
-=======
+# Venenarius praelongisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

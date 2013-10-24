@@ -1,17 +1,16 @@
-Bombyliosporomyces Cif. & Tomas. GENUS
-=======
+# Megalospora Meyen, 1843 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 37, 63 (1953)
+in Meyen & Flotow, Nova Acta Acad. Caes. Leop. -Carol. Nat. Cur. Dresden 19(Suppl. 1): 228 (1843)
 
 #### Original name
-Bombyliosporomyces Cif. & Tomas.
+Megalospora Meyen, 1843
 
 ### Remarks
 null

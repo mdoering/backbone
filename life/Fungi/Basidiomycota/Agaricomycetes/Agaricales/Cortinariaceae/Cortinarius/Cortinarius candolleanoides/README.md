@@ -1,5 +1,4 @@
-Cortinarius candolleanoides Rob. Henry SPECIES
-=======
+# Cortinarius candolleanoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

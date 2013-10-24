@@ -1,5 +1,4 @@
-Aecidium schimperi Bacc. SPECIES
-=======
+# Aecidium schimperi Bacc. SPECIES
 
 #### Status
 ACCEPTED

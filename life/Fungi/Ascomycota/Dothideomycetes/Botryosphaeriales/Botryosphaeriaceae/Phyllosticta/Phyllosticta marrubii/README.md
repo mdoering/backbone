@@ -1,5 +1,4 @@
-Phyllosticta marrubii McAlpine SPECIES
-=======
+# Phyllosticta marrubii McAlpine SPECIES
 
 #### Status
 ACCEPTED

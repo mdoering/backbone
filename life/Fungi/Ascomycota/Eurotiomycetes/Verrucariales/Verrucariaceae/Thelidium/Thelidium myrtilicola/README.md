@@ -1,5 +1,4 @@
-Thelidium myrtilicola Erichsen SPECIES
-=======
+# Thelidium myrtilicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

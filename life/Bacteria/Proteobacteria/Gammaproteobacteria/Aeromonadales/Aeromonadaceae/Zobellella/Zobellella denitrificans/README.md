@@ -1,5 +1,4 @@
-Zobellella denitrificans Lin & Shieh, 2006 SPECIES
-=======
+# Zobellella denitrificans Lin & Shieh, 2006 SPECIES
 
 #### Status
 ACCEPTED

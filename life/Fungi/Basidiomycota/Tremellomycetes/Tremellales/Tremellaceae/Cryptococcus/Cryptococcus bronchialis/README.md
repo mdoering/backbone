@@ -1,5 +1,4 @@
-Cryptococcus bronchialis (Cif. & Redaelli) Nann. SPECIES
-=======
+# Cryptococcus bronchialis (Cif. & Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED

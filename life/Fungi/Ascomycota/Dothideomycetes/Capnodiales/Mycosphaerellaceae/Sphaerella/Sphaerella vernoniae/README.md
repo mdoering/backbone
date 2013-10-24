@@ -1,5 +1,4 @@
-Sphaerella vernoniae Petch SPECIES
-=======
+# Sphaerella vernoniae Petch SPECIES
 
 #### Status
 ACCEPTED

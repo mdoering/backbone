@@ -1,5 +1,4 @@
-Peziza lyonsiae Cobb SPECIES
-=======
+# Peziza lyonsiae Cobb SPECIES
 
 #### Status
 ACCEPTED

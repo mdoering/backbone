@@ -1,5 +1,4 @@
-Rhizosolenia costata R. Gersonde SPECIES
-=======
+# Rhizosolenia costata R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

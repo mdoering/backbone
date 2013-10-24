@@ -1,5 +1,4 @@
-Anthostomella caulicola (Ces.) Sacc. SPECIES
-=======
+# Anthostomella caulicola (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

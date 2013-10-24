@@ -1,5 +1,4 @@
-Dichaena caespitosa Schwein. SPECIES
-=======
+# Dichaena caespitosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

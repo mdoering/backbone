@@ -1,5 +1,4 @@
-Anthracothecium olivaceocinereum Vain. SPECIES
-=======
+# Anthracothecium olivaceocinereum Vain. SPECIES
 
 #### Status
 ACCEPTED

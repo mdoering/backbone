@@ -1,5 +1,4 @@
-Tuber affine Corda SPECIES
-=======
+# Tuber affine Corda SPECIES
 
 #### Status
 ACCEPTED

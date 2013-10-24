@@ -1,5 +1,4 @@
-Sphaerella mobilis (Tode) Ces. & De Not. SPECIES
-=======
+# Sphaerella mobilis (Tode) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

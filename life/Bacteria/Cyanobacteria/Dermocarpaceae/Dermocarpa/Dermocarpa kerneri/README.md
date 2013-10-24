@@ -1,5 +1,4 @@
-Dermocarpa kerneri var. tropica J.A. Rino VARIETY
-=======
+# Dermocarpa kerneri (Hansgirg) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

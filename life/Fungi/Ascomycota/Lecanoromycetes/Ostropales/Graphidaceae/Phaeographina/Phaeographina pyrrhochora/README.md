@@ -1,5 +1,4 @@
-Phaeographina pyrrhochora (Mont. & Bosch. in Jungh.) Zahlbruckner SPECIES
-=======
+# Phaeographina pyrrhochora (Mont. & Bosch. in Jungh.) Zahlbruckner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria sepincola var. sepincola VARIETY
-=======
+# Metasphaeria sepincola (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 164 (1883)
 
 #### Original name
-Sphaeria sepincola var. sepincola
+Sphaeria sepincola Berk. & Broome, 1852
 
 ### Remarks
 null

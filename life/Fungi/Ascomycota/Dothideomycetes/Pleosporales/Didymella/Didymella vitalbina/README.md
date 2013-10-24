@@ -1,5 +1,4 @@
-Didymella vitalbina Petr., 1940 SPECIES
-=======
+# Didymella vitalbina Petr., 1940 SPECIES
 
 #### Status
 ACCEPTED

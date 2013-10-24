@@ -1,5 +1,4 @@
-Inocybe rufa (Pat.) Sartory & J. Meier SPECIES
-=======
+# Inocybe rufa (Pat.) Sartory & J. Meier SPECIES
 
 #### Status
 ACCEPTED

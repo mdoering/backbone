@@ -1,5 +1,4 @@
-Irenopsis armata (Speg.) Stevens SPECIES
-=======
+# Irenopsis armata (Speg.) Stevens SPECIES
 
 #### Status
 ACCEPTED

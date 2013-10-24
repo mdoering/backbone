@@ -1,5 +1,4 @@
-Agaricus tectorum With. SPECIES
-=======
+# Agaricus tectorum With. SPECIES
 
 #### Status
 ACCEPTED

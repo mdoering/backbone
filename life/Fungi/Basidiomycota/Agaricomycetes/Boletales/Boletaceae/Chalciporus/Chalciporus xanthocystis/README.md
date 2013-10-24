@@ -1,5 +1,4 @@
-Chalciporus xanthocystis G. Moreno SPECIES
-=======
+# Chalciporus xanthocystis G. Moreno SPECIES
 
 #### Status
 ACCEPTED

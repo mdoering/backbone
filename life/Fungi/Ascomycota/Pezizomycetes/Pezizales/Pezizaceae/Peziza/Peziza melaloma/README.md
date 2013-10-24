@@ -1,5 +1,4 @@
-Peziza melaloma Fr. SPECIES
-=======
+# Peziza melaloma Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingobium japonicum Pal et al., 2005 SPECIES
-=======
+# Sphingobium japonicum Pal et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

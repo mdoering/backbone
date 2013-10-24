@@ -1,8 +1,7 @@
-Lophiostoma mollerianum G. Winter SPECIES
-=======
+# Lophiostoma moellerianum G. Winter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiostoma mollerianum G. Winter
+Lophiostoma moellerianum G. Winter
 
 ### Remarks
 null

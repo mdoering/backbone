@@ -1,5 +1,4 @@
-Pseudomonas chloritidismutans Wolterink et al., 2002 SPECIES
-=======
+# Pseudomonas chloritidismutans Wolterink et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

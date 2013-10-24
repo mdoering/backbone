@@ -1,5 +1,4 @@
-Pertusaria globulata Oxner & Volkova SPECIES
-=======
+# Pertusaria globulata Oxner & Volkova SPECIES
 
 #### Status
 ACCEPTED

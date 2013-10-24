@@ -1,5 +1,4 @@
-Asterostomella hamatula Cif. SPECIES
-=======
+# Asterostomella hamatula Cif. SPECIES
 
 #### Status
 ACCEPTED

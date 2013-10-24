@@ -1,5 +1,4 @@
-Sporisorium leelingianum Vánky SPECIES
-=======
+# Sporisorium leelingianum Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma pistaciae Jaap SPECIES
-=======
+# Macrophoma pistaciae Jaap SPECIES
 
 #### Status
 ACCEPTED

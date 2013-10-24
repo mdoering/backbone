@@ -1,5 +1,4 @@
-Paleobasidiospora Locq. GENUS
-=======
+# Paleobasidiospora Locq. GENUS
 
 #### Status
 ACCEPTED

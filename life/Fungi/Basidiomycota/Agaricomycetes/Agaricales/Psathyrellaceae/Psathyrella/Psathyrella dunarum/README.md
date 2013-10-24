@@ -1,5 +1,4 @@
-Psathyrella dunarum Kits van Wav. SPECIES
-=======
+# Psathyrella dunarum Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

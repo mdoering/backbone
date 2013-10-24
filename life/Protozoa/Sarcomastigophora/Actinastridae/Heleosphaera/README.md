@@ -1,5 +1,4 @@
-Heleosphaera GENUS
-=======
+# Heleosphaera GENUS
 
 #### Status
 ACCEPTED

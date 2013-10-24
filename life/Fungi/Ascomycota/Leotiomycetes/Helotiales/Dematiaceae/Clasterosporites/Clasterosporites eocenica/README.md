@@ -1,5 +1,4 @@
-Clasterosporites eocenica Traverso SPECIES
-=======
+# Clasterosporites eocenica Traverso SPECIES
 
 #### Status
 ACCEPTED

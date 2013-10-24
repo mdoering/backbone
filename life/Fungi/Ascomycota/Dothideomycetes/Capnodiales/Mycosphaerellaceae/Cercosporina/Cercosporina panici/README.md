@@ -1,5 +1,4 @@
-Cercosporina panici (Davis) Sacc. SPECIES
-=======
+# Cercosporina panici (Davis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena obtusiceps Speg. SPECIES
-=======
+# Mycena obtusiceps Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Olpidiopsis paradoxa (H.E. Petersen) T.W. Johnson, 1966 SPECIES
-=======
+# Sirolpidium paradoxum (H.E. Petersen) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 360 (2001)
 
 #### Original name
 Pleotrachelus paradoxus H.E. Petersen, 1905

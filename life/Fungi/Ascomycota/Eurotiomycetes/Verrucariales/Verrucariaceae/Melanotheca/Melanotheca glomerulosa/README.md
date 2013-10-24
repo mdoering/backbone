@@ -1,5 +1,4 @@
-Melanotheca glomerulosa Arnold SPECIES
-=======
+# Melanotheca glomerulosa Arnold SPECIES
 
 #### Status
 ACCEPTED

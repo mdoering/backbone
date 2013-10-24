@@ -1,5 +1,4 @@
-Atractium flammeolum Höhn. SPECIES
-=======
+# Atractium flammeolum Höhn. SPECIES
 
 #### Status
 ACCEPTED

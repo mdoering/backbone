@@ -1,5 +1,4 @@
-Cercospora triumfetticola Munjal, Lall & Chona, 1960 SPECIES
-=======
+# Cercospora triumfetticola Munjal, Lall & Chona, 1960 SPECIES
 
 #### Status
 ACCEPTED

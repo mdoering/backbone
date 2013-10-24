@@ -1,5 +1,4 @@
-Clavaria nebulosoides Kauffman SPECIES
-=======
+# Clavaria nebulosoides Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylogone Arx & T. Nilsson GENUS
-=======
+# Xylogone Arx & T. Nilsson GENUS
 
 #### Status
 ACCEPTED

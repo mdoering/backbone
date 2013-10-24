@@ -1,5 +1,4 @@
-Teratosphaeria eucalypti (Cooke & Massee) Crous, 2009 SPECIES
-=======
+# Teratosphaeria eucalypti (Cooke & Massee) Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

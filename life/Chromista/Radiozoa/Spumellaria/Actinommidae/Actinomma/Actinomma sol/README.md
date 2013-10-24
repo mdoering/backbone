@@ -1,5 +1,4 @@
-Actinomma sol Cleve, 1900 SPECIES
-=======
+# Actinomma sol Cleve, 1900 SPECIES
 
 #### Status
 ACCEPTED

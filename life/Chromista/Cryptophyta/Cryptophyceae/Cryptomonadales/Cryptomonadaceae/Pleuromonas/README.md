@@ -1,5 +1,4 @@
-Pleuromonas M. Perty, 1848 GENUS
-=======
+# Pleuromonas M. Perty, 1848 GENUS
 
 #### Status
 ACCEPTED

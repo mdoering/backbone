@@ -1,14 +1,13 @@
-Martellia redolens (G. Cunn.) G.W. Beaton, Pegler & T.W.K. Young, 1984 SPECIES
-=======
+# Stephanospora redolens (G. Cunn.) E. Horak, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 39(4): 682 (1984)
+Pl. Syst. Evol. 131: 163 (1979)
 
 #### Original name
 Octaviania redolens G. Cunn., 1942

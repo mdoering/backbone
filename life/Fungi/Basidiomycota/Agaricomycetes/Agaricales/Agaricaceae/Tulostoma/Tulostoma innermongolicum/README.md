@@ -1,5 +1,4 @@
-Tulostoma innermongolicum B. Liu SPECIES
-=======
+# Tulostoma innermongolicum B. Liu SPECIES
 
 #### Status
 ACCEPTED

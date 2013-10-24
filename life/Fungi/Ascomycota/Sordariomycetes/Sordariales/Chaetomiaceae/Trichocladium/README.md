@@ -1,5 +1,4 @@
-Trichocladium Harz GENUS
-=======
+# Trichocladium Harz GENUS
 
 #### Status
 ACCEPTED

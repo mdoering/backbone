@@ -1,5 +1,4 @@
-Borrera candelaria (Weber ex F.H. Wigg.) Kickx SPECIES
-=======
+# Borrera candelaria (Weber ex F.H. Wigg.) Kickx SPECIES
 
 #### Status
 ACCEPTED

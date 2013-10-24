@@ -1,5 +1,4 @@
-Bolbitius exiguus Singer SPECIES
-=======
+# Bolbitius exiguus Singer SPECIES
 
 #### Status
 ACCEPTED

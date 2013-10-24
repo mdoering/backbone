@@ -1,5 +1,4 @@
-Petalomonas dorsalis Stokes SPECIES
-=======
+# Petalomonas dorsalis Stokes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellularia tenuis (Lév.) Kuntze SPECIES
-=======
+# Cellularia tenuis (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

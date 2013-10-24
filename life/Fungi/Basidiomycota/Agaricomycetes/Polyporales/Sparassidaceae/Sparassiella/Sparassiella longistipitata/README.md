@@ -1,5 +1,4 @@
-Sparassiella longistipitata Schwarzman, 1964 SPECIES
-=======
+# Sparassiella longistipitata Schwarzman, 1964 SPECIES
 
 #### Status
 ACCEPTED

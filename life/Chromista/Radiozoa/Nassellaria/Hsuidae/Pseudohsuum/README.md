@@ -1,5 +1,4 @@
-Pseudohsuum GENUS
-=======
+# Pseudohsuum GENUS
 
 #### Status
 ACCEPTED

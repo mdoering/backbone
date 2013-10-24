@@ -1,5 +1,4 @@
-Cucurbitaria prunorum Sacc. SPECIES
-=======
+# Cucurbitaria prunorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

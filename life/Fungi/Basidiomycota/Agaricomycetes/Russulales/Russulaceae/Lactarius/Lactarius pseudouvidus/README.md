@@ -1,5 +1,4 @@
-Lactarius pseudouvidus Kühner SPECIES
-=======
+# Lactarius pseudouvidus Kühner SPECIES
 
 #### Status
 ACCEPTED

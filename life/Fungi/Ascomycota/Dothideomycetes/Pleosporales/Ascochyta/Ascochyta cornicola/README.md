@@ -1,5 +1,4 @@
-Ascochyta cornicola Sacc. SPECIES
-=======
+# Ascochyta cornicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

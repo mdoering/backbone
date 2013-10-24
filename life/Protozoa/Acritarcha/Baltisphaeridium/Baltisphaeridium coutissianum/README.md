@@ -1,5 +1,4 @@
-Baltisphaeridium coutissianum Martin, 1969 SPECIES
-=======
+# Baltisphaeridium coutissianum Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

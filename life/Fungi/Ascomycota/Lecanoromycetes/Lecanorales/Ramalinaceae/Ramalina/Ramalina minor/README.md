@@ -1,5 +1,4 @@
-Ramalina minor (Nyl.) Motyka SPECIES
-=======
+# Ramalina minor (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

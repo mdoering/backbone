@@ -1,5 +1,4 @@
-Prosthemium Kunze GENUS
-=======
+# Prosthemium Kunze GENUS
 
 #### Status
 ACCEPTED

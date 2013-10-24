@@ -1,5 +1,4 @@
-Calicium cinerascens (Nyl.) Zahlbr. SPECIES
-=======
+# Calicium cinerascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

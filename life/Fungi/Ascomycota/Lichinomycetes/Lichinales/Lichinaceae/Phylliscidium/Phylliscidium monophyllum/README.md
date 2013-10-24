@@ -1,14 +1,13 @@
-Phylliscum monophyllum Kremp. SPECIES
-=======
+# Phylliscidium monophyllum (Kremp.) Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beitr. Gloeolich. (1885)
 
 #### Original name
 Phylliscum monophyllum Kremp.

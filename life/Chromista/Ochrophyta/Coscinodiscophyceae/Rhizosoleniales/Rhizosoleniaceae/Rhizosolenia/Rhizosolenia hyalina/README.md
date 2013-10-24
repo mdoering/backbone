@@ -1,8 +1,7 @@
-Rhizosolenia pellucida Cleve, 1901 SPECIES
-=======
+# Rhizosolenia hyalina Ostenfeld, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

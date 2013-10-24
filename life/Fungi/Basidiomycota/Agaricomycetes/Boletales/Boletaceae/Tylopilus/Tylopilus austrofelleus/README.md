@@ -1,5 +1,4 @@
-Tylopilus austrofelleus (Cleland) Watling & N.M. Greg. SPECIES
-=======
+# Tylopilus austrofelleus (Cleland) Watling & N.M. Greg. SPECIES
 
 #### Status
 ACCEPTED

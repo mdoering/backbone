@@ -1,5 +1,4 @@
-Monochaetia mycophaga (Vuill.) Sacc. SPECIES
-=======
+# Monochaetia mycophaga (Vuill.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola linhartiana anon. SPECIES
-=======
+# Meliola linhartiana anon. SPECIES
 
 #### Status
 ACCEPTED

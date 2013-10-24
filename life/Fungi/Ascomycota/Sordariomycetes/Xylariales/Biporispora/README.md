@@ -1,5 +1,4 @@
-Biporispora J.D. Rogers, Y.M. Ju & Cand. GENUS
-=======
+# Biporispora J.D. Rogers, Y.M. Ju & Cand. GENUS
 
 #### Status
 ACCEPTED

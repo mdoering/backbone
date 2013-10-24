@@ -1,5 +1,4 @@
-Agaricus rapula Valenti SPECIES
-=======
+# Agaricus rapula Valenti SPECIES
 
 #### Status
 ACCEPTED

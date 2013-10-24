@@ -1,5 +1,4 @@
-Sporopodium microplacum (Vain.) Zahlbr. SPECIES
-=======
+# Sporopodium microplacum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

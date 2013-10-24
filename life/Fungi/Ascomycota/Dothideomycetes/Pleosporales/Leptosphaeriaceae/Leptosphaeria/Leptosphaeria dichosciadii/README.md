@@ -1,5 +1,4 @@
-Leptosphaeria dichosciadii Petr. SPECIES
-=======
+# Leptosphaeria dichosciadii Petr. SPECIES
 
 #### Status
 ACCEPTED

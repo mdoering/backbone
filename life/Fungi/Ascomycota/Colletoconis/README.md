@@ -1,5 +1,4 @@
-Colletoconis de Hoog & Aa GENUS
-=======
+# Colletoconis de Hoog & Aa GENUS
 
 #### Status
 ACCEPTED

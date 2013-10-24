@@ -1,5 +1,4 @@
-Puccinia smilacicola Sawada SPECIES
-=======
+# Puccinia smilacicola Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilophorus hallii (Tuck.) Vain. SPECIES
-=======
+# Pilophorus hallii (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED

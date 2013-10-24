@@ -1,5 +1,4 @@
-Lecidea griseola Hue SPECIES
-=======
+# Lecidea griseola Hue SPECIES
 
 #### Status
 ACCEPTED

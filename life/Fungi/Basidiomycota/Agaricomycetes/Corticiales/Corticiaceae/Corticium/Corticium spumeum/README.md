@@ -1,5 +1,4 @@
-Corticium spumeum (Berk. & Ravenel) Berk. & Ravenel SPECIES
-=======
+# Corticium spumeum (Berk. & Ravenel) Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

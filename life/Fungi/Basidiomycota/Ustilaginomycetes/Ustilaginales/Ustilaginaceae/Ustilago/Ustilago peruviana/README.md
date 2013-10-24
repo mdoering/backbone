@@ -1,5 +1,4 @@
-Ustilago peruviana (Zundel) Vánky SPECIES
-=======
+# Ustilago peruviana (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

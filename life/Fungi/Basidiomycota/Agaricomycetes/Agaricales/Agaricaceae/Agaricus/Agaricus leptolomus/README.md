@@ -1,5 +1,4 @@
-Agaricus leptolomus Peck SPECIES
-=======
+# Agaricus leptolomus Peck SPECIES
 
 #### Status
 ACCEPTED

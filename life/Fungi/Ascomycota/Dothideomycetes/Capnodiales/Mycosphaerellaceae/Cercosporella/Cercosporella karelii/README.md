@@ -1,14 +1,13 @@
-Neoramularia karelii (Bremer & Petr.) U. Braun, 1993 SPECIES
-=======
+# Cercosporella karelii Bremer & Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 56(3-4): 434 (1993)
+Sydowia 1: 262 (1947)
 
 #### Original name
 Cercosporella karelii Bremer & Petr., 1947

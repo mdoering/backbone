@@ -1,5 +1,4 @@
-Misturatosphaeria GENUS
-=======
+# Misturatosphaeria GENUS
 
 #### Status
 ACCEPTED

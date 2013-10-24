@@ -1,5 +1,4 @@
-Spirocyclina Munier-Chalmas, 1887 GENUS
-=======
+# Spirocyclina Munier-Chalmas, 1887 GENUS
 
 #### Status
 ACCEPTED

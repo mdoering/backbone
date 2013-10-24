@@ -1,5 +1,4 @@
-Kondylostoma patulum SPECIES
-=======
+# Kondylostoma patulum SPECIES
 
 #### Status
 ACCEPTED

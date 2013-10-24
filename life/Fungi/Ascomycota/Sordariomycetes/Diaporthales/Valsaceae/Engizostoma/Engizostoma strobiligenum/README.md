@@ -1,5 +1,4 @@
-Engizostoma strobiligenum (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Engizostoma strobiligenum (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

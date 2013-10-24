@@ -1,5 +1,4 @@
-Entoloma zonatum Hesler SPECIES
-=======
+# Entoloma zonatum Hesler SPECIES
 
 #### Status
 ACCEPTED

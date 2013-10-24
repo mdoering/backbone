@@ -1,5 +1,4 @@
-Phoma rheae Cooke SPECIES
-=======
+# Phoma rheae Cooke SPECIES
 
 #### Status
 ACCEPTED

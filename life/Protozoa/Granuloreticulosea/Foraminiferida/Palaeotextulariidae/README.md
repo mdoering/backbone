@@ -1,5 +1,4 @@
-Palaeotextulariidae Galloway, 1933 FAMILY
-=======
+# Palaeotextulariidae Galloway, 1933 FAMILY
 
 #### Status
 ACCEPTED

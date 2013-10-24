@@ -1,14 +1,13 @@
-Cercospora europea (Gonz. Frag.) Constant. SPECIES
-=======
+# Cercospora europaea (Gonz. Frag.) Constant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 32: 106 (1967)
 
 #### Original name
 Cercospora latens f. europaea Gonz. Frag.

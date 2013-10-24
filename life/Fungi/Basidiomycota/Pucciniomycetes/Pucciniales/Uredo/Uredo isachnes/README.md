@@ -1,5 +1,4 @@
-Uredo isachnes Syd. & P. Syd. SPECIES
-=======
+# Uredo isachnes Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dibelonis Clem. GENUS
-=======
+# Leptotrochila P. Karsten, 1871 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis) 86, 175 (1909)
+null
 
 #### Original name
-Dibelonis Clem.
+null
 
 ### Remarks
 null

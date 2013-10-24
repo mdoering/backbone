@@ -1,5 +1,4 @@
-Haemogregarina johnstoni Davis & Merrett, 2000 SPECIES
-=======
+# Haemogregarina johnstoni Davis & Merrett, 2000 SPECIES
 
 #### Status
 ACCEPTED

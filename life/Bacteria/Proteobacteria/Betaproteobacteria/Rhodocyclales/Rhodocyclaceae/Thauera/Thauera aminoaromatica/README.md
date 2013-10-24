@@ -1,5 +1,4 @@
-Thauera aminoaromatica Mechichi et al., 2002 SPECIES
-=======
+# Thauera aminoaromatica Mechichi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

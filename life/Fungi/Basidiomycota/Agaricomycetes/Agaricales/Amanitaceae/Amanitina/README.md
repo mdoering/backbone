@@ -1,5 +1,4 @@
-Amanitina GENUS
-=======
+# Amanitina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella effusa Y.B. Peng SPECIES
-=======
+# Tremella effusa Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

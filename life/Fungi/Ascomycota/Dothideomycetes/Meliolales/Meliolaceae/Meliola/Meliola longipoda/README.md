@@ -1,5 +1,4 @@
-Meliola longipoda Gaillard SPECIES
-=======
+# Meliola longipoda Gaillard SPECIES
 
 #### Status
 ACCEPTED

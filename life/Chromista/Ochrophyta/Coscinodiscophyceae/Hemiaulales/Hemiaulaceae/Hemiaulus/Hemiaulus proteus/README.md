@@ -1,5 +1,4 @@
-Hemiaulus proteus Heiberg SPECIES
-=======
+# Hemiaulus proteus Heiberg SPECIES
 
 #### Status
 ACCEPTED

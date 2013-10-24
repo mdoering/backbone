@@ -1,5 +1,4 @@
-Cucurbitaria squamuligera (Sacc.) Kuntze SPECIES
-=======
+# Cucurbitaria squamuligera (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasnella J. Schröter, 1888 GENUS
-=======
+# Tulasnella J. Schröter, 1888 GENUS
 
 #### Status
 ACCEPTED

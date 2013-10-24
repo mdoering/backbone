@@ -1,5 +1,4 @@
-Phyllosticta owaniana G. Winter, 1885 SPECIES
-=======
+# Phyllosticta owaniana G. Winter, 1885 SPECIES
 
 #### Status
 ACCEPTED

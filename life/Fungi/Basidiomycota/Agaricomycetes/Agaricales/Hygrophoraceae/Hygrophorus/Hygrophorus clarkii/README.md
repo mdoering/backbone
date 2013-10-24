@@ -1,5 +1,4 @@
-Hygrophorus clarkii Berk. & Broome SPECIES
-=======
+# Hygrophorus clarkii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia nidusiforma Bernier & Courtinat, 1979 SPECIES
-=======
+# Leiosphaeridia nidusiforma Bernier & Courtinat, 1979 SPECIES
 
 #### Status
 ACCEPTED

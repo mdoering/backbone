@@ -1,5 +1,4 @@
-Lecidea leptoderma (Duby) Schaer. SPECIES
-=======
+# Lecidea leptoderma (Duby) Schaer. SPECIES
 
 #### Status
 ACCEPTED

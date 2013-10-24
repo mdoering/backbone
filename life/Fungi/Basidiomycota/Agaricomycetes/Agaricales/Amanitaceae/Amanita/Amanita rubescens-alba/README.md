@@ -1,5 +1,4 @@
-Amanita rubescens-alba Coker SPECIES
-=======
+# Amanita rubescens-alba Coker SPECIES
 
 #### Status
 ACCEPTED

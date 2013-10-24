@@ -1,5 +1,4 @@
-Zinkovioides T.N. Hermann in B.S. Sokolov & A.B. Ivanovsky, 1985 GENUS
-=======
+# Zinkovioides T.N. Hermann in B.S. Sokolov & A.B. Ivanovsky, 1985 GENUS
 
 #### Status
 ACCEPTED

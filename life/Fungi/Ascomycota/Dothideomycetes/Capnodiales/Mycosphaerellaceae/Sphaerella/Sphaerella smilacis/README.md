@@ -1,5 +1,4 @@
-Sphaerella smilacis Speg. SPECIES
-=======
+# Sphaerella smilacis Speg. SPECIES
 
 #### Status
 ACCEPTED

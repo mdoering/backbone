@@ -1,5 +1,4 @@
-Lecania constricta W.A. Weber SPECIES
-=======
+# Lecania constricta W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

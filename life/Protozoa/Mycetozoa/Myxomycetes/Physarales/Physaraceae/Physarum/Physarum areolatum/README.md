@@ -1,5 +1,4 @@
-Physarum areolatum Bertero SPECIES
-=======
+# Physarum areolatum Bertero SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Septoria jasoneicola Urries SPECIES
-=======
+# Septoria jasionicola Urries SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria jasoneicola Urries
+Septoria jasionicola Urries
 
 ### Remarks
 null

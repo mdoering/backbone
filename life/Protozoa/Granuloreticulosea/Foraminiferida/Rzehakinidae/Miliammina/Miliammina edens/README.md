@@ -1,5 +1,4 @@
-Miliammina edens Bell, 1995 SPECIES
-=======
+# Miliammina edens Bell, 1995 SPECIES
 
 #### Status
 ACCEPTED

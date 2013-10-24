@@ -1,5 +1,4 @@
-Phaeoporotheleum (W.B. Cooke) W.B. Cooke GENUS
-=======
+# Phaeoporotheleum (W.B. Cooke) W.B. Cooke GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo angeae Syd. & P. Syd. SPECIES
-=======
+# Uredo angeae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

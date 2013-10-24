@@ -1,5 +1,4 @@
-Thelotrema foveolare Müll. Arg. SPECIES
-=======
+# Thelotrema foveolare Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

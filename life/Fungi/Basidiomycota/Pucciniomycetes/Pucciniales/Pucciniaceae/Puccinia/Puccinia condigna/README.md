@@ -1,5 +1,4 @@
-Puccinia condigna H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia condigna H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

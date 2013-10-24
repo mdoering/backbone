@@ -1,5 +1,4 @@
-Phoma palmicola G. Winter SPECIES
-=======
+# Phoma palmicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Corticium olivaceoalbum var. olivaceoalbum VARIETY
-=======
+# Corticium olivaceoalbum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Bull. Soc. mycol. Fr. 27(2): 239 (1911)
+null
 
 #### Original name
-Corticium olivaceoalbum var. olivaceoalbum
+null
 
 ### Remarks
 null

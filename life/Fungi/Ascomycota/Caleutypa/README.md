@@ -1,5 +1,4 @@
-Caleutypa Petr. GENUS
-=======
+# Caleutypa Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium nigromaculatum Kurok. SPECIES
-=======
+# Coenogonium nigromaculatum Kurok. SPECIES
 
 #### Status
 ACCEPTED

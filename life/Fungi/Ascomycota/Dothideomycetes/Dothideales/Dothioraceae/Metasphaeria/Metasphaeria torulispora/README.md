@@ -1,5 +1,4 @@
-Metasphaeria torulispora Berl. SPECIES
-=======
+# Metasphaeria torulispora Berl. SPECIES
 
 #### Status
 ACCEPTED

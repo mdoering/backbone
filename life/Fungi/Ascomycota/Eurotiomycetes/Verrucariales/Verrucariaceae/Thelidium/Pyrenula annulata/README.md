@@ -1,5 +1,4 @@
-Pyrenula annulata Müll. Arg., 1893 SPECIES
-=======
+# Pyrenula annulata Müll. Arg., 1893 SPECIES
 
 #### Status
 DOUBTFUL

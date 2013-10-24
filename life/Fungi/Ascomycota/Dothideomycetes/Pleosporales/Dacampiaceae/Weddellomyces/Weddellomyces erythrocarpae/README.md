@@ -1,5 +1,4 @@
-Weddellomyces erythrocarpae Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Weddellomyces erythrocarpae Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

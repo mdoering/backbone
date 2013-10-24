@@ -1,5 +1,4 @@
-Asteridium GENUS
-=======
+# Asteridium GENUS
 
 #### Status
 ACCEPTED

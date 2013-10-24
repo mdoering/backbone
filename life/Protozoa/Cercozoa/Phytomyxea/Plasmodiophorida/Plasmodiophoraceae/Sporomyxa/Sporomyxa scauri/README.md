@@ -1,5 +1,4 @@
-Sporomyxa scauri L. Léger, 1908 SPECIES
-=======
+# Sporomyxa scauri L. Léger, 1908 SPECIES
 
 #### Status
 ACCEPTED

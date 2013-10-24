@@ -1,5 +1,4 @@
-Platysma squarrosum (Hoffm.) Frege SPECIES
-=======
+# Platysma squarrosum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

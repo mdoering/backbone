@@ -1,5 +1,4 @@
-Myriogloea papenfussii Kylin SPECIES
-=======
+# Myriogloea papenfussii Kylin SPECIES
 
 #### Status
 ACCEPTED

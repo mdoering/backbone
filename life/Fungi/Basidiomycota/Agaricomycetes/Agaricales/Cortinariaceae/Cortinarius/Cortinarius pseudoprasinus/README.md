@@ -1,5 +1,4 @@
-Cortinarius pseudoprasinus Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius pseudoprasinus Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

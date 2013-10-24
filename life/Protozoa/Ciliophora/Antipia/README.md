@@ -1,5 +1,4 @@
-Antipia Lepsi, 1927 GENUS
-=======
+# Antipia Lepsi, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazzinia coffeae Henn. SPECIES
-=======
+# Spegazzinia coffeae Henn. SPECIES
 
 #### Status
 ACCEPTED

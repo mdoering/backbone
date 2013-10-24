@@ -1,5 +1,4 @@
-Chitonomyces pullus Thaxt. SPECIES
-=======
+# Chitonomyces pullus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

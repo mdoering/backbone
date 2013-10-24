@@ -1,5 +1,4 @@
-Arthonia leucastraea Tuck. SPECIES
-=======
+# Arthonia leucastraea Tuck. SPECIES
 
 #### Status
 ACCEPTED

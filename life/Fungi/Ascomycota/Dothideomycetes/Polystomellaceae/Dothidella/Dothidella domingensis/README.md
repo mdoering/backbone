@@ -1,5 +1,4 @@
-Dothidella domingensis Chardón SPECIES
-=======
+# Dothidella domingensis Chardón SPECIES
 
 #### Status
 ACCEPTED

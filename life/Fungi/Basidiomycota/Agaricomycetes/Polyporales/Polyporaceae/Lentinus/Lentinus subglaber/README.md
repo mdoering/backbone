@@ -1,5 +1,4 @@
-Lentinus subglaber Lloyd SPECIES
-=======
+# Lentinus subglaber Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma isomerum Nitschke SPECIES
-=======
+# Lophiostoma isomerum Nitschke SPECIES
 
 #### Status
 ACCEPTED

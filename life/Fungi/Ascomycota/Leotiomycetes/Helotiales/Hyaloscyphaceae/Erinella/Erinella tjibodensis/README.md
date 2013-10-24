@@ -1,5 +1,4 @@
-Erinella tjibodensis Henn. & E. Nyman SPECIES
-=======
+# Erinella tjibodensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

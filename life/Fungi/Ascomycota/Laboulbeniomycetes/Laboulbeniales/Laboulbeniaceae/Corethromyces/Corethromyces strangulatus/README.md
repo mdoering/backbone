@@ -1,5 +1,4 @@
-Corethromyces strangulatus Thaxt. SPECIES
-=======
+# Corethromyces strangulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

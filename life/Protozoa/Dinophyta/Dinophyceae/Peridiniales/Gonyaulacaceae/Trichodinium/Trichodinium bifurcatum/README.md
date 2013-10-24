@@ -1,5 +1,4 @@
-Trichodinium bifurcatum K. P. Jain & P. Millepied SPECIES
-=======
+# Trichodinium bifurcatum K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

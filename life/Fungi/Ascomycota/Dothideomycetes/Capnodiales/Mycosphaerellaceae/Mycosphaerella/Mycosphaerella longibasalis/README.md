@@ -1,5 +1,4 @@
-Mycosphaerella longibasalis Crous & M.J. Wingf. SPECIES
-=======
+# Mycosphaerella longibasalis Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

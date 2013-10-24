@@ -1,5 +1,4 @@
-Thelenella elliottii Vain. SPECIES
-=======
+# Thelenella elliottii Vain. SPECIES
 
 #### Status
 ACCEPTED

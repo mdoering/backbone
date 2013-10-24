@@ -1,5 +1,4 @@
-Diplogrammatomyces australiensis Cif. & Tomas. SPECIES
-=======
+# Diplogrammatomyces australiensis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

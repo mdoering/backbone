@@ -1,17 +1,16 @@
-Lycoperdon bicolor var. bicolor VARIETY
-=======
+# Lycoperdon bicolor Welw. & Curr., 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Linn. Soc. London 26: 290 (1867)
 
 #### Original name
-Lycoperdon bicolor var. bicolor
+Lycoperdon bicolor Welw. & Curr., 1867
 
 ### Remarks
 null

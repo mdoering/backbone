@@ -1,5 +1,4 @@
-Dictyococcites onustus K. Perch-Nielsen SPECIES
-=======
+# Dictyococcites onustus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

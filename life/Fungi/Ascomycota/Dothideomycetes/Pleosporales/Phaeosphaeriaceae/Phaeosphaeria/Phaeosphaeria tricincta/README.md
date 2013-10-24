@@ -1,5 +1,4 @@
-Phaeosphaeria tricincta Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria tricincta Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium calycanthi Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Camarosporium calycanthi Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

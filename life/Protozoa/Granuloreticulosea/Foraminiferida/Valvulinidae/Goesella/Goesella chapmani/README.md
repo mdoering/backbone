@@ -1,5 +1,4 @@
-Goesella chapmani Cushman SPECIES
-=======
+# Goesella chapmani Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halolactibacillus halophilus Ishikawa et al., 2005 SPECIES
-=======
+# Halolactibacillus halophilus Ishikawa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marieita GENUS
-=======
+# Marieita GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus planus (Fr.) Gillet SPECIES
-=======
+# Pleurotus planus (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

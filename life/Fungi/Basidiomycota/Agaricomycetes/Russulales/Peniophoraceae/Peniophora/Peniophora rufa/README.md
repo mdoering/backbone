@@ -1,17 +1,16 @@
-Peniophora rufa f. rufa FORM
-=======
+# Peniophora rufa (Fr.) Boidin, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 74(4): 443 (1958)
 
 #### Original name
-null
+Thelephora rufa Fr., 1828
 
 ### Remarks
 null

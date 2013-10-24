@@ -1,5 +1,4 @@
-Cothurnia striata SPECIES
-=======
+# Cothurnia striata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia knysnana Zahlbr. SPECIES
-=======
+# Bacidia knysnana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria westlandica Dingley, 1951 SPECIES
-=======
+# Neonectria westlandica (Dingley) Samuels & Brayford, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 79(2): 201 (1951)
+in Brayford, Honda, Mantiri & Samuels, Mycologia 96(3): 595 (2004)
 
 #### Original name
 Nectria westlandica Dingley, 1951

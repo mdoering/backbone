@@ -1,5 +1,4 @@
-Lecidea gyaliza Nyl. SPECIES
-=======
+# Lecidea gyaliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanomyces irregularis W.W. Scott, 1961 SPECIES
-=======
+# Aphanomyces irregularis W.W. Scott, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crithiona GENUS
-=======
+# Crithiona GENUS
 
 #### Status
 ACCEPTED

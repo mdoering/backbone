@@ -1,5 +1,4 @@
-Loxocephalus granulosus Kent, 1881 SPECIES
-=======
+# Loxocephalus granulosus Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

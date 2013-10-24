@@ -1,5 +1,4 @@
-Entoloma brunneocinereum Hesler SPECIES
-=======
+# Entoloma brunneocinereum Hesler SPECIES
 
 #### Status
 ACCEPTED

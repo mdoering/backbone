@@ -1,5 +1,4 @@
-Thalassobius mediterraneus Arahal et al., 2005 SPECIES
-=======
+# Thalassobius mediterraneus Arahal et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

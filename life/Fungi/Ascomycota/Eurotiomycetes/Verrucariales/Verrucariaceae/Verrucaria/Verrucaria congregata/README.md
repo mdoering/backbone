@@ -1,5 +1,4 @@
-Verrucaria congregata Hepp SPECIES
-=======
+# Verrucaria congregata Hepp SPECIES
 
 #### Status
 ACCEPTED

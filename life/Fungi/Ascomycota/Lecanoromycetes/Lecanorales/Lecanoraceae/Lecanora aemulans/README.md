@@ -1,5 +1,4 @@
-Lecanora aemulans (Mereschk.) Motyka SPECIES
-=======
+# Lecanora aemulans (Mereschk.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aspergillus sojae var. gymnosardae (Yukawa) Y. Ohara, 1953 VARIETY
-=======
+# Aspergillus gymnosardae Yukawa, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Research Bulletin of the Faculty of Agriculture, Gifu University 2: 77 (1953)
+null
 
 #### Original name
 Aspergillus gymnosardae Yukawa, 1911

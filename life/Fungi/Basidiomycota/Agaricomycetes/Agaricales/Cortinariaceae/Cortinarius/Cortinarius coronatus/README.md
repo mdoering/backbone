@@ -1,5 +1,4 @@
-Cortinarius coronatus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius coronatus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

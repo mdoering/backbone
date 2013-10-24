@@ -1,5 +1,4 @@
-Strongylidium crassum Sterki, 1878 SPECIES
-=======
+# Strongylidium crassum Sterki, 1878 SPECIES
 
 #### Status
 ACCEPTED

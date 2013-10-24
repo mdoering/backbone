@@ -1,5 +1,4 @@
-Aspergillus galeritus Blochwitz SPECIES
-=======
+# Aspergillus galeritus Blochwitz SPECIES
 
 #### Status
 ACCEPTED

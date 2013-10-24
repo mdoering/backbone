@@ -1,5 +1,4 @@
-Lentinus japonicus Yasuda SPECIES
-=======
+# Lentinus japonicus Yasuda SPECIES
 
 #### Status
 ACCEPTED

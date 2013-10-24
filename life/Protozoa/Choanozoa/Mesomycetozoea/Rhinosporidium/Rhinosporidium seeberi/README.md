@@ -1,5 +1,4 @@
-Rhinosporidium seeberi (Wernicke) Seeber SPECIES
-=======
+# Rhinosporidium seeberi (Wernicke) Seeber SPECIES
 
 #### Status
 ACCEPTED

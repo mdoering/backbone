@@ -1,5 +1,4 @@
-Similiscutum orbiculus SPECIES
-=======
+# Similiscutum orbiculus SPECIES
 
 #### Status
 ACCEPTED

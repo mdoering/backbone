@@ -1,5 +1,4 @@
-Coleosporium campanulae-trachelii Kleb. SPECIES
-=======
+# Coleosporium campanulae-trachelii Kleb. SPECIES
 
 #### Status
 ACCEPTED

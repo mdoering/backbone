@@ -1,5 +1,4 @@
-Pleospora maireana F. Lamb. & Fautrey SPECIES
-=======
+# Pleospora maireana F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

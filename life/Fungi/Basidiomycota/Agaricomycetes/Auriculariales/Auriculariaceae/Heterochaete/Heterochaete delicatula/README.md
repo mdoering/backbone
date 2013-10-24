@@ -1,5 +1,4 @@
-Heterochaete delicatula Rick SPECIES
-=======
+# Heterochaete delicatula Rick SPECIES
 
 #### Status
 ACCEPTED

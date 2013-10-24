@@ -1,5 +1,4 @@
-Hygrophorus vinicolor Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus vinicolor Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

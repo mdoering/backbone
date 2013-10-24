@@ -1,5 +1,4 @@
-Tuscarilla Haeckel, 1887 GENUS
-=======
+# Tuscarilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

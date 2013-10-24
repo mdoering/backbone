@@ -1,5 +1,4 @@
-Phyllachora therophila (Desm.) Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachora therophila (Desm.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 DOUBTFUL

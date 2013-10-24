@@ -1,5 +1,4 @@
-Pyrenula polillensis Vain. SPECIES
-=======
+# Pyrenula polillensis Vain. SPECIES
 
 #### Status
 ACCEPTED

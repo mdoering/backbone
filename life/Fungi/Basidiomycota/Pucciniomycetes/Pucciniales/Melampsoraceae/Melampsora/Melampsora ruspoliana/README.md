@@ -1,5 +1,4 @@
-Melampsora ruspoliana Henn. SPECIES
-=======
+# Melampsora ruspoliana Henn. SPECIES
 
 #### Status
 ACCEPTED

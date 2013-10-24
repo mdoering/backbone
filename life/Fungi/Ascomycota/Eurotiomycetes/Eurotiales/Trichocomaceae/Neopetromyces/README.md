@@ -1,5 +1,4 @@
-Neopetromyces Frisvad & Samson GENUS
-=======
+# Neopetromyces Frisvad & Samson GENUS
 
 #### Status
 ACCEPTED

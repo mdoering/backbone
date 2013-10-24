@@ -1,5 +1,4 @@
-Ophiostoma exiguum (Hedgc.) Syd. & P. Syd. SPECIES
-=======
+# Ophiostoma exiguum (Hedgc.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

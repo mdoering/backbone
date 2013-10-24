@@ -1,5 +1,4 @@
-Stereum obliteratum Rick SPECIES
-=======
+# Stereum obliteratum Rick SPECIES
 
 #### Status
 ACCEPTED

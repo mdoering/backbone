@@ -1,5 +1,4 @@
-Neopericonia indica Kamal, A.N. Rai & Morgan-Jones, 1983 SPECIES
-=======
+# Neopericonia indica Kamal, A.N. Rai & Morgan-Jones, 1983 SPECIES
 
 #### Status
 ACCEPTED

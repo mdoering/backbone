@@ -1,5 +1,4 @@
-Uromyces mangenoti Mayor & Vienn.-Bourg. SPECIES
-=======
+# Uromyces mangenoti Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

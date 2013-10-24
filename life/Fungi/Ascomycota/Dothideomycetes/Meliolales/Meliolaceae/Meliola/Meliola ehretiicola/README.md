@@ -1,5 +1,4 @@
-Meliola ehretiicola Hosag. SPECIES
-=======
+# Meliola ehretiicola Hosag. SPECIES
 
 #### Status
 ACCEPTED

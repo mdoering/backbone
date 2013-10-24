@@ -1,5 +1,4 @@
-Bolivinita rhomboidalis SPECIES
-=======
+# Bolivinita rhomboidalis SPECIES
 
 #### Status
 ACCEPTED

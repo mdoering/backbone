@@ -1,5 +1,4 @@
-Mycoplasma genitalium Tully et al., 1983 SPECIES
-=======
+# Mycoplasma genitalium Tully et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

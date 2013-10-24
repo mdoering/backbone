@@ -1,5 +1,4 @@
-Candida shehatae var. shehatae VARIETY
-=======
+# Candida shehatae H.R. Buckley & Uden SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycopath. Mycol. appl. 32: 297 (1967)
 
 #### Original name
-Candida shehatae var. shehatae
+Candida shehatae H.R. Buckley & Uden
 
 ### Remarks
 null

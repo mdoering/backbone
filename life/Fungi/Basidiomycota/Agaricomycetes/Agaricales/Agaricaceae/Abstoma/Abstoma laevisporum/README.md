@@ -1,5 +1,4 @@
-Abstoma laevisporum J.E. Wright & V.L. Suárez SPECIES
-=======
+# Abstoma laevisporum J.E. Wright & V.L. Suárez SPECIES
 
 #### Status
 ACCEPTED

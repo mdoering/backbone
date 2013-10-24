@@ -1,5 +1,4 @@
-Diplodia cytosporoides Roum. SPECIES
-=======
+# Diplodia cytosporoides Roum. SPECIES
 
 #### Status
 ACCEPTED

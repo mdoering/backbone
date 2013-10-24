@@ -1,5 +1,4 @@
-Lecidea proximella Nyl. SPECIES
-=======
+# Lecidea proximella Nyl. SPECIES
 
 #### Status
 ACCEPTED

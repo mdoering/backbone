@@ -1,5 +1,4 @@
-Fusicladium pini Crous & de Hoog SPECIES
-=======
+# Fusicladium pini Crous & de Hoog SPECIES
 
 #### Status
 ACCEPTED

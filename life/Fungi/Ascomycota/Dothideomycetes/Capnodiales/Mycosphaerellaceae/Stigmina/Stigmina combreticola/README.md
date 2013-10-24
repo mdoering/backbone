@@ -1,5 +1,4 @@
-Stigmina combreticola M.B. Ellis SPECIES
-=======
+# Stigmina combreticola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

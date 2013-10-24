@@ -1,5 +1,4 @@
-Neotyphodium occultans C.D. Moon, B. Scott & M.J. Chr., 2000 SPECIES
-=======
+# Neotyphodium occultans C.D. Moon, B. Scott & M.J. Chr., 2000 SPECIES
 
 #### Status
 ACCEPTED

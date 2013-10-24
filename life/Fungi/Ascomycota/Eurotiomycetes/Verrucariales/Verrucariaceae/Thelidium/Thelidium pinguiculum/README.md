@@ -1,5 +1,4 @@
-Thelidium pinguiculum f. pinguiculum FORM
-=======
+# Thelidium pinguiculum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium pinguiculum f. pinguiculum
+null
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Fusarium aquaeductuum var. flavum (Fr.) Raillo, 1950 VARIETY
-=======
+# Fusarium flavum (Fr.) Wollenw., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi of the Genus Fusarium 280 (1950)
+Z. ParasitKde 3(3): 305 (1931)
 
 #### Original name
 Fusisporium flavum Fr., 1832

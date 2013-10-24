@@ -1,5 +1,4 @@
-Sacidium camelliae Cooke & Massee SPECIES
-=======
+# Sacidium camelliae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

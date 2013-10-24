@@ -1,5 +1,4 @@
-Mediendothyra Brazhnikova & Vdovenko in Vdovenko, 1972 GENUS
-=======
+# Mediendothyra Brazhnikova & Vdovenko in Vdovenko, 1972 GENUS
 
 #### Status
 ACCEPTED

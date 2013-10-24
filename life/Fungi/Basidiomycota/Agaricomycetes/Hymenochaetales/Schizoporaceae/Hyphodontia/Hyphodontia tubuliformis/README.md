@@ -1,17 +1,16 @@
-Kneiffiella tubuliformis (Sheng H. Wu) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia tubuliformis Sheng H. Wu, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 95: 185 (2006)
 
 #### Original name
-null
+Hyphodontia tubuliformis Sheng H. Wu, 2006
 
 ### Remarks
 null

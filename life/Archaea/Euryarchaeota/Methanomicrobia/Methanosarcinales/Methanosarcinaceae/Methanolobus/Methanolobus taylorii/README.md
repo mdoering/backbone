@@ -1,5 +1,4 @@
-Methanolobus taylorii Oremland & Boone, 1994 SPECIES
-=======
+# Methanolobus taylorii Oremland & Boone, 1994 SPECIES
 
 #### Status
 ACCEPTED

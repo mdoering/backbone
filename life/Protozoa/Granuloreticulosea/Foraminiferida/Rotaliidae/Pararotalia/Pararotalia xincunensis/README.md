@@ -1,5 +1,4 @@
-Pararotalia xincunensis Sun, 1991 SPECIES
-=======
+# Pararotalia xincunensis Sun, 1991 SPECIES
 
 #### Status
 ACCEPTED

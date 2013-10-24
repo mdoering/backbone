@@ -1,5 +1,4 @@
-Rhizoctonia suavis Thomas {?} SPECIES
-=======
+# Rhizoctonia suavis Thomas {?} SPECIES
 
 #### Status
 ACCEPTED

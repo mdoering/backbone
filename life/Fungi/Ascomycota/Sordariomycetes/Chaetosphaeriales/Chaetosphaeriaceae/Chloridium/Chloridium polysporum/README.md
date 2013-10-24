@@ -1,5 +1,4 @@
-Chloridium polysporum (Wallr.) Sacc. SPECIES
-=======
+# Chloridium polysporum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

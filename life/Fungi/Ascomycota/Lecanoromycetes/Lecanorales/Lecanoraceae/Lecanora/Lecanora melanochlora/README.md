@@ -1,5 +1,4 @@
-Lecanora melanochlora SPECIES
-=======
+# Lecanora melanochlora SPECIES
 
 #### Status
 ACCEPTED

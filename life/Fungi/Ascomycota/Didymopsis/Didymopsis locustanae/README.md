@@ -1,5 +1,4 @@
-Didymopsis locustanae Prinsloo SPECIES
-=======
+# Didymopsis locustanae Prinsloo SPECIES
 
 #### Status
 ACCEPTED

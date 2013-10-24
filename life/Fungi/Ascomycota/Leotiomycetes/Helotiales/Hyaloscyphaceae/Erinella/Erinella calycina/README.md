@@ -1,5 +1,4 @@
-Erinella calycina Pat. SPECIES
-=======
+# Erinella calycina Pat. SPECIES
 
 #### Status
 ACCEPTED

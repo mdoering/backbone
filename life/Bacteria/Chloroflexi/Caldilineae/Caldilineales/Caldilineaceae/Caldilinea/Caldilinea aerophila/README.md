@@ -1,5 +1,4 @@
-Caldilinea aerophila Sekiguchi et al., 2003 SPECIES
-=======
+# Caldilinea aerophila Sekiguchi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia himalayensis E. Müll. SPECIES
-=======
+# Guignardia himalayensis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites acuminatus Rouse & Mustard SPECIES
-=======
+# Multicellaesporites acuminatus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

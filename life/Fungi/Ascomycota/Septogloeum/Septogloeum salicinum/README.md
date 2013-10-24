@@ -1,5 +1,4 @@
-Septogloeum salicinum (Peck) Sacc. SPECIES
-=======
+# Septogloeum salicinum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

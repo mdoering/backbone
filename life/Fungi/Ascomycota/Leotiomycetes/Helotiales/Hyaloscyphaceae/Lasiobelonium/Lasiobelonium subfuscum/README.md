@@ -1,5 +1,4 @@
-Lasiobelonium subfuscum Raitv. SPECIES
-=======
+# Lasiobelonium subfuscum Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelenella fusispora Vezda & H. Mayrhofer SPECIES
-=======
+# Thelenella fusispora Vezda & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

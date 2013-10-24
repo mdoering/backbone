@@ -1,5 +1,4 @@
-Kisselovia articulata var. conopia (G. L. Williams & C. Downie) L. I. Costa & C. Downie VARIETY
-=======
+# Kisselovia articulata SPECIES
 
 #### Status
 ACCEPTED

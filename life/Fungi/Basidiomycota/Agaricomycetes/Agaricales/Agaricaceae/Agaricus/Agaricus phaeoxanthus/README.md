@@ -1,5 +1,4 @@
-Agaricus phaeoxanthus Pat. SPECIES
-=======
+# Agaricus phaeoxanthus Pat. SPECIES
 
 #### Status
 ACCEPTED

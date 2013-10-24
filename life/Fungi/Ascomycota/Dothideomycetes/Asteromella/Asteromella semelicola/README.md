@@ -1,5 +1,4 @@
-Asteromella semelicola Urries SPECIES
-=======
+# Asteromella semelicola Urries SPECIES
 
 #### Status
 ACCEPTED

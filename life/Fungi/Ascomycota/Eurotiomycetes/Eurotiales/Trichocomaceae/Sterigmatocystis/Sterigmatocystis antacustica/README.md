@@ -1,5 +1,4 @@
-Sterigmatocystis antacustica C.E. Cramer SPECIES
-=======
+# Sterigmatocystis antacustica C.E. Cramer SPECIES
 
 #### Status
 ACCEPTED

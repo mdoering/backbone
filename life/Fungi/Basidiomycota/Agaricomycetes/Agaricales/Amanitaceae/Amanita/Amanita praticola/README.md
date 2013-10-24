@@ -1,5 +1,4 @@
-Amanita praticola Peck SPECIES
-=======
+# Amanita praticola Peck SPECIES
 
 #### Status
 ACCEPTED

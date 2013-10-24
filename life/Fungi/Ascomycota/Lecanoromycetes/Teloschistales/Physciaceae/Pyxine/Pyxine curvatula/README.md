@@ -1,5 +1,4 @@
-Pyxine curvatula Zahlbr. SPECIES
-=======
+# Pyxine curvatula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

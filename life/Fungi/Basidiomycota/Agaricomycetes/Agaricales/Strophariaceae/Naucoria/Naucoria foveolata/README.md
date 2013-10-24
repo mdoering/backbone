@@ -1,5 +1,4 @@
-Naucoria foveolata Sawada SPECIES
-=======
+# Naucoria foveolata Sawada SPECIES
 
 #### Status
 ACCEPTED

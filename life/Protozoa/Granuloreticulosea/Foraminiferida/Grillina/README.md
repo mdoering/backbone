@@ -1,5 +1,4 @@
-Grillina Kristan-Tollmann, 1964 GENUS
-=======
+# Grillina Kristan-Tollmann, 1964 GENUS
 
 #### Status
 ACCEPTED

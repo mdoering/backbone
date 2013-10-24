@@ -1,5 +1,4 @@
-Scopulariopsis grylli Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Scopulariopsis grylli Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

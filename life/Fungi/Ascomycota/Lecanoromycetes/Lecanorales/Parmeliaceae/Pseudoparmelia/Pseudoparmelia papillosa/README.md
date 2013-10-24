@@ -1,5 +1,4 @@
-Pseudoparmelia papillosa (Lynge ex Gyeln.) Hale SPECIES
-=======
+# Pseudoparmelia papillosa (Lynge ex Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lizoniella singularis (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella singularis (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

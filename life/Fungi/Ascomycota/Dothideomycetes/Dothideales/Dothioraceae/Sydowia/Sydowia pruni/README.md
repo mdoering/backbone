@@ -1,5 +1,4 @@
-Sydowia pruni M.E. Barr SPECIES
-=======
+# Sydowia pruni M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

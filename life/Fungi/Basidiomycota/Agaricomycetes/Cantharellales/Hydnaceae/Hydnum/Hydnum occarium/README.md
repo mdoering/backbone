@@ -1,5 +1,4 @@
-Hydnum occarium Secr. SPECIES
-=======
+# Hydnum occarium Secr. SPECIES
 
 #### Status
 ACCEPTED

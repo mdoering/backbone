@@ -1,5 +1,4 @@
-Lecidea pseudopilati (Vain.) Vain. SPECIES
-=======
+# Lecidea pseudopilati (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

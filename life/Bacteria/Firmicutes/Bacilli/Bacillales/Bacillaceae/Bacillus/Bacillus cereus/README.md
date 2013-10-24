@@ -1,5 +1,4 @@
-Bacillus cereus Frankland and Frankland, 1887 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus cereus Frankland and Frankland, 1887 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

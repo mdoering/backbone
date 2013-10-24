@@ -1,5 +1,4 @@
-Dermatea caespitosum Fuckel SPECIES
-=======
+# Dermatea caespitosum Fuckel SPECIES
 
 #### Status
 ACCEPTED

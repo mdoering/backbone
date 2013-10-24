@@ -1,5 +1,4 @@
-Handeliella stockmayeri Skuja SPECIES
-=======
+# Handeliella stockmayeri Skuja SPECIES
 
 #### Status
 ACCEPTED

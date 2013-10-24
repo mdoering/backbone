@@ -1,5 +1,4 @@
-Brevibacterium permense Gavrish et al., 2005 SPECIES
-=======
+# Brevibacterium permense Gavrish et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe milleri H.E. Bigelow SPECIES
-=======
+# Clitocybe milleri H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

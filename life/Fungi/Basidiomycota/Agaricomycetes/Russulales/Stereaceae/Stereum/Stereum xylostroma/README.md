@@ -1,5 +1,4 @@
-Stereum xylostroma Lloyd SPECIES
-=======
+# Stereum xylostroma Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinotexis mirabilis Arx, 1960 SPECIES
-=======
+# Actinotexis mirabilis Arx, 1960 SPECIES
 
 #### Status
 ACCEPTED

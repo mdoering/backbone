@@ -1,5 +1,4 @@
-Leptoporus destructor var. destructor VARIETY
-=======
+# Leptoporus destructor (Schrad.) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 41: 127 (1925)
 
 #### Original name
-Leptoporus destructor var. destructor
+Boletus destructor Schrad.
 
 ### Remarks
 null

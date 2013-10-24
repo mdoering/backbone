@@ -1,5 +1,4 @@
-Laboulbenia lichtensteini F. Picard SPECIES
-=======
+# Laboulbenia lichtensteini F. Picard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema crassum var. indicum S.Silva VARIETY
-=======
+# Scytonema crassum Nägeli SPECIES
 
 #### Status
 ACCEPTED

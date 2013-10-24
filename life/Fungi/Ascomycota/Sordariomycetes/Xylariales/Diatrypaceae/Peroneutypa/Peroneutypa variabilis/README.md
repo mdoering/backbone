@@ -1,5 +1,4 @@
-Peroneutypa variabilis Petch SPECIES
-=======
+# Peroneutypa variabilis Petch SPECIES
 
 #### Status
 ACCEPTED

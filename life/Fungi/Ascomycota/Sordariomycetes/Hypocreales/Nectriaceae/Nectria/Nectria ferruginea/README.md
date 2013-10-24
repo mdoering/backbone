@@ -1,5 +1,4 @@
-Nectria ferruginea Cooke SPECIES
-=======
+# Nectria ferruginea Cooke SPECIES
 
 #### Status
 ACCEPTED

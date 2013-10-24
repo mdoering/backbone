@@ -1,5 +1,4 @@
-Melanotheca eschweileri var. eschweileri VARIETY
-=======
+# Melanotheca eschweileri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Lich. Univers. 1: 480 (1922)
 
 #### Original name
-Melanotheca eschweileri var. eschweileri
+Melanotheca eschweileri Zahlbr.
 
 ### Remarks
 null

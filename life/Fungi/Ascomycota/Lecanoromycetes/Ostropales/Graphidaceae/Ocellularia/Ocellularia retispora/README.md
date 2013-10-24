@@ -1,5 +1,4 @@
-Ocellularia retispora R.C. Harris SPECIES
-=======
+# Ocellularia retispora R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

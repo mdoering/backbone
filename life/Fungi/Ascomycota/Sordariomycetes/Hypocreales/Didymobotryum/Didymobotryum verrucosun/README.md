@@ -1,5 +1,4 @@
-Didymobotryum verrucosun (Sacc. & Paoletti) M. B. Ellis. SPECIES
-=======
+# Didymobotryum verrucosun (Sacc. & Paoletti) M. B. Ellis. SPECIES
 
 #### Status
 ACCEPTED

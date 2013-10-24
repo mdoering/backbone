@@ -1,17 +1,16 @@
-Rhytidhysterium brasiliense Speg. SPECIES
-=======
+# Rhytidhysteron brasiliense Speg., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 12(4): 188 (1881)
 
 #### Original name
-Rhytidhysterium brasiliense Speg.
+Rhytidhysteron brasiliense Speg., 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tyromyces languidus Corner, 1989 SPECIES
-=======
+# Tyromyces languidus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

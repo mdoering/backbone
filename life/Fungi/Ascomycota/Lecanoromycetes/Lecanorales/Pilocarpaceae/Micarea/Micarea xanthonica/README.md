@@ -1,5 +1,4 @@
-Micarea xanthonica Coppins & Tønsberg SPECIES
-=======
+# Micarea xanthonica Coppins & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

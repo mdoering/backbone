@@ -1,5 +1,4 @@
-Phyllachora orbicularis Speg., 1924 SPECIES
-=======
+# Phyllachora orbicularis Speg., 1924 SPECIES
 
 #### Status
 ACCEPTED

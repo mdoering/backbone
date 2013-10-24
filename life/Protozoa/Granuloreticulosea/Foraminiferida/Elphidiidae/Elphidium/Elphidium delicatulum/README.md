@@ -1,5 +1,4 @@
-Elphidium delicatulum Bermúdez, 1949 SPECIES
-=======
+# Elphidium delicatulum Bermúdez, 1949 SPECIES
 
 #### Status
 ACCEPTED

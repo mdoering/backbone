@@ -1,17 +1,16 @@
-Gasparrinia heppiana f. heppiana FORM
-=======
+# Caloplaca flavescens (Huds.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Közl. 59(1): 13 (1972)
+Lichenologist 16(1): 53 (1984)
 
 #### Original name
-Gasparrinia heppiana f. heppiana
+Lichen flavescens Huds.
 
 ### Remarks
 null

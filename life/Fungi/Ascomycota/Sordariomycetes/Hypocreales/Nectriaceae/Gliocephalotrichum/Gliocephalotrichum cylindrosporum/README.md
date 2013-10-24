@@ -1,5 +1,4 @@
-Gliocephalotrichum cylindrosporum B.J. Wiley & E.G. Simmons, 1971 SPECIES
-=======
+# Gliocephalotrichum cylindrosporum B.J. Wiley & E.G. Simmons, 1971 SPECIES
 
 #### Status
 ACCEPTED

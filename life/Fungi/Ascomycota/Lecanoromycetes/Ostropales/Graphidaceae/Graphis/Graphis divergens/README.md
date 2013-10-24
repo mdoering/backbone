@@ -1,5 +1,4 @@
-Graphis divergens (Fée) A. Massal. SPECIES
-=======
+# Graphis divergens (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilophoron polycarpum Tuck. SPECIES
-=======
+# Pilophoron polycarpum Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora berkeleyi Cooke SPECIES
-=======
+# Peniophora berkeleyi Cooke SPECIES
 
 #### Status
 ACCEPTED

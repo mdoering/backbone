@@ -1,5 +1,4 @@
-Polydispyrenia simulii (Lutz & Splendore) E.U. Canning & E.I. Hazard SPECIES
-=======
+# Polydispyrenia simulii (Lutz & Splendore) E.U. Canning & E.I. Hazard SPECIES
 
 #### Status
 ACCEPTED

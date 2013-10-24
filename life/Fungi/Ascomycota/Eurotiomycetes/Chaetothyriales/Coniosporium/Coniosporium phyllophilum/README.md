@@ -1,5 +1,4 @@
-Coniosporium phyllophilum P. Karst. SPECIES
-=======
+# Coniosporium phyllophilum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

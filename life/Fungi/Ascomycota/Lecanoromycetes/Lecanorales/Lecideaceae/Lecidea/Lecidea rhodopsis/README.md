@@ -1,5 +1,4 @@
-Lecidea rhodopsis Tuck. SPECIES
-=======
+# Lecidea rhodopsis Tuck. SPECIES
 
 #### Status
 ACCEPTED

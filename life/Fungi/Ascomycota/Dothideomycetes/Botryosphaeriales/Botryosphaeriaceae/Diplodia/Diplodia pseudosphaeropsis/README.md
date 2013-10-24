@@ -1,5 +1,4 @@
-Diplodia pseudosphaeropsis Maire SPECIES
-=======
+# Diplodia pseudosphaeropsis Maire SPECIES
 
 #### Status
 ACCEPTED

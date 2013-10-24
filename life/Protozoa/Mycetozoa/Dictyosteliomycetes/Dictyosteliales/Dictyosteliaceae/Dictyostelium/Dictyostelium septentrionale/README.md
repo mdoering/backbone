@@ -1,17 +1,16 @@
-Dictyostelium septentrionalis Cavender SPECIES
-=======
+# Dictyostelium septentrionale Cavender, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 56(11): 1329 (1978)
 
 #### Original name
-Dictyostelium septentrionalis Cavender
+Dictyostelium septentrionale Cavender, 1978
 
 ### Remarks
 null

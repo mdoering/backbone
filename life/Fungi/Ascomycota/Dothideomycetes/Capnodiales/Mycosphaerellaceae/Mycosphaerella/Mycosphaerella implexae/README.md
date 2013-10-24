@@ -1,5 +1,4 @@
-Mycosphaerella implexae (Pass.) M. Morelet SPECIES
-=======
+# Mycosphaerella implexae (Pass.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

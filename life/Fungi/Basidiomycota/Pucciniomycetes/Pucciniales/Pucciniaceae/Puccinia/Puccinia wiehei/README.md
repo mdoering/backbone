@@ -1,5 +1,4 @@
-Puccinia wiehei Cummins SPECIES
-=======
+# Puccinia wiehei Cummins SPECIES
 
 #### Status
 ACCEPTED

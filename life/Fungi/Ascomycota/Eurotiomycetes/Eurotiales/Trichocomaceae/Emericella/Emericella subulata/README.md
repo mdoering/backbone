@@ -1,5 +1,4 @@
-Emericella subulata Y. Horie SPECIES
-=======
+# Emericella subulata Y. Horie SPECIES
 
 #### Status
 ACCEPTED

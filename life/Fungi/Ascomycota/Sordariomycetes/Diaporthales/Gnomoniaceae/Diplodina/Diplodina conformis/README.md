@@ -1,5 +1,4 @@
-Diplodina conformis Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Diplodina conformis Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

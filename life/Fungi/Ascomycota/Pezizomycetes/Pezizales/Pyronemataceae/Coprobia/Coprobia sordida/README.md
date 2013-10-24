@@ -1,5 +1,4 @@
-Coprobia sordida J. Moravec SPECIES
-=======
+# Coprobia sordida J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcyria olivaceoglobosa M.L. Farr, S.W. Chapm. & Mitchel, 1979 SPECIES
-=======
+# Arcyria olivaceoglobosa M.L. Farr, S.W. Chapm. & Mitchel, 1979 SPECIES
 
 #### Status
 ACCEPTED

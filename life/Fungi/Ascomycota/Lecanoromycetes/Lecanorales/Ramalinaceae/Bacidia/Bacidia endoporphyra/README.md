@@ -1,5 +1,4 @@
-Bacidia endoporphyra (Vain.) SPECIES
-=======
+# Bacidia endoporphyra (Vain.) SPECIES
 
 #### Status
 ACCEPTED

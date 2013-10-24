@@ -1,5 +1,4 @@
-Penicillium barabicum SPECIES
-=======
+# Penicillium barabicum SPECIES
 
 #### Status
 ACCEPTED

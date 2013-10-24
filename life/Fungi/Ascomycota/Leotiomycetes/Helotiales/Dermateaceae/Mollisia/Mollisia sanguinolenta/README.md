@@ -1,5 +1,4 @@
-Mollisia sanguinolenta (Alb. & Schwein.) Sacc. SPECIES
-=======
+# Mollisia sanguinolenta (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

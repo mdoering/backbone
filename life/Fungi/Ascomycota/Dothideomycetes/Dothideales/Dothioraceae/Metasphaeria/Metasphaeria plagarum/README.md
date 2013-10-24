@@ -1,5 +1,4 @@
-Metasphaeria plagarum (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Metasphaeria plagarum (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

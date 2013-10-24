@@ -1,5 +1,4 @@
-Roesleria crocata (Körb.) Sacc. SPECIES
-=======
+# Roesleria crocata (Körb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

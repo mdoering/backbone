@@ -1,5 +1,4 @@
-Mortierella cystojenkinii W. Gams & Veenb.-Rijks, 1976 SPECIES
-=======
+# Mortierella cystojenkinii W. Gams & Veenb.-Rijks, 1976 SPECIES
 
 #### Status
 ACCEPTED

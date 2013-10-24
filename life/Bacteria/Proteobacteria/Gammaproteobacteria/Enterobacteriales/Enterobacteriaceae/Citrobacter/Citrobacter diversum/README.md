@@ -1,5 +1,4 @@
-Citrobacter diversum SPECIES
-=======
+# Citrobacter diversum SPECIES
 
 #### Status
 ACCEPTED

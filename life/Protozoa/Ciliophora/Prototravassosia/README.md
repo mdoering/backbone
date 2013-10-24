@@ -1,5 +1,4 @@
-Prototravassosia GENUS
-=======
+# Prototravassosia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum muriforme (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Platystomum muriforme (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

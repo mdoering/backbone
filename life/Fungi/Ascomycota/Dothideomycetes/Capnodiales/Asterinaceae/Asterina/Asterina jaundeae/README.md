@@ -1,5 +1,4 @@
-Asterina jaundeae S. Hughes SPECIES
-=======
+# Asterina jaundeae S. Hughes SPECIES
 
 #### Status
 ACCEPTED

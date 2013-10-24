@@ -1,5 +1,4 @@
-Neosporidesmium microsporum W.P. Wu SPECIES
-=======
+# Neosporidesmium microsporum W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

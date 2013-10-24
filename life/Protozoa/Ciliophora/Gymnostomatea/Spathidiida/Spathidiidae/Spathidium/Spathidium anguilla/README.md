@@ -1,5 +1,4 @@
-Spathidium anguilla Vuxanovici, 1962 SPECIES
-=======
+# Spathidium anguilla Vuxanovici, 1962 SPECIES
 
 #### Status
 ACCEPTED

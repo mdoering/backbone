@@ -1,5 +1,4 @@
-Mitrula crispata Fr. SPECIES
-=======
+# Mitrula crispata Fr. SPECIES
 
 #### Status
 ACCEPTED

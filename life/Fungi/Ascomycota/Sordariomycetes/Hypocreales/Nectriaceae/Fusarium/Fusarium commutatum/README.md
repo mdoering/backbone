@@ -1,5 +1,4 @@
-Fusarium commutatum Sacc. SPECIES
-=======
+# Fusarium commutatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

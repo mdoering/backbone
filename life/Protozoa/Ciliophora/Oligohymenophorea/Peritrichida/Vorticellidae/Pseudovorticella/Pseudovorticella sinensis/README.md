@@ -1,5 +1,4 @@
-Pseudovorticella sinensis Ji, Song & Al-Rasheid, 2003 SPECIES
-=======
+# Pseudovorticella sinensis Ji, Song & Al-Rasheid, 2003 SPECIES
 
 #### Status
 ACCEPTED

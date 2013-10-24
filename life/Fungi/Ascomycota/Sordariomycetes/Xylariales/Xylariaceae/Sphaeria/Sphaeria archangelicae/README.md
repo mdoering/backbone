@@ -1,5 +1,4 @@
-Sphaeria archangelicae Lasch SPECIES
-=======
+# Sphaeria archangelicae Lasch SPECIES
 
 #### Status
 ACCEPTED

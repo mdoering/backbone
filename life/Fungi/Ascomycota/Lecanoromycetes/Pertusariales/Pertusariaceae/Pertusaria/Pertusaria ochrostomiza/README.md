@@ -1,5 +1,4 @@
-Pertusaria ochrostomiza Zahlbr. SPECIES
-=======
+# Pertusaria ochrostomiza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

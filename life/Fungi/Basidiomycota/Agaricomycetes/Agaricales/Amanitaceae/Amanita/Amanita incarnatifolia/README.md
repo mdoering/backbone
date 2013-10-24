@@ -1,5 +1,4 @@
-Amanita incarnatifolia Zhu L. Yang SPECIES
-=======
+# Amanita incarnatifolia Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

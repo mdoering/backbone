@@ -1,5 +1,4 @@
-Comasphaeridium lucasii (Valensi, 1953) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium lucasii (Valensi, 1953) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

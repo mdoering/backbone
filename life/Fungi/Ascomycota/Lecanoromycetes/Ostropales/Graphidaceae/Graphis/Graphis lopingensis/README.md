@@ -1,5 +1,4 @@
-Graphis lopingensis Zahlbr. SPECIES
-=======
+# Graphis lopingensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

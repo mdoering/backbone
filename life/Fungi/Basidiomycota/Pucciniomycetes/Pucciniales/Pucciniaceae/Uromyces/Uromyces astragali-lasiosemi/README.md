@@ -1,5 +1,4 @@
-Uromyces astragali-lasiosemi Vienn.-Bourg. SPECIES
-=======
+# Uromyces astragali-lasiosemi Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

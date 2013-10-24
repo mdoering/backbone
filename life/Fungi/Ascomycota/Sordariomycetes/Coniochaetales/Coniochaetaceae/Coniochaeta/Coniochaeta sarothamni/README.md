@@ -1,5 +1,4 @@
-Coniochaeta sarothamni (J. Schröt.) Arx & E. Müll. SPECIES
-=======
+# Coniochaeta sarothamni (J. Schröt.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

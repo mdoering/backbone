@@ -1,5 +1,4 @@
-Parmelia coilocarpina SPECIES
-=======
+# Parmelia coilocarpina SPECIES
 
 #### Status
 ACCEPTED

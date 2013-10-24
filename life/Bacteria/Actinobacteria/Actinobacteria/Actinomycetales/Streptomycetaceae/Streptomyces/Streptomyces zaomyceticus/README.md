@@ -1,5 +1,4 @@
-Streptomyces zaomyceticus Hinuma, 1954 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces zaomyceticus Hinuma, 1954 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

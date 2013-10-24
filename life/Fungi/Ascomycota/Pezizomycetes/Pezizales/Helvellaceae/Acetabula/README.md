@@ -1,5 +1,4 @@
-Acetabula GENUS
-=======
+# Acetabula GENUS
 
 #### Status
 ACCEPTED

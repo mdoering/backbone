@@ -1,5 +1,4 @@
-Sydowiellina bezerrae Bat. & Peres SPECIES
-=======
+# Sydowiellina bezerrae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

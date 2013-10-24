@@ -1,5 +1,4 @@
-Opegrapha subdiaphora Nyl. SPECIES
-=======
+# Opegrapha subdiaphora Nyl. SPECIES
 
 #### Status
 ACCEPTED

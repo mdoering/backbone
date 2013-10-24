@@ -1,5 +1,4 @@
-Trichosphaeria flavida Ellis & Everh. SPECIES
-=======
+# Trichosphaeria flavida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

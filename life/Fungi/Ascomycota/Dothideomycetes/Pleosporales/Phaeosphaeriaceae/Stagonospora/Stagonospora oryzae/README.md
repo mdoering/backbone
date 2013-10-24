@@ -1,5 +1,4 @@
-Stagonospora oryzae (Catt.) E. Castell. & Germano SPECIES
-=======
+# Stagonospora oryzae (Catt.) E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

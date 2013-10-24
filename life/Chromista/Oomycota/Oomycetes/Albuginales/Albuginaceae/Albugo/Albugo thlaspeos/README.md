@@ -1,5 +1,4 @@
-Albugo thlaspeos (Pers.) Sawada SPECIES
-=======
+# Albugo thlaspeos (Pers.) Sawada SPECIES
 
 #### Status
 ACCEPTED

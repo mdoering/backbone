@@ -1,5 +1,4 @@
-Leptosphaeria cacuminispora Fairm. SPECIES
-=======
+# Leptosphaeria cacuminispora Fairm. SPECIES
 
 #### Status
 ACCEPTED

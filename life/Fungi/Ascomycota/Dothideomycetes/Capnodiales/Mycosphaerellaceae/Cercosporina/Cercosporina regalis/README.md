@@ -1,5 +1,4 @@
-Cercosporina regalis (Tharp) Sacc. SPECIES
-=======
+# Cercosporina regalis (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

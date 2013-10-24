@@ -1,5 +1,4 @@
-Lecania poeltii van den Boom, Alonso & Egea SPECIES
-=======
+# Lecania poeltii van den Boom, Alonso & Egea SPECIES
 
 #### Status
 ACCEPTED

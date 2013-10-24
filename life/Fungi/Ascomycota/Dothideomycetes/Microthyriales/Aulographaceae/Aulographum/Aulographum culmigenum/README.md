@@ -1,5 +1,4 @@
-Aulographum culmigenum Ellis SPECIES
-=======
+# Aulographum culmigenum Ellis SPECIES
 
 #### Status
 ACCEPTED

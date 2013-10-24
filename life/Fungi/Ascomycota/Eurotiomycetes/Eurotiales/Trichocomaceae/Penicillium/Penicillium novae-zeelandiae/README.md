@@ -1,5 +1,4 @@
-Penicillium novae-zeelandiae J.F.H. Beyma, 1940 SPECIES
-=======
+# Penicillium novae-zeelandiae J.F.H. Beyma, 1940 SPECIES
 
 #### Status
 ACCEPTED

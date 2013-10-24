@@ -1,14 +1,13 @@
-Leptotrema inalbescens (Nyl.) Müll. Arg. SPECIES
-=======
+# Thelotrema inalbescens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 24: 199 (1892)
+Lich. Jap. 57 (1890)
 
 #### Original name
 Thelotrema inalbescens Nyl.

@@ -1,5 +1,4 @@
-Hyalodiscus simplex SPECIES
-=======
+# Hyalodiscus simplex SPECIES
 
 #### Status
 ACCEPTED

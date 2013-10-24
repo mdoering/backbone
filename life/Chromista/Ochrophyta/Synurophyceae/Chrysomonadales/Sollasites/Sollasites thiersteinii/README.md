@@ -1,5 +1,4 @@
-Sollasites thiersteinii M.V. Filewicz, F.H. Wind & S.W. Wise SPECIES
-=======
+# Sollasites thiersteinii M.V. Filewicz, F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

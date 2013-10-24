@@ -1,5 +1,4 @@
-Arthothelium nebulosum Müll. Arg. SPECIES
-=======
+# Arthothelium nebulosum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

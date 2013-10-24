@@ -1,5 +1,4 @@
-Entoloma pyrinum (Berk. & M.A. Curtis) Hesler SPECIES
-=======
+# Entoloma pyrinum (Berk. & M.A. Curtis) Hesler SPECIES
 
 #### Status
 ACCEPTED

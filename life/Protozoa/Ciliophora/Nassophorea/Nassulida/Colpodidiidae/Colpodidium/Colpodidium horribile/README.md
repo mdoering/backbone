@@ -1,5 +1,4 @@
-Colpodidium horribile Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Colpodidium horribile Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

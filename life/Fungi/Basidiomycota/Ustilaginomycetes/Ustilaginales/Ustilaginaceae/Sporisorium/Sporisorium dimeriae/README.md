@@ -1,5 +1,4 @@
-Sporisorium dimeriae (B.V. Patil & Thirum.) Vánky SPECIES
-=======
+# Sporisorium dimeriae (B.V. Patil & Thirum.) Vánky SPECIES
 
 #### Status
 ACCEPTED

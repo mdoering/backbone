@@ -1,5 +1,4 @@
-Bolivina vadescens SPECIES
-=======
+# Bolivina vadescens SPECIES
 
 #### Status
 ACCEPTED

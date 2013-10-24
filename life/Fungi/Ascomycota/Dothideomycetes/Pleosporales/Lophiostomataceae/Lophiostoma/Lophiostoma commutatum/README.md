@@ -1,5 +1,4 @@
-Lophiostoma commutatum Nitschke SPECIES
-=======
+# Lophiostoma commutatum Nitschke SPECIES
 
 #### Status
 ACCEPTED

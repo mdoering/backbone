@@ -1,5 +1,4 @@
-Puccinia crassipes Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia crassipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

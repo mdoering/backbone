@@ -1,5 +1,4 @@
-Leadbetterella Weon, Kim, Kwon, Park, Cha, Tindall, Stackebrandt, Truper & Go, 2005 GENUS
-=======
+# Leadbetterella Weon, Kim, Kwon, Park, Cha, Tindall, Stackebrandt, Truper & Go, 2005 GENUS
 
 #### Status
 ACCEPTED

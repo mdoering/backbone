@@ -1,5 +1,4 @@
-Diaporthe sordida Nitschke SPECIES
-=======
+# Diaporthe sordida Nitschke SPECIES
 
 #### Status
 ACCEPTED

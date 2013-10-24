@@ -1,5 +1,4 @@
-Uredo scalesiae Bonar SPECIES
-=======
+# Uredo scalesiae Bonar SPECIES
 
 #### Status
 ACCEPTED

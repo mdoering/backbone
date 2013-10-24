@@ -1,5 +1,4 @@
-Oidium anthemidis Thüm. SPECIES
-=======
+# Oidium anthemidis Thüm. SPECIES
 
 #### Status
 ACCEPTED

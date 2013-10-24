@@ -1,5 +1,4 @@
-Lecanora viridella Motyka SPECIES
-=======
+# Lecanora viridella Motyka SPECIES
 
 #### Status
 ACCEPTED

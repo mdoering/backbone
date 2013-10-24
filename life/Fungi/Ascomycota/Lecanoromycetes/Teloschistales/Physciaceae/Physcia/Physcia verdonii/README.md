@@ -1,5 +1,4 @@
-Physcia verdonii Elix SPECIES
-=======
+# Physcia verdonii Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus coriaceus Preuss SPECIES
-=======
+# Cantharellus coriaceus Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina bulliformis B.J. Rees SPECIES
-=======
+# Galerina bulliformis B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

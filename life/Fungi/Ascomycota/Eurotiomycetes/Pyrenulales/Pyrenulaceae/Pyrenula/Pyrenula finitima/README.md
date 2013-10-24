@@ -1,5 +1,4 @@
-Pyrenula finitima Müll. Arg. SPECIES
-=======
+# Pyrenula finitima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

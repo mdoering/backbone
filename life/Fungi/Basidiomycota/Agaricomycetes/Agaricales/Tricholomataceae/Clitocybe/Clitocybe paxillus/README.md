@@ -1,5 +1,4 @@
-Clitocybe paxillus Gulden SPECIES
-=======
+# Clitocybe paxillus Gulden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius laetabilis Herp. SPECIES
-=======
+# Cortinarius laetabilis Herp. SPECIES
 
 #### Status
 ACCEPTED

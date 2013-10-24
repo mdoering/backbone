@@ -1,5 +1,4 @@
-Vaucheria borealis Hirn SPECIES
-=======
+# Vaucheria borealis Hirn SPECIES
 
 #### Status
 ACCEPTED

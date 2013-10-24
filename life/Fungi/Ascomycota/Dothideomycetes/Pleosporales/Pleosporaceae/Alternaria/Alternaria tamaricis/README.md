@@ -1,5 +1,4 @@
-Alternaria tamaricis T.Y. Zhang SPECIES
-=======
+# Alternaria tamaricis T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthophycus Kützing, 1849 GENUS
-=======
+# Anthophycus Kützing, 1849 GENUS
 
 #### Status
 ACCEPTED

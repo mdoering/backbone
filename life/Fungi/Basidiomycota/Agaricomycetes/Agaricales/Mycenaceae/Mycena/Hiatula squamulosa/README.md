@@ -1,5 +1,4 @@
-Hiatula squamulosa Mont. SPECIES
-=======
+# Hiatula squamulosa Mont. SPECIES
 
 #### Status
 ACCEPTED

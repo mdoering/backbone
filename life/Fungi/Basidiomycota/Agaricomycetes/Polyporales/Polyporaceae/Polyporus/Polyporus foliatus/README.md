@@ -1,5 +1,4 @@
-Polyporus foliatus F. Ludw. SPECIES
-=======
+# Polyporus foliatus F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

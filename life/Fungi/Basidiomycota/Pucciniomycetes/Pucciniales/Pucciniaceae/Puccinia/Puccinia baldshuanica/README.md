@@ -1,5 +1,4 @@
-Puccinia baldshuanica Korbonsk. SPECIES
-=======
+# Puccinia baldshuanica Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

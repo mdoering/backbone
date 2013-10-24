@@ -1,5 +1,4 @@
-Phaeographis maeandrata (Kremp.) Zahlbr. SPECIES
-=======
+# Phaeographis maeandrata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

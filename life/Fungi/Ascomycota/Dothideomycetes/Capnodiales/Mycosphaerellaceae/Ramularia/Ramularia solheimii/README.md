@@ -1,5 +1,4 @@
-Ramularia solheimii U. Braun SPECIES
-=======
+# Ramularia solheimii U. Braun SPECIES
 
 #### Status
 ACCEPTED

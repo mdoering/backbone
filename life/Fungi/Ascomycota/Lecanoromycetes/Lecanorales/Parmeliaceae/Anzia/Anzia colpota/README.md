@@ -1,5 +1,4 @@
-Anzia colpota Vain. SPECIES
-=======
+# Anzia colpota Vain. SPECIES
 
 #### Status
 ACCEPTED

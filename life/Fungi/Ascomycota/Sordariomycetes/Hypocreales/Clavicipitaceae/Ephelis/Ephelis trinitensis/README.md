@@ -1,5 +1,4 @@
-Ephelis trinitensis Cooke & Massee SPECIES
-=======
+# Ephelis trinitensis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

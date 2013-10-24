@@ -1,5 +1,4 @@
-Ophiostoma verrucosum Gebhardt, R. Kirschner & Oberw. SPECIES
-=======
+# Ophiostoma verrucosum Gebhardt, R. Kirschner & Oberw. SPECIES
 
 #### Status
 ACCEPTED

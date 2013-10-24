@@ -1,5 +1,4 @@
-Coniothyrium ramalinae Vouaux SPECIES
-=======
+# Coniothyrium ramalinae Vouaux SPECIES
 
 #### Status
 ACCEPTED

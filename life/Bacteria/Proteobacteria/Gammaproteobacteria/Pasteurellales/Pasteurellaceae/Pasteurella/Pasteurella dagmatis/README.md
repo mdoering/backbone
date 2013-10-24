@@ -1,5 +1,4 @@
-Pasteurella dagmatis Mutters et al., 1985 SPECIES
-=======
+# Pasteurella dagmatis Mutters et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichomyces pterogenii Thaxt. SPECIES
-=======
+# Stichomyces pterogenii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

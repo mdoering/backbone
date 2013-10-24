@@ -1,5 +1,4 @@
-Arcangeliella camphorata (Singer & A.H. Sm.) Pegler & T.W.K. Young SPECIES
-=======
+# Arcangeliella camphorata (Singer & A.H. Sm.) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

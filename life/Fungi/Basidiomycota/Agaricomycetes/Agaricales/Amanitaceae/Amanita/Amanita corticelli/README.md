@@ -1,5 +1,4 @@
-Amanita corticelli (Valenti) L. Krieg. SPECIES
-=======
+# Amanita corticelli (Valenti) L. Krieg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrus berkeleyi W.R. Gerard SPECIES
-=======
+# Clathrus berkeleyi W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

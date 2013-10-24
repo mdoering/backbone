@@ -1,5 +1,4 @@
-Lecanora integrella (Schaer.) Motyka SPECIES
-=======
+# Lecanora integrella (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

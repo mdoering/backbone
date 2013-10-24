@@ -1,5 +1,4 @@
-Sphaeria lichenoides DC. SPECIES
-=======
+# Sphaeria lichenoides DC. SPECIES
 
 #### Status
 ACCEPTED

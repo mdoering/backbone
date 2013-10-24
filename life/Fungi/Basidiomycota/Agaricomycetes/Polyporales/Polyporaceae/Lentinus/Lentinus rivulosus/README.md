@@ -1,5 +1,4 @@
-Lentinus rivulosus (Berk.) Henn. SPECIES
-=======
+# Lentinus rivulosus (Berk.) Henn. SPECIES
 
 #### Status
 ACCEPTED

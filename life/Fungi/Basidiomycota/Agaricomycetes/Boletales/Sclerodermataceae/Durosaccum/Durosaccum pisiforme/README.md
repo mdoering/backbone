@@ -1,17 +1,16 @@
-Durosaccum pisoforme Lloyd SPECIES
-=======
+# Durosaccum pisiforme Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7: (1924)
 
 #### Original name
-Durosaccum pisoforme Lloyd
+Durosaccum pisiforme Lloyd
 
 ### Remarks
 null

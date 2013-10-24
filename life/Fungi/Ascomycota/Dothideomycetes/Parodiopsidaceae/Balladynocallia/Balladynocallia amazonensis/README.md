@@ -1,5 +1,4 @@
-Balladynocallia amazonensis Bat. & A.A. Silva, 1965 SPECIES
-=======
+# Balladynocallia amazonensis Bat. & A.A. Silva, 1965 SPECIES
 
 #### Status
 ACCEPTED

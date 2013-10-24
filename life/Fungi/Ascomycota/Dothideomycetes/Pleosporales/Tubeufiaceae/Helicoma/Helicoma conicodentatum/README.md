@@ -1,5 +1,4 @@
-Helicoma conicodentatum Linder SPECIES
-=======
+# Helicoma conicodentatum Linder SPECIES
 
 #### Status
 ACCEPTED

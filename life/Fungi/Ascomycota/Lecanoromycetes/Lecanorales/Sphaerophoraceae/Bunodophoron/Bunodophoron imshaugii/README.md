@@ -1,14 +1,13 @@
-Sphaerophorus imshaugii Ohlsson SPECIES
-=======
+# Bunodophoron imshaugii (Ohlsson) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Galloway, N. Z. Jl Bot. 21: 197 (1982)
+Pl. Syst. Evol. 187(1-4): 233 (1993)
 
 #### Original name
 Sphaerophorus imshaugii Ohlsson

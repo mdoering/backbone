@@ -1,5 +1,4 @@
-Sphaerella leptosphaerioides Auersw. SPECIES
-=======
+# Sphaerella leptosphaerioides Auersw. SPECIES
 
 #### Status
 ACCEPTED

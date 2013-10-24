@@ -1,5 +1,4 @@
-Bagotum Pessagno & Whalen, 1982 GENUS
-=======
+# Bagotum Pessagno & Whalen, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdomyces lobjoyi Balbiani, 1889 SPECIES
-=======
+# Rhabdomyces lobjoyi Balbiani, 1889 SPECIES
 
 #### Status
 ACCEPTED

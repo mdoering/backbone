@@ -1,5 +1,4 @@
-Mycena albidofusca Cleland SPECIES
-=======
+# Mycena albidofusca Cleland SPECIES
 
 #### Status
 ACCEPTED

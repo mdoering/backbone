@@ -1,5 +1,4 @@
-Gyrophora patagonica Räsänen SPECIES
-=======
+# Gyrophora patagonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

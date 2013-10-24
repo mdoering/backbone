@@ -1,5 +1,4 @@
-Wrightoporia porilacerata Log.-Leite, A.L. Gerber & Ryvarden, 1998 SPECIES
-=======
+# Wrightoporia porilacerata Log.-Leite, A.L. Gerber & Ryvarden, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aeromonadaceae FAMILY
-=======
+# Aeromonadaceae FAMILY
 
 #### Status
 ACCEPTED

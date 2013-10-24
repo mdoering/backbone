@@ -1,5 +1,4 @@
-Diplodia padi Brunaud SPECIES
-=======
+# Diplodia padi Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanephebe meylanii Frey SPECIES
-=======
+# Lecanephebe meylanii Frey SPECIES
 
 #### Status
 ACCEPTED

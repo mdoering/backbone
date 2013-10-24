@@ -1,5 +1,4 @@
-Diplodina physocaulis Bubák & Picb. SPECIES
-=======
+# Diplodina physocaulis Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

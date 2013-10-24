@@ -1,5 +1,4 @@
-Tubercularia macrozamiae Tassi SPECIES
-=======
+# Tubercularia macrozamiae Tassi SPECIES
 
 #### Status
 ACCEPTED

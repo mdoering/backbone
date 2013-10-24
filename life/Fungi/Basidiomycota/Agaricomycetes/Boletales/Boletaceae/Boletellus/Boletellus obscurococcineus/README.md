@@ -1,5 +1,4 @@
-Boletellus obscurococcineus (Höhn.) Singer SPECIES
-=======
+# Boletellus obscurococcineus (Höhn.) Singer SPECIES
 
 #### Status
 ACCEPTED

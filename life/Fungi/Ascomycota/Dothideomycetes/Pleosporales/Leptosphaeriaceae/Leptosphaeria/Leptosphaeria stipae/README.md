@@ -1,5 +1,4 @@
-Leptosphaeria stipae Trab. SPECIES
-=======
+# Leptosphaeria stipae Trab. SPECIES
 
 #### Status
 ACCEPTED

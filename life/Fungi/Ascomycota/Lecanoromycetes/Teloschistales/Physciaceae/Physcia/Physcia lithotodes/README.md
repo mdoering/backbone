@@ -1,5 +1,4 @@
-Physcia lithotodes f. lithotodes FORM
-=======
+# Physcia lithotodes Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 58: 360 (1875)
 
 #### Original name
-Physcia lithotodes f. lithotodes
+Physcia lithotodes Nyl.
 
 ### Remarks
 null

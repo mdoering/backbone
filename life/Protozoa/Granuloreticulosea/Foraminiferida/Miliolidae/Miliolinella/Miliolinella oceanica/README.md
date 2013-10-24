@@ -1,5 +1,4 @@
-Miliolinella oceanica (Cushman) SPECIES
-=======
+# Miliolinella oceanica (Cushman) SPECIES
 
 #### Status
 ACCEPTED

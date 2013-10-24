@@ -1,5 +1,4 @@
-Denitratisoma Fahrbach, Kuever, Meinke, Kampfer & Hollender, 2006 GENUS
-=======
+# Denitratisoma Fahrbach, Kuever, Meinke, Kampfer & Hollender, 2006 GENUS
 
 #### Status
 ACCEPTED

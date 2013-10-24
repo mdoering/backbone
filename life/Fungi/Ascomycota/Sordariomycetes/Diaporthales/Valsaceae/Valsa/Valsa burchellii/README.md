@@ -1,5 +1,4 @@
-Valsa burchellii Cooke SPECIES
-=======
+# Valsa burchellii Cooke SPECIES
 
 #### Status
 ACCEPTED

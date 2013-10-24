@@ -1,5 +1,4 @@
-Xanthoparmelia arida Egan & Derstine SPECIES
-=======
+# Xanthoparmelia arida Egan & Derstine SPECIES
 
 #### Status
 ACCEPTED

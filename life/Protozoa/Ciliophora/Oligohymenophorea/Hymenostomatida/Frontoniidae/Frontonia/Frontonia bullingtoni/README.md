@@ -1,5 +1,4 @@
-Frontonia bullingtoni Dragesco, 1960 SPECIES
-=======
+# Frontonia bullingtoni Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

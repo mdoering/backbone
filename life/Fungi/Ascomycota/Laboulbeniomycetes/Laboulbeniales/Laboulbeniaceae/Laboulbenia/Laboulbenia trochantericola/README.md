@@ -1,5 +1,4 @@
-Laboulbenia trochantericola K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia trochantericola K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronoplasmopara actiniostemmae Sawada SPECIES
-=======
+# Peronoplasmopara actiniostemmae Sawada SPECIES
 
 #### Status
 ACCEPTED

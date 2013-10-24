@@ -1,5 +1,4 @@
-Eucollema pulposum SPECIES
-=======
+# Eucollema pulposum SPECIES
 
 #### Status
 ACCEPTED

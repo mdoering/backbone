@@ -1,5 +1,4 @@
-Manivitella H.R. Thierstein, 1971 GENUS
-=======
+# Manivitella H.R. Thierstein, 1971 GENUS
 
 #### Status
 ACCEPTED

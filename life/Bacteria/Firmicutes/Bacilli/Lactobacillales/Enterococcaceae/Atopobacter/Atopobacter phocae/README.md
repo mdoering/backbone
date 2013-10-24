@@ -1,5 +1,4 @@
-Atopobacter phocae Lawson et al., 2000 SPECIES
-=======
+# Atopobacter phocae Lawson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

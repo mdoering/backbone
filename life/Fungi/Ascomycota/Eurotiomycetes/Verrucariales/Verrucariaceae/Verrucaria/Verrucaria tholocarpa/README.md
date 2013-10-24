@@ -1,5 +1,4 @@
-Verrucaria tholocarpa P. M. McCarthy SPECIES
-=======
+# Verrucaria tholocarpa P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

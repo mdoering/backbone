@@ -1,8 +1,7 @@
-Asterina epilobii Desm., 1857 SPECIES
-=======
+# Venturia epilobii (Desm.) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

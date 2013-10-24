@@ -1,5 +1,4 @@
-Gloeotulasnella vernicosa (Bourdot & Galzin) SPECIES
-=======
+# Gloeotulasnella vernicosa (Bourdot & Galzin) SPECIES
 
 #### Status
 ACCEPTED

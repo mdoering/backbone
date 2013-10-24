@@ -1,5 +1,4 @@
-Polyporus radiculosus House SPECIES
-=======
+# Polyporus radiculosus House SPECIES
 
 #### Status
 ACCEPTED

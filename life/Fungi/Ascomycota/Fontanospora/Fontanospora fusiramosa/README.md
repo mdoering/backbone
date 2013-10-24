@@ -1,5 +1,4 @@
-Fontanospora fusiramosa Marvanová, Peter J. Fisher & Descals, 1997 SPECIES
-=======
+# Fontanospora fusiramosa Marvanová, Peter J. Fisher & Descals, 1997 SPECIES
 
 #### Status
 ACCEPTED

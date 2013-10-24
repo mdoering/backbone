@@ -1,5 +1,4 @@
-Hyella gigas Lukas & Golubic SPECIES
-=======
+# Hyella gigas Lukas & Golubic SPECIES
 
 #### Status
 ACCEPTED

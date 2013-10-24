@@ -1,5 +1,4 @@
-Sphaeronaema oryzae I. Miyake SPECIES
-=======
+# Sphaeronaema oryzae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

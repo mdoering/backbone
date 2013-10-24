@@ -1,5 +1,4 @@
-Humaria cupularis Fuckel SPECIES
-=======
+# Humaria cupularis Fuckel SPECIES
 
 #### Status
 ACCEPTED

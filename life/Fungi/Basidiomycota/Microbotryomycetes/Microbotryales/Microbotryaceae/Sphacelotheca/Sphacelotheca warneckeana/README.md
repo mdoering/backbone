@@ -1,5 +1,4 @@
-Sphacelotheca warneckeana (Henn.) Zundel SPECIES
-=======
+# Sphacelotheca warneckeana (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

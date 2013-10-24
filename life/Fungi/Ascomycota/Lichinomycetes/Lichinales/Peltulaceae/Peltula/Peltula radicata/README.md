@@ -1,14 +1,13 @@
-Heppia radicata (Nyl.) Vain. SPECIES
-=======
+# Peltula radicata Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 20: 316 (1853)
 
 #### Original name
 Peltula radicata Nyl.

@@ -1,5 +1,4 @@
-Cylindrosporium cercosporoides Ellis & Everh. SPECIES
-=======
+# Cylindrosporium cercosporoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

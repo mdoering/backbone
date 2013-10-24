@@ -1,5 +1,4 @@
-Capronia triseptata (Diederich) Etayo SPECIES
-=======
+# Capronia triseptata (Diederich) Etayo SPECIES
 
 #### Status
 ACCEPTED

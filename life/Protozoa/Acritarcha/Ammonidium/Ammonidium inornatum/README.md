@@ -1,5 +1,4 @@
-Ammonidium inornatum Colbath, 1990 SPECIES
-=======
+# Ammonidium inornatum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

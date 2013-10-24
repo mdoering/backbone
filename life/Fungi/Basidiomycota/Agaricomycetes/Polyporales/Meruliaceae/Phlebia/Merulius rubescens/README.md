@@ -1,5 +1,4 @@
-Merulius rubescens Raf. SPECIES
-=======
+# Merulius rubescens Raf. SPECIES
 
 #### Status
 ACCEPTED

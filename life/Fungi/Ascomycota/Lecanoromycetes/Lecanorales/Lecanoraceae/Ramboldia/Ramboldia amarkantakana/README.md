@@ -1,5 +1,4 @@
-Ramboldia amarkantakana Upreti & Nayaka SPECIES
-=======
+# Ramboldia amarkantakana Upreti & Nayaka SPECIES
 
 #### Status
 ACCEPTED

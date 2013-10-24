@@ -1,5 +1,4 @@
-Spiropes congestus (Berk. & Broome) M.B. Ellis SPECIES
-=======
+# Spiropes congestus (Berk. & Broome) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

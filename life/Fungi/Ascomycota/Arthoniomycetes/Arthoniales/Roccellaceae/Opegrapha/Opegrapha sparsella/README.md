@@ -1,5 +1,4 @@
-Opegrapha sparsella Müll. Arg. SPECIES
-=======
+# Opegrapha sparsella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

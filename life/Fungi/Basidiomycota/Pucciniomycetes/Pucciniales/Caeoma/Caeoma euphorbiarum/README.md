@@ -1,5 +1,4 @@
-Caeoma euphorbiarum Link SPECIES
-=======
+# Caeoma euphorbiarum Link SPECIES
 
 #### Status
 ACCEPTED

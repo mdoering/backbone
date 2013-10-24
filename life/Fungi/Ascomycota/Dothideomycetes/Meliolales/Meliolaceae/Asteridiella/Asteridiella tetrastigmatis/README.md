@@ -1,5 +1,4 @@
-Asteridiella tetrastigmatis Petr. SPECIES
-=======
+# Asteridiella tetrastigmatis Petr. SPECIES
 
 #### Status
 ACCEPTED

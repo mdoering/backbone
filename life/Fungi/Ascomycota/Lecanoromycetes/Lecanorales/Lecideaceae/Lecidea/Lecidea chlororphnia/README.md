@@ -1,5 +1,4 @@
-Lecidea chlororphnia Tuck. SPECIES
-=======
+# Lecidea chlororphnia Tuck. SPECIES
 
 #### Status
 ACCEPTED

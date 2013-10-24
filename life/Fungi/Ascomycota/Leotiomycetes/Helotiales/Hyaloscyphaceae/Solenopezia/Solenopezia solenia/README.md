@@ -1,14 +1,13 @@
-Lachnella solenia (Sacc.) Seaver, 1951 SPECIES
-=======
+# Solenopezia solenia Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 477 (1889)
 
 #### Original name
 null

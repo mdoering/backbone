@@ -1,5 +1,4 @@
-Hispidula dicksoniae (G.W. Beaton & Weste) P.R. Johnst., 2003 SPECIES
-=======
+# Hispidula dicksoniae (G.W. Beaton & Weste) P.R. Johnst., 2003 SPECIES
 
 #### Status
 ACCEPTED

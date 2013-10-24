@@ -1,5 +1,4 @@
-Buerenia myrrhidendri Döbbeler SPECIES
-=======
+# Buerenia myrrhidendri Döbbeler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hysterium magnosporum W.R. Gerard SPECIES
-=======
+# Hysterium magnisporum W.R. Gerard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 4(12): 64 (1873)
 
 #### Original name
-Hysterium magnosporum W.R. Gerard
+Hysterium magnisporum W.R. Gerard
 
 ### Remarks
 null

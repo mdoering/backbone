@@ -1,5 +1,4 @@
-Cercospora corniculatae Hansf. SPECIES
-=======
+# Cercospora corniculatae Hansf. SPECIES
 
 #### Status
 ACCEPTED

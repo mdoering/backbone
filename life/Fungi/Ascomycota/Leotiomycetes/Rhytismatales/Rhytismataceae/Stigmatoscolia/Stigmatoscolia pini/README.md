@@ -1,5 +1,4 @@
-Stigmatoscolia pini Bat. & Peres SPECIES
-=======
+# Stigmatoscolia pini Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

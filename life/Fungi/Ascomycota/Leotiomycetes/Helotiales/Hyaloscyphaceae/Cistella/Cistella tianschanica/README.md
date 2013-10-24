@@ -1,5 +1,4 @@
-Cistella tianschanica Raitv. SPECIES
-=======
+# Cistella tianschanica Raitv. SPECIES
 
 #### Status
 ACCEPTED

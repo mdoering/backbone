@@ -1,5 +1,4 @@
-Agaricus streptopus var. orthopus Pers. VARIETY
-=======
+# Agaricus streptopus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycol. eur. (Erlanga) 3: 83 (1828)
+null
 
 #### Original name
-Agaricus streptopus var. orthopus Pers.
+Agaricus streptopus Pers.
 
 ### Remarks
 null

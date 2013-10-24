@@ -1,5 +1,4 @@
-Phlogicylindrium eucalyptorum Crous, 2007 SPECIES
-=======
+# Phlogicylindrium eucalyptorum Crous, 2007 SPECIES
 
 #### Status
 ACCEPTED

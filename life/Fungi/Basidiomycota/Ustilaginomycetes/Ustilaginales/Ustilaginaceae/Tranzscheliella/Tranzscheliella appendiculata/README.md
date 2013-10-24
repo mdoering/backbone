@@ -1,8 +1,7 @@
-Ustilago appendiculata Speg., 1909 SPECIES
-=======
+# Tranzscheliella appendiculata (Speg.) Lavrov, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Graphis pruninata (Webber & D. Mohr) Zahlbr. SPECIES
-=======
+# Graphis pruninata (Webber & D. Mohr) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

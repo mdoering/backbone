@@ -1,5 +1,4 @@
-Mycoderma lactis Dombrowski SPECIES
-=======
+# Mycoderma lactis Dombrowski SPECIES
 
 #### Status
 ACCEPTED

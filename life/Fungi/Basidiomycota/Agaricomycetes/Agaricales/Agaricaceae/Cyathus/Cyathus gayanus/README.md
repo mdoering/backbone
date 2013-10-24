@@ -1,5 +1,4 @@
-Cyathus gayanus Tul. & C. Tul. SPECIES
-=======
+# Cyathus gayanus Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

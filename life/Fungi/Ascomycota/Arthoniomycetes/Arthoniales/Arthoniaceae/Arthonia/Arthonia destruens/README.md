@@ -1,5 +1,4 @@
-Arthonia destruens Rabenh. SPECIES
-=======
+# Arthonia destruens Rabenh. SPECIES
 
 #### Status
 ACCEPTED

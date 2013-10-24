@@ -1,5 +1,4 @@
-Lecidea butuana Vain. SPECIES
-=======
+# Lecidea butuana Vain. SPECIES
 
 #### Status
 ACCEPTED

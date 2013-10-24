@@ -1,5 +1,4 @@
-Dicaeoma montagnei (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma montagnei (De Toni) Kuntze SPECIES
 
 #### Status
 ACCEPTED

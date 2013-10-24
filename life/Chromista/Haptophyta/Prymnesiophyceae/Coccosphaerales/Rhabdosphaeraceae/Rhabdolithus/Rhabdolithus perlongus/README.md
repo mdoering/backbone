@@ -1,5 +1,4 @@
-Rhabdolithus perlongus Deflandre in Grassé, 1952 SPECIES
-=======
+# Rhabdolithus perlongus Deflandre in Grassé, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum leucophaeum (Pers.) Bon SPECIES
-=======
+# Leccinum leucophaeum (Pers.) Bon SPECIES
 
 #### Status
 ACCEPTED

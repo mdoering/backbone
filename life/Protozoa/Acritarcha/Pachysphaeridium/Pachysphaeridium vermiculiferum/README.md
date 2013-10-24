@@ -1,5 +1,4 @@
-Pachysphaeridium vermiculiferum Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium vermiculiferum Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola miconiae F. Stevens SPECIES
-=======
+# Meliola miconiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

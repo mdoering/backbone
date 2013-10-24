@@ -1,5 +1,4 @@
-Lecanora caesioalutacea H. Magn. SPECIES
-=======
+# Lecanora caesioalutacea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

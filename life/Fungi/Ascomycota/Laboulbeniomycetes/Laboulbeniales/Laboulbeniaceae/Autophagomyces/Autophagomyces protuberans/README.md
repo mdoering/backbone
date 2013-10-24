@@ -1,5 +1,4 @@
-Autophagomyces protuberans R.K. Benj. SPECIES
-=======
+# Autophagomyces protuberans R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

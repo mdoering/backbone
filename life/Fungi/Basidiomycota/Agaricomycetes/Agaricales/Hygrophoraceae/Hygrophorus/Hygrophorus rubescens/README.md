@@ -1,5 +1,4 @@
-Hygrophorus rubescens Beck SPECIES
-=======
+# Hygrophorus rubescens Beck SPECIES
 
 #### Status
 ACCEPTED

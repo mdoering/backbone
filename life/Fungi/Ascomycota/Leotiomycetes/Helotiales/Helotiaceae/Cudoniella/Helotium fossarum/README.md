@@ -1,5 +1,4 @@
-Helotium fossarum Velen. SPECIES
-=======
+# Helotium fossarum Velen. SPECIES
 
 #### Status
 ACCEPTED

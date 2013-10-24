@@ -1,5 +1,4 @@
-Stigmina dothideoides (Ellis & Everh.) M.B. Ellis SPECIES
-=======
+# Stigmina dothideoides (Ellis & Everh.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

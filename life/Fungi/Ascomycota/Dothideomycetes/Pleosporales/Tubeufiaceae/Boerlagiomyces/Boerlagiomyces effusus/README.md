@@ -1,5 +1,4 @@
-Boerlagiomyces effusus (Syd., P. Syd. & E.J. Butler) J.L. Crane, Shearer & M.E. Barr SPECIES
-=======
+# Boerlagiomyces effusus (Syd., P. Syd. & E.J. Butler) J.L. Crane, Shearer & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

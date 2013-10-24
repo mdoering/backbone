@@ -1,5 +1,4 @@
-Phyllosticta talisiae Bat. SPECIES
-=======
+# Phyllosticta talisiae Bat. SPECIES
 
 #### Status
 ACCEPTED

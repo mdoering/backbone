@@ -1,5 +1,4 @@
-Hiatulopsis aureoflava Singer, 1989 SPECIES
-=======
+# Hiatulopsis aureoflava Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

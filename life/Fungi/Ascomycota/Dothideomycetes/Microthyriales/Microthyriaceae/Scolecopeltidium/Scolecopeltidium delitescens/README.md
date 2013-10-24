@@ -1,5 +1,4 @@
-Scolecopeltidium delitescens (Bat.) Bat. SPECIES
-=======
+# Scolecopeltidium delitescens (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

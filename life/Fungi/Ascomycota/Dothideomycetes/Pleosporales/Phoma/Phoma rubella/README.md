@@ -1,5 +1,4 @@
-Phoma rubella Cooke, 1885 SPECIES
-=======
+# Phoma rubella Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Keissleriella sambucina (Rehm) Höhn., 1919 SPECIES
-=======
+# Keissleriella sambucina (Rehm) Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED

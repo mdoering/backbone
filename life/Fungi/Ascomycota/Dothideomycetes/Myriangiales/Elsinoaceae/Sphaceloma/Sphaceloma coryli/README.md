@@ -1,5 +1,4 @@
-Sphaceloma coryli Vegh & M. Bourgeois, 1976 SPECIES
-=======
+# Sphaceloma coryli Vegh & M. Bourgeois, 1976 SPECIES
 
 #### Status
 ACCEPTED

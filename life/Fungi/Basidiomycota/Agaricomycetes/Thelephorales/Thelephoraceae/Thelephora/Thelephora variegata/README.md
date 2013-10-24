@@ -1,5 +1,4 @@
-Thelephora variegata Schrad. ex J.F. Gmel. SPECIES
-=======
+# Thelephora variegata Schrad. ex J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

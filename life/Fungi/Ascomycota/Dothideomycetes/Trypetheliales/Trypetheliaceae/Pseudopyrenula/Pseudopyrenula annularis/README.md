@@ -1,5 +1,4 @@
-Pseudopyrenula annularis var. annularis VARIETY
-=======
+# Pseudopyrenula annularis (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudopyrenula annularis var. annularis
+Pyrenula annularis Fée
 
 ### Remarks
 null

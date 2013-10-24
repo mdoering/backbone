@@ -1,5 +1,4 @@
-Helenea conus SPECIES
-=======
+# Helenea conus SPECIES
 
 #### Status
 ACCEPTED

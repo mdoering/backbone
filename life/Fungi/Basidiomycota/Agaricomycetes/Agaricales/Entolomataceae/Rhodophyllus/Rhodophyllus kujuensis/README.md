@@ -1,5 +1,4 @@
-Rhodophyllus kujuensis Hongo SPECIES
-=======
+# Rhodophyllus kujuensis Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Evittia sommeri Brito, 1967 SPECIES
-=======
+# Evittia sommeri Brito, 1967 SPECIES
 
 #### Status
 ACCEPTED

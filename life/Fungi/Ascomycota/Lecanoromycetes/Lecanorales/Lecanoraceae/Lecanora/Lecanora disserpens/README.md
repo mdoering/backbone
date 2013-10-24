@@ -1,5 +1,4 @@
-Lecanora disserpens (Zahlbr.) H. Magn. SPECIES
-=======
+# Lecanora disserpens (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

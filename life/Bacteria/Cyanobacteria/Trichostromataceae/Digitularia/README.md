@@ -1,5 +1,4 @@
-Digitularia Vologdin GENUS
-=======
+# Digitularia Vologdin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodia destructor (Schrad.) Teixeira SPECIES
-=======
+# Antrodia destructor (Schrad.) Teixeira SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma lunulatospora Wehm. SPECIES
-=======
+# Phoma lunulatospora Wehm. SPECIES
 
 #### Status
 ACCEPTED

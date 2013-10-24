@@ -1,5 +1,4 @@
-Acanthoceras magdeburgense Honigmann SPECIES
-=======
+# Acanthoceras magdeburgense Honigmann SPECIES
 
 #### Status
 ACCEPTED

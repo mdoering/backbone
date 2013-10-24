@@ -1,5 +1,4 @@
-Botryoderma Papendorf & H.P. Upadhyay GENUS
-=======
+# Botryoderma Papendorf & H.P. Upadhyay GENUS
 
 #### Status
 ACCEPTED

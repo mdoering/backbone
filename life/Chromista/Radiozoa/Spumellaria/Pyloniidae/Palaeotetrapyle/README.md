@@ -1,5 +1,4 @@
-Palaeotetrapyle Dumitrica, 1988 GENUS
-=======
+# Palaeotetrapyle Dumitrica, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella staritzii Rehm SPECIES
-=======
+# Lachnella staritzii Rehm SPECIES
 
 #### Status
 ACCEPTED

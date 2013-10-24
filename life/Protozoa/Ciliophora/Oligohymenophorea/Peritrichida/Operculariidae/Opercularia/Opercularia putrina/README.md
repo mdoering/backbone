@@ -1,5 +1,4 @@
-Opercularia putrina Shubernetzki, 1978 SPECIES
-=======
+# Opercularia putrina Shubernetzki, 1978 SPECIES
 
 #### Status
 ACCEPTED

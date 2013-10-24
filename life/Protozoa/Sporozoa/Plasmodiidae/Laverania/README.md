@@ -1,5 +1,4 @@
-Laverania Grassi & Feletti, 1890 GENUS
-=======
+# Laverania Grassi & Feletti, 1890 GENUS
 
 #### Status
 ACCEPTED

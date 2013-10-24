@@ -1,5 +1,4 @@
-Nectriella arenula (Berk. & Broome) SPECIES
-=======
+# Nectriella arenula (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

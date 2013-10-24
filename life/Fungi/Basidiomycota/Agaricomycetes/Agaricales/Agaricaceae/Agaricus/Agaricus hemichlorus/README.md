@@ -1,17 +1,16 @@
-Agaricus hemichlora Berk. & Broome SPECIES
-=======
+# Agaricus hemichlorus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 11(no. 56): 511 (1871)
 
 #### Original name
-Agaricus hemichlora Berk. & Broome
+Agaricus hemichlorus Berk. & Broome
 
 ### Remarks
 null

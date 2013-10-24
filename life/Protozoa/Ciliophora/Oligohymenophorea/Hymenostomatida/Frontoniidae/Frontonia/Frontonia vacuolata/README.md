@@ -1,5 +1,4 @@
-Frontonia vacuolata Dragesco, 1960 SPECIES
-=======
+# Frontonia vacuolata Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma echinellum Philimonova & Pisareva SPECIES
-=======
+# Tulostoma echinellum Philimonova & Pisareva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterocineta GENUS
-=======
+# Heterocineta GENUS
 
 #### Status
 ACCEPTED

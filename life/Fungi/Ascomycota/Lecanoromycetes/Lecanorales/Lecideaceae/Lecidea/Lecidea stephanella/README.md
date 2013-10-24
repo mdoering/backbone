@@ -1,5 +1,4 @@
-Lecidea stephanella Nyl. SPECIES
-=======
+# Lecidea stephanella Nyl. SPECIES
 
 #### Status
 ACCEPTED

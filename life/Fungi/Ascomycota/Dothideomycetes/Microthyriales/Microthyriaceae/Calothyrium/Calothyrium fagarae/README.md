@@ -1,5 +1,4 @@
-Calothyrium fagarae Sawada & W. Yamam. SPECIES
-=======
+# Calothyrium fagarae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

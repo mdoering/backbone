@@ -1,5 +1,4 @@
-Acremonium muthuonii Fontoyn. & H. Bouchet SPECIES
-=======
+# Acremonium muthuonii Fontoyn. & H. Bouchet SPECIES
 
 #### Status
 ACCEPTED

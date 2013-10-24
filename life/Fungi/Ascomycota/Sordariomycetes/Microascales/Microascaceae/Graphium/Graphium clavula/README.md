@@ -1,5 +1,4 @@
-Graphium clavula (Berk. & Broome) Sacc. SPECIES
-=======
+# Graphium clavula (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

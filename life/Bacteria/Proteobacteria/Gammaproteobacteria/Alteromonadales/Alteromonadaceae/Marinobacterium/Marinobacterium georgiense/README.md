@@ -1,5 +1,4 @@
-Marinobacterium georgiense González et al., 1997 SPECIES
-=======
+# Marinobacterium georgiense González et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus servatus Britzelm. SPECIES
-=======
+# Agaricus servatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

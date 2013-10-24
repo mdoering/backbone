@@ -1,5 +1,4 @@
-Rhizopogon borealis P. Karst. SPECIES
-=======
+# Rhizopogon borealis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

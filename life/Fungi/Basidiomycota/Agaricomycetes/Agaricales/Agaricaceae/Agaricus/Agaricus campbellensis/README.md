@@ -1,5 +1,4 @@
-Agaricus campbellensis Geml, Laursen & D.Lee Taylor, 2007 SPECIES
-=======
+# Agaricus campbellensis Geml, Laursen & D.Lee Taylor, 2007 SPECIES
 
 #### Status
 ACCEPTED

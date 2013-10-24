@@ -1,5 +1,4 @@
-Epidochium rigidum (Bonord.) Sacc. SPECIES
-=======
+# Epidochium rigidum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

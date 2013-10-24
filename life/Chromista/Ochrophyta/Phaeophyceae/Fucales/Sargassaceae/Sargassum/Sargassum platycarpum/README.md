@@ -1,5 +1,4 @@
-Sargassum platycarpum Montagne SPECIES
-=======
+# Sargassum platycarpum Montagne SPECIES
 
 #### Status
 ACCEPTED

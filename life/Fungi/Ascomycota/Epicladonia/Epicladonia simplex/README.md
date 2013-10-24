@@ -1,5 +1,4 @@
-Epicladonia simplex D. Hawksw., 1981 SPECIES
-=======
+# Epicladonia simplex D. Hawksw., 1981 SPECIES
 
 #### Status
 ACCEPTED

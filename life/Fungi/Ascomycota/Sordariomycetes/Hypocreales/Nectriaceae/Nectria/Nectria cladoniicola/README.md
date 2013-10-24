@@ -1,5 +1,4 @@
-Nectria cladoniicola Alstrup & Svane SPECIES
-=======
+# Nectria cladoniicola Alstrup & Svane SPECIES
 
 #### Status
 ACCEPTED

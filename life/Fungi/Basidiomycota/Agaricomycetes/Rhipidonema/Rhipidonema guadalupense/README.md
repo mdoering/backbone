@@ -1,5 +1,4 @@
-Rhipidonema guadalupense (Rabenh.) Sacc. SPECIES
-=======
+# Rhipidonema guadalupense (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

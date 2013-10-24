@@ -1,17 +1,16 @@
-Meliola sarcostigmae Hosag. SPECIES
-=======
+# Meliola sarcostigmatis Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Goos, Mycotaxon 37: 246 (1990)
 
 #### Original name
-Meliola sarcostigmae Hosag.
+Meliola sarcostigmatis Hosag.
 
 ### Remarks
 null

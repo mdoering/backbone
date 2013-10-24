@@ -1,5 +1,4 @@
-Diplodina cichorii Hollós SPECIES
-=======
+# Diplodina cichorii Hollós SPECIES
 
 #### Status
 ACCEPTED

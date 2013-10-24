@@ -1,5 +1,4 @@
-Aplosporella pilocarpi Speg. SPECIES
-=======
+# Aplosporella pilocarpi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Panellus longinquus subsp. longinquus (Berk.) Singer SUBSPECIES
-=======
+# Pleurotopsis longinqua (Berk.) E. Horak, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5(3-6): 471 (1951)
+Aust. J. Bot. , Suppl. Ser. 10: 7 (1983)
 
 #### Original name
-Panellus longinquus subsp. longinquus (Berk.) Singer
+Agaricus longinquus Berk., 1847
 
 ### Remarks
 null

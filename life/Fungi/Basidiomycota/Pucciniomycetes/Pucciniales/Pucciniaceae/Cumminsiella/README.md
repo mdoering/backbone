@@ -1,5 +1,4 @@
-Cumminsiella Arthur, 1933 GENUS
-=======
+# Cumminsiella Arthur, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachyoligotriletes rugosus Timofeev, 1959 ex Fensome et al., 1990 SPECIES
-=======
+# Trachyoligotriletes rugosus Timofeev, 1959 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

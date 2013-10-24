@@ -1,5 +1,4 @@
-Ureaplasma cati Harasawa et al., 1990 SPECIES
-=======
+# Ureaplasma cati Harasawa et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

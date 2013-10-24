@@ -1,5 +1,4 @@
-Cryptosporium conicum Bonord. SPECIES
-=======
+# Cryptosporium conicum Bonord. SPECIES
 
 #### Status
 ACCEPTED

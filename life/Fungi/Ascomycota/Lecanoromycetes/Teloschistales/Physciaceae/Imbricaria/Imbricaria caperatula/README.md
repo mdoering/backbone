@@ -1,5 +1,4 @@
-Imbricaria caperatula (Nyl.) Jatta SPECIES
-=======
+# Imbricaria caperatula (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

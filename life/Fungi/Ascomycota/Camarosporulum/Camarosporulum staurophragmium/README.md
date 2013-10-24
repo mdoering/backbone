@@ -1,5 +1,4 @@
-Camarosporulum staurophragmium (Tassi) Tassi SPECIES
-=======
+# Camarosporulum staurophragmium (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

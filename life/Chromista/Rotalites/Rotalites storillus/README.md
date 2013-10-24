@@ -1,5 +1,4 @@
-Rotalites storillus Blainville, 1824 SPECIES
-=======
+# Rotalites storillus Blainville, 1824 SPECIES
 
 #### Status
 ACCEPTED

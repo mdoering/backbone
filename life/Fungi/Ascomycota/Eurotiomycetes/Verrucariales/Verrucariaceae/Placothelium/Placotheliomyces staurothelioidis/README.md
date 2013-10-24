@@ -1,5 +1,4 @@
-Placotheliomyces staurothelioidis Cif. & Tomas. SPECIES
-=======
+# Placotheliomyces staurothelioidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

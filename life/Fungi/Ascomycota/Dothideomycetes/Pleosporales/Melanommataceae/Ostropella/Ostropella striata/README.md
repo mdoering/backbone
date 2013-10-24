@@ -1,5 +1,4 @@
-Ostropella striata Huhndorf SPECIES
-=======
+# Ostropella striata Huhndorf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peniophora setigera var. setigera VARIETY
-=======
+# Hyphoderma setigerum (Fr.) Donk, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 4(3): 289 (1906)
+Fungus, Wageningen 27: 15 (1957)
 
 #### Original name
-Peniophora setigera var. setigera
+Thelephora setigera Fr., 1828
 
 ### Remarks
 null

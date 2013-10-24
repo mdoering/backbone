@@ -1,5 +1,4 @@
-Pseudidiomarina taiwanensis Jean et al., 2006 SPECIES
-=======
+# Pseudidiomarina taiwanensis Jean et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

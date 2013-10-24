@@ -1,5 +1,4 @@
-Graphina nitidescens (Nyl.) Riddle SPECIES
-=======
+# Graphina nitidescens (Nyl.) Riddle SPECIES
 
 #### Status
 ACCEPTED

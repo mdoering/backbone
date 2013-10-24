@@ -1,5 +1,4 @@
-Linopeltis ryukyuensis I. Hino & Katum., 1961 SPECIES
-=======
+# Linopeltis ryukyuensis I. Hino & Katum., 1961 SPECIES
 
 #### Status
 ACCEPTED

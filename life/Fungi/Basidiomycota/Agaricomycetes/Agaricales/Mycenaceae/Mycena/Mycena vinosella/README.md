@@ -1,5 +1,4 @@
-Mycena vinosella Speg. SPECIES
-=======
+# Mycena vinosella Speg. SPECIES
 
 #### Status
 ACCEPTED

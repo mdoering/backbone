@@ -1,5 +1,4 @@
-Carnobacteriaceae FAMILY
-=======
+# Carnobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

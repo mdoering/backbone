@@ -1,5 +1,4 @@
-Pleuropus albogriseus (Peck) Murrill SPECIES
-=======
+# Pleuropus albogriseus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thozetellopsis GENUS
-=======
+# Thozetellopsis GENUS
 
 #### Status
 ACCEPTED

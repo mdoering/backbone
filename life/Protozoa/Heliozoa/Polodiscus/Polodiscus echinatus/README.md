@@ -1,5 +1,4 @@
-Polodiscus echinatus Tan & Su SPECIES
-=======
+# Polodiscus echinatus Tan & Su SPECIES
 
 #### Status
 ACCEPTED

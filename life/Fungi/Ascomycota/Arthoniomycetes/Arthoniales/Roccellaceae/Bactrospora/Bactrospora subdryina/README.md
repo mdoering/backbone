@@ -1,5 +1,4 @@
-Bactrospora subdryina Sparrius, Saipunkaew & Wolseley SPECIES
-=======
+# Bactrospora subdryina Sparrius, Saipunkaew & Wolseley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria macrospora (Kawam.) Hara SPECIES
-=======
+# Chaetosphaeria macrospora (Kawam.) Hara SPECIES
 
 #### Status
 ACCEPTED

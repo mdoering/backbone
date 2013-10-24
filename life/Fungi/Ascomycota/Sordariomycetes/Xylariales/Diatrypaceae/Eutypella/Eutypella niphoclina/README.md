@@ -1,5 +1,4 @@
-Eutypella niphoclina (Cooke) Sacc. SPECIES
-=======
+# Eutypella niphoclina (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

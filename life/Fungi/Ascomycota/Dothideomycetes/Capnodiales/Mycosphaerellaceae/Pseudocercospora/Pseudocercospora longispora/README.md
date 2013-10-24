@@ -1,5 +1,4 @@
-Pseudocercospora longispora Arzanlou & Crous SPECIES
-=======
+# Pseudocercospora longispora Arzanlou & Crous SPECIES
 
 #### Status
 ACCEPTED

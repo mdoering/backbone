@@ -1,5 +1,4 @@
-Spegazzinia chandleri Hansf. SPECIES
-=======
+# Spegazzinia chandleri Hansf. SPECIES
 
 #### Status
 ACCEPTED

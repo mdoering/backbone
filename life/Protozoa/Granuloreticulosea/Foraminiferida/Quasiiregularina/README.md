@@ -1,5 +1,4 @@
-Quasiiregularina GENUS
-=======
+# Quasiiregularina GENUS
 
 #### Status
 ACCEPTED

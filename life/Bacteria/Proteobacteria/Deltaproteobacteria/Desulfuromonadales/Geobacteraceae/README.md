@@ -1,5 +1,4 @@
-Geobacteraceae FAMILY
-=======
+# Geobacteraceae FAMILY
 
 #### Status
 ACCEPTED

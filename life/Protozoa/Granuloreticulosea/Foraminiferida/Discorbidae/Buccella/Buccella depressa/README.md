@@ -1,5 +1,4 @@
-Buccella depressa Andersen, 1952 SPECIES
-=======
+# Buccella depressa Andersen, 1952 SPECIES
 
 #### Status
 ACCEPTED

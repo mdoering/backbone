@@ -1,5 +1,4 @@
-Meliola ormocarpi Hansf. & Deighton SPECIES
-=======
+# Meliola ormocarpi Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

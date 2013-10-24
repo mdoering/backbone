@@ -1,17 +1,16 @@
-Trimmatostroma indica Manohar., P.Rag. Rao & P.Rama Rao SPECIES
-=======
+# Trimmatostroma indicum Manohar., P.Rag. Rao & P.Rama Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 46(22): 788 (1971)
 
 #### Original name
-Trimmatostroma indica Manohar., P.Rag. Rao & P.Rama Rao
+Trimmatostroma indicum Manohar., P.Rag. Rao & P.Rama Rao
 
 ### Remarks
 null

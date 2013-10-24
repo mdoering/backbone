@@ -1,5 +1,4 @@
-Coryneum delleanii Servazzi SPECIES
-=======
+# Coryneum delleanii Servazzi SPECIES
 
 #### Status
 ACCEPTED

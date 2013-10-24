@@ -1,5 +1,4 @@
-Verrucaria mauiensis H. Magn. SPECIES
-=======
+# Verrucaria mauiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

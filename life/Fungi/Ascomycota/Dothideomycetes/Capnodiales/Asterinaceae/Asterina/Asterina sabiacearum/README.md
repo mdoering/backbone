@@ -1,5 +1,4 @@
-Asterina sabiacearum Hosag. & Goos SPECIES
-=======
+# Asterina sabiacearum Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

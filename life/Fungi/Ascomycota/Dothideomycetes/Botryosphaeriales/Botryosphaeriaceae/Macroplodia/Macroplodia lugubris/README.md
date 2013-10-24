@@ -1,5 +1,4 @@
-Macroplodia lugubris (E. Bommer, M. Rousseau & Sacc.) Kuntze SPECIES
-=======
+# Macroplodia lugubris (E. Bommer, M. Rousseau & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

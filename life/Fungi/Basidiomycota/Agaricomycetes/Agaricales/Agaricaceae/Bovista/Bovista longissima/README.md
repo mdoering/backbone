@@ -1,5 +1,4 @@
-Bovista longissima Kreisel SPECIES
-=======
+# Bovista longissima Kreisel SPECIES
 
 #### Status
 ACCEPTED

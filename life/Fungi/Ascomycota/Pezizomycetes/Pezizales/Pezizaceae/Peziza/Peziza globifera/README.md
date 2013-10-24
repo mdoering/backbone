@@ -1,5 +1,4 @@
-Peziza globifera Berk. & M.A. Curtis SPECIES
-=======
+# Peziza globifera Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

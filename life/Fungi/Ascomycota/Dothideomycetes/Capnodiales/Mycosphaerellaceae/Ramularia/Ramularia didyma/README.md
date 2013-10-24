@@ -1,17 +1,16 @@
-Septocylindrium ranunculi var. ranunculi VARIETY
-=======
+# Ramularia didyma Unger, 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Die Exanlhema der Pflanzen. Vienna 169 (1833)
 
 #### Original name
-Septocylindrium ranunculi var. ranunculi
+Ramularia didyma Unger, 1833
 
 ### Remarks
 null

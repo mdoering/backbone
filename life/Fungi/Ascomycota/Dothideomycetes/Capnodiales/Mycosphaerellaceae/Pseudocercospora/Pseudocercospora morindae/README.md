@@ -1,5 +1,4 @@
-Pseudocercospora morindae (Syd.) Sarbajna SPECIES
-=======
+# Pseudocercospora morindae (Syd.) Sarbajna SPECIES
 
 #### Status
 ACCEPTED

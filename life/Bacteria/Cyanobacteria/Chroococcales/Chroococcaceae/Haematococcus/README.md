@@ -1,5 +1,4 @@
-Haematococcus C.A. Agardh, 1820-, 1821 GENUS
-=======
+# Haematococcus C.A. Agardh, 1820-, 1821 GENUS
 
 #### Status
 ACCEPTED

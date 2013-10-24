@@ -1,5 +1,4 @@
-Pseudolagarobasidium leguminicola J.C. Jang & T. Chen, 1985 SPECIES
-=======
+# Pseudolagarobasidium leguminicola J.C. Jang & T. Chen, 1985 SPECIES
 
 #### Status
 ACCEPTED

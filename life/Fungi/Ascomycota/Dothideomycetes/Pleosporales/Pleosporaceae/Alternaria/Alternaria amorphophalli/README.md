@@ -1,5 +1,4 @@
-Alternaria amorphophalli V.G. Rao SPECIES
-=======
+# Alternaria amorphophalli V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

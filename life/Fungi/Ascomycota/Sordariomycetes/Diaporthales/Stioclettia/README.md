@@ -1,5 +1,4 @@
-Stioclettia Dennis GENUS
-=======
+# Stioclettia Dennis GENUS
 
 #### Status
 ACCEPTED

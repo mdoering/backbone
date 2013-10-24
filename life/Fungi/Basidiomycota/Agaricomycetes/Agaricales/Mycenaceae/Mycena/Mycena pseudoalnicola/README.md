@@ -1,5 +1,4 @@
-Mycena pseudoalnicola Singer SPECIES
-=======
+# Mycena pseudoalnicola Singer SPECIES
 
 #### Status
 ACCEPTED

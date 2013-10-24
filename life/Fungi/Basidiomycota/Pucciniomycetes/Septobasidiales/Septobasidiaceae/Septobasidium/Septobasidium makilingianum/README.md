@@ -1,5 +1,4 @@
-Septobasidium makilingianum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium makilingianum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

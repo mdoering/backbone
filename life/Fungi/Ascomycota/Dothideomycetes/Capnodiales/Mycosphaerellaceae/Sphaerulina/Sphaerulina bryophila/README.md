@@ -1,5 +1,4 @@
-Sphaerulina bryophila Racov. SPECIES
-=======
+# Sphaerulina bryophila Racov. SPECIES
 
 #### Status
 ACCEPTED

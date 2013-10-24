@@ -1,5 +1,4 @@
-Ramularia aplospora Speg., 1879 SPECIES
-=======
+# Ramularia aplospora Speg., 1879 SPECIES
 
 #### Status
 ACCEPTED

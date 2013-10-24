@@ -1,5 +1,4 @@
-Rhizopus minimus Tiegh. SPECIES
-=======
+# Rhizopus minimus Tiegh. SPECIES
 
 #### Status
 ACCEPTED

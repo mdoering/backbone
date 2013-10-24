@@ -1,17 +1,16 @@
-Cercospora combretti-ovalifolii Patw. & Sathe SPECIES
-=======
+# Cercospora combreti-ovalifolii Patw. & Sathe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 19: 150 (1966)
 
 #### Original name
-Cercospora combretti-ovalifolii Patw. & Sathe
+Cercospora combreti-ovalifolii Patw. & Sathe
 
 ### Remarks
 null

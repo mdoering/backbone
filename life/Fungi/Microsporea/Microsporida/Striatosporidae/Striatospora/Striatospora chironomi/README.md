@@ -1,5 +1,4 @@
-Striatospora chironomi I.V. Issi & Voronin SPECIES
-=======
+# Striatospora chironomi I.V. Issi & Voronin SPECIES
 
 #### Status
 ACCEPTED

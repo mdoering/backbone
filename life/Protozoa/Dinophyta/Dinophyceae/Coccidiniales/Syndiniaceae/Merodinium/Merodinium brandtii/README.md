@@ -1,5 +1,4 @@
-Merodinium brandtii (Hovasse) Chatton SPECIES
-=======
+# Merodinium brandtii (Hovasse) Chatton SPECIES
 
 #### Status
 ACCEPTED

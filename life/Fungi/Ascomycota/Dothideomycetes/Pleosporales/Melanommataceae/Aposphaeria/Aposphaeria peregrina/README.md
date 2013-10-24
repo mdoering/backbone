@@ -1,5 +1,4 @@
-Aposphaeria peregrina P. Karst. SPECIES
-=======
+# Aposphaeria peregrina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

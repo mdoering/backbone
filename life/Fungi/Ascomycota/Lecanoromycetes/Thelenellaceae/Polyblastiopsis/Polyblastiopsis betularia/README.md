@@ -1,5 +1,4 @@
-Polyblastiopsis betularia (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis betularia (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

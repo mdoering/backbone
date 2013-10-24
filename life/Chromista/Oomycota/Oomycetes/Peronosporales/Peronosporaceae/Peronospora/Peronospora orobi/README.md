@@ -1,5 +1,4 @@
-Peronospora orobi Gäum. SPECIES
-=======
+# Peronospora orobi Gäum. SPECIES
 
 #### Status
 ACCEPTED

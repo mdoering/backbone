@@ -1,5 +1,4 @@
-Uredo chiliotrichi Cotton SPECIES
-=======
+# Uredo chiliotrichi Cotton SPECIES
 
 #### Status
 ACCEPTED

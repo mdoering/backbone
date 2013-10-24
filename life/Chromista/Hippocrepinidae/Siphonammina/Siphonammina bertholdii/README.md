@@ -1,5 +1,4 @@
-Siphonammina bertholdii Geslin, Heinz & Hemleben, 2004 SPECIES
-=======
+# Siphonammina bertholdii Geslin, Heinz & Hemleben, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora stratosa Petch SPECIES
-=======
+# Peniophora stratosa Petch SPECIES
 
 #### Status
 ACCEPTED

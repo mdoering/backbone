@@ -1,5 +1,4 @@
-Lecidea sylvestris Nyl. SPECIES
-=======
+# Lecidea sylvestris Nyl. SPECIES
 
 #### Status
 ACCEPTED

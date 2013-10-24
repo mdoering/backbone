@@ -1,5 +1,4 @@
-Stereonema asperum Kütz. SPECIES
-=======
+# Stereonema asperum Kütz. SPECIES
 
 #### Status
 ACCEPTED

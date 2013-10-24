@@ -1,5 +1,4 @@
-Peniophora subiculosa Burt SPECIES
-=======
+# Peniophora subiculosa Burt SPECIES
 
 #### Status
 ACCEPTED

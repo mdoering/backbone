@@ -1,5 +1,4 @@
-Arthonia decemlocularis Räsänen SPECIES
-=======
+# Arthonia decemlocularis Räsänen SPECIES
 
 #### Status
 ACCEPTED

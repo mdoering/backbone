@@ -1,5 +1,4 @@
-Hebeloma litoreum Quadr. SPECIES
-=======
+# Hebeloma litoreum Quadr. SPECIES
 
 #### Status
 ACCEPTED

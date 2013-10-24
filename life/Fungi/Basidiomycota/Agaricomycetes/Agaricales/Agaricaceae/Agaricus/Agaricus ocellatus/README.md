@@ -1,5 +1,4 @@
-Agaricus ocellatus var. ocellatus Fr. VARIETY
-=======
+# Agaricus ocellatus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 1: 83 (1815)
 
 #### Original name
-Agaricus ocellatus var. ocellatus Fr.
+Agaricus ocellatus Fr.
 
 ### Remarks
 null

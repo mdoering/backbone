@@ -1,5 +1,4 @@
-Sosioella Skinner & Wilde, 1966 GENUS
-=======
+# Sosioella Skinner & Wilde, 1966 GENUS
 
 #### Status
 ACCEPTED

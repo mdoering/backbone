@@ -1,5 +1,4 @@
-Psoroma saxicola (Pollich) Rabenh. SPECIES
-=======
+# Psoroma saxicola (Pollich) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

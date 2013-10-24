@@ -1,5 +1,4 @@
-Alectoria degenii Szatala SPECIES
-=======
+# Alectoria degenii Szatala SPECIES
 
 #### Status
 ACCEPTED

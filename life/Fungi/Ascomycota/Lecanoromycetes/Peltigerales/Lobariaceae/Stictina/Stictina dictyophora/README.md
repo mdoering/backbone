@@ -1,5 +1,4 @@
-Stictina dictyophora Müll. Arg. SPECIES
-=======
+# Stictina dictyophora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

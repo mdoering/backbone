@@ -1,5 +1,4 @@
-Quasidiscus B. Sutton GENUS
-=======
+# Quasidiscus B. Sutton GENUS
 
 #### Status
 ACCEPTED

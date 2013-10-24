@@ -1,5 +1,4 @@
-Larnacospongus Haeckel, 1887 GENUS
-=======
+# Larnacospongus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

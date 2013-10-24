@@ -1,8 +1,7 @@
-Discorbina pulvinata Brady, 1884 SPECIES
-=======
+# Conorbella pulvinata (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

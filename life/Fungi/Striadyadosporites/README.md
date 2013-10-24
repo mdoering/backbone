@@ -1,5 +1,4 @@
-Striadyadosporites Dueñas GENUS
-=======
+# Striadyadosporites Dueñas GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis subtracta Nyl. SPECIES
-=======
+# Graphis subtracta Nyl. SPECIES
 
 #### Status
 ACCEPTED

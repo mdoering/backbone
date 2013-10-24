@@ -1,5 +1,4 @@
-Lentomitella GENUS
-=======
+# Lentomitella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotrichia aurata (Rehm) Wehm., 1941 SPECIES
-=======
+# Pseudotrichia aurata (Rehm) Wehm., 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora dracaenae Hansf. SPECIES
-=======
+# Cercospora dracaenae Hansf. SPECIES
 
 #### Status
 ACCEPTED

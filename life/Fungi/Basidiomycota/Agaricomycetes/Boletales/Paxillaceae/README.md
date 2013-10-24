@@ -1,5 +1,4 @@
-Paxillaceae Lotsy FAMILY
-=======
+# Paxillaceae Lotsy FAMILY
 
 #### Status
 ACCEPTED

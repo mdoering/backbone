@@ -1,5 +1,4 @@
-Phellinus goethartii (Bres.) Ryvarden SPECIES
-=======
+# Phellinus goethartii (Bres.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

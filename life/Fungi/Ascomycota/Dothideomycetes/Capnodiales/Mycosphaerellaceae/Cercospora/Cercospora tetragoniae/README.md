@@ -1,5 +1,4 @@
-Cercospora tetragoniae (Speg.) Vassiljevsky SPECIES
-=======
+# Cercospora tetragoniae (Speg.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

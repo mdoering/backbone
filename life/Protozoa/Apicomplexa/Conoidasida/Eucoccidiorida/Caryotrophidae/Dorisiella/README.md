@@ -1,5 +1,4 @@
-Dorisiella Ray, 1930 GENUS
-=======
+# Dorisiella Ray, 1930 GENUS
 
 #### Status
 ACCEPTED

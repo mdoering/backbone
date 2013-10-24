@@ -1,5 +1,4 @@
-Lecidea inflata Anzi SPECIES
-=======
+# Lecidea inflata Anzi SPECIES
 
 #### Status
 ACCEPTED

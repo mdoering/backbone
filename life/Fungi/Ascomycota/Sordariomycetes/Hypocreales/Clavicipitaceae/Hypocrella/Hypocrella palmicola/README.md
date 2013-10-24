@@ -1,5 +1,4 @@
-Hypocrella palmicola Henn. SPECIES
-=======
+# Hypocrella palmicola Henn. SPECIES
 
 #### Status
 ACCEPTED

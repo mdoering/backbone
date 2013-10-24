@@ -1,5 +1,4 @@
-Phomopsis longipes (Berk. & M.A. Curtis) Sousa da Câmara SPECIES
-=======
+# Phomopsis longipes (Berk. & M.A. Curtis) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

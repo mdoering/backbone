@@ -1,5 +1,4 @@
-Mendicodinium granulatum A. Kumar SPECIES
-=======
+# Mendicodinium granulatum A. Kumar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces navarrii M. Mata & Ryvarden, 2010 SPECIES
-=======
+# Tyromyces navarrii M. Mata & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

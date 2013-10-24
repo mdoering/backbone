@@ -1,17 +1,16 @@
-Bricookea barrae Shoemaker & C.E. Babc. SPECIES
-=======
+# Bricookea barriae Shoemaker & C.E. Babc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 31: 165 (1989)
 
 #### Original name
-Bricookea barrae Shoemaker & C.E. Babc.
+Bricookea barriae Shoemaker & C.E. Babc.
 
 ### Remarks
 null

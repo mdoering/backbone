@@ -1,5 +1,4 @@
-Marasmius cecropiae Dennis SPECIES
-=======
+# Marasmius cecropiae Dennis SPECIES
 
 #### Status
 ACCEPTED

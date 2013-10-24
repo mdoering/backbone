@@ -1,5 +1,4 @@
-Septoria arethusa Penz. SPECIES
-=======
+# Septoria arethusa Penz. SPECIES
 
 #### Status
 ACCEPTED

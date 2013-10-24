@@ -1,5 +1,4 @@
-Diploconulus Haeckel, 1887 GENUS
-=======
+# Diploconulus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

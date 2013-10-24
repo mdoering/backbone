@@ -1,5 +1,4 @@
-Leptotrema compactum Müll. Arg. SPECIES
-=======
+# Leptotrema compactum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

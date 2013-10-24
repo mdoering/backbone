@@ -1,5 +1,4 @@
-Pleurage taediosa (Speg.) C. Moreau SPECIES
-=======
+# Pleurage taediosa (Speg.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

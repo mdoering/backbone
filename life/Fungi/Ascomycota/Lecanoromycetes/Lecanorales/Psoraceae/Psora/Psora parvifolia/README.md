@@ -1,5 +1,4 @@
-Psora parvifolia var. parvifolia (Pers.) VARIETY
-=======
+# Psora parvifolia (Pers.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psora parvifolia var. parvifolia (Pers.)
+Lecidea parvifolia Pers.
 
 ### Remarks
 null

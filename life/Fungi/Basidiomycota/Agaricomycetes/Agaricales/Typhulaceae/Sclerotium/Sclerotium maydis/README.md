@@ -1,5 +1,4 @@
-Sclerotium maydis Preuss SPECIES
-=======
+# Sclerotium maydis Preuss SPECIES
 
 #### Status
 ACCEPTED

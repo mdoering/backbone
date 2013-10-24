@@ -1,5 +1,4 @@
-Agyrium aurantium W.Y. Zhuang & Zhu L. Yang SPECIES
-=======
+# Agyrium aurantium W.Y. Zhuang & Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

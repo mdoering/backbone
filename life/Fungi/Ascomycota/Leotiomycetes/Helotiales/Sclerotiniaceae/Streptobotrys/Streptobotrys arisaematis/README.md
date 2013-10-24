@@ -1,17 +1,16 @@
-Streptobotrys arisaemae Hennebert SPECIES
-=======
+# Streptobotrys arisaematis Hennebert, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 7(2): 192 (1973)
 
 #### Original name
-Streptobotrys arisaemae Hennebert
+Streptobotrys arisaematis Hennebert, 1973
 
 ### Remarks
 null

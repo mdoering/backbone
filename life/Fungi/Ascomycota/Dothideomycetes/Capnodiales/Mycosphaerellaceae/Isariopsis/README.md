@@ -1,5 +1,4 @@
-Isariopsis GENUS
-=======
+# Isariopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemiprorodon Strelkow, 1939 GENUS
-=======
+# Hemiprorodon Strelkow, 1939 GENUS
 
 #### Status
 ACCEPTED

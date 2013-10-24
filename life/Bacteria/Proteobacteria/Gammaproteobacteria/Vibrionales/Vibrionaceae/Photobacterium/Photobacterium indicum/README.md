@@ -1,14 +1,13 @@
-Hyphomicrobium indium Johnson & Weisrock, 1966 SPECIES
-=======
+# Photobacterium indicum (Johnson & Weisrock, 1969) Ivanova et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Johnson, R. M. , and Weisrock, W. P. 1969. Hyphomicrobium indicum sp. nov. (Hyphomicrobiaceae Douglas). Int. J. Syst. Bacteriol. 19:295-307.
 
 #### Original name
 null

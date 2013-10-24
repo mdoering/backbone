@@ -1,5 +1,4 @@
-Opegrapha leucocarpa Faurel, Ozenda & Schotter SPECIES
-=======
+# Opegrapha leucocarpa Faurel, Ozenda & Schotter SPECIES
 
 #### Status
 ACCEPTED

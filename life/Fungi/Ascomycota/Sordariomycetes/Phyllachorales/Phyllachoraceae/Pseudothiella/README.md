@@ -1,5 +1,4 @@
-Pseudothiella Petr. GENUS
-=======
+# Pseudothiella Petr. GENUS
 
 #### Status
 ACCEPTED

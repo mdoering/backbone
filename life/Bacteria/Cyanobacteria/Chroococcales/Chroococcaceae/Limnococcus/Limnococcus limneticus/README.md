@@ -1,5 +1,4 @@
-Limnococcus limneticus (Lemmermann) Komárková, Jezberová, Komárek & Zapomelová, 2010 SPECIES
-=======
+# Limnococcus limneticus (Lemmermann) Komárková, Jezberová, Komárek & Zapomelová, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Villosacapsula sarda (Pittau, 1985) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Villosacapsula sarda (Pittau, 1985) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

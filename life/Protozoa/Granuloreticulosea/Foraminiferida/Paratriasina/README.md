@@ -1,5 +1,4 @@
-Paratriasina He Yan, 1980 GENUS
-=======
+# Paratriasina He Yan, 1980 GENUS
 
 #### Status
 ACCEPTED

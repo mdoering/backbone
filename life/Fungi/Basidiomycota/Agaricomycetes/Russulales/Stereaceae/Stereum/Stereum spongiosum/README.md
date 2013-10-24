@@ -1,5 +1,4 @@
-Stereum spongiosum Massee SPECIES
-=======
+# Stereum spongiosum Massee SPECIES
 
 #### Status
 ACCEPTED

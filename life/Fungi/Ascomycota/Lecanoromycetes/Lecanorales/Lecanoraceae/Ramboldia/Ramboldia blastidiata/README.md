@@ -1,5 +1,4 @@
-Ramboldia blastidiata Kantvilas & Elix SPECIES
-=======
+# Ramboldia blastidiata Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

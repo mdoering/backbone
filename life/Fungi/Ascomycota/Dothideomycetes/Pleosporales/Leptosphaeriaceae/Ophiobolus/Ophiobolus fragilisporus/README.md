@@ -1,5 +1,4 @@
-Ophiobolus fragilisporus Ellis & Everh. SPECIES
-=======
+# Ophiobolus fragilisporus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

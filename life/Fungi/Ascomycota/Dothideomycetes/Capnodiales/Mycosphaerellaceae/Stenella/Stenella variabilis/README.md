@@ -1,5 +1,4 @@
-Stenella variabilis Matsush. SPECIES
-=======
+# Stenella variabilis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea mossamedana (Vain.) Darb. SPECIES
-=======
+# Usnea mossamedana (Vain.) Darb. SPECIES
 
 #### Status
 ACCEPTED

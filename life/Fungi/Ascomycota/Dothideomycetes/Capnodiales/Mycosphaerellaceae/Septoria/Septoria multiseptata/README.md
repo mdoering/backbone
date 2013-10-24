@@ -1,5 +1,4 @@
-Septoria multiseptata V.T. Nguen SPECIES
-=======
+# Septoria multiseptata V.T. Nguen SPECIES
 
 #### Status
 ACCEPTED

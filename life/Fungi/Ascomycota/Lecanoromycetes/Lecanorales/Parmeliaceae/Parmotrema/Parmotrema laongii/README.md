@@ -1,5 +1,4 @@
-Parmotrema laongii (Lynge) Marcelli & Jungbluth SPECIES
-=======
+# Parmotrema laongii (Lynge) Marcelli & Jungbluth SPECIES
 
 #### Status
 ACCEPTED

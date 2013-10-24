@@ -1,5 +1,4 @@
-Coniothyrium aucubae Sacc. SPECIES
-=======
+# Coniothyrium aucubae Sacc. SPECIES
 
 #### Status
 ACCEPTED

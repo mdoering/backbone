@@ -1,5 +1,4 @@
-Hypoxylon tassianum (Ces. & De Not.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon tassianum (Ces. & De Not.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

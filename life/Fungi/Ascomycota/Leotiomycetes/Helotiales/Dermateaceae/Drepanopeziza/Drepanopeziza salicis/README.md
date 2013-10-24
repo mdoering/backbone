@@ -1,14 +1,13 @@
-Trochila salicis Tul. & C. Tul., 1865 SPECIES
-=======
+# Drepanopeziza salicis (Tul. & C. Tul.) Höhn., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Selecta Fungorum Carpologia: Nectriei- Phacidiei- Pezizei 3: 181 (1865)
+Hedwigia 62: 54 (1920)
 
 #### Original name
 Trochila salicis Tul. & C. Tul., 1865

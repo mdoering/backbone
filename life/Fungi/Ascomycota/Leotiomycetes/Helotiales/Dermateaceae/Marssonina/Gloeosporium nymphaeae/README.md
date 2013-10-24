@@ -1,5 +1,4 @@
-Gloeosporium nymphaeae Hemmi & Kawase SPECIES
-=======
+# Gloeosporium nymphaeae Hemmi & Kawase SPECIES
 
 #### Status
 ACCEPTED

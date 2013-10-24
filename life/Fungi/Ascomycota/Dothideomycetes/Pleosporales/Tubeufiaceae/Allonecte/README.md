@@ -1,5 +1,4 @@
-Allonecte Syd. GENUS
-=======
+# Allonecte Syd. GENUS
 
 #### Status
 ACCEPTED

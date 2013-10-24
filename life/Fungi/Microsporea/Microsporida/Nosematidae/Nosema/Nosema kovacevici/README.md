@@ -1,5 +1,4 @@
-Nosema kovacevici SPECIES
-=======
+# Nosema kovacevici SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pellaea Nyl. SPECIES
-=======
+# Lecidea pellaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula rudis Fée SPECIES
-=======
+# Pyrenula rudis Fée SPECIES
 
 #### Status
 ACCEPTED

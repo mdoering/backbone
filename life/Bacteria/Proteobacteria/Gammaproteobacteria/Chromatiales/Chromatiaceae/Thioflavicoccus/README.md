@@ -1,5 +1,4 @@
-Thioflavicoccus Imhoff & Pfennig, 2001 GENUS
-=======
+# Thioflavicoccus Imhoff & Pfennig, 2001 GENUS
 
 #### Status
 ACCEPTED

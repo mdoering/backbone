@@ -1,17 +1,16 @@
-Bourdotia pululahuana galzinii (Bres.) Bourdot & Galzin, 1928 INFRASPECIFIC_NAME
-=======
+# Exidiopsis galzinii (Bres.) Killerm., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Edn 2 6: 113 (1928)
 
 #### Original name
-null
+Sebacina galzinii Bres., 1908
 
 ### Remarks
 null

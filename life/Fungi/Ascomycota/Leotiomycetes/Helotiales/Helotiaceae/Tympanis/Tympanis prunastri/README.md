@@ -1,5 +1,4 @@
-Tympanis prunastri Wallr. SPECIES
-=======
+# Tympanis prunastri Wallr. SPECIES
 
 #### Status
 ACCEPTED

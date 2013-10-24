@@ -1,17 +1,16 @@
-Leptonia lampropus cyanula (Lasch) Sacc., 1887 INFRASPECIFIC_NAME
-=======
+# Entoloma cyanulum (Lasch) Noordel., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 12(3): 203 (1984)
 
 #### Original name
-null
+Agaricus cyanulus Lasch, 1829
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Catacauma panamense Chardón, 1930 SPECIES
-=======
+# Phyllachora weirii (Chardón) P.F. Cannon, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 14(4): 251 (1930)
+Mycol. Pap. 163: 186 (1991)
 
 #### Original name
-Catacauma panamense Chardón, 1930
+Catacauma weirii Chardón, 1929
 
 ### Remarks
 null

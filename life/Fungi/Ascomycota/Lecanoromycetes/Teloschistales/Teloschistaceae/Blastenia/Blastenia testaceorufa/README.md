@@ -1,5 +1,4 @@
-Blastenia testaceorufa (Vain.) Zahlbr. SPECIES
-=======
+# Blastenia testaceorufa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

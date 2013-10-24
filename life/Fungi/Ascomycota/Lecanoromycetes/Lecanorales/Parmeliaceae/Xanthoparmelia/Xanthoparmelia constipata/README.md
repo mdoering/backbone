@@ -1,14 +1,13 @@
-Parmelia constipata Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia constipata (Kurok. & Filson) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 1: 37 (1975)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 215 (1986)
 
 #### Original name
 Parmelia constipata Kurok. & Filson

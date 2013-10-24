@@ -1,5 +1,4 @@
-Stephanopyxis megapora Grunow SPECIES
-=======
+# Stephanopyxis megapora Grunow SPECIES
 
 #### Status
 ACCEPTED

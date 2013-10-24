@@ -1,5 +1,4 @@
-Ustilago ulei Henn. SPECIES
-=======
+# Ustilago ulei Henn. SPECIES
 
 #### Status
 ACCEPTED

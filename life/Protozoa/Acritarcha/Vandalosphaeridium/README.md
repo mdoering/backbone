@@ -1,5 +1,4 @@
-Vandalosphaeridium Vidal, 1981 GENUS
-=======
+# Vandalosphaeridium Vidal, 1981 GENUS
 
 #### Status
 ACCEPTED

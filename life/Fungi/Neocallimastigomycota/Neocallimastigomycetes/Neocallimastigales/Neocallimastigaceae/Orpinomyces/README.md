@@ -1,5 +1,4 @@
-Orpinomyces D.J.S. Barr, H. Kudo, Jakober & K.J. Cheng GENUS
-=======
+# Orpinomyces D.J.S. Barr, H. Kudo, Jakober & K.J. Cheng GENUS
 
 #### Status
 ACCEPTED

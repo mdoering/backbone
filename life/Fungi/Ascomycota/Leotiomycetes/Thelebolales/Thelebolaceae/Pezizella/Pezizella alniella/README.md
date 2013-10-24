@@ -1,5 +1,4 @@
-Pezizella alniella (Nyl.) Dennis, 1960 SPECIES
-=======
+# Pezizella alniella (Nyl.) Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED

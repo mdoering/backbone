@@ -1,5 +1,4 @@
-Puccinia rubiginosa J. Schröt. SPECIES
-=======
+# Puccinia rubiginosa J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

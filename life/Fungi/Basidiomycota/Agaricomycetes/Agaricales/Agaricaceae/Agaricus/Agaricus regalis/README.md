@@ -1,5 +1,4 @@
-Agaricus regalis Berk. SPECIES
-=======
+# Agaricus regalis Berk. SPECIES
 
 #### Status
 ACCEPTED

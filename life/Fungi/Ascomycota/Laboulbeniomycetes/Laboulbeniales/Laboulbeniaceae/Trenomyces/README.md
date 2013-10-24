@@ -1,5 +1,4 @@
-Trenomyces Chatton & F. Picard GENUS
-=======
+# Trenomyces Chatton & F. Picard GENUS
 
 #### Status
 ACCEPTED

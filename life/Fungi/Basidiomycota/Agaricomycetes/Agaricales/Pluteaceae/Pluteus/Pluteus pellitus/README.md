@@ -1,17 +1,16 @@
-Pluteus pellitus var. clusianus Istv. VARIETY
-=======
+# Pluteus pellitus (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 98 (1871)
 
 #### Original name
-Pluteus pellitus var. clusianus Istv.
+Agaricus pellitus Pers., 1801
 
 ### Remarks
 null

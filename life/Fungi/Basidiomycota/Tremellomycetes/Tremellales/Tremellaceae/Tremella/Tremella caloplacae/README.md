@@ -1,5 +1,4 @@
-Tremella caloplacae (Zahlbr.) Diederich, 2003 SPECIES
-=======
+# Tremella caloplacae (Zahlbr.) Diederich, 2003 SPECIES
 
 #### Status
 ACCEPTED

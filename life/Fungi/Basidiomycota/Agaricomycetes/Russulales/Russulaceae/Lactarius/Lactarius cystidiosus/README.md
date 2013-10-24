@@ -1,5 +1,4 @@
-Lactarius cystidiosus Thiers SPECIES
-=======
+# Lactarius cystidiosus Thiers SPECIES
 
 #### Status
 ACCEPTED

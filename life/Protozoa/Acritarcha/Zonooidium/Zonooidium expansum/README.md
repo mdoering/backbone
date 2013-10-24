@@ -1,5 +1,4 @@
-Zonooidium expansum Aristova, 1980 SPECIES
-=======
+# Zonooidium expansum Aristova, 1980 SPECIES
 
 #### Status
 ACCEPTED

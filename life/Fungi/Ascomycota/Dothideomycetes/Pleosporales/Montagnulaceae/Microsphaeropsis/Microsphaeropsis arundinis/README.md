@@ -1,5 +1,4 @@
-Microsphaeropsis arundinis (S. Ahmad) B. Sutton, 1980 SPECIES
-=======
+# Microsphaeropsis arundinis (S. Ahmad) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

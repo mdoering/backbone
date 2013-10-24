@@ -1,14 +1,13 @@
-Bacterium aquamarinum (ZoBell & Upham, 1944) Krasil'nikov, 1949 SPECIES
-=======
+# Halomonas aquamarina (ZoBell and Upham, 1944) Dobson and Franzmann, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zobell, C. E. , and Upham, H. C. "A list of marine bacteria including descriptions of sixty new species. " Bull. Scripps Inst. Oceanogr. (1944) 5:239-292.
 
 #### Original name
 null

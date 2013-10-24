@@ -1,5 +1,4 @@
-Lecanidiella Sherwood GENUS
-=======
+# Lecanidiella Sherwood GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus ochraceus var. ochraceus VARIETY
-=======
+# Agaricus ochraceus Wulfen SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Fung. Bavar. Palat. 4: 68, tab. 255 (1774)
+in Jacquin, Miscell. austriac. 2: 110, tab. 16:2 (1781)
 
 #### Original name
-Agaricus ochraceus var. ochraceus
+Agaricus ochraceus Wulfen
 
 ### Remarks
 null

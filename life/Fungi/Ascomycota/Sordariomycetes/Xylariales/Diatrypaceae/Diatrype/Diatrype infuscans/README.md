@@ -1,5 +1,4 @@
-Diatrype infuscans Ellis & Everh. SPECIES
-=======
+# Diatrype infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

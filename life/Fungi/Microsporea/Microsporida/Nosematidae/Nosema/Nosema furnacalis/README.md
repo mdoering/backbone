@@ -1,5 +1,4 @@
-Nosema furnacalis SPECIES
-=======
+# Nosema furnacalis SPECIES
 
 #### Status
 ACCEPTED

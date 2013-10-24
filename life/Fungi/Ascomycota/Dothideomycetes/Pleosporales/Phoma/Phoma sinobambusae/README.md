@@ -1,5 +1,4 @@
-Phoma sinobambusae I. Hino & Katum. SPECIES
-=======
+# Phoma sinobambusae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

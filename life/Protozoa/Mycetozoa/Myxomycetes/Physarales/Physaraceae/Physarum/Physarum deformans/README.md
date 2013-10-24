@@ -1,5 +1,4 @@
-Physarum deformans Shuang L. Chen & Yu Li, 2000 SPECIES
-=======
+# Physarum deformans Shuang L. Chen & Yu Li, 2000 SPECIES
 
 #### Status
 ACCEPTED

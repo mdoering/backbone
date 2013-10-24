@@ -1,5 +1,4 @@
-Lambertella mussooriensis K.S. Thind & H. Singh SPECIES
-=======
+# Lambertella mussooriensis K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

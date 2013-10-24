@@ -1,5 +1,4 @@
-Psilocistella conincola (Velen.) Svrcek SPECIES
-=======
+# Psilocistella conincola (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

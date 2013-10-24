@@ -1,5 +1,4 @@
-Graphina cymbegrapha SPECIES
-=======
+# Graphina cymbegrapha SPECIES
 
 #### Status
 ACCEPTED

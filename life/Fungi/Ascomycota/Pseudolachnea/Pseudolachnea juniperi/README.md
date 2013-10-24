@@ -1,5 +1,4 @@
-Pseudolachnea juniperi Velen. SPECIES
-=======
+# Pseudolachnea juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia imberbis subsp. imberbis Ehrenberg, 1831 SUBSPECIES
-=======
+# Cothurnia imberbis Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

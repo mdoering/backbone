@@ -1,5 +1,4 @@
-Pertusaria chapadensis Malme SPECIES
-=======
+# Pertusaria chapadensis Malme SPECIES
 
 #### Status
 ACCEPTED

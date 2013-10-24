@@ -1,5 +1,4 @@
-Lactarius geminus P. Karst. SPECIES
-=======
+# Lactarius geminus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

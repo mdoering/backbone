@@ -1,5 +1,4 @@
-Ruhlandiella parvispora (K.S. Thind & Waraitch) G. Hirsch SPECIES
-=======
+# Ruhlandiella parvispora (K.S. Thind & Waraitch) G. Hirsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mercadomyces J. Mena GENUS
-=======
+# Mercadomyces J. Mena GENUS
 
 #### Status
 ACCEPTED

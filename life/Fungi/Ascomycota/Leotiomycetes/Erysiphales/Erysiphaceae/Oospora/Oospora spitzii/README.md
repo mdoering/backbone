@@ -1,5 +1,4 @@
-Oospora spitzii (Lignières) Sartory SPECIES
-=======
+# Oospora spitzii (Lignières) Sartory SPECIES
 
 #### Status
 ACCEPTED

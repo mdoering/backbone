@@ -1,5 +1,4 @@
-Peronospora luffae (Sawada) Skalický SPECIES
-=======
+# Peronospora luffae (Sawada) Skalický SPECIES
 
 #### Status
 ACCEPTED

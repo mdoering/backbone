@@ -1,5 +1,4 @@
-Leptonia umbrinella S. Imai SPECIES
-=======
+# Leptonia umbrinella S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus elegantissimus Berk. & Broome SPECIES
-=======
+# Hygrophorus elegantissimus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

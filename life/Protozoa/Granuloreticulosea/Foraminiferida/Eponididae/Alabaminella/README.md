@@ -1,5 +1,4 @@
-Alabaminella Saidova, 1975 GENUS
-=======
+# Alabaminella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

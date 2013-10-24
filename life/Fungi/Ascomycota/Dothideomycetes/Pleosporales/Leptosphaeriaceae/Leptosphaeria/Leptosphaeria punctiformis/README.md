@@ -1,5 +1,4 @@
-Leptosphaeria punctiformis Pass. SPECIES
-=======
+# Leptosphaeria punctiformis Pass. SPECIES
 
 #### Status
 ACCEPTED

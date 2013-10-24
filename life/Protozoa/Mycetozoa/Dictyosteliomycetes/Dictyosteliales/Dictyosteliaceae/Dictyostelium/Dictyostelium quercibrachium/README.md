@@ -1,5 +1,4 @@
-Dictyostelium quercibrachium Cavender, S.L. Stephenson, J.C. Landolt & Vadell, 2002 SPECIES
-=======
+# Dictyostelium quercibrachium Cavender, S.L. Stephenson, J.C. Landolt & Vadell, 2002 SPECIES
 
 #### Status
 ACCEPTED

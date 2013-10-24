@@ -1,5 +1,4 @@
-Septoria sanguinea Dearn. SPECIES
-=======
+# Septoria sanguinea Dearn. SPECIES
 
 #### Status
 ACCEPTED

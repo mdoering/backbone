@@ -1,5 +1,4 @@
-Junghuhnia autumnale Spirin, Zmitrovitch & V. Malysheva SPECIES
-=======
+# Junghuhnia autumnale Spirin, Zmitrovitch & V. Malysheva SPECIES
 
 #### Status
 ACCEPTED

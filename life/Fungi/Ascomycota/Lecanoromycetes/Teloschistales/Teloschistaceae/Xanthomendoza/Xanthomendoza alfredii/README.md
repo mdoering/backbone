@@ -1,5 +1,4 @@
-Xanthomendoza alfredii (S.Y. Kondr. & Poelt) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
-=======
+# Xanthomendoza alfredii (S.Y. Kondr. & Poelt) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

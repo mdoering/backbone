@@ -1,5 +1,4 @@
-Phyllosticta caricae C. Massal. SPECIES
-=======
+# Phyllosticta caricae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

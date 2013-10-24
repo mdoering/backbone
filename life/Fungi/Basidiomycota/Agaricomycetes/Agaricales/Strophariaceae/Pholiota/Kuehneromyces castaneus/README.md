@@ -1,5 +1,4 @@
-Kuehneromyces castaneus Hongo SPECIES
-=======
+# Kuehneromyces castaneus Hongo SPECIES
 
 #### Status
 ACCEPTED

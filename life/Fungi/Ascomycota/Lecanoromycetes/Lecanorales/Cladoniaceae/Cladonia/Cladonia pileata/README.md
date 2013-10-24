@@ -1,5 +1,4 @@
-Cladonia pileata Mont. SPECIES
-=======
+# Cladonia pileata Mont. SPECIES
 
 #### Status
 ACCEPTED

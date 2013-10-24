@@ -1,5 +1,4 @@
-Diphratora sambucina (Körb.) Jatta SPECIES
-=======
+# Diphratora sambucina (Körb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

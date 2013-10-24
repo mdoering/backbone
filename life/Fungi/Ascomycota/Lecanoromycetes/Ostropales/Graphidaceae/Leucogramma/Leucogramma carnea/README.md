@@ -1,5 +1,4 @@
-Leucogramma carnea G. Mey. SPECIES
-=======
+# Leucogramma carnea G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Theocon hertwigii (Haeckel) SPECIES
-=======
+# Theocon hertwigii (Haeckel) SPECIES
 
 #### Status
 ACCEPTED

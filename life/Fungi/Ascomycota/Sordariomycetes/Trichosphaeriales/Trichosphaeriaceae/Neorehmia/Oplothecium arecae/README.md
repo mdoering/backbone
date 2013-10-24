@@ -1,5 +1,4 @@
-Oplothecium arecae Syd. SPECIES
-=======
+# Oplothecium arecae Syd. SPECIES
 
 #### Status
 ACCEPTED

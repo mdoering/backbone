@@ -1,5 +1,4 @@
-Papulaspora selaginellae M.L. Farr SPECIES
-=======
+# Papulaspora selaginellae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

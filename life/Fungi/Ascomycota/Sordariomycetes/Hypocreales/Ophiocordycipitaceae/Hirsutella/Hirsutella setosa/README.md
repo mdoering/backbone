@@ -1,5 +1,4 @@
-Hirsutella setosa (Peck) Pat. SPECIES
-=======
+# Hirsutella setosa (Peck) Pat. SPECIES
 
 #### Status
 ACCEPTED

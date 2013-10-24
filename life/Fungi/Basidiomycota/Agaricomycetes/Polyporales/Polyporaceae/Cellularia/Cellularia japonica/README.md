@@ -1,5 +1,4 @@
-Cellularia japonica (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cellularia japonica (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

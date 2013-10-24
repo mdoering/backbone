@@ -1,5 +1,4 @@
-Sphaerella merrillii (H.S. Yates) Sacc. SPECIES
-=======
+# Sphaerella merrillii (H.S. Yates) Sacc. SPECIES
 
 #### Status
 ACCEPTED

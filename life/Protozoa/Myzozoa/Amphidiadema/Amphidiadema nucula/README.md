@@ -1,5 +1,4 @@
-Amphidiadema nucula (Cookson & Eisenack, 1962) Lentin & Williams SPECIES
-=======
+# Amphidiadema nucula (Cookson & Eisenack, 1962) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

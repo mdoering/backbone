@@ -1,5 +1,4 @@
-Myxosporium camelliae Opiz SPECIES
-=======
+# Myxosporium camelliae Opiz SPECIES
 
 #### Status
 ACCEPTED

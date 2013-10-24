@@ -1,5 +1,4 @@
-Micropuccinia dentariae (Alb. & Schwein.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia dentariae (Alb. & Schwein.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

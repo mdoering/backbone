@@ -1,5 +1,4 @@
-Lenzitites Mesch. GENUS
-=======
+# Lenzitites Mesch. GENUS
 
 #### Status
 ACCEPTED

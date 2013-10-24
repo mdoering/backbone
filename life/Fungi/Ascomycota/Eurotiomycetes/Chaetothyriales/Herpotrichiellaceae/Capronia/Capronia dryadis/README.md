@@ -1,5 +1,4 @@
-Capronia dryadis M.E. Barr SPECIES
-=======
+# Capronia dryadis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pentaplegma Haeckel, 1881 GENUS
-=======
+# Pentaplegma Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

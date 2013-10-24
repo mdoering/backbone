@@ -1,5 +1,4 @@
-Rhabdosphaera hispida Lohmann SPECIES
-=======
+# Rhabdosphaera hispida Lohmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria javanica Sacc. & P. Syd. SPECIES
-=======
+# Clavaria javanica Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

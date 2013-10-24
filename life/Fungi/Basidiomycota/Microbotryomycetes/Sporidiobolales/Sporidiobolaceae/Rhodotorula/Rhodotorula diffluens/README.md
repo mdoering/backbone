@@ -1,17 +1,16 @@
-Candida diffluens Ruinen, 1963 SPECIES
-=======
+# Rhodotorula diffluens (Ruinen) Arx & Weijman, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 6: 212 (1960)
 
 #### Original name
-null
+Torula diffluens Ruinen
 
 ### Remarks
 null

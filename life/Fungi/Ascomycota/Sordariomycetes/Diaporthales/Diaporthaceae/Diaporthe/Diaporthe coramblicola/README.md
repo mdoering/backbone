@@ -1,14 +1,13 @@
-Diatrype coramblicola Berk. & Broome, 1878 SPECIES
-=======
+# Diaporthe coramblicola (Berk. & Broome) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 1: (1878)
+Syll. fung. (Abellini) 1: 623 (1882)
 
 #### Original name
 Diatrype coramblicola Berk. & Broome, 1878

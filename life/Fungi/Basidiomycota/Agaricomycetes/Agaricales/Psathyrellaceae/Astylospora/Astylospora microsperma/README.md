@@ -1,14 +1,13 @@
-Atylospora microsperma (Peck) Murrill SPECIES
-=======
+# Astylospora microsperma (Peck) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 14(5): 264 (1922)
 
 #### Original name
 Psathyra microsperma Peck

@@ -1,5 +1,4 @@
-Corticium graminicola Ellis & Everh. SPECIES
-=======
+# Corticium graminicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

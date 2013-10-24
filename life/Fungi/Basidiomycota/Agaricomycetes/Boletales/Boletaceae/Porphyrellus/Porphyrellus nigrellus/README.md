@@ -1,5 +1,4 @@
-Porphyrellus nigrellus (Peck) E.-J. Gilbert SPECIES
-=======
+# Porphyrellus nigrellus (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

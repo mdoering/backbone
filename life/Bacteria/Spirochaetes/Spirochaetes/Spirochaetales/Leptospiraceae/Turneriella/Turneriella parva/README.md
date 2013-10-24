@@ -1,8 +1,7 @@
-Leptospira parva Hovind-Hougen et al., 1982 SPECIES
-=======
+# Turneriella parva (Hovind-Hougen et al., 1982) Levett et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

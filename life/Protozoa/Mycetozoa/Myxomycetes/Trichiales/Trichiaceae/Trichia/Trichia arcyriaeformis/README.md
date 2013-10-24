@@ -1,5 +1,4 @@
-Trichia arcyriaeformis Schumach. SPECIES
-=======
+# Trichia arcyriaeformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

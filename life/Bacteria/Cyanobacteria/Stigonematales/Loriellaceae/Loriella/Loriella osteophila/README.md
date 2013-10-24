@@ -1,5 +1,4 @@
-Loriella osteophila A. Borzì SPECIES
-=======
+# Loriella osteophila A. Borzì SPECIES
 
 #### Status
 ACCEPTED

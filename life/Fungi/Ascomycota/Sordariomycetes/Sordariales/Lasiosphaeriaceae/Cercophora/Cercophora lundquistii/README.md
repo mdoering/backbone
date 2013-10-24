@@ -1,5 +1,4 @@
-Cercophora lundquistii anon. SPECIES
-=======
+# Cercophora lundquistii anon. SPECIES
 
 #### Status
 ACCEPTED

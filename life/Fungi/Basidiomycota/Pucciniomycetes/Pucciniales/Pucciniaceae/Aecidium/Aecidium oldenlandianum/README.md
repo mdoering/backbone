@@ -1,5 +1,4 @@
-Aecidium oldenlandianum Ellis & Tracy SPECIES
-=======
+# Aecidium oldenlandianum Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

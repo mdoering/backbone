@@ -1,5 +1,4 @@
-Balantidium chagasi Earl, 1973 SPECIES
-=======
+# Balantidium chagasi Earl, 1973 SPECIES
 
 #### Status
 ACCEPTED

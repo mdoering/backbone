@@ -1,5 +1,4 @@
-Bacteroides caccae Johnson et al., 1986 SPECIES
-=======
+# Bacteroides caccae Johnson et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

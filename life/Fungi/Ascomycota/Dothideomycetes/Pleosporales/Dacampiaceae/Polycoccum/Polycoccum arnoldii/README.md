@@ -1,14 +1,13 @@
-Phaeospora arnoldii Hepp SPECIES
-=======
+# Polycoccum arnoldii (Hepp) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 132(3): 289 (1979)
 
 #### Original name
 Phaeospora arnoldii Hepp

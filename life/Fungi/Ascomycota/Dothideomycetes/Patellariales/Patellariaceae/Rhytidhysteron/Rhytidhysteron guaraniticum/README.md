@@ -1,17 +1,16 @@
-Rhytidhysterium guaraniticum Speg. SPECIES
-=======
+# Rhytidhysteron guaraniticum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 26(1): 56 (1888)
 
 #### Original name
-Rhytidhysterium guaraniticum Speg.
+Rhytidhysteron guaraniticum Speg.
 
 ### Remarks
 null

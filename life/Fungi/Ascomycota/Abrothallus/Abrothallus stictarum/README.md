@@ -1,5 +1,4 @@
-Abrothallus stictarum Etayo SPECIES
-=======
+# Abrothallus stictarum Etayo SPECIES
 
 #### Status
 ACCEPTED

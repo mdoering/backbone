@@ -1,5 +1,4 @@
-Coniothyrium carpaticum Petr., 1927 SPECIES
-=======
+# Coniothyrium carpaticum Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

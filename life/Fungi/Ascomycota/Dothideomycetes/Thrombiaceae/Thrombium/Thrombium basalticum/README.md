@@ -1,5 +1,4 @@
-Thrombium basalticum Zschacke SPECIES
-=======
+# Thrombium basalticum Zschacke SPECIES
 
 #### Status
 ACCEPTED

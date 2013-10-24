@@ -1,14 +1,13 @@
-Bertia axillaris Racov. SPECIES
-=======
+# Bryostroma axillare (Racov.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Mus. natn. Hist. nat. , Paris, Ser. B, N. S. 10: 92 (1959)
+Mitt. bot. StSamml. , Münch. 14: 172 (1978)
 
 #### Original name
 Bertia axillaris Racov.

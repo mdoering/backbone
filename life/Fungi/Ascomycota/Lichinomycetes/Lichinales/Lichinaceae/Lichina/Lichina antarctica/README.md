@@ -1,8 +1,7 @@
-Pygmaea antarctica (Cromb.) Zahlbr. SPECIES
-=======
+# Lichina antarctica Cromb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

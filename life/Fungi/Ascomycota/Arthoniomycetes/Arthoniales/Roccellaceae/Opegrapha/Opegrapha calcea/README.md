@@ -1,5 +1,4 @@
-Opegrapha calcea Fée SPECIES
-=======
+# Opegrapha calcea Fée SPECIES
 
 #### Status
 ACCEPTED

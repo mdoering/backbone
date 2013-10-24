@@ -1,5 +1,4 @@
-Macrosporium ravenelii Thüm. SPECIES
-=======
+# Macrosporium ravenelii Thüm. SPECIES
 
 #### Status
 ACCEPTED

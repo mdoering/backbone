@@ -1,5 +1,4 @@
-Ethmorhabdus cameratus SPECIES
-=======
+# Ethmorhabdus cameratus SPECIES
 
 #### Status
 ACCEPTED

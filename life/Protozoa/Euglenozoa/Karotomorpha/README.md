@@ -1,17 +1,16 @@
-Karatomorpha GENUS
-=======
+# Karotomorpha Travis, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Trans. Amer. Micr. Soc. , 53, 277.
 
 #### Original name
-null
+Tetramastix Korshikov, 1925
 
 ### Remarks
 null

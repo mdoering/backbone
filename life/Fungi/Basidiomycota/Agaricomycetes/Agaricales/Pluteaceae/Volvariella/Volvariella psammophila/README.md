@@ -1,5 +1,4 @@
-Volvariella psammophila Singer SPECIES
-=======
+# Volvariella psammophila Singer SPECIES
 
 #### Status
 ACCEPTED

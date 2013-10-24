@@ -1,5 +1,4 @@
-Sphaeria minutula Saporta SPECIES
-=======
+# Sphaeria minutula Saporta SPECIES
 
 #### Status
 ACCEPTED

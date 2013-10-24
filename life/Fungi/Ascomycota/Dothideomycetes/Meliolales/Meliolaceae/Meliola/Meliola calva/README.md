@@ -1,5 +1,4 @@
-Meliola calva Speg. SPECIES
-=======
+# Meliola calva Speg. SPECIES
 
 #### Status
 ACCEPTED

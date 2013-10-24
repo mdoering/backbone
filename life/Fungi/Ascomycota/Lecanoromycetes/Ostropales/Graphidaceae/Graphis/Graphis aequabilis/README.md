@@ -1,5 +1,4 @@
-Graphis aequabilis Nyl. SPECIES
-=======
+# Graphis aequabilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

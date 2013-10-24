@@ -1,5 +1,4 @@
-Almaena Samoilova, 1940 GENUS
-=======
+# Almaena Samoilova, 1940 GENUS
 
 #### Status
 ACCEPTED

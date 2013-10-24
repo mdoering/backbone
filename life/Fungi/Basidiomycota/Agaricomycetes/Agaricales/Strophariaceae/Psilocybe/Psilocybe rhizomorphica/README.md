@@ -1,5 +1,4 @@
-Psilocybe rhizomorphica Romagn. & Dresco SPECIES
-=======
+# Psilocybe rhizomorphica Romagn. & Dresco SPECIES
 
 #### Status
 ACCEPTED

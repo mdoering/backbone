@@ -1,5 +1,4 @@
-Sporothrix nothofagi Gadgil & M.A. Dick SPECIES
-=======
+# Sporothrix nothofagi Gadgil & M.A. Dick SPECIES
 
 #### Status
 ACCEPTED

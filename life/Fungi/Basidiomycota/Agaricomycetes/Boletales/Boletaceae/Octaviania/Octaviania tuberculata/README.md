@@ -1,5 +1,4 @@
-Octaviania tuberculata R. Hesse SPECIES
-=======
+# Octaviania tuberculata R. Hesse SPECIES
 
 #### Status
 ACCEPTED

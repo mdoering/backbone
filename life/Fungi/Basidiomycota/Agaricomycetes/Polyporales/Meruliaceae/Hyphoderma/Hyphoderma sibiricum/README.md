@@ -1,5 +1,4 @@
-Hyphoderma sibiricum (Parmasto) J. Erikss. & Å. Strid, 1975 SPECIES
-=======
+# Hyphoderma sibiricum (Parmasto) J. Erikss. & Å. Strid, 1975 SPECIES
 
 #### Status
 ACCEPTED

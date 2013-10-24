@@ -1,5 +1,4 @@
-Berkleasmium phyllostachydis Matsush. SPECIES
-=======
+# Berkleasmium phyllostachydis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum fuscofloccosum Rehm SPECIES
-=======
+# Lachnum fuscofloccosum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaptychia neoleucomelaena var. neoleucomelaena VARIETY
-=======
+# Anaptychia neoleucomelaena SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anaptychia neoleucomelaena var. neoleucomelaena
+null
 
 ### Remarks
 null

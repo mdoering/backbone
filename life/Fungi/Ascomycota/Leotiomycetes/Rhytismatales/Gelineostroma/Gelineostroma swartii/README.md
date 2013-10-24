@@ -1,5 +1,4 @@
-Gelineostroma swartii P.R. Johnst., 1992 SPECIES
-=======
+# Gelineostroma swartii P.R. Johnst., 1992 SPECIES
 
 #### Status
 ACCEPTED

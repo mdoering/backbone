@@ -1,5 +1,4 @@
-Peniophora sedimenticola S. Ahmad SPECIES
-=======
+# Peniophora sedimenticola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

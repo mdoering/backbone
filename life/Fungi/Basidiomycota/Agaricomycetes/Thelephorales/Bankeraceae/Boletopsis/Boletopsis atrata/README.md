@@ -1,5 +1,4 @@
-Boletopsis atrata Ryvarden, 1982 SPECIES
-=======
+# Boletopsis atrata Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

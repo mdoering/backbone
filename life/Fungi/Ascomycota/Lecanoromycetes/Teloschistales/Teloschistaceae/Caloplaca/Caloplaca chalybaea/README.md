@@ -1,14 +1,13 @@
-Placodium chalybaeum (Fr.) Nägeli ex Hepp SPECIES
-=======
+# Caloplaca chalybaea (Fr.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flecht. Eur. no. 204 (1833)
+Mém. Soc. Phys. Hist. nat. Genève 16: 388 (1862)
 
 #### Original name
 Parmelia chalybaea Fr.

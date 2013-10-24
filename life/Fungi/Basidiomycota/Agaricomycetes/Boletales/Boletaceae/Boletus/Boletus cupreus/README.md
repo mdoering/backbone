@@ -1,5 +1,4 @@
-Boletus cupreus Schaeff. SPECIES
-=======
+# Boletus cupreus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

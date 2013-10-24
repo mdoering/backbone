@@ -1,8 +1,7 @@
-Diatoma tenuis var. elongata Lyngbye, 1819 VARIETY
-=======
+# Diatoma tenuis C.A. Agardh, 1812 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

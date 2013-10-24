@@ -1,5 +1,4 @@
-Praearchaias Sirel, 1997 GENUS
-=======
+# Praearchaias Sirel, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tubercularia bulbicola (Henn.) Sacc. SPECIES
-=======
+# Stilbella bulbicola Henn., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 44: 176 (1905)
 
 #### Original name
-null
+Stilbella bulbicola Henn., 1905
 
 ### Remarks
 null

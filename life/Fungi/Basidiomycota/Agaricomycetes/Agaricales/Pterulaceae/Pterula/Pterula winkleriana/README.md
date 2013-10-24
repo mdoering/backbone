@@ -1,5 +1,4 @@
-Pterula winkleriana Henn. SPECIES
-=======
+# Pterula winkleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

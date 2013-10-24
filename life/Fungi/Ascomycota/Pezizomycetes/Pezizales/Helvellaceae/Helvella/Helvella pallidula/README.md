@@ -1,5 +1,4 @@
-Helvella pallidula N.S. Weber SPECIES
-=======
+# Helvella pallidula N.S. Weber SPECIES
 
 #### Status
 ACCEPTED

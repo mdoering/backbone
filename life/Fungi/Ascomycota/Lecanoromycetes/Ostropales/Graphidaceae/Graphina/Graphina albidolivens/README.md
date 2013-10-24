@@ -1,5 +1,4 @@
-Graphina albidolivens (Vain.) Zahlbr. SPECIES
-=======
+# Graphina albidolivens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia mediocris Motyka SPECIES
-=======
+# Aspicilia mediocris Motyka SPECIES
 
 #### Status
 ACCEPTED

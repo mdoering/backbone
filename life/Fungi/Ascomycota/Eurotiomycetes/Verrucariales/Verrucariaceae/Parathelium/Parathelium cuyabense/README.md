@@ -1,5 +1,4 @@
-Parathelium cuyabense Malme SPECIES
-=======
+# Parathelium cuyabense Malme SPECIES
 
 #### Status
 ACCEPTED

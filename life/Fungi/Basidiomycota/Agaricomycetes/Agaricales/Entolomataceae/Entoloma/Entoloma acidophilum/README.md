@@ -1,5 +1,4 @@
-Entoloma acidophilum Arnolds & Noordel., 1979 SPECIES
-=======
+# Entoloma acidophilum Arnolds & Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED

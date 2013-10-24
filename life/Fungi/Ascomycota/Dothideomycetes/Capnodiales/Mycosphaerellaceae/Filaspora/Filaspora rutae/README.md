@@ -1,5 +1,4 @@
-Filaspora rutae (Roum. & Fautrey) Kuntze SPECIES
-=======
+# Filaspora rutae (Roum. & Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

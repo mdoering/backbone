@@ -1,5 +1,4 @@
-Pleospora peganicola Gucevic SPECIES
-=======
+# Pleospora peganicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

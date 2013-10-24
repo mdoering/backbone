@@ -1,8 +1,7 @@
-Pseudomonas syzygii Roberts et al., 1990 SPECIES
-=======
+# Ralstonia syzygii (Roberts et al., 1990) Vaneechoutte et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

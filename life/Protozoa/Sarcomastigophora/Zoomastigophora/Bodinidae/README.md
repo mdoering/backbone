@@ -1,5 +1,4 @@
-Bodinidae FAMILY
-=======
+# Bodinidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetreliopsis thailandica Elix & M.J. Lai SPECIES
-=======
+# Cetreliopsis thailandica Elix & M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

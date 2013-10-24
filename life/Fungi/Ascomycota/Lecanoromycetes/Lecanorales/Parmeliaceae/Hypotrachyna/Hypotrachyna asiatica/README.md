@@ -1,5 +1,4 @@
-Hypotrachyna asiatica Sheng L. Wang, J. B. Chen & Elix SPECIES
-=======
+# Hypotrachyna asiatica Sheng L. Wang, J. B. Chen & Elix SPECIES
 
 #### Status
 ACCEPTED

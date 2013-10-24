@@ -1,5 +1,4 @@
-Hypogymnia tasmanica Elix SPECIES
-=======
+# Hypogymnia tasmanica Elix SPECIES
 
 #### Status
 ACCEPTED

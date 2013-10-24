@@ -1,5 +1,4 @@
-Lasiosphaeria orthotricha (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lasiosphaeria orthotricha (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotracylla dentata B. Sutton & Hodges, 1976 SPECIES
-=======
+# Pseudotracylla dentata B. Sutton & Hodges, 1976 SPECIES
 
 #### Status
 ACCEPTED

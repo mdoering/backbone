@@ -1,5 +1,4 @@
-Splanchnonema semitectum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Splanchnonema semitectum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

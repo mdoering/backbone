@@ -1,5 +1,4 @@
-Leangium umbilicatum Rabenh. SPECIES
-=======
+# Leangium umbilicatum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

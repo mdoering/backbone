@@ -1,5 +1,4 @@
-Ochrolechia weymouthii Jatta SPECIES
-=======
+# Ochrolechia weymouthii Jatta SPECIES
 
 #### Status
 ACCEPTED

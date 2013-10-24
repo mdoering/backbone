@@ -1,5 +1,4 @@
-Dictyocha delicata var. bisecta D. Bukry VARIETY
-=======
+# Dictyocha delicata (D. Bukry) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon arboreum (Schwein.) Fink SPECIES
-=======
+# Dermatocarpon arboreum (Schwein.) Fink SPECIES
 
 #### Status
 ACCEPTED

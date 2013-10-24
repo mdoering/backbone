@@ -1,5 +1,4 @@
-Asteridium leguminosarum Gucevic SPECIES
-=======
+# Asteridium leguminosarum Gucevic SPECIES
 
 #### Status
 ACCEPTED

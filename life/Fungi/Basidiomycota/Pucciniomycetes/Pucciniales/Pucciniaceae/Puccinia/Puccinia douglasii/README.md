@@ -1,5 +1,4 @@
-Puccinia douglasii var. douglasii VARIETY
-=======
+# Puccinia douglasii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Acad. nat. Sci. Philad. , 1893 45: 152 (1893)
 
 #### Original name
-Puccinia douglasii var. douglasii
+Puccinia douglasii Ellis & Everh.
 
 ### Remarks
 null

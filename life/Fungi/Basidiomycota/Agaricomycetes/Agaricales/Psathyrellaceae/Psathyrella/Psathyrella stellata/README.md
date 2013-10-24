@@ -1,17 +1,16 @@
-Drosophila stellata var. orbicularis Romagn. VARIETY
-=======
+# Psathyrella stellata (Romagn.) Romagn., 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 21: 153 (1952)
+Docums Mycol. 12(no. 48): 52 (1983)
 
 #### Original name
-Drosophila stellata var. orbicularis Romagn.
+Drosophila stellata Romagn., 1952
 
 ### Remarks
 null

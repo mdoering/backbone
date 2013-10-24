@@ -1,5 +1,4 @@
-Sporisorium chaseae (Zundel) Vánky SPECIES
-=======
+# Sporisorium chaseae (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

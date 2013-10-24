@@ -1,5 +1,4 @@
-Pseudocollema cartilagineum Kanouse & A.H. Sm. SPECIES
-=======
+# Pseudocollema cartilagineum Kanouse & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

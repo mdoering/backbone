@@ -1,5 +1,4 @@
-Phyllostictina theicola (Siemaszko) Petr. SPECIES
-=======
+# Phyllostictina theicola (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

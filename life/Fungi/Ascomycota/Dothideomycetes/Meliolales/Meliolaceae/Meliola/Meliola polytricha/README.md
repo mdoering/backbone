@@ -1,17 +1,16 @@
-Meliola polytricha var. polytricha VARIETY
-=======
+# Meliola polytricha Kalchbr. & Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 8(no. 46): 72 (1879)
 
 #### Original name
-Meliola polytricha var. polytricha
+Meliola polytricha Kalchbr. & Cooke, 1879
 
 ### Remarks
 null

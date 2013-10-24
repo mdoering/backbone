@@ -1,5 +1,4 @@
-Distephanus varians Braarud (& Braarud) D. Bukry SPECIES
-=======
+# Distephanus varians Braarud (& Braarud) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

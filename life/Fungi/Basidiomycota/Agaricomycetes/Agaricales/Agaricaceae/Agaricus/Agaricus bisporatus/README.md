@@ -1,5 +1,4 @@
-Agaricus bisporatus Contu SPECIES
-=======
+# Agaricus bisporatus Contu SPECIES
 
 #### Status
 ACCEPTED

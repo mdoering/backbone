@@ -1,5 +1,4 @@
-Shewanella decolorationis Xu et al., 2005 SPECIES
-=======
+# Shewanella decolorationis Xu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula floridana Murrill SPECIES
-=======
+# Galerula floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

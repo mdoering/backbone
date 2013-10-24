@@ -1,5 +1,4 @@
-Lecidea leproloma R. Sant. SPECIES
-=======
+# Lecidea leproloma R. Sant. SPECIES
 
 #### Status
 ACCEPTED

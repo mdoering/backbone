@@ -1,8 +1,7 @@
-Phoma urticicola Aa & Boerema, 1976 SPECIES
-=======
+# Didymella urticicola Aa & Boerema, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 in Boerema, Trans. Br. mycol. Soc. 67(2): 303 (1976)
 
 #### Original name
-Phoma urticicola Aa & Boerema, 1976
+Didymella urticicola Aa & Boerema, 1976
 
 ### Remarks
 null

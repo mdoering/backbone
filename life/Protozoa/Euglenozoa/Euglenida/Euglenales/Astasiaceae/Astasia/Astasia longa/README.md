@@ -1,5 +1,4 @@
-Astasia longa E.G. Pringsheim SPECIES
-=======
+# Astasia longa E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

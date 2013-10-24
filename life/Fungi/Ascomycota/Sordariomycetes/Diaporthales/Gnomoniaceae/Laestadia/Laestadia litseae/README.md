@@ -1,5 +1,4 @@
-Laestadia litseae (Berk. & Broome) Sacc. SPECIES
-=======
+# Laestadia litseae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

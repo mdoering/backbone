@@ -1,17 +1,16 @@
-Helicocoryne Corda GENUS
-=======
+# Helicoma Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 6: 9 (1854)
+Icon. fung. (Prague) 1: 15 (1837)
 
 #### Original name
-Helicocoryne Corda
+Helicoma Corda
 
 ### Remarks
 null

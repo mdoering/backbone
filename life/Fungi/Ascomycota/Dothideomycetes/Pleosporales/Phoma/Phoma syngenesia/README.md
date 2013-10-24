@@ -1,5 +1,4 @@
-Phoma syngenesia Brunaud SPECIES
-=======
+# Phoma syngenesia Brunaud SPECIES
 
 #### Status
 ACCEPTED

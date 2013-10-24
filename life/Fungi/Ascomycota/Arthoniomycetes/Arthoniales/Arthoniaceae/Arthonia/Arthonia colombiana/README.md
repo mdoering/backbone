@@ -1,5 +1,4 @@
-Arthonia colombiana Etayo SPECIES
-=======
+# Arthonia colombiana Etayo SPECIES
 
 #### Status
 ACCEPTED

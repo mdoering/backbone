@@ -1,17 +1,16 @@
-Helotium vernale Dennis, 1956 SPECIES
-=======
+# Hymenoscyphus vernus (Boud.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 62: 73 (1956)
+Persoonia 3(1): 78 (1964)
 
 #### Original name
-Helotium vernale Dennis, 1956
+Ombrophila verna Boud., 1889
 
 ### Remarks
 null

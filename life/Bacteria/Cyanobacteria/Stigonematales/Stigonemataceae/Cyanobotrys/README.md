@@ -1,5 +1,4 @@
-Cyanobotrys L. Hoffmann, 1991 GENUS
-=======
+# Cyanobotrys L. Hoffmann, 1991 GENUS
 
 #### Status
 ACCEPTED

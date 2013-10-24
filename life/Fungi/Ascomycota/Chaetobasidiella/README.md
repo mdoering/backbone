@@ -1,5 +1,4 @@
-Chaetobasidiella Höhn. GENUS
-=======
+# Chaetobasidiella Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Sphaeroidinella dehiscens subsp. dehiscens SUBSPECIES
-=======
+# Sphaeroidinella dehiscens (Parker & Jones, 1865) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+World Register of Marine Species
 
 #### Published in
 null

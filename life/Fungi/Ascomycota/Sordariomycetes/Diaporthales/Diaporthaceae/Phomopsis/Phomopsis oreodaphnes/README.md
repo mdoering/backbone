@@ -1,5 +1,4 @@
-Phomopsis oreodaphnes (Henn.) Aa SPECIES
-=======
+# Phomopsis oreodaphnes (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

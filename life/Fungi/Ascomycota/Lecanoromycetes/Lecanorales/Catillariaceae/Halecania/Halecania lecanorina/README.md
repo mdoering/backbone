@@ -1,17 +1,16 @@
-Lecania lecanorina (Anzi) Zahlbr. SPECIES
-=======
+# Halecania lecanorina (Anzi) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 7(3-4): 397 (1987)
 
 #### Original name
-Gyalolechia lecanorina Anzi
+Thalloidima lecanorinum Anzi
 
 ### Remarks
 null

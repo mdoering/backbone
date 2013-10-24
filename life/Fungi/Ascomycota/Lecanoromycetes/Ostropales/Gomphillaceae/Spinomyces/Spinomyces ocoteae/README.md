@@ -1,5 +1,4 @@
-Spinomyces ocoteae Bat. & H. Maia SPECIES
-=======
+# Spinomyces ocoteae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

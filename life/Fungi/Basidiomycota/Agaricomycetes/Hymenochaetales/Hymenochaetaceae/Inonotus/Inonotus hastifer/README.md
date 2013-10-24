@@ -1,14 +1,13 @@
-Mensularia hastifera (Pouzar) T. Wagner & M. Fisch., 2001 SPECIES
-=======
+# Inonotus hastifer Pouzar, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 105(7): 781 (2001)
+Ceská Mykol. 35(1): 25 (1981)
 
 #### Original name
 Inonotus hastifer Pouzar, 1981

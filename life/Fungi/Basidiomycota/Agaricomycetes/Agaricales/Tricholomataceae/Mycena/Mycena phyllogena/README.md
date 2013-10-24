@@ -1,5 +1,4 @@
-Mycena phyllogena (Pers.) Singer, 1961 SPECIES
-=======
+# Mycena phyllogena (Pers.) Singer, 1961 SPECIES
 
 #### Status
 ACCEPTED

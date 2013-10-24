@@ -1,5 +1,4 @@
-Amanita fuscosquamosa A.E. Wood SPECIES
-=======
+# Amanita fuscosquamosa A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea thomsonii subsp. thomsonii SUBSPECIES
-=======
+# Usnea thomsonii Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea thomsonii subsp. thomsonii
+Usnea thomsonii Stirt.
 
 ### Remarks
 null

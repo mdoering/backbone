@@ -1,5 +1,4 @@
-Astrorhiza vermiformis Goes, 1896 SPECIES
-=======
+# Astrorhiza vermiformis Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleococcum pezizoideum Cooke SPECIES
-=======
+# Pleococcum pezizoideum Cooke SPECIES
 
 #### Status
 ACCEPTED

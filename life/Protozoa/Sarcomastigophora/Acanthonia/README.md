@@ -1,5 +1,4 @@
-Acanthonia Haeckel, 1881 GENUS
-=======
+# Acanthonia Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

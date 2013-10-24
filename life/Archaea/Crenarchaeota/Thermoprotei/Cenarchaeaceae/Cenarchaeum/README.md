@@ -1,5 +1,4 @@
-Cenarchaeum Preston, Wu, Molinski & De Long, 1996 GENUS
-=======
+# Cenarchaeum Preston, Wu, Molinski & De Long, 1996 GENUS
 
 #### Status
 ACCEPTED

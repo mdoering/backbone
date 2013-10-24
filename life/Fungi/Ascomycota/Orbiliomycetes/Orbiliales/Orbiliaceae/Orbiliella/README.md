@@ -1,5 +1,4 @@
-Orbiliella GENUS
-=======
+# Orbiliella GENUS
 
 #### Status
 ACCEPTED

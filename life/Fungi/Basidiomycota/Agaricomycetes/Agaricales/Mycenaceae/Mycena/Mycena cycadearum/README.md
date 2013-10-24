@@ -1,5 +1,4 @@
-Mycena cycadearum Henn. SPECIES
-=======
+# Mycena cycadearum Henn. SPECIES
 
 #### Status
 ACCEPTED

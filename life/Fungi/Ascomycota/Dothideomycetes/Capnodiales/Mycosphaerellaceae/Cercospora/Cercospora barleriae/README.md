@@ -1,5 +1,4 @@
-Cercospora barleriae J.M. Yen & Lim SPECIES
-=======
+# Cercospora barleriae J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

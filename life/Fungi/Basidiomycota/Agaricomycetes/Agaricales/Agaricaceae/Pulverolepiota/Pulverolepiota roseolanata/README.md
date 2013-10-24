@@ -1,5 +1,4 @@
-Pulverolepiota roseolanata (Huijsman) Bon SPECIES
-=======
+# Pulverolepiota roseolanata (Huijsman) Bon SPECIES
 
 #### Status
 ACCEPTED

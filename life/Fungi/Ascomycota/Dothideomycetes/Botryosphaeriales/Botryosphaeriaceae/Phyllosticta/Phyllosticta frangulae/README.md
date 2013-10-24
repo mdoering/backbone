@@ -1,5 +1,4 @@
-Phyllosticta frangulae Westend. SPECIES
-=======
+# Phyllosticta frangulae Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius villosipes Cleland SPECIES
-=======
+# Marasmius villosipes Cleland SPECIES
 
 #### Status
 ACCEPTED

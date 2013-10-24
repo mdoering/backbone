@@ -1,5 +1,4 @@
-Omphalia subintegrella Henn. SPECIES
-=======
+# Omphalia subintegrella Henn. SPECIES
 
 #### Status
 ACCEPTED

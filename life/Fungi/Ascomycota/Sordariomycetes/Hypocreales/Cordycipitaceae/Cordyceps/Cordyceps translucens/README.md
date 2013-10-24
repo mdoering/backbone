@@ -1,5 +1,4 @@
-Cordyceps translucens Petch SPECIES
-=======
+# Cordyceps translucens Petch SPECIES
 
 #### Status
 ACCEPTED

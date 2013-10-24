@@ -1,5 +1,4 @@
-Gnomonia lithocarpicola W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
-=======
+# Gnomonia lithocarpicola W.H. Hsieh, Chi Y. Chen & Sivan. SPECIES
 
 #### Status
 ACCEPTED

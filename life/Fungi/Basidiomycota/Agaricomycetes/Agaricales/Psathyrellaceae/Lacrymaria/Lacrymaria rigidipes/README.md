@@ -1,5 +1,4 @@
-Lacrymaria rigidipes (Peck) Watling SPECIES
-=======
+# Lacrymaria rigidipes (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

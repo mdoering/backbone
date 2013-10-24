@@ -1,5 +1,4 @@
-Gymnodinium albidum J.B. Lackey & E.W. Lackey, 1970 SPECIES
-=======
+# Gymnodinium albidum J.B. Lackey & E.W. Lackey, 1970 SPECIES
 
 #### Status
 ACCEPTED

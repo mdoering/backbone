@@ -1,5 +1,4 @@
-Dinophysis taylorii Hernández-Becerril, 1992 SPECIES
-=======
+# Dinophysis taylorii Hernández-Becerril, 1992 SPECIES
 
 #### Status
 ACCEPTED

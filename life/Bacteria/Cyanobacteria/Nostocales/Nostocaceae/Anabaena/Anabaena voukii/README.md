@@ -1,5 +1,4 @@
-Anabaena voukii De Toni f. SPECIES
-=======
+# Anabaena voukii De Toni f. SPECIES
 
 #### Status
 ACCEPTED

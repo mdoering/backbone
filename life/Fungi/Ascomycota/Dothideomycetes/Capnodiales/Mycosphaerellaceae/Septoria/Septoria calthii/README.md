@@ -1,5 +1,4 @@
-Septoria calthii Y.S. Paul & A. Singh SPECIES
-=======
+# Septoria calthii Y.S. Paul & A. Singh SPECIES
 
 #### Status
 ACCEPTED

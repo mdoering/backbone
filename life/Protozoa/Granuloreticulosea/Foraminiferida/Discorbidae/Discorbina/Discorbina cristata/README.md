@@ -1,5 +1,4 @@
-Discorbina cristata Heron-Allen & Earland, 1909 SPECIES
-=======
+# Discorbina cristata Heron-Allen & Earland, 1909 SPECIES
 
 #### Status
 ACCEPTED

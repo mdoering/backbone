@@ -1,14 +1,13 @@
-Poria rennyi (Berk. & Broome) Sacc., 1886 SPECIES
-=======
+# Postia rennyi (Berk. & Broome) Rajchenb., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 72): 112 (1886)
+Boln Soc. argent. Bot. 29(1-2): 117 (1993)
 
 #### Original name
 Polyporus rennyi Berk. & Broome, 1875

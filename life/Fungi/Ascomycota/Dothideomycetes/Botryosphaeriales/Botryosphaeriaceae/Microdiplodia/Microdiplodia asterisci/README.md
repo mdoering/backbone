@@ -1,5 +1,4 @@
-Microdiplodia asterisci (Pat.) Tassi SPECIES
-=======
+# Microdiplodia asterisci (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Giraudia sphacelarioides Derbès & Solier SPECIES
-=======
+# Giraudia sphacelarioides Derbès & Solier SPECIES
 
 #### Status
 ACCEPTED

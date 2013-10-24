@@ -1,5 +1,4 @@
-Laboulbenia mudeungensis Y.B. Lee SPECIES
-=======
+# Laboulbenia mudeungensis Y.B. Lee SPECIES
 
 #### Status
 ACCEPTED

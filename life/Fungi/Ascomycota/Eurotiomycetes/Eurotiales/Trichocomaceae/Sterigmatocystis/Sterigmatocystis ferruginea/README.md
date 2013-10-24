@@ -1,5 +1,4 @@
-Sterigmatocystis ferruginea Cooke SPECIES
-=======
+# Sterigmatocystis ferruginea Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora plumbeola (Hue) Zahlbr. SPECIES
-=======
+# Lecanora plumbeola (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

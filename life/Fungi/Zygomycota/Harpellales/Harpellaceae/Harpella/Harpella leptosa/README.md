@@ -1,5 +1,4 @@
-Harpella leptosa Lichtw. & S.T. Moss, 1980 SPECIES
-=======
+# Harpella leptosa Lichtw. & S.T. Moss, 1980 SPECIES
 
 #### Status
 ACCEPTED

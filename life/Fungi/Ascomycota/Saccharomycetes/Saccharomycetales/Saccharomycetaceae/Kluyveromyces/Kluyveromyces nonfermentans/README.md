@@ -1,5 +1,4 @@
-Kluyveromyces nonfermentans Nagah., Hamam., Nakase & Horikoshi, 1999 SPECIES
-=======
+# Kluyveromyces nonfermentans Nagah., Hamam., Nakase & Horikoshi, 1999 SPECIES
 
 #### Status
 ACCEPTED

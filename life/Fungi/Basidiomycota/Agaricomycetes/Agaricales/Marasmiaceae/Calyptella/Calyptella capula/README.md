@@ -1,17 +1,16 @@
-Cyphella laeta var. laeta VARIETY
-=======
+# Calyptella capula (Holmsk.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 568 (1838)
+Fl. mycol. France (Paris) 25 (1888)
 
 #### Original name
-Cyphella laeta var. laeta
+Peziza capula Holmsk., 1799
 
 ### Remarks
 null

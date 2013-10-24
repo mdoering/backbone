@@ -1,5 +1,4 @@
-Clitocybe fumosifolia (Hesler) H.E. Bigelow SPECIES
-=======
+# Clitocybe fumosifolia (Hesler) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

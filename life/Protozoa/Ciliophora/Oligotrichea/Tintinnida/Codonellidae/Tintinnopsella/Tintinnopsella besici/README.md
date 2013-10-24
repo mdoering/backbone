@@ -1,5 +1,4 @@
-Tintinnopsella besici SPECIES
-=======
+# Tintinnopsella besici SPECIES
 
 #### Status
 ACCEPTED

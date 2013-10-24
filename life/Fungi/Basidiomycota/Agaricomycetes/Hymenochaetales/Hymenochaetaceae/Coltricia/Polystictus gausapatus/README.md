@@ -1,5 +1,4 @@
-Polystictus gausapatus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus gausapatus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

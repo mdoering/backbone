@@ -1,5 +1,4 @@
-Nitrader Cordey & Carter, 1996 GENUS
-=======
+# Nitrader Cordey & Carter, 1996 GENUS
 
 #### Status
 ACCEPTED

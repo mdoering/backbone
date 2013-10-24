@@ -1,5 +1,4 @@
-Lenticulina taluensis (Chang) SPECIES
-=======
+# Lenticulina taluensis (Chang) SPECIES
 
 #### Status
 ACCEPTED

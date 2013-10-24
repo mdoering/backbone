@@ -1,8 +1,7 @@
-Acanthoica lithostratos Schiller SPECIES
-=======
+# Anacanthoica lithostratos (Schiller) Norris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

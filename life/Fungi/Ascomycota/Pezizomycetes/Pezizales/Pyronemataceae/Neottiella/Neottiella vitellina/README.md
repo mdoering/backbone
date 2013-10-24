@@ -1,5 +1,4 @@
-Neottiella vitellina Rostr. SPECIES
-=======
+# Neottiella vitellina Rostr. SPECIES
 
 #### Status
 ACCEPTED

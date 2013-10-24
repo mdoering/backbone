@@ -1,5 +1,4 @@
-Stemonitis minor Golovenko SPECIES
-=======
+# Stemonitis minor Golovenko SPECIES
 
 #### Status
 ACCEPTED

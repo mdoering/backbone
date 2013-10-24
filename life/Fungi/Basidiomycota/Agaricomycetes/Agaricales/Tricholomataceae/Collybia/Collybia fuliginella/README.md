@@ -1,5 +1,4 @@
-Collybia fuliginella Peck SPECIES
-=======
+# Collybia fuliginella Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllocrea paulliniae (Rehm) Höhn. SPECIES
-=======
+# Phyllocrea paulliniae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea glaziovii Sacc. SPECIES
-=======
+# Hypocrea glaziovii Sacc. SPECIES
 
 #### Status
 ACCEPTED

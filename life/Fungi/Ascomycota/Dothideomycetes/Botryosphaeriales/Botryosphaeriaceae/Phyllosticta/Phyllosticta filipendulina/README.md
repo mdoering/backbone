@@ -1,5 +1,4 @@
-Phyllosticta filipendulina var. filipendulina VARIETY
-=======
+# Phyllosticta filipendulina Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 2): 150 (1878)
 
 #### Original name
-Phyllosticta filipendulina var. filipendulina
+Phyllosticta filipendulina Sacc. & Speg.
 
 ### Remarks
 null

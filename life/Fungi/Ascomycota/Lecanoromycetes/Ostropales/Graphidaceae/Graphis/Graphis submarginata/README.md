@@ -1,5 +1,4 @@
-Graphis submarginata Lücking SPECIES
-=======
+# Graphis submarginata Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora kansensis Syd. & P. Syd. SPECIES
-=======
+# Cercospora kansensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

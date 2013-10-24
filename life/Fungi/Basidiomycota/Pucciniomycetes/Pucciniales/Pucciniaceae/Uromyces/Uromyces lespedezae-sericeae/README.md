@@ -1,5 +1,4 @@
-Uromyces lespedezae-sericeae S. Ahmad SPECIES
-=======
+# Uromyces lespedezae-sericeae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

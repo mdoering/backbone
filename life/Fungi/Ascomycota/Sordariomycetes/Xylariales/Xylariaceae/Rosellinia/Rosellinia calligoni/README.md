@@ -1,5 +1,4 @@
-Rosellinia calligoni Kravtzev SPECIES
-=======
+# Rosellinia calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

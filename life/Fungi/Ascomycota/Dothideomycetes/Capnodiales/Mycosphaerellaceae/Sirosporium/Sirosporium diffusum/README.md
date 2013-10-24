@@ -1,5 +1,4 @@
-Sirosporium diffusum (Heald & F.A. Wolf) Deighton SPECIES
-=======
+# Sirosporium diffusum (Heald & F.A. Wolf) Deighton SPECIES
 
 #### Status
 ACCEPTED

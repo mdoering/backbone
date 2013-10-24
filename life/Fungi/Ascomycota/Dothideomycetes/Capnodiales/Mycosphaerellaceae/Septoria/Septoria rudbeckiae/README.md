@@ -1,17 +1,16 @@
-Septoria rudbeckiae var. rudbeckiae VARIETY
-=======
+# Septoria rudbeckiae Ellis & Halst., 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 6(1): 33 (1890)
 
 #### Original name
-Septoria rudbeckiae var. rudbeckiae
+Septoria rudbeckiae Ellis & Halst., 1890
 
 ### Remarks
 null

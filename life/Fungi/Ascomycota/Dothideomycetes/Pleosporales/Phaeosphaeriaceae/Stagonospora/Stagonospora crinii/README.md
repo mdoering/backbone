@@ -1,5 +1,4 @@
-Stagonospora crinii Bubák & Kabát SPECIES
-=======
+# Stagonospora crinii Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

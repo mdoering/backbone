@@ -1,5 +1,4 @@
-Gibberidea salicina (Fuckel) Kuntze SPECIES
-=======
+# Gibberidea salicina (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

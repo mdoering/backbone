@@ -1,5 +1,4 @@
-Cercosporella liliicola (Richon) Sacc. SPECIES
-=======
+# Cercosporella liliicola (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seticyphella tenuispora Agerer, 1983 SPECIES
-=======
+# Seticyphella tenuispora Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

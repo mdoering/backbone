@@ -1,5 +1,4 @@
-Vermisporium tenzingii (Lacy) W.P. Wu & B. Sutton SPECIES
-=======
+# Vermisporium tenzingii (Lacy) W.P. Wu & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

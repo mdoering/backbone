@@ -1,5 +1,4 @@
-Clathrospora elymae Rabenh. SPECIES
-=======
+# Clathrospora elymae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

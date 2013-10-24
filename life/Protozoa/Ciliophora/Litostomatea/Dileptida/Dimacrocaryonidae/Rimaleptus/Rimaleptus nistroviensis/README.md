@@ -1,8 +1,7 @@
-Dileptus nistroviensis Chorik, 1967 SPECIES
-=======
+# Rimaleptus nistroviensis (Chorik, 1967) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

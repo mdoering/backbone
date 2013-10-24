@@ -1,5 +1,4 @@
-Arthothelium spectabile f. spectabile FORM
-=======
+# Arthothelium spectabile (Flot.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 54 (1852)
 
 #### Original name
-Arthothelium spectabile f. spectabile
+Arthonia spectabilis Flot.
 
 ### Remarks
 null

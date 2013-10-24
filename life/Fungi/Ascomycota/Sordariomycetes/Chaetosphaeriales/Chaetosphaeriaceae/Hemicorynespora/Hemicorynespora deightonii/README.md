@@ -1,5 +1,4 @@
-Hemicorynespora deightonii M.B. Ellis, 1972 SPECIES
-=======
+# Hemicorynespora deightonii M.B. Ellis, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia delicata Mont. SPECIES
-=======
+# Laschia delicata Mont. SPECIES
 
 #### Status
 ACCEPTED

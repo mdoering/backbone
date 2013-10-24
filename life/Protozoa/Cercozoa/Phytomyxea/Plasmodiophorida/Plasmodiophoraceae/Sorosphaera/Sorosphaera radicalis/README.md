@@ -1,5 +1,4 @@
-Sorosphaera radicalis Ivimey Cook & Schwartz, 1929 SPECIES
-=======
+# Sorosphaera radicalis Ivimey Cook & Schwartz, 1929 SPECIES
 
 #### Status
 ACCEPTED

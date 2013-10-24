@@ -1,5 +1,4 @@
-Lactifluus hygrophoroides (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Lactifluus hygrophoroides (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

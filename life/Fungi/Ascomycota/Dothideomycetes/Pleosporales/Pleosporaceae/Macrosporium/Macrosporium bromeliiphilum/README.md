@@ -1,5 +1,4 @@
-Macrosporium bromeliiphilum Speg. SPECIES
-=======
+# Macrosporium bromeliiphilum Speg. SPECIES
 
 #### Status
 ACCEPTED

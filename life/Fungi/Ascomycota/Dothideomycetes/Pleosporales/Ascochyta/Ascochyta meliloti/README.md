@@ -1,5 +1,4 @@
-Ascochyta meliloti (Trel.) Davis SPECIES
-=======
+# Ascochyta meliloti (Trel.) Davis SPECIES
 
 #### Status
 ACCEPTED

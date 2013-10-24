@@ -1,8 +1,7 @@
-Trichophrya angulata Dangeard, 1890 SPECIES
-=======
+# Tokophrya infusionum (Stein, 1859) Bütschli, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

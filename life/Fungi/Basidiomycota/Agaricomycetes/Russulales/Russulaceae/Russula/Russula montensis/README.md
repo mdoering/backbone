@@ -1,5 +1,4 @@
-Russula montensis Bidaud, Moënne-Locc. & P.-A. Moreau SPECIES
-=======
+# Russula montensis Bidaud, Moënne-Locc. & P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

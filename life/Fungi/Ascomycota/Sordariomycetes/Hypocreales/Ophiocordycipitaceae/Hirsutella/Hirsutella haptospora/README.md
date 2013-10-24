@@ -1,5 +1,4 @@
-Hirsutella haptospora Balazy & J. Wisn. SPECIES
-=======
+# Hirsutella haptospora Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

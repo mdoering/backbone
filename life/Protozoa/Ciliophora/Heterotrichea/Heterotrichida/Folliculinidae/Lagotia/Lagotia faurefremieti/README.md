@@ -1,5 +1,4 @@
-Lagotia faurefremieti Hadzi, 1951 SPECIES
-=======
+# Lagotia faurefremieti Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Limacinia penzigi (Sacc.) Sacc. SPECIES
-=======
+# Limacinia penzigii (Sacc.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

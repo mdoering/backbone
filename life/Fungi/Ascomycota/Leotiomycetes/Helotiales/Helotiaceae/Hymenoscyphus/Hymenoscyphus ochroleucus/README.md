@@ -1,5 +1,4 @@
-Hymenoscyphus ochroleucus anon. SPECIES
-=======
+# Hymenoscyphus ochroleucus anon. SPECIES
 
 #### Status
 ACCEPTED

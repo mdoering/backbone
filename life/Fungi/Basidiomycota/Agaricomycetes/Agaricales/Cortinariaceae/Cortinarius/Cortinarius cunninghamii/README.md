@@ -1,14 +1,13 @@
-Thaxterogaster cunninghamii E. Horak, 1973 SPECIES
-=======
+# Cortinarius cunninghamii (E. Horak) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 43: 92 (1973)
+Mycotaxon 81: 179 (2002)
 
 #### Original name
 Thaxterogaster cunninghamii E. Horak, 1973

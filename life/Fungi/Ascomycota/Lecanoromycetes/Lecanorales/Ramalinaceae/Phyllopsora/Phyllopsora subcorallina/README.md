@@ -1,5 +1,4 @@
-Phyllopsora subcorallina Zahlbr. SPECIES
-=======
+# Phyllopsora subcorallina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

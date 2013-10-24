@@ -1,14 +1,13 @@
-Clavaria sibutiana Har. & Pat., 1909 SPECIES
-=======
+# Clavulinopsis sibutiana (Har. & Pat.) Corner, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin du Muséum National d'Histoire Naturelle, Paris 15: 89 (1909)
+Beih. Nova Hedwigia 33: 73 (1970)
 
 #### Original name
 Clavaria sibutiana Har. & Pat., 1909

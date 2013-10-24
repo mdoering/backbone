@@ -1,5 +1,4 @@
-Meliola aegiphilae F. Stevens SPECIES
-=======
+# Meliola aegiphilae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

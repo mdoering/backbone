@@ -1,5 +1,4 @@
-Julescrania B.C. Parker & E.Y. Dawson, 1965 GENUS
-=======
+# Julescrania B.C. Parker & E.Y. Dawson, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe riparia var. riparia VARIETY
-=======
+# Hygrocybe riparia Kreisel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Westfälische Pilzbriefe 2(7): 112 (1960)
 
 #### Original name
-Hygrocybe riparia var. riparia
+Hygrocybe riparia Kreisel
 
 ### Remarks
 null

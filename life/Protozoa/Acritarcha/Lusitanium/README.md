@@ -1,5 +1,4 @@
-Lusitanium Elaouad-Debbaj, 1981 GENUS
-=======
+# Lusitanium Elaouad-Debbaj, 1981 GENUS
 
 #### Status
 ACCEPTED

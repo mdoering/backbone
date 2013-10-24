@@ -1,5 +1,4 @@
-Seismosarca hydrophora Cooke SPECIES
-=======
+# Seismosarca hydrophora Cooke SPECIES
 
 #### Status
 ACCEPTED

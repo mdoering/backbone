@@ -1,5 +1,4 @@
-Phyllosticta sapotarum Gutner SPECIES
-=======
+# Phyllosticta sapotarum Gutner SPECIES
 
 #### Status
 ACCEPTED

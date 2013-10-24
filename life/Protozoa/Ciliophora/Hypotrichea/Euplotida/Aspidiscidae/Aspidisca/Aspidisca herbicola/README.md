@@ -1,5 +1,4 @@
-Aspidisca herbicola Kahl, 1932 SPECIES
-=======
+# Aspidisca herbicola Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

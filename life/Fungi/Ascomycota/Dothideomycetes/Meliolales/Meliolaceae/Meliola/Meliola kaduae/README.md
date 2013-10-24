@@ -1,5 +1,4 @@
-Meliola kaduae var. kaduae VARIETY
-=======
+# Meliola kaduae F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 30 (1925)
 
 #### Original name
-Meliola kaduae var. kaduae
+Meliola kaduae F. Stevens
 
 ### Remarks
 null

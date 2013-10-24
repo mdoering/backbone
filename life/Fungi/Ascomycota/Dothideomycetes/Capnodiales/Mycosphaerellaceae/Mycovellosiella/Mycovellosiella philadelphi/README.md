@@ -1,5 +1,4 @@
-Mycovellosiella philadelphi Y.L. Guo SPECIES
-=======
+# Mycovellosiella philadelphi Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

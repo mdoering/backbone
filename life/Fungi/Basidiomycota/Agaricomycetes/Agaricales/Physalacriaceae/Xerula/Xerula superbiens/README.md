@@ -1,5 +1,4 @@
-Xerula superbiens (Berk.) R.H. Petersen SPECIES
-=======
+# Xerula superbiens (Berk.) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

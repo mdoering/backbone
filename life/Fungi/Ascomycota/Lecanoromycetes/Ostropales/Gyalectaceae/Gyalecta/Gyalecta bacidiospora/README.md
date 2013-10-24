@@ -1,5 +1,4 @@
-Gyalecta bacidiospora (Eitner) Zahlbr. SPECIES
-=======
+# Gyalecta bacidiospora (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

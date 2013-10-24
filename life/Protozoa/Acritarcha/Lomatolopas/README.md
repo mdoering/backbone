@@ -1,5 +1,4 @@
-Lomatolopas Playford in Playford & Dring, 1981 GENUS
-=======
+# Lomatolopas Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

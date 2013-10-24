@@ -1,5 +1,4 @@
-Mycospraguea U. Braun & Rogerson GENUS
-=======
+# Mycospraguea U. Braun & Rogerson GENUS
 
 #### Status
 ACCEPTED

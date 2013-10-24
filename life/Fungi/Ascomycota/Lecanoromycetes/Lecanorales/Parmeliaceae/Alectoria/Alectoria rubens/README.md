@@ -1,5 +1,4 @@
-Alectoria rubens f. rubens FORM
-=======
+# Alectoria rubens (Kernst.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Alectoria rubens f. rubens
+null
 
 ### Remarks
 null

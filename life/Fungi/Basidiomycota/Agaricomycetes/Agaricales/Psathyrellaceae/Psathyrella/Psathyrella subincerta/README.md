@@ -1,5 +1,4 @@
-Psathyrella subincerta Z.S. Bi SPECIES
-=======
+# Psathyrella subincerta Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

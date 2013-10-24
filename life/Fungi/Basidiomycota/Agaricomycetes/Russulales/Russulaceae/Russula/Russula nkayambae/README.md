@@ -1,5 +1,4 @@
-Russula nkayambae Buyck SPECIES
-=======
+# Russula nkayambae Buyck SPECIES
 
 #### Status
 ACCEPTED

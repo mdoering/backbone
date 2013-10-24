@@ -1,5 +1,4 @@
-Nodulosphaeria concinna (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Nodulosphaeria concinna (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

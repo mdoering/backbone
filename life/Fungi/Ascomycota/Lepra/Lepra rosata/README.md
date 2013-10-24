@@ -1,5 +1,4 @@
-Lepra rosata (Wulfen) Rabenh. SPECIES
-=======
+# Lepra rosata (Wulfen) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

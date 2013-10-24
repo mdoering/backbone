@@ -1,5 +1,4 @@
-Pseudoparmelia leucopis (Kremp.) Hale SPECIES
-=======
+# Pseudoparmelia leucopis (Kremp.) Hale SPECIES
 
 #### Status
 ACCEPTED

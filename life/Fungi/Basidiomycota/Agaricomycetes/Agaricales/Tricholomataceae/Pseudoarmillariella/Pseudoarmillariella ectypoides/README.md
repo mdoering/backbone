@@ -1,14 +1,13 @@
-Omphalina ectypoides (Peck) H.E. Bigelow, 1982 SPECIES
-=======
+# Pseudoarmillariella ectypoides (Peck) Singer, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 35: 46 (1982)
+Mycologia 48: 725 (1956)
 
 #### Original name
 Agaricus ectypoides Peck, 1872

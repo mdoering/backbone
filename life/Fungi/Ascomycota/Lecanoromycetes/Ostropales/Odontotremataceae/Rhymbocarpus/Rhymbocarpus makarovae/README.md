@@ -1,5 +1,4 @@
-Rhymbocarpus makarovae Diederich & Etayo SPECIES
-=======
+# Rhymbocarpus makarovae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

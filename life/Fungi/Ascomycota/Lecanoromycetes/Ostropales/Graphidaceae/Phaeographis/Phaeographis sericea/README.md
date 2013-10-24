@@ -1,5 +1,4 @@
-Phaeographis sericea (Eschw.) Müll. Arg. SPECIES
-=======
+# Phaeographis sericea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

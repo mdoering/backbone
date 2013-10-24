@@ -1,5 +1,4 @@
-Diplodina sesleriae Moesz SPECIES
-=======
+# Diplodina sesleriae Moesz SPECIES
 
 #### Status
 ACCEPTED

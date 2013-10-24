@@ -1,5 +1,4 @@
-Hypodermopsis variegata (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Hypodermopsis variegata (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

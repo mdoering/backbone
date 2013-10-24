@@ -1,5 +1,4 @@
-Codonella campanella SPECIES
-=======
+# Codonella campanella SPECIES
 
 #### Status
 ACCEPTED

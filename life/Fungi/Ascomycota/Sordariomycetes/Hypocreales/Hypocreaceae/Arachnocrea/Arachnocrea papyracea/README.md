@@ -1,5 +1,4 @@
-Arachnocrea papyracea (Ellis & Holw.) E. Müll. SPECIES
-=======
+# Arachnocrea papyracea (Ellis & Holw.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriomyces subglabripes (Peck) Murrill SPECIES
-=======
+# Ceriomyces subglabripes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

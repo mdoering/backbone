@@ -1,5 +1,4 @@
-Bullaria ellisii (De Toni) Arthur & Mains SPECIES
-=======
+# Bullaria ellisii (De Toni) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

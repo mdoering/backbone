@@ -1,5 +1,4 @@
-Pseudoperonospora elatostemae (Togashi & Onuma) Hoerner SPECIES
-=======
+# Pseudoperonospora elatostemae (Togashi & Onuma) Hoerner SPECIES
 
 #### Status
 ACCEPTED

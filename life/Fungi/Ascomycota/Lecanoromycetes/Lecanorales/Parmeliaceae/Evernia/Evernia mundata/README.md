@@ -1,5 +1,4 @@
-Evernia mundata Nyl. SPECIES
-=======
+# Evernia mundata Nyl. SPECIES
 
 #### Status
 ACCEPTED

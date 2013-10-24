@@ -1,5 +1,4 @@
-Buellia glaucoareolata A.L. Sm. SPECIES
-=======
+# Buellia glaucoareolata A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

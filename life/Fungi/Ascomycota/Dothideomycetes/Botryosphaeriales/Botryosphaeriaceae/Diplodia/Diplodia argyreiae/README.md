@@ -1,17 +1,16 @@
-Diplodia argyriae Chipl. SPECIES
-=======
+# Diplodia argyreiae Chipl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 42(1-2): 162 (1970)
 
 #### Original name
-Diplodia argyriae Chipl.
+Diplodia argyreiae Chipl.
 
 ### Remarks
 null

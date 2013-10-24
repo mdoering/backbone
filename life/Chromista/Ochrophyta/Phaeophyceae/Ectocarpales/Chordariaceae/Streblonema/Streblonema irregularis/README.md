@@ -1,5 +1,4 @@
-Streblonema irregularis Saunders SPECIES
-=======
+# Streblonema irregularis Saunders SPECIES
 
 #### Status
 ACCEPTED

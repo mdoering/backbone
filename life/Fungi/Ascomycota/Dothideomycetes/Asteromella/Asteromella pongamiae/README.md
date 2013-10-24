@@ -1,5 +1,4 @@
-Asteromella pongamiae (Syd. & P. Syd.) Aa SPECIES
-=======
+# Asteromella pongamiae (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena vernalis Velen. SPECIES
-=======
+# Mycena vernalis Velen. SPECIES
 
 #### Status
 ACCEPTED

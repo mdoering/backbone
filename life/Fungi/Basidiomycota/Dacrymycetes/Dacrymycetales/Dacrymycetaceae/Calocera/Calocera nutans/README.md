@@ -1,5 +1,4 @@
-Calocera nutans Sacc. SPECIES
-=======
+# Calocera nutans Sacc. SPECIES
 
 #### Status
 ACCEPTED

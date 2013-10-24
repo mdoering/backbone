@@ -1,5 +1,4 @@
-Cheiromyces cubensis Matsush. SPECIES
-=======
+# Cheiromyces cubensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

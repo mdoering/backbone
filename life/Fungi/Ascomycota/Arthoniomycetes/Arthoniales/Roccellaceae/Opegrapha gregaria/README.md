@@ -1,5 +1,4 @@
-Opegrapha gregaria var. gregaria Ach. VARIETY
-=======
+# Opegrapha gregaria Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-Opegrapha gregaria var. gregaria Ach.
+Opegrapha gregaria Ach.
 
 ### Remarks
 null

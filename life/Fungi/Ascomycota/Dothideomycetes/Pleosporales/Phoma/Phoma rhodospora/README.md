@@ -1,5 +1,4 @@
-Phoma rhodospora McAlpine SPECIES
-=======
+# Phoma rhodospora McAlpine SPECIES
 
 #### Status
 ACCEPTED

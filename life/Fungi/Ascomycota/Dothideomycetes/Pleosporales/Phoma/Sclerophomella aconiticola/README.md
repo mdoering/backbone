@@ -1,5 +1,4 @@
-Sclerophomella aconiticola Petr. SPECIES
-=======
+# Sclerophomella aconiticola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella thysselini Kirschst. SPECIES
-=======
+# Sphaerella thysselini Kirschst. SPECIES
 
 #### Status
 ACCEPTED

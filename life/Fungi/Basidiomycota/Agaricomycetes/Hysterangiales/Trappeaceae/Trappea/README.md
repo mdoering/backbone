@@ -1,5 +1,4 @@
-Trappea Castellano GENUS
-=======
+# Trappea Castellano GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida polysorbophila Kurtzman SPECIES
-=======
+# Candida polysorbophila Kurtzman SPECIES
 
 #### Status
 ACCEPTED

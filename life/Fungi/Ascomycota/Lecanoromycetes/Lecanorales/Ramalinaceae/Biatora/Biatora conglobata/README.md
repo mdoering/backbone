@@ -1,5 +1,4 @@
-Biatora conglobata Hepp SPECIES
-=======
+# Biatora conglobata Hepp SPECIES
 
 #### Status
 ACCEPTED

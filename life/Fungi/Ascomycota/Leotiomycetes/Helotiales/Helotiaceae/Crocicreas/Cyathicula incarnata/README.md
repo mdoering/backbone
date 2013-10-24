@@ -1,5 +1,4 @@
-Cyathicula incarnata (Quél.) Sacc. SPECIES
-=======
+# Cyathicula incarnata (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

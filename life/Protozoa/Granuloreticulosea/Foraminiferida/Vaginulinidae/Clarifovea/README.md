@@ -1,5 +1,4 @@
-Clarifovea Bartenstein & Malz, 2003 GENUS
-=======
+# Clarifovea Bartenstein & Malz, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracrium incarnatum G.W. Martin SPECIES
-=======
+# Tetracrium incarnatum G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

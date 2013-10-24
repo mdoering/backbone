@@ -1,5 +1,4 @@
-Amanita cubensis Cooke ex Sacc. SPECIES
-=======
+# Amanita cubensis Cooke ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

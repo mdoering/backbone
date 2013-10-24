@@ -1,5 +1,4 @@
-Collimonas fungivorans De Boer et al., 2004 SPECIES
-=======
+# Collimonas fungivorans De Boer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

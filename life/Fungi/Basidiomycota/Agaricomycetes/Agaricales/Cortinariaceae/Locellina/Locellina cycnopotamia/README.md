@@ -1,5 +1,4 @@
-Locellina cycnopotamia (Berk.) Sacc. SPECIES
-=======
+# Locellina cycnopotamia (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

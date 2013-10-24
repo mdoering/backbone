@@ -1,14 +1,13 @@
-Postia atrostrigosa (Cooke) Rajchenb., 1995 SPECIES
-=======
+# Tyromyces atrostrigosus (Cooke) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 33(1): 104 (1995)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 120 (1965)
 
 #### Original name
 Polyporus atrostrigosus Cooke, 1890

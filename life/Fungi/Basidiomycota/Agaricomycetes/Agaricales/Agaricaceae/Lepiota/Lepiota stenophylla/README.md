@@ -1,5 +1,4 @@
-Lepiota stenophylla (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota stenophylla (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

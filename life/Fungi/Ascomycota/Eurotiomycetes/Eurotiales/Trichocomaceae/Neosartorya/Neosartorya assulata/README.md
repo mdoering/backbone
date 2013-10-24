@@ -1,5 +1,4 @@
-Neosartorya assulata S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Neosartorya assulata S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

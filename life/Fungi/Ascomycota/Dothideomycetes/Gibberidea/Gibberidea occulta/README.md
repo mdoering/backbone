@@ -1,5 +1,4 @@
-Gibberidea occulta (Fuckel) Kuntze SPECIES
-=======
+# Gibberidea occulta (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

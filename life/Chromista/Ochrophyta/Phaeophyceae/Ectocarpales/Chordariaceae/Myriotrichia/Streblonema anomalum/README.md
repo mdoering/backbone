@@ -1,5 +1,4 @@
-Streblonema anomalum W.A.Setchell & N.L.Gardner, 1922 SPECIES
-=======
+# Streblonema anomalum W.A.Setchell & N.L.Gardner, 1922 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,8 +1,7 @@
-Eutypella pseudoacaciae Brunaud SPECIES
-=======
+# Eutypella pseudacaciae Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella pseudoacaciae Brunaud
+Eutypella pseudacaciae Brunaud
 
 ### Remarks
 null

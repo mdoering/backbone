@@ -1,5 +1,4 @@
-Nigredo scirpi (Castagne) Arthur SPECIES
-=======
+# Nigredo scirpi (Castagne) Arthur SPECIES
 
 #### Status
 ACCEPTED

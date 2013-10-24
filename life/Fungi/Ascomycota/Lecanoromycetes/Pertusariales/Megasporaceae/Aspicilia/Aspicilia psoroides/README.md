@@ -1,5 +1,4 @@
-Aspicilia psoroides (Hepp) Anzi SPECIES
-=======
+# Aspicilia psoroides (Hepp) Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium rubi Carm. {?} SPECIES
-=======
+# Sclerotium rubi Carm. {?} SPECIES
 
 #### Status
 ACCEPTED

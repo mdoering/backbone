@@ -1,5 +1,4 @@
-Peziza godroniana Mont. SPECIES
-=======
+# Peziza godroniana Mont. SPECIES
 
 #### Status
 ACCEPTED

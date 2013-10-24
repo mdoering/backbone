@@ -1,5 +1,4 @@
-Marasmius discopus Massee SPECIES
-=======
+# Marasmius discopus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces virens Gause & Sveshnikova, 1986 SPECIES
-=======
+# Streptomyces virens Gause & Sveshnikova, 1986 SPECIES
 
 #### Status
 ACCEPTED

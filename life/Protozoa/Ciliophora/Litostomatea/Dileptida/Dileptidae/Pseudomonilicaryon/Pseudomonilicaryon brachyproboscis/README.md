@@ -1,5 +1,4 @@
-Pseudomonilicaryon brachyproboscis Vdacny & Foissner, 2008 SPECIES
-=======
+# Pseudomonilicaryon brachyproboscis Vdacny & Foissner, 2008 SPECIES
 
 #### Status
 ACCEPTED

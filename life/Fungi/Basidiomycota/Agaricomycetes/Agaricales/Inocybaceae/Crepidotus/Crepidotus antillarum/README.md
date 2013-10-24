@@ -1,5 +1,4 @@
-Crepidotus antillarum (Pat.) Singer SPECIES
-=======
+# Crepidotus antillarum (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

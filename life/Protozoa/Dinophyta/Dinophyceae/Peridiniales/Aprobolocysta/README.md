@@ -1,5 +1,4 @@
-Aprobolocysta S.Duxbury, 1977 GENUS
-=======
+# Aprobolocysta S.Duxbury, 1977 GENUS
 
 #### Status
 ACCEPTED

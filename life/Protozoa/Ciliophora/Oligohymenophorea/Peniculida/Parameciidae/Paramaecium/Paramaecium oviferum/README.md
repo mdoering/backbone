@@ -1,5 +1,4 @@
-Paramaecium oviferum Müller, 1786 SPECIES
-=======
+# Paramaecium oviferum Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

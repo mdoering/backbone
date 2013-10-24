@@ -1,5 +1,4 @@
-Chaetoceros aurivillii Cleve SPECIES
-=======
+# Chaetoceros aurivillii Cleve SPECIES
 
 #### Status
 ACCEPTED

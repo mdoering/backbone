@@ -1,8 +1,7 @@
-Eutintinnus elongates (Jörgensen, 1924) SPECIES
-=======
+# Eutintinnus elongatus Jörgensen, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

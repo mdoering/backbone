@@ -1,5 +1,4 @@
-Pileolaria effusa Peck SPECIES
-=======
+# Pileolaria effusa Peck SPECIES
 
 #### Status
 ACCEPTED

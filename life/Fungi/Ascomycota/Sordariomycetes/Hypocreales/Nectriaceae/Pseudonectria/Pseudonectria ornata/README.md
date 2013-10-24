@@ -1,5 +1,4 @@
-Pseudonectria ornata Bat. & H. Maia SPECIES
-=======
+# Pseudonectria ornata Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

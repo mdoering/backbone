@@ -1,5 +1,4 @@
-Russula dennisii Singer ex Buyck SPECIES
-=======
+# Russula dennisii Singer ex Buyck SPECIES
 
 #### Status
 ACCEPTED

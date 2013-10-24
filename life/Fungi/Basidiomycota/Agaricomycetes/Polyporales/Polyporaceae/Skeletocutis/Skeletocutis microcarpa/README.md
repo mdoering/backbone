@@ -1,5 +1,4 @@
-Skeletocutis microcarpa Ryvarden & Iturr., 2003 SPECIES
-=======
+# Skeletocutis microcarpa Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

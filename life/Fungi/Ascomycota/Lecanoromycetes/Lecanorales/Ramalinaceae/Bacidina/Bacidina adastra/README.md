@@ -1,5 +1,4 @@
-Bacidina adastra (Sparrius & Aptroot) M. Hauck & V. Wirth SPECIES
-=======
+# Bacidina adastra (Sparrius & Aptroot) M. Hauck & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

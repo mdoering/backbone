@@ -1,5 +1,4 @@
-Ammodiscus ovalis Chapman, 1913 SPECIES
-=======
+# Ammodiscus ovalis Chapman, 1913 SPECIES
 
 #### Status
 ACCEPTED

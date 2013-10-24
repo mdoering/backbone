@@ -1,5 +1,4 @@
-Coleopucciniella idei Hirats., 1937 SPECIES
-=======
+# Coleopucciniella idei Hirats., 1937 SPECIES
 
 #### Status
 ACCEPTED

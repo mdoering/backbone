@@ -1,5 +1,4 @@
-Sebacina punaauiae L.S. Olive SPECIES
-=======
+# Sebacina punaauiae L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

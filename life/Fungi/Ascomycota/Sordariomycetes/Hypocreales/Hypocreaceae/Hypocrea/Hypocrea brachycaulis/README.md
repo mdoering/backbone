@@ -1,5 +1,4 @@
-Hypocrea brachycaulis Duke SPECIES
-=======
+# Hypocrea brachycaulis Duke SPECIES
 
 #### Status
 ACCEPTED

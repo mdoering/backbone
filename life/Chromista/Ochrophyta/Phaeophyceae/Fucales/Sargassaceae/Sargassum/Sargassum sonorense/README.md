@@ -1,5 +1,4 @@
-Sargassum sonorense E.Y.Dawson, 1960 SPECIES
-=======
+# Sargassum sonorense E.Y.Dawson, 1960 SPECIES
 
 #### Status
 ACCEPTED

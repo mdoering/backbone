@@ -1,5 +1,4 @@
-Balladyna ledermannii Syd. & P. Syd. SPECIES
-=======
+# Balladyna ledermannii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

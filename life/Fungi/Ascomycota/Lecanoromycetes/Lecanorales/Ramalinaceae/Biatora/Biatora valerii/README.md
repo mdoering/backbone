@@ -1,5 +1,4 @@
-Biatora valerii Anzi SPECIES
-=======
+# Biatora valerii Anzi SPECIES
 
 #### Status
 ACCEPTED

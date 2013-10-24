@@ -1,5 +1,4 @@
-Daedalea pleuropus Steinheim SPECIES
-=======
+# Daedalea pleuropus Steinheim SPECIES
 
 #### Status
 ACCEPTED

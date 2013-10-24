@@ -1,5 +1,4 @@
-Pyrenula prostans (Mont.) Trevis. SPECIES
-=======
+# Pyrenula prostans (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

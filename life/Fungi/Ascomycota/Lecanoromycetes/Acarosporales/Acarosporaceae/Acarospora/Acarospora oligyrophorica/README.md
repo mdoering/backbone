@@ -1,5 +1,4 @@
-Acarospora oligyrophorica Aptroot SPECIES
-=======
+# Acarospora oligyrophorica Aptroot SPECIES
 
 #### Status
 ACCEPTED

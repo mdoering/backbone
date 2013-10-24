@@ -1,5 +1,4 @@
-Pyrenopeziza bongardii (Weinm.) Sacc. SPECIES
-=======
+# Pyrenopeziza bongardii (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

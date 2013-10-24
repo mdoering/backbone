@@ -1,5 +1,4 @@
-Basidiodendron obscura (G.W. Martin) L.D. Gómez, Kisim.-Hor. & Oberw. SPECIES
-=======
+# Basidiodendron obscura (G.W. Martin) L.D. Gómez, Kisim.-Hor. & Oberw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidiella Kahl, 1930 GENUS
-=======
+# Spathidiella Kahl, 1930 GENUS
 
 #### Status
 ACCEPTED

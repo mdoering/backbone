@@ -1,5 +1,4 @@
-Puccinia chloracae Parmelee SPECIES
-=======
+# Puccinia chloracae Parmelee SPECIES
 
 #### Status
 ACCEPTED

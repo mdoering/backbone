@@ -1,5 +1,4 @@
-Euhyperamoeba Goodkov & Seravin, 1984 GENUS
-=======
+# Euhyperamoeba Goodkov & Seravin, 1984 GENUS
 
 #### Status
 ACCEPTED

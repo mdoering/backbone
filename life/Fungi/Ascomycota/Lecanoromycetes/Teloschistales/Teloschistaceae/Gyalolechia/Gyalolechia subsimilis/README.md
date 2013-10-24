@@ -1,5 +1,4 @@
-Gyalolechia subsimilis Th. Fr. SPECIES
-=======
+# Gyalolechia subsimilis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

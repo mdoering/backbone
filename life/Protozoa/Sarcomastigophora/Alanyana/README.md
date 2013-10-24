@@ -1,5 +1,4 @@
-Alanyana Guvenc, 1967 GENUS
-=======
+# Alanyana Guvenc, 1967 GENUS
 
 #### Status
 ACCEPTED

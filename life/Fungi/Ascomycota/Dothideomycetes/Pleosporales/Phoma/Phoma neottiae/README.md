@@ -1,5 +1,4 @@
-Phoma neottiae Hollós SPECIES
-=======
+# Phoma neottiae Hollós SPECIES
 
 #### Status
 ACCEPTED

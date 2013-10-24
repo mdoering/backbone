@@ -1,14 +1,13 @@
-Synechoblastus nigrescens f. nigrescens FORM
-=======
+# Collema nigrescens (Huds.) DC. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 384 (1805)
 
 #### Original name
 Lichen nigrescens Huds.

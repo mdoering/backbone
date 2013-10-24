@@ -1,17 +1,16 @@
-Conocybe ochracea f. macrospora (G.F. Atk.) Kühner ex Watling, 1971 FORM
-=======
+# Conocybe macrospora (G.F. Atk.) Hauskn., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. Z. Pilzk. 12: 64 (2003)
 
 #### Original name
-null
+Galerula macrospora G.F. Atk., 1918
 
 ### Remarks
 null

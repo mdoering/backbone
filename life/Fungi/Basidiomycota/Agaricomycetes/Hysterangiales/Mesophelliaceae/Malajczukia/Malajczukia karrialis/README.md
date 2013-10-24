@@ -1,5 +1,4 @@
-Malajczukia karrialis Trappe & Castellano, 1992 SPECIES
-=======
+# Malajczukia karrialis Trappe & Castellano, 1992 SPECIES
 
 #### Status
 ACCEPTED

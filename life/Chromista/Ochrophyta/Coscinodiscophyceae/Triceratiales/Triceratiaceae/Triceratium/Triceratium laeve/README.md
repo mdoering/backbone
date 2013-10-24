@@ -1,5 +1,4 @@
-Triceratium laeve var. annuliferum Grunow VARIETY
-=======
+# Triceratium laeve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bottariomyces GENUS
-=======
+# Bottariomyces GENUS
 
 #### Status
 ACCEPTED

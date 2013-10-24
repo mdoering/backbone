@@ -1,5 +1,4 @@
-Lecanoromyces chlaronae Werner SPECIES
-=======
+# Lecanoromyces chlaronae Werner SPECIES
 
 #### Status
 ACCEPTED

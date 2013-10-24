@@ -1,5 +1,4 @@
-Porina partita P.M. McCarthy SPECIES
-=======
+# Porina partita P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

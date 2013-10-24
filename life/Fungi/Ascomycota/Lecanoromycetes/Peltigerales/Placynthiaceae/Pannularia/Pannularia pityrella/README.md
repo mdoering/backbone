@@ -1,5 +1,4 @@
-Pannularia pityrella (Stirt.) Stizenb. SPECIES
-=======
+# Pannularia pityrella (Stirt.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia monilioides J.T. Curtis SPECIES
-=======
+# Rhizoctonia monilioides J.T. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actiniscus canadensis Bursa SPECIES
-=======
+# Actiniscus canadensis Bursa SPECIES
 
 #### Status
 ACCEPTED

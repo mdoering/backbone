@@ -1,14 +1,13 @@
-Petrakia cochinensis Subram., 1957 SPECIES
-=======
+# Ernakulamia cochinensis (Subram.) Subram., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 1(Petrak-Festschrift): 15 (1957)
+Kavaka 22/23: 67 (1996)
 
 #### Original name
 Petrakia cochinensis Subram., 1957

@@ -1,8 +1,7 @@
-Hymenoscyphus cookeinus (Seaver) Tewari {?} ex K.B. Khare SPECIES
-=======
+# Hymenoscyphus cookeanus (Seaver) Tewari {?} ex K.B. Khare SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

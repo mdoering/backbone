@@ -1,5 +1,4 @@
-Escherichia truttae SPECIES
-=======
+# Escherichia truttae SPECIES
 
 #### Status
 ACCEPTED

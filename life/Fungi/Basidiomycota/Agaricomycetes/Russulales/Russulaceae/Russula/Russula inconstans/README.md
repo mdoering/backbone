@@ -1,5 +1,4 @@
-Russula inconstans Burl. SPECIES
-=======
+# Russula inconstans Burl. SPECIES
 
 #### Status
 ACCEPTED

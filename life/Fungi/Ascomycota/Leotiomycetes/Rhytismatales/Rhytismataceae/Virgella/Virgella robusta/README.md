@@ -1,17 +1,16 @@
-Hypoderma robustum f. robustum FORM
-=======
+# Virgella robusta (Tubeuf) Darker, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arbeiten aus der Biologischen Abteilung für Land- und Forstwirtschaft am Kaiserlichen Gesundheitsamte 2: 16 (1901)
+Can. J. Bot. 45: 1419 (1967)
 
 #### Original name
-Hypoderma robustum f. robustum
+Hypoderma robustum Tubeuf, 1901
 
 ### Remarks
 null

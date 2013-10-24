@@ -1,5 +1,4 @@
-Uredo laggerae Syd. & P. Syd. SPECIES
-=======
+# Uredo laggerae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus capensis Berk. SPECIES
-=======
+# Cantharellus capensis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Jaocorlissi GENUS
-=======
+# Jaocorlissia Small & Lynn, 1985 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+In Lee & Bovee [Eds]. An illustrated guide to the Protozoa. Society of Protozoologists, Kansas: 525.
 
 #### Original name
 null

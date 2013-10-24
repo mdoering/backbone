@@ -1,5 +1,4 @@
-Graphina hillii A.W. Archer SPECIES
-=======
+# Graphina hillii A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

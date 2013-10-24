@@ -1,5 +1,4 @@
-Pluteus roseocandidus G.F. Atk. SPECIES
-=======
+# Pluteus roseocandidus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

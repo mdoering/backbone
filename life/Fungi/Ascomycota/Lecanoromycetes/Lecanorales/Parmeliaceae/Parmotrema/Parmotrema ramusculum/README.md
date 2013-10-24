@@ -1,5 +1,4 @@
-Parmotrema ramusculum (Hale) Hale SPECIES
-=======
+# Parmotrema ramusculum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella bodanica var. intermedia Manguin VARIETY
-=======
+# Cyclotella bodanica Grunow SPECIES
 
 #### Status
 ACCEPTED

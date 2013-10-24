@@ -1,5 +1,4 @@
-Verrucaria psorodea Nyl. SPECIES
-=======
+# Verrucaria psorodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

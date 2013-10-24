@@ -1,5 +1,4 @@
-Septoria bellidicola Roberge ex Desm. SPECIES
-=======
+# Septoria bellidicola Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

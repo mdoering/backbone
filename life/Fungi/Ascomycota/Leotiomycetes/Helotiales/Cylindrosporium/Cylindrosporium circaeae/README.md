@@ -1,5 +1,4 @@
-Cylindrosporium circaeae J. Schröt. SPECIES
-=======
+# Cylindrosporium circaeae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

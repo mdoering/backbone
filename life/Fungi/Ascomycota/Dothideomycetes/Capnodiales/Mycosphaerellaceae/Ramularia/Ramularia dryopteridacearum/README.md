@@ -1,5 +1,4 @@
-Ramularia dryopteridacearum U. Braun SPECIES
-=======
+# Ramularia dryopteridacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

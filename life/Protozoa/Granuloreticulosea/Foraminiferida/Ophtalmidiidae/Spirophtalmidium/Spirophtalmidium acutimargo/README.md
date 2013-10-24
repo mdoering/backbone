@@ -1,5 +1,4 @@
-Spirophtalmidium acutimargo (Brady, 1884) SPECIES
-=======
+# Spirophtalmidium acutimargo (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

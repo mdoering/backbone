@@ -1,5 +1,4 @@
-Paranthostomella unciniicola Speg. SPECIES
-=======
+# Paranthostomella unciniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

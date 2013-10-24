@@ -1,5 +1,4 @@
-Baeomyces sanguineus Asahina SPECIES
-=======
+# Baeomyces sanguineus Asahina SPECIES
 
 #### Status
 ACCEPTED

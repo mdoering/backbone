@@ -1,17 +1,16 @@
-Mucor stolonifer var. stolonifer VARIETY
-=======
+# Rhizopus stolonifer (Ehrenb.) Vuill., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sylv. mycol. berol. (Berlin) 25 (1818)
+Revue mycol. , Toulouse 24: 54 (1902)
 
 #### Original name
-Mucor stolonifer var. stolonifer
+Mucor stolonifer Ehrenb., 1818
 
 ### Remarks
 null

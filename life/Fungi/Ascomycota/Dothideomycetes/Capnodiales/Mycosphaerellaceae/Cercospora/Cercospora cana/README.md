@@ -1,5 +1,4 @@
-Cercospora cana Sacc. SPECIES
-=======
+# Cercospora cana Sacc. SPECIES
 
 #### Status
 ACCEPTED

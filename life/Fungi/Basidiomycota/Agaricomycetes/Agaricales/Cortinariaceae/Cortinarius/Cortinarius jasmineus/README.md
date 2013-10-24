@@ -1,5 +1,4 @@
-Cortinarius jasmineus Fr. SPECIES
-=======
+# Cortinarius jasmineus Fr. SPECIES
 
 #### Status
 ACCEPTED

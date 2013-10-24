@@ -1,5 +1,4 @@
-Pseudopeziza benesueda (Tul.) SPECIES
-=======
+# Pseudopeziza benesueda (Tul.) SPECIES
 
 #### Status
 ACCEPTED

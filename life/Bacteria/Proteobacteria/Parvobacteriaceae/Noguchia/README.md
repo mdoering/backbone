@@ -1,5 +1,4 @@
-Noguchia Olitsky, Syverton & Tyler, 1934 GENUS
-=======
+# Noguchia Olitsky, Syverton & Tyler, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya curvilata Smith, 1897 SPECIES
-=======
+# Holophrya curvilata Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

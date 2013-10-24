@@ -1,5 +1,4 @@
-Dichothrix gyposophila (Kutz.) Born. & Flah. SPECIES
-=======
+# Dichothrix gyposophila (Kutz.) Born. & Flah. SPECIES
 
 #### Status
 ACCEPTED

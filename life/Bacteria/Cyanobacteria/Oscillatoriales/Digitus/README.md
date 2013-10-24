@@ -1,5 +1,4 @@
-Digitus V.G. Pjatiletov in V.G. Pjatiletov & G.A. Karlova, 1980 GENUS
-=======
+# Digitus V.G. Pjatiletov in V.G. Pjatiletov & G.A. Karlova, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichobelonium berberidis Velen. SPECIES
-=======
+# Trichobelonium berberidis Velen. SPECIES
 
 #### Status
 ACCEPTED

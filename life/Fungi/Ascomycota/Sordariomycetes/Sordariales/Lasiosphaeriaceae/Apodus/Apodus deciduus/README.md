@@ -1,14 +1,13 @@
-Thielavia deciduus (Malloch & Cain) Lodha SPECIES
-=======
+# Apodus deciduus Malloch & Cain, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 49(6): 872 (1971)
 
 #### Original name
 Apodus deciduus Malloch & Cain, 1971

@@ -1,17 +1,16 @@
-Basidiodendron luteogriseum var. luteogriseum VARIETY
-=======
+# Basidiodendron luteogriseum Rick, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Brotéria, sér. Ci. Nat. 7: 74 (1938)
 
 #### Original name
-Basidiodendron luteogriseum var. luteogriseum
+Basidiodendron luteogriseum Rick, 1938
 
 ### Remarks
 null

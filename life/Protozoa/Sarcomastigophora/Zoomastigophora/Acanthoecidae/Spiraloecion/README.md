@@ -1,5 +1,4 @@
-Spiraloecion Marchant & Perrin, 1986 GENUS
-=======
+# Spiraloecion Marchant & Perrin, 1986 GENUS
 
 #### Status
 ACCEPTED

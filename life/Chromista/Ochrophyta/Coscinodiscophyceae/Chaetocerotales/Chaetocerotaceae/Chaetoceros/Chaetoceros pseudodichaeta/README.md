@@ -1,5 +1,4 @@
-Chaetoceros pseudodichaeta Ikari, 1926 SPECIES
-=======
+# Chaetoceros pseudodichaeta Ikari, 1926 SPECIES
 
 #### Status
 ACCEPTED

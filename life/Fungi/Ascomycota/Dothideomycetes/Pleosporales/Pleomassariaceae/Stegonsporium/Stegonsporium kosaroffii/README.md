@@ -1,5 +1,4 @@
-Stegonsporium kosaroffii Turconi & Maffei SPECIES
-=======
+# Stegonsporium kosaroffii Turconi & Maffei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum underwoodii Burt SPECIES
-=======
+# Stereum underwoodii Burt SPECIES
 
 #### Status
 ACCEPTED

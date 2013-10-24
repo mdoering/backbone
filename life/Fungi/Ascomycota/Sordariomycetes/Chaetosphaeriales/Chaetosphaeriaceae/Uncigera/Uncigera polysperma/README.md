@@ -1,5 +1,4 @@
-Uncigera polysperma (P. Karst.) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
-=======
+# Uncigera polysperma (P. Karst.) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

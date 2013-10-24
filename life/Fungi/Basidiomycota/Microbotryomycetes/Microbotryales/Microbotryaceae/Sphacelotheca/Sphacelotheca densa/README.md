@@ -1,5 +1,4 @@
-Sphacelotheca densa (McAlpine) Cif. SPECIES
-=======
+# Sphacelotheca densa (McAlpine) Cif. SPECIES
 
 #### Status
 ACCEPTED

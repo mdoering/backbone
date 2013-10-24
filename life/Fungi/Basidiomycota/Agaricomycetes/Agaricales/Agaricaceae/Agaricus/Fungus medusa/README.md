@@ -1,5 +1,4 @@
-Fungus medusa (F. Brig.) Kuntze SPECIES
-=======
+# Fungus medusa (F. Brig.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

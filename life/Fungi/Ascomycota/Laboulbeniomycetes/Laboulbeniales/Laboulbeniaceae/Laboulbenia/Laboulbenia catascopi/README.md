@@ -1,5 +1,4 @@
-Laboulbenia catascopi Thaxt. SPECIES
-=======
+# Laboulbenia catascopi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

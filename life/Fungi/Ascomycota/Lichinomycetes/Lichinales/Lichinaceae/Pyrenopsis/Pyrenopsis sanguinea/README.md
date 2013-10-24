@@ -1,5 +1,4 @@
-Pyrenopsis sanguinea Anzi SPECIES
-=======
+# Pyrenopsis sanguinea Anzi SPECIES
 
 #### Status
 ACCEPTED

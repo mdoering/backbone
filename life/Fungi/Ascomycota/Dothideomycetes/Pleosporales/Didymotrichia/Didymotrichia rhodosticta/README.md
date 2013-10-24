@@ -1,5 +1,4 @@
-Didymotrichia rhodosticta Berl. SPECIES
-=======
+# Didymotrichia rhodosticta Berl. SPECIES
 
 #### Status
 ACCEPTED

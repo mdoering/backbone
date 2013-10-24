@@ -1,5 +1,4 @@
-Biatorella californica (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella californica (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

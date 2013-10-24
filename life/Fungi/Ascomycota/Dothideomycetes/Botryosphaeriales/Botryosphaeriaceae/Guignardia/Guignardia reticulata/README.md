@@ -1,17 +1,16 @@
-Asteroma reticulatum f. reticulatum FORM
-=======
+# Guignardia reticulata (DC.) Aa, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 5: 23 (1973)
 
 #### Original name
-Asteroma reticulatum f. reticulatum
+Sphaeria reticulata DC., 1815
 
 ### Remarks
 null

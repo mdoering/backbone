@@ -1,5 +1,4 @@
-Asteromella gymnosporiae Syd. SPECIES
-=======
+# Asteromella gymnosporiae Syd. SPECIES
 
 #### Status
 ACCEPTED

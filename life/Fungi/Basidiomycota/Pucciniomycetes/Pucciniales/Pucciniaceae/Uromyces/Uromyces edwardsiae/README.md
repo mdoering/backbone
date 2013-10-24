@@ -1,5 +1,4 @@
-Uromyces edwardsiae G. Cunn., 1924 SPECIES
-=======
+# Uromyces edwardsiae G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

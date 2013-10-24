@@ -1,5 +1,4 @@
-Bactrosporomyces dryinae Cif. & Tomas. SPECIES
-=======
+# Bactrosporomyces dryinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

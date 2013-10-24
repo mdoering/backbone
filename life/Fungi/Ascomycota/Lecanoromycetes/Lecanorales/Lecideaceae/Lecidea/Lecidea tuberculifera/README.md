@@ -1,5 +1,4 @@
-Lecidea tuberculifera H. Magn. SPECIES
-=======
+# Lecidea tuberculifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

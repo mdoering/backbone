@@ -1,5 +1,4 @@
-Strigula muriformis Aptroot & Diederich SPECIES
-=======
+# Strigula muriformis Aptroot & Diederich SPECIES
 
 #### Status
 ACCEPTED

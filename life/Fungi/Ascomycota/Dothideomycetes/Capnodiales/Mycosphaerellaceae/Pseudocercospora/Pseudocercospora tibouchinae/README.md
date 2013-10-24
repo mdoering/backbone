@@ -1,14 +1,13 @@
-Cercospora tibouchinae Viégas, 1945 SPECIES
-=======
+# Pseudocercospora tibouchinae (Viégas) Deighton, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arq. Mus. Nac. Rio de Janeiro 8: 55 (1945)
+Trans. Br. mycol. Soc. 88(3): 391 (1987)
 
 #### Original name
 Cercospora tibouchinae Viégas, 1945

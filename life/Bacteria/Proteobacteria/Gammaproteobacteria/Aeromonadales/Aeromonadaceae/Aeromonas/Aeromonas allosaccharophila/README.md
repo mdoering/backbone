@@ -1,5 +1,4 @@
-Aeromonas allosaccharophila Martinez-Murcia et al., 1992 SPECIES
-=======
+# Aeromonas allosaccharophila Martinez-Murcia et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

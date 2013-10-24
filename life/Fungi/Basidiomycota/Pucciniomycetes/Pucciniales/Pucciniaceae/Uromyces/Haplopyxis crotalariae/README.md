@@ -1,5 +1,4 @@
-Haplopyxis crotalariae (Arthur) Syd. & P. Syd. SPECIES
-=======
+# Haplopyxis crotalariae (Arthur) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

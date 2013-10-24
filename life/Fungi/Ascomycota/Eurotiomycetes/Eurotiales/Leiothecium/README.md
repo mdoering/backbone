@@ -1,5 +1,4 @@
-Leiothecium Samson & Mouch. GENUS
-=======
+# Leiothecium Samson & Mouch. GENUS
 
 #### Status
 ACCEPTED

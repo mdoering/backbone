@@ -1,5 +1,4 @@
-Suturothrix Foissner, 2008 GENUS
-=======
+# Suturothrix Foissner, 2008 GENUS
 
 #### Status
 ACCEPTED

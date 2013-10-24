@@ -1,5 +1,4 @@
-Lanzia longiasca (Cavara) Sacc. SPECIES
-=======
+# Lanzia longiasca (Cavara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

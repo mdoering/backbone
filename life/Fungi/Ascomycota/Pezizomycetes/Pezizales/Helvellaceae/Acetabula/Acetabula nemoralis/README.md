@@ -1,5 +1,4 @@
-Acetabula nemoralis Speg. SPECIES
-=======
+# Acetabula nemoralis Speg. SPECIES
 
 #### Status
 ACCEPTED

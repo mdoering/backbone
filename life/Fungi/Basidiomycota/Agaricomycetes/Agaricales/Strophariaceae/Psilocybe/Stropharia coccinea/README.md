@@ -1,5 +1,4 @@
-Stropharia coccinea A. Pearson ex Pegler SPECIES
-=======
+# Stropharia coccinea A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

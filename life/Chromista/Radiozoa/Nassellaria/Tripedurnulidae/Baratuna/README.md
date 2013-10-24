@@ -1,5 +1,4 @@
-Baratuna GENUS
-=======
+# Baratuna GENUS
 
 #### Status
 ACCEPTED

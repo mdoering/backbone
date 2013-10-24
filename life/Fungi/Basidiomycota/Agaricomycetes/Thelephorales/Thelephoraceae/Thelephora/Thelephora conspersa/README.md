@@ -1,5 +1,4 @@
-Thelephora conspersa Fr. SPECIES
-=======
+# Thelephora conspersa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus gossypinus (Lév.) Cooke SPECIES
-=======
+# Polystictus gossypinus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

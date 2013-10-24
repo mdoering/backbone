@@ -1,5 +1,4 @@
-Lophosphaeridium copiatorillum Loeblich & Wicander, 1976 SPECIES
-=======
+# Lophosphaeridium copiatorillum Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoophthora myrmecophaga Turian & Wuest SPECIES
-=======
+# Zoophthora myrmecophaga Turian & Wuest SPECIES
 
 #### Status
 ACCEPTED

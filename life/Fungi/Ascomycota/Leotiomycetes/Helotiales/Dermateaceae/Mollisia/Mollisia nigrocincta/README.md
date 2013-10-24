@@ -1,5 +1,4 @@
-Mollisia nigrocincta (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Mollisia nigrocincta (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

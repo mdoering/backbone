@@ -1,5 +1,4 @@
-Fontanospora minima K. Ando SPECIES
-=======
+# Fontanospora minima K. Ando SPECIES
 
 #### Status
 ACCEPTED

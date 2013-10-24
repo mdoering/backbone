@@ -1,17 +1,16 @@
-Thaxterogaster magellanicum Singer SPECIES
-=======
+# Thaxterogaster magellanicus Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(2): 219 (1951)
 
 #### Original name
-Thaxterogaster magellanicum Singer
+Thaxterogaster magellanicus Singer
 
 ### Remarks
 null

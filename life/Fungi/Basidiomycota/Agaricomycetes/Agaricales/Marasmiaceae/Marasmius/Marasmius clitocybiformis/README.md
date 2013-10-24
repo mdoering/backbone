@@ -1,5 +1,4 @@
-Marasmius clitocybiformis Henn. SPECIES
-=======
+# Marasmius clitocybiformis Henn. SPECIES
 
 #### Status
 ACCEPTED

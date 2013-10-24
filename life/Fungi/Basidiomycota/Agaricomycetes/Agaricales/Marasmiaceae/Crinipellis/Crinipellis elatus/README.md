@@ -1,5 +1,4 @@
-Crinipellis elatus Pat. SPECIES
-=======
+# Crinipellis elatus Pat. SPECIES
 
 #### Status
 ACCEPTED

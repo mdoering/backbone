@@ -1,5 +1,4 @@
-Puccinia rivinae Speg. SPECIES
-=======
+# Puccinia rivinae Speg. SPECIES
 
 #### Status
 ACCEPTED

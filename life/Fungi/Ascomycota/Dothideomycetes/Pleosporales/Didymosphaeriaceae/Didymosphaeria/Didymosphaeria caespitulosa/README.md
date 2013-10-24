@@ -1,5 +1,4 @@
-Didymosphaeria caespitulosa Sacc. SPECIES
-=======
+# Didymosphaeria caespitulosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

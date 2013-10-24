@@ -1,5 +1,4 @@
-Hygrophorus alboumbonatus Murrill SPECIES
-=======
+# Hygrophorus alboumbonatus Murrill SPECIES
 
 #### Status
 ACCEPTED

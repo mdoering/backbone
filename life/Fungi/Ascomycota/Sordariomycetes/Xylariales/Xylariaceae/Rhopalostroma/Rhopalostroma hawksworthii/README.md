@@ -1,17 +1,16 @@
-Rhopalostroma hawksworhii Vaidya, A.D.M. Rayner & Whalley SPECIES
-=======
+# Rhopalostroma hawksworthii Vaidya, A.D.M. Rayner & Whalley, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Vaidya, Ecological Characteristics of Wood Decay and Cord Forming Fungi from the Campus of Poona University (India) 8 (1991)
 
 #### Original name
-Rhopalostroma hawksworhii Vaidya, A.D.M. Rayner & Whalley
+Rhopalostroma hawksworthii Vaidya, A.D.M. Rayner & Whalley, 1991
 
 ### Remarks
 null

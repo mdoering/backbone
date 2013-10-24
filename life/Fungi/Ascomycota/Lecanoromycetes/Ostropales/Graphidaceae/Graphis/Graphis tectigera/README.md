@@ -1,5 +1,4 @@
-Graphis tectigera Eschw. SPECIES
-=======
+# Graphis tectigera Eschw. SPECIES
 
 #### Status
 ACCEPTED

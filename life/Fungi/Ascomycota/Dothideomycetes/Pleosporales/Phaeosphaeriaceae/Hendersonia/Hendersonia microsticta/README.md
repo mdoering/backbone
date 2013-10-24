@@ -1,5 +1,4 @@
-Hendersonia microsticta Berk., 1845 SPECIES
-=======
+# Hendersonia microsticta Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

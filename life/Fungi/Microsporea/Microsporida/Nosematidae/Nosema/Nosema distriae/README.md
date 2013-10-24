@@ -1,5 +1,4 @@
-Nosema distriae SPECIES
-=======
+# Nosema distriae SPECIES
 
 #### Status
 ACCEPTED

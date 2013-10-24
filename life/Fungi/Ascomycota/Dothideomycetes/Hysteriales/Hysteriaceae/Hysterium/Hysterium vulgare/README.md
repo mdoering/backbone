@@ -1,5 +1,4 @@
-Hysterium vulgare De Not. SPECIES
-=======
+# Hysterium vulgare De Not. SPECIES
 
 #### Status
 ACCEPTED

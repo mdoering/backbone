@@ -1,5 +1,4 @@
-Hormomyces Bonord. GENUS
-=======
+# Hormomyces Bonord. GENUS
 
 #### Status
 ACCEPTED

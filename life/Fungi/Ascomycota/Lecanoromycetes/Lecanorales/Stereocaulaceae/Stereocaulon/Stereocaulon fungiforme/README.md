@@ -1,5 +1,4 @@
-Stereocaulon fungiforme (Scop.) SPECIES
-=======
+# Stereocaulon fungiforme (Scop.) SPECIES
 
 #### Status
 ACCEPTED

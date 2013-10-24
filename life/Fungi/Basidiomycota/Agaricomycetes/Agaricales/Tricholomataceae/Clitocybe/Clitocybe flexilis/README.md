@@ -1,5 +1,4 @@
-Clitocybe flexilis Lév. SPECIES
-=======
+# Clitocybe flexilis Lév. SPECIES
 
 #### Status
 ACCEPTED

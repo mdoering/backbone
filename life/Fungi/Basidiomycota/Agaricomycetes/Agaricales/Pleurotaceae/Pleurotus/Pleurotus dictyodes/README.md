@@ -1,5 +1,4 @@
-Pleurotus dictyodes (Lév.) Sacc. SPECIES
-=======
+# Pleurotus dictyodes (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum ari (Pass.) Bat. SPECIES
-=======
+# Colletotrichum ari (Pass.) Bat. SPECIES
 
 #### Status
 ACCEPTED

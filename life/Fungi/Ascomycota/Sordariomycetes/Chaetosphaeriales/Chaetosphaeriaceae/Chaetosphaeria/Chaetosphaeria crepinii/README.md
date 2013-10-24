@@ -1,8 +1,7 @@
-Chaetosphaeria crepini Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Chaetosphaeria crepinii Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaetosphaeria crepini Sacc., E. Bommer & M. Rousseau
+Chaetosphaeria crepinii Sacc., E. Bommer & M. Rousseau
 
 ### Remarks
 null

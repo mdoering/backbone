@@ -1,5 +1,4 @@
-Mycocentrospora trichophila (Davis) U. Braun SPECIES
-=======
+# Mycocentrospora trichophila (Davis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptotrema albocoronata C. Knight SPECIES
-=======
+# Thelotrema leucophthalmum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Lich. Novae Caled. 39 (1868)
 
 #### Original name
-Leptotrema albocoronata C. Knight
+Thelotrema leucophthalmum Nyl.
 
 ### Remarks
 null

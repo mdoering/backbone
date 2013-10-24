@@ -1,5 +1,4 @@
-Septobasidium lilacinum Burt SPECIES
-=======
+# Septobasidium lilacinum Burt SPECIES
 
 #### Status
 ACCEPTED

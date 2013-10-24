@@ -1,5 +1,4 @@
-Pannaria hypnorum SPECIES
-=======
+# Pannaria hypnorum SPECIES
 
 #### Status
 ACCEPTED

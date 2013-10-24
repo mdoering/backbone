@@ -1,5 +1,4 @@
-Cantharellus yunnanensis W.F. Chiu SPECIES
-=======
+# Cantharellus yunnanensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

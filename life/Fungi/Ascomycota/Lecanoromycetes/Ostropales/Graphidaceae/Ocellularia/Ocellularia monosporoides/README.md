@@ -1,14 +1,13 @@
-Leptotrema monosporoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia monosporoides (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 2(App. 1): 75 (1894)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema monosporoides Nyl.

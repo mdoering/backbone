@@ -1,5 +1,4 @@
-Inocybe pallidobrunnea Kauffman SPECIES
-=======
+# Inocybe pallidobrunnea Kauffman SPECIES
 
 #### Status
 ACCEPTED

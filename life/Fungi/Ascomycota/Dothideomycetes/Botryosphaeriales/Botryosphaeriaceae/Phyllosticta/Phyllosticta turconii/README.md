@@ -1,5 +1,4 @@
-Phyllosticta turconii Trinchieri SPECIES
-=======
+# Phyllosticta turconii Trinchieri SPECIES
 
 #### Status
 ACCEPTED

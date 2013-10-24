@@ -1,14 +1,13 @@
-Perenniporia latissima (Bres.) Ryvarden, 1988 SPECIES
-=======
+# Vanderbylia latissima (Bres.) D.A. Reid, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 33: 314 (1988)
+Jl S. Afr. Bot. 39(2): 167 (1973)
 
 #### Original name
 Fomes latissimus Bres., 1910

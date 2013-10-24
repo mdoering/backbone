@@ -1,5 +1,4 @@
-Cephalosporium macrosporum Rivolta SPECIES
-=======
+# Cephalosporium macrosporum Rivolta SPECIES
 
 #### Status
 ACCEPTED

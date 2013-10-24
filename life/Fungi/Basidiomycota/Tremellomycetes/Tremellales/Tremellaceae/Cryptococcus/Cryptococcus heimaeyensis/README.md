@@ -1,5 +1,4 @@
-Cryptococcus heimaeyensis Vishniac SPECIES
-=======
+# Cryptococcus heimaeyensis Vishniac SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora athroodes Nyl. SPECIES
-=======
+# Lecanora athroodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

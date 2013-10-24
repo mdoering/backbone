@@ -1,5 +1,4 @@
-Isaria buntingii Lloyd SPECIES
-=======
+# Isaria buntingii Lloyd SPECIES
 
 #### Status
 ACCEPTED

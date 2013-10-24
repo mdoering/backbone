@@ -1,5 +1,4 @@
-Agaricus aglaeotheles Berk. & Broome SPECIES
-=======
+# Agaricus aglaeotheles Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

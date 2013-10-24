@@ -1,5 +1,4 @@
-Scindalma calcitratum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Scindalma calcitratum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

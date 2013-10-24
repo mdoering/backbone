@@ -1,14 +1,13 @@
-Paraparmelia valdeta Elix SPECIES
-=======
+# Xanthoparmelia valdeta (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 80: 195 (2001)
+Mycotaxon 87: 402 (2003)
 
 #### Original name
 Paraparmelia valdeta Elix

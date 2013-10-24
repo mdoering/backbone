@@ -1,5 +1,4 @@
-Baltisphaeridium waldronis Cramer, 1968 in Cramer, 1969 SPECIES
-=======
+# Baltisphaeridium waldronis Cramer, 1968 in Cramer, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora inflata Burt SPECIES
-=======
+# Peniophora inflata Burt SPECIES
 
 #### Status
 ACCEPTED

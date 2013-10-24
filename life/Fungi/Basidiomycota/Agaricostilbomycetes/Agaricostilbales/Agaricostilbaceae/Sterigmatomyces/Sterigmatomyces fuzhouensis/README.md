@@ -1,5 +1,4 @@
-Sterigmatomyces fuzhouensis J.Z. Yue SPECIES
-=======
+# Sterigmatomyces fuzhouensis J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

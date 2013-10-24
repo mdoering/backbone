@@ -1,5 +1,4 @@
-Cercospora ixorae Solheim SPECIES
-=======
+# Cercospora ixorae Solheim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplomastix Kent, 1880 GENUS
-=======
+# Diplomastix Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

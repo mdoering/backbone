@@ -1,5 +1,4 @@
-Sphaeria agnocystis Berk. & Broome SPECIES
-=======
+# Sphaeria agnocystis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

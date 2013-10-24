@@ -1,8 +1,7 @@
-Pseudomonas pseudoflava Auling et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Hydrogenophaga pseudoflava (Auling et al., 1978) Willems et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

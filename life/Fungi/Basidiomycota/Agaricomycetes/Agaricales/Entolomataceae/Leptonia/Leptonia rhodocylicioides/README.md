@@ -1,5 +1,4 @@
-Leptonia rhodocylicioides (G.F. Atk.) Largent SPECIES
-=======
+# Leptonia rhodocylicioides (G.F. Atk.) Largent SPECIES
 
 #### Status
 ACCEPTED

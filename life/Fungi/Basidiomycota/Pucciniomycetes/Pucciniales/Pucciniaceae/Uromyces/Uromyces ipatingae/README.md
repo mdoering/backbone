@@ -1,17 +1,16 @@
-Uredo goeldii R.T. Almeida, 1976 SPECIES
-=======
+# Uromyces ipatingae F.A. Ferreira & Y. Hirats., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fitopatol. Brasil. , Supl. 1(3): 219 (1976)
+in Ferreira, Hiratsuka, Coelho & Santiago, Fitopatol. Brasil. 24(1): 88 (1999)
 
 #### Original name
-Uredo goeldii R.T. Almeida, 1976
+Uromyces ipatingae F.A. Ferreira & Y. Hirats., 1999
 
 ### Remarks
 null

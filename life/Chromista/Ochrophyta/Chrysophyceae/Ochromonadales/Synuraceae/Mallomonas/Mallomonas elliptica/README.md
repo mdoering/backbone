@@ -1,5 +1,4 @@
-Mallomonas elliptica Matvienko SPECIES
-=======
+# Mallomonas elliptica Matvienko SPECIES
 
 #### Status
 ACCEPTED

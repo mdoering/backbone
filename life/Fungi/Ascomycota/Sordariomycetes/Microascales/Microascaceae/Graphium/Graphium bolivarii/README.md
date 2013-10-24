@@ -1,5 +1,4 @@
-Graphium bolivarii Riofrio SPECIES
-=======
+# Graphium bolivarii Riofrio SPECIES
 
 #### Status
 ACCEPTED

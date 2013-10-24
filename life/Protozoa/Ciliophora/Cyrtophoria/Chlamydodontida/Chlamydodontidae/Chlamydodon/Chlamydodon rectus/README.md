@@ -1,5 +1,4 @@
-Chlamydodon rectus Ozaki & Yagiu, 1941 SPECIES
-=======
+# Chlamydodon rectus Ozaki & Yagiu, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Graphium umbellatarum Ces. SPECIES
-=======
+# Pyrenopeziza umbellatorum (Ces.) Rehm, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Klotzsch, Bot. Zeitschr. 237 (1853)
+null
 
 #### Original name
 Graphium umbellatarum Ces.

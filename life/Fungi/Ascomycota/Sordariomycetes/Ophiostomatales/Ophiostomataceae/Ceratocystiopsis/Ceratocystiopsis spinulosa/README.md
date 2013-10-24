@@ -1,5 +1,4 @@
-Ceratocystiopsis spinulosa (H.D. Griffin) H.P. Upadhyay SPECIES
-=======
+# Ceratocystiopsis spinulosa (H.D. Griffin) H.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

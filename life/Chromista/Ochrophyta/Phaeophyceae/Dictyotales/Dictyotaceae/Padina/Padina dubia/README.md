@@ -1,5 +1,4 @@
-Padina dubia Hauck SPECIES
-=======
+# Padina dubia Hauck SPECIES
 
 #### Status
 ACCEPTED

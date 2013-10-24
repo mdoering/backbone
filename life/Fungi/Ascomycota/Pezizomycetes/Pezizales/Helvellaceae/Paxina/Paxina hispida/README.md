@@ -1,5 +1,4 @@
-Paxina hispida (Schaeff.) Seaver SPECIES
-=======
+# Paxina hispida (Schaeff.) Seaver SPECIES
 
 #### Status
 ACCEPTED

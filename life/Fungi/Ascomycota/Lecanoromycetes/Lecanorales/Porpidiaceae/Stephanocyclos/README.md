@@ -1,5 +1,4 @@
-Stephanocyclos Hertel GENUS
-=======
+# Stephanocyclos Hertel GENUS
 
 #### Status
 ACCEPTED

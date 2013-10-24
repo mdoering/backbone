@@ -1,14 +1,13 @@
-Bauhinus longisetus (Vánky & Oberw.) Denchev & R.T. Moore SPECIES
-=======
+# Microbotryum longisetum (Vánky & Oberw.) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 67: 45 (1998)
 
 #### Original name
 Ustilago longiseti Vánky & Oberw., 1994

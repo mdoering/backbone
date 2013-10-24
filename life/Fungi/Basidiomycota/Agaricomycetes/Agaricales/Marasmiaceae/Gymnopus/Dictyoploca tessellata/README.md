@@ -1,5 +1,4 @@
-Dictyoploca tessellata (Mont.) Dennis SPECIES
-=======
+# Dictyoploca tessellata (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

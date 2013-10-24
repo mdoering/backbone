@@ -1,5 +1,4 @@
-Protomerulius farlowii Burt SPECIES
-=======
+# Protomerulius farlowii Burt SPECIES
 
 #### Status
 ACCEPTED

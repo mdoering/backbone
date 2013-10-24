@@ -1,5 +1,4 @@
-Rhachomyces dolichaontis Thaxt. SPECIES
-=======
+# Rhachomyces dolichaontis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

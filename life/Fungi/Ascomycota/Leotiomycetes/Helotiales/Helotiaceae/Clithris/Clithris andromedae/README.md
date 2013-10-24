@@ -1,5 +1,4 @@
-Clithris andromedae (Schwein.) Ellis & Everh. SPECIES
-=======
+# Clithris andromedae (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

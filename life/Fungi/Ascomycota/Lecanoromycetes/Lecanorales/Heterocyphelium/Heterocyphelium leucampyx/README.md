@@ -1,5 +1,4 @@
-Acolium leucampyx var. leucampyx VARIETY
-=======
+# Heterocyphelium leucampyx (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. N. Amer. Fungi 162 (1888)
+Acta Soc. Fauna Flora fenn. 57: 16 (1927)
 
 #### Original name
-Acolium leucampyx var. leucampyx
+Trachylia leucampyx Tuck.
 
 ### Remarks
 null

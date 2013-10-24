@@ -1,5 +1,4 @@
-Corticium granulatum var. molle P. Karst. VARIETY
-=======
+# Corticium granulatum Burt SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hattsvampar 2: 147 (1897)
+Ann. Mo. bot. Gdn 13(3): 236 (1926)
 
 #### Original name
-Hypochnus granulatus Bonord., 1851
+Corticium granulatum Burt
 
 ### Remarks
 null

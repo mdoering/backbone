@@ -1,5 +1,4 @@
-Bacidia hunana Zahlbr. SPECIES
-=======
+# Bacidia hunana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

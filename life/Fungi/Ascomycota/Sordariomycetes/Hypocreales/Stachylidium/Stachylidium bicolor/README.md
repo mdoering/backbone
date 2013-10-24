@@ -1,17 +1,16 @@
-Stachylidium bicolor var. bicolor Link VARIETY
-=======
+# Stachylidium bicolor Link, 1809 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Col. fig. Engl. Fung. Mushr. 2: 15 (1799)
 
 #### Original name
-Stachylidium bicolor var. bicolor Link
+Stachylidium bicolor Link, 1809
 
 ### Remarks
 null

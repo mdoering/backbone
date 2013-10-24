@@ -1,5 +1,4 @@
-Mycena seynesiella Malençon SPECIES
-=======
+# Mycena seynesiella Malençon SPECIES
 
 #### Status
 ACCEPTED

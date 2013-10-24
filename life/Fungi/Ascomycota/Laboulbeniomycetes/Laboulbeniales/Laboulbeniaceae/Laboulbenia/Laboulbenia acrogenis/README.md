@@ -1,5 +1,4 @@
-Laboulbenia acrogenis Thaxt. SPECIES
-=======
+# Laboulbenia acrogenis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

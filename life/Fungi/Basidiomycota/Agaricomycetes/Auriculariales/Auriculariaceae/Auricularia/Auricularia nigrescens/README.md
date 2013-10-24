@@ -1,5 +1,4 @@
-Auricularia nigrescens (Sw.) Farl. SPECIES
-=======
+# Auricularia nigrescens (Sw.) Farl. SPECIES
 
 #### Status
 ACCEPTED

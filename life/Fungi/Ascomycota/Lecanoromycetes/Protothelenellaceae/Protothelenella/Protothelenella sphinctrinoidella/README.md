@@ -1,14 +1,13 @@
-Verrucaria sphinctrinoidella Nyl. SPECIES
-=======
+# Protothelenella sphinctrinoidella (Nyl.) H. Mayrhofer & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 47: 355 (1864)
+Herzogia 7(1-2): 47 (1985)
 
 #### Original name
 Verrucaria sphinctrinoidella Nyl.

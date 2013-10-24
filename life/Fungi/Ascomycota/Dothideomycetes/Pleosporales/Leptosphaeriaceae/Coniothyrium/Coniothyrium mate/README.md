@@ -1,5 +1,4 @@
-Coniothyrium mate Speg. SPECIES
-=======
+# Coniothyrium mate Speg. SPECIES
 
 #### Status
 ACCEPTED

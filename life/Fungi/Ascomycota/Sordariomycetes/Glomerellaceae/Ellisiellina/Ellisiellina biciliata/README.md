@@ -1,5 +1,4 @@
-Ellisiellina biciliata var. solani Bat. & J.L. Bezerra VARIETY
-=======
+# Ellisiellina biciliata Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mém. Soc. broteriana 14: 75 (1961)
+Agron. lusit. 11: 72 (1949)
 
 #### Original name
-Ellisiellina biciliata var. solani Bat. & J.L. Bezerra
+Ellisiellina biciliata Sousa da Câmara
 
 ### Remarks
 null

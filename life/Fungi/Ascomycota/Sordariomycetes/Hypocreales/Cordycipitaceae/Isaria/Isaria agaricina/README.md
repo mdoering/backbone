@@ -1,5 +1,4 @@
-Isaria agaricina var. agaricina VARIETY
-=======
+# Isaria agaricina Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Isaria agaricina var. agaricina
+Isaria agaricina Pers.
 
 ### Remarks
 null

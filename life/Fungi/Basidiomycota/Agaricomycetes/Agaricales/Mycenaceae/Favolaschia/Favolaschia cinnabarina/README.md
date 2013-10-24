@@ -1,5 +1,4 @@
-Favolaschia cinnabarina (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Favolaschia cinnabarina (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

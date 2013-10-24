@@ -1,5 +1,4 @@
-Xanthomonas cynarae Trébaol et al., 2000 SPECIES
-=======
+# Xanthomonas cynarae Trébaol et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Doassansia khandalensis S.D. Patil & Gandhe SPECIES
-=======
+# Doassansia khandalensis S.D. Patil & Gandhe SPECIES
 
 #### Status
 ACCEPTED

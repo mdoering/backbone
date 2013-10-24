@@ -1,8 +1,7 @@
-Acolium hawaiense Tuck. SPECIES
-=======
+# Nadvornikia hawaiensis (Tuck.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Acolium hawaiense Tuck.
+null
 
 ### Remarks
 null

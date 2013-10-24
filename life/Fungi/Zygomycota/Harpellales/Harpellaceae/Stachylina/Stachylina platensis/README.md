@@ -1,5 +1,4 @@
-Stachylina platensis López-Lastra, Lichtw. & Ferrington, 1999 SPECIES
-=======
+# Stachylina platensis López-Lastra, Lichtw. & Ferrington, 1999 SPECIES
 
 #### Status
 ACCEPTED

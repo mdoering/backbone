@@ -1,5 +1,4 @@
-Lepiota nardosmioides Murrill SPECIES
-=======
+# Lepiota nardosmioides Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria ghanensis (Samson & H.C. Evans) Samson & Hywel-Jones, 2005 SPECIES
-=======
+# Isaria ghanensis (Samson & H.C. Evans) Samson & Hywel-Jones, 2005 SPECIES
 
 #### Status
 ACCEPTED

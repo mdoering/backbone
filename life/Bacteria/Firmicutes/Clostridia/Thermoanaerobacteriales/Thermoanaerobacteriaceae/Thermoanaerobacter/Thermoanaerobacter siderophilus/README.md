@@ -1,5 +1,4 @@
-Thermoanaerobacter siderophilus Slobodkin et al., 1999 SPECIES
-=======
+# Thermoanaerobacter siderophilus Slobodkin et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

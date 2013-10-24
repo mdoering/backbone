@@ -1,5 +1,4 @@
-Hypsotheca GENUS
-=======
+# Hypsotheca GENUS
 
 #### Status
 ACCEPTED

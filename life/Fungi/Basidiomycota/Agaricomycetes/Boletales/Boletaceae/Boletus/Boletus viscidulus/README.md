@@ -1,5 +1,4 @@
-Boletus viscidulus Pat. & C.F. Baker SPECIES
-=======
+# Boletus viscidulus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium virens (Nyl.) J. Nowak & Tobol. SPECIES
-=======
+# Amphoridium virens (Nyl.) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

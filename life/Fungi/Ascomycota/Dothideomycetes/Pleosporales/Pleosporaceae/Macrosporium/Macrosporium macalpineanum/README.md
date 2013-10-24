@@ -1,5 +1,4 @@
-Macrosporium macalpineanum Sacc. & P. Syd. SPECIES
-=======
+# Macrosporium macalpineanum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

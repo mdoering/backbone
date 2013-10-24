@@ -1,5 +1,4 @@
-Verrucaria praenigricans Werner SPECIES
-=======
+# Verrucaria praenigricans Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichaptum perpusillum (Corner) T. Hatt. SPECIES
-=======
+# Trichaptum perpusillum (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

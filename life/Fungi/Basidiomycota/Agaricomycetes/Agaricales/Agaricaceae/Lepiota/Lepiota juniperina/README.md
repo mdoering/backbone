@@ -1,5 +1,4 @@
-Lepiota juniperina Murrill SPECIES
-=======
+# Lepiota juniperina Murrill SPECIES
 
 #### Status
 ACCEPTED

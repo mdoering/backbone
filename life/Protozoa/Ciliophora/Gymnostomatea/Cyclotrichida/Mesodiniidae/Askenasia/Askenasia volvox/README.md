@@ -1,8 +1,7 @@
-Halteria volvox (Eichwald, 1852) Claparède & Lachmann, 1859 SPECIES
-=======
+# Askenasia volvox (Eichwald, 1852) Blochmann, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

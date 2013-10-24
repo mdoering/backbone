@@ -1,5 +1,4 @@
-Glaciecola nitratireducens Baik et al., 2006 SPECIES
-=======
+# Glaciecola nitratireducens Baik et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

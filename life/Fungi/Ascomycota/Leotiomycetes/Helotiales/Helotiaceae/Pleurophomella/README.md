@@ -1,5 +1,4 @@
-Pleurophomella GENUS
-=======
+# Pleurophomella GENUS
 
 #### Status
 ACCEPTED

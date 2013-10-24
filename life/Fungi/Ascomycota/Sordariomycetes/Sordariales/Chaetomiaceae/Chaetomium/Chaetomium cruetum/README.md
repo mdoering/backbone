@@ -1,5 +1,4 @@
-Chaetomium cruetum L.M. Ames SPECIES
-=======
+# Chaetomium cruetum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

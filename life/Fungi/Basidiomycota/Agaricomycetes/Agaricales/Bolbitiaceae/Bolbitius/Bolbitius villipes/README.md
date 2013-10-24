@@ -1,5 +1,4 @@
-Bolbitius villipes Fr. SPECIES
-=======
+# Bolbitius villipes Fr. SPECIES
 
 #### Status
 ACCEPTED

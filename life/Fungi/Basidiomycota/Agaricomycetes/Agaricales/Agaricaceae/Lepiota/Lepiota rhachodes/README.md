@@ -1,5 +1,4 @@
-Lepiota rhachodes (Vitt.) Quel. SPECIES
-=======
+# Lepiota rhachodes (Vitt.) Quel. SPECIES
 
 #### Status
 ACCEPTED

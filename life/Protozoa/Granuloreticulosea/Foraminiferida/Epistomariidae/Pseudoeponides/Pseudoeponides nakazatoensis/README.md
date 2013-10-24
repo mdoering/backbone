@@ -1,5 +1,4 @@
-Pseudoeponides nakazatoensis (Kuwano) SPECIES
-=======
+# Pseudoeponides nakazatoensis (Kuwano) SPECIES
 
 #### Status
 ACCEPTED

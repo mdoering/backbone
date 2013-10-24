@@ -1,5 +1,4 @@
-Sarcostroma insidens (Zabriskie) Nag Raj SPECIES
-=======
+# Sarcostroma insidens (Zabriskie) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

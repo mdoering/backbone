@@ -1,5 +1,4 @@
-Phyllosticta goritiensis Sacc. SPECIES
-=======
+# Phyllosticta goritiensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

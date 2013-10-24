@@ -1,17 +1,16 @@
-Fuscutata rubra (Stürmer & J.B. Morton) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora rubra Stürmer & J.B. Morton, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 103(8): 951 (1999)
 
 #### Original name
-null
+Scutellospora rubra Stürmer & J.B. Morton, 1999
 
 ### Remarks
 null

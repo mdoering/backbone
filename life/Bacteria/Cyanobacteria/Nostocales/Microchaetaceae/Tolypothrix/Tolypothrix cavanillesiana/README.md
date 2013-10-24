@@ -1,5 +1,4 @@
-Tolypothrix cavanillesiana P. González SPECIES
-=======
+# Tolypothrix cavanillesiana P. González SPECIES
 
 #### Status
 ACCEPTED

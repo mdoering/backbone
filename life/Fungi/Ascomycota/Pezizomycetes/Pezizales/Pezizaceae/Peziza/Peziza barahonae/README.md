@@ -1,5 +1,4 @@
-Peziza barahonae I. Arroyo & Calonge SPECIES
-=======
+# Peziza barahonae I. Arroyo & Calonge SPECIES
 
 #### Status
 ACCEPTED

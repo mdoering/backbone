@@ -1,5 +1,4 @@
-Adelosina laysanensis Rhumbler, 1906 SPECIES
-=======
+# Adelosina laysanensis Rhumbler, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoventuria variisetosa (M.E. Barr) M.E. Barr SPECIES
-=======
+# Protoventuria variisetosa (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

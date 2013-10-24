@@ -1,8 +1,7 @@
-Phomopsis copelandi Sacc. SPECIES
-=======
+# Phomopsis copelandii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phomopsis copelandi Sacc.
+Phomopsis copelandii Sacc.
 
 ### Remarks
 null

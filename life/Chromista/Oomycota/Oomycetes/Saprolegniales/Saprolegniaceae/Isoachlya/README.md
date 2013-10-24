@@ -1,5 +1,4 @@
-Isoachlya Kauffman GENUS
-=======
+# Isoachlya Kauffman GENUS
 
 #### Status
 ACCEPTED

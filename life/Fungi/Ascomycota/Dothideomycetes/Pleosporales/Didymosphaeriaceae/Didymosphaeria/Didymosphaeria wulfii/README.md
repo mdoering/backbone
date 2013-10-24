@@ -1,5 +1,4 @@
-Didymosphaeria wulfii Lind SPECIES
-=======
+# Didymosphaeria wulfii Lind SPECIES
 
 #### Status
 ACCEPTED

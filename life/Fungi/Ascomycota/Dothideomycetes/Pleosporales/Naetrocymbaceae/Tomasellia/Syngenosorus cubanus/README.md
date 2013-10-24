@@ -1,5 +1,4 @@
-Syngenosorus cubanus SPECIES
-=======
+# Syngenosorus cubanus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea holopolia (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea holopolia (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma collis Hill, 1983 SPECIES
-=======
+# Mycoplasma collis Hill, 1983 SPECIES
 
 #### Status
 ACCEPTED

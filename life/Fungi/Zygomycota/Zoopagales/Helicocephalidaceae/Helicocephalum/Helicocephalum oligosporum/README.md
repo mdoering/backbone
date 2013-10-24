@@ -1,5 +1,4 @@
-Helicocephalum oligosporum Drechsler, 1934 SPECIES
-=======
+# Helicocephalum oligosporum Drechsler, 1934 SPECIES
 
 #### Status
 ACCEPTED

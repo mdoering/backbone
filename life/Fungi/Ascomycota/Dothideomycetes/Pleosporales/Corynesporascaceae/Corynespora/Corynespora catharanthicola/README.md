@@ -1,5 +1,4 @@
-Corynespora catharanthicola Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Corynespora catharanthicola Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

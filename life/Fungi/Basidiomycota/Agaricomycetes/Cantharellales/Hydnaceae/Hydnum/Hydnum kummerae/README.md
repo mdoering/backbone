@@ -1,5 +1,4 @@
-Hydnum kummerae Henn. SPECIES
-=======
+# Hydnum kummerae Henn. SPECIES
 
 #### Status
 ACCEPTED

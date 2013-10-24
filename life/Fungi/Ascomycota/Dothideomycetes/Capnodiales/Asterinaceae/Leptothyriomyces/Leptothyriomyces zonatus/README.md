@@ -1,5 +1,4 @@
-Leptothyriomyces zonatus Kräusel SPECIES
-=======
+# Leptothyriomyces zonatus Kräusel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pallescens var. pallescens VARIETY
-=======
+# Lecanora pallescens Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen pallescens Neck.
+Lecanora pallescens Hue
 
 ### Remarks
 null

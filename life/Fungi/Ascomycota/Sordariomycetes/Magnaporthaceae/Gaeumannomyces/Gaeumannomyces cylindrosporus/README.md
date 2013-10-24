@@ -1,5 +1,4 @@
-Gaeumannomyces cylindrosporus D. Hornby, Slope, Gutter. & Sivan., 1977 SPECIES
-=======
+# Gaeumannomyces cylindrosporus D. Hornby, Slope, Gutter. & Sivan., 1977 SPECIES
 
 #### Status
 ACCEPTED

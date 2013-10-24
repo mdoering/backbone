@@ -1,5 +1,4 @@
-Hebeloma stocseki (Schulzer) Sacc. SPECIES
-=======
+# Hebeloma stocseki (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

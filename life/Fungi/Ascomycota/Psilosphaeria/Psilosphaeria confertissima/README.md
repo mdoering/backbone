@@ -1,5 +1,4 @@
-Psilosphaeria confertissima (Plowr.) Cooke SPECIES
-=======
+# Psilosphaeria confertissima (Plowr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

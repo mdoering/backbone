@@ -1,5 +1,4 @@
-Pandora uroleuconii Barta & Cagán, 2003 SPECIES
-=======
+# Pandora uroleuconii Barta & Cagán, 2003 SPECIES
 
 #### Status
 ACCEPTED

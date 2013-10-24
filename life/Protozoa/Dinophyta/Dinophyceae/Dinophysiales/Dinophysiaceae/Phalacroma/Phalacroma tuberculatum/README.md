@@ -1,5 +1,4 @@
-Phalacroma tuberculatum G.I. Gail SPECIES
-=======
+# Phalacroma tuberculatum G.I. Gail SPECIES
 
 #### Status
 ACCEPTED

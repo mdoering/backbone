@@ -1,5 +1,4 @@
-Puccinia tomatillo Jørst. SPECIES
-=======
+# Puccinia tomatillo Jørst. SPECIES
 
 #### Status
 ACCEPTED

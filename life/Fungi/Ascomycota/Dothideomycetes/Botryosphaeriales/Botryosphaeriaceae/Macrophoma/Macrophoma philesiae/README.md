@@ -1,5 +1,4 @@
-Macrophoma philesiae (Speg.) Tassi SPECIES
-=======
+# Macrophoma philesiae (Speg.) Tassi SPECIES
 
 #### Status
 ACCEPTED

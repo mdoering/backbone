@@ -1,5 +1,4 @@
-Tintinnidium Kent, 1881 GENUS
-=======
+# Tintinnidium Kent, 1881 GENUS
 
 #### Status
 ACCEPTED

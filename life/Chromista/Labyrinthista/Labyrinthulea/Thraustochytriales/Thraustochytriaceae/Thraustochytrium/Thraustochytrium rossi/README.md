@@ -1,5 +1,4 @@
-Thraustochytrium rossi Bahnweg & Sparrow SPECIES
-=======
+# Thraustochytrium rossi Bahnweg & Sparrow SPECIES
 
 #### Status
 ACCEPTED

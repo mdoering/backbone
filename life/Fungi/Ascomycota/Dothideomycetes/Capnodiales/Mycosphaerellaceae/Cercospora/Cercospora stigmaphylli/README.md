@@ -1,17 +1,16 @@
-Cercospora stigmatophyllonis R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora stigmaphylli R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 33: 106 (1951)
 
 #### Original name
-Cercospora stigmatophyllonis R.E.D. Baker & W.T. Dale
+Cercospora stigmaphylli R.E.D. Baker & W.T. Dale
 
 ### Remarks
 null

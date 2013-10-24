@@ -1,5 +1,4 @@
-Dendrophoma symphoricarpi Vestergr. SPECIES
-=======
+# Dendrophoma symphoricarpi Vestergr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylloporus gymnocystis Singer SPECIES
-=======
+# Phylloporus gymnocystis Singer SPECIES
 
 #### Status
 ACCEPTED

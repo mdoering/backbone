@@ -1,5 +1,4 @@
-Dioxys inermis Thompson SPECIES
-=======
+# Dioxys inermis Thompson SPECIES
 
 #### Status
 ACCEPTED

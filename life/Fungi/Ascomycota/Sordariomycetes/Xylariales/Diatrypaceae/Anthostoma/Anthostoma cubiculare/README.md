@@ -1,17 +1,16 @@
-Robergea unica var. unica VARIETY
-=======
+# Anthostoma cubiculare (Fr.) Nitschke, 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: (1847)
+Pyrenomycetes Germanici 1: 113 (1867)
 
 #### Original name
-Robergea unica var. unica
+Sphaeria cubicularis Fr., 1823
 
 ### Remarks
 null

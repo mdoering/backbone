@@ -1,5 +1,4 @@
-Cylindrium candidum Bonord. SPECIES
-=======
+# Cylindrium candidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

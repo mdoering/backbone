@@ -1,5 +1,4 @@
-Puccinia acalyphae Doidge SPECIES
-=======
+# Puccinia acalyphae Doidge SPECIES
 
 #### Status
 ACCEPTED

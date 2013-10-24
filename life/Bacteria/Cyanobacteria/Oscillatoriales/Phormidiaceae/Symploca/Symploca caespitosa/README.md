@@ -1,5 +1,4 @@
-Symploca caespitosa C. K. Tseng & M. Hua SPECIES
-=======
+# Symploca caespitosa C. K. Tseng & M. Hua SPECIES
 
 #### Status
 ACCEPTED

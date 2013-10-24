@@ -1,5 +1,4 @@
-Icerymyces Brain GENUS
-=======
+# Icerymyces Brain GENUS
 
 #### Status
 ACCEPTED

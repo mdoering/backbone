@@ -1,5 +1,4 @@
-Rhizocarpon effiguratum (Anzi) Th. Fr. SPECIES
-=======
+# Rhizocarpon effiguratum (Anzi) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

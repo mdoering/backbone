@@ -1,5 +1,4 @@
-Fusarium microsporium Schltdl. SPECIES
-=======
+# Fusarium microsporium Schltdl. SPECIES
 
 #### Status
 ACCEPTED

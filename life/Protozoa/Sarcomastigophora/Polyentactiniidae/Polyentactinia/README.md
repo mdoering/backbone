@@ -1,5 +1,4 @@
-Polyentactinia Foreman, 1963 GENUS
-=======
+# Polyentactinia Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

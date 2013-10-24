@@ -1,5 +1,4 @@
-Rhizocarpon rittokense (Hellb.) Th. Fr. SPECIES
-=======
+# Rhizocarpon rittokense (Hellb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium stipitatum Berk. & Curr. SPECIES
-=======
+# Sclerotium stipitatum Berk. & Curr. SPECIES
 
 #### Status
 ACCEPTED

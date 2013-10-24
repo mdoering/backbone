@@ -1,5 +1,4 @@
-Eusynaptomyces benjaminii Scheloske, 1976 SPECIES
-=======
+# Eusynaptomyces benjaminii Scheloske, 1976 SPECIES
 
 #### Status
 ACCEPTED

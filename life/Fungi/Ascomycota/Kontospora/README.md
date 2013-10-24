@@ -1,5 +1,4 @@
-Kontospora A. Roldán, Honrubia & Marvanová GENUS
-=======
+# Kontospora A. Roldán, Honrubia & Marvanová GENUS
 
 #### Status
 ACCEPTED

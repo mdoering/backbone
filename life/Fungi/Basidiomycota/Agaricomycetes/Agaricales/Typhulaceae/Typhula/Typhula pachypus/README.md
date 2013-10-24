@@ -1,5 +1,4 @@
-Typhula pachypus Berthier, 1976 SPECIES
-=======
+# Typhula pachypus Berthier, 1976 SPECIES
 
 #### Status
 ACCEPTED

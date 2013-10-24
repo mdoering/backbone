@@ -1,5 +1,4 @@
-Chlorocloster minimus Pascher SPECIES
-=======
+# Chlorocloster minimus Pascher SPECIES
 
 #### Status
 ACCEPTED

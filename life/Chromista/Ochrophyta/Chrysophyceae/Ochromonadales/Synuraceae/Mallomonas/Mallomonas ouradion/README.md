@@ -1,5 +1,4 @@
-Mallomonas ouradion Harris & Bradley SPECIES
-=======
+# Mallomonas ouradion Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

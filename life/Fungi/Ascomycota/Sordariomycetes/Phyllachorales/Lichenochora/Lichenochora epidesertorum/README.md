@@ -1,5 +1,4 @@
-Lichenochora epidesertorum Nav.-Ros., 1998 SPECIES
-=======
+# Lichenochora epidesertorum Nav.-Ros., 1998 SPECIES
 
 #### Status
 ACCEPTED

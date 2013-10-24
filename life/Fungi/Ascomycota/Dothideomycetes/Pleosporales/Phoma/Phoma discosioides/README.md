@@ -1,5 +1,4 @@
-Phoma discosioides Sacc. SPECIES
-=======
+# Phoma discosioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

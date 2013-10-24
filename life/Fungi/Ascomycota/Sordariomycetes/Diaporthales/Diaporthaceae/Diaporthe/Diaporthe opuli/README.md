@@ -1,5 +1,4 @@
-Diaporthe opuli Wehm. SPECIES
-=======
+# Diaporthe opuli Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula melanophthalma (Mont.) Trevis. SPECIES
-=======
+# Pyrenula melanophthalma (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

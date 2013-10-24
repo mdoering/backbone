@@ -1,5 +1,4 @@
-Colletotrichum padi var. padi VARIETY
-=======
+# Colletotrichum padi Karak. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Colletotrichum padi var. padi
+Colletotrichum padi Karak.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gnomonia acaenae Spooner SPECIES
-=======
+# Gnomonia acaenae Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha aphoristica Nyl. SPECIES
-=======
+# Opegrapha aphoristica Nyl. SPECIES
 
 #### Status
 ACCEPTED

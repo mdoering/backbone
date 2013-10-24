@@ -1,5 +1,4 @@
-Cercidospora dioscoreae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora dioscoreae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

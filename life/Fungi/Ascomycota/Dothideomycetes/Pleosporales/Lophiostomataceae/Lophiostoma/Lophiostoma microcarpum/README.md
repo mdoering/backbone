@@ -1,5 +1,4 @@
-Lophiostoma microcarpum Nitschke SPECIES
-=======
+# Lophiostoma microcarpum Nitschke SPECIES
 
 #### Status
 ACCEPTED

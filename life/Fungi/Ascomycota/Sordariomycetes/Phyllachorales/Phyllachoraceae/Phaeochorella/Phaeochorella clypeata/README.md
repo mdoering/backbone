@@ -1,14 +1,13 @@
-Auerswaldia clypeata G. Winter, 1887 SPECIES
-=======
+# Phaeochorella clypeata (G. Winter) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 75): 91 (1887)
+Annls mycol. 13(3/4): 406 (1915)
 
 #### Original name
 Auerswaldia clypeata G. Winter, 1887

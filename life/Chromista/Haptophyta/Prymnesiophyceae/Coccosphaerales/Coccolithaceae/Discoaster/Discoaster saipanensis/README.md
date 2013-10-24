@@ -1,5 +1,4 @@
-Discoaster saipanensis Bramlette & Riedel, 1954 SPECIES
-=======
+# Discoaster saipanensis Bramlette & Riedel, 1954 SPECIES
 
 #### Status
 ACCEPTED

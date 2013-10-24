@@ -1,5 +1,4 @@
-Diplocystis Künstler, 1887 GENUS
-=======
+# Diplocystis Künstler, 1887 GENUS
 
 #### Status
 ACCEPTED

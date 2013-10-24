@@ -1,5 +1,4 @@
-Discella tenuispora Cooke & Harkn. SPECIES
-=======
+# Discella tenuispora Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

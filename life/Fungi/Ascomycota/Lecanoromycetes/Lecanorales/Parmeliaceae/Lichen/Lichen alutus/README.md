@@ -1,5 +1,4 @@
-Lichen alutus SPECIES
-=======
+# Lichen alutus SPECIES
 
 #### Status
 ACCEPTED

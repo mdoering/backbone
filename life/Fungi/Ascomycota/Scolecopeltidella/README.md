@@ -1,5 +1,4 @@
-Scolecopeltidella J.M. Mend. GENUS
-=======
+# Scolecopeltidella J.M. Mend. GENUS
 
 #### Status
 ACCEPTED

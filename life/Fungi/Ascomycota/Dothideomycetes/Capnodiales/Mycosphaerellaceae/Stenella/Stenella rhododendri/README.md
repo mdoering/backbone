@@ -1,5 +1,4 @@
-Stenella rhododendri R.K. Verma & Kamal SPECIES
-=======
+# Stenella rhododendri R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

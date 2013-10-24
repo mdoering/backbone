@@ -1,5 +1,4 @@
-Trichothelium mirum Lücking SPECIES
-=======
+# Trichothelium mirum Lücking SPECIES
 
 #### Status
 ACCEPTED

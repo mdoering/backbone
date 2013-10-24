@@ -1,5 +1,4 @@
-Rimeliella uruguensis (Kremp.) Kurok. SPECIES
-=======
+# Rimeliella uruguensis (Kremp.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

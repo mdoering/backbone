@@ -1,5 +1,4 @@
-Leucoagaricus squamosus Heinem. SPECIES
-=======
+# Leucoagaricus squamosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

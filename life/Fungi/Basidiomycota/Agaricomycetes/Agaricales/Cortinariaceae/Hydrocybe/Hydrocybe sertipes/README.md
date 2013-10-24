@@ -1,5 +1,4 @@
-Hydrocybe sertipes (Kühner) M.M. Moser SPECIES
-=======
+# Hydrocybe sertipes (Kühner) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

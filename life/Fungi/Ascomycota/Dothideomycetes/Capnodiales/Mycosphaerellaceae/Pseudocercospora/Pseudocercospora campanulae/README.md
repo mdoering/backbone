@@ -1,5 +1,4 @@
-Pseudocercospora campanulae U. Braun & Crous SPECIES
-=======
+# Pseudocercospora campanulae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

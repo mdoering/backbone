@@ -1,5 +1,4 @@
-Vicinesphaera GENUS
-=======
+# Vicinesphaera GENUS
 
 #### Status
 ACCEPTED

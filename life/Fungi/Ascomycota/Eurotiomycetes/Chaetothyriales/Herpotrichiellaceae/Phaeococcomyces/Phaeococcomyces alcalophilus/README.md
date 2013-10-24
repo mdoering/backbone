@@ -1,5 +1,4 @@
-Phaeococcomyces alcalophilus Goto & Sugiy. SPECIES
-=======
+# Phaeococcomyces alcalophilus Goto & Sugiy. SPECIES
 
 #### Status
 ACCEPTED

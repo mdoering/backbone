@@ -1,14 +1,13 @@
-Trichocrea oödes Bayl. Ell. SPECIES
-=======
+# Fujimyces oödes (Bayl. Ell.) Minter & Caine SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Br. mycol. Soc. 6(1): 58 (1917)
+Trans. Br. mycol. Soc. 74(2): 434 (1980)
 
 #### Original name
 Trichocrea oödes Bayl. Ell.

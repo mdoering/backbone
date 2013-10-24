@@ -1,11 +1,10 @@
-Methylomonas albus Whittenbury et al., 1970 SPECIES
-=======
+# Methylomicrobium album (Bowman et al., 1993) Bowman et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

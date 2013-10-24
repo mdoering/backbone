@@ -1,5 +1,4 @@
-Coenogonium disciforme Papong, Boonbragob & Lücking SPECIES
-=======
+# Coenogonium disciforme Papong, Boonbragob & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysostephanosphaera globulifera Scherffel SPECIES
-=======
+# Chrysostephanosphaera globulifera Scherffel SPECIES
 
 #### Status
 ACCEPTED

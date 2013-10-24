@@ -1,5 +1,4 @@
-Diatrypella morganae Doidge SPECIES
-=======
+# Diatrypella morganae Doidge SPECIES
 
 #### Status
 ACCEPTED

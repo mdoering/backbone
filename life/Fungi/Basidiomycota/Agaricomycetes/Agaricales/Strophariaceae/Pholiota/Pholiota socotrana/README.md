@@ -1,5 +1,4 @@
-Pholiota socotrana Henn. SPECIES
-=======
+# Pholiota socotrana Henn. SPECIES
 
 #### Status
 ACCEPTED

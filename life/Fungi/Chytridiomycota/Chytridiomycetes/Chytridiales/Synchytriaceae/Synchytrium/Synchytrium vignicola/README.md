@@ -1,5 +1,4 @@
-Synchytrium vignicola (Henn.) Gäum. SPECIES
-=======
+# Synchytrium vignicola (Henn.) Gäum. SPECIES
 
 #### Status
 ACCEPTED

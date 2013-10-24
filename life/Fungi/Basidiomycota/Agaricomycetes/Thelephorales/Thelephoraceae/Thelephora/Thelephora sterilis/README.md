@@ -1,5 +1,4 @@
-Thelephora sterilis Fr. SPECIES
-=======
+# Thelephora sterilis Fr. SPECIES
 
 #### Status
 ACCEPTED

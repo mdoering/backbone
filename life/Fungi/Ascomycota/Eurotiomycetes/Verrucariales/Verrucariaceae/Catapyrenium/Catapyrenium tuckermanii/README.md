@@ -1,5 +1,4 @@
-Catapyrenium tuckermanii (Ravenel ex Mont.) J.W. Thomson SPECIES
-=======
+# Catapyrenium tuckermanii (Ravenel ex Mont.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

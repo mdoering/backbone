@@ -1,5 +1,4 @@
-Hypoxylon nagatense I. Hino & Katum. SPECIES
-=======
+# Hypoxylon nagatense I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

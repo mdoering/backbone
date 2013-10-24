@@ -1,5 +1,4 @@
-Amphoridium purpurascens (Hoffm.) A. Massal. SPECIES
-=======
+# Amphoridium purpurascens (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora stachyurina Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora stachyurina Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

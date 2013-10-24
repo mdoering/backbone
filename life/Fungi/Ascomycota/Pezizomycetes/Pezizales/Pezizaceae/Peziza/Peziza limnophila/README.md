@@ -1,5 +1,4 @@
-Peziza limnophila Beck SPECIES
-=======
+# Peziza limnophila Beck SPECIES
 
 #### Status
 ACCEPTED

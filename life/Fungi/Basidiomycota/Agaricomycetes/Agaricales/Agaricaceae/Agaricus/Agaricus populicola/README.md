@@ -1,5 +1,4 @@
-Agaricus populicola Britzelm. SPECIES
-=======
+# Agaricus populicola Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria pellucida E.G. Simmons, 1990 SPECIES
-=======
+# Alternaria pellucida E.G. Simmons, 1990 SPECIES
 
 #### Status
 ACCEPTED

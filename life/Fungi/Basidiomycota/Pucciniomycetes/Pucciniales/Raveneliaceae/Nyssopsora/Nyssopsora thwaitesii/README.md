@@ -1,14 +1,13 @@
-Triphragmium thwaitesii Berk. & Broome, 1875 SPECIES
-=======
+# Nyssopsora thwaitesii (Berk. & Broome) Syd., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 92 (1875)
+Annls mycol. 19(1/2): 170 (1921)
 
 #### Original name
 Triphragmium thwaitesii Berk. & Broome, 1875

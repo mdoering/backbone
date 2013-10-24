@@ -1,5 +1,4 @@
-Fungoides maximus P. Micheli SPECIES
-=======
+# Fungoides maximus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

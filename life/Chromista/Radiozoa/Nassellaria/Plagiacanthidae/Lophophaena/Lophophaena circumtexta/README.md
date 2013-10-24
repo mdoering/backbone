@@ -1,5 +1,4 @@
-Lophophaena circumtexta SPECIES
-=======
+# Lophophaena circumtexta SPECIES
 
 #### Status
 ACCEPTED

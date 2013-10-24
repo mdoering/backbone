@@ -1,5 +1,4 @@
-Phaeophyscia chloantha (Ach.) Moberg SPECIES
-=======
+# Phaeophyscia chloantha (Ach.) Moberg SPECIES
 
 #### Status
 ACCEPTED

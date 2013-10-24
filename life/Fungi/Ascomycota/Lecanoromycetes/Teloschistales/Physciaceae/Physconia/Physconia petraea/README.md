@@ -1,5 +1,4 @@
-Physconia petraea (Poelt) Vezda & Poelt SPECIES
-=======
+# Physconia petraea (Poelt) Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

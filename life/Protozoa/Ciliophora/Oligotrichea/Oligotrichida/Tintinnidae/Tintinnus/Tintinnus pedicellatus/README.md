@@ -1,5 +1,4 @@
-Tintinnus pedicellatus SPECIES
-=======
+# Tintinnus pedicellatus SPECIES
 
 #### Status
 ACCEPTED

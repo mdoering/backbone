@@ -1,5 +1,4 @@
-Peziza chrysopela Cooke SPECIES
-=======
+# Peziza chrysopela Cooke SPECIES
 
 #### Status
 ACCEPTED

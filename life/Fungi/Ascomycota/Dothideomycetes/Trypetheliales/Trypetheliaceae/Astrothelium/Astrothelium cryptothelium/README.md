@@ -1,5 +1,4 @@
-Astrothelium cryptothelium (Müll. Arg.) Nyl. SPECIES
-=======
+# Astrothelium cryptothelium (Müll. Arg.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

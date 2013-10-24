@@ -1,5 +1,4 @@
-Tulostoma leiosporum Fr. SPECIES
-=======
+# Tulostoma leiosporum Fr. SPECIES
 
 #### Status
 ACCEPTED

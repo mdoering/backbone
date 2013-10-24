@@ -1,5 +1,4 @@
-Meliola mephitidiae W. Yamam. SPECIES
-=======
+# Meliola mephitidiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

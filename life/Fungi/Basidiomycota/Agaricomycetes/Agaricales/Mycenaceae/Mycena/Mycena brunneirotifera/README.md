@@ -1,5 +1,4 @@
-Mycena brunneirotifera Corner SPECIES
-=======
+# Mycena brunneirotifera Corner SPECIES
 
 #### Status
 ACCEPTED

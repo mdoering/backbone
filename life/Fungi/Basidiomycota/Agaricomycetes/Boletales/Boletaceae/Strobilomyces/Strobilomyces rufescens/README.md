@@ -1,5 +1,4 @@
-Strobilomyces rufescens Cooke & Massee SPECIES
-=======
+# Strobilomyces rufescens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

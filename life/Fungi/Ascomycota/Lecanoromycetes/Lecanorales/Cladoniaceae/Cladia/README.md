@@ -1,17 +1,16 @@
-Clathrina Müll. Arg. GENUS
-=======
+# Cladia Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 66: 80 (1883)
+Bull. Soc. linn. Normandie, sér. 2 4: 167 (1870)
 
 #### Original name
-Clathrina Müll. Arg.
+Cladia Nyl.
 
 ### Remarks
 null

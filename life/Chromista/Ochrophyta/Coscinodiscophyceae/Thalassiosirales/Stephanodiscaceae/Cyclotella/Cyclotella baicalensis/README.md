@@ -1,5 +1,4 @@
-Cyclotella baicalensis Skvortzov SPECIES
-=======
+# Cyclotella baicalensis Skvortzov SPECIES
 
 #### Status
 ACCEPTED

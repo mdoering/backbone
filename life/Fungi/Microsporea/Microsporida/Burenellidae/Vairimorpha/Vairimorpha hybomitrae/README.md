@@ -1,5 +1,4 @@
-Vairimorpha hybomitrae H.I. Bykova & I.V. Issi SPECIES
-=======
+# Vairimorpha hybomitrae H.I. Bykova & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

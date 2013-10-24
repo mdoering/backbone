@@ -1,5 +1,4 @@
-Sclerotinia wisconsinensis Rehm SPECIES
-=======
+# Sclerotinia wisconsinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

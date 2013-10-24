@@ -1,17 +1,16 @@
-Cryptothecia macroacarpa Makhija & Patw. SPECIES
-=======
+# Cryptothecia macrocarpa Makhija & Patw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Current Researches in Plant Sciences (Dehra Dun) 66 (1994)
 
 #### Original name
-Cryptothecia macroacarpa Makhija & Patw.
+Cryptothecia macrocarpa Makhija & Patw.
 
 ### Remarks
 null

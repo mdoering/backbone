@@ -1,17 +1,16 @@
-Glomus lacteus S.L. Rose & Trappe SPECIES
-=======
+# Glomus lacteum S.L. Rose & Trappe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 10(2): 415 (1980)
 
 #### Original name
-Glomus lacteus S.L. Rose & Trappe
+Glomus lacteum S.L. Rose & Trappe
 
 ### Remarks
 null

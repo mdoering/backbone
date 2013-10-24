@@ -1,5 +1,4 @@
-Aecidium xylostei Wallr. SPECIES
-=======
+# Aecidium xylostei Wallr. SPECIES
 
 #### Status
 ACCEPTED

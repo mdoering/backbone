@@ -1,5 +1,4 @@
-Calosphaeria finkii Petr. SPECIES
-=======
+# Calosphaeria finkii Petr. SPECIES
 
 #### Status
 ACCEPTED

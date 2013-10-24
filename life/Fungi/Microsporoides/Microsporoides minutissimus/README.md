@@ -1,5 +1,4 @@
-Microsporoides minutissimus (Burchardt) Neveu-Lem. SPECIES
-=======
+# Microsporoides minutissimus (Burchardt) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

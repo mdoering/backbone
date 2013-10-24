@@ -1,5 +1,4 @@
-Patellaria myrticola Rehm SPECIES
-=======
+# Patellaria myrticola Rehm SPECIES
 
 #### Status
 ACCEPTED

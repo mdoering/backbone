@@ -1,14 +1,13 @@
-Sagrahamala roseola (G. Sm.) Subram., 1972 SPECIES
-=======
+# Acremonium roseolum (G. Sm.) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 41(2): 49 (1972)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 68 (1971)
 
 #### Original name
 Paecilomyces roseolus G. Sm., 1962

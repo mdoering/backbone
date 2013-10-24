@@ -1,5 +1,4 @@
-Telamonia abietina Velen. SPECIES
-=======
+# Telamonia abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

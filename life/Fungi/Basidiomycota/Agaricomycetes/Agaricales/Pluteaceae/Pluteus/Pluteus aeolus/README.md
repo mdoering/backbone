@@ -1,5 +1,4 @@
-Pluteus aeolus Berk. & Broome SPECIES
-=======
+# Pluteus aeolus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

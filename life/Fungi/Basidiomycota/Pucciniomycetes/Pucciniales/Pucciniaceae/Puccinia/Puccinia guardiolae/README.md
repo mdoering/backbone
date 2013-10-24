@@ -1,5 +1,4 @@
-Puccinia guardiolae Dietel & Holw. SPECIES
-=======
+# Puccinia guardiolae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria lichenalis Peck SPECIES
-=======
+# Sphaeria lichenalis Peck SPECIES
 
 #### Status
 ACCEPTED

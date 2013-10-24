@@ -1,5 +1,4 @@
-Verrucaria kerguelensis C.W. Dodge SPECIES
-=======
+# Verrucaria kerguelensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

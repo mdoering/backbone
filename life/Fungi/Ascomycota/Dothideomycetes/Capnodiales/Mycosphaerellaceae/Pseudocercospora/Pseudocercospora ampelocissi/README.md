@@ -1,5 +1,4 @@
-Pseudocercospora ampelocissi ined. SPECIES
-=======
+# Pseudocercospora ampelocissi ined. SPECIES
 
 #### Status
 ACCEPTED

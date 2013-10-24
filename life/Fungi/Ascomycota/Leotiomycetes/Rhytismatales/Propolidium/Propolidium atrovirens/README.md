@@ -1,5 +1,4 @@
-Propolidium atrovirens (Fr.) Rehm SPECIES
-=======
+# Propolidium atrovirens (Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED

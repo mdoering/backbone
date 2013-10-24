@@ -1,5 +1,4 @@
-Paranectria hemileiae Hansf. SPECIES
-=======
+# Paranectria hemileiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

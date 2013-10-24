@@ -1,5 +1,4 @@
-Heterodinium doma (Murray & Whitting) Kofoid SPECIES
-=======
+# Heterodinium doma (Murray & Whitting) Kofoid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium punctatum Le Hérissé, Melo, de Quadros, Grahn & Steemans, 2001 SPECIES
-=======
+# Multiplicisphaeridium punctatum Le Hérissé, Melo, de Quadros, Grahn & Steemans, 2001 SPECIES
 
 #### Status
 ACCEPTED

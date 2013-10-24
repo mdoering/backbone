@@ -1,5 +1,4 @@
-Botryobasidium simile Hol.-Jech. SPECIES
-=======
+# Botryobasidium simile Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

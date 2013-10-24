@@ -1,5 +1,4 @@
-Leptogium transversum M. Lindstr. SPECIES
-=======
+# Leptogium transversum M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

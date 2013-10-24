@@ -1,5 +1,4 @@
-Sporidesmium seminale (Ellis & Everh.) U. Braun SPECIES
-=======
+# Sporidesmium seminale (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

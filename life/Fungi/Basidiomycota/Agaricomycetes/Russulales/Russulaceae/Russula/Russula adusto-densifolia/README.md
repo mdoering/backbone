@@ -1,5 +1,4 @@
-Russula adusto-densifolia Secr. ex Singer SPECIES
-=======
+# Russula adusto-densifolia Secr. ex Singer SPECIES
 
 #### Status
 ACCEPTED

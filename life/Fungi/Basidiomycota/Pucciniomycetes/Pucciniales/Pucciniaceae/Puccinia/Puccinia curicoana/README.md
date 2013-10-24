@@ -1,5 +1,4 @@
-Puccinia curicoana Syd. SPECIES
-=======
+# Puccinia curicoana Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia mangiferae Koord. SPECIES
-=======
+# Hendersonia mangiferae Koord. SPECIES
 
 #### Status
 ACCEPTED

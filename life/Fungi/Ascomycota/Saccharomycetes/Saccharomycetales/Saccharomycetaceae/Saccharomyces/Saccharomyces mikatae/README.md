@@ -1,5 +1,4 @@
-Saccharomyces mikatae G.I. Naumov, S.A. James, E.S. Naumova, E.J. Louis & I.N. Roberts SPECIES
-=======
+# Saccharomyces mikatae G.I. Naumov, S.A. James, E.S. Naumova, E.J. Louis & I.N. Roberts SPECIES
 
 #### Status
 ACCEPTED

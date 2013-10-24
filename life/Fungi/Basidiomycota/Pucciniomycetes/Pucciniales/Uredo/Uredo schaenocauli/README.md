@@ -1,5 +1,4 @@
-Uredo schaenocauli Ellis & Everh. SPECIES
-=======
+# Uredo schaenocauli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

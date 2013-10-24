@@ -1,5 +1,4 @@
-Phlyctochytrium powhatanense Roane SPECIES
-=======
+# Phlyctochytrium powhatanense Roane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helminthosporium apicale Berk. & Broome, 1861 SPECIES
-=======
+# Brachysporium nigrum (Link) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: 382 (1861)
+Can. J. Bot. 36: 742 (1958)
 
 #### Original name
-Helminthosporium apicale Berk. & Broome, 1861
+Dactylium nigrum Link, 1824
 
 ### Remarks
 null

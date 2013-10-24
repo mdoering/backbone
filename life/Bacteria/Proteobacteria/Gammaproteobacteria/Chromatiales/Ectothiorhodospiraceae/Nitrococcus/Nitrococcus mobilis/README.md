@@ -1,5 +1,4 @@
-Nitrococcus mobilis Watson and Waterbury, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Nitrococcus mobilis Watson and Waterbury, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

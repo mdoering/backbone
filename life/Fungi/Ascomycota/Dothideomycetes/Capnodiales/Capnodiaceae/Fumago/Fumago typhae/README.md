@@ -1,5 +1,4 @@
-Fumago typhae Pers. SPECIES
-=======
+# Fumago typhae Pers. SPECIES
 
 #### Status
 ACCEPTED

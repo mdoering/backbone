@@ -1,5 +1,4 @@
-Spathidium macrostomum Wilbert, 1995 SPECIES
-=======
+# Spathidium macrostomum Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

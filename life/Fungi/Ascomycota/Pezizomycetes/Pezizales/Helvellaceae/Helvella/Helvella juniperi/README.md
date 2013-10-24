@@ -1,5 +1,4 @@
-Helvella juniperi M. Filippa & Baiano SPECIES
-=======
+# Helvella juniperi M. Filippa & Baiano SPECIES
 
 #### Status
 ACCEPTED

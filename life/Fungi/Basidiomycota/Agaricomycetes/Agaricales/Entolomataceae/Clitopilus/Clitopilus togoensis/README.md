@@ -1,17 +1,16 @@
-Clitopilus togoënsis Henn. SPECIES
-=======
+# Clitopilus togoensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 22: 103 (1895)
 
 #### Original name
-Clitopilus togoënsis Henn.
+Clitopilus togoensis Henn.
 
 ### Remarks
 null

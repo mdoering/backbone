@@ -1,5 +1,4 @@
-Blodgettiomyces borneti (Wright) J. Feldmann SPECIES
-=======
+# Blodgettiomyces borneti (Wright) J. Feldmann SPECIES
 
 #### Status
 DOUBTFUL

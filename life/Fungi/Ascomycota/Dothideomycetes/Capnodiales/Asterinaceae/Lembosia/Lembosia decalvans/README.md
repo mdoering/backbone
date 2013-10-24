@@ -1,5 +1,4 @@
-Lembosia decalvans var. decalvans VARIETY
-=======
+# Lembosia decalvans Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Jard. Bot. Buitenzorg 122 (1897)
 
 #### Original name
-Lembosia decalvans var. decalvans
+Lembosia decalvans Pat.
 
 ### Remarks
 null

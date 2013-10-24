@@ -1,5 +1,4 @@
-Sporormia leguminosa Fairm. SPECIES
-=======
+# Sporormia leguminosa Fairm. SPECIES
 
 #### Status
 ACCEPTED

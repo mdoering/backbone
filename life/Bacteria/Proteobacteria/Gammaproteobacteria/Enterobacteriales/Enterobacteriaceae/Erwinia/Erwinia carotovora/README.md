@@ -1,8 +1,7 @@
-Pectobacterium carotovorum subsp. atrosepticum (van Hall, 1902) Hauben et al., 1999 SUBSPECIES
-=======
+# Erwinia carotovora (Jones, 1901) Bergey et al., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

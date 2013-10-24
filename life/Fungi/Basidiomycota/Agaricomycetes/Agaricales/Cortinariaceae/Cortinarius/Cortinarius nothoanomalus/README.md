@@ -1,5 +1,4 @@
-Cortinarius nothoanomalus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius nothoanomalus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

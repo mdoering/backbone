@@ -1,5 +1,4 @@
-Xylaria kedahae Lloyd SPECIES
-=======
+# Xylaria kedahae Lloyd SPECIES
 
 #### Status
 ACCEPTED

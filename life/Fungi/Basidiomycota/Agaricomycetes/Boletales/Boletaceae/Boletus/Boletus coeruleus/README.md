@@ -1,5 +1,4 @@
-Boletus coeruleus Schumach. SPECIES
-=======
+# Boletus coeruleus Schumach. SPECIES
 
 #### Status
 ACCEPTED

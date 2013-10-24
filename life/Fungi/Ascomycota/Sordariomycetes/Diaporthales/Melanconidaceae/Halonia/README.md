@@ -1,5 +1,4 @@
-Halonia E.M. Fries, 1849 GENUS
-=======
+# Halonia E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

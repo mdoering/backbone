@@ -1,5 +1,4 @@
-Psiloglonium finkii Petr. SPECIES
-=======
+# Psiloglonium finkii Petr. SPECIES
 
 #### Status
 ACCEPTED

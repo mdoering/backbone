@@ -1,5 +1,4 @@
-Tilletia laguri Gui M. Zhang, G.X. Lin & J.R. Deng SPECIES
-=======
+# Tilletia laguri Gui M. Zhang, G.X. Lin & J.R. Deng SPECIES
 
 #### Status
 ACCEPTED

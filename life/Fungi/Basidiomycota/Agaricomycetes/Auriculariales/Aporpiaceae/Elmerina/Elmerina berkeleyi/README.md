@@ -1,5 +1,4 @@
-Elmerina berkeleyi (Sacc. & Cub.) Humphrey SPECIES
-=======
+# Elmerina berkeleyi (Sacc. & Cub.) Humphrey SPECIES
 
 #### Status
 ACCEPTED

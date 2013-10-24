@@ -1,14 +1,13 @@
-Ophiostoma aenigmaticum K. Jacobs, M.J. Wingf. & Yamaoka, 1998 SPECIES
-=======
+# Grosmannia aenigmatica (K. Jacobs, M.J. Wingf. & Yamaoka) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Jacobs, Wingfield, Wingfield & Yamaoka, Mycol. Res. 102(3): 291 (1998)
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 89 (2006)
 
 #### Original name
 Ophiostoma aenigmaticum K. Jacobs, M.J. Wingf. & Yamaoka, 1998

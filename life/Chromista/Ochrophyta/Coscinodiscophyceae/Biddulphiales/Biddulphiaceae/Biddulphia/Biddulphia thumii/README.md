@@ -1,5 +1,4 @@
-Biddulphia thumii (A.F.W. Schmidt) C.S. Boyer, 1901 SPECIES
-=======
+# Biddulphia thumii (A.F.W. Schmidt) C.S. Boyer, 1901 SPECIES
 
 #### Status
 ACCEPTED

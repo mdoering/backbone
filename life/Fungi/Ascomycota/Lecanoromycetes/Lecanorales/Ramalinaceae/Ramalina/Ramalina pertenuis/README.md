@@ -1,5 +1,4 @@
-Ramalina pertenuis H. Magn. SPECIES
-=======
+# Ramalina pertenuis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

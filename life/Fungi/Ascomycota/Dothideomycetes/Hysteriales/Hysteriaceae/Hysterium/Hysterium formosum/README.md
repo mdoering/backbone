@@ -1,5 +1,4 @@
-Hysterium formosum Cooke SPECIES
-=======
+# Hysterium formosum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abundisporus sclerosetosus Decock & Laurence, 2000 SPECIES
-=======
+# Abundisporus sclerosetosus Decock & Laurence, 2000 SPECIES
 
 #### Status
 ACCEPTED

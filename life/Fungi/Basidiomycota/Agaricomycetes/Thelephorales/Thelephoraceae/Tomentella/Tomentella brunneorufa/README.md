@@ -1,5 +1,4 @@
-Tomentella brunneorufa M.J. Larsen, 1974 SPECIES
-=======
+# Tomentella brunneorufa M.J. Larsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

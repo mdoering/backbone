@@ -1,5 +1,4 @@
-Coprinus mutabilis Quél. SPECIES
-=======
+# Coprinus mutabilis Quél. SPECIES
 
 #### Status
 ACCEPTED

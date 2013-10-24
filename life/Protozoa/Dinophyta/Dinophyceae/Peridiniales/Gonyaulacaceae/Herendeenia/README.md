@@ -1,5 +1,4 @@
-Herendeenia V.D. Wiggins, 1969 GENUS
-=======
+# Herendeenia V.D. Wiggins, 1969 GENUS
 
 #### Status
 ACCEPTED

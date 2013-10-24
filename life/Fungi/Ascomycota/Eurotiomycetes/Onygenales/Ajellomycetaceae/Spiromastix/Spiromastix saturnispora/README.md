@@ -1,5 +1,4 @@
-Spiromastix saturnispora Uchiy., Kamiya & Udagawa SPECIES
-=======
+# Spiromastix saturnispora Uchiy., Kamiya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

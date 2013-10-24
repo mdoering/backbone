@@ -1,5 +1,4 @@
-Hypocopra karstenii Oudem. SPECIES
-=======
+# Hypocopra karstenii Oudem. SPECIES
 
 #### Status
 ACCEPTED

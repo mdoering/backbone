@@ -1,5 +1,4 @@
-Graphis appendiculata Common & Lücking SPECIES
-=======
+# Graphis appendiculata Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

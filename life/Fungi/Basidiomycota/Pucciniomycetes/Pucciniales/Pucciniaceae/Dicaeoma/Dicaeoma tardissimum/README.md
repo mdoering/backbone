@@ -1,5 +1,4 @@
-Dicaeoma tardissimum (Garrett) Arthur SPECIES
-=======
+# Dicaeoma tardissimum (Garrett) Arthur SPECIES
 
 #### Status
 ACCEPTED

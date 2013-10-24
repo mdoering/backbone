@@ -1,5 +1,4 @@
-Physalospora cyperi Petch SPECIES
-=======
+# Physalospora cyperi Petch SPECIES
 
 #### Status
 ACCEPTED

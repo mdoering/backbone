@@ -1,5 +1,4 @@
-Cephalocystis Rees, 1962 GENUS
-=======
+# Cephalocystis Rees, 1962 GENUS
 
 #### Status
 ACCEPTED

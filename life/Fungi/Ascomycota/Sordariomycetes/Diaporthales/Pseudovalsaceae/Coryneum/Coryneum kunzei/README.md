@@ -1,17 +1,16 @@
-Coryneum kunzei subsp. kunzei SUBSPECIES
-=======
+# Coryneum kunzei Corda, 1840 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 4: 46 (1840)
 
 #### Original name
-null
+Coryneum kunzei Corda, 1840
 
 ### Remarks
 null

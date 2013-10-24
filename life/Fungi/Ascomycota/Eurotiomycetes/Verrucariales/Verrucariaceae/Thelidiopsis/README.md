@@ -1,5 +1,4 @@
-Thelidiopsis Vain. GENUS
-=======
+# Thelidiopsis Vain. GENUS
 
 #### Status
 ACCEPTED

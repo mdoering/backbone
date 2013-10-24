@@ -1,5 +1,4 @@
-Hypocopra sphaerospora (Ellis & Everh.) Sacc. SPECIES
-=======
+# Hypocopra sphaerospora (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

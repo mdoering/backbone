@@ -1,5 +1,4 @@
-Himantites Debey & Ettingsh. GENUS
-=======
+# Himantites Debey & Ettingsh. GENUS
 
 #### Status
 ACCEPTED

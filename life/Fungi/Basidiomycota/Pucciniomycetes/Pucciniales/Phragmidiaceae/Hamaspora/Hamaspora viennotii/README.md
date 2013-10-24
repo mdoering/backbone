@@ -1,5 +1,4 @@
-Hamaspora viennotii Durrieu, 1977 SPECIES
-=======
+# Hamaspora viennotii Durrieu, 1977 SPECIES
 
 #### Status
 ACCEPTED

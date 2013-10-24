@@ -1,5 +1,4 @@
-Cymathere japonica Miyabe & Nagai SPECIES
-=======
+# Cymathere japonica Miyabe & Nagai SPECIES
 
 #### Status
 ACCEPTED

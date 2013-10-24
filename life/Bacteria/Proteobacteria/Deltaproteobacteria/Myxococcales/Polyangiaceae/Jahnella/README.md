@@ -1,5 +1,4 @@
-Jahnella GENUS
-=======
+# Jahnella GENUS
 
 #### Status
 ACCEPTED

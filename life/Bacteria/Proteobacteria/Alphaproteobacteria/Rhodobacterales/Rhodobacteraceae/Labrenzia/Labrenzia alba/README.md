@@ -1,5 +1,4 @@
-Labrenzia alba Pujalte, Macian, Arahal & Garay, 2005 SPECIES
-=======
+# Labrenzia alba Pujalte, Macian, Arahal & Garay, 2005 SPECIES
 
 #### Status
 ACCEPTED

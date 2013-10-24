@@ -1,5 +1,4 @@
-Vasiella Tikhomirova, 1989 GENUS
-=======
+# Vasiella Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

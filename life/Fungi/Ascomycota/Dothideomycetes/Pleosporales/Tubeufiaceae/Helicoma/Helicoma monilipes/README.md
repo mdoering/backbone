@@ -1,14 +1,13 @@
-Helicosporium monilipes (Ellis & L.N. Johnson {?} ) Sacc., 1895 SPECIES
-=======
+# Helicoma monilipes Ellis & L.N. Johnson {?}, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1894 46: 376 (1894)
 
 #### Original name
 Helicoma monilipes Ellis & L.N. Johnson {?}, 1894

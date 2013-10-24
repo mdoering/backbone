@@ -1,5 +1,4 @@
-Cenangium caliciiforme Fr. SPECIES
-=======
+# Cenangium caliciiforme Fr. SPECIES
 
 #### Status
 ACCEPTED

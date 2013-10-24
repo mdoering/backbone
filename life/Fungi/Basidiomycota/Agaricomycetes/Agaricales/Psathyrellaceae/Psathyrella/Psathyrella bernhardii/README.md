@@ -1,5 +1,4 @@
-Psathyrella bernhardii Kits van Wav. SPECIES
-=======
+# Psathyrella bernhardii Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

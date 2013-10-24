@@ -1,5 +1,4 @@
-Trichosporon figueirae Bat. & J.S. Silveira SPECIES
-=======
+# Trichosporon figueirae Bat. & J.S. Silveira SPECIES
 
 #### Status
 ACCEPTED

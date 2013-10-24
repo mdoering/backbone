@@ -1,17 +1,16 @@
-Recticharella D. Scheer GENUS
-=======
+# Asellaria R.A. Poiss. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. ParasitKde 13: 275 (1944)
+Bull. biol. Fr. Belg. 66: 232 (1932)
 
 #### Original name
-Recticharella D. Scheer
+Asellaria R.A. Poiss.
 
 ### Remarks
 null

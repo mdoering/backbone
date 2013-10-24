@@ -1,5 +1,4 @@
-Dothichiza rutae Bubák & Gonz. Frag. SPECIES
-=======
+# Dothichiza rutae Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

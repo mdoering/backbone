@@ -1,5 +1,4 @@
-Cytosporella jaapiana Bubák SPECIES
-=======
+# Cytosporella jaapiana Bubák SPECIES
 
 #### Status
 ACCEPTED

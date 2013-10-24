@@ -1,5 +1,4 @@
-Lecidea spuriaeformis Anzi SPECIES
-=======
+# Lecidea spuriaeformis Anzi SPECIES
 
 #### Status
 ACCEPTED

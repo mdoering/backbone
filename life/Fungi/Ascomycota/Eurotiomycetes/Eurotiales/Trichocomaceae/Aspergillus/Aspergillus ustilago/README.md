@@ -1,5 +1,4 @@
-Aspergillus ustilago Beck SPECIES
-=======
+# Aspergillus ustilago Beck SPECIES
 
 #### Status
 ACCEPTED

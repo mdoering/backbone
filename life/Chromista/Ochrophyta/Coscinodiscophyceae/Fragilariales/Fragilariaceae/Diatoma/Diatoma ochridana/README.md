@@ -1,5 +1,4 @@
-Diatoma ochridana Lange-Bertalot & U.Rumrich SPECIES
-=======
+# Diatoma ochridana Lange-Bertalot & U.Rumrich SPECIES
 
 #### Status
 ACCEPTED

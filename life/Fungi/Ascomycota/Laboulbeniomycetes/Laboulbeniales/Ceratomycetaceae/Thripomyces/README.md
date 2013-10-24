@@ -1,5 +1,4 @@
-Thripomyces Speg. GENUS
-=======
+# Thripomyces Speg. GENUS
 
 #### Status
 ACCEPTED

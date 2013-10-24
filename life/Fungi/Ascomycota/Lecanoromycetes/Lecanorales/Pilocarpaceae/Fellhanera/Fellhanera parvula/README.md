@@ -1,14 +1,13 @@
-Catillaria parvula Vezda SPECIES
-=======
+# Fellhanera parvula (Vezda) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mus. Silesiae, Ser. A 23: 176 (1974)
+Folia geobot. phytotax. 21(2): 214 (1986)
 
 #### Original name
 Catillaria parvula Vezda

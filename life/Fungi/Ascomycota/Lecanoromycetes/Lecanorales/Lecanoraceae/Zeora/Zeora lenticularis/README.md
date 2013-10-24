@@ -1,5 +1,4 @@
-Zeora lenticularis SPECIES
-=======
+# Zeora lenticularis SPECIES
 
 #### Status
 ACCEPTED

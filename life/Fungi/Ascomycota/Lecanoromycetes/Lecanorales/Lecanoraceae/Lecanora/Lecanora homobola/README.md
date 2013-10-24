@@ -1,5 +1,4 @@
-Lecanora homobola Nyl. SPECIES
-=======
+# Lecanora homobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

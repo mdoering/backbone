@@ -1,5 +1,4 @@
-Mycena mariluanensis Speg. SPECIES
-=======
+# Mycena mariluanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

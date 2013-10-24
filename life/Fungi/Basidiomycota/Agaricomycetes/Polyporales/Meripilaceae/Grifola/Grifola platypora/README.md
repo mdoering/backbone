@@ -1,5 +1,4 @@
-Grifola platypora Gray, 1821 SPECIES
-=======
+# Grifola platypora Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula virgata Remsberg, 1940 SPECIES
-=======
+# Typhula virgata Remsberg, 1940 SPECIES
 
 #### Status
 ACCEPTED

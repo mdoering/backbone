@@ -1,5 +1,4 @@
-Euscenium Haeckel, 1887 GENUS
-=======
+# Euscenium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

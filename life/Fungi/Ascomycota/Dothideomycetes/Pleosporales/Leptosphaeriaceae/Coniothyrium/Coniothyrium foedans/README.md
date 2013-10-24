@@ -1,5 +1,4 @@
-Coniothyrium foedans Sacc. SPECIES
-=======
+# Coniothyrium foedans Sacc. SPECIES
 
 #### Status
 ACCEPTED

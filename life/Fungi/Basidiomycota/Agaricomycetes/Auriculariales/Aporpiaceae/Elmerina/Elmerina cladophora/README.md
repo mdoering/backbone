@@ -1,17 +1,16 @@
-Favolus eberhardti Pat. SPECIES
-=======
+# Elmerina cladophora (Berk.) Bres., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 53: 71 (1912)
 
 #### Original name
-Favolus eberhardti Pat.
+Hexagonia cladophora Berk., 1877
 
 ### Remarks
 null

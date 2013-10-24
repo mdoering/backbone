@@ -1,8 +1,7 @@
-Cystophora spartioides (Turner) J. Agardh SPECIES
-=======
+# Cystophora moniliformis (Esper) Womersley & Nizamuddin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

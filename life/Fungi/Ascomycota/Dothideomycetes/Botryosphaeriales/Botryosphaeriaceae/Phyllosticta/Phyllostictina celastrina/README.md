@@ -1,5 +1,4 @@
-Phyllostictina celastrina (Died.) Petr. & Syd. SPECIES
-=======
+# Phyllostictina celastrina (Died.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

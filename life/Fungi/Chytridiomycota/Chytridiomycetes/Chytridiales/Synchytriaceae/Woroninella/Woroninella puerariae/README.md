@@ -1,5 +1,4 @@
-Woroninella puerariae (Henn.) Syd. SPECIES
-=======
+# Woroninella puerariae (Henn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sclerotinia bifrons Whetzel, 1940 SPECIES
-=======
+# Ciborinia bifrons (Whetzel) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32: 126 (1940)
+Mycologia 37(6): 668 (1945)
 
 #### Original name
 Sclerotinia bifrons Whetzel, 1940

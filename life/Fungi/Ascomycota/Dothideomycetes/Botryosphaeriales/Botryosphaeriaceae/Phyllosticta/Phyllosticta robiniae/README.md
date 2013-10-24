@@ -1,5 +1,4 @@
-Phyllosticta robiniae Sacc. SPECIES
-=======
+# Phyllosticta robiniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

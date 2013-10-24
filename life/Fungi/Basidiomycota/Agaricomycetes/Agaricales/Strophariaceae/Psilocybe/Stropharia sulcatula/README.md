@@ -1,5 +1,4 @@
-Stropharia sulcatula Gillet SPECIES
-=======
+# Stropharia sulcatula Gillet SPECIES
 
 #### Status
 ACCEPTED

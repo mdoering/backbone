@@ -1,5 +1,4 @@
-Pyrenodesmia rubiginosa Rehm SPECIES
-=======
+# Pyrenodesmia rubiginosa Rehm SPECIES
 
 #### Status
 ACCEPTED

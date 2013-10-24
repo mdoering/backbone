@@ -1,5 +1,4 @@
-Hyphodontia crassa Sang H. Lin & Z.C. Chen SPECIES
-=======
+# Hyphodontia crassa Sang H. Lin & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

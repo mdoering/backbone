@@ -1,5 +1,4 @@
-Cortinarius sylvae-norvegicae Høil. SPECIES
-=======
+# Cortinarius sylvae-norvegicae Høil. SPECIES
 
 #### Status
 ACCEPTED

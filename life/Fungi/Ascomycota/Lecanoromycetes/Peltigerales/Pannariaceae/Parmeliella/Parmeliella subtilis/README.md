@@ -1,5 +1,4 @@
-Parmeliella subtilis P.M. Jørg. & P. James SPECIES
-=======
+# Parmeliella subtilis P.M. Jørg. & P. James SPECIES
 
 #### Status
 ACCEPTED

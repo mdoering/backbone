@@ -1,5 +1,4 @@
-Podocystis lini Fr. SPECIES
-=======
+# Podocystis lini Fr. SPECIES
 
 #### Status
 ACCEPTED

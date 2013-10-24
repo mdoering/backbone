@@ -1,5 +1,4 @@
-Polystictus fockei (Miq.) Cooke SPECIES
-=======
+# Polystictus fockei (Miq.) Cooke SPECIES
 
 #### Status
 ACCEPTED

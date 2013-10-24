@@ -1,5 +1,4 @@
-Delosinidae Parr, 1950 FAMILY
-=======
+# Delosinidae Parr, 1950 FAMILY
 
 #### Status
 ACCEPTED

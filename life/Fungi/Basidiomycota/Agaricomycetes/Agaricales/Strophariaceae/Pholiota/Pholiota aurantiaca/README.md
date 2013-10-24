@@ -1,5 +1,4 @@
-Pholiota aurantiaca Thesleff SPECIES
-=======
+# Pholiota aurantiaca Thesleff SPECIES
 
 #### Status
 ACCEPTED

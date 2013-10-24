@@ -1,8 +1,7 @@
-Streptococcus parvulus (Weinberg et al., 1937) Cato, 1983 SPECIES
-=======
+# Atopobium parvulum (Weinberg et al., 1937) Collins & Wallbanks, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

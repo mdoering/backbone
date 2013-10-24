@@ -1,17 +1,16 @@
-Ductifera milleii Lloyd SPECIES
-=======
+# Ductifera millei Lloyd, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Notes (Cincinnati) 5: (1917)
 
 #### Original name
-Ductifera milleii Lloyd
+Ductifera millei Lloyd, 1917
 
 ### Remarks
 null

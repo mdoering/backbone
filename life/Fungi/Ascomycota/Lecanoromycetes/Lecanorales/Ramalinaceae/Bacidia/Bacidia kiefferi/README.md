@@ -1,5 +1,4 @@
-Bacidia kiefferi H. Olivier SPECIES
-=======
+# Bacidia kiefferi H. Olivier SPECIES
 
 #### Status
 ACCEPTED

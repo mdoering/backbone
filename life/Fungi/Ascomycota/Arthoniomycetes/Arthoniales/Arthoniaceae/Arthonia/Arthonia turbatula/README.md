@@ -1,5 +1,4 @@
-Arthonia turbatula Nyl. SPECIES
-=======
+# Arthonia turbatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus mephistopheles (Cooke) Kuntze SPECIES
-=======
+# Fungus mephistopheles (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

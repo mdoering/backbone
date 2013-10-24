@@ -1,5 +1,4 @@
-Parmelia subfusca SPECIES
-=======
+# Parmelia subfusca SPECIES
 
 #### Status
 ACCEPTED

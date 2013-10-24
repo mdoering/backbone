@@ -1,5 +1,4 @@
-Spirillum anulus SPECIES
-=======
+# Spirillum anulus SPECIES
 
 #### Status
 ACCEPTED

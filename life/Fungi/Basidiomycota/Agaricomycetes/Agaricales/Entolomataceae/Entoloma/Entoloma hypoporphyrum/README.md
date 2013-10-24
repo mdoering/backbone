@@ -1,5 +1,4 @@
-Entoloma hypoporphyrum (Berk. & M.A. Curtis) Hesler SPECIES
-=======
+# Entoloma hypoporphyrum (Berk. & M.A. Curtis) Hesler SPECIES
 
 #### Status
 ACCEPTED

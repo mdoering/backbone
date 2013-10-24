@@ -1,5 +1,4 @@
-Meliola subdentata var. subdentata VARIETY
-=======
+# Meliola subdentata Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Bot. , Paris 11: 347 (1897)
 
 #### Original name
-Meliola subdentata var. subdentata
+Meliola subdentata Pat.
 
 ### Remarks
 null

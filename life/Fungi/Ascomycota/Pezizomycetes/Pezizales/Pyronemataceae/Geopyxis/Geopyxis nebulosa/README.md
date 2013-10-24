@@ -1,5 +1,4 @@
-Geopyxis nebulosa (Cooke) Sacc. SPECIES
-=======
+# Geopyxis nebulosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

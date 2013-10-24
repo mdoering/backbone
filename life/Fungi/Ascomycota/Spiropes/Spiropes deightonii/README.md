@@ -1,5 +1,4 @@
-Spiropes deightonii M.B. Ellis SPECIES
-=======
+# Spiropes deightonii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

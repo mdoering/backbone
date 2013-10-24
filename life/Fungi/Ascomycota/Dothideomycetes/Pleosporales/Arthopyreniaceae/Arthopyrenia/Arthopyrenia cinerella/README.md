@@ -1,5 +1,4 @@
-Arthopyrenia cinerella (Branth & Rostr.) H. Olivier SPECIES
-=======
+# Arthopyrenia cinerella (Branth & Rostr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

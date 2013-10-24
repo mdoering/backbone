@@ -1,5 +1,4 @@
-Porina aschersonii Müll. Arg. SPECIES
-=======
+# Porina aschersonii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

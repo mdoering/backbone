@@ -1,5 +1,4 @@
-Cercospora staphyleae W.W. Ray & J.H. McLaughlin SPECIES
-=======
+# Cercospora staphyleae W.W. Ray & J.H. McLaughlin SPECIES
 
 #### Status
 ACCEPTED

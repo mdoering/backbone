@@ -1,5 +1,4 @@
-Lecania beccarii Jatta SPECIES
-=======
+# Lecania beccarii Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps phymatospora C.R. Li, M.Z. Fan & Z.Z. Li SPECIES
-=======
+# Cordyceps phymatospora C.R. Li, M.Z. Fan & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

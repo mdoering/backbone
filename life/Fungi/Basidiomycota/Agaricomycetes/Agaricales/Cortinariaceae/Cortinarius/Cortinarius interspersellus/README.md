@@ -1,5 +1,4 @@
-Cortinarius interspersellus Britzelm. SPECIES
-=======
+# Cortinarius interspersellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudophloeosporella U. Braun GENUS
-=======
+# Pseudophloeosporella U. Braun GENUS
 
 #### Status
 ACCEPTED

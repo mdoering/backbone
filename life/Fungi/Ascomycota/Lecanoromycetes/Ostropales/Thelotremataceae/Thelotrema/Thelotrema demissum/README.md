@@ -1,5 +1,4 @@
-Thelotrema demissum Flot. SPECIES
-=======
+# Thelotrema demissum Flot. SPECIES
 
 #### Status
 ACCEPTED

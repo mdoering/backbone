@@ -1,5 +1,4 @@
-Rinodina straussii J. Steiner SPECIES
-=======
+# Rinodina straussii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

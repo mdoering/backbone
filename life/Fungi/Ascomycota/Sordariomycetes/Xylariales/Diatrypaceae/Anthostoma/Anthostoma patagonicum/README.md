@@ -1,5 +1,4 @@
-Anthostoma patagonicum Rehm SPECIES
-=======
+# Anthostoma patagonicum Rehm SPECIES
 
 #### Status
 ACCEPTED

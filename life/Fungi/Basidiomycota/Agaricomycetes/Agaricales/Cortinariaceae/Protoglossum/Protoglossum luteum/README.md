@@ -1,17 +1,16 @@
-Hymenogaster effodiendus G. Cunn., 1952 SPECIES
-=======
+# Protoglossum luteum Massee, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 75: 14 (1952)
+Grevillea 19(no. 92): 97 (1891)
 
 #### Original name
-Hymenogaster effodiendus G. Cunn., 1952
+Protoglossum luteum Massee, 1891
 
 ### Remarks
 null

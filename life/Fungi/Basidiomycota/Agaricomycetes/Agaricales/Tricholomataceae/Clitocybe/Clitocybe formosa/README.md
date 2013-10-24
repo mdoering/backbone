@@ -1,5 +1,4 @@
-Clitocybe formosa H.E. Bigelow SPECIES
-=======
+# Clitocybe formosa H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

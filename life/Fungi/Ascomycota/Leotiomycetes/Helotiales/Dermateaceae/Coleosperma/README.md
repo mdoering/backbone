@@ -1,5 +1,4 @@
-Coleosperma Ingold GENUS
-=======
+# Coleosperma Ingold GENUS
 
 #### Status
 ACCEPTED

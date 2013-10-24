@@ -1,8 +1,7 @@
-Staurothele klementi O. Behr SPECIES
-=======
+# Staurothele klementii O. Behr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele klementi O. Behr
+Staurothele klementii O. Behr
 
 ### Remarks
 null

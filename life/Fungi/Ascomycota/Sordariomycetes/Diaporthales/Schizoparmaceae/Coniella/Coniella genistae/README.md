@@ -1,5 +1,4 @@
-Coniella genistae Bat. & Peres SPECIES
-=======
+# Coniella genistae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

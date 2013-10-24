@@ -1,14 +1,13 @@
-Uncinia uncipila (Le Gal) Raitv., 1970 SPECIES
-=======
+# Hamatocanthoscypha uncipila (Le Gal) Huhtinen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 74 (1970)
+Karstenia 29(2): 201 (1990)
 
 #### Original name
 Hyaloscypha uncipila Le Gal, 1955

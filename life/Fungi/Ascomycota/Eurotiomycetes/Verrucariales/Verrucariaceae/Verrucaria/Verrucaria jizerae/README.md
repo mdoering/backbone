@@ -1,5 +1,4 @@
-Verrucaria jizerae (Servít) J. Nowak & Tobol. SPECIES
-=======
+# Verrucaria jizerae (Servít) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria resinosorum Batsch SPECIES
-=======
+# Clavaria resinosorum Batsch SPECIES
 
 #### Status
 ACCEPTED

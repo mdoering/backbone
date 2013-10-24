@@ -1,5 +1,4 @@
-Leptosphaeria musigena T.Y. Lin & J.M. Yen SPECIES
-=======
+# Leptosphaeria musigena T.Y. Lin & J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

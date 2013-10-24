@@ -1,14 +1,13 @@
-Vaginula Risso, 1826 GENUS
-=======
+# Vaginulina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-H. N. Europe, 4, 16.
+Ann. Sci. Nat. , 7 (27), 257.
 
 #### Original name
 null

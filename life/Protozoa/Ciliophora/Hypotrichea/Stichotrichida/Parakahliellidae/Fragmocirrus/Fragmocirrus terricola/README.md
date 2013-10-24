@@ -1,5 +1,4 @@
-Fragmocirrus terricola SPECIES
-=======
+# Fragmocirrus terricola SPECIES
 
 #### Status
 ACCEPTED

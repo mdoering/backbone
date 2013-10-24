@@ -1,5 +1,4 @@
-Sporormia scandinavica I. Egeland SPECIES
-=======
+# Sporormia scandinavica I. Egeland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium ceraceum Berk. & Broome SPECIES
-=======
+# Aecidium ceraceum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wrightoporia cylindrospora Ryvarden, 1982 SPECIES
-=======
+# Wrightoporia cylindrospora Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella rubiginosa A.H. Sm. SPECIES
-=======
+# Psathyrella rubiginosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

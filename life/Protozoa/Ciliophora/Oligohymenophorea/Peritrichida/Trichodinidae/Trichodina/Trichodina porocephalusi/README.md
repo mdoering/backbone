@@ -1,5 +1,4 @@
-Trichodina porocephalusi Asmat, 2001 SPECIES
-=======
+# Trichodina porocephalusi Asmat, 2001 SPECIES
 
 #### Status
 ACCEPTED

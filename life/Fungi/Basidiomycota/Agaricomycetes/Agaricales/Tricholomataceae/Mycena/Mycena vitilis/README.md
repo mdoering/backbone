@@ -1,5 +1,4 @@
-Mycena vitilis (Fr.) Quel. SPECIES
-=======
+# Mycena vitilis (Fr.) Quel. SPECIES
 
 #### Status
 ACCEPTED

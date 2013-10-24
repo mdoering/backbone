@@ -1,5 +1,4 @@
-Uromyces ari-virginici (Schwein.) Howe SPECIES
-=======
+# Uromyces ari-virginici (Schwein.) Howe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia lopezii Hale SPECIES
-=======
+# Ocellularia lopezii Hale SPECIES
 
 #### Status
 ACCEPTED

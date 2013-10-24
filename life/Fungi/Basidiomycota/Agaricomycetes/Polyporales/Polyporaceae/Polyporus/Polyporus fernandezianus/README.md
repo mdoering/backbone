@@ -1,5 +1,4 @@
-Polyporus fernandezianus Mont. SPECIES
-=======
+# Polyporus fernandezianus Mont. SPECIES
 
 #### Status
 ACCEPTED

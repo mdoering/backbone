@@ -1,5 +1,4 @@
-Galerina corcontica Svrcek SPECIES
-=======
+# Galerina corcontica Svrcek SPECIES
 
 #### Status
 ACCEPTED

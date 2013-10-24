@@ -1,5 +1,4 @@
-Quinqueloculina subrotunda SPECIES
-=======
+# Quinqueloculina subrotunda SPECIES
 
 #### Status
 ACCEPTED

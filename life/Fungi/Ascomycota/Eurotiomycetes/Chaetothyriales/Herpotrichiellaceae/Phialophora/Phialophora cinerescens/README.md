@@ -1,17 +1,16 @@
-Cadophora cinerescens (Wollenw.) Harrak, 2009 SPECIES
-=======
+# Phialophora cinerescens (Wollenw.) J.F.H. Beyma, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 6: 38 (1940)
 
 #### Original name
-null
+Verticillium cinerescens Wollenw., 1930
 
 ### Remarks
 null

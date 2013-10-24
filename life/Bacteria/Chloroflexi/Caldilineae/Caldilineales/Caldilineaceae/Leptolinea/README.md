@@ -1,5 +1,4 @@
-Leptolinea Yamada, Sekiguchi, Hanada, Imachi, Ohashi, Harada & Kamagata, 2006 GENUS
-=======
+# Leptolinea Yamada, Sekiguchi, Hanada, Imachi, Ohashi, Harada & Kamagata, 2006 GENUS
 
 #### Status
 ACCEPTED

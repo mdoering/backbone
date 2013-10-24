@@ -1,5 +1,4 @@
-Streptotinia arisaemae Whetzel SPECIES
-=======
+# Streptotinia arisaemae Whetzel SPECIES
 
 #### Status
 ACCEPTED

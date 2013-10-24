@@ -1,5 +1,4 @@
-Parachnopeziza guangxiensis W.Y. Zhuang & Korf, 1998 SPECIES
-=======
+# Parachnopeziza guangxiensis W.Y. Zhuang & Korf, 1998 SPECIES
 
 #### Status
 ACCEPTED

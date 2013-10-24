@@ -1,5 +1,4 @@
-Ochromonadales ORDER
-=======
+# Ochromonadales ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neonectria betulae Brayford & Samuels SPECIES
-=======
+# Neonectria betulae Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

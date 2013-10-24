@@ -1,5 +1,4 @@
-Stictina cinnamomea (A. Rich.) Müll. Arg. SPECIES
-=======
+# Stictina cinnamomea (A. Rich.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

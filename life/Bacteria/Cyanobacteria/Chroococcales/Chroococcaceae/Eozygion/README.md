@@ -1,5 +1,4 @@
-Eozygion Schopf & Blacic GENUS
-=======
+# Eozygion Schopf & Blacic GENUS
 
 #### Status
 ACCEPTED

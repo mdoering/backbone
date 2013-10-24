@@ -1,5 +1,4 @@
-Lepiota decolorans Gramberg SPECIES
-=======
+# Lepiota decolorans Gramberg SPECIES
 
 #### Status
 ACCEPTED

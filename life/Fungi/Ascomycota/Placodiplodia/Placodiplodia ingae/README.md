@@ -1,5 +1,4 @@
-Placodiplodia ingae (Syd. & P. Syd.) Zambett. SPECIES
-=======
+# Placodiplodia ingae (Syd. & P. Syd.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium dianthi Jacz. SPECIES
-=======
+# Oidium dianthi Jacz. SPECIES
 
 #### Status
 ACCEPTED

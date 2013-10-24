@@ -1,17 +1,16 @@
-Haplosporella rhamni Died. SPECIES
-=======
+# Aplosporella rhamni Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 588 (1914)
 
 #### Original name
-Haplosporella rhamni Died.
+Aplosporella rhamni Died.
 
 ### Remarks
 null

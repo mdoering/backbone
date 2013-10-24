@@ -1,5 +1,4 @@
-Acaulospora cavernata Blaszk., 1989 SPECIES
-=======
+# Acaulospora cavernata Blaszk., 1989 SPECIES
 
 #### Status
 ACCEPTED

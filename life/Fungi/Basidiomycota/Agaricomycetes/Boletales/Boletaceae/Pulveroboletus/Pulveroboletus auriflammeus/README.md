@@ -1,5 +1,4 @@
-Pulveroboletus auriflammeus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Pulveroboletus auriflammeus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

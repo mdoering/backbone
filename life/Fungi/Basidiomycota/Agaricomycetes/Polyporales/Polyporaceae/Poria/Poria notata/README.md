@@ -1,5 +1,4 @@
-Poria notata Overh. SPECIES
-=======
+# Poria notata Overh. SPECIES
 
 #### Status
 ACCEPTED

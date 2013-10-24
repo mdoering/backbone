@@ -1,5 +1,4 @@
-Entomophthora trinucleata S. Keller, 1988 SPECIES
-=======
+# Entomophthora trinucleata S. Keller, 1988 SPECIES
 
 #### Status
 ACCEPTED

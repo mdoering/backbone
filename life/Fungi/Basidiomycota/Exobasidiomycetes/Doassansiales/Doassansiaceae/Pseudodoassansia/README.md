@@ -1,5 +1,4 @@
-Pseudodoassansia (Setch.) Vánky GENUS
-=======
+# Pseudodoassansia (Setch.) Vánky GENUS
 
 #### Status
 ACCEPTED

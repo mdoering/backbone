@@ -1,5 +1,4 @@
-Stereum tuba Berk. & Broome SPECIES
-=======
+# Stereum tuba Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Litschaueria corticiorum (Höhn.) Petr., 1923 SPECIES
-=======
+# Helminthosphaeria corticiorum Höhn., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 21(3/4): 275 (1923)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 109 (1907)
 
 #### Original name
 Helminthosphaeria corticiorum Höhn., 1907

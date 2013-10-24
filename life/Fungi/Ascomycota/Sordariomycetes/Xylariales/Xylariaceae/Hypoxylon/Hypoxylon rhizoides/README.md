@@ -1,5 +1,4 @@
-Hypoxylon rhizoides (Wallr.) Rabenh. SPECIES
-=======
+# Hypoxylon rhizoides (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia pluriseptata (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia pluriseptata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

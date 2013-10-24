@@ -1,14 +1,13 @@
-Cercospora victorialis Thüm., 1880 SPECIES
-=======
+# Cladosporium victorialis (Thüm.) U. Braun & H.D. Shin, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Imp. nat. Moscou 55(1): 201 (1880)
+in Braun & Mel'nik, Trudy Botanicheskogo Instituta im. V. L. Komarova 20: 101 (1997)
 
 #### Original name
 Cercospora victorialis Thüm., 1880

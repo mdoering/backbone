@@ -1,5 +1,4 @@
-Synedra camtschatica Grunow, 1862 SPECIES
-=======
+# Synedra camtschatica Grunow, 1862 SPECIES
 
 #### Status
 ACCEPTED

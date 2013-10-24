@@ -1,5 +1,4 @@
-Peziza schumacheri a schumacheri Fr. SPECIES
-=======
+# Peziza schumacheri a schumacheri Fr. SPECIES
 
 #### Status
 ACCEPTED

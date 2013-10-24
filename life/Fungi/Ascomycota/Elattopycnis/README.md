@@ -1,5 +1,4 @@
-Elattopycnis Bat. & Cavalc. GENUS
-=======
+# Elattopycnis Bat. & Cavalc. GENUS
 
 #### Status
 ACCEPTED

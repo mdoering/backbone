@@ -1,5 +1,4 @@
-Thecaphora oxalidis (Ellis & Tracy) M. Lutz, R. Bauer & Piatek, 2008 SPECIES
-=======
+# Thecaphora oxalidis (Ellis & Tracy) M. Lutz, R. Bauer & Piatek, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus submontagnei Heinem. SPECIES
-=======
+# Leucocoprinus submontagnei Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora similis (Berk. & M.A. Curtis) Massee SPECIES
-=======
+# Peniophora similis (Berk. & M.A. Curtis) Massee SPECIES
 
 #### Status
 ACCEPTED

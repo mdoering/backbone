@@ -1,5 +1,4 @@
-Lecanora balearica A. Crespo & Llimona SPECIES
-=======
+# Lecanora balearica A. Crespo & Llimona SPECIES
 
 #### Status
 ACCEPTED

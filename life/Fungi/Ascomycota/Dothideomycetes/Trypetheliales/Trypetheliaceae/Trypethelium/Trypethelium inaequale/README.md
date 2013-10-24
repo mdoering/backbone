@@ -1,5 +1,4 @@
-Trypethelium inaequale Fée SPECIES
-=======
+# Trypethelium inaequale Fée SPECIES
 
 #### Status
 ACCEPTED

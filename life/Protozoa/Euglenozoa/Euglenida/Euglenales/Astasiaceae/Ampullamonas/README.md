@@ -1,5 +1,4 @@
-Ampullamonas Skvortzov GENUS
-=======
+# Ampullamonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthopsis microspora K. Ando & Tubaki, 1985 SPECIES
-=======
+# Anthopsis microspora K. Ando & Tubaki, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pylaiella washingtoniensis C.C. Jao SPECIES
-=======
+# Pylaiella washingtoniensis C.C. Jao SPECIES
 
 #### Status
 ACCEPTED

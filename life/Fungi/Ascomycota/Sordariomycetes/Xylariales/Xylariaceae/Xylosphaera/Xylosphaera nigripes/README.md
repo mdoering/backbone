@@ -1,5 +1,4 @@
-Xylosphaera nigripes var. nigripes VARIETY
-=======
+# Xylosphaera nigripes (Klotzsch) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Kew Bull. 13(1): 105 (1958)
 
 #### Original name
-Xylosphaera nigripes var. nigripes
+Sphaeria nigripes Ellis
 
 ### Remarks
 null

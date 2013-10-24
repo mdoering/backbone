@@ -1,5 +1,4 @@
-Thalassiosira fryxelliae Sunesen & Sar SPECIES
-=======
+# Thalassiosira fryxelliae Sunesen & Sar SPECIES
 
 #### Status
 ACCEPTED

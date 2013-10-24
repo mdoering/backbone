@@ -1,5 +1,4 @@
-Spicaria erotyli Petch SPECIES
-=======
+# Spicaria erotyli Petch SPECIES
 
 #### Status
 ACCEPTED

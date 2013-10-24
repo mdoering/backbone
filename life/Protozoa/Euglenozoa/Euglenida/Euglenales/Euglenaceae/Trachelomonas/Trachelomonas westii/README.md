@@ -1,5 +1,4 @@
-Trachelomonas westii Woloszynska SPECIES
-=======
+# Trachelomonas westii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

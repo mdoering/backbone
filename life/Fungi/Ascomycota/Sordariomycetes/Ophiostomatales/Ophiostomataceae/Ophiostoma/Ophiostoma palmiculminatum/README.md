@@ -1,5 +1,4 @@
-Ophiostoma palmiculminatum Roets, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Ophiostoma palmiculminatum Roets, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

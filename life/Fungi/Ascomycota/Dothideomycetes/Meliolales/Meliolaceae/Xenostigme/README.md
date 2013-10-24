@@ -1,5 +1,4 @@
-Xenostigme Syd. GENUS
-=======
+# Xenostigme Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccocarpia aphthosa Jatta SPECIES
-=======
+# Coccocarpia aphthosa Jatta SPECIES
 
 #### Status
 ACCEPTED

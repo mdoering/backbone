@@ -1,5 +1,4 @@
-Opegrapha dichaenella Nyl. SPECIES
-=======
+# Opegrapha dichaenella Nyl. SPECIES
 
 #### Status
 ACCEPTED

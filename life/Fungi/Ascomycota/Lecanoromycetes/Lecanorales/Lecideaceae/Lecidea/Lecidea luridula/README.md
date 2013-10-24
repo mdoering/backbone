@@ -1,5 +1,4 @@
-Lecidea luridula Nyl. SPECIES
-=======
+# Lecidea luridula Nyl. SPECIES
 
 #### Status
 ACCEPTED

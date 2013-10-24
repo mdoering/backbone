@@ -1,5 +1,4 @@
-Cortinarius subcinnamomeus P. Karst. SPECIES
-=======
+# Cortinarius subcinnamomeus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

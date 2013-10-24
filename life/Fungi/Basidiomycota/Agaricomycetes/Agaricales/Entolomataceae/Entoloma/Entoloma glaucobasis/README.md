@@ -1,5 +1,4 @@
-Entoloma glaucobasis Huijsman ex Noordel. SPECIES
-=======
+# Entoloma glaucobasis Huijsman ex Noordel. SPECIES
 
 #### Status
 ACCEPTED

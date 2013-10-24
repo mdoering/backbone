@@ -1,5 +1,4 @@
-Agaricus holoxanthus Pers. SPECIES
-=======
+# Agaricus holoxanthus Pers. SPECIES
 
 #### Status
 ACCEPTED

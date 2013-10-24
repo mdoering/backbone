@@ -1,5 +1,4 @@
-Corethromyces laboulbenioides Thaxt. SPECIES
-=======
+# Corethromyces laboulbenioides Thaxt. SPECIES
 
 #### Status
 ACCEPTED

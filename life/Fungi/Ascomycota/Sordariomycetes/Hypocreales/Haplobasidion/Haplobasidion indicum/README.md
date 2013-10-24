@@ -1,17 +1,16 @@
-Haplobasidion indica V.G. Rao & D. Rao SPECIES
-=======
+# Haplobasidion indicum V.G. Rao & D. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 39(1): 18 (1970)
 
 #### Original name
-Haplobasidion indica V.G. Rao & D. Rao
+Haplobasidion indicum V.G. Rao & D. Rao
 
 ### Remarks
 null

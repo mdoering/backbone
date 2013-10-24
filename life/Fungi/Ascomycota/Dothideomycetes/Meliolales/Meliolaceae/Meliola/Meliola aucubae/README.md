@@ -1,5 +1,4 @@
-Meliola aucubae Henn. SPECIES
-=======
+# Meliola aucubae Henn. SPECIES
 
 #### Status
 ACCEPTED

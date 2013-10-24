@@ -1,5 +1,4 @@
-Cromyomma GENUS
-=======
+# Cromyomma GENUS
 
 #### Status
 ACCEPTED

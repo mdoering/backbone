@@ -1,5 +1,4 @@
-Meliola pericamphyli W. Yamam. SPECIES
-=======
+# Meliola pericamphyli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

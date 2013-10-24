@@ -1,5 +1,4 @@
-Siphoviridae FAMILY
-=======
+# Siphoviridae FAMILY
 
 #### Status
 ACCEPTED

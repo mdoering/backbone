@@ -1,5 +1,4 @@
-Synechocystis pevalekii Ercegovic SPECIES
-=======
+# Synechocystis pevalekii Ercegovic SPECIES
 
 #### Status
 ACCEPTED

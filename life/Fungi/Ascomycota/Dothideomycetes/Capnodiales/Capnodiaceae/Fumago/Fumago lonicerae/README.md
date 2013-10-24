@@ -1,5 +1,4 @@
-Fumago lonicerae Fuckel SPECIES
-=======
+# Fumago lonicerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

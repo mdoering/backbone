@@ -1,5 +1,4 @@
-Lecanora sublateritia Zahlbr. SPECIES
-=======
+# Lecanora sublateritia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

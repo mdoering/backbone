@@ -1,5 +1,4 @@
-Tyromyces rubricarneus Corner SPECIES
-=======
+# Tyromyces rubricarneus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lugdunum schwagerianum (Brady, 1881) SPECIES
-=======
+# Lugdunum schwagerianum (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora acaciigena Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora acaciigena Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

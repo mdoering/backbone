@@ -1,5 +1,4 @@
-Anthocyrtis Ehrenberg, 1847 GENUS
-=======
+# Anthocyrtis Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

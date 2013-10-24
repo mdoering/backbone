@@ -1,5 +1,4 @@
-Podosphaera astilbicola (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera astilbicola (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

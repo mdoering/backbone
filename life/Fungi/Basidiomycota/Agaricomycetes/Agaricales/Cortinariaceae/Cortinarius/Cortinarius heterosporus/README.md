@@ -1,5 +1,4 @@
-Cortinarius heterosporus Bres. SPECIES
-=======
+# Cortinarius heterosporus Bres. SPECIES
 
 #### Status
 ACCEPTED

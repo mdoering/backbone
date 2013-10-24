@@ -1,5 +1,4 @@
-Pucciniospora chusqueae Speg., 1886 SPECIES
-=======
+# Pucciniospora chusqueae Speg., 1886 SPECIES
 
 #### Status
 ACCEPTED

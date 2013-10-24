@@ -1,5 +1,4 @@
-Sericeomyces amylosporus (Malençon) Heinem. SPECIES
-=======
+# Sericeomyces amylosporus (Malençon) Heinem. SPECIES
 
 #### Status
 ACCEPTED

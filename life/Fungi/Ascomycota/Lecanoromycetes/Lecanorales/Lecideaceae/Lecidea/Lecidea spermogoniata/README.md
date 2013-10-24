@@ -1,5 +1,4 @@
-Lecidea spermogoniata Zahlbr. SPECIES
-=======
+# Lecidea spermogoniata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

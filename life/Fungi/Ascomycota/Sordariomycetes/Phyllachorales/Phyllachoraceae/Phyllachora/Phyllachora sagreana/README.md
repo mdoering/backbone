@@ -1,5 +1,4 @@
-Phyllachora sagreana Petr. & Cif. SPECIES
-=======
+# Phyllachora sagreana Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

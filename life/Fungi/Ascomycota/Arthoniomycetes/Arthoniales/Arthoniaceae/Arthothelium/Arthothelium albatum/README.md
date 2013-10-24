@@ -1,5 +1,4 @@
-Arthothelium albatum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium albatum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

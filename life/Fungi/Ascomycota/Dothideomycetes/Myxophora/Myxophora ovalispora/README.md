@@ -1,5 +1,4 @@
-Myxophora ovalispora Nik. Hoffm. & Hafellner, 2000 SPECIES
-=======
+# Myxophora ovalispora Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
 ACCEPTED

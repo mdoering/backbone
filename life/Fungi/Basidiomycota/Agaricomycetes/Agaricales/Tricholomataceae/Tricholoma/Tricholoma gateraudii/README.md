@@ -1,5 +1,4 @@
-Tricholoma gateraudii (Roum.) Sacc. SPECIES
-=======
+# Tricholoma gateraudii (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

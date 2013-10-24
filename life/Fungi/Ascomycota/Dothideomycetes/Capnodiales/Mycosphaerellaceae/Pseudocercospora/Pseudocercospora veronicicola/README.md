@@ -1,5 +1,4 @@
-Pseudocercospora veronicicola (P. Karst.) W.P. Wu, B. Sutton & Gange SPECIES
-=======
+# Pseudocercospora veronicicola (P. Karst.) W.P. Wu, B. Sutton & Gange SPECIES
 
 #### Status
 ACCEPTED

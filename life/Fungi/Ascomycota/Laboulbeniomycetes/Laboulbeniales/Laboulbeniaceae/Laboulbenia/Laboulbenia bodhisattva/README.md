@@ -1,5 +1,4 @@
-Laboulbenia bodhisattva Balazuc SPECIES
-=======
+# Laboulbenia bodhisattva Balazuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza bulbocrinita (W. Phillips) SPECIES
-=======
+# Peziza bulbocrinita (W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

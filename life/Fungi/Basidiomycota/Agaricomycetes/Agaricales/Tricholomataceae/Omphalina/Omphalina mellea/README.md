@@ -1,5 +1,4 @@
-Omphalina mellea Murrill SPECIES
-=======
+# Omphalina mellea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca tenuipes Murrill SPECIES
-=======
+# Melanoleuca tenuipes Murrill SPECIES
 
 #### Status
 ACCEPTED

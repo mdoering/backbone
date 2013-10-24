@@ -1,5 +1,4 @@
-Singanoa J.A. Lees, 2007 GENUS
-=======
+# Singanoa J.A. Lees, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera canalipes (Murrill) Murrill SPECIES
-=======
+# Galera canalipes (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

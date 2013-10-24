@@ -1,5 +1,4 @@
-Trypethelium nigrorufum Makhija & Patw. SPECIES
-=======
+# Trypethelium nigrorufum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

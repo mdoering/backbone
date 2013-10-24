@@ -1,17 +1,16 @@
-Discothecium vermicularium (Linds.) SPECIES
-=======
+# Polycoccum vermicularium (Linds.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 172 (1985)
 
 #### Original name
-null
+Lecidea vermicularia Linds.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Taphrina githaginis Rostr. SPECIES
-=======
+# Taphrina githaginis Rostr. SPECIES
 
 #### Status
 ACCEPTED

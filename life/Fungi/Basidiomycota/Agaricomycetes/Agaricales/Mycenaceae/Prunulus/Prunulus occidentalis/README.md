@@ -1,5 +1,4 @@
-Prunulus occidentalis Murrill SPECIES
-=======
+# Prunulus occidentalis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anguillospora curvula S.H. Iqbal, 1972 SPECIES
-=======
+# Anguillospora curvula S.H. Iqbal, 1972 SPECIES
 
 #### Status
 ACCEPTED

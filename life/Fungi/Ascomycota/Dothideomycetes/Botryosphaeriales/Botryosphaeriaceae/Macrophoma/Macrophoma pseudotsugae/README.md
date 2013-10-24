@@ -1,5 +1,4 @@
-Macrophoma pseudotsugae anon. SPECIES
-=======
+# Macrophoma pseudotsugae anon. SPECIES
 
 #### Status
 ACCEPTED

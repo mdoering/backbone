@@ -1,5 +1,4 @@
-Gnomonia acicularis (Wallr.) Sacc. SPECIES
-=======
+# Gnomonia acicularis (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

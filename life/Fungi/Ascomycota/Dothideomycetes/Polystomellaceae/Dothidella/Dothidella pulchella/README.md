@@ -1,5 +1,4 @@
-Dothidella pulchella (Syd.) Arx SPECIES
-=======
+# Dothidella pulchella (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

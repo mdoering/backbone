@@ -1,5 +1,4 @@
-Gyalideopsis moodyae Lendemer & Lücking SPECIES
-=======
+# Gyalideopsis moodyae Lendemer & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocarpon macrodidymum Schroers, Halleen & Crous SPECIES
-=======
+# Cylindrocarpon macrodidymum Schroers, Halleen & Crous SPECIES
 
 #### Status
 ACCEPTED

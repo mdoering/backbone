@@ -1,17 +1,16 @@
-Lecidea gothoburgensis f. maculosa H. Magn. FORM
-=======
+# Fuscidea gothoburgensis (H. Magn.) V. Wirth & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 31: 92 (1972)
 
 #### Original name
-null
+Lecidea gothoburgensis H. Magn.
 
 ### Remarks
 null

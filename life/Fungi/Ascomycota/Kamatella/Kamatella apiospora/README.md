@@ -1,5 +1,4 @@
-Kamatella apiospora (Cooke & Massee) Melnik & B. Sutton SPECIES
-=======
+# Kamatella apiospora (Cooke & Massee) Melnik & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

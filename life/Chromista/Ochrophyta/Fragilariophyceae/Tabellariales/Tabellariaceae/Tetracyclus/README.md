@@ -1,5 +1,4 @@
-Tetracyclus Ralfs GENUS
-=======
+# Tetracyclus Ralfs GENUS
 
 #### Status
 ACCEPTED

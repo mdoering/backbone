@@ -1,5 +1,4 @@
-Acetabula debeauxii Roum. SPECIES
-=======
+# Acetabula debeauxii Roum. SPECIES
 
 #### Status
 ACCEPTED

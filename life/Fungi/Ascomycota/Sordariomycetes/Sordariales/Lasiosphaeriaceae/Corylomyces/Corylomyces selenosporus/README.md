@@ -1,17 +1,16 @@
-Corylomyces selenospora Stchigel, M. Calduch & Guarro SPECIES
-=======
+# Corylomyces selenosporus Stchigel, M. Calduch & Guarro, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Stchigel, Cano, Miller, Calduch & Guarro, Mycol. Res. 110(11): 1362 (2006)
 
 #### Original name
-Corylomyces selenospora Stchigel, M. Calduch & Guarro
+Corylomyces selenosporus Stchigel, M. Calduch & Guarro, 2006
 
 ### Remarks
 null

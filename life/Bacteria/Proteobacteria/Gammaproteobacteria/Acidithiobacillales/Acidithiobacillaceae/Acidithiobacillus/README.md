@@ -1,5 +1,4 @@
-Acidithiobacillus Kelly & Wood, 2000 GENUS
-=======
+# Acidithiobacillus Kelly & Wood, 2000 GENUS
 
 #### Status
 ACCEPTED

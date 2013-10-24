@@ -1,5 +1,4 @@
-Pseudosigmoidea K. Ando & N. Nakam. GENUS
-=======
+# Pseudosigmoidea K. Ando & N. Nakam. GENUS
 
 #### Status
 ACCEPTED

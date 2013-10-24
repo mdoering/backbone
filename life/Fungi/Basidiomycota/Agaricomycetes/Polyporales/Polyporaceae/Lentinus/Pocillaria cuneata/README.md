@@ -1,5 +1,4 @@
-Pocillaria cuneata (Mont.) Kuntze SPECIES
-=======
+# Pocillaria cuneata (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

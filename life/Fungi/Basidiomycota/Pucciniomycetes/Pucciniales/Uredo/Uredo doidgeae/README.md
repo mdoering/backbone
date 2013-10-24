@@ -1,5 +1,4 @@
-Uredo doidgeae (Syd. & P. Syd.) A.R. Wood SPECIES
-=======
+# Uredo doidgeae (Syd. & P. Syd.) A.R. Wood SPECIES
 
 #### Status
 ACCEPTED

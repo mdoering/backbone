@@ -1,5 +1,4 @@
-Hysterium medium Cooke SPECIES
-=======
+# Hysterium medium Cooke SPECIES
 
 #### Status
 ACCEPTED

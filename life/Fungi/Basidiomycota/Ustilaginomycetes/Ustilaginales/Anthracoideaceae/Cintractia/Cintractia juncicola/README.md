@@ -1,5 +1,4 @@
-Cintractia juncicola (Speg.) Liro SPECIES
-=======
+# Cintractia juncicola (Speg.) Liro SPECIES
 
 #### Status
 ACCEPTED

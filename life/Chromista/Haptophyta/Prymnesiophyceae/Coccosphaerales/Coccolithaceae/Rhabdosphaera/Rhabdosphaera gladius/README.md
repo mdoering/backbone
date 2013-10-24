@@ -1,5 +1,4 @@
-Rhabdosphaera gladius Locker, 1967 SPECIES
-=======
+# Rhabdosphaera gladius Locker, 1967 SPECIES
 
 #### Status
 ACCEPTED

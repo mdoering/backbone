@@ -1,5 +1,4 @@
-Psathyrella dennyensis Kits van Wav., 1987 SPECIES
-=======
+# Psathyrella dennyensis Kits van Wav., 1987 SPECIES
 
 #### Status
 ACCEPTED

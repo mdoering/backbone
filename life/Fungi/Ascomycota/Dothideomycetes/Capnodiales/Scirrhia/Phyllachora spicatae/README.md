@@ -1,5 +1,4 @@
-Phyllachora spicatae M.S. Patil & A.B. Pawar, 1987 SPECIES
-=======
+# Phyllachora spicatae M.S. Patil & A.B. Pawar, 1987 SPECIES
 
 #### Status
 DOUBTFUL

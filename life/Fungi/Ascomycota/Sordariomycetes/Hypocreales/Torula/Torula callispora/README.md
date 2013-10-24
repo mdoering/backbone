@@ -1,5 +1,4 @@
-Torula callispora Speg. SPECIES
-=======
+# Torula callispora Speg. SPECIES
 
 #### Status
 ACCEPTED

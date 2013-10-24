@@ -1,8 +1,7 @@
-Amallocystis fascialus Fage SPECIES
-=======
+# Amallocystis fasciata Fage SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amallocystis fascialus Fage
+Amallocystis fasciata Fage
 
 ### Remarks
 null

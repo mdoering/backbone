@@ -1,5 +1,4 @@
-Scleroderma cervinum var. cervinum VARIETY
-=======
+# Scleroderma cervinum ß scabrum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Scleroderma cervinum ß scabrum Pers.
 
 ### Remarks
 null

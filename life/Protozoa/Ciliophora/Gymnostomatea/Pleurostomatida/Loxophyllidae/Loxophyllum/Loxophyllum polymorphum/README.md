@@ -1,5 +1,4 @@
-Loxophyllum polymorphum SPECIES
-=======
+# Loxophyllum polymorphum SPECIES
 
 #### Status
 ACCEPTED

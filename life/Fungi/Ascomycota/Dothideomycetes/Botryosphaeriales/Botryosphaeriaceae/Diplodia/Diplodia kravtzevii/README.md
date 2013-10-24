@@ -1,5 +1,4 @@
-Diplodia kravtzevii Schwarzman SPECIES
-=======
+# Diplodia kravtzevii Schwarzman SPECIES
 
 #### Status
 ACCEPTED

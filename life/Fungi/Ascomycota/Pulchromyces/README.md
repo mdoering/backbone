@@ -1,17 +1,16 @@
-Aglaocephalum W. Weston GENUS
-=======
+# Pulchromyces Hennebert GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 7(2): 198 (1973)
 
 #### Original name
-Aglaocephalum W. Weston
+Pulchromyces Hennebert
 
 ### Remarks
 null

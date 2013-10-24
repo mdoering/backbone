@@ -1,5 +1,4 @@
-Entoloma atripes (Dennis) E. Horak SPECIES
-=======
+# Entoloma atripes (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

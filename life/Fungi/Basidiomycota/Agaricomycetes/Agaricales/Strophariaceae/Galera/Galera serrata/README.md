@@ -1,5 +1,4 @@
-Galera serrata Velen. SPECIES
-=======
+# Galera serrata Velen. SPECIES
 
 #### Status
 ACCEPTED

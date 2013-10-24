@@ -1,5 +1,4 @@
-Cryptosporiopsis sanguinea (Fuckel) Petr. SPECIES
-=======
+# Cryptosporiopsis sanguinea (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

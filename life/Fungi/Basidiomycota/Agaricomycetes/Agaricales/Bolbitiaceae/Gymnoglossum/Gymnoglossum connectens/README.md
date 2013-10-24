@@ -1,5 +1,4 @@
-Gymnoglossum connectens (Bucholtz) Zeller SPECIES
-=======
+# Gymnoglossum connectens (Bucholtz) Zeller SPECIES
 
 #### Status
 ACCEPTED

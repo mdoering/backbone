@@ -1,5 +1,4 @@
-Agaricus pseudoscabellus Britzelm. SPECIES
-=======
+# Agaricus pseudoscabellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

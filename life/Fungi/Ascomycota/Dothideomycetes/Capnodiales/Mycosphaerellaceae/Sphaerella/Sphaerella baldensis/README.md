@@ -1,5 +1,4 @@
-Sphaerella baldensis C. Massal. SPECIES
-=======
+# Sphaerella baldensis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

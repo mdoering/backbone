@@ -1,5 +1,4 @@
-Catapyrenium crustosum (H. Magn.) Baibul. SPECIES
-=======
+# Catapyrenium crustosum (H. Magn.) Baibul. SPECIES
 
 #### Status
 ACCEPTED

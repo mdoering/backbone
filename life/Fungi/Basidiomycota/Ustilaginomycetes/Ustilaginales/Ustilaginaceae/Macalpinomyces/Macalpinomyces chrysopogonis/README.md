@@ -1,14 +1,13 @@
-Ustilago chrysopogonis S. Ahmad, 1956 SPECIES
-=======
+# Macalpinomyces chrysopogonis (S. Ahmad) Vánky, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 64: 2 (1956)
+Mycotaxon 62: 129 (1997)
 
 #### Original name
 Ustilago chrysopogonis S. Ahmad, 1956

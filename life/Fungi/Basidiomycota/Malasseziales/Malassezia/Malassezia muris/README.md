@@ -1,5 +1,4 @@
-Malassezia muris (Gluge & d'Ukedem) Escomel SPECIES
-=======
+# Malassezia muris (Gluge & d'Ukedem) Escomel SPECIES
 
 #### Status
 ACCEPTED

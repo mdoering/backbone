@@ -1,5 +1,4 @@
-Trichoderma dorotheae Samuels & Dodd SPECIES
-=======
+# Trichoderma dorotheae Samuels & Dodd SPECIES
 
 #### Status
 ACCEPTED

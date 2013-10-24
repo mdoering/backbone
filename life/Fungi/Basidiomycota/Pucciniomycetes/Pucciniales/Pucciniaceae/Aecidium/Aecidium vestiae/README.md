@@ -1,5 +1,4 @@
-Aecidium vestiae Neger SPECIES
-=======
+# Aecidium vestiae Neger SPECIES
 
 #### Status
 ACCEPTED

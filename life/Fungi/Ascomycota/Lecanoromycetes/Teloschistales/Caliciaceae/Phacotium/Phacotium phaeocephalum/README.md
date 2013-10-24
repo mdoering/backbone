@@ -1,5 +1,4 @@
-Phacotium phaeocephalum (Wallr.) Trevis. SPECIES
-=======
+# Phacotium phaeocephalum (Wallr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

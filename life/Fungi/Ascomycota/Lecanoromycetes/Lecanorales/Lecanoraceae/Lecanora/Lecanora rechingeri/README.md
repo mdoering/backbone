@@ -1,5 +1,4 @@
-Lecanora rechingeri Szatala SPECIES
-=======
+# Lecanora rechingeri Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium lentoputrescens Hartsell and Rettger, 1934 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium lentoputrescens Hartsell and Rettger, 1934 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

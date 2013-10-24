@@ -1,5 +1,4 @@
-Phyllostictina cordylines (Thüm.) Petr. & Syd. SPECIES
-=======
+# Phyllostictina cordylines (Thüm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

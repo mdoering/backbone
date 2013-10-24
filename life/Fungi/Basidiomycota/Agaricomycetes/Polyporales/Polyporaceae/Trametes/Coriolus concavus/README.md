@@ -1,5 +1,4 @@
-Coriolus concavus Murrill SPECIES
-=======
+# Coriolus concavus Murrill SPECIES
 
 #### Status
 ACCEPTED

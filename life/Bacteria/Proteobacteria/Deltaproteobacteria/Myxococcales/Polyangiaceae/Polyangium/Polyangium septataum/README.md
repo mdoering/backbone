@@ -1,5 +1,4 @@
-Polyangium septataum Thaxt. SPECIES
-=======
+# Polyangium septataum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

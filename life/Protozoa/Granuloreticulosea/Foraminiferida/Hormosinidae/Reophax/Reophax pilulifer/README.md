@@ -1,5 +1,4 @@
-Reophax pilulifer Brady, 1884 SPECIES
-=======
+# Reophax pilulifer Brady, 1884 SPECIES
 
 #### Status
 ACCEPTED

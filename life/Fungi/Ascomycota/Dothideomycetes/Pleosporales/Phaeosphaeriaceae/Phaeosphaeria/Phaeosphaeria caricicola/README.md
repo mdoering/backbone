@@ -1,14 +1,13 @@
-Leptosphaeria caricicola Fautrey, 1893 SPECIES
-=======
+# Phaeosphaeria caricicola (Fautrey) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 15: 20 (1893)
+Sydowia 37: 109 (1984)
 
 #### Original name
 Leptosphaeria caricicola Fautrey, 1893

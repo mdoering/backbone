@@ -1,5 +1,4 @@
-Lichen saxorum Oeder SPECIES
-=======
+# Lichen saxorum Oeder SPECIES
 
 #### Status
 ACCEPTED

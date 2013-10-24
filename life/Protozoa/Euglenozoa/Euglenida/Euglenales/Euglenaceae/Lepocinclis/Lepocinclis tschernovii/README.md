@@ -1,5 +1,4 @@
-Lepocinclis tschernovii Popowa SPECIES
-=======
+# Lepocinclis tschernovii Popowa SPECIES
 
 #### Status
 ACCEPTED

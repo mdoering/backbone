@@ -1,5 +1,4 @@
-Hygrophorus sciophanoides Rea SPECIES
-=======
+# Hygrophorus sciophanoides Rea SPECIES
 
 #### Status
 ACCEPTED

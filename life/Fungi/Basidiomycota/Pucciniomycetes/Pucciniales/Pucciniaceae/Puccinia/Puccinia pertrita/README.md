@@ -1,5 +1,4 @@
-Puccinia pertrita H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia pertrita H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

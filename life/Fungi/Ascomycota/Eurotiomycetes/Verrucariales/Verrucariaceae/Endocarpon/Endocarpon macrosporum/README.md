@@ -1,5 +1,4 @@
-Endocarpon macrosporum P. M. McCarthy SPECIES
-=======
+# Endocarpon macrosporum P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

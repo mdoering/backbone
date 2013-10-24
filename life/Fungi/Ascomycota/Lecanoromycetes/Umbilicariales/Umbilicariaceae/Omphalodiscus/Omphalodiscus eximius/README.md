@@ -1,5 +1,4 @@
-Omphalodiscus eximius (Hue) C.W. Dodge SPECIES
-=======
+# Omphalodiscus eximius (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca platyna Zahlbr. SPECIES
-=======
+# Caloplaca platyna Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea triseptulans Nyl. SPECIES
-=======
+# Lecidea triseptulans Nyl. SPECIES
 
 #### Status
 ACCEPTED

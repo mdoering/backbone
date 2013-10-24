@@ -1,5 +1,4 @@
-Protounguicularia transiens (Höhn.) Hutinen SPECIES
-=======
+# Protounguicularia transiens (Höhn.) Hutinen SPECIES
 
 #### Status
 ACCEPTED

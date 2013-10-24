@@ -1,5 +1,4 @@
-Cryptococcus linguae-pilosae (Lucet) Vuill. ex Guég. SPECIES
-=======
+# Cryptococcus linguae-pilosae (Lucet) Vuill. ex Guég. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta elasticae Koord. SPECIES
-=======
+# Phyllosticta elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

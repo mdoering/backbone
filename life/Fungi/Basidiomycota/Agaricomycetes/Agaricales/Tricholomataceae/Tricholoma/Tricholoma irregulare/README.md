@@ -1,5 +1,4 @@
-Tricholoma irregulare P. Karst. SPECIES
-=======
+# Tricholoma irregulare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

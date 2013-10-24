@@ -1,5 +1,4 @@
-Ceratitium guaraniticum Speg. SPECIES
-=======
+# Ceratitium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

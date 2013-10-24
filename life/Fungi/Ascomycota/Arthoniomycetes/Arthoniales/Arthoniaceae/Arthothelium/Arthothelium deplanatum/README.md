@@ -1,5 +1,4 @@
-Arthothelium deplanatum (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Arthothelium deplanatum (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

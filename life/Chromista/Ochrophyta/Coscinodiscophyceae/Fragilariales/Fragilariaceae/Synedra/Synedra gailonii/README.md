@@ -1,5 +1,4 @@
-Synedra gailonii (J.Bory) Ehrenberg SPECIES
-=======
+# Synedra gailonii (J.Bory) Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

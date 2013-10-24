@@ -1,5 +1,4 @@
-Phlebia gilbertsonii Nakasone SPECIES
-=======
+# Phlebia gilbertsonii Nakasone SPECIES
 
 #### Status
 ACCEPTED

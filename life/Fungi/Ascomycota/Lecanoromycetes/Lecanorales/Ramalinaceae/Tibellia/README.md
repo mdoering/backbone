@@ -1,5 +1,4 @@
-Tibellia Vezda & Hafellner GENUS
-=======
+# Tibellia Vezda & Hafellner GENUS
 
 #### Status
 ACCEPTED

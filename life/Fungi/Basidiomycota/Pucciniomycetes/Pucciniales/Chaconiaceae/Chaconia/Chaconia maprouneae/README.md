@@ -1,14 +1,13 @@
-Chaconia maprouniare (Viégas) Y. Ono & J.F. Hennen SPECIES
-=======
+# Chaconia maprouneae (Viégas) Y. Ono & J.F. Hennen, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hennen & Figueiredo, Mycologia 73(2): 353 (1981)
 
 #### Original name
 Coleosporium maprouneae Viégas, 1945

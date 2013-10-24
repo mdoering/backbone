@@ -1,5 +1,4 @@
-Diplodia aconiti Brunaud SPECIES
-=======
+# Diplodia aconiti Brunaud SPECIES
 
 #### Status
 ACCEPTED

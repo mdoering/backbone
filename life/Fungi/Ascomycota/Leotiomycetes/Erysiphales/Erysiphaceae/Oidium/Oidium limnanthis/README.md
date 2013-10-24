@@ -1,5 +1,4 @@
-Oidium limnanthis Noordel. SPECIES
-=======
+# Oidium limnanthis Noordel. SPECIES
 
 #### Status
 ACCEPTED

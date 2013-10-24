@@ -1,5 +1,4 @@
-Sphaenosiphon farlowii (Børgesen) R. Nielsen & K. Gunnarsson SPECIES
-=======
+# Sphaenosiphon farlowii (Børgesen) R. Nielsen & K. Gunnarsson SPECIES
 
 #### Status
 ACCEPTED

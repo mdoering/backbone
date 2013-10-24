@@ -1,5 +1,4 @@
-Saccharomyces albus-liquefaciens anon. ined. SPECIES
-=======
+# Saccharomyces albus-liquefaciens anon. ined. SPECIES
 
 #### Status
 ACCEPTED

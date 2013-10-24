@@ -1,5 +1,4 @@
-Mycocalicium pallescens f. pallescens FORM
-=======
+# Mycocalicium pallescens (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycocalicium pallescens f. pallescens
+Calicium pallescens Nyl.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Kneiffiella verruculosa (J. Erikss. & Hjortstam) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia rimosissima (Peck) Gilb., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 133 (1980)
+Mycologia 54(6): 667 (1963)
 
 #### Original name
-Hyphodontia verruculosa J. Erikss. & Hjortstam, 1976
+Odontia rimosissima Peck, 1898
 
 ### Remarks
 null

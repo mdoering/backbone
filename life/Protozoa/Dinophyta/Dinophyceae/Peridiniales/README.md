@@ -1,5 +1,4 @@
-Peridiniales Haeckel, 1894 ORDER
-=======
+# Peridiniales Haeckel, 1894 ORDER
 
 #### Status
 ACCEPTED

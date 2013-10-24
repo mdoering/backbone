@@ -1,5 +1,4 @@
-Phyllosticta aesculi Ellis & G. Martin SPECIES
-=======
+# Phyllosticta aesculi Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

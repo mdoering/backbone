@@ -1,5 +1,4 @@
-Glaucomidae Corliss, 1971 FAMILY
-=======
+# Glaucomidae Corliss, 1971 FAMILY
 
 #### Status
 ACCEPTED

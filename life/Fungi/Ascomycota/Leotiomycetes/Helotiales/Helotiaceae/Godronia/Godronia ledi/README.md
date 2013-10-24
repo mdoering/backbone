@@ -1,14 +1,13 @@
-Crumenula ledi (Alb. & Schwein.) P. Karst., 1871 SPECIES
-=======
+# Godronia ledi (Alb. & Schwein.) P. Karst., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 214 (1871)
+Acta Soc. Fauna Flora fenn. 144 (1885)
 
 #### Original name
 null

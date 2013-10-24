@@ -1,5 +1,4 @@
-Ascochyta ballotina I.E. Brezhnev SPECIES
-=======
+# Ascochyta ballotina I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

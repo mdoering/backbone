@@ -1,5 +1,4 @@
-Chiodecton sterile Müll. Arg. SPECIES
-=======
+# Chiodecton sterile Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

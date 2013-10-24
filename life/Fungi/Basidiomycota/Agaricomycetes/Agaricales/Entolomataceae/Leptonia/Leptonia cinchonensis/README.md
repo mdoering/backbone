@@ -1,5 +1,4 @@
-Leptonia cinchonensis Murrill SPECIES
-=======
+# Leptonia cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

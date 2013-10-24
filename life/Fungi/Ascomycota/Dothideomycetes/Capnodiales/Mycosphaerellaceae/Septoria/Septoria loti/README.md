@@ -1,5 +1,4 @@
-Septoria loti Rtischcz. SPECIES
-=======
+# Septoria loti Rtischcz. SPECIES
 
 #### Status
 ACCEPTED

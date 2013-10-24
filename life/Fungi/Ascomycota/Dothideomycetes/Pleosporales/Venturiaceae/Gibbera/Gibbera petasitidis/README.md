@@ -1,5 +1,4 @@
-Gibbera petasitidis (Fuckel) E. Müll. SPECIES
-=======
+# Gibbera petasitidis (Fuckel) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria connata Fr. SPECIES
-=======
+# Sphaeria connata Fr. SPECIES
 
 #### Status
 ACCEPTED

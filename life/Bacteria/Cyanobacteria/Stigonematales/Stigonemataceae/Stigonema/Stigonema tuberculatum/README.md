@@ -1,5 +1,4 @@
-Stigonema tuberculatum Gardner SPECIES
-=======
+# Stigonema tuberculatum Gardner SPECIES
 
 #### Status
 ACCEPTED

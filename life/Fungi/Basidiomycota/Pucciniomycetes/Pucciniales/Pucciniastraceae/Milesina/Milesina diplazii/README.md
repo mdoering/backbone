@@ -1,5 +1,4 @@
-Milesina diplazii Hirats. SPECIES
-=======
+# Milesina diplazii Hirats. SPECIES
 
 #### Status
 ACCEPTED

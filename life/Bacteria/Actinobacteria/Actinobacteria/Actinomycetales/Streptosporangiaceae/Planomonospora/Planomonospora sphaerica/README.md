@@ -1,5 +1,4 @@
-Planomonospora sphaerica Mertz, 1994 SPECIES
-=======
+# Planomonospora sphaerica Mertz, 1994 SPECIES
 
 #### Status
 ACCEPTED

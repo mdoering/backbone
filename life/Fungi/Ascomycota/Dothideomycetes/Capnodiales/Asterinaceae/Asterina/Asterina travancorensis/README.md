@@ -1,5 +1,4 @@
-Asterina travancorensis Syd. & P. Syd. SPECIES
-=======
+# Asterina travancorensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

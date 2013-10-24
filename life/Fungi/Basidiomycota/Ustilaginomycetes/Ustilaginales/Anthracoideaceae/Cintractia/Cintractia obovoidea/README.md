@@ -1,5 +1,4 @@
-Cintractia obovoidea Togashi & Y. Maki SPECIES
-=======
+# Cintractia obovoidea Togashi & Y. Maki SPECIES
 
 #### Status
 ACCEPTED

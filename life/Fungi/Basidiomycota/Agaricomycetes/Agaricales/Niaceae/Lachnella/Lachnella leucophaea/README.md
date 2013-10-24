@@ -1,5 +1,4 @@
-Lachnella leucophaea (Pers.) Boud. SPECIES
-=======
+# Lachnella leucophaea (Pers.) Boud. SPECIES
 
 #### Status
 ACCEPTED

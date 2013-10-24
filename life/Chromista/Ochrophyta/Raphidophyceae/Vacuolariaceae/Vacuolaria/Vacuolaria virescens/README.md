@@ -1,5 +1,4 @@
-Vacuolaria virescens Cienkowski SPECIES
-=======
+# Vacuolaria virescens Cienkowski SPECIES
 
 #### Status
 ACCEPTED

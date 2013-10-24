@@ -1,5 +1,4 @@
-Leptosphaeria hyparrheniae Hansf. SPECIES
-=======
+# Leptosphaeria hyparrheniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phragmidium sanguisorbae var. sanguisorbae VARIETY
-=======
+# Phragmidium sanguisorbae (DC.) J. Schröt., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 352 (1887)
 
 #### Original name
-Phragmidium sanguisorbae var. sanguisorbae
+Puccinia sanguisorbae DC., 1815
 
 ### Remarks
 null

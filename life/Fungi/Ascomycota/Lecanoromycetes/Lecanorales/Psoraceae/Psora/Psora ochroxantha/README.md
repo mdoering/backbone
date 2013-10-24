@@ -1,5 +1,4 @@
-Psora ochroxantha f. ochroxantha FORM
-=======
+# Psora ochroxantha SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psora ochroxantha f. ochroxantha
+Psora ochroxantha
 
 ### Remarks
 null

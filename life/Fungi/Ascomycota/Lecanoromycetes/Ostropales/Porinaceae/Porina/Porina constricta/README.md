@@ -1,5 +1,4 @@
-Porina constricta (Anzi) Lettau SPECIES
-=======
+# Porina constricta (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

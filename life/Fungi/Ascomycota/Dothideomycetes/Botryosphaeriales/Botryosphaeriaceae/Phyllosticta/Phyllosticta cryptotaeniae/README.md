@@ -1,5 +1,4 @@
-Phyllosticta cryptotaeniae Sawada SPECIES
-=======
+# Phyllosticta cryptotaeniae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Tritirachium epigaeum (Brunaud) Langeron, 1947 SPECIES
-=======
+# Beauveria epigaea (Brunaud) Langeron, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Parasit. hum. comp. 22: 98 (1947)
+Précis Parasitol. hum. 1839 (1936)
 
 #### Original name
 Sporotrichum epigaeum Brunaud, 1888

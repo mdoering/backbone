@@ -1,5 +1,4 @@
-Puccinia adspersa Dietel & Holw. SPECIES
-=======
+# Puccinia adspersa Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

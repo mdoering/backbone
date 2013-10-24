@@ -1,5 +1,4 @@
-Bloxamia sanctae-insulae Coppins & Minter SPECIES
-=======
+# Bloxamia sanctae-insulae Coppins & Minter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora anogeissi U. Braun & Kamal SPECIES
-=======
+# Pseudocercospora anogeissi U. Braun & Kamal SPECIES
 
 #### Status
 ACCEPTED

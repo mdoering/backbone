@@ -1,5 +1,4 @@
-Hypocrea nebulosa Massee, 1898 SPECIES
-=======
+# Hypocrea nebulosa Massee, 1898 SPECIES
 
 #### Status
 ACCEPTED

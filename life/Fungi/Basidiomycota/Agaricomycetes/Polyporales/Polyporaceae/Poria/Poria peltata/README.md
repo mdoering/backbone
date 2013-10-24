@@ -1,5 +1,4 @@
-Poria peltata Scop. SPECIES
-=======
+# Poria peltata Scop. SPECIES
 
 #### Status
 ACCEPTED

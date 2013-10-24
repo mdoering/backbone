@@ -1,17 +1,16 @@
-Polyporus earlei Underw., 1897 SPECIES
-=======
+# Boletopsis grisea (Peck) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 24: 84 (1897)
+Annls mycol. 39(1): 47 (1941)
 
 #### Original name
-Polyporus earlei Underw., 1897
+Polyporus griseus Bres., 1912
 
 ### Remarks
 null

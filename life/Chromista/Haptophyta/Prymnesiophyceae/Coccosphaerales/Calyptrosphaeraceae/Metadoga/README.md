@@ -1,5 +1,4 @@
-Metadoga F.H.Wind & P.Cepek, 1979 GENUS
-=======
+# Metadoga F.H.Wind & P.Cepek, 1979 GENUS
 
 #### Status
 ACCEPTED

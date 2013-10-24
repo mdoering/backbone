@@ -1,5 +1,4 @@
-Nephroma foliolatum P. James & F. J. White SPECIES
-=======
+# Nephroma foliolatum P. James & F. J. White SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia pseudorangiformis Asahina SPECIES
-=======
+# Cladonia pseudorangiformis Asahina SPECIES
 
 #### Status
 ACCEPTED

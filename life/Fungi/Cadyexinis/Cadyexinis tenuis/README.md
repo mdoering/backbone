@@ -1,17 +1,16 @@
-Cadyexinis tenius Stach SPECIES
-=======
+# Cadyexinis tenuis Stach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontographica, Abt. B 102(4-6): 86 + pl. 20, figs 61-63 (1957)
 
 #### Original name
-Cadyexinis tenius Stach
+Cadyexinis tenuis Stach
 
 ### Remarks
 null

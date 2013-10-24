@@ -1,5 +1,4 @@
-Evittia florigera Vavrdová, 1977 SPECIES
-=======
+# Evittia florigera Vavrdová, 1977 SPECIES
 
 #### Status
 ACCEPTED

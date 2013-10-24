@@ -1,5 +1,4 @@
-Arthonia farinulenta Müll. Arg. SPECIES
-=======
+# Arthonia farinulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

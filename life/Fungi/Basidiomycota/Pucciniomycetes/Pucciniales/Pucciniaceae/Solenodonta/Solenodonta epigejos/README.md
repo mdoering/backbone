@@ -1,5 +1,4 @@
-Solenodonta epigejos (S. Ito) Syd. SPECIES
-=======
+# Solenodonta epigejos (S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

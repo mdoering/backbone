@@ -1,5 +1,4 @@
-Pluricellaesporites simplicissimus Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites simplicissimus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

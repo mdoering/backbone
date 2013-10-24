@@ -1,5 +1,4 @@
-Gossleriella Schütt GENUS
-=======
+# Gossleriella Schütt GENUS
 
 #### Status
 ACCEPTED

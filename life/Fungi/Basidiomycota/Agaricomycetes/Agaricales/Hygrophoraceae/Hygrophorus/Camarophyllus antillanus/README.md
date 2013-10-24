@@ -1,5 +1,4 @@
-Camarophyllus antillanus Pegler SPECIES
-=======
+# Camarophyllus antillanus Pegler SPECIES
 
 #### Status
 ACCEPTED

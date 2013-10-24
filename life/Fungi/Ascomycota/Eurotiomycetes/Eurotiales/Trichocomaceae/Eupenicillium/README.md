@@ -1,5 +1,4 @@
-Eupenicillium F. Ludw. GENUS
-=======
+# Eupenicillium F. Ludw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zygosaccharomyces eupagyeus SPECIES
-=======
+# Zygosaccharomyces eupagyeus SPECIES
 
 #### Status
 ACCEPTED

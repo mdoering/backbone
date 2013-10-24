@@ -1,5 +1,4 @@
-Spirochaeta vivax SPECIES
-=======
+# Spirochaeta vivax SPECIES
 
 #### Status
 ACCEPTED

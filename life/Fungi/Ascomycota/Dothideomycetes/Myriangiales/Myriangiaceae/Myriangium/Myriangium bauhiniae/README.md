@@ -1,5 +1,4 @@
-Myriangium bauhiniae A. Pande, 2008 SPECIES
-=======
+# Myriangium bauhiniae A. Pande, 2008 SPECIES
 
 #### Status
 ACCEPTED

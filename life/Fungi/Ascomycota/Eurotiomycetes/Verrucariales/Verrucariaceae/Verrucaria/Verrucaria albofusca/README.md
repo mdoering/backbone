@@ -1,5 +1,4 @@
-Verrucaria albofusca Servít SPECIES
-=======
+# Verrucaria albofusca Servít SPECIES
 
 #### Status
 ACCEPTED

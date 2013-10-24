@@ -1,5 +1,4 @@
-Phlebiella palmicola Hjortstam & Ryvarden SPECIES
-=======
+# Phlebiella palmicola Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

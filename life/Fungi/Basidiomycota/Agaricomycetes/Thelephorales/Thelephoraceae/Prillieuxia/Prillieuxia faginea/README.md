@@ -1,5 +1,4 @@
-Prillieuxia faginea (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Prillieuxia faginea (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

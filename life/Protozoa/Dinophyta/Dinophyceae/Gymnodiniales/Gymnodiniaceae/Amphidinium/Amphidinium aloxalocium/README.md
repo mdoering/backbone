@@ -1,5 +1,4 @@
-Amphidinium aloxalocium Norris SPECIES
-=======
+# Amphidinium aloxalocium Norris SPECIES
 
 #### Status
 ACCEPTED

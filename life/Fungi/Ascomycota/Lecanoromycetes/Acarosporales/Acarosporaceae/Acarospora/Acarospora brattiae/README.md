@@ -1,5 +1,4 @@
-Acarospora brattiae K. Knudsen SPECIES
-=======
+# Acarospora brattiae K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

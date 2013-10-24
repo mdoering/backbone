@@ -1,5 +1,4 @@
-Clypeolella toddaliae Hansf. SPECIES
-=======
+# Clypeolella toddaliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

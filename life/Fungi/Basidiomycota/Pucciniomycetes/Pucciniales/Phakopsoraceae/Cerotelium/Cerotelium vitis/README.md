@@ -1,5 +1,4 @@
-Cerotelium vitis (E.J. Butler) Arthur SPECIES
-=======
+# Cerotelium vitis (E.J. Butler) Arthur SPECIES
 
 #### Status
 ACCEPTED

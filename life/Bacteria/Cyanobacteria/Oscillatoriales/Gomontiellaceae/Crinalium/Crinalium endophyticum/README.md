@@ -1,5 +1,4 @@
-Crinalium endophyticum Crow SPECIES
-=======
+# Crinalium endophyticum Crow SPECIES
 
 #### Status
 ACCEPTED

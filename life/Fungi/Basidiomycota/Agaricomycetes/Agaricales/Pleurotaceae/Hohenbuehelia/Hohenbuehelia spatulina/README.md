@@ -1,5 +1,4 @@
-Hohenbuehelia spatulina Huijsman SPECIES
-=======
+# Hohenbuehelia spatulina Huijsman SPECIES
 
 #### Status
 ACCEPTED

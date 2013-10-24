@@ -1,17 +1,16 @@
-Diplodia palmicola var. sabaleos Sacc. VARIETY
-=======
+# Diplodia palmicola Thüm., 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Myc. Lusitan. 12: 10 (1903)
+Fungi austr. no. 59 (1830)
 
 #### Original name
-Diplodia palmicola var. sabaleos Sacc.
+Diplodia palmicola Thüm., 1830
 
 ### Remarks
 null

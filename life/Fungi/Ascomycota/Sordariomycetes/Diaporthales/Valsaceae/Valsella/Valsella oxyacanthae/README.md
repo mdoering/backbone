@@ -1,5 +1,4 @@
-Valsella oxyacanthae Jaap SPECIES
-=======
+# Valsella oxyacanthae Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorocloster Pascher, 1925 GENUS
-=======
+# Chlorocloster Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

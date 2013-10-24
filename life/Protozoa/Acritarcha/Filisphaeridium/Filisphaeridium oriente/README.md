@@ -1,5 +1,4 @@
-Filisphaeridium oriente (Colbath, 1979) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium oriente (Colbath, 1979) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

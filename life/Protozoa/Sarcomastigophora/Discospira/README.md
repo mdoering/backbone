@@ -1,5 +1,4 @@
-Discospira Haeckel, 1862 GENUS
-=======
+# Discospira Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

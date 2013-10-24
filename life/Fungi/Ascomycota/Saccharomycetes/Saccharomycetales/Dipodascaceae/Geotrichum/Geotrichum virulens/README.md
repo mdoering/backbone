@@ -1,5 +1,4 @@
-Geotrichum virulens Almeida {?} & Silva Lacaz SPECIES
-=======
+# Geotrichum virulens Almeida {?} & Silva Lacaz SPECIES
 
 #### Status
 ACCEPTED

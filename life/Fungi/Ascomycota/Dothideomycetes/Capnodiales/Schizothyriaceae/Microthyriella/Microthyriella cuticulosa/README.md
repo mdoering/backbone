@@ -1,5 +1,4 @@
-Microthyriella cuticulosa (Cooke) Höhn. SPECIES
-=======
+# Microthyriella cuticulosa (Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea xylophila Th. Fr. SPECIES
-=======
+# Lecidea xylophila Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

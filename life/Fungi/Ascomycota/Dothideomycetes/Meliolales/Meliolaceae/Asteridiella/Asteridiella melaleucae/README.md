@@ -1,5 +1,4 @@
-Asteridiella melaleucae B. Huguenin SPECIES
-=======
+# Asteridiella melaleucae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

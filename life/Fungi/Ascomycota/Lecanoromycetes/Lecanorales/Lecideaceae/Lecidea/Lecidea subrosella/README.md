@@ -1,5 +1,4 @@
-Lecidea subrosella Nyl. SPECIES
-=======
+# Lecidea subrosella Nyl. SPECIES
 
 #### Status
 ACCEPTED

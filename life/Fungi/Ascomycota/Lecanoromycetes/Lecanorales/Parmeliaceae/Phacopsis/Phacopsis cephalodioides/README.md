@@ -1,5 +1,4 @@
-Phacopsis cephalodioides (Nyl.) Triebel & Rambold SPECIES
-=======
+# Phacopsis cephalodioides (Nyl.) Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

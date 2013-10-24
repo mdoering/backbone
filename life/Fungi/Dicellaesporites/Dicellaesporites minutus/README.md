@@ -1,5 +1,4 @@
-Dicellaesporites minutus R.K. Kar & R.K. Saxena SPECIES
-=======
+# Dicellaesporites minutus R.K. Kar & R.K. Saxena SPECIES
 
 #### Status
 ACCEPTED

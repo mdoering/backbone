@@ -1,5 +1,4 @@
-Trypethelium ferrugineum Müll. Arg. SPECIES
-=======
+# Trypethelium ferrugineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

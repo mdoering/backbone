@@ -1,5 +1,4 @@
-Cyathus triplex Lloyd SPECIES
-=======
+# Cyathus triplex Lloyd SPECIES
 
 #### Status
 ACCEPTED

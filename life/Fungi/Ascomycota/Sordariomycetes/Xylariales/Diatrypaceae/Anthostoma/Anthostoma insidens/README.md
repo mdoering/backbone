@@ -1,5 +1,4 @@
-Anthostoma insidens (Schwein.) Berl. & Voglino SPECIES
-=======
+# Anthostoma insidens (Schwein.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

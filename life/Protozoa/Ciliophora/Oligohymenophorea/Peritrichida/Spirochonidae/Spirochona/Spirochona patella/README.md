@@ -1,5 +1,4 @@
-Spirochona patella Swarczewsky, 1928 SPECIES
-=======
+# Spirochona patella Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella africana S. Hughes, 1952 SPECIES
-=======
+# Deightoniella africana S. Hughes, 1952 SPECIES
 
 #### Status
 ACCEPTED

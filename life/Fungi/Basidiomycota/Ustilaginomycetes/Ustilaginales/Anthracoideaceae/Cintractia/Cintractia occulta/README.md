@@ -1,5 +1,4 @@
-Cintractia occulta Mol.-Val. SPECIES
-=======
+# Cintractia occulta Mol.-Val. SPECIES
 
 #### Status
 ACCEPTED

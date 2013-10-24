@@ -1,5 +1,4 @@
-Didymosphaeria atomaria Körb. SPECIES
-=======
+# Didymosphaeria atomaria Körb. SPECIES
 
 #### Status
 ACCEPTED

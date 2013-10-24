@@ -1,14 +1,13 @@
-Roumegueria ichnanthi Henn., 1908 SPECIES
-=======
+# Phragmocarpella ichnanthi (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 47: 256 (1908)
+Annls mycol. 13(5/6): 601 (1915)
 
 #### Original name
 Roumegueria ichnanthi Henn., 1908

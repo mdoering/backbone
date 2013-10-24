@@ -1,5 +1,4 @@
-Schmitzomia pupula Fr. SPECIES
-=======
+# Schmitzomia pupula Fr. SPECIES
 
 #### Status
 ACCEPTED

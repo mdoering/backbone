@@ -1,5 +1,4 @@
-Puccinia cipurae Syd. {?} SPECIES
-=======
+# Puccinia cipurae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

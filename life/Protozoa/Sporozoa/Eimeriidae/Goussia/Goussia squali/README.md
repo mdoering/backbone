@@ -1,5 +1,4 @@
-Goussia squali (Fitzgerald, 1975) SPECIES
-=======
+# Goussia squali (Fitzgerald, 1975) SPECIES
 
 #### Status
 ACCEPTED

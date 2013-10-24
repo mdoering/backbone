@@ -1,5 +1,4 @@
-Cladosporium polysporum Link SPECIES
-=======
+# Cladosporium polysporum Link SPECIES
 
 #### Status
 ACCEPTED

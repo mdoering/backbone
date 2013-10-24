@@ -1,5 +1,4 @@
-Xylosphaeria ceanothi (Dearn. & House) Petr. SPECIES
-=======
+# Xylosphaeria ceanothi (Dearn. & House) Petr. SPECIES
 
 #### Status
 ACCEPTED

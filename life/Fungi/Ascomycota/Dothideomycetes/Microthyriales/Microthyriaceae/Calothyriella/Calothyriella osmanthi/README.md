@@ -1,5 +1,4 @@
-Calothyriella osmanthi F. Stevens & R.W. Ryan SPECIES
-=======
+# Calothyriella osmanthi F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

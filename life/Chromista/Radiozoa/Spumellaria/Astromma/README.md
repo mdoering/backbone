@@ -1,5 +1,4 @@
-Astromma Ehrenberg, 1847 GENUS
-=======
+# Astromma Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

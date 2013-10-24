@@ -1,5 +1,4 @@
-Tilletia cathcartae Durán & G.W. Fisch., 1961 SPECIES
-=======
+# Tilletia cathcartae Durán & G.W. Fisch., 1961 SPECIES
 
 #### Status
 ACCEPTED

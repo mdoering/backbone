@@ -1,5 +1,4 @@
-Ramalina praetermissa Abbayes SPECIES
-=======
+# Ramalina praetermissa Abbayes SPECIES
 
 #### Status
 ACCEPTED

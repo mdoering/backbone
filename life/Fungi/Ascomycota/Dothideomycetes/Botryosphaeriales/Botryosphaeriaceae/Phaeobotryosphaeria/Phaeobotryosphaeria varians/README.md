@@ -1,5 +1,4 @@
-Phaeobotryosphaeria varians Luc SPECIES
-=======
+# Phaeobotryosphaeria varians Luc SPECIES
 
 #### Status
 ACCEPTED

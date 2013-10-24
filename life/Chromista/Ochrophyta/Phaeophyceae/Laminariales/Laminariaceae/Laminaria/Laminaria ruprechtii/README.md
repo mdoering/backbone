@@ -1,5 +1,4 @@
-Laminaria ruprechtii (Areschoug) Setchell SPECIES
-=======
+# Laminaria ruprechtii (Areschoug) Setchell SPECIES
 
 #### Status
 ACCEPTED

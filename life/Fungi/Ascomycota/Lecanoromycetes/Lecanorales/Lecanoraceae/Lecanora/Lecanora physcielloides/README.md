@@ -1,5 +1,4 @@
-Lecanora physcielloides Fryday SPECIES
-=======
+# Lecanora physcielloides Fryday SPECIES
 
 #### Status
 ACCEPTED

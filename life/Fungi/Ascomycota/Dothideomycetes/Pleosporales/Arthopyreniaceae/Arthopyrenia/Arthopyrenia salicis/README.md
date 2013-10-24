@@ -1,5 +1,4 @@
-Arthopyrenia salicis A. Massal. SPECIES
-=======
+# Arthopyrenia salicis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

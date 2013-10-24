@@ -1,5 +1,4 @@
-Trichodelitschia microspora Ebersohn & Eicker SPECIES
-=======
+# Trichodelitschia microspora Ebersohn & Eicker SPECIES
 
 #### Status
 ACCEPTED

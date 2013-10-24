@@ -1,5 +1,4 @@
-Parmotrema fractum (Hale) Hale SPECIES
-=======
+# Parmotrema fractum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

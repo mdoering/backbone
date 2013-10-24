@@ -1,17 +1,16 @@
-Cercospora osirisae El-Gholl, Proffer & T.S. Schub. SPECIES
-=======
+# Cercospora osiridis El-Gholl, Proffer & T.S. Schub. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 43: 266 (1992)
 
 #### Original name
-Cercospora osirisae El-Gholl, Proffer & T.S. Schub.
+Cercospora osiridis El-Gholl, Proffer & T.S. Schub.
 
 ### Remarks
 null

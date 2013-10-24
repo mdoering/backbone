@@ -1,5 +1,4 @@
-Polyblastia tiroliensis (Arnold) Lettau SPECIES
-=======
+# Polyblastia tiroliensis (Arnold) Lettau SPECIES
 
 #### Status
 ACCEPTED

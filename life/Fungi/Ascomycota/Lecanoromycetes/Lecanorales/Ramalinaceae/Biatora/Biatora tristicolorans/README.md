@@ -1,5 +1,4 @@
-Biatora tristicolorans (Vain.) Dombr. SPECIES
-=======
+# Biatora tristicolorans (Vain.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

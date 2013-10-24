@@ -1,5 +1,4 @@
-Xanthoparmelia alectoronica Hale SPECIES
-=======
+# Xanthoparmelia alectoronica Hale SPECIES
 
 #### Status
 ACCEPTED

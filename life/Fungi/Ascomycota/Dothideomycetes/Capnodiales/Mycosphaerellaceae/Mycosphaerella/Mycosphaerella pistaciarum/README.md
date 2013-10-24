@@ -1,17 +1,16 @@
-Septoria pistaciarum Caracc., 1934 SPECIES
-=======
+# Mycosphaerella pistaciarum Chitzan., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annals Inst. Phytopath. Benaki 10: 42 (1956)
 
 #### Original name
-Septoria pistaciarum Caracc., 1934
+Mycosphaerella pistaciarum Chitzan., 1956
 
 ### Remarks
 null

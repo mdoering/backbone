@@ -1,5 +1,4 @@
-Russula sublaevis (Buyck) Buyck SPECIES
-=======
+# Russula sublaevis (Buyck) Buyck SPECIES
 
 #### Status
 ACCEPTED

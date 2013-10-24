@@ -1,17 +1,16 @@
-Polystictus parmula var. parmula VARIETY
-=======
+# Amauroderma exile (Berk.) Torrend, 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria, sér. bot. 18: 142 (1920)
 
 #### Original name
-Polystictus parmula var. parmula
+Polyporus exilis Berk., 1856
 
 ### Remarks
 null

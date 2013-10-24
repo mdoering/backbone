@@ -1,5 +1,4 @@
-Xylosphaera comosa (Mont.) Dennis SPECIES
-=======
+# Xylosphaera comosa (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

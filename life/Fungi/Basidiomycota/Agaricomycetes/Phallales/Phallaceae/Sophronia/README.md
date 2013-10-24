@@ -1,5 +1,4 @@
-Sophronia GENUS
-=======
+# Sophronia GENUS
 
 #### Status
 ACCEPTED

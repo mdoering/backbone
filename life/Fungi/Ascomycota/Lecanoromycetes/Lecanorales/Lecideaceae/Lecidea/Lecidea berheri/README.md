@@ -1,5 +1,4 @@
-Lecidea berheri Harm. SPECIES
-=======
+# Lecidea berheri Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia cranfieldii Elix SPECIES
-=======
+# Xanthoparmelia cranfieldii Elix SPECIES
 
 #### Status
 ACCEPTED

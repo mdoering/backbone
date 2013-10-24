@@ -1,5 +1,4 @@
-Bombyliospora coccodes (Bél.) A. Massal. SPECIES
-=======
+# Bombyliospora coccodes (Bél.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

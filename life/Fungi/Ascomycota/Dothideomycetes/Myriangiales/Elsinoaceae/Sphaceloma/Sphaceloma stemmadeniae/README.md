@@ -1,5 +1,4 @@
-Sphaceloma stemmadeniae A.M.J. Watson & Jenkins SPECIES
-=======
+# Sphaceloma stemmadeniae A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

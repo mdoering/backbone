@@ -1,5 +1,4 @@
-Didymosphaeria astragalina Petr., 1944 SPECIES
-=======
+# Didymosphaeria astragalina Petr., 1944 SPECIES
 
 #### Status
 ACCEPTED

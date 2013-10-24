@@ -1,5 +1,4 @@
-Phomopsis mahoniae Grove SPECIES
-=======
+# Phomopsis mahoniae Grove SPECIES
 
 #### Status
 ACCEPTED

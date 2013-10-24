@@ -1,5 +1,4 @@
-Rinodina lusitanica SPECIES
-=======
+# Rinodina lusitanica SPECIES
 
 #### Status
 ACCEPTED

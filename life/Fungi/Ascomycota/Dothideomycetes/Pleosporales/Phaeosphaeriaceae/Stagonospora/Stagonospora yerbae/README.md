@@ -1,5 +1,4 @@
-Stagonospora yerbae Speg. SPECIES
-=======
+# Stagonospora yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

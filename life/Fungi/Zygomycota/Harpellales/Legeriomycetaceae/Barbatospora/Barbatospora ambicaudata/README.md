@@ -1,5 +1,4 @@
-Barbatospora ambicaudata M.M. White, Siri & Lichtw., 2006 SPECIES
-=======
+# Barbatospora ambicaudata M.M. White, Siri & Lichtw., 2006 SPECIES
 
 #### Status
 ACCEPTED

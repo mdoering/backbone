@@ -1,5 +1,4 @@
-Polystictus zenkeri Henn. SPECIES
-=======
+# Polystictus zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

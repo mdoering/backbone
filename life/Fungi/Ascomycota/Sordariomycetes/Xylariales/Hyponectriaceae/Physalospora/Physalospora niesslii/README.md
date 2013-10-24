@@ -1,5 +1,4 @@
-Physalospora niesslii (Kunze) Petr. SPECIES
-=======
+# Physalospora niesslii (Kunze) Petr. SPECIES
 
 #### Status
 ACCEPTED

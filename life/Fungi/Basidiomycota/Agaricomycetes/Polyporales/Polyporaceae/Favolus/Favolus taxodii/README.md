@@ -1,5 +1,4 @@
-Favolus taxodii (Murrill) Sacc. & D. Sacc. SPECIES
-=======
+# Favolus taxodii (Murrill) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

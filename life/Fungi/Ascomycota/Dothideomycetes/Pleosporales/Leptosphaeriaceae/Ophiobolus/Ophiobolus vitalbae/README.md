@@ -1,5 +1,4 @@
-Ophiobolus vitalbae f. vitalbae FORM
-=======
+# Ophiobolus vitalbae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus vitalbae f. vitalbae
+Ophiobolus vitalbae Sacc.
 
 ### Remarks
 null

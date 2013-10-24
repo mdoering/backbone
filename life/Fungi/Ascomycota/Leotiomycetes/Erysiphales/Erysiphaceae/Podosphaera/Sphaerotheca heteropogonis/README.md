@@ -1,17 +1,16 @@
-Sphaerotheca heteropogoni Y.S. Paul & V. Thakur SPECIES
-=======
+# Sphaerotheca heteropogonis Y.S. Paul & V. Thakur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 34(3): 940 (2004)
 
 #### Original name
-Sphaerotheca heteropogoni Y.S. Paul & V. Thakur
+Sphaerotheca heteropogonis Y.S. Paul & V. Thakur
 
 ### Remarks
 null

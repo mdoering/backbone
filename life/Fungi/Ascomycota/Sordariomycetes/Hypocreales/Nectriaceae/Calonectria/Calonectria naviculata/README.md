@@ -1,5 +1,4 @@
-Calonectria naviculata Crous & M.J. Wingf. SPECIES
-=======
+# Calonectria naviculata Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

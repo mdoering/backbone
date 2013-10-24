@@ -1,5 +1,4 @@
-Caldicellulosiruptor Rainey et al., 1995 GENUS
-=======
+# Caldicellulosiruptor Rainey et al., 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma subumbrinum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subumbrinum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

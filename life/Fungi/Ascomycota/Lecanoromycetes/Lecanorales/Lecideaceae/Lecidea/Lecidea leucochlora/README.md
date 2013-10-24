@@ -1,5 +1,4 @@
-Lecidea leucochlora (Mont.) Nyl. SPECIES
-=======
+# Lecidea leucochlora (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

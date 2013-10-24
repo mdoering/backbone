@@ -1,5 +1,4 @@
-Calosphaeria pezizoidea Pat. & Gaillard SPECIES
-=======
+# Calosphaeria pezizoidea Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

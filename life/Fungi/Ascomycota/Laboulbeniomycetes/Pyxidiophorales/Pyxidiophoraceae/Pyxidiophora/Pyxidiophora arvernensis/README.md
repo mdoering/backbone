@@ -1,5 +1,4 @@
-Pyxidiophora arvernensis (Breton & Faurel) N. Lundq. SPECIES
-=======
+# Pyxidiophora arvernensis (Breton & Faurel) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

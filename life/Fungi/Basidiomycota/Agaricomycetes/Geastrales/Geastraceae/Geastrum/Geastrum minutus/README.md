@@ -1,8 +1,7 @@
-Geaster minutus Henn. SPECIES
-=======
+# Geastrum minutus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster minutus Henn.
+Geastrum minutus Henn.
 
 ### Remarks
 null

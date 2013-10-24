@@ -1,5 +1,4 @@
-Calycella aconiti (Saut.) R. Heim SPECIES
-=======
+# Calycella aconiti (Saut.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

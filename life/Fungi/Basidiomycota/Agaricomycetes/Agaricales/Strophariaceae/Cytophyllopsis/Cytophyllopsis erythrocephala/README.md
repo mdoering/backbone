@@ -1,5 +1,4 @@
-Cytophyllopsis erythrocephala (Tul.) R. Heim SPECIES
-=======
+# Cytophyllopsis erythrocephala (Tul.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

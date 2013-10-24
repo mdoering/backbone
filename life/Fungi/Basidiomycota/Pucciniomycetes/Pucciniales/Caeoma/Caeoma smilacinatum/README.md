@@ -1,5 +1,4 @@
-Caeoma smilacinatum Link SPECIES
-=======
+# Caeoma smilacinatum Link SPECIES
 
 #### Status
 ACCEPTED

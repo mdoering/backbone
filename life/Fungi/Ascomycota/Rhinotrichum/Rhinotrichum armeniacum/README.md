@@ -1,5 +1,4 @@
-Rhinotrichum armeniacum Berk. & M.A. Curtis SPECIES
-=======
+# Rhinotrichum armeniacum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

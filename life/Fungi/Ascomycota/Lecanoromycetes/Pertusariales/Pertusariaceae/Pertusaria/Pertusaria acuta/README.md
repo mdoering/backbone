@@ -1,5 +1,4 @@
-Pertusaria acuta Müll. Arg. SPECIES
-=======
+# Pertusaria acuta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella sheariana Hansf. SPECIES
-=======
+# Asteridiella sheariana Hansf. SPECIES
 
 #### Status
 ACCEPTED

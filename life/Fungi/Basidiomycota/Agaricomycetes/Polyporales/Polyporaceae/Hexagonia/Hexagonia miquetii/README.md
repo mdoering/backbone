@@ -1,5 +1,4 @@
-Hexagonia miquetii Mont. SPECIES
-=======
+# Hexagonia miquetii Mont. SPECIES
 
 #### Status
 ACCEPTED

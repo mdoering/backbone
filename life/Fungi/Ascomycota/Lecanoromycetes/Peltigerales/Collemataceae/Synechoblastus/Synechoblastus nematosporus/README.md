@@ -1,5 +1,4 @@
-Synechoblastus nematosporus A.L. Sm. SPECIES
-=======
+# Synechoblastus nematosporus A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

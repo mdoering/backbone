@@ -1,17 +1,16 @@
-Sphaeria quercina var. quercina VARIETY
-=======
+# Pseudovalsa longipes (Tul.) Sacc., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 5): 463 (1879)
 
 #### Original name
-null
+Melanconis longipes Tul. & C. Tul., 1856
 
 ### Remarks
 null

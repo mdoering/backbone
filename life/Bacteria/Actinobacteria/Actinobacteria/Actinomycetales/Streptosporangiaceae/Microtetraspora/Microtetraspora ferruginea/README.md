@@ -1,5 +1,4 @@
-Microtetraspora ferruginea (Meyer, 1981) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora ferruginea (Meyer, 1981) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

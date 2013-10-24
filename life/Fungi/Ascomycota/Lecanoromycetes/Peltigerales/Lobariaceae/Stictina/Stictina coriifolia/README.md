@@ -1,5 +1,4 @@
-Stictina coriifolia var. coriifolia VARIETY
-=======
+# Stictina coriifolia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bot. Jb. 4: 55 (1883)
 
 #### Original name
-Stictina coriifolia var. coriifolia
+Stictina coriifolia Müll. Arg.
 
 ### Remarks
 null

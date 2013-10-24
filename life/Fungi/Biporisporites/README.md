@@ -1,5 +1,4 @@
-Biporisporites P. Ke & Z.Y. Shi GENUS
-=======
+# Biporisporites P. Ke & Z.Y. Shi GENUS
 
 #### Status
 ACCEPTED

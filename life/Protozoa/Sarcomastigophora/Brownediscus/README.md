@@ -1,5 +1,4 @@
-Brownediscus Brenckle, Ramsbottom & Marchant, 1987 GENUS
-=======
+# Brownediscus Brenckle, Ramsbottom & Marchant, 1987 GENUS
 
 #### Status
 ACCEPTED

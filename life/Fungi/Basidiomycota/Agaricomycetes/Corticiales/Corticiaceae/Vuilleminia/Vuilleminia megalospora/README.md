@@ -1,5 +1,4 @@
-Vuilleminia megalospora Bres., 1926 SPECIES
-=======
+# Vuilleminia megalospora Bres., 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora chondrotypa Ach. SPECIES
-=======
+# Lecanora chondrotypa Ach. SPECIES
 
 #### Status
 ACCEPTED

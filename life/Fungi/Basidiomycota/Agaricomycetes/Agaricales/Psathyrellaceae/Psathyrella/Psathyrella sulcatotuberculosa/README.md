@@ -1,5 +1,4 @@
-Psathyrella sulcatotuberculosa (J. Favre) Einhell. SPECIES
-=======
+# Psathyrella sulcatotuberculosa (J. Favre) Einhell. SPECIES
 
 #### Status
 ACCEPTED

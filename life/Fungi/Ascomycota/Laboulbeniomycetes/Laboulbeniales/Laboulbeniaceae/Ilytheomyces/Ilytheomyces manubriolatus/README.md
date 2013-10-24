@@ -1,5 +1,4 @@
-Ilytheomyces manubriolatus Thaxt. SPECIES
-=======
+# Ilytheomyces manubriolatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

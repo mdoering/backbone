@@ -1,5 +1,4 @@
-Septoria lycoctoni var. lycoctoni VARIETY
-=======
+# Septoria lycoctoni Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 6): 167 (1880)
 
 #### Original name
-Septoria lycoctoni var. lycoctoni
+Septoria lycoctoni Speg.
 
 ### Remarks
 null

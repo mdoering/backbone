@@ -1,5 +1,4 @@
-Graphina cinereoalba (Vain.) Zahlbr. SPECIES
-=======
+# Graphina cinereoalba (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

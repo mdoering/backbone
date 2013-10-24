@@ -1,5 +1,4 @@
-Licea bryophila Nann.-Bremek., 1976 SPECIES
-=======
+# Licea bryophila Nann.-Bremek., 1976 SPECIES
 
 #### Status
 ACCEPTED

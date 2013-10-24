@@ -1,5 +1,4 @@
-Arcicella aquatica Nikitin et al., 2004 SPECIES
-=======
+# Arcicella aquatica Nikitin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

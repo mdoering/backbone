@@ -1,5 +1,4 @@
-Neoskofitzia pallida Schulzer SPECIES
-=======
+# Neoskofitzia pallida Schulzer SPECIES
 
 #### Status
 ACCEPTED

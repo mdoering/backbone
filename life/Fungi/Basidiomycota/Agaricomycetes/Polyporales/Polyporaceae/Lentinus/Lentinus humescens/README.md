@@ -1,5 +1,4 @@
-Lentinus humescens Lév. SPECIES
-=======
+# Lentinus humescens Lév. SPECIES
 
 #### Status
 ACCEPTED

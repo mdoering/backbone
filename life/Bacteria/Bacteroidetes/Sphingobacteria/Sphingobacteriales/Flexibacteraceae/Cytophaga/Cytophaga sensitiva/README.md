@@ -1,5 +1,4 @@
-Cytophaga sensitiva SPECIES
-=======
+# Cytophaga sensitiva SPECIES
 
 #### Status
 ACCEPTED

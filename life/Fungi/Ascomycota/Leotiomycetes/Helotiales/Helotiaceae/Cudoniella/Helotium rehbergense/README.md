@@ -1,5 +1,4 @@
-Helotium rehbergense var. rehbergense VARIETY
-=======
+# Helotium rehbergense Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 188 (1934)
 
 #### Original name
-Helotium rehbergense var. rehbergense
+Helotium rehbergense Velen.
 
 ### Remarks
 null

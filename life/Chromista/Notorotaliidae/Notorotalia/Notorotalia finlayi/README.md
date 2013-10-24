@@ -1,5 +1,4 @@
-Notorotalia finlayi Vella, 1957 SPECIES
-=======
+# Notorotalia finlayi Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

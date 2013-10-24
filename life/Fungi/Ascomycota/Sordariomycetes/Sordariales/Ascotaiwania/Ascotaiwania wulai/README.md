@@ -1,5 +1,4 @@
-Ascotaiwania wulai H.S. Chang & S.Y. Hsieh, 1998 SPECIES
-=======
+# Ascotaiwania wulai H.S. Chang & S.Y. Hsieh, 1998 SPECIES
 
 #### Status
 ACCEPTED

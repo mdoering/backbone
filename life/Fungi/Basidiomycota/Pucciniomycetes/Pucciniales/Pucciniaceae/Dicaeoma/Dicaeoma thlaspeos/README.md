@@ -1,5 +1,4 @@
-Dicaeoma thlaspeos (Ficinus & C. Schub.) Kuntze SPECIES
-=======
+# Dicaeoma thlaspeos (Ficinus & C. Schub.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

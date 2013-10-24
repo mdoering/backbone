@@ -1,5 +1,4 @@
-Sclerotinia nigromarginata Velen. SPECIES
-=======
+# Sclerotinia nigromarginata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta thelotremella Bagl. SPECIES
-=======
+# Gyalecta thelotremella Bagl. SPECIES
 
 #### Status
 ACCEPTED

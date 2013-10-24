@@ -1,5 +1,4 @@
-Pseudocercospora colocasiae Deighton SPECIES
-=======
+# Pseudocercospora colocasiae Deighton SPECIES
 
 #### Status
 ACCEPTED

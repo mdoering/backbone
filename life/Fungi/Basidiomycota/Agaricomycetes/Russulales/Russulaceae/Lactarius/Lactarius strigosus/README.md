@@ -1,5 +1,4 @@
-Lactarius strigosus Verbeken & E. Horak SPECIES
-=======
+# Lactarius strigosus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

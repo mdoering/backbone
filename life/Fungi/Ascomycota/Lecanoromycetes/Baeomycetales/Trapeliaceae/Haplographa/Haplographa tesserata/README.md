@@ -1,5 +1,4 @@
-Haplographa tesserata SPECIES
-=======
+# Haplographa tesserata SPECIES
 
 #### Status
 ACCEPTED

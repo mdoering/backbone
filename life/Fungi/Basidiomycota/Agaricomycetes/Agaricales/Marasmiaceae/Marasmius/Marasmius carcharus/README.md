@@ -1,5 +1,4 @@
-Marasmius carcharus Singer SPECIES
-=======
+# Marasmius carcharus Singer SPECIES
 
 #### Status
 ACCEPTED

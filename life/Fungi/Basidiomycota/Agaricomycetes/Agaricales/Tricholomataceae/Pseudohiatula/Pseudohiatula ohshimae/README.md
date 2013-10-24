@@ -1,5 +1,4 @@
-Pseudohiatula ohshimae Hongo & Matsuda SPECIES
-=======
+# Pseudohiatula ohshimae Hongo & Matsuda SPECIES
 
 #### Status
 ACCEPTED

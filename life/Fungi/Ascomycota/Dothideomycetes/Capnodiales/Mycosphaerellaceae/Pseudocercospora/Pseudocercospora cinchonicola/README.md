@@ -1,5 +1,4 @@
-Pseudocercospora cinchonicola (Boedijn) U. Braun SPECIES
-=======
+# Pseudocercospora cinchonicola (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

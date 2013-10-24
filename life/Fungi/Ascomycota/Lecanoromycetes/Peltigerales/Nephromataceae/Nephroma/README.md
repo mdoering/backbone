@@ -1,17 +1,16 @@
-Nephromiomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Nephroma Ach. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 37, 64 (1953)
+in Luyken, Tent. Hist. Lich. 92 (1809)
 
 #### Original name
-Nephromiomyces E.A. Thomas ex Cif. & Tomas.
+Nephroma Ach.
 
 ### Remarks
 null

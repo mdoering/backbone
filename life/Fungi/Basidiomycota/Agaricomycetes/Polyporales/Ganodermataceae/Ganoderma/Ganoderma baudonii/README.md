@@ -1,5 +1,4 @@
-Ganoderma baudonii Steyaert SPECIES
-=======
+# Ganoderma baudonii Steyaert SPECIES
 
 #### Status
 ACCEPTED

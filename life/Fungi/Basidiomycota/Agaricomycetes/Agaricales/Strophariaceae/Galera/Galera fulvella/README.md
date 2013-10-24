@@ -1,5 +1,4 @@
-Galera fulvella Mont. SPECIES
-=======
+# Galera fulvella Mont. SPECIES
 
 #### Status
 ACCEPTED

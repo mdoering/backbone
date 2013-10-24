@@ -1,5 +1,4 @@
-Agaricus phonospermus Bull. SPECIES
-=======
+# Agaricus phonospermus Bull. SPECIES
 
 #### Status
 ACCEPTED

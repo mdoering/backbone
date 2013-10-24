@@ -1,5 +1,4 @@
-Brochopsophosphaera legibilis Chibrikova, 1972 SPECIES
-=======
+# Brochopsophosphaera legibilis Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

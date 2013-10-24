@@ -1,5 +1,4 @@
-Aposphaeria humicola Oudem. SPECIES
-=======
+# Aposphaeria humicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

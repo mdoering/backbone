@@ -1,14 +1,13 @@
-Sporidesmium bakeri var. maydicum (Sacc.) S. Hughes, 1953 VARIETY
-=======
+# Pithomyces maydicus (Sacc.) M.B. Ellis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 50: 68 (1953)
+Mycol. Pap. 76: 15 (1960)
 
 #### Original name
 Clasterosporium maydicum Sacc., 1916

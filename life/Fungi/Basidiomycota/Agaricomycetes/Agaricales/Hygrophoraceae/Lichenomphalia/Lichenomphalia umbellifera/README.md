@@ -1,17 +1,16 @@
-Agaricus epiphyllus var. epiphyllus VARIETY
-=======
+# Lichenomphalia umbellifera (L.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 38 (2002)
 
 #### Original name
-null
+Agaricus umbelliferus Schaeff., 1770
 
 ### Remarks
 null

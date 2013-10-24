@@ -1,5 +1,4 @@
-Psora leucina Müll. Arg. SPECIES
-=======
+# Psora leucina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

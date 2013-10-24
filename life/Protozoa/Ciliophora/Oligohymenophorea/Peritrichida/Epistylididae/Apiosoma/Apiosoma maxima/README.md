@@ -1,5 +1,4 @@
-Apiosoma maxima SPECIES
-=======
+# Apiosoma maxima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lamii-maculati (C. Massal.) Died. SPECIES
-=======
+# Septoria lamii-maculati (C. Massal.) Died. SPECIES
 
 #### Status
 ACCEPTED

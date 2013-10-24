@@ -1,5 +1,4 @@
-Cystospora batatas J.B. Elliott SPECIES
-=======
+# Cystospora batatas J.B. Elliott SPECIES
 
 #### Status
 ACCEPTED

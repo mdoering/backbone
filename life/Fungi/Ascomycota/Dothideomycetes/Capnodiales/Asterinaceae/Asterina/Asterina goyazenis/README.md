@@ -1,5 +1,4 @@
-Asterina goyazenis SPECIES
-=======
+# Asterina goyazenis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus atripes Rabenh. SPECIES
-=======
+# Agaricus atripes Rabenh. SPECIES
 
 #### Status
 ACCEPTED

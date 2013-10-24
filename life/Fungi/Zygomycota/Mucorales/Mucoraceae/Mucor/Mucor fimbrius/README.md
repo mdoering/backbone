@@ -1,5 +1,4 @@
-Mucor fimbrius Nees SPECIES
-=======
+# Mucor fimbrius Nees SPECIES
 
 #### Status
 ACCEPTED

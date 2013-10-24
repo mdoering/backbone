@@ -1,5 +1,4 @@
-Psathyrella arenulina (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella arenulina (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

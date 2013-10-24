@@ -1,5 +1,4 @@
-Aecidium gracilens Peck SPECIES
-=======
+# Aecidium gracilens Peck SPECIES
 
 #### Status
 ACCEPTED

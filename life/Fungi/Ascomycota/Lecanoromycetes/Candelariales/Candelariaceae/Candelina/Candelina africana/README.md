@@ -1,5 +1,4 @@
-Candelina africana Poelt SPECIES
-=======
+# Candelina africana Poelt SPECIES
 
 #### Status
 ACCEPTED

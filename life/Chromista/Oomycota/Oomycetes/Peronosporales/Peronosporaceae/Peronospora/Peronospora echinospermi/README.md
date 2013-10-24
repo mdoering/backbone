@@ -1,5 +1,4 @@
-Peronospora echinospermi Swingle SPECIES
-=======
+# Peronospora echinospermi Swingle SPECIES
 
 #### Status
 ACCEPTED

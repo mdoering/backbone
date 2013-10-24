@@ -1,5 +1,4 @@
-Cladosporium sclerotiophilum Sawada SPECIES
-=======
+# Cladosporium sclerotiophilum Sawada SPECIES
 
 #### Status
 ACCEPTED

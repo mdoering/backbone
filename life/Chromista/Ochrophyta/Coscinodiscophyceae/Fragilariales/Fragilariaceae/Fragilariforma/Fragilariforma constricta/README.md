@@ -1,8 +1,7 @@
-Neofragilaria constricta (Ehrenberg) D.M. Williams & Round SPECIES
-=======
+# Fragilariforma constricta (Ehrenberg) D.M. Williams & Round SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

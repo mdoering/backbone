@@ -1,5 +1,4 @@
-Sistotrema microsporum N. Maek. SPECIES
-=======
+# Sistotrema microsporum N. Maek. SPECIES
 
 #### Status
 ACCEPTED

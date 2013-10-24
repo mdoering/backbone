@@ -1,8 +1,7 @@
-Gloeocapsa alpina var. polyedrica Ercegovic VARIETY
-=======
+# Gloeocapsopsis polyedrica (Ercegovic) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

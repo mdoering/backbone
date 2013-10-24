@@ -1,5 +1,4 @@
-Synura glabra Korshikov SPECIES
-=======
+# Synura glabra Korshikov SPECIES
 
 #### Status
 ACCEPTED

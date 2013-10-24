@@ -1,5 +1,4 @@
-Tephromela corneola Motyka SPECIES
-=======
+# Tephromela corneola Motyka SPECIES
 
 #### Status
 ACCEPTED

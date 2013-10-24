@@ -1,5 +1,4 @@
-Microcystis exigua Zalessky SPECIES
-=======
+# Microcystis exigua Zalessky SPECIES
 
 #### Status
 ACCEPTED

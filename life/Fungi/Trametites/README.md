@@ -1,5 +1,4 @@
-Trametites Meschinelli, 1892 GENUS
-=======
+# Trametites Meschinelli, 1892 GENUS
 
 #### Status
 ACCEPTED

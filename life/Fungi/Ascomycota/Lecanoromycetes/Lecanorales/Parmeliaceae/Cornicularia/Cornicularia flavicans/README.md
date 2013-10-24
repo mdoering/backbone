@@ -1,5 +1,4 @@
-Cornicularia flavicans Pers. SPECIES
-=======
+# Cornicularia flavicans Pers. SPECIES
 
 #### Status
 ACCEPTED

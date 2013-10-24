@@ -1,5 +1,4 @@
-Dictyota pulchella Hörnig & Schnetter SPECIES
-=======
+# Dictyota pulchella Hörnig & Schnetter SPECIES
 
 #### Status
 ACCEPTED

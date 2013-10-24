@@ -1,5 +1,4 @@
-Bombardia pakistani (J.H. Mirza) Cailleux & Mirza SPECIES
-=======
+# Bombardia pakistani (J.H. Mirza) Cailleux & Mirza SPECIES
 
 #### Status
 ACCEPTED

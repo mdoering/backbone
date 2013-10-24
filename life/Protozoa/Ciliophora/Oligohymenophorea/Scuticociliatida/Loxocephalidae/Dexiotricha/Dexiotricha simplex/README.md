@@ -1,5 +1,4 @@
-Dexiotricha simplex SPECIES
-=======
+# Dexiotricha simplex SPECIES
 
 #### Status
 ACCEPTED

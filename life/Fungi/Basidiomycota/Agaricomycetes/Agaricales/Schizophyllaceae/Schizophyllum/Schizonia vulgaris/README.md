@@ -1,5 +1,4 @@
-Schizonia vulgaris Pers. SPECIES
-=======
+# Schizonia vulgaris Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma insulana (Mont.) Boerema & Malathr., 1982 SPECIES
-=======
+# Phoma insulana (Mont.) Boerema & Malathr., 1982 SPECIES
 
 #### Status
 ACCEPTED

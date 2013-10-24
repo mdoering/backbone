@@ -1,5 +1,4 @@
-Lepraria variegata SPECIES
-=======
+# Lepraria variegata SPECIES
 
 #### Status
 ACCEPTED

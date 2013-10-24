@@ -1,5 +1,4 @@
-Stigmina liriodendri Ellis & Everh. SPECIES
-=======
+# Stigmina liriodendri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas viridiflava (Burkholder, 1930) Dowson, 1939 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas viridiflava (Burkholder, 1930) Dowson, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora cannabina Fautrey, 1899 SPECIES
-=======
+# Rhabdospora cannabina Fautrey, 1899 SPECIES
 
 #### Status
 ACCEPTED

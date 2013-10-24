@@ -1,17 +1,16 @@
-Buellia exilis (Kremp.) Müll. Arg. SPECIES
-=======
+# Buellia krempelhuberi Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 70: 61 (1887)
+Cat. Lich. Univers. 7: 374 (1931)
 
 #### Original name
-Lecidea exilis Kremp.
+Buellia krempelhuberi Zahlbr.
 
 ### Remarks
 null

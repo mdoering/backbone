@@ -1,5 +1,4 @@
-Meliola stevensonii Cif. SPECIES
-=======
+# Meliola stevensonii Cif. SPECIES
 
 #### Status
 ACCEPTED

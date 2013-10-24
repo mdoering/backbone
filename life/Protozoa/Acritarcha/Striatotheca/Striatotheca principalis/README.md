@@ -1,5 +1,4 @@
-Striatotheca principalis Burmann, 1970 SPECIES
-=======
+# Striatotheca principalis Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

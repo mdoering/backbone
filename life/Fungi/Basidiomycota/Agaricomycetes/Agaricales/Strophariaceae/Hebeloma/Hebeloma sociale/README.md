@@ -1,5 +1,4 @@
-Hebeloma sociale Peck SPECIES
-=======
+# Hebeloma sociale Peck SPECIES
 
 #### Status
 ACCEPTED

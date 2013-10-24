@@ -1,5 +1,4 @@
-Leptosphaeria bulgarica Petr. SPECIES
-=======
+# Leptosphaeria bulgarica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton olexae S. Watan. {?} SPECIES
-=======
+# Trichophyton olexae S. Watan. {?} SPECIES
 
 #### Status
 ACCEPTED

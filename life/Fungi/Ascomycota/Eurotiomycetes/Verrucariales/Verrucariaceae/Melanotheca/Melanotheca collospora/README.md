@@ -1,5 +1,4 @@
-Melanotheca collospora (Vain.) Zahlbr. SPECIES
-=======
+# Melanotheca collospora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

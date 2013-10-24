@@ -1,5 +1,4 @@
-Simblum GENUS
-=======
+# Simblum GENUS
 
 #### Status
 ACCEPTED

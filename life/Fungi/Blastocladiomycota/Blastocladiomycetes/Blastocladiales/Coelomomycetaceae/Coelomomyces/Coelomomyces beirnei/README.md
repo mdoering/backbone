@@ -1,5 +1,4 @@
-Coelomomyces beirnei Weiser & McCauley SPECIES
-=======
+# Coelomomyces beirnei Weiser & McCauley SPECIES
 
 #### Status
 ACCEPTED

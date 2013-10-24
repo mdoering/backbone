@@ -1,17 +1,16 @@
-Puccinia phragmitis f. sp FORM
-=======
+# Puccinia phragmitis (Schumach.) Körn., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 28(2): 206 (1987)
+Hedwigia 15: 179 (1876)
 
 #### Original name
-Puccinia phragmitis f. sp
+Puccinia phragmitis (Schumach.) Körn., 1876
 
 ### Remarks
 null

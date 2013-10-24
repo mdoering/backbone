@@ -1,5 +1,4 @@
-Melanoleuca wrightii Raithelh. SPECIES
-=======
+# Melanoleuca wrightii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

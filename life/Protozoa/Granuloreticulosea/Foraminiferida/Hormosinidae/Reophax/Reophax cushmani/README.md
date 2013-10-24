@@ -1,5 +1,4 @@
-Reophax cushmani Heron-Allen & Earland, 1932 SPECIES
-=======
+# Reophax cushmani Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

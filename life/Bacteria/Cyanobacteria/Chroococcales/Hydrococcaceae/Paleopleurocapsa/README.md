@@ -1,5 +1,4 @@
-Paleopleurocapsa A.H. Knoll, E.S. Barghoorn & S. Golubic, 1975 GENUS
-=======
+# Paleopleurocapsa A.H. Knoll, E.S. Barghoorn & S. Golubic, 1975 GENUS
 
 #### Status
 ACCEPTED

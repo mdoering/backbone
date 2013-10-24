@@ -1,5 +1,4 @@
-Arthopyreniomyces analeptae Cif. & Tomas. SPECIES
-=======
+# Arthopyreniomyces analeptae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

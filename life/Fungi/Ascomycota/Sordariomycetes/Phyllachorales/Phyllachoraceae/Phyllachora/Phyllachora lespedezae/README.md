@@ -1,14 +1,13 @@
-Dothidea lespedezae (Schwein.) Berk., 1876 SPECIES
-=======
+# Phyllachora lespedezae (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 4(no. 31): 104 (1876)
+Syll. fung. (Abellini) 2: 614 (1883)
 
 #### Original name
 Sphaeria lespedezae Schwein., 1832

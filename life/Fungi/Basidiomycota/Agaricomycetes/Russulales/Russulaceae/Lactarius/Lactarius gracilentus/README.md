@@ -1,5 +1,4 @@
-Lactarius gracilentus A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius gracilentus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

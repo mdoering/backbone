@@ -1,17 +1,16 @@
-Schizocapnodium kalakadensis Subram. & Sekar SPECIES
-=======
+# Schizocapnodium kalakadense Subram. & Sekar, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 18(1-2): 71 (1993)
 
 #### Original name
-Schizocapnodium kalakadensis Subram. & Sekar
+Schizocapnodium kalakadense Subram. & Sekar, 1993
 
 ### Remarks
 null

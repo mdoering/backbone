@@ -1,5 +1,4 @@
-Verrucaria planorbiculata (Müll. Arg.) Nyl. SPECIES
-=======
+# Verrucaria planorbiculata (Müll. Arg.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

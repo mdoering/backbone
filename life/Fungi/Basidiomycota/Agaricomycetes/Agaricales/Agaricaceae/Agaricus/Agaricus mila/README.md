@@ -1,5 +1,4 @@
-Agaricus mila Scop. SPECIES
-=======
+# Agaricus mila Scop. SPECIES
 
 #### Status
 ACCEPTED

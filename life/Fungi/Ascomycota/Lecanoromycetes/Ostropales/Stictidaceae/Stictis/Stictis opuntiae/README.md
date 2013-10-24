@@ -1,5 +1,4 @@
-Stictis opuntiae Rolland SPECIES
-=======
+# Stictis opuntiae Rolland SPECIES
 
 #### Status
 ACCEPTED

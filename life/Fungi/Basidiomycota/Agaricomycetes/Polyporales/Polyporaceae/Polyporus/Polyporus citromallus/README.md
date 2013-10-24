@@ -1,5 +1,4 @@
-Polyporus citromallus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus citromallus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

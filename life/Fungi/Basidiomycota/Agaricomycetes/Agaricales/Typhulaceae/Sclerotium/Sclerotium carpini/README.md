@@ -1,5 +1,4 @@
-Sclerotium carpini Westend. SPECIES
-=======
+# Sclerotium carpini Westend. SPECIES
 
 #### Status
 ACCEPTED

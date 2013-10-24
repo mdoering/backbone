@@ -1,5 +1,4 @@
-Colletotrichum leguminis (Cooke & Harkn.) Negru SPECIES
-=======
+# Colletotrichum leguminis (Cooke & Harkn.) Negru SPECIES
 
 #### Status
 ACCEPTED

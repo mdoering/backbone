@@ -1,5 +1,4 @@
-Lactarius pseudoluteopus X.H. Wang & Verbeken SPECIES
-=======
+# Lactarius pseudoluteopus X.H. Wang & Verbeken SPECIES
 
 #### Status
 ACCEPTED

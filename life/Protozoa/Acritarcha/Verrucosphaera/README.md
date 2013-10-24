@@ -1,5 +1,4 @@
-Verrucosphaera H. Górka, 1970 GENUS
-=======
+# Verrucosphaera H. Górka, 1970 GENUS
 
 #### Status
 ACCEPTED

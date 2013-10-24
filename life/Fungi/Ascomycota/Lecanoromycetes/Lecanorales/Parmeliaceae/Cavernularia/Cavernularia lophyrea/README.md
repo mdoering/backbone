@@ -1,5 +1,4 @@
-Cavernularia lophyrea (Ach.) Degel. SPECIES
-=======
+# Cavernularia lophyrea (Ach.) Degel. SPECIES
 
 #### Status
 ACCEPTED

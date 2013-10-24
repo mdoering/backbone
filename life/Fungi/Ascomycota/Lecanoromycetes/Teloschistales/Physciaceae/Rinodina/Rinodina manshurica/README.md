@@ -1,5 +1,4 @@
-Rinodina manshurica Räsänen SPECIES
-=======
+# Rinodina manshurica Räsänen SPECIES
 
 #### Status
 ACCEPTED

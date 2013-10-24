@@ -1,5 +1,4 @@
-Lactarius venosus Verbeken & E. Horak SPECIES
-=======
+# Lactarius venosus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

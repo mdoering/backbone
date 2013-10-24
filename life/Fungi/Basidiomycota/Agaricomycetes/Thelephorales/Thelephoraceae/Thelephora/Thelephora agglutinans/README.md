@@ -1,5 +1,4 @@
-Thelephora agglutinans Pers. SPECIES
-=======
+# Thelephora agglutinans Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina vermiculus (Fée) Müll. Arg. SPECIES
-=======
+# Graphina vermiculus (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria sambucina Ellis & Everh. SPECIES
-=======
+# Leptosphaeria sambucina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protaspis gemmifera Larsen & Patterson, 1990 SPECIES
-=======
+# Protaspis gemmifera Larsen & Patterson, 1990 SPECIES
 
 #### Status
 DOUBTFUL

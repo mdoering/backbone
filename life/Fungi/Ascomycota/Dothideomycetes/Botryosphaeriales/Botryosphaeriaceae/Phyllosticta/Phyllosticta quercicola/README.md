@@ -1,5 +1,4 @@
-Phyllosticta quercicola Oudem. SPECIES
-=======
+# Phyllosticta quercicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

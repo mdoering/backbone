@@ -1,5 +1,4 @@
-Belodinium dysculum Cookson & Eisenack, 1960 SPECIES
-=======
+# Belodinium dysculum Cookson & Eisenack, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina scapharcae Xu, Song & Warren, 2000 SPECIES
-=======
+# Trichodina scapharcae Xu, Song & Warren, 2000 SPECIES
 
 #### Status
 ACCEPTED

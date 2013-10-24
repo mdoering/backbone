@@ -1,14 +1,13 @@
-Coprobia flavus (P. Karst.) K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Coprobia flava (P. Karst.) K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 6: 26 (1979)
 
 #### Original name
 Ascophanus flavus P. Karst.

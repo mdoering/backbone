@@ -1,5 +1,4 @@
-Phryganella paradoxica Pen. SPECIES
-=======
+# Phryganella paradoxica Pen. SPECIES
 
 #### Status
 ACCEPTED

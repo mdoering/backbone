@@ -1,5 +1,4 @@
-Buellia yasudae Vain. SPECIES
-=======
+# Buellia yasudae Vain. SPECIES
 
 #### Status
 ACCEPTED

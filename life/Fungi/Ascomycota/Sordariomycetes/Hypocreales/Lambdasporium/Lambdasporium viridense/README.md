@@ -1,5 +1,4 @@
-Lambdasporium viridense Nawawi, 1985 SPECIES
-=======
+# Lambdasporium viridense Nawawi, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalosporella indica A. Pande SPECIES
-=======
+# Physalosporella indica A. Pande SPECIES
 
 #### Status
 ACCEPTED

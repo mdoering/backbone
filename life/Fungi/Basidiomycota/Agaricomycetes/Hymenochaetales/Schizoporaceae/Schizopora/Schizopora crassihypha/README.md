@@ -1,5 +1,4 @@
-Schizopora crassihypha Douanla-Meli SPECIES
-=======
+# Schizopora crassihypha Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

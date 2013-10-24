@@ -1,5 +1,4 @@
-Sphacelotheca andropogonis-hirtifolii (Henn.) G.P. Clinton SPECIES
-=======
+# Sphacelotheca andropogonis-hirtifolii (Henn.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

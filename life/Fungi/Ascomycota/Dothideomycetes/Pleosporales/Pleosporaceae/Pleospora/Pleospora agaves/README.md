@@ -1,5 +1,4 @@
-Pleospora agaves De Not. SPECIES
-=======
+# Pleospora agaves De Not. SPECIES
 
 #### Status
 ACCEPTED

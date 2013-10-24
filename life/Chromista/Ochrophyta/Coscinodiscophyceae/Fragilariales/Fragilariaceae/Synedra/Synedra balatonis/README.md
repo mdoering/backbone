@@ -1,5 +1,4 @@
-Synedra balatonis Pantocsek SPECIES
-=======
+# Synedra balatonis Pantocsek SPECIES
 
 #### Status
 ACCEPTED

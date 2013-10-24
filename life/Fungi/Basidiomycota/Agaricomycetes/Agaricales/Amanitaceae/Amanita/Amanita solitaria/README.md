@@ -1,17 +1,16 @@
-Amanita solitaria var. solitaria VARIETY
-=======
+# Amanita solitaria (Bull.) Fr., 1836 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Anteckn. Sver. Ätl. Svamp. 33 (1836)
 
 #### Original name
-Amanita solitaria var. solitaria
+Agaricus solitarius Bull., 1781
 
 ### Remarks
 null

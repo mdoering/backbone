@@ -1,5 +1,4 @@
-Coniothyrium berberidiphilum Speg. SPECIES
-=======
+# Coniothyrium berberidiphilum Speg. SPECIES
 
 #### Status
 ACCEPTED

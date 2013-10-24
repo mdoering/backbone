@@ -1,8 +1,7 @@
-Verrucaria rupestris var. hypophaea J. Steiner & Zahlbr. VARIETY
-=======
+# Verrucaria schindleri Servít SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Verrucaria schindleri Servít
 
 ### Remarks
 null

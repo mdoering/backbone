@@ -1,5 +1,4 @@
-Gonohymenia minnesotensis (Fink) Henssen SPECIES
-=======
+# Gonohymenia minnesotensis (Fink) Henssen SPECIES
 
 #### Status
 ACCEPTED

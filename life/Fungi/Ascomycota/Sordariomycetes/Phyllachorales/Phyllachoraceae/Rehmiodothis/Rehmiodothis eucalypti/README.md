@@ -1,14 +1,13 @@
-Montagnella eucalypti (Cooke & Massee) Sacc., 1891 SPECIES
-=======
+# Rehmiodothis eucalypti (Cooke & Massee) H.J. Swart, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 639 (1891)
+Trans. Br. mycol. Soc. 89(4): 487 (1987)
 
 #### Original name
 Phyllachora eucalypti (Speg.) Petr., 1929

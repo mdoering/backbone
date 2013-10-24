@@ -1,5 +1,4 @@
-Thelidium plumbeum SPECIES
-=======
+# Thelidium plumbeum SPECIES
 
 #### Status
 ACCEPTED

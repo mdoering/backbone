@@ -1,5 +1,4 @@
-Crepidotus latifolius var. latifolius VARIETY
-=======
+# Crepidotus latifolius Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 26: 66 (1899)
 
 #### Original name
-Crepidotus latifolius var. latifolius
+Crepidotus latifolius Peck
 
 ### Remarks
 null

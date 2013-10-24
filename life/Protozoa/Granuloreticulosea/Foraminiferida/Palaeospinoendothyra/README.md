@@ -1,5 +1,4 @@
-Palaeospinoendothyra Wu in Wu & Liao, 2001 GENUS
-=======
+# Palaeospinoendothyra Wu in Wu & Liao, 2001 GENUS
 
 #### Status
 ACCEPTED

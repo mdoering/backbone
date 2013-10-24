@@ -1,5 +1,4 @@
-Macrosporium lanceolatum Massee SPECIES
-=======
+# Macrosporium lanceolatum Massee SPECIES
 
 #### Status
 ACCEPTED

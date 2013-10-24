@@ -1,5 +1,4 @@
-Aspergillus subgriseus Peck SPECIES
-=======
+# Aspergillus subgriseus Peck SPECIES
 
 #### Status
 ACCEPTED

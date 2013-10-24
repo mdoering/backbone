@@ -1,5 +1,4 @@
-Psalliota nobilis A. Pearson SPECIES
-=======
+# Psalliota nobilis A. Pearson SPECIES
 
 #### Status
 ACCEPTED

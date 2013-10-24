@@ -1,5 +1,4 @@
-Usnea tuberculata (Motyka) Bystrek SPECIES
-=======
+# Usnea tuberculata (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

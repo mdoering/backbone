@@ -1,5 +1,4 @@
-Trypethelium tricolor Müll. Arg. SPECIES
-=======
+# Trypethelium tricolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

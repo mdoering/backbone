@@ -1,5 +1,4 @@
-Hydrogenobacter subterraneus Takai et al., 2001 SPECIES
-=======
+# Hydrogenobacter subterraneus Takai et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

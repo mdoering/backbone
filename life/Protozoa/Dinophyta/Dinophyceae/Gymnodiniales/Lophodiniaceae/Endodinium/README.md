@@ -1,5 +1,4 @@
-Endodinium Hovasse, 1922 GENUS
-=======
+# Endodinium Hovasse, 1922 GENUS
 
 #### Status
 ACCEPTED

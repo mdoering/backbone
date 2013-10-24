@@ -1,5 +1,4 @@
-Monascus olei Piedallu {?} SPECIES
-=======
+# Monascus olei Piedallu {?} SPECIES
 
 #### Status
 ACCEPTED

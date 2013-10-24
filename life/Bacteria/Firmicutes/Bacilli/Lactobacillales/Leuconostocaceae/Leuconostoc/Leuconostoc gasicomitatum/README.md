@@ -1,5 +1,4 @@
-Leuconostoc gasicomitatum Björkroth et al., 2001 SPECIES
-=======
+# Leuconostoc gasicomitatum Björkroth et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyangium septatum Thaxter, 1904 SPECIES
-=======
+# Polyangium sorediatum (ex Thaxter, 1904) Brockman, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 37: 414 (1904)
 
 #### Original name
-null
+Polyangium sorediatum (ex Thaxter, 1904) Brockman, 1989
 
 ### Remarks
 null

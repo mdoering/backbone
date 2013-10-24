@@ -1,14 +1,13 @@
-Xylaria phoenix (Kuntze) Dennis, 1957 SPECIES
-=======
+# Stromatoneurospora phoenix (Kunze) S.C. Jong & E.E. Davis, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 65(2): 459 (1973)
 
 #### Original name
 Sphaeria phoenix Kunze, 1830

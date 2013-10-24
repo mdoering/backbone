@@ -1,5 +1,4 @@
-Arthopyrenia keralensis Upreti & G. Pant SPECIES
-=======
+# Arthopyrenia keralensis Upreti & G. Pant SPECIES
 
 #### Status
 ACCEPTED

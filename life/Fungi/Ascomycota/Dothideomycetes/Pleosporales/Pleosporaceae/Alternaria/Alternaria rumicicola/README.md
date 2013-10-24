@@ -1,5 +1,4 @@
-Alternaria rumicicola R.L. Mathur, Agnihotri & Tyagi SPECIES
-=======
+# Alternaria rumicicola R.L. Mathur, Agnihotri & Tyagi SPECIES
 
 #### Status
 ACCEPTED

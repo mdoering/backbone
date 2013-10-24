@@ -1,5 +1,4 @@
-Thuchomyces Hallbauer & Jahns GENUS
-=======
+# Thuchomyces Hallbauer & Jahns GENUS
 
 #### Status
 ACCEPTED

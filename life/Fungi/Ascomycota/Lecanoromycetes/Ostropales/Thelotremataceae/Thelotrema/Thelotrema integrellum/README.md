@@ -1,14 +1,13 @@
-Leptotrema integrellum (Harm.) Zahlbr. SPECIES
-=======
+# Thelotrema integrellum Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 635 (1923)
+Bull. Séanc. Soc. Sci. Nancy, Sér. 3 13: 39 (1912)
 
 #### Original name
 Thelotrema integrellum Harm.

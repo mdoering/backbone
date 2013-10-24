@@ -1,5 +1,4 @@
-Skeletocutis kuehneri A. David, 1982 SPECIES
-=======
+# Skeletocutis kuehneri A. David, 1982 SPECIES
 
 #### Status
 ACCEPTED

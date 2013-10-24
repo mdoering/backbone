@@ -1,5 +1,4 @@
-Gloniella shoreae Sivan., R.C. Rajak & R.C. Gupta SPECIES
-=======
+# Gloniella shoreae Sivan., R.C. Rajak & R.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

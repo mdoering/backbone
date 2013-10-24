@@ -1,5 +1,4 @@
-Lecanora salevensis Müll. Arg. SPECIES
-=======
+# Lecanora salevensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

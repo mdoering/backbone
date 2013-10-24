@@ -1,5 +1,4 @@
-Aseroë pentactina Endl. SPECIES
-=======
+# Aseroë pentactina Endl. SPECIES
 
 #### Status
 ACCEPTED

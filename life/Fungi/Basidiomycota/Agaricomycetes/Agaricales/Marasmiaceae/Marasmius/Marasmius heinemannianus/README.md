@@ -1,5 +1,4 @@
-Marasmius heinemannianus Antonín SPECIES
-=======
+# Marasmius heinemannianus Antonín SPECIES
 
 #### Status
 ACCEPTED

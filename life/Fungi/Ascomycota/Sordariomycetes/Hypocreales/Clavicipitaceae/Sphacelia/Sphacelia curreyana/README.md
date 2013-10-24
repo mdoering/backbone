@@ -1,5 +1,4 @@
-Sphacelia curreyana Grove SPECIES
-=======
+# Sphacelia curreyana Grove SPECIES
 
 #### Status
 ACCEPTED

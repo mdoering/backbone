@@ -1,5 +1,4 @@
-Corticium komabense Henn. SPECIES
-=======
+# Corticium komabense Henn. SPECIES
 
 #### Status
 ACCEPTED

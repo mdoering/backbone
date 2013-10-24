@@ -1,5 +1,4 @@
-Crepidotus sububer Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus sububer Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

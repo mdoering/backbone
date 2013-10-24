@@ -1,5 +1,4 @@
-Dactylosporites Paradkar GENUS
-=======
+# Dactylosporites Paradkar GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neoramularia oregana U. Braun & Rogerson SPECIES
-=======
+# Neoramularia oregana U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina cyathella J. Favre & Schweers ex Kuyper SPECIES
-=======
+# Omphalina cyathella J. Favre & Schweers ex Kuyper SPECIES
 
 #### Status
 ACCEPTED

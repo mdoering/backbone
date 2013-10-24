@@ -1,5 +1,4 @@
-Aspicilia aspicilioidea (Th. Fr.) R. Sant. SPECIES
-=======
+# Aspicilia aspicilioidea (Th. Fr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

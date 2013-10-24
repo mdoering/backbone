@@ -1,5 +1,4 @@
-Diaphorobacter Khan & Hiraishi, 2003 GENUS
-=======
+# Diaphorobacter Khan & Hiraishi, 2003 GENUS
 
 #### Status
 ACCEPTED

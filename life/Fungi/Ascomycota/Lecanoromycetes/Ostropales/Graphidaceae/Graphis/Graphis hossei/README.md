@@ -1,5 +1,4 @@
-Graphis hossei Vain. SPECIES
-=======
+# Graphis hossei Vain. SPECIES
 
 #### Status
 ACCEPTED

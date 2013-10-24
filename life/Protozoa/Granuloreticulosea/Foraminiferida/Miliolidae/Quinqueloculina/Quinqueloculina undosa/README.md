@@ -1,5 +1,4 @@
-Quinqueloculina undosa SPECIES
-=======
+# Quinqueloculina undosa SPECIES
 
 #### Status
 ACCEPTED

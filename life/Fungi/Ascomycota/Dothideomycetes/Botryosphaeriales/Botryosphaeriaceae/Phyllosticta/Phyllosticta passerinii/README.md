@@ -1,5 +1,4 @@
-Phyllosticta passerinii Berl. & Voglino SPECIES
-=======
+# Phyllosticta passerinii Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

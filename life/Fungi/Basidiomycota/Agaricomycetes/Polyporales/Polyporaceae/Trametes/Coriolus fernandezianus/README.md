@@ -1,5 +1,4 @@
-Coriolus fernandezianus Singer SPECIES
-=======
+# Coriolus fernandezianus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus leucopus var. leucopus VARIETY
-=======
+# Agaricus leucopus J. Otto SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Herb. Fr. 12: tab. 533, fig. 2 (1792)
+Vers. Anordnung Beschr. Agaricorum (Leipzig) 87 (1816)
 
 #### Original name
-Agaricus leucopus var. leucopus
+Agaricus leucopus J. Otto
 
 ### Remarks
 null

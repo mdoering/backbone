@@ -1,5 +1,4 @@
-Bottaria parameroides Vain. SPECIES
-=======
+# Bottaria parameroides Vain. SPECIES
 
 #### Status
 ACCEPTED

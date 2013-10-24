@@ -1,5 +1,4 @@
-Sphaeria bryophila Roberge ex Desm. SPECIES
-=======
+# Sphaeria bryophila Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

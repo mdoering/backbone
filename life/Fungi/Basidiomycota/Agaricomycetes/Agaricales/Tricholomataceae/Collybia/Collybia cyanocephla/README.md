@@ -1,5 +1,4 @@
-Collybia cyanocephla Pat. SPECIES
-=======
+# Collybia cyanocephla Pat. SPECIES
 
 #### Status
 ACCEPTED

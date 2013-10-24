@@ -1,5 +1,4 @@
-Botrytis murina Ditmar SPECIES
-=======
+# Botrytis murina Ditmar SPECIES
 
 #### Status
 ACCEPTED

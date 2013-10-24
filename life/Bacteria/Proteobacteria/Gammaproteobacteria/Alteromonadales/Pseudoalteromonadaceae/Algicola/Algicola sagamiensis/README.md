@@ -1,5 +1,4 @@
-Algicola sagamiensis Kobayashi, Imada, Hiraishi, Tsujibo, Miyamoto, Inamori, Hamada & Watanabe, 2003 SPECIES
-=======
+# Algicola sagamiensis Kobayashi, Imada, Hiraishi, Tsujibo, Miyamoto, Inamori, Hamada & Watanabe, 2003 SPECIES
 
 #### Status
 ACCEPTED

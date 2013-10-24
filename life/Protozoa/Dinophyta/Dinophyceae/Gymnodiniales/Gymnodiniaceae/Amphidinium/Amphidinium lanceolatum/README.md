@@ -1,5 +1,4 @@
-Amphidinium lanceolatum Schrdder SPECIES
-=======
+# Amphidinium lanceolatum Schrdder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium fallax Müll. Arg. SPECIES
-=======
+# Leptogium fallax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

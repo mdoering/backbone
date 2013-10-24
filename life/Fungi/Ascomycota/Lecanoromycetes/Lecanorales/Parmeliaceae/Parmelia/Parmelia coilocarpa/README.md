@@ -1,5 +1,4 @@
-Parmelia coilocarpa Stirt. SPECIES
-=======
+# Parmelia coilocarpa Stirt. SPECIES
 
 #### Status
 ACCEPTED

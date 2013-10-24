@@ -1,5 +1,4 @@
-Torulomyces parviverrucosus K. Ando & Pitt SPECIES
-=======
+# Torulomyces parviverrucosus K. Ando & Pitt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta eutrematis Schwarzman SPECIES
-=======
+# Phyllosticta eutrematis Schwarzman SPECIES
 
 #### Status
 ACCEPTED

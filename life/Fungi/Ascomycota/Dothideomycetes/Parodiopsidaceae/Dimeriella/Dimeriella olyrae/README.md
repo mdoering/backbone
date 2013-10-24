@@ -1,5 +1,4 @@
-Dimeriella olyrae F. Stevens SPECIES
-=======
+# Dimeriella olyrae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

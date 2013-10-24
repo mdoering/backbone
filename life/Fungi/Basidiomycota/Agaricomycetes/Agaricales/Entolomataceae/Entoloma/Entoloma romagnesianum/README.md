@@ -1,5 +1,4 @@
-Entoloma romagnesianum Courtec. SPECIES
-=======
+# Entoloma romagnesianum Courtec. SPECIES
 
 #### Status
 ACCEPTED

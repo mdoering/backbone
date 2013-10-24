@@ -1,5 +1,4 @@
-Lepiota pardina Sacc. & Cub. SPECIES
-=======
+# Lepiota pardina Sacc. & Cub. SPECIES
 
 #### Status
 ACCEPTED

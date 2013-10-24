@@ -1,5 +1,4 @@
-Xenosporium pirozynskii K.G. Karand. & Patw., 1992 SPECIES
-=======
+# Xenosporium pirozynskii K.G. Karand. & Patw., 1992 SPECIES
 
 #### Status
 ACCEPTED

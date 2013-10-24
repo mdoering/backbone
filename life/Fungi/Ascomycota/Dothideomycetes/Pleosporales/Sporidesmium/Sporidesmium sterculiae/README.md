@@ -1,5 +1,4 @@
-Sporidesmium sterculiae Tassi SPECIES
-=======
+# Sporidesmium sterculiae Tassi SPECIES
 
 #### Status
 ACCEPTED

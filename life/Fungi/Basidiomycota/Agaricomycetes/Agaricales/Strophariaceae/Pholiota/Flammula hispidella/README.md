@@ -1,5 +1,4 @@
-Flammula hispidella Murrill SPECIES
-=======
+# Flammula hispidella Murrill SPECIES
 
 #### Status
 ACCEPTED

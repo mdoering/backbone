@@ -1,5 +1,4 @@
-Candida atlantica (Siepmann) S.A. Mey. & Simione, 1998 SPECIES
-=======
+# Candida atlantica (Siepmann) S.A. Mey. & Simione, 1998 SPECIES
 
 #### Status
 ACCEPTED

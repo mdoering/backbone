@@ -1,17 +1,16 @@
-Lecidea limosa subsp. limosa SUBSPECIES
-=======
+# Protomicarea limosa (Ach.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. (1810)
+Stapfia 76: 156 (2001)
 
 #### Original name
-Lecidea limosa subsp. limosa
+Lecidea limosa Ach.
 
 ### Remarks
 null

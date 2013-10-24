@@ -1,5 +1,4 @@
-Sporobolomyces weijmanii Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces weijmanii Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

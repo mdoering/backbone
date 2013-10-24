@@ -1,14 +1,13 @@
-Sphacelotheca bursa (Berk.) Mundk. & Thirum., 1946 SPECIES
-=======
+# Macalpinomyces bursus (Berk.) Vánky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 16: 6 (1946)
+Mycotaxon 81: 427 (2002)
 
 #### Original name
 Ustilago bursa Berk., 1854

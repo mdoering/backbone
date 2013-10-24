@@ -1,5 +1,4 @@
-Tuber rhenanum Fuckel SPECIES
-=======
+# Tuber rhenanum Fuckel SPECIES
 
 #### Status
 ACCEPTED

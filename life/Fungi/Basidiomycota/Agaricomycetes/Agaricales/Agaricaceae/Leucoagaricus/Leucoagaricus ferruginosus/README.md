@@ -1,5 +1,4 @@
-Leucoagaricus ferruginosus Heinem. SPECIES
-=======
+# Leucoagaricus ferruginosus Heinem. SPECIES
 
 #### Status
 ACCEPTED

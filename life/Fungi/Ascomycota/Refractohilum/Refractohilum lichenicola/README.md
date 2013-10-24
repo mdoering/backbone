@@ -1,5 +1,4 @@
-Refractohilum lichenicola D. Hawksw. SPECIES
-=======
+# Refractohilum lichenicola D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

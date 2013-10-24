@@ -1,5 +1,4 @@
-Caloplaca carneonivea (Anzi) Jatta SPECIES
-=======
+# Caloplaca carneonivea (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

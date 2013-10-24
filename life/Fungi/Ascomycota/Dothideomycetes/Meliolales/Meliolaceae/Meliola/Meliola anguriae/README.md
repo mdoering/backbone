@@ -1,5 +1,4 @@
-Meliola anguriae (F. Stevens) Cif. SPECIES
-=======
+# Meliola anguriae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

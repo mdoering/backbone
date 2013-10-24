@@ -1,5 +1,4 @@
-Helotium blumenaviense (Henn.) Rick SPECIES
-=======
+# Helotium blumenaviense (Henn.) Rick SPECIES
 
 #### Status
 ACCEPTED

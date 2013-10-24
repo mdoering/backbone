@@ -1,5 +1,4 @@
-Ustilago pappophori Syd. SPECIES
-=======
+# Ustilago pappophori Syd. SPECIES
 
 #### Status
 ACCEPTED

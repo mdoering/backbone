@@ -1,5 +1,4 @@
-Chrysoglena verrucosa Wislouch SPECIES
-=======
+# Chrysoglena verrucosa Wislouch SPECIES
 
 #### Status
 ACCEPTED

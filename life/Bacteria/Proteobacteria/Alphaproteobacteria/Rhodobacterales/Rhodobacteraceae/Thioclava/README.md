@@ -1,5 +1,4 @@
-Thioclava Sorokin et al., 2005 GENUS
-=======
+# Thioclava Sorokin et al., 2005 GENUS
 
 #### Status
 ACCEPTED

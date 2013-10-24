@@ -1,5 +1,4 @@
-Russula ludoviciana Shaffer SPECIES
-=======
+# Russula ludoviciana Shaffer SPECIES
 
 #### Status
 ACCEPTED

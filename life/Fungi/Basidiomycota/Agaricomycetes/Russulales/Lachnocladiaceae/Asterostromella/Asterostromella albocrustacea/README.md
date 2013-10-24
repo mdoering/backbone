@@ -1,5 +1,4 @@
-Asterostromella albocrustacea Rick SPECIES
-=======
+# Asterostromella albocrustacea Rick SPECIES
 
 #### Status
 ACCEPTED

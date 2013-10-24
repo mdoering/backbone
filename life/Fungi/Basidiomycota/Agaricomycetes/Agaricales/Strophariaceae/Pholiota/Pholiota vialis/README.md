@@ -1,5 +1,4 @@
-Pholiota vialis (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota vialis (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinotrichum curtisii Berk. SPECIES
-=======
+# Rhinotrichum curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

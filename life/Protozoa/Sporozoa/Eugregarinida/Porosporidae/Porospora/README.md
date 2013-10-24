@@ -1,5 +1,4 @@
-Porospora Schneider, 1875 GENUS
-=======
+# Porospora Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

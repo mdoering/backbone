@@ -1,14 +1,13 @@
-Paxillus contulmensis Garrido, 1988 SPECIES
-=======
+# Austropaxillus contulmensis (Garrido) Bresinsky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 120: 118 (1988)
+in Bresinsky, Jarosch, Fischer, Schönberger & Wittmann-Bresinsky, Pl. Biol. 1(3): 332 (1999)
 
 #### Original name
 Paxillus contulmensis Garrido, 1988

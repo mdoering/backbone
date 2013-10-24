@@ -1,5 +1,4 @@
-Lachnea glareosa Velen. SPECIES
-=======
+# Lachnea glareosa Velen. SPECIES
 
 #### Status
 ACCEPTED

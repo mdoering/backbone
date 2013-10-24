@@ -1,5 +1,4 @@
-Phoma rhodotypi Henn. SPECIES
-=======
+# Phoma rhodotypi Henn. SPECIES
 
 #### Status
 ACCEPTED

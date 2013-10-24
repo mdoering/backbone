@@ -1,5 +1,4 @@
-Zoothamnium pararbuscula Ji, Song, Al-Rasheid & Li, 2005 SPECIES
-=======
+# Zoothamnium pararbuscula Ji, Song, Al-Rasheid & Li, 2005 SPECIES
 
 #### Status
 ACCEPTED

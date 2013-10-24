@@ -1,5 +1,4 @@
-Mycomicrothelia rubrostoma Aptroot SPECIES
-=======
+# Mycomicrothelia rubrostoma Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia vassilievae Parmasto, 1965 SPECIES
-=======
+# Vararia vassilievae Parmasto, 1965 SPECIES
 
 #### Status
 ACCEPTED

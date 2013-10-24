@@ -1,5 +1,4 @@
-Pseudocercospora hiptages (Petch) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora hiptages (Petch) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

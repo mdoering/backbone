@@ -1,5 +1,4 @@
-Diplostrobus Squinabol, 1903 GENUS
-=======
+# Diplostrobus Squinabol, 1903 GENUS
 
 #### Status
 ACCEPTED

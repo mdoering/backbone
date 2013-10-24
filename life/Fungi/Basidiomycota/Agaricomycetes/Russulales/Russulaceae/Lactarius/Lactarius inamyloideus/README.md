@@ -1,5 +1,4 @@
-Lactarius inamyloideus Verbeken & E. Horak SPECIES
-=======
+# Lactarius inamyloideus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

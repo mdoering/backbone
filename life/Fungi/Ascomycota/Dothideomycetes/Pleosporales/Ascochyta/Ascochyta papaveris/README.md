@@ -1,5 +1,4 @@
-Ascochyta papaveris var. papaveris VARIETY
-=======
+# Ascochyta papaveris Oudem. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta papaveris var. papaveris
+Ascochyta papaveris Oudem.
 
 ### Remarks
 null

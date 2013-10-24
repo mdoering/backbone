@@ -1,8 +1,7 @@
-Leucophra cornuta Müller, 1786 SPECIES
-=======
+# Stentor polymorphus (Müller, 1773) Ehr, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

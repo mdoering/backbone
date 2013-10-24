@@ -1,5 +1,4 @@
-Trichopeziza venatoria (Speg.) Sacc. SPECIES
-=======
+# Trichopeziza venatoria (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

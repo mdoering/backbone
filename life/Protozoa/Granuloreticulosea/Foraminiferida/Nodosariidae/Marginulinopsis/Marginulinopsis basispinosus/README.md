@@ -1,5 +1,4 @@
-Marginulinopsis basispinosus SPECIES
-=======
+# Marginulinopsis basispinosus SPECIES
 
 #### Status
 ACCEPTED

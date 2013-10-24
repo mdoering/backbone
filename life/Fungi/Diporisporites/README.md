@@ -1,5 +1,4 @@
-Diporisporites Hammen GENUS
-=======
+# Diporisporites Hammen GENUS
 
 #### Status
 ACCEPTED

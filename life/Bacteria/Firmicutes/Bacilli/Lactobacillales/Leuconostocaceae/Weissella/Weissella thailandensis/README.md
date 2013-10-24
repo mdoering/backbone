@@ -1,5 +1,4 @@
-Weissella thailandensis Tanasupawat et al., 2000 SPECIES
-=======
+# Weissella thailandensis Tanasupawat et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

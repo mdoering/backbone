@@ -1,5 +1,4 @@
-Stigmina lavrensis (Viégas) M.B. Ellis SPECIES
-=======
+# Stigmina lavrensis (Viégas) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

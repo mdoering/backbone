@@ -1,5 +1,4 @@
-Lecanora phylliscum Nyl. SPECIES
-=======
+# Lecanora phylliscum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia erecta Thaxt. SPECIES
-=======
+# Laboulbenia erecta Thaxt. SPECIES
 
 #### Status
 ACCEPTED

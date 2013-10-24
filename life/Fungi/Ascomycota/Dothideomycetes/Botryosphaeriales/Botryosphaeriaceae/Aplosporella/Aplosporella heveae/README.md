@@ -1,5 +1,4 @@
-Aplosporella heveae Saccas SPECIES
-=======
+# Aplosporella heveae Saccas SPECIES
 
 #### Status
 ACCEPTED

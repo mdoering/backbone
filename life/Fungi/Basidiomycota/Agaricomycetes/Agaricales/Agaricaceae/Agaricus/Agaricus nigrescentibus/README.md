@@ -1,5 +1,4 @@
-Agaricus nigrescentibus Heinem. SPECIES
-=======
+# Agaricus nigrescentibus Heinem. SPECIES
 
 #### Status
 ACCEPTED

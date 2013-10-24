@@ -1,5 +1,4 @@
-Laestadia orontii (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Laestadia orontii (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

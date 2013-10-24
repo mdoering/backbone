@@ -1,5 +1,4 @@
-Paramecium sinaiticum Ehrenberg in Hemprich & Ehrenberg, 1831 SPECIES
-=======
+# Paramecium sinaiticum Ehrenberg in Hemprich & Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

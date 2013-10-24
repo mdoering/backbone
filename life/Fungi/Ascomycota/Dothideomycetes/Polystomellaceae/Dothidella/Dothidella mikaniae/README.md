@@ -1,5 +1,4 @@
-Dothidella mikaniae Henn. SPECIES
-=======
+# Dothidella mikaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

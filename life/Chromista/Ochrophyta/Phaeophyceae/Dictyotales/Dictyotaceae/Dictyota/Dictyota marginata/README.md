@@ -1,5 +1,4 @@
-Dictyota marginata (J. Agardh ex J. Agardh) Hörnig, Schnetter & Prud'homme van Reine, nom. illeg. SPECIES
-=======
+# Dictyota marginata (J. Agardh ex J. Agardh) Hörnig, Schnetter & Prud'homme van Reine, nom. illeg. SPECIES
 
 #### Status
 ACCEPTED

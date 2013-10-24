@@ -1,5 +1,4 @@
-Agaricus ascalus Pers. SPECIES
-=======
+# Agaricus ascalus Pers. SPECIES
 
 #### Status
 ACCEPTED

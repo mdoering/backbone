@@ -1,5 +1,4 @@
-Ploesconia ovalis Fromentel, 1876 SPECIES
-=======
+# Ploesconia ovalis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

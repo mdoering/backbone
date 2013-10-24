@@ -1,5 +1,4 @@
-Irenina australiana Hansf. SPECIES
-=======
+# Irenina australiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

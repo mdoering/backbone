@@ -1,5 +1,4 @@
-Cryptosporidium nasorum Hoover et al., 1981 SPECIES
-=======
+# Cryptosporidium nasorum Hoover et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

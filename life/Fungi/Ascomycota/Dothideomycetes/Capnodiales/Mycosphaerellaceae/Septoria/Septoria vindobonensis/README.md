@@ -1,5 +1,4 @@
-Septoria vindobonensis Petr. SPECIES
-=======
+# Septoria vindobonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

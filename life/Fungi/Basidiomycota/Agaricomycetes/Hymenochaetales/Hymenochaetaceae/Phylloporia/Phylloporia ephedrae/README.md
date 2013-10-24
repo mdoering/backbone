@@ -1,5 +1,4 @@
-Phylloporia ephedrae (Woron.) Parmasto, 1985 SPECIES
-=======
+# Phylloporia ephedrae (Woron.) Parmasto, 1985 SPECIES
 
 #### Status
 ACCEPTED

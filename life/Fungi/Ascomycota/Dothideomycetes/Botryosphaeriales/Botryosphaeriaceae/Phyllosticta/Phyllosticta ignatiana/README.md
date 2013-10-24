@@ -1,5 +1,4 @@
-Phyllosticta ignatiana Unamuno SPECIES
-=======
+# Phyllosticta ignatiana Unamuno SPECIES
 
 #### Status
 ACCEPTED

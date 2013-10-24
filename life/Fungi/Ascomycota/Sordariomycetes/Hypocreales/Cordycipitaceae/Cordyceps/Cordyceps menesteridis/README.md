@@ -1,5 +1,4 @@
-Cordyceps menesteridis F. Muell. & Berk. SPECIES
-=======
+# Cordyceps menesteridis F. Muell. & Berk. SPECIES
 
 #### Status
 ACCEPTED

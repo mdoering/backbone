@@ -1,5 +1,4 @@
-Achroomyces fimicola (J. Schröt.) Mig. SPECIES
-=======
+# Achroomyces fimicola (J. Schröt.) Mig. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volkovia C. Downie, 1982 GENUS
-=======
+# Volkovia C. Downie, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas spectabilis Deflandre SPECIES
-=======
+# Trachelomonas spectabilis Deflandre SPECIES
 
 #### Status
 ACCEPTED

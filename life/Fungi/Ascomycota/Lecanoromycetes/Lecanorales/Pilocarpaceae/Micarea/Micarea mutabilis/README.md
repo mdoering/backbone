@@ -1,5 +1,4 @@
-Micarea mutabilis Coppins & Kantvilas SPECIES
-=======
+# Micarea mutabilis Coppins & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

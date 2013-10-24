@@ -1,5 +1,4 @@
-Streptotinia arisaematis Whetzel, 1945 SPECIES
-=======
+# Streptotinia arisaematis Whetzel, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosporium centaurii Fuckel SPECIES
-=======
+# Apiosporium centaurii Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Erysiphe kydiae (R.K. Verma, Chand & Kamal) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe kydiae-calycinae (R.K. Verma, Chand & Kamal) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 21 (2000)
 
 #### Original name
 Uncinula kydiae-calycinae R.K. Verma, Chand & Kamal

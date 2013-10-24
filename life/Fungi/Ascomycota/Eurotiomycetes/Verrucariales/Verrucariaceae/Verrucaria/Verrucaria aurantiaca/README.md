@@ -1,5 +1,4 @@
-Verrucaria aurantiaca (Lightf.) Hoffm. SPECIES
-=======
+# Verrucaria aurantiaca (Lightf.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

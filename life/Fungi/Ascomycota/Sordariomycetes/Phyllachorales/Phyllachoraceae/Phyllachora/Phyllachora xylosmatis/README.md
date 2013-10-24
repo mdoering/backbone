@@ -1,5 +1,4 @@
-Phyllachora xylosmatis Speg., 1912 SPECIES
-=======
+# Phyllachora xylosmatis Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

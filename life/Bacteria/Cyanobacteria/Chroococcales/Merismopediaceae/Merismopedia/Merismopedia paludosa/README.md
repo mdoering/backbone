@@ -1,5 +1,4 @@
-Merismopedia paludosa Bennet SPECIES
-=======
+# Merismopedia paludosa Bennet SPECIES
 
 #### Status
 ACCEPTED

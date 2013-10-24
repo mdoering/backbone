@@ -1,5 +1,4 @@
-Boletus fragilipes C. Mart. SPECIES
-=======
+# Boletus fragilipes C. Mart. SPECIES
 
 #### Status
 ACCEPTED

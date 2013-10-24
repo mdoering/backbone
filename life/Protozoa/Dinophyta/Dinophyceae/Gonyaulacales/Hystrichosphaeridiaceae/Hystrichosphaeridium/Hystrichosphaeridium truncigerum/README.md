@@ -1,5 +1,4 @@
-Hystrichosphaeridium truncigerum Deflandre SPECIES
-=======
+# Hystrichosphaeridium truncigerum Deflandre SPECIES
 
 #### Status
 ACCEPTED

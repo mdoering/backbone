@@ -1,5 +1,4 @@
-Trochammina Parker & Jones, 1859 GENUS
-=======
+# Trochammina Parker & Jones, 1859 GENUS
 
 #### Status
 ACCEPTED

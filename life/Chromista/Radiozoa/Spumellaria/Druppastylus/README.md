@@ -1,5 +1,4 @@
-Druppastylus Cayeux, 1897 GENUS
-=======
+# Druppastylus Cayeux, 1897 GENUS
 
 #### Status
 ACCEPTED

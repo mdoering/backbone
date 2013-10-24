@@ -1,5 +1,4 @@
-Lepiota arenicola Peck SPECIES
-=======
+# Lepiota arenicola Peck SPECIES
 
 #### Status
 ACCEPTED

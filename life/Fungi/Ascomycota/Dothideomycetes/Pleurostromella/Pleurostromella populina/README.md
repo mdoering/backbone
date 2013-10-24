@@ -1,5 +1,4 @@
-Pleurostromella populina Petr. SPECIES
-=======
+# Pleurostromella populina Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guepinia cyphella Fr. SPECIES
-=======
+# Guepinia cyphella Fr. SPECIES
 
 #### Status
 ACCEPTED

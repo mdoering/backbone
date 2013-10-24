@@ -1,5 +1,4 @@
-Phialophora intermedia Iwatsu, Udagawa & Toyaz., 1988 SPECIES
-=======
+# Phialophora intermedia Iwatsu, Udagawa & Toyaz., 1988 SPECIES
 
 #### Status
 ACCEPTED

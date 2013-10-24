@@ -1,5 +1,4 @@
-Arthopyrenia pandanicola (Nyl.) H. Magn. SPECIES
-=======
+# Arthopyrenia pandanicola (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

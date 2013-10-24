@@ -1,5 +1,4 @@
-Pleomassaria vandasii Bubák SPECIES
-=======
+# Pleomassaria vandasii Bubák SPECIES
 
 #### Status
 ACCEPTED

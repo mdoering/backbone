@@ -1,5 +1,4 @@
-Arthromyces matolae T.J. Baroni, Lodge & Lindner, 2007 SPECIES
-=======
+# Arthromyces matolae T.J. Baroni, Lodge & Lindner, 2007 SPECIES
 
 #### Status
 ACCEPTED

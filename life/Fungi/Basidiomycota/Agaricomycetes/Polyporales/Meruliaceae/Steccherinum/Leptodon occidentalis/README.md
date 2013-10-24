@@ -1,5 +1,4 @@
-Leptodon occidentalis (Fr.) Quél. SPECIES
-=======
+# Leptodon occidentalis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

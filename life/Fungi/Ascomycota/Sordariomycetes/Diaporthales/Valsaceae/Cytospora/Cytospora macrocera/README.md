@@ -1,5 +1,4 @@
-Cytospora macrocera Speg. SPECIES
-=======
+# Cytospora macrocera Speg. SPECIES
 
 #### Status
 ACCEPTED

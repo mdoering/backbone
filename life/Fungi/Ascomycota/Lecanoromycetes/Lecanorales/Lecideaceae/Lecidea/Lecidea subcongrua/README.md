@@ -1,5 +1,4 @@
-Lecidea subcongrua var. subcongrua VARIETY
-=======
+# Lecidea subcongrua Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea subcongrua var. subcongrua
+Lecidea subcongrua Nyl.
 
 ### Remarks
 null

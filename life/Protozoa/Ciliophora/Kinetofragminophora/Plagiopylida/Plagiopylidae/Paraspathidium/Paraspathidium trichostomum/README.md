@@ -1,5 +1,4 @@
-Paraspathidium trichostomum Noland, 1937 SPECIES
-=======
+# Paraspathidium trichostomum Noland, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon laccatum Fr. SPECIES
-=======
+# Stereocaulon laccatum Fr. SPECIES
 
 #### Status
 ACCEPTED

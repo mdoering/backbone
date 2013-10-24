@@ -1,5 +1,4 @@
-Colletogloeum fouquieriae Pollack & B. Sutton SPECIES
-=======
+# Colletogloeum fouquieriae Pollack & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

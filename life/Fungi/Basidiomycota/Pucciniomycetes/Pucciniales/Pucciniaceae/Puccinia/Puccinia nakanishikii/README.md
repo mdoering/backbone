@@ -1,14 +1,13 @@
-Dicaeoma nakanishikii (Dietel) Syd., 1922 SPECIES
-=======
+# Puccinia nakanishikii Dietel, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 118 (1922)
+Engler's Bot. Jahrb. 34: 585 (1904)
 
 #### Original name
 Puccinia nakanishikii Dietel, 1905

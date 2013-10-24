@@ -1,5 +1,4 @@
-Blumeriella haddenii M.A. Will. & E.C. Bernard, 1988 SPECIES
-=======
+# Blumeriella haddenii M.A. Will. & E.C. Bernard, 1988 SPECIES
 
 #### Status
 ACCEPTED

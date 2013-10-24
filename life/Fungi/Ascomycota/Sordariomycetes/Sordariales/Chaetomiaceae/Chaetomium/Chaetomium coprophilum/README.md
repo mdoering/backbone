@@ -1,5 +1,4 @@
-Chaetomium coprophilum Narendra & V.G. Rao SPECIES
-=======
+# Chaetomium coprophilum Narendra & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces scleranthi Rostr. SPECIES
-=======
+# Uromyces scleranthi Rostr. SPECIES
 
 #### Status
 ACCEPTED

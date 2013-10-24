@@ -1,5 +1,4 @@
-Stagonospora sibirica (Sacc.) Sacc. SPECIES
-=======
+# Stagonospora sibirica (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

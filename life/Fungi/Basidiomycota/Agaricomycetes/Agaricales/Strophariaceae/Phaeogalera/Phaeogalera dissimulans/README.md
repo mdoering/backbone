@@ -1,17 +1,16 @@
-Phaeogalera dissimulans f. dissimulans FORM
-=======
+# Phaeogalera dissimulans (Berk. & Broome) Holec, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 55(1): 83 (2003)
 
 #### Original name
-null
+Agaricus dissimulans Berk. & Broome, 1882
 
 ### Remarks
 null

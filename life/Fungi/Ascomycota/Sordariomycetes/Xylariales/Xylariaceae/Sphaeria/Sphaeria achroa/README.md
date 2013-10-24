@@ -1,5 +1,4 @@
-Sphaeria achroa DC. SPECIES
-=======
+# Sphaeria achroa DC. SPECIES
 
 #### Status
 ACCEPTED

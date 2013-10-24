@@ -1,5 +1,4 @@
-Cortinarius gracilis Peck SPECIES
-=======
+# Cortinarius gracilis Peck SPECIES
 
 #### Status
 ACCEPTED

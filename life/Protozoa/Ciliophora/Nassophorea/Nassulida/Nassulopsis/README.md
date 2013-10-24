@@ -1,5 +1,4 @@
-Nassulopsis Foissner, Berger & Kohmann, 1994 GENUS
-=======
+# Nassulopsis Foissner, Berger & Kohmann, 1994 GENUS
 
 #### Status
 ACCEPTED

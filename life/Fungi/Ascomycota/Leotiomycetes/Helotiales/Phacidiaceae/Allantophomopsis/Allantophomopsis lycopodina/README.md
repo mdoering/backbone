@@ -1,14 +1,13 @@
-Strasseria lycopodina (Höhn.) Höhn., 1924 SPECIES
-=======
+# Allantophomopsis lycopodina (Höhn.) Carris, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 68(10): 2290 (1990)
 
 #### Original name
 Neottiospora lycopodina Höhn., 1909

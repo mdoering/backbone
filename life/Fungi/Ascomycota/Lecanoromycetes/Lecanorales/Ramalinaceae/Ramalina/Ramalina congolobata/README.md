@@ -1,5 +1,4 @@
-Ramalina congolobata H. Magn. SPECIES
-=======
+# Ramalina congolobata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

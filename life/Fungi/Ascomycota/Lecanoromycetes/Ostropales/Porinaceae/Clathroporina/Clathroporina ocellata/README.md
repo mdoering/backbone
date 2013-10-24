@@ -1,5 +1,4 @@
-Clathroporina ocellata (Malme) Zahlbr. SPECIES
-=======
+# Clathroporina ocellata (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

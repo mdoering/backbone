@@ -1,5 +1,4 @@
-Phoma gyneriicola Cooke & Massee SPECIES
-=======
+# Phoma gyneriicola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

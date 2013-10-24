@@ -1,14 +1,13 @@
-Parmeliella minor Darb. SPECIES
-=======
+# Fuscopannaria minor (Darb.) P.M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Z. Jl Bot. 37(2): 261 (1999)
 
 #### Original name
 Parmeliella minor Darb.

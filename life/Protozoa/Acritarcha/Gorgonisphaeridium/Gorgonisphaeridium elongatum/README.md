@@ -1,5 +1,4 @@
-Gorgonisphaeridium elongatum Wicander, 1974 SPECIES
-=======
+# Gorgonisphaeridium elongatum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

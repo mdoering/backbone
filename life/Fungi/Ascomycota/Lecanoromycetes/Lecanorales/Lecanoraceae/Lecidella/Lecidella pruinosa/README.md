@@ -1,5 +1,4 @@
-Lecidella pruinosa Körb. SPECIES
-=======
+# Lecidella pruinosa Körb. SPECIES
 
 #### Status
 ACCEPTED

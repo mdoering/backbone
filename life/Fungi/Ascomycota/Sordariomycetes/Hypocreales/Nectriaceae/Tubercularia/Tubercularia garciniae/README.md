@@ -1,5 +1,4 @@
-Tubercularia garciniae Henn. SPECIES
-=======
+# Tubercularia garciniae Henn. SPECIES
 
 #### Status
 ACCEPTED

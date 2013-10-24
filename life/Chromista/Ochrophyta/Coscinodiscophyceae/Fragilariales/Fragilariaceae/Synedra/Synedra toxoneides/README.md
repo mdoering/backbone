@@ -1,5 +1,4 @@
-Synedra toxoneides var. curvata Castracane, 1880 VARIETY
-=======
+# Synedra toxoneides Castracane, 1880 SPECIES
 
 #### Status
 ACCEPTED

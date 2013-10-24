@@ -1,17 +1,16 @@
-Polyporus platyporus Berk., 1851 SPECIES
-=======
+# Polyporus udus Jungh., 1840 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 3: 81 (1851)
+Tijdschr. Nat. Gesch. Physiol. 7: 289 (1840)
 
 #### Original name
-Polyporus platyporus Berk., 1851
+Polyporus udus Jungh., 1840
 
 ### Remarks
 null

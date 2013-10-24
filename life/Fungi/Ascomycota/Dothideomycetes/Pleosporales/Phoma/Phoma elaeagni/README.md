@@ -1,5 +1,4 @@
-Phoma elaeagni var. elaeagni VARIETY
-=======
+# Phoma elaeagni Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma elaeagni var. elaeagni
+Phoma elaeagni Sacc.
 
 ### Remarks
 null

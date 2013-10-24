@@ -1,8 +1,7 @@
-Hymenoscypha subtilissima J. Schröt. SPECIES
-=======
+# Hymenoscyphus subtilissima J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha subtilissima J. Schröt.
+Hymenoscyphus subtilissima J. Schröt.
 
 ### Remarks
 null

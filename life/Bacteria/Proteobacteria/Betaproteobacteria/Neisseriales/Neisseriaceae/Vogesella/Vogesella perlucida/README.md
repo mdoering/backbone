@@ -1,5 +1,4 @@
-Vogesella perlucida Yi-Ju Chou, 2008 accepted SPECIES
-=======
+# Vogesella perlucida Yi-Ju Chou, 2008 accepted SPECIES
 
 #### Status
 ACCEPTED

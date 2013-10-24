@@ -1,5 +1,4 @@
-Lecidora GENUS
-=======
+# Lecidora GENUS
 
 #### Status
 ACCEPTED

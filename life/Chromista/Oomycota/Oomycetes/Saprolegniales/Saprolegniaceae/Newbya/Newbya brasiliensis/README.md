@@ -1,14 +1,13 @@
-Achlya brasiliensis A.I. Milanez, 1965 SPECIES
-=======
+# Newbya brasiliensis (A.I. Milanez) Mark A. Spencer, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rickia 2: 184 (1965)
+in Spencer, Vick & Dick, Mycol. Res. 106(5): 559 (2002)
 
 #### Original name
 Achlya brasiliensis A.I. Milanez, 1965

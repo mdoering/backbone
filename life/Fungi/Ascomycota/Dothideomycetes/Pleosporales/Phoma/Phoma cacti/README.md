@@ -1,5 +1,4 @@
-Phoma cacti SPECIES
-=======
+# Phoma cacti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia callosa var. callosa VARIETY
-=======
+# Physcia callosa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Flora, Jena 52: 119 (1869)
+null
 
 #### Original name
-Physcia callosa var. callosa
+null
 
 ### Remarks
 null

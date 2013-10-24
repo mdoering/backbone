@@ -1,5 +1,4 @@
-Lecanora variata Stizenb. SPECIES
-=======
+# Lecanora variata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

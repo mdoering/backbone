@@ -1,5 +1,4 @@
-Phyllachora javanica (Koord.) Petr., 1931 SPECIES
-=======
+# Phyllachora javanica (Koord.) Petr., 1931 SPECIES
 
 #### Status
 DOUBTFUL

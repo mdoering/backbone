@@ -1,5 +1,4 @@
-Kamatia indica V.G. Rao & Subhedar, 1976 SPECIES
-=======
+# Kamatia indica V.G. Rao & Subhedar, 1976 SPECIES
 
 #### Status
 ACCEPTED

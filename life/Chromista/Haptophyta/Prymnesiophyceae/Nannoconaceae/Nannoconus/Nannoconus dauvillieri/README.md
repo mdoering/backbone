@@ -1,5 +1,4 @@
-Nannoconus dauvillieri Deflandre & Deflandre, 1959 SPECIES
-=======
+# Nannoconus dauvillieri Deflandre & Deflandre, 1959 SPECIES
 
 #### Status
 ACCEPTED

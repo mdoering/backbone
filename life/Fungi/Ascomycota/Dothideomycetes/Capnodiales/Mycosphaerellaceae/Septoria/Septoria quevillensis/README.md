@@ -1,5 +1,4 @@
-Septoria quevillensis Sacc., 1884 SPECIES
-=======
+# Septoria quevillensis Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

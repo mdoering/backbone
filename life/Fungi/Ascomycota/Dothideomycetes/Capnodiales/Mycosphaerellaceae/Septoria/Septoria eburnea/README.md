@@ -1,5 +1,4 @@
-Septoria eburnea Höhn. SPECIES
-=======
+# Septoria eburnea Höhn. SPECIES
 
 #### Status
 ACCEPTED

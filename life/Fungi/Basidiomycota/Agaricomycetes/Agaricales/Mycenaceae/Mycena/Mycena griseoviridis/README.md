@@ -1,5 +1,4 @@
-Mycena griseoviridis A.H. Sm. SPECIES
-=======
+# Mycena griseoviridis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

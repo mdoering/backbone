@@ -1,17 +1,16 @@
-Lanzia moniliformae S.K. Gautam & D.C. Pant SPECIES
-=======
+# Lanzia moniliformis S.K. Gautam & D.C. Pant SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 37(1): 93 (1984)
 
 #### Original name
-Lanzia moniliformae S.K. Gautam & D.C. Pant
+Lanzia moniliformis S.K. Gautam & D.C. Pant
 
 ### Remarks
 null

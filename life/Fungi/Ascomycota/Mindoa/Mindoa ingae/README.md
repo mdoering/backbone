@@ -1,5 +1,4 @@
-Mindoa ingae Petr., 1949 SPECIES
-=======
+# Mindoa ingae Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

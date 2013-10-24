@@ -1,5 +1,4 @@
-Clasterosporium proteae M.B. Ellis SPECIES
-=======
+# Clasterosporium proteae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

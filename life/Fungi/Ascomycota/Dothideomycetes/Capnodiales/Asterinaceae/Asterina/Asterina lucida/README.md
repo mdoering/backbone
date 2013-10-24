@@ -1,5 +1,4 @@
-Asterina lucida Bat. SPECIES
-=======
+# Asterina lucida Bat. SPECIES
 
 #### Status
 ACCEPTED

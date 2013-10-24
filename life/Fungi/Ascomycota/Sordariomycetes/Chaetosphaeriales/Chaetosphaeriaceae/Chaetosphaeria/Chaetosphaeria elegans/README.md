@@ -1,5 +1,4 @@
-Chaetosphaeria elegans Rick SPECIES
-=======
+# Chaetosphaeria elegans Rick SPECIES
 
 #### Status
 ACCEPTED

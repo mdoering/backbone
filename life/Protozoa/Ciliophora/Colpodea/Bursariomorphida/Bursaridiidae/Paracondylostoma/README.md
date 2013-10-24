@@ -1,5 +1,4 @@
-Paracondylostoma Foissner, 1980 GENUS
-=======
+# Paracondylostoma Foissner, 1980 GENUS
 
 #### Status
 ACCEPTED

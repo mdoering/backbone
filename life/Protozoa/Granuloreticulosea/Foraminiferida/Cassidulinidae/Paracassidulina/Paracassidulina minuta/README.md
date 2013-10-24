@@ -1,5 +1,4 @@
-Paracassidulina minuta (Cushman, 1983) SPECIES
-=======
+# Paracassidulina minuta (Cushman, 1983) SPECIES
 
 #### Status
 ACCEPTED

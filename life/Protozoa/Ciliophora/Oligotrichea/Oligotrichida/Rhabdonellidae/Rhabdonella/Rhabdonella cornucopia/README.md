@@ -1,5 +1,4 @@
-Rhabdonella cornucopia Kofoid & Campbell, 1929 SPECIES
-=======
+# Rhabdonella cornucopia Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

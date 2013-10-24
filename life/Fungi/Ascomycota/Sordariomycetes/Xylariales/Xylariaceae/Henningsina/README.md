@@ -1,5 +1,4 @@
-Henningsina GENUS
-=======
+# Henningsina GENUS
 
 #### Status
 ACCEPTED

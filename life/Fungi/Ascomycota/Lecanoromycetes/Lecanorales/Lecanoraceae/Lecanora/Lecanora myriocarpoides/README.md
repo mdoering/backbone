@@ -1,5 +1,4 @@
-Lecanora myriocarpoides Vain. SPECIES
-=======
+# Lecanora myriocarpoides Vain. SPECIES
 
 #### Status
 ACCEPTED

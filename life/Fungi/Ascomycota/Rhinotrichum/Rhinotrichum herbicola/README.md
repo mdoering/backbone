@@ -1,5 +1,4 @@
-Rhinotrichum herbicola Ellis & Dearn. SPECIES
-=======
+# Rhinotrichum herbicola Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

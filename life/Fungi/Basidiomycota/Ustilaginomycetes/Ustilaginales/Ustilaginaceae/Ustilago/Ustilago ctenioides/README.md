@@ -1,5 +1,4 @@
-Ustilago ctenioides Vánky SPECIES
-=======
+# Ustilago ctenioides Vánky SPECIES
 
 #### Status
 ACCEPTED

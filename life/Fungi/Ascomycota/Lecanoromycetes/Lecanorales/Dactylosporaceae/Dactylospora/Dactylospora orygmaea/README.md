@@ -1,5 +1,4 @@
-Dactylospora orygmaea (Nyl.) S.Y. Kondr. & D.J. Galloway SPECIES
-=======
+# Dactylospora orygmaea (Nyl.) S.Y. Kondr. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia enderythraea Zahlbr. SPECIES
-=======
+# Hypotrachyna enderythraea (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 34 (1975)
 
 #### Original name
-null
+Parmelia enderythraea Zahlbr.
 
 ### Remarks
 null

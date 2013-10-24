@@ -1,5 +1,4 @@
-Liliosphaeridium pennatum (Deunff, 1977) Playord, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Liliosphaeridium pennatum (Deunff, 1977) Playord, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

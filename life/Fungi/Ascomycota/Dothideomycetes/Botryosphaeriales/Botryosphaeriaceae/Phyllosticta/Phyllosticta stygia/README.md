@@ -1,5 +1,4 @@
-Phyllosticta stygia Maire SPECIES
-=======
+# Phyllosticta stygia Maire SPECIES
 
 #### Status
 ACCEPTED

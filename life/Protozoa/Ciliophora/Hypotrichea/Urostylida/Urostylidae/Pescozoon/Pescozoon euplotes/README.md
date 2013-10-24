@@ -1,5 +1,4 @@
-Pescozoon euplotes (Dragesco, 1960) Jankowski, 1978 SPECIES
-=======
+# Pescozoon euplotes (Dragesco, 1960) Jankowski, 1978 SPECIES
 
 #### Status
 ACCEPTED

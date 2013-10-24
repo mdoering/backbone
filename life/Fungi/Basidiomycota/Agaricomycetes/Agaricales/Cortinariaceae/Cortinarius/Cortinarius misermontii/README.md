@@ -1,5 +1,4 @@
-Cortinarius misermontii Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius misermontii Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

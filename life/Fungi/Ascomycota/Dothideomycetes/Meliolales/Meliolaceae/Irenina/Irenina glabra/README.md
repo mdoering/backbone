@@ -1,5 +1,4 @@
-Irenina glabra (Berk. & M.A. Curtis) F. Stevens SPECIES
-=======
+# Irenina glabra (Berk. & M.A. Curtis) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

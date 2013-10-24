@@ -1,17 +1,16 @@
-Diachea verrucospora Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Diachea silvaepluvialis M.L. Farr, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. U. S. natnl. Herb. 37(6): 409 (1969)
 
 #### Original name
-null
+Diachea silvaepluvialis M.L. Farr, 1969
 
 ### Remarks
 null

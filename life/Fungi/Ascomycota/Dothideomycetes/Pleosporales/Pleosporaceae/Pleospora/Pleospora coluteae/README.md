@@ -1,5 +1,4 @@
-Pleospora coluteae (Goid.) Wehm. SPECIES
-=======
+# Pleospora coluteae (Goid.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

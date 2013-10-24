@@ -1,5 +1,4 @@
-Humaria obtusipila Pat. SPECIES
-=======
+# Humaria obtusipila Pat. SPECIES
 
 #### Status
 ACCEPTED

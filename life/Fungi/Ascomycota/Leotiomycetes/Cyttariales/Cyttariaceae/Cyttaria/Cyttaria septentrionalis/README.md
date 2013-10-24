@@ -1,5 +1,4 @@
-Cyttaria septentrionalis D.A. Herb. SPECIES
-=======
+# Cyttaria septentrionalis D.A. Herb. SPECIES
 
 #### Status
 ACCEPTED

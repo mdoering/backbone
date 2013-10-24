@@ -1,5 +1,4 @@
-Penicillifer macrosporus Samuels SPECIES
-=======
+# Penicillifer macrosporus Samuels SPECIES
 
 #### Status
 ACCEPTED

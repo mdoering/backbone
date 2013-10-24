@@ -1,5 +1,4 @@
-Phragmidium constrictum Bonord. SPECIES
-=======
+# Phragmidium constrictum Bonord. SPECIES
 
 #### Status
 ACCEPTED

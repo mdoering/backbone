@@ -1,5 +1,4 @@
-Proboscia Sundström GENUS
-=======
+# Proboscia Sundström GENUS
 
 #### Status
 ACCEPTED

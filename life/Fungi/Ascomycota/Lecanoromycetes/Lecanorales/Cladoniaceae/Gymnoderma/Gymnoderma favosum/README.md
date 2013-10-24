@@ -1,5 +1,4 @@
-Gymnoderma favosum Hoffm. SPECIES
-=======
+# Gymnoderma favosum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

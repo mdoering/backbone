@@ -1,5 +1,4 @@
-Acaropeltis Petr. GENUS
-=======
+# Acaropeltis Petr. GENUS
 
 #### Status
 ACCEPTED

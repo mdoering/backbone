@@ -1,5 +1,4 @@
-Athigmatocysta glabra Duxbury, 1977 SPECIES
-=======
+# Athigmatocysta glabra Duxbury, 1977 SPECIES
 
 #### Status
 DOUBTFUL

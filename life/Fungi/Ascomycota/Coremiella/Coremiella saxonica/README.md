@@ -1,5 +1,4 @@
-Coremiella saxonica (J. Lindau) Feurich SPECIES
-=======
+# Coremiella saxonica (J. Lindau) Feurich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigeromyces caninae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Peltigeromyces caninae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus uvula sensu Fromentel, 1876 SPECIES
-=======
+# Engelmanniella mobilis (Engelmann, 1862) Foissner, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

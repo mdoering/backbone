@@ -1,5 +1,4 @@
-Trochammina squamata SPECIES
-=======
+# Trochammina squamata SPECIES
 
 #### Status
 ACCEPTED

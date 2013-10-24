@@ -1,5 +1,4 @@
-Sordaria spermatiophora Cain SPECIES
-=======
+# Sordaria spermatiophora Cain SPECIES
 
 #### Status
 ACCEPTED

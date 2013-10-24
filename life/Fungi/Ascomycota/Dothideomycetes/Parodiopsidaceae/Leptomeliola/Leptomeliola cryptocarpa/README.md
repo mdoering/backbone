@@ -1,5 +1,4 @@
-Leptomeliola cryptocarpa (Ellis & G. Martin) S. Hughes SPECIES
-=======
+# Leptomeliola cryptocarpa (Ellis & G. Martin) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

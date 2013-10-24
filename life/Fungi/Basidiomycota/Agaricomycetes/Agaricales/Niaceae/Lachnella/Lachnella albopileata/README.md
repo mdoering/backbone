@@ -1,5 +1,4 @@
-Lachnella albopileata SPECIES
-=======
+# Lachnella albopileata SPECIES
 
 #### Status
 ACCEPTED

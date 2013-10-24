@@ -1,5 +1,4 @@
-Russula obtecta Singer SPECIES
-=======
+# Russula obtecta Singer SPECIES
 
 #### Status
 ACCEPTED

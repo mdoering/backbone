@@ -1,17 +1,16 @@
-Cyphella cheesmani Massee SPECIES
-=======
+# Cyphella cheesmanii Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 38: 411 (1909)
 
 #### Original name
-Cyphella cheesmani Massee
+Cyphella cheesmanii Massee
 
 ### Remarks
 null

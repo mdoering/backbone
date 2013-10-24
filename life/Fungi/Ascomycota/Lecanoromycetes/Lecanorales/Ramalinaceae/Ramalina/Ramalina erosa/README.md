@@ -1,5 +1,4 @@
-Ramalina erosa Krog SPECIES
-=======
+# Ramalina erosa Krog SPECIES
 
 #### Status
 ACCEPTED

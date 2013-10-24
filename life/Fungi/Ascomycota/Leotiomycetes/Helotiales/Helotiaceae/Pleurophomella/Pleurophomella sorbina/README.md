@@ -1,5 +1,4 @@
-Pleurophomella sorbina (P. Karst.) Höhn. SPECIES
-=======
+# Pleurophomella sorbina (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

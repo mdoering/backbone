@@ -1,17 +1,16 @@
-Poria cinnamomea var. dupla Rick VARIETY
-=======
+# Phellinus ferreus (Pers.) Bourdot & Galzin, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 7: 289 (1960)
+Hyménomyc. de France (Sceaux) 627 (1928)
 
 #### Original name
-Poria cinnamomea var. dupla Rick
+Polyporus ferreus Pers., 1825
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mallomonas epithalattia Droop SPECIES
-=======
+# Mallomonas epithalattia Droop SPECIES
 
 #### Status
 ACCEPTED

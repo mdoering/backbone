@@ -1,5 +1,4 @@
-Lecanactiomyces abietinae Cif. & Tomas. SPECIES
-=======
+# Lecanactiomyces abietinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

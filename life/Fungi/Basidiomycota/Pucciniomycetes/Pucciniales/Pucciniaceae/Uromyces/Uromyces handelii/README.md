@@ -1,5 +1,4 @@
-Uromyces handelii Bubák SPECIES
-=======
+# Uromyces handelii Bubák SPECIES
 
 #### Status
 ACCEPTED

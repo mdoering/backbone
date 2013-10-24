@@ -1,5 +1,4 @@
-Coccomyces acerinus (Schumach.) Quél. SPECIES
-=======
+# Coccomyces acerinus (Schumach.) Quél. SPECIES
 
 #### Status
 ACCEPTED

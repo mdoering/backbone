@@ -1,5 +1,4 @@
-Agrocybe tibetensis (Massee) Guzmán SPECIES
-=======
+# Agrocybe tibetensis (Massee) Guzmán SPECIES
 
 #### Status
 ACCEPTED

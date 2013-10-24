@@ -1,5 +1,4 @@
-Phyllosticta atractyli Koval SPECIES
-=======
+# Phyllosticta atractyli Koval SPECIES
 
 #### Status
 ACCEPTED

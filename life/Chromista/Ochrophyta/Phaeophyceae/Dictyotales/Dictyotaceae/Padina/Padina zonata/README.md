@@ -1,5 +1,4 @@
-Padina zonata Gaillon SPECIES
-=======
+# Padina zonata Gaillon SPECIES
 
 #### Status
 ACCEPTED

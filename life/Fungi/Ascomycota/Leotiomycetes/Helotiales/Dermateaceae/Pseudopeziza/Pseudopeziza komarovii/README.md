@@ -1,5 +1,4 @@
-Pseudopeziza komarovii Jacz. SPECIES
-=======
+# Pseudopeziza komarovii Jacz. SPECIES
 
 #### Status
 ACCEPTED

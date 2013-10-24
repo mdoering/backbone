@@ -1,5 +1,4 @@
-Phyllosticta alliacea Motohashi, Jun. Nishikawa & C. Nakash. SPECIES
-=======
+# Phyllosticta alliacea Motohashi, Jun. Nishikawa & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

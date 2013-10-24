@@ -1,5 +1,4 @@
-Sphaeria myricariae Fuckel SPECIES
-=======
+# Sphaeria myricariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

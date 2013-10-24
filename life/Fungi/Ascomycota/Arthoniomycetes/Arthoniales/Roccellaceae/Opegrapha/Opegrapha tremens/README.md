@@ -1,5 +1,4 @@
-Opegrapha tremens Chevall. SPECIES
-=======
+# Opegrapha tremens Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium celastri Berk. & M.A. Curtis SPECIES
-=======
+# Leptothyrium celastri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colteronema funebre Copeland SPECIES
-=======
+# Colteronema funebre Copeland SPECIES
 
 #### Status
 ACCEPTED

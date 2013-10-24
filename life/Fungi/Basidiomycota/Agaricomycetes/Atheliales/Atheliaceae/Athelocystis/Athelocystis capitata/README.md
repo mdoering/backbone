@@ -1,5 +1,4 @@
-Athelocystis capitata Hjortstam & Ryvarden, 2010 SPECIES
-=======
+# Athelocystis capitata Hjortstam & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

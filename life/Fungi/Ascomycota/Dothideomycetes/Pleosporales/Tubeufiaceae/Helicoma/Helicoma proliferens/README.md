@@ -1,5 +1,4 @@
-Helicoma proliferens Linder SPECIES
-=======
+# Helicoma proliferens Linder SPECIES
 
 #### Status
 ACCEPTED

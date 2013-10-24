@@ -1,5 +1,4 @@
-Chamaeceras alphitodes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras alphitodes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

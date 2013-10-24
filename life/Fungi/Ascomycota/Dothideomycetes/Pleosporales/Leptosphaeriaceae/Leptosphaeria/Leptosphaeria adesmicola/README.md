@@ -1,5 +1,4 @@
-Leptosphaeria adesmicola (Speg.) L. Holm SPECIES
-=======
+# Leptosphaeria adesmicola (Speg.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

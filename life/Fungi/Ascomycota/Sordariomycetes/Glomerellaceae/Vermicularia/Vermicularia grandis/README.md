@@ -1,5 +1,4 @@
-Vermicularia grandis Pass. & Beltr. SPECIES
-=======
+# Vermicularia grandis Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia kurokawae Hale SPECIES
-=======
+# Parmelia kurokawae Hale SPECIES
 
 #### Status
 ACCEPTED

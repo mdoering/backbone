@@ -1,5 +1,4 @@
-Aspergillus inuii Sakag., Iizuka & M. Yamaz., 1950 SPECIES
-=======
+# Aspergillus inuii Sakag., Iizuka & M. Yamaz., 1950 SPECIES
 
 #### Status
 ACCEPTED

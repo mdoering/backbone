@@ -1,5 +1,4 @@
-Mycena subcucullata A.H. Sm. SPECIES
-=======
+# Mycena subcucullata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

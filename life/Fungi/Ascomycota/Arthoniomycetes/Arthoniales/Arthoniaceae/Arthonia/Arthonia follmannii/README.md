@@ -1,5 +1,4 @@
-Arthonia follmannii C.W. Dodge SPECIES
-=======
+# Arthonia follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

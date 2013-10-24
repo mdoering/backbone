@@ -1,5 +1,4 @@
-Rhabdospora bosciana Sacc. SPECIES
-=======
+# Rhabdospora bosciana Sacc. SPECIES
 
 #### Status
 ACCEPTED

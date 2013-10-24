@@ -1,5 +1,4 @@
-Macalpinomyces tubiformis R.G. Shivas & Vánky, 2004 SPECIES
-=======
+# Macalpinomyces tubiformis R.G. Shivas & Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

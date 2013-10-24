@@ -1,17 +1,16 @@
-Hydnum graveolens var. graveolens VARIETY
-=======
+# Phellodon melaleucus (Sw. ex Fr.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 509 (1838)
+Revue mycol. , Toulouse 3(9): 19 (1881)
 
 #### Original name
-Hydnum graveolens var. graveolens
+Hydnum melaleucum Sw. ex Fr., 1815
 
 ### Remarks
 null

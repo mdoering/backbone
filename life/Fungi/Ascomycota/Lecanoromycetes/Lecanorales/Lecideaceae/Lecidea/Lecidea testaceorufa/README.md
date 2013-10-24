@@ -1,5 +1,4 @@
-Lecidea testaceorufa (Vain.) Hue SPECIES
-=======
+# Lecidea testaceorufa (Vain.) Hue SPECIES
 
 #### Status
 ACCEPTED

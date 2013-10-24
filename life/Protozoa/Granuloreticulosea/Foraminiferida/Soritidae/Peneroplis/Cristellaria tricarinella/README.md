@@ -1,5 +1,4 @@
-Cristellaria tricarinella Reuss, 1862 SPECIES
-=======
+# Cristellaria tricarinella Reuss, 1862 SPECIES
 
 #### Status
 DOUBTFUL

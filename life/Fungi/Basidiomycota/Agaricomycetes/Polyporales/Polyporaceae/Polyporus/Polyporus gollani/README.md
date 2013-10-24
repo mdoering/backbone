@@ -1,5 +1,4 @@
-Polyporus gollani Henn. SPECIES
-=======
+# Polyporus gollani Henn. SPECIES
 
 #### Status
 ACCEPTED

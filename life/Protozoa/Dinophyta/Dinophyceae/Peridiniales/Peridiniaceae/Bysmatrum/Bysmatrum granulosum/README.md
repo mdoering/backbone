@@ -1,5 +1,4 @@
-Bysmatrum granulosum L. Ten-Hage, J.P. Quod, J. Turquet & A. Couté SPECIES
-=======
+# Bysmatrum granulosum L. Ten-Hage, J.P. Quod, J. Turquet & A. Couté SPECIES
 
 #### Status
 ACCEPTED

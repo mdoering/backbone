@@ -1,5 +1,4 @@
-Arachnocoronium Haeckel, 1887 GENUS
-=======
+# Arachnocoronium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

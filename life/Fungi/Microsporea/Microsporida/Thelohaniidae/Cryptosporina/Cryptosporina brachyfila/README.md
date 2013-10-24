@@ -1,5 +1,4 @@
-Cryptosporina brachyfila E.I. Hazard & Oldacre, 1975 SPECIES
-=======
+# Cryptosporina brachyfila E.I. Hazard & Oldacre, 1975 SPECIES
 
 #### Status
 ACCEPTED

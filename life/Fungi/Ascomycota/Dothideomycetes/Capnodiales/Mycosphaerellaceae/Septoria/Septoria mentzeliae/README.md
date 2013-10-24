@@ -1,5 +1,4 @@
-Septoria mentzeliae Ellis & Kellerm. SPECIES
-=======
+# Septoria mentzeliae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

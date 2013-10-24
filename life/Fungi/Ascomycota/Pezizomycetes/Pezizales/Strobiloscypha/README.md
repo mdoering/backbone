@@ -1,5 +1,4 @@
-Strobiloscypha N.S. Weber & Denison GENUS
-=======
+# Strobiloscypha N.S. Weber & Denison GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Everticyclamminidae Septfontaine, 1988 FAMILY
-=======
+# Everticyclamminidae Septfontaine, 1988 FAMILY
 
 #### Status
 ACCEPTED

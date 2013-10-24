@@ -1,14 +1,13 @@
-Stigonema epheboides F. Wilson SPECIES
-=======
+# Ephebe epheboides (F. Wilson) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 28: 354 (1891)
+Symb. bot. upsal. 18: 54 (1963)
 
 #### Original name
 Stigonema epheboides F. Wilson

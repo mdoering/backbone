@@ -1,5 +1,4 @@
-Didymella pulposi var. pulposi VARIETY
-=======
+# Didymellopsis pulposi (Zopf) Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 51(3-4): 302 (1990)
 
 #### Original name
-Didymella pulposi var. pulposi
+Didymosphaeria pulposi Zopf
 
 ### Remarks
 null

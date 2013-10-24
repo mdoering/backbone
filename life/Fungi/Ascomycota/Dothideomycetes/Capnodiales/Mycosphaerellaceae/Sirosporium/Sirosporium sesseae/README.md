@@ -1,5 +1,4 @@
-Sirosporium sesseae (Pat.) M.B. Ellis SPECIES
-=======
+# Sirosporium sesseae (Pat.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

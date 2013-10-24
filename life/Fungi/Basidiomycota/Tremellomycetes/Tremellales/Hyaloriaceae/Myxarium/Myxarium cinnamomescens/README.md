@@ -1,5 +1,4 @@
-Myxarium cinnamomescens (Raitv.) Raitv. SPECIES
-=======
+# Myxarium cinnamomescens (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

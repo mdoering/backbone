@@ -1,5 +1,4 @@
-Gloeosporiopsis vinal Speg. SPECIES
-=======
+# Gloeosporiopsis vinal Speg. SPECIES
 
 #### Status
 ACCEPTED

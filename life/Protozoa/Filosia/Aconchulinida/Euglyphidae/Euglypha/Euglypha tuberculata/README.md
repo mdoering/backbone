@@ -1,5 +1,4 @@
-Euglypha tuberculata Dujardin, 1841 SPECIES
-=======
+# Euglypha tuberculata Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

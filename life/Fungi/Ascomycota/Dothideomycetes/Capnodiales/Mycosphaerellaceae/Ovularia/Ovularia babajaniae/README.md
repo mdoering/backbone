@@ -1,17 +1,16 @@
-Ovularia babajanii Osipian SPECIES
-=======
+# Ovularia babajaniae Osipian SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikol. Fitopatol. 5(1): 87 (1971)
 
 #### Original name
-Ovularia babajanii Osipian
+Ovularia babajaniae Osipian
 
 ### Remarks
 null

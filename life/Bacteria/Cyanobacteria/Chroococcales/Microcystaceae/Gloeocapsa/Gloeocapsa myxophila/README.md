@@ -1,5 +1,4 @@
-Gloeocapsa myxophila Beck-Mannagetta SPECIES
-=======
+# Gloeocapsa myxophila Beck-Mannagetta SPECIES
 
 #### Status
 ACCEPTED

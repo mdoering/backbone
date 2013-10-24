@@ -1,5 +1,4 @@
-Graphis plumierae Vain. SPECIES
-=======
+# Graphis plumierae Vain. SPECIES
 
 #### Status
 ACCEPTED

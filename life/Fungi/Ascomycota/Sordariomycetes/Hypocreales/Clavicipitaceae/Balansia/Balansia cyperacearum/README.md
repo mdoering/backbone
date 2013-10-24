@@ -1,5 +1,4 @@
-Balansia cyperacearum (Berk. & M.A. Curtis) Diehl SPECIES
-=======
+# Balansia cyperacearum (Berk. & M.A. Curtis) Diehl SPECIES
 
 #### Status
 ACCEPTED

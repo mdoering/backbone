@@ -1,5 +1,4 @@
-Caloplaca suaedae O.L. Gilbert & Coppins SPECIES
-=======
+# Caloplaca suaedae O.L. Gilbert & Coppins SPECIES
 
 #### Status
 ACCEPTED

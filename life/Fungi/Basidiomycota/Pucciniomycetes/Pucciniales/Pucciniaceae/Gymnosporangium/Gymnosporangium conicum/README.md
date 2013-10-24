@@ -1,5 +1,4 @@
-Gymnosporangium conicum Reess SPECIES
-=======
+# Gymnosporangium conicum Reess SPECIES
 
 #### Status
 ACCEPTED

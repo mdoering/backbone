@@ -1,5 +1,4 @@
-Mycosphaerella gordoniae (Cooke) J.H. Mill. SPECIES
-=======
+# Mycosphaerella gordoniae (Cooke) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago distichlidis (McAlpine) Cif. SPECIES
-=======
+# Ustilago distichlidis (McAlpine) Cif. SPECIES
 
 #### Status
 ACCEPTED

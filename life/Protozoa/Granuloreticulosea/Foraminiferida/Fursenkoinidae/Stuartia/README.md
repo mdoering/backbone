@@ -1,5 +1,4 @@
-Stuartia McCulloch, 1977 GENUS
-=======
+# Stuartia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

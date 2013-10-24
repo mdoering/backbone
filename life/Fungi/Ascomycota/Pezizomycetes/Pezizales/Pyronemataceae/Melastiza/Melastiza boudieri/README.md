@@ -1,5 +1,4 @@
-Melastiza boudieri (Höhn.) Le Gal SPECIES
-=======
+# Melastiza boudieri (Höhn.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

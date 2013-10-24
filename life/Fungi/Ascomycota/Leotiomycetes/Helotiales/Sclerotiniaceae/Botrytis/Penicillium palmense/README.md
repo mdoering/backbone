@@ -1,5 +1,4 @@
-Penicillium palmense C. Ramírez, A.T. Martínez & Ferrer, 1978 SPECIES
-=======
+# Penicillium palmense C. Ramírez, A.T. Martínez & Ferrer, 1978 SPECIES
 
 #### Status
 DOUBTFUL

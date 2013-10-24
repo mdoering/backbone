@@ -1,5 +1,4 @@
-Polystictus subcaperatus Lloyd SPECIES
-=======
+# Polystictus subcaperatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

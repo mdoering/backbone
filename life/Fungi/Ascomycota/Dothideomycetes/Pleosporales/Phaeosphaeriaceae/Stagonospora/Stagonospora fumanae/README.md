@@ -1,5 +1,4 @@
-Stagonospora fumanae Hollós SPECIES
-=======
+# Stagonospora fumanae Hollós SPECIES
 
 #### Status
 ACCEPTED

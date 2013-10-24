@@ -1,5 +1,4 @@
-Stegonsporium curvatum Corda SPECIES
-=======
+# Stegonsporium curvatum Corda SPECIES
 
 #### Status
 ACCEPTED

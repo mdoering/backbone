@@ -1,8 +1,7 @@
-Sphingomonas herbicidovorans Zipper et al., 1997 SPECIES
-=======
+# Sphingobium herbicidovorans (Zipper et al., 1997) Takeuchi et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

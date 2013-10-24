@@ -1,5 +1,4 @@
-Dendrosarcus campanulatus (Peck) Kuntze SPECIES
-=======
+# Dendrosarcus campanulatus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

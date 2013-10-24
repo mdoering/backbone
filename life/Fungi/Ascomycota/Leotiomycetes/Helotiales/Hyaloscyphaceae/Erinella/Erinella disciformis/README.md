@@ -1,5 +1,4 @@
-Erinella disciformis Henn. & E. Nyman SPECIES
-=======
+# Erinella disciformis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

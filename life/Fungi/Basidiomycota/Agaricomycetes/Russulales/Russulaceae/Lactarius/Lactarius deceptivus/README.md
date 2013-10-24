@@ -1,5 +1,4 @@
-Lactarius deceptivus Peck SPECIES
-=======
+# Lactarius deceptivus Peck SPECIES
 
 #### Status
 ACCEPTED

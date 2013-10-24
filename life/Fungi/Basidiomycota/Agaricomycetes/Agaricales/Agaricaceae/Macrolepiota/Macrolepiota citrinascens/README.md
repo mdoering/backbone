@@ -1,5 +1,4 @@
-Macrolepiota citrinascens Vasas SPECIES
-=======
+# Macrolepiota citrinascens Vasas SPECIES
 
 #### Status
 ACCEPTED

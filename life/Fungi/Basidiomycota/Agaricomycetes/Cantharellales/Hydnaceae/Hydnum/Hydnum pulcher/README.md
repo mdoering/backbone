@@ -1,5 +1,4 @@
-Hydnum pulcher Lloyd SPECIES
-=======
+# Hydnum pulcher Lloyd SPECIES
 
 #### Status
 ACCEPTED

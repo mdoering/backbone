@@ -1,5 +1,4 @@
-Petractis thelotremella (Bagl.) Vezda SPECIES
-=======
+# Petractis thelotremella (Bagl.) Vezda SPECIES
 
 #### Status
 ACCEPTED

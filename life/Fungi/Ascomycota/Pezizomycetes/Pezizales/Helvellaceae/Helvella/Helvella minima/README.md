@@ -1,5 +1,4 @@
-Helvella minima Scop. SPECIES
-=======
+# Helvella minima Scop. SPECIES
 
 #### Status
 ACCEPTED

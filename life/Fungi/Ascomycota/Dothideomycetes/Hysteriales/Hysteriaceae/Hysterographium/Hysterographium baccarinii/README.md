@@ -1,5 +1,4 @@
-Hysterographium baccarinii Scalia SPECIES
-=======
+# Hysterographium baccarinii Scalia SPECIES
 
 #### Status
 ACCEPTED

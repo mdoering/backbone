@@ -1,17 +1,16 @@
-Usnea barbata var. microcarpoides (Müll. Arg.) Müll. Arg. VARIETY
-=======
+# Usnea ramulosissima G. N. Stevens & R. W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. R. Soc. Qd. 90: 45 (1979)
 
 #### Original name
-null
+Usnea ramulosissima G. N. Stevens & R. W. Rogers
 
 ### Remarks
 null

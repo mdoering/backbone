@@ -1,5 +1,4 @@
-Mycosphaerella subostiolica (Aggéry) M. Morelet SPECIES
-=======
+# Mycosphaerella subostiolica (Aggéry) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

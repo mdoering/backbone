@@ -1,5 +1,4 @@
-Campylobacter fetus subsp. venerealis SUBSPECIES
-=======
+# Campylobacter fetus (Smith & Taylor, 1919) Sebald & Véron, 1963 SPECIES
 
 #### Status
 ACCEPTED

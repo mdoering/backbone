@@ -1,5 +1,4 @@
-Cylindrocarpon cedri Mamuk. SPECIES
-=======
+# Cylindrocarpon cedri Mamuk. SPECIES
 
 #### Status
 ACCEPTED

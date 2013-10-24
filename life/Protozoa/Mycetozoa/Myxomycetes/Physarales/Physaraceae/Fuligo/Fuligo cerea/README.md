@@ -1,5 +1,4 @@
-Fuligo cerea Sowerby SPECIES
-=======
+# Fuligo cerea Sowerby SPECIES
 
 #### Status
 ACCEPTED

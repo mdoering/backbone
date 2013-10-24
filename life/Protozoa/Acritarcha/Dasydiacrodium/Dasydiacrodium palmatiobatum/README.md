@@ -1,5 +1,4 @@
-Dasydiacrodium palmatiobatum Timofeev, 1959 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Dasydiacrodium palmatiobatum Timofeev, 1959 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

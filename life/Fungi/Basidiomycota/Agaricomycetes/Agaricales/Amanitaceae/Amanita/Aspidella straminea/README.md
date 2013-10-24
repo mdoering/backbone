@@ -1,5 +1,4 @@
-Aspidella straminea (Cleland) E.-J. Gilbert SPECIES
-=======
+# Aspidella straminea (Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

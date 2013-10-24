@@ -1,5 +1,4 @@
-Crocicreas bactrosporum S.E. Carp. SPECIES
-=======
+# Crocicreas bactrosporum S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta lucumae (Henn.) Wollenw. SPECIES
-=======
+# Ascochyta lucumae (Henn.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

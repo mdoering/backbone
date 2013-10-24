@@ -1,5 +1,4 @@
-Allodus cornuta (H.S. Jacks. & Holw.) Arthur & Orton SPECIES
-=======
+# Allodus cornuta (H.S. Jacks. & Holw.) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia rhynchosporae F. Stevens SPECIES
-=======
+# Guignardia rhynchosporae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

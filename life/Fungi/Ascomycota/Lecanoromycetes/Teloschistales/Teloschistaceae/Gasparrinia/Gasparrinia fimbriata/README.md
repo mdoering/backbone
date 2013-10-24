@@ -1,5 +1,4 @@
-Gasparrinia fimbriata Eitner SPECIES
-=======
+# Gasparrinia fimbriata Eitner SPECIES
 
 #### Status
 ACCEPTED

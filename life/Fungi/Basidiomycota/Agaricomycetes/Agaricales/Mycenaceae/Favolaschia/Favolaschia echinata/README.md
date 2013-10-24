@@ -1,5 +1,4 @@
-Favolaschia echinata Singer, 1951 SPECIES
-=======
+# Favolaschia echinata Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED

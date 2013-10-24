@@ -1,5 +1,4 @@
-Agaricus chrysenterus Pers. SPECIES
-=======
+# Agaricus chrysenterus Pers. SPECIES
 
 #### Status
 ACCEPTED

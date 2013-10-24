@@ -1,5 +1,4 @@
-Uromyces caladii Farl. SPECIES
-=======
+# Uromyces caladii Farl. SPECIES
 
 #### Status
 ACCEPTED

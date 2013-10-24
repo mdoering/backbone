@@ -1,5 +1,4 @@
-Hyalopus albidus Kidd & Beaumont SPECIES
-=======
+# Hyalopus albidus Kidd & Beaumont SPECIES
 
 #### Status
 ACCEPTED

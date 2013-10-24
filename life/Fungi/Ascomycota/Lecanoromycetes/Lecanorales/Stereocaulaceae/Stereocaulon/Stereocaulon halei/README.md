@@ -1,5 +1,4 @@
-Stereocaulon halei I.M. Lamb SPECIES
-=======
+# Stereocaulon halei I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

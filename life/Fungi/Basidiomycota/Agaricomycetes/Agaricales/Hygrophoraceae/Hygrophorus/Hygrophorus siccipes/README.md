@@ -1,5 +1,4 @@
-Hygrophorus siccipes A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus siccipes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

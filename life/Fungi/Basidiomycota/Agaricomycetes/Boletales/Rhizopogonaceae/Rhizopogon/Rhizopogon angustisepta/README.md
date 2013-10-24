@@ -1,5 +1,4 @@
-Rhizopogon angustisepta Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon angustisepta Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

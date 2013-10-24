@@ -1,5 +1,4 @@
-Rhizopogon pseudovillosulus A.H. Sm., 1966 SPECIES
-=======
+# Rhizopogon pseudovillosulus A.H. Sm., 1966 SPECIES
 
 #### Status
 ACCEPTED

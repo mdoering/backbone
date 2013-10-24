@@ -1,5 +1,4 @@
-Meliola naucina Syd. SPECIES
-=======
+# Meliola naucina Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia hollii Rabenh. SPECIES
-=======
+# Tubercularia hollii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

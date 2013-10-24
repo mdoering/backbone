@@ -1,5 +1,4 @@
-Bacidia amylothelia Vain. SPECIES
-=======
+# Bacidia amylothelia Vain. SPECIES
 
 #### Status
 ACCEPTED

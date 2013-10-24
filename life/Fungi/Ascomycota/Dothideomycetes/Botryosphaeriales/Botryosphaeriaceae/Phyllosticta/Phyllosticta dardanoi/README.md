@@ -1,5 +1,4 @@
-Phyllosticta dardanoi Bat. SPECIES
-=======
+# Phyllosticta dardanoi Bat. SPECIES
 
 #### Status
 ACCEPTED

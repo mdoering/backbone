@@ -1,5 +1,4 @@
-Dothiorella maculosa Sacc. SPECIES
-=======
+# Dothiorella maculosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus depressus Pat. SPECIES
-=======
+# Polyporus depressus Pat. SPECIES
 
 #### Status
 ACCEPTED

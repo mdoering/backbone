@@ -1,5 +1,4 @@
-Legionella pneumophila subsp. pneumophila SUBSPECIES
-=======
+# Legionella pneumophila Brenner et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

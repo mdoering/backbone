@@ -1,5 +1,4 @@
-Patouillardiella copaiferae Viégas & Teixeira SPECIES
-=======
+# Patouillardiella copaiferae Viégas & Teixeira SPECIES
 
 #### Status
 ACCEPTED

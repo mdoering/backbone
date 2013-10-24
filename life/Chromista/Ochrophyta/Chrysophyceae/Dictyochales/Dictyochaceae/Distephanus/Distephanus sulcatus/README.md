@@ -1,5 +1,4 @@
-Distephanus sulcatus D. Bukry SPECIES
-=======
+# Distephanus sulcatus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

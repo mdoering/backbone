@@ -1,5 +1,4 @@
-Patellaria atrofusca Berk. & M.A. Curtis SPECIES
-=======
+# Patellaria atrofusca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

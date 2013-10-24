@@ -1,5 +1,4 @@
-Cercostigmina ekebergiae Crous & B. Sutton SPECIES
-=======
+# Cercostigmina ekebergiae Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta salicis Kellerm. & Swingle SPECIES
-=======
+# Phyllosticta salicis Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

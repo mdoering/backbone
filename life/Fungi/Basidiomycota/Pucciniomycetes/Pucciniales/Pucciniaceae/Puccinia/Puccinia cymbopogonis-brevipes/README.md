@@ -1,5 +1,4 @@
-Puccinia cymbopogonis-brevipes J.M. Yen SPECIES
-=======
+# Puccinia cymbopogonis-brevipes J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

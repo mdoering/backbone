@@ -1,5 +1,4 @@
-Zythia annularis (Berk. & Broome) Sacc. SPECIES
-=======
+# Zythia annularis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

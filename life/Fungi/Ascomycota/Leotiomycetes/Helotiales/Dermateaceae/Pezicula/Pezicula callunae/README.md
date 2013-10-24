@@ -1,5 +1,4 @@
-Pezicula callunae Mouton SPECIES
-=======
+# Pezicula callunae Mouton SPECIES
 
 #### Status
 ACCEPTED

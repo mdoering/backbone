@@ -1,5 +1,4 @@
-Coprinus aurantiacus Henn. & E. Nyman SPECIES
-=======
+# Coprinus aurantiacus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

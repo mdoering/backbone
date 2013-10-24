@@ -1,5 +1,4 @@
-Podoscypha gillesii Boidin & Lanq., 1973 SPECIES
-=======
+# Podoscypha gillesii Boidin & Lanq., 1973 SPECIES
 
 #### Status
 ACCEPTED

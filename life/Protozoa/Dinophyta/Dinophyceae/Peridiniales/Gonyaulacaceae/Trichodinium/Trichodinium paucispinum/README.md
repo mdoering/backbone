@@ -1,5 +1,4 @@
-Trichodinium paucispinum Eisenack & Cookson, 1960 SPECIES
-=======
+# Trichodinium paucispinum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

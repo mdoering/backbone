@@ -1,5 +1,4 @@
-Dasyscyphus heveae (Massee) Dennis & D.A. Reid SPECIES
-=======
+# Dasyscyphus heveae (Massee) Dennis & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

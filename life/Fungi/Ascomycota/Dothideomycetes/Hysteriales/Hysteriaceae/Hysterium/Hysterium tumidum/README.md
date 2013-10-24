@@ -1,5 +1,4 @@
-Hysterium tumidum ß trigonum Fr. SPECIES
-=======
+# Hysterium tumidum ß trigonum Fr. SPECIES
 
 #### Status
 ACCEPTED

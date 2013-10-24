@@ -1,5 +1,4 @@
-Corticium paniculatum Burt SPECIES
-=======
+# Corticium paniculatum Burt SPECIES
 
 #### Status
 ACCEPTED

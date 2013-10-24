@@ -1,5 +1,4 @@
-Ophiobolus alismatis Feltgen SPECIES
-=======
+# Ophiobolus alismatis Feltgen SPECIES
 
 #### Status
 ACCEPTED

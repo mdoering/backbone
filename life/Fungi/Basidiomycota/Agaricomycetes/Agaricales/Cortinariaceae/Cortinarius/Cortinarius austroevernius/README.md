@@ -1,5 +1,4 @@
-Cortinarius austroevernius Cleland & Cheel SPECIES
-=======
+# Cortinarius austroevernius Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes badia Pat. SPECIES
-=======
+# Trametes badia Pat. SPECIES
 
 #### Status
 ACCEPTED

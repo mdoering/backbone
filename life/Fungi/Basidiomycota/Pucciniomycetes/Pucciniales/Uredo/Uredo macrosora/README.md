@@ -1,5 +1,4 @@
-Uredo macrosora Peck SPECIES
-=======
+# Uredo macrosora Peck SPECIES
 
 #### Status
 ACCEPTED

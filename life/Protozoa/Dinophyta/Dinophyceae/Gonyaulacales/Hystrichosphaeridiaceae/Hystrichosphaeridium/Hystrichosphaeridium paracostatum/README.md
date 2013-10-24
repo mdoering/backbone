@@ -1,5 +1,4 @@
-Hystrichosphaeridium paracostatum Cookson & Eisenack, 1974 SPECIES
-=======
+# Hystrichosphaeridium paracostatum Cookson & Eisenack, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nosema infirmum Kudo SPECIES
-=======
+# Nosema infirmum Kudo SPECIES
 
 #### Status
 ACCEPTED

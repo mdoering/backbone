@@ -1,5 +1,4 @@
-Ramalina kardakovae Oxner SPECIES
-=======
+# Ramalina kardakovae Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Numulariola flosculosa (Starbäck) P.M.D. Martin SPECIES
-=======
+# Numulariola flosculosa (Starbäck) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

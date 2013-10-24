@@ -1,5 +1,4 @@
-Platycola aurita SPECIES
-=======
+# Platycola aurita SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia erinensis Dennis SPECIES
-=======
+# Collybia erinensis Dennis SPECIES
 
 #### Status
 ACCEPTED

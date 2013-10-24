@@ -1,5 +1,4 @@
-Sphaeria vanvleckii Schwein. SPECIES
-=======
+# Sphaeria vanvleckii Schwein. SPECIES
 
 #### Status
 ACCEPTED

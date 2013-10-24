@@ -1,5 +1,4 @@
-Botryosphaeria heterochroma (Wollenw.) Weese SPECIES
-=======
+# Botryosphaeria heterochroma (Wollenw.) Weese SPECIES
 
 #### Status
 ACCEPTED

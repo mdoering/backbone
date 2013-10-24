@@ -1,5 +1,4 @@
-Anthostomella rostraspora W. H. Hsieh et al., 1995 SPECIES
-=======
+# Anthostomella rostraspora W. H. Hsieh et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

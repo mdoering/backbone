@@ -1,5 +1,4 @@
-Mycena gackstatteri Raithelh. SPECIES
-=======
+# Mycena gackstatteri Raithelh. SPECIES
 
 #### Status
 ACCEPTED

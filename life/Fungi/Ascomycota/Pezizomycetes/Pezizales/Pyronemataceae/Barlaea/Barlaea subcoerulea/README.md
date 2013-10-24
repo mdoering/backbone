@@ -1,5 +1,4 @@
-Barlaea subcoerulea Kirschst. SPECIES
-=======
+# Barlaea subcoerulea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

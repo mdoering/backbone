@@ -1,5 +1,4 @@
-Uromyces shahrudensis Petr. SPECIES
-=======
+# Uromyces shahrudensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepidocollema carassense Vain. SPECIES
-=======
+# Lepidocollema carassense Vain. SPECIES
 
 #### Status
 ACCEPTED

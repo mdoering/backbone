@@ -1,5 +1,4 @@
-Rhabdospora halimodendri Murashk. SPECIES
-=======
+# Rhabdospora halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

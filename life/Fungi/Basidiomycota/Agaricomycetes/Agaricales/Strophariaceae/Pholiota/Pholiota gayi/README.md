@@ -1,5 +1,4 @@
-Pholiota gayi (Roum.) Sacc. SPECIES
-=======
+# Pholiota gayi (Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium sesami I. Miyake SPECIES
-=======
+# Helminthosporium sesami I. Miyake SPECIES
 
 #### Status
 ACCEPTED

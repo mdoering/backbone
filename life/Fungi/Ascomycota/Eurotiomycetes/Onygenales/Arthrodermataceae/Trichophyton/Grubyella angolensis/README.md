@@ -1,5 +1,4 @@
-Grubyella angolensis (Mello & Paes) Brumpt SPECIES
-=======
+# Grubyella angolensis (Mello & Paes) Brumpt SPECIES
 
 #### Status
 ACCEPTED

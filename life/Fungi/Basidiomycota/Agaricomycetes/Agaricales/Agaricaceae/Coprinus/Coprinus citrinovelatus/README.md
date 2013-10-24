@@ -1,5 +1,4 @@
-Coprinus citrinovelatus E. Ludw. & P. Roux SPECIES
-=======
+# Coprinus citrinovelatus E. Ludw. & P. Roux SPECIES
 
 #### Status
 ACCEPTED

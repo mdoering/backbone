@@ -1,5 +1,4 @@
-Dimerella vincentina Vain. SPECIES
-=======
+# Dimerella vincentina Vain. SPECIES
 
 #### Status
 ACCEPTED

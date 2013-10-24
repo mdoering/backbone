@@ -1,5 +1,4 @@
-Stictis punctiformis Pers. SPECIES
-=======
+# Stictis punctiformis Pers. SPECIES
 
 #### Status
 ACCEPTED

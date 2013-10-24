@@ -1,5 +1,4 @@
-Barlaeina orichalcea (Cooke) Sacc. & Traverso SPECIES
-=======
+# Barlaeina orichalcea (Cooke) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

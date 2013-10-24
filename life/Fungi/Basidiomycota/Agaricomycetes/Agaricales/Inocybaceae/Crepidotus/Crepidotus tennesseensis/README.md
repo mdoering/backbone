@@ -1,5 +1,4 @@
-Crepidotus tennesseensis Hesler SPECIES
-=======
+# Crepidotus tennesseensis Hesler SPECIES
 
 #### Status
 ACCEPTED

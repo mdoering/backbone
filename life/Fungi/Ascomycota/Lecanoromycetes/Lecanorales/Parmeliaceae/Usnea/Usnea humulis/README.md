@@ -1,5 +1,4 @@
-Usnea humulis Herre SPECIES
-=======
+# Usnea humulis Herre SPECIES
 
 #### Status
 ACCEPTED

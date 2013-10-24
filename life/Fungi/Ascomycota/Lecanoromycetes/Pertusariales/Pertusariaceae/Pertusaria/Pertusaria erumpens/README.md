@@ -1,5 +1,4 @@
-Pertusaria erumpens Erichsen SPECIES
-=======
+# Pertusaria erumpens Erichsen SPECIES
 
 #### Status
 ACCEPTED

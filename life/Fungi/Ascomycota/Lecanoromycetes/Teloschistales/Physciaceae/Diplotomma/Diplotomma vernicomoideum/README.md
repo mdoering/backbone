@@ -1,5 +1,4 @@
-Diplotomma vernicomoideum (Fink) Szatala SPECIES
-=======
+# Diplotomma vernicomoideum (Fink) Szatala SPECIES
 
 #### Status
 ACCEPTED

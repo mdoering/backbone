@@ -1,5 +1,4 @@
-Neoveryhachium carminae (Cramer, 1964) Cramer, 1970 SPECIES
-=======
+# Neoveryhachium carminae (Cramer, 1964) Cramer, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta intermixta Seaver SPECIES
-=======
+# Phyllosticta intermixta Seaver SPECIES
 
 #### Status
 ACCEPTED

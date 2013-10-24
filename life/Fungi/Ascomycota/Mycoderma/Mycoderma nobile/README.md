@@ -1,5 +1,4 @@
-Mycoderma nobile Sartory, J. Mey. & Charles SPECIES
-=======
+# Mycoderma nobile Sartory, J. Mey. & Charles SPECIES
 
 #### Status
 ACCEPTED

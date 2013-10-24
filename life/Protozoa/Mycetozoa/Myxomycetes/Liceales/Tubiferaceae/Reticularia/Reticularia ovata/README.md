@@ -1,5 +1,4 @@
-Reticularia ovata var. ovata (Schaeff.) With. VARIETY
-=======
+# Reticularia ovata Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Reticularia ovata var. ovata (Schaeff.) With.
+Reticularia ovata Fr.
 
 ### Remarks
 null

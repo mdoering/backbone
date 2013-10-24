@@ -1,17 +1,16 @@
-Phoma cytosporoides Sacc., 1879 SPECIES
-=======
+# Dinemasporium cytosporoides (Sacc.) B. Sutton, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 48: 613 (1965)
 
 #### Original name
-null
+Phoma cytosporioides Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporisorium cenchri (Lagerh.) Vánky SPECIES
-=======
+# Sporisorium cenchri (Lagerh.) Vánky SPECIES
 
 #### Status
 ACCEPTED

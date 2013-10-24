@@ -1,5 +1,4 @@
-Campylobacter hyointestinalis subsp. hyointestinalis SUBSPECIES
-=======
+# Campylobacter hyointestinalis Gebhart et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

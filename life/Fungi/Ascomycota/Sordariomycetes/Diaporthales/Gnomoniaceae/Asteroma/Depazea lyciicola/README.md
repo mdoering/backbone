@@ -1,5 +1,4 @@
-Depazea lyciicola Lasch SPECIES
-=======
+# Depazea lyciicola Lasch SPECIES
 
 #### Status
 ACCEPTED

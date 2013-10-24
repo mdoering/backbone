@@ -1,5 +1,4 @@
-Perisporiopsis lateritia P. Chaverri & Gazis, 2010 SPECIES
-=======
+# Perisporiopsis lateritia P. Chaverri & Gazis, 2010 SPECIES
 
 #### Status
 ACCEPTED

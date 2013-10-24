@@ -1,5 +1,4 @@
-Ophiobolus acerinus Feltgen SPECIES
-=======
+# Ophiobolus acerinus Feltgen SPECIES
 
 #### Status
 ACCEPTED

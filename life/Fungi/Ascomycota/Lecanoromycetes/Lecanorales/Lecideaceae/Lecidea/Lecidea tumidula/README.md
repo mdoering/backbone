@@ -1,5 +1,4 @@
-Lecidea tumidula A. Massal. SPECIES
-=======
+# Lecidea tumidula A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius radicibus A.E. Johnson SPECIES
-=======
+# Cortinarius radicibus A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

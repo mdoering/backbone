@@ -1,5 +1,4 @@
-Entoloma laceratum Largent SPECIES
-=======
+# Entoloma laceratum Largent SPECIES
 
 #### Status
 ACCEPTED

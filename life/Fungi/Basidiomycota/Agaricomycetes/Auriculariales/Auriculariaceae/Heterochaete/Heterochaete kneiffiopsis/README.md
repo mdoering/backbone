@@ -1,5 +1,4 @@
-Heterochaete kneiffiopsis Pat. SPECIES
-=======
+# Heterochaete kneiffiopsis Pat. SPECIES
 
 #### Status
 ACCEPTED

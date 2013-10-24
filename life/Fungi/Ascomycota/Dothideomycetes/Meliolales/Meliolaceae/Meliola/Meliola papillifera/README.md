@@ -1,5 +1,4 @@
-Meliola papillifera (Syd. & P. Syd.) Cif. SPECIES
-=======
+# Meliola papillifera (Syd. & P. Syd.) Cif. SPECIES
 
 #### Status
 ACCEPTED

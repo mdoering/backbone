@@ -1,5 +1,4 @@
-Cercospora medicaginis Ellis & Everh., 1891 SPECIES
-=======
+# Cercospora medicaginis Ellis & Everh., 1891 SPECIES
 
 #### Status
 ACCEPTED

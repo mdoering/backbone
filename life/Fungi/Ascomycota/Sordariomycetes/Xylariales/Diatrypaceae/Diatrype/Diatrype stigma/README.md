@@ -1,17 +1,16 @@
-Sphaeria stigma var. stigma VARIETY
-=======
+# Diatrype stigma (Hoffm.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veg. Crypt. 1: 7 (1787)
+Summa veg. Scand. (Stockholm), Section Post. 385 (1849)
 
 #### Original name
-Sphaeria stigma var. stigma
+Sphaeria stigma Hoffm., 1787
 
 ### Remarks
 null

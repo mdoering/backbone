@@ -1,5 +1,4 @@
-Sphaeria occulta (Fuckel) SPECIES
-=======
+# Sphaeria occulta (Fuckel) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum macrophyllum Zanardini, 1874 SPECIES
-=======
+# Sargassum macrophyllum Zanardini, 1874 SPECIES
 
 #### Status
 ACCEPTED

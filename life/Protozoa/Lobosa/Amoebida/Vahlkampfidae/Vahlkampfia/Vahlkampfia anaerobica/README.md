@@ -1,5 +1,4 @@
-Vahlkampfia anaerobica Smirnov & Fenchel, 1996 SPECIES
-=======
+# Vahlkampfia anaerobica Smirnov & Fenchel, 1996 SPECIES
 
 #### Status
 ACCEPTED

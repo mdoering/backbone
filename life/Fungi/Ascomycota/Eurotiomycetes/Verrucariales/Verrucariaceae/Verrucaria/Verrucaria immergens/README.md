@@ -1,5 +1,4 @@
-Verrucaria immergens Nyl. SPECIES
-=======
+# Verrucaria immergens Nyl. SPECIES
 
 #### Status
 ACCEPTED

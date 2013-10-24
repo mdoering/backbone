@@ -1,5 +1,4 @@
-Lycoperdon acuminatum var. acuminatum VARIETY
-=======
+# Lycoperdon acuminatum Bosc SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon acuminatum var. acuminatum
+Lycoperdon acuminatum Bosc
 
 ### Remarks
 null

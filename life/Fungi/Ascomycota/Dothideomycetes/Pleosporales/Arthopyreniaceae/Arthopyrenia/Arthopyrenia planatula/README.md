@@ -1,5 +1,4 @@
-Arthopyrenia planatula (Nyl.) Boistel SPECIES
-=======
+# Arthopyrenia planatula (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

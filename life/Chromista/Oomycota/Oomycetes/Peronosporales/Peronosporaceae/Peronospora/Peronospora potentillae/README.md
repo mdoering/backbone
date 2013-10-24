@@ -1,17 +1,16 @@
-Peronospora potentillae f. potentillae de Bary FORM
-=======
+# Peronospora potentillae de Bary SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 4 20: 124 (1863)
 
 #### Original name
-Peronospora potentillae f. potentillae de Bary
+Peronospora potentillae de Bary
 
 ### Remarks
 null

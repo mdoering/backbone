@@ -1,5 +1,4 @@
-Semilecanora glaucina Motyka SPECIES
-=======
+# Semilecanora glaucina Motyka SPECIES
 
 #### Status
 ACCEPTED

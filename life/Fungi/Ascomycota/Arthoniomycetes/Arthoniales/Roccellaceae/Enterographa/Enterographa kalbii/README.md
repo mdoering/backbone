@@ -1,5 +1,4 @@
-Enterographa kalbii Sparrius SPECIES
-=======
+# Enterographa kalbii Sparrius SPECIES
 
 #### Status
 ACCEPTED

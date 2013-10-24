@@ -1,5 +1,4 @@
-Ischnostroma Syd. & P. Syd. GENUS
-=======
+# Ischnostroma Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

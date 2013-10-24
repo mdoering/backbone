@@ -1,5 +1,4 @@
-Puccinia orientalis Otani & Akechi SPECIES
-=======
+# Puccinia orientalis Otani & Akechi SPECIES
 
 #### Status
 ACCEPTED

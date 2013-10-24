@@ -1,5 +1,4 @@
-Caloplaca schofieldii C.W. Dodge SPECIES
-=======
+# Caloplaca schofieldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

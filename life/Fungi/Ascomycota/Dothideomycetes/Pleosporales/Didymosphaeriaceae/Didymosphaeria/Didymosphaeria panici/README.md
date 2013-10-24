@@ -1,5 +1,4 @@
-Didymosphaeria panici Marchal & Steyaert SPECIES
-=======
+# Didymosphaeria panici Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

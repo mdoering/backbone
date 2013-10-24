@@ -1,5 +1,4 @@
-Dicaeoma caricis-polystachyae (Dietel) Arthur SPECIES
-=======
+# Dicaeoma caricis-polystachyae (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

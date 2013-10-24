@@ -1,5 +1,4 @@
-Mycolangloisia englerulae Hansf. SPECIES
-=======
+# Mycolangloisia englerulae Hansf. SPECIES
 
 #### Status
 ACCEPTED

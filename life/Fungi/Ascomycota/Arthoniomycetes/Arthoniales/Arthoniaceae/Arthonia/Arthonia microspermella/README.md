@@ -1,5 +1,4 @@
-Arthonia microspermella Willey SPECIES
-=======
+# Arthonia microspermella Willey SPECIES
 
 #### Status
 ACCEPTED

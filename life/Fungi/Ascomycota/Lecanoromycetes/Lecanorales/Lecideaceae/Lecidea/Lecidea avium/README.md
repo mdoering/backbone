@@ -1,5 +1,4 @@
-Lecidea avium Zahlbr. SPECIES
-=======
+# Lecidea avium Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

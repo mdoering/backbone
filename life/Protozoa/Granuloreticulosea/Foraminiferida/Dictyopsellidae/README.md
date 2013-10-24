@@ -1,5 +1,4 @@
-Dictyopsellidae Brönnimann, Zaninetti & Whittaker, 1983 FAMILY
-=======
+# Dictyopsellidae Brönnimann, Zaninetti & Whittaker, 1983 FAMILY
 
 #### Status
 ACCEPTED

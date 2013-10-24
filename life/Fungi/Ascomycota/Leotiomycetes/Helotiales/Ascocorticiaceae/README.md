@@ -1,5 +1,4 @@
-Ascocorticiaceae J. Schröt. FAMILY
-=======
+# Ascocorticiaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

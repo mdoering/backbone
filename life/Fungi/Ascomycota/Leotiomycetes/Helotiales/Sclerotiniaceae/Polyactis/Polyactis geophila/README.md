@@ -1,5 +1,4 @@
-Polyactis geophila Link SPECIES
-=======
+# Polyactis geophila Link SPECIES
 
 #### Status
 ACCEPTED

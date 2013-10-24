@@ -1,5 +1,4 @@
-Cladonia celata A. W. Archer SPECIES
-=======
+# Cladonia celata A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria platycarpa Jariangpr. SPECIES
-=======
+# Pertusaria platycarpa Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

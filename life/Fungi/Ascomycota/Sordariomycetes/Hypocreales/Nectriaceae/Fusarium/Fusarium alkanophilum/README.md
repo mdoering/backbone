@@ -1,5 +1,4 @@
-Fusarium alkanophilum Palacios-Prü & V. Marcano SPECIES
-=======
+# Fusarium alkanophilum Palacios-Prü & V. Marcano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia hazslinszkyi Zahlbr. SPECIES
-=======
+# Arthonia hazslinszkyi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

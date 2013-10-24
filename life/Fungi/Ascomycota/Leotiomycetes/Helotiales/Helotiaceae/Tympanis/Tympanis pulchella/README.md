@@ -1,5 +1,4 @@
-Tympanis pulchella Ouell. & Piroz. SPECIES
-=======
+# Tympanis pulchella Ouell. & Piroz. SPECIES
 
 #### Status
 ACCEPTED

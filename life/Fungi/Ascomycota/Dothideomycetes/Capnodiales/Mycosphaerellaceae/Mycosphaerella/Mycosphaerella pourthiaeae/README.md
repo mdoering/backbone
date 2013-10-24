@@ -1,5 +1,4 @@
-Mycosphaerella pourthiaeae Hara SPECIES
-=======
+# Mycosphaerella pourthiaeae Hara SPECIES
 
 #### Status
 ACCEPTED

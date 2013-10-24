@@ -1,5 +1,4 @@
-Waldoschmittia McCulloch, 1977 GENUS
-=======
+# Waldoschmittia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

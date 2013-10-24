@@ -1,5 +1,4 @@
-Tetrahymena sialidos Batson, 1985 SPECIES
-=======
+# Tetrahymena sialidos Batson, 1985 SPECIES
 
 #### Status
 ACCEPTED

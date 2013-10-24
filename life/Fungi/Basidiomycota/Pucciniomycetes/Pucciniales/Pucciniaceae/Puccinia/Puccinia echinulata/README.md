@@ -1,5 +1,4 @@
-Puccinia echinulata Jørst. SPECIES
-=======
+# Puccinia echinulata Jørst. SPECIES
 
 #### Status
 ACCEPTED

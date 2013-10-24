@@ -1,5 +1,4 @@
-Lecidea pernigrans Nyl. SPECIES
-=======
+# Lecidea pernigrans Nyl. SPECIES
 
 #### Status
 ACCEPTED

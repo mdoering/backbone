@@ -1,5 +1,4 @@
-Exidiopsis gloeophora (Oberw.) Wojewoda SPECIES
-=======
+# Exidiopsis gloeophora (Oberw.) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum pullum (Fr.) Bonord. SPECIES
-=======
+# Haplotrichum pullum (Fr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

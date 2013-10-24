@@ -1,8 +1,7 @@
-Psammatodendron arborescens Norman, 1881 SPECIES
-=======
+# Dendrophyra findens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Hormosinoides resimus Saidova, 1975 SPECIES
-=======
+# Hormosinoides resimus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

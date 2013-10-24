@@ -1,5 +1,4 @@
-Trichodinella Srámek-Husek, 1953 GENUS
-=======
+# Trichodinella Srámek-Husek, 1953 GENUS
 
 #### Status
 ACCEPTED

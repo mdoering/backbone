@@ -1,5 +1,4 @@
-Paracannopilus P.Dumitrica, 1978 GENUS
-=======
+# Paracannopilus P.Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

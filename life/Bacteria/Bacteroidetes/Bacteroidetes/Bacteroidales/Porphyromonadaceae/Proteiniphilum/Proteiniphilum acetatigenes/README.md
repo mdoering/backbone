@@ -1,5 +1,4 @@
-Proteiniphilum acetatigenes Chen & Dong, 2005 SPECIES
-=======
+# Proteiniphilum acetatigenes Chen & Dong, 2005 SPECIES
 
 #### Status
 ACCEPTED

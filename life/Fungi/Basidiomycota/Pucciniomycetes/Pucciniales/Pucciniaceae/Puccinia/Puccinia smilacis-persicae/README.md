@@ -1,5 +1,4 @@
-Puccinia smilacis-persicae Alé-Agha SPECIES
-=======
+# Puccinia smilacis-persicae Alé-Agha SPECIES
 
 #### Status
 ACCEPTED

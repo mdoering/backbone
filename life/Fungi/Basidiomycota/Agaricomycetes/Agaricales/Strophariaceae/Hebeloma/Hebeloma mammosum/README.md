@@ -1,5 +1,4 @@
-Hebeloma mammosum Rick SPECIES
-=======
+# Hebeloma mammosum Rick SPECIES
 
 #### Status
 ACCEPTED

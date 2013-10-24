@@ -1,5 +1,4 @@
-Pseudodiplodia corispermi (Hollós) Petr. SPECIES
-=======
+# Pseudodiplodia corispermi (Hollós) Petr. SPECIES
 
 #### Status
 ACCEPTED

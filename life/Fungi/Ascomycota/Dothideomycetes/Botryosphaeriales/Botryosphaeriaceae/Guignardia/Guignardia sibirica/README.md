@@ -1,5 +1,4 @@
-Guignardia sibirica Lavrov SPECIES
-=======
+# Guignardia sibirica Lavrov SPECIES
 
 #### Status
 ACCEPTED

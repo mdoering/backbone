@@ -1,5 +1,4 @@
-Cryptostictis cadicola B. Sutton SPECIES
-=======
+# Cryptostictis cadicola B. Sutton SPECIES
 
 #### Status
 ACCEPTED

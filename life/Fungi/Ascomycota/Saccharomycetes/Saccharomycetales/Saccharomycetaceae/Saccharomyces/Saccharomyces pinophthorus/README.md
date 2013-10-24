@@ -1,5 +1,4 @@
-Saccharomyces pinophthorus Van Hest SPECIES
-=======
+# Saccharomyces pinophthorus Van Hest SPECIES
 
 #### Status
 ACCEPTED

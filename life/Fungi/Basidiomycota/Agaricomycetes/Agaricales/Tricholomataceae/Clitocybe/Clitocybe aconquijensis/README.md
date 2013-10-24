@@ -1,5 +1,4 @@
-Clitocybe aconquijensis Singer SPECIES
-=======
+# Clitocybe aconquijensis Singer SPECIES
 
 #### Status
 ACCEPTED

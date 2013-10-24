@@ -1,5 +1,4 @@
-Entoloma flavofuscum (Romagn.) Pegler SPECIES
-=======
+# Entoloma flavofuscum (Romagn.) Pegler SPECIES
 
 #### Status
 ACCEPTED

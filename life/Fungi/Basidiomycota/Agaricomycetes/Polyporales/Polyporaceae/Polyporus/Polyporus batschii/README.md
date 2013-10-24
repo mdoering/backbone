@@ -1,5 +1,4 @@
-Polyporus batschii a batschii Pers. SPECIES
-=======
+# Polyporus batschii a batschii Pers. SPECIES
 
 #### Status
 ACCEPTED

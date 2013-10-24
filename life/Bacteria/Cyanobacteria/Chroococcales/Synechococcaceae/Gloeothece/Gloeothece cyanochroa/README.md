@@ -1,5 +1,4 @@
-Gloeothece cyanochroa Komárek SPECIES
-=======
+# Gloeothece cyanochroa Komárek SPECIES
 
 #### Status
 ACCEPTED

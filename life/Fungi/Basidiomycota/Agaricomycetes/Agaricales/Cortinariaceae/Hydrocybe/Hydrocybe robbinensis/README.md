@@ -1,5 +1,4 @@
-Hydrocybe robbinensis Velen. SPECIES
-=======
+# Hydrocybe robbinensis Velen. SPECIES
 
 #### Status
 ACCEPTED

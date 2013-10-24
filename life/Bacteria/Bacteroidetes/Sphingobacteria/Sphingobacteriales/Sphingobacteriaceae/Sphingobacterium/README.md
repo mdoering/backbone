@@ -1,5 +1,4 @@
-Sphingobacterium Yabuuchi, Kaneko, Yano, Moss & Miyoshi, 1983 GENUS
-=======
+# Sphingobacterium Yabuuchi, Kaneko, Yano, Moss & Miyoshi, 1983 GENUS
 
 #### Status
 ACCEPTED

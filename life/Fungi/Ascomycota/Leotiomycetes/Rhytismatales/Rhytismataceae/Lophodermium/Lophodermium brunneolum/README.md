@@ -1,5 +1,4 @@
-Lophodermium brunneolum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium brunneolum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uraecium guanacastensis Berndt, 1996 SPECIES
-=======
+# Uraecium guanacastensis Berndt, 1996 SPECIES
 
 #### Status
 ACCEPTED

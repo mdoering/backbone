@@ -1,5 +1,4 @@
-Ustilago scolochloae Griffiths SPECIES
-=======
+# Ustilago scolochloae Griffiths SPECIES
 
 #### Status
 ACCEPTED

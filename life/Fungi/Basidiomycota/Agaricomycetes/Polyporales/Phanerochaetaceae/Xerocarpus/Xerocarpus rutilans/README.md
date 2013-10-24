@@ -1,5 +1,4 @@
-Xerocarpus rutilans (Fr.) P. Karst. SPECIES
-=======
+# Xerocarpus rutilans (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

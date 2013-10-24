@@ -1,5 +1,4 @@
-Pyriculariopsis appendiculata Matsush. SPECIES
-=======
+# Pyriculariopsis appendiculata Matsush. SPECIES
 
 #### Status
 ACCEPTED

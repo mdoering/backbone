@@ -1,5 +1,4 @@
-Parasterina grewiae (Cooke) Bat. & Maia SPECIES
-=======
+# Parasterina grewiae (Cooke) Bat. & Maia SPECIES
 
 #### Status
 ACCEPTED

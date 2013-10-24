@@ -1,5 +1,4 @@
-Lentaria vitellina (Pat.) Corner SPECIES
-=======
+# Lentaria vitellina (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

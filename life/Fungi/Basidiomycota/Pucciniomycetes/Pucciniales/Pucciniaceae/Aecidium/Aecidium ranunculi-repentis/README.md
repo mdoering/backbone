@@ -1,5 +1,4 @@
-Aecidium ranunculi-repentis Sacc. SPECIES
-=======
+# Aecidium ranunculi-repentis Sacc. SPECIES
 
 #### Status
 ACCEPTED

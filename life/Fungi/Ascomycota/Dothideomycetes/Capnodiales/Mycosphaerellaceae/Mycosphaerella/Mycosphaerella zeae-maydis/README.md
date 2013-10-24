@@ -1,17 +1,16 @@
-Phoma zeae-maydis Punith., 1990 SPECIES
-=======
+# Mycosphaerella zeae-maydis Mukunya & Boothr., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 112(1): 50 (1990)
+Phytopathology 63: 530 (1973)
 
 #### Original name
-Phyllosticta maydis Arny & R.R. Nelson, 1971
+Mycosphaerella zeae-maydis Mukunya & Boothr., 1973
 
 ### Remarks
 null

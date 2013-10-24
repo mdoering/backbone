@@ -1,5 +1,4 @@
-Tilletia faetida (Wallr.) Liro SPECIES
-=======
+# Tilletia faetida (Wallr.) Liro SPECIES
 
 #### Status
 ACCEPTED

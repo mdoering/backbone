@@ -1,5 +1,4 @@
-Verrucaria serpuloides I.M. Lamb SPECIES
-=======
+# Verrucaria serpuloides I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

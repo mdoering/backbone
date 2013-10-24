@@ -1,5 +1,4 @@
-Helminthosporium bogoriense Penz. & Sacc. SPECIES
-=======
+# Helminthosporium bogoriense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

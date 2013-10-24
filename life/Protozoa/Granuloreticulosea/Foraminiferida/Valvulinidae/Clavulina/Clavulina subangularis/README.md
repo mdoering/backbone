@@ -1,5 +1,4 @@
-Clavulina subangularis Ishizaki SPECIES
-=======
+# Clavulina subangularis Ishizaki SPECIES
 
 #### Status
 ACCEPTED

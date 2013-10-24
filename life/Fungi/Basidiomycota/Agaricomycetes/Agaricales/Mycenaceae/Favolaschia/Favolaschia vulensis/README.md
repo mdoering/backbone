@@ -1,5 +1,4 @@
-Favolaschia vulensis Otieno SPECIES
-=======
+# Favolaschia vulensis Otieno SPECIES
 
 #### Status
 ACCEPTED

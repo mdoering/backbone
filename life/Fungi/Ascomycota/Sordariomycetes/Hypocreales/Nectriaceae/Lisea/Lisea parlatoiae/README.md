@@ -1,5 +1,4 @@
-Lisea parlatoiae Zimm. SPECIES
-=======
+# Lisea parlatoiae Zimm. SPECIES
 
 #### Status
 ACCEPTED

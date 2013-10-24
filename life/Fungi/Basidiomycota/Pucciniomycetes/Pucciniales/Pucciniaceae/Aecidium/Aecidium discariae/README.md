@@ -1,5 +1,4 @@
-Aecidium discariae Cooke SPECIES
-=======
+# Aecidium discariae Cooke SPECIES
 
 #### Status
 ACCEPTED

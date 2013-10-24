@@ -1,5 +1,4 @@
-Pyxidiophora schotteriana (Breton & Faurel) N. Lundq. SPECIES
-=======
+# Pyxidiophora schotteriana (Breton & Faurel) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

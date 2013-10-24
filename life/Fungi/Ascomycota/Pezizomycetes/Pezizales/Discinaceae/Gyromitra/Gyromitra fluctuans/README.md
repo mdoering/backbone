@@ -1,5 +1,4 @@
-Gyromitra fluctuans (Nyl.) Harmaja SPECIES
-=======
+# Gyromitra fluctuans (Nyl.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

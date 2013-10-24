@@ -1,5 +1,4 @@
-Diplodia atrata (Desm.) Sacc. SPECIES
-=======
+# Diplodia atrata (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

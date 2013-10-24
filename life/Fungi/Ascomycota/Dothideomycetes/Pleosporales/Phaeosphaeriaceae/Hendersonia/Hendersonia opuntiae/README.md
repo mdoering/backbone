@@ -1,5 +1,4 @@
-Hendersonia opuntiae Zimm. SPECIES
-=======
+# Hendersonia opuntiae Zimm. SPECIES
 
 #### Status
 ACCEPTED

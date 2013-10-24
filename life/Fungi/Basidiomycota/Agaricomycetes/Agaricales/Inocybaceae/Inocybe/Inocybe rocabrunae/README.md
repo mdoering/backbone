@@ -1,5 +1,4 @@
-Inocybe rocabrunae Esteve-Rav. & Vila SPECIES
-=======
+# Inocybe rocabrunae Esteve-Rav. & Vila SPECIES
 
 #### Status
 ACCEPTED

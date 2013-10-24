@@ -1,5 +1,4 @@
-Omphalina chilensis (Mont.) Singer SPECIES
-=======
+# Omphalina chilensis (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

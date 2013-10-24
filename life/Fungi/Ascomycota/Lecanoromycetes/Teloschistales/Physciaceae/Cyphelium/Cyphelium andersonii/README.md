@@ -1,5 +1,4 @@
-Cyphelium andersonii Herre SPECIES
-=======
+# Cyphelium andersonii Herre SPECIES
 
 #### Status
 ACCEPTED

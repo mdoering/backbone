@@ -1,5 +1,4 @@
-Pleospora juglandis Ellis & Everh. SPECIES
-=======
+# Pleospora juglandis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

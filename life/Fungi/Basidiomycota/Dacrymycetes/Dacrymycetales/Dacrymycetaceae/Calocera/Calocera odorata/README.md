@@ -1,5 +1,4 @@
-Calocera odorata Holterm. SPECIES
-=======
+# Calocera odorata Holterm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia jaapiana (Sacc.) Liro SPECIES
-=======
+# Tuburcinia jaapiana (Sacc.) Liro SPECIES
 
 #### Status
 ACCEPTED

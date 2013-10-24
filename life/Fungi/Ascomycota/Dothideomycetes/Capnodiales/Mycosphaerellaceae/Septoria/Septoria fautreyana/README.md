@@ -1,5 +1,4 @@
-Septoria fautreyana Sacc. SPECIES
-=======
+# Septoria fautreyana Sacc. SPECIES
 
 #### Status
 ACCEPTED

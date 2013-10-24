@@ -1,17 +1,16 @@
-Biatora pyracea var. saxicola Hepp VARIETY
-=======
+# Caloplaca luteoalba (Turner) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 220 (1861)
 
 #### Original name
-null
+Lichen luteoalbus Turner
 
 ### Remarks
 null

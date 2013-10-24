@@ -1,5 +1,4 @@
-Sydowiellina GENUS
-=======
+# Sydowiellina GENUS
 
 #### Status
 ACCEPTED

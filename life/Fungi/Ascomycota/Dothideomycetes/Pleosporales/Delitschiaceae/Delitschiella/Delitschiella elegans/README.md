@@ -1,5 +1,4 @@
-Delitschiella elegans (Santerm. {?} ) Sacc. & Trotter SPECIES
-=======
+# Delitschiella elegans (Santerm. {?} ) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

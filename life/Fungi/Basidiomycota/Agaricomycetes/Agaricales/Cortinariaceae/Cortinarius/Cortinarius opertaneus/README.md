@@ -1,5 +1,4 @@
-Cortinarius opertaneus Reumaux SPECIES
-=======
+# Cortinarius opertaneus Reumaux SPECIES
 
 #### Status
 ACCEPTED

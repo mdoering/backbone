@@ -1,5 +1,4 @@
-Meliola rhipogoni Hansf. SPECIES
-=======
+# Meliola rhipogoni Hansf. SPECIES
 
 #### Status
 ACCEPTED

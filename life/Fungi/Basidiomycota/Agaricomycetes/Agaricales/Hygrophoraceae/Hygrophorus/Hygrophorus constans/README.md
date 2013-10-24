@@ -1,5 +1,4 @@
-Hygrophorus constans (J.E. Lange) SPECIES
-=======
+# Hygrophorus constans (J.E. Lange) SPECIES
 
 #### Status
 ACCEPTED

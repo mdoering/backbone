@@ -1,5 +1,4 @@
-Fusicoccum petrakii R. Sandor SPECIES
-=======
+# Fusicoccum petrakii R. Sandor SPECIES
 
 #### Status
 ACCEPTED

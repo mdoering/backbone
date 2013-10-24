@@ -1,5 +1,4 @@
-Lachnocladium divaricatum var. divaricatum VARIETY
-=======
+# Lachnocladium divaricatum (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Bot. Morot 3: 26 (1889)
 
 #### Original name
-Lachnocladium divaricatum var. divaricatum
+Calocera divaricata Berk.
 
 ### Remarks
 null

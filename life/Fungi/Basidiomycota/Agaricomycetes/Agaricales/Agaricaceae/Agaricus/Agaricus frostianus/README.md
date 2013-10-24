@@ -1,5 +1,4 @@
-Agaricus frostianus Peck SPECIES
-=======
+# Agaricus frostianus Peck SPECIES
 
 #### Status
 ACCEPTED

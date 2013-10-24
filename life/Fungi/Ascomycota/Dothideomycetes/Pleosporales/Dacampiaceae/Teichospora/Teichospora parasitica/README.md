@@ -1,5 +1,4 @@
-Teichospora parasitica Pass. SPECIES
-=======
+# Teichospora parasitica Pass. SPECIES
 
 #### Status
 ACCEPTED

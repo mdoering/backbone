@@ -1,5 +1,4 @@
-Usneomyces floridae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Usneomyces floridae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

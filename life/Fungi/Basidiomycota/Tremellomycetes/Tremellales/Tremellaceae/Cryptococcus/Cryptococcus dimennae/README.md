@@ -1,5 +1,4 @@
-Cryptococcus dimennae Fell & Phaff, 1967 SPECIES
-=======
+# Cryptococcus dimennae Fell & Phaff, 1967 SPECIES
 
 #### Status
 ACCEPTED

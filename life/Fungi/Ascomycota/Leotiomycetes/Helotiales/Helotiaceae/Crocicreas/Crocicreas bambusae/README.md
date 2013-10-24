@@ -1,5 +1,4 @@
-Crocicreas bambusae (M.P. Sharma, K.S. Thind & Rawla) M.P. Sharma SPECIES
-=======
+# Crocicreas bambusae (M.P. Sharma, K.S. Thind & Rawla) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

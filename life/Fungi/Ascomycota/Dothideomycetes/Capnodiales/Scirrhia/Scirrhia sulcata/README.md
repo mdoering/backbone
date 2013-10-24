@@ -1,5 +1,4 @@
-Scirrhia sulcata anon. SPECIES
-=======
+# Scirrhia sulcata anon. SPECIES
 
 #### Status
 ACCEPTED

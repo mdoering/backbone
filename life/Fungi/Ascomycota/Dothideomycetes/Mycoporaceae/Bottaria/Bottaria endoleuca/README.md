@@ -1,5 +1,4 @@
-Bottaria endoleuca (Fée) Müll. Arg. SPECIES
-=======
+# Bottaria endoleuca (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

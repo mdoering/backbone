@@ -1,5 +1,4 @@
-Ramboldia lusitanica (Räsänen) Kalb, Lumbsch & Elix SPECIES
-=======
+# Ramboldia lusitanica (Räsänen) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

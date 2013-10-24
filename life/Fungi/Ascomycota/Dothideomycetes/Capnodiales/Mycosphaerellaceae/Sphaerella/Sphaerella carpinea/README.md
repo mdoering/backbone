@@ -1,5 +1,4 @@
-Sphaerella carpinea (Fr.) Cooke SPECIES
-=======
+# Sphaerella carpinea (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

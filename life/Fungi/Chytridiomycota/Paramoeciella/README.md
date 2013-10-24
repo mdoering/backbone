@@ -1,5 +1,4 @@
-Paramoeciella Zebrowski GENUS
-=======
+# Paramoeciella Zebrowski GENUS
 
 #### Status
 ACCEPTED

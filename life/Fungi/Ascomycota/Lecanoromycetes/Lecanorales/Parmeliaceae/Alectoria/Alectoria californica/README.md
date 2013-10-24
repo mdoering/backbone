@@ -1,5 +1,4 @@
-Alectoria californica (Tuck.) G. Merr. SPECIES
-=======
+# Alectoria californica (Tuck.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

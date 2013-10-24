@@ -1,5 +1,4 @@
-Neottiella zonulata (Rolland) Sacc. & P. Syd. SPECIES
-=======
+# Neottiella zonulata (Rolland) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

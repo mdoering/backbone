@@ -1,5 +1,4 @@
-Epicoccum sphaerospermum Berk. SPECIES
-=======
+# Epicoccum sphaerospermum Berk. SPECIES
 
 #### Status
 ACCEPTED

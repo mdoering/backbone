@@ -1,5 +1,4 @@
-Diplococcium capitatum Piroz. SPECIES
-=======
+# Diplococcium capitatum Piroz. SPECIES
 
 #### Status
 ACCEPTED

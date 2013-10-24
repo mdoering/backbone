@@ -1,5 +1,4 @@
-Sphaerophrya pelagica SPECIES
-=======
+# Sphaerophrya pelagica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphactura Haeckel, 1881 GENUS
-=======
+# Amphactura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

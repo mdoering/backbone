@@ -1,5 +1,4 @@
-Lentinus velatus Berk. & Broome SPECIES
-=======
+# Lentinus velatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

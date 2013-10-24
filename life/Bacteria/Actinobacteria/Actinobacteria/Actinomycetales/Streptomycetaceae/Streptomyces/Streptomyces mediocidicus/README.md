@@ -1,5 +1,4 @@
-Streptomyces mediocidicus (Labeda, 1988) Wellington et al., 1992 SPECIES
-=======
+# Streptomyces mediocidicus (Labeda, 1988) Wellington et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

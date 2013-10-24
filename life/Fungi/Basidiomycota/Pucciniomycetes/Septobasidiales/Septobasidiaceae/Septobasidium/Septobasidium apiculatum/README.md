@@ -1,5 +1,4 @@
-Septobasidium apiculatum Couch SPECIES
-=======
+# Septobasidium apiculatum Couch SPECIES
 
 #### Status
 ACCEPTED

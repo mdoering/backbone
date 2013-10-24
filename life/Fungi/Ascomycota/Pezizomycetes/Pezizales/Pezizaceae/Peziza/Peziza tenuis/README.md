@@ -1,5 +1,4 @@
-Peziza tenuis Cooke SPECIES
-=======
+# Peziza tenuis Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza moravecii (Svrcek) Svrcek, 1978 SPECIES
-=======
+# Peziza moravecii (Svrcek) Svrcek, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarophyllus rigelliae (Velen.) Herink SPECIES
-=======
+# Camarophyllus rigelliae (Velen.) Herink SPECIES
 
 #### Status
 ACCEPTED

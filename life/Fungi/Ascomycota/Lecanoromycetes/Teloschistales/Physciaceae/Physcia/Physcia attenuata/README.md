@@ -1,5 +1,4 @@
-Physcia attenuata Pers. SPECIES
-=======
+# Physcia attenuata Pers. SPECIES
 
 #### Status
 ACCEPTED

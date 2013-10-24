@@ -1,5 +1,4 @@
-Amorphonostoc Elenkin GENUS
-=======
+# Amorphonostoc Elenkin GENUS
 
 #### Status
 ACCEPTED

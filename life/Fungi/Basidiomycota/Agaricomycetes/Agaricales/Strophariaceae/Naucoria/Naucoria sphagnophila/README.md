@@ -1,5 +1,4 @@
-Naucoria sphagnophila Peck SPECIES
-=======
+# Naucoria sphagnophila Peck SPECIES
 
 #### Status
 ACCEPTED

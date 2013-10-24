@@ -1,5 +1,4 @@
-Pernerina Cushman, 1933 GENUS
-=======
+# Pernerina Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

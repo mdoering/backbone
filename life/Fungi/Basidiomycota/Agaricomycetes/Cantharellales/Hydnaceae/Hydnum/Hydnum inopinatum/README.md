@@ -1,5 +1,4 @@
-Hydnum inopinatum (Donk) Pouzar SPECIES
-=======
+# Hydnum inopinatum (Donk) Pouzar SPECIES
 
 #### Status
 ACCEPTED

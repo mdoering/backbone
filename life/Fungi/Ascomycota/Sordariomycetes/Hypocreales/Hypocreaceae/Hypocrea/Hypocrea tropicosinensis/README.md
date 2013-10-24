@@ -1,5 +1,4 @@
-Hypocrea tropicosinensis P.G. Liu SPECIES
-=======
+# Hypocrea tropicosinensis P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

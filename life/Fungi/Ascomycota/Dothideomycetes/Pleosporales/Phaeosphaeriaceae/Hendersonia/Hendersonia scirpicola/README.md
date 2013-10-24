@@ -1,5 +1,4 @@
-Hendersonia scirpicola Cooke & Harkn. SPECIES
-=======
+# Hendersonia scirpicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

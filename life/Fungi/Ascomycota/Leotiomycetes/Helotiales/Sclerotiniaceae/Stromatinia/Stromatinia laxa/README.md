@@ -1,5 +1,4 @@
-Stromatinia laxa (Ehrenb.) Naumov SPECIES
-=======
+# Stromatinia laxa (Ehrenb.) Naumov SPECIES
 
 #### Status
 ACCEPTED

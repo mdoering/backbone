@@ -1,17 +1,16 @@
-Haraella Hara & I. Hino GENUS
-=======
+# Hinoa Hara & I. Hino GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 34 (1955)
+in Hino, Icones Fungorum Bamb. Jap. 67 (1961)
 
 #### Original name
-Haraella Hara & I. Hino
+Hinoa Hara & I. Hino
 
 ### Remarks
 null

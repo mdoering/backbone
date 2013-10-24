@@ -1,5 +1,4 @@
-Sphaeria phylloplacus Kunze SPECIES
-=======
+# Sphaeria phylloplacus Kunze SPECIES
 
 #### Status
 ACCEPTED

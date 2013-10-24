@@ -1,5 +1,4 @@
-Phyllosticta nyssae Cooke SPECIES
-=======
+# Phyllosticta nyssae Cooke SPECIES
 
 #### Status
 ACCEPTED

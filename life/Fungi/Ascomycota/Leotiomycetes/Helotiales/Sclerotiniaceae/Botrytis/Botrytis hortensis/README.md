@@ -1,5 +1,4 @@
-Botrytis hortensis Ellis & Everh. SPECIES
-=======
+# Botrytis hortensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

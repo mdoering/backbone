@@ -1,5 +1,4 @@
-Aequorivita sublithincola Bowman & Nichols, 2002 SPECIES
-=======
+# Aequorivita sublithincola Bowman & Nichols, 2002 SPECIES
 
 #### Status
 ACCEPTED

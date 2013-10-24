@@ -1,5 +1,4 @@
-Strickeria upsallatensis (Speg.) Byzova SPECIES
-=======
+# Strickeria upsallatensis (Speg.) Byzova SPECIES
 
 #### Status
 ACCEPTED

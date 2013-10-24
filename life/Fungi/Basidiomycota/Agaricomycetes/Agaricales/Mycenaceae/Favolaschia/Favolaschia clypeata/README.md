@@ -1,5 +1,4 @@
-Favolaschia clypeata (Pat.) Kuntze SPECIES
-=======
+# Favolaschia clypeata (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

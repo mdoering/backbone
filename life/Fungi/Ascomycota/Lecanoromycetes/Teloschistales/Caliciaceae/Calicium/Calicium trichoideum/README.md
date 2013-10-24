@@ -1,5 +1,4 @@
-Calicium trichoideum Spreng. SPECIES
-=======
+# Calicium trichoideum Spreng. SPECIES
 
 #### Status
 ACCEPTED

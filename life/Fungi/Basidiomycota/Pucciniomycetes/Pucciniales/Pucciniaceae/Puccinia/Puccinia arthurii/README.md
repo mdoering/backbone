@@ -1,17 +1,16 @@
-Puccinia arthuri P. Syd. & Syd. SPECIES
-=======
+# Puccinia arthurii P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(5): 775 (1904)
 
 #### Original name
-Puccinia arthuri P. Syd. & Syd.
+Puccinia arthurii P. Syd. & Syd.
 
 ### Remarks
 null

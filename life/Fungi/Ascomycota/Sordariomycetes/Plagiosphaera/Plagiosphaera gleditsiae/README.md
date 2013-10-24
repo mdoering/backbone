@@ -1,14 +1,13 @@
-Plagiosphaera gleditschiae (J.H. Mill. & F.A. Wolf) M. Monod SPECIES
-=======
+# Plagiosphaera gleditsiae (J.H. Mill. & F.A. Wolf) M. Monod SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 9: 173 (1983)
 
 #### Original name
 Linospora gleditsiae J.H. Mill. & F.A. Wolf

@@ -1,5 +1,4 @@
-Villosacapsula ceratioides (Stockmans & Willière, 1962) Loeblich & Tappan, 1976 SPECIES
-=======
+# Villosacapsula ceratioides (Stockmans & Willière, 1962) Loeblich & Tappan, 1976 SPECIES
 
 #### Status
 ACCEPTED

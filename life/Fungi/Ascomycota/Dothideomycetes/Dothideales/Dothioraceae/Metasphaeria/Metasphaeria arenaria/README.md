@@ -1,5 +1,4 @@
-Metasphaeria arenaria E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Metasphaeria arenaria E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

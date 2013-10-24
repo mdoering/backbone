@@ -1,5 +1,4 @@
-Cercospora clerodendricola Sawada SPECIES
-=======
+# Cercospora clerodendricola Sawada SPECIES
 
 #### Status
 ACCEPTED

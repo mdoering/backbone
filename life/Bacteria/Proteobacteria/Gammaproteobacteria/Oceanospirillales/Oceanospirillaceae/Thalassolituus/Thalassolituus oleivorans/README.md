@@ -1,5 +1,4 @@
-Thalassolituus oleivorans Yakimov et al., 2004 SPECIES
-=======
+# Thalassolituus oleivorans Yakimov et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploplenodomopsis ragusina (Jaap) Petr. SPECIES
-=======
+# Diploplenodomopsis ragusina (Jaap) Petr. SPECIES
 
 #### Status
 ACCEPTED

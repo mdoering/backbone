@@ -1,5 +1,4 @@
-Protubera hautuensis Castellano & Beever, 1994 SPECIES
-=======
+# Protubera hautuensis Castellano & Beever, 1994 SPECIES
 
 #### Status
 ACCEPTED

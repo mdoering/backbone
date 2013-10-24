@@ -1,5 +1,4 @@
-Asteromphalus parvulus Karsten SPECIES
-=======
+# Asteromphalus parvulus Karsten SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporidium artemisiae Sawada SPECIES
-=======
+# Cercosporidium artemisiae Sawada SPECIES
 
 #### Status
 ACCEPTED

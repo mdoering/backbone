@@ -1,5 +1,4 @@
-Dactylaria graminicola Årsvoll SPECIES
-=======
+# Dactylaria graminicola Årsvoll SPECIES
 
 #### Status
 ACCEPTED

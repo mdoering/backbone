@@ -1,5 +1,4 @@
-Botryodiplodia mirbeckii Pat. SPECIES
-=======
+# Botryodiplodia mirbeckii Pat. SPECIES
 
 #### Status
 ACCEPTED

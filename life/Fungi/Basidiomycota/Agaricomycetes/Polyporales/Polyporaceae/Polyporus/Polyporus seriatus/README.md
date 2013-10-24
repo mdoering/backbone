@@ -1,5 +1,4 @@
-Polyporus seriatus Kalchbr. SPECIES
-=======
+# Polyporus seriatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

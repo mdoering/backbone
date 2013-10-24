@@ -1,5 +1,4 @@
-Uvigerina cushmani Todd, 1948 SPECIES
-=======
+# Uvigerina cushmani Todd, 1948 SPECIES
 
 #### Status
 ACCEPTED

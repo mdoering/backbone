@@ -1,5 +1,4 @@
-Duosphaeridium nudum (Cookson, 1965) Loeblich & Loeblich, 1968 SPECIES
-=======
+# Duosphaeridium nudum (Cookson, 1965) Loeblich & Loeblich, 1968 SPECIES
 
 #### Status
 ACCEPTED

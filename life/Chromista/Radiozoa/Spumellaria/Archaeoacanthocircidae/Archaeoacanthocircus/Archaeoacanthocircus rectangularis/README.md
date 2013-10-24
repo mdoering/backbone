@@ -1,5 +1,4 @@
-Archaeoacanthocircus rectangularis SPECIES
-=======
+# Archaeoacanthocircus rectangularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salopidium truncatum Swire, 1993 SPECIES
-=======
+# Salopidium truncatum Swire, 1993 SPECIES
 
 #### Status
 ACCEPTED

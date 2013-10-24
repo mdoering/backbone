@@ -1,5 +1,4 @@
-Thelephora aurantiotincta Corner, 1968 SPECIES
-=======
+# Thelephora aurantiotincta Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

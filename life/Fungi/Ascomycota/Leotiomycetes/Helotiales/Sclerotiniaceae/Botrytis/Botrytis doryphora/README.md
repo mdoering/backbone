@@ -1,5 +1,4 @@
-Botrytis doryphora Pound & Clem. SPECIES
-=======
+# Botrytis doryphora Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

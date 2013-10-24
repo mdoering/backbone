@@ -1,5 +1,4 @@
-Lichen scuposus Schreb. SPECIES
-=======
+# Lichen scuposus Schreb. SPECIES
 
 #### Status
 ACCEPTED

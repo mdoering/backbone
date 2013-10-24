@@ -1,5 +1,4 @@
-Protoperidinium ligusticum (Rampi) Balech SPECIES
-=======
+# Protoperidinium ligusticum (Rampi) Balech SPECIES
 
 #### Status
 ACCEPTED

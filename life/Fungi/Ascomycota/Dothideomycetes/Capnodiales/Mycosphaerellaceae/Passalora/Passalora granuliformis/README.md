@@ -1,5 +1,4 @@
-Passalora granuliformis (Ellis & Holw.) U. Braun SPECIES
-=======
+# Passalora granuliformis (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

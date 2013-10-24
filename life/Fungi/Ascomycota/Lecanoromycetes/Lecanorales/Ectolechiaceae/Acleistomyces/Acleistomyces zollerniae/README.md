@@ -1,17 +1,16 @@
-Acleistomyces zolleriniae Bat. & J.A. Lima SPECIES
-=======
+# Acleistomyces zollerniae Bat. & J.A. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 320: 11 (1961)
 
 #### Original name
-Acleistomyces zolleriniae Bat. & J.A. Lima
+Acleistomyces zollerniae Bat. & J.A. Lima
 
 ### Remarks
 null

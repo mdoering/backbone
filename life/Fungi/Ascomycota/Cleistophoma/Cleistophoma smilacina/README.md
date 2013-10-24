@@ -1,5 +1,4 @@
-Cleistophoma smilacina Unamuno SPECIES
-=======
+# Cleistophoma smilacina Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerococcum normandinae Diederich & Etayo, 1995 SPECIES
-=======
+# Sclerococcum normandinae Diederich & Etayo, 1995 SPECIES
 
 #### Status
 ACCEPTED

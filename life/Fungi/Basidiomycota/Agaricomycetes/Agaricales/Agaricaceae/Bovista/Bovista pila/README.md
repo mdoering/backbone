@@ -1,5 +1,4 @@
-Bovista pila Berk. & M.A. Curtis SPECIES
-=======
+# Bovista pila Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

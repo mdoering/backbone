@@ -1,5 +1,4 @@
-Dasyscyphella pilosissima Raitv. SPECIES
-=======
+# Dasyscyphella pilosissima Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermus aquaticus Brock and Freeze, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Thermus aquaticus Brock and Freeze, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

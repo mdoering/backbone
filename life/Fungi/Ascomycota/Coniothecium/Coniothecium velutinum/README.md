@@ -1,5 +1,4 @@
-Coniothecium velutinum Speg. SPECIES
-=======
+# Coniothecium velutinum Speg. SPECIES
 
 #### Status
 ACCEPTED

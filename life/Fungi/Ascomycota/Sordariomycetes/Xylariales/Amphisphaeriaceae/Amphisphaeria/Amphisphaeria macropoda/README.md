@@ -1,5 +1,4 @@
-Amphisphaeria macropoda Sacc. SPECIES
-=======
+# Amphisphaeria macropoda Sacc. SPECIES
 
 #### Status
 ACCEPTED

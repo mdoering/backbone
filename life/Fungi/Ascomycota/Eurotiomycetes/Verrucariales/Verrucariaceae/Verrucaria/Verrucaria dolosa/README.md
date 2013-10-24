@@ -1,17 +1,16 @@
-Verrucaria dolosa f. dolosa FORM
-=======
+# Verrucaria dolosa Hepp SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flecht. Europ. no. 689 (1860)
 
 #### Original name
-Verrucaria dolosa f. dolosa
+Verrucaria dolosa Hepp
 
 ### Remarks
 null

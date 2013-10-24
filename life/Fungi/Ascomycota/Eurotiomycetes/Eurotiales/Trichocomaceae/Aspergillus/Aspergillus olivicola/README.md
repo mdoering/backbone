@@ -1,5 +1,4 @@
-Aspergillus olivicola Frisvad, Zalar & Samson SPECIES
-=======
+# Aspergillus olivicola Frisvad, Zalar & Samson SPECIES
 
 #### Status
 ACCEPTED

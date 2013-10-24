@@ -1,5 +1,4 @@
-Gastrostyla setifera Engelmann, 1862 SPECIES
-=======
+# Gastrostyla setifera Engelmann, 1862 SPECIES
 
 #### Status
 ACCEPTED

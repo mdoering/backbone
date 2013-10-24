@@ -1,5 +1,4 @@
-Lecanora triseptata Vain. SPECIES
-=======
+# Lecanora triseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

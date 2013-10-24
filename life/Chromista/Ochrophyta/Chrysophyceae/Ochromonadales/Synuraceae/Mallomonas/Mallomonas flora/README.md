@@ -1,5 +1,4 @@
-Mallomonas flora Harris & Bradley SPECIES
-=======
+# Mallomonas flora Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

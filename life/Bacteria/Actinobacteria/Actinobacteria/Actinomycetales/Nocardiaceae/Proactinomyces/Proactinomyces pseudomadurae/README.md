@@ -1,5 +1,4 @@
-Proactinomyces pseudomadurae E. Bald. SPECIES
-=======
+# Proactinomyces pseudomadurae E. Bald. SPECIES
 
 #### Status
 ACCEPTED

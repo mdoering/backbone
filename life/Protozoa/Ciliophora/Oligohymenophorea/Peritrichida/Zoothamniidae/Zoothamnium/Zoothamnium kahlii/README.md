@@ -1,5 +1,4 @@
-Zoothamnium kahlii subsp. kahlii SUBSPECIES
-=======
+# Zoothamnium kahlii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus minutus Vanin SPECIES
-=======
+# Polyporus minutus Vanin SPECIES
 
 #### Status
 ACCEPTED

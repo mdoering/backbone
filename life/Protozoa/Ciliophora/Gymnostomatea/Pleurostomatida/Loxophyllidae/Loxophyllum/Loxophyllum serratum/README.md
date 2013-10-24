@@ -1,5 +1,4 @@
-Loxophyllum serratum Kahl, 1933 SPECIES
-=======
+# Loxophyllum serratum Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

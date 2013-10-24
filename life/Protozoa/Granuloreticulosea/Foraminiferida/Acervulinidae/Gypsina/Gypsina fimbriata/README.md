@@ -1,5 +1,4 @@
-Gypsina fimbriata (Chapman, 1900) SPECIES
-=======
+# Gypsina fimbriata (Chapman, 1900) SPECIES
 
 #### Status
 ACCEPTED

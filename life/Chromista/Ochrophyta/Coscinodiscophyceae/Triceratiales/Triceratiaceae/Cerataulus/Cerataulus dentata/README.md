@@ -1,5 +1,4 @@
-Cerataulus dentata Hasle, 1980 SPECIES
-=======
+# Cerataulus dentata Hasle, 1980 SPECIES
 
 #### Status
 ACCEPTED

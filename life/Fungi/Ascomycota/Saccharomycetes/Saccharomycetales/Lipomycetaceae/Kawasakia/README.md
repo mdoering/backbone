@@ -1,5 +1,4 @@
-Kawasakia Y. Yamada & Nogawa GENUS
-=======
+# Kawasakia Y. Yamada & Nogawa GENUS
 
 #### Status
 ACCEPTED

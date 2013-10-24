@@ -1,5 +1,4 @@
-Fusarium fijikuroi Nirenberg SPECIES
-=======
+# Fusarium fijikuroi Nirenberg SPECIES
 
 #### Status
 ACCEPTED

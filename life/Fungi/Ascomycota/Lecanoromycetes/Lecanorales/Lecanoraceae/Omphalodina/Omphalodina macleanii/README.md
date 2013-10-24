@@ -1,8 +1,7 @@
-Omphalodina mcleani (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Omphalodina macleanii (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

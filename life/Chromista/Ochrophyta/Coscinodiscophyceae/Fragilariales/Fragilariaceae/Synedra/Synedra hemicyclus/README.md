@@ -1,5 +1,4 @@
-Synedra hemicyclus Ehrenberg SPECIES
-=======
+# Synedra hemicyclus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

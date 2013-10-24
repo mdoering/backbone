@@ -1,5 +1,4 @@
-Trichopeziza leucophaea f. leucophaea FORM
-=======
+# Trichopeziza leucophaea (Pers.) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Exsicc. Asc. no. 65a (1872)
 
 #### Original name
-Trichopeziza leucophaea f. leucophaea
+Peziza sulphurea var. leucophaea Pers.
 
 ### Remarks
 null

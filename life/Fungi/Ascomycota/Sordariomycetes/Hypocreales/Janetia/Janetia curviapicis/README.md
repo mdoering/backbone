@@ -1,5 +1,4 @@
-Janetia curviapicis Goh & K.D. Hyde SPECIES
-=======
+# Janetia curviapicis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

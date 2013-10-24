@@ -1,5 +1,4 @@
-Didymella inconspicua Johanson, 1884 SPECIES
-=======
+# Didymella inconspicua Johanson, 1884 SPECIES
 
 #### Status
 ACCEPTED

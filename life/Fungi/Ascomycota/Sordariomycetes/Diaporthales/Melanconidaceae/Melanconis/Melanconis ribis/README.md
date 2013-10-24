@@ -1,5 +1,4 @@
-Melanconis ribis (Henn. & Plöttn.) Sacc. & Trotter SPECIES
-=======
+# Melanconis ribis (Henn. & Plöttn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

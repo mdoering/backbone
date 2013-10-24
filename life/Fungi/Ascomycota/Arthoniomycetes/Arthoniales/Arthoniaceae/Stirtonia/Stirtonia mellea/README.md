@@ -1,5 +1,4 @@
-Stirtonia mellea Groenh. ex Makhija & Patw. SPECIES
-=======
+# Stirtonia mellea Groenh. ex Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

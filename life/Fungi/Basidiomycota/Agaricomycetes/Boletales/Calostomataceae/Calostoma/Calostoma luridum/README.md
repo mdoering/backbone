@@ -1,5 +1,4 @@
-Calostoma luridum (Berk.) Massee SPECIES
-=======
+# Calostoma luridum (Berk.) Massee SPECIES
 
 #### Status
 ACCEPTED

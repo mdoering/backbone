@@ -1,5 +1,4 @@
-Kameshwaromyces Kamal, R.K. Verma & Morgan-Jones GENUS
-=======
+# Kameshwaromyces Kamal, R.K. Verma & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

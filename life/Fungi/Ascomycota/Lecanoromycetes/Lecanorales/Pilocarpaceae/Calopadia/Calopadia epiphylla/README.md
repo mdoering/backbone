@@ -1,5 +1,4 @@
-Calopadia epiphylla (Fée) Vezda SPECIES
-=======
+# Calopadia epiphylla (Fée) Vezda SPECIES
 
 #### Status
 ACCEPTED

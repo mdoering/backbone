@@ -1,5 +1,4 @@
-Septoria coprosmae Cooke, 1886 SPECIES
-=======
+# Septoria coprosmae Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

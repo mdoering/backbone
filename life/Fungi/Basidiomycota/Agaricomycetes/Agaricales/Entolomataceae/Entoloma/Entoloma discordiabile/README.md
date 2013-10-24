@@ -1,17 +1,16 @@
-Entoloma discordiabilis E. Horak SPECIES
-=======
+# Entoloma discordiabile E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 65: 112 (1980)
 
 #### Original name
-Entoloma discordiabilis E. Horak
+Entoloma discordiabile E. Horak
 
 ### Remarks
 null

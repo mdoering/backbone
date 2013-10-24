@@ -1,5 +1,4 @@
-Fusicoccum microsporum Potebnia SPECIES
-=======
+# Fusicoccum microsporum Potebnia SPECIES
 
 #### Status
 ACCEPTED

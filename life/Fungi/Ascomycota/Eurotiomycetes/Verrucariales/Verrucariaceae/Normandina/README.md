@@ -1,5 +1,4 @@
-Normandina Nyl. GENUS
-=======
+# Normandina Nyl. GENUS
 
 #### Status
 ACCEPTED

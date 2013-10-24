@@ -1,5 +1,4 @@
-Puccinia vinulla H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia vinulla H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

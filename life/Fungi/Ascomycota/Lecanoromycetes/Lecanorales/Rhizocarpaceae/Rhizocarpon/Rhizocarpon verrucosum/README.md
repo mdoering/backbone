@@ -1,5 +1,4 @@
-Rhizocarpon verrucosum SPECIES
-=======
+# Rhizocarpon verrucosum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhynchosphaeria zimmermanni Petr. SPECIES
-=======
+# Rhynchosphaeria zimmermannii Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhynchosphaeria zimmermanni Petr.
+Rhynchosphaeria zimmermannii Petr.
 
 ### Remarks
 null

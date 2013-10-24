@@ -1,5 +1,4 @@
-Lecanidion glycosmidis (Tilak & Srinivas.) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
-=======
+# Lecanidion glycosmidis (Tilak & Srinivas.) P.N. Mathur, R.R. Jain & G.G. Saini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Thelidium transsilvanicum Zschacke SPECIES
-=======
+# Thelidium transilvanicum Zschacke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelidium transsilvanicum Zschacke
+Thelidium transilvanicum Zschacke
 
 ### Remarks
 null

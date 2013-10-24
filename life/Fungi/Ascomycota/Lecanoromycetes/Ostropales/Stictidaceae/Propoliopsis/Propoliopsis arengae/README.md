@@ -1,5 +1,4 @@
-Propoliopsis arengae Rehm SPECIES
-=======
+# Propoliopsis arengae Rehm SPECIES
 
 #### Status
 ACCEPTED

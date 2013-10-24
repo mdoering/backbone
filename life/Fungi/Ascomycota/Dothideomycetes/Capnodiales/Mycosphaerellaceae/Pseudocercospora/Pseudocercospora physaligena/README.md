@@ -1,5 +1,4 @@
-Pseudocercospora physaligena P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
-=======
+# Pseudocercospora physaligena P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

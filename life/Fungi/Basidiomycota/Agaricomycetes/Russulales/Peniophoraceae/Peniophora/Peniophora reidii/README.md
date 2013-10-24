@@ -1,5 +1,4 @@
-Peniophora reidii Boidin & Lanq., 1983 SPECIES
-=======
+# Peniophora reidii Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elektoriskos flexuosus Eklund, 1990 SPECIES
-=======
+# Elektoriskos flexuosus Eklund, 1990 SPECIES
 
 #### Status
 ACCEPTED

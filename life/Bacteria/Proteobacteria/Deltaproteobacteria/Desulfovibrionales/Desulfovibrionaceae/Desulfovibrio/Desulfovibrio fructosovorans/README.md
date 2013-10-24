@@ -1,5 +1,4 @@
-Desulfovibrio fructosovorans Ollivier et al., 1990 SPECIES
-=======
+# Desulfovibrio fructosovorans Ollivier et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

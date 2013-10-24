@@ -1,5 +1,4 @@
-Chaetostigme cordiae (Henn.) F. Stevens SPECIES
-=======
+# Chaetostigme cordiae (Henn.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

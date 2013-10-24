@@ -1,5 +1,4 @@
-Stereocaulon obtusatum (Vahl) Ach. SPECIES
-=======
+# Stereocaulon obtusatum (Vahl) Ach. SPECIES
 
 #### Status
 ACCEPTED

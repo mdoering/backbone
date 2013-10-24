@@ -1,5 +1,4 @@
-Metarotaliella Grell, 1962 GENUS
-=======
+# Metarotaliella Grell, 1962 GENUS
 
 #### Status
 ACCEPTED

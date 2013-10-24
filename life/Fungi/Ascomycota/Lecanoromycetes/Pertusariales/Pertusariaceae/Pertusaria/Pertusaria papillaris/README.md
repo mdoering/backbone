@@ -1,5 +1,4 @@
-Pertusaria papillaris SPECIES
-=======
+# Pertusaria papillaris SPECIES
 
 #### Status
 ACCEPTED

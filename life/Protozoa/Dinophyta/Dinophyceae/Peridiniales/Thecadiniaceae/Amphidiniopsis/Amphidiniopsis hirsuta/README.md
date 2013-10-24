@@ -1,5 +1,4 @@
-Amphidiniopsis hirsuta (Balech, 1956) Dodge, 1982 SPECIES
-=======
+# Amphidiniopsis hirsuta (Balech, 1956) Dodge, 1982 SPECIES
 
 #### Status
 ACCEPTED

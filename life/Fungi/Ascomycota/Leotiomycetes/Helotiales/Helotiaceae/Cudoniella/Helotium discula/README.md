@@ -1,5 +1,4 @@
-Helotium discula Ferd. & Winge SPECIES
-=======
+# Helotium discula Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

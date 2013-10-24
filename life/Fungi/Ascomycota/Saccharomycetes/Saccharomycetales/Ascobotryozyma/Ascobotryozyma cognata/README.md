@@ -1,5 +1,4 @@
-Ascobotryozyma cognata J. Kerrigan, M.T. Sm. & J.D. Rogers, 2003 SPECIES
-=======
+# Ascobotryozyma cognata J. Kerrigan, M.T. Sm. & J.D. Rogers, 2003 SPECIES
 
 #### Status
 ACCEPTED

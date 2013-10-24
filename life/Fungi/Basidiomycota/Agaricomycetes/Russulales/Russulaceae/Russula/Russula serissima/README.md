@@ -1,5 +1,4 @@
-Russula serissima Peck SPECIES
-=======
+# Russula serissima Peck SPECIES
 
 #### Status
 ACCEPTED

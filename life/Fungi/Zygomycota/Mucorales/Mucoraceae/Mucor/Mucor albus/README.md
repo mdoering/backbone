@@ -1,5 +1,4 @@
-Mucor albus Schrank, 1789 SPECIES
-=======
+# Mucor albus Schrank, 1789 SPECIES
 
 #### Status
 ACCEPTED

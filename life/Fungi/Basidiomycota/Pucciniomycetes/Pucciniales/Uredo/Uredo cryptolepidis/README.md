@@ -1,5 +1,4 @@
-Uredo cryptolepidis Cooke SPECIES
-=======
+# Uredo cryptolepidis Cooke SPECIES
 
 #### Status
 ACCEPTED

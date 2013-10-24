@@ -1,5 +1,4 @@
-Tubodiscus bellii SPECIES
-=======
+# Tubodiscus bellii SPECIES
 
 #### Status
 ACCEPTED

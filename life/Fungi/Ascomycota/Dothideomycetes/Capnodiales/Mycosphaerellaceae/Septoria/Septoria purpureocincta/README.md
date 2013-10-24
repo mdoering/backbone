@@ -1,5 +1,4 @@
-Septoria purpureocincta Kabát & Bubák SPECIES
-=======
+# Septoria purpureocincta Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

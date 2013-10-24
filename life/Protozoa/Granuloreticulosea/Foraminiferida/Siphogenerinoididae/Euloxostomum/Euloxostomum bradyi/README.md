@@ -1,8 +1,7 @@
-Loxostoma instabile Cushman & McCulloch, 1942 SPECIES
-=======
+# Euloxostomum bradyi (Asano, 1938) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

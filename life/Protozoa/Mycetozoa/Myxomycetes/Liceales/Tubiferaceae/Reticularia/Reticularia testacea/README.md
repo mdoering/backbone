@@ -1,5 +1,4 @@
-Reticularia testacea Wallr. SPECIES
-=======
+# Reticularia testacea Wallr. SPECIES
 
 #### Status
 ACCEPTED

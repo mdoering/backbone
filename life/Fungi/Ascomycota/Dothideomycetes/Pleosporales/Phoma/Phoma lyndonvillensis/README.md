@@ -1,5 +1,4 @@
-Phoma lyndonvillensis Fairm. SPECIES
-=======
+# Phoma lyndonvillensis Fairm. SPECIES
 
 #### Status
 ACCEPTED

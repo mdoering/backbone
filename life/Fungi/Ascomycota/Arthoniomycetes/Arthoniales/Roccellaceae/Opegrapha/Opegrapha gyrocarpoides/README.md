@@ -1,5 +1,4 @@
-Opegrapha gyrocarpoides Müll. Arg. SPECIES
-=======
+# Opegrapha gyrocarpoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

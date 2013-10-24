@@ -1,5 +1,4 @@
-Wynnea sparassoides Pfister SPECIES
-=======
+# Wynnea sparassoides Pfister SPECIES
 
 #### Status
 ACCEPTED

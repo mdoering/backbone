@@ -1,5 +1,4 @@
-Pezizella tatraensis Velen. SPECIES
-=======
+# Pezizella tatraensis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium dianthi Rabenh. SPECIES
-=======
+# Sorosporium dianthi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mallomonas leboimii Bourelly SPECIES
-=======
+# Mallomonas leboimii Bourelly SPECIES
 
 #### Status
 ACCEPTED

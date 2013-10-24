@@ -1,14 +1,13 @@
-Protubera borealis S. Imai, 1936 SPECIES
-=======
+# Protuberella borealis (S. Imai) S. Imai & Kawam., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 1: 223 (1936)
+Science Rep. Yokohama Nat. Univ. , Section 2 7: 4 (1958)
 
 #### Original name
 Protubera borealis S. Imai, 1936

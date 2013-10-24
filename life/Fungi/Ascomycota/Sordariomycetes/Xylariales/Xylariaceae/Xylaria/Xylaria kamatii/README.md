@@ -1,5 +1,4 @@
-Xylaria kamatii A. Pande SPECIES
-=======
+# Xylaria kamatii A. Pande SPECIES
 
 #### Status
 ACCEPTED

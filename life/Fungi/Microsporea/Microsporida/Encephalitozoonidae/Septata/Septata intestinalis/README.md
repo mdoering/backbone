@@ -1,5 +1,4 @@
-Septata intestinalis A. Cali, D.P. Kotler & J.M. Orenstein SPECIES
-=======
+# Septata intestinalis A. Cali, D.P. Kotler & J.M. Orenstein SPECIES
 
 #### Status
 ACCEPTED

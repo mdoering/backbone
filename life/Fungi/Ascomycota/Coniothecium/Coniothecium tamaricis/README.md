@@ -1,5 +1,4 @@
-Coniothecium tamaricis Lobik SPECIES
-=======
+# Coniothecium tamaricis Lobik SPECIES
 
 #### Status
 ACCEPTED

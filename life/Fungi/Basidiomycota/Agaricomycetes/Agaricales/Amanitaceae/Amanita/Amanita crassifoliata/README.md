@@ -1,5 +1,4 @@
-Amanita crassifoliata Krieger {?} SPECIES
-=======
+# Amanita crassifoliata Krieger {?} SPECIES
 
 #### Status
 ACCEPTED

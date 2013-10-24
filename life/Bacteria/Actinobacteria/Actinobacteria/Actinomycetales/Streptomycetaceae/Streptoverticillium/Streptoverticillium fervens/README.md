@@ -1,5 +1,4 @@
-Streptoverticillium fervens (de Boer et al., 1960) Locci et al., 1969 SPECIES
-=======
+# Streptoverticillium fervens (de Boer et al., 1960) Locci et al., 1969 SPECIES
 
 #### Status
 ACCEPTED

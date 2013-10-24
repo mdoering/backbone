@@ -1,5 +1,4 @@
-Mucispirillum Robertson, O'Rourke, Neilan, Vandamme, On, Fox & Lee, 2005 GENUS
-=======
+# Mucispirillum Robertson, O'Rourke, Neilan, Vandamme, On, Fox & Lee, 2005 GENUS
 
 #### Status
 ACCEPTED

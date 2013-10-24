@@ -1,5 +1,4 @@
-Rhizosolenia norwegica H.J. Schrader SPECIES
-=======
+# Rhizosolenia norwegica H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum elongatum (Fr.) Bonord. SPECIES
-=======
+# Haplotrichum elongatum (Fr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium humile Sacc. SPECIES
-=======
+# Helotium humile Sacc. SPECIES
 
 #### Status
 ACCEPTED

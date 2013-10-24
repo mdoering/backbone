@@ -1,5 +1,4 @@
-Pannaria superior Nyl. SPECIES
-=======
+# Pannaria superior Nyl. SPECIES
 
 #### Status
 ACCEPTED

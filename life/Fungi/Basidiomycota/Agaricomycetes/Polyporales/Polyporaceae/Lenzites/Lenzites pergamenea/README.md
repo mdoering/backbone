@@ -1,5 +1,4 @@
-Lenzites pergamenea Pat. SPECIES
-=======
+# Lenzites pergamenea Pat. SPECIES
 
 #### Status
 ACCEPTED

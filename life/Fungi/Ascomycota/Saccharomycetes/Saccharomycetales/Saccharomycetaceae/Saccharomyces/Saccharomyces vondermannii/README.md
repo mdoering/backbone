@@ -1,8 +1,7 @@
-Saccharomyces vordermannii Went & Prins. Geerl. SPECIES
-=======
+# Saccharomyces vondermannii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Saccharomyces vordermannii Went & Prins. Geerl.
+Saccharomyces vondermannii
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladonia pachyscypha Sandst. SPECIES
-=======
+# Cladonia pachyscypha Sandst. SPECIES
 
 #### Status
 ACCEPTED

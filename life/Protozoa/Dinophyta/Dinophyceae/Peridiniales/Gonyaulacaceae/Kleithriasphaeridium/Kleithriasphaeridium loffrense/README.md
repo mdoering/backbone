@@ -1,5 +1,4 @@
-Kleithriasphaeridium loffrense Davey & Verdier, 1976 SPECIES
-=======
+# Kleithriasphaeridium loffrense Davey & Verdier, 1976 SPECIES
 
 #### Status
 ACCEPTED

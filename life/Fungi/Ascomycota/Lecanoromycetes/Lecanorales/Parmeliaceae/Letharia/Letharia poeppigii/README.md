@@ -1,5 +1,4 @@
-Letharia poeppigii (Nees & Flot.) Darb. SPECIES
-=======
+# Letharia poeppigii (Nees & Flot.) Darb. SPECIES
 
 #### Status
 ACCEPTED

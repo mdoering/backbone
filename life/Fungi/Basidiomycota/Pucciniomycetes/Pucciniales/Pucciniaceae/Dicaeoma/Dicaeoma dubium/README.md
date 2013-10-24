@@ -1,5 +1,4 @@
-Dicaeoma dubium (Cast.) Kuntze SPECIES
-=======
+# Dicaeoma dubium (Cast.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

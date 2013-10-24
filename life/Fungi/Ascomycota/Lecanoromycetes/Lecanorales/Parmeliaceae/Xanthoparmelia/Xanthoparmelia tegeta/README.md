@@ -1,5 +1,4 @@
-Xanthoparmelia tegeta Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia tegeta Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

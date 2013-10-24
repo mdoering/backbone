@@ -1,5 +1,4 @@
-Ophiocordyceps nepalensis (M. Zang & Kinjo) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps nepalensis (M. Zang & Kinjo) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

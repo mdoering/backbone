@@ -1,5 +1,4 @@
-Ascocalyx juniperinus (K. Holm & L. Holm) E. Müll. & Dorworth SPECIES
-=======
+# Ascocalyx juniperinus (K. Holm & L. Holm) E. Müll. & Dorworth SPECIES
 
 #### Status
 ACCEPTED

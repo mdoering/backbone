@@ -1,5 +1,4 @@
-Thelenella pertusariella (Nyl.) Vain. SPECIES
-=======
+# Thelenella pertusariella (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

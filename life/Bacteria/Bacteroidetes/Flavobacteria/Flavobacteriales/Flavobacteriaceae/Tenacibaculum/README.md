@@ -1,5 +1,4 @@
-Tenacibaculum Suzuki, Nakagawa, Harayama & Yamamoto, 2001 GENUS
-=======
+# Tenacibaculum Suzuki, Nakagawa, Harayama & Yamamoto, 2001 GENUS
 
 #### Status
 ACCEPTED

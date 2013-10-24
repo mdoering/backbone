@@ -1,5 +1,4 @@
-Graphis copelandii Vain. SPECIES
-=======
+# Graphis copelandii Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pertusarioides Groenh. SPECIES
-=======
+# Lecidea pertusarioides Groenh. SPECIES
 
 #### Status
 ACCEPTED

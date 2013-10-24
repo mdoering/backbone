@@ -1,5 +1,4 @@
-Flabellospora Alas. GENUS
-=======
+# Flabellospora Alas. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis heckeriae (Henn.) Bat., R. Garnier & J.L. Bezerra SPECIES
-=======
+# Phomopsis heckeriae (Henn.) Bat., R. Garnier & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

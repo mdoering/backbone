@@ -1,5 +1,4 @@
-Cortinarius weberianus Singer SPECIES
-=======
+# Cortinarius weberianus Singer SPECIES
 
 #### Status
 ACCEPTED

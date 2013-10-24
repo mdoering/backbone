@@ -1,5 +1,4 @@
-Conchophthirius cucumis SPECIES
-=======
+# Conchophthirius cucumis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechocystis crassa Voronichin SPECIES
-=======
+# Synechocystis crassa Voronichin SPECIES
 
 #### Status
 ACCEPTED

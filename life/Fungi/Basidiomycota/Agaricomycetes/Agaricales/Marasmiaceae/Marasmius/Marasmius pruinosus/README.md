@@ -1,5 +1,4 @@
-Marasmius pruinosus Fr. SPECIES
-=======
+# Marasmius pruinosus Fr. SPECIES
 
 #### Status
 ACCEPTED

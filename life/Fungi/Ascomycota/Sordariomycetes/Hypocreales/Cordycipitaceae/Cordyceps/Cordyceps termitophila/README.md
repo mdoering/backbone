@@ -1,5 +1,4 @@
-Cordyceps termitophila Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps termitophila Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

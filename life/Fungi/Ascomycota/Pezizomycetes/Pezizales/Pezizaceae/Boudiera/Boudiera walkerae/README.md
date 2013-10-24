@@ -1,5 +1,4 @@
-Boudiera walkerae Seaver SPECIES
-=======
+# Boudiera walkerae Seaver SPECIES
 
 #### Status
 ACCEPTED

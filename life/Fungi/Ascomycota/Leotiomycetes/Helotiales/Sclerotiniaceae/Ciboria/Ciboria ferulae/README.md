@@ -1,5 +1,4 @@
-Ciboria ferulae Raitv. SPECIES
-=======
+# Ciboria ferulae Raitv. SPECIES
 
 #### Status
 ACCEPTED

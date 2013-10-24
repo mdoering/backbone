@@ -1,5 +1,4 @@
-Verrucaria subdecussata Servít SPECIES
-=======
+# Verrucaria subdecussata Servít SPECIES
 
 #### Status
 ACCEPTED

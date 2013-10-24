@@ -1,5 +1,4 @@
-Taphrina cystopteridis Mix SPECIES
-=======
+# Taphrina cystopteridis Mix SPECIES
 
 #### Status
 ACCEPTED

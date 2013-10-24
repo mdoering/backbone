@@ -1,5 +1,4 @@
-Lecanora crocata Fée SPECIES
-=======
+# Lecanora crocata Fée SPECIES
 
 #### Status
 ACCEPTED

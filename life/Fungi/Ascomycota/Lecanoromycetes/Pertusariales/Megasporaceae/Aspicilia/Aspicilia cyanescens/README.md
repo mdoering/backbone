@@ -1,5 +1,4 @@
-Aspicilia cyanescens Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia cyanescens Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

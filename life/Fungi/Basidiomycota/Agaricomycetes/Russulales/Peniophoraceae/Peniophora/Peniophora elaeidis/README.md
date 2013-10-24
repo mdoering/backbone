@@ -1,5 +1,4 @@
-Peniophora elaeidis Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora elaeidis Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

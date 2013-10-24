@@ -1,5 +1,4 @@
-Phlyctochytrium lackeyi Sparrow SPECIES
-=======
+# Phlyctochytrium lackeyi Sparrow SPECIES
 
 #### Status
 ACCEPTED

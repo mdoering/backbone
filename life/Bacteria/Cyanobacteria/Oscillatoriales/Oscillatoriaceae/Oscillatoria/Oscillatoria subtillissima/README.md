@@ -1,5 +1,4 @@
-Oscillatoria subtillissima SPECIES
-=======
+# Oscillatoria subtillissima SPECIES
 
 #### Status
 ACCEPTED

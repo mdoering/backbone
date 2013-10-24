@@ -1,5 +1,4 @@
-Rinodina araucariae SPECIES
-=======
+# Rinodina araucariae SPECIES
 
 #### Status
 ACCEPTED

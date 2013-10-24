@@ -1,5 +1,4 @@
-Micarea osloënsis (Th. Fr.) Hedl. SPECIES
-=======
+# Micarea osloënsis (Th. Fr.) Hedl. SPECIES
 
 #### Status
 ACCEPTED

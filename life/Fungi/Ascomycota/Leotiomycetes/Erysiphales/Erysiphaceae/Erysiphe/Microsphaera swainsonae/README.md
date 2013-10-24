@@ -1,14 +1,13 @@
-Microsphaera swainsoniae (Y.N. Yu & Y.Q. Lai) U. Braun SPECIES
-=======
+# Microsphaera swainsonae (Y.N. Yu & Y.Q. Lai) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 14(1): 369 (1982)
 
 #### Original name
 Trichocladia swainsonae Y.N. Yu & Y.Q. Lai

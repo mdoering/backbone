@@ -1,17 +1,16 @@
-Agaricus nebrodensis Inzenga, 1866 SPECIES
-=======
+# Pleurotus nebrodensis (Inzenga) Quél., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Enchir. fung. (Paris) 148 (1886)
 
 #### Original name
-null
+Agaricus nebrodensis Inzenga, 1866
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lachnella pruinosa (Ces.) Sacc. SPECIES
-=======
+# Lachnella pruinosa (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bjerkandera terebrans (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Bjerkandera terebrans (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

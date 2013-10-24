@@ -1,5 +1,4 @@
-Scutellinia alleghenensis (Denison) J. Moravec SPECIES
-=======
+# Scutellinia alleghenensis (Denison) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

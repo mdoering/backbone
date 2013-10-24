@@ -1,5 +1,4 @@
-Trico-monas A. Donné, 1836 GENUS
-=======
+# Trico-monas A. Donné, 1836 GENUS
 
 #### Status
 ACCEPTED

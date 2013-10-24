@@ -1,5 +1,4 @@
-Pterospermopsimorpha paradoxa Pykhova, 1973 SPECIES
-=======
+# Pterospermopsimorpha paradoxa Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

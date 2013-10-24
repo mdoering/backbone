@@ -1,5 +1,4 @@
-Sphaerella acerina (Wallr.) Sacc. SPECIES
-=======
+# Sphaerella acerina (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

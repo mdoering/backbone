@@ -1,8 +1,7 @@
-Haemogregarina yakimovi-kohli Wladimiroff, 1910 SPECIES
-=======
+# Haemogregarina yakimovikohli Wladimiroff, 1910 emend Levine, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

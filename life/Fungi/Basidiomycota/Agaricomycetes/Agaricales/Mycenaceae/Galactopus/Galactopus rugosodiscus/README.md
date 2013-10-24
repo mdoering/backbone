@@ -1,5 +1,4 @@
-Galactopus rugosodiscus (Peck) Murrill SPECIES
-=======
+# Galactopus rugosodiscus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

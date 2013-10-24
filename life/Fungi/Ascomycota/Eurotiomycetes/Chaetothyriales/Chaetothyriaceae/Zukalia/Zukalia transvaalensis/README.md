@@ -1,5 +1,4 @@
-Zukalia transvaalensis Doidge SPECIES
-=======
+# Zukalia transvaalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

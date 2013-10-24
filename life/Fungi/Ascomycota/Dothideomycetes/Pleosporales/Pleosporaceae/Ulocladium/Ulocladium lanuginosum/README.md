@@ -1,14 +1,13 @@
-Stemphylium lanuginosum Harz, 1871 SPECIES
-=======
+# Ulocladium lanuginosum (Harz) E.G. Simmons, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Imp. nat. Moscou 44: 132-133 (1871)
+Mycologia 59(1): 80 (1967)
 
 #### Original name
 Stemphylium lanuginosum Harz, 1871

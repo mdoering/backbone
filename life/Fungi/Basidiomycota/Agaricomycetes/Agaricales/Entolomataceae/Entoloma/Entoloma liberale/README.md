@@ -1,5 +1,4 @@
-Entoloma liberale E. Horak SPECIES
-=======
+# Entoloma liberale E. Horak SPECIES
 
 #### Status
 ACCEPTED

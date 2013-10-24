@@ -1,5 +1,4 @@
-Lizoniella gastrolobii (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella gastrolobii (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

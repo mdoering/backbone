@@ -1,5 +1,4 @@
-Sphaerella leptosperma Speg. SPECIES
-=======
+# Sphaerella leptosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

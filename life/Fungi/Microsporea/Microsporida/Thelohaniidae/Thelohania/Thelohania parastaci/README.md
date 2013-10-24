@@ -1,5 +1,4 @@
-Thelohania parastaci E.G. Moodie, L.F. Le Jambre & M.E. Katz SPECIES
-=======
+# Thelohania parastaci E.G. Moodie, L.F. Le Jambre & M.E. Katz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tichothecium peregrinum (Flot.) G. Winter SPECIES
-=======
+# Tichothecium peregrinum (Flot.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

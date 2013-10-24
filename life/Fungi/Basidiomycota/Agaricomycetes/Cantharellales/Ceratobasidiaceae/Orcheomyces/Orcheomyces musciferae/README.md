@@ -1,5 +1,4 @@
-Orcheomyces musciferae Burgeff SPECIES
-=======
+# Orcheomyces musciferae Burgeff SPECIES
 
 #### Status
 ACCEPTED

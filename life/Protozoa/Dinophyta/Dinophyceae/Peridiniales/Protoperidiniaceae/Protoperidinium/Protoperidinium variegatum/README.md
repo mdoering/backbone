@@ -1,5 +1,4 @@
-Protoperidinium variegatum (Peters, 1928) Balech, 1974 SPECIES
-=======
+# Protoperidinium variegatum (Peters, 1928) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

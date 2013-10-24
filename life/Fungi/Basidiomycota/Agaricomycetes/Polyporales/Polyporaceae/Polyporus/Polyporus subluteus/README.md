@@ -1,5 +1,4 @@
-Polyporus subluteus Ellis & Everh. SPECIES
-=======
+# Polyporus subluteus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca rhytachnes Syd. SPECIES
-=======
+# Sphacelotheca rhytachnes Syd. SPECIES
 
 #### Status
 ACCEPTED

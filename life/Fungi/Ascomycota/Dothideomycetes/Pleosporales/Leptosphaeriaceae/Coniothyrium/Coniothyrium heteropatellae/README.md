@@ -1,5 +1,4 @@
-Coniothyrium heteropatellae Höhn. SPECIES
-=======
+# Coniothyrium heteropatellae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria boninensis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Humaria boninensis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

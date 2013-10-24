@@ -1,5 +1,4 @@
-Hypholoma capnolepis Kalchbr. SPECIES
-=======
+# Hypholoma capnolepis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

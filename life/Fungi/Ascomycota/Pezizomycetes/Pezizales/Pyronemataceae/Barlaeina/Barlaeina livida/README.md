@@ -1,5 +1,4 @@
-Barlaeina livida (Rehm) Sacc. & Traverso SPECIES
-=======
+# Barlaeina livida (Rehm) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

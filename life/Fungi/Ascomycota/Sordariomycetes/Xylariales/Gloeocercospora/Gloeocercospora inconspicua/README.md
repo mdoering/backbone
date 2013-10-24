@@ -1,5 +1,4 @@
-Gloeocercospora inconspicua Demaree & Wilcox ex Deighton SPECIES
-=======
+# Gloeocercospora inconspicua Demaree & Wilcox ex Deighton SPECIES
 
 #### Status
 ACCEPTED

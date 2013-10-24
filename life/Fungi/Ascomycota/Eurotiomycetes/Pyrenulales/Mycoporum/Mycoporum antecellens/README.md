@@ -1,5 +1,4 @@
-Mycoporum antecellens (Nyl.) R.C. Harris, 1995 SPECIES
-=======
+# Mycoporum antecellens (Nyl.) R.C. Harris, 1995 SPECIES
 
 #### Status
 ACCEPTED

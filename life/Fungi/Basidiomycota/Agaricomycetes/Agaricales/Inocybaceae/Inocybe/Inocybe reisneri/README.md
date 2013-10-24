@@ -1,5 +1,4 @@
-Inocybe reisneri Velen. SPECIES
-=======
+# Inocybe reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

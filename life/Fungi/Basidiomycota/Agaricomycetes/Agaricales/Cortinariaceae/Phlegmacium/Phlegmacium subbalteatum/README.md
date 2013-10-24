@@ -1,5 +1,4 @@
-Phlegmacium subbalteatum (Kühner) M.M. Moser SPECIES
-=======
+# Phlegmacium subbalteatum (Kühner) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

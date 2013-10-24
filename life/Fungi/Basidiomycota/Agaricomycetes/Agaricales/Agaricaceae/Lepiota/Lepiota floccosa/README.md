@@ -1,5 +1,4 @@
-Lepiota floccosa Beardslee SPECIES
-=======
+# Lepiota floccosa Beardslee SPECIES
 
 #### Status
 ACCEPTED

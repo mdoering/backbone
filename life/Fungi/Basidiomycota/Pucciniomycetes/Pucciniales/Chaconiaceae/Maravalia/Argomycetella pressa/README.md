@@ -1,5 +1,4 @@
-Argomycetella pressa (Arthur & Holw.) Syd. SPECIES
-=======
+# Argomycetella pressa (Arthur & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

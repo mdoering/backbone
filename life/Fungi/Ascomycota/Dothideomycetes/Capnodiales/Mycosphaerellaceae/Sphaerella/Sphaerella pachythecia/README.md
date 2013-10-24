@@ -1,5 +1,4 @@
-Sphaerella pachythecia Speg. SPECIES
-=======
+# Sphaerella pachythecia Speg. SPECIES
 
 #### Status
 ACCEPTED

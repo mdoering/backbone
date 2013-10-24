@@ -1,5 +1,4 @@
-Racospermyces J. Walker GENUS
-=======
+# Racospermyces J. Walker GENUS
 
 #### Status
 ACCEPTED

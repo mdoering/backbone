@@ -1,5 +1,4 @@
-Erinella heterotricha Speg. SPECIES
-=======
+# Erinella heterotricha Speg. SPECIES
 
 #### Status
 ACCEPTED

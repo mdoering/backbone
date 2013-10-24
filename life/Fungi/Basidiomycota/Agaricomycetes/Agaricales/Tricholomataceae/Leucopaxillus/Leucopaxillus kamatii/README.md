@@ -1,5 +1,4 @@
-Leucopaxillus kamatii Sathe & Rahalkar {?} ined. SPECIES
-=======
+# Leucopaxillus kamatii Sathe & Rahalkar {?} ined. SPECIES
 
 #### Status
 ACCEPTED

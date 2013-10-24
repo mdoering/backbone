@@ -1,5 +1,4 @@
-Caloplaca feracissima H. Magn. SPECIES
-=======
+# Caloplaca feracissima H. Magn. SPECIES
 
 #### Status
 ACCEPTED

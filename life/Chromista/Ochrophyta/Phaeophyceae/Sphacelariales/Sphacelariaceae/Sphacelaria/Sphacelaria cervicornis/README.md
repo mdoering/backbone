@@ -1,5 +1,4 @@
-Sphacelaria cervicornis C. Agardh SPECIES
-=======
+# Sphacelaria cervicornis C. Agardh SPECIES
 
 #### Status
 ACCEPTED

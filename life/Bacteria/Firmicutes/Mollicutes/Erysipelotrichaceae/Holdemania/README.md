@@ -1,5 +1,4 @@
-Holdemania Willems, Moore, Weiss & Collins, 1997 GENUS
-=======
+# Holdemania Willems, Moore, Weiss & Collins, 1997 GENUS
 
 #### Status
 ACCEPTED

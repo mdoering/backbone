@@ -1,5 +1,4 @@
-Collema decipiens var. decipiens VARIETY
-=======
+# Collema decipiens (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema decipiens var. decipiens
+Omphalaria decipiens A. Massal.
 
 ### Remarks
 null

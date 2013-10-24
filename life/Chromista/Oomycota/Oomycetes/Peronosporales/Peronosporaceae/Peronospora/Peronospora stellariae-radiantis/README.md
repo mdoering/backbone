@@ -1,5 +1,4 @@
-Peronospora stellariae-radiantis Sawada SPECIES
-=======
+# Peronospora stellariae-radiantis Sawada SPECIES
 
 #### Status
 ACCEPTED

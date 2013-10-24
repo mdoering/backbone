@@ -1,5 +1,4 @@
-Spirotectina crassa Saidova, 1975 SPECIES
-=======
+# Spirotectina crassa Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

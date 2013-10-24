@@ -1,5 +1,4 @@
-Phyllostictina cruenta (Kunze) Petr. & Syd. SPECIES
-=======
+# Phyllostictina cruenta (Kunze) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thelotrema hutchinsiae Borrer SPECIES
-=======
+# Pertusaria hutchinsiae (Borrer) Leight. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Suppl. Engl. Bot. 1: tab. 2652 (1831)
+Brit. Sp. Ang. Lich. 30 (1851)
 
 #### Original name
 Thelotrema hutchinsiae Borrer

@@ -1,5 +1,4 @@
-Saccharomyces cavernicula Redaelli SPECIES
-=======
+# Saccharomyces cavernicula Redaelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthatractus insolitus Deunff, 1954 SPECIES
-=======
+# Anthatractus insolitus Deunff, 1954 SPECIES
 
 #### Status
 ACCEPTED

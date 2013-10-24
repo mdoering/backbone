@@ -1,5 +1,4 @@
-Agrocybe viscosa Singer SPECIES
-=======
+# Agrocybe viscosa Singer SPECIES
 
 #### Status
 ACCEPTED

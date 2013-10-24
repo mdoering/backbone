@@ -1,5 +1,4 @@
-Glomerella anthurii Montem. SPECIES
-=======
+# Glomerella anthurii Montem. SPECIES
 
 #### Status
 ACCEPTED

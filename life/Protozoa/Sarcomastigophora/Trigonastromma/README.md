@@ -1,5 +1,4 @@
-Trigonastromma Haeckel, 1887 GENUS
-=======
+# Trigonastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

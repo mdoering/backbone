@@ -1,5 +1,4 @@
-Colletotrichum higginscanum Sacc. SPECIES
-=======
+# Colletotrichum higginscanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spicaria pracina Aoki SPECIES
-=======
+# Spicaria pracina Aoki SPECIES
 
 #### Status
 ACCEPTED

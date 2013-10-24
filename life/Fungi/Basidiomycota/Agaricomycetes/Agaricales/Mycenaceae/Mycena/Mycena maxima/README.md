@@ -1,5 +1,4 @@
-Mycena maxima Jacobashch SPECIES
-=======
+# Mycena maxima Jacobashch SPECIES
 
 #### Status
 ACCEPTED

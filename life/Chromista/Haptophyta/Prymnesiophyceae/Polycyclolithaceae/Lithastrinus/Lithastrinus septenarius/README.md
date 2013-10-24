@@ -1,5 +1,4 @@
-Lithastrinus septenarius Forchheimer, 1972 SPECIES
-=======
+# Lithastrinus septenarius Forchheimer, 1972 SPECIES
 
 #### Status
 ACCEPTED

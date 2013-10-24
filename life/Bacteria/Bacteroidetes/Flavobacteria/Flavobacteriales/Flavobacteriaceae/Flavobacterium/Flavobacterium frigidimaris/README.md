@@ -1,5 +1,4 @@
-Flavobacterium frigidimaris Nogi et al., 2005 SPECIES
-=======
+# Flavobacterium frigidimaris Nogi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

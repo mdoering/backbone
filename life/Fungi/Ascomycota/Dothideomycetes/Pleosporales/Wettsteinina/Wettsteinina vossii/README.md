@@ -1,5 +1,4 @@
-Wettsteinina vossii (Rehm) Höhn. SPECIES
-=======
+# Wettsteinina vossii (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

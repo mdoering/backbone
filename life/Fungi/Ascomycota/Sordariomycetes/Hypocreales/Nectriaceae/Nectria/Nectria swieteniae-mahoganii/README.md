@@ -1,5 +1,4 @@
-Nectria swieteniae-mahoganii C.C. Chen SPECIES
-=======
+# Nectria swieteniae-mahoganii C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

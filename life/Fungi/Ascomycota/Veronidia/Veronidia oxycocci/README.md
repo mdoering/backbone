@@ -1,5 +1,4 @@
-Veronidia oxycocci Negru, 1964 SPECIES
-=======
+# Veronidia oxycocci Negru, 1964 SPECIES
 
 #### Status
 ACCEPTED

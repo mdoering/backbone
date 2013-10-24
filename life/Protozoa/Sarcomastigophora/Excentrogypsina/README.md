@@ -1,5 +1,4 @@
-Excentrogypsina Popescu, 1975 GENUS
-=======
+# Excentrogypsina Popescu, 1975 GENUS
 
 #### Status
 ACCEPTED

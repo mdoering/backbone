@@ -1,5 +1,4 @@
-Cetrariastrum nepalense (Taylor) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum nepalense (Taylor) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

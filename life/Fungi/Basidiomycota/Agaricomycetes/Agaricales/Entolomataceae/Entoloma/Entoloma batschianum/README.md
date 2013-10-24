@@ -1,5 +1,4 @@
-Entoloma batschianum (Fr.) Sacc. SPECIES
-=======
+# Entoloma batschianum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphiolites sabaleos Fritel SPECIES
-=======
+# Graphiolites sabaleos Fritel SPECIES
 
 #### Status
 ACCEPTED

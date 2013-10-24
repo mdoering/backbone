@@ -1,5 +1,4 @@
-Opercularia elongata Kellicott, 1884 SPECIES
-=======
+# Opercularia elongata Kellicott, 1884 SPECIES
 
 #### Status
 ACCEPTED

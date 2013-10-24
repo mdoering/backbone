@@ -1,5 +1,4 @@
-Sphaeria ambleia Cooke & Ellis SPECIES
-=======
+# Sphaeria ambleia Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

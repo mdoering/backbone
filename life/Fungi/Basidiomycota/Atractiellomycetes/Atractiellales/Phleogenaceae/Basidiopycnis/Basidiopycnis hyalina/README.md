@@ -1,5 +1,4 @@
-Basidiopycnis hyalina Oberw., R. Kirschner, R. Bauer, Begerow & Arenal, 2006 SPECIES
-=======
+# Basidiopycnis hyalina Oberw., R. Kirschner, R. Bauer, Begerow & Arenal, 2006 SPECIES
 
 #### Status
 ACCEPTED

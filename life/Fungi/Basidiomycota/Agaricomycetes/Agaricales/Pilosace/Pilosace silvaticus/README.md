@@ -1,5 +1,4 @@
-Pilosace silvaticus (Peck) Kuntze SPECIES
-=======
+# Pilosace silvaticus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

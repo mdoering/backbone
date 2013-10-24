@@ -1,5 +1,4 @@
-Nassula muscicola subsp. muscicola SUBSPECIES
-=======
+# Nassula muscicola Kahl SPECIES
 
 #### Status
 ACCEPTED

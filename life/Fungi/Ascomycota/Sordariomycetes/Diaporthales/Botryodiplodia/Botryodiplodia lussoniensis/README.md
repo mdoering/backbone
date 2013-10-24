@@ -1,5 +1,4 @@
-Botryodiplodia lussoniensis (Sacc.) Petr. SPECIES
-=======
+# Botryodiplodia lussoniensis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

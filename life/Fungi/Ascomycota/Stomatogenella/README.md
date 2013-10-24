@@ -1,5 +1,4 @@
-Stomatogenella Petr. GENUS
-=======
+# Stomatogenella Petr. GENUS
 
 #### Status
 ACCEPTED

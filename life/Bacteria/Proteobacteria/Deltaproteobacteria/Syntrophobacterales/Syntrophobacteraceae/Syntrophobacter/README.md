@@ -1,5 +1,4 @@
-Syntrophobacter Boone & Bryant, 1984 GENUS
-=======
+# Syntrophobacter Boone & Bryant, 1984 GENUS
 
 #### Status
 ACCEPTED

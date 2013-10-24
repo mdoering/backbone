@@ -1,5 +1,4 @@
-Dematium vinosum Schwein. SPECIES
-=======
+# Dematium vinosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

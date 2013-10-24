@@ -1,5 +1,4 @@
-Fusicatena K. Matsush. & Matsush. GENUS
-=======
+# Fusicatena K. Matsush. & Matsush. GENUS
 
 #### Status
 ACCEPTED

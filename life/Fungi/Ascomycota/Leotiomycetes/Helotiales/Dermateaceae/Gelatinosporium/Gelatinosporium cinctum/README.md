@@ -1,5 +1,4 @@
-Gelatinosporium cinctum (Berk. & M.A. Curtis) Petr. SPECIES
-=======
+# Gelatinosporium cinctum (Berk. & M.A. Curtis) Petr. SPECIES
 
 #### Status
 ACCEPTED

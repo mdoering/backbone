@@ -1,5 +1,4 @@
-Calyptronectria platensis Speg., 1909 SPECIES
-=======
+# Calyptronectria platensis Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

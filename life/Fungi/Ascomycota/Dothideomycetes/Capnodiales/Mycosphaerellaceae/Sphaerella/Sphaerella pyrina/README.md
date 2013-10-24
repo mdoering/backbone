@@ -1,5 +1,4 @@
-Sphaerella pyrina Ellis & Everh. SPECIES
-=======
+# Sphaerella pyrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

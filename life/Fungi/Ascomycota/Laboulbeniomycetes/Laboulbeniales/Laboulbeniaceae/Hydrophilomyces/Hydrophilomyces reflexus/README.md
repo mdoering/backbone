@@ -1,5 +1,4 @@
-Hydrophilomyces reflexus Thaxt. SPECIES
-=======
+# Hydrophilomyces reflexus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

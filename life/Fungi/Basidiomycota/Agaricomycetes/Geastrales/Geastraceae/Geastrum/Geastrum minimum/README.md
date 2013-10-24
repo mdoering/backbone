@@ -1,17 +1,16 @@
-Geastrum minimum var. fumosicollum V.J. Stanek VARIETY
-=======
+# Geastrum minimum Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mittheil. Naturforsch. Gesell. 1: 116 (1822)
 
 #### Original name
-Geastrum minimum var. fumosicollum V.J. Stanek
+Geastrum minimum Schwein., 1822
 
 ### Remarks
 null

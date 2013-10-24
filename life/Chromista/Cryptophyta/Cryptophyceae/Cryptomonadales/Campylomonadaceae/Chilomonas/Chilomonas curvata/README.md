@@ -1,5 +1,4 @@
-Chilomonas curvata Pringsheim SPECIES
-=======
+# Chilomonas curvata Pringsheim SPECIES
 
 #### Status
 ACCEPTED

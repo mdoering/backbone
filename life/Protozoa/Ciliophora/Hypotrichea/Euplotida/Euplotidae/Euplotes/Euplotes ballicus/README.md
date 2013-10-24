@@ -1,5 +1,4 @@
-Euplotes ballicus SPECIES
-=======
+# Euplotes ballicus SPECIES
 
 #### Status
 ACCEPTED

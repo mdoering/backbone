@@ -1,14 +1,13 @@
-Leptosphaeria vectis (Berk. & Broome) Ces. & De Not., 1863 SPECIES
-=======
+# Paraphaeosphaeria vectis (Berk. & Broome) Hedjar., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. Soc. crittog. Ital. 1(4): 236 (1863)
+Sydowia 22(1-4): 98 (1969)
 
 #### Original name
 Sphaeria vectis Berk. & Broome, 1854

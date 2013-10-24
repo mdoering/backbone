@@ -1,5 +1,4 @@
-Rinodina succedens Nyl. SPECIES
-=======
+# Rinodina succedens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta gaudichaldia Delise SPECIES
-=======
+# Sticta gaudichaldia Delise SPECIES
 
 #### Status
 ACCEPTED

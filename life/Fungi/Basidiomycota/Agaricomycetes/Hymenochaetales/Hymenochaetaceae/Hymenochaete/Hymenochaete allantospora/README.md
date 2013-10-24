@@ -1,5 +1,4 @@
-Hymenochaete allantospora Parmasto, 2001 SPECIES
-=======
+# Hymenochaete allantospora Parmasto, 2001 SPECIES
 
 #### Status
 ACCEPTED

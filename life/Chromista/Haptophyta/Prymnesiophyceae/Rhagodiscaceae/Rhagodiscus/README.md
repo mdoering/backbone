@@ -1,14 +1,13 @@
-Viminites M. Black, 1975 GENUS
-=======
+# Rhagodiscus P. Reinhardt, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-British Lower Cretaceous coccoliths. 1. Gault Clay. Palaeontogr. Soc. (Monogr. ) 129 (543): 126.
+Neues Jb. Geol. Palaont. Mh. 1967: 166.
 
 #### Original name
 null

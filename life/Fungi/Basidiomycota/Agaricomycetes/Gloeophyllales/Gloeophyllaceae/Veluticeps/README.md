@@ -1,17 +1,16 @@
-Columnocystis Pouzar GENUS
-=======
+# Veluticeps (Cooke) Patouillard, 1894 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 13: 17 (1959)
+null
 
 #### Original name
-Columnocystis Pouzar
+null
 
 ### Remarks
 null

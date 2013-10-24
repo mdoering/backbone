@@ -1,5 +1,4 @@
-Lecanora granvinensis Vain. SPECIES
-=======
+# Lecanora granvinensis Vain. SPECIES
 
 #### Status
 ACCEPTED

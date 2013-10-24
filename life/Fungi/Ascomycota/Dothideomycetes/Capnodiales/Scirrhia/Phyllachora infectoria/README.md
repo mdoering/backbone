@@ -1,5 +1,4 @@
-Phyllachora infectoria Cooke, 1885 SPECIES
-=======
+# Phyllachora infectoria Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

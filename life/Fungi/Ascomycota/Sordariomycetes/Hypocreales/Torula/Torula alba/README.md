@@ -1,5 +1,4 @@
-Torula alba Pers. SPECIES
-=======
+# Torula alba Pers. SPECIES
 
 #### Status
 ACCEPTED

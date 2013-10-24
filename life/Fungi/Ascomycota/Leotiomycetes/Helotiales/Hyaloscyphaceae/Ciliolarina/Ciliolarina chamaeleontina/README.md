@@ -1,14 +1,13 @@
-Ciliolarina chameleontina (Peck) Raitv. SPECIES
-=======
+# Ciliolarina chamaeleontina (Peck) Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Scripta Mycol. , Tartu 20: 20 (2004)
 
 #### Original name
 Peziza chamaeleontina Peck

@@ -1,5 +1,4 @@
-Solisphaera emidasia Bollmann, Cortés, Kleijne, Østergaard & Younggen, 2006 SPECIES
-=======
+# Solisphaera emidasia Bollmann, Cortés, Kleijne, Østergaard & Younggen, 2006 SPECIES
 
 #### Status
 ACCEPTED

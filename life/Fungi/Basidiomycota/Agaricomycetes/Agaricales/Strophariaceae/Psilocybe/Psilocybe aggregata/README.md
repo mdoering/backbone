@@ -1,5 +1,4 @@
-Psilocybe aggregata Cleland & Cheel SPECIES
-=======
+# Psilocybe aggregata Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

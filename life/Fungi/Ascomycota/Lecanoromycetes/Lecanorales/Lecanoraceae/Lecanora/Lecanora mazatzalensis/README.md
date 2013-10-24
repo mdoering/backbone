@@ -1,5 +1,4 @@
-Lecanora mazatzalensis B. D. Ryan & T. H. Nash SPECIES
-=======
+# Lecanora mazatzalensis B. D. Ryan & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

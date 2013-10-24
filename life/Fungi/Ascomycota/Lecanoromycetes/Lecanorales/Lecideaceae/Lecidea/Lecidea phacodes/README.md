@@ -1,5 +1,4 @@
-Lecidea phacodes (Körb.) Leight. SPECIES
-=======
+# Lecidea phacodes (Körb.) Leight. SPECIES
 
 #### Status
 ACCEPTED

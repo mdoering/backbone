@@ -1,5 +1,4 @@
-Phacidium patellaria Fr. SPECIES
-=======
+# Phacidium patellaria Fr. SPECIES
 
 #### Status
 ACCEPTED

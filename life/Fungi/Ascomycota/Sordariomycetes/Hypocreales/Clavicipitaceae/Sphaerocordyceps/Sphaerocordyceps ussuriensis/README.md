@@ -1,5 +1,4 @@
-Sphaerocordyceps ussuriensis (Koval) Kobayasi SPECIES
-=======
+# Sphaerocordyceps ussuriensis (Koval) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

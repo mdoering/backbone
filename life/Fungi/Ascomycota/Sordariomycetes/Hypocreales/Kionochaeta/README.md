@@ -1,17 +1,16 @@
-Phialocorona Subram. GENUS
-=======
+# Kionochaeta P.M. Kirk & B. Sutton GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 20/21(1-2): 57 (1995)
+Trans. Br. mycol. Soc. 85(4): 712 (1986)
 
 #### Original name
-Phialocorona Subram.
+Kionochaeta P.M. Kirk & B. Sutton
 
 ### Remarks
 null

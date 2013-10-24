@@ -1,17 +1,16 @@
-Hydnum farinaceum subsp. farinaceum SUBSPECIES
-=======
+# Trechispora farinacea (Pers.) Liberta, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Taxon 15(8): 318 (1966)
 
 #### Original name
-null
+Hydnum farinaceum Pers., 1801
 
 ### Remarks
 null

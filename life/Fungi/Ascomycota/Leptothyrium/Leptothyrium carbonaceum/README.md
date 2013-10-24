@@ -1,5 +1,4 @@
-Leptothyrium carbonaceum Earle SPECIES
-=======
+# Leptothyrium carbonaceum Earle SPECIES
 
 #### Status
 ACCEPTED

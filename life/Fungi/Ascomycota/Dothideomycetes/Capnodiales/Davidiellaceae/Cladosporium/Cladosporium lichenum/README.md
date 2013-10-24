@@ -1,5 +1,4 @@
-Cladosporium lichenum Keissl. SPECIES
-=======
+# Cladosporium lichenum Keissl. SPECIES
 
 #### Status
 ACCEPTED

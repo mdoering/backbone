@@ -1,5 +1,4 @@
-Clitocybe collybioides Speg. SPECIES
-=======
+# Clitocybe collybioides Speg. SPECIES
 
 #### Status
 ACCEPTED

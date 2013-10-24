@@ -1,5 +1,4 @@
-Monotospora parasitica Syd. & P. Syd. SPECIES
-=======
+# Monotospora parasitica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

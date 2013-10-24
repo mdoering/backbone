@@ -1,5 +1,4 @@
-Coryneum dubium Speg. SPECIES
-=======
+# Coryneum dubium Speg. SPECIES
 
 #### Status
 ACCEPTED

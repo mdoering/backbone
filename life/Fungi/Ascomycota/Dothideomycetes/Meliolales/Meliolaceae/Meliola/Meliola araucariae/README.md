@@ -1,5 +1,4 @@
-Meliola araucariae J.P. Ellis SPECIES
-=======
+# Meliola araucariae J.P. Ellis SPECIES
 
 #### Status
 ACCEPTED

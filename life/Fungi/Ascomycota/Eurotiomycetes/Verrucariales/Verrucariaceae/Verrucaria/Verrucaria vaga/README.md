@@ -1,5 +1,4 @@
-Verrucaria vaga Nyl. SPECIES
-=======
+# Verrucaria vaga Nyl. SPECIES
 
 #### Status
 ACCEPTED

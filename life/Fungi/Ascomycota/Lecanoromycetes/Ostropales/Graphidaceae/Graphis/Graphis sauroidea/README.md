@@ -1,5 +1,4 @@
-Graphis sauroidea Leight. SPECIES
-=======
+# Graphis sauroidea Leight. SPECIES
 
 #### Status
 ACCEPTED

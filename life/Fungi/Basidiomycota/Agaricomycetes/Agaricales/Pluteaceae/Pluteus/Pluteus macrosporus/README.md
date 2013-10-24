@@ -1,5 +1,4 @@
-Pluteus macrosporus S. Imai SPECIES
-=======
+# Pluteus macrosporus S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora brevispora Cooke & Harkn. SPECIES
-=======
+# Ceuthospora brevispora Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

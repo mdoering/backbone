@@ -1,5 +1,4 @@
-Cercostigmina trichiliae U. Braun SPECIES
-=======
+# Cercostigmina trichiliae U. Braun SPECIES
 
 #### Status
 ACCEPTED

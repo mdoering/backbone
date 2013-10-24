@@ -1,5 +1,4 @@
-Botryosphaeria bondarzewii L.A. Kantsch. SPECIES
-=======
+# Botryosphaeria bondarzewii L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

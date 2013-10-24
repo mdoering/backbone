@@ -1,5 +1,4 @@
-Achlya spiracaulis T.W. Johnson SPECIES
-=======
+# Achlya spiracaulis T.W. Johnson SPECIES
 
 #### Status
 ACCEPTED

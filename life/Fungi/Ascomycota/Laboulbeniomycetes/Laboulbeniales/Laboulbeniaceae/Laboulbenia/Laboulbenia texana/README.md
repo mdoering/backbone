@@ -1,5 +1,4 @@
-Laboulbenia texana var. texana VARIETY
-=======
+# Laboulbenia texana Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia texana var. texana
+Laboulbenia texana Thaxt.
 
 ### Remarks
 null

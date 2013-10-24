@@ -1,5 +1,4 @@
-Synura caroliniana Whitford SPECIES
-=======
+# Synura caroliniana Whitford SPECIES
 
 #### Status
 ACCEPTED

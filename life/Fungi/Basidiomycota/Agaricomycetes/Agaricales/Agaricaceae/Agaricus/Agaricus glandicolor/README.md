@@ -1,5 +1,4 @@
-Agaricus glandicolor Weinm. SPECIES
-=======
+# Agaricus glandicolor Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simplalveolina GENUS
-=======
+# Simplalveolina GENUS
 
 #### Status
 ACCEPTED

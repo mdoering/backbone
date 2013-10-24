@@ -1,5 +1,4 @@
-Triceratium excavatum (Heiberg) N. I. Strelnikova SPECIES
-=======
+# Triceratium excavatum (Heiberg) N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polystictus roseolus Rick ex Theiss., 1911 SPECIES
-=======
+# Skeletocutis roseola (Rick ex Theiss.) Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 83: 239 (1911)
+Nordic Jl Bot. 7(5): 561 (1987)
 
 #### Original name
 Polystictus roseolus Rick ex Theiss., 1911

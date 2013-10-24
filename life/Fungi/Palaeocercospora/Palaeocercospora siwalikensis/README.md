@@ -1,5 +1,4 @@
-Palaeocercospora siwalikensis S. Mitra & Manju Banerjee SPECIES
-=======
+# Palaeocercospora siwalikensis S. Mitra & Manju Banerjee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora nigri var. nigri VARIETY
-=======
+# Cercospora nigri Tharp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 9(2): 112 (1917)
 
 #### Original name
-Cercospora nigri var. nigri
+Cercospora nigri Tharp
 
 ### Remarks
 null

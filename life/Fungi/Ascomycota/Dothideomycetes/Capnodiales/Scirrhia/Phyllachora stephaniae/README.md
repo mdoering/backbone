@@ -1,5 +1,4 @@
-Phyllachora stephaniae (Racib.) Racib. ex Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora stephaniae (Racib.) Racib. ex Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Endocochlus Drechsler GENUS
-=======
+# Endocochlus Drechsler GENUS
 
 #### Status
 ACCEPTED

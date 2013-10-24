@@ -1,5 +1,4 @@
-Eccilia atrostipitata Henn. SPECIES
-=======
+# Eccilia atrostipitata Henn. SPECIES
 
 #### Status
 ACCEPTED

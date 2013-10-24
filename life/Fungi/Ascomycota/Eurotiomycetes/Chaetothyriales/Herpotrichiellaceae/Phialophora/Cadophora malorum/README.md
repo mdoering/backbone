@@ -1,17 +1,16 @@
-Sporotrichum carpogenum Ruehle, 1931 SPECIES
-=======
+# Cadophora malorum (Kidd & Beaumont) W. Gams, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 21: 1144 (1931)
+Stud. Mycol. 45: 188 (2000)
 
 #### Original name
-Sporotrichum carpogenum Ruehle, 1931
+Sporotrichum malorum Kidd & Beaumont, 1924
 
 ### Remarks
 null

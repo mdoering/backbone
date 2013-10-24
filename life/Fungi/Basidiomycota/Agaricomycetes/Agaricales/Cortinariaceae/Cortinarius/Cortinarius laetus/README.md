@@ -1,5 +1,4 @@
-Cortinarius laetus M.M. Moser SPECIES
-=======
+# Cortinarius laetus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

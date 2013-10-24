@@ -1,5 +1,4 @@
-Lophiostoma dumeti var. dumeti VARIETY
-=======
+# Lophiostoma dumeti Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiostoma dumeti var. dumeti
+Lophiostoma dumeti Sacc.
 
 ### Remarks
 null

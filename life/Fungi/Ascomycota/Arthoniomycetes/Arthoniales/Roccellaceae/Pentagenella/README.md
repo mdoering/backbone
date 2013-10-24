@@ -1,5 +1,4 @@
-Pentagenella Darb. GENUS
-=======
+# Pentagenella Darb. GENUS
 
 #### Status
 ACCEPTED

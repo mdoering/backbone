@@ -1,5 +1,4 @@
-Lecidea persica J. Steiner SPECIES
-=======
+# Lecidea persica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

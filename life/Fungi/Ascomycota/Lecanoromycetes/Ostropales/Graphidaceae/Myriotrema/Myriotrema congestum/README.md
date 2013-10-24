@@ -1,5 +1,4 @@
-Myriotrema congestum (Hale) Hale SPECIES
-=======
+# Myriotrema congestum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

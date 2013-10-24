@@ -1,5 +1,4 @@
-Pseudoplacodium pseudopsorale Motyka SPECIES
-=======
+# Pseudoplacodium pseudopsorale Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerostilbe sanguinea Fuckel SPECIES
-=======
+# Sphaerostilbe sanguinea Fuckel SPECIES
 
 #### Status
 ACCEPTED

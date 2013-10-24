@@ -1,5 +1,4 @@
-Usnea rubropunctata Motyka SPECIES
-=======
+# Usnea rubropunctata Motyka SPECIES
 
 #### Status
 ACCEPTED

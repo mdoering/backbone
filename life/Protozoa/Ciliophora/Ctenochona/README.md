@@ -1,5 +1,4 @@
-Ctenochona Yankovskii, 1973 GENUS
-=======
+# Ctenochona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

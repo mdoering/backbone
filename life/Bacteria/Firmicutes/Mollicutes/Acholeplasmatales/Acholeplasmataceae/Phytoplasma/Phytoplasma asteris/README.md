@@ -1,5 +1,4 @@
-Phytoplasma asteris Lee et al., 2004. SPECIES
-=======
+# Phytoplasma asteris Lee et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium rhizophilum Pat. & Gaillard SPECIES
-=======
+# Graphium rhizophilum Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

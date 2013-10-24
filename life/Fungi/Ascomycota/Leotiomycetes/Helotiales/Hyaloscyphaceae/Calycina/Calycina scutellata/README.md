@@ -1,5 +1,4 @@
-Calycina scutellata (Cooke & Kalchbr.) Kuntze SPECIES
-=======
+# Calycina scutellata (Cooke & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

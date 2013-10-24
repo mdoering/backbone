@@ -1,5 +1,4 @@
-Requejomyxa armata B.V. Skvortzov SPECIES
-=======
+# Requejomyxa armata B.V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

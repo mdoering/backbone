@@ -1,5 +1,4 @@
-Opegrapha mangenotii R. Sant. SPECIES
-=======
+# Opegrapha mangenotii R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dasyscypha citrina Velen. SPECIES
-=======
+# Dasyscyphus citrina Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 238 (1934)
 
 #### Original name
-Dasyscypha citrina Velen.
+Dasyscyphus citrina Velen.
 
 ### Remarks
 null

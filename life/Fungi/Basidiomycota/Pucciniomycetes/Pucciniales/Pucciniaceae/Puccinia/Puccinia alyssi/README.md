@@ -1,5 +1,4 @@
-Puccinia alyssi P. Syd. & Syd. SPECIES
-=======
+# Puccinia alyssi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

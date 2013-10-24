@@ -1,5 +1,4 @@
-Apiosordaria nigeriensis Stchigel & Guarro SPECIES
-=======
+# Apiosordaria nigeriensis Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

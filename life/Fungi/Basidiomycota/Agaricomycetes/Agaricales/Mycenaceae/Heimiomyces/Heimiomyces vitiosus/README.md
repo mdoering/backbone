@@ -1,5 +1,4 @@
-Heimiomyces vitiosus E. Horak SPECIES
-=======
+# Heimiomyces vitiosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

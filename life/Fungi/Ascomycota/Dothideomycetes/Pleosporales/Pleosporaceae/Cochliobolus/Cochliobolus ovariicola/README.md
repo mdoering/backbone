@@ -1,5 +1,4 @@
-Cochliobolus ovariicola Alcorn, 1990 SPECIES
-=======
+# Cochliobolus ovariicola Alcorn, 1990 SPECIES
 
 #### Status
 ACCEPTED

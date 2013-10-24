@@ -1,17 +1,16 @@
-Menegazzia bullata (Stirt.) Bitter SPECIES
-=======
+# Menegazzia corrugata P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 276 (1901)
+in James & Galloway, Flora of Australia (Canberra), Vol. <b>54</b>. Lichens  Introduction, Lecanorales 1 312 (1992)
 
 #### Original name
-Parmelia bullata (Sw.) Ach.
+Menegazzia corrugata P. James
 
 ### Remarks
 null

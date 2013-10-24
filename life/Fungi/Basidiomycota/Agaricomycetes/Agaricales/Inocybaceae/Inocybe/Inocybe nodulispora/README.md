@@ -1,5 +1,4 @@
-Inocybe nodulispora Peck SPECIES
-=======
+# Inocybe nodulispora Peck SPECIES
 
 #### Status
 ACCEPTED

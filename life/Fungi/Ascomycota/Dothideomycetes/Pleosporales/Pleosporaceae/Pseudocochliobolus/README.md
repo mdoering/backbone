@@ -1,5 +1,4 @@
-Pseudocochliobolus GENUS
-=======
+# Pseudocochliobolus GENUS
 
 #### Status
 ACCEPTED

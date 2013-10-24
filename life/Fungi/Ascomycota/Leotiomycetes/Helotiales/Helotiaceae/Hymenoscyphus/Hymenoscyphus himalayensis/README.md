@@ -1,5 +1,4 @@
-Hymenoscyphus himalayensis (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Hymenoscyphus himalayensis (K.S. Thind & H. Singh) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

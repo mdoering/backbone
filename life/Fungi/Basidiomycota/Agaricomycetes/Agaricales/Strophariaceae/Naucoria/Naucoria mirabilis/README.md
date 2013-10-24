@@ -1,5 +1,4 @@
-Naucoria mirabilis (G.F. Atk.) Watling SPECIES
-=======
+# Naucoria mirabilis (G.F. Atk.) Watling SPECIES
 
 #### Status
 ACCEPTED

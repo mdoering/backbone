@@ -1,5 +1,4 @@
-Strasseria viburni Sousa da Câmara SPECIES
-=======
+# Strasseria viburni Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

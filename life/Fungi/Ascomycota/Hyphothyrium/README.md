@@ -1,5 +1,4 @@
-Hyphothyrium B. Sutton & Pascoe GENUS
-=======
+# Hyphothyrium B. Sutton & Pascoe GENUS
 
 #### Status
 ACCEPTED

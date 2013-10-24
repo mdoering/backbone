@@ -1,5 +1,4 @@
-Cortinarius foligemmatus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius foligemmatus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

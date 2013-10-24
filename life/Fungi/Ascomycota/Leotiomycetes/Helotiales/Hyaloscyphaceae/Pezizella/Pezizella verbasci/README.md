@@ -1,5 +1,4 @@
-Pezizella verbasci Velen. SPECIES
-=======
+# Pezizella verbasci Velen. SPECIES
 
 #### Status
 ACCEPTED

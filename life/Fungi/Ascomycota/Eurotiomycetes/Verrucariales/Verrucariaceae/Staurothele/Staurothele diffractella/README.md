@@ -1,5 +1,4 @@
-Staurothele diffractella (Nyl.) Tuck. SPECIES
-=======
+# Staurothele diffractella (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

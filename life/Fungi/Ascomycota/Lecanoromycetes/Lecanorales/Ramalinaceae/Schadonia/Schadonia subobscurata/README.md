@@ -1,5 +1,4 @@
-Schadonia subobscurata (Vain.) Kalb SPECIES
-=======
+# Schadonia subobscurata (Vain.) Kalb SPECIES
 
 #### Status
 ACCEPTED

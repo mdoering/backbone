@@ -1,5 +1,4 @@
-Puccinia impressa Syd. SPECIES
-=======
+# Puccinia impressa Syd. SPECIES
 
 #### Status
 ACCEPTED

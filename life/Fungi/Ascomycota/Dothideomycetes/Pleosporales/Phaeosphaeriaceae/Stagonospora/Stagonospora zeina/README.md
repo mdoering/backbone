@@ -1,5 +1,4 @@
-Stagonospora zeina Saccas SPECIES
-=======
+# Stagonospora zeina Saccas SPECIES
 
 #### Status
 ACCEPTED

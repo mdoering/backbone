@@ -1,14 +1,13 @@
-Benedenia Schneider, 1875 GENUS
-=======
+# Aggregata Frenzel, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Arch. Zool. exp. gén. Paris, 4, xliv.
+Arch. mikr. Anat. , 24, 560.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Graphis albidolivens Vain. SPECIES
-=======
+# Graphis albidolivens Vain. SPECIES
 
 #### Status
 ACCEPTED

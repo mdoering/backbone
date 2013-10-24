@@ -1,5 +1,4 @@
-Russula lilacipes Shear SPECIES
-=======
+# Russula lilacipes Shear SPECIES
 
 #### Status
 ACCEPTED

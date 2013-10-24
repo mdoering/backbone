@@ -1,5 +1,4 @@
-Meliola hendrickxiana Hansf. SPECIES
-=======
+# Meliola hendrickxiana Hansf. SPECIES
 
 #### Status
 ACCEPTED

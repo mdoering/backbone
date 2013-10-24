@@ -1,17 +1,16 @@
-Rhizocarpon eupetraeum f. eupetraeum FORM
-=======
+# Rhizocarpon eupetraeum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rhizocarpon eupetraeum f. eupetraeum
+Lecidea eupetraea Nyl.
 
 ### Remarks
 null

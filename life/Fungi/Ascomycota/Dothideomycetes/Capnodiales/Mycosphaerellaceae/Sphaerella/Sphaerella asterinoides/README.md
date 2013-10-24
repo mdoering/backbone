@@ -1,5 +1,4 @@
-Sphaerella asterinoides Pat. SPECIES
-=======
+# Sphaerella asterinoides Pat. SPECIES
 
 #### Status
 ACCEPTED

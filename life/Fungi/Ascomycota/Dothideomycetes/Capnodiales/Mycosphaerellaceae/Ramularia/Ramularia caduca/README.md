@@ -1,14 +1,13 @@
-Ovularia caduca W. Voss, 1892 SPECIES
-=======
+# Ramularia caduca (W. Voss) U. Braun, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myc. Carn. 4: 283 (1892)
+Nova Hedwigia 54(3-4): 464 (1992)
 
 #### Original name
 Ovularia caduca W. Voss, 1892

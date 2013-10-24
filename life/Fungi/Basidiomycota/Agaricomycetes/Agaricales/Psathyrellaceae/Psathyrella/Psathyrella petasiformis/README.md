@@ -1,5 +1,4 @@
-Psathyrella petasiformis Murrill SPECIES
-=======
+# Psathyrella petasiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

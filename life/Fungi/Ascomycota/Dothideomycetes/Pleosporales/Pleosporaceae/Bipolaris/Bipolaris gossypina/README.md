@@ -1,5 +1,4 @@
-Bipolaris gossypina Sivan. SPECIES
-=======
+# Bipolaris gossypina Sivan. SPECIES
 
 #### Status
 ACCEPTED

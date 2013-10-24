@@ -1,5 +1,4 @@
-Caloplaca caespitosa (Müll. Arg.) Lettau SPECIES
-=======
+# Caloplaca caespitosa (Müll. Arg.) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea alsteeniana P.A. Duvign. SPECIES
-=======
+# Usnea alsteeniana P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

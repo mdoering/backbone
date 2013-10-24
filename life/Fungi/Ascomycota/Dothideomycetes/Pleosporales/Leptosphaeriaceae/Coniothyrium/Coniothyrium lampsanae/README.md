@@ -1,5 +1,4 @@
-Coniothyrium lampsanae (Allesch.) Kuntze SPECIES
-=======
+# Coniothyrium lampsanae (Allesch.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidioides Cushman, 1945 GENUS
-=======
+# Elphidioides Cushman, 1945 GENUS
 
 #### Status
 ACCEPTED

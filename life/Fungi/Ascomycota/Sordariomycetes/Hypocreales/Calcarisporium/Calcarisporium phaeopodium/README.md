@@ -1,5 +1,4 @@
-Calcarisporium phaeopodium Somrith. & E.B.G. Jones SPECIES
-=======
+# Calcarisporium phaeopodium Somrith. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

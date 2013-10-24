@@ -1,5 +1,4 @@
-Acarospora algerica J. Steiner SPECIES
-=======
+# Acarospora algerica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

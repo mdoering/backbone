@@ -1,5 +1,4 @@
-Pholiota siennaecolor (Petch) Pegler SPECIES
-=======
+# Pholiota siennaecolor (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

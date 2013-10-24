@@ -1,5 +1,4 @@
-Graphis granulocarpa Redinger SPECIES
-=======
+# Graphis granulocarpa Redinger SPECIES
 
 #### Status
 ACCEPTED

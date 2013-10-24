@@ -1,5 +1,4 @@
-Micrococcus fickii SPECIES
-=======
+# Micrococcus fickii SPECIES
 
 #### Status
 ACCEPTED

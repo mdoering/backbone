@@ -1,5 +1,4 @@
-Agaricus ochreatus Holmsk. SPECIES
-=======
+# Agaricus ochreatus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

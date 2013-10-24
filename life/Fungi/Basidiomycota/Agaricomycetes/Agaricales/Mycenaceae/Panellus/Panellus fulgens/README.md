@@ -1,5 +1,4 @@
-Panellus fulgens G. Stev. SPECIES
-=======
+# Panellus fulgens G. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia rhois Sacc. SPECIES
-=======
+# Diplodia rhois Sacc. SPECIES
 
 #### Status
 ACCEPTED

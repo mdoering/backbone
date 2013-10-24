@@ -1,5 +1,4 @@
-Placodium inflatum (Ach.) A. Massal. SPECIES
-=======
+# Placodium inflatum (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

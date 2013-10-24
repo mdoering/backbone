@@ -1,5 +1,4 @@
-Corticium aurantioroseum P. Karst. SPECIES
-=======
+# Corticium aurantioroseum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoroma circinatum (Pers.) Rabenh. SPECIES
-=======
+# Psoroma circinatum (Pers.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

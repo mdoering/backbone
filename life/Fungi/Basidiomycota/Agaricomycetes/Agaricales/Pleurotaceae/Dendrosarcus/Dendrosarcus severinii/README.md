@@ -1,5 +1,4 @@
-Dendrosarcus severinii (Comes) Kuntze SPECIES
-=======
+# Dendrosarcus severinii (Comes) Kuntze SPECIES
 
 #### Status
 ACCEPTED

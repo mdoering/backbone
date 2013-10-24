@@ -1,5 +1,4 @@
-Glabratella globigeriniformis SPECIES
-=======
+# Glabratella globigeriniformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirneolina hirneoiodes SPECIES
-=======
+# Hirneolina hirneoiodes SPECIES
 
 #### Status
 ACCEPTED

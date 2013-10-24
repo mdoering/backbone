@@ -1,5 +1,4 @@
-Pseudocercospora holopteleae (Chidd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora holopteleae (Chidd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

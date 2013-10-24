@@ -1,5 +1,4 @@
-Leiofusidium T.V. Jankauskas, 1982 GENUS
-=======
+# Leiofusidium T.V. Jankauskas, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotelium ambiens (Cooke) Syd. SPECIES
-=======
+# Haplotelium ambiens (Cooke) Syd. SPECIES
 
 #### Status
 ACCEPTED

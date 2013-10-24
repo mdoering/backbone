@@ -1,5 +1,4 @@
-Neopeckia nitidula (Höhn.) Höhn. SPECIES
-=======
+# Neopeckia nitidula (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

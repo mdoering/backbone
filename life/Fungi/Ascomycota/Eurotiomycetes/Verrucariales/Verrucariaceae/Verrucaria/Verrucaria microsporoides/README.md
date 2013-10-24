@@ -1,5 +1,4 @@
-Verrucaria microsporoides Nyl. SPECIES
-=======
+# Verrucaria microsporoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

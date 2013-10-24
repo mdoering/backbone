@@ -1,5 +1,4 @@
-Seirophora stenophylla (Tav.) Frödén SPECIES
-=======
+# Seirophora stenophylla (Tav.) Frödén SPECIES
 
 #### Status
 ACCEPTED

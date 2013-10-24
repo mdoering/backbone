@@ -1,5 +1,4 @@
-Collybia apiahyna Speg. SPECIES
-=======
+# Collybia apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

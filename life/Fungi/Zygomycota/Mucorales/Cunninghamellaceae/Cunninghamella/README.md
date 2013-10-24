@@ -1,17 +1,16 @@
-Saitomyces Ricker GENUS
-=======
+# Cunninghamella Matr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 12: 61 (1906)
+Annls mycol. 1(1/2): 46 (1903)
 
 #### Original name
-Saitomyces Ricker
+Cunninghamella Matr.
 
 ### Remarks
 null

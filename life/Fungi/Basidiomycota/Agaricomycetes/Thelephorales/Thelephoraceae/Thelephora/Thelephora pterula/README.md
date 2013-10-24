@@ -1,5 +1,4 @@
-Thelephora pterula Velen. SPECIES
-=======
+# Thelephora pterula Velen. SPECIES
 
 #### Status
 ACCEPTED

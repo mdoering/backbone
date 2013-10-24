@@ -1,5 +1,4 @@
-Cladophialophora Borelli, 1980 GENUS
-=======
+# Cladophialophora Borelli, 1980 GENUS
 
 #### Status
 ACCEPTED

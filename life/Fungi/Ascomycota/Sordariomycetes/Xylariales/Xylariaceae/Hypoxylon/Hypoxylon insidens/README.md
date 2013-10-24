@@ -1,5 +1,4 @@
-Hypoxylon insidens (Schwein.) Ellis & Everh. SPECIES
-=======
+# Hypoxylon insidens (Schwein.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

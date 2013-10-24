@@ -1,5 +1,4 @@
-Dactylospora stigma (Rehm) Rehm ex Arnold SPECIES
-=======
+# Dactylospora stigma (Rehm) Rehm ex Arnold SPECIES
 
 #### Status
 ACCEPTED

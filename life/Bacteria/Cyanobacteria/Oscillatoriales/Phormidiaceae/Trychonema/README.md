@@ -1,5 +1,4 @@
-Trychonema Anagnostidis & Komárek GENUS
-=======
+# Trychonema Anagnostidis & Komárek GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema velatum Müll. Arg. SPECIES
-=======
+# Thelotrema velatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

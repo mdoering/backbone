@@ -1,5 +1,4 @@
-Ramonia dictyospora Coppins SPECIES
-=======
+# Ramonia dictyospora Coppins SPECIES
 
 #### Status
 ACCEPTED

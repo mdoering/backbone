@@ -1,17 +1,16 @@
-Sticta fragillima var. dissecta (Müll. Arg.) Hellb. VARIETY
-=======
+# Pseudocyphellaria dissimilis (Nyl.) D. J. Galloway & P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 21(no. 3): 32 (1896)
+Lichenologist 12(3): 297 (1980)
 
 #### Original name
-Stictina fragillima var. dissecta Müll. Arg.
+Stictina fragillima var. dissimilis Nyl.
 
 ### Remarks
 null

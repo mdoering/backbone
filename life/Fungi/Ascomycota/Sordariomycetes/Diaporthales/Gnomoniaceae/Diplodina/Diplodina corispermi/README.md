@@ -1,5 +1,4 @@
-Diplodina corispermi Hollós SPECIES
-=======
+# Diplodina corispermi Hollós SPECIES
 
 #### Status
 ACCEPTED

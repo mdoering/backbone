@@ -1,5 +1,4 @@
-Actinichona Yankovskii, 1973 GENUS
-=======
+# Actinichona Yankovskii, 1973 GENUS
 
 #### Status
 ACCEPTED

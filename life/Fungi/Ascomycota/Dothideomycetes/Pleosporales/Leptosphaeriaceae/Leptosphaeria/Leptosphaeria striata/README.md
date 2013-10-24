@@ -1,5 +1,4 @@
-Leptosphaeria striata G. Winter SPECIES
-=======
+# Leptosphaeria striata G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morosporium pedicellatum Renault & Roche SPECIES
-=======
+# Morosporium pedicellatum Renault & Roche SPECIES
 
 #### Status
 ACCEPTED

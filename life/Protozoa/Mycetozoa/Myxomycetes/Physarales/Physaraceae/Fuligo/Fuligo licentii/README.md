@@ -1,5 +1,4 @@
-Fuligo licentii Buchet, 1939 SPECIES
-=======
+# Fuligo licentii Buchet, 1939 SPECIES
 
 #### Status
 ACCEPTED

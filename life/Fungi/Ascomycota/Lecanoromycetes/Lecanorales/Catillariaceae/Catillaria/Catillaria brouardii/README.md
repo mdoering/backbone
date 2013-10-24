@@ -1,5 +1,4 @@
-Catillaria brouardii B. de Lesd. SPECIES
-=======
+# Catillaria brouardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

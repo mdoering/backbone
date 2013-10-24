@@ -1,5 +1,4 @@
-Capnobotrys paucispora S. Hughes, 1981 SPECIES
-=======
+# Capnobotrys paucispora S. Hughes, 1981 SPECIES
 
 #### Status
 ACCEPTED

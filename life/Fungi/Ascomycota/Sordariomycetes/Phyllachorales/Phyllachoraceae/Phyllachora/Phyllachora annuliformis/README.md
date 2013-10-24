@@ -1,5 +1,4 @@
-Phyllachora annuliformis Speg., 1889 SPECIES
-=======
+# Phyllachora annuliformis Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia palamea SPECIES
-=======
+# Cladonia palamea SPECIES
 
 #### Status
 ACCEPTED

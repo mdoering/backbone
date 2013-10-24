@@ -1,5 +1,4 @@
-Phyllosticta angelicicola Miura SPECIES
-=======
+# Phyllosticta angelicicola Miura SPECIES
 
 #### Status
 ACCEPTED

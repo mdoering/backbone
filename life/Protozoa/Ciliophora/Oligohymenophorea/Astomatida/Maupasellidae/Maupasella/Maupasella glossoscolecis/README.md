@@ -1,5 +1,4 @@
-Maupasella glossoscolecis Puytorac, 1952 SPECIES
-=======
+# Maupasella glossoscolecis Puytorac, 1952 SPECIES
 
 #### Status
 ACCEPTED

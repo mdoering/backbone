@@ -1,17 +1,16 @@
-Helmisporium ferrugineum Sacc. & P. Syd. SPECIES
-=======
+# Helminthosporium ferrugineum Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sydow & Sydow, Bull. Herb. Boissier, 2 sér. 1: 85 (1901)
 
 #### Original name
-Helmisporium ferrugineum Sacc. & P. Syd.
+Helminthosporium ferrugineum Sacc. & P. Syd.
 
 ### Remarks
 null

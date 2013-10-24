@@ -1,5 +1,4 @@
-Passalora papayae (Y.L. Guo) Y.L. Guo SPECIES
-=======
+# Passalora papayae (Y.L. Guo) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

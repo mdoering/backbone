@@ -1,5 +1,4 @@
-Entomophthora schizophorae S. Keller & Wilding, 1988 SPECIES
-=======
+# Entomophthora schizophorae S. Keller & Wilding, 1988 SPECIES
 
 #### Status
 ACCEPTED

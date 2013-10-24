@@ -1,5 +1,4 @@
-Stereofomes cruentatus (Rick) Rick SPECIES
-=======
+# Stereofomes cruentatus (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

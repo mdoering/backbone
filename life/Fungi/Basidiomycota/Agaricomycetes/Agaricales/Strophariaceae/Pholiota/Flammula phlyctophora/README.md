@@ -1,5 +1,4 @@
-Flammula phlyctophora (Durieu & Lév.) Sacc. SPECIES
-=======
+# Flammula phlyctophora (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

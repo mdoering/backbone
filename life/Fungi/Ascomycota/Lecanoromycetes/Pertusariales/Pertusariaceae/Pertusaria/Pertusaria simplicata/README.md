@@ -1,5 +1,4 @@
-Pertusaria simplicata Vain. SPECIES
-=======
+# Pertusaria simplicata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania cyathiformis Szatala SPECIES
-=======
+# Lecania cyathiformis Szatala SPECIES
 
 #### Status
 ACCEPTED

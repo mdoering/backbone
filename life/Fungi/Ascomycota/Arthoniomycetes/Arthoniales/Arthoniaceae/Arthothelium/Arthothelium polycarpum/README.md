@@ -1,5 +1,4 @@
-Arthothelium polycarpum Müll. Arg. SPECIES
-=======
+# Arthothelium polycarpum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

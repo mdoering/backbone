@@ -1,5 +1,4 @@
-Polystictus crassipes (Curr.) Henn. SPECIES
-=======
+# Polystictus crassipes (Curr.) Henn. SPECIES
 
 #### Status
 ACCEPTED

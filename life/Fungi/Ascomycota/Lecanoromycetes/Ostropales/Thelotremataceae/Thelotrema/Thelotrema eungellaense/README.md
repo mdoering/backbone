@@ -1,5 +1,4 @@
-Thelotrema eungellaense Mangold, Elix & Lumbsch SPECIES
-=======
+# Thelotrema eungellaense Mangold, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

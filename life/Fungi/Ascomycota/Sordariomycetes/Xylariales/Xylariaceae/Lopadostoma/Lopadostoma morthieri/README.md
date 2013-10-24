@@ -1,5 +1,4 @@
-Lopadostoma morthieri (Fuckel) Schrantz SPECIES
-=======
+# Lopadostoma morthieri (Fuckel) Schrantz SPECIES
 
 #### Status
 ACCEPTED

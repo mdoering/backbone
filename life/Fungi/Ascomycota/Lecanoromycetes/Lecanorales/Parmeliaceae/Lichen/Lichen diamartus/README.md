@@ -1,5 +1,4 @@
-Lichen diamartus (Lam.) SPECIES
-=======
+# Lichen diamartus (Lam.) SPECIES
 
 #### Status
 ACCEPTED

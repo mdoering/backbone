@@ -1,5 +1,4 @@
-Hymenogaster sublilacinus A.H. Sm. SPECIES
-=======
+# Hymenogaster sublilacinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

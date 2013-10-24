@@ -1,5 +1,4 @@
-Polystictus bireflexus Berk. & Broome ex Cooke SPECIES
-=======
+# Polystictus bireflexus Berk. & Broome ex Cooke SPECIES
 
 #### Status
 ACCEPTED

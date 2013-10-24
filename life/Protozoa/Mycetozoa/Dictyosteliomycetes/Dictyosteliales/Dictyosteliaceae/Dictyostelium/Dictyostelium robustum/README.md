@@ -1,5 +1,4 @@
-Dictyostelium robustum H. Hagiw., 1996 SPECIES
-=======
+# Dictyostelium robustum H. Hagiw., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea vasquesia (A. Massal.) Hue SPECIES
-=======
+# Lecidea vasquesia (A. Massal.) Hue SPECIES
 
 #### Status
 ACCEPTED

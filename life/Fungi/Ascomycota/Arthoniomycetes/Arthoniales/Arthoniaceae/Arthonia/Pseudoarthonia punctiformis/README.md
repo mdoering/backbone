@@ -1,5 +1,4 @@
-Pseudoarthonia punctiformis (Beltr.) Marchal SPECIES
-=======
+# Pseudoarthonia punctiformis (Beltr.) Marchal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella verticalis Bull. SPECIES
-=======
+# Tremella verticalis Bull. SPECIES
 
 #### Status
 ACCEPTED

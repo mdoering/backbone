@@ -1,5 +1,4 @@
-Cortinarius argenteolilacinus M.M. Moser SPECIES
-=======
+# Cortinarius argenteolilacinus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

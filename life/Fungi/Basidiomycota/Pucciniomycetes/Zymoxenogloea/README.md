@@ -1,5 +1,4 @@
-Zymoxenogloea D.J. McLaughlin & Doublés GENUS
-=======
+# Zymoxenogloea D.J. McLaughlin & Doublés GENUS
 
 #### Status
 ACCEPTED

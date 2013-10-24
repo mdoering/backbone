@@ -1,5 +1,4 @@
-Elsikisporonites tubulatus P. Kumar SPECIES
-=======
+# Elsikisporonites tubulatus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

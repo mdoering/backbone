@@ -1,5 +1,4 @@
-Textularia agglutinans SPECIES
-=======
+# Textularia agglutinans SPECIES
 
 #### Status
 ACCEPTED

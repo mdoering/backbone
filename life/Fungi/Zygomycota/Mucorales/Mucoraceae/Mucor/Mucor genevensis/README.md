@@ -1,5 +1,4 @@
-Mucor genevensis Lendn., 1908 SPECIES
-=======
+# Mucor genevensis Lendn., 1908 SPECIES
 
 #### Status
 ACCEPTED

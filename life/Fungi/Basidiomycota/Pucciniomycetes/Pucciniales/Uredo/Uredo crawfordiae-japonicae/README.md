@@ -1,5 +1,4 @@
-Uredo crawfordiae-japonicae (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo crawfordiae-japonicae (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

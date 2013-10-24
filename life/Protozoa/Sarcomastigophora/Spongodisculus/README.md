@@ -1,5 +1,4 @@
-Spongodisculus Haeckel, 1887 GENUS
-=======
+# Spongodisculus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

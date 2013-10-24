@@ -1,5 +1,4 @@
-Urocystis komarovii (Lavrov) Zundel SPECIES
-=======
+# Urocystis komarovii (Lavrov) Zundel SPECIES
 
 #### Status
 ACCEPTED

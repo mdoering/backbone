@@ -1,5 +1,4 @@
-Entyloma alismacearum Sacc. SPECIES
-=======
+# Entyloma alismacearum Sacc. SPECIES
 
 #### Status
 ACCEPTED

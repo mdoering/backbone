@@ -1,5 +1,4 @@
-Phleospora ludwigii SPECIES
-=======
+# Phleospora ludwigii SPECIES
 
 #### Status
 ACCEPTED

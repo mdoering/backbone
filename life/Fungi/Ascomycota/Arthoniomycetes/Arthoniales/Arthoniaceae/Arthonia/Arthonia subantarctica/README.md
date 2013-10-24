@@ -1,5 +1,4 @@
-Arthonia subantarctica Øvstedal SPECIES
-=======
+# Arthonia subantarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

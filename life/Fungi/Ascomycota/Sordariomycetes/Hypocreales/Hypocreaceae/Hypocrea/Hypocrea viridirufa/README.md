@@ -1,5 +1,4 @@
-Hypocrea viridirufa Berk. & Ravenel SPECIES
-=======
+# Hypocrea viridirufa Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella parasitica Bubák SPECIES
-=======
+# Dothiorella parasitica Bubák SPECIES
 
 #### Status
 ACCEPTED

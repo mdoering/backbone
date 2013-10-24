@@ -1,8 +1,7 @@
-Valsa aesculicola Cooke, 1885 SPECIES
-=======
+# Diaporthe aesculicola (Cooke) Berl. & Voglino, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

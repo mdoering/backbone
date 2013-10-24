@@ -1,5 +1,4 @@
-Amanita ochraceomaculata Neville, Poumarat & Fraiture SPECIES
-=======
+# Amanita ochraceomaculata Neville, Poumarat & Fraiture SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Conocybe fuscimarginata var. fuscimarginata VARIETY
-=======
+# Conocybe fuscimarginata (Murrill) Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Nova Hedwigia, Beih. 29: 210 (1969)

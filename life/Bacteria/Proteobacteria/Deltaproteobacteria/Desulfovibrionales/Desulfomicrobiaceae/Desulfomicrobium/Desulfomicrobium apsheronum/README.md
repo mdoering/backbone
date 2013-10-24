@@ -1,5 +1,4 @@
-Desulfomicrobium apsheronum Rozanova et al., 1994 SPECIES
-=======
+# Desulfomicrobium apsheronum Rozanova et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

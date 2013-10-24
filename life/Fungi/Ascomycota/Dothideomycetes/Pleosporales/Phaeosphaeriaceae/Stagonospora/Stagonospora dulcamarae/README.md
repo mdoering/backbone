@@ -1,17 +1,16 @@
-Stagonospora dulcamarae var. hederacea Rolland VARIETY
-=======
+# Stagonospora dulcamarae Pass., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Diagn. di Funghi Nuovi 4: 42 (1888)
 
 #### Original name
-Stagonospora dulcamarae var. hederacea Rolland
+Stagonospora dulcamarae Pass., 1888
 
 ### Remarks
 null

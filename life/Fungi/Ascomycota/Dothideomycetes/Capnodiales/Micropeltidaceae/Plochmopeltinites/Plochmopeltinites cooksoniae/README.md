@@ -1,17 +1,16 @@
-Plochmopeltinites cooksonii Ramanujam & K.P. Rao SPECIES
-=======
+# Plochmopeltinites cooksoniae Ramanujam & K.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeobotanist 20(2): 207 and Pl. 3~ figs. 22-23 (1973)
 
 #### Original name
-Plochmopeltinites cooksonii Ramanujam & K.P. Rao
+Plochmopeltinites cooksoniae Ramanujam & K.P. Rao
 
 ### Remarks
 null

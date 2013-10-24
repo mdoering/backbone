@@ -1,5 +1,4 @@
-Eponides antillarum SPECIES
-=======
+# Eponides antillarum SPECIES
 
 #### Status
 ACCEPTED

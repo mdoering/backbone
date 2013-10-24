@@ -1,5 +1,4 @@
-Agaricus earlei Murrill SPECIES
-=======
+# Agaricus earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

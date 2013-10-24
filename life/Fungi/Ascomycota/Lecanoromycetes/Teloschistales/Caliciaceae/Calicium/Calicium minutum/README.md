@@ -1,5 +1,4 @@
-Calicium minutum Körb. SPECIES
-=======
+# Calicium minutum Körb. SPECIES
 
 #### Status
 ACCEPTED

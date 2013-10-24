@@ -1,5 +1,4 @@
-Peziza shearii (Gilkey) Korf SPECIES
-=======
+# Peziza shearii (Gilkey) Korf SPECIES
 
 #### Status
 ACCEPTED

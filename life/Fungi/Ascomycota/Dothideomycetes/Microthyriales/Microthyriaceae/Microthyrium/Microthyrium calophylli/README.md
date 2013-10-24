@@ -1,5 +1,4 @@
-Microthyrium calophylli R.W. Ryan SPECIES
-=======
+# Microthyrium calophylli R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

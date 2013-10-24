@@ -1,5 +1,4 @@
-Usnea percava f. percava J. Steiner FORM
-=======
+# Usnea percava J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. zool. -bot. Ges. Wein 53: 230 (1903)
 
 #### Original name
-Usnea percava f. percava J. Steiner
+Usnea percava J. Steiner
 
 ### Remarks
 null

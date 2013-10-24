@@ -1,5 +1,4 @@
-Aecidium vernoniae-podocomae Doidge SPECIES
-=======
+# Aecidium vernoniae-podocomae Doidge SPECIES
 
 #### Status
 ACCEPTED

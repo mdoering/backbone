@@ -1,5 +1,4 @@
-Rhizochrysis Pascher, 1913 GENUS
-=======
+# Rhizochrysis Pascher, 1913 GENUS
 
 #### Status
 ACCEPTED

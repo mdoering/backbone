@@ -1,5 +1,4 @@
-Graphiolites Fritel GENUS
-=======
+# Graphiolites Fritel GENUS
 
 #### Status
 ACCEPTED

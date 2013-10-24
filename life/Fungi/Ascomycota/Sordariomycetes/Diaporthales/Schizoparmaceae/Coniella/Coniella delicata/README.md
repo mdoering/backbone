@@ -1,5 +1,4 @@
-Coniella delicata B. Sutton SPECIES
-=======
+# Coniella delicata B. Sutton SPECIES
 
 #### Status
 ACCEPTED

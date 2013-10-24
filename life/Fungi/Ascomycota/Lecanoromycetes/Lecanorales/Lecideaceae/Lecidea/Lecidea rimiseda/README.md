@@ -1,5 +1,4 @@
-Lecidea rimiseda Nyl. SPECIES
-=======
+# Lecidea rimiseda Nyl. SPECIES
 
 #### Status
 ACCEPTED

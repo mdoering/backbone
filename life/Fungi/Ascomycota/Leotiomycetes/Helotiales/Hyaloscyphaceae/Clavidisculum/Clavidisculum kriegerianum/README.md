@@ -1,5 +1,4 @@
-Clavidisculum kriegerianum Kirschst., 1938 SPECIES
-=======
+# Clavidisculum kriegerianum Kirschst., 1938 SPECIES
 
 #### Status
 ACCEPTED

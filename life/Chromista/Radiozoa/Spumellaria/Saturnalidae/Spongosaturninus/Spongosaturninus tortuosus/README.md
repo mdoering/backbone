@@ -1,5 +1,4 @@
-Spongosaturninus tortuosus SPECIES
-=======
+# Spongosaturninus tortuosus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium rusci Maire SPECIES
-=======
+# Cryptosporium rusci Maire SPECIES
 
 #### Status
 ACCEPTED

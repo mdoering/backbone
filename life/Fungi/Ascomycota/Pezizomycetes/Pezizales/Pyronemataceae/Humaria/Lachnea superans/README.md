@@ -1,5 +1,4 @@
-Lachnea superans Boud. SPECIES
-=======
+# Lachnea superans Boud. SPECIES
 
 #### Status
 ACCEPTED

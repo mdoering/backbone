@@ -1,5 +1,4 @@
-Seimatosporium leucopogonis H.J. Swart SPECIES
-=======
+# Seimatosporium leucopogonis H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ophiobolus ingae Allesch. SPECIES
-=======
+# Diatractium ingae (Rehm) Syd. & P. Syd., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 235 (1897)
+Annls mycol. 18(4/6): 183 (1921)
 
 #### Original name
-Ophiobolus ingae Allesch.
+Vialaea ingae Rehm, 1901
 
 ### Remarks
 null

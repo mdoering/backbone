@@ -1,5 +1,4 @@
-Sulfolobus tokodaii Suzuki et al., 2002 SPECIES
-=======
+# Sulfolobus tokodaii Suzuki et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma pascuum Velen. SPECIES
-=======
+# Tricholoma pascuum Velen. SPECIES
 
 #### Status
 ACCEPTED

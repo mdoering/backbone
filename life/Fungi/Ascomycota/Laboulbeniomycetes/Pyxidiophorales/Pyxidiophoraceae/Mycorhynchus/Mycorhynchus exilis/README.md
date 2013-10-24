@@ -1,5 +1,4 @@
-Mycorhynchus exilis (Höhn.) Sacc. & D. Sacc. SPECIES
-=======
+# Mycorhynchus exilis (Höhn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

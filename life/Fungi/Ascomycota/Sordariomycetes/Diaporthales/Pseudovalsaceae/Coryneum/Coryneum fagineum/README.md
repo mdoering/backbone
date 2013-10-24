@@ -1,5 +1,4 @@
-Coryneum fagineum Delacr. SPECIES
-=======
+# Coryneum fagineum Delacr. SPECIES
 
 #### Status
 ACCEPTED

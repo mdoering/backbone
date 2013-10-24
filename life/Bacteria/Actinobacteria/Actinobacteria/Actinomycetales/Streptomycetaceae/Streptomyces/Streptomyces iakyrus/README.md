@@ -1,5 +1,4 @@
-Streptomyces iakyrus de Querioz and Albert, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces iakyrus de Querioz and Albert, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

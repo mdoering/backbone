@@ -1,5 +1,4 @@
-Polyporus albidofuscus Secr. SPECIES
-=======
+# Polyporus albidofuscus Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sethochytris Haeckel, 1881 GENUS
-=======
+# Sethochytris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium polymorphum Trinchieri SPECIES
-=======
+# Gloeosporium polymorphum Trinchieri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium ponderosum Syd. & P. Syd. SPECIES
-=======
+# Aecidium ponderosum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Orbulinaria Rhumbler, 1906 GENUS
-=======
+# Keramosphaera Brady, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Ann. Mag. Nat. Hist. , (5) 10, 245.
 
 #### Original name
 null

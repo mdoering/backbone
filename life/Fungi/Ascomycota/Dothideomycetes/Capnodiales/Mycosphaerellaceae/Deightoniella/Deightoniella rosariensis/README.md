@@ -1,5 +1,4 @@
-Deightoniella rosariensis Mercado SPECIES
-=======
+# Deightoniella rosariensis Mercado SPECIES
 
 #### Status
 ACCEPTED

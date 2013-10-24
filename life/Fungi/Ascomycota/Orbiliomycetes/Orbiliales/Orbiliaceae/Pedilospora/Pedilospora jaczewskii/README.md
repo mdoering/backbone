@@ -1,5 +1,4 @@
-Pedilospora jaczewskii Girz. SPECIES
-=======
+# Pedilospora jaczewskii Girz. SPECIES
 
 #### Status
 ACCEPTED

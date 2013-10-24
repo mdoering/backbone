@@ -1,5 +1,4 @@
-Trematosphaeria abuensis Panwar, H.P. Srivast. & Geholt SPECIES
-=======
+# Trematosphaeria abuensis Panwar, H.P. Srivast. & Geholt SPECIES
 
 #### Status
 ACCEPTED

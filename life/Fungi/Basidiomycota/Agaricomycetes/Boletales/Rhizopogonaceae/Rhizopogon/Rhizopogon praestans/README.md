@@ -1,5 +1,4 @@
-Rhizopogon praestans K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon praestans K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

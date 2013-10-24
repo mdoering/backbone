@@ -1,5 +1,4 @@
-Nodosaria aculeata d'Orbigny SPECIES
-=======
+# Nodosaria aculeata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

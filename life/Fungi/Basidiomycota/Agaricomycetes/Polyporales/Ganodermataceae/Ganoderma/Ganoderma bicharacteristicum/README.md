@@ -1,5 +1,4 @@
-Ganoderma bicharacteristicum X.Q. Zhang SPECIES
-=======
+# Ganoderma bicharacteristicum X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

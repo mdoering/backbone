@@ -1,5 +1,4 @@
-Valsa symphoricarpi Rehm SPECIES
-=======
+# Valsa symphoricarpi Rehm SPECIES
 
 #### Status
 ACCEPTED

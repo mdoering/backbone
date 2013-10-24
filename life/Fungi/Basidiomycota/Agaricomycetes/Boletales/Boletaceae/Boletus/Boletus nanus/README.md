@@ -1,5 +1,4 @@
-Boletus nanus Massee SPECIES
-=======
+# Boletus nanus Massee SPECIES
 
 #### Status
 ACCEPTED

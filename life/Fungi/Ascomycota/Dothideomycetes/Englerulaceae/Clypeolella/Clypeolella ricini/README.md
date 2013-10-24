@@ -1,5 +1,4 @@
-Clypeolella ricini Racib. SPECIES
-=======
+# Clypeolella ricini Racib. SPECIES
 
 #### Status
 ACCEPTED

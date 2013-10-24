@@ -1,5 +1,4 @@
-Phallus callichrous (Möller) Lloyd SPECIES
-=======
+# Phallus callichrous (Möller) Lloyd SPECIES
 
 #### Status
 ACCEPTED

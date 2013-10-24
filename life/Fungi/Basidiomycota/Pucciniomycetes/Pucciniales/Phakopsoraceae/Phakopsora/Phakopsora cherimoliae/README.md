@@ -1,5 +1,4 @@
-Phakopsora cherimoliae Cummins SPECIES
-=======
+# Phakopsora cherimoliae Cummins SPECIES
 
 #### Status
 ACCEPTED

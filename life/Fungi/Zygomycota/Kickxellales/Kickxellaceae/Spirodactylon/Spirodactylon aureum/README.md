@@ -1,5 +1,4 @@
-Spirodactylon aureum R.K. Benj., 1959 SPECIES
-=======
+# Spirodactylon aureum R.K. Benj., 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorella triptophyllina (Nyl.) Zahlbr. SPECIES
-=======
+# Psorella triptophyllina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

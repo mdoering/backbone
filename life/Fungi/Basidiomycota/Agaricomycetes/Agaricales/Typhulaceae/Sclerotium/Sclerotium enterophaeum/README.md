@@ -1,5 +1,4 @@
-Sclerotium enterophaeum Ces. SPECIES
-=======
+# Sclerotium enterophaeum Ces. SPECIES
 
 #### Status
 ACCEPTED

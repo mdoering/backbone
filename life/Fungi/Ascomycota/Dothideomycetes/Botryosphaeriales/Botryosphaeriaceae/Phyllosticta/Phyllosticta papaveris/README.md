@@ -1,5 +1,4 @@
-Phyllosticta papaveris Vasyag. SPECIES
-=======
+# Phyllosticta papaveris Vasyag. SPECIES
 
 #### Status
 ACCEPTED

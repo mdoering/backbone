@@ -1,5 +1,4 @@
-Ahlumia von Daniels & Kemper, 1995 GENUS
-=======
+# Ahlumia von Daniels & Kemper, 1995 GENUS
 
 #### Status
 ACCEPTED

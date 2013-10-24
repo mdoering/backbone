@@ -1,17 +1,16 @@
-Termitomyces subclypeatus f. subclypeatus FORM
-=======
+# Termitomyces subclypeatus Mossebo SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Mossebo, Amougou & Atangana, Bull. Soc. mycol. Fr. 118(3): 237 (2003)
 
 #### Original name
-null
+Termitomyces subclypeatus Mossebo
 
 ### Remarks
 null

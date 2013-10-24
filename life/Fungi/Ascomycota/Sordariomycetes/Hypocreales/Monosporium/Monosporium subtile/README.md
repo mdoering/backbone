@@ -1,5 +1,4 @@
-Monosporium subtile Dasz. SPECIES
-=======
+# Monosporium subtile Dasz. SPECIES
 
 #### Status
 ACCEPTED

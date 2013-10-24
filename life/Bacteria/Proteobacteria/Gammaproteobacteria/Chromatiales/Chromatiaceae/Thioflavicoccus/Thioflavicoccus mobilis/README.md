@@ -1,5 +1,4 @@
-Thioflavicoccus mobilis Imhoff & Pfennig, 2001 SPECIES
-=======
+# Thioflavicoccus mobilis Imhoff & Pfennig, 2001 SPECIES
 
 #### Status
 ACCEPTED

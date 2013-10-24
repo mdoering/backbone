@@ -1,17 +1,16 @@
-Diplosporium album var. album Bonord. VARIETY
-=======
+# Diplosporium album Bonord., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Handb. Allgem. mykol. (Stuttgart) 99 (1851)
 
 #### Original name
-Diplosporium album var. album Bonord.
+Diplosporium album Bonord., 1851
 
 ### Remarks
 null

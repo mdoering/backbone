@@ -1,5 +1,4 @@
-Autoicomyces fragilis Speg. SPECIES
-=======
+# Autoicomyces fragilis Speg. SPECIES
 
 #### Status
 ACCEPTED

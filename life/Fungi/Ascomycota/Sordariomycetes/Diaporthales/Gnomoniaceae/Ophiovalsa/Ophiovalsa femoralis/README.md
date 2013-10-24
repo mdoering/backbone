@@ -1,14 +1,13 @@
-Valsa femoralis Peck, 1876 SPECIES
-=======
+# Ophiovalsa femoralis (Peck) Petr., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 74 (1876)
+Sydowia 19: 273 (1966)
 
 #### Original name
 Valsa femoralis Peck, 1876

@@ -1,5 +1,4 @@
-Mycosphaerella anemones Clem., 1906 SPECIES
-=======
+# Mycosphaerella anemones Clem., 1906 SPECIES
 
 #### Status
 ACCEPTED

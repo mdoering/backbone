@@ -1,5 +1,4 @@
-Idriella brumptii Pirajá SPECIES
-=======
+# Idriella brumptii Pirajá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pharcidia peltideae Vain., 1899 SPECIES
-=======
+# Stigmidium peltideae (Vain.) R. Sant., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 54: 510 (1960)
 
 #### Original name
 Pharcidia peltideae Vain., 1899

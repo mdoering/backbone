@@ -1,5 +1,4 @@
-Peziza cyathus Nees SPECIES
-=======
+# Peziza cyathus Nees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces apiculatus (Peck) Seaver SPECIES
-=======
+# Hypomyces apiculatus (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

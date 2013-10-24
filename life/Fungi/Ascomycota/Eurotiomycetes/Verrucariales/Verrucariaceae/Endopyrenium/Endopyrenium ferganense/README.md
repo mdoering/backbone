@@ -1,5 +1,4 @@
-Endopyrenium ferganense (Tomin) Oxner SPECIES
-=======
+# Endopyrenium ferganense (Tomin) Oxner SPECIES
 
 #### Status
 ACCEPTED

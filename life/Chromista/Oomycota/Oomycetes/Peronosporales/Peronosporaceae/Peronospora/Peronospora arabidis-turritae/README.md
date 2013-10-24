@@ -1,5 +1,4 @@
-Peronospora arabidis-turritae Gäum. SPECIES
-=======
+# Peronospora arabidis-turritae Gäum. SPECIES
 
 #### Status
 ACCEPTED

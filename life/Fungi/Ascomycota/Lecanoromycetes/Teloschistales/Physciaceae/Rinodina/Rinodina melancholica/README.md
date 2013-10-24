@@ -1,5 +1,4 @@
-Rinodina melancholica Zahlbr. SPECIES
-=======
+# Rinodina melancholica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe scabriuscula E. Horak, 1978 SPECIES
-=======
+# Inocybe scabriuscula E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

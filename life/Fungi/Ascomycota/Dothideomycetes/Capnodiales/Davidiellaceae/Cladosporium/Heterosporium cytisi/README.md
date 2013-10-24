@@ -1,5 +1,4 @@
-Heterosporium cytisi Ranoj. SPECIES
-=======
+# Heterosporium cytisi Ranoj. SPECIES
 
 #### Status
 ACCEPTED

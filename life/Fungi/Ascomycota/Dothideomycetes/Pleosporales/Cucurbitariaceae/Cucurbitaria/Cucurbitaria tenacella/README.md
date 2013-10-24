@@ -1,5 +1,4 @@
-Cucurbitaria tenacella (Fr.) M.E. Barr SPECIES
-=======
+# Cucurbitaria tenacella (Fr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thigmophrya saxicavae Fenchel, 1964 SPECIES
-=======
+# Thigmophrya saxicavae Fenchel, 1964 SPECIES
 
 #### Status
 ACCEPTED

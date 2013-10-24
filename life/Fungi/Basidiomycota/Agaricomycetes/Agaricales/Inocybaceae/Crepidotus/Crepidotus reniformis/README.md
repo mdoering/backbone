@@ -1,5 +1,4 @@
-Crepidotus reniformis (Berk. & Ravenel) Singer SPECIES
-=======
+# Crepidotus reniformis (Berk. & Ravenel) Singer SPECIES
 
 #### Status
 ACCEPTED

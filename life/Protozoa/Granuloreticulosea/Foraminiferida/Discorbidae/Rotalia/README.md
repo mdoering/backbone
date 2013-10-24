@@ -1,14 +1,13 @@
-Protalina Pourtalès, 1850 GENUS
-=======
+# Rotalia Lamarck, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Assoc. , 1850, 88.
+Ann. Mus. H. N. (Paris), 5 (27), 183.
 
 #### Original name
 null

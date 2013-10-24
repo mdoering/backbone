@@ -1,17 +1,16 @@
-Acinothrix Novácek, 1938 GENUS
-=======
+# Planctomyces M. Gimesi GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hydrobiol. Tanylmanyok 1: 1 (1924)
 
 #### Original name
-null
+Planctomyces M. Gimesi
 
 ### Remarks
 null

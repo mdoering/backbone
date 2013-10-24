@@ -1,5 +1,4 @@
-Sphacelaria isocnema Kraft, 2009 SPECIES
-=======
+# Sphacelaria isocnema Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

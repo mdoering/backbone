@@ -1,14 +1,13 @@
-Agaricus leightonii Berk., 1844 SPECIES
-=======
+# Hohenbuehelia leightonii (Berk.) Watling, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 13: 343 (1844)
+British Fungus Flora. Agarics and Boleti (Edinburgh), Vol. <b>6</b>. <i>Crepidotaceae, Pleurotaceae and other pleurotoid agarics</i> 6: 47 (1989)
 
 #### Original name
 Agaricus leightonii Berk., 1844

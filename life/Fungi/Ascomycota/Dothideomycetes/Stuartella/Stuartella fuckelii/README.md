@@ -1,5 +1,4 @@
-Stuartella fuckelii (Nitschke) Lafl. & E. Müll. SPECIES
-=======
+# Stuartella fuckelii (Nitschke) Lafl. & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

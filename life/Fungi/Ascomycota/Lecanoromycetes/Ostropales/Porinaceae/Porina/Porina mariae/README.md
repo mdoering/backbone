@@ -1,5 +1,4 @@
-Porina mariae P. M. McCarthy SPECIES
-=======
+# Porina mariae P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

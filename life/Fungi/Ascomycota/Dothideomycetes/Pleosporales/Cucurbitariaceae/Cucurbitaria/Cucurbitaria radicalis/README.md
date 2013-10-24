@@ -1,5 +1,4 @@
-Cucurbitaria radicalis Cooke SPECIES
-=======
+# Cucurbitaria radicalis Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nitschkia didyma (Speg.) Subram. & Sekar SPECIES
-=======
+# Nitschkia didyma (Speg.) Subram. & Sekar SPECIES
 
 #### Status
 ACCEPTED

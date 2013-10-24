@@ -1,5 +1,4 @@
-Peribotryon GENUS
-=======
+# Peribotryon GENUS
 
 #### Status
 ACCEPTED

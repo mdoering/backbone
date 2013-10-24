@@ -1,5 +1,4 @@
-Sphaeria rimicola Schwein. SPECIES
-=======
+# Sphaeria rimicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

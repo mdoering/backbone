@@ -1,5 +1,4 @@
-Omphalina versatilis (Berk. & Mont.) Raithelh. SPECIES
-=======
+# Omphalina versatilis (Berk. & Mont.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

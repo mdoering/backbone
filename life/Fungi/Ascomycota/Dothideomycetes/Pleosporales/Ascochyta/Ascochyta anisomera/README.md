@@ -1,14 +1,13 @@
-Apiocarpella anisomera (Kabát & Bubák) Melnik, 1976 SPECIES
-=======
+# Ascochyta anisomera Kabát & Bubák, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 13: 94 (1977)
+Hedwigia 43: 418 (1904)
 
 #### Original name
 Ascochyta anisomera Kabát & Bubák, 1904

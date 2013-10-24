@@ -1,17 +1,16 @@
-Boudiera boudieri (Renny) Grove, 1930 SPECIES
-=======
+# Ascobolus leveillei P. Crouan & H. Crouan, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 68: 135 (1930)
+Mém. Ascob. 35 (1867)
 
 #### Original name
-Ascobolus boudieri Lorton, 1914
+Ascobolus leveillei P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

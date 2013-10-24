@@ -1,5 +1,4 @@
-Pasteurellales ORDER
-=======
+# Pasteurellales ORDER
 
 #### Status
 ACCEPTED

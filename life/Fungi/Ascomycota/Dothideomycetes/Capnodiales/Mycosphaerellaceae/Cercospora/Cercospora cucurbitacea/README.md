@@ -1,5 +1,4 @@
-Cercospora cucurbitacea Ellis & Galloway SPECIES
-=======
+# Cercospora cucurbitacea Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

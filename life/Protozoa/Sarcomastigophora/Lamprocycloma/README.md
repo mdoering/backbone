@@ -1,5 +1,4 @@
-Lamprocycloma Haeckel, 1887 GENUS
-=======
+# Lamprocycloma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

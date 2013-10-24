@@ -1,5 +1,4 @@
-Cyclotella lucernensis Bachm. SPECIES
-=======
+# Cyclotella lucernensis Bachm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecosporites modicus Kalgutkar & Janson. SPECIES
-=======
+# Scolecosporites modicus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium olivaceum Müll. Arg. SPECIES
-=======
+# Lopadium olivaceum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

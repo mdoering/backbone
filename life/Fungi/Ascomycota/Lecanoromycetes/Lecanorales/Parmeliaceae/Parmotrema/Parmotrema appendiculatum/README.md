@@ -1,5 +1,4 @@
-Parmotrema appendiculatum (Fée) Hale SPECIES
-=======
+# Parmotrema appendiculatum (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

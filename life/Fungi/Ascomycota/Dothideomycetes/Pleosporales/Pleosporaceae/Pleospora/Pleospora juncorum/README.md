@@ -1,5 +1,4 @@
-Pleospora juncorum P. Crouan & H. Crouan SPECIES
-=======
+# Pleospora juncorum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

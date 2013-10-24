@@ -1,5 +1,4 @@
-Uniferata Naumova GENUS
-=======
+# Uniferata Naumova GENUS
 
 #### Status
 ACCEPTED

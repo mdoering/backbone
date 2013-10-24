@@ -1,5 +1,4 @@
-Psathyrella abortiva A.H. Sm. SPECIES
-=======
+# Psathyrella abortiva A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

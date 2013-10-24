@@ -1,5 +1,4 @@
-Phoma persicifolia Speg. SPECIES
-=======
+# Phoma persicifolia Speg. SPECIES
 
 #### Status
 ACCEPTED

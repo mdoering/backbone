@@ -1,14 +1,13 @@
-Cylindrocarpon gillii (D.E. Ellis) J.A. Muir, 1974 SPECIES
-=======
+# Septogloeum gillii D.E. Ellis, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 51(10): 1997 (1974)
+J. Elisha Mitchell scient. Soc. 62: 30 (1946)
 
 #### Original name
 Septogloeum gillii D.E. Ellis, 1946

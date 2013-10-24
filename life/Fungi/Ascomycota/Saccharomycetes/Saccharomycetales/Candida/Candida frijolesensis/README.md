@@ -1,5 +1,4 @@
-Candida frijolesensis S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
-=======
+# Candida frijolesensis S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

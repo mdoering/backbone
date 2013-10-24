@@ -1,5 +1,4 @@
-Arcuadendron ovatum Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Arcuadendron ovatum Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

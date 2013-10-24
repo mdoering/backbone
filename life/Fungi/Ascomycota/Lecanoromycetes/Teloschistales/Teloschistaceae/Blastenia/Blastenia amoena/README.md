@@ -1,5 +1,4 @@
-Blastenia amoena Zahlbr. SPECIES
-=======
+# Blastenia amoena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

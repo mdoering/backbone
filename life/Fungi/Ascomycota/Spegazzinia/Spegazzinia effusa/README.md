@@ -1,5 +1,4 @@
-Spegazzinia effusa P. Karst. SPECIES
-=======
+# Spegazzinia effusa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

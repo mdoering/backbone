@@ -1,5 +1,4 @@
-Polyporus cruentus Pers. SPECIES
-=======
+# Polyporus cruentus Pers. SPECIES
 
 #### Status
 ACCEPTED

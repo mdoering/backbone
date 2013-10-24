@@ -1,5 +1,4 @@
-Griphosphaerella GENUS
-=======
+# Griphosphaerella GENUS
 
 #### Status
 ACCEPTED

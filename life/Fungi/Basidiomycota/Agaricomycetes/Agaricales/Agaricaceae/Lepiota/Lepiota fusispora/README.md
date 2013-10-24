@@ -1,5 +1,4 @@
-Lepiota fusispora Henn. SPECIES
-=======
+# Lepiota fusispora Henn. SPECIES
 
 #### Status
 ACCEPTED

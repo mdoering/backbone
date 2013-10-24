@@ -1,5 +1,4 @@
-Navicella dolabriformis (De Not.) Kuntze SPECIES
-=======
+# Navicella dolabriformis (De Not.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

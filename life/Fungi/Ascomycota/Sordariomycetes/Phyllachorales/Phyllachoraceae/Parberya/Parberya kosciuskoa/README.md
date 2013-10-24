@@ -1,5 +1,4 @@
-Parberya kosciuskoa C.A. Pearce & K.D. Hyde, 2001 SPECIES
-=======
+# Parberya kosciuskoa C.A. Pearce & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

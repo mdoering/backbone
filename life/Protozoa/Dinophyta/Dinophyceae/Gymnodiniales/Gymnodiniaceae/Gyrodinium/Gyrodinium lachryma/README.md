@@ -1,8 +1,7 @@
-Spirodinium lachryma Meunier SPECIES
-=======
+# Gyrodinium lachryma (Meunier) Kofoid & Swezy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

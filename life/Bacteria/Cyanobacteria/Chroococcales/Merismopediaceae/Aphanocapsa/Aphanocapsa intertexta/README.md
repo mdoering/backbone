@@ -1,5 +1,4 @@
-Aphanocapsa intertexta Gardner SPECIES
-=======
+# Aphanocapsa intertexta Gardner SPECIES
 
 #### Status
 ACCEPTED

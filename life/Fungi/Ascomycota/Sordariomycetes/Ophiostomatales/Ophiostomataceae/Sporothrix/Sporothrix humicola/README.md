@@ -1,5 +1,4 @@
-Sporothrix humicola De Meyer, Z.W. de Beer & M.J. Wingf. SPECIES
-=======
+# Sporothrix humicola De Meyer, Z.W. de Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

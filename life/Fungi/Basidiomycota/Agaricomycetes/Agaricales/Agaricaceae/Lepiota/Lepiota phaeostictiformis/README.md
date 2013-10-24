@@ -1,5 +1,4 @@
-Lepiota phaeostictiformis Murrill SPECIES
-=======
+# Lepiota phaeostictiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

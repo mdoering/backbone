@@ -1,5 +1,4 @@
-Orduina Sirel, 1969 GENUS
-=======
+# Orduina Sirel, 1969 GENUS
 
 #### Status
 ACCEPTED

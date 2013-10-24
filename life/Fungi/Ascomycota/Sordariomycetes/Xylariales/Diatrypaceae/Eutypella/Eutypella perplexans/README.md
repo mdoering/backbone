@@ -1,5 +1,4 @@
-Eutypella perplexans C. Moreau & Moreau SPECIES
-=======
+# Eutypella perplexans C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

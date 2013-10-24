@@ -1,5 +1,4 @@
-Moelleriella rhombispora (M. Liu & K.T. Hodge) M. Liu & P. Chaverri SPECIES
-=======
+# Moelleriella rhombispora (M. Liu & K.T. Hodge) M. Liu & P. Chaverri SPECIES
 
 #### Status
 ACCEPTED

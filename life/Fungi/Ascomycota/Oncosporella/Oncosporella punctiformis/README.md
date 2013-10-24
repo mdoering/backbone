@@ -1,14 +1,13 @@
-Collonema punctiforme (P. Karst.) Sacc., 1892 SPECIES
-=======
+# Oncosporella punctiformis P. Karst., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 14: 105 (1887)
 
 #### Original name
 Oncosporella punctiformis P. Karst., 1887

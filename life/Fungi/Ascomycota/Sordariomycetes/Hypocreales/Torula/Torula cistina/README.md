@@ -1,5 +1,4 @@
-Torula cistina Thüm. SPECIES
-=======
+# Torula cistina Thüm. SPECIES
 
 #### Status
 ACCEPTED

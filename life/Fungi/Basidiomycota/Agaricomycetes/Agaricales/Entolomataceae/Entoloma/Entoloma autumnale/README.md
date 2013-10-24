@@ -1,5 +1,4 @@
-Entoloma autumnale Velen. SPECIES
-=======
+# Entoloma autumnale Velen. SPECIES
 
 #### Status
 ACCEPTED

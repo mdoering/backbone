@@ -1,5 +1,4 @@
-Gibberella coronicola T. Aoki & O'Donnell SPECIES
-=======
+# Gibberella coronicola T. Aoki & O'Donnell SPECIES
 
 #### Status
 ACCEPTED

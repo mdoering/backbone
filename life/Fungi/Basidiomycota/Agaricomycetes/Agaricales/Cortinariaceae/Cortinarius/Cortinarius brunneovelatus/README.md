@@ -1,5 +1,4 @@
-Cortinarius brunneovelatus var. brunneovelatus VARIETY
-=======
+# Cortinarius brunneovelatus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 52: 431 (1975)
 
 #### Original name
-Cortinarius brunneovelatus var. brunneovelatus
+Cortinarius brunneovelatus M.M. Moser & E. Horak
 
 ### Remarks
 null

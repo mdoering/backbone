@@ -1,5 +1,4 @@
-Striglia plumbea (Lév.) Kuntze SPECIES
-=======
+# Striglia plumbea (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

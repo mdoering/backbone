@@ -1,5 +1,4 @@
-Dorothia alleni Cushman SPECIES
-=======
+# Dorothia alleni Cushman SPECIES
 
 #### Status
 ACCEPTED

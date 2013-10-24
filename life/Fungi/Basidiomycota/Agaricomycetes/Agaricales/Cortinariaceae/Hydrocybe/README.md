@@ -1,5 +1,4 @@
-Hydrocybe GENUS
-=======
+# Hydrocybe GENUS
 
 #### Status
 ACCEPTED

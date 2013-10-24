@@ -1,5 +1,4 @@
-Ceriomyces rubricitrinus Murrill SPECIES
-=======
+# Ceriomyces rubricitrinus Murrill SPECIES
 
 #### Status
 ACCEPTED

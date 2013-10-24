@@ -1,5 +1,4 @@
-Fibulobasidium inconspicuum Bandoni, 1979 SPECIES
-=======
+# Fibulobasidium inconspicuum Bandoni, 1979 SPECIES
 
 #### Status
 ACCEPTED

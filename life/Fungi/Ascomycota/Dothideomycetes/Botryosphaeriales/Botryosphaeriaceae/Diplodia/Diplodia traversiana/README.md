@@ -1,5 +1,4 @@
-Diplodia traversiana Sousa da Câmara SPECIES
-=======
+# Diplodia traversiana Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Briceia coalita McCulloch, 1977 SPECIES
-=======
+# Briceia coalita McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

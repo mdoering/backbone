@@ -1,5 +1,4 @@
-Lycoperdon constellatum var. constellatum Fr. VARIETY
-=======
+# Lycoperdon constellatum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon constellatum var. constellatum Fr.
+Lycoperdon constellatum Fr.
 
 ### Remarks
 null

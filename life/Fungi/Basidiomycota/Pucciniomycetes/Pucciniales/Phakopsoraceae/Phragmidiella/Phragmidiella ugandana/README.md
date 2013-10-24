@@ -1,5 +1,4 @@
-Phragmidiella ugandana Cummins, 1956 SPECIES
-=======
+# Phragmidiella ugandana Cummins, 1956 SPECIES
 
 #### Status
 ACCEPTED

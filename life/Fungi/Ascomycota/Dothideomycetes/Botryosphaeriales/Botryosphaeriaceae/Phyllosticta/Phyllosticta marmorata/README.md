@@ -1,5 +1,4 @@
-Phyllosticta marmorata Cooke SPECIES
-=======
+# Phyllosticta marmorata Cooke SPECIES
 
 #### Status
 ACCEPTED

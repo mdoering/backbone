@@ -1,5 +1,4 @@
-Ductifera elastica Lowy SPECIES
-=======
+# Ductifera elastica Lowy SPECIES
 
 #### Status
 ACCEPTED

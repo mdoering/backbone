@@ -1,5 +1,4 @@
-Meliola lonchocarpi Speg. SPECIES
-=======
+# Meliola lonchocarpi Speg. SPECIES
 
 #### Status
 ACCEPTED

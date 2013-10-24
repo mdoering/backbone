@@ -1,5 +1,4 @@
-Pseudocercospora phaeochlora (Speg.) U. Braun, Delhey & Kiehr SPECIES
-=======
+# Pseudocercospora phaeochlora (Speg.) U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

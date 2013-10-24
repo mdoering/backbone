@@ -1,5 +1,4 @@
-Trichopeziza britzelmayriana Rehm SPECIES
-=======
+# Trichopeziza britzelmayriana Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora hieroglyphica Poelt SPECIES
-=======
+# Lecanora hieroglyphica Poelt SPECIES
 
 #### Status
 ACCEPTED

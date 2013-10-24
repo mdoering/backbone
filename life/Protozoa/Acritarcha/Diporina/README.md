@@ -1,5 +1,4 @@
-Diporina S.N. Naumova, 1939 GENUS
-=======
+# Diporina S.N. Naumova, 1939 GENUS
 
 #### Status
 ACCEPTED

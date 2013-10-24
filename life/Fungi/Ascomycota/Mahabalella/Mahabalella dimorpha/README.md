@@ -1,5 +1,4 @@
-Mahabalella dimorpha Matsush. SPECIES
-=======
+# Mahabalella dimorpha Matsush. SPECIES
 
 #### Status
 ACCEPTED

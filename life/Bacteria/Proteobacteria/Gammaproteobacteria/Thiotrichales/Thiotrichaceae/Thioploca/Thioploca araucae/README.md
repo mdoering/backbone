@@ -1,5 +1,4 @@
-Thioploca araucae Maier & Gallardo, 1984 SPECIES
-=======
+# Thioploca araucae Maier & Gallardo, 1984 SPECIES
 
 #### Status
 ACCEPTED

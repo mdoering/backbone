@@ -1,5 +1,4 @@
-Glomerella sesleriae (Niessl) O.E. Erikss. SPECIES
-=======
+# Glomerella sesleriae (Niessl) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

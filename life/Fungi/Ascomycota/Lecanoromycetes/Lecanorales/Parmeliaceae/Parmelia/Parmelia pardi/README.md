@@ -1,5 +1,4 @@
-Parmelia pardi Krog & Swinscow SPECIES
-=======
+# Parmelia pardi Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

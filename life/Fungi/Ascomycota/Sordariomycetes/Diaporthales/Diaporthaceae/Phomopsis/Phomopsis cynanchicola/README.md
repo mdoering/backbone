@@ -1,5 +1,4 @@
-Phomopsis cynanchicola Petr. SPECIES
-=======
+# Phomopsis cynanchicola Petr. SPECIES
 
 #### Status
 ACCEPTED

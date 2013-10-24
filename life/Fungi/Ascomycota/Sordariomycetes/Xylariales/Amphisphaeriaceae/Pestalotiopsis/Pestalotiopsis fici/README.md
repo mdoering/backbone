@@ -1,14 +1,13 @@
-Pestalotia fici (Steyaert) Guba, 1961 SPECIES
-=======
+# Pestalotiopsis fici Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 91 (1961)
+Bull. Jard. bot. État Brux. 14: 324 (1949)
 
 #### Original name
 Pestalotiopsis fici Steyaert, 1949

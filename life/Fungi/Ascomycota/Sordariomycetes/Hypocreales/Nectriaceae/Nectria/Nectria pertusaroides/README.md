@@ -1,5 +1,4 @@
-Nectria pertusaroides Samuels SPECIES
-=======
+# Nectria pertusaroides Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria acericola Menzel {?} SPECIES
-=======
+# Sphaeria acericola Menzel {?} SPECIES
 
 #### Status
 ACCEPTED

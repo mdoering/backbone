@@ -1,5 +1,4 @@
-Selenidioides Levine, 1971 GENUS
-=======
+# Selenidioides Levine, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lyngbya perelegans Lemmermann SPECIES
-=======
+# Leptolyngbya perelegans (Lemmermann) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

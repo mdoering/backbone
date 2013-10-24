@@ -1,5 +1,4 @@
-Lasiosphaeria tephrocoma (Berk. & Broome) Sacc. SPECIES
-=======
+# Lasiosphaeria tephrocoma (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

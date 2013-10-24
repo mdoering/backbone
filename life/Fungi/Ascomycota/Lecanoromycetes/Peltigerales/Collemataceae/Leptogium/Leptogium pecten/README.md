@@ -1,5 +1,4 @@
-Leptogium pecten F. Wilson SPECIES
-=======
+# Leptogium pecten F. Wilson SPECIES
 
 #### Status
 ACCEPTED

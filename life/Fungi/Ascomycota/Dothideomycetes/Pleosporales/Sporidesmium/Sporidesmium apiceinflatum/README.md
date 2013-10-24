@@ -1,5 +1,4 @@
-Sporidesmium apiceinflatum Matsush. SPECIES
-=======
+# Sporidesmium apiceinflatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

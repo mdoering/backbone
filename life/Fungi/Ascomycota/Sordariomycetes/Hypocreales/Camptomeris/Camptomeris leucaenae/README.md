@@ -1,14 +1,13 @@
-Exosporium leucaenae F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Camptomeris leucaenae (F. Stevens & Dalbey) Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 11(1): 5 (1919)
+Annls mycol. 28(1/2): 222 (1930)
 
 #### Original name
 Exosporium leucaenae F. Stevens & Dalbey, 1919

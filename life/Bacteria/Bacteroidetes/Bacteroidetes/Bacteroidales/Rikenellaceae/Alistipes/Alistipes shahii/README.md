@@ -1,5 +1,4 @@
-Alistipes shahii Song et al., 2006 SPECIES
-=======
+# Alistipes shahii Song et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

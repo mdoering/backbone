@@ -1,5 +1,4 @@
-Shewanella sairae Satomi et al., 2003 SPECIES
-=======
+# Shewanella sairae Satomi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

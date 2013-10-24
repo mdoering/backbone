@@ -1,5 +1,4 @@
-Dothichiza padi Sacc. & Roum. SPECIES
-=======
+# Dothichiza padi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

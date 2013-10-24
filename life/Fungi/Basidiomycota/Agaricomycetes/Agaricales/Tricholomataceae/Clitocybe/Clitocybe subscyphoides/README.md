@@ -1,5 +1,4 @@
-Clitocybe subscyphoides (Murrill) Singer SPECIES
-=======
+# Clitocybe subscyphoides (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

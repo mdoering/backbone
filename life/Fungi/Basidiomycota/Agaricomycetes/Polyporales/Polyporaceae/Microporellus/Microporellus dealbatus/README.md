@@ -1,17 +1,16 @@
-Polystictus dealbatus subsp. dealbatus SUBSPECIES
-=======
+# Microporellus dealbatus (Berk. & M.A. Curtis) Murrill, 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 32(9): 483 (1905)
 
 #### Original name
-null
+Polyporus dealbatus Berk. & M.A. Curtis, 1853
 
 ### Remarks
 null

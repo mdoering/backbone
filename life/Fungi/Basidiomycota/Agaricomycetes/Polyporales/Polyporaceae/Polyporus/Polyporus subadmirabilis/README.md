@@ -1,5 +1,4 @@
-Polyporus subadmirabilis Bondartsev SPECIES
-=======
+# Polyporus subadmirabilis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

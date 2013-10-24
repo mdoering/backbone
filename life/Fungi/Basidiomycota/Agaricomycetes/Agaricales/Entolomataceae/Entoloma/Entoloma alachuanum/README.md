@@ -1,5 +1,4 @@
-Entoloma alachuanum Murrill SPECIES
-=======
+# Entoloma alachuanum Murrill SPECIES
 
 #### Status
 ACCEPTED

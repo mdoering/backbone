@@ -1,5 +1,4 @@
-Polyporus ochrotenuis Lloyd SPECIES
-=======
+# Polyporus ochrotenuis Lloyd SPECIES
 
 #### Status
 ACCEPTED

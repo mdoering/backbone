@@ -1,5 +1,4 @@
-Asteridiella pentapterygii A.K. Kar & Maity SPECIES
-=======
+# Asteridiella pentapterygii A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

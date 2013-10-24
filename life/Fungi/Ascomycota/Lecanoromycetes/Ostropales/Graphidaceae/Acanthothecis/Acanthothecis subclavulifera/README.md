@@ -1,5 +1,4 @@
-Acanthothecis subclavulifera Staiger & Kalb SPECIES
-=======
+# Acanthothecis subclavulifera Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

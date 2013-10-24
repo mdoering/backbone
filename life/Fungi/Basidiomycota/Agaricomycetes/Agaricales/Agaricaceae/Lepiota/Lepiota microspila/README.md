@@ -1,5 +1,4 @@
-Lepiota microspila Berk. SPECIES
-=======
+# Lepiota microspila Berk. SPECIES
 
 #### Status
 ACCEPTED

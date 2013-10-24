@@ -1,5 +1,4 @@
-Peziza nivea Batsch SPECIES
-=======
+# Peziza nivea Batsch SPECIES
 
 #### Status
 ACCEPTED

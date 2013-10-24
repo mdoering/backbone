@@ -1,5 +1,4 @@
-Crinipellis squamosa Z.S. Bi SPECIES
-=======
+# Crinipellis squamosa Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

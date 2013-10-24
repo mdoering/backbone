@@ -1,5 +1,4 @@
-Lopezmyxa viridis-flavescens B.V. Skvortzov SPECIES
-=======
+# Lopezmyxa viridis-flavescens B.V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

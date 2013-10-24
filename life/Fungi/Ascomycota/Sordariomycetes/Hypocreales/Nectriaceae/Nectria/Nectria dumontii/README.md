@@ -1,5 +1,4 @@
-Nectria dumontii Brayford & Samuels SPECIES
-=======
+# Nectria dumontii Brayford & Samuels SPECIES
 
 #### Status
 ACCEPTED

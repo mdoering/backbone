@@ -1,5 +1,4 @@
-Diploschistes subcupreus (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes subcupreus (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

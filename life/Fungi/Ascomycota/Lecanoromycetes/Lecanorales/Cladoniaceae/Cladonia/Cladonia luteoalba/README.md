@@ -1,5 +1,4 @@
-Cladonia luteoalba A. Wilson & Wheldon SPECIES
-=======
+# Cladonia luteoalba A. Wilson & Wheldon SPECIES
 
 #### Status
 ACCEPTED

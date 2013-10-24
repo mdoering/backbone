@@ -1,5 +1,4 @@
-Puccinia solani Cooke SPECIES
-=======
+# Puccinia solani Cooke SPECIES
 
 #### Status
 ACCEPTED

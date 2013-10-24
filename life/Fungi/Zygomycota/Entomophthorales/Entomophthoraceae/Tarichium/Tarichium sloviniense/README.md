@@ -1,5 +1,4 @@
-Tarichium sloviniense Balazy & J. Wisn. SPECIES
-=======
+# Tarichium sloviniense Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

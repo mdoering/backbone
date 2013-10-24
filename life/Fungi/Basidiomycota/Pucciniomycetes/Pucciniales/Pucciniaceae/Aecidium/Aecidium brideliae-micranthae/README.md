@@ -1,5 +1,4 @@
-Aecidium brideliae-micranthae Cummins SPECIES
-=======
+# Aecidium brideliae-micranthae Cummins SPECIES
 
 #### Status
 ACCEPTED

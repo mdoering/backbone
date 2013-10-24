@@ -1,5 +1,4 @@
-Toninia catalanica V. Wirth & Llimona SPECIES
-=======
+# Toninia catalanica V. Wirth & Llimona SPECIES
 
 #### Status
 ACCEPTED

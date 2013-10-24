@@ -1,5 +1,4 @@
-Rhytismites ulmi (R. Ludw.) Mesch. SPECIES
-=======
+# Rhytismites ulmi (R. Ludw.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

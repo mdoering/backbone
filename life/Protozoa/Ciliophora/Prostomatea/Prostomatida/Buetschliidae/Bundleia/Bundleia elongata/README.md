@@ -1,5 +1,4 @@
-Bundleia elongata Strelkow, 1939 SPECIES
-=======
+# Bundleia elongata Strelkow, 1939 SPECIES
 
 #### Status
 ACCEPTED

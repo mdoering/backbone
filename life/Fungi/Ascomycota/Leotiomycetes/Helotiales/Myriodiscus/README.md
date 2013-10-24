@@ -1,17 +1,16 @@
-Ascotremellopsis Teng & S.H. Ou ex S.H. Ou GENUS
-=======
+# Myriodiscus Boedijn GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sinensia, Shanghai 7: 671 (1936)
+Bull. Jard. Bot. Buitenz, 3 Sér. 13: 481 (1935)
 
 #### Original name
-Ascotremellopsis Teng & S.H. Ou ex S.H. Ou
+Myriodiscus Boedijn
 
 ### Remarks
 null

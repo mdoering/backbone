@@ -1,5 +1,4 @@
-Lycoperdon dakotensis Brenckle SPECIES
-=======
+# Lycoperdon dakotensis Brenckle SPECIES
 
 #### Status
 ACCEPTED

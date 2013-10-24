@@ -1,5 +1,4 @@
-Cortinarius sororiatus (P. Karst.) Reumaux SPECIES
-=======
+# Cortinarius sororiatus (P. Karst.) Reumaux SPECIES
 
 #### Status
 ACCEPTED

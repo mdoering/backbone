@@ -1,5 +1,4 @@
-Boletus asperipes Corner SPECIES
-=======
+# Boletus asperipes Corner SPECIES
 
 #### Status
 ACCEPTED

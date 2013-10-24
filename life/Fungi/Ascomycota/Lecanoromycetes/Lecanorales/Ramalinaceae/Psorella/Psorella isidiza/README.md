@@ -1,5 +1,4 @@
-Psorella isidiza Patw. & Nagarkar SPECIES
-=======
+# Psorella isidiza Patw. & Nagarkar SPECIES
 
 #### Status
 ACCEPTED

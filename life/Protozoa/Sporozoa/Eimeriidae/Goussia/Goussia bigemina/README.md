@@ -1,8 +1,7 @@
-Eimeria bigemina (Labbé, 1896) Yakimoff, 1929 SPECIES
-=======
+# Goussia bigemina Labbé, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

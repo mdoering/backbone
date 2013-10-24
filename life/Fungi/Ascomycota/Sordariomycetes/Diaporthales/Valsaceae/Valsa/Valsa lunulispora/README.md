@@ -1,8 +1,7 @@
-Valsa lunulaespora Pat. SPECIES
-=======
+# Valsa lunulispora Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsa lunulaespora Pat.
+Valsa lunulispora Pat.
 
 ### Remarks
 null

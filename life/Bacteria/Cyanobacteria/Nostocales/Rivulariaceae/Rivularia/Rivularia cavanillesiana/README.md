@@ -1,5 +1,4 @@
-Rivularia cavanillesiana P. González SPECIES
-=======
+# Rivularia cavanillesiana P. González SPECIES
 
 #### Status
 ACCEPTED

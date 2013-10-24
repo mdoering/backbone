@@ -1,14 +1,13 @@
-Brevilegnia unisperma var. montana Coker, 1927 VARIETY
-=======
+# Brevilegnia montana (Coker & Braxton) T.W. Johnson, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 42: 213 (1927)
+Mycologia 69(2): 289 (1977)
 
 #### Original name
 Brevilegnia unisperma var. montana Coker, 1927

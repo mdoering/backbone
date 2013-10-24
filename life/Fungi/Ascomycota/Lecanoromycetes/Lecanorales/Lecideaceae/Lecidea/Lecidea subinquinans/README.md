@@ -1,5 +1,4 @@
-Lecidea subinquinans Nyl. SPECIES
-=======
+# Lecidea subinquinans Nyl. SPECIES
 
 #### Status
 ACCEPTED

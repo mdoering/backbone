@@ -1,11 +1,10 @@
-Chnoospora atlantica J.Agardh, 1847 SPECIES
-=======
+# Chnoospora minima (K. Hering) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

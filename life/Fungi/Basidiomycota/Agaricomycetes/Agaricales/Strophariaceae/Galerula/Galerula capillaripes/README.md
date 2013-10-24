@@ -1,5 +1,4 @@
-Galerula capillaripes (Peck) Murrill SPECIES
-=======
+# Galerula capillaripes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

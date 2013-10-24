@@ -1,5 +1,4 @@
-Boletus subpallidus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Boletus subpallidus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

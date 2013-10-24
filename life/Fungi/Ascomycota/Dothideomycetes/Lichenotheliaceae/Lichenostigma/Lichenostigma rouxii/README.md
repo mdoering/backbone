@@ -1,5 +1,4 @@
-Lichenostigma rouxii Nav.-Ros., Calat. & Hafellner SPECIES
-=======
+# Lichenostigma rouxii Nav.-Ros., Calat. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

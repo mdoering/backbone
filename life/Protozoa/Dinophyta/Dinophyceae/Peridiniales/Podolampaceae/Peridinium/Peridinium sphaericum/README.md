@@ -1,5 +1,4 @@
-Peridinium sphaericum Tseng SPECIES
-=======
+# Peridinium sphaericum Tseng SPECIES
 
 #### Status
 ACCEPTED

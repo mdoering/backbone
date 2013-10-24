@@ -1,5 +1,4 @@
-Pyrenula enteroleuca Spreng. SPECIES
-=======
+# Pyrenula enteroleuca Spreng. SPECIES
 
 #### Status
 ACCEPTED

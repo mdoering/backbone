@@ -1,5 +1,4 @@
-Morthiera thuemenii Cooke SPECIES
-=======
+# Morthiera thuemenii Cooke SPECIES
 
 #### Status
 ACCEPTED

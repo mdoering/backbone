@@ -1,17 +1,16 @@
-Paraglomaceae J.B. Morton & D. Redecker FAMILY
-=======
+# Paraglomeraceae J.B. Morton & D. Redecker FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 93(1): 188 (2001)
 
 #### Original name
-Paraglomaceae J.B. Morton & D. Redecker
+Paraglomeraceae J.B. Morton & D. Redecker
 
 ### Remarks
 null

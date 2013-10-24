@@ -1,5 +1,4 @@
-Penzigia sessilis Theiss. SPECIES
-=======
+# Penzigia sessilis Theiss. SPECIES
 
 #### Status
 ACCEPTED

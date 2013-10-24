@@ -1,5 +1,4 @@
-Cerinomyces megalosporus Duhem, 1998 SPECIES
-=======
+# Cerinomyces megalosporus Duhem, 1998 SPECIES
 
 #### Status
 ACCEPTED

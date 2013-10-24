@@ -1,5 +1,4 @@
-Phyllosticta fuliginosa C. Massal. SPECIES
-=======
+# Phyllosticta fuliginosa C. Massal. SPECIES
 
 #### Status
 ACCEPTED

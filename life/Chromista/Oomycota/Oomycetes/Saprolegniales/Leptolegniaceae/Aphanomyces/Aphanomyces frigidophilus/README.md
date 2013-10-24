@@ -1,5 +1,4 @@
-Aphanomyces frigidophilus Kitanch. & Hatai, 1997 SPECIES
-=======
+# Aphanomyces frigidophilus Kitanch. & Hatai, 1997 SPECIES
 
 #### Status
 ACCEPTED

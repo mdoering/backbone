@@ -1,5 +1,4 @@
-Scolecopeltidium cassiae Bat. SPECIES
-=======
+# Scolecopeltidium cassiae Bat. SPECIES
 
 #### Status
 ACCEPTED

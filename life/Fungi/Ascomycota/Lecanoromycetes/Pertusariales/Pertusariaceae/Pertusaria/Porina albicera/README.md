@@ -1,8 +1,7 @@
-Verrucaria albicera Kremp., 1874 SPECIES
-=======
+# Porina albicera (Kremp.) Overeem & D. Overeem, 1922 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Anthracothecium obscuratum Upreti & Ajay Singh SPECIES
-=======
+# Anthracothecium obscuratum Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

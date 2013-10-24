@@ -1,17 +1,16 @@
-Camarosporium boerhaaviae S. Ahmad SPECIES
-=======
+# Camarosporium boerhaviae S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 13: 25 (1967)
 
 #### Original name
-Camarosporium boerhaaviae S. Ahmad
+Camarosporium boerhaviae S. Ahmad
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Clavaria murrillii Coker, 1923 SPECIES
-=======
+# Ramaria murrillii (Coker) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Clavarias of the United States and Canada 190 (1923)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 607 (1950)
 
 #### Original name
 Clavaria murrillii Coker, 1923

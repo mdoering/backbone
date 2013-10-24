@@ -1,5 +1,4 @@
-Arthopyrenia pyrenastrella var. pyrenastrella VARIETY
-=======
+# Arthopyrenia pyrenastrella SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthopyrenia pyrenastrella var. pyrenastrella
+null
 
 ### Remarks
 null

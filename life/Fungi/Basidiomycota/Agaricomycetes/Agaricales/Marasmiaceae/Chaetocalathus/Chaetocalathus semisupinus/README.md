@@ -1,5 +1,4 @@
-Chaetocalathus semisupinus (Berk. & Broome) Pegler SPECIES
-=======
+# Chaetocalathus semisupinus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

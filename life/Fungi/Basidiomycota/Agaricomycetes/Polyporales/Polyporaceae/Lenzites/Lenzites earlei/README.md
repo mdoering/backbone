@@ -1,5 +1,4 @@
-Lenzites earlei Murrill SPECIES
-=======
+# Lenzites earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

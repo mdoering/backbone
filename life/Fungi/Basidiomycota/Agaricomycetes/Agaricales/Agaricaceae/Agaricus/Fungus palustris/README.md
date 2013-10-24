@@ -1,5 +1,4 @@
-Fungus palustris (Quél.) Kuntze SPECIES
-=======
+# Fungus palustris (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

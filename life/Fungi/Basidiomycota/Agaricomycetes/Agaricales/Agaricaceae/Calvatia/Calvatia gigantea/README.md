@@ -1,14 +1,13 @@
-Lycoperdon giganteum Batsch, 1786 SPECIES
-=======
+# Calvatia gigantea (Batsch) Lloyd, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle), cont. prim. 237 (1786)
+Mycol. Writings 1. Lycoperd. Australia 1: 166 (1904)
 
 #### Original name
 Lycoperdon giganteum Batsch, 1786

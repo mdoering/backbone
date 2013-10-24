@@ -1,5 +1,4 @@
-Gloiotrichia natans (Hedwig) Rabenhorst SPECIES
-=======
+# Gloiotrichia natans (Hedwig) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

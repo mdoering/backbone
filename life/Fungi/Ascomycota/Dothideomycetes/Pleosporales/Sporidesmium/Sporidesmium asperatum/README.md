@@ -1,5 +1,4 @@
-Sporidesmium asperatum Hol.-Jech. SPECIES
-=======
+# Sporidesmium asperatum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

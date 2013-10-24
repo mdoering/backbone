@@ -1,5 +1,4 @@
-Hendersonia kwangsiensis Petr. SPECIES
-=======
+# Hendersonia kwangsiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

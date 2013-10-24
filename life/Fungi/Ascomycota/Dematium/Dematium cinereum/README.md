@@ -1,5 +1,4 @@
-Dematium cinereum (Pers.) Sacc. SPECIES
-=======
+# Dematium cinereum (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

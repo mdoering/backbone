@@ -1,5 +1,4 @@
-Beverwykella Tubaki GENUS
-=======
+# Beverwykella Tubaki GENUS
 
 #### Status
 ACCEPTED

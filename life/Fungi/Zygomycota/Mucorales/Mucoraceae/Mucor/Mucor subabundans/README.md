@@ -1,5 +1,4 @@
-Mucor subabundans Dyr SPECIES
-=======
+# Mucor subabundans Dyr SPECIES
 
 #### Status
 ACCEPTED

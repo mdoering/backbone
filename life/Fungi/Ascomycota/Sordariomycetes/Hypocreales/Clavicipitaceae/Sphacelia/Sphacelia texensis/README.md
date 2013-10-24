@@ -1,5 +1,4 @@
-Sphacelia texensis Paoutová & Odvody SPECIES
-=======
+# Sphacelia texensis Paoutová & Odvody SPECIES
 
 #### Status
 ACCEPTED

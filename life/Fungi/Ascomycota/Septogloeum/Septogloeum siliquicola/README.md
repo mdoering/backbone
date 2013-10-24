@@ -1,14 +1,13 @@
-Septogloeum siliquaecola (Unamuno) Melnik SPECIES
-=======
+# Septogloeum siliquicola (Unamuno) Melnik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 8: 208 (1971)
 
 #### Original name
 Ascochyta siliquaecola Unamuno

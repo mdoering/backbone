@@ -1,5 +1,4 @@
-Diplodia clavispora Ellis & Barthol. SPECIES
-=======
+# Diplodia clavispora Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

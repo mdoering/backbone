@@ -1,5 +1,4 @@
-Ochroporus vulpinus (Fr.) J. Schröt. SPECIES
-=======
+# Ochroporus vulpinus (Fr.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

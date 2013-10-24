@@ -1,5 +1,4 @@
-Otthia urceolata Fuckel SPECIES
-=======
+# Otthia urceolata Fuckel SPECIES
 
 #### Status
 ACCEPTED

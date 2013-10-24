@@ -1,5 +1,4 @@
-Gymnopus mammillatus Murrill SPECIES
-=======
+# Gymnopus mammillatus Murrill SPECIES
 
 #### Status
 ACCEPTED

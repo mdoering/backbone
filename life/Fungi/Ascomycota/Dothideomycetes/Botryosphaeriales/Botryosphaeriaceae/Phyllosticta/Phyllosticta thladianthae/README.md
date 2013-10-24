@@ -1,5 +1,4 @@
-Phyllosticta thladianthae Sawada SPECIES
-=======
+# Phyllosticta thladianthae Sawada SPECIES
 
 #### Status
 ACCEPTED

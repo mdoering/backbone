@@ -1,5 +1,4 @@
-Septoria cocoës Petch SPECIES
-=======
+# Septoria cocoës Petch SPECIES
 
 #### Status
 ACCEPTED

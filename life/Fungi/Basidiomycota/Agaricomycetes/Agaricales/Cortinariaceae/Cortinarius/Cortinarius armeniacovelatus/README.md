@@ -1,5 +1,4 @@
-Cortinarius armeniacovelatus (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
-=======
+# Cortinarius armeniacovelatus (Bougher, Fuhrer & E. Horak) Peintner, E. Horak, M.M. Moser & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

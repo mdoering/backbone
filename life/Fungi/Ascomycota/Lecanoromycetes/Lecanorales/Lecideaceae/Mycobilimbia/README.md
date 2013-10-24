@@ -1,17 +1,16 @@
-Probilimbia Vain. GENUS
-=======
+# Mycobilimbia Rehm GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Term. Füz. 22: 318 (1899)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(3): 295, 327 (1890)
 
 #### Original name
-Probilimbia Vain.
+Mycobilimbia Rehm
 
 ### Remarks
 null

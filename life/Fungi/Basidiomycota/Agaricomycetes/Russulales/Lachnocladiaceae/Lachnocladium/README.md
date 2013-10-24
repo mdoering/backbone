@@ -1,5 +1,4 @@
-Lachnocladium Léveillé, 1846 GENUS
-=======
+# Lachnocladium Léveillé, 1846 GENUS
 
 #### Status
 ACCEPTED

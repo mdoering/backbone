@@ -1,5 +1,4 @@
-Ovularia cerasi McAlpine SPECIES
-=======
+# Ovularia cerasi McAlpine SPECIES
 
 #### Status
 ACCEPTED

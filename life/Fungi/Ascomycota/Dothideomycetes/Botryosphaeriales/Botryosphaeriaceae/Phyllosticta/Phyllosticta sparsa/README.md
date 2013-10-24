@@ -1,5 +1,4 @@
-Phyllosticta sparsa Bonar SPECIES
-=======
+# Phyllosticta sparsa Bonar SPECIES
 
 #### Status
 ACCEPTED

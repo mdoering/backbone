@@ -1,5 +1,4 @@
-Evernia ashneh Linds. SPECIES
-=======
+# Evernia ashneh Linds. SPECIES
 
 #### Status
 ACCEPTED

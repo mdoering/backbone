@@ -1,5 +1,4 @@
-Marasmius galeatus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius galeatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

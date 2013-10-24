@@ -1,5 +1,4 @@
-Blastenia luteominia (Tuck.) Hasse SPECIES
-=======
+# Blastenia luteominia (Tuck.) Hasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium warpuriae Wakef. SPECIES
-=======
+# Helminthosporium warpuriae Wakef. SPECIES
 
 #### Status
 ACCEPTED

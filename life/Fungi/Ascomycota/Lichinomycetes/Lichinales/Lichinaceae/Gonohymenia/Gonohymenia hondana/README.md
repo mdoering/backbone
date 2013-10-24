@@ -1,14 +1,13 @@
-Gonohymenia hondoana (Zahlbr.) Henssen SPECIES
-=======
+# Gonohymenia hondana (Zahlbr.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 18(1): 52 (1986)
 
 #### Original name
 Thyrea hondana Zahlbr.

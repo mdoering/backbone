@@ -1,5 +1,4 @@
-Inocybe pseudorhacodes Tak. Kobay. & Courtec. SPECIES
-=======
+# Inocybe pseudorhacodes Tak. Kobay. & Courtec. SPECIES
 
 #### Status
 ACCEPTED

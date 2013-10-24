@@ -1,17 +1,16 @@
-Mycena ochrogaleata J. Favre, 1955 SPECIES
-=======
+# Hemimycena ochrogaleata (J. Favre) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 167 (1978)
 
 #### Original name
-null
+Mycena ochrogalatea J. Favre
 
 ### Remarks
 null

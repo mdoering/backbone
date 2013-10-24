@@ -1,5 +1,4 @@
-Discorbis palmerae SPECIES
-=======
+# Discorbis palmerae SPECIES
 
 #### Status
 ACCEPTED

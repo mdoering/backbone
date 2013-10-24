@@ -1,17 +1,16 @@
-Aleuria olivacea Boud., 1897 SPECIES
-=======
+# Peziza phyllogena Cooke, 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13(1): 14 (1897)
+null
 
 #### Original name
-Aleuria olivacea Boud., 1897
+Peziza phyllogena Cooke, 1877
 
 ### Remarks
 null

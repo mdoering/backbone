@@ -1,5 +1,4 @@
-Marasmius ustorum Berk. SPECIES
-=======
+# Marasmius ustorum Berk. SPECIES
 
 #### Status
 ACCEPTED

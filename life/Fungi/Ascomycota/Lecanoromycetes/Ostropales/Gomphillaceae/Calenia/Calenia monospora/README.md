@@ -1,5 +1,4 @@
-Calenia monospora Vezda SPECIES
-=======
+# Calenia monospora Vezda SPECIES
 
 #### Status
 ACCEPTED

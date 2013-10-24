@@ -1,5 +1,4 @@
-Aecidium tordillense Speg. SPECIES
-=======
+# Aecidium tordillense Speg. SPECIES
 
 #### Status
 ACCEPTED

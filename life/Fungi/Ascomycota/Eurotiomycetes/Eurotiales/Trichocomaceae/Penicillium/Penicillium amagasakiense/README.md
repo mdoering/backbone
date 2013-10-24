@@ -1,5 +1,4 @@
-Penicillium amagasakiense Kusai {?} SPECIES
-=======
+# Penicillium amagasakiense Kusai {?} SPECIES
 
 #### Status
 ACCEPTED

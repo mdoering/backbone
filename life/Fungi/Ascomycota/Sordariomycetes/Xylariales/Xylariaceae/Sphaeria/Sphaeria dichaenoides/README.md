@@ -1,5 +1,4 @@
-Sphaeria dichaenoides Richon SPECIES
-=======
+# Sphaeria dichaenoides Richon SPECIES
 
 #### Status
 ACCEPTED

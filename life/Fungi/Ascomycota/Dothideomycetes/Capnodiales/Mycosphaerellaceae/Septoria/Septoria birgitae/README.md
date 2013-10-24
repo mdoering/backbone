@@ -1,5 +1,4 @@
-Septoria birgitae Bedlan SPECIES
-=======
+# Septoria birgitae Bedlan SPECIES
 
 #### Status
 ACCEPTED

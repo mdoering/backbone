@@ -1,5 +1,4 @@
-Agaricus schultzii (Kalchbr. ex G. Winter) G. Winter SPECIES
-=======
+# Agaricus schultzii (Kalchbr. ex G. Winter) G. Winter SPECIES
 
 #### Status
 ACCEPTED

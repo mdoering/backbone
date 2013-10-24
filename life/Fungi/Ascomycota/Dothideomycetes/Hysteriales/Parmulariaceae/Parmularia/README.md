@@ -1,17 +1,16 @@
-Pycnographa Müller Arg., 1890 GENUS
-=======
+# Parmularia Léveillé, 1846 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 73: 194 (1890)
+Annls Sci. Nat. , Bot. , sér. 3 5: 286 (1846)
 
 #### Original name
-Pycnographa Müller Arg., 1890
+Parmularia Léveillé, 1846
 
 ### Remarks
 null

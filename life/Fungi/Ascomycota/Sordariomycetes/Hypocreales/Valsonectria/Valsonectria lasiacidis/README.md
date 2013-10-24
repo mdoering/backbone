@@ -1,5 +1,4 @@
-Valsonectria lasiacidis (Samuels & Rogerson) Samuels & Rossman SPECIES
-=======
+# Valsonectria lasiacidis (Samuels & Rogerson) Samuels & Rossman SPECIES
 
 #### Status
 ACCEPTED

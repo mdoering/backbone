@@ -1,5 +1,4 @@
-Glomerella mori Sawada SPECIES
-=======
+# Glomerella mori Sawada SPECIES
 
 #### Status
 ACCEPTED

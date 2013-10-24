@@ -1,5 +1,4 @@
-Lecanora mastrucata (Wahlenb.) Ach. SPECIES
-=======
+# Lecanora mastrucata (Wahlenb.) Ach. SPECIES
 
 #### Status
 ACCEPTED

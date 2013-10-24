@@ -1,5 +1,4 @@
-Chitonomyces japanensis Thaxt. SPECIES
-=======
+# Chitonomyces japanensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

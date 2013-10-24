@@ -1,5 +1,4 @@
-Synchytrium davisii Karling SPECIES
-=======
+# Synchytrium davisii Karling SPECIES
 
 #### Status
 ACCEPTED

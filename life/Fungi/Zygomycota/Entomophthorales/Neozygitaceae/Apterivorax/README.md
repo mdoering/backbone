@@ -1,5 +1,4 @@
-Apterivorax S. Keller GENUS
-=======
+# Apterivorax S. Keller GENUS
 
 #### Status
 ACCEPTED

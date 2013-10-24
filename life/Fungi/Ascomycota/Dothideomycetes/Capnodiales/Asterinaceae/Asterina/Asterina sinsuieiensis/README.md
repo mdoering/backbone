@@ -1,5 +1,4 @@
-Asterina sinsuieiensis W. Yamam. SPECIES
-=======
+# Asterina sinsuieiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

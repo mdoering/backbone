@@ -1,5 +1,4 @@
-Amphophialis R.F. Castañeda, W.B. Kendr. & Guarro GENUS
-=======
+# Amphophialis R.F. Castañeda, W.B. Kendr. & Guarro GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria salicicola Allesch. SPECIES
-=======
+# Amphisphaeria salicicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

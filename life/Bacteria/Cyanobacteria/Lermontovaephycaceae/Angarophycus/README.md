@@ -1,5 +1,4 @@
-Angarophycus A.G.Vologdin GENUS
-=======
+# Angarophycus A.G.Vologdin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema kainantum Kurok. & K. H. Moon SPECIES
-=======
+# Parmotrema kainantum Kurok. & K. H. Moon SPECIES
 
 #### Status
 ACCEPTED

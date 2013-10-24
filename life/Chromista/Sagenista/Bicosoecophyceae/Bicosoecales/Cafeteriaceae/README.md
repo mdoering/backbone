@@ -1,5 +1,4 @@
-Cafeteriaceae Moestrup, 1995 FAMILY
-=======
+# Cafeteriaceae Moestrup, 1995 FAMILY
 
 #### Status
 ACCEPTED

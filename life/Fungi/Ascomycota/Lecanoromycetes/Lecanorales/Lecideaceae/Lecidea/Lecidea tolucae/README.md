@@ -1,5 +1,4 @@
-Lecidea tolucae B. de Lesd. SPECIES
-=======
+# Lecidea tolucae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

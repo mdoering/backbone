@@ -1,5 +1,4 @@
-Lactarius omeiensis W.F. Chiu SPECIES
-=======
+# Lactarius omeiensis W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

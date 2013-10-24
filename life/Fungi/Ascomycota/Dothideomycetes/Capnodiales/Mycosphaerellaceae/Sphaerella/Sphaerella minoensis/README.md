@@ -1,5 +1,4 @@
-Sphaerella minoensis (Syd.) Sacc. SPECIES
-=======
+# Sphaerella minoensis (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

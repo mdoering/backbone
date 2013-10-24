@@ -1,5 +1,4 @@
-Microthelia vagans (Ellis & Everh.) Kuntze SPECIES
-=======
+# Microthelia vagans (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

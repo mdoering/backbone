@@ -1,5 +1,4 @@
-Alterococcus Shieh & Jean, 1999 GENUS
-=======
+# Alterococcus Shieh & Jean, 1999 GENUS
 
 #### Status
 ACCEPTED

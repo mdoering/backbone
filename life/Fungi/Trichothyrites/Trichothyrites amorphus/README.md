@@ -1,5 +1,4 @@
-Trichothyrites amorphus (R.K. Kar & R.K. Saxena) R.K. Saxena & N.K. Misra SPECIES
-=======
+# Trichothyrites amorphus (R.K. Kar & R.K. Saxena) R.K. Saxena & N.K. Misra SPECIES
 
 #### Status
 ACCEPTED

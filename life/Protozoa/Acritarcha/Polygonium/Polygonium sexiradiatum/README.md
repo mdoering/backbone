@@ -1,5 +1,4 @@
-Polygonium sexiradiatum (Timofeev, 1959) Volkova, 1990 SPECIES
-=======
+# Polygonium sexiradiatum (Timofeev, 1959) Volkova, 1990 SPECIES
 
 #### Status
 ACCEPTED

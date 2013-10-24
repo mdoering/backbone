@@ -1,5 +1,4 @@
-Parmelia sublaevigatoides C.W. Dodge SPECIES
-=======
+# Parmelia sublaevigatoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

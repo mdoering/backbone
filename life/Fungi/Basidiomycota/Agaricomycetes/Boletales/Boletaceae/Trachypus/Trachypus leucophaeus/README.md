@@ -1,5 +1,4 @@
-Trachypus leucophaeus (Pers.) J. Favre SPECIES
-=======
+# Trachypus leucophaeus (Pers.) J. Favre SPECIES
 
 #### Status
 ACCEPTED

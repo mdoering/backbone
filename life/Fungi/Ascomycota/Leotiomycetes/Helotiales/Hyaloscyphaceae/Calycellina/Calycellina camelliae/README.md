@@ -1,5 +1,4 @@
-Calycellina camelliae Dennis SPECIES
-=======
+# Calycellina camelliae Dennis SPECIES
 
 #### Status
 ACCEPTED

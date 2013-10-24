@@ -1,5 +1,4 @@
-Sporotrichum muris (Gluge & d'Ukedem) Sacc. SPECIES
-=======
+# Sporotrichum muris (Gluge & d'Ukedem) Sacc. SPECIES
 
 #### Status
 ACCEPTED

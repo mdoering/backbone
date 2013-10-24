@@ -1,5 +1,4 @@
-Puccinia cordiae Arthur SPECIES
-=======
+# Puccinia cordiae Arthur SPECIES
 
 #### Status
 ACCEPTED

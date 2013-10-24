@@ -1,5 +1,4 @@
-Mycosphaerella sumacis (Madej) M. Morelet SPECIES
-=======
+# Mycosphaerella sumacis (Madej) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

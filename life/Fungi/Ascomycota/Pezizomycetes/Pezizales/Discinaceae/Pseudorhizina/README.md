@@ -1,17 +1,16 @@
-Helvellella S. Imai GENUS
-=======
+# Pseudorhizina Jacz. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 46: 174 (1932)
+Opredelitel' Gribov. 1. Sovershennye Griby 1: 414 (1913)
 
 #### Original name
-Helvellella S. Imai
+Pseudorhizina Jacz.
 
 ### Remarks
 null

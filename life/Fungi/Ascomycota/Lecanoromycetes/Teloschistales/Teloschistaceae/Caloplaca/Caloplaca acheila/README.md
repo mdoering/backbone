@@ -1,5 +1,4 @@
-Caloplaca acheila f. acheila FORM
-=======
+# Caloplaca acheila Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca acheila f. acheila
+Caloplaca acheila Zahlbr.
 
 ### Remarks
 null

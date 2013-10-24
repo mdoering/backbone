@@ -1,5 +1,4 @@
-Cercospora bremeri Petr. SPECIES
-=======
+# Cercospora bremeri Petr. SPECIES
 
 #### Status
 ACCEPTED

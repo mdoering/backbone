@@ -1,5 +1,4 @@
-Asteromella derridis (Henn.) Aa SPECIES
-=======
+# Asteromella derridis (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

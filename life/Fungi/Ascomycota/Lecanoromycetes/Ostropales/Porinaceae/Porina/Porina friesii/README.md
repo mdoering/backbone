@@ -1,5 +1,4 @@
-Porina friesii (P. Crouan & H. Crouan) Zahlbr. SPECIES
-=======
+# Porina friesii (P. Crouan & H. Crouan) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cibicides akneriana SPECIES
-=======
+# Cibicides akneriana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus aeneus Sappa, 1954 SPECIES
-=======
+# Aspergillus aeneus Sappa, 1954 SPECIES
 
 #### Status
 ACCEPTED

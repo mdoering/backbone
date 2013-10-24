@@ -1,5 +1,4 @@
-Leptosphaeria anisomeres Wehm. SPECIES
-=======
+# Leptosphaeria anisomeres Wehm. SPECIES
 
 #### Status
 ACCEPTED

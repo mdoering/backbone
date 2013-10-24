@@ -1,5 +1,4 @@
-Acumispora uniseptata Matsush., 1980 SPECIES
-=======
+# Acumispora uniseptata Matsush., 1980 SPECIES
 
 #### Status
 ACCEPTED

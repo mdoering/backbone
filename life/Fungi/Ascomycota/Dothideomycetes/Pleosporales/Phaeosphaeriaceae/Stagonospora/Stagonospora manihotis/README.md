@@ -1,5 +1,4 @@
-Stagonospora manihotis Chevaug. SPECIES
-=======
+# Stagonospora manihotis Chevaug. SPECIES
 
 #### Status
 ACCEPTED

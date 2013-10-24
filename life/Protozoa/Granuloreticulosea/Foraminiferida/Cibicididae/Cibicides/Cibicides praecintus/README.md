@@ -1,5 +1,4 @@
-Cibicides praecintus SPECIES
-=======
+# Cibicides praecintus SPECIES
 
 #### Status
 ACCEPTED

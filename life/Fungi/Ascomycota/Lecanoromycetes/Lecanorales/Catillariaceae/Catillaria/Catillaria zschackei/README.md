@@ -1,5 +1,4 @@
-Catillaria zschackei Eitner SPECIES
-=======
+# Catillaria zschackei Eitner SPECIES
 
 #### Status
 ACCEPTED

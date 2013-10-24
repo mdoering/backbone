@@ -1,17 +1,16 @@
-Sclerotium musae Zimm. SPECIES
-=======
+# Cordana musae (Zimm.) Höhn., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 2(60): 7 (1923)
 
 #### Original name
-Sclerotium musae Zimm.
+Scolicotrichum musae Zimm., 1902
 
 ### Remarks
 null

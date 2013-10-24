@@ -1,5 +1,4 @@
-Vampyrella euglenae P.A. Dang. SPECIES
-=======
+# Vampyrella euglenae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

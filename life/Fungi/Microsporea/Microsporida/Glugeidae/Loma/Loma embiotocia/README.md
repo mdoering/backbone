@@ -1,5 +1,4 @@
-Loma embiotocia R.W. Shaw, M.L. Kent, M.F. Docker, A.M.V. Brown, R.H. Devlin & M.L. Adamson SPECIES
-=======
+# Loma embiotocia R.W. Shaw, M.L. Kent, M.F. Docker, A.M.V. Brown, R.H. Devlin & M.L. Adamson SPECIES
 
 #### Status
 ACCEPTED

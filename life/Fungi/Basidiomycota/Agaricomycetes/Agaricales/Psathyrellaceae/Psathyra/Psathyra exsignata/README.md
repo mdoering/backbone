@@ -1,5 +1,4 @@
-Psathyra exsignata (Britzelm.) Sacc. SPECIES
-=======
+# Psathyra exsignata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

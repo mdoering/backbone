@@ -1,5 +1,4 @@
-Corticium ochthodes Berk. & M.A. Curtis SPECIES
-=======
+# Corticium ochthodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium isabellinum W. Eichler SPECIES
-=======
+# Corticium isabellinum W. Eichler SPECIES
 
 #### Status
 ACCEPTED

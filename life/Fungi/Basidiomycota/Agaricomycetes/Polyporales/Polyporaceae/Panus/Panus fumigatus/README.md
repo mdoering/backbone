@@ -1,5 +1,4 @@
-Panus fumigatus anon. SPECIES
-=======
+# Panus fumigatus anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Milesina polypodii anon. SPECIES
-=======
+# Milesina polypodii anon. SPECIES
 
 #### Status
 ACCEPTED

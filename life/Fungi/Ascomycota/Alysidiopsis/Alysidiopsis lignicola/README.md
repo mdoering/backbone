@@ -1,5 +1,4 @@
-Alysidiopsis lignicola Mercado, Figueras & J. Mena, 1996 SPECIES
-=======
+# Alysidiopsis lignicola Mercado, Figueras & J. Mena, 1996 SPECIES
 
 #### Status
 ACCEPTED

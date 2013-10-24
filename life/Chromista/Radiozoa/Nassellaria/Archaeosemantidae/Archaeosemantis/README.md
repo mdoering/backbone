@@ -1,5 +1,4 @@
-Archaeosemantis Dumitrica, 1978 GENUS
-=======
+# Archaeosemantis Dumitrica, 1978 GENUS
 
 #### Status
 ACCEPTED

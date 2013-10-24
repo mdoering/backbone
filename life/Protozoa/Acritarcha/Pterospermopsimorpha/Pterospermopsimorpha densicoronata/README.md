@@ -1,5 +1,4 @@
-Pterospermopsimorpha densicoronata Vidal, 1976 SPECIES
-=======
+# Pterospermopsimorpha densicoronata Vidal, 1976 SPECIES
 
 #### Status
 ACCEPTED

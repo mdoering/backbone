@@ -1,5 +1,4 @@
-Corona Vejdovsky, 1881 GENUS
-=======
+# Corona Vejdovsky, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia epichlora (Vain.) Zahlbr. SPECIES
-=======
+# Buellia epichlora (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

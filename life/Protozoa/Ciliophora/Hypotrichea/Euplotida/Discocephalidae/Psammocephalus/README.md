@@ -1,5 +1,4 @@
-Psammocephalus Wicklow, 1982 GENUS
-=======
+# Psammocephalus Wicklow, 1982 GENUS
 
 #### Status
 ACCEPTED

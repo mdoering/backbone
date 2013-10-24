@@ -1,5 +1,4 @@
-Lecanora phacodes Nyl. SPECIES
-=======
+# Lecanora phacodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia rhodochroa (Hue) Darb. SPECIES
-=======
+# Bacidia rhodochroa (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

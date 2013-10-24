@@ -1,5 +1,4 @@
-Vaucheria simplex P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Vaucheria simplex P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

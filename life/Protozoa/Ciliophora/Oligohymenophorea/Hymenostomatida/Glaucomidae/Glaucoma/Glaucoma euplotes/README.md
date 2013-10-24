@@ -1,5 +1,4 @@
-Glaucoma euplotes SPECIES
-=======
+# Glaucoma euplotes SPECIES
 
 #### Status
 ACCEPTED

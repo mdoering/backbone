@@ -1,5 +1,4 @@
-Paraferrimonas Khan & Harayama, 2007 GENUS
-=======
+# Paraferrimonas Khan & Harayama, 2007 GENUS
 
 #### Status
 ACCEPTED

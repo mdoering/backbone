@@ -1,5 +1,4 @@
-Dendrotrichoscypha epilobii (Velen.) Svrcek SPECIES
-=======
+# Dendrotrichoscypha epilobii (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

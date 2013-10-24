@@ -1,5 +1,4 @@
-Hysterographium acerinum Westend. SPECIES
-=======
+# Hysterographium acerinum Westend. SPECIES
 
 #### Status
 ACCEPTED

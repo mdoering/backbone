@@ -1,5 +1,4 @@
-Bombyliospora versicolor A. Massal. SPECIES
-=======
+# Bombyliospora versicolor A. Massal. SPECIES
 
 #### Status
 ACCEPTED

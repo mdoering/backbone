@@ -1,5 +1,4 @@
-Puccinia thaliae Dietel, 1899 SPECIES
-=======
+# Puccinia thaliae Dietel, 1899 SPECIES
 
 #### Status
 ACCEPTED

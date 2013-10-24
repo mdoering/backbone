@@ -1,5 +1,4 @@
-Laboulbeniopsis termitarius Thaxt., 1920 SPECIES
-=======
+# Laboulbeniopsis termitarius Thaxt., 1920 SPECIES
 
 #### Status
 ACCEPTED

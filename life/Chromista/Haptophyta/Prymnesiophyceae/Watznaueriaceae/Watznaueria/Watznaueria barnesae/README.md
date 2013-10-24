@@ -1,8 +1,7 @@
-Esgia junior Worsley, 1971 SPECIES
-=======
+# Watznaueria barnesae (Black in Black & Barnes, 1959) Perch-Nielsen, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

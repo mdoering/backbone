@@ -1,5 +1,4 @@
-Agaricus santacatalinensis Albertó SPECIES
-=======
+# Agaricus santacatalinensis Albertó SPECIES
 
 #### Status
 ACCEPTED

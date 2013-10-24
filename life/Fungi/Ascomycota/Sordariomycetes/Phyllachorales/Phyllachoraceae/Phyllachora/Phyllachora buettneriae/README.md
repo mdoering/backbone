@@ -1,5 +1,4 @@
-Phyllachora buettneriae F. Stevens, 1931 SPECIES
-=======
+# Phyllachora buettneriae F. Stevens, 1931 SPECIES
 
 #### Status
 ACCEPTED

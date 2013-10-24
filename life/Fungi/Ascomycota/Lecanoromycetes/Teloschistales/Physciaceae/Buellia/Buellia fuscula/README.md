@@ -1,5 +1,4 @@
-Buellia fuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia fuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus imbricatus (Earle) Sacc. & Traverso SPECIES
-=======
+# Pleurotus imbricatus (Earle) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

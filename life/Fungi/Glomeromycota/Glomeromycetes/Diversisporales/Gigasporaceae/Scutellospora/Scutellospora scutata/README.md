@@ -1,17 +1,16 @@
-Dentiscutata scutata (C. Walker & Dieder.) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora scutata C. Walker & Dieder., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(2): 357 (1989)
 
 #### Original name
-null
+Scutellospora scutata C. Walker & Dieder., 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella sarraceniae (Schwein.) Peck SPECIES
-=======
+# Sphaerella sarraceniae (Schwein.) Peck SPECIES
 
 #### Status
 ACCEPTED

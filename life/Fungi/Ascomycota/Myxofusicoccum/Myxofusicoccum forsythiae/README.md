@@ -1,5 +1,4 @@
-Myxofusicoccum forsythiae Petr. SPECIES
-=======
+# Myxofusicoccum forsythiae Petr. SPECIES
 
 #### Status
 ACCEPTED

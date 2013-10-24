@@ -1,17 +1,16 @@
-Glugea lankesteriae Léger & Dubosq, 1909 SPECIES
-=======
+# Perezia lankesteriae L. Léger & Duboscq SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Perezia lankesteriae L. Léger & Duboscq
 
 ### Remarks
 null

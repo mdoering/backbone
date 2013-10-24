@@ -1,5 +1,4 @@
-Placidiaceae Moriya, Nakayama & Inouye, 2002 FAMILY
-=======
+# Placidiaceae Moriya, Nakayama & Inouye, 2002 FAMILY
 
 #### Status
 ACCEPTED

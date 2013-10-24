@@ -1,5 +1,4 @@
-Armillaria borealis Marxm. & Korhonen, 1982 SPECIES
-=======
+# Armillaria borealis Marxm. & Korhonen, 1982 SPECIES
 
 #### Status
 ACCEPTED

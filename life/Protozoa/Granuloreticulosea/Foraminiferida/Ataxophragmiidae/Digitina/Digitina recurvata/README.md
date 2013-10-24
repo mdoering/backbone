@@ -1,5 +1,4 @@
-Digitina recurvata Crespin, I. & Parr, W J SPECIES
-=======
+# Digitina recurvata Crespin, I. & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

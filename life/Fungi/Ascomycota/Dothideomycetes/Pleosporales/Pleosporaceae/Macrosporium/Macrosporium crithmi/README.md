@@ -1,5 +1,4 @@
-Macrosporium crithmi G. Winter SPECIES
-=======
+# Macrosporium crithmi G. Winter SPECIES
 
 #### Status
 ACCEPTED

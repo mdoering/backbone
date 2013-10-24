@@ -1,5 +1,4 @@
-Eorbitolina Zhang, 1982 GENUS
-=======
+# Eorbitolina Zhang, 1982 GENUS
 
 #### Status
 ACCEPTED

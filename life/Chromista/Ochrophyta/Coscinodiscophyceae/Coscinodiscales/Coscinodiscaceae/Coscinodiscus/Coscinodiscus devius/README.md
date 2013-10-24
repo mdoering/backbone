@@ -1,5 +1,4 @@
-Coscinodiscus devius A. Schmidt SPECIES
-=======
+# Coscinodiscus devius A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

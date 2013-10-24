@@ -1,14 +1,13 @@
-Hohenbuehelia luteohinnulea (G. Stev.) E. Horak, 1971 SPECIES
-=======
+# Tectella luteohinnulea G. Stev., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 9(3): 434 (1971)
+Kew Bull. 19(1): 30 (1964)
 
 #### Original name
 Tectella luteohinnulea G. Stev., 1964

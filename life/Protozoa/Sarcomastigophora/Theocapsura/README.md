@@ -1,5 +1,4 @@
-Theocapsura Haeckel, 1887 GENUS
-=======
+# Theocapsura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora pannonica Moesz SPECIES
-=======
+# Rhabdospora pannonica Moesz SPECIES
 
 #### Status
 ACCEPTED

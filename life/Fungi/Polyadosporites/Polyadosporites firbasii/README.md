@@ -1,5 +1,4 @@
-Polyadosporites firbasii Hammen SPECIES
-=======
+# Polyadosporites firbasii Hammen SPECIES
 
 #### Status
 ACCEPTED

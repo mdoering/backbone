@@ -1,5 +1,4 @@
-Hyalopus pruinosus Marchal SPECIES
-=======
+# Hyalopus pruinosus Marchal SPECIES
 
 #### Status
 ACCEPTED

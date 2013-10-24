@@ -1,5 +1,4 @@
-Stachybotrys mangiferae P.C. Misra & S.K. Srivast., 1982 SPECIES
-=======
+# Stachybotrys mangiferae P.C. Misra & S.K. Srivast., 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma sulcatum P. James & F. J. White SPECIES
-=======
+# Nephroma sulcatum P. James & F. J. White SPECIES
 
 #### Status
 ACCEPTED

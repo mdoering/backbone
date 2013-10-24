@@ -1,5 +1,4 @@
-Embellisia annulata de Hoog, Seigle-Mur., Steiman & K.-E. Erikss., 1985 SPECIES
-=======
+# Embellisia annulata de Hoog, Seigle-Mur., Steiman & K.-E. Erikss., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mandanella Rahaghi, 1983 GENUS
-=======
+# Mandanella Rahaghi, 1983 GENUS
 
 #### Status
 ACCEPTED

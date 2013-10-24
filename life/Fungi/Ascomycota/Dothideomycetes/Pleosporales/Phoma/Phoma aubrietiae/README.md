@@ -1,5 +1,4 @@
-Phoma aubrietiae (Moesz) Boerema, 1970 SPECIES
-=======
+# Phoma aubrietiae (Moesz) Boerema, 1970 SPECIES
 
 #### Status
 ACCEPTED

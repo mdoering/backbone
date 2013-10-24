@@ -1,14 +1,13 @@
-Excipula congregata Cooke SPECIES
-=======
+# Amerosporium congregatum (Cooke) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 681 (1884)
 
 #### Original name
 Excipula congregata Cooke

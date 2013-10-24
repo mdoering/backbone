@@ -1,5 +1,4 @@
-Notoplanulina Malumian & Masiuk, 1977 GENUS
-=======
+# Notoplanulina Malumian & Masiuk, 1977 GENUS
 
 #### Status
 ACCEPTED

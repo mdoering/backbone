@@ -1,14 +1,13 @@
-Agaricus nambi Speg., 1883 SPECIES
-=======
+# Neonothopanus nambi (Speg.) R.H. Petersen & Krisai, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 16: 247 (1883)
+Persoonia 17(2): 210 (1999)
 
 #### Original name
 Agaricus nambi Speg., 1883

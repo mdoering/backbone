@@ -1,5 +1,4 @@
-Plicaria cervina Fuckel SPECIES
-=======
+# Plicaria cervina Fuckel SPECIES
 
 #### Status
 ACCEPTED

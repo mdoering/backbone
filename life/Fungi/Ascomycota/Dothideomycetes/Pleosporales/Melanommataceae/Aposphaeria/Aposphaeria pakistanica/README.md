@@ -1,5 +1,4 @@
-Aposphaeria pakistanica S. Ahmad SPECIES
-=======
+# Aposphaeria pakistanica S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

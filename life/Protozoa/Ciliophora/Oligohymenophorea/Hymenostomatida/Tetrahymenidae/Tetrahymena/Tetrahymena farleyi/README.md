@@ -1,5 +1,4 @@
-Tetrahymena farleyi Lynn, Gransden, Wright & Josephson, 2000 SPECIES
-=======
+# Tetrahymena farleyi Lynn, Gransden, Wright & Josephson, 2000 SPECIES
 
 #### Status
 ACCEPTED

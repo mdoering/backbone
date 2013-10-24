@@ -1,5 +1,4 @@
-Rhexodenticula elegiae Melnik, S.J. Lee & Crous SPECIES
-=======
+# Rhexodenticula elegiae Melnik, S.J. Lee & Crous SPECIES
 
 #### Status
 ACCEPTED

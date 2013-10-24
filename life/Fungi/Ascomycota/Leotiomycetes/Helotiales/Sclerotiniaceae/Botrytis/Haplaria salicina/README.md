@@ -1,5 +1,4 @@
-Haplaria salicina Sacc. SPECIES
-=======
+# Haplaria salicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

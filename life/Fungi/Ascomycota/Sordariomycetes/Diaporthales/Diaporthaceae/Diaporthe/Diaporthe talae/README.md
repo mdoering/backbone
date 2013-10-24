@@ -1,5 +1,4 @@
-Diaporthe talae Speg. SPECIES
-=======
+# Diaporthe talae Speg. SPECIES
 
 #### Status
 ACCEPTED

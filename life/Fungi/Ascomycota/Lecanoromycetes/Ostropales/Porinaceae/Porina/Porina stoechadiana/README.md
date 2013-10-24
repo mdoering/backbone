@@ -1,5 +1,4 @@
-Porina stoechadiana F. Rose & Cl. Roux SPECIES
-=======
+# Porina stoechadiana F. Rose & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

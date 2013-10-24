@@ -1,5 +1,4 @@
-Polyporus roseolus Rick SPECIES
-=======
+# Polyporus roseolus Rick SPECIES
 
 #### Status
 ACCEPTED

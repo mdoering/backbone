@@ -1,5 +1,4 @@
-Niebla isidiaescens Bowler, J. E. Marsh, T. H. Nash & Riefner SPECIES
-=======
+# Niebla isidiaescens Bowler, J. E. Marsh, T. H. Nash & Riefner SPECIES
 
 #### Status
 ACCEPTED

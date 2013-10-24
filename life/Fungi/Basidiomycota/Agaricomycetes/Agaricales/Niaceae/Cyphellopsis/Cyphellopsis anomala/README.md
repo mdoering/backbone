@@ -1,17 +1,16 @@
-Solenia anomala var. anomala VARIETY
-=======
+# Cyphellopsis anomala (Pers.) Donk, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 25-26: 290 (1871)
+Medded. Nedl. Mycol. Ver. 18-20: 128 (1931)
 
 #### Original name
-Solenia anomala var. anomala
+Peziza anomala Pers., 1796
 
 ### Remarks
 null

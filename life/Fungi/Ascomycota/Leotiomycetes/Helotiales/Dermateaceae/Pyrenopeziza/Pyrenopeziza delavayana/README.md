@@ -1,5 +1,4 @@
-Pyrenopeziza delavayana Sacc. SPECIES
-=======
+# Pyrenopeziza delavayana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe lurida (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Hydrocybe lurida (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

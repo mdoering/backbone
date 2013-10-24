@@ -1,5 +1,4 @@
-Stipitoporos Ettl, 1965 GENUS
-=======
+# Stipitoporos Ettl, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amycolatopsis lexingtonensis Labeda et al., 2003 SPECIES
-=======
+# Amycolatopsis lexingtonensis Labeda et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

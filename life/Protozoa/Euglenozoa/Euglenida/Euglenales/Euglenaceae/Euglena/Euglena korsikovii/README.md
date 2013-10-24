@@ -1,5 +1,4 @@
-Euglena korsikovii Gojdics SPECIES
-=======
+# Euglena korsikovii Gojdics SPECIES
 
 #### Status
 ACCEPTED

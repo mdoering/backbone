@@ -1,5 +1,4 @@
-Agaricus micans Fr. SPECIES
-=======
+# Agaricus micans Fr. SPECIES
 
 #### Status
 ACCEPTED

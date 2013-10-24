@@ -1,5 +1,4 @@
-Paradiophrys kahli (Dragesco, 1963) Foissner, 1996 SPECIES
-=======
+# Paradiophrys kahli (Dragesco, 1963) Foissner, 1996 SPECIES
 
 #### Status
 ACCEPTED

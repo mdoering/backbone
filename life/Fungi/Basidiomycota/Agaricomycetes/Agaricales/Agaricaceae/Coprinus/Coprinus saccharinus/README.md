@@ -1,5 +1,4 @@
-Coprinus saccharinus Romagn. SPECIES
-=======
+# Coprinus saccharinus Romagn. SPECIES
 
 #### Status
 ACCEPTED

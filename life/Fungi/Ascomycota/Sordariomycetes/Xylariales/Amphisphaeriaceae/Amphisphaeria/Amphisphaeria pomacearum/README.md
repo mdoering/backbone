@@ -1,5 +1,4 @@
-Amphisphaeria pomacearum Marcich SPECIES
-=======
+# Amphisphaeria pomacearum Marcich SPECIES
 
 #### Status
 ACCEPTED

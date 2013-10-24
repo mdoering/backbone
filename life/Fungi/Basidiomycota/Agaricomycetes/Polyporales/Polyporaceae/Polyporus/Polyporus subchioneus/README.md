@@ -1,5 +1,4 @@
-Polyporus subchioneus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polyporus subchioneus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

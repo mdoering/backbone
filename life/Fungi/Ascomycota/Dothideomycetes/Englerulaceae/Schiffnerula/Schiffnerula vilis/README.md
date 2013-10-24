@@ -1,5 +1,4 @@
-Schiffnerula vilis Petr. SPECIES
-=======
+# Schiffnerula vilis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota bulbillosa A. Pearson SPECIES
-=======
+# Lepiota bulbillosa A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecobasidium pusillum Deighton & Piroz. SPECIES
-=======
+# Scolecobasidium pusillum Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

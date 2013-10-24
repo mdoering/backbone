@@ -1,5 +1,4 @@
-Dactylospora epimyces (Tobisch) Hafellner SPECIES
-=======
+# Dactylospora epimyces (Tobisch) Hafellner SPECIES
 
 #### Status
 ACCEPTED

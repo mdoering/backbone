@@ -1,5 +1,4 @@
-Cladochytrium aureum Karling SPECIES
-=======
+# Cladochytrium aureum Karling SPECIES
 
 #### Status
 ACCEPTED

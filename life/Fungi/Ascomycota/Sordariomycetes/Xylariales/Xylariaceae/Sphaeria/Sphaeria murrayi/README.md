@@ -1,5 +1,4 @@
-Sphaeria murrayi Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria murrayi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

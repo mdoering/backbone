@@ -1,5 +1,4 @@
-Hydropus maculatipes Singer SPECIES
-=======
+# Hydropus maculatipes Singer SPECIES
 
 #### Status
 ACCEPTED

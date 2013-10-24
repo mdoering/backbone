@@ -1,5 +1,4 @@
-Discorbis haliotis Earland & Heron-Allen SPECIES
-=======
+# Discorbis haliotis Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

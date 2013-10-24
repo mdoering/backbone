@@ -1,5 +1,4 @@
-Patellaria rupestris (Scop.) DC. SPECIES
-=======
+# Patellaria rupestris (Scop.) DC. SPECIES
 
 #### Status
 ACCEPTED

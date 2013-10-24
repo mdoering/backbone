@@ -1,14 +1,13 @@
-Doassansia alismatis-oligococci Vánky, 1975 SPECIES
-=======
+# Pseudodermatosorus alismatis-oligococci (Vánky) Vánky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 69: 45 (1975)
+Mycotaxon 71: 215 (1999)
 
 #### Original name
 Doassansia alismatis-oligococci Vánky, 1975

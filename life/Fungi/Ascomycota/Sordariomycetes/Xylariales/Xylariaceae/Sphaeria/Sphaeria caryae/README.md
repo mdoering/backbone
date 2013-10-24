@@ -1,5 +1,4 @@
-Sphaeria caryae Ettingsh. SPECIES
-=======
+# Sphaeria caryae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

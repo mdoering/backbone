@@ -1,5 +1,4 @@
-Pleuromycenula circularis Singer SPECIES
-=======
+# Pleuromycenula circularis Singer SPECIES
 
 #### Status
 ACCEPTED

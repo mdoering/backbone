@@ -1,5 +1,4 @@
-Helotium cruentatum P. Karst., 1871 SPECIES
-=======
+# Helotium cruentatum P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

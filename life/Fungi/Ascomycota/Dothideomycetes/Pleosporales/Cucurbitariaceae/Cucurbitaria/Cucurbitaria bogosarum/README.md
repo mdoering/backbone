@@ -1,5 +1,4 @@
-Cucurbitaria bogosarum (Pass.) Kuntze SPECIES
-=======
+# Cucurbitaria bogosarum (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibellula tropicalis Sawada SPECIES
-=======
+# Gibellula tropicalis Sawada SPECIES
 
 #### Status
 ACCEPTED

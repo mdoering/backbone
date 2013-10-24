@@ -1,5 +1,4 @@
-Tricharina fimbriata (Quél.) SPECIES
-=======
+# Tricharina fimbriata (Quél.) SPECIES
 
 #### Status
 ACCEPTED

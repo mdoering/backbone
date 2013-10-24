@@ -1,17 +1,16 @@
-Glomerularia corni var. corni Peck VARIETY
-=======
+# Glomopsis corni (Peck) D.M. Hend., 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 23(4): 500 (1961)
 
 #### Original name
-Glomerularia corni var. corni Peck
+Glomerularia corni Peck, 1887
 
 ### Remarks
 null

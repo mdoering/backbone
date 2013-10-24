@@ -1,5 +1,4 @@
-Hohenbuehelia subtorulosa (Cooke) Corner SPECIES
-=======
+# Hohenbuehelia subtorulosa (Cooke) Corner SPECIES
 
 #### Status
 ACCEPTED

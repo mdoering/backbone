@@ -1,5 +1,4 @@
-Saccharomyces lebenis Rist & Khoury SPECIES
-=======
+# Saccharomyces lebenis Rist & Khoury SPECIES
 
 #### Status
 ACCEPTED

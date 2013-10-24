@@ -1,5 +1,4 @@
-Peziza catinoides (Fuckel) Cooke SPECIES
-=======
+# Peziza catinoides (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

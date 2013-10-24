@@ -1,5 +1,4 @@
-Winteria tuberculifera Ellis & Everh. SPECIES
-=======
+# Winteria tuberculifera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

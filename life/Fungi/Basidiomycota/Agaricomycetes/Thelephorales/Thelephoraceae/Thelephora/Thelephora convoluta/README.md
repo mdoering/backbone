@@ -1,5 +1,4 @@
-Thelephora convoluta Velen. SPECIES
-=======
+# Thelephora convoluta Velen. SPECIES
 
 #### Status
 ACCEPTED

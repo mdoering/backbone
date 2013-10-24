@@ -1,5 +1,4 @@
-Gnomoniella quadriguttulata C. Moreau & M. Moreau SPECIES
-=======
+# Gnomoniella quadriguttulata C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

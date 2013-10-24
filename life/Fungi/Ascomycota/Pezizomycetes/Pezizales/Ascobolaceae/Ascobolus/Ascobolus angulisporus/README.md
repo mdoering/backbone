@@ -1,5 +1,4 @@
-Ascobolus angulisporus Boud. SPECIES
-=======
+# Ascobolus angulisporus Boud. SPECIES
 
 #### Status
 ACCEPTED

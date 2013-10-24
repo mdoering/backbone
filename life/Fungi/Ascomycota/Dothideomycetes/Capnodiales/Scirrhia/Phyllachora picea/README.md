@@ -1,5 +1,4 @@
-Phyllachora picea (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora picea (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

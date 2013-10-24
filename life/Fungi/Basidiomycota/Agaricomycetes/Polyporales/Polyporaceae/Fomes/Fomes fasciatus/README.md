@@ -1,17 +1,16 @@
-Polyporus marmoratus Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Fomes fasciatus (Sw.) Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 14(no. 69): 21 (1885)
 
 #### Original name
-null
+Boletus fasciatus Sw., 1788
 
 ### Remarks
 null

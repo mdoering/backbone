@@ -1,5 +1,4 @@
-Hadrotrichum anceps Sacc. SPECIES
-=======
+# Hadrotrichum anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Charonectria umbelliferarum Höhn. SPECIES
-=======
+# Charonectria umbelliferarum Höhn. SPECIES
 
 #### Status
 ACCEPTED

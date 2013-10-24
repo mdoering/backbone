@@ -1,5 +1,4 @@
-Gyromium GENUS
-=======
+# Gyromium GENUS
 
 #### Status
 ACCEPTED

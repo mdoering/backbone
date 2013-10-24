@@ -1,5 +1,4 @@
-Rhytidocaulon flexuosum (Nyl.) Elenk. SPECIES
-=======
+# Rhytidocaulon flexuosum (Nyl.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

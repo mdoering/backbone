@@ -1,5 +1,4 @@
-Caldimonas Takeda et al., 2002 GENUS
-=======
+# Caldimonas Takeda et al., 2002 GENUS
 
 #### Status
 ACCEPTED

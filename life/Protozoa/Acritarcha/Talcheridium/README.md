@@ -1,5 +1,4 @@
-Talcheridium Tripathi, 1999 GENUS
-=======
+# Talcheridium Tripathi, 1999 GENUS
 
 #### Status
 ACCEPTED

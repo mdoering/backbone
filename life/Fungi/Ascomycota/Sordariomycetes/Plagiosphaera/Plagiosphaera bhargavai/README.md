@@ -1,5 +1,4 @@
-Plagiosphaera bhargavai E. Müll. SPECIES
-=======
+# Plagiosphaera bhargavai E. Müll. SPECIES
 
 #### Status
 ACCEPTED

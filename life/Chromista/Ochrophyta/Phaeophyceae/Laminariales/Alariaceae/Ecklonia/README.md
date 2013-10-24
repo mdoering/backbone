@@ -1,5 +1,4 @@
-Ecklonia Hornemann, 1828 GENUS
-=======
+# Ecklonia Hornemann, 1828 GENUS
 
 #### Status
 ACCEPTED

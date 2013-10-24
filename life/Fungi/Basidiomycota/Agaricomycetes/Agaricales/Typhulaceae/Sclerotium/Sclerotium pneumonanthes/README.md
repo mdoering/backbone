@@ -1,5 +1,4 @@
-Sclerotium pneumonanthes Duby SPECIES
-=======
+# Sclerotium pneumonanthes Duby SPECIES
 
 #### Status
 ACCEPTED

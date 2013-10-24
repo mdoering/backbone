@@ -1,5 +1,4 @@
-Russula lenkunya Grgur. SPECIES
-=======
+# Russula lenkunya Grgur. SPECIES
 
 #### Status
 ACCEPTED

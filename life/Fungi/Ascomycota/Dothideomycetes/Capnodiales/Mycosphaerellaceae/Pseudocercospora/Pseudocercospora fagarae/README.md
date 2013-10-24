@@ -1,5 +1,4 @@
-Pseudocercospora fagarae (W. Yamam.) Deighton SPECIES
-=======
+# Pseudocercospora fagarae (W. Yamam.) Deighton SPECIES
 
 #### Status
 ACCEPTED

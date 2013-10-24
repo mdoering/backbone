@@ -1,5 +1,4 @@
-Cortinarius visitatus Britzelm. SPECIES
-=======
+# Cortinarius visitatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albatrellopsis Teixeira GENUS
-=======
+# Albatrellopsis Teixeira GENUS
 
 #### Status
 ACCEPTED

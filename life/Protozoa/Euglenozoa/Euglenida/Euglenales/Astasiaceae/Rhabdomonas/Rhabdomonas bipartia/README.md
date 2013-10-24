@@ -1,5 +1,4 @@
-Rhabdomonas bipartia (Schiller) Huber-Pestalozzi SPECIES
-=======
+# Rhabdomonas bipartia (Schiller) Huber-Pestalozzi SPECIES
 
 #### Status
 ACCEPTED

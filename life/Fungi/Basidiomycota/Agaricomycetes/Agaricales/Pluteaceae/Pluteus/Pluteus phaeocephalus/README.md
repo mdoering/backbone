@@ -1,5 +1,4 @@
-Pluteus phaeocephalus Har. Takah. SPECIES
-=======
+# Pluteus phaeocephalus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

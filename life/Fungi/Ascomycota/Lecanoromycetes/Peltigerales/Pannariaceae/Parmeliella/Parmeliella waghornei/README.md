@@ -1,5 +1,4 @@
-Parmeliella waghornei (Eckfeldt) Zahlbr. SPECIES
-=======
+# Parmeliella waghornei (Eckfeldt) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

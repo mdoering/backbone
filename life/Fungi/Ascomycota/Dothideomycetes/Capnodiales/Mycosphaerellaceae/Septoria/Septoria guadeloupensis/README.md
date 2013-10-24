@@ -1,5 +1,4 @@
-Septoria guadeloupensis Bat. & Peres SPECIES
-=======
+# Septoria guadeloupensis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

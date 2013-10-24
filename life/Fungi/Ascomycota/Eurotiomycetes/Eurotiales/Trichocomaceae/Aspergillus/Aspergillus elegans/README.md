@@ -1,14 +1,13 @@
-Aspergillus alutaceus var. elegans (Gasperini) Kozak., 1989 VARIETY
-=======
+# Aspergillus elegans Gasperini, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 161: 123 (1989)
+Morb. Limon 328 (1887)
 
 #### Original name
 Aspergillus elegans Gasperini, 1887

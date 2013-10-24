@@ -1,5 +1,4 @@
-Alternaria congesta (Bres.) P. Joly SPECIES
-=======
+# Alternaria congesta (Bres.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

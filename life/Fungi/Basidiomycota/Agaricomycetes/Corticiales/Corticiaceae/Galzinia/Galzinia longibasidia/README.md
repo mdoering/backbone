@@ -1,5 +1,4 @@
-Galzinia longibasidia Hallenb., 1980 SPECIES
-=======
+# Galzinia longibasidia Hallenb., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Punctelia digitata Jungbluth, Marcelli & Elix SPECIES
-=======
+# Punctelia digitata Jungbluth, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

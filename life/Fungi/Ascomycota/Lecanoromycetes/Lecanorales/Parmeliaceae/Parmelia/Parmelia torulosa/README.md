@@ -1,5 +1,4 @@
-Parmelia torulosa Ach. SPECIES
-=======
+# Parmelia torulosa Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carpolithes bryangosus SPECIES
-=======
+# Carpolithes bryangosus SPECIES
 
 #### Status
 ACCEPTED

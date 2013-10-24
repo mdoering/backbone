@@ -1,5 +1,4 @@
-Sphacelotheca operta (Syd., P. Syd. & E.J. Butler) Zundel SPECIES
-=======
+# Sphacelotheca operta (Syd., P. Syd. & E.J. Butler) Zundel SPECIES
 
 #### Status
 ACCEPTED

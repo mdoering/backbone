@@ -1,5 +1,4 @@
-Mallomonas perfossa K. H. Nicholls SPECIES
-=======
+# Mallomonas perfossa K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

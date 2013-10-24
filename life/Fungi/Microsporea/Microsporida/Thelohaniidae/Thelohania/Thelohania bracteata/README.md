@@ -1,5 +1,4 @@
-Thelohania bracteata Strickland SPECIES
-=======
+# Thelohania bracteata Strickland SPECIES
 
 #### Status
 ACCEPTED

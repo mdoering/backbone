@@ -1,5 +1,4 @@
-Sphaerella salvatorensis (Jaap) Sacc. SPECIES
-=======
+# Sphaerella salvatorensis (Jaap) Sacc. SPECIES
 
 #### Status
 ACCEPTED

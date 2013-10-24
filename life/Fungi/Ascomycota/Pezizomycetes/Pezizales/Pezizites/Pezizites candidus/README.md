@@ -1,5 +1,4 @@
-Pezizites candidus (Göpp. & Berendt) Mesch. SPECIES
-=======
+# Pezizites candidus (Göpp. & Berendt) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon catalaunicus Maire SPECIES
-=======
+# Sarcodon catalaunicus Maire SPECIES
 
 #### Status
 ACCEPTED

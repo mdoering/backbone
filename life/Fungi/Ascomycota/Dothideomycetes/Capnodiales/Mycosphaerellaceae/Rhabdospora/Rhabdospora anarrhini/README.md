@@ -1,5 +1,4 @@
-Rhabdospora anarrhini Gonz. Frag. SPECIES
-=======
+# Rhabdospora anarrhini Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

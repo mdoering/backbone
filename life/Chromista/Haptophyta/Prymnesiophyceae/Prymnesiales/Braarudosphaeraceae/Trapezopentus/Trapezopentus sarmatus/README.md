@@ -1,5 +1,4 @@
-Trapezopentus sarmatus F.H. Wind & P. Cepek SPECIES
-=======
+# Trapezopentus sarmatus F.H. Wind & P. Cepek SPECIES
 
 #### Status
 ACCEPTED

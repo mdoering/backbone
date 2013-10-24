@@ -1,5 +1,4 @@
-Caeoma azaleae Schwein. SPECIES
-=======
+# Caeoma azaleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

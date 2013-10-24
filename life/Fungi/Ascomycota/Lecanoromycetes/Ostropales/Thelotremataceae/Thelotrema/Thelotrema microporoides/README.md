@@ -1,5 +1,4 @@
-Thelotrema microporoides Nyl. SPECIES
-=======
+# Thelotrema microporoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

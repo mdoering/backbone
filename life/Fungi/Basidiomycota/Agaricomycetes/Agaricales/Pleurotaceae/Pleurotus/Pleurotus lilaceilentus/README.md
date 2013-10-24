@@ -1,5 +1,4 @@
-Pleurotus lilaceilentus Corner, 1981 SPECIES
-=======
+# Pleurotus lilaceilentus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

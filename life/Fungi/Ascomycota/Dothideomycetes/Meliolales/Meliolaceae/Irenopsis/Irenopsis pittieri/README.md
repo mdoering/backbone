@@ -1,5 +1,4 @@
-Irenopsis pittieri Toro SPECIES
-=======
+# Irenopsis pittieri Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola ulei Hansf. SPECIES
-=======
+# Meliola ulei Hansf. SPECIES
 
 #### Status
 ACCEPTED

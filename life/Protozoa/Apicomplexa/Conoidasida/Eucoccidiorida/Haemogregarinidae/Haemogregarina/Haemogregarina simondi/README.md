@@ -1,5 +1,4 @@
-Haemogregarina simondi Laveran & Mesnil, 1901 SPECIES
-=======
+# Haemogregarina simondi Laveran & Mesnil, 1901 SPECIES
 
 #### Status
 ACCEPTED

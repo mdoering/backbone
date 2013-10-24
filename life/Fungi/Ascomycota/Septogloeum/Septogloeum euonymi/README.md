@@ -1,5 +1,4 @@
-Septogloeum euonymi Togashi SPECIES
-=======
+# Septogloeum euonymi Togashi SPECIES
 
 #### Status
 ACCEPTED

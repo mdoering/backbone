@@ -1,5 +1,4 @@
-Puccinia gemella Hedw. SPECIES
-=======
+# Puccinia gemella Hedw. SPECIES
 
 #### Status
 ACCEPTED

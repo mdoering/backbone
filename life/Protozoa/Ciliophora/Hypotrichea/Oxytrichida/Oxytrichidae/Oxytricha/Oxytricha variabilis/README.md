@@ -1,5 +1,4 @@
-Oxytricha variabilis Groliere, 1975 SPECIES
-=======
+# Oxytricha variabilis Groliere, 1975 SPECIES
 
 #### Status
 ACCEPTED

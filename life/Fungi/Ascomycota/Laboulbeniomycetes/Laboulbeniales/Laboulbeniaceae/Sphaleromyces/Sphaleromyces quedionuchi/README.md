@@ -1,5 +1,4 @@
-Sphaleromyces quedionuchi Thaxt. SPECIES
-=======
+# Sphaleromyces quedionuchi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

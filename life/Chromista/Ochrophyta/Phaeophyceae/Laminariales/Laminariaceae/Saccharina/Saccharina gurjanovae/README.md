@@ -1,5 +1,4 @@
-Saccharina gurjanovae (A.D.Zinova) Selivanova, Zhigadlova & G.I.Hansen, 2007 SPECIES
-=======
+# Saccharina gurjanovae (A.D.Zinova) Selivanova, Zhigadlova & G.I.Hansen, 2007 SPECIES
 
 #### Status
 ACCEPTED

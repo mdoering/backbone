@@ -1,17 +1,16 @@
-Trichocladium brosimii Ram {?} SPECIES
-=======
+# Trichocladium brosimi C. Ram, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria, N. S. 39(1-2): 30 (1970)
 
 #### Original name
-Trichocladium brosimii Ram {?}
+Trichocladium brosimi C. Ram, 1970
 
 ### Remarks
 null

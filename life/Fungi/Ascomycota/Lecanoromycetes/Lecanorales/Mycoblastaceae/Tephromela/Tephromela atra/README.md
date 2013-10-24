@@ -1,5 +1,4 @@
-Lecanora atra f. atra FORM
-=======
+# Tephromela atra (Huds.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. 344 (1810)
+null
 
 #### Original name
-Lecanora atra f. atra
+null
 
 ### Remarks
 null

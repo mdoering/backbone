@@ -1,5 +1,4 @@
-Bovista delicata Berk. & M.A. Curtis SPECIES
-=======
+# Bovista delicata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

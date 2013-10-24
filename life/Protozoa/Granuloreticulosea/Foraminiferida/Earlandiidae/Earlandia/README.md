@@ -1,5 +1,4 @@
-Earlandia Plummer, 1930 GENUS
-=======
+# Earlandia Plummer, 1930 GENUS
 
 #### Status
 ACCEPTED

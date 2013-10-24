@@ -1,8 +1,7 @@
-Blastenia donbosco Sambo SPECIES
-=======
+# Blastenia don-bosco Sambo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Blastenia donbosco Sambo
+Blastenia don-bosco Sambo
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis triphora Nyl. SPECIES
-=======
+# Graphis triphora Nyl. SPECIES
 
 #### Status
 ACCEPTED

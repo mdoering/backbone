@@ -1,8 +1,7 @@
-Ophiobolus anonae Rangel SPECIES
-=======
+# Ophiobolus annonae Rangel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ophiobolus anonae Rangel
+Ophiobolus annonae Rangel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bullera miyagiana Nakase, Itoh, Takem. & Bandoni SPECIES
-=======
+# Bullera miyagiana Nakase, Itoh, Takem. & Bandoni SPECIES
 
 #### Status
 ACCEPTED

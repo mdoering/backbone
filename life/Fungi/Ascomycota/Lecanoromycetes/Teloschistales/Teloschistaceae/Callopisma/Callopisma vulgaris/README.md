@@ -1,5 +1,4 @@
-Callopisma vulgaris De Not. SPECIES
-=======
+# Callopisma vulgaris De Not. SPECIES
 
 #### Status
 ACCEPTED

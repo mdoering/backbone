@@ -1,5 +1,4 @@
-Hydnum fragilissimum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum fragilissimum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

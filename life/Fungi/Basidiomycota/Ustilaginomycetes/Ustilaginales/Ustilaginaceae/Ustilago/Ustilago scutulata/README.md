@@ -1,5 +1,4 @@
-Ustilago scutulata Liro SPECIES
-=======
+# Ustilago scutulata Liro SPECIES
 
 #### Status
 ACCEPTED

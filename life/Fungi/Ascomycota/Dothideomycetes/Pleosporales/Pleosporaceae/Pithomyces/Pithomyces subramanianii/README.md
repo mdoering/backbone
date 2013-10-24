@@ -1,5 +1,4 @@
-Pithomyces subramanianii G.V. Rao & A.P. Reddy SPECIES
-=======
+# Pithomyces subramanianii G.V. Rao & A.P. Reddy SPECIES
 
 #### Status
 ACCEPTED

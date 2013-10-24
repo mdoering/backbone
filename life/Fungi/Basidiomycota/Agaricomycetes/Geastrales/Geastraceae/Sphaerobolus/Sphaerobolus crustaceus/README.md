@@ -1,5 +1,4 @@
-Sphaerobolus crustaceus Schwein. SPECIES
-=======
+# Sphaerobolus crustaceus Schwein. SPECIES
 
 #### Status
 ACCEPTED

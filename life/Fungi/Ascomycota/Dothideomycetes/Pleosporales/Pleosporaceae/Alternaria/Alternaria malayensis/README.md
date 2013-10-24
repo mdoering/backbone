@@ -1,5 +1,4 @@
-Alternaria malayensis Trivedi & C.L. Verma SPECIES
-=======
+# Alternaria malayensis Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

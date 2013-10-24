@@ -1,5 +1,4 @@
-Uromyces mimae Syd. SPECIES
-=======
+# Uromyces mimae Syd. SPECIES
 
 #### Status
 ACCEPTED

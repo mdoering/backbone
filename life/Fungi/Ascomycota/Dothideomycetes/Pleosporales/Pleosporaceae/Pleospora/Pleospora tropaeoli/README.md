@@ -1,5 +1,4 @@
-Pleospora tropaeoli Halst. SPECIES
-=======
+# Pleospora tropaeoli Halst. SPECIES
 
 #### Status
 ACCEPTED

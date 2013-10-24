@@ -1,5 +1,4 @@
-Galerina leucobryicola A.H. Sm. & Singer SPECIES
-=======
+# Galerina leucobryicola A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

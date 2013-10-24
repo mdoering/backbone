@@ -1,5 +1,4 @@
-Thelotrematomyces lepadini E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Thelotrematomyces lepadini E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

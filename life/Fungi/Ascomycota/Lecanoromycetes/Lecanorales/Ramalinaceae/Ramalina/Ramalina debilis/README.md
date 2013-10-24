@@ -1,5 +1,4 @@
-Ramalina debilis Müll. Arg. SPECIES
-=======
+# Ramalina debilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

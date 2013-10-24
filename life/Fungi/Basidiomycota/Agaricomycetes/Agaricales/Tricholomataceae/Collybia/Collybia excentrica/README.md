@@ -1,5 +1,4 @@
-Collybia excentrica Pat. & Gaillard SPECIES
-=======
+# Collybia excentrica Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

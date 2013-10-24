@@ -1,5 +1,4 @@
-Indiella GENUS
-=======
+# Indiella GENUS
 
 #### Status
 ACCEPTED

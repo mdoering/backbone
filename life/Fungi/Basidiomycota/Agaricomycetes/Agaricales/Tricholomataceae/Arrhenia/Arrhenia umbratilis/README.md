@@ -1,17 +1,16 @@
-Omphalina umbratilis var. umbratilis VARIETY
-=======
+# Arrhenia umbratilis (Fr.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 48 (2002)
 
 #### Original name
-null
+Agaricus umbratilis Fr., 1821
 
 ### Remarks
 null

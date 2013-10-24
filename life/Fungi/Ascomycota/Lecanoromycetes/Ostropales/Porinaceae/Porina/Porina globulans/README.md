@@ -1,5 +1,4 @@
-Porina globulans Vain. SPECIES
-=======
+# Porina globulans Vain. SPECIES
 
 #### Status
 ACCEPTED

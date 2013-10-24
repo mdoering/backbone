@@ -1,5 +1,4 @@
-Lecidea subdiffracta (Arnold ex Lojka) Lettau SPECIES
-=======
+# Lecidea subdiffracta (Arnold ex Lojka) Lettau SPECIES
 
 #### Status
 ACCEPTED

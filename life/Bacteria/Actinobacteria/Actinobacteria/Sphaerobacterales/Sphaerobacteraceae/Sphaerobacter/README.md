@@ -1,5 +1,4 @@
-Sphaerobacter Demharter, Hensel, Smida & Stackebrandt, 1989 GENUS
-=======
+# Sphaerobacter Demharter, Hensel, Smida & Stackebrandt, 1989 GENUS
 
 #### Status
 ACCEPTED

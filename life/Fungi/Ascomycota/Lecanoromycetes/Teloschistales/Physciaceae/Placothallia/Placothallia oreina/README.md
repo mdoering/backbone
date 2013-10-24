@@ -1,5 +1,4 @@
-Placothallia oreina (Ach.) Szatala SPECIES
-=======
+# Placothallia oreina (Ach.) Szatala SPECIES
 
 #### Status
 ACCEPTED

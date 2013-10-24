@@ -1,5 +1,4 @@
-Sphaeronaema epicecidium Berk. SPECIES
-=======
+# Sphaeronaema epicecidium Berk. SPECIES
 
 #### Status
 ACCEPTED

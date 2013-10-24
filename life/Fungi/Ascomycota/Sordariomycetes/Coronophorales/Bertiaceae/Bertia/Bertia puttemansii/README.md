@@ -1,5 +1,4 @@
-Bertia puttemansii Henn. SPECIES
-=======
+# Bertia puttemansii Henn. SPECIES
 
 #### Status
 ACCEPTED

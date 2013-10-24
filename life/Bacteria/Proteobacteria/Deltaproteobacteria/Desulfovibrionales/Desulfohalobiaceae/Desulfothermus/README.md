@@ -1,5 +1,4 @@
-Desulfothermus Kuever et al., 2006 GENUS
-=======
+# Desulfothermus Kuever et al., 2006 GENUS
 
 #### Status
 ACCEPTED

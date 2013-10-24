@@ -1,5 +1,4 @@
-Mycotorula ramosa var. ramosa VARIETY
-=======
+# Mycotorula ramosa Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycotorula ramosa var. ramosa
+Torula ramosa Peck
 
 ### Remarks
 null

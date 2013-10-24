@@ -1,5 +1,4 @@
-Pleurocatena foliicola Aramb. & Gamundí, 2007 SPECIES
-=======
+# Pleurocatena foliicola Aramb. & Gamundí, 2007 SPECIES
 
 #### Status
 ACCEPTED

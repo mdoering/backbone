@@ -1,5 +1,4 @@
-Tapesia herpotricha (Berk.) Sacc. SPECIES
-=======
+# Tapesia herpotricha (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

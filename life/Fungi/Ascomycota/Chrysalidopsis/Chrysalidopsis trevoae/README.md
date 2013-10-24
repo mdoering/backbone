@@ -1,14 +1,13 @@
-Truncatella trevoae (Speg.) Nag Raj SPECIES
-=======
+# Chrysalidopsis trevoae (Speg.) Steyaert, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 943 (1993)
+Darwiniana 12(2): 171 (1961)
 
 #### Original name
 Pestalotia trevoae Speg., 1910

@@ -1,14 +1,13 @@
-Pyrenopeziza desmazieri Kirschst., 1936 SPECIES
-=======
+# Mollisia sphaeroides (Desm.) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34: 200 (1936)
+Man. Brit. Discomyc. (London) 187 (1887)
 
 #### Original name
 null

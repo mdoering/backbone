@@ -1,5 +1,4 @@
-Fibrostroma A.G. Vologdin, 1962 GENUS
-=======
+# Fibrostroma A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

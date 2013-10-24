@@ -1,5 +1,4 @@
-Acarospora albertii Samp. SPECIES
-=======
+# Acarospora albertii Samp. SPECIES
 
 #### Status
 ACCEPTED

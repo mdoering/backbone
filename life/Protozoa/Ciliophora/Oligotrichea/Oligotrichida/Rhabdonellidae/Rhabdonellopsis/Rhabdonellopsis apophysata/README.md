@@ -1,5 +1,4 @@
-Rhabdonellopsis apophysata (Cleve, 1900) Kofoid & Campbell, 1929 SPECIES
-=======
+# Rhabdonellopsis apophysata (Cleve, 1900) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

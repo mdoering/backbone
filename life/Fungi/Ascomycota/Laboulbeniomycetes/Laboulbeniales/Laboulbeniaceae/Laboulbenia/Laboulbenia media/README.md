@@ -1,5 +1,4 @@
-Laboulbenia media Thaxt. SPECIES
-=======
+# Laboulbenia media Thaxt. SPECIES
 
 #### Status
 ACCEPTED

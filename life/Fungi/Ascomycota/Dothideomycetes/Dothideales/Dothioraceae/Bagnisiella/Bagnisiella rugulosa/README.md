@@ -1,5 +1,4 @@
-Bagnisiella rugulosa Cooke SPECIES
-=======
+# Bagnisiella rugulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

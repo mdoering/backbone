@@ -1,5 +1,4 @@
-Bacidia coccodes (Bél.) Trevis. SPECIES
-=======
+# Bacidia coccodes (Bél.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

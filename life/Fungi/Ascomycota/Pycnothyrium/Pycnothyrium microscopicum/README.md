@@ -1,5 +1,4 @@
-Pycnothyrium microscopicum Bubák SPECIES
-=======
+# Pycnothyrium microscopicum Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus glutinosus Pat. SPECIES
-=======
+# Cantharellus glutinosus Pat. SPECIES
 
 #### Status
 ACCEPTED

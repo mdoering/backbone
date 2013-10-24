@@ -1,5 +1,4 @@
-Gymnodinium bicaudatum Pavillard, 1905 SPECIES
-=======
+# Gymnodinium bicaudatum Pavillard, 1905 SPECIES
 
 #### Status
 ACCEPTED

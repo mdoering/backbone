@@ -1,5 +1,4 @@
-Stegonsporium centaureae Rayss SPECIES
-=======
+# Stegonsporium centaureae Rayss SPECIES
 
 #### Status
 ACCEPTED

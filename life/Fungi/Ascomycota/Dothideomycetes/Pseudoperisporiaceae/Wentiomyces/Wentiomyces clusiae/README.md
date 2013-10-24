@@ -1,5 +1,4 @@
-Wentiomyces clusiae J.L. Bezerra & Poroca SPECIES
-=======
+# Wentiomyces clusiae J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

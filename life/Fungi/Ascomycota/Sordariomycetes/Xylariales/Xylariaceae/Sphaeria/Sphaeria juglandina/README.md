@@ -1,5 +1,4 @@
-Sphaeria juglandina Fr. SPECIES
-=======
+# Sphaeria juglandina Fr. SPECIES
 
 #### Status
 ACCEPTED

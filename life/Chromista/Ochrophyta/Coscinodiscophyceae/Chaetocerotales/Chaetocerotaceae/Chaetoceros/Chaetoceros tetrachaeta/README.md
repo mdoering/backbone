@@ -1,5 +1,4 @@
-Chaetoceros tetrachaeta Ehrenberg SPECIES
-=======
+# Chaetoceros tetrachaeta Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

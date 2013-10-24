@@ -1,5 +1,4 @@
-Tilletia cathestechi (Henn.) G.P. Clinton SPECIES
-=======
+# Tilletia cathestechi (Henn.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

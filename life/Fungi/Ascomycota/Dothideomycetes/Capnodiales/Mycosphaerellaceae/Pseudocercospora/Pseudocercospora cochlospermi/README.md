@@ -1,5 +1,4 @@
-Pseudocercospora cochlospermi (R.E.D. Baker & W.T. Dale) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora cochlospermi (R.E.D. Baker & W.T. Dale) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius emilii Langl. & Reumaux SPECIES
-=======
+# Cortinarius emilii Langl. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

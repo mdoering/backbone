@@ -1,14 +1,13 @@
-Spilomyces dendriticus Hansf., 1956 SPECIES
-=======
+# Nothostrasseria dendritica (Hansf.) Nag Raj, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. N. S. W. 81(1): 32 (1956)
+Can. J. Bot. 61(1): 25 (1983)
 
 #### Original name
 Spilomyces dendriticus Hansf., 1956

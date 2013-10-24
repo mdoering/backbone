@@ -1,14 +1,13 @@
-Cordyceps aphodii Mathieson, 1949 SPECIES
-=======
+# Ophiocordyceps aphodii (Mathieson) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 32(2): 134 (1949)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 40 (2007)
 
 #### Original name
 Cordyceps aphodii Mathieson, 1949

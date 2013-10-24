@@ -1,14 +1,13 @@
-Phomopsis systema-solare (Naumov) Gvrit. & Ratiani, 1973 SPECIES
-=======
+# Cytomelanconis systema-solare Naumov, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trudy Inst. Zasch. Rast. Tbilisi 25: 115 (1973)
+Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 7: (1951)
 
 #### Original name
 Cytomelanconis systema-solare Naumov, 1951

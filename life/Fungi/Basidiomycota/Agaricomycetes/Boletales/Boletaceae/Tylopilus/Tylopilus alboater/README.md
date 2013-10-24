@@ -1,5 +1,4 @@
-Tylopilus alboater (Schwein.) Murrill SPECIES
-=======
+# Tylopilus alboater (Schwein.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhagadostoma brevisporum (Nav.-Ros. & Hladún) Nav.-Ros. SPECIES
-=======
+# Rhagadostoma brevisporum (Nav.-Ros. & Hladún) Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

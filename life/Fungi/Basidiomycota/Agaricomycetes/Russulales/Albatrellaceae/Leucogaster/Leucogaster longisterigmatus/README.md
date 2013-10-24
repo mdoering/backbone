@@ -1,5 +1,4 @@
-Leucogaster longisterigmatus Zeller SPECIES
-=======
+# Leucogaster longisterigmatus Zeller SPECIES
 
 #### Status
 ACCEPTED

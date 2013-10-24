@@ -1,5 +1,4 @@
-Hyaloscypha pellucens (Ces.) Boud. SPECIES
-=======
+# Hyaloscypha pellucens (Ces.) Boud. SPECIES
 
 #### Status
 ACCEPTED

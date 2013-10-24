@@ -1,5 +1,4 @@
-Agaricus melanopus Fr. SPECIES
-=======
+# Agaricus melanopus Fr. SPECIES
 
 #### Status
 ACCEPTED

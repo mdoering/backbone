@@ -1,5 +1,4 @@
-Septogloeum populiperdum Moesz & Smarods SPECIES
-=======
+# Septogloeum populiperdum Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima subrimulosum (Nyl.) SPECIES
-=======
+# Thalloidima subrimulosum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

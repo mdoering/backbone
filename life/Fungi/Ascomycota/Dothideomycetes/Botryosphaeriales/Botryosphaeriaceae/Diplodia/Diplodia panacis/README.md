@@ -1,5 +1,4 @@
-Diplodia panacis (Fr.) Cooke SPECIES
-=======
+# Diplodia panacis (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

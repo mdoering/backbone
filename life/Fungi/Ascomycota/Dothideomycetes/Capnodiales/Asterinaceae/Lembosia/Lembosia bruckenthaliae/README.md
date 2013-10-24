@@ -1,5 +1,4 @@
-Lembosia bruckenthaliae Richit. SPECIES
-=======
+# Lembosia bruckenthaliae Richit. SPECIES
 
 #### Status
 ACCEPTED

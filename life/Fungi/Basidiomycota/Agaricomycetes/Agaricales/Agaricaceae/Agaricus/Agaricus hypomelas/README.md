@@ -1,5 +1,4 @@
-Agaricus hypomelas Fr. SPECIES
-=======
+# Agaricus hypomelas Fr. SPECIES
 
 #### Status
 ACCEPTED

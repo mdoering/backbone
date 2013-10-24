@@ -1,5 +1,4 @@
-Laestadia boyeri Sacc. & P. Syd. SPECIES
-=======
+# Laestadia boyeri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

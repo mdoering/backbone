@@ -1,5 +1,4 @@
-Cellvibrio vulgaris (ex Stapp & Bortels, 1934) Humphry et al., 2003 SPECIES
-=======
+# Cellvibrio vulgaris (ex Stapp & Bortels, 1934) Humphry et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia pavettae var. pavettae VARIETY
-=======
+# Lembosia pavettae Theiss. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 11(5): 429 (1913)
 
 #### Original name
-Lembosia pavettae var. pavettae
+Lembosia pavettae Theiss.
 
 ### Remarks
 null

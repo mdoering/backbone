@@ -1,5 +1,4 @@
-Streptomyces bluensis Mason et al., 1963 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces bluensis Mason et al., 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

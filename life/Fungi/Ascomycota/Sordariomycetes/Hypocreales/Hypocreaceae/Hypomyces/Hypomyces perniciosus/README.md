@@ -1,14 +1,13 @@
-Mycogone perniciosa (Magnus) Delacr., 1900 SPECIES
-=======
+# Hypomyces perniciosus Magnus, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal de l'Agriculture, Paris 255-256 (1900)
+null
 
 #### Original name
 Hypomyces perniciosus Magnus, 1888

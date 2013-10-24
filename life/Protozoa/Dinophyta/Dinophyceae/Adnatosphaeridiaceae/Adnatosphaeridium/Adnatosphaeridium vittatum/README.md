@@ -1,5 +1,4 @@
-Adnatosphaeridium vittatum Williams & Downie, 1966 SPECIES
-=======
+# Adnatosphaeridium vittatum Williams & Downie, 1966 SPECIES
 
 #### Status
 ACCEPTED

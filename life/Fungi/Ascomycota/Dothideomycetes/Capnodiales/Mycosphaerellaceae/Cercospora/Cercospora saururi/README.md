@@ -1,5 +1,4 @@
-Cercospora saururi Ellis & Everh. SPECIES
-=======
+# Cercospora saururi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

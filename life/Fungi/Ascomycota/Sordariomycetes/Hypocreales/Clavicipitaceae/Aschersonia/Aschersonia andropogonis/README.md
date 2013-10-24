@@ -1,5 +1,4 @@
-Aschersonia andropogonis Henn. SPECIES
-=======
+# Aschersonia andropogonis Henn. SPECIES
 
 #### Status
 ACCEPTED

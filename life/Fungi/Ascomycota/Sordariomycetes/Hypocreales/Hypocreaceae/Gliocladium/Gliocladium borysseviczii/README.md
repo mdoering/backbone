@@ -1,5 +1,4 @@
-Gliocladium borysseviczii Pidopl. SPECIES
-=======
+# Gliocladium borysseviczii Pidopl. SPECIES
 
 #### Status
 ACCEPTED

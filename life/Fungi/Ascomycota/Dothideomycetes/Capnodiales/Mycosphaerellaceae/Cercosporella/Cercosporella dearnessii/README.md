@@ -1,5 +1,4 @@
-Cercosporella dearnessii Bubák & Sacc. SPECIES
-=======
+# Cercosporella dearnessii Bubák & Sacc. SPECIES
 
 #### Status
 ACCEPTED

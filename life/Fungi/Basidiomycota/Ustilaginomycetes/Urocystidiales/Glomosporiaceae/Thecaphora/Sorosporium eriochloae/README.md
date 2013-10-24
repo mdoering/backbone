@@ -1,5 +1,4 @@
-Sorosporium eriochloae Griffiths SPECIES
-=======
+# Sorosporium eriochloae Griffiths SPECIES
 
 #### Status
 ACCEPTED

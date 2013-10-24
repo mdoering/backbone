@@ -1,5 +1,4 @@
-Phacidium umbonatum Beck SPECIES
-=======
+# Phacidium umbonatum Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella acanthopanicis Cif. & Gonz. Frag. SPECIES
-=======
+# Sphaerella acanthopanacis Cif. & Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boln de la Real Soc. Españ. Hist. Nat. , Madrid 25: 447 (1925)
 
 #### Original name
-Sphaerella acanthopanicis Cif. & Gonz. Frag.
+Sphaerella acanthopanacis Cif. & Gonz. Frag.
 
 ### Remarks
 null

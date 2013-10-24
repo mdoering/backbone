@@ -1,5 +1,4 @@
-Dothiorella macadamiae Dias & Sousa da Câmara SPECIES
-=======
+# Dothiorella macadamiae Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

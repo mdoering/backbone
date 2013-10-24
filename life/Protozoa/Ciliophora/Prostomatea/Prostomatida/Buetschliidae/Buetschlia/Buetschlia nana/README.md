@@ -1,5 +1,4 @@
-Buetschlia nana SPECIES
-=======
+# Buetschlia nana SPECIES
 
 #### Status
 ACCEPTED

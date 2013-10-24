@@ -1,5 +1,4 @@
-Usnea lacunosa Willd. ex Delise SPECIES
-=======
+# Usnea lacunosa Willd. ex Delise SPECIES
 
 #### Status
 ACCEPTED

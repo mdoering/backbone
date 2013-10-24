@@ -1,5 +1,4 @@
-Selysina incerta Duboscq & Harrant, 1923 SPECIES
-=======
+# Selysina incerta Duboscq & Harrant, 1923 SPECIES
 
 #### Status
 ACCEPTED

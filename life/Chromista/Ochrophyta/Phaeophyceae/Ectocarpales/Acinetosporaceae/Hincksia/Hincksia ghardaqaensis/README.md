@@ -1,8 +1,7 @@
-Ectocarpus ghardaqaensis Nasr, 1939 SPECIES
-=======
+# Hincksia ghardaqaensis (Nasr) P.C.Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

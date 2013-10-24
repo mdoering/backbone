@@ -1,5 +1,4 @@
-Humaria leonina Velen. SPECIES
-=======
+# Humaria leonina Velen. SPECIES
 
 #### Status
 ACCEPTED

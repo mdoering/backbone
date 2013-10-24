@@ -1,5 +1,4 @@
-Clavaria daigremontiana Boud. SPECIES
-=======
+# Clavaria daigremontiana Boud. SPECIES
 
 #### Status
 ACCEPTED

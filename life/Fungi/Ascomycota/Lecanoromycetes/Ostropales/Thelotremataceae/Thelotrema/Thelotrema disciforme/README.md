@@ -1,5 +1,4 @@
-Thelotrema disciforme Leight. SPECIES
-=======
+# Thelotrema disciforme Leight. SPECIES
 
 #### Status
 ACCEPTED

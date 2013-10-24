@@ -1,5 +1,4 @@
-Myriosclerotinia sulcatula T. Schumach. & L.M. Kohn, 1985 SPECIES
-=======
+# Myriosclerotinia sulcatula T. Schumach. & L.M. Kohn, 1985 SPECIES
 
 #### Status
 ACCEPTED

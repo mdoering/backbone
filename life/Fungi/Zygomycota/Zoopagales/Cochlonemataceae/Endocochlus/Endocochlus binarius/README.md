@@ -1,5 +1,4 @@
-Endocochlus binarius Drechsler, 1949 SPECIES
-=======
+# Endocochlus binarius Drechsler, 1949 SPECIES
 
 #### Status
 ACCEPTED

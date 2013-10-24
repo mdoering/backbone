@@ -1,5 +1,4 @@
-Intranstylum steini subsp. steini SUBSPECIES
-=======
+# Intranstylum steini Wrzesniowski, 1877 SPECIES
 
 #### Status
 ACCEPTED

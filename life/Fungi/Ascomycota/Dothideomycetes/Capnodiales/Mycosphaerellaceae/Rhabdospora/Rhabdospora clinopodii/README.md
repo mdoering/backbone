@@ -1,5 +1,4 @@
-Rhabdospora clinopodii Allesch. SPECIES
-=======
+# Rhabdospora clinopodii Allesch. SPECIES
 
 #### Status
 ACCEPTED

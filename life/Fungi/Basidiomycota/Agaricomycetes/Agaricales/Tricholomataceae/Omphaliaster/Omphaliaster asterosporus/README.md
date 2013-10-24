@@ -1,17 +1,16 @@
-Omphalia asterospora f. asterospora FORM
-=======
+# Omphaliaster asterosporus (J.E. Lange) Lamoure, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 6(no. 5): 10 (1930)
+Svensk bot. Tidskr. 65: 282 (1971)
 
 #### Original name
-Omphalia asterospora f. asterospora
+Omphalia asterospora J.E. Lange, 1930
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora dubia H. Magn. SPECIES
-=======
+# Lecanora dubia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

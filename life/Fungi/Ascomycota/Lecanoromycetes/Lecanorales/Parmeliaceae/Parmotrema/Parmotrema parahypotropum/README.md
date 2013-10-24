@@ -1,14 +1,13 @@
-Parmelia parahypotropa W. L. Culb. SPECIES
-=======
+# Parmotrema parahypotropum (W. L. Culb.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 76: 29 (1973)
+Phytologia 28: 338 (1974)
 
 #### Original name
 Parmelia parahypotropa W. L. Culb.

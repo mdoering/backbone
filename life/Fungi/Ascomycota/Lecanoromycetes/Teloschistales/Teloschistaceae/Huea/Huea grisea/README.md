@@ -1,5 +1,4 @@
-Huea grisea (Vain.) I.M. Lamb SPECIES
-=======
+# Huea grisea (Vain.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

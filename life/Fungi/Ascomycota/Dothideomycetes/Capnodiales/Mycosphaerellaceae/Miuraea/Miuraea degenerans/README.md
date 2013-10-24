@@ -1,14 +1,13 @@
-Hyalodictys degenerans (Syd. & P. Syd.) Subram., 1962 SPECIES
-=======
+# Miuraea degenerans (Syd. & P. Syd.) Hara, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 55: 8 (1962)
+Byogaichu-Hoten (Manual of Pests and Diseases) 260 (1948)
 
 #### Original name
 Clasterosporium degenerans Syd. & P. Syd., 1914

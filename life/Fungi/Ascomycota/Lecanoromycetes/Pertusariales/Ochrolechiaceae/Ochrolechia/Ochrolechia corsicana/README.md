@@ -1,5 +1,4 @@
-Ochrolechia corsicana Zschacke SPECIES
-=======
+# Ochrolechia corsicana Zschacke SPECIES
 
 #### Status
 ACCEPTED

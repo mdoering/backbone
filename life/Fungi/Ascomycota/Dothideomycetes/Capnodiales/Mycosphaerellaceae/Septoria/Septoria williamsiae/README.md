@@ -1,5 +1,4 @@
-Septoria williamsiae Priest SPECIES
-=======
+# Septoria williamsiae Priest SPECIES
 
 #### Status
 ACCEPTED

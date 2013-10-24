@@ -1,5 +1,4 @@
-Echidnodella polyalthiae Hosag., 2004 SPECIES
-=======
+# Echidnodella polyalthiae Hosag., 2004 SPECIES
 
 #### Status
 ACCEPTED

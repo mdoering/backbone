@@ -1,5 +1,4 @@
-Pteridiospora javanica Penz. & Sacc., 1897 SPECIES
-=======
+# Pteridiospora javanica Penz. & Sacc., 1897 SPECIES
 
 #### Status
 ACCEPTED

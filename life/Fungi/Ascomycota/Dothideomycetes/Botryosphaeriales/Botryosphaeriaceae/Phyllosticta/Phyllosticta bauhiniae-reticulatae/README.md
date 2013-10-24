@@ -1,5 +1,4 @@
-Phyllosticta bauhiniae-reticulatae Henn. SPECIES
-=======
+# Phyllosticta bauhiniae-reticulatae Henn. SPECIES
 
 #### Status
 ACCEPTED

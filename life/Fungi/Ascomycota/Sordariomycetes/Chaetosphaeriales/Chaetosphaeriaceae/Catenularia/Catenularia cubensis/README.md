@@ -1,5 +1,4 @@
-Catenularia cubensis Hol.-Jech. SPECIES
-=======
+# Catenularia cubensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

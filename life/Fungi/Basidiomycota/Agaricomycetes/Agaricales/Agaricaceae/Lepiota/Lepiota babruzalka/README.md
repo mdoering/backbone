@@ -1,5 +1,4 @@
-Lepiota babruzalka T.K.A. Kumar & Manim. SPECIES
-=======
+# Lepiota babruzalka T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

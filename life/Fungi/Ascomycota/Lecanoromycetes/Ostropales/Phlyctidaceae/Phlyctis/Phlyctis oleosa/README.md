@@ -1,5 +1,4 @@
-Phlyctis oleosa Stirt. SPECIES
-=======
+# Phlyctis oleosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

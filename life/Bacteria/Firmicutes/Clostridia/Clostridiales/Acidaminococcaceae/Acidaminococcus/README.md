@@ -1,5 +1,4 @@
-Acidaminococcus Rogosa, 1969 GENUS
-=======
+# Acidaminococcus Rogosa, 1969 GENUS
 
 #### Status
 ACCEPTED

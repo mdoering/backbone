@@ -1,5 +1,4 @@
-Paracoccus kocurii Ohara et al., 1990 SPECIES
-=======
+# Paracoccus kocurii Ohara et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

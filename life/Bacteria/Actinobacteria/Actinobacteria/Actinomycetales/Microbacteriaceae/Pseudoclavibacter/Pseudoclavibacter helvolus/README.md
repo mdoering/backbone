@@ -1,5 +1,4 @@
-Pseudoclavibacter helvolus Manaia et al., 2004 SPECIES
-=======
+# Pseudoclavibacter helvolus Manaia et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria antirrhinorum Tharp SPECIES
-=======
+# Septoria antirrhinorum Tharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora microsora Dietel SPECIES
-=======
+# Melampsora microsora Dietel SPECIES
 
 #### Status
 ACCEPTED

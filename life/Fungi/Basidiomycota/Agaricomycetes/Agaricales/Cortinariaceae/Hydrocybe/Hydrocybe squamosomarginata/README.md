@@ -1,5 +1,4 @@
-Hydrocybe squamosomarginata Velen. SPECIES
-=======
+# Hydrocybe squamosomarginata Velen. SPECIES
 
 #### Status
 ACCEPTED

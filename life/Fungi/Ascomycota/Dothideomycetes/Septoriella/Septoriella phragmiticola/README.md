@@ -1,5 +1,4 @@
-Septoriella phragmiticola Sawada SPECIES
-=======
+# Septoriella phragmiticola Sawada SPECIES
 
 #### Status
 ACCEPTED

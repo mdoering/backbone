@@ -1,5 +1,4 @@
-Leiosphaeridia suketensis (Maithy & Shukla, 1977) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia suketensis (Maithy & Shukla, 1977) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

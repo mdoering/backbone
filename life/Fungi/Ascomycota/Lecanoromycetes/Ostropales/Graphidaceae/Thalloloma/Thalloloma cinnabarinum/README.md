@@ -1,5 +1,4 @@
-Thalloloma cinnabarinum (Fée) Staiger SPECIES
-=======
+# Thalloloma cinnabarinum (Fée) Staiger SPECIES
 
 #### Status
 ACCEPTED

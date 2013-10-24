@@ -1,5 +1,4 @@
-Exidiopsis (Brefeld) A. Møller, 1895 GENUS
-=======
+# Exidiopsis (Brefeld) A. Møller, 1895 GENUS
 
 #### Status
 ACCEPTED

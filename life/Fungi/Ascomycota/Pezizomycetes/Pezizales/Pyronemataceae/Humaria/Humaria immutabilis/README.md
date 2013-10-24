@@ -1,5 +1,4 @@
-Humaria immutabilis (P. Karst.) Sacc. SPECIES
-=======
+# Humaria immutabilis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

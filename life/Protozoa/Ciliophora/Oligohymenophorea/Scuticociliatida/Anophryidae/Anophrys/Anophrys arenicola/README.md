@@ -1,5 +1,4 @@
-Anophrys arenicola Fernandez-Leborans, 1986 SPECIES
-=======
+# Anophrys arenicola Fernandez-Leborans, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sporisorium montaniensis (Ellis & Holw.) Vánky SPECIES
-=======
+# Sporisorium montaniense (Ellis & Holw.) Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 24(no. 2): 118 (1985)
 
 #### Original name
 Ustilago montaniensis Ellis & Holw.

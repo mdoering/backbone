@@ -1,5 +1,4 @@
-Rivulicola incrustata K.D. Hyde, 1997 SPECIES
-=======
+# Rivulicola incrustata K.D. Hyde, 1997 SPECIES
 
 #### Status
 ACCEPTED

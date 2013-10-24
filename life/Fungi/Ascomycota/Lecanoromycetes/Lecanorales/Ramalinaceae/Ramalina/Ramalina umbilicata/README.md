@@ -1,5 +1,4 @@
-Ramalina umbilicata H. Magn. SPECIES
-=======
+# Ramalina umbilicata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

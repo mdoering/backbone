@@ -1,5 +1,4 @@
-Biatora subfuscescens Hellb. SPECIES
-=======
+# Biatora subfuscescens Hellb. SPECIES
 
 #### Status
 ACCEPTED

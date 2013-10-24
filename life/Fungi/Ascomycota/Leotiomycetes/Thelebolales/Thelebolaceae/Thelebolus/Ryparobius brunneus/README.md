@@ -1,5 +1,4 @@
-Ryparobius brunneus Boud., 1869 SPECIES
-=======
+# Ryparobius brunneus Boud., 1869 SPECIES
 
 #### Status
 ACCEPTED

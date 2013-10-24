@@ -1,5 +1,4 @@
-Gloeosporium osmaroniae Dearn. SPECIES
-=======
+# Gloeosporium osmaroniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

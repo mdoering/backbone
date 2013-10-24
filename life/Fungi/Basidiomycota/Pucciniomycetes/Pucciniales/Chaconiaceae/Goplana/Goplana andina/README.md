@@ -1,5 +1,4 @@
-Goplana andina Syd., 1939 SPECIES
-=======
+# Goplana andina Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

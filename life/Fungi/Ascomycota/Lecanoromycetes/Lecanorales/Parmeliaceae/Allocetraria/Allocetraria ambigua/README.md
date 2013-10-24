@@ -1,5 +1,4 @@
-Allocetraria ambigua (C. Bab.) Kurok. & M.J. Lai SPECIES
-=======
+# Allocetraria ambigua (C. Bab.) Kurok. & M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

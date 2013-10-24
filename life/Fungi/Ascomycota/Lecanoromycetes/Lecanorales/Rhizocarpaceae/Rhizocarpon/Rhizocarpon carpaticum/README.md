@@ -1,8 +1,7 @@
-Rhizocarpon carpathicum Runemark SPECIES
-=======
+# Rhizocarpon carpaticum Runemark SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon carpathicum Runemark
+Rhizocarpon carpaticum Runemark
 
 ### Remarks
 null

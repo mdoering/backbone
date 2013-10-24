@@ -1,5 +1,4 @@
-Melasmia singeri Petr. SPECIES
-=======
+# Melasmia singeri Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kunzeana Henn. SPECIES
-=======
+# Puccinia kunzeana Henn. SPECIES
 
 #### Status
 ACCEPTED

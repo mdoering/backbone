@@ -1,17 +1,16 @@
-Cetraria commixta f. commixta FORM
-=======
+# Cetrariella commixta (Nyl.) A. Thell & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cetraria commixta f. commixta
+null
 
 ### Remarks
 null

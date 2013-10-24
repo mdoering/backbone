@@ -1,5 +1,4 @@
-Clitocybe aberrans Velen. SPECIES
-=======
+# Clitocybe aberrans Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella pedemontana Ferraris & Sacc. SPECIES
-=======
+# Didymella pedemontana Ferraris & Sacc. SPECIES
 
 #### Status
 ACCEPTED

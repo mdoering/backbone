@@ -1,5 +1,4 @@
-Nectria jactata Rossman SPECIES
-=======
+# Nectria jactata Rossman SPECIES
 
 #### Status
 ACCEPTED

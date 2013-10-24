@@ -1,5 +1,4 @@
-Hymenochaete modesta (Berk. & Broome) Massee SPECIES
-=======
+# Hymenochaete modesta (Berk. & Broome) Massee SPECIES
 
 #### Status
 ACCEPTED

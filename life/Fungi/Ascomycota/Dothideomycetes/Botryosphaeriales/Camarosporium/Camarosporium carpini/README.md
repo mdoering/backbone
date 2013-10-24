@@ -1,5 +1,4 @@
-Camarosporium carpini Baudy & Picb. SPECIES
-=======
+# Camarosporium carpini Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

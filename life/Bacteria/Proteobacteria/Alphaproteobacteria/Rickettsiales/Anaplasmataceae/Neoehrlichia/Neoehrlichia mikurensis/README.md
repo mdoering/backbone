@@ -1,5 +1,4 @@
-Neoehrlichia mikurensis Kawahara et al., 2004 SPECIES
-=======
+# Neoehrlichia mikurensis Kawahara et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe microplaca Sacc. SPECIES
-=======
+# Diaporthe microplaca Sacc. SPECIES
 
 #### Status
 ACCEPTED

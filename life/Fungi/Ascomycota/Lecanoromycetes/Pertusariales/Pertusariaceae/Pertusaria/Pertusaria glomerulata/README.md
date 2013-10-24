@@ -1,5 +1,4 @@
-Pertusaria glomerulata Nyl. SPECIES
-=======
+# Pertusaria glomerulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

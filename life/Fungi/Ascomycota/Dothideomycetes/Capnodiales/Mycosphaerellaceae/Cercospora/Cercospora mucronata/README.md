@@ -1,5 +1,4 @@
-Cercospora mucronata Purkay. & A.K. Pal bis SPECIES
-=======
+# Cercospora mucronata Purkay. & A.K. Pal bis SPECIES
 
 #### Status
 ACCEPTED

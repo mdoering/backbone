@@ -1,5 +1,4 @@
-Arnium caballinum N. Lundq., 1972 SPECIES
-=======
+# Arnium caballinum N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

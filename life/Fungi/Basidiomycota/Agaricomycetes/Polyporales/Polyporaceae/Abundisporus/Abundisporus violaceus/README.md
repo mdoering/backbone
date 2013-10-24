@@ -1,14 +1,13 @@
-Polystictus violaceus Wakef., 1916 SPECIES
-=======
+# Abundisporus violaceus (Wakef.) Ryvarden, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 72 (1916)
+Belg. Jl Bot. 131(2): 154 (1999)
 
 #### Original name
 Polystictus violaceus Wakef., 1916

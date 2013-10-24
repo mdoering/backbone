@@ -1,5 +1,4 @@
-Pezizella turgidella (P. Karst.) Sacc. SPECIES
-=======
+# Pezizella turgidella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago stipae Cif. SPECIES
-=======
+# Ustilago stipae Cif. SPECIES
 
 #### Status
 ACCEPTED

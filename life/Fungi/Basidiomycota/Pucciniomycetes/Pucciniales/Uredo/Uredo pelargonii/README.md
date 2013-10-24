@@ -1,5 +1,4 @@
-Uredo pelargonii Rauhala SPECIES
-=======
+# Uredo pelargonii Rauhala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya bengalensis Ghosh, 1919 SPECIES
-=======
+# Holophrya bengalensis Ghosh, 1919 SPECIES
 
 #### Status
 ACCEPTED

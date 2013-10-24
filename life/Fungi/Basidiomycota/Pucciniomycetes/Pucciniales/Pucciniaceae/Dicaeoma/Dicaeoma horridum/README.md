@@ -1,5 +1,4 @@
-Dicaeoma horridum (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma horridum (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

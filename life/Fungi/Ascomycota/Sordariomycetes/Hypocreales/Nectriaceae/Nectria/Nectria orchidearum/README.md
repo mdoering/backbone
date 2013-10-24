@@ -1,5 +1,4 @@
-Nectria orchidearum Theiss. SPECIES
-=======
+# Nectria orchidearum Theiss. SPECIES
 
 #### Status
 ACCEPTED

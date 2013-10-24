@@ -1,5 +1,4 @@
-Alectoria articulata (L.) Link SPECIES
-=======
+# Alectoria articulata (L.) Link SPECIES
 
 #### Status
 ACCEPTED

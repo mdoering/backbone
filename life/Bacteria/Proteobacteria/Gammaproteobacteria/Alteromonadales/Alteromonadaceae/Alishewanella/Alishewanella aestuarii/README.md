@@ -1,5 +1,4 @@
-Alishewanella aestuarii Roh, Nam, Chang, Kim, Kim, Oh & Bae, 2009 SPECIES
-=======
+# Alishewanella aestuarii Roh, Nam, Chang, Kim, Kim, Oh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

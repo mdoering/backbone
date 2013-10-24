@@ -1,5 +1,4 @@
-Pseudographis orni Rehm SPECIES
-=======
+# Pseudographis orni Rehm SPECIES
 
 #### Status
 ACCEPTED

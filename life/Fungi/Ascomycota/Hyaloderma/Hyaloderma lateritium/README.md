@@ -1,5 +1,4 @@
-Hyaloderma lateritium Pat. & Lagerh. SPECIES
-=======
+# Hyaloderma lateritium Pat. & Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poeltiaria Hertel GENUS
-=======
+# Poeltiaria Hertel GENUS
 
 #### Status
 ACCEPTED

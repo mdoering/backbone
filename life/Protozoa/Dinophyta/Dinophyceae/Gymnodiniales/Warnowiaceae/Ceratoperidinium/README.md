@@ -1,5 +1,4 @@
-Ceratoperidinium Margalef ex A.R.Loeblich, Iii, 1980 GENUS
-=======
+# Ceratoperidinium Margalef ex A.R.Loeblich, Iii, 1980 GENUS
 
 #### Status
 ACCEPTED

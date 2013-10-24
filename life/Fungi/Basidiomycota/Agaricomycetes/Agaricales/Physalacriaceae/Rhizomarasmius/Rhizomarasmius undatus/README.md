@@ -1,17 +1,16 @@
-Collybia vertirugis (Cooke) Sacc., 1887 SPECIES
-=======
+# Rhizomarasmius undatus (Berk.) R.H. Petersen, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 216 (1887)
+Mycotaxon 75: 335 (2000)
 
 #### Original name
-Agaricus vertirugis Cooke, 1871
+Agaricus undatus Fr., 1838
 
 ### Remarks
 null

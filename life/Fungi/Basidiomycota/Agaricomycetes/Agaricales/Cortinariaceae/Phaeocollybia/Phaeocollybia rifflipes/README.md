@@ -1,5 +1,4 @@
-Phaeocollybia rifflipes Norvell SPECIES
-=======
+# Phaeocollybia rifflipes Norvell SPECIES
 
 #### Status
 ACCEPTED

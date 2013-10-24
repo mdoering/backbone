@@ -1,5 +1,4 @@
-Venturia acerina Plakidas ex M.E. Barr, 1968 SPECIES
-=======
+# Venturia acerina Plakidas ex M.E. Barr, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrorhynchus eucampsipodae Thaxt., 1901 SPECIES
-=======
+# Arthrorhynchus eucampsipodae Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

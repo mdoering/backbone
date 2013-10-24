@@ -1,8 +1,7 @@
-Lamtostyla edaphoni Berger & Foissner, 1987 SPECIES
-=======
+# Lamtostylides edaphoni (Berger & Foissner, 1987) Berger, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

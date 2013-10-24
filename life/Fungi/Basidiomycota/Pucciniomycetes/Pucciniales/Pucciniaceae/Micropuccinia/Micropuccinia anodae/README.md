@@ -1,5 +1,4 @@
-Micropuccinia anodae (P. Syd. & Syd.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia anodae (P. Syd. & Syd.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium prolificum Damon SPECIES
-=======
+# Dictyosporium prolificum Damon SPECIES
 
 #### Status
 ACCEPTED

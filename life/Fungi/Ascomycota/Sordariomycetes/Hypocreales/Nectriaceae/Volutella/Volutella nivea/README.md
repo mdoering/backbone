@@ -1,5 +1,4 @@
-Volutella nivea (Fr.) Sacc., 1886 SPECIES
-=======
+# Volutella nivea (Fr.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

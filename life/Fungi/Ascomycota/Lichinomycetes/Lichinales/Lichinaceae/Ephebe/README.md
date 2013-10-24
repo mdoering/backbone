@@ -1,5 +1,4 @@
-Ephebe Fr. GENUS
-=======
+# Ephebe Fr. GENUS
 
 #### Status
 ACCEPTED

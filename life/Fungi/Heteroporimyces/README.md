@@ -1,5 +1,4 @@
-Heteroporimyces M.K. Elias GENUS
-=======
+# Heteroporimyces M.K. Elias GENUS
 
 #### Status
 ACCEPTED

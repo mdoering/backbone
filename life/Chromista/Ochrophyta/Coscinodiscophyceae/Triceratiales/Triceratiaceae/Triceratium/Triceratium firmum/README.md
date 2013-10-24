@@ -1,5 +1,4 @@
-Triceratium firmum Grev., 1864 SPECIES
-=======
+# Triceratium firmum Grev., 1864 SPECIES
 
 #### Status
 ACCEPTED

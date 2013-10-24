@@ -1,5 +1,4 @@
-Marasmius bombycirrhizus Berk. & Cooke SPECIES
-=======
+# Marasmius bombycirrhizus Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

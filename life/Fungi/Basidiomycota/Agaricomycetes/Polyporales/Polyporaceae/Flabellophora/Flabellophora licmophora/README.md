@@ -1,5 +1,4 @@
-Flabellophora licmophora var. licmophora VARIETY
-=======
+# Flabellophora licmophora (Massee) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 86: 32 (1987)
 
 #### Original name
-Flabellophora licmophora var. licmophora
+Polystictus licmophorus Massee
 
 ### Remarks
 null

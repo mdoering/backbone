@@ -1,5 +1,4 @@
-Hypochnus rhizomorphus Rick SPECIES
-=======
+# Hypochnus rhizomorphus Rick SPECIES
 
 #### Status
 ACCEPTED

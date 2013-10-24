@@ -1,5 +1,4 @@
-Gyalectidium floridense Safranek & Lücking SPECIES
-=======
+# Gyalectidium floridense Safranek & Lücking SPECIES
 
 #### Status
 ACCEPTED

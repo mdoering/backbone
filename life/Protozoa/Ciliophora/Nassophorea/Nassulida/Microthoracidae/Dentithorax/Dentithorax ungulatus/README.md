@@ -1,8 +1,7 @@
-Microthorax ungulatus Penard, 1922 SPECIES
-=======
+# Dentithorax ungulatus (Penard, 1922) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

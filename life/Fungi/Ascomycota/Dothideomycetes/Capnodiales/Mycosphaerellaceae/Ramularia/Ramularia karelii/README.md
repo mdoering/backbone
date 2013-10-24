@@ -1,5 +1,4 @@
-Ramularia karelii (Petr.) U. Braun SPECIES
-=======
+# Ramularia karelii (Petr.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

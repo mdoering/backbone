@@ -1,5 +1,4 @@
-Geobacillus debilis Banat et al., 2004 SPECIES
-=======
+# Geobacillus debilis Banat et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

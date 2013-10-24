@@ -1,5 +1,4 @@
-Penicillium nalgiovense Laxa, 1932 SPECIES
-=======
+# Penicillium nalgiovense Laxa, 1932 SPECIES
 
 #### Status
 DOUBTFUL

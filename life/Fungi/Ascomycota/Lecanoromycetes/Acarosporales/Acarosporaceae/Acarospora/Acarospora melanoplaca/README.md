@@ -1,5 +1,4 @@
-Acarospora melanoplaca Dalla Torre & Sarnth. SPECIES
-=======
+# Acarospora melanoplaca Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

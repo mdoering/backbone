@@ -1,5 +1,4 @@
-Stigmidium xanthoparmeliarum Hafellner, 1994 SPECIES
-=======
+# Stigmidium xanthoparmeliarum Hafellner, 1994 SPECIES
 
 #### Status
 ACCEPTED

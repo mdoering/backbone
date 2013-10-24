@@ -1,5 +1,4 @@
-Lecidea sylvicolella Nyl. SPECIES
-=======
+# Lecidea sylvicolella Nyl. SPECIES
 
 #### Status
 ACCEPTED

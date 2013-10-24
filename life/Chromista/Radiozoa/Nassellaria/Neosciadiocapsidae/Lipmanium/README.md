@@ -1,5 +1,4 @@
-Lipmanium Pessagno, 1969 GENUS
-=======
+# Lipmanium Pessagno, 1969 GENUS
 
 #### Status
 ACCEPTED

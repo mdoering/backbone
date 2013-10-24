@@ -1,5 +1,4 @@
-Mycena coccinella Fr. SPECIES
-=======
+# Mycena coccinella Fr. SPECIES
 
 #### Status
 ACCEPTED

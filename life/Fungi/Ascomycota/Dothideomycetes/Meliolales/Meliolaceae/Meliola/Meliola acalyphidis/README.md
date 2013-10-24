@@ -1,5 +1,4 @@
-Meliola acalyphidis Toro SPECIES
-=======
+# Meliola acalyphidis Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortiniopsis lacrimabundus J. Schröt. SPECIES
-=======
+# Cortiniopsis lacrimabundus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

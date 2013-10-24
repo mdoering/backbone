@@ -1,5 +1,4 @@
-Inocybe undulatospora Kuyper SPECIES
-=======
+# Inocybe undulatospora Kuyper SPECIES
 
 #### Status
 ACCEPTED

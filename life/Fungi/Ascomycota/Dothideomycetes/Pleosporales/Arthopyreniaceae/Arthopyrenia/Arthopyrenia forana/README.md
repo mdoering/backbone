@@ -1,5 +1,4 @@
-Arthopyrenia forana (Anzi) Boistel SPECIES
-=======
+# Arthopyrenia forana (Anzi) Boistel SPECIES
 
 #### Status
 ACCEPTED

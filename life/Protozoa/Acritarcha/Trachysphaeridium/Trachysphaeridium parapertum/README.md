@@ -1,5 +1,4 @@
-Trachysphaeridium parapertum Ouyang Shu, 1979 SPECIES
-=======
+# Trachysphaeridium parapertum Ouyang Shu, 1979 SPECIES
 
 #### Status
 ACCEPTED

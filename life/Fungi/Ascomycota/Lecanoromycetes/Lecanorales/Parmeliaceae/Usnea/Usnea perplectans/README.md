@@ -1,5 +1,4 @@
-Usnea perplectans Stirt. SPECIES
-=======
+# Usnea perplectans Stirt. SPECIES
 
 #### Status
 ACCEPTED

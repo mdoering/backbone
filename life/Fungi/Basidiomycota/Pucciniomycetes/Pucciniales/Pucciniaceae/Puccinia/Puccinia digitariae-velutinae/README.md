@@ -1,5 +1,4 @@
-Puccinia digitariae-velutinae Vienn.-Bourg. SPECIES
-=======
+# Puccinia digitariae-velutinae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

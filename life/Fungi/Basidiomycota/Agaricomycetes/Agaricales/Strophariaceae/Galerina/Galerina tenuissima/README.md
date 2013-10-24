@@ -1,5 +1,4 @@
-Galerina tenuissima (Weinm.) Singer SPECIES
-=======
+# Galerina tenuissima (Weinm.) Singer SPECIES
 
 #### Status
 ACCEPTED

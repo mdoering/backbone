@@ -1,5 +1,4 @@
-Agrocybe stereoraria Pegler SPECIES
-=======
+# Agrocybe stereoraria Pegler SPECIES
 
 #### Status
 ACCEPTED

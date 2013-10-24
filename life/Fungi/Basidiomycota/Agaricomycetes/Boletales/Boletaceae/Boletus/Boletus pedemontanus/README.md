@@ -1,5 +1,4 @@
-Boletus pedemontanus Fayod SPECIES
-=======
+# Boletus pedemontanus Fayod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella rousselii De Not. SPECIES
-=======
+# Diatrypella rousselii De Not. SPECIES
 
 #### Status
 ACCEPTED

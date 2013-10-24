@@ -1,5 +1,4 @@
-Irpex cremicolor Miettinen, Niemelä & Ryvarden SPECIES
-=======
+# Irpex cremicolor Miettinen, Niemelä & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

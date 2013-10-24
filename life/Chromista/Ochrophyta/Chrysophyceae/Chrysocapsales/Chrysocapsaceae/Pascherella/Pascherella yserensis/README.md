@@ -1,5 +1,4 @@
-Pascherella yserensis W. Conrad SPECIES
-=======
+# Pascherella yserensis W. Conrad SPECIES
 
 #### Status
 ACCEPTED

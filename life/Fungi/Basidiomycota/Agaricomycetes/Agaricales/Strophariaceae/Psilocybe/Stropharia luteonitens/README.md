@@ -1,17 +1,16 @@
-Geophila luteonitens (Fr.) Quél., 1886 SPECIES
-=======
+# Stropharia luteonitens (Fr.) Quél., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 112 (1872)
 
 #### Original name
-null
+Agaricus luteonitens Fr., 1832
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula cayennensis Müll. Arg. SPECIES
-=======
+# Pyrenula cayennensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

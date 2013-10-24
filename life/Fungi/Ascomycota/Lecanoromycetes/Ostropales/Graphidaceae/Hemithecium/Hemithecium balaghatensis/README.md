@@ -1,17 +1,16 @@
-Hemithecium balaghattensis Adaw. & Makhija SPECIES
-=======
+# Hemithecium balaghatensis Adaw. & Makhija SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 92: 388 (2005)
 
 #### Original name
-Hemithecium balaghattensis Adaw. & Makhija
+Hemithecium balaghatensis Adaw. & Makhija
 
 ### Remarks
 null

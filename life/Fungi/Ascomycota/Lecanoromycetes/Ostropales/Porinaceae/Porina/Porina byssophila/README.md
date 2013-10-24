@@ -1,14 +1,13 @@
-Segestria byssophila (Körb.) Zahlbr. SPECIES
-=======
+# Porina byssophila (Körb. ex Hepp) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 66 (1903)
 
 #### Original name
 null

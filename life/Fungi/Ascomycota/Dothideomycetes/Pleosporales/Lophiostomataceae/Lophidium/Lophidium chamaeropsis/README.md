@@ -1,5 +1,4 @@
-Lophidium chamaeropsis Maire SPECIES
-=======
+# Lophidium chamaeropsis Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium tegulare (Ehrh.) Frege SPECIES
-=======
+# Placodium tegulare (Ehrh.) Frege SPECIES
 
 #### Status
 ACCEPTED

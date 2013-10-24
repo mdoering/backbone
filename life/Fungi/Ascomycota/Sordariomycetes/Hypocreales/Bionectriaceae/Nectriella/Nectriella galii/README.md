@@ -1,5 +1,4 @@
-Nectriella galii (Plowr. & Harkn.) Lowen SPECIES
-=======
+# Nectriella galii (Plowr. & Harkn.) Lowen SPECIES
 
 #### Status
 ACCEPTED

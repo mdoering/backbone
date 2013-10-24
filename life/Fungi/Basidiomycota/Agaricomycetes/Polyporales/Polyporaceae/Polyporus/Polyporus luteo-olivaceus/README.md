@@ -1,5 +1,4 @@
-Polyporus luteo-olivaceus Berk. SPECIES
-=======
+# Polyporus luteo-olivaceus Berk. SPECIES
 
 #### Status
 ACCEPTED

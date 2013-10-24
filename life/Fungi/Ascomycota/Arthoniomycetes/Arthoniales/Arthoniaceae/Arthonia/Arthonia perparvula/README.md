@@ -1,5 +1,4 @@
-Arthonia perparvula Stirt. SPECIES
-=======
+# Arthonia perparvula Stirt. SPECIES
 
 #### Status
 ACCEPTED

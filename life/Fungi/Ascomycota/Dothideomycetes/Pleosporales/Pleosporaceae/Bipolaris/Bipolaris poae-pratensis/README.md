@@ -1,5 +1,4 @@
-Bipolaris poae-pratensis H. Deng & T.Y. Zhang SPECIES
-=======
+# Bipolaris poae-pratensis H. Deng & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

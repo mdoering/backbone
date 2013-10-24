@@ -1,5 +1,4 @@
-Asterina cinnamomicola Hansf. SPECIES
-=======
+# Asterina cinnamomicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acaulopage tetraceros var. longa VARIETY
-=======
+# Acaulopage tetraceros Drechsler, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 42: 95 (1959)
+Mycologia 27: 196 (1935)
 
 #### Original name
-Acaulopage tetraceros var. longa
+Acaulopage tetraceros Drechsler, 1935
 
 ### Remarks
 null

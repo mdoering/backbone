@@ -1,5 +1,4 @@
-Dermatiscum porcellanum Nyl. SPECIES
-=======
+# Dermatiscum porcellanum Nyl. SPECIES
 
 #### Status
 ACCEPTED

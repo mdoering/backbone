@@ -1,17 +1,16 @@
-Diderma niveum f. endoleucum Meyl. FORM
-=======
+# Diderma niveum (Rostaf.) T. Macbr., 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de la Société Vaudoise des Sciences Naturelles 55: 240 (1924)
+N. Amer. Slime-Moulds (New York) 100 (1899)
 
 #### Original name
-Diderma niveum f. endoleucum Meyl.
+Chondrioderma niveum Rostaf., 1874
 
 ### Remarks
 null

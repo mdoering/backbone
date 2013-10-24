@@ -1,5 +1,4 @@
-Pleuroflammula praestans E. Horak, 1978 SPECIES
-=======
+# Pleuroflammula praestans E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

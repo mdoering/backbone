@@ -1,5 +1,4 @@
-Sporidesmium rubi M.B. Ellis, 1958 SPECIES
-=======
+# Sporidesmium rubi M.B. Ellis, 1958 SPECIES
 
 #### Status
 ACCEPTED

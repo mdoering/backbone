@@ -1,5 +1,4 @@
-Cryptophiale verrucosa Bhat & W.B. Kendr. SPECIES
-=======
+# Cryptophiale verrucosa Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

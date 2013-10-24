@@ -1,5 +1,4 @@
-Nodulosphaeria araucariae I. Hino & Katum. SPECIES
-=======
+# Nodulosphaeria araucariae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

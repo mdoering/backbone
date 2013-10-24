@@ -1,5 +1,4 @@
-Pestalotia ceratospora (De Not.) Arx SPECIES
-=======
+# Pestalotia ceratospora (De Not.) Arx SPECIES
 
 #### Status
 ACCEPTED

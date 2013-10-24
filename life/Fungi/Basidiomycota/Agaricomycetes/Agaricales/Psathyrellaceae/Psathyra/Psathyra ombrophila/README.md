@@ -1,5 +1,4 @@
-Psathyra ombrophila P. Karst. SPECIES
-=======
+# Psathyra ombrophila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

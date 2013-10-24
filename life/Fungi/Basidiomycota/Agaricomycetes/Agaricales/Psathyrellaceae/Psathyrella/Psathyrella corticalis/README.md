@@ -1,5 +1,4 @@
-Psathyrella corticalis Raithelh. SPECIES
-=======
+# Psathyrella corticalis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

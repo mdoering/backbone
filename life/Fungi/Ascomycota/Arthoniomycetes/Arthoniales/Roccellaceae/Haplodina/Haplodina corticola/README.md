@@ -1,5 +1,4 @@
-Haplodina corticola SPECIES
-=======
+# Haplodina corticola SPECIES
 
 #### Status
 ACCEPTED

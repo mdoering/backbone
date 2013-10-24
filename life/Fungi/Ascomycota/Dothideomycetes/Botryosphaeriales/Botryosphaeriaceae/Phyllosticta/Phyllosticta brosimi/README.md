@@ -1,5 +1,4 @@
-Phyllosticta brosimi Speg. SPECIES
-=======
+# Phyllosticta brosimi Speg. SPECIES
 
 #### Status
 ACCEPTED

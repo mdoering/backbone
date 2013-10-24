@@ -1,5 +1,4 @@
-Gloeosporium campanulae Schwarzman & Vasyag. SPECIES
-=======
+# Gloeosporium campanulae Schwarzman & Vasyag. SPECIES
 
 #### Status
 ACCEPTED

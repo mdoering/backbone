@@ -1,5 +1,4 @@
-Parafolliculina glutinata Hadzi, 1951 SPECIES
-=======
+# Parafolliculina glutinata Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella unisepta (Stizenb.) Zanhlbr. SPECIES
-=======
+# Candelariella unisepta (Stizenb.) Zanhlbr. SPECIES
 
 #### Status
 ACCEPTED

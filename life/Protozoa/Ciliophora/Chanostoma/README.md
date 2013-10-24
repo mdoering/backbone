@@ -1,5 +1,4 @@
-Chanostoma Daday, 1884 GENUS
-=======
+# Chanostoma Daday, 1884 GENUS
 
 #### Status
 ACCEPTED

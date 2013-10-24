@@ -1,5 +1,4 @@
-Pleurotus griseoroseus (Mont.) Sacc. SPECIES
-=======
+# Pleurotus griseoroseus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

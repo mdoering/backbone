@@ -1,14 +1,13 @@
-Hollandella J. Cacho, 1964 GENUS
-=======
+# Keppenodinium Loeblich Jr. & Loeblich Iii, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Annls Sci. Nat. (12) 6: 53.
+null
 
 #### Original name
 null

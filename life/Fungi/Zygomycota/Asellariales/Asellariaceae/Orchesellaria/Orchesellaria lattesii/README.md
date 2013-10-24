@@ -1,17 +1,16 @@
-Orchesellaria lattesi Manier ex Manier & Lichtw. SPECIES
-=======
+# Orchesellaria lattesii Manier ex Manier & Lichtw., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Ecol. & Biol. Sol 1(3): 448 (1965)
 
 #### Original name
-Orchesellaria lattesi Manier ex Manier & Lichtw.
+Orchesellaria lattesii Manier ex Manier & Lichtw., 1965
 
 ### Remarks
 null

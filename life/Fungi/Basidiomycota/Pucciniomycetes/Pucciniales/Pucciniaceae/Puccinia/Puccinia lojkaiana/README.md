@@ -1,5 +1,4 @@
-Puccinia lojkaiana Thüm. SPECIES
-=======
+# Puccinia lojkaiana Thüm. SPECIES
 
 #### Status
 ACCEPTED

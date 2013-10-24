@@ -1,5 +1,4 @@
-Pseudostictis silvestris Fautrey SPECIES
-=======
+# Pseudostictis silvestris Fautrey SPECIES
 
 #### Status
 ACCEPTED

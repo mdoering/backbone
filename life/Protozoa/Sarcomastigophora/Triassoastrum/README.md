@@ -1,5 +1,4 @@
-Triassoastrum Kozur & Mostler, 1978 GENUS
-=======
+# Triassoastrum Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

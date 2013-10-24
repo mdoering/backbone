@@ -1,5 +1,4 @@
-Pyrenula subimmersa Müll. Arg. SPECIES
-=======
+# Pyrenula subimmersa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

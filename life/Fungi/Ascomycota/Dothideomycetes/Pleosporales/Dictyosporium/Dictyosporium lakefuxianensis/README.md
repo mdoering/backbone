@@ -1,5 +1,4 @@
-Dictyosporium lakefuxianensis L. Cai, K.D. Hyde & McKenzie SPECIES
-=======
+# Dictyosporium lakefuxianensis L. Cai, K.D. Hyde & McKenzie SPECIES
 
 #### Status
 ACCEPTED

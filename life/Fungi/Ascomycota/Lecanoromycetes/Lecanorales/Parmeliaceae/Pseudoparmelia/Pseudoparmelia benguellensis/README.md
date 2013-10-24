@@ -1,5 +1,4 @@
-Pseudoparmelia benguellensis (Vain.) Hale SPECIES
-=======
+# Pseudoparmelia benguellensis (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED

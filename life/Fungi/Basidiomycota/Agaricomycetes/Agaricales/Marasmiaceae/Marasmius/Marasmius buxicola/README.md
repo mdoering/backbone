@@ -1,17 +1,16 @@
-Marasmius buxicolus Kalamees SPECIES
-=======
+# Marasmius buxicola Kalamees SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vaasma, Kalamees & Raitviir, Scripta Mycol. , Tartu 13: 63 (1986)
 
 #### Original name
-Marasmius buxicolus Kalamees
+Marasmius buxicola Kalamees
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Flavobacterium gelidilacus Van Trappen et al., 2003 SPECIES
-=======
+# Flavobacterium gelidilacus Van Trappen et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

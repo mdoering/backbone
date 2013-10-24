@@ -1,5 +1,4 @@
-Plenodomus wasabiae (Yokogi) J.F. White & P.V. Reddy SPECIES
-=======
+# Plenodomus wasabiae (Yokogi) J.F. White & P.V. Reddy SPECIES
 
 #### Status
 ACCEPTED

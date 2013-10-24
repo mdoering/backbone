@@ -1,5 +1,4 @@
-Pulveroboletus trinitensis Heinem. SPECIES
-=======
+# Pulveroboletus trinitensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium aristolochiae Rabenh. SPECIES
-=======
+# Aecidium aristolochiae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

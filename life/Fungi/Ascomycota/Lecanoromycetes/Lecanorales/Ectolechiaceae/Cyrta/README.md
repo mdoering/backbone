@@ -1,5 +1,4 @@
-Cyrta GENUS
-=======
+# Cyrta GENUS
 
 #### Status
 ACCEPTED

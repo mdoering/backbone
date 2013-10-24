@@ -1,5 +1,4 @@
-Gomphillus americanus Essl. SPECIES
-=======
+# Gomphillus americanus Essl. SPECIES
 
 #### Status
 ACCEPTED

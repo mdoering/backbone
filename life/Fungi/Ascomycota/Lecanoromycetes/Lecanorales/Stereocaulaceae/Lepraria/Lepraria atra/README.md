@@ -1,5 +1,4 @@
-Lepraria atra Ach. SPECIES
-=======
+# Lepraria atra Ach. SPECIES
 
 #### Status
 ACCEPTED

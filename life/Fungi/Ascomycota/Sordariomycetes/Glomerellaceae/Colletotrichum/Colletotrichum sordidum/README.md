@@ -1,5 +1,4 @@
-Colletotrichum sordidum Davis SPECIES
-=======
+# Colletotrichum sordidum Davis SPECIES
 
 #### Status
 ACCEPTED

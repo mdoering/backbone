@@ -1,5 +1,4 @@
-Helotium ammonis Velen. SPECIES
-=======
+# Helotium ammonis Velen. SPECIES
 
 #### Status
 ACCEPTED

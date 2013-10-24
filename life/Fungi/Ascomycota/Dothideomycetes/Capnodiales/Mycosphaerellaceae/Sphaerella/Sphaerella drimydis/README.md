@@ -1,8 +1,7 @@
-Sphaerella drymidis (Curr.) Sacc. SPECIES
-=======
+# Sphaerella drimydis (Curr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

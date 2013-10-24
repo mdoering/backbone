@@ -1,5 +1,4 @@
-Ilumomonas thalassia Khan, Nakagawa & Harayama, 2007 SPECIES
-=======
+# Ilumomonas thalassia Khan, Nakagawa & Harayama, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora anamalayensis V.G. Rao & Varghese SPECIES
-=======
+# Podospora anamalayensis V.G. Rao & Varghese SPECIES
 
 #### Status
 ACCEPTED

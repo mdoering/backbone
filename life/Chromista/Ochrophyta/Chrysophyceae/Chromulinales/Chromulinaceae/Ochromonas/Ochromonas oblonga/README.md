@@ -1,5 +1,4 @@
-Ochromonas oblonga N. Carter SPECIES
-=======
+# Ochromonas oblonga N. Carter SPECIES
 
 #### Status
 ACCEPTED

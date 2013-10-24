@@ -1,5 +1,4 @@
-Bacidia melacheiloides Vain. SPECIES
-=======
+# Bacidia melacheiloides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius gentilissimus A.H. Sm. SPECIES
-=======
+# Cortinarius gentilissimus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

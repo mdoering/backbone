@@ -1,5 +1,4 @@
-Mucor stipitoramosoracemato Schmid {?} SPECIES
-=======
+# Mucor stipitoramosoracemato Schmid {?} SPECIES
 
 #### Status
 ACCEPTED

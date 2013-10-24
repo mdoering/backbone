@@ -1,5 +1,4 @@
-Pontosphaera huxleyi SPECIES
-=======
+# Pontosphaera huxleyi SPECIES
 
 #### Status
 ACCEPTED

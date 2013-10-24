@@ -1,5 +1,4 @@
-Verrucaria rimulosa Servít SPECIES
-=======
+# Verrucaria rimulosa Servít SPECIES
 
 #### Status
 ACCEPTED

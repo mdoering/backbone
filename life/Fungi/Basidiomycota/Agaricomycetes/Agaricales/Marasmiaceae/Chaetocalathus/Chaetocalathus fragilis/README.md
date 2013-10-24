@@ -1,5 +1,4 @@
-Chaetocalathus fragilis (Pat.) Singer SPECIES
-=======
+# Chaetocalathus fragilis (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

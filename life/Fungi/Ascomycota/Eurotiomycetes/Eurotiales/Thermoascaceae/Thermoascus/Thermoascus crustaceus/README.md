@@ -1,17 +1,16 @@
-Thermoascus crustaceus var. verrucosus Yaguchi, Someya & Udagawa VARIETY
-=======
+# Thermoascus crustaceus (Apinis & Chesters) Stolk, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 36(2): 151 (1995)
+Antonie van Leeuwenhoek 31: 272 (1965)
 
 #### Original name
-Thermoascus crustaceus var. verrucosus Yaguchi, Someya & Udagawa
+Dactylomyces crustaceus Apinis & Chesters, 1964
 
 ### Remarks
 null

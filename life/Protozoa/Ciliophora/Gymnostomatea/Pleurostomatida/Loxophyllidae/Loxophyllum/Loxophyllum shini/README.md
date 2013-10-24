@@ -1,5 +1,4 @@
-Loxophyllum shini  Lin, Song & Li, 2007 SPECIES
-=======
+# Loxophyllum shini  Lin, Song & Li, 2007 SPECIES
 
 #### Status
 ACCEPTED

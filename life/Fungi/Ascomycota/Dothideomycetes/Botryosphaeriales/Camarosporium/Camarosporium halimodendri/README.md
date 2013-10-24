@@ -1,5 +1,4 @@
-Camarosporium halimodendri var. halimodendri VARIETY
-=======
+# Camarosporium halimodendri Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Camarosporium halimodendri var. halimodendri
+Camarosporium halimodendri Henn.
 
 ### Remarks
 null

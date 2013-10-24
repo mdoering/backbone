@@ -1,5 +1,4 @@
-Tokophrya pusilla SPECIES
-=======
+# Tokophrya pusilla SPECIES
 
 #### Status
 ACCEPTED

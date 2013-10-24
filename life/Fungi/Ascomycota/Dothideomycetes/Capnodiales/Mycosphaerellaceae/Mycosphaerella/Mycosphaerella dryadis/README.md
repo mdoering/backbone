@@ -1,5 +1,4 @@
-Mycosphaerella dryadis (Auersw.) Mig. SPECIES
-=======
+# Mycosphaerella dryadis (Auersw.) Mig. SPECIES
 
 #### Status
 ACCEPTED

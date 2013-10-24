@@ -1,5 +1,4 @@
-Septoria polygonicola (Lasch) Sacc., 1889 SPECIES
-=======
+# Septoria polygonicola (Lasch) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

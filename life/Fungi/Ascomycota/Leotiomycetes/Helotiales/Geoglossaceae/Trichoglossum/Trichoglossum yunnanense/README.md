@@ -1,5 +1,4 @@
-Trichoglossum yunnanense F.L. Tai SPECIES
-=======
+# Trichoglossum yunnanense F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

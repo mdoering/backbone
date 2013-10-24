@@ -1,5 +1,4 @@
-Hymenoscyphus infixus (Wallr.) Kuntze SPECIES
-=======
+# Hymenoscyphus infixus (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma commutata Syd. SPECIES
-=======
+# Phoma commutata Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria farinosa f. farinosa FORM
-=======
+# Squamaria farinosa (Anzi) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria farinosa f. farinosa
+null
 
 ### Remarks
 null

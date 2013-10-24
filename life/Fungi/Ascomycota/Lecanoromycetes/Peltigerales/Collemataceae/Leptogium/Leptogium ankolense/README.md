@@ -1,5 +1,4 @@
-Leptogium ankolense C.W. Dodge SPECIES
-=======
+# Leptogium ankolense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxofusicoccum ulmicola Petr. SPECIES
-=======
+# Myxofusicoccum ulmicola Petr. SPECIES
 
 #### Status
 ACCEPTED

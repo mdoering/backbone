@@ -1,5 +1,4 @@
-Rozella canterae Sparrow SPECIES
-=======
+# Rozella canterae Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanostylon microcystoides Geitler SPECIES
-=======
+# Cyanostylon microcystoides Geitler SPECIES
 
 #### Status
 ACCEPTED

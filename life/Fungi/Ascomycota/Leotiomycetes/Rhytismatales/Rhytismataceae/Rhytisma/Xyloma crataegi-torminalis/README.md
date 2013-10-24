@@ -1,5 +1,4 @@
-Xyloma crataegi-torminalis Nees ex Mart. SPECIES
-=======
+# Xyloma crataegi-torminalis Nees ex Mart. SPECIES
 
 #### Status
 ACCEPTED

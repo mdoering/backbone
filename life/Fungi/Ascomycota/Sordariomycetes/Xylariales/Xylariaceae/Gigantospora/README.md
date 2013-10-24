@@ -1,5 +1,4 @@
-Gigantospora B.S. Lu & K.D. Hyde GENUS
-=======
+# Gigantospora B.S. Lu & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

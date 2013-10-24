@@ -1,5 +1,4 @@
-Eupenicillium idahoense Paden SPECIES
-=======
+# Eupenicillium idahoense Paden SPECIES
 
 #### Status
 ACCEPTED

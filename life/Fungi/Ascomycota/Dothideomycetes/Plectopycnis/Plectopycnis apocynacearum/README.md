@@ -1,5 +1,4 @@
-Plectopycnis apocynacearum M.L. Farr SPECIES
-=======
+# Plectopycnis apocynacearum M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

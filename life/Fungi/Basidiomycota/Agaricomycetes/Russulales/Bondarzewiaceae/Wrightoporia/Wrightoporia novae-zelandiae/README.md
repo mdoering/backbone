@@ -1,5 +1,4 @@
-Wrightoporia novae-zelandiae Rajchenb. & A. David, 1990 SPECIES
-=======
+# Wrightoporia novae-zelandiae Rajchenb. & A. David, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymoporisporonites siddiquiei A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Didymoporisporonites siddiquiei A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
 ACCEPTED

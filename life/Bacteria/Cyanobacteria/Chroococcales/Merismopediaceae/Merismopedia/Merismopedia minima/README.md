@@ -1,5 +1,4 @@
-Merismopedia minima Beck SPECIES
-=======
+# Merismopedia minima Beck SPECIES
 
 #### Status
 ACCEPTED

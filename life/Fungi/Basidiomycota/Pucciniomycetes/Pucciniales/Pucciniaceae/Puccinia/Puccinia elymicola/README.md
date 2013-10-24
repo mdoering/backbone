@@ -1,5 +1,4 @@
-Puccinia elymicola Const. SPECIES
-=======
+# Puccinia elymicola Const. SPECIES
 
 #### Status
 ACCEPTED

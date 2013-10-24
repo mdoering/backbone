@@ -1,5 +1,4 @@
-Graphina pachygraphiza (Vain.) Zahlbr. SPECIES
-=======
+# Graphina pachygraphiza (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

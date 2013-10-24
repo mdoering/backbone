@@ -1,5 +1,4 @@
-Lecanora exilis Motyka SPECIES
-=======
+# Lecanora exilis Motyka SPECIES
 
 #### Status
 ACCEPTED

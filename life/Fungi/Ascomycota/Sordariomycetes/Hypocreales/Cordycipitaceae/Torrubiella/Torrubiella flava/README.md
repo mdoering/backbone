@@ -1,8 +1,7 @@
-Hirsutella arachnophila Petch, 1924 SPECIES
-=======
+# Torrubiella flava Petch, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Torrubiella flava Petch, 1924
 
 ### Remarks
 null

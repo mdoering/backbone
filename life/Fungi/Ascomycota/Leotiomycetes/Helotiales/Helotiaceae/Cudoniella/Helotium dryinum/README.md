@@ -1,5 +1,4 @@
-Helotium dryinum P. Karst. SPECIES
-=======
+# Helotium dryinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

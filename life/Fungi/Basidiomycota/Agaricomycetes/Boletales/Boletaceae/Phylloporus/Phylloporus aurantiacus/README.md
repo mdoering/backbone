@@ -1,5 +1,4 @@
-Phylloporus aurantiacus Halling & G.M. Muell. SPECIES
-=======
+# Phylloporus aurantiacus Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma alboconicum Dennis SPECIES
-=======
+# Entoloma alboconicum Dennis SPECIES
 
 #### Status
 ACCEPTED

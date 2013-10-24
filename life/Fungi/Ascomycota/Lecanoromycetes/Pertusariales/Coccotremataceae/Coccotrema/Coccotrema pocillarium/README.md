@@ -1,5 +1,4 @@
-Coccotrema pocillarium (C.E. Cumm.) Brodo SPECIES
-=======
+# Coccotrema pocillarium (C.E. Cumm.) Brodo SPECIES
 
 #### Status
 ACCEPTED

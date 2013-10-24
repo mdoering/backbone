@@ -1,5 +1,4 @@
-Protelphidium anglicum Murray, 1965 SPECIES
-=======
+# Protelphidium anglicum Murray, 1965 SPECIES
 
 #### Status
 ACCEPTED

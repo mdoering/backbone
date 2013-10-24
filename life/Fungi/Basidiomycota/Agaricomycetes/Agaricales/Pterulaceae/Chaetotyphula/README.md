@@ -1,5 +1,4 @@
-Chaetotyphula Corner GENUS
-=======
+# Chaetotyphula Corner GENUS
 
 #### Status
 ACCEPTED

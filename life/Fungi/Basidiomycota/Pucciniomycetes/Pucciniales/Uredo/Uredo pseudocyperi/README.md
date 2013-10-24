@@ -1,5 +1,4 @@
-Uredo pseudocyperi Rabenh. SPECIES
-=======
+# Uredo pseudocyperi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

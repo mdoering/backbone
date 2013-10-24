@@ -1,5 +1,4 @@
-Pleospora epilobii E. Müll., 1951 SPECIES
-=======
+# Pleospora epilobii E. Müll., 1951 SPECIES
 
 #### Status
 ACCEPTED

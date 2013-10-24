@@ -1,5 +1,4 @@
-Lecidea cinereonigra Vain. SPECIES
-=======
+# Lecidea cinereonigra Vain. SPECIES
 
 #### Status
 ACCEPTED

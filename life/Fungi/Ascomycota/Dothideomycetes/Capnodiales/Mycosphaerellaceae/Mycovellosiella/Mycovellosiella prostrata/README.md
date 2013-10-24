@@ -1,5 +1,4 @@
-Mycovellosiella prostrata Kamal SPECIES
-=======
+# Mycovellosiella prostrata Kamal SPECIES
 
 #### Status
 ACCEPTED

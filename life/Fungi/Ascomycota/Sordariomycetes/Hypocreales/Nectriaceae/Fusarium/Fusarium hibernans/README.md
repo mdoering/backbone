@@ -1,5 +1,4 @@
-Fusarium hibernans J. Lindau SPECIES
-=======
+# Fusarium hibernans J. Lindau SPECIES
 
 #### Status
 ACCEPTED

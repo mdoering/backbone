@@ -1,17 +1,16 @@
-Hypoxylon buttneri Henn. SPECIES
-=======
+# Hypoxylon buettneri Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 14: 366 (1891)
 
 #### Original name
-Hypoxylon buttneri Henn.
+Hypoxylon buettneri Henn.
 
 ### Remarks
 null

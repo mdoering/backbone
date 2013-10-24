@@ -1,5 +1,4 @@
-Protoperidinaceae Taylor, 1987 FAMILY
-=======
+# Protoperidinaceae Taylor, 1987 FAMILY
 
 #### Status
 ACCEPTED

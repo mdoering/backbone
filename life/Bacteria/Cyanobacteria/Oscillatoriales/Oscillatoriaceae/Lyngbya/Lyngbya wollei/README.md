@@ -1,5 +1,4 @@
-Lyngbya wollei (Farlow) Farlow SPECIES
-=======
+# Lyngbya wollei (Farlow) Farlow SPECIES
 
 #### Status
 ACCEPTED

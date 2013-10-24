@@ -1,14 +1,13 @@
-Sticta jeckeri Roum. SPECIES
-=======
+# Punctelia jeckeri (Roum.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revue mycol. , Toulouse 3: 33 (1881)
+Biblthca Lichenol. 95: 312 (2007)
 
 #### Original name
 Sticta jeckeri Roum.

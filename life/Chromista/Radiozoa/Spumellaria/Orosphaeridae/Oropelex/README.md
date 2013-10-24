@@ -1,5 +1,4 @@
-Oropelex Friend & Riedel, 1967 GENUS
-=======
+# Oropelex Friend & Riedel, 1967 GENUS
 
 #### Status
 ACCEPTED

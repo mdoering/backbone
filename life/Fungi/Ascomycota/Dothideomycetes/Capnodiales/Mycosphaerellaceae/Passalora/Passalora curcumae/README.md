@@ -1,5 +1,4 @@
-Passalora curcumae Purkay. & Mallik SPECIES
-=======
+# Passalora curcumae Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinopyramis Haeckel, 1887 GENUS
-=======
+# Actinopyramis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

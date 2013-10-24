@@ -1,8 +1,7 @@
-Fusarium patouillardi Sacc. SPECIES
-=======
+# Fusarium patouillardii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium patouillardi Sacc.
+Fusarium patouillardii Sacc.
 
 ### Remarks
 null

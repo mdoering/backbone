@@ -1,5 +1,4 @@
-Cercospora polygonati-maximowiczii Togashi SPECIES
-=======
+# Cercospora polygonati-maximowiczii Togashi SPECIES
 
 #### Status
 ACCEPTED

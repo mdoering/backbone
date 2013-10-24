@@ -1,5 +1,4 @@
-Asaphomyces agathidii (Maire) Scheloske SPECIES
-=======
+# Asaphomyces agathidii (Maire) Scheloske SPECIES
 
 #### Status
 ACCEPTED

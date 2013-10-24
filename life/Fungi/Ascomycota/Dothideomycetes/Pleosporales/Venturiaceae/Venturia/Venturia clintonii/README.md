@@ -1,5 +1,4 @@
-Venturia clintonii Peck SPECIES
-=======
+# Venturia clintonii Peck SPECIES
 
 #### Status
 ACCEPTED

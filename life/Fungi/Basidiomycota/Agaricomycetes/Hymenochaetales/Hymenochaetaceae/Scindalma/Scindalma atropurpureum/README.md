@@ -1,5 +1,4 @@
-Scindalma atropurpureum (Berk.) Kuntze SPECIES
-=======
+# Scindalma atropurpureum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces levis Körn. SPECIES
-=======
+# Uromyces levis Körn. SPECIES
 
 #### Status
 ACCEPTED

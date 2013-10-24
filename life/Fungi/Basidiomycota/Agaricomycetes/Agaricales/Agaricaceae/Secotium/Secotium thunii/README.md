@@ -1,5 +1,4 @@
-Secotium thunii Schulzer SPECIES
-=======
+# Secotium thunii Schulzer SPECIES
 
 #### Status
 ACCEPTED

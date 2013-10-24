@@ -1,5 +1,4 @@
-Parmelia malaccensis var. malaccensis VARIETY
-=======
+# Parmelia malaccensis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia malaccensis var. malaccensis
+null
 
 ### Remarks
 null

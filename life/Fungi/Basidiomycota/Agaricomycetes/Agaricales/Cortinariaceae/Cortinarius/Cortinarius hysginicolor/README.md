@@ -1,5 +1,4 @@
-Cortinarius hysginicolor Bidaud SPECIES
-=======
+# Cortinarius hysginicolor Bidaud SPECIES
 
 #### Status
 ACCEPTED

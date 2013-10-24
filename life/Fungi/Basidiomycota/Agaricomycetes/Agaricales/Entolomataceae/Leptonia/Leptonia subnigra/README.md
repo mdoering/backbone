@@ -1,5 +1,4 @@
-Leptonia subnigra Murrill SPECIES
-=======
+# Leptonia subnigra Murrill SPECIES
 
 #### Status
 ACCEPTED

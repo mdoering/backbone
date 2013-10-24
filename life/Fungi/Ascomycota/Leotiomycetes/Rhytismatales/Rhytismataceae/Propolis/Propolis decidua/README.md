@@ -1,5 +1,4 @@
-Propolis decidua (Ellis & Everh.) Sacc. SPECIES
-=======
+# Propolis decidua (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

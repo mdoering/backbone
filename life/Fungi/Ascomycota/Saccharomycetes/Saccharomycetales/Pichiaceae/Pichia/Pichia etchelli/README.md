@@ -1,5 +1,4 @@
-Pichia etchelli van Rij SPECIES
-=======
+# Pichia etchelli van Rij SPECIES
 
 #### Status
 ACCEPTED

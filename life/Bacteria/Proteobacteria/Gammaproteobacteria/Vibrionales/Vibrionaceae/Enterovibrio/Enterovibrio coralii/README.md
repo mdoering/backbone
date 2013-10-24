@@ -1,5 +1,4 @@
-Enterovibrio coralii Thompson et al., 2005 SPECIES
-=======
+# Enterovibrio coralii Thompson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

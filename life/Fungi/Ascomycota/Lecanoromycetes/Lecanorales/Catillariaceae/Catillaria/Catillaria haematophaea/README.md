@@ -1,5 +1,4 @@
-Catillaria haematophaea (Anzi) Zahlbr. SPECIES
-=======
+# Catillaria haematophaea (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

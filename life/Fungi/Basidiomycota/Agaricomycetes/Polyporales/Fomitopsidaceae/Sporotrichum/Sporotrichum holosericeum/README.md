@@ -1,5 +1,4 @@
-Sporotrichum holosericeum Preuss SPECIES
-=======
+# Sporotrichum holosericeum Preuss SPECIES
 
 #### Status
 ACCEPTED

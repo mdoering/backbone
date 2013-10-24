@@ -1,17 +1,16 @@
-Cryptomyces peltigerae Fuckel SPECIES
-=======
+# Corticifraga fuckelii (Rehm) D. Hawksw. & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 253 (1870)
+Biblthca Lichenol. 38: 125 (1990)
 
 #### Original name
-Cryptomyces peltigerae Fuckel
+Phragmonaevia fuckelii Rehm
 
 ### Remarks
 null

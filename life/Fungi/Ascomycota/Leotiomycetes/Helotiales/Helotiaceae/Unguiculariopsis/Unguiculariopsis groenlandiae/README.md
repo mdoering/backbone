@@ -1,14 +1,13 @@
-Geltingia groenlandiae Alstrup & D. Hawksw., 1990 SPECIES
-=======
+# Unguiculariopsis groenlandiae (Alstrup & D. Hawksw.) Etayo & Diederich, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddr Grønland, Biosc. 31: 33-35 (1990)
+in Diederich & Etayo, Lichenologist 32(5): 472 (1998)
 
 #### Original name
 Geltingia groenlandiae Alstrup & D. Hawksw., 1990

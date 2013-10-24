@@ -1,5 +1,4 @@
-Cercospora chloroxyli T.S. Ramakr. & G.S. Reddy SPECIES
-=======
+# Cercospora chloroxyli T.S. Ramakr. & G.S. Reddy SPECIES
 
 #### Status
 ACCEPTED

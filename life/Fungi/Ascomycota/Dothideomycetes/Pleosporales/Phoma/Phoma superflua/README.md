@@ -1,5 +1,4 @@
-Phoma superflua Sacc. SPECIES
-=======
+# Phoma superflua Sacc. SPECIES
 
 #### Status
 ACCEPTED

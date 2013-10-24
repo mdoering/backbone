@@ -1,5 +1,4 @@
-Mycena longipes Murrill SPECIES
-=======
+# Mycena longipes Murrill SPECIES
 
 #### Status
 ACCEPTED

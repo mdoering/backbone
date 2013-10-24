@@ -1,5 +1,4 @@
-Calosphaeria macrospora G. Winter SPECIES
-=======
+# Calosphaeria macrospora G. Winter SPECIES
 
 #### Status
 ACCEPTED

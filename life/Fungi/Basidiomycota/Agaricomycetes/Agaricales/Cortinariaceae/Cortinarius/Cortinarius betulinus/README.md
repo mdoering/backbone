@@ -1,14 +1,13 @@
-Myxacium betulinum (J. Favre) M.M. Moser, 1955 SPECIES
-=======
+# Cortinarius betulinus J. Favre, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 2 2b: (1955)
+Beitr. Kryptfl. Schweiz 10(no. 3): 213 (1948)
 
 #### Original name
 Cortinarius betulinus J. Favre, 1948

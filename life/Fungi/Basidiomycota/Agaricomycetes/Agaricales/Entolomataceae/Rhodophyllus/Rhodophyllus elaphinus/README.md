@@ -1,5 +1,4 @@
-Rhodophyllus elaphinus var. elaphinus VARIETY
-=======
+# Rhodophyllus elaphinus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhodophyllus elaphinus var. elaphinus
+Rhodophyllus elaphinus
 
 ### Remarks
 null

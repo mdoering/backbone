@@ -1,5 +1,4 @@
-Xanthoparmelia pustulescens T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia pustulescens T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

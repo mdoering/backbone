@@ -1,5 +1,4 @@
-Heterodermia fauriei (Kurok.) Trass SPECIES
-=======
+# Heterodermia fauriei (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volkartia Maire GENUS
-=======
+# Volkartia Maire GENUS
 
 #### Status
 ACCEPTED

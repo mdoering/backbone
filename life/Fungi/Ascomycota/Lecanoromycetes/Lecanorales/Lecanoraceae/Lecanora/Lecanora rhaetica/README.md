@@ -1,5 +1,4 @@
-Lecanora rhaetica (Th. Fr.) Arnold SPECIES
-=======
+# Lecanora rhaetica (Th. Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

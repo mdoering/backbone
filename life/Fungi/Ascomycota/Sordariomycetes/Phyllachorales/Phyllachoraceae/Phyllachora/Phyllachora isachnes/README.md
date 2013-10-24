@@ -1,5 +1,4 @@
-Phyllachora isachnes Sawada SPECIES
-=======
+# Phyllachora isachnes Sawada SPECIES
 
 #### Status
 ACCEPTED

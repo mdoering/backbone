@@ -1,8 +1,7 @@
-Microcystis raspaigellae (Hauck) Kosinskaja SPECIES
-=======
+# Aphanocapsa raspaigellae (Hauck) Frémy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

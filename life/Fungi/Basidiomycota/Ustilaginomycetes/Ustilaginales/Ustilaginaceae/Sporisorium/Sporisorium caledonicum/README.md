@@ -1,14 +1,13 @@
-Sorosporium caledonicum Pat., 1887 SPECIES
-=======
+# Sporisorium caledonicum (Pat.) Vánky, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 3(3): 173 (1887)
+Mycotaxon 40: 165 (1991)
 
 #### Original name
 Sorosporium caledonicum Pat., 1887

@@ -1,5 +1,4 @@
-Mallomonas paxillata (Bradley) Peterfi & Momeu SPECIES
-=======
+# Mallomonas paxillata (Bradley) Peterfi & Momeu SPECIES
 
 #### Status
 ACCEPTED

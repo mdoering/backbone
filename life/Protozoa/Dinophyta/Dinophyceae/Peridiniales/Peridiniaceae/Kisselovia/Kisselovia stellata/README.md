@@ -1,5 +1,4 @@
-Kisselovia stellata S. P. Damassa SPECIES
-=======
+# Kisselovia stellata S. P. Damassa SPECIES
 
 #### Status
 ACCEPTED

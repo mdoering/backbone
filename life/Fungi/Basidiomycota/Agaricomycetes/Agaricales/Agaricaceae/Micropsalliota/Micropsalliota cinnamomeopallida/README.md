@@ -1,5 +1,4 @@
-Micropsalliota cinnamomeopallida Singer SPECIES
-=======
+# Micropsalliota cinnamomeopallida Singer SPECIES
 
 #### Status
 ACCEPTED

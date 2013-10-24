@@ -1,17 +1,16 @@
-Phyllopsora foliata var. subcorallina (Müll. Arg.) Zahlbr. VARIETY
-=======
+# Phyllopsora foliatella Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 4: 397 (1926)
+Australasian Lichenology 58: 11 (2006)
 
 #### Original name
-Lecidea foliata var. subcorallina (Müll. Arg.) Shirley
+null
 
 ### Remarks
 null

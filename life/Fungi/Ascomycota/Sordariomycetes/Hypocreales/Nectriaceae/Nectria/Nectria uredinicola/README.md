@@ -1,14 +1,13 @@
-Polystigma uredinicola (Pat.) Gola, 1930 SPECIES
-=======
+# Nectria uredinicola Pat., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-L'Erbario Micologico di P. A. Saccardo 159 (1930)
+Bull. Soc. mycol. Fr. 7: 175 (1891)
 
 #### Original name
 Nectria uredinicola Pat., 1891

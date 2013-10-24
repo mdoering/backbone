@@ -1,5 +1,4 @@
-Septoria recurvata Ellis & Halst. SPECIES
-=======
+# Septoria recurvata Ellis & Halst. SPECIES
 
 #### Status
 ACCEPTED

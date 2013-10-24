@@ -1,5 +1,4 @@
-Leptomeliola ptilidii Racov. SPECIES
-=======
+# Leptomeliola ptilidii Racov. SPECIES
 
 #### Status
 ACCEPTED

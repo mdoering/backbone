@@ -1,17 +1,16 @@
-Plagiostoma septentrionalis Lar.N. Vassiljeva SPECIES
-=======
+# Plagiostoma septentrionale Lar.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pirenomits. Lokuloaskomits. Severa Dal'nego Vostoka (Leningrad) 179 (1987)
 
 #### Original name
-Plagiostoma septentrionalis Lar.N. Vassiljeva
+Plagiostoma septentrionale Lar.N. Vassiljeva
 
 ### Remarks
 null

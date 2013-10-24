@@ -1,5 +1,4 @@
-Sorodiscus karlingii Ivimey Cook, 1933 SPECIES
-=======
+# Sorodiscus karlingii Ivimey Cook, 1933 SPECIES
 
 #### Status
 ACCEPTED

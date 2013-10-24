@@ -1,5 +1,4 @@
-Usnea haumanii Motyka SPECIES
-=======
+# Usnea haumanii Motyka SPECIES
 
 #### Status
 ACCEPTED

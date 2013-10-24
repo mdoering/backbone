@@ -1,5 +1,4 @@
-Stenozonoligotriletes sachsensis Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes sachsensis Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

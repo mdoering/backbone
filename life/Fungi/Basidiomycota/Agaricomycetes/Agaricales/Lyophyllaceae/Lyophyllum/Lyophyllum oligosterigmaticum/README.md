@@ -1,5 +1,4 @@
-Lyophyllum oligosterigmaticum Consiglio & Contu SPECIES
-=======
+# Lyophyllum oligosterigmaticum Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

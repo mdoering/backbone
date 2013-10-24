@@ -1,5 +1,4 @@
-Oropogon tanakae Asahina SPECIES
-=======
+# Oropogon tanakae Asahina SPECIES
 
 #### Status
 ACCEPTED

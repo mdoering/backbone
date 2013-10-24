@@ -1,5 +1,4 @@
-Trichophyton acutulum Da Veiga SPECIES
-=======
+# Trichophyton acutulum Da Veiga SPECIES
 
 #### Status
 ACCEPTED

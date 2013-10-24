@@ -1,5 +1,4 @@
-Laboea striata Meunier, 1910 SPECIES
-=======
+# Laboea striata Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotrys elongata Peck SPECIES
-=======
+# Stachybotrys elongata Peck SPECIES
 
 #### Status
 ACCEPTED

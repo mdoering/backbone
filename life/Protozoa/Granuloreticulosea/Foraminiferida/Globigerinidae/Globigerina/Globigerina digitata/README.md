@@ -1,5 +1,4 @@
-Globigerina digitata Brady SPECIES
-=======
+# Globigerina digitata Brady SPECIES
 
 #### Status
 ACCEPTED

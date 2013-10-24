@@ -1,5 +1,4 @@
-Pyrenopeziza aegaea Petr. SPECIES
-=======
+# Pyrenopeziza aegaea Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota vascularis Pegler SPECIES
-=======
+# Lepiota vascularis Pegler SPECIES
 
 #### Status
 ACCEPTED

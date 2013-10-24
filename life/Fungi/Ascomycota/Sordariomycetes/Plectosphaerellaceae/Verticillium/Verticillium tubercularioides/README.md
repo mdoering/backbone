@@ -1,5 +1,4 @@
-Verticillium tubercularioides Speg., 1882 SPECIES
-=======
+# Verticillium tubercularioides Speg., 1882 SPECIES
 
 #### Status
 ACCEPTED

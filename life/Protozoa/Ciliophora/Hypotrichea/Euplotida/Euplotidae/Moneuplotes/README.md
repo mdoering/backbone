@@ -1,5 +1,4 @@
-Moneuplotes Jankowksi, 1978 GENUS
-=======
+# Moneuplotes Jankowksi, 1978 GENUS
 
 #### Status
 ACCEPTED

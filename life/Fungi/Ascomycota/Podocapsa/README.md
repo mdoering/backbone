@@ -1,17 +1,16 @@
-Podocapsium Clem. GENUS
-=======
+# Podocapsa Van Tieghem, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 94, 176 (1909)
+J. Bot. Morot 1: 292 (1887)
 
 #### Original name
-Podocapsium Clem.
+Podocapsa Van Tieghem, 1887
 
 ### Remarks
 null

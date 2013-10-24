@@ -1,5 +1,4 @@
-Pyrenula massariospora (Starbäck) R. C. Harris SPECIES
-=======
+# Pyrenula massariospora (Starbäck) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

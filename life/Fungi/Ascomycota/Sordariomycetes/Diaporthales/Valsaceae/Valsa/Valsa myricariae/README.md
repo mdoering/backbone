@@ -1,5 +1,4 @@
-Valsa myricariae Rehm SPECIES
-=======
+# Valsa myricariae Rehm SPECIES
 
 #### Status
 ACCEPTED

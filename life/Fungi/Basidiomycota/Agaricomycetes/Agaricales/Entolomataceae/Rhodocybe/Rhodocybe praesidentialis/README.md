@@ -1,5 +1,4 @@
-Rhodocybe praesidentialis Consiglio, Contu, M. Roy, Selosse & Vizzini SPECIES
-=======
+# Rhodocybe praesidentialis Consiglio, Contu, M. Roy, Selosse & Vizzini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ganoderma longistipatum SPECIES
-=======
+# Ganoderma longistipatum SPECIES
 
 #### Status
 ACCEPTED

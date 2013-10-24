@@ -1,5 +1,4 @@
-Protoperidinium castaneiforme (Mangin, 1922) Balech, 1974 SPECIES
-=======
+# Protoperidinium castaneiforme (Mangin, 1922) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

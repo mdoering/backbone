@@ -1,5 +1,4 @@
-Urceolaria apicalis Motyka SPECIES
-=======
+# Urceolaria apicalis Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniophora fulva Massee SPECIES
-=======
+# Coniophora fulva Massee SPECIES
 
 #### Status
 ACCEPTED

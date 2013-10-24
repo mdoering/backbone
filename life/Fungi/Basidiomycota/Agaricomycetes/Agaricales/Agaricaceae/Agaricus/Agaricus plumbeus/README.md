@@ -1,17 +1,16 @@
-Agaricus plumbeus var. plumbeus VARIETY
-=======
+# Agaricus plumbeus (Bull.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Fl. Danic. 6: tab. 1014 (1790)
 
 #### Original name
-null
+Agaricus lactifluus var. plumbeus Bull.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichodiscus GENUS
-=======
+# Trichodiscus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllohendersonia bicolor (Pat.) Tassi SPECIES
-=======
+# Phyllohendersonia bicolor (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

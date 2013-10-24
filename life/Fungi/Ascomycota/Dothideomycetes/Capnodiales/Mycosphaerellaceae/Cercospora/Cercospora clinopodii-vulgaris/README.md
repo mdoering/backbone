@@ -1,5 +1,4 @@
-Cercospora clinopodii-vulgaris Savinceva SPECIES
-=======
+# Cercospora clinopodii-vulgaris Savinceva SPECIES
 
 #### Status
 ACCEPTED

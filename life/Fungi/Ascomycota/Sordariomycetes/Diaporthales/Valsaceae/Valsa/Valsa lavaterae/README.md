@@ -1,5 +1,4 @@
-Valsa lavaterae Cooke & Harkn. SPECIES
-=======
+# Valsa lavaterae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerina eutricha (Sacc. & Berl.) Theiss. SPECIES
-=======
+# Dimerina eutricha (Sacc. & Berl.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

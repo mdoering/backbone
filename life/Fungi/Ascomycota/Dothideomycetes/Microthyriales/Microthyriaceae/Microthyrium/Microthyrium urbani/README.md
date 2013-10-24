@@ -1,5 +1,4 @@
-Microthyrium urbani Bres. SPECIES
-=======
+# Microthyrium urbani Bres. SPECIES
 
 #### Status
 ACCEPTED

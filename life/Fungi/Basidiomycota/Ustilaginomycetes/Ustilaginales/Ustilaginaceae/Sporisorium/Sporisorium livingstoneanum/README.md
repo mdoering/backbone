@@ -1,5 +1,4 @@
-Sporisorium livingstoneanum Vánky, 2006 SPECIES
-=======
+# Sporisorium livingstoneanum Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

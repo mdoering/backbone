@@ -1,17 +1,16 @@
-Physcia dubia var. dubia VARIETY
-=======
+# Physcia dubia (Hoffm.) Lettau SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 52: 254 (1912)
 
 #### Original name
-Physcia dubia var. dubia
+Lobaria dubia Hoffm.
 
 ### Remarks
 null

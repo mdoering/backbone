@@ -1,5 +1,4 @@
-Didymopsora africana Cummins, 1960 SPECIES
-=======
+# Didymopsora africana Cummins, 1960 SPECIES
 
 #### Status
 ACCEPTED

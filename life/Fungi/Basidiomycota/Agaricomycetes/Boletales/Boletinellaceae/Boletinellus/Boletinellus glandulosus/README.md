@@ -1,5 +1,4 @@
-Boletinellus glandulosus Peck SPECIES
-=======
+# Boletinellus glandulosus Peck SPECIES
 
 #### Status
 ACCEPTED

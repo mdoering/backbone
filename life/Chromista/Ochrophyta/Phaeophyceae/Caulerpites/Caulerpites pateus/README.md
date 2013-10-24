@@ -1,5 +1,4 @@
-Caulerpites pateus SPECIES
-=======
+# Caulerpites pateus SPECIES
 
 #### Status
 ACCEPTED

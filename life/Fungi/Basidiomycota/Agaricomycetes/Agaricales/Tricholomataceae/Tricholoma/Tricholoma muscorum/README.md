@@ -1,5 +1,4 @@
-Tricholoma muscorum Velen. SPECIES
-=======
+# Tricholoma muscorum Velen. SPECIES
 
 #### Status
 ACCEPTED

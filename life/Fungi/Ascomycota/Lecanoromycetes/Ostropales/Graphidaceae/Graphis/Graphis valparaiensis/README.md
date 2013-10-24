@@ -1,5 +1,4 @@
-Graphis valparaiensis Adaw. & Makhija SPECIES
-=======
+# Graphis valparaiensis Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

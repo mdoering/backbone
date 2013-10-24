@@ -1,5 +1,4 @@
-Exidia agaricina Mont. SPECIES
-=======
+# Exidia agaricina Mont. SPECIES
 
 #### Status
 ACCEPTED

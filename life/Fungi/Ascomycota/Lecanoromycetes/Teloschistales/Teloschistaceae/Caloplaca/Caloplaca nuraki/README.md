@@ -1,5 +1,4 @@
-Caloplaca nuraki S.Y. Kondr. & Kudratov SPECIES
-=======
+# Caloplaca nuraki S.Y. Kondr. & Kudratov SPECIES
 
 #### Status
 ACCEPTED

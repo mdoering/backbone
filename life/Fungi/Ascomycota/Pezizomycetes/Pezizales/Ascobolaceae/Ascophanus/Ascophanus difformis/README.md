@@ -1,5 +1,4 @@
-Ascophanus difformis (Nyl.) Boud. SPECIES
-=======
+# Ascophanus difformis (Nyl.) Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicheirinia superba H.S. Jacks. & Holw., 1931 SPECIES
-=======
+# Dicheirinia superba H.S. Jacks. & Holw., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo guettardae Hirats. f. & Hashioka, 1935 SPECIES
-=======
+# Uredo guettardae Hirats. f. & Hashioka, 1935 SPECIES
 
 #### Status
 ACCEPTED

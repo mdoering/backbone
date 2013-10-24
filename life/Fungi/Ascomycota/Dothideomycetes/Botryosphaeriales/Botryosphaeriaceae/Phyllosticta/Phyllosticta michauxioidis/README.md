@@ -1,5 +1,4 @@
-Phyllosticta michauxioidis Magnus SPECIES
-=======
+# Phyllosticta michauxioidis Magnus SPECIES
 
 #### Status
 ACCEPTED

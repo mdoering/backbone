@@ -1,5 +1,4 @@
-Cothurnia curvula Entz, 1884 SPECIES
-=======
+# Cothurnia curvula Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

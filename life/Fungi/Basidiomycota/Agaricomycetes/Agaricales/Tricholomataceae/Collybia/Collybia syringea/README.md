@@ -1,5 +1,4 @@
-Collybia syringea Singer SPECIES
-=======
+# Collybia syringea Singer SPECIES
 
 #### Status
 ACCEPTED

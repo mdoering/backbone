@@ -1,5 +1,4 @@
-Hocosphaeridium Zang & Walter, 1992 GENUS
-=======
+# Hocosphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza sicula Inzenga SPECIES
-=======
+# Peziza sicula Inzenga SPECIES
 
 #### Status
 ACCEPTED

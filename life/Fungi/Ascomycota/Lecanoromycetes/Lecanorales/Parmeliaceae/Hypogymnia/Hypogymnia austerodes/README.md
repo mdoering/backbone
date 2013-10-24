@@ -1,17 +1,16 @@
-Parmelia obscurata var. obscurata VARIETY
-=======
+# Hypogymnia austerodes (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia obscurata var. obscurata
+Parmelia austerodes Nyl.
 
 ### Remarks
 null

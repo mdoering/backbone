@@ -1,5 +1,4 @@
-Stomatostoecha Applin, Loeblich & Tappan, 1950 GENUS
-=======
+# Stomatostoecha Applin, Loeblich & Tappan, 1950 GENUS
 
 #### Status
 ACCEPTED

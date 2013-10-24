@@ -1,5 +1,4 @@
-Leptostroma inulicola Brunaud SPECIES
-=======
+# Leptostroma inulicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

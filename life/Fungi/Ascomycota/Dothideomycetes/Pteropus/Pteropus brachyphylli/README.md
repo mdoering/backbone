@@ -1,5 +1,4 @@
-Pteropus brachyphylli R.W. Ham, 2005 SPECIES
-=======
+# Pteropus brachyphylli R.W. Ham, 2005 SPECIES
 
 #### Status
 ACCEPTED

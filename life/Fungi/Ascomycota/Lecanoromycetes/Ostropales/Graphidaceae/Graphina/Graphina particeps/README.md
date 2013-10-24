@@ -1,5 +1,4 @@
-Graphina particeps (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina particeps (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

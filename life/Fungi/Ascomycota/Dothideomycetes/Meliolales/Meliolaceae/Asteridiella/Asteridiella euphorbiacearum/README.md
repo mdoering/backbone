@@ -1,5 +1,4 @@
-Asteridiella euphorbiacearum M.L. Farr SPECIES
-=======
+# Asteridiella euphorbiacearum M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

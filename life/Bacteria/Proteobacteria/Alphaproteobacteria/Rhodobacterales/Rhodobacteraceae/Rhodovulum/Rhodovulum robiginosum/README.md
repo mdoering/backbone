@@ -1,5 +1,4 @@
-Rhodovulum robiginosum Straub et al., 1999 SPECIES
-=======
+# Rhodovulum robiginosum Straub et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella hyalina SPECIES
-=======
+# Vorticella hyalina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aurichona armata Jankowski, 1973 SPECIES
-=======
+# Aurichona armata Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

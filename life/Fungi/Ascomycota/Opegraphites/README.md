@@ -1,5 +1,4 @@
-Opegraphites Debey & Ettingsh. GENUS
-=======
+# Opegraphites Debey & Ettingsh. GENUS
 
 #### Status
 ACCEPTED

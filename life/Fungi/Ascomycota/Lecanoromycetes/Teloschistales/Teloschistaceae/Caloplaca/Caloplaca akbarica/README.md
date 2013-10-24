@@ -1,5 +1,4 @@
-Caloplaca akbarica Kudratov & Khodos. SPECIES
-=======
+# Caloplaca akbarica Kudratov & Khodos. SPECIES
 
 #### Status
 ACCEPTED

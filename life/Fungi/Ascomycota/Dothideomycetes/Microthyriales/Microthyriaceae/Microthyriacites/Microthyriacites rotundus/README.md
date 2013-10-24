@@ -1,5 +1,4 @@
-Microthyriacites rotundus Golovin & Popov {?} SPECIES
-=======
+# Microthyriacites rotundus Golovin & Popov {?} SPECIES
 
 #### Status
 ACCEPTED

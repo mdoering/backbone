@@ -1,5 +1,4 @@
-Rhynchophoma trachelina (Lév.) Sacc. SPECIES
-=======
+# Rhynchophoma trachelina (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

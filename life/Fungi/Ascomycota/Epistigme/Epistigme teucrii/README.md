@@ -1,5 +1,4 @@
-Epistigme teucrii Bat. & H. Maia SPECIES
-=======
+# Epistigme teucrii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

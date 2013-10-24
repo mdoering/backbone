@@ -1,5 +1,4 @@
-Cladonia pseudodigitata Gyeln. SPECIES
-=======
+# Cladonia pseudodigitata Gyeln. SPECIES
 
 #### Status
 ACCEPTED

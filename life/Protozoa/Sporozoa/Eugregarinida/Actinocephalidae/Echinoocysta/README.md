@@ -1,17 +1,16 @@
-Echinospora Amoji & Devdhar, 1979 GENUS
-=======
+# Echinoocysta Levine, 1984 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Protozool. 18 (4): 518.
+Transactions Am. Microsc. Soc. 103 (2): 198.
 
 #### Original name
-null
+Echinospora Amoji & Devdhar, 1979
 
 ### Remarks
 null

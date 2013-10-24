@@ -1,5 +1,4 @@
-Filisphaeridium piveteaui (Valensi, 1953) Pocock, 1972 SPECIES
-=======
+# Filisphaeridium piveteaui (Valensi, 1953) Pocock, 1972 SPECIES
 
 #### Status
 ACCEPTED

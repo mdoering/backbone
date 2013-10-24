@@ -1,5 +1,4 @@
-Acanthoica Lohmann, 1903 GENUS
-=======
+# Acanthoica Lohmann, 1903 GENUS
 
 #### Status
 ACCEPTED

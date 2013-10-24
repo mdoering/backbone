@@ -1,5 +1,4 @@
-Winterella confusa J. Reid & C. Booth SPECIES
-=======
+# Winterella confusa J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

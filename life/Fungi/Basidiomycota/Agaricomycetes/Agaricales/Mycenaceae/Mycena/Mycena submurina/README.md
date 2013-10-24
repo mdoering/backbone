@@ -1,5 +1,4 @@
-Mycena submurina Mont. SPECIES
-=======
+# Mycena submurina Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula friata Preuss SPECIES
-=======
+# Torula friata Preuss SPECIES
 
 #### Status
 ACCEPTED

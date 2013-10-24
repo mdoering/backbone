@@ -1,5 +1,4 @@
-Lachnum pteridis (Alb. & Schwein.) SPECIES
-=======
+# Lachnum pteridis (Alb. & Schwein.) SPECIES
 
 #### Status
 ACCEPTED

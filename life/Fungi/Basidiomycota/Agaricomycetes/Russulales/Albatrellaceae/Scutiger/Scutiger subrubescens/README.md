@@ -1,5 +1,4 @@
-Scutiger subrubescens Murrill SPECIES
-=======
+# Scutiger subrubescens Murrill SPECIES
 
 #### Status
 ACCEPTED

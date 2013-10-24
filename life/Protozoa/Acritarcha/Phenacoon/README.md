@@ -1,5 +1,4 @@
-Phenacoon Vecoli & Playford, 1997 GENUS
-=======
+# Phenacoon Vecoli & Playford, 1997 GENUS
 
 #### Status
 ACCEPTED

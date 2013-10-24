@@ -1,5 +1,4 @@
-Passalora xylopiae (Viégas & Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora xylopiae (Viégas & Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

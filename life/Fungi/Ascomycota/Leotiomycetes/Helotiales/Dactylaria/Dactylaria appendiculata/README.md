@@ -1,5 +1,4 @@
-Dactylaria appendiculata Cazau, Aramb. & Cabello, 1990 SPECIES
-=======
+# Dactylaria appendiculata Cazau, Aramb. & Cabello, 1990 SPECIES
 
 #### Status
 ACCEPTED

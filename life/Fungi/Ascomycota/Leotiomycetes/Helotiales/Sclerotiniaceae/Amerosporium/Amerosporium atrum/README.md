@@ -1,17 +1,16 @@
-Chaetomella atra var. atra VARIETY
-=======
+# Amerosporium atrum (Fuckel) Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 124: 114 (1915)
 
 #### Original name
-Chaetomella atra var. atra
+Chaetomella atra Fuckel, 1870
 
 ### Remarks
 null

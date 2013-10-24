@@ -1,5 +1,4 @@
-Amphicyclia Haeckel, 1881 GENUS
-=======
+# Amphicyclia Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

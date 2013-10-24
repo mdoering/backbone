@@ -1,5 +1,4 @@
-Haplolepis polydelpha Syd. SPECIES
-=======
+# Haplolepis polydelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

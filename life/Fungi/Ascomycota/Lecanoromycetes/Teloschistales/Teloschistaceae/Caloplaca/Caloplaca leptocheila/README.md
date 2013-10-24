@@ -1,5 +1,4 @@
-Caloplaca leptocheila H. Magn. SPECIES
-=======
+# Caloplaca leptocheila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

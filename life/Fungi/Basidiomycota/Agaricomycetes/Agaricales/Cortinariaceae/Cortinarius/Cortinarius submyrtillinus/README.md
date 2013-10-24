@@ -1,5 +1,4 @@
-Cortinarius submyrtillinus Britzelm. SPECIES
-=======
+# Cortinarius submyrtillinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

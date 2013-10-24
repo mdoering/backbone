@@ -1,5 +1,4 @@
-Remototrachyna aguirrei (Sipman, Elix & T. H. Nash) Flakus, Kukwa & Sipman SPECIES
-=======
+# Remototrachyna aguirrei (Sipman, Elix & T. H. Nash) Flakus, Kukwa & Sipman SPECIES
 
 #### Status
 ACCEPTED

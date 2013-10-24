@@ -1,5 +1,4 @@
-Lizonia singularis Henn. SPECIES
-=======
+# Lizonia singularis Henn. SPECIES
 
 #### Status
 ACCEPTED

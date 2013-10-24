@@ -1,5 +1,4 @@
-Evernia rigida (Schaer.) Fr. SPECIES
-=======
+# Evernia rigida (Schaer.) Fr. SPECIES
 
 #### Status
 ACCEPTED

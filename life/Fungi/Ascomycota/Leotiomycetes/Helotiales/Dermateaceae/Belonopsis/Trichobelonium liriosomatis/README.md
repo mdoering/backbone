@@ -1,5 +1,4 @@
-Trichobelonium liriosomatis Rehm SPECIES
-=======
+# Trichobelonium liriosomatis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenozonoligotriletes Timofeev, 1958 GENUS
-=======
+# Stenozonoligotriletes Timofeev, 1958 GENUS
 
 #### Status
 ACCEPTED

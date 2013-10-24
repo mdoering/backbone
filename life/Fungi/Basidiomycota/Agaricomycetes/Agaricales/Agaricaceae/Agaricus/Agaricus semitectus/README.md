@@ -1,5 +1,4 @@
-Agaricus semitectus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus semitectus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

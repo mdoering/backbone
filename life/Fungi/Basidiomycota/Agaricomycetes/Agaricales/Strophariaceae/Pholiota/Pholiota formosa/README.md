@@ -1,5 +1,4 @@
-Pholiota formosa Speg., 1926 SPECIES
-=======
+# Pholiota formosa Speg., 1926 SPECIES
 
 #### Status
 ACCEPTED

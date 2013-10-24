@@ -1,5 +1,4 @@
-Leptosphaeria galiicola var. galiicola VARIETY
-=======
+# Leptosphaeria galiicola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria galiicola var. galiicola
+Leptosphaeria galiicola Sacc.
 
 ### Remarks
 null

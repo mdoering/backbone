@@ -1,5 +1,4 @@
-Tilakiella Srinivas. GENUS
-=======
+# Tilakiella Srinivas. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus favoliporus Pilát SPECIES
-=======
+# Coriolus favoliporus Pilát SPECIES
 
 #### Status
 ACCEPTED

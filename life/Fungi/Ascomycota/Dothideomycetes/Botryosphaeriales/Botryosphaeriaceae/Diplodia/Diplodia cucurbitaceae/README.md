@@ -1,5 +1,4 @@
-Diplodia cucurbitaceae Ellis & Langl. SPECIES
-=======
+# Diplodia cucurbitaceae Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

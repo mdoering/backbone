@@ -1,5 +1,4 @@
-Secotium diminutivum Zeller SPECIES
-=======
+# Secotium diminutivum Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Santessonia peruviensis Follmann SPECIES
-=======
+# Santessonia peruviensis Follmann SPECIES
 
 #### Status
 ACCEPTED

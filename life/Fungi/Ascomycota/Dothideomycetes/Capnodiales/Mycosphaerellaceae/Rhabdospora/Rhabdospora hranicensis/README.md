@@ -1,5 +1,4 @@
-Rhabdospora hranicensis Petr. SPECIES
-=======
+# Rhabdospora hranicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

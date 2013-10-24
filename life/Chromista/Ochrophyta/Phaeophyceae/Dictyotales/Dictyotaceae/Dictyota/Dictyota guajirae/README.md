@@ -1,5 +1,4 @@
-Dictyota guajirae Hörnig, Schnetter & J.M. Over SPECIES
-=======
+# Dictyota guajirae Hörnig, Schnetter & J.M. Over SPECIES
 
 #### Status
 ACCEPTED

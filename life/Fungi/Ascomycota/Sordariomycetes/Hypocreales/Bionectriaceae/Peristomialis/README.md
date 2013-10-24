@@ -1,5 +1,4 @@
-Peristomialis GENUS
-=======
+# Peristomialis GENUS
 
 #### Status
 ACCEPTED

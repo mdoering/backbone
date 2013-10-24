@@ -1,5 +1,4 @@
-Chaetostromella tiliae P. Karst. SPECIES
-=======
+# Chaetostromella tiliae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

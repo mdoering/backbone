@@ -1,5 +1,4 @@
-Polyporus floccopus Rostk. SPECIES
-=======
+# Polyporus floccopus Rostk. SPECIES
 
 #### Status
 ACCEPTED

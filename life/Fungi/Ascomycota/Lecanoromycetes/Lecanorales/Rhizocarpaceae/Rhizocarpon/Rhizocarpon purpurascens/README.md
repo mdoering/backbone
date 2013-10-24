@@ -1,5 +1,4 @@
-Rhizocarpon purpurascens Fryday SPECIES
-=======
+# Rhizocarpon purpurascens Fryday SPECIES
 
 #### Status
 ACCEPTED

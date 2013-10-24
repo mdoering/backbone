@@ -1,5 +1,4 @@
-Dicaeoma vexans (Farl.) Kuntze SPECIES
-=======
+# Dicaeoma vexans (Farl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

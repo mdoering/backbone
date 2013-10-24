@@ -1,14 +1,13 @@
-Stenella cinnamomea (Racib.) U. Braun SPECIES
-=======
+# Stenella cinnamomi (Racib.) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 8: 37 (2002)
 
 #### Original name
 Scolicotrichum cinnamomi Racib.

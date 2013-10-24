@@ -1,5 +1,4 @@
-Gonatophragmium jarwaensis M.S. Tripathi & V. Tripathi SPECIES
-=======
+# Gonatophragmium jarwaensis M.S. Tripathi & V. Tripathi SPECIES
 
 #### Status
 ACCEPTED

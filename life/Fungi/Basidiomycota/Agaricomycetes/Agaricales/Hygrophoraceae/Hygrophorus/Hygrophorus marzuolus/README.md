@@ -1,5 +1,4 @@
-Hygrophorus marzuolus (Fr.) Bres. SPECIES
-=======
+# Hygrophorus marzuolus (Fr.) Bres. SPECIES
 
 #### Status
 ACCEPTED

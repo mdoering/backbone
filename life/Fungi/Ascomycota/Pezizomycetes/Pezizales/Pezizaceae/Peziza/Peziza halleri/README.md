@@ -1,5 +1,4 @@
-Peziza halleri Tode SPECIES
-=======
+# Peziza halleri Tode SPECIES
 
 #### Status
 ACCEPTED

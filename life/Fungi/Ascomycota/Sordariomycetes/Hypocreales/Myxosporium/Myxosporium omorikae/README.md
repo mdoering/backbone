@@ -1,5 +1,4 @@
-Myxosporium omorikae Ranoj. SPECIES
-=======
+# Myxosporium omorikae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

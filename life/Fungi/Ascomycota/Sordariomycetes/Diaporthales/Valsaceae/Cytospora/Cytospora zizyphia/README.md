@@ -1,5 +1,4 @@
-Cytospora zizyphia S. Ahmad SPECIES
-=======
+# Cytospora zizyphia S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

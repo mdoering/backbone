@@ -1,5 +1,4 @@
-Cortinarius luteocingulatus Bidaud & Fillion SPECIES
-=======
+# Cortinarius luteocingulatus Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Guignardia puiggari (Speg.) Sacc. SPECIES
-=======
+# Guignardia puiggarii (Speg.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 24(2): 788 (1928)
 
 #### Original name
 Laestadia puiggarii Speg.

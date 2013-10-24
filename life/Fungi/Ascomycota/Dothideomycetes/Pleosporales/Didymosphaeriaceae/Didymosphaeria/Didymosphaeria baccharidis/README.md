@@ -1,5 +1,4 @@
-Didymosphaeria baccharidis Starbäck SPECIES
-=======
+# Didymosphaeria baccharidis Starbäck SPECIES
 
 #### Status
 ACCEPTED

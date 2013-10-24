@@ -1,5 +1,4 @@
-Acaulospora bireticulata F.M. Rothwell & Trappe SPECIES
-=======
+# Acaulospora bireticulata F.M. Rothwell & Trappe SPECIES
 
 #### Status
 ACCEPTED

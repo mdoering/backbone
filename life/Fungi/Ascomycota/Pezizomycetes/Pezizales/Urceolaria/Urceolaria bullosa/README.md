@@ -1,5 +1,4 @@
-Urceolaria bullosa (A. Massal.) Motyka SPECIES
-=======
+# Urceolaria bullosa (A. Massal.) Motyka SPECIES
 
 #### Status
 ACCEPTED

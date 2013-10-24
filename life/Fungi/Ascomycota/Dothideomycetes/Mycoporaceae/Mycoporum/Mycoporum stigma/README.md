@@ -1,5 +1,4 @@
-Mycoporum stigma (Körb.) Jatta SPECIES
-=======
+# Mycoporum stigma (Körb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

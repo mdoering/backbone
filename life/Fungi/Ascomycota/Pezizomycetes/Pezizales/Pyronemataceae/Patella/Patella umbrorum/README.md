@@ -1,5 +1,4 @@
-Patella umbrorum (Fr.) Seaver SPECIES
-=======
+# Patella umbrorum (Fr.) Seaver SPECIES
 
 #### Status
 ACCEPTED

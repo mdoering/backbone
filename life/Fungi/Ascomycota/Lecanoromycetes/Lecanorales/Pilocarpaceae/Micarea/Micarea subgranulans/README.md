@@ -1,5 +1,4 @@
-Micarea subgranulans (Vain.) Aptroot SPECIES
-=======
+# Micarea subgranulans (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatomma lineolatum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma lineolatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

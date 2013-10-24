@@ -1,5 +1,4 @@
-Uredo trichelliae SPECIES
-=======
+# Uredo trichelliae SPECIES
 
 #### Status
 ACCEPTED

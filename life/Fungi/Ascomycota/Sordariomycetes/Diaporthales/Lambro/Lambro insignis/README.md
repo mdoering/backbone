@@ -1,5 +1,4 @@
-Lambro insignis Racib., 1900 SPECIES
-=======
+# Lambro insignis Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

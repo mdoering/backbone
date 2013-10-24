@@ -1,5 +1,4 @@
-Uncinula himalayensis Y.S. Paul SPECIES
-=======
+# Uncinula himalayensis Y.S. Paul SPECIES
 
 #### Status
 ACCEPTED

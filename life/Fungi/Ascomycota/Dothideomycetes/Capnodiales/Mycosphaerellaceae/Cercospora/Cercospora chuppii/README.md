@@ -1,5 +1,4 @@
-Cercospora chuppii Viégas SPECIES
-=======
+# Cercospora chuppii Viégas SPECIES
 
 #### Status
 ACCEPTED

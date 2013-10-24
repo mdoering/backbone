@@ -1,5 +1,4 @@
-Parmotrema paracrinitum Elix SPECIES
-=======
+# Parmotrema paracrinitum Elix SPECIES
 
 #### Status
 ACCEPTED

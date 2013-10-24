@@ -1,5 +1,4 @@
-Hemisphaerium punctatum Anand-Prakash, 1972 SPECIES
-=======
+# Hemisphaerium punctatum Anand-Prakash, 1972 SPECIES
 
 #### Status
 ACCEPTED

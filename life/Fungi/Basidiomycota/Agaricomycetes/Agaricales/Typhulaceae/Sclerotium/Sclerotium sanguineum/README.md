@@ -1,5 +1,4 @@
-Sclerotium sanguineum Fr. SPECIES
-=======
+# Sclerotium sanguineum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cercospora calotropidis Ellis & Everh., 1898 SPECIES
-=======
+# Passalora calotropidis (Ellis & Everh.) U. Braun, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report of the Missouri botanical Garden 120 (1898)
+Schlechtendalia 5: 60 (2000)
 
 #### Original name
 Cercospora calotropidis Ellis & Everh., 1898

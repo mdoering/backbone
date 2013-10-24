@@ -1,5 +1,4 @@
-Strobilidiidae Kahl in Doflein & Reichenow, 1929 FAMILY
-=======
+# Strobilidiidae Kahl in Doflein & Reichenow, 1929 FAMILY
 
 #### Status
 ACCEPTED

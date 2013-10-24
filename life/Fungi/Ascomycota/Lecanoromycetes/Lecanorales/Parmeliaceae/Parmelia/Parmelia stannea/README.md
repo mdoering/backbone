@@ -1,5 +1,4 @@
-Parmelia stannea Fr. SPECIES
-=======
+# Parmelia stannea Fr. SPECIES
 
 #### Status
 ACCEPTED

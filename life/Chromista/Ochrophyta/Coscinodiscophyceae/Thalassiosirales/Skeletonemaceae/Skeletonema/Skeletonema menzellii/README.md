@@ -1,5 +1,4 @@
-Skeletonema menzellii Guillard, Carpenter & Reim SPECIES
-=======
+# Skeletonema menzellii Guillard, Carpenter & Reim SPECIES
 
 #### Status
 ACCEPTED

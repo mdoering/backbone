@@ -1,5 +1,4 @@
-Mycosphaerella mysorensis V.S. Seshadri SPECIES
-=======
+# Mycosphaerella mysorensis V.S. Seshadri SPECIES
 
 #### Status
 ACCEPTED

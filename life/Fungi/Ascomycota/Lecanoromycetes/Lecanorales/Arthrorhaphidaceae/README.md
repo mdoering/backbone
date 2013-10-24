@@ -1,5 +1,4 @@
-Arthrorhaphidaceae Poelt & Hafellner FAMILY
-=======
+# Arthrorhaphidaceae Poelt & Hafellner FAMILY
 
 #### Status
 ACCEPTED

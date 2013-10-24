@@ -1,5 +1,4 @@
-Galera callista Peck SPECIES
-=======
+# Galera callista Peck SPECIES
 
 #### Status
 ACCEPTED

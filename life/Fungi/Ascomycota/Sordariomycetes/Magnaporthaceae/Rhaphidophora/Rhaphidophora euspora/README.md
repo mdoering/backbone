@@ -1,5 +1,4 @@
-Rhaphidophora euspora Sacc. SPECIES
-=======
+# Rhaphidophora euspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

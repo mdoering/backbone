@@ -1,5 +1,4 @@
-Fomes nicaraguensis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Fomes nicaraguensis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

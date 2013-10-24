@@ -1,5 +1,4 @@
-Propolis pyrina Rehm SPECIES
-=======
+# Propolis pyrina Rehm SPECIES
 
 #### Status
 ACCEPTED

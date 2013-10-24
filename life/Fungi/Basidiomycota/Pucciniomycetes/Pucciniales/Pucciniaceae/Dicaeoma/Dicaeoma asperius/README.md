@@ -1,5 +1,4 @@
-Dicaeoma asperius (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma asperius (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

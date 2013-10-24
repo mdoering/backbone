@@ -1,5 +1,4 @@
-Lecidea macquariensis C.W. Dodge SPECIES
-=======
+# Lecidea macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

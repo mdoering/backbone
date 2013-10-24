@@ -1,5 +1,4 @@
-Phaeoramularia tinosporae Kamal, A.S. Moses & R. Chaudhary SPECIES
-=======
+# Phaeoramularia tinosporae Kamal, A.S. Moses & R. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

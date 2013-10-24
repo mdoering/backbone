@@ -1,5 +1,4 @@
-Peziza fasciculata Schrad. SPECIES
-=======
+# Peziza fasciculata Schrad. SPECIES
 
 #### Status
 ACCEPTED

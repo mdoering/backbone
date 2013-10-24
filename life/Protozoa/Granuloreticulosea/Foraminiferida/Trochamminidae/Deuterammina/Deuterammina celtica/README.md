@@ -1,5 +1,4 @@
-Deuterammina celtica Brönnimann & Whittaker, 1990 SPECIES
-=======
+# Deuterammina celtica Brönnimann & Whittaker, 1990 SPECIES
 
 #### Status
 ACCEPTED

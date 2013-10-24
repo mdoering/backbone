@@ -1,5 +1,4 @@
-Loweporus corticicola Corner SPECIES
-=======
+# Loweporus corticicola Corner SPECIES
 
 #### Status
 ACCEPTED

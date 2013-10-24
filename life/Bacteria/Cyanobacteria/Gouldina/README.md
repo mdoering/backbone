@@ -1,5 +1,4 @@
-Gouldina J.H. Johnson, 1940 GENUS
-=======
+# Gouldina J.H. Johnson, 1940 GENUS
 
 #### Status
 ACCEPTED

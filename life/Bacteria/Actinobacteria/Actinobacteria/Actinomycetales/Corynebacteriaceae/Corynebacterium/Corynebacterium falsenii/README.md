@@ -1,5 +1,4 @@
-Corynebacterium falsenii Sjödén et al., 1998 SPECIES
-=======
+# Corynebacterium falsenii Sjödén et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina rugosa Ach. SPECIES
-=======
+# Porina rugosa Ach. SPECIES
 
 #### Status
 ACCEPTED

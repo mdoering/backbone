@@ -1,5 +1,4 @@
-Phallus hiemalis Balb. SPECIES
-=======
+# Phallus hiemalis Balb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium pycnocarpoides Müll. Arg. SPECIES
-=======
+# Arthothelium pycnocarpoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

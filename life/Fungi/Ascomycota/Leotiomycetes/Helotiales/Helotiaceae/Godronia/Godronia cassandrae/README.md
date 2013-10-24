@@ -1,17 +1,16 @@
-Godronia cassandrae subf. cassandrae SUBFORM
-=======
+# Godronia cassandrae Peck, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 39: 50 (1887)
 
 #### Original name
-null
+Godronia cassandrae Peck, 1887
 
 ### Remarks
 null

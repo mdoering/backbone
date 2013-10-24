@@ -1,5 +1,4 @@
-Physopella vernoniae (T.S. Ramakr.) Ramachar & Bhagyan. SPECIES
-=======
+# Physopella vernoniae (T.S. Ramakr.) Ramachar & Bhagyan. SPECIES
 
 #### Status
 ACCEPTED

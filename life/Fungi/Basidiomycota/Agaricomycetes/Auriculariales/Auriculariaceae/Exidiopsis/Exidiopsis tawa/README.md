@@ -1,14 +1,13 @@
-Sebacina tawa McNabb, 1969 SPECIES
-=======
+# Exidiopsis tawa (McNabb) Wojewoda, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 7(3): 250 (1969)
+Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 118 (1981)
 
 #### Original name
 Sebacina tawa McNabb, 1969

@@ -1,5 +1,4 @@
-Valsa grisea Peck SPECIES
-=======
+# Valsa grisea Peck SPECIES
 
 #### Status
 ACCEPTED

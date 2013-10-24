@@ -1,5 +1,4 @@
-Entoloma atrosquamosum (Murrill) Hesler SPECIES
-=======
+# Entoloma atrosquamosum (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

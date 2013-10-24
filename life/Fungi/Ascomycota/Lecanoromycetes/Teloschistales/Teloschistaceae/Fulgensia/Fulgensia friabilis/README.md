@@ -1,5 +1,4 @@
-Fulgensia friabilis (Vill.) Trevis. SPECIES
-=======
+# Fulgensia friabilis (Vill.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

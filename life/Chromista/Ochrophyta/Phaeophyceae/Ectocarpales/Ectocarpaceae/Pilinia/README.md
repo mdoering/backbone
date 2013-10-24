@@ -1,5 +1,4 @@
-Pilinia Kuetzing, 1843 GENUS
-=======
+# Pilinia Kuetzing, 1843 GENUS
 
 #### Status
 ACCEPTED

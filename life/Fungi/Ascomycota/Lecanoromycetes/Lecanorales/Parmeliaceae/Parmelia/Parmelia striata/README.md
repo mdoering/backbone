@@ -1,5 +1,4 @@
-Parmelia striata (Duby) Fr. SPECIES
-=======
+# Parmelia striata (Duby) Fr. SPECIES
 
 #### Status
 ACCEPTED

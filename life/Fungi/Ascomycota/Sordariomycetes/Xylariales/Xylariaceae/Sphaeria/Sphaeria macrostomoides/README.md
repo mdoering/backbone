@@ -1,5 +1,4 @@
-Sphaeria macrostomoides De Not. SPECIES
-=======
+# Sphaeria macrostomoides De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lonicerae-maackii Miura SPECIES
-=======
+# Septoria lonicerae-maackii Miura SPECIES
 
 #### Status
 ACCEPTED

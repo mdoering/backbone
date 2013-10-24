@@ -1,5 +1,4 @@
-Aspicilia mediterranea B. de Lesd. SPECIES
-=======
+# Aspicilia mediterranea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

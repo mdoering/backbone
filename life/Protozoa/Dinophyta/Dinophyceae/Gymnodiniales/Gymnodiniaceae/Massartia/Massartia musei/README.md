@@ -1,5 +1,4 @@
-Massartia musei SPECIES
-=======
+# Massartia musei SPECIES
 
 #### Status
 ACCEPTED

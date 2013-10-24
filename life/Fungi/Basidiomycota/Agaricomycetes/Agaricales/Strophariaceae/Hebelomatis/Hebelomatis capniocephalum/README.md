@@ -1,5 +1,4 @@
-Hebelomatis capniocephalum (Fr.) Locq. SPECIES
-=======
+# Hebelomatis capniocephalum (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

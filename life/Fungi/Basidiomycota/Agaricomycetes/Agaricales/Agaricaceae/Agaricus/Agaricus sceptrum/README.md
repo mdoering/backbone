@@ -1,5 +1,4 @@
-Agaricus sceptrum Jungh. SPECIES
-=======
+# Agaricus sceptrum Jungh. SPECIES
 
 #### Status
 ACCEPTED

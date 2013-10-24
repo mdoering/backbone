@@ -1,8 +1,7 @@
-Tryblidium seriatum Fr. SPECIES
-=======
+# Triblidium seriatum Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium seriatum Fr.
+Triblidium seriatum Fr.
 
 ### Remarks
 null

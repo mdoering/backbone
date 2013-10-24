@@ -1,5 +1,4 @@
-Dactylofusa neahgae Cramer, 1970 ex Eisenack et al., 1973 SPECIES
-=======
+# Dactylofusa neahgae Cramer, 1970 ex Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

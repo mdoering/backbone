@@ -1,5 +1,4 @@
-Graphina heteroplacoides Redinger SPECIES
-=======
+# Graphina heteroplacoides Redinger SPECIES
 
 #### Status
 ACCEPTED

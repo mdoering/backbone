@@ -1,5 +1,4 @@
-Methanolinea Imachi et al., 2008 GENUS
-=======
+# Methanolinea Imachi et al., 2008 GENUS
 
 #### Status
 ACCEPTED

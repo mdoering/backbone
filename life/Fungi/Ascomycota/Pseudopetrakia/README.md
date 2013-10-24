@@ -1,5 +1,4 @@
-Pseudopetrakia M.B. Ellis GENUS
-=======
+# Pseudopetrakia M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

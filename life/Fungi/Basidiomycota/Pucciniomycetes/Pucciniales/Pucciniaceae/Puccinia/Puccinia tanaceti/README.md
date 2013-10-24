@@ -1,17 +1,16 @@
-Puccinia tanaceti var. tanaceti VARIETY
-=======
+# Puccinia tanaceti DC., 1805 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 222 (1805)
 
 #### Original name
-Puccinia tanaceti var. tanaceti
+Puccinia tanaceti DC., 1805
 
 ### Remarks
 null

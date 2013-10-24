@@ -1,14 +1,13 @@
-Simocybe gnapholopus (Berk. & Broome) Pegler SPECIES
-=======
+# Simocybe gnapholopoda (Berk. & Broome) Pegler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 12: 452 (1986)
 
 #### Original name
 Agaricus gnapholopus Berk. & Broome

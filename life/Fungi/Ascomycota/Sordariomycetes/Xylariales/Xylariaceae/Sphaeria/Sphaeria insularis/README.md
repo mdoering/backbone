@@ -1,5 +1,4 @@
-Sphaeria insularis Fuckel SPECIES
-=======
+# Sphaeria insularis Fuckel SPECIES
 
 #### Status
 ACCEPTED

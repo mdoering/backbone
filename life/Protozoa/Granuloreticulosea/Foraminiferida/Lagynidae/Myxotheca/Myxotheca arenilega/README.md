@@ -1,5 +1,4 @@
-Myxotheca arenilega Schaudin, 1893 SPECIES
-=======
+# Myxotheca arenilega Schaudin, 1893 SPECIES
 
 #### Status
 ACCEPTED

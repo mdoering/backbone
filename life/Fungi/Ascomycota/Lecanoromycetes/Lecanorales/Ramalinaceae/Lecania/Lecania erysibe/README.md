@@ -1,17 +1,16 @@
-Lecania erysibe var. erysibe VARIETY
-=======
+# Lecania erysibe (Ach.) Mudd SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Man. Brit. Lich. 141 (1861)
 
 #### Original name
-Lecania erysibe var. erysibe
+Lichen erysibe Ach.
 
 ### Remarks
 null

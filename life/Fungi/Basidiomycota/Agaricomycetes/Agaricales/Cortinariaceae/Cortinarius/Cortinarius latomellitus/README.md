@@ -1,5 +1,4 @@
-Cortinarius latomellitus Rob. Henry SPECIES
-=======
+# Cortinarius latomellitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina fallax var. fallax VARIETY
-=======
+# Porina fallax Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Porina fallax var. fallax
+Porina fallax Ach.
 
 ### Remarks
 null

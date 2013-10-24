@@ -1,5 +1,4 @@
-Septoria ekmaniana Petr. & Cif., 1932 SPECIES
-=======
+# Septoria ekmaniana Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

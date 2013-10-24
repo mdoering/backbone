@@ -1,5 +1,4 @@
-Lachnocladium quangense Henn. SPECIES
-=======
+# Lachnocladium quangense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusoma pini Hartig SPECIES
-=======
+# Fusoma pini Hartig SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lamproderma nigricapillitium Nann.-Bremek. & Bozonnet, 1989 SPECIES
-=======
+# Collaria nigricapillitia (Nann.-Bremek. & Bozonnet) Lado, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 19 (2001)
 
 #### Original name
-null
+Lamproderma nigricapillitium Nann.-Bremek. & Bozonnet, 1989
 
 ### Remarks
 null

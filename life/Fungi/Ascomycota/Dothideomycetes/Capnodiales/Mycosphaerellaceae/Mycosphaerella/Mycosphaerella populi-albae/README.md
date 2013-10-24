@@ -1,5 +1,4 @@
-Mycosphaerella populi-albae Tomilin SPECIES
-=======
+# Mycosphaerella populi-albae Tomilin SPECIES
 
 #### Status
 ACCEPTED

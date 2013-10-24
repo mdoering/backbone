@@ -1,5 +1,4 @@
-Armillaria rhodomala (Berk. & Broome) Sacc. SPECIES
-=======
+# Armillaria rhodomala (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

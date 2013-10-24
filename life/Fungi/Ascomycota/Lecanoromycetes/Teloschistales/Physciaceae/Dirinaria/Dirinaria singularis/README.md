@@ -1,5 +1,4 @@
-Dirinaria singularis (Hue) C.W. Dodge SPECIES
-=======
+# Dirinaria singularis (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

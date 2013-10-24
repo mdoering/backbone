@@ -1,5 +1,4 @@
-Astasia fritschii Pringsheim SPECIES
-=======
+# Astasia fritschii Pringsheim SPECIES
 
 #### Status
 ACCEPTED

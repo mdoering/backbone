@@ -1,5 +1,4 @@
-Caloplaca aerea Werner SPECIES
-=======
+# Caloplaca aerea Werner SPECIES
 
 #### Status
 ACCEPTED

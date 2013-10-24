@@ -1,5 +1,4 @@
-Diplodia diospyri (Schwein.) Sacc. & Traverso SPECIES
-=======
+# Diplodia diospyri (Schwein.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

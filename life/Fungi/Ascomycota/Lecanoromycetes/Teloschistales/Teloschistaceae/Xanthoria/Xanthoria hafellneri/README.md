@@ -1,5 +1,4 @@
-Xanthoria hafellneri S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria hafellneri S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

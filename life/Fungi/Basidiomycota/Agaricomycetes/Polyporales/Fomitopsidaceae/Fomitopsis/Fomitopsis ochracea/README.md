@@ -1,5 +1,4 @@
-Fomitopsis ochracea Ryvarden & Stokland SPECIES
-=======
+# Fomitopsis ochracea Ryvarden & Stokland SPECIES
 
 #### Status
 ACCEPTED

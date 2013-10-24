@@ -1,17 +1,16 @@
-Massariosphaeria scabrispora (Teng) Shoemaker & C.E. Babc., 1989 SPECIES
-=======
+# Kalmusia scabrispora (Teng) Kaz. Tanaka, Y. Harada & M.E. Barr, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 46(2): 110 (2005)
 
 #### Original name
-null
+Leptosphaeria scabrispora Teng, 1934
 
 ### Remarks
 null

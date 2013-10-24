@@ -1,5 +1,4 @@
-Licea albonigra Chassain, 1982 SPECIES
-=======
+# Licea albonigra Chassain, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila australis Murrill SPECIES
-=======
+# Drosophila australis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria bicuspidata (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Leptosphaeria bicuspidata (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

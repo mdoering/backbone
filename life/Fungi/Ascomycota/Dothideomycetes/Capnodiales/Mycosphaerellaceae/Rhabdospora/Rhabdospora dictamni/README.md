@@ -1,5 +1,4 @@
-Rhabdospora dictamni Hollós SPECIES
-=======
+# Rhabdospora dictamni Hollós SPECIES
 
 #### Status
 ACCEPTED

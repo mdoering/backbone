@@ -1,5 +1,4 @@
-Ramularia alkannae Osipian SPECIES
-=======
+# Ramularia alkannae Osipian SPECIES
 
 #### Status
 ACCEPTED

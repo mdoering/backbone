@@ -1,5 +1,4 @@
-Sphacelotheca panamensis Zundel & Dunlap SPECIES
-=======
+# Sphacelotheca panamensis Zundel & Dunlap SPECIES
 
 #### Status
 ACCEPTED

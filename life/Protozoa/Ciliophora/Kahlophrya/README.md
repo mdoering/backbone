@@ -1,5 +1,4 @@
-Kahlophrya Foissner, 2003 GENUS
-=======
+# Kahlophrya Foissner, 2003 GENUS
 
 #### Status
 ACCEPTED

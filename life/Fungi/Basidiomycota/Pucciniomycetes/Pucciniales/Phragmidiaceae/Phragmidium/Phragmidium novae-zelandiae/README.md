@@ -1,5 +1,4 @@
-Phragmidium novae-zelandiae G. Cunn., 1924 SPECIES
-=======
+# Phragmidium novae-zelandiae G. Cunn., 1924 SPECIES
 
 #### Status
 ACCEPTED

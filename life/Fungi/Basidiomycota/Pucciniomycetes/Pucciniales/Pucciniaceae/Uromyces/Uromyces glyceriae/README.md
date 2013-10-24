@@ -1,5 +1,4 @@
-Uromyces glyceriae Arthur SPECIES
-=======
+# Uromyces glyceriae Arthur SPECIES
 
 #### Status
 ACCEPTED

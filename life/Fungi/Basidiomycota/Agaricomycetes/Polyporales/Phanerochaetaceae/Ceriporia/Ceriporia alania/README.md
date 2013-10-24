@@ -1,5 +1,4 @@
-Ceriporia alania Gilb. & Hemmes, 2004 SPECIES
-=======
+# Ceriporia alania Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

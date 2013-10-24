@@ -1,5 +1,4 @@
-Peltomyces hyalinus L. Léger SPECIES
-=======
+# Peltomyces hyalinus L. Léger SPECIES
 
 #### Status
 ACCEPTED

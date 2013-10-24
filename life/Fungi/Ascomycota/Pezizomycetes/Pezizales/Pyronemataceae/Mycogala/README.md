@@ -1,5 +1,4 @@
-Mycogala GENUS
-=======
+# Mycogala GENUS
 
 #### Status
 ACCEPTED

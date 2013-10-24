@@ -1,5 +1,4 @@
-Oxytoxum globosum Schiller SPECIES
-=======
+# Oxytoxum globosum Schiller SPECIES
 
 #### Status
 ACCEPTED

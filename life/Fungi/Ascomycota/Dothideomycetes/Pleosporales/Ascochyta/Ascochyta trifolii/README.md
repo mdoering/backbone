@@ -1,5 +1,4 @@
-Ascochyta trifolii Siemaszko, 1914 SPECIES
-=======
+# Ascochyta trifolii Siemaszko, 1914 SPECIES
 
 #### Status
 ACCEPTED

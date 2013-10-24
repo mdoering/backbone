@@ -1,5 +1,4 @@
-Lembosia hymenaeae Bat. & Peres SPECIES
-=======
+# Lembosia hymenaeae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

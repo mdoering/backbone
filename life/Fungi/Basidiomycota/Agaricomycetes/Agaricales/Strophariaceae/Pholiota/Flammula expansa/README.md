@@ -1,5 +1,4 @@
-Flammula expansa Peck SPECIES
-=======
+# Flammula expansa Peck SPECIES
 
 #### Status
 ACCEPTED

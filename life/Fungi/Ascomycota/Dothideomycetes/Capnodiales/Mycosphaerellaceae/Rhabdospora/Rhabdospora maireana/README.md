@@ -1,5 +1,4 @@
-Rhabdospora maireana Sacc. & Trotter SPECIES
-=======
+# Rhabdospora maireana Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

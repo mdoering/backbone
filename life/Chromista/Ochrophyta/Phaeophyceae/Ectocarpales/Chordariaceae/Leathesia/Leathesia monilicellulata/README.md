@@ -1,5 +1,4 @@
-Leathesia monilicellulata Takamatsu SPECIES
-=======
+# Leathesia monilicellulata Takamatsu SPECIES
 
 #### Status
 ACCEPTED

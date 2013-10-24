@@ -1,5 +1,4 @@
-Agaricus minor J.F. Gmel. SPECIES
-=======
+# Agaricus minor J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fursenkoina squamosa SPECIES
-=======
+# Fursenkoina squamosa SPECIES
 
 #### Status
 ACCEPTED

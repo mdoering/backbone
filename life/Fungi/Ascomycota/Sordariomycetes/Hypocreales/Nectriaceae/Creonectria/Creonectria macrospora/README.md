@@ -1,5 +1,4 @@
-Creonectria macrospora Chardón SPECIES
-=======
+# Creonectria macrospora Chardón SPECIES
 
 #### Status
 ACCEPTED

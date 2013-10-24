@@ -1,5 +1,4 @@
-Ascochyta minima (P. Karst. & Har.) Arx SPECIES
-=======
+# Ascochyta minima (P. Karst. & Har.) Arx SPECIES
 
 #### Status
 ACCEPTED

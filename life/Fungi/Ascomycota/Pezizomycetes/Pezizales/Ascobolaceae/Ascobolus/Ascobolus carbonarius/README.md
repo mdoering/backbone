@@ -1,17 +1,16 @@
-Ascobolus atrofuscus var. atrofuscus VARIETY
-=======
+# Ascobolus carbonarius P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 2(no. 22): 186 (1874)
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 202 (1871)
 
 #### Original name
-Ascobolus atrofuscus var. atrofuscus
+Ascobolus carbonarius P. Karst., 1871
 
 ### Remarks
 null

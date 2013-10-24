@@ -1,5 +1,4 @@
-Physarum fulvipes Fr. SPECIES
-=======
+# Physarum fulvipes Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytoplea verrucispora Höhn. SPECIES
-=======
+# Cytoplea verrucispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus stilbocephalus Berk. & Broome SPECIES
-=======
+# Agaricus stilbocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salpingoeca vagnicola Zach Lemm SPECIES
-=======
+# Salpingoeca vagnicola Zach Lemm SPECIES
 
 #### Status
 ACCEPTED

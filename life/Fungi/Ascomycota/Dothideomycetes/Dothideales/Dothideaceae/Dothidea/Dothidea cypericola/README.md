@@ -1,5 +1,4 @@
-Dothidea cypericola Bleicher {?} & Fliche SPECIES
-=======
+# Dothidea cypericola Bleicher {?} & Fliche SPECIES
 
 #### Status
 ACCEPTED

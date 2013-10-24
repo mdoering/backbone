@@ -1,14 +1,13 @@
-Graphis junghuhnii Mont. & Bosch SPECIES
-=======
+# Diorygma junghuhnii (Mont. & Bosch) Kalb, Staiger & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 34(no. 1): 157 (2004)
 
 #### Original name
 Graphis junghuhnii Mont. & Bosch

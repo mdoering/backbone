@@ -1,5 +1,4 @@
-Geomyces auratus Traaen, 1914 SPECIES
-=======
+# Geomyces auratus Traaen, 1914 SPECIES
 
 #### Status
 ACCEPTED

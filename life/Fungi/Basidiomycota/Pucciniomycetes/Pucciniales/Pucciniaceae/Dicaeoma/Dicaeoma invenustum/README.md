@@ -1,5 +1,4 @@
-Dicaeoma invenustum (Syd.) Syd. SPECIES
-=======
+# Dicaeoma invenustum (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

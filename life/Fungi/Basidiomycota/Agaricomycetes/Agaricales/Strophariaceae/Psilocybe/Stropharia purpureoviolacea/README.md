@@ -1,5 +1,4 @@
-Stropharia purpureoviolacea Raithelh. SPECIES
-=======
+# Stropharia purpureoviolacea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

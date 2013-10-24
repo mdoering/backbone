@@ -1,5 +1,4 @@
-Ochrolechia mexicana Vain. SPECIES
-=======
+# Ochrolechia mexicana Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia lyei Vánky, 2004 SPECIES
-=======
+# Tilletia lyei Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

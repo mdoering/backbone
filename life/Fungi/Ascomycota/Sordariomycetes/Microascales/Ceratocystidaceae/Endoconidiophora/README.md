@@ -1,5 +1,4 @@
-Endoconidiophora GENUS
-=======
+# Endoconidiophora GENUS
 
 #### Status
 ACCEPTED

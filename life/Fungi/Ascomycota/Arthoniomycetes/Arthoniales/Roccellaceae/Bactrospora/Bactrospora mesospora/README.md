@@ -1,5 +1,4 @@
-Bactrospora mesospora R. C. Harris SPECIES
-=======
+# Bactrospora mesospora R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

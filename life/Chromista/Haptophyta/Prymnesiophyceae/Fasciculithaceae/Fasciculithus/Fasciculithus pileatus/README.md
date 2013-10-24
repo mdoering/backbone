@@ -1,8 +1,7 @@
-Fasciculithus merloti Pavsic, 1977 SPECIES
-=======
+# Fasciculithus pileatus Bukry, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

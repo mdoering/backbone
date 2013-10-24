@@ -1,5 +1,4 @@
-Exobasidium burtii Zeller SPECIES
-=======
+# Exobasidium burtii Zeller SPECIES
 
 #### Status
 ACCEPTED

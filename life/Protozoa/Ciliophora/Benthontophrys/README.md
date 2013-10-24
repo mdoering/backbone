@@ -1,5 +1,4 @@
-Benthontophrys GENUS
-=======
+# Benthontophrys GENUS
 
 #### Status
 ACCEPTED

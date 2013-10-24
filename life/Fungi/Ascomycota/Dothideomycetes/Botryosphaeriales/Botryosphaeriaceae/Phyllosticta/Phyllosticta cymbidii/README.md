@@ -1,5 +1,4 @@
-Phyllosticta cymbidii Sawada SPECIES
-=======
+# Phyllosticta cymbidii Sawada SPECIES
 
 #### Status
 ACCEPTED

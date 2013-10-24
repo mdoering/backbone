@@ -1,17 +1,16 @@
-Inocybe exiguispora Alessio, 1987 SPECIES
-=======
+# Inocybe glabripes Ricken, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micol. Ital. 16(3): 101 (1987)
+Die Blätterpilze 107 (1915)
 
 #### Original name
-Inocybe parvispora Alessio, 1980
+Inocybe glabripes Ricken, 1915
 
 ### Remarks
 null

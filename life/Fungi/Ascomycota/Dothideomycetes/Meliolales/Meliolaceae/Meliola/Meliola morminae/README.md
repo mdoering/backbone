@@ -1,5 +1,4 @@
-Meliola morminae (F. Stevens) Cif. SPECIES
-=======
+# Meliola morminae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

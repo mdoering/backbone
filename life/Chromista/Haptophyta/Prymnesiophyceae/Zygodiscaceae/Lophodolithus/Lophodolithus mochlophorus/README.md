@@ -1,8 +1,7 @@
-Lophodolithus mochloporus Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Lophodolithus mochlophorus Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

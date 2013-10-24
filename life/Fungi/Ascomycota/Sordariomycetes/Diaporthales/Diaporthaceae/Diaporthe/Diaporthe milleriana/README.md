@@ -1,5 +1,4 @@
-Diaporthe milleriana Syd. SPECIES
-=======
+# Diaporthe milleriana Syd. SPECIES
 
 #### Status
 ACCEPTED

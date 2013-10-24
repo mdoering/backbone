@@ -1,5 +1,4 @@
-Fusarium glandicola Allesch. SPECIES
-=======
+# Fusarium glandicola Allesch. SPECIES
 
 #### Status
 ACCEPTED

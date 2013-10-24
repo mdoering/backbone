@@ -1,5 +1,4 @@
-Lycoperdodes tinctorium (Raf.) Kuntze SPECIES
-=======
+# Lycoperdodes tinctorium (Raf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

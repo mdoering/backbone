@@ -1,5 +1,4 @@
-Prospodium amphilophii (Dietel & Holw.) Arthur SPECIES
-=======
+# Prospodium amphilophii (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

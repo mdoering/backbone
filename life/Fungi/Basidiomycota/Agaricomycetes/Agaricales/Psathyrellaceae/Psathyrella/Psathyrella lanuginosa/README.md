@@ -1,5 +1,4 @@
-Psathyrella lanuginosa A.H. Sm. SPECIES
-=======
+# Psathyrella lanuginosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

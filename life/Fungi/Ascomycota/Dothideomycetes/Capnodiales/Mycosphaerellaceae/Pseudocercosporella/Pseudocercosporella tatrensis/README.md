@@ -1,5 +1,4 @@
-Pseudocercosporella tatrensis Mulenko & Bacigálová SPECIES
-=======
+# Pseudocercosporella tatrensis Mulenko & Bacigálová SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thialkalimicrobium cyclicum SPECIES
-=======
+# Thialkalimicrobium cyclicum SPECIES
 
 #### Status
 ACCEPTED

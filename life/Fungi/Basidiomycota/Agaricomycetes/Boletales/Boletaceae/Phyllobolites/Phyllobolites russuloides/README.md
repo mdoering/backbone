@@ -1,5 +1,4 @@
-Phyllobolites russuloides (Petch) Singer SPECIES
-=======
+# Phyllobolites russuloides (Petch) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon pervirescens (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon pervirescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

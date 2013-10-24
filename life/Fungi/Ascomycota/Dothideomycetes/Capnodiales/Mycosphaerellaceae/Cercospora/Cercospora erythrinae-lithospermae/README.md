@@ -1,5 +1,4 @@
-Cercospora erythrinae-lithospermae Agnihothr. SPECIES
-=======
+# Cercospora erythrinae-lithospermae Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

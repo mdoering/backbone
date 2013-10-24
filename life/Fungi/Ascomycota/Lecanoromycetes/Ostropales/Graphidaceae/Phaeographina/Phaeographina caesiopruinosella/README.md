@@ -1,5 +1,4 @@
-Phaeographina caesiopruinosella Fink SPECIES
-=======
+# Phaeographina caesiopruinosella Fink SPECIES
 
 #### Status
 ACCEPTED

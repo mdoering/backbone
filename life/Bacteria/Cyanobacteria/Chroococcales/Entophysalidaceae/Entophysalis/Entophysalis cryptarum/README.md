@@ -1,5 +1,4 @@
-Entophysalis cryptarum (Farlow) Drouet SPECIES
-=======
+# Entophysalis cryptarum (Farlow) Drouet SPECIES
 
 #### Status
 ACCEPTED

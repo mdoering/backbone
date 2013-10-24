@@ -1,5 +1,4 @@
-Squamaria albomarginata SPECIES
-=======
+# Squamaria albomarginata SPECIES
 
 #### Status
 ACCEPTED

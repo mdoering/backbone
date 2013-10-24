@@ -1,5 +1,4 @@
-Lecanora thysanota (Tuck.) G. Merr. SPECIES
-=======
+# Lecanora thysanota (Tuck.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

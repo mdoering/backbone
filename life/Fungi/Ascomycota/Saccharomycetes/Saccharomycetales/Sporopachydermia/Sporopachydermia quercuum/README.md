@@ -1,5 +1,4 @@
-Sporopachydermia quercuum Lachance, 1982 SPECIES
-=======
+# Sporopachydermia quercuum Lachance, 1982 SPECIES
 
 #### Status
 ACCEPTED

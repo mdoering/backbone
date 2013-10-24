@@ -1,5 +1,4 @@
-Armillaria dehiscens (Viv.) Sacc. SPECIES
-=======
+# Armillaria dehiscens (Viv.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillochloris trichoides (ex Szafer) Gorlenko & Korotkov, 1989 SPECIES
-=======
+# Oscillochloris trichoides (ex Szafer) Gorlenko & Korotkov, 1989 SPECIES
 
 #### Status
 ACCEPTED

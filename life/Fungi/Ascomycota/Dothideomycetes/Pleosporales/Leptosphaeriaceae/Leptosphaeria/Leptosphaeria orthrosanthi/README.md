@@ -1,5 +1,4 @@
-Leptosphaeria orthrosanthi E. Müll. SPECIES
-=======
+# Leptosphaeria orthrosanthi E. Müll. SPECIES
 
 #### Status
 ACCEPTED

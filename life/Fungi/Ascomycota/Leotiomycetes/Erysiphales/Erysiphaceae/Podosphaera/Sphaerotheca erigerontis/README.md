@@ -1,5 +1,4 @@
-Sphaerotheca erigerontis Oudem. SPECIES
-=======
+# Sphaerotheca erigerontis Oudem. SPECIES
 
 #### Status
 ACCEPTED

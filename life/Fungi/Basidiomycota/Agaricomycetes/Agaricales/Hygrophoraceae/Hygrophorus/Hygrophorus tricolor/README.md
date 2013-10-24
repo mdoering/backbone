@@ -1,5 +1,4 @@
-Hygrophorus tricolor Berk. & Broome SPECIES
-=======
+# Hygrophorus tricolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

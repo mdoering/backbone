@@ -1,5 +1,4 @@
-Sphaeria gossypii Schwein. SPECIES
-=======
+# Sphaeria gossypii Schwein. SPECIES
 
 #### Status
 ACCEPTED

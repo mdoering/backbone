@@ -1,5 +1,4 @@
-Hippoperdon sorokinii De Toni SPECIES
-=======
+# Hippoperdon sorokinii De Toni SPECIES
 
 #### Status
 ACCEPTED

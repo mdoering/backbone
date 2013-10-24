@@ -1,5 +1,4 @@
-Cycloforina Luczkowska, 1972 GENUS
-=======
+# Cycloforina Luczkowska, 1972 GENUS
 
 #### Status
 ACCEPTED

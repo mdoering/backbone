@@ -1,5 +1,4 @@
-Dothichiza coronillae Höhn. SPECIES
-=======
+# Dothichiza coronillae Höhn. SPECIES
 
 #### Status
 ACCEPTED

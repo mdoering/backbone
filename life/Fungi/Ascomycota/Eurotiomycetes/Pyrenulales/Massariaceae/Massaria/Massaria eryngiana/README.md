@@ -1,5 +1,4 @@
-Massaria eryngiana Delacr. SPECIES
-=======
+# Massaria eryngiana Delacr. SPECIES
 
 #### Status
 ACCEPTED

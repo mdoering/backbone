@@ -1,5 +1,4 @@
-Bulbothrix microscopica Elix SPECIES
-=======
+# Bulbothrix microscopica Elix SPECIES
 
 #### Status
 ACCEPTED

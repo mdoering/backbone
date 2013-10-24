@@ -1,5 +1,4 @@
-Lecanora subtuberculosa Zahlbr. SPECIES
-=======
+# Lecanora subtuberculosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina pyrrhochroa (Mont. & Bosch) Zahlbr. SPECIES
-=======
+# Phaeographina pyrrhochroa (Mont. & Bosch) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

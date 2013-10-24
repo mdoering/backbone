@@ -1,5 +1,4 @@
-Oscillatoria corralinae Gomont SPECIES
-=======
+# Oscillatoria corralinae Gomont SPECIES
 
 #### Status
 ACCEPTED

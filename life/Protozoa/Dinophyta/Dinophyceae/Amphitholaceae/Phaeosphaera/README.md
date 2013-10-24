@@ -1,5 +1,4 @@
-Phaeosphaera Poche, 1913 GENUS
-=======
+# Phaeosphaera Poche, 1913 GENUS
 
 #### Status
 ACCEPTED

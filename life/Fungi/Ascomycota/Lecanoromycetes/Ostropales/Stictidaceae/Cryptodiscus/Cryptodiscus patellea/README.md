@@ -1,5 +1,4 @@
-Cryptodiscus patellea (Cooke) Sacc. SPECIES
-=======
+# Cryptodiscus patellea (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

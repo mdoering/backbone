@@ -1,5 +1,4 @@
-Flavoparmelia diffractaica Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia diffractaica Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo schweinfurthii Henn. SPECIES
-=======
+# Uredo schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

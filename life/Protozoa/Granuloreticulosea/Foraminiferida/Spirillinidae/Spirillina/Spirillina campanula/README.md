@@ -1,5 +1,4 @@
-Spirillina campanula Heron-Allen & Earland, 1924 SPECIES
-=======
+# Spirillina campanula Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

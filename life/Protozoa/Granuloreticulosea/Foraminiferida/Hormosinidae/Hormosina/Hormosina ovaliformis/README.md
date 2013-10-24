@@ -1,5 +1,4 @@
-Hormosina ovaliformis Cushman, 1910 SPECIES
-=======
+# Hormosina ovaliformis Cushman, 1910 SPECIES
 
 #### Status
 ACCEPTED

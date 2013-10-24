@@ -1,5 +1,4 @@
-Uromyces amygdali Pass. SPECIES
-=======
+# Uromyces amygdali Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria translucens G. Winter SPECIES
-=======
+# Leptosphaeria translucens G. Winter SPECIES
 
 #### Status
 ACCEPTED

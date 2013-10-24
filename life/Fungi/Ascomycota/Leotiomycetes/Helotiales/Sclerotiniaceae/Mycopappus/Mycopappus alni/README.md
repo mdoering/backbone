@@ -1,14 +1,13 @@
-Cercosporella alni Dearn. & Barthol., 1917 SPECIES
-=======
+# Mycopappus alni (Dearn. & Barthol.) Redhead & G.P. White, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dearness, Mycologia 9(6): 362 (1917)
+Can. J. Bot. 63(8): 1430 (1985)
 
 #### Original name
 Cercosporella alni Dearn. & Barthol., 1917

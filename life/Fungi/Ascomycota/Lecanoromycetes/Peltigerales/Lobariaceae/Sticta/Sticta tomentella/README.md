@@ -1,5 +1,4 @@
-Sticta tomentella Nyl. SPECIES
-=======
+# Sticta tomentella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma lepachydis Cif. SPECIES
-=======
+# Entyloma lepachydis Cif. SPECIES
 
 #### Status
 ACCEPTED

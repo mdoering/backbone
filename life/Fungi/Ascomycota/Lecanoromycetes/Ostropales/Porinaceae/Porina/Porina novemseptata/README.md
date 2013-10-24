@@ -1,5 +1,4 @@
-Porina novemseptata Vain. SPECIES
-=======
+# Porina novemseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

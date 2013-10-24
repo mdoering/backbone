@@ -1,5 +1,4 @@
-Barlaea alba Velen. SPECIES
-=======
+# Barlaea alba Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithocyclia Ehrenberg, 1847 GENUS
-=======
+# Lithocyclia Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

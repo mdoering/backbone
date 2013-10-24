@@ -1,5 +1,4 @@
-Mycena filipes Raithelh. SPECIES
-=======
+# Mycena filipes Raithelh. SPECIES
 
 #### Status
 ACCEPTED

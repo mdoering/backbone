@@ -1,5 +1,4 @@
-Aurosphaeria flaviradians Sun J. Lee, Strobel, Eisenman, Geary, Vargas & S.A. Strobel SPECIES
-=======
+# Aurosphaeria flaviradians Sun J. Lee, Strobel, Eisenman, Geary, Vargas & S.A. Strobel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poetschia andicola (Speg.) Hafellner SPECIES
-=======
+# Poetschia andicola (Speg.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe papillata Gillet SPECIES
-=======
+# Clitocybe papillata Gillet SPECIES
 
 #### Status
 ACCEPTED

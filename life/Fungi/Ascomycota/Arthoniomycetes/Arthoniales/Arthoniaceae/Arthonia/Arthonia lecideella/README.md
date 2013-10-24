@@ -1,5 +1,4 @@
-Arthonia lecideella Nyl. SPECIES
-=======
+# Arthonia lecideella Nyl. SPECIES
 
 #### Status
 ACCEPTED

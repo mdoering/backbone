@@ -1,5 +1,4 @@
-Sclerotium globuliferum Davis SPECIES
-=======
+# Sclerotium globuliferum Davis SPECIES
 
 #### Status
 ACCEPTED

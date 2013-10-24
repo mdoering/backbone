@@ -1,5 +1,4 @@
-Stygamoeba polymorpha Sawyer, 1975 SPECIES
-=======
+# Stygamoeba polymorpha Sawyer, 1975 SPECIES
 
 #### Status
 ACCEPTED

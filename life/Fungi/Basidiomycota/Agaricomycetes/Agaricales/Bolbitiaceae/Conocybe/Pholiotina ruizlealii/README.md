@@ -1,5 +1,4 @@
-Pholiotina ruizlealii Singer SPECIES
-=======
+# Pholiotina ruizlealii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microstroma sanguinariae (Ellis & Everh.) W.B. Cooke SPECIES
-=======
+# Microstroma sanguinariae (Ellis & Everh.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

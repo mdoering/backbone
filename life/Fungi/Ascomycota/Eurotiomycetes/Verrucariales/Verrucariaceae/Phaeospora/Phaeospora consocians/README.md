@@ -1,5 +1,4 @@
-Phaeospora consocians (Nyl.) Vouaux SPECIES
-=======
+# Phaeospora consocians (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

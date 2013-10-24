@@ -1,5 +1,4 @@
-Sordaria grisea Ces. SPECIES
-=======
+# Sordaria grisea Ces. SPECIES
 
 #### Status
 ACCEPTED

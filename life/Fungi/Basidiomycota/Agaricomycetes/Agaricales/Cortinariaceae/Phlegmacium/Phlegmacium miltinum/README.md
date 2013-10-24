@@ -1,5 +1,4 @@
-Phlegmacium miltinum (Fr.) M.M. Moser SPECIES
-=======
+# Phlegmacium miltinum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

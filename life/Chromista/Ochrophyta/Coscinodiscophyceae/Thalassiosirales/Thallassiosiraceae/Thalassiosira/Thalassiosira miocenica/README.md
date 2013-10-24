@@ -1,5 +1,4 @@
-Thalassiosira miocenica H. J. Schrader SPECIES
-=======
+# Thalassiosira miocenica H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

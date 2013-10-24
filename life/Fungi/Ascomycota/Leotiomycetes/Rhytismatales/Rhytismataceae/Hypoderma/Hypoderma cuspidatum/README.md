@@ -1,5 +1,4 @@
-Hypoderma cuspidatum C.L. Hou & M. Piepenbr., 2006 SPECIES
-=======
+# Hypoderma cuspidatum C.L. Hou & M. Piepenbr., 2006 SPECIES
 
 #### Status
 ACCEPTED

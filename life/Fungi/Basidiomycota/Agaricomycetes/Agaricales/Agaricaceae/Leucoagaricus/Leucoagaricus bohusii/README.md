@@ -1,5 +1,4 @@
-Leucoagaricus bohusii (Wasser) Bon SPECIES
-=======
+# Leucoagaricus bohusii (Wasser) Bon SPECIES
 
 #### Status
 ACCEPTED

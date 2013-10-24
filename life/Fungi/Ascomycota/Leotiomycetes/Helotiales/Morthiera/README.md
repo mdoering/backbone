@@ -1,5 +1,4 @@
-Morthiera GENUS
-=======
+# Morthiera GENUS
 
 #### Status
 ACCEPTED

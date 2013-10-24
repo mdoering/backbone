@@ -1,5 +1,4 @@
-Placopsis subparellina Nyl. SPECIES
-=======
+# Placopsis subparellina Nyl. SPECIES
 
 #### Status
 ACCEPTED

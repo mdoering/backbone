@@ -1,5 +1,4 @@
-Dictyoarthrinopsis Batista & Ciferri, 1958 GENUS
-=======
+# Dictyoarthrinopsis Batista & Ciferri, 1958 GENUS
 
 #### Status
 ACCEPTED

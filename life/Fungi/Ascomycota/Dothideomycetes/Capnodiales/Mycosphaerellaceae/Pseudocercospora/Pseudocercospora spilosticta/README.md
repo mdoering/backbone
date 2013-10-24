@@ -1,5 +1,4 @@
-Pseudocercospora spilosticta (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora spilosticta (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

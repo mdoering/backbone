@@ -1,5 +1,4 @@
-Uromyces aconiti Fuckel, 1884 SPECIES
-=======
+# Uromyces aconiti Fuckel, 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus pseudoscaber Secr. ex A.H. Sm. & Thiers SPECIES
-=======
+# Tylopilus pseudoscaber Secr. ex A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

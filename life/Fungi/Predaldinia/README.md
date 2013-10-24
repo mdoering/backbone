@@ -1,5 +1,4 @@
-Predaldinia P. Briot, Lar.-Coll. & Locq. GENUS
-=======
+# Predaldinia P. Briot, Lar.-Coll. & Locq. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilia platensis Peruch. SPECIES
-=======
+# Monilia platensis Peruch. SPECIES
 
 #### Status
 ACCEPTED

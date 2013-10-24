@@ -1,5 +1,4 @@
-Cyclagelosphaera tubulata SPECIES
-=======
+# Cyclagelosphaera tubulata SPECIES
 
 #### Status
 ACCEPTED

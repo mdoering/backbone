@@ -1,5 +1,4 @@
-Thyridium cacheutense Speg. SPECIES
-=======
+# Thyridium cacheutense Speg. SPECIES
 
 #### Status
 ACCEPTED

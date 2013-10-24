@@ -1,5 +1,4 @@
-Endospiroplectammina Lipina, 1970 GENUS
-=======
+# Endospiroplectammina Lipina, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe albidolamellata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe albidolamellata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

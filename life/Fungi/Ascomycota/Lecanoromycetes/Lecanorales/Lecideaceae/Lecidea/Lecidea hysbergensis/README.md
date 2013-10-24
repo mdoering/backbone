@@ -1,5 +1,4 @@
-Lecidea hysbergensis Vain. SPECIES
-=======
+# Lecidea hysbergensis Vain. SPECIES
 
 #### Status
 ACCEPTED

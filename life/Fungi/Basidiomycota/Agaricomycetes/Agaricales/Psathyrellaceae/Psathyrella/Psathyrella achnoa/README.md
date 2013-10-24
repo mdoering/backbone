@@ -1,5 +1,4 @@
-Psathyrella achnoa Berk. & Broome SPECIES
-=======
+# Psathyrella achnoa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

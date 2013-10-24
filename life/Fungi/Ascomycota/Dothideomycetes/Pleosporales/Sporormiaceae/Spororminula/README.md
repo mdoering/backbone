@@ -1,5 +1,4 @@
-Spororminula Arx & Aa GENUS
-=======
+# Spororminula Arx & Aa GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia pyrrhuliza Nyl. SPECIES
-=======
+# Arthonia pyrrhuliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

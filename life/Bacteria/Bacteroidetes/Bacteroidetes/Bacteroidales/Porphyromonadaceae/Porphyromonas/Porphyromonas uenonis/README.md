@@ -1,5 +1,4 @@
-Porphyromonas uenonis Finegold et al., 2005 SPECIES
-=======
+# Porphyromonas uenonis Finegold et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

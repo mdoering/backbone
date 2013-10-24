@@ -1,5 +1,4 @@
-Terfezia hispanica Lázaro Ibiza SPECIES
-=======
+# Terfezia hispanica Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia zopfii Vain. SPECIES
-=======
+# Cladonia zopfii Vain. SPECIES
 
 #### Status
 ACCEPTED

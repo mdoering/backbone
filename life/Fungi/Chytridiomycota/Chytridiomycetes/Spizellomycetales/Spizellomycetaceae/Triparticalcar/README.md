@@ -1,5 +1,4 @@
-Triparticalcar D.J.S. Barr GENUS
-=======
+# Triparticalcar D.J.S. Barr GENUS
 
 #### Status
 ACCEPTED

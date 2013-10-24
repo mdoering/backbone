@@ -1,5 +1,4 @@
-Umbilicosphaera Lohmann, 1902 GENUS
-=======
+# Umbilicosphaera Lohmann, 1902 GENUS
 
 #### Status
 ACCEPTED

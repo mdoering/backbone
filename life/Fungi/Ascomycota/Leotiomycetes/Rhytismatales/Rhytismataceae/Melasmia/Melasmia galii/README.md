@@ -1,5 +1,4 @@
-Melasmia galii Ellis & Everh. SPECIES
-=======
+# Melasmia galii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

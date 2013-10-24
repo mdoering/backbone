@@ -1,5 +1,4 @@
-Discacineta Jankowski, 1981 GENUS
-=======
+# Discacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

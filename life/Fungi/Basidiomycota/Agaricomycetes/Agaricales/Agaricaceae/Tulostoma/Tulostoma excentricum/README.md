@@ -1,5 +1,4 @@
-Tulostoma excentricum Long SPECIES
-=======
+# Tulostoma excentricum Long SPECIES
 
 #### Status
 ACCEPTED

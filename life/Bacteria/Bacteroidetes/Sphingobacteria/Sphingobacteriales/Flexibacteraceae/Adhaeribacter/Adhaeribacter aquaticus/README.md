@@ -1,5 +1,4 @@
-Adhaeribacter aquaticus Rickard et al., 2005 SPECIES
-=======
+# Adhaeribacter aquaticus Rickard et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

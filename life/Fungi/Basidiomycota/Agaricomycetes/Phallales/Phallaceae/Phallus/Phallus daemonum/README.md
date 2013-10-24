@@ -1,5 +1,4 @@
-Phallus daemonum Rumph. SPECIES
-=======
+# Phallus daemonum Rumph. SPECIES
 
 #### Status
 ACCEPTED

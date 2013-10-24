@@ -1,5 +1,4 @@
-Phialoscypha lachnobrachyoides Raitv. SPECIES
-=======
+# Phialoscypha lachnobrachyoides Raitv. SPECIES
 
 #### Status
 ACCEPTED

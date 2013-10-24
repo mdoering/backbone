@@ -1,5 +1,4 @@
-Chaenotheca australis Tibell SPECIES
-=======
+# Chaenotheca australis Tibell SPECIES
 
 #### Status
 ACCEPTED

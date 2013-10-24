@@ -1,5 +1,4 @@
-Pseudomonas mosselii Dabboussi et al., 2002 SPECIES
-=======
+# Pseudomonas mosselii Dabboussi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

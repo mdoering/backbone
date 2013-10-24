@@ -1,5 +1,4 @@
-Heptameria elegans Rehm & Thüm., 1879 SPECIES
-=======
+# Heptameria elegans Rehm & Thüm., 1879 SPECIES
 
 #### Status
 ACCEPTED

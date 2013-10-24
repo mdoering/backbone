@@ -1,5 +1,4 @@
-Rivularia verticillata (Withering) J. E. Smith SPECIES
-=======
+# Rivularia verticillata (Withering) J. E. Smith SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patinella jecorina (Berk.) Cooke SPECIES
-=======
+# Patinella jecorina (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

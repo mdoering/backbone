@@ -1,5 +1,4 @@
-Platystomum chamaeropsis Maire SPECIES
-=======
+# Platystomum chamaeropsis Maire SPECIES
 
 #### Status
 ACCEPTED

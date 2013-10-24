@@ -1,5 +1,4 @@
-Hypholoma subviride (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Hypholoma subviride (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

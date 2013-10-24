@@ -1,8 +1,7 @@
-Sporidesmium corticolum P. Karst. SPECIES
-=======
+# Sporidesmium corticola P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporidesmium corticolum P. Karst.
+Sporidesmium corticola P. Karst.
 
 ### Remarks
 null

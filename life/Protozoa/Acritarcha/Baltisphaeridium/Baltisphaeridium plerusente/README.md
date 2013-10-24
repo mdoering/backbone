@@ -1,5 +1,4 @@
-Baltisphaeridium plerusente Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Baltisphaeridium plerusente Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

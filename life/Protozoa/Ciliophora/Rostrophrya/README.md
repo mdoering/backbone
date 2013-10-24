@@ -1,5 +1,4 @@
-Rostrophrya Foissner, 1993 GENUS
-=======
+# Rostrophrya Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

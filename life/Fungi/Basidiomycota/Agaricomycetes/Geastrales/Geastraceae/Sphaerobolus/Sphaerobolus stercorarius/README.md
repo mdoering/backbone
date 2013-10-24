@@ -1,5 +1,4 @@
-Sphaerobolus stercorarius Fr. & Nordholm SPECIES
-=======
+# Sphaerobolus stercorarius Fr. & Nordholm SPECIES
 
 #### Status
 ACCEPTED

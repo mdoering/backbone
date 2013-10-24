@@ -1,14 +1,13 @@
-Parmelia pseudohypoleia Elix SPECIES
-=======
+# Xanthoparmelia pseudohypoleia (Elix) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 24: 667 (1976)
+in Elix, Johnston & Armstrong, Bull. Br. Mus. nat. Hist. , Bot. 15(3): 311 (1986)
 
 #### Original name
 Parmelia pseudohypoleia Elix

@@ -1,5 +1,4 @@
-Clitopilopsis blancii (Maire) Konrad & Maubl. SPECIES
-=======
+# Clitopilopsis blancii (Maire) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

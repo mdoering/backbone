@@ -1,8 +1,7 @@
-Florilus asterizans (Fichtel & Moll, 1798) SPECIES
-=======
+# Nonion asterizans (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

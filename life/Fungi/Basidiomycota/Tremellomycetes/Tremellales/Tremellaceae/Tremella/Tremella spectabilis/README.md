@@ -1,5 +1,4 @@
-Tremella spectabilis Möller SPECIES
-=======
+# Tremella spectabilis Möller SPECIES
 
 #### Status
 ACCEPTED

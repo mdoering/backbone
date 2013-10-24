@@ -1,5 +1,4 @@
-Lecanora badionigrata Motyka SPECIES
-=======
+# Lecanora badionigrata Motyka SPECIES
 
 #### Status
 ACCEPTED

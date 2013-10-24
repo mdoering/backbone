@@ -1,5 +1,4 @@
-Cladosporium orchidearum Cooke & Massee, 1888 SPECIES
-=======
+# Cladosporium orchidearum Cooke & Massee, 1888 SPECIES
 
 #### Status
 ACCEPTED

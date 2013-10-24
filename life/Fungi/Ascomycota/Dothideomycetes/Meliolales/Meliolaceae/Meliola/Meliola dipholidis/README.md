@@ -1,5 +1,4 @@
-Meliola dipholidis F. Stevens SPECIES
-=======
+# Meliola dipholidis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria cacaina Velen. SPECIES
-=======
+# Naucoria cacaina Velen. SPECIES
 
 #### Status
 ACCEPTED

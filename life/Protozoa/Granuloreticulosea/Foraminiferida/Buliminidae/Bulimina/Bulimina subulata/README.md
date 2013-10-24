@@ -1,5 +1,4 @@
-Bulimina subulata Cushman & Parker, 1947 SPECIES
-=======
+# Bulimina subulata Cushman & Parker, 1947 SPECIES
 
 #### Status
 ACCEPTED

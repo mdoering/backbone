@@ -1,5 +1,4 @@
-Melaspilea maculans (Arnold) H. Olivier SPECIES
-=======
+# Melaspilea maculans (Arnold) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

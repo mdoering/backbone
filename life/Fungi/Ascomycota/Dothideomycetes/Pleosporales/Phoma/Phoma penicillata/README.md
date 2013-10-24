@@ -1,5 +1,4 @@
-Phoma penicillata Fuckel SPECIES
-=======
+# Phoma penicillata Fuckel SPECIES
 
 #### Status
 ACCEPTED

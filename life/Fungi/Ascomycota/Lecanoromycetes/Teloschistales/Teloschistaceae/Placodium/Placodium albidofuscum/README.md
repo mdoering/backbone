@@ -1,5 +1,4 @@
-Placodium albidofuscum (Nyl.) Vain. SPECIES
-=======
+# Placodium albidofuscum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

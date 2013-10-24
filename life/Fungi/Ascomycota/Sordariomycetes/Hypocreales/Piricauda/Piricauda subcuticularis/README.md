@@ -1,5 +1,4 @@
-Piricauda subcuticularis (McAlpine) R.T. Moore SPECIES
-=======
+# Piricauda subcuticularis (McAlpine) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

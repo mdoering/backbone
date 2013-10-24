@@ -1,5 +1,4 @@
-Psathyrellaceae Vilgalys, Moncalvo & Redhead FAMILY
-=======
+# Psathyrellaceae Vilgalys, Moncalvo & Redhead FAMILY
 
 #### Status
 ACCEPTED

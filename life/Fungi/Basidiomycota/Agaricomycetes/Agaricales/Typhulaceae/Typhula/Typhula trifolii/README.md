@@ -1,5 +1,4 @@
-Typhula trifolii Rostr., 1890 SPECIES
-=======
+# Typhula trifolii Rostr., 1890 SPECIES
 
 #### Status
 ACCEPTED

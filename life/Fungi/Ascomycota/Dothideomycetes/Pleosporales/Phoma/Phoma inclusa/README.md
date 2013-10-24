@@ -1,5 +1,4 @@
-Phoma inclusa Höhn. SPECIES
-=======
+# Phoma inclusa Höhn. SPECIES
 
 #### Status
 ACCEPTED

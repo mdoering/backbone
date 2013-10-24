@@ -1,5 +1,4 @@
-Cercidospora hypophloea (Pass.) Kuntze SPECIES
-=======
+# Cercidospora hypophloea (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

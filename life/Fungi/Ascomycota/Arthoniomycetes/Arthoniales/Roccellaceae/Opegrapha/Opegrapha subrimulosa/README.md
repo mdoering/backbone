@@ -1,5 +1,4 @@
-Opegrapha subrimulosa var. subrimulosa VARIETY
-=======
+# Opegrapha subrimulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 49: 293 (1866)
 
 #### Original name
-Opegrapha subrimulosa var. subrimulosa
+Opegrapha subrimulosa Nyl.
 
 ### Remarks
 null

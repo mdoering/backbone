@@ -1,5 +1,4 @@
-Marasmius paulensis Singer SPECIES
-=======
+# Marasmius paulensis Singer SPECIES
 
 #### Status
 ACCEPTED

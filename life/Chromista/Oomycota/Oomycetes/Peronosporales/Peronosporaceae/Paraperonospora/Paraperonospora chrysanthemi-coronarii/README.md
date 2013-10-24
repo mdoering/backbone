@@ -1,14 +1,13 @@
-Bremiella chrysanthemi-coronarii (Sawada) J.F. Tao, 1982 SPECIES
-=======
+# Paraperonospora chrysanthemi-coronarii (Sawada) Constant., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Tao & Qin, Acta Mycol. Sin. 1(2): 64 (1982)
+Sydowia 41: 87 (1989)
 
 #### Original name
 Plasmopara chrysanthemi-coronarii Sawada, 1931

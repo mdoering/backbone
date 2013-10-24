@@ -1,5 +1,4 @@
-Phomopsis oenocarpicola Bat. & R. Garnier SPECIES
-=======
+# Phomopsis oenocarpicola Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

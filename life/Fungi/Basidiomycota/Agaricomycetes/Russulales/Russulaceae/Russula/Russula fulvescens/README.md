@@ -1,5 +1,4 @@
-Russula fulvescens Burl. SPECIES
-=======
+# Russula fulvescens Burl. SPECIES
 
 #### Status
 ACCEPTED

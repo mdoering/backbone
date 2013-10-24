@@ -1,5 +1,4 @@
-Russula pseudomelliolens Singer ex Reumaux SPECIES
-=======
+# Russula pseudomelliolens Singer ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita chlorinosma (Peck) Lloyd SPECIES
-=======
+# Amanita chlorinosma (Peck) Lloyd SPECIES
 
 #### Status
 ACCEPTED

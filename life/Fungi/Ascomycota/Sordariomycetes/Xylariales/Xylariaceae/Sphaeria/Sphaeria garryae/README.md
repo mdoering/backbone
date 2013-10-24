@@ -1,5 +1,4 @@
-Sphaeria garryae Cooke & Harkn. SPECIES
-=======
+# Sphaeria garryae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

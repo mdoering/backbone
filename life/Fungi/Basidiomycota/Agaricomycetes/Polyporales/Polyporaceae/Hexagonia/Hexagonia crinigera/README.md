@@ -1,5 +1,4 @@
-Hexagonia crinigera Fr. SPECIES
-=======
+# Hexagonia crinigera Fr. SPECIES
 
 #### Status
 ACCEPTED

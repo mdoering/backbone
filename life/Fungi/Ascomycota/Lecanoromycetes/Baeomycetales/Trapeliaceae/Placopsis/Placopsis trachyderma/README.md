@@ -1,5 +1,4 @@
-Placopsis trachyderma (Kremp.) P. James SPECIES
-=======
+# Placopsis trachyderma (Kremp.) P. James SPECIES
 
 #### Status
 ACCEPTED

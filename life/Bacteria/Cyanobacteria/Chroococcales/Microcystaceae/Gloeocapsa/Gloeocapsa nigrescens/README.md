@@ -1,5 +1,4 @@
-Gloeocapsa nigrescens f. vitrea Novácek FORM
-=======
+# Gloeocapsa nigrescens Nägeli SPECIES
 
 #### Status
 ACCEPTED

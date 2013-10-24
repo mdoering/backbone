@@ -1,5 +1,4 @@
-Peziza tegularis Weinm. SPECIES
-=======
+# Peziza tegularis Weinm. SPECIES
 
 #### Status
 ACCEPTED

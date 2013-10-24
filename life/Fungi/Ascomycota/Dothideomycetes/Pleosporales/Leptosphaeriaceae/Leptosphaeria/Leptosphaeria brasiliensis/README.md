@@ -1,5 +1,4 @@
-Leptosphaeria brasiliensis Speg. SPECIES
-=======
+# Leptosphaeria brasiliensis Speg. SPECIES
 
 #### Status
 ACCEPTED

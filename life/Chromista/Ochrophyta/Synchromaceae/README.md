@@ -1,5 +1,4 @@
-Synchromaceae Schnetter & Ehlers in C. Horn et al., 2007 FAMILY
-=======
+# Synchromaceae Schnetter & Ehlers in C. Horn et al., 2007 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma moricola Wani, Thirum. & M.D. Whitehead SPECIES
-=======
+# Sphaceloma moricola Wani, Thirum. & M.D. Whitehead SPECIES
 
 #### Status
 ACCEPTED

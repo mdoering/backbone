@@ -1,5 +1,4 @@
-Patellaria peckii House SPECIES
-=======
+# Patellaria peckii House SPECIES
 
 #### Status
 ACCEPTED

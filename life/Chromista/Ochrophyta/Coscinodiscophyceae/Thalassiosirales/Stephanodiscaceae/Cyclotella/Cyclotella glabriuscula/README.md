@@ -1,5 +1,4 @@
-Cyclotella glabriuscula (Grunow) Håk. SPECIES
-=======
+# Cyclotella glabriuscula (Grunow) Håk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula cinerea Bonord. SPECIES
-=======
+# Torula cinerea Bonord. SPECIES
 
 #### Status
 ACCEPTED

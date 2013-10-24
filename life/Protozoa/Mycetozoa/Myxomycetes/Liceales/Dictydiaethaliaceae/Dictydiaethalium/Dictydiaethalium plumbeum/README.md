@@ -1,17 +1,16 @@
-Dictydiaethalium plumbeum var. japonicum (Nann.-Bremek. & Y. Yamam.) Y. Yamam. VARIETY
-=======
+# Dictydiaethalium plumbeum (Schumach.) Rostaf., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 105 (1998)
+Monogr. Mycetozoa (London) 157 (1894)
 
 #### Original name
-Enteridium japonicum Nann.-Bremek. & Y. Yamam., 1995
+Fuligo plumbea Schumach.
 
 ### Remarks
 null

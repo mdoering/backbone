@@ -1,5 +1,4 @@
-Taphrina thomasii Mix SPECIES
-=======
+# Taphrina thomasii Mix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cristulariella corni Narumi & Y. Harada SPECIES
-=======
+# Cristulariella corni Narumi & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

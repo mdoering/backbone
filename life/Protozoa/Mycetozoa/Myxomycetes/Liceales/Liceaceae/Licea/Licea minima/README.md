@@ -1,14 +1,13 @@
-Phelonites minima (Fr.) Fr., 1849 SPECIES
-=======
+# Licea minima Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 459 (1849)
+Syst. mycol. (Lundae) 3(1): 199 (1829)
 
 #### Original name
 Licea minima Fr., 1829

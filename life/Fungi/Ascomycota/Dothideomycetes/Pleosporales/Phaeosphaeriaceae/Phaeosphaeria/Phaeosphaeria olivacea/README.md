@@ -1,5 +1,4 @@
-Phaeosphaeria olivacea Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1997 SPECIES
-=======
+# Phaeosphaeria olivacea Kohlm., Volkm.-Kohlm. & O.E. Erikss., 1997 SPECIES
 
 #### Status
 ACCEPTED

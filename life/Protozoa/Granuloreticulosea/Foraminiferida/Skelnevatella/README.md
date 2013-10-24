@@ -1,5 +1,4 @@
-Skelnevatella Solovieva, 1996 GENUS
-=======
+# Skelnevatella Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

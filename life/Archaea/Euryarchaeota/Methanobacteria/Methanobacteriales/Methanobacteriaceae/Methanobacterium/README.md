@@ -1,5 +1,4 @@
-Methanobacterium Kluyver & van Niel, 1936 GENUS
-=======
+# Methanobacterium Kluyver & van Niel, 1936 GENUS
 
 #### Status
 ACCEPTED

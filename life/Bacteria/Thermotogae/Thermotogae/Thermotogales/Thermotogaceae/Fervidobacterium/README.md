@@ -1,5 +1,4 @@
-Fervidobacterium Patel, Morgan & Daniel, 1985 GENUS
-=======
+# Fervidobacterium Patel, Morgan & Daniel, 1985 GENUS
 
 #### Status
 ACCEPTED

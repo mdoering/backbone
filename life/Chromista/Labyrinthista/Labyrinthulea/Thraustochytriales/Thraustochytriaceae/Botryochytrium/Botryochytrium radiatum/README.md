@@ -1,5 +1,4 @@
-Botryochytrium radiatum (A. Gaertn.) R. Yokoy., Salleh & D. Honda, 2007 SPECIES
-=======
+# Botryochytrium radiatum (A. Gaertn.) R. Yokoy., Salleh & D. Honda, 2007 SPECIES
 
 #### Status
 ACCEPTED

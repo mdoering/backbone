@@ -1,5 +1,4 @@
-Fumagopsis triglifioides Speg., 1910 SPECIES
-=======
+# Fumagopsis triglifioides Speg., 1910 SPECIES
 
 #### Status
 ACCEPTED

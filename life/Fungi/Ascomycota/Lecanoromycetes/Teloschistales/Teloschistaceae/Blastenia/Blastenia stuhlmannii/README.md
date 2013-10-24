@@ -1,5 +1,4 @@
-Blastenia stuhlmannii Müll. Arg. SPECIES
-=======
+# Blastenia stuhlmannii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

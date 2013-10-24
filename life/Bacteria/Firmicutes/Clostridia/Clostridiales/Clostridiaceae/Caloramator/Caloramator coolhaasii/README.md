@@ -1,5 +1,4 @@
-Caloramator coolhaasii Plugge et al., 2000 SPECIES
-=======
+# Caloramator coolhaasii Plugge et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

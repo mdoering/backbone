@@ -1,5 +1,4 @@
-Boletus kluzakii utara & pinar SPECIES
-=======
+# Boletus kluzakii utara & pinar SPECIES
 
 #### Status
 ACCEPTED

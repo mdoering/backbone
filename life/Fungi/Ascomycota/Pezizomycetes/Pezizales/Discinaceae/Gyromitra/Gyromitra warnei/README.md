@@ -1,5 +1,4 @@
-Gyromitra warnei (Peck) Harmaja SPECIES
-=======
+# Gyromitra warnei (Peck) Harmaja SPECIES
 
 #### Status
 ACCEPTED

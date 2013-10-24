@@ -1,5 +1,4 @@
-Sirothyriella Höhn. GENUS
-=======
+# Sirothyriella Höhn. GENUS
 
 #### Status
 ACCEPTED

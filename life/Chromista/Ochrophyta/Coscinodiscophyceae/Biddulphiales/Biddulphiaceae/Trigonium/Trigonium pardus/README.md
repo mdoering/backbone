@@ -1,5 +1,4 @@
-Trigonium pardus (A.F.W. Schmidt) A. Mann, 1925 SPECIES
-=======
+# Trigonium pardus (A.F.W. Schmidt) A. Mann, 1925 SPECIES
 
 #### Status
 ACCEPTED

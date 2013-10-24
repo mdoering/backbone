@@ -1,5 +1,4 @@
-Melanoleuca media (Paulet ex Brebeck) Bon SPECIES
-=======
+# Melanoleuca media (Paulet ex Brebeck) Bon SPECIES
 
 #### Status
 ACCEPTED

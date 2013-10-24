@@ -1,5 +1,4 @@
-Cortinarius radicosissimus Moënne-Locc. SPECIES
-=======
+# Cortinarius radicosissimus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

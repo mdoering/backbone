@@ -1,5 +1,4 @@
-Didymella cookeana Berl. & Voglino SPECIES
-=======
+# Didymella cookeana Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

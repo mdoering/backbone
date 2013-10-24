@@ -1,17 +1,16 @@
-Cercospora mitragynes Boedijn SPECIES
-=======
+# Cercospora mitragynae Boedijn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 3(4): 428 (1962)
 
 #### Original name
-Cercospora mitragynes Boedijn
+Cercospora mitragynae Boedijn
 
 ### Remarks
 null

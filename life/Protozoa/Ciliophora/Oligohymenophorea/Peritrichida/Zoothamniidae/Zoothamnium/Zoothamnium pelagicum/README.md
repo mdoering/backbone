@@ -1,5 +1,4 @@
-Zoothamnium pelagicum Du Plessis, 1891 SPECIES
-=======
+# Zoothamnium pelagicum Du Plessis, 1891 SPECIES
 
 #### Status
 ACCEPTED

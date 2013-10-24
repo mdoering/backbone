@@ -1,5 +1,4 @@
-Salinicoccus Ventosa, Marquez, Ruiz-Berraquero & Kocur, 1990 GENUS
-=======
+# Salinicoccus Ventosa, Marquez, Ruiz-Berraquero & Kocur, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis rephalanthae SPECIES
-=======
+# Phomopsis rephalanthae SPECIES
 
 #### Status
 ACCEPTED

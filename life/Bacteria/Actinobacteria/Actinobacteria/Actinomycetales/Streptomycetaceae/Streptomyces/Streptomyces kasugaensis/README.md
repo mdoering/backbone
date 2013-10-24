@@ -1,5 +1,4 @@
-Streptomyces kasugaensis Hamada et al., 1995 SPECIES
-=======
+# Streptomyces kasugaensis Hamada et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

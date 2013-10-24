@@ -1,5 +1,4 @@
-Dimeriopsis arthrostylidicola F. Stevens SPECIES
-=======
+# Dimeriopsis arthrostylidicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xenasma longicystidiatum Boidin & Gilles SPECIES
-=======
+# Xenasma longicystidiatum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Magnusiella fasciculata Lagerh. & Sadeb. SPECIES
-=======
+# Magnusiella fasciculata Lagerh. & Sadeb. SPECIES
 
 #### Status
 ACCEPTED

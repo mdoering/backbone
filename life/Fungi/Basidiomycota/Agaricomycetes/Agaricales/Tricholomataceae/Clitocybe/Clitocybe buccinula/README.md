@@ -1,5 +1,4 @@
-Clitocybe buccinula Speg. SPECIES
-=======
+# Clitocybe buccinula Speg. SPECIES
 
 #### Status
 ACCEPTED

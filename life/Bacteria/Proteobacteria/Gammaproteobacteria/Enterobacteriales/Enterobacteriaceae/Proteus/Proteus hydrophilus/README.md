@@ -1,5 +1,4 @@
-Proteus hydrophilus SPECIES
-=======
+# Proteus hydrophilus SPECIES
 
 #### Status
 ACCEPTED

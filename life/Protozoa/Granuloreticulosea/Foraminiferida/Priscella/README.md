@@ -1,5 +1,4 @@
-Priscella Mamet, 1974 GENUS
-=======
+# Priscella Mamet, 1974 GENUS
 
 #### Status
 ACCEPTED

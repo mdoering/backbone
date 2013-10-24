@@ -1,5 +1,4 @@
-Gonyaulax kofoidii Pavillard, 1909 SPECIES
-=======
+# Gonyaulax kofoidii Pavillard, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus carneotomentosus P. Kumm. SPECIES
-=======
+# Pleurotus carneotomentosus P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

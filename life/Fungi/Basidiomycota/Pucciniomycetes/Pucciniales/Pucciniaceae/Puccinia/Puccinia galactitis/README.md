@@ -1,5 +1,4 @@
-Puccinia galactitis P. Syd. & Syd. SPECIES
-=======
+# Puccinia galactitis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

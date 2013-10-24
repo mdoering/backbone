@@ -1,5 +1,4 @@
-Agaricus caerulens SPECIES
-=======
+# Agaricus caerulens SPECIES
 
 #### Status
 ACCEPTED

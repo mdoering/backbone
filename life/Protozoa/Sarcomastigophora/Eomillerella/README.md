@@ -1,5 +1,4 @@
-Eomillerella Skipp, 1969 GENUS
-=======
+# Eomillerella Skipp, 1969 GENUS
 
 #### Status
 ACCEPTED

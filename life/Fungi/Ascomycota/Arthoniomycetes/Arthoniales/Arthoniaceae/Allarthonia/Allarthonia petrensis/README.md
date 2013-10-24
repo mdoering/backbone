@@ -1,5 +1,4 @@
-Allarthonia petrensis (Nyl.) Redinger SPECIES
-=======
+# Allarthonia petrensis (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

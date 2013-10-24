@@ -1,5 +1,4 @@
-Menispora convoluta Lunghini SPECIES
-=======
+# Menispora convoluta Lunghini SPECIES
 
 #### Status
 ACCEPTED

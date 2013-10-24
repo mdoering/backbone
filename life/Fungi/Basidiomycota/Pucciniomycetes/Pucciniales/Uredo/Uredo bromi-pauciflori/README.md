@@ -1,5 +1,4 @@
-Uredo bromi-pauciflori S. Ito SPECIES
-=======
+# Uredo bromi-pauciflori S. Ito SPECIES
 
 #### Status
 ACCEPTED

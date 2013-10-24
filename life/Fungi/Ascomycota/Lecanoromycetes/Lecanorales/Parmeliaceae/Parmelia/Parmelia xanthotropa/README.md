@@ -1,5 +1,4 @@
-Parmelia xanthotropa f. xanthotropa FORM
-=======
+# Parmelia xanthotropa Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia xanthotropa f. xanthotropa
+Parmelia xanthotropa Stirt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Myxodictyonomyces chrysosticti Cif. & Tomas. SPECIES
-=======
+# Myxodictyonomyces chrysosticti Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

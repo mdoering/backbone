@@ -1,5 +1,4 @@
-Pannaria lepidophora Vain. SPECIES
-=======
+# Pannaria lepidophora Vain. SPECIES
 
 #### Status
 ACCEPTED

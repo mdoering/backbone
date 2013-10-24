@@ -1,5 +1,4 @@
-Debaryomyces genevensis Zender SPECIES
-=======
+# Debaryomyces genevensis Zender SPECIES
 
 #### Status
 ACCEPTED

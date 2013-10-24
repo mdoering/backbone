@@ -1,14 +1,13 @@
-Polyporus neofulvus Lloyd, 1915 SPECIES
-=======
+# Perenniporiella neofulva (Lloyd) Decock & Ryvarden, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 60) 13 (1915)
+Mycol. Res. 107(1): 94 (2003)
 
 #### Original name
 Polyporus neofulvus Lloyd, 1915

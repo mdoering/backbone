@@ -1,5 +1,4 @@
-Thecaphora androsaces (P. Karst.) Gutner SPECIES
-=======
+# Thecaphora androsaces (P. Karst.) Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora kraunhiae Dietel SPECIES
-=======
+# Phakopsora kraunhiae Dietel SPECIES
 
 #### Status
 ACCEPTED

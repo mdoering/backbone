@@ -1,5 +1,4 @@
-Tuber xizangense A S. Xu SPECIES
-=======
+# Tuber xizangense A S. Xu SPECIES
 
 #### Status
 ACCEPTED

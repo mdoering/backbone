@@ -1,5 +1,4 @@
-Hypholoma longipes Peck SPECIES
-=======
+# Hypholoma longipes Peck SPECIES
 
 #### Status
 ACCEPTED

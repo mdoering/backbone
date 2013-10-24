@@ -1,5 +1,4 @@
-Xanthoparmelia alexandrensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia alexandrensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

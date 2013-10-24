@@ -1,5 +1,4 @@
-Lasiosphaeria heterotricha Munk SPECIES
-=======
+# Lasiosphaeria heterotricha Munk SPECIES
 
 #### Status
 ACCEPTED

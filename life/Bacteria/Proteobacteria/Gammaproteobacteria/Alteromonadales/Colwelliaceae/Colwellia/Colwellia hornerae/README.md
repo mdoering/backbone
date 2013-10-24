@@ -1,5 +1,4 @@
-Colwellia hornerae Bowman et al., 1998 SPECIES
-=======
+# Colwellia hornerae Bowman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

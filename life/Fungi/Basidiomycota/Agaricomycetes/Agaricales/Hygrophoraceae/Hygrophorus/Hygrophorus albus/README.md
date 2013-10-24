@@ -1,5 +1,4 @@
-Hygrophorus albus G.H. Otth SPECIES
-=======
+# Hygrophorus albus G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

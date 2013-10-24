@@ -1,17 +1,16 @@
-Pseudospiropes novae-zelandiae S. Hughes SPECIES
-=======
+# Nigrolentilocus novae-zealandiae (S. Hughes) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 15 (2001)
 
 #### Original name
-Pseudospiropes novae-zelandiae S. Hughes
+Pseudospiropes novae-zealandiae S. Hughes, 1989
 
 ### Remarks
 null

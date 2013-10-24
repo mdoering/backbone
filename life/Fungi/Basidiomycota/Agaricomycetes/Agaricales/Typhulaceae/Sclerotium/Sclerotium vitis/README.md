@@ -1,5 +1,4 @@
-Sclerotium vitis Peyl SPECIES
-=======
+# Sclerotium vitis Peyl SPECIES
 
 #### Status
 ACCEPTED

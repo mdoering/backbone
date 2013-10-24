@@ -1,5 +1,4 @@
-Myrothecium renaudii Escalona SPECIES
-=======
+# Myrothecium renaudii Escalona SPECIES
 
 #### Status
 ACCEPTED

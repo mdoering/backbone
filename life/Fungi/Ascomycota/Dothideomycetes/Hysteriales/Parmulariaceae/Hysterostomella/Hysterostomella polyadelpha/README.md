@@ -1,5 +1,4 @@
-Hysterostomella polyadelpha (Syd.) Arx, 1962 SPECIES
-=======
+# Hysterostomella polyadelpha (Syd.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces inaequalis Peck SPECIES
-=======
+# Hypomyces inaequalis Peck SPECIES
 
 #### Status
 ACCEPTED

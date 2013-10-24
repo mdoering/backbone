@@ -1,5 +1,4 @@
-Patellaria brachyspora Müll. Arg. SPECIES
-=======
+# Patellaria brachyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Inonotus australensis Ryvarden SPECIES
-=======
+# Inonotus australiensis Ryvarden, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 21: 33 (2005)
 
 #### Original name
-Inonotus australensis Ryvarden
+Inonotus australiensis Ryvarden, 2005
 
 ### Remarks
 null

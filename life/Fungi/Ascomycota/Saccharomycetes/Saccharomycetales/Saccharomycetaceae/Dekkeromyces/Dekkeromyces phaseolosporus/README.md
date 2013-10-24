@@ -1,5 +1,4 @@
-Dekkeromyces phaseolosporus (Shehata, Mrak & Phaff) Santa María & Sánchez Nieto SPECIES
-=======
+# Dekkeromyces phaseolosporus (Shehata, Mrak & Phaff) Santa María & Sánchez Nieto SPECIES
 
 #### Status
 ACCEPTED

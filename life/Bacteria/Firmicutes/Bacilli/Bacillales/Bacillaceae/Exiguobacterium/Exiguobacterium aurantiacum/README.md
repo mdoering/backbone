@@ -1,5 +1,4 @@
-Exiguobacterium aurantiacum Collins et al., 1984 SPECIES
-=======
+# Exiguobacterium aurantiacum Collins et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

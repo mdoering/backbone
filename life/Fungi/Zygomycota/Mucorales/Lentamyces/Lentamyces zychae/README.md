@@ -1,14 +1,13 @@
-Absidia zychae Hesselt. & J.J. Ellis, 1966 SPECIES
-=======
+# Lentamyces zychae (Hesselt. & J.J. Ellis) Kerst. Hoffm. & K. Voigt, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 58(5): 768 (1966)
+Pl. Biol. [10]: 15 [of preprint] (2008)
 
 #### Original name
 Absidia zychae Hesselt. & J.J. Ellis, 1966

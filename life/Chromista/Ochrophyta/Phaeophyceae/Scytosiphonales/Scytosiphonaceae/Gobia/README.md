@@ -1,5 +1,4 @@
-Gobia Reinke, 1889 GENUS
-=======
+# Gobia Reinke, 1889 GENUS
 
 #### Status
 ACCEPTED

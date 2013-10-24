@@ -1,5 +1,4 @@
-Climacostomum minimum Foissner, 1980 SPECIES
-=======
+# Climacostomum minimum Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

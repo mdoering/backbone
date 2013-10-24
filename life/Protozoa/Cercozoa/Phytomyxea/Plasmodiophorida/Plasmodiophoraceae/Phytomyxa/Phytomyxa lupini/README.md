@@ -1,5 +1,4 @@
-Phytomyxa lupini J. Schröt. SPECIES
-=======
+# Phytomyxa lupini J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

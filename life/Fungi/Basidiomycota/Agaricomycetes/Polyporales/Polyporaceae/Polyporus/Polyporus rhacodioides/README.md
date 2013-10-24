@@ -1,5 +1,4 @@
-Polyporus rhacodioides Pers. SPECIES
-=======
+# Polyporus rhacodioides Pers. SPECIES
 
 #### Status
 ACCEPTED

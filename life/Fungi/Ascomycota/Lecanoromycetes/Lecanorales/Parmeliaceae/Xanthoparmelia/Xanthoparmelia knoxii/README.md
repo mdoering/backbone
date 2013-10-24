@@ -1,5 +1,4 @@
-Xanthoparmelia knoxii Elix SPECIES
-=======
+# Xanthoparmelia knoxii Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum hydrangeae Sawada SPECIES
-=======
+# Colletotrichum hydrangeae Sawada SPECIES
 
 #### Status
 ACCEPTED

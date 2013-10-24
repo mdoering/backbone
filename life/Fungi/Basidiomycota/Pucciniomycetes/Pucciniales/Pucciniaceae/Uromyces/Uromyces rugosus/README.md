@@ -1,5 +1,4 @@
-Uromyces rugosus Arthur SPECIES
-=======
+# Uromyces rugosus Arthur SPECIES
 
 #### Status
 ACCEPTED

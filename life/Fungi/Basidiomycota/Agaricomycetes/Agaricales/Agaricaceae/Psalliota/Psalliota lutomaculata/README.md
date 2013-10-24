@@ -1,5 +1,4 @@
-Psalliota lutomaculata SPECIES
-=======
+# Psalliota lutomaculata SPECIES
 
 #### Status
 ACCEPTED

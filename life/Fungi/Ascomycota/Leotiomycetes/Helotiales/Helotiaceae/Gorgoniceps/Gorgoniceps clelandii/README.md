@@ -1,5 +1,4 @@
-Gorgoniceps clelandii Hansf. SPECIES
-=======
+# Gorgoniceps clelandii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma absconditum Pass. SPECIES
-=======
+# Lophiostoma absconditum Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chapmanium E.I. Hazard & Oldacre GENUS
-=======
+# Chapmanium E.I. Hazard & Oldacre GENUS
 
 #### Status
 ACCEPTED

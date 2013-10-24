@@ -1,5 +1,4 @@
-Depazea australis Crié SPECIES
-=======
+# Depazea australis Crié SPECIES
 
 #### Status
 ACCEPTED

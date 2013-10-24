@@ -1,5 +1,4 @@
-Parmelia portugalica Gyeln. SPECIES
-=======
+# Parmelia portugalica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

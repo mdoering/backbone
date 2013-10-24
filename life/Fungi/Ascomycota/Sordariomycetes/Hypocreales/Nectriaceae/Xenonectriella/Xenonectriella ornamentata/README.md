@@ -1,14 +1,13 @@
-Nectriella ornamentata D. Hawksw., 1983 SPECIES
-=======
+# Xenonectriella ornamentata (D. Hawksw.) Rossman, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 35(4): 756 (1983)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 170 (1999)
 
 #### Original name
 Nectriella ornamentata D. Hawksw., 1983

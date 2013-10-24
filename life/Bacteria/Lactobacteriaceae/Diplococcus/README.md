@@ -1,5 +1,4 @@
-Diplococcus GENUS
-=======
+# Diplococcus GENUS
 
 #### Status
 ACCEPTED

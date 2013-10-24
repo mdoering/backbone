@@ -1,14 +1,13 @@
-Biatora minuta (Schaer.) Hepp SPECIES
-=======
+# Catillaria minuta (A. Massal.) Lettau SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 52: 135 (1912)
 
 #### Original name
 Lecidea anomala var. minuta Schaer.

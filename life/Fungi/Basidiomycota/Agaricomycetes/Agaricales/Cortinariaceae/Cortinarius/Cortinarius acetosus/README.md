@@ -1,14 +1,13 @@
-Hydrocybe acetosa Velen., 1921 SPECIES
-=======
+# Cortinarius acetosus (Velen.) Melot, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 3: 479 (1921)
+Docums Mycol. 17(no. 68): 65 (1987)
 
 #### Original name
 Hydrocybe acetosa Velen., 1921

@@ -1,5 +1,4 @@
-Micropeltis samarensis Syd. & P. Syd. SPECIES
-=======
+# Micropeltis samarensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

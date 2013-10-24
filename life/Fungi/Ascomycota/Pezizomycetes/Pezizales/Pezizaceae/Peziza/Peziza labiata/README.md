@@ -1,5 +1,4 @@
-Peziza labiata Roberge ex Desm. SPECIES
-=======
+# Peziza labiata Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora flavidolivens Tuck. SPECIES
-=======
+# Biatora flavidolivens Tuck. SPECIES
 
 #### Status
 ACCEPTED

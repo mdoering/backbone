@@ -1,14 +1,13 @@
-Spilocapsa Ley, 1947 GENUS
-=======
+# Cyanostylon Geitler, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Bull. Acad. Sinica 1: 77.
+Arch. Protistenk. 60: 441.
 
 #### Original name
 null

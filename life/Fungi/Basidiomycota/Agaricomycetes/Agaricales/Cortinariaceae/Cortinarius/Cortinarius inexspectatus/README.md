@@ -1,5 +1,4 @@
-Cortinarius inexspectatus Brandrud SPECIES
-=======
+# Cortinarius inexspectatus Brandrud SPECIES
 
 #### Status
 ACCEPTED

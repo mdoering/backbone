@@ -1,5 +1,4 @@
-Thelephora frondosa Pers. SPECIES
-=======
+# Thelephora frondosa Pers. SPECIES
 
 #### Status
 ACCEPTED

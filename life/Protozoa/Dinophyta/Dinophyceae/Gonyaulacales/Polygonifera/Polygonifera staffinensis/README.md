@@ -1,5 +1,4 @@
-Polygonifera staffinensis (G. U. Gitmez) R. J. Davey SPECIES
-=======
+# Polygonifera staffinensis (G. U. Gitmez) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

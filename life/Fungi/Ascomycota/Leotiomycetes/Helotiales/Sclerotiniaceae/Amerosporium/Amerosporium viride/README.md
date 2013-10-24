@@ -1,5 +1,4 @@
-Amerosporium viride Wehm. SPECIES
-=======
+# Amerosporium viride Wehm. SPECIES
 
 #### Status
 ACCEPTED

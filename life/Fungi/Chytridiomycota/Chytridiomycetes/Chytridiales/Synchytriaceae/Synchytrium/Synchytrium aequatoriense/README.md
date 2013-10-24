@@ -1,5 +1,4 @@
-Synchytrium aequatoriense (Syd.) Gäum. SPECIES
-=======
+# Synchytrium aequatoriense (Syd.) Gäum. SPECIES
 
 #### Status
 ACCEPTED

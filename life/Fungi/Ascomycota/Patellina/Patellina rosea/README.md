@@ -1,5 +1,4 @@
-Patellina rosea Petch SPECIES
-=======
+# Patellina rosea Petch SPECIES
 
 #### Status
 ACCEPTED

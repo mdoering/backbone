@@ -1,5 +1,4 @@
-Galeropsis deceptiva (T.J. Baroni) G. Moreno, Heykoop & Illana, 1989 SPECIES
-=======
+# Galeropsis deceptiva (T.J. Baroni) G. Moreno, Heykoop & Illana, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota roseopallida Bon & A. Caball. SPECIES
-=======
+# Lepiota roseopallida Bon & A. Caball. SPECIES
 
 #### Status
 ACCEPTED

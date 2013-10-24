@@ -1,5 +1,4 @@
-Inocybe subochracea var. subochracea VARIETY
-=======
+# Inocybe subochracea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Torreya 33: 170 (1905)
+Syll. fung. (Abellini) 17: 66 (1905)
 
 #### Original name
 Agaricus subochraceus Peck

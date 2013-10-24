@@ -1,5 +1,4 @@
-Sphaeria vibriospora Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria vibriospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila tamseliana Henn. SPECIES
-=======
+# Ombrophila tamseliana Henn. SPECIES
 
 #### Status
 ACCEPTED

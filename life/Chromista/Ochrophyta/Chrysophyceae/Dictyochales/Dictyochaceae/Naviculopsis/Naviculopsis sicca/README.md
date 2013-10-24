@@ -1,5 +1,4 @@
-Naviculopsis sicca E. Martini & C. Müller SPECIES
-=======
+# Naviculopsis sicca E. Martini & C. Müller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia radicalis Schwein. SPECIES
-=======
+# Tubercularia radicalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

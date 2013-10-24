@@ -1,5 +1,4 @@
-Lagena aspera Reuss, 1861 SPECIES
-=======
+# Lagena aspera Reuss, 1861 SPECIES
 
 #### Status
 ACCEPTED

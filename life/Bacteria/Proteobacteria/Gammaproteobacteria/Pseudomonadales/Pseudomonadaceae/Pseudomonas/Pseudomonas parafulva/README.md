@@ -1,5 +1,4 @@
-Pseudomonas parafulva Uchino et al., 2002 SPECIES
-=======
+# Pseudomonas parafulva Uchino et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

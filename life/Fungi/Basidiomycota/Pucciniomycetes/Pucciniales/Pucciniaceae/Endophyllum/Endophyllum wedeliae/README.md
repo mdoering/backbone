@@ -1,5 +1,4 @@
-Endophyllum wedeliae (Earle) Whetzel & Olive, 1917 SPECIES
-=======
+# Endophyllum wedeliae (Earle) Whetzel & Olive, 1917 SPECIES
 
 #### Status
 ACCEPTED

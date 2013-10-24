@@ -1,5 +1,4 @@
-Hassallia byssoidea Hassall SPECIES
-=======
+# Hassallia byssoidea Hassall SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema brunneosporum Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
-=======
+# Lophiotrema brunneosporum Yin. Zhang, J. Fourn. & K.D. Hyde, 2009 SPECIES
 
 #### Status
 ACCEPTED

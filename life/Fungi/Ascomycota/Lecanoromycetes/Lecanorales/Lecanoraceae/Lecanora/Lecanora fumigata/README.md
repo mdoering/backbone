@@ -1,5 +1,4 @@
-Lecanora fumigata Vain. SPECIES
-=======
+# Lecanora fumigata Vain. SPECIES
 
 #### Status
 ACCEPTED

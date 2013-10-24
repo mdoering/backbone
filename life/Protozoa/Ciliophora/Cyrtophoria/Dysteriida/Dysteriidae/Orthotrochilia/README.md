@@ -1,5 +1,4 @@
-Orthotrochilia Song, 2003 GENUS
-=======
+# Orthotrochilia Song, 2003 GENUS
 
 #### Status
 ACCEPTED

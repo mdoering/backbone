@@ -1,5 +1,4 @@
-Agaricus rajap Holterm. SPECIES
-=======
+# Agaricus rajap Holterm. SPECIES
 
 #### Status
 ACCEPTED

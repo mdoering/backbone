@@ -1,5 +1,4 @@
-Lecanora solorinoides Nyl. SPECIES
-=======
+# Lecanora solorinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

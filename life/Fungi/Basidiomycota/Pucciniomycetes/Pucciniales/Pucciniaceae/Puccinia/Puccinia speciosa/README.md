@@ -1,5 +1,4 @@
-Puccinia speciosa Y. Ono & Ishimiya SPECIES
-=======
+# Puccinia speciosa Y. Ono & Ishimiya SPECIES
 
 #### Status
 ACCEPTED

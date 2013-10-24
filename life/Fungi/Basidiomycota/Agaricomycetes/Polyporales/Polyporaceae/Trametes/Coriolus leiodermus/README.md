@@ -1,5 +1,4 @@
-Coriolus leiodermus (Mont.) Murrill SPECIES
-=======
+# Coriolus leiodermus (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula acidula F.C. Harrison SPECIES
-=======
+# Torula acidula F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

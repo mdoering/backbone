@@ -1,5 +1,4 @@
-Polyporus ceciliae Roum. SPECIES
-=======
+# Polyporus ceciliae Roum. SPECIES
 
 #### Status
 ACCEPTED

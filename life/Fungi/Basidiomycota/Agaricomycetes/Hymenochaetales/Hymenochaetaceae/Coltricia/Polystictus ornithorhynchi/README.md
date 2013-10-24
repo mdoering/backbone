@@ -1,8 +1,7 @@
-Polystictus ornithorynchi (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus ornithorhynchi (Kalchbr.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

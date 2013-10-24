@@ -1,5 +1,4 @@
-Aulosira implexa Bornet & Flahault SPECIES
-=======
+# Aulosira implexa Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

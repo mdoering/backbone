@@ -1,5 +1,4 @@
-Spheconisca normaniana SPECIES
-=======
+# Spheconisca normaniana SPECIES
 
 #### Status
 ACCEPTED

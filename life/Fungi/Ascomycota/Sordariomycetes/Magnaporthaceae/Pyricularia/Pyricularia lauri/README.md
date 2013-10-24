@@ -1,5 +1,4 @@
-Pyricularia lauri P.M. Kirk, 1983 SPECIES
-=======
+# Pyricularia lauri P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

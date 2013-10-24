@@ -1,5 +1,4 @@
-Gymnopus griseifolius Murrill SPECIES
-=======
+# Gymnopus griseifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

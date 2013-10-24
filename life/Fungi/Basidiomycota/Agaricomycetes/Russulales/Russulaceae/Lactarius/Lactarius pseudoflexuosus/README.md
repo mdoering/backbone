@@ -1,5 +1,4 @@
-Lactarius pseudoflexuosus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pseudoflexuosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

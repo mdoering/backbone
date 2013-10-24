@@ -1,5 +1,4 @@
-Globigerina rubescens Hofker SPECIES
-=======
+# Globigerina rubescens Hofker SPECIES
 
 #### Status
 ACCEPTED

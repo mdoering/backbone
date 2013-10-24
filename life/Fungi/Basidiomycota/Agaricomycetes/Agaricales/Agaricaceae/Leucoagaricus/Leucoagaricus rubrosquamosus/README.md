@@ -1,5 +1,4 @@
-Leucoagaricus rubrosquamosus (Rick) Singer SPECIES
-=======
+# Leucoagaricus rubrosquamosus (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

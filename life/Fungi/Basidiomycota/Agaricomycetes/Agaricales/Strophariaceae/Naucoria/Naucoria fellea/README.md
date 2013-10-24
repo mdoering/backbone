@@ -1,5 +1,4 @@
-Naucoria fellea (J. Favre) Raithelh. SPECIES
-=======
+# Naucoria fellea (J. Favre) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

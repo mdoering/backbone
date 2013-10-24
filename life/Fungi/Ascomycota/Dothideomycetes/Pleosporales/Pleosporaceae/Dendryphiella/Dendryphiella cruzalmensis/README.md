@@ -1,5 +1,4 @@
-Dendryphiella cruzalmensis Bat. SPECIES
-=======
+# Dendryphiella cruzalmensis Bat. SPECIES
 
 #### Status
 ACCEPTED

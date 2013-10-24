@@ -1,5 +1,4 @@
-Puccinia magydaridis Pat. & Trab. SPECIES
-=======
+# Puccinia magydaridis Pat. & Trab. SPECIES
 
 #### Status
 ACCEPTED

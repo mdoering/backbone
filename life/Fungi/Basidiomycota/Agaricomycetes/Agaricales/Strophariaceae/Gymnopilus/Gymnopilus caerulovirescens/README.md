@@ -1,5 +1,4 @@
-Gymnopilus caerulovirescens Z.S. Bi SPECIES
-=======
+# Gymnopilus caerulovirescens Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

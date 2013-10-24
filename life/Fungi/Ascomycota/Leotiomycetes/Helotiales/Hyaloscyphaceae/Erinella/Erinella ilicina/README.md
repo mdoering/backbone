@@ -1,5 +1,4 @@
-Erinella ilicina Urries SPECIES
-=======
+# Erinella ilicina Urries SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia vaginae (Lasch) Sacc. SPECIES
-=======
+# Laestadia vaginae (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

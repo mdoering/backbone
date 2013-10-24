@@ -1,5 +1,4 @@
-Psathyrella effibulata Örstadius & E. Ludw. SPECIES
-=======
+# Psathyrella effibulata Örstadius & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus boisseletii Heinem. SPECIES
-=======
+# Agaricus boisseletii Heinem. SPECIES
 
 #### Status
 ACCEPTED

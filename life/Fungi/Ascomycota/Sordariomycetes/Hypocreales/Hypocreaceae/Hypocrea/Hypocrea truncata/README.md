@@ -1,5 +1,4 @@
-Hypocrea truncata (S. Imai) H.L. Chamb. SPECIES
-=======
+# Hypocrea truncata (S. Imai) H.L. Chamb. SPECIES
 
 #### Status
 ACCEPTED

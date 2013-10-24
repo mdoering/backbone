@@ -1,5 +1,4 @@
-Heppia nitida H. Magn. SPECIES
-=======
+# Heppia nitida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

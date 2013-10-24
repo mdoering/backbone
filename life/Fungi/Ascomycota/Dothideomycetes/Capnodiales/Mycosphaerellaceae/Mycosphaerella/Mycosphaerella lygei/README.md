@@ -1,5 +1,4 @@
-Mycosphaerella lygei Petr. SPECIES
-=======
+# Mycosphaerella lygei Petr. SPECIES
 
 #### Status
 ACCEPTED

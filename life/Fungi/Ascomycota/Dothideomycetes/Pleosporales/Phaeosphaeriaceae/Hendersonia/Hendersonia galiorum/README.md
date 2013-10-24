@@ -1,5 +1,4 @@
-Hendersonia galiorum Cooke & Harkn. SPECIES
-=======
+# Hendersonia galiorum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

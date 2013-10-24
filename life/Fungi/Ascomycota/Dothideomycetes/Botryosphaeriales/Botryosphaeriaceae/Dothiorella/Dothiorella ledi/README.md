@@ -1,5 +1,4 @@
-Dothiorella ledi Lind & Vleugel SPECIES
-=======
+# Dothiorella ledi Lind & Vleugel SPECIES
 
 #### Status
 ACCEPTED

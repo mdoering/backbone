@@ -1,5 +1,4 @@
-Mycena gloeoloma Singer SPECIES
-=======
+# Mycena gloeoloma Singer SPECIES
 
 #### Status
 ACCEPTED

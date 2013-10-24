@@ -1,5 +1,4 @@
-Glutinium macrosporum Zeller SPECIES
-=======
+# Glutinium macrosporum Zeller SPECIES
 
 #### Status
 ACCEPTED

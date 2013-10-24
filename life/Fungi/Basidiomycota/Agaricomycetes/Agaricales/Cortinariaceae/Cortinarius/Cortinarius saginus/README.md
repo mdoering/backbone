@@ -1,17 +1,16 @@
-Cortinarius subtriumphans var. subtriumphans VARIETY
-=======
+# Cortinarius saginus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 260 (1838)
 
 #### Original name
-null
+Agaricus saginus Fr., 1821
 
 ### Remarks
 null

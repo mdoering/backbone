@@ -1,14 +1,13 @@
-Coniophora viridis (Berk.) Sacc., 1888 SPECIES
-=======
+# Scotoderma viride (Berk.) Jülich, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 649 (1888)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 77(2): 151 (1974)
 
 #### Original name
 null

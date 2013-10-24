@@ -1,5 +1,4 @@
-Diaporthe scobinoides Schulzer & Sacc. SPECIES
-=======
+# Diaporthe scobinoides Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

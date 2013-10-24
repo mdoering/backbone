@@ -1,5 +1,4 @@
-Aithaloderma taxi Woron. SPECIES
-=======
+# Aithaloderma taxi Woron. SPECIES
 
 #### Status
 ACCEPTED

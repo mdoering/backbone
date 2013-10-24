@@ -1,5 +1,4 @@
-Lecidea lamprophora (Körb.) Zahlbr. SPECIES
-=======
+# Lecidea lamprophora (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

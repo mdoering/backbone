@@ -1,5 +1,4 @@
-Lyophyllum paelochroum Clémençon SPECIES
-=======
+# Lyophyllum paelochroum Clémençon SPECIES
 
 #### Status
 ACCEPTED

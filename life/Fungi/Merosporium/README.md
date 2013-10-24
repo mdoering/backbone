@@ -1,5 +1,4 @@
-Merosporium Corda GENUS
-=======
+# Merosporium Corda GENUS
 
 #### Status
 ACCEPTED

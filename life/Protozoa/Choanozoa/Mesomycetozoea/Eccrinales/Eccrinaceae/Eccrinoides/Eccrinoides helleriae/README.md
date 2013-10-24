@@ -1,17 +1,16 @@
-Eccrinopsis helleriae L. Léger & Duboscq, 1906 SPECIES
-=======
+# Eccrinoides helleriae Manier ex Lichtw., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 142(Notes et Revue): 592 (1906)
+Mycotaxon 20(2): 520 (1984)
 
 #### Original name
-Eccrinopsis helleriae L. Léger & Duboscq, 1906
+Eccrinoides helleriae Manier ex Lichtw., 1984
 
 ### Remarks
 null

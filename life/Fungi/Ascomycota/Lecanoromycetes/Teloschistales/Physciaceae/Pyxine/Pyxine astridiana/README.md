@@ -1,5 +1,4 @@
-Pyxine astridiana Kalb SPECIES
-=======
+# Pyxine astridiana Kalb SPECIES
 
 #### Status
 ACCEPTED

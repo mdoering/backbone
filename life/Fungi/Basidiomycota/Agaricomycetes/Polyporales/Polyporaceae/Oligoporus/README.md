@@ -1,17 +1,16 @@
-Strangulidium Pouzar GENUS
-=======
+# Oligoporus Brefeld, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Ceská Mykol. 21: 206 (1967)
+Unters. Gesammtgeb. Mykol. 8: 114 (1888)
 
 #### Original name
-Strangulidium Pouzar
+Oligoporus Brefeld, 1888
 
 ### Remarks
 null

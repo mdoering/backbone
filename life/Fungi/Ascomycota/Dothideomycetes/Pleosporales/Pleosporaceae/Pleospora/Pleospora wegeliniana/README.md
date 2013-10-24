@@ -1,5 +1,4 @@
-Pleospora wegeliniana E. Müll. SPECIES
-=======
+# Pleospora wegeliniana E. Müll. SPECIES
 
 #### Status
 ACCEPTED

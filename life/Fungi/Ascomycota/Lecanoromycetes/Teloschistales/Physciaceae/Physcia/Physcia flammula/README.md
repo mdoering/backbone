@@ -1,5 +1,4 @@
-Physcia flammula Nyl. SPECIES
-=======
+# Physcia flammula Nyl. SPECIES
 
 #### Status
 ACCEPTED

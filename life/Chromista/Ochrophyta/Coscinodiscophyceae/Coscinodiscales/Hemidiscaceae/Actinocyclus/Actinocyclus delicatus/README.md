@@ -1,5 +1,4 @@
-Actinocyclus delicatus E.G. Lupikina & G.K. Khursevich SPECIES
-=======
+# Actinocyclus delicatus E.G. Lupikina & G.K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

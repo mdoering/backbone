@@ -1,17 +1,16 @@
-Siphula caesia Müll. Arg. SPECIES
-=======
+# Siphula coriacea Taylor ex Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 31: 191 (1892)
+Syn. meth. lich. 1: 263 (1860)
 
 #### Original name
-Siphula caesia Müll. Arg.
+Siphula coriacea Taylor ex Nyl.
 
 ### Remarks
 null

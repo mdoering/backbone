@@ -1,5 +1,4 @@
-Mucor embolus L. SPECIES
-=======
+# Mucor embolus L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporella bottnica (Lind & Vleugel) Nannf. SPECIES
-=======
+# Cylindrosporella bottnica (Lind & Vleugel) Nannf. SPECIES
 
 #### Status
 ACCEPTED

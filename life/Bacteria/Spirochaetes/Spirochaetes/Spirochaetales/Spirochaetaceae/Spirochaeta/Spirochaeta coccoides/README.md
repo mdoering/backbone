@@ -1,5 +1,4 @@
-Spirochaeta coccoides Dröge et al., 2006 SPECIES
-=======
+# Spirochaeta coccoides Dröge et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

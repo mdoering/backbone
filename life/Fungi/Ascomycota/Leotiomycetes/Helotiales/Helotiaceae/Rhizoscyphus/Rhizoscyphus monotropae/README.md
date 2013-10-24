@@ -1,14 +1,13 @@
-Hymenoscyphus monotropae Kernan & Finocchio, 1983 SPECIES
-=======
+# Rhizoscyphus monotropae (Kernan & Finocchio) W.Y. Zhuang, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 75(5): 916 (1983)
+in Zhang & Zhuang, Nova Hedwigia 78(3-4): 482 (2004)
 
 #### Original name
 Hymenoscyphus monotropae Kernan & Finocchio, 1983

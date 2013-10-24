@@ -1,5 +1,4 @@
-Gorgoniceps marginata Petch SPECIES
-=======
+# Gorgoniceps marginata Petch SPECIES
 
 #### Status
 ACCEPTED

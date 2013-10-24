@@ -1,5 +1,4 @@
-Callopisma steropeum (Ach.) Körb. SPECIES
-=======
+# Callopisma steropeum (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

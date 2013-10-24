@@ -1,5 +1,4 @@
-Spirodinium Schütt, 1896 GENUS
-=======
+# Spirodinium Schütt, 1896 GENUS
 
 #### Status
 ACCEPTED

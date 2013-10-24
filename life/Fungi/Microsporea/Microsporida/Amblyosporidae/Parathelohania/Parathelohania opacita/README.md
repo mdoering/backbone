@@ -1,5 +1,4 @@
-Parathelohania opacita SPECIES
-=======
+# Parathelohania opacita SPECIES
 
 #### Status
 ACCEPTED

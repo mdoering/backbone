@@ -1,5 +1,4 @@
-Prospodium palmatum H.S. Jacks. & Holw. SPECIES
-=======
+# Prospodium palmatum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusisporium clypeaster Corda SPECIES
-=======
+# Fusisporium clypeaster Corda SPECIES
 
 #### Status
 ACCEPTED

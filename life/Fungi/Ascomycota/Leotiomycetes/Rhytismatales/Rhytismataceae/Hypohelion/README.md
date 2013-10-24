@@ -1,5 +1,4 @@
-Hypohelion P.R. Johnst. GENUS
-=======
+# Hypohelion P.R. Johnst. GENUS
 
 #### Status
 ACCEPTED

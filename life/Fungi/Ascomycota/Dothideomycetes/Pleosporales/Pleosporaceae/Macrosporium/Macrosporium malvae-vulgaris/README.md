@@ -1,5 +1,4 @@
-Macrosporium malvae-vulgaris A.G. Eliasson SPECIES
-=======
+# Macrosporium malvae-vulgaris A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

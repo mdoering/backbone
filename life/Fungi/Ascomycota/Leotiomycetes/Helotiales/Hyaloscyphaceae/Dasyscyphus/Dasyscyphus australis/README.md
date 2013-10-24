@@ -1,5 +1,4 @@
-Dasyscyphus australis var. australis VARIETY
-=======
+# Dasyscyphus australis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 8: 445 (1889)
 
 #### Original name
-Dasyscyphus australis var. australis
+Lachnella australis Speg.
 
 ### Remarks
 null

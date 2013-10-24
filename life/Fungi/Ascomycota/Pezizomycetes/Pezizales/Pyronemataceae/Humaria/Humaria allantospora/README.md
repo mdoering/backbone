@@ -1,5 +1,4 @@
-Humaria allantospora Naumov SPECIES
-=======
+# Humaria allantospora Naumov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula agglutinata R. Heim SPECIES
-=======
+# Russula agglutinata R. Heim SPECIES
 
 #### Status
 ACCEPTED

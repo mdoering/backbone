@@ -1,5 +1,4 @@
-Granomarginata primitiva Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Granomarginata primitiva Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

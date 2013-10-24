@@ -1,5 +1,4 @@
-Stachylina acutibasilaris M.M. White & Lichtw., 2004 SPECIES
-=======
+# Stachylina acutibasilaris M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

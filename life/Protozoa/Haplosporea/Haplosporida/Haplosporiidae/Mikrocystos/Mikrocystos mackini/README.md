@@ -1,5 +1,4 @@
-Mikrocystos mackini Farley, Wolf & Elston, 1988 SPECIES
-=======
+# Mikrocystos mackini Farley, Wolf & Elston, 1988 SPECIES
 
 #### Status
 ACCEPTED

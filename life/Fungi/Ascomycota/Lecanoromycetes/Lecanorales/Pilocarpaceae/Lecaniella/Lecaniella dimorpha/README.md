@@ -1,5 +1,4 @@
-Lecaniella dimorpha (A. Massal.) Jatta SPECIES
-=======
+# Lecaniella dimorpha (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

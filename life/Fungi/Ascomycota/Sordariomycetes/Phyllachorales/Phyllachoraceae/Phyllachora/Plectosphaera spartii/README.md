@@ -1,5 +1,4 @@
-Plectosphaera spartii E. Müll., 1957 SPECIES
-=======
+# Plectosphaera spartii E. Müll., 1957 SPECIES
 
 #### Status
 ACCEPTED

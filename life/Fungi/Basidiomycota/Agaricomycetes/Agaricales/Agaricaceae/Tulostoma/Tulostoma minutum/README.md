@@ -1,5 +1,4 @@
-Tulostoma minutum V.S. White SPECIES
-=======
+# Tulostoma minutum V.S. White SPECIES
 
 #### Status
 ACCEPTED

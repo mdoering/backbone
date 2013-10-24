@@ -1,5 +1,4 @@
-Meliola heterocephala Syd. & P. Syd., 1916 SPECIES
-=======
+# Meliola heterocephala Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

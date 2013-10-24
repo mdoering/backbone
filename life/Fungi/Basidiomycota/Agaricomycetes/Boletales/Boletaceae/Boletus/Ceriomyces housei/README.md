@@ -1,5 +1,4 @@
-Ceriomyces housei Murrill SPECIES
-=======
+# Ceriomyces housei Murrill SPECIES
 
 #### Status
 ACCEPTED

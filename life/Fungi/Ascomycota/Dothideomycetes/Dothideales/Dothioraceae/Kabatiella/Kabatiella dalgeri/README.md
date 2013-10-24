@@ -1,17 +1,16 @@
-Kabatiella dalgerii M. Morelet SPECIES
-=======
+# Kabatiella dalgeri M. Morelet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 20: 104 (1968)
 
 #### Original name
-Kabatiella dalgerii M. Morelet
+Kabatiella dalgeri M. Morelet
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleosphaerulina californica Berl. SPECIES
-=======
+# Pleosphaerulina californica Berl. SPECIES
 
 #### Status
 ACCEPTED

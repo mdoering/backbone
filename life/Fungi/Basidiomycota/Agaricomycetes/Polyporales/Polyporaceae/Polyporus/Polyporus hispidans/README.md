@@ -1,5 +1,4 @@
-Polyporus hispidans Berk. ex Sacc. SPECIES
-=======
+# Polyporus hispidans Berk. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

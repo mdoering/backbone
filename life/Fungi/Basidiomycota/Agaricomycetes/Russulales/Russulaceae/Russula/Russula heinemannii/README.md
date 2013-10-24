@@ -1,5 +1,4 @@
-Russula heinemannii Buyck SPECIES
-=======
+# Russula heinemannii Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyfolliculina Hadzi, 1951 GENUS
-=======
+# Pachyfolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

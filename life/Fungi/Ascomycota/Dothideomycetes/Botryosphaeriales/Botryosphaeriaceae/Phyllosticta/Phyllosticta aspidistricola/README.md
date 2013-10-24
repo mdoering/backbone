@@ -1,5 +1,4 @@
-Phyllosticta aspidistricola Motohashi, I. Araki & C. Nakash. SPECIES
-=======
+# Phyllosticta aspidistricola Motohashi, I. Araki & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

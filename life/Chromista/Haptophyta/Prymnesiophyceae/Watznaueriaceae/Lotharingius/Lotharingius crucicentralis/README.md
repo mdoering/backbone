@@ -1,8 +1,7 @@
-Ellipsagelosphaera crucicentralis Medd, 1971 SPECIES
-=======
+# Lotharingius crucicentralis (Medd, 1971) Grlin & Zweili, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

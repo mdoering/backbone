@@ -1,5 +1,4 @@
-Neoheppia cataractae Büdel & Sérus. SPECIES
-=======
+# Neoheppia cataractae Büdel & Sérus. SPECIES
 
 #### Status
 ACCEPTED

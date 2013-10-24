@@ -1,14 +1,13 @@
-Agaricus perlatus Cooke, 1886 SPECIES
-=======
+# Inocybe perlata (Cooke) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 74): 40 (1886)
+Syll. fung. (Abellini) 5: 774 (1887)
 
 #### Original name
 Agaricus perlatus Cooke, 1886

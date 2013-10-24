@@ -1,5 +1,4 @@
-Clitocybe alnetorum J. Favre SPECIES
-=======
+# Clitocybe alnetorum J. Favre SPECIES
 
 #### Status
 ACCEPTED

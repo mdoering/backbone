@@ -1,5 +1,4 @@
-Lactobacillus pantheris Liu & Dong, 2002 SPECIES
-=======
+# Lactobacillus pantheris Liu & Dong, 2002 SPECIES
 
 #### Status
 ACCEPTED

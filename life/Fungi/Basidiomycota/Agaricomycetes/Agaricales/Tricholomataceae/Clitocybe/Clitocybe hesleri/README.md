@@ -1,5 +1,4 @@
-Clitocybe hesleri H.E. Bigelow SPECIES
-=======
+# Clitocybe hesleri H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

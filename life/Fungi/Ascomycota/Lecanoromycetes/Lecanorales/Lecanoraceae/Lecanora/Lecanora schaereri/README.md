@@ -1,5 +1,4 @@
-Lecanora schaereri Gyeln. SPECIES
-=======
+# Lecanora schaereri Gyeln. SPECIES
 
 #### Status
 ACCEPTED

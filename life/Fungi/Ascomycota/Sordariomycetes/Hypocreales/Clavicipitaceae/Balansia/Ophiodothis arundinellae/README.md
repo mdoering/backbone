@@ -1,5 +1,4 @@
-Ophiodothis arundinellae Henn. SPECIES
-=======
+# Ophiodothis arundinellae Henn. SPECIES
 
 #### Status
 ACCEPTED

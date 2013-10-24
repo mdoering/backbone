@@ -1,5 +1,4 @@
-Myxofusicoccum carneum Thüm. SPECIES
-=======
+# Myxofusicoccum carneum Thüm. SPECIES
 
 #### Status
 ACCEPTED

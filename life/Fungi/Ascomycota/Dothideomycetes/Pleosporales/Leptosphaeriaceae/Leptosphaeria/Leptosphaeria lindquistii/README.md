@@ -1,17 +1,16 @@
-Phoma macdonaldii Boerema, 1970 SPECIES
-=======
+# Leptosphaeria lindquistii Frezzi, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 6(1): 20 (1970)
+Revta Investnes agrop. , Sér. 5 5(7): 79 (1968)
 
 #### Original name
-Phoma macdonaldii Boerema, 1970
+Leptosphaeria lindquistii Frezzi, 1968
 
 ### Remarks
 null

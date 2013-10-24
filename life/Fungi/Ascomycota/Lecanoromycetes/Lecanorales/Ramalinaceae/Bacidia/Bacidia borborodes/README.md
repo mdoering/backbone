@@ -1,5 +1,4 @@
-Bacidia borborodes (Körb.) Lettau SPECIES
-=======
+# Bacidia borborodes (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

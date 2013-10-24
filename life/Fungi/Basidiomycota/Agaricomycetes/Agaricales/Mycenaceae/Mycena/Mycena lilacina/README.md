@@ -1,5 +1,4 @@
-Mycena lilacina Mont. SPECIES
-=======
+# Mycena lilacina Mont. SPECIES
 
 #### Status
 ACCEPTED

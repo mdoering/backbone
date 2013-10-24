@@ -1,5 +1,4 @@
-Agaricus sementinus Viv. SPECIES
-=======
+# Agaricus sementinus Viv. SPECIES
 
 #### Status
 ACCEPTED

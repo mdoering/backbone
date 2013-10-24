@@ -1,5 +1,4 @@
-Verrucariomyces GENUS
-=======
+# Verrucariomyces GENUS
 
 #### Status
 ACCEPTED

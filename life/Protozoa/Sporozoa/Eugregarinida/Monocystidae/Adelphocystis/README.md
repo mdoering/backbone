@@ -1,5 +1,4 @@
-Adelphocystis Cox, 1967 GENUS
-=======
+# Adelphocystis Cox, 1967 GENUS
 
 #### Status
 ACCEPTED

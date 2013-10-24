@@ -1,5 +1,4 @@
-Neottiosporella radicata E.F. Morris SPECIES
-=======
+# Neottiosporella radicata E.F. Morris SPECIES
 
 #### Status
 ACCEPTED

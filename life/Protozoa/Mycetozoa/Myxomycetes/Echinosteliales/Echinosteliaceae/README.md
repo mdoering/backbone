@@ -1,17 +1,16 @@
-Echinosteliidae FAMILY
-=======
+# Echinosteliaceae Rostaf. ex Cooke FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Mycol. Brit. 53 (1877)
 
 #### Original name
-null
+Echinosteliaceae Rostaf. ex Cooke
 
 ### Remarks
 null

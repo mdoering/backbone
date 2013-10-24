@@ -1,5 +1,4 @@
-Lecidea thallicola A. Massal. SPECIES
-=======
+# Lecidea thallicola A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharopolyspora spinosporotrichia Zhou et al., 1998 SPECIES
-=======
+# Saccharopolyspora spinosporotrichia Zhou et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius colorascens Peck SPECIES
-=======
+# Lactarius colorascens Peck SPECIES
 
 #### Status
 ACCEPTED

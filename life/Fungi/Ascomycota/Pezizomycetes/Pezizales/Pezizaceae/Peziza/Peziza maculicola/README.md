@@ -1,5 +1,4 @@
-Peziza maculicola Schwein. SPECIES
-=======
+# Peziza maculicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

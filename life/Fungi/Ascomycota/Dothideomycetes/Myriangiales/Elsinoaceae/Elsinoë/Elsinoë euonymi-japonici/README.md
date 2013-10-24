@@ -1,5 +1,4 @@
-Elsinoë euonymi-japonici Jenkins & Bitanc. SPECIES
-=======
+# Elsinoë euonymi-japonici Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

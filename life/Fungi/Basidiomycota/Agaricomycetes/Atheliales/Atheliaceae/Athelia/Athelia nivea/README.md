@@ -1,5 +1,4 @@
-Athelia nivea Jülich, 1972 SPECIES
-=======
+# Athelia nivea Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

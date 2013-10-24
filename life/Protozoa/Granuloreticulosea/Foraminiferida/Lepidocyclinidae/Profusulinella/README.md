@@ -1,5 +1,4 @@
-Profusulinella GENUS
-=======
+# Profusulinella GENUS
 
 #### Status
 ACCEPTED

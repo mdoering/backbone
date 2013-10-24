@@ -1,5 +1,4 @@
-Psilocybe comta (Fr.) Sacc. SPECIES
-=======
+# Psilocybe comta (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

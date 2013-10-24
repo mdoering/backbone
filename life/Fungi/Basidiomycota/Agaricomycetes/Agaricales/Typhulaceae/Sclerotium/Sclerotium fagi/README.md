@@ -1,5 +1,4 @@
-Sclerotium fagi Schumach. SPECIES
-=======
+# Sclerotium fagi Schumach. SPECIES
 
 #### Status
 ACCEPTED

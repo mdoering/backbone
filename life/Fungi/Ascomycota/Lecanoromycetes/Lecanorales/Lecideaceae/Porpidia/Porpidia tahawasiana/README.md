@@ -1,5 +1,4 @@
-Porpidia tahawasiana Gowan SPECIES
-=======
+# Porpidia tahawasiana Gowan SPECIES
 
 #### Status
 ACCEPTED

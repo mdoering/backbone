@@ -1,5 +1,4 @@
-Trimitoides Pérez Reyes GENUS
-=======
+# Trimitoides Pérez Reyes GENUS
 
 #### Status
 ACCEPTED

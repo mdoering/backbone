@@ -1,5 +1,4 @@
-Sporidesmium compositum Berk. & Ravenel SPECIES
-=======
+# Sporidesmium compositum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiostemma coronatum (Speg.) Toro SPECIES
-=======
+# Lasiostemma coronatum (Speg.) Toro SPECIES
 
 #### Status
 ACCEPTED

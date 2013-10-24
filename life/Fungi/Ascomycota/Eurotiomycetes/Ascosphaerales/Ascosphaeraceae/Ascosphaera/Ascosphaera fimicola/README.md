@@ -1,5 +1,4 @@
-Ascosphaera fimicola Skou SPECIES
-=======
+# Ascosphaera fimicola Skou SPECIES
 
 #### Status
 ACCEPTED

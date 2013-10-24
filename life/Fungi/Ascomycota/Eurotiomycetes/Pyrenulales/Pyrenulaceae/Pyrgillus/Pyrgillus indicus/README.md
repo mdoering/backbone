@@ -1,14 +1,13 @@
-Tylophoron indicum Kremp. SPECIES
-=======
+# Pyrgillus indicus (Kremp.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 44: 84 (1991)
 
 #### Original name
 Tylophoron indicum Kremp.

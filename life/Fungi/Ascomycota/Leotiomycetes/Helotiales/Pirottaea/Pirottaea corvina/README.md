@@ -1,5 +1,4 @@
-Pirottaea corvina (Pers.) Sacc. SPECIES
-=======
+# Pirottaea corvina (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

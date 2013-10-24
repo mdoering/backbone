@@ -1,5 +1,4 @@
-Cercospora leucothoes B.H. Davis SPECIES
-=======
+# Cercospora leucothoes B.H. Davis SPECIES
 
 #### Status
 ACCEPTED

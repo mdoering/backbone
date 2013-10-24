@@ -1,5 +1,4 @@
-Psora vallesiaca (Schaer.) Timdal SPECIES
-=======
+# Psora vallesiaca (Schaer.) Timdal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia panicicola Arthur SPECIES
-=======
+# Puccinia panicicola Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrospermum Komarék, 2008 GENUS
-=======
+# Macrospermum Komarék, 2008 GENUS
 
 #### Status
 ACCEPTED

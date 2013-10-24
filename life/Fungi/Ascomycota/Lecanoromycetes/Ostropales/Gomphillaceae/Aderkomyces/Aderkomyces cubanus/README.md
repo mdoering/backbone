@@ -1,5 +1,4 @@
-Aderkomyces cubanus (Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces cubanus (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

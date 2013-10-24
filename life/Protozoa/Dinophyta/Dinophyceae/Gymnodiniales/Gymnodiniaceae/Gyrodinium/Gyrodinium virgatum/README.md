@@ -1,5 +1,4 @@
-Gyrodinium virgatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium virgatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

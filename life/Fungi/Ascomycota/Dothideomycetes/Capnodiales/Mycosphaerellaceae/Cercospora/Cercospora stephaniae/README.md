@@ -1,5 +1,4 @@
-Cercospora stephaniae Suj. Singh SPECIES
-=======
+# Cercospora stephaniae Suj. Singh SPECIES
 
 #### Status
 ACCEPTED

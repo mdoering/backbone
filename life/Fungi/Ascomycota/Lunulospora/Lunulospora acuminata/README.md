@@ -1,5 +1,4 @@
-Lunulospora acuminata anon. SPECIES
-=======
+# Lunulospora acuminata anon. SPECIES
 
 #### Status
 ACCEPTED

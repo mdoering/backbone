@@ -1,5 +1,4 @@
-Adelina Hesse, 1911 GENUS
-=======
+# Adelina Hesse, 1911 GENUS
 
 #### Status
 ACCEPTED

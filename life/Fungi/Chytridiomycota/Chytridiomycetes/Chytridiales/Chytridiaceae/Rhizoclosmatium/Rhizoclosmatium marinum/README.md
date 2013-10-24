@@ -1,5 +1,4 @@
-Rhizoclosmatium marinum Kobayasi & M. Ôkubo, 1954 SPECIES
-=======
+# Rhizoclosmatium marinum Kobayasi & M. Ôkubo, 1954 SPECIES
 
 #### Status
 ACCEPTED

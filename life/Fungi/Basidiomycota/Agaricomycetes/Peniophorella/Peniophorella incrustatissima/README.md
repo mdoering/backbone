@@ -1,14 +1,13 @@
-Hyphoderma incrustatissimum Boidin & Gilles, 1991 SPECIES
-=======
+# Peniophorella incrustatissima (Boidin & Gilles) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 12(2): 111 (1991)
+Mycol. Res. 111(2): 192 (2007)
 
 #### Original name
 Hyphoderma incrustatissimum Boidin & Gilles, 1991

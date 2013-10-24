@@ -1,5 +1,4 @@
-Polyclypeolum abietis (Höhn.) Theiss. SPECIES
-=======
+# Polyclypeolum abietis (Höhn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

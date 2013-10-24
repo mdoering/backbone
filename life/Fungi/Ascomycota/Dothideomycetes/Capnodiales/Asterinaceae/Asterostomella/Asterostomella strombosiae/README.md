@@ -1,5 +1,4 @@
-Asterostomella strombosiae Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
-=======
+# Asterostomella strombosiae Hosag., D.K. Agarwal, H. Biju & Archana SPECIES
 
 #### Status
 ACCEPTED

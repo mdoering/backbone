@@ -1,5 +1,4 @@
-Lecidora pseudohypopta (Vain.) Motyka SPECIES
-=======
+# Lecidora pseudohypopta (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

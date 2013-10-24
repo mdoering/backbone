@@ -1,5 +1,4 @@
-Inocybe pahangi (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe pahangi (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

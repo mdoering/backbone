@@ -1,5 +1,4 @@
-Boletus micans Ehrenb. SPECIES
-=======
+# Boletus micans Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

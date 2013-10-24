@@ -1,5 +1,4 @@
-Phoma clianthi Henn. SPECIES
-=======
+# Phoma clianthi Henn. SPECIES
 
 #### Status
 ACCEPTED

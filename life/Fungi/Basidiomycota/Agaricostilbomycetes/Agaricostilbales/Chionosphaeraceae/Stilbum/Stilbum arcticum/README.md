@@ -1,5 +1,4 @@
-Stilbum arcticum Berk. SPECIES
-=======
+# Stilbum arcticum Berk. SPECIES
 
 #### Status
 ACCEPTED

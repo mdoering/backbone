@@ -1,5 +1,4 @@
-Microeccrina orthomorphae Maessen SPECIES
-=======
+# Microeccrina orthomorphae Maessen SPECIES
 
 #### Status
 ACCEPTED

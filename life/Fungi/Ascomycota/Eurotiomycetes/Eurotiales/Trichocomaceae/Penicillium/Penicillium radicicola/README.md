@@ -1,5 +1,4 @@
-Penicillium radicicola Overy & Frisvad SPECIES
-=======
+# Penicillium radicicola Overy & Frisvad SPECIES
 
 #### Status
 ACCEPTED

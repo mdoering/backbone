@@ -1,5 +1,4 @@
-Gyrodinium viridescens Kofoid & Swezy SPECIES
-=======
+# Gyrodinium viridescens Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

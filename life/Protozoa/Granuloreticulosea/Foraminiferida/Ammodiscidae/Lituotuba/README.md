@@ -1,5 +1,4 @@
-Lituotuba Rhumbler, 1895 GENUS
-=======
+# Lituotuba Rhumbler, 1895 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora vestitae (T.S. Ramakr.) Deighton SPECIES
-=======
+# Pseudocercospora vestitae (T.S. Ramakr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

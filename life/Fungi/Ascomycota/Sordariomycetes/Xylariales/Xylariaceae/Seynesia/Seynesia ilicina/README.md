@@ -1,5 +1,4 @@
-Seynesia ilicina Syd. & P. Syd. SPECIES
-=======
+# Seynesia ilicina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

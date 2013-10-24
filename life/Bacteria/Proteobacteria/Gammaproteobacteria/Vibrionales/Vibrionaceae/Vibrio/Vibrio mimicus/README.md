@@ -1,5 +1,4 @@
-Vibrio mimicus Davis et al., 1982 SPECIES
-=======
+# Vibrio mimicus Davis et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

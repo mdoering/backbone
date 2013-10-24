@@ -1,5 +1,4 @@
-Haptospora appendiculata G.L. Barron, 1991 SPECIES
-=======
+# Haptospora appendiculata G.L. Barron, 1991 SPECIES
 
 #### Status
 ACCEPTED

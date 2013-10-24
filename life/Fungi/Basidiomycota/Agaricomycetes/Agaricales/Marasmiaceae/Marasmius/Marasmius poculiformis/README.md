@@ -1,5 +1,4 @@
-Marasmius poculiformis Corner SPECIES
-=======
+# Marasmius poculiformis Corner SPECIES
 
 #### Status
 ACCEPTED

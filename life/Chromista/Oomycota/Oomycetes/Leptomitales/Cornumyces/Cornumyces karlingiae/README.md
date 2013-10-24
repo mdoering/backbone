@@ -1,14 +1,13 @@
-Olpidiopsis karlingiae Karling, 1949 SPECIES
-=======
+# Cornumyces karlingiae (Karling) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(3): 271 (1949)
+Straminipilous Fungi (Dordrecht) 328 (2001)
 
 #### Original name
 Olpidiopsis karlingiae Karling, 1949

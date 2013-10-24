@@ -1,5 +1,4 @@
-Cortinarius pavonius Fr. SPECIES
-=======
+# Cortinarius pavonius Fr. SPECIES
 
 #### Status
 ACCEPTED

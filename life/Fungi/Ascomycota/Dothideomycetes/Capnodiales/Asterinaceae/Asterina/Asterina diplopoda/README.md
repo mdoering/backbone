@@ -1,5 +1,4 @@
-Asterina diplopoda Syd. SPECIES
-=======
+# Asterina diplopoda Syd. SPECIES
 
 #### Status
 ACCEPTED

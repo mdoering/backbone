@@ -1,5 +1,4 @@
-Bovista substerilis Kreisel SPECIES
-=======
+# Bovista substerilis Kreisel SPECIES
 
 #### Status
 ACCEPTED

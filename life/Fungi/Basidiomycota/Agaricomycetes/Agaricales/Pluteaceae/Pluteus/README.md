@@ -1,17 +1,16 @@
-Rhodosporus J. Schröt. GENUS
-=======
+# Pluteus E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(3340): 617 (1889)
+Fl. Scan. 338 (1836)
 
 #### Original name
-Rhodosporus J. Schröt.
+Pluteus E.M. Fries, 1836
 
 ### Remarks
 null

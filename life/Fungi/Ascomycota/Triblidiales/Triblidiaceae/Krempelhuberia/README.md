@@ -1,5 +1,4 @@
-Krempelhuberia GENUS
-=======
+# Krempelhuberia GENUS
 
 #### Status
 ACCEPTED

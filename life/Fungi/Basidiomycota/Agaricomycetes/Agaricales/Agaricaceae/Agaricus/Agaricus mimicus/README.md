@@ -1,5 +1,4 @@
-Agaricus mimicus W.G. Sm. SPECIES
-=======
+# Agaricus mimicus W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

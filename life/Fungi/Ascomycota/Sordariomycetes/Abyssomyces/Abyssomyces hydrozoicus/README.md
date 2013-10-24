@@ -1,5 +1,4 @@
-Abyssomyces hydrozoicus Kohlm., 1970 SPECIES
-=======
+# Abyssomyces hydrozoicus Kohlm., 1970 SPECIES
 
 #### Status
 ACCEPTED

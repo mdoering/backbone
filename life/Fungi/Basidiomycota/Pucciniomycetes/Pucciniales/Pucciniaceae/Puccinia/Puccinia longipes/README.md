@@ -1,5 +1,4 @@
-Puccinia longipes Lagerh. SPECIES
-=======
+# Puccinia longipes Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium lundense Cirne et al., 2006 SPECIES
-=======
+# Clostridium lundense Cirne et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

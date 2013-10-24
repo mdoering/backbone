@@ -1,5 +1,4 @@
-Elachista confusicola Noda SPECIES
-=======
+# Elachista confusicola Noda SPECIES
 
 #### Status
 ACCEPTED

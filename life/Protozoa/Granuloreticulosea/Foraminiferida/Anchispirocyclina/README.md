@@ -1,5 +1,4 @@
-Anchispirocyclina Jordan & Applin, 1952 GENUS
-=======
+# Anchispirocyclina Jordan & Applin, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema siamense Vain. SPECIES
-=======
+# Thelotrema siamense Vain. SPECIES
 
 #### Status
 ACCEPTED

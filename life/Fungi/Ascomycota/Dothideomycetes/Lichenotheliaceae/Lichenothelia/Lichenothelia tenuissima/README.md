@@ -1,5 +1,4 @@
-Lichenothelia tenuissima Henssen SPECIES
-=======
+# Lichenothelia tenuissima Henssen SPECIES
 
 #### Status
 ACCEPTED

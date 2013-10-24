@@ -1,5 +1,4 @@
-Trichodina cycloptericola Poljansky, 1955 SPECIES
-=======
+# Trichodina cycloptericola Poljansky, 1955 SPECIES
 
 #### Status
 ACCEPTED

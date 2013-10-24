@@ -1,14 +1,13 @@
-Cintractia samanensis Cif., 1931 SPECIES
-=======
+# Ustanciosporium samanense (Cif.) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 23A(14): 13 (1931)
+Nova Hedwigia 70(3-4): 350 (2000)
 
 #### Original name
 Cintractia samanensis Cif., 1931

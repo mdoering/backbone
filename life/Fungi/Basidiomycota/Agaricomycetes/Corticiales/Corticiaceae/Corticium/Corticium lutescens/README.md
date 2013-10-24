@@ -1,5 +1,4 @@
-Corticium lutescens anon. SPECIES
-=======
+# Corticium lutescens anon. SPECIES
 
 #### Status
 ACCEPTED

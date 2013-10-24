@@ -1,5 +1,4 @@
-Holopedia Lagerheim, 1893 GENUS
-=======
+# Holopedia Lagerheim, 1893 GENUS
 
 #### Status
 ACCEPTED

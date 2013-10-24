@@ -1,5 +1,4 @@
-Isaria acaricida Pat. SPECIES
-=======
+# Isaria acaricida Pat. SPECIES
 
 #### Status
 ACCEPTED

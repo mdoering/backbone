@@ -1,5 +1,4 @@
-Euglena repulsans J. Schiller SPECIES
-=======
+# Euglena repulsans J. Schiller SPECIES
 
 #### Status
 ACCEPTED

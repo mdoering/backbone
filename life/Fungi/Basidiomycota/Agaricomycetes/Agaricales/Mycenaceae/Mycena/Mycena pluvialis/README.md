@@ -1,5 +1,4 @@
-Mycena pluvialis Singer SPECIES
-=======
+# Mycena pluvialis Singer SPECIES
 
 #### Status
 ACCEPTED

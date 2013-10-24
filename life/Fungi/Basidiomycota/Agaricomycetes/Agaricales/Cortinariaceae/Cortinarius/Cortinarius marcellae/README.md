@@ -1,5 +1,4 @@
-Cortinarius marcellae Rob. Henry SPECIES
-=======
+# Cortinarius marcellae Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

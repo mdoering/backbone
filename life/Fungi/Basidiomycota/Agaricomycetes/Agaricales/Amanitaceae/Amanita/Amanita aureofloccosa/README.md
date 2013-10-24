@@ -1,5 +1,4 @@
-Amanita aureofloccosa Bas SPECIES
-=======
+# Amanita aureofloccosa Bas SPECIES
 
 #### Status
 ACCEPTED

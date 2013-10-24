@@ -1,8 +1,7 @@
-Sicuophrya xenopi Puytorac & Grain, 1969 SPECIES
-=======
+# Sicuophora xenopi Puytorac & Grain, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

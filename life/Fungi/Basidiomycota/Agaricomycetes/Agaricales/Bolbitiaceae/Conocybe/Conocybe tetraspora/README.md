@@ -1,5 +1,4 @@
-Conocybe tetraspora Singer SPECIES
-=======
+# Conocybe tetraspora Singer SPECIES
 
 #### Status
 ACCEPTED

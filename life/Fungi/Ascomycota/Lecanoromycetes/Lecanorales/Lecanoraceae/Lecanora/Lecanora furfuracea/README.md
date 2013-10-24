@@ -1,5 +1,4 @@
-Lecanora furfuracea Motyka SPECIES
-=======
+# Lecanora furfuracea Motyka SPECIES
 
 #### Status
 ACCEPTED

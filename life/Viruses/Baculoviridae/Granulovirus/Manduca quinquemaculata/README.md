@@ -1,5 +1,4 @@
-Manduca quinquemaculata GV SPECIES
-=======
+# Manduca quinquemaculata GV SPECIES
 
 #### Status
 ACCEPTED

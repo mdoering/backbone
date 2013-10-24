@@ -1,5 +1,4 @@
-Paenibacillaceae FAMILY
-=======
+# Paenibacillaceae FAMILY
 
 #### Status
 ACCEPTED

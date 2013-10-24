@@ -1,5 +1,4 @@
-Candida magnifica Verona, 1998 SPECIES
-=======
+# Candida magnifica Verona, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytidocystis opheliae Henneguy, 1907 SPECIES
-=======
+# Rhytidocystis opheliae Henneguy, 1907 SPECIES
 
 #### Status
 ACCEPTED

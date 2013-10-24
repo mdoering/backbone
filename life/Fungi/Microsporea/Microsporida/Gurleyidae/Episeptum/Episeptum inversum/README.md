@@ -1,5 +1,4 @@
-Episeptum inversum J.I.R. Larsson SPECIES
-=======
+# Episeptum inversum J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

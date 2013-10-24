@@ -1,5 +1,4 @@
-Peziza alaskana E.K. Cash SPECIES
-=======
+# Peziza alaskana E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

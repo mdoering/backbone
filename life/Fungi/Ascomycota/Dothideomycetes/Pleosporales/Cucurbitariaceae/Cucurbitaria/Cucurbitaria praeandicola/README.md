@@ -1,5 +1,4 @@
-Cucurbitaria praeandicola Speg. SPECIES
-=======
+# Cucurbitaria praeandicola Speg. SPECIES
 
 #### Status
 ACCEPTED

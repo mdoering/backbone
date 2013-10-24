@@ -1,5 +1,4 @@
-Aplosporella dothideoidi Sacc. SPECIES
-=======
+# Aplosporella dothideoidi Sacc. SPECIES
 
 #### Status
 ACCEPTED

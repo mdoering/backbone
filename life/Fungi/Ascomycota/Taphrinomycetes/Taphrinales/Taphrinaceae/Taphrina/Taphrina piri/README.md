@@ -1,5 +1,4 @@
-Taphrina piri Kusano SPECIES
-=======
+# Taphrina piri Kusano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarichium rhagonycharum Balazy SPECIES
-=======
+# Tarichium rhagonycharum Balazy SPECIES
 
 #### Status
 ACCEPTED

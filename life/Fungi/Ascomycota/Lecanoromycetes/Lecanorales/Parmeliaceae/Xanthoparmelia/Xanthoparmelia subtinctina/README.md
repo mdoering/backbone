@@ -1,5 +1,4 @@
-Xanthoparmelia subtinctina T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia subtinctina T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

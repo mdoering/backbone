@@ -1,5 +1,4 @@
-Laschia rubella Sacc. SPECIES
-=======
+# Laschia rubella Sacc. SPECIES
 
 #### Status
 ACCEPTED

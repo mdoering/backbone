@@ -1,5 +1,4 @@
-Dichomera ribicola Frolov SPECIES
-=======
+# Dichomera ribicola Frolov SPECIES
 
 #### Status
 ACCEPTED

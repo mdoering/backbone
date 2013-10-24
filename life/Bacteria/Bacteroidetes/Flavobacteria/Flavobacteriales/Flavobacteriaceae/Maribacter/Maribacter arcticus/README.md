@@ -1,5 +1,4 @@
-Maribacter arcticus Cho, Hong, Cho, Lee, Chun & Lee, 2008 SPECIES
-=======
+# Maribacter arcticus Cho, Hong, Cho, Lee, Chun & Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

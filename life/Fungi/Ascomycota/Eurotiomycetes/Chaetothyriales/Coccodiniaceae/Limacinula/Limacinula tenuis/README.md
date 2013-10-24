@@ -1,5 +1,4 @@
-Limacinula tenuis (Earle) Sacc. & Trotter SPECIES
-=======
+# Limacinula tenuis (Earle) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

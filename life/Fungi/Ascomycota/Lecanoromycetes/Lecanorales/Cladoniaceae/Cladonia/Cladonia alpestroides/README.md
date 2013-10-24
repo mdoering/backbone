@@ -1,5 +1,4 @@
-Cladonia alpestroides Abbayes SPECIES
-=======
+# Cladonia alpestroides Abbayes SPECIES
 
 #### Status
 ACCEPTED

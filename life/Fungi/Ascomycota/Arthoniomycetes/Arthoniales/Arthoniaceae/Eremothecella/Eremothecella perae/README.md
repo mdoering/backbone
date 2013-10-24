@@ -1,5 +1,4 @@
-Eremothecella perae Bat. SPECIES
-=======
+# Eremothecella perae Bat. SPECIES
 
 #### Status
 ACCEPTED

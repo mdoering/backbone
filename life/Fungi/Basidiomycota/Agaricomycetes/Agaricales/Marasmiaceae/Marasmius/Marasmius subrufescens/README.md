@@ -1,5 +1,4 @@
-Marasmius subrufescens Britzelm. SPECIES
-=======
+# Marasmius subrufescens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

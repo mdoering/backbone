@@ -1,5 +1,4 @@
-Mycosphaerella maniuana Butin SPECIES
-=======
+# Mycosphaerella maniuana Butin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulogabata Playford in Playford & Dring, 1981 GENUS
-=======
+# Papulogabata Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

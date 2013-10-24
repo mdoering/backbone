@@ -1,5 +1,4 @@
-Coniothyrium tiliae Sacc. SPECIES
-=======
+# Coniothyrium tiliae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea enclitica Nyl. SPECIES
-=======
+# Lecidea enclitica Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoplea rosipapilla A.W. Ramaley & M.E. Barr SPECIES
-=======
+# Chaetoplea rosipapilla A.W. Ramaley & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

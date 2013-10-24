@@ -1,5 +1,4 @@
-Tilletia vetiveriae Pavgi & Thirum. SPECIES
-=======
+# Tilletia vetiveriae Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

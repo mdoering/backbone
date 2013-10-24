@@ -1,17 +1,16 @@
-Eremascus albus var. tuberculatus L.R. Batra VARIETY
-=======
+# Eremascus albus Eidam, 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Biol. Pfl. 3: 385 (1883)
 
 #### Original name
-Eremascus albus var. tuberculatus L.R. Batra
+Eremascus albus Eidam, 1883
 
 ### Remarks
 null

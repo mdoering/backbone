@@ -1,5 +1,4 @@
-Microthyrium Desm. GENUS
-=======
+# Microthyrium Desm. GENUS
 
 #### Status
 ACCEPTED

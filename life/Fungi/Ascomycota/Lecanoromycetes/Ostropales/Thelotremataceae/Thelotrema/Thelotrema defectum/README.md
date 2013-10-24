@@ -1,5 +1,4 @@
-Thelotrema defectum Hale ex R.C. Harris SPECIES
-=======
+# Thelotrema defectum Hale ex R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

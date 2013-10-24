@@ -1,5 +1,4 @@
-Synedra inflata Heiden SPECIES
-=======
+# Synedra inflata Heiden SPECIES
 
 #### Status
 ACCEPTED

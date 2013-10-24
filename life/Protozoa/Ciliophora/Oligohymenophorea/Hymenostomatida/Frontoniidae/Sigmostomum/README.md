@@ -1,5 +1,4 @@
-Sigmostomum Gulati, 1925 GENUS
-=======
+# Sigmostomum Gulati, 1925 GENUS
 
 #### Status
 ACCEPTED

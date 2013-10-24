@@ -1,5 +1,4 @@
-Myriospora rhagadiza (Nyl.) K. Knudsen & L. Arcadia SPECIES
-=======
+# Myriospora rhagadiza (Nyl.) K. Knudsen & L. Arcadia SPECIES
 
 #### Status
 ACCEPTED

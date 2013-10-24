@@ -1,5 +1,4 @@
-Ovularia bornmuelleriana Magnus SPECIES
-=======
+# Ovularia bornmuelleriana Magnus SPECIES
 
 #### Status
 ACCEPTED

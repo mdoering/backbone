@@ -1,5 +1,4 @@
-Clitocybe paropsis (Fr.) Sacc. SPECIES
-=======
+# Clitocybe paropsis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

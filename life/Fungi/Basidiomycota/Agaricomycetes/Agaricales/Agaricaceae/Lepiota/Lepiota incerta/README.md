@@ -1,5 +1,4 @@
-Lepiota incerta Mattir. SPECIES
-=======
+# Lepiota incerta Mattir. SPECIES
 
 #### Status
 ACCEPTED

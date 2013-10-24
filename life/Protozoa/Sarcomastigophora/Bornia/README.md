@@ -1,5 +1,4 @@
-Bornia GENUS
-=======
+# Bornia GENUS
 
 #### Status
 ACCEPTED

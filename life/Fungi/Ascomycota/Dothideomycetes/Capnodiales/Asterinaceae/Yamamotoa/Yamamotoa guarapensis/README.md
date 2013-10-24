@@ -1,5 +1,4 @@
-Yamamotoa guarapensis Bat. & Maia, 1960 SPECIES
-=======
+# Yamamotoa guarapensis Bat. & Maia, 1960 SPECIES
 
 #### Status
 ACCEPTED

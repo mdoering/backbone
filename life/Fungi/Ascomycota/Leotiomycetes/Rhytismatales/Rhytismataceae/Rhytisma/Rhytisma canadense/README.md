@@ -1,5 +1,4 @@
-Rhytisma canadense Peck SPECIES
-=======
+# Rhytisma canadense Peck SPECIES
 
 #### Status
 ACCEPTED

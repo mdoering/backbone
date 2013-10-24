@@ -1,5 +1,4 @@
-Massariosphaeria moricola Kaz. Tanaka & Y. Harada, 2004 SPECIES
-=======
+# Massariosphaeria moricola Kaz. Tanaka & Y. Harada, 2004 SPECIES
 
 #### Status
 ACCEPTED

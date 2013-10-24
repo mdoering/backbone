@@ -1,8 +1,7 @@
-Boletus collinitus Fr., 1838 SPECIES
-=======
+# Suillus collinitus (Fr.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

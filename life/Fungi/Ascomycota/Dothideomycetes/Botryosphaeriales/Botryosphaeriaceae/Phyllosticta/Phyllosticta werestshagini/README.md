@@ -1,5 +1,4 @@
-Phyllosticta werestshagini Murashk. SPECIES
-=======
+# Phyllosticta werestshagini Murashk. SPECIES
 
 #### Status
 ACCEPTED

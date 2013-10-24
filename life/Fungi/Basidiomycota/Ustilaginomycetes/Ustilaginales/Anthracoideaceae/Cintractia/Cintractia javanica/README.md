@@ -1,5 +1,4 @@
-Cintractia javanica Racib. SPECIES
-=======
+# Cintractia javanica Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sathrophilus Corliss, 1960 GENUS
-=======
+# Sathrophilus Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

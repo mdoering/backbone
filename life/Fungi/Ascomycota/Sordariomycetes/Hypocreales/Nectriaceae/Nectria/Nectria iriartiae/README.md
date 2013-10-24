@@ -1,5 +1,4 @@
-Nectria iriartiae Henn. SPECIES
-=======
+# Nectria iriartiae Henn. SPECIES
 
 #### Status
 ACCEPTED

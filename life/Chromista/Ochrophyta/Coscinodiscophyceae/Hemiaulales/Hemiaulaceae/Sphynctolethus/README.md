@@ -1,5 +1,4 @@
-Sphynctolethus Hanna, 1927 GENUS
-=======
+# Sphynctolethus Hanna, 1927 GENUS
 
 #### Status
 ACCEPTED

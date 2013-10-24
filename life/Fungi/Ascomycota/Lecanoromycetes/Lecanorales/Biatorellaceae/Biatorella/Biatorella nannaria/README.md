@@ -1,5 +1,4 @@
-Biatorella nannaria (Tuck.) Zahlbr. SPECIES
-=======
+# Biatorella nannaria (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora farinosomarginata Zenk. SPECIES
-=======
+# Lecanora farinosomarginata Zenk. SPECIES
 
 #### Status
 ACCEPTED

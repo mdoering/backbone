@@ -1,5 +1,4 @@
-Pseudocercospora rhinocarpi U. Braun & Crous SPECIES
-=======
+# Pseudocercospora rhinocarpi U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

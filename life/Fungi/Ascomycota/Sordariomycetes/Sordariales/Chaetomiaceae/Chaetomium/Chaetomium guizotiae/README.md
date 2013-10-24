@@ -1,5 +1,4 @@
-Chaetomium guizotiae Tilak & D.L. Ram Reddy SPECIES
-=======
+# Chaetomium guizotiae Tilak & D.L. Ram Reddy SPECIES
 
 #### Status
 ACCEPTED

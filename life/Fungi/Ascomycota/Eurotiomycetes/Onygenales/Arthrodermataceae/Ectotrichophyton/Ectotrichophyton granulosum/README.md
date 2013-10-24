@@ -1,5 +1,4 @@
-Ectotrichophyton granulosum (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Ectotrichophyton granulosum (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

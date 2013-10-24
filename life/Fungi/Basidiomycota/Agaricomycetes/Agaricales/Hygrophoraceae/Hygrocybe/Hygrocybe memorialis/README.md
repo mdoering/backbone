@@ -1,5 +1,4 @@
-Hygrocybe memorialis Bon & Lefebvre SPECIES
-=======
+# Hygrocybe memorialis Bon & Lefebvre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria diatrypa (Ach.) DC. SPECIES
-=======
+# Imbricaria diatrypa (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

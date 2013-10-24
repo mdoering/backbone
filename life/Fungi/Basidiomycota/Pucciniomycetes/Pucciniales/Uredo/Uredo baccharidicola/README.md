@@ -1,5 +1,4 @@
-Uredo baccharidicola Speg. SPECIES
-=======
+# Uredo baccharidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

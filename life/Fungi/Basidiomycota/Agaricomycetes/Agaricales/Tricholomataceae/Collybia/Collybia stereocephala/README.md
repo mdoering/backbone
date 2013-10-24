@@ -1,5 +1,4 @@
-Collybia stereocephala Berk. & M.A. Curtis SPECIES
-=======
+# Collybia stereocephala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

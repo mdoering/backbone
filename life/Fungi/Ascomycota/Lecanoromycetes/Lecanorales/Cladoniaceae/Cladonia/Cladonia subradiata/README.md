@@ -1,17 +1,16 @@
-Cladonia fimbriata var. balfourii (Cromb.) Vain. VARIETY
-=======
+# Cladonia subradiata (Vain.) Sandst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Cladon. 2: 239 (1894)
+Abh. naturw. Ver. Bremen 25: 230 (1922)
 
 #### Original name
-Cladonia balfourii
+Cladonia fimbriata var. subradiata Vain.
 
 ### Remarks
 null

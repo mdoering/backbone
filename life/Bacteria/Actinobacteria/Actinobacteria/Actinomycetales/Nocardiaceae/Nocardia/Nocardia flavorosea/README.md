@@ -1,5 +1,4 @@
-Nocardia flavorosea Chun et al., 1998 SPECIES
-=======
+# Nocardia flavorosea Chun et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

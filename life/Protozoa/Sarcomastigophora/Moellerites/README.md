@@ -1,5 +1,4 @@
-Moellerites Solovieva, 1986 GENUS
-=======
+# Moellerites Solovieva, 1986 GENUS
 
 #### Status
 ACCEPTED

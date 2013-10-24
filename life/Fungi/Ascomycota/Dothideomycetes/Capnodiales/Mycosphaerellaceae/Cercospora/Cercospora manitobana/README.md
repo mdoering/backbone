@@ -1,5 +1,4 @@
-Cercospora manitobana Davis SPECIES
-=======
+# Cercospora manitobana Davis SPECIES
 
 #### Status
 ACCEPTED

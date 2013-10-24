@@ -1,5 +1,4 @@
-Asterella conyzae Pat. SPECIES
-=======
+# Asterella conyzae Pat. SPECIES
 
 #### Status
 ACCEPTED

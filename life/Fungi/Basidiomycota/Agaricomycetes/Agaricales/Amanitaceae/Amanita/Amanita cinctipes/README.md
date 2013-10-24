@@ -1,5 +1,4 @@
-Amanita cinctipes Corner & Bas SPECIES
-=======
+# Amanita cinctipes Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

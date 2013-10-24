@@ -1,5 +1,4 @@
-Chaetomium biporatum Cano & Guarro, 1987 SPECIES
-=======
+# Chaetomium biporatum Cano & Guarro, 1987 SPECIES
 
 #### Status
 ACCEPTED

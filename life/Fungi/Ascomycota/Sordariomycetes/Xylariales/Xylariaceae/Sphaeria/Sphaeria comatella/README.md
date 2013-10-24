@@ -1,5 +1,4 @@
-Sphaeria comatella Cooke & Ellis SPECIES
-=======
+# Sphaeria comatella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

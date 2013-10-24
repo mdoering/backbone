@@ -1,17 +1,16 @@
-Collema subconveniens f. pruinosum Degel. FORM
-=======
+# Collema subconveniens Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 20(2): 138 (1974)
+Lich. Nov. Zeland. 8 (1888)
 
 #### Original name
-Collema subconveniens f. pruinosum Degel.
+Collema subconveniens Nyl.
 
 ### Remarks
 null

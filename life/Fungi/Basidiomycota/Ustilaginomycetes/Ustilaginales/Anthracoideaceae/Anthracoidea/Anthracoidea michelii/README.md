@@ -1,5 +1,4 @@
-Anthracoidea michelii Vánky SPECIES
-=======
+# Anthracoidea michelii Vánky SPECIES
 
 #### Status
 ACCEPTED

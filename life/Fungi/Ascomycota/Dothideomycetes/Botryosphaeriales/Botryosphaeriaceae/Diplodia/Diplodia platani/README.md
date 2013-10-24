@@ -1,5 +1,4 @@
-Diplodia platani Tassi SPECIES
-=======
+# Diplodia platani Tassi SPECIES
 
 #### Status
 ACCEPTED

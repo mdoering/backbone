@@ -1,5 +1,4 @@
-Dischloridium microscopicum anon. SPECIES
-=======
+# Dischloridium microscopicum anon. SPECIES
 
 #### Status
 ACCEPTED

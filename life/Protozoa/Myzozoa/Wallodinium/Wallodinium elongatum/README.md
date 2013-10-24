@@ -1,5 +1,4 @@
-Wallodinium elongatum (Beju, 1971) Duxbury, 1980 SPECIES
-=======
+# Wallodinium elongatum (Beju, 1971) Duxbury, 1980 SPECIES
 
 #### Status
 ACCEPTED

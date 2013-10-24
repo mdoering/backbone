@@ -1,5 +1,4 @@
-Coniothyrium inulae var. inulae VARIETY
-=======
+# Coniothyrium inulae Jaap SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium inulae var. inulae
+Coniothyrium inulae Jaap
 
 ### Remarks
 null

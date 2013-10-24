@@ -1,5 +1,4 @@
-Phyllosticta everhartii Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta everhartii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

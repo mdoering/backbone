@@ -1,5 +1,4 @@
-Marasmiellus aporposeptus Singer SPECIES
-=======
+# Marasmiellus aporposeptus Singer SPECIES
 
 #### Status
 ACCEPTED

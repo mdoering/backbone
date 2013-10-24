@@ -1,5 +1,4 @@
-Cystopage Drechsler GENUS
-=======
+# Cystopage Drechsler GENUS
 
 #### Status
 ACCEPTED

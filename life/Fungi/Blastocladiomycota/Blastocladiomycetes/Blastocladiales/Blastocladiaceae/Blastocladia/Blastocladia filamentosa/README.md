@@ -1,5 +1,4 @@
-Blastocladia filamentosa S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia filamentosa S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

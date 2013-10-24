@@ -1,17 +1,16 @@
-Cortinaria watsonii Murrill SPECIES
-=======
+# Cortinarius watsonii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 320 (1945)
 
 #### Original name
-Cortinaria watsonii Murrill
+Cortinarius watsonii Murrill
 
 ### Remarks
 null

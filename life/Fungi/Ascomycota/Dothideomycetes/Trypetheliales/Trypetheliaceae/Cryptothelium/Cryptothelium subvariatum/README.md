@@ -1,5 +1,4 @@
-Cryptothelium subvariatum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium subvariatum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

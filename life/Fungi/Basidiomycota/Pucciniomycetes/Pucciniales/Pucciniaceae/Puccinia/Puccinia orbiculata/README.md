@@ -1,5 +1,4 @@
-Puccinia orbiculata Syd. SPECIES
-=======
+# Puccinia orbiculata Syd. SPECIES
 
 #### Status
 ACCEPTED

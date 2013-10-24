@@ -1,5 +1,4 @@
-Lecidea polycocca var. polycocca VARIETY
-=======
+# Lecidea polycocca SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea polycocca var. polycocca
+null
 
 ### Remarks
 null

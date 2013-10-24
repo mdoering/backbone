@@ -1,5 +1,4 @@
-Melosira hyperborea Grunow SPECIES
-=======
+# Melosira hyperborea Grunow SPECIES
 
 #### Status
 ACCEPTED

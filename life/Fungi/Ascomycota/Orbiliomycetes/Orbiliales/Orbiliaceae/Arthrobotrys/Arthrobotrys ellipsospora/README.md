@@ -1,5 +1,4 @@
-Arthrobotrys ellipsospora Tubaki & K. Yamanaka SPECIES
-=======
+# Arthrobotrys ellipsospora Tubaki & K. Yamanaka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporobolomyces oryzicola Nakase & M. Suzuki SPECIES
-=======
+# Sporobolomyces oryzicola Nakase & M. Suzuki SPECIES
 
 #### Status
 ACCEPTED

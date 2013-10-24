@@ -1,5 +1,4 @@
-Cercospora asclepiadorae Ellis & Kellerm. SPECIES
-=======
+# Cercospora asclepiadorae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

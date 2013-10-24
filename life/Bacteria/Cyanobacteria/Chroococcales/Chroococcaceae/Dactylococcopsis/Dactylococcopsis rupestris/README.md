@@ -1,5 +1,4 @@
-Dactylococcopsis rupestris Hansgirg SPECIES
-=======
+# Dactylococcopsis rupestris Hansgirg SPECIES
 
 #### Status
 ACCEPTED

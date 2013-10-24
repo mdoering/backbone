@@ -1,5 +1,4 @@
-Megalospora pachyloma (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Megalospora pachyloma (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

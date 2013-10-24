@@ -1,5 +1,4 @@
-Agaricus abruptus Fr. SPECIES
-=======
+# Agaricus abruptus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platygramme heteromorpha Fée SPECIES
-=======
+# Platygramme heteromorpha Fée SPECIES
 
 #### Status
 ACCEPTED

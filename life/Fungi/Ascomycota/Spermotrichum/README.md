@@ -1,5 +1,4 @@
-Spermotrichum Kuntze GENUS
-=======
+# Spermotrichum Kuntze GENUS
 
 #### Status
 ACCEPTED

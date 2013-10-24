@@ -1,5 +1,4 @@
-Aureobasidium microstromoides (Moesz) W.B. Cooke SPECIES
-=======
+# Aureobasidium microstromoides (Moesz) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

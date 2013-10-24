@@ -1,8 +1,7 @@
-Donovania Anderson et al., 1944 GENUS
-=======
+# Calymmatobacterium Aragão & Vianna, 1913 (Approved Lists, 1980) GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

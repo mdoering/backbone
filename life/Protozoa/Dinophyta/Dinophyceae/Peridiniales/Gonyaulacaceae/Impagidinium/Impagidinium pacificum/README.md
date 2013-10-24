@@ -1,5 +1,4 @@
-Impagidinium pacificum J. P. Bujak SPECIES
-=======
+# Impagidinium pacificum J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

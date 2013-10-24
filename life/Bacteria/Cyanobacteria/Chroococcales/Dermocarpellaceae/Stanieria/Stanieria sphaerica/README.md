@@ -1,8 +1,7 @@
-Dermocarpa sphaerica Setchell & N.L. Gardner SPECIES
-=======
+# Stanieria sphaerica (Setchell & N.L. Gardner) Anagnostidis & Pantazidou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

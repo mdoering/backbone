@@ -1,5 +1,4 @@
-Plectocarpon usneaustralis Etayo SPECIES
-=======
+# Plectocarpon usneaustralis Etayo SPECIES
 
 #### Status
 ACCEPTED

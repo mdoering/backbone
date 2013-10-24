@@ -1,5 +1,4 @@
-Aspicilia peripterodes (Nyl.) Oxner SPECIES
-=======
+# Aspicilia peripterodes (Nyl.) Oxner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavihedbergella Banner & Blow, 1959 GENUS
-=======
+# Clavihedbergella Banner & Blow, 1959 GENUS
 
 #### Status
 ACCEPTED

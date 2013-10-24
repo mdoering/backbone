@@ -1,5 +1,4 @@
-Lecanora cantiana (Garov.) Zahlbr. SPECIES
-=======
+# Lecanora cantiana (Garov.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

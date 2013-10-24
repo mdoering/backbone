@@ -1,5 +1,4 @@
-Calloria mellea Roum. SPECIES
-=======
+# Calloria mellea Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporium crocophilum Mont. SPECIES
-=======
+# Perisporium crocophilum Mont. SPECIES
 
 #### Status
 ACCEPTED

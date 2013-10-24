@@ -1,5 +1,4 @@
-Clypeolum circinans Pat. SPECIES
-=======
+# Clypeolum circinans Pat. SPECIES
 
 #### Status
 ACCEPTED

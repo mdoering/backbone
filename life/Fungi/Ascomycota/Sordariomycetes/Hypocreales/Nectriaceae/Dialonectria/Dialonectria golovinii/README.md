@@ -1,5 +1,4 @@
-Dialonectria golovinii Kravtzev SPECIES
-=======
+# Dialonectria golovinii Kravtzev SPECIES
 
 #### Status
 ACCEPTED

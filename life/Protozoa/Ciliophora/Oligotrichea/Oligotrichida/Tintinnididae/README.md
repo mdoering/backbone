@@ -1,5 +1,4 @@
-Tintinnididae FAMILY
-=======
+# Tintinnididae FAMILY
 
 #### Status
 ACCEPTED

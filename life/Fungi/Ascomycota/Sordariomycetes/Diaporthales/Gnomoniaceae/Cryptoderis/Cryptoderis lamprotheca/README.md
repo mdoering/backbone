@@ -1,5 +1,4 @@
-Cryptoderis lamprotheca (Desm.) Auersw. SPECIES
-=======
+# Cryptoderis lamprotheca (Desm.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

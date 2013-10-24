@@ -1,5 +1,4 @@
-Corticium rubropunctatum Massee & Rodway SPECIES
-=======
+# Corticium rubropunctatum Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pylospira Haeckel, 1887 GENUS
-=======
+# Pylospira Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

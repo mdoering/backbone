@@ -1,5 +1,4 @@
-Puccinia pindoramae Viégas SPECIES
-=======
+# Puccinia pindoramae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistella sasae Raitv. SPECIES
-=======
+# Cistella sasae Raitv. SPECIES
 
 #### Status
 ACCEPTED

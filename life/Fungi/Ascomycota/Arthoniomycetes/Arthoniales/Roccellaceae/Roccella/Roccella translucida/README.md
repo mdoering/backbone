@@ -1,5 +1,4 @@
-Roccella translucida Follmann & B. Werner SPECIES
-=======
+# Roccella translucida Follmann & B. Werner SPECIES
 
 #### Status
 ACCEPTED

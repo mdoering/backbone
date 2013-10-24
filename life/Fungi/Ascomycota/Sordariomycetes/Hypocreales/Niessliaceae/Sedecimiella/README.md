@@ -1,5 +1,4 @@
-Sedecimiella GENUS
-=======
+# Sedecimiella GENUS
 
 #### Status
 ACCEPTED

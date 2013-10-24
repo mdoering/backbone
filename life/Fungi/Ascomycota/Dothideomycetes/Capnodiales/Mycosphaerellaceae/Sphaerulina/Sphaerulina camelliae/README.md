@@ -1,5 +1,4 @@
-Sphaerulina camelliae Pass. SPECIES
-=======
+# Sphaerulina camelliae Pass. SPECIES
 
 #### Status
 ACCEPTED

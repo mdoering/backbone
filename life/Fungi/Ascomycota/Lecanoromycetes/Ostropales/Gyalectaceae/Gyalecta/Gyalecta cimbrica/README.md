@@ -1,5 +1,4 @@
-Gyalecta cimbrica (A. Massal.) Jatta SPECIES
-=======
+# Gyalecta cimbrica (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

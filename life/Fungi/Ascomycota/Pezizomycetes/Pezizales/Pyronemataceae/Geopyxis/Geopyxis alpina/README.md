@@ -1,5 +1,4 @@
-Geopyxis alpina Höhn. SPECIES
-=======
+# Geopyxis alpina Höhn. SPECIES
 
 #### Status
 ACCEPTED

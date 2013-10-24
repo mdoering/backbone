@@ -1,5 +1,4 @@
-Laboulbenia barbata Thaxt. SPECIES
-=======
+# Laboulbenia barbata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

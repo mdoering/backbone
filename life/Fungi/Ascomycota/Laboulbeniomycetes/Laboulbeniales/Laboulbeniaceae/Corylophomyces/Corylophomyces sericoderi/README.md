@@ -1,14 +1,13 @@
-Autophagomyces sericoderi Santam., 1993 SPECIES
-=======
+# Corylophomyces sericoderi (Santam.) R.K. Benj., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 56(3-4): 412 (1993)
+Aliso 14(1): 45 (1994)
 
 #### Original name
 Autophagomyces sericoderi Santam., 1993

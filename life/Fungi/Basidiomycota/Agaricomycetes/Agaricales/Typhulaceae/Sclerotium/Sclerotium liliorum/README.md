@@ -1,5 +1,4 @@
-Sclerotium liliorum Schwein. SPECIES
-=======
+# Sclerotium liliorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

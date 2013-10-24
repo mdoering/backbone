@@ -1,5 +1,4 @@
-Porpidia calcarea Gowan SPECIES
-=======
+# Porpidia calcarea Gowan SPECIES
 
 #### Status
 ACCEPTED

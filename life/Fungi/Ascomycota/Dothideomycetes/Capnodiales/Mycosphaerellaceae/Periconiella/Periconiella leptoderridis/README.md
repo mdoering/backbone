@@ -1,5 +1,4 @@
-Periconiella leptoderridis M.B. Ellis SPECIES
-=======
+# Periconiella leptoderridis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

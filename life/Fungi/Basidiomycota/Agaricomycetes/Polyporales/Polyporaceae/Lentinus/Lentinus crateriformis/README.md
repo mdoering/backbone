@@ -1,5 +1,4 @@
-Lentinus crateriformis Henn. SPECIES
-=======
+# Lentinus crateriformis Henn. SPECIES
 
 #### Status
 ACCEPTED

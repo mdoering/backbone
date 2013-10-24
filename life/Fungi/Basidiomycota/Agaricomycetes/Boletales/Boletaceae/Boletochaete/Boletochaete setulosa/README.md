@@ -1,5 +1,4 @@
-Boletochaete setulosa M. Zang, 1986 SPECIES
-=======
+# Boletochaete setulosa M. Zang, 1986 SPECIES
 
 #### Status
 ACCEPTED

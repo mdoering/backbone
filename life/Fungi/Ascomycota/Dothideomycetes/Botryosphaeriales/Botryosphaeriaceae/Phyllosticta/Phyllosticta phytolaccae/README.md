@@ -1,5 +1,4 @@
-Phyllosticta phytolaccae Cooke SPECIES
-=======
+# Phyllosticta phytolaccae Cooke SPECIES
 
 #### Status
 ACCEPTED

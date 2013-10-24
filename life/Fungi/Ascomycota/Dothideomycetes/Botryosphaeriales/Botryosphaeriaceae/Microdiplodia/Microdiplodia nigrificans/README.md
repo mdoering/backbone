@@ -1,5 +1,4 @@
-Microdiplodia nigrificans Sacc. SPECIES
-=======
+# Microdiplodia nigrificans Sacc. SPECIES
 
 #### Status
 ACCEPTED

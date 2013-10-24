@@ -1,5 +1,4 @@
-Orastrum colligatum SPECIES
-=======
+# Orastrum colligatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremellodon candidus (J.C. Schmidt) Quél. SPECIES
-=======
+# Tremellodon candidus (J.C. Schmidt) Quél. SPECIES
 
 #### Status
 ACCEPTED

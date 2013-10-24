@@ -1,5 +1,4 @@
-Albugo austroafricana Syd. & P. Syd. SPECIES
-=======
+# Albugo austroafricana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

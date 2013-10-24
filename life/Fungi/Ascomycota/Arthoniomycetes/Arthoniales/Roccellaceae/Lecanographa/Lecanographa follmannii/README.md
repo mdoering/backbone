@@ -1,5 +1,4 @@
-Lecanographa follmannii (C.W. Dodge) Egea & Torrente SPECIES
-=======
+# Lecanographa follmannii (C.W. Dodge) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

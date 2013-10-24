@@ -1,5 +1,4 @@
-Pyrenomonadaceae G. Novarino & I.A.N. Lucas FAMILY
-=======
+# Pyrenomonadaceae G. Novarino & I.A.N. Lucas FAMILY
 
 #### Status
 ACCEPTED

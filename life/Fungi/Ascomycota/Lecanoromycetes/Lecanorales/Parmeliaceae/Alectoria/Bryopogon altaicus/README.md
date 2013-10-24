@@ -1,5 +1,4 @@
-Bryopogon altaicus Gyeln. SPECIES
-=======
+# Bryopogon altaicus Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Naucoria copriniceps (Berk.) Sacc. SPECIES
-=======
+# Naucoria coprinoceps (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 835 (1887)
 
 #### Original name
 Agaricus coprinoceps Berk. & M.A. Curtis

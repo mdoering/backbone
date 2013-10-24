@@ -1,5 +1,4 @@
-Sphaerulina corynephora Munk SPECIES
-=======
+# Sphaerulina corynephora Munk SPECIES
 
 #### Status
 ACCEPTED

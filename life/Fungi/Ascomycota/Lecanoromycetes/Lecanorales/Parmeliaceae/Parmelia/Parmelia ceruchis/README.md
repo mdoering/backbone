@@ -1,5 +1,4 @@
-Parmelia ceruchis Ach. SPECIES
-=======
+# Parmelia ceruchis Ach. SPECIES
 
 #### Status
 ACCEPTED

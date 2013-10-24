@@ -1,5 +1,4 @@
-Baltisphaeridium oblongum Timofeev, 1959 ex N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium oblongum Timofeev, 1959 ex N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

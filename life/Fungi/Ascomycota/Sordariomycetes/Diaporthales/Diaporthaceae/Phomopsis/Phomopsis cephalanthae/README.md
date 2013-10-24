@@ -1,5 +1,4 @@
-Phomopsis cephalanthae Sawada SPECIES
-=======
+# Phomopsis cephalanthae Sawada SPECIES
 
 #### Status
 ACCEPTED

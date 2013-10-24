@@ -1,5 +1,4 @@
-Asteridiella perspicua (Cif.) Hansf. SPECIES
-=======
+# Asteridiella perspicua (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

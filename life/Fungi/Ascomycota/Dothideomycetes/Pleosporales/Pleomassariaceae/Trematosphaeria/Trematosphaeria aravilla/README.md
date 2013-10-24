@@ -1,5 +1,4 @@
-Trematosphaeria aravilla Panwar & S.J. Kaur SPECIES
-=======
+# Trematosphaeria aravilla Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

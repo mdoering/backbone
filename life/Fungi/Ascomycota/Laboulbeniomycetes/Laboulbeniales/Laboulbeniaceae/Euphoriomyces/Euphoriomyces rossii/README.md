@@ -1,5 +1,4 @@
-Euphoriomyces rossii T. Majewski SPECIES
-=======
+# Euphoriomyces rossii T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella jaerae Precht, 1935 SPECIES
-=======
+# Vorticella jaerae Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

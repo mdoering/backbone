@@ -1,5 +1,4 @@
-Dicaeoma spectabile (G.H. Otth) Kuntze SPECIES
-=======
+# Dicaeoma spectabile (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

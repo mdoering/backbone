@@ -1,5 +1,4 @@
-Dicaeoma gibberulosum (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma gibberulosum (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

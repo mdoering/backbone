@@ -1,5 +1,4 @@
-Ditiola brasiliensis (Lloyd) McNabb SPECIES
-=======
+# Ditiola brasiliensis (Lloyd) McNabb SPECIES
 
 #### Status
 ACCEPTED

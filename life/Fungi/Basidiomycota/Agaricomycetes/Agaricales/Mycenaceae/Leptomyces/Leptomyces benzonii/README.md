@@ -1,8 +1,7 @@
-Leptomyces benzoni (Fr.) Murrill SPECIES
-=======
+# Leptomyces benzonii (Fr.) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

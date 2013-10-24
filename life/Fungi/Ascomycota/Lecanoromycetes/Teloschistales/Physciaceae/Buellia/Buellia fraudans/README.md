@@ -1,8 +1,7 @@
-Karschia fraudans Starbäck SPECIES
-=======
+# Buellia fraudans (Starbäck) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

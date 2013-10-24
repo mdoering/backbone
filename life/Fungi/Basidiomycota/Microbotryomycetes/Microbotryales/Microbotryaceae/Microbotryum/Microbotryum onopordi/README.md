@@ -1,14 +1,13 @@
-Bauhinus onopordi (Vánky) Denchev, 1997 SPECIES
-=======
+# Microbotryum onopordi (Vánky) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 423 (1997)
+Mycotaxon 67: 48 (1998)
 
 #### Original name
 Ustilago onopordi Vánky, 1991

@@ -1,5 +1,4 @@
-Graphis astroidea Vain. SPECIES
-=======
+# Graphis astroidea Vain. SPECIES
 
 #### Status
 ACCEPTED

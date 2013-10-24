@@ -1,5 +1,4 @@
-Leptosphaeria phacae E. Müll. SPECIES
-=======
+# Leptosphaeria phacae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

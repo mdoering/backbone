@@ -1,5 +1,4 @@
-Cortinarius catharinae Consiglio SPECIES
-=======
+# Cortinarius catharinae Consiglio SPECIES
 
 #### Status
 ACCEPTED

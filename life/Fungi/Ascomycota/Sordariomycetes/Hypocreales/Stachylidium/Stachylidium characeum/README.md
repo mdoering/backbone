@@ -1,5 +1,4 @@
-Stachylidium characeum Corda SPECIES
-=======
+# Stachylidium characeum Corda SPECIES
 
 #### Status
 ACCEPTED

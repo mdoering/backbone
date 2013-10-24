@@ -1,5 +1,4 @@
-Xanthoparmelia dissitifolia Kurok. SPECIES
-=======
+# Xanthoparmelia dissitifolia Kurok. SPECIES
 
 #### Status
 ACCEPTED

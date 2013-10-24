@@ -1,5 +1,4 @@
-Laboulbenia egens Spegazzini SPECIES
-=======
+# Laboulbenia egens Spegazzini SPECIES
 
 #### Status
 ACCEPTED

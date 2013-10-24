@@ -1,5 +1,4 @@
-Camarosporium parrotiae Allesch. SPECIES
-=======
+# Camarosporium parrotiae Allesch. SPECIES
 
 #### Status
 ACCEPTED

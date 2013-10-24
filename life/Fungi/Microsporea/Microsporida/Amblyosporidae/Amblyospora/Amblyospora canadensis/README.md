@@ -1,5 +1,4 @@
-Amblyospora canadensis SPECIES
-=======
+# Amblyospora canadensis SPECIES
 
 #### Status
 ACCEPTED

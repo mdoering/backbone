@@ -1,5 +1,4 @@
-Pseudopedinella thomsenii Sekiguchi, Kawachi, Nakayama & Inouye, 2003 SPECIES
-=======
+# Pseudopedinella thomsenii Sekiguchi, Kawachi, Nakayama & Inouye, 2003 SPECIES
 
 #### Status
 ACCEPTED

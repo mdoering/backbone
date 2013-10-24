@@ -1,5 +1,4 @@
-Hemitrichia vesiculosa Nann.-Bremek. & Frentrop, 1981 SPECIES
-=======
+# Hemitrichia vesiculosa Nann.-Bremek. & Frentrop, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfosarcina Widdel, 1981 GENUS
-=======
+# Desulfosarcina Widdel, 1981 GENUS
 
 #### Status
 ACCEPTED

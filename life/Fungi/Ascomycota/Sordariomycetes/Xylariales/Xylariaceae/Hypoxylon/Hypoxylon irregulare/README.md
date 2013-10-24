@@ -1,5 +1,4 @@
-Hypoxylon irregulare Cooke SPECIES
-=======
+# Hypoxylon irregulare Cooke SPECIES
 
 #### Status
 ACCEPTED

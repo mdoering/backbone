@@ -1,5 +1,4 @@
-Harpochytriaceae Wille FAMILY
-=======
+# Harpochytriaceae Wille FAMILY
 
 #### Status
 ACCEPTED

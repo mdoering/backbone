@@ -1,5 +1,4 @@
-Tinocladia Kylin, 1940 GENUS
-=======
+# Tinocladia Kylin, 1940 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Witwateromyces Hallbauer, Jahns & Van Warmelo GENUS
-=======
+# Witwateromyces Hallbauer, Jahns & Van Warmelo GENUS
 
 #### Status
 ACCEPTED

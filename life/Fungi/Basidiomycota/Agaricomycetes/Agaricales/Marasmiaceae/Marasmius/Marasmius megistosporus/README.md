@@ -1,5 +1,4 @@
-Marasmius megistosporus Singer SPECIES
-=======
+# Marasmius megistosporus Singer SPECIES
 
 #### Status
 ACCEPTED

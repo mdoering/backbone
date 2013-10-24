@@ -1,5 +1,4 @@
-Graphis fulgurans Nyl. SPECIES
-=======
+# Graphis fulgurans Nyl. SPECIES
 
 #### Status
 ACCEPTED

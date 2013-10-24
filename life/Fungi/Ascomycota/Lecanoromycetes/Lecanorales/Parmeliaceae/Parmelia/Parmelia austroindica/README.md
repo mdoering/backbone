@@ -1,5 +1,4 @@
-Parmelia austroindica D.D. Awasthi SPECIES
-=======
+# Parmelia austroindica D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

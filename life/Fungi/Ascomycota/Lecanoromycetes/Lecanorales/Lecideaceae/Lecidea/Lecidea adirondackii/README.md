@@ -1,5 +1,4 @@
-Lecidea adirondackii H. Magn. SPECIES
-=======
+# Lecidea adirondackii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

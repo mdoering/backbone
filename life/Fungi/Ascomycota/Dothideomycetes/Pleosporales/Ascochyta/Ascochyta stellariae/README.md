@@ -1,5 +1,4 @@
-Ascochyta stellariae Fautrey, 1896 SPECIES
-=======
+# Ascochyta stellariae Fautrey, 1896 SPECIES
 
 #### Status
 ACCEPTED

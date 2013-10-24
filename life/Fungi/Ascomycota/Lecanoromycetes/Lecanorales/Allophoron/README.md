@@ -1,5 +1,4 @@
-Allophoron Nádv. GENUS
-=======
+# Allophoron Nádv. GENUS
 
 #### Status
 ACCEPTED

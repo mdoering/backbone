@@ -1,5 +1,4 @@
-Stigonema canadensis Taylor SPECIES
-=======
+# Stigonema canadensis Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria infuscans (Ellis & Everh.) R. Sprague SPECIES
-=======
+# Septoria infuscans (Ellis & Everh.) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

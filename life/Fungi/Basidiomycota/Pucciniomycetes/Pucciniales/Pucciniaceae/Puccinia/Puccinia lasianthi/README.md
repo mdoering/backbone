@@ -1,5 +1,4 @@
-Puccinia lasianthi H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia lasianthi H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

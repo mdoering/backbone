@@ -1,5 +1,4 @@
-Alysidium tulipiferae (Ellis & G. Martin) Pound & Clem. SPECIES
-=======
+# Alysidium tulipiferae (Ellis & G. Martin) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

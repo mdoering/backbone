@@ -1,5 +1,4 @@
-Aspicilia coronuligera (Zahlbr.) SPECIES
-=======
+# Aspicilia coronuligera (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

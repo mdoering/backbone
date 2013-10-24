@@ -1,5 +1,4 @@
-Phyllosticta neglecta Brunaud SPECIES
-=======
+# Phyllosticta neglecta Brunaud SPECIES
 
 #### Status
 ACCEPTED

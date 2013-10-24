@@ -1,5 +1,4 @@
-Belonidium schnablianum Rehm SPECIES
-=======
+# Belonidium schnablianum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hericium erinaceum (Bull. Fr.) Pers. SPECIES
-=======
+# Hericium erinaceum (Bull. Fr.) Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Neopeckia rhodosticta var. rhodosticta VARIETY
-=======
+# Herpotrichia rhodosticta (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 11: 317 (1895)
+Syll. fung. (Abellini) 2: 213 (1883)
 
 #### Original name
-Neopeckia rhodosticta var. rhodosticta
+Sphaeria rhodosticta Berk. & Broome, 1875
 
 ### Remarks
 null

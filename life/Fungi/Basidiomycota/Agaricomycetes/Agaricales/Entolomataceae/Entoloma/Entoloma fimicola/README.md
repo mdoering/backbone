@@ -1,5 +1,4 @@
-Entoloma fimicola P. Welt & E. Ludw. SPECIES
-=======
+# Entoloma fimicola P. Welt & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

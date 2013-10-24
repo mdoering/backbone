@@ -1,5 +1,4 @@
-Guepinia rediviva Jungh. SPECIES
-=======
+# Guepinia rediviva Jungh. SPECIES
 
 #### Status
 ACCEPTED

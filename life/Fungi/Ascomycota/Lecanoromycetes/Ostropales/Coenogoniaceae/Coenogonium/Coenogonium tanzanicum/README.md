@@ -1,5 +1,4 @@
-Coenogonium tanzanicum (Vezda & Farkas) Lücking & Kalb SPECIES
-=======
+# Coenogonium tanzanicum (Vezda & Farkas) Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

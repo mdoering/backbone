@@ -1,5 +1,4 @@
-Gymnosporium roseum Corda SPECIES
-=======
+# Gymnosporium roseum Corda SPECIES
 
 #### Status
 ACCEPTED

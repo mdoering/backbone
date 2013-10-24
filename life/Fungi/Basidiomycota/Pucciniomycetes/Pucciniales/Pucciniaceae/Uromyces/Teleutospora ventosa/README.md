@@ -1,5 +1,4 @@
-Teleutospora ventosa Syd. SPECIES
-=======
+# Teleutospora ventosa Syd. SPECIES
 
 #### Status
 ACCEPTED

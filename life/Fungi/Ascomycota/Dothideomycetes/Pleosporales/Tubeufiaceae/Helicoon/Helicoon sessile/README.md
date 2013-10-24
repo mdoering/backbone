@@ -1,5 +1,4 @@
-Helicoon sessile Morgan, 1892 SPECIES
-=======
+# Helicoon sessile Morgan, 1892 SPECIES
 
 #### Status
 ACCEPTED

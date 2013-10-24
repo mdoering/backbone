@@ -1,5 +1,4 @@
-Poria barbaeformis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Poria barbaeformis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

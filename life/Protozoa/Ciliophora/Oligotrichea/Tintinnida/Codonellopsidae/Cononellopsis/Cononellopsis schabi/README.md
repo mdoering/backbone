@@ -1,5 +1,4 @@
-Cononellopsis schabi Kofoid & Campbell SPECIES
-=======
+# Cononellopsis schabi Kofoid & Campbell SPECIES
 
 #### Status
 ACCEPTED

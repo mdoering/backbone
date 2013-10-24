@@ -1,5 +1,4 @@
-Dimelaena leana SPECIES
-=======
+# Dimelaena leana SPECIES
 
 #### Status
 ACCEPTED

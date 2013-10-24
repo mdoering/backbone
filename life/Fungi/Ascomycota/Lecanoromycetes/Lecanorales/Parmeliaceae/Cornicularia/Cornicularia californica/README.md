@@ -1,5 +1,4 @@
-Cornicularia californica (Tuck.) Du Rietz SPECIES
-=======
+# Cornicularia californica (Tuck.) Du Rietz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lepidoderma tigrinum gracile Meyl., 1910 INFRASPECIFIC_NAME
-=======
+# Lepidoderma tigrinum (Schrad.) Rostaf., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Vers. Syst. Mycetozoen (Strassburg) 13 (1873)
 
 #### Original name
-null
+Didymium tigrinum Schrad., 1797
 
 ### Remarks
 null

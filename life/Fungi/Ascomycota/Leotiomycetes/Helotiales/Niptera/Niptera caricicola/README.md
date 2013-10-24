@@ -1,5 +1,4 @@
-Niptera caricicola Speg. SPECIES
-=======
+# Niptera caricicola Speg. SPECIES
 
 #### Status
 ACCEPTED

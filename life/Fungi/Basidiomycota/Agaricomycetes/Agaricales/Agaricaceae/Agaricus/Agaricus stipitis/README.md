@@ -1,5 +1,4 @@
-Agaricus stipitis Sowerby SPECIES
-=======
+# Agaricus stipitis Sowerby SPECIES
 
 #### Status
 ACCEPTED

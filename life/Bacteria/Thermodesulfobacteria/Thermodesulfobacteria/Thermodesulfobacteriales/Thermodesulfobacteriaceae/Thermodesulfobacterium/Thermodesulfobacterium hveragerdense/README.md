@@ -1,5 +1,4 @@
-Thermodesulfobacterium hveragerdense Sonne-Hansen & Ahring, 2000 SPECIES
-=======
+# Thermodesulfobacterium hveragerdense Sonne-Hansen & Ahring, 2000 SPECIES
 
 #### Status
 ACCEPTED

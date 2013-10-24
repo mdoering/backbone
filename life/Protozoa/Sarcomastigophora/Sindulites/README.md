@@ -1,5 +1,4 @@
-Sindulites Eames, 1968 GENUS
-=======
+# Sindulites Eames, 1968 GENUS
 
 #### Status
 ACCEPTED

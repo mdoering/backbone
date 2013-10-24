@@ -1,5 +1,4 @@
-Xyloma carpini Fr. SPECIES
-=======
+# Xyloma carpini Fr. SPECIES
 
 #### Status
 ACCEPTED

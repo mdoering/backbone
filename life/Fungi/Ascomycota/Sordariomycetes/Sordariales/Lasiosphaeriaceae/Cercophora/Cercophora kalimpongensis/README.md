@@ -1,5 +1,4 @@
-Cercophora kalimpongensis Mukerji, R.N. Kumar & N. Singh SPECIES
-=======
+# Cercophora kalimpongensis Mukerji, R.N. Kumar & N. Singh SPECIES
 
 #### Status
 ACCEPTED

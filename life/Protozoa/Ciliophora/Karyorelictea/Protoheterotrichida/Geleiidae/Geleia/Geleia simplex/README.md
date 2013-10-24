@@ -1,5 +1,4 @@
-Geleia simplex (Faure-Fremiet, 1951) Foissner, 1998 SPECIES
-=======
+# Geleia simplex (Faure-Fremiet, 1951) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

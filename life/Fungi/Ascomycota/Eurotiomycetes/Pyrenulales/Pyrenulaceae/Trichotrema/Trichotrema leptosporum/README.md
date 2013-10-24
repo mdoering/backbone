@@ -1,5 +1,4 @@
-Trichotrema leptosporum (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Trichotrema leptosporum (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

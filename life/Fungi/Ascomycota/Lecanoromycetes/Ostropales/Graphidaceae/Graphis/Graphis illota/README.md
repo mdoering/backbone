@@ -1,17 +1,16 @@
-Graphis illota var. illota VARIETY
-=======
+# Graphis illota Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Graphis illota var. illota
+Graphis illota Müll. Arg.
 
 ### Remarks
 null

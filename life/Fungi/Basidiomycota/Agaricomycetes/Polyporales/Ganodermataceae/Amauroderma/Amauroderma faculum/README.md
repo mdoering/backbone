@@ -1,5 +1,4 @@
-Amauroderma faculum Henao-M. SPECIES
-=======
+# Amauroderma faculum Henao-M. SPECIES
 
 #### Status
 ACCEPTED

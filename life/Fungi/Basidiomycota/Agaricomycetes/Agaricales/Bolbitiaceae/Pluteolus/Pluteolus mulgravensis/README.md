@@ -1,5 +1,4 @@
-Pluteolus mulgravensis Massee & Crossl. SPECIES
-=======
+# Pluteolus mulgravensis Massee & Crossl. SPECIES
 
 #### Status
 ACCEPTED

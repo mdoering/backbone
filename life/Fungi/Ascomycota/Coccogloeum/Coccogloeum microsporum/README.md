@@ -1,5 +1,4 @@
-Coccogloeum microsporum Petr., 1955 SPECIES
-=======
+# Coccogloeum microsporum Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

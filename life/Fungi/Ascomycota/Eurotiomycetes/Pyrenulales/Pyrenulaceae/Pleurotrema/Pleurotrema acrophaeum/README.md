@@ -1,5 +1,4 @@
-Pleurotrema acrophaeum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Pleurotrema acrophaeum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

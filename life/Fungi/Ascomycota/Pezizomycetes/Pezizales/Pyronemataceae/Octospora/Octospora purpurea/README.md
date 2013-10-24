@@ -1,5 +1,4 @@
-Octospora purpurea Hedw. SPECIES
-=======
+# Octospora purpurea Hedw. SPECIES
 
 #### Status
 ACCEPTED

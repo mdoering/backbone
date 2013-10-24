@@ -1,5 +1,4 @@
-Ustilago poae S. Ito SPECIES
-=======
+# Ustilago poae S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonulina sanguinea (Brunaud) Tassi SPECIES
-=======
+# Hendersonulina sanguinea (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora pilifera (Fautrey & F. Lamb.) Kuntze SPECIES
-=======
+# Cercidospora pilifera (Fautrey & F. Lamb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

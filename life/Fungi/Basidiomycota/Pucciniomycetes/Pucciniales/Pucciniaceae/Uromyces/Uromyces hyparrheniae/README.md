@@ -1,5 +1,4 @@
-Uromyces hyparrheniae Gjaerum, 1983 SPECIES
-=======
+# Uromyces hyparrheniae Gjaerum, 1983 SPECIES
 
 #### Status
 ACCEPTED

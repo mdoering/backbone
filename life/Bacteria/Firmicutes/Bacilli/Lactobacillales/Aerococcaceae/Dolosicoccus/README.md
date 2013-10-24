@@ -1,5 +1,4 @@
-Dolosicoccus Collins et al., 1999 GENUS
-=======
+# Dolosicoccus Collins et al., 1999 GENUS
 
 #### Status
 ACCEPTED

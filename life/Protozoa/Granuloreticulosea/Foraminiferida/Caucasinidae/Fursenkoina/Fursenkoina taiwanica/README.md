@@ -1,5 +1,4 @@
-Fursenkoina taiwanica (Nakamura) SPECIES
-=======
+# Fursenkoina taiwanica (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma haematites (Petr.) Boerema, Loer. & Hamers SPECIES
-=======
+# Phoma haematites (Petr.) Boerema, Loer. & Hamers SPECIES
 
 #### Status
 ACCEPTED

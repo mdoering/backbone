@@ -1,5 +1,4 @@
-Cercospora boutelouae Chupp & H.C. Greene SPECIES
-=======
+# Cercospora boutelouae Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

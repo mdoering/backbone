@@ -1,5 +1,4 @@
-Botrytis latebricola Jaap SPECIES
-=======
+# Botrytis latebricola Jaap SPECIES
 
 #### Status
 ACCEPTED

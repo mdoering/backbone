@@ -1,5 +1,4 @@
-Placodium leucoraeum (Ach.) Stizenb. SPECIES
-=======
+# Placodium leucoraeum (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

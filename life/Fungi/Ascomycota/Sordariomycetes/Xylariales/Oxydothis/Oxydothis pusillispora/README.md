@@ -1,5 +1,4 @@
-Oxydothis pusillispora J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis pusillispora J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

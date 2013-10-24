@@ -1,5 +1,4 @@
-Gloeosporium illicii Hemmi SPECIES
-=======
+# Gloeosporium illicii Hemmi SPECIES
 
 #### Status
 ACCEPTED

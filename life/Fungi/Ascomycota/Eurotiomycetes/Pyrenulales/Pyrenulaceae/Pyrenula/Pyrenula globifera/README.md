@@ -1,17 +1,16 @@
-Anthracothecium globiferum (Eschw.) Müll. Arg. SPECIES
-=======
+# Pyrenula globifera (Eschw.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Lücking, Sipman, Umaña & Chaves, Biblthca Lichenol. 97: 103 (2008)
 
 #### Original name
-null
+Verrucaria globifera Eschw.
 
 ### Remarks
 null

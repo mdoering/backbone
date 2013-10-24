@@ -1,5 +1,4 @@
-Samara scandens Hassk. SPECIES
-=======
+# Samara scandens Hassk. SPECIES
 
 #### Status
 ACCEPTED

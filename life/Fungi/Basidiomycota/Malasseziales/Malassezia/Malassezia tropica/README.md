@@ -1,5 +1,4 @@
-Malassezia tropica (Castell.) Schmitter SPECIES
-=======
+# Malassezia tropica (Castell.) Schmitter SPECIES
 
 #### Status
 ACCEPTED

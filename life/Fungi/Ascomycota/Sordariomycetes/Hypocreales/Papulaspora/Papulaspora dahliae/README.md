@@ -1,5 +1,4 @@
-Papulaspora dahliae Const. SPECIES
-=======
+# Papulaspora dahliae Const. SPECIES
 
 #### Status
 ACCEPTED

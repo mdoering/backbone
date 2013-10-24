@@ -1,5 +1,4 @@
-Leiophloea ungeri (Flot.) Trevis. SPECIES
-=======
+# Leiophloea ungeri (Flot.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

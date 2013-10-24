@@ -1,5 +1,4 @@
-Ascobolus fimiputris var. fimiputris VARIETY
-=======
+# Ascobolus fimiputris (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. bot. Fr. 26: 235 (1880)
 
 #### Original name
-Ascobolus fimiputris var. fimiputris
+Peziza fimiputris Fr.
 
 ### Remarks
 null

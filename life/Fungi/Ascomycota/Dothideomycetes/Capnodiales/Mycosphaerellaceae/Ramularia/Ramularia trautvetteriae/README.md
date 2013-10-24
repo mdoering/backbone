@@ -1,5 +1,4 @@
-Ramularia trautvetteriae C.G. Shaw & R. Sprague SPECIES
-=======
+# Ramularia trautvetteriae C.G. Shaw & R. Sprague SPECIES
 
 #### Status
 ACCEPTED

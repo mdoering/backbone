@@ -1,5 +1,4 @@
-Oudemansiella altissima (Massee) Corner SPECIES
-=======
+# Oudemansiella altissima (Massee) Corner SPECIES
 
 #### Status
 ACCEPTED

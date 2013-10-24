@@ -1,5 +1,4 @@
-Phaeosphaeria triticea T. Johnson SPECIES
-=======
+# Phaeosphaeria triticea T. Johnson SPECIES
 
 #### Status
 ACCEPTED

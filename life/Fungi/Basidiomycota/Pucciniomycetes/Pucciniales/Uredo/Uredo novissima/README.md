@@ -1,5 +1,4 @@
-Uredo novissima Speg. SPECIES
-=======
+# Uredo novissima Speg. SPECIES
 
 #### Status
 ACCEPTED

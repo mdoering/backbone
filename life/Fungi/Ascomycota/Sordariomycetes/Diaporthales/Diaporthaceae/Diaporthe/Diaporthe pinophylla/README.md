@@ -1,14 +1,13 @@
-Gnomonia pinophylla (Plowr. & W. Phillips) Cooke & Plowr. SPECIES
-=======
+# Diaporthe pinophylla (Plowr. & W. Phillips) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 646 (1882)
 
 #### Original name
 Sphaeria pinophylla Plowr. & W. Phillips, 1876

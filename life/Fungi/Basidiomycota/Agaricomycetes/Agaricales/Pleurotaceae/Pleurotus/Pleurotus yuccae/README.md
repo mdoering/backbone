@@ -1,5 +1,4 @@
-Pleurotus yuccae Maire SPECIES
-=======
+# Pleurotus yuccae Maire SPECIES
 
 #### Status
 ACCEPTED

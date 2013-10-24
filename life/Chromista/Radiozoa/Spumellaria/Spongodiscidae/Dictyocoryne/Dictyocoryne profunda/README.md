@@ -1,5 +1,4 @@
-Dictyocoryne profunda Ehrenberg, 1872 SPECIES
-=======
+# Dictyocoryne profunda Ehrenberg, 1872 SPECIES
 
 #### Status
 ACCEPTED

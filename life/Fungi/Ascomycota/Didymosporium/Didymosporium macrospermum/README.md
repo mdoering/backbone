@@ -1,5 +1,4 @@
-Didymosporium macrospermum Corda SPECIES
-=======
+# Didymosporium macrospermum Corda SPECIES
 
 #### Status
 ACCEPTED

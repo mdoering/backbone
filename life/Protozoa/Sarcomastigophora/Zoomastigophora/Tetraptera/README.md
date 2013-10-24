@@ -1,5 +1,4 @@
-Tetraptera A. Rasumov, 1923 GENUS
-=======
+# Tetraptera A. Rasumov, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium fluviatile Kabát & Bubák, 1904 SPECIES
-=======
+# Coniothyrium fluviatile Kabát & Bubák, 1904 SPECIES
 
 #### Status
 ACCEPTED

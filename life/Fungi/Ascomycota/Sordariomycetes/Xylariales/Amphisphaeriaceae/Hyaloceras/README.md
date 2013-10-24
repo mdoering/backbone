@@ -1,5 +1,4 @@
-Hyaloceras GENUS
-=======
+# Hyaloceras GENUS
 
 #### Status
 ACCEPTED

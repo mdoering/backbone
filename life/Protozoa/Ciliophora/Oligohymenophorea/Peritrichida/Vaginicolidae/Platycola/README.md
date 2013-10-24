@@ -1,5 +1,4 @@
-Platycola Kent, 1882 GENUS
-=======
+# Platycola Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

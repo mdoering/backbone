@@ -1,5 +1,4 @@
-Licnophorida Corliss, 1957 ORDER
-=======
+# Licnophorida Corliss, 1957 ORDER
 
 #### Status
 ACCEPTED

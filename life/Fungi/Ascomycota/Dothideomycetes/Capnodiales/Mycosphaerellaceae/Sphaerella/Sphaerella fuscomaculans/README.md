@@ -1,5 +1,4 @@
-Sphaerella fuscomaculans Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella fuscomaculans Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius nauseolens Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius nauseolens Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

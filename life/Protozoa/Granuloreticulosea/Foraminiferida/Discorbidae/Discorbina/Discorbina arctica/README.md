@@ -1,5 +1,4 @@
-Discorbina arctica Norman, 1892 SPECIES
-=======
+# Discorbina arctica Norman, 1892 SPECIES
 
 #### Status
 ACCEPTED

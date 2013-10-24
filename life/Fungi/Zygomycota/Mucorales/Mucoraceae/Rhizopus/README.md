@@ -1,17 +1,16 @@
-Crinofera Nieuwl. GENUS
-=======
+# Rhizopus Ehrenb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 4: 383 (1916)
+Nova Acta Phys. -Med. Acad. Caes. Leop. -Carol. Nat. Cur. 10: 198 (1821)
 
 #### Original name
-Crinofera Nieuwl.
+Rhizopus Ehrenb.
 
 ### Remarks
 null

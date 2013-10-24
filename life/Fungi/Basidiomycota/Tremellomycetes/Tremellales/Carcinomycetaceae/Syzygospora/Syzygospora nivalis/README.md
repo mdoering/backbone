@@ -1,5 +1,4 @@
-Syzygospora nivalis Chee J. Chen, Oberw. & Z.C. Chen, 1998 SPECIES
-=======
+# Syzygospora nivalis Chee J. Chen, Oberw. & Z.C. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

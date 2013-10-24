@@ -1,5 +1,4 @@
-Pustulipora P.F. Cannon, 1982 GENUS
-=======
+# Pustulipora P.F. Cannon, 1982 GENUS
 
 #### Status
 ACCEPTED

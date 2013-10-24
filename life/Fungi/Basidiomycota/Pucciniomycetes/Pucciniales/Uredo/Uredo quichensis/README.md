@@ -1,5 +1,4 @@
-Uredo quichensis Cummins SPECIES
-=======
+# Uredo quichensis Cummins SPECIES
 
 #### Status
 ACCEPTED

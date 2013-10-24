@@ -1,5 +1,4 @@
-Aspergillus echinulatus Thom & Church, 1926 SPECIES
-=======
+# Aspergillus echinulatus Thom & Church, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeocystodinium golzowense Alberti, 1961 SPECIES
-=======
+# Palaeocystodinium golzowense Alberti, 1961 SPECIES
 
 #### Status
 ACCEPTED

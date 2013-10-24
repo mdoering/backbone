@@ -1,5 +1,4 @@
-Buellia leukeimum Kremp. SPECIES
-=======
+# Buellia leukeimum Kremp. SPECIES
 
 #### Status
 ACCEPTED

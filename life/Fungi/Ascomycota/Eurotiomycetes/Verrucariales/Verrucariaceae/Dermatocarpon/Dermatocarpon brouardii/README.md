@@ -1,5 +1,4 @@
-Dermatocarpon brouardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon brouardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

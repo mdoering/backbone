@@ -1,17 +1,16 @@
-Tricholoma ionides var. ionides VARIETY
-=======
+# Calocybe ionides (Bull.) Donk, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 132 (1871)
+Nova Hedwigia, Beih. 5: 43 (1962)
 
 #### Original name
-Tricholoma ionides var. ionides
+Agaricus ionides Bull., 1792
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Miainomyces fungicolus Corda SPECIES
-=======
+# Miainomyces fungicola Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 83 (1833)
 
 #### Original name
-Miainomyces fungicolus Corda
+Miainomyces fungicola Corda
 
 ### Remarks
 null

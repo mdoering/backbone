@@ -1,5 +1,4 @@
-Vermisporium samuelii (Hansf.) J.A. Simpson & Grgur. SPECIES
-=======
+# Vermisporium samuelii (Hansf.) J.A. Simpson & Grgur. SPECIES
 
 #### Status
 ACCEPTED

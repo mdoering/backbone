@@ -1,5 +1,4 @@
-Vagalapilla aachena D. Bukry SPECIES
-=======
+# Vagalapilla aachena D. Bukry SPECIES
 
 #### Status
 ACCEPTED

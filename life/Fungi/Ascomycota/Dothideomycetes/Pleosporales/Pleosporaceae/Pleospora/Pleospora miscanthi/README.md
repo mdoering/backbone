@@ -1,5 +1,4 @@
-Pleospora miscanthi H.S. Yates SPECIES
-=======
+# Pleospora miscanthi H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

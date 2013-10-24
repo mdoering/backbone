@@ -1,8 +1,7 @@
-Dactylococcopsis caucasica Kiss SPECIES
-=======
+# Rhabdogloea hungarica (Kol) Hindák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

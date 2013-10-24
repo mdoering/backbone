@@ -1,17 +1,16 @@
-Cylindrosporium andropogoni R. Sprague & Rogerson SPECIES
-=======
+# Cylindrosporium andropogonis R. Sprague & Rogerson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sprague, Mycologia 48: 741 (1956)
 
 #### Original name
-Cylindrosporium andropogoni R. Sprague & Rogerson
+Cylindrosporium andropogonis R. Sprague & Rogerson
 
 ### Remarks
 null

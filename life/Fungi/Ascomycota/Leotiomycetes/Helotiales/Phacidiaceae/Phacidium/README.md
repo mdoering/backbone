@@ -1,17 +1,16 @@
-Phacidiostroma Höhn. GENUS
-=======
+# Phacidium E.M. Fries, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 35: 420 (1917)
+Observ. mycol. (Havniae) 1: 167.
 
 #### Original name
-Phacidiostroma Höhn.
+Phacidium E.M. Fries, 1815
 
 ### Remarks
 null

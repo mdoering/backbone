@@ -1,5 +1,4 @@
-Amphoridium macochae (Servít) Servít SPECIES
-=======
+# Amphoridium macochae (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

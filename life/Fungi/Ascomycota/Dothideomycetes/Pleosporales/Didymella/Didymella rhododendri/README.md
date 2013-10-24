@@ -1,5 +1,4 @@
-Didymella rhododendri S. Ahmad SPECIES
-=======
+# Didymella rhododendri S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

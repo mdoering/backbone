@@ -1,17 +1,16 @@
-Arachniotus pimpriensis A. Pande, 2008 SPECIES
-=======
+# Gymnascella dankaliensis (Castell.) Currah, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 24: 77 (1985)
 
 #### Original name
-null
+Trichophyton dankaliense Castell., 1937
 
 ### Remarks
 null

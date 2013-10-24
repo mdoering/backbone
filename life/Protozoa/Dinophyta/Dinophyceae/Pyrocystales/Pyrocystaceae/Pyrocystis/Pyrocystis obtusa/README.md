@@ -1,5 +1,4 @@
-Pyrocystis obtusa Pavillard SPECIES
-=======
+# Pyrocystis obtusa Pavillard SPECIES
 
 #### Status
 ACCEPTED

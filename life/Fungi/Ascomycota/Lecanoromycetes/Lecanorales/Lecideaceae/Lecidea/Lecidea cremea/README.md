@@ -1,5 +1,4 @@
-Lecidea cremea f. cremea FORM
-=======
+# Lecidea cremea Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea cremea f. cremea
+Lecidea cremea Hue
 
 ### Remarks
 null

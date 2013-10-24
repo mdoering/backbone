@@ -1,5 +1,4 @@
-Leiosphaeridia rudis Li Zaiping, 1982 SPECIES
-=======
+# Leiosphaeridia rudis Li Zaiping, 1982 SPECIES
 
 #### Status
 ACCEPTED

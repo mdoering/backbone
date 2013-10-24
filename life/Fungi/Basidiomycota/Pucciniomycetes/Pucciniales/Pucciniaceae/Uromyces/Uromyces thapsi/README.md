@@ -1,5 +1,4 @@
-Uromyces thapsi (Opiz) Bubák SPECIES
-=======
+# Uromyces thapsi (Opiz) Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunuletta Haeckel, 1887 GENUS
-=======
+# Prunuletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

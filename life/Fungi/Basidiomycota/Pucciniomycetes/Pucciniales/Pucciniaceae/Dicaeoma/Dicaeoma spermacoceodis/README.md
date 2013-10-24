@@ -1,5 +1,4 @@
-Dicaeoma spermacoceodis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma spermacoceodis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

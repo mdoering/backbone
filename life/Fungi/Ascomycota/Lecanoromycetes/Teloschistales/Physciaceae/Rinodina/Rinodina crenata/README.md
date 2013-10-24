@@ -1,5 +1,4 @@
-Rinodina crenata SPECIES
-=======
+# Rinodina crenata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ilytheomyces denudatus Thaxt. SPECIES
-=======
+# Ilytheomyces denudatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

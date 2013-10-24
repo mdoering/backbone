@@ -1,5 +1,4 @@
-Pseudoparmelia usambarensis (J. Steiner & Zahlbr.) Krog & Swinscow SPECIES
-=======
+# Pseudoparmelia usambarensis (J. Steiner & Zahlbr.) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

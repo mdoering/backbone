@@ -1,5 +1,4 @@
-Ophiosporella GENUS
-=======
+# Ophiosporella GENUS
 
 #### Status
 ACCEPTED

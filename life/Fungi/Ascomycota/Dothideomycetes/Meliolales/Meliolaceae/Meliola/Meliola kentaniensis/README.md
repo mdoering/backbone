@@ -1,5 +1,4 @@
-Meliola kentaniensis Doidge SPECIES
-=======
+# Meliola kentaniensis Doidge SPECIES
 
 #### Status
 ACCEPTED

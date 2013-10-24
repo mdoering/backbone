@@ -1,5 +1,4 @@
-Clitocybe discolor Velen. SPECIES
-=======
+# Clitocybe discolor Velen. SPECIES
 
 #### Status
 ACCEPTED

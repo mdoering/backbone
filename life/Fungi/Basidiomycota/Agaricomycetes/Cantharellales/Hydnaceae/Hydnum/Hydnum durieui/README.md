@@ -1,5 +1,4 @@
-Hydnum durieui Sacc., 1888 SPECIES
-=======
+# Hydnum durieui Sacc., 1888 SPECIES
 
 #### Status
 ACCEPTED

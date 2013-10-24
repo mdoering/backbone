@@ -1,5 +1,4 @@
-Asteroma orobi Fuckel SPECIES
-=======
+# Asteroma orobi Fuckel SPECIES
 
 #### Status
 ACCEPTED

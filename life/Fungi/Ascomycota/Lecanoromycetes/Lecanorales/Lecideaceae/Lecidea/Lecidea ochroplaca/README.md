@@ -1,5 +1,4 @@
-Lecidea ochroplaca var. ochroplaca VARIETY
-=======
+# Lecidea ochroplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea ochroplaca var. ochroplaca
+Lecidea ochroplaca Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramalina euxini Vezda SPECIES
-=======
+# Ramalina euxini Vezda SPECIES
 
 #### Status
 ACCEPTED

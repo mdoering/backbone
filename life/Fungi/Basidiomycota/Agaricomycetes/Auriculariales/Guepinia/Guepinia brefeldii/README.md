@@ -1,5 +1,4 @@
-Guepinia brefeldii Lloyd SPECIES
-=======
+# Guepinia brefeldii Lloyd SPECIES
 
 #### Status
 ACCEPTED

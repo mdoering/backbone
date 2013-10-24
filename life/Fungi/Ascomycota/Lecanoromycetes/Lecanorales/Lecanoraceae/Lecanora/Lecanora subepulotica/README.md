@@ -1,5 +1,4 @@
-Lecanora subepulotica (Nyl.) Fink SPECIES
-=======
+# Lecanora subepulotica (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

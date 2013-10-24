@@ -1,5 +1,4 @@
-Phaeodothiopsis eupatorii F. Stevens SPECIES
-=======
+# Phaeodothiopsis eupatorii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

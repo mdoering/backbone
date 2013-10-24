@@ -1,5 +1,4 @@
-Balansia concinna Syd. SPECIES
-=======
+# Balansia concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

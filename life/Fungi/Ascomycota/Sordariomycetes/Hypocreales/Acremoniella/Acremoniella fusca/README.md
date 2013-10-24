@@ -1,5 +1,4 @@
-Acremoniella fusca (Kunze & J.C. Schmidt) Sacc. SPECIES
-=======
+# Acremoniella fusca (Kunze & J.C. Schmidt) Sacc. SPECIES
 
 #### Status
 ACCEPTED

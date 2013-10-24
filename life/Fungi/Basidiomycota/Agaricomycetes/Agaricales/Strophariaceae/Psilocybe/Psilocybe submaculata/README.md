@@ -1,5 +1,4 @@
-Psilocybe submaculata G.F. Atk. SPECIES
-=======
+# Psilocybe submaculata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

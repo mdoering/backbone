@@ -1,5 +1,4 @@
-Actinomma Haeckel, 1860 GENUS
-=======
+# Actinomma Haeckel, 1860 GENUS
 
 #### Status
 ACCEPTED

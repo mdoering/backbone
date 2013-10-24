@@ -1,5 +1,4 @@
-Citromyces subtilis Bainier & Sartory SPECIES
-=======
+# Citromyces subtilis Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

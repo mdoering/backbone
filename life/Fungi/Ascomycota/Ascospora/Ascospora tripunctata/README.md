@@ -1,5 +1,4 @@
-Ascospora tripunctata Bonord. SPECIES
-=======
+# Ascospora tripunctata Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Piptocephalis fusispora var. lepidula Marchal, 1891 VARIETY
-=======
+# Piptocephalis lepidula (Marchal) P. Syd., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 30: 136 (1891)
+in Saccardo, Syll. fung. (Abellini) 12(2): 571 (1897)
 
 #### Original name
 Piptocephalis fusispora var. lepidula Marchal, 1891

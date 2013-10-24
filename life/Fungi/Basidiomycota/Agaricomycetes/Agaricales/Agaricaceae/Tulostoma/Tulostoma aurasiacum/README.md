@@ -1,5 +1,4 @@
-Tulostoma aurasiacum Pat. SPECIES
-=======
+# Tulostoma aurasiacum Pat. SPECIES
 
 #### Status
 ACCEPTED

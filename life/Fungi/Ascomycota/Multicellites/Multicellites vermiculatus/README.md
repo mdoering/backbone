@@ -1,5 +1,4 @@
-Multicellites vermiculatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites vermiculatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

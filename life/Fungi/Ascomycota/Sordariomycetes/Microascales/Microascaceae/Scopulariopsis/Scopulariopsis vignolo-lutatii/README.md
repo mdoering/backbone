@@ -1,5 +1,4 @@
-Scopulariopsis vignolo-lutatii (Matr.) C.W. Dodge SPECIES
-=======
+# Scopulariopsis vignolo-lutatii (Matr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

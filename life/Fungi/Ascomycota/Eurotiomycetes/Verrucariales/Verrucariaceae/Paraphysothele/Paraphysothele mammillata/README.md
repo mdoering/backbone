@@ -1,5 +1,4 @@
-Paraphysothele mammillata (Bagl.) Zschacke SPECIES
-=======
+# Paraphysothele mammillata (Bagl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

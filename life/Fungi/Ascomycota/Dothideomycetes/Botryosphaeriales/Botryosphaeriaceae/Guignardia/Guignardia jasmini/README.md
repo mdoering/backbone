@@ -1,5 +1,4 @@
-Guignardia jasmini (Petch) Sacc. SPECIES
-=======
+# Guignardia jasmini (Petch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

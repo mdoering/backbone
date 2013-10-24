@@ -1,5 +1,4 @@
-Cercospora pavettae-indicae Govindu & Thirum. SPECIES
-=======
+# Cercospora pavettae-indicae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothecium cupulariae Pass. SPECIES
-=======
+# Coniothecium cupulariae Pass. SPECIES
 
 #### Status
 ACCEPTED

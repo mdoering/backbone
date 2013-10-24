@@ -1,5 +1,4 @@
-Cercospora cheiranthi Sacc. SPECIES
-=======
+# Cercospora cheiranthi Sacc. SPECIES
 
 #### Status
 ACCEPTED

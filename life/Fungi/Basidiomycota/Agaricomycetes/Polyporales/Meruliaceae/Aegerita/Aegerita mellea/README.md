@@ -1,5 +1,4 @@
-Aegerita mellea Berk. & Broome SPECIES
-=======
+# Aegerita mellea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

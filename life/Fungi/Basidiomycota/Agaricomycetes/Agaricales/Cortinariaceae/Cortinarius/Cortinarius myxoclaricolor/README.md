@@ -1,5 +1,4 @@
-Cortinarius myxoclaricolor M.M. Moser SPECIES
-=======
+# Cortinarius myxoclaricolor M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus tridentinus SPECIES
-=======
+# Boletus tridentinus SPECIES
 
 #### Status
 ACCEPTED

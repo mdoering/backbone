@@ -1,5 +1,4 @@
-Xanthoparmelia beatricea Hale SPECIES
-=======
+# Xanthoparmelia beatricea Hale SPECIES
 
 #### Status
 ACCEPTED

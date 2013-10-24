@@ -1,5 +1,4 @@
-Phoma daturae Rolland & Fautrey SPECIES
-=======
+# Phoma daturae Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

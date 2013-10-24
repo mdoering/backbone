@@ -1,5 +1,4 @@
-Dothiorella carthami S. Ahmad SPECIES
-=======
+# Dothiorella carthami S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

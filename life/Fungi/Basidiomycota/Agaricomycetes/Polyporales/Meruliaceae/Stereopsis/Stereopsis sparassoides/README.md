@@ -1,14 +1,13 @@
-Stereum sparassoides (Henn.) D.A. Reid, K.S. Thind & Adlakha, 1958 SPECIES
-=======
+# Stereopsis sparassoides (Henn.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 41: 129 (1958)
+Beih. Nova Hedwigia 18: 325 (1965)
 
 #### Original name
 Thelephora sparassoides Henn., 1901

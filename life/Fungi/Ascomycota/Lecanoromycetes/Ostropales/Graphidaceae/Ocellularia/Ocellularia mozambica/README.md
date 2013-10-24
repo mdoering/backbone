@@ -1,5 +1,4 @@
-Ocellularia mozambica (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia mozambica (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

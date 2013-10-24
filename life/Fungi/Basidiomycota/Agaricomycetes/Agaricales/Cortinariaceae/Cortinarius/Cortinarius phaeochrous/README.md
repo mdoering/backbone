@@ -1,5 +1,4 @@
-Cortinarius phaeochrous J. Favre SPECIES
-=======
+# Cortinarius phaeochrous J. Favre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erineum tiliaceum Schumach. SPECIES
-=======
+# Erineum tiliaceum Schumach. SPECIES
 
 #### Status
 ACCEPTED

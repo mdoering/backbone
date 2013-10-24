@@ -1,5 +1,4 @@
-Puccinia hellenica Trotter SPECIES
-=======
+# Puccinia hellenica Trotter SPECIES
 
 #### Status
 ACCEPTED

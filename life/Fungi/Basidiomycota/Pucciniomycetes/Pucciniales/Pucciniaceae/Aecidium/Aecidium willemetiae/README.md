@@ -1,5 +1,4 @@
-Aecidium willemetiae Woron. SPECIES
-=======
+# Aecidium willemetiae Woron. SPECIES
 
 #### Status
 ACCEPTED

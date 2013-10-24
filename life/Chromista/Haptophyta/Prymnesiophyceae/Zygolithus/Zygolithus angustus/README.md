@@ -1,5 +1,4 @@
-Zygolithus angustus L.E. Stover SPECIES
-=======
+# Zygolithus angustus L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

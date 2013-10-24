@@ -1,5 +1,4 @@
-Ixocomus flavus (With.) SPECIES
-=======
+# Ixocomus flavus (With.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachysporisporites atratus Kalgutkar SPECIES
-=======
+# Brachysporisporites atratus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

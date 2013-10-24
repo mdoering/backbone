@@ -1,5 +1,4 @@
-Scolecopeltidium amazonense Bat. & R. Garnier SPECIES
-=======
+# Scolecopeltidium amazonense Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

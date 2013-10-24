@@ -1,5 +1,4 @@
-Spathulospora adelpha Kohlm., 1973 SPECIES
-=======
+# Spathulospora adelpha Kohlm., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lignosus Lloyd ex Torrend GENUS
-=======
+# Lignosus Lloyd ex Torrend GENUS
 
 #### Status
 ACCEPTED

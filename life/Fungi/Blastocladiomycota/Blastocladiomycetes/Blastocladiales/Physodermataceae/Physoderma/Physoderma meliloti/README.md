@@ -1,5 +1,4 @@
-Physoderma meliloti (Maire) Karling SPECIES
-=======
+# Physoderma meliloti (Maire) Karling SPECIES
 
 #### Status
 ACCEPTED

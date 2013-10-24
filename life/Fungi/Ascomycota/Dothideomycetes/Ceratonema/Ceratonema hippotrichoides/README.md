@@ -1,5 +1,4 @@
-Ceratonema hippotrichoides Pers. SPECIES
-=======
+# Ceratonema hippotrichoides Pers. SPECIES
 
 #### Status
 ACCEPTED

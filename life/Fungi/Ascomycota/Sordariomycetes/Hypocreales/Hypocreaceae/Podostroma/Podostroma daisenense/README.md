@@ -1,5 +1,4 @@
-Podostroma daisenense Yoshim. Doi & Uchiy. SPECIES
-=======
+# Podostroma daisenense Yoshim. Doi & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

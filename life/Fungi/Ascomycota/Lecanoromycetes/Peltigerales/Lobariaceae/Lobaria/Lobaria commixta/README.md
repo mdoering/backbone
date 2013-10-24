@@ -1,5 +1,4 @@
-Lobaria commixta R. Sant. SPECIES
-=======
+# Lobaria commixta R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium pseudofermentum Cif. SPECIES
-=======
+# Cephalosporium pseudofermentum Cif. SPECIES
 
 #### Status
 ACCEPTED

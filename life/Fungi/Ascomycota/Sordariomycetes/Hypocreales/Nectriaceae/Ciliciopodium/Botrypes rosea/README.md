@@ -1,5 +1,4 @@
-Botrypes rosea Preuss SPECIES
-=======
+# Botrypes rosea Preuss SPECIES
 
 #### Status
 ACCEPTED

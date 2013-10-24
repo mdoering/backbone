@@ -1,5 +1,4 @@
-Cladosporium aristolochiae H. Zhang & Z.Y. Zhang, 1998 SPECIES
-=======
+# Cladosporium aristolochiae H. Zhang & Z.Y. Zhang, 1998 SPECIES
 
 #### Status
 ACCEPTED

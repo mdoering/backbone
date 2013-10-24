@@ -1,5 +1,4 @@
-Tholosina confusa (Cushman, 1920) SPECIES
-=======
+# Tholosina confusa (Cushman, 1920) SPECIES
 
 #### Status
 ACCEPTED

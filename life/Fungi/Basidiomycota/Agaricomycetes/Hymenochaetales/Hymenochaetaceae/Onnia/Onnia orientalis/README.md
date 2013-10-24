@@ -1,17 +1,16 @@
-Onnia vallata (Berk.) Y.C. Dai & Niemelä, 2005 SPECIES
-=======
+# Onnia orientalis (Lloyd) Imazeki, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Tokyo Sci. Mus. 6: 110 (1943)
 
 #### Original name
-null
+Polyporus orientalis Lloyd, 1912
 
 ### Remarks
 null

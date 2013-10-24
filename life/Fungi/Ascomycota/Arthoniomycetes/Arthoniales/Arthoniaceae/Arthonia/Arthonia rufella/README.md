@@ -1,5 +1,4 @@
-Arthonia rufella Nyl. SPECIES
-=======
+# Arthonia rufella Nyl. SPECIES
 
 #### Status
 ACCEPTED

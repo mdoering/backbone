@@ -1,5 +1,4 @@
-Entoloma phaeodiscum Vila & F. Caballero SPECIES
-=======
+# Entoloma phaeodiscum Vila & F. Caballero SPECIES
 
 #### Status
 ACCEPTED

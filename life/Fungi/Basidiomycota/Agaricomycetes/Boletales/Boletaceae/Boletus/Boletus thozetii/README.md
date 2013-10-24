@@ -1,5 +1,4 @@
-Boletus thozetii Berk. SPECIES
-=======
+# Boletus thozetii Berk. SPECIES
 
 #### Status
 ACCEPTED

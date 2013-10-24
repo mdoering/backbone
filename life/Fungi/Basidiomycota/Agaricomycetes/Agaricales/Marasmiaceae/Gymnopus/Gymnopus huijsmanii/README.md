@@ -1,5 +1,4 @@
-Gymnopus huijsmanii Antonín & Noordel. SPECIES
-=======
+# Gymnopus huijsmanii Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

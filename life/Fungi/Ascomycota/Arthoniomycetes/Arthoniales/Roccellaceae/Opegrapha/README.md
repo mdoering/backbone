@@ -1,17 +1,16 @@
-Opegrapha peruviana Fée, 1824 SPECIES
-=======
+# Opegrapha Acharius, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 30: 97 (1809)
 
 #### Original name
-null
+Opegrapha Acharius, 1809
 
 ### Remarks
 null

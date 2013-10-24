@@ -1,5 +1,4 @@
-Digitomyces Mercado, Calduch & Gené GENUS
-=======
+# Digitomyces Mercado, Calduch & Gené GENUS
 
 #### Status
 ACCEPTED

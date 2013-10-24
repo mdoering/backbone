@@ -1,5 +1,4 @@
-Rhiptocorys Lejeune-Carpentier & Sarjeant, 1983 GENUS
-=======
+# Rhiptocorys Lejeune-Carpentier & Sarjeant, 1983 GENUS
 
 #### Status
 ACCEPTED

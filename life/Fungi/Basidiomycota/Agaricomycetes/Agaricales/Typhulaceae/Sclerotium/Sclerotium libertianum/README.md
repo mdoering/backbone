@@ -1,5 +1,4 @@
-Sclerotium libertianum J. Lindau SPECIES
-=======
+# Sclerotium libertianum J. Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma fraxinea Sacc. SPECIES
-=======
+# Phoma fraxinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

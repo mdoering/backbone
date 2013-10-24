@@ -1,5 +1,4 @@
-Septogloeum aesculi (Cooke) Grove SPECIES
-=======
+# Septogloeum aesculi (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

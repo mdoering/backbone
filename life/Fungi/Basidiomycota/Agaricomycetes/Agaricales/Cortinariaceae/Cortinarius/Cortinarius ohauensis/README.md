@@ -1,14 +1,13 @@
-Thaxterogaster ohauensis Soop, 1998 SPECIES
-=======
+# Cortinarius ohauensis (Soop) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 28(no. 112): 22 (1998)
+Mycotaxon 81: 181 (2002)
 
 #### Original name
 Thaxterogaster ohauensis Soop, 1998

@@ -1,5 +1,4 @@
-Sphaeria phragmitis Ludw. {?} SPECIES
-=======
+# Sphaeria phragmitis Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

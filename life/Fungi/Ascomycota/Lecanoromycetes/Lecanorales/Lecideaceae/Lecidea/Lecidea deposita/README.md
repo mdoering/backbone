@@ -1,5 +1,4 @@
-Lecidea deposita Nyl. SPECIES
-=======
+# Lecidea deposita Nyl. SPECIES
 
 #### Status
 ACCEPTED

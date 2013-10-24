@@ -1,5 +1,4 @@
-Discozythia moravica Petr. SPECIES
-=======
+# Discozythia moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

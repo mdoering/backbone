@@ -1,5 +1,4 @@
-Parmelia ceresensis (Hale) Brusse SPECIES
-=======
+# Parmelia ceresensis (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

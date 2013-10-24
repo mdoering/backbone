@@ -1,5 +1,4 @@
-Dendrophoma armeriicola Speg. SPECIES
-=======
+# Dendrophoma armeriicola Speg. SPECIES
 
 #### Status
 ACCEPTED

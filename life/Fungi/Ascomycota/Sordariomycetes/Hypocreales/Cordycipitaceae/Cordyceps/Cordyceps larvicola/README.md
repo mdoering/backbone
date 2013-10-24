@@ -1,5 +1,4 @@
-Cordyceps larvicola Quél. SPECIES
-=======
+# Cordyceps larvicola Quél. SPECIES
 
 #### Status
 ACCEPTED

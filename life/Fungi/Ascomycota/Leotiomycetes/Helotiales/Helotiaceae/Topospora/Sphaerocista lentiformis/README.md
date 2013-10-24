@@ -1,5 +1,4 @@
-Sphaerocista lentiformis Preuss SPECIES
-=======
+# Sphaerocista lentiformis Preuss SPECIES
 
 #### Status
 ACCEPTED

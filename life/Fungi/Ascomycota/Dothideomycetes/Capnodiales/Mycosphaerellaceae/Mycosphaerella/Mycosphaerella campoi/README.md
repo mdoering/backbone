@@ -1,5 +1,4 @@
-Mycosphaerella campoi Speg. SPECIES
-=======
+# Mycosphaerella campoi Speg. SPECIES
 
 #### Status
 ACCEPTED

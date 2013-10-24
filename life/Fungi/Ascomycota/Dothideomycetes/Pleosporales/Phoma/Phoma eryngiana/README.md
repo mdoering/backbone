@@ -1,5 +1,4 @@
-Phoma eryngiana Delacr. SPECIES
-=======
+# Phoma eryngiana Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomerium hyalinum (Woron.) Bat. & Cif. SPECIES
-=======
+# Trichomerium hyalinum (Woron.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

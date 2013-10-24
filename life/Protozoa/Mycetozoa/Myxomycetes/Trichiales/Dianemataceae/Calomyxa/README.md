@@ -1,17 +1,16 @@
-Margaritellina Loeblich & Tappan, 1962 GENUS
-=======
+# Calomyxa Nieuwl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Biol. Soc. Wash. 75: 108.
+Am. Midl. Nat. 4: 335 (1916)
 
 #### Original name
-Margarita
+Calomyxa Nieuwl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramalina leptosperma Nyl. SPECIES
-=======
+# Ramalina leptosperma Nyl. SPECIES
 
 #### Status
 ACCEPTED

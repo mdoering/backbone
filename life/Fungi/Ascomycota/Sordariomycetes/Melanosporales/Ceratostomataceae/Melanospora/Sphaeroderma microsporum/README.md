@@ -1,5 +1,4 @@
-Sphaeroderma microsporum Höhn. SPECIES
-=======
+# Sphaeroderma microsporum Höhn. SPECIES
 
 #### Status
 ACCEPTED

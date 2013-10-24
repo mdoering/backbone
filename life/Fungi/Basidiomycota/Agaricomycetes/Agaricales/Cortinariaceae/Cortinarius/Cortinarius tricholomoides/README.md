@@ -1,5 +1,4 @@
-Cortinarius tricholomoides M.M. Moser SPECIES
-=======
+# Cortinarius tricholomoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

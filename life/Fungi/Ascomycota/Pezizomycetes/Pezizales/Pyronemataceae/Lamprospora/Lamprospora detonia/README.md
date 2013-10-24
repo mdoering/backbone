@@ -1,5 +1,4 @@
-Lamprospora detonia Brenckle SPECIES
-=======
+# Lamprospora detonia Brenckle SPECIES
 
 #### Status
 ACCEPTED

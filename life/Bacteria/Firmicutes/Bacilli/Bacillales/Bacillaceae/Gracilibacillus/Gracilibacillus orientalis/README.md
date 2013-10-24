@@ -1,5 +1,4 @@
-Gracilibacillus orientalis Carrasco et al., 2006 SPECIES
-=======
+# Gracilibacillus orientalis Carrasco et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora atkinsonii F. Stevens & Solheim SPECIES
-=======
+# Cercospora atkinsonii F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

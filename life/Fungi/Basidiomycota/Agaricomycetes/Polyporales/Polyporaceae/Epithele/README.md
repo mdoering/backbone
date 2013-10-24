@@ -1,5 +1,4 @@
-Epithele (Patouillard) Patouillard, 1900 GENUS
-=======
+# Epithele (Patouillard) Patouillard, 1900 GENUS
 
 #### Status
 ACCEPTED

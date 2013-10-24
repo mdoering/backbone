@@ -1,5 +1,4 @@
-Paratrichoconis Deighton & Piroz. GENUS
-=======
+# Paratrichoconis Deighton & Piroz. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium glanduliforme Rehm SPECIES
-=======
+# Helotium glanduliforme Rehm SPECIES
 
 #### Status
 ACCEPTED

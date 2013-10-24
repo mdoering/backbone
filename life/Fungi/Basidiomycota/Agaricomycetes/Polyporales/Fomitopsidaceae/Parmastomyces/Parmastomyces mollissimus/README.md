@@ -1,17 +1,16 @@
-Polyporus subcartilagineus Overh., 1941 SPECIES
-=======
+# Parmastomyces mollissimus (Maire) Pouzar, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 33(1): 90 (1941)
+Ceská Mykol. 38(4): 203 (1984)
 
 #### Original name
-Polyporus subcartilagineus Overh., 1941
+Tyromyces mollissimus Maire, 1945
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Urophlyctis major J. Schröt. SPECIES
-=======
+# Urophlyctis major J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma planiceps Peck SPECIES
-=======
+# Tricholoma planiceps Peck SPECIES
 
 #### Status
 ACCEPTED

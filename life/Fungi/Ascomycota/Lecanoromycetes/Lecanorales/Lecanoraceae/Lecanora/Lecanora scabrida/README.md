@@ -1,5 +1,4 @@
-Lecanora scabrida Degel. SPECIES
-=======
+# Lecanora scabrida Degel. SPECIES
 
 #### Status
 ACCEPTED

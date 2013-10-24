@@ -1,5 +1,4 @@
-Puccinia colossea Speg. SPECIES
-=======
+# Puccinia colossea Speg. SPECIES
 
 #### Status
 ACCEPTED

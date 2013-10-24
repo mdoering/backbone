@@ -1,5 +1,4 @@
-Asterina crustosa var. crustosa VARIETY
-=======
+# Asterina crustosa Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 21(no. 99): 76 (1893)
 
 #### Original name
-Asterina crustosa var. crustosa
+Asterina crustosa Berk. & Cooke
 
 ### Remarks
 null

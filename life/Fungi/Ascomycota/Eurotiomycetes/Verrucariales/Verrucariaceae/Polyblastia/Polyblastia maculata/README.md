@@ -1,5 +1,4 @@
-Polyblastia maculata Zschacke SPECIES
-=======
+# Polyblastia maculata Zschacke SPECIES
 
 #### Status
 ACCEPTED

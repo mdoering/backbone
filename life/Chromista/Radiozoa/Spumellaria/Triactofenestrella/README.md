@@ -1,5 +1,4 @@
-Triactofenestrella Nazarov & Ormiston, 1984 GENUS
-=======
+# Triactofenestrella Nazarov & Ormiston, 1984 GENUS
 
 #### Status
 ACCEPTED

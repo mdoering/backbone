@@ -1,5 +1,4 @@
-Coniothyrium atriplicis Maubl. SPECIES
-=======
+# Coniothyrium atriplicis Maubl. SPECIES
 
 #### Status
 ACCEPTED

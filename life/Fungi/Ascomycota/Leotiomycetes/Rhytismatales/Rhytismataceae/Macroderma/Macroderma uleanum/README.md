@@ -1,14 +1,13 @@
-Phacidium uleanum Rehm, 1900 SPECIES
-=======
+# Macroderma uleanum (Rehm) DiCosmo, Nag Raj & W.B. Kendr., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 39: 80 (1900)
+Mycotaxon 21: 48 (1984)
 
 #### Original name
 Phacidium uleanum Rehm, 1900

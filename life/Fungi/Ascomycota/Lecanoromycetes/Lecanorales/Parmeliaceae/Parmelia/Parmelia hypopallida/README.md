@@ -1,5 +1,4 @@
-Parmelia hypopallida Gyeln. SPECIES
-=======
+# Parmelia hypopallida Gyeln. SPECIES
 
 #### Status
 ACCEPTED

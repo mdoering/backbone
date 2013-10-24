@@ -1,5 +1,4 @@
-Cladosporium calcareum Beeli SPECIES
-=======
+# Cladosporium calcareum Beeli SPECIES
 
 #### Status
 ACCEPTED

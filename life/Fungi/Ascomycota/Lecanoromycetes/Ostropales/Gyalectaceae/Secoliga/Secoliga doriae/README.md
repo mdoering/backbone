@@ -1,5 +1,4 @@
-Secoliga doriae (Bagl.) Stizenb. SPECIES
-=======
+# Secoliga doriae (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

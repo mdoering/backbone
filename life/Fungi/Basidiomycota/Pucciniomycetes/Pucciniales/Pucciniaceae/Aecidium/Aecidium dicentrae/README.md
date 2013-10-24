@@ -1,5 +1,4 @@
-Aecidium dicentrae Trel. SPECIES
-=======
+# Aecidium dicentrae Trel. SPECIES
 
 #### Status
 ACCEPTED

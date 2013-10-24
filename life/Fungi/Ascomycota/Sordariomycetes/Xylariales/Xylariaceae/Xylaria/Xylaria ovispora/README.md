@@ -1,5 +1,4 @@
-Xylaria ovispora Cooke & Massee SPECIES
-=======
+# Xylaria ovispora Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

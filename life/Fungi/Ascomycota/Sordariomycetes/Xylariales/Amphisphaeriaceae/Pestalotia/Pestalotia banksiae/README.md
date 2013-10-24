@@ -1,5 +1,4 @@
-Pestalotia banksiae Hansf. SPECIES
-=======
+# Pestalotia banksiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

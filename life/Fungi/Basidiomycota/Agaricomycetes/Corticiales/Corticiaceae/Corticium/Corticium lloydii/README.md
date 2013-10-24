@@ -1,5 +1,4 @@
-Corticium lloydii Bres. SPECIES
-=======
+# Corticium lloydii Bres. SPECIES
 
 #### Status
 ACCEPTED

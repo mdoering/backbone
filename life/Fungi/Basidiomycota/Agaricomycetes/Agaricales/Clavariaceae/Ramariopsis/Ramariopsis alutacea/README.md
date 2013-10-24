@@ -1,5 +1,4 @@
-Ramariopsis alutacea R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis alutacea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

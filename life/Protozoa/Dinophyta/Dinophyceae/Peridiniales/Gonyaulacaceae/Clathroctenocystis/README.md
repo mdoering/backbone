@@ -1,5 +1,4 @@
-Clathroctenocystis V.D. Wiggins, 1972 GENUS
-=======
+# Clathroctenocystis V.D. Wiggins, 1972 GENUS
 
 #### Status
 ACCEPTED

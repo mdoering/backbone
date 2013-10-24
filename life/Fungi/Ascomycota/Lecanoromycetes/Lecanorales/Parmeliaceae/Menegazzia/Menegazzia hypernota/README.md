@@ -1,5 +1,4 @@
-Menegazzia hypernota Bjerke SPECIES
-=======
+# Menegazzia hypernota Bjerke SPECIES
 
 #### Status
 ACCEPTED

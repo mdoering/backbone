@@ -1,5 +1,4 @@
-Hysterographium minutum M.L. Lohman, 1933 SPECIES
-=======
+# Hysterographium minutum M.L. Lohman, 1933 SPECIES
 
 #### Status
 ACCEPTED

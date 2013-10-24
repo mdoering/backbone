@@ -1,5 +1,4 @@
-Bubacia hypochniformis Velen., 1922 SPECIES
-=======
+# Bubacia hypochniformis Velen., 1922 SPECIES
 
 #### Status
 ACCEPTED

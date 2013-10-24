@@ -1,5 +1,4 @@
-Acanthoica quattrospina Lohmann SPECIES
-=======
+# Acanthoica quattrospina Lohmann SPECIES
 
 #### Status
 ACCEPTED

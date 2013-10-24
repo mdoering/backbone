@@ -1,5 +1,4 @@
-Blastotrichum chowdhuryi D.N. Pant SPECIES
-=======
+# Blastotrichum chowdhuryi D.N. Pant SPECIES
 
 #### Status
 ACCEPTED

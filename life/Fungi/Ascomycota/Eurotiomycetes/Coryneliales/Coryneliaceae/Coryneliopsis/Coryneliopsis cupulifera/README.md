@@ -1,5 +1,4 @@
-Coryneliopsis cupulifera Butin, 1972 SPECIES
-=======
+# Coryneliopsis cupulifera Butin, 1972 SPECIES
 
 #### Status
 ACCEPTED

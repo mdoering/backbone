@@ -1,5 +1,4 @@
-Lecidea luridopallens Vain. SPECIES
-=======
+# Lecidea luridopallens Vain. SPECIES
 
 #### Status
 ACCEPTED

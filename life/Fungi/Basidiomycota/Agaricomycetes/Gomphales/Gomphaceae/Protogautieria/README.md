@@ -1,5 +1,4 @@
-Protogautieria A.H. Sm. GENUS
-=======
+# Protogautieria A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

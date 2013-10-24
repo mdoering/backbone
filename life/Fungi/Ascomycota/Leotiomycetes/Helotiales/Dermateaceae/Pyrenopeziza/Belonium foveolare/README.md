@@ -1,5 +1,4 @@
-Belonium foveolare Rehm SPECIES
-=======
+# Belonium foveolare Rehm SPECIES
 
 #### Status
 ACCEPTED

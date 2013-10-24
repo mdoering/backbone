@@ -1,5 +1,4 @@
-Parmelia sectilis Hale SPECIES
-=======
+# Parmelia sectilis Hale SPECIES
 
 #### Status
 ACCEPTED

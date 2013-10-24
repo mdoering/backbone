@@ -1,5 +1,4 @@
-Mycopara Bat. & J.L. Bezerra GENUS
-=======
+# Mycopara Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe hyalodes Berk. & Broome SPECIES
-=======
+# Clitocybe hyalodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

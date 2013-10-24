@@ -1,5 +1,4 @@
-Kretzschmaria sessilis Pat. SPECIES
-=======
+# Kretzschmaria sessilis Pat. SPECIES
 
 #### Status
 ACCEPTED

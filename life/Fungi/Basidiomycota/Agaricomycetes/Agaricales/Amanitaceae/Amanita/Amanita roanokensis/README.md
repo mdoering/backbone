@@ -1,5 +1,4 @@
-Amanita roanokensis f. inodora (Murrill) Murrill FORM
-=======
+# Amanita roanokensis Coker SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lloydia 9: 330 (1946)
+J. Elisha Mitchell scient. Soc. 43: 141 (1927)
 
 #### Original name
-Venenarius roanokensis f. inodora Murrill
+Amanita roanokensis Coker
 
 ### Remarks
 null

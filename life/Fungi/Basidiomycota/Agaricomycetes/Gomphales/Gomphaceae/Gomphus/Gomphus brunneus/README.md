@@ -1,5 +1,4 @@
-Gomphus brunneus (Heinem.) Corner, 1966 SPECIES
-=======
+# Gomphus brunneus (Heinem.) Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

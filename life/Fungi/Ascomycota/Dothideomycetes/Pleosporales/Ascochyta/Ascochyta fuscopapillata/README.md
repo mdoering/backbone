@@ -1,5 +1,4 @@
-Ascochyta fuscopapillata Bubák & Dearn. SPECIES
-=======
+# Ascochyta fuscopapillata Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

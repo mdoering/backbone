@@ -1,5 +1,4 @@
-Exobasidium pyroloides Zhen Ying Li & L. Guo SPECIES
-=======
+# Exobasidium pyroloides Zhen Ying Li & L. Guo SPECIES
 
 #### Status
 ACCEPTED

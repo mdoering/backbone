@@ -1,5 +1,4 @@
-Zercosporidium Thor GENUS
-=======
+# Zercosporidium Thor GENUS
 
 #### Status
 ACCEPTED

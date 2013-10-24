@@ -1,5 +1,4 @@
-Dyadosporonites ellipsus (R.T. Clarke) Elsik SPECIES
-=======
+# Dyadosporonites ellipsus (R.T. Clarke) Elsik SPECIES
 
 #### Status
 ACCEPTED

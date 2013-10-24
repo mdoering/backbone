@@ -1,5 +1,4 @@
-Arthonia cocoës Vain. SPECIES
-=======
+# Arthonia cocoës Vain. SPECIES
 
 #### Status
 ACCEPTED

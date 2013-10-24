@@ -1,5 +1,4 @@
-Pseudocercospora aphanamixidis M.K. Khan, M.S. Khan bis & Kamal SPECIES
-=======
+# Pseudocercospora aphanamixidis M.K. Khan, M.S. Khan bis & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria reductiphora Matsush. SPECIES
-=======
+# Dactylaria reductiphora Matsush. SPECIES
 
 #### Status
 ACCEPTED

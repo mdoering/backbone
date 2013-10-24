@@ -1,5 +1,4 @@
-Phaeangium sphaeroides Ellis & Everh. SPECIES
-=======
+# Phaeangium sphaeroides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

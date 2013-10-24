@@ -1,5 +1,4 @@
-Thaxteria lutea Bat. SPECIES
-=======
+# Thaxteria lutea Bat. SPECIES
 
 #### Status
 ACCEPTED

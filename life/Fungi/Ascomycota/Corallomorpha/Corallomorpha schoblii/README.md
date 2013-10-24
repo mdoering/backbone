@@ -1,5 +1,4 @@
-Corallomorpha schoblii Opiz SPECIES
-=======
+# Corallomorpha schoblii Opiz SPECIES
 
 #### Status
 ACCEPTED

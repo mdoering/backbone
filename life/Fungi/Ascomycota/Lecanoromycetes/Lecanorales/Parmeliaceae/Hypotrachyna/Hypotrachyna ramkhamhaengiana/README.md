@@ -1,5 +1,4 @@
-Hypotrachyna ramkhamhaengiana Elix & Pooprang SPECIES
-=======
+# Hypotrachyna ramkhamhaengiana Elix & Pooprang SPECIES
 
 #### Status
 ACCEPTED

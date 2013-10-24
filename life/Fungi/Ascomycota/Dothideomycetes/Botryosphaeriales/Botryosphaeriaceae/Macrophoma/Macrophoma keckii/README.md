@@ -1,5 +1,4 @@
-Macrophoma keckii (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma keckii (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

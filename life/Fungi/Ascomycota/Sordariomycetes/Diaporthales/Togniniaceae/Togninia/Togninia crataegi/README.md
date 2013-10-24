@@ -1,5 +1,4 @@
-Togninia crataegi (Mouton) Berl. SPECIES
-=======
+# Togninia crataegi (Mouton) Berl. SPECIES
 
 #### Status
 ACCEPTED

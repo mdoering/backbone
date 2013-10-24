@@ -1,5 +1,4 @@
-Androcyclas gamphonycha (Joergensen) Joergensen, 1905 SPECIES
-=======
+# Androcyclas gamphonycha (Joergensen) Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

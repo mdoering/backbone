@@ -1,5 +1,4 @@
-Eponides isabelleanus SPECIES
-=======
+# Eponides isabelleanus SPECIES
 
 #### Status
 ACCEPTED

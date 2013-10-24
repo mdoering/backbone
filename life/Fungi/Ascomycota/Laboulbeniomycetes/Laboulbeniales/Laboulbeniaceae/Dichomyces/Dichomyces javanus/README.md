@@ -1,5 +1,4 @@
-Dichomyces javanus Thaxt. SPECIES
-=======
+# Dichomyces javanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

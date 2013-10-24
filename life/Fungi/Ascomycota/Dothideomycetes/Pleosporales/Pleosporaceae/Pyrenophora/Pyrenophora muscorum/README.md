@@ -1,5 +1,4 @@
-Pyrenophora muscorum Racov. SPECIES
-=======
+# Pyrenophora muscorum Racov. SPECIES
 
 #### Status
 ACCEPTED

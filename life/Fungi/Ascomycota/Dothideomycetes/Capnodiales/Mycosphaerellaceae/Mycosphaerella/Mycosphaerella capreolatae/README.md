@@ -1,5 +1,4 @@
-Mycosphaerella capreolatae (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella capreolatae (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

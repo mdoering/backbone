@@ -1,5 +1,4 @@
-Irpex vagus (Burds. & Nakasone) Saaren. & Kotir. SPECIES
-=======
+# Irpex vagus (Burds. & Nakasone) Saaren. & Kotir. SPECIES
 
 #### Status
 ACCEPTED

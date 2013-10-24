@@ -1,5 +1,4 @@
-Lichen scopulorum Oeder. SPECIES
-=======
+# Lichen scopulorum Oeder. SPECIES
 
 #### Status
 ACCEPTED

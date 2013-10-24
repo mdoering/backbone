@@ -1,5 +1,4 @@
-Hormiscium tritici (Lib.) Bonord. SPECIES
-=======
+# Hormiscium tritici (Lib.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia erigeniae (Orton) Arthur SPECIES
-=======
+# Puccinia erigeniae (Orton) Arthur SPECIES
 
 #### Status
 ACCEPTED

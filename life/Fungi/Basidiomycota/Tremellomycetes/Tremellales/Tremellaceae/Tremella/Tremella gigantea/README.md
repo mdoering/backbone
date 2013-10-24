@@ -1,5 +1,4 @@
-Tremella gigantea Berk. & M.A. Curtis SPECIES
-=======
+# Tremella gigantea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus curtipes Massee SPECIES
-=======
+# Clitopilus curtipes Massee SPECIES
 
 #### Status
 ACCEPTED

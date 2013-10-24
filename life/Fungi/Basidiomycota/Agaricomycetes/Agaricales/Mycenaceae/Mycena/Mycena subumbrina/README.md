@@ -1,5 +1,4 @@
-Mycena subumbrina Raithelh. SPECIES
-=======
+# Mycena subumbrina Raithelh. SPECIES
 
 #### Status
 ACCEPTED

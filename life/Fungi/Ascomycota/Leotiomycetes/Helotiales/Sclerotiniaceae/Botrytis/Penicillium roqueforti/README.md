@@ -1,8 +1,7 @@
-Penicillium conservandi Novobr., 1974 SPECIES
-=======
+# Penicillium roqueforti Thom, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

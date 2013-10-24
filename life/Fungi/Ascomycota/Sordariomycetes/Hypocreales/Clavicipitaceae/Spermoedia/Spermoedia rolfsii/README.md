@@ -1,5 +1,4 @@
-Spermoedia rolfsii (F. Stevens & J.G. Hall) Seaver SPECIES
-=======
+# Spermoedia rolfsii (F. Stevens & J.G. Hall) Seaver SPECIES
 
 #### Status
 ACCEPTED

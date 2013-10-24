@@ -1,5 +1,4 @@
-Parmelinopsis cleefii (Sipman) V. Marcano & Sipman SPECIES
-=======
+# Parmelinopsis cleefii (Sipman) V. Marcano & Sipman SPECIES
 
 #### Status
 ACCEPTED

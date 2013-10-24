@@ -1,5 +1,4 @@
-Typhulochaeta couchii (Solheim, Eboh & McHenry) U. Braun SPECIES
-=======
+# Typhulochaeta couchii (Solheim, Eboh & McHenry) U. Braun SPECIES
 
 #### Status
 ACCEPTED

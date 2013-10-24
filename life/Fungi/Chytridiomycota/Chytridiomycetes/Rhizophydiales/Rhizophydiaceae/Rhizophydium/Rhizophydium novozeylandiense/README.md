@@ -1,17 +1,16 @@
-Rhizophydium novae-zeylandiensis Karling SPECIES
-=======
+# Rhizophydium novozeylandiense Karling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Chytridiomycet. Iconogr. (New York) 65 (1977)
 
 #### Original name
-Rhizophydium novae-zeylandiensis Karling
+Rhizophydium novozeylandiense Karling, 1977
 
 ### Remarks
 null

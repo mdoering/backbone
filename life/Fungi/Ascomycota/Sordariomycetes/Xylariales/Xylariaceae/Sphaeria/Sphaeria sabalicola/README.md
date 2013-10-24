@@ -1,5 +1,4 @@
-Sphaeria sabalicola Ellis & G. Martin SPECIES
-=======
+# Sphaeria sabalicola Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

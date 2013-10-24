@@ -1,5 +1,4 @@
-Cladobotryum heterocladum (Penz.) Petch SPECIES
-=======
+# Cladobotryum heterocladum (Penz.) Petch SPECIES
 
 #### Status
 ACCEPTED

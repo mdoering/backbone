@@ -1,5 +1,4 @@
-Bombyliospora pruinata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bombyliospora pruinata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

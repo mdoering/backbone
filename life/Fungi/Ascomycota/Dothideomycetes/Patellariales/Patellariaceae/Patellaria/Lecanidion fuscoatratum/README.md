@@ -1,5 +1,4 @@
-Lecanidion fuscoatratum Speg. SPECIES
-=======
+# Lecanidion fuscoatratum Speg. SPECIES
 
 #### Status
 ACCEPTED

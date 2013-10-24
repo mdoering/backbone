@@ -1,17 +1,16 @@
-Pleomassaria capparidis Byzova SPECIES
-=======
+# Pleomassaria capparis Byzova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vasyagina, Byzova & Tartenova, Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 210 (1987)
 
 #### Original name
-Pleomassaria capparidis Byzova
+Pleomassaria capparis Byzova
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helminthosporium machili Sawada SPECIES
-=======
+# Helminthosporium machili Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia cucullata (Bellardi) Spreng. SPECIES
-=======
+# Parmelia cucullata (Bellardi) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacopsis usneae R. Sant. SPECIES
-=======
+# Phacopsis usneae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

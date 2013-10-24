@@ -1,5 +1,4 @@
-Marisolaris ansata Jørg. Koch & E.B.G. Jones, 1989 SPECIES
-=======
+# Marisolaris ansata Jørg. Koch & E.B.G. Jones, 1989 SPECIES
 
 #### Status
 ACCEPTED

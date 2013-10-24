@@ -1,5 +1,4 @@
-Pleospora gallegensis Speg. SPECIES
-=======
+# Pleospora gallegensis Speg. SPECIES
 
 #### Status
 ACCEPTED

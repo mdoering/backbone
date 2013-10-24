@@ -1,5 +1,4 @@
-Hydrogenophaga intermedia Contzen et al., 2001 SPECIES
-=======
+# Hydrogenophaga intermedia Contzen et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

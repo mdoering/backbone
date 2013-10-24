@@ -1,5 +1,4 @@
-Oidium acalyphae Chidd. SPECIES
-=======
+# Oidium acalyphae Chidd. SPECIES
 
 #### Status
 ACCEPTED

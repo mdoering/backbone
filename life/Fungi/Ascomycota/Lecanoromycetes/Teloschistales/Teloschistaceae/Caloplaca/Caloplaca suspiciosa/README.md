@@ -1,5 +1,4 @@
-Caloplaca suspiciosa (Nyl.) H. Magn. SPECIES
-=======
+# Caloplaca suspiciosa (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

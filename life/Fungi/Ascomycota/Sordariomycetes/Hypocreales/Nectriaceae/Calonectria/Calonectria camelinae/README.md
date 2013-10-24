@@ -1,5 +1,4 @@
-Calonectria camelinae Gäum. SPECIES
-=======
+# Calonectria camelinae Gäum. SPECIES
 
 #### Status
 ACCEPTED

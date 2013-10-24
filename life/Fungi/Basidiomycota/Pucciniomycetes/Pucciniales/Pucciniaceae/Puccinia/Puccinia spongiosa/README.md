@@ -1,5 +1,4 @@
-Puccinia spongiosa Berk. & Broome SPECIES
-=======
+# Puccinia spongiosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

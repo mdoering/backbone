@@ -1,5 +1,4 @@
-Pluteus daidoi S. Ito & S. Imai SPECIES
-=======
+# Pluteus daidoi S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria steironematis Ellis & Everh. SPECIES
-=======
+# Leptosphaeria steironematis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

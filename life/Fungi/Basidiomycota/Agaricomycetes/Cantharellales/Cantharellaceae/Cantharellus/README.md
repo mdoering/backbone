@@ -1,17 +1,16 @@
-Merulius Haller ex Boehm., 1760 GENUS
-=======
+# Cantharellus E.M. Fries, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 1: 316 (1821)
 
 #### Original name
-Merulius Haller ex Boehm., 1760
+Cantharellus E.M. Fries, 1821
 
 ### Remarks
 null

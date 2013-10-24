@@ -1,5 +1,4 @@
-Sphaerella spartinae Ellis & Everh. SPECIES
-=======
+# Sphaerella spartinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

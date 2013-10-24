@@ -1,5 +1,4 @@
-Volvariella platensis (Speg.) Shaffer SPECIES
-=======
+# Volvariella platensis (Speg.) Shaffer SPECIES
 
 #### Status
 ACCEPTED

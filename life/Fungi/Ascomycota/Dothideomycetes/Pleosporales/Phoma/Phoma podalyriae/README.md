@@ -1,5 +1,4 @@
-Phoma podalyriae Henn. SPECIES
-=======
+# Phoma podalyriae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poikilosporium bogoriense Racib. SPECIES
-=======
+# Poikilosporium bogoriense Racib. SPECIES
 
 #### Status
 ACCEPTED

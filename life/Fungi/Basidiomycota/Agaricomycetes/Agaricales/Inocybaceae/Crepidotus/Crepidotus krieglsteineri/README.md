@@ -1,5 +1,4 @@
-Crepidotus krieglsteineri Singer SPECIES
-=======
+# Crepidotus krieglsteineri Singer SPECIES
 
 #### Status
 ACCEPTED

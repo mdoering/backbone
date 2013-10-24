@@ -1,5 +1,4 @@
-Diplotomma phloeoicum (Nyl.) Szatala SPECIES
-=======
+# Diplotomma phloeoicum (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

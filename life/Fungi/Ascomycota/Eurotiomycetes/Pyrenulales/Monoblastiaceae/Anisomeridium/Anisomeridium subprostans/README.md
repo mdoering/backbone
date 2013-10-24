@@ -1,14 +1,13 @@
-Leiophloea subprostans (Nyl.) Trevis. SPECIES
-=======
+# Anisomeridium subprostans (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Tucker & Harris, Bryologist 83(1): 4 (1980)
 
 #### Original name
 Verrucaria subprostans Nyl.

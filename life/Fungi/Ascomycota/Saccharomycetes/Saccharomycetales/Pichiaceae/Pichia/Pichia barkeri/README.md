@@ -1,5 +1,4 @@
-Pichia barkeri Phaff, Starmer, Tredick & V. Aberdeen, 1987 SPECIES
-=======
+# Pichia barkeri Phaff, Starmer, Tredick & V. Aberdeen, 1987 SPECIES
 
 #### Status
 ACCEPTED

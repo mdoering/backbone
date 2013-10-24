@@ -1,5 +1,4 @@
-Xylaria flexa Lloyd SPECIES
-=======
+# Xylaria flexa Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia stolidota Hue SPECIES
-=======
+# Crocynia stolidota Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma mitratum Sacc. SPECIES
-=======
+# Hebeloma mitratum Sacc. SPECIES
 
 #### Status
 ACCEPTED

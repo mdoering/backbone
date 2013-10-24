@@ -1,5 +1,4 @@
-Pyrenochaeta exosporioides Sacc. SPECIES
-=======
+# Pyrenochaeta exosporioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

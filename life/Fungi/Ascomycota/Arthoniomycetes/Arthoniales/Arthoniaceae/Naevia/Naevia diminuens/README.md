@@ -1,5 +1,4 @@
-Naevia diminuens SPECIES
-=======
+# Naevia diminuens SPECIES
 
 #### Status
 ACCEPTED

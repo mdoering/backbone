@@ -1,5 +1,4 @@
-Nectria mindoensis Petr. SPECIES
-=======
+# Nectria mindoensis Petr. SPECIES
 
 #### Status
 ACCEPTED

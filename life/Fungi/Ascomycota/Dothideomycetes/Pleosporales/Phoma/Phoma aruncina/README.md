@@ -1,5 +1,4 @@
-Phoma aruncina Verpl. & Van den Broecke SPECIES
-=======
+# Phoma aruncina Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

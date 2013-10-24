@@ -1,14 +1,13 @@
-Phoma reniformis Viala & Ravaz, 1886 SPECIES
-=======
+# Dothiorella reniformis (Viala & Ravaz) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. , Beih. 42: 257 (1927)
 
 #### Original name
 Phoma reniformis Viala & Ravaz, 1886

@@ -1,5 +1,4 @@
-Usnea graciosa Motyka SPECIES
-=======
+# Usnea graciosa Motyka SPECIES
 
 #### Status
 ACCEPTED

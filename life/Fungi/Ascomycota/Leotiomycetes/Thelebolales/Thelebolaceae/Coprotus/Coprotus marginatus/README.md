@@ -1,5 +1,4 @@
-Coprotus marginatus Kimbr., Luck-Allen & Cain SPECIES
-=======
+# Coprotus marginatus Kimbr., Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

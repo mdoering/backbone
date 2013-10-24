@@ -1,5 +1,4 @@
-Syncrypta Ehrenberg, 1834 GENUS
-=======
+# Syncrypta Ehrenberg, 1834 GENUS
 
 #### Status
 ACCEPTED

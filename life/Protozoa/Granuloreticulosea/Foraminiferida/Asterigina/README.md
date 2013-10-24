@@ -1,5 +1,4 @@
-Asterigina GENUS
-=======
+# Asterigina GENUS
 
 #### Status
 ACCEPTED

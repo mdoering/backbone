@@ -1,5 +1,4 @@
-Lecidea columnata J. Lowe SPECIES
-=======
+# Lecidea columnata J. Lowe SPECIES
 
 #### Status
 ACCEPTED

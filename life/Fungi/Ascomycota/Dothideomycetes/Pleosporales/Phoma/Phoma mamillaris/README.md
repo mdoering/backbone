@@ -1,5 +1,4 @@
-Phoma mamillaris Berk. & M.A. Curtis SPECIES
-=======
+# Phoma mamillaris Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

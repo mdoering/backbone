@@ -1,5 +1,4 @@
-Celeribacter neptunius Ivanova, Webb, Christen, Zhukova, Kurilenko, Kalinovskaya & Crawford, 2010 SPECIES
-=======
+# Celeribacter neptunius Ivanova, Webb, Christen, Zhukova, Kurilenko, Kalinovskaya & Crawford, 2010 SPECIES
 
 #### Status
 ACCEPTED

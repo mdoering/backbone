@@ -1,5 +1,4 @@
-Chalara sanguinea Höhn. SPECIES
-=======
+# Chalara sanguinea Höhn. SPECIES
 
 #### Status
 ACCEPTED

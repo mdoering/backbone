@@ -1,5 +1,4 @@
-Plectonema calothrichoides Gomont SPECIES
-=======
+# Plectonema calothrichoides Gomont SPECIES
 
 #### Status
 ACCEPTED

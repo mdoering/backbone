@@ -1,5 +1,4 @@
-Lecanora epirhoda Vain. SPECIES
-=======
+# Lecanora epirhoda Vain. SPECIES
 
 #### Status
 ACCEPTED

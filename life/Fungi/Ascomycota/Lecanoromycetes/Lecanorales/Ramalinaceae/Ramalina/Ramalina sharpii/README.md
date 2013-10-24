@@ -1,5 +1,4 @@
-Ramalina sharpii Rundel SPECIES
-=======
+# Ramalina sharpii Rundel SPECIES
 
 #### Status
 ACCEPTED

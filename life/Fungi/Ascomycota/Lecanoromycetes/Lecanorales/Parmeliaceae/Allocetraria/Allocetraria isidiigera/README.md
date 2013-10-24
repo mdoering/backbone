@@ -1,5 +1,4 @@
-Allocetraria isidiigera Kurok. & M.J. Lai SPECIES
-=======
+# Allocetraria isidiigera Kurok. & M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

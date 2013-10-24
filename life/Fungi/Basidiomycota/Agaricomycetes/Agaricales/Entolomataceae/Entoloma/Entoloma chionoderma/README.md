@@ -1,5 +1,4 @@
-Entoloma chionoderma (Pilát) Noordel. SPECIES
-=======
+# Entoloma chionoderma (Pilát) Noordel. SPECIES
 
 #### Status
 ACCEPTED

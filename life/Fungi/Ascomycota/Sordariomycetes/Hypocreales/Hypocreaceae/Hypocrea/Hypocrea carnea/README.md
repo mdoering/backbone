@@ -1,5 +1,4 @@
-Hypocrea carnea Kalchbr. & Cooke, 1880 SPECIES
-=======
+# Hypocrea carnea Kalchbr. & Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED

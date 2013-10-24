@@ -1,5 +1,4 @@
-Dendrophoma myrtaceae Henn. SPECIES
-=======
+# Dendrophoma myrtaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Culicosporella lunata (E.I. Hazard & K.E. Savage) E.I. Hazard & K.E. Savage SPECIES
-=======
+# Culicosporella lunata (E.I. Hazard & K.E. Savage) E.I. Hazard & K.E. Savage SPECIES
 
 #### Status
 ACCEPTED

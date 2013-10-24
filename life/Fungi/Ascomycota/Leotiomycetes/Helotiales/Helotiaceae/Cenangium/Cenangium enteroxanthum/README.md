@@ -1,5 +1,4 @@
-Cenangium enteroxanthum Schwein. SPECIES
-=======
+# Cenangium enteroxanthum Schwein. SPECIES
 
 #### Status
 ACCEPTED

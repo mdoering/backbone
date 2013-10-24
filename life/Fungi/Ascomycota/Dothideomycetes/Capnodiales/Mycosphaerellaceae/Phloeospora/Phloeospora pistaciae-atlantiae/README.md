@@ -1,5 +1,4 @@
-Phloeospora pistaciae-atlantiae Rayss SPECIES
-=======
+# Phloeospora pistaciae-atlantiae Rayss SPECIES
 
 #### Status
 ACCEPTED

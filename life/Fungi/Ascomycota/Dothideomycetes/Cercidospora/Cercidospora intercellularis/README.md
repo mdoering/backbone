@@ -1,5 +1,4 @@
-Cercidospora intercellularis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora intercellularis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

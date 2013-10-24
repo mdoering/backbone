@@ -1,5 +1,4 @@
-Septoria astericola Ellis & Everh., 1889 SPECIES
-=======
+# Septoria astericola Ellis & Everh., 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicothrix spiralis Fritsch SPECIES
-=======
+# Dicothrix spiralis Fritsch SPECIES
 
 #### Status
 ACCEPTED

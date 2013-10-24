@@ -1,5 +1,4 @@
-Physcia cainii Räsänen SPECIES
-=======
+# Physcia cainii Räsänen SPECIES
 
 #### Status
 ACCEPTED

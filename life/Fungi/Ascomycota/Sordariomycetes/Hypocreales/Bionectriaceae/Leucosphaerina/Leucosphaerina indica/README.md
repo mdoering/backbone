@@ -1,14 +1,13 @@
-Leucosphaera indica Arx, Mukerji & N. Singh, 1978 SPECIES
-=======
+# Leucosphaerina indica (Arx, Mukerji & N. Singh) Arx, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(1): 141 (1978)
+Persoonia 13(3): 294 (1987)
 
 #### Original name
 Leucosphaera indica Arx, Mukerji & N. Singh, 1978

@@ -1,5 +1,4 @@
-Flammula unicolor (Murrill) Murrill SPECIES
-=======
+# Flammula unicolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

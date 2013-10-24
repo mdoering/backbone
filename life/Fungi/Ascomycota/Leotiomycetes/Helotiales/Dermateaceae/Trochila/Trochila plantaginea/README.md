@@ -1,5 +1,4 @@
-Trochila plantaginea P. Karst. SPECIES
-=======
+# Trochila plantaginea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

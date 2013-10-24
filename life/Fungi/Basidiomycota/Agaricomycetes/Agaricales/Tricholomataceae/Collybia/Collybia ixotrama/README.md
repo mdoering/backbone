@@ -1,5 +1,4 @@
-Collybia ixotrama Singer SPECIES
-=======
+# Collybia ixotrama Singer SPECIES
 
 #### Status
 ACCEPTED

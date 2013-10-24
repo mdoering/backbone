@@ -1,8 +1,7 @@
-Dasyscypha hyalotrichus Rehm SPECIES
-=======
+# Dasyscyphus hyalotrichus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha hyalotrichus Rehm
+Dasyscyphus hyalotrichus Rehm
 
 ### Remarks
 null

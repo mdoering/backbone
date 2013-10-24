@@ -1,14 +1,13 @@
-Poria dussii Pat., 1899 SPECIES
-=======
+# Porogramme dussii (Pat.) Pat., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 15: 199 (1899)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) (1900)
 
 #### Original name
 Poria dussii Pat., 1899

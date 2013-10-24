@@ -1,5 +1,4 @@
-Cercophora sarawacensis (Ces.) N. Lundq. SPECIES
-=======
+# Cercophora sarawacensis (Ces.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

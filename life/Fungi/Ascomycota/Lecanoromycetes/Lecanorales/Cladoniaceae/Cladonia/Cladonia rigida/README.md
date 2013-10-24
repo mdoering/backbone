@@ -1,17 +1,16 @@
-Cladonia rigida var. rigida VARIETY
-=======
+# Cladonia rigida (Hook. f. & Taylor) Hampe SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 28: 216 (1856)
+null
 
 #### Original name
-Cenomyce rigida Hook. f. & Taylor
+null
 
 ### Remarks
 null

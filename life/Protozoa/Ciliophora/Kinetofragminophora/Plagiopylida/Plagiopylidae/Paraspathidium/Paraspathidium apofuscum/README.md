@@ -1,5 +1,4 @@
-Paraspathidium apofuscum Long, Song, Al-Rasheid & Gong, 2009 SPECIES
-=======
+# Paraspathidium apofuscum Long, Song, Al-Rasheid & Gong, 2009 SPECIES
 
 #### Status
 ACCEPTED

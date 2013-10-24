@@ -1,5 +1,4 @@
-Protoheterotrichida Nouzarède, 1977 ORDER
-=======
+# Protoheterotrichida Nouzarède, 1977 ORDER
 
 #### Status
 ACCEPTED

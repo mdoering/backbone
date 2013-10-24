@@ -1,5 +1,4 @@
-Lactarius glabripes A.H. Sm. SPECIES
-=======
+# Lactarius glabripes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea sphaerellifera Nyl. SPECIES
-=======
+# Lecidea sphaerellifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

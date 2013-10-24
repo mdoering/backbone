@@ -1,5 +1,4 @@
-Aptea Eisenack, 1958 GENUS
-=======
+# Aptea Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

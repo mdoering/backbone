@@ -1,5 +1,4 @@
-Calocybe borealis A. Riva SPECIES
-=======
+# Calocybe borealis A. Riva SPECIES
 
 #### Status
 ACCEPTED

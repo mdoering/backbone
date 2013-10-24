@@ -1,5 +1,4 @@
-Crepidotus pogonatus Kalchbr. SPECIES
-=======
+# Crepidotus pogonatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

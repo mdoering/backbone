@@ -1,5 +1,4 @@
-Papulophycus Vologdin GENUS
-=======
+# Papulophycus Vologdin GENUS
 
 #### Status
 ACCEPTED

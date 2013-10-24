@@ -1,5 +1,4 @@
-Dipodomyces phloeocharidis T. Majewski, 1981 SPECIES
-=======
+# Dipodomyces phloeocharidis T. Majewski, 1981 SPECIES
 
 #### Status
 ACCEPTED

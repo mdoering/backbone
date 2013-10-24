@@ -1,5 +1,4 @@
-Cannopilus jouseae A. Bachmann SPECIES
-=======
+# Cannopilus jouseae A. Bachmann SPECIES
 
 #### Status
 ACCEPTED

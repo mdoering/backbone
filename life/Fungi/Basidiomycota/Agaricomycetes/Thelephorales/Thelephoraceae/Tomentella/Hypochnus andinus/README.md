@@ -1,5 +1,4 @@
-Hypochnus andinus Pat. SPECIES
-=======
+# Hypochnus andinus Pat. SPECIES
 
 #### Status
 ACCEPTED

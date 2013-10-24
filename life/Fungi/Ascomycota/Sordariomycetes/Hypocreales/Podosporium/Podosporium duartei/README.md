@@ -1,5 +1,4 @@
-Podosporium duartei Mercado SPECIES
-=======
+# Podosporium duartei Mercado SPECIES
 
 #### Status
 ACCEPTED

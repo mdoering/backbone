@@ -1,5 +1,4 @@
-Uromyces tordillensis Speg. SPECIES
-=======
+# Uromyces tordillensis Speg. SPECIES
 
 #### Status
 ACCEPTED

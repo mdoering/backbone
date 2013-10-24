@@ -1,5 +1,4 @@
-Peziza tremelloidea Bull. SPECIES
-=======
+# Peziza tremelloidea Bull. SPECIES
 
 #### Status
 ACCEPTED

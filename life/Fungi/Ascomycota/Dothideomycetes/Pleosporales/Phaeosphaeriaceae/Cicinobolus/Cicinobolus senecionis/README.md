@@ -1,8 +1,7 @@
-Cicinnobolus senecionis Unamuno SPECIES
-=======
+# Cicinobolus senecionis Unamuno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus senecionis Unamuno
+Cicinobolus senecionis Unamuno
 
 ### Remarks
 null

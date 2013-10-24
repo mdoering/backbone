@@ -1,5 +1,4 @@
-Lactarius pinckneyensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pinckneyensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

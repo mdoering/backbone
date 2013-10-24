@@ -1,5 +1,4 @@
-Puccinia subtegulanea Cummins SPECIES
-=======
+# Puccinia subtegulanea Cummins SPECIES
 
 #### Status
 ACCEPTED

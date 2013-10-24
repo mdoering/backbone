@@ -1,17 +1,16 @@
-Finerania vischia C.W. Dodge SPECIES
-=======
+# Finerania vischii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 19(3-4): 460 (1971)
 
 #### Original name
-Finerania vischia C.W. Dodge
+Finerania vischii C.W. Dodge
 
 ### Remarks
 null

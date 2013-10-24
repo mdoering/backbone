@@ -1,5 +1,4 @@
-Septoria moesiaca Nann. SPECIES
-=======
+# Septoria moesiaca Nann. SPECIES
 
 #### Status
 ACCEPTED

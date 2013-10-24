@@ -1,5 +1,4 @@
-Hyaloscypha paludosa Dennis, 1962 SPECIES
-=======
+# Hyaloscypha paludosa Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus clematidis (Fautrey) Kuntze SPECIES
-=======
+# Hymenoscyphus clematidis (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

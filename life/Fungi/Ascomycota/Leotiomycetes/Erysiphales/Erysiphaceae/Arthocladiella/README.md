@@ -1,5 +1,4 @@
-Arthocladiella GENUS
-=======
+# Arthocladiella GENUS
 
 #### Status
 ACCEPTED

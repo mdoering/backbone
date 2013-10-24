@@ -1,5 +1,4 @@
-Mollisia dehnii var. dehnii VARIETY
-=======
+# Mollisia dehnii (Rabenh.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mollisia dehnii var. dehnii
+Peziza dehnii Rabenh.
 
 ### Remarks
 null

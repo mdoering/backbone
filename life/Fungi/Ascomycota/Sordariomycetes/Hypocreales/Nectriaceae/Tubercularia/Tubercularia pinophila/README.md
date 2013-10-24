@@ -1,5 +1,4 @@
-Tubercularia pinophila Corda SPECIES
-=======
+# Tubercularia pinophila Corda SPECIES
 
 #### Status
 ACCEPTED

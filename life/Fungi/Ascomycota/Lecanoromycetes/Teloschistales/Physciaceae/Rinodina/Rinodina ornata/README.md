@@ -1,5 +1,4 @@
-Rinodina ornata Müll. Arg. SPECIES
-=======
+# Rinodina ornata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

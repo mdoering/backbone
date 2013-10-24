@@ -1,17 +1,16 @@
-Metasphaeria ocellata f. ocellata FORM
-=======
+# Keissleriella ocellata (Niessl) S.K. Bose, 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 157 (1883)
+Phytopath. Z. 41: 184 (1961)
 
 #### Original name
-Metasphaeria ocellata f. ocellata
+Leptosphaeria ocellata Niessl, 1885
 
 ### Remarks
 null

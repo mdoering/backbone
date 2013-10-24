@@ -1,5 +1,4 @@
-Phyllachora pomigena (Schwein.) Sacc. SPECIES
-=======
+# Phyllachora pomigena (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

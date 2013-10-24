@@ -1,5 +1,4 @@
-Encoelia nicaraguensis (E.J. Durand) W.Y. Zhuang SPECIES
-=======
+# Encoelia nicaraguensis (E.J. Durand) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

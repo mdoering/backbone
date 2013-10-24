@@ -1,5 +1,4 @@
-Peziza apiahyna Speg. SPECIES
-=======
+# Peziza apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

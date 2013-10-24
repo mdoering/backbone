@@ -1,5 +1,4 @@
-Rivularia australis (Harvey) Bornet & Flahault SPECIES
-=======
+# Rivularia australis (Harvey) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

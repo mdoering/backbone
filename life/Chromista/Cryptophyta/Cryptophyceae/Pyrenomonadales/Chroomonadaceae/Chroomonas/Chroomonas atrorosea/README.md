@@ -1,5 +1,4 @@
-Chroomonas atrorosea R. W. Butcher SPECIES
-=======
+# Chroomonas atrorosea R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

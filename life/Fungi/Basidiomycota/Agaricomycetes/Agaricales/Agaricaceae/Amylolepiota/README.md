@@ -1,5 +1,4 @@
-Amylolepiota Harmaja GENUS
-=======
+# Amylolepiota Harmaja GENUS
 
 #### Status
 ACCEPTED

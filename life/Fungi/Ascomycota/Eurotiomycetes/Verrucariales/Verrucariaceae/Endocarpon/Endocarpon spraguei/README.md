@@ -1,5 +1,4 @@
-Endocarpon spraguei (Tuck.) Nyl. SPECIES
-=======
+# Endocarpon spraguei (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

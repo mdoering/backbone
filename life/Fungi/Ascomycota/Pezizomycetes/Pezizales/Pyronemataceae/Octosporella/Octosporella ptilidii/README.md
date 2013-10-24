@@ -1,5 +1,4 @@
-Octosporella ptilidii Döbbeler, 1988 SPECIES
-=======
+# Octosporella ptilidii Döbbeler, 1988 SPECIES
 
 #### Status
 ACCEPTED

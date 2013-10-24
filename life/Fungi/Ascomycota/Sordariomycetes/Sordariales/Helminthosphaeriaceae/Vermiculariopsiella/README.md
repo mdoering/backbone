@@ -1,17 +1,16 @@
-Vermiculariopsis Höhn. GENUS
-=======
+# Vermiculariopsiella Bender GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 36: 317 (1918)
+Mycologia 24(4): 412 (1932)
 
 #### Original name
-Vermiculariopsis Höhn.
+Vermiculariopsiella Bender
 
 ### Remarks
 null

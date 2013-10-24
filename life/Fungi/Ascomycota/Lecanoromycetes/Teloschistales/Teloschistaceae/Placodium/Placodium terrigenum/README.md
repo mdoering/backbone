@@ -1,5 +1,4 @@
-Placodium terrigenum Räsänen SPECIES
-=======
+# Placodium terrigenum Räsänen SPECIES
 
 #### Status
 ACCEPTED

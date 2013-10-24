@@ -1,5 +1,4 @@
-Inocybe bispora Hongo SPECIES
-=======
+# Inocybe bispora Hongo SPECIES
 
 #### Status
 ACCEPTED

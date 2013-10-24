@@ -1,5 +1,4 @@
-Physconia tentaculata (Zahlbr.) Poelt SPECIES
-=======
+# Physconia tentaculata (Zahlbr.) Poelt SPECIES
 
 #### Status
 ACCEPTED

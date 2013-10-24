@@ -1,5 +1,4 @@
-Stephanospora Patouillard, 1914 GENUS
-=======
+# Stephanospora Patouillard, 1914 GENUS
 
 #### Status
 ACCEPTED

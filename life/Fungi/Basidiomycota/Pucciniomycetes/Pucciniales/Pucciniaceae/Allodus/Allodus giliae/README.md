@@ -1,5 +1,4 @@
-Allodus giliae (Peck) Orton SPECIES
-=======
+# Allodus giliae (Peck) Orton SPECIES
 
 #### Status
 ACCEPTED

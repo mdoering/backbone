@@ -1,5 +1,4 @@
-Catillaria itacolumitica Malme SPECIES
-=======
+# Catillaria itacolumitica Malme SPECIES
 
 #### Status
 ACCEPTED

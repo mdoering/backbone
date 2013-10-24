@@ -1,5 +1,4 @@
-Micrhystridium persolatiforme Chibrikova, 1972 SPECIES
-=======
+# Micrhystridium persolatiforme Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

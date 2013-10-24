@@ -1,5 +1,4 @@
-Sphaerita plasmophaga Mattes, 1924 SPECIES
-=======
+# Sphaerita plasmophaga Mattes, 1924 SPECIES
 
 #### Status
 ACCEPTED

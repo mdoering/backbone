@@ -1,5 +1,4 @@
-Pertusaria indica Preeti Srivast. & D.D. Awasthi SPECIES
-=======
+# Pertusaria indica Preeti Srivast. & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

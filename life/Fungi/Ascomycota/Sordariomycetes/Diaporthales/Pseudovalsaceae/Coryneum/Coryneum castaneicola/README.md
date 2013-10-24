@@ -1,17 +1,16 @@
-Coryneum castanicola Berk. & M.A. Curtis SPECIES
-=======
+# Coryneum castaneicola Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 2(no. 22): 154 (1874)
 
 #### Original name
-Coryneum castanicola Berk. & M.A. Curtis
+Coryneum castaneicola Berk. & M.A. Curtis, 1874
 
 ### Remarks
 null

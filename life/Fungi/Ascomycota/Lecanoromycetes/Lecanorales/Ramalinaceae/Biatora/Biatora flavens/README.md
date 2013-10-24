@@ -1,5 +1,4 @@
-Biatora flavens Willey SPECIES
-=======
+# Biatora flavens Willey SPECIES
 
 #### Status
 ACCEPTED

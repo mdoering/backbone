@@ -1,5 +1,4 @@
-Brachybacterium Collins, Brown & Jones, 1988 GENUS
-=======
+# Brachybacterium Collins, Brown & Jones, 1988 GENUS
 
 #### Status
 ACCEPTED

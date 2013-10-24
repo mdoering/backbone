@@ -1,5 +1,4 @@
-Tuber mixtum Risso SPECIES
-=======
+# Tuber mixtum Risso SPECIES
 
 #### Status
 ACCEPTED

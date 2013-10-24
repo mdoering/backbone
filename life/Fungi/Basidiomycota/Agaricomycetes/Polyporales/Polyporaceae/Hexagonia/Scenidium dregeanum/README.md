@@ -1,5 +1,4 @@
-Scenidium dregeanum (Lév.) Kuntze SPECIES
-=======
+# Scenidium dregeanum (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleurotus roseiavellaneus Murrill, 1938 SPECIES
-=======
+# Rhodocybe roseiavellanea (Murrill) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 30: 367 (1938)
+Lilloa 22: 609 (1951)
 
 #### Original name
 Pleurotus roseiavellaneus Murrill, 1938

@@ -1,5 +1,4 @@
-Pleurotus rattenburyi Segedin, 1984 SPECIES
-=======
+# Pleurotus rattenburyi Segedin, 1984 SPECIES
 
 #### Status
 ACCEPTED

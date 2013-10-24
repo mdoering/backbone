@@ -1,17 +1,16 @@
-Acaulium vignoli-lutatii Matr. SPECIES
-=======
+# Acaulium vignolo-lutatii Matr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vignolo-Lutati, Arch. Derm. Syph. , Berlin 118: 690 (1913)
 
 #### Original name
-Acaulium vignoli-lutatii Matr.
+Acaulium vignolo-lutatii Matr.
 
 ### Remarks
 null

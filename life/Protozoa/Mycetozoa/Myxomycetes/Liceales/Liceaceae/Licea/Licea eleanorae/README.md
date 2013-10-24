@@ -1,17 +1,16 @@
-Licea cristallifera Flatau, 2000 SPECIES
-=======
+# Licea eleanorae Ing, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Myxomycetes of Britain and Ireland (Slough), An Identification Handbook 50 (1999)
 
 #### Original name
-null
+Licea eleanorae Ing, 1999
 
 ### Remarks
 null

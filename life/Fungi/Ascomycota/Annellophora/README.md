@@ -1,17 +1,16 @@
-Chaetotrichum Syd. GENUS
-=======
+# Annellophora S. Hughes GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(1/2): 150 (1927)
+Trans. Br. mycol. Soc. 34: 544 (1952)
 
 #### Original name
-Chaetotrichum Syd.
+Annellophora S. Hughes
 
 ### Remarks
 null

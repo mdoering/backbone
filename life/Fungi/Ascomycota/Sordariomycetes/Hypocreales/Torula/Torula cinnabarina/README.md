@@ -1,5 +1,4 @@
-Torula cinnabarina Mart. SPECIES
-=======
+# Torula cinnabarina Mart. SPECIES
 
 #### Status
 ACCEPTED

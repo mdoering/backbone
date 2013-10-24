@@ -1,5 +1,4 @@
-Epistylis transvaalensis SPECIES
-=======
+# Epistylis transvaalensis SPECIES
 
 #### Status
 ACCEPTED

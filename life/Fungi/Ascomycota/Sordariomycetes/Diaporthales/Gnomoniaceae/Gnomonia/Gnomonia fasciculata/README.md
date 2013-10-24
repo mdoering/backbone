@@ -1,5 +1,4 @@
-Gnomonia fasciculata Fuckel SPECIES
-=======
+# Gnomonia fasciculata Fuckel SPECIES
 
 #### Status
 ACCEPTED

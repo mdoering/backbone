@@ -1,5 +1,4 @@
-Helotium elongatum Schumach. SPECIES
-=======
+# Helotium elongatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

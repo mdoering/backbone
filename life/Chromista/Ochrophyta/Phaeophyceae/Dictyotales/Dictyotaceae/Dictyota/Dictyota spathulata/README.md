@@ -1,5 +1,4 @@
-Dictyota spathulata Yamada SPECIES
-=======
+# Dictyota spathulata Yamada SPECIES
 
 #### Status
 ACCEPTED

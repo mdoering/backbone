@@ -1,5 +1,4 @@
-Neoclitocybe viridilutea (Rick) Singer SPECIES
-=======
+# Neoclitocybe viridilutea (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

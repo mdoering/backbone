@@ -1,5 +1,4 @@
-Psathyra ocreata (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyra ocreata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

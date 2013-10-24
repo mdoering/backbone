@@ -1,5 +1,4 @@
-Gliocladium zaleskii Pidopl. SPECIES
-=======
+# Gliocladium zaleskii Pidopl. SPECIES
 
 #### Status
 ACCEPTED

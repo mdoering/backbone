@@ -1,5 +1,4 @@
-Saccomyces Serbinow GENUS
-=======
+# Saccomyces Serbinow GENUS
 
 #### Status
 ACCEPTED

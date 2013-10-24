@@ -1,5 +1,4 @@
-Phycomycites rectus Bender SPECIES
-=======
+# Phycomycites rectus Bender SPECIES
 
 #### Status
 ACCEPTED

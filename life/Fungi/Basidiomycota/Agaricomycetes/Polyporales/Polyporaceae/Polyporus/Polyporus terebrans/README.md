@@ -1,5 +1,4 @@
-Polyporus terebrans Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus terebrans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

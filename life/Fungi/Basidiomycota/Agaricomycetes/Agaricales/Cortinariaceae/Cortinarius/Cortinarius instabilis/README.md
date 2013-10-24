@@ -1,5 +1,4 @@
-Cortinarius instabilis P. Karst. SPECIES
-=======
+# Cortinarius instabilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

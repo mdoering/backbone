@@ -1,17 +1,16 @@
-Woroninula Mekht. GENUS
-=======
+# Arthrobotrys Corda, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Khishchnye Nematofagovye Griby - Gifomitsety (Baku) 109 (1979)
+Pracht-Fl. Eur. Schimmelbild. 43 (1839)
 
 #### Original name
-Woroninula Mekht.
+Arthrobotrys Corda, 1839
 
 ### Remarks
 null

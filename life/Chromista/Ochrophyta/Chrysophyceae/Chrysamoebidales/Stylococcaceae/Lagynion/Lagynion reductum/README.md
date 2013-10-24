@@ -1,5 +1,4 @@
-Lagynion reductum SPECIES
-=======
+# Lagynion reductum SPECIES
 
 #### Status
 ACCEPTED

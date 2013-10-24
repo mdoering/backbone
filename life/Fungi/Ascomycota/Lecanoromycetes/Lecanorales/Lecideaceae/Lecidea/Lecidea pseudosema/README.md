@@ -1,5 +1,4 @@
-Lecidea pseudosema Müll. Arg. SPECIES
-=======
+# Lecidea pseudosema Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

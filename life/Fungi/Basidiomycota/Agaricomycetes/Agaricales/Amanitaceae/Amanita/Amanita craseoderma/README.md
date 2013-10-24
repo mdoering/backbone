@@ -1,5 +1,4 @@
-Amanita craseoderma Bas SPECIES
-=======
+# Amanita craseoderma Bas SPECIES
 
 #### Status
 ACCEPTED

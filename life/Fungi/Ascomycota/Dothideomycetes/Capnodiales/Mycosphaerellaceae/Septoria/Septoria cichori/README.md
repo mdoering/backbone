@@ -1,5 +1,4 @@
-Septoria cichori Rodigin SPECIES
-=======
+# Septoria cichori Rodigin SPECIES
 
 #### Status
 ACCEPTED

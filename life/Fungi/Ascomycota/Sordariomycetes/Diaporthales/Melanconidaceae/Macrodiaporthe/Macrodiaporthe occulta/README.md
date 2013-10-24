@@ -1,14 +1,13 @@
-Valsa occulta Fuckel, 1863 SPECIES
-=======
+# Macrodiaporthe occulta (Fuckel) Petr., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi rhenani no. 622 (1863)
+Annls mycol. 17(2/6): 94 (1920)
 
 #### Original name
 Valsa occulta Fuckel, 1863

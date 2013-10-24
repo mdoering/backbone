@@ -1,5 +1,4 @@
-Hispidicarpomyces Nakagiri GENUS
-=======
+# Hispidicarpomyces Nakagiri GENUS
 
 #### Status
 ACCEPTED

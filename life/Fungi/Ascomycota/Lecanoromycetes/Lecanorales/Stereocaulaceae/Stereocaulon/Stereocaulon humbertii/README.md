@@ -1,5 +1,4 @@
-Stereocaulon humbertii P.A. Duvign. SPECIES
-=======
+# Stereocaulon humbertii P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

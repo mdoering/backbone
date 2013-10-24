@@ -1,5 +1,4 @@
-Mycena filicina (Dennis) Dennis SPECIES
-=======
+# Mycena filicina (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

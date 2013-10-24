@@ -1,5 +1,4 @@
-Tilakidium indicum Vaidya, C.D. Naik & Rathod, 1986 SPECIES
-=======
+# Tilakidium indicum Vaidya, C.D. Naik & Rathod, 1986 SPECIES
 
 #### Status
 ACCEPTED

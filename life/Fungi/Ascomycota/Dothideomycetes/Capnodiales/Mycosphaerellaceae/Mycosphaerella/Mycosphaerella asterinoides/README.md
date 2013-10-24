@@ -1,5 +1,4 @@
-Mycosphaerella asterinoides Lindau SPECIES
-=======
+# Mycosphaerella asterinoides Lindau SPECIES
 
 #### Status
 ACCEPTED

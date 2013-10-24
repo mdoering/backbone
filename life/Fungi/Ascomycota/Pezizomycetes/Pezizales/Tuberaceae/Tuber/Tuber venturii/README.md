@@ -1,5 +1,4 @@
-Tuber venturii (Corda) Tul. SPECIES
-=======
+# Tuber venturii (Corda) Tul. SPECIES
 
 #### Status
 ACCEPTED

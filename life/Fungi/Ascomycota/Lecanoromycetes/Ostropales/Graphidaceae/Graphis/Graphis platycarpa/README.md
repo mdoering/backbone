@@ -1,5 +1,4 @@
-Graphis platycarpa Eschw. SPECIES
-=======
+# Graphis platycarpa Eschw. SPECIES
 
 #### Status
 ACCEPTED

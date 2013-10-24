@@ -1,5 +1,4 @@
-Ascochyta hemipteleae Melnik SPECIES
-=======
+# Ascochyta hemipteleae Melnik SPECIES
 
 #### Status
 ACCEPTED

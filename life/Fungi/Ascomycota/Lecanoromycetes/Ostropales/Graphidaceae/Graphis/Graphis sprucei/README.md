@@ -1,5 +1,4 @@
-Graphis sprucei Leight. SPECIES
-=======
+# Graphis sprucei Leight. SPECIES
 
 #### Status
 ACCEPTED

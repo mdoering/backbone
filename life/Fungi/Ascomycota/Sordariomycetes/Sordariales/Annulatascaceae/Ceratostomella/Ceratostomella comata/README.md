@@ -1,5 +1,4 @@
-Ceratostomella comata V.V. Mill. & Tcherntz. SPECIES
-=======
+# Ceratostomella comata V.V. Mill. & Tcherntz. SPECIES
 
 #### Status
 ACCEPTED

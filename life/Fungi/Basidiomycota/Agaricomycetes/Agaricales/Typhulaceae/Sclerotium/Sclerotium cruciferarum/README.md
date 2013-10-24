@@ -1,5 +1,4 @@
-Sclerotium cruciferarum Fr. SPECIES
-=======
+# Sclerotium cruciferarum Fr. SPECIES
 
 #### Status
 ACCEPTED

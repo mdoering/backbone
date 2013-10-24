@@ -1,5 +1,4 @@
-Entoloma farlowii (Singer) Hesler SPECIES
-=======
+# Entoloma farlowii (Singer) Hesler SPECIES
 
 #### Status
 ACCEPTED

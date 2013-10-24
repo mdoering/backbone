@@ -1,5 +1,4 @@
-Lophodermopsis hysterioides Speg. SPECIES
-=======
+# Lophodermopsis hysterioides Speg. SPECIES
 
 #### Status
 ACCEPTED

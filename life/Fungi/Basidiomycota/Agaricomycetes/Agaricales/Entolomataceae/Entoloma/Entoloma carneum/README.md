@@ -1,5 +1,4 @@
-Entoloma carneum Manim., Leelav. & Noordel. SPECIES
-=======
+# Entoloma carneum Manim., Leelav. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

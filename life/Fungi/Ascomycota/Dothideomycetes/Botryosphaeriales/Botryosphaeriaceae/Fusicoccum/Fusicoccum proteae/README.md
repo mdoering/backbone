@@ -1,5 +1,4 @@
-Fusicoccum proteae Denman & Crous SPECIES
-=======
+# Fusicoccum proteae Denman & Crous SPECIES
 
 #### Status
 ACCEPTED

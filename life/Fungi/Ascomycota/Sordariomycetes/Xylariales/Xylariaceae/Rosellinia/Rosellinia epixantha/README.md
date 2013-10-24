@@ -1,5 +1,4 @@
-Rosellinia epixantha Berk. & Broome SPECIES
-=======
+# Rosellinia epixantha Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

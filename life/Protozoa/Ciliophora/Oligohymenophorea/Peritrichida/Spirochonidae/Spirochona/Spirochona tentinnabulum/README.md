@@ -1,5 +1,4 @@
-Spirochona tentinnabulum SPECIES
-=======
+# Spirochona tentinnabulum SPECIES
 
 #### Status
 ACCEPTED

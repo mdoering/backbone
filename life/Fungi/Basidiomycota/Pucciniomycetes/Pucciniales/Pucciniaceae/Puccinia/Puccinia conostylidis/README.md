@@ -1,5 +1,4 @@
-Puccinia conostylidis Grove SPECIES
-=======
+# Puccinia conostylidis Grove SPECIES
 
 #### Status
 ACCEPTED

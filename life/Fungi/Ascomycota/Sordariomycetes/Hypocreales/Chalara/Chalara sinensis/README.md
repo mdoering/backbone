@@ -1,5 +1,4 @@
-Chalara sinensis W.P. Wu SPECIES
-=======
+# Chalara sinensis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

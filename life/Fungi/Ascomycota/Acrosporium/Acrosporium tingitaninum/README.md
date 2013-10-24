@@ -1,5 +1,4 @@
-Acrosporium tingitaninum (J.C. Carter) Subram. SPECIES
-=======
+# Acrosporium tingitaninum (J.C. Carter) Subram. SPECIES
 
 #### Status
 ACCEPTED

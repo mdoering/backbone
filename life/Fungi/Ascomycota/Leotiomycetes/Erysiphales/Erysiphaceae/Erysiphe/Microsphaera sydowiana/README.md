@@ -1,5 +1,4 @@
-Microsphaera sydowiana U. Braun SPECIES
-=======
+# Microsphaera sydowiana U. Braun SPECIES
 
 #### Status
 ACCEPTED

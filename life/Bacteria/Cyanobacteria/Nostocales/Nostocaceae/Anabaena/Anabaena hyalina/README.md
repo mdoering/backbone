@@ -1,5 +1,4 @@
-Anabaena hyalina Schmidle SPECIES
-=======
+# Anabaena hyalina Schmidle SPECIES
 
 #### Status
 ACCEPTED

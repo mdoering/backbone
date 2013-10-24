@@ -1,5 +1,4 @@
-Treleasia musicola Speg. SPECIES
-=======
+# Treleasia musicola Speg. SPECIES
 
 #### Status
 ACCEPTED

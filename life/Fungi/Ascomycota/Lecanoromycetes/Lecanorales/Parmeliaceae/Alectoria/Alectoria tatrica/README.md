@@ -1,5 +1,4 @@
-Alectoria tatrica Motyka SPECIES
-=======
+# Alectoria tatrica Motyka SPECIES
 
 #### Status
 ACCEPTED

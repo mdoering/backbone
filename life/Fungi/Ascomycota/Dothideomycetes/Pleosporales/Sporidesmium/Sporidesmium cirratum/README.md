@@ -1,5 +1,4 @@
-Sporidesmium cirratum Ces. SPECIES
-=======
+# Sporidesmium cirratum Ces. SPECIES
 
 #### Status
 ACCEPTED

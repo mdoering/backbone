@@ -1,5 +1,4 @@
-Thelotrema imperfectum Hale SPECIES
-=======
+# Thelotrema imperfectum Hale SPECIES
 
 #### Status
 ACCEPTED

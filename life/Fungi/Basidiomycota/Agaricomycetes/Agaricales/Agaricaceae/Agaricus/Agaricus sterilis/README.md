@@ -1,5 +1,4 @@
-Agaricus sterilis Jungh. SPECIES
-=======
+# Agaricus sterilis Jungh. SPECIES
 
 #### Status
 ACCEPTED

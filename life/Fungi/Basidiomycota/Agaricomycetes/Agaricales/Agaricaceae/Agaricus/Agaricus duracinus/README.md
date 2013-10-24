@@ -1,5 +1,4 @@
-Agaricus duracinus Cooke SPECIES
-=======
+# Agaricus duracinus Cooke SPECIES
 
 #### Status
 ACCEPTED

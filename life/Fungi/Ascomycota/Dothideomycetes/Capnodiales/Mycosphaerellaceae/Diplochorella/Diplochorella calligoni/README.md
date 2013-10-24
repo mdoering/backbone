@@ -1,5 +1,4 @@
-Diplochorella calligoni Frolov SPECIES
-=======
+# Diplochorella calligoni Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina aurantiaca (Link) Magnus SPECIES
-=======
+# Marssonina aurantiaca (Link) Magnus SPECIES
 
 #### Status
 ACCEPTED

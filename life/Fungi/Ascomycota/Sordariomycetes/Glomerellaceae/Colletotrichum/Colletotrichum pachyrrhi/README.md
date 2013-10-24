@@ -1,5 +1,4 @@
-Colletotrichum pachyrrhi Sawada SPECIES
-=======
+# Colletotrichum pachyrrhi Sawada SPECIES
 
 #### Status
 ACCEPTED

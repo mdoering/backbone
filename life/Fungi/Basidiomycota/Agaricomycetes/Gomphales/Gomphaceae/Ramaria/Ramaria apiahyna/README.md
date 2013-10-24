@@ -1,14 +1,13 @@
-Clavaria apiahyna Speg., 1919 SPECIES
-=======
+# Ramaria apiahyna (Speg.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 23(3-4): 435 [no. 213, reprint page 73] (1919)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 555 (1950)
 
 #### Original name
 Clavaria apiahyna Speg., 1919

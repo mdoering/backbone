@@ -1,5 +1,4 @@
-Eggerella parkerae Uchio, 1960 SPECIES
-=======
+# Eggerella parkerae Uchio, 1960 SPECIES
 
 #### Status
 ACCEPTED

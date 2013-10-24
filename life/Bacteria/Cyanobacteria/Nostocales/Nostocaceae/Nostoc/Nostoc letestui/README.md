@@ -1,5 +1,4 @@
-Nostoc letestui Frémy SPECIES
-=======
+# Nostoc letestui Frémy SPECIES
 
 #### Status
 ACCEPTED

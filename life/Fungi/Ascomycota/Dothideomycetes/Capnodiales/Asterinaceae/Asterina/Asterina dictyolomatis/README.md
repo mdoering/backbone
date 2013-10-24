@@ -1,17 +1,16 @@
-Asterina dictylomae Henn. SPECIES
-=======
+# Asterina dictyolomatis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 372 (1904)
 
 #### Original name
-Asterina dictylomae Henn.
+Asterina dictyolomatis Henn.
 
 ### Remarks
 null

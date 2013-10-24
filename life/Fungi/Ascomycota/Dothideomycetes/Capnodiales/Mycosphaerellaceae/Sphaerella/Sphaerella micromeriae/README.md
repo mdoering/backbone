@@ -1,5 +1,4 @@
-Sphaerella micromeriae Pass. SPECIES
-=======
+# Sphaerella micromeriae Pass. SPECIES
 
 #### Status
 ACCEPTED

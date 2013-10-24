@@ -1,5 +1,4 @@
-Parmelia flaccida SPECIES
-=======
+# Parmelia flaccida SPECIES
 
 #### Status
 ACCEPTED

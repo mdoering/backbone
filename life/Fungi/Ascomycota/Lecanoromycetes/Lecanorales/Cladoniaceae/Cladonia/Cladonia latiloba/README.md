@@ -1,5 +1,4 @@
-Cladonia latiloba Ahti & Marcelli SPECIES
-=======
+# Cladonia latiloba Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

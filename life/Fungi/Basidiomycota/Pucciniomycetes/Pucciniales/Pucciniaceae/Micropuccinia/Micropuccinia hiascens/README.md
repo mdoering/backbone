@@ -1,5 +1,4 @@
-Micropuccinia hiascens (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia hiascens (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

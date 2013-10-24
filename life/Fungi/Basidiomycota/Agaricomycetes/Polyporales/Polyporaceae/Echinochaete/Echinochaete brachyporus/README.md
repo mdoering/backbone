@@ -1,5 +1,4 @@
-Echinochaete brachyporus (Mont.) Ryvarden SPECIES
-=======
+# Echinochaete brachyporus (Mont.) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella circumdans Pass. SPECIES
-=======
+# Sphaerella circumdans Pass. SPECIES
 
 #### Status
 ACCEPTED

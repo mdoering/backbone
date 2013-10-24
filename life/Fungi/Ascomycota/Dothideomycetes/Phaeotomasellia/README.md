@@ -1,5 +1,4 @@
-Phaeotomasellia Katum. GENUS
-=======
+# Phaeotomasellia Katum. GENUS
 
 #### Status
 ACCEPTED

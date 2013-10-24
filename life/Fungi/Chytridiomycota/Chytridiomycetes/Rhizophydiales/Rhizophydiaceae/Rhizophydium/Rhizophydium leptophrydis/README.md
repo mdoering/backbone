@@ -1,5 +1,4 @@
-Rhizophydium leptophrydis Scherff. SPECIES
-=======
+# Rhizophydium leptophrydis Scherff. SPECIES
 
 #### Status
 ACCEPTED

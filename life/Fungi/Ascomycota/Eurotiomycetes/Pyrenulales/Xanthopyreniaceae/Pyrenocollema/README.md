@@ -1,5 +1,4 @@
-Pyrenocollema Reinke GENUS
-=======
+# Pyrenocollema Reinke GENUS
 
 #### Status
 ACCEPTED

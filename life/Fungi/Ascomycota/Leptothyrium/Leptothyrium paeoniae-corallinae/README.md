@@ -1,5 +1,4 @@
-Leptothyrium paeoniae-corallinae Bondartsev & Lebedeva SPECIES
-=======
+# Leptothyrium paeoniae-corallinae Bondartsev & Lebedeva SPECIES
 
 #### Status
 ACCEPTED

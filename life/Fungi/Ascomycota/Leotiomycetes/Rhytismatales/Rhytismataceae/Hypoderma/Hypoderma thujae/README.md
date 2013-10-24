@@ -1,17 +1,16 @@
-Hypoderma thuyae Durrieu SPECIES
-=======
+# Hypoderma thujae Durrieu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 1: 358 (1957)
 
 #### Original name
-Hypoderma thuyae Durrieu
+Hypoderma thujae Durrieu
 
 ### Remarks
 null

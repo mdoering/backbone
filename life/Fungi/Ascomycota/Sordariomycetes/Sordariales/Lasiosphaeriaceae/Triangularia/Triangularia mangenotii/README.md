@@ -1,5 +1,4 @@
-Triangularia mangenotii Arx & Hennebert, 1969 SPECIES
-=======
+# Triangularia mangenotii Arx & Hennebert, 1969 SPECIES
 
 #### Status
 ACCEPTED

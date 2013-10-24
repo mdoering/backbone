@@ -1,5 +1,4 @@
-Anthostoma intermedium Nitschke SPECIES
-=======
+# Anthostoma intermedium Nitschke SPECIES
 
 #### Status
 ACCEPTED

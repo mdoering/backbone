@@ -1,5 +1,4 @@
-Pseudohygrocybe parvula (Peck) Kovalenko SPECIES
-=======
+# Pseudohygrocybe parvula (Peck) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

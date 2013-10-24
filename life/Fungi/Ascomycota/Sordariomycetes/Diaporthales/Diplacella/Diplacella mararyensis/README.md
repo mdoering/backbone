@@ -1,5 +1,4 @@
-Diplacella mararyensis (Henn.) Arx & E. Müll. SPECIES
-=======
+# Diplacella mararyensis (Henn.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

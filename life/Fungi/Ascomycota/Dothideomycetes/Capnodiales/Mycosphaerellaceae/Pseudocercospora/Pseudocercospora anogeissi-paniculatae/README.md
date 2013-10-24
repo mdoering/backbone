@@ -1,5 +1,4 @@
-Pseudocercospora anogeissi-paniculatae ined. SPECIES
-=======
+# Pseudocercospora anogeissi-paniculatae ined. SPECIES
 
 #### Status
 ACCEPTED

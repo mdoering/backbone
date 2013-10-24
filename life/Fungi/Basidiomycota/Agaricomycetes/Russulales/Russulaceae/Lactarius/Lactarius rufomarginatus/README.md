@@ -1,5 +1,4 @@
-Lactarius rufomarginatus Verbeken & Van Rooij SPECIES
-=======
+# Lactarius rufomarginatus Verbeken & Van Rooij SPECIES
 
 #### Status
 ACCEPTED

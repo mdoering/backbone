@@ -1,5 +1,4 @@
-Peltomyces blatellae (Crawley {?} ) L. Léger SPECIES
-=======
+# Peltomyces blatellae (Crawley {?} ) L. Léger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Radulum kmetii Bres., 1897 SPECIES
-=======
+# Eichleriella deglubens (Berk. & Broome) Lloyd, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Acad. Agiato Rovereto 3(1): 102 (1897)
+Mycol. Writ. 4(letter 45): 7 (1913)
 
 #### Original name
-Radulum kmetii Bres., 1897
+Radulum deglubens Berk. & Broome, 1875
 
 ### Remarks
 null

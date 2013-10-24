@@ -1,5 +1,4 @@
-Reophax guttifer SPECIES
-=======
+# Reophax guttifer SPECIES
 
 #### Status
 ACCEPTED

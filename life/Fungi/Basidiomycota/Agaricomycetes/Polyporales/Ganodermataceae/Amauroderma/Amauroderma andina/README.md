@@ -1,17 +1,16 @@
-Amauroderma andinum Ryvarden SPECIES
-=======
+# Amauroderma andina Ryvarden, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 18: 59 (2004)
 
 #### Original name
-Amauroderma andinum Ryvarden
+Amauroderma andina Ryvarden, 2004
 
 ### Remarks
 null

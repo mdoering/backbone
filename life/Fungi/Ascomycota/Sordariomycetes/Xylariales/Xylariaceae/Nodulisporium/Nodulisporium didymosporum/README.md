@@ -1,5 +1,4 @@
-Nodulisporium didymosporum Nicot, 1956 SPECIES
-=======
+# Nodulisporium didymosporum Nicot, 1956 SPECIES
 
 #### Status
 ACCEPTED

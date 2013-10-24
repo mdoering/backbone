@@ -1,5 +1,4 @@
-Coniothecium erumpens Sacc. & P. Syd. SPECIES
-=======
+# Coniothecium erumpens Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha nodosa Pat. SPECIES
-=======
+# Rhizomorpha nodosa Pat. SPECIES
 
 #### Status
 ACCEPTED

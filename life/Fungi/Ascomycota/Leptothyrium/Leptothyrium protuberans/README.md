@@ -1,14 +1,13 @@
-Phoma protuberans Lév. SPECIES
-=======
+# Leptothyrium protuberans (Lév.) Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 281 (1846)
+Michelia 2(no. 7): 351 (1881)
 
 #### Original name
 Phoma protuberans Lév.

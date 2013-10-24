@@ -1,5 +1,4 @@
-Valsa tosquinetii Westend. SPECIES
-=======
+# Valsa tosquinetii Westend. SPECIES
 
 #### Status
 ACCEPTED

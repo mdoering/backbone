@@ -1,5 +1,4 @@
-Biatora enteroleuca (Ach.) Nägeli SPECIES
-=======
+# Biatora enteroleuca (Ach.) Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Copelandia papilionacea var. papilionacea VARIETY
-=======
+# Copelandia papilionacea (Bull.) Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia (1912)
 
 #### Original name
-Copelandia papilionacea var. papilionacea
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta pyrolae Ellis & Everh., 1889 SPECIES
-=======
+# Phyllosticta pyrolae Ellis & Everh., 1889 SPECIES
 
 #### Status
 ACCEPTED

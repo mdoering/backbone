@@ -1,5 +1,4 @@
-Inocybe demitrata Velen. SPECIES
-=======
+# Inocybe demitrata Velen. SPECIES
 
 #### Status
 ACCEPTED

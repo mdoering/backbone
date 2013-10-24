@@ -1,5 +1,4 @@
-Diplodina cassiae (Henn.) Died. SPECIES
-=======
+# Diplodina cassiae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

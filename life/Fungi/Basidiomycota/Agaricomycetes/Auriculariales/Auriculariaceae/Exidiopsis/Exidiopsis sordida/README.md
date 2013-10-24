@@ -1,5 +1,4 @@
-Exidiopsis sordida (L.S. Olive) K. Wells SPECIES
-=======
+# Exidiopsis sordida (L.S. Olive) K. Wells SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatiscum harrissoni C.W. Dodge SPECIES
-=======
+# Dermatiscum harrissoni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus brunneovillosus Jungh. SPECIES
-=======
+# Agaricus brunneovillosus Jungh. SPECIES
 
 #### Status
 ACCEPTED

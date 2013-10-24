@@ -1,5 +1,4 @@
-Pyricularia pyricularioides (Matsush.) de Hoog & Oorschot SPECIES
-=======
+# Pyricularia pyricularioides (Matsush.) de Hoog & Oorschot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalciporus piperatoides (A.H. Sm. & Thiers) T.J. Baroni & Both SPECIES
-=======
+# Chalciporus piperatoides (A.H. Sm. & Thiers) T.J. Baroni & Both SPECIES
 
 #### Status
 ACCEPTED

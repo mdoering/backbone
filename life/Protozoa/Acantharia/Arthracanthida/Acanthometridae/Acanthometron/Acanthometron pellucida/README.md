@@ -1,5 +1,4 @@
-Acanthometron pellucida Mueller, 1856 SPECIES
-=======
+# Acanthometron pellucida Mueller, 1856 SPECIES
 
 #### Status
 ACCEPTED

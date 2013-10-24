@@ -1,5 +1,4 @@
-Ramalea tribulosa Nyl. SPECIES
-=======
+# Ramalea tribulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

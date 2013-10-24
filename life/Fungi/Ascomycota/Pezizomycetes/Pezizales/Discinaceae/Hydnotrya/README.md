@@ -1,17 +1,16 @@
-Gyrocratera Henn. GENUS
-=======
+# Hydnotrya Berkeley & Broome, 1846 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Verh. bot. Ver. Prov. Brandenb. 41: IX (1899)
+null
 
 #### Original name
-Gyrocratera Henn.
+null
 
 ### Remarks
 null

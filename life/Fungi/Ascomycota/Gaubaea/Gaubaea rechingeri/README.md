@@ -1,5 +1,4 @@
-Gaubaea rechingeri Speer SPECIES
-=======
+# Gaubaea rechingeri Speer SPECIES
 
 #### Status
 ACCEPTED

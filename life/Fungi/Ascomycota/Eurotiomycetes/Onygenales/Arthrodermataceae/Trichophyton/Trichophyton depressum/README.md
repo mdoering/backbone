@@ -1,5 +1,4 @@
-Trichophyton depressum MacCarthy, 1925 SPECIES
-=======
+# Trichophyton depressum MacCarthy, 1925 SPECIES
 
 #### Status
 ACCEPTED

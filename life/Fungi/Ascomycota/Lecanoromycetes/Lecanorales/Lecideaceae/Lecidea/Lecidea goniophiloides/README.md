@@ -1,5 +1,4 @@
-Lecidea goniophiloides B. de Lesd. SPECIES
-=======
+# Lecidea goniophiloides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

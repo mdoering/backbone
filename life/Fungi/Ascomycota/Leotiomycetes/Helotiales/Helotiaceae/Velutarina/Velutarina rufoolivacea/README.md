@@ -1,5 +1,4 @@
-Velutarina rufoolivacea (Alb. & Schwein. Fr.) Korf SPECIES
-=======
+# Velutarina rufoolivacea (Alb. & Schwein. Fr.) Korf SPECIES
 
 #### Status
 ACCEPTED

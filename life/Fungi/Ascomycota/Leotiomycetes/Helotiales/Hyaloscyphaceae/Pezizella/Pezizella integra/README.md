@@ -1,5 +1,4 @@
-Pezizella integra Velen. SPECIES
-=======
+# Pezizella integra Velen. SPECIES
 
 #### Status
 ACCEPTED

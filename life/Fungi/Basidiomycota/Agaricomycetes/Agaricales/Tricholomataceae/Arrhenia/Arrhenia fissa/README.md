@@ -1,14 +1,13 @@
-Agaricus fissus Leyss., 1783 SPECIES
-=======
+# Arrhenia fissa (Leyss.) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Florae halensis, Edn 2 (1783)
+Can. J. Bot. 62(5): 875 (1984)
 
 #### Original name
 Agaricus fissus Leyss., 1783

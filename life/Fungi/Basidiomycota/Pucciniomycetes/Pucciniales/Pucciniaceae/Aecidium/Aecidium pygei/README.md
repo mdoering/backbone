@@ -1,5 +1,4 @@
-Aecidium pygei Syd. & P. Syd. SPECIES
-=======
+# Aecidium pygei Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

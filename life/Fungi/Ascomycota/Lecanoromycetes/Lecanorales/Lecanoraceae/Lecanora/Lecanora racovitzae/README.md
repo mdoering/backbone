@@ -1,5 +1,4 @@
-Lecanora racovitzae Vain. SPECIES
-=======
+# Lecanora racovitzae Vain. SPECIES
 
 #### Status
 ACCEPTED

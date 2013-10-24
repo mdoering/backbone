@@ -1,5 +1,4 @@
-Corticium albidocarneum (Schwein.) Ravenel SPECIES
-=======
+# Corticium albidocarneum (Schwein.) Ravenel SPECIES
 
 #### Status
 ACCEPTED

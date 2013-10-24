@@ -1,5 +1,4 @@
-Caloplaca subseptata Zahlbr. SPECIES
-=======
+# Caloplaca subseptata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinoptychus trigonus A.W.F.Schmidt, 1874 SPECIES
-=======
+# Actinoptychus trigonus A.W.F.Schmidt, 1874 SPECIES
 
 #### Status
 ACCEPTED

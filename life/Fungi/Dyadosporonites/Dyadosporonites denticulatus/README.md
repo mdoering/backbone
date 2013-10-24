@@ -1,5 +1,4 @@
-Dyadosporonites denticulatus Ramanujam & K.P. Rao SPECIES
-=======
+# Dyadosporonites denticulatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea substriatula H. Magn. SPECIES
-=======
+# Lecidea substriatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonatobotrys blighiae Gonz. Frag. & Cif. SPECIES
-=======
+# Gonatobotrys blighiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

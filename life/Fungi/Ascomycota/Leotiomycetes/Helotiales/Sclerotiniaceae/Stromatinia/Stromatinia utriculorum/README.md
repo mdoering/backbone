@@ -1,5 +1,4 @@
-Stromatinia utriculorum (Boud.) Boud. SPECIES
-=======
+# Stromatinia utriculorum (Boud.) Boud. SPECIES
 
 #### Status
 ACCEPTED

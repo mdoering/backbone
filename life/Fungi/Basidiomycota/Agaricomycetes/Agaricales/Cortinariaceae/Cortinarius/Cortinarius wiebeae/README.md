@@ -1,5 +1,4 @@
-Cortinarius wiebeae Thiers & A.H. Sm. SPECIES
-=======
+# Cortinarius wiebeae Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

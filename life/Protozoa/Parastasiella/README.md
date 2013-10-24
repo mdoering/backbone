@@ -1,5 +1,4 @@
-Parastasiella Michajlow GENUS
-=======
+# Parastasiella Michajlow GENUS
 
 #### Status
 ACCEPTED

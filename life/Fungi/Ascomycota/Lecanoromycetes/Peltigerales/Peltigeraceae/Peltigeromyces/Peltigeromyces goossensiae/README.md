@@ -1,17 +1,16 @@
-Peltigeromyces goossensii Le Gal SPECIES
-=======
+# Peltigeromyces goossensiae Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 29: 126 (1959)
 
 #### Original name
-Peltigeromyces goossensii Le Gal
+Peltigeromyces goossensiae Le Gal
 
 ### Remarks
 null

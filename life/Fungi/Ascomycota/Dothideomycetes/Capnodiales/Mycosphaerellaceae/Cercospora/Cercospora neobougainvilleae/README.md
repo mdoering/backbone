@@ -1,5 +1,4 @@
-Cercospora neobougainvilleae Meeboon, Hidayat & C. Nakash. SPECIES
-=======
+# Cercospora neobougainvilleae Meeboon, Hidayat & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

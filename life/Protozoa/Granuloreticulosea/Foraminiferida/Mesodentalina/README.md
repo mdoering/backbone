@@ -1,5 +1,4 @@
-Mesodentalina Norling, 1968 GENUS
-=======
+# Mesodentalina Norling, 1968 GENUS
 
 #### Status
 ACCEPTED

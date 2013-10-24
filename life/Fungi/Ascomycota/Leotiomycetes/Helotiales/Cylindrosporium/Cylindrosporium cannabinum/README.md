@@ -1,5 +1,4 @@
-Cylindrosporium cannabinum Ibrah. SPECIES
-=======
+# Cylindrosporium cannabinum Ibrah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pedatula Nyl. SPECIES
-=======
+# Lecidea pedatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

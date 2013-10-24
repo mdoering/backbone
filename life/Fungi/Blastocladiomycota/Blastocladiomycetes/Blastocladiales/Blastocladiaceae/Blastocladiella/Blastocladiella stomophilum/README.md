@@ -1,5 +1,4 @@
-Blastocladiella stomophilum (Couch & H.T. Cox) Couch & Whiffen SPECIES
-=======
+# Blastocladiella stomophilum (Couch & H.T. Cox) Couch & Whiffen SPECIES
 
 #### Status
 ACCEPTED

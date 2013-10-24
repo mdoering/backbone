@@ -1,5 +1,4 @@
-Synechococcus mundulus Skuja SPECIES
-=======
+# Synechococcus mundulus Skuja SPECIES
 
 #### Status
 ACCEPTED

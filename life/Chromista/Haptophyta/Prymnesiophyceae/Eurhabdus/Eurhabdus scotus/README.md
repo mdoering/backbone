@@ -1,5 +1,4 @@
-Eurhabdus scotus J.B. Risatti SPECIES
-=======
+# Eurhabdus scotus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

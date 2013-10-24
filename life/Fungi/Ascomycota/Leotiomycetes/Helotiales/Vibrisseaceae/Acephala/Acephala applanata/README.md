@@ -1,5 +1,4 @@
-Acephala applanata Grünig & T.N. Sieber, 2005 SPECIES
-=======
+# Acephala applanata Grünig & T.N. Sieber, 2005 SPECIES
 
 #### Status
 ACCEPTED

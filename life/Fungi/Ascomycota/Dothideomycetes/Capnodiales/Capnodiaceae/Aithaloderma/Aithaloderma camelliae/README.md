@@ -1,5 +1,4 @@
-Aithaloderma camelliae Hara SPECIES
-=======
+# Aithaloderma camelliae Hara SPECIES
 
 #### Status
 ACCEPTED

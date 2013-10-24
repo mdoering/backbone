@@ -1,5 +1,4 @@
-Teichospora ignavis f. ignavis FORM
-=======
+# Teichospora ignavis (De Not.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycoth. fenn. (Helsinki) 2: 65 (1873)
 
 #### Original name
-Teichospora ignavis f. ignavis
+Cucurbitaria ignavis De Not.
 
 ### Remarks
 null

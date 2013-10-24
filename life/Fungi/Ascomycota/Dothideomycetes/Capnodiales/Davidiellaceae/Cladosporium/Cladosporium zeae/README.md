@@ -1,5 +1,4 @@
-Cladosporium zeae Peck, 1894 SPECIES
-=======
+# Cladosporium zeae Peck, 1894 SPECIES
 
 #### Status
 ACCEPTED

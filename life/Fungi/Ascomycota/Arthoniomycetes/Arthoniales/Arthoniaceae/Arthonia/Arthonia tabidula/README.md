@@ -1,5 +1,4 @@
-Arthonia tabidula Anzi SPECIES
-=======
+# Arthonia tabidula Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius amarus Peck SPECIES
-=======
+# Cortinarius amarus Peck SPECIES
 
 #### Status
 ACCEPTED

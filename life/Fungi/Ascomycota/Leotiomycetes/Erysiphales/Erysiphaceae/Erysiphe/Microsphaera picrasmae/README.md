@@ -1,5 +1,4 @@
-Microsphaera picrasmae Sawada SPECIES
-=======
+# Microsphaera picrasmae Sawada SPECIES
 
 #### Status
 ACCEPTED

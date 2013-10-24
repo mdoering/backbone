@@ -1,5 +1,4 @@
-Mycoglaena elegans (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Mycoglaena elegans (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

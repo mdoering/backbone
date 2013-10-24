@@ -1,5 +1,4 @@
-Cercospora consimilis Syd. SPECIES
-=======
+# Cercospora consimilis Syd. SPECIES
 
 #### Status
 ACCEPTED

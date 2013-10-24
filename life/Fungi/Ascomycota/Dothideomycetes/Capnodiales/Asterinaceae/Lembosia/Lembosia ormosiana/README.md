@@ -1,5 +1,4 @@
-Lembosia ormosiana Sacc. SPECIES
-=======
+# Lembosia ormosiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

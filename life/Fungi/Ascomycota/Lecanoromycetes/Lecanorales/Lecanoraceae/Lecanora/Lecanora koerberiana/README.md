@@ -1,5 +1,4 @@
-Lecanora koerberiana (J. Lahm) Stizenb. SPECIES
-=======
+# Lecanora koerberiana (J. Lahm) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

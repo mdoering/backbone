@@ -1,5 +1,4 @@
-Cyphelium kenyanum Sambo SPECIES
-=======
+# Cyphelium kenyanum Sambo SPECIES
 
 #### Status
 ACCEPTED

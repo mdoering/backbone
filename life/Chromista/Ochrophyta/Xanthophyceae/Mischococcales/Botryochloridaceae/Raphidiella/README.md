@@ -1,5 +1,4 @@
-Raphidiella Pascher, 1937 GENUS
-=======
+# Raphidiella Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

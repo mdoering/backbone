@@ -1,5 +1,4 @@
-Tuburcinia mustaphae (Maire) Liro SPECIES
-=======
+# Tuburcinia mustaphae (Maire) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stropharia crocopepla (Berk. & Broome) Sacc. SPECIES
-=======
+# Stropharia crocopepla (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

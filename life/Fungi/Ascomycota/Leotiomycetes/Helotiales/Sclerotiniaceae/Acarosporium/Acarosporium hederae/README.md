@@ -1,5 +1,4 @@
-Acarosporium hederae (Syd.) Petr. SPECIES
-=======
+# Acarosporium hederae (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

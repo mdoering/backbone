@@ -1,5 +1,4 @@
-Caeomurus pictus (Thüm.) Kuntze SPECIES
-=======
+# Caeomurus pictus (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

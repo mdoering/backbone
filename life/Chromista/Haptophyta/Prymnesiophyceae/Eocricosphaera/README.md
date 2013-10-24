@@ -1,5 +1,4 @@
-Eocricosphaera Deflandre GENUS
-=======
+# Eocricosphaera Deflandre GENUS
 
 #### Status
 ACCEPTED

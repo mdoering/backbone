@@ -1,5 +1,4 @@
-Boletus roseipes Bessette, Both & A.R. Bessette SPECIES
-=======
+# Boletus roseipes Bessette, Both & A.R. Bessette SPECIES
 
 #### Status
 ACCEPTED

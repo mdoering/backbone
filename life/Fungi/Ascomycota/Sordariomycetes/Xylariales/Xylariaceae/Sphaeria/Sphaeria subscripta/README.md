@@ -1,5 +1,4 @@
-Sphaeria subscripta Fr. SPECIES
-=======
+# Sphaeria subscripta Fr. SPECIES
 
 #### Status
 ACCEPTED

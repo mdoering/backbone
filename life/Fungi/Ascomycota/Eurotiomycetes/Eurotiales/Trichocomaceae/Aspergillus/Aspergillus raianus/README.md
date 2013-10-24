@@ -1,17 +1,16 @@
-Aspergillus raianum H.J. Chowdhery SPECIES
-=======
+# Aspergillus raianus H.J. Chowdhery SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 48(21): 953 (1979)
 
 #### Original name
-Aspergillus raianum H.J. Chowdhery
+Aspergillus raianus H.J. Chowdhery
 
 ### Remarks
 null

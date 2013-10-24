@@ -1,5 +1,4 @@
-Nitrosopumilus Konneke, Bernhard, de la Torre, Walker, Waterbury, Stahl, 2006 GENUS
-=======
+# Nitrosopumilus Konneke, Bernhard, de la Torre, Walker, Waterbury, Stahl, 2006 GENUS
 
 #### Status
 ACCEPTED

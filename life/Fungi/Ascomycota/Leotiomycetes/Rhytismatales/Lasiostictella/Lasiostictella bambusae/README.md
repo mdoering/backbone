@@ -1,5 +1,4 @@
-Lasiostictella bambusae Sherwood, 1986 SPECIES
-=======
+# Lasiostictella bambusae Sherwood, 1986 SPECIES
 
 #### Status
 ACCEPTED

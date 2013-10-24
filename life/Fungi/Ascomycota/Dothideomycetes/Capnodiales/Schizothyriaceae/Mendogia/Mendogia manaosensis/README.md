@@ -1,5 +1,4 @@
-Mendogia manaosensis (Henn.) Theiss. & Syd. SPECIES
-=======
+# Mendogia manaosensis (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

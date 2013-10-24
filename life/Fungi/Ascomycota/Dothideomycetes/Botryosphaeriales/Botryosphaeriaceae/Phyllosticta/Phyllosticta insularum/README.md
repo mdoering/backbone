@@ -1,5 +1,4 @@
-Phyllosticta insularum Sacc. SPECIES
-=======
+# Phyllosticta insularum Sacc. SPECIES
 
 #### Status
 ACCEPTED

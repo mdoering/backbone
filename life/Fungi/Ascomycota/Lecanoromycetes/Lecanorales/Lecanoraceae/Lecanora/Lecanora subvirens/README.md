@@ -1,5 +1,4 @@
-Lecanora subvirens (J. Steiner) Motyka SPECIES
-=======
+# Lecanora subvirens (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

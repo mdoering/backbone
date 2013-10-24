@@ -1,5 +1,4 @@
-Cantharellus odorus Wettst. SPECIES
-=======
+# Cantharellus odorus Wettst. SPECIES
 
 #### Status
 ACCEPTED

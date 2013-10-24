@@ -1,5 +1,4 @@
-Baeomyces sabuletorum (Schreb.) Röhling SPECIES
-=======
+# Baeomyces sabuletorum (Schreb.) Röhling SPECIES
 
 #### Status
 ACCEPTED

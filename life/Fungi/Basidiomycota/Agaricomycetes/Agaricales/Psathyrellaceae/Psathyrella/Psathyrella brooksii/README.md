@@ -1,5 +1,4 @@
-Psathyrella brooksii A.H. Sm. SPECIES
-=======
+# Psathyrella brooksii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

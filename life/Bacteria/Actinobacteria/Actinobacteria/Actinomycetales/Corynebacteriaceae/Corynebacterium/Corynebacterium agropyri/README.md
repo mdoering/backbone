@@ -1,5 +1,4 @@
-Corynebacterium agropyri SPECIES
-=======
+# Corynebacterium agropyri SPECIES
 
 #### Status
 ACCEPTED

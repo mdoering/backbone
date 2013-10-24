@@ -1,5 +1,4 @@
-Tubercularia pusilla Sacc. SPECIES
-=======
+# Tubercularia pusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

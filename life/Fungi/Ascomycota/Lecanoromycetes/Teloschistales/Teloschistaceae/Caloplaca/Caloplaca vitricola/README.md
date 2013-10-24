@@ -1,5 +1,4 @@
-Caloplaca vitricola Mellor {?} SPECIES
-=======
+# Caloplaca vitricola Mellor {?} SPECIES
 
 #### Status
 ACCEPTED

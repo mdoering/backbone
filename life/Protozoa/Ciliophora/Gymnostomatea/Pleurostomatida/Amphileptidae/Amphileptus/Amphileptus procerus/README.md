@@ -1,8 +1,7 @@
-Lionotus procera Penard, 1922 SPECIES
-=======
+# Amphileptus procerus (Penard, 1922) Song & Wilbert, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

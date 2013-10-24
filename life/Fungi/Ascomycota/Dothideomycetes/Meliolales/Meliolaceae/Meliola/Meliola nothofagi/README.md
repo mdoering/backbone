@@ -1,5 +1,4 @@
-Meliola nothofagi B. Huguenin SPECIES
-=======
+# Meliola nothofagi B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

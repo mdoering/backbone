@@ -1,5 +1,4 @@
-Phyllosticta allantospora Ellis & Everh. SPECIES
-=======
+# Phyllosticta allantospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

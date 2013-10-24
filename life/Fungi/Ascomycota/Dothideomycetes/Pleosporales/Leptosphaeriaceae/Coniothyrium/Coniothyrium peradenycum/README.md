@@ -1,5 +1,4 @@
-Coniothyrium peradenycum Sacc. SPECIES
-=======
+# Coniothyrium peradenycum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmeliella austroshetlandica Øvstedal & Søchting SPECIES
-=======
+# Parmeliella austroshetlandica Øvstedal & Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellobiopsis fagei Hovasse SPECIES
-=======
+# Ellobiopsis fagei Hovasse SPECIES
 
 #### Status
 ACCEPTED

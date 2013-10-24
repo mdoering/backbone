@@ -1,8 +1,7 @@
-Stylonychia fissiseta Claparède & Lachmann, 1858 SPECIES
-=======
+# Stylonychia pustulata (Müller, 1786) Ehrenberg, 1835 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

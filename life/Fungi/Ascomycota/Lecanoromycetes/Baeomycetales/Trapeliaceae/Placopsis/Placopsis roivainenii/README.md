@@ -1,5 +1,4 @@
-Placopsis roivainenii I.M. Lamb SPECIES
-=======
+# Placopsis roivainenii I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

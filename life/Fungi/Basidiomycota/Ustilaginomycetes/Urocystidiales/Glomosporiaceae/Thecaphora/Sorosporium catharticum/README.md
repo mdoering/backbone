@@ -1,5 +1,4 @@
-Sorosporium catharticum Maire SPECIES
-=======
+# Sorosporium catharticum Maire SPECIES
 
 #### Status
 ACCEPTED

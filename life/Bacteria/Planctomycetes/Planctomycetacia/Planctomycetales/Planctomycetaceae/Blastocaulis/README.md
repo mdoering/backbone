@@ -1,5 +1,4 @@
-Blastocaulis GENUS
-=======
+# Blastocaulis GENUS
 
 #### Status
 ACCEPTED

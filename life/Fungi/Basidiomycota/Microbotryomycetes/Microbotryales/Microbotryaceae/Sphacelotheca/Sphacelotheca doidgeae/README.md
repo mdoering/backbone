@@ -1,5 +1,4 @@
-Sphacelotheca doidgeae Zundel SPECIES
-=======
+# Sphacelotheca doidgeae Zundel SPECIES
 
 #### Status
 ACCEPTED

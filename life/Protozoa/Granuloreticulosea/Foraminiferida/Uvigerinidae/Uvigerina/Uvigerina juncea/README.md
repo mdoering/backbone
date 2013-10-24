@@ -1,5 +1,4 @@
-Uvigerina juncea SPECIES
-=======
+# Uvigerina juncea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola artabotrydis Hansf. SPECIES
-=======
+# Meliola artabotrydis Hansf. SPECIES
 
 #### Status
 ACCEPTED

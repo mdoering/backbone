@@ -1,5 +1,4 @@
-Phacus horridus Pochmann SPECIES
-=======
+# Phacus horridus Pochmann SPECIES
 
 #### Status
 ACCEPTED

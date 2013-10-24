@@ -1,5 +1,4 @@
-Auricularia butleri Massee SPECIES
-=======
+# Auricularia butleri Massee SPECIES
 
 #### Status
 ACCEPTED

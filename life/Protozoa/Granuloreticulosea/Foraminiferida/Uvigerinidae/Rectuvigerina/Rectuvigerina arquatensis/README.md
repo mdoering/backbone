@@ -1,5 +1,4 @@
-Rectuvigerina arquatensis Papp, 1963 SPECIES
-=======
+# Rectuvigerina arquatensis Papp, 1963 SPECIES
 
 #### Status
 ACCEPTED

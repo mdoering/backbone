@@ -1,5 +1,4 @@
-Urceolaria patellae Cuenot, 1891 SPECIES
-=======
+# Urceolaria patellae Cuenot, 1891 SPECIES
 
 #### Status
 ACCEPTED

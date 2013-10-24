@@ -1,5 +1,4 @@
-Lecanora contribuens SPECIES
-=======
+# Lecanora contribuens SPECIES
 
 #### Status
 ACCEPTED

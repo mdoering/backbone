@@ -1,5 +1,4 @@
-Phaeographopsis palaeotropica Kalb & Frisch SPECIES
-=======
+# Phaeographopsis palaeotropica Kalb & Frisch SPECIES
 
 #### Status
 ACCEPTED

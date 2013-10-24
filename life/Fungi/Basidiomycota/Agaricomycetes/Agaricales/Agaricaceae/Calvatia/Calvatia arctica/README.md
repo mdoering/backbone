@@ -1,5 +1,4 @@
-Calvatia arctica Ferd. & Winge SPECIES
-=======
+# Calvatia arctica Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

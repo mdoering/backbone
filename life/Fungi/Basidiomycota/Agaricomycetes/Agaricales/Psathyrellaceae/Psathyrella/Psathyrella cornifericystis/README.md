@@ -1,5 +1,4 @@
-Psathyrella cornifericystis A.H. Sm. SPECIES
-=======
+# Psathyrella cornifericystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

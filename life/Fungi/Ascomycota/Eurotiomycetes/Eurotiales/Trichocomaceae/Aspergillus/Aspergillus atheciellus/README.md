@@ -1,5 +1,4 @@
-Aspergillus atheciellus Samson & W. Gams SPECIES
-=======
+# Aspergillus atheciellus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

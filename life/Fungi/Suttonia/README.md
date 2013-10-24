@@ -1,5 +1,4 @@
-Suttonia H.C. Evans, 1984 GENUS
-=======
+# Suttonia H.C. Evans, 1984 GENUS
 
 #### Status
 ACCEPTED

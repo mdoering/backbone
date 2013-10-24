@@ -1,5 +1,4 @@
-Gyalecta rhodinula (Nyl.) H. Olivier SPECIES
-=======
+# Gyalecta rhodinula (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella balcanica Bubák, 1915 SPECIES
-=======
+# Mycosphaerella bubakii Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 45 (2006)
 
 #### Original name
-null
+Sphaerella balcanica Bubák, 1915
 
 ### Remarks
 null

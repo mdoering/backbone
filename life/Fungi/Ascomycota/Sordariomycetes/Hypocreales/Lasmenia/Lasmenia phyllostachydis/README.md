@@ -1,5 +1,4 @@
-Lasmenia phyllostachydis Sawada SPECIES
-=======
+# Lasmenia phyllostachydis Sawada SPECIES
 
 #### Status
 ACCEPTED

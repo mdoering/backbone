@@ -1,5 +1,4 @@
-Agaricus aureotomentosus Kalchbr. SPECIES
-=======
+# Agaricus aureotomentosus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

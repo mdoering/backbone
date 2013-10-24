@@ -1,5 +1,4 @@
-Dematium castaneae Schwein. SPECIES
-=======
+# Dematium castaneae Schwein. SPECIES
 
 #### Status
 ACCEPTED

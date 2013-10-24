@@ -1,5 +1,4 @@
-Trichoseptoria maydina Saccas, 1951 SPECIES
-=======
+# Trichoseptoria maydina Saccas, 1951 SPECIES
 
 #### Status
 ACCEPTED

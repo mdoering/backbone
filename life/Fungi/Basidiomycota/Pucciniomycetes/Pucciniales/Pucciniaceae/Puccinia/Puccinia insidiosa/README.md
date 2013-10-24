@@ -1,5 +1,4 @@
-Puccinia insidiosa Berk. SPECIES
-=======
+# Puccinia insidiosa Berk. SPECIES
 
 #### Status
 ACCEPTED

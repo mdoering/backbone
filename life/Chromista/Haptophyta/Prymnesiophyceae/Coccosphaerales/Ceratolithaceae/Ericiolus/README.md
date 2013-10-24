@@ -1,5 +1,4 @@
-Ericiolus H.A.Thomsen, 1995 GENUS
-=======
+# Ericiolus H.A.Thomsen, 1995 GENUS
 
 #### Status
 ACCEPTED

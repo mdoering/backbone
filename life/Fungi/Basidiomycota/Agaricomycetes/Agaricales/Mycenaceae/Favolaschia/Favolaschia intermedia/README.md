@@ -1,17 +1,16 @@
-Favolaschia intermedia var. intermedia VARIETY
-=======
+# Favolaschia intermedia (Berk. & M.A. Curtis) Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 50: 91 (1974)
 
 #### Original name
-Favolaschia intermedia var. intermedia
+Laschia intermedia Berk. & M.A. Curtis
 
 ### Remarks
 null

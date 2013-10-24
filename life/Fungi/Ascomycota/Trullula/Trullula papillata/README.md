@@ -1,5 +1,4 @@
-Trullula papillata (Preuss) Sacc. SPECIES
-=======
+# Trullula papillata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

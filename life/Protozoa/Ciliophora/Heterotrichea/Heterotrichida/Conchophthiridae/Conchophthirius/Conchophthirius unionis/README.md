@@ -1,5 +1,4 @@
-Conchophthirius unionis SPECIES
-=======
+# Conchophthirius unionis SPECIES
 
 #### Status
 ACCEPTED

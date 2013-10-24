@@ -1,5 +1,4 @@
-Polyedryxium prismaticum Deunff, 1971 SPECIES
-=======
+# Polyedryxium prismaticum Deunff, 1971 SPECIES
 
 #### Status
 ACCEPTED

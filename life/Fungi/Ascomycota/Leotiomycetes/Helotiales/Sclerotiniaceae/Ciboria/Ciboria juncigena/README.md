@@ -1,5 +1,4 @@
-Ciboria juncigena Ellis & Everh. SPECIES
-=======
+# Ciboria juncigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

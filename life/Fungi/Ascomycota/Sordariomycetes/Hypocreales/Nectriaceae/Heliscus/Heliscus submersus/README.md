@@ -1,5 +1,4 @@
-Heliscus submersus H.J. Huds., 1961 SPECIES
-=======
+# Heliscus submersus H.J. Huds., 1961 SPECIES
 
 #### Status
 ACCEPTED

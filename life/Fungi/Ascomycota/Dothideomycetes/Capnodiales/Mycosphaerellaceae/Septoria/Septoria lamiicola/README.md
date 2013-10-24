@@ -1,5 +1,4 @@
-Septoria lamiicola var. lamiicola VARIETY
-=======
+# Septoria lamiicola Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria lamiicola var. lamiicola
+Septoria lamiicola Sacc.
 
 ### Remarks
 null

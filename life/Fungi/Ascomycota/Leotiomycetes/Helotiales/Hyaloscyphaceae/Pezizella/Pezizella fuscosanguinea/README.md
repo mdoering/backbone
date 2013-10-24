@@ -1,5 +1,4 @@
-Pezizella fuscosanguinea Rehm SPECIES
-=======
+# Pezizella fuscosanguinea Rehm SPECIES
 
 #### Status
 ACCEPTED

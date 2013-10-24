@@ -1,5 +1,4 @@
-Vampyrella variabilis L. Klein SPECIES
-=======
+# Vampyrella variabilis L. Klein SPECIES
 
 #### Status
 ACCEPTED

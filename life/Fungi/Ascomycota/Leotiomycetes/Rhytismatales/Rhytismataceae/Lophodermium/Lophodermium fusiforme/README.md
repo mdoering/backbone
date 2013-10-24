@@ -1,5 +1,4 @@
-Lophodermium fusiforme P.R. Johnst., 2001 SPECIES
-=======
+# Lophodermium fusiforme P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

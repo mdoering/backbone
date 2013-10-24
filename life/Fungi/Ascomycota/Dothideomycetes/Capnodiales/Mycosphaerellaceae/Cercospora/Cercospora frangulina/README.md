@@ -1,5 +1,4 @@
-Cercospora frangulina Henn. SPECIES
-=======
+# Cercospora frangulina Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenoconium plectocarpoides S.Y. Kondr., D.J. Galloway & D. Hawksw., 1994 SPECIES
-=======
+# Lichenoconium plectocarpoides S.Y. Kondr., D.J. Galloway & D. Hawksw., 1994 SPECIES
 
 #### Status
 ACCEPTED

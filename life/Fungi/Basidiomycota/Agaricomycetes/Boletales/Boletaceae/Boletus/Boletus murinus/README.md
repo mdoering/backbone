@@ -1,5 +1,4 @@
-Boletus murinus Nees SPECIES
-=======
+# Boletus murinus Nees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola ariquemensis Bat. & Cavalc. SPECIES
-=======
+# Meliola ariquemensis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

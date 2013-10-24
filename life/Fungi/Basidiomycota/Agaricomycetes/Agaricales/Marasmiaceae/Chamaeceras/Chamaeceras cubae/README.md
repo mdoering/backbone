@@ -1,5 +1,4 @@
-Chamaeceras cubae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras cubae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

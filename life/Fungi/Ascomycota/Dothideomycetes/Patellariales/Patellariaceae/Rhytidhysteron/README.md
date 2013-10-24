@@ -1,17 +1,16 @@
-Eutryblidiella subgen. Rehm von Höhnel, 1959 GENUS
-=======
+# Rhytidhysteron Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 12: 188 (1881)
 
 #### Original name
-null
+Rhytidhysteron Speg.
 
 ### Remarks
 null

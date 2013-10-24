@@ -1,5 +1,4 @@
-Heterodermia rubescens (Räsänen) D.D. Awasthi SPECIES
-=======
+# Heterodermia rubescens (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

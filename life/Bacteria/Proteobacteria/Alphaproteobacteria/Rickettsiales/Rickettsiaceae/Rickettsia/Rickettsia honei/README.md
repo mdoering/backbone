@@ -1,5 +1,4 @@
-Rickettsia honei Stenos et al., 1998 SPECIES
-=======
+# Rickettsia honei Stenos et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

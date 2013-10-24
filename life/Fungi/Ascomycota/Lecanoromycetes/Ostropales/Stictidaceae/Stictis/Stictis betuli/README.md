@@ -1,5 +1,4 @@
-Stictis betuli Fr. SPECIES
-=======
+# Stictis betuli Fr. SPECIES
 
 #### Status
 ACCEPTED

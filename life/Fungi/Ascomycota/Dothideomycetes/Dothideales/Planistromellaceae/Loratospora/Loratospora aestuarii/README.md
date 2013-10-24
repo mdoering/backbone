@@ -1,5 +1,4 @@
-Loratospora aestuarii Kohlm. & Volkm.-Kohlm., 1993 SPECIES
-=======
+# Loratospora aestuarii Kohlm. & Volkm.-Kohlm., 1993 SPECIES
 
 #### Status
 ACCEPTED

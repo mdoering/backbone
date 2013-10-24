@@ -1,5 +1,4 @@
-Glomerella holboelliicola Dzhalag. SPECIES
-=======
+# Glomerella holboelliicola Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

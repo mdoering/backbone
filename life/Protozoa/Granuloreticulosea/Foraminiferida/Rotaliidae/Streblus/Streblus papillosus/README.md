@@ -1,5 +1,4 @@
-Streblus papillosus SPECIES
-=======
+# Streblus papillosus SPECIES
 
 #### Status
 ACCEPTED

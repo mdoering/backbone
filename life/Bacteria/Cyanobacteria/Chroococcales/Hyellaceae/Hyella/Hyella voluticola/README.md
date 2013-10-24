@@ -1,5 +1,4 @@
-Hyella voluticola Chodat SPECIES
-=======
+# Hyella voluticola Chodat SPECIES
 
 #### Status
 ACCEPTED

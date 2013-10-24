@@ -1,5 +1,4 @@
-Lycoperdon cokeri Demoulin SPECIES
-=======
+# Lycoperdon cokeri Demoulin SPECIES
 
 #### Status
 ACCEPTED

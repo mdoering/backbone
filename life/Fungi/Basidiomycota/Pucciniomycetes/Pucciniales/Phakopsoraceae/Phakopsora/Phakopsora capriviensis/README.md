@@ -1,5 +1,4 @@
-Phakopsora capriviensis Ritschel, Berndt & Oberw. SPECIES
-=======
+# Phakopsora capriviensis Ritschel, Berndt & Oberw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerella scirpi-lacustris Auersw., 1869 SPECIES
-=======
+# Mycosphaerella scirpi-lacustris (Auersw.) Lindau, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. Abbildungen Sämmtlicher Pilze Europa's 5-6: 18 (1869)
+null
 
 #### Original name
 Sphaerella scirpi-lacustris Auersw., 1869

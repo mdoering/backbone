@@ -1,5 +1,4 @@
-Pocsia marattiae Vezda SPECIES
-=======
+# Pocsia marattiae Vezda SPECIES
 
 #### Status
 ACCEPTED

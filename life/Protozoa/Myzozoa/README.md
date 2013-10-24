@@ -1,5 +1,4 @@
-Myzozoa Cavalier-Smith & Chao PHYLUM
-=======
+# Myzozoa Cavalier-Smith & Chao PHYLUM
 
 #### Status
 ACCEPTED

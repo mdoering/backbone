@@ -1,5 +1,4 @@
-Hypocrea alboflava Berk. & Broome SPECIES
-=======
+# Hypocrea alboflava Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

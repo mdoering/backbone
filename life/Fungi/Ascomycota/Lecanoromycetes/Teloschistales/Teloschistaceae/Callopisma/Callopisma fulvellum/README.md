@@ -1,5 +1,4 @@
-Callopisma fulvellum Malme SPECIES
-=======
+# Callopisma fulvellum Malme SPECIES
 
 #### Status
 ACCEPTED

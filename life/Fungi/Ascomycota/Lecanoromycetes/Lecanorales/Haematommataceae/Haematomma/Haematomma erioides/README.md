@@ -1,5 +1,4 @@
-Haematomma erioides (Stirt.) Zahlbr. SPECIES
-=======
+# Haematomma erioides (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

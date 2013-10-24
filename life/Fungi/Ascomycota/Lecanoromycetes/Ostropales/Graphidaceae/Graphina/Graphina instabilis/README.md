@@ -1,5 +1,4 @@
-Graphina instabilis (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina instabilis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

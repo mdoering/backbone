@@ -1,5 +1,4 @@
-Agaricus gnophodes Berk. & Broome SPECIES
-=======
+# Agaricus gnophodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

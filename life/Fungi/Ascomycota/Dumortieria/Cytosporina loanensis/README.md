@@ -1,5 +1,4 @@
-Cytosporina loanensis Pollacci SPECIES
-=======
+# Cytosporina loanensis Pollacci SPECIES
 
 #### Status
 ACCEPTED

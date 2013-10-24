@@ -1,5 +1,4 @@
-Verrucaria schuleri Servít SPECIES
-=======
+# Verrucaria schuleri Servít SPECIES
 
 #### Status
 ACCEPTED

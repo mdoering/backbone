@@ -1,5 +1,4 @@
-Meliola pandanicola Hansf. & Deighton SPECIES
-=======
+# Meliola pandanicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

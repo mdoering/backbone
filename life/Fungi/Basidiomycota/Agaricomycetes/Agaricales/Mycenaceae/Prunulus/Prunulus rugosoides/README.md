@@ -1,5 +1,4 @@
-Prunulus rugosoides (Peck) Murrill SPECIES
-=======
+# Prunulus rugosoides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

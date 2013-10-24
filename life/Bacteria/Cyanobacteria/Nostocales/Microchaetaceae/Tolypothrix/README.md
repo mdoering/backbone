@@ -1,14 +1,13 @@
-Sclerothrix Kützing, 1833 GENUS
-=======
+# Tolypothrix Kützing ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Alg. Aq. dulc. , Dec. 2. no. 17.
+Ann. Sci. Nat. Bot. , ser. 7, 5: 118.
 
 #### Original name
 null

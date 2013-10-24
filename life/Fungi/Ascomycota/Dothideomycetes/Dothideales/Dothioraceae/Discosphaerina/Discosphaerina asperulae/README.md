@@ -1,5 +1,4 @@
-Discosphaerina asperulae Petr. SPECIES
-=======
+# Discosphaerina asperulae Petr. SPECIES
 
 #### Status
 ACCEPTED

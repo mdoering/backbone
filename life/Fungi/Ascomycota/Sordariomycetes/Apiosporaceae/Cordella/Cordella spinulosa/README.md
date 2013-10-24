@@ -1,14 +1,13 @@
-Melanographium spinulosum (Speg.) S. Hughes, 1958 SPECIES
-=======
+# Cordella spinulosa Speg., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 783 (1958)
+Anal. Soc. cient. argent. 22(5): 210 (1886)
 
 #### Original name
 Cordella spinulosa Speg., 1886

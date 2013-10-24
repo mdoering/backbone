@@ -1,5 +1,4 @@
-Mycomicrothelia modesta (Müll. Arg.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia modesta (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus chalybaeus (Singer) Murrill SPECIES
-=======
+# Boletus chalybaeus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymaria symphoricarpi Ellis & Everh. SPECIES
-=======
+# Didymaria symphoricarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

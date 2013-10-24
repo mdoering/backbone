@@ -1,5 +1,4 @@
-Entoloma inocybiforme Murrill, 1917 SPECIES
-=======
+# Entoloma inocybiforme Murrill, 1917 SPECIES
 
 #### Status
 ACCEPTED

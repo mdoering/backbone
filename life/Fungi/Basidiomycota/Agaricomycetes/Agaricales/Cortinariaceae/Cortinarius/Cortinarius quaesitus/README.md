@@ -1,5 +1,4 @@
-Cortinarius quaesitus Britzelm. SPECIES
-=======
+# Cortinarius quaesitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

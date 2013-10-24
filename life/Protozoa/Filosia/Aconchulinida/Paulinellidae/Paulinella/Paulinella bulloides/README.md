@@ -1,5 +1,4 @@
-Paulinella bulloides SPECIES
-=======
+# Paulinella bulloides SPECIES
 
 #### Status
 ACCEPTED

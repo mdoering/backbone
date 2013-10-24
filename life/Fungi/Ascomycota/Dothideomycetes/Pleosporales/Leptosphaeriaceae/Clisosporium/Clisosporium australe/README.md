@@ -1,5 +1,4 @@
-Clisosporium australe (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium australe (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

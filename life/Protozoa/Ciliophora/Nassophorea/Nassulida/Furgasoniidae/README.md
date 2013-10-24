@@ -1,5 +1,4 @@
-Furgasoniidae FAMILY
-=======
+# Furgasoniidae FAMILY
 
 #### Status
 ACCEPTED

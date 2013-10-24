@@ -1,5 +1,4 @@
-Aspicilia sanguinolenta (Anders) Creveld SPECIES
-=======
+# Aspicilia sanguinolenta (Anders) Creveld SPECIES
 
 #### Status
 ACCEPTED

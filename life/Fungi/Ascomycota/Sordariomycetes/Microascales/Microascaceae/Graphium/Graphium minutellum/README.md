@@ -1,5 +1,4 @@
-Graphium minutellum Pidopl. SPECIES
-=======
+# Graphium minutellum Pidopl. SPECIES
 
 #### Status
 ACCEPTED

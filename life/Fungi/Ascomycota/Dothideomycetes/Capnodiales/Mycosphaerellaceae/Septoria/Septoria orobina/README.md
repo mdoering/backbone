@@ -1,5 +1,4 @@
-Septoria orobina Sacc., 1878 SPECIES
-=======
+# Septoria orobina Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

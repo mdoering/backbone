@@ -1,5 +1,4 @@
-Kunlunella Da & Wang, 1980 GENUS
-=======
+# Kunlunella Da & Wang, 1980 GENUS
 
 #### Status
 ACCEPTED

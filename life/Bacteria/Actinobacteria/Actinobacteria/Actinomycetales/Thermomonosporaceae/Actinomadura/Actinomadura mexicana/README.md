@@ -1,5 +1,4 @@
-Actinomadura mexicana Quintana et al., 2004 SPECIES
-=======
+# Actinomadura mexicana Quintana et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

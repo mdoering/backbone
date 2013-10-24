@@ -1,5 +1,4 @@
-Graphis nilgiriensis Adaw. & Makhija SPECIES
-=======
+# Graphis nilgiriensis Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

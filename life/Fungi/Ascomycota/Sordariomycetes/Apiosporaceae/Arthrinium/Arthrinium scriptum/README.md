@@ -1,5 +1,4 @@
-Arthrinium scriptum Bonord. SPECIES
-=======
+# Arthrinium scriptum Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ambigens Nyl. SPECIES
-=======
+# Lecanora ambigens Nyl. SPECIES
 
 #### Status
 ACCEPTED

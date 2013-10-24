@@ -1,5 +1,4 @@
-Trematosphaeria pyrenogena (Durieu & Mont.) Sacc. SPECIES
-=======
+# Trematosphaeria pyrenogena (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

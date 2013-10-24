@@ -1,5 +1,4 @@
-Discoaster pseudovariabilis Martini & Worsley, 1971 SPECIES
-=======
+# Discoaster pseudovariabilis Martini & Worsley, 1971 SPECIES
 
 #### Status
 ACCEPTED

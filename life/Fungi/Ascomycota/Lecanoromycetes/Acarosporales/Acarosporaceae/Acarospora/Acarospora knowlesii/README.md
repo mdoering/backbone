@@ -1,5 +1,4 @@
-Acarospora knowlesii C.W. Dodge SPECIES
-=======
+# Acarospora knowlesii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

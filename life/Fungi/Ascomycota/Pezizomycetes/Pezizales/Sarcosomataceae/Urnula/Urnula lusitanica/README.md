@@ -1,5 +1,4 @@
-Urnula lusitanica Torrend & Boud. SPECIES
-=======
+# Urnula lusitanica Torrend & Boud. SPECIES
 
 #### Status
 ACCEPTED

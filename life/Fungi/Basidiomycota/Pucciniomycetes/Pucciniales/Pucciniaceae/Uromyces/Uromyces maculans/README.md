@@ -1,5 +1,4 @@
-Uromyces maculans (Pat.) Arthur SPECIES
-=======
+# Uromyces maculans (Pat.) Arthur SPECIES
 
 #### Status
 ACCEPTED

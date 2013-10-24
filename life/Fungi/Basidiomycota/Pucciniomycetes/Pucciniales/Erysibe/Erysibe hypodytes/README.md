@@ -1,5 +1,4 @@
-Erysibe hypodytes Wallr. SPECIES
-=======
+# Erysibe hypodytes Wallr. SPECIES
 
 #### Status
 ACCEPTED

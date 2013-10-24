@@ -1,5 +1,4 @@
-Staurothele scabrida B. de Lesd. SPECIES
-=======
+# Staurothele scabrida B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

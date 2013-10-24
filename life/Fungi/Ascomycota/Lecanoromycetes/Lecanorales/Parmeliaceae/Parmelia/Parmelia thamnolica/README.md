@@ -1,5 +1,4 @@
-Parmelia thamnolica (Hale) Brusse SPECIES
-=======
+# Parmelia thamnolica (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

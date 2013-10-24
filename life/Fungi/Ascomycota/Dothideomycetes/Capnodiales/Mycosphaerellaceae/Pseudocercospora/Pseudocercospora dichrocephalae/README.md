@@ -1,5 +1,4 @@
-Pseudocercospora dichrocephalae (W. Yamam.) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora dichrocephalae (W. Yamam.) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

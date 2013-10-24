@@ -1,8 +1,7 @@
-Pannaria taylori Tuck. SPECIES
-=======
+# Pannaria taylorii Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria taylori Tuck.
+Pannaria taylorii Tuck.
 
 ### Remarks
 null

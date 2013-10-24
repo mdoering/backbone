@@ -1,5 +1,4 @@
-Phragmocauma bambusae Höhn., 1932 SPECIES
-=======
+# Phragmocauma bambusae Höhn., 1932 SPECIES
 
 #### Status
 ACCEPTED

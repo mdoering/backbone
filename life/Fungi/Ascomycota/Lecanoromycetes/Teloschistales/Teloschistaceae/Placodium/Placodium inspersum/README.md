@@ -1,5 +1,4 @@
-Placodium inspersum (J. Steiner) Szatala SPECIES
-=======
+# Placodium inspersum (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

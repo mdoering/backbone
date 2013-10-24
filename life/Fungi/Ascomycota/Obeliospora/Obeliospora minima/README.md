@@ -1,5 +1,4 @@
-Obeliospora minima W.P. Wu & McKenzie SPECIES
-=======
+# Obeliospora minima W.P. Wu & McKenzie SPECIES
 
 #### Status
 ACCEPTED

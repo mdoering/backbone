@@ -1,5 +1,4 @@
-Pragmoparopsis juniperi (P. Karst.) Höhn. SPECIES
-=======
+# Pragmoparopsis juniperi (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophthora nebriae Raunk. SPECIES
-=======
+# Entomophthora nebriae Raunk. SPECIES
 
 #### Status
 ACCEPTED

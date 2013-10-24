@@ -1,5 +1,4 @@
-Valsa chlorina Pat. SPECIES
-=======
+# Valsa chlorina Pat. SPECIES
 
 #### Status
 ACCEPTED

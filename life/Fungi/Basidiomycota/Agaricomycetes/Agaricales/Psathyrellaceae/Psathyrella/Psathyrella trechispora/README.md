@@ -1,5 +1,4 @@
-Psathyrella trechispora (Petch) Pegler SPECIES
-=======
+# Psathyrella trechispora (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

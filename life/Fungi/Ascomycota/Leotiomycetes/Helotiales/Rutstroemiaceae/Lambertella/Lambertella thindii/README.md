@@ -1,5 +1,4 @@
-Lambertella thindii Dumont SPECIES
-=======
+# Lambertella thindii Dumont SPECIES
 
 #### Status
 ACCEPTED

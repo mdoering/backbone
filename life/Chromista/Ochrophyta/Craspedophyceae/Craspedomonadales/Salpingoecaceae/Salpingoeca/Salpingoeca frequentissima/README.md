@@ -1,5 +1,4 @@
-Salpingoeca frequentissima Zach. Lemm. SPECIES
-=======
+# Salpingoeca frequentissima Zach. Lemm. SPECIES
 
 #### Status
 ACCEPTED

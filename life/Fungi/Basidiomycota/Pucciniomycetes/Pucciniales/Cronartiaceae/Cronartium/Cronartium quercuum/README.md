@@ -1,17 +1,16 @@
-Cronartium quercuum f. sp FORM
-=======
+# Cronartium quercuum (Berk.) Miyabe ex Shirai, 1899 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 69(3): 505 (1977)
+Bot. Mag. , Tokyo 13: 74 (1899)
 
 #### Original name
-Cronartium quercuum f. sp
+Cronartium asclepiadeum var. quercuum Berk., 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Treponema parvum Wyss et al., 2001 SPECIES
-=======
+# Treponema parvum Wyss et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

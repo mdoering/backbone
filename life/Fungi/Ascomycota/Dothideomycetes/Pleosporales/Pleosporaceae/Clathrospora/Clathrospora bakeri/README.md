@@ -1,5 +1,4 @@
-Clathrospora bakeri Wehm. SPECIES
-=======
+# Clathrospora bakeri Wehm. SPECIES
 
 #### Status
 ACCEPTED

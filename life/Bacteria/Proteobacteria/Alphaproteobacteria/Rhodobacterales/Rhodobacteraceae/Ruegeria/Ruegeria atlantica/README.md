@@ -1,8 +1,7 @@
-Agrobacterium atlanticum Rüger & Höfle, 1992 SPECIES
-=======
+# Ruegeria atlantica (Rüger & Höfle, 1992) Uchino et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

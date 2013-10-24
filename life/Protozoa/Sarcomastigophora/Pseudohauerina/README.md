@@ -1,5 +1,4 @@
-Pseudohauerina McCulloch, 1977 GENUS
-=======
+# Pseudohauerina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

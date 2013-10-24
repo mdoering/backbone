@@ -1,5 +1,4 @@
-Ramaria cystidiophora var. cystidiophora VARIETY
-=======
+# Ramaria cystidiophora (Kauffman) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 573 (1950)
 
 #### Original name
-Ramaria cystidiophora var. cystidiophora
+Clavaria cystidiophora Kauffman
 
 ### Remarks
 null

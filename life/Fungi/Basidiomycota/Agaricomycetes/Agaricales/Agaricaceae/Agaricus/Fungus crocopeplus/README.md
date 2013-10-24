@@ -1,5 +1,4 @@
-Fungus crocopeplus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus crocopeplus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

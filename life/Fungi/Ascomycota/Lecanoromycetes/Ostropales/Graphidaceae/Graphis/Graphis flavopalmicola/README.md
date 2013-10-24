@@ -1,5 +1,4 @@
-Graphis flavopalmicola Y. Joshi, Lücking & Hur SPECIES
-=======
+# Graphis flavopalmicola Y. Joshi, Lücking & Hur SPECIES
 
 #### Status
 ACCEPTED

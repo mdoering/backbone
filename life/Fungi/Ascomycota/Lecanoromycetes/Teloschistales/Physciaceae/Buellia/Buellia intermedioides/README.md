@@ -1,5 +1,4 @@
-Buellia intermedioides (Marbach) Bungartz SPECIES
-=======
+# Buellia intermedioides (Marbach) Bungartz SPECIES
 
 #### Status
 ACCEPTED

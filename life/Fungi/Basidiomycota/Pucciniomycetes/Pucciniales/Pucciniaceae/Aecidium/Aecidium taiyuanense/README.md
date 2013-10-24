@@ -1,8 +1,7 @@
-Aecidium taiyuanensis Liu {?} SPECIES
-=======
+# Aecidium taiyuanense Liu {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium taiyuanensis Liu {?}
+Aecidium taiyuanense Liu {?}
 
 ### Remarks
 null

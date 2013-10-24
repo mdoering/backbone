@@ -1,5 +1,4 @@
-Isthmolongispora variabilis Matsush., 1975 SPECIES
-=======
+# Isthmolongispora variabilis Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

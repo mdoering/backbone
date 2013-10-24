@@ -1,5 +1,4 @@
-Gelatinopsis polyconidiata Baral & G. Marson SPECIES
-=======
+# Gelatinopsis polyconidiata Baral & G. Marson SPECIES
 
 #### Status
 ACCEPTED

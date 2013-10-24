@@ -1,5 +1,4 @@
-Entoloma simillimum Corner & E. Horak SPECIES
-=======
+# Entoloma simillimum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida hasagawae Nakase, Jindam., Limtong, Am-in & Imanishi SPECIES
-=======
+# Candida hasagawae Nakase, Jindam., Limtong, Am-in & Imanishi SPECIES
 
 #### Status
 ACCEPTED

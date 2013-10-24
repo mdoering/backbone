@@ -1,5 +1,4 @@
-Trichasterina microspila (Syd.) Hansf. SPECIES
-=======
+# Trichasterina microspila (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

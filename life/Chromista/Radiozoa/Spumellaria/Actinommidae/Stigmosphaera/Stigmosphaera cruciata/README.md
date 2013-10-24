@@ -1,5 +1,4 @@
-Stigmosphaera cruciata Hollande & Enjumet, 1960 SPECIES
-=======
+# Stigmosphaera cruciata Hollande & Enjumet, 1960 SPECIES
 
 #### Status
 ACCEPTED

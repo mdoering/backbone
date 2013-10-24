@@ -1,5 +1,4 @@
-Sporosarcina GENUS
-=======
+# Sporosarcina GENUS
 
 #### Status
 ACCEPTED

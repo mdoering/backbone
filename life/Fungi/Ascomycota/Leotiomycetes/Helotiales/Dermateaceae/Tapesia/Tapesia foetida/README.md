@@ -1,5 +1,4 @@
-Tapesia foetida Velen. SPECIES
-=======
+# Tapesia foetida Velen. SPECIES
 
 #### Status
 ACCEPTED

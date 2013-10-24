@@ -1,5 +1,4 @@
-Sphaerolina georginae Fuckel SPECIES
-=======
+# Sphaerolina georginae Fuckel SPECIES
 
 #### Status
 ACCEPTED

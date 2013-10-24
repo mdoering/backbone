@@ -1,5 +1,4 @@
-Cladosporium sorghi S.R. Chowdhury, 1970 SPECIES
-=======
+# Cladosporium sorghi S.R. Chowdhury, 1970 SPECIES
 
 #### Status
 ACCEPTED

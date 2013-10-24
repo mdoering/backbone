@@ -1,5 +1,4 @@
-Ditremis complanata Makhija & Patw. SPECIES
-=======
+# Ditremis complanata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

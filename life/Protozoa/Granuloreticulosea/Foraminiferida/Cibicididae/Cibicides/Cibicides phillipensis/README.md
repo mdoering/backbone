@@ -1,5 +1,4 @@
-Cibicides phillipensis Collins, 1974 SPECIES
-=======
+# Cibicides phillipensis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula mukteshwarica K. Das, S.L. Mill., J.R. Sharma & R.P. Bhatt SPECIES
-=======
+# Russula mukteshwarica K. Das, S.L. Mill., J.R. Sharma & R.P. Bhatt SPECIES
 
 #### Status
 ACCEPTED

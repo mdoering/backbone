@@ -1,5 +1,4 @@
-Geopyxis perforata (P. Karst.) Sacc. SPECIES
-=======
+# Geopyxis perforata (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

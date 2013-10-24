@@ -1,5 +1,4 @@
-Sclerotium xylophilum Weinm. SPECIES
-=======
+# Sclerotium xylophilum Weinm. SPECIES
 
 #### Status
 ACCEPTED

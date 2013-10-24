@@ -1,5 +1,4 @@
-Dictyoploca cyclophora R. Heim SPECIES
-=======
+# Dictyoploca cyclophora R. Heim SPECIES
 
 #### Status
 ACCEPTED

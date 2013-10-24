@@ -1,5 +1,4 @@
-Septoria palan-palan Speg. SPECIES
-=======
+# Septoria palan-palan Speg. SPECIES
 
 #### Status
 ACCEPTED

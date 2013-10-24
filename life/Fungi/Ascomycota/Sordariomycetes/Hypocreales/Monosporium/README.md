@@ -1,5 +1,4 @@
-Monosporium Bonord. GENUS
-=======
+# Monosporium Bonord. GENUS
 
 #### Status
 ACCEPTED

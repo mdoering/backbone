@@ -1,5 +1,4 @@
-Nephroma tatranum Gyeln. SPECIES
-=======
+# Nephroma tatranum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

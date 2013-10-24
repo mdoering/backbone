@@ -1,5 +1,4 @@
-Helminthosporium parathesicolum F. Stevens SPECIES
-=======
+# Helminthosporium parathesicolum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

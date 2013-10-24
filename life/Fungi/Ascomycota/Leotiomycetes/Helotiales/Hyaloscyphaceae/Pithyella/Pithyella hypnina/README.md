@@ -1,5 +1,4 @@
-Pithyella hypnina (Quél.) Boud. SPECIES
-=======
+# Pithyella hypnina (Quél.) Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora microphaea (Nyl.) Arnold SPECIES
-=======
+# Biatora microphaea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pistillaria phacorrhiza Fr. SPECIES
-=======
+# Pistillaria phacorrhiza Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anisomeridium throwerae R. C. Harris SPECIES
-=======
+# Anisomeridium throwerae R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium ellipsoideum K. Gopal & Lodha SPECIES
-=======
+# Chaetomium ellipsoideum K. Gopal & Lodha SPECIES
 
 #### Status
 ACCEPTED

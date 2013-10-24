@@ -1,5 +1,4 @@
-Sciniatosporium parrotiae (S. Ahmad) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium parrotiae (S. Ahmad) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

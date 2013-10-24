@@ -1,5 +1,4 @@
-Gibberella bambusae (Teng) W.Y. Zhuang & X.M. Zhang SPECIES
-=======
+# Gibberella bambusae (Teng) W.Y. Zhuang & X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

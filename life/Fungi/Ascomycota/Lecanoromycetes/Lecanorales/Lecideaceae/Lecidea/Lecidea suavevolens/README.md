@@ -1,5 +1,4 @@
-Lecidea suavevolens Harm. SPECIES
-=======
+# Lecidea suavevolens Harm. SPECIES
 
 #### Status
 ACCEPTED

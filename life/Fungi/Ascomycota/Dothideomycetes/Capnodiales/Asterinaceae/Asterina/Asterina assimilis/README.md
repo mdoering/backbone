@@ -1,5 +1,4 @@
-Asterina assimilis Syd. SPECIES
-=======
+# Asterina assimilis Syd. SPECIES
 
 #### Status
 ACCEPTED

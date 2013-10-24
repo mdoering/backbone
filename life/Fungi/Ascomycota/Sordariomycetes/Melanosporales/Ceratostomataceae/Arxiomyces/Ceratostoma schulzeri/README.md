@@ -1,5 +1,4 @@
-Ceratostoma schulzeri Pirotta SPECIES
-=======
+# Ceratostoma schulzeri Pirotta SPECIES
 
 #### Status
 ACCEPTED

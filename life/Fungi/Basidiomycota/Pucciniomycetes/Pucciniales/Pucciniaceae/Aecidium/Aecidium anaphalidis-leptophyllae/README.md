@@ -1,17 +1,16 @@
-Aecidium anaphalis-leptophyllae T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Aecidium anaphalidis-leptophyllae T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 36: 87 (1952)
 
 #### Original name
-Aecidium anaphalis-leptophyllae T.S. Ramakr., Sriniv. & Sundaram
+Aecidium anaphalidis-leptophyllae T.S. Ramakr., Sriniv. & Sundaram
 
 ### Remarks
 null

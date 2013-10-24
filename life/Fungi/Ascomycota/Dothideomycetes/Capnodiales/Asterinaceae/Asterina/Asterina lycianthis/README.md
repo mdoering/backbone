@@ -1,5 +1,4 @@
-Asterina lycianthis Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina lycianthis Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

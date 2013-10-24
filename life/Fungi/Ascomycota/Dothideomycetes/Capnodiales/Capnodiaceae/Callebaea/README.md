@@ -1,5 +1,4 @@
-Callebaea Bat. GENUS
-=======
+# Callebaea Bat. GENUS
 
 #### Status
 ACCEPTED

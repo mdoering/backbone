@@ -1,5 +1,4 @@
-Lepiota johnsonii Massee SPECIES
-=======
+# Lepiota johnsonii Massee SPECIES
 
 #### Status
 ACCEPTED

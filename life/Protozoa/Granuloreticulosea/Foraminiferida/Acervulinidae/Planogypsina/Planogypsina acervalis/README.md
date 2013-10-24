@@ -1,5 +1,4 @@
-Planogypsina acervalis (Brady, 1884) SPECIES
-=======
+# Planogypsina acervalis (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

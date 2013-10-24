@@ -1,5 +1,4 @@
-Sporidesmium ghanaense M.B. Ellis SPECIES
-=======
+# Sporidesmium ghanaense M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

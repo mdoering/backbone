@@ -1,5 +1,4 @@
-Helotiella werthiana Henn. SPECIES
-=======
+# Helotiella werthiana Henn. SPECIES
 
 #### Status
 ACCEPTED

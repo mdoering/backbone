@@ -1,5 +1,4 @@
-Lyophyllum luteogriseascens Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum luteogriseascens Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterophoma D. Hawksw. GENUS
-=======
+# Asterophoma D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma lohgadense S.D. Patil, R.L. Mishra & Ranade, 1979 SPECIES
-=======
+# Diderma lohgadense S.D. Patil, R.L. Mishra & Ranade, 1979 SPECIES
 
 #### Status
 ACCEPTED

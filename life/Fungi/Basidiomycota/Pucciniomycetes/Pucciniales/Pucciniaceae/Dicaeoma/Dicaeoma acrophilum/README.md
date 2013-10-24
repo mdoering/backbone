@@ -1,5 +1,4 @@
-Dicaeoma acrophilum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma acrophilum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

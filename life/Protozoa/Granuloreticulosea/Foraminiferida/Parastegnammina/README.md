@@ -1,5 +1,4 @@
-Parastegnammina Poyarkov, 1968 GENUS
-=======
+# Parastegnammina Poyarkov, 1968 GENUS
 
 #### Status
 ACCEPTED

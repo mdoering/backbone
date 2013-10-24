@@ -1,5 +1,4 @@
-Anthostomella pullulans F.T. Benn., 1928 SPECIES
-=======
+# Anthostomella pullulans F.T. Benn., 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apheloecion pentacanthum Thomsen in Thomsen & Boonruang SPECIES
-=======
+# Apheloecion pentacanthum Thomsen in Thomsen & Boonruang SPECIES
 
 #### Status
 ACCEPTED

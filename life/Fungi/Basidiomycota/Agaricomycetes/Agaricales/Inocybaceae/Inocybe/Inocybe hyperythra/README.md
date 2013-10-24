@@ -1,5 +1,4 @@
-Inocybe hyperythra Rick SPECIES
-=======
+# Inocybe hyperythra Rick SPECIES
 
 #### Status
 ACCEPTED

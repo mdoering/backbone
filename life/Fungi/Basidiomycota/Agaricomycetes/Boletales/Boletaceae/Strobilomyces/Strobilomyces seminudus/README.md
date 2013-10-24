@@ -1,5 +1,4 @@
-Strobilomyces seminudus Hongo SPECIES
-=======
+# Strobilomyces seminudus Hongo SPECIES
 
 #### Status
 ACCEPTED

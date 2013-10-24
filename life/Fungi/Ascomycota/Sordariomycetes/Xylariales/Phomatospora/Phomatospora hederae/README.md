@@ -1,5 +1,4 @@
-Phomatospora hederae Feltgen, 1901 SPECIES
-=======
+# Phomatospora hederae Feltgen, 1901 SPECIES
 
 #### Status
 ACCEPTED

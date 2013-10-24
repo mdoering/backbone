@@ -1,5 +1,4 @@
-Symplassosphaeridium bushimayense P. K. Maithy SPECIES
-=======
+# Symplassosphaeridium bushimayense P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

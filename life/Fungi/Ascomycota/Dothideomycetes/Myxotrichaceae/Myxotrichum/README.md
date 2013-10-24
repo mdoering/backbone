@@ -1,17 +1,16 @@
-Oncidium Nees GENUS
-=======
+# Myxotrichum Kunze GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kunze & Schmidt, Mykologische Hefte (Leipzig) 2: 63 (1823)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 2: 108 (1823)
 
 #### Original name
-Oncidium Nees
+Myxotrichum Kunze
 
 ### Remarks
 null

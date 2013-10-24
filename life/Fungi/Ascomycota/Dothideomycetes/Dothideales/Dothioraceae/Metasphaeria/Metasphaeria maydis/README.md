@@ -1,5 +1,4 @@
-Metasphaeria maydis (Henn.) Höhn. SPECIES
-=======
+# Metasphaeria maydis (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

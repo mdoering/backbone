@@ -1,5 +1,4 @@
-Gymnopilus granulosus (Peck) Murrill SPECIES
-=======
+# Gymnopilus granulosus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

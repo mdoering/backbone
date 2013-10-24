@@ -1,17 +1,16 @@
-Corynetes robustus E.J. Durand, 1908 SPECIES
-=======
+# Geoglossum atropurpureum (Batsch) Pers., 1796 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6: 416 (1908)
+Observ. mycol. (Lipsiae) 1: 2 (1796)
 
 #### Original name
-Corynetes robustus E.J. Durand, 1908
+null
 
 ### Remarks
 null

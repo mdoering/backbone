@@ -1,5 +1,4 @@
-Protoventuria curviseta (Peck) M.E. Barr SPECIES
-=======
+# Protoventuria curviseta (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

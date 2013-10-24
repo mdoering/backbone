@@ -1,5 +1,4 @@
-Achlya ambispora Steciow SPECIES
-=======
+# Achlya ambispora Steciow SPECIES
 
 #### Status
 ACCEPTED

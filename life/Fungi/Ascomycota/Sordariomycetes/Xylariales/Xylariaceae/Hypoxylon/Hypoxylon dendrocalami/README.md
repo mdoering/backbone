@@ -1,5 +1,4 @@
-Hypoxylon dendrocalami R.K. Verma, Soni & N. Sharma SPECIES
-=======
+# Hypoxylon dendrocalami R.K. Verma, Soni & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

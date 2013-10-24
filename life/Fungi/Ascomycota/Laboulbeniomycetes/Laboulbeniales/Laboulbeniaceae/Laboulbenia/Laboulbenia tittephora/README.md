@@ -1,5 +1,4 @@
-Laboulbenia tittephora Speg. SPECIES
-=======
+# Laboulbenia tittephora Speg. SPECIES
 
 #### Status
 ACCEPTED

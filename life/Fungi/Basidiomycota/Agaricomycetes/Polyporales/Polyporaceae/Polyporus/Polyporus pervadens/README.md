@@ -1,5 +1,4 @@
-Polyporus pervadens Corner, 1984 SPECIES
-=======
+# Polyporus pervadens Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

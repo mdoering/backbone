@@ -1,5 +1,4 @@
-Marssonina quercina (G. Winter) Lentz SPECIES
-=======
+# Marssonina quercina (G. Winter) Lentz SPECIES
 
 #### Status
 ACCEPTED

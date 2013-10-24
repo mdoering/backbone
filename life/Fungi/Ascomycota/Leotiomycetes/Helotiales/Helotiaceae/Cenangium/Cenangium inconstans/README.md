@@ -1,5 +1,4 @@
-Cenangium inconstans Fuckel SPECIES
-=======
+# Cenangium inconstans Fuckel SPECIES
 
 #### Status
 ACCEPTED

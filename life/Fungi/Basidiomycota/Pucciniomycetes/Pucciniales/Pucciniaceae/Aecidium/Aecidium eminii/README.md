@@ -1,5 +1,4 @@
-Aecidium eminii Zaprom. SPECIES
-=======
+# Aecidium eminii Zaprom. SPECIES
 
 #### Status
 ACCEPTED

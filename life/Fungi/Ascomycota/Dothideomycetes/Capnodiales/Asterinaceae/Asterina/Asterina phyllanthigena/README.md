@@ -1,5 +1,4 @@
-Asterina phyllanthigena Hosag., 2004 SPECIES
-=======
+# Asterina phyllanthigena Hosag., 2004 SPECIES
 
 #### Status
 ACCEPTED

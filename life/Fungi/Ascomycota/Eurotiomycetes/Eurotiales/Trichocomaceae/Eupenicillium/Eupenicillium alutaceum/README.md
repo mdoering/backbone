@@ -1,5 +1,4 @@
-Eupenicillium alutaceum D.B. Scott SPECIES
-=======
+# Eupenicillium alutaceum D.B. Scott SPECIES
 
 #### Status
 ACCEPTED

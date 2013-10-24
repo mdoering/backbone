@@ -1,5 +1,4 @@
-Lecanora albocaesia Nyl. SPECIES
-=======
+# Lecanora albocaesia Nyl. SPECIES
 
 #### Status
 ACCEPTED

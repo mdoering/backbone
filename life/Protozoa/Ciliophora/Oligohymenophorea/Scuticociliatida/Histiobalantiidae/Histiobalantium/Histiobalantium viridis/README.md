@@ -1,5 +1,4 @@
-Histiobalantium viridis SPECIES
-=======
+# Histiobalantium viridis SPECIES
 
 #### Status
 ACCEPTED

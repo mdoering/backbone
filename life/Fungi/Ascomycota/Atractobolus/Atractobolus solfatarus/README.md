@@ -1,5 +1,4 @@
-Atractobolus solfatarus (Cooke & Ellis) Kuntze SPECIES
-=======
+# Atractobolus solfatarus (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

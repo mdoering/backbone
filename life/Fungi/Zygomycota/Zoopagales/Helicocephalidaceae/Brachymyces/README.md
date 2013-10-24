@@ -1,5 +1,4 @@
-Brachymyces G.L. Barron GENUS
-=======
+# Brachymyces G.L. Barron GENUS
 
 #### Status
 ACCEPTED

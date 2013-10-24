@@ -1,5 +1,4 @@
-Pulveroboletus viridis Heinem. & Gooss.-Font. SPECIES
-=======
+# Pulveroboletus viridis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

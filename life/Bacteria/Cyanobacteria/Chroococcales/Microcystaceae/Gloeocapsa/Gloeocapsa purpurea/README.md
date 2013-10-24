@@ -1,5 +1,4 @@
-Gloeocapsa purpurea Kützing SPECIES
-=======
+# Gloeocapsa purpurea Kützing SPECIES
 
 #### Status
 ACCEPTED

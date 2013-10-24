@@ -1,5 +1,4 @@
-Lecidea diffractula H. Magn. SPECIES
-=======
+# Lecidea diffractula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

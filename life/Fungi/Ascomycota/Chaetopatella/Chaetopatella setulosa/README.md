@@ -1,5 +1,4 @@
-Chaetopatella setulosa (I. Hino & Katum.) I. Hino & Katum. SPECIES
-=======
+# Chaetopatella setulosa (I. Hino & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haplosporella embeliae N.D. Sharma SPECIES
-=======
+# Aplosporella embeliae N.D. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 25(Special Supplement): 47 (1982)
 
 #### Original name
-Haplosporella embeliae N.D. Sharma
+Aplosporella embeliae N.D. Sharma
 
 ### Remarks
 null

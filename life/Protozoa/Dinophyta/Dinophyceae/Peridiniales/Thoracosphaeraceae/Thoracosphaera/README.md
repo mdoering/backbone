@@ -1,5 +1,4 @@
-Thoracosphaera Kamptner, 1927 GENUS
-=======
+# Thoracosphaera Kamptner, 1927 GENUS
 
 #### Status
 ACCEPTED

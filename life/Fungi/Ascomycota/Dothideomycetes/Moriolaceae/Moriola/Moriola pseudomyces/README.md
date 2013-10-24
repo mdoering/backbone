@@ -1,5 +1,4 @@
-Moriola pseudomyces (Norman) Norman SPECIES
-=======
+# Moriola pseudomyces (Norman) Norman SPECIES
 
 #### Status
 ACCEPTED

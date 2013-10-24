@@ -1,5 +1,4 @@
-Phaeoramularia trigonellae S.K. Singh, Arch. Singh & Kamal SPECIES
-=======
+# Phaeoramularia trigonellae S.K. Singh, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

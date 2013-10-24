@@ -1,5 +1,4 @@
-Ampelomyces novoae (Unamuno) Rudakov SPECIES
-=======
+# Ampelomyces novoae (Unamuno) Rudakov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia conigena Lév. SPECIES
-=======
+# Pestalotia conigena Lév. SPECIES
 
 #### Status
 ACCEPTED

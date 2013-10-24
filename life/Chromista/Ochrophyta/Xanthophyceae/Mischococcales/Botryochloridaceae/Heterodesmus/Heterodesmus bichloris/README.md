@@ -1,5 +1,4 @@
-Heterodesmus bichloris Ettl SPECIES
-=======
+# Heterodesmus bichloris Ettl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium albiziae S.N. Khan & B.M. Misra SPECIES
-=======
+# Cladosporium albiziae S.N. Khan & B.M. Misra SPECIES
 
 #### Status
 ACCEPTED

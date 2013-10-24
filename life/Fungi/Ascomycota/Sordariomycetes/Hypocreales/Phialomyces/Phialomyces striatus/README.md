@@ -1,5 +1,4 @@
-Phialomyces striatus R.F. Castañeda & W. Gams, 1991 SPECIES
-=======
+# Phialomyces striatus R.F. Castañeda & W. Gams, 1991 SPECIES
 
 #### Status
 ACCEPTED

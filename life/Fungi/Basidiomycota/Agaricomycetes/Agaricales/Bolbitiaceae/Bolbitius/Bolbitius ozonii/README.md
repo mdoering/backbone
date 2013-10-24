@@ -1,5 +1,4 @@
-Bolbitius ozonii R. Schulz SPECIES
-=======
+# Bolbitius ozonii R. Schulz SPECIES
 
 #### Status
 ACCEPTED

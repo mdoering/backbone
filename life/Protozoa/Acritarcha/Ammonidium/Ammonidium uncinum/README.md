@@ -1,5 +1,4 @@
-Ammonidium uncinum Loeblich & Wicander, 1976 SPECIES
-=======
+# Ammonidium uncinum Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

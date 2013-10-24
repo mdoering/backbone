@@ -1,5 +1,4 @@
-Phyllosticta spermoides Peck SPECIES
-=======
+# Phyllosticta spermoides Peck SPECIES
 
 #### Status
 ACCEPTED

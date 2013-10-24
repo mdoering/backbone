@@ -1,5 +1,4 @@
-Leucothrix mucor Oersted, 1844 (Approved Lists, 1980) SPECIES
-=======
+# Leucothrix mucor Oersted, 1844 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

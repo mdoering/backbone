@@ -1,5 +1,4 @@
-Stereum hiugense Imazeki SPECIES
-=======
+# Stereum hiugense Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia striatospora I. Hino & Katum. SPECIES
-=======
+# Hendersonia striatospora I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

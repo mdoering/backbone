@@ -1,5 +1,4 @@
-Euryancale sacciospora Drechsler, 1939 SPECIES
-=======
+# Euryancale sacciospora Drechsler, 1939 SPECIES
 
 #### Status
 ACCEPTED

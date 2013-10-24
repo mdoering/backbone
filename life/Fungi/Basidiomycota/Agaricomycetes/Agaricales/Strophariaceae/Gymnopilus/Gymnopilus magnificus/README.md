@@ -1,5 +1,4 @@
-Gymnopilus magnificus Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Gymnopilus magnificus Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

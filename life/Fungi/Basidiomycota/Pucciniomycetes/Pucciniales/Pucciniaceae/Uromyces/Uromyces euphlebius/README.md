@@ -1,5 +1,4 @@
-Uromyces euphlebius Syd. & P. Syd. SPECIES
-=======
+# Uromyces euphlebius Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

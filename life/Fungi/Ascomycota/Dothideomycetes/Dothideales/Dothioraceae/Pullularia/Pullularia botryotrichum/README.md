@@ -1,5 +1,4 @@
-Pullularia botryotrichum Delitsch SPECIES
-=======
+# Pullularia botryotrichum Delitsch SPECIES
 
 #### Status
 ACCEPTED

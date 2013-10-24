@@ -1,5 +1,4 @@
-Cymatosira fossilis H. J. Schrader SPECIES
-=======
+# Cymatosira fossilis H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea rubigineoatra Vain. SPECIES
-=======
+# Lecidea rubigineoatra Vain. SPECIES
 
 #### Status
 ACCEPTED

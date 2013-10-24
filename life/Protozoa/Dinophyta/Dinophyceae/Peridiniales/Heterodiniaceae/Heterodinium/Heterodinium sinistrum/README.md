@@ -1,5 +1,4 @@
-Heterodinium sinistrum Kofoid & Adamson, 1933 SPECIES
-=======
+# Heterodinium sinistrum Kofoid & Adamson, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus anthracinellus M. Lange SPECIES
-=======
+# Rhodophyllus anthracinellus M. Lange SPECIES
 
 #### Status
 ACCEPTED

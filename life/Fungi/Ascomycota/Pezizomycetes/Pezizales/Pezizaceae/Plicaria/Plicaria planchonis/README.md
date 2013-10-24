@@ -1,5 +1,4 @@
-Plicaria planchonis var. planchonis VARIETY
-=======
+# Plicaria planchonis Dunal ex Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Plicaria planchonis var. planchonis
+Plicaria planchonis Dunal ex Boud.
 
 ### Remarks
 null

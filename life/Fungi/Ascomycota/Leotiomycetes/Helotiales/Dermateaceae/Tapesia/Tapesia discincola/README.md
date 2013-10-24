@@ -1,5 +1,4 @@
-Tapesia discincola (Schwein.) Sacc. SPECIES
-=======
+# Tapesia discincola (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

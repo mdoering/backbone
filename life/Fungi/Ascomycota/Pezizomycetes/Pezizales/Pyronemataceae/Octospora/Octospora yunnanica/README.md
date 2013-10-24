@@ -1,5 +1,4 @@
-Octospora yunnanica W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Octospora yunnanica W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

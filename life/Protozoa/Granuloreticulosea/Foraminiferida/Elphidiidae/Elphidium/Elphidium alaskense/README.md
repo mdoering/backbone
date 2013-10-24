@@ -1,5 +1,4 @@
-Elphidium alaskense Cushman & Todd, 1947 SPECIES
-=======
+# Elphidium alaskense Cushman & Todd, 1947 SPECIES
 
 #### Status
 ACCEPTED

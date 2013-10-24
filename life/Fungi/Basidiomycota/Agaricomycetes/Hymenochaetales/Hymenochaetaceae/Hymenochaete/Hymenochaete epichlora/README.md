@@ -1,17 +1,16 @@
-Hymenochaete asperata Ellis & Everh., 1900 SPECIES
-=======
+# Hymenochaete epichlora (Berk. & M.A. Curtis) Cooke, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 27: 50 (1900)
+Grevillea 8(no. 48): 147 (1880)
 
 #### Original name
-Hymenochaete asperata Ellis & Everh., 1900
+null
 
 ### Remarks
 null

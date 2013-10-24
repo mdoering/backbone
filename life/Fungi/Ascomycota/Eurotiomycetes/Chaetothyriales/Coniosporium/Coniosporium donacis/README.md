@@ -1,5 +1,4 @@
-Coniosporium donacis (Niessl) Sacc. SPECIES
-=======
+# Coniosporium donacis (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

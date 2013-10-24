@@ -1,5 +1,4 @@
-Entomophaga Batko, 1964 GENUS
-=======
+# Entomophaga Batko, 1964 GENUS
 
 #### Status
 ACCEPTED

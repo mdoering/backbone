@@ -1,5 +1,4 @@
-Sphaeria actinodes Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria actinodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

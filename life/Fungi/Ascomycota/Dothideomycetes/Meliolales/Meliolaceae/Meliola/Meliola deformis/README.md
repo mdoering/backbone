@@ -1,5 +1,4 @@
-Meliola deformis Deighton SPECIES
-=======
+# Meliola deformis Deighton SPECIES
 
 #### Status
 ACCEPTED

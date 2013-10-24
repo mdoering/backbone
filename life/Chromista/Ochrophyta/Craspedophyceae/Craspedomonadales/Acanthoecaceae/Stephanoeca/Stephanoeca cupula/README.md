@@ -1,8 +1,7 @@
-Pleurasiga cupula Leadbeater, 1972 SPECIES
-=======
+# Stephanoeca cupula (Leadbeater, 1972) Thomsen, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

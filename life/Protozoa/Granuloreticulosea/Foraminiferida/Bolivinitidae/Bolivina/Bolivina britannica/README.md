@@ -1,5 +1,4 @@
-Bolivina britannica SPECIES
-=======
+# Bolivina britannica SPECIES
 
 #### Status
 ACCEPTED

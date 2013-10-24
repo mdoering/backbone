@@ -1,17 +1,16 @@
-Plasmopara oenantheae J.F. Tao & Y. Qin SPECIES
-=======
+# Plasmopara oenanthes J.F. Tao & Y. Qin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 5(3): 131 (1986)
 
 #### Original name
-Plasmopara oenantheae J.F. Tao & Y. Qin
+Plasmopara oenanthes J.F. Tao & Y. Qin
 
 ### Remarks
 null

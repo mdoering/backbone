@@ -1,5 +1,4 @@
-Lepiota rhachoderma Berk. & Broome SPECIES
-=======
+# Lepiota rhachoderma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

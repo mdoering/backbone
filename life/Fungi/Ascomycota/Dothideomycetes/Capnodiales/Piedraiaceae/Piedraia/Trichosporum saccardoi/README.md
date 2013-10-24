@@ -1,5 +1,4 @@
-Trichosporum saccardoi J. Lindau SPECIES
-=======
+# Trichosporum saccardoi J. Lindau SPECIES
 
 #### Status
 ACCEPTED

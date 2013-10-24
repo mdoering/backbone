@@ -1,5 +1,4 @@
-Epiclinium phacidioides Sacc. & Romell SPECIES
-=======
+# Epiclinium phacidioides Sacc. & Romell SPECIES
 
 #### Status
 ACCEPTED

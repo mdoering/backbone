@@ -1,5 +1,4 @@
-Scenomyces F. Stevens GENUS
-=======
+# Scenomyces F. Stevens GENUS
 
 #### Status
 ACCEPTED

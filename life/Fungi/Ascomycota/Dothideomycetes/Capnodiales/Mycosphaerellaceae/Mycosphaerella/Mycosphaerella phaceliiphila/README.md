@@ -1,5 +1,4 @@
-Mycosphaerella phaceliiphila (Speg.) Cash SPECIES
-=======
+# Mycosphaerella phaceliiphila (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

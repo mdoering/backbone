@@ -1,5 +1,4 @@
-Septoria hymenocrateris Annal. SPECIES
-=======
+# Septoria hymenocrateris Annal. SPECIES
 
 #### Status
 ACCEPTED

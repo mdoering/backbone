@@ -1,5 +1,4 @@
-Clitocybe porphyrodes (Berk. & Broome) Sacc. SPECIES
-=======
+# Clitocybe porphyrodes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

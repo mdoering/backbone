@@ -1,5 +1,4 @@
-Macrophoma populi-nigrae (Allesch.) Tassi SPECIES
-=======
+# Macrophoma populi-nigrae (Allesch.) Tassi SPECIES
 
 #### Status
 ACCEPTED

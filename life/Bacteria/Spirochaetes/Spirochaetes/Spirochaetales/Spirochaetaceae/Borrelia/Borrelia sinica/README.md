@@ -1,5 +1,4 @@
-Borrelia sinica Masuzawa et al., 2001 SPECIES
-=======
+# Borrelia sinica Masuzawa et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

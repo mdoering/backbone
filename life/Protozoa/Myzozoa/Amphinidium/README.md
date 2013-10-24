@@ -1,5 +1,4 @@
-Amphinidium GENUS
-=======
+# Amphinidium GENUS
 
 #### Status
 ACCEPTED

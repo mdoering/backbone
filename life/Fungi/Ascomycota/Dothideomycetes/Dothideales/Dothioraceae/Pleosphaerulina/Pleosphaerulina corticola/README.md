@@ -1,5 +1,4 @@
-Pleosphaerulina corticola (Fuckel) Rehm SPECIES
-=======
+# Pleosphaerulina corticola (Fuckel) Rehm SPECIES
 
 #### Status
 ACCEPTED

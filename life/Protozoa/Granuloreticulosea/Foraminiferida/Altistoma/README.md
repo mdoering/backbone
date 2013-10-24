@@ -1,5 +1,4 @@
-Altistoma Klasz & Rérat, 1962 GENUS
-=======
+# Altistoma Klasz & Rérat, 1962 GENUS
 
 #### Status
 ACCEPTED

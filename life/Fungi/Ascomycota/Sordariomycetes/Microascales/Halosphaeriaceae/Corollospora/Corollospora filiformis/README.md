@@ -1,5 +1,4 @@
-Corollospora filiformis Nakagiri, 1988 SPECIES
-=======
+# Corollospora filiformis Nakagiri, 1988 SPECIES
 
 #### Status
 ACCEPTED

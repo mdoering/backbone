@@ -1,5 +1,4 @@
-Meliola angustior F. Stevens & Tehon SPECIES
-=======
+# Meliola angustior F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

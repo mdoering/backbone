@@ -1,5 +1,4 @@
-Ellobiophrya Chatton & Lwoff, 1923 GENUS
-=======
+# Ellobiophrya Chatton & Lwoff, 1923 GENUS
 
 #### Status
 ACCEPTED

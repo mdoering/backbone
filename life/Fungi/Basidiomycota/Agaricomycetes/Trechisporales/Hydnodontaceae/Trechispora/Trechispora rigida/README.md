@@ -1,5 +1,4 @@
-Trechispora rigida (Berk.) K.H. Larss. SPECIES
-=======
+# Trechispora rigida (Berk.) K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

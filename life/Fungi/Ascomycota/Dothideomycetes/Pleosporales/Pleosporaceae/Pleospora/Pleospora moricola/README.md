@@ -1,5 +1,4 @@
-Pleospora moricola Pass. SPECIES
-=======
+# Pleospora moricola Pass. SPECIES
 
 #### Status
 ACCEPTED

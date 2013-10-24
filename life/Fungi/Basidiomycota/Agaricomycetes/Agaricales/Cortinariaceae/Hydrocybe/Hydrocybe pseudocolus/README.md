@@ -1,5 +1,4 @@
-Hydrocybe pseudocolus M.M. Moser SPECIES
-=======
+# Hydrocybe pseudocolus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

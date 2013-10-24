@@ -1,5 +1,4 @@
-Dichopleuropus spathulatus D.A. Reid, 1965 SPECIES
-=======
+# Dichopleuropus spathulatus D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

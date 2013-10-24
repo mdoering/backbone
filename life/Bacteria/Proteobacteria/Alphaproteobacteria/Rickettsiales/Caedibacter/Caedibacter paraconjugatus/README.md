@@ -1,5 +1,4 @@
-Caedibacter paraconjugatus Quackenbush, 1982 SPECIES
-=======
+# Caedibacter paraconjugatus Quackenbush, 1982 SPECIES
 
 #### Status
 ACCEPTED

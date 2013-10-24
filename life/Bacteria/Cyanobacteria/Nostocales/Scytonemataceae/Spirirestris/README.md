@@ -1,5 +1,4 @@
-Spirirestris Flechtner & Johansen in Flechtner et al., 2002 GENUS
-=======
+# Spirirestris Flechtner & Johansen in Flechtner et al., 2002 GENUS
 
 #### Status
 ACCEPTED

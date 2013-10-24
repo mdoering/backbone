@@ -1,5 +1,4 @@
-Pluteus favrei Antonín & kubla SPECIES
-=======
+# Pluteus favrei Antonín & kubla SPECIES
 
 #### Status
 ACCEPTED

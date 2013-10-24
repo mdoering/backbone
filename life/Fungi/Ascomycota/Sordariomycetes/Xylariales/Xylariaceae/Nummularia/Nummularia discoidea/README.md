@@ -1,5 +1,4 @@
-Nummularia discoidea (Lév.) Berl. & Sacc. SPECIES
-=======
+# Nummularia discoidea (Lév.) Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

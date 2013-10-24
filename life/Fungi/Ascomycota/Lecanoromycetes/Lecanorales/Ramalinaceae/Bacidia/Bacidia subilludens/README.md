@@ -1,5 +1,4 @@
-Bacidia subilludens (Harm.) Zahlbr. SPECIES
-=======
+# Bacidia subilludens (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

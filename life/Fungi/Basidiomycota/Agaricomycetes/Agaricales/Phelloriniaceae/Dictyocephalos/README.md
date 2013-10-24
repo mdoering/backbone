@@ -1,17 +1,16 @@
-Dictyocephalus GENUS
-=======
+# Dictyocephalos Underw. ex V.S. White GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 28: 441 (1901)
 
 #### Original name
-null
+Dictyocephalos Underw. ex V.S. White
 
 ### Remarks
 null

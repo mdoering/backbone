@@ -1,5 +1,4 @@
-Tansillites Nestell & Nestell, 2006 GENUS
-=======
+# Tansillites Nestell & Nestell, 2006 GENUS
 
 #### Status
 ACCEPTED

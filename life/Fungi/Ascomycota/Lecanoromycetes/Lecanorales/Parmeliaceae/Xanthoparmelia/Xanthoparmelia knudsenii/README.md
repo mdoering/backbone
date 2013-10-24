@@ -1,5 +1,4 @@
-Xanthoparmelia knudsenii Elix, A. Thell & Søchting SPECIES
-=======
+# Xanthoparmelia knudsenii Elix, A. Thell & Søchting SPECIES
 
 #### Status
 ACCEPTED

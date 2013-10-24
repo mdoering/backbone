@@ -1,5 +1,4 @@
-Lasiosphaeria bambusicola Teng & Ou SPECIES
-=======
+# Lasiosphaeria bambusicola Teng & Ou SPECIES
 
 #### Status
 ACCEPTED

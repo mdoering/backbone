@@ -1,5 +1,4 @@
-Cercosporella carduicola Brunaud SPECIES
-=======
+# Cercosporella carduicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

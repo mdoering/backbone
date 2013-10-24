@@ -1,5 +1,4 @@
-Trichosporum thujopsidis Sawada SPECIES
-=======
+# Trichosporum thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium moricola Hara SPECIES
-=======
+# Dimerosporium moricola Hara SPECIES
 
 #### Status
 ACCEPTED

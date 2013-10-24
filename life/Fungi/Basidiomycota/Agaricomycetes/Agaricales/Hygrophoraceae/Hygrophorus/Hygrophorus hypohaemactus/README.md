@@ -1,5 +1,4 @@
-Hygrophorus hypohaemactus var. hypohaemactus VARIETY
-=======
+# Hygrophorus hypohaemactus Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Br. mycol. Soc. 20: 180 (1936)
 
 #### Original name
-Hygrophorus hypohaemactus var. hypohaemactus
+Hygrophorus hypohaemactus Corner
 
 ### Remarks
 null

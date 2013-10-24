@@ -1,5 +1,4 @@
-Desulfurococcus mucosus Zillig & Stetter, 1983 SPECIES
-=======
+# Desulfurococcus mucosus Zillig & Stetter, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria pipericola Henn. SPECIES
-=======
+# Nectria pipericola Henn. SPECIES
 
 #### Status
 ACCEPTED

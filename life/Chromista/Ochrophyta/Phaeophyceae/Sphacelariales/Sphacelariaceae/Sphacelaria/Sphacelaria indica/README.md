@@ -1,5 +1,4 @@
-Sphacelaria indica Reinke SPECIES
-=======
+# Sphacelaria indica Reinke SPECIES
 
 #### Status
 ACCEPTED

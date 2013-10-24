@@ -1,5 +1,4 @@
-Coreomyces italicus Speg. SPECIES
-=======
+# Coreomyces italicus Speg. SPECIES
 
 #### Status
 ACCEPTED

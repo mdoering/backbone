@@ -1,5 +1,4 @@
-Septocolla adpressa Bonord. SPECIES
-=======
+# Septocolla adpressa Bonord. SPECIES
 
 #### Status
 ACCEPTED

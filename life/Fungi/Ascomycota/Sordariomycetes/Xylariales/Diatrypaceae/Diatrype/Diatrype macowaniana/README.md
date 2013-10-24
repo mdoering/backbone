@@ -1,5 +1,4 @@
-Diatrype macowaniana Thüm. SPECIES
-=======
+# Diatrype macowaniana Thüm. SPECIES
 
 #### Status
 ACCEPTED

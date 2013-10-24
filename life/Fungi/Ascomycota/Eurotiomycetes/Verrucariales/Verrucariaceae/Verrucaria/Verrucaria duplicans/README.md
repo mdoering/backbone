@@ -1,5 +1,4 @@
-Verrucaria duplicans Nyl. SPECIES
-=======
+# Verrucaria duplicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

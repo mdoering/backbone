@@ -1,5 +1,4 @@
-Multicellaesporites curvatus Ambwani SPECIES
-=======
+# Multicellaesporites curvatus Ambwani SPECIES
 
 #### Status
 ACCEPTED

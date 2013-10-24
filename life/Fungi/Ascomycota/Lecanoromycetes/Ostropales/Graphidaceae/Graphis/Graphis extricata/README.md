@@ -1,5 +1,4 @@
-Graphis extricata Vain. SPECIES
-=======
+# Graphis extricata Vain. SPECIES
 
 #### Status
 ACCEPTED

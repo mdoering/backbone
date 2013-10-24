@@ -1,5 +1,4 @@
-Astrosphaeriella lageniformis (Teng) J.Z. Yue & O.E. Erikss. SPECIES
-=======
+# Astrosphaeriella lageniformis (Teng) J.Z. Yue & O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

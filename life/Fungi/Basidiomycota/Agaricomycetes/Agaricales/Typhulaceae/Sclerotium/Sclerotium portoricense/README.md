@@ -1,5 +1,4 @@
-Sclerotium portoricense F. Stevens SPECIES
-=======
+# Sclerotium portoricense F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium vaucheriae De Wild. SPECIES
-=======
+# Rhizophydium vaucheriae De Wild. SPECIES
 
 #### Status
 ACCEPTED

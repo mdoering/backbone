@@ -1,5 +1,4 @@
-Streptomyces levis Sveshnikova, 1986 SPECIES
-=======
+# Streptomyces levis Sveshnikova, 1986 SPECIES
 
 #### Status
 ACCEPTED

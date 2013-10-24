@@ -1,5 +1,4 @@
-Cladosporium arundinicola Berl. SPECIES
-=======
+# Cladosporium arundinicola Berl. SPECIES
 
 #### Status
 ACCEPTED

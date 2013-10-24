@@ -1,17 +1,16 @@
-Ectrogella licmophorae Scherff., 1925 SPECIES
-=======
+# Ectrogella perforans H.E. Petersen, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. 52: 11 (1925)
+null
 
 #### Original name
-Ectrogella licmophorae Scherff., 1925
+Ectrogella perforans H.E. Petersen, 1905
 
 ### Remarks
 null

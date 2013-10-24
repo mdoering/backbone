@@ -1,5 +1,4 @@
-Dorypeltonium Haeckel, 1887 GENUS
-=======
+# Dorypeltonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

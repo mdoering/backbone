@@ -1,5 +1,4 @@
-Aecidium dispori Dietel SPECIES
-=======
+# Aecidium dispori Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia corteziana Cummins & J.F. Hennen SPECIES
-=======
+# Puccinia corteziana Cummins & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pesotum australi Kamgan Nkuekam, K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Pesotum australi Kamgan Nkuekam, K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

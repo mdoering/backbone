@@ -1,14 +1,13 @@
-Lepidoma coeruleonigricans (Lightf.) Trevis. SPECIES
-=======
+# Toninia caeruleonigricans (Lightf.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 2: 336 (1874)
 
 #### Original name
 Lichen coeruleonigricans Lightf.

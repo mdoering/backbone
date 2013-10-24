@@ -1,5 +1,4 @@
-Cryptostictella bractearum Grove SPECIES
-=======
+# Cryptostictella bractearum Grove SPECIES
 
 #### Status
 ACCEPTED

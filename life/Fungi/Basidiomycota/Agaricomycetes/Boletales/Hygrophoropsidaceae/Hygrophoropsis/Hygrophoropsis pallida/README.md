@@ -1,14 +1,13 @@
-Hygrophorus pallidus Peck, 1902 SPECIES
-=======
+# Hygrophoropsis pallida (Peck) Kreisel, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 29: 69 (1902)
+null
 
 #### Original name
 Hygrophorus pallidus Peck, 1902

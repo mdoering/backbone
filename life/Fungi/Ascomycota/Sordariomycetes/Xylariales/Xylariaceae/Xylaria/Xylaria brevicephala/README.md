@@ -1,5 +1,4 @@
-Xylaria brevicephala Lloyd SPECIES
-=======
+# Xylaria brevicephala Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lepraria caesioalba var. caesioalba VARIETY
-=======
+# Lepraria caesioalba (B. de Lesd.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 24(4): 324 (1992)
 
 #### Original name
-null
+Crocynia caesioalba B. de Lesd.
 
 ### Remarks
 null

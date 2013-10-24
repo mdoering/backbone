@@ -1,5 +1,4 @@
-Diaporthe occultata (Fr.) Sacc. SPECIES
-=======
+# Diaporthe occultata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

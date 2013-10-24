@@ -1,5 +1,4 @@
-Sulfitobacter brevis Labrenz et al., 2000 SPECIES
-=======
+# Sulfitobacter brevis Labrenz et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

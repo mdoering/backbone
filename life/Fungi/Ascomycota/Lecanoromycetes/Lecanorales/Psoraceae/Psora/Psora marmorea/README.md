@@ -1,5 +1,4 @@
-Psora marmorea (With.) Hampe SPECIES
-=======
+# Psora marmorea (With.) Hampe SPECIES
 
 #### Status
 ACCEPTED

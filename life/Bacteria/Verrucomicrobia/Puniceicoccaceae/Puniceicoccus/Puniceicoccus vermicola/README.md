@@ -1,5 +1,4 @@
-Puniceicoccus vermicola Choo, Lee, Song & Cho, 2007 SPECIES
-=======
+# Puniceicoccus vermicola Choo, Lee, Song & Cho, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium baarnense J.F.H. Beyma, 1940 SPECIES
-=======
+# Penicillium vanbeymae Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 6: 270 (1940)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 142 (1980)
 
 #### Original name
-Penicillium baarnense J.F.H. Beyma, 1940
+Penicillium vanbeymae Pitt, 1980
 
 ### Remarks
 null

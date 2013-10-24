@@ -1,5 +1,4 @@
-Xenococcus irregularis Gruia SPECIES
-=======
+# Xenococcus irregularis Gruia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium capreae Velen. SPECIES
-=======
+# Helotium capreae Velen. SPECIES
 
 #### Status
 ACCEPTED

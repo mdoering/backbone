@@ -1,5 +1,4 @@
-Escherichia plebia SPECIES
-=======
+# Escherichia plebia SPECIES
 
 #### Status
 ACCEPTED

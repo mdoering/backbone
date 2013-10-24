@@ -1,5 +1,4 @@
-Bryantella formatexigens Wolin et al., 2004 SPECIES
-=======
+# Bryantella formatexigens Wolin et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

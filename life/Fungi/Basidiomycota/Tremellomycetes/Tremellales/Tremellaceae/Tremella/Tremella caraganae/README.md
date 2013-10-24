@@ -1,5 +1,4 @@
-Tremella caraganae (Pers.) H. Mart. SPECIES
-=======
+# Tremella caraganae (Pers.) H. Mart. SPECIES
 
 #### Status
 ACCEPTED

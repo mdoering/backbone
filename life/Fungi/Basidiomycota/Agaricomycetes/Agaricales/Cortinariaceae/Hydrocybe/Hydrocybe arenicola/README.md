@@ -1,5 +1,4 @@
-Hydrocybe arenicola Murrill SPECIES
-=======
+# Hydrocybe arenicola Murrill SPECIES
 
 #### Status
 ACCEPTED

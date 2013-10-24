@@ -1,5 +1,4 @@
-Coprinus albiflavidus Bogart SPECIES
-=======
+# Coprinus albiflavidus Bogart SPECIES
 
 #### Status
 ACCEPTED

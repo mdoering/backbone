@@ -1,5 +1,4 @@
-Diplochytridium turbinatum (Kobayasi & M. Ôkubo) Karling SPECIES
-=======
+# Diplochytridium turbinatum (Kobayasi & M. Ôkubo) Karling SPECIES
 
 #### Status
 ACCEPTED

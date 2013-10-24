@@ -1,17 +1,16 @@
-Polyporus revolutus var. revolutus VARIETY
-=======
+# Polyporus revolutus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Annls mycol. 18(1/3): 35 (1920)
+null
 
 #### Original name
-Polyporus revolutus var. revolutus
+null
 
 ### Remarks
 null

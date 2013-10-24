@@ -1,5 +1,4 @@
-Pluteus pulvinus Berk. & Broome SPECIES
-=======
+# Pluteus pulvinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

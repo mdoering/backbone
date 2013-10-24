@@ -1,5 +1,4 @@
-Agaricus roseocandidus Peck SPECIES
-=======
+# Agaricus roseocandidus Peck SPECIES
 
 #### Status
 ACCEPTED

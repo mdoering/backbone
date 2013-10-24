@@ -1,5 +1,4 @@
-Zoothamnium congermanum Dumas, 1930 SPECIES
-=======
+# Zoothamnium congermanum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

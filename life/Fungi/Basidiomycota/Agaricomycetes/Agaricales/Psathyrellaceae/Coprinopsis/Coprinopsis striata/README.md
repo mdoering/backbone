@@ -1,5 +1,4 @@
-Coprinopsis striata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis striata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

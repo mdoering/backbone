@@ -1,5 +1,4 @@
-Spilocaea alba Bonord. SPECIES
-=======
+# Spilocaea alba Bonord. SPECIES
 
 #### Status
 ACCEPTED

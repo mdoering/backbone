@@ -1,5 +1,4 @@
-Penicillium occitanis S. Jain, Parriche, H. Durand bis & Tiraby SPECIES
-=======
+# Penicillium occitanis S. Jain, Parriche, H. Durand bis & Tiraby SPECIES
 
 #### Status
 ACCEPTED

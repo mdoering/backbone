@@ -1,5 +1,4 @@
-Planifolia Ernissee, 1976 GENUS
-=======
+# Planifolia Ernissee, 1976 GENUS
 
 #### Status
 ACCEPTED

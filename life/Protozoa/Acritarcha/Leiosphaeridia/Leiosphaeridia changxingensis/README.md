@@ -1,5 +1,4 @@
-Leiosphaeridia changxingensis Ouyang Shu & Utting, 1990 SPECIES
-=======
+# Leiosphaeridia changxingensis Ouyang Shu & Utting, 1990 SPECIES
 
 #### Status
 ACCEPTED

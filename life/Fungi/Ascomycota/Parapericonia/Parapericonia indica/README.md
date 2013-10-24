@@ -1,5 +1,4 @@
-Parapericonia indica U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
-=======
+# Parapericonia indica U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

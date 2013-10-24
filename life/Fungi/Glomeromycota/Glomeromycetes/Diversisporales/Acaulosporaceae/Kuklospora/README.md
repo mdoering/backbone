@@ -1,5 +1,4 @@
-Kuklospora Oehl & Sieverd. GENUS
-=======
+# Kuklospora Oehl & Sieverd. GENUS
 
 #### Status
 ACCEPTED

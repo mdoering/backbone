@@ -1,5 +1,4 @@
-Podoporia undata (Pers.) SPECIES
-=======
+# Podoporia undata (Pers.) SPECIES
 
 #### Status
 ACCEPTED

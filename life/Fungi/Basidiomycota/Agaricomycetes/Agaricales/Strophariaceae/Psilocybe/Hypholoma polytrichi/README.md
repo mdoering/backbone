@@ -1,14 +1,13 @@
-Psilocybe uda var. polytrichi (Fr.) Gillet, 1878 VARIETY
-=======
+# Hypholoma polytrichi (Fr.) Ricken, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 586 (1878)
+Die Blätterpilze 249 (1912)
 
 #### Original name
 Agaricus polytrichi Fr., 1815

@@ -1,14 +1,13 @@
-Caldesiella sajanensis Pilát, 1937 SPECIES
-=======
+# Kavinia sajanensis (Pilát) Pilát, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 52(3): 329 (1937)
+Stud. Bot. Cechoslav. (1938)
 
 #### Original name
 Caldesiella sajanensis Pilát, 1937

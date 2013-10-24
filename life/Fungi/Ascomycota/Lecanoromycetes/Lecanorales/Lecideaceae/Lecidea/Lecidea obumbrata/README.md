@@ -1,5 +1,4 @@
-Lecidea obumbrata Nyl. SPECIES
-=======
+# Lecidea obumbrata Nyl. SPECIES
 
 #### Status
 ACCEPTED

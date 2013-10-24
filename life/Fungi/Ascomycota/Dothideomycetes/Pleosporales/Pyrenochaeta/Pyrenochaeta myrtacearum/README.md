@@ -1,5 +1,4 @@
-Pyrenochaeta myrtacearum Speg. SPECIES
-=======
+# Pyrenochaeta myrtacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

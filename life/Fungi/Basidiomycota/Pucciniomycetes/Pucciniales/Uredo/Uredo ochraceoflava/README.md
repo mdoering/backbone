@@ -1,5 +1,4 @@
-Uredo ochraceoflava Henn. SPECIES
-=======
+# Uredo ochraceoflava Henn. SPECIES
 
 #### Status
 ACCEPTED

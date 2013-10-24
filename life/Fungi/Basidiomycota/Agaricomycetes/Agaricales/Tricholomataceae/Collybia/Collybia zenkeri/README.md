@@ -1,5 +1,4 @@
-Collybia zenkeri Henn. SPECIES
-=======
+# Collybia zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pucciniastrum coriariae Dietel, 1900 SPECIES
-=======
+# Pucciniastrum coriariae Dietel, 1900 SPECIES
 
 #### Status
 ACCEPTED

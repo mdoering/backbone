@@ -1,14 +1,13 @@
-Colletotrichum seminicolum (Berk. & Broome) Petch SPECIES
-=======
+# Colletotrichum seminicola (Berk. & Broome) Petch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. R. bot. Gdns Peradeniya 9(2): 162 (1924)
 
 #### Original name
 null

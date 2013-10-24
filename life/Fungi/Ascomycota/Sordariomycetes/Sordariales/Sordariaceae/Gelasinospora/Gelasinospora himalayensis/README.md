@@ -1,14 +1,13 @@
-Neurospora himalayensis (Y. Horie & Udagawa) Dania García, Stchigel & Guarro, 2004 SPECIES
-=======
+# Gelasinospora himalayensis Y. Horie & Udagawa, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in García, Stchigel, Cano, Guarro & Hawksworth, Mycol. Res. 108(10): 1129 (2004)
+Trans. Mycol. Soc. Japan 15(3): 201 (1974)
 
 #### Original name
 Gelasinospora himalayensis Y. Horie & Udagawa, 1974

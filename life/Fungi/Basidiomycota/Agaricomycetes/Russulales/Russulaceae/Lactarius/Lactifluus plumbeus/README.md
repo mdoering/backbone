@@ -1,5 +1,4 @@
-Lactifluus plumbeus (Bull.) Roussel SPECIES
-=======
+# Lactifluus plumbeus (Bull.) Roussel SPECIES
 
 #### Status
 ACCEPTED

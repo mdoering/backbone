@@ -1,17 +1,16 @@
-Cryptococcus feraegula Saëz & Rodr. Mir. SPECIES
-=======
+# Cryptococcus ferigula Saëz & Rodr. Mir. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 104(3): 213 (1988)
 
 #### Original name
-Cryptococcus feraegula Saëz & Rodr. Mir.
+Cryptococcus ferigula Saëz & Rodr. Mir.
 
 ### Remarks
 null

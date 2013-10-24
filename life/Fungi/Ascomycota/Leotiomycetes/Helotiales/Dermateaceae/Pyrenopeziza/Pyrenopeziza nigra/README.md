@@ -1,5 +1,4 @@
-Pyrenopeziza nigra Picb. SPECIES
-=======
+# Pyrenopeziza nigra Picb. SPECIES
 
 #### Status
 ACCEPTED

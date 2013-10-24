@@ -1,5 +1,4 @@
-Lecidea atroalba var. atroalba VARIETY
-=======
+# Lecidea atroalba Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea atroalba var. atroalba
+Lecidea atroalba Fr.
 
 ### Remarks
 null

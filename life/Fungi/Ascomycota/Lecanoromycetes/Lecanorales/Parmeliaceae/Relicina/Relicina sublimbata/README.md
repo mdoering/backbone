@@ -1,17 +1,16 @@
-Parmelia sublimbata Nyl. SPECIES
-=======
+# Relicina sublimbata (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 485 (1974)
 
 #### Original name
-null
+Parmelia sublimbata Nyl.
 
 ### Remarks
 null

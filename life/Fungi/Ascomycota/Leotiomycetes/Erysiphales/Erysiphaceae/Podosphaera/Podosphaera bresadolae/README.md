@@ -1,5 +1,4 @@
-Podosphaera bresadolae Quél. SPECIES
-=======
+# Podosphaera bresadolae Quél. SPECIES
 
 #### Status
 ACCEPTED

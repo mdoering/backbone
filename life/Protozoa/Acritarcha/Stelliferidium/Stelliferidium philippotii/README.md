@@ -1,5 +1,4 @@
-Stelliferidium philippotii (Henry, 1966) Deunff, Górka & Rauscher, 1974 SPECIES
-=======
+# Stelliferidium philippotii (Henry, 1966) Deunff, Górka & Rauscher, 1974 SPECIES
 
 #### Status
 ACCEPTED

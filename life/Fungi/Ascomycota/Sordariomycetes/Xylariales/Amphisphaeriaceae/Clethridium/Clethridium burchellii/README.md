@@ -1,5 +1,4 @@
-Clethridium burchellii (Cooke) Clem. & Shear SPECIES
-=======
+# Clethridium burchellii (Cooke) Clem. & Shear SPECIES
 
 #### Status
 ACCEPTED

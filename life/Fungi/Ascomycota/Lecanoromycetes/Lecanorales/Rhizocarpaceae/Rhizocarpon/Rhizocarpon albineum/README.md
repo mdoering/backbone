@@ -1,5 +1,4 @@
-Rhizocarpon albineum (Tuck.) Fink SPECIES
-=======
+# Rhizocarpon albineum (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

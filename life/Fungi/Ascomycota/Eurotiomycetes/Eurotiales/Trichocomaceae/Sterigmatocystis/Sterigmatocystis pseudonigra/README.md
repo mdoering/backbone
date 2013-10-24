@@ -1,5 +1,4 @@
-Sterigmatocystis pseudonigra Costantin & Lucet SPECIES
-=======
+# Sterigmatocystis pseudonigra Costantin & Lucet SPECIES
 
 #### Status
 ACCEPTED

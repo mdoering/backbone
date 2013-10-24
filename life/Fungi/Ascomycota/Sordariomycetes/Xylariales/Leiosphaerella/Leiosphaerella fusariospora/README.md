@@ -1,5 +1,4 @@
-Leiosphaerella fusariospora (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Leiosphaerella fusariospora (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

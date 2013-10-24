@@ -1,5 +1,4 @@
-Kusanobotrys amomi (Berk. & M.A. Curtis) I. Hino & Katum. SPECIES
-=======
+# Kusanobotrys amomi (Berk. & M.A. Curtis) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

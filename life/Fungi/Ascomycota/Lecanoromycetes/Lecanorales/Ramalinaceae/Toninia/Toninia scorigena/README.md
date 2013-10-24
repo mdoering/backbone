@@ -1,14 +1,13 @@
-Biatora scorigena (Müll. Arg.) Rambold SPECIES
-=======
+# Toninia scorigena (Müll. Arg.) Lumbsch & Messuti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 34: 73 (1989)
+Australasian Lichenology 45: 10 (1999)
 
 #### Original name
 Lecidea scorigena Müll. Arg.

@@ -1,5 +1,4 @@
-Paragranatisporites putus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Paragranatisporites putus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

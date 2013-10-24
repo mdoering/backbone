@@ -1,5 +1,4 @@
-Phycicola Lee et al., 2008 GENUS
-=======
+# Phycicola Lee et al., 2008 GENUS
 
 #### Status
 ACCEPTED

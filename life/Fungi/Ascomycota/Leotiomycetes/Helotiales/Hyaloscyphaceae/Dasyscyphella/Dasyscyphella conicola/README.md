@@ -1,5 +1,4 @@
-Dasyscyphella conicola (Rehm) Raitv. & Arendh. SPECIES
-=======
+# Dasyscyphella conicola (Rehm) Raitv. & Arendh. SPECIES
 
 #### Status
 ACCEPTED

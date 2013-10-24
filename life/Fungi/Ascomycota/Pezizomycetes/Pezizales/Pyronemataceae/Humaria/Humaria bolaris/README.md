@@ -1,5 +1,4 @@
-Humaria bolaris Bres. SPECIES
-=======
+# Humaria bolaris Bres. SPECIES
 
 #### Status
 ACCEPTED

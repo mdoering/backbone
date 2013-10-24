@@ -1,5 +1,4 @@
-Ramaria nguelensis (Henn.) Corner SPECIES
-=======
+# Ramaria nguelensis (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylopila Doronina et al., 1998 GENUS
-=======
+# Methylopila Doronina et al., 1998 GENUS
 
 #### Status
 ACCEPTED

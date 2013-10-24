@@ -1,5 +1,4 @@
-Clavaria corrugata P. Karst. SPECIES
-=======
+# Clavaria corrugata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

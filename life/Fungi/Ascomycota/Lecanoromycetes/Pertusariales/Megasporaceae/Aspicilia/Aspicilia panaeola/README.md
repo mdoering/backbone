@@ -1,5 +1,4 @@
-Aspicilia panaeola Körb. SPECIES
-=======
+# Aspicilia panaeola Körb. SPECIES
 
 #### Status
 ACCEPTED

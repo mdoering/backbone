@@ -1,5 +1,4 @@
-Stichopilidium Haeckel, 1887 GENUS
-=======
+# Stichopilidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

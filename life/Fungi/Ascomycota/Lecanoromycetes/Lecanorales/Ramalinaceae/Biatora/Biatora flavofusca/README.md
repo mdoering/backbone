@@ -1,5 +1,4 @@
-Biatora flavofusca (Schrad.) Mann SPECIES
-=======
+# Biatora flavofusca (Schrad.) Mann SPECIES
 
 #### Status
 ACCEPTED

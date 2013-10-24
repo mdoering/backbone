@@ -1,5 +1,4 @@
-Cercospora lettsomiae Thirum. & Chupp SPECIES
-=======
+# Cercospora lettsomiae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

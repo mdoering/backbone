@@ -1,5 +1,4 @@
-Erineum atriplicinum Nestl. ex Link SPECIES
-=======
+# Erineum atriplicinum Nestl. ex Link SPECIES
 
 #### Status
 ACCEPTED

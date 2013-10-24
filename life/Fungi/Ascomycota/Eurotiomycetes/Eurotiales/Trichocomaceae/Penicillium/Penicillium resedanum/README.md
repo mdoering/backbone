@@ -1,17 +1,16 @@
-Penicillium luteoaurantium G. Sm., 1963 SPECIES
-=======
+# Penicillium resedanum McLennan & Ducker, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 46: 331 (1963)
+in McLennon, Ducker & Thrower, Aust. J. Bot. 2(3): 360 (1954)
 
 #### Original name
-Penicillium luteoaurantium G. Sm., 1963
+Penicillium resedanum McLennan & Ducker, 1954
 
 ### Remarks
 null

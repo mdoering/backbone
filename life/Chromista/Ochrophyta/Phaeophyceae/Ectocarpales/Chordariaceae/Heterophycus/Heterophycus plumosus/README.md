@@ -1,5 +1,4 @@
-Heterophycus plumosus (Kützing) Trevisan SPECIES
-=======
+# Heterophycus plumosus (Kützing) Trevisan SPECIES
 
 #### Status
 ACCEPTED

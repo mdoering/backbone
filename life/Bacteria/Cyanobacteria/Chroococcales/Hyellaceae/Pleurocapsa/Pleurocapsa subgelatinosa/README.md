@@ -1,5 +1,4 @@
-Pleurocapsa subgelatinosa Geitler SPECIES
-=======
+# Pleurocapsa subgelatinosa Geitler SPECIES
 
 #### Status
 ACCEPTED

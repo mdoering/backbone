@@ -1,5 +1,4 @@
-Massarina clypeata (Petr.) E. Müll. SPECIES
-=======
+# Massarina clypeata (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dileptus anas (Müller, 1773) Fromentel, 1876 SPECIES
-=======
+# Trachelius anas (Müller, 1773) Ehrenberg, 1831 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

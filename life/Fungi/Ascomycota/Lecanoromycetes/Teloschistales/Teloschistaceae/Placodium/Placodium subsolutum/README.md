@@ -1,5 +1,4 @@
-Placodium subsolutum (Nyl.) H. Olivier SPECIES
-=======
+# Placodium subsolutum (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

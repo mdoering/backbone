@@ -1,14 +1,13 @@
-Cladosporium langeroni (Fonseca, Leão & Nogueira) Vuill. SPECIES
-=======
+# Cladosporium langeronii (Fonseca, Leão & Nogueira) Vuill., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Amer. Med. Assoc. 2: 488 (1931)
 
 #### Original name
 Hormodendrum langeronii Fonseca, Leão & Nogueira, 1927

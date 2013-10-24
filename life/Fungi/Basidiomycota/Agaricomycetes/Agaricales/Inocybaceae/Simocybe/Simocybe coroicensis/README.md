@@ -1,5 +1,4 @@
-Simocybe coroicensis Singer SPECIES
-=======
+# Simocybe coroicensis Singer SPECIES
 
 #### Status
 ACCEPTED

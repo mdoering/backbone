@@ -1,5 +1,4 @@
-Peziza leucorrhodina Mont. SPECIES
-=======
+# Peziza leucorrhodina Mont. SPECIES
 
 #### Status
 ACCEPTED

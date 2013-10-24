@@ -1,5 +1,4 @@
-Ryparobius spegazzinii Gamundí SPECIES
-=======
+# Ryparobius spegazzinii Gamundí SPECIES
 
 #### Status
 ACCEPTED

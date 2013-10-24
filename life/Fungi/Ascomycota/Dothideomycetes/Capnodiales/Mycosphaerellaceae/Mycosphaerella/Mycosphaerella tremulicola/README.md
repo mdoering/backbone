@@ -1,5 +1,4 @@
-Mycosphaerella tremulicola (DC.) Petr. SPECIES
-=======
+# Mycosphaerella tremulicola (DC.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiella indica Tilak SPECIES
-=======
+# Parodiella indica Tilak SPECIES
 
 #### Status
 ACCEPTED

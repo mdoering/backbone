@@ -1,5 +1,4 @@
-Ramularia gayophyti (Ellis & Everh.) Solheim SPECIES
-=======
+# Ramularia gayophyti (Ellis & Everh.) Solheim SPECIES
 
 #### Status
 ACCEPTED

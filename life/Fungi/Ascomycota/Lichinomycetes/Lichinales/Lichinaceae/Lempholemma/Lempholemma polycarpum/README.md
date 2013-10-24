@@ -1,5 +1,4 @@
-Lempholemma polycarpum M. Schultz SPECIES
-=======
+# Lempholemma polycarpum M. Schultz SPECIES
 
 #### Status
 ACCEPTED

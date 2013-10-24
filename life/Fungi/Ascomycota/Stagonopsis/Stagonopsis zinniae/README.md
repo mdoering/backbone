@@ -1,5 +1,4 @@
-Stagonopsis zinniae Gonz. Frag. SPECIES
-=======
+# Stagonopsis zinniae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

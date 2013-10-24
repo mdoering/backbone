@@ -1,5 +1,4 @@
-Conidiascus paradoxus Holterm., 1898 SPECIES
-=======
+# Conidiascus paradoxus Holterm., 1898 SPECIES
 
 #### Status
 ACCEPTED

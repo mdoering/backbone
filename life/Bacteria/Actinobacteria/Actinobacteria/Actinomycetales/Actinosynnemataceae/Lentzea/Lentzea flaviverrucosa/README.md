@@ -1,11 +1,10 @@
-Streptomyces flavoverrucosus Yan & Deng, 1966 SPECIES
-=======
+# Lentzea flaviverrucosa (ex Yan & Deng, 1966) Xie et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

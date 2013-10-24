@@ -1,5 +1,4 @@
-Lecidea xylographella Nyl. SPECIES
-=======
+# Lecidea xylographella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea sublaxa Vain. SPECIES
-=======
+# Usnea sublaxa Vain. SPECIES
 
 #### Status
 ACCEPTED

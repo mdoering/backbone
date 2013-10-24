@@ -1,5 +1,4 @@
-Polyphagus elegans Canter SPECIES
-=======
+# Polyphagus elegans Canter SPECIES
 
 #### Status
 ACCEPTED

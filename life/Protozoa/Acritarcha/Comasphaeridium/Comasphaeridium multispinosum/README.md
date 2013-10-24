@@ -1,5 +1,4 @@
-Comasphaeridium multispinosum (Pastiels, 1948) de Coninck, 1969 SPECIES
-=======
+# Comasphaeridium multispinosum (Pastiels, 1948) de Coninck, 1969 SPECIES
 
 #### Status
 ACCEPTED

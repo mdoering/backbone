@@ -1,5 +1,4 @@
-Cortinarius tigrellus Soop, 2003 SPECIES
-=======
+# Cortinarius tigrellus Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

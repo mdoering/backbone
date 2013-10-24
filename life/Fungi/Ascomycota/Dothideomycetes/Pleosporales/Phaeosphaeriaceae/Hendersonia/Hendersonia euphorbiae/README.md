@@ -1,5 +1,4 @@
-Hendersonia euphorbiae Petr. SPECIES
-=======
+# Hendersonia euphorbiae Petr. SPECIES
 
 #### Status
 ACCEPTED

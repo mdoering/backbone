@@ -1,5 +1,4 @@
-Puccinia thlaspeos Ficinus & C. Schub. SPECIES
-=======
+# Puccinia thlaspeos Ficinus & C. Schub. SPECIES
 
 #### Status
 ACCEPTED

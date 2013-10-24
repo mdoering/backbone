@@ -1,5 +1,4 @@
-Lecidea wrightii Tuck. SPECIES
-=======
+# Lecidea wrightii Tuck. SPECIES
 
 #### Status
 ACCEPTED

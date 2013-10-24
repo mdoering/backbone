@@ -1,5 +1,4 @@
-Stegastroma guianense F. Stevens SPECIES
-=======
+# Stegastroma guianense F. Stevens SPECIES
 
 #### Status
 ACCEPTED

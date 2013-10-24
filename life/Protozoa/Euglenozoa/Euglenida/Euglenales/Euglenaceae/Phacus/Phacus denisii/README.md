@@ -1,5 +1,4 @@
-Phacus denisii Allorge & Lefèvre SPECIES
-=======
+# Phacus denisii Allorge & Lefèvre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoellneria callochaetes (Ellis & Everh.) Dennis SPECIES
-=======
+# Zoellneria callochaetes (Ellis & Everh.) Dennis SPECIES
 
 #### Status
 ACCEPTED

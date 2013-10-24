@@ -1,5 +1,4 @@
-Chaetoceros capreolus (Ehrenberg) L.W.Bailey SPECIES
-=======
+# Chaetoceros capreolus (Ehrenberg) L.W.Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma macrocephalum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma macrocephalum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sydowiella indica Bilgrami & Rizwi SPECIES
-=======
+# Sydowiella indica Bilgrami & Rizwi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella schadospora S.I. Ahmed & Cain, 1972 SPECIES
-=======
+# Sporormiella schadospora S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina polygonati H. Ruppr. SPECIES
-=======
+# Diplodina polygonati H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

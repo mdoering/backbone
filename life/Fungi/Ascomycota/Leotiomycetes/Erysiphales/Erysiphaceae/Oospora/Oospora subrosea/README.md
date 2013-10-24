@@ -1,5 +1,4 @@
-Oospora subrosea Sacc. & Voglino SPECIES
-=======
+# Oospora subrosea Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

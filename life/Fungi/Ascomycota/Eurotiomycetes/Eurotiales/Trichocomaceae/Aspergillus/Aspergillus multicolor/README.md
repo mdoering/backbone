@@ -1,5 +1,4 @@
-Aspergillus multicolor Sappa, 1954 SPECIES
-=======
+# Aspergillus multicolor Sappa, 1954 SPECIES
 
 #### Status
 ACCEPTED

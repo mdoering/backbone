@@ -1,5 +1,4 @@
-Pinacisca affinis (Anzi) Motyka SPECIES
-=======
+# Pinacisca affinis (Anzi) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Waksmania rosea M.P. Lechev. & H. Lechev. SPECIES
-=======
+# Waksmania rosea M.P. Lechev. & H. Lechev. SPECIES
 
 #### Status
 ACCEPTED

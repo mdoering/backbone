@@ -1,5 +1,4 @@
-Pertusaria caesia Nyl. SPECIES
-=======
+# Pertusaria caesia Nyl. SPECIES
 
 #### Status
 ACCEPTED

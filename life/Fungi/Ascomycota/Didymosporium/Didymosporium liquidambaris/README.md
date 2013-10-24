@@ -1,5 +1,4 @@
-Didymosporium liquidambaris Teng SPECIES
-=======
+# Didymosporium liquidambaris Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula bambusae Pat. SPECIES
-=======
+# Torula bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

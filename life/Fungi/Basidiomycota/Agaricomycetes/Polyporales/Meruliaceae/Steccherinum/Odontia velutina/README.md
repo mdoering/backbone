@@ -1,5 +1,4 @@
-Odontia velutina Lambotte SPECIES
-=======
+# Odontia velutina Lambotte SPECIES
 
 #### Status
 ACCEPTED

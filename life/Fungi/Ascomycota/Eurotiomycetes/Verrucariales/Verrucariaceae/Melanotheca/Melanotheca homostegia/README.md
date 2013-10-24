@@ -1,5 +1,4 @@
-Melanotheca homostegia (Nyl.) H. Olivier SPECIES
-=======
+# Melanotheca homostegia (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

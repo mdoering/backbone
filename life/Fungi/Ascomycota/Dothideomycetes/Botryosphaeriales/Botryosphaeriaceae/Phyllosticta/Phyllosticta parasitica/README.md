@@ -1,5 +1,4 @@
-Phyllosticta parasitica Cocc. SPECIES
-=======
+# Phyllosticta parasitica Cocc. SPECIES
 
 #### Status
 ACCEPTED

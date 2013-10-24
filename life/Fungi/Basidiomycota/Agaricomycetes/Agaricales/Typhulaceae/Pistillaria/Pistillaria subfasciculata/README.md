@@ -1,5 +1,4 @@
-Pistillaria subfasciculata (Ellis & Everh.) Corner SPECIES
-=======
+# Pistillaria subfasciculata (Ellis & Everh.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium anastomosans Arnold SPECIES
-=======
+# Arthothelium anastomosans Arnold SPECIES
 
 #### Status
 ACCEPTED

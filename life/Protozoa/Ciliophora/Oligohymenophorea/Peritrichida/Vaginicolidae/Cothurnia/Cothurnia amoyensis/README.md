@@ -1,5 +1,4 @@
-Cothurnia amoyensis SPECIES
-=======
+# Cothurnia amoyensis SPECIES
 
 #### Status
 ACCEPTED

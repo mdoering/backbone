@@ -1,8 +1,7 @@
-Gonodia marchaniae Setchell & N.L.Gardner, 1924 SPECIES
-=======
+# Myriactula marchantiae (Setchell & N.L.Gardner) Feldmann, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

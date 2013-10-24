@@ -1,5 +1,4 @@
-Trichothecium sublutescens (Peck) Sacc. SPECIES
-=======
+# Trichothecium sublutescens (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilaginoidea usambarensis Henn. SPECIES
-=======
+# Ustilaginoidea usambarensis Henn. SPECIES
 
 #### Status
 ACCEPTED

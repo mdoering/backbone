@@ -1,5 +1,4 @@
-Xylaria fioriana Sacc., 1910 SPECIES
-=======
+# Xylaria fioriana Sacc., 1910 SPECIES
 
 #### Status
 ACCEPTED

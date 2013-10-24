@@ -1,5 +1,4 @@
-Semimorula E.F. Haskins, McGuinn. & C.S. Berry GENUS
-=======
+# Semimorula E.F. Haskins, McGuinn. & C.S. Berry GENUS
 
 #### Status
 ACCEPTED

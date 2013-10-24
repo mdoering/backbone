@@ -1,5 +1,4 @@
-Urocystis pulsatillae (Bubák) Moesz SPECIES
-=======
+# Urocystis pulsatillae (Bubák) Moesz SPECIES
 
 #### Status
 ACCEPTED

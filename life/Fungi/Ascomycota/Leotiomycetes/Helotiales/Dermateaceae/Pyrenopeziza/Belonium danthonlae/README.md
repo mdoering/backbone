@@ -1,5 +1,4 @@
-Belonium danthonlae SPECIES
-=======
+# Belonium danthonlae SPECIES
 
 #### Status
 ACCEPTED

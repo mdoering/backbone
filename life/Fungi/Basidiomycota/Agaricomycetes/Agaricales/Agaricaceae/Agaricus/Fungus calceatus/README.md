@@ -1,5 +1,4 @@
-Fungus calceatus (Fr.) Kuntze SPECIES
-=======
+# Fungus calceatus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

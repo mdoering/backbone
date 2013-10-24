@@ -1,8 +1,7 @@
-Sportelloeca kentii Norris, 1965 SPECIES
-=======
+# Stephanoeca norrisii Thomsen, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

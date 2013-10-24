@@ -1,5 +1,4 @@
-Allantoxena Yankovskii, 1978 GENUS
-=======
+# Allantoxena Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

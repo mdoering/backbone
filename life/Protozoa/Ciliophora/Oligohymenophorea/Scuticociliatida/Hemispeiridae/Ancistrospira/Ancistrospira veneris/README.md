@@ -1,5 +1,4 @@
-Ancistrospira veneris Chatton & Lwoff, 1926 SPECIES
-=======
+# Ancistrospira veneris Chatton & Lwoff, 1926 SPECIES
 
 #### Status
 ACCEPTED

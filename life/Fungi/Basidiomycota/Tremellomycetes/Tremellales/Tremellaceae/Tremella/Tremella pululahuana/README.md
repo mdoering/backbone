@@ -1,5 +1,4 @@
-Tremella pululahuana Pat. SPECIES
-=======
+# Tremella pululahuana Pat. SPECIES
 
 #### Status
 ACCEPTED

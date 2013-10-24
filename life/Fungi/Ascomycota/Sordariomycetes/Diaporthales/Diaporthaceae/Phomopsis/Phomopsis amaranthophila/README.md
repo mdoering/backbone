@@ -1,5 +1,4 @@
-Phomopsis amaranthophila Inácio, Dianese & Carlos SPECIES
-=======
+# Phomopsis amaranthophila Inácio, Dianese & Carlos SPECIES
 
 #### Status
 ACCEPTED

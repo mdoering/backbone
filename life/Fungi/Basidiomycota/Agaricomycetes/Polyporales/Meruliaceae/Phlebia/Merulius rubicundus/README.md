@@ -1,5 +1,4 @@
-Merulius rubicundus Litsch. SPECIES
-=======
+# Merulius rubicundus Litsch. SPECIES
 
 #### Status
 ACCEPTED

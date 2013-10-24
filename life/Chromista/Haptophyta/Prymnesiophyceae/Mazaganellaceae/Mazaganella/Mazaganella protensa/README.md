@@ -1,5 +1,4 @@
-Mazaganella protensa SPECIES
-=======
+# Mazaganella protensa SPECIES
 
 #### Status
 ACCEPTED

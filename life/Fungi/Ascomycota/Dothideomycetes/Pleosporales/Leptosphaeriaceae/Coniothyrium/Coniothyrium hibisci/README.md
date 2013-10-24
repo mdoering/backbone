@@ -1,5 +1,4 @@
-Coniothyrium hibisci (Berk.) Tassi SPECIES
-=======
+# Coniothyrium hibisci (Berk.) Tassi SPECIES
 
 #### Status
 ACCEPTED

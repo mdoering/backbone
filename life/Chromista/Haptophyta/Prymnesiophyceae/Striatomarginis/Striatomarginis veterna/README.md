@@ -1,5 +1,4 @@
-Striatomarginis veterna (B. Prins ex A.P. Rood, W.W. Hay, & T. Barnard) F.H. Wind & S.W. Wise SPECIES
-=======
+# Striatomarginis veterna (B. Prins ex A.P. Rood, W.W. Hay, & T. Barnard) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

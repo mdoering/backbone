@@ -1,5 +1,4 @@
-Exobasidium pieridis-taiwanensis Sawada SPECIES
-=======
+# Exobasidium pieridis-taiwanensis Sawada SPECIES
 
 #### Status
 ACCEPTED

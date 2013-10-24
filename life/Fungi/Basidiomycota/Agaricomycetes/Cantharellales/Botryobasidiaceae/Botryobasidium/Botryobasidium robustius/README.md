@@ -1,17 +1,16 @@
-Botryobasidium robustior Pouzar & Hol.-Jech. SPECIES
-=======
+# Botryobasidium robustius Pouzar & Hol.-Jech., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 21(2): 69 (1967)
 
 #### Original name
-Botryobasidium robustior Pouzar & Hol.-Jech.
+Botryobasidium robustius Pouzar & Hol.-Jech., 1967
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clitocybe multiforme Peck SPECIES
-=======
+# Clitocybe multiforme Peck SPECIES
 
 #### Status
 ACCEPTED

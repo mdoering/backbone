@@ -1,5 +1,4 @@
-Roselliniella pannariae Matzer & Hafellner SPECIES
-=======
+# Roselliniella pannariae Matzer & Hafellner SPECIES
 
 #### Status
 ACCEPTED

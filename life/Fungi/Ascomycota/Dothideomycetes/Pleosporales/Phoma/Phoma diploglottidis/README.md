@@ -1,5 +1,4 @@
-Phoma diploglottidis Cooke & Massee SPECIES
-=======
+# Phoma diploglottidis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

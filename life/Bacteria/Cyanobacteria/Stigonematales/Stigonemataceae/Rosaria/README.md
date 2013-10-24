@@ -1,5 +1,4 @@
-Rosaria N. Carter, 1922 GENUS
-=======
+# Rosaria N. Carter, 1922 GENUS
 
 #### Status
 SYNONYM

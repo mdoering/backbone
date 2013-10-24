@@ -1,5 +1,4 @@
-Cercospora asterata G.F. Atk. SPECIES
-=======
+# Cercospora asterata G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

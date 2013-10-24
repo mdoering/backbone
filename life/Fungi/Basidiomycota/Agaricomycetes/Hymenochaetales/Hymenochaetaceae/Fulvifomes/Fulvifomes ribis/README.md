@@ -1,5 +1,4 @@
-Fulvifomes ribis Murrill SPECIES
-=======
+# Fulvifomes ribis Murrill SPECIES
 
 #### Status
 ACCEPTED

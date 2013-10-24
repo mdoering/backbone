@@ -1,5 +1,4 @@
-Boletus percandidus Blum SPECIES
-=======
+# Boletus percandidus Blum SPECIES
 
 #### Status
 ACCEPTED

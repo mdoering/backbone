@@ -1,5 +1,4 @@
-Dicaeoma striatum (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma striatum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

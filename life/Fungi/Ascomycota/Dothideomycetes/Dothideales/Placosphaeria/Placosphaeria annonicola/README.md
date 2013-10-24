@@ -1,8 +1,7 @@
-Placosphaeria anonicola Cif. & Gonz. Frag. SPECIES
-=======
+# Placosphaeria annonicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placosphaeria anonicola Cif. & Gonz. Frag.
+Placosphaeria annonicola Cif. & Gonz. Frag.
 
 ### Remarks
 null

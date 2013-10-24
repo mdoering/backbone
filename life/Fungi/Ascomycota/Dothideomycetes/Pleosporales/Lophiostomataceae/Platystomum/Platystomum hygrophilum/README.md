@@ -1,5 +1,4 @@
-Platystomum hygrophilum (Sacc.) Trevis. SPECIES
-=======
+# Platystomum hygrophilum (Sacc.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

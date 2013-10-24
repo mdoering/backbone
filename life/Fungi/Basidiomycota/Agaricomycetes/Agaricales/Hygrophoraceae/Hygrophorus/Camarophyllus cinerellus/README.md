@@ -1,5 +1,4 @@
-Camarophyllus cinerellus Kühner SPECIES
-=======
+# Camarophyllus cinerellus Kühner SPECIES
 
 #### Status
 ACCEPTED

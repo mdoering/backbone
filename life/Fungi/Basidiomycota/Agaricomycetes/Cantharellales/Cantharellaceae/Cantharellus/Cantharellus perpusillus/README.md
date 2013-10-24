@@ -1,5 +1,4 @@
-Cantharellus perpusillus Velen. SPECIES
-=======
+# Cantharellus perpusillus Velen. SPECIES
 
 #### Status
 ACCEPTED

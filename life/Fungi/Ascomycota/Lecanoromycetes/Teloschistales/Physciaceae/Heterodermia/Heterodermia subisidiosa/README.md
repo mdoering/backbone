@@ -1,5 +1,4 @@
-Heterodermia subisidiosa (Kurok.) Kurok. SPECIES
-=======
+# Heterodermia subisidiosa (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

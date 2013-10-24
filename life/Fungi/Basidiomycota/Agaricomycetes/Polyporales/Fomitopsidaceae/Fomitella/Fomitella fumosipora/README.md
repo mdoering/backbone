@@ -1,5 +1,4 @@
-Fomitella fumosipora (Corner) T. Hatt. SPECIES
-=======
+# Fomitella fumosipora (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

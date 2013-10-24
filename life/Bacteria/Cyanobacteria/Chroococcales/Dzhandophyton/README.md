@@ -1,5 +1,4 @@
-Dzhandophyton P.N. Kolosov, 1975 GENUS
-=======
+# Dzhandophyton P.N. Kolosov, 1975 GENUS
 
 #### Status
 ACCEPTED

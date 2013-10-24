@@ -1,5 +1,4 @@
-Heimatomyces rhynchostoma Thaxt. SPECIES
-=======
+# Heimatomyces rhynchostoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

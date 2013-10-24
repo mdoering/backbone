@@ -1,5 +1,4 @@
-Entomophthora sphaerosperma Fresen., 1856 SPECIES
-=======
+# Entomophthora sphaerosperma Fresen., 1856 SPECIES
 
 #### Status
 ACCEPTED

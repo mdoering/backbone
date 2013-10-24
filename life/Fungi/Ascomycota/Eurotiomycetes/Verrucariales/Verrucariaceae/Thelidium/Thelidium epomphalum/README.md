@@ -1,5 +1,4 @@
-Thelidium epomphalum (Nyl.) Zahlbr. SPECIES
-=======
+# Thelidium epomphalum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

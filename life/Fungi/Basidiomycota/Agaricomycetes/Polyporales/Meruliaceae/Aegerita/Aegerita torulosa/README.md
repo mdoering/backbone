@@ -1,14 +1,13 @@
-Crocysporium torulosum Bonord., 1851 SPECIES
-=======
+# Aegerita torulosa (Bonord.) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handb. Allgem. mykol. (Stuttgart) 79 (1851)
+Syll. fung. (Abellini) 4: 662 (1886)
 
 #### Original name
 Crocysporium torulosum Bonord., 1851

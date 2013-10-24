@@ -1,5 +1,4 @@
-Brunneocorticium pyriforme Sheng H. Wu, 2007 SPECIES
-=======
+# Brunneocorticium pyriforme Sheng H. Wu, 2007 SPECIES
 
 #### Status
 ACCEPTED

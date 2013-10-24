@@ -1,5 +1,4 @@
-Sphaeronaemella wentii Oudem. SPECIES
-=======
+# Sphaeronaemella wentii Oudem. SPECIES
 
 #### Status
 ACCEPTED

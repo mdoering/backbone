@@ -1,5 +1,4 @@
-Leptothyrium protiicola Bat. & I.H. Lima SPECIES
-=======
+# Leptothyrium protiicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

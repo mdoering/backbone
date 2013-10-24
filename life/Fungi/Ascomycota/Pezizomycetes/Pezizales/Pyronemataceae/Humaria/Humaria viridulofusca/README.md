@@ -1,5 +1,4 @@
-Humaria viridulofusca Rehm SPECIES
-=======
+# Humaria viridulofusca Rehm SPECIES
 
 #### Status
 ACCEPTED

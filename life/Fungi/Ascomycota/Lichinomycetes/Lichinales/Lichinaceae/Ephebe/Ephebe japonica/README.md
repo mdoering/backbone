@@ -1,5 +1,4 @@
-Ephebe japonica Asahina & Henssen SPECIES
-=======
+# Ephebe japonica Asahina & Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus saepium Noulet & Dass. SPECIES
-=======
+# Entoloma saepium (Noulet & Dass.) Richon & Roze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Traité sur les Champignons Comestibles (Paris) 155 (1838)
+Fl. champ. com. ven. 92 (1880)
 
 #### Original name
 Agaricus saepium Noulet & Dass.

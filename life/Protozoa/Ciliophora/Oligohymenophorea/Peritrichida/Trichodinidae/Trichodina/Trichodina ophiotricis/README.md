@@ -1,5 +1,4 @@
-Trichodina ophiotricis Fabre-Domergue SPECIES
-=======
+# Trichodina ophiotricis Fabre-Domergue SPECIES
 
 #### Status
 ACCEPTED

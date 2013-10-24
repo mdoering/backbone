@@ -1,14 +1,13 @@
-Cerotelium eviae (Racib.) Arthur, 1917 SPECIES
-=======
+# Dietelia eviae Racib., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 44: 510 (1917)
+Parasit. Alg. Pilze Java's (Jakarta) 1: 23 (1900)
 
 #### Original name
 Dietelia eviae Racib., 1900

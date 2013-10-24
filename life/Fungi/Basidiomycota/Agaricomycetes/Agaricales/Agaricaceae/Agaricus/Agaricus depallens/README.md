@@ -1,5 +1,4 @@
-Agaricus depallens Pers. SPECIES
-=======
+# Agaricus depallens Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia fastigiata Largent SPECIES
-=======
+# Leptonia fastigiata Largent SPECIES
 
 #### Status
 ACCEPTED

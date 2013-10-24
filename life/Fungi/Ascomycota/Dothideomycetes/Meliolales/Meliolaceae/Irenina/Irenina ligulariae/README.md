@@ -1,5 +1,4 @@
-Irenina ligulariae Sawada & W. Yamam. SPECIES
-=======
+# Irenina ligulariae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

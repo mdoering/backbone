@@ -1,5 +1,4 @@
-Gloeocystidium alutaceorubrum Rick SPECIES
-=======
+# Gloeocystidium alutaceorubrum Rick SPECIES
 
 #### Status
 ACCEPTED

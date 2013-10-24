@@ -1,5 +1,4 @@
-Tubulina vulgaris Pers. SPECIES
-=======
+# Tubulina vulgaris Pers. SPECIES
 
 #### Status
 ACCEPTED

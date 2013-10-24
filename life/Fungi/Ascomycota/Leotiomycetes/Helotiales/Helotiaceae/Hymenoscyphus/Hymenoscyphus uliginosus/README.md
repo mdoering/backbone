@@ -1,5 +1,4 @@
-Hymenoscyphus uliginosus (Fr.) SPECIES
-=======
+# Hymenoscyphus uliginosus (Fr.) SPECIES
 
 #### Status
 ACCEPTED

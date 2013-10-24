@@ -1,5 +1,4 @@
-Chaetomeliola phoebes Bat. & H. Maia SPECIES
-=======
+# Chaetomeliola phoebes Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

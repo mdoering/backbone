@@ -1,5 +1,4 @@
-Chytridium mammillatum A. Braun SPECIES
-=======
+# Chytridium mammillatum A. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Scindalma concavum (Cooke) Kuntze, 1898 SPECIES
-=======
+# Fomitopsis concava (Cooke) G. Cunn., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 518 (1898)
+Proc. Linn. Soc. N. S. W. 75: 222 (1950)
 
 #### Original name
 Fomes concavus Cooke, 1890

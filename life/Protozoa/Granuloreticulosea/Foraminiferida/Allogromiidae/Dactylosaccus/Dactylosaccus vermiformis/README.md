@@ -1,5 +1,4 @@
-Dactylosaccus vermiformis Rhumbler, 1894 SPECIES
-=======
+# Dactylosaccus vermiformis Rhumbler, 1894 SPECIES
 
 #### Status
 ACCEPTED

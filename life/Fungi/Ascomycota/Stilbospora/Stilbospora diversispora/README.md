@@ -1,5 +1,4 @@
-Stilbospora diversispora Dias SPECIES
-=======
+# Stilbospora diversispora Dias SPECIES
 
 #### Status
 ACCEPTED

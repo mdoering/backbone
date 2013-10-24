@@ -1,5 +1,4 @@
-Puccinia circumacta Vienn.-Bourg. SPECIES
-=======
+# Puccinia circumacta Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

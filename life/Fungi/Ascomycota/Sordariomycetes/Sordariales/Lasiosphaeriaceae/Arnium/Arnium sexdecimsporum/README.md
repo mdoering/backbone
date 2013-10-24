@@ -1,5 +1,4 @@
-Arnium sexdecimsporum Jeng & J.C. Krug SPECIES
-=======
+# Arnium sexdecimsporum Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

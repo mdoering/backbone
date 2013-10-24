@@ -1,5 +1,4 @@
-Tyromyces mediocris Corner, 1989 SPECIES
-=======
+# Tyromyces mediocris Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

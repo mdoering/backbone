@@ -1,17 +1,16 @@
-Phaeocyphellopsis W.B. Cooke GENUS
-=======
+# Merismodes Earle, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Beih. Sydowia 4: 119 (1961)
+null
 
 #### Original name
-Phaeocyphellopsis W.B. Cooke
+null
 
 ### Remarks
 null

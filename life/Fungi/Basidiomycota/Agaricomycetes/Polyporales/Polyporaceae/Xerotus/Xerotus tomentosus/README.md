@@ -1,5 +1,4 @@
-Xerotus tomentosus Klotzsch SPECIES
-=======
+# Xerotus tomentosus Klotzsch SPECIES
 
 #### Status
 ACCEPTED

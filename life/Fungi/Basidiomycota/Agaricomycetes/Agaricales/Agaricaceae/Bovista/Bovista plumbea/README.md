@@ -1,17 +1,16 @@
-Bovista plumbea f. brevicauda (Velen.) F. Šmarda, 1958 FORM
-=======
+# Bovista plumbea Pers., 1795 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. (Usteri) 15: 4 (1795)
 
 #### Original name
-Bovista brevicauda Velen., 1922
+Bovista plumbea Pers., 1795
 
 ### Remarks
 null

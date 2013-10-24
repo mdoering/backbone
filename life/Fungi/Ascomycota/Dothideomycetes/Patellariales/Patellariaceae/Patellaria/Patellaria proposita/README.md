@@ -1,5 +1,4 @@
-Patellaria proposita (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria proposita (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

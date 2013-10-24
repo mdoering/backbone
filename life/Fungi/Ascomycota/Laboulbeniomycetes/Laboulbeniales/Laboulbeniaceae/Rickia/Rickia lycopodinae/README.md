@@ -1,5 +1,4 @@
-Rickia lycopodinae Thaxt. SPECIES
-=======
+# Rickia lycopodinae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

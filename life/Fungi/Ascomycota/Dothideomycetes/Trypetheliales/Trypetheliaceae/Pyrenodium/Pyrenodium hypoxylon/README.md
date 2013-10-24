@@ -1,5 +1,4 @@
-Pyrenodium hypoxylon Fée SPECIES
-=======
+# Pyrenodium hypoxylon Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella aucubae Mark.-Let. SPECIES
-=======
+# Mycosphaerella aucubae Mark.-Let. SPECIES
 
 #### Status
 ACCEPTED

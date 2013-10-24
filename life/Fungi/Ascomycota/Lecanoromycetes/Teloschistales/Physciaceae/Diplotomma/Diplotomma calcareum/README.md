@@ -1,5 +1,4 @@
-Diplotomma calcareum SPECIES
-=======
+# Diplotomma calcareum SPECIES
 
 #### Status
 ACCEPTED

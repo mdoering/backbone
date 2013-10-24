@@ -1,5 +1,4 @@
-Rosellinia similis Sacc. SPECIES
-=======
+# Rosellinia similis Sacc. SPECIES
 
 #### Status
 ACCEPTED

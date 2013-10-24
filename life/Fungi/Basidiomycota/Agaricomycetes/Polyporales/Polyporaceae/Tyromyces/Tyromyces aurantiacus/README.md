@@ -1,5 +1,4 @@
-Tyromyces aurantiacus (Komarova) Komarova SPECIES
-=======
+# Tyromyces aurantiacus (Komarova) Komarova SPECIES
 
 #### Status
 ACCEPTED

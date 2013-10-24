@@ -1,5 +1,4 @@
-Hypocrea petersii Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea petersii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

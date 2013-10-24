@@ -1,5 +1,4 @@
-Microscypha fuscoparaphysata Raitv. SPECIES
-=======
+# Microscypha fuscoparaphysata Raitv. SPECIES
 
 #### Status
 ACCEPTED

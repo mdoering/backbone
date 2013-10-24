@@ -1,5 +1,4 @@
-Graphium macrocarpum Sacc. SPECIES
-=======
+# Graphium macrocarpum Sacc. SPECIES
 
 #### Status
 ACCEPTED

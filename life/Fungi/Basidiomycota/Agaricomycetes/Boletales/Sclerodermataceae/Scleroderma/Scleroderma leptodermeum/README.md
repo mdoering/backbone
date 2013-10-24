@@ -1,5 +1,4 @@
-Scleroderma leptodermeum (Durieu & Mont.) De Toni SPECIES
-=======
+# Scleroderma leptodermeum (Durieu & Mont.) De Toni SPECIES
 
 #### Status
 ACCEPTED

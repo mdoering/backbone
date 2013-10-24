@@ -1,5 +1,4 @@
-Melampsora puccinioides G. Winter SPECIES
-=======
+# Melampsora puccinioides G. Winter SPECIES
 
 #### Status
 ACCEPTED

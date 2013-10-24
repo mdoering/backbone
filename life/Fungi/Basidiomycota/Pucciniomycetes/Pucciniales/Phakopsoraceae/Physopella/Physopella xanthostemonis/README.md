@@ -1,5 +1,4 @@
-Physopella xanthostemonis (J. Walker) J.A. Simpson, K. Thomas & Grgur. SPECIES
-=======
+# Physopella xanthostemonis (J. Walker) J.A. Simpson, K. Thomas & Grgur. SPECIES
 
 #### Status
 ACCEPTED

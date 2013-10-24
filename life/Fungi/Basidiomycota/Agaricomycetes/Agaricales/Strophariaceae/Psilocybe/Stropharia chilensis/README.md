@@ -1,5 +1,4 @@
-Stropharia chilensis Speg. SPECIES
-=======
+# Stropharia chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

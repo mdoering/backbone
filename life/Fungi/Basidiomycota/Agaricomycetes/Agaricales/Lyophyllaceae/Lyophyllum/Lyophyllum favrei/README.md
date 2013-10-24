@@ -1,14 +1,13 @@
-Tricholoma favrei R. Haller Aar. & R. Haller Suhr, 1949 SPECIES
-=======
+# Lyophyllum favrei (R. Haller Aar. & R. Haller Suhr) R. Haller Aar. & R. Haller Suhr, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 27(9): 132 (1949)
+Schweiz. Z. Pilzk. 28(4): 51 (1950)
 
 #### Original name
 Tricholoma favrei R. Haller Aar. & R. Haller Suhr, 1949

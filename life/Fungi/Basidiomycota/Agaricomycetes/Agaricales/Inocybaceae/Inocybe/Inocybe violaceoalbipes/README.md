@@ -1,5 +1,4 @@
-Inocybe violaceoalbipes G.F. Atk. SPECIES
-=======
+# Inocybe violaceoalbipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus arenicolor Cooke & Massee SPECIES
-=======
+# Agaricus arenicolor Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

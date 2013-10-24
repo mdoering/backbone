@@ -1,5 +1,4 @@
-Lopholiotriletum semiinvolutum Timofeev, 1959 SPECIES
-=======
+# Lopholiotriletum semiinvolutum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

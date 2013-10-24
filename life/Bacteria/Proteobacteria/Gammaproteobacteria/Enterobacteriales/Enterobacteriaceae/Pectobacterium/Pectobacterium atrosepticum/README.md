@@ -1,5 +1,4 @@
-Pectobacterium atrosepticum (van Hall, 1902) Gardan et al., 2003 SPECIES
-=======
+# Pectobacterium atrosepticum (van Hall, 1902) Gardan et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora oligaspora Cocc. SPECIES
-=======
+# Thecaphora oligaspora Cocc. SPECIES
 
 #### Status
 ACCEPTED

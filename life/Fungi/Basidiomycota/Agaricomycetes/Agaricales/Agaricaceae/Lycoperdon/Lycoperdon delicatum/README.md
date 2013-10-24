@@ -1,5 +1,4 @@
-Lycoperdon delicatum Berk. SPECIES
-=======
+# Lycoperdon delicatum Berk. SPECIES
 
 #### Status
 ACCEPTED

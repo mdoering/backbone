@@ -1,5 +1,4 @@
-Vermiculariopsiella cubensis (R.F. Castañeda) Nawawi, Kuthub. & B. Sutton SPECIES
-=======
+# Vermiculariopsiella cubensis (R.F. Castañeda) Nawawi, Kuthub. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

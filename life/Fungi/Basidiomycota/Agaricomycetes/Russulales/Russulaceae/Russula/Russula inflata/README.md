@@ -1,5 +1,4 @@
-Russula inflata Buyck SPECIES
-=======
+# Russula inflata Buyck SPECIES
 
 #### Status
 ACCEPTED

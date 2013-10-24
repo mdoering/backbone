@@ -1,5 +1,4 @@
-Triposporium lambdaseptatum (Matsush.) Kuthub. & Nawawi SPECIES
-=======
+# Triposporium lambdaseptatum (Matsush.) Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

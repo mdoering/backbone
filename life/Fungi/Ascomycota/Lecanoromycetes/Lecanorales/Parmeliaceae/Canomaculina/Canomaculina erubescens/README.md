@@ -1,14 +1,13 @@
-Parmelia erubescens Stirt. SPECIES
-=======
+# Canomaculina erubescens (Stirt.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. Natural. 4: 201 (1878)
+Mycotaxon 65: 477 (1997)
 
 #### Original name
 Parmelia erubescens Stirt.

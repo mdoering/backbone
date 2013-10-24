@@ -1,14 +1,13 @@
-Galea D. Maier, 1959 GENUS
-=======
+# Chiropteridium H. Gocht, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Neues Jb. Geol. Paläont. Abh. 107 (3): 305.
+null
 
 #### Original name
 null

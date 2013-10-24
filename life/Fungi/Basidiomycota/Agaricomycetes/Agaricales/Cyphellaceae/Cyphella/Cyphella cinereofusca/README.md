@@ -1,5 +1,4 @@
-Cyphella cinereofusca (Schwein.) Sacc. SPECIES
-=======
+# Cyphella cinereofusca (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

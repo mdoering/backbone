@@ -1,5 +1,4 @@
-Metasphaeria metuloidea (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Metasphaeria metuloidea (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

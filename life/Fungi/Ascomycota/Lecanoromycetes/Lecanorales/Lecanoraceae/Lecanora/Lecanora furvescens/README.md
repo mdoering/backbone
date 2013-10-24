@@ -1,5 +1,4 @@
-Lecanora furvescens (Flagey) Nyl. SPECIES
-=======
+# Lecanora furvescens (Flagey) Nyl. SPECIES
 
 #### Status
 ACCEPTED

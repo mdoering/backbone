@@ -1,5 +1,4 @@
-Micropeltis mucosa Syd. & P. Syd. SPECIES
-=======
+# Micropeltis mucosa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

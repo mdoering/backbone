@@ -1,5 +1,4 @@
-Marasmiellus nodosus Halling SPECIES
-=======
+# Marasmiellus nodosus Halling SPECIES
 
 #### Status
 ACCEPTED

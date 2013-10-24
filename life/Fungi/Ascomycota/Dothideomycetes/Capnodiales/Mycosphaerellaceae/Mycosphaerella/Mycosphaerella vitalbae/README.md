@@ -1,5 +1,4 @@
-Mycosphaerella vitalbae (Pass.) Petr. SPECIES
-=======
+# Mycosphaerella vitalbae (Pass.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thuricola obconica Kahl, 1933 SPECIES
-=======
+# Thuricola obconica Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysteronaevia cincturata Nannf. SPECIES
-=======
+# Hysteronaevia cincturata Nannf. SPECIES
 
 #### Status
 ACCEPTED

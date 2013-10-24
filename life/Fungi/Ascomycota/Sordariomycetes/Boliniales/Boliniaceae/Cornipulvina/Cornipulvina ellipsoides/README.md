@@ -1,5 +1,4 @@
-Cornipulvina ellipsoides Huhndorf, A.N. Mill., F.A. Fernández & Lodge, 2005 SPECIES
-=======
+# Cornipulvina ellipsoides Huhndorf, A.N. Mill., F.A. Fernández & Lodge, 2005 SPECIES
 
 #### Status
 ACCEPTED

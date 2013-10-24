@@ -1,5 +1,4 @@
-Phyllosticta staphyleicola Oudem. SPECIES
-=======
+# Phyllosticta staphyleicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta carpinea Sacc. SPECIES
-=======
+# Ascochyta carpinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

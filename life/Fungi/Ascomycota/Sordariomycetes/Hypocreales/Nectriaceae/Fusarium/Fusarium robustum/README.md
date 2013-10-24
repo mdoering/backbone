@@ -1,5 +1,4 @@
-Fusarium robustum Gerlach, 1977 SPECIES
-=======
+# Fusarium robustum Gerlach, 1977 SPECIES
 
 #### Status
 ACCEPTED

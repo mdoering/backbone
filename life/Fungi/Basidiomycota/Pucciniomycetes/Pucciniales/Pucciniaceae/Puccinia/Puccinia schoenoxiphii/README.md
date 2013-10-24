@@ -1,5 +1,4 @@
-Puccinia schoenoxiphii Doidge SPECIES
-=======
+# Puccinia schoenoxiphii Doidge SPECIES
 
 #### Status
 ACCEPTED

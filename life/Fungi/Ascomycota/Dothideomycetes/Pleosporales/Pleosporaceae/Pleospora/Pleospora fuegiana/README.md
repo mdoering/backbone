@@ -1,5 +1,4 @@
-Pleospora fuegiana Speg. SPECIES
-=======
+# Pleospora fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera longissima M.Y. Li SPECIES
-=======
+# Microsphaera longissima M.Y. Li SPECIES
 
 #### Status
 ACCEPTED

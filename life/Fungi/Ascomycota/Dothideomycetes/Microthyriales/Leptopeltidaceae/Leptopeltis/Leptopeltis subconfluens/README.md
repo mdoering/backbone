@@ -1,5 +1,4 @@
-Leptopeltis subconfluens (Peck) M.E. Barr SPECIES
-=======
+# Leptopeltis subconfluens (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

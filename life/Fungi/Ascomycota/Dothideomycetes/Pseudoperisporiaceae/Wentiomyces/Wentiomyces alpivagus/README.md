@@ -1,5 +1,4 @@
-Wentiomyces alpivagus Nograsek SPECIES
-=======
+# Wentiomyces alpivagus Nograsek SPECIES
 
 #### Status
 ACCEPTED

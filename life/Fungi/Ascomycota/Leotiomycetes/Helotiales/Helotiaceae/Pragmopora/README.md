@@ -1,5 +1,4 @@
-Pragmopora A. Massal. GENUS
-=======
+# Pragmopora A. Massal. GENUS
 
 #### Status
 ACCEPTED

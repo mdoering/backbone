@@ -1,5 +1,4 @@
-Spermospora taiwanensis Matsush. SPECIES
-=======
+# Spermospora taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

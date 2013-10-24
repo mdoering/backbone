@@ -1,5 +1,4 @@
-Nesterenkonia halotolerans Li et al., 2004 SPECIES
-=======
+# Nesterenkonia halotolerans Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

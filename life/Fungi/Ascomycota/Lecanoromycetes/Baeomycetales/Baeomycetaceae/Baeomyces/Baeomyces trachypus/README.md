@@ -1,5 +1,4 @@
-Baeomyces trachypus Nyl. SPECIES
-=======
+# Baeomyces trachypus Nyl. SPECIES
 
 #### Status
 ACCEPTED

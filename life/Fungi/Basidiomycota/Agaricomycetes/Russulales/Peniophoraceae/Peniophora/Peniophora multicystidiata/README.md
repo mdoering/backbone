@@ -1,5 +1,4 @@
-Peniophora multicystidiata C.E. Gómez, 1976 SPECIES
-=======
+# Peniophora multicystidiata C.E. Gómez, 1976 SPECIES
 
 #### Status
 ACCEPTED

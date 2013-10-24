@@ -1,5 +1,4 @@
-Botrytis sporotrichoides P. Karst. SPECIES
-=======
+# Botrytis sporotrichoides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

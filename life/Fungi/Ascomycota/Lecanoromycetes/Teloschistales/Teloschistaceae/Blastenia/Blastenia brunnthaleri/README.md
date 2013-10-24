@@ -1,5 +1,4 @@
-Blastenia brunnthaleri Zahlbr. SPECIES
-=======
+# Blastenia brunnthaleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

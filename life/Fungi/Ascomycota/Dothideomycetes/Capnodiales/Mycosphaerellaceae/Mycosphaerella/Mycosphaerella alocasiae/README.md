@@ -1,17 +1,16 @@
-Sphaerella alocasiae (Syd. & P. Syd.) Trotter, 1928 SPECIES
-=======
+# Mycosphaerella alocasiae Syd. & P. Syd., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 8(3): 195 (1913)
 
 #### Original name
-null
+Mycosphaerella alocasiae Syd. & P. Syd., 1913
 
 ### Remarks
 null

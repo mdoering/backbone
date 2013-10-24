@@ -1,5 +1,4 @@
-Johannesbaptistia De Toni, 1934 GENUS
-=======
+# Johannesbaptistia De Toni, 1934 GENUS
 
 #### Status
 ACCEPTED

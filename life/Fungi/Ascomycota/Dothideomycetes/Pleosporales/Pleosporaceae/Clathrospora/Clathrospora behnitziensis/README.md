@@ -1,5 +1,4 @@
-Clathrospora behnitziensis Kirschst. SPECIES
-=======
+# Clathrospora behnitziensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

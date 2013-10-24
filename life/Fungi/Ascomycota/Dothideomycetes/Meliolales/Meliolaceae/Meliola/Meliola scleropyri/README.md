@@ -1,5 +1,4 @@
-Meliola scleropyri Hosag. SPECIES
-=======
+# Meliola scleropyri Hosag. SPECIES
 
 #### Status
 ACCEPTED

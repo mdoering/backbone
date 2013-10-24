@@ -1,5 +1,4 @@
-Micrhystridium coronatum Stockmans & Willière, 1963 SPECIES
-=======
+# Micrhystridium coronatum Stockmans & Willière, 1963 SPECIES
 
 #### Status
 ACCEPTED

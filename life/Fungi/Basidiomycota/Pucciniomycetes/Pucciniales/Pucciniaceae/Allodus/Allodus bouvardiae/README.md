@@ -1,5 +1,4 @@
-Allodus bouvardiae (Griffiths) Orton SPECIES
-=======
+# Allodus bouvardiae (Griffiths) Orton SPECIES
 
 #### Status
 ACCEPTED

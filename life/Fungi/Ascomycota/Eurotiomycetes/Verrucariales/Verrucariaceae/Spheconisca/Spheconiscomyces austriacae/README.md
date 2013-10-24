@@ -1,5 +1,4 @@
-Spheconiscomyces austriacae Cif. & Tomas. SPECIES
-=======
+# Spheconiscomyces austriacae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synura favus Bradley SPECIES
-=======
+# Synura favus Bradley SPECIES
 
 #### Status
 ACCEPTED

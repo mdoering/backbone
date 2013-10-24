@@ -1,5 +1,4 @@
-Cortinarius lacteus Gasparini SPECIES
-=======
+# Cortinarius lacteus Gasparini SPECIES
 
 #### Status
 ACCEPTED

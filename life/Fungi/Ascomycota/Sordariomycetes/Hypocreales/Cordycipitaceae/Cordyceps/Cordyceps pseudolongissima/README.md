@@ -1,5 +1,4 @@
-Cordyceps pseudolongissima Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps pseudolongissima Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola opuntiae Hansf. SPECIES
-=======
+# Meliola opuntiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanomycopsis saprophytica Karling, 1968 SPECIES
-=======
+# Aphanomycopsis saprophytica Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Winteria valsarioides Rehm SPECIES
-=======
+# Winteria valsarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

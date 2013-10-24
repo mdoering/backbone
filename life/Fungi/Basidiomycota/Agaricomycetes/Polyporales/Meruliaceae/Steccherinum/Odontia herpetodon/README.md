@@ -1,5 +1,4 @@
-Odontia herpetodon (Lév.) Rick SPECIES
-=======
+# Odontia herpetodon (Lév.) Rick SPECIES
 
 #### Status
 ACCEPTED

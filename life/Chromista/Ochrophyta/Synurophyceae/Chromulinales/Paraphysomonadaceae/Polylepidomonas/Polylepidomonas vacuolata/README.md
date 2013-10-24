@@ -1,8 +1,7 @@
-Paraphysomonas vacuolata H.A. Thomsen SPECIES
-=======
+# Polylepidomonas vacuolata (H.A. Thomsen) Preisig & D.J.Hibberd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

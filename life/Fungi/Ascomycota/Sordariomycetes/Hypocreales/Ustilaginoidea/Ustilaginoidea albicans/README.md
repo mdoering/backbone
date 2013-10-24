@@ -1,5 +1,4 @@
-Ustilaginoidea albicans Shu Wang & J.K. Bai SPECIES
-=======
+# Ustilaginoidea albicans Shu Wang & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

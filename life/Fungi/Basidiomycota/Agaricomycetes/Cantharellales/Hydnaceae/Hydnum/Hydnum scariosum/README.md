@@ -1,5 +1,4 @@
-Hydnum scariosum Berk. & Broome ex Cooke SPECIES
-=======
+# Hydnum scariosum Berk. & Broome ex Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces cedrelae (Henn.) Henn. SPECIES
-=======
+# Uromyces cedrelae (Henn.) Henn. SPECIES
 
 #### Status
 ACCEPTED

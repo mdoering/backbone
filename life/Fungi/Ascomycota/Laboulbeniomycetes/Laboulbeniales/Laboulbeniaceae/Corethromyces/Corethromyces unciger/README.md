@@ -1,5 +1,4 @@
-Corethromyces unciger Thaxt. SPECIES
-=======
+# Corethromyces unciger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

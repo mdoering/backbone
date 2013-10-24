@@ -1,5 +1,4 @@
-Boletus scalaris Schrank SPECIES
-=======
+# Boletus scalaris Schrank SPECIES
 
 #### Status
 ACCEPTED

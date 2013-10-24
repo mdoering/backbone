@@ -1,5 +1,4 @@
-Ocellularia croceoisidiata Sipman SPECIES
-=======
+# Ocellularia croceoisidiata Sipman SPECIES
 
 #### Status
 ACCEPTED

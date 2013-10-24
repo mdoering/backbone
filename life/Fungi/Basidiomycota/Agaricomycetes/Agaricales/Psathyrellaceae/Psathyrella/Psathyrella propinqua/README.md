@@ -1,5 +1,4 @@
-Psathyrella propinqua A.H. Sm. SPECIES
-=======
+# Psathyrella propinqua A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

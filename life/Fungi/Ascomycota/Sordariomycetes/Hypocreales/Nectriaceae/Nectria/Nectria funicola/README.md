@@ -1,14 +1,13 @@
-Nectriella funicola (Berk. & Broome) Petch, 1937 SPECIES
-=======
+# Nectria funicola Berk. & Broome, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist 35: 281 (1937)
+British Fungi 7: no. 611 (1860)
 
 #### Original name
 Nectria funicola Berk. & Broome, 1860

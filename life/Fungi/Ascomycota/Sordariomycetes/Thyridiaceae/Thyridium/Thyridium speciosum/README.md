@@ -1,5 +1,4 @@
-Thyridium speciosum Petr. SPECIES
-=======
+# Thyridium speciosum Petr. SPECIES
 
 #### Status
 ACCEPTED

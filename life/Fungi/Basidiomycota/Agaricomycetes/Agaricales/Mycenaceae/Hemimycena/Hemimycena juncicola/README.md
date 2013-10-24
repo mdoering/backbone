@@ -1,5 +1,4 @@
-Hemimycena juncicola Noordel. & Antonín SPECIES
-=======
+# Hemimycena juncicola Noordel. & Antonín SPECIES
 
 #### Status
 ACCEPTED

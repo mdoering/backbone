@@ -1,5 +1,4 @@
-Exidia guttata Bref. SPECIES
-=======
+# Exidia guttata Bref. SPECIES
 
 #### Status
 ACCEPTED

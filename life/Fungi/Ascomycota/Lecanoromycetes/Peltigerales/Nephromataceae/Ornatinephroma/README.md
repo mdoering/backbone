@@ -1,5 +1,4 @@
-Ornatinephroma GENUS
-=======
+# Ornatinephroma GENUS
 
 #### Status
 ACCEPTED

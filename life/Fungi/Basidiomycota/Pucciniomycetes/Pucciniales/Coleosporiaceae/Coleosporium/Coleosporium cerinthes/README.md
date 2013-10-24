@@ -1,17 +1,16 @@
-Coleosporium cerinthos J. Schröt. SPECIES
-=======
+# Coleosporium cerinthes J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 370 (1887)
 
 #### Original name
-Coleosporium cerinthos J. Schröt.
+Coleosporium cerinthes J. Schröt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Corticium propinguum SPECIES
-=======
+# Corticium propinguum SPECIES
 
 #### Status
 ACCEPTED

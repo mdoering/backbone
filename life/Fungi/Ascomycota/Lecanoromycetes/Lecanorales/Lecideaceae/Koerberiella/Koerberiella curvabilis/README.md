@@ -1,5 +1,4 @@
-Koerberiella curvabilis (Nyl.) Motyka SPECIES
-=======
+# Koerberiella curvabilis (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

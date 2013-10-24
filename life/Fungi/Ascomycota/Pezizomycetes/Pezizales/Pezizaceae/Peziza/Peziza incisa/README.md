@@ -1,5 +1,4 @@
-Peziza incisa Pers. SPECIES
-=======
+# Peziza incisa Pers. SPECIES
 
 #### Status
 ACCEPTED

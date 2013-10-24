@@ -1,5 +1,4 @@
-Fusarium allescheri Sacc. & P. Syd. SPECIES
-=======
+# Fusarium allescheri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

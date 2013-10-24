@@ -1,5 +1,4 @@
-Gyromyces ammonis Göpp. SPECIES
-=======
+# Gyromyces ammonis Göpp. SPECIES
 
 #### Status
 ACCEPTED

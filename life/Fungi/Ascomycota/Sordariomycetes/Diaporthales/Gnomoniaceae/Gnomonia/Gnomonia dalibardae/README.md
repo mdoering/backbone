@@ -1,5 +1,4 @@
-Gnomonia dalibardae M.E. Barr SPECIES
-=======
+# Gnomonia dalibardae M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

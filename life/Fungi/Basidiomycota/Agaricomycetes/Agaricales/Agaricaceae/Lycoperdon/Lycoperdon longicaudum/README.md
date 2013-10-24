@@ -1,5 +1,4 @@
-Lycoperdon longicaudum Henn. SPECIES
-=======
+# Lycoperdon longicaudum Henn. SPECIES
 
 #### Status
 ACCEPTED

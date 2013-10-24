@@ -1,5 +1,4 @@
-Tubercularia jodinae Speg. SPECIES
-=======
+# Tubercularia jodinae Speg. SPECIES
 
 #### Status
 ACCEPTED

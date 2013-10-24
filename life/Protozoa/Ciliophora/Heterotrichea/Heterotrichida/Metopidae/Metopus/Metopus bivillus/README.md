@@ -1,5 +1,4 @@
-Metopus bivillus Tucolesco, 1962 SPECIES
-=======
+# Metopus bivillus Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

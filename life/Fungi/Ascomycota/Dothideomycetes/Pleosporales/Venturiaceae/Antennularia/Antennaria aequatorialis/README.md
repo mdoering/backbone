@@ -1,5 +1,4 @@
-Antennaria aequatorialis Speg. SPECIES
-=======
+# Antennaria aequatorialis Speg. SPECIES
 
 #### Status
 ACCEPTED

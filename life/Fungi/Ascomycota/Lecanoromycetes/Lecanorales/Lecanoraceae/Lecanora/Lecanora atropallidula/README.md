@@ -1,5 +1,4 @@
-Lecanora atropallidula Nyl. SPECIES
-=======
+# Lecanora atropallidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

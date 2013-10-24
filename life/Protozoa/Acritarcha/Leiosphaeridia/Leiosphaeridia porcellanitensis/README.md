@@ -1,5 +1,4 @@
-Leiosphaeridia porcellanitensis Nautiyal, 1983 SPECIES
-=======
+# Leiosphaeridia porcellanitensis Nautiyal, 1983 SPECIES
 
 #### Status
 ACCEPTED

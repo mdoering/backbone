@@ -1,5 +1,4 @@
-Biatora subuliginosa (Nyl.) Arnold SPECIES
-=======
+# Biatora subuliginosa (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

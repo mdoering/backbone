@@ -1,5 +1,4 @@
-Stictis filicicocola var. filicicocola VARIETY
-=======
+# Stictis filicicocola SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictis filicicocola var. filicicocola
+Stictis filicicocola
 
 ### Remarks
 null

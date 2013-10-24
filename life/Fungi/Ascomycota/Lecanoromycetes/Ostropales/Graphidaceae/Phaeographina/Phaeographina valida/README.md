@@ -1,5 +1,4 @@
-Phaeographina valida Zahlbr. SPECIES
-=======
+# Phaeographina valida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

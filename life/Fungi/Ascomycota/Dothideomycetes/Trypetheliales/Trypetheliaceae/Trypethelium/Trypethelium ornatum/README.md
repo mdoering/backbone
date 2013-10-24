@@ -1,5 +1,4 @@
-Trypethelium ornatum (Müll. Arg.) Hellb. SPECIES
-=======
+# Trypethelium ornatum (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

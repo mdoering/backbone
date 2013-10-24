@@ -1,17 +1,16 @@
-Phytophthora vignae f. sp FORM
-=======
+# Phytophthora vignae Purss, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. phytopath. Soc. Japan 52(4): 583 (1986)
+Queensland J. agric. Anim. Sci. 14: 141 (1957)
 
 #### Original name
-Phytophthora vignae f. sp
+Phytophthora vignae Purss, 1957
 
 ### Remarks
 null

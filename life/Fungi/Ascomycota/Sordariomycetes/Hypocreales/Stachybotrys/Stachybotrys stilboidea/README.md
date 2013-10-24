@@ -1,5 +1,4 @@
-Stachybotrys stilboidea Munjal & J.N. Kapoor SPECIES
-=======
+# Stachybotrys stilboidea Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

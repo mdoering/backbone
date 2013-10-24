@@ -1,5 +1,4 @@
-Graphis perstriatula Nyl. SPECIES
-=======
+# Graphis perstriatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

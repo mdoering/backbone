@@ -1,5 +1,4 @@
-Physcia subdimidiata SPECIES
-=======
+# Physcia subdimidiata SPECIES
 
 #### Status
 ACCEPTED

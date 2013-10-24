@@ -1,5 +1,4 @@
-Nidularia complanata Fr. SPECIES
-=======
+# Nidularia complanata Fr. SPECIES
 
 #### Status
 ACCEPTED

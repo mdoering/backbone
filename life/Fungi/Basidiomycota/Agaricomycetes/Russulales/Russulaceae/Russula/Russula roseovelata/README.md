@@ -1,5 +1,4 @@
-Russula roseovelata Buyck SPECIES
-=======
+# Russula roseovelata Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium gypsophilae Sandu SPECIES
-=======
+# Oidium gypsophilae Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polarella glacialis M. Montresor, G. Procaccini & D.K. Stoecker SPECIES
-=======
+# Polarella glacialis M. Montresor, G. Procaccini & D.K. Stoecker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea destruens Thélohan, 1891 SPECIES
-=======
+# Glugea destruens Thélohan, 1891 SPECIES
 
 #### Status
 ACCEPTED

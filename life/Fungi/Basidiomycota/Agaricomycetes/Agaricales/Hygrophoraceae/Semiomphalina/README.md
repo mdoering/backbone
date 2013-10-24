@@ -1,5 +1,4 @@
-Semiomphalina Redhead GENUS
-=======
+# Semiomphalina Redhead GENUS
 
 #### Status
 ACCEPTED

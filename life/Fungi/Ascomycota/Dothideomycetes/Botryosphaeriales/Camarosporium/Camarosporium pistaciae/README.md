@@ -1,5 +1,4 @@
-Camarosporium pistaciae Zachos, Tzav.-Klon. & Roubos, 1974 SPECIES
-=======
+# Camarosporium pistaciae Zachos, Tzav.-Klon. & Roubos, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nocardia pseudobrasiliensis Ruimy et al., 1996 SPECIES
-=======
+# Nocardia pseudobrasiliensis Ruimy et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia batistae D. Rao SPECIES
-=======
+# Periconia batistae D. Rao SPECIES
 
 #### Status
 ACCEPTED

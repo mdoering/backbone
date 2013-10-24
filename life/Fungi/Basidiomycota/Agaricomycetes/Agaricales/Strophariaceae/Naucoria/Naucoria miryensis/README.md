@@ -1,5 +1,4 @@
-Naucoria miryensis Henn. SPECIES
-=======
+# Naucoria miryensis Henn. SPECIES
 
 #### Status
 ACCEPTED

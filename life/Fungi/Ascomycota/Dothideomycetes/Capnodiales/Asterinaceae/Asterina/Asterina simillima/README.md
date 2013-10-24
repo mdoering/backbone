@@ -1,5 +1,4 @@
-Asterina simillima Syd. & P. Syd. SPECIES
-=======
+# Asterina simillima Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

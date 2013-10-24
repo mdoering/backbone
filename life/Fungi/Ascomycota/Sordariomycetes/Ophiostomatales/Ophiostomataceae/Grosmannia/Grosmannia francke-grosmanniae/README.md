@@ -1,14 +1,13 @@
-Ophiostoma francke-grosmanniae (R.W. Davidson) de Hoog & R.J. Scheff., 1984 SPECIES
-=======
+# Grosmannia francke-grosmanniae (R.W. Davidson) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 76(2): 297 (1984)
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 90 (2006)
 
 #### Original name
 Ceratocystis francke-grosmanniae R.W. Davidson, 1971

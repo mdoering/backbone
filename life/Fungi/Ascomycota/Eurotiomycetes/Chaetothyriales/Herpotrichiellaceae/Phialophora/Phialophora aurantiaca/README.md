@@ -1,5 +1,4 @@
-Phialophora aurantiaca J.F.H. Beyma SPECIES
-=======
+# Phialophora aurantiaca J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

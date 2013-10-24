@@ -1,5 +1,4 @@
-Merisma atra Secr. SPECIES
-=======
+# Merisma atra Secr. SPECIES
 
 #### Status
 ACCEPTED

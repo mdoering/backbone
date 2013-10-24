@@ -1,5 +1,4 @@
-Mesocena elliptica var. quadrangula (Ehrenberg ex Haeckel) M. Hajós VARIETY
-=======
+# Mesocena elliptica SPECIES
 
 #### Status
 ACCEPTED

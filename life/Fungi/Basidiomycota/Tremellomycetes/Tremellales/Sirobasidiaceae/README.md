@@ -1,5 +1,4 @@
-Sirobasidiaceae FAMILY
-=======
+# Sirobasidiaceae FAMILY
 
 #### Status
 ACCEPTED

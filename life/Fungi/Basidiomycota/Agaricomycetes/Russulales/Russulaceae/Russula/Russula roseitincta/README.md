@@ -1,5 +1,4 @@
-Russula roseitincta Murrill SPECIES
-=======
+# Russula roseitincta Murrill SPECIES
 
 #### Status
 ACCEPTED

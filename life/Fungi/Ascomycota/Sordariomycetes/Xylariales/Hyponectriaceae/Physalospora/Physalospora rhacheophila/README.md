@@ -1,5 +1,4 @@
-Physalospora rhacheophila Sacc. SPECIES
-=======
+# Physalospora rhacheophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

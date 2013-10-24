@@ -1,5 +1,4 @@
-Amanita sinuatus Schumach. SPECIES
-=======
+# Amanita sinuatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

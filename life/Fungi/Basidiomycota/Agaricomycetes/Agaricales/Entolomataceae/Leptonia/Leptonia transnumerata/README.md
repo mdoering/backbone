@@ -1,5 +1,4 @@
-Leptonia transnumerata (Britzelm.) Sacc. SPECIES
-=======
+# Leptonia transnumerata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

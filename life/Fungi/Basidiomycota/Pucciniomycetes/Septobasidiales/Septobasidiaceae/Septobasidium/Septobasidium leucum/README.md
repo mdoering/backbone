@@ -1,5 +1,4 @@
-Septobasidium leucum Bayl. Ell. & O.P. Stansf. SPECIES
-=======
+# Septobasidium leucum Bayl. Ell. & O.P. Stansf. SPECIES
 
 #### Status
 ACCEPTED

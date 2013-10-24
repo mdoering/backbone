@@ -1,5 +1,4 @@
-Diatrypella rolliniae Speg. SPECIES
-=======
+# Diatrypella rolliniae Speg. SPECIES
 
 #### Status
 ACCEPTED

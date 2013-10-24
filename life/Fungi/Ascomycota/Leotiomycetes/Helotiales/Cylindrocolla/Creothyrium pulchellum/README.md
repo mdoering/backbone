@@ -1,5 +1,4 @@
-Creothyrium pulchellum Petr. SPECIES
-=======
+# Creothyrium pulchellum Petr. SPECIES
 
 #### Status
 ACCEPTED

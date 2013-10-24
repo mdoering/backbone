@@ -1,17 +1,16 @@
-Colletotrichum oligochaetum f. oligochaetum FORM
-=======
+# Colletotrichum orbiculare (Berk. & Mont.) Arx, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. Akad. Vet. Amsterdam 51(3): 112 (1957)
 
 #### Original name
-Colletotrichum oligochaetum f. oligochaetum
+Gloeosporium orbiculare (Berk.) Sacc., 1884
 
 ### Remarks
 null

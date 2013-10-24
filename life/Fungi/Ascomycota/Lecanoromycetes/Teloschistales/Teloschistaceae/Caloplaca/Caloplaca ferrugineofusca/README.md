@@ -1,5 +1,4 @@
-Caloplaca ferrugineofusca (Vain.) H. Magn. SPECIES
-=======
+# Caloplaca ferrugineofusca (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

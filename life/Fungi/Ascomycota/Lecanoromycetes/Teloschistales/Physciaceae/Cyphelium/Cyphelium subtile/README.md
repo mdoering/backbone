@@ -1,5 +1,4 @@
-Cyphelium subtile Körb. SPECIES
-=======
+# Cyphelium subtile Körb. SPECIES
 
 #### Status
 ACCEPTED

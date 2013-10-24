@@ -1,5 +1,4 @@
-Pleurotus laeticolor (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus laeticolor (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

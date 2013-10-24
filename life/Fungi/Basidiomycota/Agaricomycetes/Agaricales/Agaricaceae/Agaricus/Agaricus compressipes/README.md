@@ -1,5 +1,4 @@
-Agaricus compressipes Peck SPECIES
-=======
+# Agaricus compressipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Heterolepa subhaidingeri (Parr, 1950) SPECIES
-=======
+# Cibicidoides subhaidingerii (Parr, 1950) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Sphacelaria brachygonia Montagne, 1843 SPECIES
-=======
+# Sphacelaria brachygonia Montagne, 1843 SPECIES
 
 #### Status
 ACCEPTED

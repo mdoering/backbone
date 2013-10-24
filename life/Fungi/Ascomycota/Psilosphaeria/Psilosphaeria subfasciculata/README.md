@@ -1,5 +1,4 @@
-Psilosphaeria subfasciculata (Schwein.) Cooke SPECIES
-=======
+# Psilosphaeria subfasciculata (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza hymenula Fuckel SPECIES
-=======
+# Peziza hymenula Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collybia lacrimosa R. Heim, 1936 SPECIES
-=======
+# Lactocollybia lacrimosa (R. Heim) Singer, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 1: 246 (1936)
+Schweiz. Z. Pilzk. (1939)
 
 #### Original name
 Collybia lacrimosa R. Heim, 1936

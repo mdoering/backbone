@@ -1,5 +1,4 @@
-Septoria sanguisorbicola Nelen SPECIES
-=======
+# Septoria sanguisorbicola Nelen SPECIES
 
 #### Status
 ACCEPTED

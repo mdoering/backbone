@@ -1,5 +1,4 @@
-Armillariella praecox (Velen.) Singer SPECIES
-=======
+# Armillariella praecox (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

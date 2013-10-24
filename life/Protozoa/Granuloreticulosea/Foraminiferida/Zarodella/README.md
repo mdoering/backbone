@@ -1,5 +1,4 @@
-Zarodella Sosnina, 1981 GENUS
-=======
+# Zarodella Sosnina, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antherospora peglerae (Bubák, Syd. & P. Syd.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
-=======
+# Antherospora peglerae (Bubák, Syd. & P. Syd.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lasiosphaeria britzelmayrii subsp. fennica P. Karst. SUBSPECIES
-=======
+# Chaetosphaeria fennica (P. Karst.) Réblová & W. Gams, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Czech Mycol. 51(1): 24 (1999)
 
 #### Original name
 Lasiosphaeria britzelmayrii subsp. fennica P. Karst.

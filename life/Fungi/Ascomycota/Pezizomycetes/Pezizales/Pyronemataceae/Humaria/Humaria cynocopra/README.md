@@ -1,5 +1,4 @@
-Humaria cynocopra (Dunal) Sacc. SPECIES
-=======
+# Humaria cynocopra (Dunal) Sacc. SPECIES
 
 #### Status
 ACCEPTED

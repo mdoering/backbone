@@ -1,5 +1,4 @@
-Dothichiza dubia Sacc. SPECIES
-=======
+# Dothichiza dubia Sacc. SPECIES
 
 #### Status
 ACCEPTED

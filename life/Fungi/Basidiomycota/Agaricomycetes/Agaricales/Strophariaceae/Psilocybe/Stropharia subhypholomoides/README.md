@@ -1,5 +1,4 @@
-Stropharia subhypholomoides Beeli SPECIES
-=======
+# Stropharia subhypholomoides Beeli SPECIES
 
 #### Status
 ACCEPTED

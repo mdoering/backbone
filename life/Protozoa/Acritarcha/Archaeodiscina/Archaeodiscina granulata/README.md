@@ -1,5 +1,4 @@
-Archaeodiscina granulata Naumova, 1961 SPECIES
-=======
+# Archaeodiscina granulata Naumova, 1961 SPECIES
 
 #### Status
 ACCEPTED

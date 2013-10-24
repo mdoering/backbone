@@ -1,5 +1,4 @@
-Tintinnopsis urniger Entz, 1884 SPECIES
-=======
+# Tintinnopsis urniger Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

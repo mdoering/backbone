@@ -1,5 +1,4 @@
-Meliola trichiliae var. trichiliae VARIETY
-=======
+# Meliola trichiliae Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. bot. État Brux. 7(1): 99 (1920)
 
 #### Original name
-Meliola trichiliae var. trichiliae
+Meliola trichiliae Beeli
 
 ### Remarks
 null

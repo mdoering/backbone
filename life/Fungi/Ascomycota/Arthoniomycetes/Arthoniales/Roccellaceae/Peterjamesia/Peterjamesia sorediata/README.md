@@ -1,14 +1,13 @@
-Sclerophytonomyces circumscriptus var. sorediatus Sparrius, P. James & M.A. Allen VARIETY
-=======
+# Peterjamesia sorediata (Sparrius, P. James & M.A. Allen) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 37(4): 285 (2005)
+Lichenologist 38(2): 187-190 (2006)
 
 #### Original name
 Sclerophytonomyces circumscriptus var. sorediatus Sparrius, P. James & M.A. Allen

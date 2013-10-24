@@ -1,5 +1,4 @@
-Lecidea cacaotina Zahlbr. SPECIES
-=======
+# Lecidea cacaotina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

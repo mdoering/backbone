@@ -1,5 +1,4 @@
-Exosporium rosicola Sacc. SPECIES
-=======
+# Exosporium rosicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

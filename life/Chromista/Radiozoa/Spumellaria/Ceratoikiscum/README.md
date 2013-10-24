@@ -1,5 +1,4 @@
-Ceratoikiscum GENUS
-=======
+# Ceratoikiscum GENUS
 
 #### Status
 ACCEPTED

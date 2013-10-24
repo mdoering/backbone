@@ -1,5 +1,4 @@
-Cercospora abutilonicola Chupp SPECIES
-=======
+# Cercospora abutilonicola Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmotaenium R. Bauer, Begerow, A. Nagler & Oberw. GENUS
-=======
+# Phragmotaenium R. Bauer, Begerow, A. Nagler & Oberw. GENUS
 
 #### Status
 ACCEPTED

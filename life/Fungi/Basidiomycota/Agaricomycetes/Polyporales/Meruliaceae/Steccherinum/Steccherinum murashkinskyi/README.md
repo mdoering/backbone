@@ -1,5 +1,4 @@
-Steccherinum murashkinskyi (Burt) Maas Geest. SPECIES
-=======
+# Steccherinum murashkinskyi (Burt) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

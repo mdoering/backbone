@@ -1,5 +1,4 @@
-Boletus vinaceipallidus Corner SPECIES
-=======
+# Boletus vinaceipallidus Corner SPECIES
 
 #### Status
 ACCEPTED

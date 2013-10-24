@@ -1,5 +1,4 @@
-Enchelys rostrata SPECIES
-=======
+# Enchelys rostrata SPECIES
 
 #### Status
 ACCEPTED

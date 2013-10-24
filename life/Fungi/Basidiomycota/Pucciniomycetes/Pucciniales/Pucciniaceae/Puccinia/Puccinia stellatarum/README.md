@@ -1,5 +1,4 @@
-Puccinia stellatarum Duby SPECIES
-=======
+# Puccinia stellatarum Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia doremae Speschnew SPECIES
-=======
+# Puccinia doremae Speschnew SPECIES
 
 #### Status
 ACCEPTED

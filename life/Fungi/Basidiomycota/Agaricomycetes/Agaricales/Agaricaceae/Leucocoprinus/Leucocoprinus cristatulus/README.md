@@ -1,17 +1,16 @@
-Leucocoprinus cristatula (Rick) Raithelh. SPECIES
-=======
+# Leucocoprinus cristatulus (Rick) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 15(1): 13 (1987)
 
 #### Original name
-Lepiota cristatula
+Lepiota cristulata Rick
 
 ### Remarks
 null

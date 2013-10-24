@@ -1,5 +1,4 @@
-Lecidea nitidella Vain. SPECIES
-=======
+# Lecidea nitidella Vain. SPECIES
 
 #### Status
 ACCEPTED

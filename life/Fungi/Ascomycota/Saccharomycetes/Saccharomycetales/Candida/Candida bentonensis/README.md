@@ -1,5 +1,4 @@
-Candida bentonensis Kurtzman SPECIES
-=======
+# Candida bentonensis Kurtzman SPECIES
 
 #### Status
 ACCEPTED

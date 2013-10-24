@@ -1,5 +1,4 @@
-Tilletia banarasae Pavgi & Thirum. SPECIES
-=======
+# Tilletia banarasae Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atla praetermissa Savic & Tibell SPECIES
-=======
+# Atla praetermissa Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED

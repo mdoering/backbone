@@ -1,5 +1,4 @@
-Sordaria superior (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Sordaria superior (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

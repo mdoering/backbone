@@ -1,5 +1,4 @@
-Colletotrichum caspsici (Syd.) Sawada SPECIES
-=======
+# Colletotrichum caspsici (Syd.) Sawada SPECIES
 
 #### Status
 ACCEPTED

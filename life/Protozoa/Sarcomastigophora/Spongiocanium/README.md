@@ -1,5 +1,4 @@
-Spongiocanium Nishimura, 1990 GENUS
-=======
+# Spongiocanium Nishimura, 1990 GENUS
 
 #### Status
 ACCEPTED

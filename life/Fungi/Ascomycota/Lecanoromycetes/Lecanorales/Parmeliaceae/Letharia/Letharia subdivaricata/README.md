@@ -1,5 +1,4 @@
-Letharia subdivaricata Frey & Oxner SPECIES
-=======
+# Letharia subdivaricata Frey & Oxner SPECIES
 
 #### Status
 ACCEPTED

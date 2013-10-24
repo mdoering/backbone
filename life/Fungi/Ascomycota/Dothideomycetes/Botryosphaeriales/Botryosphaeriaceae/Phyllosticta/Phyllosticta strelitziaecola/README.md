@@ -1,5 +1,4 @@
-Phyllosticta strelitziaecola Allesch. SPECIES
-=======
+# Phyllosticta strelitziaecola Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidomyces richmondensis B.J. Baker, M.A. Lutz, S.C. Dawson, P.L. Bond & Banfield, 2004 SPECIES
-=======
+# Acidomyces richmondensis B.J. Baker, M.A. Lutz, S.C. Dawson, P.L. Bond & Banfield, 2004 SPECIES
 
 #### Status
 ACCEPTED

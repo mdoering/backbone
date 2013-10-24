@@ -1,5 +1,4 @@
-Dermocybe umbonata Grgur. SPECIES
-=======
+# Dermocybe umbonata Grgur. SPECIES
 
 #### Status
 ACCEPTED

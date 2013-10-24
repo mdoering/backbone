@@ -1,14 +1,13 @@
-Coniochaeta arctespora (Cooke & Ellis) M.E. Barr SPECIES
-=======
+# Coniochaeta arctispora (Cooke & Ellis) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 46: 49 (1993)
 
 #### Original name
 Sphaeria arctispora Cooke & Ellis

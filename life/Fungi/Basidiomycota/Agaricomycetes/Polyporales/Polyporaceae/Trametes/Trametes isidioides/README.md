@@ -1,5 +1,4 @@
-Trametes isidioides Berk. SPECIES
-=======
+# Trametes isidioides Berk. SPECIES
 
 #### Status
 ACCEPTED

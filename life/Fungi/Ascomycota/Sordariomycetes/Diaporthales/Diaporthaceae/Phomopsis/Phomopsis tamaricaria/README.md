@@ -1,5 +1,4 @@
-Phomopsis tamaricaria (Sacc.) Grove SPECIES
-=======
+# Phomopsis tamaricaria (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

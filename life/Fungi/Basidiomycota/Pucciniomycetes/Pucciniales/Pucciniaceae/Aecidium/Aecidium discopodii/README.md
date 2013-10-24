@@ -1,5 +1,4 @@
-Aecidium discopodii Gjaerum SPECIES
-=======
+# Aecidium discopodii Gjaerum SPECIES
 
 #### Status
 ACCEPTED

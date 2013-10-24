@@ -1,5 +1,4 @@
-Pouzaromyces sepiaceobasalis E. Horak SPECIES
-=======
+# Pouzaromyces sepiaceobasalis E. Horak SPECIES
 
 #### Status
 ACCEPTED

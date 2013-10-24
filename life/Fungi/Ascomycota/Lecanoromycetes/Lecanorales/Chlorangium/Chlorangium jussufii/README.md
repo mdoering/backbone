@@ -1,5 +1,4 @@
-Chlorangium jussufii (Link) Link SPECIES
-=======
+# Chlorangium jussufii (Link) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptothyrium lasiacicola Bat. & I.H. Lima SPECIES
-=======
+# Leptothyrium lasiacidicola Bat. & I.H. Lima SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 13(1): 54 (1955)
 
 #### Original name
-Leptothyrium lasiacicola Bat. & I.H. Lima
+Leptothyrium lasiacidicola Bat. & I.H. Lima
 
 ### Remarks
 null

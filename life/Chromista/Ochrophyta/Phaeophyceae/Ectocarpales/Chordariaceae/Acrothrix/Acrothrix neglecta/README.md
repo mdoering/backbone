@@ -1,8 +1,7 @@
-Mesogloia neglecta Batters SPECIES
-=======
+# Acrothrix neglecta (Batters) Kuckuck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

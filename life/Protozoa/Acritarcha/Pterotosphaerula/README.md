@@ -1,5 +1,4 @@
-Pterotosphaerula F.H. Cramer, 1966 GENUS
-=======
+# Pterotosphaerula F.H. Cramer, 1966 GENUS
 
 #### Status
 ACCEPTED

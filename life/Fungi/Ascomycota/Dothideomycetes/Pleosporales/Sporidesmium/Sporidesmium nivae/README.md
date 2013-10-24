@@ -1,5 +1,4 @@
-Sporidesmium nivae W.P. Wu SPECIES
-=======
+# Sporidesmium nivae W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia culmorum Pat. SPECIES
-=======
+# Diplodia culmorum Pat. SPECIES
 
 #### Status
 ACCEPTED

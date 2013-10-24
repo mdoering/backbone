@@ -1,14 +1,13 @@
-Cistella hoehnelii Scheuer, 1988 SPECIES
-=======
+# Psilachnum granulosellum Höhn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 123: 57 (1988)
+in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 3(2): 74 (1926)
 
 #### Original name
 Psilachnum granulosellum Höhn., 1926

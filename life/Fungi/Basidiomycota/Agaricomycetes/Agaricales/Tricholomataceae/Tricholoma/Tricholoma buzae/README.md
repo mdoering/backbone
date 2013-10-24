@@ -1,5 +1,4 @@
-Tricholoma buzae Dennis SPECIES
-=======
+# Tricholoma buzae Dennis SPECIES
 
 #### Status
 ACCEPTED

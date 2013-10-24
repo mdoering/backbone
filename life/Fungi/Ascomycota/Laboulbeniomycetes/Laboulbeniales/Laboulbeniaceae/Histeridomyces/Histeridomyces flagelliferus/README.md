@@ -1,5 +1,4 @@
-Histeridomyces flagelliferus Thaxt., 1931 SPECIES
-=======
+# Histeridomyces flagelliferus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

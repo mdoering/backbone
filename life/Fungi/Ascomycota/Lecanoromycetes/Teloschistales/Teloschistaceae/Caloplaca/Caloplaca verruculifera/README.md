@@ -1,14 +1,13 @@
-Gasparrinia verruculifera (Vain.) Dombr. SPECIES
-=======
+# Caloplaca verruculifera (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Konspekt Flor. Lishainikov Murmanskoioblasti i Severo-Vostochnol Finlyandii [Classification of Lichens found in the Murmansk province of the USSR and North-Eastern Finland], Leningrad 101 (1970)
+Cat. Lich. Univers. 7: 272 (1931)
 
 #### Original name
 Placodium verruculiferum Oxner

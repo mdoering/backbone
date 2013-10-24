@@ -1,5 +1,4 @@
-Trichodina trigonofibulae Zhukov, 1964 SPECIES
-=======
+# Trichodina trigonofibulae Zhukov, 1964 SPECIES
 
 #### Status
 ACCEPTED

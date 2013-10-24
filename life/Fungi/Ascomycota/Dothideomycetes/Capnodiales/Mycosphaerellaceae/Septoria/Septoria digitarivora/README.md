@@ -1,5 +1,4 @@
-Septoria digitarivora R. Sprague SPECIES
-=======
+# Septoria digitarivora R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria chartarum Wallr. SPECIES
-=======
+# Sphaeria chartarum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniolariella hispanica Checa, Arenal & J.D. Rogers, 2008 SPECIES
-=======
+# Coniolariella hispanica Checa, Arenal & J.D. Rogers, 2008 SPECIES
 
 #### Status
 ACCEPTED

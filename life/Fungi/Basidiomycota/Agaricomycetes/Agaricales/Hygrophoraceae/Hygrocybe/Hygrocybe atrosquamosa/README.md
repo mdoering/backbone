@@ -1,5 +1,4 @@
-Hygrocybe atrosquamosa Pegler SPECIES
-=======
+# Hygrocybe atrosquamosa Pegler SPECIES
 
 #### Status
 ACCEPTED

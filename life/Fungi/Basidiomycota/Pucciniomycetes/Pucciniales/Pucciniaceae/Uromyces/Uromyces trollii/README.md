@@ -1,5 +1,4 @@
-Uromyces trollii Kalchbr. SPECIES
-=======
+# Uromyces trollii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

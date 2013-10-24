@@ -1,8 +1,7 @@
-Xenorhabdus nematophila subsp. poinarii SUBSPECIES
-=======
+# Xenorhabdus poinarii (Akhurst, 1983) Akhurst & Boemare, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

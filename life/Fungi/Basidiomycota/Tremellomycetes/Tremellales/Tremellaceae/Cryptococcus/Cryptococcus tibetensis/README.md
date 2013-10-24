@@ -1,5 +1,4 @@
-Cryptococcus tibetensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Cryptococcus tibetensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

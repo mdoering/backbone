@@ -1,5 +1,4 @@
-Fomitopsis rhodophaeus (Lév.) Imaz. SPECIES
-=======
+# Fomitopsis rhodophaeus (Lév.) Imaz. SPECIES
 
 #### Status
 ACCEPTED

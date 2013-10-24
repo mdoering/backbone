@@ -1,5 +1,4 @@
-Urceolaria cupreola Motyka SPECIES
-=======
+# Urceolaria cupreola Motyka SPECIES
 
 #### Status
 ACCEPTED

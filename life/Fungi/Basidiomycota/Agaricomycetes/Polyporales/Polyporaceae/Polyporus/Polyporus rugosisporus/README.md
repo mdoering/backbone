@@ -1,5 +1,4 @@
-Polyporus rugosisporus Audet SPECIES
-=======
+# Polyporus rugosisporus Audet SPECIES
 
 #### Status
 ACCEPTED

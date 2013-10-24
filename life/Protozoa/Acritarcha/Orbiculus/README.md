@@ -1,5 +1,4 @@
-Orbiculus Bagdasaryan, 1980 GENUS
-=======
+# Orbiculus Bagdasaryan, 1980 GENUS
 
 #### Status
 ACCEPTED

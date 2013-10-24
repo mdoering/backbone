@@ -1,5 +1,4 @@
-Clitocybe viscosa Velen. SPECIES
-=======
+# Clitocybe viscosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma lobulatum (Flörke) Samp. SPECIES
-=======
+# Amphiloma lobulatum (Flörke) Samp. SPECIES
 
 #### Status
 ACCEPTED

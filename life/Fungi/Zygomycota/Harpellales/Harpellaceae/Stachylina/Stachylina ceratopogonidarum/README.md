@@ -1,5 +1,4 @@
-Stachylina ceratopogonidarum Lichtw. & Arenas, 1996 SPECIES
-=======
+# Stachylina ceratopogonidarum Lichtw. & Arenas, 1996 SPECIES
 
 #### Status
 ACCEPTED

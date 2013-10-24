@@ -1,5 +1,4 @@
-Exochalara imbricata Hol.-Jech. SPECIES
-=======
+# Exochalara imbricata Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

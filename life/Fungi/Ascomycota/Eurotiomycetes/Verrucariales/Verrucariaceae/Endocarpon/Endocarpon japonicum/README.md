@@ -1,5 +1,4 @@
-Endocarpon japonicum H. Harada SPECIES
-=======
+# Endocarpon japonicum H. Harada SPECIES
 
 #### Status
 ACCEPTED

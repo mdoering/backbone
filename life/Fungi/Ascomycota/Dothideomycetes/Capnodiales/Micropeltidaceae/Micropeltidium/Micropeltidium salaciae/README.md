@@ -1,5 +1,4 @@
-Micropeltidium salaciae Bat. & O.M. Fonseca SPECIES
-=======
+# Micropeltidium salaciae Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

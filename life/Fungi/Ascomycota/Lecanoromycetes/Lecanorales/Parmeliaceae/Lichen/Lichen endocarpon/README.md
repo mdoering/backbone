@@ -1,5 +1,4 @@
-Lichen endocarpon J.F. Gmel. SPECIES
-=======
+# Lichen endocarpon J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

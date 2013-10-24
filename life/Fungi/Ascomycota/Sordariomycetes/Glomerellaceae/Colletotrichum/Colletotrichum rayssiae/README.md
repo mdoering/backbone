@@ -1,5 +1,4 @@
-Colletotrichum rayssiae Massenot SPECIES
-=======
+# Colletotrichum rayssiae Massenot SPECIES
 
 #### Status
 ACCEPTED

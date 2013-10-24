@@ -1,5 +1,4 @@
-Russula luteopulverulenta Buyck SPECIES
-=======
+# Russula luteopulverulenta Buyck SPECIES
 
 #### Status
 ACCEPTED

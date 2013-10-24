@@ -1,5 +1,4 @@
-Lieskeella GENUS
-=======
+# Lieskeella GENUS
 
 #### Status
 ACCEPTED

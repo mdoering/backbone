@@ -1,5 +1,4 @@
-Cladonia albofuscescens Vain. SPECIES
-=======
+# Cladonia albofuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

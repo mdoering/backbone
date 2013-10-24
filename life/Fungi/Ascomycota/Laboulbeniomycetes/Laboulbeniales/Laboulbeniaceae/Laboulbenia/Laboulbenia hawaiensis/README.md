@@ -1,5 +1,4 @@
-Laboulbenia hawaiensis Thaxt. SPECIES
-=======
+# Laboulbenia hawaiensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

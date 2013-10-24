@@ -1,5 +1,4 @@
-Ascochyta cauligena (P. Karst.) Aa & Kesteren SPECIES
-=======
+# Ascochyta cauligena (P. Karst.) Aa & Kesteren SPECIES
 
 #### Status
 ACCEPTED

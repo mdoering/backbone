@@ -1,5 +1,4 @@
-Euplaesiobystra Park, Simpson, Brown & Cho, 2009 GENUS
-=======
+# Euplaesiobystra Park, Simpson, Brown & Cho, 2009 GENUS
 
 #### Status
 ACCEPTED

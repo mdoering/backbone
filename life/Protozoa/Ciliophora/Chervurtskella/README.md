@@ -1,5 +1,4 @@
-Chervurtskella Koshevoj, 1987 GENUS
-=======
+# Chervurtskella Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

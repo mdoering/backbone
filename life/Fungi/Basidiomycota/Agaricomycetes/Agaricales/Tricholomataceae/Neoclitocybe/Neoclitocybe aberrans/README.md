@@ -1,5 +1,4 @@
-Neoclitocybe aberrans Singer SPECIES
-=======
+# Neoclitocybe aberrans Singer SPECIES
 
 #### Status
 ACCEPTED

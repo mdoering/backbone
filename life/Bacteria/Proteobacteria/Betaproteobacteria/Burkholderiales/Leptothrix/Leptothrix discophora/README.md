@@ -1,11 +1,10 @@
-Leptothrix crassa Cholodny, 1924 SPECIES
-=======
+# Leptothrix discophora (ex Schwers, 1912) Spring et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

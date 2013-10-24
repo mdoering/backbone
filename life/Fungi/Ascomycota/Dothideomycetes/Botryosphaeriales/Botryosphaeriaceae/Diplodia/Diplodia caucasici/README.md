@@ -1,5 +1,4 @@
-Diplodia caucasici Gucevic SPECIES
-=======
+# Diplodia caucasici Gucevic SPECIES
 
 #### Status
 ACCEPTED

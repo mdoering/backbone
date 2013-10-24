@@ -1,5 +1,4 @@
-Epistylis diaptomi subsp. diaptomi SUBSPECIES
-=======
+# Epistylis diaptomi Faure-Fremiet, 1905 SPECIES
 
 #### Status
 ACCEPTED

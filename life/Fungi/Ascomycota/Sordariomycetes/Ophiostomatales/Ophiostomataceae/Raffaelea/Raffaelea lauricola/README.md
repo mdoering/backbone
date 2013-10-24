@@ -1,5 +1,4 @@
-Raffaelea lauricola T.C. Harr., Fraedrich & Aghayeva SPECIES
-=======
+# Raffaelea lauricola T.C. Harr., Fraedrich & Aghayeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiajaea rhhodomela SPECIES
-=======
+# Chiajaea rhhodomela SPECIES
 
 #### Status
 ACCEPTED

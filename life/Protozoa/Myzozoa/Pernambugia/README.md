@@ -1,5 +1,4 @@
-Pernambugia Janofske & Karwath, 2000 GENUS
-=======
+# Pernambugia Janofske & Karwath, 2000 GENUS
 
 #### Status
 ACCEPTED

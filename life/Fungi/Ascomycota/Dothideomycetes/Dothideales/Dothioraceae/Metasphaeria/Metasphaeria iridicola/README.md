@@ -1,5 +1,4 @@
-Metasphaeria iridicola Sacc. SPECIES
-=======
+# Metasphaeria iridicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida wyomingensis Kurtzman SPECIES
-=======
+# Candida wyomingensis Kurtzman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Catenularia heimii F. Mangenot, 1952 SPECIES
-=======
+# Chaetosphaeria myriocarpa (Fr.) C. Booth, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Recherches méthodiques sur les champignons de certains bois en décomposition 27 (1952)
+Mycol. Pap. 68: 5 (1957)
 
 #### Original name
-Catenularia heimii F. Mangenot, 1952
+Sphaeria myriocarpa Fr., 1823
 
 ### Remarks
 null

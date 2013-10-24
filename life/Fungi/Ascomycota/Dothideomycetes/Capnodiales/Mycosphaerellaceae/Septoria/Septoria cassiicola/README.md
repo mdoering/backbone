@@ -1,17 +1,16 @@
-Septoria cassiaecola Kellerm. & Swingle SPECIES
-=======
+# Septoria cassiicola Kellerm. & Swingle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 4(9): 94 (1888)
 
 #### Original name
-Septoria cassiaecola Kellerm. & Swingle
+Septoria cassiicola Kellerm. & Swingle
 
 ### Remarks
 null

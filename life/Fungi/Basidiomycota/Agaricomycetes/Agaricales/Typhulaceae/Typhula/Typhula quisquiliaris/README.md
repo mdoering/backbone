@@ -1,17 +1,16 @@
-Pistillaria quisquiliaris var. quisquiliaris VARIETY
-=======
+# Typhula quisquiliaris (Fr.) Henn., 1896 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Clavaria quisquiliaris Fr., 1818
 
 ### Remarks
 null

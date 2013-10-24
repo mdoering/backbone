@@ -1,5 +1,4 @@
-Hypomyces deformans (Lagger) Sacc. SPECIES
-=======
+# Hypomyces deformans (Lagger) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium albiziae (Petch) N. Naito SPECIES
-=======
+# Heterosporium albiziae (Petch) N. Naito SPECIES
 
 #### Status
 ACCEPTED

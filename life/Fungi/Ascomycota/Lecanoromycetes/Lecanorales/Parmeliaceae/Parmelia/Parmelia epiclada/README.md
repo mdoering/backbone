@@ -1,5 +1,4 @@
-Parmelia epiclada Hale SPECIES
-=======
+# Parmelia epiclada Hale SPECIES
 
 #### Status
 ACCEPTED

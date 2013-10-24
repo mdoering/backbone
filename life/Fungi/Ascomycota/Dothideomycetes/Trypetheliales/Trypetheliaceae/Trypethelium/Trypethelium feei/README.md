@@ -1,5 +1,4 @@
-Trypethelium feei C.F.W. Meissn. SPECIES
-=======
+# Trypethelium feei C.F.W. Meissn. SPECIES
 
 #### Status
 ACCEPTED

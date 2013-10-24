@@ -1,5 +1,4 @@
-Hendersonia fourcroyae Thüm. SPECIES
-=======
+# Hendersonia fourcroyae Thüm. SPECIES
 
 #### Status
 ACCEPTED

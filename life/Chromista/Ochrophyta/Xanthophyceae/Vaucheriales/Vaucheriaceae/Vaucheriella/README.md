@@ -1,5 +1,4 @@
-Vaucheriella Gaillon, 1833 GENUS
-=======
+# Vaucheriella Gaillon, 1833 GENUS
 
 #### Status
 ACCEPTED

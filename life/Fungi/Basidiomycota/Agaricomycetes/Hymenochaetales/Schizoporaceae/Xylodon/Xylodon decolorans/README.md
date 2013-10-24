@@ -1,5 +1,4 @@
-Xylodon decolorans (Berk. & M.A. Curtis ex Cooke) Kuntze SPECIES
-=======
+# Xylodon decolorans (Berk. & M.A. Curtis ex Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

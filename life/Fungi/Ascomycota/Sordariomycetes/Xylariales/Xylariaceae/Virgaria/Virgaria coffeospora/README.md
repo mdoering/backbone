@@ -1,5 +1,4 @@
-Virgaria coffeospora Sacc. SPECIES
-=======
+# Virgaria coffeospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

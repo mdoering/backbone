@@ -1,17 +1,16 @@
-Meliola allophylil-concanici Hosag. SPECIES
-=======
+# Meliola allophyli-concanici Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Raghu & Pillai, Nova Hedwigia 58(3-4): 535 (1994)
 
 #### Original name
-Meliola allophylil-concanici Hosag.
+Meliola allophyli-concanici Hosag.
 
 ### Remarks
 null

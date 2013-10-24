@@ -1,5 +1,4 @@
-Funalia dybowskii (Pat.) Pat. SPECIES
-=======
+# Funalia dybowskii (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moraxella caprae Kodjo et al., 1995 SPECIES
-=======
+# Moraxella caprae Kodjo et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

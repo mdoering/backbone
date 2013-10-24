@@ -1,5 +1,4 @@
-Bacidia trigemmis (Stizenb.) Th. Fr. SPECIES
-=======
+# Bacidia trigemmis (Stizenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactridium ellisii Berk. SPECIES
-=======
+# Bactridium ellisii Berk. SPECIES
 
 #### Status
 ACCEPTED

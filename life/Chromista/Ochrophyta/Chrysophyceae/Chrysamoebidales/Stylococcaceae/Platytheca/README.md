@@ -1,5 +1,4 @@
-Platytheca F. Stein, 1878 GENUS
-=======
+# Platytheca F. Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

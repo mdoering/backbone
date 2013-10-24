@@ -1,5 +1,4 @@
-Gyromitra columbiana Harmaja SPECIES
-=======
+# Gyromitra columbiana Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leveillula lactucarum Durrieu & Rostam SPECIES
-=======
+# Leveillula lactucarum Durrieu & Rostam SPECIES
 
 #### Status
 ACCEPTED

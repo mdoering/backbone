@@ -1,5 +1,4 @@
-Cercosporella terminalis Peck SPECIES
-=======
+# Cercosporella terminalis Peck SPECIES
 
 #### Status
 ACCEPTED

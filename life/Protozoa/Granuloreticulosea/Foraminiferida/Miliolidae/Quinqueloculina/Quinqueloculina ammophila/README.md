@@ -1,5 +1,4 @@
-Quinqueloculina ammophila Parr, 1932 SPECIES
-=======
+# Quinqueloculina ammophila Parr, 1932 SPECIES
 
 #### Status
 ACCEPTED

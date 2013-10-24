@@ -1,5 +1,4 @@
-Aecidium yucatanense Mains SPECIES
-=======
+# Aecidium yucatanense Mains SPECIES
 
 #### Status
 ACCEPTED

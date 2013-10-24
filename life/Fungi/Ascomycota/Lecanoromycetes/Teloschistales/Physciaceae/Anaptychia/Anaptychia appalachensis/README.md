@@ -1,5 +1,4 @@
-Anaptychia appalachensis Kurok. SPECIES
-=======
+# Anaptychia appalachensis Kurok. SPECIES
 
 #### Status
 ACCEPTED

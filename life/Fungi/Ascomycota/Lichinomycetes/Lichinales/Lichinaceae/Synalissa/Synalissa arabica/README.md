@@ -1,5 +1,4 @@
-Synalissa arabica Müll. Arg. SPECIES
-=======
+# Synalissa arabica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

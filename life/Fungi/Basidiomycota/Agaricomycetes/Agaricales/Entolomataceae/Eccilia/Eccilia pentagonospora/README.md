@@ -1,5 +1,4 @@
-Eccilia pentagonospora G.F. Atk. SPECIES
-=======
+# Eccilia pentagonospora G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

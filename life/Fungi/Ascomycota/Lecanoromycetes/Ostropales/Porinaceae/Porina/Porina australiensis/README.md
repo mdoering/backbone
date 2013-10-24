@@ -1,14 +1,13 @@
-Porina subepiphylla var. australiensis (Lücking & Vezda) Lücking VARIETY
-=======
+# Porina australiensis (Lücking & Vezda) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 33(3): 206 (2001)
+Biblthca Lichenol. 88: 413 (2004)
 
 #### Original name
 Porina lucida var. australiensis Lücking & Vezda

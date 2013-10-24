@@ -1,5 +1,4 @@
-Sagenomella W. Gams, 1978 GENUS
-=======
+# Sagenomella W. Gams, 1978 GENUS
 
 #### Status
 ACCEPTED

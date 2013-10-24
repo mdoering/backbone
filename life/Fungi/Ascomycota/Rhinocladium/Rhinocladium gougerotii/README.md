@@ -1,8 +1,7 @@
-Rhinocladium gougeroti Verdun SPECIES
-=======
+# Rhinocladium gougerotii Verdun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhinocladium gougeroti Verdun
+Rhinocladium gougerotii Verdun
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Tricholoma ramentaceum f. ramentaceum FORM
-=======
+# Tricholoma cingulatum (Almfelt) Jacobashch, 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Blätterpilze 338 (1915)
+Verh. bot. Ver. Prov. Brandenb. 33: 55 (1890)
 
 #### Original name
-Tricholoma ramentaceum f. ramentaceum
+Agaricus cingulatus Almfelt, 1830
 
 ### Remarks
 null

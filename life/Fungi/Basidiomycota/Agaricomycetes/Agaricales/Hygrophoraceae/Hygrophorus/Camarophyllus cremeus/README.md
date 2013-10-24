@@ -1,5 +1,4 @@
-Camarophyllus cremeus (Murrill) Singer SPECIES
-=======
+# Camarophyllus cremeus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina operculicola M. Morelet, 1980 SPECIES
-=======
+# Massarina operculicola M. Morelet, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria gneissacea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria gneissacea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

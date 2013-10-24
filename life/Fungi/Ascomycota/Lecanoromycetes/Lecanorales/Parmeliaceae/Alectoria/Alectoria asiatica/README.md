@@ -1,5 +1,4 @@
-Alectoria asiatica Du Rietz SPECIES
-=======
+# Alectoria asiatica Du Rietz SPECIES
 
 #### Status
 ACCEPTED

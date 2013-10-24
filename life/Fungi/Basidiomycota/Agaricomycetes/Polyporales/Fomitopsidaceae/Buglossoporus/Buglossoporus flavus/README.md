@@ -1,5 +1,4 @@
-Buglossoporus flavus Corner, 1984 SPECIES
-=======
+# Buglossoporus flavus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

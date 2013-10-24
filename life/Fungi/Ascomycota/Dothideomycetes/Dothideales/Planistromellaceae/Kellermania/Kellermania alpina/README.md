@@ -1,5 +1,4 @@
-Kellermania alpina f. alpina FORM
-=======
+# Kellermania alpina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 57 (1900)
 
 #### Original name
-Kellermania alpina f. alpina
+Kellermania alpina Ellis & Everh.
 
 ### Remarks
 null

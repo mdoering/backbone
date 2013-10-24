@@ -1,5 +1,4 @@
-Peltosphaeria californica Petr. SPECIES
-=======
+# Peltosphaeria californica Petr. SPECIES
 
 #### Status
 ACCEPTED

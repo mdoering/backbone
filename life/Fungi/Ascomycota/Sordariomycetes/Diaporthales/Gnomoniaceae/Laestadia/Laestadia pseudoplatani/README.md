@@ -1,5 +1,4 @@
-Laestadia pseudoplatani Pass., 1886 SPECIES
-=======
+# Laestadia pseudoplatani Pass., 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia philippina (Vain.) G. Thor SPECIES
-=======
+# Cryptothecia philippina (Vain.) G. Thor SPECIES
 
 #### Status
 ACCEPTED

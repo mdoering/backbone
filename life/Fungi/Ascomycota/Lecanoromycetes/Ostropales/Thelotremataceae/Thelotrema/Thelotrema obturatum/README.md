@@ -1,5 +1,4 @@
-Thelotrema obturatum Ach. SPECIES
-=======
+# Thelotrema obturatum Ach. SPECIES
 
 #### Status
 ACCEPTED

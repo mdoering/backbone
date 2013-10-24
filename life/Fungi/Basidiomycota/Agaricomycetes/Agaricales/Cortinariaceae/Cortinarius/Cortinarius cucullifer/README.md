@@ -1,5 +1,4 @@
-Cortinarius cucullifer Romagn. SPECIES
-=======
+# Cortinarius cucullifer Romagn. SPECIES
 
 #### Status
 ACCEPTED

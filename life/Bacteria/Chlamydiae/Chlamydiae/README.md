@@ -1,5 +1,4 @@
-Chlamydiae CLASS
-=======
+# Chlamydiae CLASS
 
 #### Status
 ACCEPTED

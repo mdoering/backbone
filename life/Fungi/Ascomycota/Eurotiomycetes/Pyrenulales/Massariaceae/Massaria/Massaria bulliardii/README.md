@@ -1,8 +1,7 @@
-Massaria bulliardi Tul. {?} SPECIES
-=======
+# Massaria bulliardii Tul. {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Massaria bulliardi Tul. {?}
+Massaria bulliardii Tul. {?}
 
 ### Remarks
 null

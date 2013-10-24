@@ -1,5 +1,4 @@
-Uredo amsoniae (Cooke) De Toni SPECIES
-=======
+# Uredo amsoniae (Cooke) De Toni SPECIES
 
 #### Status
 ACCEPTED

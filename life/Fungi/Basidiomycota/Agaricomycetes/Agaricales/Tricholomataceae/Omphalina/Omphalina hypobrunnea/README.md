@@ -1,5 +1,4 @@
-Omphalina hypobrunnea Murrill SPECIES
-=======
+# Omphalina hypobrunnea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Briceia McCulloch, 1977 GENUS
-=======
+# Briceia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

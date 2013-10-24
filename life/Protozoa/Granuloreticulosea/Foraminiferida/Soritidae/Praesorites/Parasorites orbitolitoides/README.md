@@ -1,8 +1,7 @@
-Praesorites orbitoloides Hofker, 1930 SPECIES
-=======
+# Parasorites orbitolitoides (Hofker, 1930) SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

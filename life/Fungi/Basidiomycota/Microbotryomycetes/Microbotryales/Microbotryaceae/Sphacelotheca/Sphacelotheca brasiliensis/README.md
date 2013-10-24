@@ -1,5 +1,4 @@
-Sphacelotheca brasiliensis Zundel SPECIES
-=======
+# Sphacelotheca brasiliensis Zundel SPECIES
 
 #### Status
 ACCEPTED

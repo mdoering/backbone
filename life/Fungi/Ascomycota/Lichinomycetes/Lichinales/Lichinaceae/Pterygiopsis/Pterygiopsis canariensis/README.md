@@ -1,5 +1,4 @@
-Pterygiopsis canariensis Henssen SPECIES
-=======
+# Pterygiopsis canariensis Henssen SPECIES
 
 #### Status
 ACCEPTED

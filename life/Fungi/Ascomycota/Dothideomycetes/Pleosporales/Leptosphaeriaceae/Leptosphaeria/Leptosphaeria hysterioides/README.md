@@ -1,5 +1,4 @@
-Leptosphaeria hysterioides Ellis & Everh. SPECIES
-=======
+# Leptosphaeria hysterioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

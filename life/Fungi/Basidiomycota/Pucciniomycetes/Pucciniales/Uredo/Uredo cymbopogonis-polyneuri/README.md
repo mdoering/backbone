@@ -1,5 +1,4 @@
-Uredo cymbopogonis-polyneuri Petch SPECIES
-=======
+# Uredo cymbopogonis-polyneuri Petch SPECIES
 
 #### Status
 ACCEPTED

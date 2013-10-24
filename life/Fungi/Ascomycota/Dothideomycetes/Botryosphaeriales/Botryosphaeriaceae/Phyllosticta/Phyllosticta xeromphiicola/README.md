@@ -1,5 +1,4 @@
-Phyllosticta xeromphiicola Suj. Singh & Kamal SPECIES
-=======
+# Phyllosticta xeromphiicola Suj. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

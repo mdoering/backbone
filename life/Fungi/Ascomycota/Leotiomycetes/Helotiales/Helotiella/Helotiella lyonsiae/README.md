@@ -1,5 +1,4 @@
-Helotiella lyonsiae (Cobb) Sacc. SPECIES
-=======
+# Helotiella lyonsiae (Cobb) Sacc. SPECIES
 
 #### Status
 ACCEPTED

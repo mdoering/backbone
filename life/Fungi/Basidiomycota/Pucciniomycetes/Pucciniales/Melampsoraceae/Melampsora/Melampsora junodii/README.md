@@ -1,5 +1,4 @@
-Melampsora junodii Doidge SPECIES
-=======
+# Melampsora junodii Doidge SPECIES
 
 #### Status
 ACCEPTED

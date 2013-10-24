@@ -1,5 +1,4 @@
-Gloeosporium ocellatum (Lév.) Keissl. SPECIES
-=======
+# Gloeosporium ocellatum (Lév.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

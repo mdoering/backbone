@@ -1,5 +1,4 @@
-Discella kalmiae Peck SPECIES
-=======
+# Discella kalmiae Peck SPECIES
 
 #### Status
 ACCEPTED

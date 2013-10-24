@@ -1,5 +1,4 @@
-Baltisphaeridium oblongatum (Timofeev, 1959) Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium oblongatum (Timofeev, 1959) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

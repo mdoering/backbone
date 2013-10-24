@@ -1,5 +1,4 @@
-Nigromacula Etayo GENUS
-=======
+# Nigromacula Etayo GENUS
 
 #### Status
 ACCEPTED

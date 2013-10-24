@@ -1,5 +1,4 @@
-Polyporus calkinsii (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polyporus calkinsii (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

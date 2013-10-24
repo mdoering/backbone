@@ -1,5 +1,4 @@
-Hemibeltrania convallariae H.D. Shin & U. Braun SPECIES
-=======
+# Hemibeltrania convallariae H.D. Shin & U. Braun SPECIES
 
 #### Status
 ACCEPTED

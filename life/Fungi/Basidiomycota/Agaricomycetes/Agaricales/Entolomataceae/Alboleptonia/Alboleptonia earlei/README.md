@@ -1,5 +1,4 @@
-Alboleptonia earlei (Murrill) Largent & R.G. Benedict SPECIES
-=======
+# Alboleptonia earlei (Murrill) Largent & R.G. Benedict SPECIES
 
 #### Status
 ACCEPTED

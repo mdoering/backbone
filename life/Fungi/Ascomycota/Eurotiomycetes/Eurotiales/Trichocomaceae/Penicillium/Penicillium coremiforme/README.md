@@ -1,5 +1,4 @@
-Penicillium coremiforme anon. SPECIES
-=======
+# Penicillium coremiforme anon. SPECIES
 
 #### Status
 ACCEPTED

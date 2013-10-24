@@ -1,5 +1,4 @@
-Melanographium selenioides (Sacc. & Paol.) M.B. Ellis SPECIES
-=======
+# Melanographium selenioides (Sacc. & Paol.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

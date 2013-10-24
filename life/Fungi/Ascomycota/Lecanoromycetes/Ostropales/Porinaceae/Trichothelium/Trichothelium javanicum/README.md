@@ -1,14 +1,13 @@
-Trichothelium alboatrum var. javanicum F. Schill. VARIETY
-=======
+# Trichothelium javanicum (F. Schill.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 67: 279 (1927)
+Nova Hedwigia 58(1-2): 139 (1994)
 
 #### Original name
 Trichothelium alboatrum var. javanicum F. Schill.

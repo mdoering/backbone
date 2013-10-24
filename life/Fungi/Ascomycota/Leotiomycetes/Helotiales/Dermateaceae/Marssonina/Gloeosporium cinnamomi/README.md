@@ -1,5 +1,4 @@
-Gloeosporium cinnamomi (Henn.) Died. SPECIES
-=======
+# Gloeosporium cinnamomi (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Escherichia oxytocus SPECIES
-=======
+# Escherichia oxytocus SPECIES
 
 #### Status
 ACCEPTED

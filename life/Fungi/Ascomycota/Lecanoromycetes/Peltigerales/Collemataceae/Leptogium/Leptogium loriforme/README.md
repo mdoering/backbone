@@ -1,5 +1,4 @@
-Leptogium loriforme P. M. Jørg. & Kashiw. SPECIES
-=======
+# Leptogium loriforme P. M. Jørg. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

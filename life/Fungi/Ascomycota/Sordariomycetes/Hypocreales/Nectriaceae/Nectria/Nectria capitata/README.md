@@ -1,5 +1,4 @@
-Nectria capitata Bres. SPECIES
-=======
+# Nectria capitata Bres. SPECIES
 
 #### Status
 ACCEPTED

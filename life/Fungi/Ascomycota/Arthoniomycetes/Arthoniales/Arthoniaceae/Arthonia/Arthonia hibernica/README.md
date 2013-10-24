@@ -1,5 +1,4 @@
-Arthonia hibernica var. hibernica VARIETY
-=======
+# Arthonia hibernica SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia hibernica var. hibernica
+null
 
 ### Remarks
 null

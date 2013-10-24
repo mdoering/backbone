@@ -1,5 +1,4 @@
-Pertusaria praecipua A.W. Archer & Elix SPECIES
-=======
+# Pertusaria praecipua A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

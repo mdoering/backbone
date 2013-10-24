@@ -1,5 +1,4 @@
-Crocynia filamentosa Hue SPECIES
-=======
+# Crocynia filamentosa Hue SPECIES
 
 #### Status
 ACCEPTED

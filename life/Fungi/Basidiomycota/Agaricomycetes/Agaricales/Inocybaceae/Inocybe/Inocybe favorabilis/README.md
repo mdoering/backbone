@@ -1,5 +1,4 @@
-Inocybe favorabilis (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe favorabilis (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

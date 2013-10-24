@@ -1,5 +1,4 @@
-Lachnea warnstorfiana Henn. SPECIES
-=======
+# Lachnea warnstorfiana Henn. SPECIES
 
 #### Status
 ACCEPTED

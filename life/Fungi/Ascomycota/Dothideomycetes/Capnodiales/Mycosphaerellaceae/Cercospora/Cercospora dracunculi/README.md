@@ -1,5 +1,4 @@
-Cercospora dracunculi Sarwar SPECIES
-=======
+# Cercospora dracunculi Sarwar SPECIES
 
 #### Status
 ACCEPTED

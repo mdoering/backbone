@@ -1,5 +1,4 @@
-Schizothyrium reticulatum (W. Phillips & Harkn.) Höhn. SPECIES
-=======
+# Schizothyrium reticulatum (W. Phillips & Harkn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

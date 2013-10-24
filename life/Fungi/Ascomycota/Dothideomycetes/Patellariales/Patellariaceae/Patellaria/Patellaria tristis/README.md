@@ -1,5 +1,4 @@
-Patellaria tristis Müll. Arg. SPECIES
-=======
+# Patellaria tristis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

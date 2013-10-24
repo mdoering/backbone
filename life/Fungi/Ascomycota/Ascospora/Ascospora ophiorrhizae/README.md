@@ -1,5 +1,4 @@
-Ascospora ophiorrhizae Racib. SPECIES
-=======
+# Ascospora ophiorrhizae Racib. SPECIES
 
 #### Status
 ACCEPTED

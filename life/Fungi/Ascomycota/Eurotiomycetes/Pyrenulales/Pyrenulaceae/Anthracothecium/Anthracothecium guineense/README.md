@@ -1,5 +1,4 @@
-Anthracothecium guineense (Nyl.) Zahlbr. SPECIES
-=======
+# Anthracothecium guineense (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

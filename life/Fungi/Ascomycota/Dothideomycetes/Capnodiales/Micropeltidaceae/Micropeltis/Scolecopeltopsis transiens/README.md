@@ -1,5 +1,4 @@
-Scolecopeltopsis transiens Höhn. SPECIES
-=======
+# Scolecopeltopsis transiens Höhn. SPECIES
 
 #### Status
 ACCEPTED

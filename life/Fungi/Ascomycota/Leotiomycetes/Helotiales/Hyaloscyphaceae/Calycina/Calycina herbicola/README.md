@@ -1,5 +1,4 @@
-Calycina herbicola (P. Karst.) Kuntze SPECIES
-=======
+# Calycina herbicola (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

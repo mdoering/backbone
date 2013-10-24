@@ -1,5 +1,4 @@
-Arthonia marginata Dufour SPECIES
-=======
+# Arthonia marginata Dufour SPECIES
 
 #### Status
 ACCEPTED

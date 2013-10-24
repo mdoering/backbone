@@ -1,5 +1,4 @@
-Phyllosticta pirorum Cooke SPECIES
-=======
+# Phyllosticta pirorum Cooke SPECIES
 
 #### Status
 ACCEPTED

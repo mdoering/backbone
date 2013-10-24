@@ -1,5 +1,4 @@
-Bacidia visianica (Beltr.) Lettau SPECIES
-=======
+# Bacidia visianica (Beltr.) Lettau SPECIES
 
 #### Status
 ACCEPTED

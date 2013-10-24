@@ -1,5 +1,4 @@
-Quadratobuliminella Klasz, 1953 GENUS
-=======
+# Quadratobuliminella Klasz, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Spizellomyces punctatum (W.J. Koch) D.J.S. Barr SPECIES
-=======
+# Spizellomyces punctatus (W.J. Koch) D.J.S. Barr, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 58(22): 2384 (1980)
 
 #### Original name
 Phlyctochytrium punctatum W.J. Koch, 1957

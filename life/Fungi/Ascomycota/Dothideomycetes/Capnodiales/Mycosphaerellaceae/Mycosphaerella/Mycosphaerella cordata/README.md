@@ -1,5 +1,4 @@
-Mycosphaerella cordata Ananthan. SPECIES
-=======
+# Mycosphaerella cordata Ananthan. SPECIES
 
 #### Status
 ACCEPTED

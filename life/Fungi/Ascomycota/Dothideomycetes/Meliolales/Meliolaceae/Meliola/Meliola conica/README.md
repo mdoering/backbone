@@ -1,5 +1,4 @@
-Meliola conica F. Stevens SPECIES
-=======
+# Meliola conica F. Stevens SPECIES
 
 #### Status
 ACCEPTED

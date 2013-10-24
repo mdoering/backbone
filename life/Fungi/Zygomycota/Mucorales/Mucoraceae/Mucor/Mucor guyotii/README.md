@@ -1,5 +1,4 @@
-Mucor guyotii Naumov SPECIES
-=======
+# Mucor guyotii Naumov SPECIES
 
 #### Status
 ACCEPTED

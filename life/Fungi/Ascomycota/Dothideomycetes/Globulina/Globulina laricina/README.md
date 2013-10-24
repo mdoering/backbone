@@ -1,5 +1,4 @@
-Globulina laricina Velen. SPECIES
-=======
+# Globulina laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

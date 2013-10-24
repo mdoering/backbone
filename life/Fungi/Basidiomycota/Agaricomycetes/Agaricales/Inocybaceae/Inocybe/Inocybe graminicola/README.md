@@ -1,5 +1,4 @@
-Inocybe graminicola (Nees) Roze SPECIES
-=======
+# Inocybe graminicola (Nees) Roze SPECIES
 
 #### Status
 ACCEPTED

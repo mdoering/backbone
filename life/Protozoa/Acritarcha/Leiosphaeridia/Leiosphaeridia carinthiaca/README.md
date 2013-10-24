@@ -1,5 +1,4 @@
-Leiosphaeridia carinthiaca Bachmann & Schmid, 1964 SPECIES
-=======
+# Leiosphaeridia carinthiaca Bachmann & Schmid, 1964 SPECIES
 
 #### Status
 ACCEPTED

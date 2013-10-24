@@ -1,5 +1,4 @@
-Trichothyrinula petrakii (Cif.) Arx SPECIES
-=======
+# Trichothyrinula petrakii (Cif.) Arx SPECIES
 
 #### Status
 ACCEPTED

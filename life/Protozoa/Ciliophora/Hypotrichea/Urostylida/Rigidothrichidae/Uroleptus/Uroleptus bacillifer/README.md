@@ -1,5 +1,4 @@
-Uroleptus bacillifer SPECIES
-=======
+# Uroleptus bacillifer SPECIES
 
 #### Status
 ACCEPTED

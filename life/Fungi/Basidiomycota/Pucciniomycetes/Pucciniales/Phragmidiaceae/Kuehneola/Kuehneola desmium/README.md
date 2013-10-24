@@ -1,5 +1,4 @@
-Kuehneola desmium E.J. Butler SPECIES
-=======
+# Kuehneola desmium E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma atrobrunneum Dennis SPECIES
-=======
+# Tricholoma atrobrunneum Dennis SPECIES
 
 #### Status
 ACCEPTED

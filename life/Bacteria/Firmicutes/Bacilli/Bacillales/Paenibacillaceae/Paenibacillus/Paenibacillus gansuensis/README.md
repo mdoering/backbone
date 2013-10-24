@@ -1,5 +1,4 @@
-Paenibacillus gansuensis Lim et al., 2006 SPECIES
-=======
+# Paenibacillus gansuensis Lim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

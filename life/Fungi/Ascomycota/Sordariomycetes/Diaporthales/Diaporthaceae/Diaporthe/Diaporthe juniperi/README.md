@@ -1,5 +1,4 @@
-Diaporthe juniperi Feltgen SPECIES
-=======
+# Diaporthe juniperi Feltgen SPECIES
 
 #### Status
 ACCEPTED

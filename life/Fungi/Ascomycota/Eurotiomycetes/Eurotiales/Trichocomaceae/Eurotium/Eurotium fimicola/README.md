@@ -1,5 +1,4 @@
-Eurotium fimicola H.Z. Kong & Z.T. Qi, 1995 SPECIES
-=======
+# Eurotium fimicola H.Z. Kong & Z.T. Qi, 1995 SPECIES
 
 #### Status
 ACCEPTED

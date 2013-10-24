@@ -1,5 +1,4 @@
-Pyrenocollema zonatum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Pyrenocollema zonatum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

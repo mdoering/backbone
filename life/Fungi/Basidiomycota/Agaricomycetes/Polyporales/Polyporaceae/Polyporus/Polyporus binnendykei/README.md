@@ -1,5 +1,4 @@
-Polyporus binnendykei Kurz SPECIES
-=======
+# Polyporus binnendykei Kurz SPECIES
 
 #### Status
 ACCEPTED

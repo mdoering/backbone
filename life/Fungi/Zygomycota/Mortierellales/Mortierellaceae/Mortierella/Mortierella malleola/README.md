@@ -1,5 +1,4 @@
-Mortierella malleola (Karkn) Gerd. & Trapp SPECIES
-=======
+# Mortierella malleola (Karkn) Gerd. & Trapp SPECIES
 
 #### Status
 ACCEPTED

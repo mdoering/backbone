@@ -1,5 +1,4 @@
-Scutisporium sphaerospermum Preuss SPECIES
-=======
+# Scutisporium sphaerospermum Preuss SPECIES
 
 #### Status
 ACCEPTED

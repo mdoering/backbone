@@ -1,5 +1,4 @@
-Stegonsporium platani Preuss SPECIES
-=======
+# Stegonsporium platani Preuss SPECIES
 
 #### Status
 ACCEPTED

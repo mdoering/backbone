@@ -1,5 +1,4 @@
-Erysiphe castaneigena U. Braun & Cunningt. SPECIES
-=======
+# Erysiphe castaneigena U. Braun & Cunningt. SPECIES
 
 #### Status
 ACCEPTED

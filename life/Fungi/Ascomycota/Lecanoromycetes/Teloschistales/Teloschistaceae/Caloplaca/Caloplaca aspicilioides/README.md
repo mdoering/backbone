@@ -1,5 +1,4 @@
-Caloplaca aspicilioides (Müll. Arg.) H. Olivier SPECIES
-=======
+# Caloplaca aspicilioides (Müll. Arg.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

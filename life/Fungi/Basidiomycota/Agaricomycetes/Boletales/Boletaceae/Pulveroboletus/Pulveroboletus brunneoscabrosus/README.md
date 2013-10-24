@@ -1,5 +1,4 @@
-Pulveroboletus brunneoscabrosus Har. Takah. SPECIES
-=======
+# Pulveroboletus brunneoscabrosus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

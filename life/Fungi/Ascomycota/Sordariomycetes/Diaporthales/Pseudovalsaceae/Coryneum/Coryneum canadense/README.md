@@ -1,5 +1,4 @@
-Coryneum canadense Bubák & Dearn. SPECIES
-=======
+# Coryneum canadense Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

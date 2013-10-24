@@ -1,5 +1,4 @@
-Hygrocybe saltorivula A.M. Young SPECIES
-=======
+# Hygrocybe saltorivula A.M. Young SPECIES
 
 #### Status
 ACCEPTED

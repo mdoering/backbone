@@ -1,5 +1,4 @@
-Ehrenbergina spinea Cushman, 1935 SPECIES
-=======
+# Ehrenbergina spinea Cushman, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hartmannula derouxi Gong & Song, 2004 SPECIES
-=======
+# Hartmannula derouxi Gong & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

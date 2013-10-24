@@ -1,5 +1,4 @@
-Coccomyces castanopsidis (Seaver) Sherwood, 1980 SPECIES
-=======
+# Coccomyces castanopsidis (Seaver) Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

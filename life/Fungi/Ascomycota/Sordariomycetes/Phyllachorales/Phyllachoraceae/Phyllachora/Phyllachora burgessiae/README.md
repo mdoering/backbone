@@ -1,5 +1,4 @@
-Phyllachora burgessiae Doidge, 1942 SPECIES
-=======
+# Phyllachora burgessiae Doidge, 1942 SPECIES
 
 #### Status
 ACCEPTED

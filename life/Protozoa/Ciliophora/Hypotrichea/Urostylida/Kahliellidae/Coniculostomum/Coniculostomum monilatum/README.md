@@ -1,8 +1,7 @@
-Coniculostomum monilata (Dragesco & Njiné, 1971) Njiné, 1979 SPECIES
-=======
+# Coniculostomum monilatum (Dragesco & Njiné, 1971) Njiné, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

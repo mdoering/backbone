@@ -1,5 +1,4 @@
-Vararia pectinata (Burt) D.P. Rogers & H.S. Jacks., 1943 SPECIES
-=======
+# Vararia pectinata (Burt) D.P. Rogers & H.S. Jacks., 1943 SPECIES
 
 #### Status
 ACCEPTED

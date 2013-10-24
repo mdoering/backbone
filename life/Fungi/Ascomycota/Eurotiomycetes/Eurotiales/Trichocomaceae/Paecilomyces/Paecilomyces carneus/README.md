@@ -1,14 +1,13 @@
-Spicaria carnea Duché & R. Heim, 1931 SPECIES
-=======
+# Paecilomyces carneus (Duché & R. Heim) A.H.S. Br. & G. Sm., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 40: 70 (1957)
 
 #### Original name
 Spicaria carnea Duché & R. Heim, 1931

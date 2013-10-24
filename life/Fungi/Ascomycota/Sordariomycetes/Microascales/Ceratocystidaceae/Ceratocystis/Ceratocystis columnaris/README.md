@@ -1,5 +1,4 @@
-Ceratocystis columnaris Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis columnaris Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

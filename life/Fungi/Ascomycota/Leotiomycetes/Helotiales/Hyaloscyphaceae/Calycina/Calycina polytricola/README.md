@@ -1,5 +1,4 @@
-Calycina polytricola (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Calycina polytricola (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora prostii Pass. & Roum. SPECIES
-=======
+# Pleospora prostii Pass. & Roum. SPECIES
 
 #### Status
 ACCEPTED

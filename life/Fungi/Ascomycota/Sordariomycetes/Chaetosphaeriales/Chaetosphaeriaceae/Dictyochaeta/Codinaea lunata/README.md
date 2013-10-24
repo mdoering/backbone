@@ -1,5 +1,4 @@
-Codinaea lunata Matsush. SPECIES
-=======
+# Codinaea lunata Matsush. SPECIES
 
 #### Status
 ACCEPTED

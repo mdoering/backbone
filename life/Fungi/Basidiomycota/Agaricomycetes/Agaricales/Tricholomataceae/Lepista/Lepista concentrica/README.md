@@ -1,5 +1,4 @@
-Lepista concentrica (Raithelh.) Consiglio & Contu SPECIES
-=======
+# Lepista concentrica (Raithelh.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoroma angustisectum Zahlbr. SPECIES
-=======
+# Psoroma angustisectum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

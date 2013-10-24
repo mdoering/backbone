@@ -1,5 +1,4 @@
-Cortinarius pini Brandrud SPECIES
-=======
+# Cortinarius pini Brandrud SPECIES
 
 #### Status
 ACCEPTED

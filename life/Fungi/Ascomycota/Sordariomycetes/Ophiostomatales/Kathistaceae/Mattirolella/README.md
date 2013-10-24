@@ -1,5 +1,4 @@
-Mattirolella S. Colla GENUS
-=======
+# Mattirolella S. Colla GENUS
 
 #### Status
 ACCEPTED

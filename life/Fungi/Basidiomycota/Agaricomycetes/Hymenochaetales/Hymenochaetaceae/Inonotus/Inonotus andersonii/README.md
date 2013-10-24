@@ -1,17 +1,16 @@
-Phaeoporus andersonii (Ellis & Everh.) Spirin, Zmitr. & Malysheva, 2006 SPECIES
-=======
+# Inonotus andersonii (Ellis & Everh.) Cerný, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 17: 1 (1963)
 
 #### Original name
-null
+Mucronoporus andersonii Ellis & Everh., 1890
 
 ### Remarks
 null

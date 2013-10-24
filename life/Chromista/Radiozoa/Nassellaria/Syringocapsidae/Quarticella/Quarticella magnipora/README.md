@@ -1,5 +1,4 @@
-Quarticella magnipora SPECIES
-=======
+# Quarticella magnipora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia sphyridii (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Arthonia sphyridii (J. Steiner) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

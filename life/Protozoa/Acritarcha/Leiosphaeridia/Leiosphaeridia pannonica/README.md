@@ -1,5 +1,4 @@
-Leiosphaeridia pannonica Baltes, 1971 SPECIES
-=======
+# Leiosphaeridia pannonica Baltes, 1971 SPECIES
 
 #### Status
 ACCEPTED

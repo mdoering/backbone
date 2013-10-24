@@ -1,5 +1,4 @@
-Microthelia haplospora Norman SPECIES
-=======
+# Microthelia haplospora Norman SPECIES
 
 #### Status
 ACCEPTED

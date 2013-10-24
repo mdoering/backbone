@@ -1,14 +1,13 @@
-Graphis parmeliarum (Müll. Arg.) C. Knight SPECIES
-=======
+# Hemigrapha asteriscus (Müll. Arg.) R. Sant. ex D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bailey, Synops. Queensl. Fl. 2(Suppl. ): 88 (1888)
+Kew Bull. 30(1): 191 (1975)
 
 #### Original name
 Melanographa asteriscus Müll. Arg., 1882

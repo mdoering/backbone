@@ -1,5 +1,4 @@
-Clavaria intricatissima Speg. SPECIES
-=======
+# Clavaria intricatissima Speg. SPECIES
 
 #### Status
 ACCEPTED

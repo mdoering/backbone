@@ -1,5 +1,4 @@
-Lentinellus brunnescens Lj.N. Vassiljeva, 1973 SPECIES
-=======
+# Lentinellus brunnescens Lj.N. Vassiljeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia henningsiana Kirschst. SPECIES
-=======
+# Sclerotinia henningsiana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium palitans Westling, 1911 SPECIES
-=======
+# Penicillium palitans Westling, 1911 SPECIES
 
 #### Status
 DOUBTFUL

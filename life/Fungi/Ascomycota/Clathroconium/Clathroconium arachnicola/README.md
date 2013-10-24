@@ -1,5 +1,4 @@
-Clathroconium arachnicola Samson & H.C. Evans, 1982 SPECIES
-=======
+# Clathroconium arachnicola Samson & H.C. Evans, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces musae Henn., 1907 SPECIES
-=======
+# Uromyces musae Henn., 1907 SPECIES
 
 #### Status
 ACCEPTED

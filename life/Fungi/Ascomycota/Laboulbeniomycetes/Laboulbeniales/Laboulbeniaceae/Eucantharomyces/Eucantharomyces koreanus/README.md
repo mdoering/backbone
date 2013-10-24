@@ -1,5 +1,4 @@
-Eucantharomyces koreanus Y.B. Lee SPECIES
-=======
+# Eucantharomyces koreanus Y.B. Lee SPECIES
 
 #### Status
 ACCEPTED

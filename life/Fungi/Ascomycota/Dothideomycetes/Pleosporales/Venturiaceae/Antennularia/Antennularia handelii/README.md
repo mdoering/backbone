@@ -1,5 +1,4 @@
-Antennularia handelii (Bubák) Maire SPECIES
-=======
+# Antennularia handelii (Bubák) Maire SPECIES
 
 #### Status
 ACCEPTED

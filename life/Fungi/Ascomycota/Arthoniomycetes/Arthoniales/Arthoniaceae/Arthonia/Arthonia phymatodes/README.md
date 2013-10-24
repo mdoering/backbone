@@ -1,5 +1,4 @@
-Arthonia phymatodes C. Knight SPECIES
-=======
+# Arthonia phymatodes C. Knight SPECIES
 
 #### Status
 ACCEPTED

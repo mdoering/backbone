@@ -1,5 +1,4 @@
-Cephalotheca savoryi C. Booth, 1961 SPECIES
-=======
+# Cephalotheca savoryi C. Booth, 1961 SPECIES
 
 #### Status
 ACCEPTED

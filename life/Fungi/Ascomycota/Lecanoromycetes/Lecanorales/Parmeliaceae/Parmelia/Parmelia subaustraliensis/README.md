@@ -1,5 +1,4 @@
-Parmelia subaustraliensis Gyeln. SPECIES
-=======
+# Parmelia subaustraliensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

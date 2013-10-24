@@ -1,5 +1,4 @@
-Corticium aureolum Bres. SPECIES
-=======
+# Corticium aureolum Bres. SPECIES
 
 #### Status
 ACCEPTED

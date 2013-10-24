@@ -1,5 +1,4 @@
-Ooidium rossicum Timofeev, 1957 SPECIES
-=======
+# Ooidium rossicum Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

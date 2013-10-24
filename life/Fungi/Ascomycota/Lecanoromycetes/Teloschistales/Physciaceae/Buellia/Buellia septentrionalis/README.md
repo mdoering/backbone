@@ -1,5 +1,4 @@
-Buellia septentrionalis Vain. SPECIES
-=======
+# Buellia septentrionalis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus cantharelloides Berk. ex Sacc. SPECIES
-=======
+# Pleurotus cantharelloides Berk. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

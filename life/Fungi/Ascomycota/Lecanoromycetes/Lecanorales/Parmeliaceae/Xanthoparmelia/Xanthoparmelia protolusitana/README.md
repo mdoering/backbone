@@ -1,5 +1,4 @@
-Xanthoparmelia protolusitana Hale SPECIES
-=======
+# Xanthoparmelia protolusitana Hale SPECIES
 
 #### Status
 ACCEPTED

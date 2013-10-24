@@ -1,5 +1,4 @@
-Sphaeripara catenata SPECIES
-=======
+# Sphaeripara catenata SPECIES
 
 #### Status
 ACCEPTED

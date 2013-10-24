@@ -1,5 +1,4 @@
-Ceratellopsis sydowii (Bres.) Corner SPECIES
-=======
+# Ceratellopsis sydowii (Bres.) Corner SPECIES
 
 #### Status
 ACCEPTED

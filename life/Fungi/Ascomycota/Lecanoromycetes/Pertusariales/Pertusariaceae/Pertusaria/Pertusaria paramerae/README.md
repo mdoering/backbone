@@ -1,5 +1,4 @@
-Pertusaria paramerae A. Crespo & Vezda SPECIES
-=======
+# Pertusaria paramerae A. Crespo & Vezda SPECIES
 
 #### Status
 ACCEPTED

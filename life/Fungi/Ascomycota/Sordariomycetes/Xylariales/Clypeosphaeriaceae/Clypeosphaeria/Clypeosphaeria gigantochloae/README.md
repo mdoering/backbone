@@ -1,5 +1,4 @@
-Clypeosphaeria gigantochloae Rehm SPECIES
-=======
+# Clypeosphaeria gigantochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

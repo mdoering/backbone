@@ -1,5 +1,4 @@
-Anthostomella olearum Sacc. & Speg. SPECIES
-=======
+# Anthostomella olearum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

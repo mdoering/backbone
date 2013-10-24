@@ -1,5 +1,4 @@
-Protobagliettoa erumpens (Servít) Servít SPECIES
-=======
+# Protobagliettoa erumpens (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

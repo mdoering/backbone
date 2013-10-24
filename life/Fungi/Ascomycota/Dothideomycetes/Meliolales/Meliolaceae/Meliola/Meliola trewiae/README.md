@@ -1,5 +1,4 @@
-Meliola trewiae Hosag. SPECIES
-=======
+# Meliola trewiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

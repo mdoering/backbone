@@ -1,5 +1,4 @@
-Lophiostoma amphibium (Magnes & Hafellner) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma amphibium (Magnes & Hafellner) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

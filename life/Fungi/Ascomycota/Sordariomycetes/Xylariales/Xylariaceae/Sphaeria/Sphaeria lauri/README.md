@@ -1,5 +1,4 @@
-Sphaeria lauri Sowerby SPECIES
-=======
+# Sphaeria lauri Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmina hartigiana (Sacc.) M.B. Ellis SPECIES
-=======
+# Stigmina hartigiana (Sacc.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium hormidii Skvortsov SPECIES
-=======
+# Rhizophydium hormidii Skvortsov SPECIES
 
 #### Status
 ACCEPTED

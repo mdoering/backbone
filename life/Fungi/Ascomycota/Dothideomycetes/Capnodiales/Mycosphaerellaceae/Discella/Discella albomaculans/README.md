@@ -1,5 +1,4 @@
-Discella albomaculans Peck SPECIES
-=======
+# Discella albomaculans Peck SPECIES
 
 #### Status
 ACCEPTED

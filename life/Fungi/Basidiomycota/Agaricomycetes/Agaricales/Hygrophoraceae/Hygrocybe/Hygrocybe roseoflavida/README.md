@@ -1,5 +1,4 @@
-Hygrocybe roseoflavida A.M. Young & A.K. Mills SPECIES
-=======
+# Hygrocybe roseoflavida A.M. Young & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

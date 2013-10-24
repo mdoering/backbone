@@ -1,5 +1,4 @@
-Scyphosphaera deflandrei Müller, 1974 SPECIES
-=======
+# Scyphosphaera deflandrei Müller, 1974 SPECIES
 
 #### Status
 ACCEPTED

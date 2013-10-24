@@ -1,5 +1,4 @@
-Agaricus silaceus Pers. SPECIES
-=======
+# Agaricus silaceus Pers. SPECIES
 
 #### Status
 ACCEPTED

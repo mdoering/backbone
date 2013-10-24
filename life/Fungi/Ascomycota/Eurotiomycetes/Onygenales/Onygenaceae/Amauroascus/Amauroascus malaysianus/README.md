@@ -1,5 +1,4 @@
-Amauroascus malaysianus Udagawa & Uchiy. SPECIES
-=======
+# Amauroascus malaysianus Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

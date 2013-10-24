@@ -1,5 +1,4 @@
-Lecanora gypsodes Körb. SPECIES
-=======
+# Lecanora gypsodes Körb. SPECIES
 
 #### Status
 ACCEPTED

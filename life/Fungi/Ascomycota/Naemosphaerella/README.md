@@ -1,5 +1,4 @@
-Naemosphaerella Höhn. GENUS
-=======
+# Naemosphaerella Höhn. GENUS
 
 #### Status
 ACCEPTED

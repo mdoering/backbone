@@ -1,17 +1,16 @@
-Lecidea russellii f. russellii FORM
-=======
+# Protoblastenia russellii (Tuck.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea russellii f. russellii
+Lecidea russellii Tuck.
 
 ### Remarks
 null

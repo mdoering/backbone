@@ -1,5 +1,4 @@
-Lecanora sorediosula (Zahlbr.) Gyeln. SPECIES
-=======
+# Lecanora sorediosula (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

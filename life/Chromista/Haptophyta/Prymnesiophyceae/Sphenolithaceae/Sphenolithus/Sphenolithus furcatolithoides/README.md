@@ -1,5 +1,4 @@
-Sphenolithus furcatolithoides Locker, 1967 SPECIES
-=======
+# Sphenolithus furcatolithoides Locker, 1967 SPECIES
 
 #### Status
 ACCEPTED

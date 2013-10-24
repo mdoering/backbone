@@ -1,5 +1,4 @@
-Botryodiplodia crataegi Vestergr. SPECIES
-=======
+# Botryodiplodia crataegi Vestergr. SPECIES
 
 #### Status
 ACCEPTED

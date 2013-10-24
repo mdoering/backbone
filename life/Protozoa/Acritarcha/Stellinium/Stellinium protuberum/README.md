@@ -1,5 +1,4 @@
-Stellinium protuberum Wicander & Loeblich, 1977 SPECIES
-=======
+# Stellinium protuberum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

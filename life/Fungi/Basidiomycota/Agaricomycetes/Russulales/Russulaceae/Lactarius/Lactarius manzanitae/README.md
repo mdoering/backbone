@@ -1,5 +1,4 @@
-Lactarius manzanitae Methven SPECIES
-=======
+# Lactarius manzanitae Methven SPECIES
 
 #### Status
 ACCEPTED

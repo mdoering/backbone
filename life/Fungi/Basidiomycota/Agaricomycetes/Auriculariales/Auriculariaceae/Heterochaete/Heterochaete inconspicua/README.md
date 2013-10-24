@@ -1,5 +1,4 @@
-Heterochaete inconspicua P. Roberts SPECIES
-=======
+# Heterochaete inconspicua P. Roberts SPECIES
 
 #### Status
 ACCEPTED

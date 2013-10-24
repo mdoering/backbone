@@ -1,5 +1,4 @@
-Lycogalopsis zeylanica Petch SPECIES
-=======
+# Lycogalopsis zeylanica Petch SPECIES
 
 #### Status
 ACCEPTED

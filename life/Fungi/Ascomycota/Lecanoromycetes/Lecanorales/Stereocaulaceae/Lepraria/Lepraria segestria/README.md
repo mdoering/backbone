@@ -1,5 +1,4 @@
-Lepraria segestria (L.) Ach. SPECIES
-=======
+# Lepraria segestria (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

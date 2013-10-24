@@ -1,5 +1,4 @@
-Agaricus detersibilis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus detersibilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

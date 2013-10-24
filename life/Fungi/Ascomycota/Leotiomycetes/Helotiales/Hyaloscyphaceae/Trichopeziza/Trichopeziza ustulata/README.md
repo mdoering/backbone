@@ -1,5 +1,4 @@
-Trichopeziza ustulata (Boud.) Sacc. SPECIES
-=======
+# Trichopeziza ustulata (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

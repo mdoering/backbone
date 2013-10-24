@@ -1,17 +1,16 @@
-Melanconium gourdaeforme Tak. Kobay. SPECIES
-=======
+# Melanconium gourdiforme Tak. Kobay. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 9(1): 5 (1968)
 
 #### Original name
-Melanconium gourdaeforme Tak. Kobay.
+Melanconium gourdiforme Tak. Kobay.
 
 ### Remarks
 null

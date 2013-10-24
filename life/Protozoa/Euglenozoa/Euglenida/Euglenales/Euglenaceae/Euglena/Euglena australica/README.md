@@ -1,5 +1,4 @@
-Euglena australica var. gibberosa Playfair VARIETY
-=======
+# Euglena australica Playfair SPECIES
 
 #### Status
 ACCEPTED

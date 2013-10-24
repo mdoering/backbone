@@ -1,5 +1,4 @@
-Septoria calthae Chevassut SPECIES
-=======
+# Septoria calthae Chevassut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterodiscula Petr. GENUS
-=======
+# Hysterodiscula Petr. GENUS
 
 #### Status
 ACCEPTED

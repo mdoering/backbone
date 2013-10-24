@@ -1,8 +1,7 @@
-Uredo hobsoni (Vize) Sacc. SPECIES
-=======
+# Uredo hobsonii (Vize) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

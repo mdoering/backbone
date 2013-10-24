@@ -1,17 +1,16 @@
-Rhizophyton Zopf GENUS
-=======
+# Rhizophydium Schenk GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. naturforsch. Ges. Halle 17: 92 (1887)
+Verh. Phys. -Med. Ges. Würzburg 8: 245 (1858)
 
 #### Original name
-Rhizophyton Zopf
+Rhizophydium Schenk
 
 ### Remarks
 null

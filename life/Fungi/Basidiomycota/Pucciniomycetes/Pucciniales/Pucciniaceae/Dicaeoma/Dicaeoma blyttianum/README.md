@@ -1,5 +1,4 @@
-Dicaeoma blyttianum (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma blyttianum (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

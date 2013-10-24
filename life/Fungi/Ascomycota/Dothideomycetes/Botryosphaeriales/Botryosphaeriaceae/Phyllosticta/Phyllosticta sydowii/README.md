@@ -1,5 +1,4 @@
-Phyllosticta sydowii Bres. SPECIES
-=======
+# Phyllosticta sydowii Bres. SPECIES
 
 #### Status
 ACCEPTED

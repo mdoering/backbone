@@ -1,5 +1,4 @@
-Leptomitus C. Agardh, 1824 GENUS
-=======
+# Leptomitus C. Agardh, 1824 GENUS
 
 #### Status
 ACCEPTED

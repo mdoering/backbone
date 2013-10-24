@@ -1,5 +1,4 @@
-Usnea poeppigii Nees & Flot. SPECIES
-=======
+# Usnea poeppigii Nees & Flot. SPECIES
 
 #### Status
 ACCEPTED

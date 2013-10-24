@@ -1,5 +1,4 @@
-Meliola erythrinae Syd. & P. Syd. SPECIES
-=======
+# Meliola erythrinae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

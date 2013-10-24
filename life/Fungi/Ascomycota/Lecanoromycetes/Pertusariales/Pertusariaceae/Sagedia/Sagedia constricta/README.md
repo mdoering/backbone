@@ -1,5 +1,4 @@
-Sagedia constricta Anzi SPECIES
-=======
+# Sagedia constricta Anzi SPECIES
 
 #### Status
 ACCEPTED

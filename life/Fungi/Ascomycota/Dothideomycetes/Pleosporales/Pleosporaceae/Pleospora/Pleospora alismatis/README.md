@@ -1,5 +1,4 @@
-Pleospora alismatis Ellis & Everh. SPECIES
-=======
+# Pleospora alismatis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo mannanurensis K.N. Rao SPECIES
-=======
+# Uredo mannanurensis K.N. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites didymus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites didymus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

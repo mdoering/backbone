@@ -1,5 +1,4 @@
-Peccania terricola H. Magn. SPECIES
-=======
+# Peccania terricola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

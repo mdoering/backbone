@@ -1,5 +1,4 @@
-Lepiota carbonescens Beeli SPECIES
-=======
+# Lepiota carbonescens Beeli SPECIES
 
 #### Status
 ACCEPTED

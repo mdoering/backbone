@@ -1,17 +1,16 @@
-Diplodia cruris-galli Brunaud SPECIES
-=======
+# Diplodia crus-galli Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Act. Soc. linn. Bordeaux, sér. A 40: 32 [repr. ] (1886)
 
 #### Original name
-Diplodia cruris-galli Brunaud
+Diplodia crus-galli Brunaud
 
 ### Remarks
 null

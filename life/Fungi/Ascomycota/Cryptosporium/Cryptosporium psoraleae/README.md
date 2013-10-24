@@ -1,5 +1,4 @@
-Cryptosporium psoraleae Politis SPECIES
-=======
+# Cryptosporium psoraleae Politis SPECIES
 
 #### Status
 ACCEPTED

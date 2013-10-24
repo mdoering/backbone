@@ -1,5 +1,4 @@
-Rhabdammina neglecta Gooday, 1986 SPECIES
-=======
+# Rhabdammina neglecta Gooday, 1986 SPECIES
 
 #### Status
 ACCEPTED

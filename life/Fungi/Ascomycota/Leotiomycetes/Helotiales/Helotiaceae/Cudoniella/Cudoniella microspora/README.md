@@ -1,5 +1,4 @@
-Cudoniella microspora Penz. & Sacc. SPECIES
-=======
+# Cudoniella microspora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

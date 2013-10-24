@@ -1,5 +1,4 @@
-Mycena veneta G. Stev. SPECIES
-=======
+# Mycena veneta G. Stev. SPECIES
 
 #### Status
 ACCEPTED

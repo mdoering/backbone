@@ -1,5 +1,4 @@
-Sphaerobasidium gloeocystidiatum Boidin & Gilles, 2000 SPECIES
-=======
+# Sphaerobasidium gloeocystidiatum Boidin & Gilles, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina tricarinella (Wiesner) SPECIES
-=======
+# Quinqueloculina tricarinella (Wiesner) SPECIES
 
 #### Status
 ACCEPTED

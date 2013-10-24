@@ -1,5 +1,4 @@
-Glyphis javanica Müll. Arg. SPECIES
-=======
+# Glyphis javanica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

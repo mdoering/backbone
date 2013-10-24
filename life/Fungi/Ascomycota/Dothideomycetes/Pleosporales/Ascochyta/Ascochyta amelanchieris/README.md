@@ -1,5 +1,4 @@
-Ascochyta amelanchieris Melnik SPECIES
-=======
+# Ascochyta amelanchieris Melnik SPECIES
 
 #### Status
 ACCEPTED

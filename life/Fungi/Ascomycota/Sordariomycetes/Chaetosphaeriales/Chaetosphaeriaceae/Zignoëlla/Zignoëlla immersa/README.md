@@ -1,5 +1,4 @@
-Zignoëlla immersa P. Karst. SPECIES
-=======
+# Zignoëlla immersa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

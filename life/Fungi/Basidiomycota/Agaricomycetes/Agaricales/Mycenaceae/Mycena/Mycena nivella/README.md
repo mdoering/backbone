@@ -1,5 +1,4 @@
-Mycena nivella Sacc. & P. Syd. SPECIES
-=======
+# Mycena nivella Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

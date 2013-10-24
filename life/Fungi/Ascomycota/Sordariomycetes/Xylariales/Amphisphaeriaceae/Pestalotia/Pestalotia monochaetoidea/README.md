@@ -1,5 +1,4 @@
-Pestalotia monochaetoidea var. monochaetoidea VARIETY
-=======
+# Pestalotia monochaetoidea Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia monochaetoidea var. monochaetoidea
+Pestalotia monochaetoidea Sacc. & Ellis
 
 ### Remarks
 null

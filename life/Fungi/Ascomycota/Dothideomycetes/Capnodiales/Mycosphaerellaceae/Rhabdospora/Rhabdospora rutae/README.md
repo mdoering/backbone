@@ -1,5 +1,4 @@
-Rhabdospora rutae var. rutae VARIETY
-=======
+# Rhabdospora rutae Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora rutae var. rutae
+Rhabdospora rutae Fautrey & Roum.
 
 ### Remarks
 null

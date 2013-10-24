@@ -1,5 +1,4 @@
-Helvella menzeliana (Timm) E.H.L. Krause SPECIES
-=======
+# Helvella menzeliana (Timm) E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

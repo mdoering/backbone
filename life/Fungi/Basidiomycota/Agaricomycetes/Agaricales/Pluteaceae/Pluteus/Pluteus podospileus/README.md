@@ -1,17 +1,16 @@
-Pluteus spilopus var. spilopus VARIETY
-=======
+# Pluteus podospileus Sacc. & Cub., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 669 (1887)
+Syll. fung. (Abellini) 5: 672 (1887)
 
 #### Original name
-Pluteus spilopus var. spilopus
+Pluteus podospileus Sacc. & Cub., 1887
 
 ### Remarks
 null

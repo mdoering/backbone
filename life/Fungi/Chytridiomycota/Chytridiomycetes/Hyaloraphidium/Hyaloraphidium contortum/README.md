@@ -1,5 +1,4 @@
-Hyaloraphidium contortum Pascher & Korshikov SPECIES
-=======
+# Hyaloraphidium contortum Pascher & Korshikov SPECIES
 
 #### Status
 ACCEPTED

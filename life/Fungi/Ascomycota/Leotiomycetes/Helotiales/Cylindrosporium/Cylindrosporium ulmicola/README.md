@@ -1,5 +1,4 @@
-Cylindrosporium ulmicola Ellis SPECIES
-=======
+# Cylindrosporium ulmicola Ellis SPECIES
 
 #### Status
 ACCEPTED

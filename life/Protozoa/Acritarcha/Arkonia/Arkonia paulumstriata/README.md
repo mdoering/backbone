@@ -1,5 +1,4 @@
-Arkonia paulumstriata Le Hérissé, 2002 SPECIES
-=======
+# Arkonia paulumstriata Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra efflorescens (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyra efflorescens (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

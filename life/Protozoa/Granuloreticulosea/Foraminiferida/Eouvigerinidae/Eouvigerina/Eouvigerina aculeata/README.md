@@ -1,5 +1,4 @@
-Eouvigerina aculeata Cushman, 1933 SPECIES
-=======
+# Eouvigerina aculeata Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

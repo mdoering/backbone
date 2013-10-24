@@ -1,5 +1,4 @@
-Leptogium ciliatum (Bél.) Nyl. SPECIES
-=======
+# Leptogium ciliatum (Bél.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

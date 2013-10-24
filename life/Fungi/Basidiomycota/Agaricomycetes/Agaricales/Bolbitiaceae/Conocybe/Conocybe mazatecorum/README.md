@@ -1,5 +1,4 @@
-Conocybe mazatecorum Singer SPECIES
-=======
+# Conocybe mazatecorum Singer SPECIES
 
 #### Status
 ACCEPTED

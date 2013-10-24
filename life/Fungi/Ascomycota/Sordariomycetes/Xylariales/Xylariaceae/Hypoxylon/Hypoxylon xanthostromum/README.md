@@ -1,14 +1,13 @@
-Hypoxylon xanthostroma (Schwein.) Sacc. SPECIES
-=======
+# Hypoxylon xanthostromum (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 392 (1882)
 
 #### Original name
 Sphaeria xanthostroma Mont. & Fr., 1834

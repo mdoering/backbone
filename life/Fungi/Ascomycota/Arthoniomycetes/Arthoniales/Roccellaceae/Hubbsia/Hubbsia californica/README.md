@@ -1,5 +1,4 @@
-Hubbsia californica (Räsänen) W. A. Weber SPECIES
-=======
+# Hubbsia californica (Räsänen) W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

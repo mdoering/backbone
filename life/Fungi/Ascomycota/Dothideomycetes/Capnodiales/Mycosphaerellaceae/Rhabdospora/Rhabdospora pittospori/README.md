@@ -1,5 +1,4 @@
-Rhabdospora pittospori F. Stevens & P.A. Young SPECIES
-=======
+# Rhabdospora pittospori F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bromeliophrya Foissner, 2003 GENUS
-=======
+# Bromeliophrya Foissner, 2003 GENUS
 
 #### Status
 ACCEPTED

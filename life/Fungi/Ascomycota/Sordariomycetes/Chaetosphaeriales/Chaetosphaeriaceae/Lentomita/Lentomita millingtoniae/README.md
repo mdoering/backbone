@@ -1,5 +1,4 @@
-Lentomita millingtoniae R. Rao SPECIES
-=======
+# Lentomita millingtoniae R. Rao SPECIES
 
 #### Status
 ACCEPTED

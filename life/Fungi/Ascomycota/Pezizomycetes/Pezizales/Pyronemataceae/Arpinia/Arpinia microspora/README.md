@@ -1,5 +1,4 @@
-Arpinia microspora (Dissing & Raitv.) Hohmeyer SPECIES
-=======
+# Arpinia microspora (Dissing & Raitv.) Hohmeyer SPECIES
 
 #### Status
 ACCEPTED

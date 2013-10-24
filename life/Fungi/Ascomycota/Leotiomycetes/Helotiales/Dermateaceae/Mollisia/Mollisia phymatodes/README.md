@@ -1,5 +1,4 @@
-Mollisia phymatodes W. Phillips SPECIES
-=======
+# Mollisia phymatodes W. Phillips SPECIES
 
 #### Status
 ACCEPTED

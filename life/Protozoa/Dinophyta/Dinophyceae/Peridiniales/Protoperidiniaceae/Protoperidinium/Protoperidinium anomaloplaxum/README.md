@@ -1,5 +1,4 @@
-Protoperidinium anomaloplaxum (Balech, 1964) Balech, 1974 SPECIES
-=======
+# Protoperidinium anomaloplaxum (Balech, 1964) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

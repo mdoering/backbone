@@ -1,17 +1,16 @@
-Cicinnobolus priscoi Da Ponte SPECIES
-=======
+# Cicinobolus priscoi Da Ponte SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 20(1-6): 239 (1968)
 
 #### Original name
-Cicinnobolus priscoi Da Ponte
+Cicinobolus priscoi Da Ponte
 
 ### Remarks
 null

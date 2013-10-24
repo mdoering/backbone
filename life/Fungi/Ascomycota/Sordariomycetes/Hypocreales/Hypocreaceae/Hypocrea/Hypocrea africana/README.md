@@ -1,5 +1,4 @@
-Hypocrea africana (Boedijn) H.L. Chamb. SPECIES
-=======
+# Hypocrea africana (Boedijn) H.L. Chamb. SPECIES
 
 #### Status
 ACCEPTED

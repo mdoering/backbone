@@ -1,5 +1,4 @@
-Urocystis americana (Speg.) De Toni SPECIES
-=======
+# Urocystis americana (Speg.) De Toni SPECIES
 
 #### Status
 ACCEPTED

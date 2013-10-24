@@ -1,5 +1,4 @@
-Xylaria bacillaris Rehm SPECIES
-=======
+# Xylaria bacillaris Rehm SPECIES
 
 #### Status
 ACCEPTED

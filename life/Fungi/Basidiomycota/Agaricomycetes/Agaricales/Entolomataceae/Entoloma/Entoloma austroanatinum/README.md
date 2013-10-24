@@ -1,5 +1,4 @@
-Entoloma austroanatinum (Singer) E. Horak SPECIES
-=======
+# Entoloma austroanatinum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

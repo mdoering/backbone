@@ -1,5 +1,4 @@
-Uromyces cladomanes Traverso SPECIES
-=======
+# Uromyces cladomanes Traverso SPECIES
 
 #### Status
 ACCEPTED

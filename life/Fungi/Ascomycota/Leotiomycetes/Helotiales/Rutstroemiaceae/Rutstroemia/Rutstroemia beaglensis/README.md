@@ -1,5 +1,4 @@
-Rutstroemia beaglensis Gamundí & Giaiotti SPECIES
-=======
+# Rutstroemia beaglensis Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

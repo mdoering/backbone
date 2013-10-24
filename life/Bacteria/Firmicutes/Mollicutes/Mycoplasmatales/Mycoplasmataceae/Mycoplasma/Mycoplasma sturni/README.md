@@ -1,5 +1,4 @@
-Mycoplasma sturni Forsyth et al., 1996 SPECIES
-=======
+# Mycoplasma sturni Forsyth et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

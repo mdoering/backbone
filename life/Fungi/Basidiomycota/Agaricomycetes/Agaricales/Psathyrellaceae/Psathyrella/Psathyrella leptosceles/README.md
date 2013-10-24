@@ -1,5 +1,4 @@
-Psathyrella leptosceles Berk. & Broome SPECIES
-=======
+# Psathyrella leptosceles Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

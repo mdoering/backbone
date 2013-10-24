@@ -1,8 +1,7 @@
-Rhizomonas suberifaciens van Bruggen et al., 1990 SPECIES
-=======
+# Sphingomonas suberifaciens (van Bruggen et al., 1990) Yabuuchi et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Microsporum karafutoense Takats. SPECIES
-=======
+# Microsporum karafutoense Takats. SPECIES
 
 #### Status
 ACCEPTED

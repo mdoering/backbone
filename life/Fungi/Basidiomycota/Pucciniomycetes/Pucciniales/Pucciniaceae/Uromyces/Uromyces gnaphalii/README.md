@@ -1,5 +1,4 @@
-Uromyces gnaphalii Ellis & Everh. SPECIES
-=======
+# Uromyces gnaphalii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

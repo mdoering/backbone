@@ -1,5 +1,4 @@
-Eurotiomycetes O.E. Erikss. & Winka CLASS
-=======
+# Eurotiomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidium wawreanum (A. Massal.) C.W. Dodge SPECIES
-=======
+# Lecanidium wawreanum (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

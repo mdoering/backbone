@@ -1,5 +1,4 @@
-Volvaria griseiceps (Murrill) Murrill SPECIES
-=======
+# Volvaria griseiceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

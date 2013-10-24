@@ -1,5 +1,4 @@
-Rashnovammina Neagu & Neagu, 1995 GENUS
-=======
+# Rashnovammina Neagu & Neagu, 1995 GENUS
 
 #### Status
 ACCEPTED

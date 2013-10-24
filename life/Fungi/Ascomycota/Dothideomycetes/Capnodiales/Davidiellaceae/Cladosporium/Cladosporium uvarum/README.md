@@ -1,5 +1,4 @@
-Cladosporium uvarum McAlpine SPECIES
-=======
+# Cladosporium uvarum McAlpine SPECIES
 
 #### Status
 ACCEPTED

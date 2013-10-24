@@ -1,5 +1,4 @@
-Mycena brachypoda Mont. SPECIES
-=======
+# Mycena brachypoda Mont. SPECIES
 
 #### Status
 ACCEPTED

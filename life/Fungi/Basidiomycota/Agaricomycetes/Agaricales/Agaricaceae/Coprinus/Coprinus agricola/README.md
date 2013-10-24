@@ -1,5 +1,4 @@
-Coprinus agricola A. Pearson SPECIES
-=======
+# Coprinus agricola A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora myriaspora (Cr. & Cr.) Niessl SPECIES
-=======
+# Podospora myriaspora (Cr. & Cr.) Niessl SPECIES
 
 #### Status
 ACCEPTED

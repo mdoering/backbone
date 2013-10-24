@@ -1,5 +1,4 @@
-Sporidesmiella pseudoseptata (M.B. Ellis) Subram. SPECIES
-=======
+# Sporidesmiella pseudoseptata (M.B. Ellis) Subram. SPECIES
 
 #### Status
 ACCEPTED

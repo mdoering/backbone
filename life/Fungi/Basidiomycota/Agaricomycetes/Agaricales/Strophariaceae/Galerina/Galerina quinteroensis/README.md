@@ -1,5 +1,4 @@
-Galerina quinteroensis Singer SPECIES
-=======
+# Galerina quinteroensis Singer SPECIES
 
 #### Status
 ACCEPTED

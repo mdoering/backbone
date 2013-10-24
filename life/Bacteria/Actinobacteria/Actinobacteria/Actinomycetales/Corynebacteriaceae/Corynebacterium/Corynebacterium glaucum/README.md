@@ -1,5 +1,4 @@
-Corynebacterium glaucum Yassin et al., 2003 SPECIES
-=======
+# Corynebacterium glaucum Yassin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

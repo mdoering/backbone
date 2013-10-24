@@ -1,17 +1,16 @@
-Agaricus mutabilis var. mutabilis Scop. VARIETY
-=======
+# Kuehneromyces mutabilis (Schaeff.) Singer & A.H. Sm., 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 38(5): 505 (1946)
 
 #### Original name
-Agaricus mutabilis var. mutabilis Scop.
+Agaricus mutabilis Schaeff., 1774
 
 ### Remarks
 null

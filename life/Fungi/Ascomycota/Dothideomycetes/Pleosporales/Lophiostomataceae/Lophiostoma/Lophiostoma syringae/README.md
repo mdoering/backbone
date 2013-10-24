@@ -1,5 +1,4 @@
-Lophiostoma syringae Fabre SPECIES
-=======
+# Lophiostoma syringae Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma varanasiensis P.C. Gupta & Madaan SPECIES
-=======
+# Macrophoma varanasiensis P.C. Gupta & Madaan SPECIES
 
 #### Status
 ACCEPTED

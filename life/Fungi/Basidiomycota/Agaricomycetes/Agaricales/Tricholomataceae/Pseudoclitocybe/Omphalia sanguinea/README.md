@@ -1,5 +1,4 @@
-Omphalia sanguinea Sacc. SPECIES
-=======
+# Omphalia sanguinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

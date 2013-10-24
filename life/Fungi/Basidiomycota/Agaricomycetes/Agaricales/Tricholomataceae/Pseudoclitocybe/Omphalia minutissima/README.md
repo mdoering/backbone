@@ -1,5 +1,4 @@
-Omphalia minutissima Henn. SPECIES
-=======
+# Omphalia minutissima Henn. SPECIES
 
 #### Status
 ACCEPTED

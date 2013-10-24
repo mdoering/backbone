@@ -1,5 +1,4 @@
-Trichospiridae FAMILY
-=======
+# Trichospiridae FAMILY
 
 #### Status
 ACCEPTED

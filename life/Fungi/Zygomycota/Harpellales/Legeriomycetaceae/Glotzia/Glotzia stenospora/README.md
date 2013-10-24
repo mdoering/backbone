@@ -1,5 +1,4 @@
-Glotzia stenospora M.M. White & Lichtw., 2004 SPECIES
-=======
+# Glotzia stenospora M.M. White & Lichtw., 2004 SPECIES
 
 #### Status
 ACCEPTED

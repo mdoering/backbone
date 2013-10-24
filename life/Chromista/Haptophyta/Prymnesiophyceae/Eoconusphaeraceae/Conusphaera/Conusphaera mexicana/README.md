@@ -1,11 +1,10 @@
-Conusphaera mexicana subsp. mexicana SUBSPECIES
-=======
+# Conusphaera mexicana Trejo, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Paleobiology Database
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

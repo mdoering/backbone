@@ -1,5 +1,4 @@
-Oribacterium Carlier et al., 2004 GENUS
-=======
+# Oribacterium Carlier et al., 2004 GENUS
 
 #### Status
 ACCEPTED

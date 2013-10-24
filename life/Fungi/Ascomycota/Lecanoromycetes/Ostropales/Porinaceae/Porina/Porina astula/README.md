@@ -1,5 +1,4 @@
-Porina astula (Nyl.) Zahlbr. SPECIES
-=======
+# Porina astula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

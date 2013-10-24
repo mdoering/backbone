@@ -1,5 +1,4 @@
-Psiloparmelia hypostictica Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia hypostictica Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces cenisiae A.L. Guyot SPECIES
-=======
+# Uromyces cenisiae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

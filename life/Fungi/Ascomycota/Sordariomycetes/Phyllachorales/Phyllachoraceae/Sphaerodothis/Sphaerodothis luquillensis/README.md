@@ -1,5 +1,4 @@
-Sphaerodothis luquillensis Chardón, 1929 SPECIES
-=======
+# Sphaerodothis luquillensis Chardón, 1929 SPECIES
 
 #### Status
 ACCEPTED

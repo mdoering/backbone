@@ -1,11 +1,10 @@
-Torquatella pelagica (Fauré-Fremiet, 1924) Fauré-Fremiet, 1969 SPECIES
-=======
+# Strobilidium pelagicum Faure-Fremiet, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

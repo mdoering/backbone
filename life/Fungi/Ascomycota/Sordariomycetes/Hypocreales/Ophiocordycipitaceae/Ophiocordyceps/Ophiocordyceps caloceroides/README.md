@@ -1,5 +1,4 @@
-Ophiocordyceps caloceroides (Berk. & M.A. Curtis) Petch, 1933 SPECIES
-=======
+# Ophiocordyceps caloceroides (Berk. & M.A. Curtis) Petch, 1933 SPECIES
 
 #### Status
 ACCEPTED

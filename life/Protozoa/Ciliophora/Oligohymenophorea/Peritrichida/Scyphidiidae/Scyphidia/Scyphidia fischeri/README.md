@@ -1,5 +1,4 @@
-Scyphidia fischeri Vayssière, 1885 SPECIES
-=======
+# Scyphidia fischeri Vayssière, 1885 SPECIES
 
 #### Status
 ACCEPTED

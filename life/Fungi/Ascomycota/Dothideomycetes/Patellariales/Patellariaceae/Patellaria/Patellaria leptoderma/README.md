@@ -1,5 +1,4 @@
-Patellaria leptoderma Duby SPECIES
-=======
+# Patellaria leptoderma Duby SPECIES
 
 #### Status
 ACCEPTED

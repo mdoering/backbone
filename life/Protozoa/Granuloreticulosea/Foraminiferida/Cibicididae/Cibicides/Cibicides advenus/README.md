@@ -1,5 +1,4 @@
-Cibicides advenus SPECIES
-=======
+# Cibicides advenus SPECIES
 
 #### Status
 ACCEPTED

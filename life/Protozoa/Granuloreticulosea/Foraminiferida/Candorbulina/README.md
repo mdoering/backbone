@@ -1,5 +1,4 @@
-Candorbulina Jedlitschka, 1934 GENUS
-=======
+# Candorbulina Jedlitschka, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella geoglossi D. Overeem SPECIES
-=======
+# Nectriella geoglossi D. Overeem SPECIES
 
 #### Status
 ACCEPTED

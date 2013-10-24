@@ -1,11 +1,10 @@
-Xiphophyllanthus Kuntze, 1880 GENUS
-=======
+# Cystophora J.G. Agardh, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

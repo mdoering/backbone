@@ -1,5 +1,4 @@
-Caeoma syntherismae Schwein. SPECIES
-=======
+# Caeoma syntherismae Schwein. SPECIES
 
 #### Status
 ACCEPTED

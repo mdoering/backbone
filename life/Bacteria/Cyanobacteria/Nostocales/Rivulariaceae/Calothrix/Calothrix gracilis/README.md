@@ -1,5 +1,4 @@
-Calothrix gracilis F.E. Fritsch SPECIES
-=======
+# Calothrix gracilis F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

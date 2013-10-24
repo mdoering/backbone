@@ -1,5 +1,4 @@
-Dictyophora daemonum (Rumph.) Lév. SPECIES
-=======
+# Dictyophora daemonum (Rumph.) Lév. SPECIES
 
 #### Status
 ACCEPTED

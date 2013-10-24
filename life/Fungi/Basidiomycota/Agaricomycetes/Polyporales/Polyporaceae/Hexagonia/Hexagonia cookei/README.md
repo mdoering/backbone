@@ -1,5 +1,4 @@
-Hexagonia cookei Sacc. SPECIES
-=======
+# Hexagonia cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

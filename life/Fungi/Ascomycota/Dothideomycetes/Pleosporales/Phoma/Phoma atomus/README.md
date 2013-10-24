@@ -1,5 +1,4 @@
-Phoma atomus (Lév.) Auersw. SPECIES
-=======
+# Phoma atomus (Lév.) Auersw. SPECIES
 
 #### Status
 ACCEPTED

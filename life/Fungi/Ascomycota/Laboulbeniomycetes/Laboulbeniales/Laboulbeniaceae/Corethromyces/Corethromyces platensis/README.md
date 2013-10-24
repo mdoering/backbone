@@ -1,5 +1,4 @@
-Corethromyces platensis var. platensis VARIETY
-=======
+# Corethromyces platensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Corethromyces platensis var. platensis
+Corethromyces platensis Thaxt.
 
 ### Remarks
 null

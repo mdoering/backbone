@@ -1,5 +1,4 @@
-Bidiscorhabdus Prins GENUS
-=======
+# Bidiscorhabdus Prins GENUS
 
 #### Status
 ACCEPTED

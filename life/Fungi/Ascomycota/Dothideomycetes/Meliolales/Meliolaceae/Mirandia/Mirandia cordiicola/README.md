@@ -1,5 +1,4 @@
-Mirandia cordiicola (Henn.) Toro SPECIES
-=======
+# Mirandia cordiicola (Henn.) Toro SPECIES
 
 #### Status
 ACCEPTED

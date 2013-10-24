@@ -1,5 +1,4 @@
-Hexancistra Haeckel, 1879 GENUS
-=======
+# Hexancistra Haeckel, 1879 GENUS
 
 #### Status
 ACCEPTED

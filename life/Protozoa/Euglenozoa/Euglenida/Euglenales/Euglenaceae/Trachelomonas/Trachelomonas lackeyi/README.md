@@ -1,5 +1,4 @@
-Trachelomonas lackeyi J. J. McCoy SPECIES
-=======
+# Trachelomonas lackeyi J. J. McCoy SPECIES
 
 #### Status
 ACCEPTED

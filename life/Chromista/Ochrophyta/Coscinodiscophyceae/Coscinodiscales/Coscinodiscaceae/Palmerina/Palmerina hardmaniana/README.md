@@ -1,5 +1,4 @@
-Palmerina hardmaniana (Greville) G. R. Hasle SPECIES
-=======
+# Palmerina hardmaniana (Greville) G. R. Hasle SPECIES
 
 #### Status
 ACCEPTED

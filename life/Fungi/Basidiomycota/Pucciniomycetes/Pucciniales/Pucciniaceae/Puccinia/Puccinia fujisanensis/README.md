@@ -1,5 +1,4 @@
-Puccinia fujisanensis Hirats. f. SPECIES
-=======
+# Puccinia fujisanensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

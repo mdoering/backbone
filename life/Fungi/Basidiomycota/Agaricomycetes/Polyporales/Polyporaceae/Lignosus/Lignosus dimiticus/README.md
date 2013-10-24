@@ -1,5 +1,4 @@
-Lignosus dimiticus Ryvarden, 1975 SPECIES
-=======
+# Lignosus dimiticus Ryvarden, 1975 SPECIES
 
 #### Status
 ACCEPTED

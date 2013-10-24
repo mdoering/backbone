@@ -1,5 +1,4 @@
-Sphaerella hermione Sacc. SPECIES
-=======
+# Sphaerella hermione Sacc. SPECIES
 
 #### Status
 ACCEPTED

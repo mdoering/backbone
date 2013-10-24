@@ -1,5 +1,4 @@
-Mycosphaerella chorinensis (Kirschst.) Tomilin SPECIES
-=======
+# Mycosphaerella chorinensis (Kirschst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

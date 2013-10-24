@@ -1,5 +1,4 @@
-Candelariellopsis atlantica Werner SPECIES
-=======
+# Candelariellopsis atlantica Werner SPECIES
 
 #### Status
 ACCEPTED

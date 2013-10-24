@@ -1,17 +1,16 @@
-Puccinia canaliculata subsp. canaliculata Arthur SUBSPECIES
-=======
+# Puccinia canaliculata Arthur, 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Puccinia canaliculata subsp. canaliculata Arthur
+Puccinia canaliculata Arthur, 1918
 
 ### Remarks
 null

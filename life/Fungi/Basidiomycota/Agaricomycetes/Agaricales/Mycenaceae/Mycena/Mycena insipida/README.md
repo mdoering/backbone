@@ -1,5 +1,4 @@
-Mycena insipida Rick SPECIES
-=======
+# Mycena insipida Rick SPECIES
 
 #### Status
 ACCEPTED

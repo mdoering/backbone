@@ -1,5 +1,4 @@
-Sporidesmium stictophyllum Cooke SPECIES
-=======
+# Sporidesmium stictophyllum Cooke SPECIES
 
 #### Status
 ACCEPTED

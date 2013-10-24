@@ -1,14 +1,13 @@
-Phallus subtilis (Möller) Lloyd SPECIES
-=======
+# Aporophallus subtilis Möller, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mitt. Trop. 7: (1895)
 
 #### Original name
 Aporophallus subtilis Möller, 1895

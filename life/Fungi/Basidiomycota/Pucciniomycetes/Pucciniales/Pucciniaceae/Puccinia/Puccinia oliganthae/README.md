@@ -1,5 +1,4 @@
-Puccinia oliganthae McAlpine SPECIES
-=======
+# Puccinia oliganthae McAlpine SPECIES
 
 #### Status
 ACCEPTED

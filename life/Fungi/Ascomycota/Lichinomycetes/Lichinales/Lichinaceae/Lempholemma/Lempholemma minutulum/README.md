@@ -1,5 +1,4 @@
-Lempholemma minutulum (Bornet) Zahlbr. SPECIES
-=======
+# Lempholemma minutulum (Bornet) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

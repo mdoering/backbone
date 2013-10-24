@@ -1,5 +1,4 @@
-Hebeloma proximum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma proximum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

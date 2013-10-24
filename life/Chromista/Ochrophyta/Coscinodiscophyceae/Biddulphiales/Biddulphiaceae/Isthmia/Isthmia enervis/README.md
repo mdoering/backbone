@@ -1,5 +1,4 @@
-Isthmia enervis var. enervis Ag., 1832 VARIETY
-=======
+# Isthmia enervis Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

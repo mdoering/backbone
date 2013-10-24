@@ -1,5 +1,4 @@
-Phyllosticta hiratsukae Ts. Kobay. & Onuki SPECIES
-=======
+# Phyllosticta hiratsukae Ts. Kobay. & Onuki SPECIES
 
 #### Status
 ACCEPTED

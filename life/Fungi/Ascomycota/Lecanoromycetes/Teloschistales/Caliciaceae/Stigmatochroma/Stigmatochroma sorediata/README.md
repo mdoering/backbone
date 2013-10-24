@@ -1,5 +1,4 @@
-Stigmatochroma sorediata Marbach & V. Wirth SPECIES
-=======
+# Stigmatochroma sorediata Marbach & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

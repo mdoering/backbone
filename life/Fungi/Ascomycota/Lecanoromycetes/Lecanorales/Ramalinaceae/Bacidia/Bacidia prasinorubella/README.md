@@ -1,5 +1,4 @@
-Bacidia prasinorubella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia prasinorubella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

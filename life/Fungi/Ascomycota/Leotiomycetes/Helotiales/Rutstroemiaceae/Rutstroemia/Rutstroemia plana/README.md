@@ -1,5 +1,4 @@
-Rutstroemia plana D.M. Hend., 1970 SPECIES
-=======
+# Rutstroemia plana D.M. Hend., 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeltis obtecta Rehm SPECIES
-=======
+# Trichopeltis obtecta Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula deospora (Bat. & H.P. Upadhyay) de Hoog & Grinb., 1975 SPECIES
-=======
+# Torula deospora (Bat. & H.P. Upadhyay) de Hoog & Grinb., 1975 SPECIES
 
 #### Status
 ACCEPTED

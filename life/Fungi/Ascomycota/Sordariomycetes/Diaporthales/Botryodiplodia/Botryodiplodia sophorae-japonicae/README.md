@@ -1,5 +1,4 @@
-Botryodiplodia sophorae-japonicae Savul. & Sandu SPECIES
-=======
+# Botryodiplodia sophorae-japonicae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia otostegia Gjaerum SPECIES
-=======
+# Puccinia otostegia Gjaerum SPECIES
 
 #### Status
 ACCEPTED

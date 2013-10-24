@@ -1,5 +1,4 @@
-Psathyra nassa (Berk.) Sacc. SPECIES
-=======
+# Psathyra nassa (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

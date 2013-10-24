@@ -1,5 +1,4 @@
-Dermocybe marylandensis Ammirati SPECIES
-=======
+# Dermocybe marylandensis Ammirati SPECIES
 
 #### Status
 ACCEPTED

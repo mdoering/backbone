@@ -1,5 +1,4 @@
-Bundleia bathypharyngea SPECIES
-=======
+# Bundleia bathypharyngea SPECIES
 
 #### Status
 ACCEPTED

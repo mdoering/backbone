@@ -1,5 +1,4 @@
-Parmelia russellii Tuck. SPECIES
-=======
+# Parmelia russellii Tuck. SPECIES
 
 #### Status
 ACCEPTED

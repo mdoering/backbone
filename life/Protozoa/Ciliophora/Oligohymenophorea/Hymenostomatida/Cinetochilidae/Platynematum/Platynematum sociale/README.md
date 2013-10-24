@@ -1,8 +1,7 @@
-Uronema sociale Penard, 1922 SPECIES
-=======
+# Platynematum sociale (Penard, 1922) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

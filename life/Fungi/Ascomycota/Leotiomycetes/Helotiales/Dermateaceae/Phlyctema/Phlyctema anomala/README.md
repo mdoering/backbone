@@ -1,5 +1,4 @@
-Phlyctema anomala Petch SPECIES
-=======
+# Phlyctema anomala Petch SPECIES
 
 #### Status
 ACCEPTED

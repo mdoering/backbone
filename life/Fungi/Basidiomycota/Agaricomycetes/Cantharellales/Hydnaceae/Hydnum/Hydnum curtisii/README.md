@@ -1,5 +1,4 @@
-Hydnum curtisii Berk. SPECIES
-=======
+# Hydnum curtisii Berk. SPECIES
 
 #### Status
 ACCEPTED

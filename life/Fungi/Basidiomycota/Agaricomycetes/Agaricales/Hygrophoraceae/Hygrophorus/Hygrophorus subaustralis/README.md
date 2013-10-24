@@ -1,5 +1,4 @@
-Hygrophorus subaustralis A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus subaustralis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

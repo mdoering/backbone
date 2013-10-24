@@ -1,5 +1,4 @@
-Rubigo rosea (Schultz) Link SPECIES
-=======
+# Rubigo rosea (Schultz) Link SPECIES
 
 #### Status
 ACCEPTED

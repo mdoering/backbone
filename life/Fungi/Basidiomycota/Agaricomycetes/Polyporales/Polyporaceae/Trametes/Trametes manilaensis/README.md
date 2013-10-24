@@ -1,14 +1,13 @@
-Polyporus manilaensis Lloyd, 1918 SPECIES
-=======
+# Trametes manilaensis (Lloyd) Teng, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5 (Letter 68) 12 (1918)
+Chung-kuo Ti Chen-chun, [Fungi of China] 763 (1963)
 
 #### Original name
 Polyporus manilaensis Lloyd, 1918

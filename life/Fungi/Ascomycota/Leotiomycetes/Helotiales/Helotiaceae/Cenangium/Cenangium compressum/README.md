@@ -1,5 +1,4 @@
-Cenangium compressum Schwein. SPECIES
-=======
+# Cenangium compressum Schwein. SPECIES
 
 #### Status
 ACCEPTED

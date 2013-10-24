@@ -1,5 +1,4 @@
-Aleuria boudieri (Höhn.) J. Moravec SPECIES
-=======
+# Aleuria boudieri (Höhn.) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

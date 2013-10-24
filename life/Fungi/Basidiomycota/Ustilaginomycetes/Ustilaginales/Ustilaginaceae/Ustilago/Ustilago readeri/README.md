@@ -1,5 +1,4 @@
-Ustilago readeri Syd. & P. Syd. SPECIES
-=======
+# Ustilago readeri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

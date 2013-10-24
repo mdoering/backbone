@@ -1,5 +1,4 @@
-Engizostoma aleurinum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Engizostoma aleurinum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

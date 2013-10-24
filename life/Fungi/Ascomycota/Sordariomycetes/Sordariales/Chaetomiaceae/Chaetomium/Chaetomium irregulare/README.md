@@ -1,14 +1,13 @@
-Achaetomium irregulare (Sörgel ex W. Gams) K. Rodr., Stchigel & Guarro, 2004 SPECIES
-=======
+# Chaetomium irregulare Sörgel, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rodríguez, Stchigel, Cano & Guarro, Stud. Mycol. 50(1): 81 (2004)
+in Gams, Nova Hedwigia 12(3/4): 386 (1967)
 
 #### Original name
 Chaetomium irregulare Sörgel, 1967

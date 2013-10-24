@@ -1,5 +1,4 @@
-Russula violaceoides Hora SPECIES
-=======
+# Russula violaceoides Hora SPECIES
 
 #### Status
 ACCEPTED

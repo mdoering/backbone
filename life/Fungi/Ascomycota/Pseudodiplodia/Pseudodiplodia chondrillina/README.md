@@ -1,5 +1,4 @@
-Pseudodiplodia chondrillina (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia chondrillina (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

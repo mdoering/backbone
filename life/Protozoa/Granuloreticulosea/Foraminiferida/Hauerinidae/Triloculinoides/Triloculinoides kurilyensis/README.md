@@ -1,5 +1,4 @@
-Triloculinoides kurilyensis Saidova, 1975 SPECIES
-=======
+# Triloculinoides kurilyensis Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

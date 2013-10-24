@@ -1,5 +1,4 @@
-Collosphaera confossa Takahashi, 1991 SPECIES
-=======
+# Collosphaera confossa Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

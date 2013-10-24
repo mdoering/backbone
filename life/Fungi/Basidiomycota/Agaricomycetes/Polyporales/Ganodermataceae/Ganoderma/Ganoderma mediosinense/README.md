@@ -1,5 +1,4 @@
-Ganoderma mediosinense J.D. Zhao, 1988 SPECIES
-=======
+# Ganoderma mediosinense J.D. Zhao, 1988 SPECIES
 
 #### Status
 ACCEPTED

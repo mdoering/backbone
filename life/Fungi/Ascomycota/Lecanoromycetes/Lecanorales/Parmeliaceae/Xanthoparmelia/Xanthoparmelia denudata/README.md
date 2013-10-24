@@ -1,5 +1,4 @@
-Xanthoparmelia denudata Hale SPECIES
-=======
+# Xanthoparmelia denudata Hale SPECIES
 
 #### Status
 ACCEPTED

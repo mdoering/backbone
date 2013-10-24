@@ -1,5 +1,4 @@
-Cylindrophoma smilacina (Desm.) Höhn. SPECIES
-=======
+# Cylindrophoma smilacina (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eouvigerina Cushman, 1926 GENUS
-=======
+# Eouvigerina Cushman, 1926 GENUS
 
 #### Status
 ACCEPTED

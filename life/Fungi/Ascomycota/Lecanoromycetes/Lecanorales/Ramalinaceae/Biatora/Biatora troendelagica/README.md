@@ -1,5 +1,4 @@
-Biatora troendelagica Holien & Printzen SPECIES
-=======
+# Biatora troendelagica Holien & Printzen SPECIES
 
 #### Status
 ACCEPTED

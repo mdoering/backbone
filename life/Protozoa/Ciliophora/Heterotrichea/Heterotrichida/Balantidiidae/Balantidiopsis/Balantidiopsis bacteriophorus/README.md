@@ -1,5 +1,4 @@
-Balantidiopsis bacteriophorus SPECIES
-=======
+# Balantidiopsis bacteriophorus SPECIES
 
 #### Status
 ACCEPTED

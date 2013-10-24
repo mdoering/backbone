@@ -1,5 +1,4 @@
-Polystictus albus (Huds.) Bigeard & H. Guill. SPECIES
-=======
+# Polystictus albus (Huds.) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia wuliensis Zahlbr. SPECIES
-=======
+# Bacidia wuliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

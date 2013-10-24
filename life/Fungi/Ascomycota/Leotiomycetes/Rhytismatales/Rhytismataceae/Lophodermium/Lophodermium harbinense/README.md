@@ -1,5 +1,4 @@
-Lophodermium harbinense Y.R. Lin SPECIES
-=======
+# Lophodermium harbinense Y.R. Lin SPECIES
 
 #### Status
 ACCEPTED

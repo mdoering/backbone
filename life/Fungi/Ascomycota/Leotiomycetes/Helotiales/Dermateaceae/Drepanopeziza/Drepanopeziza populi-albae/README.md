@@ -1,17 +1,16 @@
-Marssonina castagnei f. castagnei FORM
-=======
+# Drepanopeziza populi-albae (Kleb.) Nannf., 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 45: 88 (1906)
+Nova Acta R. Soc. Scient. upsal. , Ser. 4 8(2): 170 (1932)
 
 #### Original name
-Marssonina castagnei f. castagnei
+Pseudopeziza populi-albae Kleb., 1918
 
 ### Remarks
 null

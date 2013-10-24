@@ -1,5 +1,4 @@
-Elaphomyces asahimontanus Kobayasi SPECIES
-=======
+# Elaphomyces asahimontanus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia confluens Henn. SPECIES
-=======
+# Aschersonia confluens Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placella Syd. GENUS
-=======
+# Placella Syd. GENUS
 
 #### Status
 ACCEPTED

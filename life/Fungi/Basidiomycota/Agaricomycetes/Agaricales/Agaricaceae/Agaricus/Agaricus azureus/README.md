@@ -1,5 +1,4 @@
-Agaricus azureus Raf. SPECIES
-=======
+# Agaricus azureus Raf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria sphinctrinoides G. Winter SPECIES
-=======
+# Didymosphaeria sphinctrinoides G. Winter SPECIES
 
 #### Status
 ACCEPTED

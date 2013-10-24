@@ -1,5 +1,4 @@
-Vorticella repanda Dumas, 1929 SPECIES
-=======
+# Vorticella repanda Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

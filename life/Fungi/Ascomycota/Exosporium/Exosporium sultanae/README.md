@@ -1,5 +1,4 @@
-Exosporium sultanae Du Plessis, 1946 SPECIES
-=======
+# Exosporium sultanae Du Plessis, 1946 SPECIES
 
 #### Status
 ACCEPTED

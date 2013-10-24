@@ -1,5 +1,4 @@
-Opegrapha discolor Vain. SPECIES
-=======
+# Opegrapha discolor Vain. SPECIES
 
 #### Status
 ACCEPTED

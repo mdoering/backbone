@@ -1,5 +1,4 @@
-Protoodinium chattonii Hovasse SPECIES
-=======
+# Protoodinium chattonii Hovasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora chlorospora Gonz. Frag. SPECIES
-=======
+# Rhabdospora chlorospora Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

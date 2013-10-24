@@ -1,5 +1,4 @@
-Pelloporus GENUS
-=======
+# Pelloporus GENUS
 
 #### Status
 ACCEPTED

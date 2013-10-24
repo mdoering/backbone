@@ -1,5 +1,4 @@
-Coryneopsis tamaricis (Cooke) Grove, 1932 SPECIES
-=======
+# Coryneopsis tamaricis (Cooke) Grove, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius jubarinoides M.M. Moser SPECIES
-=======
+# Cortinarius jubarinoides M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

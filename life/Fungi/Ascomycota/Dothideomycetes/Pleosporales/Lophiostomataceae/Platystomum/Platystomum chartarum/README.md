@@ -1,5 +1,4 @@
-Platystomum chartarum (Sacc. & P. Syd.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum chartarum (Sacc. & P. Syd.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

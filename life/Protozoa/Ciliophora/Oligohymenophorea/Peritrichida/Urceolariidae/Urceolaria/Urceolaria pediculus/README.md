@@ -1,5 +1,4 @@
-Urceolaria pediculus SPECIES
-=======
+# Urceolaria pediculus SPECIES
 
 #### Status
 ACCEPTED

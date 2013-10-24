@@ -1,17 +1,16 @@
-Aschersonia taitensis Mont. SPECIES
-=======
+# Aschersonia tahitensis Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 10: 122 (1848)
 
 #### Original name
-Aschersonia taitensis Mont.
+Aschersonia tahitensis Mont.
 
 ### Remarks
 null

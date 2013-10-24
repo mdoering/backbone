@@ -1,5 +1,4 @@
-Diexallophasis parvifurcata Priewalder, 1987 SPECIES
-=======
+# Diexallophasis parvifurcata Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

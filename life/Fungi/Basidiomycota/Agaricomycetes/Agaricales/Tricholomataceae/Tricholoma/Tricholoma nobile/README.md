@@ -1,5 +1,4 @@
-Tricholoma nobile Peck SPECIES
-=======
+# Tricholoma nobile Peck SPECIES
 
 #### Status
 ACCEPTED

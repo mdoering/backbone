@@ -1,5 +1,4 @@
-Pulvinula anthracobia T. Schumach. SPECIES
-=======
+# Pulvinula anthracobia T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria diplotaxis Unamuno SPECIES
-=======
+# Septoria diplotaxis Unamuno SPECIES
 
 #### Status
 ACCEPTED

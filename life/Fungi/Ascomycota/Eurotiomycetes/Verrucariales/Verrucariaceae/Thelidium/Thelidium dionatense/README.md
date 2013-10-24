@@ -1,5 +1,4 @@
-Thelidium dionatense (Hue) Zahlbr. SPECIES
-=======
+# Thelidium dionatense (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

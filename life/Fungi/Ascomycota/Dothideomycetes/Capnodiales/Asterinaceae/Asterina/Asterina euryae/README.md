@@ -1,5 +1,4 @@
-Asterina euryae B. Song, 2004 SPECIES
-=======
+# Asterina euryae B. Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

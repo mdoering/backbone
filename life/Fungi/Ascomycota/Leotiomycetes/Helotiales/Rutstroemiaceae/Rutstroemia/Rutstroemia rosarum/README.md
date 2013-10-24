@@ -1,5 +1,4 @@
-Rutstroemia rosarum Velen. SPECIES
-=======
+# Rutstroemia rosarum Velen. SPECIES
 
 #### Status
 ACCEPTED

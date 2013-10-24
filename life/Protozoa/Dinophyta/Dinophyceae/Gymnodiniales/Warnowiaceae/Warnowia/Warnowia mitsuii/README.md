@@ -1,5 +1,4 @@
-Warnowia mitsuii SPECIES
-=======
+# Warnowia mitsuii SPECIES
 
 #### Status
 ACCEPTED

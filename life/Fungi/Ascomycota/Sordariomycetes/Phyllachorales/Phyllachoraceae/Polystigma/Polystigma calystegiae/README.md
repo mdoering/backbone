@@ -1,5 +1,4 @@
-Polystigma calystegiae J. Kickx f. SPECIES
-=======
+# Polystigma calystegiae J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

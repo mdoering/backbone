@@ -1,5 +1,4 @@
-Collema raishanum Zahlbr. SPECIES
-=======
+# Collema raishanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea cubana (Tuck.) Riddle SPECIES
-=======
+# Thyrea cubana (Tuck.) Riddle SPECIES
 
 #### Status
 ACCEPTED

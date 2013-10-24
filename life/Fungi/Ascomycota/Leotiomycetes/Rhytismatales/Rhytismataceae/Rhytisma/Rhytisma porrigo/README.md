@@ -1,5 +1,4 @@
-Rhytisma porrigo Cooke SPECIES
-=======
+# Rhytisma porrigo Cooke SPECIES
 
 #### Status
 ACCEPTED

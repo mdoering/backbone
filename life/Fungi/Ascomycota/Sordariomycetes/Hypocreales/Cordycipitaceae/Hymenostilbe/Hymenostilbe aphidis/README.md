@@ -1,5 +1,4 @@
-Hymenostilbe aphidis Petch SPECIES
-=======
+# Hymenostilbe aphidis Petch SPECIES
 
 #### Status
 ACCEPTED

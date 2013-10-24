@@ -1,17 +1,16 @@
-Oligoporus subcaesius (A. David) Ryvarden & Gilb., 1993 SPECIES
-=======
+# Postia subcaesia (A. David) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. (Oslo) 7: 435 (1993)
+null
 
 #### Original name
-Tyromyces subcaesius A. David, 1974
+null
 
 ### Remarks
 null

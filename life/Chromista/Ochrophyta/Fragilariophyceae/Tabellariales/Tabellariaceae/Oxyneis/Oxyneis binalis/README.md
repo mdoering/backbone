@@ -1,5 +1,4 @@
-Oxyneis binalis var. elliptica (R. J. Flower) J. C. Kingston VARIETY
-=======
+# Oxyneis binalis (Ehrenberg) F.E. Round SPECIES
 
 #### Status
 ACCEPTED

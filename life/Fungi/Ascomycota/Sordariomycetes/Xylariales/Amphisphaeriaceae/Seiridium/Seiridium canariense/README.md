@@ -1,5 +1,4 @@
-Seiridium canariense (Petr.) Nag Raj & W.B. Kendr. SPECIES
-=======
+# Seiridium canariense (Petr.) Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

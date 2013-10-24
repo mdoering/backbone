@@ -1,5 +1,4 @@
-Protectocarpus faeroensis (Børgesen) Kornmann SPECIES
-=======
+# Protectocarpus faeroensis (Børgesen) Kornmann SPECIES
 
 #### Status
 ACCEPTED

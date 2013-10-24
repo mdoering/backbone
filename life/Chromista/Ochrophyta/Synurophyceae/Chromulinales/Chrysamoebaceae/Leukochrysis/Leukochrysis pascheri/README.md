@@ -1,5 +1,4 @@
-Leukochrysis pascheri Bourrelly SPECIES
-=======
+# Leukochrysis pascheri Bourrelly SPECIES
 
 #### Status
 ACCEPTED

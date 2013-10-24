@@ -1,5 +1,4 @@
-Periconiella lomatiae M.B. Ellis SPECIES
-=======
+# Periconiella lomatiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

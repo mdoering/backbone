@@ -1,5 +1,4 @@
-Hendersonia glabrae Cooke SPECIES
-=======
+# Hendersonia glabrae Cooke SPECIES
 
 #### Status
 ACCEPTED

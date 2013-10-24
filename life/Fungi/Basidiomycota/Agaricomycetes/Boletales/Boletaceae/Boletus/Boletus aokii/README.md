@@ -1,5 +1,4 @@
-Boletus aokii Hongo SPECIES
-=======
+# Boletus aokii Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema diacidulum (Hale) Hale SPECIES
-=======
+# Parmotrema diacidulum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

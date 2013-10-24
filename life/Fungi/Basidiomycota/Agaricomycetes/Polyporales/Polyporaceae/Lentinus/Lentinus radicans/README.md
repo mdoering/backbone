@@ -1,5 +1,4 @@
-Lentinus radicans Berk. & Broome SPECIES
-=======
+# Lentinus radicans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodobacter veldkampii Hansen & Imhoff, 1985 SPECIES
-=======
+# Rhodobacter veldkampii Hansen & Imhoff, 1985 SPECIES
 
 #### Status
 ACCEPTED

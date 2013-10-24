@@ -1,5 +1,4 @@
-Cortinarius lepidophilus Peck SPECIES
-=======
+# Cortinarius lepidophilus Peck SPECIES
 
 #### Status
 ACCEPTED

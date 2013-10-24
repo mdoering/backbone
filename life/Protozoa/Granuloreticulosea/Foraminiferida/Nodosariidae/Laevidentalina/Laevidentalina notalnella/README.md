@@ -1,5 +1,4 @@
-Laevidentalina notalnella (Saidova, 1975) SPECIES
-=======
+# Laevidentalina notalnella (Saidova, 1975) SPECIES
 
 #### Status
 ACCEPTED

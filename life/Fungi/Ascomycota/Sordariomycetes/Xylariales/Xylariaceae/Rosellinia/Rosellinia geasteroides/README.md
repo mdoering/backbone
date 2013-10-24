@@ -1,17 +1,16 @@
-Rosellinia geasterioides Ellis & Everh. SPECIES
-=======
+# Rosellinia geasteroides Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1895 47: 415 (1895)
 
 #### Original name
-Rosellinia geasterioides Ellis & Everh.
+Rosellinia geasteroides Ellis & Everh.
 
 ### Remarks
 null

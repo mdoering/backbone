@@ -1,5 +1,4 @@
-Ceraiomyces epitrichis Thaxt. SPECIES
-=======
+# Ceraiomyces epitrichis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schrakia Hafellner GENUS
-=======
+# Schrakia Hafellner GENUS
 
 #### Status
 ACCEPTED

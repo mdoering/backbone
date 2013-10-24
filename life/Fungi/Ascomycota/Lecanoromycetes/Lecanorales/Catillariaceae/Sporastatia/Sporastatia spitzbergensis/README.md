@@ -1,5 +1,4 @@
-Sporastatia spitzbergensis Th. Fr. SPECIES
-=======
+# Sporastatia spitzbergensis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

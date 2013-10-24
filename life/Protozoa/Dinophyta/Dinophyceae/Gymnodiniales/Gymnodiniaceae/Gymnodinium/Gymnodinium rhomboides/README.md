@@ -1,5 +1,4 @@
-Gymnodinium rhomboides Schtitt SPECIES
-=======
+# Gymnodinium rhomboides Schtitt SPECIES
 
 #### Status
 ACCEPTED

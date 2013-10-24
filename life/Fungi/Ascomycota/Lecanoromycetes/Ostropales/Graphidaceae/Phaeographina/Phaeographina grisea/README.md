@@ -1,5 +1,4 @@
-Phaeographina grisea (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina grisea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

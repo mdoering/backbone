@@ -1,14 +1,13 @@
-Blitridium sabalidis Ellis & Everh., 1893 SPECIES
-=======
+# Yatesula sabalidis (Ellis & Everh.) Magnes, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 165: 112 (1997)
 
 #### Original name
 Blitridium sabalidis Ellis & Everh., 1893

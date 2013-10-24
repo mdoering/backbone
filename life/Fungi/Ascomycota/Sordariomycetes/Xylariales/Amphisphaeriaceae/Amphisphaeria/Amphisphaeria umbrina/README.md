@@ -1,17 +1,16 @@
-Diplodia conica (Lév.) Lév., 1848 SPECIES
-=======
+# Amphisphaeria umbrina (Fr.) De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sfer. Ital. 69 (1863)
 
 #### Original name
-null
+Sphaeria umbrina Berk., 1836
 
 ### Remarks
 null

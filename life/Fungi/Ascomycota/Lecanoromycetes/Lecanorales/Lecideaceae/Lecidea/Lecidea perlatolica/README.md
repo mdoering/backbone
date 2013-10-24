@@ -1,5 +1,4 @@
-Lecidea perlatolica Hertel & Leuckert SPECIES
-=======
+# Lecidea perlatolica Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

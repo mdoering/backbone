@@ -1,5 +1,4 @@
-Septoria alni Sacc., 1878 SPECIES
-=======
+# Septoria alni Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

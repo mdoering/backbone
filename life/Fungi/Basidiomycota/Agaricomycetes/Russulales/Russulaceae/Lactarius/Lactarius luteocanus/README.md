@@ -1,5 +1,4 @@
-Lactarius luteocanus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius luteocanus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

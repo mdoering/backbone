@@ -1,5 +1,4 @@
-Hemiaulus claviger A. Schmidt SPECIES
-=======
+# Hemiaulus claviger A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

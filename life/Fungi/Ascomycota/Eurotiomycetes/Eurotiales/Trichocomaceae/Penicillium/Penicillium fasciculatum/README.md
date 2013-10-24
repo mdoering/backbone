@@ -1,5 +1,4 @@
-Penicillium fasciculatum Sommerf., 1826 SPECIES
-=======
+# Penicillium fasciculatum Sommerf., 1826 SPECIES
 
 #### Status
 ACCEPTED

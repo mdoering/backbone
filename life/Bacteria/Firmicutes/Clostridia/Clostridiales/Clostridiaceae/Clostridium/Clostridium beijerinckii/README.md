@@ -1,5 +1,4 @@
-Clostridium beijerinckii Donker, 1926 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium beijerinckii Donker, 1926 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

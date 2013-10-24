@@ -1,5 +1,4 @@
-Marasmiellus baeosporoides Singer SPECIES
-=======
+# Marasmiellus baeosporoides Singer SPECIES
 
 #### Status
 ACCEPTED

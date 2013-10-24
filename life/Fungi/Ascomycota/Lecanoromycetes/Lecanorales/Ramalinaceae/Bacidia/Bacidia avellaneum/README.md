@@ -1,5 +1,4 @@
-Bacidia avellaneum B.G. de Vries SPECIES
-=======
+# Bacidia avellaneum B.G. de Vries SPECIES
 
 #### Status
 ACCEPTED

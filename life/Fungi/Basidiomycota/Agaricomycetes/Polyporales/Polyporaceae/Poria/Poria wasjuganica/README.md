@@ -1,5 +1,4 @@
-Poria wasjuganica Pilát SPECIES
-=======
+# Poria wasjuganica Pilát SPECIES
 
 #### Status
 ACCEPTED

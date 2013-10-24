@@ -1,5 +1,4 @@
-Leathesia sadoensis Inagaki SPECIES
-=======
+# Leathesia sadoensis Inagaki SPECIES
 
 #### Status
 ACCEPTED

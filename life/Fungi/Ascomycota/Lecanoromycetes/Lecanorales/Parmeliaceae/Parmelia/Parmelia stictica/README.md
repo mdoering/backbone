@@ -1,5 +1,4 @@
-Parmelia stictica (Delise ex Duby) Nyl. SPECIES
-=======
+# Parmelia stictica (Delise ex Duby) Nyl. SPECIES
 
 #### Status
 ACCEPTED

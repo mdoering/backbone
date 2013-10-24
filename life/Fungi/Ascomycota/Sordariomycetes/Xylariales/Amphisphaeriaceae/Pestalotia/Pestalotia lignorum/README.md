@@ -1,5 +1,4 @@
-Pestalotia lignorum Gambogi SPECIES
-=======
+# Pestalotia lignorum Gambogi SPECIES
 
 #### Status
 ACCEPTED

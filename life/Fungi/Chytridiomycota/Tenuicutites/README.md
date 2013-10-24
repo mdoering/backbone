@@ -1,5 +1,4 @@
-Tenuicutites C.E. Bertrand GENUS
-=======
+# Tenuicutites C.E. Bertrand GENUS
 
 #### Status
 ACCEPTED

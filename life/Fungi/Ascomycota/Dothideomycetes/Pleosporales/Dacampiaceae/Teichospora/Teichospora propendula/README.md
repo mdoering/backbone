@@ -1,5 +1,4 @@
-Teichospora propendula P. Karst. SPECIES
-=======
+# Teichospora propendula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

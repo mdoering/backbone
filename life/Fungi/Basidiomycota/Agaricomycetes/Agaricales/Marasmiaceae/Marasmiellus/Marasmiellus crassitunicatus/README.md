@@ -1,5 +1,4 @@
-Marasmiellus crassitunicatus Har. Takah. & Degawa SPECIES
-=======
+# Marasmiellus crassitunicatus Har. Takah. & Degawa SPECIES
 
 #### Status
 ACCEPTED

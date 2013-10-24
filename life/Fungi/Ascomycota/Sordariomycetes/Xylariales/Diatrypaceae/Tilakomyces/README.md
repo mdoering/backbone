@@ -1,5 +1,4 @@
-Tilakomyces GENUS
-=======
+# Tilakomyces GENUS
 
 #### Status
 ACCEPTED

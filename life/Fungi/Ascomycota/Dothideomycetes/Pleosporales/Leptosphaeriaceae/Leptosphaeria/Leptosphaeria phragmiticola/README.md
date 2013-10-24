@@ -1,5 +1,4 @@
-Leptosphaeria phragmiticola (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Leptosphaeria phragmiticola (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

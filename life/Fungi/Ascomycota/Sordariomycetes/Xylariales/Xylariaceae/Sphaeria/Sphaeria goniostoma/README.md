@@ -1,5 +1,4 @@
-Sphaeria goniostoma Schwein. SPECIES
-=======
+# Sphaeria goniostoma Schwein. SPECIES
 
 #### Status
 ACCEPTED

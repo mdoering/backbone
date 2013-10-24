@@ -1,5 +1,4 @@
-Mycosphaerella ilicicola (Maubl.) M. Morelet SPECIES
-=======
+# Mycosphaerella ilicicola (Maubl.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hysterium petiolare Alb. & Schwein. SPECIES
-=======
+# Lophodermium petiolicolum Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

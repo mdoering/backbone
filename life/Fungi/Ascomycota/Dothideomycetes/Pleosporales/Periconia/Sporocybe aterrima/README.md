@@ -1,5 +1,4 @@
-Sporocybe aterrima (Rabenh.) Sacc. SPECIES
-=======
+# Sporocybe aterrima (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

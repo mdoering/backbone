@@ -1,5 +1,4 @@
-Platnaspis Gamble in Lankester, 1909 GENUS
-=======
+# Platnaspis Gamble in Lankester, 1909 GENUS
 
 #### Status
 ACCEPTED

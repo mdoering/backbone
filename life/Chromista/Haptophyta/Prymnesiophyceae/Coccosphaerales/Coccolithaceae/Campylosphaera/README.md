@@ -1,5 +1,4 @@
-Campylosphaera E.Kamptner, 1963 GENUS
-=======
+# Campylosphaera E.Kamptner, 1963 GENUS
 
 #### Status
 ACCEPTED

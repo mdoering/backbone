@@ -1,5 +1,4 @@
-Gloeotrichia rabenhorstii Bornet SPECIES
-=======
+# Gloeotrichia rabenhorstii Bornet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia helmsii Kurok. & Filson SPECIES
-=======
+# Flavoparmelia helmsii (Kurok. & Filson) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Filson, Aust. J. Bot. 30(5): 539 (1982)
+Mycotaxon 25(2): 605 (1986)
 
 #### Original name
 Parmelia helmsii Kurok. & Filson

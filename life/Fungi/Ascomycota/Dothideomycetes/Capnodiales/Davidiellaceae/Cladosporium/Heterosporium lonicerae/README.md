@@ -1,5 +1,4 @@
-Heterosporium lonicerae Negru SPECIES
-=======
+# Heterosporium lonicerae Negru SPECIES
 
 #### Status
 ACCEPTED

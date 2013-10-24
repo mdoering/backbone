@@ -1,5 +1,4 @@
-Cyclotella chaetoceras Lemmermann SPECIES
-=======
+# Cyclotella chaetoceras Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota duriuscula Velen. SPECIES
-=======
+# Psalliota duriuscula Velen. SPECIES
 
 #### Status
 ACCEPTED

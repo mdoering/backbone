@@ -1,5 +1,4 @@
-Marssonia valpellinensis Traverso SPECIES
-=======
+# Marssonia valpellinensis Traverso SPECIES
 
 #### Status
 ACCEPTED

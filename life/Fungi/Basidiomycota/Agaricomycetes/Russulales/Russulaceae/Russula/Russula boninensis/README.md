@@ -1,5 +1,4 @@
-Russula boninensis S. Ito & S. Imai SPECIES
-=======
+# Russula boninensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aegerita physciae Vouaux, 1914 SPECIES
-=======
+# Marchandiomyces corallinus (Roberge) Diederich & D. Hawksw., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Diederich, Mycotaxon 37: 312 (1990)
 
 #### Original name
-Aegerita physciae Vouaux, 1914
+Illosporium corallinum Roberge, 1847
 
 ### Remarks
 null

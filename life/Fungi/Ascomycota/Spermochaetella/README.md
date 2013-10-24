@@ -1,5 +1,4 @@
-Spermochaetella Cif. GENUS
-=======
+# Spermochaetella Cif. GENUS
 
 #### Status
 ACCEPTED

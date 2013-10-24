@@ -1,5 +1,4 @@
-Cortinarius riopancensis M.M. Moser SPECIES
-=======
+# Cortinarius riopancensis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius fragilis (Pat.) Sacc. & Trotter SPECIES
-=======
+# Marasmius fragilis (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

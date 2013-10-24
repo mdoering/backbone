@@ -1,5 +1,4 @@
-Amazonia erythroxyli Hansf. SPECIES
-=======
+# Amazonia erythroxyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

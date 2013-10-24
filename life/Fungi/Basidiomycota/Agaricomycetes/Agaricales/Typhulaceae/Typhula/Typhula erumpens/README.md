@@ -1,5 +1,4 @@
-Typhula erumpens Corner, 1970 SPECIES
-=======
+# Typhula erumpens Corner, 1970 SPECIES
 
 #### Status
 ACCEPTED

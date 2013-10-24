@@ -1,5 +1,4 @@
-Leptosphaera minuta Popofsky, 1912 SPECIES
-=======
+# Leptosphaera minuta Popofsky, 1912 SPECIES
 
 #### Status
 ACCEPTED

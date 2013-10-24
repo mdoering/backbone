@@ -1,5 +1,4 @@
-Gyrothrix cornuta V. Rao & de Hoog SPECIES
-=======
+# Gyrothrix cornuta V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

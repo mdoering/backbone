@@ -1,5 +1,4 @@
-Phyllosticta fagopyricola Melnik SPECIES
-=======
+# Phyllosticta fagopyricola Melnik SPECIES
 
 #### Status
 ACCEPTED

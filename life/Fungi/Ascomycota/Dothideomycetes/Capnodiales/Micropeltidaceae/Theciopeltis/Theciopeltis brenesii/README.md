@@ -1,5 +1,4 @@
-Theciopeltis brenesii Syd. SPECIES
-=======
+# Theciopeltis brenesii Syd. SPECIES
 
 #### Status
 ACCEPTED

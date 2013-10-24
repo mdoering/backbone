@@ -1,5 +1,4 @@
-Erikssonia melastomacearum (Racib.) Arx & E. Müll., 1954 SPECIES
-=======
+# Erikssonia melastomacearum (Racib.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

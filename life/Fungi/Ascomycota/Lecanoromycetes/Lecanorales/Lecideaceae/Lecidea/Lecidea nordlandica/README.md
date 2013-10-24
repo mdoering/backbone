@@ -1,5 +1,4 @@
-Lecidea nordlandica (Th. Fr.) Stizenb. SPECIES
-=======
+# Lecidea nordlandica (Th. Fr.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

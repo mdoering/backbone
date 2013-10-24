@@ -1,5 +1,4 @@
-Rhytidenglerula homalanthi (Hansf.) Arx SPECIES
-=======
+# Rhytidenglerula homalanthi (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

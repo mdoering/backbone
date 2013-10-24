@@ -1,17 +1,16 @@
-Cercospora cassicola S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora cassiicola S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sugarcane Pathology (Enfield), <b>1</b>: Fungal Diseases 66 (1999)
 
 #### Original name
-Cercospora cassicola S. Narayan, P.N. Singh & G.P. Rao
+Cercospora cassiicola S. Narayan, P.N. Singh & G.P. Rao
 
 ### Remarks
 null

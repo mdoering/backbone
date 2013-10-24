@@ -1,5 +1,4 @@
-Entoloma fracturans E. Horak SPECIES
-=======
+# Entoloma fracturans E. Horak SPECIES
 
 #### Status
 ACCEPTED

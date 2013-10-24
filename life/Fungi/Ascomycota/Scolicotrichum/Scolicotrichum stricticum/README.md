@@ -1,5 +1,4 @@
-Scolicotrichum stricticum anon. SPECIES
-=======
+# Scolicotrichum stricticum anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria palaeodaphnes Ettingsh. SPECIES
-=======
+# Sphaeria palaeodaphnes Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

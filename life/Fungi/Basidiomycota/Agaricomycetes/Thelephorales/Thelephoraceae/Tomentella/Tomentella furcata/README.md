@@ -1,5 +1,4 @@
-Tomentella furcata Yorou & Agerer SPECIES
-=======
+# Tomentella furcata Yorou & Agerer SPECIES
 
 #### Status
 ACCEPTED

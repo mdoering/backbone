@@ -1,5 +1,4 @@
-Granomarginata rotata P. K. Maithy & M. Shukla SPECIES
-=======
+# Granomarginata rotata P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

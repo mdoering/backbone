@@ -1,5 +1,4 @@
-Calogloeum oelandicum (Lind) Nannf. SPECIES
-=======
+# Calogloeum oelandicum (Lind) Nannf. SPECIES
 
 #### Status
 ACCEPTED

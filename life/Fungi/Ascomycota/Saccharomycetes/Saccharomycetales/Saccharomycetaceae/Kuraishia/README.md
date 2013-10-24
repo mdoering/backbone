@@ -1,5 +1,4 @@
-Kuraishia GENUS
-=======
+# Kuraishia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella bresadolae Strasser SPECIES
-=======
+# Lachnella bresadolae Strasser SPECIES
 
 #### Status
 ACCEPTED

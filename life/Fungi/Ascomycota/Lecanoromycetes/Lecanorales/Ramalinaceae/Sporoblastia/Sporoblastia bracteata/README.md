@@ -1,5 +1,4 @@
-Sporoblastia bracteata (Hoffm.) Trevis. SPECIES
-=======
+# Sporoblastia bracteata (Hoffm.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

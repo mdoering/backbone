@@ -1,5 +1,4 @@
-Arthonia stictella Nyl. SPECIES
-=======
+# Arthonia stictella Nyl. SPECIES
 
 #### Status
 ACCEPTED

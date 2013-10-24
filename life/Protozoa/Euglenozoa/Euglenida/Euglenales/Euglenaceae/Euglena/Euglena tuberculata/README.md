@@ -1,5 +1,4 @@
-Euglena tuberculata Swirenko SPECIES
-=======
+# Euglena tuberculata Swirenko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza wrightii Cooke SPECIES
-=======
+# Peziza wrightii Cooke SPECIES
 
 #### Status
 ACCEPTED

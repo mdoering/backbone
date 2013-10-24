@@ -1,5 +1,4 @@
-Moraxella Lwoff, 1939 GENUS
-=======
+# Moraxella Lwoff, 1939 GENUS
 
 #### Status
 ACCEPTED

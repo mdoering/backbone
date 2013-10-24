@@ -1,5 +1,4 @@
-Trichophyton castaneum (Tanig.) Nann. SPECIES
-=======
+# Trichophyton castaneum (Tanig.) Nann. SPECIES
 
 #### Status
 ACCEPTED

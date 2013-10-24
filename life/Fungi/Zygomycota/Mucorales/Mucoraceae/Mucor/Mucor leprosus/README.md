@@ -1,5 +1,4 @@
-Mucor leprosus L. SPECIES
-=======
+# Mucor leprosus L. SPECIES
 
 #### Status
 ACCEPTED

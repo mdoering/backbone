@@ -1,17 +1,16 @@
-Clypeothecium Petr. GENUS
-=======
+# Exarmidium P. Karsten, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Sydow & Petrak, Annls mycol. 20(3/4): 182 (1922)
+null
 
 #### Original name
-Clypeothecium Petr.
+null
 
 ### Remarks
 null

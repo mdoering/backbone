@@ -1,5 +1,4 @@
-Bensingtonia ingoldii Nakase & Itoh, 1989 SPECIES
-=======
+# Bensingtonia ingoldii Nakase & Itoh, 1989 SPECIES
 
 #### Status
 ACCEPTED

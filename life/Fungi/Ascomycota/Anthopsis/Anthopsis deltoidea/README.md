@@ -1,5 +1,4 @@
-Anthopsis deltoidea Fil. March., A. Fontana & Luppi Mosca, 1977 SPECIES
-=======
+# Anthopsis deltoidea Fil. March., A. Fontana & Luppi Mosca, 1977 SPECIES
 
 #### Status
 ACCEPTED

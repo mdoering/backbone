@@ -1,5 +1,4 @@
-Caloplaca kansuensis H. Magn. SPECIES
-=======
+# Caloplaca kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

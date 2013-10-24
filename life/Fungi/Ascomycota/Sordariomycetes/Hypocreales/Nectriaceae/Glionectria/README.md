@@ -1,5 +1,4 @@
-Glionectria Crous & S.L. Schoch GENUS
-=======
+# Glionectria Crous & S.L. Schoch GENUS
 
 #### Status
 ACCEPTED

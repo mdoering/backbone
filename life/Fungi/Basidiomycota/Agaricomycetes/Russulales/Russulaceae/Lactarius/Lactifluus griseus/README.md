@@ -1,5 +1,4 @@
-Lactifluus griseus (Peck) Kuntze SPECIES
-=======
+# Lactifluus griseus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

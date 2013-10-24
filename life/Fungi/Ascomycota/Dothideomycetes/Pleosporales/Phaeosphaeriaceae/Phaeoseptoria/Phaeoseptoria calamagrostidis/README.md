@@ -1,5 +1,4 @@
-Phaeoseptoria calamagrostidis R. Sprague SPECIES
-=======
+# Phaeoseptoria calamagrostidis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

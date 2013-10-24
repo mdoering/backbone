@@ -1,5 +1,4 @@
-Moorella thermoacetica (Fontaine et al., 1942) Collins et al., 1994 SPECIES
-=======
+# Moorella thermoacetica (Fontaine et al., 1942) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

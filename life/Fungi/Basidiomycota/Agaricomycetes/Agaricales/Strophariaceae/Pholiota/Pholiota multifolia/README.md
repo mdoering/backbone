@@ -1,5 +1,4 @@
-Pholiota multifolia (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota multifolia (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

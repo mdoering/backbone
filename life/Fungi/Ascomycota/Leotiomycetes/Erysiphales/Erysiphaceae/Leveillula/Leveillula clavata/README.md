@@ -1,5 +1,4 @@
-Leveillula clavata Nour SPECIES
-=======
+# Leveillula clavata Nour SPECIES
 
 #### Status
 ACCEPTED

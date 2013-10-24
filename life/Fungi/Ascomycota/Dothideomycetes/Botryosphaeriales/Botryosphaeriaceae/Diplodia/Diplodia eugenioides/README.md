@@ -1,5 +1,4 @@
-Diplodia eugenioides Welsford {?} SPECIES
-=======
+# Diplodia eugenioides Welsford {?} SPECIES
 
 #### Status
 ACCEPTED

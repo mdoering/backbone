@@ -1,5 +1,4 @@
-Leciographa floerkei SPECIES
-=======
+# Leciographa floerkei SPECIES
 
 #### Status
 ACCEPTED

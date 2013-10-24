@@ -1,5 +1,4 @@
-Ricasolia fendleri (Tuck. & Mont.) Nyl. SPECIES
-=======
+# Ricasolia fendleri (Tuck. & Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

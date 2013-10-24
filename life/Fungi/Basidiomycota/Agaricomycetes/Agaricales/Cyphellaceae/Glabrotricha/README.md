@@ -1,5 +1,4 @@
-Glabrotricha Pilát, 1925 GENUS
-=======
+# Glabrotricha Pilát, 1925 GENUS
 
 #### Status
 ACCEPTED

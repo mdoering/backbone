@@ -1,5 +1,4 @@
-Lactarius involutus Velen. SPECIES
-=======
+# Lactarius involutus Velen. SPECIES
 
 #### Status
 ACCEPTED

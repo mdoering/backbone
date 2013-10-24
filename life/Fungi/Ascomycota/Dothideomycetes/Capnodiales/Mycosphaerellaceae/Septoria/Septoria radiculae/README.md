@@ -1,5 +1,4 @@
-Septoria radiculae Dearn. SPECIES
-=======
+# Septoria radiculae Dearn. SPECIES
 
 #### Status
 ACCEPTED

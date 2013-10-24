@@ -1,5 +1,4 @@
-Corticium archeri Berk. SPECIES
-=======
+# Corticium archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

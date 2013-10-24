@@ -1,5 +1,4 @@
-Guepiniopsis andina Pat. SPECIES
-=======
+# Guepiniopsis andina Pat. SPECIES
 
 #### Status
 ACCEPTED

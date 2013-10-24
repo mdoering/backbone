@@ -1,5 +1,4 @@
-Sebacina pileata P. Roberts SPECIES
-=======
+# Sebacina pileata P. Roberts SPECIES
 
 #### Status
 ACCEPTED

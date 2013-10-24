@@ -1,17 +1,16 @@
-Lizonia baldinii subsp. baldinii SUBSPECIES
-=======
+# Lizonia baldinii (Pirotta) Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 14: 309 (1978)
 
 #### Original name
-null
+Pseudolizonia baldinii Pirotta, 1889
 
 ### Remarks
 null

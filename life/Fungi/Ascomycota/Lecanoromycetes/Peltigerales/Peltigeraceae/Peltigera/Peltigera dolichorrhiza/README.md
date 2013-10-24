@@ -1,5 +1,4 @@
-Peltigera dolichorrhiza f. dolichorrhiza FORM
-=======
+# Peltigera dolichorrhiza SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. Nov. Zeland. 43 (1888)
+null
 
 #### Original name
-Peltigera polydactylon var. dolichorhiza Nyl.
+null
 
 ### Remarks
 null

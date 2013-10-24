@@ -1,5 +1,4 @@
-Isoselmis obconica R.W. Butcher SPECIES
-=======
+# Isoselmis obconica R.W. Butcher SPECIES
 
 #### Status
 ACCEPTED

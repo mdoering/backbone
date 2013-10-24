@@ -1,5 +1,4 @@
-Cenangium microspermum Sacc. & Ellis SPECIES
-=======
+# Cenangium microspermum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

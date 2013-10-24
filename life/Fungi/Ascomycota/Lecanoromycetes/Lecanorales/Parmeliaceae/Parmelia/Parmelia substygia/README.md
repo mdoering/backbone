@@ -1,5 +1,4 @@
-Parmelia substygia Räsänen SPECIES
-=======
+# Parmelia substygia Räsänen SPECIES
 
 #### Status
 ACCEPTED

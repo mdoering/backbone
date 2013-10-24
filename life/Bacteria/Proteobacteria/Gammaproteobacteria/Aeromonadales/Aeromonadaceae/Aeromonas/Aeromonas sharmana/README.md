@@ -1,5 +1,4 @@
-Aeromonas sharmana Saha & Chakrabarti, 2006 SPECIES
-=======
+# Aeromonas sharmana Saha & Chakrabarti, 2006 SPECIES
 
 #### Status
 ACCEPTED

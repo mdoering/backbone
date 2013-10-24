@@ -1,5 +1,4 @@
-Alectoria luteola Mont. SPECIES
-=======
+# Alectoria luteola Mont. SPECIES
 
 #### Status
 ACCEPTED

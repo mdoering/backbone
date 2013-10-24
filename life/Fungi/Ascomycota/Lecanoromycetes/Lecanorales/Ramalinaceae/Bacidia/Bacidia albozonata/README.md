@@ -1,5 +1,4 @@
-Bacidia albozonata Zahlbr. SPECIES
-=======
+# Bacidia albozonata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

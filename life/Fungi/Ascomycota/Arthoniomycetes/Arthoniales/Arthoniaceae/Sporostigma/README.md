@@ -1,5 +1,4 @@
-Sporostigma Grube GENUS
-=======
+# Sporostigma Grube GENUS
 
 #### Status
 ACCEPTED

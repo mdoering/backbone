@@ -1,5 +1,4 @@
-Sphaeria heufleri Auersw. SPECIES
-=======
+# Sphaeria heufleri Auersw. SPECIES
 
 #### Status
 ACCEPTED

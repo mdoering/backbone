@@ -1,5 +1,4 @@
-Sphaerella laburni Pass. SPECIES
-=======
+# Sphaerella laburni Pass. SPECIES
 
 #### Status
 ACCEPTED

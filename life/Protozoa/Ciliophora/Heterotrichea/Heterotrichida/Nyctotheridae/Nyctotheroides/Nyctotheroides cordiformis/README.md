@@ -1,8 +1,7 @@
-Bursaria cordiformis (Bloch, 1782) Ehrenberg, 1838 SPECIES
-=======
+# Nyctotheroides cordiformis (Ehrenberg, 1838) Grassé, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

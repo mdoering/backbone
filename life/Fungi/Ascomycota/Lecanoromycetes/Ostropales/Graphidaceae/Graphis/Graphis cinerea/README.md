@@ -1,5 +1,4 @@
-Graphis cinerea Fée SPECIES
-=======
+# Graphis cinerea Fée SPECIES
 
 #### Status
 ACCEPTED

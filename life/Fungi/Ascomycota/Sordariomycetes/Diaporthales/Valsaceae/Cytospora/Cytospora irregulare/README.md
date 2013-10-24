@@ -1,5 +1,4 @@
-Cytospora irregulare Died. SPECIES
-=======
+# Cytospora irregulare Died. SPECIES
 
 #### Status
 ACCEPTED

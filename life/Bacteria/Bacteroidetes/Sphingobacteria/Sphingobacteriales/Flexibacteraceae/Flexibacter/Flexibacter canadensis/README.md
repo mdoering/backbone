@@ -1,5 +1,4 @@
-Flexibacter canadensis Christensen, 1980 SPECIES
-=======
+# Flexibacter canadensis Christensen, 1980 SPECIES
 
 #### Status
 ACCEPTED

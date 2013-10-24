@@ -1,17 +1,16 @@
-Agaricus pyrogalus var. pyrogalus VARIETY
-=======
+# Lactarius pyrogalus (Bull.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 339 (1838)
 
 #### Original name
-null
+Agaricus pyrogalus Bull., 1792
 
 ### Remarks
 null

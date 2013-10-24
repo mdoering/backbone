@@ -1,17 +1,16 @@
-Asteridiella oreocnidicola Hosag. SPECIES
-=======
+# Asteridiella oreocnideicola Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Biju, Journal of Mycopathological Research 44(1): 40 (2006)
 
 #### Original name
-Asteridiella oreocnidicola Hosag.
+Asteridiella oreocnideicola Hosag.
 
 ### Remarks
 null

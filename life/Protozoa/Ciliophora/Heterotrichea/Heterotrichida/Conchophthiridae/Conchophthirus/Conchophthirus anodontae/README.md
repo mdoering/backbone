@@ -1,8 +1,7 @@
-Leucophra anodontae SPECIES
-=======
+# Conchophthirus anodontae (Ehrenberg, 1838) Stein, 1861 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

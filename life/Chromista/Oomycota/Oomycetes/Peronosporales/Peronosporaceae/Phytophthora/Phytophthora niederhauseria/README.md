@@ -1,5 +1,4 @@
-Phytophthora niederhauseria Abad & J.A. Abad {?} SPECIES
-=======
+# Phytophthora niederhauseria Abad & J.A. Abad {?} SPECIES
 
 #### Status
 ACCEPTED

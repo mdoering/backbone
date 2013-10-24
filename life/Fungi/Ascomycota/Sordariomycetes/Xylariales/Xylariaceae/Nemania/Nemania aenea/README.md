@@ -1,5 +1,4 @@
-Nemania aenea var. aenea VARIETY
-=======
+# Nemania aenea (Nitschke) Pouzar, 1985 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 39(3): 129 (1985)
+null
 
 #### Original name
-Hypoxylon aeneum Nitschke, 1867
+null
 
 ### Remarks
 null

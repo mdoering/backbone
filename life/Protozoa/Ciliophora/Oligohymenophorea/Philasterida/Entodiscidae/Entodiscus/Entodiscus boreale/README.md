@@ -1,5 +1,4 @@
-Entodiscus boreale (Hentschel, 1924) SPECIES
-=======
+# Entodiscus boreale (Hentschel, 1924) SPECIES
 
 #### Status
 ACCEPTED

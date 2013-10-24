@@ -1,5 +1,4 @@
-Thelidium obscurum (Garov.) Zschacke SPECIES
-=======
+# Thelidium obscurum (Garov.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

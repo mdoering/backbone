@@ -1,5 +1,4 @@
-Pseudocercospora lathyri (Dearn. & House) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora lathyri (Dearn. & House) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

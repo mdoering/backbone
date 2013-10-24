@@ -1,5 +1,4 @@
-Ligniella sharifii Esfand. SPECIES
-=======
+# Ligniella sharifii Esfand. SPECIES
 
 #### Status
 ACCEPTED

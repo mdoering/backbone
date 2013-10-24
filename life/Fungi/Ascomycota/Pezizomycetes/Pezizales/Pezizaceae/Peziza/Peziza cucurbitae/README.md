@@ -1,5 +1,4 @@
-Peziza cucurbitae W.R. Gerard SPECIES
-=======
+# Peziza cucurbitae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

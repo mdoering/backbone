@@ -1,5 +1,4 @@
-Polypedia Bat. & Peres GENUS
-=======
+# Polypedia Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

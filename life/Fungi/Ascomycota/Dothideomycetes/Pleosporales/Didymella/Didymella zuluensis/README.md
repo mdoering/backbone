@@ -1,5 +1,4 @@
-Didymella zuluensis Doidge SPECIES
-=======
+# Didymella zuluensis Doidge SPECIES
 
 #### Status
 ACCEPTED

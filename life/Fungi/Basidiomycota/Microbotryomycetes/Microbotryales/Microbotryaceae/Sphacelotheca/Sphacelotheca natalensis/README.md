@@ -1,5 +1,4 @@
-Sphacelotheca natalensis Zundel SPECIES
-=======
+# Sphacelotheca natalensis Zundel SPECIES
 
 #### Status
 ACCEPTED

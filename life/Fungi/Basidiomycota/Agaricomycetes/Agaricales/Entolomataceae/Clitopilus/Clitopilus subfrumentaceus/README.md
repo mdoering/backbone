@@ -1,5 +1,4 @@
-Clitopilus subfrumentaceus Cleland SPECIES
-=======
+# Clitopilus subfrumentaceus Cleland SPECIES
 
 #### Status
 ACCEPTED

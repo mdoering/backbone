@@ -1,5 +1,4 @@
-Gloeosporium opacum Kabát & Bubák SPECIES
-=======
+# Gloeosporium opacum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe exochordae (Q.X. Lu & G.Z. Lu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe exochordae (Q.X. Lu & G.Z. Lu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

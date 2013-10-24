@@ -1,17 +1,16 @@
-Boletus leucomelaena Pers. SPECIES
-=======
+# Boletopsis leucomelaena (Pers.) Fayod, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Malpighia 3: 72 (1889)
 
 #### Original name
-Boletus leucomelaena Pers.
+Boletus leucomelas Pers., 1801
 
 ### Remarks
 null

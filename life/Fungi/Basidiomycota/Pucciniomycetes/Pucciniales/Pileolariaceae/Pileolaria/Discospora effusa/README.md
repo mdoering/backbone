@@ -1,5 +1,4 @@
-Discospora effusa (Peck) Arthur SPECIES
-=======
+# Discospora effusa (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

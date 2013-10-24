@@ -1,17 +1,16 @@
-Phaeoramularia dicanthii-annulatae R.K. Chaudhary, S.K. Singh & P.N. Singh SPECIES
-=======
+# Phaeoramularia dichanthii-annulati R.K. Chaudhary, S.K. Singh & P.N. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(4): 469 (2002)
 
 #### Original name
-Phaeoramularia dicanthii-annulatae R.K. Chaudhary, S.K. Singh & P.N. Singh
+Phaeoramularia dichanthii-annulati R.K. Chaudhary, S.K. Singh & P.N. Singh
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scoliciosporum abietinum T. Sprib. SPECIES
-=======
+# Scoliciosporum abietinum T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

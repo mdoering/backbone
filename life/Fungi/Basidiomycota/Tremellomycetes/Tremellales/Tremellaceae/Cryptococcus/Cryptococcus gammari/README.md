@@ -1,5 +1,4 @@
-Cryptococcus gammari Goodrich {?} SPECIES
-=======
+# Cryptococcus gammari Goodrich {?} SPECIES
 
 #### Status
 ACCEPTED

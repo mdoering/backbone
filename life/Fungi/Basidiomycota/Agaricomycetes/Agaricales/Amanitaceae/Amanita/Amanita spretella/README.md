@@ -1,5 +1,4 @@
-Amanita spretella (Murrill) Murrill SPECIES
-=======
+# Amanita spretella (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

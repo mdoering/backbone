@@ -1,17 +1,16 @@
-Scolicotrichum roumegueri Cavara SPECIES
-=======
+# Scolicotrichum roumeguerei Cavara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Briosi & Cavara, Funghi Parass. Piante Colt. od Utili, Fasc. 5: no. 112 (1890)
 
 #### Original name
-Scolicotrichum roumegueri Cavara
+Scolicotrichum roumeguerei Cavara
 
 ### Remarks
 null

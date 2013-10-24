@@ -1,5 +1,4 @@
-Hemimycena setulosa Rawla & S. Arya SPECIES
-=======
+# Hemimycena setulosa Rawla & S. Arya SPECIES
 
 #### Status
 ACCEPTED

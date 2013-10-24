@@ -1,5 +1,4 @@
-Cercosporina bakeriana (Sacc.) Sacc. SPECIES
-=======
+# Cercosporina bakeriana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

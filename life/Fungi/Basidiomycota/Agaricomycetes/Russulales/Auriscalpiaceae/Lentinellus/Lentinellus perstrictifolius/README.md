@@ -1,5 +1,4 @@
-Lentinellus perstrictifolius (Speg.) Singer SPECIES
-=======
+# Lentinellus perstrictifolius (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

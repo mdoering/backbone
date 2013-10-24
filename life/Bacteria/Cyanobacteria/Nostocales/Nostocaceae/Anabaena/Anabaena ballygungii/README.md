@@ -1,5 +1,4 @@
-Anabaena ballygungii J. C. Banerji SPECIES
-=======
+# Anabaena ballygungii J. C. Banerji SPECIES
 
 #### Status
 ACCEPTED

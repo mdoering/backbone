@@ -1,5 +1,4 @@
-Stephanopyxis schulzii f. nuda N.I. Strelnikova FORM
-=======
+# Stephanopyxis schulzii SPECIES
 
 #### Status
 ACCEPTED

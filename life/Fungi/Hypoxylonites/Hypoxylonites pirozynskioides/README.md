@@ -1,5 +1,4 @@
-Hypoxylonites pirozynskioides Elsik SPECIES
-=======
+# Hypoxylonites pirozynskioides Elsik SPECIES
 
 #### Status
 ACCEPTED

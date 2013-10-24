@@ -1,5 +1,4 @@
-Sphaeria bomba Mont. SPECIES
-=======
+# Sphaeria bomba Mont. SPECIES
 
 #### Status
 ACCEPTED

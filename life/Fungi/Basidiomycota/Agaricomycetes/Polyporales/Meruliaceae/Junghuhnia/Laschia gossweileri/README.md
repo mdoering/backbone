@@ -1,5 +1,4 @@
-Laschia gossweileri Lloyd SPECIES
-=======
+# Laschia gossweileri Lloyd SPECIES
 
 #### Status
 ACCEPTED

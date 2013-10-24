@@ -1,5 +1,4 @@
-Boletus njalaensis Beeli SPECIES
-=======
+# Boletus njalaensis Beeli SPECIES
 
 #### Status
 ACCEPTED

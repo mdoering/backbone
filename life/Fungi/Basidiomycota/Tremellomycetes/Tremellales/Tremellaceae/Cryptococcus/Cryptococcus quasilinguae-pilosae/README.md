@@ -1,5 +1,4 @@
-Cryptococcus quasilinguae-pilosae Cooper {?} SPECIES
-=======
+# Cryptococcus quasilinguae-pilosae Cooper {?} SPECIES
 
 #### Status
 ACCEPTED

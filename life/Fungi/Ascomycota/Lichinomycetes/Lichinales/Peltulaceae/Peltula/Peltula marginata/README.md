@@ -1,5 +1,4 @@
-Peltula marginata Büdel SPECIES
-=======
+# Peltula marginata Büdel SPECIES
 
 #### Status
 ACCEPTED

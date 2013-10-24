@@ -1,5 +1,4 @@
-Oidospora Will. GENUS
-=======
+# Oidospora Will. GENUS
 
 #### Status
 ACCEPTED

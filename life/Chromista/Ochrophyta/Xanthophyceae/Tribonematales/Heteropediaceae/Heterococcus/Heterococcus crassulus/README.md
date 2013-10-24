@@ -1,5 +1,4 @@
-Heterococcus crassulus Vischer SPECIES
-=======
+# Heterococcus crassulus Vischer SPECIES
 
 #### Status
 ACCEPTED

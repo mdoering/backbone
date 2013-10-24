@@ -1,5 +1,4 @@
-Aposphaeria aranea Peck SPECIES
-=======
+# Aposphaeria aranea Peck SPECIES
 
 #### Status
 ACCEPTED

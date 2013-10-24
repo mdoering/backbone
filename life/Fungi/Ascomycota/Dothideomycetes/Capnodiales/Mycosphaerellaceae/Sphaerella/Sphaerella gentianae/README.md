@@ -1,5 +1,4 @@
-Sphaerella gentianae Niessl SPECIES
-=======
+# Sphaerella gentianae Niessl SPECIES
 
 #### Status
 ACCEPTED

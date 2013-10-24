@@ -1,5 +1,4 @@
-Mortierella parazychae W. Gams, 1976 SPECIES
-=======
+# Mortierella parazychae W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

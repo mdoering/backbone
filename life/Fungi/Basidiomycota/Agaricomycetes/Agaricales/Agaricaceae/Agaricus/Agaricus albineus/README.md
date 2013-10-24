@@ -1,5 +1,4 @@
-Agaricus albineus Fr. SPECIES
-=======
+# Agaricus albineus Fr. SPECIES
 
 #### Status
 ACCEPTED

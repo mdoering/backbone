@@ -1,5 +1,4 @@
-Pleurotrema complanatum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema complanatum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

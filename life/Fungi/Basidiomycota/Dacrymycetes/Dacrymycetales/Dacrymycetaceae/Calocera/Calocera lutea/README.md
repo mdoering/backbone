@@ -1,14 +1,13 @@
-Dacryomitra lutea (Massee) Lloyd, 1921 SPECIES
-=======
+# Calocera lutea (Massee) McNabb, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 1048 (1921)
+N. Z. Jl Bot. 3(1): 46 (1965)
 
 #### Original name
 null

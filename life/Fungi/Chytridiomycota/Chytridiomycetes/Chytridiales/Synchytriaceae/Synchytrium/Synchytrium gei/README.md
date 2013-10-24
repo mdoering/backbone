@@ -1,5 +1,4 @@
-Synchytrium gei Padwick SPECIES
-=======
+# Synchytrium gei Padwick SPECIES
 
 #### Status
 ACCEPTED

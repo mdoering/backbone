@@ -1,5 +1,4 @@
-Gymnopilus earlei Murrill SPECIES
-=======
+# Gymnopilus earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

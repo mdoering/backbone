@@ -1,5 +1,4 @@
-Polystictus lignicola Lloyd SPECIES
-=======
+# Polystictus lignicola Lloyd SPECIES
 
 #### Status
 ACCEPTED

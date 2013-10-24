@@ -1,5 +1,4 @@
-Sphaerulina mimosae-pigrae H.C. Evans & G. Carrión, 1993 SPECIES
-=======
+# Sphaerulina mimosae-pigrae H.C. Evans & G. Carrión, 1993 SPECIES
 
 #### Status
 ACCEPTED

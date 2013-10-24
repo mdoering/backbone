@@ -1,5 +1,4 @@
-Sphaeronaema nitidum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema nitidum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

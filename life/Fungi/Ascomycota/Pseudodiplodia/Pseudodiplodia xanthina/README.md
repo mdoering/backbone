@@ -1,5 +1,4 @@
-Pseudodiplodia xanthina (Sacc.) Petr. SPECIES
-=======
+# Pseudodiplodia xanthina (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia darbishirei Follmann & B. Werner SPECIES
-=======
+# Arthonia darbishirei Follmann & B. Werner SPECIES
 
 #### Status
 ACCEPTED

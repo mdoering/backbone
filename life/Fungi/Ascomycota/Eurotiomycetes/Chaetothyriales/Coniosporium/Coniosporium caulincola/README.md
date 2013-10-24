@@ -1,5 +1,4 @@
-Coniosporium caulincola Richon SPECIES
-=======
+# Coniosporium caulincola Richon SPECIES
 
 #### Status
 ACCEPTED

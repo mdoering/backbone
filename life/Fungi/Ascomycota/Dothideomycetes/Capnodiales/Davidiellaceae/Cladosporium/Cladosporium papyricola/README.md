@@ -1,5 +1,4 @@
-Cladosporium papyricola Berk. & Broome SPECIES
-=======
+# Cladosporium papyricola Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodinula thesii (Boyer & Jacz.) Tassi SPECIES
-=======
+# Diplodinula thesii (Boyer & Jacz.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hydrabasidium Park.-Rhodes ex J. Erikss. & Ryvarden GENUS
-=======
+# Scotomyces Jülich GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 5: 896 (1978)
+Persoonia 10(1): 139 (1978)
 
 #### Original name
-Hydrabasidium Park.-Rhodes ex J. Erikss. & Ryvarden
+Scotomyces Jülich
 
 ### Remarks
 null

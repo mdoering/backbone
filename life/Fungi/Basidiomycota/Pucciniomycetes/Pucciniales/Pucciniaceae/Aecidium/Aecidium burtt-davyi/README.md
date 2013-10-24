@@ -1,17 +1,16 @@
-Aecidium burtt-davii Doidge SPECIES
-=======
+# Aecidium burtt-davyi Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 3: 487 (1939)
 
 #### Original name
-Aecidium burtt-davii Doidge
+Aecidium burtt-davyi Doidge
 
 ### Remarks
 null

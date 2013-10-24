@@ -1,5 +1,4 @@
-Candida elateridarum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida elateridarum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

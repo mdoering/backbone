@@ -1,8 +1,7 @@
-Cymathaere japonica Miyabe & Nagai, 1940 SPECIES
-=======
+# Saccharina kurilensis C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

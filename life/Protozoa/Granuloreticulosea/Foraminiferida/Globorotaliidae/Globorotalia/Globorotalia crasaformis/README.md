@@ -1,11 +1,10 @@
-Globorotalia crasaformis subsp. crasaformis SUBSPECIES
-=======
+# Globorotalia crasaformis (Galloway & Wissler) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The National Checklist of Taiwan
 
 #### Published in
 null

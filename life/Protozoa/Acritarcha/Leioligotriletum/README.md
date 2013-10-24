@@ -1,5 +1,4 @@
-Leioligotriletum GENUS
-=======
+# Leioligotriletum GENUS
 
 #### Status
 ACCEPTED

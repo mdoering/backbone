@@ -1,5 +1,4 @@
-Clitocybe novembrina Velen. SPECIES
-=======
+# Clitocybe novembrina Velen. SPECIES
 
 #### Status
 ACCEPTED

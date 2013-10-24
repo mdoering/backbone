@@ -1,5 +1,4 @@
-Cyphelium viridiloculare (F. Wilson) Zahlbr. SPECIES
-=======
+# Cyphelium viridiloculare (F. Wilson) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

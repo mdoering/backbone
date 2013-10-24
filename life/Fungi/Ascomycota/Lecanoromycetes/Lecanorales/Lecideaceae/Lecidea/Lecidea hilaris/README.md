@@ -1,5 +1,4 @@
-Lecidea hilaris Nyl. SPECIES
-=======
+# Lecidea hilaris Nyl. SPECIES
 
 #### Status
 ACCEPTED

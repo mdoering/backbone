@@ -1,5 +1,4 @@
-Phyllosticta nyctanthis Pandotra & K.S.M. Sastry SPECIES
-=======
+# Phyllosticta nyctanthis Pandotra & K.S.M. Sastry SPECIES
 
 #### Status
 ACCEPTED

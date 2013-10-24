@@ -1,5 +1,4 @@
-Rosellinia catacrypta Rehm SPECIES
-=======
+# Rosellinia catacrypta Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluricellaesporites irregularis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites irregularis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

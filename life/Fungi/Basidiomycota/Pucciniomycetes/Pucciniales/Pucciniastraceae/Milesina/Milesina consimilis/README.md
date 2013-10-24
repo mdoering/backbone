@@ -1,5 +1,4 @@
-Milesina consimilis Arthur SPECIES
-=======
+# Milesina consimilis Arthur SPECIES
 
 #### Status
 ACCEPTED

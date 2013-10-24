@@ -1,5 +1,4 @@
-Macrophoma circinans (Peyl) Sacc. SPECIES
-=======
+# Macrophoma circinans (Peyl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

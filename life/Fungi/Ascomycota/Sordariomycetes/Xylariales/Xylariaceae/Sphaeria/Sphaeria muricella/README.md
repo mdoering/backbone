@@ -1,5 +1,4 @@
-Sphaeria muricella Fr. SPECIES
-=======
+# Sphaeria muricella Fr. SPECIES
 
 #### Status
 ACCEPTED

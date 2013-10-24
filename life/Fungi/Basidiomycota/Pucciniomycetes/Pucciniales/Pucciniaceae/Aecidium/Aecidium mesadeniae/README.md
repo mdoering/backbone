@@ -1,5 +1,4 @@
-Aecidium mesadeniae Arthur SPECIES
-=======
+# Aecidium mesadeniae Arthur SPECIES
 
 #### Status
 ACCEPTED

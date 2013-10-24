@@ -1,5 +1,4 @@
-Botrytis acridiorum Trab. SPECIES
-=======
+# Botrytis acridiorum Trab. SPECIES
 
 #### Status
 ACCEPTED

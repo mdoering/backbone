@@ -1,5 +1,4 @@
-Coccomyces kirkii Spooner, 1990 SPECIES
-=======
+# Coccomyces kirkii Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

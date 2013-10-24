@@ -1,17 +1,16 @@
-Sphaeria biformis var. biformis VARIETY
-=======
+# Lasiosphaeria biformis (Pers.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 204 (1883)
 
 #### Original name
-null
+Sphaeria biformis Pers., 1801
 
 ### Remarks
 null

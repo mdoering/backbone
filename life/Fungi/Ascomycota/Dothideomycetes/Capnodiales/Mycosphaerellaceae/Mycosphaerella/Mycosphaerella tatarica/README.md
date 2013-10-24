@@ -1,5 +1,4 @@
-Mycosphaerella tatarica Miura SPECIES
-=======
+# Mycosphaerella tatarica Miura SPECIES
 
 #### Status
 ACCEPTED

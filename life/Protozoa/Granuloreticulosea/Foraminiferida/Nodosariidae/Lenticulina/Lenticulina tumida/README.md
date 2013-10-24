@@ -1,5 +1,4 @@
-Lenticulina tumida (Asano) SPECIES
-=======
+# Lenticulina tumida (Asano) SPECIES
 
 #### Status
 ACCEPTED

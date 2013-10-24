@@ -1,14 +1,13 @@
-Gloeocystidiellum cryptacanthum (Pat.) Hjortstam, 1987 SPECIES
-=======
+# Gloeocystidiopsis cryptacanthus (Pat.) E. Larss. & K.H. Larss., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Windahlia 17: 58 (1987)
+Mycologia 95(6): 1062 (2003)
 
 #### Original name
 null

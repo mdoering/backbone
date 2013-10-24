@@ -1,5 +1,4 @@
-Heliomyces berteroi Lév. SPECIES
-=======
+# Heliomyces berteroi Lév. SPECIES
 
 #### Status
 ACCEPTED

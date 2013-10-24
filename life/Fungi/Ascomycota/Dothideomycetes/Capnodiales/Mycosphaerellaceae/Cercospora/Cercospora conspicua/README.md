@@ -1,5 +1,4 @@
-Cercospora conspicua Earle SPECIES
-=======
+# Cercospora conspicua Earle SPECIES
 
 #### Status
 ACCEPTED

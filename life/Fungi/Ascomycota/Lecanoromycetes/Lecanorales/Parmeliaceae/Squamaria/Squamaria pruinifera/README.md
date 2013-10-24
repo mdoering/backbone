@@ -1,5 +1,4 @@
-Squamaria pruinifera (Nyl.) Pitard & B. de Lesd. SPECIES
-=======
+# Squamaria pruinifera (Nyl.) Pitard & B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichohyalus Loeblich & Tappan, 1953 GENUS
-=======
+# Trichohyalus Loeblich & Tappan, 1953 GENUS
 
 #### Status
 ACCEPTED

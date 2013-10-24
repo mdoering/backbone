@@ -1,5 +1,4 @@
-Tricholoma favillare (Fr.) P. Karst. SPECIES
-=======
+# Tricholoma favillare (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

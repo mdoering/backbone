@@ -1,5 +1,4 @@
-Microsphaera jaczewskii U. Braun SPECIES
-=======
+# Microsphaera jaczewskii U. Braun SPECIES
 
 #### Status
 ACCEPTED

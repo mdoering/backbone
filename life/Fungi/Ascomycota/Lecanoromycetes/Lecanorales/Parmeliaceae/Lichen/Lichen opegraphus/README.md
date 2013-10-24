@@ -1,5 +1,4 @@
-Lichen opegraphus Lam. SPECIES
-=======
+# Lichen opegraphus Lam. SPECIES
 
 #### Status
 ACCEPTED

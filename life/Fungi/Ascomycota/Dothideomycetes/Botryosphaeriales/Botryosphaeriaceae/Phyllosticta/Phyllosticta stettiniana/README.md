@@ -1,5 +1,4 @@
-Phyllosticta stettiniana Madej SPECIES
-=======
+# Phyllosticta stettiniana Madej SPECIES
 
 #### Status
 ACCEPTED

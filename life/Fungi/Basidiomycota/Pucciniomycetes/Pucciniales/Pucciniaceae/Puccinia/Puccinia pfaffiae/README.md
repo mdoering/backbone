@@ -1,5 +1,4 @@
-Puccinia pfaffiae Viégas SPECIES
-=======
+# Puccinia pfaffiae Viégas SPECIES
 
 #### Status
 ACCEPTED

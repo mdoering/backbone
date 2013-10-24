@@ -1,5 +1,4 @@
-Diaporthe delogneana Sacc. & Roum. SPECIES
-=======
+# Diaporthe delogneana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

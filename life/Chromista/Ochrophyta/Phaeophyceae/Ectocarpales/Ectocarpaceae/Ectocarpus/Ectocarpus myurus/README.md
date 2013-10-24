@@ -1,5 +1,4 @@
-Ectocarpus myurus Zanardini SPECIES
-=======
+# Ectocarpus myurus Zanardini SPECIES
 
 #### Status
 ACCEPTED

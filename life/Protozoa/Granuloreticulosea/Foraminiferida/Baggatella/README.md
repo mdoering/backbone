@@ -1,5 +1,4 @@
-Baggatella Howe, 1939 GENUS
-=======
+# Baggatella Howe, 1939 GENUS
 
 #### Status
 ACCEPTED

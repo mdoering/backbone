@@ -1,5 +1,4 @@
-Chaetomium contortum Peck SPECIES
-=======
+# Chaetomium contortum Peck SPECIES
 
 #### Status
 ACCEPTED

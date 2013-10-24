@@ -1,5 +1,4 @@
-Trichophyton pterygoides var. pterygoides VARIETY
-=======
+# Trichophyton pterygoides anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichophyton pterygoides var. pterygoides
+Trichophyton pterygoides anon.
 
 ### Remarks
 null

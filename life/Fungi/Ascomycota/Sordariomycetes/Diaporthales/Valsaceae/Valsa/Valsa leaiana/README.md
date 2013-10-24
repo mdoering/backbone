@@ -1,5 +1,4 @@
-Valsa leaiana Cooke SPECIES
-=======
+# Valsa leaiana Cooke SPECIES
 
 #### Status
 ACCEPTED

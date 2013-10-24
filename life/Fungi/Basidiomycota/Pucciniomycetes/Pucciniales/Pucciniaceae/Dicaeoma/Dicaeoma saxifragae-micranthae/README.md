@@ -1,5 +1,4 @@
-Dicaeoma saxifragae-micranthae (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma saxifragae-micranthae (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

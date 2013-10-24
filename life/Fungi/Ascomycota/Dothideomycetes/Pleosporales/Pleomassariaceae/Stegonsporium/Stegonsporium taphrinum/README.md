@@ -1,5 +1,4 @@
-Stegonsporium taphrinum Sacc. SPECIES
-=======
+# Stegonsporium taphrinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

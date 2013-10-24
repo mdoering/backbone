@@ -1,5 +1,4 @@
-Dysteria semilunaris (Gourret & Roeser, 1886) Kahl, 1931 SPECIES
-=======
+# Dysteria semilunaris (Gourret & Roeser, 1886) Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

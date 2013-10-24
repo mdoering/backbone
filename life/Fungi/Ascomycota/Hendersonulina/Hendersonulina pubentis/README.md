@@ -1,5 +1,4 @@
-Hendersonulina pubentis (Cooke) Tassi SPECIES
-=======
+# Hendersonulina pubentis (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

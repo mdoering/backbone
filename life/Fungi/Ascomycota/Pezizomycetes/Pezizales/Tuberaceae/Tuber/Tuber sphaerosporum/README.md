@@ -1,5 +1,4 @@
-Tuber sphaerosporum Gilkey SPECIES
-=======
+# Tuber sphaerosporum Gilkey SPECIES
 
 #### Status
 ACCEPTED

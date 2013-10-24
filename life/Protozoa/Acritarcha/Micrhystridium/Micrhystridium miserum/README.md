@@ -1,5 +1,4 @@
-Micrhystridium miserum K. Takahashi SPECIES
-=======
+# Micrhystridium miserum K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

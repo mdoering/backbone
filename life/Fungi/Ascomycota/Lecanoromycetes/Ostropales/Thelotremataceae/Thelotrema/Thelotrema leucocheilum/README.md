@@ -1,5 +1,4 @@
-Thelotrema leucocheilum Vain. SPECIES
-=======
+# Thelotrema leucocheilum Vain. SPECIES
 
 #### Status
 ACCEPTED

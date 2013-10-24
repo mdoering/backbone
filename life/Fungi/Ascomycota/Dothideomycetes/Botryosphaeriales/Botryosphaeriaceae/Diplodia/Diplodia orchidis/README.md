@@ -1,8 +1,7 @@
-Diplodia orchide T.M. Achundov SPECIES
-=======
+# Diplodia orchidis T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diplodia orchide T.M. Achundov
+Diplodia orchidis T.M. Achundov
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fomes memorandus (Speg.) Speg. SPECIES
-=======
+# Fomes memorandus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

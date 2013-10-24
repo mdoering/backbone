@@ -1,5 +1,4 @@
-Hormiscium aequatoriense Petr., 1950 SPECIES
-=======
+# Hormiscium aequatoriense Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

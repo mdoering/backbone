@@ -1,5 +1,4 @@
-Humidicutis bagleyi (A.M. Young) A.M. Young SPECIES
-=======
+# Humidicutis bagleyi (A.M. Young) A.M. Young SPECIES
 
 #### Status
 ACCEPTED

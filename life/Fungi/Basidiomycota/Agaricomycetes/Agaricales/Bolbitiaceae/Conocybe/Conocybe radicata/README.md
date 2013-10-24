@@ -1,5 +1,4 @@
-Conocybe radicata Singer SPECIES
-=======
+# Conocybe radicata Singer SPECIES
 
 #### Status
 ACCEPTED

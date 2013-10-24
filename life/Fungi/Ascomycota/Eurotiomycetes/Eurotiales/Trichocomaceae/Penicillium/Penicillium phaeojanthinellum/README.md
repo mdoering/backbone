@@ -1,5 +1,4 @@
-Penicillium phaeojanthinellum Biourge SPECIES
-=======
+# Penicillium phaeojanthinellum Biourge SPECIES
 
 #### Status
 ACCEPTED

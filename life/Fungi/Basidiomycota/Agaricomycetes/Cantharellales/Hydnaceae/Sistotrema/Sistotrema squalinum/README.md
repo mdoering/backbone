@@ -1,5 +1,4 @@
-Sistotrema squalinum (Fr.) Pers. SPECIES
-=======
+# Sistotrema squalinum (Fr.) Pers. SPECIES
 
 #### Status
 ACCEPTED

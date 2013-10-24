@@ -1,5 +1,4 @@
-Tubercularia carpogena Peck SPECIES
-=======
+# Tubercularia carpogena Peck SPECIES
 
 #### Status
 ACCEPTED

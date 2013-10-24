@@ -1,5 +1,4 @@
-Phacus betkowskii Stawinski SPECIES
-=======
+# Phacus betkowskii Stawinski SPECIES
 
 #### Status
 ACCEPTED

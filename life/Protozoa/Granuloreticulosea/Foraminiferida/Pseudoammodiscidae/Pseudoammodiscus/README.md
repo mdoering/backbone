@@ -1,5 +1,4 @@
-Pseudoammodiscus GENUS
-=======
+# Pseudoammodiscus GENUS
 
 #### Status
 ACCEPTED

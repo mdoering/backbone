@@ -1,5 +1,4 @@
-Ipoa Tendal & Hessler, 1977 GENUS
-=======
+# Ipoa Tendal & Hessler, 1977 GENUS
 
 #### Status
 ACCEPTED

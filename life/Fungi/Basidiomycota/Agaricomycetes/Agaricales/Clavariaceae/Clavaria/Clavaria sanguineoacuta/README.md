@@ -1,5 +1,4 @@
-Clavaria sanguineoacuta Overeem SPECIES
-=======
+# Clavaria sanguineoacuta Overeem SPECIES
 
 #### Status
 ACCEPTED

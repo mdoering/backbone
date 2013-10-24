@@ -1,5 +1,4 @@
-Beella digitata (Brady, 1879) SPECIES
-=======
+# Beella digitata (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

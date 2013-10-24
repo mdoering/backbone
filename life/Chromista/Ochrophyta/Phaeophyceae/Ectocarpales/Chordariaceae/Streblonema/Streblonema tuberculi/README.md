@@ -1,5 +1,4 @@
-Streblonema tuberculi Jaasund SPECIES
-=======
+# Streblonema tuberculi Jaasund SPECIES
 
 #### Status
 ACCEPTED

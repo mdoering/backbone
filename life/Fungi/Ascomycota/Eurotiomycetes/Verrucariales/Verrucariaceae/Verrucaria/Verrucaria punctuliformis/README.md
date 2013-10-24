@@ -1,5 +1,4 @@
-Verrucaria punctuliformis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria punctuliformis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

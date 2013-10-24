@@ -1,5 +1,4 @@
-Leptosphaeria coorgica Anahosur SPECIES
-=======
+# Leptosphaeria coorgica Anahosur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia abrupta var. abrupta VARIETY
-=======
+# Puccinia abrupta Dietel & Holw., 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Dietel, Hedwigia 37: 208 (1898)
 
 #### Original name
-Puccinia abrupta var. abrupta
+Puccinia abrupta Dietel & Holw., 1898
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia barbeyi (Roum.) Magnus SPECIES
-=======
+# Puccinia barbeyi (Roum.) Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurochaeta GENUS
-=======
+# Staurochaeta GENUS
 
 #### Status
 ACCEPTED

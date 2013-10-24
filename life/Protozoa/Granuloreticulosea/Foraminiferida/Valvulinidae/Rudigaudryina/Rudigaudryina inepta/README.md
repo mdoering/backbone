@@ -1,5 +1,4 @@
-Rudigaudryina inepta SPECIES
-=======
+# Rudigaudryina inepta SPECIES
 
 #### Status
 ACCEPTED

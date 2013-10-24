@@ -1,5 +1,4 @@
-Squamulina scopula Carter, 1870 SPECIES
-=======
+# Squamulina scopula Carter, 1870 SPECIES
 
 #### Status
 ACCEPTED

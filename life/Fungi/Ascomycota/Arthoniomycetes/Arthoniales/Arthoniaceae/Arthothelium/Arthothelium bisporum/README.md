@@ -1,5 +1,4 @@
-Arthothelium bisporum Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Arthothelium bisporum Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

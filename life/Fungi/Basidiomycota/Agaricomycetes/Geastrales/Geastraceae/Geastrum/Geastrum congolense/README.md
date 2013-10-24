@@ -1,5 +1,4 @@
-Geastrum congolense Dissing & M. Lange SPECIES
-=======
+# Geastrum congolense Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

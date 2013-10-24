@@ -1,5 +1,4 @@
-Lecidea pallentior Müll. Arg. SPECIES
-=======
+# Lecidea pallentior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

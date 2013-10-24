@@ -1,5 +1,4 @@
-Chromelosporium rhizinum ined. SPECIES
-=======
+# Chromelosporium rhizinum ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces verruculosus Thaxt. SPECIES
-=======
+# Stigmatomyces verruculosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

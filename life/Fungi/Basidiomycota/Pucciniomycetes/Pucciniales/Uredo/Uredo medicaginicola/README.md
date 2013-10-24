@@ -1,5 +1,4 @@
-Uredo medicaginicola Speg. SPECIES
-=======
+# Uredo medicaginicola Speg. SPECIES
 
 #### Status
 ACCEPTED

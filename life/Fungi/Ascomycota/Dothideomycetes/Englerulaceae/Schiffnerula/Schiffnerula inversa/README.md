@@ -1,5 +1,4 @@
-Schiffnerula inversa (Höhn.) S. Hughes SPECIES
-=======
+# Schiffnerula inversa (Höhn.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

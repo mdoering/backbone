@@ -1,5 +1,4 @@
-Aspicilia valpelliensis (B. de Lesd.) SPECIES
-=======
+# Aspicilia valpelliensis (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

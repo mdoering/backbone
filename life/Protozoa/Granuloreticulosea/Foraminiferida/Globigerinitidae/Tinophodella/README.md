@@ -1,5 +1,4 @@
-Tinophodella Loeblich & Tappan, 1957 GENUS
-=======
+# Tinophodella Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

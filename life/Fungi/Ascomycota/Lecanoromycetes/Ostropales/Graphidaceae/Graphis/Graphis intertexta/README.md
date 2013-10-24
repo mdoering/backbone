@@ -1,5 +1,4 @@
-Graphis intertexta Müll. Arg. SPECIES
-=======
+# Graphis intertexta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

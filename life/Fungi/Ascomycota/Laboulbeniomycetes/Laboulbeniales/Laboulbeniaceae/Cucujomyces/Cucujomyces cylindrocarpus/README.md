@@ -1,5 +1,4 @@
-Cucujomyces cylindrocarpus Speg., 1917 SPECIES
-=======
+# Cucujomyces cylindrocarpus Speg., 1917 SPECIES
 
 #### Status
 ACCEPTED

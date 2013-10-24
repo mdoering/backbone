@@ -1,5 +1,4 @@
-Astronoides infirmis Saidova, 1975 SPECIES
-=======
+# Astronoides infirmis Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

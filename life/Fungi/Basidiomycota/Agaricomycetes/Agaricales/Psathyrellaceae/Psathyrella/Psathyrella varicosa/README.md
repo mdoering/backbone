@@ -1,5 +1,4 @@
-Psathyrella varicosa A. Pearson SPECIES
-=======
+# Psathyrella varicosa A. Pearson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira kolbei (A. P. Jousé) R. Gersonde SPECIES
-=======
+# Thalassiosira kolbei (A. P. Jousé) R. Gersonde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe virescens (Cooke & Massee) Massee SPECIES
-=======
+# Psilocybe virescens (Cooke & Massee) Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nabali Tranzschel SPECIES
-=======
+# Puccinia nabali Tranzschel SPECIES
 
 #### Status
 ACCEPTED

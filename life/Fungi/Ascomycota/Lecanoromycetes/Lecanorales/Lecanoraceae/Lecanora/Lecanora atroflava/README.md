@@ -1,5 +1,4 @@
-Lecanora atroflava (Turner) Cromb. SPECIES
-=======
+# Lecanora atroflava (Turner) Cromb. SPECIES
 
 #### Status
 ACCEPTED

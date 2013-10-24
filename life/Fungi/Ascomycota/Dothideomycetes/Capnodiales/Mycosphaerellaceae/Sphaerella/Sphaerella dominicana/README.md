@@ -1,5 +1,4 @@
-Sphaerella dominicana Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerella dominicana Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

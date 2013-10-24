@@ -1,8 +1,7 @@
-Asterionella bleakeleyi var. notata Grunow VARIETY
-=======
+# Bleakeleya notata (Grunow) Round SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

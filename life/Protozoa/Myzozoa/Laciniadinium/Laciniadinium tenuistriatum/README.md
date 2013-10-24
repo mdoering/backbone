@@ -1,5 +1,4 @@
-Laciniadinium tenuistriatum (Eisenack & Cookson, 1960) Morgan SPECIES
-=======
+# Laciniadinium tenuistriatum (Eisenack & Cookson, 1960) Morgan SPECIES
 
 #### Status
 ACCEPTED

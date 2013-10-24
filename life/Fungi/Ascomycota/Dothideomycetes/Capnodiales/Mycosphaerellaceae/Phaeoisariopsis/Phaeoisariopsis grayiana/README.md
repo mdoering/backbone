@@ -1,14 +1,13 @@
-Phaeoisariopsis grayana (Ellis) Ferraris SPECIES
-=======
+# Phaeoisariopsis grayiana (Ellis) Ferraris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 7: 280 (1909)
 
 #### Original name
 Isariopsis grayiana Ellis

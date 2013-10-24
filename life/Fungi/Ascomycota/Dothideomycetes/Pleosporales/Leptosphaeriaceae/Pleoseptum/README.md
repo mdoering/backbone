@@ -1,5 +1,4 @@
-Pleoseptum A.W. Ramaley & M.E. Barr GENUS
-=======
+# Pleoseptum A.W. Ramaley & M.E. Barr GENUS
 
 #### Status
 ACCEPTED

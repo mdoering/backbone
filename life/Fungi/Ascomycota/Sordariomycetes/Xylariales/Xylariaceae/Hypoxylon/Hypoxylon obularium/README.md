@@ -1,5 +1,4 @@
-Hypoxylon obularium Fr. SPECIES
-=======
+# Hypoxylon obularium Fr. SPECIES
 
 #### Status
 ACCEPTED

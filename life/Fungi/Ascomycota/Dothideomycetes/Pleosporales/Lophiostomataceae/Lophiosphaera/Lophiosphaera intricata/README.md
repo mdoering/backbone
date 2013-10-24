@@ -1,5 +1,4 @@
-Lophiosphaera intricata (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophiosphaera intricata (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

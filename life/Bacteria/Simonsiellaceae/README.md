@@ -1,5 +1,4 @@
-Simonsiellaceae FAMILY
-=======
+# Simonsiellaceae FAMILY
 
 #### Status
 ACCEPTED

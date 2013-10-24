@@ -1,5 +1,4 @@
-Bagliettoa inaequata (Servít) Gams SPECIES
-=======
+# Bagliettoa inaequata (Servít) Gams SPECIES
 
 #### Status
 ACCEPTED

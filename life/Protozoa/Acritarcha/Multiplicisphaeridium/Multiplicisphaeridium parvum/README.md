@@ -1,5 +1,4 @@
-Multiplicisphaeridium parvum (Hagenfeldt, 1989) Moczydlowska, 1998 SPECIES
-=======
+# Multiplicisphaeridium parvum (Hagenfeldt, 1989) Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

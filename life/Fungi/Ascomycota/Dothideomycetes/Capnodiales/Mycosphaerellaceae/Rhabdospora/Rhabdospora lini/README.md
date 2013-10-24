@@ -1,5 +1,4 @@
-Rhabdospora lini Gucevic SPECIES
-=======
+# Rhabdospora lini Gucevic SPECIES
 
 #### Status
 ACCEPTED

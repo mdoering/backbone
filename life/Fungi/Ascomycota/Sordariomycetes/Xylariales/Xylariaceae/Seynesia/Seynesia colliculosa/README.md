@@ -1,5 +1,4 @@
-Seynesia colliculosa Rehm SPECIES
-=======
+# Seynesia colliculosa Rehm SPECIES
 
 #### Status
 ACCEPTED

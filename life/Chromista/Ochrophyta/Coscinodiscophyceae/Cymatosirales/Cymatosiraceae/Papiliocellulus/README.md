@@ -1,5 +1,4 @@
-Papiliocellulus G.R.Hasle, H.A.von Stosch & E.E.Syvertsen, 1983 GENUS
-=======
+# Papiliocellulus G.R.Hasle, H.A.von Stosch & E.E.Syvertsen, 1983 GENUS
 
 #### Status
 ACCEPTED

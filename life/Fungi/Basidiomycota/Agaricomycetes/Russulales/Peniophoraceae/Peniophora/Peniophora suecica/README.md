@@ -1,5 +1,4 @@
-Peniophora suecica Litsch., 1941 SPECIES
-=======
+# Peniophora suecica Litsch., 1941 SPECIES
 
 #### Status
 ACCEPTED

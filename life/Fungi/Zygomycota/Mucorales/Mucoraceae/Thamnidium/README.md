@@ -1,17 +1,16 @@
-Melidium Eschw. GENUS
-=======
+# Thamnidium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 31 (1809)
 
 #### Original name
-Melidium Eschw.
+Thamnidium Link, 1809
 
 ### Remarks
 null

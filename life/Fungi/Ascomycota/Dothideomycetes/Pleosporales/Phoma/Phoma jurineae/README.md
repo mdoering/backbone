@@ -1,5 +1,4 @@
-Phoma jurineae Hollós SPECIES
-=======
+# Phoma jurineae Hollós SPECIES
 
 #### Status
 ACCEPTED

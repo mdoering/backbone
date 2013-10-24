@@ -1,5 +1,4 @@
-Clathrospora collomiae Rehm SPECIES
-=======
+# Clathrospora collomiae Rehm SPECIES
 
 #### Status
 ACCEPTED

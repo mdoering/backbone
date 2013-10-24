@@ -1,5 +1,4 @@
-Caloplaca diphyes (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca diphyes (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

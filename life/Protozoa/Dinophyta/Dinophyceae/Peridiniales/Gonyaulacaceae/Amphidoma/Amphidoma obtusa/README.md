@@ -1,5 +1,4 @@
-Amphidoma obtusa Kofoid & Swezy, 1911 SPECIES
-=======
+# Amphidoma obtusa Kofoid & Swezy, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizina thwaitesii Berk. & Broome SPECIES
-=======
+# Rhizina thwaitesii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

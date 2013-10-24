@@ -1,5 +1,4 @@
-Pirottaea helvetica Arx SPECIES
-=======
+# Pirottaea helvetica Arx SPECIES
 
 #### Status
 ACCEPTED

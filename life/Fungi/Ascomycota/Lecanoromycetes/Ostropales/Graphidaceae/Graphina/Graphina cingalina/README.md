@@ -1,5 +1,4 @@
-Graphina cingalina (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina cingalina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

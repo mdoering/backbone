@@ -1,5 +1,4 @@
-Rhabdolithina swinnertonii M. Black SPECIES
-=======
+# Rhabdolithina swinnertonii M. Black SPECIES
 
 #### Status
 ACCEPTED

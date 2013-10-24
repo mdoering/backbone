@@ -1,5 +1,4 @@
-Paecilomyces borysthenicus B.A. Borisov & Tarasov, 1997 SPECIES
-=======
+# Paecilomyces borysthenicus B.A. Borisov & Tarasov, 1997 SPECIES
 
 #### Status
 ACCEPTED

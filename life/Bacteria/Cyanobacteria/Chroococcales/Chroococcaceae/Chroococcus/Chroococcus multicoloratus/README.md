@@ -1,5 +1,4 @@
-Chroococcus multicoloratus Wood SPECIES
-=======
+# Chroococcus multicoloratus Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium aspergilliforme Kulik SPECIES
-=======
+# Penicillium aspergilliforme Kulik SPECIES
 
 #### Status
 ACCEPTED

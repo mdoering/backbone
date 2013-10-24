@@ -1,5 +1,4 @@
-Eidamia GENUS
-=======
+# Eidamia GENUS
 
 #### Status
 ACCEPTED

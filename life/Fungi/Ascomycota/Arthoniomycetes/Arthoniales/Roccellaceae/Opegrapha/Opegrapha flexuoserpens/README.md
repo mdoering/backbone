@@ -1,5 +1,4 @@
-Opegrapha flexuoserpens SPECIES
-=======
+# Opegrapha flexuoserpens SPECIES
 
 #### Status
 ACCEPTED

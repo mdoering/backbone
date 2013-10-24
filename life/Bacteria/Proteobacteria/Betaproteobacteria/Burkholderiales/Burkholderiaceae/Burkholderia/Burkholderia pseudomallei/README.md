@@ -1,11 +1,10 @@
-Bacterium whitmori Stanton & Fletcher, 1921 SPECIES
-=======
+# Burkholderia pseudomallei (Whitmore, 1913) Yabuuchi et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Lachnella tautilla (W. Phillips & Harkn.) Sacc. SPECIES
-=======
+# Lachnella tautilla (W. Phillips & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

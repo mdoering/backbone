@@ -1,14 +1,13 @@
-Nectria radicicola var. macroconidialis Samuels & Brayford, 1990 VARIETY
-=======
+# Neonectria macroconidialis (Samuels & Brayford) Seifert, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 94(4): 440 (1990)
+in Seifert, McMullen, Yee, Reeleder & Dobinson, Phytopathology 93(12): 1541 (2003)
 
 #### Original name
 Nectria radicicola var. macroconidialis Samuels & Brayford, 1990

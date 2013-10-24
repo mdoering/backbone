@@ -1,5 +1,4 @@
-Scyphidia vorticelloides Dumas, 1929 SPECIES
-=======
+# Scyphidia vorticelloides Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

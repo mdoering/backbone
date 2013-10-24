@@ -1,5 +1,4 @@
-Phagomyxa bellerocheae Schnepf, 2000 SPECIES
-=======
+# Phagomyxa bellerocheae Schnepf, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina alutacea (Thüm.) Sacc. SPECIES
-=======
+# Taphrina alutacea (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucujomyces diplocoeli Thaxt., 1917 SPECIES
-=======
+# Cucujomyces diplocoeli Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

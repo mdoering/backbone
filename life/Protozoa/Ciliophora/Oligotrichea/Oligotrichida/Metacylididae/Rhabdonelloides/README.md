@@ -1,5 +1,4 @@
-Rhabdonelloides Colom, 1939 GENUS
-=======
+# Rhabdonelloides Colom, 1939 GENUS
 
 #### Status
 ACCEPTED

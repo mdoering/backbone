@@ -1,5 +1,4 @@
-Marinobacterium rhizophilum Kim, Jin, Hwang & Cho, 2008 SPECIES
-=======
+# Marinobacterium rhizophilum Kim, Jin, Hwang & Cho, 2008 SPECIES
 
 #### Status
 ACCEPTED

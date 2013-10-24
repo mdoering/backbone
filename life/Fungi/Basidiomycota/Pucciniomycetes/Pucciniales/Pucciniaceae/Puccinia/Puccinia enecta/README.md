@@ -1,5 +1,4 @@
-Puccinia enecta Speg. SPECIES
-=======
+# Puccinia enecta Speg. SPECIES
 
 #### Status
 ACCEPTED

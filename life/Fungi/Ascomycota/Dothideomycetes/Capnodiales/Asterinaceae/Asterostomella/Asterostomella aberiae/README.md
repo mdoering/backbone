@@ -1,5 +1,4 @@
-Asterostomella aberiae Petch SPECIES
-=======
+# Asterostomella aberiae Petch SPECIES
 
 #### Status
 ACCEPTED

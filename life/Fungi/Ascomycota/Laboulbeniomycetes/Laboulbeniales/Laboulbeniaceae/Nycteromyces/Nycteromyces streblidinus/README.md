@@ -1,5 +1,4 @@
-Nycteromyces streblidinus Thaxt., 1917 SPECIES
-=======
+# Nycteromyces streblidinus Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

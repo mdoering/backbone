@@ -1,5 +1,4 @@
-Pestalotiopsis menezesiana (Bres. & Torrend) Bissett SPECIES
-=======
+# Pestalotiopsis menezesiana (Bres. & Torrend) Bissett SPECIES
 
 #### Status
 ACCEPTED

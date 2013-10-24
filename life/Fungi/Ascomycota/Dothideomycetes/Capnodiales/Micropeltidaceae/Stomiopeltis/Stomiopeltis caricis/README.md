@@ -1,5 +1,4 @@
-Stomiopeltis caricis (Siemaszko) Arx SPECIES
-=======
+# Stomiopeltis caricis (Siemaszko) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oreophilae Nevod. SPECIES
-=======
+# Puccinia oreophilae Nevod. SPECIES
 
 #### Status
 ACCEPTED

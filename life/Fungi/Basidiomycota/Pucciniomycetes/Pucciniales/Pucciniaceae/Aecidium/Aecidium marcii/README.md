@@ -1,17 +1,16 @@
-Aecidium marci Bubák SPECIES
-=======
+# Aecidium marcii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 21: 274 (1903)
 
 #### Original name
-Aecidium marci Bubák
+Aecidium marcii Bubák
 
 ### Remarks
 null

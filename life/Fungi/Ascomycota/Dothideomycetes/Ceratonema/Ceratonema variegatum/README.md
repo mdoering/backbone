@@ -1,5 +1,4 @@
-Ceratonema variegatum (Sowerby) Pers. SPECIES
-=======
+# Ceratonema variegatum (Sowerby) Pers. SPECIES
 
 #### Status
 ACCEPTED

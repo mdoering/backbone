@@ -1,5 +1,4 @@
-Sponguroma Haeckel, 1887 GENUS
-=======
+# Sponguroma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia pediculoides Henn. SPECIES
-=======
+# Aschersonia pediculoides Henn. SPECIES
 
 #### Status
 ACCEPTED

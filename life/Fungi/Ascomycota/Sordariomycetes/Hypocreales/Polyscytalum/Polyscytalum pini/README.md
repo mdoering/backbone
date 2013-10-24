@@ -1,5 +1,4 @@
-Polyscytalum pini P.M. Kirk & Minter, 1983 SPECIES
-=======
+# Polyscytalum pini P.M. Kirk & Minter, 1983 SPECIES
 
 #### Status
 ACCEPTED

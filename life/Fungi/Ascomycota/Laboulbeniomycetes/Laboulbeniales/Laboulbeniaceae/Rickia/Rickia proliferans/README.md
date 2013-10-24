@@ -1,5 +1,4 @@
-Rickia proliferans Thaxt. SPECIES
-=======
+# Rickia proliferans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

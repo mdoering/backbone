@@ -1,5 +1,4 @@
-Phoma veronicae-speciosae Henn. SPECIES
-=======
+# Phoma veronicae-speciosae Henn. SPECIES
 
 #### Status
 ACCEPTED

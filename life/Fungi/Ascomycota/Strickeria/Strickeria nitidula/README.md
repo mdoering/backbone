@@ -1,5 +1,4 @@
-Strickeria nitidula (P. Karst.) Cooke SPECIES
-=======
+# Strickeria nitidula (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

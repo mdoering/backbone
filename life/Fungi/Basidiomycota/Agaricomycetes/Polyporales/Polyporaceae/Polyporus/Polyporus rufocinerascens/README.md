@@ -1,5 +1,4 @@
-Polyporus rufocinerascens Henn. SPECIES
-=======
+# Polyporus rufocinerascens Henn. SPECIES
 
 #### Status
 ACCEPTED

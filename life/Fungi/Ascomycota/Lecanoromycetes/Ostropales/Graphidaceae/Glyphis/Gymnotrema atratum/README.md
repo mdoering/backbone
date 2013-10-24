@@ -1,5 +1,4 @@
-Gymnotrema atratum (Fée) Nyl. SPECIES
-=======
+# Gymnotrema atratum (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

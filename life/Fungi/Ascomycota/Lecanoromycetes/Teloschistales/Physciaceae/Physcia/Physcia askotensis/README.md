@@ -1,5 +1,4 @@
-Physcia askotensis D. D. Awasthi SPECIES
-=======
+# Physcia askotensis D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

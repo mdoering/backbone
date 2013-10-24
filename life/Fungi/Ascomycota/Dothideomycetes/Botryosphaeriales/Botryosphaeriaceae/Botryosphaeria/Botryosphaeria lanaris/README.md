@@ -1,5 +1,4 @@
-Botryosphaeria lanaris (Welw. & Curr.) Sacc. SPECIES
-=======
+# Botryosphaeria lanaris (Welw. & Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

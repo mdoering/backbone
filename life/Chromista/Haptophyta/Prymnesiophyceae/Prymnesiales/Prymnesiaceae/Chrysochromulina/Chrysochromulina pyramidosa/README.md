@@ -1,5 +1,4 @@
-Chrysochromulina pyramidosa H. A. Thomsen SPECIES
-=======
+# Chrysochromulina pyramidosa H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

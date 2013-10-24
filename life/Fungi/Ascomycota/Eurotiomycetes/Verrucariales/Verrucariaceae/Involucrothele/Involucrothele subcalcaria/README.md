@@ -1,5 +1,4 @@
-Involucrothele subcalcaria (Servít) Servít SPECIES
-=======
+# Involucrothele subcalcaria (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

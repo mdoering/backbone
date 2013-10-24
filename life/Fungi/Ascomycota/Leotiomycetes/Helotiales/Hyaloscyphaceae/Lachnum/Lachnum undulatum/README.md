@@ -1,5 +1,4 @@
-Lachnum undulatum Velen. SPECIES
-=======
+# Lachnum undulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

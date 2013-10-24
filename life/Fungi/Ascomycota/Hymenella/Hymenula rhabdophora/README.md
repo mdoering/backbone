@@ -1,5 +1,4 @@
-Hymenula rhabdophora Berk. & Ravenel SPECIES
-=======
+# Hymenula rhabdophora Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

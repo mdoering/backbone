@@ -1,5 +1,4 @@
-Amphiceratium fusus (Ehrenberg Vanhoeffen SPECIES
-=======
+# Amphiceratium fusus (Ehrenberg Vanhoeffen SPECIES
 
 #### Status
 ACCEPTED

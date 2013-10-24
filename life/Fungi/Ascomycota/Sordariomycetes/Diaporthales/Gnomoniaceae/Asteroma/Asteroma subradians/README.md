@@ -1,5 +1,4 @@
-Asteroma subradians Fr. SPECIES
-=======
+# Asteroma subradians Fr. SPECIES
 
 #### Status
 ACCEPTED

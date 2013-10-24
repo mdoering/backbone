@@ -1,5 +1,4 @@
-Bovista montana Morgan SPECIES
-=======
+# Bovista montana Morgan SPECIES
 
 #### Status
 ACCEPTED

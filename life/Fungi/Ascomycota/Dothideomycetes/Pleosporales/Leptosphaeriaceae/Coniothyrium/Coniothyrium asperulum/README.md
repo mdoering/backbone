@@ -1,5 +1,4 @@
-Coniothyrium asperulum Petr. SPECIES
-=======
+# Coniothyrium asperulum Petr. SPECIES
 
 #### Status
 ACCEPTED

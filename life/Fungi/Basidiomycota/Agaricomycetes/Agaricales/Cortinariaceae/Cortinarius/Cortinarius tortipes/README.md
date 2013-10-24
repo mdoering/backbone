@@ -1,5 +1,4 @@
-Cortinarius tortipes Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius tortipes Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

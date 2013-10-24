@@ -1,5 +1,4 @@
-Cryptophallus albiceps Peck SPECIES
-=======
+# Cryptophallus albiceps Peck SPECIES
 
 #### Status
 ACCEPTED

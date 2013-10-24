@@ -1,5 +1,4 @@
-Tulostoma giovanellae Bres. SPECIES
-=======
+# Tulostoma giovanellae Bres. SPECIES
 
 #### Status
 ACCEPTED

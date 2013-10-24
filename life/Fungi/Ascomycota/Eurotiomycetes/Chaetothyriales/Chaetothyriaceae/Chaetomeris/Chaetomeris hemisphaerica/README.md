@@ -1,5 +1,4 @@
-Chaetomeris hemisphaerica Bat. SPECIES
-=======
+# Chaetomeris hemisphaerica Bat. SPECIES
 
 #### Status
 ACCEPTED

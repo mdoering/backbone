@@ -1,5 +1,4 @@
-Monoica Stejskal, 1964 GENUS
-=======
+# Monoica Stejskal, 1964 GENUS
 
 #### Status
 ACCEPTED

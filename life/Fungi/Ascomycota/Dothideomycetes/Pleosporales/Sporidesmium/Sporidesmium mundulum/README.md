@@ -1,5 +1,4 @@
-Sporidesmium mundulum Cooke SPECIES
-=======
+# Sporidesmium mundulum Cooke SPECIES
 
 #### Status
 ACCEPTED

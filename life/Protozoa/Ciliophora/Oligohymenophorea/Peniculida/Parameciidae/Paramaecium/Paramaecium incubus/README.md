@@ -1,5 +1,4 @@
-Paramaecium incubus SPECIES
-=======
+# Paramaecium incubus SPECIES
 
 #### Status
 ACCEPTED

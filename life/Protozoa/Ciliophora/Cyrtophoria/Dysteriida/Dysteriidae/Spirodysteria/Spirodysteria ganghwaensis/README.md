@@ -1,5 +1,4 @@
-Spirodysteria ganghwaensis Gong, Choi, Roberts, Kim & Min, 2007 SPECIES
-=======
+# Spirodysteria ganghwaensis Gong, Choi, Roberts, Kim & Min, 2007 SPECIES
 
 #### Status
 ACCEPTED

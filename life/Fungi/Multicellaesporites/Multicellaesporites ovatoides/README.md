@@ -1,5 +1,4 @@
-Multicellaesporites ovatoides Z.C. Song & G.X. Li SPECIES
-=======
+# Multicellaesporites ovatoides Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

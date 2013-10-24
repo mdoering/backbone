@@ -1,17 +1,16 @@
-Sarea aurea (Pers.) Schwein., 1832 SPECIES
-=======
+# Bisporella resinicola (Baranyay & A. Funk) S.E. Carp. & Seifert, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4: 178 (1832)
+in Seifert & Carpenter, Can. J. Bot. 65(6): 1263 (1987)
 
 #### Original name
-Helotium aureum Pers., 1801
+Helotium resinicola Baranyay & A. Funk, 1969
 
 ### Remarks
 null

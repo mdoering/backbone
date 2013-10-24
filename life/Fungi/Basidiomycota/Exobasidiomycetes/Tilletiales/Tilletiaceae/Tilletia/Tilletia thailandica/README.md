@@ -1,5 +1,4 @@
-Tilletia thailandica Vánky & R.G. Shivas SPECIES
-=======
+# Tilletia thailandica Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

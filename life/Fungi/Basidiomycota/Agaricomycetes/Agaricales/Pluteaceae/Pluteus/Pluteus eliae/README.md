@@ -1,5 +1,4 @@
-Pluteus eliae Singer SPECIES
-=======
+# Pluteus eliae Singer SPECIES
 
 #### Status
 ACCEPTED

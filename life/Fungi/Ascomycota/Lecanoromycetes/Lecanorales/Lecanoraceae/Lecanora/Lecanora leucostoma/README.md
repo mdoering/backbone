@@ -1,5 +1,4 @@
-Lecanora leucostoma H. Magn. SPECIES
-=======
+# Lecanora leucostoma H. Magn. SPECIES
 
 #### Status
 ACCEPTED

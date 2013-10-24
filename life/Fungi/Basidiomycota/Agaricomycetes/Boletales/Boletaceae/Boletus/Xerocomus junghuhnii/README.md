@@ -1,5 +1,4 @@
-Xerocomus junghuhnii (Höhn.) Singer SPECIES
-=======
+# Xerocomus junghuhnii (Höhn.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium capitatum Link SPECIES
-=======
+# Didymium capitatum Link SPECIES
 
 #### Status
 ACCEPTED

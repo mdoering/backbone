@@ -1,5 +1,4 @@
-Asteridiella schlegeliae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella schlegeliae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

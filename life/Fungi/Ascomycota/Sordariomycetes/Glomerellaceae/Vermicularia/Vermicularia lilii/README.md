@@ -1,5 +1,4 @@
-Vermicularia lilii (Plakidas ex Boerema & Hamers) Vassiljevsky SPECIES
-=======
+# Vermicularia lilii (Plakidas ex Boerema & Hamers) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

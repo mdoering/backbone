@@ -1,5 +1,4 @@
-Clasterosporium ovoideum (Corda) Sacc. SPECIES
-=======
+# Clasterosporium ovoideum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

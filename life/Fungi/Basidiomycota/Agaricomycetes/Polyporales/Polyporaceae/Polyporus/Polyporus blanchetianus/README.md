@@ -1,5 +1,4 @@
-Polyporus blanchetianus Berk. & Mont. SPECIES
-=======
+# Polyporus blanchetianus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

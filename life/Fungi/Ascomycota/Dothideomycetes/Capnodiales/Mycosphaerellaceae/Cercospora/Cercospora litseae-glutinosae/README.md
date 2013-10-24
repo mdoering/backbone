@@ -1,5 +1,4 @@
-Cercospora litseae-glutinosae Syd. & P. Syd. SPECIES
-=======
+# Cercospora litseae-glutinosae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphoridium cavificans (Servít) Servít SPECIES
-=======
+# Amphoridium cavificans (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

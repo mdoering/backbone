@@ -1,5 +1,4 @@
-Nectria binotiana Sacc. SPECIES
-=======
+# Nectria binotiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

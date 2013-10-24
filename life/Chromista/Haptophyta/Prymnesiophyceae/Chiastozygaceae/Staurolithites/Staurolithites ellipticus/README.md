@@ -1,5 +1,4 @@
-Staurolithites ellipticus SPECIES
-=======
+# Staurolithites ellipticus SPECIES
 
 #### Status
 ACCEPTED

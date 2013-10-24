@@ -1,5 +1,4 @@
-Leiosphaeridia warsanofiewii (Naumova, 1950) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia warsanofiewii (Naumova, 1950) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

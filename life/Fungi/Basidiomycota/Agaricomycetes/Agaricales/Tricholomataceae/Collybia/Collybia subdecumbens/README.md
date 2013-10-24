@@ -1,5 +1,4 @@
-Collybia subdecumbens Peck SPECIES
-=======
+# Collybia subdecumbens Peck SPECIES
 
 #### Status
 ACCEPTED

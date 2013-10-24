@@ -1,5 +1,4 @@
-Trypethelium favulosum Ach. SPECIES
-=======
+# Trypethelium favulosum Ach. SPECIES
 
 #### Status
 ACCEPTED

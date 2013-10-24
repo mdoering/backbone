@@ -1,5 +1,4 @@
-Cercophora scortea (Cain) N. Lundq., 1972 SPECIES
-=======
+# Cercophora scortea (Cain) N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

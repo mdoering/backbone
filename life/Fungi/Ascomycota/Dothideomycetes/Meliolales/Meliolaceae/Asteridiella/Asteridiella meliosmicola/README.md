@@ -1,5 +1,4 @@
-Asteridiella meliosmicola H. Hu SPECIES
-=======
+# Asteridiella meliosmicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

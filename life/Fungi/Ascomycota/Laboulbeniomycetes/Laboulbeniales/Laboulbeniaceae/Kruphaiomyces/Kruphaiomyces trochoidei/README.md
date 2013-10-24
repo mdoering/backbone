@@ -1,5 +1,4 @@
-Kruphaiomyces trochoidei Thaxt., 1931 SPECIES
-=======
+# Kruphaiomyces trochoidei Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

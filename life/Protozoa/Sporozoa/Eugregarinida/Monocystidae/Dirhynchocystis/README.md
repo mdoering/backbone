@@ -1,5 +1,4 @@
-Dirhynchocystis Cognetti de Martiis, 1921 GENUS
-=======
+# Dirhynchocystis Cognetti de Martiis, 1921 GENUS
 
 #### Status
 ACCEPTED

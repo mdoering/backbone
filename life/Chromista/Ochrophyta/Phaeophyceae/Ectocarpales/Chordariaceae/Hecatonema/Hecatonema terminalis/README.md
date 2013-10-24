@@ -1,5 +1,4 @@
-Hecatonema terminalis SPECIES
-=======
+# Hecatonema terminalis SPECIES
 
 #### Status
 ACCEPTED

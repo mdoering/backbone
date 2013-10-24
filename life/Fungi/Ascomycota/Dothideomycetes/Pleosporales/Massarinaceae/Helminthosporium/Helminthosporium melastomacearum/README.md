@@ -1,17 +1,16 @@
-Helmisporium melastomacearum F. Stevens SPECIES
-=======
+# Helminthosporium melastomacearum F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 65: 242 (1918)
 
 #### Original name
-Helmisporium melastomacearum F. Stevens
+Helminthosporium melastomacearum F. Stevens
 
 ### Remarks
 null

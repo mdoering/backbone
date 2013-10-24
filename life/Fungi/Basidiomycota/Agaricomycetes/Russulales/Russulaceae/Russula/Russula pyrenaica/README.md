@@ -1,5 +1,4 @@
-Russula pyrenaica var. pyrenaica VARIETY
-=======
+# Russula pyrenaica J. Blum ex Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Collnea bot. , Barcinone Bot. Instit. 13(2): 687 (1982)
 
 #### Original name
-Russula pyrenaica var. pyrenaica
+Russula pyrenaica J. Blum ex Singer
 
 ### Remarks
 null

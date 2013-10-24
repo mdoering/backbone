@@ -1,5 +1,4 @@
-Roestelia fimbriata Arthur SPECIES
-=======
+# Roestelia fimbriata Arthur SPECIES
 
 #### Status
 ACCEPTED

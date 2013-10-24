@@ -1,5 +1,4 @@
-Solenia populicola Pat. SPECIES
-=======
+# Solenia populicola Pat. SPECIES
 
 #### Status
 ACCEPTED

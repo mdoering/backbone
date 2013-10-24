@@ -1,5 +1,4 @@
-Herbaspirillum seropedicae Baldani et al., 1986 SPECIES
-=======
+# Herbaspirillum seropedicae Baldani et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

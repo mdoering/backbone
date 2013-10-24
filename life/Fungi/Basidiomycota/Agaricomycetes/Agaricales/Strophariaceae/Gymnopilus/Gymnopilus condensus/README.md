@@ -1,5 +1,4 @@
-Gymnopilus condensus (Peck) Murrill SPECIES
-=======
+# Gymnopilus condensus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

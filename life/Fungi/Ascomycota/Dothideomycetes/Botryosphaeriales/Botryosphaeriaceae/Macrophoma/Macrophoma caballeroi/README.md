@@ -1,5 +1,4 @@
-Macrophoma caballeroi Bubák & Gonz. Frag. SPECIES
-=======
+# Macrophoma caballeroi Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

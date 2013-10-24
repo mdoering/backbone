@@ -1,5 +1,4 @@
-Biatoridium J. Lahm ex Körb. GENUS
-=======
+# Biatoridium J. Lahm ex Körb. GENUS
 
 #### Status
 ACCEPTED

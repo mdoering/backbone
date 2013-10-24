@@ -1,5 +1,4 @@
-Diplodina cynoglossi Hollós SPECIES
-=======
+# Diplodina cynoglossi Hollós SPECIES
 
 #### Status
 ACCEPTED

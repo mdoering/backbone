@@ -1,5 +1,4 @@
-Russula natarajanii K. Das, J.R. Sharma & Atri SPECIES
-=======
+# Russula natarajanii K. Das, J.R. Sharma & Atri SPECIES
 
 #### Status
 ACCEPTED

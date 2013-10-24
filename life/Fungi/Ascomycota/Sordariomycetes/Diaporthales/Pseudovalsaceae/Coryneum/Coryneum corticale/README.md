@@ -1,5 +1,4 @@
-Coryneum corticale Schwein. SPECIES
-=======
+# Coryneum corticale Schwein. SPECIES
 
 #### Status
 ACCEPTED

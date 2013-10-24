@@ -1,5 +1,4 @@
-Leptonia cuboidea (Hesler) Largent SPECIES
-=======
+# Leptonia cuboidea (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

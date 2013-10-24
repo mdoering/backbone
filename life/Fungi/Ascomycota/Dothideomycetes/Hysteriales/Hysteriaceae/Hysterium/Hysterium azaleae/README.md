@@ -1,5 +1,4 @@
-Hysterium azaleae Schwein. SPECIES
-=======
+# Hysterium azaleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

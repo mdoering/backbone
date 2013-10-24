@@ -1,5 +1,4 @@
-Novosphingobium Takeuchi et al., 2001 GENUS
-=======
+# Novosphingobium Takeuchi et al., 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora symmictiza (Nyl.) Hedl. SPECIES
-=======
+# Lecanora symmictiza (Nyl.) Hedl. SPECIES
 
 #### Status
 ACCEPTED

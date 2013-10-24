@@ -1,5 +1,4 @@
-Hendersonia bubakii Picb. SPECIES
-=======
+# Hendersonia bubakii Picb. SPECIES
 
 #### Status
 ACCEPTED

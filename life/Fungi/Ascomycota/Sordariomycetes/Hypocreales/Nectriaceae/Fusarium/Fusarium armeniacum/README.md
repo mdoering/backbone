@@ -1,17 +1,16 @@
-Fusarium acuminatum armeniacum G.A. Forbes, Windels & L.W. Burgess, 1993 INFRASPECIFIC_NAME
-=======
+# Fusarium armeniacum (G.A. Forbes, Windels & L.W. Burgess) L.W. Burgess & Summerell, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 75: 347 (2000)
 
 #### Original name
-null
+Fusarium acuminatum armeniacum G.A. Forbes, Windels & L.W. Burgess, 1993
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Prismatomorpha GENUS
-=======
+# Prismatomorpha GENUS
 
 #### Status
 ACCEPTED

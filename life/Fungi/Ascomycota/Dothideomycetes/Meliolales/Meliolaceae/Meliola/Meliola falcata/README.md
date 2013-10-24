@@ -1,5 +1,4 @@
-Meliola falcata Petr. & Syd. SPECIES
-=======
+# Meliola falcata Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

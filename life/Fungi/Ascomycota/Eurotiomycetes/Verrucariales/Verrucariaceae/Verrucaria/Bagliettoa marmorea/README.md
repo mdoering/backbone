@@ -1,17 +1,16 @@
-Verrucaria marmorea f. marmorea FORM
-=======
+# Bagliettoa marmorea (Scop.) Gueidan & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 111(10): 1157 (2007)
 
 #### Original name
-Verrucaria marmorea f. marmorea
+Lichen marmoreus Scop.
 
 ### Remarks
 null

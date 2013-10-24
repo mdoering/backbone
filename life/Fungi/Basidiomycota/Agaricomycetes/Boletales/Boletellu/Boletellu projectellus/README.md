@@ -1,5 +1,4 @@
-Boletellu projectellus (Murrill) Singer, 1945 SPECIES
-=======
+# Boletellu projectellus (Murrill) Singer, 1945 SPECIES
 
 #### Status
 ACCEPTED

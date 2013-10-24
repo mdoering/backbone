@@ -1,5 +1,4 @@
-Xanthoparmelia thamnolica Hale SPECIES
-=======
+# Xanthoparmelia thamnolica Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberella flacca (Wallr.) Sacc., 1878 SPECIES
-=======
+# Gibberella flacca (Wallr.) Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

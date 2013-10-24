@@ -1,5 +1,4 @@
-Dermocybe cascadensis (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe cascadensis (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

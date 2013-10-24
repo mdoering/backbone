@@ -1,5 +1,4 @@
-Stenella eugeniicola Seema Misra, A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella eugeniicola Seema Misra, A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

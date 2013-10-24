@@ -1,5 +1,4 @@
-Adelosina dubia var. angulosa Wiesner, 1923 VARIETY
-=======
+# Adelosina dubia (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

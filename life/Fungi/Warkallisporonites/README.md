@@ -1,5 +1,4 @@
-Warkallisporonites Ramanujam & Rao GENUS
-=======
+# Warkallisporonites Ramanujam & Rao GENUS
 
 #### Status
 ACCEPTED

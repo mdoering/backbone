@@ -1,5 +1,4 @@
-Apsiktrata Foissner, Berger & Kohmann, 1994 GENUS
-=======
+# Apsiktrata Foissner, Berger & Kohmann, 1994 GENUS
 
 #### Status
 ACCEPTED

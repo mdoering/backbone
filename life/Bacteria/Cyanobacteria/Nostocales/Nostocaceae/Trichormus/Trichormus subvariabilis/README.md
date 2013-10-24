@@ -1,5 +1,4 @@
-Trichormus subvariabilis (R. E. M. Archibald) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus subvariabilis (R. E. M. Archibald) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

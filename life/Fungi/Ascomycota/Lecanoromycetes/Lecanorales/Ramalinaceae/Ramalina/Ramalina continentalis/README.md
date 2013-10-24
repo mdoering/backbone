@@ -1,5 +1,4 @@
-Ramalina continentalis Malme SPECIES
-=======
+# Ramalina continentalis Malme SPECIES
 
 #### Status
 ACCEPTED

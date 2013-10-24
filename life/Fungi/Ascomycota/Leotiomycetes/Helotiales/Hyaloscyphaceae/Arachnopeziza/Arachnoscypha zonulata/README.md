@@ -1,5 +1,4 @@
-Arachnoscypha zonulata Rolland SPECIES
-=======
+# Arachnoscypha zonulata Rolland SPECIES
 
 #### Status
 ACCEPTED

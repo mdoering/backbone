@@ -1,5 +1,4 @@
-Puccinia parca Arthur SPECIES
-=======
+# Puccinia parca Arthur SPECIES
 
 #### Status
 ACCEPTED

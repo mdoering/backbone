@@ -1,5 +1,4 @@
-Titaea doidgeae Hansf. SPECIES
-=======
+# Titaea doidgeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

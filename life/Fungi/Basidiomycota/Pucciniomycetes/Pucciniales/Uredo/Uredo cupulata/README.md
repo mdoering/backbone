@@ -1,5 +1,4 @@
-Uredo cupulata Ellis & Everh. SPECIES
-=======
+# Uredo cupulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

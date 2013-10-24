@@ -1,5 +1,4 @@
-Lepiota fischeri Kauffman SPECIES
-=======
+# Lepiota fischeri Kauffman SPECIES
 
 #### Status
 ACCEPTED

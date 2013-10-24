@@ -1,5 +1,4 @@
-Cortinarius aurantioturbinatus J.E. Lange SPECIES
-=======
+# Cortinarius aurantioturbinatus J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

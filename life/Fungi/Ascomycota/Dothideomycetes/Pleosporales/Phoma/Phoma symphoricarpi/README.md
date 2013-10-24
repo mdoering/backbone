@@ -1,5 +1,4 @@
-Phoma symphoricarpi N.F. Buchw. SPECIES
-=======
+# Phoma symphoricarpi N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

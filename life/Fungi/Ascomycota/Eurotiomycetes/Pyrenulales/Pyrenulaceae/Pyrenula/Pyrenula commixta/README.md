@@ -1,5 +1,4 @@
-Pyrenula commixta Malme SPECIES
-=======
+# Pyrenula commixta Malme SPECIES
 
 #### Status
 ACCEPTED

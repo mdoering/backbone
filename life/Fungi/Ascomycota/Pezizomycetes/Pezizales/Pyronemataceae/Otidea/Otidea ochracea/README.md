@@ -1,5 +1,4 @@
-Otidea ochracea (Fr.) Seaver SPECIES
-=======
+# Otidea ochracea (Fr.) Seaver SPECIES
 
 #### Status
 ACCEPTED

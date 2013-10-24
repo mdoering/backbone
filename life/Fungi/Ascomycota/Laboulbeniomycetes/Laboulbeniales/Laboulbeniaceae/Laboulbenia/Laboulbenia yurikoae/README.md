@@ -1,17 +1,16 @@
-Laboulbenia yurikoi K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia yurikoae K. Sugiy. & T. Majewski SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 26(2): 139 (1985)
 
 #### Original name
-Laboulbenia yurikoi K. Sugiy. & T. Majewski
+Laboulbenia yurikoae K. Sugiy. & T. Majewski
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galactinia atroviolacea (Bres.) Le Gal SPECIES
-=======
+# Galactinia atroviolacea (Bres.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

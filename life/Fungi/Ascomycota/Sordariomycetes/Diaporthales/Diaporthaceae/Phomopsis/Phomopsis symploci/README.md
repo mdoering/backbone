@@ -1,5 +1,4 @@
-Phomopsis symploci Petr. SPECIES
-=======
+# Phomopsis symploci Petr. SPECIES
 
 #### Status
 ACCEPTED

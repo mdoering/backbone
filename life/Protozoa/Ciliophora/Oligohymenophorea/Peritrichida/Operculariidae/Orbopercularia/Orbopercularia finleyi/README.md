@@ -1,5 +1,4 @@
-Orbopercularia finleyi SPECIES
-=======
+# Orbopercularia finleyi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poronia turbinata Ellis & Everh. SPECIES
-=======
+# Poronia turbinata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroporus albisulphureus Murrill SPECIES
-=======
+# Gyroporus albisulphureus Murrill SPECIES
 
 #### Status
 ACCEPTED

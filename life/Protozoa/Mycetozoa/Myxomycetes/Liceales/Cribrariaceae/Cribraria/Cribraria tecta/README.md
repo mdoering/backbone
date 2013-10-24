@@ -1,5 +1,4 @@
-Cribraria tecta Hooff., 2009 SPECIES
-=======
+# Cribraria tecta Hooff., 2009 SPECIES
 
 #### Status
 ACCEPTED

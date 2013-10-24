@@ -1,5 +1,4 @@
-Pseudopyrenula infossa (Nyl.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula infossa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

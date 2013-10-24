@@ -1,14 +1,13 @@
-Phyllosticta africana (Pandotra & A. Husain) Aa SPECIES
-=======
+# Phyllosticta africanae (Pandotra & A. Husain) Aa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 5: 26 (1973)
 
 #### Original name
 Phyllostictina africanae Pandotra & A. Husain

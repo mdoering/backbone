@@ -1,5 +1,4 @@
-Phlyctella atropa Nyl. SPECIES
-=======
+# Phlyctella atropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

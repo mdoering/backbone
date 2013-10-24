@@ -1,17 +1,16 @@
-Acinothrix globulifera Novácek, 1938 SPECIES
-=======
+# Planctomyces bekefii Gimesi, 1924 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hydrobiol. Tanylmanyok 1: (1924)
 
 #### Original name
-null
+Planctomyces bekefii Gimesi, 1924 (Approved Lists, 1980)
 
 ### Remarks
 null

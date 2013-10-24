@@ -1,5 +1,4 @@
-Luellia K.H. Larsson & Hjortstam, 1974 GENUS
-=======
+# Luellia K.H. Larsson & Hjortstam, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rotalina agglutinans Pourtales, 1850 SPECIES
-=======
+# Rotalina agglutinans Pourtales, 1850 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia minuta (Nitschke) Speg. SPECIES
-=======
+# Rosellinia minuta (Nitschke) Speg. SPECIES
 
 #### Status
 ACCEPTED

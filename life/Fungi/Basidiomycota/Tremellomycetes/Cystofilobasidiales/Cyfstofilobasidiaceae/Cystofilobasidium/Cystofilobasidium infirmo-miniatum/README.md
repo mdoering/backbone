@@ -1,5 +1,4 @@
-Cystofilobasidium infirmo-miniatum (Fell, I.L. Hunter & Tallman) Hamam., Sugiy. & Kom, 1988 SPECIES
-=======
+# Cystofilobasidium infirmo-miniatum (Fell, I.L. Hunter & Tallman) Hamam., Sugiy. & Kom, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria ekmanii (Petr. & Cif.) G.R.W. Arnold SPECIES
-=======
+# Nectria ekmanii (Petr. & Cif.) G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

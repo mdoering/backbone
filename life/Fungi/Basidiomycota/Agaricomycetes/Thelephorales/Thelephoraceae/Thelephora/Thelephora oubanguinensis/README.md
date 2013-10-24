@@ -1,5 +1,4 @@
-Thelephora oubanguinensis Har. & Pat. SPECIES
-=======
+# Thelephora oubanguinensis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

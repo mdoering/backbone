@@ -1,17 +1,16 @@
-Polymorpha Dogiel, 1929 GENUS
-=======
+# Polymorphella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Protistenk. , 68, 322.
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Polymorpha Dogiel, 1929
 
 ### Remarks
 null

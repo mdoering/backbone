@@ -1,5 +1,4 @@
-Ricasolia variegata (J. Steiner) Navàs SPECIES
-=======
+# Ricasolia variegata (J. Steiner) Navàs SPECIES
 
 #### Status
 ACCEPTED

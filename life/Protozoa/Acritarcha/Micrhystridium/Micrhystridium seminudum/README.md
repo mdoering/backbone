@@ -1,5 +1,4 @@
-Micrhystridium seminudum (W. Wetzel, 1952) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium seminudum (W. Wetzel, 1952) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita aurantisquamosa Trueblood, O.K. Mill. & D.T. Jenkins SPECIES
-=======
+# Amanita aurantisquamosa Trueblood, O.K. Mill. & D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

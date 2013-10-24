@@ -1,5 +1,4 @@
-Cephaloidophora vivieri Théodoridès & Desportes, 1975 SPECIES
-=======
+# Cephaloidophora vivieri Théodoridès & Desportes, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora xanthomelaniza Zahlbr. SPECIES
-=======
+# Lecanora xanthomelaniza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

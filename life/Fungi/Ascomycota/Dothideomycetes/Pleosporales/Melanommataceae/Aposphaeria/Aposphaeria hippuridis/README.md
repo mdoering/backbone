@@ -1,5 +1,4 @@
-Aposphaeria hippuridis Ade SPECIES
-=======
+# Aposphaeria hippuridis Ade SPECIES
 
 #### Status
 ACCEPTED

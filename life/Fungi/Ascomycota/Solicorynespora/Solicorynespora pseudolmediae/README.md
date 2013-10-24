@@ -1,14 +1,13 @@
-Corynespora pseudolmediae (R.F. Castañeda) Hol.-Jech., 1986 SPECIES
-=======
+# Solicorynespora pseudolmediae (R.F. Castañeda) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Holubová-Jechová & Mercado Sierra, Ceská Mykol. 40(3): 145 (1986)
+Univ. Waterloo Biol. Ser. 33: 43 (1990)
 
 #### Original name
 Sporidesmium pseudolmediae R.F. Castañeda, 1984

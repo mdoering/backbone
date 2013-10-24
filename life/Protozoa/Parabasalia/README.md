@@ -1,5 +1,4 @@
-Parabasalia PHYLUM
-=======
+# Parabasalia PHYLUM
 
 #### Status
 ACCEPTED

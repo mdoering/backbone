@@ -1,5 +1,4 @@
-Lecanora paulensis Zahlbr. SPECIES
-=======
+# Lecanora paulensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

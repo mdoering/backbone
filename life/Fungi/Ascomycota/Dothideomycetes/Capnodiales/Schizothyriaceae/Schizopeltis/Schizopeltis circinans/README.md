@@ -1,5 +1,4 @@
-Schizopeltis circinans (Pat.) Bat. SPECIES
-=======
+# Schizopeltis circinans (Pat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

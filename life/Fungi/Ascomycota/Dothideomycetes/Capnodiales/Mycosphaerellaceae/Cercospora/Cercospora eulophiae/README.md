@@ -1,5 +1,4 @@
-Cercospora eulophiae M.S. Patil SPECIES
-=======
+# Cercospora eulophiae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

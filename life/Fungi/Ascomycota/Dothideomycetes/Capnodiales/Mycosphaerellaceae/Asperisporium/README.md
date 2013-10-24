@@ -1,5 +1,4 @@
-Asperisporium Maubl. GENUS
-=======
+# Asperisporium Maubl. GENUS
 
 #### Status
 ACCEPTED

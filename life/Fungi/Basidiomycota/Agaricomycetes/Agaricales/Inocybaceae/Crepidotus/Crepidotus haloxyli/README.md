@@ -1,17 +1,16 @@
-Crepidotus haloxyloni Samgina SPECIES
-=======
+# Crepidotus haloxyli Samgina SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanicheskie Materialy Gerbariya Instituta Botaniki, Akademiya Nauk Kazakhskoi SSR 12: 83 (1982)
 
 #### Original name
-Crepidotus haloxyloni Samgina
+Crepidotus haloxyli Samgina
 
 ### Remarks
 null

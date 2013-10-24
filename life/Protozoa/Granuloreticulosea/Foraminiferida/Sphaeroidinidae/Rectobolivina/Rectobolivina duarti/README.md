@@ -1,5 +1,4 @@
-Rectobolivina duarti SPECIES
-=======
+# Rectobolivina duarti SPECIES
 
 #### Status
 ACCEPTED

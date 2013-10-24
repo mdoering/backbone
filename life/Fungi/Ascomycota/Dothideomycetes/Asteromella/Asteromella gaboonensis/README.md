@@ -1,5 +1,4 @@
-Asteromella gaboonensis Cooke & Massee SPECIES
-=======
+# Asteromella gaboonensis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

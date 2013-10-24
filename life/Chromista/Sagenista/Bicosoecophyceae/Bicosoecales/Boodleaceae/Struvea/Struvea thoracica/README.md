@@ -1,5 +1,4 @@
-Struvea thoracica Kraft & A.J.K.Millar, 2005 SPECIES
-=======
+# Struvea thoracica Kraft & A.J.K.Millar, 2005 SPECIES
 
 #### Status
 ACCEPTED

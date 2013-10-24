@@ -1,5 +1,4 @@
-Lachnea ephedrae Petr. SPECIES
-=======
+# Lachnea ephedrae Petr. SPECIES
 
 #### Status
 ACCEPTED

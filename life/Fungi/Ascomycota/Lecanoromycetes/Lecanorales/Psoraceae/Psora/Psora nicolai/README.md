@@ -1,5 +1,4 @@
-Psora nicolai B. de Lesd. SPECIES
-=======
+# Psora nicolai B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

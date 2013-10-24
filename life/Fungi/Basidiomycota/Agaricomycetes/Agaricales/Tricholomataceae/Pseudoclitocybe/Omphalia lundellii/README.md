@@ -1,5 +1,4 @@
-Omphalia lundellii Pilát SPECIES
-=======
+# Omphalia lundellii Pilát SPECIES
 
 #### Status
 ACCEPTED

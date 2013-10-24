@@ -1,5 +1,4 @@
-Cortinarius boy-scoutorum Bouriquet SPECIES
-=======
+# Cortinarius boy-scoutorum Bouriquet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus umbrosus G.F. Atk. SPECIES
-=======
+# Boletus umbrosus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

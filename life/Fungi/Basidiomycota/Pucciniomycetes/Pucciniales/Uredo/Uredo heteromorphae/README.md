@@ -1,5 +1,4 @@
-Uredo heteromorphae MacOwan SPECIES
-=======
+# Uredo heteromorphae MacOwan SPECIES
 
 #### Status
 ACCEPTED

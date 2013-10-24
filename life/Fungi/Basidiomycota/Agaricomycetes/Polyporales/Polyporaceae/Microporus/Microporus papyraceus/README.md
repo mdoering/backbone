@@ -1,5 +1,4 @@
-Microporus papyraceus (Fr.) Kuntze SPECIES
-=======
+# Microporus papyraceus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

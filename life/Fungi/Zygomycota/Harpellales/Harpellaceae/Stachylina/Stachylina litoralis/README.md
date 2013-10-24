@@ -1,5 +1,4 @@
-Stachylina litoralis Lichtw., M.M. White & Colbo, 2001 SPECIES
-=======
+# Stachylina litoralis Lichtw., M.M. White & Colbo, 2001 SPECIES
 
 #### Status
 ACCEPTED

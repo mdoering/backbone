@@ -1,8 +1,7 @@
-Lachnaster kamtschaticus Raitv. SPECIES
-=======
+# Lachnaster kamtschatica Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lachnaster kamtschaticus Raitv.
+Lachnaster kamtschatica Raitv.
 
 ### Remarks
 null

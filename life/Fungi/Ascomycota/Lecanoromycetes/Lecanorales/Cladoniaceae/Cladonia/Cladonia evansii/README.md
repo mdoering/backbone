@@ -1,17 +1,16 @@
-Cladina evansii f. evansii FORM
-=======
+# Cladonia evansii Abbayes SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cladina evansii f. evansii
+Cladonia evansii Abbayes
 
 ### Remarks
 null

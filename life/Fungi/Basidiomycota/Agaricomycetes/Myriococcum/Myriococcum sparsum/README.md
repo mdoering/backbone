@@ -1,5 +1,4 @@
-Myriococcum sparsum Harkn. SPECIES
-=======
+# Myriococcum sparsum Harkn. SPECIES
 
 #### Status
 ACCEPTED

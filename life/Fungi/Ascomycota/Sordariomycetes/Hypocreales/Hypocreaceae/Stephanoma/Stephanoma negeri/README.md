@@ -1,5 +1,4 @@
-Stephanoma negeri Sacc. & Traverso SPECIES
-=======
+# Stephanoma negeri Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

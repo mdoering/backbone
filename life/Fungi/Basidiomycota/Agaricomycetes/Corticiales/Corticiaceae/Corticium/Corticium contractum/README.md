@@ -1,5 +1,4 @@
-Corticium contractum Fr. SPECIES
-=======
+# Corticium contractum Fr. SPECIES
 
 #### Status
 ACCEPTED

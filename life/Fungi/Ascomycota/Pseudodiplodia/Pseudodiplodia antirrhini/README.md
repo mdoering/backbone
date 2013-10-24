@@ -1,5 +1,4 @@
-Pseudodiplodia antirrhini (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia antirrhini (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

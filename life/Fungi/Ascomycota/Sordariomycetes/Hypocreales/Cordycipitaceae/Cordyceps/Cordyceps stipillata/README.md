@@ -1,5 +1,4 @@
-Cordyceps stipillata Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps stipillata Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

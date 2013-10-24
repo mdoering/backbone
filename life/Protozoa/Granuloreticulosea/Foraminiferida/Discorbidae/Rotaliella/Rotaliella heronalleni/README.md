@@ -1,5 +1,4 @@
-Rotaliella heronalleni Pawlowski, Zaninetti, Whittaker & Lee, 1992 SPECIES
-=======
+# Rotaliella heronalleni Pawlowski, Zaninetti, Whittaker & Lee, 1992 SPECIES
 
 #### Status
 ACCEPTED

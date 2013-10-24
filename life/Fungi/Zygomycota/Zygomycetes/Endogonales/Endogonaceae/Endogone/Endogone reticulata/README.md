@@ -1,5 +1,4 @@
-Endogone reticulata P.A. Tandy SPECIES
-=======
+# Endogone reticulata P.A. Tandy SPECIES
 
 #### Status
 ACCEPTED

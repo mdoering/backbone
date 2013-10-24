@@ -1,8 +1,7 @@
-Ferodiscophrya cylindrica (Perty, 1852) Jankowski, 1981 SPECIES
-=======
+# Discophrya cylindrica (Perty, 1852) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

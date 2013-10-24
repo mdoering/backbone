@@ -1,5 +1,4 @@
-Nectriella cucumeris Hanzawa SPECIES
-=======
+# Nectriella cucumeris Hanzawa SPECIES
 
 #### Status
 ACCEPTED

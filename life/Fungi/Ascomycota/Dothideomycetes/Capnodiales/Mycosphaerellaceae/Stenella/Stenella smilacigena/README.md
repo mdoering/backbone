@@ -1,5 +1,4 @@
-Stenella smilacigena A.K. Srivast. SPECIES
-=======
+# Stenella smilacigena A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

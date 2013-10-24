@@ -1,5 +1,4 @@
-Opegrapha subdifficilis var. subdifficilis VARIETY
-=======
+# Opegrapha subdifficilis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha subdifficilis var. subdifficilis
+Opegrapha subdifficilis Nyl.
 
 ### Remarks
 null

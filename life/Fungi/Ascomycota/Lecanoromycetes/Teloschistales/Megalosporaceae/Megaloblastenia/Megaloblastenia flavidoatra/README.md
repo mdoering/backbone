@@ -1,14 +1,13 @@
-Patellaria flavidoatra (Nyl.) SPECIES
-=======
+# Megaloblastenia flavidoatra (Nyl.) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 18: 87 (1983)
 
 #### Original name
 Lecidea flavidoatra Nyl.

@@ -1,5 +1,4 @@
-Lecidea phaea (Tuck.) Hue SPECIES
-=======
+# Lecidea phaea (Tuck.) Hue SPECIES
 
 #### Status
 ACCEPTED

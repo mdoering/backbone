@@ -1,5 +1,4 @@
-Irpex castaneus Lloyd SPECIES
-=======
+# Irpex castaneus Lloyd SPECIES
 
 #### Status
 ACCEPTED

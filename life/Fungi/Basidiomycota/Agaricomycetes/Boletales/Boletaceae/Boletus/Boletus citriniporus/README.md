@@ -1,5 +1,4 @@
-Boletus citriniporus Halling SPECIES
-=======
+# Boletus citriniporus Halling SPECIES
 
 #### Status
 ACCEPTED

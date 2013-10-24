@@ -1,5 +1,4 @@
-Stilbum olivaceum (J.C. Schmidt) Fr. SPECIES
-=======
+# Stilbum olivaceum (J.C. Schmidt) Fr. SPECIES
 
 #### Status
 ACCEPTED

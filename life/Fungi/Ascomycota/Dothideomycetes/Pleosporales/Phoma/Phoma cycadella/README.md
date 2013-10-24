@@ -1,5 +1,4 @@
-Phoma cycadella Sacc. SPECIES
-=======
+# Phoma cycadella Sacc. SPECIES
 
 #### Status
 ACCEPTED

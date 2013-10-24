@@ -1,17 +1,16 @@
-Pestalotia monochaetioides Doyer, 1925 SPECIES
-=======
+# Pestalotiopsis monochaetioides (Doyer) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19: 309 (1949)
 
 #### Original name
-null
+Pestalotia monchaetioidea
 
 ### Remarks
 null

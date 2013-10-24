@@ -1,5 +1,4 @@
-Spongipellis labyrinthicus (Fr.) Pat. SPECIES
-=======
+# Spongipellis labyrinthicus (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

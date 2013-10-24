@@ -1,5 +1,4 @@
-Sphaeriothyrium filicinum Bubák, 1916 SPECIES
-=======
+# Sphaeriothyrium filicinum Bubák, 1916 SPECIES
 
 #### Status
 ACCEPTED

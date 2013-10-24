@@ -1,5 +1,4 @@
-Boletus smotlachianus Hlavácek SPECIES
-=======
+# Boletus smotlachianus Hlavácek SPECIES
 
 #### Status
 ACCEPTED

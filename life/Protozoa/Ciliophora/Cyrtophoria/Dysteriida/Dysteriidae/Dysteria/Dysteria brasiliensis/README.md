@@ -1,5 +1,4 @@
-Dysteria brasiliensis Cunha, Faria & Pinto, 1928 SPECIES
-=======
+# Dysteria brasiliensis Cunha, Faria & Pinto, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus validus Berk. SPECIES
-=======
+# Agaricus validus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhaphidospora GENUS
-=======
+# Rhaphidospora GENUS
 
 #### Status
 ACCEPTED

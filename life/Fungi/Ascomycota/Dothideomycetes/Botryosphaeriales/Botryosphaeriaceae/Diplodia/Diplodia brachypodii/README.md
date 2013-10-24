@@ -1,5 +1,4 @@
-Diplodia brachypodii Syd. SPECIES
-=======
+# Diplodia brachypodii Syd. SPECIES
 
 #### Status
 ACCEPTED

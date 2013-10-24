@@ -1,5 +1,4 @@
-Mirandia Toro, 1934 GENUS
-=======
+# Mirandia Toro, 1934 GENUS
 
 #### Status
 ACCEPTED

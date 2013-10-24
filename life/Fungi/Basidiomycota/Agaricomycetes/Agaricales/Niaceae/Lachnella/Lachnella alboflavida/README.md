@@ -1,5 +1,4 @@
-Lachnella alboflavida Bres. SPECIES
-=======
+# Lachnella alboflavida Bres. SPECIES
 
 #### Status
 ACCEPTED

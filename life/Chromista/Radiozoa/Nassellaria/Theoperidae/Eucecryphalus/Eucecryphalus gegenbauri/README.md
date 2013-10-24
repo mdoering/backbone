@@ -1,5 +1,4 @@
-Eucecryphalus gegenbauri Haeckel, 1860 SPECIES
-=======
+# Eucecryphalus gegenbauri Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

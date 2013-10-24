@@ -1,5 +1,4 @@
-Russula atroviolacea Burl. SPECIES
-=======
+# Russula atroviolacea Burl. SPECIES
 
 #### Status
 ACCEPTED

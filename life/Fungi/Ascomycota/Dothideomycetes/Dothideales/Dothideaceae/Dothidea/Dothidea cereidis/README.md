@@ -1,5 +1,4 @@
-Dothidea cereidis Cooke, 1885 SPECIES
-=======
+# Dothidea cereidis Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

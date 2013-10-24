@@ -1,5 +1,4 @@
-Hemiophrya benedeni Kent, 1882 SPECIES
-=======
+# Hemiophrya benedeni Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

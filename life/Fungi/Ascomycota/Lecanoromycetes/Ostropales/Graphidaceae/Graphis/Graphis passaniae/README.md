@@ -1,5 +1,4 @@
-Graphis passaniae Vain. SPECIES
-=======
+# Graphis passaniae Vain. SPECIES
 
 #### Status
 ACCEPTED

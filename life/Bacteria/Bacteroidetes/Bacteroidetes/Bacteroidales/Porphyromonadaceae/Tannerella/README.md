@@ -1,5 +1,4 @@
-Tannerella Sakamoto, Suzuki, Umeda, Ishikawa & Benno, 2002 GENUS
-=======
+# Tannerella Sakamoto, Suzuki, Umeda, Ishikawa & Benno, 2002 GENUS
 
 #### Status
 ACCEPTED

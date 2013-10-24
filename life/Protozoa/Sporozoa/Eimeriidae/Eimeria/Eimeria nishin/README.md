@@ -1,5 +1,4 @@
-Eimeria nishin Fujita, 1934 SPECIES
-=======
+# Eimeria nishin Fujita, 1934 SPECIES
 
 #### Status
 ACCEPTED

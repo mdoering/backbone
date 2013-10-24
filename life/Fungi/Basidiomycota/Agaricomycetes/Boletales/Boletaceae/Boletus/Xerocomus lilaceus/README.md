@@ -1,5 +1,4 @@
-Xerocomus lilaceus (Rostk.) Redeuilh SPECIES
-=======
+# Xerocomus lilaceus (Rostk.) Redeuilh SPECIES
 
 #### Status
 ACCEPTED

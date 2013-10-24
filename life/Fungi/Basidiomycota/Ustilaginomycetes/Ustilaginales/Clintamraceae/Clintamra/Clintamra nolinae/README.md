@@ -1,17 +1,16 @@
-Tolyposporella noliniae G.P. Clinton SPECIES
-=======
+# Clintamra nolinae (G.P. Clinton) Cordas & Durán, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 68(6): 1244 (1977)
 
 #### Original name
-Tolyposporella noliniae G.P. Clinton
+Tolyposporella nolinae G.P. Clinton, 1904
 
 ### Remarks
 null

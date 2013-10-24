@@ -1,5 +1,4 @@
-Zosterocarpus oedogonium (Meneghini) Bornet SPECIES
-=======
+# Zosterocarpus oedogonium (Meneghini) Bornet SPECIES
 
 #### Status
 ACCEPTED

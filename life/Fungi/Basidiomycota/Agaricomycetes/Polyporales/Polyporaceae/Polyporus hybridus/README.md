@@ -1,5 +1,4 @@
-Polyporus hybridus Speg. SPECIES
-=======
+# Polyporus hybridus Speg. SPECIES
 
 #### Status
 ACCEPTED

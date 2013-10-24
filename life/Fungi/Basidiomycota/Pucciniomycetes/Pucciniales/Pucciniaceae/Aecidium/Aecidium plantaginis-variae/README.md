@@ -1,5 +1,4 @@
-Aecidium plantaginis-variae McAlpine, 1906 SPECIES
-=======
+# Aecidium plantaginis-variae McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

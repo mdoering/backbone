@@ -1,5 +1,4 @@
-Otthia elaeagni (Rehm) Petr. SPECIES
-=======
+# Otthia elaeagni (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

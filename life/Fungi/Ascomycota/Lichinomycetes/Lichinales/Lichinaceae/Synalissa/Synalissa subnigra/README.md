@@ -1,5 +1,4 @@
-Synalissa subnigra (B. de Lesd.) Henssen SPECIES
-=======
+# Synalissa subnigra (B. de Lesd.) Henssen SPECIES
 
 #### Status
 ACCEPTED

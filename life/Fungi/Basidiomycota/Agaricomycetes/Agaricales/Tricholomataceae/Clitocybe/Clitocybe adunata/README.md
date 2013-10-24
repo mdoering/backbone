@@ -1,5 +1,4 @@
-Clitocybe adunata Secr. SPECIES
-=======
+# Clitocybe adunata Secr. SPECIES
 
 #### Status
 ACCEPTED

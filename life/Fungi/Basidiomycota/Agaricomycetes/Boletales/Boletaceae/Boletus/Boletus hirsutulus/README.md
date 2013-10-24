@@ -1,5 +1,4 @@
-Boletus hirsutulus J.F. Gmel. SPECIES
-=======
+# Boletus hirsutulus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

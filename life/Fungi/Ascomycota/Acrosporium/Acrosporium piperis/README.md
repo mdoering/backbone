@@ -1,5 +1,4 @@
-Acrosporium piperis (Uppal, Kamat & Patel) Subram. SPECIES
-=======
+# Acrosporium piperis (Uppal, Kamat & Patel) Subram. SPECIES
 
 #### Status
 ACCEPTED

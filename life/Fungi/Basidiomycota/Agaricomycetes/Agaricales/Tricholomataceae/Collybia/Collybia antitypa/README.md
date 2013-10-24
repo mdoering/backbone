@@ -1,5 +1,4 @@
-Collybia antitypa Berk. SPECIES
-=======
+# Collybia antitypa Berk. SPECIES
 
 #### Status
 ACCEPTED

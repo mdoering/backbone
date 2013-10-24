@@ -1,5 +1,4 @@
-Trematosphaeria piskorzii Petr. SPECIES
-=======
+# Trematosphaeria piskorzii Petr. SPECIES
 
 #### Status
 ACCEPTED

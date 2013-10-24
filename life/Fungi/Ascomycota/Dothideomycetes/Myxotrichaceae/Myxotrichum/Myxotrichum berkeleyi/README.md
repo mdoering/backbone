@@ -1,5 +1,4 @@
-Myxotrichum berkeleyi Apinis, 1964 SPECIES
-=======
+# Myxotrichum berkeleyi Apinis, 1964 SPECIES
 
 #### Status
 ACCEPTED

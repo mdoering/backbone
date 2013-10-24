@@ -1,5 +1,4 @@
-Janibacter brevis Imamura et al., 2000 SPECIES
-=======
+# Janibacter brevis Imamura et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

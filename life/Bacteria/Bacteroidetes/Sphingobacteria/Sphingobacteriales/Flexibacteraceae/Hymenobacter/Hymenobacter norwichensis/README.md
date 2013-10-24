@@ -1,5 +1,4 @@
-Hymenobacter norwichensis Buczolits et al., 2006 SPECIES
-=======
+# Hymenobacter norwichensis Buczolits et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

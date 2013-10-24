@@ -1,5 +1,4 @@
-Helotium epigaeum P. Karst. SPECIES
-=======
+# Helotium epigaeum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

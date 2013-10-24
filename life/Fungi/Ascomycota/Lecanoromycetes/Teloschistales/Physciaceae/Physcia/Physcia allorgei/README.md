@@ -1,5 +1,4 @@
-Physcia allorgei f. allorgei FORM
-=======
+# Physcia allorgei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia allorgei f. allorgei
+Physcia allorgei B. de Lesd.
 
 ### Remarks
 null

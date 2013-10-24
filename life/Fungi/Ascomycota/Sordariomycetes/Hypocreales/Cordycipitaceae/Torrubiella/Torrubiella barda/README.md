@@ -1,5 +1,4 @@
-Torrubiella barda Petch SPECIES
-=======
+# Torrubiella barda Petch SPECIES
 
 #### Status
 ACCEPTED

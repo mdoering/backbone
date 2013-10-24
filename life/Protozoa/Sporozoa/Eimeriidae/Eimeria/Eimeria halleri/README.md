@@ -1,5 +1,4 @@
-Eimeria halleri Upton, Bristol, Gaidner & Duszynski, 1986 SPECIES
-=======
+# Eimeria halleri Upton, Bristol, Gaidner & Duszynski, 1986 SPECIES
 
 #### Status
 ACCEPTED

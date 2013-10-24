@@ -1,5 +1,4 @@
-Phyllosticta polyalthiicola V.G. Rao SPECIES
-=======
+# Phyllosticta polyalthiicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

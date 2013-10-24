@@ -1,5 +1,4 @@
-Marasmius ignobilis var. major Sacc. VARIETY
-=======
+# Marasmius ignobilis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius ignobilis var. major Sacc.
+Marasmius ignobilis Berk. & Broome
 
 ### Remarks
 null

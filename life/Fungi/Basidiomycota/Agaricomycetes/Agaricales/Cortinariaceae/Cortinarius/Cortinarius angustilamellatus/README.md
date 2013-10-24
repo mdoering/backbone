@@ -1,5 +1,4 @@
-Cortinarius angustilamellatus Herp. SPECIES
-=======
+# Cortinarius angustilamellatus Herp. SPECIES
 
 #### Status
 ACCEPTED

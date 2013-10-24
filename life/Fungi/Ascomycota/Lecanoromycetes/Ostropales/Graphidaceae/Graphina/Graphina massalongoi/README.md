@@ -1,14 +1,13 @@
-Graphina massalongii (Mont.) Zahlbr. SPECIES
-=======
+# Graphina massalongoi (Mont.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 414 (1923)
 
 #### Original name
 Graphis massalongoi Kremp.

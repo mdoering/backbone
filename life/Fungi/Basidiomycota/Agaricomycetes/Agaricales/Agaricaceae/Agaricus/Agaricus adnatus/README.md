@@ -1,5 +1,4 @@
-Agaricus adnatus Schumach. SPECIES
-=======
+# Agaricus adnatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

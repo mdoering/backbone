@@ -1,5 +1,4 @@
-Pestalotia arengae A. Lund SPECIES
-=======
+# Pestalotia arengae A. Lund SPECIES
 
 #### Status
 ACCEPTED

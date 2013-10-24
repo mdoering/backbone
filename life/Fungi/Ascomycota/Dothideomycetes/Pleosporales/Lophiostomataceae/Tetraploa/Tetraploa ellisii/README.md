@@ -1,5 +1,4 @@
-Tetraploa ellisii Cooke, 1879 SPECIES
-=======
+# Tetraploa ellisii Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia archeomenardii Bolli SPECIES
-=======
+# Globorotalia archeomenardii Bolli SPECIES
 
 #### Status
 ACCEPTED

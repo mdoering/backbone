@@ -1,5 +1,4 @@
-Daldinia obovata Lar.N. Vassiljeva SPECIES
-=======
+# Daldinia obovata Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria bignoniae (Schwein.) Cooke SPECIES
-=======
+# Valsaria bignoniae (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

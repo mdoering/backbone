@@ -1,14 +1,13 @@
-Coprobia pileiformis Svrcek, 1978 SPECIES
-=======
+# Galeoscypha pileiformis (Svrcek) Svrcek & J. Moravec, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 32(1): 11 (1978)
+Ceská Mykol. 43(4): 210 (1989)
 
 #### Original name
 Coprobia pileiformis Svrcek, 1978

@@ -1,5 +1,4 @@
-Gloeosporium subramulosum Sacc. SPECIES
-=======
+# Gloeosporium subramulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cenangium prunastri var. prunastri VARIETY
-=======
+# Dermea prunastri (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-null
+Cenangium prunastri Pers., 1794
 
 ### Remarks
 null

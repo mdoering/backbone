@@ -1,5 +1,4 @@
-Phylacteria GENUS
-=======
+# Phylacteria GENUS
 
 #### Status
 ACCEPTED

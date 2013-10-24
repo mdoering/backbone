@@ -1,14 +1,13 @@
-Phaeotrabutiella perisporioides (Sacc.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora perisporioides Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 360 (1915)
+Syll. fung. (Abellini) 9: iv (1891)
 
 #### Original name
 Phyllachora perisporioides Sacc., 1891

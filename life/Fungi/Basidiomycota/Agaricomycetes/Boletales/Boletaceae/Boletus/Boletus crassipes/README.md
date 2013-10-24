@@ -1,5 +1,4 @@
-Boletus crassipes Schaeff. SPECIES
-=======
+# Boletus crassipes Schaeff. SPECIES
 
 #### Status
 ACCEPTED

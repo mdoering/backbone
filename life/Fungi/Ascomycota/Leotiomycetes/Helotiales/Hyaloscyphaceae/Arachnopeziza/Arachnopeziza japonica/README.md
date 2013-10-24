@@ -1,5 +1,4 @@
-Arachnopeziza japonica Korf SPECIES
-=======
+# Arachnopeziza japonica Korf SPECIES
 
 #### Status
 ACCEPTED

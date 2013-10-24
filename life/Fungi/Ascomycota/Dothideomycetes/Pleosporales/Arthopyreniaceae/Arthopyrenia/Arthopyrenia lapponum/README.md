@@ -1,5 +1,4 @@
-Arthopyrenia lapponum Garov. SPECIES
-=======
+# Arthopyrenia lapponum Garov. SPECIES
 
 #### Status
 ACCEPTED

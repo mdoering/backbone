@@ -1,5 +1,4 @@
-Pestalotiopsis ilicis (Westend.) Steyaert SPECIES
-=======
+# Pestalotiopsis ilicis (Westend.) Steyaert SPECIES
 
 #### Status
 ACCEPTED

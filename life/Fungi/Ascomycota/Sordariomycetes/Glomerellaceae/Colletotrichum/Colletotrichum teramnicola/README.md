@@ -1,5 +1,4 @@
-Colletotrichum teramnicola Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum teramnicola Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

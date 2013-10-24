@@ -1,5 +1,4 @@
-Leptostromella solani Tehon SPECIES
-=======
+# Leptostromella solani Tehon SPECIES
 
 #### Status
 ACCEPTED

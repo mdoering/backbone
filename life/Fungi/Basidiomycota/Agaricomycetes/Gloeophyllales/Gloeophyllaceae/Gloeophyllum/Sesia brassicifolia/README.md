@@ -1,14 +1,13 @@
-Sesia brassicaefolia (Schwein.) Kuntze SPECIES
-=======
+# Sesia brassicifolia (Schwein.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 870 (1891)
 
 #### Original name
 Merulius brassicifolius Schwein.

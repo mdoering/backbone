@@ -1,5 +1,4 @@
-Graphis seminuda Müll. Arg. SPECIES
-=======
+# Graphis seminuda Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Abeliella Mägd. GENUS
-=======
+# Abeliella Mägd. GENUS
 
 #### Status
 ACCEPTED

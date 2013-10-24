@@ -1,14 +1,13 @@
-Acanthostigma muscicola Racov., 1959 SPECIES
-=======
+# Epibryon muscicola (Racov.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mus. natn. Hist. nat. , Paris, Ser. B, N. S. 10: 97 (1959)
+Mitt. bot. StSamml. , Münch. 14: 290 (1978)
 
 #### Original name
 Acanthostigma muscicola Racov., 1959

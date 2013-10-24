@@ -1,5 +1,4 @@
-Pyrenopsis squamulosa Vain. SPECIES
-=======
+# Pyrenopsis squamulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

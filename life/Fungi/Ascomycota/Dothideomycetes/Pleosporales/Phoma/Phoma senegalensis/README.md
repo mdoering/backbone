@@ -1,5 +1,4 @@
-Phoma senegalensis Speg. SPECIES
-=======
+# Phoma senegalensis Speg. SPECIES
 
 #### Status
 ACCEPTED

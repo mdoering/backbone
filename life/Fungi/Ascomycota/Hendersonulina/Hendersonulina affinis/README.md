@@ -1,5 +1,4 @@
-Hendersonulina affinis (Pass.) Tassi SPECIES
-=======
+# Hendersonulina affinis (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomula bauhiniae Bat. & J.L. Bezerra SPECIES
-=======
+# Asterostomula bauhiniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

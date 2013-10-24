@@ -1,5 +1,4 @@
-Gyrophora torrida (Ach.) Röhling SPECIES
-=======
+# Gyrophora torrida (Ach.) Röhling SPECIES
 
 #### Status
 ACCEPTED

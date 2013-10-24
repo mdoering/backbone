@@ -1,17 +1,16 @@
-Boletus braunii var. braunii Bres. VARIETY
-=======
+# Phlebopus braunii (Bres.) Heinem., 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. État 21: 243 (1951)
 
 #### Original name
-Boletus braunii var. braunii Bres.
+Boletus braunii Bres., 1890
 
 ### Remarks
 null

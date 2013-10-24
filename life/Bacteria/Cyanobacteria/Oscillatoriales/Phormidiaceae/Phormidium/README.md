@@ -1,14 +1,13 @@
-Cirrosiphon P. Duvigneaud & J.J. Symoens, 1951 GENUS
-=======
+# Phormidium Kuetzing Ex Gomont, 1893 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lejeunia 13: 86.
+Ann. Sci. Nat. Bot. , ser. 7, 16: 156.
 
 #### Original name
 null

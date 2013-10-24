@@ -1,5 +1,4 @@
-Polycostella beckmannii Thierstein, 1971 SPECIES
-=======
+# Polycostella beckmannii Thierstein, 1971 SPECIES
 
 #### Status
 ACCEPTED

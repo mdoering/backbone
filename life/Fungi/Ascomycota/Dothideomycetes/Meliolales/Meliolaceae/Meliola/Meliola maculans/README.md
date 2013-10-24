@@ -1,5 +1,4 @@
-Meliola maculans (Kunze) Hansf. SPECIES
-=======
+# Meliola maculans (Kunze) Hansf. SPECIES
 
 #### Status
 ACCEPTED

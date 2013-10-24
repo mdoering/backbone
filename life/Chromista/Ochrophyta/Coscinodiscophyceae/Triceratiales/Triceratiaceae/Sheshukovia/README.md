@@ -1,5 +1,4 @@
-Sheshukovia Z.I.Glezer S.I.Gleser, 1975 GENUS
-=======
+# Sheshukovia Z.I.Glezer S.I.Gleser, 1975 GENUS
 
 #### Status
 ACCEPTED

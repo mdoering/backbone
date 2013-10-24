@@ -1,5 +1,4 @@
-Uniporata torosa Pykhova, 1966 SPECIES
-=======
+# Uniporata torosa Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta fabae Westend. SPECIES
-=======
+# Phyllosticta fabae Westend. SPECIES
 
 #### Status
 ACCEPTED

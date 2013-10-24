@@ -1,5 +1,4 @@
-Corynophrya symbiotica Kahl, 1934 SPECIES
-=======
+# Corynophrya symbiotica Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

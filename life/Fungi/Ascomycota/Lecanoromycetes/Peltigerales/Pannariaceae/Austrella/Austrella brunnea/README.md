@@ -1,5 +1,4 @@
-Austrella brunnea (P.M. Jørg.) P.M. Jørg. SPECIES
-=======
+# Austrella brunnea (P.M. Jørg.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

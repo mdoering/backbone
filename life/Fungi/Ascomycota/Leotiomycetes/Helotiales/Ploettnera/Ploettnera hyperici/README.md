@@ -1,14 +1,13 @@
-Aporia hyperici Vestergr., 1903 SPECIES
-=======
+# Ploettnera hyperici (Vestergr.) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 115 (1903)
+Beih. Willdenowia 9: 101 (1976)
 
 #### Original name
 Aporia hyperici Vestergr., 1903

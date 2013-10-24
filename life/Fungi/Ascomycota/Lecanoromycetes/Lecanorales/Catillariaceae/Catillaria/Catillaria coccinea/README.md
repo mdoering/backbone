@@ -1,5 +1,4 @@
-Catillaria coccinea (C.W. Dodge) Follmann & Redón SPECIES
-=======
+# Catillaria coccinea (C.W. Dodge) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

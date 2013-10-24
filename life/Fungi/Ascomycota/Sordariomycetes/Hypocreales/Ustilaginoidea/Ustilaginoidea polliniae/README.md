@@ -1,5 +1,4 @@
-Ustilaginoidea polliniae Teng SPECIES
-=======
+# Ustilaginoidea polliniae Teng SPECIES
 
 #### Status
 ACCEPTED

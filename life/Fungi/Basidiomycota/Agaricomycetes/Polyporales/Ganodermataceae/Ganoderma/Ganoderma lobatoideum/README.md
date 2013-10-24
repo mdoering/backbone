@@ -1,5 +1,4 @@
-Ganoderma lobatoideum Steyaert, 1980 SPECIES
-=======
+# Ganoderma lobatoideum Steyaert, 1980 SPECIES
 
 #### Status
 ACCEPTED

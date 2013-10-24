@@ -1,5 +1,4 @@
-Marasmius campanulatus Peck SPECIES
-=======
+# Marasmius campanulatus Peck SPECIES
 
 #### Status
 ACCEPTED

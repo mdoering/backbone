@@ -1,5 +1,4 @@
-Astasia anguilla Huber-Pestalozzi SPECIES
-=======
+# Astasia anguilla Huber-Pestalozzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaesiphon carpaticus Starmach SPECIES
-=======
+# Chamaesiphon carpaticus Starmach SPECIES
 
 #### Status
 ACCEPTED

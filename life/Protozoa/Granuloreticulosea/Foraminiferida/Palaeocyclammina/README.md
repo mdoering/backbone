@@ -1,5 +1,4 @@
-Palaeocyclammina Bassoullet, Boutakiout & Echarfaoui, 1999 GENUS
-=======
+# Palaeocyclammina Bassoullet, Boutakiout & Echarfaoui, 1999 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cochlodinium faurei Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium faurei Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

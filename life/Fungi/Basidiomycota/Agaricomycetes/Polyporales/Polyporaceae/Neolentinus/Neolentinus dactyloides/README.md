@@ -1,14 +1,13 @@
-Lentinus dactyloides Cleland, 1936 SPECIES
-=======
+# Neolentinus dactyloides (Cleland) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 59: 220 (1936)
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
 Lentinus dactyloides Cleland, 1936

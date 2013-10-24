@@ -1,5 +1,4 @@
-Diderma farinaceum Peck SPECIES
-=======
+# Diderma farinaceum Peck SPECIES
 
 #### Status
 ACCEPTED

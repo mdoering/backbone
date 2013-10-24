@@ -1,5 +1,4 @@
-Stachybotrys cordylines McKenzie SPECIES
-=======
+# Stachybotrys cordylines McKenzie SPECIES
 
 #### Status
 ACCEPTED

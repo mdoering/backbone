@@ -1,5 +1,4 @@
-Polyporus phyllostachidis Sotome, T. Hatt. & Kakish. SPECIES
-=======
+# Polyporus phyllostachidis Sotome, T. Hatt. & Kakish. SPECIES
 
 #### Status
 ACCEPTED

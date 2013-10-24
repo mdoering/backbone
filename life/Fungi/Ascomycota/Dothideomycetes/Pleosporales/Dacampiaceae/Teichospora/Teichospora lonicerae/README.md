@@ -1,5 +1,4 @@
-Teichospora lonicerae Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Teichospora lonicerae Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

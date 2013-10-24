@@ -1,5 +1,4 @@
-Nodulisporium granulosum (E. Müll. & Nüesch) de Hoog SPECIES
-=======
+# Nodulisporium granulosum (E. Müll. & Nüesch) de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora selenospora Stchigel, Guarro & M. Calduch, 2002 SPECIES
-=======
+# Podospora selenospora Stchigel, Guarro & M. Calduch, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora difformis Tehon SPECIES
-=======
+# Cercospora difformis Tehon SPECIES
 
 #### Status
 ACCEPTED

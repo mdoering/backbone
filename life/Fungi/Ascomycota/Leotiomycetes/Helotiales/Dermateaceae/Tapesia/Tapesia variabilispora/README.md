@@ -1,5 +1,4 @@
-Tapesia variabilispora Svrcek SPECIES
-=======
+# Tapesia variabilispora Svrcek SPECIES
 
 #### Status
 ACCEPTED

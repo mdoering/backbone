@@ -1,5 +1,4 @@
-Trypethelium subdiscretum Nyl. SPECIES
-=======
+# Trypethelium subdiscretum Nyl. SPECIES
 
 #### Status
 ACCEPTED

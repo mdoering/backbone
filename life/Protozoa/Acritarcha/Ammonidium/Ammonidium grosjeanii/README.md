@@ -1,5 +1,4 @@
-Ammonidium grosjeanii (Stockmans & Willière, 1962) Martin, 1981 SPECIES
-=======
+# Ammonidium grosjeanii (Stockmans & Willière, 1962) Martin, 1981 SPECIES
 
 #### Status
 ACCEPTED

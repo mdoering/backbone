@@ -1,5 +1,4 @@
-Tetrarectangulum Steiger, 1992 GENUS
-=======
+# Tetrarectangulum Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

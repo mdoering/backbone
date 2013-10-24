@@ -1,5 +1,4 @@
-Lecanora stramineoflavida Zahlbr. SPECIES
-=======
+# Lecanora stramineoflavida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

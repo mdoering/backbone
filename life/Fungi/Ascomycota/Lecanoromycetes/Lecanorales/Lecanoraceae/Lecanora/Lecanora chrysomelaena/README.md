@@ -1,5 +1,4 @@
-Lecanora chrysomelaena (B. de Lesd.) SPECIES
-=======
+# Lecanora chrysomelaena (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

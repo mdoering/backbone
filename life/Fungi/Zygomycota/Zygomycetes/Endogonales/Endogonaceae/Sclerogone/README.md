@@ -1,5 +1,4 @@
-Sclerogone Warcup GENUS
-=======
+# Sclerogone Warcup GENUS
 
 #### Status
 ACCEPTED

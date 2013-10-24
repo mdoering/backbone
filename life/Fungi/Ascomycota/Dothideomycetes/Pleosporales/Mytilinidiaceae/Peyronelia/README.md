@@ -1,5 +1,4 @@
-Peyronelia Cif. & Gonz. Frag. GENUS
-=======
+# Peyronelia Cif. & Gonz. Frag. GENUS
 
 #### Status
 ACCEPTED

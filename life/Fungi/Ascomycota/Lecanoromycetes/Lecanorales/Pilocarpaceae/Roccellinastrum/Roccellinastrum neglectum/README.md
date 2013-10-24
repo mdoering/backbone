@@ -1,5 +1,4 @@
-Roccellinastrum neglectum Henssen & Vobis SPECIES
-=======
+# Roccellinastrum neglectum Henssen & Vobis SPECIES
 
 #### Status
 ACCEPTED

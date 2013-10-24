@@ -1,5 +1,4 @@
-Leptogium dimorphum Müll. Arg. SPECIES
-=======
+# Leptogium dimorphum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

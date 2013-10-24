@@ -1,5 +1,4 @@
-Dichobotrys parvispora Hennebert SPECIES
-=======
+# Dichobotrys parvispora Hennebert SPECIES
 
 #### Status
 ACCEPTED

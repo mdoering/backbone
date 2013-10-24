@@ -1,5 +1,4 @@
-Meliola escharoides (Syd.) Cif. SPECIES
-=======
+# Meliola escharoides (Syd.) Cif. SPECIES
 
 #### Status
 ACCEPTED

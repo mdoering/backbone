@@ -1,5 +1,4 @@
-Phyllachora stenocarpa Syd., 1926 SPECIES
-=======
+# Phyllachora stenocarpa Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

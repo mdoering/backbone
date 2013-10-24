@@ -1,5 +1,4 @@
-Pezicula acerina (Fr.) P. Karst. & Har. SPECIES
-=======
+# Pezicula acerina (Fr.) P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

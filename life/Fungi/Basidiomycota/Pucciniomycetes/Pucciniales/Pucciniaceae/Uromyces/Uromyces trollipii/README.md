@@ -1,5 +1,4 @@
-Uromyces trollipii Kalchbr. & MacOwan SPECIES
-=======
+# Uromyces trollipii Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

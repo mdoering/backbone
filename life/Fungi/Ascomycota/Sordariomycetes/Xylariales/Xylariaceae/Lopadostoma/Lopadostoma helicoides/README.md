@@ -1,5 +1,4 @@
-Lopadostoma helicoides Lar.N. Vassiljeva SPECIES
-=======
+# Lopadostoma helicoides Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

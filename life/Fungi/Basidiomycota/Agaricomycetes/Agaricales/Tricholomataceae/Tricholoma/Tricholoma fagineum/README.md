@@ -1,5 +1,4 @@
-Tricholoma fagineum Velen. SPECIES
-=======
+# Tricholoma fagineum Velen. SPECIES
 
 #### Status
 ACCEPTED

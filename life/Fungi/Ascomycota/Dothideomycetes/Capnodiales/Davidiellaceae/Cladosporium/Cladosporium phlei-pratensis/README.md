@@ -1,17 +1,16 @@
-Cladosporium phlei-pratense Sawada SPECIES
-=======
+# Cladosporium phlei-pratensis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Govt Forest Exp. Stn Meguro 105: 96 (1958)
 
 #### Original name
-Cladosporium phlei-pratense Sawada
+Cladosporium phlei-pratensis Sawada
 
 ### Remarks
 null

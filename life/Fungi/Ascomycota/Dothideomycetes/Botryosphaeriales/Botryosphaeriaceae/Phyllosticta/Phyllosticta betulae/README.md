@@ -1,5 +1,4 @@
-Phyllosticta betulae Ellis & Everh. SPECIES
-=======
+# Phyllosticta betulae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnographopsis cerei Follmann SPECIES
-=======
+# Gymnographopsis cerei Follmann SPECIES
 
 #### Status
 ACCEPTED

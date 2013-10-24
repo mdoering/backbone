@@ -1,5 +1,4 @@
-Godronia linnaeae (P. Karst.) P. Karst. SPECIES
-=======
+# Godronia linnaeae (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

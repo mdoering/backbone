@@ -1,5 +1,4 @@
-Polycystis GENUS
-=======
+# Polycystis GENUS
 
 #### Status
 ACCEPTED

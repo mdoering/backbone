@@ -1,5 +1,4 @@
-Euplotes parki Curds, 1974 SPECIES
-=======
+# Euplotes parki Curds, 1974 SPECIES
 
 #### Status
 ACCEPTED

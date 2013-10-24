@@ -1,5 +1,4 @@
-Lactarius gracilis Hongo SPECIES
-=======
+# Lactarius gracilis Hongo SPECIES
 
 #### Status
 ACCEPTED

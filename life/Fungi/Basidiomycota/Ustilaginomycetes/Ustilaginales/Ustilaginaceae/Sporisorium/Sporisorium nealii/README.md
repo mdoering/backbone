@@ -1,5 +1,4 @@
-Sporisorium nealii (Ellis & F.W. Anderson) Vánky SPECIES
-=======
+# Sporisorium nealii (Ellis & F.W. Anderson) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothyridium coffeicola (Speg.) Petr. SPECIES
-=======
+# Mycothyridium coffeicola (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

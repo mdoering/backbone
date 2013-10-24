@@ -1,5 +1,4 @@
-Rosellinia heraclei Gucevic SPECIES
-=======
+# Rosellinia heraclei Gucevic SPECIES
 
 #### Status
 ACCEPTED

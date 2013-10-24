@@ -1,5 +1,4 @@
-Pseudobaeospora subglobispora Bas SPECIES
-=======
+# Pseudobaeospora subglobispora Bas SPECIES
 
 #### Status
 ACCEPTED

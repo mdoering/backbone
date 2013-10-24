@@ -1,5 +1,4 @@
-Agaricus chilensis Mont. SPECIES
-=======
+# Agaricus chilensis Mont. SPECIES
 
 #### Status
 ACCEPTED

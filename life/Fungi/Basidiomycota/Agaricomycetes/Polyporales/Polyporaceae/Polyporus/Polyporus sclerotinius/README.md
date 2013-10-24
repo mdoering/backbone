@@ -1,5 +1,4 @@
-Polyporus sclerotinius SPECIES
-=======
+# Polyporus sclerotinius SPECIES
 
 #### Status
 ACCEPTED

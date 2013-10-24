@@ -1,5 +1,4 @@
-Thelidium microsporum Lynge SPECIES
-=======
+# Thelidium microsporum Lynge SPECIES
 
 #### Status
 ACCEPTED

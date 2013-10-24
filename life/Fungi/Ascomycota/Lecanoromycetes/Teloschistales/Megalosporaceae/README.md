@@ -1,5 +1,4 @@
-Megalosporaceae Vezda ex Hafellner & Bellem. FAMILY
-=======
+# Megalosporaceae Vezda ex Hafellner & Bellem. FAMILY
 
 #### Status
 ACCEPTED

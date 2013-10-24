@@ -1,5 +1,4 @@
-Rosenscheldiella indica Anahosur SPECIES
-=======
+# Rosenscheldiella indica Anahosur SPECIES
 
 #### Status
 ACCEPTED

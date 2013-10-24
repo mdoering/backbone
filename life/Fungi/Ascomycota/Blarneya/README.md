@@ -1,5 +1,4 @@
-Blarneya D. Hawksw., Coppins & P. James GENUS
-=======
+# Blarneya D. Hawksw., Coppins & P. James GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riedelia altar (J. Brun) H. J. Schrader & J. Fenner SPECIES
-=======
+# Riedelia altar (J. Brun) H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rhytisma grewiae Kalchbr., 1880 SPECIES
-=======
+# Phyllachora grewiae (Kalchbr.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Exosporium pulchellum Sacc. SPECIES
-=======
+# Exosporium pulchellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

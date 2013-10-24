@@ -1,5 +1,4 @@
-Nassula carpathica Lepsi, 1927 SPECIES
-=======
+# Nassula carpathica Lepsi, 1927 SPECIES
 
 #### Status
 ACCEPTED

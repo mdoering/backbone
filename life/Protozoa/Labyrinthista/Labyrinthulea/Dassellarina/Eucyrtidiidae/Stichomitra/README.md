@@ -1,5 +1,4 @@
-Stichomitra Cayeux, 1897 GENUS
-=======
+# Stichomitra Cayeux, 1897 GENUS
 
 #### Status
 ACCEPTED

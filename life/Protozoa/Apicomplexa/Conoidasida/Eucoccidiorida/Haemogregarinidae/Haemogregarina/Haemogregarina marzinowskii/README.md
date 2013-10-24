@@ -1,5 +1,4 @@
-Haemogregarina marzinowskii Yakimov & Kohl-Yakimov, 1912 SPECIES
-=======
+# Haemogregarina marzinowskii Yakimov & Kohl-Yakimov, 1912 SPECIES
 
 #### Status
 ACCEPTED

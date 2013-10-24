@@ -1,5 +1,4 @@
-Spirulina undulans K.N. Deckenbach SPECIES
-=======
+# Spirulina undulans K.N. Deckenbach SPECIES
 
 #### Status
 ACCEPTED

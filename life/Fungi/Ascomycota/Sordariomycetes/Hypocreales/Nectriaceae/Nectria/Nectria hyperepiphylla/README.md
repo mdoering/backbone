@@ -1,5 +1,4 @@
-Nectria hyperepiphylla Döbbeler SPECIES
-=======
+# Nectria hyperepiphylla Döbbeler SPECIES
 
 #### Status
 ACCEPTED

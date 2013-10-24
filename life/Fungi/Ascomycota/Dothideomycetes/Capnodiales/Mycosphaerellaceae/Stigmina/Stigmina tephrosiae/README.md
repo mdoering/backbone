@@ -1,5 +1,4 @@
-Stigmina tephrosiae Agnihothr. SPECIES
-=======
+# Stigmina tephrosiae Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

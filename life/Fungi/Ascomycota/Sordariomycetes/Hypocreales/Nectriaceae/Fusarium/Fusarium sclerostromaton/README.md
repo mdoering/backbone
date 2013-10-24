@@ -1,5 +1,4 @@
-Fusarium sclerostromaton Sideris SPECIES
-=======
+# Fusarium sclerostromaton Sideris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zythia lonchosperma Speg. SPECIES
-=======
+# Zythia lonchosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

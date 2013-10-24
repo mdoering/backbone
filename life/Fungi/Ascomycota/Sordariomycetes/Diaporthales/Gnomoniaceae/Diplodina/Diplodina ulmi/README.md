@@ -1,5 +1,4 @@
-Diplodina ulmi Hollós SPECIES
-=======
+# Diplodina ulmi Hollós SPECIES
 
 #### Status
 ACCEPTED

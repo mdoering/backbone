@@ -1,5 +1,4 @@
-Puccinia atra Dietel & Holw. SPECIES
-=======
+# Puccinia atra Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

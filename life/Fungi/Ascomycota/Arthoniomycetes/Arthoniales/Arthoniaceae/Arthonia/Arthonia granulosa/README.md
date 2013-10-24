@@ -1,5 +1,4 @@
-Arthonia granulosa Fée SPECIES
-=======
+# Arthonia granulosa Fée SPECIES
 
 #### Status
 ACCEPTED

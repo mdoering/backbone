@@ -1,5 +1,4 @@
-Sclerotium concavum Desm. SPECIES
-=======
+# Sclerotium concavum Desm. SPECIES
 
 #### Status
 ACCEPTED

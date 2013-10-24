@@ -1,5 +1,4 @@
-Telamonia paludosa Velen. SPECIES
-=======
+# Telamonia paludosa Velen. SPECIES
 
 #### Status
 ACCEPTED

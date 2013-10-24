@@ -1,5 +1,4 @@
-Asterina moesae Pat. SPECIES
-=======
+# Asterina moesae Pat. SPECIES
 
 #### Status
 ACCEPTED

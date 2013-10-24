@@ -1,5 +1,4 @@
-Saccharomyces lochheadii Kumblicjkar {?} SPECIES
-=======
+# Saccharomyces lochheadii Kumblicjkar {?} SPECIES
 
 #### Status
 ACCEPTED

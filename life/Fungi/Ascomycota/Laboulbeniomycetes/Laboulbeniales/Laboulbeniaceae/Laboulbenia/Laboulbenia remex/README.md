@@ -1,5 +1,4 @@
-Laboulbenia remex Balazuc SPECIES
-=======
+# Laboulbenia remex Balazuc SPECIES
 
 #### Status
 ACCEPTED

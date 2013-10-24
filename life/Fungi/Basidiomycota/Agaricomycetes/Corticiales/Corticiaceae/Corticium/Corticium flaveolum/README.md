@@ -1,5 +1,4 @@
-Corticium flaveolum Massee SPECIES
-=======
+# Corticium flaveolum Massee SPECIES
 
 #### Status
 ACCEPTED

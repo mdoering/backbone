@@ -1,5 +1,4 @@
-Cyanothrix caspica Kiselev SPECIES
-=======
+# Cyanothrix caspica Kiselev SPECIES
 
 #### Status
 ACCEPTED

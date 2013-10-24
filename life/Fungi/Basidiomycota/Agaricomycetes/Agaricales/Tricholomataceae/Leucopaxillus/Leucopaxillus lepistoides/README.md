@@ -1,14 +1,13 @@
-Tricholoma lepistoides Maire, 1926 SPECIES
-=======
+# Leucopaxillus lepistoides (Maire) Singer, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 40: 301 (1926)
+Schweiz. Z. Pilzk. 17: 57 (1939)
 
 #### Original name
 Tricholoma lepistoides Maire, 1926

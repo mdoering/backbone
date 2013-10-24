@@ -1,5 +1,4 @@
-Cyathicula quisquiliaris Ellis & Everh. SPECIES
-=======
+# Cyathicula quisquiliaris Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

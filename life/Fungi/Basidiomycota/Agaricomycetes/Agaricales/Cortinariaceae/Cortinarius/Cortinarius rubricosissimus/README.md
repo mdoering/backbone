@@ -1,5 +1,4 @@
-Cortinarius rubricosissimus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius rubricosissimus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

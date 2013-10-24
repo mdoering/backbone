@@ -1,5 +1,4 @@
-Nocardia uniformis (ex Marton & Szabó, 1959) Isik et al., 1999 SPECIES
-=======
+# Nocardia uniformis (ex Marton & Szabó, 1959) Isik et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia aggregata M. D. E. Knox SPECIES
-=======
+# Xanthoparmelia aggregata M. D. E. Knox SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septomyxa persicina (Fresen.) Sacc. SPECIES
-=======
+# Septomyxa persicina (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

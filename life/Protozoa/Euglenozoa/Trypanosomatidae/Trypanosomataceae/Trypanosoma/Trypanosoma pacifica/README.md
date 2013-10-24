@@ -1,5 +1,4 @@
-Trypanosoma pacifica Burreson & Pratt, 1972 SPECIES
-=======
+# Trypanosoma pacifica Burreson & Pratt, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporochnus gaertneri (S.G.Gmelin) C. Agardh SPECIES
-=======
+# Sporochnus gaertneri (S.G.Gmelin) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

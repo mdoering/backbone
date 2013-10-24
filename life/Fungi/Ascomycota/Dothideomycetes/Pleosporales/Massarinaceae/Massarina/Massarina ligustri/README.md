@@ -1,5 +1,4 @@
-Massarina ligustri (G.H. Otth) Sacc. SPECIES
-=======
+# Massarina ligustri (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

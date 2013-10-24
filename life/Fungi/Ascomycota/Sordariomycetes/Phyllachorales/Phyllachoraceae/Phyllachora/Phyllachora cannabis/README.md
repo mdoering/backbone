@@ -1,5 +1,4 @@
-Phyllachora cannabis Henn., 1908 SPECIES
-=======
+# Phyllachora cannabis Henn., 1908 SPECIES
 
 #### Status
 ACCEPTED

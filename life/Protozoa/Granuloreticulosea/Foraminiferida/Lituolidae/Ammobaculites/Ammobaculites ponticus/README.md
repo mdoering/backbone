@@ -1,5 +1,4 @@
-Ammobaculites ponticus Mikhalevich, 1968 SPECIES
-=======
+# Ammobaculites ponticus Mikhalevich, 1968 SPECIES
 
 #### Status
 ACCEPTED

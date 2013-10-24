@@ -1,5 +1,4 @@
-Stilbum maximum (Eichelb.) Sacc. SPECIES
-=======
+# Stilbum maximum (Eichelb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

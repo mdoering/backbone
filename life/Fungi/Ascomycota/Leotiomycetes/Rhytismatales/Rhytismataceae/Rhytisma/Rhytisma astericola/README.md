@@ -1,5 +1,4 @@
-Rhytisma astericola Sacc. SPECIES
-=======
+# Rhytisma astericola Sacc. SPECIES
 
 #### Status
 ACCEPTED

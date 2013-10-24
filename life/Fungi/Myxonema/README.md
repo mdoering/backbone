@@ -1,5 +1,4 @@
-Myxonema GENUS
-=======
+# Myxonema GENUS
 
 #### Status
 ACCEPTED

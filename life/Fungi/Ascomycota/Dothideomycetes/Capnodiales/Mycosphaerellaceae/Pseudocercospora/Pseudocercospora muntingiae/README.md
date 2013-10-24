@@ -1,5 +1,4 @@
-Pseudocercospora muntingiae (Petr. & Cif.) Deighton SPECIES
-=======
+# Pseudocercospora muntingiae (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

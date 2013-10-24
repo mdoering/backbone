@@ -1,5 +1,4 @@
-Endosphaeriidae FAMILY
-=======
+# Endosphaeriidae FAMILY
 
 #### Status
 ACCEPTED

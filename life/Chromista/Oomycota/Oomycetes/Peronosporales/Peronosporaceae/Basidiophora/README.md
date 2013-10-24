@@ -1,17 +1,16 @@
-Gilletia Sacc. & Penz. GENUS
-=======
+# Basidiophora Roze & Cornu GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Michelia 2(no. 8): 587 (1882)
+Annls Sci. Nat. , Bot. , sér. 5 11: 84 (1869)
 
 #### Original name
-Gilletia Sacc. & Penz.
+Basidiophora Roze & Cornu
 
 ### Remarks
 null

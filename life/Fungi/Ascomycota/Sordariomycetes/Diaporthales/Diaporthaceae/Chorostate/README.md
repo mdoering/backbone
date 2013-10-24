@@ -1,5 +1,4 @@
-Chorostate GENUS
-=======
+# Chorostate GENUS
 
 #### Status
 ACCEPTED

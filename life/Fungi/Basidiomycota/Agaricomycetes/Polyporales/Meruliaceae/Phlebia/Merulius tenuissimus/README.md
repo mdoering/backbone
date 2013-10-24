@@ -1,5 +1,4 @@
-Merulius tenuissimus Berk. & Broome SPECIES
-=======
+# Merulius tenuissimus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

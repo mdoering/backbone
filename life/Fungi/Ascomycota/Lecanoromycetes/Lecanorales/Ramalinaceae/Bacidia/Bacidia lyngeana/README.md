@@ -1,5 +1,4 @@
-Bacidia lyngeana Erichsen SPECIES
-=======
+# Bacidia lyngeana Erichsen SPECIES
 
 #### Status
 ACCEPTED

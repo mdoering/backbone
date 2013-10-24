@@ -1,5 +1,4 @@
-Sordaria bicurvata Rick SPECIES
-=======
+# Sordaria bicurvata Rick SPECIES
 
 #### Status
 ACCEPTED

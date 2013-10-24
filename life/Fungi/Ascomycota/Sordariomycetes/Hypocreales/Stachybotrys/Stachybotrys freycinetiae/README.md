@@ -1,5 +1,4 @@
-Stachybotrys freycinetiae McKenzie, 1991 SPECIES
-=======
+# Stachybotrys freycinetiae McKenzie, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia alba Velen. SPECIES
-=======
+# Rutstroemia alba Velen. SPECIES
 
 #### Status
 ACCEPTED

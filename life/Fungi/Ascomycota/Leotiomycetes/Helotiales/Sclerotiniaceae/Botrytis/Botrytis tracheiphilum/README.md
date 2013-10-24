@@ -1,5 +1,4 @@
-Botrytis tracheiphilum Sacc. & D. Sacc. SPECIES
-=======
+# Botrytis tracheiphilum Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

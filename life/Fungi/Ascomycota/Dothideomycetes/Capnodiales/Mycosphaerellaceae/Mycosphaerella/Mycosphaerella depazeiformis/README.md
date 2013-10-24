@@ -1,17 +1,16 @@
-Sphaerella depazeaeformis (Auersw.) Sacc. SPECIES
-=======
+# Mycosphaerella depazeiformis (Auersw.) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 72 (1903)
 
 #### Original name
-Sphaeria depazaeformis Auersw.
+Sphaeria depazeiformis Auersw., 1869
 
 ### Remarks
 null

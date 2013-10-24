@@ -1,5 +1,4 @@
-Leptonia lactinella M.E. Gilbert SPECIES
-=======
+# Leptonia lactinella M.E. Gilbert SPECIES
 
 #### Status
 ACCEPTED

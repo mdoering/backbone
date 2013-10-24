@@ -1,5 +1,4 @@
-Coniothecium pervagatum Preuss SPECIES
-=======
+# Coniothecium pervagatum Preuss SPECIES
 
 #### Status
 ACCEPTED

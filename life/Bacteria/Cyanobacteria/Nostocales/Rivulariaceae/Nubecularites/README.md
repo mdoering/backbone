@@ -1,5 +1,4 @@
-Nubecularites Maslov GENUS
-=======
+# Nubecularites Maslov GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria anceps (Sacc.) Cooke SPECIES
-=======
+# Strickeria anceps (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

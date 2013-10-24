@@ -1,5 +1,4 @@
-Marasmius proletarius Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius proletarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

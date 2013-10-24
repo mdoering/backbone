@@ -1,5 +1,4 @@
-Chaetoceros heterovalvatus Prosckina-Lavrenko SPECIES
-=======
+# Chaetoceros heterovalvatus Prosckina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

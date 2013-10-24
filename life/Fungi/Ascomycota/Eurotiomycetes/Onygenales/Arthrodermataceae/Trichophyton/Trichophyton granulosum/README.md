@@ -1,5 +1,4 @@
-Trichophyton granulosum Sabour. SPECIES
-=======
+# Trichophyton granulosum Sabour. SPECIES
 
 #### Status
 ACCEPTED

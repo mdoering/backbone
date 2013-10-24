@@ -1,5 +1,4 @@
-Sphaerella fusispora var. fusispora VARIETY
-=======
+# Sphaerella fusispora Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella fusispora var. fusispora
+Sphaerella fusispora Fuckel
 
 ### Remarks
 null

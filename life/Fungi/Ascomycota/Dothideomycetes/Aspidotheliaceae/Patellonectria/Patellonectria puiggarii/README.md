@@ -1,5 +1,4 @@
-Patellonectria puiggarii Speg. SPECIES
-=======
+# Patellonectria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

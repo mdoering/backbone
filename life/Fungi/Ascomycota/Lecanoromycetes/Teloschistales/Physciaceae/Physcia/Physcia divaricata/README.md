@@ -1,5 +1,4 @@
-Physcia divaricata (L.) Duby SPECIES
-=======
+# Physcia divaricata (L.) Duby SPECIES
 
 #### Status
 ACCEPTED

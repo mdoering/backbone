@@ -1,5 +1,4 @@
-Xylaria multiples (Kunze Fr.) Fr. SPECIES
-=======
+# Xylaria multiples (Kunze Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

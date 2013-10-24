@@ -1,17 +1,16 @@
-Ishwaramyces Hosag. GENUS
-=======
+# Ishwaromyces Hosag. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hosagoudar, Biju & Abraham, J. Econ. Taxon. Bot. 28(1): 183 (2004)
 
 #### Original name
-Ishwaramyces Hosag.
+Ishwaromyces Hosag.
 
 ### Remarks
 null

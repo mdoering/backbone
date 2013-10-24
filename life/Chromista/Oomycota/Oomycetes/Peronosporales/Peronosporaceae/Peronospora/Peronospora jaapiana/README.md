@@ -1,5 +1,4 @@
-Peronospora jaapiana Magnus, 1910 SPECIES
-=======
+# Peronospora jaapiana Magnus, 1910 SPECIES
 
 #### Status
 ACCEPTED

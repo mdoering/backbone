@@ -1,5 +1,4 @@
-Phaeocollybia gregaria A.H. Sm. & Trappe SPECIES
-=======
+# Phaeocollybia gregaria A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyscytalum sacchari Speg. SPECIES
-=======
+# Polyscytalum sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

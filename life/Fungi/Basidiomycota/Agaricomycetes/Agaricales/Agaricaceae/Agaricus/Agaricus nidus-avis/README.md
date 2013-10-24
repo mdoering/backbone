@@ -1,5 +1,4 @@
-Agaricus nidus-avis Fr. SPECIES
-=======
+# Agaricus nidus-avis Fr. SPECIES
 
 #### Status
 ACCEPTED

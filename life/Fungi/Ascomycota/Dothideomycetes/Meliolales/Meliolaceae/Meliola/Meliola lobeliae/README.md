@@ -1,5 +1,4 @@
-Meliola lobeliae F. Stevens SPECIES
-=======
+# Meliola lobeliae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Arthrinium ushuvaiense Speg. SPECIES
-=======
+# Arthrinium ushuwaiense Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin Acad. Nac. Cien. Cord. 11: 171 (1887)
 
 #### Original name
-Arthrinium ushuvaiense Speg.
+Arthrinium ushuwaiense Speg.
 
 ### Remarks
 null

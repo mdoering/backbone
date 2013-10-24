@@ -1,17 +1,16 @@
-Trechispora invisitata subsp. hauerslevii K.H. Larss. SUBSPECIES
-=======
+# Trechispora invisitata (H.S. Jacks.) Liberta, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The genus Trechispora (Corticiaceae, Basidiomycetes) 3: 11 (1992)
+Taxon 15(8): 318 (1966)
 
 #### Original name
-Trechispora invisitata subsp. hauerslevii K.H. Larss.
+null
 
 ### Remarks
 null

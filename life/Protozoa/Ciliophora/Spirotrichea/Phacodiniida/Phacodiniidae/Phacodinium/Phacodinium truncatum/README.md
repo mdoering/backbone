@@ -1,5 +1,4 @@
-Phacodinium truncatum Dumas, 1930 SPECIES
-=======
+# Phacodinium truncatum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia pinastri Lib. SPECIES
-=======
+# Tubercularia pinastri Lib. SPECIES
 
 #### Status
 ACCEPTED

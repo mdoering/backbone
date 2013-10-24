@@ -1,5 +1,4 @@
-Physalospora pandani Ellis & Everh. SPECIES
-=======
+# Physalospora pandani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

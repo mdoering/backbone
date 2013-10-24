@@ -1,5 +1,4 @@
-Zonodiscus Haeckel, 1887 GENUS
-=======
+# Zonodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

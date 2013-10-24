@@ -1,5 +1,4 @@
-Baeomyces denudatus (Flörke) Hepp SPECIES
-=======
+# Baeomyces denudatus (Flörke) Hepp SPECIES
 
 #### Status
 ACCEPTED

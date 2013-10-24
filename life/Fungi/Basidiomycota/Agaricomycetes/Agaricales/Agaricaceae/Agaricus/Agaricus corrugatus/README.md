@@ -1,5 +1,4 @@
-Agaricus corrugatus With. SPECIES
-=======
+# Agaricus corrugatus With. SPECIES
 
 #### Status
 ACCEPTED

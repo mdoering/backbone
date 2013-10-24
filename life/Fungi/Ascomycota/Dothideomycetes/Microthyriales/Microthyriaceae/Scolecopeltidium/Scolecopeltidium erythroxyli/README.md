@@ -1,5 +1,4 @@
-Scolecopeltidium erythroxyli Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium erythroxyli Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

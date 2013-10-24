@@ -1,5 +1,4 @@
-Patellaria praepallida Müll. Arg. SPECIES
-=======
+# Patellaria praepallida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

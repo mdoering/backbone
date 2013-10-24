@@ -1,5 +1,4 @@
-Sporidesmium foliicola Desm. SPECIES
-=======
+# Sporidesmium foliicola Desm. SPECIES
 
 #### Status
 ACCEPTED

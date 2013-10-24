@@ -1,5 +1,4 @@
-Coccotrema mammatum (Nyl.) SPECIES
-=======
+# Coccotrema mammatum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

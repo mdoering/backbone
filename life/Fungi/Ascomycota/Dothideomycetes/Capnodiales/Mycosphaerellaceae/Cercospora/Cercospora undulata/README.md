@@ -1,5 +1,4 @@
-Cercospora undulata (G.E. Bernard) Sacc. SPECIES
-=======
+# Cercospora undulata (G.E. Bernard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

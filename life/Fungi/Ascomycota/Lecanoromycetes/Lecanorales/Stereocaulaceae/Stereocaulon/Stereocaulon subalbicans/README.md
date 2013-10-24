@@ -1,5 +1,4 @@
-Stereocaulon subalbicans I.M. Lamb SPECIES
-=======
+# Stereocaulon subalbicans I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

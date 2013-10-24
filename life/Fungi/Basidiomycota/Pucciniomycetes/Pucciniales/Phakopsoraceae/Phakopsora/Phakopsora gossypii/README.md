@@ -1,5 +1,4 @@
-Phakopsora gossypii (Lagerh.) Hirats., 1955 SPECIES
-=======
+# Phakopsora gossypii (Lagerh.) Hirats., 1955 SPECIES
 
 #### Status
 ACCEPTED

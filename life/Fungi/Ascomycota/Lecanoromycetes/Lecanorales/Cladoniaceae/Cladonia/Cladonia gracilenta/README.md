@@ -1,5 +1,4 @@
-Cladonia gracilenta Nyl. ex Jard. SPECIES
-=======
+# Cladonia gracilenta Nyl. ex Jard. SPECIES
 
 #### Status
 ACCEPTED

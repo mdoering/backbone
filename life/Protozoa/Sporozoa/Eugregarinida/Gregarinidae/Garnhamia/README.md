@@ -1,5 +1,4 @@
-Garnhamia Crusz, 1957 GENUS
-=======
+# Garnhamia Crusz, 1957 GENUS
 
 #### Status
 ACCEPTED

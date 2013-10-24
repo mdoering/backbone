@@ -1,14 +1,13 @@
-Inonotus weirianus (Bres.) T. Wagner & M. Fisch., 2002 SPECIES
-=======
+# Phellinus weirianus (Bres.) Gilb., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 94(6): 1009 (2002)
+J. Ariz. Acad. Sci. 7: 137 (1972)
 
 #### Original name
 Fomes weirianus Bres., 1926

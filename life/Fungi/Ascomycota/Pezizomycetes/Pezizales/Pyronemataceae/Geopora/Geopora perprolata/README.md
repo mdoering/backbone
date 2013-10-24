@@ -1,5 +1,4 @@
-Geopora perprolata B.C. Zhang SPECIES
-=======
+# Geopora perprolata B.C. Zhang SPECIES
 
 #### Status
 ACCEPTED

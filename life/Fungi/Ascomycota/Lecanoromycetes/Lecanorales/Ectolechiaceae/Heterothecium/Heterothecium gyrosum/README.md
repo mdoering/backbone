@@ -1,5 +1,4 @@
-Heterothecium gyrosum (Spreng.) Flot. SPECIES
-=======
+# Heterothecium gyrosum (Spreng.) Flot. SPECIES
 
 #### Status
 ACCEPTED

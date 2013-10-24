@@ -1,5 +1,4 @@
-Xerocomus dryophilus (Thiers) Singer SPECIES
-=======
+# Xerocomus dryophilus (Thiers) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltomyces Cafaro GENUS
-=======
+# Baltomyces Cafaro GENUS
 
 #### Status
 ACCEPTED

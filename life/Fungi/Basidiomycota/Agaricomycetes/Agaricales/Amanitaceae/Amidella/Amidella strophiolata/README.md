@@ -1,5 +1,4 @@
-Amidella strophiolata (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amidella strophiolata (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

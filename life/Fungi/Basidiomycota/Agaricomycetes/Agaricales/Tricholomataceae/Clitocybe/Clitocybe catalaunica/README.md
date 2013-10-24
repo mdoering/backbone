@@ -1,5 +1,4 @@
-Clitocybe catalaunica Singer SPECIES
-=======
+# Clitocybe catalaunica Singer SPECIES
 
 #### Status
 ACCEPTED

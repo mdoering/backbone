@@ -1,5 +1,4 @@
-Phaeographis albida (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis albida (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen glomeratus Necker SPECIES
-=======
+# Lichen glomeratus Necker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia schoenoprasi f. schoenoprasi FORM
-=======
+# Vermicularia schoenoprasi Auersw. & Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-Vermicularia schoenoprasi f. schoenoprasi
+Vermicularia schoenoprasi Auersw. & Fuckel
 
 ### Remarks
 null

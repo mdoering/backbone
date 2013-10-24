@@ -1,5 +1,4 @@
-Sirosporium indicum Kamal, A.N. Rai & Morgan-Jones SPECIES
-=======
+# Sirosporium indicum Kamal, A.N. Rai & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

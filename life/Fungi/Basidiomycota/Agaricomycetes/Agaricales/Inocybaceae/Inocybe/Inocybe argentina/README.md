@@ -1,5 +1,4 @@
-Inocybe argentina Speg. SPECIES
-=======
+# Inocybe argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

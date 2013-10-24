@@ -1,5 +1,4 @@
-Mycena holoporphyra (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Mycena holoporphyra (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

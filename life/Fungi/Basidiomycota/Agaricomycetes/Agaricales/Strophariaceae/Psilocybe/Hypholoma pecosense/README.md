@@ -1,5 +1,4 @@
-Hypholoma pecosense Cockerell SPECIES
-=======
+# Hypholoma pecosense Cockerell SPECIES
 
 #### Status
 ACCEPTED

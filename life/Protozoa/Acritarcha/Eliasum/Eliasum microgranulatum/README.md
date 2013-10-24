@@ -1,5 +1,4 @@
-Eliasum microgranulatum Hagenfeldt, 1989 SPECIES
-=======
+# Eliasum microgranulatum Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

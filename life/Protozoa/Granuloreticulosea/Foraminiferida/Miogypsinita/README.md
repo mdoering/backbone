@@ -1,5 +1,4 @@
-Miogypsinita Drooger, 1952 GENUS
-=======
+# Miogypsinita Drooger, 1952 GENUS
 
 #### Status
 ACCEPTED

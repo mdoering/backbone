@@ -1,5 +1,4 @@
-Bacillus macauensis Zhang et al., 2006 SPECIES
-=======
+# Bacillus macauensis Zhang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

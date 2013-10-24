@@ -1,5 +1,4 @@
-Trichophaea Boudier, 1885 GENUS
-=======
+# Trichophaea Boudier, 1885 GENUS
 
 #### Status
 ACCEPTED

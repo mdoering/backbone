@@ -1,5 +1,4 @@
-Eponides sidebottomi Earland, 1934 SPECIES
-=======
+# Eponides sidebottomi Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

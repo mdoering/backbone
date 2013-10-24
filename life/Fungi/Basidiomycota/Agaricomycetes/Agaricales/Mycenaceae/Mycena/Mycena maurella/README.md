@@ -1,5 +1,4 @@
-Mycena maurella Robich SPECIES
-=======
+# Mycena maurella Robich SPECIES
 
 #### Status
 ACCEPTED

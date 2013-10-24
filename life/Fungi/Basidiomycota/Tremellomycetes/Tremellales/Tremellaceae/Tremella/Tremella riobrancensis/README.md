@@ -1,5 +1,4 @@
-Tremella riobrancensis Lowy SPECIES
-=======
+# Tremella riobrancensis Lowy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizellaster engeliana Svrcek SPECIES
-=======
+# Pezizellaster engeliana Svrcek SPECIES
 
 #### Status
 ACCEPTED

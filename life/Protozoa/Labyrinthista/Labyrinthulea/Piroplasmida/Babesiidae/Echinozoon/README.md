@@ -1,5 +1,4 @@
-Echinozoon Garnham, 1951 GENUS
-=======
+# Echinozoon Garnham, 1951 GENUS
 
 #### Status
 ACCEPTED

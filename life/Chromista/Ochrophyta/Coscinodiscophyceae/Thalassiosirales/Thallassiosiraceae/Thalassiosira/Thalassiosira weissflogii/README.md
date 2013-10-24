@@ -1,11 +1,10 @@
-Thalassiosira weissfloggii (Grunow) Fryxell & Hasle, 1977 SPECIES
-=======
+# Thalassiosira weissflogii (Grunow) G. Fryxell & Hasle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

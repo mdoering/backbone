@@ -1,5 +1,4 @@
-Euglena archaeoplastidiata Chadefaud SPECIES
-=======
+# Euglena archaeoplastidiata Chadefaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizidium euglenae P.A. Dang. SPECIES
-=======
+# Rhizidium euglenae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

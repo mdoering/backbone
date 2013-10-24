@@ -1,5 +1,4 @@
-Coprinus aokii Hongo SPECIES
-=======
+# Coprinus aokii Hongo SPECIES
 
 #### Status
 ACCEPTED

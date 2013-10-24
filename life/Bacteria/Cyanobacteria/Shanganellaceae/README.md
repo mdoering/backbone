@@ -1,5 +1,4 @@
-Shanganellaceae FAMILY
-=======
+# Shanganellaceae FAMILY
 
 #### Status
 ACCEPTED

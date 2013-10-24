@@ -1,14 +1,13 @@
-Merisma palmatum var. palmatum VARIETY
-=======
+# Thelephora palmata (Scop.) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 157 (1822)
+Syst. mycol. (Lundae) 1: 432 (1821)
 
 #### Original name
 Clavaria palmata Pers., 1797

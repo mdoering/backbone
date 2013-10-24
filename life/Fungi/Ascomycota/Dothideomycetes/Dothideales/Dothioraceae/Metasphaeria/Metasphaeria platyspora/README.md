@@ -1,5 +1,4 @@
-Metasphaeria platyspora Pass. SPECIES
-=======
+# Metasphaeria platyspora Pass. SPECIES
 
 #### Status
 ACCEPTED

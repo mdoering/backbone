@@ -1,17 +1,16 @@
-Stemphylium botryosum f. sp FORM
-=======
+# Stemphylium botryosum Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Stemphylium botryosum f. sp
+Stemphylium botryosum Sacc., 1886
 
 ### Remarks
 null

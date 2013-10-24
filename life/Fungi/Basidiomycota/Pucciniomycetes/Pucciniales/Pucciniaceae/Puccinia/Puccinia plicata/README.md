@@ -1,5 +1,4 @@
-Puccinia plicata Kom. SPECIES
-=======
+# Puccinia plicata Kom. SPECIES
 
 #### Status
 ACCEPTED

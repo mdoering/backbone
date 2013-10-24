@@ -1,17 +1,16 @@
-Fusicladium martianoffianum var. martianoffianum VARIETY
-=======
+# Fusicladium martianoffianum (Thüm.) K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+IMI Descr. Fungi Bact. 152(nos 1511-1520): [10] (2002)
 
 #### Original name
-null
+Cladosporium martianoffianum Thüm.
 
 ### Remarks
 null

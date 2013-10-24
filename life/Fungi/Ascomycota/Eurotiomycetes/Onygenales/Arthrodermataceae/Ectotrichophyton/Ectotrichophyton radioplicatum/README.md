@@ -1,5 +1,4 @@
-Ectotrichophyton radioplicatum (W. Fisch.) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton radioplicatum (W. Fisch.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

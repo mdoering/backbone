@@ -1,5 +1,4 @@
-Psilocybe palmigena (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Psilocybe palmigena (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pithomyces ellipticus X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces ellipticus X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

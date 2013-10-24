@@ -1,5 +1,4 @@
-Amanitopsis insidiosa (Letell.) Fr. SPECIES
-=======
+# Amanitopsis insidiosa (Letell.) Fr. SPECIES
 
 #### Status
 ACCEPTED

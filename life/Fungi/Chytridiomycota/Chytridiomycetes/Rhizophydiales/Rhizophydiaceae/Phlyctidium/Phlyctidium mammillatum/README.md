@@ -1,5 +1,4 @@
-Phlyctidium mammillatum (A. Braun) J. Schröt. SPECIES
-=======
+# Phlyctidium mammillatum (A. Braun) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

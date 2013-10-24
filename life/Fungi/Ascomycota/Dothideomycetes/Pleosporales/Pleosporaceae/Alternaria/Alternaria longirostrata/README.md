@@ -1,5 +1,4 @@
-Alternaria longirostrata T.Y. Zhang & M. Zhang SPECIES
-=======
+# Alternaria longirostrata T.Y. Zhang & M. Zhang SPECIES
 
 #### Status
 ACCEPTED

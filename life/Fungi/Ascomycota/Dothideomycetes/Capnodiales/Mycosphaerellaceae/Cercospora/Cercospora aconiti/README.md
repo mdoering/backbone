@@ -1,5 +1,4 @@
-Cercospora aconiti Petr. SPECIES
-=======
+# Cercospora aconiti Petr. SPECIES
 
 #### Status
 ACCEPTED

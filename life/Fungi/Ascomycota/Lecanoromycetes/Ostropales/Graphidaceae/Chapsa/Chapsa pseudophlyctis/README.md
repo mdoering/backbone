@@ -1,5 +1,4 @@
-Chapsa pseudophlyctis (Nyl.) Frisch SPECIES
-=======
+# Chapsa pseudophlyctis (Nyl.) Frisch SPECIES
 
 #### Status
 ACCEPTED

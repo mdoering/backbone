@@ -1,5 +1,4 @@
-Rhodophyllus fumosellus (G. Winter) J.E. Lange SPECIES
-=======
+# Rhodophyllus fumosellus (G. Winter) J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

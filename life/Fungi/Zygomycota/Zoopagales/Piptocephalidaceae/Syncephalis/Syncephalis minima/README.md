@@ -1,5 +1,4 @@
-Syncephalis minima Tiegh. & G. Le Monn. SPECIES
-=======
+# Syncephalis minima Tiegh. & G. Le Monn. SPECIES
 
 #### Status
 ACCEPTED

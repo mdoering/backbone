@@ -1,5 +1,4 @@
-Gonyaulax subulata Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax subulata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

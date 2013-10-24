@@ -1,5 +1,4 @@
-Helminthosporium appendiculatum var. appendiculatum VARIETY
-=======
+# Helminthosporium appendiculatum Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Icon. fung. (Prague) 1: 12 (1837)
 
 #### Original name
-Helminthosporium appendiculatum var. appendiculatum
+Helminthosporium appendiculatum Corda
 
 ### Remarks
 null

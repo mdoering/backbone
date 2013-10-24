@@ -1,5 +1,4 @@
-Laetinaevia alpina Petr. SPECIES
-=======
+# Laetinaevia alpina Petr. SPECIES
 
 #### Status
 ACCEPTED

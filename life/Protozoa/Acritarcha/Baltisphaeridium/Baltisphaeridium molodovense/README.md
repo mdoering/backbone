@@ -1,5 +1,4 @@
-Baltisphaeridium molodovense Timofeev, 1962 SPECIES
-=======
+# Baltisphaeridium molodovense Timofeev, 1962 SPECIES
 
 #### Status
 ACCEPTED

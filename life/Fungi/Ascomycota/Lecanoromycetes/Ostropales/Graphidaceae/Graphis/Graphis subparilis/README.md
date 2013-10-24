@@ -1,5 +1,4 @@
-Graphis subparilis Nyl. SPECIES
-=======
+# Graphis subparilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

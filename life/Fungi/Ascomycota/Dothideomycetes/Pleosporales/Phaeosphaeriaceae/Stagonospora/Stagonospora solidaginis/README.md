@@ -1,5 +1,4 @@
-Stagonospora solidaginis Czerepan. SPECIES
-=======
+# Stagonospora solidaginis Czerepan. SPECIES
 
 #### Status
 ACCEPTED

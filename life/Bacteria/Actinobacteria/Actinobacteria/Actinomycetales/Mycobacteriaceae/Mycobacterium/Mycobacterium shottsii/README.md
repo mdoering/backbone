@@ -1,5 +1,4 @@
-Mycobacterium shottsii Rhodes et al., 2003 SPECIES
-=======
+# Mycobacterium shottsii Rhodes et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocytophaga Stanier, 1940 GENUS
-=======
+# Sporocytophaga Stanier, 1940 GENUS
 
 #### Status
 ACCEPTED

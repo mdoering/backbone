@@ -1,5 +1,4 @@
-Penicillium conditaneum Westling SPECIES
-=======
+# Penicillium conditaneum Westling SPECIES
 
 #### Status
 ACCEPTED

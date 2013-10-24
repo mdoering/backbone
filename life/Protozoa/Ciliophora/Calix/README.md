@@ -1,5 +1,4 @@
-Calix Fraipont, 1878 GENUS
-=======
+# Calix Fraipont, 1878 GENUS
 
 #### Status
 ACCEPTED

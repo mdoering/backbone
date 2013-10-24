@@ -1,5 +1,4 @@
-Placolecanora dispersoareolata (Schaer.) Kopach. SPECIES
-=======
+# Placolecanora dispersoareolata (Schaer.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

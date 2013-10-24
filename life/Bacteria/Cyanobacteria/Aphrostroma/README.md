@@ -1,5 +1,4 @@
-Aphrostroma G. Gürich, 1906 GENUS
-=======
+# Aphrostroma G. Gürich, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia cryptomeriicola Sawada SPECIES
-=======
+# Pestalotia cryptomeriicola Sawada SPECIES
 
 #### Status
 ACCEPTED

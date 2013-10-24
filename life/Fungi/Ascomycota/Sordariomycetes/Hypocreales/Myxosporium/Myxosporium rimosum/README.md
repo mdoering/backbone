@@ -1,5 +1,4 @@
-Myxosporium rimosum Fautrey SPECIES
-=======
+# Myxosporium rimosum Fautrey SPECIES
 
 #### Status
 ACCEPTED

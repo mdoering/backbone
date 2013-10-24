@@ -1,8 +1,7 @@
-Trichobasis hobsoni Vize SPECIES
-=======
+# Trichobasis hobsonii Vize SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichobasis hobsoni Vize
+Trichobasis hobsonii Vize
 
 ### Remarks
 null

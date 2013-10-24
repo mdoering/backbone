@@ -1,5 +1,4 @@
-Dactylella haptospora (Drechsler) K.Q. Zhang, Xing Z. Liu & L. Cao SPECIES
-=======
+# Dactylella haptospora (Drechsler) K.Q. Zhang, Xing Z. Liu & L. Cao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton avaricum Szathmáry SPECIES
-=======
+# Trichophyton avaricum Szathmáry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina phaleriae J.M. Mend. SPECIES
-=======
+# Asterina phaleriae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

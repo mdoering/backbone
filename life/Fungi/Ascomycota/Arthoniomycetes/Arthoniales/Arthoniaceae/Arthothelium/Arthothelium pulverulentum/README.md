@@ -1,5 +1,4 @@
-Arthothelium pulverulentum Müll. Arg. SPECIES
-=======
+# Arthothelium pulverulentum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

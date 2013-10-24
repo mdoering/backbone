@@ -1,5 +1,4 @@
-Durchoniella Puytorac, 1954 GENUS
-=======
+# Durchoniella Puytorac, 1954 GENUS
 
 #### Status
 ACCEPTED

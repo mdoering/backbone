@@ -1,5 +1,4 @@
-Buetschliella chaetogastri SPECIES
-=======
+# Buetschliella chaetogastri SPECIES
 
 #### Status
 ACCEPTED

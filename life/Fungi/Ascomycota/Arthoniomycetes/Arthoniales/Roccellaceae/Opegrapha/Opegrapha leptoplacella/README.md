@@ -1,5 +1,4 @@
-Opegrapha leptoplacella (Müll. Arg.) Vezda SPECIES
-=======
+# Opegrapha leptoplacella (Müll. Arg.) Vezda SPECIES
 
 #### Status
 ACCEPTED

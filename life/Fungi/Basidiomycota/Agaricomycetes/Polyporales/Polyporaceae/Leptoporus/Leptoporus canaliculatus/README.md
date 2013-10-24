@@ -1,5 +1,4 @@
-Leptoporus canaliculatus (Pat.) Pat. SPECIES
-=======
+# Leptoporus canaliculatus (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

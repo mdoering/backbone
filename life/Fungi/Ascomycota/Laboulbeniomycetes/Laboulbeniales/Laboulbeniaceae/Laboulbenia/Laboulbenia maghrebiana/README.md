@@ -1,5 +1,4 @@
-Laboulbenia maghrebiana Balazuc ex Santam. SPECIES
-=======
+# Laboulbenia maghrebiana Balazuc ex Santam. SPECIES
 
 #### Status
 ACCEPTED

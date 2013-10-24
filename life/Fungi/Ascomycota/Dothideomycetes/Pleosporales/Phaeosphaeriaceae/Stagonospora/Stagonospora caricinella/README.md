@@ -1,14 +1,13 @@
-Hendersonia carcinella (Brunaud) Kuntze, 1898 SPECIES
-=======
+# Stagonospora caricinella Brunaud, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 483 (1898)
+Bull. Soc. bot. Fr. 40: 224 (1893)
 
 #### Original name
 Stagonospora caricinella Brunaud, 1893

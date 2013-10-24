@@ -1,5 +1,4 @@
-Aphanistis oedogoniorum Sorokin SPECIES
-=======
+# Aphanistis oedogoniorum Sorokin SPECIES
 
 #### Status
 ACCEPTED

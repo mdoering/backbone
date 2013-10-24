@@ -1,5 +1,4 @@
-Ciboria coryli (Schellenb.) N.F. Buchw. SPECIES
-=======
+# Ciboria coryli (Schellenb.) N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

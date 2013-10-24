@@ -1,5 +1,4 @@
-Bovista minor Morgan SPECIES
-=======
+# Bovista minor Morgan SPECIES
 
 #### Status
 ACCEPTED

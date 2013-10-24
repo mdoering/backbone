@@ -1,5 +1,4 @@
-Pseudopyrenula alboatra Vain. SPECIES
-=======
+# Pseudopyrenula alboatra Vain. SPECIES
 
 #### Status
 ACCEPTED

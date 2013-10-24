@@ -1,5 +1,4 @@
-Botrytis phymatotricha Sacc. SPECIES
-=======
+# Botrytis phymatotricha Sacc. SPECIES
 
 #### Status
 ACCEPTED

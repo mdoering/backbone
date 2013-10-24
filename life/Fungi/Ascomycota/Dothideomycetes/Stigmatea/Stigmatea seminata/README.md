@@ -1,5 +1,4 @@
-Stigmatea seminata (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Stigmatea seminata (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

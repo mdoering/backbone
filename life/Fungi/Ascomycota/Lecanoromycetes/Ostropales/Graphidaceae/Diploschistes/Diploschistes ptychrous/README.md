@@ -1,5 +1,4 @@
-Diploschistes ptychrous Lettau SPECIES
-=======
+# Diploschistes ptychrous Lettau SPECIES
 
 #### Status
 ACCEPTED

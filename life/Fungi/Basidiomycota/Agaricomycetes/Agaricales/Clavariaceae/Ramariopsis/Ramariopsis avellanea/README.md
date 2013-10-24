@@ -1,5 +1,4 @@
-Ramariopsis avellanea R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis avellanea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

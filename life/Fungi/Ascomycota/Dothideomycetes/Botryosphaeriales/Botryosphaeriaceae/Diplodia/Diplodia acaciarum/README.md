@@ -1,5 +1,4 @@
-Diplodia acaciarum Hansf. SPECIES
-=======
+# Diplodia acaciarum Hansf. SPECIES
 
 #### Status
 ACCEPTED

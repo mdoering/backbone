@@ -1,5 +1,4 @@
-Graphis virescens Müll. Arg. SPECIES
-=======
+# Graphis virescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia stenophyllina SPECIES
-=======
+# Parmelia stenophyllina SPECIES
 
 #### Status
 ACCEPTED

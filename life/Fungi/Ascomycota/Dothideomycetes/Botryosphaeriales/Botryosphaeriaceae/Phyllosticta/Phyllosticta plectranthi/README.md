@@ -1,5 +1,4 @@
-Phyllosticta plectranthi Koval SPECIES
-=======
+# Phyllosticta plectranthi Koval SPECIES
 
 #### Status
 ACCEPTED

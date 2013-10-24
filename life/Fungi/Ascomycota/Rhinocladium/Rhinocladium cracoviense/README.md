@@ -1,5 +1,4 @@
-Rhinocladium cracoviense (Lipinski) Coudert SPECIES
-=======
+# Rhinocladium cracoviense (Lipinski) Coudert SPECIES
 
 #### Status
 ACCEPTED

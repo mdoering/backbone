@@ -1,5 +1,4 @@
-Dimeromyces anatrichi Thaxt. SPECIES
-=======
+# Dimeromyces anatrichi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

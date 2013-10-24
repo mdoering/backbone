@@ -1,5 +1,4 @@
-Sphaerula Soldani, 1791 GENUS
-=======
+# Sphaerula Soldani, 1791 GENUS
 
 #### Status
 ACCEPTED

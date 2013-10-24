@@ -1,5 +1,4 @@
-Coxliella annulata (Daday, 1886) SPECIES
-=======
+# Coxliella annulata (Daday, 1886) SPECIES
 
 #### Status
 DOUBTFUL

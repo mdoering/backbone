@@ -1,5 +1,4 @@
-Psathyrella cheyennensis A.H. Sm. SPECIES
-=======
+# Psathyrella cheyennensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

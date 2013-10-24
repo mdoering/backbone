@@ -1,5 +1,4 @@
-Scleroderma mayama Grgur., 1997 SPECIES
-=======
+# Scleroderma mayama Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

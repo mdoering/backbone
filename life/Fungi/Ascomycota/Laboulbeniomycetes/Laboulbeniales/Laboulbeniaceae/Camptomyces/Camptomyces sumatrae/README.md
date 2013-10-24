@@ -1,5 +1,4 @@
-Camptomyces sumatrae Thaxt., 1926 SPECIES
-=======
+# Camptomyces sumatrae Thaxt., 1926 SPECIES
 
 #### Status
 ACCEPTED

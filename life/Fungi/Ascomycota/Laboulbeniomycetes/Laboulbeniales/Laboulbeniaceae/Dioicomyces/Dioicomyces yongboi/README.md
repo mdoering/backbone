@@ -1,5 +1,4 @@
-Dioicomyces yongboi T. Majewski SPECIES
-=======
+# Dioicomyces yongboi T. Majewski SPECIES
 
 #### Status
 ACCEPTED

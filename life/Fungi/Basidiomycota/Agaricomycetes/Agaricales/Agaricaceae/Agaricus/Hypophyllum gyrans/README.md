@@ -1,5 +1,4 @@
-Hypophyllum gyrans Paulet SPECIES
-=======
+# Hypophyllum gyrans Paulet SPECIES
 
 #### Status
 ACCEPTED

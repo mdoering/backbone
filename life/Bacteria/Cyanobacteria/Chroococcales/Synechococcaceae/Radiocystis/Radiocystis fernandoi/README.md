@@ -1,5 +1,4 @@
-Radiocystis fernandoi Komárek & Komárková-Legnerová SPECIES
-=======
+# Radiocystis fernandoi Komárek & Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

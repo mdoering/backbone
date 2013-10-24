@@ -1,5 +1,4 @@
-Entyloma pustulosum Sacc. & Fautrey SPECIES
-=======
+# Entyloma pustulosum Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

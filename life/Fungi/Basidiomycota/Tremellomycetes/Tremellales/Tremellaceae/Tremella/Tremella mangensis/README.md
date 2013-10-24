@@ -1,5 +1,4 @@
-Tremella mangensis Y.B. Peng SPECIES
-=======
+# Tremella mangensis Y.B. Peng SPECIES
 
 #### Status
 ACCEPTED

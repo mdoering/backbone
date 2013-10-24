@@ -1,17 +1,16 @@
-Aspergillus versicolor var. versicolor VARIETY
-=======
+# Aspergillus versicolor (Vuill.) Tirab., 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annali Bot. , Roma 7: 9 (1908)
 
 #### Original name
-Aspergillus versicolor var. versicolor
+Sterigmatocystis versicolor Vuill., 1903
 
 ### Remarks
 null

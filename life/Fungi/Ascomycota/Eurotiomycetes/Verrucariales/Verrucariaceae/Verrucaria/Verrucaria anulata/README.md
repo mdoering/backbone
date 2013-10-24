@@ -1,5 +1,4 @@
-Verrucaria anulata Humb. SPECIES
-=======
+# Verrucaria anulata Humb. SPECIES
 
 #### Status
 ACCEPTED

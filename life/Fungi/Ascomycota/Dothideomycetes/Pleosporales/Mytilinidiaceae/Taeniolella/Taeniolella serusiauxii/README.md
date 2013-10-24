@@ -1,5 +1,4 @@
-Taeniolella serusiauxii Diederich SPECIES
-=======
+# Taeniolella serusiauxii Diederich SPECIES
 
 #### Status
 ACCEPTED

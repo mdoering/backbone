@@ -1,5 +1,4 @@
-Hendersonia stanleyellae Fairm. SPECIES
-=======
+# Hendersonia stanleyellae Fairm. SPECIES
 
 #### Status
 ACCEPTED

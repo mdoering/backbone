@@ -1,5 +1,4 @@
-Fomes intermedius Bres. & Pat. SPECIES
-=======
+# Fomes intermedius Bres. & Pat. SPECIES
 
 #### Status
 ACCEPTED

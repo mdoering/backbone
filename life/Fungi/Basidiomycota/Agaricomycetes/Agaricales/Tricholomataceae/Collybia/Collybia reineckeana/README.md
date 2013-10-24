@@ -1,5 +1,4 @@
-Collybia reineckeana Henn. SPECIES
-=======
+# Collybia reineckeana Henn. SPECIES
 
 #### Status
 ACCEPTED

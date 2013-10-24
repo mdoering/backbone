@@ -1,5 +1,4 @@
-Prunulus latericius Murrill SPECIES
-=======
+# Prunulus latericius Murrill SPECIES
 
 #### Status
 ACCEPTED

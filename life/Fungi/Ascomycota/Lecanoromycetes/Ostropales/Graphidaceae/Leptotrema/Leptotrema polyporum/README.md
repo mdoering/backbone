@@ -1,5 +1,4 @@
-Leptotrema polyporum Riddle SPECIES
-=======
+# Leptotrema polyporum Riddle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizosaccharomyces liquefacians Osterw. SPECIES
-=======
+# Schizosaccharomyces liquefacians Osterw. SPECIES
 
 #### Status
 ACCEPTED

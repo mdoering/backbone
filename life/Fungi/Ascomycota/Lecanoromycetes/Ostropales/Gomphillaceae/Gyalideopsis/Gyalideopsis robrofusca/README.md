@@ -1,5 +1,4 @@
-Gyalideopsis robrofusca Kalb & Vezda SPECIES
-=======
+# Gyalideopsis robrofusca Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

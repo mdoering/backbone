@@ -1,5 +1,4 @@
-Diplodina consocians Karimov SPECIES
-=======
+# Diplodina consocians Karimov SPECIES
 
 #### Status
 ACCEPTED

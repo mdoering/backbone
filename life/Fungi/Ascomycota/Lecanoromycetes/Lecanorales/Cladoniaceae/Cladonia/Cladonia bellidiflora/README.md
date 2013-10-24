@@ -1,17 +1,16 @@
-Cladonia bellidiflora var. austrogeorgica D.C. Linds. VARIETY
-=======
+# Cladonia bellidiflora (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cladonia bellidiflora var. austrogeorgica D.C. Linds.
+Lichen bellidiflorus Ach.
 
 ### Remarks
 null

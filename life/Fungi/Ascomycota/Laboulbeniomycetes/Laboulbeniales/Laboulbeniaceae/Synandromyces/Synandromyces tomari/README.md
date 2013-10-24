@@ -1,5 +1,4 @@
-Synandromyces tomari Thaxt., 1931 SPECIES
-=======
+# Synandromyces tomari Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

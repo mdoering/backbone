@@ -1,5 +1,4 @@
-Buellia phloeoica (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia phloeoica (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marginulina spinigera SPECIES
-=======
+# Marginulina spinigera SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma pulverulenta (Beij.) Nann. SPECIES
-=======
+# Mycoderma pulverulenta (Beij.) Nann. SPECIES
 
 #### Status
 ACCEPTED

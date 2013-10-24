@@ -1,5 +1,4 @@
-Phyllosticta chloranthi Bunkina & Koval SPECIES
-=======
+# Phyllosticta chloranthi Bunkina & Koval SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma flavogibbum Corner & E. Horak SPECIES
-=======
+# Entoloma flavogibbum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

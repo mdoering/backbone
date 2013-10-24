@@ -1,5 +1,4 @@
-Guignardia spinicola (Sacc.) Lindau SPECIES
-=======
+# Guignardia spinicola (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

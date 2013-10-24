@@ -1,5 +1,4 @@
-Asterodinium spinosum Sournia, 1972 SPECIES
-=======
+# Asterodinium spinosum Sournia, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus meyeri-ludovici Eichelb. SPECIES
-=======
+# Agaricus meyeri-ludovici Eichelb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria oblongata Drebes & Schultz SPECIES
-=======
+# Fragilaria oblongata Drebes & Schultz SPECIES
 
 #### Status
 ACCEPTED

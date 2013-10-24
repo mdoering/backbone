@@ -1,5 +1,4 @@
-Diaporthe pinicola Hazsl. SPECIES
-=======
+# Diaporthe pinicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

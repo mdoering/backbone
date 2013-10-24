@@ -1,5 +1,4 @@
-Anaptychia chondroidea (W.A. Weber & D.D. Awasthi) Kurok. SPECIES
-=======
+# Anaptychia chondroidea (W.A. Weber & D.D. Awasthi) Kurok. SPECIES
 
 #### Status
 ACCEPTED

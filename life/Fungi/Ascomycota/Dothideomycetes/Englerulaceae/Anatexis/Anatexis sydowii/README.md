@@ -1,5 +1,4 @@
-Anatexis sydowii Petr. SPECIES
-=======
+# Anatexis sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

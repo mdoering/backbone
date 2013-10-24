@@ -1,5 +1,4 @@
-Coniochaeta lancastriensis P.F. Cannon SPECIES
-=======
+# Coniochaeta lancastriensis P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

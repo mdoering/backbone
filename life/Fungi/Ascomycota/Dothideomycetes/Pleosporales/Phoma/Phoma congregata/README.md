@@ -1,5 +1,4 @@
-Phoma congregata Pat. SPECIES
-=======
+# Phoma congregata Pat. SPECIES
 
 #### Status
 ACCEPTED

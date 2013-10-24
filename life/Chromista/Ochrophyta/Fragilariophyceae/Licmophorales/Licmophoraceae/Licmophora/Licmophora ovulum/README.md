@@ -1,5 +1,4 @@
-Licmophora ovulum Mereschkovsky SPECIES
-=======
+# Licmophora ovulum Mereschkovsky SPECIES
 
 #### Status
 ACCEPTED

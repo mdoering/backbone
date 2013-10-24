@@ -1,5 +1,4 @@
-Endopyrenium crozalsianum B. de Lesd. SPECIES
-=======
+# Endopyrenium crozalsianum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon dermateoides Rehm SPECIES
-=======
+# Schizoxylon dermateoides Rehm SPECIES
 
 #### Status
 ACCEPTED

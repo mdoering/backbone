@@ -1,5 +1,4 @@
-Periconia thebaica Corda SPECIES
-=======
+# Periconia thebaica Corda SPECIES
 
 #### Status
 ACCEPTED

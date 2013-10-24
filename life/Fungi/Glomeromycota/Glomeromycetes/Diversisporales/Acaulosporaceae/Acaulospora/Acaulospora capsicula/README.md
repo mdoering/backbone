@@ -1,5 +1,4 @@
-Acaulospora capsicula Blaszk., 1990 SPECIES
-=======
+# Acaulospora capsicula Blaszk., 1990 SPECIES
 
 #### Status
 ACCEPTED

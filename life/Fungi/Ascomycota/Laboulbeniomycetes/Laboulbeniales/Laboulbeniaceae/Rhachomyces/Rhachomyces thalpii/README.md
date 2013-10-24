@@ -1,5 +1,4 @@
-Rhachomyces thalpii Thaxt. SPECIES
-=======
+# Rhachomyces thalpii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

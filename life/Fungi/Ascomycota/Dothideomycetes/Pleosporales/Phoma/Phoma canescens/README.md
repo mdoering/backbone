@@ -1,5 +1,4 @@
-Phoma canescens Ellis & Barthol. SPECIES
-=======
+# Phoma canescens Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

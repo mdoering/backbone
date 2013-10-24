@@ -1,5 +1,4 @@
-Phyllostaurus Haeckel, 1862 GENUS
-=======
+# Phyllostaurus Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

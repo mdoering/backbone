@@ -1,5 +1,4 @@
-Pleospora donacina (Fr.) Niessl, 1876 SPECIES
-=======
+# Pleospora donacina (Fr.) Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED

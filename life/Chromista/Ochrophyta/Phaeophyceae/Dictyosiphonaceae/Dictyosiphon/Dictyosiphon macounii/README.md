@@ -1,5 +1,4 @@
-Dictyosiphon macounii Farlow SPECIES
-=======
+# Dictyosiphon macounii Farlow SPECIES
 
 #### Status
 ACCEPTED

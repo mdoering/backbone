@@ -1,5 +1,4 @@
-Macrophoma numerosa Peck SPECIES
-=======
+# Macrophoma numerosa Peck SPECIES
 
 #### Status
 ACCEPTED

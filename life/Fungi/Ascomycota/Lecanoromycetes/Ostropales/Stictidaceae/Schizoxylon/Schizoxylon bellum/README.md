@@ -1,5 +1,4 @@
-Schizoxylon bellum (Cooke & Kalchbr.) Sherwood SPECIES
-=======
+# Schizoxylon bellum (Cooke & Kalchbr.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

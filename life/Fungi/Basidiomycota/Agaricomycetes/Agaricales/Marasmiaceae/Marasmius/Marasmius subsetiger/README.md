@@ -1,5 +1,4 @@
-Marasmius subsetiger Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Marasmius subsetiger Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniella pulchella Höhn., 1918 SPECIES
-=======
+# Coniella pulchella Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

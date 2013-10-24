@@ -1,5 +1,4 @@
-Ascochyta caryoticola Punith. SPECIES
-=======
+# Ascochyta caryoticola Punith. SPECIES
 
 #### Status
 ACCEPTED

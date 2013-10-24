@@ -1,5 +1,4 @@
-Thelephora diffusa (Fr.) Fr. SPECIES
-=======
+# Thelephora diffusa (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

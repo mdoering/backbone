@@ -1,5 +1,4 @@
-Opercularia corisae subsp. corisae SUBSPECIES
-=======
+# Opercularia corisae SPECIES
 
 #### Status
 ACCEPTED

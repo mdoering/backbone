@@ -1,5 +1,4 @@
-Eidamia catenulata Horne {?} & Williams {?} SPECIES
-=======
+# Eidamia catenulata Horne {?} & Williams {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ubicola J.M. Yen SPECIES
-=======
+# Cercospora ubicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentalina Risso, 1826 GENUS
-=======
+# Dentalina Risso, 1826 GENUS
 
 #### Status
 ACCEPTED

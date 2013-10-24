@@ -1,5 +1,4 @@
-Albotricha pallida Raitv. SPECIES
-=======
+# Albotricha pallida Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella seymourensis A.H. Sm. SPECIES
-=======
+# Psathyrella seymourensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

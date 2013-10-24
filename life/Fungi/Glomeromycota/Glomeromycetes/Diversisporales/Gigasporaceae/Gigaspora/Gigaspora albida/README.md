@@ -1,5 +1,4 @@
-Gigaspora albida N.C. Schenck & G.S. Sm., 1982 SPECIES
-=======
+# Gigaspora albida N.C. Schenck & G.S. Sm., 1982 SPECIES
 
 #### Status
 ACCEPTED

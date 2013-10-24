@@ -1,5 +1,4 @@
-Tremella micropera Kalchbr. & Cooke SPECIES
-=======
+# Tremella micropera Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

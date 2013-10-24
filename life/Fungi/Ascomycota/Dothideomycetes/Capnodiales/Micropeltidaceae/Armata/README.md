@@ -1,5 +1,4 @@
-Armata W. Yamam. GENUS
-=======
+# Armata W. Yamam. GENUS
 
 #### Status
 ACCEPTED

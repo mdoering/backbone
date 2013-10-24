@@ -1,5 +1,4 @@
-Mycomicrothelia minutula (Zahlbr.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia minutula (Zahlbr.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia gigas Kurok. SPECIES
-=======
+# Parmelia gigas Kurok. SPECIES
 
 #### Status
 ACCEPTED

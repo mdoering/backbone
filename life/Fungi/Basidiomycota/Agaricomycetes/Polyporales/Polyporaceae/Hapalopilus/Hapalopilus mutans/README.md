@@ -1,17 +1,16 @@
-Poria mutans var. mutans (Peck) Peck VARIETY
-=======
+# Hapalopilus mutans (Peck) Gilb. & Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 43: 85 (1890)
+N. Amer. Polyp. (Oslo), Vol. <b>1</b> <i>Abortiporus</i> - <i>Lindtneri</i> 337 (1986)
 
 #### Original name
-Poria mutans var. mutans (Peck) Peck
+Polyporus mutans Peck, 1888
 
 ### Remarks
 null

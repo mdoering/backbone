@@ -1,5 +1,4 @@
-Hjortstamia fuscomarginata (Burt) Hjortstam & Ryvarden SPECIES
-=======
+# Hjortstamia fuscomarginata (Burt) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

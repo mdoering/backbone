@@ -1,5 +1,4 @@
-Psathyra flavogrisea Berk. SPECIES
-=======
+# Psathyra flavogrisea Berk. SPECIES
 
 #### Status
 ACCEPTED

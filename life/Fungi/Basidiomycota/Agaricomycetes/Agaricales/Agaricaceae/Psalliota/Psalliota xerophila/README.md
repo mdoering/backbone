@@ -1,5 +1,4 @@
-Psalliota xerophila Velen. SPECIES
-=======
+# Psalliota xerophila Velen. SPECIES
 
 #### Status
 ACCEPTED

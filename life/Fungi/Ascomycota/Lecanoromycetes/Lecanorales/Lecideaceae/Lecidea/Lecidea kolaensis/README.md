@@ -1,5 +1,4 @@
-Lecidea kolaensis f. kolaensis FORM
-=======
+# Lecidea kolaensis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea kolaensis f. kolaensis
+Lecidea kolaensis Nyl.
 
 ### Remarks
 null

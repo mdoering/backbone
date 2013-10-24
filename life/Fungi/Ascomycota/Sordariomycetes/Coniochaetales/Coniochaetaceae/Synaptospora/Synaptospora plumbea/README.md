@@ -1,5 +1,4 @@
-Synaptospora plumbea Huhndorf, F.A. Fernández & Cand. SPECIES
-=======
+# Synaptospora plumbea Huhndorf, F.A. Fernández & Cand. SPECIES
 
 #### Status
 ACCEPTED

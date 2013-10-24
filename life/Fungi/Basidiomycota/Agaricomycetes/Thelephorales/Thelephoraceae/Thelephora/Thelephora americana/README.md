@@ -1,5 +1,4 @@
-Thelephora americana (Peck) Sacc. SPECIES
-=======
+# Thelephora americana (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

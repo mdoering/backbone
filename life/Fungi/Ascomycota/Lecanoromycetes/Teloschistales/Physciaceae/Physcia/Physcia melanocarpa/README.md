@@ -1,5 +1,4 @@
-Physcia melanocarpa Müll. Arg. SPECIES
-=======
+# Physcia melanocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Uronema opisthosoma Lepsi, 1926 SPECIES
-=======
+# Uropedalium opisthosoma (Lepsi, 1926) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

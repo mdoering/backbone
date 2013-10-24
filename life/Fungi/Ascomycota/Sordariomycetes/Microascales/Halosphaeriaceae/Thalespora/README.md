@@ -1,5 +1,4 @@
-Thalespora Chatmala & E.B.G. Jones GENUS
-=======
+# Thalespora Chatmala & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

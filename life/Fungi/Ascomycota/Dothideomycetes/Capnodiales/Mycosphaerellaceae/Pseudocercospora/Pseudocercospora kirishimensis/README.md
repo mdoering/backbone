@@ -1,5 +1,4 @@
-Pseudocercospora kirishimensis (Naito) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora kirishimensis (Naito) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

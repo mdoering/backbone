@@ -1,5 +1,4 @@
-Cyphella ledermannii Syd. SPECIES
-=======
+# Cyphella ledermannii Syd. SPECIES
 
 #### Status
 ACCEPTED

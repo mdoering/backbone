@@ -1,17 +1,16 @@
-Podospora coronifera (Grove) Cain, 1962 SPECIES
-=======
+# Podospora aloides (Fuckel) J.H. Mirza & Cain, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 459 (1962)
+Can. J. Bot. 47(12): 2004 (1970)
 
 #### Original name
-Sordaria coronifera Grove, 1916
+Sordaria aloides Fuckel, 1873
 
 ### Remarks
 null

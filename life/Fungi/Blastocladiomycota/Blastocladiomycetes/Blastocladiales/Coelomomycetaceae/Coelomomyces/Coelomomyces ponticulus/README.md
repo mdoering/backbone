@@ -1,5 +1,4 @@
-Coelomomyces ponticulus Nolan & Mogi SPECIES
-=======
+# Coelomomyces ponticulus Nolan & Mogi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe fennica Harmaja SPECIES
-=======
+# Clitocybe fennica Harmaja SPECIES
 
 #### Status
 ACCEPTED

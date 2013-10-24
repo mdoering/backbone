@@ -1,5 +1,4 @@
-Pycnothyrium lobatum Syd. {?} SPECIES
-=======
+# Pycnothyrium lobatum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

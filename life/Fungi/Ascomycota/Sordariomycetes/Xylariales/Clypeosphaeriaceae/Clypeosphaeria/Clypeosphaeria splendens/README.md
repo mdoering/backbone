@@ -1,5 +1,4 @@
-Clypeosphaeria splendens Rick SPECIES
-=======
+# Clypeosphaeria splendens Rick SPECIES
 
 #### Status
 ACCEPTED

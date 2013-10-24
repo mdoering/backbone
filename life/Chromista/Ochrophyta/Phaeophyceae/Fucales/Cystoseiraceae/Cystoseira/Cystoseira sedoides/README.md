@@ -1,5 +1,4 @@
-Cystoseira sedoides (Desfontaines) C. Agardh SPECIES
-=======
+# Cystoseira sedoides (Desfontaines) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

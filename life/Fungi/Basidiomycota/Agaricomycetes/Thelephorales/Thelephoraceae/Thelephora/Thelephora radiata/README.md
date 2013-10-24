@@ -1,5 +1,4 @@
-Thelephora radiata Fr. SPECIES
-=======
+# Thelephora radiata Fr. SPECIES
 
 #### Status
 ACCEPTED

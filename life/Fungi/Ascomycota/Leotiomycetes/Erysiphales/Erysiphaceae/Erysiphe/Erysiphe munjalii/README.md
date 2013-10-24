@@ -1,5 +1,4 @@
-Erysiphe munjalii Y.S. Paul & L.N. Bhardwaj SPECIES
-=======
+# Erysiphe munjalii Y.S. Paul & L.N. Bhardwaj SPECIES
 
 #### Status
 ACCEPTED

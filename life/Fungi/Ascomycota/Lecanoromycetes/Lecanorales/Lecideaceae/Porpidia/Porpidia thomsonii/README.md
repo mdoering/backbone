@@ -1,5 +1,4 @@
-Porpidia thomsonii Gowan SPECIES
-=======
+# Porpidia thomsonii Gowan SPECIES
 
 #### Status
 ACCEPTED

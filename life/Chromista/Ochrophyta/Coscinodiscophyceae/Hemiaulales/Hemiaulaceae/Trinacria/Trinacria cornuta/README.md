@@ -1,5 +1,4 @@
-Trinacria cornuta f. pentagona P.A. Sims & R. Ross FORM
-=======
+# Trinacria cornuta (Greville) P. A. Sims & R. Ross SPECIES
 
 #### Status
 ACCEPTED

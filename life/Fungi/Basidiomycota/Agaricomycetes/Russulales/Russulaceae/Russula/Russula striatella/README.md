@@ -1,5 +1,4 @@
-Russula striatella Jul. Schäff. SPECIES
-=======
+# Russula striatella Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

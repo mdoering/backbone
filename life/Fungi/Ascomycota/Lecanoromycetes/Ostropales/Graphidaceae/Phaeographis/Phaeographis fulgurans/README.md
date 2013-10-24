@@ -1,5 +1,4 @@
-Phaeographis fulgurans (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis fulgurans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

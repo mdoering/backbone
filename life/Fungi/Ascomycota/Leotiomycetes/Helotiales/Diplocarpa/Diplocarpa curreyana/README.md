@@ -1,5 +1,4 @@
-Diplocarpa curreyana Massee, 1895 SPECIES
-=======
+# Diplocarpa curreyana Massee, 1895 SPECIES
 
 #### Status
 ACCEPTED

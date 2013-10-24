@@ -1,5 +1,4 @@
-Tessellaria volvocina (Playfair) Playfair SPECIES
-=======
+# Tessellaria volvocina (Playfair) Playfair SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Armatella phoebecola Hosag. SPECIES
-=======
+# Armatella phoebeicola Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 15(1): 201 (1991)
 
 #### Original name
-Armatella phoebecola Hosag.
+Armatella phoebeicola Hosag.
 
 ### Remarks
 null

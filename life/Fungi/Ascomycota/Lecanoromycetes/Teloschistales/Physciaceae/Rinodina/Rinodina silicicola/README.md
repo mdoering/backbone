@@ -1,5 +1,4 @@
-Rinodina silicicola B. de Lesd. SPECIES
-=======
+# Rinodina silicicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

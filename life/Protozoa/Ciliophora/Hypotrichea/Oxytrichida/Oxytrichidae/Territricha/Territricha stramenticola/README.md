@@ -1,8 +1,7 @@
-Perisincirra stramenticola Berger & Foissner, 1988 SPECIES
-=======
+# Territricha stramenticola Berger & Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

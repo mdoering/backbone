@@ -1,5 +1,4 @@
-Pseudopithyella Seaver GENUS
-=======
+# Pseudopithyella Seaver GENUS
 
 #### Status
 ACCEPTED

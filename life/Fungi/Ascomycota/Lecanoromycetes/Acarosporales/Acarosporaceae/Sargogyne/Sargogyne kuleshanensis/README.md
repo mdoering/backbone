@@ -1,5 +1,4 @@
-Sargogyne kuleshanensis SPECIES
-=======
+# Sargogyne kuleshanensis SPECIES
 
 #### Status
 ACCEPTED

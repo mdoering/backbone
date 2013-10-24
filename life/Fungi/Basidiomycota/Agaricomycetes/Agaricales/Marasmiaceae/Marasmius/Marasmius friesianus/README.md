@@ -1,17 +1,16 @@
-Marasmius frieseanus Henn. SPECIES
-=======
+# Marasmius friesianus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 22: 100 (1895)
 
 #### Original name
-Marasmius frieseanus Henn.
+Marasmius friesianus Henn.
 
 ### Remarks
 null

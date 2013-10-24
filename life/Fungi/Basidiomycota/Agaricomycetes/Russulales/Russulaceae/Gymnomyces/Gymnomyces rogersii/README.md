@@ -1,14 +1,13 @@
-Octaviania rogersii Singer & A.H. Sm., 1960 SPECIES
-=======
+# Gymnomyces rogersii (Singer & A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 21(3): 12 (1960)
+Mycotaxon 81: 200 (2002)
 
 #### Original name
 Octaviania rogersii Singer & A.H. Sm., 1960

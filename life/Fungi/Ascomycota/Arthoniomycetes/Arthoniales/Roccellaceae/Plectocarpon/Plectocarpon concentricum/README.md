@@ -1,5 +1,4 @@
-Plectocarpon concentricum Ertz, Diederich & Wedin SPECIES
-=======
+# Plectocarpon concentricum Ertz, Diederich & Wedin SPECIES
 
 #### Status
 ACCEPTED

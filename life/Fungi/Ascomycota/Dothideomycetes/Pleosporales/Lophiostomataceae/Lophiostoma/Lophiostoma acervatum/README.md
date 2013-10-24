@@ -1,5 +1,4 @@
-Lophiostoma acervatum P. Karst. SPECIES
-=======
+# Lophiostoma acervatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

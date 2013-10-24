@@ -1,5 +1,4 @@
-Cenangium tremellosum Anzi SPECIES
-=======
+# Cenangium tremellosum Anzi SPECIES
 
 #### Status
 ACCEPTED

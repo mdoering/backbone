@@ -1,5 +1,4 @@
-Euryachora rumicis P. Karst. SPECIES
-=======
+# Euryachora rumicis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

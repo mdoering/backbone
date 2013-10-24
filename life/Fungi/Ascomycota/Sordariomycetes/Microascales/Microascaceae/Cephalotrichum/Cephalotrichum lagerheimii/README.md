@@ -1,5 +1,4 @@
-Cephalotrichum lagerheimii Pat. SPECIES
-=======
+# Cephalotrichum lagerheimii Pat. SPECIES
 
 #### Status
 ACCEPTED

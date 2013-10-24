@@ -1,5 +1,4 @@
-Clavulina albiramea (Corner) Buyck & Duhem SPECIES
-=======
+# Clavulina albiramea (Corner) Buyck & Duhem SPECIES
 
 #### Status
 ACCEPTED

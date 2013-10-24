@@ -1,5 +1,4 @@
-Septoria laserpitii Cavara SPECIES
-=======
+# Septoria laserpitii Cavara SPECIES
 
 #### Status
 ACCEPTED

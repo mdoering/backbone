@@ -1,5 +1,4 @@
-Heterosporium minutulum Cooke & Massee SPECIES
-=======
+# Heterosporium minutulum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

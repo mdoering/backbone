@@ -1,5 +1,4 @@
-Gorkaea obliqueclausus SPECIES
-=======
+# Gorkaea obliqueclausus SPECIES
 
 #### Status
 DOUBTFUL

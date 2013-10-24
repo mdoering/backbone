@@ -1,5 +1,4 @@
-Striatococcus opacus Prins, 1969 SPECIES
-=======
+# Striatococcus opacus Prins, 1969 SPECIES
 
 #### Status
 DOUBTFUL

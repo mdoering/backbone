@@ -1,5 +1,4 @@
-Hispidula P.R. Johnston, 2003 GENUS
-=======
+# Hispidula P.R. Johnston, 2003 GENUS
 
 #### Status
 ACCEPTED

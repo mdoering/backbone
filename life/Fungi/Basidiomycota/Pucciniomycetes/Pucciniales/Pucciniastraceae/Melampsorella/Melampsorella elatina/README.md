@@ -1,5 +1,4 @@
-Melampsorella elatina Arthur, 1907 SPECIES
-=======
+# Melampsorella elatina Arthur, 1907 SPECIES
 
 #### Status
 ACCEPTED

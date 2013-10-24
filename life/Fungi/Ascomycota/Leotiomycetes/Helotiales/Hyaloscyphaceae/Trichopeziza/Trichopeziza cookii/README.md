@@ -1,5 +1,4 @@
-Trichopeziza cookii (Pass.) Sacc. SPECIES
-=======
+# Trichopeziza cookii (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

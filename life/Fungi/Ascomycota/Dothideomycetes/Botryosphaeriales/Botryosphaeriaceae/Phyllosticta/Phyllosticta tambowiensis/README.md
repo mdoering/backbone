@@ -1,5 +1,4 @@
-Phyllosticta tambowiensis Bubák & Serebrian. SPECIES
-=======
+# Phyllosticta tambowiensis Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

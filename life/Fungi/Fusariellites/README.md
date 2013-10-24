@@ -1,5 +1,4 @@
-Fusariellites Babajan & Tasl. GENUS
-=======
+# Fusariellites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

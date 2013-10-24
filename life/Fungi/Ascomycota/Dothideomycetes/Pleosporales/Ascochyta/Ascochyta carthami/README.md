@@ -1,5 +1,4 @@
-Ascochyta carthami Khokhr. SPECIES
-=======
+# Ascochyta carthami Khokhr. SPECIES
 
 #### Status
 ACCEPTED

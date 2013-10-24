@@ -1,5 +1,4 @@
-Stictodiscus gelidus A. Mann SPECIES
-=======
+# Stictodiscus gelidus A. Mann SPECIES
 
 #### Status
 ACCEPTED

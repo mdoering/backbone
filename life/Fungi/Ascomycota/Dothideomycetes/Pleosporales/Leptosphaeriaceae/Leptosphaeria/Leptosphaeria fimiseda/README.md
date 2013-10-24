@@ -1,5 +1,4 @@
-Leptosphaeria fimiseda G. Winter SPECIES
-=======
+# Leptosphaeria fimiseda G. Winter SPECIES
 
 #### Status
 ACCEPTED

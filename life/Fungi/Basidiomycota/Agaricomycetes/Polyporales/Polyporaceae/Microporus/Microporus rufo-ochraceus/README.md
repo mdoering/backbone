@@ -1,5 +1,4 @@
-Microporus rufo-ochraceus (Pat.) Kuntze SPECIES
-=======
+# Microporus rufo-ochraceus (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

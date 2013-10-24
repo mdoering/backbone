@@ -1,5 +1,4 @@
-Meliola combinans Cif. SPECIES
-=======
+# Meliola combinans Cif. SPECIES
 
 #### Status
 ACCEPTED

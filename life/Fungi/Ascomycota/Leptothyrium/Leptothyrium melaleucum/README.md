@@ -1,5 +1,4 @@
-Leptothyrium melaleucum Grove, 1922 SPECIES
-=======
+# Leptothyrium melaleucum Grove, 1922 SPECIES
 
 #### Status
 ACCEPTED

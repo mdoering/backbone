@@ -1,5 +1,4 @@
-Heterogastridiales Oberw. & R. Bauer ORDER
-=======
+# Heterogastridiales Oberw. & R. Bauer ORDER
 
 #### Status
 ACCEPTED

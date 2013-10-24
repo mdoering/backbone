@@ -1,5 +1,4 @@
-Puccinia brachypodii-phoenicoidis var. brachypodii-phoenicoidis VARIETY
-=======
+# Puccinia brachypodii-phoenicoidis Guyot & Malençon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trav. Inst. Sci. Cherifien, Ser. Bot. 28: 37 (1963)
 
 #### Original name
-Puccinia brachypodii-phoenicoidis var. brachypodii-phoenicoidis
+Puccinia brachypodii-phoenicoidis Guyot & Malençon
 
 ### Remarks
 null

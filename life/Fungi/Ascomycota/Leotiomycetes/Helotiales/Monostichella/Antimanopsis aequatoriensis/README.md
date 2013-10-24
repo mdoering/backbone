@@ -1,5 +1,4 @@
-Antimanopsis aequatoriensis Petr. SPECIES
-=======
+# Antimanopsis aequatoriensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus amphiporus Fr. SPECIES
-=======
+# Polyporus amphiporus Fr. SPECIES
 
 #### Status
 ACCEPTED

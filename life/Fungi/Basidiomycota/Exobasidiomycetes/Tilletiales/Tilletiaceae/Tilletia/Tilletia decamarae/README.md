@@ -1,5 +1,4 @@
-Tilletia decamarae Unamuno SPECIES
-=======
+# Tilletia decamarae Unamuno SPECIES
 
 #### Status
 ACCEPTED

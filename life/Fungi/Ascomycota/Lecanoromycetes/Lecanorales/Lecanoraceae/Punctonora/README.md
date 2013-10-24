@@ -1,5 +1,4 @@
-Punctonora Aptroot GENUS
-=======
+# Punctonora Aptroot GENUS
 
 #### Status
 ACCEPTED

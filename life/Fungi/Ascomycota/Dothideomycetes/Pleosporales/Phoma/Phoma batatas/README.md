@@ -1,8 +1,7 @@
-Phoma batatae Ellis & Halst. SPECIES
-=======
+# Phoma batatas Ellis & Halst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma batatae Ellis & Halst.
+Phoma batatas Ellis & Halst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichodina unionis Hampl, 1955 SPECIES
-=======
+# Trichodina unionis Hampl, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma longirostrata Bubák SPECIES
-=======
+# Phoma longirostrata Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo galanthi-fragilis Arthur SPECIES
-=======
+# Uredo galanthi-fragilis Arthur SPECIES
 
 #### Status
 ACCEPTED

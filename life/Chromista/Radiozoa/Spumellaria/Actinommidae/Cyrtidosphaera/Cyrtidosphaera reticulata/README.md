@@ -1,5 +1,4 @@
-Cyrtidosphaera reticulata Haeckel, 1860 SPECIES
-=======
+# Cyrtidosphaera reticulata Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

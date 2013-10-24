@@ -1,5 +1,4 @@
-Crepidotus pallescens Quél. SPECIES
-=======
+# Crepidotus pallescens Quél. SPECIES
 
 #### Status
 ACCEPTED

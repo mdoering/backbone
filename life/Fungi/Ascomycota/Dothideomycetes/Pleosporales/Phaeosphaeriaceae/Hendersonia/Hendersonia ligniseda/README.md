@@ -1,5 +1,4 @@
-Hendersonia ligniseda Fautrey SPECIES
-=======
+# Hendersonia ligniseda Fautrey SPECIES
 
 #### Status
 ACCEPTED

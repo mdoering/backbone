@@ -1,17 +1,16 @@
-Phoma phaseoli f. phaseoli FORM
-=======
+# Phoma phaseoli SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Phoma phaseoli f. phaseoli
+null
 
 ### Remarks
 null

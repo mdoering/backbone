@@ -1,5 +1,4 @@
-Craspedomyoschiston sphaeromae Precht, 1935 SPECIES
-=======
+# Craspedomyoschiston sphaeromae Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

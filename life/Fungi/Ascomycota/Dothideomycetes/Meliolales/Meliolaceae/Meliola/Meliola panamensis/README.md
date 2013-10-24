@@ -1,5 +1,4 @@
-Meliola panamensis F. Stevens SPECIES
-=======
+# Meliola panamensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

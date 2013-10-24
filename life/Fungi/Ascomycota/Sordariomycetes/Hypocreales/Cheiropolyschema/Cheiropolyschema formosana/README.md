@@ -1,5 +1,4 @@
-Cheiropolyschema formosana Matsush., 1980 SPECIES
-=======
+# Cheiropolyschema formosana Matsush., 1980 SPECIES
 
 #### Status
 ACCEPTED

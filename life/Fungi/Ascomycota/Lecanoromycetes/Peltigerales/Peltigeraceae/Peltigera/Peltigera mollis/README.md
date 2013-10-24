@@ -1,5 +1,4 @@
-Peltigera mollis var. mollis VARIETY
-=======
+# Peltigera mollis (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera mollis var. mollis
+null
 
 ### Remarks
 null

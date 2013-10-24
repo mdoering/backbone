@@ -1,5 +1,4 @@
-Dictyocyclus hydrangeae Sivan., W.H. Hsieh & Chi Y. Chen, 1998 SPECIES
-=======
+# Dictyocyclus hydrangeae Sivan., W.H. Hsieh & Chi Y. Chen, 1998 SPECIES
 
 #### Status
 ACCEPTED

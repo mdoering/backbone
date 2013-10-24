@@ -1,5 +1,4 @@
-Puccinia cunilae Dietel SPECIES
-=======
+# Puccinia cunilae Dietel SPECIES
 
 #### Status
 ACCEPTED

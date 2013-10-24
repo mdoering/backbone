@@ -1,5 +1,4 @@
-Diatrype canariensis Urries SPECIES
-=======
+# Diatrype canariensis Urries SPECIES
 
 #### Status
 ACCEPTED

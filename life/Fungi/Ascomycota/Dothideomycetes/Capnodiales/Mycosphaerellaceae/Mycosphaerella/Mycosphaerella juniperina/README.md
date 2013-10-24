@@ -1,14 +1,13 @@
-Sphaerella juniperina Ellis, 1883 SPECIES
-=======
+# Mycosphaerella juniperina (Ellis) Tomilin, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Nat. 17: 917 (1883)
+Nov. sist. Niz. Rast. 6: 117 (1970)
 
 #### Original name
 Sphaerella juniperina Ellis, 1883

@@ -1,5 +1,4 @@
-Amanita nigrella Pers. SPECIES
-=======
+# Amanita nigrella Pers. SPECIES
 
 #### Status
 ACCEPTED

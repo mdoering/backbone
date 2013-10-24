@@ -1,5 +1,4 @@
-Hypomyces vandae (Wahrlich) Bernátsky SPECIES
-=======
+# Hypomyces vandae (Wahrlich) Bernátsky SPECIES
 
 #### Status
 ACCEPTED

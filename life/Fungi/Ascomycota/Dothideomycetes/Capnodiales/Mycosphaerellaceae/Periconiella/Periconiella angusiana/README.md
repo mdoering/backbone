@@ -1,5 +1,4 @@
-Periconiella angusiana M.B. Ellis SPECIES
-=======
+# Periconiella angusiana M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

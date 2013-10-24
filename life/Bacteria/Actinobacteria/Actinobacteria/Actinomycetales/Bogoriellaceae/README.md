@@ -1,5 +1,4 @@
-Bogoriellaceae Schumann & Stackebrandt, 2000 FAMILY
-=======
+# Bogoriellaceae Schumann & Stackebrandt, 2000 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria subglaucina B. de Lesd. SPECIES
-=======
+# Verrucaria subglaucina B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

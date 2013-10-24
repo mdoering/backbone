@@ -1,5 +1,4 @@
-Imbricaria coerulescens (Huds.) DC. SPECIES
-=======
+# Imbricaria coerulescens (Huds.) DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eomarginulinella Sosnina, 1969 GENUS
-=======
+# Eomarginulinella Sosnina, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cryptococcus terricolus T.A. Pedersen SPECIES
-=======
+# Cryptococcus terricola T.A. Pedersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. État 31: 101 (1958)
 
 #### Original name
-Cryptococcus terricolus T.A. Pedersen
+Cryptococcus terricola T.A. Pedersen
 
 ### Remarks
 null

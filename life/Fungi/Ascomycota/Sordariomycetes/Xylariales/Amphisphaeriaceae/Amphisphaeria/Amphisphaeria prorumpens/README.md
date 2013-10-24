@@ -1,5 +1,4 @@
-Amphisphaeria prorumpens (Bonord.) Sacc. SPECIES
-=======
+# Amphisphaeria prorumpens (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

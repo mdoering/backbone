@@ -1,5 +1,4 @@
-Solosympodiella phyllostachydis Matsush. SPECIES
-=======
+# Solosympodiella phyllostachydis Matsush. SPECIES
 
 #### Status
 ACCEPTED

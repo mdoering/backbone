@@ -1,5 +1,4 @@
-Lepiota australiana (Fr.) Sacc. SPECIES
-=======
+# Lepiota australiana (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

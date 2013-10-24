@@ -1,17 +1,16 @@
-Pseudolizonia Pirotta GENUS
-=======
+# Lizonia (Ces. & De Not.) De Not. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. 21: 315 (1889)
+Sfer. Ital. 72 (1864)
 
 #### Original name
-Pseudolizonia Pirotta
+null
 
 ### Remarks
 null

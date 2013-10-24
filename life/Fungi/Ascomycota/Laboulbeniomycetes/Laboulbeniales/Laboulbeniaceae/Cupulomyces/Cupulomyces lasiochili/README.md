@@ -1,14 +1,13 @@
-Acompsomyces lasiochili (Thaxt.) I.I. Tav., 1985 SPECIES
-=======
+# Cupulomyces lasiochili (Thaxt.) R.K. Benj., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 9: 131 (1985)
+Aliso 13(2): 357 (1992)
 
 #### Original name
 Stigmatomyces lasiochili Thaxt., 1917

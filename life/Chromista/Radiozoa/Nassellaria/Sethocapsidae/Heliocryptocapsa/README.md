@@ -1,5 +1,4 @@
-Heliocryptocapsa Dumitrica, 1970 GENUS
-=======
+# Heliocryptocapsa Dumitrica, 1970 GENUS
 
 #### Status
 ACCEPTED

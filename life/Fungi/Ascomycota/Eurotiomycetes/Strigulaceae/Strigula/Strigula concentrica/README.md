@@ -1,5 +1,4 @@
-Strigula concentrica Müll. Arg. SPECIES
-=======
+# Strigula concentrica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

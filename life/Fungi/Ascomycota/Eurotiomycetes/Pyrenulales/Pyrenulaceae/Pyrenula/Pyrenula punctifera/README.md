@@ -1,5 +1,4 @@
-Pyrenula punctifera Vain. SPECIES
-=======
+# Pyrenula punctifera Vain. SPECIES
 
 #### Status
 ACCEPTED

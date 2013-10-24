@@ -1,5 +1,4 @@
-Navicella granulosa (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Navicella granulosa (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
 ACCEPTED

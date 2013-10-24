@@ -1,17 +1,16 @@
-Sporotrichum vellereum var. vellereum VARIETY
-=======
+# Myceliophthora vellerea (Sacc. & Speg.) Oorschot, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 287 (1881)
+Stud. Mycol. 20: 47 (1980)
 
 #### Original name
-Sporotrichum vellereum var. vellereum
+Sporotrichum vellereum Sacc. & Speg., 1881
 
 ### Remarks
 null

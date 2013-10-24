@@ -1,5 +1,4 @@
-Clasterosporium lindavianum Reichert SPECIES
-=======
+# Clasterosporium lindavianum Reichert SPECIES
 
 #### Status
 ACCEPTED

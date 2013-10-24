@@ -1,5 +1,4 @@
-Scampanella S.Forchheimer & H.Stradner, 1973 GENUS
-=======
+# Scampanella S.Forchheimer & H.Stradner, 1973 GENUS
 
 #### Status
 ACCEPTED

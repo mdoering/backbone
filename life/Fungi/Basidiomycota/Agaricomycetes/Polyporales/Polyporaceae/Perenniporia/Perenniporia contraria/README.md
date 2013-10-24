@@ -1,5 +1,4 @@
-Perenniporia contraria (Berk. & M.A. Curtis) Ryvarden SPECIES
-=======
+# Perenniporia contraria (Berk. & M.A. Curtis) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

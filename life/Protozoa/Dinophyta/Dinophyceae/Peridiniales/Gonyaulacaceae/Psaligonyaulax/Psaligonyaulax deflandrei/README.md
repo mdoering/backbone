@@ -1,5 +1,4 @@
-Psaligonyaulax deflandrei Sarjeant, 1966 SPECIES
-=======
+# Psaligonyaulax deflandrei Sarjeant, 1966 SPECIES
 
 #### Status
 ACCEPTED

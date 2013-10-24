@@ -1,5 +1,4 @@
-Irenopsis anastomosans (G. Winter) Toro SPECIES
-=======
+# Irenopsis anastomosans (G. Winter) Toro SPECIES
 
 #### Status
 ACCEPTED

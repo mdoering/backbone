@@ -1,5 +1,4 @@
-Pirottaea erubescens Rehm SPECIES
-=======
+# Pirottaea erubescens Rehm SPECIES
 
 #### Status
 ACCEPTED

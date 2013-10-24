@@ -1,5 +1,4 @@
-Scyphosphaera gladstonensis Rade, 1975 SPECIES
-=======
+# Scyphosphaera gladstonensis Rade, 1975 SPECIES
 
 #### Status
 ACCEPTED

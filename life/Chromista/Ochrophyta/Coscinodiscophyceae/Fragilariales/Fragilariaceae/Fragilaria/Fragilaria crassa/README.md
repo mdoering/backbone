@@ -1,5 +1,4 @@
-Fragilaria crassa D. Metzeltin & H. Lange-Bertalot SPECIES
-=======
+# Fragilaria crassa D. Metzeltin & H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

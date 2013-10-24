@@ -1,5 +1,4 @@
-Nectria ignea Höhn. SPECIES
-=======
+# Nectria ignea Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium isidiatum (G. Thor & Vezda) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium isidiatum (G. Thor & Vezda) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

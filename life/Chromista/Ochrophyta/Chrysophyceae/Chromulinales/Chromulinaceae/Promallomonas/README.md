@@ -1,5 +1,4 @@
-Promallomonas Steinecke, 1922 GENUS
-=======
+# Promallomonas Steinecke, 1922 GENUS
 
 #### Status
 SYNONYM

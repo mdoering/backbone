@@ -1,5 +1,4 @@
-Micromphale occidentale Singer SPECIES
-=======
+# Micromphale occidentale Singer SPECIES
 
 #### Status
 ACCEPTED

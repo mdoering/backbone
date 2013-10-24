@@ -1,5 +1,4 @@
-Byssomerulius pavonius (Sw.) Zmitr. & Malysheva SPECIES
-=======
+# Byssomerulius pavonius (Sw.) Zmitr. & Malysheva SPECIES
 
 #### Status
 ACCEPTED

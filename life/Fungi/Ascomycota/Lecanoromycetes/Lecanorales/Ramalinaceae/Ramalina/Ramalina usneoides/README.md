@@ -1,5 +1,4 @@
-Ramalina usneoides (Ach.) Mont. SPECIES
-=======
+# Ramalina usneoides (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED

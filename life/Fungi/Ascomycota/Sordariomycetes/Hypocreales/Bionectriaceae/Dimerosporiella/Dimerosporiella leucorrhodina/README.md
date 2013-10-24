@@ -1,5 +1,4 @@
-Dimerosporiella leucorrhodina (Mont.) Rossman & Samuels SPECIES
-=======
+# Dimerosporiella leucorrhodina (Mont.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

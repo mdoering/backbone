@@ -1,5 +1,4 @@
-Euceratomycetaceae I.I. Tav. FAMILY
-=======
+# Euceratomycetaceae I.I. Tav. FAMILY
 
 #### Status
 ACCEPTED

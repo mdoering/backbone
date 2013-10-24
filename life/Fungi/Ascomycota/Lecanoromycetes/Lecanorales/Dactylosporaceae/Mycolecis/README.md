@@ -1,5 +1,4 @@
-Mycolecis GENUS
-=======
+# Mycolecis GENUS
 
 #### Status
 ACCEPTED

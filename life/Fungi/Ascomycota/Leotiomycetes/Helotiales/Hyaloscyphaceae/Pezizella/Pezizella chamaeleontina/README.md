@@ -1,5 +1,4 @@
-Pezizella chamaeleontina Svrcek SPECIES
-=======
+# Pezizella chamaeleontina Svrcek SPECIES
 
 #### Status
 ACCEPTED

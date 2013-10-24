@@ -1,5 +1,4 @@
-Agaricus nubilus Fr. SPECIES
-=======
+# Agaricus nubilus Fr. SPECIES
 
 #### Status
 ACCEPTED

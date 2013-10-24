@@ -1,5 +1,4 @@
-Diatoma hiemale var. mesodon (Ehrenberg) Grunov VARIETY
-=======
+# Diatoma hiemale (Lyngbye) Heiberg SPECIES
 
 #### Status
 ACCEPTED

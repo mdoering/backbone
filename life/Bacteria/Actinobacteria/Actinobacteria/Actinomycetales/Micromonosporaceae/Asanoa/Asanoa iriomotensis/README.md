@@ -1,5 +1,4 @@
-Asanoa iriomotensis Tamura & Sakane, 2005 SPECIES
-=======
+# Asanoa iriomotensis Tamura & Sakane, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta kennedyae G. Winter SPECIES
-=======
+# Phyllosticta kennedyae G. Winter SPECIES
 
 #### Status
 ACCEPTED

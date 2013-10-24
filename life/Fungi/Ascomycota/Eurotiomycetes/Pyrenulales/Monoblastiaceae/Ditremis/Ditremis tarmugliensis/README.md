@@ -1,5 +1,4 @@
-Ditremis tarmugliensis Makhija & Patw. SPECIES
-=======
+# Ditremis tarmugliensis Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeolum sparsum Massee SPECIES
-=======
+# Clypeolum sparsum Massee SPECIES
 
 #### Status
 ACCEPTED

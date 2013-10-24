@@ -1,5 +1,4 @@
-Inocybe mirabilis Velen. SPECIES
-=======
+# Inocybe mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia senecionis-ochrocarpi Bacc. SPECIES
-=======
+# Puccinia senecionis-ochrocarpi Bacc. SPECIES
 
 #### Status
 ACCEPTED

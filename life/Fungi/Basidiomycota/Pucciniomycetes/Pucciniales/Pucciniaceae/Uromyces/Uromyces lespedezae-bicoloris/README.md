@@ -1,5 +1,4 @@
-Uromyces lespedezae-bicoloris F.L. Tai & C.C. Cheo SPECIES
-=======
+# Uromyces lespedezae-bicoloris F.L. Tai & C.C. Cheo SPECIES
 
 #### Status
 ACCEPTED

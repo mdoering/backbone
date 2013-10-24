@@ -1,5 +1,4 @@
-Phalansterium Cienkowski, 1870 GENUS
-=======
+# Phalansterium Cienkowski, 1870 GENUS
 
 #### Status
 ACCEPTED

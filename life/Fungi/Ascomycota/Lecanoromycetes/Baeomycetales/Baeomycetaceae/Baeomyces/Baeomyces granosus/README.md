@@ -1,5 +1,4 @@
-Baeomyces granosus Stirt. SPECIES
-=======
+# Baeomyces granosus Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella argentina Speg. SPECIES
-=======
+# Psathyrella argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

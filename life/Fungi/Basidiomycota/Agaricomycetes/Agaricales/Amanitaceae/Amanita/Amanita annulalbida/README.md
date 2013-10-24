@@ -1,5 +1,4 @@
-Amanita annulalbida A.E. Wood SPECIES
-=======
+# Amanita annulalbida A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

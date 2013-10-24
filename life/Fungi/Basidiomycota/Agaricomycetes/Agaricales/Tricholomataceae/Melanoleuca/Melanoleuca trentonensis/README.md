@@ -1,5 +1,4 @@
-Melanoleuca trentonensis (Peck) Murrill SPECIES
-=======
+# Melanoleuca trentonensis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

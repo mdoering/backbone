@@ -1,5 +1,4 @@
-Boletogaster GENUS
-=======
+# Boletogaster GENUS
 
 #### Status
 ACCEPTED

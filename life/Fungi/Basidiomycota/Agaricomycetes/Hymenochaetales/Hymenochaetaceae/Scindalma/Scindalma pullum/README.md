@@ -1,5 +1,4 @@
-Scindalma pullum (Mont. & Berk.) Kuntze SPECIES
-=======
+# Scindalma pullum (Mont. & Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

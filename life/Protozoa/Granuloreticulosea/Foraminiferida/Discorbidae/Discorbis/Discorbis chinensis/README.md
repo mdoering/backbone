@@ -1,5 +1,4 @@
-Discorbis chinensis Huang SPECIES
-=======
+# Discorbis chinensis Huang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria cocogena Cooke SPECIES
-=======
+# Sphaeria cocogena Cooke SPECIES
 
 #### Status
 ACCEPTED

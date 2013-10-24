@@ -1,5 +1,4 @@
-Flagellimonas Bae, Kwon, Yang, Lee, Kim & Lee, 2007 GENUS
-=======
+# Flagellimonas Bae, Kwon, Yang, Lee, Kim & Lee, 2007 GENUS
 
 #### Status
 ACCEPTED

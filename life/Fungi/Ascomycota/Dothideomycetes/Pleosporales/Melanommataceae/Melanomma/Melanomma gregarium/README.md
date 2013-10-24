@@ -1,5 +1,4 @@
-Melanomma gregarium Ellis & Everh. SPECIES
-=======
+# Melanomma gregarium Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

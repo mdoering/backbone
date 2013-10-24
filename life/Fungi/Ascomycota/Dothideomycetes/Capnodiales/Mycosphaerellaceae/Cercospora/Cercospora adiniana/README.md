@@ -1,5 +1,4 @@
-Cercospora adiniana R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora adiniana R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

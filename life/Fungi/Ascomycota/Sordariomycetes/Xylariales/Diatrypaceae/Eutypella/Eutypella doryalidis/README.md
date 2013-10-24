@@ -1,5 +1,4 @@
-Eutypella doryalidis (Doidge) Rappaz SPECIES
-=======
+# Eutypella doryalidis (Doidge) Rappaz SPECIES
 
 #### Status
 ACCEPTED

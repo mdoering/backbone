@@ -1,5 +1,4 @@
-Gloeosporium crocatum Sacc. SPECIES
-=======
+# Gloeosporium crocatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

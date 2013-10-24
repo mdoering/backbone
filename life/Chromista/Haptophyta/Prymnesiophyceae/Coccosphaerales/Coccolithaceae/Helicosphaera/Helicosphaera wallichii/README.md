@@ -1,5 +1,4 @@
-Helicosphaera wallichii (Lohman) Okada & McIntyre, 1977 SPECIES
-=======
+# Helicosphaera wallichii (Lohman) Okada & McIntyre, 1977 SPECIES
 
 #### Status
 ACCEPTED

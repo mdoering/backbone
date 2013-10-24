@@ -1,5 +1,4 @@
-Virgariella oblonga Matsush. SPECIES
-=======
+# Virgariella oblonga Matsush. SPECIES
 
 #### Status
 ACCEPTED

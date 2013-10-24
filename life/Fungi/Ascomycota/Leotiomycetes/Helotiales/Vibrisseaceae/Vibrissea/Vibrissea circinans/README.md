@@ -1,5 +1,4 @@
-Vibrissea circinans (Pers.) SPECIES
-=======
+# Vibrissea circinans (Pers.) SPECIES
 
 #### Status
 ACCEPTED

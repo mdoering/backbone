@@ -1,5 +1,4 @@
-Ascophora perennis Pers. SPECIES
-=======
+# Ascophora perennis Pers. SPECIES
 
 #### Status
 ACCEPTED

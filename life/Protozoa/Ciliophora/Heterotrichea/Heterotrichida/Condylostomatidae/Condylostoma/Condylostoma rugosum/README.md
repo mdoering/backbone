@@ -1,5 +1,4 @@
-Condylostoma rugosum Kahl, 1932 SPECIES
-=======
+# Condylostoma rugosum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

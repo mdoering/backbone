@@ -1,5 +1,4 @@
-Rhodobium orientis Hiraishi et al., 1995 SPECIES
-=======
+# Rhodobium orientis Hiraishi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

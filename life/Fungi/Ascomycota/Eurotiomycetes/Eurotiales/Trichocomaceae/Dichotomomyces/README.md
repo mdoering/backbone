@@ -1,5 +1,4 @@
-Dichotomomyces Saito ex D.B. Scott, 1970 GENUS
-=======
+# Dichotomomyces Saito ex D.B. Scott, 1970 GENUS
 
 #### Status
 ACCEPTED

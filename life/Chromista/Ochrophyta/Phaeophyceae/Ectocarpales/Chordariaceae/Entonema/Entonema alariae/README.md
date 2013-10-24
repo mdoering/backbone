@@ -1,5 +1,4 @@
-Entonema alariae Jaasund SPECIES
-=======
+# Entonema alariae Jaasund SPECIES
 
 #### Status
 ACCEPTED

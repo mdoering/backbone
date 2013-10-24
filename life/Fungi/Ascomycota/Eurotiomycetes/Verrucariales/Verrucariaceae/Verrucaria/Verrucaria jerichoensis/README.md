@@ -1,5 +1,4 @@
-Verrucaria jerichoensis Servít SPECIES
-=======
+# Verrucaria jerichoensis Servít SPECIES
 
 #### Status
 ACCEPTED

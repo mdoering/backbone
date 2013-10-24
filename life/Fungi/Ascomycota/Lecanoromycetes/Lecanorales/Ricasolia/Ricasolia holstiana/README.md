@@ -1,5 +1,4 @@
-Ricasolia holstiana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Ricasolia holstiana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

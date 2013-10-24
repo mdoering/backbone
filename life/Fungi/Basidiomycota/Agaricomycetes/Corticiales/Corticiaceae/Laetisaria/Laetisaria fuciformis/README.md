@@ -1,17 +1,16 @@
-Isaria fuciformis Berk., 1872 SPECIES
-=======
+# Laetisaria fuciformis (McAlpine) Burds., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 13: 175 (1872)
+Trans. Br. mycol. Soc. 72: 420 (1979)
 
 #### Original name
-Isaria fuciformis Berk., 1872
+Hypochnus fuciformis McAlpine, 1907
 
 ### Remarks
 null

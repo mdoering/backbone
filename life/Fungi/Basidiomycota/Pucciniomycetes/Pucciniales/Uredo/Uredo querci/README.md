@@ -1,5 +1,4 @@
-Uredo querci Sawada SPECIES
-=======
+# Uredo querci Sawada SPECIES
 
 #### Status
 ACCEPTED

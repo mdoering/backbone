@@ -1,5 +1,4 @@
-Lepiota elaeidis Beeli SPECIES
-=======
+# Lepiota elaeidis Beeli SPECIES
 
 #### Status
 ACCEPTED

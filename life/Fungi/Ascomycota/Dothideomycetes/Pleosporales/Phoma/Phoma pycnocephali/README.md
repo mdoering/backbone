@@ -1,5 +1,4 @@
-Phoma pycnocephali Pass. SPECIES
-=======
+# Phoma pycnocephali Pass. SPECIES
 
 #### Status
 ACCEPTED

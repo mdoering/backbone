@@ -1,5 +1,4 @@
-Lentaria Corner GENUS
-=======
+# Lentaria Corner GENUS
 
 #### Status
 ACCEPTED

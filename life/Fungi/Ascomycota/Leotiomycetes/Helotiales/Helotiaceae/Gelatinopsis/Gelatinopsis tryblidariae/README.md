@@ -1,5 +1,4 @@
-Gelatinopsis tryblidariae (A. Carter & Malloch) Hosoya & Y. Otani SPECIES
-=======
+# Gelatinopsis tryblidariae (A. Carter & Malloch) Hosoya & Y. Otani SPECIES
 
 #### Status
 ACCEPTED

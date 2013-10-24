@@ -1,17 +1,16 @@
-Agaricus mucidus var. mucidus Schrad., 1794 VARIETY
-=======
+# Oudemansiella mucida (Schrad.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fragm. Mykol. (1910)
 
 #### Original name
-null
+Agaricus mucidus (Pers.) E.H.L. Krause, 1932
 
 ### Remarks
 null

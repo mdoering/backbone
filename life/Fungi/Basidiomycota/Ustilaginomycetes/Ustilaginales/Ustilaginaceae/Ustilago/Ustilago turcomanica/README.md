@@ -1,5 +1,4 @@
-Ustilago turcomanica Tranzschel SPECIES
-=======
+# Ustilago turcomanica Tranzschel SPECIES
 
 #### Status
 ACCEPTED

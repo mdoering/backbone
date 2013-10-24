@@ -1,5 +1,4 @@
-Rhabdospora dianae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora dianae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

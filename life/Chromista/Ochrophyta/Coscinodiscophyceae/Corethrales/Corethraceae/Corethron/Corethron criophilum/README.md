@@ -1,11 +1,10 @@
-Corethron valdivae Karsten, 1904 SPECIES
-=======
+# Corethron criophilum Castracane SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

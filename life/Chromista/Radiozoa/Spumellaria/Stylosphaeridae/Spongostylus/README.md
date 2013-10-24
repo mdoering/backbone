@@ -1,5 +1,4 @@
-Spongostylus Haeckel, 1881 GENUS
-=======
+# Spongostylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

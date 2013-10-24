@@ -1,5 +1,4 @@
-Cladonia ceratophyllina (Nyl.) Vain. SPECIES
-=======
+# Cladonia ceratophyllina (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

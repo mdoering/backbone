@@ -1,14 +1,13 @@
-Valsa polyspora Nitschke, 1870 SPECIES
-=======
+# Valsella polyspora (Nitschke) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 2: 238 (1870)
+Syll. fung. (Abellini) 1: 160 (1882)
 
 #### Original name
 Valsa polyspora Nitschke, 1870

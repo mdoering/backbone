@@ -1,5 +1,4 @@
-Gnomonia fimicola M. Moreau, 1948 SPECIES
-=======
+# Gnomonia fimicola M. Moreau, 1948 SPECIES
 
 #### Status
 ACCEPTED

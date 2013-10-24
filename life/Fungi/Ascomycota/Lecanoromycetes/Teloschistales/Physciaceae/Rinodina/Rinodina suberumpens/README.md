@@ -1,5 +1,4 @@
-Rinodina suberumpens SPECIES
-=======
+# Rinodina suberumpens SPECIES
 
 #### Status
 ACCEPTED

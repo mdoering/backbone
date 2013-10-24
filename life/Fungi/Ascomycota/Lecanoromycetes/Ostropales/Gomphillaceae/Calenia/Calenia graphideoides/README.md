@@ -1,5 +1,4 @@
-Calenia graphideoides Vain. SPECIES
-=======
+# Calenia graphideoides Vain. SPECIES
 
 #### Status
 ACCEPTED

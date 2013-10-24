@@ -1,5 +1,4 @@
-Omphalia carneorufula (Berk.) Sacc. SPECIES
-=======
+# Omphalia carneorufula (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

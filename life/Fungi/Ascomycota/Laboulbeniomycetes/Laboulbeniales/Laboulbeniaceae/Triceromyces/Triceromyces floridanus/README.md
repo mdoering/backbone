@@ -1,5 +1,4 @@
-Triceromyces floridanus R.K. Benj. SPECIES
-=======
+# Triceromyces floridanus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia vasakii Vezda SPECIES
-=======
+# Bacidia vasakii Vezda SPECIES
 
 #### Status
 ACCEPTED

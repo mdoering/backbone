@@ -1,5 +1,4 @@
-Phyllosticta bromivora R. Sprague SPECIES
-=======
+# Phyllosticta bromivora R. Sprague SPECIES
 
 #### Status
 ACCEPTED

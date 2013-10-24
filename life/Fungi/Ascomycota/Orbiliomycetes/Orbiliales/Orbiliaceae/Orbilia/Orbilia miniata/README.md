@@ -1,5 +1,4 @@
-Orbilia miniata (Batsch) Sacc. SPECIES
-=======
+# Orbilia miniata (Batsch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

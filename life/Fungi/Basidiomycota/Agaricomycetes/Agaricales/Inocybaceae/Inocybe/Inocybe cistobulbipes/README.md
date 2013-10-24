@@ -1,5 +1,4 @@
-Inocybe cistobulbipes Esteve-Rav. & Vila SPECIES
-=======
+# Inocybe cistobulbipes Esteve-Rav. & Vila SPECIES
 
 #### Status
 ACCEPTED

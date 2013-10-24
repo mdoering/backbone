@@ -1,17 +1,16 @@
-Parmelia sigillata Brusse SPECIES
-=======
+# Xanthoparmelia sigillata (Brusse) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 74: 192 (1990)
 
 #### Original name
-null
+Parmelia sigillata Brusse
 
 ### Remarks
 null

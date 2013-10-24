@@ -1,14 +1,13 @@
-Littispora ratnagiriensis (S.D. Patil & Borse) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
-=======
+# Saagaromyces ratnagiriensis (S.D. Patil & Borse) K.L. Pang & E.B.G. Jones, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 95(3): 549 (2003)
+in Pang, Vrijmoed, Kong & Jones, Mycol. Progr. 2(1): 35 (2003)
 
 #### Original name
 Halosarpheia ratnagiriensis S.D. Patil & Borse, 1982

@@ -1,5 +1,4 @@
-Psathyrella delicatella A.H. Sm. SPECIES
-=======
+# Psathyrella delicatella A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea crepera Nyl. SPECIES
-=======
+# Lecidea crepera Nyl. SPECIES
 
 #### Status
 ACCEPTED

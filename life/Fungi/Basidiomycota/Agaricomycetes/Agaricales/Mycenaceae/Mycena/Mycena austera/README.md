@@ -1,5 +1,4 @@
-Mycena austera Aronsen SPECIES
-=======
+# Mycena austera Aronsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium isariiforme Stolk & J.A. Mey., 1957 SPECIES
-=======
+# Penicillium isariiforme Stolk & J.A. Mey., 1957 SPECIES
 
 #### Status
 DOUBTFUL

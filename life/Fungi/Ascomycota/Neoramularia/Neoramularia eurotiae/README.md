@@ -1,5 +1,4 @@
-Neoramularia eurotiae (Gamalizk.) U. Braun, 1991 SPECIES
-=======
+# Neoramularia eurotiae (Gamalizk.) U. Braun, 1991 SPECIES
 
 #### Status
 ACCEPTED

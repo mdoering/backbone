@@ -1,5 +1,4 @@
-Gyrodinium granlandicum Braarud SPECIES
-=======
+# Gyrodinium granlandicum Braarud SPECIES
 
 #### Status
 ACCEPTED

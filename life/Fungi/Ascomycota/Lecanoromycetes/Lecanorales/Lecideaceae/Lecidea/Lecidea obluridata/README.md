@@ -1,5 +1,4 @@
-Lecidea obluridata Nyl. SPECIES
-=======
+# Lecidea obluridata Nyl. SPECIES
 
 #### Status
 ACCEPTED

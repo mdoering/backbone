@@ -1,5 +1,4 @@
-Lithopteridae Haeckel, 1887 FAMILY
-=======
+# Lithopteridae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jackelixia dissectula (S. Y. Kondr. & Kärnefelt) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt & A. Thell SPECIES
-=======
+# Jackelixia dissectula (S. Y. Kondr. & Kärnefelt) S. Y. Kondr., Fedorenko, S. Stenroos, Kärnefelt & A. Thell SPECIES
 
 #### Status
 ACCEPTED

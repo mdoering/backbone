@@ -1,5 +1,4 @@
-Strigula bevis Bricaud & Cl. Roux SPECIES
-=======
+# Strigula bevis Bricaud & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

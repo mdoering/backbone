@@ -1,5 +1,4 @@
-Gemmicephalus Baudoin, 1967 GENUS
-=======
+# Gemmicephalus Baudoin, 1967 GENUS
 
 #### Status
 ACCEPTED

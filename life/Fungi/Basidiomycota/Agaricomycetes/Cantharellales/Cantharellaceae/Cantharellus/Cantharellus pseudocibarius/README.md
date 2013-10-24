@@ -1,5 +1,4 @@
-Cantharellus pseudocibarius Henn. SPECIES
-=======
+# Cantharellus pseudocibarius Henn. SPECIES
 
 #### Status
 ACCEPTED

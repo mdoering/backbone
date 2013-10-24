@@ -1,5 +1,4 @@
-Phyllopsora coroniformis (Kremp.) Zahlbr. SPECIES
-=======
+# Phyllopsora coroniformis (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

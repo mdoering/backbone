@@ -1,5 +1,4 @@
-Stemphylium descurainiae X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium descurainiae X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

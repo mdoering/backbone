@@ -1,17 +1,16 @@
-Ptychographomyces Cif. & Tomas. GENUS
-=======
+# Ptychographa Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 52, 78 (1953)
+Flora, Jena 57: 315 (1874)
 
 #### Original name
-Ptychographomyces Cif. & Tomas.
+Ptychographa Nyl.
 
 ### Remarks
 null

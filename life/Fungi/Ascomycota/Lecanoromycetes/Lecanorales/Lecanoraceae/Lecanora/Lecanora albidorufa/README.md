@@ -1,5 +1,4 @@
-Lecanora albidorufa Nyl. SPECIES
-=======
+# Lecanora albidorufa Nyl. SPECIES
 
 #### Status
 ACCEPTED

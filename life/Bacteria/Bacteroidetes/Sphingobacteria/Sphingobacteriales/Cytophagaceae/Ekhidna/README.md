@@ -1,5 +1,4 @@
-Ekhidna Alain, Tindall, Intertaglia, Catala & Lebaron, 2010 GENUS
-=======
+# Ekhidna Alain, Tindall, Intertaglia, Catala & Lebaron, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria rimulosa (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria rimulosa (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

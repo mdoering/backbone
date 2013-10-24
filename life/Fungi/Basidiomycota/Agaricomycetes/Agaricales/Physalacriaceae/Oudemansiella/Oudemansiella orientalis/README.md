@@ -1,5 +1,4 @@
-Oudemansiella orientalis Zhu L. Yang SPECIES
-=======
+# Oudemansiella orientalis Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

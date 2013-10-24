@@ -1,5 +1,4 @@
-Sclerotium paspali Henn. SPECIES
-=======
+# Sclerotium paspali Henn. SPECIES
 
 #### Status
 ACCEPTED

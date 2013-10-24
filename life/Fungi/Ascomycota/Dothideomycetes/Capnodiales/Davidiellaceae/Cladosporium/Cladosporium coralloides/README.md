@@ -1,5 +1,4 @@
-Cladosporium coralloides W. Yamam. ex Dugan, K. Schub. & U. Braun, 2004 SPECIES
-=======
+# Cladosporium coralloides W. Yamam. ex Dugan, K. Schub. & U. Braun, 2004 SPECIES
 
 #### Status
 ACCEPTED

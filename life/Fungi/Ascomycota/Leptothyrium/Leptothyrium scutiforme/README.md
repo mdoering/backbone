@@ -1,5 +1,4 @@
-Leptothyrium scutiforme (Fr.) Sacc. SPECIES
-=======
+# Leptothyrium scutiforme (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

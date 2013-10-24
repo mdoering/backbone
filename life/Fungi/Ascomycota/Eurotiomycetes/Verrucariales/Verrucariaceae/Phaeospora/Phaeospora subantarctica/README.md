@@ -1,5 +1,4 @@
-Phaeospora subantarctica Øvstedal & D. Hawksw. SPECIES
-=======
+# Phaeospora subantarctica Øvstedal & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

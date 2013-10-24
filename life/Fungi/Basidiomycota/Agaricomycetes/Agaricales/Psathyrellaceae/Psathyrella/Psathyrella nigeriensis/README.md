@@ -1,5 +1,4 @@
-Psathyrella nigeriensis Pegler & T.W.K. Young SPECIES
-=======
+# Psathyrella nigeriensis Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

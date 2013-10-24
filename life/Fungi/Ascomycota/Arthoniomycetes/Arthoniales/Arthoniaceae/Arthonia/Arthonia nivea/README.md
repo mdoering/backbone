@@ -1,5 +1,4 @@
-Arthonia nivea Willey SPECIES
-=======
+# Arthonia nivea Willey SPECIES
 
 #### Status
 ACCEPTED

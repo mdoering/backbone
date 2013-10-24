@@ -1,5 +1,4 @@
-Cortinarius lilacinocolossus M.M. Moser SPECIES
-=======
+# Cortinarius lilacinocolossus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

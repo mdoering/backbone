@@ -1,5 +1,4 @@
-Planulina edwardsiana SPECIES
-=======
+# Planulina edwardsiana SPECIES
 
 #### Status
 ACCEPTED

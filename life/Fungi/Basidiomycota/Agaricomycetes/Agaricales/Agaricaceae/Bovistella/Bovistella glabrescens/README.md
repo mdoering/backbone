@@ -1,5 +1,4 @@
-Bovistella glabrescens Lloyd SPECIES
-=======
+# Bovistella glabrescens Lloyd SPECIES
 
 #### Status
 ACCEPTED

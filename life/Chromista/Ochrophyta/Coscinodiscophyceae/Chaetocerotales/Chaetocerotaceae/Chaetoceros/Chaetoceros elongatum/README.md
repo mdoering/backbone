@@ -1,5 +1,4 @@
-Chaetoceros elongatum Honigmann SPECIES
-=======
+# Chaetoceros elongatum Honigmann SPECIES
 
 #### Status
 ACCEPTED

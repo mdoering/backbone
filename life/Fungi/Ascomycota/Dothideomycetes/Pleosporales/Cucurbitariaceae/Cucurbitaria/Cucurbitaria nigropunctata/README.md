@@ -1,5 +1,4 @@
-Cucurbitaria nigropunctata (Speg.) Kuntze SPECIES
-=======
+# Cucurbitaria nigropunctata (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

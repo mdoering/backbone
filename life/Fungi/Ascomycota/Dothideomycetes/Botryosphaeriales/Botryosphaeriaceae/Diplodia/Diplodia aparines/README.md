@@ -1,5 +1,4 @@
-Diplodia aparines Pass. SPECIES
-=======
+# Diplodia aparines Pass. SPECIES
 
 #### Status
 ACCEPTED

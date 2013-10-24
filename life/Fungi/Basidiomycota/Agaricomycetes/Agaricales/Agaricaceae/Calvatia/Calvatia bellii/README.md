@@ -1,5 +1,4 @@
-Calvatia bellii (Peck) M. Lange SPECIES
-=======
+# Calvatia bellii (Peck) M. Lange SPECIES
 
 #### Status
 ACCEPTED

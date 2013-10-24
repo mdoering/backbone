@@ -1,5 +1,4 @@
-Toxosporium effusum (Peck) B. Sutton SPECIES
-=======
+# Toxosporium effusum (Peck) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

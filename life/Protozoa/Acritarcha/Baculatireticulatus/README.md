@@ -1,5 +1,4 @@
-Baculatireticulatus Al-Ameri, 1984 GENUS
-=======
+# Baculatireticulatus Al-Ameri, 1984 GENUS
 
 #### Status
 ACCEPTED

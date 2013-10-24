@@ -1,5 +1,4 @@
-Pratella GENUS
-=======
+# Pratella GENUS
 
 #### Status
 ACCEPTED

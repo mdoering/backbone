@@ -1,5 +1,4 @@
-Arthothelium fusisporum (Th. Fr.) Zahlbr. SPECIES
-=======
+# Arthothelium fusisporum (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

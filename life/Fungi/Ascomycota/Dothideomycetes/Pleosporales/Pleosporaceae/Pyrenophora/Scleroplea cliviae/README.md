@@ -1,5 +1,4 @@
-Scleroplea cliviae Oudem., 1900 SPECIES
-=======
+# Scleroplea cliviae Oudem., 1900 SPECIES
 
 #### Status
 ACCEPTED

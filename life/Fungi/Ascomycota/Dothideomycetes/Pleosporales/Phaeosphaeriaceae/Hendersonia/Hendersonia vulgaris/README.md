@@ -1,5 +1,4 @@
-Hendersonia vulgaris Desm. SPECIES
-=======
+# Hendersonia vulgaris Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiosoma curvinucleata SPECIES
-=======
+# Apiosoma curvinucleata SPECIES
 
 #### Status
 ACCEPTED

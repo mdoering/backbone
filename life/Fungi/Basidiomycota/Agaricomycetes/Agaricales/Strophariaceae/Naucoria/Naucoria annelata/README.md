@@ -1,5 +1,4 @@
-Naucoria annelata Velen. SPECIES
-=======
+# Naucoria annelata Velen. SPECIES
 
 #### Status
 ACCEPTED

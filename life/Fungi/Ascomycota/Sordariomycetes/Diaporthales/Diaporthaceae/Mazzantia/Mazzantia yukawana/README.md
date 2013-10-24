@@ -1,5 +1,4 @@
-Mazzantia yukawana (I. Hino & Katum.) Kobayasi SPECIES
-=======
+# Mazzantia yukawana (I. Hino & Katum.) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

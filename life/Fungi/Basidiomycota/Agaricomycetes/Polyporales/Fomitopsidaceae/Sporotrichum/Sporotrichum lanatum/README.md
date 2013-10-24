@@ -1,5 +1,4 @@
-Sporotrichum lanatum Wallr., 1833 SPECIES
-=======
+# Sporotrichum lanatum Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED

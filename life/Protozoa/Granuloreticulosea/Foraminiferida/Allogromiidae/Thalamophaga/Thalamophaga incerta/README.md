@@ -1,5 +1,4 @@
-Thalamophaga incerta (Rhumbler, 1911) SPECIES
-=======
+# Thalamophaga incerta (Rhumbler, 1911) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fibrocapsa japonica S. Toriumi & H. Takano SPECIES
-=======
+# Fibrocapsa japonica S. Toriumi & H. Takano SPECIES
 
 #### Status
 ACCEPTED

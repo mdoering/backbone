@@ -1,5 +1,4 @@
-Tretopileus B.O. Dodge GENUS
-=======
+# Tretopileus B.O. Dodge GENUS
 
 #### Status
 ACCEPTED

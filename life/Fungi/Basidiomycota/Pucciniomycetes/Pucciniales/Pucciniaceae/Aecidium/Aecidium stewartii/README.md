@@ -1,5 +1,4 @@
-Aecidium stewartii Arthur & Cummins SPECIES
-=======
+# Aecidium stewartii Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

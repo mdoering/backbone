@@ -1,5 +1,4 @@
-Leptosphaeria plemeliana Niessl SPECIES
-=======
+# Leptosphaeria plemeliana Niessl SPECIES
 
 #### Status
 ACCEPTED

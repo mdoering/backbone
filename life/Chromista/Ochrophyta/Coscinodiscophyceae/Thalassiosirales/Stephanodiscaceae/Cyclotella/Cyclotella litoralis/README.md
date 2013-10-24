@@ -1,5 +1,4 @@
-Cyclotella litoralis Lange & Syvertsen, 1989 SPECIES
-=======
+# Cyclotella litoralis Lange & Syvertsen, 1989 SPECIES
 
 #### Status
 ACCEPTED

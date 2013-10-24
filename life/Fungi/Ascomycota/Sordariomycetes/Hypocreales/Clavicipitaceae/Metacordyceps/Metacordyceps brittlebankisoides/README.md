@@ -1,14 +1,13 @@
-Cordyceps brittlebankisoides Zuo Y. Liu, Z.Q. Liang, Whalley, Y.J. Yao & A.Y. Liu, 2001 SPECIES
-=======
+# Metacordyceps brittlebankisoides (Zuo Y. Liu, Z.Q. Liang, Whalley, Y.J. Yao & A.Y. Liu) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Invert. Path. 78(3): 179 (2001)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 35 (2007)
 
 #### Original name
 Cordyceps brittlebankisoides Zuo Y. Liu, Z.Q. Liang, Whalley, Y.J. Yao & A.Y. Liu, 2001

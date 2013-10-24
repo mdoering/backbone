@@ -1,5 +1,4 @@
-Gasparrinia australis (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Gasparrinia australis (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

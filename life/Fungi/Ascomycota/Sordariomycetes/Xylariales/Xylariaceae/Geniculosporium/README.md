@@ -1,5 +1,4 @@
-Geniculosporium Chesters & Greenh. GENUS
-=======
+# Geniculosporium Chesters & Greenh. GENUS
 
 #### Status
 ACCEPTED

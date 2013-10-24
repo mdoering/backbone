@@ -1,5 +1,4 @@
-Topeliopsis novae-zelandiae (Szatala) Lumbsch & Mangold SPECIES
-=======
+# Topeliopsis novae-zelandiae (Szatala) Lumbsch & Mangold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atopococcus Collins, Wiernik, Falsen & Lawson, 2005 GENUS
-=======
+# Atopococcus Collins, Wiernik, Falsen & Lawson, 2005 GENUS
 
 #### Status
 ACCEPTED

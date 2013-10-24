@@ -1,17 +1,16 @@
-Stigmina zilleri A. Funk, 1987 SPECIES
-=======
+# Didymella mycopappi (A. Funk & Dorworth) Crous, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 65(3): 482 (1987)
+Mycol. Mem. 21: 152 (1998)
 
 #### Original name
-Stigmina zilleri A. Funk, 1987
+Mycosphaerella mycopappi A. Funk & Dorworth, 1988
 
 ### Remarks
 null

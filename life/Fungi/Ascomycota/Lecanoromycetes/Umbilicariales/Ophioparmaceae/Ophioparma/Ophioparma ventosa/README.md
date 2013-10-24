@@ -1,5 +1,4 @@
-Ophioparma ventosa var. ventosa VARIETY
-=======
+# Ophioparma ventosa (L.) Norman SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nytt Mag. Natur. 7: 231 (1853)
 
 #### Original name
 Lichen ventosus L.

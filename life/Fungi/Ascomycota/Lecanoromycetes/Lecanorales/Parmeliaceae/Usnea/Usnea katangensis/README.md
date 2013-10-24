@@ -1,5 +1,4 @@
-Usnea katangensis P.A. Duvign. SPECIES
-=======
+# Usnea katangensis P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encoelia cubensis (Berk. & M.A. Curtis) Iturr., Samuels & Korf SPECIES
-=======
+# Encoelia cubensis (Berk. & M.A. Curtis) Iturr., Samuels & Korf SPECIES
 
 #### Status
 ACCEPTED

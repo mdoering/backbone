@@ -1,8 +1,7 @@
-Pseudoglandulina aequalis (Reuss, 1863) SPECIES
-=======
+# Pyramidulina aequalis (Reuss, 1863) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Aecidium hydnoideum Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium hydnoideum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

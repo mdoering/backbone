@@ -1,5 +1,4 @@
-Lecania chilena C.W. Dodge SPECIES
-=======
+# Lecania chilena C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

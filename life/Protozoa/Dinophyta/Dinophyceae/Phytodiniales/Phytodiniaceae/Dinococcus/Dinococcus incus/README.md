@@ -1,8 +1,7 @@
-Raciborskia incus Pascher SPECIES
-=======
+# Dinococcus incus (Pascher) Fott SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

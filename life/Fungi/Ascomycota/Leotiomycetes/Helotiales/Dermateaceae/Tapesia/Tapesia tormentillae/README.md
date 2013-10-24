@@ -1,5 +1,4 @@
-Tapesia tormentillae Velen. SPECIES
-=======
+# Tapesia tormentillae Velen. SPECIES
 
 #### Status
 ACCEPTED

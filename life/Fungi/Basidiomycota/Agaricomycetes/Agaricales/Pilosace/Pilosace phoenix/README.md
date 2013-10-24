@@ -1,5 +1,4 @@
-Pilosace phoenix (Fr.) Sacc. SPECIES
-=======
+# Pilosace phoenix (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

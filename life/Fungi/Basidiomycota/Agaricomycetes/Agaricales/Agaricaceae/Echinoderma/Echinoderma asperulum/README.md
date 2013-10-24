@@ -1,5 +1,4 @@
-Echinoderma asperulum (G.F. Atk.) Bon SPECIES
-=======
+# Echinoderma asperulum (G.F. Atk.) Bon SPECIES
 
 #### Status
 ACCEPTED

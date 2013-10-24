@@ -1,5 +1,4 @@
-Galerula mexicana Murrill SPECIES
-=======
+# Galerula mexicana Murrill SPECIES
 
 #### Status
 ACCEPTED

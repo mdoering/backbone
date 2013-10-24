@@ -1,5 +1,4 @@
-Aecidium achyrophori Plats SPECIES
-=======
+# Aecidium achyrophori Plats SPECIES
 
 #### Status
 ACCEPTED

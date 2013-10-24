@@ -1,5 +1,4 @@
-Pirottaea persica Petr. SPECIES
-=======
+# Pirottaea persica Petr. SPECIES
 
 #### Status
 ACCEPTED

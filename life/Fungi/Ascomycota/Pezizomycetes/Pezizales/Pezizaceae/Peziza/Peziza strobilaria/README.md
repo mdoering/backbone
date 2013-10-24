@@ -1,5 +1,4 @@
-Peziza strobilaria Nyl. SPECIES
-=======
+# Peziza strobilaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

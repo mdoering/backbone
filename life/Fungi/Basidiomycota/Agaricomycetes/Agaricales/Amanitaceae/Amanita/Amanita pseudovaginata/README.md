@@ -1,5 +1,4 @@
-Amanita pseudovaginata Hongo SPECIES
-=======
+# Amanita pseudovaginata Hongo SPECIES
 
 #### Status
 ACCEPTED

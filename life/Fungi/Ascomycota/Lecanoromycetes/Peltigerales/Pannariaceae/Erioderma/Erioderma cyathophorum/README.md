@@ -1,5 +1,4 @@
-Erioderma cyathophorum P.M. Jørg. & Arv. SPECIES
-=======
+# Erioderma cyathophorum P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

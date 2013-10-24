@@ -1,5 +1,4 @@
-Aspergillus hagenii Hallier SPECIES
-=======
+# Aspergillus hagenii Hallier SPECIES
 
 #### Status
 ACCEPTED

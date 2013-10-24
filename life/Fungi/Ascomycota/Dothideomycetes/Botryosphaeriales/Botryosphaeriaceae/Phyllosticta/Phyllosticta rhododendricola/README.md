@@ -1,5 +1,4 @@
-Phyllosticta rhododendricola Brunaud SPECIES
-=======
+# Phyllosticta rhododendricola Brunaud SPECIES
 
 #### Status
 ACCEPTED

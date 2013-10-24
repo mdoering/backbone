@@ -1,5 +1,4 @@
-Asterophora pezizae Corda SPECIES
-=======
+# Asterophora pezizae Corda SPECIES
 
 #### Status
 ACCEPTED

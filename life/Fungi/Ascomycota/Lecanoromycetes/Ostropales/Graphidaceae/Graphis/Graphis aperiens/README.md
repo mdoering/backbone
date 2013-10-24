@@ -1,5 +1,4 @@
-Graphis aperiens Müll. Arg. SPECIES
-=======
+# Graphis aperiens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

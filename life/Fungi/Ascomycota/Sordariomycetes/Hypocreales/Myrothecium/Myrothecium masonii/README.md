@@ -1,5 +1,4 @@
-Myrothecium masonii M.C. Tulloch, 1972 SPECIES
-=======
+# Myrothecium masonii M.C. Tulloch, 1972 SPECIES
 
 #### Status
 ACCEPTED

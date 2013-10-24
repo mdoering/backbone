@@ -1,5 +1,4 @@
-Phyllosticta aceris Sacc., 1878 SPECIES
-=======
+# Phyllosticta aceris Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporium microscopicum Ellis SPECIES
-=======
+# Helicosporium microscopicum Ellis SPECIES
 
 #### Status
 ACCEPTED

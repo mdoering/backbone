@@ -1,5 +1,4 @@
-Amphidinium galbanum Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium galbanum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

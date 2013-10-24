@@ -1,5 +1,4 @@
-Alternaria sidae E.G. Simmons, 2003 SPECIES
-=======
+# Alternaria sidae E.G. Simmons, 2003 SPECIES
 
 #### Status
 ACCEPTED

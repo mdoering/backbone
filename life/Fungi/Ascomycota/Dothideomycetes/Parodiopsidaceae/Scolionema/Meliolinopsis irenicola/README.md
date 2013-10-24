@@ -1,5 +1,4 @@
-Meliolinopsis irenicola (Doidge) Petr. SPECIES
-=======
+# Meliolinopsis irenicola (Doidge) Petr. SPECIES
 
 #### Status
 ACCEPTED

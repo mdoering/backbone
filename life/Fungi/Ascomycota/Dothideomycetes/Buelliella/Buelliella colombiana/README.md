@@ -1,5 +1,4 @@
-Buelliella colombiana Etayo SPECIES
-=======
+# Buelliella colombiana Etayo SPECIES
 
 #### Status
 ACCEPTED

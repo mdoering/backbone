@@ -1,17 +1,16 @@
-Spirechina Arthur GENUS
-=======
+# Kuehneola Magnus, 1898 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Mycol. 13: 30 (1907)
+null
 
 #### Original name
-Spirechina Arthur
+null
 
 ### Remarks
 null

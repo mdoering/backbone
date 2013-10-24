@@ -1,5 +1,4 @@
-Spongiporus lateralis Ryvarden & Gilb. SPECIES
-=======
+# Spongiporus lateralis Ryvarden & Gilb. SPECIES
 
 #### Status
 ACCEPTED

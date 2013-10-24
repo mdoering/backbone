@@ -1,5 +1,4 @@
-Saccharomyces freseniusii J. Schröt. SPECIES
-=======
+# Saccharomyces freseniusii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

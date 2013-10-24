@@ -1,17 +1,16 @@
-Leptosphaeria crucheti E. Müll. SPECIES
-=======
+# Leptosphaeria cruchetii E. Müll. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 4(1-6): 255 (1950)
 
 #### Original name
-Leptosphaeria crucheti E. Müll.
+Metasphaeria cladii Cruchet
 
 ### Remarks
 null

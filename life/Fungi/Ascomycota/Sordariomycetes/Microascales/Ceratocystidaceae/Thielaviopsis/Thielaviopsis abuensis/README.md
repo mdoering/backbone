@@ -1,5 +1,4 @@
-Thielaviopsis abuensis Chouhan & Panwar SPECIES
-=======
+# Thielaviopsis abuensis Chouhan & Panwar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium albidum (Berk.) Kuntze SPECIES
-=======
+# Scenidium albidum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea melampoa Hue SPECIES
-=======
+# Lecidea melampoa Hue SPECIES
 
 #### Status
 ACCEPTED

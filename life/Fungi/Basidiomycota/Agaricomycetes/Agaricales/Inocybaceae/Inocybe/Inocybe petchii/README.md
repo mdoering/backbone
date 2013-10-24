@@ -1,5 +1,4 @@
-Inocybe petchii Boedijn SPECIES
-=======
+# Inocybe petchii Boedijn SPECIES
 
 #### Status
 ACCEPTED

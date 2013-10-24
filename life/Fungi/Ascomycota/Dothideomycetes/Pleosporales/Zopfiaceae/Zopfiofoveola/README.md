@@ -1,5 +1,4 @@
-Zopfiofoveola D. Hawksw. GENUS
-=======
+# Zopfiofoveola D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

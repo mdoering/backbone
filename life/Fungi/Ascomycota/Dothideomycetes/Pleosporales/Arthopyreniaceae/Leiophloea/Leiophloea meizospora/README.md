@@ -1,5 +1,4 @@
-Leiophloea meizospora (Zahlbr.) Riedl SPECIES
-=======
+# Leiophloea meizospora (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

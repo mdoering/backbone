@@ -1,5 +1,4 @@
-Leiosphaeridia muitscha Timofeev, 1962 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia muitscha Timofeev, 1962 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

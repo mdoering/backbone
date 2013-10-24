@@ -1,14 +1,13 @@
-Biverpa (Fr.) Boud. GENUS
-=======
+# Helvella Linnaeus, 1753 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 20 (1907)
+null
 
 #### Original name
 null

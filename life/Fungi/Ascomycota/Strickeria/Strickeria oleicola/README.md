@@ -1,5 +1,4 @@
-Strickeria oleicola (Pass.) Cooke SPECIES
-=======
+# Strickeria oleicola (Pass.) Cooke SPECIES
 
 #### Status
 ACCEPTED

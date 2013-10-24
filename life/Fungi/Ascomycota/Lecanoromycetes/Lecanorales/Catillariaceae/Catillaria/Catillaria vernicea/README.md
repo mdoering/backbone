@@ -1,5 +1,4 @@
-Catillaria vernicea (Körb.) Lettau SPECIES
-=======
+# Catillaria vernicea (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

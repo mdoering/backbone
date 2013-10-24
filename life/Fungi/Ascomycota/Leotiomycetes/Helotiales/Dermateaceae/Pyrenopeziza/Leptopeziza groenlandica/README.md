@@ -1,5 +1,4 @@
-Leptopeziza groenlandica Rostr. SPECIES
-=======
+# Leptopeziza groenlandica Rostr. SPECIES
 
 #### Status
 ACCEPTED

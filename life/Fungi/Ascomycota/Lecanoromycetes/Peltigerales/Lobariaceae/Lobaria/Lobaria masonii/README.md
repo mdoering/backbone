@@ -1,5 +1,4 @@
-Lobaria masonii Yoshim. SPECIES
-=======
+# Lobaria masonii Yoshim. SPECIES
 
 #### Status
 ACCEPTED

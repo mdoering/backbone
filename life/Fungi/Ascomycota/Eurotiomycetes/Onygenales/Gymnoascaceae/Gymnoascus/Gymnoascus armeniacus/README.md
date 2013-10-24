@@ -1,5 +1,4 @@
-Gymnoascus armeniacus M. Solé, Cano & Guarro SPECIES
-=======
+# Gymnoascus armeniacus M. Solé, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

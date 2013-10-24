@@ -1,5 +1,4 @@
-Asterina furcata Pat. SPECIES
-=======
+# Asterina furcata Pat. SPECIES
 
 #### Status
 ACCEPTED

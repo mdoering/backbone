@@ -1,5 +1,4 @@
-Zygosporium pandanicola Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Zygosporium pandanicola Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

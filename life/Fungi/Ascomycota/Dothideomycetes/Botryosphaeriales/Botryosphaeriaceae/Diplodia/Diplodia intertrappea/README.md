@@ -1,5 +1,4 @@
-Diplodia intertrappea Varadp. & Sampath SPECIES
-=======
+# Diplodia intertrappea Varadp. & Sampath SPECIES
 
 #### Status
 ACCEPTED

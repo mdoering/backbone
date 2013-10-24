@@ -1,8 +1,7 @@
-Cercosporina donnell-smithi Speg. SPECIES
-=======
+# Cercosporina donnell-smithii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercosporina donnell-smithi Speg.
+Cercosporina donnell-smithii Speg.
 
 ### Remarks
 null

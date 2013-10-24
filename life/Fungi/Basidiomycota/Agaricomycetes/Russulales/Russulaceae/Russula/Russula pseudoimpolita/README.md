@@ -1,5 +1,4 @@
-Russula pseudoimpolita Sarnari, 1987 SPECIES
-=======
+# Russula pseudoimpolita Sarnari, 1987 SPECIES
 
 #### Status
 ACCEPTED

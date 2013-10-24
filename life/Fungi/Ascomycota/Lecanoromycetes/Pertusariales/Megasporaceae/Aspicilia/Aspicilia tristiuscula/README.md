@@ -1,5 +1,4 @@
-Aspicilia tristiuscula (H. Magn.) SPECIES
-=======
+# Aspicilia tristiuscula (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

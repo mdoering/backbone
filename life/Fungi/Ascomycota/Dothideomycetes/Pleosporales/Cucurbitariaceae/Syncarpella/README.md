@@ -1,5 +1,4 @@
-Syncarpella Theiss. & Syd. GENUS
-=======
+# Syncarpella Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

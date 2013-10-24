@@ -1,5 +1,4 @@
-Lecanora raroia Herre SPECIES
-=======
+# Lecanora raroia Herre SPECIES
 
 #### Status
 ACCEPTED

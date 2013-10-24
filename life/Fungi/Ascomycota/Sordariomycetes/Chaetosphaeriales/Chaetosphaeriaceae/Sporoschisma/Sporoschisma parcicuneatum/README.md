@@ -1,5 +1,4 @@
-Sporoschisma parcicuneatum Goh & K.D. Hyde, 1997 SPECIES
-=======
+# Sporoschisma parcicuneatum Goh & K.D. Hyde, 1997 SPECIES
 
 #### Status
 ACCEPTED

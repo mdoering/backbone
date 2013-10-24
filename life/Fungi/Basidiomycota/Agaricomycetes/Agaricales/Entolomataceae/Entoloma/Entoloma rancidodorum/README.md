@@ -1,5 +1,4 @@
-Entoloma rancidodorum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma rancidodorum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

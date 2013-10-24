@@ -1,5 +1,4 @@
-Parmelia inconspicua Spreng. SPECIES
-=======
+# Parmelia inconspicua Spreng. SPECIES
 
 #### Status
 ACCEPTED

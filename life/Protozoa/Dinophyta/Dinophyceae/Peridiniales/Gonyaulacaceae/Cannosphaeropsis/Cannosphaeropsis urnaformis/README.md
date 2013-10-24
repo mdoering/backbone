@@ -1,5 +1,4 @@
-Cannosphaeropsis urnaformis Cookson, 1953 SPECIES
-=======
+# Cannosphaeropsis urnaformis Cookson, 1953 SPECIES
 
 #### Status
 ACCEPTED

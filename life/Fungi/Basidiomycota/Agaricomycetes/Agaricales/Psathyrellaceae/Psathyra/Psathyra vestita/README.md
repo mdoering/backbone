@@ -1,5 +1,4 @@
-Psathyra vestita Peck SPECIES
-=======
+# Psathyra vestita Peck SPECIES
 
 #### Status
 ACCEPTED

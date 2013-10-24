@@ -1,5 +1,4 @@
-Puccinia proximella Syd. & P. Syd. SPECIES
-=======
+# Puccinia proximella Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

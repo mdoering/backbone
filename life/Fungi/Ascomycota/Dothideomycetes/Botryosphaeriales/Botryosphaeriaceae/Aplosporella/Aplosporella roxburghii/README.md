@@ -1,5 +1,4 @@
-Aplosporella roxburghii Tassi SPECIES
-=======
+# Aplosporella roxburghii Tassi SPECIES
 
 #### Status
 ACCEPTED

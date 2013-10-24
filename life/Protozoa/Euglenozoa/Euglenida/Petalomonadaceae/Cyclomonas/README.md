@@ -1,5 +1,4 @@
-Cyclomonas Fromentel, 1874 GENUS
-=======
+# Cyclomonas Fromentel, 1874 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma inundatorum Schwein. SPECIES
-=======
+# Leptostroma inundatorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

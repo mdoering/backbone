@@ -1,5 +1,4 @@
-Rhizoctonia batatas Schwein. ex Fr. SPECIES
-=======
+# Rhizoctonia batatas Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia lutescens (Kurok.) Follmann SPECIES
-=======
+# Heterodermia lutescens (Kurok.) Follmann SPECIES
 
 #### Status
 ACCEPTED

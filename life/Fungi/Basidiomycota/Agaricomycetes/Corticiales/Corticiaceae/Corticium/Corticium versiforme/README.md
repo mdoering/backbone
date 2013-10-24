@@ -1,5 +1,4 @@
-Corticium versiforme (Fr.) Fr. SPECIES
-=======
+# Corticium versiforme (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

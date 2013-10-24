@@ -1,5 +1,4 @@
-Irene lagunculariae (Earle) Toro SPECIES
-=======
+# Irene lagunculariae (Earle) Toro SPECIES
 
 #### Status
 ACCEPTED

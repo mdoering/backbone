@@ -1,5 +1,4 @@
-Amphitrichum nigrofuscum Tode SPECIES
-=======
+# Amphitrichum nigrofuscum Tode SPECIES
 
 #### Status
 ACCEPTED

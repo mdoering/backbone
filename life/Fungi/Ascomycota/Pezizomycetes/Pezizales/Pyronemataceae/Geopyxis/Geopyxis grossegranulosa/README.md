@@ -1,5 +1,4 @@
-Geopyxis grossegranulosa Velen. SPECIES
-=======
+# Geopyxis grossegranulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

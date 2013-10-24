@@ -1,5 +1,4 @@
-Diatrype radulans Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype radulans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

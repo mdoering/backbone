@@ -1,5 +1,4 @@
-Centrasphaeridium lecythium R. Wicander & G. Playford SPECIES
-=======
+# Centrasphaeridium lecythium R. Wicander & G. Playford SPECIES
 
 #### Status
 ACCEPTED

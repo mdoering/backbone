@@ -1,5 +1,4 @@
-Reticularia phyrrospora Berk. SPECIES
-=======
+# Reticularia phyrrospora Berk. SPECIES
 
 #### Status
 ACCEPTED

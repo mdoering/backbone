@@ -1,5 +1,4 @@
-Tarbertia Dennis GENUS
-=======
+# Tarbertia Dennis GENUS
 
 #### Status
 ACCEPTED

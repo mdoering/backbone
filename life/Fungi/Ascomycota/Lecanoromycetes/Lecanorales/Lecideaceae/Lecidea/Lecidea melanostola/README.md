@@ -1,5 +1,4 @@
-Lecidea melanostola Hue SPECIES
-=======
+# Lecidea melanostola Hue SPECIES
 
 #### Status
 ACCEPTED

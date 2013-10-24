@@ -1,5 +1,4 @@
-Placidium aegyptiacum (Müll. Arg.) Szatala SPECIES
-=======
+# Placidium aegyptiacum (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

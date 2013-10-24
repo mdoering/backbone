@@ -1,5 +1,4 @@
-Pertusaria paratuberculifera Dibben SPECIES
-=======
+# Pertusaria paratuberculifera Dibben SPECIES
 
 #### Status
 ACCEPTED

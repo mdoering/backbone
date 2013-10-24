@@ -1,5 +1,4 @@
-Omphalia salmonicolor Berk. & Broome SPECIES
-=======
+# Omphalia salmonicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

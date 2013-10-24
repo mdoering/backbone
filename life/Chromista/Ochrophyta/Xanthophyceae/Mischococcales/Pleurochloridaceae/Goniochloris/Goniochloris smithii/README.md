@@ -1,5 +1,4 @@
-Goniochloris smithii (Bourelly) Fott SPECIES
-=======
+# Goniochloris smithii (Bourelly) Fott SPECIES
 
 #### Status
 ACCEPTED

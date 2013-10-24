@@ -1,5 +1,4 @@
-Paradiplodiella pritzeliana (Henn.) Zambett. SPECIES
-=======
+# Paradiplodiella pritzeliana (Henn.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

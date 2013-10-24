@@ -1,5 +1,4 @@
-Pseudocyphellaria junghuhniana (Müll. Arg.) D.D. Awasthi SPECIES
-=======
+# Pseudocyphellaria junghuhniana (Müll. Arg.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

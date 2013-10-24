@@ -1,5 +1,4 @@
-Starmerella meliponinorum Teixeira, M.M. Marini, Lachance & C.A. Rosa, 2003 SPECIES
-=======
+# Starmerella meliponinorum Teixeira, M.M. Marini, Lachance & C.A. Rosa, 2003 SPECIES
 
 #### Status
 ACCEPTED

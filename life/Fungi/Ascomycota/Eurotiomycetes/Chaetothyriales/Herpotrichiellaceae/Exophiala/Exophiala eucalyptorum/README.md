@@ -1,5 +1,4 @@
-Exophiala eucalyptorum Crous SPECIES
-=======
+# Exophiala eucalyptorum Crous SPECIES
 
 #### Status
 ACCEPTED

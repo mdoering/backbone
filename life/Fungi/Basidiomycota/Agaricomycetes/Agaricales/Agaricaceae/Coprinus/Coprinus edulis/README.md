@@ -1,5 +1,4 @@
-Coprinus edulis Speg. SPECIES
-=======
+# Coprinus edulis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium flavofuscescens Bres., 1903 SPECIES
-=======
+# Hymenoscyphus flavofuscescens (Bres.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria, sér. bot. 2: 90 (1903)
+Persoonia 3(1): 46 (1964)
 
 #### Original name
 Helotium flavofuscescens Bres., 1903

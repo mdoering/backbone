@@ -1,5 +1,4 @@
-Lecanora calvosina Samp. SPECIES
-=======
+# Lecanora calvosina Samp. SPECIES
 
 #### Status
 ACCEPTED

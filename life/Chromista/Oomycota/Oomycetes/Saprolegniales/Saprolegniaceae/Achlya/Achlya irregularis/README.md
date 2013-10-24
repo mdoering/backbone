@@ -1,5 +1,4 @@
-Achlya irregularis T.W. Johnson & R.L. Seym. SPECIES
-=======
+# Achlya irregularis T.W. Johnson & R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

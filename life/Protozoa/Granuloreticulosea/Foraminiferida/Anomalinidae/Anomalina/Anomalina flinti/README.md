@@ -1,5 +1,4 @@
-Anomalina flinti SPECIES
-=======
+# Anomalina flinti SPECIES
 
 #### Status
 ACCEPTED

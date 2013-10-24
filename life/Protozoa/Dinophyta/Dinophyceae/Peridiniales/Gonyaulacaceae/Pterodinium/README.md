@@ -1,5 +1,4 @@
-Pterodinium A. Eisenack, 1958 GENUS
-=======
+# Pterodinium A. Eisenack, 1958 GENUS
 
 #### Status
 ACCEPTED

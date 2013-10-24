@@ -1,5 +1,4 @@
-Trichodinella subtilis Lom, 1959 SPECIES
-=======
+# Trichodinella subtilis Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

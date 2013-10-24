@@ -1,5 +1,4 @@
-Irenina fagaricola (Speg.) F. Stevens SPECIES
-=======
+# Irenina fagaricola (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

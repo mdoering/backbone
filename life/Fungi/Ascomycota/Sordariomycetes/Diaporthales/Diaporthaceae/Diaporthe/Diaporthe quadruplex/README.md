@@ -1,5 +1,4 @@
-Diaporthe quadruplex Wehm. SPECIES
-=======
+# Diaporthe quadruplex Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoagaricus ooliekirrus Grgur. SPECIES
-=======
+# Leucoagaricus ooliekirrus Grgur. SPECIES
 
 #### Status
 ACCEPTED

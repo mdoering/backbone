@@ -1,5 +1,4 @@
-Strombomonas Deflandre, 1930 GENUS
-=======
+# Strombomonas Deflandre, 1930 GENUS
 
 #### Status
 ACCEPTED

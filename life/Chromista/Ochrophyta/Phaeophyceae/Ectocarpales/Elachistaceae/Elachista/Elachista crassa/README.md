@@ -1,5 +1,4 @@
-Elachista crassa Takamatsu SPECIES
-=======
+# Elachista crassa Takamatsu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Asteroma thuemeni Sacc. SPECIES
-=======
+# Asteroma thuemenii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 210 (1884)
 
 #### Original name
 Asteroma bupleuri Thüm.

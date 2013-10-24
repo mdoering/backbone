@@ -1,5 +1,4 @@
-Senoniasphaera microreticulata Brideaux & McIntyre, 1975 SPECIES
-=======
+# Senoniasphaera microreticulata Brideaux & McIntyre, 1975 SPECIES
 
 #### Status
 ACCEPTED

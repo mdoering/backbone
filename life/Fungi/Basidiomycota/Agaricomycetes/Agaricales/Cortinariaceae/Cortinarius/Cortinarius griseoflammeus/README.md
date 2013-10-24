@@ -1,5 +1,4 @@
-Cortinarius griseoflammeus Carteret SPECIES
-=======
+# Cortinarius griseoflammeus Carteret SPECIES
 
 #### Status
 ACCEPTED

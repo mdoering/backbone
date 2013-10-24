@@ -1,5 +1,4 @@
-Asterina ramonensis Syd., 1927 SPECIES
-=======
+# Asterina ramonensis Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

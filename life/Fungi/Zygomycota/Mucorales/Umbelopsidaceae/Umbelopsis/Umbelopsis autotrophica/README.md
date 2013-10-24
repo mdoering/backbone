@@ -1,14 +1,13 @@
-Mucor ramannianus var. autotrophicus (E.H. Evans) Milko, 1974 VARIETY
-=======
+# Umbelopsis autotrophica (E.H. Evans) W. Gams, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opred. Mukor. Gribov (Kiev) 96 (1974)
+in Meyer & Gams, Mycol. Res. 107(3): 349 (2003)
 
 #### Original name
 Mortierella ramanniana var. autotrophica E.H. Evans, 1971

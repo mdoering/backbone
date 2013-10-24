@@ -1,5 +1,4 @@
-Acetogenium Leigh & Wolfe, 1983 GENUS
-=======
+# Acetogenium Leigh & Wolfe, 1983 GENUS
 
 #### Status
 ACCEPTED

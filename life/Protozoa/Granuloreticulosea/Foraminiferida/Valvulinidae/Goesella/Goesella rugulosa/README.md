@@ -1,5 +1,4 @@
-Goesella rugulosa Cushman, 1933 SPECIES
-=======
+# Goesella rugulosa Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora permeans (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora permeans (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

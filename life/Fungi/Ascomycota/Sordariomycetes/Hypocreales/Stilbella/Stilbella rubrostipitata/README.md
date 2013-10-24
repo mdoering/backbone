@@ -1,5 +1,4 @@
-Stilbella rubrostipitata Matsush. SPECIES
-=======
+# Stilbella rubrostipitata Matsush. SPECIES
 
 #### Status
 ACCEPTED

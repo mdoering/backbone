@@ -1,5 +1,4 @@
-Alpova mollis (Lloyd) Trappe SPECIES
-=======
+# Alpova mollis (Lloyd) Trappe SPECIES
 
 #### Status
 ACCEPTED

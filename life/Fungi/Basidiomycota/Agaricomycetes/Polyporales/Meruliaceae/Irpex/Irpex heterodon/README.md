@@ -1,5 +1,4 @@
-Irpex heterodon Sacc. SPECIES
-=======
+# Irpex heterodon Sacc. SPECIES
 
 #### Status
 ACCEPTED

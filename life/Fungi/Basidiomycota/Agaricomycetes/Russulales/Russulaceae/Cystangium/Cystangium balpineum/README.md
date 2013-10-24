@@ -1,5 +1,4 @@
-Cystangium balpineum Grgur., 1997 SPECIES
-=======
+# Cystangium balpineum Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

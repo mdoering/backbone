@@ -1,5 +1,4 @@
-Copromyces N. Lundq. GENUS
-=======
+# Copromyces N. Lundq. GENUS
 
 #### Status
 ACCEPTED

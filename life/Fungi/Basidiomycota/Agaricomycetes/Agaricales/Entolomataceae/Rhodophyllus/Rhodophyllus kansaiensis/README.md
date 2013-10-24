@@ -1,5 +1,4 @@
-Rhodophyllus kansaiensis Hongo SPECIES
-=======
+# Rhodophyllus kansaiensis Hongo SPECIES
 
 #### Status
 ACCEPTED

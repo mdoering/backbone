@@ -1,5 +1,4 @@
-Aecidium hamamelidis Magnus SPECIES
-=======
+# Aecidium hamamelidis Magnus SPECIES
 
 #### Status
 ACCEPTED

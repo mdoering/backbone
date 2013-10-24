@@ -1,5 +1,4 @@
-Mucor viridescens L. SPECIES
-=======
+# Mucor viridescens L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora leandrae Syd. SPECIES
-=======
+# Cercospora leandrae Syd. SPECIES
 
 #### Status
 ACCEPTED

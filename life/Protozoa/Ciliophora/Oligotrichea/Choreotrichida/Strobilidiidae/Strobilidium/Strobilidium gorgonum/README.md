@@ -1,5 +1,4 @@
-Strobilidium gorgonum SPECIES
-=======
+# Strobilidium gorgonum SPECIES
 
 #### Status
 ACCEPTED

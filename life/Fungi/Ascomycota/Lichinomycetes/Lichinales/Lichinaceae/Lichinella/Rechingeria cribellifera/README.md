@@ -1,5 +1,4 @@
-Rechingeria cribellifera (Nyl.) Servít SPECIES
-=======
+# Rechingeria cribellifera (Nyl.) Servít SPECIES
 
 #### Status
 ACCEPTED

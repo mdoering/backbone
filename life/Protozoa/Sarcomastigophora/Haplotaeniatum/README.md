@@ -1,5 +1,4 @@
-Haplotaeniatum Nazarov & Ormiston, 1993 GENUS
-=======
+# Haplotaeniatum Nazarov & Ormiston, 1993 GENUS
 
 #### Status
 ACCEPTED

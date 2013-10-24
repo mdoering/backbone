@@ -1,5 +1,4 @@
-Pseudocyphellaria lacerata Degel. SPECIES
-=======
+# Pseudocyphellaria lacerata Degel. SPECIES
 
 #### Status
 ACCEPTED

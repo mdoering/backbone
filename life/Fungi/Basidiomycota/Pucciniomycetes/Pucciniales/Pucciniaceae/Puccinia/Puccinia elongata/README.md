@@ -1,5 +1,4 @@
-Puccinia elongata J. Schröt. SPECIES
-=======
+# Puccinia elongata J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

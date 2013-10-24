@@ -1,5 +1,4 @@
-Irenopsis triumfettae var. triumfettae VARIETY
-=======
+# Irenopsis triumfettae (F. Stevens) Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 14 (1948)
 
 #### Original name
-Irenopsis triumfettae var. triumfettae
+Meliola triumfettae F. Stevens
 
 ### Remarks
 null

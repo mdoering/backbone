@@ -1,14 +1,13 @@
-Xylaria punctata (L.) J. Kickx f., 1835 SPECIES
-=======
+# Poronia punctata (L.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Crypt. Louvain 116 (1835)
+Summa veg. Scand. (Stockholm), Section Post. 382 (1849)
 
 #### Original name
 null

@@ -1,14 +1,13 @@
-Passalora manetobana (Davis) Poonam Srivast. SPECIES
-=======
+# Passalora manitobana (Davis) Poonam Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Living World 1(2): 117 (1994)
 
 #### Original name
 Cercospora manitobana Davis

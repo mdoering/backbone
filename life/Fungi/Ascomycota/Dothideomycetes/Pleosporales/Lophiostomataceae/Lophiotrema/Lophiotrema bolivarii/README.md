@@ -1,5 +1,4 @@
-Lophiotrema bolivarii Gonz. Frag. SPECIES
-=======
+# Lophiotrema bolivarii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

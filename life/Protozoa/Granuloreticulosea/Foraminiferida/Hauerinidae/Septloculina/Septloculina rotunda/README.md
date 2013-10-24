@@ -1,5 +1,4 @@
-Septloculina rotunda El Nakhal, 1990 SPECIES
-=======
+# Septloculina rotunda El Nakhal, 1990 SPECIES
 
 #### Status
 ACCEPTED

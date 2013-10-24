@@ -1,5 +1,4 @@
-Diatrype polycocca Fuckel, 1870 SPECIES
-=======
+# Diatrype polycocca Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

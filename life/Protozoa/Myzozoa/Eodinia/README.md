@@ -1,5 +1,4 @@
-Eodinia Eisenack GENUS
-=======
+# Eodinia Eisenack GENUS
 
 #### Status
 ACCEPTED

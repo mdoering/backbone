@@ -1,14 +1,13 @@
-Poria delicatula Henn., 1904 SPECIES
-=======
+# Grammothele delicatula (Henn.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 34: 44 (1904)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 37 (1980)
 
 #### Original name
 Poria delicatula Henn., 1904

@@ -1,5 +1,4 @@
-Acarospora molybdina var. molybdina VARIETY
-=======
+# Acarospora molybdina (Wahlenb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora molybdina var. molybdina
+Lichen molybdinus Wahlenb.
 
 ### Remarks
 null

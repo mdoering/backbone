@@ -1,5 +1,4 @@
-Laschia saccharina (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Laschia saccharina (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Shomea GENUS
-=======
+# Shomea GENUS
 
 #### Status
 ACCEPTED

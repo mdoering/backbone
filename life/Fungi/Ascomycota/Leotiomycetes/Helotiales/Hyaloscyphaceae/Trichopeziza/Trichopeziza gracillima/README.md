@@ -1,5 +1,4 @@
-Trichopeziza gracillima (Weinm.) Sacc. SPECIES
-=======
+# Trichopeziza gracillima (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

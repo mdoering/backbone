@@ -1,14 +1,13 @@
-Asteridiella pithecolobii (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella pithecellobii (W. Yamam.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 49 (1957)
 
 #### Original name
 Irenina pithecellobii W. Yamam.

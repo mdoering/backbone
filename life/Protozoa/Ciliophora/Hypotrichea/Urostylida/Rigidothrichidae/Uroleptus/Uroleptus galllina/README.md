@@ -1,5 +1,4 @@
-Uroleptus galllina SPECIES
-=======
+# Uroleptus galllina SPECIES
 
 #### Status
 ACCEPTED

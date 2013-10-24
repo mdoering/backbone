@@ -1,5 +1,4 @@
-Ustilago cordai Liro SPECIES
-=======
+# Ustilago cordai Liro SPECIES
 
 #### Status
 ACCEPTED

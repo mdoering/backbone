@@ -1,5 +1,4 @@
-Phoma platanicola Dearn. & House SPECIES
-=======
+# Phoma platanicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

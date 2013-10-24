@@ -1,5 +1,4 @@
-Lancilithus Lyul'eva, 1971 GENUS
-=======
+# Lancilithus Lyul'eva, 1971 GENUS
 
 #### Status
 ACCEPTED

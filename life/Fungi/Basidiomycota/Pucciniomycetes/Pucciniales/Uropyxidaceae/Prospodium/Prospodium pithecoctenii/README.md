@@ -1,5 +1,4 @@
-Prospodium pithecoctenii (Pazschke) Cummins SPECIES
-=======
+# Prospodium pithecoctenii (Pazschke) Cummins SPECIES
 
 #### Status
 ACCEPTED

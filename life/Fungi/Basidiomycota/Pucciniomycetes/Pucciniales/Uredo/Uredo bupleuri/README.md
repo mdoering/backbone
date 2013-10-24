@@ -1,5 +1,4 @@
-Uredo bupleuri Barclay SPECIES
-=======
+# Uredo bupleuri Barclay SPECIES
 
 #### Status
 ACCEPTED

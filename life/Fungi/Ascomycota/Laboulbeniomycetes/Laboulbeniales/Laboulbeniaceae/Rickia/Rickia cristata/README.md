@@ -1,5 +1,4 @@
-Rickia cristata Thaxt. SPECIES
-=======
+# Rickia cristata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

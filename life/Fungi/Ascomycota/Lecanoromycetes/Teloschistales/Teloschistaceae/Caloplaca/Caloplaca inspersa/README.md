@@ -1,5 +1,4 @@
-Caloplaca inspersa (J. Steiner) J. Steiner SPECIES
-=======
+# Caloplaca inspersa (J. Steiner) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

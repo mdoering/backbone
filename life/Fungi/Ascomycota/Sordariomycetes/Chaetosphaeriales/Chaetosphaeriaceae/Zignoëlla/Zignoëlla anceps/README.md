@@ -1,5 +1,4 @@
-Zignoëlla anceps Sacc. SPECIES
-=======
+# Zignoëlla anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

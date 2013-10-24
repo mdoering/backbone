@@ -1,5 +1,4 @@
-Clitocybe odorula P. Karst. SPECIES
-=======
+# Clitocybe odorula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pentastemonum Lév. SPECIES
-=======
+# Puccinia pentastemonum Lév. SPECIES
 
 #### Status
 ACCEPTED

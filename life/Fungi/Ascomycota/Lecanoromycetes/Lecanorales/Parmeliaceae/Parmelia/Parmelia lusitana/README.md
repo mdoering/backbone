@@ -1,5 +1,4 @@
-Parmelia lusitana var. lusitana VARIETY
-=======
+# Parmelia lusitana Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia lusitana var. lusitana
+Parmelia lusitana Nyl.
 
 ### Remarks
 null

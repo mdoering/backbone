@@ -1,5 +1,4 @@
-Stereocaulon vulcani (Bory) Ach. SPECIES
-=======
+# Stereocaulon vulcani (Bory) Ach. SPECIES
 
 #### Status
 ACCEPTED

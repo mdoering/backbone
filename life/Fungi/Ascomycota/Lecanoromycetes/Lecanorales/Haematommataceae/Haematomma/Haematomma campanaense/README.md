@@ -1,5 +1,4 @@
-Haematomma campanaense Redón & Walkowiak SPECIES
-=======
+# Haematomma campanaense Redón & Walkowiak SPECIES
 
 #### Status
 ACCEPTED

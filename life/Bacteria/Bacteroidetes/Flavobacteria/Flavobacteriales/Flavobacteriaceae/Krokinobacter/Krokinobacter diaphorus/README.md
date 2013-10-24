@@ -1,5 +1,4 @@
-Krokinobacter diaphorus Khan et al., 2006 SPECIES
-=======
+# Krokinobacter diaphorus Khan et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

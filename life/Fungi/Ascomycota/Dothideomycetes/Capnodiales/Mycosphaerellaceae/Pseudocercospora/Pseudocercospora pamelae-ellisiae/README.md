@@ -1,5 +1,4 @@
-Pseudocercospora pamelae-ellisiae (G.P. Agarwal & N.D. Sharma) U. Braun SPECIES
-=======
+# Pseudocercospora pamelae-ellisiae (G.P. Agarwal & N.D. Sharma) U. Braun SPECIES
 
 #### Status
 ACCEPTED

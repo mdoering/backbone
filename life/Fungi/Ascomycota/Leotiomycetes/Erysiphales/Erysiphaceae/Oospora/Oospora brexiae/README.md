@@ -1,5 +1,4 @@
-Oospora brexiae Elisei SPECIES
-=======
+# Oospora brexiae Elisei SPECIES
 
 #### Status
 ACCEPTED

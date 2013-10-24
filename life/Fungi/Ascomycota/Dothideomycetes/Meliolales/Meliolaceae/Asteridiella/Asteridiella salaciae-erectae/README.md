@@ -1,5 +1,4 @@
-Asteridiella salaciae-erectae Deighton SPECIES
-=======
+# Asteridiella salaciae-erectae Deighton SPECIES
 
 #### Status
 ACCEPTED

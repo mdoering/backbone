@@ -1,5 +1,4 @@
-Parmelinopsis venezolana (Hale) DePriest & B.W. Hale SPECIES
-=======
+# Parmelinopsis venezolana (Hale) DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

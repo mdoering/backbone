@@ -1,5 +1,4 @@
-Calycina sulfurella (Ellis & Everh.) Kuntze SPECIES
-=======
+# Calycina sulfurella (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

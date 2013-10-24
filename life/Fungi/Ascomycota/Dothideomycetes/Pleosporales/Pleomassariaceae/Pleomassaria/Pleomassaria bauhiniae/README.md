@@ -1,5 +1,4 @@
-Pleomassaria bauhiniae R. Rao SPECIES
-=======
+# Pleomassaria bauhiniae R. Rao SPECIES
 
 #### Status
 ACCEPTED

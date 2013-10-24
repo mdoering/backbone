@@ -1,5 +1,4 @@
-Barlaeina globifera var. globifera VARIETY
-=======
+# Barlaeina globifera (Berk. & M.A. Curtis) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Barlaeina globifera var. globifera
+Sporidesmium globiferum Berk. & M.A. Curtis
 
 ### Remarks
 null

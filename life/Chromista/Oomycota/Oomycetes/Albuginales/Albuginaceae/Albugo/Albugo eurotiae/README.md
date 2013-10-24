@@ -1,5 +1,4 @@
-Albugo eurotiae Tranzschel SPECIES
-=======
+# Albugo eurotiae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

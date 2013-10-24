@@ -1,5 +1,4 @@
-Glonium coenobiticum Duby SPECIES
-=======
+# Glonium coenobiticum Duby SPECIES
 
 #### Status
 ACCEPTED

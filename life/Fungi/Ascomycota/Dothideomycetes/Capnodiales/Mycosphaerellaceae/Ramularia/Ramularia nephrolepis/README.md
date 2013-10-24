@@ -1,5 +1,4 @@
-Ramularia nephrolepis F. Stevens SPECIES
-=======
+# Ramularia nephrolepis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

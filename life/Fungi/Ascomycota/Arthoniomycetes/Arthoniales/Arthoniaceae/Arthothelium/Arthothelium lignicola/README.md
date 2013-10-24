@@ -1,5 +1,4 @@
-Arthothelium lignicola (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium lignicola (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monoporisporites triangularis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites triangularis (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

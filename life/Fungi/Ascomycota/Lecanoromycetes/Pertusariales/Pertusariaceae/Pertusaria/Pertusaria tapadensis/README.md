@@ -1,5 +1,4 @@
-Pertusaria tapadensis Elix & A.W. Archer SPECIES
-=======
+# Pertusaria tapadensis Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

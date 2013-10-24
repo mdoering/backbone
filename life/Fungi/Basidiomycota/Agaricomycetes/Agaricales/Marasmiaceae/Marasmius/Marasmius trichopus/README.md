@@ -1,5 +1,4 @@
-Marasmius trichopus Pass. & Beltr. SPECIES
-=======
+# Marasmius trichopus Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

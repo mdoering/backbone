@@ -1,17 +1,16 @@
-Depazea frondicola var. frondicola VARIETY
-=======
+# Depazea frondicola Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 2: 365 (1818)
 
 #### Original name
-null
+Depazea frondicola Fr.
 
 ### Remarks
 null

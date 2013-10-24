@@ -1,5 +1,4 @@
-Hemithecium pulchellum Makhija & Adaw. SPECIES
-=======
+# Hemithecium pulchellum Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

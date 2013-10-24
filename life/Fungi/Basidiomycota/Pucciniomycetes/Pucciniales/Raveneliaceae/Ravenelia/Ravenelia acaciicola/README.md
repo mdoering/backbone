@@ -1,17 +1,16 @@
-Ravenelia acacicola Sanwal SPECIES
-=======
+# Ravenelia acaciicola Sanwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 5(3-6): 414 (1951)
 
 #### Original name
-Ravenelia acacicola Sanwal
+Ravenelia acaciicola Sanwal
 
 ### Remarks
 null

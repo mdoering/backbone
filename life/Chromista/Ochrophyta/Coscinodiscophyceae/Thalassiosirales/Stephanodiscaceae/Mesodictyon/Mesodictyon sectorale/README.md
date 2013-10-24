@@ -1,5 +1,4 @@
-Mesodictyon sectorale G.K. Khursevich & S.L. Van Landingham SPECIES
-=======
+# Mesodictyon sectorale G.K. Khursevich & S.L. Van Landingham SPECIES
 
 #### Status
 ACCEPTED

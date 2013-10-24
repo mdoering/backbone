@@ -1,5 +1,4 @@
-Cortinarius aggregatus Kauffman SPECIES
-=======
+# Cortinarius aggregatus Kauffman SPECIES
 
 #### Status
 ACCEPTED

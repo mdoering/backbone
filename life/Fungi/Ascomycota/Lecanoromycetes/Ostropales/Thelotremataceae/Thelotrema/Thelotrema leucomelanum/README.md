@@ -1,5 +1,4 @@
-Thelotrema leucomelanum var. leucomelanum VARIETY
-=======
+# Thelotrema leucomelanum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelotrema leucomelanum var. leucomelanum
+null
 
 ### Remarks
 null

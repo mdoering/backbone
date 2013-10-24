@@ -1,5 +1,4 @@
-Excipula stromatica Fuckel SPECIES
-=======
+# Excipula stromatica Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea griseola Motyka SPECIES
-=======
+# Usnea griseola Motyka SPECIES
 
 #### Status
 ACCEPTED

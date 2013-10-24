@@ -1,5 +1,4 @@
-Coniothyrium subradicale P. Karst. SPECIES
-=======
+# Coniothyrium subradicale P. Karst. SPECIES
 
 #### Status
 ACCEPTED

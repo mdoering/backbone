@@ -1,5 +1,4 @@
-Trachelomonas ampulliformis Roll SPECIES
-=======
+# Trachelomonas ampulliformis Roll SPECIES
 
 #### Status
 ACCEPTED

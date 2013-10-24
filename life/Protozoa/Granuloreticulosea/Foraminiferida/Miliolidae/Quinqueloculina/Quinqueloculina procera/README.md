@@ -1,5 +1,4 @@
-Quinqueloculina procera SPECIES
-=======
+# Quinqueloculina procera SPECIES
 
 #### Status
 ACCEPTED

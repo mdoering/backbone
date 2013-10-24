@@ -1,5 +1,4 @@
-Lecaniella cyrtillinoides M. Choisy SPECIES
-=======
+# Lecaniella cyrtillinoides M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina placynthielloides Aptroot SPECIES
-=======
+# Rinodina placynthielloides Aptroot SPECIES
 
 #### Status
 ACCEPTED

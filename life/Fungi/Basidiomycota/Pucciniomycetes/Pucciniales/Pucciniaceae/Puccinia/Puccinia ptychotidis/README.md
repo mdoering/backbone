@@ -1,5 +1,4 @@
-Puccinia ptychotidis Vienn.-Bourg. & Ponchet SPECIES
-=======
+# Puccinia ptychotidis Vienn.-Bourg. & Ponchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia flava (Bres.) Singer SPECIES
-=======
+# Favolaschia flava (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

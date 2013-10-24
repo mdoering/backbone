@@ -1,5 +1,4 @@
-Metasphaeria kerriae Syd. & Hara SPECIES
-=======
+# Metasphaeria kerriae Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

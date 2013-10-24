@@ -1,5 +1,4 @@
-Calloria galiorum Dennis, 1990 SPECIES
-=======
+# Calloria galiorum Dennis, 1990 SPECIES
 
 #### Status
 ACCEPTED

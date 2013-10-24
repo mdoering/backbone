@@ -1,5 +1,4 @@
-Laestadiella niesslii (Kunze ex Rehm) Höhn. SPECIES
-=======
+# Laestadiella niesslii (Kunze ex Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

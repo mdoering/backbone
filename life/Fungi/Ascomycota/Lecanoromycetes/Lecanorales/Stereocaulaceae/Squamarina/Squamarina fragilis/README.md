@@ -1,5 +1,4 @@
-Squamarina fragilis (Scop.) Clauzade & Rondon SPECIES
-=======
+# Squamarina fragilis (Scop.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

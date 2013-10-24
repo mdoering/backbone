@@ -1,5 +1,4 @@
-Mycosphaerella camelliae Petch SPECIES
-=======
+# Mycosphaerella camelliae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps nelumboides Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps nelumboides Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromulina chionophila Stein SPECIES
-=======
+# Chromulina chionophila Stein SPECIES
 
 #### Status
 ACCEPTED

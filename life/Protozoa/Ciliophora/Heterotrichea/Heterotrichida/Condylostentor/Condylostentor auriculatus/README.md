@@ -1,5 +1,4 @@
-Condylostentor auriculatus (Kahl, 1932) Jankowski, 1978 SPECIES
-=======
+# Condylostentor auriculatus (Kahl, 1932) Jankowski, 1978 SPECIES
 
 #### Status
 ACCEPTED

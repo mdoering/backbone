@@ -1,5 +1,4 @@
-Agaricus australianus Fr. SPECIES
-=======
+# Agaricus australianus Fr. SPECIES
 
 #### Status
 ACCEPTED

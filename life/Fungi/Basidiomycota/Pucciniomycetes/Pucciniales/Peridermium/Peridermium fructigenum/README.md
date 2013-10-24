@@ -1,5 +1,4 @@
-Peridermium fructigenum Arthur SPECIES
-=======
+# Peridermium fructigenum Arthur SPECIES
 
 #### Status
 ACCEPTED

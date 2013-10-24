@@ -1,5 +1,4 @@
-Saccharomyces granulomatogenes San Felice SPECIES
-=======
+# Saccharomyces granulomatogenes San Felice SPECIES
 
 #### Status
 ACCEPTED

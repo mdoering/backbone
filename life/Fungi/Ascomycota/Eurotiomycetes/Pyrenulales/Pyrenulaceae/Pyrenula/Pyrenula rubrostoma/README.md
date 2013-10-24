@@ -1,5 +1,4 @@
-Pyrenula rubrostoma R.C. Harris SPECIES
-=======
+# Pyrenula rubrostoma R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

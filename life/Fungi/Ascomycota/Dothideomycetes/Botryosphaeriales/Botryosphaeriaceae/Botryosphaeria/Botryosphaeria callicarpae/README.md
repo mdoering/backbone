@@ -1,5 +1,4 @@
-Botryosphaeria callicarpae Cooke SPECIES
-=======
+# Botryosphaeria callicarpae Cooke SPECIES
 
 #### Status
 ACCEPTED

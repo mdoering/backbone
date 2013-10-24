@@ -1,5 +1,4 @@
-Heteroconium avilae R.F. Castañeda, Iturr., Heredia & Minter SPECIES
-=======
+# Heteroconium avilae R.F. Castañeda, Iturr., Heredia & Minter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo stenotaphri Syd. & P. Syd. SPECIES
-=======
+# Uredo stenotaphri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

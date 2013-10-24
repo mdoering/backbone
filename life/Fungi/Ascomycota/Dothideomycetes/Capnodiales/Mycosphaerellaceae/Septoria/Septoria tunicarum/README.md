@@ -1,5 +1,4 @@
-Septoria tunicarum N.P. Golovina SPECIES
-=======
+# Septoria tunicarum N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

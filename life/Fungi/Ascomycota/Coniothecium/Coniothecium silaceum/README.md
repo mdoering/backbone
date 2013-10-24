@@ -1,14 +1,13 @@
-Gassicurtia silacea Fée, 1834 SPECIES
-=======
+# Coniothecium silaceum (Fée) Keissl., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 8: 619 (1930)
 
 #### Original name
 Gassicurtia silacea Fée, 1834

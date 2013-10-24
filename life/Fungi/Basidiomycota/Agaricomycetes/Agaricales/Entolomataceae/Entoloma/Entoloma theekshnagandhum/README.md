@@ -1,5 +1,4 @@
-Entoloma theekshnagandhum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma theekshnagandhum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

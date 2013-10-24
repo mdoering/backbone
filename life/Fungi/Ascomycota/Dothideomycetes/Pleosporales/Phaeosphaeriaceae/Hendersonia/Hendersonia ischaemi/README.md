@@ -1,5 +1,4 @@
-Hendersonia ischaemi Sacc. SPECIES
-=======
+# Hendersonia ischaemi Sacc. SPECIES
 
 #### Status
 ACCEPTED

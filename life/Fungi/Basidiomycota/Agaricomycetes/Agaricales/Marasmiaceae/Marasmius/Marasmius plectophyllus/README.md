@@ -1,5 +1,4 @@
-Marasmius plectophyllus Mont. SPECIES
-=======
+# Marasmius plectophyllus Mont. SPECIES
 
 #### Status
 ACCEPTED

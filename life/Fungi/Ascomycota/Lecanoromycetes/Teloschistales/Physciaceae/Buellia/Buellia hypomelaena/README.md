@@ -1,5 +1,4 @@
-Buellia hypomelaena Müll. Arg. SPECIES
-=======
+# Buellia hypomelaena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora phyllanthi-niruri J.M. Yen SPECIES
-=======
+# Cercospora phyllanthi-niruri J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

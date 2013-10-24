@@ -1,5 +1,4 @@
-Pyrenula papilligera (Leight.) Müll. Arg. SPECIES
-=======
+# Pyrenula papilligera (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

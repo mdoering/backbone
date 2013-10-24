@@ -1,5 +1,4 @@
-Cenangium magnoliae Berk. & M.A. Curtis SPECIES
-=======
+# Cenangium magnoliae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

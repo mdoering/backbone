@@ -1,17 +1,16 @@
-Collema amphiurum Nyl. SPECIES
-=======
+# Physma byrsaeum (Ach.) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. N. Amer. Fungi 1: 115 (1882)
 
 #### Original name
-Collema amphiurum Nyl.
+Parmelia byrsea Ach.
 
 ### Remarks
 null

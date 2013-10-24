@@ -1,5 +1,4 @@
-Solenopezia columbina (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Solenopezia columbina (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta sagittifoliae Brunaud SPECIES
-=======
+# Phyllosticta sagittifoliae Brunaud SPECIES
 
 #### Status
 ACCEPTED

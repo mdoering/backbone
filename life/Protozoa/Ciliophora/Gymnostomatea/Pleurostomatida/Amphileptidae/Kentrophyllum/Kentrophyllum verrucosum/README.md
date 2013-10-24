@@ -1,5 +1,4 @@
-Kentrophyllum verrucosum Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Kentrophyllum verrucosum Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

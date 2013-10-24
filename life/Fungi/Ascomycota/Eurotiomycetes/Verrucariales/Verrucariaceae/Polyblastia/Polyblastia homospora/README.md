@@ -1,5 +1,4 @@
-Polyblastia homospora (Anzi) Jatta SPECIES
-=======
+# Polyblastia homospora (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

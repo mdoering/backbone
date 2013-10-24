@@ -1,5 +1,4 @@
-Tricharia pseudosantessonii Lücking SPECIES
-=======
+# Tricharia pseudosantessonii Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comoclathris cichoriacearum Nograsek SPECIES
-=======
+# Comoclathris cichoriacearum Nograsek SPECIES
 
 #### Status
 ACCEPTED

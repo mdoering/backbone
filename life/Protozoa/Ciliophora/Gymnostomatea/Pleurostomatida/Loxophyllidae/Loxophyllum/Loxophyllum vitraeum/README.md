@@ -1,5 +1,4 @@
-Loxophyllum vitraeum Dragesco, 1965 SPECIES
-=======
+# Loxophyllum vitraeum Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

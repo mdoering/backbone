@@ -1,5 +1,4 @@
-Ustilago bromina Syd. SPECIES
-=======
+# Ustilago bromina Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Micropuccinia rhodiolae (Berk. & Broome) Arthur & H.S. Jacks., 1922 SPECIES
-=======
+# Puccinia umbilici Guépin, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(7): 534 (1922)
+Bot. Gall. 2: 890 (1830)
 
 #### Original name
-Puccinia rhodiolae Berk. & Broome, 1850
+Puccinia umbilici Guépin, 1830
 
 ### Remarks
 null

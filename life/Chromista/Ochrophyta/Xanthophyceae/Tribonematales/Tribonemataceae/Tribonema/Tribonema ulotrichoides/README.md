@@ -1,5 +1,4 @@
-Tribonema ulotrichoides Pascher SPECIES
-=======
+# Tribonema ulotrichoides Pascher SPECIES
 
 #### Status
 ACCEPTED

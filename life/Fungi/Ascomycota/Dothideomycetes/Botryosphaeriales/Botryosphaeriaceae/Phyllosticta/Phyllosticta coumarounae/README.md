@@ -1,5 +1,4 @@
-Phyllosticta coumarounae Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta coumarounae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

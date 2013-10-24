@@ -1,5 +1,4 @@
-Phaeoacremonium inflatipes W. Gams, Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Phaeoacremonium inflatipes W. Gams, Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

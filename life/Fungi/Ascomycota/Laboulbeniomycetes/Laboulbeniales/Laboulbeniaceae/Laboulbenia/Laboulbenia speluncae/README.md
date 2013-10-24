@@ -1,5 +1,4 @@
-Laboulbenia speluncae Santam. SPECIES
-=======
+# Laboulbenia speluncae Santam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectidium barbatum Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium barbatum Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

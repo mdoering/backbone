@@ -1,5 +1,4 @@
-Sphaeria scutiformis Fr. SPECIES
-=======
+# Sphaeria scutiformis Fr. SPECIES
 
 #### Status
 ACCEPTED

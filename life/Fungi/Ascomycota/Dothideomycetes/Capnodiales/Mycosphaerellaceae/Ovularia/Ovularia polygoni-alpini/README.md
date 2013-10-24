@@ -1,5 +1,4 @@
-Ovularia polygoni-alpini Maire SPECIES
-=======
+# Ovularia polygoni-alpini Maire SPECIES
 
 #### Status
 ACCEPTED

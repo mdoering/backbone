@@ -1,5 +1,4 @@
-Dothidea denudata (Schrad.) Kunze SPECIES
-=======
+# Dothidea denudata (Schrad.) Kunze SPECIES
 
 #### Status
 ACCEPTED

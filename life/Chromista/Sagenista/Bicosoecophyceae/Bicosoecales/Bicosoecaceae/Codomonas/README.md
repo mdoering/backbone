@@ -1,5 +1,4 @@
-Codomonas Lackey, 1939 GENUS
-=======
+# Codomonas Lackey, 1939 GENUS
 
 #### Status
 SYNONYM

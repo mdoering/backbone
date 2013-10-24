@@ -1,5 +1,4 @@
-Aecidiolum minutellum Speg. SPECIES
-=======
+# Aecidiolum minutellum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina ocoteae Brand & Sérus. SPECIES
-=======
+# Porina ocoteae Brand & Sérus. SPECIES
 
 #### Status
 ACCEPTED

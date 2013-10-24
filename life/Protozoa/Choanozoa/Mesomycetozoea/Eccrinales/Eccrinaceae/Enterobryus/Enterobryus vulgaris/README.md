@@ -1,5 +1,4 @@
-Enterobryus vulgaris Tuzet, Manier & Jolivet SPECIES
-=======
+# Enterobryus vulgaris Tuzet, Manier & Jolivet SPECIES
 
 #### Status
 ACCEPTED

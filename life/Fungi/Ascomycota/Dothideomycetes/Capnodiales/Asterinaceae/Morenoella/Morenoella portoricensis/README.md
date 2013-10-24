@@ -1,5 +1,4 @@
-Morenoella portoricensis Speg. SPECIES
-=======
+# Morenoella portoricensis Speg. SPECIES
 
 #### Status
 ACCEPTED

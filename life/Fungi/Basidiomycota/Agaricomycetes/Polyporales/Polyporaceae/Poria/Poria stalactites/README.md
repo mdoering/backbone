@@ -1,5 +1,4 @@
-Poria stalactites Hoffm. SPECIES
-=======
+# Poria stalactites Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomycopsis capsularis Schiønning, 1903 SPECIES
-=======
+# Saccharomycopsis capsularis Schiønning, 1903 SPECIES
 
 #### Status
 ACCEPTED

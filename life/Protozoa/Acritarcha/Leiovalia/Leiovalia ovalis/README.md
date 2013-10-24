@@ -1,5 +1,4 @@
-Leiovalia ovalis (Eisenack, 1938) Górka, 1969 SPECIES
-=======
+# Leiovalia ovalis (Eisenack, 1938) Górka, 1969 SPECIES
 
 #### Status
 ACCEPTED

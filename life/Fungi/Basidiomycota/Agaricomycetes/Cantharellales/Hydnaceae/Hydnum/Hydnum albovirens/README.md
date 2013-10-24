@@ -1,5 +1,4 @@
-Hydnum albovirens Fr. SPECIES
-=======
+# Hydnum albovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

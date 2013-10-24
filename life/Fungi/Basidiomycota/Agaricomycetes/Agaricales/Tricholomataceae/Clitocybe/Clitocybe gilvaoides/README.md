@@ -1,5 +1,4 @@
-Clitocybe gilvaoides var. gracilis H.E. Bigelow & A.H. Sm. VARIETY
-=======
+# Clitocybe gilvaoides Kauffman SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe gilvaoides var. gracilis H.E. Bigelow & A.H. Sm.
+Clitocybe gilvaoides Kauffman
 
 ### Remarks
 null

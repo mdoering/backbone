@@ -1,14 +1,13 @@
-Hypolyssus cervinus (Tul.) Kuntze, 1898 SPECIES
-=======
+# Hypomyces cervinus Tul., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 488 (1898)
+null
 
 #### Original name
 Hypomyces cervinus Tul., 1860

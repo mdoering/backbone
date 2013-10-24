@@ -1,5 +1,4 @@
-Parmelia attenuata Hale SPECIES
-=======
+# Parmelia attenuata Hale SPECIES
 
 #### Status
 ACCEPTED

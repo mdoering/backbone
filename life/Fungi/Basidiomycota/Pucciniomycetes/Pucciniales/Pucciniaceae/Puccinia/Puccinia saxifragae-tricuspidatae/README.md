@@ -1,5 +1,4 @@
-Puccinia saxifragae-tricuspidatae Henn. SPECIES
-=======
+# Puccinia saxifragae-tricuspidatae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista reunionis Kreisel & Hauskn. SPECIES
-=======
+# Bovista reunionis Kreisel & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

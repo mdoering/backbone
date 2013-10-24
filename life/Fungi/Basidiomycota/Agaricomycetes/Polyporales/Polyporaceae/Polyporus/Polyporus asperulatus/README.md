@@ -1,5 +1,4 @@
-Polyporus asperulatus Lloyd SPECIES
-=======
+# Polyporus asperulatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora crassior Fr. SPECIES
-=======
+# Thelephora crassior Fr. SPECIES
 
 #### Status
 ACCEPTED

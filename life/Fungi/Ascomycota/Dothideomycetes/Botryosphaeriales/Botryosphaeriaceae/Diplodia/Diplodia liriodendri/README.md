@@ -1,5 +1,4 @@
-Diplodia liriodendri Peck SPECIES
-=======
+# Diplodia liriodendri Peck SPECIES
 
 #### Status
 ACCEPTED

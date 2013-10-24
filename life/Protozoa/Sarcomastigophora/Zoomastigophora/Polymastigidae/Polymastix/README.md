@@ -1,5 +1,4 @@
-Polymastix Bütschli, 1884 GENUS
-=======
+# Polymastix Bütschli, 1884 GENUS
 
 #### Status
 ACCEPTED

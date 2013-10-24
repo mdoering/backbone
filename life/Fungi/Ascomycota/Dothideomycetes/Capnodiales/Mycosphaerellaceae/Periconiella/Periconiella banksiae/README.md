@@ -1,5 +1,4 @@
-Periconiella banksiae Priest SPECIES
-=======
+# Periconiella banksiae Priest SPECIES
 
 #### Status
 ACCEPTED

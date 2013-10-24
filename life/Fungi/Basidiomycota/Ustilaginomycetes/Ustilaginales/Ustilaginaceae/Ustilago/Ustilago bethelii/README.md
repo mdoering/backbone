@@ -1,5 +1,4 @@
-Ustilago bethelii Zundel SPECIES
-=======
+# Ustilago bethelii Zundel SPECIES
 
 #### Status
 ACCEPTED

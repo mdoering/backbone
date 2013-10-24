@@ -1,5 +1,4 @@
-Deconica goniospora (Berk. & Broome) Singer SPECIES
-=======
+# Deconica goniospora (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

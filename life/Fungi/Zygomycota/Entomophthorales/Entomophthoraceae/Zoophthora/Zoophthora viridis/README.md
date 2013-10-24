@@ -1,5 +1,4 @@
-Zoophthora viridis S. Keller ex S. Keller, 1994 SPECIES
-=======
+# Zoophthora viridis S. Keller ex S. Keller, 1994 SPECIES
 
 #### Status
 ACCEPTED

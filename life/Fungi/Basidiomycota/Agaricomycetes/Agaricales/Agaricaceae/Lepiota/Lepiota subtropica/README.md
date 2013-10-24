@@ -1,5 +1,4 @@
-Lepiota subtropica Hongo SPECIES
-=======
+# Lepiota subtropica Hongo SPECIES
 
 #### Status
 ACCEPTED

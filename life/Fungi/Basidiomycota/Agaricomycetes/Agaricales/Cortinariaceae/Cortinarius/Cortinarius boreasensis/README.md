@@ -1,5 +1,4 @@
-Cortinarius boreasensis A.H. Sm. SPECIES
-=======
+# Cortinarius boreasensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

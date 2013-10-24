@@ -1,5 +1,4 @@
-Pleurotus suberis Pat. SPECIES
-=======
+# Pleurotus suberis Pat. SPECIES
 
 #### Status
 ACCEPTED

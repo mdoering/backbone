@@ -1,5 +1,4 @@
-Textularia solita var. inflata Goes, 1896 VARIETY
-=======
+# Textularia solita Schwagger SPECIES
 
 #### Status
 ACCEPTED

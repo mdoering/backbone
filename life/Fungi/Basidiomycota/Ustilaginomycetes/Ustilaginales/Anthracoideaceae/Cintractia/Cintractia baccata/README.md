@@ -1,5 +1,4 @@
-Cintractia baccata (Wallr.) Syd. SPECIES
-=======
+# Cintractia baccata (Wallr.) Syd. SPECIES
 
 #### Status
 ACCEPTED

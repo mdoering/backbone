@@ -1,17 +1,16 @@
-Jugglerandia Lloyd GENUS
-=======
+# Holwaya Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 646 (1889)
 
 #### Original name
-Jugglerandia Lloyd
+Holwaya Sacc.
 
 ### Remarks
 null

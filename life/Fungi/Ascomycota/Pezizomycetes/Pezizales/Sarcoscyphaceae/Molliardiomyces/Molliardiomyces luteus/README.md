@@ -1,5 +1,4 @@
-Molliardiomyces luteus Paden SPECIES
-=======
+# Molliardiomyces luteus Paden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria alata F. San Martín & J.D. Rogers SPECIES
-=======
+# Xylaria alata F. San Martín & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

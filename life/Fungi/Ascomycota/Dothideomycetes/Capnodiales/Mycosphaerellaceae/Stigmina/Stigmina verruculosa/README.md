@@ -1,5 +1,4 @@
-Stigmina verruculosa Syd. SPECIES
-=======
+# Stigmina verruculosa Syd. SPECIES
 
 #### Status
 ACCEPTED

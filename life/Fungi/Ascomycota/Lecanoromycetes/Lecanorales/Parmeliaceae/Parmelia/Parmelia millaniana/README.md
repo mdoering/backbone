@@ -1,5 +1,4 @@
-Parmelia millaniana SPECIES
-=======
+# Parmelia millaniana SPECIES
 
 #### Status
 ACCEPTED

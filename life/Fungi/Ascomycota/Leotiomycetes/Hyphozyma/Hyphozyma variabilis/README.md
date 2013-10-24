@@ -1,5 +1,4 @@
-Hyphozyma variabilis var. variabilis de Hoog & M.T. Sm., 1981 VARIETY
-=======
+# Hyphozyma variabilis de Hoog & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Antonie van Leeuwenhoek 47(4): 342 (1981)
 
 #### Original name
-Hyphozyma variabilis var. variabilis de Hoog & M.T. Sm., 1981
+Hyphozyma variabilis de Hoog & M.T. Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dragescozoon terricola Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Dragescozoon terricola Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella nypae K.D. Hyde, 1992 SPECIES
-=======
+# Astrosphaeriella nypae K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

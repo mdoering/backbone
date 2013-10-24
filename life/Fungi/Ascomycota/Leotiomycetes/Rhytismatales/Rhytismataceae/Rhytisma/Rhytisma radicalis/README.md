@@ -1,5 +1,4 @@
-Rhytisma radicalis Cooke SPECIES
-=======
+# Rhytisma radicalis Cooke SPECIES
 
 #### Status
 ACCEPTED

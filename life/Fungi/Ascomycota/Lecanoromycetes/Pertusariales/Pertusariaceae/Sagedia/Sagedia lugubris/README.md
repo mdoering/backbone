@@ -1,5 +1,4 @@
-Sagedia lugubris Mont. SPECIES
-=======
+# Sagedia lugubris Mont. SPECIES
 
 #### Status
 ACCEPTED

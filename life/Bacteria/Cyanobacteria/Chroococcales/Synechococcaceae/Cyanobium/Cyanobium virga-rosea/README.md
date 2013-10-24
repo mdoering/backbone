@@ -1,8 +1,7 @@
-Synechococcus virga-rosea T.P. Chang SPECIES
-=======
+# Cyanobium virga-rosea (T.P. Chang) J. Komárek, J. Kopeck & V. Cepák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

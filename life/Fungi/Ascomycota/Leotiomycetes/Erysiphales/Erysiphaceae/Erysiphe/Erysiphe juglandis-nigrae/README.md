@@ -1,5 +1,4 @@
-Erysiphe juglandis-nigrae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe juglandis-nigrae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

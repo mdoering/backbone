@@ -1,5 +1,4 @@
-Conocybe anthracophila Maire & Kühner ex Kühner & Watling SPECIES
-=======
+# Conocybe anthracophila Maire & Kühner ex Kühner & Watling SPECIES
 
 #### Status
 ACCEPTED

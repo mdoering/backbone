@@ -1,5 +1,4 @@
-Phialea lacteola (Quél.) Sacc. SPECIES
-=======
+# Phialea lacteola (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

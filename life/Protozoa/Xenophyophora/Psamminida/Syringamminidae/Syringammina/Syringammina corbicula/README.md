@@ -1,5 +1,4 @@
-Syringammina corbicula Richardson, 2001 SPECIES
-=======
+# Syringammina corbicula Richardson, 2001 SPECIES
 
 #### Status
 ACCEPTED

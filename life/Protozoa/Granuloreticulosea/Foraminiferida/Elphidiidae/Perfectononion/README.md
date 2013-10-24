@@ -1,5 +1,4 @@
-Perfectononion GENUS
-=======
+# Perfectononion GENUS
 
 #### Status
 ACCEPTED

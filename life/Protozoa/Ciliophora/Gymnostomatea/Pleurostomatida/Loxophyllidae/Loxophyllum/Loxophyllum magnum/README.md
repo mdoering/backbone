@@ -1,5 +1,4 @@
-Loxophyllum magnum SPECIES
-=======
+# Loxophyllum magnum SPECIES
 
 #### Status
 ACCEPTED

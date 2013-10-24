@@ -1,5 +1,4 @@
-Curviphycus M.S. Yakschin, 1991 GENUS
-=======
+# Curviphycus M.S. Yakschin, 1991 GENUS
 
 #### Status
 ACCEPTED

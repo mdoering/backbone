@@ -1,5 +1,4 @@
-Rhabdospora umbonata (Preuss) Sacc. SPECIES
-=======
+# Rhabdospora umbonata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

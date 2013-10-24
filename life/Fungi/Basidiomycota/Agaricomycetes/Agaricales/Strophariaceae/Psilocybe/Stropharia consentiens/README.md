@@ -1,5 +1,4 @@
-Stropharia consentiens (P. Karst.) Sacc. SPECIES
-=======
+# Stropharia consentiens (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

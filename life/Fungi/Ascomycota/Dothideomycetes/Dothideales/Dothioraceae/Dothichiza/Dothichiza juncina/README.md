@@ -1,5 +1,4 @@
-Dothichiza juncina Speg. SPECIES
-=======
+# Dothichiza juncina Speg. SPECIES
 
 #### Status
 ACCEPTED

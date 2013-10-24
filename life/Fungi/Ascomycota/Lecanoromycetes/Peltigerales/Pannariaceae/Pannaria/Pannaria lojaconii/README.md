@@ -1,5 +1,4 @@
-Pannaria lojaconii (Müll. Arg.) Jatta SPECIES
-=======
+# Pannaria lojaconii (Müll. Arg.) Jatta SPECIES
 
 #### Status
 ACCEPTED

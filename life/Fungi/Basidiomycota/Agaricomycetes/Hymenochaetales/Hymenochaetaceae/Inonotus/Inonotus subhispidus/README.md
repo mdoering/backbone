@@ -1,5 +1,4 @@
-Inonotus subhispidus Pegler & D.A. Reid SPECIES
-=======
+# Inonotus subhispidus Pegler & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

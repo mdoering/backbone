@@ -1,5 +1,4 @@
-Dicaeoma obesisporum Arthur SPECIES
-=======
+# Dicaeoma obesisporum Arthur SPECIES
 
 #### Status
 ACCEPTED

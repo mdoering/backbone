@@ -1,5 +1,4 @@
-Dendrodochium verticillatum Cooke & Massee SPECIES
-=======
+# Dendrodochium verticillatum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

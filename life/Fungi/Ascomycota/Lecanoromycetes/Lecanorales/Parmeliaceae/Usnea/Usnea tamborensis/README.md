@@ -1,8 +1,7 @@
-Usnea hesperina f. tamborensis (Hepp) Zahlbr. FORM
-=======
+# Usnea tamborensis (Hepp) Motyka SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

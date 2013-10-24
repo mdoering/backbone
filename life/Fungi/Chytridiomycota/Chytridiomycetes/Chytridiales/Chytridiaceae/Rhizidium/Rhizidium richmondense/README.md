@@ -1,5 +1,4 @@
-Rhizidium richmondense Willoughby, 1956 SPECIES
-=======
+# Rhizidium richmondense Willoughby, 1956 SPECIES
 
 #### Status
 ACCEPTED

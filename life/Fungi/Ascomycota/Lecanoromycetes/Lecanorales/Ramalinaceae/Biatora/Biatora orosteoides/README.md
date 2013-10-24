@@ -1,5 +1,4 @@
-Biatora orosteoides Räsänen SPECIES
-=======
+# Biatora orosteoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

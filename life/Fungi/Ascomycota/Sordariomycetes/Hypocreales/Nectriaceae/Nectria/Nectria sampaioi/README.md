@@ -1,5 +1,4 @@
-Nectria sampaioi Gonz. Frag. SPECIES
-=======
+# Nectria sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

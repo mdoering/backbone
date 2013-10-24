@@ -1,5 +1,4 @@
-Minutophoma chrysophthalmae D. Hawksw., 1981 SPECIES
-=======
+# Minutophoma chrysophthalmae D. Hawksw., 1981 SPECIES
 
 #### Status
 ACCEPTED

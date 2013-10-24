@@ -1,5 +1,4 @@
-Helotiella herpotrichoides Rehm SPECIES
-=======
+# Helotiella herpotrichoides Rehm SPECIES
 
 #### Status
 ACCEPTED

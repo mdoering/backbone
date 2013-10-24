@@ -1,5 +1,4 @@
-Balsamia Vittadini, 1831 GENUS
-=======
+# Balsamia Vittadini, 1831 GENUS
 
 #### Status
 ACCEPTED

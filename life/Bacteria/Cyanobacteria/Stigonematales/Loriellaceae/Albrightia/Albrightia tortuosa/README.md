@@ -1,5 +1,4 @@
-Albrightia tortuosa Copeland SPECIES
-=======
+# Albrightia tortuosa Copeland SPECIES
 
 #### Status
 ACCEPTED

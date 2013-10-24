@@ -1,5 +1,4 @@
-Hendersonia lophiostomoides Ellis & Barthol. SPECIES
-=======
+# Hendersonia lophiostomoides Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

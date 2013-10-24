@@ -1,5 +1,4 @@
-Inocybe sandrae Zitzmann SPECIES
-=======
+# Inocybe sandrae Zitzmann SPECIES
 
 #### Status
 ACCEPTED

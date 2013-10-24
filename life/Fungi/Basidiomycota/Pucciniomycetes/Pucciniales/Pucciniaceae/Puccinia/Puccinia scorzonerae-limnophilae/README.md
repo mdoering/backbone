@@ -1,5 +1,4 @@
-Puccinia scorzonerae-limnophilae Alé-Agha SPECIES
-=======
+# Puccinia scorzonerae-limnophilae Alé-Agha SPECIES
 
 #### Status
 ACCEPTED

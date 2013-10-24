@@ -1,5 +1,4 @@
-Pseudohypocrea Yoshim. Doi GENUS
-=======
+# Pseudohypocrea Yoshim. Doi GENUS
 
 #### Status
 ACCEPTED

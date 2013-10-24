@@ -1,5 +1,4 @@
-Tricholigotriletum Timofeev, 1959 GENUS
-=======
+# Tricholigotriletum Timofeev, 1959 GENUS
 
 #### Status
 ACCEPTED

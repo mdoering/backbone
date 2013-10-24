@@ -1,5 +1,4 @@
-Leptotrema prevostianum (Mont.) Mont. SPECIES
-=======
+# Leptotrema prevostianum (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

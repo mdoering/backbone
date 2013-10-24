@@ -1,5 +1,4 @@
-Thyridaria ailanthi Rehm SPECIES
-=======
+# Thyridaria ailanthi Rehm SPECIES
 
 #### Status
 ACCEPTED

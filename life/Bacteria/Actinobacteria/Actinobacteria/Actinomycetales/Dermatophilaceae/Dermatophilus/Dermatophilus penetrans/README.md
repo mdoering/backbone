@@ -1,5 +1,4 @@
-Dermatophilus penetrans L. SPECIES
-=======
+# Dermatophilus penetrans L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Siderolithes Montfort, 1808 GENUS
-=======
+# Siderolites Lamarck, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Conch. Syst. , 1, 151, 408.
+Syst. Anim. , 376.
 
 #### Original name
 null

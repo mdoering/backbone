@@ -1,8 +1,7 @@
-Aquaspirillum fasciculus Strength et al., 1976 (Approved Lists, 1980) SPECIES
-=======
+# Prolinoborus fasciculus (Strength et al., 1976) Pot et al., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Balladynopsis pusillima (Syd.) Petr. SPECIES
-=======
+# Balladynopsis pusillima (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria sorghicola E.G. Simmons SPECIES
-=======
+# Alternaria sorghicola E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

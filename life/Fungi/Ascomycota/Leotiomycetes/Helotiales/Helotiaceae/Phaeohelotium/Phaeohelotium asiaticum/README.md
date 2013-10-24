@@ -1,5 +1,4 @@
-Phaeohelotium asiaticum Korf SPECIES
-=======
+# Phaeohelotium asiaticum Korf SPECIES
 
 #### Status
 ACCEPTED

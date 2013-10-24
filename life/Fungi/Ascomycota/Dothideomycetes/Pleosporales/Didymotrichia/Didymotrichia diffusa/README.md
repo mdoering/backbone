@@ -1,5 +1,4 @@
-Didymotrichia diffusa Berl. SPECIES
-=======
+# Didymotrichia diffusa Berl. SPECIES
 
 #### Status
 ACCEPTED

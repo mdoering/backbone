@@ -1,5 +1,4 @@
-Tuberculina paraguayensis Speg. SPECIES
-=======
+# Tuberculina paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

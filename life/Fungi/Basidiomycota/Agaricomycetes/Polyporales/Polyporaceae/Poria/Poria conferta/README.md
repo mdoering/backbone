@@ -1,5 +1,4 @@
-Poria conferta Overh. SPECIES
-=======
+# Poria conferta Overh. SPECIES
 
 #### Status
 ACCEPTED

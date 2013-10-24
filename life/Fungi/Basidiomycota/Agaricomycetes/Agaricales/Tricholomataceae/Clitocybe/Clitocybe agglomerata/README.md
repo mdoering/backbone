@@ -1,5 +1,4 @@
-Clitocybe agglomerata A. Kawam. SPECIES
-=======
+# Clitocybe agglomerata A. Kawam. SPECIES
 
 #### Status
 ACCEPTED

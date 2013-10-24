@@ -1,5 +1,4 @@
-Stictis leucospermi Joanne E. Taylor, Crous & M.E. Palm SPECIES
-=======
+# Stictis leucospermi Joanne E. Taylor, Crous & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

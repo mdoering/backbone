@@ -1,5 +1,4 @@
-Harposporium microsporum Glockling, 1994 SPECIES
-=======
+# Harposporium microsporum Glockling, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanogaster macrosporus Velen. SPECIES
-=======
+# Melanogaster macrosporus Velen. SPECIES
 
 #### Status
 ACCEPTED

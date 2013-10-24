@@ -1,5 +1,4 @@
-Septaria nigricans Schwein. SPECIES
-=======
+# Septaria nigricans Schwein. SPECIES
 
 #### Status
 ACCEPTED

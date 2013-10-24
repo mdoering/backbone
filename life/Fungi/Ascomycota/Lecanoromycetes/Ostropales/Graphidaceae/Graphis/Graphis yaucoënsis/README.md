@@ -1,17 +1,16 @@
-Graphis yaucoensis Fink SPECIES
-=======
+# Graphis yaucoënsis Fink SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 19(4): 213 (1927)
 
 #### Original name
-Graphis yaucoensis Fink
+Graphis yaucoënsis Fink
 
 ### Remarks
 null

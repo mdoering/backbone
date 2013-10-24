@@ -1,5 +1,4 @@
-Stilbella holubovae Seifert, S.J. Stanley & K.D. Hyde SPECIES
-=======
+# Stilbella holubovae Seifert, S.J. Stanley & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

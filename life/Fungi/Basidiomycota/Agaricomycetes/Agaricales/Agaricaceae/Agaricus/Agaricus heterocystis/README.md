@@ -1,5 +1,4 @@
-Agaricus heterocystis Heinem. & Gooss.-Font. SPECIES
-=======
+# Agaricus heterocystis Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula gibberosa Müll. Arg. SPECIES
-=======
+# Strigula gibberosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

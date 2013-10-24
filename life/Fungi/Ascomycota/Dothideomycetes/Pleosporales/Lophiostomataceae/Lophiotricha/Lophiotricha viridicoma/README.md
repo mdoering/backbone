@@ -1,5 +1,4 @@
-Lophiotricha viridicoma (Cooke & Peck) Kauffman SPECIES
-=======
+# Lophiotricha viridicoma (Cooke & Peck) Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moellerodiscus fuscobrunneus (Pat. & Gaillard) Dumont SPECIES
-=======
+# Moellerodiscus fuscobrunneus (Pat. & Gaillard) Dumont SPECIES
 
 #### Status
 ACCEPTED

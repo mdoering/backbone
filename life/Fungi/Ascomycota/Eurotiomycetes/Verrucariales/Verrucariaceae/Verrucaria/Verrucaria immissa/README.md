@@ -1,5 +1,4 @@
-Verrucaria immissa Stirt. SPECIES
-=======
+# Verrucaria immissa Stirt. SPECIES
 
 #### Status
 ACCEPTED

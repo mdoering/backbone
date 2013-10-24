@@ -1,5 +1,4 @@
-Myriotrema concretum (Fée) Hale SPECIES
-=======
+# Myriotrema concretum (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

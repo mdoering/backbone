@@ -1,5 +1,4 @@
-Dactylospora plectocarpoides S.Y. Kondr., D.J. Galloway & D. Hawksw. SPECIES
-=======
+# Dactylospora plectocarpoides S.Y. Kondr., D.J. Galloway & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

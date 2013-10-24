@@ -1,5 +1,4 @@
-Patellaria rufescens Müll. Arg. SPECIES
-=======
+# Patellaria rufescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

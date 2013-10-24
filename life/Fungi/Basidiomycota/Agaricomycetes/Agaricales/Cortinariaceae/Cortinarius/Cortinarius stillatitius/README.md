@@ -1,17 +1,16 @@
-Cortinarius pseudosalor var. pseudosalor VARIETY
-=======
+# Cortinarius stillatitius Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 277 (1838)
 
 #### Original name
-Cortinarius pseudosalor var. pseudosalor
+Cortinarius stillatitius Fr., 1838
 
 ### Remarks
 null

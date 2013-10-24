@@ -1,5 +1,4 @@
-Pseudocercospora pteridis (Siemaszko) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora pteridis (Siemaszko) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

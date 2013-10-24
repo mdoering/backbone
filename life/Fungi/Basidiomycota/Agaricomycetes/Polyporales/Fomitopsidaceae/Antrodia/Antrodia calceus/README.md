@@ -1,17 +1,16 @@
-Poria calcea f. calcea FORM
-=======
+# Antrodia calceus (Fr.) Teixeira, 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Fung. Amer. bor. 448 (1832)
+Revista Brasileira de Botânica 15(2): 125 (1992)
 
 #### Original name
-Poria calcea f. calcea
+Polyporus vulgaris ß calceus Fr.
 
 ### Remarks
 null

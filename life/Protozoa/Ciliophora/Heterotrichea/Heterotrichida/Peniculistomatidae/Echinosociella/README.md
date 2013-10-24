@@ -1,5 +1,4 @@
-Echinosociella Berger in Small & Lynn, 1985 GENUS
-=======
+# Echinosociella Berger in Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

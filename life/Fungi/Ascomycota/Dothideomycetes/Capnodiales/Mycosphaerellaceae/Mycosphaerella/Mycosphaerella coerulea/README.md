@@ -1,5 +1,4 @@
-Mycosphaerella coerulea (Ellis & Everh.) Tracy & Earle SPECIES
-=======
+# Mycosphaerella coerulea (Ellis & Everh.) Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

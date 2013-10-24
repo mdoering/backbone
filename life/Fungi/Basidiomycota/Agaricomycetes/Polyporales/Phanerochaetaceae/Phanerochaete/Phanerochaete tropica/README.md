@@ -1,5 +1,4 @@
-Phanerochaete tropica (Sheng H. Wu) Hjortstam SPECIES
-=======
+# Phanerochaete tropica (Sheng H. Wu) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sepedonium micronemeum Peyronel SPECIES
-=======
+# Sepedonium micronemeum Peyronel SPECIES
 
 #### Status
 ACCEPTED

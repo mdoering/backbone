@@ -1,5 +1,4 @@
-Meliola sydowiana F. Stevens & Larson, 1928 SPECIES
-=======
+# Meliola sydowiana F. Stevens & Larson, 1928 SPECIES
 
 #### Status
 ACCEPTED

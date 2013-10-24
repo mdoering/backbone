@@ -1,5 +1,4 @@
-Inocybe fumosifolia Speg. SPECIES
-=======
+# Inocybe fumosifolia Speg. SPECIES
 
 #### Status
 ACCEPTED

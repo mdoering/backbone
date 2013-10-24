@@ -1,17 +1,16 @@
-Rutstroemia maialis Velen. SPECIES
-=======
+# Rutstroemia majalis Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 230 (1934)
 
 #### Original name
-Rutstroemia maialis Velen.
+Rutstroemia majalis Velen.
 
 ### Remarks
 null

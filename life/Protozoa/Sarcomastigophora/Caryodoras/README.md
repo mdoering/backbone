@@ -1,5 +1,4 @@
-Caryodoras Haeckel, 1881 GENUS
-=======
+# Caryodoras Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

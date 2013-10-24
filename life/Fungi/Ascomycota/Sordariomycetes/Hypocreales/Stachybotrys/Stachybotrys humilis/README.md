@@ -1,5 +1,4 @@
-Stachybotrys humilis Krzemien. & Badura SPECIES
-=======
+# Stachybotrys humilis Krzemien. & Badura SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Robertina bradyi (Cushman & Parker, 1936) SPECIES
-=======
+# Robertinoides bradyi (Cushman & Parker, 1936) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

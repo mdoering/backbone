@@ -1,5 +1,4 @@
-Glomospira fijiensis Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
-=======
+# Glomospira fijiensis Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
 
 #### Status
 ACCEPTED

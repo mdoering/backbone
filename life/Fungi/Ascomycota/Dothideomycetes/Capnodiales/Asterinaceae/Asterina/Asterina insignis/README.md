@@ -1,5 +1,4 @@
-Asterina insignis P. Karst. & Roum. SPECIES
-=======
+# Asterina insignis P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

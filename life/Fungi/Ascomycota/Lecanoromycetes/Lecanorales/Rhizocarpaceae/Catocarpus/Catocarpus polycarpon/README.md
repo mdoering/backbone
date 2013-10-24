@@ -1,5 +1,4 @@
-Catocarpus polycarpon f. polycarpon (Hepp) Arnold FORM
-=======
+# Catocarpus polycarpon (Hepp) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catocarpus polycarpon f. polycarpon (Hepp) Arnold
+null
 
 ### Remarks
 null

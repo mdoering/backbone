@@ -1,5 +1,4 @@
-Aspidiophora Sjöstedt GENUS
-=======
+# Aspidiophora Sjöstedt GENUS
 
 #### Status
 ACCEPTED

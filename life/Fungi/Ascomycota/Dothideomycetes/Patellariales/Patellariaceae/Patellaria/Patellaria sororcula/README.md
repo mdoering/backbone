@@ -1,5 +1,4 @@
-Patellaria sororcula Müll. Arg. SPECIES
-=======
+# Patellaria sororcula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

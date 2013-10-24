@@ -1,5 +1,4 @@
-Strombidium marinum SPECIES
-=======
+# Strombidium marinum SPECIES
 
 #### Status
 ACCEPTED

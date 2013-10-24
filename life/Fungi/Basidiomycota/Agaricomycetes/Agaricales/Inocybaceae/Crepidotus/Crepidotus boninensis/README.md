@@ -1,17 +1,16 @@
-Crepidotus boninensis var. boninensis VARIETY
-=======
+# Crepidotus boninensis (Hongo) E. Horak & Desjardin, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 89: 65 (2004)
 
 #### Original name
-null
+Crepidotus roseus var. boninensis Hongo, 1982
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Astrosphaeriella linguiformis Chi Y. Chen & J.W. Huang, 2006 SPECIES
-=======
+# Astrosphaeriella linguiformis Chi Y. Chen & J.W. Huang, 2006 SPECIES
 
 #### Status
 ACCEPTED

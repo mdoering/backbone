@@ -1,5 +1,4 @@
-Pleurophoma von Höhnel, 1914 GENUS
-=======
+# Pleurophoma von Höhnel, 1914 GENUS
 
 #### Status
 ACCEPTED

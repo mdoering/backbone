@@ -1,5 +1,4 @@
-Mazosia granularis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Mazosia granularis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

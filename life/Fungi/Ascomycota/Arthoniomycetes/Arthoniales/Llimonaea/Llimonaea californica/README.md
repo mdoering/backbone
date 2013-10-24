@@ -1,14 +1,13 @@
-Sclerophyton californicum (Tuck.) Hasse SPECIES
-=======
+# Llimonaea californica (Tuck.) Sparrius SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 12: 101 (1909)
+Biblthca Lichenol. 89: 91 (2004)
 
 #### Original name
 Chiodecton californicum Tuck.

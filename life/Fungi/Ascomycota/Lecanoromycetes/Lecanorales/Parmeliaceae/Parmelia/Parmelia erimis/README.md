@@ -1,5 +1,4 @@
-Parmelia erimis (Nyl.) Hillmann SPECIES
-=======
+# Parmelia erimis (Nyl.) Hillmann SPECIES
 
 #### Status
 ACCEPTED

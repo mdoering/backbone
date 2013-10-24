@@ -1,5 +1,4 @@
-Cuphophyllus rigelliae (Velen.) Bon SPECIES
-=======
+# Cuphophyllus rigelliae (Velen.) Bon SPECIES
 
 #### Status
 ACCEPTED

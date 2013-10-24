@@ -1,5 +1,4 @@
-Acremoniella alascensis R. Sprague SPECIES
-=======
+# Acremoniella alascensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

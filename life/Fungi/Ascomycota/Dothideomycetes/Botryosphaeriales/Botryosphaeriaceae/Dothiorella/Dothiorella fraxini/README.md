@@ -1,5 +1,4 @@
-Dothiorella fraxini Ellis & Everh. SPECIES
-=======
+# Dothiorella fraxini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

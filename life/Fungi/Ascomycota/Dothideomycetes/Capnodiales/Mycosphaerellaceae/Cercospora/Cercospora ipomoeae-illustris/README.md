@@ -1,17 +1,16 @@
-Cercospora ipomoeae-illustriae Chidd. SPECIES
-=======
+# Cercospora ipomoeae-illustris Chidd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 12(2): 114 (1960)
 
 #### Original name
-Cercospora ipomoeae-illustriae Chidd.
+Cercospora ipomoeae-illustris Chidd.
 
 ### Remarks
 null

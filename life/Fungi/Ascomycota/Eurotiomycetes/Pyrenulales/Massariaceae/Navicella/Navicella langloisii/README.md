@@ -1,5 +1,4 @@
-Navicella langloisii (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella langloisii (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

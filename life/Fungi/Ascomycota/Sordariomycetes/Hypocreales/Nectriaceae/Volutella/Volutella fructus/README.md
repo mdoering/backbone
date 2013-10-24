@@ -1,14 +1,13 @@
-Vermicularia fructus (F. Stevens & J.G. Hall) Vassiljevsky SPECIES
-=======
+# Volutella fructus F. Stevens & J.G. Hall SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Fungi Imperfecti Parasitici 2: 351 (1950)
+null
 
 #### Original name
 Volutella fructus F. Stevens & J.G. Hall

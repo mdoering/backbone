@@ -1,5 +1,4 @@
-Rhizopogon oregonensis A.H. Sm. SPECIES
-=======
+# Rhizopogon oregonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

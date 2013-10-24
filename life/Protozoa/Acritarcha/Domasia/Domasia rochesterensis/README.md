@@ -1,5 +1,4 @@
-Domasia rochesterensis Thusu, 1973 SPECIES
-=======
+# Domasia rochesterensis Thusu, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycocarpon S.A. Hutch. GENUS
-=======
+# Mycocarpon S.A. Hutch. GENUS
 
 #### Status
 ACCEPTED

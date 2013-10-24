@@ -1,5 +1,4 @@
-Lanceispora Nakagiri, Okane, Tad. Ito & Katum. GENUS
-=======
+# Lanceispora Nakagiri, Okane, Tad. Ito & Katum. GENUS
 
 #### Status
 ACCEPTED

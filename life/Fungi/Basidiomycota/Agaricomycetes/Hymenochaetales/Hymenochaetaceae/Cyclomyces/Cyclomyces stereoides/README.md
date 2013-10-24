@@ -1,5 +1,4 @@
-Cyclomyces stereoides Sacc. & Paol. SPECIES
-=======
+# Cyclomyces stereoides Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

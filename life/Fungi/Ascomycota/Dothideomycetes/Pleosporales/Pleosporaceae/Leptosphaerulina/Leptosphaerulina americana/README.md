@@ -1,14 +1,13 @@
-Hyalospora americana (Sacc.) Nieuwl., 1916 SPECIES
-=======
+# Leptosphaerulina americana (Ellis & Everh.) J.H. Graham & Luttr., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 4: 377 (1916)
+Phytopathology 51: 686 (1961)
 
 #### Original name
 Pleospora americana Ellis & Everh., 1892

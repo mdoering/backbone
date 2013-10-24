@@ -1,5 +1,4 @@
-Gloniopsis penzigii Paoli SPECIES
-=======
+# Gloniopsis penzigii Paoli SPECIES
 
 #### Status
 ACCEPTED

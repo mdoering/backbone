@@ -1,14 +1,13 @@
-Calonema luteolum Kowalski SPECIES
-=======
+# Perichaena luteola (Kowalski) Gilert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Madroño 20: 229-231 (1970)
+Mycol. Res. 99(3): 315 (1995)
 
 #### Original name
 Calonema luteolum Kowalski

@@ -1,17 +1,16 @@
-Trapelia torellii var. torellii VARIETY
-=======
+# Ainoa mooreana (Carroll) Lumbsch & I. Schmitt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 105(3): 273 (2001)
 
 #### Original name
-Trapelia torellii var. torellii
+Lecidea mooreana Carroll
 
 ### Remarks
 null

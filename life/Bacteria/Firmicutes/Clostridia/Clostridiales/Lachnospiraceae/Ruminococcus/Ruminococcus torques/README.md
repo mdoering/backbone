@@ -1,5 +1,4 @@
-Ruminococcus torques Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Ruminococcus torques Holdeman and Moore, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

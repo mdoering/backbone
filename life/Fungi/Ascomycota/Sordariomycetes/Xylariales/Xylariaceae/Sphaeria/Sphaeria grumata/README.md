@@ -1,5 +1,4 @@
-Sphaeria grumata Cooke & Ellis SPECIES
-=======
+# Sphaeria grumata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

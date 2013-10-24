@@ -1,5 +1,4 @@
-Larssoniella duplicati J. Weiser, J. Holua & Z. ika SPECIES
-=======
+# Larssoniella duplicati J. Weiser, J. Holua & Z. ika SPECIES
 
 #### Status
 ACCEPTED

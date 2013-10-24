@@ -1,5 +1,4 @@
-Lecidea alpestris var. brachyspora I.M. Lamb VARIETY
-=======
+# Lecidea alpestris Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea alpestris var. brachyspora I.M. Lamb
+Lecidea alpestris Th. Fr.
 
 ### Remarks
 null

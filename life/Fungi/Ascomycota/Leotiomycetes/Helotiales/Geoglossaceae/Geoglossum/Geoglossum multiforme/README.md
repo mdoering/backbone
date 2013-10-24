@@ -1,5 +1,4 @@
-Geoglossum multiforme Henn. SPECIES
-=======
+# Geoglossum multiforme Henn. SPECIES
 
 #### Status
 ACCEPTED

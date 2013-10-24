@@ -1,5 +1,4 @@
-Imbricaria adglutinata SPECIES
-=======
+# Imbricaria adglutinata SPECIES
 
 #### Status
 ACCEPTED

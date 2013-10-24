@@ -1,5 +1,4 @@
-Coscinodiscus divisus Grunow, 1878 SPECIES
-=======
+# Coscinodiscus divisus Grunow, 1878 SPECIES
 
 #### Status
 ACCEPTED

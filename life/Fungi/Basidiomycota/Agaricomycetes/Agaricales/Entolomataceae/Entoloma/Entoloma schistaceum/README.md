@@ -1,5 +1,4 @@
-Entoloma schistaceum Mont. SPECIES
-=======
+# Entoloma schistaceum Mont. SPECIES
 
 #### Status
 ACCEPTED

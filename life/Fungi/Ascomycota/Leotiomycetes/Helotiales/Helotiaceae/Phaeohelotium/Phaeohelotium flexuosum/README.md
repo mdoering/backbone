@@ -1,14 +1,13 @@
-Orbilia flexuosa Crossl., 1894 SPECIES
-=======
+# Phaeohelotium flexuosum (Crossl.) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 25(2): 354 (1971)
 
 #### Original name
 Orbilia flexuosa Crossl., 1894

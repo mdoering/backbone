@@ -1,5 +1,4 @@
-Rhabdospora bernardiana Sacc. SPECIES
-=======
+# Rhabdospora bernardiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

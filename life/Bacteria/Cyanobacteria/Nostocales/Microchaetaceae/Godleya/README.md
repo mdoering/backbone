@@ -1,5 +1,4 @@
-Godleya Novis & Visnovsky, 2011 GENUS
-=======
+# Godleya Novis & Visnovsky, 2011 GENUS
 
 #### Status
 ACCEPTED

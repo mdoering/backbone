@@ -1,5 +1,4 @@
-Megalothrix GENUS
-=======
+# Megalothrix GENUS
 
 #### Status
 ACCEPTED

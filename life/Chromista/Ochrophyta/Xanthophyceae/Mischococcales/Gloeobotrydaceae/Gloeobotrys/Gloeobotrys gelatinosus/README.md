@@ -1,5 +1,4 @@
-Gloeobotrys gelatinosus Reisigl SPECIES
-=======
+# Gloeobotrys gelatinosus Reisigl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita dyschromatus E.H.L. Krause SPECIES
-=======
+# Amanita dyschromatus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

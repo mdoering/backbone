@@ -1,5 +1,4 @@
-Hypochnus conspersa Fr. SPECIES
-=======
+# Hypochnus conspersa Fr. SPECIES
 
 #### Status
 ACCEPTED

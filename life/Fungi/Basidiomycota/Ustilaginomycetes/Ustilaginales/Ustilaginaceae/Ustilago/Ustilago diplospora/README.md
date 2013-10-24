@@ -1,5 +1,4 @@
-Ustilago diplospora Ellis & Everh. SPECIES
-=======
+# Ustilago diplospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera biarritzensis Lezaud, 1968 SPECIES
-=======
+# Scyphosphaera biarritzensis Lezaud, 1968 SPECIES
 
 #### Status
 ACCEPTED

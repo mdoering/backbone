@@ -1,5 +1,4 @@
-Cortinarius sulphureomyceliatus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius sulphureomyceliatus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

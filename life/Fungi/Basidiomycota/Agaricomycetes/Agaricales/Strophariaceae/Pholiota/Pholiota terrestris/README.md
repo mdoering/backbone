@@ -1,5 +1,4 @@
-Pholiota terrestris Overh. SPECIES
-=======
+# Pholiota terrestris Overh. SPECIES
 
 #### Status
 ACCEPTED

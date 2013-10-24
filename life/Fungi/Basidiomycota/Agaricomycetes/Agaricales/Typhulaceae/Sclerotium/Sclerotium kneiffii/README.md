@@ -1,5 +1,4 @@
-Sclerotium kneiffii Mussat SPECIES
-=======
+# Sclerotium kneiffii Mussat SPECIES
 
 #### Status
 ACCEPTED

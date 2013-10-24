@@ -1,5 +1,4 @@
-Uromyces kwangsianus Cummins SPECIES
-=======
+# Uromyces kwangsianus Cummins SPECIES
 
 #### Status
 ACCEPTED

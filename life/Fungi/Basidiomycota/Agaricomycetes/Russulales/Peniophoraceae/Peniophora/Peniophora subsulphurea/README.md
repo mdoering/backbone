@@ -1,5 +1,4 @@
-Peniophora subsulphurea (P. Karst.) Höhn. & Litsch. SPECIES
-=======
+# Peniophora subsulphurea (P. Karst.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

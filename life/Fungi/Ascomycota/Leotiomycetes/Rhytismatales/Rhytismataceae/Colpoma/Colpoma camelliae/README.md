@@ -1,5 +1,4 @@
-Colpoma camelliae (Teng) Teng SPECIES
-=======
+# Colpoma camelliae (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

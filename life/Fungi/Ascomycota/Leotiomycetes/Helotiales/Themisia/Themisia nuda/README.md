@@ -1,5 +1,4 @@
-Themisia nuda Velen., 1939 SPECIES
-=======
+# Themisia nuda Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

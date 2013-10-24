@@ -1,5 +1,4 @@
-Phomopsis calophacae (Henn.) Died. SPECIES
-=======
+# Phomopsis calophacae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

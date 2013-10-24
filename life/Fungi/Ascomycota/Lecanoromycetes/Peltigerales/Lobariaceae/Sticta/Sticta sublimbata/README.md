@@ -1,5 +1,4 @@
-Sticta sublimbata (J. Steiner) Swinscow & Krog SPECIES
-=======
+# Sticta sublimbata (J. Steiner) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

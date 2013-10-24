@@ -1,5 +1,4 @@
-Staurothele chlorospora Zahlbr. SPECIES
-=======
+# Staurothele chlorospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

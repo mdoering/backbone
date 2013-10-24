@@ -1,5 +1,4 @@
-Helicobolomyces lichenicola Matzer SPECIES
-=======
+# Helicobolomyces lichenicola Matzer SPECIES
 
 #### Status
 ACCEPTED

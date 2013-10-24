@@ -1,5 +1,4 @@
-Emericella montenegroi Y. Horie, Miyaji & Nishim., 1996 SPECIES
-=======
+# Emericella montenegroi Y. Horie, Miyaji & Nishim., 1996 SPECIES
 
 #### Status
 ACCEPTED

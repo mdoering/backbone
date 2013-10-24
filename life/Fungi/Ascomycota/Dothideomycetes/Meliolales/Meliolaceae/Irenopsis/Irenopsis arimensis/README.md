@@ -1,5 +1,4 @@
-Irenopsis arimensis Hansf. SPECIES
-=======
+# Irenopsis arimensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

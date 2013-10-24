@@ -1,5 +1,4 @@
-Meliola sansevieriae Wakef. SPECIES
-=======
+# Meliola sansevieriae Wakef. SPECIES
 
 #### Status
 ACCEPTED

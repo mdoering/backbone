@@ -1,5 +1,4 @@
-Leptostroma vestitae Seym. & F. Patt. SPECIES
-=======
+# Leptostroma vestitae Seym. & F. Patt. SPECIES
 
 #### Status
 ACCEPTED

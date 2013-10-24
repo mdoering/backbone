@@ -1,5 +1,4 @@
-Discosia biciliata Gonz. Frag. SPECIES
-=======
+# Discosia biciliata Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonytrichum ypsilosporum Hol.-Jech. SPECIES
-=======
+# Gonytrichum ypsilosporum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

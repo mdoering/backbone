@@ -1,5 +1,4 @@
-Pyronema aurantiorubrum Fuckel SPECIES
-=======
+# Pyronema aurantiorubrum Fuckel SPECIES
 
 #### Status
 ACCEPTED

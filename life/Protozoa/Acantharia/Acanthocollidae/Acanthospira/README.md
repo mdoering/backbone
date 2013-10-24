@@ -1,5 +1,4 @@
-Acanthospira Schewiakoff, 1926 GENUS
-=======
+# Acanthospira Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spinifera Amaro, 1966 GENUS
-=======
+# Spinifera Amaro, 1966 GENUS
 
 #### Status
 ACCEPTED

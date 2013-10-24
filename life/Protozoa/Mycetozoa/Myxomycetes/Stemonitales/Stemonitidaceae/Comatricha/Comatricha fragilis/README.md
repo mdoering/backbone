@@ -1,17 +1,16 @@
-Comatricha laxa var. microspora Meyl. VARIETY
-=======
+# Comatricha fragilis Meyl., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de la Société Vaudoise des Sciences Naturelles 46: 50 (1910)
+Bull. Soc. Vaud. Sci. Nat. 56: 70 (1925)
 
 #### Original name
-Comatricha laxa var. microspora Meyl.
+Comatricha fragilis Meyl., 1925
 
 ### Remarks
 null

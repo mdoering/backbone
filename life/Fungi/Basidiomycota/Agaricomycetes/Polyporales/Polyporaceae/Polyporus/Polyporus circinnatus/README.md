@@ -1,5 +1,4 @@
-Polyporus circinnatus Morgan SPECIES
-=======
+# Polyporus circinnatus Morgan SPECIES
 
 #### Status
 ACCEPTED

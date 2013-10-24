@@ -1,5 +1,4 @@
-Lepiota hetieriana Locq. SPECIES
-=======
+# Lepiota hetieriana Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russuliopsis laricina Velen. SPECIES
-=======
+# Russuliopsis laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

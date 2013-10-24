@@ -1,5 +1,4 @@
-Psathyrella furfurella Berk. & Broome SPECIES
-=======
+# Psathyrella furfurella Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariopsis submyochroa (Clem.) Murrill SPECIES
-=======
+# Volvariopsis submyochroa (Clem.) Murrill SPECIES
 
 #### Status
 ACCEPTED

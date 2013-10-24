@@ -1,5 +1,4 @@
-Thelidiopsis mangiferae Räsänen SPECIES
-=======
+# Thelidiopsis mangiferae Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stannophyllum venosum Haeckel, 1889 SPECIES
-=======
+# Stannophyllum venosum Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

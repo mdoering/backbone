@@ -1,5 +1,4 @@
-Xylaria aurantiaca Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria aurantiaca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

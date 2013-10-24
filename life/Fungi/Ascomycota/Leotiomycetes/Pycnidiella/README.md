@@ -1,5 +1,4 @@
-Pycnidiella Höhn. GENUS
-=======
+# Pycnidiella Höhn. GENUS
 
 #### Status
 ACCEPTED

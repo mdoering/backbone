@@ -1,17 +1,16 @@
-Aphanomyces polysporis Milovtz. SPECIES
-=======
+# Aphanomyces polysporus Milovtz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trudi Institutu Botaniki Kharkiv 1: 36 (1936)
 
 #### Original name
-Aphanomyces polysporis Milovtz.
+Aphanomyces polysporus Milovtz.
 
 ### Remarks
 null

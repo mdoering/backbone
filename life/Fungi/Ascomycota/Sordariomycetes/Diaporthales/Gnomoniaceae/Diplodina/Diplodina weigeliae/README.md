@@ -1,5 +1,4 @@
-Diplodina weigeliae Hollós SPECIES
-=======
+# Diplodina weigeliae Hollós SPECIES
 
 #### Status
 ACCEPTED

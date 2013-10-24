@@ -1,5 +1,4 @@
-Clavariella crispula (Fr.) P. Karst. SPECIES
-=======
+# Clavariella crispula (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

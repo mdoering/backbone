@@ -1,5 +1,4 @@
-Phaeoramularia bauhiniae S.K. Singh, Bhalla & Kamal SPECIES
-=======
+# Phaeoramularia bauhiniae S.K. Singh, Bhalla & Kamal SPECIES
 
 #### Status
 ACCEPTED

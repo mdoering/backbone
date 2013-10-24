@@ -1,17 +1,16 @@
-Peronospora holostei Casp. SPECIES
-=======
+# Peronospora holostii Casp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rabenhorst, Herb. myc. 2: 774 (1854)
 
 #### Original name
-Peronospora holostei Casp.
+Peronospora holostii Casp.
 
 ### Remarks
 null

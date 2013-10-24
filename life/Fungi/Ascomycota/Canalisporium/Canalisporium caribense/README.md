@@ -1,14 +1,13 @@
-Berkleasmium caribense Hol.-Jech. & Mercado, 1984 SPECIES
-=======
+# Canalisporium caribense (Hol.-Jech. & Mercado) Nawawi & Kuthub., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 38(2): 99 (1984)
+Mycotaxon 34(2): 479 (1989)
 
 #### Original name
 Berkleasmium caribense Hol.-Jech. & Mercado, 1984

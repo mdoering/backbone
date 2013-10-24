@@ -1,5 +1,4 @@
-Contortothrix J.W. Schopf, 1968 GENUS
-=======
+# Contortothrix J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

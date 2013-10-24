@@ -1,5 +1,4 @@
-Diplodia weyhei Staritz SPECIES
-=======
+# Diplodia weyhei Staritz SPECIES
 
 #### Status
 ACCEPTED

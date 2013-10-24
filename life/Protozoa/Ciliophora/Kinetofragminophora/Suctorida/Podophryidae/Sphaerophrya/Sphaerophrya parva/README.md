@@ -1,5 +1,4 @@
-Sphaerophrya parva Greeff, 1888 SPECIES
-=======
+# Sphaerophrya parva Greeff, 1888 SPECIES
 
 #### Status
 ACCEPTED

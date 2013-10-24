@@ -1,5 +1,4 @@
-Epispathidium securiforme subsp. securiforme SUBSPECIES
-=======
+# Epispathidium securiforme SPECIES
 
 #### Status
 ACCEPTED

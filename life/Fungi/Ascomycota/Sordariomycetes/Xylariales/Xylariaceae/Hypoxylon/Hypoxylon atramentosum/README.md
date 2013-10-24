@@ -1,5 +1,4 @@
-Hypoxylon atramentosum (Fr.) Sacc. SPECIES
-=======
+# Hypoxylon atramentosum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

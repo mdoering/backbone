@@ -1,5 +1,4 @@
-Cyphella nivea P. Crouan & H. Crouan SPECIES
-=======
+# Cyphella nivea P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

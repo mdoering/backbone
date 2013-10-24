@@ -1,5 +1,4 @@
-Adornofusa microhapsis Loeblich & Tappan, 1978 SPECIES
-=======
+# Adornofusa microhapsis Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

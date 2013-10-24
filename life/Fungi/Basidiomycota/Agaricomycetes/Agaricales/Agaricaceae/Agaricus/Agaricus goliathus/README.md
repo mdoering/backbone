@@ -1,5 +1,4 @@
-Agaricus goliathus Berk. SPECIES
-=======
+# Agaricus goliathus Berk. SPECIES
 
 #### Status
 ACCEPTED

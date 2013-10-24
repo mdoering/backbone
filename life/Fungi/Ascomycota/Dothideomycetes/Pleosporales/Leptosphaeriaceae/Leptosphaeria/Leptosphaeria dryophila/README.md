@@ -1,5 +1,4 @@
-Leptosphaeria dryophila (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Leptosphaeria dryophila (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium ignobile P. Karst. SPECIES
-=======
+# Macrosporium ignobile P. Karst. SPECIES
 
 #### Status
 ACCEPTED

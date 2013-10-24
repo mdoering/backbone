@@ -1,5 +1,4 @@
-Leiosphaeridia jacutica (Timofeev, 1966) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia jacutica (Timofeev, 1966) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

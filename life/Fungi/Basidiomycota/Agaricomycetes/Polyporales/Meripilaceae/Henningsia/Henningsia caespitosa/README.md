@@ -1,5 +1,4 @@
-Henningsia caespitosa Peck SPECIES
-=======
+# Henningsia caespitosa Peck SPECIES
 
 #### Status
 ACCEPTED

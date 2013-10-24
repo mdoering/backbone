@@ -1,5 +1,4 @@
-Phaeographis arthonioides (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis arthonioides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

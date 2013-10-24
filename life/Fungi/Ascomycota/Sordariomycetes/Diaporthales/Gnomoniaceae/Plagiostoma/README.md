@@ -1,17 +1,16 @@
-Chalcosphaeria Höhn. GENUS
-=======
+# Plagiostoma Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 35: 636 (1917)
+Jb. nassau. Ver. Naturk. 23-24: 118 (1870)
 
 #### Original name
-Chalcosphaeria Höhn.
+Plagiostoma Fuckel, 1870
 
 ### Remarks
 null

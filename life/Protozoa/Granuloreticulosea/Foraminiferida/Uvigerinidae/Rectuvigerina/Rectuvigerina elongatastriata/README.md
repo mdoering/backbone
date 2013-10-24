@@ -1,5 +1,4 @@
-Rectuvigerina elongatastriata (Colom, 1952) SPECIES
-=======
+# Rectuvigerina elongatastriata (Colom, 1952) SPECIES
 
 #### Status
 ACCEPTED

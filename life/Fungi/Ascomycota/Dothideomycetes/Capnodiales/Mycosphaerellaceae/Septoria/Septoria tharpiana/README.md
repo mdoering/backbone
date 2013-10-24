@@ -1,5 +1,4 @@
-Septoria tharpiana Trotter SPECIES
-=======
+# Septoria tharpiana Trotter SPECIES
 
 #### Status
 ACCEPTED

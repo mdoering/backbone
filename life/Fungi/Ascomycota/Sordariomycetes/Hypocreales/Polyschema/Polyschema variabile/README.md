@@ -1,17 +1,16 @@
-Polyschema variabilis D.P. Tiwari, P.D. Agrawal & B. Sutton SPECIES
-=======
+# Polyschema variabile D.P. Tiwari, P.D. Agrawal & B. Sutton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 69(3): 514 (1977)
 
 #### Original name
-Polyschema variabilis D.P. Tiwari, P.D. Agrawal & B. Sutton
+Polyschema variabile D.P. Tiwari, P.D. Agrawal & B. Sutton
 
 ### Remarks
 null

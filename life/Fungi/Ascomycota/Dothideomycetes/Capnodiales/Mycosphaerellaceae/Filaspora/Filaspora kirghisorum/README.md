@@ -1,5 +1,4 @@
-Filaspora kirghisorum (Sacc.) Kuntze SPECIES
-=======
+# Filaspora kirghisorum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

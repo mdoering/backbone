@@ -1,5 +1,4 @@
-Peziza psammobia Rifai SPECIES
-=======
+# Peziza psammobia Rifai SPECIES
 
 #### Status
 ACCEPTED

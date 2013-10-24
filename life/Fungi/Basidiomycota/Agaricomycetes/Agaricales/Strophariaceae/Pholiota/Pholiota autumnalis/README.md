@@ -1,5 +1,4 @@
-Pholiota autumnalis Peck SPECIES
-=======
+# Pholiota autumnalis Peck SPECIES
 
 #### Status
 ACCEPTED

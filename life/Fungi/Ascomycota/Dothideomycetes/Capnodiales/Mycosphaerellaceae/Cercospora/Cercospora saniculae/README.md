@@ -1,5 +1,4 @@
-Cercospora saniculae Davis SPECIES
-=======
+# Cercospora saniculae Davis SPECIES
 
 #### Status
 ACCEPTED

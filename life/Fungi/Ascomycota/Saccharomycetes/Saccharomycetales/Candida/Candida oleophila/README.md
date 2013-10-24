@@ -1,17 +1,16 @@
-Candida rignihuensis C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida oleophila Montrocher, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 32: 73 (1967)
 
 #### Original name
-null
+Candida oleophila Montrocher, 1967
 
 ### Remarks
 null

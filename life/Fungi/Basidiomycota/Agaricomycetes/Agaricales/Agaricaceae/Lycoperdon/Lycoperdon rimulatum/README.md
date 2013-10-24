@@ -1,5 +1,4 @@
-Lycoperdon rimulatum Peck SPECIES
-=======
+# Lycoperdon rimulatum Peck SPECIES
 
 #### Status
 ACCEPTED

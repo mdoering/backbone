@@ -1,5 +1,4 @@
-Diplodia poterii Politis SPECIES
-=======
+# Diplodia poterii Politis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora geicola Petr. SPECIES
-=======
+# Rhabdospora geicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus albofimbriata Trog SPECIES
-=======
+# Agaricus albofimbriata Trog SPECIES
 
 #### Status
 ACCEPTED

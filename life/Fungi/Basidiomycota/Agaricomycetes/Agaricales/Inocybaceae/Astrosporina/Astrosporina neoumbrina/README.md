@@ -1,5 +1,4 @@
-Astrosporina neoumbrina (Kobayasi) E. Horak SPECIES
-=======
+# Astrosporina neoumbrina (Kobayasi) E. Horak SPECIES
 
 #### Status
 ACCEPTED

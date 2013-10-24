@@ -1,5 +1,4 @@
-Urceolaria areolata Nyl. SPECIES
-=======
+# Urceolaria areolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

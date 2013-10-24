@@ -1,5 +1,4 @@
-Lisiella GENUS
-=======
+# Lisiella GENUS
 
 #### Status
 ACCEPTED

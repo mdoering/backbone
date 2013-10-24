@@ -1,5 +1,4 @@
-Leucocoprinus noctiphilus (Ellis) Heinem. SPECIES
-=======
+# Leucocoprinus noctiphilus (Ellis) Heinem. SPECIES
 
 #### Status
 ACCEPTED

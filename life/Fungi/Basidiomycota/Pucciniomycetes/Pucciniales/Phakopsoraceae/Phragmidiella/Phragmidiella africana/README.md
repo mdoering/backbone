@@ -1,14 +1,13 @@
-Physopella africana (Cummins) Cummins & Ramachar, 1959 SPECIES
-=======
+# Phragmidiella africana Cummins, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(5): 742 (1959)
+Bull. Torrey bot. Club 79(215): 1952 (1952)
 
 #### Original name
 Phragmidiella africana Cummins, 1952

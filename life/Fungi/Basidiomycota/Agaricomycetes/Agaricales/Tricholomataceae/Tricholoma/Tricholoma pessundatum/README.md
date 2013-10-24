@@ -1,17 +1,16 @@
-Tricholoma pessundatum var. pessundatum VARIETY
-=======
+# Tricholoma pessundatum (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mém. Soc. Émul. Montbéliard, Sér. 2 5: 77 (1872)
 
 #### Original name
-Tricholoma pessundatum var. pessundatum
+Agaricus pessundatus Fr., 1821
 
 ### Remarks
 null

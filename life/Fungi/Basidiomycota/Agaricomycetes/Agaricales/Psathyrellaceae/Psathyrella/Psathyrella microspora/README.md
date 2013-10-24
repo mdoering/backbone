@@ -1,5 +1,4 @@
-Psathyrella microspora (S. Imai) Hongo SPECIES
-=======
+# Psathyrella microspora (S. Imai) Hongo SPECIES
 
 #### Status
 ACCEPTED

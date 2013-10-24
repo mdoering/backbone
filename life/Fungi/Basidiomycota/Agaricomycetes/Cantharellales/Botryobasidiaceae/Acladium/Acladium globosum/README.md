@@ -1,5 +1,4 @@
-Acladium globosum Wallr. SPECIES
-=======
+# Acladium globosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

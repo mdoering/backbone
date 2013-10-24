@@ -1,5 +1,4 @@
-Ichthyophonus gasterophilus (Caullery & Mesnil) V. Sprague {?} SPECIES
-=======
+# Ichthyophonus gasterophilus (Caullery & Mesnil) V. Sprague {?} SPECIES
 
 #### Status
 ACCEPTED

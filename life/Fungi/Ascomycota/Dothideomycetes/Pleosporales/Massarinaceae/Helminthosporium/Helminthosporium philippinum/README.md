@@ -1,17 +1,16 @@
-Helmisporium philippinum Sacc. SPECIES
-=======
+# Helminthosporium philippinum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 10: 89 (1917)
 
 #### Original name
-Helmisporium philippinum Sacc.
+Helminthosporium philippinum Sacc.
 
 ### Remarks
 null

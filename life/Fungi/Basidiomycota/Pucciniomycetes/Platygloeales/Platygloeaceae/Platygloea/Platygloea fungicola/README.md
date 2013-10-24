@@ -1,5 +1,4 @@
-Platygloea fungicola var. fungicola VARIETY
-=======
+# Platygloea fungicola L.S. Olive SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 85: 11 (1958)
 
 #### Original name
-Platygloea fungicola var. fungicola
+Platygloea fungicola L.S. Olive
 
 ### Remarks
 null

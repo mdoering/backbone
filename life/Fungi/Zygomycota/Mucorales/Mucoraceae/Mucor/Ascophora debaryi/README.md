@@ -1,5 +1,4 @@
-Ascophora debaryi Bonord. SPECIES
-=======
+# Ascophora debaryi Bonord. SPECIES
 
 #### Status
 ACCEPTED

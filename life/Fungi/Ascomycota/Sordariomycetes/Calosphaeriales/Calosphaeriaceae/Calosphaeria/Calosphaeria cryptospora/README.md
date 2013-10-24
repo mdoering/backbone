@@ -1,5 +1,4 @@
-Calosphaeria cryptospora Munk SPECIES
-=======
+# Calosphaeria cryptospora Munk SPECIES
 
 #### Status
 ACCEPTED

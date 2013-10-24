@@ -1,5 +1,4 @@
-Sandarakinorhabdus limnophila Gich & Overmann, 2006 SPECIES
-=======
+# Sandarakinorhabdus limnophila Gich & Overmann, 2006 SPECIES
 
 #### Status
 ACCEPTED

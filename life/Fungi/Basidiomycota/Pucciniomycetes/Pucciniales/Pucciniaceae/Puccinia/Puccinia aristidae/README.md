@@ -1,17 +1,16 @@
-Puccinia aristidae var. aristidae VARIETY
-=======
+# Puccinia aristidae Tracy, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 7(3): 281 (1893)
 
 #### Original name
-Puccinia aristidae var. aristidae
+Puccinia aristidae Tracy, 1893
 
 ### Remarks
 null

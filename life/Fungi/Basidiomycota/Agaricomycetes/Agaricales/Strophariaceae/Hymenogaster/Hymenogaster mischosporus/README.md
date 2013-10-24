@@ -1,5 +1,4 @@
-Hymenogaster mischosporus Soehner SPECIES
-=======
+# Hymenogaster mischosporus Soehner SPECIES
 
 #### Status
 ACCEPTED

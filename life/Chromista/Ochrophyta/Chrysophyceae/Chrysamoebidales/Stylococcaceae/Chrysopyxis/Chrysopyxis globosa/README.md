@@ -1,5 +1,4 @@
-Chrysopyxis globosa Pascher SPECIES
-=======
+# Chrysopyxis globosa Pascher SPECIES
 
 #### Status
 ACCEPTED

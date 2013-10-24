@@ -1,5 +1,4 @@
-Physarum hypnophilum Fr. SPECIES
-=======
+# Physarum hypnophilum Fr. SPECIES
 
 #### Status
 ACCEPTED

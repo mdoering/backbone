@@ -1,5 +1,4 @@
-Lachnum lupini Velen. SPECIES
-=======
+# Lachnum lupini Velen. SPECIES
 
 #### Status
 ACCEPTED

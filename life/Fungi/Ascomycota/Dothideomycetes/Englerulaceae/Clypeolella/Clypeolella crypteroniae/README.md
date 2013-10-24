@@ -1,5 +1,4 @@
-Clypeolella crypteroniae Hansf. SPECIES
-=======
+# Clypeolella crypteroniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

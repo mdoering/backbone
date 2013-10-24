@@ -1,5 +1,4 @@
-Pertusaria flavocorallina Coppins & Muhr SPECIES
-=======
+# Pertusaria flavocorallina Coppins & Muhr SPECIES
 
 #### Status
 ACCEPTED

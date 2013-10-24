@@ -1,5 +1,4 @@
-Graphis pelletieri (Fée) Spreng. SPECIES
-=======
+# Graphis pelletieri (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

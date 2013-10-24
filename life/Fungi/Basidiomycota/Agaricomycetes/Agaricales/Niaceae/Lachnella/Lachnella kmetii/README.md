@@ -1,5 +1,4 @@
-Lachnella kmetii Rehm SPECIES
-=======
+# Lachnella kmetii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acinetella Yankovskii, 1978 GENUS
-=======
+# Acinetella Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

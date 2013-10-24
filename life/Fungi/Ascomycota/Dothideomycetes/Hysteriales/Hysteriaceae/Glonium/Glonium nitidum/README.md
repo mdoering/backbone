@@ -1,14 +1,13 @@
-Actidium nitidum (Ellis) H. Zogg, 1960 SPECIES
-=======
+# Glonium nitidum Ellis, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. schweiz. bot. Ges. 70: 195-205 (1960)
+Grevillea 8(no. 45): 12 (1879)
 
 #### Original name
 Glonium nitidum Ellis, 1879

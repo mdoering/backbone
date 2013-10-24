@@ -1,5 +1,4 @@
-Eimeria raiarum van den Berghe, 1937 SPECIES
-=======
+# Eimeria raiarum van den Berghe, 1937 SPECIES
 
 #### Status
 ACCEPTED

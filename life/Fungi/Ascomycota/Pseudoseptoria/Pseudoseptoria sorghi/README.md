@@ -1,5 +1,4 @@
-Pseudoseptoria sorghi Lavrov SPECIES
-=======
+# Pseudoseptoria sorghi Lavrov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema intermedium De Wildeman SPECIES
-=======
+# Scytonema intermedium De Wildeman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urnula torrendii var. torrendii VARIETY
-=======
+# Urnula torrendii Boud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Urnula torrendii var. torrendii
+Urnula torrendii Boud.
 
 ### Remarks
 null

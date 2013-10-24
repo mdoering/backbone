@@ -1,5 +1,4 @@
-Polystigma bumeliae (Schwein.) Sacc., 1883 SPECIES
-=======
+# Polystigma bumeliae (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

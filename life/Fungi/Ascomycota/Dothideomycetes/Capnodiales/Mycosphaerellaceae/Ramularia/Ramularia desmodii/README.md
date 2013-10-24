@@ -1,17 +1,16 @@
-Ramularia desmodii var. desmodii VARIETY
-=======
+# Ramularia desmodii Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 39 (1878)
 
 #### Original name
-Ramularia desmodii var. desmodii
+Ramularia desmodii Cooke, 1878
 
 ### Remarks
 null

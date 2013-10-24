@@ -1,5 +1,4 @@
-Tremella mycophaga var. mycophaga G.W. Martin VARIETY
-=======
+# Tremella mycophaga G.W. Martin SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32(6): 686 (1940)
 
 #### Original name
-Tremella mycophaga var. mycophaga G.W. Martin
+Tremella mycophaga G.W. Martin
 
 ### Remarks
 null

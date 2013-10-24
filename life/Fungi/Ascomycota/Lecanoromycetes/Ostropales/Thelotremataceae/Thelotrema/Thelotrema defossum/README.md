@@ -1,17 +1,16 @@
-Ocellularia defossa Müll. Arg. SPECIES
-=======
+# Thelotrema defossum (Müll. Arg.) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 21: 221 (2008)
 
 #### Original name
-null
+Ocellularia defossa Müll. Arg.
 
 ### Remarks
 null

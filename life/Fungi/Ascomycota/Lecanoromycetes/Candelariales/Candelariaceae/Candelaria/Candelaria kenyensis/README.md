@@ -1,5 +1,4 @@
-Candelaria kenyensis C.W. Dodge SPECIES
-=======
+# Candelaria kenyensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

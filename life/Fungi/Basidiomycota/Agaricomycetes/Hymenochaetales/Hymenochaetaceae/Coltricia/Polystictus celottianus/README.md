@@ -1,5 +1,4 @@
-Polystictus celottianus Sacc. & Mancini SPECIES
-=======
+# Polystictus celottianus Sacc. & Mancini SPECIES
 
 #### Status
 ACCEPTED

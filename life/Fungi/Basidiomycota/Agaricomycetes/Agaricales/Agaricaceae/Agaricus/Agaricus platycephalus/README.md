@@ -1,5 +1,4 @@
-Agaricus platycephalus Pers. SPECIES
-=======
+# Agaricus platycephalus Pers. SPECIES
 
 #### Status
 ACCEPTED

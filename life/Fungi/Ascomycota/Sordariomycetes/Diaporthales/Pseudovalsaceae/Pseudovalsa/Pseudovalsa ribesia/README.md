@@ -1,5 +1,4 @@
-Pseudovalsa ribesia Sacc. & Scalia SPECIES
-=======
+# Pseudovalsa ribesia Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

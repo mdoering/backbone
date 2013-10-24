@@ -1,5 +1,4 @@
-Involucrothele fulloensis (Servít) Servít SPECIES
-=======
+# Involucrothele fulloensis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

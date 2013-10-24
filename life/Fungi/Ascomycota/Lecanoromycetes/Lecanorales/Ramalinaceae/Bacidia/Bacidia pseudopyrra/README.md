@@ -1,5 +1,4 @@
-Bacidia pseudopyrra C. Knight SPECIES
-=======
+# Bacidia pseudopyrra C. Knight SPECIES
 
 #### Status
 ACCEPTED

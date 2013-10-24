@@ -1,5 +1,4 @@
-Fuscopannaria coralloidea P. M. Jørg. SPECIES
-=======
+# Fuscopannaria coralloidea P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

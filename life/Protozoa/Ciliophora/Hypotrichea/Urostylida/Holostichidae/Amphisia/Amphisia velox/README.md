@@ -1,5 +1,4 @@
-Amphisia velox SPECIES
-=======
+# Amphisia velox SPECIES
 
 #### Status
 ACCEPTED

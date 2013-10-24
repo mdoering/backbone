@@ -1,8 +1,7 @@
-Tomasellia cinchonarum Müll. Arg. SPECIES
-=======
+# Celothelium cinchonarum (Müll. Arg.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Verrucaria socialis Zenker
 
 ### Remarks
 null

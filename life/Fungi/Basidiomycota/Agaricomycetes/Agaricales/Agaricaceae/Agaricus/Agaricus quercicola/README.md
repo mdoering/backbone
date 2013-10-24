@@ -1,5 +1,4 @@
-Agaricus quercicola Lasch SPECIES
-=======
+# Agaricus quercicola Lasch SPECIES
 
 #### Status
 ACCEPTED

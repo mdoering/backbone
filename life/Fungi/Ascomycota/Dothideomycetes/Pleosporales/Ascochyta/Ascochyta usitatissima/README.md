@@ -1,5 +1,4 @@
-Ascochyta usitatissima Rothers SPECIES
-=======
+# Ascochyta usitatissima Rothers SPECIES
 
 #### Status
 ACCEPTED

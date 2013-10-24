@@ -1,5 +1,4 @@
-Collema glaucinum Hue SPECIES
-=======
+# Collema glaucinum Hue SPECIES
 
 #### Status
 ACCEPTED

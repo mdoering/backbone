@@ -1,5 +1,4 @@
-Amanita cordae Velen. SPECIES
-=======
+# Amanita cordae Velen. SPECIES
 
 #### Status
 ACCEPTED

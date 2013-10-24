@@ -1,5 +1,4 @@
-Boletopsis corrugatus Pat. & C.F. Baker SPECIES
-=======
+# Boletopsis corrugatus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

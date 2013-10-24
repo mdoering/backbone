@@ -1,5 +1,4 @@
-Euantennaria caulicola S. Hughes, 1974 SPECIES
-=======
+# Euantennaria caulicola S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

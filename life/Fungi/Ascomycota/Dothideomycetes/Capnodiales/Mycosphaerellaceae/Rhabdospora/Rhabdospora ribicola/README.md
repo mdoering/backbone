@@ -1,5 +1,4 @@
-Rhabdospora ribicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora ribicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

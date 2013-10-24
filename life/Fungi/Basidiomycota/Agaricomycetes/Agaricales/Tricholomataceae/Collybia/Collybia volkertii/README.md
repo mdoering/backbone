@@ -1,5 +1,4 @@
-Collybia volkertii (Murrill) Murrill SPECIES
-=======
+# Collybia volkertii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

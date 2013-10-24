@@ -1,5 +1,4 @@
-Amanita polypyramis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Amanita polypyramis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

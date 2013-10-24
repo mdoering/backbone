@@ -1,5 +1,4 @@
-Myriotrema maximum (Hale) Hale SPECIES
-=======
+# Myriotrema maximum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

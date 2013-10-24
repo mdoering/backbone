@@ -1,5 +1,4 @@
-Epistylis cordylophorae SPECIES
-=======
+# Epistylis cordylophorae SPECIES
 
 #### Status
 ACCEPTED

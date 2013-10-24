@@ -1,5 +1,4 @@
-Danea abbreviata S. P. Damassa SPECIES
-=======
+# Danea abbreviata S. P. Damassa SPECIES
 
 #### Status
 ACCEPTED

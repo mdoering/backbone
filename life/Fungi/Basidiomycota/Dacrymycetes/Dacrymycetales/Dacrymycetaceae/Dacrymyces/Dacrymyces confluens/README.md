@@ -1,5 +1,4 @@
-Dacrymyces confluens P. Karst. SPECIES
-=======
+# Dacrymyces confluens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

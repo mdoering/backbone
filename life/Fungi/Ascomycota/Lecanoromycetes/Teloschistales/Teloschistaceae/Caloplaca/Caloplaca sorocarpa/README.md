@@ -1,5 +1,4 @@
-Caloplaca sorocarpa (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca sorocarpa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quadraditum scutiferum Deunff, 1966 SPECIES
-=======
+# Quadraditum scutiferum Deunff, 1966 SPECIES
 
 #### Status
 ACCEPTED

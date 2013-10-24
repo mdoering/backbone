@@ -1,5 +1,4 @@
-Dirinaria isidiophora (Abbayes) C.W. Dodge SPECIES
-=======
+# Dirinaria isidiophora (Abbayes) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia substrepsilis Sandst. ex Zahlbr. SPECIES
-=======
+# Cladonia substrepsilis Sandst. ex Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

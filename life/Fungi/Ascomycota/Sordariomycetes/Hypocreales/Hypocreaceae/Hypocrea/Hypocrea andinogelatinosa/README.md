@@ -1,5 +1,4 @@
-Hypocrea andinogelatinosa Yoshim. Doi SPECIES
-=======
+# Hypocrea andinogelatinosa Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

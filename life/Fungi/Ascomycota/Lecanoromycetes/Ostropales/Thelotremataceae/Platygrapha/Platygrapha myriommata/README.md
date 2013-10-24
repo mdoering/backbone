@@ -1,5 +1,4 @@
-Platygrapha myriommata C. Knight SPECIES
-=======
+# Platygrapha myriommata C. Knight SPECIES
 
 #### Status
 ACCEPTED

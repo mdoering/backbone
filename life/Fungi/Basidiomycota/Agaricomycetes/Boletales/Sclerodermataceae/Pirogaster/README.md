@@ -1,5 +1,4 @@
-Pirogaster GENUS
-=======
+# Pirogaster GENUS
 
 #### Status
 ACCEPTED

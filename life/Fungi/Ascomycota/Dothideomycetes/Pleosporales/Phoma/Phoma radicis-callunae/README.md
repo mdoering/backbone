@@ -1,17 +1,16 @@
-Phoma suecica J.F.H. Beyma, 1942 SPECIES
-=======
+# Phoma radicis-callunae R.W. Rayner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 8: 110 (1942)
+null
 
 #### Original name
-Phoma suecica J.F.H. Beyma, 1942
+Phoma radicis-callunae R.W. Rayner
 
 ### Remarks
 null

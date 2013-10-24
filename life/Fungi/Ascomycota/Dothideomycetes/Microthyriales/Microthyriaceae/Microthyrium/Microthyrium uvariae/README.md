@@ -1,5 +1,4 @@
-Microthyrium uvariae Henn. SPECIES
-=======
+# Microthyrium uvariae Henn. SPECIES
 
 #### Status
 ACCEPTED

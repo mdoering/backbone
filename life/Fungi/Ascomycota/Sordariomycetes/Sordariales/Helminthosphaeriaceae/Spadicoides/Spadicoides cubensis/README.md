@@ -1,5 +1,4 @@
-Spadicoides cubensis Hol.-Jech. SPECIES
-=======
+# Spadicoides cubensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

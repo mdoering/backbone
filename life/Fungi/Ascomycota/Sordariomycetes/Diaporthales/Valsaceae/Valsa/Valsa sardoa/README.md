@@ -1,5 +1,4 @@
-Valsa sardoa Sacc. & Traverso SPECIES
-=======
+# Valsa sardoa Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

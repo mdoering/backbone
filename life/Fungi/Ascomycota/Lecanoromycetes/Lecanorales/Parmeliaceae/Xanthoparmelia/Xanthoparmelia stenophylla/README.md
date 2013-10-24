@@ -1,5 +1,4 @@
-Xanthoparmelia stenophylla (Ach.) Ahti & D. Hawksw. SPECIES
-=======
+# Xanthoparmelia stenophylla (Ach.) Ahti & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

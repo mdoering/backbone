@@ -1,5 +1,4 @@
-Chaetomella lignicola Sacc. SPECIES
-=======
+# Chaetomella lignicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

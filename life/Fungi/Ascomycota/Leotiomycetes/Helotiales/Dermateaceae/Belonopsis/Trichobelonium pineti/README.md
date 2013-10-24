@@ -1,5 +1,4 @@
-Trichobelonium pineti Batsch SPECIES
-=======
+# Trichobelonium pineti Batsch SPECIES
 
 #### Status
 ACCEPTED

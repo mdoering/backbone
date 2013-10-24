@@ -1,5 +1,4 @@
-Asteromella inulae Petr. SPECIES
-=======
+# Asteromella inulae Petr. SPECIES
 
 #### Status
 ACCEPTED

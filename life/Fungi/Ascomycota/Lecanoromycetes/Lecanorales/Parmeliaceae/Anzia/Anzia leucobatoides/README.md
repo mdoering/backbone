@@ -1,5 +1,4 @@
-Anzia leucobatoides (Nyl.) Zahlbr. SPECIES
-=======
+# Anzia leucobatoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

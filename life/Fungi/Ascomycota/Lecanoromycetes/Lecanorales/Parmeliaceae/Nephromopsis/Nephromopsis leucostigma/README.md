@@ -1,5 +1,4 @@
-Nephromopsis leucostigma (Lév.) A. Thell & Randlane SPECIES
-=======
+# Nephromopsis leucostigma (Lév.) A. Thell & Randlane SPECIES
 
 #### Status
 ACCEPTED

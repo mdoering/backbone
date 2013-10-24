@@ -1,5 +1,4 @@
-Amphisorus kudakaijamaensis (Gudmundson, 1994) SPECIES
-=======
+# Amphisorus kudakaijamaensis (Gudmundson, 1994) SPECIES
 
 #### Status
 ACCEPTED

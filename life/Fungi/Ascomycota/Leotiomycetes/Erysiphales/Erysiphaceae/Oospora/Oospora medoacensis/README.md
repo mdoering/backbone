@@ -1,5 +1,4 @@
-Oospora medoacensis Sacc. SPECIES
-=======
+# Oospora medoacensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

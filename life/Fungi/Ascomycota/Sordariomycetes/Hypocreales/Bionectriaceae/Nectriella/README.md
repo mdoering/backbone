@@ -1,17 +1,16 @@
-Stylonectriella Höhn. GENUS
-=======
+# Nectriella Nitschke ex Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 124: 53 (1915)
+Jb. nassau. Ver. Naturk. 23-24: 175 (1870)
 
 #### Original name
-Stylonectriella Höhn.
+Nectriella Nitschke ex Fuckel, 1870
 
 ### Remarks
 null

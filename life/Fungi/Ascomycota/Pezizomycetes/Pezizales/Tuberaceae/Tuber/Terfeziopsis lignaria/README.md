@@ -1,5 +1,4 @@
-Terfeziopsis lignaria Harkn. SPECIES
-=======
+# Terfeziopsis lignaria Harkn. SPECIES
 
 #### Status
 ACCEPTED

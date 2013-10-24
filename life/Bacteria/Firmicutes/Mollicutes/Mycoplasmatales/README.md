@@ -1,5 +1,4 @@
-Mycoplasmatales Freundt, 1955 ORDER
-=======
+# Mycoplasmatales Freundt, 1955 ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia pseudodirecta W.G. Sm. SPECIES
-=======
+# Omphalia pseudodirecta W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

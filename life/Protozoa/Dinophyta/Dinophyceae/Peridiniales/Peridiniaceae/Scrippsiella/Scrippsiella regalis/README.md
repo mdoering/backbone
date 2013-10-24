@@ -1,5 +1,4 @@
-Scrippsiella regalis (K. R. Gaarder) D. Janofske SPECIES
-=======
+# Scrippsiella regalis (K. R. Gaarder) D. Janofske SPECIES
 
 #### Status
 ACCEPTED

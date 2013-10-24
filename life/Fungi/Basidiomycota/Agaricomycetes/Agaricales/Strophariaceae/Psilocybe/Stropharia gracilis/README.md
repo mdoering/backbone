@@ -1,5 +1,4 @@
-Stropharia gracilis Boedijn SPECIES
-=======
+# Stropharia gracilis Boedijn SPECIES
 
 #### Status
 ACCEPTED

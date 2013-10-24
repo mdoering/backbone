@@ -1,5 +1,4 @@
-Cortinarius fragrans A.H. Sm. SPECIES
-=======
+# Cortinarius fragrans A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

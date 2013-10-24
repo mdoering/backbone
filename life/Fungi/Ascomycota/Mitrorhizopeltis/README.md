@@ -1,5 +1,4 @@
-Mitrorhizopeltis GENUS
-=======
+# Mitrorhizopeltis GENUS
 
 #### Status
 ACCEPTED

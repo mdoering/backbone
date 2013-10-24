@@ -1,5 +1,4 @@
-Pyrenochaeta romeroi Borelli, 1959 SPECIES
-=======
+# Pyrenochaeta romeroi Borelli, 1959 SPECIES
 
 #### Status
 ACCEPTED

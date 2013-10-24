@@ -1,5 +1,4 @@
-Sphaeria euphorea Fr. SPECIES
-=======
+# Sphaeria euphorea Fr. SPECIES
 
 #### Status
 ACCEPTED

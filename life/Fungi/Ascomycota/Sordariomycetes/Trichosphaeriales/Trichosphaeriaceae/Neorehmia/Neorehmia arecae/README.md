@@ -1,5 +1,4 @@
-Neorehmia arecae (Syd.) Samuels & M.E. Barr SPECIES
-=======
+# Neorehmia arecae (Syd.) Samuels & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

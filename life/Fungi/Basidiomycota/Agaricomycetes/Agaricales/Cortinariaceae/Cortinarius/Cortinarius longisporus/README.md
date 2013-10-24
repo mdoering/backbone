@@ -1,5 +1,4 @@
-Cortinarius longisporus Beller SPECIES
-=======
+# Cortinarius longisporus Beller SPECIES
 
 #### Status
 ACCEPTED

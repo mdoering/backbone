@@ -1,5 +1,4 @@
-Dacrymyces candidus Mont. SPECIES
-=======
+# Dacrymyces candidus Mont. SPECIES
 
 #### Status
 ACCEPTED

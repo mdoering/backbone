@@ -1,5 +1,4 @@
-Sticta insinuans Nyl. SPECIES
-=======
+# Sticta insinuans Nyl. SPECIES
 
 #### Status
 ACCEPTED

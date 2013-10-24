@@ -1,5 +1,4 @@
-Dermatocarpon guepinii (Delise) Tuck. SPECIES
-=======
+# Dermatocarpon guepinii (Delise) Tuck. SPECIES
 
 #### Status
 ACCEPTED

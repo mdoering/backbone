@@ -1,5 +1,4 @@
-Leptonia lappula (Fr.) Quél. SPECIES
-=======
+# Leptonia lappula (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

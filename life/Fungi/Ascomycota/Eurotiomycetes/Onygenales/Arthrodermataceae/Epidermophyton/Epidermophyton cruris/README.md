@@ -1,8 +1,7 @@
-Epidermophyton crutis (Castell.) Castell. SPECIES
-=======
+# Epidermophyton cruris (Castell.) Castell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

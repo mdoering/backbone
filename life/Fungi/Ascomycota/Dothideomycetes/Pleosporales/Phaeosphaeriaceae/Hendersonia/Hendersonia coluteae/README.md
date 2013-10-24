@@ -1,5 +1,4 @@
-Hendersonia coluteae Peck & G.P. Clinton SPECIES
-=======
+# Hendersonia coluteae Peck & G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

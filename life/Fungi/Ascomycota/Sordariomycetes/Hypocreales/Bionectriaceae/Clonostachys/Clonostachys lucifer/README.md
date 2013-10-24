@@ -1,5 +1,4 @@
-Clonostachys lucifer Schroers & Samuels SPECIES
-=======
+# Clonostachys lucifer Schroers & Samuels SPECIES
 
 #### Status
 ACCEPTED

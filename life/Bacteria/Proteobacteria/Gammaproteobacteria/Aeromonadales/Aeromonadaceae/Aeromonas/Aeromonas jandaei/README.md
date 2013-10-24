@@ -1,5 +1,4 @@
-Aeromonas jandaei Carnahan et al., 1992 SPECIES
-=======
+# Aeromonas jandaei Carnahan et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

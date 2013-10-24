@@ -1,5 +1,4 @@
-Macrophoma secalina Tehon SPECIES
-=======
+# Macrophoma secalina Tehon SPECIES
 
 #### Status
 ACCEPTED

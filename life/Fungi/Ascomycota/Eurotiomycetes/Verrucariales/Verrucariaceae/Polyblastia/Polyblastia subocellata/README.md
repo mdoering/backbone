@@ -1,5 +1,4 @@
-Polyblastia subocellata Th. Fr. SPECIES
-=======
+# Polyblastia subocellata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

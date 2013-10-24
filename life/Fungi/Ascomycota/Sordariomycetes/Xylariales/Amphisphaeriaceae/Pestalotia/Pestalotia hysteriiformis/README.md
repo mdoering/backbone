@@ -1,5 +1,4 @@
-Pestalotia hysteriiformis Berk. & M.A. Curtis SPECIES
-=======
+# Pestalotia hysteriiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

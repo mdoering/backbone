@@ -1,5 +1,4 @@
-Eggerella europeum (Christensen, 1958) SPECIES
-=======
+# Eggerella europeum (Christensen, 1958) SPECIES
 
 #### Status
 ACCEPTED

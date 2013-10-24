@@ -1,5 +1,4 @@
-Aspicilia gibbosula (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia gibbosula (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

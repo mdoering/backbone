@@ -1,5 +1,4 @@
-Leptopuccinia synedrellae (Henn.) Syd. SPECIES
-=======
+# Leptopuccinia synedrellae (Henn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

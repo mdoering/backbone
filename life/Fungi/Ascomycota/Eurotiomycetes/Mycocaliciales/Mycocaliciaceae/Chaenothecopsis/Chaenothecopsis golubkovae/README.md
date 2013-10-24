@@ -1,5 +1,4 @@
-Chaenothecopsis golubkovae Tibell & Titov SPECIES
-=======
+# Chaenothecopsis golubkovae Tibell & Titov SPECIES
 
 #### Status
 ACCEPTED

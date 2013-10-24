@@ -1,5 +1,4 @@
-Licnophora macfarlandi Stevens, 1904 SPECIES
-=======
+# Licnophora macfarlandi Stevens, 1904 SPECIES
 
 #### Status
 ACCEPTED

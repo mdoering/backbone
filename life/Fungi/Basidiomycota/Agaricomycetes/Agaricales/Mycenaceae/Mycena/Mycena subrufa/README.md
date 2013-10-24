@@ -1,5 +1,4 @@
-Mycena subrufa Raithelh. SPECIES
-=======
+# Mycena subrufa Raithelh. SPECIES
 
 #### Status
 ACCEPTED

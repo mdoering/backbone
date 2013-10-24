@@ -1,5 +1,4 @@
-Fossil Prototaxaceae FAMILY
-=======
+# Fossil Prototaxaceae FAMILY
 
 #### Status
 ACCEPTED

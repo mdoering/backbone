@@ -1,5 +1,4 @@
-Dicaeoma balsamorhizae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma balsamorhizae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

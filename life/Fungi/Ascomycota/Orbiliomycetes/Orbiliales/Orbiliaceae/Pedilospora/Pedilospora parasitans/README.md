@@ -1,5 +1,4 @@
-Pedilospora parasitans Höhn. SPECIES
-=======
+# Pedilospora parasitans Höhn. SPECIES
 
 #### Status
 ACCEPTED

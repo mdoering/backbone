@@ -1,5 +1,4 @@
-Cerotelium allaeanthi Syd. SPECIES
-=======
+# Cerotelium allaeanthi Syd. SPECIES
 
 #### Status
 ACCEPTED

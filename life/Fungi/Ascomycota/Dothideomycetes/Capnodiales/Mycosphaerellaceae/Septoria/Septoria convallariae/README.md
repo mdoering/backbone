@@ -1,5 +1,4 @@
-Septoria convallariae Westend. SPECIES
-=======
+# Septoria convallariae Westend. SPECIES
 
 #### Status
 ACCEPTED

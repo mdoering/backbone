@@ -1,5 +1,4 @@
-Samara undulata Arn. SPECIES
-=======
+# Samara undulata Arn. SPECIES
 
 #### Status
 ACCEPTED

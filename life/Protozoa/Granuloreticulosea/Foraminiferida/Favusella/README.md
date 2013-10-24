@@ -1,5 +1,4 @@
-Favusella Michael, 1973 GENUS
-=======
+# Favusella Michael, 1973 GENUS
 
 #### Status
 ACCEPTED

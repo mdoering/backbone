@@ -1,5 +1,4 @@
-Cantharellus inconspicuus Corner SPECIES
-=======
+# Cantharellus inconspicuus Corner SPECIES
 
 #### Status
 ACCEPTED

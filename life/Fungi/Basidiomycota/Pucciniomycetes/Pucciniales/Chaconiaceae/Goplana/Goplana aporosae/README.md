@@ -1,5 +1,4 @@
-Goplana aporosae Racib., 1909 SPECIES
-=======
+# Goplana aporosae Racib., 1909 SPECIES
 
 #### Status
 ACCEPTED

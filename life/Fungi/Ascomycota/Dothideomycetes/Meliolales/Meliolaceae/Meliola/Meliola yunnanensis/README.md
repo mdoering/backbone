@@ -1,5 +1,4 @@
-Meliola yunnanensis G.Z. Jiang SPECIES
-=======
+# Meliola yunnanensis G.Z. Jiang SPECIES
 
 #### Status
 ACCEPTED

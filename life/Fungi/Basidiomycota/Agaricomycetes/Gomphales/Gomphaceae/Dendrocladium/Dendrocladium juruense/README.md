@@ -1,5 +1,4 @@
-Dendrocladium juruense (Henn.) Lloyd SPECIES
-=======
+# Dendrocladium juruense (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

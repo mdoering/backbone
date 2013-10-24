@@ -1,5 +1,4 @@
-Sphaerographium lignicola Naumov {?} SPECIES
-=======
+# Sphaerographium lignicola Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

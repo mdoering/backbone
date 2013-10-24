@@ -1,5 +1,4 @@
-Nosema bombycis Nägeli SPECIES
-=======
+# Nosema bombycis Nägeli SPECIES
 
 #### Status
 ACCEPTED

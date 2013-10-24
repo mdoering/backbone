@@ -1,5 +1,4 @@
-Sphaeria plagarum Cooke & Harkn. SPECIES
-=======
+# Sphaeria plagarum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

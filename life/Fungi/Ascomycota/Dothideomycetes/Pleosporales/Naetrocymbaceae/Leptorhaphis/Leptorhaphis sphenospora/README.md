@@ -1,5 +1,4 @@
-Leptorhaphis sphenospora (Nyl.) Arnold SPECIES
-=======
+# Leptorhaphis sphenospora (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

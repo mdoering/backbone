@@ -1,5 +1,4 @@
-Verrucaria omegensis SPECIES
-=======
+# Verrucaria omegensis SPECIES
 
 #### Status
 ACCEPTED

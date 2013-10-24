@@ -1,5 +1,4 @@
-Astrosphaeriella australiensis K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella australiensis K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

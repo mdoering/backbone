@@ -1,5 +1,4 @@
-Geosmithia fassatiae M. Kolarík, Kubátová & Paoutová SPECIES
-=======
+# Geosmithia fassatiae M. Kolarík, Kubátová & Paoutová SPECIES
 
 #### Status
 ACCEPTED

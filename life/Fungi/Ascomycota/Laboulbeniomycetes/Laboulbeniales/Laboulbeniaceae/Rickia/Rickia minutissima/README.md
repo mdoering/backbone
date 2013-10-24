@@ -1,5 +1,4 @@
-Rickia minutissima K. Sugiy. & Hiroy. Yamam. SPECIES
-=======
+# Rickia minutissima K. Sugiy. & Hiroy. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium phyllophilum Nirenberg & O'Donnell, 1998 SPECIES
-=======
+# Fusarium phyllophilum Nirenberg & O'Donnell, 1998 SPECIES
 
 #### Status
 ACCEPTED

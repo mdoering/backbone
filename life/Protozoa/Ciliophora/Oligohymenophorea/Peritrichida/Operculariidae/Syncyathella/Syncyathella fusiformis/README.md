@@ -1,5 +1,4 @@
-Syncyathella fusiformis (Gong, 1989) Jankowski, 1992 SPECIES
-=======
+# Syncyathella fusiformis (Gong, 1989) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

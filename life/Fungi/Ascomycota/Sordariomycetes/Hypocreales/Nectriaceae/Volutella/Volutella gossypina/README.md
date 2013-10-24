@@ -1,5 +1,4 @@
-Volutella gossypina Pat. SPECIES
-=======
+# Volutella gossypina Pat. SPECIES
 
 #### Status
 ACCEPTED

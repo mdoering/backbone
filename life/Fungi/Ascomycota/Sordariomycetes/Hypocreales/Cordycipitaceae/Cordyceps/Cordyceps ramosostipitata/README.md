@@ -1,5 +1,4 @@
-Cordyceps ramosostipitata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ramosostipitata Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

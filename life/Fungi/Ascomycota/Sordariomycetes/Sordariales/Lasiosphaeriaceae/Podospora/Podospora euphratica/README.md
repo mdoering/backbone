@@ -1,5 +1,4 @@
-Podospora euphratica Abdullah SPECIES
-=======
+# Podospora euphratica Abdullah SPECIES
 
 #### Status
 ACCEPTED

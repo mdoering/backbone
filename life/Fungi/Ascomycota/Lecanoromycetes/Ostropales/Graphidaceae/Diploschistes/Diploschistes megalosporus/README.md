@@ -1,5 +1,4 @@
-Diploschistes megalosporus Lumbsch & H. Mayrhofer SPECIES
-=======
+# Diploschistes megalosporus Lumbsch & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

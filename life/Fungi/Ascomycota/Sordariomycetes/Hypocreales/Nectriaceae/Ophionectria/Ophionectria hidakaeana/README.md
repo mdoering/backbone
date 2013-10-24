@@ -1,5 +1,4 @@
-Ophionectria hidakaeana I. Hino & Katum. SPECIES
-=======
+# Ophionectria hidakaeana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

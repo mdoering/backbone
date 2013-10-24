@@ -1,14 +1,13 @@
-Omphalia gracilipes (Britzelm.) Sacc. & Traverso, 1911 SPECIES
-=======
+# Fayodia gracilipes (Britzelm.) Bresinsky & Stangl, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 20: 223 (1911)
+Z. Pilzk. 40(1-2): 73 (1974)
 
 #### Original name
 Agaricus gracilipes Britzelm., 1898

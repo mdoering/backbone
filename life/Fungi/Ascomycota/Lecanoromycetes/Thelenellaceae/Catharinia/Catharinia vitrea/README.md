@@ -1,5 +1,4 @@
-Catharinia vitrea (Rostr.) Sacc. SPECIES
-=======
+# Catharinia vitrea (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

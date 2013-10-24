@@ -1,17 +1,16 @@
-Puccinia asperulae-aparines Picb. SPECIES
-=======
+# Puccinia asperulae-aparinis Picb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 8: 320 (1938)
 
 #### Original name
-Puccinia asperulae-aparines Picb.
+Puccinia asperulae-aparinis Picb.
 
 ### Remarks
 null

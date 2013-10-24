@@ -1,5 +1,4 @@
-Dendrodochium clavipes Penz. & Sacc. SPECIES
-=======
+# Dendrodochium clavipes Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

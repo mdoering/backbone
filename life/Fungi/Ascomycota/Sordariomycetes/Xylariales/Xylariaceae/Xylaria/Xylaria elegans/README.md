@@ -1,5 +1,4 @@
-Xylaria elegans Syd. {?} SPECIES
-=======
+# Xylaria elegans Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

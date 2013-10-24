@@ -1,5 +1,4 @@
-Tuburcinia muscaridis (Niessl) Liro SPECIES
-=======
+# Tuburcinia muscaridis (Niessl) Liro SPECIES
 
 #### Status
 ACCEPTED

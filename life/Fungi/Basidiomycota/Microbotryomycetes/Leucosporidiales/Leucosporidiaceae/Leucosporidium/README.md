@@ -1,5 +1,4 @@
-Leucosporidium Fell, Statzell, I.L. Hunter & Phaff GENUS
-=======
+# Leucosporidium Fell, Statzell, I.L. Hunter & Phaff GENUS
 
 #### Status
 ACCEPTED

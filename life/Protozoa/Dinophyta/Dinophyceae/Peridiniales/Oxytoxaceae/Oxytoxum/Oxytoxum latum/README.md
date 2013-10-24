@@ -1,5 +1,4 @@
-Oxytoxum latum Gaarder SPECIES
-=======
+# Oxytoxum latum Gaarder SPECIES
 
 #### Status
 ACCEPTED

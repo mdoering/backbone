@@ -1,5 +1,4 @@
-Cystophora grevillei (C. Agardh ex Sonder) J. Agardh SPECIES
-=======
+# Cystophora grevillei (C. Agardh ex Sonder) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

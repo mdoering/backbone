@@ -1,5 +1,4 @@
-Clostridium saccharoperbutylacetonicum Keis et al., 2001 SPECIES
-=======
+# Clostridium saccharoperbutylacetonicum Keis et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

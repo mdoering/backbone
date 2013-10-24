@@ -1,5 +1,4 @@
-Lutypha Khurana, K.S. Thind & Berthier GENUS
-=======
+# Lutypha Khurana, K.S. Thind & Berthier GENUS
 
 #### Status
 ACCEPTED

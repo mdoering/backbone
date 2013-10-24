@@ -1,5 +1,4 @@
-Buellia arborea Coppins & Tønsberg SPECIES
-=======
+# Buellia arborea Coppins & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

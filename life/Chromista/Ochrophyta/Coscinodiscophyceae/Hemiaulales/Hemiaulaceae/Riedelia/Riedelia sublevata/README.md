@@ -1,5 +1,4 @@
-Riedelia sublevata J. Fenner SPECIES
-=======
+# Riedelia sublevata J. Fenner SPECIES
 
 #### Status
 ACCEPTED

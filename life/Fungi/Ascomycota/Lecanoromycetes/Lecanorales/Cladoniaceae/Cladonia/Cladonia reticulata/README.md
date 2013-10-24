@@ -1,5 +1,4 @@
-Cladonia reticulata f. reticulata FORM
-=======
+# Cladonia reticulata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia reticulata f. reticulata
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tyromyces inodermatus Corner, 1989 SPECIES
-=======
+# Tyromyces inodermatus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

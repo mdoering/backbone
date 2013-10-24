@@ -1,5 +1,4 @@
-Akomachra perilla Colbath, 1979 SPECIES
-=======
+# Akomachra perilla Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora coloradensis Orton, 1944 SPECIES
-=======
+# Phyllachora coloradensis Orton, 1944 SPECIES
 
 #### Status
 ACCEPTED

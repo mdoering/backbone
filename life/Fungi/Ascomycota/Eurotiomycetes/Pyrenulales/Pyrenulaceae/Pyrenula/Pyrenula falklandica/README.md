@@ -1,5 +1,4 @@
-Pyrenula falklandica (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula falklandica (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

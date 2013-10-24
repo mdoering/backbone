@@ -1,5 +1,4 @@
-Trypethelium endochryseum (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium endochryseum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

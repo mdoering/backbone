@@ -1,17 +1,16 @@
-Ustilago candollei berkeleyana Tul. & C. Tul., 1847 INFRASPECIFIC_NAME
-=======
+# Sphacelotheca polygoni-serrulati Maire, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. Hist. nat. Afr. N. 8: 74 (1917)
 
 #### Original name
-null
+Sphacelotheca polygoni-serrulati Maire, 1917
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola ganophyni F. Stevens & Roldan ex Hansf. SPECIES
-=======
+# Meliola ganophyni F. Stevens & Roldan ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

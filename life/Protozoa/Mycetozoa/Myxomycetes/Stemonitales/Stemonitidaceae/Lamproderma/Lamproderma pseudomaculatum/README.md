@@ -1,5 +1,4 @@
-Lamproderma pseudomaculatum Mar.Mey. & Poulain, 1995 SPECIES
-=======
+# Lamproderma pseudomaculatum Mar.Mey. & Poulain, 1995 SPECIES
 
 #### Status
 ACCEPTED

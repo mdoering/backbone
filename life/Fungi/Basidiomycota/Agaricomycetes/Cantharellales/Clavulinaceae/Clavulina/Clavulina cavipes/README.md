@@ -1,17 +1,16 @@
-Clavulina cavipes var. cavipes Corner VARIETY
-=======
+# Clavulina cavipes Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ann. Bot. Mem. 1: 692 (1950)
 
 #### Original name
-Clavulina cavipes var. cavipes Corner
+Clavulina cavipes Corner, 1950
 
 ### Remarks
 null

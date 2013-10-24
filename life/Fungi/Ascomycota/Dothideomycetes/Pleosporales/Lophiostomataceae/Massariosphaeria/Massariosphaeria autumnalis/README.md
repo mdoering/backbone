@@ -1,5 +1,4 @@
-Massariosphaeria autumnalis Crivelli, 1983 SPECIES
-=======
+# Massariosphaeria autumnalis Crivelli, 1983 SPECIES
 
 #### Status
 ACCEPTED

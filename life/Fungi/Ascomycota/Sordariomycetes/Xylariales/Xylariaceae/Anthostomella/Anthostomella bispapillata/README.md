@@ -1,5 +1,4 @@
-Anthostomella bispapillata H.Y. Yip SPECIES
-=======
+# Anthostomella bispapillata H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

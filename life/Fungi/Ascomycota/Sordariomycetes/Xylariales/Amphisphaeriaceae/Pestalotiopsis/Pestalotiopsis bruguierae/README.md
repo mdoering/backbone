@@ -1,5 +1,4 @@
-Pestalotiopsis bruguierae Purkay. & A.K. Pal bis SPECIES
-=======
+# Pestalotiopsis bruguierae Purkay. & A.K. Pal bis SPECIES
 
 #### Status
 ACCEPTED

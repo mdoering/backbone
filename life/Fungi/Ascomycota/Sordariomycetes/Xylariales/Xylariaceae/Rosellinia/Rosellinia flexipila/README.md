@@ -1,5 +1,4 @@
-Rosellinia flexipila Sacc. SPECIES
-=======
+# Rosellinia flexipila Sacc. SPECIES
 
 #### Status
 ACCEPTED

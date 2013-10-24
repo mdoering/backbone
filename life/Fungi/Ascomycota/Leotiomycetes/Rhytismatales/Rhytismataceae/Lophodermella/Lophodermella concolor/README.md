@@ -1,14 +1,13 @@
-Hypodermella montivaga f. concolor Dearn., 1926 FORM
-=======
+# Lophodermella concolor (Dearn.) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 18(5): 242 (1926)
+Can. J. Bot. 45: 1425 (1967)
 
 #### Original name
 Hypodermella montivaga f. concolor Dearn., 1926

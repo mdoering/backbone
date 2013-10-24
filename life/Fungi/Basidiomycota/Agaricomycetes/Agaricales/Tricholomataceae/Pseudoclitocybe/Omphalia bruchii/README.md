@@ -1,5 +1,4 @@
-Omphalia bruchii Speg. SPECIES
-=======
+# Omphalia bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chloridella minuta P. Gayral & J. Seizilles de Mazancourt SPECIES
-=======
+# Chloridella minuta P. Gayral & J. Seizilles de Mazancourt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia duranii J.F. Hennen, León-Gall. & Cummins SPECIES
-=======
+# Puccinia duranii J.F. Hennen, León-Gall. & Cummins SPECIES
 
 #### Status
 ACCEPTED

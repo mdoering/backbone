@@ -1,5 +1,4 @@
-Mycena waralya Grgur. SPECIES
-=======
+# Mycena waralya Grgur. SPECIES
 
 #### Status
 ACCEPTED

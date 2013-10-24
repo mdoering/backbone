@@ -1,5 +1,4 @@
-Leptostromella graminis Grove SPECIES
-=======
+# Leptostromella graminis Grove SPECIES
 
 #### Status
 ACCEPTED

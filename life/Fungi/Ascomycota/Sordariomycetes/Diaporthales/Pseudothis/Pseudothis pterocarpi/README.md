@@ -1,5 +1,4 @@
-Pseudothis pterocarpi (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
-=======
+# Pseudothis pterocarpi (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina roscida var. roscida VARIETY
-=======
+# Rinodina roscida (Sommerf.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina roscida var. roscida
+Lecanora roscida Sommerf.
 
 ### Remarks
 null

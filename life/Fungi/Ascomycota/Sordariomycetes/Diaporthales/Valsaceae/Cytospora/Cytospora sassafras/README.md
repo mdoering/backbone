@@ -1,5 +1,4 @@
-Cytospora sassafras Ellis & Everh. SPECIES
-=======
+# Cytospora sassafras Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

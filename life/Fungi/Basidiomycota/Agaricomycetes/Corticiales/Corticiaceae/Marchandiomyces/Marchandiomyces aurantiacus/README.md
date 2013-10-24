@@ -1,14 +1,13 @@
-Illosporium aurantiacum Lasch, 1859 SPECIES
-=======
+# Marchandiomyces aurantiacus (Lasch) Diederich & Etayo, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Bot. Zeitschr. 304 (1859)
+in Etayo & Diederich, Mycotaxon 60: 421 (1996)
 
 #### Original name
 Illosporium aurantiacum Lasch, 1859

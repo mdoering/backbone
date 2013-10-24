@@ -1,5 +1,4 @@
-Elaeomyxa australiensis (S.L. Stephenson, G. Moreno & H. Singer) G. Moreno, H. Singer & S.L. Stephenson, 2008 SPECIES
-=======
+# Elaeomyxa australiensis (S.L. Stephenson, G. Moreno & H. Singer) G. Moreno, H. Singer & S.L. Stephenson, 2008 SPECIES
 
 #### Status
 ACCEPTED

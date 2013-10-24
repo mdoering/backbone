@@ -1,5 +1,4 @@
-Flammula pallida Murrill SPECIES
-=======
+# Flammula pallida Murrill SPECIES
 
 #### Status
 ACCEPTED

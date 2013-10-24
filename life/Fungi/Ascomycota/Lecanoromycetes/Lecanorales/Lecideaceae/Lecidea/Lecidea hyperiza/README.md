@@ -1,5 +1,4 @@
-Lecidea hyperiza Stirt. SPECIES
-=======
+# Lecidea hyperiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

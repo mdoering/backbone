@@ -1,8 +1,7 @@
-Cytodiplospora robiniae Bubák SPECIES
-=======
+# Pleomassaria robiniae Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytodiplospora robiniae Bubák
+Pleomassaria robiniae Bubák
 
 ### Remarks
 null

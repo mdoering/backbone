@@ -1,5 +1,4 @@
-Scolicotrichum dalbergiae Henn. SPECIES
-=======
+# Scolicotrichum dalbergiae Henn. SPECIES
 
 #### Status
 ACCEPTED

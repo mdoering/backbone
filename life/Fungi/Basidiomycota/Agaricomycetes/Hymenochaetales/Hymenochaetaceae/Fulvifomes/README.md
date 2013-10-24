@@ -1,5 +1,4 @@
-Fulvifomes GENUS
-=======
+# Fulvifomes GENUS
 
 #### Status
 ACCEPTED

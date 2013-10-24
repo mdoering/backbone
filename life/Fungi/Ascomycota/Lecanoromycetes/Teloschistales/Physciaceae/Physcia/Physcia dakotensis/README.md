@@ -1,5 +1,4 @@
-Physcia dakotensis Essl. SPECIES
-=======
+# Physcia dakotensis Essl. SPECIES
 
 #### Status
 ACCEPTED

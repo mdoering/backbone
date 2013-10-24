@@ -1,5 +1,4 @@
-Fomesporites taiwanensis T.C. Huang SPECIES
-=======
+# Fomesporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

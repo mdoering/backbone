@@ -1,5 +1,4 @@
-Phyllopsora schizophylla (Malme) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora schizophylla (Malme) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textella Mikhalevich, 1979 GENUS
-=======
+# Textella Mikhalevich, 1979 GENUS
 
 #### Status
 ACCEPTED

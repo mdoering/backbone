@@ -1,5 +1,4 @@
-Marasmius singeri Guzmán SPECIES
-=======
+# Marasmius singeri Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia albula (Gyeln.) Gyeln. SPECIES
-=======
+# Parmelia albula (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

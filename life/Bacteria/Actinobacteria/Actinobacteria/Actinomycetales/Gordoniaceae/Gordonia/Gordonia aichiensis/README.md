@@ -1,8 +1,7 @@
-Rhodococcus aichiensis Tsukamura, 1983 SPECIES
-=======
+# Gordonia aichiensis (Tsukamura, 1983) Klatte et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

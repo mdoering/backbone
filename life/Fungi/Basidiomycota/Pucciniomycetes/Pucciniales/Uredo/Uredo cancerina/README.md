@@ -1,5 +1,4 @@
-Uredo cancerina Henn. SPECIES
-=======
+# Uredo cancerina Henn. SPECIES
 
 #### Status
 ACCEPTED

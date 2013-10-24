@@ -1,5 +1,4 @@
-Collybia bakeri Dennis SPECIES
-=======
+# Collybia bakeri Dennis SPECIES
 
 #### Status
 ACCEPTED

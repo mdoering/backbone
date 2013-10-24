@@ -1,5 +1,4 @@
-Laboulbenia erectiuscula Speg. SPECIES
-=======
+# Laboulbenia erectiuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

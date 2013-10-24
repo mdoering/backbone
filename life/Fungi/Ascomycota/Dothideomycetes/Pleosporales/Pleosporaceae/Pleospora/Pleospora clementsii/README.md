@@ -1,5 +1,4 @@
-Pleospora clementsii Wehm. SPECIES
-=======
+# Pleospora clementsii Wehm. SPECIES
 
 #### Status
 ACCEPTED

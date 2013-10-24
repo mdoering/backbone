@@ -1,5 +1,4 @@
-Irenina umirayensis (H.S. Yates) Hansf. SPECIES
-=======
+# Irenina umirayensis (H.S. Yates) Hansf. SPECIES
 
 #### Status
 ACCEPTED

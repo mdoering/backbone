@@ -1,5 +1,4 @@
-Gliophorus nitidus (Berk. & M.A. Curtis) Kovalenko SPECIES
-=======
+# Gliophorus nitidus (Berk. & M.A. Curtis) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

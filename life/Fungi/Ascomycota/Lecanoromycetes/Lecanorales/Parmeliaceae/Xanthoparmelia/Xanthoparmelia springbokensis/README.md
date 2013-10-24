@@ -1,5 +1,4 @@
-Xanthoparmelia springbokensis Hale SPECIES
-=======
+# Xanthoparmelia springbokensis Hale SPECIES
 
 #### Status
 ACCEPTED

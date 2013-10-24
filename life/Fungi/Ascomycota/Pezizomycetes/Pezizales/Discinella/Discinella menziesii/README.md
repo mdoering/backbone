@@ -1,5 +1,4 @@
-Discinella menziesii (Boud.) Boud. ex A.L. Sm. & Ramsb., 1914 SPECIES
-=======
+# Discinella menziesii (Boud.) Boud. ex A.L. Sm. & Ramsb., 1914 SPECIES
 
 #### Status
 ACCEPTED

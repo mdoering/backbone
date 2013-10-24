@@ -1,5 +1,4 @@
-Ustilago stipae-barbatae Maire SPECIES
-=======
+# Ustilago stipae-barbatae Maire SPECIES
 
 #### Status
 ACCEPTED

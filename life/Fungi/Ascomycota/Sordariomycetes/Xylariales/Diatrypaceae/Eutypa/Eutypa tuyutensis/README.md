@@ -1,5 +1,4 @@
-Eutypa tuyutensis Speg. SPECIES
-=======
+# Eutypa tuyutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

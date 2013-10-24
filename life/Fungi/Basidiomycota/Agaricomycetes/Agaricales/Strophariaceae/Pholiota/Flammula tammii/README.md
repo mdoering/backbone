@@ -1,5 +1,4 @@
-Flammula tammii (Fr.) Sacc. SPECIES
-=======
+# Flammula tammii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

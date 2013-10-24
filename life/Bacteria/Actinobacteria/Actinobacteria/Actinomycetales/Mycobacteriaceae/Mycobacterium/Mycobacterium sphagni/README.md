@@ -1,5 +1,4 @@
-Mycobacterium sphagni Kazda, 1980 SPECIES
-=======
+# Mycobacterium sphagni Kazda, 1980 SPECIES
 
 #### Status
 ACCEPTED

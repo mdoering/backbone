@@ -1,5 +1,4 @@
-Meliola malloticola (W. Yamam.) Cif. SPECIES
-=======
+# Meliola malloticola (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

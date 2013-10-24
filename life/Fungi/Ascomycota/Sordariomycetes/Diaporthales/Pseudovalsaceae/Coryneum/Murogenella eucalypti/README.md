@@ -1,5 +1,4 @@
-Murogenella eucalypti B. Sutton & N.D. Sharma SPECIES
-=======
+# Murogenella eucalypti B. Sutton & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

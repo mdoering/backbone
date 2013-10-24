@@ -1,5 +1,4 @@
-Hysteropycnis confluens Hilitzer, 1929 SPECIES
-=======
+# Hysteropycnis confluens Hilitzer, 1929 SPECIES
 
 #### Status
 ACCEPTED

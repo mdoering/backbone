@@ -1,5 +1,4 @@
-Calocera flavida Lloyd SPECIES
-=======
+# Calocera flavida Lloyd SPECIES
 
 #### Status
 ACCEPTED

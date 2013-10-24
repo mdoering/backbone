@@ -1,14 +1,13 @@
-Polyporus albogilvus Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Tyromyces albogilvus (Berk. & M.A. Curtis) Murrill, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 10(no. 45): 308 (1868)
+N. Amer. Fl. (New York) 9(1): 36 (1907)
 
 #### Original name
 Polyporus albogilvus Berk. & M.A. Curtis, 1868

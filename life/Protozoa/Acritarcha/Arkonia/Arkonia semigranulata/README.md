@@ -1,5 +1,4 @@
-Arkonia semigranulata Uutela & Tynni, 1991 SPECIES
-=======
+# Arkonia semigranulata Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

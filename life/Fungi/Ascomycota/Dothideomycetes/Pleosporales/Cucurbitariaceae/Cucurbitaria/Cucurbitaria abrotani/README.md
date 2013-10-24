@@ -1,5 +1,4 @@
-Cucurbitaria abrotani Fautrey SPECIES
-=======
+# Cucurbitaria abrotani Fautrey SPECIES
 
 #### Status
 ACCEPTED

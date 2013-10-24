@@ -1,17 +1,16 @@
-Porpomyces Jülich GENUS
-=======
+# Ceriporiopsis Domanski, 1963 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Persoonia 11(4): 425 (1982)
+null
 
 #### Original name
-Porpomyces Jülich
+null
 
 ### Remarks
 null

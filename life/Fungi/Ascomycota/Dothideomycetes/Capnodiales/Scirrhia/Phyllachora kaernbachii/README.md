@@ -1,5 +1,4 @@
-Phyllachora kaernbachii Henn., 1894 SPECIES
-=======
+# Phyllachora kaernbachii Henn., 1894 SPECIES
 
 #### Status
 DOUBTFUL

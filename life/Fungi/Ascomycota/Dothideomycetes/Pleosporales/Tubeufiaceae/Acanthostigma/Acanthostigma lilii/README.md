@@ -1,5 +1,4 @@
-Acanthostigma lilii Keissl. SPECIES
-=======
+# Acanthostigma lilii Keissl. SPECIES
 
 #### Status
 ACCEPTED

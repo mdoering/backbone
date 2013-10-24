@@ -1,5 +1,4 @@
-Corticium vescum Burt, 1926 SPECIES
-=======
+# Corticium vescum Burt, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia leuzeae Syd. SPECIES
-=======
+# Puccinia leuzeae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporodesmium versisporum Pound & Clem. SPECIES
-=======
+# Sporidesmium versisporum Pound & Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Minn. bot. Stud. 1(Bulletin 9): 662 (1896)
 
 #### Original name
-Sporodesmium versisporum Pound & Clem.
+Sporidesmium toruloides Cooke
 
 ### Remarks
 null

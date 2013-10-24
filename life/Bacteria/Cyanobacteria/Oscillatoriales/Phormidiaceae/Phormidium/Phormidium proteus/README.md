@@ -1,5 +1,4 @@
-Phormidium proteus (Skuja) I. Umezaki & M. Watanabe SPECIES
-=======
+# Phormidium proteus (Skuja) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

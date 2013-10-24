@@ -1,17 +1,16 @@
-Physcia alba var. alba VARIETY
-=======
+# Physcia alba (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Revue mycol. , Toulouse 9: 136 (1887)
 
 #### Original name
-Physcia alba var. alba
+null
 
 ### Remarks
 null

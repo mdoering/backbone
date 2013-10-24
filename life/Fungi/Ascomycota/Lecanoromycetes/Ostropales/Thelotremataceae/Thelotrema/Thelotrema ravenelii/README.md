@@ -1,5 +1,4 @@
-Thelotrema ravenelii Tuck. SPECIES
-=======
+# Thelotrema ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

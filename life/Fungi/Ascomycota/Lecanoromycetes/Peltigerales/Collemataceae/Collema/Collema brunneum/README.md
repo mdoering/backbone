@@ -1,5 +1,4 @@
-Collema brunneum (Sw.) Mérat SPECIES
-=======
+# Collema brunneum (Sw.) Mérat SPECIES
 
 #### Status
 ACCEPTED

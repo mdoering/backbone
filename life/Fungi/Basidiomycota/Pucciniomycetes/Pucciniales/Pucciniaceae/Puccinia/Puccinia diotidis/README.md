@@ -1,5 +1,4 @@
-Puccinia diotidis Pat. & Roum. SPECIES
-=======
+# Puccinia diotidis Pat. & Roum. SPECIES
 
 #### Status
 ACCEPTED

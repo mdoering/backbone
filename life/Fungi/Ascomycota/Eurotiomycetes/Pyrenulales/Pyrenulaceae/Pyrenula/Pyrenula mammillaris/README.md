@@ -1,5 +1,4 @@
-Pyrenula mammillaris (Hepp) Zahlbr. SPECIES
-=======
+# Pyrenula mammillaris (Hepp) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

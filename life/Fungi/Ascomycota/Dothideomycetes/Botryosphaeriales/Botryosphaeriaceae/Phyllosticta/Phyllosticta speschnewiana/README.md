@@ -1,5 +1,4 @@
-Phyllosticta speschnewiana Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta speschnewiana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

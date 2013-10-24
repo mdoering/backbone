@@ -1,5 +1,4 @@
-Xenothekella Saidova, 1970 GENUS
-=======
+# Xenothekella Saidova, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma spilotum (Holmsk.) Cooke SPECIES
-=======
+# Entoloma spilotum (Holmsk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

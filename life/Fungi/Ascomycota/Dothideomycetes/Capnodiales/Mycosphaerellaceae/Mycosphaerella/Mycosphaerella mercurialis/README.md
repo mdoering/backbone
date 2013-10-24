@@ -1,5 +1,4 @@
-Mycosphaerella mercurialis (Lasch) Magnus SPECIES
-=======
+# Mycosphaerella mercurialis (Lasch) Magnus SPECIES
 
 #### Status
 ACCEPTED

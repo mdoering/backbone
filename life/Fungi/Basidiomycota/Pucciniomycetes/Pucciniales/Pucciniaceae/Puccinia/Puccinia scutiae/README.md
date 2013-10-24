@@ -1,5 +1,4 @@
-Puccinia scutiae J.C. Lindq. SPECIES
-=======
+# Puccinia scutiae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

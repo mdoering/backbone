@@ -1,5 +1,4 @@
-Lenzitites gastaldii (Heer) Mesch. SPECIES
-=======
+# Lenzitites gastaldii (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopsis canovae Rambelli, 1958 SPECIES
-=======
+# Chaetopsis canovae Rambelli, 1958 SPECIES
 
 #### Status
 ACCEPTED

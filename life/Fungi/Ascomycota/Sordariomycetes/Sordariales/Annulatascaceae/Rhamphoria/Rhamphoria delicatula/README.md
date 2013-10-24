@@ -1,5 +1,4 @@
-Rhamphoria delicatula Niessl, 1876 SPECIES
-=======
+# Rhamphoria delicatula Niessl, 1876 SPECIES
 
 #### Status
 ACCEPTED

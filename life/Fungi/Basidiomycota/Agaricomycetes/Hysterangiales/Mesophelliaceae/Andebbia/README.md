@@ -1,5 +1,4 @@
-Andebbia Trappe, Castellano & Amar. GENUS
-=======
+# Andebbia Trappe, Castellano & Amar. GENUS
 
 #### Status
 ACCEPTED

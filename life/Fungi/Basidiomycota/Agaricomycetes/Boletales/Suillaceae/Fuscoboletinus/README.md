@@ -1,5 +1,4 @@
-Fuscoboletinus GENUS
-=======
+# Fuscoboletinus GENUS
 
 #### Status
 ACCEPTED

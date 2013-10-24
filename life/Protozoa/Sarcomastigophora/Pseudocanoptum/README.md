@@ -1,5 +1,4 @@
-Pseudocanoptum Suzuki, 1997 GENUS
-=======
+# Pseudocanoptum Suzuki, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma striatum Sacc. SPECIES
-=======
+# Lophiostoma striatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

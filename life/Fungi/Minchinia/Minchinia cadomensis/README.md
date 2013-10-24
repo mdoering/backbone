@@ -1,5 +1,4 @@
-Minchinia cadomensis Marchand & Sprague, 1979 SPECIES
-=======
+# Minchinia cadomensis Marchand & Sprague, 1979 SPECIES
 
 #### Status
 ACCEPTED

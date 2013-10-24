@@ -1,5 +1,4 @@
-Licea takahashii Y. Yamam. SPECIES
-=======
+# Licea takahashii Y. Yamam. SPECIES
 
 #### Status
 ACCEPTED

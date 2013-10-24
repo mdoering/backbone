@@ -1,5 +1,4 @@
-Micrographa schizospora Zahlbr. SPECIES
-=======
+# Micrographa schizospora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

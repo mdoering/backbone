@@ -1,5 +1,4 @@
-Codinaea dendroidea Kuthub. SPECIES
-=======
+# Codinaea dendroidea Kuthub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula westii Murrill SPECIES
-=======
+# Russula westii Murrill SPECIES
 
 #### Status
 ACCEPTED

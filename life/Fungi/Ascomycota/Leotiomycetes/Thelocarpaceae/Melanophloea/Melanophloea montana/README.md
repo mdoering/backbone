@@ -1,5 +1,4 @@
-Melanophloea montana P. M. McCarthy SPECIES
-=======
+# Melanophloea montana P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

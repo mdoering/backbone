@@ -1,5 +1,4 @@
-Catillaria pseudoleptocheila B. de Lesd. SPECIES
-=======
+# Catillaria pseudoleptocheila B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

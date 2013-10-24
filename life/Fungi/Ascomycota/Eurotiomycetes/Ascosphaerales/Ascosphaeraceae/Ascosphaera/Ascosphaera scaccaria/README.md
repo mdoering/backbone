@@ -1,5 +1,4 @@
-Ascosphaera scaccaria Pinnock, R.B. Coles & B. Donovan, 1988 SPECIES
-=======
+# Ascosphaera scaccaria Pinnock, R.B. Coles & B. Donovan, 1988 SPECIES
 
 #### Status
 ACCEPTED

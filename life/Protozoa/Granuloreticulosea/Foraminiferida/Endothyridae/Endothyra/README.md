@@ -1,5 +1,4 @@
-Endothyra Phillips, 1845 GENUS
-=======
+# Endothyra Phillips, 1845 GENUS
 
 #### Status
 ACCEPTED

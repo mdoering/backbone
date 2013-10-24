@@ -1,5 +1,4 @@
-Clitocybe strangulata Velen. SPECIES
-=======
+# Clitocybe strangulata Velen. SPECIES
 
 #### Status
 ACCEPTED

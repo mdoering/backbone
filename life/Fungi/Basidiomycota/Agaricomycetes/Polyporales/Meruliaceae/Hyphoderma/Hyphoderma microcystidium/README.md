@@ -1,5 +1,4 @@
-Hyphoderma microcystidium Sheng H. Wu, 1990 SPECIES
-=======
+# Hyphoderma microcystidium Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

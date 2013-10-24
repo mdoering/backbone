@@ -1,5 +1,4 @@
-Septoria caulogena Sacc. SPECIES
-=======
+# Septoria caulogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

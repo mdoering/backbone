@@ -1,5 +1,4 @@
-Septoria albanica Petr. SPECIES
-=======
+# Septoria albanica Petr. SPECIES
 
 #### Status
 ACCEPTED

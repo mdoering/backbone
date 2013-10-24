@@ -1,5 +1,4 @@
-Rhodobacter massiliensis Greub & Raoult, 2006 SPECIES
-=======
+# Rhodobacter massiliensis Greub & Raoult, 2006 SPECIES
 
 #### Status
 ACCEPTED

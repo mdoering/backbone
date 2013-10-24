@@ -1,5 +1,4 @@
-Tricholoma portentosum-centrale Peck SPECIES
-=======
+# Tricholoma portentosum-centrale Peck SPECIES
 
 #### Status
 ACCEPTED

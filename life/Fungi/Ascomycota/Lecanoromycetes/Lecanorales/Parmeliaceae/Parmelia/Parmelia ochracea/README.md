@@ -1,5 +1,4 @@
-Parmelia ochracea (Schaer.) Fr. SPECIES
-=======
+# Parmelia ochracea (Schaer.) Fr. SPECIES
 
 #### Status
 ACCEPTED

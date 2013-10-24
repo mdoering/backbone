@@ -1,5 +1,4 @@
-Meliola hypselodelphidis S. Hughes SPECIES
-=======
+# Meliola hypselodelphidis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

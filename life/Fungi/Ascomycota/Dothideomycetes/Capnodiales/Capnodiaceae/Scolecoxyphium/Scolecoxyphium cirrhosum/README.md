@@ -1,5 +1,4 @@
-Scolecoxyphium cirrhosum Bat., 1963 SPECIES
-=======
+# Scolecoxyphium cirrhosum Bat., 1963 SPECIES
 
 #### Status
 ACCEPTED

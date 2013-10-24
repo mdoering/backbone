@@ -1,5 +1,4 @@
-Rigidoporus ochraceicinctus Corner, 1992 SPECIES
-=======
+# Rigidoporus ochraceicinctus Corner, 1992 SPECIES
 
 #### Status
 ACCEPTED

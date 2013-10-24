@@ -1,5 +1,4 @@
-Mycothyridium valparadisiacum (Speg.) Petr. SPECIES
-=======
+# Mycothyridium valparadisiacum (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

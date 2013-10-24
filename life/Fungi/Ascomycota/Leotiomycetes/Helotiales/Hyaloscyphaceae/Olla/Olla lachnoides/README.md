@@ -1,5 +1,4 @@
-Olla lachnoides Velen. SPECIES
-=======
+# Olla lachnoides Velen. SPECIES
 
 #### Status
 ACCEPTED

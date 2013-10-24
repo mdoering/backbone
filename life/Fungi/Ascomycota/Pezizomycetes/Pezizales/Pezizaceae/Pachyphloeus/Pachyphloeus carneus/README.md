@@ -1,5 +1,4 @@
-Pachyphloeus carneus Harkn. SPECIES
-=======
+# Pachyphloeus carneus Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laschia testudinella Lév. SPECIES
-=======
+# Laschia testudinella Lév. SPECIES
 
 #### Status
 ACCEPTED

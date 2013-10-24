@@ -1,17 +1,16 @@
-Lecidea fuscorubens f. fuscorubens FORM
-=======
+# Clauzadea monticola (Ach. ex Schaer.) Hafellner & Bellem. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hafellner, Beih. Nova Hedwigia 79: 319 (1984)
 
 #### Original name
-null
+Lecidea monticola Ach.
 
 ### Remarks
 null

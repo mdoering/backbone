@@ -1,5 +1,4 @@
-Beloniella galii-veri SPECIES
-=======
+# Beloniella galii-veri SPECIES
 
 #### Status
 ACCEPTED

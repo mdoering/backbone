@@ -1,5 +1,4 @@
-Segestria sphaeroides Zwackh SPECIES
-=======
+# Segestria sphaeroides Zwackh SPECIES
 
 #### Status
 ACCEPTED

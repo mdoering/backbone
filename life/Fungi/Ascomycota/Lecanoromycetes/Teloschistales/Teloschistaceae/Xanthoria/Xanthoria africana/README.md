@@ -1,5 +1,4 @@
-Xanthoria africana Almb. SPECIES
-=======
+# Xanthoria africana Almb. SPECIES
 
 #### Status
 ACCEPTED

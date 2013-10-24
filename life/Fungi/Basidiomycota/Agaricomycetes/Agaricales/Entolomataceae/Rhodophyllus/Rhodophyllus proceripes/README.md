@@ -1,5 +1,4 @@
-Rhodophyllus proceripes Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus proceripes Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotrema symphyton Schwein. SPECIES
-=======
+# Sistotrema symphyton Schwein. SPECIES
 
 #### Status
 ACCEPTED

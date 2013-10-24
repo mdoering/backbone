@@ -1,14 +1,13 @@
-Clavicorona microspora Qiu X. Wu & R.H. Petersen, 1992 SPECIES
-=======
+# Artomyces microsporus (Qiu X. Wu & R.H. Petersen) Lickey, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 45: 124 (1992)
+in Lickey, Hughes & Petersen, Sydowia 55(2): 227 (2003)
 
 #### Original name
 Clavicorona microspora Qiu X. Wu & R.H. Petersen, 1992

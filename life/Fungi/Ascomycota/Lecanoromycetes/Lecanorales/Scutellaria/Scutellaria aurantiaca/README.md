@@ -1,5 +1,4 @@
-Scutellaria aurantiaca (Lightf.) Baumg. SPECIES
-=======
+# Scutellaria aurantiaca (Lightf.) Baumg. SPECIES
 
 #### Status
 ACCEPTED

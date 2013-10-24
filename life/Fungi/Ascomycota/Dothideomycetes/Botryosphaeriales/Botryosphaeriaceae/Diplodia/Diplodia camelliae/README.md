@@ -1,5 +1,4 @@
-Diplodia camelliae Henn. SPECIES
-=======
+# Diplodia camelliae Henn. SPECIES
 
 #### Status
 ACCEPTED

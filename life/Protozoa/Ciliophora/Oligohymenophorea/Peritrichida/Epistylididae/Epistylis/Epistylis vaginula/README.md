@@ -1,5 +1,4 @@
-Epistylis vaginula Stokes, 1884 SPECIES
-=======
+# Epistylis vaginula Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

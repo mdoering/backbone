@@ -1,5 +1,4 @@
-Hyalinonetrion distomum (Parker & Jones, 1864) SPECIES
-=======
+# Hyalinonetrion distomum (Parker & Jones, 1864) SPECIES
 
 #### Status
 ACCEPTED

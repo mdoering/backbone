@@ -1,5 +1,4 @@
-Lepiota locanensis Espinosa SPECIES
-=======
+# Lepiota locanensis Espinosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactifluus saccharinus (A.E. Johnson) Kuntze SPECIES
-=======
+# Lactifluus saccharinus (A.E. Johnson) Kuntze SPECIES
 
 #### Status
 ACCEPTED

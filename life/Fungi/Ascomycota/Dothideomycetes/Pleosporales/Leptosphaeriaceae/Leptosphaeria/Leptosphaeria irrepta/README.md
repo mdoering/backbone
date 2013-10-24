@@ -1,5 +1,4 @@
-Leptosphaeria irrepta Niessl SPECIES
-=======
+# Leptosphaeria irrepta Niessl SPECIES
 
 #### Status
 ACCEPTED

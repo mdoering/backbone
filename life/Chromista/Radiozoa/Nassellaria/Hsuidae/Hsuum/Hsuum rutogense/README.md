@@ -1,5 +1,4 @@
-Hsuum rutogense SPECIES
-=======
+# Hsuum rutogense SPECIES
 
 #### Status
 ACCEPTED

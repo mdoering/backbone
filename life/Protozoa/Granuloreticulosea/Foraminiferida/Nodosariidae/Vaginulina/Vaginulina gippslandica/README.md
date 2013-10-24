@@ -1,5 +1,4 @@
-Vaginulina gippslandica Crespin, I. & Cushman SPECIES
-=======
+# Vaginulina gippslandica Crespin, I. & Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca chanousiae Sambo SPECIES
-=======
+# Caloplaca chanousiae Sambo SPECIES
 
 #### Status
 ACCEPTED

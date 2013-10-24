@@ -1,5 +1,4 @@
-Embolidium inaequatum Vain. SPECIES
-=======
+# Embolidium inaequatum Vain. SPECIES
 
 #### Status
 ACCEPTED

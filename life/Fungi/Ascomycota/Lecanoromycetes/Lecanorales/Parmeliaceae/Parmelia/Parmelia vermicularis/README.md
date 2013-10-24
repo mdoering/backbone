@@ -1,5 +1,4 @@
-Parmelia vermicularis Vain. SPECIES
-=======
+# Parmelia vermicularis Vain. SPECIES
 
 #### Status
 ACCEPTED

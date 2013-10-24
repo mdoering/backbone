@@ -1,5 +1,4 @@
-Amphitrichum T. Nees GENUS
-=======
+# Amphitrichum T. Nees GENUS
 
 #### Status
 ACCEPTED

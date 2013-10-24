@@ -1,5 +1,4 @@
-Spilonema schmidtii (Vain.) Henssen SPECIES
-=======
+# Spilonema schmidtii (Vain.) Henssen SPECIES
 
 #### Status
 ACCEPTED

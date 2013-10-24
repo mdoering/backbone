@@ -1,17 +1,16 @@
-Peresia anonae H. Maia & R. Garnier SPECIES
-=======
+# Peresia annonae H. Maia & R. Garnier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 267: 29 (1960)
 
 #### Original name
-Peresia anonae H. Maia & R. Garnier
+Peresia annonae H. Maia & R. Garnier
 
 ### Remarks
 null

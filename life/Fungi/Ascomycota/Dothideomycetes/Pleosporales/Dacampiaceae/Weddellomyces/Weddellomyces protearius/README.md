@@ -1,5 +1,4 @@
-Weddellomyces protearius Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Weddellomyces protearius Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

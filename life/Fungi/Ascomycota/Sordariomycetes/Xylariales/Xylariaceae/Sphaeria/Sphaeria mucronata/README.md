@@ -1,5 +1,4 @@
-Sphaeria mucronata Fr. SPECIES
-=======
+# Sphaeria mucronata Fr. SPECIES
 
 #### Status
 ACCEPTED

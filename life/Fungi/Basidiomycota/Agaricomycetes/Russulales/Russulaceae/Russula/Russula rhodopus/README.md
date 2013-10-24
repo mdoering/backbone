@@ -1,5 +1,4 @@
-Russula rhodopus subsp. rhodopus SUBSPECIES
-=======
+# Russula rhodopus Zvára SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Arch. Prírodov. Výzk. Cech. 17(4): 108 (1927)
 
 #### Original name
-Russula rhodopus subsp. rhodopus
+Russula rhodopus Zvára
 
 ### Remarks
 null

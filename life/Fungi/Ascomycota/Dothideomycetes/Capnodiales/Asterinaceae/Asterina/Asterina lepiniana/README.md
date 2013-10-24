@@ -1,5 +1,4 @@
-Asterina lepiniana Mont. SPECIES
-=======
+# Asterina lepiniana Mont. SPECIES
 
 #### Status
 ACCEPTED

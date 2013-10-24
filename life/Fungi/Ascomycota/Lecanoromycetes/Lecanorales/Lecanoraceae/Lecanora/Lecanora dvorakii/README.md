@@ -1,5 +1,4 @@
-Lecanora dvorakii Motyka SPECIES
-=======
+# Lecanora dvorakii Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula rubroanomala Aptroot & Lücking SPECIES
-=======
+# Pyrenula rubroanomala Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysalidinella miocenica SPECIES
-=======
+# Chrysalidinella miocenica SPECIES
 
 #### Status
 ACCEPTED

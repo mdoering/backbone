@@ -1,5 +1,4 @@
-Sphaceliopsis cypericola Speg. SPECIES
-=======
+# Sphaceliopsis cypericola Speg. SPECIES
 
 #### Status
 ACCEPTED

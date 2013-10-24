@@ -1,5 +1,4 @@
-Clitocybe gossypina Velen. SPECIES
-=======
+# Clitocybe gossypina Velen. SPECIES
 
 #### Status
 ACCEPTED

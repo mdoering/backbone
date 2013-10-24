@@ -1,5 +1,4 @@
-Reophax scotti SPECIES
-=======
+# Reophax scotti SPECIES
 
 #### Status
 ACCEPTED

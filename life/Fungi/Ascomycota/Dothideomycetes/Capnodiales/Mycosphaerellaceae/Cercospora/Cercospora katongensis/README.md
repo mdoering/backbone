@@ -1,5 +1,4 @@
-Cercospora katongensis J.M. Yen SPECIES
-=======
+# Cercospora katongensis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

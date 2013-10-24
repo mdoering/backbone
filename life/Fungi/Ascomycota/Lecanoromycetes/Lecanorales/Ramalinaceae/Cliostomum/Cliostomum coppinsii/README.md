@@ -1,5 +1,4 @@
-Cliostomum coppinsii Fryday & Kantvilas SPECIES
-=======
+# Cliostomum coppinsii Fryday & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

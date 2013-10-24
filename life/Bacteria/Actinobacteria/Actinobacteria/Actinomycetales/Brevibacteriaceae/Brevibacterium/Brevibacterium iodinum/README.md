@@ -1,11 +1,10 @@
-Chromobacterium iodinum Davis, 1939 SPECIES
-=======
+# Brevibacterium iodinum (ex Davis, 1939) Collins et al., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

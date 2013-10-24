@@ -1,5 +1,4 @@
-Sclerotiopsis cheiri Oudem. SPECIES
-=======
+# Sclerotiopsis cheiri Oudem. SPECIES
 
 #### Status
 ACCEPTED

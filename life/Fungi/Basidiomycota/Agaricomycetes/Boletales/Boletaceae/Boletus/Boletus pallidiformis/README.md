@@ -1,5 +1,4 @@
-Boletus pallidiformis (Murrill) Murrill SPECIES
-=======
+# Boletus pallidiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

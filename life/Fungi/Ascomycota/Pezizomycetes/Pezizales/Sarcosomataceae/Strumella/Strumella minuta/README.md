@@ -1,5 +1,4 @@
-Strumella minuta (Corda) Sacc. SPECIES
-=======
+# Strumella minuta (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

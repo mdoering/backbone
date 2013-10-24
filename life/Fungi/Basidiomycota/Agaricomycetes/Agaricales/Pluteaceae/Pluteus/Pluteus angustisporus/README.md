@@ -1,5 +1,4 @@
-Pluteus angustisporus Singer, 1959 SPECIES
-=======
+# Pluteus angustisporus Singer, 1959 SPECIES
 
 #### Status
 ACCEPTED

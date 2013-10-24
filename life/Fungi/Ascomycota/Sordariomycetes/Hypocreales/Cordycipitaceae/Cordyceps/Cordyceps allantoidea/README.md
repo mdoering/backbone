@@ -1,5 +1,4 @@
-Cordyceps allantoidea Berk. SPECIES
-=======
+# Cordyceps allantoidea Berk. SPECIES
 
 #### Status
 ACCEPTED

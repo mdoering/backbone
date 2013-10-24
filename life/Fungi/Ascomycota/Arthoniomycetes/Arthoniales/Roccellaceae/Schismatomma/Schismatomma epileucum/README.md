@@ -1,5 +1,4 @@
-Schismatomma epileucum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma epileucum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

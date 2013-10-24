@@ -1,8 +1,7 @@
-Paruroleptus dubium Gelei, 1954 SPECIES
-=======
+# Parurosoma dubium (Gelei, 1954) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

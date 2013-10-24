@@ -1,5 +1,4 @@
-Boletus gracilis Peck SPECIES
-=======
+# Boletus gracilis Peck SPECIES
 
 #### Status
 ACCEPTED

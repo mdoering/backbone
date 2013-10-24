@@ -1,5 +1,4 @@
-Loktanella atrilutea Hosoya & Yokota, 2007 SPECIES
-=======
+# Loktanella atrilutea Hosoya & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

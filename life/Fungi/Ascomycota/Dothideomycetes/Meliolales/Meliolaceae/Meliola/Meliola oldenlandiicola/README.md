@@ -1,5 +1,4 @@
-Meliola oldenlandiicola Mibey SPECIES
-=======
+# Meliola oldenlandiicola Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas variabilis var. obliquecarinata Christen VARIETY
-=======
+# Petalomonas variabilis Christen SPECIES
 
 #### Status
 ACCEPTED

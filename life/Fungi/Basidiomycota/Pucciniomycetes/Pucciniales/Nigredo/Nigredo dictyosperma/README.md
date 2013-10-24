@@ -1,5 +1,4 @@
-Nigredo dictyosperma (Ellis & Everh.) Arthur SPECIES
-=======
+# Nigredo dictyosperma (Ellis & Everh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

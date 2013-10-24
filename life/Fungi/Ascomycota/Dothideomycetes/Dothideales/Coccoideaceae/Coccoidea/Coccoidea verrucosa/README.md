@@ -1,5 +1,4 @@
-Coccoidea verrucosa (Petr. & Cif.) E. Müll. SPECIES
-=======
+# Coccoidea verrucosa (Petr. & Cif.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

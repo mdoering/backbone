@@ -1,5 +1,4 @@
-Gilmaniella punctiformis Sivan. & B. Sutton, 1985 SPECIES
-=======
+# Gilmaniella punctiformis Sivan. & B. Sutton, 1985 SPECIES
 
 #### Status
 ACCEPTED

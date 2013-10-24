@@ -1,5 +1,4 @@
-Amphidinium trulla Shauna Murray, Rhodes & Flø Jørgensen SPECIES
-=======
+# Amphidinium trulla Shauna Murray, Rhodes & Flø Jørgensen SPECIES
 
 #### Status
 ACCEPTED

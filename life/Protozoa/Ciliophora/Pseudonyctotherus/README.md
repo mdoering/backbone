@@ -1,5 +1,4 @@
-Pseudonyctotherus Earl, 1970 GENUS
-=======
+# Pseudonyctotherus Earl, 1970 GENUS
 
 #### Status
 ACCEPTED

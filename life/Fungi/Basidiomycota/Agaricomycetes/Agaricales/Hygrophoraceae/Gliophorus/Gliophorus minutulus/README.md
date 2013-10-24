@@ -1,5 +1,4 @@
-Gliophorus minutulus (Peck) Kovalenko SPECIES
-=======
+# Gliophorus minutulus (Peck) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

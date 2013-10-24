@@ -1,5 +1,4 @@
-Meliola cranei Hosag. & Goos SPECIES
-=======
+# Meliola cranei Hosag. & Goos SPECIES
 
 #### Status
 ACCEPTED

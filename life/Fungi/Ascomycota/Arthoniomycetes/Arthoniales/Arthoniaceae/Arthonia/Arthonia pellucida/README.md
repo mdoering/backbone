@@ -1,5 +1,4 @@
-Arthonia pellucida C. Knight SPECIES
-=======
+# Arthonia pellucida C. Knight SPECIES
 
 #### Status
 ACCEPTED

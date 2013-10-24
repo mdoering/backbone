@@ -1,5 +1,4 @@
-Byssomerulius albostramineus (Torrend) Hjortstam SPECIES
-=======
+# Byssomerulius albostramineus (Torrend) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

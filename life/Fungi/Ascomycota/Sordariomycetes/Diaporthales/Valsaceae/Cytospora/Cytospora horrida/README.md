@@ -1,5 +1,4 @@
-Cytospora horrida Sacc. SPECIES
-=======
+# Cytospora horrida Sacc. SPECIES
 
 #### Status
 ACCEPTED

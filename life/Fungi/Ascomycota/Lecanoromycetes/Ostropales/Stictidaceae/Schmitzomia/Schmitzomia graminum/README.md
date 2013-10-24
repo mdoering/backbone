@@ -1,5 +1,4 @@
-Schmitzomia graminum P. Karst. SPECIES
-=======
+# Schmitzomia graminum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon saanaënse f. saanaënse FORM
-=======
+# Rhizocarpon saanaënse Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon saanaënse f. saanaënse
+Rhizocarpon saanaënse Räsänen
 
 ### Remarks
 null

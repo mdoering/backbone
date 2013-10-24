@@ -1,5 +1,4 @@
-Sphenomonas spiralis var. angusta Playfair VARIETY
-=======
+# Sphenomonas spiralis Playfair SPECIES
 
 #### Status
 ACCEPTED

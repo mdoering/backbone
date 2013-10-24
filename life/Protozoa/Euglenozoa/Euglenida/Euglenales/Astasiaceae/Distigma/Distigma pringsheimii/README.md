@@ -1,5 +1,4 @@
-Distigma pringsheimii Ettl SPECIES
-=======
+# Distigma pringsheimii Ettl SPECIES
 
 #### Status
 ACCEPTED

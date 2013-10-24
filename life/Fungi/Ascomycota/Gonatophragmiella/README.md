@@ -1,5 +1,4 @@
-Gonatophragmiella Rak. Kumar, A.N. Rai & Kamal GENUS
-=======
+# Gonatophragmiella Rak. Kumar, A.N. Rai & Kamal GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Onychocola sclerotica (Guarro, Gené & De Vroey) Gibas, Sigler & Currah, 2002 SPECIES
-=======
+# Malbranchea sclerotica Guarro, Gené & De Vroey, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gibas, Sigler, Summerbell & Currah, Stud. Mycol. 47: 135 (2002)
+Mycotaxon 48: 471 (1993)
 
 #### Original name
 Malbranchea sclerotica Guarro, Gené & De Vroey, 1993

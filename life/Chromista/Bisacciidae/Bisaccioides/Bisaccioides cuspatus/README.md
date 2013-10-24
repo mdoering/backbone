@@ -1,5 +1,4 @@
-Bisaccioides cuspatus SPECIES
-=======
+# Bisaccioides cuspatus SPECIES
 
 #### Status
 ACCEPTED

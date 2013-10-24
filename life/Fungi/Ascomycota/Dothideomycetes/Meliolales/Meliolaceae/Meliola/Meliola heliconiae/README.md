@@ -1,5 +1,4 @@
-Meliola heliconiae F. Stevens SPECIES
-=======
+# Meliola heliconiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

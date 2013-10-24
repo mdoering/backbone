@@ -1,5 +1,4 @@
-Laestadia photiniae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Laestadia photiniae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

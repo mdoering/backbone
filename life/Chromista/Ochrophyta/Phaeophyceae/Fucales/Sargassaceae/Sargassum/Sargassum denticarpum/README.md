@@ -1,5 +1,4 @@
-Sargassum denticarpum T. Ajisaka SPECIES
-=======
+# Sargassum denticarpum T. Ajisaka SPECIES
 
 #### Status
 ACCEPTED

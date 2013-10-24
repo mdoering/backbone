@@ -1,17 +1,16 @@
-Panus crinitus var. schnyderi (Speg.) Singer, 1962 VARIETY
-=======
+# Lentinus swartzii Berk., 1843 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 15: 45 (1962)
+J. Bot. , London 2: 632 (1843)
 
 #### Original name
-Lentinus schnyderi Speg., 1880
+Lentinus swartzii Berk., 1843
 
 ### Remarks
 null

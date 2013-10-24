@@ -1,17 +1,16 @@
-Ceratorhiza cerealis (E.P. Hoeven) R.T. Moore, 1987 SPECIES
-=======
+# Ceratobasidium cereale D.I. Murray & Burpee, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 29: 94 (1987)
+Trans. Br. mycol. Soc. 82(1): 172 (1984)
 
 #### Original name
-Rhizoctonia cerealis E.P. Hoeven, 1977
+Ceratobasidium cereale D.I. Murray & Burpee, 1984
 
 ### Remarks
 null

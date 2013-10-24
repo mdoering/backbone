@@ -1,5 +1,4 @@
-Parapyricularia gymnematis B. Rai & Kamal SPECIES
-=======
+# Parapyricularia gymnematis B. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

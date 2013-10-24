@@ -1,5 +1,4 @@
-Eriocharon Ito & Imai, 2000 GENUS
-=======
+# Eriocharon Ito & Imai, 2000 GENUS
 
 #### Status
 ACCEPTED

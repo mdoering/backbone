@@ -1,5 +1,4 @@
-Parmelia granatensis Nyl. SPECIES
-=======
+# Parmelia granatensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

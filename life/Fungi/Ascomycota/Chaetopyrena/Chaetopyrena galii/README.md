@@ -1,5 +1,4 @@
-Chaetopyrena galii Petr. SPECIES
-=======
+# Chaetopyrena galii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora reinkingiana Sacc. SPECIES
-=======
+# Physalospora reinkingiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

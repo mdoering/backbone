@@ -1,5 +1,4 @@
-Aporia GENUS
-=======
+# Aporia GENUS
 
 #### Status
 ACCEPTED

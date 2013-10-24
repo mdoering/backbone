@@ -1,5 +1,4 @@
-Hypoxylon obtusissimum Berk. SPECIES
-=======
+# Hypoxylon obtusissimum Berk. SPECIES
 
 #### Status
 ACCEPTED

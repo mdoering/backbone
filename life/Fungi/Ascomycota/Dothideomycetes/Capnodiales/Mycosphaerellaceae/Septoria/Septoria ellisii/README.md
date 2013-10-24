@@ -1,5 +1,4 @@
-Septoria ellisii Berl. & Voglino SPECIES
-=======
+# Septoria ellisii Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

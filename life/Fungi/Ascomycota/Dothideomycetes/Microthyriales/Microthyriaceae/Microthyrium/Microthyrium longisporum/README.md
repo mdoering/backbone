@@ -1,5 +1,4 @@
-Microthyrium longisporum var. longisporum VARIETY
-=======
+# Microthyrium longisporum Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microthyrium longisporum var. longisporum
+Microthyrium longisporum Pat. & Gaillard
 
 ### Remarks
 null

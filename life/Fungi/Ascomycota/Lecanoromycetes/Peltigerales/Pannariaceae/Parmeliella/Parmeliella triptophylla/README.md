@@ -1,14 +1,13 @@
-Pannaria triptophylla (Ach.) A. Massal. SPECIES
-=======
+# Parmeliella triptophylla (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16(2): 376 (1862)
 
 #### Original name
 Lecidea triptophylla

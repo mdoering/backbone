@@ -1,5 +1,4 @@
-Sphaeria patouilliardi Sacc. SPECIES
-=======
+# Sphaeria patouilliardi Sacc. SPECIES
 
 #### Status
 ACCEPTED

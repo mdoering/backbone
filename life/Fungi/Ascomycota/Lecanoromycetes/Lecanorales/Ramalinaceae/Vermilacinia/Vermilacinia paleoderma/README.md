@@ -1,5 +1,4 @@
-Vermilacinia paleoderma Spjut SPECIES
-=======
+# Vermilacinia paleoderma Spjut SPECIES
 
 #### Status
 ACCEPTED

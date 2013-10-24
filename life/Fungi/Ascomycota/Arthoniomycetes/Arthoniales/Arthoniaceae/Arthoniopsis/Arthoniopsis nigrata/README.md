@@ -1,5 +1,4 @@
-Arthoniopsis nigrata Zahlbr. SPECIES
-=======
+# Arthoniopsis nigrata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena roseomarginata Hongo SPECIES
-=======
+# Mycena roseomarginata Hongo SPECIES
 
 #### Status
 ACCEPTED

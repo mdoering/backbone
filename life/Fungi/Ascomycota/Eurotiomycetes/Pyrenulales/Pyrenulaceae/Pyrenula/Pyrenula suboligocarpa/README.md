@@ -1,5 +1,4 @@
-Pyrenula suboligocarpa Upreti SPECIES
-=======
+# Pyrenula suboligocarpa Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora sarcogynoides H. Magn. SPECIES
-=======
+# Acarospora sarcogynoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

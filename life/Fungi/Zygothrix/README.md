@@ -1,5 +1,4 @@
-Zygothrix Reinsch ex Rabenh. GENUS
-=======
+# Zygothrix Reinsch ex Rabenh. GENUS
 
 #### Status
 ACCEPTED

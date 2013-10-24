@@ -1,5 +1,4 @@
-Gyrophora tessellata Ach. SPECIES
-=======
+# Gyrophora tessellata Ach. SPECIES
 
 #### Status
 ACCEPTED

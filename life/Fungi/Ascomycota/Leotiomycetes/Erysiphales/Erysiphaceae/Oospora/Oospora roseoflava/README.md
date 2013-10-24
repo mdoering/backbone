@@ -1,5 +1,4 @@
-Oospora roseoflava Sacc. SPECIES
-=======
+# Oospora roseoflava Sacc. SPECIES
 
 #### Status
 ACCEPTED

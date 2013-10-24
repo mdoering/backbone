@@ -1,5 +1,4 @@
-Boletus orovillus Thiers & Kowalski SPECIES
-=======
+# Boletus orovillus Thiers & Kowalski SPECIES
 
 #### Status
 ACCEPTED

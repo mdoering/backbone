@@ -1,5 +1,4 @@
-Phragmidium rosae-moschatae Dietel, 1905 SPECIES
-=======
+# Phragmidium rosae-moschatae Dietel, 1905 SPECIES
 
 #### Status
 ACCEPTED

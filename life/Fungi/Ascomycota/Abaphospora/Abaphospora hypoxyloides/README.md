@@ -1,5 +1,4 @@
-Abaphospora hypoxyloides (Höhn.) Kirschst. SPECIES
-=======
+# Abaphospora hypoxyloides (Höhn.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

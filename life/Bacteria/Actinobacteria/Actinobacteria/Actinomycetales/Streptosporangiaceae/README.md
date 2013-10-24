@@ -1,5 +1,4 @@
-Streptosporangiaceae Goodfellow, Stanton, Simpson & Minnikin, 1999 FAMILY
-=======
+# Streptosporangiaceae Goodfellow, Stanton, Simpson & Minnikin, 1999 FAMILY
 
 #### Status
 ACCEPTED

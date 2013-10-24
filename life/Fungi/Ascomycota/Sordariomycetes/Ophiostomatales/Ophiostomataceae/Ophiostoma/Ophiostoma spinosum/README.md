@@ -1,5 +1,4 @@
-Ophiostoma spinosum P.F. Cannon, 1997 SPECIES
-=======
+# Ophiostoma spinosum P.F. Cannon, 1997 SPECIES
 
 #### Status
 ACCEPTED

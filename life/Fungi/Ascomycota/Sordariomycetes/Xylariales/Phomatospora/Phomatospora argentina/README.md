@@ -1,5 +1,4 @@
-Phomatospora argentina Speg., 1880 SPECIES
-=======
+# Phomatospora argentina Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

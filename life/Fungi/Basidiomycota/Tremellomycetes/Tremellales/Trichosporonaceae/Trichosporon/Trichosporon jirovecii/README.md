@@ -1,5 +1,4 @@
-Trichosporon jirovecii Frágner SPECIES
-=======
+# Trichosporon jirovecii Frágner SPECIES
 
 #### Status
 ACCEPTED

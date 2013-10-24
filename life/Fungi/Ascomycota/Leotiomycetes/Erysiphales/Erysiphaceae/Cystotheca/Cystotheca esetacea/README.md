@@ -1,5 +1,4 @@
-Cystotheca esetacea Z.X. Chen & Y.J. Yao SPECIES
-=======
+# Cystotheca esetacea Z.X. Chen & Y.J. Yao SPECIES
 
 #### Status
 ACCEPTED

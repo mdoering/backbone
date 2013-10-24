@@ -1,5 +1,4 @@
-Sphaeronaema solandri Cooke, 1890 SPECIES
-=======
+# Sphaeronaema solandri Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

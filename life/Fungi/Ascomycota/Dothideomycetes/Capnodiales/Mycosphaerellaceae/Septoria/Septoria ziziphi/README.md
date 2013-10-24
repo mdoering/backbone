@@ -1,17 +1,16 @@
-Septoria zizyphi Sacc. SPECIES
-=======
+# Septoria ziziphi Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 173 (1878)
 
 #### Original name
-Septoria zizyphi Sacc.
+Septoria ziziphi Sacc.
 
 ### Remarks
 null

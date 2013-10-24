@@ -1,5 +1,4 @@
-Clonostachys oblongispora Schroers SPECIES
-=======
+# Clonostachys oblongispora Schroers SPECIES
 
 #### Status
 ACCEPTED

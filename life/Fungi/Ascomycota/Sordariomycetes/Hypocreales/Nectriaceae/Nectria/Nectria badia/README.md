@@ -1,5 +1,4 @@
-Nectria badia Maubl. SPECIES
-=======
+# Nectria badia Maubl. SPECIES
 
 #### Status
 ACCEPTED

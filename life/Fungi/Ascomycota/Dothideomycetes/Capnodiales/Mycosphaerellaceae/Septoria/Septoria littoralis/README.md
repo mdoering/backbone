@@ -1,5 +1,4 @@
-Septoria littoralis f. littoralis FORM
-=======
+# Septoria littoralis Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 2(no. 7): 280 (1881)
 
 #### Original name
-Septoria littoralis f. littoralis
+Septoria littoralis Speg.
 
 ### Remarks
 null

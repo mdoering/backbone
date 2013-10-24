@@ -1,5 +1,4 @@
-Pyrenula myriocarpa Fée SPECIES
-=======
+# Pyrenula myriocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

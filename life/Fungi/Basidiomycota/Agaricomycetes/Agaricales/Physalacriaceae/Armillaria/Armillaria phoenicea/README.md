@@ -1,5 +1,4 @@
-Armillaria phoenicea Fr. SPECIES
-=======
+# Armillaria phoenicea Fr. SPECIES
 
 #### Status
 ACCEPTED

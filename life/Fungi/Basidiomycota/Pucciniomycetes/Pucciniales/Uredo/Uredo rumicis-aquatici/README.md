@@ -1,5 +1,4 @@
-Uredo rumicis-aquatici DC. SPECIES
-=======
+# Uredo rumicis-aquatici DC. SPECIES
 
 #### Status
 ACCEPTED

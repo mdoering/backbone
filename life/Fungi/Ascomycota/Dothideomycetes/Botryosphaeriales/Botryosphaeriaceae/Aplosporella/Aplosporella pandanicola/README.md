@@ -1,5 +1,4 @@
-Aplosporella pandanicola A.K. Roy SPECIES
-=======
+# Aplosporella pandanicola A.K. Roy SPECIES
 
 #### Status
 ACCEPTED

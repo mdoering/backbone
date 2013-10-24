@@ -1,5 +1,4 @@
-Typhula humulina Kusnezowa SPECIES
-=======
+# Typhula humulina Kusnezowa SPECIES
 
 #### Status
 ACCEPTED

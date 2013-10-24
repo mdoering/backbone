@@ -1,5 +1,4 @@
-Hendersonia intermedia Sacc. SPECIES
-=======
+# Hendersonia intermedia Sacc. SPECIES
 
 #### Status
 ACCEPTED

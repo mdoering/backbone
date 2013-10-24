@@ -1,5 +1,4 @@
-Facklamia ignava Collins et al., 1998 SPECIES
-=======
+# Facklamia ignava Collins et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

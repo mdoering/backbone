@@ -1,5 +1,4 @@
-Ceratolithus rugosus Bukry & Bramlette, 1968 SPECIES
-=======
+# Ceratolithus rugosus Bukry & Bramlette, 1968 SPECIES
 
 #### Status
 ACCEPTED

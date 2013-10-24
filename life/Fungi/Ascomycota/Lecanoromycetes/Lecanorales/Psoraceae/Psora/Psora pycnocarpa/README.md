@@ -1,5 +1,4 @@
-Psora pycnocarpa Müll. Arg. SPECIES
-=======
+# Psora pycnocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta podocarpi Crous SPECIES
-=======
+# Phyllosticta podocarpi Crous SPECIES
 
 #### Status
 ACCEPTED

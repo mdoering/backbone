@@ -1,5 +1,4 @@
-Verrucaria exquisita Darb. SPECIES
-=======
+# Verrucaria exquisita Darb. SPECIES
 
 #### Status
 ACCEPTED

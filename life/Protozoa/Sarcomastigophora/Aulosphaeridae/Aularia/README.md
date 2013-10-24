@@ -1,5 +1,4 @@
-Aularia Haeckel, 1887 GENUS
-=======
+# Aularia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

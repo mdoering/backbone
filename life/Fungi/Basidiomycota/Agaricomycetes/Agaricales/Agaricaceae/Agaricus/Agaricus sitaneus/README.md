@@ -1,5 +1,4 @@
-Agaricus sitaneus Fr. SPECIES
-=======
+# Agaricus sitaneus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis altamirensis Lücking & Umaña SPECIES
-=======
+# Gyalideopsis altamirensis Lücking & Umaña SPECIES
 
 #### Status
 ACCEPTED

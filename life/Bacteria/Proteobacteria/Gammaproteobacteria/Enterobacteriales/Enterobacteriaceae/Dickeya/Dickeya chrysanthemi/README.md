@@ -1,11 +1,10 @@
-Pectobacterium parthenii Hellmers, 1958 SPECIES
-=======
+# Dickeya chrysanthemi (Burkholder et al., 1953) Samson et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

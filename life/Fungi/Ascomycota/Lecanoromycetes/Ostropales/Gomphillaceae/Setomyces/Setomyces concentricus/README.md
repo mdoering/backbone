@@ -1,5 +1,4 @@
-Setomyces concentricus Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Setomyces concentricus Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

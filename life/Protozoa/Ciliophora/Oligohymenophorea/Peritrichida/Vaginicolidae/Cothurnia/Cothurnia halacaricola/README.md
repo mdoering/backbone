@@ -1,5 +1,4 @@
-Cothurnia halacaricola Precht, 1935 SPECIES
-=======
+# Cothurnia halacaricola Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

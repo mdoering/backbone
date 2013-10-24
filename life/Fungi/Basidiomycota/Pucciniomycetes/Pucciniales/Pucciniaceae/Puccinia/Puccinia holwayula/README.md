@@ -1,5 +1,4 @@
-Puccinia holwayula H.S. Jacks. SPECIES
-=======
+# Puccinia holwayula H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

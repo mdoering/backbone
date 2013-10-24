@@ -1,5 +1,4 @@
-Verrucaria chionea Mont. SPECIES
-=======
+# Verrucaria chionea Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia rorida Hellb. SPECIES
-=======
+# Buellia rorida Hellb. SPECIES
 
 #### Status
 ACCEPTED

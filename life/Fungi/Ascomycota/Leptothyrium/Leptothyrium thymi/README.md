@@ -1,5 +1,4 @@
-Leptothyrium thymi Bubák SPECIES
-=======
+# Leptothyrium thymi Bubák SPECIES
 
 #### Status
 ACCEPTED

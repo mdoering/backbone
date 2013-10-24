@@ -1,5 +1,4 @@
-Anisomeridium angulosum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium angulosum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma hygrophanum Velen. SPECIES
-=======
+# Tricholoma hygrophanum Velen. SPECIES
 
 #### Status
 ACCEPTED

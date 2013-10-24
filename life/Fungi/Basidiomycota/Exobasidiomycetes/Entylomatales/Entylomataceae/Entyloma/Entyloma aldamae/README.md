@@ -1,5 +1,4 @@
-Entyloma aldamae Vánky, 2004 SPECIES
-=======
+# Entyloma aldamae Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

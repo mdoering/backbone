@@ -1,5 +1,4 @@
-Fomes rhizomorpha Mont. SPECIES
-=======
+# Fomes rhizomorpha Mont. SPECIES
 
 #### Status
 ACCEPTED

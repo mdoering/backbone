@@ -1,5 +1,4 @@
-Collybia subclusilis G. Stev. SPECIES
-=======
+# Collybia subclusilis G. Stev. SPECIES
 
 #### Status
 ACCEPTED

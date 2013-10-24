@@ -1,5 +1,4 @@
-Phlebia cremeo-ochracea (Bourdot & Galzin) Parmasto SPECIES
-=======
+# Phlebia cremeo-ochracea (Bourdot & Galzin) Parmasto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium tanganyikeanum Zundel SPECIES
-=======
+# Sorosporium tanganyikeanum Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora radermacherae Boedijn SPECIES
-=======
+# Cercospora radermacherae Boedijn SPECIES
 
 #### Status
 ACCEPTED

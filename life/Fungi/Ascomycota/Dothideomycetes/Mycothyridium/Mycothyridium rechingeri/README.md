@@ -1,5 +1,4 @@
-Mycothyridium rechingeri (Petr.) Petr. SPECIES
-=======
+# Mycothyridium rechingeri (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

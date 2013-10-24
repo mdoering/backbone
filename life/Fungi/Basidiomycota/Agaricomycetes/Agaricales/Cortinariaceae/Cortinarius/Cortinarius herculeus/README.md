@@ -1,5 +1,4 @@
-Cortinarius herculeus f. herculeus FORM
-=======
+# Cortinarius herculeus Malençon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius herculeus f. herculeus
+Cortinarius herculeus Malençon
 
 ### Remarks
 null

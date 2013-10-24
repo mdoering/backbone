@@ -1,5 +1,4 @@
-Asteritea roureae Bat. & R. Garnier, 1961 SPECIES
-=======
+# Asteritea roureae Bat. & R. Garnier, 1961 SPECIES
 
 #### Status
 ACCEPTED

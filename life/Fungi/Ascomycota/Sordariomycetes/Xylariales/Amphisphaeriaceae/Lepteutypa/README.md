@@ -1,17 +1,16 @@
-Lepteutypella Petr. GENUS
-=======
+# Lepteutypa Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(1/2): 98 (1925)
+Annls mycol. 21(3/4): 276 (1923)
 
 #### Original name
-Lepteutypella Petr.
+Lepteutypa Petr.
 
 ### Remarks
 null

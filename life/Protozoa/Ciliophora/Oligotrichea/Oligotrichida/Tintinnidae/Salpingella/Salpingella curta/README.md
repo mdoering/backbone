@@ -1,5 +1,4 @@
-Salpingella curta Kofoid & Campbell, 1929 SPECIES
-=======
+# Salpingella curta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

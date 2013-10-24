@@ -1,5 +1,4 @@
-Trametes sceleton Fr. SPECIES
-=======
+# Trametes sceleton Fr. SPECIES
 
 #### Status
 ACCEPTED

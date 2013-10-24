@@ -1,5 +1,4 @@
-Lecanora tetrasperma Müll. Arg. SPECIES
-=======
+# Lecanora tetrasperma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

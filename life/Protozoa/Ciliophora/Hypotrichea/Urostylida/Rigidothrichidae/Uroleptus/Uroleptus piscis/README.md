@@ -1,5 +1,4 @@
-Uroleptus piscis subsp. piscis SUBSPECIES
-=======
+# Uroleptus piscis (Müller, 1773) Ehr, 1831 SPECIES
 
 #### Status
 ACCEPTED

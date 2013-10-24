@@ -1,17 +1,16 @@
-Sporoschisma insignis Sacc., M. Rousseau & E. Bommer SPECIES
-=======
+# Chalara insignis (Sacc., M. Rousseau & E. Bommer) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 31: 622 (1953)
 
 #### Original name
-Sporoschisma insignis Sacc., M. Rousseau & E. Bommer
+Sporoschisma insigne Sacc., M. Rousseau & E. Bommer, 1884
 
 ### Remarks
 null

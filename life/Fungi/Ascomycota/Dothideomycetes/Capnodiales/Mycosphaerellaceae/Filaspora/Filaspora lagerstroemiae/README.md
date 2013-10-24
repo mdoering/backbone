@@ -1,5 +1,4 @@
-Filaspora lagerstroemiae (Pass.) Kuntze SPECIES
-=======
+# Filaspora lagerstroemiae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

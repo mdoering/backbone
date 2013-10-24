@@ -1,5 +1,4 @@
-Ramaria vittadinii R.H. Petersen SPECIES
-=======
+# Ramaria vittadinii R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

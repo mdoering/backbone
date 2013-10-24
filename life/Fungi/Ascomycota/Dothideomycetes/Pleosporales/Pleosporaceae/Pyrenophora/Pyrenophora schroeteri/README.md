@@ -1,5 +1,4 @@
-Pyrenophora schroeteri M.E. Barr SPECIES
-=======
+# Pyrenophora schroeteri M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

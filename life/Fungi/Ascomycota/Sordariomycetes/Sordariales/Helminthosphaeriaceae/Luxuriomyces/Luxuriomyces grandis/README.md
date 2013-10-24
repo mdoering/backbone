@@ -1,5 +1,4 @@
-Luxuriomyces grandis R.F. Castañeda SPECIES
-=======
+# Luxuriomyces grandis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

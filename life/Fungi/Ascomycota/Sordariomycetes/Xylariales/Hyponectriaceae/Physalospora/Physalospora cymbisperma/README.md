@@ -1,5 +1,4 @@
-Physalospora cymbisperma Speg. SPECIES
-=======
+# Physalospora cymbisperma Speg. SPECIES
 
 #### Status
 ACCEPTED

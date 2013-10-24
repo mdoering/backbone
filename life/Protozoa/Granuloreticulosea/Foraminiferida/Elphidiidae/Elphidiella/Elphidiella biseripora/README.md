@@ -1,5 +1,4 @@
-Elphidiella biseripora Sun, 1991 SPECIES
-=======
+# Elphidiella biseripora Sun, 1991 SPECIES
 
 #### Status
 ACCEPTED

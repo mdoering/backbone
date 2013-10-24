@@ -1,5 +1,4 @@
-Phoma zeicola Ellis & Everh. SPECIES
-=======
+# Phoma zeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

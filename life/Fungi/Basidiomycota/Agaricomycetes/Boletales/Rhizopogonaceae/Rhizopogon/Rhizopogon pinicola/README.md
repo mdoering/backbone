@@ -1,5 +1,4 @@
-Rhizopogon pinicola A.H. Sm. SPECIES
-=======
+# Rhizopogon pinicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

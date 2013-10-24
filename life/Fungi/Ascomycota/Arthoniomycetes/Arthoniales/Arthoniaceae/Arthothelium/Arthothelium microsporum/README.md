@@ -1,5 +1,4 @@
-Arthothelium microsporum Müll. Arg. SPECIES
-=======
+# Arthothelium microsporum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

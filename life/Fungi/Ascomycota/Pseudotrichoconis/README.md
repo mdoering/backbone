@@ -1,5 +1,4 @@
-Pseudotrichoconis W.A. Baker & Morgan-Jones GENUS
-=======
+# Pseudotrichoconis W.A. Baker & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

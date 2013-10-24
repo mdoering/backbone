@@ -1,5 +1,4 @@
-Cyclotella desikacharyi A.K.S.K.Prasad, 2006 SPECIES
-=======
+# Cyclotella desikacharyi A.K.S.K.Prasad, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula phylloplana (R.G. Shivas & Rodr. Mir.) Rodr. Mir. & Weijman SPECIES
-=======
+# Rhodotorula phylloplana (R.G. Shivas & Rodr. Mir.) Rodr. Mir. & Weijman SPECIES
 
 #### Status
 ACCEPTED

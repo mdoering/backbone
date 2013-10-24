@@ -1,5 +1,4 @@
-Peziza scariosa Berk. & M.A. Curtis SPECIES
-=======
+# Peziza scariosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

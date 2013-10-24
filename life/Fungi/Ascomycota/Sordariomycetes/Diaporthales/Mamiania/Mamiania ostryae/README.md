@@ -1,14 +1,13 @@
-Phyllachora ostryae Henn., 1900 SPECIES
-=======
+# Mamiania ostryae (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 29: 151 (1900)
+Annls mycol. 13(5/6): 570 (1915)
 
 #### Original name
 Phyllachora ostryae Henn., 1900

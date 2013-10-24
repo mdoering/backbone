@@ -1,5 +1,4 @@
-Gloiocephala cerkezii Tkalcec & Mesic SPECIES
-=======
+# Gloiocephala cerkezii Tkalcec & Mesic SPECIES
 
 #### Status
 ACCEPTED

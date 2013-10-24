@@ -1,17 +1,16 @@
-Ashbia Cif. & Gonz. Frag. GENUS
-=======
+# Ashbya Guillierm. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Boletín de la Real Sociedad Española de Historia Natural, Biologica 28: 379 (1928)
+Rev. gén. Bot. 40: 562 (1928)
 
 #### Original name
-Ashbia Cif. & Gonz. Frag.
+Ashbya Guillierm.
 
 ### Remarks
 null

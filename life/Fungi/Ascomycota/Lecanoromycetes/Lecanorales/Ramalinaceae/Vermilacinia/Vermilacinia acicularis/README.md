@@ -1,5 +1,4 @@
-Vermilacinia acicularis Spjut SPECIES
-=======
+# Vermilacinia acicularis Spjut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenotheca olivaceorufa (Vain.) Zahlbr. SPECIES
-=======
+# Chaenotheca olivaceorufa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

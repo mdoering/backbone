@@ -1,5 +1,4 @@
-Diplodina smyrnii Parisi SPECIES
-=======
+# Diplodina smyrnii Parisi SPECIES
 
 #### Status
 ACCEPTED

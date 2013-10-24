@@ -1,5 +1,4 @@
-Cercospora junci-filiformis Melnik SPECIES
-=======
+# Cercospora junci-filiformis Melnik SPECIES
 
 #### Status
 ACCEPTED

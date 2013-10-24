@@ -1,5 +1,4 @@
-Hypoxylon vulgare Link SPECIES
-=======
+# Hypoxylon vulgare Link SPECIES
 
 #### Status
 ACCEPTED

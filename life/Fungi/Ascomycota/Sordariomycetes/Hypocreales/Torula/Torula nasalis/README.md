@@ -1,5 +1,4 @@
-Torula nasalis F.C. Harrison SPECIES
-=======
+# Torula nasalis F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrinium austriacum Petr., 1959 SPECIES
-=======
+# Arthrinium austriacum Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED

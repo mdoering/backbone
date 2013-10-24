@@ -1,5 +1,4 @@
-Myxosporidiella Negru GENUS
-=======
+# Myxosporidiella Negru GENUS
 
 #### Status
 ACCEPTED

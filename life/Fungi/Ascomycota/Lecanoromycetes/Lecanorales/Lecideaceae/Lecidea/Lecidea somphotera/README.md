@@ -1,5 +1,4 @@
-Lecidea somphotera f. somphotera FORM
-=======
+# Lecidea somphotera Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea somphotera f. somphotera
+Lecidea somphotera Vain.
 
 ### Remarks
 null

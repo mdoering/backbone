@@ -1,5 +1,4 @@
-Ohleriella Earle GENUS
-=======
+# Ohleriella Earle GENUS
 
 #### Status
 ACCEPTED

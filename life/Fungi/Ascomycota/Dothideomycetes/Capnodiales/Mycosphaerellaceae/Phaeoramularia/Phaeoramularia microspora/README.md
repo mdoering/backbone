@@ -1,5 +1,4 @@
-Phaeoramularia microspora R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
-=======
+# Phaeoramularia microspora R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

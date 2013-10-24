@@ -1,5 +1,4 @@
-Dactylaria graminum (Schwein.) Sacc. SPECIES
-=======
+# Dactylaria graminum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

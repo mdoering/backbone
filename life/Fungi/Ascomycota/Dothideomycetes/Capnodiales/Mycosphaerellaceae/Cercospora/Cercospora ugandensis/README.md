@@ -1,5 +1,4 @@
-Cercospora ugandensis Hansf. SPECIES
-=======
+# Cercospora ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

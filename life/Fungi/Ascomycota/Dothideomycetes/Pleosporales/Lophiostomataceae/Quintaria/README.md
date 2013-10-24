@@ -1,5 +1,4 @@
-Quintaria Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Quintaria Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

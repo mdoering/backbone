@@ -1,5 +1,4 @@
-Septoria salliae W.R. Gerard SPECIES
-=======
+# Septoria salliae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

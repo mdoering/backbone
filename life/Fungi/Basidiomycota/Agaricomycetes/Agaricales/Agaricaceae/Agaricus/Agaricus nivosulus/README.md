@@ -1,5 +1,4 @@
-Agaricus nivosulus Berk. ex Cooke SPECIES
-=======
+# Agaricus nivosulus Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

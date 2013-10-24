@@ -1,5 +1,4 @@
-Aldavemyxa coeruleo-viridis B. V. Skvortzov SPECIES
-=======
+# Aldavemyxa coeruleo-viridis B. V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

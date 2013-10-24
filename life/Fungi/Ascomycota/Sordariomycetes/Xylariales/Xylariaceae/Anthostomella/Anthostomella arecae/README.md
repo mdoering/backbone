@@ -1,5 +1,4 @@
-Anthostomella arecae Rehm SPECIES
-=======
+# Anthostomella arecae Rehm SPECIES
 
 #### Status
 ACCEPTED

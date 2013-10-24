@@ -1,5 +1,4 @@
-Grenularia A.G. Vologdin, 1970 GENUS
-=======
+# Grenularia A.G. Vologdin, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudobeltrania cedrelae Henn., 1902 SPECIES
-=======
+# Pseudobeltrania cedrelae Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

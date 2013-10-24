@@ -1,5 +1,4 @@
-Peridinium defectum Balech in Balech & El-Sayed, 1954 SPECIES
-=======
+# Peridinium defectum Balech in Balech & El-Sayed, 1954 SPECIES
 
 #### Status
 ACCEPTED

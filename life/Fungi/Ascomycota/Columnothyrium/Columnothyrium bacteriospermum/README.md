@@ -1,5 +1,4 @@
-Columnothyrium bacteriospermum Höhn. SPECIES
-=======
+# Columnothyrium bacteriospermum Höhn. SPECIES
 
 #### Status
 ACCEPTED

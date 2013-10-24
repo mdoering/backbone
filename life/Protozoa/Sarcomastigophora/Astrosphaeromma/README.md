@@ -1,5 +1,4 @@
-Astrosphaeromma Haeckel, 1887 GENUS
-=======
+# Astrosphaeromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

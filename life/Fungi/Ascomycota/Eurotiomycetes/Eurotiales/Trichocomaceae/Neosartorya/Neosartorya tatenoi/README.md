@@ -1,5 +1,4 @@
-Neosartorya tatenoi Y. Horie, Miyaji, Koji Yokoy., Udagawa & Camp.-Takagi, 1992 SPECIES
-=======
+# Neosartorya tatenoi Y. Horie, Miyaji, Koji Yokoy., Udagawa & Camp.-Takagi, 1992 SPECIES
 
 #### Status
 ACCEPTED

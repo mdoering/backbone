@@ -1,5 +1,4 @@
-Clavariana aquatica Nawawi, 1976 SPECIES
-=======
+# Clavariana aquatica Nawawi, 1976 SPECIES
 
 #### Status
 ACCEPTED

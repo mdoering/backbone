@@ -1,5 +1,4 @@
-Lecanora toroyensis Zahlbr. SPECIES
-=======
+# Lecanora toroyensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

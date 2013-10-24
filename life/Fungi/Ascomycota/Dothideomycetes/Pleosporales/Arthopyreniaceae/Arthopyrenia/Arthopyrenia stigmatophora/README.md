@@ -1,5 +1,4 @@
-Arthopyrenia stigmatophora (J. Steiner) Riedl SPECIES
-=======
+# Arthopyrenia stigmatophora (J. Steiner) Riedl SPECIES
 
 #### Status
 ACCEPTED

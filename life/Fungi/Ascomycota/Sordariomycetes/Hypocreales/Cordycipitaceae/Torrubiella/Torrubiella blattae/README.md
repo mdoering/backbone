@@ -1,5 +1,4 @@
-Torrubiella blattae Petch SPECIES
-=======
+# Torrubiella blattae Petch SPECIES
 
 #### Status
 ACCEPTED

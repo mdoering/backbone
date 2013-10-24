@@ -1,5 +1,4 @@
-Acidaminococcaceae FAMILY
-=======
+# Acidaminococcaceae FAMILY
 
 #### Status
 ACCEPTED

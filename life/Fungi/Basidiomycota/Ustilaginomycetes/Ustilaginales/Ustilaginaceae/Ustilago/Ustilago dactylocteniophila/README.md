@@ -1,8 +1,7 @@
-Ustilago dactyloctaenophila Henn. SPECIES
-=======
+# Ustilago dactylocteniophila Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago dactyloctaenophila Henn.
+Ustilago dactylocteniophila Henn.
 
 ### Remarks
 null

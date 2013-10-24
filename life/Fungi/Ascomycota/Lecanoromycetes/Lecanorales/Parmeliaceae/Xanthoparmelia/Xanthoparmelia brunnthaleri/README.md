@@ -1,17 +1,16 @@
-Parmelia brunnthaleri f. regularis Gyeln. FORM
-=======
+# Xanthoparmelia brunnthaleri (J. Steiner & Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(5): 486 (1974)
 
 #### Original name
-Parmelia brunnthaleri f. regularis Gyeln.
+Parmelia brunnthaleri J. Steiner & Zahlbr.
 
 ### Remarks
 null

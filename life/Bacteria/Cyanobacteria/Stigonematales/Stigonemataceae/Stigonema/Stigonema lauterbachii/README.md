@@ -1,5 +1,4 @@
-Stigonema lauterbachii Schmidle SPECIES
-=======
+# Stigonema lauterbachii Schmidle SPECIES
 
 #### Status
 ACCEPTED

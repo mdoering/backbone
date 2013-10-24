@@ -1,5 +1,4 @@
-Xanthoparmelia parvoincerta Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia parvoincerta Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

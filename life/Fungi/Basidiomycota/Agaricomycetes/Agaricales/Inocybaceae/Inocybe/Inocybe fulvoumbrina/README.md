@@ -1,5 +1,4 @@
-Inocybe fulvoumbrina Bres. SPECIES
-=======
+# Inocybe fulvoumbrina Bres. SPECIES
 
 #### Status
 ACCEPTED

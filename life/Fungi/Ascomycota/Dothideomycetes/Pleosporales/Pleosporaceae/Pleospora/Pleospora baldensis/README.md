@@ -1,5 +1,4 @@
-Pleospora baldensis Crivelli SPECIES
-=======
+# Pleospora baldensis Crivelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina convelata (Kremp.) Overeem SPECIES
-=======
+# Porina convelata (Kremp.) Overeem SPECIES
 
 #### Status
 ACCEPTED

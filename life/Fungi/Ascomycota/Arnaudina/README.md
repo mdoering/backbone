@@ -1,17 +1,16 @@
-Exosporinella Bender GENUS
-=======
+# Arnaudina Trotter GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 24(4): 410 (1932)
+in Saccardo, Syll. fung. (Abellini) 25: 986 (1931)
 
 #### Original name
-Exosporinella Bender
+Arnaudina Trotter
 
 ### Remarks
 null

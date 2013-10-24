@@ -1,5 +1,4 @@
-Gibberella cyanea (Sollm.) Wollenw., 1916 SPECIES
-=======
+# Gibberella cyanea (Sollm.) Wollenw., 1916 SPECIES
 
 #### Status
 ACCEPTED

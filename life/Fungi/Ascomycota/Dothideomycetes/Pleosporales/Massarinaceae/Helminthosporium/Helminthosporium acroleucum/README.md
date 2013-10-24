@@ -1,5 +1,4 @@
-Helminthosporium acroleucum Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Helminthosporium acroleucum Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

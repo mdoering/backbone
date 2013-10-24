@@ -1,5 +1,4 @@
-Nosema heliothidis SPECIES
-=======
+# Nosema heliothidis SPECIES
 
 #### Status
 ACCEPTED

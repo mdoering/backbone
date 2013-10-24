@@ -1,5 +1,4 @@
-Cortinarius coeruleolutescens Rob. Henry SPECIES
-=======
+# Cortinarius coeruleolutescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

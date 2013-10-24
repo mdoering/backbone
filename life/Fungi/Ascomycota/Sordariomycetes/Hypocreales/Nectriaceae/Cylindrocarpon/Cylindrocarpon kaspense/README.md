@@ -1,5 +1,4 @@
-Cylindrocarpon kaspense Kizik. SPECIES
-=======
+# Cylindrocarpon kaspense Kizik. SPECIES
 
 #### Status
 ACCEPTED

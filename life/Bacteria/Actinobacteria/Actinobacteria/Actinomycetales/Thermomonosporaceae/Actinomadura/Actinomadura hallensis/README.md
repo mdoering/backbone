@@ -1,5 +1,4 @@
-Actinomadura hallensis Lee & Jeong, 2006 SPECIES
-=======
+# Actinomadura hallensis Lee & Jeong, 2006 SPECIES
 
 #### Status
 ACCEPTED

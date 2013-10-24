@@ -1,5 +1,4 @@
-Lithographa cyrtospora (C. Knight) Nyl. SPECIES
-=======
+# Lithographa cyrtospora (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

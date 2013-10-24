@@ -1,5 +1,4 @@
-Deltosperma dimorphum W.Y. Zhuang SPECIES
-=======
+# Deltosperma dimorphum W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

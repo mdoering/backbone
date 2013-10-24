@@ -1,5 +1,4 @@
-Pholiota leptopoda Speg. SPECIES
-=======
+# Pholiota leptopoda Speg. SPECIES
 
 #### Status
 ACCEPTED

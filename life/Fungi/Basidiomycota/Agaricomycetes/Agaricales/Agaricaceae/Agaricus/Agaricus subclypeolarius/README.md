@@ -1,5 +1,4 @@
-Agaricus subclypeolarius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus subclypeolarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

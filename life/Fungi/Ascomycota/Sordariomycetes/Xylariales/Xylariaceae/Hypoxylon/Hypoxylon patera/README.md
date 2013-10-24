@@ -1,5 +1,4 @@
-Hypoxylon patera Berk. & Ravenel SPECIES
-=======
+# Hypoxylon patera Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

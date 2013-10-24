@@ -1,17 +1,16 @@
-Phytophthora castaneae Katsura & K. Uchida, 1976 SPECIES
-=======
+# Phytophthora katsurae W.H. Ko & H.S. Chang, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 17(3-4): 241 (1976)
+Mycologia 71(4): 841 (1979)
 
 #### Original name
-Phytophthora castaneae Katsura & K. Uchida, 1976
+Phytophthora katsurae W.H. Ko & H.S. Chang, 1979
 
 ### Remarks
 null

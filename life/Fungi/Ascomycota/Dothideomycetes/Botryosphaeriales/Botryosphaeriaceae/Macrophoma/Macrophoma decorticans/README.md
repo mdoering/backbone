@@ -1,5 +1,4 @@
-Macrophoma decorticans Allesch. SPECIES
-=======
+# Macrophoma decorticans Allesch. SPECIES
 
 #### Status
 ACCEPTED

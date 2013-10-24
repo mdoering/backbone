@@ -1,5 +1,4 @@
-Phyllosticta epignomonia Bubák & Vleugel SPECIES
-=======
+# Phyllosticta epignomonia Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

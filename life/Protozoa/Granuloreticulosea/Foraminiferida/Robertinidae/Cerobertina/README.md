@@ -1,5 +1,4 @@
-Cerobertina Finlay, 1939 GENUS
-=======
+# Cerobertina Finlay, 1939 GENUS
 
 #### Status
 ACCEPTED

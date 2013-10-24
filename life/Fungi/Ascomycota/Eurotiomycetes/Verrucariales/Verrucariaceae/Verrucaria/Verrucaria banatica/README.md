@@ -1,5 +1,4 @@
-Verrucaria banatica Servít SPECIES
-=======
+# Verrucaria banatica Servít SPECIES
 
 #### Status
 ACCEPTED

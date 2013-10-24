@@ -1,5 +1,4 @@
-Anaptychia polyrhiza Kurok. SPECIES
-=======
+# Anaptychia polyrhiza Kurok. SPECIES
 
 #### Status
 ACCEPTED

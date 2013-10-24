@@ -1,5 +1,4 @@
-Lenzites myriophylla Lév. SPECIES
-=======
+# Lenzites myriophylla Lév. SPECIES
 
 #### Status
 ACCEPTED

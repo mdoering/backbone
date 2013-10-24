@@ -1,8 +1,7 @@
-Dasyscypha patenus (Lév.) Sacc. SPECIES
-=======
+# Dasyscyphus patenus (Lév.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

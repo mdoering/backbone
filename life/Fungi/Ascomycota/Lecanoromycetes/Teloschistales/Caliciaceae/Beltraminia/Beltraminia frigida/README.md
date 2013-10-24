@@ -1,5 +1,4 @@
-Beltraminia frigida (Darb.) C.W. Dodge SPECIES
-=======
+# Beltraminia frigida (Darb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

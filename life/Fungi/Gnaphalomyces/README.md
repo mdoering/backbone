@@ -1,5 +1,4 @@
-Gnaphalomyces Opiz GENUS
-=======
+# Gnaphalomyces Opiz GENUS
 
 #### Status
 ACCEPTED

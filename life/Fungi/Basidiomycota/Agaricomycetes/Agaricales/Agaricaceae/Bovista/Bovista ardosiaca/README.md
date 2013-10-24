@@ -1,5 +1,4 @@
-Bovista ardosiaca (Bull.) Herter SPECIES
-=======
+# Bovista ardosiaca (Bull.) Herter SPECIES
 
 #### Status
 ACCEPTED

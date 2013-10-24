@@ -1,5 +1,4 @@
-Eucyrtidiellidae Takemura FAMILY
-=======
+# Eucyrtidiellidae Takemura FAMILY
 
 #### Status
 ACCEPTED

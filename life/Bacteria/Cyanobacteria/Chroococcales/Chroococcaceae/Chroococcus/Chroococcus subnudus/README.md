@@ -1,8 +1,7 @@
-Chroococcus turgidus var. subnudus Hansgirg VARIETY
-=======
+# Chroococcus subnudus (Hansgirg) G. Cronberg & J. Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

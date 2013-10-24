@@ -1,8 +1,7 @@
-Lachnocladium guadalupense (Lév.) Pat. SPECIES
-=======
+# Lachnocladium guadelupense (Lév.) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

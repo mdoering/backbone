@@ -1,5 +1,4 @@
-Protomicarea Hafellner GENUS
-=======
+# Protomicarea Hafellner GENUS
 
 #### Status
 ACCEPTED

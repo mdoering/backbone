@@ -1,5 +1,4 @@
-Pyrenochaetina curcumae Sawada SPECIES
-=======
+# Pyrenochaetina curcumae Sawada SPECIES
 
 #### Status
 ACCEPTED

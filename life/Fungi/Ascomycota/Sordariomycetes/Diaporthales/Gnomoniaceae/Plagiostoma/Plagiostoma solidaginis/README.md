@@ -1,5 +1,4 @@
-Plagiostoma solidaginis J.C. Cooke & M.E. Barr SPECIES
-=======
+# Plagiostoma solidaginis J.C. Cooke & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

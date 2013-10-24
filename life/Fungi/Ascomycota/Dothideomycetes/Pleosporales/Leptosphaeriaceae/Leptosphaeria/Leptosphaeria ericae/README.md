@@ -1,5 +1,4 @@
-Leptosphaeria ericae (Fr.) Malbr. SPECIES
-=======
+# Leptosphaeria ericae (Fr.) Malbr. SPECIES
 
 #### Status
 ACCEPTED

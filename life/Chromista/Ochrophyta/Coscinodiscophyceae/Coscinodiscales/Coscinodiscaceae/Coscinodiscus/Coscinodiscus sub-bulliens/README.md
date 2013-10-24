@@ -1,5 +1,4 @@
-Coscinodiscus sub-bulliens E. Jorgensen SPECIES
-=======
+# Coscinodiscus sub-bulliens E. Jorgensen SPECIES
 
 #### Status
 ACCEPTED

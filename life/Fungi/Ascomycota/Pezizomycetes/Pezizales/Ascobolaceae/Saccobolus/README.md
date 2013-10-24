@@ -1,17 +1,16 @@
-Ornithascus Velen. GENUS
-=======
+# Saccobolus Boud. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 1: 368 (1934)
+Annls Sci. Nat. , Bot. , sér. 5 10: 228 (1869)
 
 #### Original name
-Ornithascus Velen.
+Saccobolus Boud.
 
 ### Remarks
 null

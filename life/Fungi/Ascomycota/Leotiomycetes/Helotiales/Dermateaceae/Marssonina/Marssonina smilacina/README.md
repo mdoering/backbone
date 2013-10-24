@@ -1,5 +1,4 @@
-Marssonina smilacina (Thüm.) Magnus SPECIES
-=======
+# Marssonina smilacina (Thüm.) Magnus SPECIES
 
 #### Status
 ACCEPTED

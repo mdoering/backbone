@@ -1,5 +1,4 @@
-Trichia sphaerocephala Hoffm. SPECIES
-=======
+# Trichia sphaerocephala Hoffm. SPECIES
 
 #### Status
 ACCEPTED

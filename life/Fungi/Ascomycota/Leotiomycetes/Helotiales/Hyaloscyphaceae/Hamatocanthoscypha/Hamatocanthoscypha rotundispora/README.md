@@ -1,5 +1,4 @@
-Hamatocanthoscypha rotundispora Raitv. & R. Galán SPECIES
-=======
+# Hamatocanthoscypha rotundispora Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

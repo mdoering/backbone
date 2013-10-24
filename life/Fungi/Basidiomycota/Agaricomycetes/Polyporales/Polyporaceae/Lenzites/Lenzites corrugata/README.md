@@ -1,5 +1,4 @@
-Lenzites corrugata Klotzsch SPECIES
-=======
+# Lenzites corrugata Klotzsch SPECIES
 
 #### Status
 ACCEPTED

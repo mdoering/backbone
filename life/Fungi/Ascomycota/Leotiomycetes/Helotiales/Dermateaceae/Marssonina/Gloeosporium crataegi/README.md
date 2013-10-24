@@ -1,5 +1,4 @@
-Gloeosporium crataegi Dearn. & Barthol. SPECIES
-=======
+# Gloeosporium crataegi Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stradnerlithus ellipticus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
-=======
+# Stradnerlithus ellipticus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

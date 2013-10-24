@@ -1,14 +1,13 @@
-Biatora turgida Ach. SPECIES
-=======
+# Stenhammarella turgida (Ach.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 273 (1810)
+Nova Hedwigia, Beih. (1967)
 
 #### Original name
 Biatora turgida Ach.

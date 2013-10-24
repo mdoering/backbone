@@ -1,5 +1,4 @@
-Septoria glycericola R. Sprague SPECIES
-=======
+# Septoria glycericola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium levistici Sandu & Mítítíuc SPECIES
-=======
+# Coniothyrium levistici Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

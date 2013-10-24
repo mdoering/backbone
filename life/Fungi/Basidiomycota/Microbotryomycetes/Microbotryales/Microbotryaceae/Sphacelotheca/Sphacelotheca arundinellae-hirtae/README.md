@@ -1,5 +1,4 @@
-Sphacelotheca arundinellae-hirtae (S. Ito) Zundel SPECIES
-=======
+# Sphacelotheca arundinellae-hirtae (S. Ito) Zundel SPECIES
 
 #### Status
 ACCEPTED

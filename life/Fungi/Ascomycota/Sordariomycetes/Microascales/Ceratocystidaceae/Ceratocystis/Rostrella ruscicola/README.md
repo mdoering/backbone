@@ -1,5 +1,4 @@
-Rostrella ruscicola Fabre SPECIES
-=======
+# Rostrella ruscicola Fabre SPECIES
 
 #### Status
 ACCEPTED

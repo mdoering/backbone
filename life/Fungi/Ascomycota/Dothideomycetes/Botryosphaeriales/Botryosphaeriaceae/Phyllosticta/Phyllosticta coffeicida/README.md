@@ -1,5 +1,4 @@
-Phyllosticta coffeicida Speg. SPECIES
-=======
+# Phyllosticta coffeicida Speg. SPECIES
 
 #### Status
 ACCEPTED

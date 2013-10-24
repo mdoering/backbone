@@ -1,5 +1,4 @@
-Melanops arundinariae (Earle) Weese SPECIES
-=======
+# Melanops arundinariae (Earle) Weese SPECIES
 
 #### Status
 ACCEPTED

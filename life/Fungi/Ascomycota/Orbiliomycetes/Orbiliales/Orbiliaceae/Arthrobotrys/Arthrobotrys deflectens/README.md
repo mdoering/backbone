@@ -1,5 +1,4 @@
-Arthrobotrys deflectens Bres. SPECIES
-=======
+# Arthrobotrys deflectens Bres. SPECIES
 
 #### Status
 ACCEPTED

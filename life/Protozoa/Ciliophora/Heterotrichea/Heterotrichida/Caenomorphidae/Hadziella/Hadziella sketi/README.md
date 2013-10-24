@@ -1,5 +1,4 @@
-Hadziella sketi Bole, 1961 SPECIES
-=======
+# Hadziella sketi Bole, 1961 SPECIES
 
 #### Status
 ACCEPTED

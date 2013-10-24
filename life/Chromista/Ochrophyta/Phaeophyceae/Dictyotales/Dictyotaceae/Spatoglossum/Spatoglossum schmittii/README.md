@@ -1,5 +1,4 @@
-Spatoglossum schmittii W.R. Taylor SPECIES
-=======
+# Spatoglossum schmittii W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

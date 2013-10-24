@@ -1,5 +1,4 @@
-Sphacelotheca manchurica (S. Ito) Y.C. Wang SPECIES
-=======
+# Sphacelotheca manchurica (S. Ito) Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

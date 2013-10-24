@@ -1,5 +1,4 @@
-Polyporus elachista Berk. ex Cooke SPECIES
-=======
+# Polyporus elachista Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

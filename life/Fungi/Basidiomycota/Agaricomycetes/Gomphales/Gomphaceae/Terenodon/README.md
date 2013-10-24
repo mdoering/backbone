@@ -1,5 +1,4 @@
-Terenodon Maas Geest. GENUS
-=======
+# Terenodon Maas Geest. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella sudetica (Körb.) Stein SPECIES
-=======
+# Lecidella sudetica (Körb.) Stein SPECIES
 
 #### Status
 ACCEPTED

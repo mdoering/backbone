@@ -1,5 +1,4 @@
-Coccomyces urceolus Sherwood, 1980 SPECIES
-=======
+# Coccomyces urceolus Sherwood, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocryptomonas C.E.M.Bicudo & G.Tell, 1988 GENUS
-=======
+# Pseudocryptomonas C.E.M.Bicudo & G.Tell, 1988 GENUS
 
 #### Status
 SYNONYM

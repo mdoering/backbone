@@ -1,5 +1,4 @@
-Lepraria floerkeana Ach. SPECIES
-=======
+# Lepraria floerkeana Ach. SPECIES
 
 #### Status
 ACCEPTED

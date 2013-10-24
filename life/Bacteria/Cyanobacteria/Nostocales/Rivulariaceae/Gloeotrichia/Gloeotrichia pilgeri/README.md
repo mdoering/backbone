@@ -1,5 +1,4 @@
-Gloeotrichia pilgeri Schmidle SPECIES
-=======
+# Gloeotrichia pilgeri Schmidle SPECIES
 
 #### Status
 ACCEPTED

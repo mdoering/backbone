@@ -1,5 +1,4 @@
-Baltisphaeridium caudatum Pykhova, 1973 SPECIES
-=======
+# Baltisphaeridium caudatum Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

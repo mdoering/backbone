@@ -1,5 +1,4 @@
-Trichosporum brunneum (Schenk) Sacc. SPECIES
-=======
+# Trichosporum brunneum (Schenk) Sacc. SPECIES
 
 #### Status
 ACCEPTED

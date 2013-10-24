@@ -1,5 +1,4 @@
-Melanconium pandani Lév., 1845 SPECIES
-=======
+# Melanconium pandani Lév., 1845 SPECIES
 
 #### Status
 ACCEPTED

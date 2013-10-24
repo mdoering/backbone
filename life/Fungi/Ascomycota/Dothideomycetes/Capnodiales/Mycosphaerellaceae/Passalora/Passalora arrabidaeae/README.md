@@ -1,5 +1,4 @@
-Passalora arrabidaeae (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora arrabidaeae (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

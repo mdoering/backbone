@@ -1,5 +1,4 @@
-Hyaloscypha senilis Velen. SPECIES
-=======
+# Hyaloscypha senilis Velen. SPECIES
 
 #### Status
 ACCEPTED

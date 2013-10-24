@@ -1,5 +1,4 @@
-Trochoporina Soliman, 1972 GENUS
-=======
+# Trochoporina Soliman, 1972 GENUS
 
 #### Status
 ACCEPTED

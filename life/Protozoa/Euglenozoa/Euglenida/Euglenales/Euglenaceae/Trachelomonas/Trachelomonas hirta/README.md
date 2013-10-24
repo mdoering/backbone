@@ -1,5 +1,4 @@
-Trachelomonas hirta var. duplex Deflandre VARIETY
-=======
+# Trachelomonas hirta Da Cuncha SPECIES
 
 #### Status
 ACCEPTED

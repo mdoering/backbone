@@ -1,5 +1,4 @@
-Psathyrella lucipeta (Berk. & Broome) Pegler SPECIES
-=======
+# Psathyrella lucipeta (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

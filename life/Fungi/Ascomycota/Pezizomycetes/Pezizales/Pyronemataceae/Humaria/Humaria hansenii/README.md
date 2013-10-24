@@ -1,5 +1,4 @@
-Humaria hansenii Rick SPECIES
-=======
+# Humaria hansenii Rick SPECIES
 
 #### Status
 ACCEPTED

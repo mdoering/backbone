@@ -1,5 +1,4 @@
-Leptodermella von Höhnel, 1915 GENUS
-=======
+# Leptodermella von Höhnel, 1915 GENUS
 
 #### Status
 ACCEPTED

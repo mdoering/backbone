@@ -1,8 +1,7 @@
-Rhizobium meliloti Dangeard, 1926 (Approved Lists, 1980) SPECIES
-=======
+# Ensifer meliloti (Dangeard, 1926) Young, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

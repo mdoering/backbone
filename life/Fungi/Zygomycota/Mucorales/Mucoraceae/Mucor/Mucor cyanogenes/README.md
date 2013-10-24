@@ -1,5 +1,4 @@
-Mucor cyanogenes Guyot SPECIES
-=======
+# Mucor cyanogenes Guyot SPECIES
 
 #### Status
 ACCEPTED

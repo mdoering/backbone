@@ -1,5 +1,4 @@
-Leptotus platensis Speg. SPECIES
-=======
+# Leptotus platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

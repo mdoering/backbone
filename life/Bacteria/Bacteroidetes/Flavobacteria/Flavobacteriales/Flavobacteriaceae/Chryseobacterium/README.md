@@ -1,5 +1,4 @@
-Chryseobacterium Vandamme et al., 1994 GENUS
-=======
+# Chryseobacterium Vandamme et al., 1994 GENUS
 
 #### Status
 ACCEPTED

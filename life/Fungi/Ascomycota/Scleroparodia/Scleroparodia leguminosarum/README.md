@@ -1,5 +1,4 @@
-Scleroparodia leguminosarum Petr. SPECIES
-=======
+# Scleroparodia leguminosarum Petr. SPECIES
 
 #### Status
 ACCEPTED

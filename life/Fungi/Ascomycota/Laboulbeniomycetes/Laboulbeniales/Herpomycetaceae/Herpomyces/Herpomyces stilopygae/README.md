@@ -1,5 +1,4 @@
-Herpomyces stilopygae Speg. SPECIES
-=======
+# Herpomyces stilopygae Speg. SPECIES
 
 #### Status
 ACCEPTED

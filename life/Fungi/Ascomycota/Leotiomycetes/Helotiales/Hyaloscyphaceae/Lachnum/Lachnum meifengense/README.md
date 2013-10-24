@@ -1,5 +1,4 @@
-Lachnum meifengense Y.Z. Wang SPECIES
-=======
+# Lachnum meifengense Y.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

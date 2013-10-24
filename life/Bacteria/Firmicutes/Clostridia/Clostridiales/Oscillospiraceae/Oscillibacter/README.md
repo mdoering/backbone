@@ -1,5 +1,4 @@
-Oscillibacter Iino et al., 2007 GENUS
-=======
+# Oscillibacter Iino et al., 2007 GENUS
 
 #### Status
 ACCEPTED

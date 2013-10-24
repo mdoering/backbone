@@ -1,17 +1,16 @@
-Badhamia foliicola f. flavescens Meyl. FORM
-=======
+# Badhamia foliicola Lister, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Vaud. Sci. Nat. 57: 301 (1931)
+J. Bot. , London 35: 209 (1897)
 
 #### Original name
-Badhamia foliicola f. flavescens Meyl.
+Badhamia foliicola Lister, 1897
 
 ### Remarks
 null

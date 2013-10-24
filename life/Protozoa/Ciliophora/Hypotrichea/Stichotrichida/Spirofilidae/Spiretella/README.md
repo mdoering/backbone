@@ -1,17 +1,16 @@
-Spiratella Borror, 1972 GENUS
-=======
+# Spiretella Borror, 1972 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Protozool. 19: 8, 12 (as Spiretella; also as Spiratella in error).
+J. Protozool. 19: 8, 12 (as Spiratella in error).
 
 #### Original name
-null
+Spiretta von Gelei, 1944
 
 ### Remarks
 null

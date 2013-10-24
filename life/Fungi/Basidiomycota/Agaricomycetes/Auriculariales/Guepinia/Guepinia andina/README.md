@@ -1,5 +1,4 @@
-Guepinia andina (Pat.) Sacc. SPECIES
-=======
+# Guepinia andina (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

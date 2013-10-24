@@ -1,5 +1,4 @@
-Heteroschisma C.A. Kofoid & T. Skogsberg, 1928 GENUS
-=======
+# Heteroschisma C.A. Kofoid & T. Skogsberg, 1928 GENUS
 
 #### Status
 ACCEPTED

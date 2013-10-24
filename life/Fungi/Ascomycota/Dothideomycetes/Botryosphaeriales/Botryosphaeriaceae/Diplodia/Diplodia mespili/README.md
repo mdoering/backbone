@@ -1,5 +1,4 @@
-Diplodia mespili Hollós SPECIES
-=======
+# Diplodia mespili Hollós SPECIES
 
 #### Status
 ACCEPTED

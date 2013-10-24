@@ -1,5 +1,4 @@
-Eriomycopsis angustispora Hansf. SPECIES
-=======
+# Eriomycopsis angustispora Hansf. SPECIES
 
 #### Status
 ACCEPTED

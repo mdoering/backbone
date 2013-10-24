@@ -1,14 +1,13 @@
-Peltidea variolosa f. britannica Gyeln. FORM
-=======
+# Peltigera britannica (Gyeln.) Holt.-Hartw. & Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 3: 681-688 (1983)
 
 #### Original name
 Peltidea variolosa f. britannica Gyeln.

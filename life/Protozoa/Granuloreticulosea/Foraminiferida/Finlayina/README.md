@@ -1,5 +1,4 @@
-Finlayina Hayward & Morgans, 1981 GENUS
-=======
+# Finlayina Hayward & Morgans, 1981 GENUS
 
 #### Status
 ACCEPTED

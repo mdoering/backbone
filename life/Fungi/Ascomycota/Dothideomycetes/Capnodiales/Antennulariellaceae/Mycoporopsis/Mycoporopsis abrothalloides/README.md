@@ -1,5 +1,4 @@
-Mycoporopsis abrothalloides (Nyl.) Müll. Arg. SPECIES
-=======
+# Mycoporopsis abrothalloides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

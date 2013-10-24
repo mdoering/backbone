@@ -1,17 +1,16 @@
-Asterina gibbosa var. gibbosa Gaillard VARIETY
-=======
+# Asterina gibbosa Gaillard SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
 null
 
 #### Original name
-Asterina gibbosa var. gibbosa Gaillard
+Asterina gibbosa Gaillard
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dinobryon brucei K. H. Nicholls SPECIES
-=======
+# Dinobryon brucei K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

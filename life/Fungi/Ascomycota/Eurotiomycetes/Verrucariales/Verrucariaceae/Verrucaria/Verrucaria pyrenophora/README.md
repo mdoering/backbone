@@ -1,5 +1,4 @@
-Verrucaria pyrenophora SPECIES
-=======
+# Verrucaria pyrenophora SPECIES
 
 #### Status
 ACCEPTED

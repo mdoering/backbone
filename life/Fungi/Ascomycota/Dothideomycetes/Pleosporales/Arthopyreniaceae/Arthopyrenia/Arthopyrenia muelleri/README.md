@@ -1,5 +1,4 @@
-Arthopyrenia muelleri Zahlbr. SPECIES
-=======
+# Arthopyrenia muelleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

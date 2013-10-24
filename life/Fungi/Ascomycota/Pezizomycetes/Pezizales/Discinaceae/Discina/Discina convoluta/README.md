@@ -1,5 +1,4 @@
-Discina convoluta Seaver SPECIES
-=======
+# Discina convoluta Seaver SPECIES
 
 #### Status
 ACCEPTED

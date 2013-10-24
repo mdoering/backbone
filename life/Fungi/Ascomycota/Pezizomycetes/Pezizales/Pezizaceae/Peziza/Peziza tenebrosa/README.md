@@ -1,5 +1,4 @@
-Peziza tenebrosa P. Karst. SPECIES
-=======
+# Peziza tenebrosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

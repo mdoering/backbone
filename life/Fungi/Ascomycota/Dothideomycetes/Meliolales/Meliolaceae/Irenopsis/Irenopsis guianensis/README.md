@@ -1,5 +1,4 @@
-Irenopsis guianensis (F. Stevens & R.I. Dowell) F. Stevens SPECIES
-=======
+# Irenopsis guianensis (F. Stevens & R.I. Dowell) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

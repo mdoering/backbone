@@ -1,17 +1,16 @@
-Inocybe carpta f. carpta (Scop.) P. Kumm. FORM
-=======
+# Inocybe subcarpta Kühner & Boursier, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 79 (1871)
+Bull. trimest. Soc. mycol. Fr. 48: 137 (1932)
 
 #### Original name
-Inocybe carpta f. carpta (Scop.) P. Kumm.
+Inocybe subcarpta Kühner & Boursier, 1932
 
 ### Remarks
 null

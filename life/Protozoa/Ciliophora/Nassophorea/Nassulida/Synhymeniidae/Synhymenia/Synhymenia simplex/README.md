@@ -1,5 +1,4 @@
-Synhymenia simplex (Ozaki & Yagiu, 1941) Jankowski, 1992 SPECIES
-=======
+# Synhymenia simplex (Ozaki & Yagiu, 1941) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllostictella lentaginis (Sacc. & Syd.) Tassi SPECIES
-=======
+# Phyllostictella lentaginis (Sacc. & Syd.) Tassi SPECIES
 
 #### Status
 ACCEPTED

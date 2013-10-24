@@ -1,5 +1,4 @@
-Asteroma mali Desm. SPECIES
-=======
+# Asteroma mali Desm. SPECIES
 
 #### Status
 ACCEPTED

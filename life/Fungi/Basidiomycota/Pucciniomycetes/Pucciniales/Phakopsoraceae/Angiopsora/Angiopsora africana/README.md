@@ -1,5 +1,4 @@
-Angiopsora africana Cummins SPECIES
-=======
+# Angiopsora africana Cummins SPECIES
 
 #### Status
 ACCEPTED

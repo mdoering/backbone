@@ -1,5 +1,4 @@
-Lachnocladium bicolor (Peck) Burt SPECIES
-=======
+# Lachnocladium bicolor (Peck) Burt SPECIES
 
 #### Status
 ACCEPTED

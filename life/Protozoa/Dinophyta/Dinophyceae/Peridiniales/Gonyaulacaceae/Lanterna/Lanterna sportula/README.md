@@ -1,5 +1,4 @@
-Lanterna sportula Dodekova SPECIES
-=======
+# Lanterna sportula Dodekova SPECIES
 
 #### Status
 ACCEPTED

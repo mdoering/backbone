@@ -1,17 +1,16 @@
-Parmelia saccatiloba f. saccatiloba FORM
-=======
+# Parmotrema saccatilobum (Taylor) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 6: 174 (1847)
+Phytologia 28: 339 (1974)
 
 #### Original name
-Parmelia saccatiloba f. saccatiloba
+Parmelia saccatiloba Taylor
 
 ### Remarks
 null

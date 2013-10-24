@@ -1,5 +1,4 @@
-Dichothrix erysiphina (Henn.) Theiss. SPECIES
-=======
+# Dichothrix erysiphina (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

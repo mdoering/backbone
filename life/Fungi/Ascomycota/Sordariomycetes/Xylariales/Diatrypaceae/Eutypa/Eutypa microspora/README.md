@@ -1,5 +1,4 @@
-Eutypa microspora C. Moreau & Moreau SPECIES
-=======
+# Eutypa microspora C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

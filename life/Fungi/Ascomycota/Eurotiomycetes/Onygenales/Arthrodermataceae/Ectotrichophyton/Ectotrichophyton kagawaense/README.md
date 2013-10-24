@@ -1,5 +1,4 @@
-Ectotrichophyton kagawaense (H. Fujii) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton kagawaense (H. Fujii) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosphaerina umbelliferarum (Rabenh.) Petr. SPECIES
-=======
+# Discosphaerina umbelliferarum (Rabenh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

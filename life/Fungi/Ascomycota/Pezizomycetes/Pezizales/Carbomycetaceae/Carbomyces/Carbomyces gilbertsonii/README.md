@@ -1,14 +1,13 @@
-Abstoma longii Zeller, 1944 SPECIES
-=======
+# Carbomyces gilbertsonii N.S. Weber & Trappe, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 36(6): 628 (1944)
+in Trappe & Weber, Harvard Pap. Bot. 6(1): 212 (2001)
 
 #### Original name
 Abstoma longii Zeller, 1944

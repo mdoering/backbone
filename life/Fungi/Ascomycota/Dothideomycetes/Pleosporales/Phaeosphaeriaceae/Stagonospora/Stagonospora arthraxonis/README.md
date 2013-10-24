@@ -1,5 +1,4 @@
-Stagonospora arthraxonis E. Castell. & Germano SPECIES
-=======
+# Stagonospora arthraxonis E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

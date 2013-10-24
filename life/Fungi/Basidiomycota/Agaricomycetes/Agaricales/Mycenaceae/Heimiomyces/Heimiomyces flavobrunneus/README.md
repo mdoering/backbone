@@ -1,5 +1,4 @@
-Heimiomyces flavobrunneus E. Horak SPECIES
-=======
+# Heimiomyces flavobrunneus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbago trianthemae E.G. Simmons, 1986 SPECIES
-=======
+# Gibbago trianthemae E.G. Simmons, 1986 SPECIES
 
 #### Status
 ACCEPTED

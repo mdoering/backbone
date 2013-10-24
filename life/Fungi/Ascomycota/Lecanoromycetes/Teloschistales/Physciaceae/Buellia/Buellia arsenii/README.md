@@ -1,5 +1,4 @@
-Buellia arsenii B. de Lesd. SPECIES
-=======
+# Buellia arsenii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

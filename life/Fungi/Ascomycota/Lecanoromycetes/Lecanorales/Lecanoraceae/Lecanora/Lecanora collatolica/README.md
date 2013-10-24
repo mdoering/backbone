@@ -1,5 +1,4 @@
-Lecanora collatolica J. W. Thomson & T. H. Nash SPECIES
-=======
+# Lecanora collatolica J. W. Thomson & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

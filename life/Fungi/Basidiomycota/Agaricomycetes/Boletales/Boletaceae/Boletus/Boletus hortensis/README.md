@@ -1,5 +1,4 @@
-Boletus hortensis f. hortensis FORM
-=======
+# Boletus hortensis Smotl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sitzungsberichte der Königlichen Böhmischen Gesellschaft der Wissenschaften, 1911 40 (1912)
 
 #### Original name
-Boletus hortensis f. hortensis
+Boletus hortensis Smotl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spumella hovassei (Fiatte & Joyon) Bourrelly SPECIES
-=======
+# Spumella hovassei (Fiatte & Joyon) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

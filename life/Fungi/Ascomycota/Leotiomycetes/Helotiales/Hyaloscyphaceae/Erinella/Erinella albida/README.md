@@ -1,5 +1,4 @@
-Erinella albida Penz. & Sacc. SPECIES
-=======
+# Erinella albida Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

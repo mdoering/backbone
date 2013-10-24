@@ -1,5 +1,4 @@
-Cyathicula granulosa Rodway SPECIES
-=======
+# Cyathicula granulosa Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bignotella Willems, 1975 GENUS
-=======
+# Bignotella Willems, 1975 GENUS
 
 #### Status
 ACCEPTED

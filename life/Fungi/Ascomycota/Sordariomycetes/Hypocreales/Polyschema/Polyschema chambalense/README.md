@@ -1,17 +1,16 @@
-Polyschema chambalensis I.J. Joshi, R.K.S. Chauhan & S.B. Saksena SPECIES
-=======
+# Polyschema chambalense I.J. Joshi, R.K.S. Chauhan & S.B. Saksena, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 52(5): 221 (1983)
 
 #### Original name
-Polyschema chambalensis I.J. Joshi, R.K.S. Chauhan & S.B. Saksena
+Polyschema chambalense I.J. Joshi, R.K.S. Chauhan & S.B. Saksena, 1983
 
 ### Remarks
 null

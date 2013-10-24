@@ -1,5 +1,4 @@
-Tulasnella tulasnei (Pat.) Juel SPECIES
-=======
+# Tulasnella tulasnei (Pat.) Juel SPECIES
 
 #### Status
 ACCEPTED

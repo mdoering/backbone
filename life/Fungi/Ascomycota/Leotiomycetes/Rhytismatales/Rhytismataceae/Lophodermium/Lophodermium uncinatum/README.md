@@ -1,14 +1,13 @@
-Lophodermina uncinata (Darker) Tehon, 1935 SPECIES
-=======
+# Lophodermium uncinatum Darker, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(4): 110 (1935)
+Contr. Arnold Arbor. 1: 76 (1932)
 
 #### Original name
 Lophodermium uncinatum Darker, 1932

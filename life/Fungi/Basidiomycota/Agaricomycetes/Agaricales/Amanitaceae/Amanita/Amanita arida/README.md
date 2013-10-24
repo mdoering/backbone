@@ -1,5 +1,4 @@
-Amanita arida (Fr.) Quél. SPECIES
-=======
+# Amanita arida (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

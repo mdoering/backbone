@@ -1,5 +1,4 @@
-Ancylistes closterii Pfitzer, 1872 SPECIES
-=======
+# Ancylistes closterii Pfitzer, 1872 SPECIES
 
 #### Status
 ACCEPTED

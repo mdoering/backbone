@@ -1,5 +1,4 @@
-Crocynia hakodatana B. de Lesd. SPECIES
-=======
+# Crocynia hakodatana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

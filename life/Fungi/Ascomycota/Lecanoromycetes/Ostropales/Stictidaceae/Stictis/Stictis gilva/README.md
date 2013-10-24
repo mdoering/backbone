@@ -1,5 +1,4 @@
-Stictis gilva Fr. SPECIES
-=======
+# Stictis gilva Fr. SPECIES
 
 #### Status
 ACCEPTED

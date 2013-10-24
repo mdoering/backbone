@@ -1,5 +1,4 @@
-Inocybe australiensis Cleland & Cheel SPECIES
-=======
+# Inocybe australiensis Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

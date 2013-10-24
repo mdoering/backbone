@@ -1,8 +1,7 @@
-Thalassiosira monoporocyclus Hasle SPECIES
-=======
+# Thalassiosira minuscula Krasske SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

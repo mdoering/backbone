@@ -1,5 +1,4 @@
-Polysporina arenacea (H. Magn.) K. Knudsen & Kocourk. SPECIES
-=======
+# Polysporina arenacea (H. Magn.) K. Knudsen & Kocourk. SPECIES
 
 #### Status
 ACCEPTED

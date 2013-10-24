@@ -1,5 +1,4 @@
-Gloeosporium suberis Rolland SPECIES
-=======
+# Gloeosporium suberis Rolland SPECIES
 
 #### Status
 ACCEPTED

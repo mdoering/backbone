@@ -1,5 +1,4 @@
-Trichobelonium virgineum Rick SPECIES
-=======
+# Trichobelonium virgineum Rick SPECIES
 
 #### Status
 ACCEPTED

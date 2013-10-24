@@ -1,5 +1,4 @@
-Puccinia angustifoliae McAlpine SPECIES
-=======
+# Puccinia angustifoliae McAlpine SPECIES
 
 #### Status
 ACCEPTED

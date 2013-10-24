@@ -1,17 +1,16 @@
-Diaboliumbilicus mirabile I. Hino & Katum. SPECIES
-=======
+# Diaboliumbilicus mirabilis I. Hino & Katum., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Faculty of Agriculture, Yamaguchi University 6: (1955)
 
 #### Original name
-Diaboliumbilicus mirabile I. Hino & Katum.
+Diaboliumbilicus mirabilis I. Hino & Katum., 1955
 
 ### Remarks
 null

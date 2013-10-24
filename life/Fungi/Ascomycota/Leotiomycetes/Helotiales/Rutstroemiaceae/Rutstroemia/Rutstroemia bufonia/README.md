@@ -1,5 +1,4 @@
-Rutstroemia bufonia Velen. SPECIES
-=======
+# Rutstroemia bufonia Velen. SPECIES
 
 #### Status
 ACCEPTED

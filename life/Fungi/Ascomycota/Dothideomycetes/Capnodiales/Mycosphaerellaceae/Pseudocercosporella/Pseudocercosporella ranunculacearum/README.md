@@ -1,5 +1,4 @@
-Pseudocercosporella ranunculacearum U. Braun SPECIES
-=======
+# Pseudocercosporella ranunculacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

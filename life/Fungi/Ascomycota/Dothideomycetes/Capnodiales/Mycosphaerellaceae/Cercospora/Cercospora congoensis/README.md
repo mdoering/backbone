@@ -1,5 +1,4 @@
-Cercospora congoensis Syd. SPECIES
-=======
+# Cercospora congoensis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pertyae-rigidulae Miura SPECIES
-=======
+# Phyllosticta pertyae-rigidulae Miura SPECIES
 
 #### Status
 ACCEPTED

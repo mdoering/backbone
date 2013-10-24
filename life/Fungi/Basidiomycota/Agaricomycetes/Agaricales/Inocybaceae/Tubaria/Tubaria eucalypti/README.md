@@ -1,5 +1,4 @@
-Tubaria eucalypti Earle SPECIES
-=======
+# Tubaria eucalypti Earle SPECIES
 
 #### Status
 ACCEPTED

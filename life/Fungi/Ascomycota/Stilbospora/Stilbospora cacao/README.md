@@ -1,5 +1,4 @@
-Stilbospora cacao Massee SPECIES
-=======
+# Stilbospora cacao Massee SPECIES
 
 #### Status
 ACCEPTED

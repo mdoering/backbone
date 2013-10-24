@@ -1,5 +1,4 @@
-Caloplaca callopiza (Nyl.) Jatta SPECIES
-=======
+# Caloplaca callopiza (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

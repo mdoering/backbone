@@ -1,5 +1,4 @@
-Tuburcinia ixiolirii Lavrov SPECIES
-=======
+# Tuburcinia ixiolirii Lavrov SPECIES
 
 #### Status
 ACCEPTED

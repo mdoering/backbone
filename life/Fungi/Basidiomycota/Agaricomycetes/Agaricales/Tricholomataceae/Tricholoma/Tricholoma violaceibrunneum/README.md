@@ -1,5 +1,4 @@
-Tricholoma violaceibrunneum Corner SPECIES
-=======
+# Tricholoma violaceibrunneum Corner SPECIES
 
 #### Status
 ACCEPTED

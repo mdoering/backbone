@@ -1,5 +1,4 @@
-Buellia romoletia A. Nordin SPECIES
-=======
+# Buellia romoletia A. Nordin SPECIES
 
 #### Status
 ACCEPTED

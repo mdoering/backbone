@@ -1,5 +1,4 @@
-Coprinus retisporus Boedijn SPECIES
-=======
+# Coprinus retisporus Boedijn SPECIES
 
 #### Status
 ACCEPTED

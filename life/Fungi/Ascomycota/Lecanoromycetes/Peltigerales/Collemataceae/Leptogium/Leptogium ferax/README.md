@@ -1,5 +1,4 @@
-Leptogium ferax (Durieu & Mont.) Rabenh. SPECIES
-=======
+# Leptogium ferax (Durieu & Mont.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

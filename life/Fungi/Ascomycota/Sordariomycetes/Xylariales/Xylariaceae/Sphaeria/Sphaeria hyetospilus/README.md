@@ -1,5 +1,4 @@
-Sphaeria hyetospilus Mart. SPECIES
-=======
+# Sphaeria hyetospilus Mart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea vinorubens Werner SPECIES
-=======
+# Lecidea vinorubens Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niebla undulata Spjut SPECIES
-=======
+# Niebla undulata Spjut SPECIES
 
 #### Status
 ACCEPTED

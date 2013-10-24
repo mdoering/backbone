@@ -1,5 +1,4 @@
-Lecidea polackiana Müll. Arg. SPECIES
-=======
+# Lecidea polackiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

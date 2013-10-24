@@ -1,5 +1,4 @@
-Laschia tonkinensis Pat. SPECIES
-=======
+# Laschia tonkinensis Pat. SPECIES
 
 #### Status
 ACCEPTED

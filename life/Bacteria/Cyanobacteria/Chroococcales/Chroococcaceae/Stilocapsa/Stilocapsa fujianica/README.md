@@ -1,5 +1,4 @@
-Stilocapsa fujianica Liang SPECIES
-=======
+# Stilocapsa fujianica Liang SPECIES
 
 #### Status
 ACCEPTED

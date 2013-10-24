@@ -1,5 +1,4 @@
-Melanopsamma lichenoides Rehm SPECIES
-=======
+# Melanopsamma lichenoides Rehm SPECIES
 
 #### Status
 ACCEPTED

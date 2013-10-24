@@ -1,5 +1,4 @@
-Sphaeria erigerontis Opiz SPECIES
-=======
+# Sphaeria erigerontis Opiz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicomyces clarus Morgan SPECIES
-=======
+# Helicomyces clarus Morgan SPECIES
 
 #### Status
 ACCEPTED

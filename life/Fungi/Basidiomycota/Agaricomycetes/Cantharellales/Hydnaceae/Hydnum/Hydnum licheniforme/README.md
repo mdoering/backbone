@@ -1,5 +1,4 @@
-Hydnum licheniforme anon. SPECIES
-=======
+# Hydnum licheniforme anon. SPECIES
 
 #### Status
 ACCEPTED

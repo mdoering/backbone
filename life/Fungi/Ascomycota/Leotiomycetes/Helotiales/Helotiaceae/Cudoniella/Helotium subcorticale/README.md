@@ -1,17 +1,16 @@
-Helotium subcorticale var. ligustri Velen. VARIETY
-=======
+# Helotium subcorticale Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 183 (1939)
+Monogr. Discom. Bohem. (Prague) 187 (1934)
 
 #### Original name
-Helotium subcorticale var. ligustri Velen.
+Helotium subcorticale Velen., 1934
 
 ### Remarks
 null

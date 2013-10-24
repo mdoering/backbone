@@ -1,5 +1,4 @@
-Lecanactis lecideina Eitner SPECIES
-=======
+# Lecanactis lecideina Eitner SPECIES
 
 #### Status
 ACCEPTED

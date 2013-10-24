@@ -1,5 +1,4 @@
-Pseudotextularia varians Rzehak SPECIES
-=======
+# Pseudotextularia varians Rzehak SPECIES
 
 #### Status
 ACCEPTED

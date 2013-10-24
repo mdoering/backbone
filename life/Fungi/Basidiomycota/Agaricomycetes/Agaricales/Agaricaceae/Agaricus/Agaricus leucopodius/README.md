@@ -1,5 +1,4 @@
-Agaricus leucopodius Bull. SPECIES
-=======
+# Agaricus leucopodius Bull. SPECIES
 
 #### Status
 ACCEPTED

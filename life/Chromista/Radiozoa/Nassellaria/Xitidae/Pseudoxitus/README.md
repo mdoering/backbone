@@ -1,5 +1,4 @@
-Pseudoxitus Wu & Pessagno in Wu, 1993 GENUS
-=======
+# Pseudoxitus Wu & Pessagno in Wu, 1993 GENUS
 
 #### Status
 ACCEPTED

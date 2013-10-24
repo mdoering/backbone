@@ -1,5 +1,4 @@
-Teichospora nitida Ellis & Everh. SPECIES
-=======
+# Teichospora nitida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

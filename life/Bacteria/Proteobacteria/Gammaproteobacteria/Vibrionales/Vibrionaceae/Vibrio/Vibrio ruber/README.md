@@ -1,5 +1,4 @@
-Vibrio ruber Shieh et al., 2003 SPECIES
-=======
+# Vibrio ruber Shieh et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

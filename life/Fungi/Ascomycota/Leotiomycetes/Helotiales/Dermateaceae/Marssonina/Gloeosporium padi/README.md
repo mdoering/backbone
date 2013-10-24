@@ -1,5 +1,4 @@
-Gloeosporium padi Potebnia SPECIES
-=======
+# Gloeosporium padi Potebnia SPECIES
 
 #### Status
 ACCEPTED

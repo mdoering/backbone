@@ -1,5 +1,4 @@
-Dasyscyphus albofurfuracea (Saut.) Sacc. SPECIES
-=======
+# Dasyscyphus albofurfuracea (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

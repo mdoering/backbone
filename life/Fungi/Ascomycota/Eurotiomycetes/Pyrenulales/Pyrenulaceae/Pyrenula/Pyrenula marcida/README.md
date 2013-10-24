@@ -1,5 +1,4 @@
-Pyrenula marcida Fée SPECIES
-=======
+# Pyrenula marcida Fée SPECIES
 
 #### Status
 ACCEPTED

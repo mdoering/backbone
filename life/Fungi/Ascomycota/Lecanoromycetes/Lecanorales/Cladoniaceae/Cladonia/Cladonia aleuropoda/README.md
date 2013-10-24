@@ -1,5 +1,4 @@
-Cladonia aleuropoda Vain. SPECIES
-=======
+# Cladonia aleuropoda Vain. SPECIES
 
 #### Status
 ACCEPTED

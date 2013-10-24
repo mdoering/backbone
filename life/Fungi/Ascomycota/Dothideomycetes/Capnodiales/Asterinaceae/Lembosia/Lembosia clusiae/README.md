@@ -1,5 +1,4 @@
-Lembosia clusiae Bat. & A.F. Vital SPECIES
-=======
+# Lembosia clusiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

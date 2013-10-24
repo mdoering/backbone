@@ -1,17 +1,16 @@
-Phylloporina epiphylla var. epiphylla VARIETY
-=======
+# Phylloporina epiphylla SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Phylloporina epiphylla var. epiphylla
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Pocillaria leprieurii (Mont.) Kuntze, 1891 SPECIES
-=======
+# Panus tephroleucus (Mont.) T.W. May & A.E. Wood, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Mycotaxon 54: 148 (1995)
 
 #### Original name
-Lentinus leprieurii Mont., 1854
+Lentinus tephroleucus Mont., 1851
 
 ### Remarks
 null

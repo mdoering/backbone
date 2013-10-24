@@ -1,5 +1,4 @@
-Cercosporula G. Arnaud GENUS
-=======
+# Cercosporula G. Arnaud GENUS
 
 #### Status
 ACCEPTED

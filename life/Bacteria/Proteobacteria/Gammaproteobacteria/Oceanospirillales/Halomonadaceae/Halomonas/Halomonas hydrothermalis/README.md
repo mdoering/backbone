@@ -1,5 +1,4 @@
-Halomonas hydrothermalis Kaye et al., 2004 SPECIES
-=======
+# Halomonas hydrothermalis Kaye et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

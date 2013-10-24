@@ -1,14 +1,13 @@
-Lecanora confragosula Nyl. SPECIES
-=======
+# Rinodina confragosula (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 9: 79 (1887)
 
 #### Original name
 Lecanora confragosula Nyl.

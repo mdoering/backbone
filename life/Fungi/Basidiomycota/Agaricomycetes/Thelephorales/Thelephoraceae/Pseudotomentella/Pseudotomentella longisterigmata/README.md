@@ -1,5 +1,4 @@
-Pseudotomentella longisterigmata M.J. Larsen SPECIES
-=======
+# Pseudotomentella longisterigmata M.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

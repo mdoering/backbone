@@ -1,5 +1,4 @@
-Septoria elodis Westend. SPECIES
-=======
+# Septoria elodis Westend. SPECIES
 
 #### Status
 ACCEPTED

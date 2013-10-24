@@ -1,5 +1,4 @@
-Gnomonia perfidiosa P. Karst. SPECIES
-=======
+# Gnomonia perfidiosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

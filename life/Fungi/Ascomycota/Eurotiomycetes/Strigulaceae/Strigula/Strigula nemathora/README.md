@@ -1,17 +1,16 @@
-Strigula nemathora var. nemathora VARIETY
-=======
+# Strigula nemathora Mont. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sagra, Historia física, polirica y nayturál de la islea de Cuba 2: 139 (1842)
 
 #### Original name
-null
+Strigula nemathora Mont.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Patellaria rubrotingens Berk. & Broome SPECIES
-=======
+# Patinella rubrotingens (Berk. & Broome) Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 367 (1887)
+Syll. fung. (Abellini) 8: 773 (1889)
 
 #### Original name
 Patellaria rubrotingens Berk. & Broome

@@ -1,5 +1,4 @@
-Graphis subflexibilis Lücking & Chaves SPECIES
-=======
+# Graphis subflexibilis Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

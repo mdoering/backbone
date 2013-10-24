@@ -1,5 +1,4 @@
-Orsomia Baer, 1952 GENUS
-=======
+# Orsomia Baer, 1952 GENUS
 
 #### Status
 ACCEPTED

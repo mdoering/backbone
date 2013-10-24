@@ -1,5 +1,4 @@
-Lepiota ignivolvata Bousset & Joss. ex Joss., 1990 SPECIES
-=======
+# Lepiota ignivolvata Bousset & Joss. ex Joss., 1990 SPECIES
 
 #### Status
 ACCEPTED

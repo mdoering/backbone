@@ -1,5 +1,4 @@
-Mycovellosiella aegli Kharwar & R.K. Singh SPECIES
-=======
+# Mycovellosiella aegli Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Marasmiellus omphaliformis (Kühner) Noordel. SPECIES
-=======
+# Marasmiellus omphaliiformis (Kühner) Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 12(1): 35 (1983)
 
 #### Original name
 Marasmius omphaliiformis Kühner

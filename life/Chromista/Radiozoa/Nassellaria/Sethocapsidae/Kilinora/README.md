@@ -1,5 +1,4 @@
-Kilinora GENUS
-=======
+# Kilinora GENUS
 
 #### Status
 ACCEPTED

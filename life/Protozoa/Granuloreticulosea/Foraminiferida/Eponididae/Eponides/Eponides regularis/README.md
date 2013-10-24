@@ -1,5 +1,4 @@
-Eponides regularis Phleger & Parker, 1951 SPECIES
-=======
+# Eponides regularis Phleger & Parker, 1951 SPECIES
 
 #### Status
 ACCEPTED

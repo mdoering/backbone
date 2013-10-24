@@ -1,5 +1,4 @@
-Meliola tomentosa G. Winter SPECIES
-=======
+# Meliola tomentosa G. Winter SPECIES
 
 #### Status
 ACCEPTED

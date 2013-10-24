@@ -1,5 +1,4 @@
-Dekkera Van der Walt, 1964 GENUS
-=======
+# Dekkera Van der Walt, 1964 GENUS
 
 #### Status
 ACCEPTED

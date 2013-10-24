@@ -1,5 +1,4 @@
-Thelephora gelatinosa Saut. SPECIES
-=======
+# Thelephora gelatinosa Saut. SPECIES
 
 #### Status
 ACCEPTED

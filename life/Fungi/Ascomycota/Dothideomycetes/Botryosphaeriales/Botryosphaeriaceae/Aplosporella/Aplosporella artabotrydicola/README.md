@@ -1,5 +1,4 @@
-Aplosporella artabotrydicola Kalani SPECIES
-=======
+# Aplosporella artabotrydicola Kalani SPECIES
 
 #### Status
 ACCEPTED

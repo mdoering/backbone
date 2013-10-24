@@ -1,5 +1,4 @@
-Lactarius uapacae Verbeken & Stubbe SPECIES
-=======
+# Lactarius uapacae Verbeken & Stubbe SPECIES
 
 #### Status
 ACCEPTED

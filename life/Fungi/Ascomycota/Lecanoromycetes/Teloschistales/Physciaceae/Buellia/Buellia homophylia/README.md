@@ -1,17 +1,16 @@
-Lecidea homophylia var. homophylia C. Knight VARIETY
-=======
+# Buellia homophylia (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 45 (1882)
+null
 
 #### Original name
-Lecidea homophylia var. homophylia C. Knight
+null
 
 ### Remarks
 null

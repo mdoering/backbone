@@ -1,5 +1,4 @@
-Solobacterium Kageyama & Benno, 2000 GENUS
-=======
+# Solobacterium Kageyama & Benno, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces javensis Sembiring et al., 2001 SPECIES
-=======
+# Streptomyces javensis Sembiring et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

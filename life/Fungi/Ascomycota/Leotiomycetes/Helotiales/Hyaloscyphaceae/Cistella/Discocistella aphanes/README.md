@@ -1,5 +1,4 @@
-Discocistella aphanes (Rehm) Svrcek SPECIES
-=======
+# Discocistella aphanes (Rehm) Svrcek SPECIES
 
 #### Status
 ACCEPTED

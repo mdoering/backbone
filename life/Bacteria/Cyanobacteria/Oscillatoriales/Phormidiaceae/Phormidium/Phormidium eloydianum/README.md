@@ -1,5 +1,4 @@
-Phormidium eloydianum (Gomont) Agagnostidis & Komarek SPECIES
-=======
+# Phormidium eloydianum (Gomont) Agagnostidis & Komarek SPECIES
 
 #### Status
 ACCEPTED

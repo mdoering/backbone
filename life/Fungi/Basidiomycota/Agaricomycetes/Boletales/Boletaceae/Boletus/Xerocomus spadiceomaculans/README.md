@@ -1,5 +1,4 @@
-Xerocomus spadiceomaculans H. Engel & W. Härtl SPECIES
-=======
+# Xerocomus spadiceomaculans H. Engel & W. Härtl SPECIES
 
 #### Status
 ACCEPTED

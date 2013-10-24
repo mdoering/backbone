@@ -1,5 +1,4 @@
-Penzigia leonensis Deighton SPECIES
-=======
+# Penzigia leonensis Deighton SPECIES
 
 #### Status
 ACCEPTED

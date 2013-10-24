@@ -1,5 +1,4 @@
-Macrophoma holoschoeni (Pass.) Tassi SPECIES
-=======
+# Macrophoma holoschoeni (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

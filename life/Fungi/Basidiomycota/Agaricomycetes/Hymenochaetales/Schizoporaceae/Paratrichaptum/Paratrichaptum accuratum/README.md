@@ -1,5 +1,4 @@
-Paratrichaptum accuratum Corner, 1987 SPECIES
-=======
+# Paratrichaptum accuratum Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

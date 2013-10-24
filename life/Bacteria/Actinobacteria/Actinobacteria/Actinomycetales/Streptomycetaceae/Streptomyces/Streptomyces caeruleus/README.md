@@ -1,5 +1,4 @@
-Streptomyces caeruleus (Baldacci, 1944) Pridham et al., 1958 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces caeruleus (Baldacci, 1944) Pridham et al., 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

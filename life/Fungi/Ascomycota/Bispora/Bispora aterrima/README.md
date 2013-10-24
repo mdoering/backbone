@@ -1,5 +1,4 @@
-Bispora aterrima Berk. & Ravenel SPECIES
-=======
+# Bispora aterrima Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

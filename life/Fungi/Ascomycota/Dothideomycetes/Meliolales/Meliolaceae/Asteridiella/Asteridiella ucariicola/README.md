@@ -1,5 +1,4 @@
-Asteridiella ucariicola Hansf. SPECIES
-=======
+# Asteridiella ucariicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

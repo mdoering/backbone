@@ -1,5 +1,4 @@
-Biatorella trabicola (Körb.) Zahlbr. SPECIES
-=======
+# Biatorella trabicola (Körb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

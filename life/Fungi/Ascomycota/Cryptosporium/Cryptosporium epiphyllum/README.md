@@ -1,5 +1,4 @@
-Cryptosporium epiphyllum Cooke & Ellis SPECIES
-=======
+# Cryptosporium epiphyllum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

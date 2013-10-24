@@ -1,5 +1,4 @@
-Physocaulon Kützing GENUS
-=======
+# Physocaulon Kützing GENUS
 
 #### Status
 ACCEPTED

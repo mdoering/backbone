@@ -1,5 +1,4 @@
-Adelosina undulata Yassini & Jones, 1995 SPECIES
-=======
+# Adelosina undulata Yassini & Jones, 1995 SPECIES
 
 #### Status
 ACCEPTED

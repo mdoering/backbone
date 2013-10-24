@@ -1,5 +1,4 @@
-Hygrophorus flavellus Britzelm. SPECIES
-=======
+# Hygrophorus flavellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

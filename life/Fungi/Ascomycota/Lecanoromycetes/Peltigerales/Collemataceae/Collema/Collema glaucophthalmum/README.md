@@ -1,17 +1,16 @@
-Collema glaucophthalmum var. glaucophthalmum VARIETY
-=======
+# Collema glaucophthalmum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 41: 377 (1858)
 
 #### Original name
-Collema glaucophthalmum var. glaucophthalmum
+Collema glaucophthalmum Nyl.
 
 ### Remarks
 null

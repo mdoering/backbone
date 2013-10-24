@@ -1,5 +1,4 @@
-Coccobotrys xylophilus (Fr.) Boud. & Pat., 1900 SPECIES
-=======
+# Coccobotrys xylophilus (Fr.) Boud. & Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED

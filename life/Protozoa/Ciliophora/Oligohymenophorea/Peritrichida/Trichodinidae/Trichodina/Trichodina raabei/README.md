@@ -1,5 +1,4 @@
-Trichodina raabei Lohm, 1962 SPECIES
-=======
+# Trichodina raabei Lohm, 1962 SPECIES
 
 #### Status
 ACCEPTED

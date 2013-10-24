@@ -1,5 +1,4 @@
-Asterina nubecula Berk. & M.A. Curtis SPECIES
-=======
+# Asterina nubecula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

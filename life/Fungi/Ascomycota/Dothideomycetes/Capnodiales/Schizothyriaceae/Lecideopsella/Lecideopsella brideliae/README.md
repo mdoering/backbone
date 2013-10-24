@@ -1,5 +1,4 @@
-Lecideopsella brideliae Hansf. SPECIES
-=======
+# Lecideopsella brideliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

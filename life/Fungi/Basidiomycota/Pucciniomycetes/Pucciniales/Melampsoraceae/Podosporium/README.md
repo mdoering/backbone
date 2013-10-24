@@ -1,5 +1,4 @@
-Podosporium GENUS
-=======
+# Podosporium GENUS
 
 #### Status
 ACCEPTED

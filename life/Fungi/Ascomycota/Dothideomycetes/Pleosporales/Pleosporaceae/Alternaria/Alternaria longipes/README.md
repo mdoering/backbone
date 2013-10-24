@@ -1,17 +1,16 @@
-Alternaria tenuis f. sp FORM
-=======
+# Alternaria longipes (Ellis & Everh.) E.W. Mason, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 2: 19 (1928)
 
 #### Original name
-Alternaria tenuis f. sp
+Macrosporium longipes Ellis & Everh., 1892
 
 ### Remarks
 null

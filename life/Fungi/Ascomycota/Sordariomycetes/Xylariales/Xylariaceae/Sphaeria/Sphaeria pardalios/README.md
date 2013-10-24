@@ -1,5 +1,4 @@
-Sphaeria pardalios Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria pardalios Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytinostroma pulverulentum Boidin & Dinghra, 1987 SPECIES
-=======
+# Scytinostroma pulverulentum Boidin & Dinghra, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus elegans Jacz. SPECIES
-=======
+# Ophiobolus elegans Jacz. SPECIES
 
 #### Status
 ACCEPTED

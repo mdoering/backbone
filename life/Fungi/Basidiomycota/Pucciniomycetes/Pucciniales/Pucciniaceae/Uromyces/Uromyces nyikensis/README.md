@@ -1,5 +1,4 @@
-Uromyces nyikensis Syd. & P. Syd. SPECIES
-=======
+# Uromyces nyikensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

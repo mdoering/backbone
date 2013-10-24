@@ -1,5 +1,4 @@
-Phyllachora saurauiae (Chardón) Petr., 1950 SPECIES
-=======
+# Phyllachora saurauiae (Chardón) Petr., 1950 SPECIES
 
 #### Status
 DOUBTFUL

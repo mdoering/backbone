@@ -1,5 +1,4 @@
-Dactylina madreporiformis (Ach.) Tuck. SPECIES
-=======
+# Dactylina madreporiformis (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

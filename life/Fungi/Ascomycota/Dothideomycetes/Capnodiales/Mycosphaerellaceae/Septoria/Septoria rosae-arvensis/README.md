@@ -1,5 +1,4 @@
-Septoria rosae-arvensis Sacc. SPECIES
-=======
+# Septoria rosae-arvensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

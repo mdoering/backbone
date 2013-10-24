@@ -1,5 +1,4 @@
-Icosaspidium Haeckel, 1887 GENUS
-=======
+# Icosaspidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

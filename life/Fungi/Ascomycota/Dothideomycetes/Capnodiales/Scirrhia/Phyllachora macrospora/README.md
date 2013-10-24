@@ -1,5 +1,4 @@
-Phyllachora macrospora Zimm., 1902 SPECIES
-=======
+# Phyllachora macrospora Zimm., 1902 SPECIES
 
 #### Status
 DOUBTFUL

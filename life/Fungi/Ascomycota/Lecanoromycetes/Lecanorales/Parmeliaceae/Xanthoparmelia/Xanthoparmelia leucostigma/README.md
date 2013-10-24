@@ -1,5 +1,4 @@
-Xanthoparmelia leucostigma Brusse SPECIES
-=======
+# Xanthoparmelia leucostigma Brusse SPECIES
 
 #### Status
 ACCEPTED

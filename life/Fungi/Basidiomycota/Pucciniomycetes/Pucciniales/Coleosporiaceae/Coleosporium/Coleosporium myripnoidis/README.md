@@ -1,5 +1,4 @@
-Coleosporium myripnoidis Y.C. Wang & J.Y. Zhuang SPECIES
-=======
+# Coleosporium myripnoidis Y.C. Wang & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

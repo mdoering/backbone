@@ -1,5 +1,4 @@
-Trypanosoma nudigobii Fantham, 1919 SPECIES
-=======
+# Trypanosoma nudigobii Fantham, 1919 SPECIES
 
 #### Status
 ACCEPTED

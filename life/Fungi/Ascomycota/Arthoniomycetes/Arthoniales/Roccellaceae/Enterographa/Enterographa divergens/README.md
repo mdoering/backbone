@@ -1,14 +1,13 @@
-Chiodecton divergens Müll. Arg. SPECIES
-=======
+# Enterographa divergens (Müll. Arg.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 62 (1893)
+Repert. Spec. Nov. Regni Veg. 43: 62 (1939)
 
 #### Original name
 Chiodecton divergens Müll. Arg.

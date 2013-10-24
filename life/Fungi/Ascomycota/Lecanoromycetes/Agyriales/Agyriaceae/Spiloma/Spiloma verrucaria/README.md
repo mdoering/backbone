@@ -1,5 +1,4 @@
-Spiloma verrucaria Ach. SPECIES
-=======
+# Spiloma verrucaria Ach. SPECIES
 
 #### Status
 ACCEPTED

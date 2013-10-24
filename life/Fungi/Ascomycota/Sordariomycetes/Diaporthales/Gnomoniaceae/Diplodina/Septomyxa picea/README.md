@@ -1,5 +1,4 @@
-Septomyxa picea Sacc. SPECIES
-=======
+# Septomyxa picea Sacc. SPECIES
 
 #### Status
 ACCEPTED

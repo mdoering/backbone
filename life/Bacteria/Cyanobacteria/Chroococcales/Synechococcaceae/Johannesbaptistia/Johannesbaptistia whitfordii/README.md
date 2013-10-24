@@ -1,5 +1,4 @@
-Johannesbaptistia whitfordii Thomas & Gonzalves SPECIES
-=======
+# Johannesbaptistia whitfordii Thomas & Gonzalves SPECIES
 
 #### Status
 ACCEPTED

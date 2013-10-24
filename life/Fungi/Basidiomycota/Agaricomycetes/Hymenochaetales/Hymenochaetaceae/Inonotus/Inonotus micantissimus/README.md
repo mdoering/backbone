@@ -1,14 +1,13 @@
-Poria micantissima Rick, 1960 SPECIES
-=======
+# Inonotus micantissimus (Rick) Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 7: 287 (1960)
+Nordic Jl Bot. 7(5): 565 (1987)
 
 #### Original name
 Poria micantissima Rick, 1960

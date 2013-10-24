@@ -1,5 +1,4 @@
-Buellia ectolechioides (Vain.) Erichsen SPECIES
-=======
+# Buellia ectolechioides (Vain.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

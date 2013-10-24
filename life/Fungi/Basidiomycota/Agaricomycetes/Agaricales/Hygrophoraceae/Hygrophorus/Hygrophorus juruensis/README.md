@@ -1,5 +1,4 @@
-Hygrophorus juruensis Henn. SPECIES
-=======
+# Hygrophorus juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

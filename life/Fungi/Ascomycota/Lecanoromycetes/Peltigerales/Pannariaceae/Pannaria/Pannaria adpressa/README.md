@@ -1,5 +1,4 @@
-Pannaria adpressa SPECIES
-=======
+# Pannaria adpressa SPECIES
 
 #### Status
 ACCEPTED

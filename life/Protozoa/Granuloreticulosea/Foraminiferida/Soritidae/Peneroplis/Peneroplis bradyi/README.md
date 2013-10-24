@@ -1,5 +1,4 @@
-Peneroplis bradyi SPECIES
-=======
+# Peneroplis bradyi SPECIES
 
 #### Status
 ACCEPTED

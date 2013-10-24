@@ -1,5 +1,4 @@
-Omphalia californica Copel. SPECIES
-=======
+# Omphalia californica Copel. SPECIES
 
 #### Status
 ACCEPTED

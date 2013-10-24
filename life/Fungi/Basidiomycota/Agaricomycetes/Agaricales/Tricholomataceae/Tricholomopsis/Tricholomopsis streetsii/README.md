@@ -1,5 +1,4 @@
-Tricholomopsis streetsii Gilb. SPECIES
-=======
+# Tricholomopsis streetsii Gilb. SPECIES
 
 #### Status
 ACCEPTED

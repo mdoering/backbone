@@ -1,5 +1,4 @@
-Cetreliopsis rhytidocarpa subsp. rhytidocarpa SUBSPECIES
-=======
+# Cetreliopsis rhytidocarpa (Mont. & Bosch) Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Randlane, Thell & Saag, Memoirs of the National Science Museum, Tokyo 13: 218 (1980)
 
 #### Original name
-Cetreliopsis rhytidocarpa subsp. rhytidocarpa
+Cetraria rhytidocarpa Randlane & Saag
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lepiota colimensis Murrill SPECIES
-=======
+# Lepiota colimensis Murrill SPECIES
 
 #### Status
 ACCEPTED

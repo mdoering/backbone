@@ -1,5 +1,4 @@
-Ramalina controversa Sbarbaro SPECIES
-=======
+# Ramalina controversa Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

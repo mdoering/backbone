@@ -1,5 +1,4 @@
-Stagonospora karstenii Sacc. SPECIES
-=======
+# Stagonospora karstenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

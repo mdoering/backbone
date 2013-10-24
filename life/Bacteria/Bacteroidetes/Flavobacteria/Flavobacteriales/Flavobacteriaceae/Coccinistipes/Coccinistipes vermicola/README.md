@@ -1,5 +1,4 @@
-Coccinistipes vermicola Yang & Cho, 2006 SPECIES
-=======
+# Coccinistipes vermicola Yang & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

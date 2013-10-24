@@ -1,5 +1,4 @@
-Cytospora dendritica Berl. & Voglino SPECIES
-=======
+# Cytospora dendritica Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

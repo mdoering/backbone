@@ -1,8 +1,7 @@
-Bicosoeca multiannulata Skuja, 1948 SPECIES
-=======
+# Bicosoeca planctonica Kisselew, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

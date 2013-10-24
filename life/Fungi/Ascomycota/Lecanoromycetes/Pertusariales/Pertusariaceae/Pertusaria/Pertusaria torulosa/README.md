@@ -1,5 +1,4 @@
-Pertusaria torulosa Vain. SPECIES
-=======
+# Pertusaria torulosa Vain. SPECIES
 
 #### Status
 ACCEPTED

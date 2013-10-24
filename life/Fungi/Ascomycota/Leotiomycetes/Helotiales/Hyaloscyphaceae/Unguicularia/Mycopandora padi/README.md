@@ -1,5 +1,4 @@
-Mycopandora padi Velen. SPECIES
-=======
+# Mycopandora padi Velen. SPECIES
 
 #### Status
 ACCEPTED

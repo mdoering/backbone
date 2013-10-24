@@ -1,5 +1,4 @@
-Verrucaria takagoensis H. Harada SPECIES
-=======
+# Verrucaria takagoensis H. Harada SPECIES
 
 #### Status
 ACCEPTED

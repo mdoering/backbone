@@ -1,5 +1,4 @@
-Neodightonia Booth in Punithalingam, 1969 GENUS
-=======
+# Neodightonia Booth in Punithalingam, 1969 GENUS
 
 #### Status
 ACCEPTED

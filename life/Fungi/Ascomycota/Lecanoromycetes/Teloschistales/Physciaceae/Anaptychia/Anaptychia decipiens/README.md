@@ -1,5 +1,4 @@
-Anaptychia decipiens A. Massal. SPECIES
-=======
+# Anaptychia decipiens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

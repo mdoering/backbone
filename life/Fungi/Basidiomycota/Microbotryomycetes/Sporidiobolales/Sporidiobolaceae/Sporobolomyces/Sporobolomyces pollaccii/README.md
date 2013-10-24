@@ -1,5 +1,4 @@
-Sporobolomyces pollaccii Verona & Cif. SPECIES
-=======
+# Sporobolomyces pollaccii Verona & Cif. SPECIES
 
 #### Status
 ACCEPTED

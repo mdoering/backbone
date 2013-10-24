@@ -1,5 +1,4 @@
-Baltisphaeridium capillatum S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
-=======
+# Baltisphaeridium capillatum S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium coffeicola Henn. SPECIES
-=======
+# Septobasidium coffeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

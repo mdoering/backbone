@@ -1,5 +1,4 @@
-Polyedryxium pritulum Rudavskaya, 1971 SPECIES
-=======
+# Polyedryxium pritulum Rudavskaya, 1971 SPECIES
 
 #### Status
 ACCEPTED

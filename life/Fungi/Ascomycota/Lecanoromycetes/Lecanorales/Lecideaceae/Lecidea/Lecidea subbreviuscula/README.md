@@ -1,5 +1,4 @@
-Lecidea subbreviuscula Nyl. SPECIES
-=======
+# Lecidea subbreviuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

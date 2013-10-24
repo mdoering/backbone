@@ -1,5 +1,4 @@
-Stomiopeltis acaciae Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Stomiopeltis acaciae Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

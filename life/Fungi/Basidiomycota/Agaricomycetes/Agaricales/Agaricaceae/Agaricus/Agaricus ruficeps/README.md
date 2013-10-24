@@ -1,5 +1,4 @@
-Agaricus ruficeps Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus ruficeps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

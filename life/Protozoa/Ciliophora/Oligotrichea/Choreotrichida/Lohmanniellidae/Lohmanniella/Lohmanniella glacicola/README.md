@@ -1,5 +1,4 @@
-Lohmanniella glacicola (Petz, Song & Wilbert, 1995) SPECIES
-=======
+# Lohmanniella glacicola (Petz, Song & Wilbert, 1995) SPECIES
 
 #### Status
 ACCEPTED

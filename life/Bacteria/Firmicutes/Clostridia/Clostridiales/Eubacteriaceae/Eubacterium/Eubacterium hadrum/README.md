@@ -1,5 +1,4 @@
-Eubacterium hadrum Moore et al., 1976 (Approved Lists, 1980) SPECIES
-=======
+# Eubacterium hadrum Moore et al., 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

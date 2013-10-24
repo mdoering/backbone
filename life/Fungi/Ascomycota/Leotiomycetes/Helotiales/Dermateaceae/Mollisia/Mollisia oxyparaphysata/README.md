@@ -1,5 +1,4 @@
-Mollisia oxyparaphysata Rehm SPECIES
-=======
+# Mollisia oxyparaphysata Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scoleciasis GENUS
-=======
+# Scoleciasis GENUS
 
 #### Status
 ACCEPTED

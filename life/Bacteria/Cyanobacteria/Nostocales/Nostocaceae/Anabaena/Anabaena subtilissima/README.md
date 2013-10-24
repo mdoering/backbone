@@ -1,5 +1,4 @@
-Anabaena subtilissima Kützing SPECIES
-=======
+# Anabaena subtilissima Kützing SPECIES
 
 #### Status
 ACCEPTED

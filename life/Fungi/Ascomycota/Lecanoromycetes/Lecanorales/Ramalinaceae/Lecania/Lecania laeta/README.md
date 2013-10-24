@@ -1,5 +1,4 @@
-Lecania laeta C.W. Dodge SPECIES
-=======
+# Lecania laeta C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

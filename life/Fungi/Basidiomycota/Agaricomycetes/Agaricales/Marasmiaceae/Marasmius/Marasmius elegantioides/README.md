@@ -1,5 +1,4 @@
-Marasmius elegantioides Bat. SPECIES
-=======
+# Marasmius elegantioides Bat. SPECIES
 
 #### Status
 ACCEPTED

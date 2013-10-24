@@ -1,5 +1,4 @@
-Asteridiella sloaneae B. Song SPECIES
-=======
+# Asteridiella sloaneae B. Song SPECIES
 
 #### Status
 ACCEPTED

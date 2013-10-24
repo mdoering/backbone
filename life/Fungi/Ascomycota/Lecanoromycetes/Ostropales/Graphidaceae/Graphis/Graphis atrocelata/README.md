@@ -1,5 +1,4 @@
-Graphis atrocelata (A.W. Archer) A.W. Archer SPECIES
-=======
+# Graphis atrocelata (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

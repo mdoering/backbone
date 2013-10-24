@@ -1,5 +1,4 @@
-Spirocystidae FAMILY
-=======
+# Spirocystidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia resurgens Cooke & Harkn. SPECIES
-=======
+# Diplodia resurgens Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

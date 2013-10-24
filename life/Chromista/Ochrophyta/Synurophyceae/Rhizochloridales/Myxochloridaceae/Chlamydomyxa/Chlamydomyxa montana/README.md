@@ -1,5 +1,4 @@
-Chlamydomyxa montana Lancaster SPECIES
-=======
+# Chlamydomyxa montana Lancaster SPECIES
 
 #### Status
 ACCEPTED

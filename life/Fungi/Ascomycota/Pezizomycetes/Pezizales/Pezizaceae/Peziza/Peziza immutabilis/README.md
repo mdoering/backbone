@@ -1,5 +1,4 @@
-Peziza immutabilis P. Karst. SPECIES
-=======
+# Peziza immutabilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

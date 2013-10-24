@@ -1,5 +1,4 @@
-Dichotomyxa W.B. Kendr. et al. GENUS
-=======
+# Dichotomyxa W.B. Kendr. et al. GENUS
 
 #### Status
 ACCEPTED

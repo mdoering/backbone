@@ -1,5 +1,4 @@
-Urocystis puccinelliae L. Guo & H.C. Zhang, 2004 SPECIES
-=======
+# Urocystis puccinelliae L. Guo & H.C. Zhang, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptotrichites Mesch. GENUS
-=======
+# Streptotrichites Mesch. GENUS
 
 #### Status
 ACCEPTED

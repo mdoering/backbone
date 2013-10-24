@@ -1,5 +1,4 @@
-Rhodococcus sputi (ex Tsukamura, 1978) Tsukamura & Yano, 1985 SPECIES
-=======
+# Rhodococcus sputi (ex Tsukamura, 1978) Tsukamura & Yano, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydomyzium internum Glockling, 1997 SPECIES
-=======
+# Chlamydomyzium internum Glockling, 1997 SPECIES
 
 #### Status
 ACCEPTED

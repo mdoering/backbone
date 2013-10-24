@@ -1,5 +1,4 @@
-Leptorhaphis aggregata Eitner SPECIES
-=======
+# Leptorhaphis aggregata Eitner SPECIES
 
 #### Status
 ACCEPTED

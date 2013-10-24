@@ -1,5 +1,4 @@
-Stropharia aquamarina Pegler SPECIES
-=======
+# Stropharia aquamarina Pegler SPECIES
 
 #### Status
 ACCEPTED

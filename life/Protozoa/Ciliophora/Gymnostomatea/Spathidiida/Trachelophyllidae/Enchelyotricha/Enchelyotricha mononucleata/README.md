@@ -1,5 +1,4 @@
-Enchelyotricha mononucleata Foissner neu SPECIES
-=======
+# Enchelyotricha mononucleata Foissner neu SPECIES
 
 #### Status
 ACCEPTED

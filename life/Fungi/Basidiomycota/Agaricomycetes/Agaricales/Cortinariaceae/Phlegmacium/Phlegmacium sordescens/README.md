@@ -1,5 +1,4 @@
-Phlegmacium sordescens (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium sordescens (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

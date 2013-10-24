@@ -1,5 +1,4 @@
-Trichophyton ochropyrraceum Muijs SPECIES
-=======
+# Trichophyton ochropyrraceum Muijs SPECIES
 
 #### Status
 ACCEPTED

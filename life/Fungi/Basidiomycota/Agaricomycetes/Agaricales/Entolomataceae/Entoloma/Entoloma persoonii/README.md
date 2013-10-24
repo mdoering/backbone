@@ -1,5 +1,4 @@
-Entoloma persoonii DuPort SPECIES
-=======
+# Entoloma persoonii DuPort SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria jamesii Kantvilas SPECIES
-=======
+# Pertusaria jamesii Kantvilas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylofusa striatogranulata S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
-=======
+# Dactylofusa striatogranulata S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
 
 #### Status
 ACCEPTED

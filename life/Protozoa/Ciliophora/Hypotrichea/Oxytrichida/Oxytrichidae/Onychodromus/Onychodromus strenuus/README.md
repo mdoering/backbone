@@ -1,5 +1,4 @@
-Onychodromus strenuus SPECIES
-=======
+# Onychodromus strenuus SPECIES
 
 #### Status
 ACCEPTED

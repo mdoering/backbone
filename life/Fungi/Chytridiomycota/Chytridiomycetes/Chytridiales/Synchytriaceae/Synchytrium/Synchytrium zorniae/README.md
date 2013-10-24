@@ -1,5 +1,4 @@
-Synchytrium zorniae Lingappa SPECIES
-=======
+# Synchytrium zorniae Lingappa SPECIES
 
 #### Status
 ACCEPTED

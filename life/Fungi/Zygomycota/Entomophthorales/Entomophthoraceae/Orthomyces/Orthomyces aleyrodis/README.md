@@ -1,5 +1,4 @@
-Orthomyces aleyrodis Steinkr., Humber & J.B. Oliv., 1998 SPECIES
-=======
+# Orthomyces aleyrodis Steinkr., Humber & J.B. Oliv., 1998 SPECIES
 
 #### Status
 ACCEPTED

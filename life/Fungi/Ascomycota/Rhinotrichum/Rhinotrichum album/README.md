@@ -1,5 +1,4 @@
-Rhinotrichum album Petch SPECIES
-=======
+# Rhinotrichum album Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyophyllum leucopaxilloides (H.E. Bigelow & A.H. Sm.) Clémençon SPECIES
-=======
+# Lyophyllum leucopaxilloides (H.E. Bigelow & A.H. Sm.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

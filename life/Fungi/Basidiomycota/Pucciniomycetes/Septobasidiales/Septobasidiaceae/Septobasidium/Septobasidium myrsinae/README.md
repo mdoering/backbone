@@ -1,5 +1,4 @@
-Septobasidium myrsinae Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium myrsinae Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

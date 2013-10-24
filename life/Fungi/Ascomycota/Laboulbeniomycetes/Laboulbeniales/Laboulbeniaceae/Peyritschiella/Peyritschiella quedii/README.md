@@ -1,5 +1,4 @@
-Peyritschiella quedii (Scheloske) I.I. Tav. SPECIES
-=======
+# Peyritschiella quedii (Scheloske) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

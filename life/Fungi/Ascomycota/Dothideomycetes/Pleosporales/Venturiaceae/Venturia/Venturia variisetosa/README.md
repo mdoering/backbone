@@ -1,5 +1,4 @@
-Venturia variisetosa (M.E. Barr) Lar.N. Vassiljeva SPECIES
-=======
+# Venturia variisetosa (M.E. Barr) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

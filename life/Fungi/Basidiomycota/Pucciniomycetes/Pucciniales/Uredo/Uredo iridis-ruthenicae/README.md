@@ -1,5 +1,4 @@
-Uredo iridis-ruthenicae Y.C. Wang & B. Li SPECIES
-=======
+# Uredo iridis-ruthenicae Y.C. Wang & B. Li SPECIES
 
 #### Status
 ACCEPTED

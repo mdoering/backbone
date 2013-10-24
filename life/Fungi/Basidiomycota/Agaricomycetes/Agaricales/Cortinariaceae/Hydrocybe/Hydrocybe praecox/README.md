@@ -1,5 +1,4 @@
-Hydrocybe praecox Velen. SPECIES
-=======
+# Hydrocybe praecox Velen. SPECIES
 
 #### Status
 ACCEPTED

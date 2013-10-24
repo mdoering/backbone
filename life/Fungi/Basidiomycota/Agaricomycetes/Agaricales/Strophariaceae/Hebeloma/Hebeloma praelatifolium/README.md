@@ -1,5 +1,4 @@
-Hebeloma praelatifolium A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma praelatifolium A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

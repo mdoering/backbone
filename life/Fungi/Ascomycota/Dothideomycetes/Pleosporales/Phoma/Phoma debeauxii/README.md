@@ -1,5 +1,4 @@
-Phoma debeauxii f. debeauxii FORM
-=======
+# Phoma debeauxii Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma debeauxii f. debeauxii
+Phoma debeauxii Roum.
 
 ### Remarks
 null

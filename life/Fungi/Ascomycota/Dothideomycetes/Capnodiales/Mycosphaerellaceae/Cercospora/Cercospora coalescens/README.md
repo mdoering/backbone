@@ -1,5 +1,4 @@
-Cercospora coalescens Davis SPECIES
-=======
+# Cercospora coalescens Davis SPECIES
 
 #### Status
 ACCEPTED

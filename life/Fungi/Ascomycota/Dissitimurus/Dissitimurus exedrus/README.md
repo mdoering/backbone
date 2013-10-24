@@ -1,5 +1,4 @@
-Dissitimurus exedrus E.G. Simmons, McGinnis & Rinaldi, 1987 SPECIES
-=======
+# Dissitimurus exedrus E.G. Simmons, McGinnis & Rinaldi, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycogala niveum Hoffm. SPECIES
-=======
+# Lycogala niveum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

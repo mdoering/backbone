@@ -1,5 +1,4 @@
-Lecanora austrotropica Lumbsch SPECIES
-=======
+# Lecanora austrotropica Lumbsch SPECIES
 
 #### Status
 ACCEPTED

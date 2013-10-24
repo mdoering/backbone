@@ -1,5 +1,4 @@
-Rinodina megaspora (D.D. Awasthi & M.R. Agarwal) D.D. Awasthi SPECIES
-=======
+# Rinodina megaspora (D.D. Awasthi & M.R. Agarwal) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

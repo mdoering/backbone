@@ -1,5 +1,4 @@
-Splanchnomyces membranaceus Corda SPECIES
-=======
+# Splanchnomyces membranaceus Corda SPECIES
 
 #### Status
 ACCEPTED

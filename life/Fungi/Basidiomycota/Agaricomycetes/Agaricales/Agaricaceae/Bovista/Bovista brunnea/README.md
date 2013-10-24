@@ -1,5 +1,4 @@
-Bovista brunnea Berk., 1855 SPECIES
-=======
+# Bovista brunnea Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

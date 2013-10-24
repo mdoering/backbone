@@ -1,5 +1,4 @@
-Lepiota petasiformis Murrill SPECIES
-=======
+# Lepiota petasiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

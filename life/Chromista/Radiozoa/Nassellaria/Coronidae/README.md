@@ -1,5 +1,4 @@
-Coronidae FAMILY
-=======
+# Coronidae FAMILY
 
 #### Status
 ACCEPTED

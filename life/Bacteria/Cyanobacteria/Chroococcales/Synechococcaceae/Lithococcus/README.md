@@ -1,5 +1,4 @@
-Lithococcus A. Ercegovic, 1925 GENUS
-=======
+# Lithococcus A. Ercegovic, 1925 GENUS
 
 #### Status
 ACCEPTED

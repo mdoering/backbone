@@ -1,14 +1,13 @@
-Coprinus bisporiger Buller ex P.D. Orton, 1976 SPECIES
-=======
+# Coprinellus bisporiger (Buller ex P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 35: 147 (1976)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 233 (2001)
 
 #### Original name
 Coprinus bisporiger Buller ex P.D. Orton, 1976

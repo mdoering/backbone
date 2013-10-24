@@ -1,5 +1,4 @@
-Helkesimastix faecicola Woodcock & Lapage SPECIES
-=======
+# Helkesimastix faecicola Woodcock & Lapage SPECIES
 
 #### Status
 ACCEPTED

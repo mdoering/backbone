@@ -1,5 +1,4 @@
-Rhodocybe parilis var. parilis VARIETY
-=======
+# Rhodocybe parilis (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Agaric. mod. Tax. (Weinheim), Edn 2 678 (1962)
 
 #### Original name
-Rhodocybe parilis var. parilis
+Agaricus parilis Fr.
 
 ### Remarks
 null

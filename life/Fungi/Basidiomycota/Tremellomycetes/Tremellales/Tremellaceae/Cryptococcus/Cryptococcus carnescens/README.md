@@ -1,5 +1,4 @@
-Cryptococcus carnescens (Verona & Luchetti) M. Takash., Sugita, Shinoda & Nakase SPECIES
-=======
+# Cryptococcus carnescens (Verona & Luchetti) M. Takash., Sugita, Shinoda & Nakase SPECIES
 
 #### Status
 ACCEPTED

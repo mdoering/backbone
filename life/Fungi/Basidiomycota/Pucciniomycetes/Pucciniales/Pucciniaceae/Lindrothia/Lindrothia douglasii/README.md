@@ -1,5 +1,4 @@
-Lindrothia douglasii (Ellis & Everh.) Syd. SPECIES
-=======
+# Lindrothia douglasii (Ellis & Everh.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delicatula fasciata Velen. SPECIES
-=======
+# Delicatula fasciata Velen. SPECIES
 
 #### Status
 ACCEPTED

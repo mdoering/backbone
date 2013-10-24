@@ -1,5 +1,4 @@
-Ascochyta lepidii Hollós SPECIES
-=======
+# Ascochyta lepidii Hollós SPECIES
 
 #### Status
 ACCEPTED

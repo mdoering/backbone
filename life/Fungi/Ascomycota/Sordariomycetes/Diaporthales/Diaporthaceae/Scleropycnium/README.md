@@ -1,5 +1,4 @@
-Scleropycnium GENUS
-=======
+# Scleropycnium GENUS
 
 #### Status
 ACCEPTED

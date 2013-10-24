@@ -1,17 +1,16 @@
-Cryptococcus kutzingii Fell & Phaff SPECIES
-=======
+# Cryptococcus kuetzingii Fell & Phaff SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Antonie van Leeuwenhoek 33: 465 (1967)
 
 #### Original name
-Cryptococcus kutzingii Fell & Phaff
+Cryptococcus kuetzingii Fell & Phaff
 
 ### Remarks
 null

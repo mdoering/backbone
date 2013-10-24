@@ -1,5 +1,4 @@
-Puccinia salviicola Dietel & Holw. SPECIES
-=======
+# Puccinia salviicola Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

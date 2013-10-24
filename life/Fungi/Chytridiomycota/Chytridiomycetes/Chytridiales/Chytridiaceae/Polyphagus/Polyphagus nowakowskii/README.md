@@ -1,5 +1,4 @@
-Polyphagus nowakowskii Racib. SPECIES
-=======
+# Polyphagus nowakowskii Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stemphylium radicinum var. petroselini (Neerg.) Neerg., 1945 VARIETY
-=======
+# Alternaria petroselini (Neerg.) E.G. Simmons, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Danish species of Alternaria & Stemphylium 357 (1945)
+in Ellis, More Dematiaceous Hyphomycetes (Kew) 417 (1976)
 
 #### Original name
 Stemphylium petroselini Neerg., 1942

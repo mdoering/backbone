@@ -1,5 +1,4 @@
-Streptomyces herbaricolor Kawato and Shinobu, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces herbaricolor Kawato and Shinobu, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

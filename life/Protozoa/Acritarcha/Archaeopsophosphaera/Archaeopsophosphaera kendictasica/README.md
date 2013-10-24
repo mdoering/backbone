@@ -1,5 +1,4 @@
-Archaeopsophosphaera kendictasica Lopukhin, 1974 SPECIES
-=======
+# Archaeopsophosphaera kendictasica Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

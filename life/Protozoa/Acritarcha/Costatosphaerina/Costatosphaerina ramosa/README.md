@@ -1,5 +1,4 @@
-Costatosphaerina ramosa Lopukhin, 1974 SPECIES
-=======
+# Costatosphaerina ramosa Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

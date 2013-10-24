@@ -1,5 +1,4 @@
-Diplodia discriminanda Pass. SPECIES
-=======
+# Diplodia discriminanda Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pronectria angulospora Etayo SPECIES
-=======
+# Pronectria angulospora Etayo SPECIES
 
 #### Status
 ACCEPTED

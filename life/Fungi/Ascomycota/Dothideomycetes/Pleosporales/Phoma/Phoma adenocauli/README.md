@@ -1,5 +1,4 @@
-Phoma adenocauli Speg. SPECIES
-=======
+# Phoma adenocauli Speg. SPECIES
 
 #### Status
 ACCEPTED

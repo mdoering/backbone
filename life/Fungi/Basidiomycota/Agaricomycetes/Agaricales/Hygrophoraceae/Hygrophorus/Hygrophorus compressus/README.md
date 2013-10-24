@@ -1,5 +1,4 @@
-Hygrophorus compressus Velen. SPECIES
-=======
+# Hygrophorus compressus Velen. SPECIES
 
 #### Status
 ACCEPTED

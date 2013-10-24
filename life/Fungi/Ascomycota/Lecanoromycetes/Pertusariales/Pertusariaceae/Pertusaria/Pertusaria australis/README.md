@@ -1,5 +1,4 @@
-Pertusaria australis Vain. SPECIES
-=======
+# Pertusaria australis Vain. SPECIES
 
 #### Status
 ACCEPTED

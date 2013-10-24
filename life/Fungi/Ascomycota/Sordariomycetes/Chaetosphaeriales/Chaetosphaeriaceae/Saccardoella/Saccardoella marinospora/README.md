@@ -1,5 +1,4 @@
-Saccardoella marinospora K.D. Hyde, 1992 SPECIES
-=======
+# Saccardoella marinospora K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

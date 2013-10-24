@@ -1,5 +1,4 @@
-Endocarpon aequinoctiale Hochst. SPECIES
-=======
+# Endocarpon aequinoctiale Hochst. SPECIES
 
 #### Status
 ACCEPTED

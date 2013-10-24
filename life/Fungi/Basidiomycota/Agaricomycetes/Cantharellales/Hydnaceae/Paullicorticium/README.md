@@ -1,5 +1,4 @@
-Paullicorticium J. Eriksson, 1958 GENUS
-=======
+# Paullicorticium J. Eriksson, 1958 GENUS
 
 #### Status
 ACCEPTED

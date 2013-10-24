@@ -1,5 +1,4 @@
-Verrucaria schraderi Sommerf. SPECIES
-=======
+# Verrucaria schraderi Sommerf. SPECIES
 
 #### Status
 ACCEPTED

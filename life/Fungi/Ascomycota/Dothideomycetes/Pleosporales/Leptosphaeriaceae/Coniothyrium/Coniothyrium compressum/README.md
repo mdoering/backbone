@@ -1,5 +1,4 @@
-Coniothyrium compressum (Pass.) Kuntze SPECIES
-=======
+# Coniothyrium compressum (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

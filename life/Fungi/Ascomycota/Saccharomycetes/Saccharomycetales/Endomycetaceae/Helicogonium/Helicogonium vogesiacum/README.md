@@ -1,5 +1,4 @@
-Helicogonium vogesiacum Baral, 1999 SPECIES
-=======
+# Helicogonium vogesiacum Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora mimica P. Karst. SPECIES
-=======
+# Peniophora mimica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

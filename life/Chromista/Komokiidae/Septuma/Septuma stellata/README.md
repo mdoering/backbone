@@ -1,5 +1,4 @@
-Septuma stellata Gooday, Kamenskaya & Cedhagen, 2007 SPECIES
-=======
+# Septuma stellata Gooday, Kamenskaya & Cedhagen, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma roseibrunneum (Murrill) Murrill SPECIES
-=======
+# Tricholoma roseibrunneum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

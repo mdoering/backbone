@@ -1,5 +1,4 @@
-Lycoperdon herculeum Pall. SPECIES
-=======
+# Lycoperdon herculeum Pall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jinzhangia Ueno, 2001 GENUS
-=======
+# Jinzhangia Ueno, 2001 GENUS
 
 #### Status
 ACCEPTED

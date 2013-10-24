@@ -1,5 +1,4 @@
-Anurosporidium pelseneeri Caullery & Chappelier, 1906 SPECIES
-=======
+# Anurosporidium pelseneeri Caullery & Chappelier, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scothelius guianensis Bat., J.L. Bezerra & Cavalc., 1965 SPECIES
-=======
+# Scothelius guianensis Bat., J.L. Bezerra & Cavalc., 1965 SPECIES
 
 #### Status
 ACCEPTED

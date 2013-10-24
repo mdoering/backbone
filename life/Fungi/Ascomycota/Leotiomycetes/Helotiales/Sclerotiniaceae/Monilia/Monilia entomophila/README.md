@@ -1,5 +1,4 @@
-Monilia entomophila Sacc. SPECIES
-=======
+# Monilia entomophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

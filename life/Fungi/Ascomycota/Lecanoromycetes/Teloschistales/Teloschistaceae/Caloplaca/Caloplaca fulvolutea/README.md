@@ -1,5 +1,4 @@
-Caloplaca fulvolutea (Arnold) Jatta SPECIES
-=======
+# Caloplaca fulvolutea (Arnold) Jatta SPECIES
 
 #### Status
 ACCEPTED

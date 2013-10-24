@@ -1,17 +1,16 @@
-Lichina confinis * willeyi Tuck. INFRASPECIFIC_NAME
-=======
+# Lichina willeyi (Tuck.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syn. N. Amer. lich. (Boston) 1: 133 (1882)
+null
 
 #### Original name
-Lichina confinis * willeyi Tuck.
+Lichina confinis f. willeyi Tuck.
 
 ### Remarks
 null

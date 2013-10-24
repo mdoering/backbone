@@ -1,5 +1,4 @@
-Foliacella Makar'eva, 1979 GENUS
-=======
+# Foliacella Makar'eva, 1979 GENUS
 
 #### Status
 ACCEPTED

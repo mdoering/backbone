@@ -1,5 +1,4 @@
-Erysiphe gracilis R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe gracilis R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

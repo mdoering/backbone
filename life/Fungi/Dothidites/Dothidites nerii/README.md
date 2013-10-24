@@ -1,5 +1,4 @@
-Dothidites nerii Bureau & Pat. SPECIES
-=======
+# Dothidites nerii Bureau & Pat. SPECIES
 
 #### Status
 ACCEPTED

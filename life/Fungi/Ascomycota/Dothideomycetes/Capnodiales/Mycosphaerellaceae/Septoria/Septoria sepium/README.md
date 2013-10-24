@@ -1,5 +1,4 @@
-Septoria sepium Desm. SPECIES
-=======
+# Septoria sepium Desm. SPECIES
 
 #### Status
 ACCEPTED

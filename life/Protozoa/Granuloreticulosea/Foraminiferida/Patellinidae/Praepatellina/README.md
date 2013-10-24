@@ -1,5 +1,4 @@
-Praepatellina McCulloch, 1977 GENUS
-=======
+# Praepatellina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Orbitolites concava Lamarck, 1801 SPECIES
-=======
+# Orbitolina concava (Lamarck, 1801) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

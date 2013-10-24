@@ -1,5 +1,4 @@
-Pseudocercospora insularis Alcorn SPECIES
-=======
+# Pseudocercospora insularis Alcorn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zakatoshia hirschiopori B. Sutton, 1973 SPECIES
-=======
+# Zakatoshia hirschiopori B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia rondoniana Clauzade & Vezda SPECIES
-=======
+# Physcia rondoniana Clauzade & Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnoseta GENUS
-=======
+# Capnoseta GENUS
 
 #### Status
 ACCEPTED

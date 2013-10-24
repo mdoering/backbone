@@ -1,5 +1,4 @@
-Collembolispora barbata Marvanová, Pascoal & Cássio, 2003 SPECIES
-=======
+# Collembolispora barbata Marvanová, Pascoal & Cássio, 2003 SPECIES
 
 #### Status
 ACCEPTED

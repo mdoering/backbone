@@ -1,5 +1,4 @@
-Parmotrema lambinonii Sérus. SPECIES
-=======
+# Parmotrema lambinonii Sérus. SPECIES
 
 #### Status
 ACCEPTED

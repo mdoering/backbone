@@ -1,5 +1,4 @@
-Puccinia solani-tristis Henn. SPECIES
-=======
+# Puccinia solani-tristis Henn. SPECIES
 
 #### Status
 ACCEPTED

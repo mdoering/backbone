@@ -1,5 +1,4 @@
-Polyangium aureum (ex Krzemieniewska & Krzemieniewski, 1930) Brockman, 1989 SPECIES
-=======
+# Polyangium aureum (ex Krzemieniewska & Krzemieniewski, 1930) Brockman, 1989 SPECIES
 
 #### Status
 ACCEPTED

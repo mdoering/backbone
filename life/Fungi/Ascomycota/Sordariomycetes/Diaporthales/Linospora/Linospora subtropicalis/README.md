@@ -1,5 +1,4 @@
-Linospora subtropicalis Speg. SPECIES
-=======
+# Linospora subtropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

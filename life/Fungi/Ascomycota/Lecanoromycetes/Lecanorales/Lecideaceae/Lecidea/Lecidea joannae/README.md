@@ -1,5 +1,4 @@
-Lecidea joannae Hue SPECIES
-=======
+# Lecidea joannae Hue SPECIES
 
 #### Status
 ACCEPTED

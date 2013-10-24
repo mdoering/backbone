@@ -1,5 +1,4 @@
-Catastoma townei Lloyd SPECIES
-=======
+# Catastoma townei Lloyd SPECIES
 
 #### Status
 ACCEPTED

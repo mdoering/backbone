@@ -1,5 +1,4 @@
-Peridinium ampulliforme E.J.F. Wood, 1954 SPECIES
-=======
+# Peridinium ampulliforme E.J.F. Wood, 1954 SPECIES
 
 #### Status
 ACCEPTED

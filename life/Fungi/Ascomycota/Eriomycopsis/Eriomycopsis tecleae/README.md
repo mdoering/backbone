@@ -1,5 +1,4 @@
-Eriomycopsis tecleae Hansf. SPECIES
-=======
+# Eriomycopsis tecleae Hansf. SPECIES
 
 #### Status
 ACCEPTED

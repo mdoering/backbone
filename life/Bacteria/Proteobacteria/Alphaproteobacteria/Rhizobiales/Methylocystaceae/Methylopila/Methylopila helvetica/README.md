@@ -1,5 +1,4 @@
-Methylopila helvetica Doronina et al., 2000 SPECIES
-=======
+# Methylopila helvetica Doronina et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

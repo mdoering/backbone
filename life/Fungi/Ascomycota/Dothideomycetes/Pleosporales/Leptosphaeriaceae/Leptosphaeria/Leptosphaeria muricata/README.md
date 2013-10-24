@@ -1,5 +1,4 @@
-Leptosphaeria muricata Ellis & Everh. SPECIES
-=======
+# Leptosphaeria muricata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

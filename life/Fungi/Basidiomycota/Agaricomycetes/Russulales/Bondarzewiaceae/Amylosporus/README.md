@@ -1,5 +1,4 @@
-Amylosporus Ryvarden GENUS
-=======
+# Amylosporus Ryvarden GENUS
 
 #### Status
 ACCEPTED

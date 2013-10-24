@@ -1,5 +1,4 @@
-Lecanora cineroides var. partialis Lynge VARIETY
-=======
+# Lecanora cineroides Lynge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora cineroides var. partialis Lynge
+Lecanora cineroides Lynge
 
 ### Remarks
 null

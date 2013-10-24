@@ -1,5 +1,4 @@
-Boletus clavipes (Peck) Pilát & Dermek SPECIES
-=======
+# Boletus clavipes (Peck) Pilát & Dermek SPECIES
 
 #### Status
 ACCEPTED

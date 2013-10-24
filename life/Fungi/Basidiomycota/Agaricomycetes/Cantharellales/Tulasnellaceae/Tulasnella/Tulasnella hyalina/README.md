@@ -1,5 +1,4 @@
-Tulasnella hyalina Höhn. & Litsch., 1908 SPECIES
-=======
+# Tulasnella hyalina Höhn. & Litsch., 1908 SPECIES
 
 #### Status
 ACCEPTED

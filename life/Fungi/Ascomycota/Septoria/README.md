@@ -1,5 +1,4 @@
-Septoria E.M. Fries, 1819 GENUS
-=======
+# Septoria E.M. Fries, 1819 GENUS
 
 #### Status
 ACCEPTED

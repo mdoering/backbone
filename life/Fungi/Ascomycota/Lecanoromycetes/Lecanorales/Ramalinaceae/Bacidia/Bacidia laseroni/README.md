@@ -1,5 +1,4 @@
-Bacidia laseroni C.W. Dodge SPECIES
-=======
+# Bacidia laseroni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

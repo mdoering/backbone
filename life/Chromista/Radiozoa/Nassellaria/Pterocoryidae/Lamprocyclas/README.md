@@ -1,5 +1,4 @@
-Lamprocyclas Haeckel, 1881 GENUS
-=======
+# Lamprocyclas Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

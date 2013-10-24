@@ -1,5 +1,4 @@
-Diaporthe simulans Sacc. SPECIES
-=======
+# Diaporthe simulans Sacc. SPECIES
 
 #### Status
 ACCEPTED

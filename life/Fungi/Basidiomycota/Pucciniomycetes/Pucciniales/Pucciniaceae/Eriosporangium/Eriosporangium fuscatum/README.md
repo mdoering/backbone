@@ -1,5 +1,4 @@
-Eriosporangium fuscatum (Arthur & Holw.) Syd. SPECIES
-=======
+# Eriosporangium fuscatum (Arthur & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium fontinale Penard, 1922 SPECIES
-=======
+# Spathidium fontinale Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus floridanus (Singer) Murrill SPECIES
-=======
+# Boletus floridanus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

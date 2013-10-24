@@ -1,5 +1,4 @@
-Thelenella justii (Servít) H. Mayrhofer & Poelt SPECIES
-=======
+# Thelenella justii (Servít) H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

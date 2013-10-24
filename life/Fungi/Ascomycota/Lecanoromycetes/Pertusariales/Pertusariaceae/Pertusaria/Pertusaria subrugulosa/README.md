@@ -1,5 +1,4 @@
-Pertusaria subrugulosa Zahlbr. SPECIES
-=======
+# Pertusaria subrugulosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

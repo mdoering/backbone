@@ -1,5 +1,4 @@
-Leptorhaphis psilotera (Nyl.) Arnold SPECIES
-=======
+# Leptorhaphis psilotera (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea forniculata G.H. Otth SPECIES
-=======
+# Dothidea forniculata G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe romagnesii (Rob. Henry) M.M. Moser SPECIES
-=======
+# Hydrocybe romagnesii (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

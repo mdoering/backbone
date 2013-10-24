@@ -1,5 +1,4 @@
-Erysiphe balbisiae Havryl. SPECIES
-=======
+# Erysiphe balbisiae Havryl. SPECIES
 
 #### Status
 ACCEPTED

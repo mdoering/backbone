@@ -1,5 +1,4 @@
-Koorchaloma Subram. GENUS
-=======
+# Koorchaloma Subram. GENUS
 
 #### Status
 ACCEPTED

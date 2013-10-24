@@ -1,5 +1,4 @@
-Mortierella zonata Linnem. ex W. Gams, 1977 SPECIES
-=======
+# Mortierella zonata Linnem. ex W. Gams, 1977 SPECIES
 
 #### Status
 ACCEPTED

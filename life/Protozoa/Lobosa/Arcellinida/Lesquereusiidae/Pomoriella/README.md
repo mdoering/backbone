@@ -1,5 +1,4 @@
-Pomoriella Golemansky, 1971 GENUS
-=======
+# Pomoriella Golemansky, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca elvebakkiana Søchting, Lorentsen & Arup SPECIES
-=======
+# Caloplaca elvebakkiana Søchting, Lorentsen & Arup SPECIES
 
 #### Status
 ACCEPTED

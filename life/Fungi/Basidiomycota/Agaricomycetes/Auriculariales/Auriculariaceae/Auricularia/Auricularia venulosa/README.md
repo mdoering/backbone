@@ -1,5 +1,4 @@
-Auricularia venulosa Fr. SPECIES
-=======
+# Auricularia venulosa Fr. SPECIES
 
 #### Status
 ACCEPTED

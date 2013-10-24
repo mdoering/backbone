@@ -1,17 +1,16 @@
-Didymosphaeria verdoni A.L. Guyot SPECIES
-=======
+# Didymosphaeria verdonii A.L. Guyot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 65: 104 (1949)
 
 #### Original name
-Didymosphaeria verdoni A.L. Guyot
+Didymosphaeria verdonii A.L. Guyot
 
 ### Remarks
 null

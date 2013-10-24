@@ -1,5 +1,4 @@
-Amphisphaeria suecica (Rehm) Sacc. SPECIES
-=======
+# Amphisphaeria suecica (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus puniceus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus puniceus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

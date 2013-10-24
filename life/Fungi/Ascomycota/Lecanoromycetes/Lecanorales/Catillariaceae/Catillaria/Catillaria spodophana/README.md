@@ -1,5 +1,4 @@
-Catillaria spodophana (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria spodophana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

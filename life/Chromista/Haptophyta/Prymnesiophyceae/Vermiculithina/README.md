@@ -1,5 +1,4 @@
-Vermiculithina Bukry & Percival GENUS
-=======
+# Vermiculithina Bukry & Percival GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carbonea herteliana Hafellner & Matzer SPECIES
-=======
+# Carbonea herteliana Hafellner & Matzer SPECIES
 
 #### Status
 ACCEPTED

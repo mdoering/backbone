@@ -1,5 +1,4 @@
-Diplodinula caraganae (Vestergr.) Tassi SPECIES
-=======
+# Diplodinula caraganae (Vestergr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

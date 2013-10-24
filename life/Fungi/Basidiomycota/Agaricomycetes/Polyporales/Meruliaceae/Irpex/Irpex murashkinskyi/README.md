@@ -1,5 +1,4 @@
-Irpex murashkinskyi (Burt) Kotir. & Saaren. SPECIES
-=======
+# Irpex murashkinskyi (Burt) Kotir. & Saaren. SPECIES
 
 #### Status
 ACCEPTED

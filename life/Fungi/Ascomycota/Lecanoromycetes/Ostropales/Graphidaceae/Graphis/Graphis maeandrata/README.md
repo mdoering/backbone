@@ -1,5 +1,4 @@
-Graphis maeandrata Kremp. SPECIES
-=======
+# Graphis maeandrata Kremp. SPECIES
 
 #### Status
 ACCEPTED

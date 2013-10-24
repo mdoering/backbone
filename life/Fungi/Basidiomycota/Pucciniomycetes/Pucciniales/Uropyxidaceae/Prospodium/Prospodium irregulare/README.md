@@ -1,5 +1,4 @@
-Prospodium irregulare Cummins SPECIES
-=======
+# Prospodium irregulare Cummins SPECIES
 
 #### Status
 ACCEPTED

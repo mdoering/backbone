@@ -1,5 +1,4 @@
-Muribasidiospora gordoniae H.H. Shih, H.J. Hsieh & C.H. Fu SPECIES
-=======
+# Muribasidiospora gordoniae H.H. Shih, H.J. Hsieh & C.H. Fu SPECIES
 
 #### Status
 ACCEPTED

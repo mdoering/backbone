@@ -1,5 +1,4 @@
-Kneiffiella tessulata (Berk. & M.A. Curtis) Underw. SPECIES
-=======
+# Kneiffiella tessulata (Berk. & M.A. Curtis) Underw. SPECIES
 
 #### Status
 ACCEPTED

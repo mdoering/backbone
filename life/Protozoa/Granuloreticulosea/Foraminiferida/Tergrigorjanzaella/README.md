@@ -1,5 +1,4 @@
-Tergrigorjanzaella Bykova, 1980 GENUS
-=======
+# Tergrigorjanzaella Bykova, 1980 GENUS
 
 #### Status
 ACCEPTED

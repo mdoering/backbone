@@ -1,5 +1,4 @@
-Didymella fagopyri F. Lamb. & Fautrey SPECIES
-=======
+# Didymella fagopyri F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

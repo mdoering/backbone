@@ -1,5 +1,4 @@
-Ramalina intermedia (Delise ex Nyl.) Nyl. SPECIES
-=======
+# Ramalina intermedia (Delise ex Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

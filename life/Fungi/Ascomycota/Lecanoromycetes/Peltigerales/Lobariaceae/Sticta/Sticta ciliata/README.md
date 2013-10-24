@@ -1,5 +1,4 @@
-Sticta ciliata Taylor SPECIES
-=======
+# Sticta ciliata Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semifissispora fusiformis H.J. Swart, 1982 SPECIES
-=======
+# Semifissispora fusiformis H.J. Swart, 1982 SPECIES
 
 #### Status
 ACCEPTED

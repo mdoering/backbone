@@ -1,5 +1,4 @@
-Clitocybe vinosofusca Berk. & Broome SPECIES
-=======
+# Clitocybe vinosofusca Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

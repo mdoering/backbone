@@ -1,5 +1,4 @@
-Belonopsis uredo Rehm SPECIES
-=======
+# Belonopsis uredo Rehm SPECIES
 
 #### Status
 ACCEPTED

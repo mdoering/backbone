@@ -1,8 +1,7 @@
-Dasyscypha turbinulatus (Schwein.) Sacc. SPECIES
-=======
+# Dasyscyphus turbinulatus (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

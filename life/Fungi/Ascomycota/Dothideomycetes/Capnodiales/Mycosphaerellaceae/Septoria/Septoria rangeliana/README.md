@@ -1,5 +1,4 @@
-Septoria rangeliana Trotter SPECIES
-=======
+# Septoria rangeliana Trotter SPECIES
 
 #### Status
 ACCEPTED

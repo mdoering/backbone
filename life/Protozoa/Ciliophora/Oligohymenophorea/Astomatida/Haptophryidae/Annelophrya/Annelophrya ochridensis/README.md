@@ -1,5 +1,4 @@
-Annelophrya ochridensis SPECIES
-=======
+# Annelophrya ochridensis SPECIES
 
 #### Status
 ACCEPTED

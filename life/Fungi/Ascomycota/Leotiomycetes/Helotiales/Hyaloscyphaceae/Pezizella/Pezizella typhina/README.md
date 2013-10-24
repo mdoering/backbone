@@ -1,5 +1,4 @@
-Pezizella typhina Velen. SPECIES
-=======
+# Pezizella typhina Velen. SPECIES
 
 #### Status
 ACCEPTED

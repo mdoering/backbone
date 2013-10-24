@@ -1,5 +1,4 @@
-Septobasidium carbonaceum Pat. SPECIES
-=======
+# Septobasidium carbonaceum Pat. SPECIES
 
 #### Status
 ACCEPTED

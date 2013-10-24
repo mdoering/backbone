@@ -1,5 +1,4 @@
-Uromyces andropogonis-annulati Syd., P. Syd. & E.J. Butler, 1907 SPECIES
-=======
+# Uromyces andropogonis-annulati Syd., P. Syd. & E.J. Butler, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia rhodospiloides Peck SPECIES
-=======
+# Herpotrichia rhodospiloides Peck SPECIES
 
 #### Status
 ACCEPTED

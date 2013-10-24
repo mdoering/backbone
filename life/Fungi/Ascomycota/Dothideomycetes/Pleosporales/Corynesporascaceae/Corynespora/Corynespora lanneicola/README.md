@@ -1,5 +1,4 @@
-Corynespora lanneicola Deighton & M.B. Ellis, 1957 SPECIES
-=======
+# Corynespora lanneicola Deighton & M.B. Ellis, 1957 SPECIES
 
 #### Status
 ACCEPTED

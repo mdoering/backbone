@@ -1,14 +1,13 @@
-Mucor griseo-ochraceus var. minutus Baijal & B.S. Mehrotra, 1966 VARIETY
-=======
+# Mucor minutus (Baijal & B.S. Mehrotra) Schipper, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 206 (1966)
+Stud. Mycol. 10: 24 (1975)
 
 #### Original name
 Mucor griseo-ochraceus var. minutus Baijal & B.S. Mehrotra, 1966

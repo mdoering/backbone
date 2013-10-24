@@ -1,5 +1,4 @@
-Mycoporellum deightonii C.W. Dodge SPECIES
-=======
+# Mycoporellum deightonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

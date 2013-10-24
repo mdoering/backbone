@@ -1,5 +1,4 @@
-Anthostoma allantosporum Speg. SPECIES
-=======
+# Anthostoma allantosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

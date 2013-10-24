@@ -1,5 +1,4 @@
-Micarea pannarica Fryday SPECIES
-=======
+# Micarea pannarica Fryday SPECIES
 
 #### Status
 ACCEPTED

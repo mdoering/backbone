@@ -1,5 +1,4 @@
-Melampsora euphorbiae-tarokoensis Hirats. f. SPECIES
-=======
+# Melampsora euphorbiae-tarokoensis Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis globispora Vezda SPECIES
-=======
+# Gyalideopsis globispora Vezda SPECIES
 
 #### Status
 ACCEPTED

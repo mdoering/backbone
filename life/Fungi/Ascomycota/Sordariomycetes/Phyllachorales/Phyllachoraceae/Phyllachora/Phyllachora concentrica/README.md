@@ -1,5 +1,4 @@
-Phyllachora concentrica Rossman, 1986 SPECIES
-=======
+# Phyllachora concentrica Rossman, 1986 SPECIES
 
 #### Status
 ACCEPTED

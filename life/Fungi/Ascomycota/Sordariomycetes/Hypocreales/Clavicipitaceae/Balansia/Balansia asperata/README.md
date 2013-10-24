@@ -1,5 +1,4 @@
-Balansia asperata Massee SPECIES
-=======
+# Balansia asperata Massee SPECIES
 
 #### Status
 ACCEPTED

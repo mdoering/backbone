@@ -1,17 +1,16 @@
-Hirsutella sinensis X.J. Liu, Y.L. Guo, Y.X. Yu & W. Zeng, 1989 SPECIES
-=======
+# Ophiocordyceps sinensis (Berk.) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 46 (2007)
 
 #### Original name
-null
+Sphaeria sinensis Berk., 1843
 
 ### Remarks
 null

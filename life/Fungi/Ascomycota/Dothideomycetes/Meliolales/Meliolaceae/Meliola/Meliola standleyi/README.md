@@ -1,5 +1,4 @@
-Meliola standleyi Hansf. SPECIES
-=======
+# Meliola standleyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

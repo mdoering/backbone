@@ -1,5 +1,4 @@
-Pseudothyridaria GENUS
-=======
+# Pseudothyridaria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophthora Thirum., C.G. Shaw & Naras. GENUS
-=======
+# Sclerophthora Thirum., C.G. Shaw & Naras. GENUS
 
 #### Status
 ACCEPTED

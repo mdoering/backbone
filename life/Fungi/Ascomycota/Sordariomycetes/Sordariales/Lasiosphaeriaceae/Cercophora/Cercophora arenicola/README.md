@@ -1,5 +1,4 @@
-Cercophora arenicola R. Hilber, 1979 SPECIES
-=======
+# Cercophora arenicola R. Hilber, 1979 SPECIES
 
 #### Status
 ACCEPTED

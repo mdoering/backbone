@@ -1,5 +1,4 @@
-Chlorarachnion Geitler, 1930 GENUS
-=======
+# Chlorarachnion Geitler, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprotus vicinus (Boud.) Kimbr., Luck-Allen & Cain SPECIES
-=======
+# Coprotus vicinus (Boud.) Kimbr., Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

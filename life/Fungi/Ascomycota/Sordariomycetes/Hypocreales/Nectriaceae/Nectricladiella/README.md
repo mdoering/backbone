@@ -1,5 +1,4 @@
-Nectricladiella Crous & C.L. Schoch, 2000 GENUS
-=======
+# Nectricladiella Crous & C.L. Schoch, 2000 GENUS
 
 #### Status
 ACCEPTED

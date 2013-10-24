@@ -1,5 +1,4 @@
-Patellaria glabella (Kremp.) Müll. Arg. SPECIES
-=======
+# Patellaria glabella (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

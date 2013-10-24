@@ -1,5 +1,4 @@
-Prunulus minutissimus Murrill SPECIES
-=======
+# Prunulus minutissimus Murrill SPECIES
 
 #### Status
 ACCEPTED

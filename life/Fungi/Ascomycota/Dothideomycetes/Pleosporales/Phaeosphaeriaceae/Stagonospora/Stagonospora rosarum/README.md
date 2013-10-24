@@ -1,5 +1,4 @@
-Stagonospora rosarum Bat. & Silva {?} SPECIES
-=======
+# Stagonospora rosarum Bat. & Silva {?} SPECIES
 
 #### Status
 ACCEPTED

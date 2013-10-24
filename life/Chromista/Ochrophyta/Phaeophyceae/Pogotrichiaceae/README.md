@@ -1,5 +1,4 @@
-Pogotrichiaceae FAMILY
-=======
+# Pogotrichiaceae FAMILY
 
 #### Status
 ACCEPTED

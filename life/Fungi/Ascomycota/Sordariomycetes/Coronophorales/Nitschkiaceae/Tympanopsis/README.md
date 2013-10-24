@@ -1,5 +1,4 @@
-Tympanopsis GENUS
-=======
+# Tympanopsis GENUS
 
 #### Status
 ACCEPTED

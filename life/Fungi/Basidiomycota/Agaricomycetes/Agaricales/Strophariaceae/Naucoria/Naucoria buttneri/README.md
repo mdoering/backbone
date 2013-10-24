@@ -1,5 +1,4 @@
-Naucoria buttneri Henn. SPECIES
-=======
+# Naucoria buttneri Henn. SPECIES
 
 #### Status
 ACCEPTED

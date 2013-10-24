@@ -1,5 +1,4 @@
-Soppittiella crustacea (Schumach.) Massee SPECIES
-=======
+# Soppittiella crustacea (Schumach.) Massee SPECIES
 
 #### Status
 ACCEPTED

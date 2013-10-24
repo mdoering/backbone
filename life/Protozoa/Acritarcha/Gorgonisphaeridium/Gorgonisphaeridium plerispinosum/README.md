@@ -1,5 +1,4 @@
-Gorgonisphaeridium plerispinosum Wicander, 1974 SPECIES
-=======
+# Gorgonisphaeridium plerispinosum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

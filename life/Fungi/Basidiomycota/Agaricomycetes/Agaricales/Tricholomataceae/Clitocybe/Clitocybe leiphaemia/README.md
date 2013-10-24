@@ -1,5 +1,4 @@
-Clitocybe leiphaemia Mont. SPECIES
-=======
+# Clitocybe leiphaemia Mont. SPECIES
 
 #### Status
 ACCEPTED

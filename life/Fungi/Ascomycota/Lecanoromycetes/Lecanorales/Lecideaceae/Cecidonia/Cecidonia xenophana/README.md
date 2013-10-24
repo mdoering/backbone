@@ -1,17 +1,16 @@
-Lecidea alumnula Nyl. SPECIES
-=======
+# Cecidonia xenophana (Körb.) Triebel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 59: 574 (1876)
+Nova Hedwigia 47(3-4): 291 (1988)
 
 #### Original name
-Lecidea alumnula Nyl.
+Placographa xenophana Körb.
 
 ### Remarks
 null

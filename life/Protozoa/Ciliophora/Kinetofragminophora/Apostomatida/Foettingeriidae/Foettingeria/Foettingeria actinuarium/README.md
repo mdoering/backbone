@@ -1,5 +1,4 @@
-Foettingeria actinuarium Claparède SPECIES
-=======
+# Foettingeria actinuarium Claparède SPECIES
 
 #### Status
 ACCEPTED

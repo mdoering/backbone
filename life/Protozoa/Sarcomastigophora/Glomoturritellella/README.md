@@ -1,5 +1,4 @@
-Glomoturritellella Urosevic, 1988 GENUS
-=======
+# Glomoturritellella Urosevic, 1988 GENUS
 
 #### Status
 ACCEPTED

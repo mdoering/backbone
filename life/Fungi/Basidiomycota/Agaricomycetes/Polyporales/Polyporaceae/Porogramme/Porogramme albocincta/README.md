@@ -1,5 +1,4 @@
-Porogramme albocincta (Cooke & Massee) J. Lowe SPECIES
-=======
+# Porogramme albocincta (Cooke & Massee) J. Lowe SPECIES
 
 #### Status
 ACCEPTED

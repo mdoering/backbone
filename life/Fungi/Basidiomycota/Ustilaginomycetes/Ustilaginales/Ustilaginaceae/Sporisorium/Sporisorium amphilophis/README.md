@@ -1,5 +1,4 @@
-Sporisorium amphilophis (Syd.) Langdon & Full. SPECIES
-=======
+# Sporisorium amphilophis (Syd.) Langdon & Full. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia symphoricarpi (Ellis & Everh.) U. Braun SPECIES
-=======
+# Ramularia symphoricarpi (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

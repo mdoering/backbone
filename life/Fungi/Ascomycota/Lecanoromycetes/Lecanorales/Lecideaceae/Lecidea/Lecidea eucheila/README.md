@@ -1,5 +1,4 @@
-Lecidea eucheila Zahlbr. SPECIES
-=======
+# Lecidea eucheila Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

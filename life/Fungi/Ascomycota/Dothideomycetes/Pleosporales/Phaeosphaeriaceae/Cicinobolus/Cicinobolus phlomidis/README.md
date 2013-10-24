@@ -1,8 +1,7 @@
-Cicinnobolus phlomidis Dejeva SPECIES
-=======
+# Cicinobolus phlomidis Dejeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus phlomidis Dejeva
+Cicinobolus phlomidis Dejeva
 
 ### Remarks
 null

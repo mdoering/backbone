@@ -1,14 +1,13 @@
-Ceratocystis abiocarpa R.W. Davidson, 1966 SPECIES
-=======
+# Grosmannia abiocarpa (R.W. Davidson) Zipfel, Z.W. de Beer & M.J. Wingf., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 28: 273 (1966)
+in Zipfel, Beer, Jacobs, Wingfield & Wingfield, Stud. Mycol. 55: 89 (2006)
 
 #### Original name
 Ceratocystis abiocarpa R.W. Davidson, 1966

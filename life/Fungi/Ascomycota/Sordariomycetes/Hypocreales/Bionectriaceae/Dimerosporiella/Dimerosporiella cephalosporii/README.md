@@ -1,5 +1,4 @@
-Dimerosporiella cephalosporii (Hansf.) Rossman & Samuels SPECIES
-=======
+# Dimerosporiella cephalosporii (Hansf.) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

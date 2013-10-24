@@ -1,8 +1,7 @@
-Kentrophoros canale Wright, 1982 SPECIES
-=======
+# Kentrophoros canalis Wright, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

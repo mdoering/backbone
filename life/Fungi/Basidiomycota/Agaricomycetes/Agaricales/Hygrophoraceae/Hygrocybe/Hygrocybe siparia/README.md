@@ -1,5 +1,4 @@
-Hygrocybe siparia (Berk.) Singer SPECIES
-=======
+# Hygrocybe siparia (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

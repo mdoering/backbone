@@ -1,5 +1,4 @@
-Cladina Nyl. GENUS
-=======
+# Cladina Nyl. GENUS
 
 #### Status
 ACCEPTED

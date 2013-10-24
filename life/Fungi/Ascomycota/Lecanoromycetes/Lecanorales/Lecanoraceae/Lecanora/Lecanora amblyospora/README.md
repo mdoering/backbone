@@ -1,5 +1,4 @@
-Lecanora amblyospora Harm. SPECIES
-=======
+# Lecanora amblyospora Harm. SPECIES
 
 #### Status
 ACCEPTED

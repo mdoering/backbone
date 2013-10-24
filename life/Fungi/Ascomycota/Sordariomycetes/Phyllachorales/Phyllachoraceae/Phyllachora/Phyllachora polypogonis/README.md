@@ -1,5 +1,4 @@
-Phyllachora polypogonis Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora polypogonis Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

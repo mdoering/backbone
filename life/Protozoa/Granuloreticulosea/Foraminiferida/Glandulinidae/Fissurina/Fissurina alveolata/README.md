@@ -1,5 +1,4 @@
-Fissurina alveolata (Brady, 1884) SPECIES
-=======
+# Fissurina alveolata (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

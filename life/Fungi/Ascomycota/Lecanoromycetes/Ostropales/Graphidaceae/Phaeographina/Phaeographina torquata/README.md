@@ -1,5 +1,4 @@
-Phaeographina torquata Müll. Arg. SPECIES
-=======
+# Phaeographina torquata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

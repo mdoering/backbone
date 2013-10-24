@@ -1,5 +1,4 @@
-Sporotrichum minutissimum Burghouts & Baerenspr. {?} SPECIES
-=======
+# Sporotrichum minutissimum Burghouts & Baerenspr. {?} SPECIES
 
 #### Status
 ACCEPTED

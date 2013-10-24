@@ -1,5 +1,4 @@
-Vekusina Jakovleva, 1989 GENUS
-=======
+# Vekusina Jakovleva, 1989 GENUS
 
 #### Status
 ACCEPTED

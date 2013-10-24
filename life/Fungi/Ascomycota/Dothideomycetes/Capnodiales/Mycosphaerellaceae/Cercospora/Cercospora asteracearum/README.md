@@ -1,5 +1,4 @@
-Cercospora asteracearum R.K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Cercospora asteracearum R.K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

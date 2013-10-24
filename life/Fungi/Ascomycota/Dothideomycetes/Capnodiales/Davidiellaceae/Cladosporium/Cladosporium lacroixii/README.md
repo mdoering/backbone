@@ -1,5 +1,4 @@
-Cladosporium lacroixii Desm., 1860 SPECIES
-=======
+# Cladosporium lacroixii Desm., 1860 SPECIES
 
 #### Status
 ACCEPTED

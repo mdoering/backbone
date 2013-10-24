@@ -1,5 +1,4 @@
-Ceraunium scabrum Wallr. SPECIES
-=======
+# Ceraunium scabrum Wallr. SPECIES
 
 #### Status
 ACCEPTED

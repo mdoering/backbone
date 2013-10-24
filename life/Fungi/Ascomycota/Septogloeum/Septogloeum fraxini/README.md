@@ -1,5 +1,4 @@
-Septogloeum fraxini Harkn. SPECIES
-=======
+# Septogloeum fraxini Harkn. SPECIES
 
 #### Status
 ACCEPTED

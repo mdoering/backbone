@@ -1,5 +1,4 @@
-Juguspira Crow, 1927 GENUS
-=======
+# Juguspira Crow, 1927 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria albigensis Erichsen SPECIES
-=======
+# Verrucaria albigensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

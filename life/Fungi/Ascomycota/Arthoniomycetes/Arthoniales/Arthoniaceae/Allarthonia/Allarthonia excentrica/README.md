@@ -1,5 +1,4 @@
-Allarthonia excentrica (Th. Fr.) Zahlbr. SPECIES
-=======
+# Allarthonia excentrica (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus virgatus var. virgatus VARIETY
-=======
+# Tricholoma virgatum (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 113 (1818)
+Führ. Pilzk. (Zwickau) 134 (1871)
 
 #### Original name
-Agaricus virgatus var. virgatus
+Agaricus virgatus Fr., 1818
 
 ### Remarks
 null

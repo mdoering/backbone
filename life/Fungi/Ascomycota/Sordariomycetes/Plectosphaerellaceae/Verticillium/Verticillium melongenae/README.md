@@ -1,5 +1,4 @@
-Verticillium melongenae L.A. Kantsch. & Zurabishvili SPECIES
-=======
+# Verticillium melongenae L.A. Kantsch. & Zurabishvili SPECIES
 
 #### Status
 ACCEPTED

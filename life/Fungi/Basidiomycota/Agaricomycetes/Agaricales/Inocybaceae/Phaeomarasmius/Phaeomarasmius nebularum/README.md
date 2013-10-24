@@ -1,5 +1,4 @@
-Phaeomarasmius nebularum Singer SPECIES
-=======
+# Phaeomarasmius nebularum Singer SPECIES
 
 #### Status
 ACCEPTED

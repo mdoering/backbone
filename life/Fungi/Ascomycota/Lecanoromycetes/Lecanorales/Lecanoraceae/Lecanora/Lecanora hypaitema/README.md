@@ -1,5 +1,4 @@
-Lecanora hypaitema Nyl. SPECIES
-=======
+# Lecanora hypaitema Nyl. SPECIES
 
 #### Status
 ACCEPTED

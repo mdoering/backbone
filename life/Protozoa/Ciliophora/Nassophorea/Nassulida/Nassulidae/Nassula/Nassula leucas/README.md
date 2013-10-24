@@ -1,5 +1,4 @@
-Nassula leucas SPECIES
-=======
+# Nassula leucas SPECIES
 
 #### Status
 ACCEPTED

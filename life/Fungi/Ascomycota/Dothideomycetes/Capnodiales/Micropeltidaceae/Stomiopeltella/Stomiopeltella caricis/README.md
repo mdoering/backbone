@@ -1,5 +1,4 @@
-Stomiopeltella caricis Siemaszko SPECIES
-=======
+# Stomiopeltella caricis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

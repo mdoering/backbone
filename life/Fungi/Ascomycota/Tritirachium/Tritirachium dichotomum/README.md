@@ -1,5 +1,4 @@
-Tritirachium dichotomum (Bayl. Ell.) SPECIES
-=======
+# Tritirachium dichotomum (Bayl. Ell.) SPECIES
 
 #### Status
 ACCEPTED

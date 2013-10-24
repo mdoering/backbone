@@ -1,5 +1,4 @@
-Ixodopsis fimicola P. Karst. SPECIES
-=======
+# Ixodopsis fimicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

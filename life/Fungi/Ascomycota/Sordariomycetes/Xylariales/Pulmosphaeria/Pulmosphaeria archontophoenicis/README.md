@@ -1,5 +1,4 @@
-Pulmosphaeria archontophoenicis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 1996 SPECIES
-=======
+# Pulmosphaeria archontophoenicis Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 1996 SPECIES
 
 #### Status
 ACCEPTED

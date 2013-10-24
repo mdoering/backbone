@@ -1,5 +1,4 @@
-Laboulbenia grisea Speg. SPECIES
-=======
+# Laboulbenia grisea Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella ulmifolia Pass. SPECIES
-=======
+# Sphaerella ulmifolia Pass. SPECIES
 
 #### Status
 ACCEPTED

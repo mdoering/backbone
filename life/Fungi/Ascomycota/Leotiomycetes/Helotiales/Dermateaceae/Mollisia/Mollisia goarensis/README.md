@@ -1,5 +1,4 @@
-Mollisia goarensis Kirschst. SPECIES
-=======
+# Mollisia goarensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

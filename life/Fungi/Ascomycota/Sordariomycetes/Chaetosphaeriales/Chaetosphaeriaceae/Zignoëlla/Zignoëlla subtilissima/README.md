@@ -1,5 +1,4 @@
-Zignoëlla subtilissima Rehm SPECIES
-=======
+# Zignoëlla subtilissima Rehm SPECIES
 
 #### Status
 ACCEPTED

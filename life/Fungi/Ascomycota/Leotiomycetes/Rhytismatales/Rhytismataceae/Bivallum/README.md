@@ -1,5 +1,4 @@
-Bivallum P.R. Johnst. GENUS
-=======
+# Bivallum P.R. Johnst. GENUS
 
 #### Status
 ACCEPTED

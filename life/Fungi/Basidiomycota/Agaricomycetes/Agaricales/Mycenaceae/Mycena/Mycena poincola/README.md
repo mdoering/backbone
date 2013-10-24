@@ -1,5 +1,4 @@
-Mycena poincola Velen. SPECIES
-=======
+# Mycena poincola Velen. SPECIES
 
 #### Status
 ACCEPTED

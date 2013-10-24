@@ -1,5 +1,4 @@
-Trichomitus Swezy GENUS
-=======
+# Trichomitus Swezy GENUS
 
 #### Status
 ACCEPTED

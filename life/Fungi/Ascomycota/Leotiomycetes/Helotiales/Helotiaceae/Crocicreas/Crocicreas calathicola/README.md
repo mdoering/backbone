@@ -1,5 +1,4 @@
-Crocicreas calathicola (Rehm) S.E. Carp. SPECIES
-=======
+# Crocicreas calathicola (Rehm) S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium tenellum Peyronel SPECIES
-=======
+# Cephalosporium tenellum Peyronel SPECIES
 
 #### Status
 ACCEPTED

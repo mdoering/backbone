@@ -1,17 +1,16 @@
-Thamnolia juncea var. juncea VARIETY
-=======
+# Thamnolia juncea R. Sant. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 34(1): 396 (2004)
 
 #### Original name
-null
+Thamnolia juncea R. Sant.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monoicomyces oxypodae Thaxt. SPECIES
-=======
+# Monoicomyces oxypodae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

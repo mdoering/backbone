@@ -1,5 +1,4 @@
-Blastenia novomexicana Fink ex J. Hedrick SPECIES
-=======
+# Blastenia novomexicana Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo rhynchosiae Kalchbr. SPECIES
-=======
+# Uredo rhynchosiae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

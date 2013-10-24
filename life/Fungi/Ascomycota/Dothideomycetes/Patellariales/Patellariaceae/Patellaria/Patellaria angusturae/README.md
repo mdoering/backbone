@@ -1,5 +1,4 @@
-Patellaria angusturae Spreng. SPECIES
-=======
+# Patellaria angusturae Spreng. SPECIES
 
 #### Status
 ACCEPTED

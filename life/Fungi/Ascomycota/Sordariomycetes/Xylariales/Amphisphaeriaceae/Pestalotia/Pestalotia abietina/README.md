@@ -1,5 +1,4 @@
-Pestalotia abietina Voglino SPECIES
-=======
+# Pestalotia abietina Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta cercocarpi P. Syd. SPECIES
-=======
+# Phyllosticta cercocarpi P. Syd. SPECIES
 
 #### Status
 ACCEPTED

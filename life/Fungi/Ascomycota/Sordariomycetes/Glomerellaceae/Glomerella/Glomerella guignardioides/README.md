@@ -1,5 +1,4 @@
-Glomerella guignardioides (Sacc.) Petr. SPECIES
-=======
+# Glomerella guignardioides (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

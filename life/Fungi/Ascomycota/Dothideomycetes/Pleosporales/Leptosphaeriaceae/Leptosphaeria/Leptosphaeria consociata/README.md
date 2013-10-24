@@ -1,5 +1,4 @@
-Leptosphaeria consociata Rehm SPECIES
-=======
+# Leptosphaeria consociata Rehm SPECIES
 
 #### Status
 ACCEPTED

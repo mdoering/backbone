@@ -1,5 +1,4 @@
-Lecidea retigena Hedl. SPECIES
-=======
+# Lecidea retigena Hedl. SPECIES
 
 #### Status
 ACCEPTED

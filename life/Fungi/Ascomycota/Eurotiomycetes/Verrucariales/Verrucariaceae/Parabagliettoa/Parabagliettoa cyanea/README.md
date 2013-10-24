@@ -1,17 +1,16 @@
-Thelidium limitatum f. limitatum FORM
-=======
+# Parabagliettoa cyanea (A. Massal.) Gueidan & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Thelidium limitatum f. limitatum
+null
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Clathroporinopsis M. Choisy GENUS
-=======
+# Topelia P.M. Jørg. & Vezda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Champignons parasites et les Mycoses de l'Homme (Encycl. mycol. , 2) 4 (1929)
+Nova Hedwigia, Beih. 79: 502 (1984)
 
 #### Original name
-Clathroporinopsis M. Choisy
+Topelia P.M. Jørg. & Vezda
 
 ### Remarks
 null

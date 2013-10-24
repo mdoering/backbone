@@ -1,5 +1,4 @@
-Clisosporium hortense (Sacc. & Malbr.) Kuntze SPECIES
-=======
+# Clisosporium hortense (Sacc. & Malbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

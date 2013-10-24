@@ -1,5 +1,4 @@
-Arthonia atrata (Fée) Müll. Arg. SPECIES
-=======
+# Arthonia atrata (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

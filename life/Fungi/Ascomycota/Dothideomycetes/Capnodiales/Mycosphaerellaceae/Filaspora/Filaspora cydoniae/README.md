@@ -1,5 +1,4 @@
-Filaspora cydoniae (Pass.) Kuntze SPECIES
-=======
+# Filaspora cydoniae (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

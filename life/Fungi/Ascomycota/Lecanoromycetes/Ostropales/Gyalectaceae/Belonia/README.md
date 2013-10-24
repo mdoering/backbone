@@ -1,17 +1,16 @@
-Beloniomyces Cif. & Tomas. GENUS
-=======
+# Belonia Körber, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 30, 58 (1953)
+Lich. Select. Germ. no. 79 (1856)
 
 #### Original name
-Beloniomyces Cif. & Tomas.
+Belonia Körber, 1856
 
 ### Remarks
 null

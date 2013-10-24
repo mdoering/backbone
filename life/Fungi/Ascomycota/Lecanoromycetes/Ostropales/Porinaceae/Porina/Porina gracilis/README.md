@@ -1,5 +1,4 @@
-Porina gracilis Malme SPECIES
-=======
+# Porina gracilis Malme SPECIES
 
 #### Status
 ACCEPTED

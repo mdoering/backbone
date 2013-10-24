@@ -1,5 +1,4 @@
-Chiodecton papillosum G. Thor SPECIES
-=======
+# Chiodecton papillosum G. Thor SPECIES
 
 #### Status
 ACCEPTED

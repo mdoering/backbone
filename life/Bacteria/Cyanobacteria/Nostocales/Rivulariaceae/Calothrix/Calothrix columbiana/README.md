@@ -1,5 +1,4 @@
-Calothrix columbiana G.S. West SPECIES
-=======
+# Calothrix columbiana G.S. West SPECIES
 
 #### Status
 ACCEPTED

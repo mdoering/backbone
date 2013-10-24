@@ -1,14 +1,13 @@
-Geotrichum variabilis (Boedijn & Verbunt) Brumpt SPECIES
-=======
+# Geotrichum variabile (Boedijn & Verbunt) Brumpt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Precis de Myconymie (Annecy) 1744 (1949)
 
 #### Original name
 Proteomyces variabilis Boedijn & Verbunt

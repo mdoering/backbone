@@ -1,5 +1,4 @@
-Synsporium furcatum Losa SPECIES
-=======
+# Synsporium furcatum Losa SPECIES
 
 #### Status
 ACCEPTED

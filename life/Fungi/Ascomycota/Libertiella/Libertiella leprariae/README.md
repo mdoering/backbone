@@ -1,5 +1,4 @@
-Libertiella leprariae Etayo & Diederich SPECIES
-=======
+# Libertiella leprariae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

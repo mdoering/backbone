@@ -1,14 +1,13 @@
-Microrhabduloidus G. Deflandre, 1963 GENUS
-=======
+# Microrhabdulus G. Deflandre, 1959 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 257: 3486.
+null
 
 #### Original name
 null

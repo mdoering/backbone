@@ -1,5 +1,4 @@
-Rhabdostyla cyclopis Kahl, 1935 SPECIES
-=======
+# Rhabdostyla cyclopis Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus typhae Feltgen, 1901 SPECIES
-=======
+# Ophiobolus typhae Feltgen, 1901 SPECIES
 
 #### Status
 ACCEPTED

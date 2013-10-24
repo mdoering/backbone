@@ -1,5 +1,4 @@
-Shewanella olleyana Skerratt et al., 2002 SPECIES
-=======
+# Shewanella olleyana Skerratt et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

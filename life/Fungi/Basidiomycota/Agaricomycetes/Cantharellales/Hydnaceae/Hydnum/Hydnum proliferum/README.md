@@ -1,5 +1,4 @@
-Hydnum proliferum Fr. SPECIES
-=======
+# Hydnum proliferum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria ceriospora Duby SPECIES
-=======
+# Sphaeria ceriospora Duby SPECIES
 
 #### Status
 ACCEPTED

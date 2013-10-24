@@ -1,8 +1,7 @@
-Ploeotia currugata Larsen & Patterson, 1990 SPECIES
-=======
+# Ploeotia corrugata Larsen & Patterson, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

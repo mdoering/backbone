@@ -1,5 +1,4 @@
-Leptosphaeria lilii Ellis & Dearn. SPECIES
-=======
+# Leptosphaeria lilii Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discula anomala (Cooke) Sacc. SPECIES
-=======
+# Discula anomala (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

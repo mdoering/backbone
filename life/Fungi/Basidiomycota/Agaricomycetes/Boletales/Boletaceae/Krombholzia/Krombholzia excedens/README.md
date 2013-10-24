@@ -1,5 +1,4 @@
-Krombholzia excedens Heinem. & Gooss.-Font. SPECIES
-=======
+# Krombholzia excedens Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora bidentis-pilosae Sawada SPECIES
-=======
+# Cercospora bidentis-pilosae Sawada SPECIES
 
 #### Status
 ACCEPTED

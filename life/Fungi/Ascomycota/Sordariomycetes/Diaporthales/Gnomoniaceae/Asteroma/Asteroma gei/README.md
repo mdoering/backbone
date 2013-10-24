@@ -1,5 +1,4 @@
-Asteroma gei Fuckel SPECIES
-=======
+# Asteroma gei Fuckel SPECIES
 
 #### Status
 ACCEPTED

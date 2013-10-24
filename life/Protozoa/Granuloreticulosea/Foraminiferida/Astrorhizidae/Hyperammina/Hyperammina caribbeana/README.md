@@ -1,5 +1,4 @@
-Hyperammina caribbeana SPECIES
-=======
+# Hyperammina caribbeana SPECIES
 
 #### Status
 ACCEPTED

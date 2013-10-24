@@ -1,5 +1,4 @@
-Phyllachora sordida Speg., 1889 SPECIES
-=======
+# Phyllachora sordida Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

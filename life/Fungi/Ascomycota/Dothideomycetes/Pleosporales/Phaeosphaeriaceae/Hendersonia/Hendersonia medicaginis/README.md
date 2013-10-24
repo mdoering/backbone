@@ -1,5 +1,4 @@
-Hendersonia medicaginis Sacc. SPECIES
-=======
+# Hendersonia medicaginis Sacc. SPECIES
 
 #### Status
 ACCEPTED

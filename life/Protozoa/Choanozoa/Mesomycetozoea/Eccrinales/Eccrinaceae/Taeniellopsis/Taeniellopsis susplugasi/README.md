@@ -1,5 +1,4 @@
-Taeniellopsis susplugasi Manier ex Manier, 1970 SPECIES
-=======
+# Taeniellopsis susplugasi Manier ex Manier, 1970 SPECIES
 
 #### Status
 ACCEPTED

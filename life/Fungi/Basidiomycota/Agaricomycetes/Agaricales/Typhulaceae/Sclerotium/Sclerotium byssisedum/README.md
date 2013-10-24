@@ -1,5 +1,4 @@
-Sclerotium byssisedum Wallr. SPECIES
-=======
+# Sclerotium byssisedum Wallr. SPECIES
 
 #### Status
 ACCEPTED

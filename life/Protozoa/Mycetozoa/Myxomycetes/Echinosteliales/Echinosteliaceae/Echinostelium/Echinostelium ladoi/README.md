@@ -1,5 +1,4 @@
-Echinostelium ladoi Pando, 1997 SPECIES
-=======
+# Echinostelium ladoi Pando, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia gracilenta Müll. Arg. SPECIES
-=======
+# Arthopyrenia gracilenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mollisia pulla (W. Phillips & Keith) Baral, 2008 SPECIES
-=======
+# Niptera pulla (W. Phillips & Keith) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Belonidium pullum W. Phillips & Keith
 
 ### Remarks
 null

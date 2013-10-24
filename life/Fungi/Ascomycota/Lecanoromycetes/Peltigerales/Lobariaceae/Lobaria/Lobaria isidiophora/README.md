@@ -1,17 +1,16 @@
-Lobaria isidiophora var. isidiophora Yoshim. VARIETY
-=======
+# Lobaria isidiophora Yoshim. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Hattori bot. Lab. 34: 276 (1971)
 
 #### Original name
-Lobaria isidiophora var. isidiophora Yoshim.
+Lobaria isidiophora Yoshim.
 
 ### Remarks
 null

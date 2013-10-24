@@ -1,5 +1,4 @@
-Phyllosticta plumbaginicola V.G. Rao SPECIES
-=======
+# Phyllosticta plumbaginicola V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

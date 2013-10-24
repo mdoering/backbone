@@ -1,5 +1,4 @@
-Mackinnonia Janiszewska, 1963 GENUS
-=======
+# Mackinnonia Janiszewska, 1963 GENUS
 
 #### Status
 ACCEPTED

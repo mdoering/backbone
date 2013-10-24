@@ -1,5 +1,4 @@
-Ascobolus lineolatus Brumm., 1967 SPECIES
-=======
+# Ascobolus lineolatus Brumm., 1967 SPECIES
 
 #### Status
 ACCEPTED

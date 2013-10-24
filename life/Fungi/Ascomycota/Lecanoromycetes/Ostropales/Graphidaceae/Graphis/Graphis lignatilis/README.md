@@ -1,5 +1,4 @@
-Graphis lignatilis Vain. SPECIES
-=======
+# Graphis lignatilis Vain. SPECIES
 
 #### Status
 ACCEPTED

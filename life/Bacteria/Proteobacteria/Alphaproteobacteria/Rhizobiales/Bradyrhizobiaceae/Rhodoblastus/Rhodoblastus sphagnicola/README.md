@@ -1,5 +1,4 @@
-Rhodoblastus sphagnicola Kulichevskaya et al., 2006 SPECIES
-=======
+# Rhodoblastus sphagnicola Kulichevskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

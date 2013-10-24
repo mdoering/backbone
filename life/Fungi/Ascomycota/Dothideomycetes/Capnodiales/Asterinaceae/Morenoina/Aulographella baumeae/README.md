@@ -1,5 +1,4 @@
-Aulographella baumeae F. Stevens & R.W. Ryan SPECIES
-=======
+# Aulographella baumeae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

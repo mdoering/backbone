@@ -1,5 +1,4 @@
-Puccinia carduncelli P. Syd. & Syd. SPECIES
-=======
+# Puccinia carduncelli P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oketaella Thompson, 1951 GENUS
-=======
+# Oketaella Thompson, 1951 GENUS
 
 #### Status
 ACCEPTED

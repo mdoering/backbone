@@ -1,5 +1,4 @@
-Stagonospora curtsii SPECIES
-=======
+# Stagonospora curtsii SPECIES
 
 #### Status
 ACCEPTED

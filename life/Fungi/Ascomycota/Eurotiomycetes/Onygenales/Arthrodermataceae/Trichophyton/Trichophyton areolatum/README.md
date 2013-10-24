@@ -1,5 +1,4 @@
-Trichophyton areolatum Negroni, 1929 SPECIES
-=======
+# Trichophyton areolatum Negroni, 1929 SPECIES
 
 #### Status
 ACCEPTED

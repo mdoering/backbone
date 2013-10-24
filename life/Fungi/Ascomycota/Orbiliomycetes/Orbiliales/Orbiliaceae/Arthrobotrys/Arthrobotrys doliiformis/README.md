@@ -1,17 +1,16 @@
-Arthrobotrys dolioformis Soprunov SPECIES
-=======
+# Arthrobotrys doliiformis Soprunov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Predacious fungi - Hyphomycetes and their use in the control of pathogenic nematodes 138 (1958)
 
 #### Original name
-Arthrobotrys dolioformis Soprunov
+Arthrobotrys doliiformis Soprunov
 
 ### Remarks
 null

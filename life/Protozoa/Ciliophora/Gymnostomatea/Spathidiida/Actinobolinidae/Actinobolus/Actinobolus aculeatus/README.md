@@ -1,5 +1,4 @@
-Actinobolus aculeatus SPECIES
-=======
+# Actinobolus aculeatus SPECIES
 
 #### Status
 ACCEPTED

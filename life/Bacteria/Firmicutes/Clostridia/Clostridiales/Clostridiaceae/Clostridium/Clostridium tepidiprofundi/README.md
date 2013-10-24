@@ -1,5 +1,4 @@
-Clostridium tepidiprofundi Slobodkina, Kolganova, Tourova, Kostrikina, Jeanthon, Bonch-Osmolovskaya & Slobodkin, 2008 SPECIES
-=======
+# Clostridium tepidiprofundi Slobodkina, Kolganova, Tourova, Kostrikina, Jeanthon, Bonch-Osmolovskaya & Slobodkin, 2008 SPECIES
 
 #### Status
 ACCEPTED

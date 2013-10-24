@@ -1,5 +1,4 @@
-Oospora corii (Richon) Sacc. SPECIES
-=======
+# Oospora corii (Richon) Sacc. SPECIES
 
 #### Status
 ACCEPTED

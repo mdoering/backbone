@@ -1,5 +1,4 @@
-Phoma adonidis Moesz SPECIES
-=======
+# Phoma adonidis Moesz SPECIES
 
 #### Status
 ACCEPTED

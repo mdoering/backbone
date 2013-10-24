@@ -1,5 +1,4 @@
-Cladonia gorgonina var. gorgonina VARIETY
-=======
+# Cladonia gorgonina SPECIES
 
 #### Status
 ACCEPTED

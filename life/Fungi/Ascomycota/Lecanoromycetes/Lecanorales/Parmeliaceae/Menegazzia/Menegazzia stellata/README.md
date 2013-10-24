@@ -1,5 +1,4 @@
-Menegazzia stellata P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia stellata P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

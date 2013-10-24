@@ -1,5 +1,4 @@
-Umbilicaria robusta (Llano) D. J. Galloway & Sancho SPECIES
-=======
+# Umbilicaria robusta (Llano) D. J. Galloway & Sancho SPECIES
 
 #### Status
 ACCEPTED

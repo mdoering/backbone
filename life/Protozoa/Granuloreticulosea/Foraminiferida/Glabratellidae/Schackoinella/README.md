@@ -1,5 +1,4 @@
-Schackoinella Weinhandl, 1958 GENUS
-=======
+# Schackoinella Weinhandl, 1958 GENUS
 
 #### Status
 ACCEPTED

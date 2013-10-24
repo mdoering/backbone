@@ -1,5 +1,4 @@
-Lecanora fuscopallens (Krempelh.) Zahlbr. SPECIES
-=======
+# Lecanora fuscopallens (Krempelh.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

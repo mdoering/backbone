@@ -1,5 +1,4 @@
-Lecanactis proximans (Nyl.) Zahlbr. SPECIES
-=======
+# Lecanactis proximans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

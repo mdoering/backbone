@@ -1,17 +1,16 @@
-Microtyle bergi Speg. SPECIES
-=======
+# Microtyle bergii Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boln Acad. nac. Cienc. Córdoba 23: (1919)
 
 #### Original name
-Microtyle bergi Speg.
+Microtyle bergii Speg., 1919
 
 ### Remarks
 null

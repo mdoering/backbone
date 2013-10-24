@@ -1,5 +1,4 @@
-Agaricus hyemalis J. Otto SPECIES
-=======
+# Agaricus hyemalis J. Otto SPECIES
 
 #### Status
 ACCEPTED

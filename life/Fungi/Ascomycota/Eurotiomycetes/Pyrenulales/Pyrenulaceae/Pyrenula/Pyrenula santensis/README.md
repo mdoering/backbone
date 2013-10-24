@@ -1,17 +1,16 @@
-Verrucaria marginata var. santensis Nyl. VARIETY
-=======
+# Pyrenula santensis (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 65: 400 (1882)
 
 #### Original name
-null
+Verrucaria santensis Nyl.
 
 ### Remarks
 null

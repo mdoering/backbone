@@ -1,5 +1,4 @@
-Collema myriococcum Mont. SPECIES
-=======
+# Collema myriococcum Mont. SPECIES
 
 #### Status
 ACCEPTED

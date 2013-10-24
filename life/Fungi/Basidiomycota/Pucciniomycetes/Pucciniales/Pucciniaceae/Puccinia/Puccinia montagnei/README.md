@@ -1,5 +1,4 @@
-Puccinia montagnei De Toni SPECIES
-=======
+# Puccinia montagnei De Toni SPECIES
 
 #### Status
 ACCEPTED

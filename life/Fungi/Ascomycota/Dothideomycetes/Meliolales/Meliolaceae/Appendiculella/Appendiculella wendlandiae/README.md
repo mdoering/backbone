@@ -1,5 +1,4 @@
-Appendiculella wendlandiae Jana, S.N. Ghosh & A.K. Das SPECIES
-=======
+# Appendiculella wendlandiae Jana, S.N. Ghosh & A.K. Das SPECIES
 
 #### Status
 ACCEPTED

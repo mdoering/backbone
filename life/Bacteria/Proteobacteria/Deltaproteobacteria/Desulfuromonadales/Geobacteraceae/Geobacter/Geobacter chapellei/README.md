@@ -1,5 +1,4 @@
-Geobacter chapellei Coates et al., 2001 SPECIES
-=======
+# Geobacter chapellei Coates et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummulites variolaris Lamarck SPECIES
-=======
+# Nummulites variolaris Lamarck SPECIES
 
 #### Status
 ACCEPTED

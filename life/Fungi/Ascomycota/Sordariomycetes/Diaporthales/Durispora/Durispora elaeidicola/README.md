@@ -1,5 +1,4 @@
-Durispora elaeidicola K.D. Hyde, 1994 SPECIES
-=======
+# Durispora elaeidicola K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

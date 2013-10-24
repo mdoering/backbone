@@ -1,5 +1,4 @@
-Septobasidium tambaense W. Yamam. SPECIES
-=======
+# Septobasidium tambaense W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

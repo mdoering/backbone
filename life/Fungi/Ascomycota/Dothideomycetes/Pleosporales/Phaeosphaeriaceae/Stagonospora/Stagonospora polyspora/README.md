@@ -1,5 +1,4 @@
-Stagonospora polyspora M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Stagonospora polyspora M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

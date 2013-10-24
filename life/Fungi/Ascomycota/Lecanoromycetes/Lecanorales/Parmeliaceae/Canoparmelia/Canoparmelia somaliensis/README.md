@@ -1,17 +1,16 @@
-Parmelia somaliensis Müll. Arg. SPECIES
-=======
+# Canoparmelia somaliensis (Müll. Arg.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 279 (1986)
 
 #### Original name
-null
+Parmelia somaliensis Müll. Arg.
 
 ### Remarks
 null

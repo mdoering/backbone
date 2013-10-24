@@ -1,5 +1,4 @@
-Uromyces senecionis-gigantis Gjaerum, 1977 SPECIES
-=======
+# Uromyces senecionis-gigantis Gjaerum, 1977 SPECIES
 
 #### Status
 ACCEPTED

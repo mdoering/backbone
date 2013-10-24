@@ -1,5 +1,4 @@
-Dicaeoma redfieldiae (Tracy) Kuntze SPECIES
-=======
+# Dicaeoma redfieldiae (Tracy) Kuntze SPECIES
 
 #### Status
 ACCEPTED

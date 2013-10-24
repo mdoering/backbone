@@ -1,5 +1,4 @@
-Phyllosticta tuisiensis Speg. SPECIES
-=======
+# Phyllosticta tuisiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

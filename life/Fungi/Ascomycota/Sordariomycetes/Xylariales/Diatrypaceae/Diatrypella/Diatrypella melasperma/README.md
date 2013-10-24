@@ -1,5 +1,4 @@
-Diatrypella melasperma (Fr.) Sacc. SPECIES
-=======
+# Diatrypella melasperma (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoralium Eloff & van Hoven, 1980 GENUS
-=======
+# Endoralium Eloff & van Hoven, 1980 GENUS
 
 #### Status
 ACCEPTED

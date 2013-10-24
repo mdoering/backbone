@@ -1,5 +1,4 @@
-Ovulariopsis asclepiadis-curassavicae Sawada SPECIES
-=======
+# Ovulariopsis asclepiadis-curassavicae Sawada SPECIES
 
 #### Status
 ACCEPTED

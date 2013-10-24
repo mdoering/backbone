@@ -1,5 +1,4 @@
-Hypoderma sticheri P.R. Johnst., 1990 SPECIES
-=======
+# Hypoderma sticheri P.R. Johnst., 1990 SPECIES
 
 #### Status
 ACCEPTED

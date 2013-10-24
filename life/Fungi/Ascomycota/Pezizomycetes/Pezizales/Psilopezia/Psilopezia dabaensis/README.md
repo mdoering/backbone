@@ -1,5 +1,4 @@
-Psilopezia dabaensis W.Y. Zhuang SPECIES
-=======
+# Psilopezia dabaensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

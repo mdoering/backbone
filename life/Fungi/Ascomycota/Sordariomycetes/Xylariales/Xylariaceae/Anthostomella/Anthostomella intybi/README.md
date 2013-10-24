@@ -1,5 +1,4 @@
-Anthostomella intybi (Durieu & Mont.) Sacc. SPECIES
-=======
+# Anthostomella intybi (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

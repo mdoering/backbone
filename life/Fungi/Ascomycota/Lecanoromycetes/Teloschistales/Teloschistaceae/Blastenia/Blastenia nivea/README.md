@@ -1,5 +1,4 @@
-Blastenia nivea B. de Lesd. SPECIES
-=======
+# Blastenia nivea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

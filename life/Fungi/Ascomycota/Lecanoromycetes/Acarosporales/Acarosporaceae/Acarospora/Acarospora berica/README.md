@@ -1,5 +1,4 @@
-Acarospora berica (A. Massal.) Stizenb. SPECIES
-=======
+# Acarospora berica (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

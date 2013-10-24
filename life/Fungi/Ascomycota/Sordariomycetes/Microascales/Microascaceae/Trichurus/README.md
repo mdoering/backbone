@@ -1,5 +1,4 @@
-Trichurus Clements, 1896 GENUS
-=======
+# Trichurus Clements, 1896 GENUS
 
 #### Status
 ACCEPTED

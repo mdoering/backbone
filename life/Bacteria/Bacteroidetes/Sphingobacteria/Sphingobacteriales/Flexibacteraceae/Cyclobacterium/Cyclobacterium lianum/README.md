@@ -1,5 +1,4 @@
-Cyclobacterium lianum Ying, Wang, Yang & Liu, 2006 SPECIES
-=======
+# Cyclobacterium lianum Ying, Wang, Yang & Liu, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis stigma Cooke SPECIES
-=======
+# Micropeltis stigma Cooke SPECIES
 
 #### Status
 ACCEPTED

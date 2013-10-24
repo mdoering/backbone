@@ -1,5 +1,4 @@
-Aqualinderella fermentans R. Emers. & W. Weston, 1967 SPECIES
-=======
+# Aqualinderella fermentans R. Emers. & W. Weston, 1967 SPECIES
 
 #### Status
 ACCEPTED

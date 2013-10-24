@@ -1,5 +1,4 @@
-Trichosporum parasiticum Dearn. & Bisby SPECIES
-=======
+# Trichosporum parasiticum Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

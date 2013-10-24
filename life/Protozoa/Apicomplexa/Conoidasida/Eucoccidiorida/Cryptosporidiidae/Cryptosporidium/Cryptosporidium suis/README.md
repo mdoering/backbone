@@ -1,5 +1,4 @@
-Cryptosporidium suis Ryan, Monis, Enemark, Sulaiman, Samarasinghe, Read, Buddle, Robertson, Zhou, Thompson & Xiao, 2004 SPECIES
-=======
+# Cryptosporidium suis Ryan, Monis, Enemark, Sulaiman, Samarasinghe, Read, Buddle, Robertson, Zhou, Thompson & Xiao, 2004 SPECIES
 
 #### Status
 ACCEPTED

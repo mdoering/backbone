@@ -1,5 +1,4 @@
-Micropsalliota endophaea Heinem. SPECIES
-=======
+# Micropsalliota endophaea Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Alcaligenes aestus Baumann et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Deleya aesta (Baumann et al., 1972) Baumann et al., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

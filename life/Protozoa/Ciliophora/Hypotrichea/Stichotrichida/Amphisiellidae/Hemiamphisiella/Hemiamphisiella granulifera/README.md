@@ -1,8 +1,7 @@
-Strongylidium granuliferum Foissner, 1987 SPECIES
-=======
+# Hemiamphisiella granulifera (Foissner, 1987) Foissner, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

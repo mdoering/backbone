@@ -1,5 +1,4 @@
-Tympanis inconstans Fr. SPECIES
-=======
+# Tympanis inconstans Fr. SPECIES
 
 #### Status
 ACCEPTED

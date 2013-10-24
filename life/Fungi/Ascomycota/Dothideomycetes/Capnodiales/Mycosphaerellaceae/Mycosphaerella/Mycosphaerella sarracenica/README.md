@@ -1,5 +1,4 @@
-Mycosphaerella sarracenica (Sacc. & Roum.) Lindau SPECIES
-=======
+# Mycosphaerella sarracenica (Sacc. & Roum.) Lindau SPECIES
 
 #### Status
 ACCEPTED

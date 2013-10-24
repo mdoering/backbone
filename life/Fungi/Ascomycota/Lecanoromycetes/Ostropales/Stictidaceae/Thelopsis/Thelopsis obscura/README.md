@@ -1,5 +1,4 @@
-Thelopsis obscura Egea & Torrente SPECIES
-=======
+# Thelopsis obscura Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

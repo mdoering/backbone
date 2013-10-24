@@ -1,5 +1,4 @@
-Lecidea furvonigrans (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea furvonigrans (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius compactus (Velen.) G. Garnier SPECIES
-=======
+# Cortinarius compactus (Velen.) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

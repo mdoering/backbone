@@ -1,5 +1,4 @@
-Phyllosticta gageae Hollós SPECIES
-=======
+# Phyllosticta gageae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cintractia irregularis Liro, 1934 SPECIES
-=======
+# Anthracoidea irregularis (Liro) Boidol & Poelt, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Ustilageen Finlands 2: 22 (1934)
+Ber. bayer. bot. Ges. 36: 23 (1963)
 
 #### Original name
-Cintractia irregularis Liro, 1934
+Anthracoidea irregularis (Liro) Boidol & Poelt, 1963
 
 ### Remarks
 null

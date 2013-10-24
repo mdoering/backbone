@@ -1,5 +1,4 @@
-Venustisporium R.F. Castañeda & Iturr. GENUS
-=======
+# Venustisporium R.F. Castañeda & Iturr. GENUS
 
 #### Status
 ACCEPTED

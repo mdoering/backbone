@@ -1,5 +1,4 @@
-Cytidia lanata W.B. Cooke SPECIES
-=======
+# Cytidia lanata W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

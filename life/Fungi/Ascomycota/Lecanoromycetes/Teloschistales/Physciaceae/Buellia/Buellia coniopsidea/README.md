@@ -1,5 +1,4 @@
-Buellia coniopsidea (Hepp) Eckf. SPECIES
-=======
+# Buellia coniopsidea (Hepp) Eckf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobelonium karatalicum (Raitv.) Raitv. SPECIES
-=======
+# Lasiobelonium karatalicum (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

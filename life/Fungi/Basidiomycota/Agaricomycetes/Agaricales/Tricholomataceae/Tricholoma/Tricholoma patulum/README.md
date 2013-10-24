@@ -1,5 +1,4 @@
-Tricholoma patulum (Fr.) Quél. SPECIES
-=======
+# Tricholoma patulum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

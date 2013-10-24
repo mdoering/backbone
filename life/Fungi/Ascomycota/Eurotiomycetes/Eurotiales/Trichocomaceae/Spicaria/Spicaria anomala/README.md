@@ -1,5 +1,4 @@
-Spicaria anomala (Corda) Harz SPECIES
-=======
+# Spicaria anomala (Corda) Harz SPECIES
 
 #### Status
 ACCEPTED

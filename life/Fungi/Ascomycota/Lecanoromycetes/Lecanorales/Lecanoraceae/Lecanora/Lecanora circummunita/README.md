@@ -1,5 +1,4 @@
-Lecanora circummunita Nyl. SPECIES
-=======
+# Lecanora circummunita Nyl. SPECIES
 
 #### Status
 ACCEPTED

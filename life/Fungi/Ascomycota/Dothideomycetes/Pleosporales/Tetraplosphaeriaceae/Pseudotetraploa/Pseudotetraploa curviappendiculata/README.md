@@ -1,5 +1,4 @@
-Pseudotetraploa curviappendiculata (Sat. Hatak., Kaz. Tanaka & Y. Harada) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Pseudotetraploa curviappendiculata (Sat. Hatak., Kaz. Tanaka & Y. Harada) Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

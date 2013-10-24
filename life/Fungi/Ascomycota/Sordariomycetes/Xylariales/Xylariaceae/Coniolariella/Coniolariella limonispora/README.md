@@ -1,5 +1,4 @@
-Coniolariella limonispora var. limonispora VARIETY
-=======
+# Coniolariella limonispora Checa, Arenal & J.D. Rogers, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrorhaphis summorum B. de Lesd. SPECIES
-=======
+# Arthrorhaphis summorum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonaria fraxini Fr. SPECIES
-=======
+# Arthonaria fraxini Fr. SPECIES
 
 #### Status
 ACCEPTED

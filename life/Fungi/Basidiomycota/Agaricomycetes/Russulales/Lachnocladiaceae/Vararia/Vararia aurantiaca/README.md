@@ -1,5 +1,4 @@
-Vararia aurantiaca Boidin & Lanq., 1976 SPECIES
-=======
+# Vararia aurantiaca Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia erigerontis Ellis & Everh. SPECIES
-=======
+# Puccinia erigerontis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

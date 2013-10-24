@@ -1,5 +1,4 @@
-Cladosporium microspermum Berk. & M.A. Curtis SPECIES
-=======
+# Cladosporium microspermum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

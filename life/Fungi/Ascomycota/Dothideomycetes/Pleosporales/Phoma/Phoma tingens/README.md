@@ -1,5 +1,4 @@
-Phoma tingens Cooke & Massee SPECIES
-=======
+# Phoma tingens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

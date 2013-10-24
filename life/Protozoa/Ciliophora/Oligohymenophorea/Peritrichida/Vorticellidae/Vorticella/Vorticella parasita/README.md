@@ -1,5 +1,4 @@
-Vorticella parasita Stokes, 1887 SPECIES
-=======
+# Vorticella parasita Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naemospora atrovirens Jacz. SPECIES
-=======
+# Naemospora atrovirens Jacz. SPECIES
 
 #### Status
 ACCEPTED

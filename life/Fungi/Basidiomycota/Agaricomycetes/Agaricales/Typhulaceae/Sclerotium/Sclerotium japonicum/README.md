@@ -1,5 +1,4 @@
-Sclerotium japonicum Endo {?} & Hidaka SPECIES
-=======
+# Sclerotium japonicum Endo {?} & Hidaka SPECIES
 
 #### Status
 ACCEPTED

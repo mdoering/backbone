@@ -1,5 +1,4 @@
-Guignardia tetrazygiae F. Stevens SPECIES
-=======
+# Guignardia tetrazygiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

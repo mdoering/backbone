@@ -1,5 +1,4 @@
-Aecidium philippii Speg. SPECIES
-=======
+# Aecidium philippii Speg. SPECIES
 
 #### Status
 ACCEPTED

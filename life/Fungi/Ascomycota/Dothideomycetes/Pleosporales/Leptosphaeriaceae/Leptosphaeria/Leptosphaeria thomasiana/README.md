@@ -1,5 +1,4 @@
-Leptosphaeria thomasiana Sacc. & Roum. SPECIES
-=======
+# Leptosphaeria thomasiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

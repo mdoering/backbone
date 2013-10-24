@@ -1,5 +1,4 @@
-Macrophoma pellicida Bubák & Dearn. SPECIES
-=======
+# Macrophoma pellicida Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeostroma pusillum M.A. Howe & Hoyt SPECIES
-=======
+# Phaeostroma pusillum M.A. Howe & Hoyt SPECIES
 
 #### Status
 ACCEPTED

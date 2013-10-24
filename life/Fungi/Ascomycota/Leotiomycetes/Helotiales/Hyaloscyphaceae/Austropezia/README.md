@@ -1,5 +1,4 @@
-Austropezia Spooner GENUS
-=======
+# Austropezia Spooner GENUS
 
 #### Status
 ACCEPTED

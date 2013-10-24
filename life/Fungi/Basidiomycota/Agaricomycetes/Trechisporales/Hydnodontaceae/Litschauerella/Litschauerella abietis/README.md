@@ -1,17 +1,16 @@
-Peniophora aegerita subsp. abietis Bourdot & Galzin SUBSPECIES
-=======
+# Litschauerella abietis (Bourdot & Galzin) Oberw. ex Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 383 (1913)
+Persoonia 10(3): 335 (1979)
 
 #### Original name
-Peniophora aegerita subsp. abietis Bourdot & Galzin
+Peniophora abietis (Bourdot & Galzin) Bourdot & Galzin, 1928
 
 ### Remarks
 null

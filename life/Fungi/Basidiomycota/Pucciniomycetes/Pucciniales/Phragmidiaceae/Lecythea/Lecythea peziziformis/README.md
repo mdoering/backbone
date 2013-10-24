@@ -1,5 +1,4 @@
-Lecythea peziziformis Berk. & M.A. Curtis SPECIES
-=======
+# Lecythea peziziformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

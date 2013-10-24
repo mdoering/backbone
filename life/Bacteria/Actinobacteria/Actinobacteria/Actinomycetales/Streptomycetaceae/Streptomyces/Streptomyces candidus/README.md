@@ -1,5 +1,4 @@
-Streptomyces candidus (ex Krasil'nikov, 1941) Sveshnikova, 1986 SPECIES
-=======
+# Streptomyces candidus (ex Krasil'nikov, 1941) Sveshnikova, 1986 SPECIES
 
 #### Status
 ACCEPTED

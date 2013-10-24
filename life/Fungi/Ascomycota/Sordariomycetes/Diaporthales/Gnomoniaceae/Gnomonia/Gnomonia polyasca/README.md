@@ -1,5 +1,4 @@
-Gnomonia polyasca Tochinai & Yamagiwa SPECIES
-=======
+# Gnomonia polyasca Tochinai & Yamagiwa SPECIES
 
 #### Status
 ACCEPTED

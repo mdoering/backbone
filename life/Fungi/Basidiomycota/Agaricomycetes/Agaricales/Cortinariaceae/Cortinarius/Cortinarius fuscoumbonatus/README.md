@@ -1,5 +1,4 @@
-Cortinarius fuscoumbonatus Gasparini SPECIES
-=======
+# Cortinarius fuscoumbonatus Gasparini SPECIES
 
 #### Status
 ACCEPTED

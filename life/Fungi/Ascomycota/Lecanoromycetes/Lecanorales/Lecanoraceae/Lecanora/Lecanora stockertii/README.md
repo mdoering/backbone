@@ -1,5 +1,4 @@
-Lecanora stockertii (Hue) Zahlbr. SPECIES
-=======
+# Lecanora stockertii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

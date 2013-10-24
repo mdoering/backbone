@@ -1,5 +1,4 @@
-Semilecanora alabastriza (Nyl.) Motyka SPECIES
-=======
+# Semilecanora alabastriza (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola terminaliae (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola terminaliae (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

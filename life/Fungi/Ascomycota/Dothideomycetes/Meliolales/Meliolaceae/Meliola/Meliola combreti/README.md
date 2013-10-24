@@ -1,5 +1,4 @@
-Meliola combreti var. combreti VARIETY
-=======
+# Meliola combreti (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 115 (1954)
 
 #### Original name
-Meliola combreti var. combreti
+Irenina combreti F. Stevens
 
 ### Remarks
 null

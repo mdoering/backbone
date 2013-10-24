@@ -1,5 +1,4 @@
-Podospora hirsuta P.A. Dang., 1907 SPECIES
-=======
+# Podospora hirsuta P.A. Dang., 1907 SPECIES
 
 #### Status
 ACCEPTED

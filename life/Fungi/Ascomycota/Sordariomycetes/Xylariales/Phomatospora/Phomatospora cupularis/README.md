@@ -1,5 +1,4 @@
-Phomatospora cupularis (G. Winter) Sacc. SPECIES
-=======
+# Phomatospora cupularis (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fuscidea viridis Tønsberg SPECIES
-=======
+# Ropalospora viridis (Tønsberg) Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 76(1): 156 (1984)
+Sommerfeltia 14: 293 (1992)
 
 #### Original name
 Fuscidea viridis Tønsberg

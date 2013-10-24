@@ -1,5 +1,4 @@
-Apiosoma baikalensis SPECIES
-=======
+# Apiosoma baikalensis SPECIES
 
 #### Status
 ACCEPTED

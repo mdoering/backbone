@@ -1,5 +1,4 @@
-Olla verna (Svrcek) Raitv. SPECIES
-=======
+# Olla verna (Svrcek) Raitv. SPECIES
 
 #### Status
 ACCEPTED

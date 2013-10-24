@@ -1,5 +1,4 @@
-Marasmiellus osornensis Singer SPECIES
-=======
+# Marasmiellus osornensis Singer SPECIES
 
 #### Status
 ACCEPTED

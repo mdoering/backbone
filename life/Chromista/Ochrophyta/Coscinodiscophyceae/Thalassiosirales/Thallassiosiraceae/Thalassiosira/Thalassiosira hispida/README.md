@@ -1,5 +1,4 @@
-Thalassiosira hispida Syvertsen SPECIES
-=======
+# Thalassiosira hispida Syvertsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora steatina Ach. SPECIES
-=======
+# Lecanora steatina Ach. SPECIES
 
 #### Status
 ACCEPTED

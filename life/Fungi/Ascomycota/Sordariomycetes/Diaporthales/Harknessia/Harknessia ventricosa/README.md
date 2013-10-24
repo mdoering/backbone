@@ -1,5 +1,4 @@
-Harknessia ventricosa B. Sutton & Hodges SPECIES
-=======
+# Harknessia ventricosa B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

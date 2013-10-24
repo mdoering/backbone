@@ -1,5 +1,4 @@
-Phyllosticta cinerea Pass. SPECIES
-=======
+# Phyllosticta cinerea Pass. SPECIES
 
 #### Status
 ACCEPTED

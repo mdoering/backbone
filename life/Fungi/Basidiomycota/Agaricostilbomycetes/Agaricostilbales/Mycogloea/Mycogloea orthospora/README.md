@@ -1,5 +1,4 @@
-Mycogloea orthospora (Syd.) R. McNabb ex Dingley, 1989 SPECIES
-=======
+# Mycogloea orthospora (Syd.) R. McNabb ex Dingley, 1989 SPECIES
 
 #### Status
 ACCEPTED

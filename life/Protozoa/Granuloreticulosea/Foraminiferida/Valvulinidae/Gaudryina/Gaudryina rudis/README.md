@@ -1,5 +1,4 @@
-Gaudryina rudis SPECIES
-=======
+# Gaudryina rudis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria tremula Holmsk. SPECIES
-=======
+# Clavaria tremula Holmsk. SPECIES
 
 #### Status
 ACCEPTED

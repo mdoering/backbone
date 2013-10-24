@@ -1,5 +1,4 @@
-Podoxyphium trichothecium (Speg.) Speg. SPECIES
-=======
+# Podoxyphium trichothecium (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

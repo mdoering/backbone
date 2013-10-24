@@ -1,5 +1,4 @@
-Stephanophoron devertens Nyl. SPECIES
-=======
+# Stephanophoron devertens Nyl. SPECIES
 
 #### Status
 ACCEPTED

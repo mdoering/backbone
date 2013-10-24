@@ -1,5 +1,4 @@
-Tricholoma compressipes (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma compressipes (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

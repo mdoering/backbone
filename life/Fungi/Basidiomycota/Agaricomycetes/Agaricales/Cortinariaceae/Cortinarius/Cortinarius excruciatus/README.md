@@ -1,5 +1,4 @@
-Cortinarius excruciatus M.M. Moser SPECIES
-=======
+# Cortinarius excruciatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopeziza lanata (Rehm) Sacc. SPECIES
-=======
+# Trichopeziza lanata (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aphanothece opalescens Gerdner SPECIES
-=======
+# Aphanothece opalescens Gerdner SPECIES
 
 #### Status
 ACCEPTED

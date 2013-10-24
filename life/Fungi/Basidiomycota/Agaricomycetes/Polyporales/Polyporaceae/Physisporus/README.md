@@ -1,5 +1,4 @@
-Physisporus GENUS
-=======
+# Physisporus GENUS
 
 #### Status
 ACCEPTED

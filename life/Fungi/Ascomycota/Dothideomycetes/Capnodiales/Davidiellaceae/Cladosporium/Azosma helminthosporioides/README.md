@@ -1,17 +1,16 @@
-Azosma helminthospoiroides Corda SPECIES
-=======
+# Azosma helminthosporioides Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(12): 35 (1831)
 
 #### Original name
-Azosma helminthospoiroides Corda
+Azosma helminthosporioides Corda
 
 ### Remarks
 null

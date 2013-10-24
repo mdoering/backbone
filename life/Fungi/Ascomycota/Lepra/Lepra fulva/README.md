@@ -1,5 +1,4 @@
-Lepra fulva Fée SPECIES
-=======
+# Lepra fulva Fée SPECIES
 
 #### Status
 ACCEPTED

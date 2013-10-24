@@ -1,14 +1,13 @@
-Cercosporella scirpi Moesz, 1930 SPECIES
-=======
+# Pseudocercosporella scirpi (Moesz) Deighton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 133: 55 (1973)
 
 #### Original name
 Cercosporella scirpi Moesz, 1930

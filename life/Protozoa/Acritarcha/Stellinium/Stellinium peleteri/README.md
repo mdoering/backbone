@@ -1,5 +1,4 @@
-Stellinium peleteri Cramer, Díez, Rodriguez & Fombella, 1976 SPECIES
-=======
+# Stellinium peleteri Cramer, Díez, Rodriguez & Fombella, 1976 SPECIES
 
 #### Status
 ACCEPTED

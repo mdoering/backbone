@@ -1,5 +1,4 @@
-Geotrichella arctica Tubaki SPECIES
-=======
+# Geotrichella arctica Tubaki SPECIES
 
 #### Status
 ACCEPTED

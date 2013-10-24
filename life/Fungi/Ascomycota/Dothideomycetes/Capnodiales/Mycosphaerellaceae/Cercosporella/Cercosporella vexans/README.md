@@ -1,5 +1,4 @@
-Cercosporella vexans Massee SPECIES
-=======
+# Cercosporella vexans Massee SPECIES
 
 #### Status
 ACCEPTED

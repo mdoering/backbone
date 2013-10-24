@@ -1,5 +1,4 @@
-Pterula angustata (Lév.) Sacc. SPECIES
-=======
+# Pterula angustata (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

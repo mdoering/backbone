@@ -1,5 +1,4 @@
-Phaeoramularia cucurbiticola (Henn.) Deighton SPECIES
-=======
+# Phaeoramularia cucurbiticola (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

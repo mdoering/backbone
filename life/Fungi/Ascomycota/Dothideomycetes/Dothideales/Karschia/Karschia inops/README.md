@@ -1,5 +1,4 @@
-Karschia inops Triebel & Rambold SPECIES
-=======
+# Karschia inops Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ustilago deyeuxicola Vánky & L. Guo SPECIES
-=======
+# Ustilago deyeuxiicola Vánky & L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 79: 262 (2001)
 
 #### Original name
-Ustilago deyeuxicola Vánky & L. Guo
+Ustilago deyeuxiicola Vánky & L. Guo
 
 ### Remarks
 null

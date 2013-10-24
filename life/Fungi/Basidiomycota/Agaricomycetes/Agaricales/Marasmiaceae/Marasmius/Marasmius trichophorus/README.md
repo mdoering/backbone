@@ -1,5 +1,4 @@
-Marasmius trichophorus (Zipp. & Lév.) Sacc. SPECIES
-=======
+# Marasmius trichophorus (Zipp. & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

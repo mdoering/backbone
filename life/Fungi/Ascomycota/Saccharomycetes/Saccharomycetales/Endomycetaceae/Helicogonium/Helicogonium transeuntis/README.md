@@ -1,5 +1,4 @@
-Helicogonium transeuntis Baral, 1999 SPECIES
-=======
+# Helicogonium transeuntis Baral, 1999 SPECIES
 
 #### Status
 ACCEPTED

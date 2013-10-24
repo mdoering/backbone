@@ -1,17 +1,16 @@
-Sporastatia cinerea var. cinerea VARIETY
-=======
+# Sporastatia polyspora (Nyl.) Grummann SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Germ. 23 (1963)
 
 #### Original name
-Sporastatia cinerea var. cinerea
+Gyrothecium polysporum Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strombidium cornutum Leegaard, 1915 SPECIES
-=======
+# Strombidium cornutum Leegaard, 1915 SPECIES
 
 #### Status
 ACCEPTED

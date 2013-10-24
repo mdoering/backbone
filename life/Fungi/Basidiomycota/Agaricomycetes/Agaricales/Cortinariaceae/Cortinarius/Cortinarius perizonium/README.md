@@ -1,5 +1,4 @@
-Cortinarius perizonium E. Horak SPECIES
-=======
+# Cortinarius perizonium E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pegidia papillata Heron-Allen & Earland, 1918 SPECIES
-=======
+# Pegidia papillata Heron-Allen & Earland, 1918 SPECIES
 
 #### Status
 ACCEPTED

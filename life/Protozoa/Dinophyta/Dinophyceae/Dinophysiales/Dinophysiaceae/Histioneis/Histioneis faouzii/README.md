@@ -1,5 +1,4 @@
-Histioneis faouzii Halim SPECIES
-=======
+# Histioneis faouzii Halim SPECIES
 
 #### Status
 ACCEPTED

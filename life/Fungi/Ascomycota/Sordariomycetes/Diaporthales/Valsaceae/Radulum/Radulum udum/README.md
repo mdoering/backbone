@@ -1,5 +1,4 @@
-Radulum udum Rick SPECIES
-=======
+# Radulum udum Rick SPECIES
 
 #### Status
 ACCEPTED

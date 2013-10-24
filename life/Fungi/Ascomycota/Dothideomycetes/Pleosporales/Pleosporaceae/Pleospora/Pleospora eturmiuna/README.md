@@ -1,5 +1,4 @@
-Pleospora eturmiuna E.G. Simmons, 2001 SPECIES
-=======
+# Pleospora eturmiuna E.G. Simmons, 2001 SPECIES
 
 #### Status
 ACCEPTED

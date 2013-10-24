@@ -1,17 +1,16 @@
-Rhodothallus caseariaefolium Bat., Cif. & C.A.A. Costa ex Bat. & Cif. SPECIES
-=======
+# Rhodothallus caseariaefolius Bat., Cif. & C.A.A. Costa ex Bat. & Cif., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 11(1-2): 96 (1959)
 
 #### Original name
-Rhodothallus caseariaefolium Bat., Cif. & C.A.A. Costa ex Bat. & Cif.
+Rhodothallus caseariaefolius Bat., Cif. & C.A.A. Costa ex Bat. & Cif., 1959
 
 ### Remarks
 null

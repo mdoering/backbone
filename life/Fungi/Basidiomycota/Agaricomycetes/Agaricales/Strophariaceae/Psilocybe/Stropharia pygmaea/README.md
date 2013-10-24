@@ -1,5 +1,4 @@
-Stropharia pygmaea Henn. SPECIES
-=======
+# Stropharia pygmaea Henn. SPECIES
 
 #### Status
 ACCEPTED

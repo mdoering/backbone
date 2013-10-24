@@ -1,5 +1,4 @@
-Hygrophorus rubripes Velen. SPECIES
-=======
+# Hygrophorus rubripes Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma flexipes Massee & Rodway SPECIES
-=======
+# Hypholoma flexipes Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

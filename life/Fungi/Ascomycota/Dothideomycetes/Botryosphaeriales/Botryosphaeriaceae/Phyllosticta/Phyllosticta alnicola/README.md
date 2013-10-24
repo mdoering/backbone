@@ -1,5 +1,4 @@
-Phyllosticta alnicola C. Massal. SPECIES
-=======
+# Phyllosticta alnicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

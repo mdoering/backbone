@@ -1,5 +1,4 @@
-Laquearia nylanderi P. Crouan & H. Crouan SPECIES
-=======
+# Laquearia nylanderi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites elongatus var. elongatus VARIETY
-=======
+# Multicellaesporites elongatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Palaeontographica, Abt. B 133(1-3): 44 + pl. 14, fig. 46; pl. 16, fig. 46 (1971)
 
 #### Original name
-Multicellaesporites elongatus var. elongatus
+Multicellaesporites elongatus Sheffy & Dilcher
 
 ### Remarks
 null

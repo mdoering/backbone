@@ -1,5 +1,4 @@
-Colletogloeum dovyalidis (Van der Byl) B. Sutton SPECIES
-=======
+# Colletogloeum dovyalidis (Van der Byl) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria rarissima Speg. SPECIES
-=======
+# Septoria rarissima Speg. SPECIES
 
 #### Status
 ACCEPTED

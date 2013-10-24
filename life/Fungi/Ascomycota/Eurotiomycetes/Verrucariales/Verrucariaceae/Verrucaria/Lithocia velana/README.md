@@ -1,5 +1,4 @@
-Lithocia velana (A. Massal.) Lojka SPECIES
-=======
+# Lithocia velana (A. Massal.) Lojka SPECIES
 
 #### Status
 ACCEPTED

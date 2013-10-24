@@ -1,5 +1,4 @@
-Sporopodium nylanderi Räsänen SPECIES
-=======
+# Sporopodium nylanderi Räsänen SPECIES
 
 #### Status
 ACCEPTED

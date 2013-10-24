@@ -1,5 +1,4 @@
-Phoma fictilis Delacr. SPECIES
-=======
+# Phoma fictilis Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobolidium aegyptiacum Moustafa & Ezz-Eldin SPECIES
-=======
+# Lasiobolidium aegyptiacum Moustafa & Ezz-Eldin SPECIES
 
 #### Status
 ACCEPTED

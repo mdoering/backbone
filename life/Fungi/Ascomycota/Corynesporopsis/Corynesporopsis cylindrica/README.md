@@ -1,5 +1,4 @@
-Corynesporopsis cylindrica B. Sutton, 1989 SPECIES
-=======
+# Corynesporopsis cylindrica B. Sutton, 1989 SPECIES
 
 #### Status
 ACCEPTED

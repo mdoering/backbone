@@ -1,5 +1,4 @@
-Oidium primulae-obconicae Ciocan & Calnegru SPECIES
-=======
+# Oidium primulae-obconicae Ciocan & Calnegru SPECIES
 
 #### Status
 ACCEPTED

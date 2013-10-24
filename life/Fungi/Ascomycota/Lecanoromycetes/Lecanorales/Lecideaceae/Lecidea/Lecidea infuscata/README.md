@@ -1,5 +1,4 @@
-Lecidea infuscata (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea infuscata (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthothelium mirabilis Grube SPECIES
-=======
+# Arthothelium mirabilis Grube SPECIES
 
 #### Status
 ACCEPTED

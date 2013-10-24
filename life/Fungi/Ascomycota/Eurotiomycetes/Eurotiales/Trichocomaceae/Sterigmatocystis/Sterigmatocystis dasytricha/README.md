@@ -1,5 +1,4 @@
-Sterigmatocystis dasytricha Ellis & Everh. SPECIES
-=======
+# Sterigmatocystis dasytricha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

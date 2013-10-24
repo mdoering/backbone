@@ -1,5 +1,4 @@
-Dialonectria jucunda (Mont.) Cooke SPECIES
-=======
+# Dialonectria jucunda (Mont.) Cooke SPECIES
 
 #### Status
 ACCEPTED

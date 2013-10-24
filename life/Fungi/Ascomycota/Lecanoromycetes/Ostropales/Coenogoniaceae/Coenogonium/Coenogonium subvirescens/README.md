@@ -1,5 +1,4 @@
-Coenogonium subvirescens Nyl. SPECIES
-=======
+# Coenogonium subvirescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

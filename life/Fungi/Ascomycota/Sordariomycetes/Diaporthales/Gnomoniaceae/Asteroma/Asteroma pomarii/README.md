@@ -1,5 +1,4 @@
-Asteroma pomarii Grognot SPECIES
-=======
+# Asteroma pomarii Grognot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisseiasphaeridium insolitum R. J. Davey SPECIES
-=======
+# Perisseiasphaeridium insolitum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

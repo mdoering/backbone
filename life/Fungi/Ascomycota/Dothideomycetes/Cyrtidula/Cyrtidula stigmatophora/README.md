@@ -1,5 +1,4 @@
-Cyrtidula stigmatophora J. Steiner SPECIES
-=======
+# Cyrtidula stigmatophora J. Steiner SPECIES
 
 #### Status
 ACCEPTED

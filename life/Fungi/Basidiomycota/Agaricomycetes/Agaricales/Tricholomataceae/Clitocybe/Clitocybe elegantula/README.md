@@ -1,5 +1,4 @@
-Clitocybe elegantula J. Favre, 1960 SPECIES
-=======
+# Clitocybe elegantula J. Favre, 1960 SPECIES
 
 #### Status
 ACCEPTED

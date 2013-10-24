@@ -1,5 +1,4 @@
-Tricholoma peralbum (Murrill) Murrill SPECIES
-=======
+# Tricholoma peralbum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

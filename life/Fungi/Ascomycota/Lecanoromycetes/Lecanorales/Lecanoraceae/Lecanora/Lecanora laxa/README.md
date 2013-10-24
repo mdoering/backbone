@@ -1,5 +1,4 @@
-Lecanora laxa (Sliwa & Wetmore) Printzen SPECIES
-=======
+# Lecanora laxa (Sliwa & Wetmore) Printzen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptographium sibiricum K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Leptographium sibiricum K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

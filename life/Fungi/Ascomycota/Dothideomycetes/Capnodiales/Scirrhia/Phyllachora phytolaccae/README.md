@@ -1,5 +1,4 @@
-Phyllachora phytolaccae (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora phytolaccae (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

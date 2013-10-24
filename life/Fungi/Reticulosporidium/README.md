@@ -1,5 +1,4 @@
-Reticulosporidium Thor GENUS
-=======
+# Reticulosporidium Thor GENUS
 
 #### Status
 ACCEPTED

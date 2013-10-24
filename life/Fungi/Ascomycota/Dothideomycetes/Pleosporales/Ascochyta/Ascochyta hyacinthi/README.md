@@ -1,5 +1,4 @@
-Ascochyta hyacinthi Tassi SPECIES
-=======
+# Ascochyta hyacinthi Tassi SPECIES
 
 #### Status
 ACCEPTED

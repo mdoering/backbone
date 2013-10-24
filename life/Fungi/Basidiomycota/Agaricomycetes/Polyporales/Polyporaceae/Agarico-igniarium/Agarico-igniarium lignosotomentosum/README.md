@@ -1,5 +1,4 @@
-Agarico-igniarium lignosotomentosum Paulet SPECIES
-=======
+# Agarico-igniarium lignosotomentosum Paulet SPECIES
 
 #### Status
 ACCEPTED

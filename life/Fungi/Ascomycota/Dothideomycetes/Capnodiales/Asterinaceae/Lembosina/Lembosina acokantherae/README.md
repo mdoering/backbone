@@ -1,14 +1,13 @@
-Lembosina acocantherae (Doidge) Arx SPECIES
-=======
+# Lembosina acokantherae (Doidge) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 122 (1962)
 
 #### Original name
 Asterinella acokantherae Doidge

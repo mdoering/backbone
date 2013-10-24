@@ -1,14 +1,13 @@
-Hypodermella arcuata Darker, 1932 SPECIES
-=======
+# Lophodermella arcuata (Darker) Darker, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Arnold Arbor. 1: 57 (1932)
+Can. J. Bot. 45: 1425 (1967)
 
 #### Original name
 Hypodermella arcuata Darker, 1932

@@ -1,5 +1,4 @@
-Parmelia nigromarginata Kurok. SPECIES
-=======
+# Parmelia nigromarginata Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachysphaeridium jayanense Yan in Yang Qinghe et al., 1980 SPECIES
-=======
+# Trachysphaeridium jayanense Yan in Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

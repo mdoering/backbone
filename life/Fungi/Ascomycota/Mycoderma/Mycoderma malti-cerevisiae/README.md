@@ -1,5 +1,4 @@
-Mycoderma malti-cerevisiae Desm. SPECIES
-=======
+# Mycoderma malti-cerevisiae Desm. SPECIES
 
 #### Status
 ACCEPTED

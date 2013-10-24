@@ -1,5 +1,4 @@
-Cecrops Pessagno, 1977 GENUS
-=======
+# Cecrops Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

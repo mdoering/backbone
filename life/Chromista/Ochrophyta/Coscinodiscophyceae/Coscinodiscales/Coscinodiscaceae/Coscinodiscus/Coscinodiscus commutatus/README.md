@@ -1,8 +1,7 @@
-Coscinodiscus jonesianus var. commutatus (Grunow) Hustedt, 1928 VARIETY
-=======
+# Coscinodiscus commutatus Grunow, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

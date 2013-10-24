@@ -1,5 +1,4 @@
-Parmelia lutescens Ach. SPECIES
-=======
+# Parmelia lutescens Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria vulpiicola D.N. Babajan & Husseinova SPECIES
-=======
+# Septoria vulpiicola D.N. Babajan & Husseinova SPECIES
 
 #### Status
 ACCEPTED

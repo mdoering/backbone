@@ -1,5 +1,4 @@
-Asteromella cedrelae Petr. SPECIES
-=======
+# Asteromella cedrelae Petr. SPECIES
 
 #### Status
 ACCEPTED

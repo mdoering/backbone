@@ -1,17 +1,16 @@
-Psathyrella rannochii Kits van Wav., 1982 SPECIES
-=======
+# Psathyrella solitaria (P. Karst.) Örstadius & Huhtinen, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 11(4): 501 (1982)
+Öst. Z. Pilzk. 5: 136 (1996)
 
 #### Original name
-Psathyrella rannochii Kits van Wav., 1982
+Psathyra solitaria P. Karst., 1889
 
 ### Remarks
 null

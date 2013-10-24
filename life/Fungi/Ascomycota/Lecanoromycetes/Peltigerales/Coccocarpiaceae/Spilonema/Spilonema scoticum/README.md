@@ -1,5 +1,4 @@
-Spilonema scoticum Nyl. SPECIES
-=======
+# Spilonema scoticum Nyl. SPECIES
 
 #### Status
 ACCEPTED

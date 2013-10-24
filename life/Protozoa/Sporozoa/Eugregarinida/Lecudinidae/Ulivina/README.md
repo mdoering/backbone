@@ -1,5 +1,4 @@
-Ulivina Mingazzini, 1891 GENUS
-=======
+# Ulivina Mingazzini, 1891 GENUS
 
 #### Status
 ACCEPTED

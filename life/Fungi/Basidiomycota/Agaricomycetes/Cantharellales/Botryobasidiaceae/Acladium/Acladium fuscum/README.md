@@ -1,5 +1,4 @@
-Acladium fuscum anon. ined. SPECIES
-=======
+# Acladium fuscum anon. ined. SPECIES
 
 #### Status
 ACCEPTED

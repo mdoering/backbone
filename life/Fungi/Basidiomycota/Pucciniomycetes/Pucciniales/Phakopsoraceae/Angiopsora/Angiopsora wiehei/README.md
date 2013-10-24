@@ -1,5 +1,4 @@
-Angiopsora wiehei Cummins SPECIES
-=======
+# Angiopsora wiehei Cummins SPECIES
 
 #### Status
 ACCEPTED

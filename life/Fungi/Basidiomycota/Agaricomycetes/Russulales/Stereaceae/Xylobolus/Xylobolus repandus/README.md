@@ -1,5 +1,4 @@
-Xylobolus repandus (Fr.) P. Karst. SPECIES
-=======
+# Xylobolus repandus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

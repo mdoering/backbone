@@ -1,5 +1,4 @@
-Arthonia wrightii Müll. Arg. SPECIES
-=======
+# Arthonia wrightii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

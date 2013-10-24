@@ -1,5 +1,4 @@
-Lacrymaria tornatilis Dujardin, 1841 SPECIES
-=======
+# Lacrymaria tornatilis Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

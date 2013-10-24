@@ -1,5 +1,4 @@
-Thelotrema lirellizans Zahlbr. SPECIES
-=======
+# Thelotrema lirellizans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

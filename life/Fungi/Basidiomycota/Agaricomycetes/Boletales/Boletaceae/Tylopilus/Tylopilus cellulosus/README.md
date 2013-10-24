@@ -1,5 +1,4 @@
-Tylopilus cellulosus Singer SPECIES
-=======
+# Tylopilus cellulosus Singer SPECIES
 
 #### Status
 ACCEPTED

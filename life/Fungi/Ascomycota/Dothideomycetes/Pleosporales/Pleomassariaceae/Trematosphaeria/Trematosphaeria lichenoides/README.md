@@ -1,5 +1,4 @@
-Trematosphaeria lichenoides Rehm SPECIES
-=======
+# Trematosphaeria lichenoides Rehm SPECIES
 
 #### Status
 ACCEPTED

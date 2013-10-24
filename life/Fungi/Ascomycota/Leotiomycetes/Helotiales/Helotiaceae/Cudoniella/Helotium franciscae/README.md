@@ -1,5 +1,4 @@
-Helotium franciscae Velen. SPECIES
-=======
+# Helotium franciscae Velen. SPECIES
 
 #### Status
 ACCEPTED

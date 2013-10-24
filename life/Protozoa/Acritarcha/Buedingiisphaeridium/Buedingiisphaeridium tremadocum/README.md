@@ -1,5 +1,4 @@
-Buedingiisphaeridium tremadocum Rasul, 1979 SPECIES
-=======
+# Buedingiisphaeridium tremadocum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

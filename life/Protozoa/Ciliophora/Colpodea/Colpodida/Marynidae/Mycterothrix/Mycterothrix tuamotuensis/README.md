@@ -1,8 +1,7 @@
-Trichorynchus tuamotuensis Balbiani, 1887 SPECIES
-=======
+# Mycterothrix tuamotuensis (Balbiani, 1887) Lauterborn, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

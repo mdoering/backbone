@@ -1,5 +1,4 @@
-Dentalina harrisi (Cole) SPECIES
-=======
+# Dentalina harrisi (Cole) SPECIES
 
 #### Status
 ACCEPTED

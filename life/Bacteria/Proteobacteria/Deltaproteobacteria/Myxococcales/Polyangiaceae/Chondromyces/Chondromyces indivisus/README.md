@@ -1,5 +1,4 @@
-Chondromyces indivisus Wehm. SPECIES
-=======
+# Chondromyces indivisus Wehm. SPECIES
 
 #### Status
 ACCEPTED

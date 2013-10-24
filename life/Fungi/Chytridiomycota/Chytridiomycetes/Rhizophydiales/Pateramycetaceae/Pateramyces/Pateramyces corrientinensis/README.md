@@ -1,5 +1,4 @@
-Pateramyces corrientinensis Letcher, 2008 SPECIES
-=======
+# Pateramyces corrientinensis Letcher, 2008 SPECIES
 
 #### Status
 ACCEPTED

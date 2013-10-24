@@ -1,5 +1,4 @@
-Calonectria brasiliensis (Bat. & Cif.) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
-=======
+# Calonectria brasiliensis (Bat. & Cif.) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

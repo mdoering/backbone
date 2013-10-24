@@ -1,5 +1,4 @@
-Ascochyta lomatii W.B. Cooke SPECIES
-=======
+# Ascochyta lomatii W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

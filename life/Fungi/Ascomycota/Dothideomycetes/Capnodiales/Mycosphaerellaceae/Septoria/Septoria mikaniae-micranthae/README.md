@@ -1,17 +1,16 @@
-Septoria mikania-micranthae R.W. Barreto SPECIES
-=======
+# Septoria mikaniae-micranthae R.W. Barreto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Barreto & Evans, Mycol. Res. 99(3): 346 (1995)
 
 #### Original name
-Septoria mikania-micranthae R.W. Barreto
+Septoria mikaniae-micranthae R.W. Barreto
 
 ### Remarks
 null

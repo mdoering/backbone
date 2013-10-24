@@ -1,5 +1,4 @@
-Microbacterium aurantiacum Takeuchi & Hatano, 1998 SPECIES
-=======
+# Microbacterium aurantiacum Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
 ACCEPTED

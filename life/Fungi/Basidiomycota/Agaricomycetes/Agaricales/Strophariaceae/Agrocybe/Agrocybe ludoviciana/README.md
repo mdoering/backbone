@@ -1,5 +1,4 @@
-Agrocybe ludoviciana (Murrill) Hauskn., Krisai & Voglmayr SPECIES
-=======
+# Agrocybe ludoviciana (Murrill) Hauskn., Krisai & Voglmayr SPECIES
 
 #### Status
 ACCEPTED

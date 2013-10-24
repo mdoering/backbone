@@ -1,5 +1,4 @@
-Spirillum beijerinckii SPECIES
-=======
+# Spirillum beijerinckii SPECIES
 
 #### Status
 ACCEPTED

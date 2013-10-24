@@ -1,5 +1,4 @@
-Vulcanisphaera minor Uutela & Tynni, 1991 SPECIES
-=======
+# Vulcanisphaera minor Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

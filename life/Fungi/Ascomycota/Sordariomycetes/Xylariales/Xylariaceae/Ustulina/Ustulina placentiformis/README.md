@@ -1,5 +1,4 @@
-Ustulina placentiformis Rehm SPECIES
-=======
+# Ustulina placentiformis Rehm SPECIES
 
 #### Status
 ACCEPTED

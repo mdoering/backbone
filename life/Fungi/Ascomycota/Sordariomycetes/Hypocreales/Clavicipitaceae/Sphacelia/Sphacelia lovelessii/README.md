@@ -1,5 +1,4 @@
-Sphacelia lovelessii Paoutová, M. Kolarík & Freder. SPECIES
-=======
+# Sphacelia lovelessii Paoutová, M. Kolarík & Freder. SPECIES
 
 #### Status
 ACCEPTED

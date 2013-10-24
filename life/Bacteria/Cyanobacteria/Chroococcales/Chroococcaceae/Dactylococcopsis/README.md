@@ -1,5 +1,4 @@
-Dactylococcopsis Hansgrig, 1888 GENUS
-=======
+# Dactylococcopsis Hansgrig, 1888 GENUS
 
 #### Status
 ACCEPTED

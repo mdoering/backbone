@@ -1,5 +1,4 @@
-Morakotiella Sakay. GENUS
-=======
+# Morakotiella Sakay. GENUS
 
 #### Status
 ACCEPTED

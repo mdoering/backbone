@@ -1,5 +1,4 @@
-Gloeosporium blumeae Sawada SPECIES
-=======
+# Gloeosporium blumeae Sawada SPECIES
 
 #### Status
 ACCEPTED

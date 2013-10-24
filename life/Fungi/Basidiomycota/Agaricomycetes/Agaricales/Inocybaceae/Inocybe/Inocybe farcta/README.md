@@ -1,5 +1,4 @@
-Inocybe farcta (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe farcta (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

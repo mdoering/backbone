@@ -1,5 +1,4 @@
-Aposphaeria citricola Penz. & Sacc. SPECIES
-=======
+# Aposphaeria citricola Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

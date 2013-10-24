@@ -1,5 +1,4 @@
-Calopadiopsis Lücking & R. Sant. GENUS
-=======
+# Calopadiopsis Lücking & R. Sant. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Idiomarina seosinensis Choi & Cho, 2005 SPECIES
-=======
+# Idiomarina seosinensis Choi & Cho, 2005 SPECIES
 
 #### Status
 ACCEPTED

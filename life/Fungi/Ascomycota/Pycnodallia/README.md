@@ -1,5 +1,4 @@
-Pycnodallia Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Pycnodallia Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Guignardia ericetorum (Körb.) Rambold & Triebel SPECIES
-=======
+# Gelatinopsis ericetorum (Körb.) Rambold & Triebel, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 46(3): 376 (1990)
 
 #### Original name
 null

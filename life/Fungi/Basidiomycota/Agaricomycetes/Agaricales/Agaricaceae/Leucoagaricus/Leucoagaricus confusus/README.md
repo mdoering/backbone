@@ -1,5 +1,4 @@
-Leucoagaricus confusus (Rick) Singer SPECIES
-=======
+# Leucoagaricus confusus (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

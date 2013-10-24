@@ -1,5 +1,4 @@
-Asterina polyloba Syd. SPECIES
-=======
+# Asterina polyloba Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina macromaculans (Heald & F.A. Wolf) Sacc. SPECIES
-=======
+# Cercosporina macromaculans (Heald & F.A. Wolf) Sacc. SPECIES
 
 #### Status
 ACCEPTED

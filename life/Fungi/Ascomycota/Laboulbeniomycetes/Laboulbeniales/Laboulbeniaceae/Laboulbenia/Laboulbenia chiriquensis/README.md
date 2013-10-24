@@ -1,5 +1,4 @@
-Laboulbenia chiriquensis Thaxt. SPECIES
-=======
+# Laboulbenia chiriquensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

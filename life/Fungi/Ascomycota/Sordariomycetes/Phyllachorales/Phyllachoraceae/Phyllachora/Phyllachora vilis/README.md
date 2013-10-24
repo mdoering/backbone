@@ -1,5 +1,4 @@
-Phyllachora vilis Starbäck, 1905 SPECIES
-=======
+# Phyllachora vilis Starbäck, 1905 SPECIES
 
 #### Status
 ACCEPTED

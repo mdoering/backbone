@@ -1,5 +1,4 @@
-Peziza melanodon Fr. SPECIES
-=======
+# Peziza melanodon Fr. SPECIES
 
 #### Status
 ACCEPTED

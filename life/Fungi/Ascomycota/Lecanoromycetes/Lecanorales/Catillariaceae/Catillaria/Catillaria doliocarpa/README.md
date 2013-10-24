@@ -1,5 +1,4 @@
-Catillaria doliocarpa (Müll. Arg.) Arnold SPECIES
-=======
+# Catillaria doliocarpa (Müll. Arg.) Arnold SPECIES
 
 #### Status
 ACCEPTED

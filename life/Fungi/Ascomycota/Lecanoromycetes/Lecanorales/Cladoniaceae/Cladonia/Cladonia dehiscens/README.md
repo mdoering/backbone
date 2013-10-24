@@ -1,5 +1,4 @@
-Cladonia dehiscens Vain. SPECIES
-=======
+# Cladonia dehiscens Vain. SPECIES
 
 #### Status
 ACCEPTED

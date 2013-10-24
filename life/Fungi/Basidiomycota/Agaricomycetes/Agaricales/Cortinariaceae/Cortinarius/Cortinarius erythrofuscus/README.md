@@ -1,5 +1,4 @@
-Cortinarius erythrofuscus Mahiques & A. Ortega SPECIES
-=======
+# Cortinarius erythrofuscus Mahiques & A. Ortega SPECIES
 
 #### Status
 ACCEPTED

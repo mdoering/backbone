@@ -1,5 +1,4 @@
-Trypethelium marcidum (Fée) Aptroot SPECIES
-=======
+# Trypethelium marcidum (Fée) Aptroot SPECIES
 
 #### Status
 ACCEPTED

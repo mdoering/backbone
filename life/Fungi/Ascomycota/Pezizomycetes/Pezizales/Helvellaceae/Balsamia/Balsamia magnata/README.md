@@ -1,5 +1,4 @@
-Balsamia magnata Harkn. SPECIES
-=======
+# Balsamia magnata Harkn. SPECIES
 
 #### Status
 ACCEPTED

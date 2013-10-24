@@ -1,5 +1,4 @@
-Lachnum mapirianum var. mapirianum VARIETY
-=======
+# Lachnum mapirianum (Pat. & Gaillard) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 43(3-4): 407 (1986)
 
 #### Original name
-Lachnum mapirianum var. mapirianum
+Erinella mapiriana Pat. & Gaillard
 
 ### Remarks
 null

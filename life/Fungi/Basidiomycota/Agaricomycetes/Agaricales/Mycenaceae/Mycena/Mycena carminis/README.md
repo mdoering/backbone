@@ -1,5 +1,4 @@
-Mycena carminis Singer SPECIES
-=======
+# Mycena carminis Singer SPECIES
 
 #### Status
 ACCEPTED

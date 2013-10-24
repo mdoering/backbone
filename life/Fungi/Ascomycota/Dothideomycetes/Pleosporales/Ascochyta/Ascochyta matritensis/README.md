@@ -1,5 +1,4 @@
-Ascochyta matritensis Alcalde SPECIES
-=======
+# Ascochyta matritensis Alcalde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophrydium ciliata SPECIES
-=======
+# Ophrydium ciliata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria lichenophila (Speg.) Kuntze SPECIES
-=======
+# Cucurbitaria lichenophila (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium parasitica Hansf. SPECIES
-=======
+# Cephalosporium parasitica Hansf. SPECIES
 
 #### Status
 ACCEPTED

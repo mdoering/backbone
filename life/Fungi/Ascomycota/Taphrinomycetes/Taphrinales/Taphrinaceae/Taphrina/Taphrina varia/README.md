@@ -1,8 +1,7 @@
-Taphrina varius (G.F. Atk.) Laubert SPECIES
-=======
+# Taphrina varia (G.F. Atk.) Laubert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

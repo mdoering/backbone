@@ -1,5 +1,4 @@
-Leptostroma jubaeae Speg. SPECIES
-=======
+# Leptostroma jubaeae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia albomaculans Fukui SPECIES
-=======
+# Gnomonia albomaculans Fukui SPECIES
 
 #### Status
 ACCEPTED

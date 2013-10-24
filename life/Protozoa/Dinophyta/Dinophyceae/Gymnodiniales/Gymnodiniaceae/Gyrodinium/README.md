@@ -1,5 +1,4 @@
-Gyrodinium Kofoid & Swezy, 1921 GENUS
-=======
+# Gyrodinium Kofoid & Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

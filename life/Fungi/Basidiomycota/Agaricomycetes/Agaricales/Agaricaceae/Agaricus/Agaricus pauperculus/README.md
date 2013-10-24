@@ -1,5 +1,4 @@
-Agaricus pauperculus Berk. SPECIES
-=======
+# Agaricus pauperculus Berk. SPECIES
 
 #### Status
 ACCEPTED

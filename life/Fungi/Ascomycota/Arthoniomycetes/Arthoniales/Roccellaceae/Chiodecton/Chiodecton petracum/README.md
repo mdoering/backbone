@@ -1,5 +1,4 @@
-Chiodecton petracum Delise SPECIES
-=======
+# Chiodecton petracum Delise SPECIES
 
 #### Status
 ACCEPTED

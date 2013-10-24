@@ -1,5 +1,4 @@
-Pyrenopeziza smilacicola Dearn. & House SPECIES
-=======
+# Pyrenopeziza smilacicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

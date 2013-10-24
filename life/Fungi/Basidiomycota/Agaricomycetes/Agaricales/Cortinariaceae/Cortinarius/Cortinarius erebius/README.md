@@ -1,5 +1,4 @@
-Cortinarius erebius M.M. Moser SPECIES
-=======
+# Cortinarius erebius M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eomicrhystridium G. Deflandre, 1968 GENUS
-=======
+# Eomicrhystridium G. Deflandre, 1968 GENUS
 
 #### Status
 ACCEPTED

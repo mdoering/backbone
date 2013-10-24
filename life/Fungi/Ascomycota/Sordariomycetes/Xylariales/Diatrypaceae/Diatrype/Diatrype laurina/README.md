@@ -1,5 +1,4 @@
-Diatrype laurina Rehm SPECIES
-=======
+# Diatrype laurina Rehm SPECIES
 
 #### Status
 ACCEPTED

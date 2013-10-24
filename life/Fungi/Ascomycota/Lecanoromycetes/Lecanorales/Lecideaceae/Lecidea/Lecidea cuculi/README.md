@@ -1,5 +1,4 @@
-Lecidea cuculi Vain. SPECIES
-=======
+# Lecidea cuculi Vain. SPECIES
 
 #### Status
 ACCEPTED

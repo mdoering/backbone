@@ -1,5 +1,4 @@
-Coprinus caracasensis Dennis SPECIES
-=======
+# Coprinus caracasensis Dennis SPECIES
 
 #### Status
 ACCEPTED

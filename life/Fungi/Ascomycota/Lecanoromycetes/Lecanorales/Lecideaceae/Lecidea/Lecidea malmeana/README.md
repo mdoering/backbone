@@ -1,5 +1,4 @@
-Lecidea malmeana Zahlbr. SPECIES
-=======
+# Lecidea malmeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

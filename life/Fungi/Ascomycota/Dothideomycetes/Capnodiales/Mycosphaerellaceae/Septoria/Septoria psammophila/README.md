@@ -1,5 +1,4 @@
-Septoria psammophila Sacc. SPECIES
-=======
+# Septoria psammophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

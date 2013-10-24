@@ -1,5 +1,4 @@
-Phoma philesiae Speg. SPECIES
-=======
+# Phoma philesiae Speg. SPECIES
 
 #### Status
 ACCEPTED

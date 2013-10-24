@@ -1,5 +1,4 @@
-Pleospora osyridigena Bubák SPECIES
-=======
+# Pleospora osyridigena Bubák SPECIES
 
 #### Status
 ACCEPTED

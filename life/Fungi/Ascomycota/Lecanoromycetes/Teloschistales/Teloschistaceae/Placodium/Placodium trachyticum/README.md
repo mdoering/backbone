@@ -1,5 +1,4 @@
-Placodium trachyticum Müll. Arg. SPECIES
-=======
+# Placodium trachyticum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

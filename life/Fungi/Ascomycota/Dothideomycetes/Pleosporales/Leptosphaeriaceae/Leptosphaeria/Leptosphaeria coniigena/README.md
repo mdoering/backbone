@@ -1,5 +1,4 @@
-Leptosphaeria coniigena Sacc. & Trotter SPECIES
-=======
+# Leptosphaeria coniigena Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

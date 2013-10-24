@@ -1,5 +1,4 @@
-Sclerotium bifrons Ellis & Everh. SPECIES
-=======
+# Sclerotium bifrons Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

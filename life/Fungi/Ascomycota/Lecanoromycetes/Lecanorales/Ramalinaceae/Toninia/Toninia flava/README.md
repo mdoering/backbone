@@ -1,5 +1,4 @@
-Toninia flava Zahlbr. SPECIES
-=======
+# Toninia flava Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

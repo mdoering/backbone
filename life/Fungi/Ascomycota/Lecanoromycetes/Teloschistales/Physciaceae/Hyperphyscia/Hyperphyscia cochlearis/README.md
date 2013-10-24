@@ -1,5 +1,4 @@
-Hyperphyscia cochlearis Scutari SPECIES
-=======
+# Hyperphyscia cochlearis Scutari SPECIES
 
 #### Status
 ACCEPTED

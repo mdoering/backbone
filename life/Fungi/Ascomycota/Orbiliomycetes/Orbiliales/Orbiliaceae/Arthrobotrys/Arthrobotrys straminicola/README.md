@@ -1,5 +1,4 @@
-Arthrobotrys straminicola Pidopl. SPECIES
-=======
+# Arthrobotrys straminicola Pidopl. SPECIES
 
 #### Status
 ACCEPTED

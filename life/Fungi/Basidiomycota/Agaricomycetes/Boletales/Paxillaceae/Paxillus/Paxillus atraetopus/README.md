@@ -1,5 +1,4 @@
-Paxillus atraetopus Kalchbr., 1878 SPECIES
-=======
+# Paxillus atraetopus Kalchbr., 1878 SPECIES
 
 #### Status
 ACCEPTED

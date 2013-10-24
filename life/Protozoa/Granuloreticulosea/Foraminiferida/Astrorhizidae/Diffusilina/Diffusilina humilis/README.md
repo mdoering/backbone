@@ -1,5 +1,4 @@
-Diffusilina humilis Heron-Allen & Earland, 1924 SPECIES
-=======
+# Diffusilina humilis Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

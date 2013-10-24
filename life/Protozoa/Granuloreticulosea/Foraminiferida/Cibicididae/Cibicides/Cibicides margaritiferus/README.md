@@ -1,5 +1,4 @@
-Cibicides margaritiferus (Brady) SPECIES
-=======
+# Cibicides margaritiferus (Brady) SPECIES
 
 #### Status
 ACCEPTED

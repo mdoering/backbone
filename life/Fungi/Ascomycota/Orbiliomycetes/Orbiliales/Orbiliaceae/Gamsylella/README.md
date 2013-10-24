@@ -1,5 +1,4 @@
-Gamsylella M. Scholler, Hagedorn & A. Rubner GENUS
-=======
+# Gamsylella M. Scholler, Hagedorn & A. Rubner GENUS
 
 #### Status
 ACCEPTED

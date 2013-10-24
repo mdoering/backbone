@@ -1,14 +1,13 @@
-Fungus percevali (Berk. & Broome) Kuntze SPECIES
-=======
+# Leratiomyces percevalii (Berk. & Broome) Bridge & Spooner, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 103: 117 (2008)
 
 #### Original name
 Agaricus percevalii Berk. & Broome, 1879

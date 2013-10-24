@@ -1,5 +1,4 @@
-Stictis thelotremoides W. Phillips SPECIES
-=======
+# Stictis thelotremoides W. Phillips SPECIES
 
 #### Status
 ACCEPTED

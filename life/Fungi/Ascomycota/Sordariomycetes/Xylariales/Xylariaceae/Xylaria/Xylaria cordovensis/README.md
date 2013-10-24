@@ -1,5 +1,4 @@
-Xylaria cordovensis Berk. SPECIES
-=======
+# Xylaria cordovensis Berk. SPECIES
 
 #### Status
 ACCEPTED

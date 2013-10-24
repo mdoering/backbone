@@ -1,5 +1,4 @@
-Reduviasporonites catenarius (G. Playford) Kalgutkar & Janson. SPECIES
-=======
+# Reduviasporonites catenarius (G. Playford) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

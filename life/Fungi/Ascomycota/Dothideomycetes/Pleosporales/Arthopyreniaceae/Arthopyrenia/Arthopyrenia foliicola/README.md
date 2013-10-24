@@ -1,5 +1,4 @@
-Arthopyrenia foliicola R. Sant. SPECIES
-=======
+# Arthopyrenia foliicola R. Sant. SPECIES
 
 #### Status
 ACCEPTED

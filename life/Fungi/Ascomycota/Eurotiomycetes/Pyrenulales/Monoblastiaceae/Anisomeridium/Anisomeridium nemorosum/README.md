@@ -1,5 +1,4 @@
-Anisomeridium nemorosum R.C. Harris SPECIES
-=======
+# Anisomeridium nemorosum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces agnatus Arthur SPECIES
-=======
+# Uromyces agnatus Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius vinaceomaculatus M.M. Moser SPECIES
-=======
+# Cortinarius vinaceomaculatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

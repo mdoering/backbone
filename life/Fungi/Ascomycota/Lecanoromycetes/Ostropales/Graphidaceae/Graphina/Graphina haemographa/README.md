@@ -1,5 +1,4 @@
-Graphina haemographa (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina haemographa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

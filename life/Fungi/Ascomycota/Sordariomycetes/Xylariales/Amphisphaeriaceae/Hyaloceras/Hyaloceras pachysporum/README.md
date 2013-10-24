@@ -1,17 +1,16 @@
-Hyaloceras pachysporum var. pachysporum VARIETY
-=======
+# Hyaloceras pachysporum (Bubák) Bubák SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14: 154 (1914)
 
 #### Original name
-null
+Monochaetia pachyspora Bubák
 
 ### Remarks
 null

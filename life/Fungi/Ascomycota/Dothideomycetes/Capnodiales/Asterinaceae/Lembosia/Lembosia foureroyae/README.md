@@ -1,5 +1,4 @@
-Lembosia foureroyae R.W. Ryan SPECIES
-=======
+# Lembosia foureroyae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciliaria miniata Pat. SPECIES
-=======
+# Ciliaria miniata Pat. SPECIES
 
 #### Status
 ACCEPTED

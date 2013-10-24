@@ -1,5 +1,4 @@
-Scopulariopsis rosacea Svilv. SPECIES
-=======
+# Scopulariopsis rosacea Svilv. SPECIES
 
 #### Status
 ACCEPTED

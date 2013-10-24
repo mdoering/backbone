@@ -1,5 +1,4 @@
-Cercospora buteae Munjal, Lall & Chona SPECIES
-=======
+# Cercospora buteae Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

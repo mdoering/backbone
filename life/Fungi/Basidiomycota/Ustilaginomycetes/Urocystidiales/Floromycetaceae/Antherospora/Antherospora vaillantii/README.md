@@ -1,5 +1,4 @@
-Antherospora vaillantii (Tul. & C. Tul.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
-=======
+# Antherospora vaillantii (Tul. & C. Tul.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
 
 #### Status
 ACCEPTED

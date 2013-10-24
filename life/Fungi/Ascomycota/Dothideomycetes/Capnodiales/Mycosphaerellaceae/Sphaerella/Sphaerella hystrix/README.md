@@ -1,5 +1,4 @@
-Sphaerella hystrix Fautrey SPECIES
-=======
+# Sphaerella hystrix Fautrey SPECIES
 
 #### Status
 ACCEPTED

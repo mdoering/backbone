@@ -1,5 +1,4 @@
-Placodium punctiforme Vain. SPECIES
-=======
+# Placodium punctiforme Vain. SPECIES
 
 #### Status
 ACCEPTED

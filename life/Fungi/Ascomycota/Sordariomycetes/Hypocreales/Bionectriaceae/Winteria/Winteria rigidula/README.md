@@ -1,5 +1,4 @@
-Winteria rigidula Sacc. SPECIES
-=======
+# Winteria rigidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

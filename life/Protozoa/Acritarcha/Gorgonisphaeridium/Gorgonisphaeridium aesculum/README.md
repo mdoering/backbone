@@ -1,5 +1,4 @@
-Gorgonisphaeridium aesculum Filipiak, 2005 SPECIES
-=======
+# Gorgonisphaeridium aesculum Filipiak, 2005 SPECIES
 
 #### Status
 ACCEPTED

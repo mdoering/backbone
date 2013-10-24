@@ -1,5 +1,4 @@
-Polyporus phocinus Berk. & Broome SPECIES
-=======
+# Polyporus phocinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

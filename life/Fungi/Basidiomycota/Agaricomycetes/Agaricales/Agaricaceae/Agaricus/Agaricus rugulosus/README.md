@@ -1,5 +1,4 @@
-Agaricus rugulosus Lasch SPECIES
-=======
+# Agaricus rugulosus Lasch SPECIES
 
 #### Status
 ACCEPTED

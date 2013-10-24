@@ -1,5 +1,4 @@
-Parmelina kanakia Louwhoff & Elix SPECIES
-=======
+# Parmelina kanakia Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

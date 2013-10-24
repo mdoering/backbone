@@ -1,5 +1,4 @@
-Distephanus stradneri var. grandis D. Bukry VARIETY
-=======
+# Distephanus stradneri (L. Jerkovic) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

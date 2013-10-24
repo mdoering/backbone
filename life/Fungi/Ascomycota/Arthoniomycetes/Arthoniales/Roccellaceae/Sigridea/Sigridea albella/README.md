@@ -1,14 +1,13 @@
-Platygrapha albella Müll. Arg. SPECIES
-=======
+# Sigridea albella (Müll. Arg.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Engler, Bot. Jb. 278 (1894)
+Nova Hedwigia 57(3-4): 432 (1993)
 
 #### Original name
 Platygrapha albella Müll. Arg.

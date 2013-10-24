@@ -1,5 +1,4 @@
-Stilbospora viticola G.H. Otth SPECIES
-=======
+# Stilbospora viticola G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

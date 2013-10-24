@@ -1,5 +1,4 @@
-Pseudocercospora urariicola Deighton SPECIES
-=======
+# Pseudocercospora urariicola Deighton SPECIES
 
 #### Status
 ACCEPTED

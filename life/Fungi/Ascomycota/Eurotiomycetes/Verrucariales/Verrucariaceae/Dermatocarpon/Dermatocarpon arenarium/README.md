@@ -1,5 +1,4 @@
-Dermatocarpon arenarium Hampe SPECIES
-=======
+# Dermatocarpon arenarium Hampe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriella vagabunda Bat. & Cavalc. SPECIES
-=======
+# Microthyriella vagabunda Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

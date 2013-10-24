@@ -1,5 +1,4 @@
-Eustegia GENUS
-=======
+# Eustegia GENUS
 
 #### Status
 ACCEPTED

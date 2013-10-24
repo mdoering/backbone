@@ -1,5 +1,4 @@
-Ramalina flavovirens Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina flavovirens Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

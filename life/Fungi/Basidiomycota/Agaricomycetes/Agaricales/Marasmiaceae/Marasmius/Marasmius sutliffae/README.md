@@ -1,5 +1,4 @@
-Marasmius sutliffae Peck SPECIES
-=======
+# Marasmius sutliffae Peck SPECIES
 
 #### Status
 ACCEPTED

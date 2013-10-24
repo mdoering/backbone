@@ -1,5 +1,4 @@
-Toxoglugea vibrio Leger & Hesse SPECIES
-=======
+# Toxoglugea vibrio Leger & Hesse SPECIES
 
 #### Status
 ACCEPTED

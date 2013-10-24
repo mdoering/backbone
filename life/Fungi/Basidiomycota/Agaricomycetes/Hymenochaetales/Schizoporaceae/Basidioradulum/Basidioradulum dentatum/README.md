@@ -1,5 +1,4 @@
-Basidioradulum dentatum Hjortstam, 1993 SPECIES
-=======
+# Basidioradulum dentatum Hjortstam, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haplosporella betulae Died. SPECIES
-=======
+# Aplosporella betulae Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 587 (1914)
 
 #### Original name
-Haplosporella betulae Died.
+Aplosporella betulae Died.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnopus virginianus Murrill SPECIES
-=======
+# Gymnopus virginianus Murrill SPECIES
 
 #### Status
 ACCEPTED

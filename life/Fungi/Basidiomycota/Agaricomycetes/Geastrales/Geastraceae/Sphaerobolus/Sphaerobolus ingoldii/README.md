@@ -1,5 +1,4 @@
-Sphaerobolus ingoldii Geml, D.D. Davis & Geiser, 2005 SPECIES
-=======
+# Sphaerobolus ingoldii Geml, D.D. Davis & Geiser, 2005 SPECIES
 
 #### Status
 ACCEPTED

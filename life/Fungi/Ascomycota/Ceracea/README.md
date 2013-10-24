@@ -1,5 +1,4 @@
-Ceracea Cragin GENUS
-=======
+# Ceracea Cragin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplonympha Grassi, 1920 GENUS
-=======
+# Diplonympha Grassi, 1920 GENUS
 
 #### Status
 ACCEPTED

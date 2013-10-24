@@ -1,5 +1,4 @@
-Phaeotheca dimorphospora DesRoch. & Ouell. SPECIES
-=======
+# Phaeotheca dimorphospora DesRoch. & Ouell. SPECIES
 
 #### Status
 ACCEPTED

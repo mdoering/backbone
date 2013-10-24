@@ -1,5 +1,4 @@
-Russula roseoviolacea var. roseoviolacea VARIETY
-=======
+# Russula roseoviolacea Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. Bot. Nat. Belg. 60(1-2): 204 (1990)
 
 #### Original name
-Russula roseoviolacea var. roseoviolacea
+Russula roseoviolacea Buyck
 
 ### Remarks
 null

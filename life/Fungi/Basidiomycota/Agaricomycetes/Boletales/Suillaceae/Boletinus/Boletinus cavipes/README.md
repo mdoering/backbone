@@ -1,5 +1,4 @@
-Boletinus cavipes (Opat.) Kalchbr. SPECIES
-=======
+# Boletinus cavipes (Opat.) Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha desquamescens Fée SPECIES
-=======
+# Opegrapha desquamescens Fée SPECIES
 
 #### Status
 ACCEPTED

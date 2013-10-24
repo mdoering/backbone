@@ -1,5 +1,4 @@
-Farysia nakanishikii (Henn.) Syd. & P. Syd. SPECIES
-=======
+# Farysia nakanishikii (Henn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

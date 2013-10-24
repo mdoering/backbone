@@ -1,5 +1,4 @@
-Lecidea humistrata Flot. SPECIES
-=======
+# Lecidea humistrata Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenosporella falcata B. Sutton SPECIES
-=======
+# Selenosporella falcata B. Sutton SPECIES
 
 #### Status
 ACCEPTED

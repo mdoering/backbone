@@ -1,5 +1,4 @@
-Puccinia agrimoniae (Arthur) Arthur SPECIES
-=======
+# Puccinia agrimoniae (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

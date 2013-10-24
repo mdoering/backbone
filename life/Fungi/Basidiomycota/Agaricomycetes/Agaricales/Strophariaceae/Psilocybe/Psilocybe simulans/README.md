@@ -1,5 +1,4 @@
-Psilocybe simulans P. Karst. SPECIES
-=======
+# Psilocybe simulans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

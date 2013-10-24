@@ -1,5 +1,4 @@
-Lecidea dracophylli Zahlbr. SPECIES
-=======
+# Lecidea dracophylli Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

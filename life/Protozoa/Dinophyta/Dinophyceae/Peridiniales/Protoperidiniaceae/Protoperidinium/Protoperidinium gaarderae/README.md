@@ -1,5 +1,4 @@
-Protoperidinium gaarderae (Balech) Balech SPECIES
-=======
+# Protoperidinium gaarderae (Balech) Balech SPECIES
 
 #### Status
 ACCEPTED

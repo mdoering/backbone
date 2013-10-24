@@ -1,5 +1,4 @@
-Ustulina mori Hara SPECIES
-=======
+# Ustulina mori Hara SPECIES
 
 #### Status
 ACCEPTED

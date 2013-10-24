@@ -1,5 +1,4 @@
-Tremella galeata Pers. SPECIES
-=======
+# Tremella galeata Pers. SPECIES
 
 #### Status
 ACCEPTED

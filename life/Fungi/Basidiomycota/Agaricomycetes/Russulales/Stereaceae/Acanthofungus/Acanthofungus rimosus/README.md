@@ -1,5 +1,4 @@
-Acanthofungus rimosus Sheng H. Wu, Boidin & C.Y. Chien, 2000 SPECIES
-=======
+# Acanthofungus rimosus Sheng H. Wu, Boidin & C.Y. Chien, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina pulcherrima (Tharp) Sacc. SPECIES
-=======
+# Cercosporina pulcherrima (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

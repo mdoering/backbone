@@ -1,5 +1,4 @@
-Pyxine convexa SPECIES
-=======
+# Pyxine convexa SPECIES
 
 #### Status
 ACCEPTED

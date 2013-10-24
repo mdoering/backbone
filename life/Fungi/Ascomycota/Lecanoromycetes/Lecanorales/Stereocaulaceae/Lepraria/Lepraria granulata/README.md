@@ -1,5 +1,4 @@
-Lepraria granulata Slav.-Bay. SPECIES
-=======
+# Lepraria granulata Slav.-Bay. SPECIES
 
 #### Status
 ACCEPTED

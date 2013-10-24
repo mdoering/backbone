@@ -1,5 +1,4 @@
-Marasmius adisianus Singer SPECIES
-=======
+# Marasmius adisianus Singer SPECIES
 
 #### Status
 ACCEPTED

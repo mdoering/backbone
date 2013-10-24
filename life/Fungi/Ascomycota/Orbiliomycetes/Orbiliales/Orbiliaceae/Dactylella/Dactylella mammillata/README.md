@@ -1,5 +1,4 @@
-Dactylella mammillata S.M. Dixon, 1952 SPECIES
-=======
+# Dactylella mammillata S.M. Dixon, 1952 SPECIES
 
 #### Status
 ACCEPTED

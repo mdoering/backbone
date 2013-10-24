@@ -1,5 +1,4 @@
-Mycena pilifera Métrod SPECIES
-=======
+# Mycena pilifera Métrod SPECIES
 
 #### Status
 ACCEPTED

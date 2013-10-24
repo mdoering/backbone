@@ -1,5 +1,4 @@
-Phyllachora hibisci Rehm, 1897 SPECIES
-=======
+# Phyllachora hibisci Rehm, 1897 SPECIES
 
 #### Status
 ACCEPTED

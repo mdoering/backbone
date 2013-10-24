@@ -1,17 +1,16 @@
-Melittosporium versicolor Corda SPECIES
-=======
+# Mellitiosporium versicolor Corda, 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Prague) 2: 38 (1838)
 
 #### Original name
-Melittosporium versicolor Corda
+Mellitiosporium versicolor Corda, 1838
 
 ### Remarks
 null

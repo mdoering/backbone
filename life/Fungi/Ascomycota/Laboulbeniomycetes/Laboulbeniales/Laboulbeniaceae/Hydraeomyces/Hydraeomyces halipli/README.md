@@ -1,14 +1,13 @@
-Heimatomyces halipli Thaxt. SPECIES
-=======
+# Hydraeomyces halipli (Thaxt.) Thaxt., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mem. Amer. Acad. Arts, ser. 2 12: 293 (1896)
 
 #### Original name
 Heimatomyces halipli Thaxt.

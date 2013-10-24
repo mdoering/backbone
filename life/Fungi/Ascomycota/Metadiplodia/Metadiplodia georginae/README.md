@@ -1,5 +1,4 @@
-Metadiplodia georginae (Corda) Zambett. SPECIES
-=======
+# Metadiplodia georginae (Corda) Zambett. SPECIES
 
 #### Status
 ACCEPTED

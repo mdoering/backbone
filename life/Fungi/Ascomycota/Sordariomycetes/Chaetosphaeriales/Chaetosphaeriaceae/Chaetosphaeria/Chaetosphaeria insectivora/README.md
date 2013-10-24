@@ -1,5 +1,4 @@
-Chaetosphaeria insectivora Hansf. SPECIES
-=======
+# Chaetosphaeria insectivora Hansf. SPECIES
 
 #### Status
 ACCEPTED

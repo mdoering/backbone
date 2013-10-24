@@ -1,5 +1,4 @@
-Agaricus expansus Peck SPECIES
-=======
+# Agaricus expansus Peck SPECIES
 
 #### Status
 ACCEPTED

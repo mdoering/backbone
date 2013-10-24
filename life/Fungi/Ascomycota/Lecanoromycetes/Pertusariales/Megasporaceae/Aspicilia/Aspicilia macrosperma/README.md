@@ -1,5 +1,4 @@
-Aspicilia macrosperma (Müll. Arg.) Hue SPECIES
-=======
+# Aspicilia macrosperma (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

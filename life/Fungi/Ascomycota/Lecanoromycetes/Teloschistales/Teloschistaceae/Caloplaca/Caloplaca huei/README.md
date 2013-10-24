@@ -1,5 +1,4 @@
-Caloplaca huei Werner SPECIES
-=======
+# Caloplaca huei Werner SPECIES
 
 #### Status
 ACCEPTED

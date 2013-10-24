@@ -1,5 +1,4 @@
-Aspicilia thjanschanica Oxner SPECIES
-=======
+# Aspicilia thjanschanica Oxner SPECIES
 
 #### Status
 ACCEPTED

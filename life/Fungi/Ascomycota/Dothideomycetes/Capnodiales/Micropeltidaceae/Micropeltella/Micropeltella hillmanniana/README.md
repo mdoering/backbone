@@ -1,5 +1,4 @@
-Micropeltella hillmanniana Kirschst. SPECIES
-=======
+# Micropeltella hillmanniana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

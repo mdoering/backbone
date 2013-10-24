@@ -1,14 +1,13 @@
-Parodiopsis urae (G. Arnaud) R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Parodiopsis hurae (G. Arnaud) R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 33: 9 (1951)
 
 #### Original name
 Parodiopsis perae var. urae G. Arnaud

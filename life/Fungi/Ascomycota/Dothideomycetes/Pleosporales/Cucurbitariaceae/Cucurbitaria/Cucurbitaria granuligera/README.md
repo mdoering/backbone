@@ -1,5 +1,4 @@
-Cucurbitaria granuligera (Starbäck) Kuntze SPECIES
-=======
+# Cucurbitaria granuligera (Starbäck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

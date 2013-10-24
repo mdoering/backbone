@@ -1,5 +1,4 @@
-Amphidinium ornithocephalum Conrad SPECIES
-=======
+# Amphidinium ornithocephalum Conrad SPECIES
 
 #### Status
 ACCEPTED

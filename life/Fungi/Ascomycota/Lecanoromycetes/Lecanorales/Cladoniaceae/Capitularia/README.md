@@ -1,5 +1,4 @@
-Capitularia GENUS
-=======
+# Capitularia GENUS
 
 #### Status
 ACCEPTED

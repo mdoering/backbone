@@ -1,5 +1,4 @@
-Ascophanus oligoascus Heimerl SPECIES
-=======
+# Ascophanus oligoascus Heimerl SPECIES
 
 #### Status
 ACCEPTED

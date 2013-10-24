@@ -1,5 +1,4 @@
-Ceratocystis ponderosae T.E. Hinds & R.W. Davidson SPECIES
-=======
+# Ceratocystis ponderosae T.E. Hinds & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

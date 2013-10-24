@@ -1,5 +1,4 @@
-Rinodina lutescens (DC.) SPECIES
-=======
+# Rinodina lutescens (DC.) SPECIES
 
 #### Status
 ACCEPTED

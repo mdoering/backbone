@@ -1,14 +1,13 @@
-Miltidea consanguinea Stirt. SPECIES
-=======
+# Biatorella consanguinea (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 30: 385 (1898)
+Cat. Lich. Univers. 5: 35 (1927)
 
 #### Original name
 Miltidea consanguinea Stirt.

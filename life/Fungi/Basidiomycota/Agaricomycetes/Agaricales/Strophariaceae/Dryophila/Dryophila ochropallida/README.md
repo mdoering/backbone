@@ -1,5 +1,4 @@
-Dryophila ochropallida Romagn. SPECIES
-=======
+# Dryophila ochropallida Romagn. SPECIES
 
 #### Status
 ACCEPTED

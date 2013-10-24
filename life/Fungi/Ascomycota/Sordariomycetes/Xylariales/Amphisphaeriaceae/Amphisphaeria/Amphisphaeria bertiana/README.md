@@ -1,5 +1,4 @@
-Amphisphaeria bertiana Fairm. SPECIES
-=======
+# Amphisphaeria bertiana Fairm. SPECIES
 
 #### Status
 ACCEPTED

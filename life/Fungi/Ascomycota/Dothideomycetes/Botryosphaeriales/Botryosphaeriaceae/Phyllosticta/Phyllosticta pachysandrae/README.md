@@ -1,5 +1,4 @@
-Phyllosticta pachysandrae Dearn. & House SPECIES
-=======
+# Phyllosticta pachysandrae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

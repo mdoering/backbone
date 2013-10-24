@@ -1,5 +1,4 @@
-Dimelaena phaeocarpa SPECIES
-=======
+# Dimelaena phaeocarpa SPECIES
 
 #### Status
 ACCEPTED

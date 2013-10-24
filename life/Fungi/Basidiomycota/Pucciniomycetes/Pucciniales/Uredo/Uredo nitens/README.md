@@ -1,5 +1,4 @@
-Uredo nitens Schwein. SPECIES
-=======
+# Uredo nitens Schwein. SPECIES
 
 #### Status
 ACCEPTED

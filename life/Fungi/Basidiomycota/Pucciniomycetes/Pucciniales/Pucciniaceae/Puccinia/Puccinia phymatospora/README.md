@@ -1,5 +1,4 @@
-Puccinia phymatospora Lindr. SPECIES
-=======
+# Puccinia phymatospora Lindr. SPECIES
 
 #### Status
 ACCEPTED

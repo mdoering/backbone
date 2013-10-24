@@ -1,5 +1,4 @@
-Ascochyta valerandi Jaap SPECIES
-=======
+# Ascochyta valerandi Jaap SPECIES
 
 #### Status
 ACCEPTED

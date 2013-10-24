@@ -1,5 +1,4 @@
-Svratkina carinata Hofker, 1978 SPECIES
-=======
+# Svratkina carinata Hofker, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myelochroa nothofagi Elix SPECIES
-=======
+# Myelochroa nothofagi Elix SPECIES
 
 #### Status
 ACCEPTED

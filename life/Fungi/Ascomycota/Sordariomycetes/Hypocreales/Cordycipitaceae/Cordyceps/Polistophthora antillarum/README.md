@@ -1,5 +1,4 @@
-Polistophthora antillarum Lebert SPECIES
-=======
+# Polistophthora antillarum Lebert SPECIES
 
 #### Status
 ACCEPTED

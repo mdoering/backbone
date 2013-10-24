@@ -1,5 +1,4 @@
-Aecidium clerodendri-serrati J.Y. Zhuang SPECIES
-=======
+# Aecidium clerodendri-serrati J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

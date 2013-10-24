@@ -1,5 +1,4 @@
-Agaricus coeruleus Bolton SPECIES
-=======
+# Agaricus coeruleus Bolton SPECIES
 
 #### Status
 ACCEPTED

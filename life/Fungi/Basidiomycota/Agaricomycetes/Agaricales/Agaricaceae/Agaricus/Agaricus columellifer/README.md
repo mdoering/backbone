@@ -1,5 +1,4 @@
-Agaricus columellifer Berk. SPECIES
-=======
+# Agaricus columellifer Berk. SPECIES
 
 #### Status
 ACCEPTED

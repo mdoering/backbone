@@ -1,5 +1,4 @@
-Stagonopsis belonospora Feltgen SPECIES
-=======
+# Stagonopsis belonospora Feltgen SPECIES
 
 #### Status
 ACCEPTED

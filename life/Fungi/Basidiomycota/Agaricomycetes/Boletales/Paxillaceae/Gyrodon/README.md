@@ -1,17 +1,16 @@
-Anastomaria Raf. GENUS
-=======
+# Gyrodon Opatowski, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ann. nat. (Lexington) 16 (1820)
+null
 
 #### Original name
-Anastomaria Raf.
+null
 
 ### Remarks
 null

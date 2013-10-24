@@ -1,5 +1,4 @@
-Asteridiella mammillata (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella mammillata (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

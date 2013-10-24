@@ -1,5 +1,4 @@
-Euopsis haemaleella Nyl. SPECIES
-=======
+# Euopsis haemaleella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia maculiformis Wedin & Hafellner SPECIES
-=======
+# Arthonia maculiformis Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

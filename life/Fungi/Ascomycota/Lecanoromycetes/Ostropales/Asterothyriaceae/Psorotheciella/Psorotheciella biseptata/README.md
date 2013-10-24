@@ -1,5 +1,4 @@
-Psorotheciella biseptata (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Psorotheciella biseptata (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thielavia kirilenkoae Beliakova, 1974 SPECIES
-=======
+# Thielavia ovispora Pidopl., Kiril. & Zakharch., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 8(2): 73 (1974)
+Microbiol. Zh. 35(6): 724 (1973)
 
 #### Original name
-Thielavia kirilenkoae Beliakova, 1974
+Thielavia ovispora Pidopl., Kiril. & Zakharch., 1973
 
 ### Remarks
 null

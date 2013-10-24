@@ -1,5 +1,4 @@
-Occisucysta G.U.Gitmez, 1970 GENUS
-=======
+# Occisucysta G.U.Gitmez, 1970 GENUS
 
 #### Status
 ACCEPTED

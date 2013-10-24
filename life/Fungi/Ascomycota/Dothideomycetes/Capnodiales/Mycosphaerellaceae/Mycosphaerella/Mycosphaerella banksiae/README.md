@@ -1,5 +1,4 @@
-Mycosphaerella banksiae (Cooke & Massee) Tomilin SPECIES
-=======
+# Mycosphaerella banksiae (Cooke & Massee) Tomilin SPECIES
 
 #### Status
 ACCEPTED

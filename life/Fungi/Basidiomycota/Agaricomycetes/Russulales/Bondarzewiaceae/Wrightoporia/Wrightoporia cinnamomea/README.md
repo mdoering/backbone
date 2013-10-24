@@ -1,5 +1,4 @@
-Wrightoporia cinnamomea Ryvarden, 1982 SPECIES
-=======
+# Wrightoporia cinnamomea Ryvarden, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella hawksworthii ined. SPECIES
-=======
+# Nectriella hawksworthii ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mapaniae H.S. Yates SPECIES
-=======
+# Meliola mapaniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haptoglossa zoospora J.G.N. Davidson & G.L. Barron, 1973 SPECIES
-=======
+# Haptoglossa zoospora J.G.N. Davidson & G.L. Barron, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanora subintricata var. subintricata (Nyl.) Th. Fr. VARIETY
-=======
+# Lecanora subintricata (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. Scand. (Uppsala) 1: 265 (1871)
 
 #### Original name
-Lecanora subintricata var. subintricata (Nyl.) Th. Fr.
+Lecanora varia var. subintricata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russula reisneri Velen. SPECIES
-=======
+# Russula reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta eryngiana Sacc. & Fautrey SPECIES
-=======
+# Phyllosticta eryngiana Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fayodia Kühner, 1930 GENUS
-=======
+# Fayodia Kühner, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Golovinomyces americanus (U. Braun) V.P. Heluta SPECIES
-=======
+# Golovinomyces americanus (U. Braun) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula jaborosae Seaver SPECIES
-=======
+# Uncinula jaborosae Seaver SPECIES
 
 #### Status
 ACCEPTED

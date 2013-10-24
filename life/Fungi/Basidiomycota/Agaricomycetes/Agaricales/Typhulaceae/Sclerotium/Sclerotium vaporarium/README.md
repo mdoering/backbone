@@ -1,5 +1,4 @@
-Sclerotium vaporarium Alb. & Schwein. SPECIES
-=======
+# Sclerotium vaporarium Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

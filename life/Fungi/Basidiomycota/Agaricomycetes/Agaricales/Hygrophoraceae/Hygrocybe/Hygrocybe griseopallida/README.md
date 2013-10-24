@@ -1,5 +1,4 @@
-Hygrocybe griseopallida Arnolds SPECIES
-=======
+# Hygrocybe griseopallida Arnolds SPECIES
 
 #### Status
 ACCEPTED

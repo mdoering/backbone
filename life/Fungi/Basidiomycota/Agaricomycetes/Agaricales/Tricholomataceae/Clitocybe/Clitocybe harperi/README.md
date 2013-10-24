@@ -1,5 +1,4 @@
-Clitocybe harperi Murrill SPECIES
-=======
+# Clitocybe harperi Murrill SPECIES
 
 #### Status
 ACCEPTED

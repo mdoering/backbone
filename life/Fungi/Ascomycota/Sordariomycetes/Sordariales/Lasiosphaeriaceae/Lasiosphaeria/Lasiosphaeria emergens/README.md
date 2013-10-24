@@ -1,5 +1,4 @@
-Lasiosphaeria emergens (Schwein.) Ellis SPECIES
-=======
+# Lasiosphaeria emergens (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

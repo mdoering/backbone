@@ -1,5 +1,4 @@
-Pleurotus viticola (Murrill) Murrill SPECIES
-=======
+# Pleurotus viticola (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Relicina sipmanii Elix SPECIES
-=======
+# Relicina sipmanii Elix SPECIES
 
 #### Status
 ACCEPTED

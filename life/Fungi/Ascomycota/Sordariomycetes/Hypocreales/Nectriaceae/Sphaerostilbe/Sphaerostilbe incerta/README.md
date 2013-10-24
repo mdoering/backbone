@@ -1,5 +1,4 @@
-Sphaerostilbe incerta Ces. SPECIES
-=======
+# Sphaerostilbe incerta Ces. SPECIES
 
 #### Status
 ACCEPTED

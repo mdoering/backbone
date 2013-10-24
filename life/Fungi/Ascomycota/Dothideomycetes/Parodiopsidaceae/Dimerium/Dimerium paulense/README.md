@@ -1,5 +1,4 @@
-Dimerium paulense (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium paulense (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

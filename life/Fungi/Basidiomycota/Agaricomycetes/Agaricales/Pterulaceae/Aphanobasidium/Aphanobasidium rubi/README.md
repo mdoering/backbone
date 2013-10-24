@@ -1,5 +1,4 @@
-Aphanobasidium rubi (Grosse-Brauckm.) Boidin & Gilles SPECIES
-=======
+# Aphanobasidium rubi (Grosse-Brauckm.) Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

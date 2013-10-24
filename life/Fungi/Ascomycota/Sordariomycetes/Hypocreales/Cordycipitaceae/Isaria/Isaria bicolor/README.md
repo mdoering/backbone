@@ -1,5 +1,4 @@
-Isaria bicolor Schwein. SPECIES
-=======
+# Isaria bicolor Schwein. SPECIES
 
 #### Status
 ACCEPTED

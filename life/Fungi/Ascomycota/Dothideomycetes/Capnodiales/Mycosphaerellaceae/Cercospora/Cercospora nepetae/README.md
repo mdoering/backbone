@@ -1,5 +1,4 @@
-Cercospora nepetae Tehon SPECIES
-=======
+# Cercospora nepetae Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ascophora nucum Corda SPECIES
-=======
+# Ascophora nucuum Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 5: 54 (1842)
 
 #### Original name
-Ascophora nucum Corda
+Ascophora nucuum Corda
 
 ### Remarks
 null

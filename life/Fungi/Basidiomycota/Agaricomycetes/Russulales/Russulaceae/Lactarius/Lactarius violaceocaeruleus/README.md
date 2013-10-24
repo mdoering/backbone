@@ -1,5 +1,4 @@
-Lactarius violaceocaeruleus Voglino SPECIES
-=======
+# Lactarius violaceocaeruleus Voglino SPECIES
 
 #### Status
 ACCEPTED

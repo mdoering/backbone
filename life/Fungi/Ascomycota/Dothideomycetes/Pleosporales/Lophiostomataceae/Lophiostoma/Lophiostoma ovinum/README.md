@@ -1,5 +1,4 @@
-Lophiostoma ovinum Ellis & Everh. SPECIES
-=======
+# Lophiostoma ovinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

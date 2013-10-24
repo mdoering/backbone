@@ -1,8 +1,7 @@
-Chilodonella marginata Srámek-Husek, 1957 SPECIES
-=======
+# Trithigmostoma marginatus (Srámek-Husek, 1957) Buitkamp, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

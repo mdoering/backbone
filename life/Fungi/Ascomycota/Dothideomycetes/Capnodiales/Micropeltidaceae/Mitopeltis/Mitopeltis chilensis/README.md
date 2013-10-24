@@ -1,5 +1,4 @@
-Mitopeltis chilensis Speg., 1921 SPECIES
-=======
+# Mitopeltis chilensis Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

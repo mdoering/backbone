@@ -1,5 +1,4 @@
-Hendersonia lespedezae Ziling SPECIES
-=======
+# Hendersonia lespedezae Ziling SPECIES
 
 #### Status
 ACCEPTED

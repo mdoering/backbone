@@ -1,5 +1,4 @@
-Conocybe tenerrima Singer SPECIES
-=======
+# Conocybe tenerrima Singer SPECIES
 
 #### Status
 ACCEPTED

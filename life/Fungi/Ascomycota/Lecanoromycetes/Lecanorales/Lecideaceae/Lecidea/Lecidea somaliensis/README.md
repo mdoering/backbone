@@ -1,5 +1,4 @@
-Lecidea somaliensis C.W. Dodge SPECIES
-=======
+# Lecidea somaliensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

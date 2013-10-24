@@ -1,14 +1,13 @@
-Microthelia microsperma Müll. Arg. SPECIES
-=======
+# Clypeopyrenis microsperma (Müll. Arg.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 32: 171 (1893)
+Biblthca Lichenol. 44: 40 (1991)
 
 #### Original name
 Microthelia microsperma Müll. Arg.

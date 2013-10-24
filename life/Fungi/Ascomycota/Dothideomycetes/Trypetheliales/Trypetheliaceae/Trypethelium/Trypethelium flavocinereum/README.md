@@ -1,5 +1,4 @@
-Trypethelium flavocinereum Makhija & Patw. SPECIES
-=======
+# Trypethelium flavocinereum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

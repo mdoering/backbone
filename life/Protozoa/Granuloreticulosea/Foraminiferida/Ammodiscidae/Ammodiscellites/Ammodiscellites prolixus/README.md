@@ -1,5 +1,4 @@
-Ammodiscellites prolixus Resig & Glenn, 1997 SPECIES
-=======
+# Ammodiscellites prolixus Resig & Glenn, 1997 SPECIES
 
 #### Status
 ACCEPTED

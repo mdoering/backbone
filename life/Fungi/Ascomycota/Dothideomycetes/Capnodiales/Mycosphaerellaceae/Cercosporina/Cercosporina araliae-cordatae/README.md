@@ -1,5 +1,4 @@
-Cercosporina araliae-cordatae Hori SPECIES
-=======
+# Cercosporina araliae-cordatae Hori SPECIES
 
 #### Status
 ACCEPTED

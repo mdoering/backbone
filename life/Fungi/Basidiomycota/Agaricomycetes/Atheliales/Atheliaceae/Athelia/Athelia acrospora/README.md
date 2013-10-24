@@ -1,5 +1,4 @@
-Athelia acrospora Jülich, 1972 SPECIES
-=======
+# Athelia acrospora Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macroplodia druparum (Schwein.) Kuntze SPECIES
-=======
+# Macroplodia druparum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

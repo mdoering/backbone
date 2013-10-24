@@ -1,5 +1,4 @@
-Gigaspora alboaurantiaca W.N. Chou, 1991 SPECIES
-=======
+# Gigaspora alboaurantiaca W.N. Chou, 1991 SPECIES
 
 #### Status
 ACCEPTED

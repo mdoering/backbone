@@ -1,17 +1,16 @@
-Hohenbuehelia testudo var. testudo VARIETY
-=======
+# Hohenbuehelia testudo (Berk.) Pegler, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Kew Bull. , Addit. Ser. 12: 173 (1986)
 
 #### Original name
-Hohenbuehelia testudo var. testudo
+Agaricus testudo Berk., 1847
 
 ### Remarks
 null

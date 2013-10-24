@@ -1,5 +1,4 @@
-Pterygosporopsis P.M. Kirk GENUS
-=======
+# Pterygosporopsis P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

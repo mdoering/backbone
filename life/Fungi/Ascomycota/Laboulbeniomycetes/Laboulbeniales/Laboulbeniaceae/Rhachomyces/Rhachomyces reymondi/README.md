@@ -1,5 +1,4 @@
-Rhachomyces reymondi Lepesme SPECIES
-=======
+# Rhachomyces reymondi Lepesme SPECIES
 
 #### Status
 ACCEPTED

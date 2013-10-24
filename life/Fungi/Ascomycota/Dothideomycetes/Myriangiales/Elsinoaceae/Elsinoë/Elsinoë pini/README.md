@@ -1,5 +1,4 @@
-Elsinoë pini (Woron.) Jenkins SPECIES
-=======
+# Elsinoë pini (Woron.) Jenkins SPECIES
 
 #### Status
 ACCEPTED

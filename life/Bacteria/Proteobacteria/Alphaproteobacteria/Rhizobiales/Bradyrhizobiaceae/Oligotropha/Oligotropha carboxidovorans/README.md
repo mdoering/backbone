@@ -1,11 +1,10 @@
-Pseudomonas carboxydovorans Meyer & Schlegel, 1978 SPECIES
-=======
+# Oligotropha carboxidovorans (ex Meyer & Schlegel, 1978) Meyer et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

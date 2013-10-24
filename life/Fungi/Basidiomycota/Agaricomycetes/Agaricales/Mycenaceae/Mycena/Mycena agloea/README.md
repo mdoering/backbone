@@ -1,5 +1,4 @@
-Mycena agloea Singer SPECIES
-=======
+# Mycena agloea Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia hieracioides Fautrey & Roum. SPECIES
-=======
+# Ramularia hieracioides Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

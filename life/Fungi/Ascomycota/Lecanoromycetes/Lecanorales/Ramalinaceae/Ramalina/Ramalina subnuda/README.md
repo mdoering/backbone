@@ -1,5 +1,4 @@
-Ramalina subnuda (Müll. Arg.) H. Magn. SPECIES
-=======
+# Ramalina subnuda (Müll. Arg.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

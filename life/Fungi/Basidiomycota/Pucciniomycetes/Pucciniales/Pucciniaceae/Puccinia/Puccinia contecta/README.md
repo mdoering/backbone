@@ -1,5 +1,4 @@
-Puccinia contecta Syd. SPECIES
-=======
+# Puccinia contecta Syd. SPECIES
 
 #### Status
 ACCEPTED

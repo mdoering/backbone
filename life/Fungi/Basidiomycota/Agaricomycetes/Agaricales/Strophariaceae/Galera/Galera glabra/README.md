@@ -1,5 +1,4 @@
-Galera glabra (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera glabra (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

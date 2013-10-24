@@ -1,5 +1,4 @@
-Collybia pilosa Dennis SPECIES
-=======
+# Collybia pilosa Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colpoda critina Fromentel, 1876 SPECIES
-=======
+# Colpoda critina Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

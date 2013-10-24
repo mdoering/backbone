@@ -1,5 +1,4 @@
-Uredo digitariae-ciliaris Mayor SPECIES
-=======
+# Uredo digitariae-ciliaris Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigonema informe Kützing SPECIES
-=======
+# Stigonema informe Kützing SPECIES
 
 #### Status
 ACCEPTED

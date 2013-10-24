@@ -1,5 +1,4 @@
-Calyptella pulcherrima W.B. Cooke SPECIES
-=======
+# Calyptella pulcherrima W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

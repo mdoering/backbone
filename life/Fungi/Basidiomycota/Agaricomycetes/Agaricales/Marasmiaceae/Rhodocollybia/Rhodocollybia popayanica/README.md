@@ -1,5 +1,4 @@
-Rhodocollybia popayanica (Halling) Halling SPECIES
-=======
+# Rhodocollybia popayanica (Halling) Halling SPECIES
 
 #### Status
 ACCEPTED

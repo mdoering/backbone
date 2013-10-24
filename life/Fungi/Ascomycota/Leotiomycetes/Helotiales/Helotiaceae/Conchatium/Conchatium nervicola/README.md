@@ -1,14 +1,13 @@
-Conchatium nervicolum (Velen.) Svrcek SPECIES
-=======
+# Conchatium nervicola (Velen.) Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sb. nár. Mus. Praze 40B(3-4): 163 (1985)
 
 #### Original name
 Helotium nervicola Velen.

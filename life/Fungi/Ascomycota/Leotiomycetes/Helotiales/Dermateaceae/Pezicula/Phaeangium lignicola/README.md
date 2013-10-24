@@ -1,5 +1,4 @@
-Phaeangium lignicola (Preuss) Sacc. & P. Syd. SPECIES
-=======
+# Phaeangium lignicola (Preuss) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

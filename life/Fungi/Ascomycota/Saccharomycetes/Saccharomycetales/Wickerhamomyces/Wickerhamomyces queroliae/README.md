@@ -1,5 +1,4 @@
-Wickerhamomyces queroliae Rosa, Morais, Lachance & Pimenta, 2009 SPECIES
-=======
+# Wickerhamomyces queroliae Rosa, Morais, Lachance & Pimenta, 2009 SPECIES
 
 #### Status
 ACCEPTED

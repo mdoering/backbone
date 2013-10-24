@@ -1,5 +1,4 @@
-Mycena fuscoumbonata Britzelm. SPECIES
-=======
+# Mycena fuscoumbonata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

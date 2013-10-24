@@ -1,5 +1,4 @@
-Asterina negeriana Syd. & P. Syd. SPECIES
-=======
+# Asterina negeriana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

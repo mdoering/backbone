@@ -1,5 +1,4 @@
-Entylomella oenotherae-biennis (A.I. Ivanov) Cif. SPECIES
-=======
+# Entylomella oenotherae-biennis (A.I. Ivanov) Cif. SPECIES
 
 #### Status
 ACCEPTED

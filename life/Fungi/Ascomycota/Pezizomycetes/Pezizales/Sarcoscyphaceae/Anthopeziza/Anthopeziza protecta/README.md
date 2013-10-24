@@ -1,5 +1,4 @@
-Anthopeziza protecta SPECIES
-=======
+# Anthopeziza protecta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lichen albus Roth SPECIES
-=======
+# Lepraria alba (Roth) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Tentam. Fl. German. 1: 493 (1788)
+Lich. suec. prodr. (Linköping) 7 (1798)
 
 #### Original name
 Lichen albus Roth

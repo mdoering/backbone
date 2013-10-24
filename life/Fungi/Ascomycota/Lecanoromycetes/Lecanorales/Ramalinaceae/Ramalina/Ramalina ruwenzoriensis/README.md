@@ -1,5 +1,4 @@
-Ramalina ruwenzoriensis H. Magn. SPECIES
-=======
+# Ramalina ruwenzoriensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

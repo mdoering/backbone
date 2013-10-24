@@ -1,5 +1,4 @@
-Selenophoma androssowii (Bubák & Serebrian.) Luc SPECIES
-=======
+# Selenophoma androssowii (Bubák & Serebrian.) Luc SPECIES
 
 #### Status
 ACCEPTED

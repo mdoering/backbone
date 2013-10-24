@@ -1,8 +1,7 @@
-Conocylis striata Meunier, 1910 SPECIES
-=======
+# Strobilidium striatum (Meunier, 1910) Kahl, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

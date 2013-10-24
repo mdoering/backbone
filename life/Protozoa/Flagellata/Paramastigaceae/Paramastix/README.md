@@ -1,5 +1,4 @@
-Paramastix Skuja, 1948 GENUS
-=======
+# Paramastix Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

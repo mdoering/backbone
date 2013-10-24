@@ -1,5 +1,4 @@
-Coprinus subglobatus Berk. & M.A. Curtis SPECIES
-=======
+# Coprinus subglobatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

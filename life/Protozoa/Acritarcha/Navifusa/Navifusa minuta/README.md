@@ -1,5 +1,4 @@
-Navifusa minuta (Deunff, 1955) Eisenack et al., 1979 SPECIES
-=======
+# Navifusa minuta (Deunff, 1955) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

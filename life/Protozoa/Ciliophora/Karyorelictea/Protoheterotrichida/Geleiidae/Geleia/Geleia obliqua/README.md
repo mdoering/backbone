@@ -1,5 +1,4 @@
-Geleia obliqua (Dragesco, 1960) Foissner, 1998 SPECIES
-=======
+# Geleia obliqua (Dragesco, 1960) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

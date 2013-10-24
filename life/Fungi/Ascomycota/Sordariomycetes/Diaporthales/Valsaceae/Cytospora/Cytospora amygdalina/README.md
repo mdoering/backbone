@@ -1,5 +1,4 @@
-Cytospora amygdalina P. Karst. SPECIES
-=======
+# Cytospora amygdalina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

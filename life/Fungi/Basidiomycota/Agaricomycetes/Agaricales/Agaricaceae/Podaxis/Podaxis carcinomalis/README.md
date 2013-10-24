@@ -1,14 +1,13 @@
-Scleroderma carcinomale (L.) Pers., 1801 SPECIES
-=======
+# Podaxis carcinomalis (L. f.) Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 151 (1801)
+Syst. mycol. (Lundae) 3(1): 62 (1829)
 
 #### Original name
 Lycoperdon carcinomale L. f., 1782

@@ -1,5 +1,4 @@
-Hygrophorus borealis f. borealis FORM
-=======
+# Hygrophorus borealis Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 64 (1874)
 
 #### Original name
-Hygrophorus borealis f. borealis
+Hygrophorus borealis Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pestalotiopsis chethallensis Sohi & O. Prakash SPECIES
-=======
+# Pestalotiopsis chethallensis Sohi & O. Prakash SPECIES
 
 #### Status
 ACCEPTED

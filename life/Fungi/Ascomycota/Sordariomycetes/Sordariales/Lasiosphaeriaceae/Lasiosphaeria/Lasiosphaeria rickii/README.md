@@ -1,5 +1,4 @@
-Lasiosphaeria rickii Theiss. SPECIES
-=======
+# Lasiosphaeria rickii Theiss. SPECIES
 
 #### Status
 ACCEPTED

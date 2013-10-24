@@ -1,5 +1,4 @@
-Patellaria subvelata Ellis & Everh. SPECIES
-=======
+# Patellaria subvelata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

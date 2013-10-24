@@ -1,5 +1,4 @@
-Dictyosporium cocophylum Bat. SPECIES
-=======
+# Dictyosporium cocophylum Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia caribaea (Ach.) A. Massal. SPECIES
-=======
+# Arthonia caribaea (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

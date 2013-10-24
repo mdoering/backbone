@@ -1,5 +1,4 @@
-Clitocybe albidogilva (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe albidogilva (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

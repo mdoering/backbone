@@ -1,5 +1,4 @@
-Lichen clavellus Ach. SPECIES
-=======
+# Lichen clavellus Ach. SPECIES
 
 #### Status
 ACCEPTED

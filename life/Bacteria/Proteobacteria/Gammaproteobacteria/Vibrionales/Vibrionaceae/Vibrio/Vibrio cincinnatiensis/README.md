@@ -1,5 +1,4 @@
-Vibrio cincinnatiensis Brayton et al., 1986 SPECIES
-=======
+# Vibrio cincinnatiensis Brayton et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium translucens W.L. White SPECIES
-=======
+# Helotium translucens W.L. White SPECIES
 
 #### Status
 ACCEPTED

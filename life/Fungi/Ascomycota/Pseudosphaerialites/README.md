@@ -1,5 +1,4 @@
-Pseudosphaerialites Venkatach. & R.K. Kar GENUS
-=======
+# Pseudosphaerialites Venkatach. & R.K. Kar GENUS
 
 #### Status
 ACCEPTED

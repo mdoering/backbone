@@ -1,5 +1,4 @@
-Platygrapha albocincta (Nyl.) Nyl. SPECIES
-=======
+# Platygrapha albocincta (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus pinicola M. Zang SPECIES
-=======
+# Crepidotus pinicola M. Zang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma mentzeliae Speg. SPECIES
-=======
+# Phoma mentzeliae Speg. SPECIES
 
 #### Status
 ACCEPTED

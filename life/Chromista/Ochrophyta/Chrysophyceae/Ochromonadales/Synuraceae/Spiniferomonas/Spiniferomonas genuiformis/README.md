@@ -1,5 +1,4 @@
-Spiniferomonas genuiformis D. E. Wujek & R. G. Bland SPECIES
-=======
+# Spiniferomonas genuiformis D. E. Wujek & R. G. Bland SPECIES
 
 #### Status
 ACCEPTED

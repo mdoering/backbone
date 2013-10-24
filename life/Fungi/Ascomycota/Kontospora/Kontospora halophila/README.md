@@ -1,5 +1,4 @@
-Kontospora halophila A. Roldán, Honrubia & Marvanová, 1990 SPECIES
-=======
+# Kontospora halophila A. Roldán, Honrubia & Marvanová, 1990 SPECIES
 
 #### Status
 ACCEPTED

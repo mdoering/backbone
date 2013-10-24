@@ -1,5 +1,4 @@
-Sphaceloma gustaviae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma gustaviae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

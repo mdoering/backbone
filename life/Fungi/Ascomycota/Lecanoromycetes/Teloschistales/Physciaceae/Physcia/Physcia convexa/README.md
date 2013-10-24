@@ -1,5 +1,4 @@
-Physcia convexa Müll. Arg. SPECIES
-=======
+# Physcia convexa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

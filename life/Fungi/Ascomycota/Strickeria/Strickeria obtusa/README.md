@@ -1,5 +1,4 @@
-Strickeria obtusa (Fuckel) G. Winter SPECIES
-=======
+# Strickeria obtusa (Fuckel) G. Winter SPECIES
 
 #### Status
 ACCEPTED

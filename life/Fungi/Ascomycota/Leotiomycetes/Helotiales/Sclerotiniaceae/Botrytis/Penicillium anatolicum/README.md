@@ -1,5 +1,4 @@
-Penicillium anatolicum Stolk, 1968 SPECIES
-=======
+# Penicillium anatolicum Stolk, 1968 SPECIES
 
 #### Status
 DOUBTFUL

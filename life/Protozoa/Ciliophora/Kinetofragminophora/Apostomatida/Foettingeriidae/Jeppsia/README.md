@@ -1,17 +1,16 @@
-Chattonella Jepps, 1937 GENUS
-=======
+# Jeppsia Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quart. J. Micr. Sci. , (N. S. ) 79, 610.
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Chattonella Jepps, 1937
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neotyphula Wakef. GENUS
-=======
+# Neotyphula Wakef. GENUS
 
 #### Status
 ACCEPTED

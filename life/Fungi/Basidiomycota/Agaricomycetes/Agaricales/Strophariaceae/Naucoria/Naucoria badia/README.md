@@ -1,5 +1,4 @@
-Naucoria badia Murrill, 1917 SPECIES
-=======
+# Naucoria badia Murrill, 1917 SPECIES
 
 #### Status
 ACCEPTED

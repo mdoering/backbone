@@ -1,5 +1,4 @@
-Ascochyta indusiata Bres. SPECIES
-=======
+# Ascochyta indusiata Bres. SPECIES
 
 #### Status
 ACCEPTED

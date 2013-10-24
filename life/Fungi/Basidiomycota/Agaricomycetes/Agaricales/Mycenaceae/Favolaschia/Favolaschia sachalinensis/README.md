@@ -1,8 +1,7 @@
-Favolaschia sacchalinensis Parmasto ex Singer SPECIES
-=======
+# Favolaschia sachalinensis Parmasto ex Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Favolaschia sacchalinensis Parmasto ex Singer
+Favolaschia sachalinensis Parmasto ex Singer
 
 ### Remarks
 null

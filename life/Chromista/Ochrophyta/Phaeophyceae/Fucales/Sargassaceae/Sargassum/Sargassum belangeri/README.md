@@ -1,5 +1,4 @@
-Sargassum belangeri Bory de Saint-Vincent SPECIES
-=======
+# Sargassum belangeri Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

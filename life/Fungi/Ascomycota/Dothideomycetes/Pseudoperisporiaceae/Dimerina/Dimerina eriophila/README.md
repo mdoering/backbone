@@ -1,5 +1,4 @@
-Dimerina eriophila (G. Winter) Theiss. SPECIES
-=======
+# Dimerina eriophila (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

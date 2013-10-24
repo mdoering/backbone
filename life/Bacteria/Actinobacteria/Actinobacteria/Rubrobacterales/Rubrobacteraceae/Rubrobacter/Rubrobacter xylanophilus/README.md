@@ -1,5 +1,4 @@
-Rubrobacter xylanophilus Carreto et al., 1996 SPECIES
-=======
+# Rubrobacter xylanophilus Carreto et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

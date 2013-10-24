@@ -1,5 +1,4 @@
-Aspergillus bombycis S.W. Peterson, Yoko Ito, B.W. Horn & T. Goto, 2001 SPECIES
-=======
+# Aspergillus bombycis S.W. Peterson, Yoko Ito, B.W. Horn & T. Goto, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Artostrobus Haeckel, 1887 GENUS
-=======
+# Artostrobus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

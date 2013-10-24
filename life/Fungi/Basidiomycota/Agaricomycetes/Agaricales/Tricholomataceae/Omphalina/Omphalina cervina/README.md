@@ -1,5 +1,4 @@
-Omphalina cervina Raithelh. SPECIES
-=======
+# Omphalina cervina Raithelh. SPECIES
 
 #### Status
 ACCEPTED

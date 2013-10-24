@@ -1,5 +1,4 @@
-Aecidium cardiandrae Dietel SPECIES
-=======
+# Aecidium cardiandrae Dietel SPECIES
 
 #### Status
 ACCEPTED

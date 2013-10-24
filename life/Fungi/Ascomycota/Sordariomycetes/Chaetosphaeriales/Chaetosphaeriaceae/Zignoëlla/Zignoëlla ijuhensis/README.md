@@ -1,5 +1,4 @@
-Zignoëlla ijuhensis Starbäck SPECIES
-=======
+# Zignoëlla ijuhensis Starbäck SPECIES
 
 #### Status
 ACCEPTED

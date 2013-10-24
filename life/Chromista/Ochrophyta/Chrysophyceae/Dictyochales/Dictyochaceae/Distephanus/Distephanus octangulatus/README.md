@@ -1,5 +1,4 @@
-Distephanus octangulatus G. H. Wailes SPECIES
-=======
+# Distephanus octangulatus G. H. Wailes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe roseascens E. Ludw. & J.G. Svenss. SPECIES
-=======
+# Hygrocybe roseascens E. Ludw. & J.G. Svenss. SPECIES
 
 #### Status
 ACCEPTED

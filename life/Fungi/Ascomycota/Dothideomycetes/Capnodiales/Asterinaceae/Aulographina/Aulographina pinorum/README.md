@@ -1,14 +1,13 @@
-Aulographum pinorum Desm., 1838 SPECIES
-=======
+# Aulographina pinorum (Desm.) Arx & E. Müll., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 14: 332 (1960)
 
 #### Original name
 Aulographum pinorum Desm., 1838

@@ -1,5 +1,4 @@
-Arthonia plurilocularia Müll. Arg. SPECIES
-=======
+# Arthonia plurilocularia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

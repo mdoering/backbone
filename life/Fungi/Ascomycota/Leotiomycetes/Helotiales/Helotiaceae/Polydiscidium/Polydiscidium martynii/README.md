@@ -1,5 +1,4 @@
-Polydiscidium martynii Wakef., 1934 SPECIES
-=======
+# Polydiscidium martynii Wakef., 1934 SPECIES
 
 #### Status
 ACCEPTED

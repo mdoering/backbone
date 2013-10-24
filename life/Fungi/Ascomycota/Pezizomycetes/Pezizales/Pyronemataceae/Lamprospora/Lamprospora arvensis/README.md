@@ -1,5 +1,4 @@
-Lamprospora arvensis (Velen.) Svrcek SPECIES
-=======
+# Lamprospora arvensis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

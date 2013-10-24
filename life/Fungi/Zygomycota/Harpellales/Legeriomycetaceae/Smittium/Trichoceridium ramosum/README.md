@@ -1,5 +1,4 @@
-Trichoceridium ramosum R.A. Poiss. SPECIES
-=======
+# Trichoceridium ramosum R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

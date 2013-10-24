@@ -1,5 +1,4 @@
-Schizothyrium parallelum P. Karst. SPECIES
-=======
+# Schizothyrium parallelum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

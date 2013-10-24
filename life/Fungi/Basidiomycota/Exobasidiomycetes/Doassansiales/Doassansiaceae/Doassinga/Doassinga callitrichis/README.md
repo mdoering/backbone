@@ -1,17 +1,16 @@
-Entyloma callitrichis Liro SPECIES
-=======
+# Doassinga callitrichis (Liro) Vánky, R. Bauer & Begerow, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 90(6): 965 (1998)
 
 #### Original name
-Entyloma callitrichis Liro
+Entyloma callitriches Liro, 1939
 
 ### Remarks
 null

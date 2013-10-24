@@ -1,5 +1,4 @@
-Perenniporia dipterocarpicola T. Hatt. & S.S. Lee, 1999 SPECIES
-=======
+# Perenniporia dipterocarpicola T. Hatt. & S.S. Lee, 1999 SPECIES
 
 #### Status
 ACCEPTED

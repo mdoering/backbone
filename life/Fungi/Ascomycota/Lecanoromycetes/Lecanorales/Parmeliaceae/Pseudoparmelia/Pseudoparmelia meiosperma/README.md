@@ -1,5 +1,4 @@
-Pseudoparmelia meiosperma (Hue) Hale SPECIES
-=======
+# Pseudoparmelia meiosperma (Hue) Hale SPECIES
 
 #### Status
 ACCEPTED

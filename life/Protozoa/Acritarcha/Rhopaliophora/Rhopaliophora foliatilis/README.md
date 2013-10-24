@@ -1,5 +1,4 @@
-Rhopaliophora foliatilis Tappan & Loeblich, 1971 SPECIES
-=======
+# Rhopaliophora foliatilis Tappan & Loeblich, 1971 SPECIES
 
 #### Status
 ACCEPTED

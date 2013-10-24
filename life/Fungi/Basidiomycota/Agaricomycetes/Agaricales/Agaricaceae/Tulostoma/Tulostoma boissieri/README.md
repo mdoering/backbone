@@ -1,5 +1,4 @@
-Tulostoma boissieri Kalchbr. SPECIES
-=======
+# Tulostoma boissieri Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora ceanothina (Peck) Sacc. SPECIES
-=======
+# Physalospora ceanothina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

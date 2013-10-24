@@ -1,5 +1,4 @@
-Dicaeoma helianthi-mollis anon. SPECIES
-=======
+# Dicaeoma helianthi-mollis anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria minimipuncta (Cooke) Ravenel SPECIES
-=======
+# Sphaeria minimipuncta (Cooke) Ravenel SPECIES
 
 #### Status
 ACCEPTED

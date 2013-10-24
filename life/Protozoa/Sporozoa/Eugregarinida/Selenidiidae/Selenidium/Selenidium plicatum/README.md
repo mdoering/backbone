@@ -1,5 +1,4 @@
-Selenidium plicatum Ray, 1930 SPECIES
-=======
+# Selenidium plicatum Ray, 1930 SPECIES
 
 #### Status
 ACCEPTED

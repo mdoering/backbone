@@ -1,5 +1,4 @@
-Septatium graminum Velen. SPECIES
-=======
+# Septatium graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

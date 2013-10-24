@@ -1,5 +1,4 @@
-Xanthoparmelia stanthorpensis Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia stanthorpensis Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

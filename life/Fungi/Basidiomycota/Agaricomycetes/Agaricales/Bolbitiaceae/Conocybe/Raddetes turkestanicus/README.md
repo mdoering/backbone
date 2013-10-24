@@ -1,5 +1,4 @@
-Raddetes turkestanicus P. Karst. SPECIES
-=======
+# Raddetes turkestanicus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

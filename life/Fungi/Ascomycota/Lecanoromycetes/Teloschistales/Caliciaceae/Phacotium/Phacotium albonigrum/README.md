@@ -1,5 +1,4 @@
-Phacotium albonigrum (Nyl.) Trevis. SPECIES
-=======
+# Phacotium albonigrum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

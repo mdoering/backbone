@@ -1,5 +1,4 @@
-Sporidesmium triseptatum McAlpine SPECIES
-=======
+# Sporidesmium triseptatum McAlpine SPECIES
 
 #### Status
 ACCEPTED

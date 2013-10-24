@@ -1,5 +1,4 @@
-Aspergillus michelii Preuss SPECIES
-=======
+# Aspergillus michelii Preuss SPECIES
 
 #### Status
 ACCEPTED

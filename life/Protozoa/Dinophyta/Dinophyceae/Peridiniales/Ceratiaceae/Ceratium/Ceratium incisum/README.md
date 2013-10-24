@@ -1,5 +1,4 @@
-Ceratium incisum (Karsten) E.G.Jørgensen SPECIES
-=======
+# Ceratium incisum (Karsten) E.G.Jørgensen SPECIES
 
 #### Status
 ACCEPTED

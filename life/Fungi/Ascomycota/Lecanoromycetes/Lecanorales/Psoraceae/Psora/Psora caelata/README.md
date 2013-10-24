@@ -1,5 +1,4 @@
-Psora caelata Hoffm. SPECIES
-=======
+# Psora caelata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma mackinawense Hesler & A.H. Sm. SPECIES
-=======
+# Hebeloma mackinawense Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

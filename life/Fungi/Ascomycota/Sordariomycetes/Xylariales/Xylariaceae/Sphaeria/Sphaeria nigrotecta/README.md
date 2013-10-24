@@ -1,5 +1,4 @@
-Sphaeria nigrotecta Berk. & Ravenel SPECIES
-=======
+# Sphaeria nigrotecta Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

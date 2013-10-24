@@ -1,5 +1,4 @@
-Macropodia fibrosa (Wallr.) Sacc. SPECIES
-=======
+# Macropodia fibrosa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria santaremensis D. Metzeltin & H. Lange-Bertalot SPECIES
-=======
+# Fragilaria santaremensis D. Metzeltin & H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

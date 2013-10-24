@@ -1,5 +1,4 @@
-Entoloma floccosodentatum Corner & E. Horak SPECIES
-=======
+# Entoloma floccosodentatum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

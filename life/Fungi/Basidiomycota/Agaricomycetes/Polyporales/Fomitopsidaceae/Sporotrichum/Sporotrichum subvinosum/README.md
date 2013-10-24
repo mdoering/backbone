@@ -1,5 +1,4 @@
-Sporotrichum subvinosum Schwein. SPECIES
-=======
+# Sporotrichum subvinosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

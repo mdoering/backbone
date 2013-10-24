@@ -1,5 +1,4 @@
-Sphaceloma krugii Bitanc. & Jenkins, 1950 SPECIES
-=======
+# Sphaceloma krugii Bitanc. & Jenkins, 1950 SPECIES
 
 #### Status
 ACCEPTED

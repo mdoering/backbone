@@ -1,5 +1,4 @@
-Lachnocladium scoparium (Lév.) Sacc. SPECIES
-=======
+# Lachnocladium scoparium (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

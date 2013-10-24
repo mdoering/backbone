@@ -1,5 +1,4 @@
-Phlyctochytrium closterii (Karling) Sparrow SPECIES
-=======
+# Phlyctochytrium closterii (Karling) Sparrow SPECIES
 
 #### Status
 ACCEPTED

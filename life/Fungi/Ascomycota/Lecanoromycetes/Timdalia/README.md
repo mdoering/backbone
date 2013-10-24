@@ -1,5 +1,4 @@
-Timdalia Hafellner GENUS
-=======
+# Timdalia Hafellner GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium japonicum G. Sm., 1963 SPECIES
-=======
+# Penicillium resticulosum Birkinshaw, Raistrick & G. Sm., 1942 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

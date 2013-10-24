@@ -1,5 +1,4 @@
-Stilbospora staphyleae Schwein. SPECIES
-=======
+# Stilbospora staphyleae Schwein. SPECIES
 
 #### Status
 ACCEPTED

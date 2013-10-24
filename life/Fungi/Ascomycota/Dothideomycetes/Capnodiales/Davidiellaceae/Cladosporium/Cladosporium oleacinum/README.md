@@ -1,5 +1,4 @@
-Cladosporium oleacinum Sacc. & P. Syd. SPECIES
-=======
+# Cladosporium oleacinum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

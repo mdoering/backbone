@@ -1,5 +1,4 @@
-Tetrabrunneospora Dyko GENUS
-=======
+# Tetrabrunneospora Dyko GENUS
 
 #### Status
 ACCEPTED

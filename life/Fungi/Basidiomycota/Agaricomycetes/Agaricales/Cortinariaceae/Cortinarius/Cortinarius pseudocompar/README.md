@@ -1,5 +1,4 @@
-Cortinarius pseudocompar M.M. Moser SPECIES
-=======
+# Cortinarius pseudocompar M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

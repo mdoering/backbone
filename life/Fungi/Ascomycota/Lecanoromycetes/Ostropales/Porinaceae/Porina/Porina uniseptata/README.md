@@ -1,5 +1,4 @@
-Porina uniseptata H. Magn. SPECIES
-=======
+# Porina uniseptata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

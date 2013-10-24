@@ -1,5 +1,4 @@
-Lactarius campinensis Singer SPECIES
-=======
+# Lactarius campinensis Singer SPECIES
 
 #### Status
 ACCEPTED

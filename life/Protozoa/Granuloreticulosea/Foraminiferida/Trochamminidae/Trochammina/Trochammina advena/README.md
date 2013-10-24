@@ -1,5 +1,4 @@
-Trochammina advena SPECIES
-=======
+# Trochammina advena SPECIES
 
 #### Status
 ACCEPTED

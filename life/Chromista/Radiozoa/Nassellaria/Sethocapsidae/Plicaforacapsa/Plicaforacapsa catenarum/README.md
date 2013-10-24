@@ -1,5 +1,4 @@
-Plicaforacapsa catenarum SPECIES
-=======
+# Plicaforacapsa catenarum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe olivipes M.M. Moser SPECIES
-=======
+# Dermocybe olivipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

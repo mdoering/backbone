@@ -1,5 +1,4 @@
-Erineum pterospermi Corda SPECIES
-=======
+# Erineum pterospermi Corda SPECIES
 
 #### Status
 ACCEPTED

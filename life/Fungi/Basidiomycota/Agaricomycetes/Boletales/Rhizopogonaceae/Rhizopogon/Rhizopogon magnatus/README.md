@@ -1,8 +1,7 @@
-Rhizopogon magnatum Corda SPECIES
-=======
+# Rhizopogon magnatus Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizopogon magnatum Corda
+Rhizopogon magnatus Corda
 
 ### Remarks
 null

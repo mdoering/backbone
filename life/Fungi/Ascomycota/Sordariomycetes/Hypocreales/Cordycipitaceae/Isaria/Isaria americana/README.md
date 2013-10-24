@@ -1,5 +1,4 @@
-Isaria americana P. Karst. SPECIES
-=======
+# Isaria americana P. Karst. SPECIES
 
 #### Status
 ACCEPTED

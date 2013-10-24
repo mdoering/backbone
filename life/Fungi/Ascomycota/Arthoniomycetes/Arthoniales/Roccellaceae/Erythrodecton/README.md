@@ -1,5 +1,4 @@
-Erythrodecton G. Thor GENUS
-=======
+# Erythrodecton G. Thor GENUS
 
 #### Status
 ACCEPTED

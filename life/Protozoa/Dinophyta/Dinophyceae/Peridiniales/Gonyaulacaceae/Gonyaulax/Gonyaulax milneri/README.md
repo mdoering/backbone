@@ -1,5 +1,4 @@
-Gonyaulax milneri (Murray & Whitting) Kofoid SPECIES
-=======
+# Gonyaulax milneri (Murray & Whitting) Kofoid SPECIES
 
 #### Status
 ACCEPTED

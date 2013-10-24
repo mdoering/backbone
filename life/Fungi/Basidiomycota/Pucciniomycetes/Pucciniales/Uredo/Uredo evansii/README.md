@@ -1,5 +1,4 @@
-Uredo evansii (Syd. & P. Syd.) Ritschel SPECIES
-=======
+# Uredo evansii (Syd. & P. Syd.) Ritschel SPECIES
 
 #### Status
 ACCEPTED

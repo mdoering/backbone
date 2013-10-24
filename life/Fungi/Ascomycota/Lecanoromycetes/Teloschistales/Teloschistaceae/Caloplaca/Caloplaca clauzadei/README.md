@@ -1,5 +1,4 @@
-Caloplaca clauzadei B. de Lesd. SPECIES
-=======
+# Caloplaca clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

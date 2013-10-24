@@ -1,5 +1,4 @@
-Usnea aristata Motyka SPECIES
-=======
+# Usnea aristata Motyka SPECIES
 
 #### Status
 ACCEPTED

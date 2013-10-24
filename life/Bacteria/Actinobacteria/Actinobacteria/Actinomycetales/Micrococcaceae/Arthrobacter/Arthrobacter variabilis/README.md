@@ -1,5 +1,4 @@
-Arthrobacter variabilis Müller, 1961 SPECIES
-=======
+# Arthrobacter variabilis Müller, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo arbuti Dietel & Holw. SPECIES
-=======
+# Uredo arbuti Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

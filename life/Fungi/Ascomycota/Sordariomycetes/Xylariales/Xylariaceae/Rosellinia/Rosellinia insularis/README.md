@@ -1,5 +1,4 @@
-Rosellinia insularis Lar.N. Vassiljeva, 1998 SPECIES
-=======
+# Rosellinia insularis Lar.N. Vassiljeva, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella opuntiae Ellis & Everh. SPECIES
-=======
+# Sphaerella opuntiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

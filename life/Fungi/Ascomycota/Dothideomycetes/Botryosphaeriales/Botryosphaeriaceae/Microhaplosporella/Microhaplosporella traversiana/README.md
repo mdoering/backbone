@@ -1,5 +1,4 @@
-Microhaplosporella traversiana M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Microhaplosporella traversiana M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

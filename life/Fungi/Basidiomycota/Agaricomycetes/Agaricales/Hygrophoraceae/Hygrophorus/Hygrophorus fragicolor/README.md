@@ -1,5 +1,4 @@
-Hygrophorus fragicolor Papetti SPECIES
-=======
+# Hygrophorus fragicolor Papetti SPECIES
 
 #### Status
 ACCEPTED

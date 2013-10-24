@@ -1,5 +1,4 @@
-Physalospora caryophyllinicola F. Stevens SPECIES
-=======
+# Physalospora caryophyllinicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe xylophila Singer SPECIES
-=======
+# Conocybe xylophila Singer SPECIES
 
 #### Status
 ACCEPTED

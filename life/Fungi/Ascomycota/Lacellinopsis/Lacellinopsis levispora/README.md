@@ -1,5 +1,4 @@
-Lacellinopsis levispora Subram. SPECIES
-=======
+# Lacellinopsis levispora Subram. SPECIES
 
 #### Status
 ACCEPTED

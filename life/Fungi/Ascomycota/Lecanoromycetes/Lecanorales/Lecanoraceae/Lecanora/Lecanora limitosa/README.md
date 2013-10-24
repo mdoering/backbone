@@ -1,5 +1,4 @@
-Lecanora limitosa Nyl. SPECIES
-=======
+# Lecanora limitosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

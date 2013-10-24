@@ -1,5 +1,4 @@
-Gemmatimonadetes CLASS
-=======
+# Gemmatimonadetes CLASS
 
 #### Status
 ACCEPTED

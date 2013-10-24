@@ -1,5 +1,4 @@
-Ceratellopsis thujicola (Kauffman) Corner SPECIES
-=======
+# Ceratellopsis thujicola (Kauffman) Corner SPECIES
 
 #### Status
 ACCEPTED

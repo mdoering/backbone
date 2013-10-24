@@ -1,14 +1,13 @@
-Cistella grevillei (Berk.) Raitv., 1978 SPECIES
-=======
+# Discocistella grevillei (Berk.) Svrcek, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 16: 12 (1962)
 
 #### Original name
 null

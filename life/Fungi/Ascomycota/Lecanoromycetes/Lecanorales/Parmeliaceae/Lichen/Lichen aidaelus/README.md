@@ -1,5 +1,4 @@
-Lichen aidaelus Humb. SPECIES
-=======
+# Lichen aidaelus Humb. SPECIES
 
 #### Status
 ACCEPTED

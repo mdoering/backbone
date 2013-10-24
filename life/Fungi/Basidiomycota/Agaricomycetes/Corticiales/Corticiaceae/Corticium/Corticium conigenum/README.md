@@ -1,5 +1,4 @@
-Corticium conigenum Shear & R.W. Davidson, 1944 SPECIES
-=======
+# Corticium conigenum Shear & R.W. Davidson, 1944 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora cinnae Tehon & E.Y. Daniels, 1927 SPECIES
-=======
+# Phyllachora cinnae Tehon & E.Y. Daniels, 1927 SPECIES
 
 #### Status
 DOUBTFUL

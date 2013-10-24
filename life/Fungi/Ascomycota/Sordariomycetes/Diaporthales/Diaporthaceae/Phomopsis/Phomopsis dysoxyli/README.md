@@ -1,5 +1,4 @@
-Phomopsis dysoxyli (Sacc.) Petr. SPECIES
-=======
+# Phomopsis dysoxyli (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

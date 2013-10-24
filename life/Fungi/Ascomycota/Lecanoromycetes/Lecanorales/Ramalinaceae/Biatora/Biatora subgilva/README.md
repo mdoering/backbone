@@ -1,17 +1,16 @@
-Biatora vernalis var. subgilva Arnold VARIETY
-=======
+# Biatora subgilva (Arnold) Hinteregger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 55: 112 (1994)
 
 #### Original name
-null
+Biatora vernalis var. subgilva Arnold
 
 ### Remarks
 null

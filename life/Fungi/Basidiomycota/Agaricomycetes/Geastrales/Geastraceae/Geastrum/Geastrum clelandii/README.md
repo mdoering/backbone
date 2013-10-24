@@ -1,5 +1,4 @@
-Geastrum clelandii Lloyd, 1918 SPECIES
-=======
+# Geastrum clelandii Lloyd, 1918 SPECIES
 
 #### Status
 ACCEPTED

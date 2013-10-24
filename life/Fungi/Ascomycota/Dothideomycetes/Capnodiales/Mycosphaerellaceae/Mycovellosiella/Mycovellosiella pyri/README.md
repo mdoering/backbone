@@ -1,5 +1,4 @@
-Mycovellosiella pyri (Farl.) U. Braun SPECIES
-=======
+# Mycovellosiella pyri (Farl.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

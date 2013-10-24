@@ -1,5 +1,4 @@
-Ascophora subtilis Corda SPECIES
-=======
+# Ascophora subtilis Corda SPECIES
 
 #### Status
 ACCEPTED

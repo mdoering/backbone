@@ -1,5 +1,4 @@
-Selenosporium pallens Corda SPECIES
-=======
+# Selenosporium pallens Corda SPECIES
 
 #### Status
 ACCEPTED

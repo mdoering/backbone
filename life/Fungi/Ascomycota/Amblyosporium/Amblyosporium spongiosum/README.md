@@ -1,14 +1,13 @@
-Monilia spongiosa Pers. SPECIES
-=======
+# Amblyosporium spongiosum (Pers.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 30 (1822)
+Can. J. Bot. 36: 735 (1958)
 
 #### Original name
 Monilia spongiosa Pers.

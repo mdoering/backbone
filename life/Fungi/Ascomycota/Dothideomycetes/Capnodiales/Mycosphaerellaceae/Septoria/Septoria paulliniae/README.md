@@ -1,5 +1,4 @@
-Septoria paulliniae F.O. Freire & F.C. Albuq. SPECIES
-=======
+# Septoria paulliniae F.O. Freire & F.C. Albuq. SPECIES
 
 #### Status
 ACCEPTED

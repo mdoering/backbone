@@ -1,17 +1,16 @@
-Rhodotorula lamellibrachii Nagah., Hamam., Nakase & Horikoshi SPECIES
-=======
+# Rhodotorula lamellibrachiae Nagah., Hamam., Nakase & Horikoshi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Antonie van Leeuwenhoek 80(3-4): 320 (2001)
 
 #### Original name
-Rhodotorula lamellibrachii Nagah., Hamam., Nakase & Horikoshi
+Rhodotorula lamellibrachiae Nagah., Hamam., Nakase & Horikoshi
 
 ### Remarks
 null

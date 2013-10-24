@@ -1,5 +1,4 @@
-Crepidotus variisporus Singer SPECIES
-=======
+# Crepidotus variisporus Singer SPECIES
 
 #### Status
 ACCEPTED

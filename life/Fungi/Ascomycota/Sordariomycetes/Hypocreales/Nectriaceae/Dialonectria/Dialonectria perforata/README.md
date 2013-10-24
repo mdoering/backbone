@@ -1,5 +1,4 @@
-Dialonectria perforata Ellis & Holw. SPECIES
-=======
+# Dialonectria perforata Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

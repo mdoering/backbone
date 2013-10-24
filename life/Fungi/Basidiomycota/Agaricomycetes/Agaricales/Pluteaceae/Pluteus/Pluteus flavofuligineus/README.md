@@ -1,5 +1,4 @@
-Pluteus flavofuligineus G.F. Atk. SPECIES
-=======
+# Pluteus flavofuligineus G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

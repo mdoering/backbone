@@ -1,5 +1,4 @@
-Pseudocyphellaria rugulosa (Taylor) Dix SPECIES
-=======
+# Pseudocyphellaria rugulosa (Taylor) Dix SPECIES
 
 #### Status
 ACCEPTED

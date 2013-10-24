@@ -1,5 +1,4 @@
-Laestadia guarapiensis Speg. SPECIES
-=======
+# Laestadia guarapiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

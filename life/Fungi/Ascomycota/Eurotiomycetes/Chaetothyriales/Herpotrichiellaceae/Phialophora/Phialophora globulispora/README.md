@@ -1,5 +1,4 @@
-Phialophora globulispora Bat. & C. Ram SPECIES
-=======
+# Phialophora globulispora Bat. & C. Ram SPECIES
 
 #### Status
 ACCEPTED

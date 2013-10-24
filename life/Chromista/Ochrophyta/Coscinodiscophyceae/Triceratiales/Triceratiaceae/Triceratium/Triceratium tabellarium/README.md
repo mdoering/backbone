@@ -1,5 +1,4 @@
-Triceratium tabellarium Brightw., 1856 SPECIES
-=======
+# Triceratium tabellarium Brightw., 1856 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula indusiata Müll. Arg., 1895 SPECIES
-=======
+# Pyrenula indusiata Müll. Arg., 1895 SPECIES
 
 #### Status
 DOUBTFUL

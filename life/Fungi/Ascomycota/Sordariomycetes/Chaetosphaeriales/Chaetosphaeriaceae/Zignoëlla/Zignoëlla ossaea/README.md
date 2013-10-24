@@ -1,5 +1,4 @@
-Zignoëlla ossaea Maire SPECIES
-=======
+# Zignoëlla ossaea Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merismatium cladoniicola Alstrup SPECIES
-=======
+# Merismatium cladoniicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannosphaeropsis O.Wetzel, 1993 GENUS
-=======
+# Cannosphaeropsis O.Wetzel, 1993 GENUS
 
 #### Status
 ACCEPTED

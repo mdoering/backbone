@@ -1,5 +1,4 @@
-Pyrenula immissa (Stirt.) Zahlbr. SPECIES
-=======
+# Pyrenula immissa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

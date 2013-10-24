@@ -1,5 +1,4 @@
-Aecidium erectum Dietel SPECIES
-=======
+# Aecidium erectum Dietel SPECIES
 
 #### Status
 ACCEPTED

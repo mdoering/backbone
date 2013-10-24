@@ -1,5 +1,4 @@
-Ellipsoxiphium Haeckel, 1887 GENUS
-=======
+# Ellipsoxiphium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

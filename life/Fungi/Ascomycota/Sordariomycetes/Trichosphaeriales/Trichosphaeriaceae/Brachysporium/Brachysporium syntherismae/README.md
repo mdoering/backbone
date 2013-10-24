@@ -1,5 +1,4 @@
-Brachysporium syntherismae Sawada SPECIES
-=======
+# Brachysporium syntherismae Sawada SPECIES
 
 #### Status
 ACCEPTED

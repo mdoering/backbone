@@ -1,5 +1,4 @@
-Corynespora xanthiigena N. Sharma & S. Srivast. SPECIES
-=======
+# Corynespora xanthiigena N. Sharma & S. Srivast. SPECIES
 
 #### Status
 ACCEPTED

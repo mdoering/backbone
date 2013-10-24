@@ -1,5 +1,4 @@
-Langermannia pachyderma (Peck) Kreisel SPECIES
-=======
+# Langermannia pachyderma (Peck) Kreisel SPECIES
 
 #### Status
 ACCEPTED

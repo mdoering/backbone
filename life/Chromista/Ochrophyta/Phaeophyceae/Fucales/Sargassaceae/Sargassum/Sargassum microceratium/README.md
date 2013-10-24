@@ -1,8 +1,7 @@
-Myagropsis microceratia (Turner) Kützing SPECIES
-=======
+# Sargassum microceratium (Mertens ex Turner) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

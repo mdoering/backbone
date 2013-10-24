@@ -1,5 +1,4 @@
-Omphalina clavuligera (Singer) Raithelh. SPECIES
-=======
+# Omphalina clavuligera (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

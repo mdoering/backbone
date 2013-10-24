@@ -1,5 +1,4 @@
-Physcia aipolioides (Nádv.) Breuss & Türk SPECIES
-=======
+# Physcia aipolioides (Nádv.) Breuss & Türk SPECIES
 
 #### Status
 ACCEPTED

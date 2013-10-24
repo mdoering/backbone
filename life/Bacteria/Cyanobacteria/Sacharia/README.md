@@ -1,5 +1,4 @@
-Sacharia P.N. Kolosov, 1982 GENUS
-=======
+# Sacharia P.N. Kolosov, 1982 GENUS
 
 #### Status
 ACCEPTED

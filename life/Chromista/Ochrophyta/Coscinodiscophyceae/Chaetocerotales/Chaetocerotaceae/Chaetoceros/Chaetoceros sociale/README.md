@@ -1,5 +1,4 @@
-Chaetoceros sociale Lauder SPECIES
-=======
+# Chaetoceros sociale Lauder SPECIES
 
 #### Status
 ACCEPTED
