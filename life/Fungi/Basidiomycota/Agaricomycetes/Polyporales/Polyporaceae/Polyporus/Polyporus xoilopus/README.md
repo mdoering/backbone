@@ -1,5 +1,4 @@
-Polyporus xoilopus Rostk. SPECIES
-=======
+# Polyporus xoilopus Rostk. SPECIES
 
 #### Status
 ACCEPTED

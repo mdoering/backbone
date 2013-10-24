@@ -1,5 +1,4 @@
-Collybia peladae Singer SPECIES
-=======
+# Collybia peladae Singer SPECIES
 
 #### Status
 ACCEPTED

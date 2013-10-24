@@ -1,5 +1,4 @@
-Cercospora angiopteridis Boedijn SPECIES
-=======
+# Cercospora angiopteridis Boedijn SPECIES
 
 #### Status
 ACCEPTED

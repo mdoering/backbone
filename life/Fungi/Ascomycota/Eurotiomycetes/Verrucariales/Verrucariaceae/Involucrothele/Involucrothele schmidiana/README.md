@@ -1,5 +1,4 @@
-Involucrothele schmidiana Servít SPECIES
-=======
+# Involucrothele schmidiana Servít SPECIES
 
 #### Status
 ACCEPTED

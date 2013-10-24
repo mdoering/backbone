@@ -1,5 +1,4 @@
-Schistophoron aurantiacum Aptroot & Sipman SPECIES
-=======
+# Schistophoron aurantiacum Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

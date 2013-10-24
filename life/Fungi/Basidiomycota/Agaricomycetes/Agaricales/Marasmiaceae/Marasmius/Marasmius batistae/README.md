@@ -1,5 +1,4 @@
-Marasmius batistae Singer SPECIES
-=======
+# Marasmius batistae Singer SPECIES
 
 #### Status
 ACCEPTED

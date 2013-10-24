@@ -1,5 +1,4 @@
-Pertusaria cinchonae Müll. Arg. SPECIES
-=======
+# Pertusaria cinchonae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

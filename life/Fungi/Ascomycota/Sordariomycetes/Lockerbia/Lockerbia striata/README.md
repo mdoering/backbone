@@ -1,5 +1,4 @@
-Lockerbia striata Raja & Shearer SPECIES
-=======
+# Lockerbia striata Raja & Shearer SPECIES
 
 #### Status
 ACCEPTED

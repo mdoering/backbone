@@ -1,5 +1,4 @@
-Diplodia hapiopappi Allesch. SPECIES
-=======
+# Diplodia hapiopappi Allesch. SPECIES
 
 #### Status
 ACCEPTED

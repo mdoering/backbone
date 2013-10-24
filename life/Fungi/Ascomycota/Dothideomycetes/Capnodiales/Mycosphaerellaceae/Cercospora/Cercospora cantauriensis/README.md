@@ -1,5 +1,4 @@
-Cercospora cantauriensis E.S. Salmon & Wormald SPECIES
-=======
+# Cercospora cantauriensis E.S. Salmon & Wormald SPECIES
 
 #### Status
 ACCEPTED

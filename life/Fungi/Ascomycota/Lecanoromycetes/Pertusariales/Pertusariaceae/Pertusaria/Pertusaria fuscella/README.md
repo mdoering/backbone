@@ -1,5 +1,4 @@
-Pertusaria fuscella Zahlbr. SPECIES
-=======
+# Pertusaria fuscella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

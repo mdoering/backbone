@@ -1,5 +1,4 @@
-Sphaerophragmium sorghi Bat. & J.L. Bezerra SPECIES
-=======
+# Sphaerophragmium sorghi Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

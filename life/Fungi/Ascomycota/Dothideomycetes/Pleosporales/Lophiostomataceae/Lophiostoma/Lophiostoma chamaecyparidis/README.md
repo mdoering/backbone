@@ -1,14 +1,13 @@
-Massarina chamaecyparissi (Rehm) L. Holm & K. Holm SPECIES
-=======
+# Lophiostoma chamaecyparidis (Rehm) Aptroot & K.D. Hyde, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hyde, Wong & Aptroot, Fungal Diversity Res. Ser. (Hong Kong) 7: 107 (2002)
 
 #### Original name
 Didymella chamaecyparidis Rehm, 1884

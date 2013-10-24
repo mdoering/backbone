@@ -1,5 +1,4 @@
-Septobasidium schizostachyi Couch SPECIES
-=======
+# Septobasidium schizostachyi Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea soredifera J. Lowe SPECIES
-=======
+# Lecidea soredifera J. Lowe SPECIES
 
 #### Status
 ACCEPTED

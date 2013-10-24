@@ -1,5 +1,4 @@
-Balantidium ovatum SPECIES
-=======
+# Balantidium ovatum SPECIES
 
 #### Status
 ACCEPTED

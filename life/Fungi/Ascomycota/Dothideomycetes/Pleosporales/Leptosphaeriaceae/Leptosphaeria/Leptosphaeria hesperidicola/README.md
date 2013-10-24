@@ -1,5 +1,4 @@
-Leptosphaeria hesperidicola Picb. SPECIES
-=======
+# Leptosphaeria hesperidicola Picb. SPECIES
 
 #### Status
 ACCEPTED

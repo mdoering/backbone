@@ -1,5 +1,4 @@
-Sticta glaucolurida Nyl. SPECIES
-=======
+# Sticta glaucolurida Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium spodoxantha Spreng. SPECIES
-=======
+# Leptogium spodoxantha Spreng. SPECIES
 
 #### Status
 ACCEPTED

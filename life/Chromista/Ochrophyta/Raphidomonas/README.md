@@ -1,5 +1,4 @@
-Raphidomonas F.Stein GENUS
-=======
+# Raphidomonas F.Stein GENUS
 
 #### Status
 ACCEPTED

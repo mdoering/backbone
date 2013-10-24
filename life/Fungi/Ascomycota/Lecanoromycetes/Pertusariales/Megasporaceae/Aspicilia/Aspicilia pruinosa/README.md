@@ -1,5 +1,4 @@
-Aspicilia pruinosa (Vain.) Motyka SPECIES
-=======
+# Aspicilia pruinosa (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

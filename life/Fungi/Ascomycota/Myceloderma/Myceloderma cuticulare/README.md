@@ -1,5 +1,4 @@
-Myceloderma cuticulare Ducomet, 1907 SPECIES
-=======
+# Myceloderma cuticulare Ducomet, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascospora maculiformis (Fr.) Kuntze SPECIES
-=======
+# Ascospora maculiformis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

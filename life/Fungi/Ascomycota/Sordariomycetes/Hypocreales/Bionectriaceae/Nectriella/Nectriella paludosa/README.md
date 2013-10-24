@@ -1,14 +1,13 @@
-Nectria paludosa (Fuckel) Sacc., 1878 SPECIES
-=======
+# Nectriella paludosa Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 3): 289 (1878)
+Jb. nassau. Ver. Naturk. 23-24: 176 (1870)
 
 #### Original name
 Nectriella paludosa Fuckel, 1870

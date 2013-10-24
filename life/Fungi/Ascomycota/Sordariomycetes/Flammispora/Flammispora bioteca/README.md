@@ -1,5 +1,4 @@
-Flammispora bioteca Pinruan, Sakay., K.D. Hyde & E.B.G. Jones, 2004 SPECIES
-=======
+# Flammispora bioteca Pinruan, Sakay., K.D. Hyde & E.B.G. Jones, 2004 SPECIES
 
 #### Status
 ACCEPTED

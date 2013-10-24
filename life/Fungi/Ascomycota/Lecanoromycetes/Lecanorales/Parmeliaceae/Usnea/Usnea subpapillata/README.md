@@ -1,5 +1,4 @@
-Usnea subpapillata C.W. Dodge SPECIES
-=======
+# Usnea subpapillata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria bipolaris Svrcek SPECIES
-=======
+# Humaria bipolaris Svrcek SPECIES
 
 #### Status
 ACCEPTED

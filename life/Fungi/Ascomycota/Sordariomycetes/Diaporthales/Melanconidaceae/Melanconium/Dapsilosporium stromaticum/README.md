@@ -1,5 +1,4 @@
-Dapsilosporium stromaticum Corda SPECIES
-=======
+# Dapsilosporium stromaticum Corda SPECIES
 
 #### Status
 ACCEPTED

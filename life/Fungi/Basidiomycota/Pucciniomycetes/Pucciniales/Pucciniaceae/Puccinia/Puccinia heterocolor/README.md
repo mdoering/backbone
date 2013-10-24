@@ -1,17 +1,16 @@
-Puccinia heteroloris M.M. Chen SPECIES
-=======
+# Puccinia heterocolor M.M. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Wang, Acta microbiol. sin. 20(1): 22 (1980)
 
 #### Original name
-Puccinia heteroloris M.M. Chen
+Puccinia heterocolor M.M. Chen
 
 ### Remarks
 null

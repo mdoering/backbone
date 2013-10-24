@@ -1,5 +1,4 @@
-Leiostigma GENUS
-=======
+# Leiostigma GENUS
 
 #### Status
 ACCEPTED

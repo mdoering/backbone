@@ -1,5 +1,4 @@
-Sorosporium proliforatum Zundel SPECIES
-=======
+# Sorosporium proliforatum Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delphinoidella Popescu, 1992 GENUS
-=======
+# Delphinoidella Popescu, 1992 GENUS
 
 #### Status
 ACCEPTED

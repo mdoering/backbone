@@ -1,5 +1,4 @@
-Russula pseudovesca J.Z. Ying SPECIES
-=======
+# Russula pseudovesca J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

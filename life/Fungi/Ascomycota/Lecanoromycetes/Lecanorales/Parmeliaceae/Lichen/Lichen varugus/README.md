@@ -1,5 +1,4 @@
-Lichen varugus Schrank SPECIES
-=======
+# Lichen varugus Schrank SPECIES
 
 #### Status
 ACCEPTED

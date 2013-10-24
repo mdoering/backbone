@@ -1,17 +1,16 @@
-Basidiobolus haptosporus var. minor Sriniv. & Thirum., 1967 VARIETY
-=======
+# Basidiobolus ranarum Eidam, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 33: 60 (1967)
+Beitr. Biol. Pfl. 4: 194 (1886)
 
 #### Original name
-Basidiobolus haptosporus var. minor Sriniv. & Thirum., 1967
+Basidiobolus ranarum Eidam, 1886
 
 ### Remarks
 null

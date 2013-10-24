@@ -1,5 +1,4 @@
-Stereocaulon kangdingense M.R. Huang & J.C. Wei SPECIES
-=======
+# Stereocaulon kangdingense M.R. Huang & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

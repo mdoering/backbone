@@ -1,5 +1,4 @@
-Pyrenotea groenlandica SPECIES
-=======
+# Pyrenotea groenlandica SPECIES
 
 #### Status
 ACCEPTED

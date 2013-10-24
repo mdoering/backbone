@@ -1,5 +1,4 @@
-Herpetosiphon aurantiacus Holt and Lewin, 1968 (Approved Lists, 1980) SPECIES
-=======
+# Herpetosiphon aurantiacus Holt and Lewin, 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

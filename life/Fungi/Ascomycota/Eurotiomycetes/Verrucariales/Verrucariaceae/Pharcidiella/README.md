@@ -1,5 +1,4 @@
-Pharcidiella GENUS
-=======
+# Pharcidiella GENUS
 
 #### Status
 ACCEPTED

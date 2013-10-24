@@ -1,5 +1,4 @@
-Prathoda GENUS
-=======
+# Prathoda GENUS
 
 #### Status
 ACCEPTED

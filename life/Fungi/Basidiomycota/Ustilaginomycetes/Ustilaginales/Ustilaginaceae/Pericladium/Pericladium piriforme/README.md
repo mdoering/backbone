@@ -1,5 +1,4 @@
-Pericladium piriforme Peck SPECIES
-=======
+# Pericladium piriforme Peck SPECIES
 
 #### Status
 ACCEPTED

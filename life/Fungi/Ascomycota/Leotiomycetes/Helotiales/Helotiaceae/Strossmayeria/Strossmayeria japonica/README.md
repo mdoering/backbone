@@ -1,5 +1,4 @@
-Strossmayeria japonica Iturr., 1990 SPECIES
-=======
+# Strossmayeria japonica Iturr., 1990 SPECIES
 
 #### Status
 ACCEPTED

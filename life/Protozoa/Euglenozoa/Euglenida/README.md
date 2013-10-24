@@ -1,5 +1,4 @@
-Euglenida CLASS
-=======
+# Euglenida CLASS
 
 #### Status
 ACCEPTED

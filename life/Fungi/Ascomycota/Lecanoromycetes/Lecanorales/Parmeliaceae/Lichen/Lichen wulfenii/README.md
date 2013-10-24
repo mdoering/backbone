@@ -1,5 +1,4 @@
-Lichen wulfenii Ach. SPECIES
-=======
+# Lichen wulfenii Ach. SPECIES
 
 #### Status
 ACCEPTED

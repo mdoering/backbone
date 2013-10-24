@@ -1,5 +1,4 @@
-Parmotrema eliasaroanum Benatti, Marcelli & Elix SPECIES
-=======
+# Parmotrema eliasaroanum Benatti, Marcelli & Elix SPECIES
 
 #### Status
 ACCEPTED

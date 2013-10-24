@@ -1,5 +1,4 @@
-Phaeobotryosphaeria chrysites Rick SPECIES
-=======
+# Phaeobotryosphaeria chrysites Rick SPECIES
 
 #### Status
 ACCEPTED

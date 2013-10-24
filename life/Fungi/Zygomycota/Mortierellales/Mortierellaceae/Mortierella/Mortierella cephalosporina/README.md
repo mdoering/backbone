@@ -1,5 +1,4 @@
-Mortierella cephalosporina Chalab. SPECIES
-=======
+# Mortierella cephalosporina Chalab. SPECIES
 
 #### Status
 ACCEPTED

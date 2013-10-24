@@ -1,5 +1,4 @@
-Clavaria teres Baumg. SPECIES
-=======
+# Clavaria teres Baumg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanocorpusculaceae FAMILY
-=======
+# Methanocorpusculaceae FAMILY
 
 #### Status
 ACCEPTED

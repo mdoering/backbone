@@ -1,5 +1,4 @@
-Hexamita inflata Dujardin SPECIES
-=======
+# Hexamita inflata Dujardin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula lentiginosa Buyck & D. Mitch. SPECIES
-=======
+# Russula lentiginosa Buyck & D. Mitch. SPECIES
 
 #### Status
 ACCEPTED

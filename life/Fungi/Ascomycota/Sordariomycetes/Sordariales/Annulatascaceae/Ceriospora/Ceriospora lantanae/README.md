@@ -1,5 +1,4 @@
-Ceriospora lantanae Tilak & S.B. Kale SPECIES
-=======
+# Ceriospora lantanae Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora fengshanensis (T.Y. Lin & J.M. Yen) J.M. Yen & S.K. Sun SPECIES
-=======
+# Pseudocercospora fengshanensis (T.Y. Lin & J.M. Yen) J.M. Yen & S.K. Sun SPECIES
 
 #### Status
 ACCEPTED

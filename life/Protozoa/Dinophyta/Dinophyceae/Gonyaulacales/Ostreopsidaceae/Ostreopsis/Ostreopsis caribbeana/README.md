@@ -1,5 +1,4 @@
-Ostreopsis caribbeana M. A. Faust SPECIES
-=======
+# Ostreopsis caribbeana M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

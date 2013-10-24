@@ -1,5 +1,4 @@
-Bactrospora acicularis (C. W. Dodge) Egea & Torrente SPECIES
-=======
+# Bactrospora acicularis (C. W. Dodge) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

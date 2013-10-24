@@ -1,5 +1,4 @@
-Leptosphaeriopsis GENUS
-=======
+# Leptosphaeriopsis GENUS
 
 #### Status
 ACCEPTED

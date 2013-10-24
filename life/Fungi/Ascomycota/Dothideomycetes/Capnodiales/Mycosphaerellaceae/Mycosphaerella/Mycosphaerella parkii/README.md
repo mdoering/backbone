@@ -1,5 +1,4 @@
-Mycosphaerella parkii Crous, M.J. Wingf., F.A. Ferreira & Alfenas, 1993 SPECIES
-=======
+# Mycosphaerella parkii Crous, M.J. Wingf., F.A. Ferreira & Alfenas, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema sticticum Berk. SPECIES
-=======
+# Sphaeronaema sticticum Berk. SPECIES
 
 #### Status
 ACCEPTED

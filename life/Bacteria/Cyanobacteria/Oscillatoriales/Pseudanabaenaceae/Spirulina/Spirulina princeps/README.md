@@ -1,5 +1,4 @@
-Spirulina princeps W. West & G.S. West SPECIES
-=======
+# Spirulina princeps W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

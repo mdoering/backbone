@@ -1,5 +1,4 @@
-Encoeliopsis bresadolae (Rehm) J.W. Groves, 1969 SPECIES
-=======
+# Encoeliopsis bresadolae (Rehm) J.W. Groves, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella destructiva Berk. & Broome SPECIES
-=======
+# Sphaerella destructiva Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

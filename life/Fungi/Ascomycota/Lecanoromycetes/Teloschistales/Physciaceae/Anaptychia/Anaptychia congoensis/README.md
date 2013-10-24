@@ -1,5 +1,4 @@
-Anaptychia congoensis Kurok. SPECIES
-=======
+# Anaptychia congoensis Kurok. SPECIES
 
 #### Status
 ACCEPTED

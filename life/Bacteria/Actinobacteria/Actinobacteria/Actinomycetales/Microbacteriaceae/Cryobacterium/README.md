@@ -1,5 +1,4 @@
-Cryobacterium Suzuki, Sasaki, Uramoto, Nakase & Komagata, 1997 GENUS
-=======
+# Cryobacterium Suzuki, Sasaki, Uramoto, Nakase & Komagata, 1997 GENUS
 
 #### Status
 ACCEPTED

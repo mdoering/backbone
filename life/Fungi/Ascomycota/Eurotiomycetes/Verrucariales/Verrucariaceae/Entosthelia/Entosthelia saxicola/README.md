@@ -1,5 +1,4 @@
-Entosthelia saxicola B. de Lesd. SPECIES
-=======
+# Entosthelia saxicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

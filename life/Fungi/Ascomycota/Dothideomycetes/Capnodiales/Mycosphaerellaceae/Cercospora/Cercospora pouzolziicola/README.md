@@ -1,5 +1,4 @@
-Cercospora pouzolziicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
-=======
+# Cercospora pouzolziicola Bhartiya, Narayan, A.N. Singh bis & N. Kumari SPECIES
 
 #### Status
 ACCEPTED

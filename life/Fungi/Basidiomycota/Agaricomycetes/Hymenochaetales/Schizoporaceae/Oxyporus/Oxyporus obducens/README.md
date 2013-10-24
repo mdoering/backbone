@@ -1,17 +1,16 @@
-Coriolus obducens var. obducens VARIETY
-=======
+# Oxyporus obducens (Pers.) Donk, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 147 (1925)
+Meddn Bot. Mus. Herb. Rijhs Universit. Utrecht. 9: 202 (1933)
 
 #### Original name
-Coriolus obducens var. obducens
+Polyporus obducens Pers., 1825
 
 ### Remarks
 null

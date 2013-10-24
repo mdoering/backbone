@@ -1,5 +1,4 @@
-Geimania Albaret, 1975 GENUS
-=======
+# Geimania Albaret, 1975 GENUS
 
 #### Status
 ACCEPTED

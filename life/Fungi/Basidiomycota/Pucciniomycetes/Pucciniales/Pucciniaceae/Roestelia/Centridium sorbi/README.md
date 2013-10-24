@@ -1,5 +1,4 @@
-Centridium sorbi Chevall. SPECIES
-=======
+# Centridium sorbi Chevall. SPECIES
 
 #### Status
 ACCEPTED

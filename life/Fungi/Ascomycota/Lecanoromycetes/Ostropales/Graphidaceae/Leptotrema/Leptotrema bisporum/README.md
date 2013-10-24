@@ -1,5 +1,4 @@
-Leptotrema bisporum Szatala SPECIES
-=======
+# Leptotrema bisporum Szatala SPECIES
 
 #### Status
 ACCEPTED

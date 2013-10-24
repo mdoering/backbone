@@ -1,5 +1,4 @@
-Gartnerago nanum H. R. Thierstein SPECIES
-=======
+# Gartnerago nanum H. R. Thierstein SPECIES
 
 #### Status
 ACCEPTED

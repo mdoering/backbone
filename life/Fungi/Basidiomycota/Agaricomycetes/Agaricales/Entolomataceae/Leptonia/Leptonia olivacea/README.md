@@ -1,5 +1,4 @@
-Leptonia olivacea Rick SPECIES
-=======
+# Leptonia olivacea Rick SPECIES
 
 #### Status
 ACCEPTED

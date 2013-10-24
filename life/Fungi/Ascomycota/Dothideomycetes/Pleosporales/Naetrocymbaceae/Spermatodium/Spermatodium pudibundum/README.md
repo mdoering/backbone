@@ -1,5 +1,4 @@
-Spermatodium pudibundum (Mont.) Trevis. SPECIES
-=======
+# Spermatodium pudibundum (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

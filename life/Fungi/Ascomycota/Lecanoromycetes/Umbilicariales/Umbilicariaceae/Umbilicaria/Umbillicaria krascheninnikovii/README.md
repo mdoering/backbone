@@ -1,5 +1,4 @@
-Umbillicaria krascheninnikovii (Savicz) A.Z. SPECIES
-=======
+# Umbillicaria krascheninnikovii (Savicz) A.Z. SPECIES
 
 #### Status
 DOUBTFUL

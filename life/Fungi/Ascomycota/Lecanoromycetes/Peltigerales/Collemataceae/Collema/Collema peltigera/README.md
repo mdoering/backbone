@@ -1,5 +1,4 @@
-Collema peltigera (Delile) Pers. SPECIES
-=======
+# Collema peltigera (Delile) Pers. SPECIES
 
 #### Status
 ACCEPTED

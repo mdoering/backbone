@@ -1,5 +1,4 @@
-Clavariopsis azlanii Nawawi SPECIES
-=======
+# Clavariopsis azlanii Nawawi SPECIES
 
 #### Status
 ACCEPTED

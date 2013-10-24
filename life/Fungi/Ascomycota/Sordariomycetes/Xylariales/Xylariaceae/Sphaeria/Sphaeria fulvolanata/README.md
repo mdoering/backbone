@@ -1,5 +1,4 @@
-Sphaeria fulvolanata Berk. SPECIES
-=======
+# Sphaeria fulvolanata Berk. SPECIES
 
 #### Status
 ACCEPTED

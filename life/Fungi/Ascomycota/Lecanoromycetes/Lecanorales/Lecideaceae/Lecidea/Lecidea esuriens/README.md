@@ -1,5 +1,4 @@
-Lecidea esuriens Zahlbr. SPECIES
-=======
+# Lecidea esuriens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

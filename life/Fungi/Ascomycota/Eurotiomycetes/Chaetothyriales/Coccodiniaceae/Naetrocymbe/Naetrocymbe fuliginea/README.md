@@ -1,5 +1,4 @@
-Naetrocymbe fuliginea Körb., 1865 SPECIES
-=======
+# Naetrocymbe fuliginea Körb., 1865 SPECIES
 
 #### Status
 ACCEPTED

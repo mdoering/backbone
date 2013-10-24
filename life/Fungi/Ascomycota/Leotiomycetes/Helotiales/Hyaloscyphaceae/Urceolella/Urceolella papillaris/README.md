@@ -1,14 +1,13 @@
-Lachnella papillaris (Bull.) W. Phillips, 1887 SPECIES
-=======
+# Urceolella papillaris (Bull.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 257 (1887)
+null
 
 #### Original name
 null

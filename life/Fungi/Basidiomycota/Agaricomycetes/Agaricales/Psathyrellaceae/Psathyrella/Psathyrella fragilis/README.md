@@ -1,5 +1,4 @@
-Psathyrella fragilis Earle SPECIES
-=======
+# Psathyrella fragilis Earle SPECIES
 
 #### Status
 ACCEPTED

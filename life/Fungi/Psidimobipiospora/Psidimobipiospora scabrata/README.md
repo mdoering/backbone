@@ -1,17 +1,16 @@
-Psidimobipiospora scabratus P. Kumar SPECIES
-=======
+# Psidimobipiospora scabrata P. Kumar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Review of Palaeobotany and Palynology (Amsterdam) 63(1-2): 22 + pl. I, no. 10 (1990)
 
 #### Original name
-Psidimobipiospora scabratus P. Kumar
+Psidimobipiospora scabrata P. Kumar
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stigmatomyces recurvatus Thaxt. SPECIES
-=======
+# Stigmatomyces recurvatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

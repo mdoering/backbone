@@ -1,5 +1,4 @@
-Puccinia othonnae Doidge SPECIES
-=======
+# Puccinia othonnae Doidge SPECIES
 
 #### Status
 ACCEPTED

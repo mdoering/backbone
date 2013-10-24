@@ -1,5 +1,4 @@
-Pseudogloborotalia Haque, 1956 GENUS
-=======
+# Pseudogloborotalia Haque, 1956 GENUS
 
 #### Status
 ACCEPTED

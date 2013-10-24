@@ -1,5 +1,4 @@
-Gyrothrix macroseta Piroz. SPECIES
-=======
+# Gyrothrix macroseta Piroz. SPECIES
 
 #### Status
 ACCEPTED

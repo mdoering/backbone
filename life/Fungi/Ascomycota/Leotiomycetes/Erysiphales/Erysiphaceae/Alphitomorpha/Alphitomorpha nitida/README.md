@@ -1,5 +1,4 @@
-Alphitomorpha nitida Wallr. SPECIES
-=======
+# Alphitomorpha nitida Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nodulisporium griseobrunni B.S. Mehrotra SPECIES
-=======
+# Nodulisporium griseobrunneum B.S. Mehrotra, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 34: 353 (1965)
 
 #### Original name
-Nodulisporium griseobrunni B.S. Mehrotra
+Nodulisporium griseobrunneum B.S. Mehrotra, 1965
 
 ### Remarks
 null

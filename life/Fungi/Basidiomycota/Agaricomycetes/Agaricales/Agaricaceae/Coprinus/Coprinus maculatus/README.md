@@ -1,5 +1,4 @@
-Coprinus maculatus Dennis SPECIES
-=======
+# Coprinus maculatus Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius undulatofibrillosus Pilát ex A. Favre SPECIES
-=======
+# Cortinarius undulatofibrillosus Pilát ex A. Favre SPECIES
 
 #### Status
 ACCEPTED

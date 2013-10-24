@@ -1,5 +1,4 @@
-Gymnodinium boguensis SPECIES
-=======
+# Gymnodinium boguensis SPECIES
 
 #### Status
 ACCEPTED

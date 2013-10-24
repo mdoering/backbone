@@ -1,5 +1,4 @@
-Uncinula incrassata var. incrassata VARIETY
-=======
+# Uncinula incrassata E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 6: 525 (1908)
 
 #### Original name
-Uncinula incrassata var. incrassata
+Uncinula incrassata E.S. Salmon
 
 ### Remarks
 null

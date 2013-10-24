@@ -1,5 +1,4 @@
-Sclerotinia caricina Velen. SPECIES
-=======
+# Sclerotinia caricina Velen. SPECIES
 
 #### Status
 ACCEPTED

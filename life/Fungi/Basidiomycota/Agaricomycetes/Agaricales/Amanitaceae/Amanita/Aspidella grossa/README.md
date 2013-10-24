@@ -1,5 +1,4 @@
-Aspidella grossa (Cleland & Cheel) E.-J. Gilbert SPECIES
-=======
+# Aspidella grossa (Cleland & Cheel) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

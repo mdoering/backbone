@@ -1,5 +1,4 @@
-Lepidodinium Watanabe, Suda, Inouye, Sawaguchi & Chihara, 1990 GENUS
-=======
+# Lepidodinium Watanabe, Suda, Inouye, Sawaguchi & Chihara, 1990 GENUS
 
 #### Status
 ACCEPTED

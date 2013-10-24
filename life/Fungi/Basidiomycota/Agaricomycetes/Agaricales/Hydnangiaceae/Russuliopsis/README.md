@@ -1,5 +1,4 @@
-Russuliopsis GENUS
-=======
+# Russuliopsis GENUS
 
 #### Status
 ACCEPTED

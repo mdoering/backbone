@@ -1,5 +1,4 @@
-Microthyrina paraguayensis (Speg.) Bat. SPECIES
-=======
+# Microthyrina paraguayensis (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

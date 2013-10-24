@@ -1,5 +1,4 @@
-Helotium cremeum E.K. Cash SPECIES
-=======
+# Helotium cremeum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

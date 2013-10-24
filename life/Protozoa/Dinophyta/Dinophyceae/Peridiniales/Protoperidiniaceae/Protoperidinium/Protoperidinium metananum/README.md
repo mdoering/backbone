@@ -1,5 +1,4 @@
-Protoperidinium metananum (Balech in Balech & El-Sayed, 1965) Balech, 1974 SPECIES
-=======
+# Protoperidinium metananum (Balech in Balech & El-Sayed, 1965) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

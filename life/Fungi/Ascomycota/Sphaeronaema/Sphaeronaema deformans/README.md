@@ -1,5 +1,4 @@
-Sphaeronaema deformans Berk. SPECIES
-=======
+# Sphaeronaema deformans Berk. SPECIES
 
 #### Status
 ACCEPTED

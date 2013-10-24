@@ -1,14 +1,13 @@
-Acrostaphylus verrucosus (J.F.H. Beyma) Subram., 1956 SPECIES
-=======
+# Nodulisporium verrucosum (J.F.H. Beyma) G. Sm., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 35: 484 (1956)
+Trans. Br. mycol. Soc. 37: 166 (1954)
 
 #### Original name
 Botrytis verrucosa J.F.H. Beyma, 1929

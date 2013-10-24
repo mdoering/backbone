@@ -1,5 +1,4 @@
-Clitocybe multiceps (Peck) Sacc. SPECIES
-=======
+# Clitocybe multiceps (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

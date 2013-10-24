@@ -1,5 +1,4 @@
-Trichoderma phyllostachydis P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma phyllostachydis P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

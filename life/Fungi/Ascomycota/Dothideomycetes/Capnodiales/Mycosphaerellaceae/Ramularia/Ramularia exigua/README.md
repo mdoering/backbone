@@ -1,5 +1,4 @@
-Ramularia exigua U. Braun SPECIES
-=======
+# Ramularia exigua U. Braun SPECIES
 
 #### Status
 ACCEPTED

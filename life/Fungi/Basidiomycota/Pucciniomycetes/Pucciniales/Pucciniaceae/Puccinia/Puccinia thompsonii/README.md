@@ -1,5 +1,4 @@
-Puccinia thompsonii H.H. Hume SPECIES
-=======
+# Puccinia thompsonii H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

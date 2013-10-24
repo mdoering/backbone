@@ -1,5 +1,4 @@
-Dermatella deformata (Peck) Seaver SPECIES
-=======
+# Dermatella deformata (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bipolaris palousense R. Sprague SPECIES
-=======
+# Bipolaris palousensis R. Sprague SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Res. Stud. State Coll. Wash. 29: 77 (1961)
 
 #### Original name
-Bipolaris palousense R. Sprague
+Bipolaris palousensis R. Sprague
 
 ### Remarks
 null

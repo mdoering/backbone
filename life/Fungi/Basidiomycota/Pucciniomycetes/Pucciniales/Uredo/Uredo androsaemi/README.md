@@ -1,5 +1,4 @@
-Uredo androsaemi DC. SPECIES
-=======
+# Uredo androsaemi DC. SPECIES
 
 #### Status
 ACCEPTED

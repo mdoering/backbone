@@ -1,5 +1,4 @@
-Phallus squamosus Vent. SPECIES
-=======
+# Phallus squamosus Vent. SPECIES
 
 #### Status
 ACCEPTED

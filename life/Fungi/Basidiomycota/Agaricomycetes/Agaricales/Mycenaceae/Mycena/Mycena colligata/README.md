@@ -1,5 +1,4 @@
-Mycena colligata Berk. SPECIES
-=======
+# Mycena colligata Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propyxidium ventriosa SPECIES
-=======
+# Propyxidium ventriosa SPECIES
 
 #### Status
 ACCEPTED

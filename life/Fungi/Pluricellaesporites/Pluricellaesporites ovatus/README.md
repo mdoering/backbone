@@ -1,5 +1,4 @@
-Pluricellaesporites ovatus Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites ovatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

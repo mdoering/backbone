@@ -1,5 +1,4 @@
-Chantransiopsis xantholini Thaxt. SPECIES
-=======
+# Chantransiopsis xantholini Thaxt. SPECIES
 
 #### Status
 ACCEPTED

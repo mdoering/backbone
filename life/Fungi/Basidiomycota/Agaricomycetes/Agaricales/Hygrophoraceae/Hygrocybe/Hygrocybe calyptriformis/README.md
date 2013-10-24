@@ -1,17 +1,16 @@
-Hygrocybe calyptriformis f. calyptriformis (Berk.) Fayod, 1889 FORM
-=======
+# Hygrocybe calyptriformis (Berk.) Fayod, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 7 9: 309 (1889)
+null
 
 #### Original name
-Agaricus calyptriformis Berk., 1838
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Monacrosporium subtile Oudem., 1885 SPECIES
-=======
+# Monacrosporium subtile Oudem., 1885 SPECIES
 
 #### Status
 ACCEPTED

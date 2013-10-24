@@ -1,5 +1,4 @@
-Textularia astutia Lalicker & McCulloch, 1940 SPECIES
-=======
+# Textularia astutia Lalicker & McCulloch, 1940 SPECIES
 
 #### Status
 ACCEPTED

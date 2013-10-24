@@ -1,5 +1,4 @@
-Chaetocypha griseopallida (Weinm.) Kuntze SPECIES
-=======
+# Chaetocypha griseopallida (Weinm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

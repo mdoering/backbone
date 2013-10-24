@@ -1,5 +1,4 @@
-Hadrosporium dingleyae S. Hughes, 1980 SPECIES
-=======
+# Hadrosporium dingleyae S. Hughes, 1980 SPECIES
 
 #### Status
 ACCEPTED

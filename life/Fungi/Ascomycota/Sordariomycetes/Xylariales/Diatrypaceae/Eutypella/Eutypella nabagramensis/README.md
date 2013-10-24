@@ -1,5 +1,4 @@
-Eutypella nabagramensis A.K. Kar & Maity SPECIES
-=======
+# Eutypella nabagramensis A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

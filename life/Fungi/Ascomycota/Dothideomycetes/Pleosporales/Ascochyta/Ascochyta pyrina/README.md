@@ -1,5 +1,4 @@
-Ascochyta pyrina Peglion SPECIES
-=======
+# Ascochyta pyrina Peglion SPECIES
 
 #### Status
 ACCEPTED

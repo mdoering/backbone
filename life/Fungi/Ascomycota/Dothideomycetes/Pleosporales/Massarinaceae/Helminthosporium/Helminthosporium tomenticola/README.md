@@ -1,5 +1,4 @@
-Helminthosporium tomenticola Thüm. SPECIES
-=======
+# Helminthosporium tomenticola Thüm. SPECIES
 
 #### Status
 ACCEPTED

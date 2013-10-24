@@ -1,8 +1,7 @@
-Heterostegina operculinoides Hofker, 1927 SPECIES
-=======
+# Planostegina operculinoides (Hofker, 1927) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

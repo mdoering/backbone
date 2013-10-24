@@ -1,5 +1,4 @@
-Phragmidium heterospora Diet. SPECIES
-=======
+# Phragmidium heterospora Diet. SPECIES
 
 #### Status
 ACCEPTED

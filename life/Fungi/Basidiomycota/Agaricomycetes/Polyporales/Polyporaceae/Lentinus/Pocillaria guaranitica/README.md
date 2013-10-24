@@ -1,5 +1,4 @@
-Pocillaria guaranitica (Speg.) Kuntze SPECIES
-=======
+# Pocillaria guaranitica (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

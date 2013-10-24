@@ -1,5 +1,4 @@
-Asterina vagans Speg. SPECIES
-=======
+# Asterina vagans Speg. SPECIES
 
 #### Status
 ACCEPTED

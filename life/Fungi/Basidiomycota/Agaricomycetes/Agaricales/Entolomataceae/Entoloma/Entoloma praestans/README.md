@@ -1,5 +1,4 @@
-Entoloma praestans Corner & E. Horak SPECIES
-=======
+# Entoloma praestans Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

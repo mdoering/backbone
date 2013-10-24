@@ -1,5 +1,4 @@
-Cercophora Fuckel, 1870 GENUS
-=======
+# Cercophora Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

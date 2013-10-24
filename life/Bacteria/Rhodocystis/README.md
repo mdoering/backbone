@@ -1,5 +1,4 @@
-Rhodocystis GENUS
-=======
+# Rhodocystis GENUS
 
 #### Status
 ACCEPTED

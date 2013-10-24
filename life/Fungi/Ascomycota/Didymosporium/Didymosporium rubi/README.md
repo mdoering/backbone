@@ -1,5 +1,4 @@
-Didymosporium rubi Corda SPECIES
-=======
+# Didymosporium rubi Corda SPECIES
 
 #### Status
 ACCEPTED

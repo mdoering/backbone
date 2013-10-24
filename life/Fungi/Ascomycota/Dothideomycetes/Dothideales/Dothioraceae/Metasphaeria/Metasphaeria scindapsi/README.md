@@ -1,5 +1,4 @@
-Metasphaeria scindapsi Racib. SPECIES
-=======
+# Metasphaeria scindapsi Racib. SPECIES
 
 #### Status
 ACCEPTED

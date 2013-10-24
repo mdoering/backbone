@@ -1,5 +1,4 @@
-Stictis hydrangeae Schwein. SPECIES
-=======
+# Stictis hydrangeae Schwein. SPECIES
 
 #### Status
 ACCEPTED

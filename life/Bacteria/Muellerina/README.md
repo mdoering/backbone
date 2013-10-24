@@ -1,5 +1,4 @@
-Muellerina de Petschenko, 1910 GENUS
-=======
+# Muellerina de Petschenko, 1910 GENUS
 
 #### Status
 ACCEPTED

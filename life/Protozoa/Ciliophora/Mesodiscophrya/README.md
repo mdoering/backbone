@@ -1,5 +1,4 @@
-Mesodiscophrya Jankowski, 1981 GENUS
-=======
+# Mesodiscophrya Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

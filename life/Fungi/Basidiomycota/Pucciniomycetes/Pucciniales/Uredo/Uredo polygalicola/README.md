@@ -1,5 +1,4 @@
-Uredo polygalicola Hirats. f. SPECIES
-=======
+# Uredo polygalicola Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

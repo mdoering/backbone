@@ -1,5 +1,4 @@
-Rhizophydium utriculus Scherff. SPECIES
-=======
+# Rhizophydium utriculus Scherff. SPECIES
 
 #### Status
 ACCEPTED

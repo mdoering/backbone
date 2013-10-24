@@ -1,5 +1,4 @@
-Rhizopogon graveolens f. sulphureus Vacek FORM
-=======
+# Rhizopogon graveolens (Vittad.) Tul. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizopogon graveolens f. sulphureus Vacek
+Hysteromyces graveolens Vittad.
 
 ### Remarks
 null

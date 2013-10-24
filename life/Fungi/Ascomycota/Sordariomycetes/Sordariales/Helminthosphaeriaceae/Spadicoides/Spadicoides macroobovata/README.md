@@ -1,5 +1,4 @@
-Spadicoides macroobovata Matsush. SPECIES
-=======
+# Spadicoides macroobovata Matsush. SPECIES
 
 #### Status
 ACCEPTED

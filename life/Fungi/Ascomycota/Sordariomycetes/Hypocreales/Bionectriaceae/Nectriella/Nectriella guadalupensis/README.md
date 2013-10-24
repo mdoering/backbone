@@ -1,5 +1,4 @@
-Nectriella guadalupensis A.W. Ramaley SPECIES
-=======
+# Nectriella guadalupensis A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

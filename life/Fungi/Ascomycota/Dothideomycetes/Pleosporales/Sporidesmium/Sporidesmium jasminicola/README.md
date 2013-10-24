@@ -1,5 +1,4 @@
-Sporidesmium jasminicola M.B. Ellis SPECIES
-=======
+# Sporidesmium jasminicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

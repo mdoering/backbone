@@ -1,5 +1,4 @@
-Microdiplodia clavispora (Ellis & Barthol.) Tassi SPECIES
-=======
+# Microdiplodia clavispora (Ellis & Barthol.) Tassi SPECIES
 
 #### Status
 ACCEPTED

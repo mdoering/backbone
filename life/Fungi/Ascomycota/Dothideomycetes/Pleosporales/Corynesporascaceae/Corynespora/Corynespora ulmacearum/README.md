@@ -1,5 +1,4 @@
-Corynespora ulmacearum Arch. Singh, S.K. Singh & Kamal SPECIES
-=======
+# Corynespora ulmacearum Arch. Singh, S.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

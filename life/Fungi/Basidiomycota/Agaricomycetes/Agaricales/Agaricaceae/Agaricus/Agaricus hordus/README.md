@@ -1,5 +1,4 @@
-Agaricus hordus Fr. SPECIES
-=======
+# Agaricus hordus Fr. SPECIES
 
 #### Status
 ACCEPTED

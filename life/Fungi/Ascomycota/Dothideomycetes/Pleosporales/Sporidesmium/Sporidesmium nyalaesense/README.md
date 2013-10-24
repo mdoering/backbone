@@ -1,5 +1,4 @@
-Sporidesmium nyalaesense M.B. Ellis SPECIES
-=======
+# Sporidesmium nyalaesense M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

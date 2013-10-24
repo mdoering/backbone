@@ -1,5 +1,4 @@
-Physcia lopezii Moberg SPECIES
-=======
+# Physcia lopezii Moberg SPECIES
 
 #### Status
 ACCEPTED

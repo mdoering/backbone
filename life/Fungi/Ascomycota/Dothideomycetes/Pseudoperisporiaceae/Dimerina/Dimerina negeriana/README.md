@@ -1,5 +1,4 @@
-Dimerina negeriana (Henn.) Theiss. SPECIES
-=======
+# Dimerina negeriana (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

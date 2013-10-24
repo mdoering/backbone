@@ -1,17 +1,16 @@
-Lecidea atroviridis f. atroviridis FORM
-=======
+# Biatora ocelliformis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea atroviridis f. atroviridis
+Lecidea ocelliformis Nyl.
 
 ### Remarks
 null

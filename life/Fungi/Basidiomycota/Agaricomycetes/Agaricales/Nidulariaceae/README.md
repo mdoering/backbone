@@ -1,5 +1,4 @@
-Nidulariaceae Dumort. FAMILY
-=======
+# Nidulariaceae Dumort. FAMILY
 
 #### Status
 ACCEPTED

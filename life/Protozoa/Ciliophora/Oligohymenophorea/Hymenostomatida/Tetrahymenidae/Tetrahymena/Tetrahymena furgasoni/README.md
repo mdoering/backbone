@@ -1,5 +1,4 @@
-Tetrahymena furgasoni SPECIES
-=======
+# Tetrahymena furgasoni SPECIES
 
 #### Status
 ACCEPTED

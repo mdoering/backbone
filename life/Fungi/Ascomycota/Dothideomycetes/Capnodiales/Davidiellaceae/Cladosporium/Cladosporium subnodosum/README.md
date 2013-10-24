@@ -1,5 +1,4 @@
-Cladosporium subnodosum Cooke, 1877 SPECIES
-=======
+# Cladosporium subnodosum Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

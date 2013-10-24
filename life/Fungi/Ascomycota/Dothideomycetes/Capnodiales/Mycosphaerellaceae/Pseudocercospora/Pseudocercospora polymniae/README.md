@@ -1,5 +1,4 @@
-Pseudocercospora polymniae (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora polymniae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumiosa alara Rudavskaya, 1964 ex Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
-=======
+# Spumiosa alara Rudavskaya, 1964 ex Lopukhin in Nikitina & Ogurzova, 1971 SPECIES
 
 #### Status
 ACCEPTED

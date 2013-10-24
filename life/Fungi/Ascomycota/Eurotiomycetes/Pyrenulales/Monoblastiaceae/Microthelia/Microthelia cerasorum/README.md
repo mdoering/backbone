@@ -1,5 +1,4 @@
-Microthelia cerasorum (Fr.) Kuntze SPECIES
-=======
+# Microthelia cerasorum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

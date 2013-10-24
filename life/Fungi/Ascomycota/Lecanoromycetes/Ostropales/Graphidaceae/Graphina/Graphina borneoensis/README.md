@@ -1,5 +1,4 @@
-Graphina borneoensis Räsänen SPECIES
-=======
+# Graphina borneoensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

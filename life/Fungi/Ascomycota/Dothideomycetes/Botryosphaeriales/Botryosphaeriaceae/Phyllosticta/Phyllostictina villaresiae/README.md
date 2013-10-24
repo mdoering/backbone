@@ -1,5 +1,4 @@
-Phyllostictina villaresiae (Syd.) Syd. SPECIES
-=======
+# Phyllostictina villaresiae (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

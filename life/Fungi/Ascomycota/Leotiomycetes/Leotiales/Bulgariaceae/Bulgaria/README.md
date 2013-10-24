@@ -1,17 +1,16 @@
-Voeltzkowiella Henn. GENUS
-=======
+# Bulgaria E.M. Fries, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Voeltzkow, Reise in Ost-Africa 1903-1905 3(1): 31 (1908)
+null
 
 #### Original name
-Voeltzkowiella Henn.
+null
 
 ### Remarks
 null

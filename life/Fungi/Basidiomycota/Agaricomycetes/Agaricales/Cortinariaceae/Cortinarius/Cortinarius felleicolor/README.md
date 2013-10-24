@@ -1,17 +1,16 @@
-Cortinarius felleaecolor Rob. Henry SPECIES
-=======
+# Cortinarius felleicolor Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 105(1): 97 (1989)
 
 #### Original name
-Cortinarius felleaecolor Rob. Henry
+Cortinarius felleicolor Rob. Henry
 
 ### Remarks
 null

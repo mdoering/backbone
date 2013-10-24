@@ -1,5 +1,4 @@
-Mycosphaerella physostegiae W.A. Jenkins, 1945 SPECIES
-=======
+# Mycosphaerella physostegiae W.A. Jenkins, 1945 SPECIES
 
 #### Status
 ACCEPTED

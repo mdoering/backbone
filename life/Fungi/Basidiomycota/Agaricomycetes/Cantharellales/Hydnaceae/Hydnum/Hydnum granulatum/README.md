@@ -1,5 +1,4 @@
-Hydnum granulatum Secr. SPECIES
-=======
+# Hydnum granulatum Secr. SPECIES
 
 #### Status
 ACCEPTED

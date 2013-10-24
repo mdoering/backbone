@@ -1,5 +1,4 @@
-Pedobacter sandarakinus Yoon et al., 2006 SPECIES
-=======
+# Pedobacter sandarakinus Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

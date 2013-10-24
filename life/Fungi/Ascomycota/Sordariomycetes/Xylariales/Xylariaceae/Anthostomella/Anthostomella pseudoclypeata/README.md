@@ -1,5 +1,4 @@
-Anthostomella pseudoclypeata H.Y. Yip SPECIES
-=======
+# Anthostomella pseudoclypeata H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

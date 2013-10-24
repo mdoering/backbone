@@ -1,5 +1,4 @@
-Hydnum paleaceum Thore SPECIES
-=======
+# Hydnum paleaceum Thore SPECIES
 
 #### Status
 ACCEPTED

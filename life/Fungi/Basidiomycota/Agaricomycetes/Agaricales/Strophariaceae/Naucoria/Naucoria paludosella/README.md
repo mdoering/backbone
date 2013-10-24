@@ -1,5 +1,4 @@
-Naucoria paludosella G.F. Atk. SPECIES
-=======
+# Naucoria paludosella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

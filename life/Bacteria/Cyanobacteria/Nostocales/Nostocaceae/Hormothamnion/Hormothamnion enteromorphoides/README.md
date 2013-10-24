@@ -1,5 +1,4 @@
-Hormothamnion enteromorphoides SPECIES
-=======
+# Hormothamnion enteromorphoides SPECIES
 
 #### Status
 ACCEPTED

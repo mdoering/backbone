@@ -1,5 +1,4 @@
-Marasmius rufopallidus Kalchbr. SPECIES
-=======
+# Marasmius rufopallidus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

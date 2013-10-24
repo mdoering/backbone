@@ -1,5 +1,4 @@
-Caloplaca microcarpa (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Caloplaca microcarpa (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

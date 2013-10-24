@@ -1,8 +1,7 @@
-Odontia limonicolor (Berk. & Broome) Rick, 1933 SPECIES
-=======
+# Sistotrema muscicola (Pers.) S. Lundell, 1947 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

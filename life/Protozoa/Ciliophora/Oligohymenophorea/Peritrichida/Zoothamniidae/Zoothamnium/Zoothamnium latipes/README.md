@@ -1,5 +1,4 @@
-Zoothamnium latipes Dumas SPECIES
-=======
+# Zoothamnium latipes Dumas SPECIES
 
 #### Status
 ACCEPTED

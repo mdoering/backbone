@@ -1,5 +1,4 @@
-Schizoxylon cordobense (Speg.) Sherwood SPECIES
-=======
+# Schizoxylon cordobense (Speg.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

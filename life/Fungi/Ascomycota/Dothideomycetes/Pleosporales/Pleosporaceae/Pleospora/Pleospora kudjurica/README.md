@@ -1,5 +1,4 @@
-Pleospora kudjurica Petr., 1949 SPECIES
-=======
+# Pleospora kudjurica Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

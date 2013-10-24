@@ -1,5 +1,4 @@
-Bulimina sculptilis Cushman SPECIES
-=======
+# Bulimina sculptilis Cushman SPECIES
 
 #### Status
 ACCEPTED

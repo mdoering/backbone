@@ -1,5 +1,4 @@
-Allophylaria schieferdeckeriana Kirschst. SPECIES
-=======
+# Allophylaria schieferdeckeriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

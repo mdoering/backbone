@@ -1,5 +1,4 @@
-Leptonia glabra Murrill SPECIES
-=======
+# Leptonia glabra Murrill SPECIES
 
 #### Status
 ACCEPTED

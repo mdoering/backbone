@@ -1,5 +1,4 @@
-Laschia dussii Pat. SPECIES
-=======
+# Laschia dussii Pat. SPECIES
 
 #### Status
 ACCEPTED

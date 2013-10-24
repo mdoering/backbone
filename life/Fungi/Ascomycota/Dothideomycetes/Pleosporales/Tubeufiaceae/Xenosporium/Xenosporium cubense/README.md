@@ -1,5 +1,4 @@
-Xenosporium cubense Hol.-Jech., 1988 SPECIES
-=======
+# Xenosporium cubense Hol.-Jech., 1988 SPECIES
 
 #### Status
 ACCEPTED

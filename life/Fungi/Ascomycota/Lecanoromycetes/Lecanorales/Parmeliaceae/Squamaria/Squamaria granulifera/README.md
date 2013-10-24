@@ -1,5 +1,4 @@
-Squamaria granulifera SPECIES
-=======
+# Squamaria granulifera SPECIES
 
 #### Status
 ACCEPTED

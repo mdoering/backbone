@@ -1,5 +1,4 @@
-Marasmiellus dunensis Robich, G. Moreno & Pöder SPECIES
-=======
+# Marasmiellus dunensis Robich, G. Moreno & Pöder SPECIES
 
 #### Status
 ACCEPTED

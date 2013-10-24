@@ -1,5 +1,4 @@
-Hypocrea candida P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea candida P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

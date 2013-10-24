@@ -1,14 +1,13 @@
-Hymenogaster aromaticus Velen., 1922 SPECIES
-=======
+# Protoglossum aromaticum (Velen.) J.M. Vidal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 4-5: 800 (1922)
+Revista Catalana de Micologia 24: 288 (2002)
 
 #### Original name
 Hymenogaster aromaticus Velen., 1922

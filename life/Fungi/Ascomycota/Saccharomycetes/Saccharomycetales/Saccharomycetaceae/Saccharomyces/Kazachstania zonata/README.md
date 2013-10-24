@@ -1,5 +1,4 @@
-Kazachstania zonata Imanishi, Ueda-Nishim. & Mikata, 2007 SPECIES
-=======
+# Kazachstania zonata Imanishi, Ueda-Nishim. & Mikata, 2007 SPECIES
 
 #### Status
 ACCEPTED

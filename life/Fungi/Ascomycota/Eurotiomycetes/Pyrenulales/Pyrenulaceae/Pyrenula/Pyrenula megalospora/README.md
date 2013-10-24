@@ -1,5 +1,4 @@
-Pyrenula megalospora Fink SPECIES
-=======
+# Pyrenula megalospora Fink SPECIES
 
 #### Status
 ACCEPTED

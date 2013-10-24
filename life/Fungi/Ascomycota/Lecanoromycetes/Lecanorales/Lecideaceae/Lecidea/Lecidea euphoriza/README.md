@@ -1,5 +1,4 @@
-Lecidea euphoriza Nyl. SPECIES
-=======
+# Lecidea euphoriza Nyl. SPECIES
 
 #### Status
 ACCEPTED

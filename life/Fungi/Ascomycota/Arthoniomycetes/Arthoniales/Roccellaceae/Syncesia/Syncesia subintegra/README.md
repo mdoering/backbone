@@ -1,5 +1,4 @@
-Syncesia subintegra Sipman SPECIES
-=======
+# Syncesia subintegra Sipman SPECIES
 
 #### Status
 ACCEPTED

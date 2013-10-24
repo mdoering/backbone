@@ -1,5 +1,4 @@
-Pseudocyphellaria coriacea (Hook. f. & Taylor) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria coriacea (Hook. f. & Taylor) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

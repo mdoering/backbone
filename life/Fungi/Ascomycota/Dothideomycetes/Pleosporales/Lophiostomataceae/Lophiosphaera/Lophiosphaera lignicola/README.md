@@ -1,5 +1,4 @@
-Lophiosphaera lignicola Sacc. SPECIES
-=======
+# Lophiosphaera lignicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

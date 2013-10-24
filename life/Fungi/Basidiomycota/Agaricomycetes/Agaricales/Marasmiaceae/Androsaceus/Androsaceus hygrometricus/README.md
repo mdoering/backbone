@@ -1,5 +1,4 @@
-Androsaceus hygrometricus (V. Brig.) Maire SPECIES
-=======
+# Androsaceus hygrometricus (V. Brig.) Maire SPECIES
 
 #### Status
 ACCEPTED

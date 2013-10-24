@@ -1,5 +1,4 @@
-Tyromyces brunneimontanus Corner SPECIES
-=======
+# Tyromyces brunneimontanus Corner SPECIES
 
 #### Status
 ACCEPTED

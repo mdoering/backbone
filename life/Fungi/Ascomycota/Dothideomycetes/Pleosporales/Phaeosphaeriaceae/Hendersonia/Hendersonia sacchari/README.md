@@ -1,5 +1,4 @@
-Hendersonia sacchari Speg., 1896 SPECIES
-=======
+# Hendersonia sacchari Speg., 1896 SPECIES
 
 #### Status
 ACCEPTED

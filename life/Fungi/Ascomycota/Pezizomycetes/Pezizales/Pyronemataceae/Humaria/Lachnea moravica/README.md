@@ -1,5 +1,4 @@
-Lachnea moravica Svrcek SPECIES
-=======
+# Lachnea moravica Svrcek SPECIES
 
 #### Status
 ACCEPTED

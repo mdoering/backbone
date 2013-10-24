@@ -1,5 +1,4 @@
-Sphaeria monocarpa Schumach. SPECIES
-=======
+# Sphaeria monocarpa Schumach. SPECIES
 
 #### Status
 ACCEPTED

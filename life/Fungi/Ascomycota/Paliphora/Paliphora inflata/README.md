@@ -1,5 +1,4 @@
-Paliphora inflata Gusmão, Marques & D.A.C. Almeida SPECIES
-=======
+# Paliphora inflata Gusmão, Marques & D.A.C. Almeida SPECIES
 
 #### Status
 ACCEPTED

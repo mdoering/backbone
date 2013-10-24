@@ -1,5 +1,4 @@
-Globigerina subcretacea Lomnicki SPECIES
-=======
+# Globigerina subcretacea Lomnicki SPECIES
 
 #### Status
 ACCEPTED

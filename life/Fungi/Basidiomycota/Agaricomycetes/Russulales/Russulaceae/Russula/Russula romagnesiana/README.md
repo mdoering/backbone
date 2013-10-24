@@ -1,5 +1,4 @@
-Russula romagnesiana Shaffer SPECIES
-=======
+# Russula romagnesiana Shaffer SPECIES
 
 #### Status
 ACCEPTED

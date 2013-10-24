@@ -1,5 +1,4 @@
-Cladonia cinereorubens Abbayes SPECIES
-=======
+# Cladonia cinereorubens Abbayes SPECIES
 
 #### Status
 ACCEPTED

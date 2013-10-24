@@ -1,5 +1,4 @@
-Puccinia acetosa Körn. SPECIES
-=======
+# Puccinia acetosa Körn. SPECIES
 
 #### Status
 ACCEPTED

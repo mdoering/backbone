@@ -1,5 +1,4 @@
-Phyllosticta tirolensis Bubák SPECIES
-=======
+# Phyllosticta tirolensis Bubák SPECIES
 
 #### Status
 ACCEPTED

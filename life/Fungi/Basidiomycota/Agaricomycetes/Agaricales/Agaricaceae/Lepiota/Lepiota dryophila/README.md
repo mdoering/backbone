@@ -1,5 +1,4 @@
-Lepiota dryophila Murrill SPECIES
-=======
+# Lepiota dryophila Murrill SPECIES
 
 #### Status
 ACCEPTED

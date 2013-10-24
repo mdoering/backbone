@@ -1,5 +1,4 @@
-Lecania newtoniana (Henriq.) Zahlbr. SPECIES
-=======
+# Lecania newtoniana (Henriq.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypoxylon melogrammum (Bull.) J. Kickx f., 1841 SPECIES
-=======
+# Melogramma campylosporum Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouv. Mém. Acad. Roy. Sci. Bruxelles 13: 18 (1841)
+Summa veg. Scand. (Stockholm), Section Post. 386 (1849)
 
 #### Original name
-null
+Melogramma campylosporum Fr., 1849
 
 ### Remarks
 null

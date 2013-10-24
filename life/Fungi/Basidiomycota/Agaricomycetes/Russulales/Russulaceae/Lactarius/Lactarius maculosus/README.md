@@ -1,5 +1,4 @@
-Lactarius maculosus Murrill SPECIES
-=======
+# Lactarius maculosus Murrill SPECIES
 
 #### Status
 ACCEPTED

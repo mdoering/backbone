@@ -1,5 +1,4 @@
-Strobilomyces ananaeceps (Berk.) Sacc. SPECIES
-=======
+# Strobilomyces ananaeceps (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

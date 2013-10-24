@@ -1,5 +1,4 @@
-Puccinia exanthematica MacOwan SPECIES
-=======
+# Puccinia exanthematica MacOwan SPECIES
 
 #### Status
 ACCEPTED

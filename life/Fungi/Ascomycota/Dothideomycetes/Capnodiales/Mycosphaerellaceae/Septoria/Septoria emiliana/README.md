@@ -1,5 +1,4 @@
-Septoria emiliana D.N. Babajan SPECIES
-=======
+# Septoria emiliana D.N. Babajan SPECIES
 
 #### Status
 ACCEPTED

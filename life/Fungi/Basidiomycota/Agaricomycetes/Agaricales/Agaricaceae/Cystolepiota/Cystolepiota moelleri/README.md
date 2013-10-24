@@ -1,17 +1,16 @@
-Cystolepiota rosea (Rea) Bon, 1976 SPECIES
-=======
+# Cystolepiota moelleri Knudsen, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 6(no. 24): 43 (1976)
+Bot. Tidsskr. 73(2): 134 (1978)
 
 #### Original name
-Lepiota rosea Rea, 1918
+Cystolepiota moelleri Knudsen, 1978
 
 ### Remarks
 null

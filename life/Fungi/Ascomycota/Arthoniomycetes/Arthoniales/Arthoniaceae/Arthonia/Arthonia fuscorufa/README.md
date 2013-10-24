@@ -1,5 +1,4 @@
-Arthonia fuscorufa C. Knight ex F. Wilson SPECIES
-=======
+# Arthonia fuscorufa C. Knight ex F. Wilson SPECIES
 
 #### Status
 ACCEPTED

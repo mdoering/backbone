@@ -1,5 +1,4 @@
-Septoria glycines Hemmi, 1915 SPECIES
-=======
+# Septoria glycines Hemmi, 1915 SPECIES
 
 #### Status
 ACCEPTED

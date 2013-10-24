@@ -1,5 +1,4 @@
-Omphalia oedipus Massee SPECIES
-=======
+# Omphalia oedipus Massee SPECIES
 
 #### Status
 ACCEPTED

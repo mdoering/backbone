@@ -1,5 +1,4 @@
-Peziza bulgarioides Kalchbr. SPECIES
-=======
+# Peziza bulgarioides Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

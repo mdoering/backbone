@@ -1,5 +1,4 @@
-Clitopilus albogriseus Peck SPECIES
-=======
+# Clitopilus albogriseus Peck SPECIES
 
 #### Status
 ACCEPTED

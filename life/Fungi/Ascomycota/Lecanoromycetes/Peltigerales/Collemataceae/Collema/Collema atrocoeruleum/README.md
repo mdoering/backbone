@@ -1,5 +1,4 @@
-Collema atrocoeruleum Rabenh. SPECIES
-=======
+# Collema atrocoeruleum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

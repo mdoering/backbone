@@ -1,5 +1,4 @@
-Dicaeoma phakopsoroides (Arthur & Mains) Arthur & Fromme SPECIES
-=======
+# Dicaeoma phakopsoroides (Arthur & Mains) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Discorbina erecta Sidebottom, 1908 SPECIES
-=======
+# Conorbella erecta (Sidebottom, 1908) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

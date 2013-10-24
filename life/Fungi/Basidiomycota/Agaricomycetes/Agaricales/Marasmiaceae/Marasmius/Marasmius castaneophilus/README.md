@@ -1,5 +1,4 @@
-Marasmius castaneophilus Isiloglu, Alli, Solak & Watling SPECIES
-=======
+# Marasmius castaneophilus Isiloglu, Alli, Solak & Watling SPECIES
 
 #### Status
 ACCEPTED

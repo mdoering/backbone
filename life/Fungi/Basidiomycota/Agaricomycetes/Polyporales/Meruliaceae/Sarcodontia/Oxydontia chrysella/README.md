@@ -1,5 +1,4 @@
-Oxydontia chrysella (Berk. & M.A. Curtis) S. Ito SPECIES
-=======
+# Oxydontia chrysella (Berk. & M.A. Curtis) S. Ito SPECIES
 
 #### Status
 ACCEPTED

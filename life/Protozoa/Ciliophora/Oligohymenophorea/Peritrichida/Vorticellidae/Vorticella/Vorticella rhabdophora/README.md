@@ -1,5 +1,4 @@
-Vorticella rhabdophora Stokes, 1885 SPECIES
-=======
+# Vorticella rhabdophora Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

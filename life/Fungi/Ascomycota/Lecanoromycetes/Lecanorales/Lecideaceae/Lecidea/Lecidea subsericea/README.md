@@ -1,5 +1,4 @@
-Lecidea subsericea Zahlbr. SPECIES
-=======
+# Lecidea subsericea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum confluens Nees SPECIES
-=======
+# Coryneum confluens Nees SPECIES
 
 #### Status
 ACCEPTED

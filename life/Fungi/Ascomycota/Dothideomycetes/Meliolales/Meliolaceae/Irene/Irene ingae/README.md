@@ -1,5 +1,4 @@
-Irene ingae F. Stevens & Tehon SPECIES
-=======
+# Irene ingae F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

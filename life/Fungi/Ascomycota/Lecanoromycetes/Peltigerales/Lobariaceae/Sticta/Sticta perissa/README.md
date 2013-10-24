@@ -1,5 +1,4 @@
-Sticta perissa Stirt. SPECIES
-=======
+# Sticta perissa Stirt. SPECIES
 
 #### Status
 ACCEPTED

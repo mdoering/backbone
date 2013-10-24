@@ -1,5 +1,4 @@
-Thecadiniopsis tasmanica Croome, Hallegr. & P.A. Tyler SPECIES
-=======
+# Thecadiniopsis tasmanica Croome, Hallegr. & P.A. Tyler SPECIES
 
 #### Status
 ACCEPTED

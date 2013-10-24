@@ -1,5 +1,4 @@
-Puccinia straminea Dietel SPECIES
-=======
+# Puccinia straminea Dietel SPECIES
 
 #### Status
 ACCEPTED

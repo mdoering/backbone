@@ -1,5 +1,4 @@
-Lichina rosulans Henssen SPECIES
-=======
+# Lichina rosulans Henssen SPECIES
 
 #### Status
 ACCEPTED

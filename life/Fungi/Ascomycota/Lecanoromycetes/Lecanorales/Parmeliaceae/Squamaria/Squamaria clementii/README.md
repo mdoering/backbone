@@ -1,5 +1,4 @@
-Squamaria clementii SPECIES
-=======
+# Squamaria clementii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia rufidula (Hue) D. Hawksw., R. Sant. & Øvstedal SPECIES
-=======
+# Arthonia rufidula (Hue) D. Hawksw., R. Sant. & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

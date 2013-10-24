@@ -1,5 +1,4 @@
-Taphrina struthiopteridis Siemaszko SPECIES
-=======
+# Taphrina struthiopteridis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

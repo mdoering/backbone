@@ -1,5 +1,4 @@
-Pilatia minima Velen. SPECIES
-=======
+# Pilatia minima Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella (Kütz.) de Brebisson GENUS
-=======
+# Cyclotella (Kütz.) de Brebisson GENUS
 
 #### Status
 ACCEPTED

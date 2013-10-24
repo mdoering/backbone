@@ -1,5 +1,4 @@
-Parmeliella arctophila (Th. Fr.) Malme SPECIES
-=======
+# Parmeliella arctophila (Th. Fr.) Malme SPECIES
 
 #### Status
 ACCEPTED

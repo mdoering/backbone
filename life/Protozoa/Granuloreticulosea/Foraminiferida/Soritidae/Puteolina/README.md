@@ -1,5 +1,4 @@
-Puteolina Hofker, 1952 GENUS
-=======
+# Puteolina Hofker, 1952 GENUS
 
 #### Status
 ACCEPTED

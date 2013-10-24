@@ -1,5 +1,4 @@
-Hydnum versipella SPECIES
-=======
+# Hydnum versipella SPECIES
 
 #### Status
 ACCEPTED

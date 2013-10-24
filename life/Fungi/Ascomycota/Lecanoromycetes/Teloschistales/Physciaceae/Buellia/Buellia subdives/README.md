@@ -1,5 +1,4 @@
-Buellia subdives var. subdives VARIETY
-=======
+# Buellia subdives Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia subdives var. subdives
+Buellia subdives Vain.
 
 ### Remarks
 null

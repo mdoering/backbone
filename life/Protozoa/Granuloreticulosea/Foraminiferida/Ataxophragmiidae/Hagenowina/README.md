@@ -1,5 +1,4 @@
-Hagenowina Loeblich & Tappan, 1961 GENUS
-=======
+# Hagenowina Loeblich & Tappan, 1961 GENUS
 
 #### Status
 ACCEPTED

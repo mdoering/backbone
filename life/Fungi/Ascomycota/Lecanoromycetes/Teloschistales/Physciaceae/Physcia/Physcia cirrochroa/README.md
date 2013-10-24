@@ -1,5 +1,4 @@
-Physcia cirrochroa f. cirrochroa FORM
-=======
+# Physcia cirrochroa SPECIES
 
 #### Status
 ACCEPTED

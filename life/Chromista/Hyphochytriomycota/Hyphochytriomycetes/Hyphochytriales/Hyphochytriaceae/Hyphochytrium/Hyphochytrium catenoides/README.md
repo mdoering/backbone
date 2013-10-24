@@ -1,5 +1,4 @@
-Hyphochytrium catenoides Karling, 1939 SPECIES
-=======
+# Hyphochytrium catenoides Karling, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium fieberi Bonord. SPECIES
-=======
+# Penicillium fieberi Bonord. SPECIES
 
 #### Status
 ACCEPTED

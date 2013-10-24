@@ -1,5 +1,4 @@
-Teichospora mate (Speg.) Sacc. & Trotter SPECIES
-=======
+# Teichospora mate (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

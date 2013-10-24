@@ -1,5 +1,4 @@
-Phoma daviesiae Cooke & Massee SPECIES
-=======
+# Phoma daviesiae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

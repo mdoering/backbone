@@ -1,17 +1,16 @@
-Peziza cochleata alutacea (Pers.) Fr., 1822 INFRASPECIFIC_NAME
-=======
+# Otidea alutacea (Pers.) Massee, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Fungus Flora. Agarics and Boleti (London) 4: 446 (1895)
 
 #### Original name
-null
+Peziza alutacea Pers., 1801
 
 ### Remarks
 null

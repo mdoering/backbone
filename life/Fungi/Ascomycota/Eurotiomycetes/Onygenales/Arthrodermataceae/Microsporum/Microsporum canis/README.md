@@ -1,5 +1,4 @@
-Microsporum canis var. canis VARIETY
-=======
+# Microsporum canis E. Bodin ex Guég. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Les Champignons parasites de l'homme et des animaux domestiques 137 (1902)
 
 #### Original name
-Microsporum canis var. canis
+Microsporum canis E. Bodin ex Guég.
 
 ### Remarks
 null

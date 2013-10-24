@@ -1,5 +1,4 @@
-Lecanora caesioalbicans Zahlbr. SPECIES
-=======
+# Lecanora caesioalbicans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

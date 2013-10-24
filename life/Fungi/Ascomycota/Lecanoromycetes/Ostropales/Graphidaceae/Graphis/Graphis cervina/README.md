@@ -1,5 +1,4 @@
-Graphis cervina Müll. Arg. SPECIES
-=======
+# Graphis cervina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

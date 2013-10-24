@@ -1,5 +1,4 @@
-Mollisia tenella Cooke & Ellis SPECIES
-=======
+# Mollisia tenella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

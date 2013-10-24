@@ -1,5 +1,4 @@
-Ovularia alismatis Pass. SPECIES
-=======
+# Ovularia alismatis Pass. SPECIES
 
 #### Status
 ACCEPTED

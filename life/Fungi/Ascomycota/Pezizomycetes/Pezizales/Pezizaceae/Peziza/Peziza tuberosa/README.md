@@ -1,17 +1,16 @@
-Peziza tuberosa var. tuberosa VARIETY
-=======
+# Peziza tuberosa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Herb. Fr. tab. 485, fig. 2-3 (1790)
+null
 
 #### Original name
-Peziza tuberosa var. tuberosa
+null
 
 ### Remarks
 null

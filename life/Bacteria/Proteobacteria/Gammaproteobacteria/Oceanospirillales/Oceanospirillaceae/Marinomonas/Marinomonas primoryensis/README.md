@@ -1,5 +1,4 @@
-Marinomonas primoryensis Romanenko et al., 2003 SPECIES
-=======
+# Marinomonas primoryensis Romanenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

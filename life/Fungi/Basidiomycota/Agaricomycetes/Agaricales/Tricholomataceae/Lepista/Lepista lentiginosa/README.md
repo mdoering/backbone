@@ -1,5 +1,4 @@
-Lepista lentiginosa Maire SPECIES
-=======
+# Lepista lentiginosa Maire SPECIES
 
 #### Status
 ACCEPTED

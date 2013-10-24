@@ -1,5 +1,4 @@
-Cyrtentactinia Foreman, 1963 GENUS
-=======
+# Cyrtentactinia Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

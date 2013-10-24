@@ -1,5 +1,4 @@
-Leucocoprinus violaceus Heinem. SPECIES
-=======
+# Leucocoprinus violaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

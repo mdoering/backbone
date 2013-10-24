@@ -1,5 +1,4 @@
-Meliola henningsii Beeli SPECIES
-=======
+# Meliola henningsii Beeli SPECIES
 
 #### Status
 ACCEPTED

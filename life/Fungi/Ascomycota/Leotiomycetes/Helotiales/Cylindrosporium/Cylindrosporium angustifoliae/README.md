@@ -1,5 +1,4 @@
-Cylindrosporium angustifoliae Ellis & Kellerm. SPECIES
-=======
+# Cylindrosporium angustifoliae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

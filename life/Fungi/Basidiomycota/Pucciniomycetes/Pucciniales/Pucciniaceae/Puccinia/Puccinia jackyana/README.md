@@ -1,5 +1,4 @@
-Puccinia jackyana Gäum. SPECIES
-=======
+# Puccinia jackyana Gäum. SPECIES
 
 #### Status
 ACCEPTED

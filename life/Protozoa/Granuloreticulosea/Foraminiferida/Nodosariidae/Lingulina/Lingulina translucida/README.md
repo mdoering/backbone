@@ -1,5 +1,4 @@
-Lingulina translucida Heron-Allen & Earland, 1932 SPECIES
-=======
+# Lingulina translucida Heron-Allen & Earland, 1932 SPECIES
 
 #### Status
 ACCEPTED

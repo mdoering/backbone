@@ -1,5 +1,4 @@
-Mechercharimyces Matsuo et al., 2006 GENUS
-=======
+# Mechercharimyces Matsuo et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria buellioides f. buellioides FORM
-=======
+# Verrucaria buellioides Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria buellioides f. buellioides
+Verrucaria buellioides Servít
 
 ### Remarks
 null

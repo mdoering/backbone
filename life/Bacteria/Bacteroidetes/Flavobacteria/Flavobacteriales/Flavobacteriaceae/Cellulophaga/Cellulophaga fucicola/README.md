@@ -1,5 +1,4 @@
-Cellulophaga fucicola Johansen et al., 1999 SPECIES
-=======
+# Cellulophaga fucicola Johansen et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

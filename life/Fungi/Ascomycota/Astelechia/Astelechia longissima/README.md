@@ -1,5 +1,4 @@
-Astelechia longissima Cif., 1962 SPECIES
-=======
+# Astelechia longissima Cif., 1962 SPECIES
 
 #### Status
 ACCEPTED

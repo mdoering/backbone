@@ -1,5 +1,4 @@
-Baltisphaeridium jansonii Pocock, 1972 SPECIES
-=======
+# Baltisphaeridium jansonii Pocock, 1972 SPECIES
 
 #### Status
 ACCEPTED

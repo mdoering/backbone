@@ -1,5 +1,4 @@
-Trichofusarium GENUS
-=======
+# Trichofusarium GENUS
 
 #### Status
 ACCEPTED

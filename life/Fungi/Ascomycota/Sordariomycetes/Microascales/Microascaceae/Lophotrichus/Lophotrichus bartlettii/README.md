@@ -1,14 +1,13 @@
-Kernia bartlettii (Massee & E.S. Salmon) R.K. Benj., 1956 SPECIES
-=======
+# Lophotrichus bartlettii (Massee & E.S. Salmon) Malloch & Cain, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aliso 3: 344 (1956)
+Can. J. Bot. 49(6): 866 (1971)
 
 #### Original name
 Magnusia bartlettii Massee & E.S. Salmon, 1901

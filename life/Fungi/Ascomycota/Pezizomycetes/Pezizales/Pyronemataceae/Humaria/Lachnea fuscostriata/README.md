@@ -1,5 +1,4 @@
-Lachnea fuscostriata Rehm SPECIES
-=======
+# Lachnea fuscostriata Rehm SPECIES
 
 #### Status
 ACCEPTED

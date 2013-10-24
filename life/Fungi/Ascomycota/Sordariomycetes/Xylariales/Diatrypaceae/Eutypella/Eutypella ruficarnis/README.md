@@ -1,5 +1,4 @@
-Eutypella ruficarnis (Berk. & M.A. Curtis) Rappaz SPECIES
-=======
+# Eutypella ruficarnis (Berk. & M.A. Curtis) Rappaz SPECIES
 
 #### Status
 ACCEPTED

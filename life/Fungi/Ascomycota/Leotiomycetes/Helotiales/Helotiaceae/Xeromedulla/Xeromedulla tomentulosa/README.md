@@ -1,5 +1,4 @@
-Xeromedulla tomentulosa W.Y. Zhuang & Korf SPECIES
-=======
+# Xeromedulla tomentulosa W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

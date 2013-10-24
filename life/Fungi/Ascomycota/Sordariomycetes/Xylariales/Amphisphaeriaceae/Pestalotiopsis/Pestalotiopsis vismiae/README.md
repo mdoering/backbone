@@ -1,5 +1,4 @@
-Pestalotiopsis vismiae (Petr.) J. Xiang Zhang & T. Xu SPECIES
-=======
+# Pestalotiopsis vismiae (Petr.) J. Xiang Zhang & T. Xu SPECIES
 
 #### Status
 ACCEPTED

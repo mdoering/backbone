@@ -1,5 +1,4 @@
-Farinaria sparsa Sowerby SPECIES
-=======
+# Farinaria sparsa Sowerby SPECIES
 
 #### Status
 ACCEPTED

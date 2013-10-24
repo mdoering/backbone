@@ -1,5 +1,4 @@
-Pinacisca GENUS
-=======
+# Pinacisca GENUS
 
 #### Status
 ACCEPTED

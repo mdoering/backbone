@@ -1,5 +1,4 @@
-Terriera longissima P.R. Johnst., 2001 SPECIES
-=======
+# Terriera longissima P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

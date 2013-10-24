@@ -1,14 +1,13 @@
-Sarcoscypha coccinea var. jurana Boud., 1903 VARIETY
-=======
+# Sarcoscypha jurana (Boud.) Baral, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Mykol. 50(1): 122 (1984)
 
 #### Original name
 Sarcoscypha coccinea var. jurana Boud., 1903

@@ -1,5 +1,4 @@
-Xylaria tanganyikaensis (Dennis) D. Hawksw. SPECIES
-=======
+# Xylaria tanganyikaensis (Dennis) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

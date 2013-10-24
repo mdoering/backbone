@@ -1,8 +1,7 @@
-Dasyscypha nardi (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus nardi (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

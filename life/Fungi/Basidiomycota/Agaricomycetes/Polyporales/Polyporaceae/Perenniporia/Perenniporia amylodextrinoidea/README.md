@@ -1,5 +1,4 @@
-Perenniporia amylodextrinoidea Gilb. & Ryvarden, 1987 SPECIES
-=======
+# Perenniporia amylodextrinoidea Gilb. & Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

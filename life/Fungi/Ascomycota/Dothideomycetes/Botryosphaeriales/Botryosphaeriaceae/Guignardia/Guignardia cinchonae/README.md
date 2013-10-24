@@ -1,5 +1,4 @@
-Guignardia cinchonae Vincens SPECIES
-=======
+# Guignardia cinchonae Vincens SPECIES
 
 #### Status
 ACCEPTED

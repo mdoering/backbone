@@ -1,5 +1,4 @@
-Hendersonia holoschoeni (Mont.) Petr. SPECIES
-=======
+# Hendersonia holoschoeni (Mont.) Petr. SPECIES
 
 #### Status
 ACCEPTED

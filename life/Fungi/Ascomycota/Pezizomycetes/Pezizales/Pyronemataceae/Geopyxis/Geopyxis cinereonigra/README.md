@@ -1,5 +1,4 @@
-Geopyxis cinereonigra (Berk. & Broome) Sacc. SPECIES
-=======
+# Geopyxis cinereonigra (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

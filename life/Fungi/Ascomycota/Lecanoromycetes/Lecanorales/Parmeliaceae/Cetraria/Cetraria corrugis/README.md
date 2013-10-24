@@ -1,5 +1,4 @@
-Cetraria corrugis Fr. SPECIES
-=======
+# Cetraria corrugis Fr. SPECIES
 
 #### Status
 ACCEPTED

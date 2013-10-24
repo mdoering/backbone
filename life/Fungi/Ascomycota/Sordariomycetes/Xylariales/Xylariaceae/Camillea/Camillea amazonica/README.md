@@ -1,5 +1,4 @@
-Camillea amazonica Laessøe, J.D. Rogers & Whalley SPECIES
-=======
+# Camillea amazonica Laessøe, J.D. Rogers & Whalley SPECIES
 
 #### Status
 ACCEPTED

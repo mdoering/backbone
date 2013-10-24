@@ -1,17 +1,16 @@
-Achlya racemosa var. lignicola (Hildebr.) Coker VARIETY
-=======
+# Achlya racemosa Hildebr., 1867 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Saprolegniaceae with notes on other water molds 107 (1923)
+Pringsheims Jahrb. f. Wissenschaftl. Botanik 6: 61 (1867)
 
 #### Original name
-Achlya lignicola Hildebr.
+Achlya racemosa Hildebr., 1867
 
 ### Remarks
 null

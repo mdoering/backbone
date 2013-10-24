@@ -1,5 +1,4 @@
-Boidinia propinqua (H.S. Jacks. & Dearden) Hjortstam & Ryvarden SPECIES
-=======
+# Boidinia propinqua (H.S. Jacks. & Dearden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

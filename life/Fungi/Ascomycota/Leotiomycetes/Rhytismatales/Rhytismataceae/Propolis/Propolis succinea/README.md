@@ -1,5 +1,4 @@
-Propolis succinea Sacc. SPECIES
-=======
+# Propolis succinea Sacc. SPECIES
 
 #### Status
 ACCEPTED

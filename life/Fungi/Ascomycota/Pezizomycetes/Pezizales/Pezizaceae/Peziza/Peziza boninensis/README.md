@@ -1,5 +1,4 @@
-Peziza boninensis Berk. & M.A. Curtis SPECIES
-=======
+# Peziza boninensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

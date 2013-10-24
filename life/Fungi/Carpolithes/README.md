@@ -1,17 +1,16 @@
-Carpolites GENUS
-=======
+# Carpolithes Brongn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Carpolithes Brongn.
 
 ### Remarks
 null

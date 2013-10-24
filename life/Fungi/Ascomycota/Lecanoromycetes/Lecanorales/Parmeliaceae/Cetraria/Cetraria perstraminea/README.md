@@ -1,5 +1,4 @@
-Cetraria perstraminea Zahlbr. SPECIES
-=======
+# Cetraria perstraminea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

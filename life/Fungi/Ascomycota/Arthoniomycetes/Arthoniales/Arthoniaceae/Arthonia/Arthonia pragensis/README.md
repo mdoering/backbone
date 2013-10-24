@@ -1,5 +1,4 @@
-Arthonia pragensis Horáková SPECIES
-=======
+# Arthonia pragensis Horáková SPECIES
 
 #### Status
 ACCEPTED

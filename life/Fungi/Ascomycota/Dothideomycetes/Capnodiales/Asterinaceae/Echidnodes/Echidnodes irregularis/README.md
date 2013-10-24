@@ -1,5 +1,4 @@
-Echidnodes irregularis (Syd.) Hansf. SPECIES
-=======
+# Echidnodes irregularis (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

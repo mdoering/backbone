@@ -1,5 +1,4 @@
-Mycena hypnorum Hongo SPECIES
-=======
+# Mycena hypnorum Hongo SPECIES
 
 #### Status
 ACCEPTED

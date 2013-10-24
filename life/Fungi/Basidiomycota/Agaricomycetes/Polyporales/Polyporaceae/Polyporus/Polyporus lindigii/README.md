@@ -1,5 +1,4 @@
-Polyporus lindigii Lév. SPECIES
-=======
+# Polyporus lindigii Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paravalsa Ananthap. GENUS
-=======
+# Paravalsa Ananthap. GENUS
 
 #### Status
 ACCEPTED

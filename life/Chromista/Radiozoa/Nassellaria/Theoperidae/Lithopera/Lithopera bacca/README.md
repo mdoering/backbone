@@ -1,5 +1,4 @@
-Lithopera bacca Ehrenberg, 1872 SPECIES
-=======
+# Lithopera bacca Ehrenberg, 1872 SPECIES
 
 #### Status
 ACCEPTED

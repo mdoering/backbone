@@ -1,5 +1,4 @@
-Uredo obovata (Arthur) Cummins SPECIES
-=======
+# Uredo obovata (Arthur) Cummins SPECIES
 
 #### Status
 ACCEPTED

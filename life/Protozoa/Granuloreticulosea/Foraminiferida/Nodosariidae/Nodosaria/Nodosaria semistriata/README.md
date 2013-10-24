@@ -1,5 +1,4 @@
-Nodosaria semistriata d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria semistriata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe submicrospora Velen. SPECIES
-=======
+# Inocybe submicrospora Velen. SPECIES
 
 #### Status
 ACCEPTED

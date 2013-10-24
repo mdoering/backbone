@@ -1,5 +1,4 @@
-Nitrospirales ORDER
-=======
+# Nitrospirales ORDER
 
 #### Status
 ACCEPTED

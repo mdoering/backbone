@@ -1,5 +1,4 @@
-Usnea distensa Stirt. SPECIES
-=======
+# Usnea distensa Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria cynodontis-dactyli Marchal & Steyaert SPECIES
-=======
+# Leptosphaeria cynodontis-dactyli Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

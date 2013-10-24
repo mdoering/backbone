@@ -1,5 +1,4 @@
-Placosphaeria (De Notaris) Saccardo, 1880 GENUS
-=======
+# Placosphaeria (De Notaris) Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

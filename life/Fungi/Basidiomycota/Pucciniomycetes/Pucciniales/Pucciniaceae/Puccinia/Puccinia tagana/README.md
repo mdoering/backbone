@@ -1,5 +1,4 @@
-Puccinia tagana Maire SPECIES
-=======
+# Puccinia tagana Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius mystagogi Carteret & Reumaux SPECIES
-=======
+# Cortinarius mystagogi Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

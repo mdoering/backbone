@@ -1,5 +1,4 @@
-Sinosphaeria bambusicola J.Z. Yue & O.E. Erikss. SPECIES
-=======
+# Sinosphaeria bambusicola J.Z. Yue & O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

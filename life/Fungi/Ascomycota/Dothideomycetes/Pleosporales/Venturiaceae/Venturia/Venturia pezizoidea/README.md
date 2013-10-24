@@ -1,5 +1,4 @@
-Venturia pezizoidea Sacc. & Ellis SPECIES
-=======
+# Venturia pezizoidea Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alphitomorpha GENUS
-=======
+# Alphitomorpha GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasystictella epitrema (Cooke) Höhn. SPECIES
-=======
+# Dasystictella epitrema (Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

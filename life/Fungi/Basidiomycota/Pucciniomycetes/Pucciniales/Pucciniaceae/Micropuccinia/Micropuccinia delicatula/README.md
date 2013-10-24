@@ -1,5 +1,4 @@
-Micropuccinia delicatula (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia delicatula (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

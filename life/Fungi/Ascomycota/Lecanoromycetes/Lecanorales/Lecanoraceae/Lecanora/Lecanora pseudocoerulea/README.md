@@ -1,5 +1,4 @@
-Lecanora pseudocoerulea Zahlbr. SPECIES
-=======
+# Lecanora pseudocoerulea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

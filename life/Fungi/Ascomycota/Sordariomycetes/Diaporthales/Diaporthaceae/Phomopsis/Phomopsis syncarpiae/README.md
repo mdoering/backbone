@@ -1,5 +1,4 @@
-Phomopsis syncarpiae Gutner SPECIES
-=======
+# Phomopsis syncarpiae Gutner SPECIES
 
 #### Status
 ACCEPTED

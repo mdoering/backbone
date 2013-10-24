@@ -1,5 +1,4 @@
-Bartalinia lateripes (Ellis & Everh.) Nag Raj SPECIES
-=======
+# Bartalinia lateripes (Ellis & Everh.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

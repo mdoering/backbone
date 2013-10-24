@@ -1,5 +1,4 @@
-Ethmosphaerella Haeckel, 1887 GENUS
-=======
+# Ethmosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

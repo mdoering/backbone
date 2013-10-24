@@ -1,5 +1,4 @@
-Hypholoma solitarium Rick SPECIES
-=======
+# Hypholoma solitarium Rick SPECIES
 
 #### Status
 ACCEPTED

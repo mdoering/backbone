@@ -1,5 +1,4 @@
-Metasphaeria primulicola Pat. SPECIES
-=======
+# Metasphaeria primulicola Pat. SPECIES
 
 #### Status
 ACCEPTED

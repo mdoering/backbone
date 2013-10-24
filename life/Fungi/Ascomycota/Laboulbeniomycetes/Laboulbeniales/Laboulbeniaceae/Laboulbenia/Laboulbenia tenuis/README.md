@@ -1,5 +1,4 @@
-Laboulbenia tenuis Thaxt. SPECIES
-=======
+# Laboulbenia tenuis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

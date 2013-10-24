@@ -1,5 +1,4 @@
-Cordyceps crinalis Ellis ex Lloyd SPECIES
-=======
+# Cordyceps crinalis Ellis ex Lloyd SPECIES
 
 #### Status
 ACCEPTED

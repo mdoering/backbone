@@ -1,17 +1,16 @@
-Verticillium marquandi Massee SPECIES
-=======
+# Paecilomyces marquandii (Massee) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 45: 30 (1951)
 
 #### Original name
-Verticillium marquandi Massee
+Verticillium marquandii Massee, 1898
 
 ### Remarks
 null

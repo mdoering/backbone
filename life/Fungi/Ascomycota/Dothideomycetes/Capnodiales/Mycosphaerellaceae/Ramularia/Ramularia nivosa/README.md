@@ -1,5 +1,4 @@
-Ramularia nivosa (Ellis & Everh.) W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Ramularia nivosa (Ellis & Everh.) W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

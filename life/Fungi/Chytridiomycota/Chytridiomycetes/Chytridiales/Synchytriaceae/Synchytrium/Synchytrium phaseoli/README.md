@@ -1,5 +1,4 @@
-Synchytrium phaseoli W. Weston SPECIES
-=======
+# Synchytrium phaseoli W. Weston SPECIES
 
 #### Status
 ACCEPTED

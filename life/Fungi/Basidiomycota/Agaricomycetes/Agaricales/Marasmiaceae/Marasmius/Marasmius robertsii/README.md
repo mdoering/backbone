@@ -1,5 +1,4 @@
-Marasmius robertsii Antonín SPECIES
-=======
+# Marasmius robertsii Antonín SPECIES
 
 #### Status
 ACCEPTED

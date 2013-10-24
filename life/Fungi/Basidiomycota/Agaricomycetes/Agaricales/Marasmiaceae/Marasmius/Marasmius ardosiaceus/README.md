@@ -1,5 +1,4 @@
-Marasmius ardosiaceus Mont. SPECIES
-=======
+# Marasmius ardosiaceus Mont. SPECIES
 
 #### Status
 ACCEPTED

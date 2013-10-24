@@ -1,5 +1,4 @@
-Hemicyphe trigemina Spring SPECIES
-=======
+# Hemicyphe trigemina Spring SPECIES
 
 #### Status
 ACCEPTED

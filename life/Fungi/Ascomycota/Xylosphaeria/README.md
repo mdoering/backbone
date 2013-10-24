@@ -1,5 +1,4 @@
-Xylosphaeria Cooke, 1879 GENUS
-=======
+# Xylosphaeria Cooke, 1879 GENUS
 
 #### Status
 ACCEPTED

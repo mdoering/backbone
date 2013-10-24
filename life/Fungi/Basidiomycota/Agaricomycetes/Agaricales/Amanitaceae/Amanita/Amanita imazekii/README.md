@@ -1,5 +1,4 @@
-Amanita imazekii T. Oda, C. Tanaka & Tsuda SPECIES
-=======
+# Amanita imazekii T. Oda, C. Tanaka & Tsuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrella caricis Dearn. & Barthol. SPECIES
-=======
+# Leptothyrella caricis Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

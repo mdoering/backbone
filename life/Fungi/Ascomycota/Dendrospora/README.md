@@ -1,5 +1,4 @@
-Dendrospora Ingold GENUS
-=======
+# Dendrospora Ingold GENUS
 
 #### Status
 ACCEPTED

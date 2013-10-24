@@ -1,17 +1,16 @@
-Xerocomus badius f. badius FORM
-=======
+# Boletus badius (Fr.) Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Am. phil. Soc. 2(4): 155 (1832)
 
 #### Original name
-Xerocomus badius f. badius
+Boletus castaneus Bull., 1788
 
 ### Remarks
 null

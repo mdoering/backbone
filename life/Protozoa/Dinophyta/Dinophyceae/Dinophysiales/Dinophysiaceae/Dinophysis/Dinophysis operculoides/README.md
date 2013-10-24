@@ -1,5 +1,4 @@
-Dinophysis operculoides (Schütt) Balech SPECIES
-=======
+# Dinophysis operculoides (Schütt) Balech SPECIES
 
 #### Status
 ACCEPTED

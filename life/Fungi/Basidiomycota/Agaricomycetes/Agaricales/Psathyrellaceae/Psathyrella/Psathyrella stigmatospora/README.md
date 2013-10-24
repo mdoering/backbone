@@ -1,5 +1,4 @@
-Psathyrella stigmatospora Clémençon SPECIES
-=======
+# Psathyrella stigmatospora Clémençon SPECIES
 
 #### Status
 ACCEPTED

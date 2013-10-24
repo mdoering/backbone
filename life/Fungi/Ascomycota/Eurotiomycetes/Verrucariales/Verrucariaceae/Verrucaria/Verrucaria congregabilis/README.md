@@ -1,5 +1,4 @@
-Verrucaria congregabilis Stizenb. SPECIES
-=======
+# Verrucaria congregabilis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium pauciseptatum Vezda SPECIES
-=======
+# Trichothelium pauciseptatum Vezda SPECIES
 
 #### Status
 ACCEPTED

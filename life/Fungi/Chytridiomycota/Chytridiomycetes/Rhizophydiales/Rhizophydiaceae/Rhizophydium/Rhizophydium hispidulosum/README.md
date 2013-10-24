@@ -1,5 +1,4 @@
-Rhizophydium hispidulosum R.L. Seym. SPECIES
-=======
+# Rhizophydium hispidulosum R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

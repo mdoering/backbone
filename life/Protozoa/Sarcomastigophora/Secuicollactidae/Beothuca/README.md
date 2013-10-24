@@ -1,5 +1,4 @@
-Beothuca GENUS
-=======
+# Beothuca GENUS
 
 #### Status
 ACCEPTED

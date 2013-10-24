@@ -1,5 +1,4 @@
-Limboria cucularis Norman SPECIES
-=======
+# Limboria cucularis Norman SPECIES
 
 #### Status
 ACCEPTED

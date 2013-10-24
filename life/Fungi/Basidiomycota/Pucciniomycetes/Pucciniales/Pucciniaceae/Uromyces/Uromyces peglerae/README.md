@@ -1,5 +1,4 @@
-Uromyces peglerae var. peglerae Pole-Evans VARIETY
-=======
+# Uromyces peglerae Pole-Evans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 12(3): 263 (1914)
 
 #### Original name
-Uromyces peglerae var. peglerae Pole-Evans
+Uromyces peglerae Pole-Evans
 
 ### Remarks
 null

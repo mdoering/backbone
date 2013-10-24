@@ -1,5 +1,4 @@
-Sclerotium ligustri Savul. & Sandu SPECIES
-=======
+# Sclerotium ligustri Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

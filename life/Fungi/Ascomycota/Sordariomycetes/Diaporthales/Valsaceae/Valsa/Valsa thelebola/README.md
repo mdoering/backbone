@@ -1,5 +1,4 @@
-Valsa thelebola (Fr.) SPECIES
-=======
+# Valsa thelebola (Fr.) SPECIES
 
 #### Status
 ACCEPTED

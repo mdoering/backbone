@@ -1,5 +1,4 @@
-Lentinus haematopus Berk. SPECIES
-=======
+# Lentinus haematopus Berk. SPECIES
 
 #### Status
 ACCEPTED

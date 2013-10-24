@@ -1,5 +1,4 @@
-Thelotrema conglomeratum (Hale) Hale SPECIES
-=======
+# Thelotrema conglomeratum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

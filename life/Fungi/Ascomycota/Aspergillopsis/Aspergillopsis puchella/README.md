@@ -1,5 +1,4 @@
-Aspergillopsis puchella Speg. SPECIES
-=======
+# Aspergillopsis puchella Speg. SPECIES
 
 #### Status
 ACCEPTED

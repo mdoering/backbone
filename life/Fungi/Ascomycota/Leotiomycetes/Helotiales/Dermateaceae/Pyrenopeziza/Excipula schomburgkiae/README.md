@@ -1,5 +1,4 @@
-Excipula schomburgkiae Henn. SPECIES
-=======
+# Excipula schomburgkiae Henn. SPECIES
 
 #### Status
 ACCEPTED

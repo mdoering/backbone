@@ -1,5 +1,4 @@
-Poria subhexagonoides Rick SPECIES
-=======
+# Poria subhexagonoides Rick SPECIES
 
 #### Status
 ACCEPTED

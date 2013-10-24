@@ -1,5 +1,4 @@
-Helosphaeridium varispinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Helosphaeridium varispinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria foraminula Pers. SPECIES
-=======
+# Sphaeria foraminula Pers. SPECIES
 
 #### Status
 ACCEPTED

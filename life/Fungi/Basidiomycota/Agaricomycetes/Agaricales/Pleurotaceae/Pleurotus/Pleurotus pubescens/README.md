@@ -1,5 +1,4 @@
-Pleurotus pubescens f. pubescens FORM
-=======
+# Pleurotus pubescens Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. 44: 18 (1891)
 
 #### Original name
-Pleurotus pubescens f. pubescens
+Pleurotus pubescens Peck
 
 ### Remarks
 null

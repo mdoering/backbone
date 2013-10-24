@@ -1,5 +1,4 @@
-Coryneum feijoae Nann. SPECIES
-=======
+# Coryneum feijoae Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Newlandia Walcott GENUS
-=======
+# Newlandia Walcott GENUS
 
 #### Status
 ACCEPTED

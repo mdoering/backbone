@@ -1,5 +1,4 @@
-Lecanora pachnea SPECIES
-=======
+# Lecanora pachnea SPECIES
 
 #### Status
 ACCEPTED

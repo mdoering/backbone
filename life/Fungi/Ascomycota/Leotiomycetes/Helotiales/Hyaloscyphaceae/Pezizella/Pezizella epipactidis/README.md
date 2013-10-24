@@ -1,5 +1,4 @@
-Pezizella epipactidis Velen. SPECIES
-=======
+# Pezizella epipactidis Velen. SPECIES
 
 #### Status
 ACCEPTED

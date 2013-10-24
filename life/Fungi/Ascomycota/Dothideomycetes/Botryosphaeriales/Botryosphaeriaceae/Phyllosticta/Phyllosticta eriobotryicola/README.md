@@ -1,5 +1,4 @@
-Phyllosticta eriobotryicola Sawada SPECIES
-=======
+# Phyllosticta eriobotryicola Sawada SPECIES
 
 #### Status
 ACCEPTED

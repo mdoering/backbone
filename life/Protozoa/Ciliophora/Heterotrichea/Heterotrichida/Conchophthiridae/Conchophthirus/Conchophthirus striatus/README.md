@@ -1,5 +1,4 @@
-Conchophthirus striatus Yagiu, 1934 SPECIES
-=======
+# Conchophthirus striatus Yagiu, 1934 SPECIES
 
 #### Status
 ACCEPTED

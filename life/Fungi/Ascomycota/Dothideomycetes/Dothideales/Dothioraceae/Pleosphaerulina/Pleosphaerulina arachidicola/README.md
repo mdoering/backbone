@@ -1,5 +1,4 @@
-Pleosphaerulina arachidicola Khokhr. SPECIES
-=======
+# Pleosphaerulina arachidicola Khokhr. SPECIES
 
 #### Status
 ACCEPTED

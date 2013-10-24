@@ -1,5 +1,4 @@
-Calocybe incarnatobrunneum (Ew. Gerhardt) Krieglst. SPECIES
-=======
+# Calocybe incarnatobrunneum (Ew. Gerhardt) Krieglst. SPECIES
 
 #### Status
 ACCEPTED

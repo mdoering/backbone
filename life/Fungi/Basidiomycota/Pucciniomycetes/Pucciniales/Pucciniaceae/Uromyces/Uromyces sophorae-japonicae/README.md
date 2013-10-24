@@ -1,5 +1,4 @@
-Uromyces sophorae-japonicae Dietel SPECIES
-=======
+# Uromyces sophorae-japonicae Dietel SPECIES
 
 #### Status
 ACCEPTED

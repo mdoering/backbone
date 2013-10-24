@@ -1,5 +1,4 @@
-Colletotrichum coffaeophilum Spegazzini SPECIES
-=======
+# Colletotrichum coffaeophilum Spegazzini SPECIES
 
 #### Status
 ACCEPTED

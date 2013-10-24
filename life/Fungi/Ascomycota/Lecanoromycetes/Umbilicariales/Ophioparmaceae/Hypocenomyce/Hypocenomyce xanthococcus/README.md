@@ -1,5 +1,4 @@
-Hypocenomyce xanthococcus (Sommerf.) P. James & Gotth. Schneid. SPECIES
-=======
+# Hypocenomyce xanthococcus (Sommerf.) P. James & Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

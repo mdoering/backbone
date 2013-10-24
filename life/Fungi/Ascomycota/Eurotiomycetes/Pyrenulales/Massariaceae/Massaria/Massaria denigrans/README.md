@@ -1,5 +1,4 @@
-Massaria denigrans Sacc. SPECIES
-=======
+# Massaria denigrans Sacc. SPECIES
 
 #### Status
 ACCEPTED

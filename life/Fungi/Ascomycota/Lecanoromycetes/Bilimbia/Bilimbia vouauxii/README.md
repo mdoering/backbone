@@ -1,17 +1,16 @@
-Bilimbia vouauxi B. de Lesd. SPECIES
-=======
+# Bilimbia vouauxii Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 58(8): 661 (1912)
 
 #### Original name
-Bilimbia vouauxi B. de Lesd.
+Bilimbia vouauxii Gyeln.
 
 ### Remarks
 null

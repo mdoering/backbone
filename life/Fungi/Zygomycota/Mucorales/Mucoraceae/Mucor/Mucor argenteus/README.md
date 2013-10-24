@@ -1,5 +1,4 @@
-Mucor argenteus With. SPECIES
-=======
+# Mucor argenteus With. SPECIES
 
 #### Status
 ACCEPTED

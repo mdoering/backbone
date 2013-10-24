@@ -1,5 +1,4 @@
-Cercospora josensis (Syd. {?} ) Vassiljevsky SPECIES
-=======
+# Cercospora josensis (Syd. {?} ) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

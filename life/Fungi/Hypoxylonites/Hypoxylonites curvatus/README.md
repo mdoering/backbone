@@ -1,5 +1,4 @@
-Hypoxylonites curvatus (Ramanujam & K.P. Rao) Elsik SPECIES
-=======
+# Hypoxylonites curvatus (Ramanujam & K.P. Rao) Elsik SPECIES
 
 #### Status
 ACCEPTED

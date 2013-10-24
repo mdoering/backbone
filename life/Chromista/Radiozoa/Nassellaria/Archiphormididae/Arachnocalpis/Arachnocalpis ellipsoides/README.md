@@ -1,5 +1,4 @@
-Arachnocalpis ellipsoides Haeckel, 1887 SPECIES
-=======
+# Arachnocalpis ellipsoides Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

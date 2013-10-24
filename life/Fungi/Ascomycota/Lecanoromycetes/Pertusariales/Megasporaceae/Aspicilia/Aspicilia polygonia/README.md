@@ -1,5 +1,4 @@
-Aspicilia polygonia (Vill.) A. Massal. SPECIES
-=======
+# Aspicilia polygonia (Vill.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

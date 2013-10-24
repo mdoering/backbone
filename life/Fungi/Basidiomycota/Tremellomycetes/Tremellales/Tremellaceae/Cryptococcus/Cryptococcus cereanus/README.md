@@ -1,5 +1,4 @@
-Cryptococcus cereanus Phaff et al. {?} SPECIES
-=======
+# Cryptococcus cereanus Phaff et al. {?} SPECIES
 
 #### Status
 ACCEPTED

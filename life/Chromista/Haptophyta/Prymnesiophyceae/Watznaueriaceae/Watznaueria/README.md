@@ -1,14 +1,13 @@
-Margolatus S. Forchheimer, 1972 GENUS
-=======
+# Watznaueria P.Reinhardt, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sver. Geol. Unders. Afh. (C) 65 (14): 35.
+null
 
 #### Original name
 null

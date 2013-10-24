@@ -1,5 +1,4 @@
-Chaenia elongata Bütschli, 1889 SPECIES
-=======
+# Chaenia elongata Bütschli, 1889 SPECIES
 
 #### Status
 ACCEPTED

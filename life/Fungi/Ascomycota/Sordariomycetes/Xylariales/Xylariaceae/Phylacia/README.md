@@ -1,17 +1,16 @@
-Leveillea Fr. GENUS
-=======
+# Phylacia Lév. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 409 (1849)
+Annls Sci. Nat. , Bot. , sér. 3 3: 61 (1845)
 
 #### Original name
-Leveillea Fr.
+Phylacia Lév.
 
 ### Remarks
 null

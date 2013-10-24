@@ -1,5 +1,4 @@
-Scolicotrichum diplodioides (Thüm.) Sacc. SPECIES
-=======
+# Scolicotrichum diplodioides (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

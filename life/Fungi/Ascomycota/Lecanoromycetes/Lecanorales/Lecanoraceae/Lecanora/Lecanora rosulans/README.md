@@ -1,5 +1,4 @@
-Lecanora rosulans Mey. {?} & Flot. SPECIES
-=======
+# Lecanora rosulans Mey. {?} & Flot. SPECIES
 
 #### Status
 ACCEPTED

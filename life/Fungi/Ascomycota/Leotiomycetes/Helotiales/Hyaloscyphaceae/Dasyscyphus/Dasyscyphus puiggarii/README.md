@@ -1,17 +1,16 @@
-Dasyscypha puiggarii Speg. SPECIES
-=======
+# Dasyscyphus puiggarii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 23(3-4): 512 (1919)
 
 #### Original name
-Dasyscypha puiggarii Speg.
+Dasyscyphus puiggarii Speg.
 
 ### Remarks
 null

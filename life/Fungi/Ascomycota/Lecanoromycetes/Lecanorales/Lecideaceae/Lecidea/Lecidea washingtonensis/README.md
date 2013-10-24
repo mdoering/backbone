@@ -1,5 +1,4 @@
-Lecidea washingtonensis H. Magn. SPECIES
-=======
+# Lecidea washingtonensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza anemone Quél. SPECIES
-=======
+# Peziza anemone Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllactinia ehretiae D.Z. Xie SPECIES
-=======
+# Phyllactinia ehretiae D.Z. Xie SPECIES
 
 #### Status
 ACCEPTED

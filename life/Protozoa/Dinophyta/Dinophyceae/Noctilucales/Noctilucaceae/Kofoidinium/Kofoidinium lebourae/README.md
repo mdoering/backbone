@@ -1,5 +1,4 @@
-Kofoidinium lebourae (Pavillard, 1921) F.J.R. Taylor, 1976 SPECIES
-=======
+# Kofoidinium lebourae (Pavillard, 1921) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

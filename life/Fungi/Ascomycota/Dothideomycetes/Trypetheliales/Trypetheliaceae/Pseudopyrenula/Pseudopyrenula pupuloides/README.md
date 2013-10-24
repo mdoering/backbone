@@ -1,5 +1,4 @@
-Pseudopyrenula pupuloides M. Choisy SPECIES
-=======
+# Pseudopyrenula pupuloides M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria lepachidis Ellis & Everh. SPECIES
-=======
+# Septoria lepachidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

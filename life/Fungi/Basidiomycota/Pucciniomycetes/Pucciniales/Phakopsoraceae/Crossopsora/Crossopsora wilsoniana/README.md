@@ -1,5 +1,4 @@
-Crossopsora wilsoniana (Arthur) Arthur SPECIES
-=======
+# Crossopsora wilsoniana (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

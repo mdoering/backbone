@@ -1,5 +1,4 @@
-Verrucaria calkinsiana Servít SPECIES
-=======
+# Verrucaria calkinsiana Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella kenti Kahl, 1935 SPECIES
-=======
+# Vorticella kenti Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

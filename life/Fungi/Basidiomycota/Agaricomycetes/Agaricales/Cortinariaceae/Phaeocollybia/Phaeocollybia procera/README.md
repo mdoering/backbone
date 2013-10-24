@@ -1,5 +1,4 @@
-Phaeocollybia procera E. Horak SPECIES
-=======
+# Phaeocollybia procera E. Horak SPECIES
 
 #### Status
 ACCEPTED

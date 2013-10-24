@@ -1,14 +1,13 @@
-Tuburcinia primulae (Rostr.) Liro, 1922 SPECIES
-=======
+# Urocystis primulae (Rostr.) Vánky, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
+Symb. bot. upsal. 24(no. 2): 176 (1985)
 
 #### Original name
 Sorosporium primulae Rostr., 1879

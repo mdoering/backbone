@@ -1,5 +1,4 @@
-Peronospora coronopi Gäum., 1918 SPECIES
-=======
+# Peronospora coronopi Gäum., 1918 SPECIES
 
 #### Status
 ACCEPTED

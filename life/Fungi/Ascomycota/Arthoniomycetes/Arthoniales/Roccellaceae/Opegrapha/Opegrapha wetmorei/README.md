@@ -1,5 +1,4 @@
-Opegrapha wetmorei M.S. Cole & D. Hawksw. SPECIES
-=======
+# Opegrapha wetmorei M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

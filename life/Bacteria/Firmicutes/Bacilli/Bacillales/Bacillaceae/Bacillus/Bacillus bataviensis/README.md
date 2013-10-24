@@ -1,5 +1,4 @@
-Bacillus bataviensis Heyrman et al., 2004 SPECIES
-=======
+# Bacillus bataviensis Heyrman et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

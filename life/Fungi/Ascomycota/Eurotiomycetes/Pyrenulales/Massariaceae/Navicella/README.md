@@ -1,5 +1,4 @@
-Navicella Fabre, 1879 GENUS
-=======
+# Navicella Fabre, 1879 GENUS
 
 #### Status
 ACCEPTED

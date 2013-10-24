@@ -1,5 +1,4 @@
-Trichopeziza perpusilla Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Trichopeziza perpusilla Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

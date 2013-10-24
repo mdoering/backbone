@@ -1,5 +1,4 @@
-Sphaeronaema medicaginis Karimov SPECIES
-=======
+# Sphaeronaema medicaginis Karimov SPECIES
 
 #### Status
 ACCEPTED

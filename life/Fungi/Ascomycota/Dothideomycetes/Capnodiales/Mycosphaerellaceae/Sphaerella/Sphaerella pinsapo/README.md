@@ -1,5 +1,4 @@
-Sphaerella pinsapo Thüm. SPECIES
-=======
+# Sphaerella pinsapo Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium clematidis-apiifoliae Dietel SPECIES
-=======
+# Coleosporium clematidis-apiifoliae Dietel SPECIES
 
 #### Status
 ACCEPTED

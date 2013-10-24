@@ -1,5 +1,4 @@
-Scutellinia armatospora Denison, 1961 SPECIES
-=======
+# Scutellinia armatospora Denison, 1961 SPECIES
 
 #### Status
 ACCEPTED

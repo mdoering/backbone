@@ -1,5 +1,4 @@
-Siroscyphella arundinacea Petr. SPECIES
-=======
+# Siroscyphella arundinacea Petr. SPECIES
 
 #### Status
 ACCEPTED

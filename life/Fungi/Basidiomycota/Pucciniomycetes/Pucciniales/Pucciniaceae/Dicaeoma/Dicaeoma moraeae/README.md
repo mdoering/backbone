@@ -1,5 +1,4 @@
-Dicaeoma moraeae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma moraeae (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

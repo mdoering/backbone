@@ -1,5 +1,4 @@
-Pholiota deceptiva A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota deceptiva A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella roumeguerei (Cavara) Constant. SPECIES
-=======
+# Deightoniella roumeguerei (Cavara) Constant. SPECIES
 
 #### Status
 ACCEPTED

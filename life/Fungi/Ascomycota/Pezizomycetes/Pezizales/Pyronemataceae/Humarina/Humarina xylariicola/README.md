@@ -1,5 +1,4 @@
-Humarina xylariicola (Henn. & E. Nyman) Teng SPECIES
-=======
+# Humarina xylariicola (Henn. & E. Nyman) Teng SPECIES
 
 #### Status
 ACCEPTED

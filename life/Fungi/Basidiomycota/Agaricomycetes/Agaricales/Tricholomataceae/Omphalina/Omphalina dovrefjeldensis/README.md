@@ -1,5 +1,4 @@
-Omphalina dovrefjeldensis Henn. & Kirschst. SPECIES
-=======
+# Omphalina dovrefjeldensis Henn. & Kirschst. SPECIES
 
 #### Status
 ACCEPTED

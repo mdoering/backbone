@@ -1,5 +1,4 @@
-Coccocarpia domingensis Vain. SPECIES
-=======
+# Coccocarpia domingensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena obtecta Maas Geest. SPECIES
-=======
+# Mycena obtecta Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

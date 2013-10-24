@@ -1,5 +1,4 @@
-Ascochyta cardiacae Dobrov. SPECIES
-=======
+# Ascochyta cardiacae Dobrov. SPECIES
 
 #### Status
 ACCEPTED

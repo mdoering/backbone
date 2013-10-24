@@ -1,5 +1,4 @@
-Pseudocercospora musicola U. Braun SPECIES
-=======
+# Pseudocercospora musicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

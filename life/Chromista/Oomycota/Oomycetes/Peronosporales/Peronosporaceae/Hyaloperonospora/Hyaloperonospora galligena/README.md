@@ -1,14 +1,13 @@
-Peronospora galligena S. Blumer, 1946 SPECIES
-=======
+# Hyaloperonospora galligena (S. Blumer) Göker, Riethm., Voglmayr, Weiss & Oberw., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasit. Pilze Schweiz. National Park 2: 23 (1946)
+Mycol. Progr. 3(2): 89 (2004)
 
 #### Original name
 Peronospora galligena S. Blumer, 1946

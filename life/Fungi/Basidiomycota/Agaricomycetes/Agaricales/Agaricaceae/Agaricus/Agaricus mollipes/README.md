@@ -1,5 +1,4 @@
-Agaricus mollipes Pers. SPECIES
-=======
+# Agaricus mollipes Pers. SPECIES
 
 #### Status
 ACCEPTED

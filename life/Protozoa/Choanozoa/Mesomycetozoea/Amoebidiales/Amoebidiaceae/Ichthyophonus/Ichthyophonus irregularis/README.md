@@ -1,5 +1,4 @@
-Ichthyophonus irregularis T.G. Rand, K. White, Cannone, Gutell, C.A. Murphy & M.A. Ragan SPECIES
-=======
+# Ichthyophonus irregularis T.G. Rand, K. White, Cannone, Gutell, C.A. Murphy & M.A. Ragan SPECIES
 
 #### Status
 ACCEPTED

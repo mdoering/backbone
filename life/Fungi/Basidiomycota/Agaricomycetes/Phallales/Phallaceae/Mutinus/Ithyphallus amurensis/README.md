@@ -1,5 +1,4 @@
-Ithyphallus amurensis Jacz. SPECIES
-=======
+# Ithyphallus amurensis Jacz. SPECIES
 
 #### Status
 ACCEPTED

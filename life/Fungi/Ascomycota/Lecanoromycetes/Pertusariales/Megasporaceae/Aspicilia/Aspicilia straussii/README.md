@@ -1,5 +1,4 @@
-Aspicilia straussii (J. Steiner) Sohrabi SPECIES
-=======
+# Aspicilia straussii (J. Steiner) Sohrabi SPECIES
 
 #### Status
 ACCEPTED

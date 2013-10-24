@@ -1,5 +1,4 @@
-Aspidothelium cinerascens Vain., 1890 SPECIES
-=======
+# Aspidothelium cinerascens Vain., 1890 SPECIES
 
 #### Status
 ACCEPTED

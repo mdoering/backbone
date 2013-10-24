@@ -1,5 +1,4 @@
-Paenibacillus azoreducens Meehan et al., 2001 SPECIES
-=======
+# Paenibacillus azoreducens Meehan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

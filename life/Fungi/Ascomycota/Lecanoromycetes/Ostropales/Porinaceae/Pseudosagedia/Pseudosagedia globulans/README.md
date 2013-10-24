@@ -1,5 +1,4 @@
-Pseudosagedia globulans (Vain.) R. Sant. SPECIES
-=======
+# Pseudosagedia globulans (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

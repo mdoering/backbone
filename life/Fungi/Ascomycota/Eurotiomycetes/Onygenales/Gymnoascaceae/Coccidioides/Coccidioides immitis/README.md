@@ -1,5 +1,4 @@
-Coccidioides immitis G.W. Stiles, 1896 SPECIES
-=======
+# Coccidioides immitis G.W. Stiles, 1896 SPECIES
 
 #### Status
 ACCEPTED

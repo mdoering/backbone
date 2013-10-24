@@ -1,5 +1,4 @@
-Mycosphaerium Clem. GENUS
-=======
+# Mycosphaerium Clem. GENUS
 
 #### Status
 ACCEPTED

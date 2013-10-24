@@ -1,5 +1,4 @@
-Hebeloma minus Bruchet SPECIES
-=======
+# Hebeloma minus Bruchet SPECIES
 
 #### Status
 ACCEPTED

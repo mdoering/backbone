@@ -1,5 +1,4 @@
-Skeletonema mediterraneum SPECIES
-=======
+# Skeletonema mediterraneum SPECIES
 
 #### Status
 ACCEPTED

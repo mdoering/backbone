@@ -1,17 +1,16 @@
-Araiospora pulcra Thaxt. SPECIES
-=======
+# Araiospora pulchra Thaxt., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 21: 326 (1896)
 
 #### Original name
-Araiospora pulcra Thaxt.
+Araiospora pulchra Thaxt., 1896
 
 ### Remarks
 null

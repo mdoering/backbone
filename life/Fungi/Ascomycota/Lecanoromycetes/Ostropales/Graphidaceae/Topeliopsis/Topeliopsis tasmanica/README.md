@@ -1,17 +1,16 @@
-Chroodiscus australis subsp. tasmanicus Kantvilas & Vezda SUBSPECIES
-=======
+# Topeliopsis tasmanica (Kantvilas & Vezda) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 32(4): 334 (2000)
+null
 
 #### Original name
-Chroodiscus australis subsp. tasmanicus Kantvilas & Vezda
+null
 
 ### Remarks
 null

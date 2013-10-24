@@ -1,5 +1,4 @@
-Sclerotium pulveraceum Durieu & Mont. SPECIES
-=======
+# Sclerotium pulveraceum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ivanitzkiae Tranzschel SPECIES
-=======
+# Puccinia ivanitzkiae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

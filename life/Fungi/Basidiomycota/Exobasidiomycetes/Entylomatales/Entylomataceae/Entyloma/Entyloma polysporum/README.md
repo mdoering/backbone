@@ -1,5 +1,4 @@
-Entyloma polysporum (Peck) Farl. SPECIES
-=======
+# Entyloma polysporum (Peck) Farl. SPECIES
 
 #### Status
 ACCEPTED

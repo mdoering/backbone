@@ -1,5 +1,4 @@
-Polystictus exiguus Cooke SPECIES
-=======
+# Polystictus exiguus Cooke SPECIES
 
 #### Status
 ACCEPTED

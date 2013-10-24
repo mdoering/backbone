@@ -1,8 +1,7 @@
-Exuviaella marina Cienkowski SPECIES
-=======
+# Prorocentrum marinum (Cienkowski) Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

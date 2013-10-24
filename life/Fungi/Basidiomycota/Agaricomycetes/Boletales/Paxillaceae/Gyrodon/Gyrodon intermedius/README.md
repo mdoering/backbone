@@ -1,5 +1,4 @@
-Gyrodon intermedius (Pat.) Singer SPECIES
-=======
+# Gyrodon intermedius (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

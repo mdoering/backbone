@@ -1,5 +1,4 @@
-Lachnea glandulosa Gillet SPECIES
-=======
+# Lachnea glandulosa Gillet SPECIES
 
 #### Status
 ACCEPTED

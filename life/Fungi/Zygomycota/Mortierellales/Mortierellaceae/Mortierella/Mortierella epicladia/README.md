@@ -1,5 +1,4 @@
-Mortierella epicladia W. Gams & Emden, 1976 SPECIES
-=======
+# Mortierella epicladia W. Gams & Emden, 1976 SPECIES
 
 #### Status
 ACCEPTED

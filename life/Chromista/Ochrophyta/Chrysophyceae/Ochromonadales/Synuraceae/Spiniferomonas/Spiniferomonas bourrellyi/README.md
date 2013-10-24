@@ -1,5 +1,4 @@
-Spiniferomonas bourrellyi E. Takahashi SPECIES
-=======
+# Spiniferomonas bourrellyi E. Takahashi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Furculomyces Lichtw. & M.C. Williams GENUS
-=======
+# Furculomyces Lichtw. & M.C. Williams GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Discothecium Zopf GENUS
-=======
+# Endococcus Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta Acad. Caes. Leop. -Carol. German. Nat. Cur. 70: 131 (1897)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 193 (1855)
 
 #### Original name
-Discothecium Zopf
+Endococcus Nyl.
 
 ### Remarks
 null

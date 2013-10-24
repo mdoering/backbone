@@ -1,5 +1,4 @@
-Coniolaria Seigle-Mur., Guiraud, Steiman & Sage GENUS
-=======
+# Coniolaria Seigle-Mur., Guiraud, Steiman & Sage GENUS
 
 #### Status
 ACCEPTED

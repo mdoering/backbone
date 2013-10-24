@@ -1,5 +1,4 @@
-Microsporum appendiculatum Bhat & Miriam SPECIES
-=======
+# Microsporum appendiculatum Bhat & Miriam SPECIES
 
 #### Status
 ACCEPTED

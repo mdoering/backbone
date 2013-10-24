@@ -1,5 +1,4 @@
-Agonimia flabelliformis Halda, Czarnota & Guz.-Krzemin. SPECIES
-=======
+# Agonimia flabelliformis Halda, Czarnota & Guz.-Krzemin. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus argyrotectus Copel. SPECIES
-=======
+# Agaricus argyrotectus Copel. SPECIES
 
 #### Status
 ACCEPTED

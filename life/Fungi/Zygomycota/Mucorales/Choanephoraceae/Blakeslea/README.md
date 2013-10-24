@@ -1,5 +1,4 @@
-Blakeslea Thaxt. GENUS
-=======
+# Blakeslea Thaxt. GENUS
 
 #### Status
 ACCEPTED

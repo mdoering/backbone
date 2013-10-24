@@ -1,5 +1,4 @@
-Podospora tarvisina (Sacc.) J.H. Mirza & Cain SPECIES
-=======
+# Podospora tarvisina (Sacc.) J.H. Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

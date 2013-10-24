@@ -1,5 +1,4 @@
-Grilletia Renault & C.E. Bertrand GENUS
-=======
+# Grilletia Renault & C.E. Bertrand GENUS
 
 #### Status
 ACCEPTED

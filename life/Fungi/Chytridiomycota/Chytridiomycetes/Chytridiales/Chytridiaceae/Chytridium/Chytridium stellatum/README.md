@@ -1,5 +1,4 @@
-Chytridium stellatum (H.E. Petersen) W.J. Koch SPECIES
-=======
+# Chytridium stellatum (H.E. Petersen) W.J. Koch SPECIES
 
 #### Status
 ACCEPTED

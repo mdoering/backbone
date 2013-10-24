@@ -1,5 +1,4 @@
-Puccinia praecellens Syd. SPECIES
-=======
+# Puccinia praecellens Syd. SPECIES
 
 #### Status
 ACCEPTED

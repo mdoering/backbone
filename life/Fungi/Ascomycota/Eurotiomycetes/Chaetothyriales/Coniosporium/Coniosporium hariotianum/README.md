@@ -1,5 +1,4 @@
-Coniosporium hariotianum Sacc. SPECIES
-=======
+# Coniosporium hariotianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

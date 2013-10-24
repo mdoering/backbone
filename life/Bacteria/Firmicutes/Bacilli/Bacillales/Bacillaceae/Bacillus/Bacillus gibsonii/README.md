@@ -1,5 +1,4 @@
-Bacillus gibsonii Nielsen et al., 1995 SPECIES
-=======
+# Bacillus gibsonii Nielsen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

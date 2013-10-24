@@ -1,5 +1,4 @@
-Ammomarginulina Wiesner, 1931 GENUS
-=======
+# Ammomarginulina Wiesner, 1931 GENUS
 
 #### Status
 ACCEPTED

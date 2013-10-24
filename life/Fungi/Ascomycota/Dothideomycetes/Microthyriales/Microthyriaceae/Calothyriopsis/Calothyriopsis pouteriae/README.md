@@ -1,5 +1,4 @@
-Calothyriopsis pouteriae Bat. & Cavalc. SPECIES
-=======
+# Calothyriopsis pouteriae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

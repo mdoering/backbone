@@ -1,5 +1,4 @@
-Pythium amasculinum Y.N. Yu, 1973 SPECIES
-=======
+# Pythium amasculinum Y.N. Yu, 1973 SPECIES
 
 #### Status
 ACCEPTED

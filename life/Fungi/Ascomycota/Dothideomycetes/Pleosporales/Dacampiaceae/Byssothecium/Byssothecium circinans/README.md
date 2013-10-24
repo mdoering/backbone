@@ -1,17 +1,16 @@
-Melanomma vindelicorum Rehm SPECIES
-=======
+# Byssothecium circinans Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 20: no. 179 (1881)
+Bot. Ztg. 19: 251 (1861)
 
 #### Original name
-Melanomma vindelicorum Rehm
+Byssothecium circinans Fuckel
 
 ### Remarks
 null

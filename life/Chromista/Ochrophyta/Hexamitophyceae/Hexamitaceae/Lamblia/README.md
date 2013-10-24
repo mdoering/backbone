@@ -1,5 +1,4 @@
-Lamblia Blanchard, 1888 GENUS
-=======
+# Lamblia Blanchard, 1888 GENUS
 
 #### Status
 ACCEPTED

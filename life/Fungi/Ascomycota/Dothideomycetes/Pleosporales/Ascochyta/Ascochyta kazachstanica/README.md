@@ -1,5 +1,4 @@
-Ascochyta kazachstanica (Byzova) Punith. SPECIES
-=======
+# Ascochyta kazachstanica (Byzova) Punith. SPECIES
 
 #### Status
 ACCEPTED

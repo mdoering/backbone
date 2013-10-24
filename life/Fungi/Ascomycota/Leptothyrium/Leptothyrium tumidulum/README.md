@@ -1,5 +1,4 @@
-Leptothyrium tumidulum Sacc. SPECIES
-=======
+# Leptothyrium tumidulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

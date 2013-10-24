@@ -1,5 +1,4 @@
-Phacus tortifolius Z. X. Shi SPECIES
-=======
+# Phacus tortifolius Z. X. Shi SPECIES
 
 #### Status
 ACCEPTED

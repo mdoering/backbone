@@ -1,5 +1,4 @@
-Sphaerospora durandi Rehm SPECIES
-=======
+# Sphaerospora durandi Rehm SPECIES
 
 #### Status
 ACCEPTED

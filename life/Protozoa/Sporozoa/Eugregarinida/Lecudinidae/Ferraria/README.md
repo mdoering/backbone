@@ -1,5 +1,4 @@
-Ferraria Setna, 1932 GENUS
-=======
+# Ferraria Setna, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora thermopsidis Earle SPECIES
-=======
+# Cercospora thermopsidis Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia zenkeri Frisch SPECIES
-=======
+# Ocellularia zenkeri Frisch SPECIES
 
 #### Status
 ACCEPTED

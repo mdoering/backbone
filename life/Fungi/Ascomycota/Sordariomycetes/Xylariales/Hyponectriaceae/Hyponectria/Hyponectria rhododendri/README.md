@@ -1,5 +1,4 @@
-Hyponectria rhododendri Rehm SPECIES
-=======
+# Hyponectria rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

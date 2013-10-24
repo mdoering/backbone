@@ -1,5 +1,4 @@
-Arthothelium distentum (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium distentum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirophoma moravica Petr. SPECIES
-=======
+# Sirophoma moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

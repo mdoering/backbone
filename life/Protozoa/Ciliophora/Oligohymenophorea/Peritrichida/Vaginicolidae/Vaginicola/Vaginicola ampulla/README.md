@@ -1,5 +1,4 @@
-Vaginicola ampulla Stokes, 1886 SPECIES
-=======
+# Vaginicola ampulla Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

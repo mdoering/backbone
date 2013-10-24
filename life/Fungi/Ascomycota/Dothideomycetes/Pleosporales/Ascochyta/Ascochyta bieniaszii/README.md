@@ -1,5 +1,4 @@
-Ascochyta bieniaszii Rouppert SPECIES
-=======
+# Ascochyta bieniaszii Rouppert SPECIES
 
 #### Status
 ACCEPTED

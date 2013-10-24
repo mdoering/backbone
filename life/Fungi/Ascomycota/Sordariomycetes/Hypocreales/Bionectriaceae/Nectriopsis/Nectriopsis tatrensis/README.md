@@ -1,5 +1,4 @@
-Nectriopsis tatrensis (Alstrup) Lisická & Alstrup SPECIES
-=======
+# Nectriopsis tatrensis (Alstrup) Lisická & Alstrup SPECIES
 
 #### Status
 ACCEPTED

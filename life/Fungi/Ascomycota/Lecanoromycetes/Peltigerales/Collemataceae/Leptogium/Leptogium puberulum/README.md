@@ -1,5 +1,4 @@
-Leptogium puberulum Hue SPECIES
-=======
+# Leptogium puberulum Hue SPECIES
 
 #### Status
 ACCEPTED

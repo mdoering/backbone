@@ -1,5 +1,4 @@
-Catinaria melastegia (Nyl.) SPECIES
-=======
+# Catinaria melastegia (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

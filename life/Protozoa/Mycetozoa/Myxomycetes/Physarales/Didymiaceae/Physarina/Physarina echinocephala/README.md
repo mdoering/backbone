@@ -1,5 +1,4 @@
-Physarina echinocephala Höhn., 1909 SPECIES
-=======
+# Physarina echinocephala Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

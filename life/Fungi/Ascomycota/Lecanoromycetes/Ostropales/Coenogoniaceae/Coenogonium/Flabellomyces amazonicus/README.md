@@ -1,5 +1,4 @@
-Flabellomyces amazonicus Kobayasi SPECIES
-=======
+# Flabellomyces amazonicus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

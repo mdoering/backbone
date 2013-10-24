@@ -1,5 +1,4 @@
-Platythecium parvicarpum Makhija & Adaw. SPECIES
-=======
+# Platythecium parvicarpum Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

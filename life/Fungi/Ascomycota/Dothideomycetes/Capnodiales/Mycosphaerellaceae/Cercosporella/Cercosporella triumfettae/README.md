@@ -1,5 +1,4 @@
-Cercosporella triumfettae Thirum. & Naras. SPECIES
-=======
+# Cercosporella triumfettae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma veniferum Berk. & M.A. Curtis SPECIES
-=======
+# Hebeloma veniferum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

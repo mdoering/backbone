@@ -1,5 +1,4 @@
-Flammula acuminatospora Reichert SPECIES
-=======
+# Flammula acuminatospora Reichert SPECIES
 
 #### Status
 ACCEPTED

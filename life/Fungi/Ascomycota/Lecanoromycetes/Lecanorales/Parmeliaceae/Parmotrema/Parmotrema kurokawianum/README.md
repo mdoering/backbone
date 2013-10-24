@@ -1,5 +1,4 @@
-Parmotrema kurokawianum Louwhoff & Elix SPECIES
-=======
+# Parmotrema kurokawianum Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

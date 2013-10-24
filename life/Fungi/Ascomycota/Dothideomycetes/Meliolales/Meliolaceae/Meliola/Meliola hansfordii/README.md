@@ -1,5 +1,4 @@
-Meliola hansfordii var. hansfordii VARIETY
-=======
+# Meliola hansfordii (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 87 (1954)
 
 #### Original name
-Meliola hansfordii var. hansfordii
+Irenina hansfordii F. Stevens
 
 ### Remarks
 null

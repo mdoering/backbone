@@ -1,5 +1,4 @@
-Phylacteria amansii (Brond.) Bigeard & H. Guill. SPECIES
-=======
+# Phylacteria amansii (Brond.) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brunneocorticium Sheng H. Wu GENUS
-=======
+# Brunneocorticium Sheng H. Wu GENUS
 
 #### Status
 ACCEPTED

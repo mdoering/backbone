@@ -1,5 +1,4 @@
-Diplodiella faginea Bäumler SPECIES
-=======
+# Diplodiella faginea Bäumler SPECIES
 
 #### Status
 ACCEPTED

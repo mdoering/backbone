@@ -1,5 +1,4 @@
-Xenothekella elongata Saidova, 1970 SPECIES
-=======
+# Xenothekella elongata Saidova, 1970 SPECIES
 
 #### Status
 ACCEPTED

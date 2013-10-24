@@ -1,5 +1,4 @@
-Phyllachora polemonii Harkn., 1887 SPECIES
-=======
+# Phyllachora polemonii Harkn., 1887 SPECIES
 
 #### Status
 DOUBTFUL

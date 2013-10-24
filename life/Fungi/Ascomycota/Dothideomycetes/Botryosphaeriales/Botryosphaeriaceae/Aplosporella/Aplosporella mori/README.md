@@ -1,5 +1,4 @@
-Aplosporella mori var. mori VARIETY
-=======
+# Aplosporella mori (Berl.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 69 (1927)
 
 #### Original name
-Aplosporella mori var. mori
+null
 
 ### Remarks
 null

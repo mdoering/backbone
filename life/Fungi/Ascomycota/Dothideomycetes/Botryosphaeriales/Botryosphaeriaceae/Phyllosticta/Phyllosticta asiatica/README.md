@@ -1,5 +1,4 @@
-Phyllosticta asiatica Cooke SPECIES
-=======
+# Phyllosticta asiatica Cooke SPECIES
 
 #### Status
 ACCEPTED

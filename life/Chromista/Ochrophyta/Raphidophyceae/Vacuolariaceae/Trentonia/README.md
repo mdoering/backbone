@@ -1,5 +1,4 @@
-Trentonia A.C. Stokes, 1886 GENUS
-=======
+# Trentonia A.C. Stokes, 1886 GENUS
 
 #### Status
 ACCEPTED

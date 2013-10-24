@@ -1,5 +1,4 @@
-Echinula Graddon, 1977 GENUS
-=======
+# Echinula Graddon, 1977 GENUS
 
 #### Status
 ACCEPTED

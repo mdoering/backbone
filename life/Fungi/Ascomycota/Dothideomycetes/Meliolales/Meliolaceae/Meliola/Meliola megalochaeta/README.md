@@ -1,5 +1,4 @@
-Meliola megalochaeta Syd. SPECIES
-=======
+# Meliola megalochaeta Syd. SPECIES
 
 #### Status
 ACCEPTED

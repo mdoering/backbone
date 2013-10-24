@@ -1,5 +1,4 @@
-Haemophilus parainfluenzae Rivers, 1922 (Approved Lists, 1980) SPECIES
-=======
+# Haemophilus parainfluenzae Rivers, 1922 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

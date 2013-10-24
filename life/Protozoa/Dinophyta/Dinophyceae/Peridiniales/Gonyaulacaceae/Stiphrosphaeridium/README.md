@@ -1,5 +1,4 @@
-Stiphrosphaeridium R.J.Davey, 1982 GENUS
-=======
+# Stiphrosphaeridium R.J.Davey, 1982 GENUS
 
 #### Status
 ACCEPTED

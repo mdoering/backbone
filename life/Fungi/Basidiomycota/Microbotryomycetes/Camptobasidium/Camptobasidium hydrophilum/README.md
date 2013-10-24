@@ -1,5 +1,4 @@
-Camptobasidium hydrophilum Marvanová & Suberkr., 1990 SPECIES
-=======
+# Camptobasidium hydrophilum Marvanová & Suberkr., 1990 SPECIES
 
 #### Status
 ACCEPTED

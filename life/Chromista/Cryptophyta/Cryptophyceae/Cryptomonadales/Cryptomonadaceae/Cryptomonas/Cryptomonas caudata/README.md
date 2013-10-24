@@ -1,5 +1,4 @@
-Cryptomonas caudata SPECIES
-=======
+# Cryptomonas caudata SPECIES
 
 #### Status
 ACCEPTED

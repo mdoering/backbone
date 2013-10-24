@@ -1,8 +1,7 @@
-Proactinimyces atlanticus Humm & Shepard, 1957 SPECIES
-=======
+# Nocardia atlantica (Humm & Shepard) Waksman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

@@ -1,5 +1,4 @@
-Entamoeba barreti Taliferro & Holmes, 1924 SPECIES
-=======
+# Entamoeba barreti Taliferro & Holmes, 1924 SPECIES
 
 #### Status
 ACCEPTED

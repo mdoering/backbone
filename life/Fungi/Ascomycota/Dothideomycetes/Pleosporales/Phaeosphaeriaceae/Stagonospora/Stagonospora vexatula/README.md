@@ -1,8 +1,7 @@
-Hendersonia vexatula Sacc., 1881 SPECIES
-=======
+# Stagonospora vexatula (Sacc.) Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

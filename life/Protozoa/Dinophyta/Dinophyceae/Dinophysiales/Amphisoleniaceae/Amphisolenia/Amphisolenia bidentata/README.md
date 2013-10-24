@@ -1,5 +1,4 @@
-Amphisolenia bidentata Schröer SPECIES
-=======
+# Amphisolenia bidentata Schröer SPECIES
 
 #### Status
 ACCEPTED

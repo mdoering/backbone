@@ -1,5 +1,4 @@
-Camarosporium pteridis H.C. Greene SPECIES
-=======
+# Camarosporium pteridis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus centiceps R. Schulz SPECIES
-=======
+# Lentinus centiceps R. Schulz SPECIES
 
 #### Status
 ACCEPTED

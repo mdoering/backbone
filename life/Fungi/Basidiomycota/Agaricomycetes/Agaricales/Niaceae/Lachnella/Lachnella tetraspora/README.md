@@ -1,5 +1,4 @@
-Lachnella tetraspora (Feltgen) Höhn. SPECIES
-=======
+# Lachnella tetraspora (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

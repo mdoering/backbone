@@ -1,5 +1,4 @@
-Colletotrichum dracaenicola Sacc. & Trotter SPECIES
-=======
+# Colletotrichum dracaenicola Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

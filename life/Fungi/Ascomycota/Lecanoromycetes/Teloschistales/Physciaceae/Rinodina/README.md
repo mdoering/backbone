@@ -1,17 +1,16 @@
-Mischoblastia A. Massal. GENUS
-=======
+# Rinodina (Ach.) Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 40 (1852)
+Nat. Arr. Brit. Pl. (London) 1: 448 (1821)
 
 #### Original name
-Mischoblastia A. Massal.
+null
 
 ### Remarks
 null

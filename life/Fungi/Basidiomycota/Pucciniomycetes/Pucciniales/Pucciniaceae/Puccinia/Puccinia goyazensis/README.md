@@ -1,5 +1,4 @@
-Puccinia goyazensis Henn. SPECIES
-=======
+# Puccinia goyazensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia cotoneastri Velen. SPECIES
-=======
+# Orbilia cotoneastri Velen. SPECIES
 
 #### Status
 ACCEPTED

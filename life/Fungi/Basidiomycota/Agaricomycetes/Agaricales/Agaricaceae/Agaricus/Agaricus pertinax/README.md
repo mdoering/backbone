@@ -1,5 +1,4 @@
-Agaricus pertinax Fr. SPECIES
-=======
+# Agaricus pertinax Fr. SPECIES
 
 #### Status
 ACCEPTED

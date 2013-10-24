@@ -1,5 +1,4 @@
-Corynespora yerbae (Speg.) M.B. Ellis SPECIES
-=======
+# Corynespora yerbae (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

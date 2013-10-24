@@ -1,5 +1,4 @@
-Humaria flavula Quél. SPECIES
-=======
+# Humaria flavula Quél. SPECIES
 
 #### Status
 ACCEPTED

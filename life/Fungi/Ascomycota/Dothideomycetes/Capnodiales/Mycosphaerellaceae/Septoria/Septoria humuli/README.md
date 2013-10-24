@@ -1,5 +1,4 @@
-Septoria humuli Westend., 1854 SPECIES
-=======
+# Septoria humuli Westend., 1854 SPECIES
 
 #### Status
 ACCEPTED

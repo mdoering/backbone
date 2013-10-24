@@ -1,5 +1,4 @@
-Diachora Müller Arg., 1893 GENUS
-=======
+# Diachora Müller Arg., 1893 GENUS
 
 #### Status
 ACCEPTED

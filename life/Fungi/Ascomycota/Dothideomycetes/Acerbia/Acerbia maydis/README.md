@@ -1,5 +1,4 @@
-Acerbia maydis Rehm SPECIES
-=======
+# Acerbia maydis Rehm SPECIES
 
 #### Status
 ACCEPTED

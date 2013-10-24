@@ -1,5 +1,4 @@
-Fusarium marginatum Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium marginatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Striatococcolithus pacificanus Bukry, 1971 SPECIES
-=======
+# Striatococcolithus pacificanus Bukry, 1971 SPECIES
 
 #### Status
 DOUBTFUL

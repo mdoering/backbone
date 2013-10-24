@@ -1,5 +1,4 @@
-Peziza debeauxii Roum. SPECIES
-=======
+# Peziza debeauxii Roum. SPECIES
 
 #### Status
 ACCEPTED

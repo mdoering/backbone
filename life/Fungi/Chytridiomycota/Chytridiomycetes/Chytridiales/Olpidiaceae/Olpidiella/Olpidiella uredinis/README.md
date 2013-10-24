@@ -1,5 +1,4 @@
-Olpidiella uredinis Lagerh. SPECIES
-=======
+# Olpidiella uredinis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

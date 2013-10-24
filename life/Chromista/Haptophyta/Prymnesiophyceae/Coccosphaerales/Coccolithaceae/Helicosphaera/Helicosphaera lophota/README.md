@@ -1,5 +1,4 @@
-Helicosphaera lophota Bramlette & Sullivan, 1961 SPECIES
-=======
+# Helicosphaera lophota Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

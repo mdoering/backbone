@@ -1,5 +1,4 @@
-Rhodophyllus violaceus (Murrill) Singer SPECIES
-=======
+# Rhodophyllus violaceus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Puccinia tanaceti var. dracunculina (Fahrend.) Cummins, 1977 VARIETY
-=======
+# Puccinia dracunculina Fahrend., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 5(2): 406 (1977)
+Annls mycol. 39: 181 (1941)
 
 #### Original name
 Puccinia dracunculina Fahrend., 1941

@@ -1,5 +1,4 @@
-Verrucaria applanata f. applanata FORM
-=======
+# Verrucaria applanata Hepp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria applanata f. applanata
+Verrucaria applanata Hepp
 
 ### Remarks
 null

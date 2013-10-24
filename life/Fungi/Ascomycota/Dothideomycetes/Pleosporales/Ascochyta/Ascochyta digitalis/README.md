@@ -1,5 +1,4 @@
-Ascochyta digitalis (Fuckel) Fuckel SPECIES
-=======
+# Ascochyta digitalis (Fuckel) Fuckel SPECIES
 
 #### Status
 ACCEPTED

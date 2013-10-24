@@ -1,5 +1,4 @@
-Capillipes kalameesii Raitv. SPECIES
-=======
+# Capillipes kalameesii Raitv. SPECIES
 
 #### Status
 ACCEPTED

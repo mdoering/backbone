@@ -1,5 +1,4 @@
-Caloplaca balatonica Szatala SPECIES
-=======
+# Caloplaca balatonica Szatala SPECIES
 
 #### Status
 ACCEPTED

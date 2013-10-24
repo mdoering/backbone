@@ -1,5 +1,4 @@
-Poxviridae FAMILY
-=======
+# Poxviridae FAMILY
 
 #### Status
 ACCEPTED

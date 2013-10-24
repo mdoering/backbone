@@ -1,5 +1,4 @@
-Hypoxylon adustum Grev. SPECIES
-=======
+# Hypoxylon adustum Grev. SPECIES
 
 #### Status
 ACCEPTED

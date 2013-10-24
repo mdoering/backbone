@@ -1,5 +1,4 @@
-Sporisorium zambianum Vánky, 2003 SPECIES
-=======
+# Sporisorium zambianum Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

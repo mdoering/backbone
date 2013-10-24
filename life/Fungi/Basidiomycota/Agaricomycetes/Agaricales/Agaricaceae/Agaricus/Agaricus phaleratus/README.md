@@ -1,5 +1,4 @@
-Agaricus phaleratus Fr. SPECIES
-=======
+# Agaricus phaleratus Fr. SPECIES
 
 #### Status
 ACCEPTED

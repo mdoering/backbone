@@ -1,5 +1,4 @@
-Microthelia endoleuca (Pass.) Kuntze SPECIES
-=======
+# Microthelia endoleuca (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nazarovella de Wever & Caridroit, 1984 GENUS
-=======
+# Raciditor Sugiyama, 2000 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revue Micropaleont. 27 (2): 101.
+Paleontol Res 4 (3), September: 227.
 
 #### Original name
-null
+Nazarovella de Wever & Caridroit, 1984
 
 ### Remarks
 null

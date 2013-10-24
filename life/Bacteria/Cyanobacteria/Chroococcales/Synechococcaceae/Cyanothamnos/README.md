@@ -1,5 +1,4 @@
-Cyanothamnos Cronberg, 1991 GENUS
-=======
+# Cyanothamnos Cronberg, 1991 GENUS
 
 #### Status
 ACCEPTED

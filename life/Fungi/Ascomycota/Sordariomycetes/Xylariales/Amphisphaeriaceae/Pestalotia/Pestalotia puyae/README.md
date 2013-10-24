@@ -1,5 +1,4 @@
-Pestalotia puyae Henn. SPECIES
-=======
+# Pestalotia puyae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria carthamicola Tropova SPECIES
-=======
+# Septoria carthamicola Tropova SPECIES
 
 #### Status
 ACCEPTED

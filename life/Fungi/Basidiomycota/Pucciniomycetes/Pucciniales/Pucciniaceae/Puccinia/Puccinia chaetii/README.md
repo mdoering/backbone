@@ -1,5 +1,4 @@
-Puccinia chaetii F. Kern & Thurst. SPECIES
-=======
+# Puccinia chaetii F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

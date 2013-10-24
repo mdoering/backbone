@@ -1,5 +1,4 @@
-Russula griseascens (Bon & Gaugué) Marti SPECIES
-=======
+# Russula griseascens (Bon & Gaugué) Marti SPECIES
 
 #### Status
 ACCEPTED

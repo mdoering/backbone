@@ -1,14 +1,13 @@
-Oligoporus septentrionalis Vampola, 1992 SPECIES
-=======
+# Postia septentrionalis (Vampola) Renvall, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 45: 147 (1991)
+Karstenia 32(2): 58 (1992)
 
 #### Original name
 Oligoporus septentrionalis Vampola, 1992

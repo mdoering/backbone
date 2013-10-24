@@ -1,5 +1,4 @@
-Oidiopsis Scalia GENUS
-=======
+# Oidiopsis Scalia GENUS
 
 #### Status
 ACCEPTED

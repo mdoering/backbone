@@ -1,5 +1,4 @@
-Stomasphaera Mound, 1961 GENUS
-=======
+# Stomasphaera Mound, 1961 GENUS
 
 #### Status
 ACCEPTED

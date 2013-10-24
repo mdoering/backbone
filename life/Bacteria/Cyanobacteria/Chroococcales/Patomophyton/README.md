@@ -1,5 +1,4 @@
-Patomophyton P.N. Kolosov, 1975 GENUS
-=======
+# Patomophyton P.N. Kolosov, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Angulolithina J.D.Bukry GENUS
-=======
+# Angulolithina J.D.Bukry GENUS
 
 #### Status
 ACCEPTED

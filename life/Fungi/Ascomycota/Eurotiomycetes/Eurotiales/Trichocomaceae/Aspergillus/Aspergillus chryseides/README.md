@@ -1,5 +1,4 @@
-Aspergillus chryseides Samson & W. Gams SPECIES
-=======
+# Aspergillus chryseides Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria junci McAlpine SPECIES
-=======
+# Alternaria junci McAlpine SPECIES
 
 #### Status
 ACCEPTED

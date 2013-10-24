@@ -1,5 +1,4 @@
-Aspicilia adamanticola Hue SPECIES
-=======
+# Aspicilia adamanticola Hue SPECIES
 
 #### Status
 ACCEPTED

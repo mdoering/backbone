@@ -1,5 +1,4 @@
-Coelosphaeria radicalis (Cooke) Sacc. SPECIES
-=======
+# Coelosphaeria radicalis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

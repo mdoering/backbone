@@ -1,5 +1,4 @@
-Ionaspis handelii Zahlbr. SPECIES
-=======
+# Ionaspis handelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

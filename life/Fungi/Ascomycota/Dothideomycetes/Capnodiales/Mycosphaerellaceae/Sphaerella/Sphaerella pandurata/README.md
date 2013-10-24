@@ -1,5 +1,4 @@
-Sphaerella pandurata Ellis & Everh. SPECIES
-=======
+# Sphaerella pandurata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

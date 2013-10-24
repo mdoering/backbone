@@ -1,5 +1,4 @@
-Hendersonia populina Pass. SPECIES
-=======
+# Hendersonia populina Pass. SPECIES
 
 #### Status
 ACCEPTED

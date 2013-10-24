@@ -1,5 +1,4 @@
-Porina oceanica Räsänen SPECIES
-=======
+# Porina oceanica Räsänen SPECIES
 
 #### Status
 ACCEPTED

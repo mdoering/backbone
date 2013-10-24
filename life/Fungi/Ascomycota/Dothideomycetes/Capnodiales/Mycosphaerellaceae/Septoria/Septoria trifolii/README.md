@@ -1,5 +1,4 @@
-Septoria trifolii Ellis SPECIES
-=======
+# Septoria trifolii Ellis SPECIES
 
 #### Status
 ACCEPTED

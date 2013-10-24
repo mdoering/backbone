@@ -1,5 +1,4 @@
-Rickettsia slovaca Sekeyová et al., 1998 SPECIES
-=======
+# Rickettsia slovaca Sekeyová et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

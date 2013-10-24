@@ -1,5 +1,4 @@
-Urophlyctis stigmariae Weiss SPECIES
-=======
+# Urophlyctis stigmariae Weiss SPECIES
 
 #### Status
 ACCEPTED

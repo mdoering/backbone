@@ -1,5 +1,4 @@
-Zoothamnium spirale Gosse, 1856 SPECIES
-=======
+# Zoothamnium spirale Gosse, 1856 SPECIES
 
 #### Status
 ACCEPTED

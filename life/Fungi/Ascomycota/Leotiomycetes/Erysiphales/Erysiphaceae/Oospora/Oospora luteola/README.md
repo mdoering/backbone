@@ -1,5 +1,4 @@
-Oospora luteola (Foul. & Jones {?} ) Sartory SPECIES
-=======
+# Oospora luteola (Foul. & Jones {?} ) Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspidisca antarctica Corliss & Snyder, 1986 SPECIES
-=======
+# Aspidisca antarctica Corliss & Snyder, 1986 SPECIES
 
 #### Status
 ACCEPTED

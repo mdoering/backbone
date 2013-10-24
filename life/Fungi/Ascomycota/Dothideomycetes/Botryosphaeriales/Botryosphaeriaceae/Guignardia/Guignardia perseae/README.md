@@ -1,5 +1,4 @@
-Guignardia perseae Punith. SPECIES
-=======
+# Guignardia perseae Punith. SPECIES
 
 #### Status
 ACCEPTED

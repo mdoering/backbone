@@ -1,5 +1,4 @@
-Badhamia formosana C.H. Liu & Y.F. Chen, 2002 SPECIES
-=======
+# Badhamia formosana C.H. Liu & Y.F. Chen, 2002 SPECIES
 
 #### Status
 ACCEPTED

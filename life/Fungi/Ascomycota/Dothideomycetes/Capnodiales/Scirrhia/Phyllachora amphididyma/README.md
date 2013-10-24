@@ -1,5 +1,4 @@
-Phyllachora amphididyma Penz. & Sacc., 1897 SPECIES
-=======
+# Phyllachora amphididyma Penz. & Sacc., 1897 SPECIES
 
 #### Status
 DOUBTFUL

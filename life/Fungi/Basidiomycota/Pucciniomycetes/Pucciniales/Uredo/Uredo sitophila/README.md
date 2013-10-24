@@ -1,5 +1,4 @@
-Uredo sitophila Ditmar SPECIES
-=======
+# Uredo sitophila Ditmar SPECIES
 
 #### Status
 ACCEPTED

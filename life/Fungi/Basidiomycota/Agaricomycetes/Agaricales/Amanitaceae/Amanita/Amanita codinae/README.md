@@ -1,5 +1,4 @@
-Amanita codinae (Maire) Bertault SPECIES
-=======
+# Amanita codinae (Maire) Bertault SPECIES
 
 #### Status
 ACCEPTED

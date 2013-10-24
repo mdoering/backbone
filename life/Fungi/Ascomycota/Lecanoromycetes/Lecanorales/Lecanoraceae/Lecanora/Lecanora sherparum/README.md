@@ -1,5 +1,4 @@
-Lecanora sherparum Poelt SPECIES
-=======
+# Lecanora sherparum Poelt SPECIES
 
 #### Status
 ACCEPTED

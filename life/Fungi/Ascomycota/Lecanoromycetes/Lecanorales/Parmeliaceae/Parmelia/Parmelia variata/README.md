@@ -1,5 +1,4 @@
-Parmelia variata Hue SPECIES
-=======
+# Parmelia variata Hue SPECIES
 
 #### Status
 ACCEPTED

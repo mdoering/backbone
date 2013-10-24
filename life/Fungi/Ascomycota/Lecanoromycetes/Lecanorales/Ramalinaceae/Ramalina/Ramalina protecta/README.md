@@ -1,5 +1,4 @@
-Ramalina protecta H. Magn. SPECIES
-=======
+# Ramalina protecta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

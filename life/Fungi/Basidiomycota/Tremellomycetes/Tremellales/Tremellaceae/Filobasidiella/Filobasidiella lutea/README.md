@@ -1,5 +1,4 @@
-Filobasidiella lutea P. Roberts, 1997 SPECIES
-=======
+# Filobasidiella lutea P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

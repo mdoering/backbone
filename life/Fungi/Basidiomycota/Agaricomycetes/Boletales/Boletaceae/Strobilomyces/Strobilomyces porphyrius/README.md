@@ -1,5 +1,4 @@
-Strobilomyces porphyrius Pat. & C.F. Baker SPECIES
-=======
+# Strobilomyces porphyrius Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

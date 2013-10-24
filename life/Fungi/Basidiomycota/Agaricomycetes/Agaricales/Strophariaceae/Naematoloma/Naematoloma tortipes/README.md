@@ -1,14 +1,13 @@
-Nematoloma tortipes (Speg.) Guzmán SPECIES
-=======
+# Naematoloma tortipes (Speg.) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Guzmán & Vergeer, Mycotaxon 6(3): 476 (1978)
 
 #### Original name
 Psilocybe tortipes Speg.

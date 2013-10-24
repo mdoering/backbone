@@ -1,17 +1,16 @@
-Oxydontia L.W. Mill. GENUS
-=======
+# Sarcodontia Schulzer, 1866 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 25: 294 (1933)
+null
 
 #### Original name
-Oxydontia L.W. Mill.
+null
 
 ### Remarks
 null

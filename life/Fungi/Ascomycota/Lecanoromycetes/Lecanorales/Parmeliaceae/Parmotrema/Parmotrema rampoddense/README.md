@@ -1,14 +1,13 @@
-Parmelia rampoddensis Nyl. SPECIES
-=======
+# Parmotrema rampoddense (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 26(10): 7 (1900)
+Phytologia 28: 338 (1974)
 
 #### Original name
 Parmelia rampoddensis Nyl.

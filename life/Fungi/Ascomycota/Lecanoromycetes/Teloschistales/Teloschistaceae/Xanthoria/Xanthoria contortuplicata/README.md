@@ -1,5 +1,4 @@
-Xanthoria contortuplicata (Ach.) Boistel SPECIES
-=======
+# Xanthoria contortuplicata (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

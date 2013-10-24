@@ -1,5 +1,4 @@
-Cylindrospermum majus var. pellucida (Hansgirg) Forti VARIETY
-=======
+# Cylindrospermum majus Kützing SPECIES
 
 #### Status
 ACCEPTED

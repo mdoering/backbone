@@ -1,5 +1,4 @@
-Lecidea subsquamifera Zahlbr. SPECIES
-=======
+# Lecidea subsquamifera Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

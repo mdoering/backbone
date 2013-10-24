@@ -1,5 +1,4 @@
-Milesia mayoriana (Dietel) Buriticá SPECIES
-=======
+# Milesia mayoriana (Dietel) Buriticá SPECIES
 
 #### Status
 ACCEPTED

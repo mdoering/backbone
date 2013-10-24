@@ -1,5 +1,4 @@
-Weinzettlia rubescens Velen. SPECIES
-=======
+# Weinzettlia rubescens Velen. SPECIES
 
 #### Status
 ACCEPTED

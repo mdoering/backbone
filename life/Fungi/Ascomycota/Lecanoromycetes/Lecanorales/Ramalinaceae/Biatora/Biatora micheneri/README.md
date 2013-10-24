@@ -1,5 +1,4 @@
-Biatora micheneri Tuck. SPECIES
-=======
+# Biatora micheneri Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laryngosigma lactea SPECIES
-=======
+# Laryngosigma lactea SPECIES
 
 #### Status
 ACCEPTED

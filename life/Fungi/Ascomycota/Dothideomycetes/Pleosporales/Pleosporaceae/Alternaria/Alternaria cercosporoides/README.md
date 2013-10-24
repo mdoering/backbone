@@ -1,17 +1,16 @@
-Alternaria cercosporioides Unamuno SPECIES
-=======
+# Alternaria cercosporoides Unamuno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mauritania, Tänger 15(no. 175): 177 (1942)
 
 #### Original name
-Alternaria cercosporioides Unamuno
+Alternaria cercosporoides Unamuno
 
 ### Remarks
 null

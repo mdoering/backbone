@@ -1,5 +1,4 @@
-Pestalotia chamaecyparidis Sawada SPECIES
-=======
+# Pestalotia chamaecyparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

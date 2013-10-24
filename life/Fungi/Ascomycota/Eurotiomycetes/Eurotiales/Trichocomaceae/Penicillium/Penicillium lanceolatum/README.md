@@ -1,5 +1,4 @@
-Penicillium lanceolatum Svilv. SPECIES
-=======
+# Penicillium lanceolatum Svilv. SPECIES
 
 #### Status
 ACCEPTED

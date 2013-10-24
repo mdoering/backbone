@@ -1,5 +1,4 @@
-Tephrocybe admissa (Britzelm.) M.M. Moser SPECIES
-=======
+# Tephrocybe admissa (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

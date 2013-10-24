@@ -1,5 +1,4 @@
-Pseudauliscus radiatus (Bailey) A. Schmidt in Schmidt et al., 1875 SPECIES
-=======
+# Pseudauliscus radiatus (Bailey) A. Schmidt in Schmidt et al., 1875 SPECIES
 
 #### Status
 ACCEPTED

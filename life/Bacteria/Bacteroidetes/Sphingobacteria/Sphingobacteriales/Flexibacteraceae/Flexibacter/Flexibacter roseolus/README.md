@@ -1,5 +1,4 @@
-Flexibacter roseolus Lewin, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Flexibacter roseolus Lewin, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

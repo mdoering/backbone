@@ -1,14 +1,13 @@
-Lecanora elaeiza Nyl. SPECIES
-=======
+# Halecania elaeiza (Nyl.) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 7(3-4): 395 (1987)
 
 #### Original name
 Lecanora elaeiza Nyl.

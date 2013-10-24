@@ -1,5 +1,4 @@
-Spirillum agilissimum SPECIES
-=======
+# Spirillum agilissimum SPECIES
 
 #### Status
 ACCEPTED

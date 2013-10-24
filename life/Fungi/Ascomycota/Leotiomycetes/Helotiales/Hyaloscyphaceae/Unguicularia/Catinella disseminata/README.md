@@ -1,5 +1,4 @@
-Catinella disseminata Kirschst. SPECIES
-=======
+# Catinella disseminata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

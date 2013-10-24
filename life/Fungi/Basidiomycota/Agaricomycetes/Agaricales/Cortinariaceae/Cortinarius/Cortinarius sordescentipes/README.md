@@ -1,5 +1,4 @@
-Cortinarius sordescentipes Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius sordescentipes Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichomera carpini Griffon & Maubl. SPECIES
-=======
+# Dichomera carpini Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon sublateritius A.H. Sm. SPECIES
-=======
+# Rhizopogon sublateritius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

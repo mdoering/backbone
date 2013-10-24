@@ -1,5 +1,4 @@
-Tricholoma subcinereum Peck SPECIES
-=======
+# Tricholoma subcinereum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe heterospora (Murrill) T.J. Baroni SPECIES
-=======
+# Rhodocybe heterospora (Murrill) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

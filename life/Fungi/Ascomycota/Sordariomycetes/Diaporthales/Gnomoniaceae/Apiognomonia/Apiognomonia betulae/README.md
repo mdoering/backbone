@@ -1,5 +1,4 @@
-Apiognomonia betulae ined. SPECIES
-=======
+# Apiognomonia betulae ined. SPECIES
 
 #### Status
 ACCEPTED

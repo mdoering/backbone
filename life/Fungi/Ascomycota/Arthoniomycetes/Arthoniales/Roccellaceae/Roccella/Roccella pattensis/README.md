@@ -1,5 +1,4 @@
-Roccella pattensis C.W. Dodge SPECIES
-=======
+# Roccella pattensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclastrum Ruest, 1898 GENUS
-=======
+# Cyclastrum Ruest, 1898 GENUS
 
 #### Status
 ACCEPTED

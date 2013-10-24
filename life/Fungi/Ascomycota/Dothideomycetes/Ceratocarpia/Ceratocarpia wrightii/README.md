@@ -1,5 +1,4 @@
-Ceratocarpia wrightii (Berk. & M.A. Curtis) Toro SPECIES
-=======
+# Ceratocarpia wrightii (Berk. & M.A. Curtis) Toro SPECIES
 
 #### Status
 ACCEPTED

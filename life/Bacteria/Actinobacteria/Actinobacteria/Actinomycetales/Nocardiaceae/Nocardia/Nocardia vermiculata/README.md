@@ -1,5 +1,4 @@
-Nocardia vermiculata Kageyama et al., 2005 SPECIES
-=======
+# Nocardia vermiculata Kageyama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

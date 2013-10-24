@@ -1,5 +1,4 @@
-Collema multiflorum (Rabenh.) Hepp SPECIES
-=======
+# Collema multiflorum (Rabenh.) Hepp SPECIES
 
 #### Status
 ACCEPTED

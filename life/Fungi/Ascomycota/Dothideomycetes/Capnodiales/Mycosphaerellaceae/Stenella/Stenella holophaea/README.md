@@ -1,5 +1,4 @@
-Stenella holophaea (Syd.) U. Braun & Crous SPECIES
-=======
+# Stenella holophaea (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

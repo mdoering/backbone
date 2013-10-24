@@ -1,5 +1,4 @@
-Rhaetosphaeridium W.A.S. Sarjeant & Vavrdová, 1997 GENUS
-=======
+# Rhaetosphaeridium W.A.S. Sarjeant & Vavrdová, 1997 GENUS
 
 #### Status
 ACCEPTED

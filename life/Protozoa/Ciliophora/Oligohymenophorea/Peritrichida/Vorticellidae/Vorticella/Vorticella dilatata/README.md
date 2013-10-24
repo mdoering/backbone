@@ -1,5 +1,4 @@
-Vorticella dilatata Fromentel, 1876 SPECIES
-=======
+# Vorticella dilatata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

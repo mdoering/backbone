@@ -1,5 +1,4 @@
-Schizodiplodia leptospora (Sacc.) Zambett. SPECIES
-=======
+# Schizodiplodia leptospora (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

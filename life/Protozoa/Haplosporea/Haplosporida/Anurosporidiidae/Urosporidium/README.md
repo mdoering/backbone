@@ -1,5 +1,4 @@
-Urosporidium Caullery & Mesnil, 1905 GENUS
-=======
+# Urosporidium Caullery & Mesnil, 1905 GENUS
 
 #### Status
 ACCEPTED

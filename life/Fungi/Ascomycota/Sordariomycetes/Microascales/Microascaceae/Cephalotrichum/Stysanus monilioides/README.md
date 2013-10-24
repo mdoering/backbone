@@ -1,5 +1,4 @@
-Stysanus monilioides (Alb. & Schwein.) Corda SPECIES
-=======
+# Stysanus monilioides (Alb. & Schwein.) Corda SPECIES
 
 #### Status
 ACCEPTED

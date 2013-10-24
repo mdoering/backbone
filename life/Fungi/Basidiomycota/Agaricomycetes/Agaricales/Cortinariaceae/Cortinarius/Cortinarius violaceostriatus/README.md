@@ -1,5 +1,4 @@
-Cortinarius violaceostriatus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius violaceostriatus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

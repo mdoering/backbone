@@ -1,5 +1,4 @@
-Hystrichogonyaulax regalis (Gocht, 1970) Stover & Evitt, 1978 SPECIES
-=======
+# Hystrichogonyaulax regalis (Gocht, 1970) Stover & Evitt, 1978 SPECIES
 
 #### Status
 DOUBTFUL

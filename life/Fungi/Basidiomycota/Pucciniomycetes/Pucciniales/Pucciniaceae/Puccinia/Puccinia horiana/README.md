@@ -1,5 +1,4 @@
-Puccinia horiana Henn., 1901 SPECIES
-=======
+# Puccinia horiana Henn., 1901 SPECIES
 
 #### Status
 ACCEPTED

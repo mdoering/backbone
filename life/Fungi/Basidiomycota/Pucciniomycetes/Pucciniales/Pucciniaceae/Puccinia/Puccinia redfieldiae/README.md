@@ -1,5 +1,4 @@
-Puccinia redfieldiae Tracy SPECIES
-=======
+# Puccinia redfieldiae Tracy SPECIES
 
 #### Status
 ACCEPTED

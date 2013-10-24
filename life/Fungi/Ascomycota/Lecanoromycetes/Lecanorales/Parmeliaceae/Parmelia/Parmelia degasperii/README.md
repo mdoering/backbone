@@ -1,5 +1,4 @@
-Parmelia degasperii (Sambo) C.W. Dodge SPECIES
-=======
+# Parmelia degasperii (Sambo) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

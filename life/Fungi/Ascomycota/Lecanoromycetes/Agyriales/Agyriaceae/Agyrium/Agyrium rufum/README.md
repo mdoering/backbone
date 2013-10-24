@@ -1,17 +1,16 @@
-Biatora grumosa (Leight.) Walt. Watson SPECIES
-=======
+# Agyrium rufum (Pers.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 232 (1822)
 
 #### Original name
-Lecidea grumosa Leight.
+Stictis rufa Pers.
 
 ### Remarks
 null

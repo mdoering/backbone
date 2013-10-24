@@ -1,14 +1,13 @@
-Pestalotiopsis elasticae (Koord.) P.L. Zhu, Q.X. Ge & T. Xu, 1991 SPECIES
-=======
+# Pestalotia elasticae Koord., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycol. Sin. 10(4): 274 (1991)
+null
 
 #### Original name
 Pestalotia elasticae Koord., 1907

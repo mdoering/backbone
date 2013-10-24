@@ -1,17 +1,16 @@
-Physarum nutans var. viride (Bull.) Fr. VARIETY
-=======
+# Arcyria obvelata (Oeder) Onsberg, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 129 (1829)
+Mycologia 70(6): 1286 (1979)
 
 #### Original name
-Trichia nutans Trentep.
+null
 
 ### Remarks
 null

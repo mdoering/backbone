@@ -1,5 +1,4 @@
-Phyllosticta arethusa Bubák SPECIES
-=======
+# Phyllosticta arethusa Bubák SPECIES
 
 #### Status
 ACCEPTED

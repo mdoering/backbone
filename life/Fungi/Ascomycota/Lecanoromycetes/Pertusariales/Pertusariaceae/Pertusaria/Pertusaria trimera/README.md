@@ -1,14 +1,13 @@
-Pertusaria pustulata var. trimera Müll. Arg. VARIETY
-=======
+# Pertusaria trimera (Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 1: 42 (1893)
+Telopea 4(2): 179 (1991)
 
 #### Original name
 Pertusaria pustulata var. trimera Müll. Arg.

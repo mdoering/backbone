@@ -1,5 +1,4 @@
-Gloeosporium jambosae Bat. SPECIES
-=======
+# Gloeosporium jambosae Bat. SPECIES
 
 #### Status
 ACCEPTED

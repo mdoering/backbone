@@ -1,5 +1,4 @@
-Coniangium submersum Eitner SPECIES
-=======
+# Coniangium submersum Eitner SPECIES
 
 #### Status
 ACCEPTED

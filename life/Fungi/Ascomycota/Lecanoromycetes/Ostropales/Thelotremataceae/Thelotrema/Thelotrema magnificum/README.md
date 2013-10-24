@@ -1,14 +1,13 @@
-Platygrapha magnifica Berk. & Broome SPECIES
-=======
+# Thelotrema magnificum (Berk. & Broome) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 110 (1875)
+Mycotaxon 11(1): 131 (1980)
 
 #### Original name
 Platygrapha magnifica Berk. & Broome

@@ -1,5 +1,4 @@
-Lichenochora polycoccoides Hafellner & R. Sant., 1989 SPECIES
-=======
+# Lichenochora polycoccoides Hafellner & R. Sant., 1989 SPECIES
 
 #### Status
 ACCEPTED

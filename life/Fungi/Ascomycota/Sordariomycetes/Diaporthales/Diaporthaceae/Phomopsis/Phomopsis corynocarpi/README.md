@@ -1,5 +1,4 @@
-Phomopsis corynocarpi Sacc. SPECIES
-=======
+# Phomopsis corynocarpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

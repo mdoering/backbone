@@ -1,5 +1,4 @@
-Phoma caulographa Durieu & Mont. SPECIES
-=======
+# Phoma caulographa Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

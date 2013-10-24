@@ -1,5 +1,4 @@
-Omphalia pseudoandrosacea (Bull.) J. Kickx f. SPECIES
-=======
+# Omphalia pseudoandrosacea (Bull.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanoplasma bullocki Strout, 1965 SPECIES
-=======
+# Trypanoplasma bullocki Strout, 1965 SPECIES
 
 #### Status
 ACCEPTED

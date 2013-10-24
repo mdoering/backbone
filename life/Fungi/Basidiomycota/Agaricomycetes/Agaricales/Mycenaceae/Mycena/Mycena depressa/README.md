@@ -1,5 +1,4 @@
-Mycena depressa Métrod SPECIES
-=======
+# Mycena depressa Métrod SPECIES
 
 #### Status
 ACCEPTED

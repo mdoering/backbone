@@ -1,5 +1,4 @@
-Sporotrichum vitellinum Link SPECIES
-=======
+# Sporotrichum vitellinum Link SPECIES
 
 #### Status
 ACCEPTED

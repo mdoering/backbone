@@ -1,5 +1,4 @@
-Vizella gomphispora (Berk. & Broome) S. Hughes SPECIES
-=======
+# Vizella gomphispora (Berk. & Broome) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

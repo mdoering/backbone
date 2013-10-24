@@ -1,5 +1,4 @@
-Cytosporella macrorhyncha Speg. SPECIES
-=======
+# Cytosporella macrorhyncha Speg. SPECIES
 
 #### Status
 ACCEPTED

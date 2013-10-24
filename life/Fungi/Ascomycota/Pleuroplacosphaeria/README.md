@@ -1,5 +1,4 @@
-Pleuroplacosphaeria Syd. GENUS
-=======
+# Pleuroplacosphaeria Syd. GENUS
 
 #### Status
 ACCEPTED

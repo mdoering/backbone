@@ -1,14 +1,13 @@
-Asterophlyctis irregularis Karling, 1968 SPECIES
-=======
+# Septosperma irregulare (Karling) Dogma, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 20: 96 (1968)
+Nova Hedwigia 25(1-2): 131 (1974)
 
 #### Original name
 Asterophlyctis irregularis Karling, 1968

@@ -1,5 +1,4 @@
-Herpotrichia calamicola J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Herpotrichia calamicola J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

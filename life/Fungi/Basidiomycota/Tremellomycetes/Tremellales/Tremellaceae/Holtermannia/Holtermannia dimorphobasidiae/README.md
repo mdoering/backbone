@@ -1,5 +1,4 @@
-Holtermannia dimorphobasidiae Maham., Kund. & M.S. Patil, 2002 SPECIES
-=======
+# Holtermannia dimorphobasidiae Maham., Kund. & M.S. Patil, 2002 SPECIES
 
 #### Status
 ACCEPTED

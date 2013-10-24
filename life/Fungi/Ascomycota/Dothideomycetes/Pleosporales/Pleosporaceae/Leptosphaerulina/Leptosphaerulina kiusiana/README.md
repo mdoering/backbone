@@ -1,5 +1,4 @@
-Leptosphaerulina kiusiana Naito SPECIES
-=======
+# Leptosphaerulina kiusiana Naito SPECIES
 
 #### Status
 ACCEPTED

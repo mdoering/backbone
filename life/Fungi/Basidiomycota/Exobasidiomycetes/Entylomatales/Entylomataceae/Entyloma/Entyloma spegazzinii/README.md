@@ -1,5 +1,4 @@
-Entyloma spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Entyloma spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

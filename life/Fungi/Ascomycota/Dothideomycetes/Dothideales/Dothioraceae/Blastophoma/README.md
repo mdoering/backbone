@@ -1,5 +1,4 @@
-Blastophoma GENUS
-=======
+# Blastophoma GENUS
 
 #### Status
 ACCEPTED

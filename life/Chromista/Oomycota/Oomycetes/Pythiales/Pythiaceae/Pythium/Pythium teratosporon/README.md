@@ -1,5 +1,4 @@
-Pythium teratosporon Sideris SPECIES
-=======
+# Pythium teratosporon Sideris SPECIES
 
 #### Status
 ACCEPTED

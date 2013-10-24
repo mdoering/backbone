@@ -1,5 +1,4 @@
-Gymnopilus edulis (Peck) Murrill SPECIES
-=======
+# Gymnopilus edulis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora utriculosa Schwabe SPECIES
-=======
+# Stilbospora utriculosa Schwabe SPECIES
 
 #### Status
 ACCEPTED

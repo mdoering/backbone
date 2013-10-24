@@ -1,5 +1,4 @@
-Seimatosporium missionum (Speg.) B. Sutton SPECIES
-=======
+# Seimatosporium missionum (Speg.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina glabrans Cushman, 1933 SPECIES
-=======
+# Uvigerina glabrans Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

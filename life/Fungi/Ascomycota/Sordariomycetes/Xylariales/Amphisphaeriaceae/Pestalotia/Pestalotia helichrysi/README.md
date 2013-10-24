@@ -1,8 +1,7 @@
-Pestalotia helichrysii Severini SPECIES
-=======
+# Pestalotia helichrysi Severini SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia helichrysii Severini
+Pestalotia helichrysi Severini
 
 ### Remarks
 null

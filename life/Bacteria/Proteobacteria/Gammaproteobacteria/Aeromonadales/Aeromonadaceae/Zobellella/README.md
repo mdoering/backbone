@@ -1,5 +1,4 @@
-Zobellella Lin & Shieh, 2006 GENUS
-=======
+# Zobellella Lin & Shieh, 2006 GENUS
 
 #### Status
 ACCEPTED

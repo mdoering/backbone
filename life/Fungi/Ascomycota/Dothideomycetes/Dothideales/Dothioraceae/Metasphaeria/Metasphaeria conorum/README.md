@@ -1,5 +1,4 @@
-Metasphaeria conorum Feltgen SPECIES
-=======
+# Metasphaeria conorum Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geastrum rhizophorum Dissing & M. Lange SPECIES
-=======
+# Geastrum rhizophorum Dissing & M. Lange SPECIES
 
 #### Status
 ACCEPTED

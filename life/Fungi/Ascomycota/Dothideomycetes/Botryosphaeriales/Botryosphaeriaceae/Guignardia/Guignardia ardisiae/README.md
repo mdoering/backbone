@@ -1,5 +1,4 @@
-Guignardia ardisiae Miura ex I. Hino & Katum. SPECIES
-=======
+# Guignardia ardisiae Miura ex I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

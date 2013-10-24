@@ -1,5 +1,4 @@
-Ceratocystis horanszkyi Tóth SPECIES
-=======
+# Ceratocystis horanszkyi Tóth SPECIES
 
 #### Status
 ACCEPTED

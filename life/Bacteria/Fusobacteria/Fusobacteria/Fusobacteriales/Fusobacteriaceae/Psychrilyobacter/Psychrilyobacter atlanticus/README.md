@@ -1,5 +1,4 @@
-Psychrilyobacter atlanticus Zhao, Manno & Hawari, 2009 SPECIES
-=======
+# Psychrilyobacter atlanticus Zhao, Manno & Hawari, 2009 SPECIES
 
 #### Status
 ACCEPTED

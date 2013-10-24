@@ -1,5 +1,4 @@
-Septoria zygophylli Syd. SPECIES
-=======
+# Septoria zygophylli Syd. SPECIES
 
 #### Status
 ACCEPTED

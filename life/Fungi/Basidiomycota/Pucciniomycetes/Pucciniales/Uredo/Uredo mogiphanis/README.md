@@ -1,5 +1,4 @@
-Uredo mogiphanis Juel SPECIES
-=======
+# Uredo mogiphanis Juel SPECIES
 
 #### Status
 ACCEPTED

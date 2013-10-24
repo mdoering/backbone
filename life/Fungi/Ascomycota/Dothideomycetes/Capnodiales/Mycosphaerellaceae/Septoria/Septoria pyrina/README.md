@@ -1,5 +1,4 @@
-Septoria pyrina Sawada SPECIES
-=======
+# Septoria pyrina Sawada SPECIES
 
 #### Status
 ACCEPTED

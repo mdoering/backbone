@@ -1,5 +1,4 @@
-Meliola cuscutae Hansf. SPECIES
-=======
+# Meliola cuscutae Hansf. SPECIES
 
 #### Status
 ACCEPTED

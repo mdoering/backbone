@@ -1,5 +1,4 @@
-Ramibacterium Prévot, 1938 GENUS
-=======
+# Ramibacterium Prévot, 1938 GENUS
 
 #### Status
 ACCEPTED

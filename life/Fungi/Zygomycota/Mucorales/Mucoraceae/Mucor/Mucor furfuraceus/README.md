@@ -1,5 +1,4 @@
-Mucor furfuraceus Batsch SPECIES
-=======
+# Mucor furfuraceus Batsch SPECIES
 
 #### Status
 ACCEPTED

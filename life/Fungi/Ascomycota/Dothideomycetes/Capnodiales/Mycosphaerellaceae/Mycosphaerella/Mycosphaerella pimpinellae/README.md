@@ -1,5 +1,4 @@
-Mycosphaerella pimpinellae Petr. SPECIES
-=======
+# Mycosphaerella pimpinellae Petr. SPECIES
 
 #### Status
 ACCEPTED

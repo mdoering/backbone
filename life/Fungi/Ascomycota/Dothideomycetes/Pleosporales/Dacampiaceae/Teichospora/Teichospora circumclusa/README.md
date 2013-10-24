@@ -1,5 +1,4 @@
-Teichospora circumclusa (De Not.) Sacc. SPECIES
-=======
+# Teichospora circumclusa (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

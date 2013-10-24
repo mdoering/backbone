@@ -1,5 +1,4 @@
-Dictyocha pygmaea (P.F. Ciesielski) C.A. Shaw & P.F. Ciesielski SPECIES
-=======
+# Dictyocha pygmaea (P.F. Ciesielski) C.A. Shaw & P.F. Ciesielski SPECIES
 
 #### Status
 ACCEPTED

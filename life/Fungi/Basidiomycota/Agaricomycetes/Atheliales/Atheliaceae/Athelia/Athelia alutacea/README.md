@@ -1,5 +1,4 @@
-Athelia alutacea Jülich, 1972 SPECIES
-=======
+# Athelia alutacea Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

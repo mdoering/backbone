@@ -1,5 +1,4 @@
-Polystictus ochrohirsutus Lloyd SPECIES
-=======
+# Polystictus ochrohirsutus Lloyd SPECIES
 
 #### Status
 ACCEPTED

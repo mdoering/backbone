@@ -1,17 +1,16 @@
-Isaria sulfurea var. sulfurea VARIETY
-=======
+# Chrysosporium sulfureum (Fiedl.) Oorschot & Samson, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. exsicc. 3: no. 60 (1859)
+in Van Oorschot, Stud. Mycol. 20: 28 (1980)
 
 #### Original name
-Isaria sulfurea var. sulfurea
+Isaria sulfurea Fiedl., 1859
 
 ### Remarks
 null

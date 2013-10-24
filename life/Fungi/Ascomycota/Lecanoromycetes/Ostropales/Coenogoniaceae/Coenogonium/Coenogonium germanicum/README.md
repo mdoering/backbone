@@ -1,5 +1,4 @@
-Coenogonium germanicum Glück SPECIES
-=======
+# Coenogonium germanicum Glück SPECIES
 
 #### Status
 ACCEPTED

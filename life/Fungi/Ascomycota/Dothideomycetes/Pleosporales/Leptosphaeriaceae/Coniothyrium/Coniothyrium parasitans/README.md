@@ -1,5 +1,4 @@
-Coniothyrium parasitans (Berk. & Ravenel) Tassi SPECIES
-=======
+# Coniothyrium parasitans (Berk. & Ravenel) Tassi SPECIES
 
 #### Status
 ACCEPTED

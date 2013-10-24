@@ -1,5 +1,4 @@
-Psathyrella cascadensis A.H. Sm. SPECIES
-=======
+# Psathyrella cascadensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

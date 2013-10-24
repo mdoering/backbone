@@ -1,5 +1,4 @@
-Uredo oryzopsidis Gonz. Frag. SPECIES
-=======
+# Uredo oryzopsidis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

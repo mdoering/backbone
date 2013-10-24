@@ -1,14 +1,13 @@
-Thelephora mucedinea (Pat.) Sacc. & P. Syd., 1899 SPECIES
-=======
+# Exidiopsis mucedinea (Pat.) K. Wells, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(1): 214 (1899)
+Lloydia 20: 46 (1957)
 
 #### Original name
 Sebacina mucedinea Pat., 1895

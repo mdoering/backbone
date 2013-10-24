@@ -1,17 +1,16 @@
-Camarosporium ficina S. Ahmad SPECIES
-=======
+# Camarosporium ficinum S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 13: 26 (1967)
 
 #### Original name
-Camarosporium ficina S. Ahmad
+Camarosporium ficinum S. Ahmad
 
 ### Remarks
 null

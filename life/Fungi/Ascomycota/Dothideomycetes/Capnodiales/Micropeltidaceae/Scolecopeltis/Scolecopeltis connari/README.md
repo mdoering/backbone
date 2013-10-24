@@ -1,5 +1,4 @@
-Scolecopeltis connari Syd. {?} SPECIES
-=======
+# Scolecopeltis connari Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phenylobacterium Lingens et al., 1985 GENUS
-=======
+# Phenylobacterium Lingens et al., 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epalxis antiquorum SPECIES
-=======
+# Epalxis antiquorum SPECIES
 
 #### Status
 ACCEPTED

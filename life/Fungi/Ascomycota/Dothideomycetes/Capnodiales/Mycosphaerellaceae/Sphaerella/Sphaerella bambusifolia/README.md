@@ -1,5 +1,4 @@
-Sphaerella bambusifolia (I. Miyake & Hara) Sacc. SPECIES
-=======
+# Sphaerella bambusifolia (I. Miyake & Hara) Sacc. SPECIES
 
 #### Status
 ACCEPTED

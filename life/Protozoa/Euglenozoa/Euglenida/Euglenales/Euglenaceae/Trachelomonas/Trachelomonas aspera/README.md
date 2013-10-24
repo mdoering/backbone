@@ -1,5 +1,4 @@
-Trachelomonas aspera Da Cuncha SPECIES
-=======
+# Trachelomonas aspera Da Cuncha SPECIES
 
 #### Status
 ACCEPTED

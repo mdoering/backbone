@@ -1,5 +1,4 @@
-Tubiporus morrisii (Peck) Imai {?} SPECIES
-=======
+# Tubiporus morrisii (Peck) Imai {?} SPECIES
 
 #### Status
 ACCEPTED

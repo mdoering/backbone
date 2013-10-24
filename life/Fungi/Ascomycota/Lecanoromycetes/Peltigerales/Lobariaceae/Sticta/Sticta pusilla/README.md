@@ -1,5 +1,4 @@
-Sticta pusilla R. Meissn. SPECIES
-=======
+# Sticta pusilla R. Meissn. SPECIES
 
 #### Status
 ACCEPTED

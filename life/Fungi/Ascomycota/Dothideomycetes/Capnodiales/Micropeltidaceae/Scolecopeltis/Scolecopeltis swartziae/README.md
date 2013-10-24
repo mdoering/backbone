@@ -1,5 +1,4 @@
-Scolecopeltis swartziae Bat. & Gayão SPECIES
-=======
+# Scolecopeltis swartziae Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

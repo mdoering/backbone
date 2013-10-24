@@ -1,5 +1,4 @@
-Scopularia pini Goid. SPECIES
-=======
+# Scopularia pini Goid. SPECIES
 
 #### Status
 ACCEPTED

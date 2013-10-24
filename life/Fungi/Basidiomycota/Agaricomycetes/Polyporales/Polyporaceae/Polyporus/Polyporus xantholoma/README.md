@@ -1,5 +1,4 @@
-Polyporus xantholoma Schwein. SPECIES
-=======
+# Polyporus xantholoma Schwein. SPECIES
 
 #### Status
 ACCEPTED

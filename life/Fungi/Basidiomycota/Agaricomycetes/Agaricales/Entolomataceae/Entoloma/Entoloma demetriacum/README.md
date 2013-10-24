@@ -1,5 +1,4 @@
-Entoloma demetriacum Berk. & Mont. SPECIES
-=======
+# Entoloma demetriacum Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis dura Zahlbr. SPECIES
-=======
+# Phaeographis dura Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

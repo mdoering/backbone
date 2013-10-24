@@ -1,5 +1,4 @@
-Verrucaria subareolata Nyl. SPECIES
-=======
+# Verrucaria subareolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

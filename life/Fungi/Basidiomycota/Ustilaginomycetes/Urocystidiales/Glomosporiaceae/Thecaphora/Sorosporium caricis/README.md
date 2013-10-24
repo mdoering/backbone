@@ -1,5 +1,4 @@
-Sorosporium caricis Ferraris SPECIES
-=======
+# Sorosporium caricis Ferraris SPECIES
 
 #### Status
 ACCEPTED

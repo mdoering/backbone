@@ -1,5 +1,4 @@
-Morchella tomentosa M. Kuo SPECIES
-=======
+# Morchella tomentosa M. Kuo SPECIES
 
 #### Status
 ACCEPTED

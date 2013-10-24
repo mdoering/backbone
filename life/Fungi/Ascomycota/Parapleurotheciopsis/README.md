@@ -1,5 +1,4 @@
-Parapleurotheciopsis P.M. Kirk GENUS
-=======
+# Parapleurotheciopsis P.M. Kirk GENUS
 
 #### Status
 ACCEPTED

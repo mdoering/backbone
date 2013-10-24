@@ -1,5 +1,4 @@
-Sphinctrina acicularis Sm. SPECIES
-=======
+# Sphinctrina acicularis Sm. SPECIES
 
 #### Status
 ACCEPTED

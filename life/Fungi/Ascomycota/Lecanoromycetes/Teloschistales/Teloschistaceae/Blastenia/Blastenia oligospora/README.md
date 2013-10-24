@@ -1,5 +1,4 @@
-Blastenia oligospora (Th. Fr.) Arnold SPECIES
-=======
+# Blastenia oligospora (Th. Fr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus limosus Fr. SPECIES
-=======
+# Agaricus limosus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia morreniae Syd. & P. Syd. SPECIES
-=======
+# Diplodia morreniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

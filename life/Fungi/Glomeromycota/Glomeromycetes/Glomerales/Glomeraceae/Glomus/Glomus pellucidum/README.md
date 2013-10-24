@@ -1,5 +1,4 @@
-Glomus pellucidum McGee & Pattinson, 2002 SPECIES
-=======
+# Glomus pellucidum McGee & Pattinson, 2002 SPECIES
 
 #### Status
 ACCEPTED

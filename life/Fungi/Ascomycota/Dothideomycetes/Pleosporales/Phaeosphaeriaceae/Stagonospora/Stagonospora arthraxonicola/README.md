@@ -1,5 +1,4 @@
-Stagonospora arthraxonicola (Naumov {?} ) E. Castell. & Germano SPECIES
-=======
+# Stagonospora arthraxonicola (Naumov {?} ) E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

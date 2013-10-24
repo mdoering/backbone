@@ -1,5 +1,4 @@
-Coniothecium eucalypti Thüm. SPECIES
-=======
+# Coniothecium eucalypti Thüm. SPECIES
 
 #### Status
 ACCEPTED

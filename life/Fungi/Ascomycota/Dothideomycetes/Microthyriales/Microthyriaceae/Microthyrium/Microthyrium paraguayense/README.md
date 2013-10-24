@@ -1,5 +1,4 @@
-Microthyrium paraguayense Speg. SPECIES
-=======
+# Microthyrium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

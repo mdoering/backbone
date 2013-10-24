@@ -1,5 +1,4 @@
-Gymnopilus armillatus Murrill SPECIES
-=======
+# Gymnopilus armillatus Murrill SPECIES
 
 #### Status
 ACCEPTED

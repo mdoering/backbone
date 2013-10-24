@@ -1,5 +1,4 @@
-Lachnum crystalligerum Sacc. SPECIES
-=======
+# Lachnum crystalligerum Sacc. SPECIES
 
 #### Status
 ACCEPTED

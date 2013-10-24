@@ -1,5 +1,4 @@
-Guepinia agaricina (Pat.) Sacc. SPECIES
-=======
+# Guepinia agaricina (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

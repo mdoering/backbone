@@ -1,5 +1,4 @@
-Philasteridae Kahl, 1931 FAMILY
-=======
+# Philasteridae Kahl, 1931 FAMILY
 
 #### Status
 ACCEPTED

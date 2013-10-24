@@ -1,5 +1,4 @@
-Mycosphaerella vivipari (G. Winter) Lind SPECIES
-=======
+# Mycosphaerella vivipari (G. Winter) Lind SPECIES
 
 #### Status
 ACCEPTED

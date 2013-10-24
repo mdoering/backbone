@@ -1,5 +1,4 @@
-Zignoella dealbata (Cooke) Sacc., 1887 SPECIES
-=======
+# Zignoella dealbata (Cooke) Sacc., 1887 SPECIES
 
 #### Status
 DOUBTFUL

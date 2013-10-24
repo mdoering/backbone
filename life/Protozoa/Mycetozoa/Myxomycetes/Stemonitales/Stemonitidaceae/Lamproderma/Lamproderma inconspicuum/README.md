@@ -1,5 +1,4 @@
-Lamproderma inconspicuum J. Schröt. SPECIES
-=======
+# Lamproderma inconspicuum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

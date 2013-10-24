@@ -1,5 +1,4 @@
-Pleospora grevilleae Petr. SPECIES
-=======
+# Pleospora grevilleae Petr. SPECIES
 
 #### Status
 ACCEPTED

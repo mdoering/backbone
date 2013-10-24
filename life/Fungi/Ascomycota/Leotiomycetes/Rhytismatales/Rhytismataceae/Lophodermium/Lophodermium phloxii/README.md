@@ -1,5 +1,4 @@
-Lophodermium phloxii Bonar & W.B. Cooke SPECIES
-=======
+# Lophodermium phloxii Bonar & W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

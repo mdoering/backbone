@@ -1,8 +1,7 @@
-Peptococcus saccharolyticus (Foubert and Douglas, 1948) Douglas, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Staphylococcus saccharolyticus (Foubert & Douglas, 1948) Kilpper-Bälz & Schleifer, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

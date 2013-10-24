@@ -1,5 +1,4 @@
-Galerina cortinarioides A.H. Sm. SPECIES
-=======
+# Galerina cortinarioides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

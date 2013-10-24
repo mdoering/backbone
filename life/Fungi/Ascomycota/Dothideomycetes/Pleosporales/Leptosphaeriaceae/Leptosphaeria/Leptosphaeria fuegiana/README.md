@@ -1,5 +1,4 @@
-Leptosphaeria fuegiana Speg. SPECIES
-=======
+# Leptosphaeria fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

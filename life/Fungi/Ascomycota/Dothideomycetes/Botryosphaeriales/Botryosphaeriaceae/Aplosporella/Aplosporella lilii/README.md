@@ -1,5 +1,4 @@
-Aplosporella lilii (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Aplosporella lilii (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

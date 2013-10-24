@@ -1,11 +1,10 @@
-Goniodoma orientale (Lindemann) Balech, 1979 SPECIES
-=======
+# Gonyaulax lebourae Balech, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Phallus multicolor (Berk. & Broome) Cooke SPECIES
-=======
+# Phallus multicolor (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

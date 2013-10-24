@@ -1,5 +1,4 @@
-Phaeographina lamii Redinger SPECIES
-=======
+# Phaeographina lamii Redinger SPECIES
 
 #### Status
 ACCEPTED

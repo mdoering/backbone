@@ -1,5 +1,4 @@
-Septoria eugeniarum Speg. SPECIES
-=======
+# Septoria eugeniarum Speg. SPECIES
 
 #### Status
 ACCEPTED

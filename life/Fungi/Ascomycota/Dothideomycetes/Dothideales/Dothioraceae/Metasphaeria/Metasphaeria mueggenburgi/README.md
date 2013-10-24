@@ -1,5 +1,4 @@
-Metasphaeria mueggenburgi Sacc. SPECIES
-=======
+# Metasphaeria mueggenburgi Sacc. SPECIES
 
 #### Status
 ACCEPTED

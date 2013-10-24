@@ -1,5 +1,4 @@
-Stilbum buloloense Matsush., 1971 SPECIES
-=======
+# Stilbum buloloense Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

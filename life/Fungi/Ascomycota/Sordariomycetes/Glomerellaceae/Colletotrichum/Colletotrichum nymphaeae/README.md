@@ -1,14 +1,13 @@
-Ascochyta nymphaeae Pass., 1877 SPECIES
-=======
+# Colletotrichum nymphaeae (Pass.) Aa, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 16: 120 (1877)
+Netherlands Journal of Plant Pathology, Supplement 1 84(3): 110 (1978)
 
 #### Original name
 Ascochyta nymphaeae Pass., 1877

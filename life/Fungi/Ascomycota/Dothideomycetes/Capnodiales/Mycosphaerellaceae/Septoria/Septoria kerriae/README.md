@@ -1,5 +1,4 @@
-Septoria kerriae Syd. SPECIES
-=======
+# Septoria kerriae Syd. SPECIES
 
 #### Status
 ACCEPTED

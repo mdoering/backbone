@@ -1,5 +1,4 @@
-Hetalum Yeh, 1989 GENUS
-=======
+# Hetalum Yeh, 1989 GENUS
 
 #### Status
 ACCEPTED

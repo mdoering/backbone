@@ -1,5 +1,4 @@
-Phyllachora schotiae (Doidge) Doidge, 1942 SPECIES
-=======
+# Phyllachora schotiae (Doidge) Doidge, 1942 SPECIES
 
 #### Status
 DOUBTFUL

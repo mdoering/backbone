@@ -1,14 +1,13 @@
-Stigmatidium caesiellum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Minksia caesiella Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. R. Soc. Edinb. 11: (1882)
 
 #### Original name
 Minksia caesiella Müll. Arg.

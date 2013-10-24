@@ -1,5 +1,4 @@
-Hebeloma subvatricosoides Murrill SPECIES
-=======
+# Hebeloma subvatricosoides Murrill SPECIES
 
 #### Status
 ACCEPTED

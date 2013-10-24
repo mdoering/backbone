@@ -1,8 +1,7 @@
-Vorticella bursata Müller, 1786 SPECIES
-=======
+# Urceolaria bursata Müller, 1786 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

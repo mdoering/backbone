@@ -1,5 +1,4 @@
-Uredo lamarckiae Caball. & Gonz. Frag. SPECIES
-=======
+# Uredo lamarckiae Caball. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

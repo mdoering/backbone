@@ -1,5 +1,4 @@
-Asteridiella nuxiae (Syd.) Hansf. SPECIES
-=======
+# Asteridiella nuxiae (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

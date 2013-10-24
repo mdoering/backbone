@@ -1,5 +1,4 @@
-Remototrachyna costaricensis (Nyl.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna costaricensis (Nyl.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

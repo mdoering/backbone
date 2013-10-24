@@ -1,5 +1,4 @@
-Cordyceps cylindrostromata Z.Q. Liang, A.Y. Liu & M.H. Liu SPECIES
-=======
+# Cordyceps cylindrostromata Z.Q. Liang, A.Y. Liu & M.H. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalacria vitis-idaeae Rehm SPECIES
-=======
+# Physalacria vitis-idaeae Rehm SPECIES
 
 #### Status
 ACCEPTED

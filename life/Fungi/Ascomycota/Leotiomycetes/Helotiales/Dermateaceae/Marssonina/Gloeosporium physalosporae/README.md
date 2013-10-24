@@ -1,5 +1,4 @@
-Gloeosporium physalosporae Cavara SPECIES
-=======
+# Gloeosporium physalosporae Cavara SPECIES
 
 #### Status
 ACCEPTED

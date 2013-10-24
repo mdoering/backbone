@@ -1,5 +1,4 @@
-Brauniellula GENUS
-=======
+# Brauniellula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra umbonata Peck SPECIES
-=======
+# Psathyra umbonata Peck SPECIES
 
 #### Status
 ACCEPTED

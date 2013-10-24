@@ -1,5 +1,4 @@
-Rivularia nitida (C. Agardh) Bornet & Flahault SPECIES
-=======
+# Rivularia nitida (C. Agardh) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

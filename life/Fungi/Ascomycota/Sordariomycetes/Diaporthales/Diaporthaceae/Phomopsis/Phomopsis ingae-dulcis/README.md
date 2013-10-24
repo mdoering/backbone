@@ -1,5 +1,4 @@
-Phomopsis ingae-dulcis (Died.) Aa SPECIES
-=======
+# Phomopsis ingae-dulcis (Died.) Aa SPECIES
 
 #### Status
 ACCEPTED

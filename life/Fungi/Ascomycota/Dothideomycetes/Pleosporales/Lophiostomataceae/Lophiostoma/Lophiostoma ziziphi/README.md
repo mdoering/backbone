@@ -1,17 +1,16 @@
-Lophiostoma zizyphi Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma ziziphi Aptroot & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hyde, Wong & Aptroot, Fungal Diversity Res. Ser. (Hong Kong) 7: 108 (2002)
 
 #### Original name
-Lophiostoma zizyphi Aptroot & K.D. Hyde
+Massarina appendiculata Panwar, Purohit & Geholt ex Aptroot
 
 ### Remarks
 null

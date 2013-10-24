@@ -1,5 +1,4 @@
-Botryodiplodia sarothamni (Oudem.) H. Ruppr. SPECIES
-=======
+# Botryodiplodia sarothamni (Oudem.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

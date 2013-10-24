@@ -1,5 +1,4 @@
-Eriomoeszia Vánky GENUS
-=======
+# Eriomoeszia Vánky GENUS
 
 #### Status
 ACCEPTED

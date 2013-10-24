@@ -1,5 +1,4 @@
-Sphaerulina umbilicata Sacc. & Malbr. SPECIES
-=======
+# Sphaerulina umbilicata Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Timanella M.A. Plotnikov, 1974 GENUS
-=======
+# Timanella M.A. Plotnikov, 1974 GENUS
 
 #### Status
 ACCEPTED

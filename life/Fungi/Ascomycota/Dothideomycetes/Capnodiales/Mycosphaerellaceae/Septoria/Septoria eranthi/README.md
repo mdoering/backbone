@@ -1,5 +1,4 @@
-Septoria eranthi Koval SPECIES
-=======
+# Septoria eranthi Koval SPECIES
 
 #### Status
 ACCEPTED

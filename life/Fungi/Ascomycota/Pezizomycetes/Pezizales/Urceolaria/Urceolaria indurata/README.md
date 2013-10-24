@@ -1,5 +1,4 @@
-Urceolaria indurata Vain. SPECIES
-=======
+# Urceolaria indurata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea bigelowii Nannf., 1965 SPECIES
-=======
+# Anthracoidea bigelowii Nannf., 1965 SPECIES
 
 #### Status
 ACCEPTED

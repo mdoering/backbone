@@ -1,5 +1,4 @@
-Arthonia turcica J. Steiner SPECIES
-=======
+# Arthonia turcica J. Steiner SPECIES
 
 #### Status
 ACCEPTED

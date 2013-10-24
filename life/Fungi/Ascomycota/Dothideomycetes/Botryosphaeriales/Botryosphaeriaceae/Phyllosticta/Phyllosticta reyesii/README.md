@@ -1,5 +1,4 @@
-Phyllosticta reyesii Yates SPECIES
-=======
+# Phyllosticta reyesii Yates SPECIES
 
 #### Status
 ACCEPTED

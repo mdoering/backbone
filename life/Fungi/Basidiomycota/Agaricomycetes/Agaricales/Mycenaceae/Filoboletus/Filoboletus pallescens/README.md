@@ -1,5 +1,4 @@
-Filoboletus pallescens (Boedijn) Maas Geest. SPECIES
-=======
+# Filoboletus pallescens (Boedijn) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

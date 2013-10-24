@@ -1,5 +1,4 @@
-Arthonia phyllogena (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia phyllogena (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella erythrinae A.K. Kar & Maity SPECIES
-=======
+# Eutypella erythrinae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia subabbrevians (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subabbrevians (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

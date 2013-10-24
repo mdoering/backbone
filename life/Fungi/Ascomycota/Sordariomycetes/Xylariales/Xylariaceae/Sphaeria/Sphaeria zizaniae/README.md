@@ -1,5 +1,4 @@
-Sphaeria zizaniae Schwein. SPECIES
-=======
+# Sphaeria zizaniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

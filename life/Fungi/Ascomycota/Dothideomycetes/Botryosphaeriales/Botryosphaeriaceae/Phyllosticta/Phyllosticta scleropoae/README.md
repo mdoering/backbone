@@ -1,5 +1,4 @@
-Phyllosticta scleropoae Gonz. Frag. SPECIES
-=======
+# Phyllosticta scleropoae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena ochraceoviscosa var. ochraceoviscosa VARIETY
-=======
+# Mycena ochraceoviscosa Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Metrodiana, Sonderheft 1: 27 (1972)
 
 #### Original name
-Mycena ochraceoviscosa var. ochraceoviscosa
+Mycena ochraceoviscosa Raithelh.
 
 ### Remarks
 null

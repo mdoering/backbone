@@ -1,5 +1,4 @@
-Pseudobeltrania summa Matsush. SPECIES
-=======
+# Pseudobeltrania summa Matsush. SPECIES
 
 #### Status
 ACCEPTED

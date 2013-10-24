@@ -1,5 +1,4 @@
-Phyllosticta pharbitis Sacc. SPECIES
-=======
+# Phyllosticta pharbitis Sacc. SPECIES
 
 #### Status
 ACCEPTED

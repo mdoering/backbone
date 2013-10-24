@@ -1,17 +1,16 @@
-Stanglomyces taxophila Raithelh. SPECIES
-=======
+# Stanglomyces taxophilus Raithelh., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Metrodiana 14(2): 37 (1986)
 
 #### Original name
-Stanglomyces taxophila Raithelh.
+Stanglomyces taxophilus Raithelh., 1986
 
 ### Remarks
 null

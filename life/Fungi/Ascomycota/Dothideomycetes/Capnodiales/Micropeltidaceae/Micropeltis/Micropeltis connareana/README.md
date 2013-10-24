@@ -1,5 +1,4 @@
-Micropeltis connareana Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis connareana Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus licmophorus Massee SPECIES
-=======
+# Polystictus licmophorus Massee SPECIES
 
 #### Status
 ACCEPTED

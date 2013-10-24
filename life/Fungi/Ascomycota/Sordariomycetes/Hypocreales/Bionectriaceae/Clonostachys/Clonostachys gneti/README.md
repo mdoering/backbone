@@ -1,5 +1,4 @@
-Clonostachys gneti Oudem. SPECIES
-=======
+# Clonostachys gneti Oudem. SPECIES
 
 #### Status
 ACCEPTED

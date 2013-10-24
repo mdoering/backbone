@@ -1,5 +1,4 @@
-Cercospora gei Bubák SPECIES
-=======
+# Cercospora gei Bubák SPECIES
 
 #### Status
 ACCEPTED

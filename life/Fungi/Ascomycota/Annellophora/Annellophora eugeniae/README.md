@@ -1,5 +1,4 @@
-Annellophora eugeniae U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
-=======
+# Annellophora eugeniae U.S. Patel, A.K. Pandey & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

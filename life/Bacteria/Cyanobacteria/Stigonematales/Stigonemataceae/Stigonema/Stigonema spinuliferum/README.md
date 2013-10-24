@@ -1,5 +1,4 @@
-Stigonema spinuliferum Gardner SPECIES
-=======
+# Stigonema spinuliferum Gardner SPECIES
 
 #### Status
 ACCEPTED

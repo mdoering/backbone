@@ -1,5 +1,4 @@
-Amphisphaeria fautreyi Sacc. SPECIES
-=======
+# Amphisphaeria fautreyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

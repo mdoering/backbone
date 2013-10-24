@@ -1,5 +1,4 @@
-Tapesia carpathica Velen. SPECIES
-=======
+# Tapesia carpathica Velen. SPECIES
 
 #### Status
 ACCEPTED

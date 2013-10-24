@@ -1,5 +1,4 @@
-Lecidea moriopsoides Vain. SPECIES
-=======
+# Lecidea moriopsoides Vain. SPECIES
 
 #### Status
 ACCEPTED

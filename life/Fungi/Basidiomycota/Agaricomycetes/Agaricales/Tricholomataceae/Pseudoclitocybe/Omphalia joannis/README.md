@@ -1,5 +1,4 @@
-Omphalia joannis Velen. SPECIES
-=======
+# Omphalia joannis Velen. SPECIES
 
 #### Status
 ACCEPTED

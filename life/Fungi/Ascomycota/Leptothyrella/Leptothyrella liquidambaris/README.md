@@ -1,5 +1,4 @@
-Leptothyrella liquidambaris Tehon & G.L. Stout SPECIES
-=======
+# Leptothyrella liquidambaris Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

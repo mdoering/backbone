@@ -1,5 +1,4 @@
-Pseudobaeospora argentea Bas SPECIES
-=======
+# Pseudobaeospora argentea Bas SPECIES
 
 #### Status
 ACCEPTED

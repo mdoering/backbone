@@ -1,5 +1,4 @@
-Xylaria montagnei Hamme & Guerrero SPECIES
-=======
+# Xylaria montagnei Hamme & Guerrero SPECIES
 
 #### Status
 ACCEPTED

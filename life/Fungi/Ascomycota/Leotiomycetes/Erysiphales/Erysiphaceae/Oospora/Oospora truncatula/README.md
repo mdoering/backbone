@@ -1,5 +1,4 @@
-Oospora truncatula Sacc. SPECIES
-=======
+# Oospora truncatula Sacc. SPECIES
 
 #### Status
 ACCEPTED

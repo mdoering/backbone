@@ -1,5 +1,4 @@
-Stagonospora chenopodii Peck SPECIES
-=======
+# Stagonospora chenopodii Peck SPECIES
 
 #### Status
 ACCEPTED

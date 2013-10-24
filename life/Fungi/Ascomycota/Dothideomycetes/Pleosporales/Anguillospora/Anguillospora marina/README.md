@@ -1,5 +1,4 @@
-Anguillospora marina Nakagiri & Tubaki, 1983 SPECIES
-=======
+# Anguillospora marina Nakagiri & Tubaki, 1983 SPECIES
 
 #### Status
 ACCEPTED

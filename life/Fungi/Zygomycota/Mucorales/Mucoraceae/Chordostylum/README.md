@@ -1,5 +1,4 @@
-Chordostylum Tode GENUS
-=======
+# Chordostylum Tode GENUS
 
 #### Status
 ACCEPTED

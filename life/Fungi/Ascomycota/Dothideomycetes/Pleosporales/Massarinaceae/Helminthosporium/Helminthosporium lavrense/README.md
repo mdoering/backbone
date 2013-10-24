@@ -1,5 +1,4 @@
-Helminthosporium lavrense Viégas SPECIES
-=======
+# Helminthosporium lavrense Viégas SPECIES
 
 #### Status
 ACCEPTED

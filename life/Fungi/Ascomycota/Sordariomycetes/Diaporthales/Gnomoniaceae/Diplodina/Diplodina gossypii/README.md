@@ -1,5 +1,4 @@
-Diplodina gossypii Zimm. SPECIES
-=======
+# Diplodina gossypii Zimm. SPECIES
 
 #### Status
 ACCEPTED

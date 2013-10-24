@@ -1,5 +1,4 @@
-Stomiopeltella ampelozizyphi Bat. & Peres SPECIES
-=======
+# Stomiopeltella ampelozizyphi Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

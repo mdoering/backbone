@@ -1,5 +1,4 @@
-Ascochyta artemisiae Bond.-Mont. SPECIES
-=======
+# Ascochyta artemisiae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

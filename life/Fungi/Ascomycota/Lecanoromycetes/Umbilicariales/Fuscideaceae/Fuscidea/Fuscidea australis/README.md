@@ -1,5 +1,4 @@
-Fuscidea australis var. australis VARIETY
-=======
+# Fuscidea australis Kantvilas SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Biblthca Lichenol. 78: 176 (2001)
 
 #### Original name
-Fuscidea australis var. australis
+Fuscidea australis Kantvilas
 
 ### Remarks
 null

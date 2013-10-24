@@ -1,5 +1,4 @@
-Penicillium rivolii var. rivolii VARIETY
-=======
+# Penicillium rivolii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Int. Acad. Polon. Sci. , Sér. B. , Sci. Nat. 471 (1927)
 
 #### Original name
-Penicillium rivolii var. rivolii
+Penicillium rivolii K.M. Zalessky
 
 ### Remarks
 null

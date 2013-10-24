@@ -1,5 +1,4 @@
-Puccinia ornatula Holw. SPECIES
-=======
+# Puccinia ornatula Holw. SPECIES
 
 #### Status
 ACCEPTED

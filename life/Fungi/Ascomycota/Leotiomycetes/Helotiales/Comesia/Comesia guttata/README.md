@@ -1,5 +1,4 @@
-Comesia guttata Maire SPECIES
-=======
+# Comesia guttata Maire SPECIES
 
 #### Status
 ACCEPTED

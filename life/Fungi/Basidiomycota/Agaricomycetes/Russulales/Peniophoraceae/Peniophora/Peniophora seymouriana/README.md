@@ -1,5 +1,4 @@
-Peniophora seymouriana Burt, 1926 SPECIES
-=======
+# Peniophora seymouriana Burt, 1926 SPECIES
 
 #### Status
 ACCEPTED

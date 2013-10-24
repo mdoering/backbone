@@ -1,5 +1,4 @@
-Clitocybe lobata (Sowerby) SPECIES
-=======
+# Clitocybe lobata (Sowerby) SPECIES
 
 #### Status
 ACCEPTED

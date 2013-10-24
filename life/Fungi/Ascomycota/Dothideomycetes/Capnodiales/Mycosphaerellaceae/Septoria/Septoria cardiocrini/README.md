@@ -1,5 +1,4 @@
-Septoria cardiocrini Togashi SPECIES
-=======
+# Septoria cardiocrini Togashi SPECIES
 
 #### Status
 ACCEPTED

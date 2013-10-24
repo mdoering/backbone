@@ -1,5 +1,4 @@
-Lecanora lucens (Nyl.) Nyl. SPECIES
-=======
+# Lecanora lucens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

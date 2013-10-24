@@ -1,5 +1,4 @@
-Propolis coccinea (Fr.) Mussat SPECIES
-=======
+# Propolis coccinea (Fr.) Mussat SPECIES
 
 #### Status
 ACCEPTED

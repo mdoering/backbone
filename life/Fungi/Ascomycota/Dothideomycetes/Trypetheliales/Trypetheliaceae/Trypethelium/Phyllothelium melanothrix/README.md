@@ -1,5 +1,4 @@
-Phyllothelium melanothrix (Eschw.) Trevis. SPECIES
-=======
+# Phyllothelium melanothrix (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

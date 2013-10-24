@@ -1,5 +1,4 @@
-Gloeochrysis pyrenigera Pascher SPECIES
-=======
+# Gloeochrysis pyrenigera Pascher SPECIES
 
 #### Status
 ACCEPTED

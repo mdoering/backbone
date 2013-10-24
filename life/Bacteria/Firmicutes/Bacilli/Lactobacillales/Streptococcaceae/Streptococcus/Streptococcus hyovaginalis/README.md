@@ -1,5 +1,4 @@
-Streptococcus hyovaginalis Devriese et al., 1997 SPECIES
-=======
+# Streptococcus hyovaginalis Devriese et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

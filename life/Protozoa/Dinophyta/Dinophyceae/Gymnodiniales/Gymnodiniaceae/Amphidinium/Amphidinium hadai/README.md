@@ -1,5 +1,4 @@
-Amphidinium hadai Balech, 1976 SPECIES
-=======
+# Amphidinium hadai Balech, 1976 SPECIES
 
 #### Status
 ACCEPTED

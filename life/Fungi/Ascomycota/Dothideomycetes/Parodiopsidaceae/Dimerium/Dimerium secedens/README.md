@@ -1,5 +1,4 @@
-Dimerium secedens (Sacc.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium secedens (Sacc.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

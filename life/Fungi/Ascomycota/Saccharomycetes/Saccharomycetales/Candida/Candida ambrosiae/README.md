@@ -1,5 +1,4 @@
-Candida ambrosiae Kurtzman SPECIES
-=======
+# Candida ambrosiae Kurtzman SPECIES
 
 #### Status
 ACCEPTED

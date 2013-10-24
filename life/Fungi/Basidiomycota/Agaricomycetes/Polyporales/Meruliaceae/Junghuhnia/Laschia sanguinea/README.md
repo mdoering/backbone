@@ -1,5 +1,4 @@
-Laschia sanguinea (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Laschia sanguinea (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

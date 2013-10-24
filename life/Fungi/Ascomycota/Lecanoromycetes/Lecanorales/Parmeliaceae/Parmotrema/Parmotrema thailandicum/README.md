@@ -1,5 +1,4 @@
-Parmotrema thailandicum Elix & Pooprang SPECIES
-=======
+# Parmotrema thailandicum Elix & Pooprang SPECIES
 
 #### Status
 ACCEPTED

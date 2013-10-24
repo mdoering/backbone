@@ -1,5 +1,4 @@
-Euplotidium arenarium Maganini & Nobili, 1964 SPECIES
-=======
+# Euplotidium arenarium Maganini & Nobili, 1964 SPECIES
 
 #### Status
 ACCEPTED

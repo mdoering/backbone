@@ -1,5 +1,4 @@
-Mycena cuspidatipilosa Lodge SPECIES
-=======
+# Mycena cuspidatipilosa Lodge SPECIES
 
 #### Status
 ACCEPTED

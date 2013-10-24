@@ -1,5 +1,4 @@
-Hymenomonas elongata (Droop) Parke & Green SPECIES
-=======
+# Hymenomonas elongata (Droop) Parke & Green SPECIES
 
 #### Status
 ACCEPTED

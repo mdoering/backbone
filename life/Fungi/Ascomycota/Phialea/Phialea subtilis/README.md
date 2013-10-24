@@ -1,5 +1,4 @@
-Phialea subtilis (Fr.) Gillet SPECIES
-=======
+# Phialea subtilis (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

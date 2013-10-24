@@ -1,5 +1,4 @@
-Amphista crassa SPECIES
-=======
+# Amphista crassa SPECIES
 
 #### Status
 ACCEPTED

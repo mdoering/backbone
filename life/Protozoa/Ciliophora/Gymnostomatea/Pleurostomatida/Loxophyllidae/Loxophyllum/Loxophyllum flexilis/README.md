@@ -1,5 +1,4 @@
-Loxophyllum flexilis Stokes, 1885 SPECIES
-=======
+# Loxophyllum flexilis Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

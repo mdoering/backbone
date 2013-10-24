@@ -1,5 +1,4 @@
-Gloeosporium minus Shear SPECIES
-=======
+# Gloeosporium minus Shear SPECIES
 
 #### Status
 ACCEPTED

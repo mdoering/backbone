@@ -1,5 +1,4 @@
-Caloplaca septella (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca septella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon albiroseus A.H. Sm. SPECIES
-=======
+# Rhizopogon albiroseus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

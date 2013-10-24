@@ -1,5 +1,4 @@
-Heppia sprucei (Hue) Zahlbr. SPECIES
-=======
+# Heppia sprucei (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

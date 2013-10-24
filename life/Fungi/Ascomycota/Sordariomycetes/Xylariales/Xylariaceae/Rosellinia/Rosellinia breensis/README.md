@@ -1,5 +1,4 @@
-Rosellinia breensis Starbäck SPECIES
-=======
+# Rosellinia breensis Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactrospora pleistophragmoides (Nyl.) Egea & Torrente SPECIES
-=======
+# Bactrospora pleistophragmoides (Nyl.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

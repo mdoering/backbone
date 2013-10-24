@@ -1,5 +1,4 @@
-Hagenia picta Bagl. SPECIES
-=======
+# Hagenia picta Bagl. SPECIES
 
 #### Status
 ACCEPTED

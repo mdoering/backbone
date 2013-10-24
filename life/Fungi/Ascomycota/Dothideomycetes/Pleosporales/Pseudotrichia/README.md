@@ -1,5 +1,4 @@
-Pseudotrichia Kirschstein, 1939 GENUS
-=======
+# Pseudotrichia Kirschstein, 1939 GENUS
 
 #### Status
 ACCEPTED

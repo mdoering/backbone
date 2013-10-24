@@ -1,5 +1,4 @@
-Erysibe alchemillae Wallr. SPECIES
-=======
+# Erysibe alchemillae Wallr. SPECIES
 
 #### Status
 ACCEPTED

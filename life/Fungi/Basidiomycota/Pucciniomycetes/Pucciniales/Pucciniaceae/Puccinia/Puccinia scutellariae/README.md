@@ -1,5 +1,4 @@
-Puccinia scutellariae D.M. Hend. SPECIES
-=======
+# Puccinia scutellariae D.M. Hend. SPECIES
 
 #### Status
 ACCEPTED

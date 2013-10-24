@@ -1,5 +1,4 @@
-Septoria winklerae Durrieu SPECIES
-=======
+# Septoria winklerae Durrieu SPECIES
 
 #### Status
 ACCEPTED

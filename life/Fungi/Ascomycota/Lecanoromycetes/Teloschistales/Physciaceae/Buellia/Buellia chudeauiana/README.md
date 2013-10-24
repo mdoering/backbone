@@ -1,5 +1,4 @@
-Buellia chudeauiana (Hue) Zahlbr. SPECIES
-=======
+# Buellia chudeauiana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces perelegans Thaxt. SPECIES
-=======
+# Corethromyces perelegans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

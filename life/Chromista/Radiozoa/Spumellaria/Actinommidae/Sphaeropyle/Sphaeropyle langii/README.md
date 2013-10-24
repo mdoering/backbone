@@ -1,5 +1,4 @@
-Sphaeropyle langii Dreyer, 1889 SPECIES
-=======
+# Sphaeropyle langii Dreyer, 1889 SPECIES
 
 #### Status
 ACCEPTED

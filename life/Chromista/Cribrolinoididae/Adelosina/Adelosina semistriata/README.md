@@ -1,5 +1,4 @@
-Adelosina semistriata d’Orbigny, 1826 SPECIES
-=======
+# Adelosina semistriata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

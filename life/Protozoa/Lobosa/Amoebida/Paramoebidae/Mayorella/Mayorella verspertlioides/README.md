@@ -1,5 +1,4 @@
-Mayorella verspertlioides SPECIES
-=======
+# Mayorella verspertlioides SPECIES
 
 #### Status
 ACCEPTED

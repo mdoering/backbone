@@ -1,5 +1,4 @@
-Scyphosphaera pulcherrima Deflandre, 1942 SPECIES
-=======
+# Scyphosphaera pulcherrima Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

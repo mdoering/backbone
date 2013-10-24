@@ -1,5 +1,4 @@
-Buellia superans (Nyl.) Mong. SPECIES
-=======
+# Buellia superans (Nyl.) Mong. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia owaniana Stirt. SPECIES
-=======
+# Parmelia owaniana Stirt. SPECIES
 
 #### Status
 ACCEPTED

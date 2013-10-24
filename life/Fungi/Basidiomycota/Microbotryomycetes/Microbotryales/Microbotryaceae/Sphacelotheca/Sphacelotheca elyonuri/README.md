@@ -1,5 +1,4 @@
-Sphacelotheca elyonuri Ciccar. SPECIES
-=======
+# Sphacelotheca elyonuri Ciccar. SPECIES
 
 #### Status
 ACCEPTED

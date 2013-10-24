@@ -1,5 +1,4 @@
-Microthyriacites baqueroensis A. Martínez SPECIES
-=======
+# Microthyriacites baqueroensis A. Martínez SPECIES
 
 #### Status
 ACCEPTED

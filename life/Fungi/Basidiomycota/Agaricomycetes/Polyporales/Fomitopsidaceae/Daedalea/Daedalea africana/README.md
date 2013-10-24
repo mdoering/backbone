@@ -1,5 +1,4 @@
-Daedalea africana I. Johans. & Ryvarden, 1980 SPECIES
-=======
+# Daedalea africana I. Johans. & Ryvarden, 1980 SPECIES
 
 #### Status
 ACCEPTED

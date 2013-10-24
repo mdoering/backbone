@@ -1,5 +1,4 @@
-Karschia patinelloides (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Karschia patinelloides (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Uredo silenis-inflata Zigno SPECIES
-=======
+# Uredo silenes-inflata Zigno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo silenis-inflata Zigno
+Uredo silenes-inflata Zigno
 
 ### Remarks
 null

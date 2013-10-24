@@ -1,5 +1,4 @@
-Clavaria lutea A. Venturi SPECIES
-=======
+# Clavaria lutea A. Venturi SPECIES
 
 #### Status
 ACCEPTED

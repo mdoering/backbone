@@ -1,5 +1,4 @@
-Ramalina subanceps Nyl. SPECIES
-=======
+# Ramalina subanceps Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces thailandicus K. Põldmaa & Samuels SPECIES
-=======
+# Hypomyces thailandicus K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

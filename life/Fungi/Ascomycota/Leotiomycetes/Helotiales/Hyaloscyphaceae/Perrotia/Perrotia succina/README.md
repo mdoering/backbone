@@ -1,14 +1,13 @@
-Perrotia succinea (W. Phillips) Dennis SPECIES
-=======
+# Perrotia succina (W. Phillips) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 2(2): 182 (1962)
 
 #### Original name
 null

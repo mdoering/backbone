@@ -1,5 +1,4 @@
-Peltigera microdactyla Nyl. SPECIES
-=======
+# Peltigera microdactyla Nyl. SPECIES
 
 #### Status
 ACCEPTED

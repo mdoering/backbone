@@ -1,5 +1,4 @@
-Euglena velata var. granulata G.A.Klebs VARIETY
-=======
+# Euglena velata G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

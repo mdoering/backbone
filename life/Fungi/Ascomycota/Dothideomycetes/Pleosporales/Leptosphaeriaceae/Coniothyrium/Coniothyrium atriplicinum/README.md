@@ -1,5 +1,4 @@
-Coniothyrium atriplicinum G. Winter SPECIES
-=======
+# Coniothyrium atriplicinum G. Winter SPECIES
 
 #### Status
 ACCEPTED

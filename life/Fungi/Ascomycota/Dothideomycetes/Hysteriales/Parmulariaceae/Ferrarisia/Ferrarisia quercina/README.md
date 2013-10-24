@@ -1,5 +1,4 @@
-Ferrarisia quercina S.K. Bose & E. Müll., 1964 SPECIES
-=======
+# Ferrarisia quercina S.K. Bose & E. Müll., 1964 SPECIES
 
 #### Status
 ACCEPTED

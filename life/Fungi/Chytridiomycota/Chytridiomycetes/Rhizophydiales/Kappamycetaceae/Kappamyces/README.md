@@ -1,5 +1,4 @@
-Kappamyces Letcher & M.J. Powell GENUS
-=======
+# Kappamyces Letcher & M.J. Powell GENUS
 
 #### Status
 ACCEPTED

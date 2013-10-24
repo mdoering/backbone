@@ -1,5 +1,4 @@
-Helminthosporium hypselodelphyos M.B. Ellis SPECIES
-=======
+# Helminthosporium hypselodelphyos M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

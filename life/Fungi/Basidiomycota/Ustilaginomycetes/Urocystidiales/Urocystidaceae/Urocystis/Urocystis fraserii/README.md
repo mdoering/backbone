@@ -1,5 +1,4 @@
-Urocystis fraserii Clinton & Zundel SPECIES
-=======
+# Urocystis fraserii Clinton & Zundel SPECIES
 
 #### Status
 ACCEPTED

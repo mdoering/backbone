@@ -1,5 +1,4 @@
-Cercosporidium manitobanum (J.J. Davis) B. Sutton SPECIES
-=======
+# Cercosporidium manitobanum (J.J. Davis) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

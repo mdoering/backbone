@@ -1,5 +1,4 @@
-Metadiplodia kansensis (Ellis & Everh.) Zambett. SPECIES
-=======
+# Metadiplodia kansensis (Ellis & Everh.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

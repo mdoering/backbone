@@ -1,14 +1,13 @@
-Acusmonss B.V. Skvortzov, 1969 GENUS
-=======
+# Astasia F. Dujardin, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Q. Jl Taiwan Mus. 22: 231 (as Acusmonas; also as Acusmonss).
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Acutocapillitium P. Ponce de León GENUS
-=======
+# Acutocapillitium P. Ponce de León GENUS
 
 #### Status
 ACCEPTED

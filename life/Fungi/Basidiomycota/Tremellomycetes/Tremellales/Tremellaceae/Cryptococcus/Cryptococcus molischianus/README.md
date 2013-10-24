@@ -1,5 +1,4 @@
-Cryptococcus molischianus (Zikes) C.E. Skinner SPECIES
-=======
+# Cryptococcus molischianus (Zikes) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

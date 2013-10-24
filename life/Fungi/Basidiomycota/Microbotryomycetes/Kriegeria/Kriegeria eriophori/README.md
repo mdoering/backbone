@@ -1,17 +1,16 @@
-Kriegeria eriophoria Bres. SPECIES
-=======
+# Kriegeria eriophori Bres., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 13: 14 (1891)
 
 #### Original name
-Kriegeria eriophoria Bres.
+Kriegeria eriophori Bres., 1891
 
 ### Remarks
 null

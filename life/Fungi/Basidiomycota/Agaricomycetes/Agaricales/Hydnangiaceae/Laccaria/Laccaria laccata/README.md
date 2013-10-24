@@ -1,17 +1,16 @@
-Laccaria affinis f. affinis FORM
-=======
+# Laccaria laccata (Scop.) Cooke, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 13(no. 51): 49 (1983)
+Grevillea 12(no. 63): 70 (1884)
 
 #### Original name
-Laccaria affinis f. affinis
+Agaricus laccatus Scop., 1772
 
 ### Remarks
 null

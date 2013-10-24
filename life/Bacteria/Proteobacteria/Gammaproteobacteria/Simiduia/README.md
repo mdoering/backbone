@@ -1,5 +1,4 @@
-Simiduia Shieh et al., 2008 GENUS
-=======
+# Simiduia Shieh et al., 2008 GENUS
 
 #### Status
 ACCEPTED

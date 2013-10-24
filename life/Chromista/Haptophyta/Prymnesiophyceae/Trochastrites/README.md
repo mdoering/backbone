@@ -1,5 +1,4 @@
-Trochastrites H.Stradner GENUS
-=======
+# Trochastrites H.Stradner GENUS
 
 #### Status
 ACCEPTED

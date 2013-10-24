@@ -1,5 +1,4 @@
-Septoria rhinanthi Bondartsev SPECIES
-=======
+# Septoria rhinanthi Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cassiae-occidentalis J.M. Yen SPECIES
-=======
+# Cercospora cassiae-occidentalis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

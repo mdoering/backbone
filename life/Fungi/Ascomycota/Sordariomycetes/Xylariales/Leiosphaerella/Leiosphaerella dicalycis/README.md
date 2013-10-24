@@ -1,5 +1,4 @@
-Leiosphaerella dicalycis Katum. SPECIES
-=======
+# Leiosphaerella dicalycis Katum. SPECIES
 
 #### Status
 ACCEPTED

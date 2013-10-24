@@ -1,14 +1,13 @@
-Leptogium molybdoplacum (Nyl.) Stizenb. SPECIES
-=======
+# Steinera molybdoplaca (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deutsche Südpolar-Expedit. , 8. Bot. (1906)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Phoma deserticola Faurel & Schotter SPECIES
-=======
+# Phoma deserticola Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

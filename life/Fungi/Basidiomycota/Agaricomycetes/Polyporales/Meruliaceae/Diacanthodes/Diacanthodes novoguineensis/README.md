@@ -1,14 +1,13 @@
-Polyporus novoguineensis Henn. SPECIES
-=======
+# Diacanthodes novoguineensis (Henn.) O. Fidalgo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rickia 1: 149 (1962)
 
 #### Original name
 Polyporus novoguineensis Henn.

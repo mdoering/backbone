@@ -1,5 +1,4 @@
-Stichospora disciformis Petr., 1927 SPECIES
-=======
+# Stichospora disciformis Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

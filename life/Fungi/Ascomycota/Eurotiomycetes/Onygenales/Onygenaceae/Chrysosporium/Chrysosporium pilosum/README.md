@@ -1,5 +1,4 @@
-Chrysosporium pilosum Gené, Guarro & Ulfig, 1994 SPECIES
-=======
+# Chrysosporium pilosum Gené, Guarro & Ulfig, 1994 SPECIES
 
 #### Status
 ACCEPTED

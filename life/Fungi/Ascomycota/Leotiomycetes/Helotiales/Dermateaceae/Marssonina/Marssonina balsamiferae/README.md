@@ -1,5 +1,4 @@
-Marssonina balsamiferae Y. Hirats. SPECIES
-=======
+# Marssonina balsamiferae Y. Hirats. SPECIES
 
 #### Status
 ACCEPTED

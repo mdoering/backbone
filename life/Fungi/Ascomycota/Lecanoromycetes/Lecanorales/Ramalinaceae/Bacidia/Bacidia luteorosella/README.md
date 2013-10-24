@@ -1,5 +1,4 @@
-Bacidia luteorosella Nyl. SPECIES
-=======
+# Bacidia luteorosella Nyl. SPECIES
 
 #### Status
 ACCEPTED

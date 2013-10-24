@@ -1,5 +1,4 @@
-Dematium rupincola Link SPECIES
-=======
+# Dematium rupincola Link SPECIES
 
 #### Status
 ACCEPTED

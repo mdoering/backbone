@@ -1,5 +1,4 @@
-Neta angliae K.D. Hyde & Goh, 1999 SPECIES
-=======
+# Neta angliae K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
 ACCEPTED

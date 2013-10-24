@@ -1,5 +1,4 @@
-Stereum nigrorugosum Lloyd SPECIES
-=======
+# Stereum nigrorugosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

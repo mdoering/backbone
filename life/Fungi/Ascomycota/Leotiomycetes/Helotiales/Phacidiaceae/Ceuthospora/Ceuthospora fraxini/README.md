@@ -1,5 +1,4 @@
-Ceuthospora fraxini Tognini SPECIES
-=======
+# Ceuthospora fraxini Tognini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula nivea Pers. SPECIES
-=======
+# Russula nivea Pers. SPECIES
 
 #### Status
 ACCEPTED

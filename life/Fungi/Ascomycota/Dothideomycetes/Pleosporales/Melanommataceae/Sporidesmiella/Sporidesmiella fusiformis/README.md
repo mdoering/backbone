@@ -1,5 +1,4 @@
-Sporidesmiella fusiformis W.P. Wu SPECIES
-=======
+# Sporidesmiella fusiformis W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

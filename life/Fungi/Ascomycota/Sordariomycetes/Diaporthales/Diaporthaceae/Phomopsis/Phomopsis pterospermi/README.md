@@ -1,5 +1,4 @@
-Phomopsis pterospermi Bond.-Mont. SPECIES
-=======
+# Phomopsis pterospermi Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

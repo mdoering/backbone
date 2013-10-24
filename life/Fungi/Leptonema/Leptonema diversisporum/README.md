@@ -1,5 +1,4 @@
-Leptonema diversisporum Bubák & Serebrian. SPECIES
-=======
+# Leptonema diversisporum Bubák & Serebrian. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carouxella scalaris Manier, Rioux & Whisler ex Manier, Rioux & Whisler, 1965 SPECIES
-=======
+# Carouxella scalaris Manier, Rioux & Whisler ex Manier, Rioux & Whisler, 1965 SPECIES
 
 #### Status
 ACCEPTED

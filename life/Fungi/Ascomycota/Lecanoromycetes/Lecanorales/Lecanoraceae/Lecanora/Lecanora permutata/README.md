@@ -1,5 +1,4 @@
-Lecanora permutata Zahlbr. SPECIES
-=======
+# Lecanora permutata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

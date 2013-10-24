@@ -1,5 +1,4 @@
-Pleospora artemisiae Pat. SPECIES
-=======
+# Pleospora artemisiae Pat. SPECIES
 
 #### Status
 ACCEPTED

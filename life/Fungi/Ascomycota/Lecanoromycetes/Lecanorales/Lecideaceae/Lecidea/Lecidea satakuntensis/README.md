@@ -1,5 +1,4 @@
-Lecidea satakuntensis f. satakuntensis FORM
-=======
+# Lecidea satakuntensis Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea satakuntensis f. satakuntensis
+Lecidea satakuntensis Vain.
 
 ### Remarks
 null

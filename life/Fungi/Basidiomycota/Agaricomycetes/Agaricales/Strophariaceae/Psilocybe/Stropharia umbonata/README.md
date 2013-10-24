@@ -1,5 +1,4 @@
-Stropharia umbonata Massee SPECIES
-=======
+# Stropharia umbonata Massee SPECIES
 
 #### Status
 ACCEPTED

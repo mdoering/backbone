@@ -1,5 +1,4 @@
-Schismatomma flexuosum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Schismatomma flexuosum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

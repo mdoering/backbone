@@ -1,5 +1,4 @@
-Parmeliella lojaconi Müll. Arg. SPECIES
-=======
+# Parmeliella lojaconi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

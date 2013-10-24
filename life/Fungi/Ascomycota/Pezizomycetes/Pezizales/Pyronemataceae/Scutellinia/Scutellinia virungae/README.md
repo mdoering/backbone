@@ -1,5 +1,4 @@
-Scutellinia virungae Van der Veken SPECIES
-=======
+# Scutellinia virungae Van der Veken SPECIES
 
 #### Status
 ACCEPTED

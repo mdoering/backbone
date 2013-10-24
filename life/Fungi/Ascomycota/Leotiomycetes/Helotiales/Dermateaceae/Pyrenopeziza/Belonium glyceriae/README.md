@@ -1,5 +1,4 @@
-Belonium glyceriae (Peck) Seaver SPECIES
-=======
+# Belonium glyceriae (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

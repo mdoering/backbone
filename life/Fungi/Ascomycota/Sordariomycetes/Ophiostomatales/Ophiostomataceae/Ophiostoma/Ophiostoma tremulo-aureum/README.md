@@ -1,8 +1,7 @@
-Ceratocystis tremulo-aurea R.W. Davidson & T.E. Hinds, 1965 SPECIES
-=======
+# Ophiostoma tremulo-aureum (R.W. Davidson & T.E. Hinds) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

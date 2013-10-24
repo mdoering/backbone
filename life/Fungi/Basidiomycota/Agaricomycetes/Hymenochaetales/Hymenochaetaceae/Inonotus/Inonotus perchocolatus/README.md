@@ -1,5 +1,4 @@
-Inonotus perchocolatus var. perchocolatus VARIETY
-=======
+# Inonotus perchocolatus Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 101: 123 (1991)
 
 #### Original name
-Inonotus perchocolatus var. perchocolatus
+Inonotus perchocolatus Corner
 
 ### Remarks
 null

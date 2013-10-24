@@ -1,5 +1,4 @@
-Achlya nowikii Racib. SPECIES
-=======
+# Achlya nowikii Racib. SPECIES
 
 #### Status
 ACCEPTED

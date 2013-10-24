@@ -1,5 +1,4 @@
-Depazea polygonorum Crié SPECIES
-=======
+# Depazea polygonorum Crié SPECIES
 
 #### Status
 ACCEPTED

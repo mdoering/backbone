@@ -1,5 +1,4 @@
-Hypospila rubicola Speg. SPECIES
-=======
+# Hypospila rubicola Speg. SPECIES
 
 #### Status
 ACCEPTED

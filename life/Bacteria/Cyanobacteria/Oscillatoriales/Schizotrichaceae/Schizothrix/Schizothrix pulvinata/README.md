@@ -1,5 +1,4 @@
-Schizothrix pulvinata (Kützing) Gomont SPECIES
-=======
+# Schizothrix pulvinata (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

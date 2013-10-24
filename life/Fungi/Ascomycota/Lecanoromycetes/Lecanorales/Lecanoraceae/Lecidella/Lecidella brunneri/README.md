@@ -1,5 +1,4 @@
-Lecidella brunneri (Nyl.) Arnold SPECIES
-=======
+# Lecidella brunneri (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

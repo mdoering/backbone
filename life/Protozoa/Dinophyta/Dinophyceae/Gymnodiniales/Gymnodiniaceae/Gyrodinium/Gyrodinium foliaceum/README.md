@@ -1,5 +1,4 @@
-Gyrodinium foliaceum Kofoid & Swezy SPECIES
-=======
+# Gyrodinium foliaceum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

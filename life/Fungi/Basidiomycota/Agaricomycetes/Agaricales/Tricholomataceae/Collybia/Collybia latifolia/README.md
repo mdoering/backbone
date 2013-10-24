@@ -1,5 +1,4 @@
-Collybia latifolia Speg. SPECIES
-=======
+# Collybia latifolia Speg. SPECIES
 
 #### Status
 ACCEPTED

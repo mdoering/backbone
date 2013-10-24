@@ -1,8 +1,7 @@
-Anthostomella copelandi Rehm SPECIES
-=======
+# Anthostomella copelandii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anthostomella copelandi Rehm
+Anthostomella copelandii Rehm
 
 ### Remarks
 null

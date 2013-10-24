@@ -1,5 +1,4 @@
-Placidium yoshimurae (H. Harada) Breuss SPECIES
-=======
+# Placidium yoshimurae (H. Harada) Breuss SPECIES
 
 #### Status
 ACCEPTED

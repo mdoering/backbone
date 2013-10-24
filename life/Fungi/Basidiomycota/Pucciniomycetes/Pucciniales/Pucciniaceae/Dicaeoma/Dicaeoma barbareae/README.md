@@ -1,5 +1,4 @@
-Dicaeoma barbareae (DC.) Kuntze SPECIES
-=======
+# Dicaeoma barbareae (DC.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

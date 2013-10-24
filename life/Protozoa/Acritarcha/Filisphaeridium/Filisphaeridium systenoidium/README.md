@@ -1,5 +1,4 @@
-Filisphaeridium systenoidium (Morbey, 1975) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium systenoidium (Morbey, 1975) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

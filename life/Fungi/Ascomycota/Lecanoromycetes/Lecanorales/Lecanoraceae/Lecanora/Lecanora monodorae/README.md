@@ -1,5 +1,4 @@
-Lecanora monodorae Vain. SPECIES
-=======
+# Lecanora monodorae Vain. SPECIES
 
 #### Status
 ACCEPTED

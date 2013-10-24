@@ -1,5 +1,4 @@
-Camarosporium alpinum var. hispanica Traverso VARIETY
-=======
+# Camarosporium alpinum Rostr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 461 (1884)
 
 #### Original name
-Camarosporium alpinum var. hispanica Traverso
+Camarosporium alpinum Rostr.
 
 ### Remarks
 null

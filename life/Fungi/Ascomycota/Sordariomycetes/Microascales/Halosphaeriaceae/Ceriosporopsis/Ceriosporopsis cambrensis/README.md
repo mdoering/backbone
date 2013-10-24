@@ -1,5 +1,4 @@
-Ceriosporopsis cambrensis I.M. Wilson, 1954 SPECIES
-=======
+# Ceriosporopsis cambrensis I.M. Wilson, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena zephirus (Fr. Fr.) P. Kumm. SPECIES
-=======
+# Mycena zephirus (Fr. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

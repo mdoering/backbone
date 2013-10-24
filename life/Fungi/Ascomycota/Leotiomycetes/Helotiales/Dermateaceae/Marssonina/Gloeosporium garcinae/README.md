@@ -1,5 +1,4 @@
-Gloeosporium garcinae Koord. SPECIES
-=======
+# Gloeosporium garcinae Koord. SPECIES
 
 #### Status
 ACCEPTED

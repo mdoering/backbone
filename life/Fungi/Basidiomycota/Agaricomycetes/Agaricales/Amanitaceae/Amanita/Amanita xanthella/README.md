@@ -1,5 +1,4 @@
-Amanita xanthella Corner & Bas SPECIES
-=======
+# Amanita xanthella Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea bupleuri Fuckel SPECIES
-=======
+# Depazea bupleuri Fuckel SPECIES
 
 #### Status
 ACCEPTED

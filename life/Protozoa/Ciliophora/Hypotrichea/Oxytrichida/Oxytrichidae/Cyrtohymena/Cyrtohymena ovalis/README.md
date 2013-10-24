@@ -1,8 +1,7 @@
-Steinia ovalis Reuter, 1961 SPECIES
-=======
+# Cyrtohymena ovalis Reuter, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sarcographa disjectans (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa disjectans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

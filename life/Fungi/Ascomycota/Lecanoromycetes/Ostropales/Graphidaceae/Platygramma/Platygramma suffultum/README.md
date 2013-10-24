@@ -1,5 +1,4 @@
-Platygramma suffultum G. Mey. SPECIES
-=======
+# Platygramma suffultum G. Mey. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septosporium ferrarii Savelli {?} SPECIES
-=======
+# Septosporium ferrarii Savelli {?} SPECIES
 
 #### Status
 ACCEPTED

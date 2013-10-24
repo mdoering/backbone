@@ -1,5 +1,4 @@
-Skeletocutis fimbriata Juan Li & Y.C. Dai SPECIES
-=======
+# Skeletocutis fimbriata Juan Li & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

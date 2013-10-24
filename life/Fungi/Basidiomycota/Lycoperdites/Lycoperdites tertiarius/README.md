@@ -1,5 +1,4 @@
-Lycoperdites tertiarius Poinar SPECIES
-=======
+# Lycoperdites tertiarius Poinar SPECIES
 
 #### Status
 ACCEPTED

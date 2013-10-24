@@ -1,5 +1,4 @@
-Nectriella bambusae (Berk. & Broome) Sacc. SPECIES
-=======
+# Nectriella bambusae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

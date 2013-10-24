@@ -1,5 +1,4 @@
-Didymium decipiens Meyl., 1935 SPECIES
-=======
+# Didymium decipiens Meyl., 1935 SPECIES
 
 #### Status
 ACCEPTED

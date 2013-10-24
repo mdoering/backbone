@@ -1,5 +1,4 @@
-Hysteropsis guajavae Dearn. SPECIES
-=======
+# Hysteropsis guajavae Dearn. SPECIES
 
 #### Status
 ACCEPTED

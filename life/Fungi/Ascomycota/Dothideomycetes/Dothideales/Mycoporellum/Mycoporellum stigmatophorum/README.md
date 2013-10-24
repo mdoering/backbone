@@ -1,5 +1,4 @@
-Mycoporellum stigmatophorum (J. Steiner) Zahlbr. SPECIES
-=======
+# Mycoporellum stigmatophorum (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

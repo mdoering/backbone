@@ -1,5 +1,4 @@
-Nicoletella Kuhnert et al., 2005 GENUS
-=======
+# Nicoletella Kuhnert et al., 2005 GENUS
 
 #### Status
 ACCEPTED

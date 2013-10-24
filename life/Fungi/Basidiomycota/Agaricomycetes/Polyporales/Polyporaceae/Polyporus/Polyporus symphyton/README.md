@@ -1,5 +1,4 @@
-Polyporus symphyton (Schwein.) Fr. SPECIES
-=======
+# Polyporus symphyton (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

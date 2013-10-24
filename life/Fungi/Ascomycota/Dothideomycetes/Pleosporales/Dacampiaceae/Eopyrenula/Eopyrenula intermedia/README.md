@@ -1,5 +1,4 @@
-Eopyrenula intermedia Coppins SPECIES
-=======
+# Eopyrenula intermedia Coppins SPECIES
 
 #### Status
 ACCEPTED

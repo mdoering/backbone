@@ -1,5 +1,4 @@
-Broomeia ellipsospora Höhn., 1905 SPECIES
-=======
+# Broomeia ellipsospora Höhn., 1905 SPECIES
 
 #### Status
 ACCEPTED

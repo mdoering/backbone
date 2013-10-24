@@ -1,5 +1,4 @@
-Graphis perrigida Vain. SPECIES
-=======
+# Graphis perrigida Vain. SPECIES
 
 #### Status
 ACCEPTED

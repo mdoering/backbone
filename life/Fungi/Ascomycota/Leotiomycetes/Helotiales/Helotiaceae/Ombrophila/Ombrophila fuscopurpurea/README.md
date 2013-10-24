@@ -1,5 +1,4 @@
-Ombrophila fuscopurpurea E.K. Cash SPECIES
-=======
+# Ombrophila fuscopurpurea E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

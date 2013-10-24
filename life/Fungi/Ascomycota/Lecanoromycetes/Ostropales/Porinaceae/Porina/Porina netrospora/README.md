@@ -1,5 +1,4 @@
-Porina netrospora (Nägeli) Lettau SPECIES
-=======
+# Porina netrospora (Nägeli) Lettau SPECIES
 
 #### Status
 ACCEPTED

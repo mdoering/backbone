@@ -1,5 +1,4 @@
-Agaricus miltinum Fr. SPECIES
-=======
+# Agaricus miltinum Fr. SPECIES
 
 #### Status
 ACCEPTED

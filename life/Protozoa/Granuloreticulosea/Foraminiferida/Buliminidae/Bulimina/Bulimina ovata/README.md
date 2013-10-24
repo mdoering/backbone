@@ -1,5 +1,4 @@
-Bulimina ovata SPECIES
-=======
+# Bulimina ovata SPECIES
 
 #### Status
 ACCEPTED

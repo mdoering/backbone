@@ -1,5 +1,4 @@
-Usnea humbertii Motyka SPECIES
-=======
+# Usnea humbertii Motyka SPECIES
 
 #### Status
 ACCEPTED

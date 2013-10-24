@@ -1,5 +1,4 @@
-Penzigia microspora Petch SPECIES
-=======
+# Penzigia microspora Petch SPECIES
 
 #### Status
 ACCEPTED

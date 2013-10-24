@@ -1,5 +1,4 @@
-Cercospora comocladiae Petr. & Cif. SPECIES
-=======
+# Cercospora comocladiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metaradiophrya varians Puytorac, 1954 SPECIES
-=======
+# Metaradiophrya varians Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

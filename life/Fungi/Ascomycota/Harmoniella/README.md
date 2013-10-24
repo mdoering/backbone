@@ -1,5 +1,4 @@
-Harmoniella V.N. Borissova, 1981 GENUS
-=======
+# Harmoniella V.N. Borissova, 1981 GENUS
 
 #### Status
 ACCEPTED

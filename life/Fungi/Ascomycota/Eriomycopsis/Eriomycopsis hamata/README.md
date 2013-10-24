@@ -1,5 +1,4 @@
-Eriomycopsis hamata Hansf. SPECIES
-=======
+# Eriomycopsis hamata Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phytophthora iranica Ershad, 1971 SPECIES
-=======
+# Phytophthora iranica Ershad, 1971 SPECIES
 
 #### Status
 ACCEPTED

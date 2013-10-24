@@ -1,5 +1,4 @@
-Cortinarius myxoazureus Rob. Henry SPECIES
-=======
+# Cortinarius myxoazureus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nassula vesiculosa SPECIES
-=======
+# Nassula vesiculosa SPECIES
 
 #### Status
 ACCEPTED

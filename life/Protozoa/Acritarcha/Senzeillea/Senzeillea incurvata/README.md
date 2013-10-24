@@ -1,5 +1,4 @@
-Senzeillea incurvata Stockmans & Willière, 1969 SPECIES
-=======
+# Senzeillea incurvata Stockmans & Willière, 1969 SPECIES
 
 #### Status
 ACCEPTED

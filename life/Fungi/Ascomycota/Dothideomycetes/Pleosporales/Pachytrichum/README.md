@@ -1,5 +1,4 @@
-Pachytrichum GENUS
-=======
+# Pachytrichum GENUS
 
 #### Status
 ACCEPTED

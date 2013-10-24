@@ -1,5 +1,4 @@
-Parmelia albopunctata Eschw. SPECIES
-=======
+# Parmelia albopunctata Eschw. SPECIES
 
 #### Status
 ACCEPTED

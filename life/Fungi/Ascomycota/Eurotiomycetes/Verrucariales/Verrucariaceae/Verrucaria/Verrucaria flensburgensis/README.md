@@ -1,5 +1,4 @@
-Verrucaria flensburgensis Erichsen SPECIES
-=======
+# Verrucaria flensburgensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

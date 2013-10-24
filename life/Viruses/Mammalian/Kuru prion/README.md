@@ -1,5 +1,4 @@
-Kuru prion SPECIES
-=======
+# Kuru prion SPECIES
 
 #### Status
 ACCEPTED

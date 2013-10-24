@@ -1,5 +1,4 @@
-Fusarium pezizoides Desm. SPECIES
-=======
+# Fusarium pezizoides Desm. SPECIES
 
 #### Status
 ACCEPTED

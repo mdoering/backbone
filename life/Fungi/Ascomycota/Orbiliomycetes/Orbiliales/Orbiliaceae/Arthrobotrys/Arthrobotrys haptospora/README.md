@@ -1,5 +1,4 @@
-Arthrobotrys haptospora (Drechsler) S. Schenck, W.B. Kendr. & Pramer SPECIES
-=======
+# Arthrobotrys haptospora (Drechsler) S. Schenck, W.B. Kendr. & Pramer SPECIES
 
 #### Status
 ACCEPTED

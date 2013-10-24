@@ -1,5 +1,4 @@
-Carnobacterium viridans Holley et al., 2002 SPECIES
-=======
+# Carnobacterium viridans Holley et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

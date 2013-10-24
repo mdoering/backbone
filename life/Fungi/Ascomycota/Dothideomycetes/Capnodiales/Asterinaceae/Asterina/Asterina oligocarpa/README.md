@@ -1,5 +1,4 @@
-Asterina oligocarpa Syd. & P. Syd. SPECIES
-=======
+# Asterina oligocarpa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

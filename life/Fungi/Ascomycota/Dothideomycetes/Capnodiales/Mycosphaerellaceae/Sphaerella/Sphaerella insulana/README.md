@@ -1,5 +1,4 @@
-Sphaerella insulana (Bubák & Syd.) Sacc. SPECIES
-=======
+# Sphaerella insulana (Bubák & Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

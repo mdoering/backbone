@@ -1,5 +1,4 @@
-Phomopsis pelargonii Vörös SPECIES
-=======
+# Phomopsis pelargonii Vörös SPECIES
 
 #### Status
 ACCEPTED

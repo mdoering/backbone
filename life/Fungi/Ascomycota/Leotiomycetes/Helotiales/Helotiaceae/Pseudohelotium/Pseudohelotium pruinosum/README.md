@@ -1,5 +1,4 @@
-Pseudohelotium pruinosum (Wallr.) Sacc. SPECIES
-=======
+# Pseudohelotium pruinosum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

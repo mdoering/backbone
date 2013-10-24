@@ -1,5 +1,4 @@
-Sporotrichum torulosum Bonord. SPECIES
-=======
+# Sporotrichum torulosum Bonord. SPECIES
 
 #### Status
 ACCEPTED

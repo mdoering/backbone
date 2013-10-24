@@ -1,5 +1,4 @@
-Stauropylissa Dumitrica, 1989 GENUS
-=======
+# Stauropylissa Dumitrica, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita gossypinoannulata D.A. Reid SPECIES
-=======
+# Amanita gossypinoannulata D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

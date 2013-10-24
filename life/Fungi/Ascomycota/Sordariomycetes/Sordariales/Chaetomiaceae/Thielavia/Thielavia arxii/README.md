@@ -1,5 +1,4 @@
-Thielavia arxii Stchigel & Guarro SPECIES
-=======
+# Thielavia arxii Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

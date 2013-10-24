@@ -1,17 +1,16 @@
-Parmelia leucotyliza f. leucotyliza FORM
-=======
+# Myelochroa leucotyliza (Nyl.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 241 (1987)
 
 #### Original name
-Parmelia leucotyliza f. leucotyliza
+Parmelia leucotyliza Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelephora colliculosa Hoffm. SPECIES
-=======
+# Thelephora colliculosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

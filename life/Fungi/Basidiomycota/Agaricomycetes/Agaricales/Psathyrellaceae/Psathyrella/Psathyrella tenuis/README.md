@@ -1,5 +1,4 @@
-Psathyrella tenuis (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella tenuis (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

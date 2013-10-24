@@ -1,5 +1,4 @@
-Psilocybe oregonensis Guzmán SPECIES
-=======
+# Psilocybe oregonensis Guzmán SPECIES
 
 #### Status
 ACCEPTED

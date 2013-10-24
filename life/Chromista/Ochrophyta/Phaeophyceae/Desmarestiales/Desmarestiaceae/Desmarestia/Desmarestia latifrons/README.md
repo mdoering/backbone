@@ -1,5 +1,4 @@
-Desmarestia latifrons Kützing SPECIES
-=======
+# Desmarestia latifrons Kützing SPECIES
 
 #### Status
 ACCEPTED

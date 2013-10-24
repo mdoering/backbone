@@ -1,5 +1,4 @@
-Pseudoedentostomina Akimoto in Akimoto, Matsui, Shimokawa & Furukawa, 2002 GENUS
-=======
+# Pseudoedentostomina Akimoto in Akimoto, Matsui, Shimokawa & Furukawa, 2002 GENUS
 
 #### Status
 ACCEPTED

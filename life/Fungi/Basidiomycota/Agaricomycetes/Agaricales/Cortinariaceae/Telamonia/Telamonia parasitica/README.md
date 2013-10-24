@@ -1,5 +1,4 @@
-Telamonia parasitica Velen. SPECIES
-=======
+# Telamonia parasitica Velen. SPECIES
 
 #### Status
 ACCEPTED

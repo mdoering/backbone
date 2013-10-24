@@ -1,17 +1,16 @@
-Taphrina cornu-cervi Giesenh. SPECIES
-=======
+# Taphrina cornu-cervae Giesenh., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 76: 135 (1892)
 
 #### Original name
-Taphrina cornu-cervi Giesenh.
+Taphrina cornu-cervae Giesenh., 1892
 
 ### Remarks
 null

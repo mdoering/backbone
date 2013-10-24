@@ -1,17 +1,16 @@
-Rhodophyllus cyanides Romagn. SPECIES
-=======
+# Rhodophyllus cyanoides Romagn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Rhodophylles de Madagascar 150 (1941)
 
 #### Original name
-Rhodophyllus cyanides Romagn.
+Rhodophyllus cyanoides Romagn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pucciniastrum malloti Hirats. SPECIES
-=======
+# Pucciniastrum malloti Hirats. SPECIES
 
 #### Status
 ACCEPTED

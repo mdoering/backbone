@@ -1,5 +1,4 @@
-Perisporina tremae Speg. SPECIES
-=======
+# Perisporina tremae Speg. SPECIES
 
 #### Status
 ACCEPTED

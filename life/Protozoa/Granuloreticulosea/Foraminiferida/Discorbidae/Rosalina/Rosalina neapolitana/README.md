@@ -1,5 +1,4 @@
-Rosalina neapolitana (Hofker, 1951) SPECIES
-=======
+# Rosalina neapolitana (Hofker, 1951) SPECIES
 
 #### Status
 ACCEPTED

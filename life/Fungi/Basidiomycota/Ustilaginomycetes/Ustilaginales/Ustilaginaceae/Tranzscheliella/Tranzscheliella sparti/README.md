@@ -1,14 +1,13 @@
-Ustilago sparti Massenot, 1955 SPECIES
-=======
+# Tranzscheliella sparti (Massenot) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 4 (2003)
 
 #### Original name
 Ustilago sparti Massenot, 1955

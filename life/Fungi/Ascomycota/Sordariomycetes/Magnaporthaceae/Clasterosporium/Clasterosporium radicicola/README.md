@@ -1,5 +1,4 @@
-Clasterosporium radicicola Trotter SPECIES
-=======
+# Clasterosporium radicicola Trotter SPECIES
 
 #### Status
 ACCEPTED

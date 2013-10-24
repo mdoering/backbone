@@ -1,5 +1,4 @@
-Puccinia gouaniicola Speg. SPECIES
-=======
+# Puccinia gouaniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

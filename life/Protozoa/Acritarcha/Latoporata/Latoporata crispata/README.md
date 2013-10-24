@@ -1,5 +1,4 @@
-Latoporata crispata Timofeev, 1959 ex N. Umnova, 1975 SPECIES
-=======
+# Latoporata crispata Timofeev, 1959 ex N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

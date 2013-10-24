@@ -1,5 +1,4 @@
-Puccinia permixta Petr. & Syd. SPECIES
-=======
+# Puccinia permixta Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monodictyites intertrappea Barlinge & Paradkar SPECIES
-=======
+# Monodictyites intertrappeus Barlinge & Paradkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 10(1-4): 168 + text figs H, N, O; pl. 1, figs F, G (1982)
 
 #### Original name
-Monodictyites intertrappea Barlinge & Paradkar
+Monodictyites intertrappeus Barlinge & Paradkar
 
 ### Remarks
 null

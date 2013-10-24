@@ -1,5 +1,4 @@
-Melanconium ammophilae (Durieu & Mont.) Höhn. SPECIES
-=======
+# Melanconium ammophilae (Durieu & Mont.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

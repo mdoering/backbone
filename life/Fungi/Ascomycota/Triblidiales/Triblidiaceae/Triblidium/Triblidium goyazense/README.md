@@ -1,17 +1,16 @@
-Tryblidium goyazense Henn. SPECIES
-=======
+# Triblidium goyazense Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 34: 112 (1895)
 
 #### Original name
-Tryblidium goyazense Henn.
+Triblidium goyazense Henn.
 
 ### Remarks
 null

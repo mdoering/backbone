@@ -1,5 +1,4 @@
-Leucocoprinus brinbaumi (Corda) Sing. SPECIES
-=======
+# Leucocoprinus brinbaumi (Corda) Sing. SPECIES
 
 #### Status
 ACCEPTED

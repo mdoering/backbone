@@ -1,5 +1,4 @@
-Gymnodinium pumilum J. Larsen SPECIES
-=======
+# Gymnodinium pumilum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

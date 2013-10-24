@@ -1,5 +1,4 @@
-Arthrobacter castelli Heyrman et al., 2005 SPECIES
-=======
+# Arthrobacter castelli Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

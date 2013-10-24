@@ -1,5 +1,4 @@
-Thelebolus ellipsoideus Brumm. & de Hoog SPECIES
-=======
+# Thelebolus ellipsoideus Brumm. & de Hoog SPECIES
 
 #### Status
 ACCEPTED

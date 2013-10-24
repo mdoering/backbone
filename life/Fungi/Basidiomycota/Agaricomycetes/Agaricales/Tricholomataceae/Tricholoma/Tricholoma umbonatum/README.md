@@ -1,5 +1,4 @@
-Tricholoma umbonatum Clémençon & Bon SPECIES
-=======
+# Tricholoma umbonatum Clémençon & Bon SPECIES
 
 #### Status
 ACCEPTED

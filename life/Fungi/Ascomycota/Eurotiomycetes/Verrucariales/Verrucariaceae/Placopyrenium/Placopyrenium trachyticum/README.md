@@ -1,5 +1,4 @@
-Placopyrenium trachyticum (Hazsl.) Breuss SPECIES
-=======
+# Placopyrenium trachyticum (Hazsl.) Breuss SPECIES
 
 #### Status
 ACCEPTED

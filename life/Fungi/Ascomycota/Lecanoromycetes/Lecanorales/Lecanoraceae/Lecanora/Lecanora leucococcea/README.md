@@ -1,5 +1,4 @@
-Lecanora leucococcea Sommerf. SPECIES
-=======
+# Lecanora leucococcea Sommerf. SPECIES
 
 #### Status
 ACCEPTED

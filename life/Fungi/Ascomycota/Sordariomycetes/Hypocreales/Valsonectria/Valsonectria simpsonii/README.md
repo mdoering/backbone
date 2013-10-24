@@ -1,5 +1,4 @@
-Valsonectria simpsonii Samuels & Seifert, 1997 SPECIES
-=======
+# Valsonectria simpsonii Samuels & Seifert, 1997 SPECIES
 
 #### Status
 ACCEPTED

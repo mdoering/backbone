@@ -1,5 +1,4 @@
-Thielavia appendiculata M.P. Srivast., Tandon, Bhargava & A.K. Ghosh, 1966 SPECIES
-=======
+# Thielavia appendiculata M.P. Srivast., Tandon, Bhargava & A.K. Ghosh, 1966 SPECIES
 
 #### Status
 ACCEPTED

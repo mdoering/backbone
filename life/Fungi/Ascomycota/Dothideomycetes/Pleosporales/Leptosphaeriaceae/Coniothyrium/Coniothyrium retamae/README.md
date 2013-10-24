@@ -1,5 +1,4 @@
-Coniothyrium retamae Guyot SPECIES
-=======
+# Coniothyrium retamae Guyot SPECIES
 
 #### Status
 ACCEPTED

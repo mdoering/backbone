@@ -1,17 +1,16 @@
-Mylittopsis langloisii Pat., 1895 SPECIES
-=======
+# Mylittopsis marmorata (Berk. & M.A. Curtis) D.P. Rogers & K.J. Martin, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. Morot 9: 247 (1895)
+Mycologia 47(6): 891 (1956)
 
 #### Original name
-Mylittopsis langloisii Pat., 1895
+null
 
 ### Remarks
 null

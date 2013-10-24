@@ -1,5 +1,4 @@
-Phyllachora dalibardae (Peck) Sacc., 1883 SPECIES
-=======
+# Phyllachora dalibardae (Peck) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

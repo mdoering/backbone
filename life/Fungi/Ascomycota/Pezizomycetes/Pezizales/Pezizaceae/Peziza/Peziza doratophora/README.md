@@ -1,5 +1,4 @@
-Peziza doratophora Ellis & Everh. SPECIES
-=======
+# Peziza doratophora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

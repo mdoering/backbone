@@ -1,17 +1,16 @@
-Candida olivarium Santa María, 1958 SPECIES
-=======
+# Candida boidinii C. Ramírez, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Microbiol. esp. 6(3): 251 (1953)
 
 #### Original name
-null
+Candida boidinii C. Ramírez, 1953
 
 ### Remarks
 null

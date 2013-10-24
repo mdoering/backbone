@@ -1,5 +1,4 @@
-Sepedonium cordae Sacc. SPECIES
-=======
+# Sepedonium cordae Sacc. SPECIES
 
 #### Status
 ACCEPTED

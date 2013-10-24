@@ -1,5 +1,4 @@
-Peniophora burkei Burt SPECIES
-=======
+# Peniophora burkei Burt SPECIES
 
 #### Status
 ACCEPTED

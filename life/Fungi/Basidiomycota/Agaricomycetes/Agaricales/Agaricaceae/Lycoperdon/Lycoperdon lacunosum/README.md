@@ -1,5 +1,4 @@
-Lycoperdon lacunosum Bull. SPECIES
-=======
+# Lycoperdon lacunosum Bull. SPECIES
 
 #### Status
 ACCEPTED

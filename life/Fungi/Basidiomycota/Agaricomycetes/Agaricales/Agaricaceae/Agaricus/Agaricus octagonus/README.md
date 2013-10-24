@@ -1,5 +1,4 @@
-Agaricus octagonus With. SPECIES
-=======
+# Agaricus octagonus With. SPECIES
 
 #### Status
 ACCEPTED

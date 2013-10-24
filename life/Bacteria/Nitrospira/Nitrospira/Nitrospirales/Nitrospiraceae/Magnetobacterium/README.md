@@ -1,5 +1,4 @@
-Magnetobacterium GENUS
-=======
+# Magnetobacterium GENUS
 
 #### Status
 ACCEPTED

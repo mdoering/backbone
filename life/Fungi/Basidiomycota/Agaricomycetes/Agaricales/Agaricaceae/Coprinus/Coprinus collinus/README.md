@@ -1,5 +1,4 @@
-Coprinus collinus Pers. SPECIES
-=======
+# Coprinus collinus Pers. SPECIES
 
 #### Status
 ACCEPTED

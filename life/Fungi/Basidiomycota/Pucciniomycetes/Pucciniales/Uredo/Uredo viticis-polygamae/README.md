@@ -1,5 +1,4 @@
-Uredo viticis-polygamae Henn. SPECIES
-=======
+# Uredo viticis-polygamae Henn. SPECIES
 
 #### Status
 ACCEPTED

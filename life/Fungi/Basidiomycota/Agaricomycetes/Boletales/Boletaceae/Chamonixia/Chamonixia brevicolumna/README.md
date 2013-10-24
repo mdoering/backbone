@@ -1,5 +1,4 @@
-Chamonixia brevicolumna A.H. Sm. & Singer, 1959 SPECIES
-=======
+# Chamonixia brevicolumna A.H. Sm. & Singer, 1959 SPECIES
 
 #### Status
 ACCEPTED

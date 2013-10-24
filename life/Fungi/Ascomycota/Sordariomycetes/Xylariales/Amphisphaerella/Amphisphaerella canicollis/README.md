@@ -1,5 +1,4 @@
-Amphisphaerella canicollis (P. Karst.) Kirschst. SPECIES
-=======
+# Amphisphaerella canicollis (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

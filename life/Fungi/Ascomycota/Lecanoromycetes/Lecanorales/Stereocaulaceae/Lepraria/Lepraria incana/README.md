@@ -1,17 +1,16 @@
-Crocynia tephra Hue SPECIES
-=======
+# Lepraria incana (L.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 71: 341 (1924)
+Method. Lich. 4 (1803)
 
 #### Original name
-Crocynia tephra Hue
+Byssus incana L.
 
 ### Remarks
 null

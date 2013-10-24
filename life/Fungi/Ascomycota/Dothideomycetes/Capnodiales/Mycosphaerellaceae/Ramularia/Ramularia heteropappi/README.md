@@ -1,5 +1,4 @@
-Ramularia heteropappi Annal. SPECIES
-=======
+# Ramularia heteropappi Annal. SPECIES
 
 #### Status
 ACCEPTED

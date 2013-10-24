@@ -1,5 +1,4 @@
-Septoria everhartii Teterevn. SPECIES
-=======
+# Septoria everhartii Teterevn. SPECIES
 
 #### Status
 ACCEPTED

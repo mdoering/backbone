@@ -1,5 +1,4 @@
-Stephanopyxis appendiculata (Ehrenberg) Ehrenberg SPECIES
-=======
+# Stephanopyxis appendiculata (Ehrenberg) Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

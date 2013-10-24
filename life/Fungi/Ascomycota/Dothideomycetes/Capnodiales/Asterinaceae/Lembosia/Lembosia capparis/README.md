@@ -1,14 +1,13 @@
-Lembosia capparidis (Hansf.) Arx SPECIES
-=======
+# Lembosia capparis (Hansf.) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 124 (1962)
 
 #### Original name
 Echidnodes capparis Hansf.

@@ -1,5 +1,4 @@
-Lecanora herteri Zahlbr. SPECIES
-=======
+# Lecanora herteri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

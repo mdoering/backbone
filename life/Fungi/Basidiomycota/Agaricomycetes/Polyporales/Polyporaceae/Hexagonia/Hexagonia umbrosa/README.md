@@ -1,5 +1,4 @@
-Hexagonia umbrosa Lloyd SPECIES
-=======
+# Hexagonia umbrosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

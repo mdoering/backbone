@@ -1,5 +1,4 @@
-Isaria hariotii G. Arnaud SPECIES
-=======
+# Isaria hariotii G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

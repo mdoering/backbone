@@ -1,5 +1,4 @@
-Selenozyma Yarrow GENUS
-=======
+# Selenozyma Yarrow GENUS
 
 #### Status
 ACCEPTED

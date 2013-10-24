@@ -1,5 +1,4 @@
-Mycosphaerella ignobilis (Auersw.) Maire & Werner {?} SPECIES
-=======
+# Mycosphaerella ignobilis (Auersw.) Maire & Werner {?} SPECIES
 
 #### Status
 ACCEPTED

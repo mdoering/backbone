@@ -1,14 +1,13 @@
-Oidiopsis macrosporus (Uppal, Patel & Kamat) Golovin SPECIES
-=======
+# Oidiopsis macrospora (Uppal, Patel & Kamat) Mundk. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 40: 15 (1951)
 
 #### Original name
 Oidiopsis taurica var. macrospora Uppal, Patel & Kamat

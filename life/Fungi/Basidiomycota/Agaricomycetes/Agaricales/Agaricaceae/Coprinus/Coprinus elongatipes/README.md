@@ -1,5 +1,4 @@
-Coprinus elongatipes A.H. Sm. & Hesler SPECIES
-=======
+# Coprinus elongatipes A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

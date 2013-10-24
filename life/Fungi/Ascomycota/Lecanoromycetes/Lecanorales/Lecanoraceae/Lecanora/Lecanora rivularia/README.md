@@ -1,5 +1,4 @@
-Lecanora rivularia Nyl. SPECIES
-=======
+# Lecanora rivularia Nyl. SPECIES
 
 #### Status
 ACCEPTED

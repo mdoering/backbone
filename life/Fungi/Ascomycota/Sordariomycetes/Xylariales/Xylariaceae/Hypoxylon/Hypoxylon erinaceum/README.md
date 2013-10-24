@@ -1,5 +1,4 @@
-Hypoxylon erinaceum Berk. & Ravenel SPECIES
-=======
+# Hypoxylon erinaceum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

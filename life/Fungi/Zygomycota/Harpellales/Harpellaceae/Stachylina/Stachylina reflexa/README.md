@@ -1,5 +1,4 @@
-Stachylina reflexa Lichtw. & M.C. Williams, 1988 SPECIES
-=======
+# Stachylina reflexa Lichtw. & M.C. Williams, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pyrgidium tessellatum Stein, 1883 SPECIES
-=======
+# Corythodinium tessellatum (Stein) Leoblich & Loeblich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

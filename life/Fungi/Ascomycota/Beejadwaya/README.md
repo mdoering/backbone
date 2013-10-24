@@ -1,5 +1,4 @@
-Beejadwaya Subram. GENUS
-=======
+# Beejadwaya Subram. GENUS
 
 #### Status
 ACCEPTED

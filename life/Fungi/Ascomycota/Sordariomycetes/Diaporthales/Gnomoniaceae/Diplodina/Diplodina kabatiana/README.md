@@ -1,5 +1,4 @@
-Diplodina kabatiana Bubák SPECIES
-=======
+# Diplodina kabatiana Bubák SPECIES
 
 #### Status
 ACCEPTED

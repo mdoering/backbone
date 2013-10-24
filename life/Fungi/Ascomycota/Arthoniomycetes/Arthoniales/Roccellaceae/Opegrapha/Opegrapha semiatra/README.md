@@ -1,5 +1,4 @@
-Opegrapha semiatra Müll. Arg. SPECIES
-=======
+# Opegrapha semiatra Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galeropsis mitraeformis (Berk.) R. Heim SPECIES
-=======
+# Galeropsis mitraeformis (Berk.) R. Heim SPECIES
 
 #### Status
 ACCEPTED

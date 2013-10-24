@@ -1,5 +1,4 @@
-Peziza glagosa Ellis & Everh. SPECIES
-=======
+# Peziza glagosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia spionicola Precht, 1935 SPECIES
-=======
+# Scyphidia spionicola Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

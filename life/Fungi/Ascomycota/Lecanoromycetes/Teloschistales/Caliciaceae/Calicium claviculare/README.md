@@ -1,5 +1,4 @@
-Calicium claviculare var. claviculare Ach. VARIETY
-=======
+# Calicium claviculare Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium claviculare var. claviculare Ach.
+Calicium claviculare Ach.
 
 ### Remarks
 null

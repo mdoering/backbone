@@ -1,5 +1,4 @@
-Gloeothece neocaledoniensis A. Couté, G. Tell & Y. Thérézien SPECIES
-=======
+# Gloeothece neocaledoniensis A. Couté, G. Tell & Y. Thérézien SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudovalsa bicornis (Cooke) Sacc. SPECIES
-=======
+# Pseudovalsa bicornis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

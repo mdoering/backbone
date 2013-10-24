@@ -1,5 +1,4 @@
-Boletus projectelloides Ortiz, Both, Halling & T.J. Baroni SPECIES
-=======
+# Boletus projectelloides Ortiz, Both, Halling & T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

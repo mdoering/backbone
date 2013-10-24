@@ -1,5 +1,4 @@
-Cercospora pseudarthriae Petch SPECIES
-=======
+# Cercospora pseudarthriae Petch SPECIES
 
 #### Status
 ACCEPTED

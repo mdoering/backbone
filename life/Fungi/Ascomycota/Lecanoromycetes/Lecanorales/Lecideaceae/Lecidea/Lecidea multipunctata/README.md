@@ -1,5 +1,4 @@
-Lecidea multipunctata (Hepp) Samp. SPECIES
-=======
+# Lecidea multipunctata (Hepp) Samp. SPECIES
 
 #### Status
 ACCEPTED

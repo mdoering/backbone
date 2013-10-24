@@ -1,5 +1,4 @@
-Xanthiosphaera Haeckel, 1881 GENUS
-=======
+# Xanthiosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

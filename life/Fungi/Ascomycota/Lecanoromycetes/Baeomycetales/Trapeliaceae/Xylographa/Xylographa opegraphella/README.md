@@ -1,5 +1,4 @@
-Xylographa opegraphella Nyl. SPECIES
-=======
+# Xylographa opegraphella Nyl. SPECIES
 
 #### Status
 ACCEPTED

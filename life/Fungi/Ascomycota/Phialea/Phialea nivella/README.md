@@ -1,5 +1,4 @@
-Phialea nivella P. Karst. SPECIES
-=======
+# Phialea nivella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

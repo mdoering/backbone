@@ -1,5 +1,4 @@
-Lycoperdon alni Bjerk. SPECIES
-=======
+# Lycoperdon alni Bjerk. SPECIES
 
 #### Status
 ACCEPTED

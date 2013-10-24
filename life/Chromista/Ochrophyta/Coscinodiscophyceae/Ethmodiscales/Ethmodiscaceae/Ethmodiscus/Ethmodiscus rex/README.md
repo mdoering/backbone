@@ -1,5 +1,4 @@
-Ethmodiscus rex (Wallich) Hendey SPECIES
-=======
+# Ethmodiscus rex (Wallich) Hendey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta azorellae Øvstedal SPECIES
-=======
+# Gyalecta azorellae Øvstedal SPECIES
 
 #### Status
 ACCEPTED

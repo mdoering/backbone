@@ -1,5 +1,4 @@
-Vorticella nebulifera subsp. nebulifera SUBSPECIES
-=======
+# Vorticella nebulifera Müller SPECIES
 
 #### Status
 ACCEPTED

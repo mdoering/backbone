@@ -1,5 +1,4 @@
-Hypostomum flichianum Vuill. SPECIES
-=======
+# Hypostomum flichianum Vuill. SPECIES
 
 #### Status
 ACCEPTED

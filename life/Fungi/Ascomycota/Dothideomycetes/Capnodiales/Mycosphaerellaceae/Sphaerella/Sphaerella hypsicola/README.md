@@ -1,5 +1,4 @@
-Sphaerella hypsicola Ellis & Everh. SPECIES
-=======
+# Sphaerella hypsicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

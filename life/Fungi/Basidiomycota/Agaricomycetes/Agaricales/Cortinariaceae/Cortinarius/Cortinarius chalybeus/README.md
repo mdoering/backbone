@@ -1,5 +1,4 @@
-Cortinarius chalybeus Soop, 2003 SPECIES
-=======
+# Cortinarius chalybeus Soop, 2003 SPECIES
 
 #### Status
 ACCEPTED

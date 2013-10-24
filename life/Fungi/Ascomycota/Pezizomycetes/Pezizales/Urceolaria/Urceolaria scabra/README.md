@@ -1,5 +1,4 @@
-Urceolaria scabra Pers. SPECIES
-=======
+# Urceolaria scabra Pers. SPECIES
 
 #### Status
 ACCEPTED

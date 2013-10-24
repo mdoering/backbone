@@ -1,5 +1,4 @@
-Caloplaca sophodes (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca sophodes (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

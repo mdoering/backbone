@@ -1,5 +1,4 @@
-Chamaeceras subaurantiacus (Berk. & Broome) Kuntze SPECIES
-=======
+# Chamaeceras subaurantiacus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

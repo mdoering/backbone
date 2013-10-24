@@ -1,5 +1,4 @@
-Hyaloscypha hederae Velen. SPECIES
-=======
+# Hyaloscypha hederae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus pseudoradiatus var. pseudoradiatus Pat. VARIETY
-=======
+# Inonotus pseudoradiatus (Pat.) Ryvarden, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11(4): 207 (1895)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 30 (1983)
 
 #### Original name
-Polyporus pseudoradiatus var. pseudoradiatus Pat.
+Polyporus pseudoradiatus Pat., 1895
 
 ### Remarks
 null

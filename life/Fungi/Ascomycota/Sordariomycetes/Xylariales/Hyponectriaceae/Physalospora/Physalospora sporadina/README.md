@@ -1,5 +1,4 @@
-Physalospora sporadina (Lév.) Sacc. SPECIES
-=======
+# Physalospora sporadina (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

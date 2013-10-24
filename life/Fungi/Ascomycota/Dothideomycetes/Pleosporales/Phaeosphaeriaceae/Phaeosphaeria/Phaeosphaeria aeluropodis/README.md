@@ -1,5 +1,4 @@
-Phaeosphaeria aeluropodis (Lobik) Tomilin SPECIES
-=======
+# Phaeosphaeria aeluropodis (Lobik) Tomilin SPECIES
 
 #### Status
 ACCEPTED

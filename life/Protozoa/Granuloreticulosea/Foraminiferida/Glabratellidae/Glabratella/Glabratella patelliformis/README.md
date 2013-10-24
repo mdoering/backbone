@@ -1,5 +1,4 @@
-Glabratella patelliformis (Brady) SPECIES
-=======
+# Glabratella patelliformis (Brady) SPECIES
 
 #### Status
 ACCEPTED

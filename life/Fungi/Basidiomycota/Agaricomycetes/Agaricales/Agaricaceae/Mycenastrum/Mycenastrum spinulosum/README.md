@@ -1,5 +1,4 @@
-Mycenastrum spinulosum Peck SPECIES
-=======
+# Mycenastrum spinulosum Peck SPECIES
 
 #### Status
 ACCEPTED

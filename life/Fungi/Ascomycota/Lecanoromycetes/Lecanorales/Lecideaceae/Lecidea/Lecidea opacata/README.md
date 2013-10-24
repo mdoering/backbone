@@ -1,5 +1,4 @@
-Lecidea opacata Stizenb. SPECIES
-=======
+# Lecidea opacata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

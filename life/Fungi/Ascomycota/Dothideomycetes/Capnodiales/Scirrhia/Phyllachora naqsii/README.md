@@ -1,5 +1,4 @@
-Phyllachora naqsii K.D. Hyde & C.A. Pearce, 1993 SPECIES
-=======
+# Phyllachora naqsii K.D. Hyde & C.A. Pearce, 1993 SPECIES
 
 #### Status
 DOUBTFUL

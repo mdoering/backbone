@@ -1,5 +1,4 @@
-Lophodermium inflatum Nograsek & Matzer SPECIES
-=======
+# Lophodermium inflatum Nograsek & Matzer SPECIES
 
 #### Status
 ACCEPTED

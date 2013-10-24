@@ -1,5 +1,4 @@
-Trichopeziza tiliae (Peck) Sacc. SPECIES
-=======
+# Trichopeziza tiliae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

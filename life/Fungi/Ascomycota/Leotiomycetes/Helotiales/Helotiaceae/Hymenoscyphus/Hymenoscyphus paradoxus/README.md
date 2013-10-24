@@ -1,5 +1,4 @@
-Hymenoscyphus paradoxus P.J. Fisher & J. Webster SPECIES
-=======
+# Hymenoscyphus paradoxus P.J. Fisher & J. Webster SPECIES
 
 #### Status
 ACCEPTED

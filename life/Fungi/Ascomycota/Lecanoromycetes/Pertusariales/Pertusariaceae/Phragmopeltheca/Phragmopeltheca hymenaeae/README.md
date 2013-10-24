@@ -1,5 +1,4 @@
-Phragmopeltheca hymenaeae Bat. & H. Maia SPECIES
-=======
+# Phragmopeltheca hymenaeae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

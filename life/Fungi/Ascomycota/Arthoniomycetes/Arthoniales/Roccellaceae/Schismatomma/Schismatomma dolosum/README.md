@@ -1,5 +1,4 @@
-Schismatomma dolosum f. dolosum FORM
-=======
+# Schismatomma dolosum (Duby) Flot. & Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Schismatomma dolosum f. dolosum
+Patellaria dolosa Duby
 
 ### Remarks
 null

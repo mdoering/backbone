@@ -1,5 +1,4 @@
-Micrhystridium thusui Fensome et al., 1990 SPECIES
-=======
+# Micrhystridium thusui Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

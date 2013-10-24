@@ -1,5 +1,4 @@
-Dictyocha binoculus Ehrenberg SPECIES
-=======
+# Dictyocha binoculus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

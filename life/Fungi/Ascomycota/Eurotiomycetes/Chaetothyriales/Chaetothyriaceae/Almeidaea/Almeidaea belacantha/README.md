@@ -1,5 +1,4 @@
-Almeidaea belacantha Bat. & J.L. Bezerra SPECIES
-=======
+# Almeidaea belacantha Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

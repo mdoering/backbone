@@ -1,14 +1,13 @@
-Skeletocutis portcrosensis A. David, 1982 SPECIES
-=======
+# Ceriporiopsis portcrosensis (A. David) Ryvarden & Gilb., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturaliste Can. 109: 258 (1982)
+Syn. Fung. (Oslo) 7: 642 (1993)
 
 #### Original name
 Skeletocutis portcrosensis A. David, 1982

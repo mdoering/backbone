@@ -1,17 +1,16 @@
-Entoloma serrata Cleland SPECIES
-=======
+# Entoloma serratum Cleland SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Roy. Soc. South Australia 57: 189 (1933)
 
 #### Original name
-Entoloma serrata Cleland
+Entoloma serratum Cleland
 
 ### Remarks
 null

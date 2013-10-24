@@ -1,5 +1,4 @@
-Macrosporium hederae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Macrosporium hederae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

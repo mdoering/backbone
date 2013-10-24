@@ -1,5 +1,4 @@
-Discostroma osyridis Sivan. SPECIES
-=======
+# Discostroma osyridis Sivan. SPECIES
 
 #### Status
 ACCEPTED

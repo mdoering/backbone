@@ -1,5 +1,4 @@
-Dicaeoma stipae (Arthur) Kuntze SPECIES
-=======
+# Dicaeoma stipae (Arthur) Kuntze SPECIES
 
 #### Status
 ACCEPTED

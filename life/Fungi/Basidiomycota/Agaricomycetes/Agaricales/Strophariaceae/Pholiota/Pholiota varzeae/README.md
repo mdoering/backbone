@@ -1,5 +1,4 @@
-Pholiota varzeae Singer SPECIES
-=======
+# Pholiota varzeae Singer SPECIES
 
 #### Status
 ACCEPTED

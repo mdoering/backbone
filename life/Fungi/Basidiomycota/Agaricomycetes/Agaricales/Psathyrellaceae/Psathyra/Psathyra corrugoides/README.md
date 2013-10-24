@@ -1,5 +1,4 @@
-Psathyra corrugoides Rick SPECIES
-=======
+# Psathyra corrugoides Rick SPECIES
 
 #### Status
 ACCEPTED

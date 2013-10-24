@@ -1,5 +1,4 @@
-Gymnomyces abietis Trappe & Castellano, 2000 SPECIES
-=======
+# Gymnomyces abietis Trappe & Castellano, 2000 SPECIES
 
 #### Status
 ACCEPTED

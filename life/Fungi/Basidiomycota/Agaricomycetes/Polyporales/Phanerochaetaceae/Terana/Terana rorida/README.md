@@ -1,5 +1,4 @@
-Terana rorida (Speg.) Kuntze SPECIES
-=======
+# Terana rorida (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormiella septenaria S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella septenaria S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

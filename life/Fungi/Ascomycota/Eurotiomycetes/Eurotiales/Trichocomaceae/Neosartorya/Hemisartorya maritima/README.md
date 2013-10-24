@@ -1,5 +1,4 @@
-Hemisartorya maritima J.N. Rai & H.J. Chowdhery SPECIES
-=======
+# Hemisartorya maritima J.N. Rai & H.J. Chowdhery SPECIES
 
 #### Status
 ACCEPTED

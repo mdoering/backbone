@@ -1,5 +1,4 @@
-Peridinium volzii var. victoriense VARIETY
-=======
+# Peridinium volzii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

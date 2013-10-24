@@ -1,14 +1,13 @@
-Heppia fuscata Vain. SPECIES
-=======
+# Solorinaria fuscata (Vain.) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. 38: (1935)
 
 #### Original name
 Heppia fuscata Vain.

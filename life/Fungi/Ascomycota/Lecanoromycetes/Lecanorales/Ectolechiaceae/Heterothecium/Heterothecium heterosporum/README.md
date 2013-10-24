@@ -1,5 +1,4 @@
-Heterothecium heterosporum A. Massal SPECIES
-=======
+# Heterothecium heterosporum A. Massal SPECIES
 
 #### Status
 ACCEPTED

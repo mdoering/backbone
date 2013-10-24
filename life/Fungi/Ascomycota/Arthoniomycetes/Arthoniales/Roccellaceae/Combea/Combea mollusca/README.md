@@ -1,14 +1,13 @@
-Dactylina mollusca (Ach.) Tuck. SPECIES
-=======
+# Combea mollusca (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Genera Lichenum: An arrangement of the North America lichens 7 (1872)
+Synopsis Methodica Lichenum Omnium hucusque Cognitorum, Praemissa Introductione Lingua Gallica 1: (1860)
 
 #### Original name
 Parmelia mollusca Ach.

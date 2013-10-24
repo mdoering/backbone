@@ -1,5 +1,4 @@
-Simonsiella GENUS
-=======
+# Simonsiella GENUS
 
 #### Status
 ACCEPTED

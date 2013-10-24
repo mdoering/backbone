@@ -1,5 +1,4 @@
-Dermatodothis euonymi W.H. Hsieh & Chi Y. Chen SPECIES
-=======
+# Dermatodothis euonymi W.H. Hsieh & Chi Y. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria chamaemori P. Karst. SPECIES
-=======
+# Septoria chamaemori P. Karst. SPECIES
 
 #### Status
 ACCEPTED

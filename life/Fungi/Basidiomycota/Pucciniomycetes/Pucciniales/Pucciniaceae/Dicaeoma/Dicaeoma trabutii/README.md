@@ -1,5 +1,4 @@
-Dicaeoma trabutii (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Dicaeoma trabutii (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

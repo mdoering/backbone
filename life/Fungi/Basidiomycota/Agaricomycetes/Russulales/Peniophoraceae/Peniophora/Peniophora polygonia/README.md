@@ -1,17 +1,16 @@
-Gloeocystidium polygonium var. polygonium VARIETY
-=======
+# Peniophora polygonia (Pers.) Bourdot & Galzin, 1928 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wiesner Festschrift (Wien) 69 (1908)
+Hyménomyc. de France (Sceaux) 320 (1928)
 
 #### Original name
-Gloeocystidium polygonium var. polygonium
+null
 
 ### Remarks
 null

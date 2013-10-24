@@ -1,5 +1,4 @@
-Penicillium quintanilla Quintan. SPECIES
-=======
+# Penicillium quintanilla Quintan. SPECIES
 
 #### Status
 ACCEPTED

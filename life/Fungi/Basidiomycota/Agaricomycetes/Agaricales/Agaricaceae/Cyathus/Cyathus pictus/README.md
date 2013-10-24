@@ -1,5 +1,4 @@
-Cyathus pictus H.J. Brodie SPECIES
-=======
+# Cyathus pictus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma verbascicarpa Fairm. SPECIES
-=======
+# Phoma verbascicarpa Fairm. SPECIES
 
 #### Status
 ACCEPTED

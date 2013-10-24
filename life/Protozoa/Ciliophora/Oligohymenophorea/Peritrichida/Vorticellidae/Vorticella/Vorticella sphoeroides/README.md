@@ -1,5 +1,4 @@
-Vorticella sphoeroides Dumas, 1929 SPECIES
-=======
+# Vorticella sphoeroides Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

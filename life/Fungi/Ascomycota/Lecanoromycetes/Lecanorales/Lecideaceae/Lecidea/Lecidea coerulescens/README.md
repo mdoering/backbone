@@ -1,5 +1,4 @@
-Lecidea coerulescens Fée SPECIES
-=======
+# Lecidea coerulescens Fée SPECIES
 
 #### Status
 ACCEPTED

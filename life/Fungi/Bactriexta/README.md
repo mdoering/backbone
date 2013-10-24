@@ -1,5 +1,4 @@
-Bactriexta Preuss GENUS
-=======
+# Bactriexta Preuss GENUS
 
 #### Status
 ACCEPTED

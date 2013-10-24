@@ -1,5 +1,4 @@
-Uredo opheliae Syd. & P. Syd. SPECIES
-=======
+# Uredo opheliae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

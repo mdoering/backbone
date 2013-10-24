@@ -1,5 +1,4 @@
-Ustilago deccanii Chitaley & Yawale SPECIES
-=======
+# Ustilago deccanii Chitaley & Yawale SPECIES
 
 #### Status
 ACCEPTED

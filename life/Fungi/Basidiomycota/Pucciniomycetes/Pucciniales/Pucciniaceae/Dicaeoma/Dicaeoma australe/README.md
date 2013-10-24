@@ -1,5 +1,4 @@
-Dicaeoma australe (Körn.) Kuntze SPECIES
-=======
+# Dicaeoma australe (Körn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

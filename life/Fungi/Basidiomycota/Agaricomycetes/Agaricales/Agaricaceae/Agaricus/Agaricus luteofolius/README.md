@@ -1,5 +1,4 @@
-Agaricus luteofolius Peck SPECIES
-=======
+# Agaricus luteofolius Peck SPECIES
 
 #### Status
 ACCEPTED

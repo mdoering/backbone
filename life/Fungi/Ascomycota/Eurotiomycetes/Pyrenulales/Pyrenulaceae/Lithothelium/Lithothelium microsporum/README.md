@@ -1,5 +1,4 @@
-Lithothelium microsporum R. C. Harris SPECIES
-=======
+# Lithothelium microsporum R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

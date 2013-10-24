@@ -1,14 +1,13 @@
-Ceratopodium clavulatum (Mont.) Kuntze, 1891 SPECIES
-=======
+# Gracilistilbella clavulata (Mont.) Seifert, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Seifert & Samuels, Stud. Mycol. 45: 18 (2000)
 
 #### Original name
 null

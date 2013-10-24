@@ -1,5 +1,4 @@
-Leptothyrium blechni Oudem. SPECIES
-=======
+# Leptothyrium blechni Oudem. SPECIES
 
 #### Status
 ACCEPTED

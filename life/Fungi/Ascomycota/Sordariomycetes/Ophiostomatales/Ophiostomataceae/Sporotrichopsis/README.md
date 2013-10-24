@@ -1,5 +1,4 @@
-Sporotrichopsis Guéguen, 1911 GENUS
-=======
+# Sporotrichopsis Guéguen, 1911 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neisseria elongata subsp. glycolytica SUBSPECIES
-=======
+# Neisseria elongata Bøvre & Holten, 1970 SPECIES
 
 #### Status
 ACCEPTED

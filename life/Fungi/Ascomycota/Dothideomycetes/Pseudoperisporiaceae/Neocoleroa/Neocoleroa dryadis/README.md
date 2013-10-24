@@ -1,5 +1,4 @@
-Neocoleroa dryadis (K. Holm & L. Holm) M.E. Barr SPECIES
-=======
+# Neocoleroa dryadis (K. Holm & L. Holm) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

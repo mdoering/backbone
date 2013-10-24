@@ -1,5 +1,4 @@
-Cercosporina ramularia (Siemaszko) Sacc. SPECIES
-=======
+# Cercosporina ramularia (Siemaszko) Sacc. SPECIES
 
 #### Status
 ACCEPTED

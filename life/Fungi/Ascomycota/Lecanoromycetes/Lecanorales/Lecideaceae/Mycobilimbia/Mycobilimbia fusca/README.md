@@ -1,17 +1,16 @@
-Bilimbia fusca (Schaer.) A. Massal. SPECIES
-=======
+# Mycobilimbia fusca (A. Massal.) Hafellner & V. Wirth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 121 (1852)
+null
 
 #### Original name
-Bilimbia fusca (Schaer.) A. Massal.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arcyria oerstedtii Rostaf., 1875 SPECIES
-=======
+# Arcyria oerstedtii Rostaf., 1875 SPECIES
 
 #### Status
 ACCEPTED

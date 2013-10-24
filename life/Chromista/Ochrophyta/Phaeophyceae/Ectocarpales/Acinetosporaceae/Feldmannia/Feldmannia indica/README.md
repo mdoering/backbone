@@ -1,11 +1,10 @@
-Ectocarpus amicorum Harvey SPECIES
-=======
+# Feldmannia indica (Sonder) Womersley & A. Bailey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

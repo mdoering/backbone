@@ -1,14 +1,13 @@
-Tomentella flaccida var. fungicola Litsch., 1933 VARIETY
-=======
+# Tomentella fungicola (Litsch.) M.J. Larsen, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 49: 64 (1933)
+Mycol. Mem. 4: 55 (1974)
 
 #### Original name
 Tomentella flaccida var. fungicola Litsch., 1933

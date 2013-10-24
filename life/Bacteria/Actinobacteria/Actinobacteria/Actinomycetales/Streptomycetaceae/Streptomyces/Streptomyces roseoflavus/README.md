@@ -1,5 +1,4 @@
-Streptomyces roseoflavus Arai, 1951 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces roseoflavus Arai, 1951 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

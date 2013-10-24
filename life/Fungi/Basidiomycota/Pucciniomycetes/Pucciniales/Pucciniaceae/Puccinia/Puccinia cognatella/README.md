@@ -1,5 +1,4 @@
-Puccinia cognatella Bubák SPECIES
-=======
+# Puccinia cognatella Bubák SPECIES
 
 #### Status
 ACCEPTED

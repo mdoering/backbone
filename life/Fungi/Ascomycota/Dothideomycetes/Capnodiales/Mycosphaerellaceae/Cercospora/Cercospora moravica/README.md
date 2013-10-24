@@ -1,5 +1,4 @@
-Cercospora moravica (Petr.) U. Braun, 1993 SPECIES
-=======
+# Cercospora moravica (Petr.) U. Braun, 1993 SPECIES
 
 #### Status
 ACCEPTED

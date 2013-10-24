@@ -1,17 +1,16 @@
-Agaricus corticola var. corticola Pers. VARIETY
-=======
+# Insiticia roseoflava (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 450 (1971)
 
 #### Original name
-Agaricus corticola var. corticola Pers.
+Mycena roseoflava G. Stev., 1964
 
 ### Remarks
 null

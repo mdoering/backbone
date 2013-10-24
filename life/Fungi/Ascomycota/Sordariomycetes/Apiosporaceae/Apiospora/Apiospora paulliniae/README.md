@@ -1,5 +1,4 @@
-Apiospora paulliniae Rehm SPECIES
-=======
+# Apiospora paulliniae Rehm SPECIES
 
 #### Status
 ACCEPTED

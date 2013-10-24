@@ -1,5 +1,4 @@
-Teichospora schwarzmanniana (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
-=======
+# Teichospora schwarzmanniana (Kravtzev) Koshk., Dzhur. & Frolov SPECIES
 
 #### Status
 ACCEPTED

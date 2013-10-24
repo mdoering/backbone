@@ -1,5 +1,4 @@
-Poikilofusa syrdenospermatella Loeblich & Tappan, 1978 SPECIES
-=======
+# Poikilofusa syrdenospermatella Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

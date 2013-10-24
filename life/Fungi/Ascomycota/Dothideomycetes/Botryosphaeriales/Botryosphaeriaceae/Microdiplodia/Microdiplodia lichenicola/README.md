@@ -1,5 +1,4 @@
-Microdiplodia lichenicola Vouaux SPECIES
-=======
+# Microdiplodia lichenicola Vouaux SPECIES
 
 #### Status
 ACCEPTED

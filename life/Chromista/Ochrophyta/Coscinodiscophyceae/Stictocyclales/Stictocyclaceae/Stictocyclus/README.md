@@ -1,5 +1,4 @@
-Stictocyclus A.Mann, 1925 GENUS
-=======
+# Stictocyclus A.Mann, 1925 GENUS
 
 #### Status
 ACCEPTED

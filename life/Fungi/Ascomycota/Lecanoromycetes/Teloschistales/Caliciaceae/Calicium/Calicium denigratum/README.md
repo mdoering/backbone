@@ -1,5 +1,4 @@
-Calicium denigratum (Vain.) Tibell SPECIES
-=======
+# Calicium denigratum (Vain.) Tibell SPECIES
 
 #### Status
 ACCEPTED

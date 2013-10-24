@@ -1,8 +1,7 @@
-Lemmermannia pallida (Lemmermann) Elenkin SPECIES
-=======
+# Lemmermanniella pallida (Lemmermann) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

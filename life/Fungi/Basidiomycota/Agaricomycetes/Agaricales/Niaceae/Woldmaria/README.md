@@ -1,5 +1,4 @@
-Woldmaria W.B. Cooke, 1961 GENUS
-=======
+# Woldmaria W.B. Cooke, 1961 GENUS
 
 #### Status
 ACCEPTED

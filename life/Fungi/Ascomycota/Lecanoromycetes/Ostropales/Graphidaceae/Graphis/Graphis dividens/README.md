@@ -1,5 +1,4 @@
-Graphis dividens Nyl. SPECIES
-=======
+# Graphis dividens Nyl. SPECIES
 
 #### Status
 ACCEPTED

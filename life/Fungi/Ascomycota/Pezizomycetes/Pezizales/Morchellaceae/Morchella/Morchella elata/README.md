@@ -1,17 +1,16 @@
-Morchella purpurascens f. purpurascens FORM
-=======
+# Morchella elata Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Les Morilles (Paris) 44 (1984)
+Syst. mycol. (Lundae) 2(1): 8 (1822)
 
 #### Original name
-Morchella purpurascens f. purpurascens
+Morchella elata Fr., 1822
 
 ### Remarks
 null

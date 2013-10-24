@@ -1,5 +1,4 @@
-Metasphaeria nobilis (Sacc.) Sacc. SPECIES
-=======
+# Metasphaeria nobilis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

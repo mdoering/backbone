@@ -1,5 +1,4 @@
-Leptosphaeria coffaeicida Speg. SPECIES
-=======
+# Leptosphaeria coffaeicida Speg. SPECIES
 
 #### Status
 ACCEPTED

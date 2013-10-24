@@ -1,5 +1,4 @@
-Leiopsophosphaera pseudozonalis Wang & Chen in Wang & Chen, 1987 SPECIES
-=======
+# Leiopsophosphaera pseudozonalis Wang & Chen in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

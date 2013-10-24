@@ -1,5 +1,4 @@
-Lecidea daliangensis SPECIES
-=======
+# Lecidea daliangensis SPECIES
 
 #### Status
 ACCEPTED

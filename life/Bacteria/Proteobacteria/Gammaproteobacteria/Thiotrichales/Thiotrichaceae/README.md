@@ -1,5 +1,4 @@
-Thiotrichaceae FAMILY
-=======
+# Thiotrichaceae FAMILY
 
 #### Status
 ACCEPTED

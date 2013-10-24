@@ -1,5 +1,4 @@
-Clandestinotrema GENUS
-=======
+# Clandestinotrema GENUS
 
 #### Status
 ACCEPTED

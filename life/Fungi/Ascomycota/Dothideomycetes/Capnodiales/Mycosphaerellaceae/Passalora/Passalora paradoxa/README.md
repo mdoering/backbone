@@ -1,5 +1,4 @@
-Passalora paradoxa (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora paradoxa (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium nitidum Ellis & Galloway ex Karling SPECIES
-=======
+# Synchytrium nitidum Ellis & Galloway ex Karling SPECIES
 
 #### Status
 ACCEPTED

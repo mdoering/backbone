@@ -1,5 +1,4 @@
-Fusarium eichleri Bres. SPECIES
-=======
+# Fusarium eichleri Bres. SPECIES
 
 #### Status
 ACCEPTED

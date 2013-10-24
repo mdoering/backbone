@@ -1,5 +1,4 @@
-Roseinatronobacter Sorokin et al., 2000 GENUS
-=======
+# Roseinatronobacter Sorokin et al., 2000 GENUS
 
 #### Status
 ACCEPTED

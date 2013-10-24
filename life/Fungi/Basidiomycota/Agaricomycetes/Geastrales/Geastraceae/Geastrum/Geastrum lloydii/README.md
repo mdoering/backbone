@@ -1,8 +1,7 @@
-Geaster lloydii Bres. & Pat. SPECIES
-=======
+# Geastrum lloydii Bres. & Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster lloydii Bres. & Pat.
+Geastrum lloydii Bres. & Pat.
 
 ### Remarks
 null

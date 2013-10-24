@@ -1,5 +1,4 @@
-Lasiosphaeria crinita var. crinita VARIETY
-=======
+# Lasiosphaeria crinita (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lasiosphaeria crinita var. crinita
+Sphaeria crinita Pers.
 
 ### Remarks
 null

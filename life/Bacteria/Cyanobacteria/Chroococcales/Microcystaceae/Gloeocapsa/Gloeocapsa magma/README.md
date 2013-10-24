@@ -1,5 +1,4 @@
-Gloeocapsa magma (Brébisson) Hollerbach SPECIES
-=======
+# Gloeocapsa magma (Brébisson) Hollerbach SPECIES
 
 #### Status
 ACCEPTED

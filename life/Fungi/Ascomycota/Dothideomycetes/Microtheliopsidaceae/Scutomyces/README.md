@@ -1,5 +1,4 @@
-Scutomyces GENUS
-=======
+# Scutomyces GENUS
 
 #### Status
 ACCEPTED

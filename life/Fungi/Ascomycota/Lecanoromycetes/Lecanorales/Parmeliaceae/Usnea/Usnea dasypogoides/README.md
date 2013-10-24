@@ -1,5 +1,4 @@
-Usnea dasypogoides var. dasypogoides VARIETY
-=======
+# Usnea dasypogoides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Bot. , London 14: 263 (1876)
 
 #### Original name
-Usnea dasypogoides var. dasypogoides
+Usnea dasypogoides Nyl.
 
 ### Remarks
 null

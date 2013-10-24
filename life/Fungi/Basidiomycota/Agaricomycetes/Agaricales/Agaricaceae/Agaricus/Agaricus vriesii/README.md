@@ -1,5 +1,4 @@
-Agaricus vriesii Lév. SPECIES
-=======
+# Agaricus vriesii Lév. SPECIES
 
 #### Status
 ACCEPTED

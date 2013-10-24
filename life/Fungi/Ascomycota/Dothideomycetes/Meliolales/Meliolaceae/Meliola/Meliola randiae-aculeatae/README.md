@@ -1,5 +1,4 @@
-Meliola randiae-aculeatae Hansf. SPECIES
-=======
+# Meliola randiae-aculeatae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea lentisci Mont. SPECIES
-=======
+# Stigmatea lentisci Mont. SPECIES
 
 #### Status
 ACCEPTED

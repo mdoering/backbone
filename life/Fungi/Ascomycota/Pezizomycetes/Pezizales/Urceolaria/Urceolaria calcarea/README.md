@@ -1,17 +1,16 @@
-Urceolaria calcarea var. calcarea VARIETY
-=======
+# Urceolaria calcarea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Urceolaria calcarea var. calcarea
+null
 
 ### Remarks
 null

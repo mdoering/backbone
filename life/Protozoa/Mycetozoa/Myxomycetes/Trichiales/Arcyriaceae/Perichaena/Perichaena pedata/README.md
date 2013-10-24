@@ -1,14 +1,13 @@
-Perichaena vermicularis var. pedata (Lister & G. Lister) Torrend VARIETY
-=======
+# Perichaena pedata (Lister & G. Lister) Lister ex E. Jahn, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brotéria 7: 30 (1908)
+J. Bot. , London 75: 326 (1937)
 
 #### Original name
 Perichaena variabilis var. pedata Lister & G. Lister

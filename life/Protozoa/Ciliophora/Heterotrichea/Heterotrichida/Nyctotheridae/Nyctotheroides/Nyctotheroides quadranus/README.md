@@ -1,8 +1,7 @@
-Spirocytopharynxa quadranus Li & Wang, 2002 SPECIES
-=======
+# Nyctotheroides quadranus (Li & Wang, 2002) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Thelebolus myriosporus (P. Crouan & H. Crouan) SPECIES
-=======
+# Thelebolus myriosporus (P. Crouan & H. Crouan) SPECIES
 
 #### Status
 ACCEPTED

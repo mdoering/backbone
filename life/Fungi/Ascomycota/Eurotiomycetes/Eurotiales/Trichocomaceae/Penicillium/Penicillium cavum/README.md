@@ -1,5 +1,4 @@
-Penicillium cavum var. cavum VARIETY
-=======
+# Penicillium cavum Sopp SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Penicillium cavum var. cavum
+Penicillium cavum Sopp
 
 ### Remarks
 null

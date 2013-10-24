@@ -1,14 +1,13 @@
-Coniosporium corticale Ellis & Everh., 1889 SPECIES
-=======
+# Cryptostroma corticale (Ellis & Everh.) P.H. Greg. & S. Waller, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 5(2): 69 (1889)
+Trans. Br. mycol. Soc. 34: 594 (1951)
 
 #### Original name
 Coniosporium corticale Ellis & Everh., 1889

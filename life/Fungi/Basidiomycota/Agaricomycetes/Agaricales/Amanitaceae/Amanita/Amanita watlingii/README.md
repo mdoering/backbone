@@ -1,5 +1,4 @@
-Amanita watlingii Ash. Kumar & T.N. Lakh. SPECIES
-=======
+# Amanita watlingii Ash. Kumar & T.N. Lakh. SPECIES
 
 #### Status
 ACCEPTED

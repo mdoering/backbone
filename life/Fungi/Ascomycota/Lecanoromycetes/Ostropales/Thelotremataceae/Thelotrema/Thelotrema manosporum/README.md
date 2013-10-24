@@ -1,14 +1,13 @@
-Leptotrema manosporum (C. Knight) Müll. Arg. SPECIES
-=======
+# Thelotrema manosporum (C. Knight) Hellb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 2(App. 1): 75 (1894)
+K. svenska Vetensk-Akad. Handl. 21(Afd. 3, 13): 78 (1896)
 
 #### Original name
 Ascidium manosporum C. Knight

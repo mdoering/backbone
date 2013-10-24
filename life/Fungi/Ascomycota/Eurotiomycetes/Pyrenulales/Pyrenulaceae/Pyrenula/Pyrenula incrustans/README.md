@@ -1,5 +1,4 @@
-Pyrenula incrustans Körb. SPECIES
-=======
+# Pyrenula incrustans Körb. SPECIES
 
 #### Status
 ACCEPTED

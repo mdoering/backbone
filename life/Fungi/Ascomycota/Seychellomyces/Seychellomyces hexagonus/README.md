@@ -1,5 +1,4 @@
-Seychellomyces hexagonus Matsush., 1981 SPECIES
-=======
+# Seychellomyces hexagonus Matsush., 1981 SPECIES
 
 #### Status
 ACCEPTED

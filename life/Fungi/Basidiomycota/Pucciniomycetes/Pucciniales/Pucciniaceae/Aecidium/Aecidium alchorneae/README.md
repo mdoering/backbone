@@ -1,5 +1,4 @@
-Aecidium alchorneae Sacc. SPECIES
-=======
+# Aecidium alchorneae Sacc. SPECIES
 
 #### Status
 ACCEPTED

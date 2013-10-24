@@ -1,5 +1,4 @@
-Aktinocyclina Gümbel, 1868 GENUS
-=======
+# Aktinocyclina Gümbel, 1868 GENUS
 
 #### Status
 ACCEPTED

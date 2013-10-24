@@ -1,5 +1,4 @@
-Sclerotinia caudata Velen. SPECIES
-=======
+# Sclerotinia caudata Velen. SPECIES
 
 #### Status
 ACCEPTED

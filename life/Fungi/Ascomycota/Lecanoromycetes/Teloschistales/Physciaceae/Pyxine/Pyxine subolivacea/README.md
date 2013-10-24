@@ -1,5 +1,4 @@
-Pyxine subolivacea Zahlbr. SPECIES
-=======
+# Pyxine subolivacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

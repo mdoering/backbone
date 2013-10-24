@@ -1,5 +1,4 @@
-Trichophrya variformis Li, 1985 SPECIES
-=======
+# Trichophrya variformis Li, 1985 SPECIES
 
 #### Status
 ACCEPTED

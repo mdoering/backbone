@@ -1,5 +1,4 @@
-Stropharia arginea (Berk. & Broome) Sacc. SPECIES
-=======
+# Stropharia arginea (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

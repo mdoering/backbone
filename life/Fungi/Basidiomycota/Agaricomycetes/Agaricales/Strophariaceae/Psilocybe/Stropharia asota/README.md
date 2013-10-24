@@ -1,5 +1,4 @@
-Stropharia asota Berk. & M.A. Curtis SPECIES
-=======
+# Stropharia asota Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

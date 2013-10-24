@@ -1,5 +1,4 @@
-Monoporisporites nemagnus Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites nemagnus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

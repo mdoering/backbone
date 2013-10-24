@@ -1,5 +1,4 @@
-Mesocena stellata Haeckel SPECIES
-=======
+# Mesocena stellata Haeckel SPECIES
 
 #### Status
 ACCEPTED

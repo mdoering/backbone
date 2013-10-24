@@ -1,14 +1,13 @@
-Uredo vinosa Tul. & C. Tul., 1847 SPECIES
-=======
+# Microbotryum vinosum (Tul. & C. Tul.) Denchev, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 7: 96 (1847)
+Mycotaxon 50: 331 (1994)
 
 #### Original name
 Uredo vinosa Tul. & C. Tul., 1847

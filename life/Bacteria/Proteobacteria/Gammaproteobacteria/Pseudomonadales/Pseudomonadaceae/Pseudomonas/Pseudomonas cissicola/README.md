@@ -1,11 +1,10 @@
-Aplanobacter cissicola Takimoto, 1939 SPECIES
-=======
+# Pseudomonas cissicola (Takimoto, 1939) Burkholder, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

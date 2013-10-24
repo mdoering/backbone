@@ -1,5 +1,4 @@
-Stentor katashimai Kumazawa, 1973 SPECIES
-=======
+# Stentor katashimai Kumazawa, 1973 SPECIES
 
 #### Status
 ACCEPTED

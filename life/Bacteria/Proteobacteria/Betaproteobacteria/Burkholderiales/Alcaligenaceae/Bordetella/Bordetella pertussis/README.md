@@ -1,11 +1,10 @@
-Haemophilus pertussis (Bergey et al., 1923) Pribram, 1933 SPECIES
-=======
+# Bordetella pertussis (Bergey et al., 1923) Moreno-López, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

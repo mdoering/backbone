@@ -1,5 +1,4 @@
-Mycena poliocephala Singer SPECIES
-=======
+# Mycena poliocephala Singer SPECIES
 
 #### Status
 ACCEPTED

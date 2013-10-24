@@ -1,5 +1,4 @@
-Ophiotrichum phlomidis Fr. SPECIES
-=======
+# Ophiotrichum phlomidis Fr. SPECIES
 
 #### Status
 ACCEPTED

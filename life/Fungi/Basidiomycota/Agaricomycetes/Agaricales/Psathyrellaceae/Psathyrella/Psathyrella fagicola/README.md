@@ -1,5 +1,4 @@
-Psathyrella fagicola (Lasch) M.M. Moser SPECIES
-=======
+# Psathyrella fagicola (Lasch) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

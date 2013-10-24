@@ -1,5 +1,4 @@
-Aplosporella velata Ellis & Barthol. SPECIES
-=======
+# Aplosporella velata Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

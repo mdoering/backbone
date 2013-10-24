@@ -1,5 +1,4 @@
-Micropsalliota bambusicola (Heinem.) Heinem. SPECIES
-=======
+# Micropsalliota bambusicola (Heinem.) Heinem. SPECIES
 
 #### Status
 ACCEPTED

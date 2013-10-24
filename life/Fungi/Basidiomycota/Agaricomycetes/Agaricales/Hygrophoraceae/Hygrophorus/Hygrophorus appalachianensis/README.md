@@ -1,5 +1,4 @@
-Hygrophorus appalachianensis Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus appalachianensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

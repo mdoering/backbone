@@ -1,8 +1,7 @@
-Melittosporium schizoxylon (Fr.) Sacc. SPECIES
-=======
+# Mellitiosporium schizoxylon (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

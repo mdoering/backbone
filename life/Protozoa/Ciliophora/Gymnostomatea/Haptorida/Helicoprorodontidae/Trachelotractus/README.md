@@ -1,5 +1,4 @@
-Trachelotractus Foissner, 1997 GENUS
-=======
+# Trachelotractus Foissner, 1997 GENUS
 
 #### Status
 ACCEPTED

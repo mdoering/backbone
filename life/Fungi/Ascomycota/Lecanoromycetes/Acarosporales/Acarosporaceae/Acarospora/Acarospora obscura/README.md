@@ -1,5 +1,4 @@
-Acarospora obscura H. Magn. SPECIES
-=======
+# Acarospora obscura H. Magn. SPECIES
 
 #### Status
 ACCEPTED

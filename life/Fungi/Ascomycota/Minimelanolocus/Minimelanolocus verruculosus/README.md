@@ -1,14 +1,13 @@
-Belemnospora verruculosa P.M. Kirk, 1984 SPECIES
-=======
+# Minimelanolocus verruculosus (P.M. Kirk) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kirk & Spooner, Kew Bull. 38(4): 577 (1984)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Belemnospora verruculosa P.M. Kirk, 1984

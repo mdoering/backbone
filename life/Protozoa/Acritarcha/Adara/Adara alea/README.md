@@ -1,5 +1,4 @@
-Adara alea Martin in Martin & Dean, 1981 SPECIES
-=======
+# Adara alea Martin in Martin & Dean, 1981 SPECIES
 
 #### Status
 ACCEPTED

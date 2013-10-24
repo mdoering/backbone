@@ -1,5 +1,4 @@
-Stigmatomyces affinis Thaxt. SPECIES
-=======
+# Stigmatomyces affinis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

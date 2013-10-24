@@ -1,5 +1,4 @@
-Trinovantidinium GENUS
-=======
+# Trinovantidinium GENUS
 
 #### Status
 ACCEPTED

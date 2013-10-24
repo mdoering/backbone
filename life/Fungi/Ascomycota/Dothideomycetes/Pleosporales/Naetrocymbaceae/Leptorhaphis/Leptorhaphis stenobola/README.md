@@ -1,5 +1,4 @@
-Leptorhaphis stenobola (Nyl.) Zahlbr. SPECIES
-=======
+# Leptorhaphis stenobola (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

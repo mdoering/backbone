@@ -1,5 +1,4 @@
-Asaphomyces gillerforsii Huggert SPECIES
-=======
+# Asaphomyces gillerforsii Huggert SPECIES
 
 #### Status
 ACCEPTED

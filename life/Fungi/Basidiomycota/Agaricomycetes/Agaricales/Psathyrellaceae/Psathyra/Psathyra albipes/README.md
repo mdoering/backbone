@@ -1,5 +1,4 @@
-Psathyra albipes Murrill SPECIES
-=======
+# Psathyra albipes Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus quitensis D. Mares SPECIES
-=======
+# Aspergillus quitensis D. Mares SPECIES
 
 #### Status
 ACCEPTED

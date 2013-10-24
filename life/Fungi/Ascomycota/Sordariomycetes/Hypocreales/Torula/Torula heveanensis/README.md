@@ -1,5 +1,4 @@
-Torula heveanensis Groen. SPECIES
-=======
+# Torula heveanensis Groen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoria persica (J. Steiner) Szatala SPECIES
-=======
+# Xanthoria persica (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

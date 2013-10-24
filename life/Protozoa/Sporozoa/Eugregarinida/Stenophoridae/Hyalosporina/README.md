@@ -1,5 +1,4 @@
-Hyalosporina Chakravarty, 1935 GENUS
-=======
+# Hyalosporina Chakravarty, 1935 GENUS
 
 #### Status
 ACCEPTED

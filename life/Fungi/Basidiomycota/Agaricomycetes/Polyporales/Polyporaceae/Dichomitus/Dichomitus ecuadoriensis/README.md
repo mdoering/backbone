@@ -1,5 +1,4 @@
-Dichomitus ecuadoriensis Ryvarden, 2010 SPECIES
-=======
+# Dichomitus ecuadoriensis Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

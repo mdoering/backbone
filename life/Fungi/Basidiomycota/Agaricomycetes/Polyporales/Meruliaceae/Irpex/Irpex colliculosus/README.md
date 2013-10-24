@@ -1,5 +1,4 @@
-Irpex colliculosus Berk. & Broome SPECIES
-=======
+# Irpex colliculosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

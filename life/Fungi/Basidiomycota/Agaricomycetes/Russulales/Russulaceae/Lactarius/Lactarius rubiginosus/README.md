@@ -1,5 +1,4 @@
-Lactarius rubiginosus Verbeken SPECIES
-=======
+# Lactarius rubiginosus Verbeken SPECIES
 
 #### Status
 ACCEPTED

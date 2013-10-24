@@ -1,5 +1,4 @@
-Periconiella heveae M.B. Ellis SPECIES
-=======
+# Periconiella heveae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

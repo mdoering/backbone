@@ -1,5 +1,4 @@
-Laestadia musae Syd. SPECIES
-=======
+# Laestadia musae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha atrorufescens Vain. SPECIES
-=======
+# Opegrapha atrorufescens Vain. SPECIES
 
 #### Status
 ACCEPTED

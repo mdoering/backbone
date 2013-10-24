@@ -1,5 +1,4 @@
-Valsa linderae Peck SPECIES
-=======
+# Valsa linderae Peck SPECIES
 
 #### Status
 ACCEPTED

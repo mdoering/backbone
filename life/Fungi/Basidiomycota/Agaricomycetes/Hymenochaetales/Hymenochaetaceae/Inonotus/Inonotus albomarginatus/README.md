@@ -1,5 +1,4 @@
-Inonotus albomarginatus Corner SPECIES
-=======
+# Inonotus albomarginatus Corner SPECIES
 
 #### Status
 ACCEPTED

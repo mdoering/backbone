@@ -1,5 +1,4 @@
-Uromyces communis L. SPECIES
-=======
+# Uromyces communis L. SPECIES
 
 #### Status
 ACCEPTED

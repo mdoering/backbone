@@ -1,5 +1,4 @@
-Aspidisca fusca Kahl, 1928 SPECIES
-=======
+# Aspidisca fusca Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

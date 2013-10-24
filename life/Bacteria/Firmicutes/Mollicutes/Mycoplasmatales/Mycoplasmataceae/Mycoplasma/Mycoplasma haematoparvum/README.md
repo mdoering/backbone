@@ -1,5 +1,4 @@
-Mycoplasma haematoparvum Sykes et al., 2005. SPECIES
-=======
+# Mycoplasma haematoparvum Sykes et al., 2005. SPECIES
 
 #### Status
 ACCEPTED

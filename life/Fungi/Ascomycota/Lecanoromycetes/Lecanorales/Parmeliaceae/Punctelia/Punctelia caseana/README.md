@@ -1,5 +1,4 @@
-Punctelia caseana Lendemer & Hodkinson SPECIES
-=======
+# Punctelia caseana Lendemer & Hodkinson SPECIES
 
 #### Status
 ACCEPTED

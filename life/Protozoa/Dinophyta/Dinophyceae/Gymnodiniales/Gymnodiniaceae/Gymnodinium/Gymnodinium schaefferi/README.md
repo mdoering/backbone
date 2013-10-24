@@ -1,5 +1,4 @@
-Gymnodinium schaefferi Morris, 1937 SPECIES
-=======
+# Gymnodinium schaefferi Morris, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum lonicerae Politis SPECIES
-=======
+# Colletotrichum lonicerae Politis SPECIES
 
 #### Status
 ACCEPTED

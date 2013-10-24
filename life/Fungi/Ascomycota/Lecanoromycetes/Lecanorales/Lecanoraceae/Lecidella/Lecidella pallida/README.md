@@ -1,5 +1,4 @@
-Lecidella pallida (Th. Fr.) Körb. SPECIES
-=======
+# Lecidella pallida (Th. Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

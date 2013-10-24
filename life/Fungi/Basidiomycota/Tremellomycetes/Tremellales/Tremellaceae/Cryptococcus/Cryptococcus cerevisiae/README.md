@@ -1,5 +1,4 @@
-Cryptococcus cerevisiae Kütz. SPECIES
-=======
+# Cryptococcus cerevisiae Kütz. SPECIES
 
 #### Status
 ACCEPTED

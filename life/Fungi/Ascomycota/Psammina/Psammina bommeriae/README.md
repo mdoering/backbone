@@ -1,5 +1,4 @@
-Psammina bommeriae Sacc. & M. Rousseau, 1891 SPECIES
-=======
+# Psammina bommeriae Sacc. & M. Rousseau, 1891 SPECIES
 
 #### Status
 ACCEPTED

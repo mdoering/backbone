@@ -1,5 +1,4 @@
-Veteronostocale Schopf & Blacic GENUS
-=======
+# Veteronostocale Schopf & Blacic GENUS
 
 #### Status
 ACCEPTED

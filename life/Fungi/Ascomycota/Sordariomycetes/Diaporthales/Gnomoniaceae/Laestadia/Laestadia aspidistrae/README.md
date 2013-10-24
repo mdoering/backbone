@@ -1,5 +1,4 @@
-Laestadia aspidistrae Tassi SPECIES
-=======
+# Laestadia aspidistrae Tassi SPECIES
 
 #### Status
 ACCEPTED

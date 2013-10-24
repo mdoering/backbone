@@ -1,5 +1,4 @@
-Macrosporium iridis Cooke & Ellis SPECIES
-=======
+# Macrosporium iridis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

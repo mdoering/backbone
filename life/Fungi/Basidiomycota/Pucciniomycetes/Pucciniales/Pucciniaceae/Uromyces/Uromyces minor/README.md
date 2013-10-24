@@ -1,17 +1,16 @@
-Uromyces minor var. minor VARIETY
-=======
+# Uromyces minor J. Schröt., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 310 (1887)
 
 #### Original name
-Uromyces minor var. minor
+Uromyces minor J. Schröt., 1887
 
 ### Remarks
 null

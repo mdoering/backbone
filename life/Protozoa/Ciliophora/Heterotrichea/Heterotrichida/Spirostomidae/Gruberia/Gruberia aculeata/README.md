@@ -1,5 +1,4 @@
-Gruberia aculeata Ozaki & Yagiu, 1941 SPECIES
-=======
+# Gruberia aculeata Ozaki & Yagiu, 1941 SPECIES
 
 #### Status
 ACCEPTED

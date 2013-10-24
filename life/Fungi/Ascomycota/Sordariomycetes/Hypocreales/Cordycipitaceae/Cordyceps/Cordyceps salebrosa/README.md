@@ -1,5 +1,4 @@
-Cordyceps salebrosa Mains SPECIES
-=======
+# Cordyceps salebrosa Mains SPECIES
 
 #### Status
 ACCEPTED

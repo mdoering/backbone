@@ -1,14 +1,13 @@
-Exidia sucina Möller, 1895 SPECIES
-=======
+# Ductifera sucina (Möller) K. Wells, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mitt. Trop. 8: 169 (1895)
+Mycologia 50(3): 413 (1958)
 
 #### Original name
 Exidia sucina Möller, 1895

@@ -1,5 +1,4 @@
-Macrophoma ononidicola Novoss. SPECIES
-=======
+# Macrophoma ononidicola Novoss. SPECIES
 
 #### Status
 ACCEPTED

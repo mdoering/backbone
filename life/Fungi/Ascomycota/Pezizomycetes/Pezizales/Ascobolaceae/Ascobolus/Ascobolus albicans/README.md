@@ -1,5 +1,4 @@
-Ascobolus albicans Fuckel SPECIES
-=======
+# Ascobolus albicans Fuckel SPECIES
 
 #### Status
 ACCEPTED

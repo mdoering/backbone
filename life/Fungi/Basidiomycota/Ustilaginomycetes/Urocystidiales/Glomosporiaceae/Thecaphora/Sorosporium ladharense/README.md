@@ -1,5 +1,4 @@
-Sorosporium ladharense Syd. SPECIES
-=======
+# Sorosporium ladharense Syd. SPECIES
 
 #### Status
 ACCEPTED

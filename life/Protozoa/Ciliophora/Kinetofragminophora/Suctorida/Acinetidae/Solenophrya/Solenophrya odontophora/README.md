@@ -1,5 +1,4 @@
-Solenophrya odontophora Stokes, 1887 SPECIES
-=======
+# Solenophrya odontophora Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius luteoperonatus Bidaud & Cheype SPECIES
-=======
+# Cortinarius luteoperonatus Bidaud & Cheype SPECIES
 
 #### Status
 ACCEPTED

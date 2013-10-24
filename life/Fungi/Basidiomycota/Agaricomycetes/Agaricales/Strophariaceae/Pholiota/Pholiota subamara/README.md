@@ -1,5 +1,4 @@
-Pholiota subamara A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subamara A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

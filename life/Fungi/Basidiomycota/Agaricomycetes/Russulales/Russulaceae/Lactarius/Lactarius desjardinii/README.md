@@ -1,5 +1,4 @@
-Lactarius desjardinii Methven SPECIES
-=======
+# Lactarius desjardinii Methven SPECIES
 
 #### Status
 ACCEPTED

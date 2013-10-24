@@ -1,5 +1,4 @@
-Ceramothyrium anacardii (Hansf.) Bat. & H. Maia SPECIES
-=======
+# Ceramothyrium anacardii (Hansf.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

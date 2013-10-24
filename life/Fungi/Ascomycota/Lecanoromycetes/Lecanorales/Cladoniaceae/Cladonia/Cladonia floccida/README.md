@@ -1,5 +1,4 @@
-Cladonia floccida Nyl. SPECIES
-=======
+# Cladonia floccida Nyl. SPECIES
 
 #### Status
 ACCEPTED

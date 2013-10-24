@@ -1,5 +1,4 @@
-Cortinarius bovinus Fr., 1838 SPECIES
-=======
+# Cortinarius bovinus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED

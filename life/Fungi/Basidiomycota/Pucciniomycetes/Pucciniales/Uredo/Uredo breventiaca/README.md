@@ -1,5 +1,4 @@
-Uredo breventiaca A.L. Guyot & Massenot SPECIES
-=======
+# Uredo breventiaca A.L. Guyot & Massenot SPECIES
 
 #### Status
 ACCEPTED

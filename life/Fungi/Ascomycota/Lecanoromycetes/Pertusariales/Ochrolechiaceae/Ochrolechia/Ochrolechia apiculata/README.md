@@ -1,5 +1,4 @@
-Ochrolechia apiculata Verseghy SPECIES
-=======
+# Ochrolechia apiculata Verseghy SPECIES
 
 #### Status
 ACCEPTED

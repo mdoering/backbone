@@ -1,5 +1,4 @@
-Coniosporium harknessioides (Ellis & Holw.) Sacc. SPECIES
-=======
+# Coniosporium harknessioides (Ellis & Holw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

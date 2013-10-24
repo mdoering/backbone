@@ -1,5 +1,4 @@
-Pleurotus septicoides Henn. SPECIES
-=======
+# Pleurotus septicoides Henn. SPECIES
 
 #### Status
 ACCEPTED

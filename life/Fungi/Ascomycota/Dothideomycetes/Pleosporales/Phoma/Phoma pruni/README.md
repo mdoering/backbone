@@ -1,5 +1,4 @@
-Phoma pruni Peck SPECIES
-=======
+# Phoma pruni Peck SPECIES
 
 #### Status
 ACCEPTED

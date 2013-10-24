@@ -1,5 +1,4 @@
-Lecidea cyanea f. cyanea FORM
-=======
+# Lecidea cyanea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea cyanea f. cyanea
+null
 
 ### Remarks
 null

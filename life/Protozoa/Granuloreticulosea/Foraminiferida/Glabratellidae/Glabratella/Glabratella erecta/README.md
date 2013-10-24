@@ -1,5 +1,4 @@
-Glabratella erecta SPECIES
-=======
+# Glabratella erecta SPECIES
 
 #### Status
 ACCEPTED

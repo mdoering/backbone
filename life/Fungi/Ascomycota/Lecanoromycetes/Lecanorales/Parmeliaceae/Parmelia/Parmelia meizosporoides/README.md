@@ -1,5 +1,4 @@
-Parmelia meizosporoides C.W. Dodge SPECIES
-=======
+# Parmelia meizosporoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

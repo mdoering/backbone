@@ -1,5 +1,4 @@
-Ramularia piperis Henn. SPECIES
-=======
+# Ramularia piperis Henn. SPECIES
 
 #### Status
 ACCEPTED

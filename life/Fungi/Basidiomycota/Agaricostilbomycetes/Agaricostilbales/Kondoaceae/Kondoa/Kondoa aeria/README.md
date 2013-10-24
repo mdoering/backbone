@@ -1,5 +1,4 @@
-Kondoa aeria Á. Fonseca, J.P. Samp. & Fell, 2000 SPECIES
-=======
+# Kondoa aeria Á. Fonseca, J.P. Samp. & Fell, 2000 SPECIES
 
 #### Status
 ACCEPTED

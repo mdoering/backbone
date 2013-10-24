@@ -1,5 +1,4 @@
-Dicholobodigitus niger G.P. White & Illman, 1988 SPECIES
-=======
+# Dicholobodigitus niger G.P. White & Illman, 1988 SPECIES
 
 #### Status
 ACCEPTED

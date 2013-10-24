@@ -1,5 +1,4 @@
-Aniptodera salsuginosa Nakagiri & Tad. Ito, 1994 SPECIES
-=======
+# Aniptodera salsuginosa Nakagiri & Tad. Ito, 1994 SPECIES
 
 #### Status
 ACCEPTED

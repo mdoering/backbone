@@ -1,5 +1,4 @@
-Amphisphaeria argentinensis Nag Raj SPECIES
-=======
+# Amphisphaeria argentinensis Nag Raj SPECIES
 
 #### Status
 ACCEPTED

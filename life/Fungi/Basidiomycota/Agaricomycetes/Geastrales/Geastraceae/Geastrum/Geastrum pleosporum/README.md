@@ -1,17 +1,16 @@
-Geastrum pleosporus Douanla-Meli SPECIES
-=======
+# Geastrum pleosporum Douanla-Meli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Progr. 4(3): 242 (2005)
 
 #### Original name
-Geastrum pleosporus Douanla-Meli
+Geastrum pleosporum Douanla-Meli
 
 ### Remarks
 null

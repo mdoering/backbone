@@ -1,5 +1,4 @@
-Alectoria fallacina Motyka SPECIES
-=======
+# Alectoria fallacina Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium laetum J. Schröt. SPECIES
-=======
+# Synchytrium laetum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nadelspora Olson, Tiekotter & Reno GENUS
-=======
+# Nadelspora Olson, Tiekotter & Reno GENUS
 
 #### Status
 ACCEPTED

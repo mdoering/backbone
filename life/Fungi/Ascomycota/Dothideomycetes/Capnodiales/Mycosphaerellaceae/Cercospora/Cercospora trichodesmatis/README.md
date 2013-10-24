@@ -1,17 +1,16 @@
-Cercospora trichodesmae Govindu & Thirum. SPECIES
-=======
+# Cercospora trichodesmatis Govindu & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9: 221 (1955)
 
 #### Original name
-Cercospora trichodesmae Govindu & Thirum.
+Cercospora trichodesmatis Govindu & Thirum.
 
 ### Remarks
 null

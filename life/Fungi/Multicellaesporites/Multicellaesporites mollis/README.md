@@ -1,5 +1,4 @@
-Multicellaesporites mollis P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites mollis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

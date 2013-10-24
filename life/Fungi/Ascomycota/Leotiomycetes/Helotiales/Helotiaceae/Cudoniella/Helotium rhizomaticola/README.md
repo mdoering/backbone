@@ -1,5 +1,4 @@
-Helotium rhizomaticola Boud. SPECIES
-=======
+# Helotium rhizomaticola Boud. SPECIES
 
 #### Status
 ACCEPTED

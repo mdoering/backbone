@@ -1,5 +1,4 @@
-Phyllosticta erythraeae Sacc. & Speg. SPECIES
-=======
+# Phyllosticta erythraeae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

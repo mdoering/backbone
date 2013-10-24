@@ -1,5 +1,4 @@
-Acanthoica janchenii Schiller, 1925 SPECIES
-=======
+# Acanthoica janchenii Schiller, 1925 SPECIES
 
 #### Status
 ACCEPTED

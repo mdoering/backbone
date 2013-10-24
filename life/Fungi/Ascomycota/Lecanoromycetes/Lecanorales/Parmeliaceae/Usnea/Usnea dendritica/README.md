@@ -1,5 +1,4 @@
-Usnea dendritica Stirt. SPECIES
-=======
+# Usnea dendritica Stirt. SPECIES
 
 #### Status
 ACCEPTED

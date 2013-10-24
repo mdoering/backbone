@@ -1,5 +1,4 @@
-Josefpoeltia boliviensis S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Josefpoeltia boliviensis S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

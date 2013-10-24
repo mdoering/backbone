@@ -1,5 +1,4 @@
-Cosmospora coccinea Rabenh., 1862 SPECIES
-=======
+# Cosmospora coccinea Rabenh., 1862 SPECIES
 
 #### Status
 ACCEPTED

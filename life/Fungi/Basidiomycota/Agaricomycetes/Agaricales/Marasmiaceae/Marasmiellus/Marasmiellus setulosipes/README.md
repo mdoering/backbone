@@ -1,5 +1,4 @@
-Marasmiellus setulosipes (Murrill) Dennis SPECIES
-=======
+# Marasmiellus setulosipes (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

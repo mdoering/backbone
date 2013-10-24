@@ -1,5 +1,4 @@
-Tilletia avenae Ule SPECIES
-=======
+# Tilletia avenae Ule SPECIES
 
 #### Status
 ACCEPTED

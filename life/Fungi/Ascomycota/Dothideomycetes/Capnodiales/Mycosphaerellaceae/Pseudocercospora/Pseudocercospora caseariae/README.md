@@ -1,5 +1,4 @@
-Pseudocercospora caseariae (F. Stevens) U. Braun & Sivap. SPECIES
-=======
+# Pseudocercospora caseariae (F. Stevens) U. Braun & Sivap. SPECIES
 
 #### Status
 ACCEPTED

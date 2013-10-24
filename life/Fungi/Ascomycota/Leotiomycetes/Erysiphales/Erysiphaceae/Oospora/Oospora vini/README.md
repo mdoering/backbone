@@ -1,5 +1,4 @@
-Oospora vini (Osterw.) Janke SPECIES
-=======
+# Oospora vini (Osterw.) Janke SPECIES
 
 #### Status
 ACCEPTED

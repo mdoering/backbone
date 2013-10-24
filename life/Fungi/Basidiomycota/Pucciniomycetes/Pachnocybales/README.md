@@ -1,5 +1,4 @@
-Pachnocybales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
-=======
+# Pachnocybales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
 
 #### Status
 ACCEPTED

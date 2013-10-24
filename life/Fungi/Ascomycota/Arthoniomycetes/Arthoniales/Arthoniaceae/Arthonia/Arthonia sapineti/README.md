@@ -1,5 +1,4 @@
-Arthonia sapineti Nyl. SPECIES
-=======
+# Arthonia sapineti Nyl. SPECIES
 
 #### Status
 ACCEPTED

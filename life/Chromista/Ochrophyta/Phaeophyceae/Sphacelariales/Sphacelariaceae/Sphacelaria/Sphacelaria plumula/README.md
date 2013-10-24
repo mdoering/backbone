@@ -1,5 +1,4 @@
-Sphacelaria plumula Zanardini SPECIES
-=======
+# Sphacelaria plumula Zanardini SPECIES
 
 #### Status
 ACCEPTED

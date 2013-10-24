@@ -1,5 +1,4 @@
-Tulostoma cerebrisporum J.E. Wright, 2000 SPECIES
-=======
+# Tulostoma cerebrisporum J.E. Wright, 2000 SPECIES
 
 #### Status
 ACCEPTED

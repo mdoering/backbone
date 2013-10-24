@@ -1,5 +1,4 @@
-Pyrenula diffracta Müll. Arg. SPECIES
-=======
+# Pyrenula diffracta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis gonatobotryoides Cooke & Massee SPECIES
-=======
+# Botrytis gonatobotryoides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

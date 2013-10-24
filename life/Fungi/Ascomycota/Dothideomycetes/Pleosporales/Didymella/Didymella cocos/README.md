@@ -1,5 +1,4 @@
-Didymella cocos Weedon SPECIES
-=======
+# Didymella cocos Weedon SPECIES
 
 #### Status
 ACCEPTED

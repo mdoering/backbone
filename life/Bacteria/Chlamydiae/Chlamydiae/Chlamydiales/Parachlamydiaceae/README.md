@@ -1,5 +1,4 @@
-Parachlamydiaceae FAMILY
-=======
+# Parachlamydiaceae FAMILY
 
 #### Status
 ACCEPTED

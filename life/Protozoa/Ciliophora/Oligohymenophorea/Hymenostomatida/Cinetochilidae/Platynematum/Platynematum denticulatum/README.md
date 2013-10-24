@@ -1,5 +1,4 @@
-Platynematum denticulatum (Kahl, 1933) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Platynematum denticulatum (Kahl, 1933) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

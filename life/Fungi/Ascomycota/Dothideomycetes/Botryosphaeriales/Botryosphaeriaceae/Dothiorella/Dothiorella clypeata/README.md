@@ -1,5 +1,4 @@
-Dothiorella clypeata Syd. SPECIES
-=======
+# Dothiorella clypeata Syd. SPECIES
 
 #### Status
 ACCEPTED

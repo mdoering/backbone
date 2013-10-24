@@ -1,5 +1,4 @@
-Uredo carnosa Speg. SPECIES
-=======
+# Uredo carnosa Speg. SPECIES
 
 #### Status
 ACCEPTED

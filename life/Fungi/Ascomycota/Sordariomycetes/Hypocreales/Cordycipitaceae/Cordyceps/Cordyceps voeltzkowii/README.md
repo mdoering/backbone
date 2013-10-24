@@ -1,5 +1,4 @@
-Cordyceps voeltzkowii Henn. SPECIES
-=======
+# Cordyceps voeltzkowii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces cavourensis subsp. cavourensis SUBSPECIES
-=======
+# Streptomyces cavourensis Skarbek & Brady, 1978 SPECIES
 
 #### Status
 ACCEPTED

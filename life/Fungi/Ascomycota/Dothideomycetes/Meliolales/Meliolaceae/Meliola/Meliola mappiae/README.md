@@ -1,5 +1,4 @@
-Meliola mappiae Cif. SPECIES
-=======
+# Meliola mappiae Cif. SPECIES
 
 #### Status
 ACCEPTED

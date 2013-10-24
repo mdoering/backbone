@@ -1,5 +1,4 @@
-Sphaeroidae FAMILY
-=======
+# Sphaeroidae FAMILY
 
 #### Status
 ACCEPTED

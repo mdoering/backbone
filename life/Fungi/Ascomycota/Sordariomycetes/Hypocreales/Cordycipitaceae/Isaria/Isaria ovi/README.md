@@ -1,5 +1,4 @@
-Isaria ovi Teng SPECIES
-=======
+# Isaria ovi Teng SPECIES
 
 #### Status
 ACCEPTED

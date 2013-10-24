@@ -1,5 +1,4 @@
-Uromyces plumbarius Peck SPECIES
-=======
+# Uromyces plumbarius Peck SPECIES
 
 #### Status
 ACCEPTED

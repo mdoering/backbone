@@ -1,5 +1,4 @@
-Gyalecta leucaspis (Kremp. ex A. Massal.) Zahlbr. SPECIES
-=======
+# Gyalecta leucaspis (Kremp. ex A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

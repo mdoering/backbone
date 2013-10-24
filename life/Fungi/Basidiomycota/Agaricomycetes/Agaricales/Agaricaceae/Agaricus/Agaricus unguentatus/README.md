@@ -1,5 +1,4 @@
-Agaricus unguentatus Fr. SPECIES
-=======
+# Agaricus unguentatus Fr. SPECIES
 
 #### Status
 ACCEPTED

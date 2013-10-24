@@ -1,5 +1,4 @@
-Sporobolomyces philippovii Krassiln. SPECIES
-=======
+# Sporobolomyces philippovii Krassiln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frondisphaeria palmicola K.D. Hyde, 1996 SPECIES
-=======
+# Frondisphaeria palmicola K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

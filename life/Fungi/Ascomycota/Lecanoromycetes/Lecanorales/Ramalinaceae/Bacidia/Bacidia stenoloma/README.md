@@ -1,5 +1,4 @@
-Bacidia stenoloma (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia stenoloma (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

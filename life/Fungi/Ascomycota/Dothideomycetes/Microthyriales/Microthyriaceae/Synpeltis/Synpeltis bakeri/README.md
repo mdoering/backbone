@@ -1,5 +1,4 @@
-Synpeltis bakeri (Sacc.) Bat. & Peres SPECIES
-=======
+# Synpeltis bakeri (Sacc.) Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

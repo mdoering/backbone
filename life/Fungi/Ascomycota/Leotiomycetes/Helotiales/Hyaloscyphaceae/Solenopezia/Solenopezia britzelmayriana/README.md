@@ -1,5 +1,4 @@
-Solenopezia britzelmayriana (Rehm) Sacc. SPECIES
-=======
+# Solenopezia britzelmayriana (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

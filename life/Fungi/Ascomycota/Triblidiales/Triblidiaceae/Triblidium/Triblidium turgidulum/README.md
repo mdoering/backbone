@@ -1,8 +1,7 @@
-Tryblidium turgidulum W. Phillips & Harkn. SPECIES
-=======
+# Triblidium turgidulum W. Phillips & Harkn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium turgidulum W. Phillips & Harkn.
+Triblidium turgidulum W. Phillips & Harkn.
 
 ### Remarks
 null

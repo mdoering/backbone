@@ -1,5 +1,4 @@
-Palaeocercospora S. Mitra & Manju Banerjee GENUS
-=======
+# Palaeocercospora S. Mitra & Manju Banerjee GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium anserinum Bubák & Vleugel SPECIES
-=======
+# Leptothyrium anserinum Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

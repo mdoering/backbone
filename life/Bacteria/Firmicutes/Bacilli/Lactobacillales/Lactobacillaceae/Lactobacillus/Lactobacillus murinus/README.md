@@ -1,5 +1,4 @@
-Lactobacillus murinus Hemme et al., 1982 SPECIES
-=======
+# Lactobacillus murinus Hemme et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

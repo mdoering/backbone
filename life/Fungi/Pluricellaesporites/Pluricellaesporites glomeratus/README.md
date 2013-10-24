@@ -1,5 +1,4 @@
-Pluricellaesporites glomeratus S.K. Srivast. SPECIES
-=======
+# Pluricellaesporites glomeratus S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

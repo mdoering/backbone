@@ -1,5 +1,4 @@
-Schlumbergerina occidentalis SPECIES
-=======
+# Schlumbergerina occidentalis SPECIES
 
 #### Status
 ACCEPTED

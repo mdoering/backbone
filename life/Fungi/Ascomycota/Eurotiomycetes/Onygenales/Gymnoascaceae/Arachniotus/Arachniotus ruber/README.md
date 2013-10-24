@@ -1,14 +1,13 @@
-Pseudoarachniotus ruber (Tiegh.) G.F. Orr, G.R. Ghosh & K. Roy, 1977 SPECIES
-=======
+# Arachniotus ruber (Tiegh.) J. Schröt., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 69(1): 153 (1977)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(12): 210 (1893)
 
 #### Original name
 Gymnoascus ruber Tiegh., 1877

@@ -1,5 +1,4 @@
-Lentisphaerales Cho, Vergin, Morris & Giovannoni, 2004 ORDER
-=======
+# Lentisphaerales Cho, Vergin, Morris & Giovannoni, 2004 ORDER
 
 #### Status
 ACCEPTED

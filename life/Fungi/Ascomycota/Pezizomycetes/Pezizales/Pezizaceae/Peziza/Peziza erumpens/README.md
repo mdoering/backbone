@@ -1,5 +1,4 @@
-Peziza erumpens Desm. SPECIES
-=======
+# Peziza erumpens Desm. SPECIES
 
 #### Status
 ACCEPTED

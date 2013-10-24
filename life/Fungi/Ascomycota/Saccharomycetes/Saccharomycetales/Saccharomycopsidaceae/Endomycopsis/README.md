@@ -1,5 +1,4 @@
-Endomycopsis GENUS
-=======
+# Endomycopsis GENUS
 
 #### Status
 ACCEPTED

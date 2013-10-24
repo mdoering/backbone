@@ -1,5 +1,4 @@
-Puccinia calochorti Peck SPECIES
-=======
+# Puccinia calochorti Peck SPECIES
 
 #### Status
 ACCEPTED

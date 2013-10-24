@@ -1,5 +1,4 @@
-Amphidinium psittacus Larsen SPECIES
-=======
+# Amphidinium psittacus Larsen SPECIES
 
 #### Status
 ACCEPTED

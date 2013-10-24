@@ -1,5 +1,4 @@
-Herpotrichia pandei S.K. Bose SPECIES
-=======
+# Herpotrichia pandei S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Keronopsis ovalis Kahl, 1932 SPECIES
-=======
+# Keronopsis ovalis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

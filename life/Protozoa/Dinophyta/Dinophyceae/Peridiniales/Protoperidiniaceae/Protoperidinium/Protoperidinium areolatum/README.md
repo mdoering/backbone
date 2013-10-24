@@ -1,5 +1,4 @@
-Protoperidinium areolatum (Peters, 1928) Balech, 1974 SPECIES
-=======
+# Protoperidinium areolatum (Peters, 1928) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

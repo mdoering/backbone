@@ -1,5 +1,4 @@
-Puccinia ortizi Mayor SPECIES
-=======
+# Puccinia ortizi Mayor SPECIES
 
 #### Status
 ACCEPTED

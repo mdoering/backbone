@@ -1,5 +1,4 @@
-Engizostoma platanodis (G.H. Otth) Kuntze SPECIES
-=======
+# Engizostoma platanodis (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leuliisinea amazonensis Matsush. SPECIES
-=======
+# Leuliisinea amazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

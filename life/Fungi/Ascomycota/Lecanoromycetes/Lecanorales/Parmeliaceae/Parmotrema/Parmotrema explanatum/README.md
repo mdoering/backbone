@@ -1,5 +1,4 @@
-Parmotrema explanatum (Hale) Hale SPECIES
-=======
+# Parmotrema explanatum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

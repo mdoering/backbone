@@ -1,5 +1,4 @@
-Lichen serratus J.F. Gmel. SPECIES
-=======
+# Lichen serratus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

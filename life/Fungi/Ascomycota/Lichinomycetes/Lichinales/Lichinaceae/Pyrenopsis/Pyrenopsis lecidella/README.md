@@ -1,5 +1,4 @@
-Pyrenopsis lecidella SPECIES
-=======
+# Pyrenopsis lecidella SPECIES
 
 #### Status
 ACCEPTED

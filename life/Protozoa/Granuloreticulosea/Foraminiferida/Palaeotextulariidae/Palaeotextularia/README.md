@@ -1,5 +1,4 @@
-Palaeotextularia Schubert, 1920 GENUS
-=======
+# Palaeotextularia Schubert, 1920 GENUS
 
 #### Status
 ACCEPTED

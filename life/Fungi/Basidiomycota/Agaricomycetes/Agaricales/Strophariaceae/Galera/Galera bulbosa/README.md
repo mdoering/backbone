@@ -1,5 +1,4 @@
-Galera bulbosa Velen. SPECIES
-=======
+# Galera bulbosa Velen. SPECIES
 
 #### Status
 ACCEPTED

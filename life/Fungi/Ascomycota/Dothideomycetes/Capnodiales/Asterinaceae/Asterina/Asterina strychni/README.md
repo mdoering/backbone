@@ -1,5 +1,4 @@
-Asterina strychni Hansf. SPECIES
-=======
+# Asterina strychni Hansf. SPECIES
 
 #### Status
 ACCEPTED

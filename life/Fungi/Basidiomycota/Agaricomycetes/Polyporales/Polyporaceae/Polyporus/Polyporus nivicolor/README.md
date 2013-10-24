@@ -1,5 +1,4 @@
-Polyporus nivicolor Colenso SPECIES
-=======
+# Polyporus nivicolor Colenso SPECIES
 
 #### Status
 ACCEPTED

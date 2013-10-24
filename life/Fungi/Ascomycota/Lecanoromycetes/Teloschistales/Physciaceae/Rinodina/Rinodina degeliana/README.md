@@ -1,5 +1,4 @@
-Rinodina degeliana Coppins SPECIES
-=======
+# Rinodina degeliana Coppins SPECIES
 
 #### Status
 ACCEPTED

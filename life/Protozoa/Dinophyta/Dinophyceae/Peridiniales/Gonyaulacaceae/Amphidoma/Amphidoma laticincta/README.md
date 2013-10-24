@@ -1,5 +1,4 @@
-Amphidoma laticincta Kofoid & Swezy, 1911 SPECIES
-=======
+# Amphidoma laticincta Kofoid & Swezy, 1911 SPECIES
 
 #### Status
 ACCEPTED

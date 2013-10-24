@@ -1,5 +1,4 @@
-Lycoperdon gregarium Velen. SPECIES
-=======
+# Lycoperdon gregarium Velen. SPECIES
 
 #### Status
 ACCEPTED

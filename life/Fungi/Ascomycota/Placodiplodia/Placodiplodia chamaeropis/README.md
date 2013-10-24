@@ -1,5 +1,4 @@
-Placodiplodia chamaeropis (Delacr.) Zambett. SPECIES
-=======
+# Placodiplodia chamaeropis (Delacr.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

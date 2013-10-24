@@ -1,14 +1,13 @@
-Thamnonoma constipans (Nyl.) Gyeln. SPECIES
-=======
+# Edrudia constipans (Nyl.) W.P. Jord. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 83(1): 64 (1980)
 
 #### Original name
 Placodium constipans Nyl.

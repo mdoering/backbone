@@ -1,5 +1,4 @@
-Calicium obscurum G. Merr. SPECIES
-=======
+# Calicium obscurum G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea granulifera Fink SPECIES
-=======
+# Lecidea granulifera Fink SPECIES
 
 #### Status
 ACCEPTED

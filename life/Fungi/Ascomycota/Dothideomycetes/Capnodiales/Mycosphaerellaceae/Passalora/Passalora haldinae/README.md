@@ -1,17 +1,16 @@
-Passalora haldiniae C. Nakash. & Meeboon SPECIES
-=======
+# Passalora haldinae C. Nakash. & Meeboon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nakashima, Meeboon, Motohashi & To-anun, Fungal Diversity 26(1): 259 (2007)
 
 #### Original name
-Passalora haldiniae C. Nakash. & Meeboon
+Passalora haldinae C. Nakash. & Meeboon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora xanthaspis Kremp. SPECIES
-=======
+# Lecanora xanthaspis Kremp. SPECIES
 
 #### Status
 ACCEPTED

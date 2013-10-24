@@ -1,17 +1,16 @@
-Clitocybe whetstonae Murrill SPECIES
-=======
+# Clitocybe whetstoneae Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 9(5): 298 (1916)
 
 #### Original name
-Clitocybe whetstonae Murrill
+Clitocybe whetstoneae Murrill
 
 ### Remarks
 null

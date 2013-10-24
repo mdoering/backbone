@@ -1,5 +1,4 @@
-Phloeospora ponteana U. Braun & F.O. Freire SPECIES
-=======
+# Phloeospora ponteana U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

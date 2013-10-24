@@ -1,5 +1,4 @@
-Rhizocarpon albopunctatum (Vain.) SPECIES
-=======
+# Rhizocarpon albopunctatum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiochaeta bakeriana Sacc. SPECIES
-=======
+# Ophiochaeta bakeriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

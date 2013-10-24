@@ -1,5 +1,4 @@
-Psora cerebriformis W. A. Weber SPECIES
-=======
+# Psora cerebriformis W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

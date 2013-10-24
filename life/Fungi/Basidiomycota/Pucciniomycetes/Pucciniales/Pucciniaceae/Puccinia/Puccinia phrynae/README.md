@@ -1,5 +1,4 @@
-Puccinia phrynae Hüseyin & Kirbag SPECIES
-=======
+# Puccinia phrynae Hüseyin & Kirbag SPECIES
 
 #### Status
 ACCEPTED

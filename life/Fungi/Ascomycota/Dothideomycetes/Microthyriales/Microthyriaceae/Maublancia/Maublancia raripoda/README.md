@@ -1,5 +1,4 @@
-Maublancia raripoda (Doidge) Arx SPECIES
-=======
+# Maublancia raripoda (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

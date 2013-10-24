@@ -1,5 +1,4 @@
-Roccella ramalinoides Bory SPECIES
-=======
+# Roccella ramalinoides Bory SPECIES
 
 #### Status
 ACCEPTED

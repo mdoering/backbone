@@ -1,5 +1,4 @@
-Schiffnerula craterispermi (Hansf.) S. Hughes SPECIES
-=======
+# Schiffnerula craterispermi (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

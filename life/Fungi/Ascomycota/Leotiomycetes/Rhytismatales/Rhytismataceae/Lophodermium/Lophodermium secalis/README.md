@@ -1,5 +1,4 @@
-Lophodermium secalis Hilitzer, 1929 SPECIES
-=======
+# Lophodermium secalis Hilitzer, 1929 SPECIES
 
 #### Status
 ACCEPTED

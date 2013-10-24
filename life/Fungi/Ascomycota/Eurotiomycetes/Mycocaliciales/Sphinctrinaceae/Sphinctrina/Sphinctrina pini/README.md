@@ -1,5 +1,4 @@
-Sphinctrina pini Preuss SPECIES
-=======
+# Sphinctrina pini Preuss SPECIES
 
 #### Status
 ACCEPTED

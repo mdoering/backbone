@@ -1,5 +1,4 @@
-Pyrenopeziza distinguenda var. distinguenda VARIETY
-=======
+# Pyrenopeziza distinguenda Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenopeziza distinguenda var. distinguenda
+Pyrenopeziza distinguenda Starbäck
 
 ### Remarks
 null

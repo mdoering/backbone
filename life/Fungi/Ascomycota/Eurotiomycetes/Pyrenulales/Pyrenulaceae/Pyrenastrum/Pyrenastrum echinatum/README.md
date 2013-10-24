@@ -1,5 +1,4 @@
-Pyrenastrum echinatum Eschw. SPECIES
-=======
+# Pyrenastrum echinatum Eschw. SPECIES
 
 #### Status
 ACCEPTED

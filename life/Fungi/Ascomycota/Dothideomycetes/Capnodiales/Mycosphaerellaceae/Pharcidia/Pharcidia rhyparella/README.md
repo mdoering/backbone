@@ -1,5 +1,4 @@
-Pharcidia rhyparella (Nyl.) Zopf SPECIES
-=======
+# Pharcidia rhyparella (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

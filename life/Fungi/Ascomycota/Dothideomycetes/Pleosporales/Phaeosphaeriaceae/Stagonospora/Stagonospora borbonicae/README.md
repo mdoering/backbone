@@ -1,5 +1,4 @@
-Stagonospora borbonicae Sousa da Câmara SPECIES
-=======
+# Stagonospora borbonicae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

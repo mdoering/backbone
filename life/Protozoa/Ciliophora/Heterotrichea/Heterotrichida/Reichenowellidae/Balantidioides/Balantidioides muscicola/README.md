@@ -1,5 +1,4 @@
-Balantidioides muscicola (Penard, 1922) Penard in Kahl, 1930 SPECIES
-=======
+# Balantidioides muscicola (Penard, 1922) Penard in Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bifidobacterium scardovii Hoyles et al., 2002 SPECIES
-=======
+# Bifidobacterium scardovii Hoyles et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

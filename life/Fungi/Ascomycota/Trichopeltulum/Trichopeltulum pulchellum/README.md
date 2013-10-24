@@ -1,5 +1,4 @@
-Trichopeltulum pulchellum Speg., 1889 SPECIES
-=======
+# Trichopeltulum pulchellum Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

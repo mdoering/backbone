@@ -1,5 +1,4 @@
-Dinophysis acutissima Gaarder, 1954 SPECIES
-=======
+# Dinophysis acutissima Gaarder, 1954 SPECIES
 
 #### Status
 ACCEPTED

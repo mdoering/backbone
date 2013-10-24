@@ -1,5 +1,4 @@
-Galerina sabuletorum A.H. Sm. SPECIES
-=======
+# Galerina sabuletorum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

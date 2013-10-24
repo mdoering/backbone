@@ -1,5 +1,4 @@
-Hapsidopalla chelum Wicander & Wood, 1981 SPECIES
-=======
+# Hapsidopalla chelum Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

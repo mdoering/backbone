@@ -1,5 +1,4 @@
-Hypholoma talbotiae Massee SPECIES
-=======
+# Hypholoma talbotiae Massee SPECIES
 
 #### Status
 ACCEPTED

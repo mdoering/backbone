@@ -1,17 +1,16 @@
-Confertobasidium olivaceoalbum var. olivaceoalbum (Bourdot & Galzin) Jülich VARIETY
-=======
+# Scytinostromella olivaceoalba (Bourdot & Galzin) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Willdenowia, Beih. 7: 167 (1972)
+Mycol. Mem. 19: 141 (1993)
 
 #### Original name
-Confertobasidium olivaceoalbum var. olivaceoalbum (Bourdot & Galzin) Jülich
+null
 
 ### Remarks
 null

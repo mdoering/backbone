@@ -1,5 +1,4 @@
-Fistulariella translucida (Krog & Swinscow) Bowler & Rundel SPECIES
-=======
+# Fistulariella translucida (Krog & Swinscow) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

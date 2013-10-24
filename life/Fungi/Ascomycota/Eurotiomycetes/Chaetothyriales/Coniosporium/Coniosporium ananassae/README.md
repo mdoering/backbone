@@ -1,5 +1,4 @@
-Coniosporium ananassae (Zimm.) Sacc. SPECIES
-=======
+# Coniosporium ananassae (Zimm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

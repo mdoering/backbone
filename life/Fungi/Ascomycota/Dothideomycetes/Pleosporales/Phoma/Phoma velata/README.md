@@ -1,5 +1,4 @@
-Phoma velata SPECIES
-=======
+# Phoma velata SPECIES
 
 #### Status
 ACCEPTED

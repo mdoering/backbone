@@ -1,17 +1,16 @@
-Tubercularia squamarioides (Nyl.) Kuntze SPECIES
-=======
+# Icmadophila splachnirima (Hook. f. & Taylor) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: (1891)
+Lichenologist 32(3): 295 (2000)
 
 #### Original name
-Baeomyces squamarioides Nyl.
+Parmelia splachnirima Hook. f. & Taylor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Psathyrella capitatocystis Kits van Wav. SPECIES
-=======
+# Psathyrella capitatocystis Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

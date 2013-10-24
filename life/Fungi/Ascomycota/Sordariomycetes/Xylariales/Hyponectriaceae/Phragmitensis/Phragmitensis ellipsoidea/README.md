@@ -1,5 +1,4 @@
-Phragmitensis ellipsoidea M.K.M. Wong, Goh & K.D. Hyde SPECIES
-=======
+# Phragmitensis ellipsoidea M.K.M. Wong, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

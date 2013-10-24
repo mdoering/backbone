@@ -1,5 +1,4 @@
-Pseudocercospora wrightiicola (Satya) Deighton SPECIES
-=======
+# Pseudocercospora wrightiicola (Satya) Deighton SPECIES
 
 #### Status
 ACCEPTED

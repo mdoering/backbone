@@ -1,5 +1,4 @@
-Melanoleuca tristis M.M. Moser SPECIES
-=======
+# Melanoleuca tristis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

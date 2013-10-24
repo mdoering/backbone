@@ -1,17 +1,16 @@
-Peronospora isatidis var. jakutica Benua VARIETY
-=======
+# Hyaloperonospora isatidis (Gäum.) Göker, Riethm., Voglmayr, Weiss & Oberw., 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Progr. 3(2): 89 (2004)
 
 #### Original name
-Peronospora isatidis var. jakutica Benua
+Peronospora isatidis Gäum., 1918
 
 ### Remarks
 null

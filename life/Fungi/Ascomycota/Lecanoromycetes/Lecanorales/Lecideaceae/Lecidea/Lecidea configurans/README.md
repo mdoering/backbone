@@ -1,5 +1,4 @@
-Lecidea configurans Nyl. SPECIES
-=======
+# Lecidea configurans Nyl. SPECIES
 
 #### Status
 ACCEPTED

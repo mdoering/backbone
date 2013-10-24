@@ -1,17 +1,16 @@
-Thelidium decipiens f. decipiens FORM
-=======
+# Thelidium decipiens (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Denkschriften Kgl. Bayer. Bot. Ges. , Abteilung 2 4: 246 (1861)
 
 #### Original name
-Thelidium decipiens f. decipiens
+null
 
 ### Remarks
 null

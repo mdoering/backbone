@@ -1,5 +1,4 @@
-Brachysporisporites longovatus Z.C. Song & Liu Cao SPECIES
-=======
+# Brachysporisporites longovatus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

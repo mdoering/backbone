@@ -1,5 +1,4 @@
-Micropeltis biseptata Höhn. SPECIES
-=======
+# Micropeltis biseptata Höhn. SPECIES
 
 #### Status
 ACCEPTED

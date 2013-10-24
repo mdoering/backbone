@@ -1,17 +1,16 @@
-Candida steatolytica var. steatolytica Yarrow, 1969 VARIETY
-=======
+# Zygoascus hellenicus M.T. Sm., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 52(1): 27 (1986)
 
 #### Original name
-null
+Zygoascus hellenicus M.T. Sm., 1986
 
 ### Remarks
 null

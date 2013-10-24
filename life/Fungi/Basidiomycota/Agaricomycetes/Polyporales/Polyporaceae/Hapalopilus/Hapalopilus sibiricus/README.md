@@ -1,5 +1,4 @@
-Hapalopilus sibiricus Núñez, Parmasto & Ryvarden, 2001 SPECIES
-=======
+# Hapalopilus sibiricus Núñez, Parmasto & Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

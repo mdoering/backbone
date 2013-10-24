@@ -1,5 +1,4 @@
-Clavulina dicymbetorum T.W. Henkel, Meszaros & Aime, 2005 SPECIES
-=======
+# Clavulina dicymbetorum T.W. Henkel, Meszaros & Aime, 2005 SPECIES
 
 #### Status
 ACCEPTED

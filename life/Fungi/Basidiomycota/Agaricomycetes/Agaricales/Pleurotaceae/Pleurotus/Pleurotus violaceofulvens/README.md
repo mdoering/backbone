@@ -1,5 +1,4 @@
-Pleurotus violaceofulvens f. violaceofulvens FORM
-=======
+# Pleurotus violaceofulvens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atlas des Champignons de l'Europe, II: Pleurotus Fries 73 (1935)
+null
 
 #### Original name
-Pleurotus violaceofulvens f. violaceofulvens
+null
 
 ### Remarks
 null

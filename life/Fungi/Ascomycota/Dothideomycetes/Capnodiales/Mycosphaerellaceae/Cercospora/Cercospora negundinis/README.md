@@ -1,5 +1,4 @@
-Cercospora negundinis Ellis & Everh. SPECIES
-=======
+# Cercospora negundinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

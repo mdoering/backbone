@@ -1,5 +1,4 @@
-Paradischloridium Bhat & B. Sutton GENUS
-=======
+# Paradischloridium Bhat & B. Sutton GENUS
 
 #### Status
 ACCEPTED

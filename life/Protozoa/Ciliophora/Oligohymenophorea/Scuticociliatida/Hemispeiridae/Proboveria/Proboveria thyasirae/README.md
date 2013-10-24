@@ -1,5 +1,4 @@
-Proboveria thyasirae Fenchel, 1965 SPECIES
-=======
+# Proboveria thyasirae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctis leucosticta (Mont.) Nyl. SPECIES
-=======
+# Phlyctis leucosticta (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

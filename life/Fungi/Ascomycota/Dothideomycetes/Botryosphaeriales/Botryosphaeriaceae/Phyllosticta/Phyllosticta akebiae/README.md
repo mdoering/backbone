@@ -1,5 +1,4 @@
-Phyllosticta akebiae N. Naito SPECIES
-=======
+# Phyllosticta akebiae N. Naito SPECIES
 
 #### Status
 ACCEPTED

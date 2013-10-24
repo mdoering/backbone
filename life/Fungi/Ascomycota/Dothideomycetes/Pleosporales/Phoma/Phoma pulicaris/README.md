@@ -1,5 +1,4 @@
-Phoma pulicaris Sacc. SPECIES
-=======
+# Phoma pulicaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

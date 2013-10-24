@@ -1,5 +1,4 @@
-Collybia rhodella Berk. SPECIES
-=======
+# Collybia rhodella Berk. SPECIES
 
 #### Status
 ACCEPTED

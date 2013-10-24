@@ -1,5 +1,4 @@
-Aecidium mexicanum Dietel & Holw. SPECIES
-=======
+# Aecidium mexicanum Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

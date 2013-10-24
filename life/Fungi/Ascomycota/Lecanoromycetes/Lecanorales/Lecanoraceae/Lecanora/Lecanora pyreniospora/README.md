@@ -1,5 +1,4 @@
-Lecanora pyreniospora SPECIES
-=======
+# Lecanora pyreniospora SPECIES
 
 #### Status
 ACCEPTED

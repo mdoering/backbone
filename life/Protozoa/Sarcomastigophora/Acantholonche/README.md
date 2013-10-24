@@ -1,5 +1,4 @@
-Acantholonche Haeckel, 1881 GENUS
-=======
+# Acantholonche Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

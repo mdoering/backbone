@@ -1,5 +1,4 @@
-Acremonium succineum Casp. SPECIES
-=======
+# Acremonium succineum Casp. SPECIES
 
 #### Status
 ACCEPTED

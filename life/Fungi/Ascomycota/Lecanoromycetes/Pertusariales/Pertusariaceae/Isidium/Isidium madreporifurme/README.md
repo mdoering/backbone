@@ -1,5 +1,4 @@
-Isidium madreporifurme SPECIES
-=======
+# Isidium madreporifurme SPECIES
 
 #### Status
 ACCEPTED

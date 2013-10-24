@@ -1,5 +1,4 @@
-Aphanomyces cochlioides Drechsler, 1929 SPECIES
-=======
+# Aphanomyces cochlioides Drechsler, 1929 SPECIES
 
 #### Status
 ACCEPTED

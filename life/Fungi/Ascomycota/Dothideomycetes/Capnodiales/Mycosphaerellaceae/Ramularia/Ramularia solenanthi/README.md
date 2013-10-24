@@ -1,5 +1,4 @@
-Ramularia solenanthi T.M. Achundov SPECIES
-=======
+# Ramularia solenanthi T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

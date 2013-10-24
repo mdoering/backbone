@@ -1,5 +1,4 @@
-Synechococcus roseo-purpureus G.S. West SPECIES
-=======
+# Synechococcus roseo-purpureus G.S. West SPECIES
 
 #### Status
 ACCEPTED

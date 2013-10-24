@@ -1,5 +1,4 @@
-Lecidea truckeei Herre SPECIES
-=======
+# Lecidea truckeei Herre SPECIES
 
 #### Status
 ACCEPTED

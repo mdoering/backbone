@@ -1,5 +1,4 @@
-Cercospora verniciferae Chupp & Viégas SPECIES
-=======
+# Cercospora verniciferae Chupp & Viégas SPECIES
 
 #### Status
 ACCEPTED

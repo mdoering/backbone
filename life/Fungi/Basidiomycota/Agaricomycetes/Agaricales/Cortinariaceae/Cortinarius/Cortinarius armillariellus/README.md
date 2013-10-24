@@ -1,5 +1,4 @@
-Cortinarius armillariellus var. dispar Rob. Henry VARIETY
-=======
+# Cortinarius armillariellus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 93(3): 351 (1977)
+null
 
 #### Original name
-Cortinarius armillariellus var. dispar Rob. Henry
+Cortinarius armillariellus Rob. Henry
 
 ### Remarks
 null

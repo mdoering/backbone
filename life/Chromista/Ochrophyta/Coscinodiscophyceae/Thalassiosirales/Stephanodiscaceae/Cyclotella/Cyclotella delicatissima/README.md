@@ -1,5 +1,4 @@
-Cyclotella delicatissima J.R. Carter, J.R. Carter & Bailey-Watts SPECIES
-=======
+# Cyclotella delicatissima J.R. Carter, J.R. Carter & Bailey-Watts SPECIES
 
 #### Status
 ACCEPTED

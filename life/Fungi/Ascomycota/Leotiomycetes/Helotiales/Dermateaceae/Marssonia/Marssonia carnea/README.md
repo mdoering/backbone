@@ -1,5 +1,4 @@
-Marssonia carnea Vestergr. SPECIES
-=======
+# Marssonia carnea Vestergr. SPECIES
 
 #### Status
 ACCEPTED

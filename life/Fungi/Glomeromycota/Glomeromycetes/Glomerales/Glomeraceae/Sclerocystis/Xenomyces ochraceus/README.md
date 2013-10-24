@@ -1,5 +1,4 @@
-Xenomyces ochraceus SPECIES
-=======
+# Xenomyces ochraceus SPECIES
 
 #### Status
 ACCEPTED

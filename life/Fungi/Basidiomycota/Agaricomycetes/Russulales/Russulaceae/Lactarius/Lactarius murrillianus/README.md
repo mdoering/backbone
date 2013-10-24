@@ -1,5 +1,4 @@
-Lactarius murrillianus A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius murrillianus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum persicae Pollacci SPECIES
-=======
+# Sporotrichum persicae Pollacci SPECIES
 
 #### Status
 ACCEPTED

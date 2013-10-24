@@ -1,5 +1,4 @@
-Rhabdospora caraganae Danilova ex Naumov & Danilova SPECIES
-=======
+# Rhabdospora caraganae Danilova ex Naumov & Danilova SPECIES
 
 #### Status
 ACCEPTED

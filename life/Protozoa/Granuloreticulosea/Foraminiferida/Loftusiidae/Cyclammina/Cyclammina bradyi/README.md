@@ -1,5 +1,4 @@
-Cyclammina bradyi SPECIES
-=======
+# Cyclammina bradyi SPECIES
 
 #### Status
 ACCEPTED

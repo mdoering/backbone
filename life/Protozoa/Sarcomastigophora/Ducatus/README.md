@@ -1,5 +1,4 @@
-Ducatus Whalen & Carter, 2002 GENUS
-=======
+# Ducatus Whalen & Carter, 2002 GENUS
 
 #### Status
 ACCEPTED

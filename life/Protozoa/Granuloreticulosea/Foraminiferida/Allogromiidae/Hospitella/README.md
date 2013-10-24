@@ -1,14 +1,13 @@
-Hospitellum Rhumbler, 1913 GENUS
-=======
+# Hospitella Rhumbler, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Ergebn. Plankton Exped. , 3, 468.
+Foram. Plankton Exped. , 3 (1), 1909, 92, 227.
 
 #### Original name
 null

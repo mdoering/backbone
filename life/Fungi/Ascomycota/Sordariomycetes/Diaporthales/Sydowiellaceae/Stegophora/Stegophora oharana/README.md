@@ -1,5 +1,4 @@
-Stegophora oharana (Y. Nisik. & H. Matsumoto) Petr. SPECIES
-=======
+# Stegophora oharana (Y. Nisik. & H. Matsumoto) Petr. SPECIES
 
 #### Status
 ACCEPTED

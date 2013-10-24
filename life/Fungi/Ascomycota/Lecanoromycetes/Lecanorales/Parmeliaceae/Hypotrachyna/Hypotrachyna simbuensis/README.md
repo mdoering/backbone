@@ -1,5 +1,4 @@
-Hypotrachyna simbuensis Elix SPECIES
-=======
+# Hypotrachyna simbuensis Elix SPECIES
 
 #### Status
 ACCEPTED

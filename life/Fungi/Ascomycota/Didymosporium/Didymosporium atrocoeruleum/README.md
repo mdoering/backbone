@@ -1,5 +1,4 @@
-Didymosporium atrocoeruleum Oudem. SPECIES
-=======
+# Didymosporium atrocoeruleum Oudem. SPECIES
 
 #### Status
 ACCEPTED

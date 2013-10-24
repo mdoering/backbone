@@ -1,5 +1,4 @@
-Sphaerophragmium anisothele Speg. SPECIES
-=======
+# Sphaerophragmium anisothele Speg. SPECIES
 
 #### Status
 ACCEPTED

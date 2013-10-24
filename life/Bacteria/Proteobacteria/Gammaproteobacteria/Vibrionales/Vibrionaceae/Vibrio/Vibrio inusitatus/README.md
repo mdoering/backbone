@@ -1,5 +1,4 @@
-Vibrio inusitatus Sawabe, Fujimura, Niwa & Aono, 2007 SPECIES
-=======
+# Vibrio inusitatus Sawabe, Fujimura, Niwa & Aono, 2007 SPECIES
 
 #### Status
 ACCEPTED

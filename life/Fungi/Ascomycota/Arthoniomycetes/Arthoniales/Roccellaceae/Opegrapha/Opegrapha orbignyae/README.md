@@ -1,5 +1,4 @@
-Opegrapha orbignyae H.B.P. Upadhyay SPECIES
-=======
+# Opegrapha orbignyae H.B.P. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

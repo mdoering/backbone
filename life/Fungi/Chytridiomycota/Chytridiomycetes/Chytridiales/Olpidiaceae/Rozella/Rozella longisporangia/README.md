@@ -1,5 +1,4 @@
-Rozella longisporangia Willoughby & E. Rigg SPECIES
-=======
+# Rozella longisporangia Willoughby & E. Rigg SPECIES
 
 #### Status
 ACCEPTED

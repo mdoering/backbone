@@ -1,5 +1,4 @@
-Lecidea cinnamotricha (Müll. Arg.) SPECIES
-=======
+# Lecidea cinnamotricha (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

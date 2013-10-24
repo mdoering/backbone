@@ -1,5 +1,4 @@
-Phaeopezia splendens Pat. SPECIES
-=======
+# Phaeopezia splendens Pat. SPECIES
 
 #### Status
 ACCEPTED

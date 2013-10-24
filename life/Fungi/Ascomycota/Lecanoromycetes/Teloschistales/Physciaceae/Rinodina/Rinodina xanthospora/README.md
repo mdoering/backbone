@@ -1,5 +1,4 @@
-Rinodina xanthospora SPECIES
-=======
+# Rinodina xanthospora SPECIES
 
 #### Status
 ACCEPTED

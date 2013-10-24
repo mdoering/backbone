@@ -1,5 +1,4 @@
-Hypocrella rubiginosa A.L. Sm. SPECIES
-=======
+# Hypocrella rubiginosa A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

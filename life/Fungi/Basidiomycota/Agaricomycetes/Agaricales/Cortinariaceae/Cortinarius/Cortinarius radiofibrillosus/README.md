@@ -1,5 +1,4 @@
-Cortinarius radiofibrillosus A. Pearson SPECIES
-=======
+# Cortinarius radiofibrillosus A. Pearson SPECIES
 
 #### Status
 ACCEPTED

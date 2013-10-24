@@ -1,5 +1,4 @@
-Pyrenostigme siparunae Syd., 1926 SPECIES
-=======
+# Pyrenostigme siparunae Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

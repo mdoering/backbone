@@ -1,5 +1,4 @@
-Septoria phacidioides Desm. SPECIES
-=======
+# Septoria phacidioides Desm. SPECIES
 
 #### Status
 ACCEPTED

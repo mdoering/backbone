@@ -1,5 +1,4 @@
-Linochora verbesinae Syd. SPECIES
-=======
+# Linochora verbesinae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coilomyces Berk. & M.A. Curtis GENUS
-=======
+# Geastrum Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Acad. nat. Sci. Philad. , N. S. 2: 279 (1853)
+null
 
 #### Original name
-Coilomyces Berk. & M.A. Curtis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Syracosphaera subsalsa (Conrad) Kamptner SPECIES
-=======
+# Syracosphaera subsalsa (Conrad) Kamptner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium deltosporum J.C. Krug SPECIES
-=======
+# Chaetomium deltosporum J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

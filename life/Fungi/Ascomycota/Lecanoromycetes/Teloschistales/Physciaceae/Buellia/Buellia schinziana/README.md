@@ -1,5 +1,4 @@
-Buellia schinziana Müll. Arg. SPECIES
-=======
+# Buellia schinziana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

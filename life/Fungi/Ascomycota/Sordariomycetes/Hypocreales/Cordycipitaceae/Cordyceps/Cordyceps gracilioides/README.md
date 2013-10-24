@@ -1,5 +1,4 @@
-Cordyceps gracilioides Kobayasi SPECIES
-=======
+# Cordyceps gracilioides Kobayasi SPECIES
 
 #### Status
 ACCEPTED

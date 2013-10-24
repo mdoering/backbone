@@ -1,5 +1,4 @@
-Pestalotia trichocladi Laughton SPECIES
-=======
+# Pestalotia trichocladi Laughton SPECIES
 
 #### Status
 ACCEPTED

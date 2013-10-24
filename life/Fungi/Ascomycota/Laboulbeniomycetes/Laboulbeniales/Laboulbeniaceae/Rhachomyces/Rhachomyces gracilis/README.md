@@ -1,5 +1,4 @@
-Rhachomyces gracilis Thaxt. SPECIES
-=======
+# Rhachomyces gracilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

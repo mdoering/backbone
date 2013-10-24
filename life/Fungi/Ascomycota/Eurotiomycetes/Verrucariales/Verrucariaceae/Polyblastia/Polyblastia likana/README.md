@@ -1,5 +1,4 @@
-Polyblastia likana Servít SPECIES
-=======
+# Polyblastia likana Servít SPECIES
 
 #### Status
 ACCEPTED

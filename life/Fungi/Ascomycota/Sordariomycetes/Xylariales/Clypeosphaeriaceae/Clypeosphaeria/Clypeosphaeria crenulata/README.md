@@ -1,5 +1,4 @@
-Clypeosphaeria crenulata (Berk.) Sacc. SPECIES
-=======
+# Clypeosphaeria crenulata (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

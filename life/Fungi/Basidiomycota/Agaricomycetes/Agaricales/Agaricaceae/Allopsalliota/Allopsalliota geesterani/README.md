@@ -1,14 +1,13 @@
-Agaricus geesterani Bas & Heinem., 1986 SPECIES
-=======
+# Allopsalliota geesterani (Bas & Heinem.) Nauta & Bas, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 13(1): 114 (1986)
+in Nauta, Belg. Jl Bot. 131(2): 189 (1999)
 
 #### Original name
 Agaricus geesterani Bas & Heinem., 1986

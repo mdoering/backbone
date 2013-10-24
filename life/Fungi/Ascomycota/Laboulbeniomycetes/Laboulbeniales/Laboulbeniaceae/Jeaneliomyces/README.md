@@ -1,5 +1,4 @@
-Jeaneliomyces GENUS
-=======
+# Jeaneliomyces GENUS
 
 #### Status
 ACCEPTED

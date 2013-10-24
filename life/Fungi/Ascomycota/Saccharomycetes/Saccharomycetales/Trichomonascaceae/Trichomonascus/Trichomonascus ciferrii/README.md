@@ -1,5 +1,4 @@
-Trichomonascus ciferrii (M.T. Sm., Van der Walt & Johannsen) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Trichomonascus ciferrii (M.T. Sm., Van der Walt & Johannsen) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

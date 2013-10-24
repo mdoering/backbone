@@ -1,5 +1,4 @@
-Caloplaca convexa (Schaer.) Zahlbr. SPECIES
-=======
+# Caloplaca convexa (Schaer.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

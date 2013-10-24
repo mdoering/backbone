@@ -1,5 +1,4 @@
-Collybia myriadophylla Peck SPECIES
-=======
+# Collybia myriadophylla Peck SPECIES
 
 #### Status
 ACCEPTED

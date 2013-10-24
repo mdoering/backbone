@@ -1,17 +1,16 @@
-Mycocarpon ornatus B.H. Davis & Leisman SPECIES
-=======
+# Mycocarpon ornatum B.H. Davis & Leisman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 89(2): 97 + figs 1-4 (1962)
 
 #### Original name
-Mycocarpon ornatus B.H. Davis & Leisman
+Mycocarpon ornatum B.H. Davis & Leisman
 
 ### Remarks
 null

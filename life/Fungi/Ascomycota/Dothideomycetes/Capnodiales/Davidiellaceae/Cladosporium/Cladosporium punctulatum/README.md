@@ -1,17 +1,16 @@
-Cladosporium punctulatum var. punctulatum Sacc. & Ellis VARIETY
-=======
+# Cladosporium punctulatum Sacc. & Ellis, 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 8): 578 (1882)
 
 #### Original name
-Cladosporium punctulatum var. punctulatum Sacc. & Ellis
+Cladosporium punctulatum Sacc. & Ellis, 1882
 
 ### Remarks
 null

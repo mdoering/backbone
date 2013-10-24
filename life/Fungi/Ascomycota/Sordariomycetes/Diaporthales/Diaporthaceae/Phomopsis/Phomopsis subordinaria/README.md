@@ -1,14 +1,13 @@
-Phoma subordinaria Desm., 1849 SPECIES
-=======
+# Phomopsis subordinaria (Desm.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. ital. crypt. , Pars 1: Fungi. Pyrenomycetae. Xylariaceae, Valsaceae, Ceratostomataceae 232 (1906)
 
 #### Original name
 Phoma subordinaria Desm., 1849

@@ -1,5 +1,4 @@
-Cercospora streptopi Dearn. & Barthol. SPECIES
-=======
+# Cercospora streptopi Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

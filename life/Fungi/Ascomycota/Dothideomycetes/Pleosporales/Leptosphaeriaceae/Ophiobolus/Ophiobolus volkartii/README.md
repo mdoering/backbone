@@ -1,5 +1,4 @@
-Ophiobolus volkartii E. Müll. SPECIES
-=======
+# Ophiobolus volkartii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

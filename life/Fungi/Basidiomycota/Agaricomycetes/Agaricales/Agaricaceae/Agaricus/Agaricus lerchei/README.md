@@ -1,5 +1,4 @@
-Agaricus lerchei Weinm. SPECIES
-=======
+# Agaricus lerchei Weinm. SPECIES
 
 #### Status
 ACCEPTED

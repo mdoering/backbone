@@ -1,5 +1,4 @@
-Nectria leucocoma Starbäck SPECIES
-=======
+# Nectria leucocoma Starbäck SPECIES
 
 #### Status
 ACCEPTED

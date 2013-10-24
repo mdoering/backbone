@@ -1,17 +1,16 @@
-Mucor vesiculosus G. Sm., 1957 SPECIES
-=======
+# Gongronella butleri (Lendn.) Peyronel & Dal Vesco, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 40(4): 480 (1957)
+Allionia 2: 370 (1955)
 
 #### Original name
-Mucor vesiculosus G. Sm., 1957
+Absidia butleri Lendn., 1926
 
 ### Remarks
 null

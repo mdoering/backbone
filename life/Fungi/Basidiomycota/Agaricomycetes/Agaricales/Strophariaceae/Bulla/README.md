@@ -1,5 +1,4 @@
-Bulla GENUS
-=======
+# Bulla GENUS
 
 #### Status
 ACCEPTED

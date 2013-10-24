@@ -1,5 +1,4 @@
-Lactobacillus vaccinostercus Kozaki & Okada, 1983 SPECIES
-=======
+# Lactobacillus vaccinostercus Kozaki & Okada, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anatolinites tenuis (Z.C. Song & Liu Cao) Kalgutkar & Janson. SPECIES
-=======
+# Anatolinites tenuis (Z.C. Song & Liu Cao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

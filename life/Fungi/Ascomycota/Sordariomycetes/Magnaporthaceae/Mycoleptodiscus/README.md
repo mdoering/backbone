@@ -1,5 +1,4 @@
-Mycoleptodiscus Ostaz. GENUS
-=======
+# Mycoleptodiscus Ostaz. GENUS
 
 #### Status
 ACCEPTED

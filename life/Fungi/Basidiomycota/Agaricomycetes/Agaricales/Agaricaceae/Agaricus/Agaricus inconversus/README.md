@@ -1,5 +1,4 @@
-Agaricus inconversus Britzelm. SPECIES
-=======
+# Agaricus inconversus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrococcus helvolus SPECIES
-=======
+# Micrococcus helvolus SPECIES
 
 #### Status
 ACCEPTED

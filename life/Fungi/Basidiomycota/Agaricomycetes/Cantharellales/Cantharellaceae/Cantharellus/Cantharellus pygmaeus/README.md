@@ -1,5 +1,4 @@
-Cantharellus pygmaeus Wallr. SPECIES
-=======
+# Cantharellus pygmaeus Wallr. SPECIES
 
 #### Status
 ACCEPTED

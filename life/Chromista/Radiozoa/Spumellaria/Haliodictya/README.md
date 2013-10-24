@@ -1,5 +1,4 @@
-Haliodictya GENUS
-=======
+# Haliodictya GENUS
 
 #### Status
 ACCEPTED

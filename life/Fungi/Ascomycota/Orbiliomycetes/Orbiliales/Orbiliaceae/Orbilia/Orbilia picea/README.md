@@ -1,5 +1,4 @@
-Orbilia picea Velen. SPECIES
-=======
+# Orbilia picea Velen. SPECIES
 
 #### Status
 ACCEPTED

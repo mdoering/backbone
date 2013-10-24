@@ -1,5 +1,4 @@
-Leptosphaeria rhopographoides Rehm SPECIES
-=======
+# Leptosphaeria rhopographoides Rehm SPECIES
 
 #### Status
 ACCEPTED

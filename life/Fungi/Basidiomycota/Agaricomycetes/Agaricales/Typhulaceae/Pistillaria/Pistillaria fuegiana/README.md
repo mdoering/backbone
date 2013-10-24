@@ -1,5 +1,4 @@
-Pistillaria fuegiana (Speg.) Corner SPECIES
-=======
+# Pistillaria fuegiana (Speg.) Corner SPECIES
 
 #### Status
 ACCEPTED

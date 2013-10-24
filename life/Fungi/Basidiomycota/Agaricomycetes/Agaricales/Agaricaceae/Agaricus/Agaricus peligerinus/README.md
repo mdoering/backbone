@@ -1,5 +1,4 @@
-Agaricus peligerinus Peck SPECIES
-=======
+# Agaricus peligerinus Peck SPECIES
 
 #### Status
 ACCEPTED

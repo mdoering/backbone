@@ -1,5 +1,4 @@
-Desulfovibrio alcoholovorans Qatibi et al., 1995 SPECIES
-=======
+# Desulfovibrio alcoholovorans Qatibi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

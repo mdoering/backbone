@@ -1,5 +1,4 @@
-Nodosaria subantennula Cushman, 1923 SPECIES
-=======
+# Nodosaria subantennula Cushman, 1923 SPECIES
 
 #### Status
 ACCEPTED

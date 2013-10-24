@@ -1,5 +1,4 @@
-Plowrightia tuberculiformis (Ellis) Sacc. SPECIES
-=======
+# Plowrightia tuberculiformis (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

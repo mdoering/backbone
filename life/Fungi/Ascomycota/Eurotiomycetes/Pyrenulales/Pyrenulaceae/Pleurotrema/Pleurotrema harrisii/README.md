@@ -1,5 +1,4 @@
-Pleurotrema harrisii (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema harrisii (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

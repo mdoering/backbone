@@ -1,5 +1,4 @@
-Diaporthe clerodendri Somani SPECIES
-=======
+# Diaporthe clerodendri Somani SPECIES
 
 #### Status
 ACCEPTED

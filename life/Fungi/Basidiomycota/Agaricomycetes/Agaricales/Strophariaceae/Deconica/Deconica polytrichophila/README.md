@@ -1,5 +1,4 @@
-Deconica polytrichophila (Peck) Murrill SPECIES
-=======
+# Deconica polytrichophila (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

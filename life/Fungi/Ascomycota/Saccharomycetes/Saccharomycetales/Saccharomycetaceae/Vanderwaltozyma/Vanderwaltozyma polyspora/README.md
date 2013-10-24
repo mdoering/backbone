@@ -1,14 +1,13 @@
-Kluyveromyces polysporus van der Walt, 1956 SPECIES
-=======
+# Vanderwaltozyma polyspora (van der Walt) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek Ned. Tijdschr. Hyg. 22: (1956)
+FEMS Yeast Res. 4(3): 242 (2003)
 
 #### Original name
 Kluyveromyces polysporus van der Walt, 1956

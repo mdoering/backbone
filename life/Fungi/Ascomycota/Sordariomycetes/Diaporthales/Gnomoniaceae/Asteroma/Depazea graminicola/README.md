@@ -1,5 +1,4 @@
-Depazea graminicola Berk. SPECIES
-=======
+# Depazea graminicola Berk. SPECIES
 
 #### Status
 ACCEPTED

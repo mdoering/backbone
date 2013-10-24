@@ -1,5 +1,4 @@
-Lecothecium acutius (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Lecothecium acutius (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

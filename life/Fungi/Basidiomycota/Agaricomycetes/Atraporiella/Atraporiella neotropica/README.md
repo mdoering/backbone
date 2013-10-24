@@ -1,5 +1,4 @@
-Atraporiella neotropica Ryvarden, 2007 SPECIES
-=======
+# Atraporiella neotropica Ryvarden, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha harrimanii Sowerby SPECIES
-=======
+# Rhizomorpha harrimanii Sowerby SPECIES
 
 #### Status
 ACCEPTED

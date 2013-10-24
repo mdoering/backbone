@@ -1,5 +1,4 @@
-Limacium pacificum (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium pacificum (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

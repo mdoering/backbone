@@ -1,5 +1,4 @@
-Coniothyrium oleae Pollacci SPECIES
-=======
+# Coniothyrium oleae Pollacci SPECIES
 
 #### Status
 ACCEPTED

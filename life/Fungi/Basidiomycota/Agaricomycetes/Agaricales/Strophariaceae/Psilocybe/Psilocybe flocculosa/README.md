@@ -1,5 +1,4 @@
-Psilocybe flocculosa Bas & Noordel. SPECIES
-=======
+# Psilocybe flocculosa Bas & Noordel. SPECIES
 
 #### Status
 ACCEPTED

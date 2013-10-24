@@ -1,14 +1,13 @@
-Pyrenopeziza sphaeroides f. lychnidis W. Phillips, 1889 FORM
-=======
+# Pyrenopeziza lychnidis (Desm.) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 365 (1889)
+null
 
 #### Original name
 Pyrenopeziza sphaeroides f. lychnidis W. Phillips, 1889

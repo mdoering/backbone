@@ -1,5 +1,4 @@
-Geniopila Marvanová & Descals GENUS
-=======
+# Geniopila Marvanová & Descals GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina nothopegiae R.W. Ryan SPECIES
-=======
+# Asterina nothopegiae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

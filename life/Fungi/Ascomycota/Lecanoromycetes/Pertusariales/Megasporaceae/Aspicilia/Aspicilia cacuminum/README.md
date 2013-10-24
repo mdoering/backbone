@@ -1,5 +1,4 @@
-Aspicilia cacuminum (Müll. Arg.) Kernst. SPECIES
-=======
+# Aspicilia cacuminum (Müll. Arg.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

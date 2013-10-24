@@ -1,5 +1,4 @@
-Pyrenomyxa morganii M. Stadler, Laessøe & Lar.N. Vassiljeva, 2006 SPECIES
-=======
+# Pyrenomyxa morganii M. Stadler, Laessøe & Lar.N. Vassiljeva, 2006 SPECIES
 
 #### Status
 ACCEPTED

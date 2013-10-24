@@ -1,5 +1,4 @@
-Collema occulatum Bagl. SPECIES
-=======
+# Collema occulatum Bagl. SPECIES
 
 #### Status
 ACCEPTED

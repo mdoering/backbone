@@ -1,5 +1,4 @@
-Chalara fraxinea T. Kowalski, 2006 SPECIES
-=======
+# Chalara fraxinea T. Kowalski, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus striatifolius Peck SPECIES
-=======
+# Agaricus striatifolius Peck SPECIES
 
 #### Status
 ACCEPTED

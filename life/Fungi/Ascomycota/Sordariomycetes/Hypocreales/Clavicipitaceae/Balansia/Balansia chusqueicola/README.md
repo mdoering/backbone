@@ -1,5 +1,4 @@
-Balansia chusqueicola Henn. SPECIES
-=======
+# Balansia chusqueicola Henn. SPECIES
 
 #### Status
 ACCEPTED

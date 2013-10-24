@@ -1,5 +1,4 @@
-Choiromyces ganglioides var. ganglioides VARIETY
-=======
+# Choiromyces ganglioides Zobel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Choiromyces ganglioides var. ganglioides
+Choiromyces ganglioides Zobel
 
 ### Remarks
 null

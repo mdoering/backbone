@@ -1,5 +1,4 @@
-Mucor syphiliticus Hallier SPECIES
-=======
+# Mucor syphiliticus Hallier SPECIES
 
 #### Status
 ACCEPTED

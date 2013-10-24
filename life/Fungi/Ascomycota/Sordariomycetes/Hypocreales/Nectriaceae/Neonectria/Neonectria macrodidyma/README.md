@@ -1,5 +1,4 @@
-Neonectria macrodidyma Halleen, Schroers & Crous, 2004 SPECIES
-=======
+# Neonectria macrodidyma Halleen, Schroers & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

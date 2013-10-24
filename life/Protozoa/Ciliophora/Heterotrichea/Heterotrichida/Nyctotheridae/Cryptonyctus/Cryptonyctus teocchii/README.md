@@ -1,5 +1,4 @@
-Cryptonyctus teocchii (Albaret, 1975) Jankowski, 2007 SPECIES
-=======
+# Cryptonyctus teocchii (Albaret, 1975) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

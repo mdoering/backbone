@@ -1,5 +1,4 @@
-Peccania arizonica (Tuck.) Herre SPECIES
-=======
+# Peccania arizonica (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

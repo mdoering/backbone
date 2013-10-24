@@ -1,5 +1,4 @@
-Eriomycopsis bosquieae Hansf. SPECIES
-=======
+# Eriomycopsis bosquieae Hansf. SPECIES
 
 #### Status
 ACCEPTED

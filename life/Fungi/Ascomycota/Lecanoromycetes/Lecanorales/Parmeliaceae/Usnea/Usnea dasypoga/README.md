@@ -1,5 +1,4 @@
-Usnea dasypoga f. dasypoga FORM
-=======
+# Usnea dasypoga (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Deutschl. Fl. (Frankfurt), Abth. 2 3: 144 (1813)
 
 #### Original name
-Usnea dasypoga f. dasypoga
+Usnea plicata var. dasypoga Ach.
 
 ### Remarks
 null

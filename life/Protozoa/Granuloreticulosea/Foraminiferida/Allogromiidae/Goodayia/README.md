@@ -1,5 +1,4 @@
-Goodayia Sergeeva & Anikeeva, 2008 GENUS
-=======
+# Goodayia Sergeeva & Anikeeva, 2008 GENUS
 
 #### Status
 ACCEPTED

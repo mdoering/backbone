@@ -1,5 +1,4 @@
-Strombidinopsis proboscidiferum Milne, 1886 SPECIES
-=======
+# Strombidinopsis proboscidiferum Milne, 1886 SPECIES
 
 #### Status
 ACCEPTED

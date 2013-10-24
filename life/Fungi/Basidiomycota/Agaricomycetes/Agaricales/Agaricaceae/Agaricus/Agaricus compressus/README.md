@@ -1,5 +1,4 @@
-Agaricus compressus With. SPECIES
-=======
+# Agaricus compressus With. SPECIES
 
 #### Status
 ACCEPTED

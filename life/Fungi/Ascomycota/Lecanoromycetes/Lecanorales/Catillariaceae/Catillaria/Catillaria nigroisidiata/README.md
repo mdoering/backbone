@@ -1,5 +1,4 @@
-Catillaria nigroisidiata van den Boom SPECIES
-=======
+# Catillaria nigroisidiata van den Boom SPECIES
 
 #### Status
 ACCEPTED

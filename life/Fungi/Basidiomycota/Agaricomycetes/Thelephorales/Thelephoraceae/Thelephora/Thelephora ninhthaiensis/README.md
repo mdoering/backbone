@@ -1,5 +1,4 @@
-Thelephora ninhthaiensis Pat. SPECIES
-=======
+# Thelephora ninhthaiensis Pat. SPECIES
 
 #### Status
 ACCEPTED

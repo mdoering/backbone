@@ -1,5 +1,4 @@
-Agaricus viridispadiceus J. Otto SPECIES
-=======
+# Agaricus viridispadiceus J. Otto SPECIES
 
 #### Status
 ACCEPTED

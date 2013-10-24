@@ -1,5 +1,4 @@
-Poria plicata Scop. SPECIES
-=======
+# Poria plicata Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria alcides f. alcides FORM
-=======
+# Leptosphaeria alcides Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria alcides f. alcides
+Leptosphaeria alcides Sacc.
 
 ### Remarks
 null

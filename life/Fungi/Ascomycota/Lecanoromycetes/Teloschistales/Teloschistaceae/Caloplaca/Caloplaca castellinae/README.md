@@ -1,5 +1,4 @@
-Caloplaca castellinae (Räsänen) Poelt SPECIES
-=======
+# Caloplaca castellinae (Räsänen) Poelt SPECIES
 
 #### Status
 ACCEPTED

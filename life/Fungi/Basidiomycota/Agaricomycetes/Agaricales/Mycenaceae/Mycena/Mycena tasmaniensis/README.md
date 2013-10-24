@@ -1,5 +1,4 @@
-Mycena tasmaniensis Grgur. SPECIES
-=======
+# Mycena tasmaniensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

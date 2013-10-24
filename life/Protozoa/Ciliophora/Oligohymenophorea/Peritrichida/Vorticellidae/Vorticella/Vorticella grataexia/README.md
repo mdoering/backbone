@@ -1,5 +1,4 @@
-Vorticella grataexia SPECIES
-=======
+# Vorticella grataexia SPECIES
 
 #### Status
 ACCEPTED

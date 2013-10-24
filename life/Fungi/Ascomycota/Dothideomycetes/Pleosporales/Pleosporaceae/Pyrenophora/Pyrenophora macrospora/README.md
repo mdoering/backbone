@@ -1,5 +1,4 @@
-Pyrenophora macrospora Wehm. SPECIES
-=======
+# Pyrenophora macrospora Wehm. SPECIES
 
 #### Status
 ACCEPTED

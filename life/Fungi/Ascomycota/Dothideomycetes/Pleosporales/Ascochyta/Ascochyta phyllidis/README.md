@@ -1,5 +1,4 @@
-Ascochyta phyllidis Jørst. SPECIES
-=======
+# Ascochyta phyllidis Jørst. SPECIES
 
 #### Status
 ACCEPTED

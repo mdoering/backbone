@@ -1,5 +1,4 @@
-Tremella resupinata Chee J. Chen SPECIES
-=======
+# Tremella resupinata Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

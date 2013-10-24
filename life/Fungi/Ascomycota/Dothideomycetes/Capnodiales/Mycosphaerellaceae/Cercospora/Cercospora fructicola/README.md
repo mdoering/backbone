@@ -1,5 +1,4 @@
-Cercospora fructicola Sacc. SPECIES
-=======
+# Cercospora fructicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

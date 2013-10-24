@@ -1,5 +1,4 @@
-Cyphella vernalis Weinm. SPECIES
-=======
+# Cyphella vernalis Weinm. SPECIES
 
 #### Status
 ACCEPTED

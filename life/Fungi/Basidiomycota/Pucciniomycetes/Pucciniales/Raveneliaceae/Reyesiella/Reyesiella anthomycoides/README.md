@@ -1,5 +1,4 @@
-Reyesiella anthomycoides Sacc. SPECIES
-=======
+# Reyesiella anthomycoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola atalayae Doidge SPECIES
-=======
+# Meliola atalayae Doidge SPECIES
 
 #### Status
 ACCEPTED

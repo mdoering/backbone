@@ -1,5 +1,4 @@
-Blastobacter GENUS
-=======
+# Blastobacter GENUS
 
 #### Status
 ACCEPTED

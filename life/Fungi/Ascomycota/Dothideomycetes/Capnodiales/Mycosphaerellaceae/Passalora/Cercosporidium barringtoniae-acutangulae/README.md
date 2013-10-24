@@ -1,5 +1,4 @@
-Cercosporidium barringtoniae-acutangulae Kamal, B.K. Gupta & R.K. Verma SPECIES
-=======
+# Cercosporidium barringtoniae-acutangulae Kamal, B.K. Gupta & R.K. Verma SPECIES
 
 #### Status
 ACCEPTED

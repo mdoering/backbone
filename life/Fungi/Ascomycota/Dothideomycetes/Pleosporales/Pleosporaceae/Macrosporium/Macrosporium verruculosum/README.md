@@ -1,5 +1,4 @@
-Macrosporium verruculosum Bubák SPECIES
-=======
+# Macrosporium verruculosum Bubák SPECIES
 
 #### Status
 ACCEPTED

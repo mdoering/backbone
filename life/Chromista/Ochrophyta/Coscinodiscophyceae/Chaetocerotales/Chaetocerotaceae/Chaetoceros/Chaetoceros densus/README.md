@@ -1,11 +1,10 @@
-Chaetoceros borealis var. densum Cleve, 1897 VARIETY
-=======
+# Chaetoceros densus (Cleve) Cleve SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

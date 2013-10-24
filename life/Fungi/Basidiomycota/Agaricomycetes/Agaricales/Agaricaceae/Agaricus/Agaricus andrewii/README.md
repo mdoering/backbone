@@ -1,5 +1,4 @@
-Agaricus andrewii A.E. Freeman SPECIES
-=======
+# Agaricus andrewii A.E. Freeman SPECIES
 
 #### Status
 ACCEPTED

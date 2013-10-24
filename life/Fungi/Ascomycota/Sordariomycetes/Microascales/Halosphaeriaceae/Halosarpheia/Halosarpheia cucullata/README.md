@@ -1,5 +1,4 @@
-Halosarpheia cucullata (Kohlm.) Kohlm., 1972 SPECIES
-=======
+# Halosarpheia cucullata (Kohlm.) Kohlm., 1972 SPECIES
 
 #### Status
 ACCEPTED

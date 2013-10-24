@@ -1,5 +1,4 @@
-Hebeloma crassipes Rick SPECIES
-=======
+# Hebeloma crassipes Rick SPECIES
 
 #### Status
 ACCEPTED

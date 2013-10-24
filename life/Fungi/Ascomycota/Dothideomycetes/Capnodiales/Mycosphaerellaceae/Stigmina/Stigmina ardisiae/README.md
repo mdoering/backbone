@@ -1,5 +1,4 @@
-Stigmina ardisiae Munjal & Kulshr. SPECIES
-=======
+# Stigmina ardisiae Munjal & Kulshr. SPECIES
 
 #### Status
 ACCEPTED

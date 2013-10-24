@@ -1,5 +1,4 @@
-Psathyrella umbonata (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella umbonata (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

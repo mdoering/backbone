@@ -1,5 +1,4 @@
-Crotonocarpia moriformis Fuckel SPECIES
-=======
+# Crotonocarpia moriformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

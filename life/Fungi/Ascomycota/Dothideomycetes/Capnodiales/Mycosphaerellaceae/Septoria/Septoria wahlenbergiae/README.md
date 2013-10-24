@@ -1,17 +1,16 @@
-Septoria wahlenbergii Speg. SPECIES
-=======
+# Septoria wahlenbergiae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Soc. cient. argent. 13: 18 (1882)
 
 #### Original name
-Septoria wahlenbergii Speg.
+Septoria wahlenbergiae Speg.
 
 ### Remarks
 null

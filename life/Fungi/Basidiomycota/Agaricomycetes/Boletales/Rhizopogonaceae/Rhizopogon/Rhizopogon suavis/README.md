@@ -1,5 +1,4 @@
-Rhizopogon suavis Quél. SPECIES
-=======
+# Rhizopogon suavis Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phagodinium tridentatum (S.L. Nygaard) Kristiansen SPECIES
-=======
+# Phagodinium tridentatum (S.L. Nygaard) Kristiansen SPECIES
 
 #### Status
 ACCEPTED

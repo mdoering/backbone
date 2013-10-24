@@ -1,5 +1,4 @@
-Physcia cinerea Moberg SPECIES
-=======
+# Physcia cinerea Moberg SPECIES
 
 #### Status
 ACCEPTED

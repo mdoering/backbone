@@ -1,5 +1,4 @@
-Clavulina curta SPECIES
-=======
+# Clavulina curta SPECIES
 
 #### Status
 ACCEPTED

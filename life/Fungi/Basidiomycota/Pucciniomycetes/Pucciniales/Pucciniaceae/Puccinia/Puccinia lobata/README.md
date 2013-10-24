@@ -1,5 +1,4 @@
-Puccinia lobata Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia lobata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

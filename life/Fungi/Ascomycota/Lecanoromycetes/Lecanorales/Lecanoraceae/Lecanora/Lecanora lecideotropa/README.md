@@ -1,5 +1,4 @@
-Lecanora lecideotropa SPECIES
-=======
+# Lecanora lecideotropa SPECIES
 
 #### Status
 ACCEPTED

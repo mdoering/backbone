@@ -1,5 +1,4 @@
-Skeletocutis papyracea A. David, 1982 SPECIES
-=======
+# Skeletocutis papyracea A. David, 1982 SPECIES
 
 #### Status
 ACCEPTED

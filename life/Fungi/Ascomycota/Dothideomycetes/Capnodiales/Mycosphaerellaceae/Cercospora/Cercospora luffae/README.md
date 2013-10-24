@@ -1,5 +1,4 @@
-Cercospora luffae Hara SPECIES
-=======
+# Cercospora luffae Hara SPECIES
 
 #### Status
 ACCEPTED

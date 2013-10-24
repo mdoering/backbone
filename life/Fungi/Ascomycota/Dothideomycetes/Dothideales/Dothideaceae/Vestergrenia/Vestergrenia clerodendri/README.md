@@ -1,5 +1,4 @@
-Vestergrenia clerodendri (Syd.) Theiss. SPECIES
-=======
+# Vestergrenia clerodendri (Syd.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

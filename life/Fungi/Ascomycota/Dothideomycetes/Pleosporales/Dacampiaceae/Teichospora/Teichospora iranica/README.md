@@ -1,5 +1,4 @@
-Teichospora iranica Petr. SPECIES
-=======
+# Teichospora iranica Petr. SPECIES
 
 #### Status
 ACCEPTED

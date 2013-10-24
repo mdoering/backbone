@@ -1,5 +1,4 @@
-Mycotodea bryophila (Sacc.) Kirschst. SPECIES
-=======
+# Mycotodea bryophila (Sacc.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

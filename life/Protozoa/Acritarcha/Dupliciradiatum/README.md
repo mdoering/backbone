@@ -1,5 +1,4 @@
-Dupliciradiatum González, Moreno & Playford, 2005 GENUS
-=======
+# Dupliciradiatum González, Moreno & Playford, 2005 GENUS
 
 #### Status
 ACCEPTED

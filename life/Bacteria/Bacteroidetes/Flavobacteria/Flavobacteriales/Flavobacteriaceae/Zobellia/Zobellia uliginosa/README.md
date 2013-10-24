@@ -1,11 +1,10 @@
-Agarbacterium uliginosum (ZoBell & Upham, 1944) Breed, 1957 SPECIES
-=======
+# Zobellia uliginosa (ZoBell and Upham, 1944) Barbeyron et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

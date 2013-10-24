@@ -1,17 +1,16 @@
-Kretzschmaria coenopus var. coenopus VARIETY
-=======
+# Kretzschmaria clavus (Fr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 2: XXIX (1883)
 
 #### Original name
-Kretzschmaria coenopus var. coenopus
+Sphaeria clavus Fr., 1830
 
 ### Remarks
 null

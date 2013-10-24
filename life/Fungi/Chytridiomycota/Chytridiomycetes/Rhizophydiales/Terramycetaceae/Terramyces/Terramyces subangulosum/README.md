@@ -1,14 +1,13 @@
-Chytridium subangulosum A. Braun, 1856 SPECIES
-=======
+# Terramyces subangulosum (A. Braun) Letcher, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. Königl. Akad. Wiss. Berlin 44 (1856)
+in Letcher, Powell, Churchill & Chambers, Mycol. Res. 110(8): 911 (2006)
 
 #### Original name
 Chytridium subangulosum A. Braun, 1856

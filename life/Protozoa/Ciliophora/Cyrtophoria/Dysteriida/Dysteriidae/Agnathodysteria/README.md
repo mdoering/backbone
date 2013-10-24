@@ -1,5 +1,4 @@
-Agnathodysteria Deroux, 1976 GENUS
-=======
+# Agnathodysteria Deroux, 1976 GENUS
 
 #### Status
 ACCEPTED

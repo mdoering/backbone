@@ -1,5 +1,4 @@
-Cantharellus inodorus Velen. SPECIES
-=======
+# Cantharellus inodorus Velen. SPECIES
 
 #### Status
 ACCEPTED

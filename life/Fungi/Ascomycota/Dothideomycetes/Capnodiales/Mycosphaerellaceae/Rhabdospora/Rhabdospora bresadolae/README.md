@@ -1,5 +1,4 @@
-Rhabdospora bresadolae Allesch. SPECIES
-=======
+# Rhabdospora bresadolae Allesch. SPECIES
 
 #### Status
 ACCEPTED

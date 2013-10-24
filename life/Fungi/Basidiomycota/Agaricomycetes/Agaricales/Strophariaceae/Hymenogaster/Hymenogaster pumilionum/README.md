@@ -1,5 +1,4 @@
-Hymenogaster pumilionum Ade SPECIES
-=======
+# Hymenogaster pumilionum Ade SPECIES
 
 #### Status
 ACCEPTED

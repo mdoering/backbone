@@ -1,5 +1,4 @@
-Cercospora diospyricola Munjal, Lall & Chona SPECIES
-=======
+# Cercospora diospyricola Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

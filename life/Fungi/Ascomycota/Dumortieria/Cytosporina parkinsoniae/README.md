@@ -1,5 +1,4 @@
-Cytosporina parkinsoniae Speg. SPECIES
-=======
+# Cytosporina parkinsoniae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcographa radiata (G. Mey.) Zahlbr. SPECIES
-=======
+# Sarcographa radiata (G. Mey.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

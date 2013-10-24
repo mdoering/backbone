@@ -1,5 +1,4 @@
-Ceriomyces reticulatus Murrill SPECIES
-=======
+# Ceriomyces reticulatus Murrill SPECIES
 
 #### Status
 ACCEPTED

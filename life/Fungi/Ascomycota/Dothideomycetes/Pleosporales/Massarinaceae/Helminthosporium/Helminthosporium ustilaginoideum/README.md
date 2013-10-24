@@ -1,5 +1,4 @@
-Helminthosporium ustilaginoideum Henn. SPECIES
-=======
+# Helminthosporium ustilaginoideum Henn. SPECIES
 
 #### Status
 ACCEPTED

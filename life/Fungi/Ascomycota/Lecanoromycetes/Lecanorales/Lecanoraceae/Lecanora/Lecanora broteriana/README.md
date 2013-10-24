@@ -1,5 +1,4 @@
-Lecanora broteriana Tav. SPECIES
-=======
+# Lecanora broteriana Tav. SPECIES
 
 #### Status
 ACCEPTED

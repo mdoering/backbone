@@ -1,8 +1,7 @@
-Patella pulcherrima (P. Crouan & H. Crouan) Seaver, 1928 SPECIES
-=======
+# Cheilymenia pulcherrima (P. Crouan & H. Crouan) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

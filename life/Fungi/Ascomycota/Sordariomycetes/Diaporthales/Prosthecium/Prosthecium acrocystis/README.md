@@ -1,5 +1,4 @@
-Prosthecium acrocystis (Peck) M.E. Barr SPECIES
-=======
+# Prosthecium acrocystis (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

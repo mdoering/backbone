@@ -1,14 +1,13 @@
-Phyllostictina sapotae (Sacc.) Petr. & Syd., 1927 SPECIES
-=======
+# Phyllosticta sapotae Sacc., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 502 (1927)
+Annls mycol. 10(3): 312 (1912)
 
 #### Original name
 Phyllosticta sapotae Sacc., 1912

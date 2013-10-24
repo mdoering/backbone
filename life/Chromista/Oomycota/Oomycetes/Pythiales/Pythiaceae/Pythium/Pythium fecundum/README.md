@@ -1,5 +1,4 @@
-Pythium fecundum Wahrlich SPECIES
-=======
+# Pythium fecundum Wahrlich SPECIES
 
 #### Status
 ACCEPTED

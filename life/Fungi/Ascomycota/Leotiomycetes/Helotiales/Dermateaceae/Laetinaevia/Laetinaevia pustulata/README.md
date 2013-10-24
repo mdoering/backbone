@@ -1,5 +1,4 @@
-Laetinaevia pustulata Graddon, 1977 SPECIES
-=======
+# Laetinaevia pustulata Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammosigmoilinella Zheng, 1988 GENUS
-=======
+# Ammosigmoilinella Zheng, 1988 GENUS
 
 #### Status
 ACCEPTED

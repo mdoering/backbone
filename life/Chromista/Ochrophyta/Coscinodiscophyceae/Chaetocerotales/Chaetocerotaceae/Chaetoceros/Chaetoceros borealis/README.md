@@ -1,8 +1,7 @@
-Chaetoceros atlanticus var. borealis VARIETY
-=======
+# Chaetoceros borealis Bailey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

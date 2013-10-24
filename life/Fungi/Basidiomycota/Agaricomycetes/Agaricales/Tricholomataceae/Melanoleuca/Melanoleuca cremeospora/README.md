@@ -1,5 +1,4 @@
-Melanoleuca cremeospora Singer SPECIES
-=======
+# Melanoleuca cremeospora Singer SPECIES
 
 #### Status
 ACCEPTED

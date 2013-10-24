@@ -1,5 +1,4 @@
-Caloplaca ammiospiloides (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca ammiospiloides (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

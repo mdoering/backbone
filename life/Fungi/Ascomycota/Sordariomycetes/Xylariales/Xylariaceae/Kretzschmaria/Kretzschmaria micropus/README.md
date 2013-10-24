@@ -1,17 +1,16 @@
-Hypoxylon aggregatum Welw. & Curr., 1867 SPECIES
-=======
+# Kretzschmaria micropus (Fr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 26: 282 (1867)
+Syll. fung. (Abellini) 1: 389 (1882)
 
 #### Original name
-Hypoxylon aggregatum Welw. & Curr., 1867
+Sphaeria micropus Fr., 1830
 
 ### Remarks
 null

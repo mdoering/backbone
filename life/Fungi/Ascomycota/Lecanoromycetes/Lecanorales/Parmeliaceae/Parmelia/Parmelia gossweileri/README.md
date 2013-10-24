@@ -1,5 +1,4 @@
-Parmelia gossweileri C.W. Dodge SPECIES
-=======
+# Parmelia gossweileri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces bettellae W. Rossi SPECIES
-=======
+# Stigmatomyces bettellae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

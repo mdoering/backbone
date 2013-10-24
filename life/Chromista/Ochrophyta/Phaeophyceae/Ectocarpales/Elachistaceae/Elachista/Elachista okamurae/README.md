@@ -1,5 +1,4 @@
-Elachista okamurae Yoshida SPECIES
-=======
+# Elachista okamurae Yoshida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synsphaeridium rarum Medvedeva in Medvedeva & Kuzovleva, 1971 SPECIES
-=======
+# Synsphaeridium rarum Medvedeva in Medvedeva & Kuzovleva, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium chloromelum f. chloromelum FORM
-=======
+# Leptogium chloromelum (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 333 (1857)
 
 #### Original name
-Leptogium chloromelum f. chloromelum
+Lichen chloromelus Sw.
 
 ### Remarks
 null

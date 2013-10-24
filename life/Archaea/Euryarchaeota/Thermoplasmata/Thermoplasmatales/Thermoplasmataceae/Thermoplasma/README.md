@@ -1,5 +1,4 @@
-Thermoplasma Darland, Brock, Samsonoff & Conti, 1970 GENUS
-=======
+# Thermoplasma Darland, Brock, Samsonoff & Conti, 1970 GENUS
 
 #### Status
 ACCEPTED

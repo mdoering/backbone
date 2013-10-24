@@ -1,5 +1,4 @@
-Calicium atronitescens F. Wilson SPECIES
-=======
+# Calicium atronitescens F. Wilson SPECIES
 
 #### Status
 ACCEPTED

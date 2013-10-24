@@ -1,5 +1,4 @@
-Leptostromella anceps Pass. SPECIES
-=======
+# Leptostromella anceps Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightoniella jabalpurensis G.P. Agarwal & Hasija SPECIES
-=======
+# Deightoniella jabalpurensis G.P. Agarwal & Hasija SPECIES
 
 #### Status
 ACCEPTED

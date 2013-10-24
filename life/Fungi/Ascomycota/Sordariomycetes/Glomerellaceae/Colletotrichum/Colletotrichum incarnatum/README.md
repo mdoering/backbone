@@ -1,5 +1,4 @@
-Colletotrichum incarnatum Zimm., 1901 SPECIES
-=======
+# Colletotrichum incarnatum Zimm., 1901 SPECIES
 
 #### Status
 ACCEPTED

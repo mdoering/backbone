@@ -1,5 +1,4 @@
-Aphelaria trispora Corner SPECIES
-=======
+# Aphelaria trispora Corner SPECIES
 
 #### Status
 ACCEPTED

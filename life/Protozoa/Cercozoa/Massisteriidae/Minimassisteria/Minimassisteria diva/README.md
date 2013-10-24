@@ -1,5 +1,4 @@
-Minimassisteria diva Arndt & Cavalier-Smith, 2011 SPECIES
-=======
+# Minimassisteria diva Arndt & Cavalier-Smith, 2011 SPECIES
 
 #### Status
 ACCEPTED

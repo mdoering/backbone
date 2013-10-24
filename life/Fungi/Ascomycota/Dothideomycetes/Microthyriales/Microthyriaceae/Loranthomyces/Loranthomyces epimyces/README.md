@@ -1,5 +1,4 @@
-Loranthomyces epimyces (E. Bommer, M. Rousseau & Sacc.) Höhn. SPECIES
-=======
+# Loranthomyces epimyces (E. Bommer, M. Rousseau & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

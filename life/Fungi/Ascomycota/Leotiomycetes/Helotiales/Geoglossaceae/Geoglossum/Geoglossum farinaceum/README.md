@@ -1,5 +1,4 @@
-Geoglossum farinaceum Schwein. SPECIES
-=======
+# Geoglossum farinaceum Schwein. SPECIES
 
 #### Status
 ACCEPTED

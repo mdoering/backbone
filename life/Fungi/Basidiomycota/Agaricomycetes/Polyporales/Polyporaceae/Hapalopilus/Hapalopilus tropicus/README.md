@@ -1,5 +1,4 @@
-Hapalopilus tropicus I. Lindblad & Ryvarden, 1999 SPECIES
-=======
+# Hapalopilus tropicus I. Lindblad & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

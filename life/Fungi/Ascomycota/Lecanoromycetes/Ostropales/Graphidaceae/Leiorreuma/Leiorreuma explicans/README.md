@@ -1,5 +1,4 @@
-Leiorreuma explicans (Fink) Lendemer SPECIES
-=======
+# Leiorreuma explicans (Fink) Lendemer SPECIES
 
 #### Status
 ACCEPTED

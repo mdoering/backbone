@@ -1,5 +1,4 @@
-Fuscopannaria dispersa P.M. Jørg. SPECIES
-=======
+# Fuscopannaria dispersa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium acaciae-mearnsii O'Donnell, T. Aoki, Kistler & Geiser, 2004 SPECIES
-=======
+# Fusarium acaciae-mearnsii O'Donnell, T. Aoki, Kistler & Geiser, 2004 SPECIES
 
 #### Status
 ACCEPTED

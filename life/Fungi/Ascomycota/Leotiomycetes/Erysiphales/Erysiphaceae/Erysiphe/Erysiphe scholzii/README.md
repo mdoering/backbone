@@ -1,5 +1,4 @@
-Erysiphe scholzii U. Braun & Bolay, 2005 SPECIES
-=======
+# Erysiphe scholzii U. Braun & Bolay, 2005 SPECIES
 
 #### Status
 ACCEPTED

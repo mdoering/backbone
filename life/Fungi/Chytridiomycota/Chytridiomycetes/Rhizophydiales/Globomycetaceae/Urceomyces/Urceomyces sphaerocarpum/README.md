@@ -1,17 +1,16 @@
-Rhizophydium sphaerocarpum spirogyrae (Zopf) Fischer SUBSPECIES
-=======
+# Urceomyces sphaerocarpum (Zopf) Letcher, 2008 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 112(7): 778 (2008)
 
 #### Original name
-null
+Rhizidium sphaerocarpum Zopf, 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pluteus chusqueicola E. Horak SPECIES
-=======
+# Pluteus chusqueicola E. Horak SPECIES
 
 #### Status
 ACCEPTED

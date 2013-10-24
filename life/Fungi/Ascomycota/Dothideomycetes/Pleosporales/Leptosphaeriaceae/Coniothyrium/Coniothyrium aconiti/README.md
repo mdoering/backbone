@@ -1,5 +1,4 @@
-Coniothyrium aconiti M. Petrov SPECIES
-=======
+# Coniothyrium aconiti M. Petrov SPECIES
 
 #### Status
 ACCEPTED

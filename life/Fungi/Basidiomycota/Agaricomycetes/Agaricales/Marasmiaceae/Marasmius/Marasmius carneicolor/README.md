@@ -1,5 +1,4 @@
-Marasmius carneicolor Corner SPECIES
-=======
+# Marasmius carneicolor Corner SPECIES
 
 #### Status
 ACCEPTED

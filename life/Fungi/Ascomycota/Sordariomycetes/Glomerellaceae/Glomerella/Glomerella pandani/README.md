@@ -1,5 +1,4 @@
-Glomerella pandani Syd. SPECIES
-=======
+# Glomerella pandani Syd. SPECIES
 
 #### Status
 ACCEPTED

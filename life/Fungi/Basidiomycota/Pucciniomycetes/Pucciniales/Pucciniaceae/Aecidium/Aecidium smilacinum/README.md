@@ -1,5 +1,4 @@
-Aecidium smilacinum J.C. Lindq. SPECIES
-=======
+# Aecidium smilacinum J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

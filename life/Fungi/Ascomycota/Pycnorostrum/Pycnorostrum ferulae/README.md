@@ -1,5 +1,4 @@
-Pycnorostrum ferulae Golovin SPECIES
-=======
+# Pycnorostrum ferulae Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium sizovae Baghd., 1968 SPECIES
-=======
+# Penicillium dierckxii Biourge, 1923 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

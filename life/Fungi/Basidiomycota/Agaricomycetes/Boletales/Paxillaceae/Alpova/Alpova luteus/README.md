@@ -1,5 +1,4 @@
-Alpova luteus (Zeller) Trappe SPECIES
-=======
+# Alpova luteus (Zeller) Trappe SPECIES
 
 #### Status
 ACCEPTED

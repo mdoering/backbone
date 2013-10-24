@@ -1,5 +1,4 @@
-Clathromitra pentacantha Haeckel, 1887 SPECIES
-=======
+# Clathromitra pentacantha Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

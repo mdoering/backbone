@@ -1,5 +1,4 @@
-Sporidesmium longisporum Cabello, Cazau & Aramb. SPECIES
-=======
+# Sporidesmium longisporum Cabello, Cazau & Aramb. SPECIES
 
 #### Status
 ACCEPTED

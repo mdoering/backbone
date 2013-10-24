@@ -1,5 +1,4 @@
-Stereum tjibodense Henn., 1900 SPECIES
-=======
+# Stereum tjibodense Henn., 1900 SPECIES
 
 #### Status
 ACCEPTED

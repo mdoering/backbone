@@ -1,5 +1,4 @@
-Russula neodiscopoda Singer SPECIES
-=======
+# Russula neodiscopoda Singer SPECIES
 
 #### Status
 ACCEPTED

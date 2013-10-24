@@ -1,5 +1,4 @@
-Amanitopsis baccata (Fr.) Sacc. SPECIES
-=======
+# Amanitopsis baccata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

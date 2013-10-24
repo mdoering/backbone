@@ -1,5 +1,4 @@
-Hygrocybe proteus Singer SPECIES
-=======
+# Hygrocybe proteus Singer SPECIES
 
 #### Status
 ACCEPTED

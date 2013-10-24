@@ -1,14 +1,13 @@
-Polyporus caryophylleus (Cooke) Lloyd, 1915 SPECIES
-=======
+# Phellinus caryophylleus (Cooke) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4: 358 (1915)
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
 Fomes caryophylleus Cooke, 1886

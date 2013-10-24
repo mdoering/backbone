@@ -1,5 +1,4 @@
-Cercospora lobeliae-cardinalis (Schwein.) SPECIES
-=======
+# Cercospora lobeliae-cardinalis (Schwein.) SPECIES
 
 #### Status
 ACCEPTED

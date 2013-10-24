@@ -1,5 +1,4 @@
-Paxillus eucalyptorum Berk. SPECIES
-=======
+# Paxillus eucalyptorum Berk. SPECIES
 
 #### Status
 ACCEPTED

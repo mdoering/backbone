@@ -1,5 +1,4 @@
-Julella zenkeriana Henn. SPECIES
-=======
+# Julella zenkeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

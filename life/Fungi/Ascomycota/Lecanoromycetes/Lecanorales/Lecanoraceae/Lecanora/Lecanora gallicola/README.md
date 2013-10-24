@@ -1,5 +1,4 @@
-Lecanora gallicola B. de Lesd. SPECIES
-=======
+# Lecanora gallicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

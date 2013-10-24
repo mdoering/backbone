@@ -1,5 +1,4 @@
-Gabura nummularia (Nyl.) Kuntze SPECIES
-=======
+# Gabura nummularia (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

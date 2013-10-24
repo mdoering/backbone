@@ -1,5 +1,4 @@
-Paecilomyces rariramus Z.Q. Liang & B. Wang SPECIES
-=======
+# Paecilomyces rariramus Z.Q. Liang & B. Wang SPECIES
 
 #### Status
 ACCEPTED

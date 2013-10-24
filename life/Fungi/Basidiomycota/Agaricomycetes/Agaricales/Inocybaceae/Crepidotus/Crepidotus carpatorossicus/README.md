@@ -1,5 +1,4 @@
-Crepidotus carpatorossicus Pilát SPECIES
-=======
+# Crepidotus carpatorossicus Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria hasta d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria hasta d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

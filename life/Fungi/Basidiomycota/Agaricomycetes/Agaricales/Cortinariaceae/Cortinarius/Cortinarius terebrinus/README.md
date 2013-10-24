@@ -1,5 +1,4 @@
-Cortinarius terebrinus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius terebrinus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

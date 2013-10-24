@@ -1,5 +1,4 @@
-Peziza helminthosporii A. Bloxam SPECIES
-=======
+# Peziza helminthosporii A. Bloxam SPECIES
 
 #### Status
 ACCEPTED

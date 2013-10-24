@@ -1,5 +1,4 @@
-Stachylina minima M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Stachylina minima M.C. Williams & Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

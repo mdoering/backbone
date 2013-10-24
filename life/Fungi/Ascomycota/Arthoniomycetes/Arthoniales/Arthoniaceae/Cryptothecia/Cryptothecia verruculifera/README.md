@@ -1,5 +1,4 @@
-Cryptothecia verruculifera Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
-=======
+# Cryptothecia verruculifera Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
 
 #### Status
 ACCEPTED

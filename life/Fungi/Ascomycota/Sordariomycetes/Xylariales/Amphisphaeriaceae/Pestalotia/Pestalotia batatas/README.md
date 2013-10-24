@@ -1,8 +1,7 @@
-Pestalotia batatae Ellis & Everh. SPECIES
-=======
+# Pestalotia batatas Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia batatae Ellis & Everh.
+Pestalotia batatas Ellis & Everh.
 
 ### Remarks
 null

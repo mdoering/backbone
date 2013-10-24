@@ -1,5 +1,4 @@
-Sphaeria difformis Schumach. SPECIES
-=======
+# Sphaeria difformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

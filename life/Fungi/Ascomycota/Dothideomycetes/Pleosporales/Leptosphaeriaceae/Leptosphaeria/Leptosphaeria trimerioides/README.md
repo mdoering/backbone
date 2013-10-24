@@ -1,5 +1,4 @@
-Leptosphaeria trimerioides Rehm SPECIES
-=======
+# Leptosphaeria trimerioides Rehm SPECIES
 
 #### Status
 ACCEPTED

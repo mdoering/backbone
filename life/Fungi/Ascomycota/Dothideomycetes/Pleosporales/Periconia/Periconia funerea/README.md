@@ -1,14 +1,13 @@
-Torula funerea Ces. SPECIES
-=======
+# Periconia funerea (Ces.) E.W. Mason & M.B. Ellis, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 56: 117 (1953)
 
 #### Original name
 Torula funerea Ces.

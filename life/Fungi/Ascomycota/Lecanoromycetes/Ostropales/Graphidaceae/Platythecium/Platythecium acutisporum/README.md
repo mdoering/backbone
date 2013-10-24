@@ -1,5 +1,4 @@
-Platythecium acutisporum Staiger SPECIES
-=======
+# Platythecium acutisporum Staiger SPECIES
 
 #### Status
 ACCEPTED

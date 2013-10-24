@@ -1,5 +1,4 @@
-Bonordeniella GENUS
-=======
+# Bonordeniella GENUS
 
 #### Status
 ACCEPTED

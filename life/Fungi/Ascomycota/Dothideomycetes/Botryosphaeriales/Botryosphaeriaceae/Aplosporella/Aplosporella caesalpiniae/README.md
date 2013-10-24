@@ -1,5 +1,4 @@
-Aplosporella caesalpiniae (Petr.) Petr. SPECIES
-=======
+# Aplosporella caesalpiniae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

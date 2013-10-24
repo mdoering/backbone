@@ -1,5 +1,4 @@
-Phyllosticta mayteni Speg. SPECIES
-=======
+# Phyllosticta mayteni Speg. SPECIES
 
 #### Status
 ACCEPTED

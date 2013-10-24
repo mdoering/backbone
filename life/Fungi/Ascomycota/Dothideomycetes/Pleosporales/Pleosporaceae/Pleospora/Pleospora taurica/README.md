@@ -1,5 +1,4 @@
-Pleospora taurica Naumov & Dobrozr. SPECIES
-=======
+# Pleospora taurica Naumov & Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

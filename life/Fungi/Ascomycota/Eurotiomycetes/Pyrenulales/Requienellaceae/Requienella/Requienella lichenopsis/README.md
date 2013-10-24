@@ -1,5 +1,4 @@
-Requienella lichenopsis (A. Massal.) Boise SPECIES
-=======
+# Requienella lichenopsis (A. Massal.) Boise SPECIES
 
 #### Status
 ACCEPTED

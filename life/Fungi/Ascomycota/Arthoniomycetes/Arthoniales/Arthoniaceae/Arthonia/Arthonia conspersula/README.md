@@ -1,14 +1,13 @@
-Schismatomma conspersulum (Stirt.) Zahlbr. SPECIES
-=======
+# Arthonia conspersula Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 555 (1923)
+in Bailey, Queensland Agric. J. 5: 40 (1899)
 
 #### Original name
 Arthonia conspersula Stirt.

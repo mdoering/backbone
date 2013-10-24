@@ -1,5 +1,4 @@
-Marasmius conicopapillatus Henn. SPECIES
-=======
+# Marasmius conicopapillatus Henn. SPECIES
 
 #### Status
 ACCEPTED

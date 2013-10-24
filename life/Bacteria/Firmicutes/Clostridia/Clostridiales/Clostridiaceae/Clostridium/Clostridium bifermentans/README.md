@@ -1,11 +1,10 @@
-Martellillus bifermentans (Weinberg & Séguin, 1918) Heller, 1922 SPECIES
-=======
+# Clostridium bifermentans (Weinberg and Séguin, 1918) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

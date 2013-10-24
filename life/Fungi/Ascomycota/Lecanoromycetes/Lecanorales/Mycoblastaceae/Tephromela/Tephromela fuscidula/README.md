@@ -1,5 +1,4 @@
-Tephromela fuscidula Motyka SPECIES
-=======
+# Tephromela fuscidula Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagenidium citrinum Follmann SPECIES
-=======
+# Sagenidium citrinum Follmann SPECIES
 
 #### Status
 ACCEPTED

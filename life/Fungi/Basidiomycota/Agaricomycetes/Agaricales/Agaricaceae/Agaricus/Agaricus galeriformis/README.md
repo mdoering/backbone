@@ -1,5 +1,4 @@
-Agaricus galeriformis Schulzer SPECIES
-=======
+# Agaricus galeriformis Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora lonicerae Fuckel SPECIES
-=======
+# Dothiora lonicerae Fuckel SPECIES
 
 #### Status
 ACCEPTED

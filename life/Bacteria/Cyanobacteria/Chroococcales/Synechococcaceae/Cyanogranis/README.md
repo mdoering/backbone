@@ -1,5 +1,4 @@
-Cyanogranis Hindák, 1982 GENUS
-=======
+# Cyanogranis Hindák, 1982 GENUS
 
 #### Status
 ACCEPTED

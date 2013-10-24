@@ -1,5 +1,4 @@
-Aecidium leucadis-montanae P.B. Chavan SPECIES
-=======
+# Aecidium leucadis-montanae P.B. Chavan SPECIES
 
 #### Status
 ACCEPTED

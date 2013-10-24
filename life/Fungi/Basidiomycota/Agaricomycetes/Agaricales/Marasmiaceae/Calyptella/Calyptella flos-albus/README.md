@@ -1,5 +1,4 @@
-Calyptella flos-albus (Velen.) W.B. Cooke SPECIES
-=======
+# Calyptella flos-albus (Velen.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

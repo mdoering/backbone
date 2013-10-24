@@ -1,5 +1,4 @@
-Ochrolechia farinacea Howard SPECIES
-=======
+# Ochrolechia farinacea Howard SPECIES
 
 #### Status
 ACCEPTED

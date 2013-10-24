@@ -1,5 +1,4 @@
-Puccinia trimorpha Neger SPECIES
-=======
+# Puccinia trimorpha Neger SPECIES
 
 #### Status
 ACCEPTED

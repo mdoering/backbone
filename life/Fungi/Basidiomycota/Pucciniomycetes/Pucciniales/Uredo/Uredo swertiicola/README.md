@@ -1,5 +1,4 @@
-Uredo swertiicola Hira. SPECIES
-=======
+# Uredo swertiicola Hira. SPECIES
 
 #### Status
 ACCEPTED

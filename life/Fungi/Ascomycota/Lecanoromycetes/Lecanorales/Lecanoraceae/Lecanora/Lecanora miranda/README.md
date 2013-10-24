@@ -1,5 +1,4 @@
-Lecanora miranda Hue SPECIES
-=======
+# Lecanora miranda Hue SPECIES
 
 #### Status
 ACCEPTED

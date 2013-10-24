@@ -1,5 +1,4 @@
-Collema baculiferum C.W. Dodge SPECIES
-=======
+# Collema baculiferum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

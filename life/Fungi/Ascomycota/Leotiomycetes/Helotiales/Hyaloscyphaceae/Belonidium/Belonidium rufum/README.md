@@ -1,5 +1,4 @@
-Belonidium rufum J. Schröt. SPECIES
-=======
+# Belonidium rufum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

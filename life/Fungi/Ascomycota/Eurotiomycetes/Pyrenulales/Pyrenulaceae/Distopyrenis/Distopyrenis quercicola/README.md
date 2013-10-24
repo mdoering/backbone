@@ -1,5 +1,4 @@
-Distopyrenis quercicola R. C. Harris SPECIES
-=======
+# Distopyrenis quercicola R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

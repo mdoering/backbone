@@ -1,17 +1,16 @@
-Thelidiola eklundi C.W. Dodge SPECIES
-=======
+# Thelidiola eklundii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 15: (1968)
 
 #### Original name
-Thelidiola eklundi C.W. Dodge
+Thelidiola eklundii C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helotium subturbinatum Henn. SPECIES
-=======
+# Helotium subturbinatum Henn. SPECIES
 
 #### Status
 ACCEPTED

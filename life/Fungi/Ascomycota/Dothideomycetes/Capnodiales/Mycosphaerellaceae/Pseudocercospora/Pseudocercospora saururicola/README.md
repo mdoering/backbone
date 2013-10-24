@@ -1,5 +1,4 @@
-Pseudocercospora saururicola Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora saururicola Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

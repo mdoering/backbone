@@ -1,5 +1,4 @@
-Peziza aquatica Lam. & DC. SPECIES
-=======
+# Peziza aquatica Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia silvatica P. Karst. SPECIES
-=======
+# Mollisia silvatica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

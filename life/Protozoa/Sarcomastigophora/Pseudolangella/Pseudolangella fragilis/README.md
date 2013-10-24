@@ -1,5 +1,4 @@
-Pseudolangella fragilis SPECIES
-=======
+# Pseudolangella fragilis SPECIES
 
 #### Status
 ACCEPTED

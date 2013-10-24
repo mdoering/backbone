@@ -1,17 +1,16 @@
-Hydnum castaneum var. castaneum VARIETY
-=======
+# Mycoacia fuscoatra (Fr.) Donk, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 269 (1805)
+Medded. Nedl. Mycol. Ver. 18-20: 152 (1931)
 
 #### Original name
-Hydnum castaneum var. castaneum
+Hydnum fuscoatrum Fr., 1814
 
 ### Remarks
 null

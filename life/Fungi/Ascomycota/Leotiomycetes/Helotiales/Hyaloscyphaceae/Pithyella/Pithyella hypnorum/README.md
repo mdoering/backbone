@@ -1,14 +1,13 @@
-Pezizella hypnorum (Fr.) Sacc., 1889 SPECIES
-=======
+# Pithyella hypnorum (Fr.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 289 (1889)
+null
 
 #### Original name
 null

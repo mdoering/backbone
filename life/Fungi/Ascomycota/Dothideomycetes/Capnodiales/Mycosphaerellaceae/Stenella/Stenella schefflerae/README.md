@@ -1,5 +1,4 @@
-Stenella schefflerae (Boedijn) U. Braun SPECIES
-=======
+# Stenella schefflerae (Boedijn) U. Braun SPECIES
 
 #### Status
 ACCEPTED

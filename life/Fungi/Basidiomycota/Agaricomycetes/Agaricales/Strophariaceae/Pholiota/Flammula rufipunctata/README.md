@@ -1,5 +1,4 @@
-Flammula rufipunctata Berk. & Broome SPECIES
-=======
+# Flammula rufipunctata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

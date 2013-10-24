@@ -1,5 +1,4 @@
-Stenella xeromphigena J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Stenella xeromphigena J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

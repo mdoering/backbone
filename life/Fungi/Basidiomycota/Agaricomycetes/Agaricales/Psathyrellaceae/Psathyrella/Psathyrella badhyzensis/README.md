@@ -1,5 +1,4 @@
-Psathyrella badhyzensis Kalamees SPECIES
-=======
+# Psathyrella badhyzensis Kalamees SPECIES
 
 #### Status
 ACCEPTED

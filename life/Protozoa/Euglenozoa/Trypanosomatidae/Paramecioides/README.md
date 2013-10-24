@@ -1,5 +1,4 @@
-Paramecioides Grassi GENUS
-=======
+# Paramecioides Grassi GENUS
 
 #### Status
 ACCEPTED

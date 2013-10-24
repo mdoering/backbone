@@ -1,5 +1,4 @@
-Trachelochaeta bryophila Sramek-Husek, 1954 SPECIES
-=======
+# Trachelochaeta bryophila Sramek-Husek, 1954 SPECIES
 
 #### Status
 ACCEPTED

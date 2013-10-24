@@ -1,5 +1,4 @@
-Galera coniferarum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Galera coniferarum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

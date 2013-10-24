@@ -1,5 +1,4 @@
-Diplotomma cinereovirudulum B. de Lesd. SPECIES
-=======
+# Diplotomma cinereovirudulum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

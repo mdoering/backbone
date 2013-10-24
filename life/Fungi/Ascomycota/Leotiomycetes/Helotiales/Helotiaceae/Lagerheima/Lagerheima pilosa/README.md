@@ -1,5 +1,4 @@
-Lagerheima pilosa P. Syd. SPECIES
-=======
+# Lagerheima pilosa P. Syd. SPECIES
 
 #### Status
 ACCEPTED

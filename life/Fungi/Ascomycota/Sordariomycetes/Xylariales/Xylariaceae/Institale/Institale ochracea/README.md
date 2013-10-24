@@ -1,5 +1,4 @@
-Institale ochracea Lloyd SPECIES
-=======
+# Institale ochracea Lloyd SPECIES
 
 #### Status
 ACCEPTED

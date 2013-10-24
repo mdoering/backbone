@@ -1,17 +1,16 @@
-Meliola ingaecola Speg. SPECIES
-=======
+# Meliola ingicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 32: 351 (1924)
 
 #### Original name
-Meliola ingaecola Speg.
+Meliola ingicola Speg.
 
 ### Remarks
 null

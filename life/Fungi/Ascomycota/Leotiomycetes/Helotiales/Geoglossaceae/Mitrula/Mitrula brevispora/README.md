@@ -1,5 +1,4 @@
-Mitrula brevispora Zheng Wang SPECIES
-=======
+# Mitrula brevispora Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

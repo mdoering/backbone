@@ -1,5 +1,4 @@
-Stemphylium celosiae (Tassi) Bremer et al. {?} SPECIES
-=======
+# Stemphylium celosiae (Tassi) Bremer et al. {?} SPECIES
 
 #### Status
 ACCEPTED

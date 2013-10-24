@@ -1,5 +1,4 @@
-Lecanora dubyi Müll. Arg. SPECIES
-=======
+# Lecanora dubyi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

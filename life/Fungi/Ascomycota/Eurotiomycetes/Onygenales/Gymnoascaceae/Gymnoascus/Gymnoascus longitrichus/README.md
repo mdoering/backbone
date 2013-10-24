@@ -1,5 +1,4 @@
-Gymnoascus longitrichus G.F. Orr & Kuehn, 1963 SPECIES
-=======
+# Gymnoascus longitrichus G.F. Orr & Kuehn, 1963 SPECIES
 
 #### Status
 ACCEPTED

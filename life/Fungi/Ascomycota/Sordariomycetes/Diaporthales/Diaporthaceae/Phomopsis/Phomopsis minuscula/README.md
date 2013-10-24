@@ -1,5 +1,4 @@
-Phomopsis minuscula Grove SPECIES
-=======
+# Phomopsis minuscula Grove SPECIES
 
 #### Status
 ACCEPTED

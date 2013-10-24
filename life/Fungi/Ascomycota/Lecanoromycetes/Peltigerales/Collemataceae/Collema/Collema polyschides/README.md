@@ -1,5 +1,4 @@
-Collema polyschides (Mont.) Nyl. SPECIES
-=======
+# Collema polyschides (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

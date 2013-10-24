@@ -1,8 +1,7 @@
-Phacidium patella var. alpestre Fr., 1828 VARIETY
-=======
+# Heterosphaeria alpestris (Fr.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

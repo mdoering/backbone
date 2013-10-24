@@ -1,5 +1,4 @@
-Sporisorium pseudoraphis Vánky SPECIES
-=======
+# Sporisorium pseudoraphis Vánky SPECIES
 
 #### Status
 ACCEPTED

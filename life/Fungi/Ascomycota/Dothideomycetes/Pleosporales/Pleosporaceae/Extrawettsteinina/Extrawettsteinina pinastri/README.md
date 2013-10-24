@@ -1,5 +1,4 @@
-Extrawettsteinina pinastri M.E. Barr SPECIES
-=======
+# Extrawettsteinina pinastri M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

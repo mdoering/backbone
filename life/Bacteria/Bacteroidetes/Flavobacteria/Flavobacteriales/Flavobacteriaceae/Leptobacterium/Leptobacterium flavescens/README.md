@@ -1,5 +1,4 @@
-Leptobacterium flavescens Mitra, Matsuo, Haga, Yasumoto-Hirose, Yoon, Kasai & Yokota, 2009 SPECIES
-=======
+# Leptobacterium flavescens Mitra, Matsuo, Haga, Yasumoto-Hirose, Yoon, Kasai & Yokota, 2009 SPECIES
 
 #### Status
 ACCEPTED

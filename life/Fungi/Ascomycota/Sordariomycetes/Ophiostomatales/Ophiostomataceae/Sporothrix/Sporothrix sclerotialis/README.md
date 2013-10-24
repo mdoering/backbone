@@ -1,5 +1,4 @@
-Sporothrix sclerotialis de Hoog, 1978 SPECIES
-=======
+# Sporothrix sclerotialis de Hoog, 1978 SPECIES
 
 #### Status
 ACCEPTED

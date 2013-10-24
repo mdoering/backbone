@@ -1,5 +1,4 @@
-Merismatium lecanorae (Olive) Vouaux SPECIES
-=======
+# Merismatium lecanorae (Olive) Vouaux SPECIES
 
 #### Status
 ACCEPTED

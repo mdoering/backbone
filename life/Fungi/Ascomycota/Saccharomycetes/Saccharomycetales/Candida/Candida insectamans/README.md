@@ -1,5 +1,4 @@
-Candida insectamans D.B. Scott, van der Walt & Klift, 1972 SPECIES
-=======
+# Candida insectamans D.B. Scott, van der Walt & Klift, 1972 SPECIES
 
 #### Status
 ACCEPTED

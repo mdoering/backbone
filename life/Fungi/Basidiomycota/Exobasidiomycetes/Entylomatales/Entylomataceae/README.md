@@ -1,5 +1,4 @@
-Entylomataceae FAMILY
-=======
+# Entylomataceae FAMILY
 
 #### Status
 ACCEPTED

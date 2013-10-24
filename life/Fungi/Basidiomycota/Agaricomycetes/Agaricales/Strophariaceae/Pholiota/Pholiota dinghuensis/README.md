@@ -1,5 +1,4 @@
-Pholiota dinghuensis Z.S. Bi SPECIES
-=======
+# Pholiota dinghuensis Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypogymnia incurvoides Rass. SPECIES
-=======
+# Hypogymnia incurvoides Rass. SPECIES
 
 #### Status
 ACCEPTED

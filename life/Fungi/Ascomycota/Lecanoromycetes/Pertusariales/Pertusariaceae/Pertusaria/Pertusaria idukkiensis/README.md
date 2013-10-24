@@ -1,5 +1,4 @@
-Pertusaria idukkiensis D.D. Awasthi & Preeti Srivast. SPECIES
-=======
+# Pertusaria idukkiensis D.D. Awasthi & Preeti Srivast. SPECIES
 
 #### Status
 ACCEPTED

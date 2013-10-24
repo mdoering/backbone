@@ -1,5 +1,4 @@
-Anteholosticha grisea Kahl, 1932 SPECIES
-=======
+# Anteholosticha grisea Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesenterica tremelloides var. tremelloides Tode VARIETY
-=======
+# Mesenterica tremelloides Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fung. mecklenb. sel. (Lüneburg) 1: 7 (1790)
 
 #### Original name
-Mesenterica tremelloides var. tremelloides Tode
+Mesenterica tremelloides Tode
 
 ### Remarks
 null

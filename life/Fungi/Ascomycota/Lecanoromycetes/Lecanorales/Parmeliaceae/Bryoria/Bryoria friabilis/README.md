@@ -1,5 +1,4 @@
-Bryoria friabilis Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria friabilis Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

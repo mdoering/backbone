@@ -1,14 +1,13 @@
-Sphaerotheca polemonii L. Junell, 1967 SPECIES
-=======
+# Podosphaera polemonii (L. Junell) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 19(no. 1): 82 (1967)
+Schlechtendalia 4: 31 (2000)
 
 #### Original name
 Sphaerotheca polemonii L. Junell, 1967

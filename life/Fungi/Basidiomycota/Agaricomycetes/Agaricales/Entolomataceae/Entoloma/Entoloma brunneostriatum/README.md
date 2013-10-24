@@ -1,5 +1,4 @@
-Entoloma brunneostriatum Dennis SPECIES
-=======
+# Entoloma brunneostriatum Dennis SPECIES
 
 #### Status
 ACCEPTED

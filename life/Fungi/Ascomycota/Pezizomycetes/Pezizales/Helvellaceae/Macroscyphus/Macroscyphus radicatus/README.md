@@ -1,5 +1,4 @@
-Macroscyphus radicatus (Reichard) Gray SPECIES
-=======
+# Macroscyphus radicatus (Reichard) Gray SPECIES
 
 #### Status
 ACCEPTED

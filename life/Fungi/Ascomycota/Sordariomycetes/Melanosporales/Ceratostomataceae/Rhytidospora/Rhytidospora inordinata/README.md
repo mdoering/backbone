@@ -1,5 +1,4 @@
-Rhytidospora inordinata (Malloch & Cain) J.C. Krug & Jeng SPECIES
-=======
+# Rhytidospora inordinata (Malloch & Cain) J.C. Krug & Jeng SPECIES
 
 #### Status
 ACCEPTED

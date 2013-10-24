@@ -1,5 +1,4 @@
-Laboulbenia fujianensis D.H. Ye SPECIES
-=======
+# Laboulbenia fujianensis D.H. Ye SPECIES
 
 #### Status
 ACCEPTED

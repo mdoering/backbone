@@ -1,5 +1,4 @@
-Peziza crassipes var. kilimanjarensis J. Moravec VARIETY
-=======
+# Peziza crassipes Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Ceská Mykol. 32(2): 77 (1978)
+null
 
 #### Original name
-Peziza crassipes var. kilimanjarensis J. Moravec
+Peziza crassipes Pat.
 
 ### Remarks
 null

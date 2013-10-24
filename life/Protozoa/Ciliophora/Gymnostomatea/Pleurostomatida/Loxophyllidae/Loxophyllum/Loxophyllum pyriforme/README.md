@@ -1,5 +1,4 @@
-Loxophyllum pyriforme Gourret & Roeser, 1886 SPECIES
-=======
+# Loxophyllum pyriforme Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

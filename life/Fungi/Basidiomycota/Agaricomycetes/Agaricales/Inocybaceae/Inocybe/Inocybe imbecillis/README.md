@@ -1,5 +1,4 @@
-Inocybe imbecillis Pass. SPECIES
-=======
+# Inocybe imbecillis Pass. SPECIES
 
 #### Status
 ACCEPTED

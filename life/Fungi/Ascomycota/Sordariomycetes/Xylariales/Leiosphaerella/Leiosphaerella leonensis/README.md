@@ -1,5 +1,4 @@
-Leiosphaerella leonensis P.J. Fisher & Petrini, 1983 SPECIES
-=======
+# Leiosphaerella leonensis P.J. Fisher & Petrini, 1983 SPECIES
 
 #### Status
 ACCEPTED

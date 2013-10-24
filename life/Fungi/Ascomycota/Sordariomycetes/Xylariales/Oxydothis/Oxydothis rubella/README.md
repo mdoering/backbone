@@ -1,5 +1,4 @@
-Oxydothis rubella K.D. Hyde SPECIES
-=======
+# Oxydothis rubella K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

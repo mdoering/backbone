@@ -1,5 +1,4 @@
-Cladonia asahinae J. W. Thomson SPECIES
-=======
+# Cladonia asahinae J. W. Thomson SPECIES
 
 #### Status
 ACCEPTED

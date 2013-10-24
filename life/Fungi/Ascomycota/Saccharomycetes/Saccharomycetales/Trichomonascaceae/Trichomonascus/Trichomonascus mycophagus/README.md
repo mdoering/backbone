@@ -1,5 +1,4 @@
-Trichomonascus mycophagus H.S. Jacks., 1948 SPECIES
-=======
+# Trichomonascus mycophagus H.S. Jacks., 1948 SPECIES
 
 #### Status
 ACCEPTED

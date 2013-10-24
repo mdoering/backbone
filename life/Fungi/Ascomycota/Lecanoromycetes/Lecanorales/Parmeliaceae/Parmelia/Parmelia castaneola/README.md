@@ -1,5 +1,4 @@
-Parmelia castaneola Dufour SPECIES
-=======
+# Parmelia castaneola Dufour SPECIES
 
 #### Status
 ACCEPTED

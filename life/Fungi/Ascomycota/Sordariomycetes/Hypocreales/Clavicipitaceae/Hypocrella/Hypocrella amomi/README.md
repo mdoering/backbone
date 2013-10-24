@@ -1,5 +1,4 @@
-Hypocrella amomi Racib. SPECIES
-=======
+# Hypocrella amomi Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula mineralis Hayduck & Haehn ex F.C. Harrison SPECIES
-=======
+# Torula mineralis Hayduck & Haehn ex F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

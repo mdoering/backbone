@@ -1,5 +1,4 @@
-Xylaria fulvella Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria fulvella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

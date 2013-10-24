@@ -1,5 +1,4 @@
-Pleurotheciopsis tropicalis R.F. Castañeda & M. Calduch, 2001 SPECIES
-=======
+# Pleurotheciopsis tropicalis R.F. Castañeda & M. Calduch, 2001 SPECIES
 
 #### Status
 ACCEPTED

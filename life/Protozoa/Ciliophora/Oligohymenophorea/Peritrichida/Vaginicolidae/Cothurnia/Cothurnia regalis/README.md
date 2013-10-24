@@ -1,5 +1,4 @@
-Cothurnia regalis Penard, 1914 SPECIES
-=======
+# Cothurnia regalis Penard, 1914 SPECIES
 
 #### Status
 ACCEPTED

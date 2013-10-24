@@ -1,5 +1,4 @@
-Graphis comma (Ach.) Spreng. SPECIES
-=======
+# Graphis comma (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

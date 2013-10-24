@@ -1,5 +1,4 @@
-Legionella GENUS
-=======
+# Legionella GENUS
 
 #### Status
 ACCEPTED

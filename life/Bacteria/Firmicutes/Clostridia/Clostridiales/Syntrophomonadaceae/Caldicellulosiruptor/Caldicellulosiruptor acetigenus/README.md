@@ -1,8 +1,7 @@
-Thermoanaerobium acetigenum Nielsen et al., 1994 SPECIES
-=======
+# Caldicellulosiruptor acetigenus (Nielsen et al., 1994) Onyenwoke et al., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

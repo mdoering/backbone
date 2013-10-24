@@ -1,5 +1,4 @@
-Phyllosticta discors Sacc. & Speg. SPECIES
-=======
+# Phyllosticta discors Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

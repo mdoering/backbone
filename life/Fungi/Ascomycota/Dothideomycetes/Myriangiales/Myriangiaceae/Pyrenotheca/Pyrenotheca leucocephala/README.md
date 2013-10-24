@@ -1,5 +1,4 @@
-Pyrenotheca leucocephala (Ach.) Fr. SPECIES
-=======
+# Pyrenotheca leucocephala (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

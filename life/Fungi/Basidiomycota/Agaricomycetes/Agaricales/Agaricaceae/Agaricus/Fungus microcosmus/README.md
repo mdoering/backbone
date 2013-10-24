@@ -1,5 +1,4 @@
-Fungus microcosmus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus microcosmus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus gigas Berk. SPECIES
-=======
+# Boletus gigas Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eoterfeziaceae G.F. Atk. FAMILY
-=======
+# Eoterfeziaceae G.F. Atk. FAMILY
 
 #### Status
 ACCEPTED

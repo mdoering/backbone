@@ -1,14 +1,13 @@
-Pinacocystis Hertwig & Lesser, 1874 GENUS
-=======
+# Pinaciophora Greeff, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Arch. mikr. Anat. , 10, Suppl. , 209.
+S. B. Ges. Naturw. Marburg, 1873, no. 5, 58.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Sphaerella gordoniae Cooke SPECIES
-=======
+# Sphaerella gordoniae Cooke SPECIES
 
 #### Status
 ACCEPTED

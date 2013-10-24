@@ -1,5 +1,4 @@
-Lecanora nigerrima Fée SPECIES
-=======
+# Lecanora nigerrima Fée SPECIES
 
 #### Status
 ACCEPTED

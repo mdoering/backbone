@@ -1,5 +1,4 @@
-Clitocybe macrophylla P. Karst. SPECIES
-=======
+# Clitocybe macrophylla P. Karst. SPECIES
 
 #### Status
 ACCEPTED

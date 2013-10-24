@@ -1,5 +1,4 @@
-Patellaria pantosticta (Ach.) Duby SPECIES
-=======
+# Patellaria pantosticta (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

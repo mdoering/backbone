@@ -1,5 +1,4 @@
-Cylindrocolla episphaeria Höhn. SPECIES
-=======
+# Cylindrocolla episphaeria Höhn. SPECIES
 
 #### Status
 ACCEPTED

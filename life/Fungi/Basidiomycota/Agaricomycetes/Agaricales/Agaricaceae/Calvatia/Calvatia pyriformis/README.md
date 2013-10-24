@@ -1,5 +1,4 @@
-Calvatia pyriformis (Lév.) Kreisel SPECIES
-=======
+# Calvatia pyriformis (Lév.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

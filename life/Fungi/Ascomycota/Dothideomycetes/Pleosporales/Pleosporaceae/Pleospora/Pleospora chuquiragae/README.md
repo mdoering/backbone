@@ -1,5 +1,4 @@
-Pleospora chuquiragae Speg. SPECIES
-=======
+# Pleospora chuquiragae Speg. SPECIES
 
 #### Status
 ACCEPTED

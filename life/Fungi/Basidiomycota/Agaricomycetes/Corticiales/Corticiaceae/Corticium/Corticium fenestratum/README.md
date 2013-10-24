@@ -1,5 +1,4 @@
-Corticium fenestratum Overh. SPECIES
-=======
+# Corticium fenestratum Overh. SPECIES
 
 #### Status
 ACCEPTED

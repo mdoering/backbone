@@ -1,14 +1,13 @@
-Phanerochaete himalayensis (Dinghra) Sheng H. Wu, 1990 SPECIES
-=======
+# Phlebiopsis himalayensis Dhingra, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. fenn. 142: 45 (1990)
+Nova Hedwigia 44(1-2): 222 (1987)
 
 #### Original name
 Phlebiopsis himalayensis Dhingra, 1987

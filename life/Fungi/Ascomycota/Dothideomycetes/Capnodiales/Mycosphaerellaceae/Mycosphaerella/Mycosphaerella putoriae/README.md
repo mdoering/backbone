@@ -1,5 +1,4 @@
-Mycosphaerella putoriae (Unamuno) Maire & Werner SPECIES
-=======
+# Mycosphaerella putoriae (Unamuno) Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

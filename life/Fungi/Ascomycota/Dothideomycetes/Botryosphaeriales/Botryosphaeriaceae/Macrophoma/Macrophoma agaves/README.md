@@ -1,5 +1,4 @@
-Macrophoma agaves Sawada SPECIES
-=======
+# Macrophoma agaves Sawada SPECIES
 
 #### Status
 ACCEPTED

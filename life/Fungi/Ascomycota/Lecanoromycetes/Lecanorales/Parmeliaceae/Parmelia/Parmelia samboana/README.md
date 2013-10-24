@@ -1,5 +1,4 @@
-Parmelia samboana Gyeln. SPECIES
-=======
+# Parmelia samboana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

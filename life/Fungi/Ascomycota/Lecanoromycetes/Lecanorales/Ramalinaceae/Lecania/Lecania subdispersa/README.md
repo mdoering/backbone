@@ -1,5 +1,4 @@
-Lecania subdispersa (Nyl. ex B. D. Ryan) B. D. Ryan SPECIES
-=======
+# Lecania subdispersa (Nyl. ex B. D. Ryan) B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

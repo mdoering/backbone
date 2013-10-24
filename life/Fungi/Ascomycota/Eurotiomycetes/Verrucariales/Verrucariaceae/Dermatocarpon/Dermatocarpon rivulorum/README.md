@@ -1,5 +1,4 @@
-Dermatocarpon rivulorum (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Dermatocarpon rivulorum (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

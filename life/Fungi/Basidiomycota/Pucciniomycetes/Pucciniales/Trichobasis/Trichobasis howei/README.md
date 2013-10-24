@@ -1,5 +1,4 @@
-Trichobasis howei Peck SPECIES
-=======
+# Trichobasis howei Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria incolorata Hoffm. SPECIES
-=======
+# Verrucaria incolorata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

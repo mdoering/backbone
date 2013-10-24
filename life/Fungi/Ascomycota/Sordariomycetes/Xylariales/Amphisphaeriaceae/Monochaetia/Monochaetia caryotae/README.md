@@ -1,5 +1,4 @@
-Monochaetia caryotae Y.X. Chen & G. Wei SPECIES
-=======
+# Monochaetia caryotae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Marssonia martini Sacc. & Ellis SPECIES
-=======
+# Marssonia martinii Sacc. & Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Michelia 2(no. 8): 574 (1882)
 
 #### Original name
-Marssonia martini Sacc. & Ellis
+Marssonia martinii Sacc. & Ellis
 
 ### Remarks
 null

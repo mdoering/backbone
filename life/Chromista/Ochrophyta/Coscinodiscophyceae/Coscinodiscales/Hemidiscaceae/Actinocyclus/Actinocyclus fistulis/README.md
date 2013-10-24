@@ -1,5 +1,4 @@
-Actinocyclus fistulis A.P. Ol'shtynskaya SPECIES
-=======
+# Actinocyclus fistulis A.P. Ol'shtynskaya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entodesmis scenedesmoides Borzi SPECIES
-=======
+# Entodesmis scenedesmoides Borzi SPECIES
 
 #### Status
 ACCEPTED

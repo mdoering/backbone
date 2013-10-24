@@ -1,5 +1,4 @@
-Coronellaria typhae Nannf. SPECIES
-=======
+# Coronellaria typhae Nannf. SPECIES
 
 #### Status
 ACCEPTED

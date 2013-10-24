@@ -1,5 +1,4 @@
-Sphaeria olivacea Willd. SPECIES
-=======
+# Sphaeria olivacea Willd. SPECIES
 
 #### Status
 ACCEPTED

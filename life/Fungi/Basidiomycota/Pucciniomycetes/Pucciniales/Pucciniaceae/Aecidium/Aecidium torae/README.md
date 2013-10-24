@@ -1,5 +1,4 @@
-Aecidium torae Henn. SPECIES
-=======
+# Aecidium torae Henn. SPECIES
 
 #### Status
 ACCEPTED

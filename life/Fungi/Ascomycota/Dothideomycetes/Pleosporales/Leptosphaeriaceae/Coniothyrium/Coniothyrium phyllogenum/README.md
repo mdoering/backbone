@@ -1,5 +1,4 @@
-Coniothyrium phyllogenum Sacc. SPECIES
-=======
+# Coniothyrium phyllogenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

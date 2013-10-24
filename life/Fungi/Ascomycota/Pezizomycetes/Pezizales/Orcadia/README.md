@@ -1,5 +1,4 @@
-Orcadia G.K. Sutherland, 1915 GENUS
-=======
+# Orcadia G.K. Sutherland, 1915 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsis picina (Nyl.) Forssell SPECIES
-=======
+# Pyrenopsis picina (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

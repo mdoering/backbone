@@ -1,5 +1,4 @@
-Tuckermanopsis aurescens (Tuck.) Hale SPECIES
-=======
+# Tuckermanopsis aurescens (Tuck.) Hale SPECIES
 
 #### Status
 ACCEPTED

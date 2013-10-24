@@ -1,5 +1,4 @@
-Pylospironium Haeckel, 1887 GENUS
-=======
+# Pylospironium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

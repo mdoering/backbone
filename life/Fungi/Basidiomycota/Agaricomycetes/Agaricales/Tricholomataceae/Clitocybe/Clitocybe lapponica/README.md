@@ -1,5 +1,4 @@
-Clitocybe lapponica Harmaja SPECIES
-=======
+# Clitocybe lapponica Harmaja SPECIES
 
 #### Status
 ACCEPTED

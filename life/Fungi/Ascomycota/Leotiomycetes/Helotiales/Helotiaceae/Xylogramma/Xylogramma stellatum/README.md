@@ -1,5 +1,4 @@
-Xylogramma stellatum Velen. SPECIES
-=======
+# Xylogramma stellatum Velen. SPECIES
 
 #### Status
 ACCEPTED

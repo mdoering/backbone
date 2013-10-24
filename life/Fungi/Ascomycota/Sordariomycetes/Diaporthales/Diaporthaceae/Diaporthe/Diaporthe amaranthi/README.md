@@ -1,17 +1,16 @@
-Diaporthe amaranti Speg. SPECIES
-=======
+# Diaporthe amaranthi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 19(12): 360 (1909)
 
 #### Original name
-Diaporthe amaranti Speg.
+Diaporthe amaranthi Speg.
 
 ### Remarks
 null

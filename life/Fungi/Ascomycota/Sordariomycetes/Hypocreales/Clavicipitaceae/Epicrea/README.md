@@ -1,5 +1,4 @@
-Epicrea Petr. GENUS
-=======
+# Epicrea Petr. GENUS
 
 #### Status
 ACCEPTED

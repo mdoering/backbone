@@ -1,5 +1,4 @@
-Boletus mahogonicolor Bessette, Both & Dunaway SPECIES
-=======
+# Boletus mahogonicolor Bessette, Both & Dunaway SPECIES
 
 #### Status
 ACCEPTED

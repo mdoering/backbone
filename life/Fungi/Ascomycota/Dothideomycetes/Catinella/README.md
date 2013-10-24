@@ -1,5 +1,4 @@
-Catinella Boudier, 1907 GENUS
-=======
+# Catinella Boudier, 1907 GENUS
 
 #### Status
 ACCEPTED

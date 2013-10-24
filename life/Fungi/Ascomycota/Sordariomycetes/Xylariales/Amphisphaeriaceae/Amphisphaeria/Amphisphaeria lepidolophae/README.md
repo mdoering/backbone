@@ -1,5 +1,4 @@
-Amphisphaeria lepidolophae Byzova SPECIES
-=======
+# Amphisphaeria lepidolophae Byzova SPECIES
 
 #### Status
 ACCEPTED

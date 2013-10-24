@@ -1,5 +1,4 @@
-Protomycetaceae Gray FAMILY
-=======
+# Protomycetaceae Gray FAMILY
 
 #### Status
 ACCEPTED

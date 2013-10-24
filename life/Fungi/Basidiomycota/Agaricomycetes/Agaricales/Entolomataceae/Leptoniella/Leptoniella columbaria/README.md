@@ -1,5 +1,4 @@
-Leptoniella columbaria (Bull.) Murrill SPECIES
-=======
+# Leptoniella columbaria (Bull.) Murrill SPECIES
 
 #### Status
 ACCEPTED

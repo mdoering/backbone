@@ -1,5 +1,4 @@
-Parafulvia indica Kamal, A.N. Rai & Morgan-Jones, 1983 SPECIES
-=======
+# Parafulvia indica Kamal, A.N. Rai & Morgan-Jones, 1983 SPECIES
 
 #### Status
 ACCEPTED

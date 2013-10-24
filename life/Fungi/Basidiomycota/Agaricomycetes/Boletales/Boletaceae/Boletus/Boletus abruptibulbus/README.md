@@ -1,5 +1,4 @@
-Boletus abruptibulbus Roody, Both & B. Ortiz SPECIES
-=======
+# Boletus abruptibulbus Roody, Both & B. Ortiz SPECIES
 
 #### Status
 ACCEPTED

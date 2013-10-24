@@ -1,5 +1,4 @@
-Sarcogyne nivea Kremp. SPECIES
-=======
+# Sarcogyne nivea Kremp. SPECIES
 
 #### Status
 ACCEPTED

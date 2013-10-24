@@ -1,5 +1,4 @@
-Chromosporium rubiginosum (Carm. {?} ) Cooke & Massee SPECIES
-=======
+# Chromosporium rubiginosum (Carm. {?} ) Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

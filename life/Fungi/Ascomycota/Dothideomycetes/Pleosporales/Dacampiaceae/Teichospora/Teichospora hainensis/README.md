@@ -1,5 +1,4 @@
-Teichospora hainensis Gonz. Frag. & Cif. SPECIES
-=======
+# Teichospora hainensis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

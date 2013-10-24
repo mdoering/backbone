@@ -1,5 +1,4 @@
-Lecanora decorticata H. Magn. SPECIES
-=======
+# Lecanora decorticata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

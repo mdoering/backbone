@@ -1,5 +1,4 @@
-Parmentaria occulta Makhija & Patw. SPECIES
-=======
+# Parmentaria occulta Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phyllosticta mattiroliana McAlpine SPECIES
-=======
+# Phyllosticta mattiroloana McAlpine SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

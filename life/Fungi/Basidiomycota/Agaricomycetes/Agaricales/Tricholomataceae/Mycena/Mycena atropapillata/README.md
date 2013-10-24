@@ -1,5 +1,4 @@
-Mycena atropapillata Kühner & Maire SPECIES
-=======
+# Mycena atropapillata Kühner & Maire SPECIES
 
 #### Status
 ACCEPTED

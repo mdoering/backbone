@@ -1,17 +1,16 @@
-Byssocladiella Gaillon GENUS
-=======
+# Byssocladium Link GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Tabl. Syn. Némazoaires [8]. (Aperçu Hist. Nat. 32) (1833)
+Magazin Ges. naturf. Freunde, Berlin 7: 35 (1815)
 
 #### Original name
-Byssocladiella Gaillon
+Byssocladium Link
 
 ### Remarks
 null

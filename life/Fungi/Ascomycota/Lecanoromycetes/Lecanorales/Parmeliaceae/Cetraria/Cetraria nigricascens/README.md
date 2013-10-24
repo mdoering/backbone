@@ -1,5 +1,4 @@
-Cetraria nigricascens SPECIES
-=======
+# Cetraria nigricascens SPECIES
 
 #### Status
 ACCEPTED

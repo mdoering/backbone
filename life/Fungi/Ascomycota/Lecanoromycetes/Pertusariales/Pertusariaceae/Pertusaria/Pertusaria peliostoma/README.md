@@ -1,5 +1,4 @@
-Pertusaria peliostoma (Ach.) Müll. Arg. SPECIES
-=======
+# Pertusaria peliostoma (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum pseudolanosum Conant SPECIES
-=======
+# Microsporum pseudolanosum Conant SPECIES
 
 #### Status
 ACCEPTED

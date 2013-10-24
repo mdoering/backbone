@@ -1,5 +1,4 @@
-Rosellinia capetribulensis J. Bahl, Jeewon & K.D. Hyde, 2006 SPECIES
-=======
+# Rosellinia capetribulensis J. Bahl, Jeewon & K.D. Hyde, 2006 SPECIES
 
 #### Status
 ACCEPTED

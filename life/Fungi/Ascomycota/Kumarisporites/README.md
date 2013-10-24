@@ -1,5 +1,4 @@
-Kumarisporites Kalgutkar & Janson. GENUS
-=======
+# Kumarisporites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

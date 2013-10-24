@@ -1,5 +1,4 @@
-Dacrymycella aurantiaca D.A. Reid SPECIES
-=======
+# Dacrymycella aurantiaca D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

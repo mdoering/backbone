@@ -1,5 +1,4 @@
-Discorbis taiwanensis Huang SPECIES
-=======
+# Discorbis taiwanensis Huang SPECIES
 
 #### Status
 ACCEPTED

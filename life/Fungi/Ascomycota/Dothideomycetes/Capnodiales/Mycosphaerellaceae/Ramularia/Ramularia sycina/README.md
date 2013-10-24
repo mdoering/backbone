@@ -1,5 +1,4 @@
-Ramularia sycina Sacc. & D. Sacc. SPECIES
-=======
+# Ramularia sycina Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

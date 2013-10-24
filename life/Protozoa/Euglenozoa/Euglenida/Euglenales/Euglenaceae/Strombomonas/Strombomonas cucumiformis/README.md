@@ -1,8 +1,7 @@
-Trachelomonas cucumiformis Roll SPECIES
-=======
+# Strombomonas cucumiformis (Roll) Popova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

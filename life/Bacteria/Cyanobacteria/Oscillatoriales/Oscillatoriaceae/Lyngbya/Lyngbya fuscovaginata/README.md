@@ -1,5 +1,4 @@
-Lyngbya fuscovaginata Starmach SPECIES
-=======
+# Lyngbya fuscovaginata Starmach SPECIES
 
 #### Status
 ACCEPTED

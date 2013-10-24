@@ -1,5 +1,4 @@
-Psoromella Gyeln. GENUS
-=======
+# Psoromella Gyeln. GENUS
 
 #### Status
 ACCEPTED

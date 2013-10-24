@@ -1,8 +1,7 @@
-Sargassum asymmetricum E.Y. Dawson SPECIES
-=======
+# Sargassum alternato-pinnatum Yamada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

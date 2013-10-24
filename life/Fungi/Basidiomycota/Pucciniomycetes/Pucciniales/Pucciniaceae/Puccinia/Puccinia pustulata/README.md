@@ -1,5 +1,4 @@
-Puccinia pustulata Arthur SPECIES
-=======
+# Puccinia pustulata Arthur SPECIES
 
 #### Status
 ACCEPTED

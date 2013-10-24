@@ -1,5 +1,4 @@
-Belonium bicolor Ellis & Everh. SPECIES
-=======
+# Belonium bicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

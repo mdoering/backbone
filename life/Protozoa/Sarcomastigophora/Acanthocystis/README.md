@@ -1,5 +1,4 @@
-Acanthocystis Haeckel, 1887 GENUS
-=======
+# Acanthocystis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

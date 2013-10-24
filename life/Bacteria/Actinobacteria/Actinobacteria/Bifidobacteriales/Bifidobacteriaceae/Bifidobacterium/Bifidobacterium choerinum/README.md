@@ -1,5 +1,4 @@
-Bifidobacterium choerinum Scardovi et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium choerinum Scardovi et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

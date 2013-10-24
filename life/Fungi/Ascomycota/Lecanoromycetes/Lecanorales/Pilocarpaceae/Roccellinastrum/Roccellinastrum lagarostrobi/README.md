@@ -1,5 +1,4 @@
-Roccellinastrum lagarostrobi Kantvilas SPECIES
-=======
+# Roccellinastrum lagarostrobi Kantvilas SPECIES
 
 #### Status
 ACCEPTED

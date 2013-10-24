@@ -1,5 +1,4 @@
-Entomophthora infrequens (Hall) Ames & Schneider SPECIES
-=======
+# Entomophthora infrequens (Hall) Ames & Schneider SPECIES
 
 #### Status
 ACCEPTED

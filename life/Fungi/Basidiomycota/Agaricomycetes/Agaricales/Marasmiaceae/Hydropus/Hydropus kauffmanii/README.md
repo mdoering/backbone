@@ -1,5 +1,4 @@
-Hydropus kauffmanii (A.H. Sm.) P.-A. Moreau & Courtec., 2004 SPECIES
-=======
+# Hydropus kauffmanii (A.H. Sm.) P.-A. Moreau & Courtec., 2004 SPECIES
 
 #### Status
 ACCEPTED

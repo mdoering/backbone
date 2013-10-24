@@ -1,5 +1,4 @@
-Bactridium fulvellum Berk. SPECIES
-=======
+# Bactridium fulvellum Berk. SPECIES
 
 #### Status
 ACCEPTED

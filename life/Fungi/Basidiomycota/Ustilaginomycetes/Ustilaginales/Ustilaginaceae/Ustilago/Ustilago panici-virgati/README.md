@@ -1,5 +1,4 @@
-Ustilago panici-virgati Vánky SPECIES
-=======
+# Ustilago panici-virgati Vánky SPECIES
 
 #### Status
 ACCEPTED

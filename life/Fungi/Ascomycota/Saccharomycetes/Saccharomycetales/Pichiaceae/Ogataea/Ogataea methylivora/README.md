@@ -1,5 +1,4 @@
-Ogataea methylivora (Kumam. & Seriu) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea methylivora (Kumam. & Seriu) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

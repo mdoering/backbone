@@ -1,5 +1,4 @@
-Anomalographis Kalb GENUS
-=======
+# Anomalographis Kalb GENUS
 
 #### Status
 ACCEPTED

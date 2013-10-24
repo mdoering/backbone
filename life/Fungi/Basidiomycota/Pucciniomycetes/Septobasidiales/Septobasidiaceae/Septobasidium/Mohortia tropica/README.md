@@ -1,5 +1,4 @@
-Mohortia tropica Racib. SPECIES
-=======
+# Mohortia tropica Racib. SPECIES
 
 #### Status
 ACCEPTED

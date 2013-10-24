@@ -1,5 +1,4 @@
-Phialea straminella (P. Karst.) Sacc. SPECIES
-=======
+# Phialea straminella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

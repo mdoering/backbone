@@ -1,5 +1,4 @@
-Irpex rimosus Peck SPECIES
-=======
+# Irpex rimosus Peck SPECIES
 
 #### Status
 ACCEPTED

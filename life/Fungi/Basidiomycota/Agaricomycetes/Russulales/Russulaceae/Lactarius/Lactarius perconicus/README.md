@@ -1,5 +1,4 @@
-Lactarius perconicus Verbeken & E. Horak SPECIES
-=======
+# Lactarius perconicus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

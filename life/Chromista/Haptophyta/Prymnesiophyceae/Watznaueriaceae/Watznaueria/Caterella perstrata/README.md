@@ -1,5 +1,4 @@
-Caterella perstrata Black, 1971 SPECIES
-=======
+# Caterella perstrata Black, 1971 SPECIES
 
 #### Status
 DOUBTFUL

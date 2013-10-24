@@ -1,5 +1,4 @@
-Rickia gracilis Thaxt. SPECIES
-=======
+# Rickia gracilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

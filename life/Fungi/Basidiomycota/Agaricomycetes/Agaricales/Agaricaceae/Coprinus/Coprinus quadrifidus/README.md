@@ -1,5 +1,4 @@
-Coprinus quadrifidus Peck, 1898 SPECIES
-=======
+# Coprinus quadrifidus Peck, 1898 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Aureobasidium aleuritidis (Vassiljevsky) Herm.-Nijh. SPECIES
-=======
+# Aureobasidium aleuritis (Vassiljevsky) Herm.-Nijh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 15: 146 (1977)
 
 #### Original name
 Kabatiella aleuritidis Vassiljevsky

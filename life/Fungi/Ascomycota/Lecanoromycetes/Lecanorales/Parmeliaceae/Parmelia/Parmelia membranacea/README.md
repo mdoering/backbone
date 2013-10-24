@@ -1,5 +1,4 @@
-Parmelia membranacea f. membranacea FORM
-=======
+# Parmelia membranacea Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia membranacea f. membranacea
+Parmelia membranacea Schaer.
 
 ### Remarks
 null

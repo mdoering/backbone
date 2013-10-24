@@ -1,5 +1,4 @@
-Cortinarius cinereoviolaceus (Pers.) Fr. SPECIES
-=======
+# Cortinarius cinereoviolaceus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

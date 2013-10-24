@@ -1,5 +1,4 @@
-Dendrotrichoscypha GENUS
-=======
+# Dendrotrichoscypha GENUS
 
 #### Status
 ACCEPTED

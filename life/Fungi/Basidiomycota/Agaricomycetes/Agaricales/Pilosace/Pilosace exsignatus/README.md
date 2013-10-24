@@ -1,5 +1,4 @@
-Pilosace exsignatus (Britzelm.) Kuntze SPECIES
-=======
+# Pilosace exsignatus (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

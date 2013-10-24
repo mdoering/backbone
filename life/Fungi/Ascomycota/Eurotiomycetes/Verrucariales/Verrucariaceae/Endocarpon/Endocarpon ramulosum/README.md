@@ -1,5 +1,4 @@
-Endocarpon ramulosum H. Harada SPECIES
-=======
+# Endocarpon ramulosum H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dinophysis lachmanni Paulsen, 1949 SPECIES
-=======
+# Dinophysis acuminata Claparède & Lachmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Claparède E. & Lachmann J. 1859. Etudes sur les Infusoires et les Rhizopodes. Mém. Inst. Genev. 5, 6: 489 pp.
 
 #### Original name
 null

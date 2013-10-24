@@ -1,5 +1,4 @@
-Lecidella dolosa (Ach.) Stein SPECIES
-=======
+# Lecidella dolosa (Ach.) Stein SPECIES
 
 #### Status
 ACCEPTED

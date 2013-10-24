@@ -1,5 +1,4 @@
-Latrostium Zopf GENUS
-=======
+# Latrostium Zopf GENUS
 
 #### Status
 ACCEPTED

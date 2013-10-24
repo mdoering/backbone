@@ -1,5 +1,4 @@
-Illosporium populi Oudem. SPECIES
-=======
+# Illosporium populi Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechococcus epigloeicus F. Hindák SPECIES
-=======
+# Synechococcus epigloeicus F. Hindák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula nuoljae Kühner SPECIES
-=======
+# Russula nuoljae Kühner SPECIES
 
 #### Status
 ACCEPTED

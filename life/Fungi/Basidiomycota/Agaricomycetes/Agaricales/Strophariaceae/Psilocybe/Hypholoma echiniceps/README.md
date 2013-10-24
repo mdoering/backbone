@@ -1,5 +1,4 @@
-Hypholoma echiniceps G.F. Atk. SPECIES
-=======
+# Hypholoma echiniceps G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

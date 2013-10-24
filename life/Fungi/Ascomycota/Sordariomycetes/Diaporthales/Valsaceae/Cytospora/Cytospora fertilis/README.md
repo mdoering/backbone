@@ -1,5 +1,4 @@
-Cytospora fertilis Sacc. SPECIES
-=======
+# Cytospora fertilis Sacc. SPECIES
 
 #### Status
 ACCEPTED

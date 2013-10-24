@@ -1,5 +1,4 @@
-Exococcus C. Nägeli, 1847 GENUS
-=======
+# Exococcus C. Nägeli, 1847 GENUS
 
 #### Status
 ACCEPTED

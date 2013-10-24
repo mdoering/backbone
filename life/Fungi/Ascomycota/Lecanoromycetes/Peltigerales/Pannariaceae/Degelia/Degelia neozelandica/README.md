@@ -1,14 +1,13 @@
-Parmeliella neozelandica (C.W. Dodge) D.J. Galloway & P. James SPECIES
-=======
+# Degelia neozelandica (C.W. Dodge) P.M. Jørg. & D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenologist 16(1): 90 (1984)
+Flora of Australia (Canberra), Vol. <b>54</b>. Lichens  Introduction, Lecanorales 1 314 (1992)
 
 #### Original name
 Steinera neozelandica C.W. Dodge

@@ -1,5 +1,4 @@
-Epilithia Nylander, 1853 GENUS
-=======
+# Epilithia Nylander, 1853 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria hypoleuca Vain. SPECIES
-=======
+# Urceolaria hypoleuca Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Termitomyces reticulatus Van der Westh. & Eicker SPECIES
-=======
+# Termitomyces reticulatus Van der Westh. & Eicker SPECIES
 
 #### Status
 ACCEPTED

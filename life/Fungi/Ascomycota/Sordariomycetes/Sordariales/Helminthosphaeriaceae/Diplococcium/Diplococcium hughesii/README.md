@@ -1,5 +1,4 @@
-Diplococcium hughesii C.J.K. Wang & B. Sutton SPECIES
-=======
+# Diplococcium hughesii C.J.K. Wang & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

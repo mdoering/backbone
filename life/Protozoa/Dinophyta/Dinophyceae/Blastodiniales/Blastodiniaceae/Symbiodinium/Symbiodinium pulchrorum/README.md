@@ -1,5 +1,4 @@
-Symbiodinium pulchrorum R. K. Trench SPECIES
-=======
+# Symbiodinium pulchrorum R. K. Trench SPECIES
 
 #### Status
 ACCEPTED

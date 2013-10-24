@@ -1,5 +1,4 @@
-Hydrocybe psathyrelloides E. Horak SPECIES
-=======
+# Hydrocybe psathyrelloides E. Horak SPECIES
 
 #### Status
 ACCEPTED

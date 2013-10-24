@@ -1,5 +1,4 @@
-Reophax bacillaris SPECIES
-=======
+# Reophax bacillaris SPECIES
 
 #### Status
 ACCEPTED

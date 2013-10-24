@@ -1,5 +1,4 @@
-Cladonia strangulata S. Hammer SPECIES
-=======
+# Cladonia strangulata S. Hammer SPECIES
 
 #### Status
 ACCEPTED

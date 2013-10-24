@@ -1,5 +1,4 @@
-Asterina pliniae Cif. SPECIES
-=======
+# Asterina pliniae Cif. SPECIES
 
 #### Status
 ACCEPTED

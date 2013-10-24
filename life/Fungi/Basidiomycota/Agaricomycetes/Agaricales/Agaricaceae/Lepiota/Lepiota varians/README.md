@@ -1,5 +1,4 @@
-Lepiota varians Kalchbr. & MacOwan SPECIES
-=======
+# Lepiota varians Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrymospora Aptroot GENUS
-=======
+# Lacrymospora Aptroot GENUS
 
 #### Status
 ACCEPTED

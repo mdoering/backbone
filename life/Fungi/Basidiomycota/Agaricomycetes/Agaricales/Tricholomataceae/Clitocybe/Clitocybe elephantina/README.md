@@ -1,5 +1,4 @@
-Clitocybe elephantina Murrill SPECIES
-=======
+# Clitocybe elephantina Murrill SPECIES
 
 #### Status
 ACCEPTED

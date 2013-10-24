@@ -1,5 +1,4 @@
-Neohygrophorus GENUS
-=======
+# Neohygrophorus GENUS
 
 #### Status
 ACCEPTED

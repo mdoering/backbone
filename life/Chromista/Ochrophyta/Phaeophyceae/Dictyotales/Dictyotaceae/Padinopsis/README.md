@@ -1,5 +1,4 @@
-Padinopsis A. Ercegovic, 1955 GENUS
-=======
+# Padinopsis A. Ercegovic, 1955 GENUS
 
 #### Status
 ACCEPTED

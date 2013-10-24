@@ -1,17 +1,16 @@
-Ceratocladium microspermum var. microspermum Corda VARIETY
-=======
+# Ceratocladium microspermum Corda, 1839 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Pracht-Fl. Eur. Schimmelbild. 40 (1839)
 
 #### Original name
-Ceratocladium microspermum var. microspermum Corda
+Ceratocladium microspermum Corda, 1839
 
 ### Remarks
 null

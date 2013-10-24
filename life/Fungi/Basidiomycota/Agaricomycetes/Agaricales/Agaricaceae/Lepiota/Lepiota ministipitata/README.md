@@ -1,5 +1,4 @@
-Lepiota ministipitata A.B. Pereira SPECIES
-=======
+# Lepiota ministipitata A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

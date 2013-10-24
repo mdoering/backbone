@@ -1,5 +1,4 @@
-Amanita elongatospora A.E. Wood SPECIES
-=======
+# Amanita elongatospora A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

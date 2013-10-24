@@ -1,5 +1,4 @@
-Actinobaculum Lawson, Falsen, Akervall, Vandamme & Collins, 1997 GENUS
-=======
+# Actinobaculum Lawson, Falsen, Akervall, Vandamme & Collins, 1997 GENUS
 
 #### Status
 ACCEPTED

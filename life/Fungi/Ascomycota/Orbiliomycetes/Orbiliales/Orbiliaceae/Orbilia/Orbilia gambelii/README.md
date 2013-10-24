@@ -1,5 +1,4 @@
-Orbilia gambelii Baral & G. Marson SPECIES
-=======
+# Orbilia gambelii Baral & G. Marson SPECIES
 
 #### Status
 ACCEPTED

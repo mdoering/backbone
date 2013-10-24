@@ -1,5 +1,4 @@
-Carbacanthographis sorediata B. O. Sharma, Makhija & Khadilkar SPECIES
-=======
+# Carbacanthographis sorediata B. O. Sharma, Makhija & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium circulum Schön, 1967 SPECIES
-=======
+# Micrhystridium circulum Schön, 1967 SPECIES
 
 #### Status
 ACCEPTED

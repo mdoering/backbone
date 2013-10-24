@@ -1,5 +1,4 @@
-Mycena pleurotellula Corner SPECIES
-=======
+# Mycena pleurotellula Corner SPECIES
 
 #### Status
 ACCEPTED

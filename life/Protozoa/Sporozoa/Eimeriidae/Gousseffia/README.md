@@ -1,17 +1,16 @@
-Yakimovella Gousseff, 1937 GENUS
-=======
+# Gousseffia Levine & Ivens, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. R. Micr. Soc. , (3) 57, 201.
+Revista iber. Parasit. 39 (1-4): 269.
 
 #### Original name
-null
+Yakimovella Gousseff, 1937
 
 ### Remarks
 null

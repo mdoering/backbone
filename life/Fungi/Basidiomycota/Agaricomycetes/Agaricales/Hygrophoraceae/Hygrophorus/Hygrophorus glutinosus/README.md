@@ -1,5 +1,4 @@
-Hygrophorus glutinosus Peck SPECIES
-=======
+# Hygrophorus glutinosus Peck SPECIES
 
 #### Status
 ACCEPTED

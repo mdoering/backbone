@@ -1,5 +1,4 @@
-Acetobacterium malicum Tanaka & Pfennig, 1990 SPECIES
-=======
+# Acetobacterium malicum Tanaka & Pfennig, 1990 SPECIES
 
 #### Status
 ACCEPTED

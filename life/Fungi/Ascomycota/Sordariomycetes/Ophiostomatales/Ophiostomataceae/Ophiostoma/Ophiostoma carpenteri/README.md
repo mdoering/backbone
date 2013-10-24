@@ -1,5 +1,4 @@
-Ophiostoma carpenteri J. Reid & Hausner SPECIES
-=======
+# Ophiostoma carpenteri J. Reid & Hausner SPECIES
 
 #### Status
 ACCEPTED

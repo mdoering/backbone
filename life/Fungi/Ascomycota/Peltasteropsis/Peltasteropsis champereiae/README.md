@@ -1,5 +1,4 @@
-Peltasteropsis champereiae Bat. & M.L. Farr SPECIES
-=======
+# Peltasteropsis champereiae Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxozyma kluyveri Van der Walt, Spenc.-Mart., Y. Yamada & P.D.G. Richards, 1989 SPECIES
-=======
+# Myxozyma kluyveri Van der Walt, Spenc.-Mart., Y. Yamada & P.D.G. Richards, 1989 SPECIES
 
 #### Status
 ACCEPTED

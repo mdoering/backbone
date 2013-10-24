@@ -1,5 +1,4 @@
-Pyrenula friesii Trevis. SPECIES
-=======
+# Pyrenula friesii Trevis. SPECIES
 
 #### Status
 ACCEPTED

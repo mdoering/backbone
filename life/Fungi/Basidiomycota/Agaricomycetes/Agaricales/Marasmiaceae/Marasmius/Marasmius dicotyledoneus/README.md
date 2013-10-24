@@ -1,5 +1,4 @@
-Marasmius dicotyledoneus (Singer) Singer SPECIES
-=======
+# Marasmius dicotyledoneus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

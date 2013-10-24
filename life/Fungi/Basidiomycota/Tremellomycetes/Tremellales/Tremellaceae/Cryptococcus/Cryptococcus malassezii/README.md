@@ -1,5 +1,4 @@
-Cryptococcus malassezii (Sabour.) Benedek SPECIES
-=======
+# Cryptococcus malassezii (Sabour.) Benedek SPECIES
 
 #### Status
 ACCEPTED

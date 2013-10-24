@@ -1,5 +1,4 @@
-Lachnella corni (E.K. Cash) Seaver SPECIES
-=======
+# Lachnella corni (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

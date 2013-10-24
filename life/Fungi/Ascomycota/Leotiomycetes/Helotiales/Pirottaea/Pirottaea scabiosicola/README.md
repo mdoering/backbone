@@ -1,5 +1,4 @@
-Pirottaea scabiosicola Petr. SPECIES
-=======
+# Pirottaea scabiosicola Petr. SPECIES
 
 #### Status
 ACCEPTED

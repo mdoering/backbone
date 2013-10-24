@@ -1,5 +1,4 @@
-Byssoloma octomerum Malcolm & Vezda SPECIES
-=======
+# Byssoloma octomerum Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

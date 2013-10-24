@@ -1,5 +1,4 @@
-Kitasatospora griseola Takahashi et al., 1985 SPECIES
-=======
+# Kitasatospora griseola Takahashi et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

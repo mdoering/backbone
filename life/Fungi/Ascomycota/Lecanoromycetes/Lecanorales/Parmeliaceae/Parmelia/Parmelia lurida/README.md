@@ -1,5 +1,4 @@
-Parmelia lurida Brusse SPECIES
-=======
+# Parmelia lurida Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis myrti Pat. SPECIES
-=======
+# Stictis myrti Pat. SPECIES
 
 #### Status
 ACCEPTED

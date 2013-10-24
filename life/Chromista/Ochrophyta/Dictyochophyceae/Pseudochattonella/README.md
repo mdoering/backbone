@@ -1,5 +1,4 @@
-Pseudochattonella (Y.Hara & Chihara) Hosoi-Tanabe, Honda, Fukaya, Inagaki & Sako, 2007 GENUS
-=======
+# Pseudochattonella (Y.Hara & Chihara) Hosoi-Tanabe, Honda, Fukaya, Inagaki & Sako, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina phlogis Fautrey SPECIES
-=======
+# Diplodina phlogis Fautrey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aphanothece clathrata var. brevis Bachmann VARIETY
-=======
+# Aphanothece bachmannii J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

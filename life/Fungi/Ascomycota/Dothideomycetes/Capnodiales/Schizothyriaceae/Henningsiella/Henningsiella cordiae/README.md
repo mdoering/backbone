@@ -1,5 +1,4 @@
-Henningsiella cordiae (Bat.) Arx SPECIES
-=======
+# Henningsiella cordiae (Bat.) Arx SPECIES
 
 #### Status
 ACCEPTED

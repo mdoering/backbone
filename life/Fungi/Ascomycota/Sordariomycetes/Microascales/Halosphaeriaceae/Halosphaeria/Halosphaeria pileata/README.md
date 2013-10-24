@@ -1,14 +1,13 @@
-Halosphaeria pilleata (Kohlm.) Kohlm. SPECIES
-=======
+# Halosphaeria pileata (Kohlm.) Kohlm., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 50(9): 1957 (1972)
 
 #### Original name
 Remispora pileata Kohlm., 1963

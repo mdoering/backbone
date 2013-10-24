@@ -1,5 +1,4 @@
-Schizothecium longicolle L.M. Ames SPECIES
-=======
+# Schizothecium longicolle L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

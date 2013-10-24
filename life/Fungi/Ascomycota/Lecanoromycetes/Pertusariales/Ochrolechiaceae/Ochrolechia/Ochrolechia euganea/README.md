@@ -1,5 +1,4 @@
-Ochrolechia euganea SPECIES
-=======
+# Ochrolechia euganea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia rosicola Petch SPECIES
-=======
+# Hendersonia rosicola Petch SPECIES
 
 #### Status
 ACCEPTED

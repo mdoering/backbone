@@ -1,5 +1,4 @@
-Porina tamarindi (Fée) Müll. Arg. SPECIES
-=======
+# Porina tamarindi (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

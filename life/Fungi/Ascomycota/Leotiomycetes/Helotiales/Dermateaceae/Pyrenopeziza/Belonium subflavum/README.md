@@ -1,5 +1,4 @@
-Belonium subflavum Ellis & Everh. SPECIES
-=======
+# Belonium subflavum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

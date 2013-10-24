@@ -1,5 +1,4 @@
-Clasterosporium calami Bat. SPECIES
-=======
+# Clasterosporium calami Bat. SPECIES
 
 #### Status
 ACCEPTED

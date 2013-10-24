@@ -1,5 +1,4 @@
-Virgisporangium GENUS
-=======
+# Virgisporangium GENUS
 
 #### Status
 ACCEPTED

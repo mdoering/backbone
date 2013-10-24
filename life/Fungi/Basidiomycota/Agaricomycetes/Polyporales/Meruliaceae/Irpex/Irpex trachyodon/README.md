@@ -1,5 +1,4 @@
-Irpex trachyodon (Lév.) Berk. & M.A. Curtis SPECIES
-=======
+# Irpex trachyodon (Lév.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

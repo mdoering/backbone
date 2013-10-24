@@ -1,5 +1,4 @@
-Cortinarius flavofucatus (M.M. Moser & E. Horak) E. Valenz. & G. Moreno SPECIES
-=======
+# Cortinarius flavofucatus (M.M. Moser & E. Horak) E. Valenz. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora sudetica Boud. & Picb. SPECIES
-=======
+# Pyrenophora sudetica Boud. & Picb. SPECIES
 
 #### Status
 ACCEPTED

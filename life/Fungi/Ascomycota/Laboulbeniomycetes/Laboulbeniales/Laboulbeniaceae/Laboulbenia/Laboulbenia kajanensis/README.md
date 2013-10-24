@@ -1,5 +1,4 @@
-Laboulbenia kajanensis Huldén SPECIES
-=======
+# Laboulbenia kajanensis Huldén SPECIES
 
 #### Status
 ACCEPTED

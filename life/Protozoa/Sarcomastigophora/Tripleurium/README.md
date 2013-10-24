@@ -1,5 +1,4 @@
-Tripleurium Haeckel, 1881 GENUS
-=======
+# Tripleurium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

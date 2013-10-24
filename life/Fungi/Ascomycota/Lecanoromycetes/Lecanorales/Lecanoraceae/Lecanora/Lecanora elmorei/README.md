@@ -1,5 +1,4 @@
-Lecanora elmorei E.D. Rudolph SPECIES
-=======
+# Lecanora elmorei E.D. Rudolph SPECIES
 
 #### Status
 ACCEPTED

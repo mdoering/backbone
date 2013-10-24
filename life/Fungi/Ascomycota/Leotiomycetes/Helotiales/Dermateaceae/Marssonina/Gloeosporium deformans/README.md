@@ -1,5 +1,4 @@
-Gloeosporium deformans (J. Schröt.) Lind SPECIES
-=======
+# Gloeosporium deformans (J. Schröt.) Lind SPECIES
 
 #### Status
 ACCEPTED

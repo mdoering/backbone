@@ -1,5 +1,4 @@
-Verrucaria atacta Bél. SPECIES
-=======
+# Verrucaria atacta Bél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium lavandulae Gucevic, 1970 SPECIES
-=======
+# Coniothyrium lavandulae Gucevic, 1970 SPECIES
 
 #### Status
 ACCEPTED

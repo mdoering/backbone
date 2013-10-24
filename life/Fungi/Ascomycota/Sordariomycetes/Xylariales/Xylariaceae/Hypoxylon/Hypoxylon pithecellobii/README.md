@@ -1,17 +1,16 @@
-Hypoxylon pithecolobiae R.C. Gupta & R.C. Rajak SPECIES
-=======
+# Hypoxylon pithecellobii R.C. Gupta & R.C. Rajak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Perspectives in Mycological Research (New Delhi), (Prof. G. P. Agrawal Festschrift volume) International Bioscience Series Vol. bold>12<light> 1: 46 (1987)
 
 #### Original name
-Hypoxylon pithecolobiae R.C. Gupta & R.C. Rajak
+Hypoxylon pithecellobii R.C. Gupta & R.C. Rajak
 
 ### Remarks
 null

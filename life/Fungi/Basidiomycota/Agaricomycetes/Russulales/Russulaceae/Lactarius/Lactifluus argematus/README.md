@@ -1,5 +1,4 @@
-Lactifluus argematus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus argematus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

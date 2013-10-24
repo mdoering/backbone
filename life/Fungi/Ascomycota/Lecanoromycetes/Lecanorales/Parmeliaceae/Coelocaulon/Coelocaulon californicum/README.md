@@ -1,5 +1,4 @@
-Coelocaulon californicum (Tuck.) Howe SPECIES
-=======
+# Coelocaulon californicum (Tuck.) Howe SPECIES
 
 #### Status
 ACCEPTED

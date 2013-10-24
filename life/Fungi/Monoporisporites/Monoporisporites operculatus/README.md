@@ -1,5 +1,4 @@
-Monoporisporites operculatus Z.C. Song SPECIES
-=======
+# Monoporisporites operculatus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

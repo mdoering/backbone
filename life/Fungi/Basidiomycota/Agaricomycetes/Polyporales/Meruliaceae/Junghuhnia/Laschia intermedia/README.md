@@ -1,5 +1,4 @@
-Laschia intermedia Berk. & M.A. Curtis SPECIES
-=======
+# Laschia intermedia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mariniflexile Nedashkovskaya, Kim, Kwak, Mikhailov & Bae, 2006 GENUS
-=======
+# Mariniflexile Nedashkovskaya, Kim, Kwak, Mikhailov & Bae, 2006 GENUS
 
 #### Status
 ACCEPTED

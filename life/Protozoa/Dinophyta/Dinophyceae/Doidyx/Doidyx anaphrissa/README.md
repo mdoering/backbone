@@ -1,5 +1,4 @@
-Doidyx anaphrissa W.A.S. Sarjeant SPECIES
-=======
+# Doidyx anaphrissa W.A.S. Sarjeant SPECIES
 
 #### Status
 ACCEPTED

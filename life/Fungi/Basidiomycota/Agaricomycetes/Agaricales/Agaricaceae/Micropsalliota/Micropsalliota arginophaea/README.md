@@ -1,5 +1,4 @@
-Micropsalliota arginophaea Heinem. SPECIES
-=======
+# Micropsalliota arginophaea Heinem. SPECIES
 
 #### Status
 ACCEPTED

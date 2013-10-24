@@ -1,14 +1,13 @@
-Polyblastiopsis proponens (Nyl.) Zahlbr. SPECIES
-=======
+# Polymeridium proponens (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 351 (1922)
+Bolm Mus. paraense 'Emílio Goeldi', sér. bot. 7(2): 637 (1993)
 
 #### Original name
 null

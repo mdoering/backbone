@@ -1,5 +1,4 @@
-Asteridiella leeicola Hansf. SPECIES
-=======
+# Asteridiella leeicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus aculeatinus Noonim, Frisvad, Varga & Samson SPECIES
-=======
+# Aspergillus aculeatinus Noonim, Frisvad, Varga & Samson SPECIES
 
 #### Status
 ACCEPTED

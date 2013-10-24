@@ -1,5 +1,4 @@
-Lecanora delimitata H. Magn. SPECIES
-=======
+# Lecanora delimitata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

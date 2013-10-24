@@ -1,17 +1,16 @@
-Cercospora physalicola Ellis & Barthol. SPECIES
-=======
+# Cercospora physalidicola Ellis & Barthol. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 2 6: 342 (1899)
 
 #### Original name
-Cercospora physalicola Ellis & Barthol.
+Cercospora physalidicola Ellis & Barthol.
 
 ### Remarks
 null

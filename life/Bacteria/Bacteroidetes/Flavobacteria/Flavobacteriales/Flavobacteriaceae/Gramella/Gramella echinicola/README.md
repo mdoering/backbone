@@ -1,5 +1,4 @@
-Gramella echinicola Nedashkovskaya et al., 2005 SPECIES
-=======
+# Gramella echinicola Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

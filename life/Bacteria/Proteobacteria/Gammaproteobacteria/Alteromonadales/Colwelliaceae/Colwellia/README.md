@@ -1,5 +1,4 @@
-Colwellia Deming et al., 1988 GENUS
-=======
+# Colwellia Deming et al., 1988 GENUS
 
 #### Status
 ACCEPTED

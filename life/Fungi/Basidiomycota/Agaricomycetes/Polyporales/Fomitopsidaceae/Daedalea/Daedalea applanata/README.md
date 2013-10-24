@@ -1,5 +1,4 @@
-Daedalea applanata Klotzsch SPECIES
-=======
+# Daedalea applanata Klotzsch SPECIES
 
 #### Status
 ACCEPTED

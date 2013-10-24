@@ -1,5 +1,4 @@
-Calvatia primitiva Lloyd SPECIES
-=======
+# Calvatia primitiva Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tuber magnatum var. vittadinii Daprati VARIETY
-=======
+# Tuber magnatum Picco, 1788 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 50(1): 41 (2007)
+null
 
 #### Original name
-Tuber magnatum var. vittadinii Daprati
+Tuber magnatum Picco, 1788
 
 ### Remarks
 null

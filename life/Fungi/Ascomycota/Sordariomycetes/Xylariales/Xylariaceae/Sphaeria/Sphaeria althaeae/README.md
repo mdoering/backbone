@@ -1,5 +1,4 @@
-Sphaeria althaeae Kirchn. SPECIES
-=======
+# Sphaeria althaeae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

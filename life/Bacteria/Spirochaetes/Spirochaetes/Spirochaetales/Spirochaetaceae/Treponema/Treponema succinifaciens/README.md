@@ -1,5 +1,4 @@
-Treponema succinifaciens Cwyk & Canale-Parola, 1981 SPECIES
-=======
+# Treponema succinifaciens Cwyk & Canale-Parola, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula capensis A. Pearson SPECIES
-=======
+# Russula capensis A. Pearson SPECIES
 
 #### Status
 ACCEPTED

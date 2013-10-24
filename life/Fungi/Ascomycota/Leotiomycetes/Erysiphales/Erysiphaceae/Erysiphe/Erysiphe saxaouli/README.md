@@ -1,5 +1,4 @@
-Erysiphe saxaouli Sorokin SPECIES
-=======
+# Erysiphe saxaouli Sorokin SPECIES
 
 #### Status
 ACCEPTED

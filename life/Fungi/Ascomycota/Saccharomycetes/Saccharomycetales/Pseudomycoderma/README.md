@@ -1,5 +1,4 @@
-Pseudomycoderma H. Will, 1916 GENUS
-=======
+# Pseudomycoderma H. Will, 1916 GENUS
 
 #### Status
 ACCEPTED

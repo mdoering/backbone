@@ -1,17 +1,16 @@
-Septoria aparine Ellis & Kellerm. SPECIES
-=======
+# Septoria aparines Ellis & Kellerm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 5(3): 143 (1889)
 
 #### Original name
-Septoria aparine Ellis & Kellerm.
+Septoria aparines Ellis & Kellerm.
 
 ### Remarks
 null

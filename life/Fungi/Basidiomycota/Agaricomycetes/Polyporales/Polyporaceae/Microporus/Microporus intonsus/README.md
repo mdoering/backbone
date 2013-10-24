@@ -1,5 +1,4 @@
-Microporus intonsus (Berk.) Kuntze SPECIES
-=======
+# Microporus intonsus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

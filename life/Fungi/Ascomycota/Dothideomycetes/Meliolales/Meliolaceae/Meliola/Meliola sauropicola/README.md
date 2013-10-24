@@ -1,5 +1,4 @@
-Meliola sauropicola H.S. Yates SPECIES
-=======
+# Meliola sauropicola H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

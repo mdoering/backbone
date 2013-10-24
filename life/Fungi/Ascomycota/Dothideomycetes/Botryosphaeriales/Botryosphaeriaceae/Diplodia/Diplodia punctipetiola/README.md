@@ -1,5 +1,4 @@
-Diplodia punctipetiola Cooke SPECIES
-=======
+# Diplodia punctipetiola Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinokineospora riparia Hasegawa, 1988 SPECIES
-=======
+# Actinokineospora riparia Hasegawa, 1988 SPECIES
 
 #### Status
 ACCEPTED

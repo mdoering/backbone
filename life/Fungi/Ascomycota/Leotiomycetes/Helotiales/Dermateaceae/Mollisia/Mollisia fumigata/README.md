@@ -1,5 +1,4 @@
-Mollisia fumigata Ellis & Everh. SPECIES
-=======
+# Mollisia fumigata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

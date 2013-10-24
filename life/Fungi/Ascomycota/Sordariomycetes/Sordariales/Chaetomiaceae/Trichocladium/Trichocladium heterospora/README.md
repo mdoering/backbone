@@ -1,5 +1,4 @@
-Trichocladium heterospora Udaiyan SPECIES
-=======
+# Trichocladium heterospora Udaiyan SPECIES
 
 #### Status
 ACCEPTED

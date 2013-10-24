@@ -1,5 +1,4 @@
-Rhizomorpha putealis Pers. SPECIES
-=======
+# Rhizomorpha putealis Pers. SPECIES
 
 #### Status
 ACCEPTED

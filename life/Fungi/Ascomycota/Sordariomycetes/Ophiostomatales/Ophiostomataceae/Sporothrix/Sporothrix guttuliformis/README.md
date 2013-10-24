@@ -1,5 +1,4 @@
-Sporothrix guttuliformis de Hoog, 1978 SPECIES
-=======
+# Sporothrix guttuliformis de Hoog, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa strobiligena Sacc. & Roum. SPECIES
-=======
+# Valsa strobiligena Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

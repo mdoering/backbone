@@ -1,5 +1,4 @@
-Metasphaeria rubicola P. Karst. SPECIES
-=======
+# Metasphaeria rubicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

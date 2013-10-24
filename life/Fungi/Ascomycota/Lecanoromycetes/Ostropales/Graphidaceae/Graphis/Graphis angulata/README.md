@@ -1,5 +1,4 @@
-Graphis angulata (Fée) A. Massal. SPECIES
-=======
+# Graphis angulata (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

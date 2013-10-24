@@ -1,5 +1,4 @@
-Parmelia addenda Vain. SPECIES
-=======
+# Parmelia addenda Vain. SPECIES
 
 #### Status
 ACCEPTED

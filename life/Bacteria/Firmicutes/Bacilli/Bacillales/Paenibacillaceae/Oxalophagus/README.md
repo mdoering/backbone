@@ -1,5 +1,4 @@
-Oxalophagus Collins et al., 1994 GENUS
-=======
+# Oxalophagus Collins et al., 1994 GENUS
 
 #### Status
 ACCEPTED

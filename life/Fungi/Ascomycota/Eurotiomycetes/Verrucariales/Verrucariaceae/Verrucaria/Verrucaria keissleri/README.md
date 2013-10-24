@@ -1,5 +1,4 @@
-Verrucaria keissleri Szatala SPECIES
-=======
+# Verrucaria keissleri Szatala SPECIES
 
 #### Status
 ACCEPTED

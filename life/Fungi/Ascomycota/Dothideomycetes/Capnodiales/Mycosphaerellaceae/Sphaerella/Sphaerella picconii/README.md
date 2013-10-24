@@ -1,5 +1,4 @@
-Sphaerella picconii De Not. SPECIES
-=======
+# Sphaerella picconii De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ptychogaster lycoperdon Pat. SPECIES
-=======
+# Ptychogaster lycoperdon Pat. SPECIES
 
 #### Status
 ACCEPTED

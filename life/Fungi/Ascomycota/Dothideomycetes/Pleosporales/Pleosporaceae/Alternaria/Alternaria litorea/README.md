@@ -1,5 +1,4 @@
-Alternaria litorea (Pivkin & Zvereva) E.G. Simmons SPECIES
-=======
+# Alternaria litorea (Pivkin & Zvereva) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

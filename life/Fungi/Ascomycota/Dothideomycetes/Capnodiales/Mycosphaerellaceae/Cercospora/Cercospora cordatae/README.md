@@ -1,5 +1,4 @@
-Cercospora cordatae H.C. Greene SPECIES
-=======
+# Cercospora cordatae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

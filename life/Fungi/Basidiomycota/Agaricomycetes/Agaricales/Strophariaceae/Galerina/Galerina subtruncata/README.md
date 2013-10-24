@@ -1,5 +1,4 @@
-Galerina subtruncata A.H. Sm. & Singer SPECIES
-=======
+# Galerina subtruncata A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

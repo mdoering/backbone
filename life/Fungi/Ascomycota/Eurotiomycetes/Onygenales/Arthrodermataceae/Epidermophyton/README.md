@@ -1,17 +1,16 @@
-Epidermomyces Loeffler GENUS
-=======
+# Epidermophyton E. Lang, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykosen 26(9): 446 (1983)
+Vierteljahresschr. Dermatol. Syph. 11: 263 (1879)
 
 #### Original name
-Epidermomyces Loeffler
+Epidermophyton E. Lang, 1879
 
 ### Remarks
 null

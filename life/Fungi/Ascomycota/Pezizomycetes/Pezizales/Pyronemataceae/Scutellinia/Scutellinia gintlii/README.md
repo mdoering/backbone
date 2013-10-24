@@ -1,5 +1,4 @@
-Scutellinia gintlii (Velen.) Svrcek SPECIES
-=======
+# Scutellinia gintlii (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

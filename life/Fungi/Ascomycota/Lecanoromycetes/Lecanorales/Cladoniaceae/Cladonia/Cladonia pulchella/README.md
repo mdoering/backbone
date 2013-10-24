@@ -1,5 +1,4 @@
-Cladonia pulchella Schwein. SPECIES
-=======
+# Cladonia pulchella Schwein. SPECIES
 
 #### Status
 ACCEPTED

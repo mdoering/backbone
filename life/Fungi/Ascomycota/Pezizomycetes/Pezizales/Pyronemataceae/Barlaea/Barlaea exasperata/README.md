@@ -1,5 +1,4 @@
-Barlaea exasperata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Barlaea exasperata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

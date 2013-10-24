@@ -1,5 +1,4 @@
-Osoriomyces Terada GENUS
-=======
+# Osoriomyces Terada GENUS
 
 #### Status
 ACCEPTED

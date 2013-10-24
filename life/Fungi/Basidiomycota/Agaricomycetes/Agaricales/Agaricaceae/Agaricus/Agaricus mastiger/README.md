@@ -1,5 +1,4 @@
-Agaricus mastiger Berk. & Broome SPECIES
-=======
+# Agaricus mastiger Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

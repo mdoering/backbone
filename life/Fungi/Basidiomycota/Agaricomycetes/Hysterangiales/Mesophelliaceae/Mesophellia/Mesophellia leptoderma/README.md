@@ -1,5 +1,4 @@
-Mesophellia leptoderma J.W. Cribb SPECIES
-=======
+# Mesophellia leptoderma J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatiopsis Hollós GENUS
-=======
+# Calvatiopsis Hollós GENUS
 
 #### Status
 ACCEPTED

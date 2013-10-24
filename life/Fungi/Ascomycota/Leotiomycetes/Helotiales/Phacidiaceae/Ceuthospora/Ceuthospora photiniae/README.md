@@ -1,5 +1,4 @@
-Ceuthospora photiniae Bubák SPECIES
-=======
+# Ceuthospora photiniae Bubák SPECIES
 
 #### Status
 ACCEPTED

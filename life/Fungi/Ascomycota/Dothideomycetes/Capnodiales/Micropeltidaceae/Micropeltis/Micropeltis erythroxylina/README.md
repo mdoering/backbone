@@ -1,5 +1,4 @@
-Micropeltis erythroxylina Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis erythroxylina Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

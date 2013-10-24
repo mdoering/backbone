@@ -1,5 +1,4 @@
-Entoloma subflexipes (Kühner) Noordel. SPECIES
-=======
+# Entoloma subflexipes (Kühner) Noordel. SPECIES
 
 #### Status
 ACCEPTED

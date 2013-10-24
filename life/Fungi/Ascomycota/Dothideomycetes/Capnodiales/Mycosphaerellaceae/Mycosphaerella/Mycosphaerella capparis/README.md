@@ -1,17 +1,16 @@
-Mycosphaerella capparidis Vasyag. SPECIES
-=======
+# Mycosphaerella capparis Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vasyagina, Byzova & Tartenova, Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 44 (1987)
 
 #### Original name
-Mycosphaerella capparidis Vasyag.
+Mycosphaerella capparis Vasyag.
 
 ### Remarks
 null

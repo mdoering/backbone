@@ -1,5 +1,4 @@
-Terana maculaeformis (Fr.) Kuntze SPECIES
-=======
+# Terana maculaeformis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

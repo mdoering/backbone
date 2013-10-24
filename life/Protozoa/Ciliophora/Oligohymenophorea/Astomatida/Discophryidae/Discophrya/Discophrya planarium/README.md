@@ -1,5 +1,4 @@
-Discophrya planarium SPECIES
-=======
+# Discophrya planarium SPECIES
 
 #### Status
 ACCEPTED

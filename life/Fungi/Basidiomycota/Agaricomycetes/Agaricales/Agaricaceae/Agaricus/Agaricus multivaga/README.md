@@ -1,5 +1,4 @@
-Agaricus multivaga Britzelm. SPECIES
-=======
+# Agaricus multivaga Britzelm. SPECIES
 
 #### Status
 ACCEPTED

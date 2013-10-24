@@ -1,5 +1,4 @@
-Phaeotrema consimile Müll. Arg., 1887 SPECIES
-=======
+# Phaeotrema consimile Müll. Arg., 1887 SPECIES
 
 #### Status
 ACCEPTED

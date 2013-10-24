@@ -1,5 +1,4 @@
-Pluteus reticulatus Murrill SPECIES
-=======
+# Pluteus reticulatus Murrill SPECIES
 
 #### Status
 ACCEPTED

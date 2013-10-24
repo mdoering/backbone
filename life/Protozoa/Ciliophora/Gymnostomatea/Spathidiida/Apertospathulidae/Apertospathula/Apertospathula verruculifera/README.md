@@ -1,5 +1,4 @@
-Apertospathula verruculifera Foissner, Xu & Kreutz, 2005 SPECIES
-=======
+# Apertospathula verruculifera Foissner, Xu & Kreutz, 2005 SPECIES
 
 #### Status
 ACCEPTED

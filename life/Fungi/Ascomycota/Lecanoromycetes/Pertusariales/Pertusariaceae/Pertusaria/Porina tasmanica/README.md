@@ -1,5 +1,4 @@
-Porina tasmanica P.M. McCarthy, 1993 SPECIES
-=======
+# Porina tasmanica P.M. McCarthy, 1993 SPECIES
 
 #### Status
 DOUBTFUL

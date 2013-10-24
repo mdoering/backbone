@@ -1,5 +1,4 @@
-Usnea leucostictoides Räsänen SPECIES
-=======
+# Usnea leucostictoides Räsänen SPECIES
 
 #### Status
 ACCEPTED

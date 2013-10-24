@@ -1,17 +1,16 @@
-Cortinarius multiformis subsp. multiformis SUBSPECIES
-=======
+# Cortinarius polymorphus Rob. Henry, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Docums Mycol. 16(no. 61): 23 (1985)
 
 #### Original name
-Cortinarius multiformis subsp. multiformis
+Cortinarius polymorphus Rob. Henry, 1985
 
 ### Remarks
 null

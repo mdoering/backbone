@@ -1,5 +1,4 @@
-Phyllachora zanthoxylicola Seaver, 1928 SPECIES
-=======
+# Phyllachora zanthoxylicola Seaver, 1928 SPECIES
 
 #### Status
 DOUBTFUL

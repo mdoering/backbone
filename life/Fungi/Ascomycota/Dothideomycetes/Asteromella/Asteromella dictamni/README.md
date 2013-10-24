@@ -1,5 +1,4 @@
-Asteromella dictamni Petr. SPECIES
-=======
+# Asteromella dictamni Petr. SPECIES
 
 #### Status
 ACCEPTED

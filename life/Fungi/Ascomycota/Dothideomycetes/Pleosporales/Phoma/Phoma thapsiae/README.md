@@ -1,5 +1,4 @@
-Phoma thapsiae Politis SPECIES
-=======
+# Phoma thapsiae Politis SPECIES
 
 #### Status
 ACCEPTED

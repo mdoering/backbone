@@ -1,5 +1,4 @@
-Lecidea amniculensis J. Lowe SPECIES
-=======
+# Lecidea amniculensis J. Lowe SPECIES
 
 #### Status
 ACCEPTED

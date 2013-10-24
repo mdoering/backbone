@@ -1,5 +1,4 @@
-Buccella carididae SPECIES
-=======
+# Buccella carididae SPECIES
 
 #### Status
 ACCEPTED

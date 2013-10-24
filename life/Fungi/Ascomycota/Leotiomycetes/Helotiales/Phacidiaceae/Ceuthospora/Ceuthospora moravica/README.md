@@ -1,5 +1,4 @@
-Ceuthospora moravica Petr. SPECIES
-=======
+# Ceuthospora moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

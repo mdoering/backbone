@@ -1,17 +1,16 @@
-Xenodimerium Petr. GENUS
-=======
+# Eudarluca Spegazzini, 1908 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 1: 190 (1947)
+null
 
 #### Original name
-Xenodimerium Petr.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Paenibacillus nematophilus Enright et al., 2003 SPECIES
-=======
+# Paenibacillus nematophilus Enright et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

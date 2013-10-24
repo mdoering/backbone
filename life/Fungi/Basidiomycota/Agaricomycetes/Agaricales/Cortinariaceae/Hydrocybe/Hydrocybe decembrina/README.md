@@ -1,5 +1,4 @@
-Hydrocybe decembrina Velen. SPECIES
-=======
+# Hydrocybe decembrina Velen. SPECIES
 
 #### Status
 ACCEPTED

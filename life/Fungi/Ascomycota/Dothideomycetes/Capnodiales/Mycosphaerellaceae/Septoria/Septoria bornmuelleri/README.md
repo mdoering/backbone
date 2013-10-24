@@ -1,5 +1,4 @@
-Septoria bornmuelleri Syd. SPECIES
-=======
+# Septoria bornmuelleri Syd. SPECIES
 
 #### Status
 ACCEPTED

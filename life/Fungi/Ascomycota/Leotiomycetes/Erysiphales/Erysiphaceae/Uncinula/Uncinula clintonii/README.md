@@ -1,5 +1,4 @@
-Uncinula clintonii var. clintonii VARIETY
-=======
+# Uncinula clintonii Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 26: 96 (1874)
 
 #### Original name
-Uncinula clintonii var. clintonii
+Uncinula clintonii Peck
 
 ### Remarks
 null

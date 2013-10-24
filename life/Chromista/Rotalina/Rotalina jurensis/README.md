@@ -1,5 +1,4 @@
-Rotalina jurensis d’Orbigny, 1843 SPECIES
-=======
+# Rotalina jurensis d’Orbigny, 1843 SPECIES
 
 #### Status
 ACCEPTED

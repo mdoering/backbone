@@ -1,5 +1,4 @@
-Polyblastia pulvinata (Th. Fr.) Jatta SPECIES
-=======
+# Polyblastia pulvinata (Th. Fr.) Jatta SPECIES
 
 #### Status
 ACCEPTED

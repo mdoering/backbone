@@ -1,5 +1,4 @@
-Haplographium Berkeley & Broome, 1859 GENUS
-=======
+# Haplographium Berkeley & Broome, 1859 GENUS
 
 #### Status
 ACCEPTED

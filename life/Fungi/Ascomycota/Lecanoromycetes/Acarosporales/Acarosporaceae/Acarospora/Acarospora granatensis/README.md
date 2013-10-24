@@ -1,5 +1,4 @@
-Acarospora granatensis Samp. SPECIES
-=======
+# Acarospora granatensis Samp. SPECIES
 
 #### Status
 ACCEPTED

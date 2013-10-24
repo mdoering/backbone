@@ -1,5 +1,4 @@
-Nectria fusca (Fuckel) Wollenw. SPECIES
-=======
+# Nectria fusca (Fuckel) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

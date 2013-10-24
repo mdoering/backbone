@@ -1,5 +1,4 @@
-Trichoconis queenslandica Matsush. SPECIES
-=======
+# Trichoconis queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

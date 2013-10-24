@@ -1,5 +1,4 @@
-Endophyllum elaeagni-latifoliae (Petch) Gokhale, Thirum. & Patel SPECIES
-=======
+# Endophyllum elaeagni-latifoliae (Petch) Gokhale, Thirum. & Patel SPECIES
 
 #### Status
 ACCEPTED

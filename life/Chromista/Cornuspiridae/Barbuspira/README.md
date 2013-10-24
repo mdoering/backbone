@@ -1,5 +1,4 @@
-Barbuspira Neagu, 2000 GENUS
-=======
+# Barbuspira Neagu, 2000 GENUS
 
 #### Status
 ACCEPTED

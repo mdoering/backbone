@@ -1,14 +1,13 @@
-Athelia hypochnoidea (Jülich) Zmitr., 2004 SPECIES
-=======
+# Athelopsis subinconspicua (Litsch.) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 8(3): 292 (1975)
 
 #### Original name
 null

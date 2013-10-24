@@ -1,5 +1,4 @@
-Trametes linguiformis Corner SPECIES
-=======
+# Trametes linguiformis Corner SPECIES
 
 #### Status
 ACCEPTED

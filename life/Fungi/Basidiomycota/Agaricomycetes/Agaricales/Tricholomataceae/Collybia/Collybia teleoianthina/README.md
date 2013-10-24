@@ -1,5 +1,4 @@
-Collybia teleoianthina Métrod SPECIES
-=======
+# Collybia teleoianthina Métrod SPECIES
 
 #### Status
 ACCEPTED

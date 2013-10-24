@@ -1,5 +1,4 @@
-Tremella luteorubescens Holterm. SPECIES
-=======
+# Tremella luteorubescens Holterm. SPECIES
 
 #### Status
 ACCEPTED

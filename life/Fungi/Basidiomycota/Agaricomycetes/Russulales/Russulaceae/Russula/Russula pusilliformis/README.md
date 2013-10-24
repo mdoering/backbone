@@ -1,5 +1,4 @@
-Russula pusilliformis Murrill SPECIES
-=======
+# Russula pusilliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

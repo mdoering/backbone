@@ -1,5 +1,4 @@
-Pseudocercospora afgoiensis E. Castell. & Gullino SPECIES
-=======
+# Pseudocercospora afgoiensis E. Castell. & Gullino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula robinsoniae Burl. SPECIES
-=======
+# Russula robinsoniae Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia fragrantissima A. Pearson SPECIES
-=======
+# Collybia fragrantissima A. Pearson SPECIES
 
 #### Status
 ACCEPTED

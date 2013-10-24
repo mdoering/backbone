@@ -1,5 +1,4 @@
-Lagena striatopunctata Jones & Parker SPECIES
-=======
+# Lagena striatopunctata Jones & Parker SPECIES
 
 #### Status
 ACCEPTED

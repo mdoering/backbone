@@ -1,5 +1,4 @@
-Schulzeria lycoperdoides Cooke & Massee SPECIES
-=======
+# Schulzeria lycoperdoides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

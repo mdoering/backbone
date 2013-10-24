@@ -1,5 +1,4 @@
-Coniosporium albiziae Henn. SPECIES
-=======
+# Coniosporium albiziae Henn. SPECIES
 
 #### Status
 ACCEPTED

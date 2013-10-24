@@ -1,5 +1,4 @@
-Exopatellina Zheng, 1981 GENUS
-=======
+# Exopatellina Zheng, 1981 GENUS
 
 #### Status
 ACCEPTED

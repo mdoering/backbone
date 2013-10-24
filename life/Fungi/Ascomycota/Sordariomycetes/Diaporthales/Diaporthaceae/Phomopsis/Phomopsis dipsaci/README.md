@@ -1,8 +1,7 @@
-Phoma dipsaci Cooke, 1885 SPECIES
-=======
+# Phomopsis dipsaci (Cooke) Grove, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

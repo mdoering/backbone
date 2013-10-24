@@ -1,8 +1,7 @@
-Penicillium stipitatum Thom ex C.W. Emmons, 1935 SPECIES
-=======
+# Penicillium emmonsii Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

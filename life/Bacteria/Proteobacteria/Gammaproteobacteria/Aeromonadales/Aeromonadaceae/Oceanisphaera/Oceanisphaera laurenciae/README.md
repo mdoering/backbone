@@ -1,5 +1,4 @@
-Oceanisphaera laurenciae Moon, Lee, Lee, Heo, 2008 SPECIES
-=======
+# Oceanisphaera laurenciae Moon, Lee, Lee, Heo, 2008 SPECIES
 
 #### Status
 ACCEPTED

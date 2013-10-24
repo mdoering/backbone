@@ -1,14 +1,13 @@
-Microthelia micula f. grandiuscula (Anzi) Keissl. FORM
-=======
+# Peridiothelia grandiuscula (Anzi) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 124 (1985)
 
 #### Original name
 Microthelia grandiuscula Anzi

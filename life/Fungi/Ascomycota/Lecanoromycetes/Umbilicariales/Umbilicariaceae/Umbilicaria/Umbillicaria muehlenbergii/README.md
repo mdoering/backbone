@@ -1,5 +1,4 @@
-Umbillicaria muehlenbergii SPECIES
-=======
+# Umbillicaria muehlenbergii SPECIES
 
 #### Status
 DOUBTFUL

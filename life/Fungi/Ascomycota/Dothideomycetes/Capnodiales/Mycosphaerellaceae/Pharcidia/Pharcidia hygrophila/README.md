@@ -1,5 +1,4 @@
-Pharcidia hygrophila var. hygrophila VARIETY
-=======
+# Pharcidia hygrophila (Arnold) G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pharcidia hygrophila var. hygrophila
+null
 
 ### Remarks
 null

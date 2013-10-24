@@ -1,5 +1,4 @@
-Dactylella pulchra (Linder) de Hoog & Oorschot SPECIES
-=======
+# Dactylella pulchra (Linder) de Hoog & Oorschot SPECIES
 
 #### Status
 ACCEPTED

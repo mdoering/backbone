@@ -1,8 +1,7 @@
-Miliolina sadkovi Shchedrina, 1946 SPECIES
-=======
+# Quinqueloculina sadkovi (Shchedrina, 1946) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

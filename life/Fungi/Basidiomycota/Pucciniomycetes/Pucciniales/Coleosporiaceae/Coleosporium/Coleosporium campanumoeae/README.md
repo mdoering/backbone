@@ -1,5 +1,4 @@
-Coleosporium campanumoeae Diet. SPECIES
-=======
+# Coleosporium campanumoeae Diet. SPECIES
 
 #### Status
 ACCEPTED

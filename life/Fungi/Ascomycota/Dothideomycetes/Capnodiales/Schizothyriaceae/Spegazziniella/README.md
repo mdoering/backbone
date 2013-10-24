@@ -1,5 +1,4 @@
-Spegazziniella GENUS
-=======
+# Spegazziniella GENUS
 
 #### Status
 ACCEPTED

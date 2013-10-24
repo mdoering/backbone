@@ -1,5 +1,4 @@
-Lecidea declinis Nyl. SPECIES
-=======
+# Lecidea declinis Nyl. SPECIES
 
 #### Status
 ACCEPTED

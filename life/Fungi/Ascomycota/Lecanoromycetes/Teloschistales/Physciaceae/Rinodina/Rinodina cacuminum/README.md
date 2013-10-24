@@ -1,5 +1,4 @@
-Rinodina cacuminum (Th. Fr.) Malme SPECIES
-=======
+# Rinodina cacuminum (Th. Fr.) Malme SPECIES
 
 #### Status
 ACCEPTED

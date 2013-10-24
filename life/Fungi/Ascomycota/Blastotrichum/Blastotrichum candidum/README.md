@@ -1,5 +1,4 @@
-Blastotrichum candidum (Corda) Sacc. SPECIES
-=======
+# Blastotrichum candidum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

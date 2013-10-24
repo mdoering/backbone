@@ -1,5 +1,4 @@
-Meliola diospyricola (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola diospyricola (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

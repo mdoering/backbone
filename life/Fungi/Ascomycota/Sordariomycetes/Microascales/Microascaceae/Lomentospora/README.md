@@ -1,5 +1,4 @@
-Lomentospora Hennebert & B.G. Desai, 1974 GENUS
-=======
+# Lomentospora Hennebert & B.G. Desai, 1974 GENUS
 
 #### Status
 ACCEPTED

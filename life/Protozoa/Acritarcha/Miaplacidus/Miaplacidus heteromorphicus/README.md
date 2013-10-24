@@ -1,5 +1,4 @@
-Miaplacidus heteromorphicus Fombella, 1978 SPECIES
-=======
+# Miaplacidus heteromorphicus Fombella, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta socia Pass. SPECIES
-=======
+# Ascochyta socia Pass. SPECIES
 
 #### Status
 ACCEPTED

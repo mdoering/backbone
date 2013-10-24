@@ -1,5 +1,4 @@
-Cercospora jatrophigena U. Braun SPECIES
-=======
+# Cercospora jatrophigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

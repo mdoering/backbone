@@ -1,5 +1,4 @@
-Amanita dumosorum D.A. Reid SPECIES
-=======
+# Amanita dumosorum D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

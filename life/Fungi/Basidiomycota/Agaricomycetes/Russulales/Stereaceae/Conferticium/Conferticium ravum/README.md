@@ -1,5 +1,4 @@
-Conferticium ravum (Burt) Ginns & G.W. Freeman, 1994 SPECIES
-=======
+# Conferticium ravum (Burt) Ginns & G.W. Freeman, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roccellographa circumscripta (Leight.) Ertz & Tehler SPECIES
-=======
+# Roccellographa circumscripta (Leight.) Ertz & Tehler SPECIES
 
 #### Status
 ACCEPTED

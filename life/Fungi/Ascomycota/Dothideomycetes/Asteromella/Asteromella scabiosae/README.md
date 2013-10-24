@@ -1,5 +1,4 @@
-Asteromella scabiosae (Kalymb.) Vanev & Aa SPECIES
-=======
+# Asteromella scabiosae (Kalymb.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

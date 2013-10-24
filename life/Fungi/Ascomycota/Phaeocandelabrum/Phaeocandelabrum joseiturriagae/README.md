@@ -1,5 +1,4 @@
-Phaeocandelabrum joseiturriagae R.F. Castañeda, Iturr., Heredia & M. Stadler, 2009 SPECIES
-=======
+# Phaeocandelabrum joseiturriagae R.F. Castañeda, Iturr., Heredia & M. Stadler, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deinococcus proteolyticus Brooks & Murray, 1981 SPECIES
-=======
+# Deinococcus proteolyticus Brooks & Murray, 1981 SPECIES
 
 #### Status
 ACCEPTED

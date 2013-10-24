@@ -1,5 +1,4 @@
-Leptosphaeria endiusae (Fuckel) Sacc. SPECIES
-=======
+# Leptosphaeria endiusae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sanguibacteraceae FAMILY
-=======
+# Sanguibacteraceae FAMILY
 
 #### Status
 ACCEPTED

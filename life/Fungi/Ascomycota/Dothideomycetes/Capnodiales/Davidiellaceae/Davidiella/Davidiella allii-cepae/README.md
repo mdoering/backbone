@@ -1,17 +1,16 @@
-Heterosporium allii var. allii VARIETY
-=======
+# Davidiella allii-cepae (M.M. Jord., Maude & Burchill) Crous & U. Braun, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 1(8): 100 (1885)
+in Braun, Crous, Dugan & de Hoog, Mycol. Progr. 2(1): 10 (2003)
 
 #### Original name
-Heterosporium allii var. allii
+Mycosphaerella allii-cepae M.M. Jord., Maude & Burchill, 1986
 
 ### Remarks
 null

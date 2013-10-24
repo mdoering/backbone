@@ -1,17 +1,16 @@
-Simoninus Roum. GENUS
-=======
+# Chaenocarpus Rebentisch, 1804 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Fungi Selecti Galliaei Exs. no. 311 (1879)
+Prodr. fl. neomarch. 350 (1804)
 
 #### Original name
-Simoninus Roum.
+Chaenocarpus Rebentisch, 1804
 
 ### Remarks
 null

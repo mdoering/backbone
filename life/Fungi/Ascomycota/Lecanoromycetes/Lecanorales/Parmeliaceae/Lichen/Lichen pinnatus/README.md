@@ -1,5 +1,4 @@
-Lichen pinnatus Humb. SPECIES
-=======
+# Lichen pinnatus Humb. SPECIES
 
 #### Status
 ACCEPTED

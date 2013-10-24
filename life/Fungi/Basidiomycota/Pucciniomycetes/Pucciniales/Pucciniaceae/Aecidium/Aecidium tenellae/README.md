@@ -1,5 +1,4 @@
-Aecidium tenellae Dietel & Holw. SPECIES
-=======
+# Aecidium tenellae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

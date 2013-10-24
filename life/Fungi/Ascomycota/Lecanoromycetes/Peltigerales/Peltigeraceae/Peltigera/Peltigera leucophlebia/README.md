@@ -1,17 +1,16 @@
-Peltidea aphthosa var. aphthosa VARIETY
-=======
+# Peltigera leucophlebia (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magyar Bot. Lapok 24: 79 (1926)
 
 #### Original name
-Peltidea aphthosa var. aphthosa
+Peltidea aphthosa var. leucophlebia Nyl.
 
 ### Remarks
 null

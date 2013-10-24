@@ -1,5 +1,4 @@
-Fibroporia destructor (Schrad.) Parmasto SPECIES
-=======
+# Fibroporia destructor (Schrad.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

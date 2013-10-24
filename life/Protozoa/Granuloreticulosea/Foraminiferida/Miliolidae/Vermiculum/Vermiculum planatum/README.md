@@ -1,5 +1,4 @@
-Vermiculum planatum Macgillivray, 1843 SPECIES
-=======
+# Vermiculum planatum Macgillivray, 1843 SPECIES
 
 #### Status
 ACCEPTED

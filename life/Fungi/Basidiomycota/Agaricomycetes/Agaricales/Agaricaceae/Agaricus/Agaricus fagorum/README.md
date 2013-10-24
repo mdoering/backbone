@@ -1,5 +1,4 @@
-Agaricus fagorum Cumino SPECIES
-=======
+# Agaricus fagorum Cumino SPECIES
 
 #### Status
 ACCEPTED

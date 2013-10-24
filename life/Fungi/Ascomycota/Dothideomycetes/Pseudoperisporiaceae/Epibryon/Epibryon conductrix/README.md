@@ -1,14 +1,13 @@
-Laestadia conductrix (Norman ex Th. Fr.) Sacc. & D. Sacc. SPECIES
-=======
+# Epibryon conductrix (Norman ex Th. Fr.) Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 557 (1905)
+Biblthca Lichenol. 77: 137 (2000)
 
 #### Original name
 Verrucaria conductrix Norman ex Th. Fr.

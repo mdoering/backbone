@@ -1,5 +1,4 @@
-Xyloma smilacis Schwein. SPECIES
-=======
+# Xyloma smilacis Schwein. SPECIES
 
 #### Status
 ACCEPTED

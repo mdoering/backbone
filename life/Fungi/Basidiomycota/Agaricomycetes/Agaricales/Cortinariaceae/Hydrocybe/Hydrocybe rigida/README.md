@@ -1,5 +1,4 @@
-Hydrocybe rigida (Scop.) M.M. Moser SPECIES
-=======
+# Hydrocybe rigida (Scop.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

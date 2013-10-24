@@ -1,5 +1,4 @@
-Bryoria tortuosa (G. Merr.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria tortuosa (G. Merr.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

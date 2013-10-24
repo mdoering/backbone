@@ -1,5 +1,4 @@
-Valsa padi P. Karst. SPECIES
-=======
+# Valsa padi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

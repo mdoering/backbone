@@ -1,5 +1,4 @@
-Camposporium ramosum Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Camposporium ramosum Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

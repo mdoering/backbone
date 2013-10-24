@@ -1,5 +1,4 @@
-Colletotrichum quercinum Savul. & Negru SPECIES
-=======
+# Colletotrichum quercinum Savul. & Negru SPECIES
 
 #### Status
 ACCEPTED

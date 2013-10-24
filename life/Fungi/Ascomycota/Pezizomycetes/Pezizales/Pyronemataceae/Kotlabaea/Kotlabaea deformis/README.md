@@ -1,17 +1,16 @@
-Humaria callichroa Boud., 1881 SPECIES
-=======
+# Kotlabaea deformis (P. Karst.) Svrcek, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 93 (1881)
+Ceská Mykol. 23: 87 (1969)
 
 #### Original name
-Humaria callichroa Boud., 1881
+Peziza deformis P. Karst., 1869
 
 ### Remarks
 null

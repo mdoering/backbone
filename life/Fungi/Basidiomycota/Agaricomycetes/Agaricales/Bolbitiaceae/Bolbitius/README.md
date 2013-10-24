@@ -1,5 +1,4 @@
-Bolbitius E.M. Fries, 1838 GENUS
-=======
+# Bolbitius E.M. Fries, 1838 GENUS
 
 #### Status
 ACCEPTED

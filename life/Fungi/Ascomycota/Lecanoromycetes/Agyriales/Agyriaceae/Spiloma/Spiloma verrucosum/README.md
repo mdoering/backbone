@@ -1,5 +1,4 @@
-Spiloma verrucosum SPECIES
-=======
+# Spiloma verrucosum SPECIES
 
 #### Status
 ACCEPTED

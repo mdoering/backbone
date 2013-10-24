@@ -1,5 +1,4 @@
-Sphaerella discrepans Kirschst. SPECIES
-=======
+# Sphaerella discrepans Kirschst. SPECIES
 
 #### Status
 ACCEPTED

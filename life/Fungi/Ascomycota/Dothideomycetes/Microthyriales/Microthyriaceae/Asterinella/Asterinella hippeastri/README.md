@@ -1,5 +1,4 @@
-Asterinella hippeastri R.W. Ryan SPECIES
-=======
+# Asterinella hippeastri R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

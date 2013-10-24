@@ -1,5 +1,4 @@
-Caeoma scopariae K.N. Rao SPECIES
-=======
+# Caeoma scopariae K.N. Rao SPECIES
 
 #### Status
 ACCEPTED

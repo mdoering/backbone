@@ -1,5 +1,4 @@
-Rhabdospora ulmi Berl. & Roum. SPECIES
-=======
+# Rhabdospora ulmi Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED

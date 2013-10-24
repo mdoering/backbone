@@ -1,5 +1,4 @@
-Macrophoma hochreutineri Henn. SPECIES
-=======
+# Macrophoma hochreutineri Henn. SPECIES
 
 #### Status
 ACCEPTED

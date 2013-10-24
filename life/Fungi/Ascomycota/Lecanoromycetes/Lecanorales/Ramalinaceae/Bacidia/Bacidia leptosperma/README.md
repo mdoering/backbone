@@ -1,5 +1,4 @@
-Bacidia leptosperma (Anzi) Lettau SPECIES
-=======
+# Bacidia leptosperma (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

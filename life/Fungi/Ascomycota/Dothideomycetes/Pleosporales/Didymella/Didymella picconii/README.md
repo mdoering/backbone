@@ -1,5 +1,4 @@
-Didymella picconii (De Not.) Sacc. SPECIES
-=======
+# Didymella picconii (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

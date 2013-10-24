@@ -1,5 +1,4 @@
-Caposiraceae FAMILY
-=======
+# Caposiraceae FAMILY
 
 #### Status
 ACCEPTED

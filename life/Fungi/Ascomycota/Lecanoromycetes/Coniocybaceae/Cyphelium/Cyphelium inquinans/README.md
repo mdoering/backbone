@@ -1,5 +1,4 @@
-Cyphelium inquinans (Sm.) Trevisan SPECIES
-=======
+# Cyphelium inquinans (Sm.) Trevisan SPECIES
 
 #### Status
 ACCEPTED

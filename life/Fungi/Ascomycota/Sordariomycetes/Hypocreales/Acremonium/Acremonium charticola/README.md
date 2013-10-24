@@ -1,14 +1,13 @@
-Cephalosporium charticola Lindau, 1904 SPECIES
-=======
+# Acremonium charticola (Lindau) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cephalosporium-artige Schimmelpilze (Stuttgart) 46 (1971)
 
 #### Original name
 Cephalosporium charticola Lindau, 1904

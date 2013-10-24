@@ -1,5 +1,4 @@
-Puccinia niitakensis Hirats. & Hashioka SPECIES
-=======
+# Puccinia niitakensis Hirats. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

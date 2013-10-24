@@ -1,5 +1,4 @@
-Cladonia attenuata Hoffm. SPECIES
-=======
+# Cladonia attenuata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

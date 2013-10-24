@@ -1,5 +1,4 @@
-Gloeosporium berberidis Cooke SPECIES
-=======
+# Gloeosporium berberidis Cooke SPECIES
 
 #### Status
 ACCEPTED

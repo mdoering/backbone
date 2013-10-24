@@ -1,5 +1,4 @@
-Sorosporium lasiuri S. Ahmad SPECIES
-=======
+# Sorosporium lasiuri S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

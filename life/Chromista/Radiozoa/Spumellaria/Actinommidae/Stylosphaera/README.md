@@ -1,5 +1,4 @@
-Stylosphaera Ehrenberg, 1847 GENUS
-=======
+# Stylosphaera Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

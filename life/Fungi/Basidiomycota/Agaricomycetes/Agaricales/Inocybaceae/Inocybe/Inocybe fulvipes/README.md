@@ -1,5 +1,4 @@
-Inocybe fulvipes Kühner SPECIES
-=======
+# Inocybe fulvipes Kühner SPECIES
 
 #### Status
 ACCEPTED

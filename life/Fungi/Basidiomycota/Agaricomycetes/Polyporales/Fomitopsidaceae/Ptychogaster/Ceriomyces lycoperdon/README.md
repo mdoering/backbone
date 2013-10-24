@@ -1,5 +1,4 @@
-Ceriomyces lycoperdon (Pat.) Sacc. SPECIES
-=======
+# Ceriomyces lycoperdon (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium petuniae R. Sprague SPECIES
-=======
+# Heterosporium petuniae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

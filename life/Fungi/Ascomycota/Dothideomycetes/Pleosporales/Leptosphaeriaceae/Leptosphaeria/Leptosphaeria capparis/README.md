@@ -1,8 +1,7 @@
-Leptosphaeria capparidis Pass. SPECIES
-=======
+# Leptosphaeria capparis Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria capparidis Pass.
+Leptosphaeria capparis Pass.
 
 ### Remarks
 null

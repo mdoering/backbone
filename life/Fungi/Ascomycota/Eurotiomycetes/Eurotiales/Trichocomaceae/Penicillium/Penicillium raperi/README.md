@@ -1,5 +1,4 @@
-Penicillium raperi G. Sm., 1957 SPECIES
-=======
+# Penicillium raperi G. Sm., 1957 SPECIES
 
 #### Status
 ACCEPTED

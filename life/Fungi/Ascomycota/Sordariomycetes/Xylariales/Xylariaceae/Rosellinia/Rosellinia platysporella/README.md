@@ -1,5 +1,4 @@
-Rosellinia platysporella Sacc. SPECIES
-=======
+# Rosellinia platysporella Sacc. SPECIES
 
 #### Status
 ACCEPTED

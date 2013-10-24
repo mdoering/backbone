@@ -1,5 +1,4 @@
-Parmelia rachista Hale SPECIES
-=======
+# Parmelia rachista Hale SPECIES
 
 #### Status
 ACCEPTED

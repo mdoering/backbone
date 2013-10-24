@@ -1,5 +1,4 @@
-Leuconostoc argentinum Dicks et al., 1993 SPECIES
-=======
+# Leuconostoc argentinum Dicks et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

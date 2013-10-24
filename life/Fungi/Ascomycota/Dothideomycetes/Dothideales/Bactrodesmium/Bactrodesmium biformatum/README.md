@@ -1,14 +1,13 @@
-Exosporium biformatum Höhn., 1902 SPECIES
-=======
+# Bactrodesmium biformatum (Höhn.) S. Hughes, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111: 1032 (1903)
+Fungi Canadenses, Ottawa 258: [1] (1983)
 
 #### Original name
 Exosporium biformatum Höhn., 1902

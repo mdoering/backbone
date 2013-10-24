@@ -1,5 +1,4 @@
-Leptomassaria platyspora Munk SPECIES
-=======
+# Leptomassaria platyspora Munk SPECIES
 
 #### Status
 ACCEPTED

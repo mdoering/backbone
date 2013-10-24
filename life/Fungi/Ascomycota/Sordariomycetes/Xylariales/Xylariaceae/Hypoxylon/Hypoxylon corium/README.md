@@ -1,5 +1,4 @@
-Hypoxylon corium Lloyd SPECIES
-=======
+# Hypoxylon corium Lloyd SPECIES
 
 #### Status
 ACCEPTED

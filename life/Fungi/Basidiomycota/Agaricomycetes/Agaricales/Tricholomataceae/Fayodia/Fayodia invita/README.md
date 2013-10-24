@@ -1,5 +1,4 @@
-Fayodia invita (P. Karst.) Singer SPECIES
-=======
+# Fayodia invita (P. Karst.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Articulariella aurantiaca Höhn. SPECIES
-=======
+# Articulariella aurantiaca Höhn. SPECIES
 
 #### Status
 ACCEPTED

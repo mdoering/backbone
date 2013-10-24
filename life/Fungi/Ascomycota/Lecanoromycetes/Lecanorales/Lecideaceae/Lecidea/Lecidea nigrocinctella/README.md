@@ -1,5 +1,4 @@
-Lecidea nigrocinctella (Nyl.) Hue SPECIES
-=======
+# Lecidea nigrocinctella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

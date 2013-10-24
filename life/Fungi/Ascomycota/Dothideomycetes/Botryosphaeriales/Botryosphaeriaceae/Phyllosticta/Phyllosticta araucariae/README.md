@@ -1,5 +1,4 @@
-Phyllosticta araucariae Woron. SPECIES
-=======
+# Phyllosticta araucariae Woron. SPECIES
 
 #### Status
 ACCEPTED

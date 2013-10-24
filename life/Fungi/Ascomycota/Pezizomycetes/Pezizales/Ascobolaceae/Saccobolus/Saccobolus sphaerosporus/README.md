@@ -1,5 +1,4 @@
-Saccobolus sphaerosporus Brumm. SPECIES
-=======
+# Saccobolus sphaerosporus Brumm. SPECIES
 
 #### Status
 ACCEPTED

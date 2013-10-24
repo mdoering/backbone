@@ -1,5 +1,4 @@
-Septoria cinerescens (Durieu & Mont.) Sacc. SPECIES
-=======
+# Septoria cinerescens (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium stiparum (Speg.) Zundel SPECIES
-=======
+# Sorosporium stiparum (Speg.) Zundel SPECIES
 
 #### Status
 ACCEPTED

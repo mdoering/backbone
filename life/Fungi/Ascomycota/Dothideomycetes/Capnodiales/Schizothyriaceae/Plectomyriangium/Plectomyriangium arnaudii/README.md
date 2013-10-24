@@ -1,5 +1,4 @@
-Plectomyriangium arnaudii C. Moreau & M. Moreau SPECIES
-=======
+# Plectomyriangium arnaudii C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

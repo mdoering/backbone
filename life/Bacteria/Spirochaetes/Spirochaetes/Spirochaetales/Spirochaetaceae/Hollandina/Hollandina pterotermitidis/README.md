@@ -1,5 +1,4 @@
-Hollandina pterotermitidis (ex To et al., 1978) Bermudes et al., 1988 SPECIES
-=======
+# Hollandina pterotermitidis (ex To et al., 1978) Bermudes et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

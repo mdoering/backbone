@@ -1,5 +1,4 @@
-Stereum macrorhizum (Lév.) Pat. SPECIES
-=======
+# Stereum macrorhizum (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

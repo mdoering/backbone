@@ -1,5 +1,4 @@
-Camarographium atriplicis Golovin SPECIES
-=======
+# Camarographium atriplicis Golovin SPECIES
 
 #### Status
 ACCEPTED

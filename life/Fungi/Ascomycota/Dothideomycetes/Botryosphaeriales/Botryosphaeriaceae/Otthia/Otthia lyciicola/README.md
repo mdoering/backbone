@@ -1,5 +1,4 @@
-Otthia lyciicola Urries SPECIES
-=======
+# Otthia lyciicola Urries SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea deplanatula (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Lecidea deplanatula (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

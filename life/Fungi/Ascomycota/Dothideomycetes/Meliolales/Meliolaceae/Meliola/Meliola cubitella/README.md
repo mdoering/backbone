@@ -1,5 +1,4 @@
-Meliola cubitella (F. Stevens & Tehon) Cif. ex Hansf. SPECIES
-=======
+# Meliola cubitella (F. Stevens & Tehon) Cif. ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

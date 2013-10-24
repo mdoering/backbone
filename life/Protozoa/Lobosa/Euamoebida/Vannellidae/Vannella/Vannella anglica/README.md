@@ -1,5 +1,4 @@
-Vannella anglica Page, 1980 SPECIES
-=======
+# Vannella anglica Page, 1980 SPECIES
 
 #### Status
 ACCEPTED

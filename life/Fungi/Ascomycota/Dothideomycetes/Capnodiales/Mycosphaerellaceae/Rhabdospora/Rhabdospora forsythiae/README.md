@@ -1,5 +1,4 @@
-Rhabdospora forsythiae Pass. SPECIES
-=======
+# Rhabdospora forsythiae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma testatum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma testatum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hylophila vervacti (Fr.) Quél., 1888 SPECIES
-=======
+# Agrocybe vervacti (Fr.) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flore mycologique de la France et des pays limitrophes 88 (1888)
+Beih. bot. Zbl. 56: 167 (1936)
 
 #### Original name
 Agaricus vervacti Fr., 1821

@@ -1,5 +1,4 @@
-Hypogymnia nikkoensis (Zahlbr.) Rass. SPECIES
-=======
+# Hypogymnia nikkoensis (Zahlbr.) Rass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia chesneyae (W.P. Golovina) U. Braun SPECIES
-=======
+# Ramularia chesneyae (W.P. Golovina) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius fraxineus Romagn. SPECIES
-=======
+# Lactarius fraxineus Romagn. SPECIES
 
 #### Status
 ACCEPTED

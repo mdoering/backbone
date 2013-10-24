@@ -1,5 +1,4 @@
-Epidermophyton niveum MacCarthy SPECIES
-=======
+# Epidermophyton niveum MacCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus comatus var. comatus VARIETY
-=======
+# Coprinus comatus (O.F. Müll.) Pers., 1797 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tent. disp. meth. fung. (Lipsiae) 62 (1797)
 
 #### Original name
-null
+Agaricus comatus O.F. Müll., 1780
 
 ### Remarks
 null

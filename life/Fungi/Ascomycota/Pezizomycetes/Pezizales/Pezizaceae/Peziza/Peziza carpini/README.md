@@ -1,5 +1,4 @@
-Peziza carpini Batsch SPECIES
-=======
+# Peziza carpini Batsch SPECIES
 
 #### Status
 ACCEPTED

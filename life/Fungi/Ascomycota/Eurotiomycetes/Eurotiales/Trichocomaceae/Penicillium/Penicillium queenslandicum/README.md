@@ -1,5 +1,4 @@
-Penicillium queenslandicum Warcup SPECIES
-=======
+# Penicillium queenslandicum Warcup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roccellina inaequabilis Tehler SPECIES
-=======
+# Roccellina inaequabilis Tehler SPECIES
 
 #### Status
 ACCEPTED

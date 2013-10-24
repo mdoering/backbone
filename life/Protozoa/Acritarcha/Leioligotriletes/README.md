@@ -1,5 +1,4 @@
-Leioligotriletes Timofeev, 1958 GENUS
-=======
+# Leioligotriletes Timofeev, 1958 GENUS
 
 #### Status
 ACCEPTED

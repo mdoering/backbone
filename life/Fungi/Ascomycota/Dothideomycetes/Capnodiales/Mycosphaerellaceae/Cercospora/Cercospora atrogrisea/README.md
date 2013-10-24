@@ -1,5 +1,4 @@
-Cercospora atrogrisea Ellis & Everh. SPECIES
-=======
+# Cercospora atrogrisea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

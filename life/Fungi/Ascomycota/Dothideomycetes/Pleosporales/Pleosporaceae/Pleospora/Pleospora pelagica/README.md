@@ -1,5 +1,4 @@
-Pleospora pelagica T.W. Johnson, 1956 SPECIES
-=======
+# Pleospora pelagica T.W. Johnson, 1956 SPECIES
 
 #### Status
 ACCEPTED

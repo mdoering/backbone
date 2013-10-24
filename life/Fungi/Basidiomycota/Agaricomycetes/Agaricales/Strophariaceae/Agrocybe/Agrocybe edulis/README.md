@@ -1,5 +1,4 @@
-Agrocybe edulis (Peck) Watling SPECIES
-=======
+# Agrocybe edulis (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

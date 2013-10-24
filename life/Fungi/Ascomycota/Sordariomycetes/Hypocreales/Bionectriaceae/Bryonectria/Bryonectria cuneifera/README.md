@@ -1,5 +1,4 @@
-Bryonectria cuneifera var. cuneifera (Döbbeler) Döbbeler, 1998 VARIETY
-=======
+# Bryonectria cuneifera (Döbbeler) Döbbeler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Nova Hedwigia 66(3-4): 335 (1998)
 
 #### Original name
-Bryonectria cuneifera var. cuneifera (Döbbeler) Döbbeler, 1998
+Nectria cuneifera Döbbeler, 1978
 
 ### Remarks
 null

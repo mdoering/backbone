@@ -1,5 +1,4 @@
-Ktedonobacter GENUS
-=======
+# Ktedonobacter GENUS
 
 #### Status
 ACCEPTED

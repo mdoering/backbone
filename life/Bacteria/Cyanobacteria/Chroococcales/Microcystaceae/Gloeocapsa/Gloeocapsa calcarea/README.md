@@ -1,5 +1,4 @@
-Gloeocapsa calcarea Tilden SPECIES
-=======
+# Gloeocapsa calcarea Tilden SPECIES
 
 #### Status
 ACCEPTED

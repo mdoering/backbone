@@ -1,5 +1,4 @@
-Diaporthe mezerei Feltgen SPECIES
-=======
+# Diaporthe mezerei Feltgen SPECIES
 
 #### Status
 ACCEPTED

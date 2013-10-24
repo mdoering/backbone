@@ -1,5 +1,4 @@
-Difflugia kizakiensis Dai SPECIES
-=======
+# Difflugia kizakiensis Dai SPECIES
 
 #### Status
 ACCEPTED

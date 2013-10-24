@@ -1,5 +1,4 @@
-Clitocybe umbrinopurpurascens Maire SPECIES
-=======
+# Clitocybe umbrinopurpurascens Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces rubripes Thaxt. SPECIES
-=======
+# Stigmatomyces rubripes Thaxt. SPECIES
 
 #### Status
 ACCEPTED

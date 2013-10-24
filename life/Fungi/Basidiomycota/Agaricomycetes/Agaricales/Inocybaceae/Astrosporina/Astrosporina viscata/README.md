@@ -1,5 +1,4 @@
-Astrosporina viscata E. Horak, 1978 SPECIES
-=======
+# Astrosporina viscata E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

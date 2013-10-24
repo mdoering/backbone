@@ -1,5 +1,4 @@
-Tricholomopsis atrogrisea Pegler SPECIES
-=======
+# Tricholomopsis atrogrisea Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus ellisianus Berl. SPECIES
-=======
+# Ophiobolus ellisianus Berl. SPECIES
 
 #### Status
 ACCEPTED

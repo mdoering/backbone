@@ -1,5 +1,4 @@
-Cortinarius moneus anon. SPECIES
-=======
+# Cortinarius moneus anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Praesiderolites Wannier, 1983 GENUS
-=======
+# Praesiderolites Wannier, 1983 GENUS
 
 #### Status
 ACCEPTED

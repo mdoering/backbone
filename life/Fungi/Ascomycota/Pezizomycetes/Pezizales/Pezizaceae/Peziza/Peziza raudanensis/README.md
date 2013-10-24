@@ -1,5 +1,4 @@
-Peziza raudanensis Lecocq. {?} SPECIES
-=======
+# Peziza raudanensis Lecocq. {?} SPECIES
 
 #### Status
 ACCEPTED

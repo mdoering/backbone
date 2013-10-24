@@ -1,5 +1,4 @@
-Claudopus miraculosus E. Horak SPECIES
-=======
+# Claudopus miraculosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

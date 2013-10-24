@@ -1,5 +1,4 @@
-Boletus russellii Frost SPECIES
-=======
+# Boletus russellii Frost SPECIES
 
 #### Status
 ACCEPTED

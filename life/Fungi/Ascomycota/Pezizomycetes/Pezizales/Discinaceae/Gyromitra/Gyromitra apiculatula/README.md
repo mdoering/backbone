@@ -1,14 +1,13 @@
-Gyromitra apiculata (McKnight) Harmaja SPECIES
-=======
+# Gyromitra apiculatula (McKnight) Harmaja SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Travaux du Laboratoire de 'La Jaysinia' a Samoëns, Haute-Savoie 4: 104 (1972)
 
 #### Original name
 Discina apiculatula McKnight

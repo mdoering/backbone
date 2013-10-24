@@ -1,5 +1,4 @@
-Passalora polygonati (Rostr.) U. Braun & Crous SPECIES
-=======
+# Passalora polygonati (Rostr.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

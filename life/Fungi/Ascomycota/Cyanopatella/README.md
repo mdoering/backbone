@@ -1,5 +1,4 @@
-Cyanopatella Petr. GENUS
-=======
+# Cyanopatella Petr. GENUS
 
 #### Status
 ACCEPTED

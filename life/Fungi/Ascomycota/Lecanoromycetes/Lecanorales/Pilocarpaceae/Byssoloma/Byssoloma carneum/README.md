@@ -1,5 +1,4 @@
-Byssoloma carneum Rain. Schub., Greber & Lücking SPECIES
-=======
+# Byssoloma carneum Rain. Schub., Greber & Lücking SPECIES
 
 #### Status
 ACCEPTED

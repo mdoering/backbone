@@ -1,14 +1,13 @@
-Paraparmelia leucophaea Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia leucophaea (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 403 (1988)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia leucophaea Elix & J. Johnst.

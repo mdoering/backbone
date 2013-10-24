@@ -1,17 +1,16 @@
-Usteria Bat. & H. Maia GENUS
-=======
+# Mycousteria M.L. Farr GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anais Soc. Bot. Brasil 2: 357 (1962)
+Mycologia 78(2): 280 (1986)
 
 #### Original name
-Usteria Bat. & H. Maia
+Mycousteria M.L. Farr
 
 ### Remarks
 null

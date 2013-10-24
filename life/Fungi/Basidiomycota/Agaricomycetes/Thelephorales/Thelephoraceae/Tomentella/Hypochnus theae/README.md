@@ -1,5 +1,4 @@
-Hypochnus theae C. Bernard SPECIES
-=======
+# Hypochnus theae C. Bernard SPECIES
 
 #### Status
 ACCEPTED

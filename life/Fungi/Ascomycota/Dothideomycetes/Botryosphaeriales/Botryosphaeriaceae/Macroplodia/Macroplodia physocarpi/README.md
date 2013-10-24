@@ -1,5 +1,4 @@
-Macroplodia physocarpi (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia physocarpi (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema byssoideum M.L. Lohman SPECIES
-=======
+# Sphaeronaema byssoideum M.L. Lohman SPECIES
 
 #### Status
 ACCEPTED

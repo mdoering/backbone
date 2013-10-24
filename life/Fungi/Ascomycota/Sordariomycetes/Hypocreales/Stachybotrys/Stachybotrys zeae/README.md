@@ -1,5 +1,4 @@
-Stachybotrys zeae E.B.G. Jones & Karr SPECIES
-=======
+# Stachybotrys zeae E.B.G. Jones & Karr SPECIES
 
 #### Status
 ACCEPTED

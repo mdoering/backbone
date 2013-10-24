@@ -1,5 +1,4 @@
-Lloydella purpurea (Cooke & Morgan) Höhn. & Litsch. SPECIES
-=======
+# Lloydella purpurea (Cooke & Morgan) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

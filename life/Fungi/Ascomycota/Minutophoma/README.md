@@ -1,5 +1,4 @@
-Minutophoma D. Hawksw. GENUS
-=======
+# Minutophoma D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

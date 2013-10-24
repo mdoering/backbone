@@ -1,5 +1,4 @@
-Chaetosphaeria hispida Réblová & Seifert SPECIES
-=======
+# Chaetosphaeria hispida Réblová & Seifert SPECIES
 
 #### Status
 ACCEPTED

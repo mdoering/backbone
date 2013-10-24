@@ -1,5 +1,4 @@
-Perenniporia hexagonoides T. Hatt. & S.S. Lee, 1999 SPECIES
-=======
+# Perenniporia hexagonoides T. Hatt. & S.S. Lee, 1999 SPECIES
 
 #### Status
 ACCEPTED

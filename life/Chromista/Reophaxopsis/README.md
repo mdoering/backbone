@@ -1,5 +1,4 @@
-Reophaxopsis de Folin, 1887 GENUS
-=======
+# Reophaxopsis de Folin, 1887 GENUS
 
 #### Status
 ACCEPTED

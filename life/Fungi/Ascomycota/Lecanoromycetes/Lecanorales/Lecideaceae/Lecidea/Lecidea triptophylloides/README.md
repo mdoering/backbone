@@ -1,5 +1,4 @@
-Lecidea triptophylloides Nyl. SPECIES
-=======
+# Lecidea triptophylloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

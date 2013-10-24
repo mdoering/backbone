@@ -1,5 +1,4 @@
-Aschion pallidum Wallr. SPECIES
-=======
+# Aschion pallidum Wallr. SPECIES
 
 #### Status
 ACCEPTED

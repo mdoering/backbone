@@ -1,5 +1,4 @@
-Sulcatosphaeridium pilosellum N. Umnova, 1975 SPECIES
-=======
+# Sulcatosphaeridium pilosellum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

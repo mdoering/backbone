@@ -1,5 +1,4 @@
-Psora silenii (Vain.) Dombr. SPECIES
-=======
+# Psora silenii (Vain.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

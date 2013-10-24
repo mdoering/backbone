@@ -1,5 +1,4 @@
-Stictyosiphon charoides Zeller, 1876 SPECIES
-=======
+# Stictyosiphon charoides Zeller, 1876 SPECIES
 
 #### Status
 DOUBTFUL

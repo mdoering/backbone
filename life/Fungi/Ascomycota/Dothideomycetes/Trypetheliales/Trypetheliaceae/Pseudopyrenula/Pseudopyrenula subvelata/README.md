@@ -1,5 +1,4 @@
-Pseudopyrenula subvelata (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula subvelata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

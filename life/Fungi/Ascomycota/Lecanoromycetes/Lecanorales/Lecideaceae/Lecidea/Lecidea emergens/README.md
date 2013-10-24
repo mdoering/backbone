@@ -1,5 +1,4 @@
-Lecidea emergens Taylor SPECIES
-=======
+# Lecidea emergens Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaxteriella Petr. GENUS
-=======
+# Thaxteriella Petr. GENUS
 
 #### Status
 ACCEPTED

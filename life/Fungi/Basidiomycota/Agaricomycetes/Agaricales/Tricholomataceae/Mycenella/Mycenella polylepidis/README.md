@@ -1,5 +1,4 @@
-Mycenella polylepidis Singer SPECIES
-=======
+# Mycenella polylepidis Singer SPECIES
 
 #### Status
 ACCEPTED

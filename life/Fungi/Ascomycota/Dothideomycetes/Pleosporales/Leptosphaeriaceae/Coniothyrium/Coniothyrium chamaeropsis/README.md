@@ -1,5 +1,4 @@
-Coniothyrium chamaeropsis Sacc. & P. Syd. SPECIES
-=======
+# Coniothyrium chamaeropsis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

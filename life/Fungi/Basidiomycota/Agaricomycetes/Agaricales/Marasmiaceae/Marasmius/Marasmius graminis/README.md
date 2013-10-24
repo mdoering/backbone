@@ -1,5 +1,4 @@
-Marasmius graminis Murrill SPECIES
-=======
+# Marasmius graminis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus segregabilis Singer SPECIES
-=======
+# Marasmiellus segregabilis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius cauquenensis Garrido SPECIES
-=======
+# Cortinarius cauquenensis Garrido SPECIES
 
 #### Status
 ACCEPTED

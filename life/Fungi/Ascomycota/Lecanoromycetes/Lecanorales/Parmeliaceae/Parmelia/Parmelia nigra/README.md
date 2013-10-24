@@ -1,5 +1,4 @@
-Parmelia nigra Vain. SPECIES
-=======
+# Parmelia nigra Vain. SPECIES
 
 #### Status
 ACCEPTED

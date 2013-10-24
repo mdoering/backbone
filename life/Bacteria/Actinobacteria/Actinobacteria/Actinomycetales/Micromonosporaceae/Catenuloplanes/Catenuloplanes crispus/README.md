@@ -1,8 +1,7 @@
-Planopolyspora crispa Petrolini et al., 1993 SPECIES
-=======
+# Catenuloplanes crispus (Petrolini et al., 1993) Kudo et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

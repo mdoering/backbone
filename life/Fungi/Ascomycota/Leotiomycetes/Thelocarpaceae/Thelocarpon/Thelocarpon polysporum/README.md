@@ -1,5 +1,4 @@
-Thelocarpon polysporum (Tomin) Tomin SPECIES
-=======
+# Thelocarpon polysporum (Tomin) Tomin SPECIES
 
 #### Status
 ACCEPTED

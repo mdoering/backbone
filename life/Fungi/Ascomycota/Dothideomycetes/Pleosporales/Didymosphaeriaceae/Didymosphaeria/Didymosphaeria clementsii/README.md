@@ -1,5 +1,4 @@
-Didymosphaeria clementsii Sacc. & D. Sacc. SPECIES
-=======
+# Didymosphaeria clementsii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

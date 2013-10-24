@@ -1,5 +1,4 @@
-Aposphaeria schizothecioides (Preuss) Sacc. SPECIES
-=======
+# Aposphaeria schizothecioides (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber lutescens Lázaro Ibiza SPECIES
-=======
+# Tuber lutescens Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

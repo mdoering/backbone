@@ -1,5 +1,4 @@
-Phyllosticta tuzsonii Bubák SPECIES
-=======
+# Phyllosticta tuzsonii Bubák SPECIES
 
 #### Status
 ACCEPTED

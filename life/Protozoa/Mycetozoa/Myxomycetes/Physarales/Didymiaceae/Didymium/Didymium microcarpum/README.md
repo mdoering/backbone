@@ -1,5 +1,4 @@
-Didymium microcarpum (Fr.) Rostaf. SPECIES
-=======
+# Didymium microcarpum (Fr.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

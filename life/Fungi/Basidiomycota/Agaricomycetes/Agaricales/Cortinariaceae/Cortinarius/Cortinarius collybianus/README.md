@@ -1,5 +1,4 @@
-Cortinarius collybianus Soop, 2001 SPECIES
-=======
+# Cortinarius collybianus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

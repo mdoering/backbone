@@ -1,5 +1,4 @@
-Fomes brunneogriseus Pat. SPECIES
-=======
+# Fomes brunneogriseus Pat. SPECIES
 
 #### Status
 ACCEPTED

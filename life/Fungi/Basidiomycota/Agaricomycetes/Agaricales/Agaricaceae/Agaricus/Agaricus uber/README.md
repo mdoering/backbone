@@ -1,5 +1,4 @@
-Agaricus uber Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus uber Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium albiziae (Pat.) Pat. SPECIES
-=======
+# Graphium albiziae (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

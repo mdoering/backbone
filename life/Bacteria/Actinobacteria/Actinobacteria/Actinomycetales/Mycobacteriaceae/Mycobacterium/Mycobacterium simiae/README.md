@@ -1,5 +1,4 @@
-Mycobacterium simiae Karassova et al., 1965 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium simiae Karassova et al., 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

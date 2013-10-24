@@ -1,17 +1,16 @@
-Ombrophila lilacina var. lilacina VARIETY
-=======
+# Neobulgaria lilacina (Wulfen) Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 25(2): 346 (1971)
 
 #### Original name
-null
+Helvella lilacina Wulfen, 1786
 
 ### Remarks
 null

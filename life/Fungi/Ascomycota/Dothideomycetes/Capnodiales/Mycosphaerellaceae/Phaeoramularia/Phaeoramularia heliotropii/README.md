@@ -1,5 +1,4 @@
-Phaeoramularia heliotropii (Ellis & Everh.) N. Pons & B. Sutton SPECIES
-=======
+# Phaeoramularia heliotropii (Ellis & Everh.) N. Pons & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

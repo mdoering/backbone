@@ -1,5 +1,4 @@
-Lecanora substrobilina Printzen SPECIES
-=======
+# Lecanora substrobilina Printzen SPECIES
 
 #### Status
 ACCEPTED

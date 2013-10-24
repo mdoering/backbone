@@ -1,5 +1,4 @@
-Polyporus leucomallus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus leucomallus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

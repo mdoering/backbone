@@ -1,5 +1,4 @@
-Podospora leporina (Cain) Cain, 1962 SPECIES
-=======
+# Podospora leporina (Cain) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

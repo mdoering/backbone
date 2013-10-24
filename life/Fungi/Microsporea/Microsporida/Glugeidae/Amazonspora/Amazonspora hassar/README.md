@@ -1,5 +1,4 @@
-Amazonspora hassar C. Azevedo & E. Matos SPECIES
-=======
+# Amazonspora hassar C. Azevedo & E. Matos SPECIES
 
 #### Status
 ACCEPTED

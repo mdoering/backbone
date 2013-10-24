@@ -1,5 +1,4 @@
-Finkia Vainio, 1929 GENUS
-=======
+# Finkia Vainio, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina disciforme (Fr.) Kuntze SPECIES
-=======
+# Calycina disciforme (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

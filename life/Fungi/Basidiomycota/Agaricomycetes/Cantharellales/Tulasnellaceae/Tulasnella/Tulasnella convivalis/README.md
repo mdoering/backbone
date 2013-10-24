@@ -1,5 +1,4 @@
-Tulasnella convivalis Trichiès SPECIES
-=======
+# Tulasnella convivalis Trichiès SPECIES
 
 #### Status
 ACCEPTED

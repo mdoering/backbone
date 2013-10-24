@@ -1,5 +1,4 @@
-Evittia geometrica Playford in Playford & Dring, 1981 SPECIES
-=======
+# Evittia geometrica Playford in Playford & Dring, 1981 SPECIES
 
 #### Status
 ACCEPTED

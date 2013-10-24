@@ -1,5 +1,4 @@
-Ellipsagelosphaera plena Grün & Zweili, 1980 SPECIES
-=======
+# Ellipsagelosphaera plena Grün & Zweili, 1980 SPECIES
 
 #### Status
 DOUBTFUL

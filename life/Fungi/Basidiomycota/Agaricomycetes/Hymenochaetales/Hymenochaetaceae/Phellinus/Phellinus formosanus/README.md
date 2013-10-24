@@ -1,5 +1,4 @@
-Phellinus formosanus T.T. Chang & W.N. Chou SPECIES
-=======
+# Phellinus formosanus T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

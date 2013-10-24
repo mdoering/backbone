@@ -1,5 +1,4 @@
-Perezia pyraustae Vaillot SPECIES
-=======
+# Perezia pyraustae Vaillot SPECIES
 
 #### Status
 ACCEPTED

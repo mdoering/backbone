@@ -1,5 +1,4 @@
-Desulfovibrio sapovorans Widdel, 1981 SPECIES
-=======
+# Desulfovibrio sapovorans Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

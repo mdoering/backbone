@@ -1,5 +1,4 @@
-Mycosphaerella nigrificata (Fautrey & Roum.) Lavrov SPECIES
-=======
+# Mycosphaerella nigrificata (Fautrey & Roum.) Lavrov SPECIES
 
 #### Status
 ACCEPTED

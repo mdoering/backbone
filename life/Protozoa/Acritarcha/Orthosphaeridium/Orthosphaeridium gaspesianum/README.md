@@ -1,5 +1,4 @@
-Orthosphaeridium gaspesianum Martin, 1980 SPECIES
-=======
+# Orthosphaeridium gaspesianum Martin, 1980 SPECIES
 
 #### Status
 ACCEPTED

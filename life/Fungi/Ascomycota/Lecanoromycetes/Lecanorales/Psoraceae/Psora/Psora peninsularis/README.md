@@ -1,5 +1,4 @@
-Psora peninsularis Timdal SPECIES
-=======
+# Psora peninsularis Timdal SPECIES
 
 #### Status
 ACCEPTED

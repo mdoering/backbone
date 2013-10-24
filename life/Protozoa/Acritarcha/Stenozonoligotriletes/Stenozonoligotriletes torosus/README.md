@@ -1,5 +1,4 @@
-Stenozonoligotriletes torosus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes torosus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

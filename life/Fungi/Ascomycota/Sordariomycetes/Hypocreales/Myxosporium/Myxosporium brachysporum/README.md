@@ -1,5 +1,4 @@
-Myxosporium brachysporum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Myxosporium brachysporum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

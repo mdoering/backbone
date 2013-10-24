@@ -1,5 +1,4 @@
-Agaricus crocosporus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus crocosporus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

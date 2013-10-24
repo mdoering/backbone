@@ -1,17 +1,16 @@
-Entoloma malençonii Vila & Llimona SPECIES
-=======
+# Entoloma malenconii Vila & Llimona SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista Catalana de Micologia 24: 97 (2002)
 
 #### Original name
-Entoloma malençonii Vila & Llimona
+Entoloma malenconii Vila & Llimona
 
 ### Remarks
 null

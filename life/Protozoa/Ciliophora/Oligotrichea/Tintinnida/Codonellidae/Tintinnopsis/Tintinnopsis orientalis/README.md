@@ -1,5 +1,4 @@
-Tintinnopsis orientalis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis orientalis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

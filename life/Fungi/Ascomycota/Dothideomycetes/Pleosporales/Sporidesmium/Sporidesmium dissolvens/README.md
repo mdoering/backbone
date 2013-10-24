@@ -1,5 +1,4 @@
-Sporidesmium dissolvens Hol.-Jech., Mercado & J. Mena SPECIES
-=======
+# Sporidesmium dissolvens Hol.-Jech., Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

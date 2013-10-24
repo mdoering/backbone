@@ -1,5 +1,4 @@
-Macrosporium hypoxidis Cif. & Gonz. Frag. SPECIES
-=======
+# Macrosporium hypoxidis Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

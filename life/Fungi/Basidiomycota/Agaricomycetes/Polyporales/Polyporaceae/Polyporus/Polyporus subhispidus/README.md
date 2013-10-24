@@ -1,5 +1,4 @@
-Polyporus subhispidus Lloyd SPECIES
-=======
+# Polyporus subhispidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

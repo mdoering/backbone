@@ -1,5 +1,4 @@
-Torrubiella clavata Samson & H.C. Evans, 1992 SPECIES
-=======
+# Torrubiella clavata Samson & H.C. Evans, 1992 SPECIES
 
 #### Status
 ACCEPTED

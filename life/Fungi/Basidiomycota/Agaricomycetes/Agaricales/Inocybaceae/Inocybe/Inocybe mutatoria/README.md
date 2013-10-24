@@ -1,5 +1,4 @@
-Inocybe mutatoria (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe mutatoria (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

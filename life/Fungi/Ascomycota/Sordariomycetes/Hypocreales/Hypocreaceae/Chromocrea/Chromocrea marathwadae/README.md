@@ -1,17 +1,16 @@
-Chromocrea marathwadi Tilak & Gaikwad SPECIES
-=======
+# Chromocrea marathwadae Tilak & Gaikwad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 42(1): 42 (1978)
 
 #### Original name
-Chromocrea marathwadi Tilak & Gaikwad
+Chromocrea marathwadae Tilak & Gaikwad
 
 ### Remarks
 null

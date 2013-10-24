@@ -1,5 +1,4 @@
-Trichodina partidisci Lom, 1962 SPECIES
-=======
+# Trichodina partidisci Lom, 1962 SPECIES
 
 #### Status
 ACCEPTED

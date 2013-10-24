@@ -1,5 +1,4 @@
-Corticium sphaerosporum SPECIES
-=======
+# Corticium sphaerosporum SPECIES
 
 #### Status
 ACCEPTED

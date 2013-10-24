@@ -1,5 +1,4 @@
-Staurancistra Haeckel, 1881 GENUS
-=======
+# Staurancistra Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

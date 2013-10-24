@@ -1,5 +1,4 @@
-Graphium samogiticum Motiej. & Alstrup SPECIES
-=======
+# Graphium samogiticum Motiej. & Alstrup SPECIES
 
 #### Status
 ACCEPTED

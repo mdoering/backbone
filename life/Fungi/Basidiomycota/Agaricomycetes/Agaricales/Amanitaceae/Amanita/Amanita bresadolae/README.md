@@ -1,5 +1,4 @@
-Amanita bresadolae Schulzer SPECIES
-=======
+# Amanita bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

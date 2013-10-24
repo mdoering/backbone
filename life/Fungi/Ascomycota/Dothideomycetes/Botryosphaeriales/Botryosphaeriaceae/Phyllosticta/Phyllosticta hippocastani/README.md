@@ -1,5 +1,4 @@
-Phyllosticta hippocastani Oudem. SPECIES
-=======
+# Phyllosticta hippocastani Oudem. SPECIES
 
 #### Status
 ACCEPTED

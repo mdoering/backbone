@@ -1,5 +1,4 @@
-Tricholoma mongolicum S. Imai SPECIES
-=======
+# Tricholoma mongolicum S. Imai SPECIES
 
 #### Status
 ACCEPTED

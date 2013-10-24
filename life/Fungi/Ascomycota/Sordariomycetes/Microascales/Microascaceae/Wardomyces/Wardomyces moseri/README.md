@@ -1,5 +1,4 @@
-Wardomyces moseri W. Gams, 1995 SPECIES
-=======
+# Wardomyces moseri W. Gams, 1995 SPECIES
 
 #### Status
 ACCEPTED

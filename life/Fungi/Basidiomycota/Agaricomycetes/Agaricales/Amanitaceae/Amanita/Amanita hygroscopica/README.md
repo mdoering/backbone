@@ -1,5 +1,4 @@
-Amanita hygroscopica Coker SPECIES
-=======
+# Amanita hygroscopica Coker SPECIES
 
 #### Status
 ACCEPTED

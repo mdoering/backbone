@@ -1,5 +1,4 @@
-Haliphormis Ehrenberg, 1847 GENUS
-=======
+# Haliphormis Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

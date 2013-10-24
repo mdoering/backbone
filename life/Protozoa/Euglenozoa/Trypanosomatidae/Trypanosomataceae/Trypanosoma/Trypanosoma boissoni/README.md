@@ -1,5 +1,4 @@
-Trypanosoma boissoni SPECIES
-=======
+# Trypanosoma boissoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirottaea paupercula Nannf., 1985 SPECIES
-=======
+# Pirottaea paupercula Nannf., 1985 SPECIES
 
 #### Status
 ACCEPTED

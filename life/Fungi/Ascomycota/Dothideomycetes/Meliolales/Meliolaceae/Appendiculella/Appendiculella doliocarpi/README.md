@@ -1,5 +1,4 @@
-Appendiculella doliocarpi Hansf. SPECIES
-=======
+# Appendiculella doliocarpi Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichormus arvensis (C. B. Rao) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus arvensis (C. B. Rao) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

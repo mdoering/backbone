@@ -1,5 +1,4 @@
-Lachnum uliginosum Raitv. SPECIES
-=======
+# Lachnum uliginosum Raitv. SPECIES
 
 #### Status
 ACCEPTED

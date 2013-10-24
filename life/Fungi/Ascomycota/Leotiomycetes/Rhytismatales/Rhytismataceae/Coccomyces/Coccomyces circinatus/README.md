@@ -1,5 +1,4 @@
-Coccomyces circinatus Y.R. Lin & C.T. Xiang, 2000 SPECIES
-=======
+# Coccomyces circinatus Y.R. Lin & C.T. Xiang, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletinus pictus (Peck) Peck. SPECIES
-=======
+# Boletinus pictus (Peck) Peck. SPECIES
 
 #### Status
 ACCEPTED

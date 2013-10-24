@@ -1,5 +1,4 @@
-Puccinia lycoridicola Hirats. f. & Hara SPECIES
-=======
+# Puccinia lycoridicola Hirats. f. & Hara SPECIES
 
 #### Status
 ACCEPTED

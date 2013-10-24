@@ -1,5 +1,4 @@
-Aecidium thermarum Dietel & Neger SPECIES
-=======
+# Aecidium thermarum Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

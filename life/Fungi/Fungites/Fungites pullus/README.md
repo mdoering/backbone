@@ -1,5 +1,4 @@
-Fungites pullus Casp. & R. Klebs SPECIES
-=======
+# Fungites pullus Casp. & R. Klebs SPECIES
 
 #### Status
 ACCEPTED

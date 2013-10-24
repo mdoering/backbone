@@ -1,5 +1,4 @@
-Staurodruppa Hinde, 1899 GENUS
-=======
+# Staurodruppa Hinde, 1899 GENUS
 
 #### Status
 ACCEPTED

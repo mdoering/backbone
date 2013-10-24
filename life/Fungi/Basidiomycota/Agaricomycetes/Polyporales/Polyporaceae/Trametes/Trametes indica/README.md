@@ -1,5 +1,4 @@
-Trametes indica Virdi SPECIES
-=======
+# Trametes indica Virdi SPECIES
 
 #### Status
 ACCEPTED

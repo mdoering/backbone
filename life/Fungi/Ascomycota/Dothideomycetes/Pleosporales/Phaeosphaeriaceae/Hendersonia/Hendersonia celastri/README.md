@@ -1,5 +1,4 @@
-Hendersonia celastri H.S. Yates SPECIES
-=======
+# Hendersonia celastri H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

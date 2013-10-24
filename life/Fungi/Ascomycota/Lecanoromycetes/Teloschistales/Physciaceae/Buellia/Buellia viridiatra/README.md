@@ -1,5 +1,4 @@
-Buellia viridiatra (Wulfen) H. Olivier SPECIES
-=======
+# Buellia viridiatra (Wulfen) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

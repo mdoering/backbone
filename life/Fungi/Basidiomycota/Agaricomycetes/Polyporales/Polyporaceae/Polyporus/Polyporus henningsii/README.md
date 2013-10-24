@@ -1,5 +1,4 @@
-Polyporus henningsii Bres. SPECIES
-=======
+# Polyporus henningsii Bres. SPECIES
 
 #### Status
 ACCEPTED

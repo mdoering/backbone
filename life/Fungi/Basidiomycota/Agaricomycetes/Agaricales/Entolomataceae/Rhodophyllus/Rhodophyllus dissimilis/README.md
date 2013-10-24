@@ -1,5 +1,4 @@
-Rhodophyllus dissimilis var. dissimilis VARIETY
-=======
+# Rhodophyllus dissimilis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 342 (1969)
 
 #### Original name
-Rhodophyllus dissimilis var. dissimilis
+Rhodophyllus dissimilis Singer
 
 ### Remarks
 null

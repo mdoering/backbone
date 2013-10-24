@@ -1,5 +1,4 @@
-Coprinus fallax M. Lange & A.H. Sm. SPECIES
-=======
+# Coprinus fallax M. Lange & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

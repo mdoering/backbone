@@ -1,5 +1,4 @@
-Cytospora truncata Sacc. SPECIES
-=======
+# Cytospora truncata Sacc. SPECIES
 
 #### Status
 ACCEPTED

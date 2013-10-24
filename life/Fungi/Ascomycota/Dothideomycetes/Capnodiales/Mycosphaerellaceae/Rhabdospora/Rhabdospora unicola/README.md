@@ -1,5 +1,4 @@
-Rhabdospora unicola Bubák SPECIES
-=======
+# Rhabdospora unicola Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxyporus neotropicus Ryvarden, 2004 SPECIES
-=======
+# Oxyporus neotropicus Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton arthonioides Nyl. SPECIES
-=======
+# Chiodecton arthonioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

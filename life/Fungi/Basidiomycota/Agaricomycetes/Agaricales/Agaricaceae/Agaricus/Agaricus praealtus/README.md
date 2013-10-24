@@ -1,5 +1,4 @@
-Agaricus praealtus O.F. Müll. SPECIES
-=======
+# Agaricus praealtus O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

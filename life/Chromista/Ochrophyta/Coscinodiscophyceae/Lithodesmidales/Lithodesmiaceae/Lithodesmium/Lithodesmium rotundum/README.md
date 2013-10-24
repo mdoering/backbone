@@ -1,5 +1,4 @@
-Lithodesmium rotundum H. J. Schrader SPECIES
-=======
+# Lithodesmium rotundum H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

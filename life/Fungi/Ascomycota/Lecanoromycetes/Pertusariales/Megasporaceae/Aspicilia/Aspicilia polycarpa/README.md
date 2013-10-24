@@ -1,5 +1,4 @@
-Aspicilia polycarpa (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia polycarpa (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

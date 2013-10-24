@@ -1,5 +1,4 @@
-Placodium miniatum (Hoffm.) Frege SPECIES
-=======
+# Placodium miniatum (Hoffm.) Frege SPECIES
 
 #### Status
 ACCEPTED

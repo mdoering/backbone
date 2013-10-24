@@ -1,5 +1,4 @@
-Usnea persoonii Motyka SPECIES
-=======
+# Usnea persoonii Motyka SPECIES
 
 #### Status
 ACCEPTED

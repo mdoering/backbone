@@ -1,5 +1,4 @@
-Tyromyces bambusicola Corner SPECIES
-=======
+# Tyromyces bambusicola Corner SPECIES
 
 #### Status
 ACCEPTED

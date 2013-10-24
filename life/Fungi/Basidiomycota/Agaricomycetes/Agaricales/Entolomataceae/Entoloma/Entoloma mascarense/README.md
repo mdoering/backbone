@@ -1,5 +1,4 @@
-Entoloma mascarense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma mascarense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

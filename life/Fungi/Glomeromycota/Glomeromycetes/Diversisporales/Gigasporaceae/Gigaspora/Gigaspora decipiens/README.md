@@ -1,5 +1,4 @@
-Gigaspora decipiens I.R. Hall & L.K. Abbott, 1984 SPECIES
-=======
+# Gigaspora decipiens I.R. Hall & L.K. Abbott, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus anacoelus A. Stokes SPECIES
-=======
+# Phacus anacoelus A. Stokes SPECIES
 
 #### Status
 ACCEPTED

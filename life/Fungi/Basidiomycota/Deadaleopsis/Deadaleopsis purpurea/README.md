@@ -1,5 +1,4 @@
-Deadaleopsis purpurea (Cke.) Imaz & Aoshi. SPECIES
-=======
+# Deadaleopsis purpurea (Cke.) Imaz & Aoshi. SPECIES
 
 #### Status
 ACCEPTED

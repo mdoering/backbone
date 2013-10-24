@@ -1,5 +1,4 @@
-Boletus buxeus Rostk. SPECIES
-=======
+# Boletus buxeus Rostk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia vossii Keissl. SPECIES
-=======
+# Hendersonia vossii Keissl. SPECIES
 
 #### Status
 ACCEPTED

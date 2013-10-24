@@ -1,5 +1,4 @@
-Conocladium GENUS
-=======
+# Conocladium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurera ostendata (Kremp.) Zahlbr. SPECIES
-=======
+# Laurera ostendata (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

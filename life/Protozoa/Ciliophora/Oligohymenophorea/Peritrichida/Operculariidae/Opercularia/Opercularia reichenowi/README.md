@@ -1,5 +1,4 @@
-Opercularia reichenowi SPECIES
-=======
+# Opercularia reichenowi SPECIES
 
 #### Status
 ACCEPTED

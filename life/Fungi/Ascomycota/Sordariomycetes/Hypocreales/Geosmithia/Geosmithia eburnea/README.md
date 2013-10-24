@@ -1,5 +1,4 @@
-Geosmithia eburnea Yaguchi, Someya & Udagawa, 1994 SPECIES
-=======
+# Geosmithia eburnea Yaguchi, Someya & Udagawa, 1994 SPECIES
 
 #### Status
 ACCEPTED

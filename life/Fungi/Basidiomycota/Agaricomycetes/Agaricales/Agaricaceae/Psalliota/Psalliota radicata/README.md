@@ -1,5 +1,4 @@
-Psalliota radicata var. radicata VARIETY
-=======
+# Psalliota radicata anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psalliota radicata var. radicata
+Psalliota radicata anon.
 
 ### Remarks
 null

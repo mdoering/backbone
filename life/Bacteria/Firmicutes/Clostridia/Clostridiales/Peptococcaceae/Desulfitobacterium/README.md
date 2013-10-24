@@ -1,5 +1,4 @@
-Desulfitobacterium Utkin, Woese & Wiegel, 1994 GENUS
-=======
+# Desulfitobacterium Utkin, Woese & Wiegel, 1994 GENUS
 
 #### Status
 ACCEPTED

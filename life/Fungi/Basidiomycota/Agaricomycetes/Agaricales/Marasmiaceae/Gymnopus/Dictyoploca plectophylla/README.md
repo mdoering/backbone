@@ -1,5 +1,4 @@
-Dictyoploca plectophylla (Mont.) Dennis SPECIES
-=======
+# Dictyoploca plectophylla (Mont.) Dennis SPECIES
 
 #### Status
 ACCEPTED

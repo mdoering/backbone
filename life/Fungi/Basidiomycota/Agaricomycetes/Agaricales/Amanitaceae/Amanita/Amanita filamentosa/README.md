@@ -1,5 +1,4 @@
-Amanita filamentosa Lam. SPECIES
-=======
+# Amanita filamentosa Lam. SPECIES
 
 #### Status
 ACCEPTED

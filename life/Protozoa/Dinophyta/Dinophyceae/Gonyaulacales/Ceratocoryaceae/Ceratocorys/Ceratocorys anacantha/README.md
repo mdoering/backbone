@@ -1,5 +1,4 @@
-Ceratocorys anacantha M. C. Carbonell-Moore SPECIES
-=======
+# Ceratocorys anacantha M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

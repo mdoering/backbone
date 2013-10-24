@@ -1,5 +1,4 @@
-Chaetomium circinans Wallr. SPECIES
-=======
+# Chaetomium circinans Wallr. SPECIES
 
 #### Status
 ACCEPTED

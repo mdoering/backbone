@@ -1,5 +1,4 @@
-Glaziella sulphurea Pat. SPECIES
-=======
+# Glaziella sulphurea Pat. SPECIES
 
 #### Status
 ACCEPTED

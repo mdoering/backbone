@@ -1,5 +1,4 @@
-Pottsia Chatton & Lwoff, 1927 GENUS
-=======
+# Pottsia Chatton & Lwoff, 1927 GENUS
 
 #### Status
 ACCEPTED

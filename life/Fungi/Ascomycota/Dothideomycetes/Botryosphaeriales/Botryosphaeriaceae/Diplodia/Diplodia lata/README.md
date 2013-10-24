@@ -1,5 +1,4 @@
-Diplodia lata Cooke & Harkn. SPECIES
-=======
+# Diplodia lata Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus sublevisporus Someya, Yaguchi & Udagawa SPECIES
-=======
+# Aspergillus sublevisporus Someya, Yaguchi & Udagawa SPECIES
 
 #### Status
 ACCEPTED

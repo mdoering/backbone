@@ -1,5 +1,4 @@
-Teloschistes acromelus (Pers.) Vain. SPECIES
-=======
+# Teloschistes acromelus (Pers.) Vain. SPECIES
 
 #### Status
 ACCEPTED

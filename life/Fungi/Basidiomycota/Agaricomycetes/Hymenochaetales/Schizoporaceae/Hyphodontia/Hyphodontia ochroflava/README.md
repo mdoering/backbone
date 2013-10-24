@@ -1,14 +1,13 @@
-Hydnum ochroflavum Pat., 1923 SPECIES
-=======
+# Hyphodontia ochroflava (Pat.) Nakasone, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Mus. Nat. Hist. Nat. 29: 337 (1923)
+Cryptog. Mycol. 24(2): 138 (2003)
 
 #### Original name
 Hydnum ochroflavum Pat., 1923

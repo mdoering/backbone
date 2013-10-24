@@ -1,5 +1,4 @@
-Sagedia illinata Körb. SPECIES
-=======
+# Sagedia illinata Körb. SPECIES
 
 #### Status
 ACCEPTED

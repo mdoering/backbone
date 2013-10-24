@@ -1,5 +1,4 @@
-Melanaria phaeosporina (Zahlbr.) I.M. Lamb SPECIES
-=======
+# Melanaria phaeosporina (Zahlbr.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

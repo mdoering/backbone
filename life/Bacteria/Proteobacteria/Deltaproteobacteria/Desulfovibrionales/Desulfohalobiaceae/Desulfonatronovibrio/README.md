@@ -1,5 +1,4 @@
-Desulfonatronovibrio Zhilina, Zavarzin, Rainey, Pikuta, Osipov & Kostrikina, 1997 GENUS
-=======
+# Desulfonatronovibrio Zhilina, Zavarzin, Rainey, Pikuta, Osipov & Kostrikina, 1997 GENUS
 
 #### Status
 ACCEPTED

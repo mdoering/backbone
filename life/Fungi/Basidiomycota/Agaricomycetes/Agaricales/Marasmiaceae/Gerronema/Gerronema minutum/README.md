@@ -1,5 +1,4 @@
-Gerronema minutum (Singer) Singer & Digilio SPECIES
-=======
+# Gerronema minutum (Singer) Singer & Digilio SPECIES
 
 #### Status
 ACCEPTED

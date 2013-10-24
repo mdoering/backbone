@@ -1,5 +1,4 @@
-Botrytis hormini Farneti SPECIES
-=======
+# Botrytis hormini Farneti SPECIES
 
 #### Status
 ACCEPTED

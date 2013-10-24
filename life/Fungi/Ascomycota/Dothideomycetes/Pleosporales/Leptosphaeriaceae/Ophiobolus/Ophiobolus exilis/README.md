@@ -1,5 +1,4 @@
-Ophiobolus exilis (Ces.) Sacc. SPECIES
-=======
+# Ophiobolus exilis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

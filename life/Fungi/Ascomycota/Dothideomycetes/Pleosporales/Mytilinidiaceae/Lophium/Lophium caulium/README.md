@@ -1,5 +1,4 @@
-Lophium caulium P. Crouan & H. Crouan SPECIES
-=======
+# Lophium caulium P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

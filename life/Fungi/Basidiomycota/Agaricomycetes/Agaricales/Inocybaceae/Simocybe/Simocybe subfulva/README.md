@@ -1,5 +1,4 @@
-Simocybe subfulva (Cleland) E. Horak SPECIES
-=======
+# Simocybe subfulva (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

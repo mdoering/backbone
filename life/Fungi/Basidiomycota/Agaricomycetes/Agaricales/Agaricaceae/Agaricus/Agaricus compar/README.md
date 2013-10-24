@@ -1,5 +1,4 @@
-Agaricus compar Weinm. SPECIES
-=======
+# Agaricus compar Weinm. SPECIES
 
 #### Status
 ACCEPTED

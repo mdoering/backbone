@@ -1,5 +1,4 @@
-Entyloma medicaginis Vánky, 2002 SPECIES
-=======
+# Entyloma medicaginis Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entophysalis robusta Chu SPECIES
-=======
+# Entophysalis robusta Chu SPECIES
 
 #### Status
 ACCEPTED

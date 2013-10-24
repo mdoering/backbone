@@ -1,5 +1,4 @@
-Arrhenia pubescentipes (H.E. Bigelow) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
-=======
+# Arrhenia pubescentipes (H.E. Bigelow) Redhead, Lutzoni, Moncalvo & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

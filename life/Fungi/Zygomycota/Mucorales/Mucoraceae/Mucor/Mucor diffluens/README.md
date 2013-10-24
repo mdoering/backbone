@@ -1,5 +1,4 @@
-Mucor diffluens Sorokin SPECIES
-=======
+# Mucor diffluens Sorokin SPECIES
 
 #### Status
 ACCEPTED

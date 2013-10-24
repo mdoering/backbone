@@ -1,5 +1,4 @@
-Barlaea globulosa (Quél.) Sacc. SPECIES
-=======
+# Barlaea globulosa (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

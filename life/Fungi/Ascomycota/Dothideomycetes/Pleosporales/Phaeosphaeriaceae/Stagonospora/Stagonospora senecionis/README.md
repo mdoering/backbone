@@ -1,5 +1,4 @@
-Stagonospora senecionis Sacc. SPECIES
-=======
+# Stagonospora senecionis Sacc. SPECIES
 
 #### Status
 ACCEPTED

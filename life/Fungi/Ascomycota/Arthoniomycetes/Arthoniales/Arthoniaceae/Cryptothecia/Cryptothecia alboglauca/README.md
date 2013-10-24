@@ -1,5 +1,4 @@
-Cryptothecia alboglauca Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
-=======
+# Cryptothecia alboglauca Jagadeesh, G. P. Sinha & Kr. P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sachybotrys charatum (Ehrenb.) Hughes SPECIES
-=======
+# Sachybotrys charatum (Ehrenb.) Hughes SPECIES
 
 #### Status
 ACCEPTED

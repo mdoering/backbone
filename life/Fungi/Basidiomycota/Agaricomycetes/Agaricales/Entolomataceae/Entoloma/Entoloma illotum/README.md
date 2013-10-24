@@ -1,5 +1,4 @@
-Entoloma illotum Corner & E. Horak SPECIES
-=======
+# Entoloma illotum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

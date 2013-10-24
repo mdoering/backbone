@@ -1,5 +1,4 @@
-Filaspora hamata (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Filaspora hamata (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

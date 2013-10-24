@@ -1,14 +1,13 @@
-Glabrocyphella stercoraria Barrasa, Esteve-Rav. & Sánchez Nieto, 1998 SPECIES
-=======
+# Arrhenia stercoraria (Barrasa, Esteve-Rav. & Sánchez Nieto) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Barrasa, Esteve-Raventós, Sánchez, Bodensteiner & Agerer, Mycol. Res. 102(10): 1265 (1998)
+Mycotaxon 83: 48 (2002)
 
 #### Original name
 Glabrocyphella stercoraria Barrasa, Esteve-Rav. & Sánchez Nieto, 1998

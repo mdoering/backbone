@@ -1,8 +1,7 @@
-Clavulinoides Cushman, 1936 GENUS
-=======
+# Pseudoclavulina Cushman, 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Thelephora spongipes Sacc. SPECIES
-=======
+# Thelephora spongipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

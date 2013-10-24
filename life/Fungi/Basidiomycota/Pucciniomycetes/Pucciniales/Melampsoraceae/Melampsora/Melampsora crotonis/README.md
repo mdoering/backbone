@@ -1,5 +1,4 @@
-Melampsora crotonis Burrill SPECIES
-=======
+# Melampsora crotonis Burrill SPECIES
 
 #### Status
 ACCEPTED

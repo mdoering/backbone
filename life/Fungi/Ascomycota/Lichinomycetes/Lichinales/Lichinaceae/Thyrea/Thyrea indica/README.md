@@ -1,5 +1,4 @@
-Thyrea indica D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Thyrea indica D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

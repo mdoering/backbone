@@ -1,5 +1,4 @@
-Xerocomus silwoodensis A.E. Hills, U. Eberh. & A.F.S. Taylor, 2007 SPECIES
-=======
+# Xerocomus silwoodensis A.E. Hills, U. Eberh. & A.F.S. Taylor, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma thesii Wehm. SPECIES
-=======
+# Phoma thesii Wehm. SPECIES
 
 #### Status
 ACCEPTED

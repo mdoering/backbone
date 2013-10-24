@@ -1,5 +1,4 @@
-Melanoleuca roseobrunnea Murrill SPECIES
-=======
+# Melanoleuca roseobrunnea Murrill SPECIES
 
 #### Status
 ACCEPTED

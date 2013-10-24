@@ -1,5 +1,4 @@
-Clitocybe subinversa Murrill SPECIES
-=======
+# Clitocybe subinversa Murrill SPECIES
 
 #### Status
 ACCEPTED

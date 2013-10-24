@@ -1,17 +1,16 @@
-Cercosporella pantoleuca var. santonensis Brunaud VARIETY
-=======
+# Cercosporella pantoleuca Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi italica 17-28: tab. 679 (1881)
 
 #### Original name
-Cercosporella pantoleuca var. santonensis Brunaud
+Cercosporella pantoleuca Sacc., 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella morierei (Crié) Sacc. SPECIES
-=======
+# Sphaerella morierei (Crié) Sacc. SPECIES
 
 #### Status
 ACCEPTED

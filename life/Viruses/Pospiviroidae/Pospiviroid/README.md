@@ -1,5 +1,4 @@
-Pospiviroid: GENUS
-=======
+# Pospiviroid: GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia cinereoplumbea Harm. SPECIES
-=======
+# Parmelia cinereoplumbea Harm. SPECIES
 
 #### Status
 ACCEPTED

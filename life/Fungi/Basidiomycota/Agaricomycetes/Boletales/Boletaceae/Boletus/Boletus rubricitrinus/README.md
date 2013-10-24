@@ -1,5 +1,4 @@
-Boletus rubricitrinus (Murrill) Murrill SPECIES
-=======
+# Boletus rubricitrinus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

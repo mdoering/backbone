@@ -1,5 +1,4 @@
-Pluricellaesporites Hammen GENUS
-=======
+# Pluricellaesporites Hammen GENUS
 
 #### Status
 ACCEPTED

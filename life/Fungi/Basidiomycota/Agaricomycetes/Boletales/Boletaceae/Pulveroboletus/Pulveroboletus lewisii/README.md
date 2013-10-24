@@ -1,5 +1,4 @@
-Pulveroboletus lewisii Singer ex Both SPECIES
-=======
+# Pulveroboletus lewisii Singer ex Both SPECIES
 
 #### Status
 ACCEPTED

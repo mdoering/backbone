@@ -1,5 +1,4 @@
-Disciseda pedicellata (Morgan) Hollós SPECIES
-=======
+# Disciseda pedicellata (Morgan) Hollós SPECIES
 
 #### Status
 ACCEPTED

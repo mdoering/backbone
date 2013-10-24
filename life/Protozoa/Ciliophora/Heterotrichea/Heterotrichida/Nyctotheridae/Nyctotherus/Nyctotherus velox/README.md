@@ -1,8 +1,7 @@
-Nyctitherus velox Leidy, 1849 SPECIES
-=======
+# Nyctotherus velox Leidy, 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

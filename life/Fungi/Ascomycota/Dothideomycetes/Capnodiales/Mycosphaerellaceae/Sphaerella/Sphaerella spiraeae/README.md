@@ -1,5 +1,4 @@
-Sphaerella spiraeae Westend. ex Roum. SPECIES
-=======
+# Sphaerella spiraeae Westend. ex Roum. SPECIES
 
 #### Status
 ACCEPTED

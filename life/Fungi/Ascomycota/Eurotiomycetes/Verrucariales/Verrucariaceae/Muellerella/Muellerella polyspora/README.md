@@ -1,5 +1,4 @@
-Muellerella polyspora Hepp ex Müll. Arg. SPECIES
-=======
+# Muellerella polyspora Hepp ex Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

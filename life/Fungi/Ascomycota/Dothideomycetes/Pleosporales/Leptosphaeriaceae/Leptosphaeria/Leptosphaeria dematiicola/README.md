@@ -1,5 +1,4 @@
-Leptosphaeria dematiicola Kirschst. SPECIES
-=======
+# Leptosphaeria dematiicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

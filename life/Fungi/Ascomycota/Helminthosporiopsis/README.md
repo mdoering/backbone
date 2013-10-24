@@ -1,5 +1,4 @@
-Helminthosporiopsis Speg. GENUS
-=======
+# Helminthosporiopsis Speg. GENUS
 
 #### Status
 ACCEPTED

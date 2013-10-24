@@ -1,5 +1,4 @@
-Inocybe pargasensis Vauras SPECIES
-=======
+# Inocybe pargasensis Vauras SPECIES
 
 #### Status
 ACCEPTED

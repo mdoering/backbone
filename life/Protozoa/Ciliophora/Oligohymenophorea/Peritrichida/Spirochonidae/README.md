@@ -1,5 +1,4 @@
-Spirochonidae Stein, 1854 FAMILY
-=======
+# Spirochonidae Stein, 1854 FAMILY
 
 #### Status
 ACCEPTED

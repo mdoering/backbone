@@ -1,5 +1,4 @@
-Psathyrella jalapensis (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella jalapensis (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

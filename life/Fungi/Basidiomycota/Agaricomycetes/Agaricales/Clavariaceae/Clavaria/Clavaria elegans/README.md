@@ -1,5 +1,4 @@
-Clavaria elegans Bolton SPECIES
-=======
+# Clavaria elegans Bolton SPECIES
 
 #### Status
 ACCEPTED

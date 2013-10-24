@@ -1,5 +1,4 @@
-Psathyra diffusa (Batsch) Lapl. SPECIES
-=======
+# Psathyra diffusa (Batsch) Lapl. SPECIES
 
 #### Status
 ACCEPTED

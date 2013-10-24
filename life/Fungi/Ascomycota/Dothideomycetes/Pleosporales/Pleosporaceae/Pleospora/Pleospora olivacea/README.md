@@ -1,5 +1,4 @@
-Pleospora olivacea McAlpine SPECIES
-=======
+# Pleospora olivacea McAlpine SPECIES
 
 #### Status
 ACCEPTED

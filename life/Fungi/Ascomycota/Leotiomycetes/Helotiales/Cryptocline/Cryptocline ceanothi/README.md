@@ -1,5 +1,4 @@
-Cryptocline ceanothi (H.C. Greene) Arx SPECIES
-=======
+# Cryptocline ceanothi (H.C. Greene) Arx SPECIES
 
 #### Status
 ACCEPTED

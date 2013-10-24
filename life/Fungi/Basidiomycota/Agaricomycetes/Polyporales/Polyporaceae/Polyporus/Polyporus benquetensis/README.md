@@ -1,5 +1,4 @@
-Polyporus benquetensis Murrill SPECIES
-=======
+# Polyporus benquetensis Murrill SPECIES
 
 #### Status
 ACCEPTED

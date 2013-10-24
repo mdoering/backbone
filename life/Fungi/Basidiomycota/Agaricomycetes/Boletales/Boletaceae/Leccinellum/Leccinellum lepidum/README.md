@@ -1,14 +1,13 @@
-Boletus lepidus H. Bouchet ex Essette, 1965 SPECIES
-=======
+# Leccinellum lepidum (H. Bouchet ex Essette) Bresinsky & Manfr. Binder, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 80(4, Suppl. Atlas): pl. 147 (1965)
+in Bresinsky & Besl, Regensb. Mykol. Schr. 11: 233 (2003)
 
 #### Original name
 Boletus lepidus H. Bouchet ex Essette, 1965

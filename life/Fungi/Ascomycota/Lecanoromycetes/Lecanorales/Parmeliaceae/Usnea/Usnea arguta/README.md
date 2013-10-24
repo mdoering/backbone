@@ -1,5 +1,4 @@
-Usnea arguta Motyka SPECIES
-=======
+# Usnea arguta Motyka SPECIES
 
 #### Status
 ACCEPTED

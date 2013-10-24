@@ -1,5 +1,4 @@
-Ramaria cokeri R.H. Petersen SPECIES
-=======
+# Ramaria cokeri R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

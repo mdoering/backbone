@@ -1,5 +1,4 @@
-Psilocybe castaneicolor Murrill SPECIES
-=======
+# Psilocybe castaneicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

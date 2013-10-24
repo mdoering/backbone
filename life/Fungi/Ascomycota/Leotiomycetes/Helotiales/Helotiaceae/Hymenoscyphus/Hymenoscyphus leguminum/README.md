@@ -1,5 +1,4 @@
-Hymenoscyphus leguminum (Schwein.) Kuntze SPECIES
-=======
+# Hymenoscyphus leguminum (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

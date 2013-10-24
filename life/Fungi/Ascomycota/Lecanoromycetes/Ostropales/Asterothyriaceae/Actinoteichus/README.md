@@ -1,5 +1,4 @@
-Actinoteichus GENUS
-=======
+# Actinoteichus GENUS
 
 #### Status
 ACCEPTED

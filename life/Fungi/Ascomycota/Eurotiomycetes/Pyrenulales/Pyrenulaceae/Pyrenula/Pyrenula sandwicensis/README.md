@@ -1,5 +1,4 @@
-Pyrenula sandwicensis Zahlbr. SPECIES
-=======
+# Pyrenula sandwicensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

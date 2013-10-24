@@ -1,5 +1,4 @@
-Physarum equatorisporium Hooff & Nann.-Bremek. SPECIES
-=======
+# Physarum equatorisporium Hooff & Nann.-Bremek. SPECIES
 
 #### Status
 ACCEPTED

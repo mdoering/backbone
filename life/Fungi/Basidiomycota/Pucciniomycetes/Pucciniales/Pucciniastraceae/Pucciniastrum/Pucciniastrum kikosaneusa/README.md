@@ -1,5 +1,4 @@
-Pucciniastrum kikosaneusa Hirats. SPECIES
-=======
+# Pucciniastrum kikosaneusa Hirats. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexaspyris Haeckel, 1887 GENUS
-=======
+# Hexaspyris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

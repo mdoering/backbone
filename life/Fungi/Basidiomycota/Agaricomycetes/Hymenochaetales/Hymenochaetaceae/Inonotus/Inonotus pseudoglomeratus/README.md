@@ -1,5 +1,4 @@
-Inonotus pseudoglomeratus Ryvarden, 2002 SPECIES
-=======
+# Inonotus pseudoglomeratus Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

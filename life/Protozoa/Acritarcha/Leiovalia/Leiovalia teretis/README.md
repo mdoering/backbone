@@ -1,5 +1,4 @@
-Leiovalia teretis (Loeblich, 1970 ex Eisenack et al., 1979) Loeblich & Tappan, 1978 SPECIES
-=======
+# Leiovalia teretis (Loeblich, 1970 ex Eisenack et al., 1979) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

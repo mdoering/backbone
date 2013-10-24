@@ -1,5 +1,4 @@
-Phyllosticta arenariae Nelen SPECIES
-=======
+# Phyllosticta arenariae Nelen SPECIES
 
 #### Status
 ACCEPTED

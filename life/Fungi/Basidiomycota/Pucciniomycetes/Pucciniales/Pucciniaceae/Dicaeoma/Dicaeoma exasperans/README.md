@@ -1,5 +1,4 @@
-Dicaeoma exasperans (Holw.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma exasperans (Holw.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

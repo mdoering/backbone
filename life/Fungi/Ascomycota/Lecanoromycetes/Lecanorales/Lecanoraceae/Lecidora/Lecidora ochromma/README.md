@@ -1,5 +1,4 @@
-Lecidora ochromma (Nyl.) Motyka SPECIES
-=======
+# Lecidora ochromma (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

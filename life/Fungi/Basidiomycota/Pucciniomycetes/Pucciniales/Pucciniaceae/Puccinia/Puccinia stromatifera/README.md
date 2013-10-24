@@ -1,5 +1,4 @@
-Puccinia stromatifera J.F. Hennen, León-Gall. & Cummins SPECIES
-=======
+# Puccinia stromatifera J.F. Hennen, León-Gall. & Cummins SPECIES
 
 #### Status
 ACCEPTED

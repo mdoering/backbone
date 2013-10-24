@@ -1,5 +1,4 @@
-Sphaerella hyalospora (Ces.) Ces. & De Not. SPECIES
-=======
+# Sphaerella hyalospora (Ces.) Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

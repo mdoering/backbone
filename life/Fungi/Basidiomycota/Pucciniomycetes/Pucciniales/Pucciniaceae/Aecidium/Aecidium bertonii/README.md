@@ -1,5 +1,4 @@
-Aecidium bertonii Speg. SPECIES
-=======
+# Aecidium bertonii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triangulina F.H. Cramer, 1964 GENUS
-=======
+# Triangulina F.H. Cramer, 1964 GENUS
 
 #### Status
 ACCEPTED

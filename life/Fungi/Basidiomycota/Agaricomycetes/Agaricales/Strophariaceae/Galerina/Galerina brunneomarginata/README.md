@@ -1,8 +1,7 @@
-Galerina brunneimarginata (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina brunneomarginata (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

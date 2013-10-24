@@ -1,5 +1,4 @@
-Psathyrella pampeana Speg. SPECIES
-=======
+# Psathyrella pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

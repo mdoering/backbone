@@ -1,5 +1,4 @@
-Discosia grammita Berk. & M.A. Curtis SPECIES
-=======
+# Discosia grammita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

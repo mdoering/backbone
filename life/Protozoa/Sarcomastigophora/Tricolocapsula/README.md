@@ -1,5 +1,4 @@
-Tricolocapsula Haeckel, 1887 GENUS
-=======
+# Tricolocapsula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

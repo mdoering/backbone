@@ -1,5 +1,4 @@
-Cortinarius pallidulus Rob. Henry SPECIES
-=======
+# Cortinarius pallidulus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

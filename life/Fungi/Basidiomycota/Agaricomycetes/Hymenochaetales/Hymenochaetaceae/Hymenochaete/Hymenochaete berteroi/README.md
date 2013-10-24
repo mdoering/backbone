@@ -1,5 +1,4 @@
-Hymenochaete berteroi Pat., 1894 SPECIES
-=======
+# Hymenochaete berteroi Pat., 1894 SPECIES
 
 #### Status
 ACCEPTED

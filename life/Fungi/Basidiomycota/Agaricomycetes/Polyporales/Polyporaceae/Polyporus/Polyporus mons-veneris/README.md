@@ -1,5 +1,4 @@
-Polyporus mons-veneris Jungh. SPECIES
-=======
+# Polyporus mons-veneris Jungh. SPECIES
 
 #### Status
 ACCEPTED

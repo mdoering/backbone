@@ -1,5 +1,4 @@
-Pseudocercospora ehretiae-thyrsiflorae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora ehretiae-thyrsiflorae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

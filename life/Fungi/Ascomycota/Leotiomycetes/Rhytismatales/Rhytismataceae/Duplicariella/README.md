@@ -1,5 +1,4 @@
-Duplicariella B. Erikss. GENUS
-=======
+# Duplicariella B. Erikss. GENUS
 
 #### Status
 ACCEPTED

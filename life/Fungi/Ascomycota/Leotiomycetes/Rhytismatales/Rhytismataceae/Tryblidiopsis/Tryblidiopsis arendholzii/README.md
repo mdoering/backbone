@@ -1,5 +1,4 @@
-Tryblidiopsis arendholzii R. Sharma SPECIES
-=======
+# Tryblidiopsis arendholzii R. Sharma SPECIES
 
 #### Status
 ACCEPTED

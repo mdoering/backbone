@@ -1,5 +1,4 @@
-Pleuroascus punctatus (Panas.) Lodha SPECIES
-=======
+# Pleuroascus punctatus (Panas.) Lodha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxobaktron usterianum Schmidle SPECIES
-=======
+# Myxobaktron usterianum Schmidle SPECIES
 
 #### Status
 ACCEPTED

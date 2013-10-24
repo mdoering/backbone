@@ -1,5 +1,4 @@
-Erysiphe nothofagi (Thaxt.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe nothofagi (Thaxt.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

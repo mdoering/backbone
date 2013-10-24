@@ -1,5 +1,4 @@
-Pleospora armeriae (Corda) Ces. & De Not., 1863 SPECIES
-=======
+# Pleospora armeriae (Corda) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED

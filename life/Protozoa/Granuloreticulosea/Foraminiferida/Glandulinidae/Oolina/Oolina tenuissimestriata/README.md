@@ -1,5 +1,4 @@
-Oolina tenuissimestriata (Schubert) SPECIES
-=======
+# Oolina tenuissimestriata (Schubert) SPECIES
 
 #### Status
 ACCEPTED

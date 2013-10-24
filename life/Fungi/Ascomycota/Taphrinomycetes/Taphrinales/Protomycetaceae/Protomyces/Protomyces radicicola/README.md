@@ -1,5 +1,4 @@
-Protomyces radicicola Zopf SPECIES
-=======
+# Protomyces radicicola Zopf SPECIES
 
 #### Status
 ACCEPTED

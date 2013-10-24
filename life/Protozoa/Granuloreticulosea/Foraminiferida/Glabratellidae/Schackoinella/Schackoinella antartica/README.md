@@ -1,5 +1,4 @@
-Schackoinella antartica Ward, 1988 SPECIES
-=======
+# Schackoinella antartica Ward, 1988 SPECIES
 
 #### Status
 ACCEPTED

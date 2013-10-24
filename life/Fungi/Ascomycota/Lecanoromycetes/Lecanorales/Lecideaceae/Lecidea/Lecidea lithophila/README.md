@@ -1,17 +1,16 @@
-Lecidea lithophila f. lithophila FORM
-=======
+# Lecidea lithophila (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Lich. 14 (1814)
 
 #### Original name
-Lecidea lithophila f. lithophila
+Lecidea lapicida var. lithophila Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chroococcus deltoides J. Komárek & E. Novelo SPECIES
-=======
+# Chroococcus deltoides J. Komárek & E. Novelo SPECIES
 
 #### Status
 ACCEPTED

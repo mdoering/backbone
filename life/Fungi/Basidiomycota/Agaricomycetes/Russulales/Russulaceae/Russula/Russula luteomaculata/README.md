@@ -1,5 +1,4 @@
-Russula luteomaculata Buyck SPECIES
-=======
+# Russula luteomaculata Buyck SPECIES
 
 #### Status
 ACCEPTED

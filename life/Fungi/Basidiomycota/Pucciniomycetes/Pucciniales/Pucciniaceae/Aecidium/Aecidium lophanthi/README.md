@@ -1,5 +1,4 @@
-Aecidium lophanthi Henn. SPECIES
-=======
+# Aecidium lophanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

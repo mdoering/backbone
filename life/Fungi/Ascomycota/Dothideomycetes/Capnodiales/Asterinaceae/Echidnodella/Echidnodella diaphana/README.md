@@ -1,5 +1,4 @@
-Echidnodella diaphana Toro SPECIES
-=======
+# Echidnodella diaphana Toro SPECIES
 
 #### Status
 ACCEPTED

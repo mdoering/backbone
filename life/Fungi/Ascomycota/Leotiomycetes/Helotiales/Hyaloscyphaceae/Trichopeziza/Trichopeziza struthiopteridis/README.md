@@ -1,5 +1,4 @@
-Trichopeziza struthiopteridis (Saut.) Sacc. SPECIES
-=======
+# Trichopeziza struthiopteridis (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

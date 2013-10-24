@@ -1,5 +1,4 @@
-Phaeobacter Martens et al., 2006 GENUS
-=======
+# Phaeobacter Martens et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia kitajimana Ito {?} & Hosaka {?} SPECIES
-=======
+# Sclerotinia kitajimana Ito {?} & Hosaka {?} SPECIES
 
 #### Status
 ACCEPTED

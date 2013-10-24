@@ -1,8 +1,7 @@
-Proteonina longicollis f. minor Rhumbler, 1935 FORM
-=======
+# Reophax longicollis (Wiesner, 1931) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Physarum hongkongense Chao H. Chung, 1997 SPECIES
-=======
+# Physarum hongkongense Chao H. Chung, 1997 SPECIES
 
 #### Status
 ACCEPTED

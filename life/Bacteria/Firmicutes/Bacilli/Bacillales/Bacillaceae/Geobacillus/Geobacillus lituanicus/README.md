@@ -1,5 +1,4 @@
-Geobacillus lituanicus Kuisiene et al., 2004 SPECIES
-=======
+# Geobacillus lituanicus Kuisiene et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropisphaera jigongshanica W.Y. Zhuang & Y. Nong SPECIES
-=======
+# Hydropisphaera jigongshanica W.Y. Zhuang & Y. Nong SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium diornamentum Rasul, 1979 SPECIES
-=======
+# Micrhystridium diornamentum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

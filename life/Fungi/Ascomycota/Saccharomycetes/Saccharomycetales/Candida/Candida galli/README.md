@@ -1,5 +1,4 @@
-Candida galli G. Péter, Dlauchy, Vasdinyei, Tornai-Leh. & T. Deák SPECIES
-=======
+# Candida galli G. Péter, Dlauchy, Vasdinyei, Tornai-Leh. & T. Deák SPECIES
 
 #### Status
 ACCEPTED

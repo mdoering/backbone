@@ -1,5 +1,4 @@
-Penicillium virididorsum Biourge SPECIES
-=======
+# Penicillium virididorsum Biourge SPECIES
 
 #### Status
 ACCEPTED

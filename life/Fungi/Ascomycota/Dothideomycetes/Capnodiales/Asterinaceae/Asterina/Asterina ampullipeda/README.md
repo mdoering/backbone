@@ -1,5 +1,4 @@
-Asterina ampullipeda Speg. SPECIES
-=======
+# Asterina ampullipeda Speg. SPECIES
 
 #### Status
 ACCEPTED

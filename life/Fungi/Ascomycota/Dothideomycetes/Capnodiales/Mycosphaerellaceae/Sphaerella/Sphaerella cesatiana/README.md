@@ -1,5 +1,4 @@
-Sphaerella cesatiana Speg. SPECIES
-=======
+# Sphaerella cesatiana Speg. SPECIES
 
 #### Status
 ACCEPTED

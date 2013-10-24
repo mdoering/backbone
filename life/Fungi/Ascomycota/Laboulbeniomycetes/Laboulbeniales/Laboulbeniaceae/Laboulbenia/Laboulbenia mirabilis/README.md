@@ -1,5 +1,4 @@
-Laboulbenia mirabilis Speg. SPECIES
-=======
+# Laboulbenia mirabilis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globofissurella Patterson, 1986 GENUS
-=======
+# Globofissurella Patterson, 1986 GENUS
 
 #### Status
 ACCEPTED

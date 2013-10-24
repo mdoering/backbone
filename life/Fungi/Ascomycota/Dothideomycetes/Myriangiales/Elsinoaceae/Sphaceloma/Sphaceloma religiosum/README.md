@@ -1,5 +1,4 @@
-Sphaceloma religiosum Pavgi & U.P. Singh SPECIES
-=======
+# Sphaceloma religiosum Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

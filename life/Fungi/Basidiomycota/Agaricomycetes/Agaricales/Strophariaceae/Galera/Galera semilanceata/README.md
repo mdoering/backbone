@@ -1,5 +1,4 @@
-Galera semilanceata Peck SPECIES
-=======
+# Galera semilanceata Peck SPECIES
 
 #### Status
 ACCEPTED

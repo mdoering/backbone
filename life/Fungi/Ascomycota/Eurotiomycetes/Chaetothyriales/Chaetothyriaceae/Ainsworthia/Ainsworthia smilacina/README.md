@@ -1,5 +1,4 @@
-Ainsworthia smilacina Bat. & A.F. Vital SPECIES
-=======
+# Ainsworthia smilacina Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

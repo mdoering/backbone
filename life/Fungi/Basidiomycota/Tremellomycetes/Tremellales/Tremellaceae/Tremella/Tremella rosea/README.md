@@ -1,5 +1,4 @@
-Tremella rosea Höhn. SPECIES
-=======
+# Tremella rosea Höhn. SPECIES
 
 #### Status
 ACCEPTED

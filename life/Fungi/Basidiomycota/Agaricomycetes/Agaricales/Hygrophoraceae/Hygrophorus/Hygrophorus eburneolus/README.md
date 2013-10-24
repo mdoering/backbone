@@ -1,5 +1,4 @@
-Hygrophorus eburneolus Britzelm. SPECIES
-=======
+# Hygrophorus eburneolus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pezizella brassicaecola (Berk.) Sacc. SPECIES
-=======
+# Pezizella brassicicola (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

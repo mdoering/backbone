@@ -1,5 +1,4 @@
-Thelephora brunneoviolacea Beeli, 1927 SPECIES
-=======
+# Thelephora brunneoviolacea Beeli, 1927 SPECIES
 
 #### Status
 ACCEPTED

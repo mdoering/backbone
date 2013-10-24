@@ -1,5 +1,4 @@
-Thelidium brasiliense var. sublaevata (Müll. Arg.) VARIETY
-=======
+# Thelidium brasiliense (Müll. Arg.) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Verrucaria brasiliensis Müll. Arg.
 
 ### Remarks
 null

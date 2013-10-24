@@ -1,5 +1,4 @@
-Microthyriella gigantospora Hansf. SPECIES
-=======
+# Microthyriella gigantospora Hansf. SPECIES
 
 #### Status
 ACCEPTED

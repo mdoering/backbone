@@ -1,5 +1,4 @@
-Ptychographomyces xylographoidis Cif. & Tomas. SPECIES
-=======
+# Ptychographomyces xylographoidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrolonchidium Haeckel, 1887 GENUS
-=======
+# Astrolonchidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

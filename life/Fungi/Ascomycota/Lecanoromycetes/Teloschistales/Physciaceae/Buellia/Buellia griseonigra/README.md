@@ -1,5 +1,4 @@
-Buellia griseonigra (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia griseonigra (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

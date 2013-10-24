@@ -1,5 +1,4 @@
-Phomopsis christianicola (Bat.) Vanev & Aa SPECIES
-=======
+# Phomopsis christianicola (Bat.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

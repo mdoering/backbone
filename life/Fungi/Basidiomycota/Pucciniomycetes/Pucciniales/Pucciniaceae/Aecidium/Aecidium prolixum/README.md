@@ -1,5 +1,4 @@
-Aecidium prolixum Syd., 1921 SPECIES
-=======
+# Aecidium prolixum Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

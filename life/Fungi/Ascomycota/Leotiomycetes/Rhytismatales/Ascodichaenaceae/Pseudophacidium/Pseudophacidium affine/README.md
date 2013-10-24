@@ -1,5 +1,4 @@
-Pseudophacidium affine (Sacc. & Paol.) Sacc. SPECIES
-=======
+# Pseudophacidium affine (Sacc. & Paol.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia viridifusca Clemente SPECIES
-=======
+# Parmelia viridifusca Clemente SPECIES
 
 #### Status
 ACCEPTED

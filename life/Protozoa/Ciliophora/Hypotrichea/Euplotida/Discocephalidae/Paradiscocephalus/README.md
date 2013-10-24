@@ -1,5 +1,4 @@
-Paradiscocephalus Li, Shao, Yi, Song, Warren, Al-Rasheid, Al-Farraj, Al-Quraishy, Zhang, Hu, Zhu & Ma, 2009 GENUS
-=======
+# Paradiscocephalus Li, Shao, Yi, Song, Warren, Al-Rasheid, Al-Farraj, Al-Quraishy, Zhang, Hu, Zhu & Ma, 2009 GENUS
 
 #### Status
 ACCEPTED

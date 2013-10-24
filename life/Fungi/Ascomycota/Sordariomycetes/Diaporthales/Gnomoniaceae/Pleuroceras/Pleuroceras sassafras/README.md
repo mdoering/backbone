@@ -1,5 +1,4 @@
-Pleuroceras sassafras (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Pleuroceras sassafras (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

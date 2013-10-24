@@ -1,5 +1,4 @@
-Cercoseptoria zingiberis Rathaiah SPECIES
-=======
+# Cercoseptoria zingiberis Rathaiah SPECIES
 
 #### Status
 ACCEPTED

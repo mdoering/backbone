@@ -1,17 +1,16 @@
-Pertusaria wulfenii var. wulfenii VARIETY
-=======
+# Pertusaria hymenea (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 320 (1805)
+Lich. helv. spicil. 7(7): 353 (1836)
 
 #### Original name
-Pertusaria wulfenii var. wulfenii
+Thelotrema hymeneum
 
 ### Remarks
 null

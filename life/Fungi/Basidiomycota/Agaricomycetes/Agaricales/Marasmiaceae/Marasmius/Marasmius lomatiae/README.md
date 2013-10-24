@@ -1,5 +1,4 @@
-Marasmius lomatiae Singer SPECIES
-=======
+# Marasmius lomatiae Singer SPECIES
 
 #### Status
 ACCEPTED

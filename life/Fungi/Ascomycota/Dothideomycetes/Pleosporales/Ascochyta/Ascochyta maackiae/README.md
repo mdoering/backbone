@@ -1,5 +1,4 @@
-Ascochyta maackiae J.D. Sun & J.K. Bai SPECIES
-=======
+# Ascochyta maackiae J.D. Sun & J.K. Bai SPECIES
 
 #### Status
 ACCEPTED

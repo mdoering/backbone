@@ -1,5 +1,4 @@
-Rhabdospora tabacco Fautrey SPECIES
-=======
+# Rhabdospora tabacco Fautrey SPECIES
 
 #### Status
 ACCEPTED

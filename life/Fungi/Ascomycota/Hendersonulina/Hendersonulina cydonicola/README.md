@@ -1,5 +1,4 @@
-Hendersonulina cydonicola (Thüm. & Pass.) Tassi SPECIES
-=======
+# Hendersonulina cydonicola (Thüm. & Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

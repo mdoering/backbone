@@ -1,5 +1,4 @@
-Lichen crustaceus Gilib. SPECIES
-=======
+# Lichen crustaceus Gilib. SPECIES
 
 #### Status
 ACCEPTED

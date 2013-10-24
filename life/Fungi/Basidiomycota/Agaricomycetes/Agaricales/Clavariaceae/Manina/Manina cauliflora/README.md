@@ -1,5 +1,4 @@
-Manina cauliflora Scop. SPECIES
-=======
+# Manina cauliflora Scop. SPECIES
 
 #### Status
 ACCEPTED

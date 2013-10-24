@@ -1,5 +1,4 @@
-Trypanosoma delagei Brumpt & Lebailly, 1904 SPECIES
-=======
+# Trypanosoma delagei Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

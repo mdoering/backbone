@@ -1,17 +1,16 @@
-Hypoxylon lamprostomum (Syd. & P. Syd.) P.M.D. Martin SPECIES
-=======
+# Whalleya microplaca (Berk. & M.A. Curtis) J.D. Rogers, Y.M. Ju & F. San Martín, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 64: 48 (1997)
 
 #### Original name
-Nummularia lamprostoma Syd. & P. Syd., 1920
+Diatrype microplaca Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

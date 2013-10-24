@@ -1,14 +1,13 @@
-Cintractia spadicea Liro, 1935 SPECIES
-=======
+# Stegocintractia spadicea (Liro) M. Piepenbr. & Begerow, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 6(1): 4 (1935)
+in Piepenbring, Nova Hedwigia 70(3-4): 325 (2000)
 
 #### Original name
 Cintractia spadicea Liro, 1935

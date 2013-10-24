@@ -1,5 +1,4 @@
-Amphoridium stenosporum (Servít) J. Nowak & Tobol. SPECIES
-=======
+# Amphoridium stenosporum (Servít) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

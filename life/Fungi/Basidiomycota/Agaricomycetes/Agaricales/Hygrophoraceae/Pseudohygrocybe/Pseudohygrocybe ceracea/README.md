@@ -1,5 +1,4 @@
-Pseudohygrocybe ceracea (Sowerby) Kovalenko SPECIES
-=======
+# Pseudohygrocybe ceracea (Sowerby) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

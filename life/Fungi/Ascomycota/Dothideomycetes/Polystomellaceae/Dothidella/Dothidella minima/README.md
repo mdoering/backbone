@@ -1,5 +1,4 @@
-Dothidella minima Sacc. & P. Syd. SPECIES
-=======
+# Dothidella minima Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

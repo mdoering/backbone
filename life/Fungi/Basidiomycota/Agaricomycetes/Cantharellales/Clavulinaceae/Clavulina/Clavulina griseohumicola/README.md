@@ -1,5 +1,4 @@
-Clavulina griseohumicola T.W. Henkel, Meszaros & Aime, 2005 SPECIES
-=======
+# Clavulina griseohumicola T.W. Henkel, Meszaros & Aime, 2005 SPECIES
 
 #### Status
 ACCEPTED

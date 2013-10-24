@@ -1,5 +1,4 @@
-Euglena elongata Schewiakoff SPECIES
-=======
+# Euglena elongata Schewiakoff SPECIES
 
 #### Status
 ACCEPTED

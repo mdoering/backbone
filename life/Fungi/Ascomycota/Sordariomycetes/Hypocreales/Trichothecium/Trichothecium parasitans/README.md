@@ -1,5 +1,4 @@
-Trichothecium parasitans Corda SPECIES
-=======
+# Trichothecium parasitans Corda SPECIES
 
 #### Status
 ACCEPTED

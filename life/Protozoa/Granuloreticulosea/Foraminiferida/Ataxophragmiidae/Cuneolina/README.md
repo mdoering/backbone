@@ -1,5 +1,4 @@
-Cuneolina d'Orbigny, 1839 GENUS
-=======
+# Cuneolina d'Orbigny, 1839 GENUS
 
 #### Status
 ACCEPTED

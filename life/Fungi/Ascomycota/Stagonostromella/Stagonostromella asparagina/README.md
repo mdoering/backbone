@@ -1,5 +1,4 @@
-Stagonostromella asparagina S. Ahmad SPECIES
-=======
+# Stagonostromella asparagina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea mesomela Nyl. SPECIES
-=======
+# Lecidea mesomela Nyl. SPECIES
 
 #### Status
 ACCEPTED

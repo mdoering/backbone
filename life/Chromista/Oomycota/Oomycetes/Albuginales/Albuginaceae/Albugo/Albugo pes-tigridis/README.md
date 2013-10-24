@@ -1,5 +1,4 @@
-Albugo pes-tigridis Gharse SPECIES
-=======
+# Albugo pes-tigridis Gharse SPECIES
 
 #### Status
 ACCEPTED

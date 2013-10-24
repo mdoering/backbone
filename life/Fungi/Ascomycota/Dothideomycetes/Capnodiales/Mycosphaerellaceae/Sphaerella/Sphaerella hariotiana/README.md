@@ -1,5 +1,4 @@
-Sphaerella hariotiana Speg. SPECIES
-=======
+# Sphaerella hariotiana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoeucyrtis paskentaensis SPECIES
-=======
+# Pseudoeucyrtis paskentaensis SPECIES
 
 #### Status
 ACCEPTED

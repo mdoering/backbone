@@ -1,5 +1,4 @@
-Lecidora anoptoides (Nyl.) Motyka SPECIES
-=======
+# Lecidora anoptoides (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

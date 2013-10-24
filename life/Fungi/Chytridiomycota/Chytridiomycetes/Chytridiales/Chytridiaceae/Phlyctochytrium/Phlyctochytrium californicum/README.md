@@ -1,5 +1,4 @@
-Phlyctochytrium californicum D.J.S. Barr, 1969 SPECIES
-=======
+# Phlyctochytrium californicum D.J.S. Barr, 1969 SPECIES
 
 #### Status
 ACCEPTED

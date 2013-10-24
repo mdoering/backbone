@@ -1,5 +1,4 @@
-Meliola reticulata P. Karst. & Roum. SPECIES
-=======
+# Meliola reticulata P. Karst. & Roum. SPECIES
 
 #### Status
 ACCEPTED

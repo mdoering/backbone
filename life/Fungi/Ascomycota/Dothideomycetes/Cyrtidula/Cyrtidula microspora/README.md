@@ -1,5 +1,4 @@
-Cyrtidula microspora Minks SPECIES
-=======
+# Cyrtidula microspora Minks SPECIES
 
 #### Status
 ACCEPTED

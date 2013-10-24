@@ -1,5 +1,4 @@
-Fromea fragilis (Cookson & Eisenack, 1962) Stover & Evitt, 1978 SPECIES
-=======
+# Fromea fragilis (Cookson & Eisenack, 1962) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

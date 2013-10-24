@@ -1,5 +1,4 @@
-Leptorhaphis contorta Degel. SPECIES
-=======
+# Leptorhaphis contorta Degel. SPECIES
 
 #### Status
 ACCEPTED

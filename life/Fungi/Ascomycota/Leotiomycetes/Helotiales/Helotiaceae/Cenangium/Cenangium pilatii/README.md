@@ -1,5 +1,4 @@
-Cenangium pilatii Velen. SPECIES
-=======
+# Cenangium pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

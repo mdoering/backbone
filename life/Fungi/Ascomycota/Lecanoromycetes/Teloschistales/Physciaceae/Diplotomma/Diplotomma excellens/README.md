@@ -1,5 +1,4 @@
-Diplotomma excellens (H. Magn.) Szatala SPECIES
-=======
+# Diplotomma excellens (H. Magn.) Szatala SPECIES
 
 #### Status
 ACCEPTED

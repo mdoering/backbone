@@ -1,5 +1,4 @@
-Coleroa rhododendri Rehm SPECIES
-=======
+# Coleroa rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

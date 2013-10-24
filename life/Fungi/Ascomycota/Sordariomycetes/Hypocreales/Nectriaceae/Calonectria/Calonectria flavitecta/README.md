@@ -1,5 +1,4 @@
-Calonectria flavitecta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Calonectria flavitecta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

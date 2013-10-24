@@ -1,5 +1,4 @@
-Xylosphaera smilacicola (Speg.) Dennis SPECIES
-=======
+# Xylosphaera smilacicola (Speg.) Dennis SPECIES
 
 #### Status
 ACCEPTED

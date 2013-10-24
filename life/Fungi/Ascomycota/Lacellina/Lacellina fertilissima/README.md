@@ -1,5 +1,4 @@
-Lacellina fertilissima R.Y. Roy & B. Rai SPECIES
-=======
+# Lacellina fertilissima R.Y. Roy & B. Rai SPECIES
 
 #### Status
 ACCEPTED

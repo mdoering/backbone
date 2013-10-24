@@ -1,17 +1,16 @@
-Mollisia graminea var. graminea VARIETY
-=======
+# Belonopsis graminea (P. Karst.) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 19: 199 (1871)
+Syll. fung. (Abellini) 16: 753 (1902)
 
 #### Original name
-Mollisia graminea var. graminea
+Mollisia graminea P. Karst., 1871
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptococcus liquefaciens (Saito & M. Ota) Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus liquefaciens (Saito & M. Ota) Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

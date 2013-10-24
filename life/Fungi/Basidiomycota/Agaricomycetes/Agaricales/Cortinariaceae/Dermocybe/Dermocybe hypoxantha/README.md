@@ -1,5 +1,4 @@
-Dermocybe hypoxantha E. Horak SPECIES
-=======
+# Dermocybe hypoxantha E. Horak SPECIES
 
 #### Status
 ACCEPTED

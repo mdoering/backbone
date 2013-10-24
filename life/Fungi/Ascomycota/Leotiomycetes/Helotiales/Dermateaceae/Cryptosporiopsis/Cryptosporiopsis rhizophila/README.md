@@ -1,5 +1,4 @@
-Cryptosporiopsis rhizophila Verkley & Zijlstra SPECIES
-=======
+# Cryptosporiopsis rhizophila Verkley & Zijlstra SPECIES
 
 #### Status
 ACCEPTED

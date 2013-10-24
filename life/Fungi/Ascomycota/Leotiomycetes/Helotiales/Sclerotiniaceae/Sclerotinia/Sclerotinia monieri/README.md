@@ -1,5 +1,4 @@
-Sclerotinia monieri Boud. SPECIES
-=======
+# Sclerotinia monieri Boud. SPECIES
 
 #### Status
 ACCEPTED

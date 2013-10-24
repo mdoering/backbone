@@ -1,5 +1,4 @@
-Irenina duboisiae Hansf. SPECIES
-=======
+# Irenina duboisiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula deplanata Müll. Arg. SPECIES
-=======
+# Pyrenula deplanata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

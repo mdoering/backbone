@@ -1,5 +1,4 @@
-Mycena luteopurpurea Rick SPECIES
-=======
+# Mycena luteopurpurea Rick SPECIES
 
 #### Status
 ACCEPTED

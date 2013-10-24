@@ -1,5 +1,4 @@
-Septoria nitidula Durieu & Mont. SPECIES
-=======
+# Septoria nitidula Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

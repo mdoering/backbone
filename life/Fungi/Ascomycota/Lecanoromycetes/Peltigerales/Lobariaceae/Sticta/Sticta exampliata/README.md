@@ -1,5 +1,4 @@
-Sticta exampliata Meyen & Flot. SPECIES
-=======
+# Sticta exampliata Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

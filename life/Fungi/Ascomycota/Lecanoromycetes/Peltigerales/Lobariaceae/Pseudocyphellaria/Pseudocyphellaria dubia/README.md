@@ -1,5 +1,4 @@
-Pseudocyphellaria dubia Du Rietz SPECIES
-=======
+# Pseudocyphellaria dubia Du Rietz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora aegyptiaca Reichert SPECIES
-=======
+# Pleospora aegyptiaca Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria rhizomorpha Mont. SPECIES
-=======
+# Xylaria rhizomorpha Mont. SPECIES
 
 #### Status
 ACCEPTED

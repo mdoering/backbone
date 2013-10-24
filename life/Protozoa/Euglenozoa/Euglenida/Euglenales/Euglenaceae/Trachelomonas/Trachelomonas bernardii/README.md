@@ -1,5 +1,4 @@
-Trachelomonas bernardii f. maior Woloszynska FORM
-=======
+# Trachelomonas bernardii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia addanubica f. addanubica FORM
-=======
+# Parmelia addanubica Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia addanubica f. addanubica
+Parmelia addanubica Gyeln.
 
 ### Remarks
 null

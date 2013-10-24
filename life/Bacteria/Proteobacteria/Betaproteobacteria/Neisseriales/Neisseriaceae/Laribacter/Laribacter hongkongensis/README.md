@@ -1,5 +1,4 @@
-Laribacter hongkongensis Yuen et al., 2002 SPECIES
-=======
+# Laribacter hongkongensis Yuen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

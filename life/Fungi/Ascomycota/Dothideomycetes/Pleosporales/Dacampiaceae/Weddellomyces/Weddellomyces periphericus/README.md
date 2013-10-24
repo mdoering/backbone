@@ -1,14 +1,13 @@
-Pleospora peripherica (Taylor) D. Hawksw. SPECIES
-=======
+# Weddellomyces periphericus (Taylor) Alstrup & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nova Hedwigia 30: 555 (1979)
+Meddr Grønland, Biosc. 31: 74 (1990)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Synedra chaseii Thomas SPECIES
-=======
+# Synedra chaseii Thomas SPECIES
 
 #### Status
 ACCEPTED

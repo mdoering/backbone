@@ -1,5 +1,4 @@
-Pertusaria regenerans C.W. Dodge SPECIES
-=======
+# Pertusaria regenerans C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

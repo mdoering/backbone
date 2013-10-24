@@ -1,17 +1,16 @@
-Chrysomyxa pirolae var. pyrolata (Schwein.) Jørst. VARIETY
-=======
+# Chrysomyxa pyrolae (DC.) Rostr., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Zbl. 5: 127 (1881)
 
 #### Original name
-Aecidium pyrolatum Schwein.
+Aecidium pyrolae DC., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Illosporium ilicinum Peglion SPECIES
-=======
+# Illosporium ilicinum Peglion SPECIES
 
 #### Status
 ACCEPTED

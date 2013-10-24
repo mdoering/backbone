@@ -1,5 +1,4 @@
-Sphaeromphale rubra (Sommerf.) Rabenh. SPECIES
-=======
+# Sphaeromphale rubra (Sommerf.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

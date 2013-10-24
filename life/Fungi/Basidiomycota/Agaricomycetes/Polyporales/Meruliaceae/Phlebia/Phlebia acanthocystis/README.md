@@ -1,5 +1,4 @@
-Phlebia acanthocystis Gilb. & Nakasone, 1998 SPECIES
-=======
+# Phlebia acanthocystis Gilb. & Nakasone, 1998 SPECIES
 
 #### Status
 ACCEPTED

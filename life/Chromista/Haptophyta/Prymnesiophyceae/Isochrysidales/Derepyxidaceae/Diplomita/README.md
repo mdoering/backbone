@@ -1,5 +1,4 @@
-Diplomita W.S. Kent, 1880 GENUS
-=======
+# Diplomita W.S. Kent, 1880 GENUS
 
 #### Status
 ACCEPTED

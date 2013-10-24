@@ -1,5 +1,4 @@
-Schismatomma flavidoatrum (Kremp.) Zahlbr. SPECIES
-=======
+# Schismatomma flavidoatrum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

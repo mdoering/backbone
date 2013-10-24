@@ -1,5 +1,4 @@
-Biatorella fossarum var. hemisphaerica Anzi VARIETY
-=======
+# Biatorella fossarum (Dufour) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 397 (1874)
 
 #### Original name
-Biatorella fossarum var. hemisphaerica Anzi
+Lecidea fossarum Dufour
 
 ### Remarks
 null

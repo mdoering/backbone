@@ -1,5 +1,4 @@
-Ustilago cryptica (Cooke & Massee) Cif. SPECIES
-=======
+# Ustilago cryptica (Cooke & Massee) Cif. SPECIES
 
 #### Status
 ACCEPTED

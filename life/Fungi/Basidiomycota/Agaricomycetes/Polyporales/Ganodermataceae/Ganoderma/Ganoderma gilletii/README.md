@@ -1,5 +1,4 @@
-Ganoderma gilletii Steyaert SPECIES
-=======
+# Ganoderma gilletii Steyaert SPECIES
 
 #### Status
 ACCEPTED

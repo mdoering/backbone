@@ -1,17 +1,16 @@
-Galera siliginea var. ambigua Kühner VARIETY
-=======
+# Conocybe ambigua Watling, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Analyt. Champ. Supér. (Paris) 346 (1953)
 
 #### Original name
-Galera siliginea var. ambigua Kühner
+Conocybe siliginea var. ambigua Kühner, 1935
 
 ### Remarks
 null

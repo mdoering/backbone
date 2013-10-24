@@ -1,5 +1,4 @@
-Propolis tumidula P. Karst. SPECIES
-=======
+# Propolis tumidula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

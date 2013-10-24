@@ -1,5 +1,4 @@
-Collybia himalaica Manjula SPECIES
-=======
+# Collybia himalaica Manjula SPECIES
 
 #### Status
 ACCEPTED

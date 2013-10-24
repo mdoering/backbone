@@ -1,5 +1,4 @@
-Sphaerella asarifolia Cooke SPECIES
-=======
+# Sphaerella asarifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

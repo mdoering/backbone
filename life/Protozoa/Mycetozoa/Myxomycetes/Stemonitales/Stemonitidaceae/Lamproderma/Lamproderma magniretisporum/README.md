@@ -1,5 +1,4 @@
-Lamproderma magniretisporum G. Moreno, C. Rojas, S.L. Stephenson & H. Singer, 2009 SPECIES
-=======
+# Lamproderma magniretisporum G. Moreno, C. Rojas, S.L. Stephenson & H. Singer, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium laburnophilum Oudem. SPECIES
-=======
+# Coniothyrium laburnophilum Oudem. SPECIES
 
 #### Status
 ACCEPTED

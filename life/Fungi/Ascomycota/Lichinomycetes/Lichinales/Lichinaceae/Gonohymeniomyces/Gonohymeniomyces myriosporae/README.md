@@ -1,5 +1,4 @@
-Gonohymeniomyces myriosporae Cif. & Tomas. SPECIES
-=======
+# Gonohymeniomyces myriosporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

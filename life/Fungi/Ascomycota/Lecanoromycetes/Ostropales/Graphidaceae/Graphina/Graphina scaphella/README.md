@@ -1,5 +1,4 @@
-Graphina scaphella (Ach.) Müll. Arg. SPECIES
-=======
+# Graphina scaphella (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

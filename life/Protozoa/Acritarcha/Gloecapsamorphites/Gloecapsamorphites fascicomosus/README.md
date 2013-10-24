@@ -1,5 +1,4 @@
-Gloecapsamorphites fascicomosus Ouyang Shu et al., 1974 SPECIES
-=======
+# Gloecapsamorphites fascicomosus Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

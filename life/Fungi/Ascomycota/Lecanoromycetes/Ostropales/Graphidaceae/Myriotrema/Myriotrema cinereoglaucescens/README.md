@@ -1,5 +1,4 @@
-Myriotrema cinereoglaucescens (Vain.) Hale SPECIES
-=======
+# Myriotrema cinereoglaucescens (Vain.) Hale SPECIES
 
 #### Status
 ACCEPTED

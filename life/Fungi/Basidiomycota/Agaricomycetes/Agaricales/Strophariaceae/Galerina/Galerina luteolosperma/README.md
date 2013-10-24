@@ -1,5 +1,4 @@
-Galerina luteolosperma A.H. Sm. & Singer SPECIES
-=======
+# Galerina luteolosperma A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

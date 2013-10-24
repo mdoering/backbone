@@ -1,5 +1,4 @@
-Tremella globulus Bref. SPECIES
-=======
+# Tremella globulus Bref. SPECIES
 
 #### Status
 ACCEPTED

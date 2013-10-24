@@ -1,5 +1,4 @@
-Bacidia flavidosulphurea (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia flavidosulphurea (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium gracilipes P. Karst. SPECIES
-=======
+# Helotium gracilipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

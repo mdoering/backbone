@@ -1,5 +1,4 @@
-Chamaeceras lagopinus (H. Post) Kuntze SPECIES
-=======
+# Chamaeceras lagopinus (H. Post) Kuntze SPECIES
 
 #### Status
 ACCEPTED

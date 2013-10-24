@@ -1,5 +1,4 @@
-Marasmius helvolus var. brunneolus Berk. VARIETY
-=======
+# Marasmius helvolus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hooker's J. Bot. 8: 136 (1856)
 
 #### Original name
-Marasmius helvolus var. brunneolus Berk.
+Marasmius helvolus Berk.
 
 ### Remarks
 null

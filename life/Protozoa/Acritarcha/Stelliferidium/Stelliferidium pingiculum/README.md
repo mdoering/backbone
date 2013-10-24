@@ -1,5 +1,4 @@
-Stelliferidium pingiculum Martin in Martin & Dean, 1988 SPECIES
-=======
+# Stelliferidium pingiculum Martin in Martin & Dean, 1988 SPECIES
 
 #### Status
 ACCEPTED

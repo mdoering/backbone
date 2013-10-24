@@ -1,5 +1,4 @@
-Sphaerella alsophila Kirschst. SPECIES
-=======
+# Sphaerella alsophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

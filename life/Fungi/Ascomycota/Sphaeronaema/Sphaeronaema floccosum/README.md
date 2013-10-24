@@ -1,5 +1,4 @@
-Sphaeronaema floccosum Grove SPECIES
-=======
+# Sphaeronaema floccosum Grove SPECIES
 
 #### Status
 ACCEPTED

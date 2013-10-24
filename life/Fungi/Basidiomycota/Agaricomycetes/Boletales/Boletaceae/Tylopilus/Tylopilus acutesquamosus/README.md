@@ -1,5 +1,4 @@
-Tylopilus acutesquamosus Singer SPECIES
-=======
+# Tylopilus acutesquamosus Singer SPECIES
 
 #### Status
 ACCEPTED

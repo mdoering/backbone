@@ -1,5 +1,4 @@
-Cryptosporella sphaerostoma (Nitschke) Sacc. SPECIES
-=======
+# Cryptosporella sphaerostoma (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

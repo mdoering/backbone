@@ -1,8 +1,7 @@
-Nematoloma nudum Singer SPECIES
-=======
+# Naematoloma nudum Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma nudum Singer
+Naematoloma nudum Singer
 
 ### Remarks
 null

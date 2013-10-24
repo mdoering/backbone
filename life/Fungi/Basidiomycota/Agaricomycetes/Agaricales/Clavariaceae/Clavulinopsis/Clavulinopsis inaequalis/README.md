@@ -1,5 +1,4 @@
-Clavulinopsis inaequalis (O.F. Müll.) SPECIES
-=======
+# Clavulinopsis inaequalis (O.F. Müll.) SPECIES
 
 #### Status
 ACCEPTED

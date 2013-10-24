@@ -1,5 +1,4 @@
-Phytophthora irritabilis Mantri & K.B. Deshp. SPECIES
-=======
+# Phytophthora irritabilis Mantri & K.B. Deshp. SPECIES
 
 #### Status
 ACCEPTED

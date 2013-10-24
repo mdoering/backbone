@@ -1,5 +1,4 @@
-Venturia coprosmae (F. Stevens) E. Müll. SPECIES
-=======
+# Venturia coprosmae (F. Stevens) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

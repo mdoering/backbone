@@ -1,5 +1,4 @@
-Exobasidium hemisphaericum Shirai SPECIES
-=======
+# Exobasidium hemisphaericum Shirai SPECIES
 
 #### Status
 ACCEPTED

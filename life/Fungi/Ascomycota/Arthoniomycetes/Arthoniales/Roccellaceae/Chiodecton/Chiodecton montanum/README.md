@@ -1,5 +1,4 @@
-Chiodecton montanum G. Thor SPECIES
-=======
+# Chiodecton montanum G. Thor SPECIES
 
 #### Status
 ACCEPTED

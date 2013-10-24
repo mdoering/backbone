@@ -1,5 +1,4 @@
-Chaetophoma fusca P. Karst. SPECIES
-=======
+# Chaetophoma fusca P. Karst. SPECIES
 
 #### Status
 ACCEPTED

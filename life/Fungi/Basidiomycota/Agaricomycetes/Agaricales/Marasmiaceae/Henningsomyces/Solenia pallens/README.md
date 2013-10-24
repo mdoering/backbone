@@ -1,5 +1,4 @@
-Solenia pallens Fr. SPECIES
-=======
+# Solenia pallens Fr. SPECIES
 
 #### Status
 ACCEPTED

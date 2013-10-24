@@ -1,14 +1,13 @@
-Clavaria cladoniae Kalchbr., 1882 SPECIES
-=======
+# Ramaria cladoniae (Kalchbr.) D.A. Reid, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 10(no. 55): 105 (1882)
+Bothalia 11(3): 228 (1974)
 
 #### Original name
 Clavaria cladoniae Kalchbr., 1882

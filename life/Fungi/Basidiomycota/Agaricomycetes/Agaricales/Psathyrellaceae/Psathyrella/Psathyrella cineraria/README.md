@@ -1,5 +1,4 @@
-Psathyrella cineraria Har. Takah. SPECIES
-=======
+# Psathyrella cineraria Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

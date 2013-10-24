@@ -1,5 +1,4 @@
-Pseudocyphellaria endochrysoides (Müll. Arg.) Malme SPECIES
-=======
+# Pseudocyphellaria endochrysoides (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED

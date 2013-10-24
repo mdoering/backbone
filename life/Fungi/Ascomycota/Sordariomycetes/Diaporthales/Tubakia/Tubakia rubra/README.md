@@ -1,14 +1,13 @@
-Actinopelte rubra T. Yokoy. & Tubaki, 1971 SPECIES
-=======
+# Tubakia rubra (T. Yokoy. & Tubaki) B. Sutton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Res. Commun. , Inst. Ferm. , Osaka 5: 47 (1971)
+Trans. Br. mycol. Soc. 60(1): 165 (1973)
 
 #### Original name
 Actinopelte rubra T. Yokoy. & Tubaki, 1971

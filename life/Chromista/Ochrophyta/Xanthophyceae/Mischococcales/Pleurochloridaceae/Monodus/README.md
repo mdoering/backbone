@@ -1,5 +1,4 @@
-Monodus R. Chodat, 1913 GENUS
-=======
+# Monodus R. Chodat, 1913 GENUS
 
 #### Status
 ACCEPTED

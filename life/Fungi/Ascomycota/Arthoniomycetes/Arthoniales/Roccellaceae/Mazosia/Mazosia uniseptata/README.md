@@ -1,5 +1,4 @@
-Mazosia uniseptata Lücking SPECIES
-=======
+# Mazosia uniseptata Lücking SPECIES
 
 #### Status
 ACCEPTED

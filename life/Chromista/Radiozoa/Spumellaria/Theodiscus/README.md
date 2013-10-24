@@ -1,5 +1,4 @@
-Theodiscus Haeckel, 1887 GENUS
-=======
+# Theodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria gonnermanni (Rabenh.) Sacc. SPECIES
-=======
+# Humaria gonnermanni (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

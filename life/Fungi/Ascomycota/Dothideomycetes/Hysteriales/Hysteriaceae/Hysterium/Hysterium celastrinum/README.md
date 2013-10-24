@@ -1,5 +1,4 @@
-Hysterium celastrinum Tilak SPECIES
-=======
+# Hysterium celastrinum Tilak SPECIES
 
 #### Status
 ACCEPTED

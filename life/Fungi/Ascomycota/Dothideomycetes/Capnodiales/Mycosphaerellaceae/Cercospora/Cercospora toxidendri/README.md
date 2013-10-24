@@ -1,5 +1,4 @@
-Cercospora toxidendri SPECIES
-=======
+# Cercospora toxidendri SPECIES
 
 #### Status
 ACCEPTED

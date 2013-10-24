@@ -1,5 +1,4 @@
-Catenibacterium Kageyama & Benno, 2000 GENUS
-=======
+# Catenibacterium Kageyama & Benno, 2000 GENUS
 
 #### Status
 ACCEPTED

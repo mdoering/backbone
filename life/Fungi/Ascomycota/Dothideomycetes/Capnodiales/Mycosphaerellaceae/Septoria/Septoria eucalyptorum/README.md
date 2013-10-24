@@ -1,5 +1,4 @@
-Septoria eucalyptorum Crous SPECIES
-=======
+# Septoria eucalyptorum Crous SPECIES
 
 #### Status
 ACCEPTED

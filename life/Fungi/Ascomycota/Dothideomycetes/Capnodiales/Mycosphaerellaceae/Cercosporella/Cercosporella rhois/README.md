@@ -1,5 +1,4 @@
-Cercosporella rhois Sawada SPECIES
-=======
+# Cercosporella rhois Sawada SPECIES
 
 #### Status
 ACCEPTED

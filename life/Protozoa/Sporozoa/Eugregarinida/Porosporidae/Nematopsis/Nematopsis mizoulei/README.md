@@ -1,8 +1,7 @@
-Porospora mizoulei Théodoridès, 1964 SPECIES
-=======
+# Nematopsis mizoulei Théodoridès, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

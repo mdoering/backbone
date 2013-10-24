@@ -1,5 +1,4 @@
-Asterina durantae Sawada SPECIES
-=======
+# Asterina durantae Sawada SPECIES
 
 #### Status
 ACCEPTED

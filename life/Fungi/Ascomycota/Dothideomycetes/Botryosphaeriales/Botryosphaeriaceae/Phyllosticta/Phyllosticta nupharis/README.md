@@ -1,5 +1,4 @@
-Phyllosticta nupharis Allesch. SPECIES
-=======
+# Phyllosticta nupharis Allesch. SPECIES
 
 #### Status
 ACCEPTED

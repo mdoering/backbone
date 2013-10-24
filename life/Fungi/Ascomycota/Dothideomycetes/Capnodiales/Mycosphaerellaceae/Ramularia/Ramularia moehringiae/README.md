@@ -1,5 +1,4 @@
-Ramularia moehringiae Lindr., 1902 SPECIES
-=======
+# Ramularia moehringiae Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

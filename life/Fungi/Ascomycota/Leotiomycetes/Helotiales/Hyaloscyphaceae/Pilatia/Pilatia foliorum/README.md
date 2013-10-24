@@ -1,5 +1,4 @@
-Pilatia foliorum Velen., 1934 SPECIES
-=======
+# Pilatia foliorum Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

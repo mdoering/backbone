@@ -1,5 +1,4 @@
-Lobaria subcorrosa (Nyl.) Vain. SPECIES
-=======
+# Lobaria subcorrosa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

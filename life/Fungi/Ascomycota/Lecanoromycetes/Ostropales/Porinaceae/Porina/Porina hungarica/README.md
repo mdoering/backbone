@@ -1,5 +1,4 @@
-Porina hungarica (Hazsl.) Zahlbr. SPECIES
-=======
+# Porina hungarica (Hazsl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

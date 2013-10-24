@@ -1,5 +1,4 @@
-Gymnodinium tenuissimum Van Meel SPECIES
-=======
+# Gymnodinium tenuissimum Van Meel SPECIES
 
 #### Status
 ACCEPTED

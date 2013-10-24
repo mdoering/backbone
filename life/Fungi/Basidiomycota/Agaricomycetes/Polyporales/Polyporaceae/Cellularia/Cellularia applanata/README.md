@@ -1,5 +1,4 @@
-Cellularia applanata (Klotzsch) Kuntze SPECIES
-=======
+# Cellularia applanata (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

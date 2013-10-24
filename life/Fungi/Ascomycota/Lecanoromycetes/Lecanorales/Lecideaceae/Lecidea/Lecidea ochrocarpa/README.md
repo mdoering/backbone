@@ -1,5 +1,4 @@
-Lecidea ochrocarpa (Körb.) Lettau SPECIES
-=======
+# Lecidea ochrocarpa (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

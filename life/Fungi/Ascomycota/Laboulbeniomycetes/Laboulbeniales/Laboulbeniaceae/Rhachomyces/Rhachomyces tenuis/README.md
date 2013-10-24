@@ -1,5 +1,4 @@
-Rhachomyces tenuis Thaxt. SPECIES
-=======
+# Rhachomyces tenuis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

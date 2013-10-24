@@ -1,5 +1,4 @@
-Tharoopama trina Subram., 1956 SPECIES
-=======
+# Tharoopama trina Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED

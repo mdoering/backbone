@@ -1,5 +1,4 @@
-Octospora insignispora (Boud. & Torrend) V.P. Tewari & D.C. Pant SPECIES
-=======
+# Octospora insignispora (Boud. & Torrend) V.P. Tewari & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

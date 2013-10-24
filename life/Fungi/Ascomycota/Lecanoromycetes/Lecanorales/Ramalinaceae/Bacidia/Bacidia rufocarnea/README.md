@@ -1,5 +1,4 @@
-Bacidia rufocarnea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia rufocarnea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichopezizella himalayensis (E. Müll. & Dennis) M.P. Sharma SPECIES
-=======
+# Trichopezizella himalayensis (E. Müll. & Dennis) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

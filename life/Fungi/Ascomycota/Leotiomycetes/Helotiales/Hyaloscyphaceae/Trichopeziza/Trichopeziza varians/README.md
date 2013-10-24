@@ -1,5 +1,4 @@
-Trichopeziza varians (Saut.) Sacc. SPECIES
-=======
+# Trichopeziza varians (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

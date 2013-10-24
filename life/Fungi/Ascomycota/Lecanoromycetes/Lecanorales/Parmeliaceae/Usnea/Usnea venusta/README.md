@@ -1,5 +1,4 @@
-Usnea venusta Motyka SPECIES
-=======
+# Usnea venusta Motyka SPECIES
 
 #### Status
 ACCEPTED

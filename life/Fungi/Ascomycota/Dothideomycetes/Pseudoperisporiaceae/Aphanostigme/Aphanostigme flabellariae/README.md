@@ -1,5 +1,4 @@
-Aphanostigme flabellariae Hansf. SPECIES
-=======
+# Aphanostigme flabellariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

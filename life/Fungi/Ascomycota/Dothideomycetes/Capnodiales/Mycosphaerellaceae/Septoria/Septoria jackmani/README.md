@@ -1,5 +1,4 @@
-Septoria jackmani Ellis & Everh. SPECIES
-=======
+# Septoria jackmani Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

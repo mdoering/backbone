@@ -1,5 +1,4 @@
-Pseudopeltis L. Holm & K. Holm GENUS
-=======
+# Pseudopeltis L. Holm & K. Holm GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen literellus Ach. SPECIES
-=======
+# Lichen literellus Ach. SPECIES
 
 #### Status
 ACCEPTED

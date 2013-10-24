@@ -1,5 +1,4 @@
-Physarum varians Starbäck SPECIES
-=======
+# Physarum varians Starbäck SPECIES
 
 #### Status
 ACCEPTED

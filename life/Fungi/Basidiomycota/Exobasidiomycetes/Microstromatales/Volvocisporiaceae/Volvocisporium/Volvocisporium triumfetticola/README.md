@@ -1,17 +1,16 @@
-Muribasidiospora triumfettaeicola M.S. Patil SPECIES
-=======
+# Volvocisporium triumfetticola (M.S. Patil) Begerow, R. Bauer & Oberw., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 105(7): 809 (2001)
 
 #### Original name
-Muribasidiospora triumfettaeicola M.S. Patil
+Muribasidiospora triumfetticola M.S. Patil, 1978
 
 ### Remarks
 null

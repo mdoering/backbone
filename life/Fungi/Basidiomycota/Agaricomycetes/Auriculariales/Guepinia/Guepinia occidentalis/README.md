@@ -1,5 +1,4 @@
-Guepinia occidentalis Lloyd SPECIES
-=======
+# Guepinia occidentalis Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium contractophilum Canter, 1959 SPECIES
-=======
+# Rhizophydium contractophilum Canter, 1959 SPECIES
 
 #### Status
 ACCEPTED

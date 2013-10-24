@@ -1,5 +1,4 @@
-Aspergillopsis Sopp, 1912 GENUS
-=======
+# Aspergillopsis Sopp, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schiffnerula ricini Hansf. SPECIES
-=======
+# Schiffnerula ricini Hansf. SPECIES
 
 #### Status
 ACCEPTED

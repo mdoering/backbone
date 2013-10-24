@@ -1,5 +1,4 @@
-Hypolyssus bombacinus (P. Karst.) Kuntze SPECIES
-=======
+# Hypolyssus bombacinus (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

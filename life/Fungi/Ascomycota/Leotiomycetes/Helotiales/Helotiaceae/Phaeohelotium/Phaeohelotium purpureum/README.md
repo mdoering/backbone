@@ -1,5 +1,4 @@
-Phaeohelotium purpureum Dennis, 1974 SPECIES
-=======
+# Phaeohelotium purpureum Dennis, 1974 SPECIES
 
 #### Status
 ACCEPTED

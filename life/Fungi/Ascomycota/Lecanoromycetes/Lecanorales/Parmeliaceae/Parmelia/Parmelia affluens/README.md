@@ -1,5 +1,4 @@
-Parmelia affluens Hale SPECIES
-=======
+# Parmelia affluens Hale SPECIES
 
 #### Status
 ACCEPTED

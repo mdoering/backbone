@@ -1,5 +1,4 @@
-Bryopogon negativus f. negativus FORM
-=======
+# Bryopogon negativus Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon negativus f. negativus
+Bryopogon negativus Gyeln.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora marrubii Savul. & Sandu SPECIES
-=======
+# Cercospora marrubii Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

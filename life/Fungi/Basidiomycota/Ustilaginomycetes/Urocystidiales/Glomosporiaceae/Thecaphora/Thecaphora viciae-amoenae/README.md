@@ -1,5 +1,4 @@
-Thecaphora viciae-amoenae Y. Harada SPECIES
-=======
+# Thecaphora viciae-amoenae Y. Harada SPECIES
 
 #### Status
 ACCEPTED

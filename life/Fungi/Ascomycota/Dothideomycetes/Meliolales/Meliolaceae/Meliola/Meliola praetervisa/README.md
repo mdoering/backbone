@@ -1,5 +1,4 @@
-Meliola praetervisa var. praetervisa VARIETY
-=======
+# Meliola praetervisa Gaillard SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Le Genre Meliola 78 (1892)
 
 #### Original name
-Meliola praetervisa var. praetervisa
+Meliola praetervisa Gaillard
 
 ### Remarks
 null

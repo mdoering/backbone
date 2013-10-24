@@ -1,5 +1,4 @@
-Cryptococcus castellanii (Re) Castell. SPECIES
-=======
+# Cryptococcus castellanii (Re) Castell. SPECIES
 
 #### Status
 ACCEPTED

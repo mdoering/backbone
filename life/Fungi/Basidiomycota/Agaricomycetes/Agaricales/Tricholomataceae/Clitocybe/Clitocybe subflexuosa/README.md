@@ -1,5 +1,4 @@
-Clitocybe subflexuosa (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe subflexuosa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

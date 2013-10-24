@@ -1,5 +1,4 @@
-Macrodothiorella Petrak & Sydow, 1927 GENUS
-=======
+# Macrodothiorella Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

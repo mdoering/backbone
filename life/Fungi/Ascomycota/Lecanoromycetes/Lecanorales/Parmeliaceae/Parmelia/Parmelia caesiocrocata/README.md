@@ -1,5 +1,4 @@
-Parmelia caesiocrocata Menzies SPECIES
-=======
+# Parmelia caesiocrocata Menzies SPECIES
 
 #### Status
 ACCEPTED

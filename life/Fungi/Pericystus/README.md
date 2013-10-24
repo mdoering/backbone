@@ -1,5 +1,4 @@
-Pericystus GENUS
-=======
+# Pericystus GENUS
 
 #### Status
 ACCEPTED

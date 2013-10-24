@@ -1,5 +1,4 @@
-Septobasidium rubiginosum Pat. SPECIES
-=======
+# Septobasidium rubiginosum Pat. SPECIES
 
 #### Status
 ACCEPTED

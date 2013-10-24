@@ -1,5 +1,4 @@
-Verrucaria praelustris Kremp. SPECIES
-=======
+# Verrucaria praelustris Kremp. SPECIES
 
 #### Status
 ACCEPTED

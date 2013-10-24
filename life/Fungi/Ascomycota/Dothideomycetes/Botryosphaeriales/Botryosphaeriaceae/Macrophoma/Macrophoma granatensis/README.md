@@ -1,5 +1,4 @@
-Macrophoma granatensis Tassi SPECIES
-=======
+# Macrophoma granatensis Tassi SPECIES
 
 #### Status
 ACCEPTED

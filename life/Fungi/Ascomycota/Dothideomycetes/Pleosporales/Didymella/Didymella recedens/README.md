@@ -1,5 +1,4 @@
-Didymella recedens (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Didymella recedens (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

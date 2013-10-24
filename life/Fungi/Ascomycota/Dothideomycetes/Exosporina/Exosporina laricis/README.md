@@ -1,5 +1,4 @@
-Exosporina laricis Oudem. SPECIES
-=======
+# Exosporina laricis Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosporium liquidambaris Petr., 1951 SPECIES
-=======
+# Discosporium liquidambaris Petr., 1951 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina subpariata (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina subpariata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

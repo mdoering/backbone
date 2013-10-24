@@ -1,5 +1,4 @@
-Cercospora didymospora Ellis & Barthol. SPECIES
-=======
+# Cercospora didymospora Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

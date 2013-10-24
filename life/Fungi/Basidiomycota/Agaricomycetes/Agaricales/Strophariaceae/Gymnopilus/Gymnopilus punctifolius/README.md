@@ -1,5 +1,4 @@
-Gymnopilus punctifolius (Peck) Singer SPECIES
-=======
+# Gymnopilus punctifolius (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

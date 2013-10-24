@@ -1,5 +1,4 @@
-Coniothecium cydoniae Brunaud SPECIES
-=======
+# Coniothecium cydoniae Brunaud SPECIES
 
 #### Status
 ACCEPTED

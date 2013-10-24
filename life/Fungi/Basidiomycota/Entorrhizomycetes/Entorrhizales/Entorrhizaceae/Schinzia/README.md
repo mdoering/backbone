@@ -1,5 +1,4 @@
-Schinzia GENUS
-=======
+# Schinzia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amauroderma fuscatum (Lloyd) Otieno SPECIES
-=======
+# Amauroderma fuscatum (Lloyd) Otieno SPECIES
 
 #### Status
 ACCEPTED

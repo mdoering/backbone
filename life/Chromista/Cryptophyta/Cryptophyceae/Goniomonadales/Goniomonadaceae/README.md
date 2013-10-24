@@ -1,5 +1,4 @@
-Goniomonadaceae FAMILY
-=======
+# Goniomonadaceae FAMILY
 
 #### Status
 ACCEPTED

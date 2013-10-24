@@ -1,5 +1,4 @@
-Hyaloderma glaziovii Pat. SPECIES
-=======
+# Hyaloderma glaziovii Pat. SPECIES
 
 #### Status
 ACCEPTED

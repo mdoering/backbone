@@ -1,5 +1,4 @@
-Granmamyces bissei J. Mena & Mercado SPECIES
-=======
+# Granmamyces bissei J. Mena & Mercado SPECIES
 
 #### Status
 ACCEPTED

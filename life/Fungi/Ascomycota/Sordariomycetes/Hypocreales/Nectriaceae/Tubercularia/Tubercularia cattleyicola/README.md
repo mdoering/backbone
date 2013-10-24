@@ -1,5 +1,4 @@
-Tubercularia cattleyicola Henn. SPECIES
-=======
+# Tubercularia cattleyicola Henn. SPECIES
 
 #### Status
 ACCEPTED

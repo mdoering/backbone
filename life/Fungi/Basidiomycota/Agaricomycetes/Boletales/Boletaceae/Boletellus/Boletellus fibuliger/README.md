@@ -1,5 +1,4 @@
-Boletellus fibuliger Singer SPECIES
-=======
+# Boletellus fibuliger Singer SPECIES
 
 #### Status
 ACCEPTED

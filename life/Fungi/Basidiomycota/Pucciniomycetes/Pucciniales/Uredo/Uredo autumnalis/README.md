@@ -1,5 +1,4 @@
-Uredo autumnalis Dietel SPECIES
-=======
+# Uredo autumnalis Dietel SPECIES
 
 #### Status
 ACCEPTED

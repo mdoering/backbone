@@ -1,5 +1,4 @@
-Leptosphaeria musarum Sacc. & Berl. SPECIES
-=======
+# Leptosphaeria musarum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

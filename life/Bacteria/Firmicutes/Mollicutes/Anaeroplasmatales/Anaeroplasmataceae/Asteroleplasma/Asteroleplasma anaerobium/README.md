@@ -1,5 +1,4 @@
-Asteroleplasma anaerobium Robinson & Freundt, 1987 SPECIES
-=======
+# Asteroleplasma anaerobium Robinson & Freundt, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora argyreiae Govindu & Thirum. SPECIES
-=======
+# Cercospora argyreiae Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

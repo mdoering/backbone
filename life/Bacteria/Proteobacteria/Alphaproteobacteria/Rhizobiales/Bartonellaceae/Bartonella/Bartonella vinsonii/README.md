@@ -1,5 +1,4 @@
-Bartonella vinsonii subsp. vinsonii SUBSPECIES
-=======
+# Bartonella vinsonii (Weiss & Dasch, 1982) Brenner et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linkiella opposita (Orton) Syd. SPECIES
-=======
+# Linkiella opposita (Orton) Syd. SPECIES
 
 #### Status
 ACCEPTED

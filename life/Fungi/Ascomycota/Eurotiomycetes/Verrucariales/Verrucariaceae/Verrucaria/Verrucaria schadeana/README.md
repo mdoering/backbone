@@ -1,5 +1,4 @@
-Verrucaria schadeana Servít SPECIES
-=======
+# Verrucaria schadeana Servít SPECIES
 
 #### Status
 ACCEPTED

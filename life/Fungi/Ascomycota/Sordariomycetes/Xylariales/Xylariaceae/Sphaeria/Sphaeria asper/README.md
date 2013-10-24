@@ -1,5 +1,4 @@
-Sphaeria asper Sowerby SPECIES
-=======
+# Sphaeria asper Sowerby SPECIES
 
 #### Status
 ACCEPTED

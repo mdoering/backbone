@@ -1,5 +1,4 @@
-Cucurbitaria ulmicola Fuckel SPECIES
-=======
+# Cucurbitaria ulmicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

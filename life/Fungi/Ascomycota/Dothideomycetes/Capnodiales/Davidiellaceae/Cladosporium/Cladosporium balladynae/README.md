@@ -1,5 +1,4 @@
-Cladosporium balladynae Deighton, 1969 SPECIES
-=======
+# Cladosporium balladynae Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

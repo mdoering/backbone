@@ -1,5 +1,4 @@
-Phaeocyphella farinosa Pat. SPECIES
-=======
+# Phaeocyphella farinosa Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia corniculata Mayor & Vienn.-Bourg. SPECIES
-=======
+# Puccinia corniculata Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

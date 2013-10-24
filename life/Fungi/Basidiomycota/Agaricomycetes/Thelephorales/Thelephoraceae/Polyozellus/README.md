@@ -1,17 +1,16 @@
-Phyllocarbon Lloyd GENUS
-=======
+# Polyozellus Murrill GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 1066 (1921)
+N. Amer. Fl. (New York) 9(3): 171 (1910)
 
 #### Original name
-Phyllocarbon Lloyd
+Polyozellus Murrill
 
 ### Remarks
 null

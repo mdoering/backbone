@@ -1,5 +1,4 @@
-Rhinakis faurei Deroux, 1994 SPECIES
-=======
+# Rhinakis faurei Deroux, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora commonsii (Sacc.) U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora commonsii (Sacc.) U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

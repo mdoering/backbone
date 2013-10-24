@@ -1,5 +1,4 @@
-Agaricus umbellifer var. umbellifer VARIETY
-=======
+# Agaricus umbellifer Scop. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. carniol. (Wien), Edn 2 2: 112, tab. 39:2 (1772)
 
 #### Original name
-Agaricus umbellifer var. umbellifer
+Agaricus umbellifer Scop.
 
 ### Remarks
 null

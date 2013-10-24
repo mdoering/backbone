@@ -1,5 +1,4 @@
-Didymosphaeria pittospora Udaiyan & V.S. Hosag. SPECIES
-=======
+# Didymosphaeria pittospora Udaiyan & V.S. Hosag. SPECIES
 
 #### Status
 ACCEPTED

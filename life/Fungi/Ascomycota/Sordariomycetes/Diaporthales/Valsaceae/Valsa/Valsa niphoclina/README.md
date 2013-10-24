@@ -1,5 +1,4 @@
-Valsa niphoclina Cooke SPECIES
-=======
+# Valsa niphoclina Cooke SPECIES
 
 #### Status
 ACCEPTED

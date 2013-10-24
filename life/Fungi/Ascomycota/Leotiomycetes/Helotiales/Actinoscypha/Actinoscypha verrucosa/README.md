@@ -1,5 +1,4 @@
-Actinoscypha verrucosa E. Müll. SPECIES
-=======
+# Actinoscypha verrucosa E. Müll. SPECIES
 
 #### Status
 ACCEPTED

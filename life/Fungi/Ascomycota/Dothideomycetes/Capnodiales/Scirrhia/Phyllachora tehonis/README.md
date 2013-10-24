@@ -1,5 +1,4 @@
-Phyllachora tehonis Trotter, 1926 SPECIES
-=======
+# Phyllachora tehonis Trotter, 1926 SPECIES
 
 #### Status
 DOUBTFUL

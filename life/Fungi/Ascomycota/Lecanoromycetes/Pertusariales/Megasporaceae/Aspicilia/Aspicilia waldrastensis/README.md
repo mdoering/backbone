@@ -1,5 +1,4 @@
-Aspicilia waldrastensis (H. Magn.) Clauzade & Rondon SPECIES
-=======
+# Aspicilia waldrastensis (H. Magn.) Clauzade & Rondon SPECIES
 
 #### Status
 ACCEPTED

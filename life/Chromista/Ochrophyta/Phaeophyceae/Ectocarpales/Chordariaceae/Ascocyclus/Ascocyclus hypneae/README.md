@@ -1,5 +1,4 @@
-Ascocyclus hypneae Børgesen SPECIES
-=======
+# Ascocyclus hypneae Børgesen SPECIES
 
 #### Status
 ACCEPTED

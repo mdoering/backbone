@@ -1,14 +1,13 @@
-Polyporus caseosus (Pat.) Sacc. & Trotter, 1912 SPECIES
-=======
+# Spongipellis caseosus (Pat.) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 268 (1912)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 11 (1983)
 
 #### Original name
 Leptoporus caseosus Pat., 1907

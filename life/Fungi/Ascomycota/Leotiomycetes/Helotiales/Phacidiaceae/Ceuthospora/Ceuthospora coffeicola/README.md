@@ -1,5 +1,4 @@
-Ceuthospora coffeicola Delacr. SPECIES
-=======
+# Ceuthospora coffeicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

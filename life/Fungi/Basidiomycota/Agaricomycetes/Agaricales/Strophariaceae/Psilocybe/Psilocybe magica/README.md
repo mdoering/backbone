@@ -1,17 +1,16 @@
-Deconica magica (Svrcek) Noordel., 2009 SPECIES
-=======
+# Psilocybe magica Svrcek, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 43(2): 82 (1989)
 
 #### Original name
-null
+Psilocybe magica Svrcek, 1989
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dyadosporites cannanorensis (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites cannanorensis (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

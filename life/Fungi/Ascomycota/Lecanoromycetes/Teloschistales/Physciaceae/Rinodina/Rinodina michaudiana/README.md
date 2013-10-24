@@ -1,5 +1,4 @@
-Rinodina michaudiana (Harm.) Crozals SPECIES
-=======
+# Rinodina michaudiana (Harm.) Crozals SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina grisea Petr. SPECIES
-=======
+# Asterina grisea Petr. SPECIES
 
 #### Status
 ACCEPTED

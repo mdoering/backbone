@@ -1,5 +1,4 @@
-Uromyces neotropicalis J.R. Hern. & Aime, 2005 SPECIES
-=======
+# Uromyces neotropicalis J.R. Hern. & Aime, 2005 SPECIES
 
 #### Status
 ACCEPTED

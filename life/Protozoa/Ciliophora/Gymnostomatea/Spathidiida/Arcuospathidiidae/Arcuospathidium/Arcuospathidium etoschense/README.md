@@ -1,5 +1,4 @@
-Arcuospathidium etoschense Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Arcuospathidium etoschense Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

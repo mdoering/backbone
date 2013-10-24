@@ -1,5 +1,4 @@
-Phoma capsellae I.E. Brezhnev SPECIES
-=======
+# Phoma capsellae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia epilobii Brunaud SPECIES
-=======
+# Diplodia epilobii Brunaud SPECIES
 
 #### Status
 ACCEPTED

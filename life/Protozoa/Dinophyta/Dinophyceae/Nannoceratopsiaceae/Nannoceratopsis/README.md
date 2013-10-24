@@ -1,5 +1,4 @@
-Nannoceratopsis Deflandre, 1939 GENUS
-=======
+# Nannoceratopsis Deflandre, 1939 GENUS
 
 #### Status
 ACCEPTED

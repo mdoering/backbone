@@ -1,5 +1,4 @@
-Patellaria californica Rehm SPECIES
-=======
+# Patellaria californica Rehm SPECIES
 
 #### Status
 ACCEPTED

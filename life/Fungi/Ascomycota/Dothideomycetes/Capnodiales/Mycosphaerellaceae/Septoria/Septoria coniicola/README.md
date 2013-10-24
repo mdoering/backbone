@@ -1,5 +1,4 @@
-Septoria coniicola Hollós SPECIES
-=======
+# Septoria coniicola Hollós SPECIES
 
 #### Status
 ACCEPTED

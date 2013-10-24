@@ -1,5 +1,4 @@
-Peziza diaphana Pers. SPECIES
-=======
+# Peziza diaphana Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solisphaeridium Staplin, Jansonius & Pocock, 1965 GENUS
-=======
+# Solisphaeridium Staplin, Jansonius & Pocock, 1965 GENUS
 
 #### Status
 ACCEPTED

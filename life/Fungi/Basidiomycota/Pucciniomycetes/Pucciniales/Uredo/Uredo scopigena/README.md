@@ -1,5 +1,4 @@
-Uredo scopigena Henn. SPECIES
-=======
+# Uredo scopigena Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea novoguineensis Henn. SPECIES
-=======
+# Hypocrea novoguineensis Henn. SPECIES
 
 #### Status
 ACCEPTED

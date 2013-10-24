@@ -1,5 +1,4 @@
-Pseudoomphalina globispora Raithelh. SPECIES
-=======
+# Pseudoomphalina globispora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

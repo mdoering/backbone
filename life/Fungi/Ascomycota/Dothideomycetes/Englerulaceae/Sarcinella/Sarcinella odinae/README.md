@@ -1,5 +1,4 @@
-Sarcinella odinae V.P. Sahni SPECIES
-=======
+# Sarcinella odinae V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

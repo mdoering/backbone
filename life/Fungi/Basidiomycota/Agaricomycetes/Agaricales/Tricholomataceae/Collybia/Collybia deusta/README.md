@@ -1,5 +1,4 @@
-Collybia deusta Cleland SPECIES
-=======
+# Collybia deusta Cleland SPECIES
 
 #### Status
 ACCEPTED

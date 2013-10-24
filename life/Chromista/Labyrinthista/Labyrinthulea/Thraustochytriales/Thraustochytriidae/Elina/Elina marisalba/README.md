@@ -1,5 +1,4 @@
-Elina marisalba N.Ya. Artemchuk, 1972 SPECIES
-=======
+# Elina marisalba N.Ya. Artemchuk, 1972 SPECIES
 
 #### Status
 ACCEPTED

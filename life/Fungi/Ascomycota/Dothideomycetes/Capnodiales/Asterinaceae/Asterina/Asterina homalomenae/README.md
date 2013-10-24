@@ -1,14 +1,13 @@
-Asterina homalomeae (J.M. Mend.) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina homalomenae (J.M. Mend.) Hosag. & T.K. Abraham SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 24(3): 561 (2000)
 
 #### Original name
 Parasterina homalomenae J.M. Mend.

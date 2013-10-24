@@ -1,5 +1,4 @@
-Mucobasispora tarikii Moustafa & Abdul-Wahid, 1990 SPECIES
-=======
+# Mucobasispora tarikii Moustafa & Abdul-Wahid, 1990 SPECIES
 
 #### Status
 ACCEPTED

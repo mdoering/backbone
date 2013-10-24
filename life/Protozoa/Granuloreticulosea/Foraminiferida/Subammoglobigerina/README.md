@@ -1,5 +1,4 @@
-Subammoglobigerina Nikitenko in Lebedeva & Nikitenko, 1998 GENUS
-=======
+# Subammoglobigerina Nikitenko in Lebedeva & Nikitenko, 1998 GENUS
 
 #### Status
 ACCEPTED

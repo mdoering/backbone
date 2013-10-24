@@ -1,5 +1,4 @@
-Diaporthe melanocarpa Dearn. SPECIES
-=======
+# Diaporthe melanocarpa Dearn. SPECIES
 
 #### Status
 ACCEPTED

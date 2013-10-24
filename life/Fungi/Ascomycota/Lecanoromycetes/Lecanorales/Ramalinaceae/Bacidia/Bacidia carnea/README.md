@@ -1,5 +1,4 @@
-Bacidia carnea Vezda SPECIES
-=======
+# Bacidia carnea Vezda SPECIES
 
 #### Status
 ACCEPTED

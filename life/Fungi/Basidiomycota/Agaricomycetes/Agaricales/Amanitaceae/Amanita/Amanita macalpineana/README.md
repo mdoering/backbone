@@ -1,5 +1,4 @@
-Amanita macalpineana (Cleland & Cheel) E.-J. Gilbert SPECIES
-=======
+# Amanita macalpineana (Cleland & Cheel) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoebus hydrophobius R. C. Harris & Ladd SPECIES
-=======
+# Phoebus hydrophobius R. C. Harris & Ladd SPECIES
 
 #### Status
 ACCEPTED

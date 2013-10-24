@@ -1,5 +1,4 @@
-Mycobacterium kansasii Hauduroy, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium kansasii Hauduroy, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

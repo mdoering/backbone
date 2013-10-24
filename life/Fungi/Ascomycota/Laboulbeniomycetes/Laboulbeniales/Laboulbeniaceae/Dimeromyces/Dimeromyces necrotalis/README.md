@@ -1,5 +1,4 @@
-Dimeromyces necrotalis Thaxt. SPECIES
-=======
+# Dimeromyces necrotalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

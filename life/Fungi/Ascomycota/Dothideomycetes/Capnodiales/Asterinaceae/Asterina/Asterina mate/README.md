@@ -1,5 +1,4 @@
-Asterina mate Speg. SPECIES
-=======
+# Asterina mate Speg. SPECIES
 
 #### Status
 ACCEPTED

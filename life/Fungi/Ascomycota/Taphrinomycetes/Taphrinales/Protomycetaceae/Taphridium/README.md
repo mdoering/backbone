@@ -1,5 +1,4 @@
-Taphridium Lagerh. & Juel GENUS
-=======
+# Taphridium Lagerh. & Juel GENUS
 
 #### Status
 ACCEPTED

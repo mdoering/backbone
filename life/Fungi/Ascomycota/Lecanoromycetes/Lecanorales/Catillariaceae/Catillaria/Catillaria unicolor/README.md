@@ -1,5 +1,4 @@
-Catillaria unicolor (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria unicolor (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

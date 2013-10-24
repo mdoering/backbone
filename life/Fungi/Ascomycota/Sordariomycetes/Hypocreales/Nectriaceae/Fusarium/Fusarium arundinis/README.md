@@ -1,5 +1,4 @@
-Fusarium arundinis (Corda) Sacc. SPECIES
-=======
+# Fusarium arundinis (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

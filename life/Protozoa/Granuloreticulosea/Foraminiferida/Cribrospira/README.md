@@ -1,5 +1,4 @@
-Cribrospira Möller, 1878 GENUS
-=======
+# Cribrospira Möller, 1878 GENUS
 
 #### Status
 ACCEPTED

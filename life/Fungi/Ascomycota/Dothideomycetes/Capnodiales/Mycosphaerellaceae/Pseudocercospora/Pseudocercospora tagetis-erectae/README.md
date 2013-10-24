@@ -1,5 +1,4 @@
-Pseudocercospora tagetis-erectae Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora tagetis-erectae Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

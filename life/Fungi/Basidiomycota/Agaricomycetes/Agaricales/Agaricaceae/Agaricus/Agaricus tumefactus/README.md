@@ -1,5 +1,4 @@
-Agaricus tumefactus Britzelm. SPECIES
-=======
+# Agaricus tumefactus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

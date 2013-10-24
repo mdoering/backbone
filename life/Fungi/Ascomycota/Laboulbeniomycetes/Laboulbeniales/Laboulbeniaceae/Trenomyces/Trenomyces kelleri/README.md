@@ -1,5 +1,4 @@
-Trenomyces kelleri Eichler {?} SPECIES
-=======
+# Trenomyces kelleri Eichler {?} SPECIES
 
 #### Status
 ACCEPTED

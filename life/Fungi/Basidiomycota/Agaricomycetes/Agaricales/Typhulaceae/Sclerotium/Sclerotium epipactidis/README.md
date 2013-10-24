@@ -1,17 +1,16 @@
-Sclerotium epipactis Golovin SPECIES
-=======
+# Sclerotium epipactidis Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Centr. Asian Univ. Stud. , N. S. 14(5): 47 (1950)
 
 #### Original name
-Sclerotium epipactis Golovin
+Sclerotium epipactidis Golovin
 
 ### Remarks
 null

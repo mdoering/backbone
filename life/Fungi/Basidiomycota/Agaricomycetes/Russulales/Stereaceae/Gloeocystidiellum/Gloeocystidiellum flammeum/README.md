@@ -1,14 +1,13 @@
-Gloeocystidiopsis flammea (Boidin) Jülich, 1982 SPECIES
-=======
+# Gloeocystidiellum flammeum Boidin, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 1(1): 28 (1982)
+Cahiers de La Maboké 4(3): 7 (1966)
 
 #### Original name
 Gloeocystidiellum flammeum Boidin, 1966

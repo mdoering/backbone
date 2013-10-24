@@ -1,17 +1,16 @@
-Diplodia manihoti Sacc. SPECIES
-=======
+# Diplodia manihotis Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12(3): 310 (1914)
 
 #### Original name
-Diplodia manihoti Sacc.
+Diplodia manihotis Sacc.
 
 ### Remarks
 null

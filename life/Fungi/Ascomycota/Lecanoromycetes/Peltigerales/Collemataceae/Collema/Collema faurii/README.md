@@ -1,5 +1,4 @@
-Collema faurii Hue SPECIES
-=======
+# Collema faurii Hue SPECIES
 
 #### Status
 ACCEPTED

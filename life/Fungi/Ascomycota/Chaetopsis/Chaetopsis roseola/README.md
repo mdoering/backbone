@@ -1,5 +1,4 @@
-Chaetopsis roseola Ellis & Everh. SPECIES
-=======
+# Chaetopsis roseola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

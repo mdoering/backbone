@@ -1,5 +1,4 @@
-Oxyporus ginkgonis Y.C. Dai, 2005 SPECIES
-=======
+# Oxyporus ginkgonis Y.C. Dai, 2005 SPECIES
 
 #### Status
 ACCEPTED

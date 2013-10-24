@@ -1,5 +1,4 @@
-Agaricus rhizogenus Pers. SPECIES
-=======
+# Agaricus rhizogenus Pers. SPECIES
 
 #### Status
 ACCEPTED

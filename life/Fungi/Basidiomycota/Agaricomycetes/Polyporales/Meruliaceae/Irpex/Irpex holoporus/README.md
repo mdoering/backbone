@@ -1,5 +1,4 @@
-Irpex holoporus (Pers.) Sacc. & Traverso SPECIES
-=======
+# Irpex holoporus (Pers.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Conferva fusca Hudson SPECIES
-=======
+# Sphacelaria fusca (Hudson) S.F. Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

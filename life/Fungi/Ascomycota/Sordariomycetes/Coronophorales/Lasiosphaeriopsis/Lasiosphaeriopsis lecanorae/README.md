@@ -1,5 +1,4 @@
-Lasiosphaeriopsis lecanorae Pérez-Ortega & Halici SPECIES
-=======
+# Lasiosphaeriopsis lecanorae Pérez-Ortega & Halici SPECIES
 
 #### Status
 ACCEPTED

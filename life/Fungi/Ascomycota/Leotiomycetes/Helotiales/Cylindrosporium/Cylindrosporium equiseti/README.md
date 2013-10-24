@@ -1,5 +1,4 @@
-Cylindrosporium equiseti W.C. Liu & R.L. Bai, 2001 SPECIES
-=======
+# Cylindrosporium equiseti W.C. Liu & R.L. Bai, 2001 SPECIES
 
 #### Status
 ACCEPTED

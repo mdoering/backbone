@@ -1,5 +1,4 @@
-Catillaria albocincta Degel. SPECIES
-=======
+# Catillaria albocincta Degel. SPECIES
 
 #### Status
 ACCEPTED

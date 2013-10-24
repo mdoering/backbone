@@ -1,5 +1,4 @@
-Gloeosporium subcuticulare Caball. SPECIES
-=======
+# Gloeosporium subcuticulare Caball. SPECIES
 
 #### Status
 ACCEPTED

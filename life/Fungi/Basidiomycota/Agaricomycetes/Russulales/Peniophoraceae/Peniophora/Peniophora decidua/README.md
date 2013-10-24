@@ -1,5 +1,4 @@
-Peniophora decidua Petch SPECIES
-=======
+# Peniophora decidua Petch SPECIES
 
 #### Status
 ACCEPTED

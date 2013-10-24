@@ -1,5 +1,4 @@
-Spermatodium subvelatum (Nyl.) Trevis. SPECIES
-=======
+# Spermatodium subvelatum (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

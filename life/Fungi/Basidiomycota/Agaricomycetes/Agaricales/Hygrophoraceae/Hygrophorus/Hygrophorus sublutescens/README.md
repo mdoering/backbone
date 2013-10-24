@@ -1,5 +1,4 @@
-Hygrophorus sublutescens Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus sublutescens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella leuzeae (Sandu) U. Braun SPECIES
-=======
+# Cercosporella leuzeae (Sandu) U. Braun SPECIES
 
 #### Status
 ACCEPTED

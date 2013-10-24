@@ -1,5 +1,4 @@
-Eodiscus Vdovenko, 1970 GENUS
-=======
+# Eodiscus Vdovenko, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema magnoliae Peck SPECIES
-=======
+# Sphaeronaema magnoliae Peck SPECIES
 
 #### Status
 ACCEPTED

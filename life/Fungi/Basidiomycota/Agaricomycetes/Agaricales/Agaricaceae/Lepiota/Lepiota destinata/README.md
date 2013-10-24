@@ -1,5 +1,4 @@
-Lepiota destinata (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Lepiota destinata (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

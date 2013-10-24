@@ -1,5 +1,4 @@
-Hydatinophagus Valkanov GENUS
-=======
+# Hydatinophagus Valkanov GENUS
 
 #### Status
 ACCEPTED

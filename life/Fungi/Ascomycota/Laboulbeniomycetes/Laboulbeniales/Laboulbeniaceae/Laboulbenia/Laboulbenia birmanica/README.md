@@ -1,5 +1,4 @@
-Laboulbenia birmanica Speg. SPECIES
-=======
+# Laboulbenia birmanica Speg. SPECIES
 
 #### Status
 ACCEPTED

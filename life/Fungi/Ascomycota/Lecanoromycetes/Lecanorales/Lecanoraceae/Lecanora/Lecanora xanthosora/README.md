@@ -1,5 +1,4 @@
-Lecanora xanthosora B. D. Ryan & Poelt SPECIES
-=======
+# Lecanora xanthosora B. D. Ryan & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora madeirensis Henn., 1904 SPECIES
-=======
+# Phyllachora madeirensis Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

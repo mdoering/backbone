@@ -1,5 +1,4 @@
-Doassansia epilobii Farl. SPECIES
-=======
+# Doassansia epilobii Farl. SPECIES
 
 #### Status
 ACCEPTED

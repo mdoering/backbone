@@ -1,5 +1,4 @@
-Helicorhoidion conicum B. Sutton SPECIES
-=======
+# Helicorhoidion conicum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

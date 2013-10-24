@@ -1,5 +1,4 @@
-Micropeltis heteropteridis Theiss. SPECIES
-=======
+# Micropeltis heteropteridis Theiss. SPECIES
 
 #### Status
 ACCEPTED

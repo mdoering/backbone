@@ -1,5 +1,4 @@
-Clitocybe impolita H.E. Bigelow SPECIES
-=======
+# Clitocybe impolita H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea sundellii Coppins & Muhr SPECIES
-=======
+# Micarea sundellii Coppins & Muhr SPECIES
 
 #### Status
 ACCEPTED

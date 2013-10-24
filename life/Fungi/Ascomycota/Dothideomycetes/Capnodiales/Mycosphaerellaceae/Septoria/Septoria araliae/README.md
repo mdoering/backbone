@@ -1,5 +1,4 @@
-Septoria araliae Ellis & Everh. SPECIES
-=======
+# Septoria araliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

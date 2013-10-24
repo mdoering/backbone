@@ -1,5 +1,4 @@
-Naemaspora E.M. Fries, 1832 GENUS
-=======
+# Naemaspora E.M. Fries, 1832 GENUS
 
 #### Status
 ACCEPTED

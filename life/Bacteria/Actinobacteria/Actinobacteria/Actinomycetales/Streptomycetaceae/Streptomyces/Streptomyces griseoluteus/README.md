@@ -1,5 +1,4 @@
-Streptomyces griseoluteus Umezawa et al., 1950 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces griseoluteus Umezawa et al., 1950 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

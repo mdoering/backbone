@@ -1,5 +1,4 @@
-Physalacria komabensis Imazeki SPECIES
-=======
+# Physalacria komabensis Imazeki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta mercurialis Desm., 1849 SPECIES
-=======
+# Phyllosticta mercurialis Desm., 1849 SPECIES
 
 #### Status
 ACCEPTED

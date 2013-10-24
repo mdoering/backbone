@@ -1,14 +1,13 @@
-Agaricus gossypinulus Speg., 1887 SPECIES
-=======
+# Marasmiellus gossypinulus (Speg.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Fuegiani 11: 9 (1887)
+Sydowia 15: 58 (1962)
 
 #### Original name
 Agaricus gossypinulus Speg., 1887

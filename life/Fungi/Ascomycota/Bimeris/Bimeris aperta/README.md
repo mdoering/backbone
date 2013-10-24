@@ -1,5 +1,4 @@
-Bimeris aperta Petr., 1949 SPECIES
-=======
+# Bimeris aperta Petr., 1949 SPECIES
 
 #### Status
 ACCEPTED

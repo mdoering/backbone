@@ -1,5 +1,4 @@
-Sorosporium vossianum Thüm. SPECIES
-=======
+# Sorosporium vossianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

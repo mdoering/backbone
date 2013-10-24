@@ -1,5 +1,4 @@
-Amanita capnosus Letell. SPECIES
-=======
+# Amanita capnosus Letell. SPECIES
 
 #### Status
 ACCEPTED

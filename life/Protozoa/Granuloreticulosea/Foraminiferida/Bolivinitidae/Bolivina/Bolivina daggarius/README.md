@@ -1,5 +1,4 @@
-Bolivina daggarius SPECIES
-=======
+# Bolivina daggarius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia corrigiolae Chevall. SPECIES
-=======
+# Puccinia corrigiolae Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus permodestus Schulzer SPECIES
-=======
+# Agaricus permodestus Schulzer SPECIES
 
 #### Status
 ACCEPTED

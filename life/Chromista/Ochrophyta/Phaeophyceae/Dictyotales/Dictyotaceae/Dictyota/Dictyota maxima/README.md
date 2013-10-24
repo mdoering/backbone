@@ -1,5 +1,4 @@
-Dictyota maxima Zanardini SPECIES
-=======
+# Dictyota maxima Zanardini SPECIES
 
 #### Status
 ACCEPTED

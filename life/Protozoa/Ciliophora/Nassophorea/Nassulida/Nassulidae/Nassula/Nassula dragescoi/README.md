@@ -1,5 +1,4 @@
-Nassula dragescoi Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Nassula dragescoi Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidiopsis sphaeritae (P.A. Dang.) Karling SPECIES
-=======
+# Olpidiopsis sphaeritae (P.A. Dang.) Karling SPECIES
 
 #### Status
 ACCEPTED

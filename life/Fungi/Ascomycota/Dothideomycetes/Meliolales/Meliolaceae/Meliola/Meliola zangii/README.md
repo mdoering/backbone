@@ -1,5 +1,4 @@
-Meliola zangii B. Song SPECIES
-=======
+# Meliola zangii B. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Boletus merulioides var. merulioides (Schwein.) VARIETY
-=======
+# Boletinellus merulioides (Schwein.) Murrill, 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 1(1): 7 (1909)
 
 #### Original name
-Boletus merulioides var. merulioides (Schwein.)
+Daedalea merulioides Schwein., 1832
 
 ### Remarks
 null

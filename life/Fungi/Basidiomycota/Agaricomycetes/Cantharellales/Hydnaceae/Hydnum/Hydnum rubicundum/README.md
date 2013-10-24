@@ -1,5 +1,4 @@
-Hydnum rubicundum Willd. SPECIES
-=======
+# Hydnum rubicundum Willd. SPECIES
 
 #### Status
 ACCEPTED

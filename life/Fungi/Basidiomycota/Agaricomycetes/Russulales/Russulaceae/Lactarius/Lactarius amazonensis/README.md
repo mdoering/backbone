@@ -1,5 +1,4 @@
-Lactarius amazonensis Singer SPECIES
-=======
+# Lactarius amazonensis Singer SPECIES
 
 #### Status
 ACCEPTED

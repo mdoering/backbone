@@ -1,5 +1,4 @@
-Hohenbuehelia petalodes SPECIES
-=======
+# Hohenbuehelia petalodes SPECIES
 
 #### Status
 ACCEPTED

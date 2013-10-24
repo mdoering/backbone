@@ -1,14 +1,13 @@
-Exoascus carpini Rostr., 1881 SPECIES
-=======
+# Taphrina carpini (Rostr.) Johanson, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zbl. 5: 154 (1881)
+Förhandl. svensk Vetensk. -Finl. 1: 41 (1886)
 
 #### Original name
 Exoascus carpini Rostr., 1881

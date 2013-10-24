@@ -1,5 +1,4 @@
-Opercularia chironomoni Shubernetzki, 1978 SPECIES
-=======
+# Opercularia chironomoni Shubernetzki, 1978 SPECIES
 
 #### Status
 ACCEPTED

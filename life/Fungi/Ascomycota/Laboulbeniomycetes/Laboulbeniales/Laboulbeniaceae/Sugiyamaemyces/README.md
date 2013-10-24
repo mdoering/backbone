@@ -1,5 +1,4 @@
-Sugiyamaemyces I.I. Tav. & Balazuc GENUS
-=======
+# Sugiyamaemyces I.I. Tav. & Balazuc GENUS
 
 #### Status
 ACCEPTED

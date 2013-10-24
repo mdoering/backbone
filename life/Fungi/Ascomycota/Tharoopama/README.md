@@ -1,5 +1,4 @@
-Tharoopama Subram. GENUS
-=======
+# Tharoopama Subram. GENUS
 
 #### Status
 ACCEPTED

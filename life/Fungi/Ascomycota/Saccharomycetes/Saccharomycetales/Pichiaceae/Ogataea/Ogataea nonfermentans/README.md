@@ -1,5 +1,4 @@
-Ogataea nonfermentans (Wick.) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea nonfermentans (Wick.) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

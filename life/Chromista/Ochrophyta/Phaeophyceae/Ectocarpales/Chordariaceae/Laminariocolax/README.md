@@ -1,5 +1,4 @@
-Laminariocolax Kylin, 1947 GENUS
-=======
+# Laminariocolax Kylin, 1947 GENUS
 
 #### Status
 ACCEPTED

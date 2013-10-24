@@ -1,5 +1,4 @@
-Lissodinium steidingerae M. C. Carbonell-Moore SPECIES
-=======
+# Lissodinium steidingerae M. C. Carbonell-Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon litorale H. Magn. SPECIES
-=======
+# Dermatocarpon litorale H. Magn. SPECIES
 
 #### Status
 ACCEPTED

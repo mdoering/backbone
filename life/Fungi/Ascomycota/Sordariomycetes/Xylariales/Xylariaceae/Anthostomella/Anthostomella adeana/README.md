@@ -1,5 +1,4 @@
-Anthostomella adeana Petr. SPECIES
-=======
+# Anthostomella adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca albidocoerulescens (Müll. Arg.) J. Steiner SPECIES
-=======
+# Caloplaca albidocoerulescens (Müll. Arg.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

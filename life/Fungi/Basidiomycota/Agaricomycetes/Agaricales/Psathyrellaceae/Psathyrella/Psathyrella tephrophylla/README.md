@@ -1,14 +1,13 @@
-Drosophila tephrophylla Romagn., 1952 SPECIES
-=======
+# Psathyrella tephrophylla (Romagn.) M.M. Moser, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 21: 154 (1952)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 2 2b: 240 (1955)
 
 #### Original name
 Drosophila tephrophylla Romagn., 1952

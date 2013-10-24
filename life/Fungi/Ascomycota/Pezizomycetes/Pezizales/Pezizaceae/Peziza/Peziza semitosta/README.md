@@ -1,5 +1,4 @@
-Peziza semitosta Berk. & M.A. Curtis SPECIES
-=======
+# Peziza semitosta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia solenodonta G.H. Otth SPECIES
-=======
+# Puccinia solenodonta G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

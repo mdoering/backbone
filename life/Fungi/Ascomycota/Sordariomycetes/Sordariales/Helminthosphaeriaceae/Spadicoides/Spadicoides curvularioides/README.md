@@ -1,5 +1,4 @@
-Spadicoides curvularioides B. Sutton & Hodges SPECIES
-=======
+# Spadicoides curvularioides B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces indiana A.V.V. Iyengar SPECIES
-=======
+# Coelomomyces indiana A.V.V. Iyengar SPECIES
 
 #### Status
 ACCEPTED

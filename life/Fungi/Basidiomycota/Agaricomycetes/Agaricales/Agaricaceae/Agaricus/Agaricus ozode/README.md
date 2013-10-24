@@ -1,5 +1,4 @@
-Agaricus ozode Secr. SPECIES
-=======
+# Agaricus ozode Secr. SPECIES
 
 #### Status
 ACCEPTED

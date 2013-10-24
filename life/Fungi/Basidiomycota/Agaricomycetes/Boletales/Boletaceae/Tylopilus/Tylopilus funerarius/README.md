@@ -1,5 +1,4 @@
-Tylopilus funerarius (Massee) Pegler & T.W.K. Young SPECIES
-=======
+# Tylopilus funerarius (Massee) Pegler & T.W.K. Young SPECIES
 
 #### Status
 ACCEPTED

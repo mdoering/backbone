@@ -1,17 +1,16 @@
-Alternaria porri f. sp FORM
-=======
+# Alternaria cichorii Nattrass, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pflanzenschutzberichte 32: 181 (1965)
+First List of Cyprus Fungi 29 (1937)
 
 #### Original name
-Alternaria porri f. sp
+Alternaria cichorii Nattrass, 1937
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius calopodioides Henn. SPECIES
-=======
+# Marasmius calopodioides Henn. SPECIES
 
 #### Status
 ACCEPTED

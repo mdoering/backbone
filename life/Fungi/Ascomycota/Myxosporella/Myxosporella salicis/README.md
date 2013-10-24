@@ -1,5 +1,4 @@
-Myxosporella salicis Jaap SPECIES
-=======
+# Myxosporella salicis Jaap SPECIES
 
 #### Status
 ACCEPTED

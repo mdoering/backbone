@@ -1,5 +1,4 @@
-Metasphaeria brunnea (Cooke) Sacc. SPECIES
-=======
+# Metasphaeria brunnea (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

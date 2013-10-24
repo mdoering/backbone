@@ -1,5 +1,4 @@
-Helminthosporium sudanense Gonz. Frag. & Cif. SPECIES
-=======
+# Helminthosporium sudanense Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

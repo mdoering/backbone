@@ -1,5 +1,4 @@
-Arxiella lunata Ruscoe, 1970 SPECIES
-=======
+# Arxiella lunata Ruscoe, 1970 SPECIES
 
 #### Status
 ACCEPTED

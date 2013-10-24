@@ -1,5 +1,4 @@
-Cronartium verbenae var. verbenae VARIETY
-=======
+# Cronartium verbenae Dietrichson SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cronartium verbenae var. verbenae
+Cronartium verbenae Dietrichson
 
 ### Remarks
 null

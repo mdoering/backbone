@@ -1,5 +1,4 @@
-Lecanora herminica Samp. SPECIES
-=======
+# Lecanora herminica Samp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum staphyleae Hulea SPECIES
-=======
+# Colletotrichum staphyleae Hulea SPECIES
 
 #### Status
 ACCEPTED

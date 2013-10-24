@@ -1,5 +1,4 @@
-Mycelium radicis anon. SPECIES
-=======
+# Mycelium radicis anon. SPECIES
 
 #### Status
 ACCEPTED

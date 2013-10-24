@@ -1,17 +1,16 @@
-Allographa Chevall. GENUS
-=======
+# Graphina Müller Arg., 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hist. Graphidées 3, 10, [xvi], [xvii], Tabl. anal. fig. 3, 4 (1824)
+null
 
 #### Original name
-Allographa Chevall.
+null
 
 ### Remarks
 null

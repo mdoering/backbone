@@ -1,17 +1,16 @@
-Lecidea usbekica Hertel SPECIES
-=======
+# Immersaria usbekica (Hertel) Barbero, Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Provence 41: 140 (1990)
 
 #### Original name
-null
+Lecidea usbekica Hertel
 
 ### Remarks
 null

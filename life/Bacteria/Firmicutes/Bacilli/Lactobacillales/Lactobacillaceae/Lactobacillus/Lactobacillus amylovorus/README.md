@@ -1,5 +1,4 @@
-Lactobacillus amylovorus Nakamura, 1981 SPECIES
-=======
+# Lactobacillus amylovorus Nakamura, 1981 SPECIES
 
 #### Status
 ACCEPTED

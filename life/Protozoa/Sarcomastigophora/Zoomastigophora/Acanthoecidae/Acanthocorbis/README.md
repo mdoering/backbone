@@ -1,5 +1,4 @@
-Acanthocorbis S.Hara & E.Takahashi, 1984 GENUS
-=======
+# Acanthocorbis S.Hara & E.Takahashi, 1984 GENUS
 
 #### Status
 ACCEPTED

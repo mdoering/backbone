@@ -1,5 +1,4 @@
-Leptothyrium charticola Vouaux SPECIES
-=======
+# Leptothyrium charticola Vouaux SPECIES
 
 #### Status
 ACCEPTED

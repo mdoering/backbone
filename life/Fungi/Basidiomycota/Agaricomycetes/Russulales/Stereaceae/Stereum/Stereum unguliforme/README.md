@@ -1,5 +1,4 @@
-Stereum unguliforme Lloyd SPECIES
-=======
+# Stereum unguliforme Lloyd SPECIES
 
 #### Status
 ACCEPTED

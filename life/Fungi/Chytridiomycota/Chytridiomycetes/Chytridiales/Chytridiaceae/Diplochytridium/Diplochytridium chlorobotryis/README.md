@@ -1,5 +1,4 @@
-Diplochytridium chlorobotryis (Fott) Karling SPECIES
-=======
+# Diplochytridium chlorobotryis (Fott) Karling SPECIES
 
 #### Status
 ACCEPTED

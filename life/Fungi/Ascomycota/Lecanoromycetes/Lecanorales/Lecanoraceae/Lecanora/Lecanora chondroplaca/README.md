@@ -1,5 +1,4 @@
-Lecanora chondroplaca Zahlbr. SPECIES
-=======
+# Lecanora chondroplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

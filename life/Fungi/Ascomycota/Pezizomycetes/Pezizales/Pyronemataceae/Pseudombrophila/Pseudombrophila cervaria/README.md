@@ -1,14 +1,13 @@
-Peziza cervaria W. Phillips, 1887 SPECIES
-=======
+# Pseudombrophila cervaria (W. Phillips) Brumm., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 100 (1887)
+A World-Monograph of the Genus Pseudombrophila (Pezizales, Ascomycotina) (Eching bei München), <i>Libri Botanici</i> <b>14</b> 27 (1995)
 
 #### Original name
 Peziza cervaria W. Phillips, 1887

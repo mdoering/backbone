@@ -1,5 +1,4 @@
-Bathysiphon capillare de Folin, 1886 SPECIES
-=======
+# Bathysiphon capillare de Folin, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora nyctanthidis R.K. Srivast., Narayan & N. Kumari SPECIES
-=======
+# Cercospora nyctanthidis R.K. Srivast., Narayan & N. Kumari SPECIES
 
 #### Status
 ACCEPTED

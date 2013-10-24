@@ -1,17 +1,16 @@
-Hysterium flexuosum Schwein., 1822 SPECIES
-=======
+# Hysterographium flexuosum (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 46: 237 (1930)
 
 #### Original name
-null
+Hysterographium flexuosum (Schwein.) Sacc., 1883
 
 ### Remarks
 null

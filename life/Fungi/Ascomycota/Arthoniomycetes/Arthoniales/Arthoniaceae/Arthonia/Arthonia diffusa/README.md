@@ -1,5 +1,4 @@
-Arthonia diffusa Nyl. SPECIES
-=======
+# Arthonia diffusa Nyl. SPECIES
 
 #### Status
 ACCEPTED

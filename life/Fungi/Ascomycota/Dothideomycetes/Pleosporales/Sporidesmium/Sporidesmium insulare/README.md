@@ -1,5 +1,4 @@
-Sporidesmium insulare Ellis & Everh. SPECIES
-=======
+# Sporidesmium insulare Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

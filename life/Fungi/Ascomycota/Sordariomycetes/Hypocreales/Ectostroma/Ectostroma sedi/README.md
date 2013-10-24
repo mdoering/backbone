@@ -1,5 +1,4 @@
-Ectostroma sedi Fr. SPECIES
-=======
+# Ectostroma sedi Fr. SPECIES
 
 #### Status
 ACCEPTED

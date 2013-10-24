@@ -1,5 +1,4 @@
-Stenella ficina Kamal, P. Kumar & B. Rai SPECIES
-=======
+# Stenella ficina Kamal, P. Kumar & B. Rai SPECIES
 
 #### Status
 ACCEPTED

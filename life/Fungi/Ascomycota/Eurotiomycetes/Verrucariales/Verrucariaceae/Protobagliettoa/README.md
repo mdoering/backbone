@@ -1,5 +1,4 @@
-Protobagliettoa GENUS
-=======
+# Protobagliettoa GENUS
 
 #### Status
 ACCEPTED

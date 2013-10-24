@@ -1,5 +1,4 @@
-Chaenea psammophila Dragesco, 1960 SPECIES
-=======
+# Chaenea psammophila Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

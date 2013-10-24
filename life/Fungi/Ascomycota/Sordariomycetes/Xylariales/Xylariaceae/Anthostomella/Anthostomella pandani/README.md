@@ -1,5 +1,4 @@
-Anthostomella pandani (Rabenh.) Sacc. SPECIES
-=======
+# Anthostomella pandani (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

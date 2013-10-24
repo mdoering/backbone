@@ -1,17 +1,16 @@
-Asteromella hranicensis Petr., 1952 SPECIES
-=======
+# Asteromella quercifolii C. Massal., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(1-4): 235 (1952)
+Atti e Mem. dell'Acc. d'agr. , Sci. , Lett. e Comm. Verona, Ser. III 65: 131 (1889)
 
 #### Original name
-Asteromella hranicensis Petr., 1952
+Asteromella quercifolii C. Massal., 1889
 
 ### Remarks
 null

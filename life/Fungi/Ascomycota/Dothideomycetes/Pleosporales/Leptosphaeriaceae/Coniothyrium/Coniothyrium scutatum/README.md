@@ -1,5 +1,4 @@
-Coniothyrium scutatum (Preuss) Sacc. SPECIES
-=======
+# Coniothyrium scutatum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

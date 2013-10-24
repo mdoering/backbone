@@ -1,5 +1,4 @@
-Pertusaria flavopunctata A. W. Archer & Elix SPECIES
-=======
+# Pertusaria flavopunctata A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera coccinea Tracy & Earle SPECIES
-=======
+# Niptera coccinea Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

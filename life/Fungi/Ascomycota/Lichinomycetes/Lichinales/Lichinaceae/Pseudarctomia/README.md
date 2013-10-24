@@ -1,5 +1,4 @@
-Pseudarctomia Gyeln. GENUS
-=======
+# Pseudarctomia Gyeln. GENUS
 
 #### Status
 ACCEPTED

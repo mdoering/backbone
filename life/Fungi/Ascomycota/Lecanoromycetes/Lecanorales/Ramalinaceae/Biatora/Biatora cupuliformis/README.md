@@ -1,5 +1,4 @@
-Biatora cupuliformis Räsänen SPECIES
-=======
+# Biatora cupuliformis Räsänen SPECIES
 
 #### Status
 ACCEPTED

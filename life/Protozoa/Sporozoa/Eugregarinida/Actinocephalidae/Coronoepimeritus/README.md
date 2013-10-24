@@ -1,14 +1,13 @@
-Quadruspinospora Sarkar & Chakravarty, 1969 GENUS
-=======
+# Coronoepimeritus Hoshide, 1959 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Bull Fac. Educ. Yamaguchi Univ. 8 (2): 62.
 
 #### Original name
 null

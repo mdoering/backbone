@@ -1,17 +1,16 @@
-Sphaeronaema spinaeforme Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema spiniforme Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 351 (1868)
 
 #### Original name
-Sphaeronaema spinaeforme Berk. & M.A. Curtis
+Sphaeronaema spiniforme Berk. & M.A. Curtis
 
 ### Remarks
 null

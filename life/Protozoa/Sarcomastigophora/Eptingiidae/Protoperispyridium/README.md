@@ -1,5 +1,4 @@
-Protoperispyridium Yeh, 1987 GENUS
-=======
+# Protoperispyridium Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

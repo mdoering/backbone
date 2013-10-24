@@ -1,5 +1,4 @@
-Buellia subambigua Werner SPECIES
-=======
+# Buellia subambigua Werner SPECIES
 
 #### Status
 ACCEPTED

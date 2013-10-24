@@ -1,5 +1,4 @@
-Epicoccum sulcatum Delacr. SPECIES
-=======
+# Epicoccum sulcatum Delacr. SPECIES
 
 #### Status
 ACCEPTED

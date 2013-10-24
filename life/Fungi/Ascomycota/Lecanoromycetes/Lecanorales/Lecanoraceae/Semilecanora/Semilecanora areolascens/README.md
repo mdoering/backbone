@@ -1,5 +1,4 @@
-Semilecanora areolascens Motyka SPECIES
-=======
+# Semilecanora areolascens Motyka SPECIES
 
 #### Status
 ACCEPTED

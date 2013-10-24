@@ -1,5 +1,4 @@
-Coprinus filamentiferoides Bogart SPECIES
-=======
+# Coprinus filamentiferoides Bogart SPECIES
 
 #### Status
 ACCEPTED

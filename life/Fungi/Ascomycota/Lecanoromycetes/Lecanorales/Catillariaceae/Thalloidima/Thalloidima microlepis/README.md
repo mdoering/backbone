@@ -1,5 +1,4 @@
-Thalloidima microlepis Müll. Arg. SPECIES
-=======
+# Thalloidima microlepis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

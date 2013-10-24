@@ -1,5 +1,4 @@
-Lecidea affine G. Merr. SPECIES
-=======
+# Lecidea affine G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratomyces sternolophi Thaxt. SPECIES
-=======
+# Ceratomyces sternolophi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

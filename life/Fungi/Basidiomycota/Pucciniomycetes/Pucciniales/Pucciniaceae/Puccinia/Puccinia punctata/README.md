@@ -1,17 +1,16 @@
-Puccinia punctata f. sp FORM
-=======
+# Puccinia punctata Link, 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 215 (1937)
+Magazin Ges. naturf. Freunde, Berlin 7: 30 (1815)
 
 #### Original name
-Puccinia punctata f. sp
+Puccinia punctata Link, 1815
 
 ### Remarks
 null

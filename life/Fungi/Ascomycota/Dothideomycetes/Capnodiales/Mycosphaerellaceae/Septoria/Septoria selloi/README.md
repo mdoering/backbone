@@ -1,5 +1,4 @@
-Septoria selloi Speg. SPECIES
-=======
+# Septoria selloi Speg. SPECIES
 
 #### Status
 ACCEPTED

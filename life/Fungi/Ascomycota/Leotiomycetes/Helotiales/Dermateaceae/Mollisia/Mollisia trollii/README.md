@@ -1,5 +1,4 @@
-Mollisia trollii (Wettst.) Sacc. SPECIES
-=======
+# Mollisia trollii (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

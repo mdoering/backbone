@@ -1,5 +1,4 @@
-Agaricus subhirtus Peck SPECIES
-=======
+# Agaricus subhirtus Peck SPECIES
 
 #### Status
 ACCEPTED

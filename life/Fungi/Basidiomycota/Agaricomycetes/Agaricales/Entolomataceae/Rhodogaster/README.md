@@ -1,5 +1,4 @@
-Rhodogaster E. Horak GENUS
-=======
+# Rhodogaster E. Horak GENUS
 
 #### Status
 ACCEPTED

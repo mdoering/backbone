@@ -1,5 +1,4 @@
-Dinopterygium dimorphum (Ioannides, Stavrinos & Downie, 1977) Drugg, 1978 SPECIES
-=======
+# Dinopterygium dimorphum (Ioannides, Stavrinos & Downie, 1977) Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

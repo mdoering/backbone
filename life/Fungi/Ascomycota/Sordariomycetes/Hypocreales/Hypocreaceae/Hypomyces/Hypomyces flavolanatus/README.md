@@ -1,5 +1,4 @@
-Hypomyces flavolanatus Petch SPECIES
-=======
+# Hypomyces flavolanatus Petch SPECIES
 
 #### Status
 ACCEPTED

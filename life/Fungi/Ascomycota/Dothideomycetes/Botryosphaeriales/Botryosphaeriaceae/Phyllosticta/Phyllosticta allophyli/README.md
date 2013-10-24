@@ -1,5 +1,4 @@
-Phyllosticta allophyli H.S. Yates SPECIES
-=======
+# Phyllosticta allophyli H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

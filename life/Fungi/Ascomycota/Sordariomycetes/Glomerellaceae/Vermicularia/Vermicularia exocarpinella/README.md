@@ -1,5 +1,4 @@
-Vermicularia exocarpinella Fairm. SPECIES
-=======
+# Vermicularia exocarpinella Fairm. SPECIES
 
 #### Status
 ACCEPTED

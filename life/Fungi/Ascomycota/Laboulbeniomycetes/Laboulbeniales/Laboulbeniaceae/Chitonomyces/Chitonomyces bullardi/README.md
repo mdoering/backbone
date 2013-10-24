@@ -1,5 +1,4 @@
-Chitonomyces bullardi Thaxt. SPECIES
-=======
+# Chitonomyces bullardi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

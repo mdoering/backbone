@@ -1,17 +1,16 @@
-Licentia yao-chanica Pilát SPECIES
-=======
+# Licentia yaochanica Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 38(1): 66 (1940)
 
 #### Original name
-Licentia yao-chanica Pilát
+Licentia yaochanica Pilát
 
 ### Remarks
 null

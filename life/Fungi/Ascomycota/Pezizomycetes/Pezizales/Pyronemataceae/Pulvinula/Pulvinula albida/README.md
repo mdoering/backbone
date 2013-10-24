@@ -1,5 +1,4 @@
-Pulvinula albida (Rick) Pfister SPECIES
-=======
+# Pulvinula albida (Rick) Pfister SPECIES
 
 #### Status
 ACCEPTED

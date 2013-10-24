@@ -1,14 +1,13 @@
-Arthrobotrys effusa (Jarow.) S. Schenck, W.B. Kendr. & Pramer, 1977 SPECIES
-=======
+# Geniculifera effusa (Jarow.) Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 55(8): 982 (1977)
+Stud. Mycol. 26: 93 (1985)
 
 #### Original name
 Dactylaria effusa Jarow., 1968

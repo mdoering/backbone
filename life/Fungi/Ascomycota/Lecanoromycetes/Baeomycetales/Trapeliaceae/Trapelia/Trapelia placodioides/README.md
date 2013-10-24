@@ -1,5 +1,4 @@
-Trapelia placodioides Coppins & P. James SPECIES
-=======
+# Trapelia placodioides Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

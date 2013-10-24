@@ -1,5 +1,4 @@
-Lecanora cupulifera H. Magn. SPECIES
-=======
+# Lecanora cupulifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

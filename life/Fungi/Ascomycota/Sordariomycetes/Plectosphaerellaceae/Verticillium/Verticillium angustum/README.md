@@ -1,5 +1,4 @@
-Verticillium angustum Wollenw. SPECIES
-=======
+# Verticillium angustum Wollenw. SPECIES
 
 #### Status
 ACCEPTED

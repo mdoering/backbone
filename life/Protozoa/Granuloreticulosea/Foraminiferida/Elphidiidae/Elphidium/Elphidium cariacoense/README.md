@@ -1,5 +1,4 @@
-Elphidium cariacoense SPECIES
-=======
+# Elphidium cariacoense SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium kumaunicum Minter & M.P. Sharma, 1982 SPECIES
-=======
+# Lophodermium kumaunicum Minter & M.P. Sharma, 1982 SPECIES
 
 #### Status
 ACCEPTED

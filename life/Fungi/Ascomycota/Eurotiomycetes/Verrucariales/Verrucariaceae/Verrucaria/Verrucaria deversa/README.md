@@ -1,5 +1,4 @@
-Verrucaria deversa Vain. SPECIES
-=======
+# Verrucaria deversa Vain. SPECIES
 
 #### Status
 ACCEPTED

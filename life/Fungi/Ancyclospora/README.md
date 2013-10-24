@@ -1,5 +1,4 @@
-Ancyclospora Sawada, 1944 GENUS
-=======
+# Ancyclospora Sawada, 1944 GENUS
 
 #### Status
 ACCEPTED

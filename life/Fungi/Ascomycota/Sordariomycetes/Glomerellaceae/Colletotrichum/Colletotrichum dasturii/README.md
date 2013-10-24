@@ -1,5 +1,4 @@
-Colletotrichum dasturii Roy {?} SPECIES
-=======
+# Colletotrichum dasturii Roy {?} SPECIES
 
 #### Status
 ACCEPTED

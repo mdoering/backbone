@@ -1,5 +1,4 @@
-Spilonemopsis proboscidea (Nyl.) Vain. SPECIES
-=======
+# Spilonemopsis proboscidea (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

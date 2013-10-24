@@ -1,14 +1,13 @@
-Dictyographa epiphylla Zahlbr. SPECIES
-=======
+# Aulaxina epiphylla (Zahlbr.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annals Cryptog. Exot. 1: 123 (1928)
+Symb. bot. upsal. 12(no. 1): 305 (1952)
 
 #### Original name
 Dictyographa epiphylla Zahlbr.

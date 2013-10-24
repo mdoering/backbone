@@ -1,5 +1,4 @@
-Cintractia fuirenae Hasija & F.T. Wolf SPECIES
-=======
+# Cintractia fuirenae Hasija & F.T. Wolf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma radiata (Fr.) P. Kumm. SPECIES
-=======
+# Entoloma radiata (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mirandina corticola G. Arnaud ex Matsush., 1975 SPECIES
-=======
+# Mirandina corticola G. Arnaud ex Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

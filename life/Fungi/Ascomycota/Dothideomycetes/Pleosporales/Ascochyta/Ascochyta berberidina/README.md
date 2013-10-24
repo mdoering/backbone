@@ -1,5 +1,4 @@
-Ascochyta berberidina Sacc. SPECIES
-=======
+# Ascochyta berberidina Sacc. SPECIES
 
 #### Status
 ACCEPTED

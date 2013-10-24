@@ -1,5 +1,4 @@
-Cortinarius feretransitus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius feretransitus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

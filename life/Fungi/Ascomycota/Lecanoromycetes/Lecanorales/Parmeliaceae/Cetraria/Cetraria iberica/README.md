@@ -1,5 +1,4 @@
-Cetraria iberica A. Crespo & Barreno SPECIES
-=======
+# Cetraria iberica A. Crespo & Barreno SPECIES
 
 #### Status
 ACCEPTED

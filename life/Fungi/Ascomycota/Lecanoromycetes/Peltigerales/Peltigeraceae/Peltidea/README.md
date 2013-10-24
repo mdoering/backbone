@@ -1,5 +1,4 @@
-Peltidea GENUS
-=======
+# Peltidea GENUS
 
 #### Status
 ACCEPTED

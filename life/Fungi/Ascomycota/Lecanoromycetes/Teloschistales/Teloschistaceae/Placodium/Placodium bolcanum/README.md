@@ -1,5 +1,4 @@
-Placodium bolcanum (Pollini) W. Krause & Klem. SPECIES
-=======
+# Placodium bolcanum (Pollini) W. Krause & Klem. SPECIES
 
 #### Status
 ACCEPTED

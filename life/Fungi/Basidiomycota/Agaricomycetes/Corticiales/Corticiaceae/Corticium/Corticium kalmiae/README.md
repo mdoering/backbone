@@ -1,5 +1,4 @@
-Corticium kalmiae Peck SPECIES
-=======
+# Corticium kalmiae Peck SPECIES
 
 #### Status
 ACCEPTED

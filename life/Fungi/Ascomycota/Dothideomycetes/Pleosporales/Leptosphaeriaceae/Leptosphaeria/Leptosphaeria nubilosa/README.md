@@ -1,5 +1,4 @@
-Leptosphaeria nubilosa Auersw. SPECIES
-=======
+# Leptosphaeria nubilosa Auersw. SPECIES
 
 #### Status
 ACCEPTED

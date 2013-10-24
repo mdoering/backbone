@@ -1,5 +1,4 @@
-Guedea novae-zelandiae S. Hughes, 1980 SPECIES
-=======
+# Guedea novae-zelandiae S. Hughes, 1980 SPECIES
 
 #### Status
 ACCEPTED

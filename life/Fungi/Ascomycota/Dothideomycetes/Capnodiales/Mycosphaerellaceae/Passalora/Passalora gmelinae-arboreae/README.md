@@ -1,5 +1,4 @@
-Passalora gmelinae-arboreae (A.K. Sarbhoy, Hosag. & N. Ahmad) U. Braun & Crous SPECIES
-=======
+# Passalora gmelinae-arboreae (A.K. Sarbhoy, Hosag. & N. Ahmad) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

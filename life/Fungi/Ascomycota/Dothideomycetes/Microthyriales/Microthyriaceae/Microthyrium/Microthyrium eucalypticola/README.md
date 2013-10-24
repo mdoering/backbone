@@ -1,5 +1,4 @@
-Microthyrium eucalypticola Speg. SPECIES
-=======
+# Microthyrium eucalypticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clisosporium arundinaceum (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Cytoplea arundinacea (Sacc.) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Repert. Nov. Spec. Regn. veg. 42: 439 (1927)
 
 #### Original name
 Coniothyrium arundinaceum Sacc., 1884

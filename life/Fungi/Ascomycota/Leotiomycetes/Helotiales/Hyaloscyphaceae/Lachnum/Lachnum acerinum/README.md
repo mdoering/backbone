@@ -1,11 +1,10 @@
-Dasyscyphus acerina (Cooke & Ellis) E.K. Cash SPECIES
-=======
+# Lachnum acerinum (Cooke & Ellis) E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

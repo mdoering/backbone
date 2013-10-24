@@ -1,5 +1,4 @@
-Dactylospora hafellneriana Sérus. SPECIES
-=======
+# Dactylospora hafellneriana Sérus. SPECIES
 
 #### Status
 ACCEPTED

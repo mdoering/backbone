@@ -1,5 +1,4 @@
-Entoloma bakeri Dennis SPECIES
-=======
+# Entoloma bakeri Dennis SPECIES
 
 #### Status
 ACCEPTED

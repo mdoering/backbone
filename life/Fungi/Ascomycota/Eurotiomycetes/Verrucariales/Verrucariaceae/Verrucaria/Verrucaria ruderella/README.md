@@ -1,5 +1,4 @@
-Verrucaria ruderella Nyl. SPECIES
-=======
+# Verrucaria ruderella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocinclis crassicollis Conrad SPECIES
-=======
+# Lepocinclis crassicollis Conrad SPECIES
 
 #### Status
 ACCEPTED

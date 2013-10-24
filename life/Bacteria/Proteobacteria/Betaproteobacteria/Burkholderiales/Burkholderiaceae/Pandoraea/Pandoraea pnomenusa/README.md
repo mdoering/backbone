@@ -1,5 +1,4 @@
-Pandoraea pnomenusa Coenye et al., 2000 SPECIES
-=======
+# Pandoraea pnomenusa Coenye et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

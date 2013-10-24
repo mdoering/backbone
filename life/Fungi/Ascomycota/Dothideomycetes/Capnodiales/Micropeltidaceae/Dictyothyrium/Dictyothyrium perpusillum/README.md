@@ -1,5 +1,4 @@
-Dictyothyrium perpusillum Speg. SPECIES
-=======
+# Dictyothyrium perpusillum Speg. SPECIES
 
 #### Status
 ACCEPTED

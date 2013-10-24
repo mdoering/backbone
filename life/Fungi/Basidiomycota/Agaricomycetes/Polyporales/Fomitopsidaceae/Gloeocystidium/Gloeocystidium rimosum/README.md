@@ -1,5 +1,4 @@
-Gloeocystidium rimosum Rick SPECIES
-=======
+# Gloeocystidium rimosum Rick SPECIES
 
 #### Status
 ACCEPTED

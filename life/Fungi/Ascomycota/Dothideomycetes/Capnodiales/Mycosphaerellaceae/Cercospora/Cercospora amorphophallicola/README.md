@@ -1,5 +1,4 @@
-Cercospora amorphophallicola U. Braun SPECIES
-=======
+# Cercospora amorphophallicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

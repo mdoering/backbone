@@ -1,5 +1,4 @@
-Aorate costaricana Syd. SPECIES
-=======
+# Aorate costaricana Syd. SPECIES
 
 #### Status
 ACCEPTED

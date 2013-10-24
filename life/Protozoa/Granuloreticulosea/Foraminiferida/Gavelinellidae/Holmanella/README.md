@@ -1,5 +1,4 @@
-Holmanella Loeblich & Tappan, 1962 GENUS
-=======
+# Holmanella Loeblich & Tappan, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza stilboidea Berk. SPECIES
-=======
+# Peziza stilboidea Berk. SPECIES
 
 #### Status
 ACCEPTED

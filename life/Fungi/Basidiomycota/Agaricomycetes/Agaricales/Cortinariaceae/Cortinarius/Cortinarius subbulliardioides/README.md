@@ -1,5 +1,4 @@
-Cortinarius subbulliardioides Rob. Henry SPECIES
-=======
+# Cortinarius subbulliardioides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma szczepkowskii Dominik SPECIES
-=======
+# Phoma szczepkowskii Dominik SPECIES
 
 #### Status
 ACCEPTED

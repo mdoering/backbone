@@ -1,5 +1,4 @@
-Mycena corynephora Maas Geest., 1983 SPECIES
-=======
+# Mycena corynephora Maas Geest., 1983 SPECIES
 
 #### Status
 ACCEPTED

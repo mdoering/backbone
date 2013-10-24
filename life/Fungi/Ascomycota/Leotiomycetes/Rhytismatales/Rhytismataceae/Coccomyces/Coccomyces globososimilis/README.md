@@ -1,5 +1,4 @@
-Coccomyces globososimilis P.R. Johnst., 2000 SPECIES
-=======
+# Coccomyces globososimilis P.R. Johnst., 2000 SPECIES
 
 #### Status
 ACCEPTED

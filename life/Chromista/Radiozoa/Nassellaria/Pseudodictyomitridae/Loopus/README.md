@@ -1,5 +1,4 @@
-Loopus GENUS
-=======
+# Loopus GENUS
 
 #### Status
 ACCEPTED

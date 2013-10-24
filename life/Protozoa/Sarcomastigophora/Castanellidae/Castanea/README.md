@@ -1,5 +1,4 @@
-Castanea Haecker, 1906 GENUS
-=======
+# Castanea Haecker, 1906 GENUS
 
 #### Status
 ACCEPTED

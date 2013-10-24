@@ -1,5 +1,4 @@
-Agaricus lixivius Fr. SPECIES
-=======
+# Agaricus lixivius Fr. SPECIES
 
 #### Status
 ACCEPTED

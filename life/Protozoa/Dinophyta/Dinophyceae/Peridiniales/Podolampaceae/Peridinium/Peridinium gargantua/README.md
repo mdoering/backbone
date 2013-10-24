@@ -1,5 +1,4 @@
-Peridinium gargantua Biecheler SPECIES
-=======
+# Peridinium gargantua Biecheler SPECIES
 
 #### Status
 ACCEPTED

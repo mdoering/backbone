@@ -1,5 +1,4 @@
-Isosphaera Giovannoni, Schabtach & Castenholz, 1995 GENUS
-=======
+# Isosphaera Giovannoni, Schabtach & Castenholz, 1995 GENUS
 
 #### Status
 ACCEPTED

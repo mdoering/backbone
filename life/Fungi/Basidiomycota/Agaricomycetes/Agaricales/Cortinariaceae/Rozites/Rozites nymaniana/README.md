@@ -1,5 +1,4 @@
-Rozites nymaniana Henn. SPECIES
-=======
+# Rozites nymaniana Henn. SPECIES
 
 #### Status
 ACCEPTED

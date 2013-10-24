@@ -1,5 +1,4 @@
-Pseudomonas pachastrellae Romanenko et al., 2005 SPECIES
-=======
+# Pseudomonas pachastrellae Romanenko et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

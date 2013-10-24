@@ -1,5 +1,4 @@
-Hypnotheca graminis Tommerup, 1970 SPECIES
-=======
+# Hypnotheca graminis Tommerup, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carbonea (Hertel) Hertel GENUS
-=======
+# Carbonea (Hertel) Hertel GENUS
 
 #### Status
 ACCEPTED

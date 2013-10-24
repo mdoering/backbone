@@ -1,5 +1,4 @@
-Trypethelium fuscum Kremp. SPECIES
-=======
+# Trypethelium fuscum Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta natsume Hara SPECIES
-=======
+# Ascochyta natsume Hara SPECIES
 
 #### Status
 ACCEPTED

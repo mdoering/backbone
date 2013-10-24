@@ -1,8 +1,7 @@
-Synedra mazamaensis Sovereign SPECIES
-=======
+# Fragilaria mazamaensis (Sovereign) Lange-Bertalot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

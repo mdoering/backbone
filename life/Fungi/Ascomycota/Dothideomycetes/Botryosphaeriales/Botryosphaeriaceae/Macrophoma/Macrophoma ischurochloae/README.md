@@ -1,5 +1,4 @@
-Macrophoma ischurochloae Sawada SPECIES
-=======
+# Macrophoma ischurochloae Sawada SPECIES
 
 #### Status
 ACCEPTED

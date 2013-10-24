@@ -1,5 +1,4 @@
-Peltaster byrsonimae Hansf. SPECIES
-=======
+# Peltaster byrsonimae Hansf. SPECIES
 
 #### Status
 ACCEPTED

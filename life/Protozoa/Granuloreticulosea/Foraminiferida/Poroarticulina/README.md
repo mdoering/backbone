@@ -1,5 +1,4 @@
-Poroarticulina Cushman, 1944 GENUS
-=======
+# Poroarticulina Cushman, 1944 GENUS
 
 #### Status
 ACCEPTED

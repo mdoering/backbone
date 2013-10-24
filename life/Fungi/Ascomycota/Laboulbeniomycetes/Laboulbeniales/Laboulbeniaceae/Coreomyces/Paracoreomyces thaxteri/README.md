@@ -1,5 +1,4 @@
-Paracoreomyces thaxteri R.A. Poiss. SPECIES
-=======
+# Paracoreomyces thaxteri R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

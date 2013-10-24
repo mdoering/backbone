@@ -1,5 +1,4 @@
-Dyadosporites didymus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites didymus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

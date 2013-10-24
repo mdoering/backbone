@@ -1,8 +1,7 @@
-Blepharisma clarissima Anigstein, 1912 SPECIES
-=======
+# Anigsteinia clarissima (Anigstein, 1912) Isquith, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

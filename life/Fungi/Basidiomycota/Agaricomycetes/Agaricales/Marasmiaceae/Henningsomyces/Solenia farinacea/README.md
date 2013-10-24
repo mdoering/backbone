@@ -1,5 +1,4 @@
-Solenia farinacea Henn. & E. Nyman SPECIES
-=======
+# Solenia farinacea Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

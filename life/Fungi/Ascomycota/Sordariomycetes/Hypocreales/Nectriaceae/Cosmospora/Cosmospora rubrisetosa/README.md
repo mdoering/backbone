@@ -1,5 +1,4 @@
-Cosmospora rubrisetosa (Samuels) Rossman & Samuels SPECIES
-=======
+# Cosmospora rubrisetosa (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

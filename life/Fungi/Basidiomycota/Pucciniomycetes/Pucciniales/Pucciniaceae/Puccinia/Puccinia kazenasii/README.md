@@ -1,5 +1,4 @@
-Puccinia kazenasii Uljan. SPECIES
-=======
+# Puccinia kazenasii Uljan. SPECIES
 
 #### Status
 ACCEPTED

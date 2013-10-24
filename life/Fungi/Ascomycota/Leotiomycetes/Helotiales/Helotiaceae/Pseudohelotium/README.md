@@ -1,5 +1,4 @@
-Pseudohelotium Fuckel, 1870 GENUS
-=======
+# Pseudohelotium Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

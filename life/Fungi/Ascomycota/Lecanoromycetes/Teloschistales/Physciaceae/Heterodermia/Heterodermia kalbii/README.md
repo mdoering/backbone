@@ -1,5 +1,4 @@
-Heterodermia kalbii M. F. N. Martins & Marcelli SPECIES
-=======
+# Heterodermia kalbii M. F. N. Martins & Marcelli SPECIES
 
 #### Status
 ACCEPTED

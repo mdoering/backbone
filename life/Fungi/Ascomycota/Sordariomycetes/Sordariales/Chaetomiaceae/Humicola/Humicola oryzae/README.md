@@ -1,5 +1,4 @@
-Humicola oryzae A.C. Das SPECIES
-=======
+# Humicola oryzae A.C. Das SPECIES
 
 #### Status
 ACCEPTED

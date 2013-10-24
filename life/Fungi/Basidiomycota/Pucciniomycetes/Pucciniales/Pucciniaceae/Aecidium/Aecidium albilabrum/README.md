@@ -1,5 +1,4 @@
-Aecidium albilabrum Kalchbr. SPECIES
-=======
+# Aecidium albilabrum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

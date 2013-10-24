@@ -1,5 +1,4 @@
-Stereocaulon chlorocarpoides Zahlbr. SPECIES
-=======
+# Stereocaulon chlorocarpoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uromyces emmeorrhizae Syd. SPECIES
-=======
+# Uromyces emmeorhizae Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 28(1/2): 38 (1930)
 
 #### Original name
-Uromyces emmeorrhizae Syd.
+Uromyces emmeorhizae Syd.
 
 ### Remarks
 null

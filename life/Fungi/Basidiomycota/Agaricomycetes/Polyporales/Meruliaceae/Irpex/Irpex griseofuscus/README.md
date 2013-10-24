@@ -1,5 +1,4 @@
-Irpex griseofuscus Mont. SPECIES
-=======
+# Irpex griseofuscus Mont. SPECIES
 
 #### Status
 ACCEPTED

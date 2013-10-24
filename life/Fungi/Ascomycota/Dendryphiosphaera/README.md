@@ -1,5 +1,4 @@
-Dendryphiosphaera Lunghini & Rambelli GENUS
-=======
+# Dendryphiosphaera Lunghini & Rambelli GENUS
 
 #### Status
 ACCEPTED

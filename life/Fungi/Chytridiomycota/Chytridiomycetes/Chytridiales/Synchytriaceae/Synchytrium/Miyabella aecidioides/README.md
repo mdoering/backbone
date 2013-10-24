@@ -1,5 +1,4 @@
-Miyabella aecidioides (Peck) S. Ito & Homma SPECIES
-=======
+# Miyabella aecidioides (Peck) S. Ito & Homma SPECIES
 
 #### Status
 ACCEPTED

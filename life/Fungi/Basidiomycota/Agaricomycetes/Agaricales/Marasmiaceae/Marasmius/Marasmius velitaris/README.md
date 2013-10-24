@@ -1,5 +1,4 @@
-Marasmius velitaris var. velitaris VARIETY
-=======
+# Marasmius velitaris Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia, Beih. 111: 106 (1996)
 
 #### Original name
-Marasmius velitaris var. velitaris
+Marasmius velitaris Corner
 
 ### Remarks
 null

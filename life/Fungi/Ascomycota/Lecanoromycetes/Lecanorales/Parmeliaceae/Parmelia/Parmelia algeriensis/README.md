@@ -1,5 +1,4 @@
-Parmelia algeriensis B. de Lesd. SPECIES
-=======
+# Parmelia algeriensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

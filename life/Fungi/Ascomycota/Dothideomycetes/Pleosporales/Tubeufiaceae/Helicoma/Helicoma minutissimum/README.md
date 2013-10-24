@@ -1,5 +1,4 @@
-Helicoma minutissimum Linder SPECIES
-=======
+# Helicoma minutissimum Linder SPECIES
 
 #### Status
 ACCEPTED

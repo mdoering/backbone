@@ -1,5 +1,4 @@
-Globiferum T.N. Hermann & B.V. Timofeev in T.V. Jankauskas, 1989 GENUS
-=======
+# Globiferum T.N. Hermann & B.V. Timofeev in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

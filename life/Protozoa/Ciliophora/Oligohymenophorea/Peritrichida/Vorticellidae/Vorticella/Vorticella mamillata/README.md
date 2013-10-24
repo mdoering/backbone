@@ -1,5 +1,4 @@
-Vorticella mamillata Fromentel, 1876 SPECIES
-=======
+# Vorticella mamillata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

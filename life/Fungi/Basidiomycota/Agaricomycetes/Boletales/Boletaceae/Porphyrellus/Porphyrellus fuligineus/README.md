@@ -1,5 +1,4 @@
-Porphyrellus fuligineus (Fr.) Singer SPECIES
-=======
+# Porphyrellus fuligineus (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

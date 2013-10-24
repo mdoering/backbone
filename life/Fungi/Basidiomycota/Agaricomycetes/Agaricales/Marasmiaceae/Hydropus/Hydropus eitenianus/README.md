@@ -1,5 +1,4 @@
-Hydropus eitenianus var. eitenianus VARIETY
-=======
+# Hydropus eitenianus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 7: 52 (1973)
 
 #### Original name
-Hydropus eitenianus var. eitenianus
+Hydropus eitenianus Singer
 
 ### Remarks
 null

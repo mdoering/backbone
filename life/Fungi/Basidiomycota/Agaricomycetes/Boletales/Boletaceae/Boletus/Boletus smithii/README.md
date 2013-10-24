@@ -1,5 +1,4 @@
-Boletus smithii Thiers SPECIES
-=======
+# Boletus smithii Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus parvisclerotigenus (Mich. Saito & Tsuruta) Frisvad & Samson SPECIES
-=======
+# Aspergillus parvisclerotigenus (Mich. Saito & Tsuruta) Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnella snaresensis W.B. Cooke, 1969 SPECIES
-=======
+# Lachnella snaresensis W.B. Cooke, 1969 SPECIES
 
 #### Status
 ACCEPTED

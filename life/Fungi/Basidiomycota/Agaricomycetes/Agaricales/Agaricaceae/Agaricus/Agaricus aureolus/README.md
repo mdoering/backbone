@@ -1,5 +1,4 @@
-Agaricus aureolus Kalchbr. SPECIES
-=======
+# Agaricus aureolus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum humili (W. Phillips) SPECIES
-=======
+# Lachnum humili (W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

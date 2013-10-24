@@ -1,5 +1,4 @@
-Lebouraia pusilla (E. Balech & R. Akselman) J. D. Dodge & S. Toriumi SPECIES
-=======
+# Lebouraia pusilla (E. Balech & R. Akselman) J. D. Dodge & S. Toriumi SPECIES
 
 #### Status
 ACCEPTED

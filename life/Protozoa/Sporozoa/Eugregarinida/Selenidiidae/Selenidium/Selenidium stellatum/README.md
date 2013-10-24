@@ -1,5 +1,4 @@
-Selenidium stellatum Tuzet & Ormières, 1965 SPECIES
-=======
+# Selenidium stellatum Tuzet & Ormières, 1965 SPECIES
 
 #### Status
 ACCEPTED

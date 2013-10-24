@@ -1,5 +1,4 @@
-Hypocrea degenerans Syd. SPECIES
-=======
+# Hypocrea degenerans Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geleia tenuis Dragesco, 1954 SPECIES
-=======
+# Geleia tenuis Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

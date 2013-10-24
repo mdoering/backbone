@@ -1,5 +1,4 @@
-Echidnodes vrieseae (Höhn.) Theiss. & Syd. SPECIES
-=======
+# Echidnodes vrieseae (Höhn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

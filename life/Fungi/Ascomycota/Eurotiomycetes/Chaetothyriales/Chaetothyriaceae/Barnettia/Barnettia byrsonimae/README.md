@@ -1,5 +1,4 @@
-Barnettia byrsonimae Bat. & Peres SPECIES
-=======
+# Barnettia byrsonimae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

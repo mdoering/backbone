@@ -1,5 +1,4 @@
-Acanthocoronium Haeckel, 1887 GENUS
-=======
+# Acanthocoronium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

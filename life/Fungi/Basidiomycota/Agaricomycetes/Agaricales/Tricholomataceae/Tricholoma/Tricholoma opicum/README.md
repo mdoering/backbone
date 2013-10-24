@@ -1,5 +1,4 @@
-Tricholoma opicum (Fr.) Gillet SPECIES
-=======
+# Tricholoma opicum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

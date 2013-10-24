@@ -1,5 +1,4 @@
-Phoma flavescens Gruyter, Noordel. & Boerema, 1993 SPECIES
-=======
+# Phoma flavescens Gruyter, Noordel. & Boerema, 1993 SPECIES
 
 #### Status
 ACCEPTED

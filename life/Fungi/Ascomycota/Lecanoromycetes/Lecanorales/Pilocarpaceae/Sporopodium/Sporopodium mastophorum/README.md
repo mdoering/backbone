@@ -1,5 +1,4 @@
-Sporopodium mastophorum Vain. SPECIES
-=======
+# Sporopodium mastophorum Vain. SPECIES
 
 #### Status
 ACCEPTED

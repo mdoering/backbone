@@ -1,5 +1,4 @@
-Cortinarius aremoricus Lebeurier & Rob. Henry SPECIES
-=======
+# Cortinarius aremoricus Lebeurier & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

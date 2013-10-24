@@ -1,5 +1,4 @@
-Clavaria molaris Berk. ex Cooke & Ellis SPECIES
-=======
+# Clavaria molaris Berk. ex Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

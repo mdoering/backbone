@@ -1,5 +1,4 @@
-Pulvinulina Carpenter, 1862 GENUS
-=======
+# Pulvinulina Carpenter, 1862 GENUS
 
 #### Status
 ACCEPTED

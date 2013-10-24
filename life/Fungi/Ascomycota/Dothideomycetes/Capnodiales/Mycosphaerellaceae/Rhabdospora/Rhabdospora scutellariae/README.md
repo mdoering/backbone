@@ -1,5 +1,4 @@
-Rhabdospora scutellariae Murashk. SPECIES
-=======
+# Rhabdospora scutellariae Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Crucellisporiopsis gelatinosus Nag Raj SPECIES
-=======
+# Crucellisporiopsis gelatinosa Nag Raj, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 60(12): 2605 (1983)
 
 #### Original name
-Crucellisporiopsis gelatinosus Nag Raj
+Crucellisporiopsis gelatinosa Nag Raj, 1983
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Physoderma rubsaameni (Magnus) Karling SPECIES
-=======
+# Physoderma ruebsaamenii (Magnus) Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 13(1): 49 (1950)
 
 #### Original name
 Urophlyctis ruebsaameni Magnus

@@ -1,5 +1,4 @@
-Cortinarius austropallescens Grgur. SPECIES
-=======
+# Cortinarius austropallescens Grgur. SPECIES
 
 #### Status
 ACCEPTED

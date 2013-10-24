@@ -1,5 +1,4 @@
-Xanthoparmelia micropsoromica T.H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia micropsoromica T.H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

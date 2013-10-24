@@ -1,5 +1,4 @@
-Sphaeria nitrosa Wallr. SPECIES
-=======
+# Sphaeria nitrosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

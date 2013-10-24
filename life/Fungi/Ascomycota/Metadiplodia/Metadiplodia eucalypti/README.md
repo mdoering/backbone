@@ -1,5 +1,4 @@
-Metadiplodia eucalypti Syd., 1937 SPECIES
-=======
+# Metadiplodia eucalypti Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

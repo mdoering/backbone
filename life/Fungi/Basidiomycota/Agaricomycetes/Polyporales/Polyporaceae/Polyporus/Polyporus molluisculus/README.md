@@ -1,5 +1,4 @@
-Polyporus molluisculus Berk. SPECIES
-=======
+# Polyporus molluisculus Berk. SPECIES
 
 #### Status
 ACCEPTED

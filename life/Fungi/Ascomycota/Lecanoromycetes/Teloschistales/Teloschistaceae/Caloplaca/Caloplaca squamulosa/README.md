@@ -1,5 +1,4 @@
-Caloplaca squamulosa (Wedd.) B. de Lesd. SPECIES
-=======
+# Caloplaca squamulosa (Wedd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

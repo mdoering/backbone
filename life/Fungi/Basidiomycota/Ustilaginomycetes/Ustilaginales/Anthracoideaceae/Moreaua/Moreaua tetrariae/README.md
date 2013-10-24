@@ -1,14 +1,13 @@
-Tolyposporium tetrariae Vánky, 1997 SPECIES
-=======
+# Moreaua tetrariae (Vánky) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 62: 160 (1997)
+Mycotaxon 74(2): 353 (2000)
 
 #### Original name
 Tolyposporium tetrariae Vánky, 1997

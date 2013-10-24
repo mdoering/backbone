@@ -1,5 +1,4 @@
-Hydnum olidum Berk. SPECIES
-=======
+# Hydnum olidum Berk. SPECIES
 
 #### Status
 ACCEPTED

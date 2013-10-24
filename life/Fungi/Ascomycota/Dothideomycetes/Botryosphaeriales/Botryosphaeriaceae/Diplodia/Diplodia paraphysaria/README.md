@@ -1,5 +1,4 @@
-Diplodia paraphysaria Sacc. SPECIES
-=======
+# Diplodia paraphysaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

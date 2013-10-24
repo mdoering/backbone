@@ -1,5 +1,4 @@
-Stephanodiscus transylvanicus Pantocsek SPECIES
-=======
+# Stephanodiscus transylvanicus Pantocsek SPECIES
 
 #### Status
 ACCEPTED

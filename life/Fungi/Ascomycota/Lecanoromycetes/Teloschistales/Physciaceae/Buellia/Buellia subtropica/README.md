@@ -1,5 +1,4 @@
-Buellia subtropica (Elix) Elix SPECIES
-=======
+# Buellia subtropica (Elix) Elix SPECIES
 
 #### Status
 ACCEPTED

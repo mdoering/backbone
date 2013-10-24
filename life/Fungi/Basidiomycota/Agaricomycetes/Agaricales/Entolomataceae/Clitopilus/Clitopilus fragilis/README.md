@@ -1,5 +1,4 @@
-Clitopilus fragilis Rick SPECIES
-=======
+# Clitopilus fragilis Rick SPECIES
 
 #### Status
 ACCEPTED

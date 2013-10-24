@@ -1,5 +1,4 @@
-Meliola setariae Hansf. & Deighton SPECIES
-=======
+# Meliola setariae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

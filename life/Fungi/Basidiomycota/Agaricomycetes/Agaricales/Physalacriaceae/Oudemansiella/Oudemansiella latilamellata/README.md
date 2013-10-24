@@ -1,5 +1,4 @@
-Oudemansiella latilamellata Mizuta SPECIES
-=======
+# Oudemansiella latilamellata Mizuta SPECIES
 
 #### Status
 ACCEPTED

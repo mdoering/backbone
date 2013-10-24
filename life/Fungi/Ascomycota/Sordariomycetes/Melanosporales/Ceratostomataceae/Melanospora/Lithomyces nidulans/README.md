@@ -1,5 +1,4 @@
-Lithomyces nidulans Viala & Marsais SPECIES
-=======
+# Lithomyces nidulans Viala & Marsais SPECIES
 
 #### Status
 ACCEPTED

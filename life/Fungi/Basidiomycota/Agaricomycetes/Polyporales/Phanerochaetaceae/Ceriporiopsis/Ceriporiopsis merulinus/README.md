@@ -1,17 +1,16 @@
-Poria fuscopurpurea SPECIES
-=======
+# Ceriporiopsis merulinus (Berk.) Rajchenb., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 16(4): 476 (2003)
 
 #### Original name
-Poria fuscopurpurea
+Polyporus merulinus Berk., 1860
 
 ### Remarks
 null

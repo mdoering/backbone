@@ -1,5 +1,4 @@
-Physalospora alismatis Feltgen SPECIES
-=======
+# Physalospora alismatis Feltgen SPECIES
 
 #### Status
 ACCEPTED

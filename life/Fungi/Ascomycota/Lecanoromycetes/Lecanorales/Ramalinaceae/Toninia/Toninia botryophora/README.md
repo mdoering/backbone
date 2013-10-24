@@ -1,5 +1,4 @@
-Toninia botryophora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Toninia botryophora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

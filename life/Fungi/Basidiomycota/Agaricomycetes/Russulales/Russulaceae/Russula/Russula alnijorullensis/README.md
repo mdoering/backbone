@@ -1,5 +1,4 @@
-Russula alnijorullensis (Singer) Singer SPECIES
-=======
+# Russula alnijorullensis (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

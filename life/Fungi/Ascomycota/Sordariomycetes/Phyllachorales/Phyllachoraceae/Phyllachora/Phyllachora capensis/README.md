@@ -1,14 +1,13 @@
-Scolecodothis capensis Doidge, 1921 SPECIES
-=======
+# Phyllachora capensis (Doidge) Doidge, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 1: 27 (1921)
+Bothalia 4: 452 (1942)
 
 #### Original name
 Scolecodothis capensis Doidge, 1921

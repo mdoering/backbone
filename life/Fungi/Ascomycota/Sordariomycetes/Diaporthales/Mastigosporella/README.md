@@ -1,5 +1,4 @@
-Mastigosporella Höhn. GENUS
-=======
+# Mastigosporella Höhn. GENUS
 
 #### Status
 ACCEPTED

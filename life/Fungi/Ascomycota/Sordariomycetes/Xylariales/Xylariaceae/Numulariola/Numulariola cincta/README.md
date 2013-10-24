@@ -1,5 +1,4 @@
-Numulariola cincta (Ferd. & Winge) P.M.D. Martin SPECIES
-=======
+# Numulariola cincta (Ferd. & Winge) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

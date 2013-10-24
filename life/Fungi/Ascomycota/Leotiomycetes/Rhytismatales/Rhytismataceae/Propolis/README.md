@@ -1,5 +1,4 @@
-Propolis Fr. GENUS
-=======
+# Propolis Fr. GENUS
 
 #### Status
 ACCEPTED

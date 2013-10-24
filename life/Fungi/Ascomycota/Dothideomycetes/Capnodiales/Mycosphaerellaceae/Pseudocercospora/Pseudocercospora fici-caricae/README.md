@@ -1,5 +1,4 @@
-Pseudocercospora fici-caricae (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora fici-caricae (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

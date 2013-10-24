@@ -1,5 +1,4 @@
-Asterina infuscans G. Winter SPECIES
-=======
+# Asterina infuscans G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnosphaera dichotoma Joergensen, 1900 SPECIES
-=======
+# Arachnosphaera dichotoma Joergensen, 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius bisporus Ballero, Contu & Poli SPECIES
-=======
+# Cortinarius bisporus Ballero, Contu & Poli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella mitellae (Peck) U. Braun SPECIES
-=======
+# Stenella mitellae (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

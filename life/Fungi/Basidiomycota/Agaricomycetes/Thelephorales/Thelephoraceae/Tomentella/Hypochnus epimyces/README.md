@@ -1,5 +1,4 @@
-Hypochnus epimyces (Bres.) Sacc. & D. Sacc. SPECIES
-=======
+# Hypochnus epimyces (Bres.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

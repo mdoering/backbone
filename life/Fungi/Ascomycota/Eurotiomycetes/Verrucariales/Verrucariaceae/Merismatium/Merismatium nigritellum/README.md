@@ -1,14 +1,13 @@
-Verrucaria nigritella Nyl. SPECIES
-=======
+# Merismatium nigritellum (Nyl.) Vouaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 48: 357 (1865)
+null
 
 #### Original name
 Verrucaria nigritella Nyl.

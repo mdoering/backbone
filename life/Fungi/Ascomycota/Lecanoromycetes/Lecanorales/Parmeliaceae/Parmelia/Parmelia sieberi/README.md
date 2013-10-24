@@ -1,5 +1,4 @@
-Parmelia sieberi C.W. Dodge SPECIES
-=======
+# Parmelia sieberi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidiopsis livescens (Bres.) Bourdot & Maire SPECIES
-=======
+# Exidiopsis livescens (Bres.) Bourdot & Maire SPECIES
 
 #### Status
 ACCEPTED

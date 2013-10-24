@@ -1,5 +1,4 @@
-Peniophora kauffmanii Burt SPECIES
-=======
+# Peniophora kauffmanii Burt SPECIES
 
 #### Status
 ACCEPTED

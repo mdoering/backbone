@@ -1,5 +1,4 @@
-Niptera cinerea Fuckel SPECIES
-=======
+# Niptera cinerea Fuckel SPECIES
 
 #### Status
 ACCEPTED

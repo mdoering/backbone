@@ -1,5 +1,4 @@
-Hypoxylon hemisphaericum J.H. Mill. SPECIES
-=======
+# Hypoxylon hemisphaericum J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

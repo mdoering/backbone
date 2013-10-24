@@ -1,17 +1,16 @@
-Cortinarius cramesinus (E. Horak) R.H. Jones & T.W. May, 2008 SPECIES
-=======
+# Dermocybe cramesina E. Horak, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 40: 87 (1988)
 
 #### Original name
-null
+Dermocybe cramesina E. Horak, 1988
 
 ### Remarks
 null

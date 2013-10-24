@@ -1,5 +1,4 @@
-Limacinia colchica Woron. SPECIES
-=======
+# Limacinia colchica Woron. SPECIES
 
 #### Status
 ACCEPTED

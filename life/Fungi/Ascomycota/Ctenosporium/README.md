@@ -1,5 +1,4 @@
-Ctenosporium R. Kirschner GENUS
-=======
+# Ctenosporium R. Kirschner GENUS
 
 #### Status
 ACCEPTED

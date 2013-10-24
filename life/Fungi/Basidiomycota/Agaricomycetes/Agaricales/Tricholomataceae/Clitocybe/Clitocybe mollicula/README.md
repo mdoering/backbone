@@ -1,5 +1,4 @@
-Clitocybe mollicula (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe mollicula (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

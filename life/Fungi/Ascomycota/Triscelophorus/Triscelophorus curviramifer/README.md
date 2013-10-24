@@ -1,5 +1,4 @@
-Triscelophorus curviramifer Matsush. SPECIES
-=======
+# Triscelophorus curviramifer Matsush. SPECIES
 
 #### Status
 ACCEPTED

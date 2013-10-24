@@ -1,5 +1,4 @@
-Buelliella nuttallii (Calk. & Nyl.) Fink SPECIES
-=======
+# Buelliella nuttallii (Calk. & Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

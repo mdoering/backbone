@@ -1,5 +1,4 @@
-Pseudophacidium piceae E. Müll., 1963 SPECIES
-=======
+# Pseudophacidium piceae E. Müll., 1963 SPECIES
 
 #### Status
 ACCEPTED

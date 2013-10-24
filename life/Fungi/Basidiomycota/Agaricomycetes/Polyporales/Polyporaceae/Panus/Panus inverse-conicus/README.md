@@ -1,5 +1,4 @@
-Panus inverse-conicus Lerchenf. & Schulzer SPECIES
-=======
+# Panus inverse-conicus Lerchenf. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

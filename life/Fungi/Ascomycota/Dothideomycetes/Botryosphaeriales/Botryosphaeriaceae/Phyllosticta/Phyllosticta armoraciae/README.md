@@ -1,5 +1,4 @@
-Phyllosticta armoraciae (Cooke) Sacc. SPECIES
-=======
+# Phyllosticta armoraciae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

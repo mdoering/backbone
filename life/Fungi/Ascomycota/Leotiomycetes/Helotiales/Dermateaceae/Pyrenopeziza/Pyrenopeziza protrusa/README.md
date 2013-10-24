@@ -1,5 +1,4 @@
-Pyrenopeziza protrusa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pyrenopeziza protrusa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

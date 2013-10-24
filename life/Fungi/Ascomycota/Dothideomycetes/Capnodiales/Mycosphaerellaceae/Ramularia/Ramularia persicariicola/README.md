@@ -1,5 +1,4 @@
-Ramularia persicariicola U. Braun & C.F. Hill, 2004 SPECIES
-=======
+# Ramularia persicariicola U. Braun & C.F. Hill, 2004 SPECIES
 
 #### Status
 ACCEPTED

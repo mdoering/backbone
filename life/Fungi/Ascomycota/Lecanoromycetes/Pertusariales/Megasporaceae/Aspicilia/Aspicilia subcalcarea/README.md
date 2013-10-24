@@ -1,5 +1,4 @@
-Aspicilia subcalcarea (Müll. Arg.) Szatala SPECIES
-=======
+# Aspicilia subcalcarea (Müll. Arg.) Szatala SPECIES
 
 #### Status
 ACCEPTED

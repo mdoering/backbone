@@ -1,5 +1,4 @@
-Nectria daldiniana var. daldiniana Ces. & De Not. VARIETY
-=======
+# Nectria daldiniana Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nectria daldiniana var. daldiniana Ces. & De Not.
+Nectria daldiniana Ces. & De Not.
 
 ### Remarks
 null

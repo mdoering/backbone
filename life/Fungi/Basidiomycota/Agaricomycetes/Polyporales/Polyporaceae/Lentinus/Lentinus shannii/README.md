@@ -1,5 +1,4 @@
-Lentinus shannii Berk. SPECIES
-=======
+# Lentinus shannii Berk. SPECIES
 
 #### Status
 ACCEPTED

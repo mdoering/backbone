@@ -1,5 +1,4 @@
-Cryptococcus rubrorugosus Castell. SPECIES
-=======
+# Cryptococcus rubrorugosus Castell. SPECIES
 
 #### Status
 ACCEPTED

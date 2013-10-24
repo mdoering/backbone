@@ -1,5 +1,4 @@
-Lopadium stephanellum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium stephanellum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

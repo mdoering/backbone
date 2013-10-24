@@ -1,5 +1,4 @@
-Puccinia stipicida Speg. SPECIES
-=======
+# Puccinia stipicida Speg. SPECIES
 
 #### Status
 ACCEPTED

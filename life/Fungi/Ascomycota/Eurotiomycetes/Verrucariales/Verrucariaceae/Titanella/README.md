@@ -1,5 +1,4 @@
-Titanella GENUS
-=======
+# Titanella GENUS
 
 #### Status
 ACCEPTED

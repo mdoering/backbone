@@ -1,5 +1,4 @@
-Septoria xanthiicola Sawada SPECIES
-=======
+# Septoria xanthiicola Sawada SPECIES
 
 #### Status
 ACCEPTED

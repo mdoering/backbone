@@ -1,5 +1,4 @@
-Simocybe unica E. Horak, 1980 SPECIES
-=======
+# Simocybe unica E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta tweediana Penz. & Sacc. SPECIES
-=======
+# Ascochyta tweediana Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tarichium tatricum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium tatricum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

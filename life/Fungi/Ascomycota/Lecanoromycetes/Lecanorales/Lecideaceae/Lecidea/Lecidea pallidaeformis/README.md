@@ -1,5 +1,4 @@
-Lecidea pallidaeformis Anzi SPECIES
-=======
+# Lecidea pallidaeformis Anzi SPECIES
 
 #### Status
 ACCEPTED

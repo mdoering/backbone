@@ -1,5 +1,4 @@
-Stereocaulon squamescens (Nyl.) Räsänen SPECIES
-=======
+# Stereocaulon squamescens (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spicaria viridis Svilv. SPECIES
-=======
+# Spicaria viridis Svilv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hassiella monospora T.N. Taylor, M. Krings & Kerp SPECIES
-=======
+# Hassiella monospora T.N. Taylor, M. Krings & Kerp SPECIES
 
 #### Status
 ACCEPTED

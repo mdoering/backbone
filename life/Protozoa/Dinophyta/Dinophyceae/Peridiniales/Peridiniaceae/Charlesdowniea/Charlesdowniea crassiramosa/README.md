@@ -1,5 +1,4 @@
-Charlesdowniea crassiramosa (G.L. Williams & C. Downie) J.K. Lentin & T.F. Vozzhennikova SPECIES
-=======
+# Charlesdowniea crassiramosa (G.L. Williams & C. Downie) J.K. Lentin & T.F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago echinata J. Schröt., 1869 SPECIES
-=======
+# Ustilago echinata J. Schröt., 1869 SPECIES
 
 #### Status
 ACCEPTED

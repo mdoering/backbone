@@ -1,5 +1,4 @@
-Omphalia tepeitensis (Murrill) Murrill SPECIES
-=======
+# Omphalia tepeitensis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

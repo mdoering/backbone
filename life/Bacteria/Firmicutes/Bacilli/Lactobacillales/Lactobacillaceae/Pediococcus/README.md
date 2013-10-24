@@ -1,5 +1,4 @@
-Pediococcus GENUS
-=======
+# Pediococcus GENUS
 
 #### Status
 ACCEPTED

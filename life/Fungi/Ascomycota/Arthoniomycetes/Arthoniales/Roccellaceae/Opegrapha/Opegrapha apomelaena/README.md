@@ -1,5 +1,4 @@
-Opegrapha apomelaena A. Massal. SPECIES
-=======
+# Opegrapha apomelaena A. Massal. SPECIES
 
 #### Status
 ACCEPTED

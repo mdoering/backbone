@@ -1,5 +1,4 @@
-Laboulbenia brachini f. brachini FORM
-=======
+# Laboulbenia brachini Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia brachini f. brachini
+Laboulbenia brachini Thaxt.
 
 ### Remarks
 null

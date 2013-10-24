@@ -1,17 +1,16 @@
-Coronellaria aquilina Rehm, 1885 SPECIES
-=======
+# Leptopeltis pteridis (Mouton) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 24: 231 (1885)
+null
 
 #### Original name
-Coronellaria aquilina Rehm, 1885
+Gloniella filicina var. pteridis Mouton, 1889
 
 ### Remarks
 null

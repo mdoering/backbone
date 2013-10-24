@@ -1,17 +1,16 @@
-Temnospora A. Massal. GENUS
-=======
+# Chrysothrix Montagne, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 266 (1860)
+Annls Sci. Nat. , Bot. , sér. 3 18: 312 (1852)
 
 #### Original name
-Temnospora A. Massal.
+Chrysothrix Montagne, 1852
 
 ### Remarks
 null

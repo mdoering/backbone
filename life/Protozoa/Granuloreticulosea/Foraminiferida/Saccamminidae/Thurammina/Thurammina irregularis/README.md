@@ -1,5 +1,4 @@
-Thurammina irregularis Wiesner, 1931 SPECIES
-=======
+# Thurammina irregularis Wiesner, 1931 SPECIES
 
 #### Status
 ACCEPTED

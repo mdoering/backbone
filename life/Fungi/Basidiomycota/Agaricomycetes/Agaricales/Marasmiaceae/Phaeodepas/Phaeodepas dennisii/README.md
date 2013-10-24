@@ -1,5 +1,4 @@
-Phaeodepas dennisii D.A. Reid, 1961 SPECIES
-=======
+# Phaeodepas dennisii D.A. Reid, 1961 SPECIES
 
 #### Status
 ACCEPTED

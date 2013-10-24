@@ -1,5 +1,4 @@
-Diplodomyces W. Rossi & J. Balazuc, 1977 GENUS
-=======
+# Diplodomyces W. Rossi & J. Balazuc, 1977 GENUS
 
 #### Status
 ACCEPTED

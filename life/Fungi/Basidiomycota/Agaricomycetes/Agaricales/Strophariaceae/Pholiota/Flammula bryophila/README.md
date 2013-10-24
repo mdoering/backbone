@@ -1,5 +1,4 @@
-Flammula bryophila Murrill SPECIES
-=======
+# Flammula bryophila Murrill SPECIES
 
 #### Status
 ACCEPTED

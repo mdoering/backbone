@@ -1,5 +1,4 @@
-Octospora calyciformis Hedw. SPECIES
-=======
+# Octospora calyciformis Hedw. SPECIES
 
 #### Status
 ACCEPTED

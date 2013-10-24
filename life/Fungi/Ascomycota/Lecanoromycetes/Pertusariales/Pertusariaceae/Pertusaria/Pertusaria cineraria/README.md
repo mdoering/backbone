@@ -1,5 +1,4 @@
-Pertusaria cineraria Nyl. SPECIES
-=======
+# Pertusaria cineraria Nyl. SPECIES
 
 #### Status
 ACCEPTED

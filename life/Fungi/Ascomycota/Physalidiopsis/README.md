@@ -1,5 +1,4 @@
-Physalidiopsis R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Physalidiopsis R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parvicorbicula superpositus Booth SPECIES
-=======
+# Parvicorbicula superpositus Booth SPECIES
 
 #### Status
 ACCEPTED

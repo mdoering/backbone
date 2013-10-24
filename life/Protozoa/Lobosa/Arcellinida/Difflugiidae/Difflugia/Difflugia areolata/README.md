@@ -1,5 +1,4 @@
-Difflugia areolata Ehr. SPECIES
-=======
+# Difflugia areolata Ehr. SPECIES
 
 #### Status
 ACCEPTED

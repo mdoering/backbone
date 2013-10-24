@@ -1,5 +1,4 @@
-Thermomonas koreensis Kim et al., 2006 SPECIES
-=======
+# Thermomonas koreensis Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

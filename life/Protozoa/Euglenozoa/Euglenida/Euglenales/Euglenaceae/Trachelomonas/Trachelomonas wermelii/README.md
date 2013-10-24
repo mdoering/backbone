@@ -1,5 +1,4 @@
-Trachelomonas wermelii Skvortzov SPECIES
-=======
+# Trachelomonas wermelii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

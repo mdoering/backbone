@@ -1,5 +1,4 @@
-Aecidium merenderae Syd. & P. Syd. SPECIES
-=======
+# Aecidium merenderae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

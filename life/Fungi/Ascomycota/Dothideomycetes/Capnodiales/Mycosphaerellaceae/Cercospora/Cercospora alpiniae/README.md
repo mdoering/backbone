@@ -1,5 +1,4 @@
-Cercospora alpiniae Syd. & P. Syd. SPECIES
-=======
+# Cercospora alpiniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

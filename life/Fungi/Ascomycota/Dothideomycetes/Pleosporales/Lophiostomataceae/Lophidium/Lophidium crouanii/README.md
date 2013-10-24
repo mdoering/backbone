@@ -1,5 +1,4 @@
-Lophidium crouanii (Nitschke) Berl. & Voglino SPECIES
-=======
+# Lophidium crouanii (Nitschke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

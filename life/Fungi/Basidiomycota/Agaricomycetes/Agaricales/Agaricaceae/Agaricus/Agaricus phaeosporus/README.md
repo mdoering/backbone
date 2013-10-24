@@ -1,5 +1,4 @@
-Agaricus phaeosporus Fr. SPECIES
-=======
+# Agaricus phaeosporus Fr. SPECIES
 
 #### Status
 ACCEPTED

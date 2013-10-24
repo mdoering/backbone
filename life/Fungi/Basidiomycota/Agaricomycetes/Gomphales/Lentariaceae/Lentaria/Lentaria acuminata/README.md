@@ -1,5 +1,4 @@
-Lentaria acuminata Douanla-Meli SPECIES
-=======
+# Lentaria acuminata Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

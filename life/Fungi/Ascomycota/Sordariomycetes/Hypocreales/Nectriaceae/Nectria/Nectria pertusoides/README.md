@@ -1,5 +1,4 @@
-Nectria pertusoides Samuels, 1976 SPECIES
-=======
+# Nectria pertusoides Samuels, 1976 SPECIES
 
 #### Status
 ACCEPTED

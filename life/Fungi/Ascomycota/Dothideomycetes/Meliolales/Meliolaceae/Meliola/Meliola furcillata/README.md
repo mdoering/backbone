@@ -1,5 +1,4 @@
-Meliola furcillata var. furcillata VARIETY
-=======
+# Meliola furcillata Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Roy. Soc. South Africa 5: 738 (1917)
 
 #### Original name
-Meliola furcillata var. furcillata
+Meliola furcillata Doidge
 
 ### Remarks
 null

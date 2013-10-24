@@ -1,5 +1,4 @@
-Biatora streptospora Naeg. SPECIES
-=======
+# Biatora streptospora Naeg. SPECIES
 
 #### Status
 ACCEPTED

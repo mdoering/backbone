@@ -1,5 +1,4 @@
-Dicellaesporites reniformis Zhong Y. Zhang SPECIES
-=======
+# Dicellaesporites reniformis Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

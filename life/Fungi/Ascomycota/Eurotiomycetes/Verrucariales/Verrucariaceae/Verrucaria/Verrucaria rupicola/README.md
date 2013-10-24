@@ -1,5 +1,4 @@
-Verrucaria rupicola (B. de Lesd.) Breuss SPECIES
-=======
+# Verrucaria rupicola (B. de Lesd.) Breuss SPECIES
 
 #### Status
 ACCEPTED

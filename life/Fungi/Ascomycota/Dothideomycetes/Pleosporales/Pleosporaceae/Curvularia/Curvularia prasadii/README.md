@@ -1,5 +1,4 @@
-Curvularia prasadii R.L. Mathur & B.L. Mathur, 1959 SPECIES
-=======
+# Curvularia prasadii R.L. Mathur & B.L. Mathur, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium glaucocinerascens Chalab. SPECIES
-=======
+# Penicillium glaucocinerascens Chalab. SPECIES
 
 #### Status
 ACCEPTED

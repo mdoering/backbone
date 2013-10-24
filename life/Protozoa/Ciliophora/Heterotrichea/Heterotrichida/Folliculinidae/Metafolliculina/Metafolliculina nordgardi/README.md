@@ -1,5 +1,4 @@
-Metafolliculina nordgardi Dons, 1924 SPECIES
-=======
+# Metafolliculina nordgardi Dons, 1924 SPECIES
 
 #### Status
 ACCEPTED

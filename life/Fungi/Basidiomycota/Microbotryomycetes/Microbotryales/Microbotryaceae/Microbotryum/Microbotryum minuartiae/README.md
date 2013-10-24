@@ -1,5 +1,4 @@
-Microbotryum minuartiae M. Lutz, Piatek, Kemler & Chleb., 2008 SPECIES
-=======
+# Microbotryum minuartiae M. Lutz, Piatek, Kemler & Chleb., 2008 SPECIES
 
 #### Status
 ACCEPTED

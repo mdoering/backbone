@@ -1,5 +1,4 @@
-Halecania santessonii M. P. Andreev SPECIES
-=======
+# Halecania santessonii M. P. Andreev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporotrichum councilmani Wolbach, Sisson & Meier SPECIES
-=======
+# Sporotrichum councilmanii Wolbach, Sisson & Meier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Medical Research 36: 337 (1917)
 
 #### Original name
-Sporotrichum councilmani Wolbach, Sisson & Meier
+Sporotrichum councilmanii Wolbach, Sisson & Meier
 
 ### Remarks
 null

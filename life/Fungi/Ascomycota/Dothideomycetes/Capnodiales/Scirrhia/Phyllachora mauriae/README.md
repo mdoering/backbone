@@ -1,5 +1,4 @@
-Phyllachora mauriae Syd., 1925 SPECIES
-=======
+# Phyllachora mauriae Syd., 1925 SPECIES
 
 #### Status
 DOUBTFUL

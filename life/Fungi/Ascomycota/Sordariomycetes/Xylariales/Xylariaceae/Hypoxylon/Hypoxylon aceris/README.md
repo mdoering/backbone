@@ -1,5 +1,4 @@
-Hypoxylon aceris (Cooke & Ellis) Sacc. SPECIES
-=======
+# Hypoxylon aceris (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

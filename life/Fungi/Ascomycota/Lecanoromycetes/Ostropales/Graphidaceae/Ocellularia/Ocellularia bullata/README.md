@@ -1,5 +1,4 @@
-Ocellularia bullata Hale SPECIES
-=======
+# Ocellularia bullata Hale SPECIES
 
 #### Status
 ACCEPTED

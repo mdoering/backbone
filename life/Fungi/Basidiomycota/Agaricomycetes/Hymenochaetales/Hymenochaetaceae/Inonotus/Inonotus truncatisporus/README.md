@@ -1,5 +1,4 @@
-Inonotus truncatisporus Corner SPECIES
-=======
+# Inonotus truncatisporus Corner SPECIES
 
 #### Status
 ACCEPTED

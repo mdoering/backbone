@@ -1,5 +1,4 @@
-Gloeothece parvula Gardner SPECIES
-=======
+# Gloeothece parvula Gardner SPECIES
 
 #### Status
 ACCEPTED

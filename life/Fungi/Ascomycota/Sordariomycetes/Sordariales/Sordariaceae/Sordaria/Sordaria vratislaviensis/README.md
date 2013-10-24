@@ -1,5 +1,4 @@
-Sordaria vratislaviensis Alf. Schmidt SPECIES
-=======
+# Sordaria vratislaviensis Alf. Schmidt SPECIES
 
 #### Status
 ACCEPTED

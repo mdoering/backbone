@@ -1,5 +1,4 @@
-Agaricus fulvofuligineus Alb. & Schwein. SPECIES
-=======
+# Agaricus fulvofuligineus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

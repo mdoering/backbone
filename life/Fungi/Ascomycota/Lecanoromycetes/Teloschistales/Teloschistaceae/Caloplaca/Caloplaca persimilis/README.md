@@ -1,5 +1,4 @@
-Caloplaca persimilis Wetmore SPECIES
-=======
+# Caloplaca persimilis Wetmore SPECIES
 
 #### Status
 ACCEPTED

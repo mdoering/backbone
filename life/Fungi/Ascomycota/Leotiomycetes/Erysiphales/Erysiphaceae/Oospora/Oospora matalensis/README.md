@@ -1,5 +1,4 @@
-Oospora matalensis (Castell.) Berkhout SPECIES
-=======
+# Oospora matalensis (Castell.) Berkhout SPECIES
 
 #### Status
 ACCEPTED

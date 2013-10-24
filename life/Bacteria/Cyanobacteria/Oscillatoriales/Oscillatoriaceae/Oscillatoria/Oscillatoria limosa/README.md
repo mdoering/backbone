@@ -1,5 +1,4 @@
-Oscillatoria limosa f. minor A.D. Mahajan & R.J. Patel FORM
-=======
+# Oscillatoria limosa C. Agardh SPECIES
 
 #### Status
 ACCEPTED

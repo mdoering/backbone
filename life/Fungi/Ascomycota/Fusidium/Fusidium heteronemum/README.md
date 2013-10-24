@@ -1,14 +1,13 @@
-Cylindrium heteronemum Sacc., 1886 SPECIES
-=======
+# Fusidium heteronemum (Sacc.) Cif. & Caretta, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 38 (1886)
+Mycopathologia 16: 310 (1962)
 
 #### Original name
 Cylindrium heteronemum Sacc., 1886

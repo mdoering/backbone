@@ -1,5 +1,4 @@
-Septoria aesculi (Lib.) Westend. SPECIES
-=======
+# Septoria aesculi (Lib.) Westend. SPECIES
 
 #### Status
 ACCEPTED

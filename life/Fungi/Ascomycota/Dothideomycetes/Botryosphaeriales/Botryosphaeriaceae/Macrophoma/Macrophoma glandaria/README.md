@@ -1,5 +1,4 @@
-Macrophoma glandaria Sacc. SPECIES
-=======
+# Macrophoma glandaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

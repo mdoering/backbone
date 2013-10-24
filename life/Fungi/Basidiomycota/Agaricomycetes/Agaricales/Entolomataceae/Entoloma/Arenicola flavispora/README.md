@@ -1,5 +1,4 @@
-Arenicola flavispora Velen. SPECIES
-=======
+# Arenicola flavispora Velen. SPECIES
 
 #### Status
 ACCEPTED

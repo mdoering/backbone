@@ -1,5 +1,4 @@
-Crepidotus longisporus M. lange SPECIES
-=======
+# Crepidotus longisporus M. lange SPECIES
 
 #### Status
 ACCEPTED

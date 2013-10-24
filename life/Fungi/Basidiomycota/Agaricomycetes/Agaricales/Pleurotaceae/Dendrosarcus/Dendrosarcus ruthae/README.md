@@ -1,5 +1,4 @@
-Dendrosarcus ruthae (Berk. & Broome) Kuntze SPECIES
-=======
+# Dendrosarcus ruthae (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

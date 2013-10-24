@@ -1,5 +1,4 @@
-Septoria anemones-transsilvanicae Savul. & Sandu SPECIES
-=======
+# Septoria anemones-transsilvanicae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidia autaxia (Nyl.) Nyl. SPECIES
-=======
+# Phlyctidia autaxia (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

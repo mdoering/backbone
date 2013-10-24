@@ -1,5 +1,4 @@
-Lophiostoma muriforme Z.Q. Yuan SPECIES
-=======
+# Lophiostoma muriforme Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

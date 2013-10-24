@@ -1,5 +1,4 @@
-Paradendryphiopsis M.B. Ellis GENUS
-=======
+# Paradendryphiopsis M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

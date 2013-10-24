@@ -1,5 +1,4 @@
-Ascochyta geraniicola Siemaszko SPECIES
-=======
+# Ascochyta geraniicola Siemaszko SPECIES
 
 #### Status
 ACCEPTED

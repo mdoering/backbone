@@ -1,14 +1,13 @@
-Peniophora totara G. Cunn., 1955 SPECIES
-=======
+# Phlebia totara (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 83: 271 (1955)
+N. Z. Jl Bot. 29(3): 338 (1991)
 
 #### Original name
 Peniophora totara G. Cunn., 1955

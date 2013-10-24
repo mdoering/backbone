@@ -1,5 +1,4 @@
-Parmelia plumbeata Zahlbr. SPECIES
-=======
+# Parmelia plumbeata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

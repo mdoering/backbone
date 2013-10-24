@@ -1,17 +1,16 @@
-Septoria pirolae Ellis & G. Martin SPECIES
-=======
+# Septoria pyrolae Ellis & G. Martin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 1(8): 100 (1885)
 
 #### Original name
-Septoria pirolae Ellis & G. Martin
+Septoria pyrolae Ellis & G. Martin
 
 ### Remarks
 null

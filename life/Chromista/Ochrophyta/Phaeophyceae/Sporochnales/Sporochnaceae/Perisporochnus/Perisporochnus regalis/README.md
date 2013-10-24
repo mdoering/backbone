@@ -1,5 +1,4 @@
-Perisporochnus regalis V.J.Chapman SPECIES
-=======
+# Perisporochnus regalis V.J.Chapman SPECIES
 
 #### Status
 ACCEPTED

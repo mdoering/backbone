@@ -1,5 +1,4 @@
-Nephromyces sorokini Giard SPECIES
-=======
+# Nephromyces sorokini Giard SPECIES
 
 #### Status
 ACCEPTED

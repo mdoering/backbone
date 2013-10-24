@@ -1,5 +1,4 @@
-Pseudomonas oleovorans Lee and Chandler, 1941 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas oleovorans Lee and Chandler, 1941 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

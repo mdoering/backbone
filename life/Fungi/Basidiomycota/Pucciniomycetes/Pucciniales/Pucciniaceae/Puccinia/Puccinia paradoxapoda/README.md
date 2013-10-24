@@ -1,5 +1,4 @@
-Puccinia paradoxapoda Speg. SPECIES
-=======
+# Puccinia paradoxapoda Speg. SPECIES
 
 #### Status
 ACCEPTED

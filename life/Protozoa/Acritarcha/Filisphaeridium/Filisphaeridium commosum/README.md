@@ -1,5 +1,4 @@
-Filisphaeridium commosum (Pyatiletov, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium commosum (Pyatiletov, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

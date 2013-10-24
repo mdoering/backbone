@@ -1,5 +1,4 @@
-Pyrenopsis portoricensis Zahlbr. SPECIES
-=======
+# Pyrenopsis portoricensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

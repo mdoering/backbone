@@ -1,5 +1,4 @@
-Puccinia jungiae Henn. SPECIES
-=======
+# Puccinia jungiae Henn. SPECIES
 
 #### Status
 ACCEPTED

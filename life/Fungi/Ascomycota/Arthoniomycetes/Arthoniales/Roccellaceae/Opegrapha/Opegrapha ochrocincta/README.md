@@ -1,5 +1,4 @@
-Opegrapha ochrocincta Werner SPECIES
-=======
+# Opegrapha ochrocincta Werner SPECIES
 
 #### Status
 ACCEPTED

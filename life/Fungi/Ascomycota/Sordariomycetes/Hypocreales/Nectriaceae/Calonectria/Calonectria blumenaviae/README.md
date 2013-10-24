@@ -1,5 +1,4 @@
-Calonectria blumenaviae Henn. SPECIES
-=======
+# Calonectria blumenaviae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces canariensis Thaxt., 1900 SPECIES
-=======
+# Rhachomyces canariensis Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius fuegianus Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius fuegianus Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota acericola Peck SPECIES
-=======
+# Pholiota acericola Peck SPECIES
 
 #### Status
 ACCEPTED

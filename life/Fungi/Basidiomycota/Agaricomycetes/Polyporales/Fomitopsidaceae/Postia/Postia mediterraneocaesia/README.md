@@ -1,5 +1,4 @@
-Postia mediterraneocaesia M. Pieri & B. Rivoire SPECIES
-=======
+# Postia mediterraneocaesia M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

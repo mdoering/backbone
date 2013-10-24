@@ -1,5 +1,4 @@
-Lecidea solitaria Darb. SPECIES
-=======
+# Lecidea solitaria Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza rubi Lasch SPECIES
-=======
+# Peziza rubi Lasch SPECIES
 
 #### Status
 ACCEPTED

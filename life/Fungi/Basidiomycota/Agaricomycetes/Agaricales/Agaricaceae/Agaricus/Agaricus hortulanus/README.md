@@ -1,5 +1,4 @@
-Agaricus hortulanus Mont. SPECIES
-=======
+# Agaricus hortulanus Mont. SPECIES
 
 #### Status
 ACCEPTED

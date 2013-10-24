@@ -1,5 +1,4 @@
-Pyrolobus Blochl, Rachel, Burggraf, Hafenbradl, Jannasch & Stetter, 1997 GENUS
-=======
+# Pyrolobus Blochl, Rachel, Burggraf, Hafenbradl, Jannasch & Stetter, 1997 GENUS
 
 #### Status
 ACCEPTED

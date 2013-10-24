@@ -1,5 +1,4 @@
-Dialonectria smilacis anon. SPECIES
-=======
+# Dialonectria smilacis anon. SPECIES
 
 #### Status
 ACCEPTED

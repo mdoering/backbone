@@ -1,5 +1,4 @@
-Mycosphaerella hypochaeridis Morochk. SPECIES
-=======
+# Mycosphaerella hypochaeridis Morochk. SPECIES
 
 #### Status
 ACCEPTED

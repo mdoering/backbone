@@ -1,5 +1,4 @@
-Leptosphaeria heliopsidis (Schwein.) L. Holm SPECIES
-=======
+# Leptosphaeria heliopsidis (Schwein.) L. Holm SPECIES
 
 #### Status
 ACCEPTED

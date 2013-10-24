@@ -1,5 +1,4 @@
-Epicoccum chrysanthemi Du Plessis SPECIES
-=======
+# Epicoccum chrysanthemi Du Plessis SPECIES
 
 #### Status
 ACCEPTED

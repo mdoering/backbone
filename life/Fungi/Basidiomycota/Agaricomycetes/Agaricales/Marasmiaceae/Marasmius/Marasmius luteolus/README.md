@@ -1,5 +1,4 @@
-Marasmius luteolus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius luteolus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

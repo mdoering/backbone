@@ -1,5 +1,4 @@
-Puccinia rottboelliana P. Syd. & Syd. SPECIES
-=======
+# Puccinia rottboelliana P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

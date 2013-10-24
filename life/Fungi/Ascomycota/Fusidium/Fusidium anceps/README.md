@@ -1,5 +1,4 @@
-Fusidium anceps Fürnr. SPECIES
-=======
+# Fusidium anceps Fürnr. SPECIES
 
 #### Status
 ACCEPTED

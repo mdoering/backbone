@@ -1,5 +1,4 @@
-Hendersonia thyoides Cooke & Ellis SPECIES
-=======
+# Hendersonia thyoides Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

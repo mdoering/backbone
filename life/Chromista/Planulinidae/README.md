@@ -1,5 +1,4 @@
-Planulinidae Bermudez, 1952 FAMILY
-=======
+# Planulinidae Bermudez, 1952 FAMILY
 
 #### Status
 ACCEPTED

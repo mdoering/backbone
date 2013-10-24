@@ -1,5 +1,4 @@
-Chaetothyrium butleri (Syd. & P. Syd.) Mundk. SPECIES
-=======
+# Chaetothyrium butleri (Syd. & P. Syd.) Mundk. SPECIES
 
 #### Status
 ACCEPTED

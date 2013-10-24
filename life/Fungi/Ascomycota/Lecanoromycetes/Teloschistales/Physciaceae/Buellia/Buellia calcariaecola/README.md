@@ -1,5 +1,4 @@
-Buellia calcariaecola B. de Lesd. SPECIES
-=======
+# Buellia calcariaecola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

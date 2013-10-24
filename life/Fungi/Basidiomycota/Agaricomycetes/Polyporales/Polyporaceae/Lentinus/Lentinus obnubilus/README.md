@@ -1,5 +1,4 @@
-Lentinus obnubilus Berk. SPECIES
-=======
+# Lentinus obnubilus Berk. SPECIES
 
 #### Status
 ACCEPTED

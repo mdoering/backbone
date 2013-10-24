@@ -1,5 +1,4 @@
-Tropicimonas Harwati, Kasai, Kodama, Susilaningsih & Watanabe, 2009 GENUS
-=======
+# Tropicimonas Harwati, Kasai, Kodama, Susilaningsih & Watanabe, 2009 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis herrerae Singer SPECIES
-=======
+# Crinipellis herrerae Singer SPECIES
 
 #### Status
 ACCEPTED

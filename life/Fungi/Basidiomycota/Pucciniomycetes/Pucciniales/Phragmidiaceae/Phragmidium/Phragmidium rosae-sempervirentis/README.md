@@ -1,5 +1,4 @@
-Phragmidium rosae-sempervirentis Maire SPECIES
-=======
+# Phragmidium rosae-sempervirentis Maire SPECIES
 
 #### Status
 ACCEPTED

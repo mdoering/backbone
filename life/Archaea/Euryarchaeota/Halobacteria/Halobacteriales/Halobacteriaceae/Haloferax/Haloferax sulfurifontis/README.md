@@ -1,5 +1,4 @@
-Haloferax sulfurifontis Elshahed et al., 2004 SPECIES
-=======
+# Haloferax sulfurifontis Elshahed et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

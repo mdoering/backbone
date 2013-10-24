@@ -1,5 +1,4 @@
-Neoarcangelia GENUS
-=======
+# Neoarcangelia GENUS
 
 #### Status
 ACCEPTED

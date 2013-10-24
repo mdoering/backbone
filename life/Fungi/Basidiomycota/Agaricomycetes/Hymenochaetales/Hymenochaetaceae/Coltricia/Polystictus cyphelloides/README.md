@@ -1,5 +1,4 @@
-Polystictus cyphelloides Fr. SPECIES
-=======
+# Polystictus cyphelloides Fr. SPECIES
 
 #### Status
 ACCEPTED

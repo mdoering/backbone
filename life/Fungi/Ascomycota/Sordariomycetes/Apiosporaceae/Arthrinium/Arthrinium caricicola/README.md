@@ -1,5 +1,4 @@
-Arthrinium caricicola Kunze & J.C. Schmidt, 1817 SPECIES
-=======
+# Arthrinium caricicola Kunze & J.C. Schmidt, 1817 SPECIES
 
 #### Status
 ACCEPTED

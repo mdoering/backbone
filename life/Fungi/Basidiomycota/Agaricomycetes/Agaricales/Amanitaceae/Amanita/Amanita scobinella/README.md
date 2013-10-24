@@ -1,5 +1,4 @@
-Amanita scobinella (Fr.) SPECIES
-=======
+# Amanita scobinella (Fr.) SPECIES
 
 #### Status
 ACCEPTED

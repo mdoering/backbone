@@ -1,5 +1,4 @@
-Caloplaca isidiosissimus Breuss SPECIES
-=======
+# Caloplaca isidiosissimus Breuss SPECIES
 
 #### Status
 ACCEPTED

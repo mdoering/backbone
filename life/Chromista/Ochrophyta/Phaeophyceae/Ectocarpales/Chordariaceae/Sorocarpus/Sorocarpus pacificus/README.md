@@ -1,5 +1,4 @@
-Sorocarpus pacificus Hollenberg SPECIES
-=======
+# Sorocarpus pacificus Hollenberg SPECIES
 
 #### Status
 ACCEPTED

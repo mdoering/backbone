@@ -1,5 +1,4 @@
-Uredo dispersa Erikss. & Henning SPECIES
-=======
+# Uredo dispersa Erikss. & Henning SPECIES
 
 #### Status
 ACCEPTED

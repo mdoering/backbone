@@ -1,5 +1,4 @@
-Biatora theiochroa Darb. SPECIES
-=======
+# Biatora theiochroa Darb. SPECIES
 
 #### Status
 ACCEPTED

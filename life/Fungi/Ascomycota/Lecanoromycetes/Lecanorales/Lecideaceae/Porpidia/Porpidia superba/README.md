@@ -1,17 +1,16 @@
-Porpidia superba f. superba FORM
-=======
+# Porpidia superba (Körb.) Hertel & Knoph SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hertel, Beih. Nova Hedwigia 79: 438 (1984)
+null
 
 #### Original name
-Porpidia superba f. superba
+null
 
 ### Remarks
 null

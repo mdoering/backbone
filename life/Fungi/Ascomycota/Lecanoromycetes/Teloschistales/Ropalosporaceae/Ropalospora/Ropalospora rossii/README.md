@@ -1,5 +1,4 @@
-Ropalospora rossii Øvstedal SPECIES
-=======
+# Ropalospora rossii Øvstedal SPECIES
 
 #### Status
 ACCEPTED

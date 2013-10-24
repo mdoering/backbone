@@ -1,5 +1,4 @@
-Distephanus jimlingii (D. Bukry) D. Bukry SPECIES
-=======
+# Distephanus jimlingii (D. Bukry) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

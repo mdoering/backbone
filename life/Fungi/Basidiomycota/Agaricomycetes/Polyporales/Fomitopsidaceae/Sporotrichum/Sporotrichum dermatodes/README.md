@@ -1,5 +1,4 @@
-Sporotrichum dermatodes Kane {?} SPECIES
-=======
+# Sporotrichum dermatodes Kane {?} SPECIES
 
 #### Status
 ACCEPTED

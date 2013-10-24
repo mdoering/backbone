@@ -1,5 +1,4 @@
-Lecidella sendaiensis (Zahlbr.) Knoph & Leuckert SPECIES
-=======
+# Lecidella sendaiensis (Zahlbr.) Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

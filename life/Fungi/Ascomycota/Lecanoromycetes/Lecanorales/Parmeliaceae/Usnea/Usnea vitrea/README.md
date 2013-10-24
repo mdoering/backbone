@@ -1,5 +1,4 @@
-Usnea vitrea P. Clerc & M. A. Herrera-Campos SPECIES
-=======
+# Usnea vitrea P. Clerc & M. A. Herrera-Campos SPECIES
 
 #### Status
 ACCEPTED

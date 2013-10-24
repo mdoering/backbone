@@ -1,5 +1,4 @@
-Puccinia holwayi Dietel SPECIES
-=======
+# Puccinia holwayi Dietel SPECIES
 
 #### Status
 ACCEPTED

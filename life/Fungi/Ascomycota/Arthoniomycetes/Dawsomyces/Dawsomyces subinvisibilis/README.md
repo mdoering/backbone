@@ -1,5 +1,4 @@
-Dawsomyces subinvisibilis Döbbeler SPECIES
-=======
+# Dawsomyces subinvisibilis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

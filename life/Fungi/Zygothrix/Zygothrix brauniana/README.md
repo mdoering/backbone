@@ -1,5 +1,4 @@
-Zygothrix brauniana Reinsch ex Rabenh. SPECIES
-=======
+# Zygothrix brauniana Reinsch ex Rabenh. SPECIES
 
 #### Status
 ACCEPTED

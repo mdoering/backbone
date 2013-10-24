@@ -1,17 +1,16 @@
-Bryopogon jubatus f. intricans (Vain.) Gyeln. FORM
-=======
+# Pseudephebe pubescens (L.) M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. Lich. Univ. 2: sine pag. (1930)
 
 #### Original name
-Alectoria chalybeiformis f. intricans Vain.
+Lichen pubescens L.
 
 ### Remarks
 null

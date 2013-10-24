@@ -1,5 +1,4 @@
-Gyroidina laevigata (d'Orbigny, 1826) SPECIES
-=======
+# Gyroidina laevigata (d'Orbigny, 1826) SPECIES
 
 #### Status
 ACCEPTED

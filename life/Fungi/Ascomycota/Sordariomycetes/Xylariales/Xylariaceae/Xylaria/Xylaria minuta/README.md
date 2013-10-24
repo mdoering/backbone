@@ -1,5 +1,4 @@
-Xylaria minuta Panwar SPECIES
-=======
+# Xylaria minuta Panwar SPECIES
 
 #### Status
 ACCEPTED

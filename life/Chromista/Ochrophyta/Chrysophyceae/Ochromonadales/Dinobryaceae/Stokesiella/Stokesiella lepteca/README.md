@@ -1,5 +1,4 @@
-Stokesiella lepteca (Stokes) Lemmermann SPECIES
-=======
+# Stokesiella lepteca (Stokes) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

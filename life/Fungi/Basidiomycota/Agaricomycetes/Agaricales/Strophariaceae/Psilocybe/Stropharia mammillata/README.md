@@ -1,14 +1,13 @@
-Agaricus mammillatus Schulzer ex Kalchbr., 1874 SPECIES
-=======
+# Stropharia mammillata (Schulzer ex Kalchbr.) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 1020 (1887)
 
 #### Original name
 Agaricus mammillatus Schulzer ex Kalchbr., 1874

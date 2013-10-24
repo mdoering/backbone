@@ -1,5 +1,4 @@
-Actinomyces verrucosus Nadson SPECIES
-=======
+# Actinomyces verrucosus Nadson SPECIES
 
 #### Status
 ACCEPTED

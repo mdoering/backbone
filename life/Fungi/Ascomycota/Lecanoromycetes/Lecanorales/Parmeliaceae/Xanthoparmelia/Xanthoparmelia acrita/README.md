@@ -1,5 +1,4 @@
-Xanthoparmelia acrita D. Knox & Hale SPECIES
-=======
+# Xanthoparmelia acrita D. Knox & Hale SPECIES
 
 #### Status
 ACCEPTED

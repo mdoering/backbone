@@ -1,5 +1,4 @@
-Stuartella Fabre, 1879 GENUS
-=======
+# Stuartella Fabre, 1879 GENUS
 
 #### Status
 ACCEPTED

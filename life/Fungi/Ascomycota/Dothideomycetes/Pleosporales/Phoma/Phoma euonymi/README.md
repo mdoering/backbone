@@ -1,5 +1,4 @@
-Phoma euonymi Desm. SPECIES
-=======
+# Phoma euonymi Desm. SPECIES
 
 #### Status
 ACCEPTED

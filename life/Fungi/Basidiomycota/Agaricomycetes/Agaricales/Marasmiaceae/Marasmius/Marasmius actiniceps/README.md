@@ -1,5 +1,4 @@
-Marasmius actiniceps (Kalchbr. & Cooke) D.A. Reid SPECIES
-=======
+# Marasmius actiniceps (Kalchbr. & Cooke) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

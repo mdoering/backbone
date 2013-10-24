@@ -1,5 +1,4 @@
-Bacidia concinnior (Stirt.) Hellb. SPECIES
-=======
+# Bacidia concinnior (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

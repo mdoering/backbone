@@ -1,5 +1,4 @@
-Mycosphaerella tilakii Tomilin SPECIES
-=======
+# Mycosphaerella tilakii Tomilin SPECIES
 
 #### Status
 ACCEPTED

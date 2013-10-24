@@ -1,5 +1,4 @@
-Lauderia Cleve GENUS
-=======
+# Lauderia Cleve GENUS
 
 #### Status
 ACCEPTED

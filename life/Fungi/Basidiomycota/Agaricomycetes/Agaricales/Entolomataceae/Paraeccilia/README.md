@@ -1,5 +1,4 @@
-Paraeccilia GENUS
-=======
+# Paraeccilia GENUS
 
 #### Status
 ACCEPTED

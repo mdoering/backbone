@@ -1,5 +1,4 @@
-Hypoxylon holwayanum Sacc. & Ellis SPECIES
-=======
+# Hypoxylon holwayanum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

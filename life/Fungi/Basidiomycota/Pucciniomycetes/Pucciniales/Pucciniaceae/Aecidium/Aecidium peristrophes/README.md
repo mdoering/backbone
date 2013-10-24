@@ -1,5 +1,4 @@
-Aecidium peristrophes Syd. & P. Syd. SPECIES
-=======
+# Aecidium peristrophes Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

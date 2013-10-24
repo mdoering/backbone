@@ -1,5 +1,4 @@
-Cryptococcus kleinii E. Cohn ex Guég. SPECIES
-=======
+# Cryptococcus kleinii E. Cohn ex Guég. SPECIES
 
 #### Status
 ACCEPTED

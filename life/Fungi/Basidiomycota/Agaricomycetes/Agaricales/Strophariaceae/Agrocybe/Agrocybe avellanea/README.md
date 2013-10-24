@@ -1,5 +1,4 @@
-Agrocybe avellanea (Murrill) Watling SPECIES
-=======
+# Agrocybe avellanea (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

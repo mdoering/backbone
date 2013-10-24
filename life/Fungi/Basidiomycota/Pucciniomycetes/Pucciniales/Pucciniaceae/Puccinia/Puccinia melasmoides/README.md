@@ -1,5 +1,4 @@
-Puccinia melasmoides Tranzschel SPECIES
-=======
+# Puccinia melasmoides Tranzschel SPECIES
 
 #### Status
 ACCEPTED

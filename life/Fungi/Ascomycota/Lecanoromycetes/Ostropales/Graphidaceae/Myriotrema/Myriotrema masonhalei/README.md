@@ -1,5 +1,4 @@
-Myriotrema masonhalei (Patw. & C.R. Kulk.) Hale SPECIES
-=======
+# Myriotrema masonhalei (Patw. & C.R. Kulk.) Hale SPECIES
 
 #### Status
 ACCEPTED

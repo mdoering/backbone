@@ -1,5 +1,4 @@
-Peltula radiata Nyl. SPECIES
-=======
+# Peltula radiata Nyl. SPECIES
 
 #### Status
 ACCEPTED

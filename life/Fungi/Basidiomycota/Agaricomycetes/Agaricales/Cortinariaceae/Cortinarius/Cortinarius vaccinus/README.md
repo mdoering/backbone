@@ -1,5 +1,4 @@
-Cortinarius vaccinus Rob. Henry SPECIES
-=======
+# Cortinarius vaccinus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

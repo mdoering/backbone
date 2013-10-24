@@ -1,5 +1,4 @@
-Acrodictiella indica R.K. Verma, N. Sharma & Soni SPECIES
-=======
+# Acrodictiella indica R.K. Verma, N. Sharma & Soni SPECIES
 
 #### Status
 ACCEPTED

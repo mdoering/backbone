@@ -1,5 +1,4 @@
-Uredo galanthi Kirchn. SPECIES
-=======
+# Uredo galanthi Kirchn. SPECIES
 
 #### Status
 ACCEPTED

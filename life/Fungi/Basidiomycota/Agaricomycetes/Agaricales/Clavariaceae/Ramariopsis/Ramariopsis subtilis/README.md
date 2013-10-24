@@ -1,17 +1,16 @@
-Clavaria subtilis var. tehovensis Velen. VARIETY
-=======
+# Ramariopsis subtilis (Pers.) R.H. Petersen, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 165 (1939)
+Mycologia 70(3): 668 (1978)
 
 #### Original name
-Clavaria subtilis var. tehovensis Velen.
+Clavaria subtilis Pers., 1797
 
 ### Remarks
 null

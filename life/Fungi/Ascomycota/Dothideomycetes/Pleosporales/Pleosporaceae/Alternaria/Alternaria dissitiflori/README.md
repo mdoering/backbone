@@ -1,5 +1,4 @@
-Alternaria dissitiflori Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria dissitiflori Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

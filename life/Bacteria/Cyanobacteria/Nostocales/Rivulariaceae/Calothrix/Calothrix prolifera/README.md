@@ -1,5 +1,4 @@
-Calothrix prolifera Flahault SPECIES
-=======
+# Calothrix prolifera Flahault SPECIES
 
 #### Status
 ACCEPTED

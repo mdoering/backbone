@@ -1,5 +1,4 @@
-Psathyrella alaskaensis A.H. Sm. SPECIES
-=======
+# Psathyrella alaskaensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta lespedezae Togashi SPECIES
-=======
+# Phyllosticta lespedezae Togashi SPECIES
 
 #### Status
 ACCEPTED

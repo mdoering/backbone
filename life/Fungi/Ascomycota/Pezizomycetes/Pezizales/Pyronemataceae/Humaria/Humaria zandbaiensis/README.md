@@ -1,17 +1,16 @@
-Humaria zandbayensis Henn. & E. Nyman SPECIES
-=======
+# Humaria zandbaiensis Henn. & E. Nyman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monsunia 1: 34 (1899)
 
 #### Original name
-Humaria zandbayensis Henn. & E. Nyman
+Humaria zandbaiensis Henn. & E. Nyman
 
 ### Remarks
 null

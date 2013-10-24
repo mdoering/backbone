@@ -1,5 +1,4 @@
-Sarcogyne picea H. Magn. SPECIES
-=======
+# Sarcogyne picea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

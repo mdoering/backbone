@@ -1,5 +1,4 @@
-Parmelia atricha Nyl. SPECIES
-=======
+# Parmelia atricha Nyl. SPECIES
 
 #### Status
 ACCEPTED

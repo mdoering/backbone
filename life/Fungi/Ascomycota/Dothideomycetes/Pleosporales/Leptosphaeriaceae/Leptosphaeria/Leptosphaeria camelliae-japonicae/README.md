@@ -1,5 +1,4 @@
-Leptosphaeria camelliae-japonicae Siemaszko SPECIES
-=======
+# Leptosphaeria camelliae-japonicae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirostomum salinarum Florentin, 1899 SPECIES
-=======
+# Spirostomum salinarum Florentin, 1899 SPECIES
 
 #### Status
 ACCEPTED

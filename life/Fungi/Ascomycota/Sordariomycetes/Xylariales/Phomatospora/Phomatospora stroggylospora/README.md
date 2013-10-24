@@ -1,5 +1,4 @@
-Phomatospora stroggylospora M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomatospora stroggylospora M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

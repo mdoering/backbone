@@ -1,14 +1,13 @@
-Stilbospora asterosperma Pers., 1794 SPECIES
-=======
+# Asterosporium asterospermum (Pers.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 36: 738 (1958)
 
 #### Original name
 Stilbospora asterosperma Pers., 1794

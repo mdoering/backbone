@@ -1,5 +1,4 @@
-Amphorosphaeridium R.J.Davey GENUS
-=======
+# Amphorosphaeridium R.J.Davey GENUS
 
 #### Status
 ACCEPTED

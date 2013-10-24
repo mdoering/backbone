@@ -1,17 +1,16 @@
-Agaricus viridans Fr., 1863 SPECIES
-=======
+# Entoloma viridans (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 345 (1863)
+Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 1: 262 (1879)
 
 #### Original name
-Agaricus viridans Fr., 1863
+Entoloma viridans (Fr.) P. Karst., 1879
 
 ### Remarks
 null

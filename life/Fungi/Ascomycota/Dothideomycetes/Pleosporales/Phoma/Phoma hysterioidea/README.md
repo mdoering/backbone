@@ -1,5 +1,4 @@
-Phoma hysterioidea Berk. & Broome SPECIES
-=======
+# Phoma hysterioidea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

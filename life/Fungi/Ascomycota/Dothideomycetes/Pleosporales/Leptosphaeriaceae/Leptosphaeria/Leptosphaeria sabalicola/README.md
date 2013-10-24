@@ -1,5 +1,4 @@
-Leptosphaeria sabalicola (Ellis & G. Martin) SPECIES
-=======
+# Leptosphaeria sabalicola (Ellis & G. Martin) SPECIES
 
 #### Status
 ACCEPTED

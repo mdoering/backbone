@@ -1,5 +1,4 @@
-Gloeocapsa saxicola Wartmann SPECIES
-=======
+# Gloeocapsa saxicola Wartmann SPECIES
 
 #### Status
 ACCEPTED

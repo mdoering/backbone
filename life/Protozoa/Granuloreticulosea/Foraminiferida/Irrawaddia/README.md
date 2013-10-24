@@ -1,5 +1,4 @@
-Irrawaddia Sahni & Sastri, 1954 GENUS
-=======
+# Irrawaddia Sahni & Sastri, 1954 GENUS
 
 #### Status
 ACCEPTED

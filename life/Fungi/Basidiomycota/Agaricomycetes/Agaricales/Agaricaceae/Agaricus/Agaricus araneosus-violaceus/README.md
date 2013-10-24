@@ -1,5 +1,4 @@
-Agaricus araneosus-violaceus Vent. SPECIES
-=======
+# Agaricus araneosus-violaceus Vent. SPECIES
 
 #### Status
 ACCEPTED

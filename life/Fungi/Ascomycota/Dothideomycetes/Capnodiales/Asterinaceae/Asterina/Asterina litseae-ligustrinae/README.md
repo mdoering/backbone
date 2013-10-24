@@ -1,5 +1,4 @@
-Asterina litseae-ligustrinae Hosag., N.P. Balakr. & Goos SPECIES
-=======
+# Asterina litseae-ligustrinae Hosag., N.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

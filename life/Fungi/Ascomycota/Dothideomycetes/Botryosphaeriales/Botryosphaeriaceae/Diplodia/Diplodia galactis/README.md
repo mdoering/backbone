@@ -1,5 +1,4 @@
-Diplodia galactis Henn. SPECIES
-=======
+# Diplodia galactis Henn. SPECIES
 
 #### Status
 ACCEPTED

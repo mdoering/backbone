@@ -1,5 +1,4 @@
-Coprinus macrosporus Peck SPECIES
-=======
+# Coprinus macrosporus Peck SPECIES
 
 #### Status
 ACCEPTED

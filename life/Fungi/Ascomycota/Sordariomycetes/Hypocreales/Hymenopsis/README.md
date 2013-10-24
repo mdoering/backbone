@@ -1,17 +1,16 @@
-Chaetodiscula Bubák & Kabát GENUS
-=======
+# Hymenopsis Saccardo, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 50: 44 (1910)
+null
 
 #### Original name
-Chaetodiscula Bubák & Kabát
+null
 
 ### Remarks
 null

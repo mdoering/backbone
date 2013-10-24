@@ -1,5 +1,4 @@
-Melanoleuca yatesii Murrill SPECIES
-=======
+# Melanoleuca yatesii Murrill SPECIES
 
 #### Status
 ACCEPTED

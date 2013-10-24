@@ -1,5 +1,4 @@
-Asteroma virgiliae Roberge ex Desm. SPECIES
-=======
+# Asteroma virgiliae Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

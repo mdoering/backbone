@@ -1,5 +1,4 @@
-Stromatothecia nothofagi D.E. Shaw & D. Hawksw. SPECIES
-=======
+# Stromatothecia nothofagi D.E. Shaw & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

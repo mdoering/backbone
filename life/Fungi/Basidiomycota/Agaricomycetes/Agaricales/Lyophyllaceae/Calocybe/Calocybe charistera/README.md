@@ -1,5 +1,4 @@
-Calocybe charistera (Berk. & Broome) Pegler SPECIES
-=======
+# Calocybe charistera (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

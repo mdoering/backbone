@@ -1,14 +1,13 @@
-Phylloporthe orbiculata (Syd. & P. Syd.) E. Müll., 1962 SPECIES
-=======
+# Uleoporthe orbiculata (Syd. & P. Syd.) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 775 (1962)
+Annls mycol. 39: 280 (1941)
 
 #### Original name
 Valsonectria orbiculata Syd. & P. Syd., 1916

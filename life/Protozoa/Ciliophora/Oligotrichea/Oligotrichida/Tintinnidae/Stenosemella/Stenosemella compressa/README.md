@@ -1,5 +1,4 @@
-Stenosemella compressa SPECIES
-=======
+# Stenosemella compressa SPECIES
 
 #### Status
 ACCEPTED

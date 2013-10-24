@@ -1,5 +1,4 @@
-Ryparobius ryparobius anon. SPECIES
-=======
+# Ryparobius ryparobius anon. SPECIES
 
 #### Status
 ACCEPTED

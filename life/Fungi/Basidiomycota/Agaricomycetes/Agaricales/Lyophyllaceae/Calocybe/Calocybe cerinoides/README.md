@@ -1,5 +1,4 @@
-Calocybe cerinoides Kalamees SPECIES
-=======
+# Calocybe cerinoides Kalamees SPECIES
 
 #### Status
 ACCEPTED

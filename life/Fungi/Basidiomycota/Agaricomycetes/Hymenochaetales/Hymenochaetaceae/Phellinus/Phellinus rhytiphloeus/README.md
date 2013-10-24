@@ -1,17 +1,16 @@
-Polyporus noacki (Pat.) Sacc. & Trotter SPECIES
-=======
+# Phellinus rhytiphloeus (Mont.) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 206 (1980)
 
 #### Original name
-Xanthochrous noackii Pat., 1907
+Polyporus rhytiphloeus Mont., 1857
 
 ### Remarks
 null

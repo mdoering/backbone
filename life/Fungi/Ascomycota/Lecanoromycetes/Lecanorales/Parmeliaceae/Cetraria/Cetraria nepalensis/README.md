@@ -1,5 +1,4 @@
-Cetraria nepalensis D. D. Awasthi SPECIES
-=======
+# Cetraria nepalensis D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

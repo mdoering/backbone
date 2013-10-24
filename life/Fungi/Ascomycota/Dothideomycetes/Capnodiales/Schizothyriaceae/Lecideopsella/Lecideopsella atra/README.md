@@ -1,8 +1,7 @@
-Lecideopsella atrum A. Pande, 2008 SPECIES
-=======
+# Lecideopsella atra A. Pande, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

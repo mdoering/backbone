@@ -1,5 +1,4 @@
-Pellicularia fodinarum P.H.B. Talbot & V.C. Green SPECIES
-=======
+# Pellicularia fodinarum P.H.B. Talbot & V.C. Green SPECIES
 
 #### Status
 ACCEPTED

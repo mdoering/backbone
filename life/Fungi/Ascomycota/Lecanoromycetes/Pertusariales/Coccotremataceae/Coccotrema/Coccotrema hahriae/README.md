@@ -1,5 +1,4 @@
-Coccotrema hahriae T. Sprib. & Tønsberg SPECIES
-=======
+# Coccotrema hahriae T. Sprib. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

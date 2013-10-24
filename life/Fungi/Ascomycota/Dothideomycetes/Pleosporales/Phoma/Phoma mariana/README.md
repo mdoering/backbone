@@ -1,5 +1,4 @@
-Phoma mariana Traverso SPECIES
-=======
+# Phoma mariana Traverso SPECIES
 
 #### Status
 ACCEPTED

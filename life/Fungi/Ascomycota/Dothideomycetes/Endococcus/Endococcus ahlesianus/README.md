@@ -1,5 +1,4 @@
-Endococcus ahlesianus Zwackh SPECIES
-=======
+# Endococcus ahlesianus Zwackh SPECIES
 
 #### Status
 ACCEPTED

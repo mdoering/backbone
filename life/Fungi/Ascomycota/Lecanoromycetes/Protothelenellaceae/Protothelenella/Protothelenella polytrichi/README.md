@@ -1,5 +1,4 @@
-Protothelenella polytrichi Döbbeler & H. Mayrhofer SPECIES
-=======
+# Protothelenella polytrichi Döbbeler & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

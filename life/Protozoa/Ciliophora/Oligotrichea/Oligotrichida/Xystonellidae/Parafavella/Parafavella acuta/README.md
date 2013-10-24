@@ -1,5 +1,4 @@
-Parafavella acuta (Jørgensen, 1901) SPECIES
-=======
+# Parafavella acuta (Jørgensen, 1901) SPECIES
 
 #### Status
 ACCEPTED

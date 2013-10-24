@@ -1,5 +1,4 @@
-Marasmiellus delicius (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus delicius (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

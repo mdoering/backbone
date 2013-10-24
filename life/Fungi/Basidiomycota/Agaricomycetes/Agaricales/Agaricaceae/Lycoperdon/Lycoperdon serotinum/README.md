@@ -1,5 +1,4 @@
-Lycoperdon serotinum Bonord. SPECIES
-=======
+# Lycoperdon serotinum Bonord. SPECIES
 
 #### Status
 ACCEPTED

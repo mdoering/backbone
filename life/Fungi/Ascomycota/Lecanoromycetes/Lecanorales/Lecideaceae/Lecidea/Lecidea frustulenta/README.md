@@ -1,5 +1,4 @@
-Lecidea frustulenta H. Magn. SPECIES
-=======
+# Lecidea frustulenta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

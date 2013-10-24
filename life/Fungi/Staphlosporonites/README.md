@@ -1,5 +1,4 @@
-Staphlosporonites Sheffy & Dilcher GENUS
-=======
+# Staphlosporonites Sheffy & Dilcher GENUS
 
 #### Status
 ACCEPTED

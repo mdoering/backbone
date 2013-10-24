@@ -1,5 +1,4 @@
-Coniothyrium salvadorae Petr. & Scharif SPECIES
-=======
+# Coniothyrium salvadorae Petr. & Scharif SPECIES
 
 #### Status
 ACCEPTED

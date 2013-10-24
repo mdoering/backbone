@@ -1,5 +1,4 @@
-Pseudoplea houttuyniae (Siemaszko) Petr. SPECIES
-=======
+# Pseudoplea houttuyniae (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

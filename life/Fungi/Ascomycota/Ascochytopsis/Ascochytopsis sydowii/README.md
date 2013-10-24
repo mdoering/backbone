@@ -1,5 +1,4 @@
-Ascochytopsis sydowii B. Sutton SPECIES
-=======
+# Ascochytopsis sydowii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

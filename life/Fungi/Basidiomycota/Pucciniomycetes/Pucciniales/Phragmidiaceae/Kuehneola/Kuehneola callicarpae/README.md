@@ -1,5 +1,4 @@
-Kuehneola callicarpae Syd. SPECIES
-=======
+# Kuehneola callicarpae Syd. SPECIES
 
 #### Status
 ACCEPTED

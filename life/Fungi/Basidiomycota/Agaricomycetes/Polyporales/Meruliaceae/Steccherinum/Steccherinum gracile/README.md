@@ -1,5 +1,4 @@
-Steccherinum gracile (Pilát) Parmasto SPECIES
-=======
+# Steccherinum gracile (Pilát) Parmasto SPECIES
 
 #### Status
 ACCEPTED

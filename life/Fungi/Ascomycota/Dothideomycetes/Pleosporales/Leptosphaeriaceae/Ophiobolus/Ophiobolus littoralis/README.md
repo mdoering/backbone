@@ -1,5 +1,4 @@
-Ophiobolus littoralis (P. Crouan & H. Crouan) Sacc., 1883 SPECIES
-=======
+# Ophiobolus littoralis (P. Crouan & H. Crouan) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

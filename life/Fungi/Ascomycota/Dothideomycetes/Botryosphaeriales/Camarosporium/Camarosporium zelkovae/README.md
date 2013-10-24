@@ -1,5 +1,4 @@
-Camarosporium zelkovae Syd. & P. Syd. SPECIES
-=======
+# Camarosporium zelkovae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

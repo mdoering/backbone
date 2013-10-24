@@ -1,5 +1,4 @@
-Hygrocybe mycenoides (A.H. Sm. & Hesler) Lodge & S.A. Cantrell SPECIES
-=======
+# Hygrocybe mycenoides (A.H. Sm. & Hesler) Lodge & S.A. Cantrell SPECIES
 
 #### Status
 ACCEPTED

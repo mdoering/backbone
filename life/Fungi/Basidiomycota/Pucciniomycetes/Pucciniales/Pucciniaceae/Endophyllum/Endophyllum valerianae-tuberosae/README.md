@@ -1,5 +1,4 @@
-Endophyllum valerianae-tuberosae Maire SPECIES
-=======
+# Endophyllum valerianae-tuberosae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocillaria miquelii (Lév.) Kuntze SPECIES
-=======
+# Pocillaria miquelii (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

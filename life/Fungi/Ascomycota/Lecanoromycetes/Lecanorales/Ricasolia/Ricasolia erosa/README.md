@@ -1,5 +1,4 @@
-Ricasolia erosa (Eschw.) Nyl. SPECIES
-=======
+# Ricasolia erosa (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

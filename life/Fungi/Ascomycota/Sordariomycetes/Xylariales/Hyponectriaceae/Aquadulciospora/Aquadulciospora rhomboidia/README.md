@@ -1,5 +1,4 @@
-Aquadulciospora rhomboidia Fallah & Shearer, 2001 SPECIES
-=======
+# Aquadulciospora rhomboidia Fallah & Shearer, 2001 SPECIES
 
 #### Status
 ACCEPTED

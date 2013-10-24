@@ -1,5 +1,4 @@
-Hendersonia smilacina S. Ahmad SPECIES
-=======
+# Hendersonia smilacina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

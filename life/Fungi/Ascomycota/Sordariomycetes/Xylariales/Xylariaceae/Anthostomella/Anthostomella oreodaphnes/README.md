@@ -1,5 +1,4 @@
-Anthostomella oreodaphnes (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Anthostomella oreodaphnes (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

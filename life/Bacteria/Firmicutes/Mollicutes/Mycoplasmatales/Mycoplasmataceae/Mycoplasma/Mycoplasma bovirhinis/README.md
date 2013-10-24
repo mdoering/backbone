@@ -1,5 +1,4 @@
-Mycoplasma bovirhinis Leach, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma bovirhinis Leach, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

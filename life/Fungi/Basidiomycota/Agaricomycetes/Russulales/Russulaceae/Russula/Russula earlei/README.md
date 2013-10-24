@@ -1,5 +1,4 @@
-Russula earlei Peck SPECIES
-=======
+# Russula earlei Peck SPECIES
 
 #### Status
 ACCEPTED

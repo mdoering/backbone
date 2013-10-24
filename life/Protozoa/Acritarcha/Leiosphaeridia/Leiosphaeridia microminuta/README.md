@@ -1,5 +1,4 @@
-Leiosphaeridia microminuta Nautiyal, 1985 SPECIES
-=======
+# Leiosphaeridia microminuta Nautiyal, 1985 SPECIES
 
 #### Status
 ACCEPTED

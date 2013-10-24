@@ -1,5 +1,4 @@
-Togninia inconspicua (Rehm) J.Z. Yue & O.E. Erikss. SPECIES
-=======
+# Togninia inconspicua (Rehm) J.Z. Yue & O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

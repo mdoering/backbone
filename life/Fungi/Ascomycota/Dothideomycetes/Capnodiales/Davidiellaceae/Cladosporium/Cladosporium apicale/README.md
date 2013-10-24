@@ -1,5 +1,4 @@
-Cladosporium apicale Berk. & Broome, 1875 SPECIES
-=======
+# Cladosporium apicale Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

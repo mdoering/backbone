@@ -1,5 +1,4 @@
-Shewanella pacifica Ivanova et al., 2004 SPECIES
-=======
+# Shewanella pacifica Ivanova et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

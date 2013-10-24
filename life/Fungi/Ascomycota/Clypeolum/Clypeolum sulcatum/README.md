@@ -1,5 +1,4 @@
-Clypeolum sulcatum Starbäck SPECIES
-=======
+# Clypeolum sulcatum Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum violae-rotundifoliae (Sacc.) Davis SPECIES
-=======
+# Colletotrichum violae-rotundifoliae (Sacc.) Davis SPECIES
 
 #### Status
 ACCEPTED

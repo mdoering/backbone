@@ -1,5 +1,4 @@
-Mycothyridium macedonicum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium macedonicum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

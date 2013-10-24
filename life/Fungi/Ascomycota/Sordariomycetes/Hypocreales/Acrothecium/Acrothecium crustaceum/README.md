@@ -1,5 +1,4 @@
-Acrothecium crustaceum (Schwein.) Sacc. SPECIES
-=======
+# Acrothecium crustaceum (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius atroolivinus Verbeken & Walleyn SPECIES
-=======
+# Lactarius atro-olivinus Verbeken & Walleyn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Verbeken, Persoonia 17(3): 394 (2001)
 
 #### Original name
-Lactarius atroolivinus Verbeken & Walleyn
+Lactarius atro-olivinus Verbeken & Walleyn
 
 ### Remarks
 null

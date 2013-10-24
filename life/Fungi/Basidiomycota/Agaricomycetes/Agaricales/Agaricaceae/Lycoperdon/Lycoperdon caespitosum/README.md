@@ -1,5 +1,4 @@
-Lycoperdon caespitosum Welw. & Curr. SPECIES
-=======
+# Lycoperdon caespitosum Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prolophomonas Cleveland, Hall, Sanders & Collier, 1934 GENUS
-=======
+# Prolophomonas Cleveland, Hall, Sanders & Collier, 1934 GENUS
 
 #### Status
 ACCEPTED

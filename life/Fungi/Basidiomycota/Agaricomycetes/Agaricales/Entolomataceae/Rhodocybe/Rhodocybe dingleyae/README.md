@@ -1,17 +1,16 @@
-Clitopilus dingleyae (E. Horak) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe dingleyae E. Horak, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 17(3): 280 (1979)
 
 #### Original name
-null
+Rhodocybe dingleyae E. Horak, 1979
 
 ### Remarks
 null

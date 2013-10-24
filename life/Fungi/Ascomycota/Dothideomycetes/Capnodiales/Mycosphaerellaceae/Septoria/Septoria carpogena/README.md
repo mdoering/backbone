@@ -1,5 +1,4 @@
-Septoria carpogena Ellis & Everh. SPECIES
-=======
+# Septoria carpogena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

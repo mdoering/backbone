@@ -1,5 +1,4 @@
-Thelignya groenlandica (Å. E. Dahl) Henssen & P. M. Jørg. SPECIES
-=======
+# Thelignya groenlandica (Å. E. Dahl) Henssen & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

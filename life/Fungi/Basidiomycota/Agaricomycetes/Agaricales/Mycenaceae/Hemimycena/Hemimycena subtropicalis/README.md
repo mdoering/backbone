@@ -1,5 +1,4 @@
-Hemimycena subtropicalis Singer SPECIES
-=======
+# Hemimycena subtropicalis Singer SPECIES
 
 #### Status
 ACCEPTED

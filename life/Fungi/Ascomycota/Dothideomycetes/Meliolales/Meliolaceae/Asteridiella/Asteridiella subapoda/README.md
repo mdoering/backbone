@@ -1,5 +1,4 @@
-Asteridiella subapoda (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Asteridiella subapoda (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

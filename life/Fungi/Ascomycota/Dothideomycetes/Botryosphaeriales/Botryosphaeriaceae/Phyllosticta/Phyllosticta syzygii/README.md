@@ -1,8 +1,7 @@
-Phyllosticta sizygii Bat. SPECIES
-=======
+# Phyllosticta syzygii Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta sizygii Bat.
+Phyllosticta syzygii Bat.
 
 ### Remarks
 null

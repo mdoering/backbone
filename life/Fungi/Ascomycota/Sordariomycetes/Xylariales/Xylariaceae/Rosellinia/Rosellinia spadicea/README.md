@@ -1,5 +1,4 @@
-Rosellinia spadicea Ces. SPECIES
-=======
+# Rosellinia spadicea Ces. SPECIES
 
 #### Status
 ACCEPTED

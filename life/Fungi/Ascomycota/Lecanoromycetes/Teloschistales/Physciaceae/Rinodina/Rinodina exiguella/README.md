@@ -1,5 +1,4 @@
-Rinodina exiguella (Vain.) H. Magn. SPECIES
-=======
+# Rinodina exiguella (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

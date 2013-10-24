@@ -1,5 +1,4 @@
-Parmotrema subhanningtonianum Sérus. SPECIES
-=======
+# Parmotrema subhanningtonianum Sérus. SPECIES
 
 #### Status
 ACCEPTED

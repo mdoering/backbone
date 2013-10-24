@@ -1,5 +1,4 @@
-Peltigera granulosa Sérus., Goffinet, Miadl. & Vitik. SPECIES
-=======
+# Peltigera granulosa Sérus., Goffinet, Miadl. & Vitik. SPECIES
 
 #### Status
 ACCEPTED

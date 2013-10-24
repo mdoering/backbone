@@ -1,14 +1,13 @@
-Cornicularia muscicola (Sw.) DC. SPECIES
-=======
+# Polychidium muscicola (Sw.) Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 402 (1821)
 
 #### Original name
 Lichen muscicola (Sw.) Gray

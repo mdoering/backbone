@@ -1,5 +1,4 @@
-Dermatocarpon ferganense Tomin SPECIES
-=======
+# Dermatocarpon ferganense Tomin SPECIES
 
 #### Status
 ACCEPTED

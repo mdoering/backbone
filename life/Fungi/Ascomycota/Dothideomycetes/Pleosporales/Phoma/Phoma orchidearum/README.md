@@ -1,5 +1,4 @@
-Phoma orchidearum Ces. SPECIES
-=======
+# Phoma orchidearum Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia atrofusca (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Tapesia atrofusca (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

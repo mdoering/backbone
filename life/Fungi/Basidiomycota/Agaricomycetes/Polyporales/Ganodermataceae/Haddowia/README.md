@@ -1,5 +1,4 @@
-Haddowia Steyaert GENUS
-=======
+# Haddowia Steyaert GENUS
 
 #### Status
 ACCEPTED

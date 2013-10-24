@@ -1,5 +1,4 @@
-Parasterina holocalycis (Speg.) F. Stevens SPECIES
-=======
+# Parasterina holocalycis (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

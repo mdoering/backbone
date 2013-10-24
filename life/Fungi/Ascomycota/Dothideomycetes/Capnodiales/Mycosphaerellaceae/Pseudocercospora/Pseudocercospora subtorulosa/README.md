@@ -1,5 +1,4 @@
-Pseudocercospora subtorulosa (Syd. & P. Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora subtorulosa (Syd. & P. Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entolingulina gradata McCulloch, 1977 SPECIES
-=======
+# Entolingulina gradata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neofusiella Ektova, 1989 GENUS
-=======
+# Neofusiella Ektova, 1989 GENUS
 
 #### Status
 ACCEPTED

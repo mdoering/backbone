@@ -1,5 +1,4 @@
-Erineum pruni Schwein. SPECIES
-=======
+# Erineum pruni Schwein. SPECIES
 
 #### Status
 ACCEPTED

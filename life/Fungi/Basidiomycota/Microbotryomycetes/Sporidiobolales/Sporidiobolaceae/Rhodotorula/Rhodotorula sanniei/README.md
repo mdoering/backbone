@@ -1,5 +1,4 @@
-Rhodotorula sanniei (Cif. & Redaelli) Lodder SPECIES
-=======
+# Rhodotorula sanniei (Cif. & Redaelli) Lodder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormiscium chrysospermum (Corda) Bonord. SPECIES
-=======
+# Hormiscium chrysospermum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

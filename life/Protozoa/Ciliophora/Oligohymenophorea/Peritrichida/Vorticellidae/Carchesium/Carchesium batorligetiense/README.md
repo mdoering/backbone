@@ -1,5 +1,4 @@
-Carchesium batorligetiense SPECIES
-=======
+# Carchesium batorligetiense SPECIES
 
 #### Status
 ACCEPTED

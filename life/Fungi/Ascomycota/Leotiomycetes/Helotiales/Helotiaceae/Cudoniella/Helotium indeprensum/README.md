@@ -1,5 +1,4 @@
-Helotium indeprensum Bizz. SPECIES
-=======
+# Helotium indeprensum Bizz. SPECIES
 
 #### Status
 ACCEPTED

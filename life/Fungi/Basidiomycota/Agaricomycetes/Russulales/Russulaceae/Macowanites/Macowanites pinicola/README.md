@@ -1,5 +1,4 @@
-Macowanites pinicola A.H. Sm. SPECIES
-=======
+# Macowanites pinicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

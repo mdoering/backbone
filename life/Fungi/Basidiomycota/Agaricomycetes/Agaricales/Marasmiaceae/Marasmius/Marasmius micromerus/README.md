@@ -1,5 +1,4 @@
-Marasmius micromerus Corner SPECIES
-=======
+# Marasmius micromerus Corner SPECIES
 
 #### Status
 ACCEPTED

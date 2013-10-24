@@ -1,5 +1,4 @@
-Arthopyrenia gemmatella (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia gemmatella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

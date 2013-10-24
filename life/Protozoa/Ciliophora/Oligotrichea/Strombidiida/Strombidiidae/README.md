@@ -1,5 +1,4 @@
-Strombidiidae Fauré-Fremiet, 1970 FAMILY
-=======
+# Strombidiidae Fauré-Fremiet, 1970 FAMILY
 
 #### Status
 ACCEPTED

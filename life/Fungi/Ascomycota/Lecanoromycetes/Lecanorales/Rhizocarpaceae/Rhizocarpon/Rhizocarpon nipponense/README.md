@@ -1,5 +1,4 @@
-Rhizocarpon nipponense Räsänen SPECIES
-=======
+# Rhizocarpon nipponense Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus subhortensis Murrill SPECIES
-=======
+# Agaricus subhortensis Murrill SPECIES
 
 #### Status
 ACCEPTED

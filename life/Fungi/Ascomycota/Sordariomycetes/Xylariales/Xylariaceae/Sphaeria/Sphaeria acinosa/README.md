@@ -1,5 +1,4 @@
-Sphaeria acinosa Batsch SPECIES
-=======
+# Sphaeria acinosa Batsch SPECIES
 
 #### Status
 ACCEPTED

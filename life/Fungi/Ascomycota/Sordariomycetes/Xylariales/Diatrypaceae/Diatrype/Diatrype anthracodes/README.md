@@ -1,5 +1,4 @@
-Diatrype anthracodes Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype anthracodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

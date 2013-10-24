@@ -1,5 +1,4 @@
-Pseudodiplodia macedonica (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia macedonica (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

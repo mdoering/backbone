@@ -1,5 +1,4 @@
-Lecania heterocarpa Zahlbr. SPECIES
-=======
+# Lecania heterocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amandinea efflorescens (Müll. Arg.) Marbach SPECIES
-=======
+# Amandinea efflorescens (Müll. Arg.) Marbach SPECIES
 
 #### Status
 ACCEPTED

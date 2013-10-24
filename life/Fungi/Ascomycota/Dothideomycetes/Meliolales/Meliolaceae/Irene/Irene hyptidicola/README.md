@@ -1,5 +1,4 @@
-Irene hyptidicola (F. Stevens) Toro SPECIES
-=======
+# Irene hyptidicola (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

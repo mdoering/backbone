@@ -1,5 +1,4 @@
-Endotaxis Bogush & Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
-=======
+# Endotaxis Bogush & Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
 
 #### Status
 ACCEPTED

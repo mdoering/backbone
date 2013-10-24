@@ -1,5 +1,4 @@
-Arcangeliella desjardinii Thiers SPECIES
-=======
+# Arcangeliella desjardinii Thiers SPECIES
 
 #### Status
 ACCEPTED

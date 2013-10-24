@@ -1,5 +1,4 @@
-Tricholoma confragipes Iwade SPECIES
-=======
+# Tricholoma confragipes Iwade SPECIES
 
 #### Status
 ACCEPTED

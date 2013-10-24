@@ -1,5 +1,4 @@
-Patellaria tomentosa Müll. Arg. SPECIES
-=======
+# Patellaria tomentosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

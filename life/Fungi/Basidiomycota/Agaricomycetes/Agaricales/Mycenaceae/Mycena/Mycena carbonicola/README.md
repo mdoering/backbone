@@ -1,5 +1,4 @@
-Mycena carbonicola Murrill SPECIES
-=======
+# Mycena carbonicola Murrill SPECIES
 
 #### Status
 ACCEPTED

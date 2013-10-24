@@ -1,5 +1,4 @@
-Botrytis candidula Sacc. SPECIES
-=======
+# Botrytis candidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltella macrospora Hansf. SPECIES
-=======
+# Micropeltella macrospora Hansf. SPECIES
 
 #### Status
 ACCEPTED

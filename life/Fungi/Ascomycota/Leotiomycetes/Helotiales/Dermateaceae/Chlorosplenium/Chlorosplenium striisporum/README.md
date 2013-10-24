@@ -1,5 +1,4 @@
-Chlorosplenium striisporum Ellis & Dearn. SPECIES
-=======
+# Chlorosplenium striisporum Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

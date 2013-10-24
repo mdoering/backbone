@@ -1,5 +1,4 @@
-Kamospongella GENUS
-=======
+# Kamospongella GENUS
 
 #### Status
 ACCEPTED

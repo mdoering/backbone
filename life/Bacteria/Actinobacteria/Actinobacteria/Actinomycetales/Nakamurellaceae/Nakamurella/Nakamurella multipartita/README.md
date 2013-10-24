@@ -1,8 +1,7 @@
-Microsphaera multipartita Yoshimi et al., 1996 SPECIES
-=======
+# Nakamurella multipartita (Yoshimi et al., 1996) Tao et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,17 +1,16 @@
-Boletus porosporus var. porosporus Imler ex Watling VARIETY
-=======
+# Boletus porosporus Imler ex Bon & G. Moreno, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 28(3): 305 (1968)
+Docums Mycol. 7(nos 27-28): 6 (1977)
 
 #### Original name
-Boletus porosporus var. porosporus Imler ex Watling
+Boletus porosporus Imler ex Bon & G. Moreno, 1977
 
 ### Remarks
 null

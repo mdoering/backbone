@@ -1,5 +1,4 @@
-Ascobolus fushanus Yei Z. Wang & Brumm. SPECIES
-=======
+# Ascobolus fushanus Yei Z. Wang & Brumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta manihoticola Syd. & P. Syd. SPECIES
-=======
+# Phyllosticta manihoticola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

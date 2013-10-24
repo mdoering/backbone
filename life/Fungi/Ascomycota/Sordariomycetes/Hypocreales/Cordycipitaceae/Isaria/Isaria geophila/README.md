@@ -1,5 +1,4 @@
-Isaria geophila Speg. SPECIES
-=======
+# Isaria geophila Speg. SPECIES
 
 #### Status
 ACCEPTED

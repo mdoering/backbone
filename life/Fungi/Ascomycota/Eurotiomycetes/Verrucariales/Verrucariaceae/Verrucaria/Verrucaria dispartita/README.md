@@ -1,5 +1,4 @@
-Verrucaria dispartita Vain. SPECIES
-=======
+# Verrucaria dispartita Vain. SPECIES
 
 #### Status
 ACCEPTED

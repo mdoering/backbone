@@ -1,17 +1,16 @@
-Raffaelea gnathotrichi (L.R. Batra) T.C. Harr., 2010 SPECIES
-=======
+# Ambrosiella gnathotrichi L.R. Batra, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 59(6): 986 (1968)
 
 #### Original name
-null
+Ambrosiella gnathotrichi L.R. Batra, 1968
 
 ### Remarks
 null

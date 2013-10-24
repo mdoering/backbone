@@ -1,5 +1,4 @@
-Hymenoscyphus rhytidiadelphi Svrcek, 1978 SPECIES
-=======
+# Hymenoscyphus rhytidiadelphi Svrcek, 1978 SPECIES
 
 #### Status
 ACCEPTED

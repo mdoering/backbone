@@ -1,5 +1,4 @@
-Graphis cinereoalba Vain. SPECIES
-=======
+# Graphis cinereoalba Vain. SPECIES
 
 #### Status
 ACCEPTED

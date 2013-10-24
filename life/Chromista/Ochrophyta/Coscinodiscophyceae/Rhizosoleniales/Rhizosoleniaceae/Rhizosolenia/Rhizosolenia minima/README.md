@@ -1,5 +1,4 @@
-Rhizosolenia minima Levander SPECIES
-=======
+# Rhizosolenia minima Levander SPECIES
 
 #### Status
 ACCEPTED

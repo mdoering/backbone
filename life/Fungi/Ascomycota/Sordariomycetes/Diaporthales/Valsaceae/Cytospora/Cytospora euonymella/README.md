@@ -1,17 +1,16 @@
-Cytospora evonymella Pass. SPECIES
-=======
+# Cytospora euonymella Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Diagn. di Funghi Nuovi 4: 10 (1890)
 
 #### Original name
-Cytospora evonymella Pass.
+Cytospora euonymella Pass.
 
 ### Remarks
 null

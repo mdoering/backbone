@@ -1,5 +1,4 @@
-Peridermium japonicum Syd. & P. Syd. SPECIES
-=======
+# Peridermium japonicum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

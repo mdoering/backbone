@@ -1,5 +1,4 @@
-Phalacroma whiteleggei Wood SPECIES
-=======
+# Phalacroma whiteleggei Wood SPECIES
 
 #### Status
 ACCEPTED

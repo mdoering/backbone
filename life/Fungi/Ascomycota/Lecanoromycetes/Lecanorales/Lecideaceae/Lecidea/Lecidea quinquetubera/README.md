@@ -1,5 +1,4 @@
-Lecidea quinquetubera Delise SPECIES
-=======
+# Lecidea quinquetubera Delise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza violacea f. violacea FORM
-=======
+# Peziza violacea Pers., 1797 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Descr. micr. -anal. musc. frond. 2: 32, tab. 8A (1789)
 
 #### Original name
-null
+Peziza violacea Pers., 1797
 
 ### Remarks
 null

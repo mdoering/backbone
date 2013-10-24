@@ -1,5 +1,4 @@
-Cercospora zeina Crous & U. Braun SPECIES
-=======
+# Cercospora zeina Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

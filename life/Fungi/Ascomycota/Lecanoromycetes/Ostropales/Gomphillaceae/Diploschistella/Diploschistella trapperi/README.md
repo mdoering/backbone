@@ -1,5 +1,4 @@
-Diploschistella trapperi (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Diploschistella trapperi (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

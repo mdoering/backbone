@@ -1,5 +1,4 @@
-Ellipsagelosphaera gresslyi Grün & Zweili, 1980 SPECIES
-=======
+# Ellipsagelosphaera gresslyi Grün & Zweili, 1980 SPECIES
 
 #### Status
 DOUBTFUL

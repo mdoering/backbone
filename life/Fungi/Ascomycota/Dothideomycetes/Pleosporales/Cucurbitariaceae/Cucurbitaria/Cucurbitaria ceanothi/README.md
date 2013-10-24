@@ -1,5 +1,4 @@
-Cucurbitaria ceanothi Dearn. & House SPECIES
-=======
+# Cucurbitaria ceanothi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

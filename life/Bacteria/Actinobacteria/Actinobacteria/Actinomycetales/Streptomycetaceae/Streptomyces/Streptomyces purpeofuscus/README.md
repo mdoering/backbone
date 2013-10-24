@@ -1,5 +1,4 @@
-Streptomyces purpeofuscus Yamaguchi and Saburi, 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces purpeofuscus Yamaguchi and Saburi, 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

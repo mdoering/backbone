@@ -1,17 +1,16 @@
-Heptameria artemisiae (Fuckel) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria artemisiae (Fuckel) Auersw., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora Europaea no. 1724 (1874)
 
 #### Original name
-null
+Pleospora helminthospora Fuckel
 
 ### Remarks
 null

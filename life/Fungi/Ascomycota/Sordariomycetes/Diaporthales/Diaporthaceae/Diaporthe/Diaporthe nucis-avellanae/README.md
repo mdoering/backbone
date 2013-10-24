@@ -1,5 +1,4 @@
-Diaporthe nucis-avellanae Feltgen SPECIES
-=======
+# Diaporthe nucis-avellanae Feltgen SPECIES
 
 #### Status
 ACCEPTED

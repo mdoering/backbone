@@ -1,5 +1,4 @@
-Diplodia ampelodesmi Maire SPECIES
-=======
+# Diplodia ampelodesmi Maire SPECIES
 
 #### Status
 ACCEPTED

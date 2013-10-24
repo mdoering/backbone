@@ -1,5 +1,4 @@
-Pilosace epibates (Fr.) Kuntze SPECIES
-=======
+# Pilosace epibates (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

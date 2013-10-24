@@ -1,5 +1,4 @@
-Botryodiplodia populea Z.K. Zhong SPECIES
-=======
+# Botryodiplodia populea Z.K. Zhong SPECIES
 
 #### Status
 ACCEPTED

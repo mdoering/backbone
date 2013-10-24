@@ -1,5 +1,4 @@
-Asteridiella glabriuscula (Speg.) Hansf. SPECIES
-=======
+# Asteridiella glabriuscula (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

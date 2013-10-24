@@ -1,8 +1,7 @@
-Lamproderma fusiforme Kowalski, 1966 SPECIES
-=======
+# Comatricha fusiformis (Kowalski) Kowalski, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lamproderma fusiforme Kowalski, 1966
 
 ### Remarks
 null

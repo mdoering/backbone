@@ -1,5 +1,4 @@
-Ustilago beckerae Henn. SPECIES
-=======
+# Ustilago beckerae Henn. SPECIES
 
 #### Status
 ACCEPTED

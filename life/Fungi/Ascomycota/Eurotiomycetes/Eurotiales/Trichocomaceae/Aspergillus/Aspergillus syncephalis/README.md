@@ -1,5 +1,4 @@
-Aspergillus syncephalis Guég. SPECIES
-=======
+# Aspergillus syncephalis Guég. SPECIES
 
 #### Status
 ACCEPTED

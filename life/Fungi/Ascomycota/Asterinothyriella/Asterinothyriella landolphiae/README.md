@@ -1,5 +1,4 @@
-Asterinothyriella landolphiae Bat. & Cif., 1959 SPECIES
-=======
+# Asterinothyriella landolphiae Bat. & Cif., 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia euonymi Vize SPECIES
-=======
+# Pestalotia euonymi Vize SPECIES
 
 #### Status
 ACCEPTED

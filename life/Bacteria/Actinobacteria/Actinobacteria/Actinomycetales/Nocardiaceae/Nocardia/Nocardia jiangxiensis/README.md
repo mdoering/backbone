@@ -1,5 +1,4 @@
-Nocardia jiangxiensis Cui et al., 2005 SPECIES
-=======
+# Nocardia jiangxiensis Cui et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

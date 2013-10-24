@@ -1,17 +1,16 @@
-Trigonia F. van Beyma, 1933 GENUS
-=======
+# Triangularia Boedijn, 1934 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 89: 236, 237 (1933)
+Annls mycol. 32: 302 (1934)
 
 #### Original name
-Trigonia F. van Beyma, 1933
+Triangularia Boedijn, 1934
 
 ### Remarks
 null

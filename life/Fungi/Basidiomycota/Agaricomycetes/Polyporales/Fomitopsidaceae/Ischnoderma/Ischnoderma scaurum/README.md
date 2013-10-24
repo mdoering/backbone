@@ -1,5 +1,4 @@
-Ischnoderma scaurum (Lloyd) Domanski SPECIES
-=======
+# Ischnoderma scaurum (Lloyd) Domanski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula pyrenastrospora Aptroot SPECIES
-=======
+# Pyrenula pyrenastrospora Aptroot SPECIES
 
 #### Status
 ACCEPTED

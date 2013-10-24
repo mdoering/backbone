@@ -1,5 +1,4 @@
-Mycosphaerella galegae Lobik SPECIES
-=======
+# Mycosphaerella galegae Lobik SPECIES
 
 #### Status
 ACCEPTED

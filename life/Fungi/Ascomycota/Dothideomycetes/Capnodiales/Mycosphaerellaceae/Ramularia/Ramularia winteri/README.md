@@ -1,17 +1,16 @@
-Ramularia winteri var. winteri VARIETY
-=======
+# Ramularia winteri Thüm., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 20: 57 (1881)
 
 #### Original name
-Ramularia winteri var. winteri
+Ramularia winteri Thüm., 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Plagiorhiza Pascher, 1940 GENUS
-=======
+# Plagiorhiza Pascher, 1940 GENUS
 
 #### Status
 SYNONYM

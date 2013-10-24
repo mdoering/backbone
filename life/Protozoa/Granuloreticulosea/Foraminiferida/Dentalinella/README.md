@@ -1,5 +1,4 @@
-Dentalinella GENUS
-=======
+# Dentalinella GENUS
 
 #### Status
 ACCEPTED

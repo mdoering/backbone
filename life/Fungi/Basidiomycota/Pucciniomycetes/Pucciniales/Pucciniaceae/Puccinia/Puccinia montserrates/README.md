@@ -1,5 +1,4 @@
-Puccinia montserrates Mayor SPECIES
-=======
+# Puccinia montserrates Mayor SPECIES
 
 #### Status
 ACCEPTED

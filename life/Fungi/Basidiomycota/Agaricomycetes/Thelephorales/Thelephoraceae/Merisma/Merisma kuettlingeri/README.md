@@ -1,5 +1,4 @@
-Merisma kuettlingeri Mart. SPECIES
-=======
+# Merisma kuettlingeri Mart. SPECIES
 
 #### Status
 ACCEPTED

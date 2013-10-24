@@ -1,5 +1,4 @@
-Stellospora Alcorn & B. Sutton GENUS
-=======
+# Stellospora Alcorn & B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetolentomita lignorum Maubl. SPECIES
-=======
+# Chaetolentomita lignorum Maubl. SPECIES
 
 #### Status
 ACCEPTED

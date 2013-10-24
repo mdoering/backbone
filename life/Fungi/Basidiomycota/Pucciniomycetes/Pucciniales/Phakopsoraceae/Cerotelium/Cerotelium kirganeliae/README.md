@@ -1,5 +1,4 @@
-Cerotelium kirganeliae Thirum. & Yadav SPECIES
-=======
+# Cerotelium kirganeliae Thirum. & Yadav SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Daldinia vernicosa f. microspora Starbäck FORM
-=======
+# Daldinia vernicosa (Schwein.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 27(no. 3): 6 (1901)
+Comm. Soc. crittog. Ital. 1(4): 198 (1863)
 
 #### Original name
-Daldinia vernicosa f. microspora Starbäck
+Sphaeria vernicosa Schwein., 1825
 
 ### Remarks
 null

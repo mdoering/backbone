@@ -1,5 +1,4 @@
-Pennella asymmetrica M.C. Williams & Lichtw., 1990 SPECIES
-=======
+# Pennella asymmetrica M.C. Williams & Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus abieticola Overh. SPECIES
-=======
+# Polyporus abieticola Overh. SPECIES
 
 #### Status
 ACCEPTED

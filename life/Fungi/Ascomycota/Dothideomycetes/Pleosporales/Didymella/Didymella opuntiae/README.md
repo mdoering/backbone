@@ -1,5 +1,4 @@
-Didymella opuntiae Pat. SPECIES
-=======
+# Didymella opuntiae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia dayi (Clinton) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia dayi (Clinton) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

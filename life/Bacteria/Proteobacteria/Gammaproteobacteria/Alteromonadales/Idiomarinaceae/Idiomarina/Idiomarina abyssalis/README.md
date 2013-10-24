@@ -1,5 +1,4 @@
-Idiomarina abyssalis Ivanova et al., 2000 SPECIES
-=======
+# Idiomarina abyssalis Ivanova et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

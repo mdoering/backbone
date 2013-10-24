@@ -1,5 +1,4 @@
-Septoria aurantiicola Speg. SPECIES
-=======
+# Septoria aurantiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

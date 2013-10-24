@@ -1,5 +1,4 @@
-Phaeocollybia rancida E. Horak SPECIES
-=======
+# Phaeocollybia rancida E. Horak SPECIES
 
 #### Status
 ACCEPTED

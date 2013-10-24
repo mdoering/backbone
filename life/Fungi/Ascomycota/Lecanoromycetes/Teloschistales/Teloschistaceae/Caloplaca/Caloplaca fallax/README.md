@@ -1,5 +1,4 @@
-Caloplaca fallax Bagl. SPECIES
-=======
+# Caloplaca fallax Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliorestis daurensis Bryantseva et al., 2000 SPECIES
-=======
+# Heliorestis daurensis Bryantseva et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

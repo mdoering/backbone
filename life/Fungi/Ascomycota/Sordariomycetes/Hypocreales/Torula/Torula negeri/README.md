@@ -1,5 +1,4 @@
-Torula negeri Delitsch SPECIES
-=======
+# Torula negeri Delitsch SPECIES
 
 #### Status
 ACCEPTED

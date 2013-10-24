@@ -1,14 +1,13 @@
-Proncytotherus GENUS
-=======
+# Pronyctotherus Albaret & Njine, 1976 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Protistologica 11: 306.
 
 #### Original name
 null

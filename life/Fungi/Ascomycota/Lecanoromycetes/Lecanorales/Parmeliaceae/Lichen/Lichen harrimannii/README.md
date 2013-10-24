@@ -1,8 +1,7 @@
-Lichen harrimanni (Ach.) Sm. & Sowerby SPECIES
-=======
+# Lichen harrimannii (Ach.) Sm. & Sowerby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

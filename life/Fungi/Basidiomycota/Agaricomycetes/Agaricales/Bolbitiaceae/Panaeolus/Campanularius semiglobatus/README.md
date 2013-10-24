@@ -1,5 +1,4 @@
-Campanularius semiglobatus Murrill SPECIES
-=======
+# Campanularius semiglobatus Murrill SPECIES
 
 #### Status
 ACCEPTED

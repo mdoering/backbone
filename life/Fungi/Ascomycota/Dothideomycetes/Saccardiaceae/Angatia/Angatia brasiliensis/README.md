@@ -1,5 +1,4 @@
-Angatia brasiliensis J.L. Bezerra & Arx, 1963 SPECIES
-=======
+# Angatia brasiliensis J.L. Bezerra & Arx, 1963 SPECIES
 
 #### Status
 ACCEPTED

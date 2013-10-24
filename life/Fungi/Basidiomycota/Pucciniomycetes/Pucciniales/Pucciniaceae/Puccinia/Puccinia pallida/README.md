@@ -1,5 +1,4 @@
-Puccinia pallida Massee SPECIES
-=======
+# Puccinia pallida Massee SPECIES
 
 #### Status
 ACCEPTED

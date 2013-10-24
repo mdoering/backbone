@@ -1,5 +1,4 @@
-Ascochyta callistea H. Ruppr. SPECIES
-=======
+# Ascochyta callistea H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

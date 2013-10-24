@@ -1,5 +1,4 @@
-Helotium tumidulum (Roberge ex Desm.) SPECIES
-=======
+# Helotium tumidulum (Roberge ex Desm.) SPECIES
 
 #### Status
 ACCEPTED

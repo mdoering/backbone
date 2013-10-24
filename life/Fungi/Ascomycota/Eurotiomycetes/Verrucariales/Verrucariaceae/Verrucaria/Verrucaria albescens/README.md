@@ -1,5 +1,4 @@
-Verrucaria albescens Nyl. SPECIES
-=======
+# Verrucaria albescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

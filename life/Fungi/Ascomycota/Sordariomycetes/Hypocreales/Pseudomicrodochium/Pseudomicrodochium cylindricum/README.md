@@ -1,5 +1,4 @@
-Pseudomicrodochium cylindricum B. Sutton, 1975 SPECIES
-=======
+# Pseudomicrodochium cylindricum B. Sutton, 1975 SPECIES
 
 #### Status
 ACCEPTED

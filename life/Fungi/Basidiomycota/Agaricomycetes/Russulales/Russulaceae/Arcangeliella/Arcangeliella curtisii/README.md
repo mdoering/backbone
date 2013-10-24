@@ -1,5 +1,4 @@
-Arcangeliella curtisii Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella curtisii Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

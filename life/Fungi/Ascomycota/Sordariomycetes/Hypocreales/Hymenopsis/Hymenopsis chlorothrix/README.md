@@ -1,5 +1,4 @@
-Hymenopsis chlorothrix Kohlm. & Volkm.-Kohlm. SPECIES
-=======
+# Hymenopsis chlorothrix Kohlm. & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

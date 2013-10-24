@@ -1,5 +1,4 @@
-Nectria otagensis Curr. ex Linds., 1867 SPECIES
-=======
+# Nectria otagensis Curr. ex Linds., 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Solenopsora badia f. badia FORM
-=======
+# Solenopsora badia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Solenopsora badia f. badia
+null
 
 ### Remarks
 null

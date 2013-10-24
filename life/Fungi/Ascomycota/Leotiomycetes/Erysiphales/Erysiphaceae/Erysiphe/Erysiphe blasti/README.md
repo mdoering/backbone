@@ -1,5 +1,4 @@
-Erysiphe blasti (F.L. Tai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe blasti (F.L. Tai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium aerotolerans van Gylswyk & van der Toorn, 1987 SPECIES
-=======
+# Clostridium aerotolerans van Gylswyk & van der Toorn, 1987 SPECIES
 
 #### Status
 ACCEPTED

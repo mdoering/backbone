@@ -1,5 +1,4 @@
-Microthyrium licatense Pass. & Beltr. SPECIES
-=======
+# Microthyrium licatense Pass. & Beltr. SPECIES
 
 #### Status
 ACCEPTED

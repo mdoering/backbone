@@ -1,5 +1,4 @@
-Dacrymyces pulcher Kobayasi SPECIES
-=======
+# Dacrymyces pulcher Kobayasi SPECIES
 
 #### Status
 ACCEPTED

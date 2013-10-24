@@ -1,5 +1,4 @@
-Soranthera ulvoidea f. difformis Setchell & N.L.Gardner FORM
-=======
+# Soranthera ulvoidea Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

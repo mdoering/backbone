@@ -1,5 +1,4 @@
-Aphanorynchus GENUS
-=======
+# Aphanorynchus GENUS
 
 #### Status
 ACCEPTED

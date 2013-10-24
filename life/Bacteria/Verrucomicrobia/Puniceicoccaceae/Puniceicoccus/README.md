@@ -1,5 +1,4 @@
-Puniceicoccus Choo, Lee, Song & Cho, 2007 GENUS
-=======
+# Puniceicoccus Choo, Lee, Song & Cho, 2007 GENUS
 
 #### Status
 ACCEPTED

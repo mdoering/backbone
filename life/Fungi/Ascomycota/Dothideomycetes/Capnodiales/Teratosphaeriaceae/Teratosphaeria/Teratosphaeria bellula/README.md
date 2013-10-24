@@ -1,17 +1,16 @@
-Mycosphaerella bellula Crous & M.J. Wingf., 1993 SPECIES
-=======
+# Teratosphaeria bellula (Crous & M.J. Wingf.) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Braun & Groenewald, Stud. Mycol. 58: 10 (2007)
 
 #### Original name
-null
+Mycosphaerella bellula Crous & M.J. Wingf., 1993
 
 ### Remarks
 null

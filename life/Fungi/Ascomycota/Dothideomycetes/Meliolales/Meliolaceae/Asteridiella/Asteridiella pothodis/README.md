@@ -1,5 +1,4 @@
-Asteridiella pothodis (Hansf. & Thirum.) Hansf. SPECIES
-=======
+# Asteridiella pothodis (Hansf. & Thirum.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

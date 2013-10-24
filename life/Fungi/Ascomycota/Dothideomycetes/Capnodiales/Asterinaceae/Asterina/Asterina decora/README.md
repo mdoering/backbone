@@ -1,5 +1,4 @@
-Asterina decora Syd. SPECIES
-=======
+# Asterina decora Syd. SPECIES
 
 #### Status
 ACCEPTED

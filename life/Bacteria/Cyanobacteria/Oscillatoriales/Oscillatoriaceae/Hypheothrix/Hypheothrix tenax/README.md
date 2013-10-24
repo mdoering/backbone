@@ -1,5 +1,4 @@
-Hypheothrix tenax G.Martens SPECIES
-=======
+# Hypheothrix tenax G.Martens SPECIES
 
 #### Status
 ACCEPTED

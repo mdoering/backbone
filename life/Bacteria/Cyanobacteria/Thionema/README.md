@@ -1,5 +1,4 @@
-Thionema R. Kolkwitz, 1938 GENUS
-=======
+# Thionema R. Kolkwitz, 1938 GENUS
 
 #### Status
 ACCEPTED

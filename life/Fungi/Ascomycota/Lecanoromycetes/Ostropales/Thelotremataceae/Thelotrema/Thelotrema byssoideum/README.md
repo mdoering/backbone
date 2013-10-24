@@ -1,14 +1,13 @@
-Thelocarpon byssoideum Kremp. SPECIES
-=======
+# Thelotrema byssoideum (Kremp.) G. Salisb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 3: 195 (1966)
 
 #### Original name
 Thelocarpon byssoideum Kremp.

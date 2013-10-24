@@ -1,5 +1,4 @@
-Tetracrium rectisporum (Cooke & Massee) Petch SPECIES
-=======
+# Tetracrium rectisporum (Cooke & Massee) Petch SPECIES
 
 #### Status
 ACCEPTED

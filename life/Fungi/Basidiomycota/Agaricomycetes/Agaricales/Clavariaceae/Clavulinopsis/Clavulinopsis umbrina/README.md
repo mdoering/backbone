@@ -1,5 +1,4 @@
-Clavulinopsis umbrina (Lév.) Corner SPECIES
-=======
+# Clavulinopsis umbrina (Lév.) Corner SPECIES
 
 #### Status
 ACCEPTED

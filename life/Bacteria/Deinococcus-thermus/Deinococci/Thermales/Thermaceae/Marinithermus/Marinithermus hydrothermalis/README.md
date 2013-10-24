@@ -1,5 +1,4 @@
-Marinithermus hydrothermalis Sako et al., 2003 SPECIES
-=======
+# Marinithermus hydrothermalis Sako et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

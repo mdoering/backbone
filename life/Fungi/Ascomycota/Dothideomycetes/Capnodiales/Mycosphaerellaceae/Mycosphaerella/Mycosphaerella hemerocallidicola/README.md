@@ -1,5 +1,4 @@
-Mycosphaerella hemerocallidicola Petr. SPECIES
-=======
+# Mycosphaerella hemerocallidicola Petr. SPECIES
 
 #### Status
 ACCEPTED

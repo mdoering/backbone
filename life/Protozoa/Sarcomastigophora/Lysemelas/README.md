@@ -1,5 +1,4 @@
-Lysemelas Sugiyama, 1997 GENUS
-=======
+# Lysemelas Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

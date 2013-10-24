@@ -1,5 +1,4 @@
-Massaria platyphylla (Curr.) Petr. SPECIES
-=======
+# Massaria platyphylla (Curr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

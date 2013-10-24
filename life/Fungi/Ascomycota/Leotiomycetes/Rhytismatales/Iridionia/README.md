@@ -1,5 +1,4 @@
-Iridionia GENUS
-=======
+# Iridionia GENUS
 
 #### Status
 ACCEPTED

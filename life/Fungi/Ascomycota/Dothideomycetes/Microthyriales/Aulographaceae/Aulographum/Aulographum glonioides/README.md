@@ -1,5 +1,4 @@
-Aulographum glonioides Rehm SPECIES
-=======
+# Aulographum glonioides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alpova cinnamomeus C.W. Dodge, 1931 SPECIES
-=======
+# Alpova cinnamomeus C.W. Dodge, 1931 SPECIES
 
 #### Status
 ACCEPTED

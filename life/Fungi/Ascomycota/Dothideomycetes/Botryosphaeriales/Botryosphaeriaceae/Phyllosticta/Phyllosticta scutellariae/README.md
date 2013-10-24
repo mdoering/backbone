@@ -1,5 +1,4 @@
-Phyllosticta scutellariae Cejp SPECIES
-=======
+# Phyllosticta scutellariae Cejp SPECIES
 
 #### Status
 ACCEPTED

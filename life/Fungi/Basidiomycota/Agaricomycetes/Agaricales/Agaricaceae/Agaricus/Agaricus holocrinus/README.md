@@ -1,5 +1,4 @@
-Agaricus holocrinus Berk. SPECIES
-=======
+# Agaricus holocrinus Berk. SPECIES
 
 #### Status
 ACCEPTED

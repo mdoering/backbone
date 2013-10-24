@@ -1,5 +1,4 @@
-Zygorhizidium verrucosum Geitler SPECIES
-=======
+# Zygorhizidium verrucosum Geitler SPECIES
 
 #### Status
 ACCEPTED

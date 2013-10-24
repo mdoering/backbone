@@ -1,5 +1,4 @@
-Sporidesmium moriforme Peck SPECIES
-=======
+# Sporidesmium moriforme Peck SPECIES
 
 #### Status
 ACCEPTED

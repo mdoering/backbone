@@ -1,5 +1,4 @@
-Exidia alveolata Pat. SPECIES
-=======
+# Exidia alveolata Pat. SPECIES
 
 #### Status
 ACCEPTED

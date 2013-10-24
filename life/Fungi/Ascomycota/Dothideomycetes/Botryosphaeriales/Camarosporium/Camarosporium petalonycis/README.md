@@ -1,5 +1,4 @@
-Camarosporium petalonycis Henn. SPECIES
-=======
+# Camarosporium petalonycis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrahymena rotunda Lynn, Molloy & LeBrun, 1981 SPECIES
-=======
+# Tetrahymena rotunda Lynn, Molloy & LeBrun, 1981 SPECIES
 
 #### Status
 ACCEPTED

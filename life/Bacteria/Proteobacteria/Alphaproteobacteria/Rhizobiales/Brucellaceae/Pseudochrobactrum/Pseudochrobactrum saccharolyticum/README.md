@@ -1,5 +1,4 @@
-Pseudochrobactrum saccharolyticum Kämpfer et al., 2006 SPECIES
-=======
+# Pseudochrobactrum saccharolyticum Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

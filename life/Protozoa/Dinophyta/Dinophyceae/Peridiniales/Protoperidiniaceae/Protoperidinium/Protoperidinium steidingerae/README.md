@@ -1,5 +1,4 @@
-Protoperidinium steidingerae Balech, 1979 SPECIES
-=======
+# Protoperidinium steidingerae Balech, 1979 SPECIES
 
 #### Status
 ACCEPTED

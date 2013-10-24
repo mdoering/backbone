@@ -1,5 +1,4 @@
-Appendiculella ugandensis (Hansf.) Hansf. SPECIES
-=======
+# Appendiculella ugandensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

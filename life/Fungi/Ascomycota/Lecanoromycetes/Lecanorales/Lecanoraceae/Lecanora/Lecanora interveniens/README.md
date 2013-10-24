@@ -1,5 +1,4 @@
-Lecanora interveniens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora interveniens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

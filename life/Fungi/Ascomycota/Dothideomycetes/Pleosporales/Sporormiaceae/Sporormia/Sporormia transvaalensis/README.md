@@ -1,5 +1,4 @@
-Sporormia transvaalensis Doidge SPECIES
-=======
+# Sporormia transvaalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

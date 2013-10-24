@@ -1,5 +1,4 @@
-Polyporus platypilus Lév. SPECIES
-=======
+# Polyporus platypilus Lév. SPECIES
 
 #### Status
 ACCEPTED

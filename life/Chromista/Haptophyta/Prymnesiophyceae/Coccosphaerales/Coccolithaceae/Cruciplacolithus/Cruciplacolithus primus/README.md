@@ -1,5 +1,4 @@
-Cruciplacolithus primus K. Perch-Nielsen SPECIES
-=======
+# Cruciplacolithus primus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

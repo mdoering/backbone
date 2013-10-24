@@ -1,5 +1,4 @@
-Diaporthe foeniculacea Niessl SPECIES
-=======
+# Diaporthe foeniculacea Niessl SPECIES
 
 #### Status
 ACCEPTED

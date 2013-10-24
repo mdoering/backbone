@@ -1,5 +1,4 @@
-Cortinarius avellaneus M.M. Moser SPECIES
-=======
+# Cortinarius avellaneus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo asystasiae Henn. SPECIES
-=======
+# Uredo asystasiae Henn. SPECIES
 
 #### Status
 ACCEPTED

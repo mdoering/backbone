@@ -1,5 +1,4 @@
-Lecanora ecoronata Vain. SPECIES
-=======
+# Lecanora ecoronata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiora vaccinii Fuckel SPECIES
-=======
+# Dothiora vaccinii Fuckel SPECIES
 
 #### Status
 ACCEPTED

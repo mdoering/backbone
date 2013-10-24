@@ -1,5 +1,4 @@
-Sphaeronaema sesami S.P. Sehgal & Dafteri, 1966 SPECIES
-=======
+# Sphaeronaema sesami S.P. Sehgal & Dafteri, 1966 SPECIES
 
 #### Status
 ACCEPTED

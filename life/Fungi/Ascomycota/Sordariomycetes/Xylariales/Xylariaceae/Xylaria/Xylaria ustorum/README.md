@@ -1,5 +1,4 @@
-Xylaria ustorum (Pat.) Dennis SPECIES
-=======
+# Xylaria ustorum (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

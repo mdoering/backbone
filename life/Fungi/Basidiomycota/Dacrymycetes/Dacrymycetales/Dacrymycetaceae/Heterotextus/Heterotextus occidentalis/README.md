@@ -1,5 +1,4 @@
-Heterotextus occidentalis (Lloyd) Lloyd SPECIES
-=======
+# Heterotextus occidentalis (Lloyd) Lloyd SPECIES
 
 #### Status
 ACCEPTED

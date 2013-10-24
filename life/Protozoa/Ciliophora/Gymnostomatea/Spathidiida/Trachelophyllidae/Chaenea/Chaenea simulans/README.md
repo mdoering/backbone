@@ -1,5 +1,4 @@
-Chaenea simulans Kahl, 1930 SPECIES
-=======
+# Chaenea simulans Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

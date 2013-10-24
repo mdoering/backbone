@@ -1,5 +1,4 @@
-Anthracothecium tetraspermum Riddle SPECIES
-=======
+# Anthracothecium tetraspermum Riddle SPECIES
 
 #### Status
 ACCEPTED

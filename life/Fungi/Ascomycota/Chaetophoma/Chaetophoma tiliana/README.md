@@ -1,5 +1,4 @@
-Chaetophoma tiliana Gucevic SPECIES
-=======
+# Chaetophoma tiliana Gucevic SPECIES
 
 #### Status
 ACCEPTED

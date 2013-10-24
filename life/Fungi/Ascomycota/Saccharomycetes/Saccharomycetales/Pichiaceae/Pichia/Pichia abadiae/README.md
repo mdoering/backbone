@@ -1,5 +1,4 @@
-Pichia abadiae F.H. Jacob SPECIES
-=======
+# Pichia abadiae F.H. Jacob SPECIES
 
 #### Status
 ACCEPTED

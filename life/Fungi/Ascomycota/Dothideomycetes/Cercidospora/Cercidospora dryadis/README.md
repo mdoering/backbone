@@ -1,5 +1,4 @@
-Cercidospora dryadis (Speg.) Kuntze SPECIES
-=======
+# Cercidospora dryadis (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

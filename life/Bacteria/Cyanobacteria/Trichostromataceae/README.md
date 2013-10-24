@@ -1,5 +1,4 @@
-Trichostromataceae FAMILY
-=======
+# Trichostromataceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia gothrinum Berk. & Broome SPECIES
-=======
+# Rosellinia gothrinum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

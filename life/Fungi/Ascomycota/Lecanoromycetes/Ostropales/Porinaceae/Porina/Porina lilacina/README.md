@@ -1,5 +1,4 @@
-Porina lilacina Zschacke SPECIES
-=======
+# Porina lilacina Zschacke SPECIES
 
 #### Status
 ACCEPTED

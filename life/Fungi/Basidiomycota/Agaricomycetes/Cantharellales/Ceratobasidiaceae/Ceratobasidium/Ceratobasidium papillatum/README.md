@@ -1,5 +1,4 @@
-Ceratobasidium papillatum Warcup & P.H.B. Talbot, 1980 SPECIES
-=======
+# Ceratobasidium papillatum Warcup & P.H.B. Talbot, 1980 SPECIES
 
 #### Status
 ACCEPTED

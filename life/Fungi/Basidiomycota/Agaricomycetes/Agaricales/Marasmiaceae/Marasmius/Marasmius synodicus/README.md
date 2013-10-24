@@ -1,5 +1,4 @@
-Marasmius synodicus Kunze SPECIES
-=======
+# Marasmius synodicus Kunze SPECIES
 
 #### Status
 ACCEPTED

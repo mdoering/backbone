@@ -1,5 +1,4 @@
-Repetophragma Subram. GENUS
-=======
+# Repetophragma Subram. GENUS
 
 #### Status
 ACCEPTED

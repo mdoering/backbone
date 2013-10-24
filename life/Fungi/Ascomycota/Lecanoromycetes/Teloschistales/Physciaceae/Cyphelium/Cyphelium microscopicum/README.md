@@ -1,5 +1,4 @@
-Cyphelium microscopicum Hepp SPECIES
-=======
+# Cyphelium microscopicum Hepp SPECIES
 
 #### Status
 ACCEPTED

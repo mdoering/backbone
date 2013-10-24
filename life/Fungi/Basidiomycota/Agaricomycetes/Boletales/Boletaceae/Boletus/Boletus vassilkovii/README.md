@@ -1,5 +1,4 @@
-Boletus vassilkovii Nazarova {?} SPECIES
-=======
+# Boletus vassilkovii Nazarova {?} SPECIES
 
 #### Status
 ACCEPTED

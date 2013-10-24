@@ -1,5 +1,4 @@
-Mendicodinium groenlandicum (Pocock & Sarjeant, 1972) Davey, 1979 SPECIES
-=======
+# Mendicodinium groenlandicum (Pocock & Sarjeant, 1972) Davey, 1979 SPECIES
 
 #### Status
 ACCEPTED

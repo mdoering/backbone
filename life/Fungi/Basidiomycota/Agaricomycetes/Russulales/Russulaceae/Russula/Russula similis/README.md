@@ -1,5 +1,4 @@
-Russula similis Bres. SPECIES
-=======
+# Russula similis Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia ewersii Elix SPECIES
-=======
+# Xanthoparmelia ewersii Elix SPECIES
 
 #### Status
 ACCEPTED

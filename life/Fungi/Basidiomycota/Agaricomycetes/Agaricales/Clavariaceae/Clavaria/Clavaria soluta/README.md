@@ -1,5 +1,4 @@
-Clavaria soluta P. Karst. SPECIES
-=======
+# Clavaria soluta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

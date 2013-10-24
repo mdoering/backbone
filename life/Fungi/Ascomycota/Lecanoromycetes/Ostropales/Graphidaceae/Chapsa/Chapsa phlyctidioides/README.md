@@ -1,17 +1,16 @@
-Thelotrema phlyctidioides (Müll. Arg.) Hale SPECIES
-=======
+# Chapsa phlyctidioides (Müll. Arg.) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 21: 221 (2008)
 
 #### Original name
-null
+Ocellularia phlyctidioides Müll. Arg.
 
 ### Remarks
 null

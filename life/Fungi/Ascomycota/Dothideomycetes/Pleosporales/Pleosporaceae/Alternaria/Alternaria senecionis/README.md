@@ -1,5 +1,4 @@
-Alternaria senecionis Neerg., 1946 SPECIES
-=======
+# Alternaria senecionis Neerg., 1946 SPECIES
 
 #### Status
 ACCEPTED

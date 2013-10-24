@@ -1,5 +1,4 @@
-Diplodia acaciae Penz. & Sacc. SPECIES
-=======
+# Diplodia acaciae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Auxarthron indica M.S. Patil & A.B. Pawar SPECIES
-=======
+# Auxarthron indicum M.S. Patil & A.B. Pawar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geobios, New Rep. 6(2): 194 (1987)
 
 #### Original name
-Auxarthron indica M.S. Patil & A.B. Pawar
+Auxarthron indicum M.S. Patil & A.B. Pawar
 
 ### Remarks
 null

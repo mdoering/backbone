@@ -1,5 +1,4 @@
-Ovulariopsis cordiae J.M. Yen & Chin C. Wang SPECIES
-=======
+# Ovulariopsis cordiae J.M. Yen & Chin C. Wang SPECIES
 
 #### Status
 ACCEPTED

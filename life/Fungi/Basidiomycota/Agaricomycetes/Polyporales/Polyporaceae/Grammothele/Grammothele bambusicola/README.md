@@ -1,5 +1,4 @@
-Grammothele bambusicola Ryvarden, 1984 SPECIES
-=======
+# Grammothele bambusicola Ryvarden, 1984 SPECIES
 
 #### Status
 ACCEPTED

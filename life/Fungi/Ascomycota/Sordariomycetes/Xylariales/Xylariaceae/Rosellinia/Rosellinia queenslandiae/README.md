@@ -1,5 +1,4 @@
-Rosellinia queenslandiae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Rosellinia queenslandiae (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

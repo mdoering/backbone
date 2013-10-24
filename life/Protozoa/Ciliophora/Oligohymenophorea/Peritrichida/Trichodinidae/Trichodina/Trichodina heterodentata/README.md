@@ -1,5 +1,4 @@
-Trichodina heterodentata Duncan, 1977 SPECIES
-=======
+# Trichodina heterodentata Duncan, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromyces ovalis var. ovalis VARIETY
-=======
+# Micromyces ovalis Rieth SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Micromyces ovalis var. ovalis
+Micromyces ovalis Rieth
 
 ### Remarks
 null

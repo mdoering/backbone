@@ -1,5 +1,4 @@
-Pseudanabaena moniliformis J. Komárek & H. Kling SPECIES
-=======
+# Pseudanabaena moniliformis J. Komárek & H. Kling SPECIES
 
 #### Status
 ACCEPTED

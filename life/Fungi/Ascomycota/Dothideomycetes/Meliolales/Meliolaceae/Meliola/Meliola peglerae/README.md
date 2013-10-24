@@ -1,5 +1,4 @@
-Meliola peglerae Doidge SPECIES
-=======
+# Meliola peglerae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cortinarius flexipes var. violilamellatus (A. Pearson ex P.D. Orton) A. Ortega, 2003 VARIETY
-=======
+# Cortinarius violilamellatus A. Pearson ex P.D. Orton, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ortega & Esteve-Raventós, Öst. Z. Pilzk. 12: 6 (2003)
+Notes R. bot. Gdn Edinb. 41(3): 571 (1984)
 
 #### Original name
 Cortinarius violilamellatus A. Pearson ex P.D. Orton, 1984

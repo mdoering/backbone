@@ -1,5 +1,4 @@
-Griselda radicana GV SPECIES
-=======
+# Griselda radicana GV SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria hypoerythra Mont. SPECIES
-=======
+# Xylaria hypoerythra Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis olisipponensis (Sousa da Câmara) Sousa da Câmara SPECIES
-=======
+# Phomopsis olisipponensis (Sousa da Câmara) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

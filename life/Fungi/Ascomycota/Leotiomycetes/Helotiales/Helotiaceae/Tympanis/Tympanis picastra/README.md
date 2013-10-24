@@ -1,5 +1,4 @@
-Tympanis picastra Berk. & M.A. Curtis SPECIES
-=======
+# Tympanis picastra Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

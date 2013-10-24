@@ -1,5 +1,4 @@
-Archaeobodo Massart GENUS
-=======
+# Archaeobodo Massart GENUS
 
 #### Status
 ACCEPTED

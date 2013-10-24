@@ -1,5 +1,4 @@
-Trichia trichoides Bull. SPECIES
-=======
+# Trichia trichoides Bull. SPECIES
 
 #### Status
 ACCEPTED

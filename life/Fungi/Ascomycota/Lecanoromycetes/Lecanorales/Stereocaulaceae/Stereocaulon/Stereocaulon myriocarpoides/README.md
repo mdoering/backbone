@@ -1,5 +1,4 @@
-Stereocaulon myriocarpoides (Nyl.) Hue SPECIES
-=======
+# Stereocaulon myriocarpoides (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

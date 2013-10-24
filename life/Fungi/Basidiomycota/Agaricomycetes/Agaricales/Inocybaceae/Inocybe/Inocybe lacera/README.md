@@ -1,17 +1,16 @@
-Inocybe lacera f. lacera FORM
-=======
+# Inocybe lacera (Fr. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 79 (1871)
+null
 
 #### Original name
-Inocybe lacera f. lacera
+null
 
 ### Remarks
 null

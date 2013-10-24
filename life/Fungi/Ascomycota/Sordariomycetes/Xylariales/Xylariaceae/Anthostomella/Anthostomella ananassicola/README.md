@@ -1,5 +1,4 @@
-Anthostomella ananassicola Bat. & H. Maia SPECIES
-=======
+# Anthostomella ananassicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

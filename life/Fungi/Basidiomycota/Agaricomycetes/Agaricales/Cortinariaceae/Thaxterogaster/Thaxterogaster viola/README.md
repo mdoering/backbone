@@ -1,5 +1,4 @@
-Thaxterogaster viola Soop, 2001 SPECIES
-=======
+# Thaxterogaster viola Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

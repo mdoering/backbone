@@ -1,5 +1,4 @@
-Bovista betpakdalinica Schwarzman & Philimonova SPECIES
-=======
+# Bovista betpakdalinica Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

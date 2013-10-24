@@ -1,5 +1,4 @@
-Protoperidinium nanum (Balech, 1962) Balech, 1974 SPECIES
-=======
+# Protoperidinium nanum (Balech, 1962) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus papyraceus (Fr.) Cooke SPECIES
-=======
+# Polystictus papyraceus (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxasterina GENUS
-=======
+# Myxasterina GENUS
 
 #### Status
 ACCEPTED

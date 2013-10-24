@@ -1,5 +1,4 @@
-Strobilomyces pallescens Cooke & Massee SPECIES
-=======
+# Strobilomyces pallescens Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

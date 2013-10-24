@@ -1,14 +1,13 @@
-Ocellularia diploschistoides Zahlbr. SPECIES
-=======
+# Chapsa diploschistoides (Zahlbr.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals Cryptog. Exot. 5: 216 (1932)
+Biblthca Lichenol. 92: 99 (2006)
 
 #### Original name
 Ocellularia diploschistoides Zahlbr.

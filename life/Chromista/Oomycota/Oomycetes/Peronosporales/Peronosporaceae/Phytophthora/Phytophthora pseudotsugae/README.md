@@ -1,5 +1,4 @@
-Phytophthora pseudotsugae Hamm & E.M. Hansen, 1983 SPECIES
-=======
+# Phytophthora pseudotsugae Hamm & E.M. Hansen, 1983 SPECIES
 
 #### Status
 ACCEPTED

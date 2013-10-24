@@ -1,5 +1,4 @@
-Cretazygus Lyul'eva, 1971 GENUS
-=======
+# Cretazygus Lyul'eva, 1971 GENUS
 
 #### Status
 ACCEPTED

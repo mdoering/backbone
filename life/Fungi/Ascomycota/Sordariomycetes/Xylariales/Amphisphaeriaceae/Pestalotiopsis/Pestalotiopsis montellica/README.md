@@ -1,5 +1,4 @@
-Pestalotiopsis montellica (Sacc. & Voglino) Tak. Kobay. SPECIES
-=======
+# Pestalotiopsis montellica (Sacc. & Voglino) Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

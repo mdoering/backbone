@@ -1,5 +1,4 @@
-Sarcogyne subfuscescens (Nyl.) Boistel SPECIES
-=======
+# Sarcogyne subfuscescens (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

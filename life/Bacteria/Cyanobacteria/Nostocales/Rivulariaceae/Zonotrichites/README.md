@@ -1,5 +1,4 @@
-Zonotrichites J.G.Bornemann, 1886 GENUS
-=======
+# Zonotrichites J.G.Bornemann, 1886 GENUS
 
 #### Status
 ACCEPTED

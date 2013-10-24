@@ -1,5 +1,4 @@
-Uvigerinella californica var. preparva Bandy & Arnal, 1957 VARIETY
-=======
+# Uvigerinella californica (Cushman) SPECIES
 
 #### Status
 ACCEPTED

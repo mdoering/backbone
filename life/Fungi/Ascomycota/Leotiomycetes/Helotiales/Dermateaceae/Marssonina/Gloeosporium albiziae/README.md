@@ -1,17 +1,16 @@
-Gloeosporium albizziae T.M. Achundov SPECIES
-=======
+# Gloeosporium albiziae T.M. Achundov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 20: 58 (1983)
 
 #### Original name
-Gloeosporium albizziae T.M. Achundov
+Gloeosporium albiziae T.M. Achundov
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Omphalia deflexa P. Karst. SPECIES
-=======
+# Omphalia deflexa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

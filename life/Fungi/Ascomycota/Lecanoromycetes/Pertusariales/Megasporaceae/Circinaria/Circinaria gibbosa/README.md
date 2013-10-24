@@ -1,17 +1,16 @@
-Aspicilia gibbosa var. gibbosa VARIETY
-=======
+# Circinaria gibbosa (Ach.) A. Nordin, Savic & Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. lich. germ. (Breslau) 163 (1855)
+null
 
 #### Original name
-Aspicilia gibbosa var. gibbosa
+null
 
 ### Remarks
 null

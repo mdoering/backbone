@@ -1,5 +1,4 @@
-Physcia viridissima Müll. Arg. SPECIES
-=======
+# Physcia viridissima Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria fumaginoides Peyronel SPECIES
-=======
+# Alternaria fumaginoides Peyronel SPECIES
 
 #### Status
 ACCEPTED

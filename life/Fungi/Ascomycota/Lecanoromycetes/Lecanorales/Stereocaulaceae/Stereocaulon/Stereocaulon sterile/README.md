@@ -1,5 +1,4 @@
-Stereocaulon sterile (Savicz) Krog SPECIES
-=======
+# Stereocaulon sterile (Savicz) Krog SPECIES
 
 #### Status
 ACCEPTED

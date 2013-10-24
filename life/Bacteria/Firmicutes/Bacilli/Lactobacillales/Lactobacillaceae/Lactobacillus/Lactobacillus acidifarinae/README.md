@@ -1,5 +1,4 @@
-Lactobacillus acidifarinae Vancanneyt et al., 2005 SPECIES
-=======
+# Lactobacillus acidifarinae Vancanneyt et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

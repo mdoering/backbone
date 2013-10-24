@@ -1,5 +1,4 @@
-Sticta flavireagens SPECIES
-=======
+# Sticta flavireagens SPECIES
 
 #### Status
 ACCEPTED

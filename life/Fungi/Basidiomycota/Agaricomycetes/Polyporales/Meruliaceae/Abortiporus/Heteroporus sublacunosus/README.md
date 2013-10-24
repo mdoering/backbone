@@ -1,17 +1,16 @@
-Heteroporus sublacunosus var. sublacunosus VARIETY
-=======
+# Heteroporus sublacunosus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 86: 76 (1987)
 
 #### Original name
-Heteroporus sublacunosus var. sublacunosus
+Heteroporus sublacunosus Corner, 1987
 
 ### Remarks
 null

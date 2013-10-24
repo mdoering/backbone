@@ -1,5 +1,4 @@
-Ascochyta ixorae Tak. Kobay. & Yas. Ono SPECIES
-=======
+# Ascochyta ixorae Tak. Kobay. & Yas. Ono SPECIES
 
 #### Status
 ACCEPTED

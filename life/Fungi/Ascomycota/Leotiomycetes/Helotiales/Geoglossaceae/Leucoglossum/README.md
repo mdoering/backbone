@@ -1,5 +1,4 @@
-Leucoglossum S. Imai, 1942 GENUS
-=======
+# Leucoglossum S. Imai, 1942 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca cinnabariza (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca cinnabariza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

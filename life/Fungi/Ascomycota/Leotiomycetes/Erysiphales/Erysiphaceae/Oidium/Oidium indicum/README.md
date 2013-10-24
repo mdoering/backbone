@@ -1,5 +1,4 @@
-Oidium indicum Kamat SPECIES
-=======
+# Oidium indicum Kamat SPECIES
 
 #### Status
 ACCEPTED

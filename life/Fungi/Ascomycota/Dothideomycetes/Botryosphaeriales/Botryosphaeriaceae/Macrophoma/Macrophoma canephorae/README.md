@@ -1,5 +1,4 @@
-Macrophoma canephorae Saccas SPECIES
-=======
+# Macrophoma canephorae Saccas SPECIES
 
 #### Status
 ACCEPTED

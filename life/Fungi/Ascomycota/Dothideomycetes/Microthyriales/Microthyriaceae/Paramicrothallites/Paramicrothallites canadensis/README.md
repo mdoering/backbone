@@ -1,5 +1,4 @@
-Paramicrothallites canadensis Kalgutkar SPECIES
-=======
+# Paramicrothallites canadensis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

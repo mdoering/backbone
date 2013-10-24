@@ -1,5 +1,4 @@
-Cladosporium pisi Cugini & Macch., 1891 SPECIES
-=======
+# Cladosporium pisi Cugini & Macch., 1891 SPECIES
 
 #### Status
 ACCEPTED

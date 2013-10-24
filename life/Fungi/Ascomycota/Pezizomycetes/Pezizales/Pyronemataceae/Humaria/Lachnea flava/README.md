@@ -1,5 +1,4 @@
-Lachnea flava (Fuckel) Sacc. SPECIES
-=======
+# Lachnea flava (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

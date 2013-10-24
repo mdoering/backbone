@@ -1,5 +1,4 @@
-Cryptandromyces bryaxidis T. Majewski SPECIES
-=======
+# Cryptandromyces bryaxidis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

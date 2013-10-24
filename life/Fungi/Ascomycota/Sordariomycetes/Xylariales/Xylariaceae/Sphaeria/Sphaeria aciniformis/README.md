@@ -1,5 +1,4 @@
-Sphaeria aciniformis Sowerby SPECIES
-=======
+# Sphaeria aciniformis Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces mycogones Rogerson & Samuels SPECIES
-=======
+# Hypomyces mycogones Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathelium deforme (Fée) Trevis. SPECIES
-=======
+# Bathelium deforme (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

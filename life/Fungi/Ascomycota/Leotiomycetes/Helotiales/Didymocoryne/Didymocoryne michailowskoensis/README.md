@@ -1,5 +1,4 @@
-Didymocoryne michailowskoensis (Henn.) Sacc. & Trotter SPECIES
-=======
+# Didymocoryne michailowskoensis (Henn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microscypha candida Moesz SPECIES
-=======
+# Microscypha candida Moesz SPECIES
 
 #### Status
 ACCEPTED

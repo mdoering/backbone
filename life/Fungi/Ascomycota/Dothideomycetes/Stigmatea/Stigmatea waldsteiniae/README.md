@@ -1,5 +1,4 @@
-Stigmatea waldsteiniae (Sawada) Lar.N. Vassiljeva SPECIES
-=======
+# Stigmatea waldsteiniae (Sawada) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

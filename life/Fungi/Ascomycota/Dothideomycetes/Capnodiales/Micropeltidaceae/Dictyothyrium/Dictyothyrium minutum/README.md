@@ -1,5 +1,4 @@
-Dictyothyrium minutum Toro SPECIES
-=======
+# Dictyothyrium minutum Toro SPECIES
 
 #### Status
 ACCEPTED

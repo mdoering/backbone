@@ -1,5 +1,4 @@
-Septoria samarae-macrophylli Dearn. & Barthol. SPECIES
-=======
+# Septoria samarae-macrophylli Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

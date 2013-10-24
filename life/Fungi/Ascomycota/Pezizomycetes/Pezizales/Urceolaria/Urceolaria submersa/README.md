@@ -1,5 +1,4 @@
-Urceolaria submersa (Lamy) Motyka SPECIES
-=======
+# Urceolaria submersa (Lamy) Motyka SPECIES
 
 #### Status
 ACCEPTED

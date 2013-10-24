@@ -1,5 +1,4 @@
-Phyllosticta monardae Ellis & Barthol. SPECIES
-=======
+# Phyllosticta monardae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

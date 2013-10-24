@@ -1,5 +1,4 @@
-Metaurostylopsis struederkypkella Shao, Song, Al-Rasheid, Yi, Chen, Al-Farraj & Al-Quraishy, 2008 SPECIES
-=======
+# Metaurostylopsis struederkypkella Shao, Song, Al-Rasheid, Yi, Chen, Al-Farraj & Al-Quraishy, 2008 SPECIES
 
 #### Status
 ACCEPTED

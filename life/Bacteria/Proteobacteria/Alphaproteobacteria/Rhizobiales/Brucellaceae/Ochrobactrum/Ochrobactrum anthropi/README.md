@@ -1,5 +1,4 @@
-Ochrobactrum anthropi Holmes et al., 1988 SPECIES
-=======
+# Ochrobactrum anthropi Holmes et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydophorella ordinalis (R. J. Davey) R. J. Davey SPECIES
-=======
+# Chlamydophorella ordinalis (R. J. Davey) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

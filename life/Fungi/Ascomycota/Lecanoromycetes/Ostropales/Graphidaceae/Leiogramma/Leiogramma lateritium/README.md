@@ -1,5 +1,4 @@
-Leiogramma lateritium Eschw. SPECIES
-=======
+# Leiogramma lateritium Eschw. SPECIES
 
 #### Status
 ACCEPTED

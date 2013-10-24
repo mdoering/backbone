@@ -1,5 +1,4 @@
-Venturia pellita Hazsl. SPECIES
-=======
+# Venturia pellita Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora tristis Mont. SPECIES
-=======
+# Biatora tristis Mont. SPECIES
 
 #### Status
 ACCEPTED

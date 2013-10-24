@@ -1,5 +1,4 @@
-Lepraria arcumata (Gmelin) Ach. SPECIES
-=======
+# Lepraria arcumata (Gmelin) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania picconiana Bagl. SPECIES
-=======
+# Lecania picconiana Bagl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes rhizomatophorus Henn. SPECIES
-=======
+# Fomes rhizomatophorus Henn. SPECIES
 
 #### Status
 ACCEPTED

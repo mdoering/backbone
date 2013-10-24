@@ -1,5 +1,4 @@
-Russula pseudoruberrima Romagn. SPECIES
-=======
+# Russula pseudoruberrima Romagn. SPECIES
 
 #### Status
 ACCEPTED

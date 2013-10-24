@@ -1,5 +1,4 @@
-Corynebacterium callunae (Lee and Good, 1963) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium callunae (Lee and Good, 1963) Yamada and Komagata, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

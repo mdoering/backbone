@@ -1,5 +1,4 @@
-Cellulophaga algicola Bowman, 2000 SPECIES
-=======
+# Cellulophaga algicola Bowman, 2000 SPECIES
 
 #### Status
 ACCEPTED

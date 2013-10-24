@@ -1,5 +1,4 @@
-Dicranidion parapalmicola Matsush. SPECIES
-=======
+# Dicranidion parapalmicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

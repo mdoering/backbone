@@ -1,5 +1,4 @@
-Scolecopeltopsis aeruginea (Zimm.) Höhn. SPECIES
-=======
+# Scolecopeltopsis aeruginea (Zimm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

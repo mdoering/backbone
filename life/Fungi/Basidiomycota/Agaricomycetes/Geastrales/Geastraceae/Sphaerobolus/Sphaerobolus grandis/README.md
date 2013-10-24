@@ -1,5 +1,4 @@
-Sphaerobolus grandis R.C. Lorenz SPECIES
-=======
+# Sphaerobolus grandis R.C. Lorenz SPECIES
 
 #### Status
 ACCEPTED

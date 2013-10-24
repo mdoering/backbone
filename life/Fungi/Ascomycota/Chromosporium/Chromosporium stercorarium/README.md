@@ -1,5 +1,4 @@
-Chromosporium stercorarium P. Karst. SPECIES
-=======
+# Chromosporium stercorarium P. Karst. SPECIES
 
 #### Status
 ACCEPTED

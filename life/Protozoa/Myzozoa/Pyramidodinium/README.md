@@ -1,5 +1,4 @@
-Pyramidodinium T.Horiguchi & C.Sukigara, 2006 GENUS
-=======
+# Pyramidodinium T.Horiguchi & C.Sukigara, 2006 GENUS
 
 #### Status
 ACCEPTED

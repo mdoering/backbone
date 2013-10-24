@@ -1,5 +1,4 @@
-Ragnhildiana tranzschelii Vassiljevsky SPECIES
-=======
+# Ragnhildiana tranzschelii Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

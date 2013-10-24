@@ -1,5 +1,4 @@
-Alternaria hibisci Bouhot SPECIES
-=======
+# Alternaria hibisci Bouhot SPECIES
 
 #### Status
 ACCEPTED

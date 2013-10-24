@@ -1,5 +1,4 @@
-Calpionellites lata Leischner, 1959 SPECIES
-=======
+# Calpionellites lata Leischner, 1959 SPECIES
 
 #### Status
 ACCEPTED

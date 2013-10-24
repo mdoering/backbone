@@ -1,5 +1,4 @@
-Butyribacterium GENUS
-=======
+# Butyribacterium GENUS
 
 #### Status
 ACCEPTED

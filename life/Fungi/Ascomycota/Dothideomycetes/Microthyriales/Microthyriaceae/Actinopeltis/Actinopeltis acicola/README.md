@@ -1,5 +1,4 @@
-Actinopeltis acicola S.K. Bose & E. Müll. SPECIES
-=======
+# Actinopeltis acicola S.K. Bose & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

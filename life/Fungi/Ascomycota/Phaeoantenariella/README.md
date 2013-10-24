@@ -1,5 +1,4 @@
-Phaeoantenariella Cavalc. GENUS
-=======
+# Phaeoantenariella Cavalc. GENUS
 
 #### Status
 ACCEPTED

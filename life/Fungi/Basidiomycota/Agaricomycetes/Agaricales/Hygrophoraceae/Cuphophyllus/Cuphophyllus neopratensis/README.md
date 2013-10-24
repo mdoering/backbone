@@ -1,5 +1,4 @@
-Cuphophyllus neopratensis Courtec. & Fiard SPECIES
-=======
+# Cuphophyllus neopratensis Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroococcus subsphaericus Gardner SPECIES
-=======
+# Chroococcus subsphaericus Gardner SPECIES
 
 #### Status
 ACCEPTED

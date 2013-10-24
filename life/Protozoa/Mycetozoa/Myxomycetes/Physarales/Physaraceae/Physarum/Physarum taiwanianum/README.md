@@ -1,5 +1,4 @@
-Physarum taiwanianum Chao H. Chung & C.H. Liu, 1996 SPECIES
-=======
+# Physarum taiwanianum Chao H. Chung & C.H. Liu, 1996 SPECIES
 
 #### Status
 ACCEPTED

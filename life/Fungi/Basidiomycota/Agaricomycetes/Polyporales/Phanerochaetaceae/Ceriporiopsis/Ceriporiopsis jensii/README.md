@@ -1,5 +1,4 @@
-Ceriporiopsis jensii Laessøe & Ryvarden, 2010 SPECIES
-=======
+# Ceriporiopsis jensii Laessøe & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

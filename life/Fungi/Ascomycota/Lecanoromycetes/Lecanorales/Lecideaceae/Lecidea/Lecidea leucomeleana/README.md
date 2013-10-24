@@ -1,8 +1,7 @@
-Lecidea leucomelas (Krempelh.) Hue SPECIES
-=======
+# Lecidea leucomeleana (Krempelh.) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

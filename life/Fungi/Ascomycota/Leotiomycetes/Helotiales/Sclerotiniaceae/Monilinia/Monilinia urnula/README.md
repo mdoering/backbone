@@ -1,14 +1,13 @@
-Monilia urnula (Weinm.) Grasso, 1955 SPECIES
-=======
+# Monilinia urnula (Weinm.) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annali Sper. agr. , n. s. 9: 225 (1955)
+Mycologia 37(6): 673 (1945)
 
 #### Original name
 Ciboria urnula Weinm., 1836

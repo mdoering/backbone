@@ -1,5 +1,4 @@
-Polystictus albescens Lázaro Ibiza SPECIES
-=======
+# Polystictus albescens Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

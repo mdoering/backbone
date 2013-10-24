@@ -1,5 +1,4 @@
-Sphaeronaema minutissimum Peck SPECIES
-=======
+# Sphaeronaema minutissimum Peck SPECIES
 
 #### Status
 ACCEPTED

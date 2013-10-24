@@ -1,5 +1,4 @@
-Cantharellus candidissimus Velen. SPECIES
-=======
+# Cantharellus candidissimus Velen. SPECIES
 
 #### Status
 ACCEPTED

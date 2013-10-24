@@ -1,5 +1,4 @@
-Amoebophyraceae FAMILY
-=======
+# Amoebophyraceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiostoma castaneae (Vanine {?} & Solovjev) Nannf. SPECIES
-=======
+# Ophiostoma castaneae (Vanine {?} & Solovjev) Nannf. SPECIES
 
 #### Status
 ACCEPTED

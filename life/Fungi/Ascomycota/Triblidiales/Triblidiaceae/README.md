@@ -1,17 +1,16 @@
-Tryblidiaceae Rehm FAMILY
-=======
+# Triblidiaceae Rehm FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig) 1(2): 191 (1888)
 
 #### Original name
-Tryblidiaceae Rehm
+Triblidiaceae Rehm
 
 ### Remarks
 null

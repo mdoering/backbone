@@ -1,5 +1,4 @@
-Tintinnabuliformis O. Varol, 1991 GENUS
-=======
+# Tintinnabuliformis O. Varol, 1991 GENUS
 
 #### Status
 ACCEPTED

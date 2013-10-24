@@ -1,5 +1,4 @@
-Callopisma tominii Savicz SPECIES
-=======
+# Callopisma tominii Savicz SPECIES
 
 #### Status
 ACCEPTED

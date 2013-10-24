@@ -1,5 +1,4 @@
-Pertusaria ochrolechioides Zahlbr. SPECIES
-=======
+# Pertusaria ochrolechioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

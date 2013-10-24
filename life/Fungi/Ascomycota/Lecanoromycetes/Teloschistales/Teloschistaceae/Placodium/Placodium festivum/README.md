@@ -1,5 +1,4 @@
-Placodium festivum SPECIES
-=======
+# Placodium festivum SPECIES
 
 #### Status
 ACCEPTED

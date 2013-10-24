@@ -1,5 +1,4 @@
-Psathyrella pruinosa Rawla SPECIES
-=======
+# Psathyrella pruinosa Rawla SPECIES
 
 #### Status
 ACCEPTED

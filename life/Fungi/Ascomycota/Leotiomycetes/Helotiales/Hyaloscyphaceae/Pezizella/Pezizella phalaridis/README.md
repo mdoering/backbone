@@ -1,5 +1,4 @@
-Pezizella phalaridis Velen. SPECIES
-=======
+# Pezizella phalaridis Velen. SPECIES
 
 #### Status
 ACCEPTED

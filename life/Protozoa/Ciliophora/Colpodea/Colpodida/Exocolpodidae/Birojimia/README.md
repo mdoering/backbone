@@ -1,5 +1,4 @@
-Birojimia Berger & Foissner, 1989 GENUS
-=======
+# Birojimia Berger & Foissner, 1989 GENUS
 
 #### Status
 ACCEPTED

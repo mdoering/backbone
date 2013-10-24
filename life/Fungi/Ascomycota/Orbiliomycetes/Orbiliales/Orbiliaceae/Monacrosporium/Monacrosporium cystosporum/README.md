@@ -1,14 +1,13 @@
-Golovinia cystospora (R.C. Cooke & C.H. Dickinson) Mekht., 1979 SPECIES
-=======
+# Monacrosporium cystosporum R.C. Cooke & C.H. Dickinson, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Khishchnye Nematofagovye Griby - Gifomitsety (Baku) 146 (1979)
+Trans. Br. mycol. Soc. 48(4): 623 (1965)
 
 #### Original name
 Monacrosporium cystosporum R.C. Cooke & C.H. Dickinson, 1965

@@ -1,5 +1,4 @@
-Catinaster calyculus Martini & Bramlette, 1963 SPECIES
-=======
+# Catinaster calyculus Martini & Bramlette, 1963 SPECIES
 
 #### Status
 ACCEPTED

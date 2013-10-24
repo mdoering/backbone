@@ -1,5 +1,4 @@
-Septoria jacquelella SPECIES
-=======
+# Septoria jacquelella SPECIES
 
 #### Status
 ACCEPTED

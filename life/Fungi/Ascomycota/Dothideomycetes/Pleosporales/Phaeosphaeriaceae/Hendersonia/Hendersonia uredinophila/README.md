@@ -1,5 +1,4 @@
-Hendersonia uredinophila Syd. SPECIES
-=======
+# Hendersonia uredinophila Syd. SPECIES
 
 #### Status
 ACCEPTED

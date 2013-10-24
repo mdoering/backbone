@@ -1,5 +1,4 @@
-Sporadina Stein, 1848 GENUS
-=======
+# Sporadina Stein, 1848 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterospermopsimorpha mira Pykhova, 1973 SPECIES
-=======
+# Pterospermopsimorpha mira Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

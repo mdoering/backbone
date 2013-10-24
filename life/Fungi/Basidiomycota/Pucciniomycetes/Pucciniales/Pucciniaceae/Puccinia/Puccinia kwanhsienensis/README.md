@@ -1,5 +1,4 @@
-Puccinia kwanhsienensis F.L. Tai SPECIES
-=======
+# Puccinia kwanhsienensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

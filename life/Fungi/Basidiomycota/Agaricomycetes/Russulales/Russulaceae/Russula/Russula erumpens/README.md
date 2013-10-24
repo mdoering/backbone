@@ -1,5 +1,4 @@
-Russula erumpens Cleland & Cheel SPECIES
-=======
+# Russula erumpens Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus pycnoticus (Klotzsch) Henn. SPECIES
-=======
+# Lentinus pycnoticus (Klotzsch) Henn. SPECIES
 
 #### Status
 ACCEPTED

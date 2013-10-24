@@ -1,5 +1,4 @@
-Phyllosticta linderae Ellis & Everh. SPECIES
-=======
+# Phyllosticta linderae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

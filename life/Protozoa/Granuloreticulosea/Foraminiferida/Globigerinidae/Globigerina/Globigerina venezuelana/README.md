@@ -1,5 +1,4 @@
-Globigerina venezuelana Hedberg SPECIES
-=======
+# Globigerina venezuelana Hedberg SPECIES
 
 #### Status
 ACCEPTED

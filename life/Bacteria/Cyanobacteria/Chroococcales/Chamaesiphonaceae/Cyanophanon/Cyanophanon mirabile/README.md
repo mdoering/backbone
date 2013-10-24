@@ -1,5 +1,4 @@
-Cyanophanon mirabile Geitler SPECIES
-=======
+# Cyanophanon mirabile Geitler SPECIES
 
 #### Status
 ACCEPTED

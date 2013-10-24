@@ -1,5 +1,4 @@
-Oscillatoria anguina (Bory) Gomont SPECIES
-=======
+# Oscillatoria anguina (Bory) Gomont SPECIES
 
 #### Status
 ACCEPTED

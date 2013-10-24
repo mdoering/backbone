@@ -1,5 +1,4 @@
-Selenophoma poterii (Fautrey) Petr. SPECIES
-=======
+# Selenophoma poterii (Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

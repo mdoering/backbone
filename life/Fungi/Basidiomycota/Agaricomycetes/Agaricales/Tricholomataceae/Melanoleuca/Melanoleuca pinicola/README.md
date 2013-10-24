@@ -1,5 +1,4 @@
-Melanoleuca pinicola Murrill SPECIES
-=======
+# Melanoleuca pinicola Murrill SPECIES
 
 #### Status
 ACCEPTED

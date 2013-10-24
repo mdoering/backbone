@@ -1,5 +1,4 @@
-Amylobacter GENUS
-=======
+# Amylobacter GENUS
 
 #### Status
 ACCEPTED

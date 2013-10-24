@@ -1,5 +1,4 @@
-Streptothrix cinerea Morgan SPECIES
-=======
+# Streptothrix cinerea Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe sardoa Guzmán & Contu SPECIES
-=======
+# Psilocybe sardoa Guzmán & Contu SPECIES
 
 #### Status
 ACCEPTED

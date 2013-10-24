@@ -1,5 +1,4 @@
-Peziza strigosa var. strigosa VARIETY
-=======
+# Peziza strigosa Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 434 (1803)
 
 #### Original name
-Peziza strigosa var. strigosa
+Peziza strigosa Schumach.
 
 ### Remarks
 null

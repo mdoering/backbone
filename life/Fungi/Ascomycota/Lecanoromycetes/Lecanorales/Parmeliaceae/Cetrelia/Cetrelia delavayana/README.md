@@ -1,5 +1,4 @@
-Cetrelia delavayana W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Cetrelia delavayana W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

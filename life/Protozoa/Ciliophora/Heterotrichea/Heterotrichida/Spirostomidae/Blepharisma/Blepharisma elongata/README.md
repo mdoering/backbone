@@ -1,5 +1,4 @@
-Blepharisma elongata Stokes SPECIES
-=======
+# Blepharisma elongata Stokes SPECIES
 
 #### Status
 ACCEPTED

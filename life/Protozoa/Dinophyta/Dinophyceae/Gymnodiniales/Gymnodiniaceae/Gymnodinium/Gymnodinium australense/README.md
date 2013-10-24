@@ -1,5 +1,4 @@
-Gymnodinium australense Ruiner, 1938 SPECIES
-=======
+# Gymnodinium australense Ruiner, 1938 SPECIES
 
 #### Status
 ACCEPTED

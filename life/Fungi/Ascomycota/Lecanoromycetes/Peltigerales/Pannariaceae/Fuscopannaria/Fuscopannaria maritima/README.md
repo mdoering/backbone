@@ -1,5 +1,4 @@
-Fuscopannaria maritima (P. M. Jørg.) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria maritima (P. M. Jørg.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

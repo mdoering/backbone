@@ -1,5 +1,4 @@
-Pleuropus noveboracensis (Peck) Murrill SPECIES
-=======
+# Pleuropus noveboracensis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

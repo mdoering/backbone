@@ -1,5 +1,4 @@
-Diaporthe feltgenii Sacc. & P. Syd. SPECIES
-=======
+# Diaporthe feltgenii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora euphorbiacearum U. Braun SPECIES
-=======
+# Pseudocercospora euphorbiacearum U. Braun SPECIES
 
 #### Status
 ACCEPTED

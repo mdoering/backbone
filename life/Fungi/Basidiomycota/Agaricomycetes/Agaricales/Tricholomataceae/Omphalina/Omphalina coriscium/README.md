@@ -1,5 +1,4 @@
-Omphalina coriscium Gams SPECIES
-=======
+# Omphalina coriscium Gams SPECIES
 
 #### Status
 ACCEPTED

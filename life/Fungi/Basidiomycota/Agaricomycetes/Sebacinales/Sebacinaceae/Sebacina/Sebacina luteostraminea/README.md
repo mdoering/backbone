@@ -1,5 +1,4 @@
-Sebacina luteostraminea (Rick) Rick SPECIES
-=======
+# Sebacina luteostraminea (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

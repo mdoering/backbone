@@ -1,5 +1,4 @@
-Diachea muscicola Y. Yamam., 2007 SPECIES
-=======
+# Diachea muscicola Y. Yamam., 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnella candida (Pers.) G. Cunn., 1963 SPECIES
-=======
+# Henningsomyces candidus (Pers.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 145: 309 (1963)
+Revis. gen. pl. (Leipzig) 3(2): 483 (1898)
 
 #### Original name
 Solenia candida Pers., 1794

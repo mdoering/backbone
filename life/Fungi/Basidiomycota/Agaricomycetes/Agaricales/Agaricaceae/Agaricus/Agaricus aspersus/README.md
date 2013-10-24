@@ -1,5 +1,4 @@
-Agaricus aspersus Batsch SPECIES
-=======
+# Agaricus aspersus Batsch SPECIES
 
 #### Status
 ACCEPTED

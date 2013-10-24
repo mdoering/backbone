@@ -1,5 +1,4 @@
-Bacidia sorediosa Groenh. SPECIES
-=======
+# Bacidia sorediosa Groenh. SPECIES
 
 #### Status
 ACCEPTED

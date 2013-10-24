@@ -1,5 +1,4 @@
-Laboulbenia clavulifera Thaxt. SPECIES
-=======
+# Laboulbenia clavulifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

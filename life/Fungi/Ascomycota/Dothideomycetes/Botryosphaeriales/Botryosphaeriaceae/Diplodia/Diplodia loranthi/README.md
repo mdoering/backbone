@@ -1,5 +1,4 @@
-Diplodia loranthi Bres. SPECIES
-=======
+# Diplodia loranthi Bres. SPECIES
 
 #### Status
 ACCEPTED

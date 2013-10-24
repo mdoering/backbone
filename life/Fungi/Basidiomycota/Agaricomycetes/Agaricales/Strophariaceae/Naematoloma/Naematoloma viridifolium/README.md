@@ -1,8 +1,7 @@
-Nematoloma viridifolium Métrod SPECIES
-=======
+# Naematoloma viridifolium Métrod SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma viridifolium Métrod
+Naematoloma viridifolium Métrod
 
 ### Remarks
 null

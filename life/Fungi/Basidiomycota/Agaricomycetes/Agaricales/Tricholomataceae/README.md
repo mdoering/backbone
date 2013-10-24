@@ -1,5 +1,4 @@
-Tricholomataceae R. Heim FAMILY
-=======
+# Tricholomataceae R. Heim FAMILY
 
 #### Status
 ACCEPTED

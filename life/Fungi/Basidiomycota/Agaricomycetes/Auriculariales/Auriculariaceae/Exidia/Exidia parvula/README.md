@@ -1,5 +1,4 @@
-Exidia parvula Rick SPECIES
-=======
+# Exidia parvula Rick SPECIES
 
 #### Status
 ACCEPTED

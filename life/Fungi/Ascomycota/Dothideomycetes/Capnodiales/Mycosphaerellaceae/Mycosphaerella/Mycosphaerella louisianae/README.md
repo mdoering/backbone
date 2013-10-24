@@ -1,5 +1,4 @@
-Mycosphaerella louisianae Plakidas SPECIES
-=======
+# Mycosphaerella louisianae Plakidas SPECIES
 
 #### Status
 ACCEPTED

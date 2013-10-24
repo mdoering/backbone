@@ -1,5 +1,4 @@
-Colpoma agathidis P.R. Johnst., 1991 SPECIES
-=======
+# Colpoma agathidis P.R. Johnst., 1991 SPECIES
 
 #### Status
 ACCEPTED

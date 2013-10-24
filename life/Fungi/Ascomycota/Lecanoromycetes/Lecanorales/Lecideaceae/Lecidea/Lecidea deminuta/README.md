@@ -1,5 +1,4 @@
-Lecidea deminuta (Stirt.) Hult. SPECIES
-=======
+# Lecidea deminuta (Stirt.) Hult. SPECIES
 
 #### Status
 ACCEPTED

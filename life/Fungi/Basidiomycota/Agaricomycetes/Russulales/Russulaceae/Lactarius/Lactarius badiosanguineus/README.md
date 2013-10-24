@@ -1,5 +1,4 @@
-Lactarius badiosanguineus Kühner & Romagn., 1954 SPECIES
-=======
+# Lactarius badiosanguineus Kühner & Romagn., 1954 SPECIES
 
 #### Status
 ACCEPTED

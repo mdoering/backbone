@@ -1,5 +1,4 @@
-Atractobolus striatulus (Wallr.) Kuntze SPECIES
-=======
+# Atractobolus striatulus (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

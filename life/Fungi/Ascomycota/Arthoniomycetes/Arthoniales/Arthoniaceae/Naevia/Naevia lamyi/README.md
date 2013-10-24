@@ -1,5 +1,4 @@
-Naevia lamyi (Mont.) Rehm SPECIES
-=======
+# Naevia lamyi (Mont.) Rehm SPECIES
 
 #### Status
 ACCEPTED

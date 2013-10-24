@@ -1,17 +1,16 @@
-Phylloporia resupinatus Douanla-Meli & Ryvarden SPECIES
-=======
+# Phylloporia resupinata Douanla-Meli & Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Douanla-Meli, Ryvarden & Langer, Nova Hedwigia 84(3-4): 416 (2007)
 
 #### Original name
-Phylloporia resupinatus Douanla-Meli & Ryvarden
+Phylloporia resupinata Douanla-Meli & Ryvarden
 
 ### Remarks
 null

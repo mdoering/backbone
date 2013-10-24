@@ -1,5 +1,4 @@
-Pentactinocapus GENUS
-=======
+# Pentactinocapus GENUS
 
 #### Status
 ACCEPTED

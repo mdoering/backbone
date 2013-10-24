@@ -1,5 +1,4 @@
-Acanthopsophosphaera Naumova, 1964 GENUS
-=======
+# Acanthopsophosphaera Naumova, 1964 GENUS
 
 #### Status
 ACCEPTED

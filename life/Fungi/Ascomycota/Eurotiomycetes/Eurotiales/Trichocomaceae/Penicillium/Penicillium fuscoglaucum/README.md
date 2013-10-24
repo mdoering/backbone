@@ -1,5 +1,4 @@
-Penicillium fuscoglaucum var. fuscoglaucum VARIETY
-=======
+# Penicillium fuscoglaucum Biourge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+La Cellule 33: 128 (1923)
 
 #### Original name
-Penicillium fuscoglaucum var. fuscoglaucum
+Penicillium fuscoglaucum Biourge
 
 ### Remarks
 null

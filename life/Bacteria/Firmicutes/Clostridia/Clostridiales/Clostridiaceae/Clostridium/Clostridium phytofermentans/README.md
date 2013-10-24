@@ -1,5 +1,4 @@
-Clostridium phytofermentans Warnick et al., 2002 SPECIES
-=======
+# Clostridium phytofermentans Warnick et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

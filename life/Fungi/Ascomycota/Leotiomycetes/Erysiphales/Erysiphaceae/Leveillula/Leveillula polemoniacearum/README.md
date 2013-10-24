@@ -1,5 +1,4 @@
-Leveillula polemoniacearum f. polemoniacearum FORM
-=======
+# Leveillula polemoniacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula polemoniacearum f. polemoniacearum
+Leveillula polemoniacearum Golovin
 
 ### Remarks
 null

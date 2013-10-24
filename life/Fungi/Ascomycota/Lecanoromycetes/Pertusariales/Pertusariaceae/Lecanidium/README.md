@@ -1,5 +1,4 @@
-Lecanidium GENUS
-=======
+# Lecanidium GENUS
 
 #### Status
 ACCEPTED

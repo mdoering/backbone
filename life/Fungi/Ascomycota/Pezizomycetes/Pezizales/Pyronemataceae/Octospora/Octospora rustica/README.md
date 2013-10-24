@@ -1,14 +1,13 @@
-Humaria rustica Velen., 1934 SPECIES
-=======
+# Octospora rustica (Velen.) J. Moravec, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 327 (1934)
+Ceská Mykol. 23: 226 (1969)
 
 #### Original name
 Humaria rustica Velen., 1934

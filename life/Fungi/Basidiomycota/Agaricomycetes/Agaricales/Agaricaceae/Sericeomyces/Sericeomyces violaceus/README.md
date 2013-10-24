@@ -1,5 +1,4 @@
-Sericeomyces violaceus Heinem. SPECIES
-=======
+# Sericeomyces violaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

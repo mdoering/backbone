@@ -1,5 +1,4 @@
-Laboulbenia taurica W. Rossi SPECIES
-=======
+# Laboulbenia taurica W. Rossi SPECIES
 
 #### Status
 ACCEPTED

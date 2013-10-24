@@ -1,5 +1,4 @@
-Rosellinia confertissima Ellis & Everh. SPECIES
-=======
+# Rosellinia confertissima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

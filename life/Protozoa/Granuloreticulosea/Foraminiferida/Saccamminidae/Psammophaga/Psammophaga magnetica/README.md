@@ -1,5 +1,4 @@
-Psammophaga magnetica Pawlowski & Majewski, 2011 SPECIES
-=======
+# Psammophaga magnetica Pawlowski & Majewski, 2011 SPECIES
 
 #### Status
 ACCEPTED

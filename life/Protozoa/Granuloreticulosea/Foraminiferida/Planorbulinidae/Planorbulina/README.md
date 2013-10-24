@@ -1,5 +1,4 @@
-Planorbulina d'Orbigny, 1826 GENUS
-=======
+# Planorbulina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

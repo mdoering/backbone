@@ -1,5 +1,4 @@
-Septoria euonymi-japonicae Pass. SPECIES
-=======
+# Septoria euonymi-japonicae Pass. SPECIES
 
 #### Status
 ACCEPTED

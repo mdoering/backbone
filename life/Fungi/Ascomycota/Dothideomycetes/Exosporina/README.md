@@ -1,5 +1,4 @@
-Exosporina Oudemans, 1904 GENUS
-=======
+# Exosporina Oudemans, 1904 GENUS
 
 #### Status
 ACCEPTED

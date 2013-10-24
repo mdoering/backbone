@@ -1,5 +1,4 @@
-Phomopsis cladrastidis Petr. SPECIES
-=======
+# Phomopsis cladrastidis Petr. SPECIES
 
 #### Status
 ACCEPTED

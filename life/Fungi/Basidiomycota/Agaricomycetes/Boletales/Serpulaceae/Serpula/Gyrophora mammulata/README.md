@@ -1,5 +1,4 @@
-Gyrophora mammulata Ach. SPECIES
-=======
+# Gyrophora mammulata Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces hydreliae Thaxt., 1901 SPECIES
-=======
+# Stigmatomyces hydreliae Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

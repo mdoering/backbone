@@ -1,5 +1,4 @@
-Cercospora pulcherrimae Tharp SPECIES
-=======
+# Cercospora pulcherrimae Tharp SPECIES
 
 #### Status
 ACCEPTED

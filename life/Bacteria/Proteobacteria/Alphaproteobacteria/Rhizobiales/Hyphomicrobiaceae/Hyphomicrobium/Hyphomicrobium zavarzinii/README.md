@@ -1,5 +1,4 @@
-Hyphomicrobium zavarzinii Hirsch, 1989 SPECIES
-=======
+# Hyphomicrobium zavarzinii Hirsch, 1989 SPECIES
 
 #### Status
 ACCEPTED

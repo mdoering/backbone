@@ -1,5 +1,4 @@
-Podophrya brevipoda SPECIES
-=======
+# Podophrya brevipoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium subaurantiacum Räsänen SPECIES
-=======
+# Placodium subaurantiacum Räsänen SPECIES
 
 #### Status
 ACCEPTED

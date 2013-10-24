@@ -1,5 +1,4 @@
-Krombholziella pallidistipes (A.H. Sm. & Thiers) utara SPECIES
-=======
+# Krombholziella pallidistipes (A.H. Sm. & Thiers) utara SPECIES
 
 #### Status
 ACCEPTED

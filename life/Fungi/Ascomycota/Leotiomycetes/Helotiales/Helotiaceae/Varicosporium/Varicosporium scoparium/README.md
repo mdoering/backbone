@@ -1,5 +1,4 @@
-Varicosporium scoparium A. Roldán & Honrubia SPECIES
-=======
+# Varicosporium scoparium A. Roldán & Honrubia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius ramulinus Peck SPECIES
-=======
+# Marasmius ramulinus Peck SPECIES
 
 #### Status
 ACCEPTED

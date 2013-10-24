@@ -1,5 +1,4 @@
-Vaginicola vaginata Dujardin, 1841 SPECIES
-=======
+# Vaginicola vaginata Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

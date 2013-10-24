@@ -1,5 +1,4 @@
-Penzigia quercus E. Müll. & S. Ahmad SPECIES
-=======
+# Penzigia quercus E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

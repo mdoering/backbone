@@ -1,5 +1,4 @@
-Dictyochora Theiss. & Syd. GENUS
-=======
+# Dictyochora Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

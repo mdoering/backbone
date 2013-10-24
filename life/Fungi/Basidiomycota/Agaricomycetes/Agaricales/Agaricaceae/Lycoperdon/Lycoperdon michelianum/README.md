@@ -1,5 +1,4 @@
-Lycoperdon michelianum Balb. SPECIES
-=======
+# Lycoperdon michelianum Balb. SPECIES
 
 #### Status
 ACCEPTED

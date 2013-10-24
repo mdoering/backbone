@@ -1,5 +1,4 @@
-Puccinia tenella I. Hino & Katum. SPECIES
-=======
+# Puccinia tenella I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

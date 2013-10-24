@@ -1,5 +1,4 @@
-Labyrinthula coenocystis Schmoller SPECIES
-=======
+# Labyrinthula coenocystis Schmoller SPECIES
 
 #### Status
 ACCEPTED

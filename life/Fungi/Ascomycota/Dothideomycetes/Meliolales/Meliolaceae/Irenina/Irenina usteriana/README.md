@@ -1,5 +1,4 @@
-Irenina usteriana Syd. SPECIES
-=======
+# Irenina usteriana Syd. SPECIES
 
 #### Status
 ACCEPTED

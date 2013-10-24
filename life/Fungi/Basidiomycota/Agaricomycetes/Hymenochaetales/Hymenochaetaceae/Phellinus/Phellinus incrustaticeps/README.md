@@ -1,5 +1,4 @@
-Phellinus incrustaticeps Corner SPECIES
-=======
+# Phellinus incrustaticeps Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum squarrosum Nees SPECIES
-=======
+# Hydnum squarrosum Nees SPECIES
 
 #### Status
 ACCEPTED

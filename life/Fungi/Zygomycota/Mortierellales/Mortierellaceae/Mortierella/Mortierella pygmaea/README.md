@@ -1,5 +1,4 @@
-Mortierella pygmaea Chalab. SPECIES
-=======
+# Mortierella pygmaea Chalab. SPECIES
 
 #### Status
 ACCEPTED

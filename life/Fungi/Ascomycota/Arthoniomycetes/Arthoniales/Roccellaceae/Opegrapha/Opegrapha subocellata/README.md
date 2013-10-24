@@ -1,5 +1,4 @@
-Opegrapha subocellata (Hepp) Spreng. SPECIES
-=======
+# Opegrapha subocellata (Hepp) Spreng. SPECIES
 
 #### Status
 ACCEPTED

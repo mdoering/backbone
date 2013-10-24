@@ -1,5 +1,4 @@
-Sphaerella bambusicola (I. Miyake & Hara) Sacc. & Trotter SPECIES
-=======
+# Sphaerella bambusicola (I. Miyake & Hara) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

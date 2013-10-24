@@ -1,5 +1,4 @@
-Puccinia artemisiarum Duby SPECIES
-=======
+# Puccinia artemisiarum Duby SPECIES
 
 #### Status
 ACCEPTED

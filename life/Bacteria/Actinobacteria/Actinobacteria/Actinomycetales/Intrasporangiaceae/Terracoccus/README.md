@@ -1,5 +1,4 @@
-Terracoccus Prauser et al., 1997 GENUS
-=======
+# Terracoccus Prauser et al., 1997 GENUS
 
 #### Status
 ACCEPTED

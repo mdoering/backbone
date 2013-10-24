@@ -1,5 +1,4 @@
-Tricholoma angustifolium (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Tricholoma angustifolium (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

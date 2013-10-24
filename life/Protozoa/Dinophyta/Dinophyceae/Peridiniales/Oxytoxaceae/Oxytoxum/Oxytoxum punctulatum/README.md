@@ -1,5 +1,4 @@
-Oxytoxum punctulatum Rampi SPECIES
-=======
+# Oxytoxum punctulatum Rampi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora retiformis Berk. & M.A. Curtis SPECIES
-=======
+# Thelephora retiformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

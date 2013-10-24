@@ -1,5 +1,4 @@
-Urceolaria castanea DC. SPECIES
-=======
+# Urceolaria castanea DC. SPECIES
 
 #### Status
 ACCEPTED

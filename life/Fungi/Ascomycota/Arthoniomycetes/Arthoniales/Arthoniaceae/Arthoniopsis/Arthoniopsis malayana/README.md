@@ -1,5 +1,4 @@
-Arthoniopsis malayana (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis malayana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

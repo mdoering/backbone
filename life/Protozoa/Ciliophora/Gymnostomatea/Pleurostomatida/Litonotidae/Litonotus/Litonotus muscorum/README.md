@@ -1,5 +1,4 @@
-Litonotus muscorum (Kahl, 1931) Blatterer & Foissner, 1988 SPECIES
-=======
+# Litonotus muscorum (Kahl, 1931) Blatterer & Foissner, 1988 SPECIES
 
 #### Status
 ACCEPTED

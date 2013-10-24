@@ -1,5 +1,4 @@
-Pseudocercospora chlorophorae (J.M. Yen & Gilles) Deighton SPECIES
-=======
+# Pseudocercospora chlorophorae (J.M. Yen & Gilles) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vologdovia companula Shepeleva in Klevtsova & Shepeleva, 1980 SPECIES
-=======
+# Vologdovia companula Shepeleva in Klevtsova & Shepeleva, 1980 SPECIES
 
 #### Status
 ACCEPTED

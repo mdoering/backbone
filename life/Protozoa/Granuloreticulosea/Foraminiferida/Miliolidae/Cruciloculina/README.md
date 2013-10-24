@@ -1,5 +1,4 @@
-Cruciloculina d'Orbigny, 1839 GENUS
-=======
+# Cruciloculina d'Orbigny, 1839 GENUS
 
 #### Status
 ACCEPTED

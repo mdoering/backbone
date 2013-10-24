@@ -1,5 +1,4 @@
-Physalospora telephina Mouton SPECIES
-=======
+# Physalospora telephina Mouton SPECIES
 
 #### Status
 ACCEPTED

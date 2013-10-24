@@ -1,5 +1,4 @@
-Vermicularia oblonga Desm. SPECIES
-=======
+# Vermicularia oblonga Desm. SPECIES
 
 #### Status
 ACCEPTED

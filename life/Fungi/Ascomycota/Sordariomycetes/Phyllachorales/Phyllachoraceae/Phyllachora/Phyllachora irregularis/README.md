@@ -1,14 +1,13 @@
-Isothea irregularis Welw. & Curr., 1868 SPECIES
-=======
+# Phyllachora irregularis (Welw. & Curr.) A.L. Sm., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London 26: 285 (1868)
+J. Bot. , London 36: 179 (1898)
 
 #### Original name
 Isothea irregularis Welw. & Curr., 1868

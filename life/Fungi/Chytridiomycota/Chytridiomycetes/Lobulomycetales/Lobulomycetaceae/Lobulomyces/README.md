@@ -1,5 +1,4 @@
-Lobulomyces D.R. Simmons GENUS
-=======
+# Lobulomyces D.R. Simmons GENUS
 
 #### Status
 ACCEPTED

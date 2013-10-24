@@ -1,14 +1,13 @@
-Oxyporus nobilissimus W.B. Cooke, 1949 SPECIES
-=======
+# Bridgeoporus nobilissimus (W.B. Cooke) T.J. Volk, Burds. & Ammirati, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 41(4): 444 (1949)
+in Burdsall, Volk & Ammirati, Mycotaxon 60: 390 (1996)
 
 #### Original name
 Oxyporus nobilissimus W.B. Cooke, 1949

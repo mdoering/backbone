@@ -1,5 +1,4 @@
-Leptomitales Kanouse ORDER
-=======
+# Leptomitales Kanouse ORDER
 
 #### Status
 ACCEPTED

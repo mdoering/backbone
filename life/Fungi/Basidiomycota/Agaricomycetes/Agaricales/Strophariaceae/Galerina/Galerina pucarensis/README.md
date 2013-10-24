@@ -1,5 +1,4 @@
-Galerina pucarensis Singer SPECIES
-=======
+# Galerina pucarensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum blumii Contu SPECIES
-=======
+# Leccinum blumii Contu SPECIES
 
 #### Status
 ACCEPTED

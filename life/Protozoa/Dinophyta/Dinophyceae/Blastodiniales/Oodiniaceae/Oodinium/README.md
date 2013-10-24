@@ -1,14 +1,13 @@
-Oödinium Chatton, 1912 GENUS
-=======
+# Oodinium Chatton, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. Zool. France, 37, 85.
 
 #### Original name
 null

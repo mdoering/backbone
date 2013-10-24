@@ -1,5 +1,4 @@
-Russula pallidorimosa Buyck SPECIES
-=======
+# Russula pallidorimosa Buyck SPECIES
 
 #### Status
 ACCEPTED

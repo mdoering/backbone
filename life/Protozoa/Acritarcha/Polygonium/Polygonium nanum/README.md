@@ -1,5 +1,4 @@
-Polygonium nanum (Deflandre, 1945 emend. Lister, 1970) Jacobson, 1978 SPECIES
-=======
+# Polygonium nanum (Deflandre, 1945 emend. Lister, 1970) Jacobson, 1978 SPECIES
 
 #### Status
 ACCEPTED

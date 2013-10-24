@@ -1,5 +1,4 @@
-Leccinum percandidum (J. Blum) Lannoy & Estadès SPECIES
-=======
+# Leccinum percandidum (J. Blum) Lannoy & Estadès SPECIES
 
 #### Status
 ACCEPTED

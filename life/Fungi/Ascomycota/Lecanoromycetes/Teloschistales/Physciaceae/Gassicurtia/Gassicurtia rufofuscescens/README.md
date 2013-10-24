@@ -1,5 +1,4 @@
-Gassicurtia rufofuscescens (Vain.) Marbach SPECIES
-=======
+# Gassicurtia rufofuscescens (Vain.) Marbach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina blechni Bres. SPECIES
-=======
+# Taphrina blechni Bres. SPECIES
 
 #### Status
 ACCEPTED

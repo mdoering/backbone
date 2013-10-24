@@ -1,5 +1,4 @@
-Pyrenophora sobolevskii Gucevic SPECIES
-=======
+# Pyrenophora sobolevskii Gucevic SPECIES
 
 #### Status
 ACCEPTED

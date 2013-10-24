@@ -1,5 +1,4 @@
-Brachysporium tingens (Cooke) Sacc. SPECIES
-=======
+# Brachysporium tingens (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

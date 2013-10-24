@@ -1,5 +1,4 @@
-Pertusaria sporellula A.W. Archer & Elix SPECIES
-=======
+# Pertusaria sporellula A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

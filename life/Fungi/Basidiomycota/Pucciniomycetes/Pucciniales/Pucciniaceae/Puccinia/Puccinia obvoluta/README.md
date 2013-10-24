@@ -1,5 +1,4 @@
-Puccinia obvoluta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia obvoluta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

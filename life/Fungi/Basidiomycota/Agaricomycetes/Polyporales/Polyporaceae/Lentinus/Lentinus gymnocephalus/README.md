@@ -1,5 +1,4 @@
-Lentinus gymnocephalus Lév. SPECIES
-=======
+# Lentinus gymnocephalus Lév. SPECIES
 
 #### Status
 ACCEPTED

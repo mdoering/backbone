@@ -1,5 +1,4 @@
-Seimatosporium berberidicola (Vassiljevsky) Nag Raj SPECIES
-=======
+# Seimatosporium berberidicola (Vassiljevsky) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

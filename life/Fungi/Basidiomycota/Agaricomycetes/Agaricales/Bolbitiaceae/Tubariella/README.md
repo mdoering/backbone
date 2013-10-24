@@ -1,5 +1,4 @@
-Tubariella E. Horak & Hauskn. GENUS
-=======
+# Tubariella E. Horak & Hauskn. GENUS
 
 #### Status
 ACCEPTED

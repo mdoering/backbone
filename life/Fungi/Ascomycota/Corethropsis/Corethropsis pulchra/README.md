@@ -1,5 +1,4 @@
-Corethropsis pulchra var. pulchra VARIETY
-=======
+# Corethropsis pulchra Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Corethropsis pulchra var. pulchra
+Corethropsis pulchra Sacc.
 
 ### Remarks
 null

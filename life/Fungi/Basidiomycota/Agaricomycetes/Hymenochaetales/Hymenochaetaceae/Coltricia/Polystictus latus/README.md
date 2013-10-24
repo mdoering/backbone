@@ -1,5 +1,4 @@
-Polystictus latus Fr. SPECIES
-=======
+# Polystictus latus Fr. SPECIES
 
 #### Status
 ACCEPTED

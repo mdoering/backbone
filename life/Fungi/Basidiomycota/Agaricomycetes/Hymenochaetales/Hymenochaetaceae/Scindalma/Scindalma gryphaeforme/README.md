@@ -1,5 +1,4 @@
-Scindalma gryphaeforme (Berk.) Kuntze SPECIES
-=======
+# Scindalma gryphaeforme (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria arenzanoensis Servít SPECIES
-=======
+# Verrucaria arenzanoensis Servít SPECIES
 
 #### Status
 ACCEPTED

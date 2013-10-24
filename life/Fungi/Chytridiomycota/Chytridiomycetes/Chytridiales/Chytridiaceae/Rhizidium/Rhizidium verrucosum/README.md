@@ -1,5 +1,4 @@
-Rhizidium verrucosum Karling, 1944 SPECIES
-=======
+# Rhizidium verrucosum Karling, 1944 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus ianthinus Gibertoni & Ryvarden SPECIES
-=======
+# Polyporus ianthinus Gibertoni & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

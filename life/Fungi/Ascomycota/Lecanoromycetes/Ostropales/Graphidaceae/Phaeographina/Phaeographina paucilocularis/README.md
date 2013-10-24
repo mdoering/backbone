@@ -1,5 +1,4 @@
-Phaeographina paucilocularis Müll. Arg. SPECIES
-=======
+# Phaeographina paucilocularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

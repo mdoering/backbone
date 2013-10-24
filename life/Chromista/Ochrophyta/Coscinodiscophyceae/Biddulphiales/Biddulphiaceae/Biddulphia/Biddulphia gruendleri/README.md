@@ -1,5 +1,4 @@
-Biddulphia gruendleri A. Smith SPECIES
-=======
+# Biddulphia gruendleri A. Smith SPECIES
 
 #### Status
 ACCEPTED

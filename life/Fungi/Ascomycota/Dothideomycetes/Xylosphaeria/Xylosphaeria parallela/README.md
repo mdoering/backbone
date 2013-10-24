@@ -1,5 +1,4 @@
-Xylosphaeria parallela (Fr.) SPECIES
-=======
+# Xylosphaeria parallela (Fr.) SPECIES
 
 #### Status
 ACCEPTED

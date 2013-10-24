@@ -1,14 +1,13 @@
-Arcangeliella soderstromii (Lagerh.) Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella soederstroemii (Lagerh.) Zeller & C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 6: 52 (1919)
 
 #### Original name
 Hydnangium soderstromii Lagerh.

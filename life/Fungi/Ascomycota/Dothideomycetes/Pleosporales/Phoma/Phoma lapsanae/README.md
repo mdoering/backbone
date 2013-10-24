@@ -1,8 +1,7 @@
-Phoma lampsanae P. Karst. SPECIES
-=======
+# Phoma lapsanae P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma lampsanae P. Karst.
+Phoma lapsanae P. Karst.
 
 ### Remarks
 null

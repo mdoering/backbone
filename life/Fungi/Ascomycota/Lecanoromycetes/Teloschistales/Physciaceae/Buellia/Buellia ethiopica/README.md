@@ -1,5 +1,4 @@
-Buellia ethiopica C.W. Dodge SPECIES
-=======
+# Buellia ethiopica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

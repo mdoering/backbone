@@ -1,5 +1,4 @@
-Penicillium epsteinii J. Lindau SPECIES
-=======
+# Penicillium epsteinii J. Lindau SPECIES
 
 #### Status
 ACCEPTED

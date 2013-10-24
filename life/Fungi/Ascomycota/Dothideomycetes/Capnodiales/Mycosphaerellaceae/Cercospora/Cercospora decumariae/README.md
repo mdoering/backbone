@@ -1,5 +1,4 @@
-Cercospora decumariae Tracy & Earle SPECIES
-=======
+# Cercospora decumariae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

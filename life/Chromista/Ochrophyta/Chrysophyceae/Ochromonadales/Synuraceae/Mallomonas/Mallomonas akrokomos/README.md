@@ -1,5 +1,4 @@
-Mallomonas akrokomos Ruttner in Pascher SPECIES
-=======
+# Mallomonas akrokomos Ruttner in Pascher SPECIES
 
 #### Status
 ACCEPTED

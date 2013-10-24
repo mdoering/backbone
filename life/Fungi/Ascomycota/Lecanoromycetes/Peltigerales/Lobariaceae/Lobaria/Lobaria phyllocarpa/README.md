@@ -1,5 +1,4 @@
-Lobaria phyllocarpa Müll. Stuttg. SPECIES
-=======
+# Lobaria phyllocarpa Müll. Stuttg. SPECIES
 
 #### Status
 ACCEPTED

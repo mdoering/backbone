@@ -1,5 +1,4 @@
-Cyttarocylis acutiformis Kofoid & Campbell, 1929 SPECIES
-=======
+# Cyttarocylis acutiformis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

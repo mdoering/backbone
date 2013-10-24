@@ -1,5 +1,4 @@
-Dirinaria endopyxinea (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Dirinaria endopyxinea (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

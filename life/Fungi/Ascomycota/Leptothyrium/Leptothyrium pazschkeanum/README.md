@@ -1,5 +1,4 @@
-Leptothyrium pazschkeanum Bubák SPECIES
-=======
+# Leptothyrium pazschkeanum Bubák SPECIES
 
 #### Status
 ACCEPTED

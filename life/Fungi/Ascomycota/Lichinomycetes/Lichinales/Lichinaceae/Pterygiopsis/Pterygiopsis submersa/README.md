@@ -1,5 +1,4 @@
-Pterygiopsis submersa Büdel, Henssen & Wessels SPECIES
-=======
+# Pterygiopsis submersa Büdel, Henssen & Wessels SPECIES
 
 #### Status
 ACCEPTED

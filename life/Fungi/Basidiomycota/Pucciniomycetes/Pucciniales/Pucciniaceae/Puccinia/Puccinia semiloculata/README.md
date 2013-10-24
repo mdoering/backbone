@@ -1,5 +1,4 @@
-Puccinia semiloculata G.F. Laundon SPECIES
-=======
+# Puccinia semiloculata G.F. Laundon SPECIES
 
 #### Status
 ACCEPTED

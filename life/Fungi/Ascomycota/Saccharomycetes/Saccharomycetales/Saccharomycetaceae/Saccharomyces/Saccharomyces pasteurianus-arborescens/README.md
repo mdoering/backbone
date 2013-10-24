@@ -1,5 +1,4 @@
-Saccharomyces pasteurianus-arborescens van Laer SPECIES
-=======
+# Saccharomyces pasteurianus-arborescens van Laer SPECIES
 
 #### Status
 ACCEPTED

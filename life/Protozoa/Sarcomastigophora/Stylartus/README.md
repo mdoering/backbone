@@ -1,5 +1,4 @@
-Stylartus Haeckel, 1881 GENUS
-=======
+# Stylartus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muscodor crispans A.M. Mitch., Strobel, W.M. Hess, Pérez-Vargas & Ezra, 2008 SPECIES
-=======
+# Muscodor crispans A.M. Mitch., Strobel, W.M. Hess, Pérez-Vargas & Ezra, 2008 SPECIES
 
 #### Status
 ACCEPTED

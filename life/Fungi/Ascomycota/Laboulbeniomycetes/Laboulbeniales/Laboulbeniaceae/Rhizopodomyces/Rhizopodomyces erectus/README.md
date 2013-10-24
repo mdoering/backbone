@@ -1,5 +1,4 @@
-Rhizopodomyces erectus R.K. Benj. SPECIES
-=======
+# Rhizopodomyces erectus R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

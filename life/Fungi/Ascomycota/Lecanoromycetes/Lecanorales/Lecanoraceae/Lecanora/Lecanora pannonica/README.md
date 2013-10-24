@@ -1,5 +1,4 @@
-Lecanora pannonica Szatala SPECIES
-=======
+# Lecanora pannonica Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium hafellneri Zhurb., 2009 SPECIES
-=======
+# Stigmidium hafellneri Zhurb., 2009 SPECIES
 
 #### Status
 ACCEPTED

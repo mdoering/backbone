@@ -1,5 +1,4 @@
-Textularia pseudogramen Chapman & Parr, 1937 SPECIES
-=======
+# Textularia pseudogramen Chapman & Parr, 1937 SPECIES
 
 #### Status
 ACCEPTED

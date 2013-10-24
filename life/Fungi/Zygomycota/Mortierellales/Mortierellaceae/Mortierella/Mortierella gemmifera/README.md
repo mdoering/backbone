@@ -1,5 +1,4 @@
-Mortierella gemmifera M. Ellis, 1940 SPECIES
-=======
+# Mortierella gemmifera M. Ellis, 1940 SPECIES
 
 #### Status
 ACCEPTED

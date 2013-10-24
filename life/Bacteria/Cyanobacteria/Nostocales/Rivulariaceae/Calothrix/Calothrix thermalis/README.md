@@ -1,8 +1,7 @@
-Mastichonema thermale Schwabe SPECIES
-=======
+# Calothrix thermalis (Schwabe) Hasngirg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

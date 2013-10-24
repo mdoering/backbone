@@ -1,5 +1,4 @@
-Centrocubus Haeckel, 1887 GENUS
-=======
+# Centrocubus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

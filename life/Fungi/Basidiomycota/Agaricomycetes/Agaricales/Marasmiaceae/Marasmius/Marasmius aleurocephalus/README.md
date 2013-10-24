@@ -1,5 +1,4 @@
-Marasmius aleurocephalus Berk. SPECIES
-=======
+# Marasmius aleurocephalus Berk. SPECIES
 
 #### Status
 ACCEPTED

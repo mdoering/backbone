@@ -1,5 +1,4 @@
-Pyrocystis apiculata F.J.R. Taylor, 1976 SPECIES
-=======
+# Pyrocystis apiculata F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aldorfia spongiosa (D. J. McIntyre & W. W. Brideaux) R. J. Davey SPECIES
-=======
+# Aldorfia spongiosa (D. J. McIntyre & W. W. Brideaux) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

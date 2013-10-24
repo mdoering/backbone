@@ -1,5 +1,4 @@
-Phallus quadricolor Berk. & Broome SPECIES
-=======
+# Phallus quadricolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

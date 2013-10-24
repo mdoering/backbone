@@ -1,5 +1,4 @@
-Micromyces spirogyrae Skvortsov SPECIES
-=======
+# Micromyces spirogyrae Skvortsov SPECIES
 
 #### Status
 ACCEPTED

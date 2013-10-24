@@ -1,5 +1,4 @@
-Bundleia inflata Strelkow, 1939 SPECIES
-=======
+# Bundleia inflata Strelkow, 1939 SPECIES
 
 #### Status
 ACCEPTED

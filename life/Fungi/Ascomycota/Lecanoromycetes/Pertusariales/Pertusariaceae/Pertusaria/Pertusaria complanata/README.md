@@ -1,5 +1,4 @@
-Pertusaria complanata A. W. Archer & Elix SPECIES
-=======
+# Pertusaria complanata A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

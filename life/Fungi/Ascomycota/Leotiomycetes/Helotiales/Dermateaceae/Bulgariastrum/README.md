@@ -1,5 +1,4 @@
-Bulgariastrum GENUS
-=======
+# Bulgariastrum GENUS
 
 #### Status
 ACCEPTED

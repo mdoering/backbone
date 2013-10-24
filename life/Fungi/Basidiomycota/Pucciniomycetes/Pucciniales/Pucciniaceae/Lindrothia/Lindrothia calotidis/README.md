@@ -1,5 +1,4 @@
-Lindrothia calotidis (McAlpine) Syd. SPECIES
-=======
+# Lindrothia calotidis (McAlpine) Syd. SPECIES
 
 #### Status
 ACCEPTED

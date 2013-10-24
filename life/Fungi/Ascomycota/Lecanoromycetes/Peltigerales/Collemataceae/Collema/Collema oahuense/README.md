@@ -1,5 +1,4 @@
-Collema oahuense H. Magn. SPECIES
-=======
+# Collema oahuense H. Magn. SPECIES
 
 #### Status
 ACCEPTED

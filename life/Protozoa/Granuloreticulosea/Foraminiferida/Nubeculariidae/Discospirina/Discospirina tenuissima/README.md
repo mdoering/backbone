@@ -1,5 +1,4 @@
-Discospirina tenuissima SPECIES
-=======
+# Discospirina tenuissima SPECIES
 
 #### Status
 ACCEPTED

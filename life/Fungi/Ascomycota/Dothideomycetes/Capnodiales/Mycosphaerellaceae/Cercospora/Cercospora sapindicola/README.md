@@ -1,5 +1,4 @@
-Cercospora sapindicola T.L. Tai SPECIES
-=======
+# Cercospora sapindicola T.L. Tai SPECIES
 
 #### Status
 ACCEPTED

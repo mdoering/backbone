@@ -1,5 +1,4 @@
-Parmelia rugosa SPECIES
-=======
+# Parmelia rugosa SPECIES
 
 #### Status
 ACCEPTED

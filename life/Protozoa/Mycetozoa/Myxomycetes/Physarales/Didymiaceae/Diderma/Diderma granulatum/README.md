@@ -1,5 +1,4 @@
-Diderma granulatum Fr. SPECIES
-=======
+# Diderma granulatum Fr. SPECIES
 
 #### Status
 ACCEPTED

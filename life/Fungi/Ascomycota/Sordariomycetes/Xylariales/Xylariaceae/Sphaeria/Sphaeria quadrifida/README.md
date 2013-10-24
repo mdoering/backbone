@@ -1,5 +1,4 @@
-Sphaeria quadrifida Schwein. SPECIES
-=======
+# Sphaeria quadrifida Schwein. SPECIES
 
 #### Status
 ACCEPTED

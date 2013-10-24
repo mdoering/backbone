@@ -1,17 +1,16 @@
-Melanomma megalosporum britzelmayriana Rehm VARIETY
-=======
+# Trematosphaeria britzelmayriana (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 120 (1883)
 
 #### Original name
-null
+Melanomma britzelmayrianum Rehm
 
 ### Remarks
 null

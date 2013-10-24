@@ -1,5 +1,4 @@
-Dendriscocaulon lesdainei Dughi SPECIES
-=======
+# Dendriscocaulon lesdainei Dughi SPECIES
 
 #### Status
 ACCEPTED

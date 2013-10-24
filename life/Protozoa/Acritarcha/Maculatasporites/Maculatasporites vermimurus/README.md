@@ -1,5 +1,4 @@
-Maculatasporites vermimurus Bai Yunhong et al., 1983 SPECIES
-=======
+# Maculatasporites vermimurus Bai Yunhong et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea confervoides Vain. SPECIES
-=======
+# Lecidea confervoides Vain. SPECIES
 
 #### Status
 ACCEPTED

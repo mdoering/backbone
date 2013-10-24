@@ -1,5 +1,4 @@
-Rhabdospora geminata Sousa da Câmara SPECIES
-=======
+# Rhabdospora geminata Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria minuscula Sacc. SPECIES
-=======
+# Botryosphaeria minuscula Sacc. SPECIES
 
 #### Status
 ACCEPTED

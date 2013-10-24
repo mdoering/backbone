@@ -1,5 +1,4 @@
-Parmelia fuscella (Hue) C.W. Dodge SPECIES
-=======
+# Parmelia fuscella (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

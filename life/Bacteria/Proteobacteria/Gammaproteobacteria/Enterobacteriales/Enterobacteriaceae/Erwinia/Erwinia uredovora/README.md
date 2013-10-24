@@ -1,11 +1,10 @@
-Xanthomonas uredovorus Pon et al., 1954 SPECIES
-=======
+# Erwinia uredovora (Pon et al., 1954) Dye, 1963 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

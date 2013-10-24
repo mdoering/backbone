@@ -1,5 +1,4 @@
-Stemonaria minuta Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Stemonaria minuta Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

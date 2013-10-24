@@ -1,5 +1,4 @@
-Hysterostomella gymnosporiae Hansf. SPECIES
-=======
+# Hysterostomella gymnosporiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

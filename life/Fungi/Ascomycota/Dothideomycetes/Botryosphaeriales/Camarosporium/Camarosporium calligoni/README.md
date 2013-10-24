@@ -1,5 +1,4 @@
-Camarosporium calligoni Kravtzev SPECIES
-=======
+# Camarosporium calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

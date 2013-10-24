@@ -1,17 +1,16 @@
-Asterina capparidis Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Asterina capparis Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 9(4): 390 (1911)
 
 #### Original name
-Asterina capparidis Syd., P. Syd. & E.J. Butler
+Asterina capparis Syd., P. Syd. & E.J. Butler
 
 ### Remarks
 null

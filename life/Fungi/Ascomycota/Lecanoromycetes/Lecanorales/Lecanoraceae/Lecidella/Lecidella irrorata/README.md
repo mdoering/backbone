@@ -1,5 +1,4 @@
-Lecidella irrorata Körb. SPECIES
-=======
+# Lecidella irrorata Körb. SPECIES
 
 #### Status
 ACCEPTED

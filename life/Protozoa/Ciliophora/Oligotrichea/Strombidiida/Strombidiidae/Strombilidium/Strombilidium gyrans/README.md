@@ -1,5 +1,4 @@
-Strombilidium gyrans SPECIES
-=======
+# Strombilidium gyrans SPECIES
 
 #### Status
 ACCEPTED

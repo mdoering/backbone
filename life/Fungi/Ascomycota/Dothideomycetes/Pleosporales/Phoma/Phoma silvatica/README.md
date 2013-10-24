@@ -1,5 +1,4 @@
-Phoma silvatica Sacc. SPECIES
-=======
+# Phoma silvatica Sacc. SPECIES
 
 #### Status
 ACCEPTED

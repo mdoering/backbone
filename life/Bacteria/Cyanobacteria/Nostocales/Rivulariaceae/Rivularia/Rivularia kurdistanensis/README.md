@@ -1,5 +1,4 @@
-Rivularia kurdistanensis (G. F. Elliott) O. Dragastan SPECIES
-=======
+# Rivularia kurdistanensis (G. F. Elliott) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporidiella variabilis (Laubert) Nannf. SPECIES
-=======
+# Gloeosporidiella variabilis (Laubert) Nannf. SPECIES
 
 #### Status
 ACCEPTED

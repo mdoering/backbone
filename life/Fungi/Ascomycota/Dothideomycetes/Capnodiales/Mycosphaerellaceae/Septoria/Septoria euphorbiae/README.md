@@ -1,5 +1,4 @@
-Septoria euphorbiae f. euphorbiae FORM
-=======
+# Septoria euphorbiae (Lasch) Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Plantes Crypt. de France, Edn 1 no. 2191 (1851)
 
 #### Original name
-Septoria euphorbiae f. euphorbiae
+Ascochyta euphorbiae Lasch
 
 ### Remarks
 null

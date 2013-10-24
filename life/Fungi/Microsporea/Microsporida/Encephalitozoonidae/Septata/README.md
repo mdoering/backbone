@@ -1,5 +1,4 @@
-Septata A. Cali, D.P. Kotler & J.M. Orenstein GENUS
-=======
+# Septata A. Cali, D.P. Kotler & J.M. Orenstein GENUS
 
 #### Status
 ACCEPTED

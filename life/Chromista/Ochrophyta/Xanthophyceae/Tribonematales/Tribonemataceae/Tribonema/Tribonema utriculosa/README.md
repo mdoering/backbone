@@ -1,5 +1,4 @@
-Tribonema utriculosa (Kützing) Hazen SPECIES
-=======
+# Tribonema utriculosa (Kützing) Hazen SPECIES
 
 #### Status
 ACCEPTED

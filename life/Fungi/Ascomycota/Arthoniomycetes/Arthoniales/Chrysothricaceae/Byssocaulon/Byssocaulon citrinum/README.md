@@ -1,5 +1,4 @@
-Byssocaulon citrinum (Follmann) Follmann SPECIES
-=======
+# Byssocaulon citrinum (Follmann) Follmann SPECIES
 
 #### Status
 ACCEPTED

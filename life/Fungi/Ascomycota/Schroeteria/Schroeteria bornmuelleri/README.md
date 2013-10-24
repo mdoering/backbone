@@ -1,5 +1,4 @@
-Schroeteria bornmuelleri Magnus, 1911 SPECIES
-=======
+# Schroeteria bornmuelleri Magnus, 1911 SPECIES
 
 #### Status
 ACCEPTED

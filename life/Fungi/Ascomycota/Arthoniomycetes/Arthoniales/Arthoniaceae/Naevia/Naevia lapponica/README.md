@@ -1,5 +1,4 @@
-Naevia lapponica Nannf. SPECIES
-=======
+# Naevia lapponica Nannf. SPECIES
 
 #### Status
 ACCEPTED

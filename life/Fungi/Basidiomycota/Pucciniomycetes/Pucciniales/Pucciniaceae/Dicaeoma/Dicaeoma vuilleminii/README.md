@@ -1,14 +1,13 @@
-Dicaeoma vuelleminii (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma vuilleminii (De Toni) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 471 (1898)
 
 #### Original name
 Puccinia vuilleminii De Toni

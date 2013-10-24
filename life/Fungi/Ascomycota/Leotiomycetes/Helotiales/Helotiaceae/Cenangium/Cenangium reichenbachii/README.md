@@ -1,5 +1,4 @@
-Cenangium reichenbachii (Rabenh.) Rehm SPECIES
-=======
+# Cenangium reichenbachii (Rabenh.) Rehm SPECIES
 
 #### Status
 ACCEPTED

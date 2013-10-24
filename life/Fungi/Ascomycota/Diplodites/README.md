@@ -1,5 +1,4 @@
-Diplodites Teterenikora-Babayan & Taslakhchian ex R.M. Kalgutkar, E.M.V. Nambudiri & W.D. Tidwell, 1993 GENUS
-=======
+# Diplodites Teterenikora-Babayan & Taslakhchian ex R.M. Kalgutkar, E.M.V. Nambudiri & W.D. Tidwell, 1993 GENUS
 
 #### Status
 ACCEPTED

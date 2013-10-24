@@ -1,5 +1,4 @@
-Aecidium posoqueriae Dietel SPECIES
-=======
+# Aecidium posoqueriae Dietel SPECIES
 
 #### Status
 ACCEPTED

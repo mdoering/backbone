@@ -1,14 +1,13 @@
-Pseudolachnea setibicolor R.F. Castañeda, 1987 SPECIES
-=======
+# Zetesimomyces setibicolor (R.F. Castañeda) Nag Raj, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Cubenses II (La Habana) 18 (1987)
+Can. J. Bot. 66(11): 2143 (1988)
 
 #### Original name
 Pseudolachnea setibicolor R.F. Castañeda, 1987

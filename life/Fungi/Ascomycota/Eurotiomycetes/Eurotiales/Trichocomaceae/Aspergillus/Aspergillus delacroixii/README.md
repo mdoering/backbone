@@ -1,5 +1,4 @@
-Aspergillus delacroixii Sacc. & P. Syd. SPECIES
-=======
+# Aspergillus delacroixii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

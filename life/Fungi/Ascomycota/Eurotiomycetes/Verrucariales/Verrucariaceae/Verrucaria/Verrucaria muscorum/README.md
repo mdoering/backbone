@@ -1,5 +1,4 @@
-Verrucaria muscorum (Wulfen) Hoffm. SPECIES
-=======
+# Verrucaria muscorum (Wulfen) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

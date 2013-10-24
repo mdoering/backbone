@@ -1,5 +1,4 @@
-Lempholemma mouretii B. de Lesd. SPECIES
-=======
+# Lempholemma mouretii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

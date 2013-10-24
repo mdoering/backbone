@@ -1,5 +1,4 @@
-Elphidium subnodosum (Münster) SPECIES
-=======
+# Elphidium subnodosum (Münster) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma discosioides G. Winter SPECIES
-=======
+# Leptostroma discosioides G. Winter SPECIES
 
 #### Status
 ACCEPTED

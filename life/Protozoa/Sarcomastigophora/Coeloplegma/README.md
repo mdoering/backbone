@@ -1,5 +1,4 @@
-Coeloplegma Haeckel, 1887 GENUS
-=======
+# Coeloplegma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

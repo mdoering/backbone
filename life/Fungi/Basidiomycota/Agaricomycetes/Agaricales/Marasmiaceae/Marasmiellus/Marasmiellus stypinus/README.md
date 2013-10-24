@@ -1,5 +1,4 @@
-Marasmiellus stypinus (Berk. & Broome) Pegler SPECIES
-=======
+# Marasmiellus stypinus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

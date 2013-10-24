@@ -1,5 +1,4 @@
-Telamonia collina Velen. SPECIES
-=======
+# Telamonia collina Velen. SPECIES
 
 #### Status
 ACCEPTED

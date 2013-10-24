@@ -1,5 +1,4 @@
-Oidium irregulare Peck SPECIES
-=======
+# Oidium irregulare Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erythrobasidium hasegawianum Hamam., Sugiy. & Komag., 1991 SPECIES
-=======
+# Erythrobasidium hasegawianum Hamam., Sugiy. & Komag., 1991 SPECIES
 
 #### Status
 ACCEPTED

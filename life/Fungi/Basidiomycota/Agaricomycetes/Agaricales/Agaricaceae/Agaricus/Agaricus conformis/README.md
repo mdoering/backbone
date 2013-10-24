@@ -1,5 +1,4 @@
-Agaricus conformis Secr. SPECIES
-=======
+# Agaricus conformis Secr. SPECIES
 
 #### Status
 ACCEPTED

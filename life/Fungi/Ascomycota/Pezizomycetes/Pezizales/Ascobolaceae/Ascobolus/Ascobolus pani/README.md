@@ -1,5 +1,4 @@
-Ascobolus pani Velen. SPECIES
-=======
+# Ascobolus pani Velen. SPECIES
 
 #### Status
 ACCEPTED

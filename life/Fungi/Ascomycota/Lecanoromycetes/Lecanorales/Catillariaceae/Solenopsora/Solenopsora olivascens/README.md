@@ -1,5 +1,4 @@
-Solenopsora olivascens SPECIES
-=======
+# Solenopsora olivascens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coleonema Schousboe ex Bornet & Thuret, 1880 GENUS
-=======
+# Xenococcus G. Thuret in É. Bornet & G. Thuret, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. alg. 2: 73-75.
+Notes Algol. 2: 74.
 
 #### Original name
 null

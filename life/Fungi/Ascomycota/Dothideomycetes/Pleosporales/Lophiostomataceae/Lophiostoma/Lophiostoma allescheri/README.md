@@ -1,5 +1,4 @@
-Lophiostoma allescheri Sacc. SPECIES
-=======
+# Lophiostoma allescheri Sacc. SPECIES
 
 #### Status
 ACCEPTED

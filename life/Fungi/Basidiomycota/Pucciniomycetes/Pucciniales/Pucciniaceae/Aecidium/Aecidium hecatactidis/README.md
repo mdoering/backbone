@@ -1,5 +1,4 @@
-Aecidium hecatactidis Cummins SPECIES
-=======
+# Aecidium hecatactidis Cummins SPECIES
 
 #### Status
 ACCEPTED

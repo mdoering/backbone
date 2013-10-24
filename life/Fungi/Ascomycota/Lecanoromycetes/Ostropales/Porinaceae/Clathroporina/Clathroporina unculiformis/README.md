@@ -1,5 +1,4 @@
-Clathroporina unculiformis Malme SPECIES
-=======
+# Clathroporina unculiformis Malme SPECIES
 
 #### Status
 ACCEPTED

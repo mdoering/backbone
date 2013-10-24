@@ -1,5 +1,4 @@
-Biatora porphyritis Tuck. SPECIES
-=======
+# Biatora porphyritis Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus militaris Fr. SPECIES
-=======
+# Agaricus militaris Fr. SPECIES
 
 #### Status
 ACCEPTED

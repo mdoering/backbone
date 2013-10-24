@@ -1,5 +1,4 @@
-Verrucosphaera lukoviensis Górka, 1970 SPECIES
-=======
+# Verrucosphaera lukoviensis Górka, 1970 SPECIES
 
 #### Status
 ACCEPTED

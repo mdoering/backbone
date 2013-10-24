@@ -1,5 +1,4 @@
-Triangularia backusii L.H. Huang, 1975 SPECIES
-=======
+# Triangularia backusii L.H. Huang, 1975 SPECIES
 
 #### Status
 ACCEPTED

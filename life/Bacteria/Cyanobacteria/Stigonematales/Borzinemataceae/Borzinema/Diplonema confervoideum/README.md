@@ -1,5 +1,4 @@
-Diplonema confervoideum (Lyngbye) Reinke SPECIES
-=======
+# Diplonema confervoideum (Lyngbye) Reinke SPECIES
 
 #### Status
 DOUBTFUL

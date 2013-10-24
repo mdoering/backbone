@@ -1,5 +1,4 @@
-Arthopyrenia stenospora Körb. SPECIES
-=======
+# Arthopyrenia stenospora Körb. SPECIES
 
 #### Status
 ACCEPTED

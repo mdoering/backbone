@@ -1,5 +1,4 @@
-Entoloma bigeardii Barbier SPECIES
-=======
+# Entoloma bigeardii Barbier SPECIES
 
 #### Status
 ACCEPTED

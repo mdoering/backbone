@@ -1,5 +1,4 @@
-Micropeltis euonymi Syd. & P. Syd. SPECIES
-=======
+# Micropeltis euonymi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

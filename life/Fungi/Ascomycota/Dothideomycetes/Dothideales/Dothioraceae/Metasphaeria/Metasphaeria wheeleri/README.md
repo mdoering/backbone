@@ -1,5 +1,4 @@
-Metasphaeria wheeleri Linder SPECIES
-=======
+# Metasphaeria wheeleri Linder SPECIES
 
 #### Status
 ACCEPTED

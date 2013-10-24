@@ -1,5 +1,4 @@
-Discolithus vigintiforatus Kamptner SPECIES
-=======
+# Discolithus vigintiforatus Kamptner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma trabeum Niessl SPECIES
-=======
+# Anthostoma trabeum Niessl SPECIES
 
 #### Status
 ACCEPTED

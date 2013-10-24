@@ -1,5 +1,4 @@
-Piptoporus suberosus (L.) Murrill SPECIES
-=======
+# Piptoporus suberosus (L.) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium praestantius Nyl. SPECIES
-=======
+# Calicium praestantius Nyl. SPECIES
 
 #### Status
 ACCEPTED

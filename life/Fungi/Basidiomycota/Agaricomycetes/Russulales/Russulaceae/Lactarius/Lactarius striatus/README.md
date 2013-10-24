@@ -1,5 +1,4 @@
-Lactarius striatus R. Heim SPECIES
-=======
+# Lactarius striatus R. Heim SPECIES
 
 #### Status
 ACCEPTED

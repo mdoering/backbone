@@ -1,5 +1,4 @@
-Sphaeria mesoedema Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria mesoedema Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

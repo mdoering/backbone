@@ -1,5 +1,4 @@
-Spadicesporium persistens V.N. Boriss. & Dvoïnos SPECIES
-=======
+# Spadicesporium persistens V.N. Boriss. & Dvoïnos SPECIES
 
 #### Status
 ACCEPTED

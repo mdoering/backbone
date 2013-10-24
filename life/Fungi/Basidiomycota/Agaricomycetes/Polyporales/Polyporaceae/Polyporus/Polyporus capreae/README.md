@@ -1,5 +1,4 @@
-Polyporus capreae Britzelm. SPECIES
-=======
+# Polyporus capreae Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella tenuinucleata Dons, 1922 SPECIES
-=======
+# Vorticella tenuinucleata Dons, 1922 SPECIES
 
 #### Status
 ACCEPTED

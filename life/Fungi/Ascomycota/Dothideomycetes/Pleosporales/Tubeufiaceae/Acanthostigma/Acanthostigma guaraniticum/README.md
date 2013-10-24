@@ -1,5 +1,4 @@
-Acanthostigma guaraniticum Speg. SPECIES
-=======
+# Acanthostigma guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton subnanum Vain. SPECIES
-=======
+# Chiodecton subnanum Vain. SPECIES
 
 #### Status
 ACCEPTED

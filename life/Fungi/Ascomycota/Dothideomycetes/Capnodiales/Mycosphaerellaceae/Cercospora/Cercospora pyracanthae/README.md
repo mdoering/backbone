@@ -1,17 +1,16 @@
-Cercospora pyrecanthae Katsuki SPECIES
-=======
+# Cercospora pyracanthae Katsuki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. agr. impr. Sect. Econ. Dept. Fukuoka Prefecture Japan 1: 19 (1949)
 
 #### Original name
-Cercospora pyrecanthae Katsuki
+Cercospora pyracanthae Katsuki
 
 ### Remarks
 null

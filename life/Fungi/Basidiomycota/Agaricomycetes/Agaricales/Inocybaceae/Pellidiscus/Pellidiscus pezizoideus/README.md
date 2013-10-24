@@ -1,14 +1,13 @@
-Pellidiscus pezizoidea (Ellis & Everh.) Ginns & M.N.L. Lefebvre SPECIES
-=======
+# Pellidiscus pezizoideus (Ellis & Everh.) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 19: 108 (1993)
 
 #### Original name
 Corticium pezizoideum Ellis & Everh., 1888

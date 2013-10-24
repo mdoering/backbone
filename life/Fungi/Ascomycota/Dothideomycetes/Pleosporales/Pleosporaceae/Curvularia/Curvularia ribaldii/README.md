@@ -1,5 +1,4 @@
-Curvularia ribaldii (Corbetta) Tsuda SPECIES
-=======
+# Curvularia ribaldii (Corbetta) Tsuda SPECIES
 
 #### Status
 ACCEPTED

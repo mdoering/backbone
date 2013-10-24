@@ -1,5 +1,4 @@
-Leptosphaeria nicolai Bubák SPECIES
-=======
+# Leptosphaeria nicolai Bubák SPECIES
 
 #### Status
 ACCEPTED

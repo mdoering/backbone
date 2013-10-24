@@ -1,17 +1,16 @@
-Montagnites radiosus var. radiosus VARIETY
-=======
+# Montagnea radiosa (Pall.) Šebek, 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia, Beibl. 40: 98 (1901)
+Ceská Mykol. 8(3): 144 (1954)
 
 #### Original name
-Montagnites radiosus var. radiosus
+Agaricus radiosus Pall., 1773
 
 ### Remarks
 null

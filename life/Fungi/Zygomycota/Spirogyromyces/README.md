@@ -1,5 +1,4 @@
-Spirogyromyces Tzean & G.L. Barron GENUS
-=======
+# Spirogyromyces Tzean & G.L. Barron GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster columnatus Lév. SPECIES
-=======
+# Geastrum columnatus Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster columnatus Lév.
+Geastrum columnatus Lév.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stigmina robbenensis Crous, C.L. Lennox & B. Sutton SPECIES
-=======
+# Stigmina robbenensis Crous, C.L. Lennox & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

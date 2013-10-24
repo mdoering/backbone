@@ -1,5 +1,4 @@
-Conchacineta Jankowski, 1978 GENUS
-=======
+# Conchacineta Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

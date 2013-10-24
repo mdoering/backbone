@@ -1,5 +1,4 @@
-Florilus de Montfort, 1808 GENUS
-=======
+# Florilus de Montfort, 1808 GENUS
 
 #### Status
 ACCEPTED

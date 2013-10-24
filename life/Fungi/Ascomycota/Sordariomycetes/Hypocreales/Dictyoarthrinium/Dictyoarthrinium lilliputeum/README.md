@@ -1,5 +1,4 @@
-Dictyoarthrinium lilliputeum P.Rag. Rao & D. Rao SPECIES
-=======
+# Dictyoarthrinium lilliputeum P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora rhamni Fuckel, 1865 SPECIES
-=======
+# Cercospora rhamni Fuckel, 1865 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia albatula (Müll. Arg.) Willey SPECIES
-=======
+# Arthonia albatula (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

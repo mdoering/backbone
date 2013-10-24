@@ -1,5 +1,4 @@
-Colpodellidae FAMILY
-=======
+# Colpodellidae FAMILY
 
 #### Status
 ACCEPTED

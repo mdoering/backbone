@@ -1,5 +1,4 @@
-Arthopyrenia padicola SPECIES
-=======
+# Arthopyrenia padicola SPECIES
 
 #### Status
 ACCEPTED

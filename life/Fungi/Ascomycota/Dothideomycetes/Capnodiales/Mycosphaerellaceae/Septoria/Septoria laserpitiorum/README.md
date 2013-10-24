@@ -1,5 +1,4 @@
-Septoria laserpitiorum Chevassut SPECIES
-=======
+# Septoria laserpitiorum Chevassut SPECIES
 
 #### Status
 ACCEPTED

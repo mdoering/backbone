@@ -1,5 +1,4 @@
-Coprinus niger Bogart SPECIES
-=======
+# Coprinus niger Bogart SPECIES
 
 #### Status
 ACCEPTED

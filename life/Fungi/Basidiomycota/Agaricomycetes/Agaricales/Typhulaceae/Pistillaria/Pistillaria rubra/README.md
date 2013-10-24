@@ -1,5 +1,4 @@
-Pistillaria rubra (Fautrey & Ferry) Sacc. SPECIES
-=======
+# Pistillaria rubra (Fautrey & Ferry) Sacc. SPECIES
 
 #### Status
 ACCEPTED

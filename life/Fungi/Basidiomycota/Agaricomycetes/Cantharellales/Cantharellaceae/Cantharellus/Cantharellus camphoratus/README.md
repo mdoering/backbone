@@ -1,5 +1,4 @@
-Cantharellus camphoratus R.H. Petersen, 1979 SPECIES
-=======
+# Cantharellus camphoratus R.H. Petersen, 1979 SPECIES
 
 #### Status
 ACCEPTED

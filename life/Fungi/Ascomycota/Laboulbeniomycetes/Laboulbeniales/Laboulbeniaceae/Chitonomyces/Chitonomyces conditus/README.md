@@ -1,5 +1,4 @@
-Chitonomyces conditus Thaxt. SPECIES
-=======
+# Chitonomyces conditus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

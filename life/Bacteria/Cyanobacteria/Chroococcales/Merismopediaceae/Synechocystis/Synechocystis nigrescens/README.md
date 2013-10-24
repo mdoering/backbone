@@ -1,5 +1,4 @@
-Synechocystis nigrescens SPECIES
-=======
+# Synechocystis nigrescens SPECIES
 
 #### Status
 ACCEPTED

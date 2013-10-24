@@ -1,5 +1,4 @@
-Serioscyphus GENUS
-=======
+# Serioscyphus GENUS
 
 #### Status
 ACCEPTED

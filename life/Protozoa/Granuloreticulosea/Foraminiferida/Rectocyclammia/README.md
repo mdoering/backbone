@@ -1,5 +1,4 @@
-Rectocyclammia GENUS
-=======
+# Rectocyclammia GENUS
 
 #### Status
 ACCEPTED

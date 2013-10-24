@@ -1,17 +1,16 @@
-Poria healeyi N. Walters SPECIES
-=======
+# Poria healeyae N. Walters SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 41(1): 96 (1958)
 
 #### Original name
-Poria healeyi N. Walters
+Poria healeyae N. Walters
 
 ### Remarks
 null

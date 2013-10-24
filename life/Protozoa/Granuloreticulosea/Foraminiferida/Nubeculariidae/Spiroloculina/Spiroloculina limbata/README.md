@@ -1,5 +1,4 @@
-"Spiroloculina limbata D' Orbigny" SPECIES
-=======
+# "Spiroloculina limbata D' Orbigny" SPECIES
 
 #### Status
 ACCEPTED

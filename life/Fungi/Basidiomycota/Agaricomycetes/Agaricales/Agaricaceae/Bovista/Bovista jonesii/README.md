@@ -1,5 +1,4 @@
-Bovista jonesii P.W. Graff SPECIES
-=======
+# Bovista jonesii P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

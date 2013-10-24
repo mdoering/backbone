@@ -1,5 +1,4 @@
-Ascochyta savulescui Radul. & Negru SPECIES
-=======
+# Ascochyta savulescui Radul. & Negru SPECIES
 
 #### Status
 ACCEPTED

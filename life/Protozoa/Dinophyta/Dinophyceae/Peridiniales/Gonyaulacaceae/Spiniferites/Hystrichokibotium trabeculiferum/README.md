@@ -1,5 +1,4 @@
-Hystrichokibotium trabeculiferum Deflandre & Cookson, 1955 SPECIES
-=======
+# Hystrichokibotium trabeculiferum Deflandre & Cookson, 1955 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Selenodriella intermedia R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Selenodriella intermedia R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

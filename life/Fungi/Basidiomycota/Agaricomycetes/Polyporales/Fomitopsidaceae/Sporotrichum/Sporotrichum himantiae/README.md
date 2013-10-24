@@ -1,5 +1,4 @@
-Sporotrichum himantiae Schwein. SPECIES
-=======
+# Sporotrichum himantiae Schwein. SPECIES
 
 #### Status
 ACCEPTED

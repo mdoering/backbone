@@ -1,5 +1,4 @@
-Russula flaviceps Peck SPECIES
-=======
+# Russula flaviceps Peck SPECIES
 
 #### Status
 ACCEPTED

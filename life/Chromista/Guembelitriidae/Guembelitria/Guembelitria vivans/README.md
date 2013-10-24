@@ -1,5 +1,4 @@
-Guembelitria (Gallitellia) vivans (Cushman) SPECIES
-=======
+# Guembelitria (Gallitellia) vivans (Cushman) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia flavidoroseola Rehm SPECIES
-=======
+# Orbilia flavidoroseola Rehm SPECIES
 
 #### Status
 ACCEPTED

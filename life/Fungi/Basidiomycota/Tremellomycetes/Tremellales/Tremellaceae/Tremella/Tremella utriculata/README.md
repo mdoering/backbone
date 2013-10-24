@@ -1,5 +1,4 @@
-Tremella utriculata Huds. SPECIES
-=======
+# Tremella utriculata Huds. SPECIES
 
 #### Status
 ACCEPTED

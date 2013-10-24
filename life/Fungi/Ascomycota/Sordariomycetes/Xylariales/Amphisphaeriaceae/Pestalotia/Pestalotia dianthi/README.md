@@ -1,5 +1,4 @@
-Pestalotia dianthi I.E. Brezhnev SPECIES
-=======
+# Pestalotia dianthi I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

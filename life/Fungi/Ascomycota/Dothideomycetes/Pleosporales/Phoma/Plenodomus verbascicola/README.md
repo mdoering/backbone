@@ -1,5 +1,4 @@
-Plenodomus verbascicola (Schwein.) Moesz SPECIES
-=======
+# Plenodomus verbascicola (Schwein.) Moesz SPECIES
 
 #### Status
 ACCEPTED

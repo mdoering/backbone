@@ -1,5 +1,4 @@
-Polysporella Woronichin, 1916 GENUS
-=======
+# Polysporella Woronichin, 1916 GENUS
 
 #### Status
 ACCEPTED

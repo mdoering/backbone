@@ -1,5 +1,4 @@
-Pyronema carestiae (Ces.) Bres. SPECIES
-=======
+# Pyronema carestiae (Ces.) Bres. SPECIES
 
 #### Status
 ACCEPTED

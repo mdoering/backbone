@@ -1,17 +1,16 @@
-Agaricus pilosellus var. pilosellus Pers. VARIETY
-=======
+# Conocybe pilosella (Pers.) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 387 (1801)
+Encyclop. Mycol. 7: 92 (1935)
 
 #### Original name
-Agaricus pilosellus var. pilosellus Pers.
+Agaricus tener Schaeff., 1774
 
 ### Remarks
 null

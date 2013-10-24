@@ -1,5 +1,4 @@
-Microporus pictus (Schultz) Kuntze SPECIES
-=======
+# Microporus pictus (Schultz) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus globularis Pers. SPECIES
-=======
+# Polyporus globularis Pers. SPECIES
 
 #### Status
 ACCEPTED

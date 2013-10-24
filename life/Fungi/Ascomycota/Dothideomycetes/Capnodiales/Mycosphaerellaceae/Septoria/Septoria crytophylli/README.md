@@ -1,5 +1,4 @@
-Septoria crytophylli Sacc. SPECIES
-=======
+# Septoria crytophylli Sacc. SPECIES
 
 #### Status
 ACCEPTED

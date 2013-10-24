@@ -1,17 +1,16 @@
-Agaricus polyadelphus var. polyadelphus VARIETY
-=======
+# Mycena polyadelpha (Lasch) Kühner, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Encyclop. Mycol. 10: 262 (1938)
 
 #### Original name
-null
+Agaricus polyadelphus Lasch, 1828
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodina kerriae Hollós SPECIES
-=======
+# Diplodina kerriae Hollós SPECIES
 
 #### Status
 ACCEPTED

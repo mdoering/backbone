@@ -1,5 +1,4 @@
-Microthelia smaragdina (Ces.) Kuntze SPECIES
-=======
+# Microthelia smaragdina (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

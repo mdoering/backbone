@@ -1,5 +1,4 @@
-Stemphylium xanthosomae B. Huguenin SPECIES
-=======
+# Stemphylium xanthosomae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

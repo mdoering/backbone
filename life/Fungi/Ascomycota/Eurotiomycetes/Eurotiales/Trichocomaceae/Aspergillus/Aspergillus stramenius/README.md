@@ -1,5 +1,4 @@
-Aspergillus stramenius R.O. Novak & Raper, 1965 SPECIES
-=======
+# Aspergillus stramenius R.O. Novak & Raper, 1965 SPECIES
 
 #### Status
 ACCEPTED

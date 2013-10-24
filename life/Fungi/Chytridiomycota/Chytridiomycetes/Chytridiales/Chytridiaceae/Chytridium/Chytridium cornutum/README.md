@@ -1,5 +1,4 @@
-Chytridium cornutum Sorokin SPECIES
-=======
+# Chytridium cornutum Sorokin SPECIES
 
 #### Status
 ACCEPTED

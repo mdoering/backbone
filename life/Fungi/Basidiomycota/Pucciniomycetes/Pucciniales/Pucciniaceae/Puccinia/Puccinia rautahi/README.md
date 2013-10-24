@@ -1,5 +1,4 @@
-Puccinia rautahi G. Cunn., 1930 SPECIES
-=======
+# Puccinia rautahi G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

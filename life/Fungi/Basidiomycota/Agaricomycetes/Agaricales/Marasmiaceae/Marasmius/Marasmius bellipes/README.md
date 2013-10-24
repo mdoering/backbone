@@ -1,5 +1,4 @@
-Marasmius bellipes Morgan SPECIES
-=======
+# Marasmius bellipes Morgan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diaporthe nidulans var. nidulans VARIETY
-=======
+# Apioporthe vepris (Delacr.) Wehm., 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of the Genus Diaporthe Nitschke & its Segregates 221 (1933)
 
 #### Original name
-Diaporthe nidulans var. nidulans
+Sphaeria vepris Delacr., 1862
 
 ### Remarks
 null

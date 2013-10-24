@@ -1,5 +1,4 @@
-Microdiplodia dracaenae Staritz SPECIES
-=======
+# Microdiplodia dracaenae Staritz SPECIES
 
 #### Status
 ACCEPTED

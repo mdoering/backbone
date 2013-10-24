@@ -1,5 +1,4 @@
-Porina dasyspora Zahlbr. SPECIES
-=======
+# Porina dasyspora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

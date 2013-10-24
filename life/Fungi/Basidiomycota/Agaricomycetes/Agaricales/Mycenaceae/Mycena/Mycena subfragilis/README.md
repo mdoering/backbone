@@ -1,5 +1,4 @@
-Mycena subfragilis var. subfragilis VARIETY
-=======
+# Mycena subfragilis Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hong. Argentin. 1: 142 (1974)
 
 #### Original name
-Mycena subfragilis var. subfragilis
+Mycena subfragilis Raithelh.
 
 ### Remarks
 null

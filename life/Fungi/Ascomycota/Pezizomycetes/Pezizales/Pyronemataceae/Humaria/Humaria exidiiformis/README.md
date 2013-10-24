@@ -1,5 +1,4 @@
-Humaria exidiiformis Berk. & Broome SPECIES
-=======
+# Humaria exidiiformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

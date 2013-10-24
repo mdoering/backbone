@@ -1,5 +1,4 @@
-Didymella herculis Maire & Werner SPECIES
-=======
+# Didymella herculis Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerocladia Stüben GENUS
-=======
+# Blastocladiella V.D. Matthews GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Planta 30: 364 (1939)
+J. Elisha Mitchell scient. Soc. 53: 194 (1937)
 
 #### Original name
-Sphaerocladia Stüben
+Blastocladiella V.D. Matthews
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius pandani f. pandani FORM
-=======
+# Lactarius pandani R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Candollea 7: 376 (1938)
 
 #### Original name
-Lactarius pandani f. pandani
+Lactarius pandani R. Heim
 
 ### Remarks
 null

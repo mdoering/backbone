@@ -1,5 +1,4 @@
-Trachysphaeridium phalanxum Sheshegova, 1984 SPECIES
-=======
+# Trachysphaeridium phalanxum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

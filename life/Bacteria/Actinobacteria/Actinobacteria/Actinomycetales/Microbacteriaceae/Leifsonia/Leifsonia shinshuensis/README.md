@@ -1,5 +1,4 @@
-Leifsonia shinshuensis Suzuki et al., 2000 SPECIES
-=======
+# Leifsonia shinshuensis Suzuki et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

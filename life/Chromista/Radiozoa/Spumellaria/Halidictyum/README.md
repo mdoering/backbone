@@ -1,5 +1,4 @@
-Halidictyum Ichikawa, 1950 GENUS
-=======
+# Halidictyum Ichikawa, 1950 GENUS
 
 #### Status
 ACCEPTED

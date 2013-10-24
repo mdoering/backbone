@@ -1,5 +1,4 @@
-Lecidea schitakensis SPECIES
-=======
+# Lecidea schitakensis SPECIES
 
 #### Status
 ACCEPTED

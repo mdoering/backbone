@@ -1,5 +1,4 @@
-Heliscina antennata Marvanová, 1980 SPECIES
-=======
+# Heliscina antennata Marvanová, 1980 SPECIES
 
 #### Status
 ACCEPTED

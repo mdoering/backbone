@@ -1,5 +1,4 @@
-Multiplicisphaeridium irregulare Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Multiplicisphaeridium irregulare Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

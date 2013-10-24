@@ -1,5 +1,4 @@
-Cortinarius pseudocrassoides Rob. Henry SPECIES
-=======
+# Cortinarius pseudocrassoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

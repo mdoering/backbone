@@ -1,5 +1,4 @@
-Homoeothrix caespitosa var. argentinensis P. González VARIETY
-=======
+# Homoeothrix caespitosa (Rabenhorst) Kirchner SPECIES
 
 #### Status
 ACCEPTED

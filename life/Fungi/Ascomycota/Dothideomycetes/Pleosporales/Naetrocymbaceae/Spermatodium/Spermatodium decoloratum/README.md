@@ -1,5 +1,4 @@
-Spermatodium decoloratum (Fée) Trevis. SPECIES
-=======
+# Spermatodium decoloratum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

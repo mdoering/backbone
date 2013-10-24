@@ -1,17 +1,16 @@
-Cephalosporium stuehmeri Schmidt & J.F.H. Beyma, 1933 SPECIES
-=======
+# Puccinia maculosa Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Am. phil. Soc. 2(4): 295 (1832)
 
 #### Original name
-null
+Puccinia maculosa Schwein., 1832
 
 ### Remarks
 null

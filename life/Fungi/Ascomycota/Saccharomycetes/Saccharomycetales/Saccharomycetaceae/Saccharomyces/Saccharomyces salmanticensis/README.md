@@ -1,5 +1,4 @@
-Saccharomyces salmanticensis anon. SPECIES
-=======
+# Saccharomyces salmanticensis anon. SPECIES
 
 #### Status
 ACCEPTED

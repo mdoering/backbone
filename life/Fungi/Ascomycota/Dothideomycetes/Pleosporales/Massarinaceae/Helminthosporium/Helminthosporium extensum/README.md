@@ -1,5 +1,4 @@
-Helminthosporium extensum Petch SPECIES
-=======
+# Helminthosporium extensum Petch SPECIES
 
 #### Status
 ACCEPTED

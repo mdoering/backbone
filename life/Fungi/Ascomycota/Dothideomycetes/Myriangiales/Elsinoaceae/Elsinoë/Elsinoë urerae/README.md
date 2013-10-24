@@ -1,5 +1,4 @@
-Elsinoë urerae Hansf. SPECIES
-=======
+# Elsinoë urerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

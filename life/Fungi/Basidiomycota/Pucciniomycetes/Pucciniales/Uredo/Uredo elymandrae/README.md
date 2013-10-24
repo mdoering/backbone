@@ -1,5 +1,4 @@
-Uredo elymandrae Gjaerum SPECIES
-=======
+# Uredo elymandrae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

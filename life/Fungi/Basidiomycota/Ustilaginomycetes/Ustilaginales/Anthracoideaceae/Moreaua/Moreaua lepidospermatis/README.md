@@ -1,14 +1,13 @@
-Thecaphora lepidospermatis (McAlpine) Thirum. & Neerg., 1978 SPECIES
-=======
+# Moreaua lepidospermatis (McAlpine) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(3): 187 (1978)
+Mycotaxon 74(2): 352 (2000)
 
 #### Original name
 Tolyposporium lepidospermatis McAlpine, 1906

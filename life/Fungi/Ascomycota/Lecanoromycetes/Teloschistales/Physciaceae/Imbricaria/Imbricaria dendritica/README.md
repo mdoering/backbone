@@ -1,5 +1,4 @@
-Imbricaria dendritica (Pers.) Körb. SPECIES
-=======
+# Imbricaria dendritica (Pers.) Körb. SPECIES
 
 #### Status
 ACCEPTED

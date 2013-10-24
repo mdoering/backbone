@@ -1,5 +1,4 @@
-Foveodiporites minutiporatus (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites minutiporatus (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Australothrix simplex Shen, Liu, Song & Gu, 1992 SPECIES
-=======
+# Australothrix simplex Shen, Liu, Song & Gu, 1992 SPECIES
 
 #### Status
 ACCEPTED

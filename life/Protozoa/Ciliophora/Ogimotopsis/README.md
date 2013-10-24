@@ -1,5 +1,4 @@
-Ogimotopsis Ito & Imai, 2000 GENUS
-=======
+# Ogimotopsis Ito & Imai, 2000 GENUS
 
 #### Status
 ACCEPTED

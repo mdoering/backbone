@@ -1,5 +1,4 @@
-Retemediaformis O. Varol, 1991 GENUS
-=======
+# Retemediaformis O. Varol, 1991 GENUS
 
 #### Status
 ACCEPTED

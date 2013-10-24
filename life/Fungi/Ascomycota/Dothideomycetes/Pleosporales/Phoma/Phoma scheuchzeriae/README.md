@@ -1,5 +1,4 @@
-Phoma scheuchzeriae Ade SPECIES
-=======
+# Phoma scheuchzeriae Ade SPECIES
 
 #### Status
 ACCEPTED

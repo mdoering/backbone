@@ -1,5 +1,4 @@
-Mycosphaerella minoensis Syd. SPECIES
-=======
+# Mycosphaerella minoensis Syd. SPECIES
 
 #### Status
 ACCEPTED

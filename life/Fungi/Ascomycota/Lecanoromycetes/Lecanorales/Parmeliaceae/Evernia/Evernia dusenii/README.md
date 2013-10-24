@@ -1,5 +1,4 @@
-Evernia dusenii (Du Rietz) M. Choisy SPECIES
-=======
+# Evernia dusenii (Du Rietz) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

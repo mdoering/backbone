@@ -1,5 +1,4 @@
-Euphoriomyces zoiae W. Rossi & Santam. SPECIES
-=======
+# Euphoriomyces zoiae W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

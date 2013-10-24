@@ -1,5 +1,4 @@
-Diconodinium inflatum Eisenack & Cookson, 1960 SPECIES
-=======
+# Diconodinium inflatum Eisenack & Cookson, 1960 SPECIES
 
 #### Status
 ACCEPTED

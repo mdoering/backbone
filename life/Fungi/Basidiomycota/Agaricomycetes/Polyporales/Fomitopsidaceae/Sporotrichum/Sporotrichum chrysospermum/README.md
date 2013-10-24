@@ -1,5 +1,4 @@
-Sporotrichum chrysospermum Harz, 1871 SPECIES
-=======
+# Sporotrichum chrysospermum Harz, 1871 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta opuli Sacc., 1878 SPECIES
-=======
+# Phyllosticta opuli Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

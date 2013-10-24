@@ -1,5 +1,4 @@
-Russula africana R. Heim SPECIES
-=======
+# Russula africana R. Heim SPECIES
 
 #### Status
 ACCEPTED

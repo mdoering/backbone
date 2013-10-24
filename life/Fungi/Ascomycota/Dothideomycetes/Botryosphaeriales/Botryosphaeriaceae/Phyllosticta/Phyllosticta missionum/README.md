@@ -1,5 +1,4 @@
-Phyllosticta missionum Speg. SPECIES
-=======
+# Phyllosticta missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

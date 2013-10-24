@@ -1,14 +1,13 @@
-Leptonia fusca Cleland, 1931 SPECIES
-=======
+# Entoloma fuscum (Cleland) E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 55: 158 (1931)
+Beih. Nova Hedwigia 65: 238 (1980)
 
 #### Original name
 Leptonia fusca Cleland, 1931

@@ -1,5 +1,4 @@
-Sphaerella pellucida Bubák & Dearn. SPECIES
-=======
+# Sphaerella pellucida Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

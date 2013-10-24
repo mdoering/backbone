@@ -1,14 +1,13 @@
-Encoeliopsis johnstonii (Berk.) Dennis, 1956 SPECIES
-=======
+# Dencoeliopsis johnstonii (Berk.) Korf, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 62: 120 (1956)
+Phytologia 21(4): 203 (1971)
 
 #### Original name
 null

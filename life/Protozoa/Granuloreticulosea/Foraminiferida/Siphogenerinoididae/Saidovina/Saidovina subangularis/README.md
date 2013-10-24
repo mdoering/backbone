@@ -1,8 +1,7 @@
-Bolivinita subangularis var. lineata Cushman, 1933 VARIETY
-=======
+# Saidovina subangularis (Brady, 1881) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

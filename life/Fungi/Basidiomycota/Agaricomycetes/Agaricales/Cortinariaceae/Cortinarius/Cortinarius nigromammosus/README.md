@@ -1,5 +1,4 @@
-Cortinarius nigromammosus Reumaux SPECIES
-=======
+# Cortinarius nigromammosus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutilaria flabellifera R. Ross SPECIES
-=======
+# Rutilaria flabellifera R. Ross SPECIES
 
 #### Status
 ACCEPTED

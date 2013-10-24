@@ -1,5 +1,4 @@
-Pezizella nectriella (P. Karst.) Sacc. SPECIES
-=======
+# Pezizella nectriella (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

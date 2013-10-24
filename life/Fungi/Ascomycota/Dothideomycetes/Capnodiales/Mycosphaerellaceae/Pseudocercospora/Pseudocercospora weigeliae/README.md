@@ -1,5 +1,4 @@
-Pseudocercospora weigeliae (Ellis & Everh.) Deighton SPECIES
-=======
+# Pseudocercospora weigeliae (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

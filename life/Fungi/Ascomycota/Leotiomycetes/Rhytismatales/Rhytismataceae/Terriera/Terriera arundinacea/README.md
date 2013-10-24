@@ -1,14 +1,13 @@
-Clithris arundinacea Penz. & Sacc., 1902 SPECIES
-=======
+# Terriera arundinacea (Penz. & Sacc.) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 15: 222 (1902)
+Mycol. Pap. 176: 92 (2001)
 
 #### Original name
 Clithris arundinacea Penz. & Sacc., 1902

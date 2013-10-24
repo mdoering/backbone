@@ -1,5 +1,4 @@
-Brigantiaea Trevis. GENUS
-=======
+# Brigantiaea Trevis. GENUS
 
 #### Status
 ACCEPTED

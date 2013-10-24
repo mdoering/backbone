@@ -1,5 +1,4 @@
-Gastrotylopilus brunneus T.H. Li & Watling, 1999 SPECIES
-=======
+# Gastrotylopilus brunneus T.H. Li & Watling, 1999 SPECIES
 
 #### Status
 ACCEPTED

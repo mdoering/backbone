@@ -1,5 +1,4 @@
-Lophomerum ponticum Minter, 1980 SPECIES
-=======
+# Lophomerum ponticum Minter, 1980 SPECIES
 
 #### Status
 ACCEPTED

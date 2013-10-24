@@ -1,17 +1,16 @@
-Physcia grisea f. farrea (Ach.) Lynge FORM
-=======
+# Physconia perisidiosa (Erichsen) Moberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 22(no. 1): 90 (1977)
 
 #### Original name
-Parmelia farrea Ach.
+Physcia perisidiosa Erichsen
 
 ### Remarks
 null

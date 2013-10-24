@@ -1,5 +1,4 @@
-Puccinia festata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia festata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

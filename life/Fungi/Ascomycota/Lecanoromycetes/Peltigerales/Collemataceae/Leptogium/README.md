@@ -1,17 +1,16 @@
-Leptogiomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Leptogium (Ach.) Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 45, 71 (1953)
+Nat. Arr. Brit. Pl. (London) 1: 400 (1821)
 
 #### Original name
-Leptogiomyces E.A. Thomas ex Cif. & Tomas.
+null
 
 ### Remarks
 null

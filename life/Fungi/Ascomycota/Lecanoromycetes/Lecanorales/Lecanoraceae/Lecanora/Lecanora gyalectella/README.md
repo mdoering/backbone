@@ -1,5 +1,4 @@
-Lecanora gyalectella A. Massal. SPECIES
-=======
+# Lecanora gyalectella A. Massal. SPECIES
 
 #### Status
 ACCEPTED

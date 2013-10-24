@@ -1,5 +1,4 @@
-Agaricus serpentiniformis Secr. SPECIES
-=======
+# Agaricus serpentiniformis Secr. SPECIES
 
 #### Status
 ACCEPTED

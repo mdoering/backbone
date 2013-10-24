@@ -1,5 +1,4 @@
-Pannaria elatior Stirt. SPECIES
-=======
+# Pannaria elatior Stirt. SPECIES
 
 #### Status
 ACCEPTED

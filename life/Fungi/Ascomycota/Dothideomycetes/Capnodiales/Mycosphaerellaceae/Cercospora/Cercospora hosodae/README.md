@@ -1,5 +1,4 @@
-Cercospora hosodae Fukui SPECIES
-=======
+# Cercospora hosodae Fukui SPECIES
 
 #### Status
 ACCEPTED

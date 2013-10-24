@@ -1,5 +1,4 @@
-Aposphaeria ephedrae Kravtzev SPECIES
-=======
+# Aposphaeria ephedrae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta dioscoreicola Brunaud, 1889 SPECIES
-=======
+# Phyllosticta dioscoreicola Brunaud, 1889 SPECIES
 
 #### Status
 ACCEPTED

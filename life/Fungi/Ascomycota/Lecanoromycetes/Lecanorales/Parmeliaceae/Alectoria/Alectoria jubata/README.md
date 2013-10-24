@@ -1,17 +1,16 @@
-Alectoria jubata var. jubata VARIETY
-=======
+# Alectoria jubata (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-null
+Lichen jubatus L.
 
 ### Remarks
 null

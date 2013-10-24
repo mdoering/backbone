@@ -1,5 +1,4 @@
-Distigma striato-granulatum Skuja SPECIES
-=======
+# Distigma striato-granulatum Skuja SPECIES
 
 #### Status
 ACCEPTED

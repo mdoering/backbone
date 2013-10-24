@@ -1,5 +1,4 @@
-Stephanodiscus agassizensis Håk. & Kling SPECIES
-=======
+# Stephanodiscus agassizensis Håk. & Kling SPECIES
 
 #### Status
 ACCEPTED

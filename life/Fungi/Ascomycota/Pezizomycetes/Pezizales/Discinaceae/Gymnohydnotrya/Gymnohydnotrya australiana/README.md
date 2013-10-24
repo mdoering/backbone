@@ -1,5 +1,4 @@
-Gymnohydnotrya australiana B.C. Zhang & Minter, 1989 SPECIES
-=======
+# Gymnohydnotrya australiana B.C. Zhang & Minter, 1989 SPECIES
 
 #### Status
 ACCEPTED

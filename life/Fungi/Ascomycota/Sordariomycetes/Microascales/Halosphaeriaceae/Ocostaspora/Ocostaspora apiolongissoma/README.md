@@ -1,5 +1,4 @@
-Ocostaspora apiolongissoma E.B.G. Jones, R.G. Johnson & S.T. Moss SPECIES
-=======
+# Ocostaspora apiolongissoma E.B.G. Jones, R.G. Johnson & S.T. Moss SPECIES
 
 #### Status
 ACCEPTED

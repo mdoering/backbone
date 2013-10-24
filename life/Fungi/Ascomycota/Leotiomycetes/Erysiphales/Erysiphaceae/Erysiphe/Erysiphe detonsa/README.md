@@ -1,5 +1,4 @@
-Erysiphe detonsa Fr. SPECIES
-=======
+# Erysiphe detonsa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora bennettii Lynge SPECIES
-=======
+# Lecanora bennettii Lynge SPECIES
 
 #### Status
 ACCEPTED

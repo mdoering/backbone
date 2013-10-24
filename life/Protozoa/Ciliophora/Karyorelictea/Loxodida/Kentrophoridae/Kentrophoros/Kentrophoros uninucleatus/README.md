@@ -1,8 +1,7 @@
-Kentrophoros uninucleatum Raikov, 1962 SPECIES
-=======
+# Kentrophoros uninucleatus (Raikov, 1962) Raikov, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

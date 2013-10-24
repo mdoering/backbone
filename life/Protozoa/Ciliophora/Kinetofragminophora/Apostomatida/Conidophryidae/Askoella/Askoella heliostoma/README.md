@@ -1,5 +1,4 @@
-Askoella heliostoma Jankowski, 1967 SPECIES
-=======
+# Askoella heliostoma Jankowski, 1967 SPECIES
 
 #### Status
 ACCEPTED

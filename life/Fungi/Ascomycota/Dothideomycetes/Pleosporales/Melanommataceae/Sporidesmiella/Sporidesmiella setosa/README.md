@@ -1,5 +1,4 @@
-Sporidesmiella setosa McKemy & C.J.K. Wang SPECIES
-=======
+# Sporidesmiella setosa McKemy & C.J.K. Wang SPECIES
 
 #### Status
 ACCEPTED

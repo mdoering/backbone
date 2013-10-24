@@ -1,5 +1,4 @@
-Polystomella craticulata Fichtel & Moll SPECIES
-=======
+# Polystomella craticulata Fichtel & Moll SPECIES
 
 #### Status
 ACCEPTED

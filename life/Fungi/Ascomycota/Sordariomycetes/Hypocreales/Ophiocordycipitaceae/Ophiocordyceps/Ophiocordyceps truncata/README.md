@@ -1,5 +1,4 @@
-Ophiocordyceps truncata (Petch) D. Johnson, G.H. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps truncata (Petch) D. Johnson, G.H. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

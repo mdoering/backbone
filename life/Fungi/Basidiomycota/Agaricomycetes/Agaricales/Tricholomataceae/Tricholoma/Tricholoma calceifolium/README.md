@@ -1,5 +1,4 @@
-Tricholoma calceifolium (Murrill) Murrill SPECIES
-=======
+# Tricholoma calceifolium (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

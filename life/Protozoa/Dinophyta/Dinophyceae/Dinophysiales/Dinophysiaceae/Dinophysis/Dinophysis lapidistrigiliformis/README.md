@@ -1,5 +1,4 @@
-Dinophysis lapidistrigiliformis Abé, 1967 SPECIES
-=======
+# Dinophysis lapidistrigiliformis Abé, 1967 SPECIES
 
 #### Status
 ACCEPTED

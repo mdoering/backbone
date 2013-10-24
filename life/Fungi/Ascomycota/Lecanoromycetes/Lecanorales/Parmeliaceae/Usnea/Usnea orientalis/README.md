@@ -1,17 +1,16 @@
-Usnea orientalis subsp. orientalis SUBSPECIES
-=======
+# Usnea orientalis Motyka SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Usnea orientalis Motyka
 
 ### Remarks
 null

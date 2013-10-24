@@ -1,5 +1,4 @@
-Discula olivacea (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Discula olivacea (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

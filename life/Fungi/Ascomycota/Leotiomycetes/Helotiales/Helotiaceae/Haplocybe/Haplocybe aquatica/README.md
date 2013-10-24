@@ -1,5 +1,4 @@
-Haplocybe aquatica (Lib.) Clem. SPECIES
-=======
+# Haplocybe aquatica (Lib.) Clem. SPECIES
 
 #### Status
 ACCEPTED

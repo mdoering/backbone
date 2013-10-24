@@ -1,5 +1,4 @@
-Crinipellis congoana Pat. SPECIES
-=======
+# Crinipellis congoana Pat. SPECIES
 
 #### Status
 ACCEPTED

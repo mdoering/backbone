@@ -1,5 +1,4 @@
-Cercosporella colubrina Ellis & Everh. SPECIES
-=======
+# Cercosporella colubrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

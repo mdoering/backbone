@@ -1,5 +1,4 @@
-Clavaria caloceriformis Oudem. SPECIES
-=======
+# Clavaria caloceriformis Oudem. SPECIES
 
 #### Status
 ACCEPTED

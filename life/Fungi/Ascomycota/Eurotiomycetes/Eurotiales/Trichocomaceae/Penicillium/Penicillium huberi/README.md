@@ -1,5 +1,4 @@
-Penicillium huberi Svilv. SPECIES
-=======
+# Penicillium huberi Svilv. SPECIES
 
 #### Status
 ACCEPTED

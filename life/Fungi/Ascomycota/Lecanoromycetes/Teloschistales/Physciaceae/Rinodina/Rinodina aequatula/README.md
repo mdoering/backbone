@@ -1,5 +1,4 @@
-Rinodina aequatula (Nyl.) B. de Lesd. SPECIES
-=======
+# Rinodina aequatula (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

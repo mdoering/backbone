@@ -1,5 +1,4 @@
-Pleurotus gemmellari (Inzenga) Sacc. SPECIES
-=======
+# Pleurotus gemmellari (Inzenga) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichothrix inyoensis Drouet SPECIES
-=======
+# Dichothrix inyoensis Drouet SPECIES
 
 #### Status
 ACCEPTED

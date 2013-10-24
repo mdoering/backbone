@@ -1,5 +1,4 @@
-Panaeolus olivaceofuscus Raithelh. SPECIES
-=======
+# Panaeolus olivaceofuscus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

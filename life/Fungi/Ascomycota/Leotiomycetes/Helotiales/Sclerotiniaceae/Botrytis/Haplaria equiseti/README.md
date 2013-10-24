@@ -1,5 +1,4 @@
-Haplaria equiseti Bonord. SPECIES
-=======
+# Haplaria equiseti Bonord. SPECIES
 
 #### Status
 ACCEPTED

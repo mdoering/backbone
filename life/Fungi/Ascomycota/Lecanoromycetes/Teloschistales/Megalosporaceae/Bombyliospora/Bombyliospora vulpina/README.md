@@ -1,5 +1,4 @@
-Bombyliospora vulpina (Nyl.) J.M. Burgess {?} SPECIES
-=======
+# Bombyliospora vulpina (Nyl.) J.M. Burgess {?} SPECIES
 
 #### Status
 ACCEPTED

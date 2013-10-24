@@ -1,5 +1,4 @@
-Amerosporium colubrinae Gonz. Frag. & Cif. SPECIES
-=======
+# Amerosporium colubrinae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

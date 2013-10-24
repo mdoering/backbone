@@ -1,17 +1,16 @@
-Eryniopsis rhagionidis S. Keller SPECIES
-=======
+# Eryniopsis rhagionidarum S. Keller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 59(1): 97 (2007)
 
 #### Original name
-Eryniopsis rhagionidis S. Keller
+Eryniopsis rhagionidarum S. Keller
 
 ### Remarks
 null

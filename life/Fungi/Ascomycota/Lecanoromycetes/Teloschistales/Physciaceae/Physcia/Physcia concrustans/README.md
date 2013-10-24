@@ -1,5 +1,4 @@
-Physcia concrustans Nyl. SPECIES
-=======
+# Physcia concrustans Nyl. SPECIES
 
 #### Status
 ACCEPTED

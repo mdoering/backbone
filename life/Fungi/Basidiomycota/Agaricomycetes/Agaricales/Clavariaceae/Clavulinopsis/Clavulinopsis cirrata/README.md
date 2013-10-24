@@ -1,5 +1,4 @@
-Clavulinopsis cirrata (Pat.) Corner SPECIES
-=======
+# Clavulinopsis cirrata (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

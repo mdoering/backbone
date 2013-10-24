@@ -1,5 +1,4 @@
-Bipolaris prieskaensis W.Q. Chen & W.J. Swart SPECIES
-=======
+# Bipolaris prieskaensis W.Q. Chen & W.J. Swart SPECIES
 
 #### Status
 ACCEPTED

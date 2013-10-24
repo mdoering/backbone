@@ -1,5 +1,4 @@
-Parmelia amniocola (Ach.) Fr. SPECIES
-=======
+# Parmelia amniocola (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiasmolithus altus Bukry & Percival, 1971 SPECIES
-=======
+# Chiasmolithus altus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

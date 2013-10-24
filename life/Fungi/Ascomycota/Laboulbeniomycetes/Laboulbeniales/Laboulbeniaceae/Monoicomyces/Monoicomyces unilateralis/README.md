@@ -1,5 +1,4 @@
-Monoicomyces unilateralis Speg. SPECIES
-=======
+# Monoicomyces unilateralis Speg. SPECIES
 
 #### Status
 ACCEPTED

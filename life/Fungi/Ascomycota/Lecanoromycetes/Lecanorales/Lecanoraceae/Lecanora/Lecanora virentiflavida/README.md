@@ -1,5 +1,4 @@
-Lecanora virentiflavida Müll. Arg. SPECIES
-=======
+# Lecanora virentiflavida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanconium piriforme Preuss SPECIES
-=======
+# Melanconium piriforme Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora evoluta H. Magn. SPECIES
-=======
+# Acarospora evoluta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

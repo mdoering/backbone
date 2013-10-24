@@ -1,5 +1,4 @@
-Lecidea sparsilis Nyl. SPECIES
-=======
+# Lecidea sparsilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

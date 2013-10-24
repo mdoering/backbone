@@ -1,5 +1,4 @@
-Coniophora incrustata P.H.B. Talbot SPECIES
-=======
+# Coniophora incrustata P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium akshaiberi Lingappa SPECIES
-=======
+# Synchytrium akshaiberi Lingappa SPECIES
 
 #### Status
 ACCEPTED

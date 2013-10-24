@@ -1,5 +1,4 @@
-Trichothecium clavatum Letell. SPECIES
-=======
+# Trichothecium clavatum Letell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha radians Müll. Arg. SPECIES
-=======
+# Opegrapha radians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

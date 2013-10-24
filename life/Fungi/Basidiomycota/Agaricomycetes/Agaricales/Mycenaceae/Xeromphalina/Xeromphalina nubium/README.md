@@ -1,5 +1,4 @@
-Xeromphalina nubium Redhead & Halling SPECIES
-=======
+# Xeromphalina nubium Redhead & Halling SPECIES
 
 #### Status
 ACCEPTED

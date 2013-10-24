@@ -1,5 +1,4 @@
-Fomes terminaliae S. Ito & S. Imai SPECIES
-=======
+# Fomes terminaliae S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

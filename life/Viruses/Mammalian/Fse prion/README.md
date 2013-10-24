@@ -1,5 +1,4 @@
-Fse prion (Feline spongiform encephalopathy) SPECIES
-=======
+# Fse prion (Feline spongiform encephalopathy) SPECIES
 
 #### Status
 ACCEPTED

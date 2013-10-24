@@ -1,5 +1,4 @@
-Agglutinella agglutinans (d’Orbigny, 1839) SPECIES
-=======
+# Agglutinella agglutinans (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Histiophora K.W. Klement, 1960 GENUS
-=======
+# Histiophora K.W. Klement, 1960 GENUS
 
 #### Status
 ACCEPTED

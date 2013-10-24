@@ -1,5 +1,4 @@
-Dyadosporites bhardwaji (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites bhardwaji (C.P. Varma & Rawat) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

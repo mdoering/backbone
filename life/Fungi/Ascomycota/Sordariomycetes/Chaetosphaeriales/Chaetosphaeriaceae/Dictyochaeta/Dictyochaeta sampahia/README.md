@@ -1,5 +1,4 @@
-Dictyochaeta sampahia Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta sampahia Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria rudbeckiae (Kirchn.) Sacc. SPECIES
-=======
+# Leptosphaeria rudbeckiae (Kirchn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

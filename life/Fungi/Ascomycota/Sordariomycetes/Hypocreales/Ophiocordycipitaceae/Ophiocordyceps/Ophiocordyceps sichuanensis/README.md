@@ -1,5 +1,4 @@
-Ophiocordyceps sichuanensis (Z.Q. Liang & B. Wang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
-=======
+# Ophiocordyceps sichuanensis (Z.Q. Liang & B. Wang) G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora SPECIES
 
 #### Status
 ACCEPTED

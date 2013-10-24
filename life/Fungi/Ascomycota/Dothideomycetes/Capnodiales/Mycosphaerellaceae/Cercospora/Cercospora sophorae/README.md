@@ -1,5 +1,4 @@
-Cercospora sophorae Sawada SPECIES
-=======
+# Cercospora sophorae Sawada SPECIES
 
 #### Status
 ACCEPTED

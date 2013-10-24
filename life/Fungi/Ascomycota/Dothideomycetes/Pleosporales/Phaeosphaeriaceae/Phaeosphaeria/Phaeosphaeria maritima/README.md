@@ -1,5 +1,4 @@
-Phaeosphaeria maritima O.E. Erikss. SPECIES
-=======
+# Phaeosphaeria maritima O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

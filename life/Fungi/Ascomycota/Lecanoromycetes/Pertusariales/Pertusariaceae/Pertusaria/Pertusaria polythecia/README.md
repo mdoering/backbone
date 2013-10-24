@@ -1,14 +1,13 @@
-Variolaria polythecia Taylor SPECIES
-=======
+# Pertusaria polythecia (Taylor) Erichsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Mackey, Fl. Hibern. 2: 133 (1836)
+Rabenh. Krypt. -Fl. (Leipzig) 9(5. 1): 525 (1936)
 
 #### Original name
 Variolaria polythecia Taylor

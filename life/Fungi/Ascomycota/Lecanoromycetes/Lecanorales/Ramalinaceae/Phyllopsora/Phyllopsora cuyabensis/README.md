@@ -1,5 +1,4 @@
-Phyllopsora cuyabensis (Malme) Zahlbr. SPECIES
-=======
+# Phyllopsora cuyabensis (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

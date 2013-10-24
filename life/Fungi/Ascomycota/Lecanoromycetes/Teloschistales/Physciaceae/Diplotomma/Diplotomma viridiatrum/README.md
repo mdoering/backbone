@@ -1,5 +1,4 @@
-Diplotomma viridiatrum (Wulfen) Jatta SPECIES
-=======
+# Diplotomma viridiatrum (Wulfen) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrorhiza agglutinata Cushman, 1921 SPECIES
-=======
+# Astrorhiza agglutinata Cushman, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia iridicola M.E. Barr SPECIES
-=======
+# Venturia iridicola M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

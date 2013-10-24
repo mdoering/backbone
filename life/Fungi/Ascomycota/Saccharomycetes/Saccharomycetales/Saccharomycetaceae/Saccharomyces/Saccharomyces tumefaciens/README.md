@@ -1,5 +1,4 @@
-Saccharomyces tumefaciens Busse SPECIES
-=======
+# Saccharomyces tumefaciens Busse SPECIES
 
 #### Status
 ACCEPTED

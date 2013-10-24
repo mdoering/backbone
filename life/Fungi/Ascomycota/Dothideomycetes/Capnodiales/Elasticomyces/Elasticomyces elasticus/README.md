@@ -1,5 +1,4 @@
-Elasticomyces elasticus Zucconi & Selbmann, 2008 SPECIES
-=======
+# Elasticomyces elasticus Zucconi & Selbmann, 2008 SPECIES
 
 #### Status
 ACCEPTED

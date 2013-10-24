@@ -1,17 +1,16 @@
-Clathrosorus Ferd. & Winge GENUS
-=======
+# Spongospora Brunch. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 34: 468 (1920)
+Bergens Mus. Årb. , 1886 219 (1887)
 
 #### Original name
-Clathrosorus Ferd. & Winge
+Spongospora Brunch.
 
 ### Remarks
 null

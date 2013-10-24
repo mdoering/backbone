@@ -1,14 +1,13 @@
-Thyrea jodopulchra (Couderc ex Croz.) Zahlbr. SPECIES
-=======
+# Thyrea iodopulchra (Couderc ex Croz.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 805 (1924)
 
 #### Original name
 Omphalaria iodopulchra Couderc ex Croz.

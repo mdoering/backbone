@@ -1,5 +1,4 @@
-Lamprospora salmonicolor Seaver SPECIES
-=======
+# Lamprospora salmonicolor Seaver SPECIES
 
 #### Status
 ACCEPTED

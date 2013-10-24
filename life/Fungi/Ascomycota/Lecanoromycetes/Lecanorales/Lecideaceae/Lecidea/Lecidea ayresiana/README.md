@@ -1,5 +1,4 @@
-Lecidea ayresiana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea ayresiana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

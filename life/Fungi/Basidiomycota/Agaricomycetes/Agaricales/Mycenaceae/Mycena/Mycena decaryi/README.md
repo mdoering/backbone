@@ -1,5 +1,4 @@
-Mycena decaryi R. Heim SPECIES
-=======
+# Mycena decaryi R. Heim SPECIES
 
 #### Status
 ACCEPTED

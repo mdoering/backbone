@@ -1,5 +1,4 @@
-Farriolla distans Norman, 1885 SPECIES
-=======
+# Farriolla distans Norman, 1885 SPECIES
 
 #### Status
 ACCEPTED

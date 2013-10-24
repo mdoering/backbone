@@ -1,5 +1,4 @@
-Orphniospora moriopsoides (Vain.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
-=======
+# Orphniospora moriopsoides (Vain.) Vitik., Ahti, Kuusinen, Lommi & T. Ulvinen SPECIES
 
 #### Status
 ACCEPTED

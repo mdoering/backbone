@@ -1,5 +1,4 @@
-Pistillaria thujicola Kauffman SPECIES
-=======
+# Pistillaria thujicola Kauffman SPECIES
 
 #### Status
 ACCEPTED

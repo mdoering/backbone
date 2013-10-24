@@ -1,5 +1,4 @@
-Panus concavus Berk. SPECIES
-=======
+# Panus concavus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrium spinulosum (Speg.) Höhn. SPECIES
-=======
+# Trichothyrium spinulosum (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

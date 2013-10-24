@@ -1,5 +1,4 @@
-Ganoderma neo-japonicum Imaz. SPECIES
-=======
+# Ganoderma neo-japonicum Imaz. SPECIES
 
 #### Status
 ACCEPTED

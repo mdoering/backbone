@@ -1,5 +1,4 @@
-Protolutzia Cunha & Muniz, 1925 GENUS
-=======
+# Protolutzia Cunha & Muniz, 1925 GENUS
 
 #### Status
 ACCEPTED

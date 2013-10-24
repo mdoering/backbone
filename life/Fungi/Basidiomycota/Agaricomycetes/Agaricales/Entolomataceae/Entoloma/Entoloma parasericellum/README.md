@@ -1,5 +1,4 @@
-Entoloma parasericellum Corner & E. Horak SPECIES
-=======
+# Entoloma parasericellum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

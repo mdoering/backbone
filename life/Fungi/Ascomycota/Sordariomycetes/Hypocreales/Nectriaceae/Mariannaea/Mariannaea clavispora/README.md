@@ -1,5 +1,4 @@
-Mariannaea clavispora Samson & Bigg, 1988 SPECIES
-=======
+# Mariannaea clavispora Samson & Bigg, 1988 SPECIES
 
 #### Status
 ACCEPTED

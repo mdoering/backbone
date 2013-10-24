@@ -1,5 +1,4 @@
-Ceratocystis brunneocrinita E.F. Wright & Cain SPECIES
-=======
+# Ceratocystis brunneocrinita E.F. Wright & Cain SPECIES
 
 #### Status
 ACCEPTED

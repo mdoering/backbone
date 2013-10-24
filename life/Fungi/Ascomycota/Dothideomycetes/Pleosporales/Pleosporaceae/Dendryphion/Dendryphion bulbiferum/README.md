@@ -1,5 +1,4 @@
-Dendryphion bulbiferum Zukal SPECIES
-=======
+# Dendryphion bulbiferum Zukal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pellidinus Berk. & Mont. SPECIES
-=======
+# Agaricus pellidinus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

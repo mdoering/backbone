@@ -1,5 +1,4 @@
-Typhula dubia (Maas Geest.) prov. SPECIES
-=======
+# Typhula dubia (Maas Geest.) prov. SPECIES
 
 #### Status
 ACCEPTED

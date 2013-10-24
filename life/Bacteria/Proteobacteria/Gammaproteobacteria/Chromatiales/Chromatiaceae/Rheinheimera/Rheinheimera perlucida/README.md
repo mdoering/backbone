@@ -1,5 +1,4 @@
-Rheinheimera perlucida Brettar et al., 2006 SPECIES
-=======
+# Rheinheimera perlucida Brettar et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

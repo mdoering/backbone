@@ -1,5 +1,4 @@
-Scopulariopsis danica J.F.H. Beyma SPECIES
-=======
+# Scopulariopsis danica J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

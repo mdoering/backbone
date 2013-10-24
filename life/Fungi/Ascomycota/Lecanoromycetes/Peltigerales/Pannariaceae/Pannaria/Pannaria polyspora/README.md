@@ -1,5 +1,4 @@
-Pannaria polyspora Müll. Arg. SPECIES
-=======
+# Pannaria polyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

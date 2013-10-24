@@ -1,5 +1,4 @@
-Lactarius coryli Peyronel SPECIES
-=======
+# Lactarius coryli Peyronel SPECIES
 
 #### Status
 ACCEPTED

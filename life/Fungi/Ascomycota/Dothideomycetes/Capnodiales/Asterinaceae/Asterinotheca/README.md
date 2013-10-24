@@ -1,5 +1,4 @@
-Asterinotheca GENUS
-=======
+# Asterinotheca GENUS
 
 #### Status
 ACCEPTED

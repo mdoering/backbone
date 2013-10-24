@@ -1,5 +1,4 @@
-Belonium roseoalbum Rehm SPECIES
-=======
+# Belonium roseoalbum Rehm SPECIES
 
 #### Status
 ACCEPTED

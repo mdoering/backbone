@@ -1,5 +1,4 @@
-Porina blumeana Vain. SPECIES
-=======
+# Porina blumeana Vain. SPECIES
 
 #### Status
 ACCEPTED

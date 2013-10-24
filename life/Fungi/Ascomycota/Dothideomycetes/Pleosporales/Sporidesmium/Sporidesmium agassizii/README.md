@@ -1,5 +1,4 @@
-Sporidesmium agassizii B. Sutton SPECIES
-=======
+# Sporidesmium agassizii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

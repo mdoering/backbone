@@ -1,5 +1,4 @@
-Sordaria gigaspora Fuckel SPECIES
-=======
+# Sordaria gigaspora Fuckel SPECIES
 
 #### Status
 ACCEPTED

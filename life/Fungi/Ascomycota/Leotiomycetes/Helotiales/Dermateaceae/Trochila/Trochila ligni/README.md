@@ -1,5 +1,4 @@
-Trochila ligni De Not. SPECIES
-=======
+# Trochila ligni De Not. SPECIES
 
 #### Status
 ACCEPTED

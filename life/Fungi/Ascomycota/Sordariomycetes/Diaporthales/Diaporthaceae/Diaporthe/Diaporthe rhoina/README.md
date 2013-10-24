@@ -1,5 +1,4 @@
-Diaporthe rhoina Feltgen SPECIES
-=======
+# Diaporthe rhoina Feltgen SPECIES
 
 #### Status
 ACCEPTED

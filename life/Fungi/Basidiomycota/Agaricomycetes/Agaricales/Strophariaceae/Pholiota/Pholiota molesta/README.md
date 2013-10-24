@@ -1,5 +1,4 @@
-Pholiota molesta A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota molesta A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

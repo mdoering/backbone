@@ -1,5 +1,4 @@
-Irenina castanopsidis Hansf. SPECIES
-=======
+# Irenina castanopsidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

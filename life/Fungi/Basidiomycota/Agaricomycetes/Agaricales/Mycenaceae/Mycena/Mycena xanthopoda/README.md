@@ -1,5 +1,4 @@
-Mycena xanthopoda (Dennis) Dennis SPECIES
-=======
+# Mycena xanthopoda (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

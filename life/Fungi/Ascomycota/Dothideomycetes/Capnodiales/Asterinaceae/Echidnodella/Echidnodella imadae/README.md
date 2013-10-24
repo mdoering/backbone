@@ -1,5 +1,4 @@
-Echidnodella imadae Goos & Uecker SPECIES
-=======
+# Echidnodella imadae Goos & Uecker SPECIES
 
 #### Status
 ACCEPTED

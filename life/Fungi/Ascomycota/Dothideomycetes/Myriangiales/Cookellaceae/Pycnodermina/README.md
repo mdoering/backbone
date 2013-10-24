@@ -1,5 +1,4 @@
-Pycnodermina GENUS
-=======
+# Pycnodermina GENUS
 
 #### Status
 ACCEPTED

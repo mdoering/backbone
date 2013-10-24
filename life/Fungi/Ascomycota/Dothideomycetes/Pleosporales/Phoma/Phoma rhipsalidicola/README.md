@@ -1,5 +1,4 @@
-Phoma rhipsalidicola Speg. SPECIES
-=======
+# Phoma rhipsalidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

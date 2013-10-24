@@ -1,5 +1,4 @@
-Loxophyllum pentagonum Sauerbrey, 1928 SPECIES
-=======
+# Loxophyllum pentagonum Sauerbrey, 1928 SPECIES
 
 #### Status
 ACCEPTED

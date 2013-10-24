@@ -1,5 +1,4 @@
-Uredo pinitorqua H. Br. {?} SPECIES
-=======
+# Uredo pinitorqua H. Br. {?} SPECIES
 
 #### Status
 ACCEPTED

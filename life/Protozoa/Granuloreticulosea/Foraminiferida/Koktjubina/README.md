@@ -1,5 +1,4 @@
-Koktjubina Marfenkova & Vdovenko in Marfenko, 1990 GENUS
-=======
+# Koktjubina Marfenkova & Vdovenko in Marfenko, 1990 GENUS
 
 #### Status
 ACCEPTED

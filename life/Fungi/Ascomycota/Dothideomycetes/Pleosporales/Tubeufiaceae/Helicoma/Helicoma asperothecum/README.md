@@ -1,5 +1,4 @@
-Helicoma asperothecum Linder SPECIES
-=======
+# Helicoma asperothecum Linder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorina elaeina Rehm SPECIES
-=======
+# Biatorina elaeina Rehm SPECIES
 
 #### Status
 ACCEPTED

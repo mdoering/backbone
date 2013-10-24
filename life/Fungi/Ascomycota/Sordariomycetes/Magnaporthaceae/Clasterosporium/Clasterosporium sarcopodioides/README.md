@@ -1,5 +1,4 @@
-Clasterosporium sarcopodioides subsp. sarcopodioides SUBSPECIES
-=======
+# Clasterosporium sarcopodioides (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 4: 385 (1886)
 
 #### Original name
-Clasterosporium sarcopodioides subsp. sarcopodioides
+Hymenopodium sarcopodioides Corda
 
 ### Remarks
 null

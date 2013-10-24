@@ -1,5 +1,4 @@
-Lenzites aponica Berk. & Cooke SPECIES
-=======
+# Lenzites aponica Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

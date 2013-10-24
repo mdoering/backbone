@@ -1,14 +1,13 @@
-Colletotrichum merilli (Syd.) Quimio SPECIES
-=======
+# Colletotrichum merrillii (Syd.) Quimio SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 28(2-3): 549 (1977)
 
 #### Original name
 Gloeosporium merrillii Syd.

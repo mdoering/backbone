@@ -1,5 +1,4 @@
-Thindiomyces Arendh. & R. Sharma GENUS
-=======
+# Thindiomyces Arendh. & R. Sharma GENUS
 
 #### Status
 ACCEPTED

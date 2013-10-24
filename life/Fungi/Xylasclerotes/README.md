@@ -1,5 +1,4 @@
-Xylasclerotes Stach & Pickh. GENUS
-=======
+# Xylasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

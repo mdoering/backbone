@@ -1,5 +1,4 @@
-Phyllacineta Yankovskii, 1978 GENUS
-=======
+# Phyllacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

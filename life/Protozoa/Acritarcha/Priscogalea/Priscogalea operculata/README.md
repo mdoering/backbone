@@ -1,5 +1,4 @@
-Priscogalea operculata Timofeev, 1959 ex Martin, 1972 SPECIES
-=======
+# Priscogalea operculata Timofeev, 1959 ex Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

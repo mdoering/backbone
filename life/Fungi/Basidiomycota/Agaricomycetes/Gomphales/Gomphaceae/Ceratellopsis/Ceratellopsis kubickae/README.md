@@ -1,5 +1,4 @@
-Ceratellopsis kubickae Pilát SPECIES
-=======
+# Ceratellopsis kubickae Pilát SPECIES
 
 #### Status
 ACCEPTED

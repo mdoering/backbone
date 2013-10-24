@@ -1,5 +1,4 @@
-Lithornithium Ehrenberg, 1847 GENUS
-=======
+# Lithornithium Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

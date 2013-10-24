@@ -1,5 +1,4 @@
-Diporisporites elongatus Hammen SPECIES
-=======
+# Diporisporites elongatus Hammen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma sordidula Sacc. & P. Syd. SPECIES
-=======
+# Phoma sordidula Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglossum minus Velen. SPECIES
-=======
+# Microglossum minus Velen. SPECIES
 
 #### Status
 ACCEPTED

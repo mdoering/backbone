@@ -1,5 +1,4 @@
-Dinobryon acuminatum Ruttner SPECIES
-=======
+# Dinobryon acuminatum Ruttner SPECIES
 
 #### Status
 ACCEPTED

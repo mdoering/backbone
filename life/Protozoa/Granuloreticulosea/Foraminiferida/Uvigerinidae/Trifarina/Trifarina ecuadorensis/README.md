@@ -1,8 +1,7 @@
-Angulogerina ecuadorensis Hofker, 1956 SPECIES
-=======
+# Trifarina ecuadorensis (Hofker, 1956) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

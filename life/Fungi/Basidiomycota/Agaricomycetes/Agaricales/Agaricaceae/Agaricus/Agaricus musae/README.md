@@ -1,5 +1,4 @@
-Agaricus musae G. Mey. SPECIES
-=======
+# Agaricus musae G. Mey. SPECIES
 
 #### Status
 ACCEPTED

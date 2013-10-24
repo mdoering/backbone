@@ -1,5 +1,4 @@
-Omphalia corneipes Speg. SPECIES
-=======
+# Omphalia corneipes Speg. SPECIES
 
 #### Status
 ACCEPTED

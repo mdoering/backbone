@@ -1,5 +1,4 @@
-Gyalecta derivata (Nyl.) H. Olivier SPECIES
-=======
+# Gyalecta derivata (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

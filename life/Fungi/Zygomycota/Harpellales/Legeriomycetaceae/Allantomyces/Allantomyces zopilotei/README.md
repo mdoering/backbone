@@ -1,5 +1,4 @@
-Allantomyces zopilotei L.G. Valle, M.M. White & Cafaro, 2008 SPECIES
-=======
+# Allantomyces zopilotei L.G. Valle, M.M. White & Cafaro, 2008 SPECIES
 
 #### Status
 ACCEPTED

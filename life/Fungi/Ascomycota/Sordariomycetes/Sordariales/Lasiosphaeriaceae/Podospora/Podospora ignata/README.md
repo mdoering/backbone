@@ -1,5 +1,4 @@
-Podospora ignata A.E. Bell & Mahoney SPECIES
-=======
+# Podospora ignata A.E. Bell & Mahoney SPECIES
 
 #### Status
 ACCEPTED

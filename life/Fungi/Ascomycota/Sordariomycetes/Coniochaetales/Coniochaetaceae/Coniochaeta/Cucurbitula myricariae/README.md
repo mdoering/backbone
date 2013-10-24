@@ -1,5 +1,4 @@
-Cucurbitula myricariae Fuckel SPECIES
-=======
+# Cucurbitula myricariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

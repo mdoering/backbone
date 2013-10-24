@@ -1,8 +1,7 @@
-Bolivina rhomboidalis (Millett, 1899) SPECIES
-=======
+# Abditodentrix rhomboidalis (Millett, 1899) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Truncatulina glabra Heron-Allen & Earland, 1915 SPECIES
-=======
+# Truncatulina glabra Heron-Allen & Earland, 1915 SPECIES
 
 #### Status
 DOUBTFUL

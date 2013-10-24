@@ -1,5 +1,4 @@
-Gibellula Cavara, 1894 GENUS
-=======
+# Gibellula Cavara, 1894 GENUS
 
 #### Status
 ACCEPTED

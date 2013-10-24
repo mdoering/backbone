@@ -1,5 +1,4 @@
-Glomovertella E.A. Reitlinger, 1948 GENUS
-=======
+# Glomovertella E.A. Reitlinger, 1948 GENUS
 
 #### Status
 ACCEPTED

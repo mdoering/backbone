@@ -1,5 +1,4 @@
-Aminobacter aganoensis Urakami et al., 1992 SPECIES
-=======
+# Aminobacter aganoensis Urakami et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

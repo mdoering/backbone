@@ -1,5 +1,4 @@
-Helvella pocillum Harmaja SPECIES
-=======
+# Helvella pocillum Harmaja SPECIES
 
 #### Status
 ACCEPTED

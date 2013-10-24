@@ -1,5 +1,4 @@
-Phellinus shaferi (Murrill) Ryvarden SPECIES
-=======
+# Phellinus shaferi (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula breutelii (Müll. Arg.) Aptroot SPECIES
-=======
+# Pyrenula breutelii (Müll. Arg.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

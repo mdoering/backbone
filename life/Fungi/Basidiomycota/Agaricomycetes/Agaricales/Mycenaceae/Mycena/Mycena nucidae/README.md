@@ -1,5 +1,4 @@
-Mycena nucidae (V. Brig.) Sacc. SPECIES
-=======
+# Mycena nucidae (V. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

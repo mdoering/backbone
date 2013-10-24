@@ -1,5 +1,4 @@
-Coelomomyces arcellaneus Couch & Lum SPECIES
-=======
+# Coelomomyces arcellaneus Couch & Lum SPECIES
 
 #### Status
 ACCEPTED

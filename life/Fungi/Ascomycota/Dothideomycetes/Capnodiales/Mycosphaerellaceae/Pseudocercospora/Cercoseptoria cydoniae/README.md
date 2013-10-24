@@ -1,5 +1,4 @@
-Cercoseptoria cydoniae Scharif SPECIES
-=======
+# Cercoseptoria cydoniae Scharif SPECIES
 
 #### Status
 ACCEPTED

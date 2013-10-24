@@ -1,5 +1,4 @@
-Actinothecium caricicola Ces., 1854 SPECIES
-=======
+# Actinothecium caricicola Ces., 1854 SPECIES
 
 #### Status
 ACCEPTED

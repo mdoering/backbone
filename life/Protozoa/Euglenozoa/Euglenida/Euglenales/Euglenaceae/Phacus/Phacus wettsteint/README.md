@@ -1,5 +1,4 @@
-Phacus wettsteint SPECIES
-=======
+# Phacus wettsteint SPECIES
 
 #### Status
 ACCEPTED

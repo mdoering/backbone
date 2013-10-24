@@ -1,17 +1,16 @@
-Botryosphaeria cassiaecola V.G. Rao & Varghese SPECIES
-=======
+# Botryosphaeria cassiicola V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 32(1-6): 253 (1980)
 
 #### Original name
-Botryosphaeria cassiaecola V.G. Rao & Varghese
+Botryosphaeria cassiicola V.G. Rao & Varghese
 
 ### Remarks
 null

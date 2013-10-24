@@ -1,5 +1,4 @@
-Phlyctema polonica Petr. SPECIES
-=======
+# Phlyctema polonica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium rugulosum Fr. SPECIES
-=======
+# Sclerotium rugulosum Fr. SPECIES
 
 #### Status
 ACCEPTED

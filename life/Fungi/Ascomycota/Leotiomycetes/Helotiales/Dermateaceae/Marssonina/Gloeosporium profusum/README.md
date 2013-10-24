@@ -1,5 +1,4 @@
-Gloeosporium profusum Ellis & Everh. SPECIES
-=======
+# Gloeosporium profusum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

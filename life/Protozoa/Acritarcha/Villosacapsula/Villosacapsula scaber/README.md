@@ -1,5 +1,4 @@
-Villosacapsula scaber (Díez & Cramer, 1976) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Villosacapsula scaber (Díez & Cramer, 1976) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

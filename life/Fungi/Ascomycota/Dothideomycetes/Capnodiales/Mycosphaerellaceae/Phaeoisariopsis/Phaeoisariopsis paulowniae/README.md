@@ -1,5 +1,4 @@
-Phaeoisariopsis paulowniae J.M. Yen & S.K. Sun SPECIES
-=======
+# Phaeoisariopsis paulowniae J.M. Yen & S.K. Sun SPECIES
 
 #### Status
 ACCEPTED

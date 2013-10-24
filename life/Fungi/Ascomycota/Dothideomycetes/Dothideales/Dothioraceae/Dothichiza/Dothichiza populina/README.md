@@ -1,5 +1,4 @@
-Dothichiza populina Sacc. SPECIES
-=======
+# Dothichiza populina Sacc. SPECIES
 
 #### Status
 ACCEPTED

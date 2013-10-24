@@ -1,5 +1,4 @@
-Lecanora simplex SPECIES
-=======
+# Lecanora simplex SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizophyllaceae Quél. FAMILY
-=======
+# Schizophyllaceae Quél. FAMILY
 
 #### Status
 ACCEPTED

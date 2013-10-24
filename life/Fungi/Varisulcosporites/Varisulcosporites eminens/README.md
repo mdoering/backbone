@@ -1,5 +1,4 @@
-Varisulcosporites eminens Rouse & Mustard SPECIES
-=======
+# Varisulcosporites eminens Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

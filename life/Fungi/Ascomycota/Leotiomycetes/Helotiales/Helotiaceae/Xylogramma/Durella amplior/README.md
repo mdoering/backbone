@@ -1,5 +1,4 @@
-Durella amplior Sacc. SPECIES
-=======
+# Durella amplior Sacc. SPECIES
 
 #### Status
 ACCEPTED

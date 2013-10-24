@@ -1,5 +1,4 @@
-Dothiorella juniperi (Fr.) Sacc. SPECIES
-=======
+# Dothiorella juniperi (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

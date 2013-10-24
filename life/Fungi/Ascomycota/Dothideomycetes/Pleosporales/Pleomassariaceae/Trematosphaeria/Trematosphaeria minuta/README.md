@@ -1,5 +1,4 @@
-Trematosphaeria minuta Berl. SPECIES
-=======
+# Trematosphaeria minuta Berl. SPECIES
 
 #### Status
 ACCEPTED

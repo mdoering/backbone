@@ -1,5 +1,4 @@
-Pythium heterothallicum W.A. Campb. & F.F. Hendrix, 1968 SPECIES
-=======
+# Pythium heterothallicum W.A. Campb. & F.F. Hendrix, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma cerevisiae var. cerevisiae VARIETY
-=======
+# Mycoderma cerevisiae Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Comptes rendu Trav. Laboratoire d. Carlsberg 2: 150 (1888)
 
 #### Original name
-Mycoderma cerevisiae var. cerevisiae
+Mycoderma cerevisiae Desm.
 
 ### Remarks
 null

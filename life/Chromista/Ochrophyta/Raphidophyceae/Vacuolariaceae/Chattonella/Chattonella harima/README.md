@@ -1,5 +1,4 @@
-Chattonella harima SPECIES
-=======
+# Chattonella harima SPECIES
 
 #### Status
 ACCEPTED

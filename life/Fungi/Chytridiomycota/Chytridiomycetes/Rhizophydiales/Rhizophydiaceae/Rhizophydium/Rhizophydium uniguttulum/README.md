@@ -1,5 +1,4 @@
-Rhizophydium uniguttulum Canter, 1954 SPECIES
-=======
+# Rhizophydium uniguttulum Canter, 1954 SPECIES
 
 #### Status
 ACCEPTED

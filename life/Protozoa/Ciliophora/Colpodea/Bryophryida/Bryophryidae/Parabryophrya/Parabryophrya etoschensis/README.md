@@ -1,5 +1,4 @@
-Parabryophrya etoschensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Parabryophrya etoschensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

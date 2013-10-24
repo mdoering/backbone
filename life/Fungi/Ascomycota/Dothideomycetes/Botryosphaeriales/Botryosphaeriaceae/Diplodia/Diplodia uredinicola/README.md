@@ -1,5 +1,4 @@
-Diplodia uredinicola Desm. SPECIES
-=======
+# Diplodia uredinicola Desm. SPECIES
 
 #### Status
 ACCEPTED

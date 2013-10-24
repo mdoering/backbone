@@ -1,5 +1,4 @@
-Nostoc piscinale Kützing SPECIES
-=======
+# Nostoc piscinale Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea lyngei Motyka SPECIES
-=======
+# Usnea lyngei Motyka SPECIES
 
 #### Status
 ACCEPTED

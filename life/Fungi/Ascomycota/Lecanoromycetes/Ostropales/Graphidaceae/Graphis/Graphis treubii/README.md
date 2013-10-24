@@ -1,5 +1,4 @@
-Graphis treubii Zahlbr. SPECIES
-=======
+# Graphis treubii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

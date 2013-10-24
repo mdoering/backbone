@@ -1,14 +1,13 @@
-Chrysidella Pascher, 1911 GENUS
-=======
+# Zooxanthella K. Brandt, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. Bot. Ges. , 29, 194.
+null
 
 #### Original name
 null

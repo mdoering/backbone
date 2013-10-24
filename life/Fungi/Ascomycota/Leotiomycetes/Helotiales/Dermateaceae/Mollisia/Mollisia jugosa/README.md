@@ -1,14 +1,13 @@
-Peziza jugosa W. Phillips & Plowr., 1880 SPECIES
-=======
+# Mollisia jugosa (W. Phillips & Plowr.) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 184 (1887)
 
 #### Original name
 null

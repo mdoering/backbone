@@ -1,5 +1,4 @@
-Cibalocoryne affinis (E.J. Durand) S. Imai SPECIES
-=======
+# Cibalocoryne affinis (E.J. Durand) S. Imai SPECIES
 
 #### Status
 ACCEPTED

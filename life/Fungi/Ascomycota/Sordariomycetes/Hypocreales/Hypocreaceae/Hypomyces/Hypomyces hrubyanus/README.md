@@ -1,5 +1,4 @@
-Hypomyces hrubyanus Petr. SPECIES
-=======
+# Hypomyces hrubyanus Petr. SPECIES
 
 #### Status
 ACCEPTED

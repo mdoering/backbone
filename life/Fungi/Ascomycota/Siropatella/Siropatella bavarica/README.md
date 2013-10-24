@@ -1,5 +1,4 @@
-Siropatella bavarica Petr. SPECIES
-=======
+# Siropatella bavarica Petr. SPECIES
 
 #### Status
 ACCEPTED

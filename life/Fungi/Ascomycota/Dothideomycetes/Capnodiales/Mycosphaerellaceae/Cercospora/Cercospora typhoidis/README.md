@@ -1,17 +1,16 @@
-Cercospora typhoides N.D. Sharma & A.C. Jain SPECIES
-=======
+# Cercospora typhoidis N.D. Sharma & A.C. Jain SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. N. K. V. V. Res. Jnl 1: 83 (1967)
 
 #### Original name
-Cercospora typhoides N.D. Sharma & A.C. Jain
+Cercospora typhoidis N.D. Sharma & A.C. Jain
 
 ### Remarks
 null

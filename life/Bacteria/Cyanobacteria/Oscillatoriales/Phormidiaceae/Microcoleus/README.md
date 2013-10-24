@@ -1,14 +1,13 @@
-Vaginaria Bonnemaison, 1822 GENUS
-=======
+# Microcoleus Desmazières ex Gomont, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Phys. , Chém. , Hist. Nat. & Arts 94: 175.
+Ann. Sci. Nat. Bot. , ser. 7, 15: 350.
 
 #### Original name
 null

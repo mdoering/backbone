@@ -1,5 +1,4 @@
-Pyxidiella grelli SPECIES
-=======
+# Pyxidiella grelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus depressus (Pat. & Gaillard) Pat. SPECIES
-=======
+# Leucoporus depressus (Pat. & Gaillard) Pat. SPECIES
 
 #### Status
 ACCEPTED

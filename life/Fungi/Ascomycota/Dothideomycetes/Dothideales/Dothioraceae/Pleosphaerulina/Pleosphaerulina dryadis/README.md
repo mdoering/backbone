@@ -1,5 +1,4 @@
-Pleosphaerulina dryadis (Starbäck) Sacc. SPECIES
-=======
+# Pleosphaerulina dryadis (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

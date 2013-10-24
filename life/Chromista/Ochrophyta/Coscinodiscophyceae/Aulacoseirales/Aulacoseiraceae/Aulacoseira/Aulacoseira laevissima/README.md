@@ -1,5 +1,4 @@
-Aulacoseira laevissima (Grunow) Krammer SPECIES
-=======
+# Aulacoseira laevissima (Grunow) Krammer SPECIES
 
 #### Status
 ACCEPTED

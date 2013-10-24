@@ -1,5 +1,4 @@
-Ceratium jusus (Ehrenberg) Dujardin SPECIES
-=======
+# Ceratium jusus (Ehrenberg) Dujardin SPECIES
 
 #### Status
 ACCEPTED

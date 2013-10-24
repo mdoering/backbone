@@ -1,5 +1,4 @@
-Opegrapha aperiens f. aperiens FORM
-=======
+# Opegrapha aperiens Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha aperiens f. aperiens
+Opegrapha aperiens Vain.
 
 ### Remarks
 null

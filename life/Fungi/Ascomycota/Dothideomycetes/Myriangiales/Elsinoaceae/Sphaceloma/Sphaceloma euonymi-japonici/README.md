@@ -1,5 +1,4 @@
-Sphaceloma euonymi-japonici Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma euonymi-japonici Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

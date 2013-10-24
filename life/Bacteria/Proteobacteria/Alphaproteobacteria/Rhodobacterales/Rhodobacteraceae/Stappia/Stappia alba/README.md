@@ -1,5 +1,4 @@
-Stappia alba Pujalte et al., 2006 SPECIES
-=======
+# Stappia alba Pujalte et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

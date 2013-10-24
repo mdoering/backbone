@@ -1,5 +1,4 @@
-Metopus inflatus Fromentel, 1876 SPECIES
-=======
+# Metopus inflatus Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

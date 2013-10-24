@@ -1,5 +1,4 @@
-Peziza lurida Rutstr. SPECIES
-=======
+# Peziza lurida Rutstr. SPECIES
 
 #### Status
 ACCEPTED

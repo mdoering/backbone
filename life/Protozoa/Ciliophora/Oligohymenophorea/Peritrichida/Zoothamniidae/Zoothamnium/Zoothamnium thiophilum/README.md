@@ -1,5 +1,4 @@
-Zoothamnium thiophilum Stiller, 1946 SPECIES
-=======
+# Zoothamnium thiophilum Stiller, 1946 SPECIES
 
 #### Status
 ACCEPTED

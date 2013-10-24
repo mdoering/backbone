@@ -1,5 +1,4 @@
-Palaeostaffella GENUS
-=======
+# Palaeostaffella GENUS
 
 #### Status
 ACCEPTED

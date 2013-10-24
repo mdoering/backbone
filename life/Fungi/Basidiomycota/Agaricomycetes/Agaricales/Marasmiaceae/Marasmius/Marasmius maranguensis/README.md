@@ -1,5 +1,4 @@
-Marasmius maranguensis Henn. SPECIES
-=======
+# Marasmius maranguensis Henn. SPECIES
 
 #### Status
 ACCEPTED

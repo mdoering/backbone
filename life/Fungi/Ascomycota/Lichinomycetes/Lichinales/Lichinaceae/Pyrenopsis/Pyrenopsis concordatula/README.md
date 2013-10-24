@@ -1,5 +1,4 @@
-Pyrenopsis concordatula Nyl. SPECIES
-=======
+# Pyrenopsis concordatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

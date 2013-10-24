@@ -1,5 +1,4 @@
-Lecidea bruniana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea bruniana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

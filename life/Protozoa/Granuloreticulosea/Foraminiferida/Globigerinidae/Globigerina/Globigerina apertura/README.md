@@ -1,5 +1,4 @@
-Globigerina apertura Cushman SPECIES
-=======
+# Globigerina apertura Cushman SPECIES
 
 #### Status
 ACCEPTED

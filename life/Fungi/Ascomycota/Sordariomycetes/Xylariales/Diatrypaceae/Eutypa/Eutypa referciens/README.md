@@ -1,5 +1,4 @@
-Eutypa referciens (Nitschke) Sacc. SPECIES
-=======
+# Eutypa referciens (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

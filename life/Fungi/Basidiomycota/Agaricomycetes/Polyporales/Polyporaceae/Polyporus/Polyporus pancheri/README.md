@@ -1,5 +1,4 @@
-Polyporus pancheri (Pat.) Sacc. SPECIES
-=======
+# Polyporus pancheri (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

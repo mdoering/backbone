@@ -1,5 +1,4 @@
-Agaricus neesii Barla SPECIES
-=======
+# Agaricus neesii Barla SPECIES
 
 #### Status
 ACCEPTED

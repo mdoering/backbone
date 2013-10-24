@@ -1,5 +1,4 @@
-Phallus megacephalus M. Zang SPECIES
-=======
+# Phallus megacephalus M. Zang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rapacea mariae E. Horak, 1999 SPECIES
-=======
+# Cortinarius mariae (E. Horak) E. Horak, Peintner, M.M. Moser & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 54(3): 789 (1999)
+in Peintner, Horak, Moser & Vilgalys, Mycotaxon 83: 449 (2002)
 
 #### Original name
 Rapacea mariae E. Horak, 1999

@@ -1,5 +1,4 @@
-Septoria caesuliae Edward & Naim SPECIES
-=======
+# Septoria caesuliae Edward & Naim SPECIES
 
 #### Status
 ACCEPTED

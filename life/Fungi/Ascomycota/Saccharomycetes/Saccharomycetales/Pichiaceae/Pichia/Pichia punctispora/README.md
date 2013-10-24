@@ -1,8 +1,7 @@
-Saccharomyces punctispora Mélard, 1910 SPECIES
-=======
+# Pichia punctispora (Mélard) Stell.-Dekk., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

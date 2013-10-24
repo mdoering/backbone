@@ -1,5 +1,4 @@
-Cystophora platylobium (Mertens) J. Agardh SPECIES
-=======
+# Cystophora platylobium (Mertens) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

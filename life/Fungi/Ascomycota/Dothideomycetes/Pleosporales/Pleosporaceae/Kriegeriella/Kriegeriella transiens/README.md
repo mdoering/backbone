@@ -1,5 +1,4 @@
-Kriegeriella transiens Höhn., 1918 SPECIES
-=======
+# Kriegeriella transiens Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

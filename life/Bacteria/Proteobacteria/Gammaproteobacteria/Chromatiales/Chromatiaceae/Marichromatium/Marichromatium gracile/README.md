@@ -1,8 +1,7 @@
-Chromatium gracile Strzeszewski, 1913 (Approved Lists, 1980) SPECIES
-=======
+# Marichromatium gracile (Strzeszewski, 1913) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

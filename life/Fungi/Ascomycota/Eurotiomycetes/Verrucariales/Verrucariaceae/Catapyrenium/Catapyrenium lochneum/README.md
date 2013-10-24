@@ -1,5 +1,4 @@
-Catapyrenium lochneum SPECIES
-=======
+# Catapyrenium lochneum SPECIES
 
 #### Status
 ACCEPTED

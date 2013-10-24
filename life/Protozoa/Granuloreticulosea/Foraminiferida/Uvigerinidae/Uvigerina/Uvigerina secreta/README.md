@@ -1,5 +1,4 @@
-Uvigerina secreta Saidova, 1975 SPECIES
-=======
+# Uvigerina secreta Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

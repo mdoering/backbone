@@ -1,5 +1,4 @@
-Tuber hiemalbum Chatin SPECIES
-=======
+# Tuber hiemalbum Chatin SPECIES
 
 #### Status
 ACCEPTED

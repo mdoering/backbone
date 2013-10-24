@@ -1,5 +1,4 @@
-Gonyaulacysta filapicata H. Gocht SPECIES
-=======
+# Gonyaulacysta filapicata H. Gocht SPECIES
 
 #### Status
 ACCEPTED

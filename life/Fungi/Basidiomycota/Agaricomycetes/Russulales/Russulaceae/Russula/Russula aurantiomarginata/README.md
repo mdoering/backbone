@@ -1,5 +1,4 @@
-Russula aurantiomarginata Buyck SPECIES
-=======
+# Russula aurantiomarginata Buyck SPECIES
 
 #### Status
 ACCEPTED

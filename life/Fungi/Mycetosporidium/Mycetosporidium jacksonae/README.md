@@ -1,5 +1,4 @@
-Mycetosporidium jacksonae P. Tate SPECIES
-=======
+# Mycetosporidium jacksonae P. Tate SPECIES
 
 #### Status
 ACCEPTED

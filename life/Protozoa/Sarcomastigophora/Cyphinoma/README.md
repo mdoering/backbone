@@ -1,5 +1,4 @@
-Cyphinoma Haeckel, 1887 GENUS
-=======
+# Cyphinoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

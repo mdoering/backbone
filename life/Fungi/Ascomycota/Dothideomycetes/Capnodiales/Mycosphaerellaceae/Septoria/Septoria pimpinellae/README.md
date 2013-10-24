@@ -1,5 +1,4 @@
-Septoria pimpinellae Hollós SPECIES
-=======
+# Septoria pimpinellae Hollós SPECIES
 
 #### Status
 ACCEPTED

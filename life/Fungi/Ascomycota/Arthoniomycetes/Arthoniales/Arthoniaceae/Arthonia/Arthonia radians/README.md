@@ -1,5 +1,4 @@
-Arthonia radians Müll. Arg. SPECIES
-=======
+# Arthonia radians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Alexandrium fukuyoi E. Balech SPECIES
-=======
+# Alexandrium affine (H. Inoue & Y. Fukuyo) E. Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

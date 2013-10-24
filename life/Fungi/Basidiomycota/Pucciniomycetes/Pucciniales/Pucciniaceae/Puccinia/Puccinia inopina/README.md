@@ -1,5 +1,4 @@
-Puccinia inopina H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia inopina H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

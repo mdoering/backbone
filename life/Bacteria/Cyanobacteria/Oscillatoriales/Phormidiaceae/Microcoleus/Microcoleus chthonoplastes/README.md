@@ -1,5 +1,4 @@
-Microcoleus chthonoplastes (Mertens) Zanardini ex Gomont SPECIES
-=======
+# Microcoleus chthonoplastes (Mertens) Zanardini ex Gomont SPECIES
 
 #### Status
 ACCEPTED

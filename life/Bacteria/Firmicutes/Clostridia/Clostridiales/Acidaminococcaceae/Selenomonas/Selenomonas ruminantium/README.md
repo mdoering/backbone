@@ -1,5 +1,4 @@
-Selenomonas ruminantium subsp. ruminantium SUBSPECIES
-=======
+# Selenomonas ruminantium (Certes, 1889) Wenyon, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octospora miniatopsis (Spooner) Olech & Mleczko SPECIES
-=======
+# Octospora miniatopsis (Spooner) Olech & Mleczko SPECIES
 
 #### Status
 ACCEPTED

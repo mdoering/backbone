@@ -1,5 +1,4 @@
-Calosphaeria smilacis P. Karst. & Har. SPECIES
-=======
+# Calosphaeria smilacis P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

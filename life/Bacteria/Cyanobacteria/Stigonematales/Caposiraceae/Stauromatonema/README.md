@@ -1,5 +1,4 @@
-Stauromatonema Frémy, 1930 GENUS
-=======
+# Stauromatonema Frémy, 1930 GENUS
 
 #### Status
 ACCEPTED

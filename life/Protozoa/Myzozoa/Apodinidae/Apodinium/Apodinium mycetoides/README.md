@@ -1,5 +1,4 @@
-Apodinium mycetoides Chatton, 1907 SPECIES
-=======
+# Apodinium mycetoides Chatton, 1907 SPECIES
 
 #### Status
 ACCEPTED

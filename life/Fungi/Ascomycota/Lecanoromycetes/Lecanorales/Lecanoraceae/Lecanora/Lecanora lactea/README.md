@@ -1,5 +1,4 @@
-Lecanora lactea f. lactea (A. Massal.) Leight. FORM
-=======
+# Lecanora lactea (A. Massal.) Harm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora lactea f. lactea (A. Massal.) Leight.
+Callopisma luteoalbum var. lacteum A. Massal.
 
 ### Remarks
 null

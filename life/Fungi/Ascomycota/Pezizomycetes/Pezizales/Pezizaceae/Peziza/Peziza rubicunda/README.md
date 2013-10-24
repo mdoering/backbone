@@ -1,5 +1,4 @@
-Peziza rubicunda Saut. SPECIES
-=======
+# Peziza rubicunda Saut. SPECIES
 
 #### Status
 ACCEPTED

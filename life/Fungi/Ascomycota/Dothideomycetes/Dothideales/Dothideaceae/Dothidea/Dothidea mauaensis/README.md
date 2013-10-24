@@ -1,17 +1,16 @@
-Dothidea mauensis Henn. SPECIES
-=======
+# Dothidea mauaensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 88 (1904)
 
 #### Original name
-Dothidea mauensis Henn.
+Dothidea mauaensis Henn.
 
 ### Remarks
 null

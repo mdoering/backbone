@@ -1,5 +1,4 @@
-Tholoniidae Haeckel, 1887 FAMILY
-=======
+# Tholoniidae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

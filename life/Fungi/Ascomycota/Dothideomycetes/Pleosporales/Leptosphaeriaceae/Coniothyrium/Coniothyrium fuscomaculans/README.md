@@ -1,5 +1,4 @@
-Coniothyrium fuscomaculans (Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium fuscomaculans (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

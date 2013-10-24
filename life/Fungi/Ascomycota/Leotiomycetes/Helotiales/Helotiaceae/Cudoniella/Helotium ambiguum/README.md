@@ -1,5 +1,4 @@
-Helotium ambiguum Rick SPECIES
-=======
+# Helotium ambiguum Rick SPECIES
 
 #### Status
 ACCEPTED

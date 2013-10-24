@@ -1,8 +1,7 @@
-Dasyscypha rosae Jaap SPECIES
-=======
+# Dasyscyphus rosae Jaap SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha rosae Jaap
+Dasyscyphus rosae Jaap
 
 ### Remarks
 null

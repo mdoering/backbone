@@ -1,5 +1,4 @@
-Phialea hirtipes Mouton & Sacc. SPECIES
-=======
+# Phialea hirtipes Mouton & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphileptus cygnus Ehrenberg, 1830 SPECIES
-=======
+# Amphileptus cygnus Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

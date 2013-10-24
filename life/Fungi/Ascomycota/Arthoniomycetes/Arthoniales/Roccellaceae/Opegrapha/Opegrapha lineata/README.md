@@ -1,5 +1,4 @@
-Opegrapha lineata Chevall. SPECIES
-=======
+# Opegrapha lineata Chevall. SPECIES
 
 #### Status
 ACCEPTED

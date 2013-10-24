@@ -1,5 +1,4 @@
-Hygrocybe tidbillensis A.M. Young SPECIES
-=======
+# Hygrocybe tidbillensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

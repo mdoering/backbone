@@ -1,5 +1,4 @@
-Pyramidospora Sv. Nilsson GENUS
-=======
+# Pyramidospora Sv. Nilsson GENUS
 
 #### Status
 ACCEPTED

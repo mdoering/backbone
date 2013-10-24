@@ -1,5 +1,4 @@
-Catarrhospora Brusse GENUS
-=======
+# Catarrhospora Brusse GENUS
 
 #### Status
 ACCEPTED

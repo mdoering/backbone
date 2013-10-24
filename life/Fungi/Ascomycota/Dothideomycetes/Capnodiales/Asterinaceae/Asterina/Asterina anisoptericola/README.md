@@ -1,5 +1,4 @@
-Asterina anisoptericola Hansf. SPECIES
-=======
+# Asterina anisoptericola Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crossopsora symphorematis Sundaram SPECIES
-=======
+# Crossopsora symphorematis Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trisegmentina sidebottomi Cushman, 1933 SPECIES
-=======
+# Trisegmentina sidebottomi Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

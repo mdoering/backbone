@@ -1,5 +1,4 @@
-Fellhanera paradoxa (Vezda) Vezda SPECIES
-=======
+# Fellhanera paradoxa (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

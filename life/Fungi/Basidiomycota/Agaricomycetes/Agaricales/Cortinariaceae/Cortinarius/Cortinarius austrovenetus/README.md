@@ -1,5 +1,4 @@
-Cortinarius austrovenetus Cleland SPECIES
-=======
+# Cortinarius austrovenetus Cleland SPECIES
 
 #### Status
 ACCEPTED

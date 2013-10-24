@@ -1,5 +1,4 @@
-Aspergillus fonsecaens SPECIES
-=======
+# Aspergillus fonsecaens SPECIES
 
 #### Status
 ACCEPTED

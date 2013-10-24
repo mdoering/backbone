@@ -1,5 +1,4 @@
-Polyporus minusculus Boud. SPECIES
-=======
+# Polyporus minusculus Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parasterina myrtacearum (G. Arnaud) F. Stevens, 1939 SPECIES
-=======
+# Maublancia myrtacearum G. Arnaud, 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 17(2): 40 (1939)
+Annals d'École National d'Agric. de Montpellier, Série 2 16(1-4): 158 (1918)
 
 #### Original name
 Maublancia myrtacearum G. Arnaud, 1918

@@ -1,5 +1,4 @@
-Lecanora ereutica (Wahlenb.) SPECIES
-=======
+# Lecanora ereutica (Wahlenb.) SPECIES
 
 #### Status
 ACCEPTED

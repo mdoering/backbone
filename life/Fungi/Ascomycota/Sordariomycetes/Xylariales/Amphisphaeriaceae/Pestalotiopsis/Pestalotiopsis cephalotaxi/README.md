@@ -1,5 +1,4 @@
-Pestalotiopsis cephalotaxi (Sawada) Y. Suto & Tak. Kobay. SPECIES
-=======
+# Pestalotiopsis cephalotaxi (Sawada) Y. Suto & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

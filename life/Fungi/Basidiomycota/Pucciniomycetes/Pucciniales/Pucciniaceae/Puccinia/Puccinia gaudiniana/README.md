@@ -1,5 +1,4 @@
-Puccinia gaudiniana A.L. Guyot SPECIES
-=======
+# Puccinia gaudiniana A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

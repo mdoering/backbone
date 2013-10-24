@@ -1,5 +1,4 @@
-Nodosaria soluta Reuss SPECIES
-=======
+# Nodosaria soluta Reuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus minutissimus Rostr. SPECIES
-=======
+# Polystictus minutissimus Rostr. SPECIES
 
 #### Status
 ACCEPTED

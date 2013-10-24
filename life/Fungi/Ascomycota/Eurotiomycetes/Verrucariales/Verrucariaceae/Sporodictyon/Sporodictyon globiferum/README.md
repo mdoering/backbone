@@ -1,5 +1,4 @@
-Sporodictyon globiferum (Eschw.) Trevis. SPECIES
-=======
+# Sporodictyon globiferum (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

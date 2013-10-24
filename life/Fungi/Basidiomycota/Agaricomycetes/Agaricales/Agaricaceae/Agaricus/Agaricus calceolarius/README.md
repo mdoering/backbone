@@ -1,5 +1,4 @@
-Agaricus calceolarius Bull. SPECIES
-=======
+# Agaricus calceolarius Bull. SPECIES
 
 #### Status
 ACCEPTED

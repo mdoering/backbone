@@ -1,5 +1,4 @@
-Micrhystridium fucosum Valensi, 1955 SPECIES
-=======
+# Micrhystridium fucosum Valensi, 1955 SPECIES
 
 #### Status
 ACCEPTED

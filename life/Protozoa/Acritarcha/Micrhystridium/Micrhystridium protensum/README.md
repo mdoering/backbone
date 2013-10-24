@@ -1,5 +1,4 @@
-Micrhystridium protensum (Timofeev, 1959 ex Martin, 1972) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Micrhystridium protensum (Timofeev, 1959 ex Martin, 1972) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

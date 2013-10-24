@@ -1,5 +1,4 @@
-Puccinia accedens P. Syd. & Syd. SPECIES
-=======
+# Puccinia accedens P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

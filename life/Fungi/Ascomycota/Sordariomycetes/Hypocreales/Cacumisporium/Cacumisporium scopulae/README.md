@@ -1,5 +1,4 @@
-Cacumisporium scopulae (Goid.) S. Hughes SPECIES
-=======
+# Cacumisporium scopulae (Goid.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

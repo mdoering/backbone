@@ -1,5 +1,4 @@
-Sterigmatocystis japonica Aoki SPECIES
-=======
+# Sterigmatocystis japonica Aoki SPECIES
 
 #### Status
 ACCEPTED

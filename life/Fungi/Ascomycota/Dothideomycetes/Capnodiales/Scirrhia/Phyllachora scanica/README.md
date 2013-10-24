@@ -1,5 +1,4 @@
-Phyllachora scanica Starbäck, 1895 SPECIES
-=======
+# Phyllachora scanica Starbäck, 1895 SPECIES
 
 #### Status
 DOUBTFUL

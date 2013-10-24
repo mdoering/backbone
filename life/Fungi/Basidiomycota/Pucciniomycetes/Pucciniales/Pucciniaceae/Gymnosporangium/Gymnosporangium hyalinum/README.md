@@ -1,5 +1,4 @@
-Gymnosporangium hyalinum F. Kern ex Cummins, 1956 SPECIES
-=======
+# Gymnosporangium hyalinum F. Kern ex Cummins, 1956 SPECIES
 
 #### Status
 ACCEPTED

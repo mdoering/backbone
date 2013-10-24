@@ -1,5 +1,4 @@
-Rimularia campestris Kantvilas & Elix SPECIES
-=======
+# Rimularia campestris Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

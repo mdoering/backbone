@@ -1,5 +1,4 @@
-Buellia scheideggeriana Bricaud & Cl. Roux SPECIES
-=======
+# Buellia scheideggeriana Bricaud & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

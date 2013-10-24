@@ -1,5 +1,4 @@
-Uredo duplicata Rangel SPECIES
-=======
+# Uredo duplicata Rangel SPECIES
 
 #### Status
 ACCEPTED

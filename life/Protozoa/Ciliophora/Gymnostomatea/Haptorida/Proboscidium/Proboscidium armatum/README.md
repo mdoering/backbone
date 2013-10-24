@@ -1,5 +1,4 @@
-Proboscidium armatum Meunier, 1907 SPECIES
-=======
+# Proboscidium armatum Meunier, 1907 SPECIES
 
 #### Status
 ACCEPTED

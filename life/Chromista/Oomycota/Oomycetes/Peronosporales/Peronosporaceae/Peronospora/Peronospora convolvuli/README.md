@@ -1,5 +1,4 @@
-Peronospora convolvuli J.C. Lindq. SPECIES
-=======
+# Peronospora convolvuli J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

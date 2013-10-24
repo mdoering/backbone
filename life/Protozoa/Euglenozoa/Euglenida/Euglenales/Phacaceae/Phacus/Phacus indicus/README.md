@@ -1,5 +1,4 @@
-Phacus indicus Skvortzov SPECIES
-=======
+# Phacus indicus Skvortzov SPECIES
 
 #### Status
 ACCEPTED

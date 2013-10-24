@@ -1,8 +1,7 @@
-Chaetomium montemartini Cavara SPECIES
-=======
+# Chaetomium montemartinii Cavara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chaetomium montemartini Cavara
+Chaetomium montemartinii Cavara
 
 ### Remarks
 null

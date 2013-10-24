@@ -1,5 +1,4 @@
-Heteroporus viscosus (Pers.) Lázaro Ibiza SPECIES
-=======
+# Heteroporus viscosus (Pers.) Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

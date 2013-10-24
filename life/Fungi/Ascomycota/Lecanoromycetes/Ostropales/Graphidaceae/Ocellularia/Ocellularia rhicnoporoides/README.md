@@ -1,5 +1,4 @@
-Ocellularia rhicnoporoides Homchant. & Coppins SPECIES
-=======
+# Ocellularia rhicnoporoides Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

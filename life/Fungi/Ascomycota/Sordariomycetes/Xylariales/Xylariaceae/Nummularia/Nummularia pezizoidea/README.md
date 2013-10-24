@@ -1,5 +1,4 @@
-Nummularia pezizoidea var. pezizoidea VARIETY
-=======
+# Nummularia pezizoidea Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 43: 260 (1904)
 
 #### Original name
-Nummularia pezizoidea var. pezizoidea
+Nummularia pezizoidea Henn.
 
 ### Remarks
 null

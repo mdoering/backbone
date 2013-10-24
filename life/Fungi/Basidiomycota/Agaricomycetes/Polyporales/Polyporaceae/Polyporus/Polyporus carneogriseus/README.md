@@ -1,5 +1,4 @@
-Polyporus carneogriseus (A. David) SPECIES
-=======
+# Polyporus carneogriseus (A. David) SPECIES
 
 #### Status
 ACCEPTED

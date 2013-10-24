@@ -1,5 +1,4 @@
-Leptosporomyces Jülich, 1972 GENUS
-=======
+# Leptosporomyces Jülich, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ombrophila longispora Velen. SPECIES
-=======
+# Ombrophila longispora Velen. SPECIES
 
 #### Status
 ACCEPTED

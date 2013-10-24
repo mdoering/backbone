@@ -1,5 +1,4 @@
-Phlebiella borealis K.H. Larss. & Hjortstam SPECIES
-=======
+# Phlebiella borealis K.H. Larss. & Hjortstam SPECIES
 
 #### Status
 ACCEPTED

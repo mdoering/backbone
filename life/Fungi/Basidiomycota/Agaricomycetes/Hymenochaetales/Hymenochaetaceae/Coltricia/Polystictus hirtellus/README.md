@@ -1,5 +1,4 @@
-Polystictus hirtellus Fr. SPECIES
-=======
+# Polystictus hirtellus Fr. SPECIES
 
 #### Status
 ACCEPTED

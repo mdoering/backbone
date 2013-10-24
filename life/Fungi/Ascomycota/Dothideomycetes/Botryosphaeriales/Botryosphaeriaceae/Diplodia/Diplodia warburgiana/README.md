@@ -1,14 +1,13 @@
-Microdiplodia warburgiana (Reichert) Nattrass, 1937 SPECIES
-=======
+# Diplodia warburgiana Reichert, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-First List of Cyprus Fungi 44 (1937)
+Bot. Jb. 56: 715 (1921)
 
 #### Original name
 Diplodia warburgiana Reichert, 1921

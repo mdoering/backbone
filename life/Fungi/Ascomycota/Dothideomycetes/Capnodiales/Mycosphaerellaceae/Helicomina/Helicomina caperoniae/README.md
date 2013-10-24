@@ -1,5 +1,4 @@
-Helicomina caperoniae L.S. Olive SPECIES
-=======
+# Helicomina caperoniae L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius janauariensis Singer SPECIES
-=======
+# Marasmius janauariensis Singer SPECIES
 
 #### Status
 ACCEPTED

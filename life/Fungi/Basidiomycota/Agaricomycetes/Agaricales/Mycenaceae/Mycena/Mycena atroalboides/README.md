@@ -1,5 +1,4 @@
-Mycena atroalboides (Peck) Sacc. SPECIES
-=======
+# Mycena atroalboides (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

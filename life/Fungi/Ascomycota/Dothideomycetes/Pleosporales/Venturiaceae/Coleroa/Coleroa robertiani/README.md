@@ -1,17 +1,16 @@
-Cryptosphaeria nitida Grev., 1824 SPECIES
-=======
+# Coleroa robertiani (Fr.) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Edin. 363 (1824)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 416 (1962)
 
 #### Original name
-Cryptosphaeria nitida Grev., 1824
+Dothidea robertiani Fr., 1823
 
 ### Remarks
 null

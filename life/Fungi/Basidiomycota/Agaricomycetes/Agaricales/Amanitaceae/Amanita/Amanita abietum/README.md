@@ -1,5 +1,4 @@
-Amanita abietum E.-J. Gilbert SPECIES
-=======
+# Amanita abietum E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

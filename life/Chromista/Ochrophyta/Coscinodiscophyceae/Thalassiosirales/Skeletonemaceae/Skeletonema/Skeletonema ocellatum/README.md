@@ -1,5 +1,4 @@
-Skeletonema ocellatum Lyngbye SPECIES
-=======
+# Skeletonema ocellatum Lyngbye SPECIES
 
 #### Status
 ACCEPTED

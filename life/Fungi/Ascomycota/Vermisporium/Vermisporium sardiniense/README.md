@@ -1,5 +1,4 @@
-Vermisporium sardiniense B. Sutton & Francesch. SPECIES
-=======
+# Vermisporium sardiniense B. Sutton & Francesch. SPECIES
 
 #### Status
 ACCEPTED

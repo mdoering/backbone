@@ -1,17 +1,16 @@
-Cercospora plumerifolii Bat. & Peres SPECIES
-=======
+# Cercospora plumeriifolii Bat. & Peres SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 262: 23 (1960)
 
 #### Original name
-Cercospora plumerifolii Bat. & Peres
+Cercospora plumeriifolii Bat. & Peres
 
 ### Remarks
 null

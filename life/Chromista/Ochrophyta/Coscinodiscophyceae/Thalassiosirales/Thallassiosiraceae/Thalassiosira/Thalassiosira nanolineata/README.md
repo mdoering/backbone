@@ -1,5 +1,4 @@
-Thalassiosira nanolineata (A. Mann) G.A. Fryxell & G.R. Hasle, 1977 SPECIES
-=======
+# Thalassiosira nanolineata (A. Mann) G.A. Fryxell & G.R. Hasle, 1977 SPECIES
 
 #### Status
 ACCEPTED

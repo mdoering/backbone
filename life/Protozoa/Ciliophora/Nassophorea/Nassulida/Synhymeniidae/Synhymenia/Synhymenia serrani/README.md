@@ -1,5 +1,4 @@
-Synhymenia serrani (Fernandez-Leborans, 1990) Jankowski, 1992 SPECIES
-=======
+# Synhymenia serrani (Fernandez-Leborans, 1990) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

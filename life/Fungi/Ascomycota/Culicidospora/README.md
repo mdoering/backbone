@@ -1,5 +1,4 @@
-Culicidospora R.H. Petersen GENUS
-=======
+# Culicidospora R.H. Petersen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaeria arundinariae Ellis & Everh. SPECIES
-=======
+# Trichosphaeria arundinariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

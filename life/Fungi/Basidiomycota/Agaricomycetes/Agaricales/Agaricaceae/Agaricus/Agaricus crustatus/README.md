@@ -1,5 +1,4 @@
-Agaricus crustatus Scop. SPECIES
-=======
+# Agaricus crustatus Scop. SPECIES
 
 #### Status
 ACCEPTED

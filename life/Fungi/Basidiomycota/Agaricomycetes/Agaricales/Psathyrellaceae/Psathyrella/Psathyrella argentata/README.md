@@ -1,5 +1,4 @@
-Psathyrella argentata A.H. Sm. SPECIES
-=======
+# Psathyrella argentata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

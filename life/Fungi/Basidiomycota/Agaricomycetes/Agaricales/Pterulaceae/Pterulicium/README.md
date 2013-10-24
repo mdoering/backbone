@@ -1,5 +1,4 @@
-Pterulicium Corner GENUS
-=======
+# Pterulicium Corner GENUS
 
 #### Status
 ACCEPTED

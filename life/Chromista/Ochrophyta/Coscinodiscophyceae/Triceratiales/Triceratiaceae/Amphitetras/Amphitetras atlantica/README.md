@@ -1,5 +1,4 @@
-Amphitetras atlantica (Castracane) De Toni SPECIES
-=======
+# Amphitetras atlantica (Castracane) De Toni SPECIES
 
 #### Status
 ACCEPTED

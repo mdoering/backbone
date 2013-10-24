@@ -1,5 +1,4 @@
-Cryptosporium vincae G.H. Otth SPECIES
-=======
+# Cryptosporium vincae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoplaca priestleyi (C.W. Dodge) Seppelt SPECIES
-=======
+# Rhizoplaca priestleyi (C.W. Dodge) Seppelt SPECIES
 
 #### Status
 ACCEPTED

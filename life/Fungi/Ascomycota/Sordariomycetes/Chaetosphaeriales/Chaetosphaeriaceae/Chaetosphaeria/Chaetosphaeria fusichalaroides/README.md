@@ -1,5 +1,4 @@
-Chaetosphaeria fusichalaroides Réblová, 2004 SPECIES
-=======
+# Chaetosphaeria fusichalaroides Réblová, 2004 SPECIES
 
 #### Status
 ACCEPTED

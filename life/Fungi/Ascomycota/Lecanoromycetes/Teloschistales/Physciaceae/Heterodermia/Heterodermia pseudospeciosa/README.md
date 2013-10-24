@@ -1,17 +1,16 @@
-Anaptychia pseudospeciosa f. pseudospeciosa FORM
-=======
+# Heterodermia pseudospeciosa (Kurok.) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 6: 25 (1962)
+Bryologist 69: 484 (1967)
 
 #### Original name
-Anaptychia pseudospeciosa f. pseudospeciosa
+Anaptychia pseudospeciosa Kurok.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia subgyrosa Nyl. SPECIES
-=======
+# Arthonia subgyrosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subcarminea Reumaux SPECIES
-=======
+# Russula subcarminea Reumaux SPECIES
 
 #### Status
 ACCEPTED

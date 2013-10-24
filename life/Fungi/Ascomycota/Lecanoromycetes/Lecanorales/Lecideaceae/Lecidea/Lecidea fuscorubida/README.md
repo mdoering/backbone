@@ -1,5 +1,4 @@
-Lecidea fuscorubida Nyl. SPECIES
-=======
+# Lecidea fuscorubida Nyl. SPECIES
 
 #### Status
 ACCEPTED

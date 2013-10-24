@@ -1,5 +1,4 @@
-Synhymenia jankowski (Aliev, 1990) Jankowski, 1992 SPECIES
-=======
+# Synhymenia jankowski (Aliev, 1990) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

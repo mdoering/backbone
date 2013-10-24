@@ -1,5 +1,4 @@
-Psilocybe moseri Guzmán SPECIES
-=======
+# Psilocybe moseri Guzmán SPECIES
 
 #### Status
 ACCEPTED

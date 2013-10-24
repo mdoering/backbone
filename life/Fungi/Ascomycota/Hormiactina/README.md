@@ -1,5 +1,4 @@
-Hormiactina GENUS
-=======
+# Hormiactina GENUS
 
 #### Status
 ACCEPTED

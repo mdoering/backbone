@@ -1,5 +1,4 @@
-Stemphylium berlesii Oudem. SPECIES
-=======
+# Stemphylium berlesii Oudem. SPECIES
 
 #### Status
 ACCEPTED

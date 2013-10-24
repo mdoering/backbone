@@ -1,5 +1,4 @@
-Anabaena lemmermannii f. laxa (Skuja) G. Cronberg & J. Komárek FORM
-=======
+# Anabaena lemmermannii P. Richter SPECIES
 
 #### Status
 ACCEPTED

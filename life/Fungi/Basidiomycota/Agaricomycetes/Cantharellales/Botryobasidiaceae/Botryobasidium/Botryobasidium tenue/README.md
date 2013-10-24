@@ -1,5 +1,4 @@
-Botryobasidium tenue Rick SPECIES
-=======
+# Botryobasidium tenue Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia cerastii Wallr. SPECIES
-=======
+# Puccinia cerastii Wallr. SPECIES
 
 #### Status
 ACCEPTED

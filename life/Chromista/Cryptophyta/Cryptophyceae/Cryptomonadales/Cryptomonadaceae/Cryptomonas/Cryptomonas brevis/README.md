@@ -1,5 +1,4 @@
-Cryptomonas brevis J.Schiller SPECIES
-=======
+# Cryptomonas brevis J.Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clypeosphaeria americana M.E. Barr & Samuels SPECIES
-=======
+# Clypeosphaeria americana M.E. Barr & Samuels SPECIES
 
 #### Status
 ACCEPTED

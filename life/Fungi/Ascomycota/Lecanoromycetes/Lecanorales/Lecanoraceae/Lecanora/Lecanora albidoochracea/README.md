@@ -1,5 +1,4 @@
-Lecanora albidoochracea Werner SPECIES
-=======
+# Lecanora albidoochracea Werner SPECIES
 
 #### Status
 ACCEPTED

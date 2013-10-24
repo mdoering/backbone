@@ -1,5 +1,4 @@
-Bicoeca lacustris (Clark) Stein SPECIES
-=======
+# Bicoeca lacustris (Clark) Stein SPECIES
 
 #### Status
 ACCEPTED

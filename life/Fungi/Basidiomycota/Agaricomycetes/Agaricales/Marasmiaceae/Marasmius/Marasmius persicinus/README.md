@@ -1,5 +1,4 @@
-Marasmius persicinus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius persicinus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

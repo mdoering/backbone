@@ -1,5 +1,4 @@
-Pleospora rotundata Reichert SPECIES
-=======
+# Pleospora rotundata Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosphaerella arecae (Syd.) E. Müll. SPECIES
-=======
+# Trichosphaerella arecae (Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

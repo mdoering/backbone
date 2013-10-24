@@ -1,5 +1,4 @@
-Hypholoma viscidipes A.H. Sm. SPECIES
-=======
+# Hypholoma viscidipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

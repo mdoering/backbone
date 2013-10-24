@@ -1,5 +1,4 @@
-Spicaria gongylophorae Sacc. SPECIES
-=======
+# Spicaria gongylophorae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola lagunensis Hansf. SPECIES
-=======
+# Meliola lagunensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

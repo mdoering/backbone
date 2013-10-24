@@ -1,14 +1,13 @@
-Tapesia atriseda (Saut.) Poetsch & Schied., 1872 SPECIES
-=======
+# Strossmayeria atriseda (Saut.) Iturr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Aufz. Krypt. Pfl. 158 (1872)
+in Iturriaga & Korf, Mycotaxon 36(2): 404 (1990)
 
 #### Original name
 null

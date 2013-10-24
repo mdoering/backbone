@@ -1,5 +1,4 @@
-Xylosphaera paraensis (Henn.) Bat. & R. Garnier SPECIES
-=======
+# Xylosphaera paraensis (Henn.) Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

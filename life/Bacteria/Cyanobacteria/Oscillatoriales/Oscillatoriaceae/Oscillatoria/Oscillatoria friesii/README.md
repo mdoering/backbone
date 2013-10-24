@@ -1,5 +1,4 @@
-Oscillatoria friesii C. Agardh SPECIES
-=======
+# Oscillatoria friesii C. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia tela (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Tapesia tela (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

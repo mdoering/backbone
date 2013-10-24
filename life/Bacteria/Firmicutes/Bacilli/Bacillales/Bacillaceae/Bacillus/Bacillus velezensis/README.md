@@ -1,5 +1,4 @@
-Bacillus velezensis Ruiz-García et al., 2005 SPECIES
-=======
+# Bacillus velezensis Ruiz-García et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromycetites concentricus Braun SPECIES
-=======
+# Uromycetites concentricus Braun SPECIES
 
 #### Status
 ACCEPTED

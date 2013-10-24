@@ -1,5 +1,4 @@
-Ammobaculites ineptus Cushman & McCulloch, 1939 SPECIES
-=======
+# Ammobaculites ineptus Cushman & McCulloch, 1939 SPECIES
 
 #### Status
 ACCEPTED

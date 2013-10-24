@@ -1,5 +1,4 @@
-Tubercularia aceris Opiz SPECIES
-=======
+# Tubercularia aceris Opiz SPECIES
 
 #### Status
 ACCEPTED

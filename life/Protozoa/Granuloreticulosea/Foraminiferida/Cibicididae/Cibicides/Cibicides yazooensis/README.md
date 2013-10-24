@@ -1,5 +1,4 @@
-Cibicides yazooensis Cushman, 1931 SPECIES
-=======
+# Cibicides yazooensis Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

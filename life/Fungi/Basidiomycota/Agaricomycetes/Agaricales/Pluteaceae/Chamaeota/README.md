@@ -1,14 +1,13 @@
-Annularia (Schulzer) Gillet GENUS
-=======
+# Chamaeota (W.G. Sm.) Earle GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Champignons de France. Tableaux Analytiques des Hyménomycétes (Alençon) 389 (1876)
+Bulletin of the New York Botanical Garden 5: 446 (1909)
 
 #### Original name
 null

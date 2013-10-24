@@ -1,5 +1,4 @@
-Curvularia oryzae Bugnic., 1959 SPECIES
-=======
+# Curvularia oryzae Bugnic., 1959 SPECIES
 
 #### Status
 ACCEPTED

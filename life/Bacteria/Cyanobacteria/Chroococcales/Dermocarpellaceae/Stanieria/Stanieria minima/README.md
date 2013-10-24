@@ -1,5 +1,4 @@
-Stanieria minima (Geitler) S. M. F. Silva & R. N. Pienaar SPECIES
-=======
+# Stanieria minima (Geitler) S. M. F. Silva & R. N. Pienaar SPECIES
 
 #### Status
 ACCEPTED

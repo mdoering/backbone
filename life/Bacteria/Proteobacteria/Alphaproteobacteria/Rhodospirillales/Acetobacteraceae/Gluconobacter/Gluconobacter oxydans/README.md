@@ -1,5 +1,4 @@
-Gluconobacter oxydans subsp. oxydans SUBSPECIES
-=======
+# Gluconobacter oxydans (Henneberg, 1897) De Ley, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capsicumyces delicatus Gamundí, Aramb. & Giaiotti, 1979 SPECIES
-=======
+# Capsicumyces delicatus Gamundí, Aramb. & Giaiotti, 1979 SPECIES
 
 #### Status
 ACCEPTED

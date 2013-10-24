@@ -1,5 +1,4 @@
-Trachysphaeridium filamentum Cao Jiuchi et al., 1979 SPECIES
-=======
+# Trachysphaeridium filamentum Cao Jiuchi et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corollospora novofusca Kohlm. & Volkm.-Kohlm., 1991 SPECIES
-=======
+# Corollospora novofusca Kohlm. & Volkm.-Kohlm., 1991 SPECIES
 
 #### Status
 ACCEPTED

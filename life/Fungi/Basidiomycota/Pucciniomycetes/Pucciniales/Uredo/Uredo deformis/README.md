@@ -1,5 +1,4 @@
-Uredo deformis (Tyagi & S.S. Prasad) Bagyan. & Ravinder SPECIES
-=======
+# Uredo deformis (Tyagi & S.S. Prasad) Bagyan. & Ravinder SPECIES
 
 #### Status
 ACCEPTED

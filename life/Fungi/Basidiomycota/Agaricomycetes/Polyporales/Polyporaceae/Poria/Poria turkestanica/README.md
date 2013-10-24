@@ -1,5 +1,4 @@
-Poria turkestanica Pilát SPECIES
-=======
+# Poria turkestanica Pilát SPECIES
 
 #### Status
 ACCEPTED

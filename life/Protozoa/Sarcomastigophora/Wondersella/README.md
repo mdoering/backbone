@@ -1,5 +1,4 @@
-Wondersella Banner & Strank, 1987 GENUS
-=======
+# Wondersella Banner & Strank, 1987 GENUS
 
 #### Status
 ACCEPTED

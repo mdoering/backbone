@@ -1,5 +1,4 @@
-Biatorella praenotata (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella praenotata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

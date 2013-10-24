@@ -1,5 +1,4 @@
-Chytridium elodeae P.A. Dang. SPECIES
-=======
+# Chytridium elodeae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

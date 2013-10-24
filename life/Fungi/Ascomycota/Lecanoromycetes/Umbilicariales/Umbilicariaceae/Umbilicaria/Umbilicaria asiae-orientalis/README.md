@@ -1,5 +1,4 @@
-Umbilicaria asiae-orientalis (Asahina) M. Satô SPECIES
-=======
+# Umbilicaria asiae-orientalis (Asahina) M. Satô SPECIES
 
 #### Status
 ACCEPTED

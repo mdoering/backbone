@@ -1,5 +1,4 @@
-Pterospermopsimorpha concentrica (Xing Yusheng & Liu Kuizhih, 1973) emend. Vidal, 1976 SPECIES
-=======
+# Pterospermopsimorpha concentrica (Xing Yusheng & Liu Kuizhih, 1973) emend. Vidal, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmidium gracile (Farl.) Arthur SPECIES
-=======
+# Phragmidium gracile (Farl.) Arthur SPECIES
 
 #### Status
 ACCEPTED

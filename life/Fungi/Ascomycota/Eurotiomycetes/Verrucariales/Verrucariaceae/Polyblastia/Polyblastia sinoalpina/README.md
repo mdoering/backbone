@@ -1,5 +1,4 @@
-Polyblastia sinoalpina Zahlbr. SPECIES
-=======
+# Polyblastia sinoalpina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

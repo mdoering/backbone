@@ -1,5 +1,4 @@
-Porina knysnana Zahlbr. SPECIES
-=======
+# Porina knysnana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

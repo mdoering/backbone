@@ -1,5 +1,4 @@
-Byssocladium candidum Link SPECIES
-=======
+# Byssocladium candidum Link SPECIES
 
 #### Status
 ACCEPTED

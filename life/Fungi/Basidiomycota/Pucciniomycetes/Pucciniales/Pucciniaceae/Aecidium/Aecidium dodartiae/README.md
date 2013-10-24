@@ -1,5 +1,4 @@
-Aecidium dodartiae Tranzschel SPECIES
-=======
+# Aecidium dodartiae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

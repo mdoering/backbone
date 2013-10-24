@@ -1,5 +1,4 @@
-Anabaena halbfassi Bachmann SPECIES
-=======
+# Anabaena halbfassi Bachmann SPECIES
 
 #### Status
 ACCEPTED

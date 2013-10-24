@@ -1,5 +1,4 @@
-Helminthosporium phragmidium Pound & Clem. SPECIES
-=======
+# Helminthosporium phragmidium Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

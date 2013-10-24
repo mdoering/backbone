@@ -1,5 +1,4 @@
-Restiosporium lepyrodiae Vánky, 2006 SPECIES
-=======
+# Restiosporium lepyrodiae Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

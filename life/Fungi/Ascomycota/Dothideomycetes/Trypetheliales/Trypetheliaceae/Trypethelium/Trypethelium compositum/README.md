@@ -1,5 +1,4 @@
-Trypethelium compositum (Vain.) Zahlbr. SPECIES
-=======
+# Trypethelium compositum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

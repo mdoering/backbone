@@ -1,5 +1,4 @@
-Polystictus sordidus (Berk.) Fr. SPECIES
-=======
+# Polystictus sordidus (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

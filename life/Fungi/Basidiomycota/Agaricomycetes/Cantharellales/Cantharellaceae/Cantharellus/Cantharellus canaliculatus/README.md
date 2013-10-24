@@ -1,5 +1,4 @@
-Cantharellus canaliculatus (Pers.) Quél. SPECIES
-=======
+# Cantharellus canaliculatus (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

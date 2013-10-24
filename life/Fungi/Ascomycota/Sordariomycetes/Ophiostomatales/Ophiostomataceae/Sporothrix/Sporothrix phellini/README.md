@@ -1,5 +1,4 @@
-Sporothrix phellini G.R.W. Arnold SPECIES
-=======
+# Sporothrix phellini G.R.W. Arnold SPECIES
 
 #### Status
 ACCEPTED

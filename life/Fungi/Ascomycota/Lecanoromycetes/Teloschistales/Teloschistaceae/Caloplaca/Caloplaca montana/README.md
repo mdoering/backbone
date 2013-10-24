@@ -1,5 +1,4 @@
-Caloplaca montana B. de Lesd. SPECIES
-=======
+# Caloplaca montana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma oculatum Bruchet SPECIES
-=======
+# Hebeloma oculatum Bruchet SPECIES
 
 #### Status
 ACCEPTED

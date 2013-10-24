@@ -1,5 +1,4 @@
-Xylaria kegeliana (Lév.) Fr. SPECIES
-=======
+# Xylaria kegeliana (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrowallemia R.F. Castañeda, D. García & Guarro GENUS
-=======
+# Arthrowallemia R.F. Castañeda, D. García & Guarro GENUS
 
 #### Status
 ACCEPTED

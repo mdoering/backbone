@@ -1,5 +1,4 @@
-Usnea ramosii Herre SPECIES
-=======
+# Usnea ramosii Herre SPECIES
 
 #### Status
 ACCEPTED

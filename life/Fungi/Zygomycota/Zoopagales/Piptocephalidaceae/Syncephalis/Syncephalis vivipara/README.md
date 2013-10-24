@@ -1,5 +1,4 @@
-Syncephalis vivipara B.S. Mehrotra & R. Prasad SPECIES
-=======
+# Syncephalis vivipara B.S. Mehrotra & R. Prasad SPECIES
 
 #### Status
 ACCEPTED

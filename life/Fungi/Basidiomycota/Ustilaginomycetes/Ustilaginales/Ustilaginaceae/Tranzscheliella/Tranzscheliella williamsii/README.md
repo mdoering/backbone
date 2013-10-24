@@ -1,14 +1,13 @@
-Sorosporium williamsii Griffiths, 1902 SPECIES
-=======
+# Tranzscheliella williamsii (Griffiths) Dingley & Versluys, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 29: 296 (1902)
+N. Z. Jl Bot. 15(2): 477 (1977)
 
 #### Original name
 Sorosporium williamsii Griffiths, 1902

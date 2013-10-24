@@ -1,5 +1,4 @@
-Diplodina arenariae Massee SPECIES
-=======
+# Diplodina arenariae Massee SPECIES
 
 #### Status
 ACCEPTED

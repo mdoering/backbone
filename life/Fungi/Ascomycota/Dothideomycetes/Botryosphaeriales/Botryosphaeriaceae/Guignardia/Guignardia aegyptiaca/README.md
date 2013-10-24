@@ -1,5 +1,4 @@
-Guignardia aegyptiaca (Müll. Arg.) Reichert SPECIES
-=======
+# Guignardia aegyptiaca (Müll. Arg.) Reichert SPECIES
 
 #### Status
 ACCEPTED

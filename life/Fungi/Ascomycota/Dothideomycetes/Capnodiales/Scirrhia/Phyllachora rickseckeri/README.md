@@ -1,5 +1,4 @@
-Phyllachora rickseckeri Ellis & Kelsey ex Seaver, 1925 SPECIES
-=======
+# Phyllachora rickseckeri Ellis & Kelsey ex Seaver, 1925 SPECIES
 
 #### Status
 DOUBTFUL

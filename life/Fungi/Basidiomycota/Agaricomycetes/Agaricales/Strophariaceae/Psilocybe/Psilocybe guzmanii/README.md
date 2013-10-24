@@ -1,5 +1,4 @@
-Psilocybe guzmanii Natarajan & Raman SPECIES
-=======
+# Psilocybe guzmanii Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

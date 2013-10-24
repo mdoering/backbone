@@ -1,5 +1,4 @@
-Tilletia salzmannii Maire SPECIES
-=======
+# Tilletia salzmannii Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus rigelliae Velen. SPECIES
-=======
+# Hygrophorus rigelliae Velen. SPECIES
 
 #### Status
 ACCEPTED

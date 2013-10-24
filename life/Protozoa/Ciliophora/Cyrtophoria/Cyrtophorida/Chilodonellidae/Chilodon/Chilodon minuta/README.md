@@ -1,5 +1,4 @@
-Chilodon minuta SPECIES
-=======
+# Chilodon minuta SPECIES
 
 #### Status
 ACCEPTED

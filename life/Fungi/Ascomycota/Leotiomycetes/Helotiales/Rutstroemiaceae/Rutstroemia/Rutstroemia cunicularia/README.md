@@ -1,5 +1,4 @@
-Rutstroemia cunicularia (Boud.) M.E. Elliott SPECIES
-=======
+# Rutstroemia cunicularia (Boud.) M.E. Elliott SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonulina coronaria (Brunaud) Tassi SPECIES
-=======
+# Hendersonulina coronaria (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

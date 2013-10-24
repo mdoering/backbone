@@ -1,5 +1,4 @@
-Valvulineria wilcoxensis Cushman & Ponton SPECIES
-=======
+# Valvulineria wilcoxensis Cushman & Ponton SPECIES
 
 #### Status
 ACCEPTED

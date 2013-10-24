@@ -1,5 +1,4 @@
-Stereocaulon conglomeratum (Th. Fr.) Vain. SPECIES
-=======
+# Stereocaulon conglomeratum (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

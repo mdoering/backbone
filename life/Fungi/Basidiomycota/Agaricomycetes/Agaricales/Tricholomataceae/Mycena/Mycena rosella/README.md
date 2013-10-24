@@ -1,8 +1,7 @@
-Mycena strobilina sensu Rea (1922) SPECIES
-=======
+# Mycena rosella (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

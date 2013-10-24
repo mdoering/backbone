@@ -1,5 +1,4 @@
-Pirottaea dubia Ade SPECIES
-=======
+# Pirottaea dubia Ade SPECIES
 
 #### Status
 ACCEPTED

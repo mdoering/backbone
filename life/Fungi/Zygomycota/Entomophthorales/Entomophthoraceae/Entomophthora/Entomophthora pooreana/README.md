@@ -1,5 +1,4 @@
-Entomophthora pooreana A.L. Sm. SPECIES
-=======
+# Entomophthora pooreana A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema mirabilis (Speg.) Jacz. SPECIES
-=======
+# Sphaeronaema mirabilis (Speg.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

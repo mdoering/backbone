@@ -1,5 +1,4 @@
-Marasmius edodoides Corner SPECIES
-=======
+# Marasmius edodoides Corner SPECIES
 
 #### Status
 ACCEPTED

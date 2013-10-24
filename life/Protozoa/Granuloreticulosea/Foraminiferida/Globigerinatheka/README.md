@@ -1,5 +1,4 @@
-Globigerinatheka Brönnimann, 1952 GENUS
-=======
+# Globigerinatheka Brönnimann, 1952 GENUS
 
 #### Status
 ACCEPTED

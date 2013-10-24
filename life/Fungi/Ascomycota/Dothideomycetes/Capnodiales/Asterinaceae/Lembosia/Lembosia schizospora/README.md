@@ -1,5 +1,4 @@
-Lembosia schizospora (Zahlbr.) Petr. SPECIES
-=======
+# Lembosia schizospora (Zahlbr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

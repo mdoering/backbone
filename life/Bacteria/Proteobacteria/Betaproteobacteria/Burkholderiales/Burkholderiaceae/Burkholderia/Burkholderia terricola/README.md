@@ -1,5 +1,4 @@
-Burkholderia terricola Goris et al., 2003 SPECIES
-=======
+# Burkholderia terricola Goris et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

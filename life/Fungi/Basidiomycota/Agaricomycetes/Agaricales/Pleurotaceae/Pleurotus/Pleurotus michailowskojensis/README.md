@@ -1,8 +1,7 @@
-Pleurotus michailowskoensis (Henn.) Pilát SPECIES
-=======
+# Pleurotus michailowskojensis (Henn.) Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

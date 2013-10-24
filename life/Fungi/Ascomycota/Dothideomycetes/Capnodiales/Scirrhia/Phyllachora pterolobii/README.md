@@ -1,5 +1,4 @@
-Phyllachora pterolobii (T.S. Ramakr. & K. Ramakr.) Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachora pterolobii (T.S. Ramakr. & K. Ramakr.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 DOUBTFUL

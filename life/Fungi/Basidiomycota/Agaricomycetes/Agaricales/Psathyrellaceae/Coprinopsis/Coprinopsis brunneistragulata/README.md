@@ -1,5 +1,4 @@
-Coprinopsis brunneistragulata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis brunneistragulata (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo bomareae Lagerh. SPECIES
-=======
+# Uredo bomareae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

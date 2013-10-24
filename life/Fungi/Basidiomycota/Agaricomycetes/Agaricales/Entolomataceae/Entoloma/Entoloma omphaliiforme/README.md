@@ -1,5 +1,4 @@
-Entoloma omphaliiforme (Velen.) Noordel. SPECIES
-=======
+# Entoloma omphaliiforme (Velen.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

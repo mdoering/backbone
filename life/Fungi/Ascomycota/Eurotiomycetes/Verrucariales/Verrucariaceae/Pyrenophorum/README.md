@@ -1,5 +1,4 @@
-Pyrenophorum GENUS
-=======
+# Pyrenophorum GENUS
 
 #### Status
 ACCEPTED

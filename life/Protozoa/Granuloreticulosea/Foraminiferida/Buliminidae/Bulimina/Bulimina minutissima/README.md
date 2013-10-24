@@ -1,5 +1,4 @@
-Bulimina minutissima Wright SPECIES
-=======
+# Bulimina minutissima Wright SPECIES
 
 #### Status
 ACCEPTED

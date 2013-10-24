@@ -1,5 +1,4 @@
-Rhabdospora umbrosa E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Rhabdospora umbrosa E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

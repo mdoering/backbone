@@ -1,5 +1,4 @@
-Seiridium viburni (Sousa da Câmara & Luz) B. Sutton SPECIES
-=======
+# Seiridium viburni (Sousa da Câmara & Luz) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfurella propionica Miroshnichenko, 1998 SPECIES
-=======
+# Desulfurella propionica Miroshnichenko, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastrolactarius textus (J.W. Cribb) J.M. Vidal SPECIES
-=======
+# Gastrolactarius textus (J.W. Cribb) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

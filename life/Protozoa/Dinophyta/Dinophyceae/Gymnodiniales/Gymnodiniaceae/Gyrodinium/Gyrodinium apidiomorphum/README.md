@@ -1,5 +1,4 @@
-Gyrodinium apidiomorphum Norris, 1961 SPECIES
-=======
+# Gyrodinium apidiomorphum Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

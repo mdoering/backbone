@@ -1,5 +1,4 @@
-Septoria brevispora (Sacc.) Zeller SPECIES
-=======
+# Septoria brevispora (Sacc.) Zeller SPECIES
 
 #### Status
 ACCEPTED

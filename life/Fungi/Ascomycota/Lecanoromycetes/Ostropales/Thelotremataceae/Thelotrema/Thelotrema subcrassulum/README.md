@@ -1,5 +1,4 @@
-Thelotrema subcrassulum Vain. SPECIES
-=======
+# Thelotrema subcrassulum Vain. SPECIES
 
 #### Status
 ACCEPTED

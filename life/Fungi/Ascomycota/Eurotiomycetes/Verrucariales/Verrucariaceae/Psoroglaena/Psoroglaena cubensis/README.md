@@ -1,17 +1,16 @@
-Psoroglaena cubensis var. cubensis VARIETY
-=======
+# Psoroglaena cubensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 74: (1891)
 
 #### Original name
-Psoroglaena cubensis var. cubensis
+Psoroglaena cubensis Müll. Arg.
 
 ### Remarks
 null

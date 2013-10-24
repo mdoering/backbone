@@ -1,5 +1,4 @@
-Myceligenerans Cui et al., 2004 GENUS
-=======
+# Myceligenerans Cui et al., 2004 GENUS
 
 #### Status
 ACCEPTED

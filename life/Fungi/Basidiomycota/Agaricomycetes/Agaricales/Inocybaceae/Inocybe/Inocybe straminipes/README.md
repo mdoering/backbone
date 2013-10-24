@@ -1,5 +1,4 @@
-Inocybe straminipes Romagn. SPECIES
-=======
+# Inocybe straminipes Romagn. SPECIES
 
 #### Status
 ACCEPTED

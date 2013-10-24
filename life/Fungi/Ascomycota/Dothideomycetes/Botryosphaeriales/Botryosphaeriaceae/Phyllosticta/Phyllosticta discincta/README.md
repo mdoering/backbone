@@ -1,5 +1,4 @@
-Phyllosticta discincta Davis SPECIES
-=======
+# Phyllosticta discincta Davis SPECIES
 
 #### Status
 ACCEPTED

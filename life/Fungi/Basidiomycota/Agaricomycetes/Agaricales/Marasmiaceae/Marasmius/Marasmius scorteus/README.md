@@ -1,5 +1,4 @@
-Marasmius scorteus Fr. SPECIES
-=======
+# Marasmius scorteus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria saloisensis P. Karst. SPECIES
-=======
+# Poria saloisensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

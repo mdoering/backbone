@@ -1,5 +1,4 @@
-Asterina thylachii Mibey SPECIES
-=======
+# Asterina thylachii Mibey SPECIES
 
 #### Status
 ACCEPTED

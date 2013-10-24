@@ -1,5 +1,4 @@
-Chaetoseptoria vignae Tehon, 1937 SPECIES
-=======
+# Chaetoseptoria vignae Tehon, 1937 SPECIES
 
 #### Status
 ACCEPTED

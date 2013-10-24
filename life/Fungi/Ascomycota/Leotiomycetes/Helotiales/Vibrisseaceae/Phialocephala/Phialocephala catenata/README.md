@@ -1,5 +1,4 @@
-Phialocephala catenata ined. SPECIES
-=======
+# Phialocephala catenata ined. SPECIES
 
 #### Status
 ACCEPTED

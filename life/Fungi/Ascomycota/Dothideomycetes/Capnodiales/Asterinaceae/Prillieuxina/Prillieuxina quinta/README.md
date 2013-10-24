@@ -1,5 +1,4 @@
-Prillieuxina quinta (Racib.) R.W. Ryan SPECIES
-=======
+# Prillieuxina quinta (Racib.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

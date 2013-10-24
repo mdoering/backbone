@@ -1,17 +1,16 @@
-Heptameria taxicola (Sacc.) Cooke, 1889 SPECIES
-=======
+# Dothiora taxicola (Sacc.) M.E. Barr, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Univ. Mich. Herb. 9(8): 575 (1972)
 
 #### Original name
-null
+Sphaeria taxicola Peck, 1869
 
 ### Remarks
 null

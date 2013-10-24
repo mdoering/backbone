@@ -1,5 +1,4 @@
-Asteromassaria distincta (Schwein.) M.E. Barr SPECIES
-=======
+# Asteromassaria distincta (Schwein.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

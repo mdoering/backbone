@@ -1,5 +1,4 @@
-Methanofollis formosanus Wu et al., 2005 SPECIES
-=======
+# Methanofollis formosanus Wu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

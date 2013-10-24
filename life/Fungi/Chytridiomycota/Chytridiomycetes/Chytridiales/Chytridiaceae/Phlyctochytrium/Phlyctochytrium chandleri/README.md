@@ -1,5 +1,4 @@
-Phlyctochytrium chandleri Sparrow SPECIES
-=======
+# Phlyctochytrium chandleri Sparrow SPECIES
 
 #### Status
 ACCEPTED

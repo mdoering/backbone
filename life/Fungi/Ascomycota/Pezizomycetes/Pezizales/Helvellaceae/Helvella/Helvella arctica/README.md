@@ -1,5 +1,4 @@
-Helvella arctica var. arctica VARIETY
-=======
+# Helvella arctica Nannf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helvella arctica var. arctica
+Helvella arctica Nannf.
 
 ### Remarks
 null

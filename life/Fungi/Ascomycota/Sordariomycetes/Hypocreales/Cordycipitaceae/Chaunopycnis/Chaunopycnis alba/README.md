@@ -1,5 +1,4 @@
-Chaunopycnis alba W. Gams, 1979 SPECIES
-=======
+# Chaunopycnis alba W. Gams, 1979 SPECIES
 
 #### Status
 ACCEPTED

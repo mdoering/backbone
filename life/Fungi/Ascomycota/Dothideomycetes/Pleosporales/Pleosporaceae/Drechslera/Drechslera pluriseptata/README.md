@@ -1,5 +1,4 @@
-Drechslera pluriseptata Khetarpal, R. Nath & S.P. Lal SPECIES
-=======
+# Drechslera pluriseptata Khetarpal, R. Nath & S.P. Lal SPECIES
 
 #### Status
 ACCEPTED

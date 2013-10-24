@@ -1,5 +1,4 @@
-Psilocybe quebecensis Ola'h & R. Heim, 1967 SPECIES
-=======
+# Psilocybe quebecensis Ola'h & R. Heim, 1967 SPECIES
 
 #### Status
 ACCEPTED

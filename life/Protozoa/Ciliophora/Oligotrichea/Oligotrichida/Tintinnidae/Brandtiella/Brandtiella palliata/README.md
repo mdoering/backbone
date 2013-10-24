@@ -1,5 +1,4 @@
-Brandtiella palliata (Brandt, 1906) Kofoid & Campbell, 1929 SPECIES
-=======
+# Brandtiella palliata (Brandt, 1906) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

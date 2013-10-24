@@ -1,5 +1,4 @@
-Euglandulina striatula (Cushman, 1917) SPECIES
-=======
+# Euglandulina striatula (Cushman, 1917) SPECIES
 
 #### Status
 ACCEPTED

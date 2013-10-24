@@ -1,5 +1,4 @@
-Drechslera helianthi Hulea SPECIES
-=======
+# Drechslera helianthi Hulea SPECIES
 
 #### Status
 ACCEPTED

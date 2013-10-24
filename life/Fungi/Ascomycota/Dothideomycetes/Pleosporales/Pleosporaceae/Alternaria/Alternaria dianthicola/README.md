@@ -1,5 +1,4 @@
-Alternaria dianthicola Neerg., 1945 SPECIES
-=======
+# Alternaria dianthicola Neerg., 1945 SPECIES
 
 #### Status
 ACCEPTED

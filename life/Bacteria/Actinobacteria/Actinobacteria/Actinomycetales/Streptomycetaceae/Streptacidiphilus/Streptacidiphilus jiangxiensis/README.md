@@ -1,5 +1,4 @@
-Streptacidiphilus jiangxiensis Huang et al., 2005 SPECIES
-=======
+# Streptacidiphilus jiangxiensis Huang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius summomaculatus Rob. Henry SPECIES
-=======
+# Cortinarius summomaculatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

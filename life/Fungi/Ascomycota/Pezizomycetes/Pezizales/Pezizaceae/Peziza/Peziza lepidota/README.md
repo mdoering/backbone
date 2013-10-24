@@ -1,5 +1,4 @@
-Peziza lepidota Fr. SPECIES
-=======
+# Peziza lepidota Fr. SPECIES
 
 #### Status
 ACCEPTED

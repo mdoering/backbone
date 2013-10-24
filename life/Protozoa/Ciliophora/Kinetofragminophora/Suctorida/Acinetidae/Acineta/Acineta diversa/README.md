@@ -1,5 +1,4 @@
-Acineta diversa SPECIES
-=======
+# Acineta diversa SPECIES
 
 #### Status
 ACCEPTED

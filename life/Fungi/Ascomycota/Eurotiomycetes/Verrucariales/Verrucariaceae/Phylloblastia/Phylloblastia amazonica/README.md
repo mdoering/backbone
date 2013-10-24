@@ -1,5 +1,4 @@
-Phylloblastia amazonica Kalb & Vezda SPECIES
-=======
+# Phylloblastia amazonica Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

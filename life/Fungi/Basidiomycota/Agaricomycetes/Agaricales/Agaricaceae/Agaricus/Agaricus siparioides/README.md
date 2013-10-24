@@ -1,5 +1,4 @@
-Agaricus siparioides Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus siparioides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

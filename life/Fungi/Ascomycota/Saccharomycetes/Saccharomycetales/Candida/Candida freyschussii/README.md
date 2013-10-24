@@ -1,5 +1,4 @@
-Candida freyschussii H.R. Buckley & Uden, 1968 SPECIES
-=======
+# Candida freyschussii H.R. Buckley & Uden, 1968 SPECIES
 
 #### Status
 ACCEPTED

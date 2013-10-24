@@ -1,5 +1,4 @@
-Pleurotus alocasiae Corner, 1981 SPECIES
-=======
+# Pleurotus alocasiae Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Resupinatus subbarbatus (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Resupinatus subbarbatus (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

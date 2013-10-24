@@ -1,5 +1,4 @@
-Meliola conostegiae (F. Stevens) Cif. SPECIES
-=======
+# Meliola conostegiae (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophthora staritzii (Bres.) Bubák SPECIES
-=======
+# Entomophthora staritzii (Bres.) Bubák SPECIES
 
 #### Status
 ACCEPTED

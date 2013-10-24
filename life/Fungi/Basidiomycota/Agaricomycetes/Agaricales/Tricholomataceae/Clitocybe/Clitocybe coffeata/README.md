@@ -1,14 +1,13 @@
-Clitocybe coffeatus (Fr.) Quél. SPECIES
-=======
+# Clitocybe coffeata (Fr.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 87 (1872)
 
 #### Original name
 Agaricus coffeatus Fr.

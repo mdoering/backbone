@@ -1,5 +1,4 @@
-Vibrio midae Macey & Coyne, 2006 SPECIES
-=======
+# Vibrio midae Macey & Coyne, 2006 SPECIES
 
 #### Status
 ACCEPTED

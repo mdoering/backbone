@@ -1,5 +1,4 @@
-Schizoblastosporion Cif. GENUS
-=======
+# Schizoblastosporion Cif. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirneola ampla (Pers.) Fr. SPECIES
-=======
+# Hirneola ampla (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

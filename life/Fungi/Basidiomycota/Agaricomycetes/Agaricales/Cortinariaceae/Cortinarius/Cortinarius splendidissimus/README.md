@@ -1,5 +1,4 @@
-Cortinarius splendidissimus Rob. Henry SPECIES
-=======
+# Cortinarius splendidissimus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

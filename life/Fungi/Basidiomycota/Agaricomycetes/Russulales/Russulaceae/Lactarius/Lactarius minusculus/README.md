@@ -1,5 +1,4 @@
-Lactarius minusculus Burl. SPECIES
-=======
+# Lactarius minusculus Burl. SPECIES
 
 #### Status
 ACCEPTED

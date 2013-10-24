@@ -1,5 +1,4 @@
-Dothiorella dauci Vala, J.N. Kapoor & Chowdhry SPECIES
-=======
+# Dothiorella dauci Vala, J.N. Kapoor & Chowdhry SPECIES
 
 #### Status
 ACCEPTED

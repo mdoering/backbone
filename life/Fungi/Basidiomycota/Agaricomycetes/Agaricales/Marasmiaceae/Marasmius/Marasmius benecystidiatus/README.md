@@ -1,5 +1,4 @@
-Marasmius benecystidiatus Corner SPECIES
-=======
+# Marasmius benecystidiatus Corner SPECIES
 
 #### Status
 ACCEPTED

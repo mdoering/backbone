@@ -1,5 +1,4 @@
-Cyanisticta philippinica SPECIES
-=======
+# Cyanisticta philippinica SPECIES
 
 #### Status
 ACCEPTED

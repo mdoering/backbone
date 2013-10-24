@@ -1,5 +1,4 @@
-Ceratostoma fairmanii Sacc. SPECIES
-=======
+# Ceratostoma fairmanii Sacc. SPECIES
 
 #### Status
 ACCEPTED

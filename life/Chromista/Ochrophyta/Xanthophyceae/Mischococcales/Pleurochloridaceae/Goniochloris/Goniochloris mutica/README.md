@@ -1,5 +1,4 @@
-Goniochloris mutica (A.Braun) Fott SPECIES
-=======
+# Goniochloris mutica (A.Braun) Fott SPECIES
 
 #### Status
 ACCEPTED

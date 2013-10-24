@@ -1,5 +1,4 @@
-Urocystis cholerae Hallier SPECIES
-=======
+# Urocystis cholerae Hallier SPECIES
 
 #### Status
 ACCEPTED

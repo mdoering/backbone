@@ -1,5 +1,4 @@
-Hypogymnia subcapitata (Nyl.) Rass. SPECIES
-=======
+# Hypogymnia subcapitata (Nyl.) Rass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia effusa Peck SPECIES
-=======
+# Ramularia effusa Peck SPECIES
 
 #### Status
 ACCEPTED

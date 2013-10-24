@@ -1,5 +1,4 @@
-Cyanothece halobia M. Roussomoustakaki & K. Anagnostidis SPECIES
-=======
+# Cyanothece halobia M. Roussomoustakaki & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

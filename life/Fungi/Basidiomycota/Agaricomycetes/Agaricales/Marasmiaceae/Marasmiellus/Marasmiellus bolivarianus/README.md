@@ -1,5 +1,4 @@
-Marasmiellus bolivarianus Singer SPECIES
-=======
+# Marasmiellus bolivarianus Singer SPECIES
 
 #### Status
 ACCEPTED

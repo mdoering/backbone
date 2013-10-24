@@ -1,5 +1,4 @@
-Baltisphaeridium magnoporatum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium magnoporatum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

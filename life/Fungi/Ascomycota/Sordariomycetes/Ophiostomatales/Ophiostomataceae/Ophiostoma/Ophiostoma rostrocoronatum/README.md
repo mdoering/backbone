@@ -1,14 +1,13 @@
-Ceratocystis rostrocoronata R.W. Davidson & Eslyn, 1976 SPECIES
-=======
+# Ophiostoma rostrocoronatum (R.W. Davidson & Eslyn) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. N. Y. bot. Gdn 28(1): 50 (1976)
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis rostrocoronata R.W. Davidson & Eslyn, 1976

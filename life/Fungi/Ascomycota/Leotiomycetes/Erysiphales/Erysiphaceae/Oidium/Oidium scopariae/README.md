@@ -1,5 +1,4 @@
-Oidium scopariae (N.D. Sharma & A.C. Jain) Bhagyan. & Ramachar SPECIES
-=======
+# Oidium scopariae (N.D. Sharma & A.C. Jain) Bhagyan. & Ramachar SPECIES
 
 #### Status
 ACCEPTED

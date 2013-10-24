@@ -1,5 +1,4 @@
-Gymnopus melanopus A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus melanopus A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

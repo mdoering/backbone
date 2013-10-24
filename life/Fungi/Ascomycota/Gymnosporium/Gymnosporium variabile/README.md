@@ -1,5 +1,4 @@
-Gymnosporium variabile Peck SPECIES
-=======
+# Gymnosporium variabile Peck SPECIES
 
 #### Status
 ACCEPTED

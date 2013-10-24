@@ -1,5 +1,4 @@
-Helotium polytrichi Velen. SPECIES
-=======
+# Helotium polytrichi Velen. SPECIES
 
 #### Status
 ACCEPTED

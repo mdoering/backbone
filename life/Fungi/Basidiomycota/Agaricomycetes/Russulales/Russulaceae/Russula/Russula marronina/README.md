@@ -1,5 +1,4 @@
-Russula marronina Pegler SPECIES
-=======
+# Russula marronina Pegler SPECIES
 
 #### Status
 ACCEPTED

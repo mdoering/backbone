@@ -1,5 +1,4 @@
-Alectoria cornicularioides P.M. Jørg. SPECIES
-=======
+# Alectoria cornicularioides P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

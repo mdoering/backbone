@@ -1,5 +1,4 @@
-Dentalina melvillensis Loeblich & Tappan, 1953 SPECIES
-=======
+# Dentalina melvillensis Loeblich & Tappan, 1953 SPECIES
 
 #### Status
 ACCEPTED

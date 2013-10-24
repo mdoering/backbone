@@ -1,5 +1,4 @@
-Rhizomorpha confervoides Chaillet SPECIES
-=======
+# Rhizomorpha confervoides Chaillet SPECIES
 
 #### Status
 ACCEPTED

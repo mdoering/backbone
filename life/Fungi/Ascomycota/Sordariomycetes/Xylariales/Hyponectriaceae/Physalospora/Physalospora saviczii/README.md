@@ -1,5 +1,4 @@
-Physalospora saviczii (Lebedeva) Arx & E. Müll. SPECIES
-=======
+# Physalospora saviczii (Lebedeva) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

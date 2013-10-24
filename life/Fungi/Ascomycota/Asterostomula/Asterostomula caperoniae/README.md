@@ -1,5 +1,4 @@
-Asterostomula caperoniae (Speg.) Bat. & Cif. SPECIES
-=======
+# Asterostomula caperoniae (Speg.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

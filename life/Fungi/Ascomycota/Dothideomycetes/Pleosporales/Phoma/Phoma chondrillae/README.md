@@ -1,5 +1,4 @@
-Phoma chondrillae Hollós SPECIES
-=======
+# Phoma chondrillae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agyriellopsis coeruleoatra Höhn. SPECIES
-=======
+# Agyriellopsis caeruleoatra Höhn., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 1(5): 404 (1903)
 
 #### Original name
-Agyriellopsis coeruleoatra Höhn.
+Agyriellopsis caeruleoatra Höhn., 1903
 
 ### Remarks
 null

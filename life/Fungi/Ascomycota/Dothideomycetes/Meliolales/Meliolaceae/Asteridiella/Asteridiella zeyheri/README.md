@@ -1,5 +1,4 @@
-Asteridiella zeyheri (Doidge) Hansf. SPECIES
-=======
+# Asteridiella zeyheri (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED

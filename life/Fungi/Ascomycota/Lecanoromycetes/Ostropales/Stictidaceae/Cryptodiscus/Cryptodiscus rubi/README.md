@@ -1,5 +1,4 @@
-Cryptodiscus rubi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Cryptodiscus rubi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

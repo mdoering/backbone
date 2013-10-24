@@ -1,5 +1,4 @@
-Arthonia farinacea (H. Olivier) R. Sant. SPECIES
-=======
+# Arthonia farinacea (H. Olivier) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

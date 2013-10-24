@@ -1,5 +1,4 @@
-Laminaria cornea Bory de St.-Vincent SPECIES
-=======
+# Laminaria cornea Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

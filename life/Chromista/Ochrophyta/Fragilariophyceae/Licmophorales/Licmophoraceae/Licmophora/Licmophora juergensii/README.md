@@ -1,5 +1,4 @@
-Licmophora juergensii C. Agardh SPECIES
-=======
+# Licmophora juergensii C. Agardh SPECIES
 
 #### Status
 ACCEPTED

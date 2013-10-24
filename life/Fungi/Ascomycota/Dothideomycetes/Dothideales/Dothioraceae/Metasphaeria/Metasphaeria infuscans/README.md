@@ -1,5 +1,4 @@
-Metasphaeria infuscans Ellis & Everh. SPECIES
-=======
+# Metasphaeria infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptographium hymenaeae C. Ram & A. Ram SPECIES
-=======
+# Leptographium hymenaeae C. Ram & A. Ram SPECIES
 
 #### Status
 ACCEPTED

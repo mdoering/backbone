@@ -1,5 +1,4 @@
-Coscinodiscus curvatalus Grunow SPECIES
-=======
+# Coscinodiscus curvatalus Grunow SPECIES
 
 #### Status
 ACCEPTED

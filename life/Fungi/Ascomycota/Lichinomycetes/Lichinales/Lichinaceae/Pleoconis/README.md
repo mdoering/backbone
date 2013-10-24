@@ -1,5 +1,4 @@
-Pleoconis GENUS
-=======
+# Pleoconis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haloterrigena longa Cui et al., 2006 SPECIES
-=======
+# Haloterrigena longa Cui et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

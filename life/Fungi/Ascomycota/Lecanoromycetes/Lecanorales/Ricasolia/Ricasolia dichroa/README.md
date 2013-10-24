@@ -1,5 +1,4 @@
-Ricasolia dichroa Nyl. SPECIES
-=======
+# Ricasolia dichroa Nyl. SPECIES
 
 #### Status
 ACCEPTED

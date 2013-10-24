@@ -1,5 +1,4 @@
-Scolecopeltidium nectandrae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium nectandrae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

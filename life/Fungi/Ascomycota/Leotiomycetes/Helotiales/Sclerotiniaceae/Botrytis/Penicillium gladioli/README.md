@@ -1,8 +1,7 @@
-Penicillium asperum (Shear) Sizova & Suprun, 1962 SPECIES
-=======
+# Penicillium gladioli Machacek, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

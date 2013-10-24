@@ -1,5 +1,4 @@
-Ascochyta roystoneicola Punith. SPECIES
-=======
+# Ascochyta roystoneicola Punith. SPECIES
 
 #### Status
 ACCEPTED

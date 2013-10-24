@@ -1,5 +1,4 @@
-Lecanora diplacia Ach. SPECIES
-=======
+# Lecanora diplacia Ach. SPECIES
 
 #### Status
 ACCEPTED

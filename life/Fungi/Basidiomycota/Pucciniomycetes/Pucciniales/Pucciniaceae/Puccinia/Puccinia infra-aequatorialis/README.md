@@ -1,5 +1,4 @@
-Puccinia infra-aequatorialis Jørst. SPECIES
-=======
+# Puccinia infra-aequatorialis Jørst. SPECIES
 
 #### Status
 ACCEPTED

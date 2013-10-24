@@ -1,5 +1,4 @@
-Gyalecta epulotica f. epulotica FORM
-=======
+# Hymenelia epulotica (Ach.) Lutzoni SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+in Lutzoni & Brodo, Syst. Bot. 20(3): 250 (1995)
 
 #### Original name
-Gyalecta epulotica f. epulotica
+Gyalecta epulotica Ach.
 
 ### Remarks
 null

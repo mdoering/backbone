@@ -1,5 +1,4 @@
-Rhizosolenia gracilis H.L. Smith SPECIES
-=======
+# Rhizosolenia gracilis H.L. Smith SPECIES
 
 #### Status
 ACCEPTED

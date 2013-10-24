@@ -1,5 +1,4 @@
-Cortinarius alticaudus Reumaux SPECIES
-=======
+# Cortinarius alticaudus Reumaux SPECIES
 
 #### Status
 ACCEPTED

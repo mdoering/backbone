@@ -1,5 +1,4 @@
-Stilbella larvarum Kobayasi SPECIES
-=======
+# Stilbella larvarum Kobayasi SPECIES
 
 #### Status
 ACCEPTED

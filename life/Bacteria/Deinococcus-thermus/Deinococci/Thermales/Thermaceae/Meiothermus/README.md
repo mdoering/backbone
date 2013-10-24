@@ -1,5 +1,4 @@
-Meiothermus Nobre, Truper & Costa, 1996 GENUS
-=======
+# Meiothermus Nobre, Truper & Costa, 1996 GENUS
 
 #### Status
 ACCEPTED

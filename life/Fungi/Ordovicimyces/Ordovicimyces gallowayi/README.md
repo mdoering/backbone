@@ -1,5 +1,4 @@
-Ordovicimyces gallowayi M.K. Elias SPECIES
-=======
+# Ordovicimyces gallowayi M.K. Elias SPECIES
 
 #### Status
 ACCEPTED

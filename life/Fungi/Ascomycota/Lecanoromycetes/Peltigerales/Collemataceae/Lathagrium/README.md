@@ -1,5 +1,4 @@
-Lathagrium GENUS
-=======
+# Lathagrium GENUS
 
 #### Status
 ACCEPTED

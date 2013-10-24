@@ -1,5 +1,4 @@
-Kutchiathyrites R.K. Kar GENUS
-=======
+# Kutchiathyrites R.K. Kar GENUS
 
 #### Status
 ACCEPTED

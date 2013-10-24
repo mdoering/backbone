@@ -1,5 +1,4 @@
-Buelliastrum crassum SPECIES
-=======
+# Buelliastrum crassum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma catonii Bres. SPECIES
-=======
+# Phoma catonii Bres. SPECIES
 
 #### Status
 ACCEPTED

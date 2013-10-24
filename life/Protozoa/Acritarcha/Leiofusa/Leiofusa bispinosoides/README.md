@@ -1,5 +1,4 @@
-Leiofusa bispinosoides Brito & Santos, 1965 SPECIES
-=======
+# Leiofusa bispinosoides Brito & Santos, 1965 SPECIES
 
 #### Status
 ACCEPTED

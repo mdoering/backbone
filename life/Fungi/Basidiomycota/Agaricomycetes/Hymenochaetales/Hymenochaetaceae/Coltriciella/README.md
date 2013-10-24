@@ -1,5 +1,4 @@
-Coltriciella Murrill GENUS
-=======
+# Coltriciella Murrill GENUS
 
 #### Status
 ACCEPTED

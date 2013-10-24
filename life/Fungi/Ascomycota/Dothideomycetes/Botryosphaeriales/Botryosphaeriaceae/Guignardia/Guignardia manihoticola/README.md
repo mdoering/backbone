@@ -1,5 +1,4 @@
-Guignardia manihoticola Sawada ex W.Y. Li & W.Y. Zhuang, 2007 SPECIES
-=======
+# Guignardia manihoticola Sawada ex W.Y. Li & W.Y. Zhuang, 2007 SPECIES
 
 #### Status
 ACCEPTED

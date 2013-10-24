@@ -1,5 +1,4 @@
-Lycoperdon yasudae (Lloyd) Kreisel SPECIES
-=======
+# Lycoperdon yasudae (Lloyd) Kreisel SPECIES
 
 #### Status
 ACCEPTED

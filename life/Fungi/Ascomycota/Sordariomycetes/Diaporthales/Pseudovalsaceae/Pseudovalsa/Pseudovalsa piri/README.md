@@ -1,5 +1,4 @@
-Pseudovalsa piri (Hazsl.) Sacc. & Traverso SPECIES
-=======
+# Pseudovalsa piri (Hazsl.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria trichoides Szafer SPECIES
-=======
+# Oscillatoria trichoides Szafer SPECIES
 
 #### Status
 ACCEPTED

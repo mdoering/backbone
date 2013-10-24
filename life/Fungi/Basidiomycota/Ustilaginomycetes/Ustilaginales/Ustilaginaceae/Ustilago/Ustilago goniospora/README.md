@@ -1,5 +1,4 @@
-Ustilago goniospora Massee SPECIES
-=======
+# Ustilago goniospora Massee SPECIES
 
 #### Status
 ACCEPTED

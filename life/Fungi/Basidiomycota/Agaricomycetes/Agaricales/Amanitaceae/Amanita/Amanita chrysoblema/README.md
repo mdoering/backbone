@@ -1,5 +1,4 @@
-Amanita chrysoblema G.F. Atk. SPECIES
-=======
+# Amanita chrysoblema G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

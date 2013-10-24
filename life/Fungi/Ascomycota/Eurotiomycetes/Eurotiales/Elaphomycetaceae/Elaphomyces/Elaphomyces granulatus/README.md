@@ -1,17 +1,16 @@
-Elaphomyces cervinus var. cervinus VARIETY
-=======
+# Elaphomyces granulatus Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 58 (1829)
 
 #### Original name
-null
+Elaphomyces granulatus Fr., 1829
 
 ### Remarks
 null

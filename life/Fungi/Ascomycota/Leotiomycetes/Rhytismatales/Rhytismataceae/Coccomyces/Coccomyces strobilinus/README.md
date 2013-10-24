@@ -1,5 +1,4 @@
-Coccomyces strobilinus Grelet SPECIES
-=======
+# Coccomyces strobilinus Grelet SPECIES
 
 #### Status
 ACCEPTED

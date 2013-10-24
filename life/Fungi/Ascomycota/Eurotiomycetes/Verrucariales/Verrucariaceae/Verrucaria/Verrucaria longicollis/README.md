@@ -1,5 +1,4 @@
-Verrucaria longicollis (Eitner) Zahlbr. SPECIES
-=======
+# Verrucaria longicollis (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

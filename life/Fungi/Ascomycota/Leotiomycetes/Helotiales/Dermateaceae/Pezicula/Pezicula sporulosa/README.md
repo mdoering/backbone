@@ -1,5 +1,4 @@
-Pezicula sporulosa Verkley, 1999 SPECIES
-=======
+# Pezicula sporulosa Verkley, 1999 SPECIES
 
 #### Status
 ACCEPTED

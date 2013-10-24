@@ -1,5 +1,4 @@
-Rhodophyllus speculum (Fr.) Quél. SPECIES
-=======
+# Rhodophyllus speculum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

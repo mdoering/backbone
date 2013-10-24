@@ -1,5 +1,4 @@
-Protoperidinium lipopodium (Balech, 1964) Balech, 1974 SPECIES
-=======
+# Protoperidinium lipopodium (Balech, 1964) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

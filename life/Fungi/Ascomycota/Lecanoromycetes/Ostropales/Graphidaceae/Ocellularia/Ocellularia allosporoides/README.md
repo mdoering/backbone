@@ -1,17 +1,16 @@
-Leptotrema allosporoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia allosporoides (Nyl.) Patw. & Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 2(App. 1): 75 (1894)
+null
 
 #### Original name
-Thelotrema allosporoides Nyl.
+null
 
 ### Remarks
 null

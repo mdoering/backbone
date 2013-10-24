@@ -1,5 +1,4 @@
-Aspicilia nigritula Motyka SPECIES
-=======
+# Aspicilia nigritula Motyka SPECIES
 
 #### Status
 ACCEPTED

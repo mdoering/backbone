@@ -1,5 +1,4 @@
-Hyalopsora Magnus GENUS
-=======
+# Hyalopsora Magnus GENUS
 
 #### Status
 ACCEPTED

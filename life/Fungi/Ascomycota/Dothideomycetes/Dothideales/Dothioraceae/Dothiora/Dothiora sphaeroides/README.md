@@ -1,17 +1,16 @@
-Botryodiplodia sphaeroides (Pers.) Sacc., 1884 SPECIES
-=======
+# Dothiora sphaeroides (Pers.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 379 (1884)
+Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-Dothidea sphaeroides (Pers.) Fr., 1818
+Dothiora sphaeroides (Pers.) Fr., 1849
 
 ### Remarks
 null

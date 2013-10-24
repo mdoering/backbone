@@ -1,5 +1,4 @@
-Collema prasinum Rabenh. SPECIES
-=======
+# Collema prasinum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

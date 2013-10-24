@@ -1,5 +1,4 @@
-Pluteus tortus Lloyd SPECIES
-=======
+# Pluteus tortus Lloyd SPECIES
 
 #### Status
 ACCEPTED

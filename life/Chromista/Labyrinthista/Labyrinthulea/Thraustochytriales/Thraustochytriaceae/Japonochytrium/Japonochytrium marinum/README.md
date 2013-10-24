@@ -1,5 +1,4 @@
-Japonochytrium marinum Kobayasi & M. Ôkubo, 1953 SPECIES
-=======
+# Japonochytrium marinum Kobayasi & M. Ôkubo, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirosphaera lignicola Abdullah, Gené & Guarro, 1998 SPECIES
-=======
+# Spirosphaera lignicola Abdullah, Gené & Guarro, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora evonymella Maubl. SPECIES
-=======
+# Pleospora euonymella Maubl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 19(3): 292 (1903)
 
 #### Original name
-Pleospora evonymella Maubl.
+Pleospora euonymella Maubl.
 
 ### Remarks
 null

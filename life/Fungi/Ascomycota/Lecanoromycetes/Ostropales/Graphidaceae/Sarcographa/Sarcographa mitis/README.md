@@ -1,5 +1,4 @@
-Sarcographa mitis (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa mitis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

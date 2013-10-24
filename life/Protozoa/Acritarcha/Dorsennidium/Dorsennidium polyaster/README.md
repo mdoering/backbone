@@ -1,5 +1,4 @@
-Dorsennidium polyaster (Staplin, 1961) Sarjeant & Stancliffe, 1996 SPECIES
-=======
+# Dorsennidium polyaster (Staplin, 1961) Sarjeant & Stancliffe, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triposporium batistae J.L. Crane & Dumont SPECIES
-=======
+# Triposporium batistae J.L. Crane & Dumont SPECIES
 
 #### Status
 ACCEPTED

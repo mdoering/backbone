@@ -1,14 +1,13 @@
-Phellinidium fragrans (M.J. Larsen & Lombard) Nuss, 1986 SPECIES
-=======
+# Phellinus fragrans M.J. Larsen & Lombard, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 105: 114 (1986)
+Mem. N. Y. bot. Gdn 28: 132 (1976)
 
 #### Original name
 Phellinus fragrans M.J. Larsen & Lombard, 1976

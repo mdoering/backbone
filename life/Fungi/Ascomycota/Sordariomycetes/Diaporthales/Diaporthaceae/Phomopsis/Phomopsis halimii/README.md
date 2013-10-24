@@ -1,5 +1,4 @@
-Phomopsis halimii Alcalde SPECIES
-=======
+# Phomopsis halimii Alcalde SPECIES
 
 #### Status
 ACCEPTED

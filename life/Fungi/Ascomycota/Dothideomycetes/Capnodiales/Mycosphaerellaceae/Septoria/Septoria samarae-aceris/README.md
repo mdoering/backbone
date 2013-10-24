@@ -1,5 +1,4 @@
-Septoria samarae-aceris Dearn. & Barthol. SPECIES
-=======
+# Septoria samarae-aceris Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

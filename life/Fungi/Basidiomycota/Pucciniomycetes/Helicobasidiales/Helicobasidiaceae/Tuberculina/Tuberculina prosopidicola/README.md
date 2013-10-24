@@ -1,5 +1,4 @@
-Tuberculina prosopidicola Speg. SPECIES
-=======
+# Tuberculina prosopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

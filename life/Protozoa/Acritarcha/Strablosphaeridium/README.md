@@ -1,5 +1,4 @@
-Strablosphaeridium H. Górka, 1980 GENUS
-=======
+# Strablosphaeridium H. Górka, 1980 GENUS
 
 #### Status
 ACCEPTED

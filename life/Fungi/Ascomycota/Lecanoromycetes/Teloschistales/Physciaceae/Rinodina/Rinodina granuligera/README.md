@@ -1,5 +1,4 @@
-Rinodina granuligera H. Magn. SPECIES
-=======
+# Rinodina granuligera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

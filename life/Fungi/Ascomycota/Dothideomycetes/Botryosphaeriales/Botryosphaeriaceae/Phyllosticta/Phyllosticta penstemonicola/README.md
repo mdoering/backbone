@@ -1,5 +1,4 @@
-Phyllosticta penstemonicola H.C. Greene SPECIES
-=======
+# Phyllosticta penstemonicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

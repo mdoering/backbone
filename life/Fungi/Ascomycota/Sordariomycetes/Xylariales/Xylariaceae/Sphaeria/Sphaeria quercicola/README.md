@@ -1,5 +1,4 @@
-Sphaeria quercicola Wallr. SPECIES
-=======
+# Sphaeria quercicola Wallr. SPECIES
 
 #### Status
 ACCEPTED

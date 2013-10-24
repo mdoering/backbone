@@ -1,5 +1,4 @@
-Cyclographina D.D. Awasthi GENUS
-=======
+# Cyclographina D.D. Awasthi GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia solani P. Karst. SPECIES
-=======
+# Hendersonia solani P. Karst. SPECIES
 
 #### Status
 ACCEPTED

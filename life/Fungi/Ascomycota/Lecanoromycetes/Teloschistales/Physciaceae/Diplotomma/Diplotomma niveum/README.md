@@ -1,5 +1,4 @@
-Diplotomma niveum (Anzi) Szatala SPECIES
-=======
+# Diplotomma niveum (Anzi) Szatala SPECIES
 
 #### Status
 ACCEPTED

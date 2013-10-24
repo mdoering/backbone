@@ -1,5 +1,4 @@
-Lecidella elaeochromiza (Nyl.) M. Choisy SPECIES
-=======
+# Lecidella elaeochromiza (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

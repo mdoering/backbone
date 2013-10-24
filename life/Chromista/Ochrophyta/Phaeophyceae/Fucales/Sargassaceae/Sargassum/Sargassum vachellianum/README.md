@@ -1,5 +1,4 @@
-Sargassum vachellianum Greville SPECIES
-=======
+# Sargassum vachellianum Greville SPECIES
 
 #### Status
 ACCEPTED

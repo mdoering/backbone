@@ -1,5 +1,4 @@
-Meliola mouensis B. Huguenin SPECIES
-=======
+# Meliola mouensis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

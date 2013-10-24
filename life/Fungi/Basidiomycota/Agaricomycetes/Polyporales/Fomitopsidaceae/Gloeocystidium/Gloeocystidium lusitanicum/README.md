@@ -1,5 +1,4 @@
-Gloeocystidium lusitanicum Trotter SPECIES
-=======
+# Gloeocystidium lusitanicum Trotter SPECIES
 
 #### Status
 ACCEPTED

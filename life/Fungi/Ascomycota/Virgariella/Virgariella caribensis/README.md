@@ -1,5 +1,4 @@
-Virgariella caribensis Hol.-Jech. SPECIES
-=======
+# Virgariella caribensis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

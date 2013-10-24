@@ -1,5 +1,4 @@
-Elliptothigma GENUS
-=======
+# Elliptothigma GENUS
 
 #### Status
 ACCEPTED

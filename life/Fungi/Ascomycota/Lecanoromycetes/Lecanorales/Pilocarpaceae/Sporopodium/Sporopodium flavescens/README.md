@@ -1,14 +1,13 @@
-Sporopodium phyllocharis var. flavescens R. Sant. VARIETY
-=======
+# Sporopodium flavescens (R. Sant.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Symb. bot. upsal. 12(no. 1): 518 (1952)
+Lichenes Selecti Exsiccati (Pruhonice), Fascicle <b>88</b> (nos 2176-2200) 5, no. 2193 (1988)
 
 #### Original name
 Sporopodium phyllocharis var. flavescens R. Sant.

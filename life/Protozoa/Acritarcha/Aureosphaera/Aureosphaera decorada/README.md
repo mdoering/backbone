@@ -1,5 +1,4 @@
-Aureosphaera decorada Cramer, Díez, Rodriguez & Fombella, 1976 SPECIES
-=======
+# Aureosphaera decorada Cramer, Díez, Rodriguez & Fombella, 1976 SPECIES
 
 #### Status
 ACCEPTED

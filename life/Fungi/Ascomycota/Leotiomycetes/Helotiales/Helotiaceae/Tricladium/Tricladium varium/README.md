@@ -1,5 +1,4 @@
-Tricladium varium E.B.G. Jones & R.J. Stewart, 1972 SPECIES
-=======
+# Tricladium varium E.B.G. Jones & R.J. Stewart, 1972 SPECIES
 
 #### Status
 ACCEPTED

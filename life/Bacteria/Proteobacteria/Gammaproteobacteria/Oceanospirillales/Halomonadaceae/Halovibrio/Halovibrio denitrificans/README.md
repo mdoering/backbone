@@ -1,5 +1,4 @@
-Halovibrio denitrificans Sorokin et al., 2006 SPECIES
-=======
+# Halovibrio denitrificans Sorokin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

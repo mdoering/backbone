@@ -1,5 +1,4 @@
-Entoloma pistorium Corner & E. Horak SPECIES
-=======
+# Entoloma pistorium Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

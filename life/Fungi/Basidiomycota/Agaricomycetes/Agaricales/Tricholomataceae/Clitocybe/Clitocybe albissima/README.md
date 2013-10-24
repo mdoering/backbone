@@ -1,5 +1,4 @@
-Clitocybe albissima Peck SPECIES
-=======
+# Clitocybe albissima Peck SPECIES
 
 #### Status
 ACCEPTED

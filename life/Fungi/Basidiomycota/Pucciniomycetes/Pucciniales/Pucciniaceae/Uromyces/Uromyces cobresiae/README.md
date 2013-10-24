@@ -1,5 +1,4 @@
-Uromyces cobresiae Korbonsk. SPECIES
-=======
+# Uromyces cobresiae Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

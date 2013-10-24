@@ -1,5 +1,4 @@
-Padina caulescens Thivy SPECIES
-=======
+# Padina caulescens Thivy SPECIES
 
 #### Status
 ACCEPTED

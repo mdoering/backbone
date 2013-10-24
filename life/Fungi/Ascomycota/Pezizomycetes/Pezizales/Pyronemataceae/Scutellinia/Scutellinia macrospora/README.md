@@ -1,14 +1,13 @@
-Lachnea lusatiae var. macrospora Svrcek VARIETY
-=======
+# Scutellinia macrospora (Svrcek) Le Gal, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 80: 123 (1964)
 
 #### Original name
 Lachnea lusatiae var. macrospora Svrcek

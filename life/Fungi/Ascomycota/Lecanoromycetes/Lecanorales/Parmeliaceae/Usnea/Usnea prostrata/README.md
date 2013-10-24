@@ -1,5 +1,4 @@
-Usnea prostrata Vain. ex Räsänen SPECIES
-=======
+# Usnea prostrata Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

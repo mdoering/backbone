@@ -1,14 +1,13 @@
-Paxillus squarrosus McNabb, 1969 SPECIES
-=======
+# Austropaxillus squarrosus (McNabb) Bresinsky & Jarosch, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 7(4): 355 (1969)
+in Bresinsky, Jarosch, Fischer, Schönberger & Wittmann-Bresinsky, Pl. Biol. 1(3): 332 (1999)
 
 #### Original name
 Paxillus squarrosus McNabb, 1969

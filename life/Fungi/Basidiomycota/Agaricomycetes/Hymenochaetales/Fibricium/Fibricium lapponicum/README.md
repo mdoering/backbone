@@ -1,5 +1,4 @@
-Fibricium lapponicum J. Erikss., 1958 SPECIES
-=======
+# Fibricium lapponicum J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED

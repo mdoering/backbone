@@ -1,5 +1,4 @@
-Swedmarkia Dragesco, 1954 GENUS
-=======
+# Swedmarkia Dragesco, 1954 GENUS
 
 #### Status
 ACCEPTED

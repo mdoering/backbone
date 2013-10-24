@@ -1,17 +1,16 @@
-Isaria xylariaformis Lloyd SPECIES
-=======
+# Paecilomyces xylariiformis (Lloyd) Samson, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 6: 54 (1974)
 
 #### Original name
-Isaria xylariaformis Lloyd
+Isaria xylariiformis Lloyd, 1923
 
 ### Remarks
 null

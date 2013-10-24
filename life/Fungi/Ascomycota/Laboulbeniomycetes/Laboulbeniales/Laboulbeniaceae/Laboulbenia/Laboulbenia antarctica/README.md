@@ -1,5 +1,4 @@
-Laboulbenia antarctica Thaxt. SPECIES
-=======
+# Laboulbenia antarctica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

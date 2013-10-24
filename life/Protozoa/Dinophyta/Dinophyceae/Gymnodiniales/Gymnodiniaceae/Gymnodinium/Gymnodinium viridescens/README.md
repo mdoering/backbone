@@ -1,5 +1,4 @@
-Gymnodinium viridescens Kofoid, 1931 SPECIES
-=======
+# Gymnodinium viridescens Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

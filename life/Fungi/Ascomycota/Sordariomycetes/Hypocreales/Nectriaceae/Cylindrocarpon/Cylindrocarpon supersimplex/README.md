@@ -1,5 +1,4 @@
-Cylindrocarpon supersimplex Matsush. SPECIES
-=======
+# Cylindrocarpon supersimplex Matsush. SPECIES
 
 #### Status
 ACCEPTED

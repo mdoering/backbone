@@ -1,5 +1,4 @@
-Zoophthora ichneumonis Balazy, 1993 SPECIES
-=======
+# Zoophthora ichneumonis Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

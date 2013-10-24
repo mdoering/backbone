@@ -1,5 +1,4 @@
-Lasiosphaeria trichopus Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria trichopus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

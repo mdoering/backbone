@@ -1,5 +1,4 @@
-Usnea scabridula (I.M. Lamb) C.W. Dodge SPECIES
-=======
+# Usnea scabridula (I.M. Lamb) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

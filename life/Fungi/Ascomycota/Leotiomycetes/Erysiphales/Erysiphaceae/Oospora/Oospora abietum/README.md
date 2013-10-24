@@ -1,5 +1,4 @@
-Oospora abietum Oudem. SPECIES
-=======
+# Oospora abietum Oudem. SPECIES
 
 #### Status
 ACCEPTED

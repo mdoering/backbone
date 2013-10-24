@@ -1,8 +1,7 @@
-Poria hippophaes Bres., 1926 SPECIES
-=======
+# Antrodia hippophaes (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

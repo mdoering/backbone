@@ -1,8 +1,7 @@
-Phacus subsalsus Prosk-Lavr. SPECIES
-=======
+# Phacus parvulus G.A. Klebs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Toninia conjungens Th. Fr. SPECIES
-=======
+# Toninia conjungens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

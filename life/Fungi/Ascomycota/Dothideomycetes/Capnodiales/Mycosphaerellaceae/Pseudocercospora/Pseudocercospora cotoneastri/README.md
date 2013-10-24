@@ -1,14 +1,13 @@
-Pseudocercospora cotoneasteris (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora cotoneastri (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 88(3): 389 (1987)
 
 #### Original name
 Cercospora cotoneastri Katsuki & Ts. Kobay.

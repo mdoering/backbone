@@ -1,5 +1,4 @@
-Didymella callithrix (Norman) H. Magn. SPECIES
-=======
+# Didymella callithrix (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

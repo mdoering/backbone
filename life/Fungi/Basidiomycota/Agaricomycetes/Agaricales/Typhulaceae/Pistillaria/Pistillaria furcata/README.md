@@ -1,5 +1,4 @@
-Pistillaria furcata W.G. Sm. SPECIES
-=======
+# Pistillaria furcata W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

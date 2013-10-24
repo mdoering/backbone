@@ -1,5 +1,4 @@
-Phanerochaete cryptocystidiata Nakasone SPECIES
-=======
+# Phanerochaete cryptocystidiata Nakasone SPECIES
 
 #### Status
 ACCEPTED

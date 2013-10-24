@@ -1,5 +1,4 @@
-Phormidium tomasinianum (Kützing) Bornet SPECIES
-=======
+# Phormidium tomasinianum (Kützing) Bornet SPECIES
 
 #### Status
 ACCEPTED

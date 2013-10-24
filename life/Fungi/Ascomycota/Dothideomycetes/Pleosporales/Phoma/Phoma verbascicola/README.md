@@ -1,5 +1,4 @@
-Phoma verbascicola (Schwein.) Cooke SPECIES
-=======
+# Phoma verbascicola (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

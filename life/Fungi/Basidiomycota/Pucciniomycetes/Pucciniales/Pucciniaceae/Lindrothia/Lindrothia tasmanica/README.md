@@ -1,5 +1,4 @@
-Lindrothia tasmanica (Dietel) Syd. SPECIES
-=======
+# Lindrothia tasmanica (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

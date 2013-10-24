@@ -1,5 +1,4 @@
-Sporodiniella Boedijn GENUS
-=======
+# Sporodiniella Boedijn GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium palezewskii Jacz. SPECIES
-=======
+# Fusarium palezewskii Jacz. SPECIES
 
 #### Status
 ACCEPTED

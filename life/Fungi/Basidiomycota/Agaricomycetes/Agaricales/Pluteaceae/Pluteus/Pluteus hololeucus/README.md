@@ -1,5 +1,4 @@
-Pluteus hololeucus Singer SPECIES
-=======
+# Pluteus hololeucus Singer SPECIES
 
 #### Status
 ACCEPTED

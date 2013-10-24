@@ -1,5 +1,4 @@
-Rigidothrichidae FAMILY
-=======
+# Rigidothrichidae FAMILY
 
 #### Status
 ACCEPTED

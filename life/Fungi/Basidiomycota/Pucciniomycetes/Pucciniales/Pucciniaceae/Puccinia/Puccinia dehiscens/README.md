@@ -1,5 +1,4 @@
-Puccinia dehiscens P. Syd. & Syd. SPECIES
-=======
+# Puccinia dehiscens P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

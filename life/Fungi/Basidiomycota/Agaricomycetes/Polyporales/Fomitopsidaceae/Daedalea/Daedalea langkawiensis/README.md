@@ -1,5 +1,4 @@
-Daedalea langkawiensis Corner, 1987 SPECIES
-=======
+# Daedalea langkawiensis Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

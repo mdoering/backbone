@@ -1,5 +1,4 @@
-Melanothecomyces javanicae Cif. & Tomas. SPECIES
-=======
+# Melanothecomyces javanicae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

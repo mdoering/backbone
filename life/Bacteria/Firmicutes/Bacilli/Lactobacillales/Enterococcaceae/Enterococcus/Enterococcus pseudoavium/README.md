@@ -1,5 +1,4 @@
-Enterococcus pseudoavium Collins et al., 1989 SPECIES
-=======
+# Enterococcus pseudoavium Collins et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

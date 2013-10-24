@@ -1,5 +1,4 @@
-Cortinarius teresae (Garrido) G. Garnier SPECIES
-=======
+# Cortinarius teresae (Garrido) G. Garnier SPECIES
 
 #### Status
 ACCEPTED

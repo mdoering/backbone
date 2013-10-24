@@ -1,5 +1,4 @@
-Buellia leptoclinella (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia leptoclinella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

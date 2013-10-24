@@ -1,5 +1,4 @@
-Mycosphaerella jaapiana (Kirschst.) Tomilin SPECIES
-=======
+# Mycosphaerella jaapiana (Kirschst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antinoa GENUS
-=======
+# Antinoa GENUS
 
 #### Status
 ACCEPTED

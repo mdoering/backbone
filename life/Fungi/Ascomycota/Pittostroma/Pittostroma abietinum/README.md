@@ -1,5 +1,4 @@
-Pittostroma abietinum Kowalski & T.N. Sieber, 1992 SPECIES
-=======
+# Pittostroma abietinum Kowalski & T.N. Sieber, 1992 SPECIES
 
 #### Status
 ACCEPTED

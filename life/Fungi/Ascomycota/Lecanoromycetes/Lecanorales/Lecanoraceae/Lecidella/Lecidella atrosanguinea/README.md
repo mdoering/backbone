@@ -1,5 +1,4 @@
-Lecidella atrosanguinea (Flörke) R. Sant. SPECIES
-=======
+# Lecidella atrosanguinea (Flörke) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria negrui D.N. Babajan & Simonyan SPECIES
-=======
+# Septoria negrui D.N. Babajan & Simonyan SPECIES
 
 #### Status
 ACCEPTED

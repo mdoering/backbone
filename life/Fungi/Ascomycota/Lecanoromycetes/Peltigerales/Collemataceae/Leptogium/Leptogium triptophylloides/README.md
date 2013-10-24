@@ -1,5 +1,4 @@
-Leptogium triptophylloides (Nyl.) Zahlbr. SPECIES
-=======
+# Leptogium triptophylloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

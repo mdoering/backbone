@@ -1,5 +1,4 @@
-Hexagonia elegans Har. SPECIES
-=======
+# Hexagonia elegans Har. SPECIES
 
 #### Status
 ACCEPTED

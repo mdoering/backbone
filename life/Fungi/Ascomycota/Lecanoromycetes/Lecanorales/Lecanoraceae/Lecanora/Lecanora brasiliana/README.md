@@ -1,5 +1,4 @@
-Lecanora brasiliana Zahlbr. SPECIES
-=======
+# Lecanora brasiliana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

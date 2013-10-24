@@ -1,5 +1,4 @@
-Wallodinium luna (Cookson & Eisenack, 1960) Lentin & Williams, 1973 SPECIES
-=======
+# Wallodinium luna (Cookson & Eisenack, 1960) Lentin & Williams, 1973 SPECIES
 
 #### Status
 ACCEPTED

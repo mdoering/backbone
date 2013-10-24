@@ -1,5 +1,4 @@
-Melanconis amygdalina Cooke SPECIES
-=======
+# Melanconis amygdalina Cooke SPECIES
 
 #### Status
 ACCEPTED

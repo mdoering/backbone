@@ -1,5 +1,4 @@
-Lichen trapeziformis J. König SPECIES
-=======
+# Lichen trapeziformis J. König SPECIES
 
 #### Status
 ACCEPTED

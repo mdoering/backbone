@@ -1,5 +1,4 @@
-Diplodia hyperiana Sacc. SPECIES
-=======
+# Diplodia hyperiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

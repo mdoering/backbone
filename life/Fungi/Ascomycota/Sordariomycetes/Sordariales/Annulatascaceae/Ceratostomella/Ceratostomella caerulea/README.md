@@ -1,5 +1,4 @@
-Ceratostomella caerulea Münch SPECIES
-=======
+# Ceratostomella caerulea Münch SPECIES
 
 #### Status
 ACCEPTED

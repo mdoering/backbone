@@ -1,5 +1,4 @@
-Desulforegula conservatrix Rees & Patel, 2001 SPECIES
-=======
+# Desulforegula conservatrix Rees & Patel, 2001 SPECIES
 
 #### Status
 ACCEPTED

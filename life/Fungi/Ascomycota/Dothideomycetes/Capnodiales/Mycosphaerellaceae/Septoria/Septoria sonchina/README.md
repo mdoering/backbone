@@ -1,5 +1,4 @@
-Septoria sonchina Thüm. SPECIES
-=======
+# Septoria sonchina Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum cookei Berk. SPECIES
-=======
+# Hydnum cookei Berk. SPECIES
 
 #### Status
 ACCEPTED

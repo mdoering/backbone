@@ -1,5 +1,4 @@
-Thermolithobacter Sokolova et al., 2007 GENUS
-=======
+# Thermolithobacter Sokolova et al., 2007 GENUS
 
 #### Status
 ACCEPTED

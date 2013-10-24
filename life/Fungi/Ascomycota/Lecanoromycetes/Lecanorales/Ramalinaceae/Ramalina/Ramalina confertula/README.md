@@ -1,5 +1,4 @@
-Ramalina confertula Krog & Østh. SPECIES
-=======
+# Ramalina confertula Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

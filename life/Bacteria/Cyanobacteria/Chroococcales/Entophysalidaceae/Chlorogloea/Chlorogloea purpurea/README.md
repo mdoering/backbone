@@ -1,5 +1,4 @@
-Chlorogloea purpurea Geitler SPECIES
-=======
+# Chlorogloea purpurea Geitler SPECIES
 
 #### Status
 ACCEPTED

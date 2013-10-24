@@ -1,5 +1,4 @@
-Lecidea rupicida Vain. SPECIES
-=======
+# Lecidea rupicida Vain. SPECIES
 
 #### Status
 ACCEPTED

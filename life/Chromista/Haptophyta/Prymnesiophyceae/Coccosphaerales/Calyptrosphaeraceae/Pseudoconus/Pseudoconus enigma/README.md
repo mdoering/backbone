@@ -1,5 +1,4 @@
-Pseudoconus enigma SPECIES
-=======
+# Pseudoconus enigma SPECIES
 
 #### Status
 ACCEPTED

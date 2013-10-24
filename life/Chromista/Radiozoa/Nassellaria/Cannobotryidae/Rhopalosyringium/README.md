@@ -1,5 +1,4 @@
-Rhopalosyringium Campbell & Clark, 1944 GENUS
-=======
+# Rhopalosyringium Campbell & Clark, 1944 GENUS
 
 #### Status
 ACCEPTED

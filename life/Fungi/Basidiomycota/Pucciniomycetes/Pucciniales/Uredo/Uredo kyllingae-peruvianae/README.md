@@ -1,8 +1,7 @@
-Uredo kyllingiae-peruvianae J.M. Yen SPECIES
-=======
+# Uredo kyllingae-peruvianae J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo kyllingiae-peruvianae J.M. Yen
+Uredo kyllingae-peruvianae J.M. Yen
 
 ### Remarks
 null

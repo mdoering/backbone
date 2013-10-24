@@ -1,5 +1,4 @@
-Leptosphaeria ophiopogonis (Sacc.) Sacc. SPECIES
-=======
+# Leptosphaeria ophiopogonis (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

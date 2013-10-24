@@ -1,5 +1,4 @@
-Tripterosporella coprophila Subram. & Lodha, 1968 SPECIES
-=======
+# Tripterosporella coprophila Subram. & Lodha, 1968 SPECIES
 
 #### Status
 ACCEPTED

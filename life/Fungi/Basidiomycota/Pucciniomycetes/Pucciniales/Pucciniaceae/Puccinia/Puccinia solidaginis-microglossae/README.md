@@ -1,5 +1,4 @@
-Puccinia solidaginis-microglossae Dietel SPECIES
-=======
+# Puccinia solidaginis-microglossae Dietel SPECIES
 
 #### Status
 ACCEPTED

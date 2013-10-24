@@ -1,5 +1,4 @@
-Sphaerotheca collomiae U. Braun SPECIES
-=======
+# Sphaerotheca collomiae U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Etoschophrya Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Etoschophrya Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

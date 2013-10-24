@@ -1,5 +1,4 @@
-Chaenothecopsis epithallina Tibell SPECIES
-=======
+# Chaenothecopsis epithallina Tibell SPECIES
 
 #### Status
 ACCEPTED

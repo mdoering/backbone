@@ -1,5 +1,4 @@
-Leptographium terebrantis S.J. Barras & T.J. Perry, 1971 SPECIES
-=======
+# Leptographium terebrantis S.J. Barras & T.J. Perry, 1971 SPECIES
 
 #### Status
 ACCEPTED

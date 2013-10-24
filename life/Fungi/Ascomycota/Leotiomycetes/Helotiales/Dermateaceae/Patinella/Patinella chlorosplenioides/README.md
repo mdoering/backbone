@@ -1,5 +1,4 @@
-Patinella chlorosplenioides Penz. & Sacc. SPECIES
-=======
+# Patinella chlorosplenioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

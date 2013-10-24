@@ -1,5 +1,4 @@
-Coleosporium pertyae Miura ex S. Ito & Muray. SPECIES
-=======
+# Coleosporium pertyae Miura ex S. Ito & Muray. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ichnanthi Mains SPECIES
-=======
+# Puccinia ichnanthi Mains SPECIES
 
 #### Status
 ACCEPTED

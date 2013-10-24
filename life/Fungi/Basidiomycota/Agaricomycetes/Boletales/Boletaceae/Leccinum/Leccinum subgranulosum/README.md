@@ -1,5 +1,4 @@
-Leccinum subgranulosum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum subgranulosum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

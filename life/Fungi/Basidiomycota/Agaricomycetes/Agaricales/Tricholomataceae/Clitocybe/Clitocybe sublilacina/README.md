@@ -1,5 +1,4 @@
-Clitocybe sublilacina Rick SPECIES
-=======
+# Clitocybe sublilacina Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella scutula var. scutula VARIETY
-=======
+# Helvella scutula anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helvella scutula var. scutula
+Helvella scutula anon.
 
 ### Remarks
 null

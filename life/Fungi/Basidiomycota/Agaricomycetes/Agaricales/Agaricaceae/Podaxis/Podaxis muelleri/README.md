@@ -1,17 +1,16 @@
-Podaxon muelleri Henn. SPECIES
-=======
+# Podaxis muelleri Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 187 (1904)
 
 #### Original name
-Podaxon muelleri Henn.
+Podaxis muelleri Henn.
 
 ### Remarks
 null

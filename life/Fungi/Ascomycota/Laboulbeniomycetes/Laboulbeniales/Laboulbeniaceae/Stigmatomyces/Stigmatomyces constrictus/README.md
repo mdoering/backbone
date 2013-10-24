@@ -1,5 +1,4 @@
-Stigmatomyces constrictus Thaxt. SPECIES
-=======
+# Stigmatomyces constrictus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

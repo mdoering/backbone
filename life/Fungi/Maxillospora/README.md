@@ -1,5 +1,4 @@
-Maxillospora F. von Höhnel, 1914 GENUS
-=======
+# Maxillospora F. von Höhnel, 1914 GENUS
 
 #### Status
 ACCEPTED

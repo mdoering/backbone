@@ -1,5 +1,4 @@
-Protoperidinium parvispinum (Gaarder, 1954) Balech, 1974 SPECIES
-=======
+# Protoperidinium parvispinum (Gaarder, 1954) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

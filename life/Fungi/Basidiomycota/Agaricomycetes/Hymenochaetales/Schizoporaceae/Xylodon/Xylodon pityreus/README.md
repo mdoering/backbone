@@ -1,5 +1,4 @@
-Xylodon pityreus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Xylodon pityreus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

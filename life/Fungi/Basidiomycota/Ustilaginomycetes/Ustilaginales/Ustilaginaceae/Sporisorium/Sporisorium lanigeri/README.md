@@ -1,5 +1,4 @@
-Sporisorium lanigeri (Magnus) Ershad SPECIES
-=======
+# Sporisorium lanigeri (Magnus) Ershad SPECIES
 
 #### Status
 ACCEPTED

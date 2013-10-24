@@ -1,5 +1,4 @@
-Oospora rhodella Sacc. & Thüm. SPECIES
-=======
+# Oospora rhodella Sacc. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

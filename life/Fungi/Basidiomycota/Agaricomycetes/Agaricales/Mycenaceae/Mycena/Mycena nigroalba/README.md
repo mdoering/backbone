@@ -1,5 +1,4 @@
-Mycena nigroalba Maas Geest. SPECIES
-=======
+# Mycena nigroalba Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

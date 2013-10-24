@@ -1,5 +1,4 @@
-Baltisphaeridium ziyangense Hu Yunxu, 1986 SPECIES
-=======
+# Baltisphaeridium ziyangense Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

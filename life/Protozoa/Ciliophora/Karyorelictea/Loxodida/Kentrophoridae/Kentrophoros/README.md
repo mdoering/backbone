@@ -1,5 +1,4 @@
-Kentrophoros Sauerbrey, 1928 GENUS
-=======
+# Kentrophoros Sauerbrey, 1928 GENUS
 
 #### Status
 ACCEPTED

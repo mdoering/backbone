@@ -1,5 +1,4 @@
-Peniophora ovalispora Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora ovalispora Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

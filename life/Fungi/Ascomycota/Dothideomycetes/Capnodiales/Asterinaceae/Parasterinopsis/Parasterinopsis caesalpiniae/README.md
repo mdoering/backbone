@@ -1,5 +1,4 @@
-Parasterinopsis caesalpiniae Bat. & H. Maia, 1963 SPECIES
-=======
+# Parasterinopsis caesalpiniae Bat. & H. Maia, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium orni (Pass.) Peglion SPECIES
-=======
+# Cylindrosporium orni (Pass.) Peglion SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium dubyi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Hysterium dubyi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

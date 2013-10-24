@@ -1,5 +1,4 @@
-Micarea capitata M. Svensson & G. Thor SPECIES
-=======
+# Micarea capitata M. Svensson & G. Thor SPECIES
 
 #### Status
 ACCEPTED

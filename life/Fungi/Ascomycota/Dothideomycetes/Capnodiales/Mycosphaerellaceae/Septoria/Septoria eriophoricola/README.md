@@ -1,5 +1,4 @@
-Septoria eriophoricola Hollós SPECIES
-=======
+# Septoria eriophoricola Hollós SPECIES
 
 #### Status
 ACCEPTED

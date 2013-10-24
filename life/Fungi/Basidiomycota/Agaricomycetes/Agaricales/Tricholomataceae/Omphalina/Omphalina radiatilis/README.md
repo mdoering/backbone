@@ -1,5 +1,4 @@
-Omphalina radiatilis (Berk.) Manjula SPECIES
-=======
+# Omphalina radiatilis (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

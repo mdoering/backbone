@@ -1,5 +1,4 @@
-Phragmidium triarticulatum Berk. & M.A. Curtis SPECIES
-=======
+# Phragmidium triarticulatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

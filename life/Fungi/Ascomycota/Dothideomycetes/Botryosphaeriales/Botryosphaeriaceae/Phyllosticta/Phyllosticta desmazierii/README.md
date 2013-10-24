@@ -1,5 +1,4 @@
-Phyllosticta desmazierii Tassi SPECIES
-=======
+# Phyllosticta desmazierii Tassi SPECIES
 
 #### Status
 ACCEPTED

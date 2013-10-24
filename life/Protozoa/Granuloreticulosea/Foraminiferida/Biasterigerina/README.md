@@ -1,5 +1,4 @@
-Biasterigerina Seiglie & Bermúdez, 1965 GENUS
-=======
+# Biasterigerina Seiglie & Bermúdez, 1965 GENUS
 
 #### Status
 ACCEPTED

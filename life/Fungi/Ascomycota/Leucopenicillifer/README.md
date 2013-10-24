@@ -1,5 +1,4 @@
-Leucopenicillifer G.R.W. Arnold GENUS
-=======
+# Leucopenicillifer G.R.W. Arnold GENUS
 
 #### Status
 ACCEPTED

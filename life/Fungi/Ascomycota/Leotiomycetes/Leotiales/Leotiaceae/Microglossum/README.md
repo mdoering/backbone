@@ -1,17 +1,16 @@
-Xanthoglossum (Sacc.) Kuntze GENUS
-=======
+# Microglossum Gillet, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 875 (1891)
+Champignons de France, Discom. 25 (1879)
 
 #### Original name
-null
+Microglossum Gillet, 1879
 
 ### Remarks
 null

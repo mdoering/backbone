@@ -1,5 +1,4 @@
-Ganoderma sarasinii Steyaert SPECIES
-=======
+# Ganoderma sarasinii Steyaert SPECIES
 
 #### Status
 ACCEPTED

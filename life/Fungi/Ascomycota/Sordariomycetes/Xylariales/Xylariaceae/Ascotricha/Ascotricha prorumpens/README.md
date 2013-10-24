@@ -1,5 +1,4 @@
-Ascotricha prorumpens Bonord. SPECIES
-=======
+# Ascotricha prorumpens Bonord. SPECIES
 
 #### Status
 ACCEPTED

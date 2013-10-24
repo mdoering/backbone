@@ -1,5 +1,4 @@
-Sepedonium latericium Bres. SPECIES
-=======
+# Sepedonium latericium Bres. SPECIES
 
 #### Status
 ACCEPTED

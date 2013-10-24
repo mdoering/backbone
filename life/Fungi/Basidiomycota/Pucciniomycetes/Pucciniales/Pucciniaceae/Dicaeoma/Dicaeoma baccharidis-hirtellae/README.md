@@ -1,5 +1,4 @@
-Dicaeoma baccharidis-hirtellae (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma baccharidis-hirtellae (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

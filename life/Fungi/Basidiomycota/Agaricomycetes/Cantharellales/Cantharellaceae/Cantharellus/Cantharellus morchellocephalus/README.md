@@ -1,5 +1,4 @@
-Cantharellus morchellocephalus Mont. SPECIES
-=======
+# Cantharellus morchellocephalus Mont. SPECIES
 
 #### Status
 ACCEPTED

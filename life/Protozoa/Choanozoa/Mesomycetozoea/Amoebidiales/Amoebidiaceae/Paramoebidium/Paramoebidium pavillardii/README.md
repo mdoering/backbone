@@ -1,17 +1,16 @@
-Paramoebidium pavillardi Manier SPECIES
-=======
+# Paramoebidium pavillardii Manier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 11: 99 (1951)
 
 #### Original name
-Paramoebidium pavillardi Manier
+Paramoebidium pavillardii Manier
 
 ### Remarks
 null

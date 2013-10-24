@@ -1,5 +1,4 @@
-Oligoporus peredelicatus (Murr.) Gilbn. SPECIES
-=======
+# Oligoporus peredelicatus (Murr.) Gilbn. SPECIES
 
 #### Status
 ACCEPTED

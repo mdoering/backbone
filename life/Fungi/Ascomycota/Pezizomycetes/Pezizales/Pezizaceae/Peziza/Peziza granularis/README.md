@@ -1,5 +1,4 @@
-Peziza granularis Donadini, 1978 SPECIES
-=======
+# Peziza granularis Donadini, 1978 SPECIES
 
 #### Status
 ACCEPTED

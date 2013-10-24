@@ -1,5 +1,4 @@
-Prosthemium stellare Riess SPECIES
-=======
+# Prosthemium stellare Riess SPECIES
 
 #### Status
 ACCEPTED

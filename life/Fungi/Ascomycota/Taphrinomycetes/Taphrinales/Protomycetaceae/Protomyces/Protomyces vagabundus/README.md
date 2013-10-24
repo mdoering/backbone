@@ -1,5 +1,4 @@
-Protomyces vagabundus Speg. SPECIES
-=======
+# Protomyces vagabundus Speg. SPECIES
 
 #### Status
 ACCEPTED

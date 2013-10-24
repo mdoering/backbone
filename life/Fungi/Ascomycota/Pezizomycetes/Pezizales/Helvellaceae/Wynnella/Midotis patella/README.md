@@ -1,5 +1,4 @@
-Midotis patella Fr. SPECIES
-=======
+# Midotis patella Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria subsordida Nyl. SPECIES
-=======
+# Urceolaria subsordida Nyl. SPECIES
 
 #### Status
 ACCEPTED

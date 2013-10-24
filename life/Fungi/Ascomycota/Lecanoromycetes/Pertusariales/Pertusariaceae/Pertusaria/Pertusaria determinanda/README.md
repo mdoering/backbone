@@ -1,5 +1,4 @@
-Pertusaria determinanda Darb. SPECIES
-=======
+# Pertusaria determinanda Darb. SPECIES
 
 #### Status
 ACCEPTED

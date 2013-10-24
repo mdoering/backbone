@@ -1,14 +1,13 @@
-Anthostoma fleischhakii (Auersw.) Höhn., 1918 SPECIES
-=======
+# Helicogermslita fleischhakii (Auersw.) Laessøe & Spooner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 127: 560 (1918)
+Kew Bull. 49(1): 48 (1994)
 
 #### Original name
 Sordaria fleischhakii Auersw., 1868

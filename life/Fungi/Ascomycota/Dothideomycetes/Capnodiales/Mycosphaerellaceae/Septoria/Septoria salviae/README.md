@@ -1,5 +1,4 @@
-Septoria salviae var. salviae VARIETY
-=======
+# Septoria salviae Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Atti Soc. Crittogam. Ital. 2: 36 (1879)
 
 #### Original name
-Septoria salviae var. salviae
+Septoria salviae Pass.
 
 ### Remarks
 null

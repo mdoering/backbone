@@ -1,8 +1,7 @@
-Peridoxylon goossensii Dennis SPECIES
-=======
+# Peridoxylon goossensiae Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peridoxylon goossensii Dennis
+Peridoxylon goossensiae Dennis
 
 ### Remarks
 null

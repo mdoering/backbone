@@ -1,5 +1,4 @@
-Sulcatosphaeridium incomptum N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
-=======
+# Sulcatosphaeridium incomptum N. Umnova in N. Umnova & Yakovlev, 1970 SPECIES
 
 #### Status
 ACCEPTED

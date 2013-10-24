@@ -1,5 +1,4 @@
-Cylindrosporium colchici Sacc. SPECIES
-=======
+# Cylindrosporium colchici Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta gladioloides Bat. SPECIES
-=======
+# Phyllosticta gladioloides Bat. SPECIES
 
 #### Status
 ACCEPTED

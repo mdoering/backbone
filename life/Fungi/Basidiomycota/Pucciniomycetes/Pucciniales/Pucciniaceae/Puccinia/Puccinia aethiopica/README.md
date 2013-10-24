@@ -1,5 +1,4 @@
-Puccinia aethiopica Kalchbr. & Cooke SPECIES
-=======
+# Puccinia aethiopica Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

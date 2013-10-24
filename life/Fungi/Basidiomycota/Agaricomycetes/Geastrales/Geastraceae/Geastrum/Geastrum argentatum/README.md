@@ -1,5 +1,4 @@
-Geastrum argentatum Cooke & Massee ex Coker SPECIES
-=======
+# Geastrum argentatum Cooke & Massee ex Coker SPECIES
 
 #### Status
 ACCEPTED

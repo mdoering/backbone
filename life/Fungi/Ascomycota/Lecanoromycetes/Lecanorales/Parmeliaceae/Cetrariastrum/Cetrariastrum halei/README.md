@@ -1,5 +1,4 @@
-Cetrariastrum halei W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum halei W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

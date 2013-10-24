@@ -1,5 +1,4 @@
-Diploplenodomopsis mirabilis Petr. SPECIES
-=======
+# Diploplenodomopsis mirabilis Petr. SPECIES
 
 #### Status
 ACCEPTED

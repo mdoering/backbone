@@ -1,5 +1,4 @@
-Ascochyta magnoliae Thüm. SPECIES
-=======
+# Ascochyta magnoliae Thüm. SPECIES
 
 #### Status
 ACCEPTED

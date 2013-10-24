@@ -1,5 +1,4 @@
-Sinodidymella occidentalis M.E. Barr SPECIES
-=======
+# Sinodidymella occidentalis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

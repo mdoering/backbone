@@ -1,5 +1,4 @@
-Buellia modicula (Nyl.) Dalla Torre & Sarnth. SPECIES
-=======
+# Buellia modicula (Nyl.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

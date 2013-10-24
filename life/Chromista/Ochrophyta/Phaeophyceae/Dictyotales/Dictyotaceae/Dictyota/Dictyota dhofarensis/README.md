@@ -1,5 +1,4 @@
-Dictyota dhofarensis (Nizamuddin & A.C.Campbell) De Clerck, 2006 SPECIES
-=======
+# Dictyota dhofarensis (Nizamuddin & A.C.Campbell) De Clerck, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium thalictricola Vassiljevsky SPECIES
-=======
+# Cylindrosporium thalictricola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

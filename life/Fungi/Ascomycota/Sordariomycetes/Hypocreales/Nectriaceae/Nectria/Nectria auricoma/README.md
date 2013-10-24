@@ -1,5 +1,4 @@
-Nectria auricoma (Wallr.) Mont. SPECIES
-=======
+# Nectria auricoma (Wallr.) Mont. SPECIES
 
 #### Status
 ACCEPTED

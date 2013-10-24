@@ -1,5 +1,4 @@
-Mycosphaerella panicicola Henn. SPECIES
-=======
+# Mycosphaerella panicicola Henn. SPECIES
 
 #### Status
 ACCEPTED

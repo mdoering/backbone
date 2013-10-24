@@ -1,5 +1,4 @@
-Leptosphaeria brightonensis Shoemaker SPECIES
-=======
+# Leptosphaeria brightonensis Shoemaker SPECIES
 
 #### Status
 ACCEPTED

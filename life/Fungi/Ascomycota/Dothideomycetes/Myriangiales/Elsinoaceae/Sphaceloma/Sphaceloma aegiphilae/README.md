@@ -1,5 +1,4 @@
-Sphaceloma aegiphilae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma aegiphilae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

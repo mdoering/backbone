@@ -1,5 +1,4 @@
-Halophytophthora elongata H.H. Ho & H.S. Chang, 2003 SPECIES
-=======
+# Halophytophthora elongata H.H. Ho & H.S. Chang, 2003 SPECIES
 
 #### Status
 ACCEPTED

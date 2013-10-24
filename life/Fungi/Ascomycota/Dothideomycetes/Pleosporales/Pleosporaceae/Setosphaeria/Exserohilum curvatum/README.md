@@ -1,5 +1,4 @@
-Exserohilum curvatum Sivan. & Muthaiyan, 1984 SPECIES
-=======
+# Exserohilum curvatum Sivan. & Muthaiyan, 1984 SPECIES
 
 #### Status
 ACCEPTED

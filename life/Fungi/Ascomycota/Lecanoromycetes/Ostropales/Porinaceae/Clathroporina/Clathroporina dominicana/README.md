@@ -1,5 +1,4 @@
-Clathroporina dominicana Zahlbr. SPECIES
-=======
+# Clathroporina dominicana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

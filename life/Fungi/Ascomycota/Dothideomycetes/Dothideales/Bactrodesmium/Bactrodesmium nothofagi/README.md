@@ -1,5 +1,4 @@
-Bactrodesmium nothofagi J.A. Cooper, 2005 SPECIES
-=======
+# Bactrodesmium nothofagi J.A. Cooper, 2005 SPECIES
 
 #### Status
 ACCEPTED

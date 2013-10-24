@@ -1,5 +1,4 @@
-Incertisporites Hammen GENUS
-=======
+# Incertisporites Hammen GENUS
 
 #### Status
 ACCEPTED

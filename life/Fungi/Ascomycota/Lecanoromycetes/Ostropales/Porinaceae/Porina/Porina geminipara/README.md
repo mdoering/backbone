@@ -1,5 +1,4 @@
-Porina geminipara (Malme) Zahlbr. SPECIES
-=======
+# Porina geminipara (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

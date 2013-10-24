@@ -1,5 +1,4 @@
-Sphaerella arbutifoliae Peck SPECIES
-=======
+# Sphaerella arbutifoliae Peck SPECIES
 
 #### Status
 ACCEPTED

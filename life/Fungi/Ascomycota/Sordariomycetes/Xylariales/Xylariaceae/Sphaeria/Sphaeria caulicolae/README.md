@@ -1,5 +1,4 @@
-Sphaeria caulicolae P. Karst. SPECIES
-=======
+# Sphaeria caulicolae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

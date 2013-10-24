@@ -1,5 +1,4 @@
-Sphingobacterium daejeonense Kim et al., 2006 SPECIES
-=======
+# Sphingobacterium daejeonense Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

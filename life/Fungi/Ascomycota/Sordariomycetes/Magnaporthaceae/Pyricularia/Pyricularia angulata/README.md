@@ -1,5 +1,4 @@
-Pyricularia angulata Hashioka, 1971 SPECIES
-=======
+# Pyricularia angulata Hashioka, 1971 SPECIES
 
 #### Status
 ACCEPTED

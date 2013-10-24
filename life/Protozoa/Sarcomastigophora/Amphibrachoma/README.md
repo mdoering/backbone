@@ -1,5 +1,4 @@
-Amphibrachoma Haeckel, 1887 GENUS
-=======
+# Amphibrachoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

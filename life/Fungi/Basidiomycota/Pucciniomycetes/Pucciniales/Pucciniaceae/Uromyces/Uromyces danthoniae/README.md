@@ -1,5 +1,4 @@
-Uromyces danthoniae McAlpine, 1906 SPECIES
-=======
+# Uromyces danthoniae McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

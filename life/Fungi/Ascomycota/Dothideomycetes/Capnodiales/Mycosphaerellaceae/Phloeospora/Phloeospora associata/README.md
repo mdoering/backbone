@@ -1,5 +1,4 @@
-Phloeospora associata Bubák SPECIES
-=======
+# Phloeospora associata Bubák SPECIES
 
 #### Status
 ACCEPTED

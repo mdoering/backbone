@@ -1,5 +1,4 @@
-Merulius aurantius Lloyd SPECIES
-=======
+# Merulius aurantius Lloyd SPECIES
 
 #### Status
 ACCEPTED

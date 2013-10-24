@@ -1,17 +1,16 @@
-Phyllachora arundinariae Orton, 1944 SPECIES
-=======
+# Phyllachora shiraiana P. Syd., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 36(1): 48 (1944)
+Hedwigia 37(Beibl. ): (208) (1898)
 
 #### Original name
-Phyllachora arundinariae Orton, 1944
+Phyllachora shiraiana P. Syd., 1898
 
 ### Remarks
 null

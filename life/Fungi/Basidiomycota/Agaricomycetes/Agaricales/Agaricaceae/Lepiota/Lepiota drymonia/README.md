@@ -1,5 +1,4 @@
-Lepiota drymonia Morgan SPECIES
-=======
+# Lepiota drymonia Morgan SPECIES
 
 #### Status
 ACCEPTED

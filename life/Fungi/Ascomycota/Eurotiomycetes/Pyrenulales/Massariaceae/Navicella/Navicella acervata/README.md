@@ -1,5 +1,4 @@
-Navicella acervata (P. Karst.) Kuntze SPECIES
-=======
+# Navicella acervata (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

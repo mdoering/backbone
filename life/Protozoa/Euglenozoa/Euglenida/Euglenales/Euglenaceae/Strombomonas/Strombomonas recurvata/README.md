@@ -1,5 +1,4 @@
-Strombomonas recurvata V. Conforti & G.-J. Joo SPECIES
-=======
+# Strombomonas recurvata V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

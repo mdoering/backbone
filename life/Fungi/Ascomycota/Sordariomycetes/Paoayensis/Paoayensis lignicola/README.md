@@ -1,5 +1,4 @@
-Paoayensis lignicola Cabanela, Jeewon & K.D. Hyde, 2007 SPECIES
-=======
+# Paoayensis lignicola Cabanela, Jeewon & K.D. Hyde, 2007 SPECIES
 
 #### Status
 ACCEPTED

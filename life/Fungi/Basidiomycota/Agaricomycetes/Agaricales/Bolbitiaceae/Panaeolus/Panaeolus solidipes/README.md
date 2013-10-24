@@ -1,5 +1,4 @@
-Panaeolus solidipes (Peck) Sacc. SPECIES
-=======
+# Panaeolus solidipes (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

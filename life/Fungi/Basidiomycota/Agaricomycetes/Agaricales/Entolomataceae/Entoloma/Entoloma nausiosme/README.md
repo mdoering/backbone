@@ -1,5 +1,4 @@
-Entoloma nausiosme Noordel., 1987 SPECIES
-=======
+# Entoloma nausiosme Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED

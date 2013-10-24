@@ -1,5 +1,4 @@
-Septoria kriegeriana Bres. SPECIES
-=======
+# Septoria kriegeriana Bres. SPECIES
 
 #### Status
 ACCEPTED

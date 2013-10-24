@@ -1,5 +1,4 @@
-Aecidium petasitidis Gray SPECIES
-=======
+# Aecidium petasitidis Gray SPECIES
 
 #### Status
 ACCEPTED

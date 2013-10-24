@@ -1,14 +1,13 @@
-Cryptandromyces peyerimhoffii Maire, 1920 SPECIES
-=======
+# Corylophomyces peyerimhoffii (Maire) R.K. Benj., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aliso 14(1): 43 (1994)
 
 #### Original name
 Cryptandromyces peyerimhoffii Maire, 1920

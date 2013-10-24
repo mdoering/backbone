@@ -1,5 +1,4 @@
-Monoporisporites magnus Kalgutkar SPECIES
-=======
+# Monoporisporites magnus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

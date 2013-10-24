@@ -1,5 +1,4 @@
-Boletus rhodosanguineus Both SPECIES
-=======
+# Boletus rhodosanguineus Both SPECIES
 
 #### Status
 ACCEPTED

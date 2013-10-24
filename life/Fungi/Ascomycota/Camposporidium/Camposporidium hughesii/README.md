@@ -1,5 +1,4 @@
-Camposporidium hughesii R.F. Castañeda & Guarro SPECIES
-=======
+# Camposporidium hughesii R.F. Castañeda & Guarro SPECIES
 
 #### Status
 ACCEPTED

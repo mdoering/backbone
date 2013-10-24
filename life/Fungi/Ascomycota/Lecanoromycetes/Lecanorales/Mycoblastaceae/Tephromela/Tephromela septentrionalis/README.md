@@ -1,5 +1,4 @@
-Tephromela septentrionalis Hertel & Rambold SPECIES
-=======
+# Tephromela septentrionalis Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

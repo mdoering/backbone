@@ -1,5 +1,4 @@
-Buellia violascens Vain. SPECIES
-=======
+# Buellia violascens Vain. SPECIES
 
 #### Status
 ACCEPTED

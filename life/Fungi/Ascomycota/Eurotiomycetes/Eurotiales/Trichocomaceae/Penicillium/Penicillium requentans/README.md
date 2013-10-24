@@ -1,5 +1,4 @@
-Penicillium requentans Westling SPECIES
-=======
+# Penicillium requentans Westling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolivina huneri Howe SPECIES
-=======
+# Bolivina huneri Howe SPECIES
 
 #### Status
 ACCEPTED

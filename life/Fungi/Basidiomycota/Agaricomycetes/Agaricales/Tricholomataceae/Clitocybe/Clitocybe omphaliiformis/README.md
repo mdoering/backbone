@@ -1,5 +1,4 @@
-Clitocybe omphaliiformis Velen. SPECIES
-=======
+# Clitocybe omphaliiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

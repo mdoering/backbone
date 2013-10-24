@@ -1,5 +1,4 @@
-Leptospora indica A. Pande SPECIES
-=======
+# Leptospora indica A. Pande SPECIES
 
 #### Status
 ACCEPTED

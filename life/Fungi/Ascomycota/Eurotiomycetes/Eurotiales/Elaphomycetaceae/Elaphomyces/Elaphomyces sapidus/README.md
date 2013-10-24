@@ -1,5 +1,4 @@
-Elaphomyces sapidus Massee SPECIES
-=======
+# Elaphomyces sapidus Massee SPECIES
 
 #### Status
 ACCEPTED

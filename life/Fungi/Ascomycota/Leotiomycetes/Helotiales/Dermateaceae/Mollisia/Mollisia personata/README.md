@@ -1,5 +1,4 @@
-Mollisia personata (P. Karst.) Sacc. SPECIES
-=======
+# Mollisia personata (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

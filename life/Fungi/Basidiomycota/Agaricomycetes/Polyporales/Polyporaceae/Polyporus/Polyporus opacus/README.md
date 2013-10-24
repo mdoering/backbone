@@ -1,5 +1,4 @@
-Polyporus opacus Berk. & Mont. SPECIES
-=======
+# Polyporus opacus Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

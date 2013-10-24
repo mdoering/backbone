@@ -1,5 +1,4 @@
-Eurotium guianense Kuntze SPECIES
-=======
+# Eurotium guianense Kuntze SPECIES
 
 #### Status
 ACCEPTED

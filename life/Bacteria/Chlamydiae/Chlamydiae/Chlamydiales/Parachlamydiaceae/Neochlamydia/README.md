@@ -1,5 +1,4 @@
-Neochlamydia Horn, Wagner, Muller, Schmid, Fritsche, Schleifer & Michel, 2001 GENUS
-=======
+# Neochlamydia Horn, Wagner, Muller, Schmid, Fritsche, Schleifer & Michel, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platysma scutatum (Wulfen) M. Choisy SPECIES
-=======
+# Platysma scutatum (Wulfen) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

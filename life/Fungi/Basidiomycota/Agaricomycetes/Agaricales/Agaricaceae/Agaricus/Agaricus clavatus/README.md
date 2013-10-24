@@ -1,5 +1,4 @@
-Agaricus clavatus Schumach. SPECIES
-=======
+# Agaricus clavatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

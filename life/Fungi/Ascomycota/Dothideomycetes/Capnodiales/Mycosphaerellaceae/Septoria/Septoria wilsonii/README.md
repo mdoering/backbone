@@ -1,8 +1,7 @@
-Septoria wilsoni Clinton SPECIES
-=======
+# Septoria wilsonii Clinton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria wilsoni Clinton
+Septoria wilsonii Clinton
 
 ### Remarks
 null

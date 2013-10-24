@@ -1,5 +1,4 @@
-Urceolaria microareolata Motyka SPECIES
-=======
+# Urceolaria microareolata Motyka SPECIES
 
 #### Status
 ACCEPTED

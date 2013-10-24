@@ -1,5 +1,4 @@
-Buellia recobarina (A. Massal.) Müll. Arg. SPECIES
-=======
+# Buellia recobarina (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

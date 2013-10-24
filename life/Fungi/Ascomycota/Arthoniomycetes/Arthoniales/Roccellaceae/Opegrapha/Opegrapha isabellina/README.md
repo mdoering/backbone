@@ -1,5 +1,4 @@
-Opegrapha isabellina Riddle SPECIES
-=======
+# Opegrapha isabellina Riddle SPECIES
 
 #### Status
 ACCEPTED

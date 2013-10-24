@@ -1,5 +1,4 @@
-Hypogymnia laxa McCune SPECIES
-=======
+# Hypogymnia laxa McCune SPECIES
 
 #### Status
 ACCEPTED

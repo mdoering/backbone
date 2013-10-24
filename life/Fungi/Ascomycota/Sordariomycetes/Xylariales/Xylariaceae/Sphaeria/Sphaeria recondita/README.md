@@ -1,5 +1,4 @@
-Sphaeria recondita Schwein. SPECIES
-=======
+# Sphaeria recondita Schwein. SPECIES
 
 #### Status
 ACCEPTED

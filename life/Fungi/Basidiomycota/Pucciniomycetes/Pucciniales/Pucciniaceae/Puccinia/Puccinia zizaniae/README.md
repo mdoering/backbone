@@ -1,5 +1,4 @@
-Puccinia zizaniae Schwein. SPECIES
-=======
+# Puccinia zizaniae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Visbysphaera pirifera (Eisenack, 1954) Kiryanov, 1978 SPECIES
-=======
+# Visbysphaera pirifera (Eisenack, 1954) Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

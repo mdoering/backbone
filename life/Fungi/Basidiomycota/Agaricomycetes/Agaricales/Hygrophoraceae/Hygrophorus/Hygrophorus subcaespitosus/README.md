@@ -1,5 +1,4 @@
-Hygrophorus subcaespitosus Murrill SPECIES
-=======
+# Hygrophorus subcaespitosus Murrill SPECIES
 
 #### Status
 ACCEPTED

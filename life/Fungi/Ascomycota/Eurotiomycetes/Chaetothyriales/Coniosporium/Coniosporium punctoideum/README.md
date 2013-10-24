@@ -1,5 +1,4 @@
-Coniosporium punctoideum P. Karst. SPECIES
-=======
+# Coniosporium punctoideum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

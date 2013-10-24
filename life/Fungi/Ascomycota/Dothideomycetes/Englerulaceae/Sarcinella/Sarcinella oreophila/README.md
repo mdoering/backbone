@@ -1,5 +1,4 @@
-Sarcinella oreophila Syd. SPECIES
-=======
+# Sarcinella oreophila Syd. SPECIES
 
 #### Status
 ACCEPTED

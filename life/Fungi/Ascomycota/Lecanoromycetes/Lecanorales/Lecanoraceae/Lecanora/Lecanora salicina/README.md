@@ -1,5 +1,4 @@
-Lecanora salicina var. salicina (Schrad.) Ach. VARIETY
-=======
+# Lecanora salicina (Schrad.) Ach. SPECIES
 
 #### Status
 ACCEPTED

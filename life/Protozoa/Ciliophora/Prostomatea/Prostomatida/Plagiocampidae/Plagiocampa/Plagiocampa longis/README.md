@@ -1,5 +1,4 @@
-Plagiocampa longis Kahl, 1927 SPECIES
-=======
+# Plagiocampa longis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aithaloderma longisetum Syd. & P. Syd. SPECIES
-=======
+# Aithaloderma longisetum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

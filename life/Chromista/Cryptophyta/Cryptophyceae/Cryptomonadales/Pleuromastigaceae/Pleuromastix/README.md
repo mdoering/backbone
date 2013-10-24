@@ -1,5 +1,4 @@
-Pleuromastix A. Scherffel, 1912 GENUS
-=======
+# Pleuromastix A. Scherffel, 1912 GENUS
 
 #### Status
 ACCEPTED

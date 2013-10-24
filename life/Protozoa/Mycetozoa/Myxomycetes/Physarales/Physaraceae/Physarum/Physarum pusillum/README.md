@@ -1,17 +1,16 @@
-Lignydium calidris (Lister) Kuntze, 1898 SPECIES
-=======
+# Physarum pusillum (Berk. & M.A. Curtis) G. Lister, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Mycetozoa (London), Edn 2 64 (1911)
 
 #### Original name
-null
+Didymium pusillum Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

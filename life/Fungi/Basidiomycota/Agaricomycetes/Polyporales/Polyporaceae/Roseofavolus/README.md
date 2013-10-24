@@ -1,5 +1,4 @@
-Roseofavolus T. Hatt. GENUS
-=======
+# Roseofavolus T. Hatt. GENUS
 
 #### Status
 ACCEPTED

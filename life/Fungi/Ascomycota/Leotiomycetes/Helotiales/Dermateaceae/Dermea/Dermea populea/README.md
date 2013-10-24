@@ -1,5 +1,4 @@
-Dermea populea Schwein. SPECIES
-=======
+# Dermea populea Schwein. SPECIES
 
 #### Status
 ACCEPTED

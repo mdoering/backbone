@@ -1,5 +1,4 @@
-Lecidella personata Körb. SPECIES
-=======
+# Lecidella personata Körb. SPECIES
 
 #### Status
 ACCEPTED

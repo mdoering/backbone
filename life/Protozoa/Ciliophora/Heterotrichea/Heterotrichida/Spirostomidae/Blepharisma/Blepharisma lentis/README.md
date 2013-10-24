@@ -1,5 +1,4 @@
-Blepharisma lentis Gelei, 1954 SPECIES
-=======
+# Blepharisma lentis Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

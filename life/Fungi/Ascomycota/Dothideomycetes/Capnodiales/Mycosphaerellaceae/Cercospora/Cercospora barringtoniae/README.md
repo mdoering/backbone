@@ -1,5 +1,4 @@
-Cercospora barringtoniae (Syd. & P. Syd.) Chupp, 1953 SPECIES
-=======
+# Cercospora barringtoniae (Syd. & P. Syd.) Chupp, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia submougeotii Hale SPECIES
-=======
+# Xanthoparmelia submougeotii Hale SPECIES
 
 #### Status
 ACCEPTED

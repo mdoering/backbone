@@ -1,5 +1,4 @@
-Sphinctrina porrectula Nyl. SPECIES
-=======
+# Sphinctrina porrectula Nyl. SPECIES
 
 #### Status
 ACCEPTED

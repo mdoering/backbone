@@ -1,5 +1,4 @@
-Microthelia melanostigma Th. Fr. SPECIES
-=======
+# Microthelia melanostigma Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

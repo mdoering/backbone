@@ -1,5 +1,4 @@
-Macrophoma citri Celotti SPECIES
-=======
+# Macrophoma citri Celotti SPECIES
 
 #### Status
 ACCEPTED

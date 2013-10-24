@@ -1,5 +1,4 @@
-Coccocarpia homalantha Nyl. SPECIES
-=======
+# Coccocarpia homalantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

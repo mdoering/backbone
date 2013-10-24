@@ -1,5 +1,4 @@
-Anthina flavovirens Fr. SPECIES
-=======
+# Anthina flavovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

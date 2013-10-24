@@ -1,5 +1,4 @@
-Gymnodinium arcticum Wulff SPECIES
-=======
+# Gymnodinium arcticum Wulff SPECIES
 
 #### Status
 ACCEPTED

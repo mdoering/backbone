@@ -1,5 +1,4 @@
-Dendrotrichoscypha acanthopila Svrcek SPECIES
-=======
+# Dendrotrichoscypha acanthopila Svrcek SPECIES
 
 #### Status
 ACCEPTED

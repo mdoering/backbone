@@ -1,17 +1,16 @@
-Hydnellum rickerii Banker SPECIES
-=======
+# Hydnellum rickeri Banker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 5(4): 201 (1913)
 
 #### Original name
-Hydnellum rickerii Banker
+Hydnellum rickeri Banker
 
 ### Remarks
 null

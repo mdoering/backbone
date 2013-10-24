@@ -1,5 +1,4 @@
-Uredo ruelliae Berk. & Broome SPECIES
-=======
+# Uredo ruelliae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

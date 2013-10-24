@@ -1,5 +1,4 @@
-Lactarius fragilis var. rubidus Hesler & A.H. Sm. VARIETY
-=======
+# Lactarius fragilis (Burl.) Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-North American Species of Lactarius (Ann Arbor) 505 (1979)
+North American Species of Lactarius (Ann Arbor) 503 (1979)
 
 #### Original name
-Lactarius fragilis var. rubidus Hesler & A.H. Sm.
+Lactarius camphoratus var. fragilis (Burl.) Sacc.
 
 ### Remarks
 null

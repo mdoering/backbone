@@ -1,5 +1,4 @@
-Sphaerella elatior var. elatior VARIETY
-=======
+# Sphaerella elatior Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Michelia 1(no. 4): 379 (1878)
 
 #### Original name
-Sphaerella elatior var. elatior
+Sphaerella elatior Sacc. & Speg.
 
 ### Remarks
 null

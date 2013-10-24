@@ -1,5 +1,4 @@
-Trametes emarginata Pat. & Har. SPECIES
-=======
+# Trametes emarginata Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

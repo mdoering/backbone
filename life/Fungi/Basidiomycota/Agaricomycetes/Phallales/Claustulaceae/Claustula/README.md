@@ -1,5 +1,4 @@
-Claustula K.M. Curtis GENUS
-=======
+# Claustula K.M. Curtis GENUS
 
 #### Status
 ACCEPTED

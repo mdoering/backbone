@@ -1,5 +1,4 @@
-Kephyriopsis ellipsoidea SPECIES
-=======
+# Kephyriopsis ellipsoidea SPECIES
 
 #### Status
 ACCEPTED

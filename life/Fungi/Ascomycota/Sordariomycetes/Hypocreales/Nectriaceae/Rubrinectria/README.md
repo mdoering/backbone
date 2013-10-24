@@ -1,5 +1,4 @@
-Rubrinectria Rossman & Samuels GENUS
-=======
+# Rubrinectria Rossman & Samuels GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lesquerella mesopsammophila Chardez & Thomas, 1980 SPECIES
-=======
+# Lesquerella mesopsammophila Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coremium cordyceps Henn. SPECIES
-=======
+# Coremium cordyceps Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus persoonianus W. Phillips & Plowr. SPECIES
-=======
+# Agaricus persoonianus W. Phillips & Plowr. SPECIES
 
 #### Status
 ACCEPTED

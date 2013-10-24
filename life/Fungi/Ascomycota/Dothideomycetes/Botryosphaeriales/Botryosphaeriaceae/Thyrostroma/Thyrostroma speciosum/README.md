@@ -1,5 +1,4 @@
-Thyrostroma speciosum Petr. SPECIES
-=======
+# Thyrostroma speciosum Petr. SPECIES
 
 #### Status
 ACCEPTED

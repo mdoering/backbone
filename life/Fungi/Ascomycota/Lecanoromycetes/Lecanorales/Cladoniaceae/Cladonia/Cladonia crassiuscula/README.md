@@ -1,5 +1,4 @@
-Cladonia crassiuscula Ahti SPECIES
-=======
+# Cladonia crassiuscula Ahti SPECIES
 
 #### Status
 ACCEPTED

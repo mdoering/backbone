@@ -1,5 +1,4 @@
-Mycena pilosella var. pilosella VARIETY
-=======
+# Mycena pilosella Maas Geest. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 91(1): 46 (1988)
 
 #### Original name
-Mycena pilosella var. pilosella
+Mycena pilosella Maas Geest.
 
 ### Remarks
 null

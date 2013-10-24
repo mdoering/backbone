@@ -1,5 +1,4 @@
-Helminthosporium tritikernelis A.P. Misra SPECIES
-=======
+# Helminthosporium tritikernelis A.P. Misra SPECIES
 
 #### Status
 ACCEPTED

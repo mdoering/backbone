@@ -1,17 +1,16 @@
-Catenularia cuneiformis var. minor Hol.-Jech. VARIETY
-=======
+# Chaetosphaeria cupulifera (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 37(1): 14 (1983)
+Syll. fung. (Abellini) 2: 94 (1883)
 
 #### Original name
-Catenularia cuneiformis var. minor Hol.-Jech.
+Sphaeria cupulifera Berk. & Broome, 1871
 
 ### Remarks
 null

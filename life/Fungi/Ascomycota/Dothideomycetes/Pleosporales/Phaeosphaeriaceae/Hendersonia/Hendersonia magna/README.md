@@ -1,5 +1,4 @@
-Hendersonia magna Cooke SPECIES
-=======
+# Hendersonia magna Cooke SPECIES
 
 #### Status
 ACCEPTED

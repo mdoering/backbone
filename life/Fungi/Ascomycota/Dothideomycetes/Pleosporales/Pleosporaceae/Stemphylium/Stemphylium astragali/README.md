@@ -1,5 +1,4 @@
-Stemphylium astragali (W. Yamam.) W. Yamam. SPECIES
-=======
+# Stemphylium astragali (W. Yamam.) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

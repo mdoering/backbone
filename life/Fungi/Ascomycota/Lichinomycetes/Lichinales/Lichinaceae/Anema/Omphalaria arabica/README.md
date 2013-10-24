@@ -1,5 +1,4 @@
-Omphalaria arabica Müll. Arg. SPECIES
-=======
+# Omphalaria arabica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

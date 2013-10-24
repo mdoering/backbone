@@ -1,5 +1,4 @@
-Calothrix clavata G.S. West SPECIES
-=======
+# Calothrix clavata G.S. West SPECIES
 
 #### Status
 ACCEPTED

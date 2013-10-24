@@ -1,5 +1,4 @@
-Mycobacterium septicum Schinsky et al., 2000 SPECIES
-=======
+# Mycobacterium septicum Schinsky et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

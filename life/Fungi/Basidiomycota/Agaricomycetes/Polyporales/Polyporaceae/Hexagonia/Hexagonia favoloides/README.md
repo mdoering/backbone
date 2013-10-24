@@ -1,5 +1,4 @@
-Hexagonia favoloides Cooke SPECIES
-=======
+# Hexagonia favoloides Cooke SPECIES
 
 #### Status
 ACCEPTED

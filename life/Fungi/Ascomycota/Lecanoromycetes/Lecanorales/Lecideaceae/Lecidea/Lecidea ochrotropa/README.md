@@ -1,5 +1,4 @@
-Lecidea ochrotropa Nyl. SPECIES
-=======
+# Lecidea ochrotropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

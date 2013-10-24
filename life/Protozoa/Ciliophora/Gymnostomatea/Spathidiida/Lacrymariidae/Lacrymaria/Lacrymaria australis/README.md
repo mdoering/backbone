@@ -1,5 +1,4 @@
-Lacrymaria australis Foissner & O'Donoghue, 1990 SPECIES
-=======
+# Lacrymaria australis Foissner & O'Donoghue, 1990 SPECIES
 
 #### Status
 ACCEPTED

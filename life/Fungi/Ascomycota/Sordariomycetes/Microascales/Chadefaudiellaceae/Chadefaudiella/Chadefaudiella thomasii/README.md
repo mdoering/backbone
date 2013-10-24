@@ -1,5 +1,4 @@
-Chadefaudiella thomasii Faurel & Locq., 1972 SPECIES
-=======
+# Chadefaudiella thomasii Faurel & Locq., 1972 SPECIES
 
 #### Status
 ACCEPTED

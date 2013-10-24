@@ -1,5 +1,4 @@
-Collybia euphylla Berk. & Broome SPECIES
-=======
+# Collybia euphylla Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

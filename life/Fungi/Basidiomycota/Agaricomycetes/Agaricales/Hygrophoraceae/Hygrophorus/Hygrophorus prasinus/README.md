@@ -1,5 +1,4 @@
-Hygrophorus prasinus Berk. & Broome SPECIES
-=======
+# Hygrophorus prasinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

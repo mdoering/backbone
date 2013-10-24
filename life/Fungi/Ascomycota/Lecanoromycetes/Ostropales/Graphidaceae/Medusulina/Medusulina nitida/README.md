@@ -1,14 +1,13 @@
-Graphina nitida Eschw. SPECIES
-=======
+# Medusulina nitida (Eschw.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 2: 92 (1894)
 
 #### Original name
 Graphina nitida Eschw.

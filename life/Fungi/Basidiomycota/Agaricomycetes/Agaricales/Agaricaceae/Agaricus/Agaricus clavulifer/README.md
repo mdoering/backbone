@@ -1,5 +1,4 @@
-Agaricus clavulifer Berk. & Broome SPECIES
-=======
+# Agaricus clavulifer Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

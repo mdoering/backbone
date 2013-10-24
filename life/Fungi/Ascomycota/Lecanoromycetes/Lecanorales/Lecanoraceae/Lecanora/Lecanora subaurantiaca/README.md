@@ -1,5 +1,4 @@
-Lecanora subaurantiaca Fée SPECIES
-=======
+# Lecanora subaurantiaca Fée SPECIES
 
 #### Status
 ACCEPTED

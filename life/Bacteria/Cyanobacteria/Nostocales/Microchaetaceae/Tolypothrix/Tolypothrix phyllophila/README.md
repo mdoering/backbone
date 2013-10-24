@@ -1,5 +1,4 @@
-Tolypothrix phyllophila W. West & G.S. West SPECIES
-=======
+# Tolypothrix phyllophila W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

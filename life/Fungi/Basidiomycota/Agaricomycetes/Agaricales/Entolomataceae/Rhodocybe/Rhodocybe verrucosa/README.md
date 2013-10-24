@@ -1,5 +1,4 @@
-Rhodocybe verrucosa (Thiers) T.J. Baroni & E. Horak SPECIES
-=======
+# Rhodocybe verrucosa (Thiers) T.J. Baroni & E. Horak SPECIES
 
 #### Status
 ACCEPTED

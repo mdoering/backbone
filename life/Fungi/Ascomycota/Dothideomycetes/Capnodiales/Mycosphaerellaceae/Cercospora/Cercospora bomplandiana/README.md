@@ -1,5 +1,4 @@
-Cercospora bomplandiana Speg. SPECIES
-=======
+# Cercospora bomplandiana Speg. SPECIES
 
 #### Status
 ACCEPTED

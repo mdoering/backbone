@@ -1,5 +1,4 @@
-Discina pallida Velen. SPECIES
-=======
+# Discina pallida Velen. SPECIES
 
 #### Status
 ACCEPTED

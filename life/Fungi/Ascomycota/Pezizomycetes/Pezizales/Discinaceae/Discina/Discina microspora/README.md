@@ -1,5 +1,4 @@
-Discina microspora Donadini SPECIES
-=======
+# Discina microspora Donadini SPECIES
 
 #### Status
 ACCEPTED

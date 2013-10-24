@@ -1,5 +1,4 @@
-Pseudothiopsella hirtellae Petr., 1928 SPECIES
-=======
+# Pseudothiopsella hirtellae Petr., 1928 SPECIES
 
 #### Status
 ACCEPTED

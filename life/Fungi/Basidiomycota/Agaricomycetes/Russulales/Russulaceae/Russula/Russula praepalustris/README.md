@@ -1,5 +1,4 @@
-Russula praepalustris Murrill SPECIES
-=======
+# Russula praepalustris Murrill SPECIES
 
 #### Status
 ACCEPTED

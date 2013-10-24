@@ -1,5 +1,4 @@
-Diplodina sparti (Tassi) Sacc. & D. Sacc. SPECIES
-=======
+# Diplodina sparti (Tassi) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

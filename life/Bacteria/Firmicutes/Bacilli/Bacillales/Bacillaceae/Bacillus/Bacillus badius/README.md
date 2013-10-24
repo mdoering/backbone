@@ -1,5 +1,4 @@
-Bacillus badius Batchelor, 1919 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus badius Batchelor, 1919 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

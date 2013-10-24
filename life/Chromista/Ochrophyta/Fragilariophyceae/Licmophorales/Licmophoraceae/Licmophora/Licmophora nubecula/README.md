@@ -1,5 +1,4 @@
-Licmophora nubecula (Kützing) Grunow SPECIES
-=======
+# Licmophora nubecula (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

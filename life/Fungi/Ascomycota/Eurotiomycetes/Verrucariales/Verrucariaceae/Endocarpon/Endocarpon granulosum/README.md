@@ -1,5 +1,4 @@
-Endocarpon granulosum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Endocarpon granulosum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

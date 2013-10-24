@@ -1,5 +1,4 @@
-Entoloma avilanum (Dennis) E. Horak SPECIES
-=======
+# Entoloma avilanum (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

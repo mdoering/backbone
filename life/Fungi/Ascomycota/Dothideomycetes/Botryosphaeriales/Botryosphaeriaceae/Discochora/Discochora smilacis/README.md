@@ -1,5 +1,4 @@
-Discochora smilacis (A.J. Roy) Bissett SPECIES
-=======
+# Discochora smilacis (A.J. Roy) Bissett SPECIES
 
 #### Status
 ACCEPTED

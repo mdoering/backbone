@@ -1,5 +1,4 @@
-Trueperaceae FAMILY
-=======
+# Trueperaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus filiformis Speg. SPECIES
-=======
+# Coprinus filiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

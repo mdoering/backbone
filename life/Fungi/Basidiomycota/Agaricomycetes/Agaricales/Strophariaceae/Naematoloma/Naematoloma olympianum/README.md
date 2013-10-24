@@ -1,14 +1,13 @@
-Nematoloma olympianum (A.H. Sm.) A.H. Sm. SPECIES
-=======
+# Naematoloma olympianum (A.H. Sm.) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 38: 502 (1946)
 
 #### Original name
 Hypholoma olympianum A.H. Sm.

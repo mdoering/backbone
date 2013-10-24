@@ -1,5 +1,4 @@
-Microphiale philippinensis (Rehm) Zahlbr. SPECIES
-=======
+# Microphiale philippinensis (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

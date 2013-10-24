@@ -1,5 +1,4 @@
-Caloplaca ulcerosa Coppins & P. James SPECIES
-=======
+# Caloplaca ulcerosa Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rydbergii Garrett SPECIES
-=======
+# Puccinia rydbergii Garrett SPECIES
 
 #### Status
 ACCEPTED

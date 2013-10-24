@@ -1,5 +1,4 @@
-Revinotesta izhorica (Jankauskas, 1975) Moczydlowska, 1998 SPECIES
-=======
+# Revinotesta izhorica (Jankauskas, 1975) Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

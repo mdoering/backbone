@@ -1,5 +1,4 @@
-Exosporium acrocomiae (J.A. Stev.) Chupp SPECIES
-=======
+# Exosporium acrocomiae (J.A. Stev.) Chupp SPECIES
 
 #### Status
 ACCEPTED

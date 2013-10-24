@@ -1,5 +1,4 @@
-Marasmiellus sinensis Redhead & B. Liu SPECIES
-=======
+# Marasmiellus sinensis Redhead & B. Liu SPECIES
 
 #### Status
 ACCEPTED

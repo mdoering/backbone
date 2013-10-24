@@ -1,5 +1,4 @@
-Phaeophyscia confusa Moberg SPECIES
-=======
+# Phaeophyscia confusa Moberg SPECIES
 
 #### Status
 ACCEPTED

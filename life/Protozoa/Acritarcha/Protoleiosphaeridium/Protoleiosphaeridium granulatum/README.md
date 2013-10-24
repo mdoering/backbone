@@ -1,5 +1,4 @@
-Protoleiosphaeridium granulatum Ouyang Shu et al., 1974 SPECIES
-=======
+# Protoleiosphaeridium granulatum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

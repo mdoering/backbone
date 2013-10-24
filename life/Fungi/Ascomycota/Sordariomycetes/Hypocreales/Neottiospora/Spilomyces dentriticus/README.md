@@ -1,5 +1,4 @@
-Spilomyces dentriticus Hansf. SPECIES
-=======
+# Spilomyces dentriticus Hansf. SPECIES
 
 #### Status
 ACCEPTED

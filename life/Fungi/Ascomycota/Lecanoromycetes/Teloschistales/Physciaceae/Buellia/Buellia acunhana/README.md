@@ -1,5 +1,4 @@
-Buellia acunhana (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia acunhana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

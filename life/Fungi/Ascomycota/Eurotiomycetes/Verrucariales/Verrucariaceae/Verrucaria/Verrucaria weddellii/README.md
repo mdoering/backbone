@@ -1,5 +1,4 @@
-Verrucaria weddellii Servít SPECIES
-=======
+# Verrucaria weddellii Servít SPECIES
 
 #### Status
 ACCEPTED

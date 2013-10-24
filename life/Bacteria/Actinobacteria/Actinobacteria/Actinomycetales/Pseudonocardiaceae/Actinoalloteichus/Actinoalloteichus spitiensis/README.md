@@ -1,5 +1,4 @@
-Actinoalloteichus spitiensis Singla et al., 2005 SPECIES
-=======
+# Actinoalloteichus spitiensis Singla et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

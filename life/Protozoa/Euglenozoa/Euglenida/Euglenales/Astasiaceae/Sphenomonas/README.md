@@ -1,5 +1,4 @@
-Sphenomonas Stein, 1878 GENUS
-=======
+# Sphenomonas Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

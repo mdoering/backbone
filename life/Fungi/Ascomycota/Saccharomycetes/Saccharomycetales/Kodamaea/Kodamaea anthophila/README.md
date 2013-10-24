@@ -1,5 +1,4 @@
-Kodamaea anthophila C.A. Rosa, Lachance, Starmer, J.S.F. Barker, J.M. Bowles & Schlag-Edl., 1999 SPECIES
-=======
+# Kodamaea anthophila C.A. Rosa, Lachance, Starmer, J.S.F. Barker, J.M. Bowles & Schlag-Edl., 1999 SPECIES
 
 #### Status
 ACCEPTED

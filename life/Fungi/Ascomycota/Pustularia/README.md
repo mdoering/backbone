@@ -1,5 +1,4 @@
-Pustularia Bonorden, 1851 GENUS
-=======
+# Pustularia Bonorden, 1851 GENUS
 
 #### Status
 ACCEPTED

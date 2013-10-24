@@ -1,5 +1,4 @@
-Hysterographium funereum (De Not.) Sacc. SPECIES
-=======
+# Hysterographium funereum (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

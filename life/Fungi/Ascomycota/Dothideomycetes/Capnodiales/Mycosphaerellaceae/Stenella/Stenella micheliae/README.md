@@ -1,17 +1,16 @@
-Stenella michelina S. Chaudhary & R.K. Chaudhary SPECIES
-=======
+# Stenella micheliae S. Chaudhary & R.K. Chaudhary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Frontiers of Fungal Diversity in India (Lucknow), (Prof. Kamal Festschrift) 599 (2003)
 
 #### Original name
-Stenella michelina S. Chaudhary & R.K. Chaudhary
+Stenella micheliae S. Chaudhary & R.K. Chaudhary
 
 ### Remarks
 null

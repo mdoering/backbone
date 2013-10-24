@@ -1,5 +1,4 @@
-Blepharisma ichthyoides Gelei, 1933 SPECIES
-=======
+# Blepharisma ichthyoides Gelei, 1933 SPECIES
 
 #### Status
 ACCEPTED

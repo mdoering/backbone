@@ -1,5 +1,4 @@
-Graphina dispersa Redinger SPECIES
-=======
+# Graphina dispersa Redinger SPECIES
 
 #### Status
 ACCEPTED

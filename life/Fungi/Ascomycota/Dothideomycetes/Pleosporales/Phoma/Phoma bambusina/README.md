@@ -1,5 +1,4 @@
-Phoma bambusina Speg. SPECIES
-=======
+# Phoma bambusina Speg. SPECIES
 
 #### Status
 ACCEPTED

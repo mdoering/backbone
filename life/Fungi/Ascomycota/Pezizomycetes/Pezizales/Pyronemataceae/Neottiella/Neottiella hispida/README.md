@@ -1,5 +1,4 @@
-Neottiella hispida (Quél.) Sacc. SPECIES
-=======
+# Neottiella hispida (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

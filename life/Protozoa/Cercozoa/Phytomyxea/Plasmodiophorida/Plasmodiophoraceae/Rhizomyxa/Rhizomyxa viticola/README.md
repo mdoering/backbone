@@ -1,5 +1,4 @@
-Rhizomyxa viticola H.R. Rode SPECIES
-=======
+# Rhizomyxa viticola H.R. Rode SPECIES
 
 #### Status
 ACCEPTED

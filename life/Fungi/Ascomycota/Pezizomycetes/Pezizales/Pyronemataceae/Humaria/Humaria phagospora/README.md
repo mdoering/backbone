@@ -1,5 +1,4 @@
-Humaria phagospora Flageolet & Los Rios SPECIES
-=======
+# Humaria phagospora Flageolet & Los Rios SPECIES
 
 #### Status
 ACCEPTED

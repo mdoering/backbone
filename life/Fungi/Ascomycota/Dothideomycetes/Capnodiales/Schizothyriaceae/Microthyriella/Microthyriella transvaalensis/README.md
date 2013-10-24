@@ -1,5 +1,4 @@
-Microthyriella transvaalensis Doidge SPECIES
-=======
+# Microthyriella transvaalensis Doidge SPECIES
 
 #### Status
 ACCEPTED

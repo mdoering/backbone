@@ -1,5 +1,4 @@
-Cercosporella cardariae Vasyag. SPECIES
-=======
+# Cercosporella cardariae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

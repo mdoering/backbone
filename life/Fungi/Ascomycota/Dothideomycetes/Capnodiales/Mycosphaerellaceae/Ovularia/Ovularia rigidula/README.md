@@ -1,5 +1,4 @@
-Ovularia rigidula Delacr. SPECIES
-=======
+# Ovularia rigidula Delacr. SPECIES
 
 #### Status
 ACCEPTED

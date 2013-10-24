@@ -1,5 +1,4 @@
-Euphacus Lemmermann, 1901 GENUS
-=======
+# Euphacus Lemmermann, 1901 GENUS
 
 #### Status
 ACCEPTED

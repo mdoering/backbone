@@ -1,5 +1,4 @@
-Trichodothella Petr. GENUS
-=======
+# Trichodothella Petr. GENUS
 
 #### Status
 ACCEPTED

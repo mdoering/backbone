@@ -1,5 +1,4 @@
-Selenosporium cuticola R. Blanch. SPECIES
-=======
+# Selenosporium cuticola R. Blanch. SPECIES
 
 #### Status
 ACCEPTED

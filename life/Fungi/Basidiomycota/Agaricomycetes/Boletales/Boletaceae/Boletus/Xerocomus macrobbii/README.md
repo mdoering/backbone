@@ -1,14 +1,13 @@
-Boletus macrobbii (McNabb) G. Stev., 1982 SPECIES
-=======
+# Xerocomus macrobbii McNabb, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Field Guide to Fungi 91 (1982)
+N. Z. Jl Bot. 6(2): 147 (1968)
 
 #### Original name
 Xerocomus macrobbii McNabb, 1968

@@ -1,5 +1,4 @@
-Endocarpon tortuosum Herre SPECIES
-=======
+# Endocarpon tortuosum Herre SPECIES
 
 #### Status
 ACCEPTED

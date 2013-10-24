@@ -1,5 +1,4 @@
-Fumagospora cistophila (Fr.) Bat. & Cif. SPECIES
-=======
+# Fumagospora cistophila (Fr.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

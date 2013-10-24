@@ -1,5 +1,4 @@
-Corticium subterraneum Harz SPECIES
-=======
+# Corticium subterraneum Harz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria alligata Fr. SPECIES
-=======
+# Sphaeria alligata Fr. SPECIES
 
 #### Status
 ACCEPTED

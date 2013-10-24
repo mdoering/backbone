@@ -1,5 +1,4 @@
-Torula poikilospora Takah. {?} SPECIES
-=======
+# Torula poikilospora Takah. {?} SPECIES
 
 #### Status
 ACCEPTED

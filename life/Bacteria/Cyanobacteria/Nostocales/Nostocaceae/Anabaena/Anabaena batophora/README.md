@@ -1,5 +1,4 @@
-Anabaena batophora Frémy SPECIES
-=======
+# Anabaena batophora Frémy SPECIES
 
 #### Status
 ACCEPTED

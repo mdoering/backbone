@@ -1,5 +1,4 @@
-Clasterosporium anomalum (Speg.) S. Hughes SPECIES
-=======
+# Clasterosporium anomalum (Speg.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena porrea (Pers.) Gray SPECIES
-=======
+# Mycena porrea (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

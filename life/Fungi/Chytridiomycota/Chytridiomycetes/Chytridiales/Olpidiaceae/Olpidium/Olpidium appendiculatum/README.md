@@ -1,5 +1,4 @@
-Olpidium appendiculatum Karling, 1966 SPECIES
-=======
+# Olpidium appendiculatum Karling, 1966 SPECIES
 
 #### Status
 ACCEPTED

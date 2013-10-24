@@ -1,5 +1,4 @@
-Catharinia moehringiae Rehm SPECIES
-=======
+# Catharinia moehringiae Rehm SPECIES
 
 #### Status
 ACCEPTED

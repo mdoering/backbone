@@ -1,5 +1,4 @@
-Passalora pastinacae (Sacc.) U. Braun SPECIES
-=======
+# Passalora pastinacae (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

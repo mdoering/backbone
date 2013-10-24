@@ -1,5 +1,4 @@
-Catellatospora coxensis Ara & Kudo, 2006 SPECIES
-=======
+# Catellatospora coxensis Ara & Kudo, 2006 SPECIES
 
 #### Status
 ACCEPTED

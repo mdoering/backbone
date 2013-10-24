@@ -1,17 +1,16 @@
-Xeromphalina fraxinophila var. fraxinophila A.H. Sm. VARIETY
-=======
+# Xeromphalina fraxinophila A.H. Sm., 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Xeromphalina fraxinophila var. fraxinophila A.H. Sm.
+Xeromphalina fraxinophila A.H. Sm., 1953
 
 ### Remarks
 null

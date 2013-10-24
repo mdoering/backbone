@@ -1,17 +1,16 @@
-Periconiella trichostigmae J. Mena & Mercado SPECIES
-=======
+# Periconiella trichostigmatis J. Mena & Mercado SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mercado Sierra & Mena Portales, Acta bot. , Szeged 32(1-4): 199 (1986)
 
 #### Original name
-Periconiella trichostigmae J. Mena & Mercado
+Periconiella trichostigmatis J. Mena & Mercado
 
 ### Remarks
 null

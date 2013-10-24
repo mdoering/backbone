@@ -1,5 +1,4 @@
-Ogataea paradorogensis Nakase, Ninomiya, H. Kawas. & Limtong, 2008 SPECIES
-=======
+# Ogataea paradorogensis Nakase, Ninomiya, H. Kawas. & Limtong, 2008 SPECIES
 
 #### Status
 ACCEPTED

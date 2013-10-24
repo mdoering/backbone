@@ -1,5 +1,4 @@
-Meliola chamissoae Hansf. SPECIES
-=======
+# Meliola chamissoae Hansf. SPECIES
 
 #### Status
 ACCEPTED

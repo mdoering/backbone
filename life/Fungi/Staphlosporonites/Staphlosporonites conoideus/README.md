@@ -1,5 +1,4 @@
-Staphlosporonites conoideus Sheffy & Dilcher SPECIES
-=======
+# Staphlosporonites conoideus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

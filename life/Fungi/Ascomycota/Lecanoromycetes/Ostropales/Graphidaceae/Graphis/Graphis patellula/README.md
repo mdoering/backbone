@@ -1,5 +1,4 @@
-Graphis patellula (Fée) Nyl. SPECIES
-=======
+# Graphis patellula (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

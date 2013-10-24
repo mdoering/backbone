@@ -1,5 +1,4 @@
-Pluteus treubianus Henn. & E. Nyman SPECIES
-=======
+# Pluteus treubianus Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

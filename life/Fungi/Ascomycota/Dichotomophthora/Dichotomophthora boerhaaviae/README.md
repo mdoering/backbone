@@ -1,5 +1,4 @@
-Dichotomophthora boerhaaviae F.O. Freire SPECIES
-=======
+# Dichotomophthora boerhaaviae F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

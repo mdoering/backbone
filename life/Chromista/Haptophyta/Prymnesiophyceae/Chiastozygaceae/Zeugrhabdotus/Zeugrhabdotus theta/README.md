@@ -1,5 +1,4 @@
-Zeugrhabdotus theta (Black in Black & Barnes, 1959) Black, 1973 SPECIES
-=======
+# Zeugrhabdotus theta (Black in Black & Barnes, 1959) Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena slavjanskiensis Proskiensis-Lavrenko SPECIES
-=======
+# Euglena slavjanskiensis Proskiensis-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

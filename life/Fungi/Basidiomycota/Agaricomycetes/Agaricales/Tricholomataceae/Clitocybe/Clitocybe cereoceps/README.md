@@ -1,5 +1,4 @@
-Clitocybe cereoceps H.E. Bigelow SPECIES
-=======
+# Clitocybe cereoceps H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

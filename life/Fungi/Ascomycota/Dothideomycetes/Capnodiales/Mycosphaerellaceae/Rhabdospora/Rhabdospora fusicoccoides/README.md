@@ -1,5 +1,4 @@
-Rhabdospora fusicoccoides (Sacc. & Roum.) Sacc. SPECIES
-=======
+# Rhabdospora fusicoccoides (Sacc. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

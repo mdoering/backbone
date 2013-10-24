@@ -1,5 +1,4 @@
-Xylostroma ramentaceum Pers. SPECIES
-=======
+# Xylostroma ramentaceum Pers. SPECIES
 
 #### Status
 ACCEPTED

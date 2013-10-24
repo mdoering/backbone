@@ -1,5 +1,4 @@
-Vascellum cingulatum Homrich SPECIES
-=======
+# Vascellum cingulatum Homrich SPECIES
 
 #### Status
 ACCEPTED

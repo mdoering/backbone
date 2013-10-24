@@ -1,5 +1,4 @@
-Bacillus weihenstephanensis Lechner et al., 1998 SPECIES
-=======
+# Bacillus weihenstephanensis Lechner et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

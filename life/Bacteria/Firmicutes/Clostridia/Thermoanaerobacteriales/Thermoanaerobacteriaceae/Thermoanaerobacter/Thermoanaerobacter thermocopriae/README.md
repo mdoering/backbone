@@ -1,8 +1,7 @@
-Clostridium thermocopriae Jin et al., 1988 SPECIES
-=======
+# Thermoanaerobacter thermocopriae (Jin et al., 1988) Collins et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

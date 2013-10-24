@@ -1,5 +1,4 @@
-Megalospora lutea Flot. SPECIES
-=======
+# Megalospora lutea Flot. SPECIES
 
 #### Status
 ACCEPTED

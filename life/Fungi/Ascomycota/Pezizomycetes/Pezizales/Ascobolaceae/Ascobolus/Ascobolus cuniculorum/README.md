@@ -1,5 +1,4 @@
-Ascobolus cuniculorum Bat. & Pontual SPECIES
-=======
+# Ascobolus cuniculorum Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

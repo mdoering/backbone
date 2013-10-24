@@ -1,5 +1,4 @@
-Parmelia borisorum Oxner SPECIES
-=======
+# Parmelia borisorum Oxner SPECIES
 
 #### Status
 ACCEPTED

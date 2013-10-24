@@ -1,5 +1,4 @@
-Thyrostroma eucalypti Z.Q. Yuan & Old SPECIES
-=======
+# Thyrostroma eucalypti Z.Q. Yuan & Old SPECIES
 
 #### Status
 ACCEPTED

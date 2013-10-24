@@ -1,5 +1,4 @@
-Dichothrix hosfordii (Wolle) Bornet In Setchell SPECIES
-=======
+# Dichothrix hosfordii (Wolle) Bornet In Setchell SPECIES
 
 #### Status
 ACCEPTED

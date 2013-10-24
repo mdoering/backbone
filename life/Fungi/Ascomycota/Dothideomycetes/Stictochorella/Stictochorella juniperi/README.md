@@ -1,5 +1,4 @@
-Stictochorella juniperi Höhn. SPECIES
-=======
+# Stictochorella juniperi Höhn. SPECIES
 
 #### Status
 ACCEPTED

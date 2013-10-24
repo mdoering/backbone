@@ -1,5 +1,4 @@
-Cercospora guineensis J. Kranz SPECIES
-=======
+# Cercospora guineensis J. Kranz SPECIES
 
 #### Status
 ACCEPTED

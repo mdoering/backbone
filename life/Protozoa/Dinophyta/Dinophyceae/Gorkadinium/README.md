@@ -1,14 +1,13 @@
-Tetrasphaera H. Górka, 1965 GENUS
-=======
+# Gorkadinium A.R. Loeblich Jr. & A.R. Loeblich Iii, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Palaeont. Pol. 10: 307.
+null
 
 #### Original name
 null

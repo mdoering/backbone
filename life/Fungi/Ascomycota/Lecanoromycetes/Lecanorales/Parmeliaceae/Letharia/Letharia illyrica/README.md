@@ -1,5 +1,4 @@
-Letharia illyrica (Zahlbr.) Harm. SPECIES
-=======
+# Letharia illyrica (Zahlbr.) Harm. SPECIES
 
 #### Status
 ACCEPTED

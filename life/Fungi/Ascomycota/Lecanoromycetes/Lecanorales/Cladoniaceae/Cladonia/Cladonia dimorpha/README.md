@@ -1,5 +1,4 @@
-Cladonia dimorpha S. Hammer SPECIES
-=======
+# Cladonia dimorpha S. Hammer SPECIES
 
 #### Status
 ACCEPTED

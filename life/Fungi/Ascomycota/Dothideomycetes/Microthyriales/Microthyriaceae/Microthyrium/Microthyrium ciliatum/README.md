@@ -1,5 +1,4 @@
-Microthyrium ciliatum var. ciliatum VARIETY
-=======
+# Microthyrium ciliatum Gremmen & de Kam SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 85: 210 (1969)
+null
 
 #### Original name
-Microthyrium ciliatum var. ciliatum
+null
 
 ### Remarks
 null

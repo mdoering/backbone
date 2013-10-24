@@ -1,17 +1,16 @@
-Leptomassaria capparidis S. Ahmad & Lodhi SPECIES
-=======
+# Leptomassaria capparis S. Ahmad & Lodhi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(1-4): 268 (1953)
 
 #### Original name
-Leptomassaria capparidis S. Ahmad & Lodhi
+Leptomassaria capparis S. Ahmad & Lodhi
 
 ### Remarks
 null

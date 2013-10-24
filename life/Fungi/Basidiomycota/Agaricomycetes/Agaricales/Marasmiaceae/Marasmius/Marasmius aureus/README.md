@@ -1,5 +1,4 @@
-Marasmius aureus Beeli SPECIES
-=======
+# Marasmius aureus Beeli SPECIES
 
 #### Status
 ACCEPTED

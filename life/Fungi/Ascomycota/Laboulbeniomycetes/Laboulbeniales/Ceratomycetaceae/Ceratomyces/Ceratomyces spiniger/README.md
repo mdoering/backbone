@@ -1,5 +1,4 @@
-Ceratomyces spiniger Thaxt. SPECIES
-=======
+# Ceratomyces spiniger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

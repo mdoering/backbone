@@ -1,5 +1,4 @@
-Microcoleus sociatus W. West & G. S. West SPECIES
-=======
+# Microcoleus sociatus W. West & G. S. West SPECIES
 
 #### Status
 ACCEPTED

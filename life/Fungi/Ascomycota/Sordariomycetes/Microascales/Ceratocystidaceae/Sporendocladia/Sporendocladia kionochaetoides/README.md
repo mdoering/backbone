@@ -1,5 +1,4 @@
-Sporendocladia kionochaetoides B. Sutton, 1993 SPECIES
-=======
+# Sporendocladia kionochaetoides B. Sutton, 1993 SPECIES
 
 #### Status
 ACCEPTED

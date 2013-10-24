@@ -1,5 +1,4 @@
-Trichophyton cerebriforme Sabour. SPECIES
-=======
+# Trichophyton cerebriforme Sabour. SPECIES
 
 #### Status
 ACCEPTED

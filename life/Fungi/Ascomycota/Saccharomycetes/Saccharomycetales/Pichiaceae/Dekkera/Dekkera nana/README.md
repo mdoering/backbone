@@ -1,5 +1,4 @@
-Dekkera nana P.M. Kirk, 2011 SPECIES
-=======
+# Dekkera nana P.M. Kirk, 2011 SPECIES
 
 #### Status
 ACCEPTED

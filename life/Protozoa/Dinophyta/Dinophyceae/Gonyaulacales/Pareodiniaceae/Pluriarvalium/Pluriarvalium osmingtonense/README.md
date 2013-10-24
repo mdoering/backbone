@@ -1,5 +1,4 @@
-Pluriarvalium osmingtonense Sarjeant, 1962 SPECIES
-=======
+# Pluriarvalium osmingtonense Sarjeant, 1962 SPECIES
 
 #### Status
 ACCEPTED

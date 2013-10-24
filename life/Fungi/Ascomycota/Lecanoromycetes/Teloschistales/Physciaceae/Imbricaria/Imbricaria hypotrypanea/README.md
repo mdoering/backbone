@@ -1,5 +1,4 @@
-Imbricaria hypotrypanea (Nyl.) Arnold SPECIES
-=======
+# Imbricaria hypotrypanea (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

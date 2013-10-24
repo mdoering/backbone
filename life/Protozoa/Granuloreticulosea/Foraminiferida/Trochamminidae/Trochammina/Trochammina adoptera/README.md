@@ -1,5 +1,4 @@
-Trochammina adoptera Rhumbler SPECIES
-=======
+# Trochammina adoptera Rhumbler SPECIES
 
 #### Status
 ACCEPTED

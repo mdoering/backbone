@@ -1,5 +1,4 @@
-Ctenidodinium mosaicum Dodekova, 1975 SPECIES
-=======
+# Ctenidodinium mosaicum Dodekova, 1975 SPECIES
 
 #### Status
 ACCEPTED

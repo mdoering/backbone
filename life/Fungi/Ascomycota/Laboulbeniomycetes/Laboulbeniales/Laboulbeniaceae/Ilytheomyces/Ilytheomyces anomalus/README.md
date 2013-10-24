@@ -1,5 +1,4 @@
-Ilytheomyces anomalus Thaxt. SPECIES
-=======
+# Ilytheomyces anomalus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

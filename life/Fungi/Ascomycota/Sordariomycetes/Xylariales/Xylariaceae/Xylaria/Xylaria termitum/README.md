@@ -1,5 +1,4 @@
-Xylaria termitum Jum. & H. Perrier SPECIES
-=======
+# Xylaria termitum Jum. & H. Perrier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma hookeri (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Dicaeoma hookeri (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

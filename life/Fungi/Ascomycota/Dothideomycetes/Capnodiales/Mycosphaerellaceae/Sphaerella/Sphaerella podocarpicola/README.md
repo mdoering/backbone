@@ -1,5 +1,4 @@
-Sphaerella podocarpicola Henn. SPECIES
-=======
+# Sphaerella podocarpicola Henn. SPECIES
 
 #### Status
 ACCEPTED

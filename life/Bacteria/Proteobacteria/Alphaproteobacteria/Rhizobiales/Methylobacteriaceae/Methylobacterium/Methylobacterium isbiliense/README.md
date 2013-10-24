@@ -1,5 +1,4 @@
-Methylobacterium isbiliense Gallego et al., 2005 SPECIES
-=======
+# Methylobacterium isbiliense Gallego et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

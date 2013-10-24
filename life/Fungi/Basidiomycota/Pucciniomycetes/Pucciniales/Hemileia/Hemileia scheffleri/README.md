@@ -1,5 +1,4 @@
-Hemileia scheffleri P. Syd. & Syd. SPECIES
-=======
+# Hemileia scheffleri P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

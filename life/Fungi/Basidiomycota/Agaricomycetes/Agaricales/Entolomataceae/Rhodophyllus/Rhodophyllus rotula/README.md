@@ -1,5 +1,4 @@
-Rhodophyllus rotula Romagn. SPECIES
-=======
+# Rhodophyllus rotula Romagn. SPECIES
 
 #### Status
 ACCEPTED

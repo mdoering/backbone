@@ -1,5 +1,4 @@
-Phanerodontia irpicoides (Hjortstam) Hjortstam & Ryvarden, 2010 SPECIES
-=======
+# Phanerodontia irpicoides (Hjortstam) Hjortstam & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

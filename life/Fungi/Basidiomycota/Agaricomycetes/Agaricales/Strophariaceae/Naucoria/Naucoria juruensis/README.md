@@ -1,5 +1,4 @@
-Naucoria juruensis Henn. SPECIES
-=======
+# Naucoria juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

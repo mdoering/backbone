@@ -1,5 +1,4 @@
-Lepiota weddellii Mont. SPECIES
-=======
+# Lepiota weddellii Mont. SPECIES
 
 #### Status
 ACCEPTED

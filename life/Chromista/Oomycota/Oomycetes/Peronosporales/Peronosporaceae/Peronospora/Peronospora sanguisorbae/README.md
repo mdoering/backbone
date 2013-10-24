@@ -1,5 +1,4 @@
-Peronospora sanguisorbae Gäum., 1923 SPECIES
-=======
+# Peronospora sanguisorbae Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

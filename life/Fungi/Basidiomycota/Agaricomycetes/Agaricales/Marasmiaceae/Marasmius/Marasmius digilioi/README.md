@@ -1,5 +1,4 @@
-Marasmius digilioi Singer SPECIES
-=======
+# Marasmius digilioi Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teleutosporites longus Trivedi & C.L. Verma SPECIES
-=======
+# Teleutosporites longus Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

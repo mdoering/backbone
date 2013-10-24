@@ -1,5 +1,4 @@
-Platygramme discurrens (Nyl.) Staiger SPECIES
-=======
+# Platygramme discurrens (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

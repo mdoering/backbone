@@ -1,5 +1,4 @@
-Dactylospora stipitata Hafellner SPECIES
-=======
+# Dactylospora stipitata Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploicia subcanescens (Werner) Hafellner & Poelt SPECIES
-=======
+# Diploicia subcanescens (Werner) Hafellner & Poelt SPECIES
 
 #### Status
 ACCEPTED

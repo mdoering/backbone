@@ -1,5 +1,4 @@
-Cortinarius georgiolens Rob. Henry SPECIES
-=======
+# Cortinarius georgiolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

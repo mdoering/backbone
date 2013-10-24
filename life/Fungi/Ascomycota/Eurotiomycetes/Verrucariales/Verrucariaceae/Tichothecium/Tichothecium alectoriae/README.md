@@ -1,5 +1,4 @@
-Tichothecium alectoriae D. Hawksw. SPECIES
-=======
+# Tichothecium alectoriae D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

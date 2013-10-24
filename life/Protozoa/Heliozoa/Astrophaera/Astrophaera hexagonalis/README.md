@@ -1,5 +1,4 @@
-Astrophaera hexagonalis Haeckel SPECIES
-=======
+# Astrophaera hexagonalis Haeckel SPECIES
 
 #### Status
 ACCEPTED

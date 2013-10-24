@@ -1,5 +1,4 @@
-Fusidomus arcus Grove, 1929 SPECIES
-=======
+# Fusidomus arcus Grove, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharisma semiliformis Isquith, 1966 SPECIES
-=======
+# Blepharisma semiliformis Isquith, 1966 SPECIES
 
 #### Status
 ACCEPTED

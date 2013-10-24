@@ -1,5 +1,4 @@
-Sacculidium tenuibarbatum (Eisenack, 1976) emend. Ribecai, Raevskaya & Tongiorgi, 2002 SPECIES
-=======
+# Sacculidium tenuibarbatum (Eisenack, 1976) emend. Ribecai, Raevskaya & Tongiorgi, 2002 SPECIES
 
 #### Status
 ACCEPTED

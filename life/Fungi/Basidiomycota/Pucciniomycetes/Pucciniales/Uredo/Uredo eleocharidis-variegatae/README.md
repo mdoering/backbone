@@ -1,5 +1,4 @@
-Uredo eleocharidis-variegatae Gjaerum SPECIES
-=======
+# Uredo eleocharidis-variegatae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma secretanii Kuntze SPECIES
-=======
+# Scindalma secretanii Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monosporium sclerotiale Pepere SPECIES
-=======
+# Monosporium sclerotiale Pepere SPECIES
 
 #### Status
 ACCEPTED

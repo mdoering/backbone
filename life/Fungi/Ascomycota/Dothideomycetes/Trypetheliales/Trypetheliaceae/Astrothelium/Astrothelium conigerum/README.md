@@ -1,5 +1,4 @@
-Astrothelium conigerum Zahlbr. SPECIES
-=======
+# Astrothelium conigerum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

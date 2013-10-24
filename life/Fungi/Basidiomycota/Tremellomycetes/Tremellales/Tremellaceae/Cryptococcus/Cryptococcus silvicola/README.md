@@ -1,5 +1,4 @@
-Cryptococcus silvicola Golubev & J.P. Samp. SPECIES
-=======
+# Cryptococcus silvicola Golubev & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

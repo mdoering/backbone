@@ -1,5 +1,4 @@
-Calodon velutinus (Fr.) P. Karst. SPECIES
-=======
+# Calodon velutinus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

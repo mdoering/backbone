@@ -1,5 +1,4 @@
-Lichen discoideus (Pers.) Ach. SPECIES
-=======
+# Lichen discoideus (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

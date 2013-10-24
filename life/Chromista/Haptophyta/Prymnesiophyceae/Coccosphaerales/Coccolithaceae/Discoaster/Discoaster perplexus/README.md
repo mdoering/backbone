@@ -1,5 +1,4 @@
-Discoaster perplexus Bramlette & Riedel, 1954 SPECIES
-=======
+# Discoaster perplexus Bramlette & Riedel, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiella smithiae Uppal, Patel & V.P. Bhide SPECIES
-=======
+# Parodiella smithiae Uppal, Patel & V.P. Bhide SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus congregatus (Pat.) Sacc. SPECIES
-=======
+# Cantharellus congregatus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

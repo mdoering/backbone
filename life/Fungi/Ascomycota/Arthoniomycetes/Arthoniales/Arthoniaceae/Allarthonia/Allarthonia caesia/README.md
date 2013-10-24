@@ -1,5 +1,4 @@
-Allarthonia caesia (Flot.) Zahlbr. SPECIES
-=======
+# Allarthonia caesia (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

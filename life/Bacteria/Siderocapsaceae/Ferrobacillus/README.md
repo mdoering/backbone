@@ -1,5 +1,4 @@
-Ferrobacillus GENUS
-=======
+# Ferrobacillus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen farinosus Hoffm. SPECIES
-=======
+# Lichen farinosus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

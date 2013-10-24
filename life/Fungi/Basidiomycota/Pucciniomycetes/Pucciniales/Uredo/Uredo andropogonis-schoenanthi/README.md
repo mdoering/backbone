@@ -1,5 +1,4 @@
-Uredo andropogonis-schoenanthi Henn. SPECIES
-=======
+# Uredo andropogonis-schoenanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

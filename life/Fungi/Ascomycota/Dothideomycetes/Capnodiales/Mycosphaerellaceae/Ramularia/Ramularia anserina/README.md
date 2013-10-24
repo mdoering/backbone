@@ -1,5 +1,4 @@
-Ramularia anserina Allesch. SPECIES
-=======
+# Ramularia anserina Allesch. SPECIES
 
 #### Status
 ACCEPTED

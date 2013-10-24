@@ -1,5 +1,4 @@
-Peltasterella ocoteae Bat. & Cavalc., 1959 SPECIES
-=======
+# Peltasterella ocoteae Bat. & Cavalc., 1959 SPECIES
 
 #### Status
 ACCEPTED

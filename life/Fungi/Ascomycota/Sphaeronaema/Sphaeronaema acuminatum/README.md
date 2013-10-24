@@ -1,5 +1,4 @@
-Sphaeronaema acuminatum Berk. & Ravenel SPECIES
-=======
+# Sphaeronaema acuminatum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

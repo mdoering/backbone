@@ -1,5 +1,4 @@
-Bolbitius perpusillus Speg. SPECIES
-=======
+# Bolbitius perpusillus Speg. SPECIES
 
 #### Status
 ACCEPTED

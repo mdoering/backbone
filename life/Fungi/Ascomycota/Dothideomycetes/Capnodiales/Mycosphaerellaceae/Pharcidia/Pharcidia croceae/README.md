@@ -1,5 +1,4 @@
-Pharcidia croceae Arnold SPECIES
-=======
+# Pharcidia croceae Arnold SPECIES
 
 #### Status
 ACCEPTED

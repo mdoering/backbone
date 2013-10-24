@@ -1,5 +1,4 @@
-Chaetomium hispidum Fr. SPECIES
-=======
+# Chaetomium hispidum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astasia tricophora Ehrenberg SPECIES
-=======
+# Astasia tricophora Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

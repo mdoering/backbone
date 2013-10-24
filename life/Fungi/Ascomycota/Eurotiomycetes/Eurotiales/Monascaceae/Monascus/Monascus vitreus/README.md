@@ -1,5 +1,4 @@
-Monascus vitreus K. Satô SPECIES
-=======
+# Monascus vitreus K. Satô SPECIES
 
 #### Status
 ACCEPTED

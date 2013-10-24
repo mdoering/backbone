@@ -1,5 +1,4 @@
-Usnea granadensis Motyka SPECIES
-=======
+# Usnea granadensis Motyka SPECIES
 
 #### Status
 ACCEPTED

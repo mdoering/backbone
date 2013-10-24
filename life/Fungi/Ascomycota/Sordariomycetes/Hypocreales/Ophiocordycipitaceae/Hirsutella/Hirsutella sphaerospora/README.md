@@ -1,5 +1,4 @@
-Hirsutella sphaerospora H.C. Evans & Samson SPECIES
-=======
+# Hirsutella sphaerospora H.C. Evans & Samson SPECIES
 
 #### Status
 ACCEPTED

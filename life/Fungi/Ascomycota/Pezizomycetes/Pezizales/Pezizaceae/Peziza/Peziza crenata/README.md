@@ -1,5 +1,4 @@
-Peziza crenata Bull. SPECIES
-=======
+# Peziza crenata Bull. SPECIES
 
 #### Status
 ACCEPTED

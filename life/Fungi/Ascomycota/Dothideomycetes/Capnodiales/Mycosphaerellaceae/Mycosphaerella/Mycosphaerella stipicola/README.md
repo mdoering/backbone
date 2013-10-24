@@ -1,5 +1,4 @@
-Mycosphaerella stipicola Tomilin SPECIES
-=======
+# Mycosphaerella stipicola Tomilin SPECIES
 
 #### Status
 ACCEPTED

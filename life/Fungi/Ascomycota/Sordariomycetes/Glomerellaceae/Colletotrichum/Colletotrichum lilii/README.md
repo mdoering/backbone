@@ -1,5 +1,4 @@
-Colletotrichum lilii Plakidas SPECIES
-=======
+# Colletotrichum lilii Plakidas SPECIES
 
 #### Status
 ACCEPTED

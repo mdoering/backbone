@@ -1,8 +1,7 @@
-Micula infracretacea Thierstein, 1973 SPECIES
-=======
+# Assipetra infracretacea (Thierstein, 1973) Roth, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

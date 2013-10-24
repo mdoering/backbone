@@ -1,8 +1,7 @@
-Borzia endophytica (W. & G.S. West) Anagnostidis & Komárek SPECIES
-=======
+# Aphanothece endophytica (W. West & G. S. West) J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

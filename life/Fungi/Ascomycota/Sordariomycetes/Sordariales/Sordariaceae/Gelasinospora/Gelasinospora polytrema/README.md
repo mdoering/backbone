@@ -1,5 +1,4 @@
-Gelasinospora polytrema Jeng & J.C. Krug SPECIES
-=======
+# Gelasinospora polytrema Jeng & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

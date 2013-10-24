@@ -1,5 +1,4 @@
-Biatora longispora (Degel.) Lendemer & Printzen SPECIES
-=======
+# Biatora longispora (Degel.) Lendemer & Printzen SPECIES
 
 #### Status
 ACCEPTED

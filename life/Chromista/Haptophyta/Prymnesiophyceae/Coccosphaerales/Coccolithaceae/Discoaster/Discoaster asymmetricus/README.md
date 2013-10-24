@@ -1,5 +1,4 @@
-Discoaster asymmetricus SPECIES
-=======
+# Discoaster asymmetricus SPECIES
 
 #### Status
 ACCEPTED

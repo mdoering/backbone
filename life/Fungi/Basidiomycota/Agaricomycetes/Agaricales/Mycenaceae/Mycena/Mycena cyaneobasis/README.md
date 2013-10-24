@@ -1,5 +1,4 @@
-Mycena cyaneobasis Peck SPECIES
-=======
+# Mycena cyaneobasis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lenticulina midwayensis SPECIES
-=======
+# Lenticulina midwayensis SPECIES
 
 #### Status
 ACCEPTED

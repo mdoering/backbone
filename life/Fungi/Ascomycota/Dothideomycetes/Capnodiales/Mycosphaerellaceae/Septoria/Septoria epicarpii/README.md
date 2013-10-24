@@ -1,5 +1,4 @@
-Septoria epicarpii Thüm. SPECIES
-=======
+# Septoria epicarpii Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carpenterella molinea Tehon & H.A. Harris, 1941 SPECIES
-=======
+# Carpenterella molinea Tehon & H.A. Harris, 1941 SPECIES
 
 #### Status
 ACCEPTED

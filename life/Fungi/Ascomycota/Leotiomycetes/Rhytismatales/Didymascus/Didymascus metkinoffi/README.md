@@ -1,5 +1,4 @@
-Didymascus metkinoffi Sacc., 1896 SPECIES
-=======
+# Didymascus metkinoffi Sacc., 1896 SPECIES
 
 #### Status
 ACCEPTED

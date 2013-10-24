@@ -1,5 +1,4 @@
-Laboulbenia ceratophora Thaxt. SPECIES
-=======
+# Laboulbenia ceratophora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

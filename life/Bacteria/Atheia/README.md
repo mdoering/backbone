@@ -1,5 +1,4 @@
-Atheia GENUS
-=======
+# Atheia GENUS
 
 #### Status
 ACCEPTED

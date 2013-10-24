@@ -1,5 +1,4 @@
-Dimargaris bacillispora R.K. Benj., 1959 SPECIES
-=======
+# Dimargaris bacillispora R.K. Benj., 1959 SPECIES
 
 #### Status
 ACCEPTED

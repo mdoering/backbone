@@ -1,5 +1,4 @@
-Granomarginata birlikensis Grishina in Grishina & Klenina, 1983 SPECIES
-=======
+# Granomarginata birlikensis Grishina in Grishina & Klenina, 1983 SPECIES
 
 #### Status
 ACCEPTED

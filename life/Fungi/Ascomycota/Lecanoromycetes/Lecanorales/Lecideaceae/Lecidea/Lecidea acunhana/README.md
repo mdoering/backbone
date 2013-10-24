@@ -1,5 +1,4 @@
-Lecidea acunhana Nyl. SPECIES
-=======
+# Lecidea acunhana Nyl. SPECIES
 
 #### Status
 ACCEPTED

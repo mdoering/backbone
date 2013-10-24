@@ -1,5 +1,4 @@
-Xylaria conocephala Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria conocephala Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thamnolia subfruticulosa (Elenkin) Gyeln. SPECIES
-=======
+# Thamnolia subfruticulosa (Elenkin) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

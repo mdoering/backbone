@@ -1,5 +1,4 @@
-Peziza leucostoma P. Karst. SPECIES
-=======
+# Peziza leucostoma P. Karst. SPECIES
 
 #### Status
 ACCEPTED

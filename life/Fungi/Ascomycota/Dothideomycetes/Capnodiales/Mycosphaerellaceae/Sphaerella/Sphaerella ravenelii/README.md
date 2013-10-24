@@ -1,5 +1,4 @@
-Sphaerella ravenelii Cooke SPECIES
-=======
+# Sphaerella ravenelii Cooke SPECIES
 
 #### Status
 ACCEPTED

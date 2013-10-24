@@ -1,14 +1,13 @@
-Leptonia induta (Boud.) P.D. Orton, 1960 SPECIES
-=======
+# Entoloma indutum Boud., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 177 (1960)
+Bull. Soc. mycol. Fr. 16: 194 (1900)
 
 #### Original name
 Entoloma indutum Boud., 1900

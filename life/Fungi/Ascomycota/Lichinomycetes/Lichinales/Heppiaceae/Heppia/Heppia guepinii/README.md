@@ -1,5 +1,4 @@
-Heppia guepinii var. guepinii VARIETY
-=======
+# Heppia guepinii (Delise) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heppia guepinii var. guepinii
+Endocarpon guepinii Delise
 
 ### Remarks
 null

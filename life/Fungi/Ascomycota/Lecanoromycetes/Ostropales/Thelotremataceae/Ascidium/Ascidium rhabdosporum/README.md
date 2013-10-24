@@ -1,5 +1,4 @@
-Ascidium rhabdosporum f. rhabdosporum FORM
-=======
+# Ascidium rhabdosporum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 320 (1867)
+null
 
 #### Original name
-Ascidium rhabdosporum f. rhabdosporum
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buellia callisporina C.W. Dodge SPECIES
-=======
+# Buellia callisporina C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia omophroni Speg. SPECIES
-=======
+# Laboulbenia omophroni Speg. SPECIES
 
 #### Status
 ACCEPTED

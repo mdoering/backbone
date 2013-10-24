@@ -1,5 +1,4 @@
-Tilletia madeirensis Syd. SPECIES
-=======
+# Tilletia madeirensis Syd. SPECIES
 
 #### Status
 ACCEPTED

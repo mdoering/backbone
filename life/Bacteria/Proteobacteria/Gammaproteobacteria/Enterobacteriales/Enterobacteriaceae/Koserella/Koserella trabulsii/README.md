@@ -1,5 +1,4 @@
-Koserella trabulsii Hickman-Brenner et al., 1985 SPECIES
-=======
+# Koserella trabulsii Hickman-Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

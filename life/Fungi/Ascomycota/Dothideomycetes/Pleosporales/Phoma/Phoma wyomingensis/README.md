@@ -1,5 +1,4 @@
-Phoma wyomingensis Wehm. SPECIES
-=======
+# Phoma wyomingensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

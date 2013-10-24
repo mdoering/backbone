@@ -1,5 +1,4 @@
-Nectria carneoflavida Penz. & Sacc. SPECIES
-=======
+# Nectria carneoflavida Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

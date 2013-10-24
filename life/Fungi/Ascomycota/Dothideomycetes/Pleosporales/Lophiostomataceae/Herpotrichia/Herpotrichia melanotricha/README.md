@@ -1,5 +1,4 @@
-Herpotrichia melanotricha Saccas SPECIES
-=======
+# Herpotrichia melanotricha Saccas SPECIES
 
 #### Status
 ACCEPTED

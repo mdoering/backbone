@@ -1,5 +1,4 @@
-Palaeostomocystis globosa Louwye, 1999 SPECIES
-=======
+# Palaeostomocystis globosa Louwye, 1999 SPECIES
 
 #### Status
 ACCEPTED

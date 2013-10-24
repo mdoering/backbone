@@ -1,5 +1,4 @@
-Phyllosticta cynarae Westend. SPECIES
-=======
+# Phyllosticta cynarae Westend. SPECIES
 
 #### Status
 ACCEPTED

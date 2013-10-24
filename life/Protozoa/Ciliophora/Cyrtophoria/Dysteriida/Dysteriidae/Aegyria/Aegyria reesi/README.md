@@ -1,5 +1,4 @@
-Aegyria reesi Kahl, 1931 SPECIES
-=======
+# Aegyria reesi Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

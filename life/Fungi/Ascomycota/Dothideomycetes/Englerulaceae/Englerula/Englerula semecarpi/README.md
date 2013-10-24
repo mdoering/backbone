@@ -1,5 +1,4 @@
-Englerula semecarpi Hansf. SPECIES
-=======
+# Englerula semecarpi Hansf. SPECIES
 
 #### Status
 ACCEPTED

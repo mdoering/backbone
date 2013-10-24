@@ -1,5 +1,4 @@
-Lachnella tiliae (Peck) Donk SPECIES
-=======
+# Lachnella tiliae (Peck) Donk SPECIES
 
 #### Status
 ACCEPTED

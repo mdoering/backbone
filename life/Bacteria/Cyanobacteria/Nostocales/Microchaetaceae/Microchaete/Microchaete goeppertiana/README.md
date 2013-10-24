@@ -1,5 +1,4 @@
-Microchaete goeppertiana Kirchner SPECIES
-=======
+# Microchaete goeppertiana Kirchner SPECIES
 
 #### Status
 ACCEPTED

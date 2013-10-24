@@ -1,5 +1,4 @@
-Zephirea fusispora Velen. SPECIES
-=======
+# Zephirea fusispora Velen. SPECIES
 
 #### Status
 ACCEPTED

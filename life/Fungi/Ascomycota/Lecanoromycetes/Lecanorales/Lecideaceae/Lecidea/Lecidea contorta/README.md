@@ -1,5 +1,4 @@
-Lecidea contorta Bagl. & Carestia SPECIES
-=======
+# Lecidea contorta Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

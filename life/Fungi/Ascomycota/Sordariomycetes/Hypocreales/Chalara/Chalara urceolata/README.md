@@ -1,5 +1,4 @@
-Chalara urceolata Nag Raj & W.B. Kendr., 1974 SPECIES
-=======
+# Chalara urceolata Nag Raj & W.B. Kendr., 1974 SPECIES
 
 #### Status
 ACCEPTED

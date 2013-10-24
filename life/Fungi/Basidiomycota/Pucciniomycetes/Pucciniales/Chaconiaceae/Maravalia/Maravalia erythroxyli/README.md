@@ -1,14 +1,13 @@
-Puccinia erythroxyli Viégas, 1944 SPECIES
-=======
+# Maravalia erythroxyli (Viégas) Y. Ono & J.F. Hennen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 24(4): 387 (1984)
 
 #### Original name
 Puccinia erythroxyli Viégas, 1944

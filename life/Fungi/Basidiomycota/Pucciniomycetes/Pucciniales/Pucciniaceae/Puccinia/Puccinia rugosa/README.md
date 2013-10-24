@@ -1,5 +1,4 @@
-Puccinia rugosa J.S. Billings SPECIES
-=======
+# Puccinia rugosa J.S. Billings SPECIES
 
 #### Status
 ACCEPTED

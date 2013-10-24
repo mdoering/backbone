@@ -1,5 +1,4 @@
-Cornucopiella mirabilis Höhn., 1915 SPECIES
-=======
+# Cornucopiella mirabilis Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ageratoides Ellis & Everh. SPECIES
-=======
+# Cercospora ageratoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe volvata D.E. Stuntz SPECIES
-=======
+# Inocybe volvata D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

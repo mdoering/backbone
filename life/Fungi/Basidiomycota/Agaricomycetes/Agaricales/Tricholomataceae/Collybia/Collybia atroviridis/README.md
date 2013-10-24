@@ -1,5 +1,4 @@
-Collybia atroviridis (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Collybia atroviridis (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

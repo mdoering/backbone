@@ -1,5 +1,4 @@
-Salinibacterium amurskyense Han et al., 2003 SPECIES
-=======
+# Salinibacterium amurskyense Han et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

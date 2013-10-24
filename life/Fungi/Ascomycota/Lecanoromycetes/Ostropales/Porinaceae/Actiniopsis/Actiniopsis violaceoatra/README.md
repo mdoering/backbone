@@ -1,5 +1,4 @@
-Actiniopsis violaceoatra Höhn. SPECIES
-=======
+# Actiniopsis violaceoatra Höhn. SPECIES
 
 #### Status
 ACCEPTED

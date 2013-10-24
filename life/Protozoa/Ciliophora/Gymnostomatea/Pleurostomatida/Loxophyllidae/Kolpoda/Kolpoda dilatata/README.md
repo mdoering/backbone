@@ -1,5 +1,4 @@
-Kolpoda dilatata Bory, 1824 SPECIES
-=======
+# Kolpoda dilatata Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

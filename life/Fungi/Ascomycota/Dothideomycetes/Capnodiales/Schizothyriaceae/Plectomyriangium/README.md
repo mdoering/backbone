@@ -1,5 +1,4 @@
-Plectomyriangium GENUS
-=======
+# Plectomyriangium GENUS
 
 #### Status
 ACCEPTED

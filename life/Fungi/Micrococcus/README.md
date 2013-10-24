@@ -1,5 +1,4 @@
-Micrococcus anon. GENUS
-=======
+# Micrococcus anon. GENUS
 
 #### Status
 ACCEPTED

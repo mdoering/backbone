@@ -1,5 +1,4 @@
-Tiarinella Obolkina, 1995 GENUS
-=======
+# Tiarinella Obolkina, 1995 GENUS
 
 #### Status
 ACCEPTED

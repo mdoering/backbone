@@ -1,5 +1,4 @@
-Buccinina Costa, 1861 GENUS
-=======
+# Buccinina Costa, 1861 GENUS
 
 #### Status
 ACCEPTED

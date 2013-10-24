@@ -1,5 +1,4 @@
-Asterina subglobulifera Höhn. SPECIES
-=======
+# Asterina subglobulifera Höhn. SPECIES
 
 #### Status
 ACCEPTED

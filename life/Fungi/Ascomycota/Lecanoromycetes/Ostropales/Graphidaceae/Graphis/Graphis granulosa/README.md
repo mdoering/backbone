@@ -1,5 +1,4 @@
-Graphis granulosa (Müll. Arg.) Lücking SPECIES
-=======
+# Graphis granulosa (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

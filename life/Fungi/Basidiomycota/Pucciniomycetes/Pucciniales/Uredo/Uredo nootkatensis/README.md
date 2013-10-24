@@ -1,5 +1,4 @@
-Uredo nootkatensis Trel. SPECIES
-=======
+# Uredo nootkatensis Trel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grubyella avium (Neveu-Lem.) Brumpt SPECIES
-=======
+# Grubyella avium (Neveu-Lem.) Brumpt SPECIES
 
 #### Status
 ACCEPTED

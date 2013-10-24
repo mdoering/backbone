@@ -1,5 +1,4 @@
-Plectania carranzae Calonge & M. Mata SPECIES
-=======
+# Plectania carranzae Calonge & M. Mata SPECIES
 
 #### Status
 ACCEPTED

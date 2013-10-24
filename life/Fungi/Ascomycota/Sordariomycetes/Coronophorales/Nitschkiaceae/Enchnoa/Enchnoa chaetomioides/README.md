@@ -1,5 +1,4 @@
-Enchnoa chaetomioides Penz. & Sacc. SPECIES
-=======
+# Enchnoa chaetomioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

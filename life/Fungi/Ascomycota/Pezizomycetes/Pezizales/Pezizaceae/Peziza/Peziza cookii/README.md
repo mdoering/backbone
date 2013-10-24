@@ -1,5 +1,4 @@
-Peziza cookii Pass. SPECIES
-=======
+# Peziza cookii Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanolithion carinatum Medd, 1979 SPECIES
-=======
+# Stephanolithion carinatum Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus papuasius Kalchbr. SPECIES
-=======
+# Phallus papuasius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

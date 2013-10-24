@@ -1,5 +1,4 @@
-Cruciplacolithus notus K. Perch-Nielsen SPECIES
-=======
+# Cruciplacolithus notus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

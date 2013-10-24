@@ -1,14 +1,13 @@
-Panellus mirabilis Singer, 1955 SPECIES
-=======
+# Resinomycena mirabilis (Singer) Redhead & Nagas., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47(5): 770 (1955)
+Can. J. Bot. 65(5): 973 (1987)
 
 #### Original name
 Panellus mirabilis Singer, 1955

@@ -1,5 +1,4 @@
-Hyperamminidae FAMILY
-=======
+# Hyperamminidae FAMILY
 
 #### Status
 ACCEPTED

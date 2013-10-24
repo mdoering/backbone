@@ -1,5 +1,4 @@
-Laestadia canificans (Fuckel) Sacc. SPECIES
-=======
+# Laestadia canificans (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

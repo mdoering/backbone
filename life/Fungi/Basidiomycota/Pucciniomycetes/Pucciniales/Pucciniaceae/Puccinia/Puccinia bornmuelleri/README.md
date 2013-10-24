@@ -1,5 +1,4 @@
-Puccinia bornmuelleri Magnus SPECIES
-=======
+# Puccinia bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe brunneola anon. SPECIES
-=======
+# Inocybe brunneola anon. SPECIES
 
 #### Status
 ACCEPTED

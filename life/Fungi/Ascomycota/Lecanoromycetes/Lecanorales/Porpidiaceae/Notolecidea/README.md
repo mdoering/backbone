@@ -1,5 +1,4 @@
-Notolecidea Hertel GENUS
-=======
+# Notolecidea Hertel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium caraganae Vasyag. SPECIES
-=======
+# Heterosporium caraganae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

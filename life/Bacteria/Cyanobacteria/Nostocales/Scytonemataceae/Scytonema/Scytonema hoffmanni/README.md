@@ -1,5 +1,4 @@
-Scytonema hoffmanni f. phormidioides Frémy FORM
-=======
+# Scytonema hoffmanni C. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus crataegi Baral & R. Galán SPECIES
-=======
+# Hymenoscyphus crataegi Baral & R. Galán SPECIES
 
 #### Status
 ACCEPTED

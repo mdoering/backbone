@@ -1,5 +1,4 @@
-Scyphidia cypris Dumas, 1930 SPECIES
-=======
+# Scyphidia cypris Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

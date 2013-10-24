@@ -1,17 +1,16 @@
-Splanchnonema kalakadensis Subram. & Sekar SPECIES
-=======
+# Splanchnonema kalakadense Subram. & Sekar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 15(1-2): 89 (1989)
 
 #### Original name
-Splanchnonema kalakadensis Subram. & Sekar
+Splanchnonema kalakadense Subram. & Sekar
 
 ### Remarks
 null

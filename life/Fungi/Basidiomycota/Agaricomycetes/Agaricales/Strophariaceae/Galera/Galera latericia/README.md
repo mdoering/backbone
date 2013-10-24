@@ -1,5 +1,4 @@
-Galera latericia Fr. SPECIES
-=======
+# Galera latericia Fr. SPECIES
 
 #### Status
 ACCEPTED

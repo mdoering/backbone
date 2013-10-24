@@ -1,5 +1,4 @@
-Mycosphaerella paulula (Cooke) Tomilin SPECIES
-=======
+# Mycosphaerella paulula (Cooke) Tomilin SPECIES
 
 #### Status
 ACCEPTED

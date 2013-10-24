@@ -1,5 +1,4 @@
-Lecanora dyseimata Hue SPECIES
-=======
+# Lecanora dyseimata Hue SPECIES
 
 #### Status
 ACCEPTED

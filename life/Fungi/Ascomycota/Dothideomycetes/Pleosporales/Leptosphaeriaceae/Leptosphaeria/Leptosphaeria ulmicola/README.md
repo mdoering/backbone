@@ -1,5 +1,4 @@
-Leptosphaeria ulmicola Massa SPECIES
-=======
+# Leptosphaeria ulmicola Massa SPECIES
 
 #### Status
 ACCEPTED

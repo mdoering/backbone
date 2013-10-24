@@ -1,5 +1,4 @@
-Parmelia pertransita f. pertransita FORM
-=======
+# Parmelia pertransita SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia pertransita f. pertransita
+null
 
 ### Remarks
 null

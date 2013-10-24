@@ -1,5 +1,4 @@
-Aspergillus helicothrix Al-Musallam, 1980 SPECIES
-=======
+# Aspergillus helicothrix Al-Musallam, 1980 SPECIES
 
 #### Status
 ACCEPTED

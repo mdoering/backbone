@@ -1,5 +1,4 @@
-Sporidesmium conversum W.P. Wu SPECIES
-=======
+# Sporidesmium conversum W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

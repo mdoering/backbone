@@ -1,5 +1,4 @@
-Agaricus kipukae K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus kipukae K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

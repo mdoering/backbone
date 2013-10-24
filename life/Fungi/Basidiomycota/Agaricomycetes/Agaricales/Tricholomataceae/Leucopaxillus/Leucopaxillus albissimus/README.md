@@ -1,5 +1,4 @@
-Leucopaxillus albissimus f. albissimus FORM
-=======
+# Leucopaxillus albissimus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leucopaxillus albissimus f. albissimus
+Agaricus albissimus Peck
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Pontosphaeridae FAMILY
-=======
+# Pontosphaeraceae Lemmermann, 1908 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+IRMNG Homonym List
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Ogataea pilisensis (Péter, Tornai-Leh., Fülöp & Dlauchy) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea pilisensis (Péter, Tornai-Leh., Fülöp & Dlauchy) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

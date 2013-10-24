@@ -1,5 +1,4 @@
-Pseudophyllachora caraguata Speg. SPECIES
-=======
+# Pseudophyllachora caraguata Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus virgineus Har. Takah., 2003 SPECIES
-=======
+# Crepidotus virgineus Har. Takah., 2003 SPECIES
 
 #### Status
 ACCEPTED

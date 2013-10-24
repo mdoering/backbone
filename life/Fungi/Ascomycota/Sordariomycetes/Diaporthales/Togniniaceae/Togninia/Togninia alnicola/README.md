@@ -1,5 +1,4 @@
-Togninia alnicola (Ellis & Everh.) Berl. SPECIES
-=======
+# Togninia alnicola (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

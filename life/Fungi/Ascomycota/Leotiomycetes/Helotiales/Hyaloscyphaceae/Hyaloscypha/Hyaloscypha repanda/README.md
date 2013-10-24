@@ -1,5 +1,4 @@
-Hyaloscypha repanda (W. Phillips) SPECIES
-=======
+# Hyaloscypha repanda (W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

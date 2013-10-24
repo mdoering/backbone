@@ -1,5 +1,4 @@
-Caloplaca lbmoorii Zahlbr. SPECIES
-=======
+# Caloplaca lbmoorii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

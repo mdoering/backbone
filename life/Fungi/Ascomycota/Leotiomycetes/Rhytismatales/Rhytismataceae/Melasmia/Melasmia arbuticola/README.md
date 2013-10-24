@@ -1,5 +1,4 @@
-Melasmia arbuticola Vize SPECIES
-=======
+# Melasmia arbuticola Vize SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia fernandeziana Zahlbr. SPECIES
-=======
+# Buellia fernandeziana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

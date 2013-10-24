@@ -1,5 +1,4 @@
-Patellaria cretacea SPECIES
-=======
+# Patellaria cretacea SPECIES
 
 #### Status
 ACCEPTED

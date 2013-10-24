@@ -1,17 +1,16 @@
-Cronartium coleosporioides f. album Ziller FORM
-=======
+# Cronartium coleosporioides Arthur, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 48(7): 1315 (1970)
+N. Amer. Fl. (New York) 7(2): 123 (1907)
 
 #### Original name
-Cronartium coleosporioides f. album Ziller
+Cronartium coleosporioides Arthur, 1907
 
 ### Remarks
 null

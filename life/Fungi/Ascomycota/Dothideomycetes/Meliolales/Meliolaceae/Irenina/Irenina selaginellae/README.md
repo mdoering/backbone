@@ -1,5 +1,4 @@
-Irenina selaginellae Sawada & W. Yamam. SPECIES
-=======
+# Irenina selaginellae Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

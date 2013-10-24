@@ -1,14 +1,13 @@
-Pocillaria olivaceoflavida (Cooke & Massee) Kuntze, 1898 SPECIES
-=======
+# Meiorganum olivaceoflavidus (Cooke & Massee) T.H. Li & Watling, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 506 (1898)
+Edinb. J. Bot. 56(1): 147 (1999)
 
 #### Original name
 Panus olivaceoflavidus Cooke & Massee, 1887

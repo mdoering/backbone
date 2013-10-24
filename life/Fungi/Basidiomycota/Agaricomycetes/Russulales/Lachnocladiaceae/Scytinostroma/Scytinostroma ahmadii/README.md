@@ -1,5 +1,4 @@
-Scytinostroma ahmadii Boidin & Lanq., 1987 SPECIES
-=======
+# Scytinostroma ahmadii Boidin & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

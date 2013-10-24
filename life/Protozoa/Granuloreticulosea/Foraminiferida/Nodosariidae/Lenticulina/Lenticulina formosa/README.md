@@ -1,5 +1,4 @@
-Lenticulina formosa SPECIES
-=======
+# Lenticulina formosa SPECIES
 
 #### Status
 ACCEPTED

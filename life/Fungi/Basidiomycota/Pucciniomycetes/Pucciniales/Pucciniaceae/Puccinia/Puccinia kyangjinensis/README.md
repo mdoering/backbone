@@ -1,5 +1,4 @@
-Puccinia kyangjinensis Y. Ono, Adhikari & Rajbh. SPECIES
-=======
+# Puccinia kyangjinensis Y. Ono, Adhikari & Rajbh. SPECIES
 
 #### Status
 ACCEPTED

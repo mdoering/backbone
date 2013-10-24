@@ -1,17 +1,16 @@
-Parmelia mixta Brusse SPECIES
-=======
+# Xanthoparmelia paradoxa Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 261 (1987)
 
 #### Original name
-null
+Xanthoparmelia paradoxa Hale
 
 ### Remarks
 null

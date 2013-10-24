@@ -1,11 +1,10 @@
-Corynebacterium lymphophilum (Torrey, 1916) Eberson, 1918 SPECIES
-=======
+# Propionimicrobium lymphophilum (Torrey, 1916) Stackebrandt et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

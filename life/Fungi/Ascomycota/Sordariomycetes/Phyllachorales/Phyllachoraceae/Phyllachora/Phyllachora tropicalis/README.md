@@ -1,14 +1,13 @@
-Catacauma tropicalis (Speg.) Chardón, 1932 SPECIES
-=======
+# Phyllachora tropicalis Speg., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 16: 172 (1932)
+Anal. Soc. cient. argent. 10: 145 (1880)
 
 #### Original name
 Phyllachora tropicalis Speg., 1880

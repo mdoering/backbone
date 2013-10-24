@@ -1,5 +1,4 @@
-Carchesium spectabile (Bory) Ehrenberg, 1840 SPECIES
-=======
+# Carchesium spectabile (Bory) Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

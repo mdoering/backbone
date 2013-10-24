@@ -1,5 +1,4 @@
-Puccinia heteranthae Ellis & Everh. SPECIES
-=======
+# Puccinia heteranthae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

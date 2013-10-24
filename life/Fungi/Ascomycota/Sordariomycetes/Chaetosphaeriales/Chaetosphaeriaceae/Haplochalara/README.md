@@ -1,5 +1,4 @@
-Haplochalara GENUS
-=======
+# Haplochalara GENUS
 
 #### Status
 ACCEPTED

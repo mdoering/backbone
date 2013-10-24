@@ -1,5 +1,4 @@
-Phomopsis tropaeoli Punith. & Spooner SPECIES
-=======
+# Phomopsis tropaeoli Punith. & Spooner SPECIES
 
 #### Status
 ACCEPTED

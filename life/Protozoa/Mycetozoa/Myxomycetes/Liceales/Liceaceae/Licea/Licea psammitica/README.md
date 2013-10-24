@@ -1,5 +1,4 @@
-Licea psammitica Spreng. SPECIES
-=======
+# Licea psammitica Spreng. SPECIES
 
 #### Status
 ACCEPTED

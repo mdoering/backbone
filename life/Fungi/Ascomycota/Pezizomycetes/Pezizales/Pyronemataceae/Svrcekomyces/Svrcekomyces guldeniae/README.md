@@ -1,5 +1,4 @@
-Svrcekomyces guldeniae (Svrcek) J. Moravec SPECIES
-=======
+# Svrcekomyces guldeniae (Svrcek) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotrys crassa Marchal SPECIES
-=======
+# Stachybotrys crassa Marchal SPECIES
 
 #### Status
 ACCEPTED

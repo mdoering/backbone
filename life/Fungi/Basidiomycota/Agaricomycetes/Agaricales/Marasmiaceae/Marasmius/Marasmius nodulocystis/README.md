@@ -1,5 +1,4 @@
-Marasmius nodulocystis Pegler SPECIES
-=======
+# Marasmius nodulocystis Pegler SPECIES
 
 #### Status
 ACCEPTED

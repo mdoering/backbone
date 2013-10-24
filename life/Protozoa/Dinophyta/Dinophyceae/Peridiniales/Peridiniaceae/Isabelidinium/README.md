@@ -1,17 +1,16 @@
-Isabelia J.K. Lentin & G.L. Williams, 1975 GENUS
-=======
+# Isabelidinium J.K.Lentin & G.L.Williams, 1977 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-A monograph of fossil peridinioid dinoflagellate cysts. Rep. Ser. Bedford Inst. Oceanogr. , Calgary No. 16: 56.
+Palynology 1: 167.
 
 #### Original name
-null
+Isabelia J.K. Lentin & G.L. Williams, 1975
 
 ### Remarks
 null

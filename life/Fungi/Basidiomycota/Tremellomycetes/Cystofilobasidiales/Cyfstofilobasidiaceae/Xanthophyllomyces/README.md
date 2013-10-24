@@ -1,5 +1,4 @@
-Xanthophyllomyces Golubev GENUS
-=======
+# Xanthophyllomyces Golubev GENUS
 
 #### Status
 ACCEPTED

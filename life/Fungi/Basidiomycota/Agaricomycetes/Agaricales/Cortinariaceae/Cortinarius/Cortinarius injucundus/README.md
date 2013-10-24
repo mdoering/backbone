@@ -1,5 +1,4 @@
-Cortinarius injucundus (Weinm.) Fr. SPECIES
-=======
+# Cortinarius injucundus (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

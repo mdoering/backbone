@@ -1,5 +1,4 @@
-Hebelomatis nudipes (Fr.) Locq. SPECIES
-=======
+# Hebelomatis nudipes (Fr.) Locq. SPECIES
 
 #### Status
 ACCEPTED

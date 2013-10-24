@@ -1,5 +1,4 @@
-Calicium subcinereum Nyl. SPECIES
-=======
+# Calicium subcinereum Nyl. SPECIES
 
 #### Status
 ACCEPTED

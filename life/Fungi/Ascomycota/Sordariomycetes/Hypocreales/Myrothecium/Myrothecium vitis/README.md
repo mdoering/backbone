@@ -1,5 +1,4 @@
-Myrothecium vitis Bonord. SPECIES
-=======
+# Myrothecium vitis Bonord. SPECIES
 
 #### Status
 ACCEPTED

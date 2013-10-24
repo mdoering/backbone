@@ -1,5 +1,4 @@
-Gyrodon cupreus Heinem. SPECIES
-=======
+# Gyrodon cupreus Heinem. SPECIES
 
 #### Status
 ACCEPTED

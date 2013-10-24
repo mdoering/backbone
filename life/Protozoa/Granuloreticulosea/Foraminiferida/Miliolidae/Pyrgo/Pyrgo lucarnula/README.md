@@ -1,5 +1,4 @@
-Pyrgo lucarnula (Schwager) SPECIES
-=======
+# Pyrgo lucarnula (Schwager) SPECIES
 
 #### Status
 ACCEPTED

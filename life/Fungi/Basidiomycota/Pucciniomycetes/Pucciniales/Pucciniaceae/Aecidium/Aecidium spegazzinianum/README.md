@@ -1,5 +1,4 @@
-Aecidium spegazzinianum Sacc. & Trotter SPECIES
-=======
+# Aecidium spegazzinianum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

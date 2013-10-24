@@ -1,5 +1,4 @@
-Hysterangium petri Mattir. SPECIES
-=======
+# Hysterangium petri Mattir. SPECIES
 
 #### Status
 ACCEPTED

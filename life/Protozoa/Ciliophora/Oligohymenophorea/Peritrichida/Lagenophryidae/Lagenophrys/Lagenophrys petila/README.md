@@ -1,8 +1,7 @@
-Stylohedra petila Clamp, 1994 SPECIES
-=======
+# Lagenophrys petila Clamp, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

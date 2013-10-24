@@ -1,5 +1,4 @@
-Ascochyta starcii Syd. SPECIES
-=======
+# Ascochyta starcii Syd. SPECIES
 
 #### Status
 ACCEPTED

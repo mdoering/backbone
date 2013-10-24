@@ -1,5 +1,4 @@
-Entyloma cosmi Vánky, Horita & Jage, 2005 SPECIES
-=======
+# Entyloma cosmi Vánky, Horita & Jage, 2005 SPECIES
 
 #### Status
 ACCEPTED

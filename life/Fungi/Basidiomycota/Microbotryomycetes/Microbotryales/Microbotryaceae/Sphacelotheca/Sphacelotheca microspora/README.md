@@ -1,5 +1,4 @@
-Sphacelotheca microspora (Henn.) Cif. SPECIES
-=======
+# Sphacelotheca microspora (Henn.) Cif. SPECIES
 
 #### Status
 ACCEPTED

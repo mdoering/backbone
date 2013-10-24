@@ -1,5 +1,4 @@
-Puccinia negrensis Henn. SPECIES
-=======
+# Puccinia negrensis Henn. SPECIES
 
 #### Status
 ACCEPTED

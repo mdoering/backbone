@@ -1,5 +1,4 @@
-Preussia dakotensis (Griffiths) Valldos. & Guarro, 1990 SPECIES
-=======
+# Preussia dakotensis (Griffiths) Valldos. & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

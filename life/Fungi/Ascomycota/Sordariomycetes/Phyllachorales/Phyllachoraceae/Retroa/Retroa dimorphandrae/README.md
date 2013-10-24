@@ -1,14 +1,13 @@
-Phyllachora dimorphandrae F. Stevens, 1924 SPECIES
-=======
+# Retroa dimorphandrae (F. Stevens) P.F. Cannon, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 8(3): 185 (1924)
+Mycol. Pap. 163: 202 (1991)
 
 #### Original name
 Phyllachora dimorphandrae F. Stevens, 1924

@@ -1,14 +1,13 @@
-Protomycopsis thirumalacharii Pavgi, 1965 SPECIES
-=======
+# Erratomyces thirumalacharii (Pavgi) M. Piepenbr. & R. Bauer, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Experientia 21: 282 (1965)
+Mycologia 89(6): 935 (1997)
 
 #### Original name
 Protomycopsis thirumalacharii Pavgi, 1965

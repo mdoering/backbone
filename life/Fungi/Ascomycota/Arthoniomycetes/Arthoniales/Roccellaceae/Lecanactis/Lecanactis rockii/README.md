@@ -1,5 +1,4 @@
-Lecanactis rockii Zahlbr. SPECIES
-=======
+# Lecanactis rockii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

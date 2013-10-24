@@ -1,17 +1,16 @@
-Uredo iriomotense Hirats. f. & S. Kaneko SPECIES
-=======
+# Uredo iriomotensis Hirats. f. & S. Kaneko SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hiratsuka, Kaneko & Obira, Rep. Tottori Mycol. Inst. 12: 66 (1975)
 
 #### Original name
-Uredo iriomotense Hirats. f. & S. Kaneko
+Uredo iriomotensis Hirats. f. & S. Kaneko
 
 ### Remarks
 null

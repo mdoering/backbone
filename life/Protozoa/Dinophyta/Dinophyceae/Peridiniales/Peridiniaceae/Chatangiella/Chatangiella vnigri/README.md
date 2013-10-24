@@ -1,5 +1,4 @@
-Chatangiella vnigri (Vozzhennikova, 1967) Lentin & Williams SPECIES
-=======
+# Chatangiella vnigri (Vozzhennikova, 1967) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidiaceae J. Schröt. FAMILY
-=======
+# Olpidiaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

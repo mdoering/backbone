@@ -1,5 +1,4 @@
-Zythia atriplicis Tassi SPECIES
-=======
+# Zythia atriplicis Tassi SPECIES
 
 #### Status
 ACCEPTED

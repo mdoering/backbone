@@ -1,5 +1,4 @@
-Dermatocarpon rupicola (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon rupicola (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

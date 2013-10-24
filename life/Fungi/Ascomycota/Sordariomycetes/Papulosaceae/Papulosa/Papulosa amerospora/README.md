@@ -1,5 +1,4 @@
-Papulosa amerospora Kohlm. & Volkm.-Kohlm., 1993 SPECIES
-=======
+# Papulosa amerospora Kohlm. & Volkm.-Kohlm., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaucheria cruciata (Vaucher) de Candolle in Lamarck & de Candolle SPECIES
-=======
+# Vaucheria cruciata (Vaucher) de Candolle in Lamarck & de Candolle SPECIES
 
 #### Status
 ACCEPTED

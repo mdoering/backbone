@@ -1,5 +1,4 @@
-Asteridium erysiphoides Rehm SPECIES
-=======
+# Asteridium erysiphoides Rehm SPECIES
 
 #### Status
 ACCEPTED

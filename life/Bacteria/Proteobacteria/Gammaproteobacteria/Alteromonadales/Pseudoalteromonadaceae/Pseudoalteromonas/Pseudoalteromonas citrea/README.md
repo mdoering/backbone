@@ -1,14 +1,13 @@
-Alteromonas citrea Gauthier, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Pseudoalteromonas citrea (Gauthier, 1977) Gauthier et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gauthier, M. J. "Alteromonas citrea sp. nov. , a new Gram-negative yellow pigmented bacterium isolated from seawater. " Int. J. Syst. Bacteriol. (1977) 27:349-354.
 
 #### Original name
 null

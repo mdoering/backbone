@@ -1,5 +1,4 @@
-Boletellus pictiformis (Murrill) Singer SPECIES
-=======
+# Boletellus pictiformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

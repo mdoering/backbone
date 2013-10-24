@@ -1,5 +1,4 @@
-Haemogregarina gobii Brumpt & Lebailly, 1904 SPECIES
-=======
+# Haemogregarina gobii Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

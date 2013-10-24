@@ -1,5 +1,4 @@
-Pertusaria phlyctaenula Nyl. SPECIES
-=======
+# Pertusaria phlyctaenula Nyl. SPECIES
 
 #### Status
 ACCEPTED

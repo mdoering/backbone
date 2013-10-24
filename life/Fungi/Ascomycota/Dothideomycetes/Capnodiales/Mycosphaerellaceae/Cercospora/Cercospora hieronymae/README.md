@@ -1,5 +1,4 @@
-Cercospora hieronymae Chupp SPECIES
-=======
+# Cercospora hieronymae Chupp SPECIES
 
 #### Status
 ACCEPTED

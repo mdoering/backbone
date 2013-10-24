@@ -1,14 +1,13 @@
-Porina rubrofusca (Malcolm & Vezda) Lücking SPECIES
-=======
+# Polycornum rubrofuscum Malcolm & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 88: 418 (2004)
+Folia geobot. phytotax. 30(1): 91 (1995)
 
 #### Original name
 Polycornum rubrofuscum Malcolm & Vezda

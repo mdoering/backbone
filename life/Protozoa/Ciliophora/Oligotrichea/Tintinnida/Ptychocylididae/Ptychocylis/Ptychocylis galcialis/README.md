@@ -1,5 +1,4 @@
-Ptychocylis galcialis Meunier, 1910 SPECIES
-=======
+# Ptychocylis galcialis Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

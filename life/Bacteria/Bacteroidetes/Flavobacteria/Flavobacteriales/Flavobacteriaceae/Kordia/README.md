@@ -1,5 +1,4 @@
-Kordia Sohn, Lee, Yi, Chun, Bae, Ahn & Kim, 2004 GENUS
-=======
+# Kordia Sohn, Lee, Yi, Chun, Bae, Ahn & Kim, 2004 GENUS
 
 #### Status
 ACCEPTED

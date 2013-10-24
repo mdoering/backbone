@@ -1,5 +1,4 @@
-Ramalinaceae C. Agardh FAMILY
-=======
+# Ramalinaceae C. Agardh FAMILY
 
 #### Status
 ACCEPTED

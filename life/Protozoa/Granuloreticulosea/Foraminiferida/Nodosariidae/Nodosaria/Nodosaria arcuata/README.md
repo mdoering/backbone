@@ -1,5 +1,4 @@
-Nodosaria arcuata d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria arcuata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

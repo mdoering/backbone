@@ -1,5 +1,4 @@
-Pleospora neottiae Hollós SPECIES
-=======
+# Pleospora neottiae Hollós SPECIES
 
 #### Status
 ACCEPTED

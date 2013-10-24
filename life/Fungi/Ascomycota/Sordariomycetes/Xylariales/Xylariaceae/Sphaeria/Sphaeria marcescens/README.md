@@ -1,5 +1,4 @@
-Sphaeria marcescens Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria marcescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

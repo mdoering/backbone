@@ -1,5 +1,4 @@
-Passalora bocconiae (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora bocconiae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

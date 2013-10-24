@@ -1,5 +1,4 @@
-Lepocolla Eklund GENUS
-=======
+# Lepocolla Eklund GENUS
 
 #### Status
 ACCEPTED

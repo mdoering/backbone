@@ -1,14 +1,13 @@
-Hormiscium altum Ehrenb., 1817 SPECIES
-=======
+# Taeniolella alta (Ehrenb.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sylv. mycol. berol. (Berlin) 10, 22 (1817)
+Can. J. Bot. 36: 817 (1958)
 
 #### Original name
 Hormiscium altum Ehrenb., 1817

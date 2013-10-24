@@ -1,5 +1,4 @@
-Desulfotalea arctica Knoblauch et al., 1999 SPECIES
-=======
+# Desulfotalea arctica Knoblauch et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

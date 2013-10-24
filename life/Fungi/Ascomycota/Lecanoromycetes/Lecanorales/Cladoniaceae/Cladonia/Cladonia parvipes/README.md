@@ -1,5 +1,4 @@
-Cladonia parvipes (Vain.) S. Stenroos SPECIES
-=======
+# Cladonia parvipes (Vain.) S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

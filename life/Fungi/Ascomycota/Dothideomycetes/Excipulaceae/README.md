@@ -1,5 +1,4 @@
-Excipulaceae Bonord. FAMILY
-=======
+# Excipulaceae Bonord. FAMILY
 
 #### Status
 ACCEPTED

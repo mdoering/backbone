@@ -1,5 +1,4 @@
-Quasiborelis Hanzawa, 1967 GENUS
-=======
+# Quasiborelis Hanzawa, 1967 GENUS
 
 #### Status
 ACCEPTED

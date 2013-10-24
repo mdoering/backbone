@@ -1,5 +1,4 @@
-Polystictus latipileus Sacc. SPECIES
-=======
+# Polystictus latipileus Sacc. SPECIES
 
 #### Status
 ACCEPTED

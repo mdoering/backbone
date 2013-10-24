@@ -1,5 +1,4 @@
-Pyramidulina candei (d'Orbigny, 1839) SPECIES
-=======
+# Pyramidulina candei (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triasina Majzon, 1954 GENUS
-=======
+# Triasina Majzon, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium bellidiastri Unger SPECIES
-=======
+# Aecidium bellidiastri Unger SPECIES
 
 #### Status
 ACCEPTED

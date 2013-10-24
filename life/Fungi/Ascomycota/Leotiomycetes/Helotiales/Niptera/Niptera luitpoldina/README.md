@@ -1,5 +1,4 @@
-Niptera luitpoldina Rehm SPECIES
-=======
+# Niptera luitpoldina Rehm SPECIES
 
 #### Status
 ACCEPTED

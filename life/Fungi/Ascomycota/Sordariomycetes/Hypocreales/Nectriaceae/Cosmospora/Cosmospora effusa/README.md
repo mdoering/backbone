@@ -1,5 +1,4 @@
-Cosmospora effusa (Teng) W.Y. Zhuang & X.M. Zhang SPECIES
-=======
+# Cosmospora effusa (Teng) W.Y. Zhuang & X.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

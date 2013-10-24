@@ -1,5 +1,4 @@
-Biscogniauxia waitpela Van der Gucht, 1996 SPECIES
-=======
+# Biscogniauxia waitpela Van der Gucht, 1996 SPECIES
 
 #### Status
 ACCEPTED

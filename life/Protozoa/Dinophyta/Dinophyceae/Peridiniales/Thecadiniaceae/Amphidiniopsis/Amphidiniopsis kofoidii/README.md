@@ -1,5 +1,4 @@
-Amphidiniopsis kofoidii Woloszynska SPECIES
-=======
+# Amphidiniopsis kofoidii Woloszynska SPECIES
 
 #### Status
 ACCEPTED

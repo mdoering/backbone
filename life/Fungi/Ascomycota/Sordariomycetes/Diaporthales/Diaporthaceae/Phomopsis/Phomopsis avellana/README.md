@@ -1,5 +1,4 @@
-Phomopsis avellana Petr. SPECIES
-=======
+# Phomopsis avellana Petr. SPECIES
 
 #### Status
 ACCEPTED

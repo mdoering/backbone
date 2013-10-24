@@ -1,5 +1,4 @@
-Lophophaenula Haeckel, 1887 GENUS
-=======
+# Lophophaenula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrapteromonas J. Ruinen, 1938 GENUS
-=======
+# Tetrapteromonas J. Ruinen, 1938 GENUS
 
 #### Status
 ACCEPTED

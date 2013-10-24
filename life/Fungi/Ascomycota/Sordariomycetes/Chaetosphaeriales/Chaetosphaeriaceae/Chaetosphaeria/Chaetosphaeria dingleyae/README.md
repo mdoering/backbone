@@ -1,5 +1,4 @@
-Chaetosphaeria dingleyae S. Hughes, W.B. Kendr. & Shoemaker, 1968 SPECIES
-=======
+# Chaetosphaeria dingleyae S. Hughes, W.B. Kendr. & Shoemaker, 1968 SPECIES
 
 #### Status
 ACCEPTED

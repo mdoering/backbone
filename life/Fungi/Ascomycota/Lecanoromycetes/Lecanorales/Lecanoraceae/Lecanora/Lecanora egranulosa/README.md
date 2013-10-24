@@ -1,5 +1,4 @@
-Lecanora egranulosa Nyl. SPECIES
-=======
+# Lecanora egranulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

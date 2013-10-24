@@ -1,14 +1,13 @@
-Ricasolia plurimiseptata C. Knight SPECIES
-=======
+# Lobaria plurimiseptata (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bailey, Synops. Queensl. Fl. 2(Suppl. ): 81 (1888)
+Cat. Lich. Univers. 3: 309 (1925)
 
 #### Original name
 Ricasolia plurimiseptata C. Knight

@@ -1,14 +1,13 @@
-Phlegmacium xanthocephalum (P.D. Orton) M.M. Moser, 1960 SPECIES
-=======
+# Cortinarius xanthocephalus P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Gatt. Phlegm. 334 (1960)
+Trans. Br. mycol. Soc. 43: 214 (1960)
 
 #### Original name
 Cortinarius xanthocephalus P.D. Orton, 1960

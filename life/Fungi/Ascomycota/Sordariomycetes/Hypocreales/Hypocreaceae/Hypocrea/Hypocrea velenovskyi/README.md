@@ -1,5 +1,4 @@
-Hypocrea velenovskyi (Z. Moravec) P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea velenovskyi (Z. Moravec) P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

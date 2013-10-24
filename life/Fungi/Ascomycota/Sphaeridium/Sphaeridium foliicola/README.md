@@ -1,5 +1,4 @@
-Sphaeridium foliicola Sm. {?} SPECIES
-=======
+# Sphaeridium foliicola Sm. {?} SPECIES
 
 #### Status
 ACCEPTED

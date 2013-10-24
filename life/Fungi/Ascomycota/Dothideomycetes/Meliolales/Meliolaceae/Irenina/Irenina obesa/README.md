@@ -1,5 +1,4 @@
-Irenina obesa (Speg.) F. Stevens SPECIES
-=======
+# Irenina obesa (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

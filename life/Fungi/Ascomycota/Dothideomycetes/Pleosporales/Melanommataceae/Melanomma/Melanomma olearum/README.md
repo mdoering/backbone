@@ -1,5 +1,4 @@
-Melanomma olearum (Castagne) Sacc. SPECIES
-=======
+# Melanomma olearum (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prevotella enoeca Moore et al., 1994 SPECIES
-=======
+# Prevotella enoeca Moore et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

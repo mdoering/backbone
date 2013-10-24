@@ -1,5 +1,4 @@
-Hypocopra erecta Speg. SPECIES
-=======
+# Hypocopra erecta Speg. SPECIES
 
 #### Status
 ACCEPTED

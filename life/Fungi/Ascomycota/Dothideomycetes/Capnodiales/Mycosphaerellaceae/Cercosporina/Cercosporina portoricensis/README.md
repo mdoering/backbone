@@ -1,5 +1,4 @@
-Cercosporina portoricensis Sacc. SPECIES
-=======
+# Cercosporina portoricensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

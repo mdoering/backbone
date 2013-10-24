@@ -1,5 +1,4 @@
-Altererythrobacter epoxidivorans Kwon, Woo, Yang, Kang, Kang, Kim, Sato & Kato, 2007 SPECIES
-=======
+# Altererythrobacter epoxidivorans Kwon, Woo, Yang, Kang, Kang, Kim, Sato & Kato, 2007 SPECIES
 
 #### Status
 ACCEPTED

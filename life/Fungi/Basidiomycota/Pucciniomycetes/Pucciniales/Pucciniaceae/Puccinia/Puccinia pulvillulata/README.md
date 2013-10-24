@@ -1,5 +1,4 @@
-Puccinia pulvillulata Lindr. SPECIES
-=======
+# Puccinia pulvillulata Lindr. SPECIES
 
 #### Status
 ACCEPTED

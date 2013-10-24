@@ -1,5 +1,4 @@
-Crepidotus sarawakensis Pilát SPECIES
-=======
+# Crepidotus sarawakensis Pilát SPECIES
 
 #### Status
 ACCEPTED

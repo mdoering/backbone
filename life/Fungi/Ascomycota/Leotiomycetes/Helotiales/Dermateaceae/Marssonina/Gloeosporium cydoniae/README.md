@@ -1,5 +1,4 @@
-Gloeosporium cydoniae Mont. SPECIES
-=======
+# Gloeosporium cydoniae Mont. SPECIES
 
 #### Status
 ACCEPTED

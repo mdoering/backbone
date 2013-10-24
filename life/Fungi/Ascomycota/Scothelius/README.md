@@ -1,5 +1,4 @@
-Scothelius Bat., J.L. Bezerra & Cavalc. GENUS
-=======
+# Scothelius Bat., J.L. Bezerra & Cavalc. GENUS
 
 #### Status
 ACCEPTED

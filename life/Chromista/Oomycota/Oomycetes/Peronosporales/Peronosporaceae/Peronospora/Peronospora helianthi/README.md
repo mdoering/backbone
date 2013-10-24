@@ -1,5 +1,4 @@
-Peronospora helianthi Rostr. SPECIES
-=======
+# Peronospora helianthi Rostr. SPECIES
 
 #### Status
 ACCEPTED

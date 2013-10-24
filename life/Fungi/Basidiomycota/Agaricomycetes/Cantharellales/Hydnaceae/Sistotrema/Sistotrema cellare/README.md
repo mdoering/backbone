@@ -1,5 +1,4 @@
-Sistotrema cellare SPECIES
-=======
+# Sistotrema cellare SPECIES
 
 #### Status
 ACCEPTED

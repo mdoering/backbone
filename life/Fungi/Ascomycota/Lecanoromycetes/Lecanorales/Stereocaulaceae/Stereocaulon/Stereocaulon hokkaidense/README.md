@@ -1,5 +1,4 @@
-Stereocaulon hokkaidense Asahina & I.M. Lamb SPECIES
-=======
+# Stereocaulon hokkaidense Asahina & I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

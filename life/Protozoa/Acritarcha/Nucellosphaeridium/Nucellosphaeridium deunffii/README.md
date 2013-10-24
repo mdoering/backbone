@@ -1,5 +1,4 @@
-Nucellosphaeridium deunffii Timofeev, 1966 SPECIES
-=======
+# Nucellosphaeridium deunffii Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

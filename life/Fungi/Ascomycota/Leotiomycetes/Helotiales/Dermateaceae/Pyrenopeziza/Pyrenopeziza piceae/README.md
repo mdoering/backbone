@@ -1,5 +1,4 @@
-Pyrenopeziza piceae Kirschst. SPECIES
-=======
+# Pyrenopeziza piceae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

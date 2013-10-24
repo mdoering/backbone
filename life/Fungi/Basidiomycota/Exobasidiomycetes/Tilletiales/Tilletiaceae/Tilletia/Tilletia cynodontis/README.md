@@ -1,5 +1,4 @@
-Tilletia cynodontis Vánky, 2001 SPECIES
-=======
+# Tilletia cynodontis Vánky, 2001 SPECIES
 
 #### Status
 ACCEPTED

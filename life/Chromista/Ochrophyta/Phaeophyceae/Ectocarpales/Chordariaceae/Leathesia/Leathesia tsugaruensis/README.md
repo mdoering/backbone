@@ -1,5 +1,4 @@
-Leathesia tsugaruensis Ohta SPECIES
-=======
+# Leathesia tsugaruensis Ohta SPECIES
 
 #### Status
 ACCEPTED

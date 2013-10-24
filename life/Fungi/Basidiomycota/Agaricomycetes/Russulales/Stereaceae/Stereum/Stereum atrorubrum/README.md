@@ -1,5 +1,4 @@
-Stereum atrorubrum Ellis & Everh. SPECIES
-=======
+# Stereum atrorubrum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

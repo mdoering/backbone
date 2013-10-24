@@ -1,5 +1,4 @@
-Sarcographa decolorascens (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa decolorascens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

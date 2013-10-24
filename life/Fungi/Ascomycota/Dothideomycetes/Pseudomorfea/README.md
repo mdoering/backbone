@@ -1,5 +1,4 @@
-Pseudomorfea Punith. GENUS
-=======
+# Pseudomorfea Punith. GENUS
 
 #### Status
 ACCEPTED

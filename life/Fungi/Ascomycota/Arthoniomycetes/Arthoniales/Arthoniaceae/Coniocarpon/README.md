@@ -1,5 +1,4 @@
-Coniocarpon GENUS
-=======
+# Coniocarpon GENUS
 
 #### Status
 ACCEPTED

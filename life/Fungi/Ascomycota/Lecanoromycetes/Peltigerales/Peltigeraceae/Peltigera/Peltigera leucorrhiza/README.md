@@ -1,5 +1,4 @@
-Peltigera leucorrhiza Flörke SPECIES
-=======
+# Peltigera leucorrhiza Flörke SPECIES
 
 #### Status
 ACCEPTED

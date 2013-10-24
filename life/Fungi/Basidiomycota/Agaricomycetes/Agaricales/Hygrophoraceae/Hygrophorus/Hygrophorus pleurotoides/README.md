@@ -1,5 +1,4 @@
-Hygrophorus pleurotoides J. Favre SPECIES
-=======
+# Hygrophorus pleurotoides J. Favre SPECIES
 
 #### Status
 ACCEPTED

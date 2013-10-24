@@ -1,5 +1,4 @@
-Hedstroemia moldavica O. Dragastan SPECIES
-=======
+# Hedstroemia moldavica O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

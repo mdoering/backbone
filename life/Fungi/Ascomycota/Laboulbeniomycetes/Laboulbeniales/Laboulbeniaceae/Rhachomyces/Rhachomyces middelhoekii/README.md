@@ -1,5 +1,4 @@
-Rhachomyces middelhoekii Bánhegyi SPECIES
-=======
+# Rhachomyces middelhoekii Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

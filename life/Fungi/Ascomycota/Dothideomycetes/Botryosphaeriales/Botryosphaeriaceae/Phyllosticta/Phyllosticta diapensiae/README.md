@@ -1,5 +1,4 @@
-Phyllosticta diapensiae Pat. SPECIES
-=======
+# Phyllosticta diapensiae Pat. SPECIES
 
 #### Status
 ACCEPTED

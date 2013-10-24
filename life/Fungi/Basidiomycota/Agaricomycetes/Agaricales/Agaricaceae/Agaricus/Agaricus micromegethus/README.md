@@ -1,5 +1,4 @@
-Agaricus micromegethus Peck SPECIES
-=======
+# Agaricus micromegethus Peck SPECIES
 
 #### Status
 ACCEPTED

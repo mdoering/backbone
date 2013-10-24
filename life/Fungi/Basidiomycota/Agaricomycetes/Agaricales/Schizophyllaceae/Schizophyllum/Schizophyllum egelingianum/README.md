@@ -1,5 +1,4 @@
-Schizophyllum egelingianum Ellis & Everh. SPECIES
-=======
+# Schizophyllum egelingianum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

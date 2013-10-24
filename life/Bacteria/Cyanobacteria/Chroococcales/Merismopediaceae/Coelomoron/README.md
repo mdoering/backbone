@@ -1,5 +1,4 @@
-Coelomoron Buell, 1938 GENUS
-=======
+# Coelomoron Buell, 1938 GENUS
 
 #### Status
 ACCEPTED

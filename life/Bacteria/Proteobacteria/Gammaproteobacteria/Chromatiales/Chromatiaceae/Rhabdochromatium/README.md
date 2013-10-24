@@ -1,5 +1,4 @@
-Rhabdochromatium (Winogradsky, 1888) Dilling, W., Liesack & Pfenig, 1996 GENUS
-=======
+# Rhabdochromatium (Winogradsky, 1888) Dilling, W., Liesack & Pfenig, 1996 GENUS
 
 #### Status
 ACCEPTED

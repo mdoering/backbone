@@ -1,5 +1,4 @@
-Cladoniomyces GENUS
-=======
+# Cladoniomyces GENUS
 
 #### Status
 ACCEPTED

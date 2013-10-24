@@ -1,5 +1,4 @@
-Arcyria monticola Y. Yamam. & H. Hagiw., 2005 SPECIES
-=======
+# Arcyria monticola Y. Yamam. & H. Hagiw., 2005 SPECIES
 
 #### Status
 ACCEPTED

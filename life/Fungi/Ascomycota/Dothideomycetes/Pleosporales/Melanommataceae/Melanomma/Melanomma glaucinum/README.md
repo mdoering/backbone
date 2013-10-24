@@ -1,5 +1,4 @@
-Melanomma glaucinum (Fr.) Starbäck SPECIES
-=======
+# Melanomma glaucinum (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

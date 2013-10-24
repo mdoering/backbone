@@ -1,5 +1,4 @@
-Mossopisporites Kalgutkar & Janson. GENUS
-=======
+# Mossopisporites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

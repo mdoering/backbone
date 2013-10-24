@@ -1,5 +1,4 @@
-Rhabdospora ilicigena Fairm. SPECIES
-=======
+# Rhabdospora ilicigena Fairm. SPECIES
 
 #### Status
 ACCEPTED

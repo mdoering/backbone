@@ -1,5 +1,4 @@
-Poculum collinum Velen. SPECIES
-=======
+# Poculum collinum Velen. SPECIES
 
 #### Status
 ACCEPTED

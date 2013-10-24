@@ -1,5 +1,4 @@
-Thelotrema albo-olivaceum Vain. SPECIES
-=======
+# Thelotrema albo-olivaceum Vain. SPECIES
 
 #### Status
 ACCEPTED

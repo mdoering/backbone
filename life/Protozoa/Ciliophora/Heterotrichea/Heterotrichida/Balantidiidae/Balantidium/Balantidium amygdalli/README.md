@@ -1,5 +1,4 @@
-Balantidium amygdalli Bhatia & Gulati, 1927 SPECIES
-=======
+# Balantidium amygdalli Bhatia & Gulati, 1927 SPECIES
 
 #### Status
 ACCEPTED

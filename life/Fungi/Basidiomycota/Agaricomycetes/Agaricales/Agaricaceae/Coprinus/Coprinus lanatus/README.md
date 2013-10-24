@@ -1,5 +1,4 @@
-Coprinus lanatus Bogart SPECIES
-=======
+# Coprinus lanatus Bogart SPECIES
 
 #### Status
 ACCEPTED

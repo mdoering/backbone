@@ -1,5 +1,4 @@
-Zooathamnium GENUS
-=======
+# Zooathamnium GENUS
 
 #### Status
 ACCEPTED

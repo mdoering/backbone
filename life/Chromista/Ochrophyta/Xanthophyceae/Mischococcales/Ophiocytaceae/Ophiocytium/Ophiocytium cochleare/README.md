@@ -1,5 +1,4 @@
-Ophiocytium cochleare var. arbuscula (A. Braun) Playfair VARIETY
-=======
+# Ophiocytium cochleare (Eichwald) A. Braun SPECIES
 
 #### Status
 ACCEPTED

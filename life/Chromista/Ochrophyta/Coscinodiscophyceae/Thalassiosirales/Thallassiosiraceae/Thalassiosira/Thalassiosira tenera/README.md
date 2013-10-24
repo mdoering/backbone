@@ -1,5 +1,4 @@
-Thalassiosira tenera Proshkina-Lavrenko SPECIES
-=======
+# Thalassiosira tenera Proshkina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

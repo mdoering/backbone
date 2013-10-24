@@ -1,5 +1,4 @@
-Volvariella liliputiana (Henn.) G.C. Rath SPECIES
-=======
+# Volvariella liliputiana (Henn.) G.C. Rath SPECIES
 
 #### Status
 ACCEPTED

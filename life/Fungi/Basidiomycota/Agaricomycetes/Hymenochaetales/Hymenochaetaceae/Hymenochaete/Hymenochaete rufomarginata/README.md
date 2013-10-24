@@ -1,5 +1,4 @@
-Hymenochaete rufomarginata Imazeki, 1940 SPECIES
-=======
+# Hymenochaete rufomarginata Imazeki, 1940 SPECIES
 
 #### Status
 ACCEPTED

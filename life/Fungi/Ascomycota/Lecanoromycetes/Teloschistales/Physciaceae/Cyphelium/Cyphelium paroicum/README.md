@@ -1,5 +1,4 @@
-Cyphelium paroicum (Ach.) Arnold SPECIES
-=======
+# Cyphelium paroicum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED

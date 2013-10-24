@@ -1,5 +1,4 @@
-Thielavia bovina Scalia SPECIES
-=======
+# Thielavia bovina Scalia SPECIES
 
 #### Status
 ACCEPTED

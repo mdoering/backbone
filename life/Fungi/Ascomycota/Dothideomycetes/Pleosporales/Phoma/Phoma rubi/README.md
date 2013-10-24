@@ -1,5 +1,4 @@
-Phoma rubi Marignoni SPECIES
-=======
+# Phoma rubi Marignoni SPECIES
 
 #### Status
 ACCEPTED

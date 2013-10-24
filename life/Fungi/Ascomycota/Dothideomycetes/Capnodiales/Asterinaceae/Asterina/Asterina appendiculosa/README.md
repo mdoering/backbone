@@ -1,5 +1,4 @@
-Asterina appendiculosa (Mont. & Berk.) Mont. SPECIES
-=======
+# Asterina appendiculosa (Mont. & Berk.) Mont. SPECIES
 
 #### Status
 ACCEPTED

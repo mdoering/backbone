@@ -1,5 +1,4 @@
-Placodium kamtczaticum Savicz SPECIES
-=======
+# Placodium kamtczaticum Savicz SPECIES
 
 #### Status
 ACCEPTED

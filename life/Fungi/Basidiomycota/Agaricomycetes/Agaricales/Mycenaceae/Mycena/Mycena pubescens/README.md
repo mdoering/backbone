@@ -1,5 +1,4 @@
-Mycena pubescens Murrill SPECIES
-=======
+# Mycena pubescens Murrill SPECIES
 
 #### Status
 ACCEPTED

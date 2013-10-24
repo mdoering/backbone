@@ -1,5 +1,4 @@
-Acanthocolla Schewiakoff, 1926 GENUS
-=======
+# Acanthocolla Schewiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

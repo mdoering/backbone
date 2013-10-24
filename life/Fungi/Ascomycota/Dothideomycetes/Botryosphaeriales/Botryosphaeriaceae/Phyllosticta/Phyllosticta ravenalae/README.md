@@ -1,5 +1,4 @@
-Phyllosticta ravenalae Bat. SPECIES
-=======
+# Phyllosticta ravenalae Bat. SPECIES
 
 #### Status
 ACCEPTED

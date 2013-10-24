@@ -1,5 +1,4 @@
-Phaeangium peckianum (Cooke) Sacc. & P. Syd. SPECIES
-=======
+# Phaeangium peckianum (Cooke) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

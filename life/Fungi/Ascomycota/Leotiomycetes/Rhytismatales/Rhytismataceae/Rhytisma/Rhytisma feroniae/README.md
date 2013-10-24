@@ -1,5 +1,4 @@
-Rhytisma feroniae Ettingsh. SPECIES
-=======
+# Rhytisma feroniae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

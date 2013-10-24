@@ -1,5 +1,4 @@
-Ascochyta obducens Fuckel SPECIES
-=======
+# Ascochyta obducens Fuckel SPECIES
 
 #### Status
 ACCEPTED

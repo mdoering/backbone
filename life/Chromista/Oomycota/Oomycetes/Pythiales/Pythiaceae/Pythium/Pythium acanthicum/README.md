@@ -1,5 +1,4 @@
-Pythium acanthicum Drechsler, 1930 SPECIES
-=======
+# Pythium acanthicum Drechsler, 1930 SPECIES
 
 #### Status
 ACCEPTED

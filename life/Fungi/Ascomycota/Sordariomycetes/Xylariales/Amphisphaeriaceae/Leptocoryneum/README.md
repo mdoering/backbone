@@ -1,5 +1,4 @@
-Leptocoryneum GENUS
-=======
+# Leptocoryneum GENUS
 
 #### Status
 ACCEPTED

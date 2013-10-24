@@ -1,5 +1,4 @@
-Verrucaria retrospiciens Stirt. SPECIES
-=======
+# Verrucaria retrospiciens Stirt. SPECIES
 
 #### Status
 ACCEPTED

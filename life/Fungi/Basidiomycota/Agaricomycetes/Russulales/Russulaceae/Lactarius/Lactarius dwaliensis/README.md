@@ -1,5 +1,4 @@
-Lactarius dwaliensis K. Das, J.R. Sharma & Verbeken SPECIES
-=======
+# Lactarius dwaliensis K. Das, J.R. Sharma & Verbeken SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polysporina terricola Kantvilas SPECIES
-=======
+# Polysporina terricola Kantvilas SPECIES
 
 #### Status
 ACCEPTED

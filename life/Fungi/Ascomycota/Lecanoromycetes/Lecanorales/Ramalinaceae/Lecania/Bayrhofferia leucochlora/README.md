@@ -1,5 +1,4 @@
-Bayrhofferia leucochlora (Mont.) Trevis. SPECIES
-=======
+# Bayrhofferia leucochlora (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

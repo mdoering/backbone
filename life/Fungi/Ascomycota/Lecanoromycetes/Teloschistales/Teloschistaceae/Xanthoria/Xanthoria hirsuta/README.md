@@ -1,5 +1,4 @@
-Xanthoria hirsuta Eichenberger, Aptroot & Honegger SPECIES
-=======
+# Xanthoria hirsuta Eichenberger, Aptroot & Honegger SPECIES
 
 #### Status
 ACCEPTED

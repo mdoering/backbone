@@ -1,5 +1,4 @@
-Stereocaulon stenospermum (I.M. Lamb) I.M. Lamb SPECIES
-=======
+# Stereocaulon stenospermum (I.M. Lamb) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

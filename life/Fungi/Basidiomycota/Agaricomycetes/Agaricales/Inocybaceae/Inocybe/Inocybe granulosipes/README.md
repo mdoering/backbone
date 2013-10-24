@@ -1,5 +1,4 @@
-Inocybe granulosipes Cleland SPECIES
-=======
+# Inocybe granulosipes Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planoprotostelium aurantium L.S. Olive & Stoian., 1971 SPECIES
-=======
+# Planoprotostelium aurantium L.S. Olive & Stoian., 1971 SPECIES
 
 #### Status
 ACCEPTED

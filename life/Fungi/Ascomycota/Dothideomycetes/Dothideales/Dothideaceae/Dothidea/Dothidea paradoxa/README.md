@@ -1,5 +1,4 @@
-Dothidea paradoxa Duby SPECIES
-=======
+# Dothidea paradoxa Duby SPECIES
 
 #### Status
 ACCEPTED

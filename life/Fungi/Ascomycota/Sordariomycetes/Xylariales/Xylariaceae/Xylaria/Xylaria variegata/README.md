@@ -1,5 +1,4 @@
-Xylaria variegata Syd. {?} SPECIES
-=======
+# Xylaria variegata Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

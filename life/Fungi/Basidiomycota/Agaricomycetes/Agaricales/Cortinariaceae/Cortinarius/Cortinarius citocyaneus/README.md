@@ -1,5 +1,4 @@
-Cortinarius citocyaneus Rob. Henry SPECIES
-=======
+# Cortinarius citocyaneus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

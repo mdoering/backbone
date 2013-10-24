@@ -1,5 +1,4 @@
-Lepiota lateritiopurpurea Lj.N. Vassiljeva SPECIES
-=======
+# Lepiota lateritiopurpurea Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

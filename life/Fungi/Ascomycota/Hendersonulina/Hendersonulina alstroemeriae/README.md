@@ -1,5 +1,4 @@
-Hendersonulina alstroemeriae Speg. SPECIES
-=======
+# Hendersonulina alstroemeriae Speg. SPECIES
 
 #### Status
 ACCEPTED

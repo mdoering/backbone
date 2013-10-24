@@ -1,5 +1,4 @@
-Physopella bagchii Buriticá & J.F. Hennen SPECIES
-=======
+# Physopella bagchii Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

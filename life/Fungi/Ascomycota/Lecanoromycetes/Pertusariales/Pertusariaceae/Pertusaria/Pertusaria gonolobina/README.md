@@ -1,5 +1,4 @@
-Pertusaria gonolobina Müll. Arg. SPECIES
-=======
+# Pertusaria gonolobina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

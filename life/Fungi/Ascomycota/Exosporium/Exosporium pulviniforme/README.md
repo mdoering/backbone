@@ -1,5 +1,4 @@
-Exosporium pulviniforme (Syd.) M.B. Ellis SPECIES
-=======
+# Exosporium pulviniforme (Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

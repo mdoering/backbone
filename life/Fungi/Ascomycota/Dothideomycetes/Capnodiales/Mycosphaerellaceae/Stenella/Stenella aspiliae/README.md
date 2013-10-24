@@ -1,5 +1,4 @@
-Stenella aspiliae (J.M. Yen & Gilles) U. Braun SPECIES
-=======
+# Stenella aspiliae (J.M. Yen & Gilles) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otidea aurantia var. aurantia VARIETY
-=======
+# Otidea aurantia (Pers.) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Otidea aurantia var. aurantia
+Peziza aurantia Pers., 1800
 
 ### Remarks
 null

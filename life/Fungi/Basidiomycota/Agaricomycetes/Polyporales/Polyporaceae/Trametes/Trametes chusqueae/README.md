@@ -1,5 +1,4 @@
-Trametes chusqueae Pat. SPECIES
-=======
+# Trametes chusqueae Pat. SPECIES
 
 #### Status
 ACCEPTED

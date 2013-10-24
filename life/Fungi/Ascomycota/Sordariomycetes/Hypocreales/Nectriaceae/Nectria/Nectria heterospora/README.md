@@ -1,5 +1,4 @@
-Nectria heterospora Speg. SPECIES
-=======
+# Nectria heterospora Speg. SPECIES
 
 #### Status
 ACCEPTED

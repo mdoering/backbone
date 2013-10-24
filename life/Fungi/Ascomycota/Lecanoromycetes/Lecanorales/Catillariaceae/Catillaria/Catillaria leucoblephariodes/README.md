@@ -1,5 +1,4 @@
-Catillaria leucoblephariodes (G. Merr.) Zahlbr. SPECIES
-=======
+# Catillaria leucoblephariodes (G. Merr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palusphaera Lecal, 1966 GENUS
-=======
+# Palusphaera Lecal, 1966 GENUS
 
 #### Status
 ACCEPTED

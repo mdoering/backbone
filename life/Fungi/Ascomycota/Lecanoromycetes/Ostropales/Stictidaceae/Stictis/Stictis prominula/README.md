@@ -1,5 +1,4 @@
-Stictis prominula Schwein. SPECIES
-=======
+# Stictis prominula Schwein. SPECIES
 
 #### Status
 ACCEPTED

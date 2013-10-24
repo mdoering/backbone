@@ -1,5 +1,4 @@
-Pinchatia Shibuya, 1931 GENUS
-=======
+# Pinchatia Shibuya, 1931 GENUS
 
 #### Status
 ACCEPTED

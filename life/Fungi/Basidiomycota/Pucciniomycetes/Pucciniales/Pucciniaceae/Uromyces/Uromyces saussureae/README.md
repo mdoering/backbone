@@ -1,5 +1,4 @@
-Uromyces saussureae P. Karst. SPECIES
-=======
+# Uromyces saussureae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

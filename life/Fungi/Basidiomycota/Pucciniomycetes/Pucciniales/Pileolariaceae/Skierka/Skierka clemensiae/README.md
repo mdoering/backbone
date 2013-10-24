@@ -1,5 +1,4 @@
-Skierka clemensiae Cummins, 1941 SPECIES
-=======
+# Skierka clemensiae Cummins, 1941 SPECIES
 
 #### Status
 ACCEPTED

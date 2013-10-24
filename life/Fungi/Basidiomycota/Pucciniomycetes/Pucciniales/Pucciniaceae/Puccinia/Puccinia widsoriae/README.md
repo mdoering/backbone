@@ -1,5 +1,4 @@
-Puccinia widsoriae Schwein. SPECIES
-=======
+# Puccinia widsoriae Schwein. SPECIES
 
 #### Status
 ACCEPTED

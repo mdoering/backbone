@@ -1,5 +1,4 @@
-Puccinia oenotherae Vize SPECIES
-=======
+# Puccinia oenotherae Vize SPECIES
 
 #### Status
 ACCEPTED

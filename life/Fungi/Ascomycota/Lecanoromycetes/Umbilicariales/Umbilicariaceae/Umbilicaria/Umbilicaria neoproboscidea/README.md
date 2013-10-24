@@ -1,5 +1,4 @@
-Umbilicaria neoproboscidea J.C. Wei SPECIES
-=======
+# Umbilicaria neoproboscidea J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

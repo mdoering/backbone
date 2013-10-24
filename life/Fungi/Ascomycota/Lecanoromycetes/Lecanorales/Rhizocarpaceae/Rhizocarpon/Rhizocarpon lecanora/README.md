@@ -1,5 +1,4 @@
-Rhizocarpon lecanora SPECIES
-=======
+# Rhizocarpon lecanora SPECIES
 
 #### Status
 ACCEPTED

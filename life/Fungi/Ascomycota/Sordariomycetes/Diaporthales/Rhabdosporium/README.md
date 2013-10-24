@@ -1,5 +1,4 @@
-Rhabdosporium F.F. Chevallier, 1826 GENUS
-=======
+# Rhabdosporium F.F. Chevallier, 1826 GENUS
 
 #### Status
 ACCEPTED

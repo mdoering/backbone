@@ -1,5 +1,4 @@
-Skeletonema potamos (Weber) Hasle SPECIES
-=======
+# Skeletonema potamos (Weber) Hasle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus furcatus Velen. SPECIES
-=======
+# Hygrophorus furcatus Velen. SPECIES
 
 #### Status
 ACCEPTED

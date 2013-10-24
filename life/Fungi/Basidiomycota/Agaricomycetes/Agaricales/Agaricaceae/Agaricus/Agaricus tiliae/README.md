@@ -1,5 +1,4 @@
-Agaricus tiliae G.H. Otth SPECIES
-=======
+# Agaricus tiliae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

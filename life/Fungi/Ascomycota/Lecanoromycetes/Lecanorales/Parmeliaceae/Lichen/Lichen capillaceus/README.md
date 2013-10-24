@@ -1,5 +1,4 @@
-Lichen capillaceus Dubois SPECIES
-=======
+# Lichen capillaceus Dubois SPECIES
 
 #### Status
 ACCEPTED

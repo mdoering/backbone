@@ -1,5 +1,4 @@
-Euglyphella Valkanov, 1962 GENUS
-=======
+# Euglyphella Valkanov, 1962 GENUS
 
 #### Status
 ACCEPTED

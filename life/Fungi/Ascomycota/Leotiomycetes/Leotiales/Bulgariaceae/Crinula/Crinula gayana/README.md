@@ -1,5 +1,4 @@
-Crinula gayana Mont. SPECIES
-=======
+# Crinula gayana Mont. SPECIES
 
 #### Status
 ACCEPTED

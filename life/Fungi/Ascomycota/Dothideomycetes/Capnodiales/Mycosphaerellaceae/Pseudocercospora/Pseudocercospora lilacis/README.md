@@ -1,5 +1,4 @@
-Pseudocercospora lilacis (Desm.) Deighton SPECIES
-=======
+# Pseudocercospora lilacis (Desm.) Deighton SPECIES
 
 #### Status
 ACCEPTED

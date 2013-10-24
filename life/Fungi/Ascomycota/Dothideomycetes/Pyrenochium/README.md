@@ -1,5 +1,4 @@
-Pyrenochium Link GENUS
-=======
+# Pyrenochium Link GENUS
 
 #### Status
 ACCEPTED

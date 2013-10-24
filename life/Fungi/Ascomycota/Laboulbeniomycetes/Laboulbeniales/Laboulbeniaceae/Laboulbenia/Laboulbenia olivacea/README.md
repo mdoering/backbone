@@ -1,5 +1,4 @@
-Laboulbenia olivacea Thaxt. SPECIES
-=======
+# Laboulbenia olivacea Thaxt. SPECIES
 
 #### Status
 ACCEPTED

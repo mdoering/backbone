@@ -1,5 +1,4 @@
-Clitocybe bella (Pers.) P. Kumm. SPECIES
-=======
+# Clitocybe bella (Pers.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

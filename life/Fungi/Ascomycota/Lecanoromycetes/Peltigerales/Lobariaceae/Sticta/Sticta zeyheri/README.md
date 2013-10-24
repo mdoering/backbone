@@ -1,5 +1,4 @@
-Sticta zeyheri De Not. SPECIES
-=======
+# Sticta zeyheri De Not. SPECIES
 
 #### Status
 ACCEPTED

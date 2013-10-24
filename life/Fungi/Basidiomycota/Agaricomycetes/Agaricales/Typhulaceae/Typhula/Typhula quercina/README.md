@@ -1,5 +1,4 @@
-Typhula quercina (Pers.) Potat. SPECIES
-=======
+# Typhula quercina (Pers.) Potat. SPECIES
 
 #### Status
 ACCEPTED

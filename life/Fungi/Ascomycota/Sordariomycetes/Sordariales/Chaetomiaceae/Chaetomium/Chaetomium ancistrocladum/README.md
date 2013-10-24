@@ -1,5 +1,4 @@
-Chaetomium ancistrocladum Udagawa & Cain SPECIES
-=======
+# Chaetomium ancistrocladum Udagawa & Cain SPECIES
 
 #### Status
 ACCEPTED

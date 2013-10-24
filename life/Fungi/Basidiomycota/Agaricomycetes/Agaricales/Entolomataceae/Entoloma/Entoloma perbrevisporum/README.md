@@ -1,5 +1,4 @@
-Entoloma perbrevisporum (Singer) E. Horak SPECIES
-=======
+# Entoloma perbrevisporum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

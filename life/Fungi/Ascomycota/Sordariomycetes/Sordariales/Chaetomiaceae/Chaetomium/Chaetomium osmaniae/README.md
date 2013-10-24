@@ -1,5 +1,4 @@
-Chaetomium osmaniae P.Rama Rao & Ram Reddy SPECIES
-=======
+# Chaetomium osmaniae P.Rama Rao & Ram Reddy SPECIES
 
 #### Status
 ACCEPTED

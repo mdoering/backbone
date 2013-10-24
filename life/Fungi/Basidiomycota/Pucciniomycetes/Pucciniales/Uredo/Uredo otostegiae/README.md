@@ -1,5 +1,4 @@
-Uredo otostegiae S. Ahmad SPECIES
-=======
+# Uredo otostegiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

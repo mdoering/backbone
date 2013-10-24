@@ -1,5 +1,4 @@
-Paracapnodium pulchellum Speg. SPECIES
-=======
+# Paracapnodium pulchellum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pyriformis Miura SPECIES
-=======
+# Septoria pyriformis Miura SPECIES
 
 #### Status
 ACCEPTED

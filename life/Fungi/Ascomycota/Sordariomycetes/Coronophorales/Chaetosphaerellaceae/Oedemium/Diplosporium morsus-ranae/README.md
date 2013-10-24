@@ -1,5 +1,4 @@
-Diplosporium morsus-ranae Corda SPECIES
-=======
+# Diplosporium morsus-ranae Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ignava (Arthur) Arthur SPECIES
-=======
+# Puccinia ignava (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

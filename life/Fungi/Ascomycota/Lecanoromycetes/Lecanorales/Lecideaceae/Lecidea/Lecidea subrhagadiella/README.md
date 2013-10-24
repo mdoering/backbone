@@ -1,5 +1,4 @@
-Lecidea subrhagadiella Lynge SPECIES
-=======
+# Lecidea subrhagadiella Lynge SPECIES
 
 #### Status
 ACCEPTED

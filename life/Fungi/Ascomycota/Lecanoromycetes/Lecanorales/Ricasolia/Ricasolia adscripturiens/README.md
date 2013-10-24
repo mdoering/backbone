@@ -1,5 +1,4 @@
-Ricasolia adscripturiens Nyl. SPECIES
-=======
+# Ricasolia adscripturiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

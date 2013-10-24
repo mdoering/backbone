@@ -1,5 +1,4 @@
-Ascochyta myrtilli Oudem. SPECIES
-=======
+# Ascochyta myrtilli Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophoma semenospora A. Funk SPECIES
-=======
+# Sclerophoma semenospora A. Funk SPECIES
 
 #### Status
 ACCEPTED

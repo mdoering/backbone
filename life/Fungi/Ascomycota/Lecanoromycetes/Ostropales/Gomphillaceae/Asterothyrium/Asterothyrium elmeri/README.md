@@ -1,5 +1,4 @@
-Asterothyrium elmeri Vain. SPECIES
-=======
+# Asterothyrium elmeri Vain. SPECIES
 
 #### Status
 ACCEPTED

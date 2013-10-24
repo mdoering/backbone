@@ -1,5 +1,4 @@
-Periconia ananas Sawada SPECIES
-=======
+# Periconia ananas Sawada SPECIES
 
 #### Status
 ACCEPTED

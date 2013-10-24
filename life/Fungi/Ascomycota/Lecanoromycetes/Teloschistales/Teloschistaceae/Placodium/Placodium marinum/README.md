@@ -1,5 +1,4 @@
-Placodium marinum (Wedd.) H. Olivier SPECIES
-=======
+# Placodium marinum (Wedd.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

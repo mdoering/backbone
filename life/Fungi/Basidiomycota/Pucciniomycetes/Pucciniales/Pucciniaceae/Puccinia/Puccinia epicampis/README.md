@@ -1,5 +1,4 @@
-Puccinia epicampis Arthur SPECIES
-=======
+# Puccinia epicampis Arthur SPECIES
 
 #### Status
 ACCEPTED

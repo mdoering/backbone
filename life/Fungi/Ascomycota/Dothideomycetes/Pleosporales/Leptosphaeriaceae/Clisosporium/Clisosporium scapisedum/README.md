@@ -1,5 +1,4 @@
-Clisosporium scapisedum (Sacc. & Speg.) Kuntze SPECIES
-=======
+# Clisosporium scapisedum (Sacc. & Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

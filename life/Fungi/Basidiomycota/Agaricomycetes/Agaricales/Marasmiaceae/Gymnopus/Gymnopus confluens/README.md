@@ -1,17 +1,16 @@
-Agaricus archyropus Pers., 1828 SPECIES
-=======
+# Gymnopus confluens (Pers.) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 3: 135 (1828)
+Mycotaxon 63: 364 (1997)
 
 #### Original name
-Agaricus archyropus Pers., 1828
+Agaricus confluens Sowerby, 1798
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramularia dispersa Davis SPECIES
-=======
+# Ramularia dispersa Davis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia uniformis (Nyl.) Zahlbr. SPECIES
-=======
+# Arthopyrenia uniformis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

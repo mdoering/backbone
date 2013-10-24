@@ -1,5 +1,4 @@
-Calathella digitiformis Bodenst., Agerer, Desjardin & E. Horak, 2001 SPECIES
-=======
+# Calathella digitiformis Bodenst., Agerer, Desjardin & E. Horak, 2001 SPECIES
 
 #### Status
 ACCEPTED

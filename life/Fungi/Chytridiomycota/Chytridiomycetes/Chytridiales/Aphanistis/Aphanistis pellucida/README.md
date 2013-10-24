@@ -1,5 +1,4 @@
-Aphanistis pellucida Sorokin SPECIES
-=======
+# Aphanistis pellucida Sorokin SPECIES
 
 #### Status
 ACCEPTED

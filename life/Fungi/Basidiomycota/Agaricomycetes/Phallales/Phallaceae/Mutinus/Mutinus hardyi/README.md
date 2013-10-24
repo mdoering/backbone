@@ -1,5 +1,4 @@
-Mutinus hardyi (F.M. Bailey) F.M. Bailey SPECIES
-=======
+# Mutinus hardyi (F.M. Bailey) F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia atropae Mont. SPECIES
-=======
+# Puccinia atropae Mont. SPECIES
 
 #### Status
 ACCEPTED

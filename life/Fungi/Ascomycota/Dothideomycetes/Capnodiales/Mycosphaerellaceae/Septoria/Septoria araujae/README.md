@@ -1,5 +1,4 @@
-Septoria araujae Speg. SPECIES
-=======
+# Septoria araujae Speg. SPECIES
 
 #### Status
 ACCEPTED

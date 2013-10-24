@@ -1,5 +1,4 @@
-Parmotrema protolobulatum C. H. Ribeiro & Marcelli SPECIES
-=======
+# Parmotrema protolobulatum C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

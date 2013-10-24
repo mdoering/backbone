@@ -1,5 +1,4 @@
-Mycosphaerella davisoniellae Crous, 2006 SPECIES
-=======
+# Mycosphaerella davisoniellae Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

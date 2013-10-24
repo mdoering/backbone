@@ -1,5 +1,4 @@
-Chrysocapsa epiphytica J.W.G. Lund SPECIES
-=======
+# Chrysocapsa epiphytica J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

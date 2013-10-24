@@ -1,5 +1,4 @@
-Meridinium meridianum Vavrdová, 1989 SPECIES
-=======
+# Meridinium meridianum Vavrdová, 1989 SPECIES
 
 #### Status
 ACCEPTED

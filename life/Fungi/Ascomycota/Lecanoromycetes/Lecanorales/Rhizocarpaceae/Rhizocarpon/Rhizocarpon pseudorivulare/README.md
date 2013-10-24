@@ -1,5 +1,4 @@
-Rhizocarpon pseudorivulare Eitner SPECIES
-=======
+# Rhizocarpon pseudorivulare Eitner SPECIES
 
 #### Status
 ACCEPTED

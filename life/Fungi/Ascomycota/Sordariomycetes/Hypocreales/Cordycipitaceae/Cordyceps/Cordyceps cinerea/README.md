@@ -1,5 +1,4 @@
-Cordyceps cinerea (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cordyceps cinerea (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

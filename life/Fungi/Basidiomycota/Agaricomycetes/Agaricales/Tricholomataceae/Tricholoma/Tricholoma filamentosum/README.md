@@ -1,5 +1,4 @@
-Tricholoma filamentosum (Quél.) Alessio SPECIES
-=======
+# Tricholoma filamentosum (Quél.) Alessio SPECIES
 
 #### Status
 ACCEPTED

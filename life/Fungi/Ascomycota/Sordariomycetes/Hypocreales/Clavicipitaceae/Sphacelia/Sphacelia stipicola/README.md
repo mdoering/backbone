@@ -1,5 +1,4 @@
-Sphacelia stipicola Speg. SPECIES
-=======
+# Sphacelia stipicola Speg. SPECIES
 
 #### Status
 ACCEPTED

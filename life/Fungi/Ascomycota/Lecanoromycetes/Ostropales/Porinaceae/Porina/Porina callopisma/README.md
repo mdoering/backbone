@@ -1,5 +1,4 @@
-Porina callopisma (A. Massal.) Zahlbr. SPECIES
-=======
+# Porina callopisma (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

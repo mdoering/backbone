@@ -1,5 +1,4 @@
-Gyalectidium yahriae W.R. Buck & Sérus. SPECIES
-=======
+# Gyalectidium yahriae W.R. Buck & Sérus. SPECIES
 
 #### Status
 ACCEPTED

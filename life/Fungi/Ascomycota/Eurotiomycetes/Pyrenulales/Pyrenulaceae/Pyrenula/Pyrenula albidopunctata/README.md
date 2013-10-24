@@ -1,5 +1,4 @@
-Pyrenula albidopunctata Zahlbr. SPECIES
-=======
+# Pyrenula albidopunctata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

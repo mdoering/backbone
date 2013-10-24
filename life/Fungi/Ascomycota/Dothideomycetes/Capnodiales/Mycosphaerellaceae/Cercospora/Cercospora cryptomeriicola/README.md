@@ -1,5 +1,4 @@
-Cercospora cryptomeriicola Sawada SPECIES
-=======
+# Cercospora cryptomeriicola Sawada SPECIES
 
 #### Status
 ACCEPTED

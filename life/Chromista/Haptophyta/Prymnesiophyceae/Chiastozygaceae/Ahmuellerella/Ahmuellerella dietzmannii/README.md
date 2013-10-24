@@ -1,5 +1,4 @@
-Ahmuellerella dietzmannii P. Reinhardt SPECIES
-=======
+# Ahmuellerella dietzmannii P. Reinhardt SPECIES
 
 #### Status
 ACCEPTED

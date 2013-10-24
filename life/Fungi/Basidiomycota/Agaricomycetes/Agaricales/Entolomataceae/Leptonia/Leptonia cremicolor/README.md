@@ -1,5 +1,4 @@
-Leptonia cremicolor Pegler SPECIES
-=======
+# Leptonia cremicolor Pegler SPECIES
 
 #### Status
 ACCEPTED

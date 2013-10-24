@@ -1,5 +1,4 @@
-Dactylococcopsis pectinatellophila W. West SPECIES
-=======
+# Dactylococcopsis pectinatellophila W. West SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ginginodinium spinulosum Cookson & Eisenack SPECIES
-=======
+# Ginginodinium spinulosum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

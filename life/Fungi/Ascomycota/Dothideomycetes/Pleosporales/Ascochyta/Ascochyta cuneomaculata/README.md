@@ -1,5 +1,4 @@
-Ascochyta cuneomaculata H.C. Greene SPECIES
-=======
+# Ascochyta cuneomaculata H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovistella henningsii Lloyd SPECIES
-=======
+# Bovistella henningsii Lloyd SPECIES
 
 #### Status
 ACCEPTED

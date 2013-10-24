@@ -1,5 +1,4 @@
-Bacidia peruensis B. de Lesd. SPECIES
-=======
+# Bacidia peruensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

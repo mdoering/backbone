@@ -1,5 +1,4 @@
-Mucor aquosus Dicks. SPECIES
-=======
+# Mucor aquosus Dicks. SPECIES
 
 #### Status
 ACCEPTED

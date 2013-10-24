@@ -1,5 +1,4 @@
-Microdiplodia conigena Allesch., 1901 SPECIES
-=======
+# Microdiplodia conigena Allesch., 1901 SPECIES
 
 #### Status
 ACCEPTED

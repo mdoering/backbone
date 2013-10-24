@@ -1,5 +1,4 @@
-Hansfordiellopsis Deighton GENUS
-=======
+# Hansfordiellopsis Deighton GENUS
 
 #### Status
 ACCEPTED

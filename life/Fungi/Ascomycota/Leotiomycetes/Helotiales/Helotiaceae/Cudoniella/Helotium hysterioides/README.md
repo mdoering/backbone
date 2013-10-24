@@ -1,5 +1,4 @@
-Helotium hysterioides Rehm SPECIES
-=======
+# Helotium hysterioides Rehm SPECIES
 
 #### Status
 ACCEPTED

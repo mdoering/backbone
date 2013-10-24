@@ -1,5 +1,4 @@
-Pannaria melamphylla Tuck. SPECIES
-=======
+# Pannaria melamphylla Tuck. SPECIES
 
 #### Status
 ACCEPTED

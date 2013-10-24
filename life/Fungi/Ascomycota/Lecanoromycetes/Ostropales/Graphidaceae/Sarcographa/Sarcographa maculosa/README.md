@@ -1,5 +1,4 @@
-Sarcographa maculosa Zahlbr. SPECIES
-=======
+# Sarcographa maculosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

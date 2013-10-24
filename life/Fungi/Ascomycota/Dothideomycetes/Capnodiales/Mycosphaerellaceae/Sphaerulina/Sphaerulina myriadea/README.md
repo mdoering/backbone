@@ -1,17 +1,16 @@
-Sphaerella myriadea f. myriadea FORM
-=======
+# Sphaerulina myriadea (DC.) Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 4): 399 (1878)
 
 #### Original name
-null
+Sphaeria myriadea DC., 1815
 
 ### Remarks
 null

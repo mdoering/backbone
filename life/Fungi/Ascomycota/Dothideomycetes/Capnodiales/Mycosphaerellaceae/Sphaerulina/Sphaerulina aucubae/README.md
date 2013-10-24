@@ -1,5 +1,4 @@
-Sphaerulina aucubae Shirai & Hara SPECIES
-=======
+# Sphaerulina aucubae Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

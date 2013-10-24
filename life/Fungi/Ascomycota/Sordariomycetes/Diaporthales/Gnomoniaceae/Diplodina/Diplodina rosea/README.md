@@ -1,5 +1,4 @@
-Diplodina rosea Kabát & Bubák SPECIES
-=======
+# Diplodina rosea Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

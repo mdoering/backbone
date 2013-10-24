@@ -1,5 +1,4 @@
-Acarospora peltastica var. peltastica VARIETY
-=======
+# Acarospora peltastica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 82 (1927)
 
 #### Original name
-Acarospora peltastica var. peltastica
+Acarospora peltastica Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyrtidula subpallida Minks SPECIES
-=======
+# Cyrtidula subpallida Minks SPECIES
 
 #### Status
 ACCEPTED

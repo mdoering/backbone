@@ -1,5 +1,4 @@
-Phyllosticta trillii Ellis & Everh. SPECIES
-=======
+# Phyllosticta trillii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

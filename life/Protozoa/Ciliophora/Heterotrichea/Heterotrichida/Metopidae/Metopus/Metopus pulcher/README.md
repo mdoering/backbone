@@ -1,5 +1,4 @@
-Metopus pulcher subsp. pulcher Kahl, 1927 SUBSPECIES
-=======
+# Metopus pulcher Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

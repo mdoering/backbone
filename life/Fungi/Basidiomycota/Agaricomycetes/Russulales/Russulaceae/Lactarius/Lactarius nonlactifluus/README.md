@@ -1,5 +1,4 @@
-Lactarius nonlactifluus Murrill SPECIES
-=======
+# Lactarius nonlactifluus Murrill SPECIES
 
 #### Status
 ACCEPTED

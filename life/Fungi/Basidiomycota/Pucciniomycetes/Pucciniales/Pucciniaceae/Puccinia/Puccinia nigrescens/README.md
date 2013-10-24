@@ -1,5 +1,4 @@
-Puccinia nigrescens Peck SPECIES
-=======
+# Puccinia nigrescens Peck SPECIES
 
 #### Status
 ACCEPTED

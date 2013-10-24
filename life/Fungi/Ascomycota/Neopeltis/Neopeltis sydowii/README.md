@@ -1,5 +1,4 @@
-Neopeltis sydowii Petr. SPECIES
-=======
+# Neopeltis sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

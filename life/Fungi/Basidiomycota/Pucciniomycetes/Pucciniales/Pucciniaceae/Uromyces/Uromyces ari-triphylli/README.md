@@ -1,14 +1,13 @@
-Puccinia ari-triphylli Schwein., 1832 SPECIES
-=======
+# Uromyces ari-triphylli (Schwein.) Seeler, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. 4(2): 297 (1832)
+Rhodora 44: 174 (1942)
 
 #### Original name
 Puccinia ari-triphylli Schwein., 1832

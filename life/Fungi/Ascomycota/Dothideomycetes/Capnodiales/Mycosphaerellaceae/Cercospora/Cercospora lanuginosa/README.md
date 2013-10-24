@@ -1,5 +1,4 @@
-Cercospora lanuginosa Heald & F.A. Wolf SPECIES
-=======
+# Cercospora lanuginosa Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

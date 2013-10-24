@@ -1,5 +1,4 @@
-Eouvigerina plummerae Cushman, 1933 SPECIES
-=======
+# Eouvigerina plummerae Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

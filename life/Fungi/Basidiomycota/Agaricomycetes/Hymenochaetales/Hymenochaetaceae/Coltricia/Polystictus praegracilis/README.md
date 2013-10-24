@@ -1,5 +1,4 @@
-Polystictus praegracilis Lloyd SPECIES
-=======
+# Polystictus praegracilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

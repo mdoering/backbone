@@ -1,5 +1,4 @@
-Gloeosporium sobraliae Maubl. SPECIES
-=======
+# Gloeosporium sobraliae Maubl. SPECIES
 
 #### Status
 ACCEPTED

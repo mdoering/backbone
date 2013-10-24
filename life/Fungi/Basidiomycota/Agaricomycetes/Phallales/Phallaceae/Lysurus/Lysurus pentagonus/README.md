@@ -1,5 +1,4 @@
-Lysurus pentagonus (F.M. Bailey) C.T. White {?} SPECIES
-=======
+# Lysurus pentagonus (F.M. Bailey) C.T. White {?} SPECIES
 
 #### Status
 ACCEPTED

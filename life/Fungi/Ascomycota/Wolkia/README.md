@@ -1,17 +1,16 @@
-Protascus Wolk GENUS
-=======
+# Wolkia Ramsb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykol. Zentbl. 3: 153 (1913)
+Trans. Br. mycol. Soc. 5: 144 (1915)
 
 #### Original name
-Protascus Wolk
+Wolkia Ramsb.
 
 ### Remarks
 null

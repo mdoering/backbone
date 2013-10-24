@@ -1,5 +1,4 @@
-Zygodesmus isabellinus P. Karst. SPECIES
-=======
+# Zygodesmus isabellinus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

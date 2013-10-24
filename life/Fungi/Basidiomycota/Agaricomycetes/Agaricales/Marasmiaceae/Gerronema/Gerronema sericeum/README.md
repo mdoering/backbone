@@ -1,5 +1,4 @@
-Gerronema sericeum (Romagn.) Clémençon SPECIES
-=======
+# Gerronema sericeum (Romagn.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phlebia merulioidea Parmasto, 1962 SPECIES
-=======
+# Phlebia tremelloidea (Bres.) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 15: 127 (1962)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 393 (1967)
 
 #### Original name
-Phlebia merulioidea Parmasto, 1962
+Peniophora tremelloidea Bres., 1920
 
 ### Remarks
 null

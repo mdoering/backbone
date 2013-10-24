@@ -1,5 +1,4 @@
-Ectocarpus paradoxoides Ercegovic SPECIES
-=======
+# Ectocarpus paradoxoides Ercegovic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium compactum Cooke SPECIES
-=======
+# Macrosporium compactum Cooke SPECIES
 
 #### Status
 ACCEPTED

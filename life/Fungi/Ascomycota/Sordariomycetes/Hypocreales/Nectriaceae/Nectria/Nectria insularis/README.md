@@ -1,5 +1,4 @@
-Nectria insularis Speg. SPECIES
-=======
+# Nectria insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

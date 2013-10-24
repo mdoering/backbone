@@ -1,5 +1,4 @@
-Sporocadus sophorae Peyl SPECIES
-=======
+# Sporocadus sophorae Peyl SPECIES
 
 #### Status
 ACCEPTED

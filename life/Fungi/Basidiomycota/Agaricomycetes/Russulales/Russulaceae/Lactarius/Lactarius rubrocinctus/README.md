@@ -1,17 +1,16 @@
-Lactarius subsericeus Hora, 1960 SPECIES
-=======
+# Lactarius rubrocinctus Fr., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 445 (1960)
+Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 176 (1863)
 
 #### Original name
-Lactarius subsericeus Hora, 1960
+Lactarius rubrocinctus Fr., 1863
 
 ### Remarks
 null

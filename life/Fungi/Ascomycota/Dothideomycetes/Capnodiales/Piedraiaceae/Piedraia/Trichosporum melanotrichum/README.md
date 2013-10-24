@@ -1,5 +1,4 @@
-Trichosporum melanotrichum Sacc. SPECIES
-=======
+# Trichosporum melanotrichum Sacc. SPECIES
 
 #### Status
 ACCEPTED

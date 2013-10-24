@@ -1,5 +1,4 @@
-Buellia extenuata SPECIES
-=======
+# Buellia extenuata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomonas sacchari Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas sacchari Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

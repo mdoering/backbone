@@ -1,5 +1,4 @@
-Lecania ryaniana van den Boom SPECIES
-=======
+# Lecania ryaniana van den Boom SPECIES
 
 #### Status
 ACCEPTED

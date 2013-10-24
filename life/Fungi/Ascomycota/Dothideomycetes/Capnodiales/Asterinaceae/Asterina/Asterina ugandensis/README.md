@@ -1,5 +1,4 @@
-Asterina ugandensis Syd. SPECIES
-=======
+# Asterina ugandensis Syd. SPECIES
 
 #### Status
 ACCEPTED

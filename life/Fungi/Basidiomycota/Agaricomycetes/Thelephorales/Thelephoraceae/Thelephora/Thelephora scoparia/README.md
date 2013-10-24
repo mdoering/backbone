@@ -1,5 +1,4 @@
-Thelephora scoparia Lév. SPECIES
-=======
+# Thelephora scoparia Lév. SPECIES
 
 #### Status
 ACCEPTED

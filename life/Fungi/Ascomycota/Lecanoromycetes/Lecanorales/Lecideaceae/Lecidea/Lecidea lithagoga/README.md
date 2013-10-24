@@ -1,5 +1,4 @@
-Lecidea lithagoga (Nyl.) Vain. SPECIES
-=======
+# Lecidea lithagoga (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

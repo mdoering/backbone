@@ -1,5 +1,4 @@
-Diatrype fici Tilak & Jadhav SPECIES
-=======
+# Diatrype fici Tilak & Jadhav SPECIES
 
 #### Status
 ACCEPTED

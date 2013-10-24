@@ -1,5 +1,4 @@
-Trypethelium myriocarpum (Fée) Müll. Arg. SPECIES
-=======
+# Trypethelium myriocarpum (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

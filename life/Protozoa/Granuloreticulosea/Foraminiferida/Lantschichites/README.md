@@ -1,5 +1,4 @@
-Lantschichites GENUS
-=======
+# Lantschichites GENUS
 
 #### Status
 ACCEPTED

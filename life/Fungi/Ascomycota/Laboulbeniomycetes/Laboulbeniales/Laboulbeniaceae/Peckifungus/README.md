@@ -1,5 +1,4 @@
-Peckifungus GENUS
-=======
+# Peckifungus GENUS
 
 #### Status
 ACCEPTED

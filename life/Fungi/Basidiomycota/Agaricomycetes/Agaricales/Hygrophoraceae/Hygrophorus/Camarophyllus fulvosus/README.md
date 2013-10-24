@@ -1,5 +1,4 @@
-Camarophyllus fulvosus (Bolton) Murrill SPECIES
-=======
+# Camarophyllus fulvosus (Bolton) Murrill SPECIES
 
 #### Status
 ACCEPTED

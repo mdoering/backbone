@@ -1,5 +1,4 @@
-Meliola tricalysiae Deighton SPECIES
-=======
+# Meliola tricalysiae Deighton SPECIES
 
 #### Status
 ACCEPTED

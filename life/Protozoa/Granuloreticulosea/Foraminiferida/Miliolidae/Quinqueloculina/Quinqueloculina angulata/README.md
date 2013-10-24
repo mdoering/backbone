@@ -1,5 +1,4 @@
-Quinqueloculina angulata SPECIES
-=======
+# Quinqueloculina angulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia lactea Groenh. SPECIES
-=======
+# Cryptothecia lactea Groenh. SPECIES
 
 #### Status
 ACCEPTED

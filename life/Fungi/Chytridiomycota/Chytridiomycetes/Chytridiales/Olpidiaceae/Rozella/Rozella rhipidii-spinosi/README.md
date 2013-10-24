@@ -1,5 +1,4 @@
-Rozella rhipidii-spinosi Cornu SPECIES
-=======
+# Rozella rhipidii-spinosi Cornu SPECIES
 
 #### Status
 ACCEPTED

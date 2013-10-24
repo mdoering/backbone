@@ -1,5 +1,4 @@
-Peziza marginata Schumach. SPECIES
-=======
+# Peziza marginata Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xyloma berberidis Fr. SPECIES
-=======
+# Xyloma berberidis Fr. SPECIES
 
 #### Status
 ACCEPTED

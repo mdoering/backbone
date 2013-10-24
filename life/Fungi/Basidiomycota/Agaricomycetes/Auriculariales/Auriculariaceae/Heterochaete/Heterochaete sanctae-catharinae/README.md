@@ -1,17 +1,16 @@
-Heterochaete sanctae-catharinae var. sanctae-catharinae Möller VARIETY
-=======
+# Heterochaete sanctae-catharinae Möller, 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mitt. Trop. 8: 165 (1895)
 
 #### Original name
-Heterochaete sanctae-catharinae var. sanctae-catharinae Möller
+Heterochaete sanctae-catharinae Möller, 1895
 
 ### Remarks
 null

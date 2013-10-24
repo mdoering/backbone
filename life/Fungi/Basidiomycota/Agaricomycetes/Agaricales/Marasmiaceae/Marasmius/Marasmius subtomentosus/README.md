@@ -1,5 +1,4 @@
-Marasmius subtomentosus Peck SPECIES
-=======
+# Marasmius subtomentosus Peck SPECIES
 
 #### Status
 ACCEPTED

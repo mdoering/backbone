@@ -1,5 +1,4 @@
-Laboea globosa SPECIES
-=======
+# Laboea globosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium jonesii Peck SPECIES
-=======
+# Synchytrium jonesii Peck SPECIES
 
 #### Status
 ACCEPTED

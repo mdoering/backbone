@@ -1,17 +1,16 @@
-Rhagadostoma lichenicola var. lichenicola (De Not.) Keissl. VARIETY
-=======
+# Rhagadostoma lichenicola (De Not.) Keissl., 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Rabenhorst, Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 8: 320 (1930)
 
 #### Original name
-Rhagadostoma lichenicola var. lichenicola (De Not.) Keissl.
+Bertia lichenicola De Not., 1864
 
 ### Remarks
 null

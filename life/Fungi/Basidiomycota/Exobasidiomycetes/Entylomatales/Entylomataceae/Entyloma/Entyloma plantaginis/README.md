@@ -1,5 +1,4 @@
-Entyloma plantaginis A. Blytt SPECIES
-=======
+# Entyloma plantaginis A. Blytt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus eriphaeus Berk. & Broome SPECIES
-=======
+# Agaricus eriphaeus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

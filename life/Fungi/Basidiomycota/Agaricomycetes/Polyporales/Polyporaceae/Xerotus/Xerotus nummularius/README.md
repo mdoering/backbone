@@ -1,5 +1,4 @@
-Xerotus nummularius Pat. & Gaillard SPECIES
-=======
+# Xerotus nummularius Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

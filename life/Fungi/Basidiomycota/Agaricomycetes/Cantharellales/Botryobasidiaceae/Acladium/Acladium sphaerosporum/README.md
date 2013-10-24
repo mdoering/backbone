@@ -1,5 +1,4 @@
-Acladium sphaerosporum (Ces.) S. Hughes SPECIES
-=======
+# Acladium sphaerosporum (Ces.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

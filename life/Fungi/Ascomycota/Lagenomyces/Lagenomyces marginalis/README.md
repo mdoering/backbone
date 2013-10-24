@@ -1,5 +1,4 @@
-Lagenomyces marginalis Cavalc. & A.A. Silva, 1972 SPECIES
-=======
+# Lagenomyces marginalis Cavalc. & A.A. Silva, 1972 SPECIES
 
 #### Status
 ACCEPTED

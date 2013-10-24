@@ -1,5 +1,4 @@
-Russula agaricina (Kalchbr.) T. Lebel, 2007 SPECIES
-=======
+# Russula agaricina (Kalchbr.) T. Lebel, 2007 SPECIES
 
 #### Status
 ACCEPTED

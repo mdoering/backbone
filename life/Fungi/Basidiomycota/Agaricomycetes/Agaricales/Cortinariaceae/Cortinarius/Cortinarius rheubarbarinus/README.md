@@ -1,5 +1,4 @@
-Cortinarius rheubarbarinus Rob. Henry, 1956 SPECIES
-=======
+# Cortinarius rheubarbarinus Rob. Henry, 1956 SPECIES
 
 #### Status
 ACCEPTED

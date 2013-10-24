@@ -1,5 +1,4 @@
-Mucor arcuatus Mart. SPECIES
-=======
+# Mucor arcuatus Mart. SPECIES
 
 #### Status
 ACCEPTED

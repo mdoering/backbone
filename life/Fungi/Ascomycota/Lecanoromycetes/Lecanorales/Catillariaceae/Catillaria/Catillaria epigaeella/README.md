@@ -1,5 +1,4 @@
-Catillaria epigaeella (Nyl.) Th. Fr. SPECIES
-=======
+# Catillaria epigaeella (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

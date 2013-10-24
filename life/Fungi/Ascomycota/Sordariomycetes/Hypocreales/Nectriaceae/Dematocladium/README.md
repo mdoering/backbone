@@ -1,5 +1,4 @@
-Dematocladium GENUS
-=======
+# Dematocladium GENUS
 
 #### Status
 ACCEPTED

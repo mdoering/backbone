@@ -1,5 +1,4 @@
-Diplodia maculicola G. Winter SPECIES
-=======
+# Diplodia maculicola G. Winter SPECIES
 
 #### Status
 ACCEPTED

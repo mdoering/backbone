@@ -1,5 +1,4 @@
-Lycoperdon annularium Beck SPECIES
-=======
+# Lycoperdon annularium Beck SPECIES
 
 #### Status
 ACCEPTED

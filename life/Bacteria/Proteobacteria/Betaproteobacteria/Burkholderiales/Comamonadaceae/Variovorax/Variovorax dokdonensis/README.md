@@ -1,5 +1,4 @@
-Variovorax dokdonensis Yoon et al., 2006 SPECIES
-=======
+# Variovorax dokdonensis Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

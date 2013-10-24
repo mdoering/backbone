@@ -1,5 +1,4 @@
-Histiophora ornata Klement, 1960 SPECIES
-=======
+# Histiophora ornata Klement, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Electostoma Yankovskij, 1979 GENUS
-=======
+# Electostoma Yankovskij, 1979 GENUS
 
 #### Status
 ACCEPTED

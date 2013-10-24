@@ -1,5 +1,4 @@
-Sargassum persicum Kützing SPECIES
-=======
+# Sargassum persicum Kützing SPECIES
 
 #### Status
 ACCEPTED

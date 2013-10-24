@@ -1,5 +1,4 @@
-Nanoarchaeum Huber et al., 2002 GENUS
-=======
+# Nanoarchaeum Huber et al., 2002 GENUS
 
 #### Status
 ACCEPTED

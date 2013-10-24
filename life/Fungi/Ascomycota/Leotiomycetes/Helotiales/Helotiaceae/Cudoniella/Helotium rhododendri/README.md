@@ -1,5 +1,4 @@
-Helotium rhododendri Rehm SPECIES
-=======
+# Helotium rhododendri Rehm SPECIES
 
 #### Status
 ACCEPTED

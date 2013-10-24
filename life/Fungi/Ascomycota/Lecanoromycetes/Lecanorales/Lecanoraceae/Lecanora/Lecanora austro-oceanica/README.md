@@ -1,5 +1,4 @@
-Lecanora austro-oceanica Hertel & Leuckert SPECIES
-=======
+# Lecanora austro-oceanica Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

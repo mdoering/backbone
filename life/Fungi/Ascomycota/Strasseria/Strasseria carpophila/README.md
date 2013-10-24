@@ -1,17 +1,16 @@
-Strasseria carpophila f. carpophila FORM
-=======
+# Strasseria carpophila Bres. & Sacc., 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Strasseria carpophila f. carpophila
+Strasseria carpophila Bres. & Sacc., 1902
 
 ### Remarks
 null

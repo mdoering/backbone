@@ -1,5 +1,4 @@
-Tribolites W.H. Bradley ex Janson. & Hills GENUS
-=======
+# Tribolites W.H. Bradley ex Janson. & Hills GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nigredo minuta (Dietel) Arthur SPECIES
-=======
+# Nigredo minuta (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

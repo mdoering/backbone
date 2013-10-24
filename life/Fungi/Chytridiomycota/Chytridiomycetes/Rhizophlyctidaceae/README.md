@@ -1,17 +1,16 @@
-Rhizophlyctaceae H.E. Petersen FAMILY
-=======
+# Rhizophlyctidaceae H.E. Petersen FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-null
+Bot. Tidsskr. 29: 357 (1909)
 
 #### Original name
-Rhizophlyctaceae H.E. Petersen
+Rhizophlyctidaceae H.E. Petersen
 
 ### Remarks
 null

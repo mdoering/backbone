@@ -1,5 +1,4 @@
-Dangeardiella Sacc. & P. Syd. GENUS
-=======
+# Dangeardiella Sacc. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

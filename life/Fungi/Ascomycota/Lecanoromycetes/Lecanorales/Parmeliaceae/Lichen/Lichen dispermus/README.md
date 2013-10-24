@@ -1,5 +1,4 @@
-Lichen dispermus Vill. SPECIES
-=======
+# Lichen dispermus Vill. SPECIES
 
 #### Status
 ACCEPTED

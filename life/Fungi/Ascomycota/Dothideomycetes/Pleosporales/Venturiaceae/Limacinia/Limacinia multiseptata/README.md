@@ -1,5 +1,4 @@
-Limacinia multiseptata M.E. Barr SPECIES
-=======
+# Limacinia multiseptata M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

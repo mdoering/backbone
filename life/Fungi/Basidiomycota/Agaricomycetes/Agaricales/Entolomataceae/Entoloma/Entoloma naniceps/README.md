@@ -1,5 +1,4 @@
-Entoloma naniceps E. Horak SPECIES
-=======
+# Entoloma naniceps E. Horak SPECIES
 
 #### Status
 ACCEPTED

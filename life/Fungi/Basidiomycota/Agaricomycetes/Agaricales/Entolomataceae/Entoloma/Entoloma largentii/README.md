@@ -1,5 +1,4 @@
-Entoloma largentii var. largentii VARIETY
-=======
+# Entoloma largentii Courtec. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 27: 134 (1986)
 
 #### Original name
-Entoloma largentii var. largentii
+Leptonia convexa Largent
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uromyces pratiae Speg. SPECIES
-=======
+# Uromyces pratiae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Citreimonas salinaria Choi & Cho, 2006 SPECIES
-=======
+# Citreimonas salinaria Choi & Cho, 2006 SPECIES
 
 #### Status
 ACCEPTED

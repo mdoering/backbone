@@ -1,5 +1,4 @@
-Endoxyla hyalostoma Munk SPECIES
-=======
+# Endoxyla hyalostoma Munk SPECIES
 
 #### Status
 ACCEPTED

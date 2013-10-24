@@ -1,5 +1,4 @@
-Alternaria bannaensis W.Q. Chen & T.Y. Zhang SPECIES
-=======
+# Alternaria bannaensis W.Q. Chen & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

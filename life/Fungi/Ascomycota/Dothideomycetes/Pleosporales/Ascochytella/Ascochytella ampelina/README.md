@@ -1,5 +1,4 @@
-Ascochytella ampelina (Sacc.) Petr. SPECIES
-=======
+# Ascochytella ampelina (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

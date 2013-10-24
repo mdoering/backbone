@@ -1,5 +1,4 @@
-Dimerosporium clidemniae Henn. SPECIES
-=======
+# Dimerosporium clidemniae Henn. SPECIES
 
 #### Status
 ACCEPTED

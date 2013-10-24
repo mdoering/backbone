@@ -1,5 +1,4 @@
-Puccinia bougainvilleae (Speg.) J. Schröt. SPECIES
-=======
+# Puccinia bougainvilleae (Speg.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

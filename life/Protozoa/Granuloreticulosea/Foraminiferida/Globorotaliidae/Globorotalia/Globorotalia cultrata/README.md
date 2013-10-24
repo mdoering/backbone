@@ -1,11 +1,10 @@
-Globorotalia cultrata subsp. cultrata SUBSPECIES
-=======
+# Globorotalia cultrata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+NUB Generator [implicit canonical]
 
 #### Published in
 null

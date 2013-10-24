@@ -1,5 +1,4 @@
-Stelomorpha composta Yin Leiming, Di Mila & Tongiorgi, 1998 SPECIES
-=======
+# Stelomorpha composta Yin Leiming, Di Mila & Tongiorgi, 1998 SPECIES
 
 #### Status
 ACCEPTED

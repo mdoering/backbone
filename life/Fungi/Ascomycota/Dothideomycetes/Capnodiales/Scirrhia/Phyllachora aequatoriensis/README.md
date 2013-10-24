@@ -1,5 +1,4 @@
-Phyllachora aequatoriensis Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora aequatoriensis Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

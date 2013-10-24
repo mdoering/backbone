@@ -1,5 +1,4 @@
-Xylaria vagans Petch SPECIES
-=======
+# Xylaria vagans Petch SPECIES
 
 #### Status
 ACCEPTED

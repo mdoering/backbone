@@ -1,5 +1,4 @@
-Biatora endocyanea Tuck. ex Willey SPECIES
-=======
+# Biatora endocyanea Tuck. ex Willey SPECIES
 
 #### Status
 ACCEPTED

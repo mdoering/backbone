@@ -1,5 +1,4 @@
-Parachnopeziza alba Gamundí & Giaiotti, 1994 SPECIES
-=======
+# Parachnopeziza alba Gamundí & Giaiotti, 1994 SPECIES
 
 #### Status
 ACCEPTED

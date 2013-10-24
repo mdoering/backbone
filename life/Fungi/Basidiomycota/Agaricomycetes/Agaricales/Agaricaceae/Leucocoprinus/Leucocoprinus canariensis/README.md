@@ -1,5 +1,4 @@
-Leucocoprinus canariensis P. Mohr & Dähncke SPECIES
-=======
+# Leucocoprinus canariensis P. Mohr & Dähncke SPECIES
 
 #### Status
 ACCEPTED

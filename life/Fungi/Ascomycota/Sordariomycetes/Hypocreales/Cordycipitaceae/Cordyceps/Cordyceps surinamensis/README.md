@@ -1,5 +1,4 @@
-Cordyceps surinamensis Henn. SPECIES
-=======
+# Cordyceps surinamensis Henn. SPECIES
 
 #### Status
 ACCEPTED

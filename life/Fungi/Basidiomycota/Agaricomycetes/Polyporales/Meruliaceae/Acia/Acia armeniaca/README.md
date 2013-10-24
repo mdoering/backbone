@@ -1,5 +1,4 @@
-Acia armeniaca (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Acia armeniaca (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

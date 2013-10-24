@@ -1,5 +1,4 @@
-Agaricus molybdeus Pers. SPECIES
-=======
+# Agaricus molybdeus Pers. SPECIES
 
 #### Status
 ACCEPTED

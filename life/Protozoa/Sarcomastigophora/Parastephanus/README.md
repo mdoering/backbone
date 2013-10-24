@@ -1,5 +1,4 @@
-Parastephanus Haeckel, 1881 GENUS
-=======
+# Parastephanus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

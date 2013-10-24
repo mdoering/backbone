@@ -1,5 +1,4 @@
-Tetramastix A.Alexeieff, 1916 GENUS
-=======
+# Tetramastix A.Alexeieff, 1916 GENUS
 
 #### Status
 SYNONYM

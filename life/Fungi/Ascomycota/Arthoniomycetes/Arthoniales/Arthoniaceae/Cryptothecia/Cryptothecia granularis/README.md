@@ -1,5 +1,4 @@
-Cryptothecia granularis Sipman SPECIES
-=======
+# Cryptothecia granularis Sipman SPECIES
 
 #### Status
 ACCEPTED

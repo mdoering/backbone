@@ -1,5 +1,4 @@
-Neoheteromita tolerans Bass & Cavalier-Smith, 2011 SPECIES
-=======
+# Neoheteromita tolerans Bass & Cavalier-Smith, 2011 SPECIES
 
 #### Status
 ACCEPTED

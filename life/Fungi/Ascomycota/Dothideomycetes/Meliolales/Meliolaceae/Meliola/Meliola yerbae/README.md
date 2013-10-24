@@ -1,5 +1,4 @@
-Meliola yerbae Speg. SPECIES
-=======
+# Meliola yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium erosum Sacc. SPECIES
-=======
+# Leptothyrium erosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

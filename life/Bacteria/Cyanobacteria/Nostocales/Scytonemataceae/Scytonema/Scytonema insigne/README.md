@@ -1,5 +1,4 @@
-Scytonema insigne W. West & G.S. West SPECIES
-=======
+# Scytonema insigne W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

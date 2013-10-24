@@ -1,5 +1,4 @@
-Physcia devertens Nyl. SPECIES
-=======
+# Physcia devertens Nyl. SPECIES
 
 #### Status
 ACCEPTED

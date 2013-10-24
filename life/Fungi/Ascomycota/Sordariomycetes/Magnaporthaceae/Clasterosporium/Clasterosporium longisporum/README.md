@@ -1,5 +1,4 @@
-Clasterosporium longisporum Voorhees SPECIES
-=======
+# Clasterosporium longisporum Voorhees SPECIES
 
 #### Status
 ACCEPTED

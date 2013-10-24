@@ -1,5 +1,4 @@
-Pluteus flavipes Petch SPECIES
-=======
+# Pluteus flavipes Petch SPECIES
 
 #### Status
 ACCEPTED

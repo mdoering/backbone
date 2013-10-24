@@ -1,5 +1,4 @@
-Stigmatea gnaphalii Feltgen SPECIES
-=======
+# Stigmatea gnaphalii Feltgen SPECIES
 
 #### Status
 ACCEPTED

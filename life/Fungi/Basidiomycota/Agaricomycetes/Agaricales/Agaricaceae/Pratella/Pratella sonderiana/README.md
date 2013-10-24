@@ -1,5 +1,4 @@
-Pratella sonderiana (Berk.) Henn. SPECIES
-=======
+# Pratella sonderiana (Berk.) Henn. SPECIES
 
 #### Status
 ACCEPTED

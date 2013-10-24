@@ -1,14 +1,13 @@
-Mycoporum erraticum (A. Massal.) Jatta SPECIES
-=======
+# Muellerella erratica (A. Massal.) Hafellner & V. John SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 19: 155-176 (2006)
 
 #### Original name
 Tichothecium erraticum

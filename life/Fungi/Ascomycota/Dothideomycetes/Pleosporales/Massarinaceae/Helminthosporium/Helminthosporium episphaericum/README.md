@@ -1,17 +1,16 @@
-Helmisporium episphaericum Cooke & Peck SPECIES
-=======
+# Helminthosporium episphaericum Cooke & Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Peck, Ann. Rep. N. Y. St. Mus. nat. Hist. 29: 52 (1878)
 
 #### Original name
-Helmisporium episphaericum Cooke & Peck
+Helminthosporium episphaericum Cooke & Peck
 
 ### Remarks
 null

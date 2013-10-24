@@ -1,5 +1,4 @@
-Sigmoidella subtaiwanica Nakamura SPECIES
-=======
+# Sigmoidella subtaiwanica Nakamura SPECIES
 
 #### Status
 ACCEPTED

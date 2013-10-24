@@ -1,5 +1,4 @@
-Ganoderma microsporum R.S. Hseu, 1989 SPECIES
-=======
+# Ganoderma microsporum R.S. Hseu, 1989 SPECIES
 
 #### Status
 ACCEPTED

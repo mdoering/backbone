@@ -1,5 +1,4 @@
-Kuehneromyces rostratus Singer & A.H. Sm. SPECIES
-=======
+# Kuehneromyces rostratus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

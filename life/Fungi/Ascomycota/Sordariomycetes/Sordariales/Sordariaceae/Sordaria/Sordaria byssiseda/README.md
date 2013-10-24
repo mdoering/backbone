@@ -1,5 +1,4 @@
-Sordaria byssiseda Petch SPECIES
-=======
+# Sordaria byssiseda Petch SPECIES
 
 #### Status
 ACCEPTED

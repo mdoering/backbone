@@ -1,5 +1,4 @@
-Filaspora lonicerae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Filaspora lonicerae (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma sassafras Schwein. SPECIES
-=======
+# Rhytisma sassafras Schwein. SPECIES
 
 #### Status
 ACCEPTED

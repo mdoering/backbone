@@ -1,5 +1,4 @@
-Neoglabratella Seiglie & Bermudez, 1965 GENUS
-=======
+# Neoglabratella Seiglie & Bermudez, 1965 GENUS
 
 #### Status
 ACCEPTED

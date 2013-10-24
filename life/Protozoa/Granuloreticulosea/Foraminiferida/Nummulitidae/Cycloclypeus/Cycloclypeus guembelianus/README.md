@@ -1,5 +1,4 @@
-Cycloclypeus guembelianus Brady SPECIES
-=======
+# Cycloclypeus guembelianus Brady SPECIES
 
 #### Status
 ACCEPTED

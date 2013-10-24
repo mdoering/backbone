@@ -1,5 +1,4 @@
-Zoophagus Sommerst. GENUS
-=======
+# Zoophagus Sommerst. GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Schizothrix rubra P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Homoeothrix rubra (P.L. Crouan & H.M. Crouan) Frémy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

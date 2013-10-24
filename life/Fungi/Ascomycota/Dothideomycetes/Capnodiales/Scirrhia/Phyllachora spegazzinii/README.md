@@ -1,5 +1,4 @@
-Phyllachora spegazzinii Sacc. & P. Syd., 1899 SPECIES
-=======
+# Phyllachora spegazzinii Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 DOUBTFUL

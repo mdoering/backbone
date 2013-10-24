@@ -1,5 +1,4 @@
-Protogastrostyla pulchra (Parejaslawzewa, 1885) SPECIES
-=======
+# Protogastrostyla pulchra (Parejaslawzewa, 1885) SPECIES
 
 #### Status
 ACCEPTED

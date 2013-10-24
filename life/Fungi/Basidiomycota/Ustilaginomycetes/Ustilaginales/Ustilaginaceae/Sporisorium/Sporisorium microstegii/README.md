@@ -1,5 +1,4 @@
-Sporisorium microstegii (S. Ahmad) L. Guo SPECIES
-=======
+# Sporisorium microstegii (S. Ahmad) L. Guo SPECIES
 
 #### Status
 ACCEPTED

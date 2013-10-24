@@ -1,5 +1,4 @@
-Polyporus beccarianus Ces. SPECIES
-=======
+# Polyporus beccarianus Ces. SPECIES
 
 #### Status
 ACCEPTED

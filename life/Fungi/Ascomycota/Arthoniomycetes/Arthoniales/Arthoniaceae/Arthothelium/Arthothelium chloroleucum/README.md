@@ -1,5 +1,4 @@
-Arthothelium chloroleucum Müll. Arg. SPECIES
-=======
+# Arthothelium chloroleucum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

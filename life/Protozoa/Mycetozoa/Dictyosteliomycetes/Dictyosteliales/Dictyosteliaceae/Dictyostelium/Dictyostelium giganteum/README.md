@@ -1,5 +1,4 @@
-Dictyostelium giganteum B.N. Singh, 1947 SPECIES
-=======
+# Dictyostelium giganteum B.N. Singh, 1947 SPECIES
 
 #### Status
 ACCEPTED

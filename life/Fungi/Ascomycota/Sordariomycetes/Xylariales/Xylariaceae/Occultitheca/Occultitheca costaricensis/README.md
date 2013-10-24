@@ -1,5 +1,4 @@
-Occultitheca costaricensis J.D. Rogers & Y.M. Ju, 2003 SPECIES
-=======
+# Occultitheca costaricensis J.D. Rogers & Y.M. Ju, 2003 SPECIES
 
 #### Status
 ACCEPTED

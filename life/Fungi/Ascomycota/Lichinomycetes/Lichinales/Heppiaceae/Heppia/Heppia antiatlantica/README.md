@@ -1,5 +1,4 @@
-Heppia antiatlantica Werner SPECIES
-=======
+# Heppia antiatlantica Werner SPECIES
 
 #### Status
 ACCEPTED

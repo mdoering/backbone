@@ -1,5 +1,4 @@
-Cucurbitula arenula (Berk. & Broome) SPECIES
-=======
+# Cucurbitula arenula (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

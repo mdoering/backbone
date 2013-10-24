@@ -1,5 +1,4 @@
-Corticium nespori Bres. SPECIES
-=======
+# Corticium nespori Bres. SPECIES
 
 #### Status
 ACCEPTED

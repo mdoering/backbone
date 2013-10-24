@@ -1,17 +1,16 @@
-Helotium subtile var. subtile VARIETY
-=======
+# Pezizella subtilis (Fr.) Dennis, 1956 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 62: 58 (1956)
 
 #### Original name
-null
+Helotium subtile Fr., 1818
 
 ### Remarks
 null

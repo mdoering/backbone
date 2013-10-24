@@ -1,17 +1,16 @@
-Exosporium ochroleucus Munjal & Kulshr. SPECIES
-=======
+# Exosporium ochroleucum Munjal & Kulshr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 19: 292 (1966)
 
 #### Original name
-Exosporium ochroleucus Munjal & Kulshr.
+Exosporium ochroleucum Munjal & Kulshr.
 
 ### Remarks
 null

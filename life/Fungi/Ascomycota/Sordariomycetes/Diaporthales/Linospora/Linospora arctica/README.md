@@ -1,5 +1,4 @@
-Linospora arctica P. Karst. SPECIES
-=======
+# Linospora arctica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riculasphaera fissa Loeblich & Drugg, 1968 SPECIES
-=======
+# Riculasphaera fissa Loeblich & Drugg, 1968 SPECIES
 
 #### Status
 ACCEPTED

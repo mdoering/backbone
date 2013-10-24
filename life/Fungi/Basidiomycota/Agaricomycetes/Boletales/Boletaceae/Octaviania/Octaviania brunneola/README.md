@@ -1,5 +1,4 @@
-Octaviania brunneola Harkn. SPECIES
-=======
+# Octaviania brunneola Harkn. SPECIES
 
 #### Status
 ACCEPTED

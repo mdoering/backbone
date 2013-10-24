@@ -1,5 +1,4 @@
-Pluteus ochraceus E. Horak SPECIES
-=======
+# Pluteus ochraceus E. Horak SPECIES
 
 #### Status
 ACCEPTED

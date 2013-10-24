@@ -1,5 +1,4 @@
-Mischococcus Naegeli, 1849 GENUS
-=======
+# Mischococcus Naegeli, 1849 GENUS
 
 #### Status
 ACCEPTED

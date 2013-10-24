@@ -1,17 +1,16 @@
-Ditiola ulicis Plowr., 1899 SPECIES
-=======
+# Dacrymyces capitatus Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 1(2): 55 (1898)
+Trans. Am. phil. Soc. , Ser. 2 4(2): 186 (1832)
 
 #### Original name
-Ditiola ulicis Plowr., 1899
+Dacrymyces capitatus Schwein., 1832
 
 ### Remarks
 null

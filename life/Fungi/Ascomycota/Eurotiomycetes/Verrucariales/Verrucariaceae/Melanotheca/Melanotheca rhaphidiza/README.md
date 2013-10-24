@@ -1,5 +1,4 @@
-Melanotheca rhaphidiza Stirt. SPECIES
-=======
+# Melanotheca rhaphidiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

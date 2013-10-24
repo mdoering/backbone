@@ -1,5 +1,4 @@
-Spiromastix sphaerospora Udagawa & Uchiy. SPECIES
-=======
+# Spiromastix sphaerospora Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

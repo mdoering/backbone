@@ -1,5 +1,4 @@
-Mycena isabellina Grgur. & A.A. Holland SPECIES
-=======
+# Mycena isabellina Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

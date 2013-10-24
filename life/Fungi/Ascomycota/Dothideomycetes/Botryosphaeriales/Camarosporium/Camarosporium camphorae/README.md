@@ -1,5 +1,4 @@
-Camarosporium camphorae Henn. SPECIES
-=======
+# Camarosporium camphorae Henn. SPECIES
 
 #### Status
 ACCEPTED

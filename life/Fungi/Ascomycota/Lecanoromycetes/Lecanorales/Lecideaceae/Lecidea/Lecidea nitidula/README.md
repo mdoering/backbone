@@ -1,5 +1,4 @@
-Lecidea nitidula Fr. SPECIES
-=======
+# Lecidea nitidula Fr. SPECIES
 
 #### Status
 ACCEPTED

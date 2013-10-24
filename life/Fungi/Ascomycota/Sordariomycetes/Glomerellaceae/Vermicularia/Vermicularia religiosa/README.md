@@ -1,5 +1,4 @@
-Vermicularia religiosa Thüm. SPECIES
-=======
+# Vermicularia religiosa Thüm. SPECIES
 
 #### Status
 ACCEPTED

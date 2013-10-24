@@ -1,5 +1,4 @@
-Clavaria ascendens O.F. Müll. SPECIES
-=======
+# Clavaria ascendens O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massisteria Larsen & Patterson, 1990 GENUS
-=======
+# Massisteria Larsen & Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

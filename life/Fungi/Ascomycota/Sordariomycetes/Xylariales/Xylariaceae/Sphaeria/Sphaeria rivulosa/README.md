@@ -1,5 +1,4 @@
-Sphaeria rivulosa Schwein. SPECIES
-=======
+# Sphaeria rivulosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

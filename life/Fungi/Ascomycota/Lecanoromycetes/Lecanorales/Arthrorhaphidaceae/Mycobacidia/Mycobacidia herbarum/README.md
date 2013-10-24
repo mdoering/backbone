@@ -1,5 +1,4 @@
-Mycobacidia herbarum (Hepp) Rehm SPECIES
-=======
+# Mycobacidia herbarum (Hepp) Rehm SPECIES
 
 #### Status
 ACCEPTED

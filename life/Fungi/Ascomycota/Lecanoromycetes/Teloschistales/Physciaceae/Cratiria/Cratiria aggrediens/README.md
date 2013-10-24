@@ -1,14 +1,13 @@
-Lecidea aggrediens Stirt. SPECIES
-=======
+# Cratiria aggrediens (Stirt.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 165 (2000)
 
 #### Original name
 Lecidea aggrediens Stirt.

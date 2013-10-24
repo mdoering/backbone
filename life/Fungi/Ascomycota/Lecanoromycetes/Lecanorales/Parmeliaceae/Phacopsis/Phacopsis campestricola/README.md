@@ -1,5 +1,4 @@
-Phacopsis campestricola (Nyl.) Vouaux SPECIES
-=======
+# Phacopsis campestricola (Nyl.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

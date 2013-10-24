@@ -1,17 +1,16 @@
-Dasyscypha varians Rehm SPECIES
-=======
+# Lachnum varians (Rehm) M.P. Sharma, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 43(3-4): 411 (1986)
 
 #### Original name
-Dasyscypha varians Rehm
+Dasyscyphus varians Rehm, 1900
 
 ### Remarks
 null

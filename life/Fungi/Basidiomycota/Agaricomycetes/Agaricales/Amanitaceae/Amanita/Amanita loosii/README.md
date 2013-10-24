@@ -1,5 +1,4 @@
-Amanita loosii Beeli SPECIES
-=======
+# Amanita loosii Beeli SPECIES
 
 #### Status
 ACCEPTED

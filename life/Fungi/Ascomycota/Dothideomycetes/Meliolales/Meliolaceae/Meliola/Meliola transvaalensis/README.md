@@ -1,5 +1,4 @@
-Meliola transvaalensis var. transvaalensis VARIETY
-=======
+# Meliola transvaalensis Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 2(1b): 238 (1927)
 
 #### Original name
-Meliola transvaalensis var. transvaalensis
+Meliola transvaalensis Doidge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rocella vigilans J. Fenner SPECIES
-=======
+# Rocella vigilans J. Fenner SPECIES
 
 #### Status
 ACCEPTED

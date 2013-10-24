@@ -1,5 +1,4 @@
-Microsphaera magnoliae Sawada SPECIES
-=======
+# Microsphaera magnoliae Sawada SPECIES
 
 #### Status
 ACCEPTED

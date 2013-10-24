@@ -1,5 +1,4 @@
-Cyclotella cavita, nom. nud. SPECIES
-=======
+# Cyclotella cavita, nom. nud. SPECIES
 
 #### Status
 ACCEPTED

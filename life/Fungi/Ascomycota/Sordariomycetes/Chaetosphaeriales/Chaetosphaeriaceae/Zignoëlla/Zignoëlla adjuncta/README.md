@@ -1,5 +1,4 @@
-Zignoëlla adjuncta Pass. SPECIES
-=======
+# Zignoëlla adjuncta Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita triloba Bolton SPECIES
-=======
+# Amanita triloba Bolton SPECIES
 
 #### Status
 ACCEPTED

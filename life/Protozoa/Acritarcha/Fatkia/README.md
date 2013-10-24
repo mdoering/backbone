@@ -1,5 +1,4 @@
-Fatkia Vavrdová, 1994 GENUS
-=======
+# Fatkia Vavrdová, 1994 GENUS
 
 #### Status
 ACCEPTED

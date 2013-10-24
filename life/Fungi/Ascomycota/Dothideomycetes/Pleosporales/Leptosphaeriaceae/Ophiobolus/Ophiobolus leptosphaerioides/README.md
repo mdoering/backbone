@@ -1,5 +1,4 @@
-Ophiobolus leptosphaerioides var. leptosphaerioides VARIETY
-=======
+# Ophiobolus leptosphaerioides Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti 6: (1888)
 
 #### Original name
-Ophiobolus leptosphaerioides var. leptosphaerioides
+Ophiobolus leptosphaerioides Sacc. & Paol.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria curvula (de Bary ex G. Winter) SPECIES
-=======
+# Sphaeria curvula (de Bary ex G. Winter) SPECIES
 
 #### Status
 ACCEPTED

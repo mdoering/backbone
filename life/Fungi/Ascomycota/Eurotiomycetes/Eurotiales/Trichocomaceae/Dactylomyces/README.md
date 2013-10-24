@@ -1,5 +1,4 @@
-Dactylomyces Sopp, 1912 GENUS
-=======
+# Dactylomyces Sopp, 1912 GENUS
 
 #### Status
 ACCEPTED

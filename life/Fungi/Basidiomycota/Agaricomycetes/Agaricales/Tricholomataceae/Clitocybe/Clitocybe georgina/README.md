@@ -1,5 +1,4 @@
-Clitocybe georgina Clémençon SPECIES
-=======
+# Clitocybe georgina Clémençon SPECIES
 
 #### Status
 ACCEPTED

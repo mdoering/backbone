@@ -1,14 +1,13 @@
-Pezizella separabilis (P. Karst.) Rehm, 1926 SPECIES
-=======
+# Phialina separabilis (P. Karst.) Huhtinen & Scheuer, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. Z. Pilzk. 4: 2 (1995)
 
 #### Original name
 Helotium separabile P. Karst., 1871

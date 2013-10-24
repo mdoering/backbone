@@ -1,5 +1,4 @@
-Patellaria punctiformis Hoffm. SPECIES
-=======
+# Patellaria punctiformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

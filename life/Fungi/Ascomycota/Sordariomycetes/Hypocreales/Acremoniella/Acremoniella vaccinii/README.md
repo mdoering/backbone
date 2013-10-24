@@ -1,5 +1,4 @@
-Acremoniella vaccinii (Fuckel) Sacc. SPECIES
-=======
+# Acremoniella vaccinii (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

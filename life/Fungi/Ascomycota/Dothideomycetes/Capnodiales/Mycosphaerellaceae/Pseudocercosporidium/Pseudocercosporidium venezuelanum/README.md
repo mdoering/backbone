@@ -1,14 +1,13 @@
-Cercosporidium venezuelanum Syd., 1930 SPECIES
-=======
+# Pseudocercosporidium venezuelanum (Syd.) Deighton, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 28: 218 (1930)
+Mycol. Pap. 133: 56 (1973)
 
 #### Original name
 Cercosporidium venezuelanum Syd., 1930

@@ -1,5 +1,4 @@
-Lecidea callista Stirt. SPECIES
-=======
+# Lecidea callista Stirt. SPECIES
 
 #### Status
 ACCEPTED

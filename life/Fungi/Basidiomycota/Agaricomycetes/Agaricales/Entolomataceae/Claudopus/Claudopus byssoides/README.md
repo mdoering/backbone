@@ -1,14 +1,13 @@
-Claudopus byssoideus (Pers.) Murrill SPECIES
-=======
+# Claudopus byssoides (Pers.) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 10: 80 (1917)
 
 #### Original name
 Agaricus byssoides Pers.

@@ -1,5 +1,4 @@
-Puiggarina GENUS
-=======
+# Puiggarina GENUS
 
 #### Status
 ACCEPTED

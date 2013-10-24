@@ -1,5 +1,4 @@
-Brigantiaea patwardhanii Chitale & Makhija SPECIES
-=======
+# Brigantiaea patwardhanii Chitale & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Choanoeca perplexa Ellis, 1930 SPECIES
-=======
+# Choanoeca perplexa Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

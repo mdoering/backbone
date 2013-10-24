@@ -1,5 +1,4 @@
-Sphaeronaema cerasi Lasch SPECIES
-=======
+# Sphaeronaema cerasi Lasch SPECIES
 
 #### Status
 ACCEPTED

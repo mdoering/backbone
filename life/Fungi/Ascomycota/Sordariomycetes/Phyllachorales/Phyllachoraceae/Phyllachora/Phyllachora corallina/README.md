@@ -1,5 +1,4 @@
-Phyllachora corallina Höhn., 1909 SPECIES
-=======
+# Phyllachora corallina Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

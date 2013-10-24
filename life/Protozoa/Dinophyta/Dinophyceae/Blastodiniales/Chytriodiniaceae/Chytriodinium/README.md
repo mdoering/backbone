@@ -1,5 +1,4 @@
-Chytriodinium Chatton, 1912 GENUS
-=======
+# Chytriodinium Chatton, 1912 GENUS
 
 #### Status
 ACCEPTED

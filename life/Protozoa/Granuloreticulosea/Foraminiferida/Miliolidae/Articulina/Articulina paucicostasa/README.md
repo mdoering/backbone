@@ -1,5 +1,4 @@
-Articulina paucicostasa SPECIES
-=======
+# Articulina paucicostasa SPECIES
 
 #### Status
 ACCEPTED

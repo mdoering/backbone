@@ -1,5 +1,4 @@
-Labridium rhododendri Wilson {?} SPECIES
-=======
+# Labridium rhododendri Wilson {?} SPECIES
 
 #### Status
 ACCEPTED

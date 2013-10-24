@@ -1,5 +1,4 @@
-Alatosessilispora bibrachiata K. Ando & Tubaki, 1984 SPECIES
-=======
+# Alatosessilispora bibrachiata K. Ando & Tubaki, 1984 SPECIES
 
 #### Status
 ACCEPTED

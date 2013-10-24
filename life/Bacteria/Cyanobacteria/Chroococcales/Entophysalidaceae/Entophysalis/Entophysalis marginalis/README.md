@@ -1,5 +1,4 @@
-Entophysalis marginalis Hollenberg SPECIES
-=======
+# Entophysalis marginalis Hollenberg SPECIES
 
 #### Status
 ACCEPTED

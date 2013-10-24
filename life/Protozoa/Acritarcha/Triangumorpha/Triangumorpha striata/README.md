@@ -1,5 +1,4 @@
-Triangumorpha striata Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Triangumorpha striata Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

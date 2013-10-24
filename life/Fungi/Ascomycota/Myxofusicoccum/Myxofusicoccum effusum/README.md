@@ -1,5 +1,4 @@
-Myxofusicoccum effusum Petr. SPECIES
-=======
+# Myxofusicoccum effusum Petr. SPECIES
 
 #### Status
 ACCEPTED

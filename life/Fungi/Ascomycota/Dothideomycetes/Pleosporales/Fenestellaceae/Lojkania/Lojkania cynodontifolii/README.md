@@ -1,5 +1,4 @@
-Lojkania cynodontifolii Bat. SPECIES
-=======
+# Lojkania cynodontifolii Bat. SPECIES
 
 #### Status
 ACCEPTED

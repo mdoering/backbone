@@ -1,5 +1,4 @@
-Asterostroma gracile Burt SPECIES
-=======
+# Asterostroma gracile Burt SPECIES
 
 #### Status
 ACCEPTED

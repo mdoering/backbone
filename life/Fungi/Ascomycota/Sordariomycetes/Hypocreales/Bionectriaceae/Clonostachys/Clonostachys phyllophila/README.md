@@ -1,5 +1,4 @@
-Clonostachys phyllophila Schroers SPECIES
-=======
+# Clonostachys phyllophila Schroers SPECIES
 
 #### Status
 ACCEPTED

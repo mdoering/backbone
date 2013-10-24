@@ -1,8 +1,7 @@
-Polystictus spegazzini Bres. SPECIES
-=======
+# Polystictus spegazzinii Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polystictus spegazzini Bres.
+Polystictus spegazzinii Bres.
 
 ### Remarks
 null

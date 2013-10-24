@@ -1,5 +1,4 @@
-Mycoporum granulatum Müll. Arg. SPECIES
-=======
+# Mycoporum granulatum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

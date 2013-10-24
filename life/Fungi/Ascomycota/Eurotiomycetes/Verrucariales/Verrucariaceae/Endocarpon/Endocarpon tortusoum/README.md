@@ -1,5 +1,4 @@
-Endocarpon tortusoum SPECIES
-=======
+# Endocarpon tortusoum SPECIES
 
 #### Status
 ACCEPTED

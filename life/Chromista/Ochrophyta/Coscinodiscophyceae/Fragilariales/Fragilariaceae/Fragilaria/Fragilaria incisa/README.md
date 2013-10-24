@@ -1,5 +1,4 @@
-Fragilaria incisa (C.S.Boyer) Lange-Bertalot SPECIES
-=======
+# Fragilaria incisa (C.S.Boyer) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

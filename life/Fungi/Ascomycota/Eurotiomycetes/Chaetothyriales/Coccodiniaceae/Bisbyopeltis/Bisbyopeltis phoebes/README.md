@@ -1,17 +1,16 @@
-Bisbyopeltis phoebesii Bat. & A.F. Vital SPECIES
-=======
+# Bisbyopeltis phoebes Bat. & A.F. Vital, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Batista, Costa & Vital, Anais Soc. Biol. Pernambuco 15(2): 402 (1957)
 
 #### Original name
-Bisbyopeltis phoebesii Bat. & A.F. Vital
+Bisbyopeltis phoebes Bat. & A.F. Vital, 1957
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Meliola pithecolobiicola Speg. SPECIES
-=======
+# Meliola pithecellobiicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 32: 371 (1924)
 
 #### Original name
-Meliola pithecolobiicola Speg.
+Meliola pithecellobiicola Speg.
 
 ### Remarks
 null

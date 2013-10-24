@@ -1,5 +1,4 @@
-Cytospora smithiae Sacc. & Trotter SPECIES
-=======
+# Cytospora smithiae Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

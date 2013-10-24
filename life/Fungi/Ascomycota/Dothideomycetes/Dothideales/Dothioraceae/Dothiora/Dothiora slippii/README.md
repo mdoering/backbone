@@ -1,5 +1,4 @@
-Dothiora slippii M.E. Barr SPECIES
-=======
+# Dothiora slippii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

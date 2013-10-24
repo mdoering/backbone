@@ -1,5 +1,4 @@
-Sporisorium tristachyae-nodiglumis Vánky, 2003 SPECIES
-=======
+# Sporisorium tristachyae-nodiglumis Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Aecidium hellotropiicola P.H.B. Talbot SPECIES
-=======
+# Aecidium heliotropiicola P.H.B. Talbot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 896 (1948)
 
 #### Original name
-Aecidium hellotropiicola P.H.B. Talbot
+Aecidium heliotropiicola P.H.B. Talbot
 
 ### Remarks
 null

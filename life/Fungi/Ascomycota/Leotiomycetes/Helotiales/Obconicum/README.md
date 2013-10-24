@@ -1,5 +1,4 @@
-Obconicum Velen. GENUS
-=======
+# Obconicum Velen. GENUS
 
 #### Status
 ACCEPTED

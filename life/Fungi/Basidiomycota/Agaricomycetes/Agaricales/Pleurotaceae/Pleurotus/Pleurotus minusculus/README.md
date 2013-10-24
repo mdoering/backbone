@@ -1,5 +1,4 @@
-Pleurotus minusculus (Speg.) Sacc. SPECIES
-=======
+# Pleurotus minusculus (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

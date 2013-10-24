@@ -1,17 +1,16 @@
-Coscinospora Mirza GENUS
-=======
+# Jugulospora N. Lundq. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 20(1): 256 (1972)
 
 #### Original name
-Coscinospora Mirza
+Jugulospora N. Lundq.
 
 ### Remarks
 null

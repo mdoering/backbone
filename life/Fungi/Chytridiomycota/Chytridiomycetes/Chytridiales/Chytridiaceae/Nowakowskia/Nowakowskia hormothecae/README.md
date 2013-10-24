@@ -1,5 +1,4 @@
-Nowakowskia hormothecae Borzí, 1885 SPECIES
-=======
+# Nowakowskia hormothecae Borzí, 1885 SPECIES
 
 #### Status
 ACCEPTED

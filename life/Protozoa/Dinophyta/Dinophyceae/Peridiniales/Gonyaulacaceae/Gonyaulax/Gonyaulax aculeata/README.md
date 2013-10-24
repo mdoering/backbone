@@ -1,5 +1,4 @@
-Gonyaulax aculeata K. W. Klement SPECIES
-=======
+# Gonyaulax aculeata K. W. Klement SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutularia GENUS
-=======
+# Scutularia GENUS
 
 #### Status
 ACCEPTED

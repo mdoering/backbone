@@ -1,5 +1,4 @@
-Aecidium vernoniae-mollis Mayor SPECIES
-=======
+# Aecidium vernoniae-mollis Mayor SPECIES
 
 #### Status
 ACCEPTED

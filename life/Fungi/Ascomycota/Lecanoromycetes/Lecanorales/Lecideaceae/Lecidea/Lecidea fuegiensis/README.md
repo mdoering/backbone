@@ -1,5 +1,4 @@
-Lecidea fuegiensis Nyl. SPECIES
-=======
+# Lecidea fuegiensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia petiolorum Schwein. SPECIES
-=======
+# Vermicularia petiolorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

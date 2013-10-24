@@ -1,5 +1,4 @@
-Ganoderma mangiferae (Lév.) Pat. SPECIES
-=======
+# Ganoderma mangiferae (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

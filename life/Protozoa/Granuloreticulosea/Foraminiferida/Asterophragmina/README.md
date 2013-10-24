@@ -1,5 +1,4 @@
-Asterophragmina Rao, 1942 GENUS
-=======
+# Asterophragmina Rao, 1942 GENUS
 
 #### Status
 ACCEPTED

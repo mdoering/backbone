@@ -1,5 +1,4 @@
-Amanita malheurensis Trueblood, O.K. Mill. & D.T. Jenkins SPECIES
-=======
+# Amanita malheurensis Trueblood, O.K. Mill. & D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

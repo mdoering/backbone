@@ -1,5 +1,4 @@
-Diplodiella cardonia Sacc. & Flageolet SPECIES
-=======
+# Diplodiella cardonia Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

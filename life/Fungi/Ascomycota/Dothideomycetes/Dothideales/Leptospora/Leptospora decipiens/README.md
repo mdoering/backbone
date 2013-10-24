@@ -1,5 +1,4 @@
-Leptospora decipiens Pass. SPECIES
-=======
+# Leptospora decipiens Pass. SPECIES
 
 #### Status
 ACCEPTED

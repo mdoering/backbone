@@ -1,5 +1,4 @@
-Heterodermia rubricosa (Stirt.) Poelt SPECIES
-=======
+# Heterodermia rubricosa (Stirt.) Poelt SPECIES
 
 #### Status
 ACCEPTED

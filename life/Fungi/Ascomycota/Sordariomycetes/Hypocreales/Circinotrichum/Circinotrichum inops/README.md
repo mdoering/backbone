@@ -1,5 +1,4 @@
-Circinotrichum inops Berl. SPECIES
-=======
+# Circinotrichum inops Berl. SPECIES
 
 #### Status
 ACCEPTED

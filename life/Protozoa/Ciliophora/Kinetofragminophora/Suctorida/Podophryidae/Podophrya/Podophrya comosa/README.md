@@ -1,5 +1,4 @@
-Podophrya comosa SPECIES
-=======
+# Podophrya comosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphinomium pannarinum Nyl. SPECIES
-=======
+# Amphinomium pannarinum Nyl. SPECIES
 
 #### Status
 ACCEPTED

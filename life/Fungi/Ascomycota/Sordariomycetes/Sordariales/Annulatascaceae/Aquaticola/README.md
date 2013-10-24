@@ -1,5 +1,4 @@
-Aquaticola W.H. Ho, K.M. Tsui, Hodgkiss & K.D. Hyde GENUS
-=======
+# Aquaticola W.H. Ho, K.M. Tsui, Hodgkiss & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

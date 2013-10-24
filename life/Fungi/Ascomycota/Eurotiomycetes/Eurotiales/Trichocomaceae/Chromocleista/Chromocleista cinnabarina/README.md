@@ -1,5 +1,4 @@
-Chromocleista cinnabarina Yaguchi & Udagawa, 1993 SPECIES
-=======
+# Chromocleista cinnabarina Yaguchi & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

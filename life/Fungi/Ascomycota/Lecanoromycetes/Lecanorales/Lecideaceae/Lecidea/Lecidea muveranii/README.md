@@ -1,5 +1,4 @@
-Lecidea muveranii Müll. Arg. SPECIES
-=======
+# Lecidea muveranii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

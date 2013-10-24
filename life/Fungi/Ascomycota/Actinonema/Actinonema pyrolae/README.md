@@ -1,17 +1,16 @@
-Actinonema pirolae Allesch. SPECIES
-=======
+# Actinonema pyrolae Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(6): 708 (1900)
 
 #### Original name
-Actinonema pirolae Allesch.
+Actinonema pyrolae Allesch.
 
 ### Remarks
 null

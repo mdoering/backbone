@@ -1,5 +1,4 @@
-Monodictys ucrainica (Kiril.) de Hoog & Grinb. SPECIES
-=======
+# Monodictys ucrainica (Kiril.) de Hoog & Grinb. SPECIES
 
 #### Status
 ACCEPTED

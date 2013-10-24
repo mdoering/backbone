@@ -1,5 +1,4 @@
-Lecidea fagicola Zschacke SPECIES
-=======
+# Lecidea fagicola Zschacke SPECIES
 
 #### Status
 ACCEPTED

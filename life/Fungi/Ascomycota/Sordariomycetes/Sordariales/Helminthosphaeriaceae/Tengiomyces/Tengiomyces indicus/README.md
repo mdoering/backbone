@@ -1,14 +1,13 @@
-Chaetosphaerella indica Varghese & V.G. Rao, 1979 SPECIES
-=======
+# Tengiomyces indicus (Varghese & V.G. Rao) Réblová, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biovigyanam 5(1): 2 (1979)
+Mycotaxon 70: 408 (1999)
 
 #### Original name
 Chaetosphaerella indica Varghese & V.G. Rao, 1979

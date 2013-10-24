@@ -1,5 +1,4 @@
-Leptorhaphis macrocyrtospora (C. Knight) Hellb. SPECIES
-=======
+# Leptorhaphis macrocyrtospora (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

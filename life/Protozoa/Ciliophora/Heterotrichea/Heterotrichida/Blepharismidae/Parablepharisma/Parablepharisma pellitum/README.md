@@ -1,5 +1,4 @@
-Parablepharisma pellitum (Kahl, 1932) Jankowski, 2007 SPECIES
-=======
+# Parablepharisma pellitum (Kahl, 1932) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

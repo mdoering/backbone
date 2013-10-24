@@ -1,5 +1,4 @@
-Sporidesmium coniosporium anon. SPECIES
-=======
+# Sporidesmium coniosporium anon. SPECIES
 
 #### Status
 ACCEPTED

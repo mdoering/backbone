@@ -1,5 +1,4 @@
-Mitrula elegans Berk. SPECIES
-=======
+# Mitrula elegans Berk. SPECIES
 
 #### Status
 ACCEPTED

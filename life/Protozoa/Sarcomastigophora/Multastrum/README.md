@@ -1,5 +1,4 @@
-Multastrum Vishnevskaya, 1991 GENUS
-=======
+# Multastrum Vishnevskaya, 1991 GENUS
 
 #### Status
 ACCEPTED

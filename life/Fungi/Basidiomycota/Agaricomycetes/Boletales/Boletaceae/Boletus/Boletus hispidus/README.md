@@ -1,5 +1,4 @@
-Boletus hispidus SPECIES
-=======
+# Boletus hispidus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephromopsis platyphylla (Tuck.) Herre SPECIES
-=======
+# Nephromopsis platyphylla (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

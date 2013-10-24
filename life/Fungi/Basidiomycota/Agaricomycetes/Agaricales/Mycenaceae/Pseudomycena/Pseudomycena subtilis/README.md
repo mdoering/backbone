@@ -1,5 +1,4 @@
-Pseudomycena subtilis Velen. SPECIES
-=======
+# Pseudomycena subtilis Velen. SPECIES
 
 #### Status
 ACCEPTED

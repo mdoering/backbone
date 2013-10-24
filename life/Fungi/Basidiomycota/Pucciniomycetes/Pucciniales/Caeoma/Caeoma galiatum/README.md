@@ -1,5 +1,4 @@
-Caeoma galiatum Link SPECIES
-=======
+# Caeoma galiatum Link SPECIES
 
 #### Status
 ACCEPTED

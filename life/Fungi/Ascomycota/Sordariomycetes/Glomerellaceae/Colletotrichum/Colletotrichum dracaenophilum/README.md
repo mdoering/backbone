@@ -1,5 +1,4 @@
-Colletotrichum dracaenophilum D.F. Farr & M.E. Palm SPECIES
-=======
+# Colletotrichum dracaenophilum D.F. Farr & M.E. Palm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina anceps Nyl. SPECIES
-=======
+# Ramalina anceps Nyl. SPECIES
 
 #### Status
 ACCEPTED

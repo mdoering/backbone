@@ -1,5 +1,4 @@
-Kinyrosphaera trispinosa SPECIES
-=======
+# Kinyrosphaera trispinosa SPECIES
 
 #### Status
 ACCEPTED

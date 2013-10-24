@@ -1,5 +1,4 @@
-Lyophyllum raphanolens Romagn. SPECIES
-=======
+# Lyophyllum raphanolens Romagn. SPECIES
 
 #### Status
 ACCEPTED

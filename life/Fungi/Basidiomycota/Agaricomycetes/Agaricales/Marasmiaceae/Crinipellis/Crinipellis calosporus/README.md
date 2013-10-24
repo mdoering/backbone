@@ -1,5 +1,4 @@
-Crinipellis calosporus Pat. SPECIES
-=======
+# Crinipellis calosporus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Nephroma tropicum subsp. tropicum SUBSPECIES
-=======
+# Nephroma helveticum Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 523 (1810)
 
 #### Original name
-null
+Nephroma helveticum Ach.
 
 ### Remarks
 null

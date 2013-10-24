@@ -1,5 +1,4 @@
-Biantholithus sparsus Bramlette & Martini, 1964 SPECIES
-=======
+# Biantholithus sparsus Bramlette & Martini, 1964 SPECIES
 
 #### Status
 ACCEPTED

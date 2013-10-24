@@ -1,5 +1,4 @@
-Dingleya Trappe GENUS
-=======
+# Dingleya Trappe GENUS
 
 #### Status
 ACCEPTED

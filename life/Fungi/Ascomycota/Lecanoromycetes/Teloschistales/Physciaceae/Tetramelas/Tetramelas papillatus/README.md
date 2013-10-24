@@ -1,17 +1,16 @@
-Diplotomma papillata (Sommerf.) C.W. Dodge SPECIES
-=======
+# Tetramelas papillatus (Sommerf.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichen Flora of the Antarctic Continent and adjacent Islands (Canaan, N. Hamp. ) 347 (1973)
+null
 
 #### Original name
-Lecidea papillata Sommerf.
+null
 
 ### Remarks
 null

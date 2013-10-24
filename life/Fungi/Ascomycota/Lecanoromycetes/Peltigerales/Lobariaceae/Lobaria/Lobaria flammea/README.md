@@ -1,5 +1,4 @@
-Lobaria flammea (L. f.) Räuschel SPECIES
-=======
+# Lobaria flammea (L. f.) Räuschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobolus intermedius J.L. Bezerra & Kimbr., 1975 SPECIES
-=======
+# Lasiobolus intermedius J.L. Bezerra & Kimbr., 1975 SPECIES
 
 #### Status
 ACCEPTED

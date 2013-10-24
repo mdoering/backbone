@@ -1,5 +1,4 @@
-Puccinia aframomi-gigantei J.M. Yen & Gilles SPECIES
-=======
+# Puccinia aframomi-gigantei J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

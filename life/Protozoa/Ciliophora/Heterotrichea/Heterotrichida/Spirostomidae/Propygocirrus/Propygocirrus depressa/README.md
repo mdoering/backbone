@@ -1,5 +1,4 @@
-Propygocirrus depressa Ammerman, 1968 SPECIES
-=======
+# Propygocirrus depressa Ammerman, 1968 SPECIES
 
 #### Status
 ACCEPTED

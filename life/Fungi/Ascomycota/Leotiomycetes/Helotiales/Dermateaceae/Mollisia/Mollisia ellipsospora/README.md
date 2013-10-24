@@ -1,5 +1,4 @@
-Mollisia ellipsospora Rodway SPECIES
-=======
+# Mollisia ellipsospora Rodway SPECIES
 
 #### Status
 ACCEPTED

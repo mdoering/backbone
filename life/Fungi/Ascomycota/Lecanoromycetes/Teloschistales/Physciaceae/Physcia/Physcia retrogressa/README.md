@@ -1,5 +1,4 @@
-Physcia retrogressa SPECIES
-=======
+# Physcia retrogressa SPECIES
 
 #### Status
 ACCEPTED

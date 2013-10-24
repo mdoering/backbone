@@ -1,17 +1,16 @@
-Lecidea segrex Erichsen SPECIES
-=======
+# Micarea polycarpella (Erichsen) Coppins & Palice SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Coppins, Palice & Soldan, Bryonora 16: 23 (1995)
 
 #### Original name
-null
+Lecidea polycarpella Erichsen
 
 ### Remarks
 null

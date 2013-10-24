@@ -1,5 +1,4 @@
-Pholiota orinocensis Pat. & Gaillard SPECIES
-=======
+# Pholiota orinocensis Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

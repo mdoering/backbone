@@ -1,5 +1,4 @@
-Hemimycena epibiotica Singer SPECIES
-=======
+# Hemimycena epibiotica Singer SPECIES
 
 #### Status
 ACCEPTED

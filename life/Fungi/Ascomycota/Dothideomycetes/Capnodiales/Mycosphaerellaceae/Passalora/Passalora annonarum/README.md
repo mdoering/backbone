@@ -1,5 +1,4 @@
-Passalora annonarum (Petr. & Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora annonarum (Petr. & Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

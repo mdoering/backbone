@@ -1,8 +1,7 @@
-Moraxella anatipestifer (Hendrickson and Hilbert, 1932) Bruner and Fabricant, 1954 (Approved Lists, 1980) SPECIES
-=======
+# Riemerella anatipestifer (Hendrickson & Hilbert, 1932) Segers et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Tricholoma iaganicum Speg. SPECIES
-=======
+# Tricholoma iaganicum Speg. SPECIES
 
 #### Status
 ACCEPTED

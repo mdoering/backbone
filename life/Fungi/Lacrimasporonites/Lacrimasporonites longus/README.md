@@ -1,5 +1,4 @@
-Lacrimasporonites longus R.K. Kar SPECIES
-=======
+# Lacrimasporonites longus R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

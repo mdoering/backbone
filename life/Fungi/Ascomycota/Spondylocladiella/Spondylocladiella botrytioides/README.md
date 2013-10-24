@@ -1,5 +1,4 @@
-Spondylocladiella botrytioides Linder, 1934 SPECIES
-=======
+# Spondylocladiella botrytioides Linder, 1934 SPECIES
 
 #### Status
 ACCEPTED

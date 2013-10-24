@@ -1,5 +1,4 @@
-Macrodiplodia novae-hollandiae (Speg.) Kuntze SPECIES
-=======
+# Macrodiplodia novae-hollandiae (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

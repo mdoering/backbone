@@ -1,5 +1,4 @@
-Cortinarius radians Earle SPECIES
-=======
+# Cortinarius radians Earle SPECIES
 
 #### Status
 ACCEPTED

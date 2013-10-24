@@ -1,5 +1,4 @@
-Nidularia heterospora Sosin SPECIES
-=======
+# Nidularia heterospora Sosin SPECIES
 
 #### Status
 ACCEPTED

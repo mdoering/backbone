@@ -1,5 +1,4 @@
-Phaeosphaerella hawaiiensis F. Stevens & McMunn SPECIES
-=======
+# Phaeosphaerella hawaiiensis F. Stevens & McMunn SPECIES
 
 #### Status
 ACCEPTED

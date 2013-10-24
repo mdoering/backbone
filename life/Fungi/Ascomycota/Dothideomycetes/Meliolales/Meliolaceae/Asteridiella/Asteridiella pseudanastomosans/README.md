@@ -1,5 +1,4 @@
-Asteridiella pseudanastomosans (Rehm) Hansf. SPECIES
-=======
+# Asteridiella pseudanastomosans (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

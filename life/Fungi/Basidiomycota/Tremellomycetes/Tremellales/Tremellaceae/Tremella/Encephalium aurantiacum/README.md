@@ -1,5 +1,4 @@
-Encephalium aurantiacum Link SPECIES
-=======
+# Encephalium aurantiacum Link SPECIES
 
 #### Status
 ACCEPTED

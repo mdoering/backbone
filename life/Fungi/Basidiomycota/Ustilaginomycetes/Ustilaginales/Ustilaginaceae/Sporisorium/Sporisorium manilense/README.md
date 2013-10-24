@@ -1,5 +1,4 @@
-Sporisorium manilense (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium manilense (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

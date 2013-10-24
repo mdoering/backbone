@@ -1,5 +1,4 @@
-Bacidia aeruginosula (Müll. Arg.) SPECIES
-=======
+# Bacidia aeruginosula (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora advena (Pass.) Kuntze SPECIES
-=======
+# Filaspora advena (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

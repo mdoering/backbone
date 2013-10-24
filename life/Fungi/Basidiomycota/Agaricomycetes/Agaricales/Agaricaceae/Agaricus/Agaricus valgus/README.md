@@ -1,5 +1,4 @@
-Agaricus valgus Holmsk. SPECIES
-=======
+# Agaricus valgus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

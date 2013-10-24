@@ -1,5 +1,4 @@
-Physalospora immersa Massee SPECIES
-=======
+# Physalospora immersa Massee SPECIES
 
 #### Status
 ACCEPTED

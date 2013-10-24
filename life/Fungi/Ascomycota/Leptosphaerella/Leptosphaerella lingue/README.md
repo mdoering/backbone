@@ -1,5 +1,4 @@
-Leptosphaerella lingue Speg. SPECIES
-=======
+# Leptosphaerella lingue Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Derxomyces boekhoutii F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces boekhoutii F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

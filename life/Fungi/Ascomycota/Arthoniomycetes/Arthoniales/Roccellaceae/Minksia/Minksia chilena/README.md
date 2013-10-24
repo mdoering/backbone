@@ -1,17 +1,16 @@
-Minksia chilensis (C.W. Dodge) Redón & Follmann SPECIES
-=======
+# Minksia chilena (C.W. Dodge) Redón & Follmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philippia 1: 133 (1972)
 
 #### Original name
-Schismatomma chilense C.W. Dodge
+Medusulina chilena C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterina veronicae (Lib.) Cooke, 1877 SPECIES
-=======
+# Asterina veronicae (Lib.) Cooke, 1877 SPECIES
 
 #### Status
 ACCEPTED

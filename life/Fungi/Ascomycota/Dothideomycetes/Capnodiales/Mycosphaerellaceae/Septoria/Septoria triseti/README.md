@@ -1,5 +1,4 @@
-Septoria triseti Speg., 1888 SPECIES
-=======
+# Septoria triseti Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

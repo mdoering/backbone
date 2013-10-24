@@ -1,5 +1,4 @@
-Graphina interstens Müll. Arg. SPECIES
-=======
+# Graphina interstens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

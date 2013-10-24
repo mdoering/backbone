@@ -1,5 +1,4 @@
-Sorosporium everhartii Ellis & Galloway SPECIES
-=======
+# Sorosporium everhartii Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

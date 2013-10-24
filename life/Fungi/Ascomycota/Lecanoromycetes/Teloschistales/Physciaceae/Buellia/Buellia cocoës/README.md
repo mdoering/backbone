@@ -1,5 +1,4 @@
-Buellia cocoës Malme SPECIES
-=======
+# Buellia cocoës Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syndetocystis uralensis N. I. Strelnikova SPECIES
-=======
+# Syndetocystis uralensis N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

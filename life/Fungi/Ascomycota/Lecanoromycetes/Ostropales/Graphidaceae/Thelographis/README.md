@@ -1,5 +1,4 @@
-Thelographis GENUS
-=======
+# Thelographis GENUS
 
 #### Status
 ACCEPTED

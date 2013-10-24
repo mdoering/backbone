@@ -1,5 +1,4 @@
-Hydnangium virescens Corner & Hawker SPECIES
-=======
+# Hydnangium virescens Corner & Hawker SPECIES
 
 #### Status
 ACCEPTED

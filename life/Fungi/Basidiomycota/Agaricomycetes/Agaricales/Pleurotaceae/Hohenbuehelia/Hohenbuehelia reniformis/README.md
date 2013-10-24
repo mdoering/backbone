@@ -1,14 +1,13 @@
-Acanthocystis reniformis (G. Mey.) Konrad & Maubl., 1949 SPECIES
-=======
+# Hohenbuehelia reniformis (G. Mey.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 14: 424 (1949)
+Lilloa 22: 255 (1951)
 
 #### Original name
 Agaricus reniformis G. Mey., 1818

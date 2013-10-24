@@ -1,5 +1,4 @@
-Phallus nanchangensis Z.Z. He SPECIES
-=======
+# Phallus nanchangensis Z.Z. He SPECIES
 
 #### Status
 ACCEPTED

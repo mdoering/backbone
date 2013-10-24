@@ -1,17 +1,16 @@
-Hindersonia Moug. & Nestl. ex J. Schröt. GENUS
-=======
+# Ceriospora Niessl, 1876 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 393 (1897)
+null
 
 #### Original name
-Hindersonia Moug. & Nestl. ex J. Schröt.
+null
 
 ### Remarks
 null

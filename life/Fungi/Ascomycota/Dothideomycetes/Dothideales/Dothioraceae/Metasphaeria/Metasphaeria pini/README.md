@@ -1,5 +1,4 @@
-Metasphaeria pini Cruchet SPECIES
-=======
+# Metasphaeria pini Cruchet SPECIES
 
 #### Status
 ACCEPTED

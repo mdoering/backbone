@@ -1,5 +1,4 @@
-Cortinarius subrigidipes M.M. Moser SPECIES
-=======
+# Cortinarius subrigidipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis assamensis Nagarkar & Patw. SPECIES
-=======
+# Graphis assamensis Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

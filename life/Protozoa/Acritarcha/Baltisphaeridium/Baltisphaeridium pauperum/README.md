@@ -1,5 +1,4 @@
-Baltisphaeridium pauperum Morgenroth, 1966 SPECIES
-=======
+# Baltisphaeridium pauperum Morgenroth, 1966 SPECIES
 
 #### Status
 ACCEPTED

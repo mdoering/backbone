@@ -1,5 +1,4 @@
-Hypocopra plinthina J.C. Krug & Cain SPECIES
-=======
+# Hypocopra plinthina J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

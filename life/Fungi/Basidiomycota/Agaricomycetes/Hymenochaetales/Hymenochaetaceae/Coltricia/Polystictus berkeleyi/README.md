@@ -1,5 +1,4 @@
-Polystictus berkeleyi Bres. SPECIES
-=======
+# Polystictus berkeleyi Bres. SPECIES
 
 #### Status
 ACCEPTED

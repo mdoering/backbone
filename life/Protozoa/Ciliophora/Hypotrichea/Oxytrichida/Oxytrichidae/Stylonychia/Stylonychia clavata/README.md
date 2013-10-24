@@ -1,5 +1,4 @@
-Stylonychia clavata SPECIES
-=======
+# Stylonychia clavata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenidium pennatum Simdyanov, 1992 SPECIES
-=======
+# Selenidium pennatum Simdyanov, 1992 SPECIES
 
 #### Status
 ACCEPTED

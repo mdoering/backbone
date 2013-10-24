@@ -1,5 +1,4 @@
-Sirodesmium catamarcae Speg. SPECIES
-=======
+# Sirodesmium catamarcae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Theissenula Syd. & P. Syd. GENUS
-=======
+# Theissenula Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

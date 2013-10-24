@@ -1,5 +1,4 @@
-Phyllactinia elaeagni Linder SPECIES
-=======
+# Phyllactinia elaeagni Linder SPECIES
 
 #### Status
 ACCEPTED

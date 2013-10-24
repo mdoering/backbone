@@ -1,5 +1,4 @@
-Phoma ficus Castagne SPECIES
-=======
+# Phoma ficus Castagne SPECIES
 
 #### Status
 ACCEPTED

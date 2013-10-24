@@ -1,5 +1,4 @@
-Macrosporium velutinum McAlpine SPECIES
-=======
+# Macrosporium velutinum McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella calva var. calva VARIETY
-=======
+# Asteridiella calva (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10(1-6): 47 (1957)
 
 #### Original name
-Asteridiella calva var. calva
+Meliola calva Speg.
 
 ### Remarks
 null

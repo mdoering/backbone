@@ -1,5 +1,4 @@
-Drechslera triticicola C.K. Pai, J.C. Zhang & X.T. Zhu SPECIES
-=======
+# Drechslera triticicola C.K. Pai, J.C. Zhang & X.T. Zhu SPECIES
 
 #### Status
 ACCEPTED

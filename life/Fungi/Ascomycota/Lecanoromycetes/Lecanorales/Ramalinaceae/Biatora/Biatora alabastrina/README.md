@@ -1,5 +1,4 @@
-Biatora alabastrina Mann SPECIES
-=======
+# Biatora alabastrina Mann SPECIES
 
 #### Status
 ACCEPTED

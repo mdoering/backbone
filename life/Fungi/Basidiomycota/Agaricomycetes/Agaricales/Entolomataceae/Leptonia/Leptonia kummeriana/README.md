@@ -1,5 +1,4 @@
-Leptonia kummeriana Henn. SPECIES
-=======
+# Leptonia kummeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

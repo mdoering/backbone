@@ -1,5 +1,4 @@
-Sporocybe chlorocephala Speg. SPECIES
-=======
+# Sporocybe chlorocephala Speg. SPECIES
 
 #### Status
 ACCEPTED

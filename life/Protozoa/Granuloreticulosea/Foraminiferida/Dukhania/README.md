@@ -1,5 +1,4 @@
-Dukhania Henson, 1949 GENUS
-=======
+# Dukhania Henson, 1949 GENUS
 
 #### Status
 ACCEPTED

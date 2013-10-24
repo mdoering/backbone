@@ -1,5 +1,4 @@
-Sphaerella salicinearum Pass. SPECIES
-=======
+# Sphaerella salicinearum Pass. SPECIES
 
 #### Status
 ACCEPTED

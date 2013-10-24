@@ -1,5 +1,4 @@
-Dothiorella populnea Thüm. SPECIES
-=======
+# Dothiorella populnea Thüm. SPECIES
 
 #### Status
 ACCEPTED

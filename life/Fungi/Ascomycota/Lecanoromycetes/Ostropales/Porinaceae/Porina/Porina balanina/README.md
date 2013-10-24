@@ -1,5 +1,4 @@
-Porina balanina Brusse SPECIES
-=======
+# Porina balanina Brusse SPECIES
 
 #### Status
 ACCEPTED

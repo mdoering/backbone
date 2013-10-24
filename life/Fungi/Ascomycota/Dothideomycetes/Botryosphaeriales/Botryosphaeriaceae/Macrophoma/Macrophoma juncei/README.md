@@ -1,5 +1,4 @@
-Macrophoma juncei Pass. SPECIES
-=======
+# Macrophoma juncei Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daleomyces shearii Gilkey SPECIES
-=======
+# Daleomyces shearii Gilkey SPECIES
 
 #### Status
 ACCEPTED

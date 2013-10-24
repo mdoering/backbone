@@ -1,5 +1,4 @@
-Cryptobia stilbia Noble, 1968 SPECIES
-=======
+# Cryptobia stilbia Noble, 1968 SPECIES
 
 #### Status
 ACCEPTED

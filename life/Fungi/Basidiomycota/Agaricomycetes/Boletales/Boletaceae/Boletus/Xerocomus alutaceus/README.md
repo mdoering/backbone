@@ -1,5 +1,4 @@
-Xerocomus alutaceus (Morgan) E.A. Dick & Snell SPECIES
-=======
+# Xerocomus alutaceus (Morgan) E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

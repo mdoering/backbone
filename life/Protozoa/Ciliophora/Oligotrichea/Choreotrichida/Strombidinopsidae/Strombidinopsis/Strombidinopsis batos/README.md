@@ -1,5 +1,4 @@
-Strombidinopsis batos Lynn, Montagnes, Dale, Gilron & Strom, 1991 SPECIES
-=======
+# Strombidinopsis batos Lynn, Montagnes, Dale, Gilron & Strom, 1991 SPECIES
 
 #### Status
 ACCEPTED

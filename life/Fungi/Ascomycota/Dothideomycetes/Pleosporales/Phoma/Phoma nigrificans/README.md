@@ -1,5 +1,4 @@
-Phoma nigrificans (P. Karst.) Boerema, Loer. & Wittern, 1986 SPECIES
-=======
+# Phoma nigrificans (P. Karst.) Boerema, Loer. & Wittern, 1986 SPECIES
 
 #### Status
 ACCEPTED

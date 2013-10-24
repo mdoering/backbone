@@ -1,5 +1,4 @@
-Hydrocybe saturnina SPECIES
-=======
+# Hydrocybe saturnina SPECIES
 
 #### Status
 ACCEPTED

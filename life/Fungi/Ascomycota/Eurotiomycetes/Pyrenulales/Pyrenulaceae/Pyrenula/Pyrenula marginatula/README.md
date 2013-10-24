@@ -1,5 +1,4 @@
-Pyrenula marginatula Müll. Arg. SPECIES
-=======
+# Pyrenula marginatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

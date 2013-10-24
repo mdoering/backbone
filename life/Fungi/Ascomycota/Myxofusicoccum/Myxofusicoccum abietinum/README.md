@@ -1,5 +1,4 @@
-Myxofusicoccum abietinum Petr. SPECIES
-=======
+# Myxofusicoccum abietinum Petr. SPECIES
 
 #### Status
 ACCEPTED

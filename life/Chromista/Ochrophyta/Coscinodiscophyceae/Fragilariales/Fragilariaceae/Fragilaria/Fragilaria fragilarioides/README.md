@@ -1,5 +1,4 @@
-Fragilaria fragilarioides (Grunow) SPECIES
-=======
+# Fragilaria fragilarioides (Grunow) SPECIES
 
 #### Status
 ACCEPTED

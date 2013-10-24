@@ -1,5 +1,4 @@
-Xanthoparmelia californica Hale SPECIES
-=======
+# Xanthoparmelia californica Hale SPECIES
 
 #### Status
 ACCEPTED

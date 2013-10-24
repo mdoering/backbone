@@ -1,5 +1,4 @@
-Puccinia cypripedii Arthur SPECIES
-=======
+# Puccinia cypripedii Arthur SPECIES
 
 #### Status
 ACCEPTED

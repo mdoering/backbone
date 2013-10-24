@@ -1,5 +1,4 @@
-Gymnopilus squalidus (Peck) Murrill SPECIES
-=======
+# Gymnopilus squalidus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota amyloidea Singer SPECIES
-=======
+# Lepiota amyloidea Singer SPECIES
 
 #### Status
 ACCEPTED

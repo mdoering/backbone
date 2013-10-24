@@ -1,5 +1,4 @@
-Spermospora oryzae M. Rao SPECIES
-=======
+# Spermospora oryzae M. Rao SPECIES
 
 #### Status
 ACCEPTED

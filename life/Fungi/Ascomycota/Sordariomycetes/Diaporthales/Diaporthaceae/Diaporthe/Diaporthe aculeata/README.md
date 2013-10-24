@@ -1,5 +1,4 @@
-Diaporthe aculeata (Schwein.) Sacc. SPECIES
-=======
+# Diaporthe aculeata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monothecium Lib. GENUS
-=======
+# Monothecium Lib. GENUS
 
 #### Status
 ACCEPTED

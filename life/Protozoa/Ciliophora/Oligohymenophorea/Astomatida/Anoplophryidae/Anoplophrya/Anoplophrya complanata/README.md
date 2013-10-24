@@ -1,5 +1,4 @@
-Anoplophrya complanata SPECIES
-=======
+# Anoplophrya complanata SPECIES
 
 #### Status
 ACCEPTED

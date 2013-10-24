@@ -1,14 +1,13 @@
-Ellipsis Haeckel, 1887 GENUS
-=======
+# Cenellipsis Haeckel, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Rep. Voy. Challenger, Zool. , 18 (1), 290, 291 (as Cenellipsis; also as Ellipsis pl. 39).
+Rep. Voy. Challenger, Zool. , 18 (1), 290, 291 (as Ellipsis pl. 39).
 
 #### Original name
 null

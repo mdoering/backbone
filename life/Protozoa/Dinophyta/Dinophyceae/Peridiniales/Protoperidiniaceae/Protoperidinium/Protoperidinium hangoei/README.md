@@ -1,5 +1,4 @@
-Protoperidinium hangoei (J. Schiller) J. Lewis, J.D. Dodge & P. Tett SPECIES
-=======
+# Protoperidinium hangoei (J. Schiller) J. Lewis, J.D. Dodge & P. Tett SPECIES
 
 #### Status
 ACCEPTED

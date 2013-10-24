@@ -1,5 +1,4 @@
-Rosenscheldia brenckleana (Rehm) Theiss. & Syd. SPECIES
-=======
+# Rosenscheldia brenckleana (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

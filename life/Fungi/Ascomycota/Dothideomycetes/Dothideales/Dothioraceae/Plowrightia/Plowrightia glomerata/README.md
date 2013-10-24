@@ -1,5 +1,4 @@
-Plowrightia glomerata Pat. SPECIES
-=======
+# Plowrightia glomerata Pat. SPECIES
 
 #### Status
 ACCEPTED

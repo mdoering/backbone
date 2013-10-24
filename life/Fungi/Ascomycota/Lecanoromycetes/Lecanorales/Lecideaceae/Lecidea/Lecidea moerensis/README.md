@@ -1,5 +1,4 @@
-Lecidea moerensis H. Magn. SPECIES
-=======
+# Lecidea moerensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

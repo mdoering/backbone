@@ -1,5 +1,4 @@
-Pseudolingulina advena McCulloch, 1977 SPECIES
-=======
+# Pseudolingulina advena McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa apatosa Cooke & Ellis SPECIES
-=======
+# Valsa apatosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

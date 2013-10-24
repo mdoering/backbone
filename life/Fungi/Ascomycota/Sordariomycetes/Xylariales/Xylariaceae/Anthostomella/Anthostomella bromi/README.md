@@ -1,5 +1,4 @@
-Anthostomella bromi Richon SPECIES
-=======
+# Anthostomella bromi Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Huea sorediata Øvstedal SPECIES
-=======
+# Huea sorediata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

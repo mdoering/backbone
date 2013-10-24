@@ -1,5 +1,4 @@
-Disciseda anomala (Cooke & Massee) G. Cunn. SPECIES
-=======
+# Disciseda anomala (Cooke & Massee) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

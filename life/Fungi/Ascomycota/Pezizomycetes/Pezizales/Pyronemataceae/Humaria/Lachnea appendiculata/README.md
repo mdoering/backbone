@@ -1,5 +1,4 @@
-Lachnea appendiculata Henn. SPECIES
-=======
+# Lachnea appendiculata Henn. SPECIES
 
 #### Status
 ACCEPTED

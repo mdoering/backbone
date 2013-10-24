@@ -1,11 +1,10 @@
-Fomes robustus f. hippophaes Donk FORM
-=======
+# Phellinus hippophaecola H. Jahn, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+World Register of Marine Species
 
 #### Published in
 null

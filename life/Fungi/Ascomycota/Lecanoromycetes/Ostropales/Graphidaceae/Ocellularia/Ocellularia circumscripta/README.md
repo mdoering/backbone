@@ -1,14 +1,13 @@
-Thelotrema circumscriptum C. Knight SPECIES
-=======
+# Ocellularia circumscripta (C. Knight) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. New Zealand Inst. 15: 349 (1883)
+Nova Hedwigia 19: 489 (1970)
 
 #### Original name
 Thelotrema circumscriptum C. Knight

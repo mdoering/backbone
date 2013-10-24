@@ -1,5 +1,4 @@
-Marinobacter segnicrescens Guo, Gu, Ye, Tang, Kida & Wu, 2007 SPECIES
-=======
+# Marinobacter segnicrescens Guo, Gu, Ye, Tang, Kida & Wu, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus serbicus Henn. SPECIES
-=======
+# Ascobolus serbicus Henn. SPECIES
 
 #### Status
 ACCEPTED

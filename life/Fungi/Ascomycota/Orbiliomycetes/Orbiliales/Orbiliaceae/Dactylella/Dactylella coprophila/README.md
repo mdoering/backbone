@@ -1,5 +1,4 @@
-Dactylella coprophila Faurel & Schotter SPECIES
-=======
+# Dactylella coprophila Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

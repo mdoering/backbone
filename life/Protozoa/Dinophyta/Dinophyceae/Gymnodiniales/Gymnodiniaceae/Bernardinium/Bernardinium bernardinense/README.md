@@ -1,8 +1,7 @@
-Bernardinium thiophilum (Conrad) Javornicky SPECIES
-=======
+# Bernardinium bernardinense Chodat SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

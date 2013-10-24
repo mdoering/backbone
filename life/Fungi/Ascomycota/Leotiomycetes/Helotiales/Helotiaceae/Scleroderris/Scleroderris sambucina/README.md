@@ -1,5 +1,4 @@
-Scleroderris sambucina Naumov SPECIES
-=======
+# Scleroderris sambucina Naumov SPECIES
 
 #### Status
 ACCEPTED

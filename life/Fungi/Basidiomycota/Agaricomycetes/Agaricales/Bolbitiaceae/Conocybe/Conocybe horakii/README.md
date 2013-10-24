@@ -1,5 +1,4 @@
-Conocybe horakii Watling & G.M. Taylor, 1987 SPECIES
-=======
+# Conocybe horakii Watling & G.M. Taylor, 1987 SPECIES
 
 #### Status
 ACCEPTED

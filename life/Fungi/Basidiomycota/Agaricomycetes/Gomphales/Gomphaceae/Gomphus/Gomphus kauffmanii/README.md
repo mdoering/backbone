@@ -1,14 +1,13 @@
-Cantharellus kauffmanii A.H. Sm., 1947 SPECIES
-=======
+# Gomphus kauffmanii (A.H. Sm.) Corner, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 39(5): 516 (1947)
+Ann. Bot. Mem. 2: 122 (1966)
 
 #### Original name
 Cantharellus kauffmanii A.H. Sm., 1947

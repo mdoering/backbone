@@ -1,5 +1,4 @@
-Gloeocapsopsis Geitler ex Komárek, 1993 GENUS
-=======
+# Gloeocapsopsis Geitler ex Komárek, 1993 GENUS
 
 #### Status
 ACCEPTED

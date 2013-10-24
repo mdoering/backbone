@@ -1,5 +1,4 @@
-Lecidea sarcodea Nyl. SPECIES
-=======
+# Lecidea sarcodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

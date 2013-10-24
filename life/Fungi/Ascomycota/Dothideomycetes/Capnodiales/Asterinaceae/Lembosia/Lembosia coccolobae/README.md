@@ -1,5 +1,4 @@
-Lembosia coccolobae Earle SPECIES
-=======
+# Lembosia coccolobae Earle SPECIES
 
 #### Status
 ACCEPTED

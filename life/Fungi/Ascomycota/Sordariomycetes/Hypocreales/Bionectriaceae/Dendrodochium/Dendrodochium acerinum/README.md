@@ -1,5 +1,4 @@
-Dendrodochium acerinum Dearn. & House SPECIES
-=======
+# Dendrodochium acerinum Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

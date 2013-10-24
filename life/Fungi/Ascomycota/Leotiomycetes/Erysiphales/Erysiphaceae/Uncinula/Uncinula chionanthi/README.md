@@ -1,5 +1,4 @@
-Uncinula chionanthi R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula chionanthi R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

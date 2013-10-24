@@ -1,17 +1,16 @@
-Karschia prinsepiae Chona, Munjal & J.N. Kapoor, 1957 SPECIES
-=======
+# Gibbera prinsepiae (Chona, Munjal & J.N. Kapoor) E. Müll., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 12: 163 (1959)
 
 #### Original name
-null
+Karschia prinsepiae Chona, Munjal & J.N. Kapoor, 1957
 
 ### Remarks
 null

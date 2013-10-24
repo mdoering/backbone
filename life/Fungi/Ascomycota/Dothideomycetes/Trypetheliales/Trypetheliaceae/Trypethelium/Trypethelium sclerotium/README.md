@@ -1,5 +1,4 @@
-Trypethelium sclerotium Fée SPECIES
-=======
+# Trypethelium sclerotium Fée SPECIES
 
 #### Status
 ACCEPTED

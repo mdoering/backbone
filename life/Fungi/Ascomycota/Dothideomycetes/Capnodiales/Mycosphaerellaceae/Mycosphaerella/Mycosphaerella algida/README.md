@@ -1,5 +1,4 @@
-Mycosphaerella algida Lar.N. Vassiljeva SPECIES
-=======
+# Mycosphaerella algida Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium eriochrysis Vánky SPECIES
-=======
+# Sporisorium eriochrysis Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptophorum B. Sutton GENUS
-=======
+# Leptophorum B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanotus polylepidis Singer SPECIES
-=======
+# Melanotus polylepidis Singer SPECIES
 
 #### Status
 ACCEPTED

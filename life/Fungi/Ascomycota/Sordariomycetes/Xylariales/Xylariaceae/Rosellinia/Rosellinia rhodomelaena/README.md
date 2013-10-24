@@ -1,5 +1,4 @@
-Rosellinia rhodomelaena Ellis SPECIES
-=======
+# Rosellinia rhodomelaena Ellis SPECIES
 
 #### Status
 ACCEPTED

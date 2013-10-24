@@ -1,8 +1,7 @@
-Streptococcus faecium Orla-Jensen, 1919 (Approved Lists, 1980) SPECIES
-=======
+# Enterococcus faecium (Orla-Jensen, 1919) Schleifer & Kilpper-Bälz, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

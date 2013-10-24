@@ -1,5 +1,4 @@
-Cryptomonas maxima Playfair SPECIES
-=======
+# Cryptomonas maxima Playfair SPECIES
 
 #### Status
 ACCEPTED

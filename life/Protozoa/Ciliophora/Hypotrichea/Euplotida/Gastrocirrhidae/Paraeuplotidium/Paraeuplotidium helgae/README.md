@@ -1,5 +1,4 @@
-Paraeuplotidium helgae (Hartwig, 1980) Lei, Choi & Xu, 2002 SPECIES
-=======
+# Paraeuplotidium helgae (Hartwig, 1980) Lei, Choi & Xu, 2002 SPECIES
 
 #### Status
 ACCEPTED

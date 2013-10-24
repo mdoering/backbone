@@ -1,5 +1,4 @@
-Buellia straminea Tuck. SPECIES
-=======
+# Buellia straminea Tuck. SPECIES
 
 #### Status
 ACCEPTED

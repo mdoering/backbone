@@ -1,5 +1,4 @@
-Hysterium juglandis Schwein. SPECIES
-=======
+# Hysterium juglandis Schwein. SPECIES
 
 #### Status
 ACCEPTED

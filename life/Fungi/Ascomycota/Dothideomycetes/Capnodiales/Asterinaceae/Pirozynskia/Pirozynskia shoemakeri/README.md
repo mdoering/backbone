@@ -1,5 +1,4 @@
-Pirozynskia shoemakeri Subram., 1972 SPECIES
-=======
+# Pirozynskia shoemakeri Subram., 1972 SPECIES
 
 #### Status
 ACCEPTED

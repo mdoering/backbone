@@ -1,5 +1,4 @@
-Arthonia physciae Vain. SPECIES
-=======
+# Arthonia physciae Vain. SPECIES
 
 #### Status
 ACCEPTED

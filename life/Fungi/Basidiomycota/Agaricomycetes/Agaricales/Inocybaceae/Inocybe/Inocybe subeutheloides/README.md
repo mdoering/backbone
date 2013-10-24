@@ -1,5 +1,4 @@
-Inocybe subeutheloides Murrill SPECIES
-=======
+# Inocybe subeutheloides Murrill SPECIES
 
 #### Status
 ACCEPTED

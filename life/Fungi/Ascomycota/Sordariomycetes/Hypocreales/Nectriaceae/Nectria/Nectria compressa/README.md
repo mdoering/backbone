@@ -1,5 +1,4 @@
-Nectria compressa Starbäck SPECIES
-=======
+# Nectria compressa Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena secretosa Velen. SPECIES
-=======
+# Mycena secretosa Velen. SPECIES
 
 #### Status
 ACCEPTED

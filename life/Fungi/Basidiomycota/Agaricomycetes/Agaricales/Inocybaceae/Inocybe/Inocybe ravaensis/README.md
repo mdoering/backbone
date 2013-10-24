@@ -1,5 +1,4 @@
-Inocybe ravaensis Kalamees & Shchukin SPECIES
-=======
+# Inocybe ravaensis Kalamees & Shchukin SPECIES
 
 #### Status
 ACCEPTED

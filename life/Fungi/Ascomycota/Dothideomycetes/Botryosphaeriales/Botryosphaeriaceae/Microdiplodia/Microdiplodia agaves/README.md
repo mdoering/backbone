@@ -1,5 +1,4 @@
-Microdiplodia agaves (Niessl) Tassi SPECIES
-=======
+# Microdiplodia agaves (Niessl) Tassi SPECIES
 
 #### Status
 ACCEPTED

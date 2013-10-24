@@ -1,5 +1,4 @@
-Gigasporites Carlie J. Phipps & T.N. Taylor GENUS
-=======
+# Gigasporites Carlie J. Phipps & T.N. Taylor GENUS
 
 #### Status
 ACCEPTED

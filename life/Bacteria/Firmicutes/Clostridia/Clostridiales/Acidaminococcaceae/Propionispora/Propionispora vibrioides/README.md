@@ -1,5 +1,4 @@
-Propionispora vibrioides Biebl et al., 2001 SPECIES
-=======
+# Propionispora vibrioides Biebl et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

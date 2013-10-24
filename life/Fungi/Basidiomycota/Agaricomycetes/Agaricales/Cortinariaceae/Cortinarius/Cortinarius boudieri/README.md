@@ -1,5 +1,4 @@
-Cortinarius boudieri var. boudieri VARIETY
-=======
+# Cortinarius boudieri Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 52: 153 (1936)
 
 #### Original name
-Cortinarius boudieri var. boudieri
+Cortinarius boudieri Rob. Henry
 
 ### Remarks
 null

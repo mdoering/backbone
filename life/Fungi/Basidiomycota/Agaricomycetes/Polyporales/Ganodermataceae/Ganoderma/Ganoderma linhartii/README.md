@@ -1,5 +1,4 @@
-Ganoderma linhartii (Kalchbr.) Z. Igmándy SPECIES
-=======
+# Ganoderma linhartii (Kalchbr.) Z. Igmándy SPECIES
 
 #### Status
 ACCEPTED

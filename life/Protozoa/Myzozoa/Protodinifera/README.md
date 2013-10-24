@@ -1,5 +1,4 @@
-Protodinifera Kofoid & Swezy, 1921 GENUS
-=======
+# Protodinifera Kofoid & Swezy, 1921 GENUS
 
 #### Status
 SYNONYM

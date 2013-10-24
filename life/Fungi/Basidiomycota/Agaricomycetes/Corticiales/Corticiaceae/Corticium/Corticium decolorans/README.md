@@ -1,5 +1,4 @@
-Corticium decolorans P. Karst. SPECIES
-=======
+# Corticium decolorans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

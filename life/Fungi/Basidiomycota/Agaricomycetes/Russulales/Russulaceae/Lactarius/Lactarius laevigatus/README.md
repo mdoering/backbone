@@ -1,5 +1,4 @@
-Lactarius laevigatus Verbeken SPECIES
-=======
+# Lactarius laevigatus Verbeken SPECIES
 
 #### Status
 ACCEPTED

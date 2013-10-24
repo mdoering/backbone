@@ -1,5 +1,4 @@
-Epulorhiza albertensis Currah & Zelmier SPECIES
-=======
+# Epulorhiza albertensis Currah & Zelmier SPECIES
 
 #### Status
 ACCEPTED

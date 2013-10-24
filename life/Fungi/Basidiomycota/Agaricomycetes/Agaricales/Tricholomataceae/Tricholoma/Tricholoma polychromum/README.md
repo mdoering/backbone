@@ -1,5 +1,4 @@
-Tricholoma polychromum Beck SPECIES
-=======
+# Tricholoma polychromum Beck SPECIES
 
 #### Status
 ACCEPTED

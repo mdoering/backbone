@@ -1,5 +1,4 @@
-Coscinodiscus subbulliens E. Jørgensen, 1905 SPECIES
-=======
+# Coscinodiscus subbulliens E. Jørgensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

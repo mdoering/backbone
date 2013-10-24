@@ -1,5 +1,4 @@
-Lychnocanoma Haeckel, 1887 GENUS
-=======
+# Lychnocanoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

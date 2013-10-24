@@ -1,5 +1,4 @@
-Hygrophorus pictus Berk. & M.A. Curtis SPECIES
-=======
+# Hygrophorus pictus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

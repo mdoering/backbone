@@ -1,5 +1,4 @@
-Trypanosomataceae FAMILY
-=======
+# Trypanosomataceae FAMILY
 
 #### Status
 ACCEPTED

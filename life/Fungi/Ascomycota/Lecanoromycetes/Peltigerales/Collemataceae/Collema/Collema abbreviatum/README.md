@@ -1,5 +1,4 @@
-Collema abbreviatum (Flot.) Arnold SPECIES
-=======
+# Collema abbreviatum (Flot.) Arnold SPECIES
 
 #### Status
 ACCEPTED

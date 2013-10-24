@@ -1,5 +1,4 @@
-Aecidium kisantense Henn. SPECIES
-=======
+# Aecidium kisantense Henn. SPECIES
 
 #### Status
 ACCEPTED

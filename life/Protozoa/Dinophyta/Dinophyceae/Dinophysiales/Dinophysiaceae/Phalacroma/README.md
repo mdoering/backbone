@@ -1,5 +1,4 @@
-Phalacroma Stein, 1883 GENUS
-=======
+# Phalacroma Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

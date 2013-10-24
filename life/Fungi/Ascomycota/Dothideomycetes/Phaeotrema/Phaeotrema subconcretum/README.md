@@ -1,5 +1,4 @@
-Phaeotrema subconcretum (Leight.) Müll. Arg. SPECIES
-=======
+# Phaeotrema subconcretum (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

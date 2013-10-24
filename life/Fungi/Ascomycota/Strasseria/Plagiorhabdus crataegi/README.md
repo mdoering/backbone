@@ -1,5 +1,4 @@
-Plagiorhabdus crataegi Shear SPECIES
-=======
+# Plagiorhabdus crataegi Shear SPECIES
 
 #### Status
 ACCEPTED

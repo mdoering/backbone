@@ -1,5 +1,4 @@
-Puccinia gaubae Petr. & Esfand. SPECIES
-=======
+# Puccinia gaubae Petr. & Esfand. SPECIES
 
 #### Status
 ACCEPTED

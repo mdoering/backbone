@@ -1,5 +1,4 @@
-Rhytisma anhuiense C.L. Hou & M. Piepenbr., 2005 SPECIES
-=======
+# Rhytisma anhuiense C.L. Hou & M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

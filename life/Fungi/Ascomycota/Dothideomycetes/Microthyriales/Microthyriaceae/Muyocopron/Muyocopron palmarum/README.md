@@ -1,5 +1,4 @@
-Muyocopron palmarum G. Winter SPECIES
-=======
+# Muyocopron palmarum G. Winter SPECIES
 
 #### Status
 ACCEPTED

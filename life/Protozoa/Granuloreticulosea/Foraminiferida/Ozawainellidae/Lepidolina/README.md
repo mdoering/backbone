@@ -1,5 +1,4 @@
-Lepidolina Lee, 1934 GENUS
-=======
+# Lepidolina Lee, 1934 GENUS
 
 #### Status
 ACCEPTED

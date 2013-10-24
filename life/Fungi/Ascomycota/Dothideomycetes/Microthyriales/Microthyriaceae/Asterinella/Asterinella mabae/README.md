@@ -1,5 +1,4 @@
-Asterinella mabae F. Stevens & R.W. Ryan SPECIES
-=======
+# Asterinella mabae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

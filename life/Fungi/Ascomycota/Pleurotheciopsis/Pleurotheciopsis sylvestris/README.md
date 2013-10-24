@@ -1,5 +1,4 @@
-Pleurotheciopsis sylvestris R.F. Castañeda & Iturr., 1999 SPECIES
-=======
+# Pleurotheciopsis sylvestris R.F. Castañeda & Iturr., 1999 SPECIES
 
 #### Status
 ACCEPTED

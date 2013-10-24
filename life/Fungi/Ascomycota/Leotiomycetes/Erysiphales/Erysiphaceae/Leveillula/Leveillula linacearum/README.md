@@ -1,5 +1,4 @@
-Leveillula linacearum Golovin SPECIES
-=======
+# Leveillula linacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

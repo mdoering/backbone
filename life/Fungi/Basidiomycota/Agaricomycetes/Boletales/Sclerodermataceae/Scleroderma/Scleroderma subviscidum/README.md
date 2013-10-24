@@ -1,5 +1,4 @@
-Scleroderma subviscidum Zeller SPECIES
-=======
+# Scleroderma subviscidum Zeller SPECIES
 
 #### Status
 ACCEPTED

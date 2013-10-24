@@ -1,5 +1,4 @@
-Patellaria galbinea (Kremp.) Müll. Arg. SPECIES
-=======
+# Patellaria galbinea (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces italicus Speg. SPECIES
-=======
+# Stigmatomyces italicus Speg. SPECIES
 
 #### Status
 ACCEPTED

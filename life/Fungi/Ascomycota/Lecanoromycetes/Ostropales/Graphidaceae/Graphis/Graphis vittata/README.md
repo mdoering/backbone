@@ -1,5 +1,4 @@
-Graphis vittata Müll. Arg. SPECIES
-=======
+# Graphis vittata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

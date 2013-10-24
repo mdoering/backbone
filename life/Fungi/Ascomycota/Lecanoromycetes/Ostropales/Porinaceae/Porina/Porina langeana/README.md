@@ -1,5 +1,4 @@
-Porina langeana Zschacke SPECIES
-=======
+# Porina langeana Zschacke SPECIES
 
 #### Status
 ACCEPTED

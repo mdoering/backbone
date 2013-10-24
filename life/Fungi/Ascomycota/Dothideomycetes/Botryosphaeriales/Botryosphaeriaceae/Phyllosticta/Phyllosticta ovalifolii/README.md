@@ -1,5 +1,4 @@
-Phyllosticta ovalifolii Brunaud SPECIES
-=======
+# Phyllosticta ovalifolii Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea grossulariae Auersw. & Fleischh. SPECIES
-=======
+# Stigmatea grossulariae Auersw. & Fleischh. SPECIES
 
 #### Status
 ACCEPTED

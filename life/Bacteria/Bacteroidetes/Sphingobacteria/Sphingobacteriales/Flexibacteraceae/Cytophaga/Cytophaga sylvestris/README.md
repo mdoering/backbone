@@ -1,5 +1,4 @@
-Cytophaga sylvestris SPECIES
-=======
+# Cytophaga sylvestris SPECIES
 
 #### Status
 ACCEPTED

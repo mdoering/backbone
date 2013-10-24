@@ -1,5 +1,4 @@
-Chytridium oocystidis Huber-Pestalozzi {?} SPECIES
-=======
+# Chytridium oocystidis Huber-Pestalozzi {?} SPECIES
 
 #### Status
 ACCEPTED

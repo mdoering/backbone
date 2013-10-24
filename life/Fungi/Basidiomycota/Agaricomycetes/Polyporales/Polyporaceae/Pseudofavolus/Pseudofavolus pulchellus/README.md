@@ -1,5 +1,4 @@
-Pseudofavolus pulchellus (Lév.) G. Cunn. SPECIES
-=======
+# Pseudofavolus pulchellus (Lév.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

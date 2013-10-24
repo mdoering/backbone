@@ -1,5 +1,4 @@
-Tetraplosphaeriaceae FAMILY
-=======
+# Tetraplosphaeriaceae FAMILY
 
 #### Status
 ACCEPTED

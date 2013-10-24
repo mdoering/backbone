@@ -1,14 +1,13 @@
-Clavaria epichnoa Fr., 1874 SPECIES
-=======
+# Lentaria epichnoa (Fr.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 760 (1874)
+Ann. Bot. Mem. 1: 441 (1950)
 
 #### Original name
 Clavaria epichnoa Fr., 1874

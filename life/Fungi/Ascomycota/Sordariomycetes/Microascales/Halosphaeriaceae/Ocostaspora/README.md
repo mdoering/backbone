@@ -1,5 +1,4 @@
-Ocostaspora E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
-=======
+# Ocostaspora E.B.G. Jones, R.G. Johnson & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

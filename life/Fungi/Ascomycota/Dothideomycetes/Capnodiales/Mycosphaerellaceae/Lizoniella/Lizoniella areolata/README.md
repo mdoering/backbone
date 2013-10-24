@@ -1,5 +1,4 @@
-Lizoniella areolata (Rehm) Kirschst. SPECIES
-=======
+# Lizoniella areolata (Rehm) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

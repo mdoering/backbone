@@ -1,5 +1,4 @@
-Stromatopycnis rosetum A.F. Vital, 1956 SPECIES
-=======
+# Stromatopycnis rosetum A.F. Vital, 1956 SPECIES
 
 #### Status
 ACCEPTED

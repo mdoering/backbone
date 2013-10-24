@@ -1,5 +1,4 @@
-Puccinia chichenensis Mains SPECIES
-=======
+# Puccinia chichenensis Mains SPECIES
 
 #### Status
 ACCEPTED

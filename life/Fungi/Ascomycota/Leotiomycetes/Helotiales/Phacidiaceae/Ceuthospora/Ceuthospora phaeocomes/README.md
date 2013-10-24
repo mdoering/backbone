@@ -1,5 +1,4 @@
-Ceuthospora phaeocomes (Rebent.) Fr. SPECIES
-=======
+# Ceuthospora phaeocomes (Rebent.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kjeldsenia aureispora W. Colgan, Castellano & Bougher, 1995 SPECIES
-=======
+# Kjeldsenia aureispora W. Colgan, Castellano & Bougher, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria erubescens (Flot.) B. de Lesd. SPECIES
-=======
+# Catillaria erubescens (Flot.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

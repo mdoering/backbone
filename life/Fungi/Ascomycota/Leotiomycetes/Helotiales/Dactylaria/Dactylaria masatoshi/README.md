@@ -1,5 +1,4 @@
-Dactylaria masatoshi anon. SPECIES
-=======
+# Dactylaria masatoshi anon. SPECIES
 
 #### Status
 ACCEPTED

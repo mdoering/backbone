@@ -1,5 +1,4 @@
-Cortinarius rarissimus Reumaux SPECIES
-=======
+# Cortinarius rarissimus Reumaux SPECIES
 
 #### Status
 ACCEPTED

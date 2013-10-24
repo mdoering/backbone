@@ -1,5 +1,4 @@
-Mystrosporium piriforme var. piriforme VARIETY
-=======
+# Mystrosporium piriforme Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mystrosporium piriforme var. piriforme
+Mystrosporium piriforme Desm.
 
 ### Remarks
 null

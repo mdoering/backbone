@@ -1,5 +1,4 @@
-Pseudocercospora krameriae U. Braun, J.C. David & F.O. Freire SPECIES
-=======
+# Pseudocercospora krameriae U. Braun, J.C. David & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

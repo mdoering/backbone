@@ -1,5 +1,4 @@
-Thelephora letendreana (Pat.) Sacc. SPECIES
-=======
+# Thelephora letendreana (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

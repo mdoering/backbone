@@ -1,5 +1,4 @@
-Pleospora sororia Bubák SPECIES
-=======
+# Pleospora sororia Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenosporium hippocastani Corda SPECIES
-=======
+# Selenosporium hippocastani Corda SPECIES
 
 #### Status
 ACCEPTED

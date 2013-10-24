@@ -1,5 +1,4 @@
-Geopyxis crassipes (Quél.) Sacc. SPECIES
-=======
+# Geopyxis crassipes (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

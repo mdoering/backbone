@@ -1,5 +1,4 @@
-Lichen medusinus Bory SPECIES
-=======
+# Lichen medusinus Bory SPECIES
 
 #### Status
 ACCEPTED

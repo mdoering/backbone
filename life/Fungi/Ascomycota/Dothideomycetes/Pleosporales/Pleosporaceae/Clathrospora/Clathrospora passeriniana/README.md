@@ -1,5 +1,4 @@
-Clathrospora passeriniana Berl. SPECIES
-=======
+# Clathrospora passeriniana Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes perrugosus Müll. Arg. SPECIES
-=======
+# Teloschistes perrugosus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

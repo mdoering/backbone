@@ -1,5 +1,4 @@
-Inocephalus furfuraceodiscus Largent SPECIES
-=======
+# Inocephalus furfuraceodiscus Largent SPECIES
 
 #### Status
 ACCEPTED

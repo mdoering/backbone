@@ -1,14 +1,13 @@
-Pleurotus japonicus Kawam., 1915 SPECIES
-=======
+# Omphalotus japonicus (Kawam.) Kirchm. & O.K. Mill., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Coll. of Sci. , Imp. Univ. Japan 35(3): 2 (1915)
+in Kirchmair, Pöder, Huber & Miller, Persoonia 17(4): 597 (2002)
 
 #### Original name
 Pleurotus japonicus Kawam., 1915

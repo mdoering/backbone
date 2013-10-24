@@ -1,5 +1,4 @@
-Chrysothallus mirabilis Velen. SPECIES
-=======
+# Chrysothallus mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

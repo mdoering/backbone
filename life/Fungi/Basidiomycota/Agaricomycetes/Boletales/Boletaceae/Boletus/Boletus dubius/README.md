@@ -1,5 +1,4 @@
-Boletus dubius J.J. Planer SPECIES
-=======
+# Boletus dubius J.J. Planer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago carnea Liro SPECIES
-=======
+# Ustilago carnea Liro SPECIES
 
 #### Status
 ACCEPTED

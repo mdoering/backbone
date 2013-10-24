@@ -1,5 +1,4 @@
-Lecanora michaudiana Harm. SPECIES
-=======
+# Lecanora michaudiana Harm. SPECIES
 
 #### Status
 ACCEPTED

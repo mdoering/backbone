@@ -1,5 +1,4 @@
-Phyllachora myrtincola (Rehm) Petr., 1941 SPECIES
-=======
+# Phyllachora myrtincola (Rehm) Petr., 1941 SPECIES
 
 #### Status
 DOUBTFUL

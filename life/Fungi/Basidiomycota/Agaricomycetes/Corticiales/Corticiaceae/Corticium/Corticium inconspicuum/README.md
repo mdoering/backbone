@@ -1,5 +1,4 @@
-Corticium inconspicuum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium inconspicuum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

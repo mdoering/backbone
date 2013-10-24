@@ -1,5 +1,4 @@
-Neocallimastigaceae I.B. Heath FAMILY
-=======
+# Neocallimastigaceae I.B. Heath FAMILY
 
 #### Status
 ACCEPTED

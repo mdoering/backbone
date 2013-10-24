@@ -1,5 +1,4 @@
-Schismatomma chilense C.W. Dodge SPECIES
-=======
+# Schismatomma chilense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma bucidae A.M.J. Watson & Jenkins SPECIES
-=======
+# Sphaceloma bucidae A.M.J. Watson & Jenkins SPECIES
 
 #### Status
 ACCEPTED

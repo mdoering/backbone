@@ -1,5 +1,4 @@
-Ramaria albida (Pat.) Corner SPECIES
-=======
+# Ramaria albida (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

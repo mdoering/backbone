@@ -1,5 +1,4 @@
-Pluteus decoloratus E. Horak, 2008 SPECIES
-=======
+# Pluteus decoloratus E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syringocapsa GENUS
-=======
+# Syringocapsa GENUS
 
 #### Status
 ACCEPTED

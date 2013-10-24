@@ -1,5 +1,4 @@
-Coremium borzianum Sacc. SPECIES
-=======
+# Coremium borzianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

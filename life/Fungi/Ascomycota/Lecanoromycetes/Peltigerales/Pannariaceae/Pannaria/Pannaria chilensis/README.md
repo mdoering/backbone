@@ -1,5 +1,4 @@
-Pannaria chilensis Fée SPECIES
-=======
+# Pannaria chilensis Fée SPECIES
 
 #### Status
 ACCEPTED

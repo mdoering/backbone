@@ -1,5 +1,4 @@
-Ophiobolus seriatus Syd. & P. Syd. SPECIES
-=======
+# Ophiobolus seriatus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

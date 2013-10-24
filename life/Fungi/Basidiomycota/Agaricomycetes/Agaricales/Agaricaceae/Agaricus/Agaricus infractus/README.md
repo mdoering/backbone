@@ -1,5 +1,4 @@
-Agaricus infractus Alb. & Schwein. SPECIES
-=======
+# Agaricus infractus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

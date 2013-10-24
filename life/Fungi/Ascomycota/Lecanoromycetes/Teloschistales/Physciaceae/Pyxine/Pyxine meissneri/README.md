@@ -1,5 +1,4 @@
-Pyxine meissneri var. meissneri VARIETY
-=======
+# Pyxine meissneri SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 205 (1859)
+null
 
 #### Original name
-Pyxine meissneri var. meissneri
+null
 
 ### Remarks
 null

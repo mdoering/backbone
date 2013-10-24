@@ -1,5 +1,4 @@
-Septoria orobicola Sacc. SPECIES
-=======
+# Septoria orobicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

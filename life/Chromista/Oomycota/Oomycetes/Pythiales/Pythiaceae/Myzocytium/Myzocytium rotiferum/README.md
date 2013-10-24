@@ -1,5 +1,4 @@
-Myzocytium rotiferum S.N. Dasgupta & R. John SPECIES
-=======
+# Myzocytium rotiferum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

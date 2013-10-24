@@ -1,5 +1,4 @@
-Psathyrella boulderensis A.H. Sm. SPECIES
-=======
+# Psathyrella boulderensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

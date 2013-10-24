@@ -1,14 +1,13 @@
-Phaeoisariopsis luheae (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Phaeoisariopsis lueheae (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 64: 415 (1997)
 
 #### Original name
 Cercospora lueheae Chupp & Viégas

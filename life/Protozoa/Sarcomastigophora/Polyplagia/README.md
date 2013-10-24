@@ -1,5 +1,4 @@
-Polyplagia Haeckel, 1887 GENUS
-=======
+# Polyplagia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

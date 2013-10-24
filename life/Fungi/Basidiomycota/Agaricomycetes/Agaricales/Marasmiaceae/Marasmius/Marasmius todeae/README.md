@@ -1,5 +1,4 @@
-Marasmius todeae Henn. SPECIES
-=======
+# Marasmius todeae Henn. SPECIES
 
 #### Status
 ACCEPTED

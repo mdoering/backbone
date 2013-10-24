@@ -1,5 +1,4 @@
-Suttonina guatemaltica H.C. Evans, 1984 SPECIES
-=======
+# Suttonina guatemaltica H.C. Evans, 1984 SPECIES
 
 #### Status
 ACCEPTED

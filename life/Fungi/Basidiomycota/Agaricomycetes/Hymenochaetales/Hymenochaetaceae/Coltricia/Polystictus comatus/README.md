@@ -1,5 +1,4 @@
-Polystictus comatus Fr. SPECIES
-=======
+# Polystictus comatus Fr. SPECIES
 
 #### Status
 ACCEPTED

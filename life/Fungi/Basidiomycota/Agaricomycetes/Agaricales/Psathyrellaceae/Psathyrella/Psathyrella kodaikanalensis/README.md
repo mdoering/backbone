@@ -1,5 +1,4 @@
-Psathyrella kodaikanalensis Natarajan & Raman SPECIES
-=======
+# Psathyrella kodaikanalensis Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

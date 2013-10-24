@@ -1,5 +1,4 @@
-Fusicoccum rimosum Marchal & É.J. Marchal SPECIES
-=======
+# Fusicoccum rimosum Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

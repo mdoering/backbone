@@ -1,5 +1,4 @@
-Coryne acrospermum Nees SPECIES
-=======
+# Coryne acrospermum Nees SPECIES
 
 #### Status
 ACCEPTED

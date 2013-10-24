@@ -1,17 +1,16 @@
-Microsphaera atraphaxidis var. atraphaxidis VARIETY
-=======
+# Microsphaera atraphaxis Schmied. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Microsphaera atraphaxis Schmied.
 
 ### Remarks
 null

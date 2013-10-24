@@ -1,5 +1,4 @@
-Sclerotinia kirschsteiniana Henn. SPECIES
-=======
+# Sclerotinia kirschsteiniana Henn. SPECIES
 
 #### Status
 ACCEPTED

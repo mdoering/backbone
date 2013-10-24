@@ -1,5 +1,4 @@
-Ramulispora alloteropsidis Thirum. & Naras. SPECIES
-=======
+# Ramulispora alloteropsidis Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

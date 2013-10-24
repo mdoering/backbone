@@ -1,14 +1,13 @@
-Polyporus spumeus var. malicola Lloyd, 1915 VARIETY
-=======
+# Spongipellis malicola (Lloyd) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Syn. Apus) 305 (1915)
+Mycotaxon 21: 332 (1984)
 
 #### Original name
 Polyporus spumeus var. malicola Lloyd, 1915

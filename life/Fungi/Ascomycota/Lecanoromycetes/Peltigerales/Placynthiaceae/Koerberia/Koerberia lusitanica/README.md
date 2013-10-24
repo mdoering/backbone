@@ -1,5 +1,4 @@
-Koerberia lusitanica SPECIES
-=======
+# Koerberia lusitanica SPECIES
 
 #### Status
 ACCEPTED

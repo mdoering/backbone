@@ -1,5 +1,4 @@
-Tilletia abscondita Syd. & P. Syd. SPECIES
-=======
+# Tilletia abscondita Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysonebula holmesii J.W.G. Lund SPECIES
-=======
+# Chrysonebula holmesii J.W.G. Lund SPECIES
 
 #### Status
 ACCEPTED

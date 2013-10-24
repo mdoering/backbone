@@ -1,5 +1,4 @@
-Sclerotium confluens Mérat SPECIES
-=======
+# Sclerotium confluens Mérat SPECIES
 
 #### Status
 ACCEPTED

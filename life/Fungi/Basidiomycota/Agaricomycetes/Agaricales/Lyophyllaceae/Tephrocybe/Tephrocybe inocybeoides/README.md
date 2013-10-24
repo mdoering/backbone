@@ -1,5 +1,4 @@
-Tephrocybe inocybeoides (Ballero & Contu) Bon SPECIES
-=======
+# Tephrocybe inocybeoides (Ballero & Contu) Bon SPECIES
 
 #### Status
 ACCEPTED

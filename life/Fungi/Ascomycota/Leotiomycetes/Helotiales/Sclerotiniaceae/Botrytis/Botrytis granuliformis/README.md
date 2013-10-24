@@ -1,5 +1,4 @@
-Botrytis granuliformis Sacc. SPECIES
-=======
+# Botrytis granuliformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

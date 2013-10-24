@@ -1,5 +1,4 @@
-Amandinea extenuata (Müll. Arg.) Marbach SPECIES
-=======
+# Amandinea extenuata (Müll. Arg.) Marbach SPECIES
 
 #### Status
 ACCEPTED

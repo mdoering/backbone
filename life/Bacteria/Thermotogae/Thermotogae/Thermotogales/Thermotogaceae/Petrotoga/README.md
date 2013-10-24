@@ -1,5 +1,4 @@
-Petrotoga Davey et al., 1993 GENUS
-=======
+# Petrotoga Davey et al., 1993 GENUS
 
 #### Status
 ACCEPTED

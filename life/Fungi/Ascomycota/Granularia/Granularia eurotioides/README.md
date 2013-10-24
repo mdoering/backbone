@@ -1,5 +1,4 @@
-Granularia eurotioides Sacc. & Ellis ex Sacc., 1882 SPECIES
-=======
+# Granularia eurotioides Sacc. & Ellis ex Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

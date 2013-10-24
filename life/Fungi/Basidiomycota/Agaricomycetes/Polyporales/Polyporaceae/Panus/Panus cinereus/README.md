@@ -1,5 +1,4 @@
-Panus cinereus Saut. SPECIES
-=======
+# Panus cinereus Saut. SPECIES
 
 #### Status
 ACCEPTED

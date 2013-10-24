@@ -1,5 +1,4 @@
-Scleroderris lantanae E.K. Cash SPECIES
-=======
+# Scleroderris lantanae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

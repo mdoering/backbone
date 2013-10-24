@@ -1,5 +1,4 @@
-Thelidiomyces GENUS
-=======
+# Thelidiomyces GENUS
 
 #### Status
 ACCEPTED

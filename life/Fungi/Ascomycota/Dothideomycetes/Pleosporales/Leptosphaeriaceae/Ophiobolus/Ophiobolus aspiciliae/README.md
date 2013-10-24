@@ -1,5 +1,4 @@
-Ophiobolus aspiciliae (H. Olivier) Vouaux SPECIES
-=======
+# Ophiobolus aspiciliae (H. Olivier) Vouaux SPECIES
 
 #### Status
 ACCEPTED

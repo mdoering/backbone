@@ -1,5 +1,4 @@
-Ustilago trabutiana Sacc. SPECIES
-=======
+# Ustilago trabutiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

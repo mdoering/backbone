@@ -1,5 +1,4 @@
-Puccinia rodriguezii Unamuno SPECIES
-=======
+# Puccinia rodriguezii Unamuno SPECIES
 
 #### Status
 ACCEPTED

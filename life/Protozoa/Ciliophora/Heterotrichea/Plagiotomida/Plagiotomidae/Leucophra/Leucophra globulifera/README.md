@@ -1,5 +1,4 @@
-Leucophra globulifera Müller, 1786 SPECIES
-=======
+# Leucophra globulifera Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

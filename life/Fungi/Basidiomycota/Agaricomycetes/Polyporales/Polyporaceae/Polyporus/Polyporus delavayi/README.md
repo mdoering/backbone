@@ -1,5 +1,4 @@
-Polyporus delavayi Pat. SPECIES
-=======
+# Polyporus delavayi Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subcandida H. Magn. SPECIES
-=======
+# Lecidea subcandida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

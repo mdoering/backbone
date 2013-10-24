@@ -1,5 +1,4 @@
-Aecidium auriellum Peck SPECIES
-=======
+# Aecidium auriellum Peck SPECIES
 
 #### Status
 ACCEPTED

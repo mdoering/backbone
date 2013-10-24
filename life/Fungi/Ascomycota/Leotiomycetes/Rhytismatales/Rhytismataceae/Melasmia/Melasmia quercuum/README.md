@@ -1,5 +1,4 @@
-Melasmia quercuum G.F. Atk. SPECIES
-=======
+# Melasmia quercuum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

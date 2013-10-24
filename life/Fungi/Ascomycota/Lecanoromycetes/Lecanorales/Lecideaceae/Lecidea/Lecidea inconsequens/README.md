@@ -1,5 +1,4 @@
-Lecidea inconsequens Nyl. SPECIES
-=======
+# Lecidea inconsequens Nyl. SPECIES
 
 #### Status
 ACCEPTED

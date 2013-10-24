@@ -1,5 +1,4 @@
-Meliola hoehneliana Hansf. SPECIES
-=======
+# Meliola hoehneliana Hansf. SPECIES
 
 #### Status
 ACCEPTED

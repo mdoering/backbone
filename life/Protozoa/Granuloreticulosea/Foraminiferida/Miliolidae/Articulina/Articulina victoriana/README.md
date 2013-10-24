@@ -1,5 +1,4 @@
-Articulina victoriana Cushman SPECIES
-=======
+# Articulina victoriana Cushman SPECIES
 
 #### Status
 ACCEPTED

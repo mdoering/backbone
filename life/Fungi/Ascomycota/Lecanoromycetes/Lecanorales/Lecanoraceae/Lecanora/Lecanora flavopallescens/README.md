@@ -1,5 +1,4 @@
-Lecanora flavopallescens Nyl. SPECIES
-=======
+# Lecanora flavopallescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

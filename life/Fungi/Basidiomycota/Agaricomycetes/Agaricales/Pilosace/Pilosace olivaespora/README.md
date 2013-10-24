@@ -1,5 +1,4 @@
-Pilosace olivaespora (Ellis & Everh.) Morgan SPECIES
-=======
+# Pilosace olivaespora (Ellis & Everh.) Morgan SPECIES
 
 #### Status
 ACCEPTED

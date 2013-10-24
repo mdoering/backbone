@@ -1,5 +1,4 @@
-Psathyrella coronata (P. Karst.) M.M. Moser SPECIES
-=======
+# Psathyrella coronata (P. Karst.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paravorticella terebellae (Fauré-Fremiet, 1920) SPECIES
-=======
+# Paravorticella terebellae (Fauré-Fremiet, 1920) SPECIES
 
 #### Status
 ACCEPTED

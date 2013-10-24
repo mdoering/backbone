@@ -1,5 +1,4 @@
-Cytophoma kuduerensis J.Y. Yuan SPECIES
-=======
+# Cytophoma kuduerensis J.Y. Yuan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platyophryides Foissner, 1987 GENUS
-=======
+# Platyophryides Foissner, 1987 GENUS
 
 #### Status
 ACCEPTED

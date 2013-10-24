@@ -1,5 +1,4 @@
-Lecidea pertensis H. Magn. SPECIES
-=======
+# Lecidea pertensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

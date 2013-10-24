@@ -1,5 +1,4 @@
-Dendrosarcus eucalyptorum (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus eucalyptorum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

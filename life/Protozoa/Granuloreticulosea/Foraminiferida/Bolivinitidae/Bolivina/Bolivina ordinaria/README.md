@@ -1,5 +1,4 @@
-Bolivina ordinaria Phleger & Parker, 1952 SPECIES
-=======
+# Bolivina ordinaria Phleger & Parker, 1952 SPECIES
 
 #### Status
 ACCEPTED

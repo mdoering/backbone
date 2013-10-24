@@ -1,5 +1,4 @@
-Octadecabacter arcticus Gosink et al., 1998 SPECIES
-=======
+# Octadecabacter arcticus Gosink et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

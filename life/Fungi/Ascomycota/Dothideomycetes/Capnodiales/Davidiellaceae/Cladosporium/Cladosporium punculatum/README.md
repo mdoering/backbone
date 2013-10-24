@@ -1,5 +1,4 @@
-Cladosporium punculatum Sacc. & Ellis SPECIES
-=======
+# Cladosporium punculatum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

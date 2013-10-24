@@ -1,5 +1,4 @@
-Didymella solheimii Petr., 1978 SPECIES
-=======
+# Didymella solheimii Petr., 1978 SPECIES
 
 #### Status
 ACCEPTED

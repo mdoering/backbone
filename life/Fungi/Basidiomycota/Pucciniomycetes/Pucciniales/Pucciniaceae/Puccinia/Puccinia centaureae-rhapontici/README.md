@@ -1,5 +1,4 @@
-Puccinia centaureae-rhapontici Mayor SPECIES
-=======
+# Puccinia centaureae-rhapontici Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina radicicola P. M. McCarthy & Tønsberg SPECIES
-=======
+# Porina radicicola P. M. McCarthy & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

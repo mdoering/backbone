@@ -1,5 +1,4 @@
-Buellia boitardi Werner SPECIES
-=======
+# Buellia boitardi Werner SPECIES
 
 #### Status
 ACCEPTED

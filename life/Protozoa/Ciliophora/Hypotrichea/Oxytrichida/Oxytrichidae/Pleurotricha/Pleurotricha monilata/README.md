@@ -1,5 +1,4 @@
-Pleurotricha monilata SPECIES
-=======
+# Pleurotricha monilata SPECIES
 
 #### Status
 ACCEPTED

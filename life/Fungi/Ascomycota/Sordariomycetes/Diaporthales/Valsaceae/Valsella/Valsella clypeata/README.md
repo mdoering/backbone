@@ -1,17 +1,16 @@
-Cytospora clypeata var. clypeata VARIETY
-=======
+# Valsella clypeata Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 252 (1884)
+Jb. nassau. Ver. Naturk. 23-24: 203 (1870)
 
 #### Original name
-Cytospora clypeata var. clypeata
+Valsella clypeata Fuckel, 1870
 
 ### Remarks
 null

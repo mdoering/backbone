@@ -1,5 +1,4 @@
-Helotium fraternum Peck SPECIES
-=======
+# Helotium fraternum Peck SPECIES
 
 #### Status
 ACCEPTED

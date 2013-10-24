@@ -1,5 +1,4 @@
-Chlamydophorella nyei Cookson & Eisenack SPECIES
-=======
+# Chlamydophorella nyei Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

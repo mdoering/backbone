@@ -1,5 +1,4 @@
-Rhabdospora pini (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora pini (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

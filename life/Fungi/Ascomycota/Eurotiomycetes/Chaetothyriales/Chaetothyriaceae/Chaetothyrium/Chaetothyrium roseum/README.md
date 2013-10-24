@@ -1,5 +1,4 @@
-Chaetothyrium roseum Hansf. SPECIES
-=======
+# Chaetothyrium roseum Hansf. SPECIES
 
 #### Status
 ACCEPTED

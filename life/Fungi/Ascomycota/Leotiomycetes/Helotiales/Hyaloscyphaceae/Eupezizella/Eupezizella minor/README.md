@@ -1,5 +1,4 @@
-Eupezizella minor (Starbäck) Höhn. SPECIES
-=======
+# Eupezizella minor (Starbäck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia eupatorii Punith., 1974 SPECIES
-=======
+# Guignardia eupatorii Punith., 1974 SPECIES
 
 #### Status
 ACCEPTED

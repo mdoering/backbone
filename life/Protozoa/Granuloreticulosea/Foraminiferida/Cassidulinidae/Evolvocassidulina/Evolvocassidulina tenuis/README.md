@@ -1,8 +1,7 @@
-Cassidulinoides tenuis Phleger & Parker, 1951 SPECIES
-=======
+# Evolvocassidulina tenuis (Phleger & Parker, 1951) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Uredo marginoincrassata Henn. SPECIES
-=======
+# Uredo marginoincrassata Henn. SPECIES
 
 #### Status
 ACCEPTED

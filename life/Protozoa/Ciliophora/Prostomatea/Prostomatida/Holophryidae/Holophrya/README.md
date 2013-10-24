@@ -1,5 +1,4 @@
-Holophrya Ehrenberg, 1831 GENUS
-=======
+# Holophrya Ehrenberg, 1831 GENUS
 
 #### Status
 ACCEPTED

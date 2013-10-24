@@ -1,5 +1,4 @@
-Boletus subsquamosus L. SPECIES
-=======
+# Boletus subsquamosus L. SPECIES
 
 #### Status
 ACCEPTED

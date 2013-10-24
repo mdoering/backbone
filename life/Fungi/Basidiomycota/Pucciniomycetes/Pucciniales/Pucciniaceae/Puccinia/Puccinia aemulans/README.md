@@ -1,5 +1,4 @@
-Puccinia aemulans Syd. & P. Syd. SPECIES
-=======
+# Puccinia aemulans Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

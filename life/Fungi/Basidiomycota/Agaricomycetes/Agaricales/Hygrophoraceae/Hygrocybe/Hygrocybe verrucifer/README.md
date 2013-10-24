@@ -1,5 +1,4 @@
-Hygrocybe verrucifer Velen. SPECIES
-=======
+# Hygrocybe verrucifer Velen. SPECIES
 
 #### Status
 ACCEPTED

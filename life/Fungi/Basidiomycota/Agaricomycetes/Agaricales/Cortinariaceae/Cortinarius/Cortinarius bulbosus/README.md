@@ -1,17 +1,16 @@
-Agaricus bulbosa Sowerby SPECIES
-=======
+# Cortinarius bulbosus Gray, 1821 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 630 (1821)
 
 #### Original name
-Agaricus bulbosa Sowerby
+Agaricus bulbosus Sowerby, 1799
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Beloniella Rehm, 1892 GENUS
-=======
+# Calloria E.M. Fries, 1836 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(3): 638 (1892)
+Fl. Scan. 343 (1836)
 
 #### Original name
-Beloniella Rehm, 1892
+Calloria E.M. Fries, 1836
 
 ### Remarks
 null

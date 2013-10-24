@@ -1,5 +1,4 @@
-Astrosphaeriella aequatoriensis K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Astrosphaeriella aequatoriensis K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

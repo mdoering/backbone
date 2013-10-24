@@ -1,17 +1,16 @@
-Endocoleroa Petr. GENUS
-=======
+# Venturia Saccardo, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 22: 388 (1969)
+Syll. fung. (Abellini) 1: 586 (1882)
 
 #### Original name
-Endocoleroa Petr.
+Venturia Saccardo, 1882
 
 ### Remarks
 null

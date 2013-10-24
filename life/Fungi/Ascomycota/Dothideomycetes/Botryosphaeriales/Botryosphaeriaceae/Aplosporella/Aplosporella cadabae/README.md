@@ -1,5 +1,4 @@
-Aplosporella cadabae S. Ahmad SPECIES
-=======
+# Aplosporella cadabae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

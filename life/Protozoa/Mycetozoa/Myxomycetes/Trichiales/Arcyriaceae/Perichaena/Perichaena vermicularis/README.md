@@ -1,17 +1,16 @@
-Perichaena vermicularis subsp. vermicularis SUBSPECIES
-=======
+# Perichaena vermicularis (Schwein.) Rostaf., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gewächse des Fichtelgebirg's 34 (1876)
 
 #### Original name
-null
+Physarum vermiculare Schwein., 1832
 
 ### Remarks
 null

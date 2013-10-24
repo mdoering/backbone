@@ -1,5 +1,4 @@
-Uredo ribesii Link SPECIES
-=======
+# Uredo ribesii Link SPECIES
 
 #### Status
 ACCEPTED

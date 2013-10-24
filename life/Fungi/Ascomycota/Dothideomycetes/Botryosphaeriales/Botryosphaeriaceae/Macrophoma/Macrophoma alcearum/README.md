@@ -1,5 +1,4 @@
-Macrophoma alcearum (Cooke) Tassi SPECIES
-=======
+# Macrophoma alcearum (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

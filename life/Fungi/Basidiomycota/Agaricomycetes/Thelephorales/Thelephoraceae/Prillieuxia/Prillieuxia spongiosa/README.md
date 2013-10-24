@@ -1,5 +1,4 @@
-Prillieuxia spongiosa Rick SPECIES
-=======
+# Prillieuxia spongiosa Rick SPECIES
 
 #### Status
 ACCEPTED

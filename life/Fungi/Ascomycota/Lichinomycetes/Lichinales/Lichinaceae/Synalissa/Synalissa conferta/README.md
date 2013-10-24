@@ -1,5 +1,4 @@
-Synalissa conferta Bornet SPECIES
-=======
+# Synalissa conferta Bornet SPECIES
 
 #### Status
 ACCEPTED

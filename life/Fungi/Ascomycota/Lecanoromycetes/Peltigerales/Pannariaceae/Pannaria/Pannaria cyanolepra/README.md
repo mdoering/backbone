@@ -1,5 +1,4 @@
-Pannaria cyanolepra Tuck. SPECIES
-=======
+# Pannaria cyanolepra Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella stephanotidis Kalani SPECIES
-=======
+# Aplosporella stephanotidis Kalani SPECIES
 
 #### Status
 ACCEPTED

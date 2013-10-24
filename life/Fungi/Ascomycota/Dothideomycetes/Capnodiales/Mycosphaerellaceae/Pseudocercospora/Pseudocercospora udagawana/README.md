@@ -1,5 +1,4 @@
-Pseudocercospora udagawana (Katsuki) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora udagawana (Katsuki) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

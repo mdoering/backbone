@@ -1,5 +1,4 @@
-Planodiscorbis Bermudez, 1952 GENUS
-=======
+# Planodiscorbis Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

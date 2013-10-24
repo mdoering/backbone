@@ -1,5 +1,4 @@
-Sphaerella vagabunda (Desm.) Fuckel SPECIES
-=======
+# Sphaerella vagabunda (Desm.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

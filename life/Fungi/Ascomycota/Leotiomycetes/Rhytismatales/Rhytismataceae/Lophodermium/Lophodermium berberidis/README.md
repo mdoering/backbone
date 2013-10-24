@@ -1,5 +1,4 @@
-Lophodermium berberidis (Schleich.) Rehm SPECIES
-=======
+# Lophodermium berberidis (Schleich.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pyrrhoglossum yunnanensis P.G. Liu SPECIES
-=======
+# Pyrrhoglossum yunnanense P.G. Liu, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 56: 96 (1995)
 
 #### Original name
-Pyrrhoglossum yunnanensis P.G. Liu
+Pyrrhoglossum yunnanense P.G. Liu, 1995
 
 ### Remarks
 null

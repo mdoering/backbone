@@ -1,5 +1,4 @@
-Naucoria lignicola Peck SPECIES
-=======
+# Naucoria lignicola Peck SPECIES
 
 #### Status
 ACCEPTED

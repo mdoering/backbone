@@ -1,5 +1,4 @@
-Ramalina stenospora Müll. Arg. SPECIES
-=======
+# Ramalina stenospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia cyrtocheila (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia cyrtocheila (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

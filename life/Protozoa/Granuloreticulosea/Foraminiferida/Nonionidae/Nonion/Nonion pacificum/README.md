@@ -1,8 +1,7 @@
-Nonionina umbilicatula var. pacifica Cushman, 1924 VARIETY
-=======
+# Nonion pacificum (Cushman, 1924) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

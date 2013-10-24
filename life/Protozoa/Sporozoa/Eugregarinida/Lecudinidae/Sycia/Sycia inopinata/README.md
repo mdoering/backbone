@@ -1,5 +1,4 @@
-Sycia inopinata Léger, 1892 SPECIES
-=======
+# Sycia inopinata Léger, 1892 SPECIES
 
 #### Status
 ACCEPTED

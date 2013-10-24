@@ -1,5 +1,4 @@
-Biatora flavopunctata (Tønsberg) Hinteregger & Printzen SPECIES
-=======
+# Biatora flavopunctata (Tønsberg) Hinteregger & Printzen SPECIES
 
 #### Status
 ACCEPTED

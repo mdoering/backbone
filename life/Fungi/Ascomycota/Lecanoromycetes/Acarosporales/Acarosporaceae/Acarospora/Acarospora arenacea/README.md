@@ -1,5 +1,4 @@
-Acarospora arenacea H. Magn. SPECIES
-=======
+# Acarospora arenacea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

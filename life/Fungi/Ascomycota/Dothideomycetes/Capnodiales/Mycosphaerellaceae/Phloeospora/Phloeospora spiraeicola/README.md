@@ -1,5 +1,4 @@
-Phloeospora spiraeicola (Ellis & Everh.) Bubák SPECIES
-=======
+# Phloeospora spiraeicola (Ellis & Everh.) Bubák SPECIES
 
 #### Status
 ACCEPTED

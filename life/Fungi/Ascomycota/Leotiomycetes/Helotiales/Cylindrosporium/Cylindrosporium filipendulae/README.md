@@ -1,5 +1,4 @@
-Cylindrosporium filipendulae Thüm. SPECIES
-=======
+# Cylindrosporium filipendulae Thüm. SPECIES
 
 #### Status
 ACCEPTED

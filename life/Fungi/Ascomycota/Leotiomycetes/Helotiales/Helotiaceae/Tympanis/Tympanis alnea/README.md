@@ -1,5 +1,4 @@
-Tympanis alnea f. alnea (Pers.) Fr. FORM
-=======
+# Tympanis alnea (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 174 (1822)
 
 #### Original name
-Tympanis alnea f. alnea (Pers.) Fr.
+Peziza alnea Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius gymnopus Rob. Henry SPECIES
-=======
+# Cortinarius gymnopus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

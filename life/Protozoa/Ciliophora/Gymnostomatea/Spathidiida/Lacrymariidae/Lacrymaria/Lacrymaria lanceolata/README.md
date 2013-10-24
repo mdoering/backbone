@@ -1,5 +1,4 @@
-Lacrymaria lanceolata Gelei, 1954 SPECIES
-=======
+# Lacrymaria lanceolata Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

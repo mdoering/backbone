@@ -1,5 +1,4 @@
-Cystoseira neglecta Setchell & N.L. Gardner SPECIES
-=======
+# Cystoseira neglecta Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

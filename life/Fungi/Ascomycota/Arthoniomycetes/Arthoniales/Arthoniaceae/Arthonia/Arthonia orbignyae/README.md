@@ -1,5 +1,4 @@
-Arthonia orbignyae (H.B.P. Upadhyay) Matzer SPECIES
-=======
+# Arthonia orbignyae (H.B.P. Upadhyay) Matzer SPECIES
 
 #### Status
 ACCEPTED

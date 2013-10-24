@@ -1,5 +1,4 @@
-Rusavskia hafellneri (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia hafellneri (S.Y. Kondr. & Kärnefelt) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

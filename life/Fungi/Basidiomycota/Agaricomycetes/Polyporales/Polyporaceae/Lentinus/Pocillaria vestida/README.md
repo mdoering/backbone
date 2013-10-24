@@ -1,5 +1,4 @@
-Pocillaria vestida Earle SPECIES
-=======
+# Pocillaria vestida Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacobolus sphaeroboloides (Schwein.) Fr. SPECIES
-=======
+# Phacobolus sphaeroboloides (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

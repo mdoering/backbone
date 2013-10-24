@@ -1,8 +1,7 @@
-Theophormis callipilium Haeckel, 1887 SPECIES
-=======
+# Sethophormis aurelia Haeckel, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Heliosphaeridium obscurum (Volkova, 1969) Moczydlowska, 1991 SPECIES
-=======
+# Heliosphaeridium obscurum (Volkova, 1969) Moczydlowska, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerotelium deightonii Cummins SPECIES
-=======
+# Cerotelium deightonii Cummins SPECIES
 
 #### Status
 ACCEPTED

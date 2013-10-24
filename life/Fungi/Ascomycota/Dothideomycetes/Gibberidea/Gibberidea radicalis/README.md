@@ -1,5 +1,4 @@
-Gibberidea radicalis (Cooke) Kuntze SPECIES
-=======
+# Gibberidea radicalis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

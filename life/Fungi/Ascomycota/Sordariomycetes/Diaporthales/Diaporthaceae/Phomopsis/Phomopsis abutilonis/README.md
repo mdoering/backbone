@@ -1,5 +1,4 @@
-Phomopsis abutilonis Sacc., 1915 SPECIES
-=======
+# Phomopsis abutilonis Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED

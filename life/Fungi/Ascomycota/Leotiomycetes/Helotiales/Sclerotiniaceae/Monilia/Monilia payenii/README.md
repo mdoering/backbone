@@ -1,5 +1,4 @@
-Monilia payenii Sacc. SPECIES
-=======
+# Monilia payenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

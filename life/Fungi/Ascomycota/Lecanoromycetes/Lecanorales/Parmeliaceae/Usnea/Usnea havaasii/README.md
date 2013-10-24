@@ -1,5 +1,4 @@
-Usnea havaasii Motyka SPECIES
-=======
+# Usnea havaasii Motyka SPECIES
 
 #### Status
 ACCEPTED

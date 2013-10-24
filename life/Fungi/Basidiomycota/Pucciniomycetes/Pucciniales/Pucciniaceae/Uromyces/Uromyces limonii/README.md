@@ -1,14 +1,13 @@
-Capitularia limonii (DC.) Syd., 1922 SPECIES
-=======
+# Uromyces limonii (DC.) Lév., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 123 (1922)
+in Orbigny, Dict. Univ. Hist. Nat. 12: 786 (1849)
 
 #### Original name
 Puccinia limonii DC., 1805

@@ -1,5 +1,4 @@
-Lachnum clandestinum P. Karst., 1871 SPECIES
-=======
+# Lachnum clandestinum P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

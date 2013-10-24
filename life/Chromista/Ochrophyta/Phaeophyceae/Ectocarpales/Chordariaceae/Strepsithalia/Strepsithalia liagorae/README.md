@@ -1,5 +1,4 @@
-Strepsithalia liagorae Sauvageau SPECIES
-=======
+# Strepsithalia liagorae Sauvageau SPECIES
 
 #### Status
 ACCEPTED

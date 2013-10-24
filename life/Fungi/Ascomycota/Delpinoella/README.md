@@ -1,5 +1,4 @@
-Delpinoella Saccardo, 1899 GENUS
-=======
+# Delpinoella Saccardo, 1899 GENUS
 
 #### Status
 ACCEPTED

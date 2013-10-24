@@ -1,5 +1,4 @@
-Hendersonia petasitis (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia petasitis (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium macrocephalum H. Hagiw., Z.Y. Yeh & C.Y. Chien, 1985 SPECIES
-=======
+# Dictyostelium macrocephalum H. Hagiw., Z.Y. Yeh & C.Y. Chien, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca baumgartneri Zahlbr. SPECIES
-=======
+# Caloplaca baumgartneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

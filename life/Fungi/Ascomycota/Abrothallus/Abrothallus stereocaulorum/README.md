@@ -1,5 +1,4 @@
-Abrothallus stereocaulorum Etayo & Diederich SPECIES
-=======
+# Abrothallus stereocaulorum Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

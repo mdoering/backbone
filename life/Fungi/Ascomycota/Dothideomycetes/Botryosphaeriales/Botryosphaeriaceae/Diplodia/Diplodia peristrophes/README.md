@@ -1,5 +1,4 @@
-Diplodia peristrophes S. Ahmad SPECIES
-=======
+# Diplodia peristrophes S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

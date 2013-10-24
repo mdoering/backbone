@@ -1,5 +1,4 @@
-Ditylum buchananii von Stosch SPECIES
-=======
+# Ditylum buchananii von Stosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystoderma caucasicum Singer SPECIES
-=======
+# Cystoderma caucasicum Singer SPECIES
 
 #### Status
 ACCEPTED

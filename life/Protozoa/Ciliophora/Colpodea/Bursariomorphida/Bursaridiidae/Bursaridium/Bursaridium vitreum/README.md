@@ -1,5 +1,4 @@
-Bursaridium vitreum Lepsi, 1960 SPECIES
-=======
+# Bursaridium vitreum Lepsi, 1960 SPECIES
 
 #### Status
 ACCEPTED

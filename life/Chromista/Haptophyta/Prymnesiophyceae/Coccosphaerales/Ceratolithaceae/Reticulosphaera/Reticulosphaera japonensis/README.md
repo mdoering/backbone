@@ -1,5 +1,4 @@
-Reticulosphaera japonensis K. G. Grell SPECIES
-=======
+# Reticulosphaera japonensis K. G. Grell SPECIES
 
 #### Status
 ACCEPTED

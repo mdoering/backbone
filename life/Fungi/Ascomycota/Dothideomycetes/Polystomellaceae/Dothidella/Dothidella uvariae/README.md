@@ -1,5 +1,4 @@
-Dothidella uvariae Hansf. SPECIES
-=======
+# Dothidella uvariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

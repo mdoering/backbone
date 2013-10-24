@@ -1,5 +1,4 @@
-Sclerotinia infundibuliformis Peck SPECIES
-=======
+# Sclerotinia infundibuliformis Peck SPECIES
 
 #### Status
 ACCEPTED

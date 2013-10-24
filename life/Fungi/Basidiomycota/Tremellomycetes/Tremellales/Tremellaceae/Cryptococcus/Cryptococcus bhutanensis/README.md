@@ -1,5 +1,4 @@
-Cryptococcus bhutanensis Goto & Sugiy. SPECIES
-=======
+# Cryptococcus bhutanensis Goto & Sugiy. SPECIES
 
 #### Status
 ACCEPTED

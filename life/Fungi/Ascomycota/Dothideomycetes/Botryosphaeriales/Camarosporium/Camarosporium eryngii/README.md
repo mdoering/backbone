@@ -1,5 +1,4 @@
-Camarosporium eryngii T.M. Achundov SPECIES
-=======
+# Camarosporium eryngii T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

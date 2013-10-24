@@ -1,5 +1,4 @@
-Xylaria regalis Cooke SPECIES
-=======
+# Xylaria regalis Cooke SPECIES
 
 #### Status
 ACCEPTED

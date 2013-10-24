@@ -1,5 +1,4 @@
-Agaricus diffusus Batsch SPECIES
-=======
+# Agaricus diffusus Batsch SPECIES
 
 #### Status
 ACCEPTED

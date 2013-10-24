@@ -1,5 +1,4 @@
-Physalospora pertecta (Cooke) Sacc. SPECIES
-=======
+# Physalospora pertecta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

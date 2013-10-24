@@ -1,5 +1,4 @@
-Dicaeoma tepperi (F. Ludw.) Kuntze SPECIES
-=======
+# Dicaeoma tepperi (F. Ludw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

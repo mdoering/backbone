@@ -1,5 +1,4 @@
-Alternaria painchiicola C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Alternaria painchiicola C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

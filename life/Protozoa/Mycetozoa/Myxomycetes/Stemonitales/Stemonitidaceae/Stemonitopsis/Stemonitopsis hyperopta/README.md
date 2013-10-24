@@ -1,17 +1,16 @@
-Stemonitopsis hyperopta var. landewaldii Bossel. VARIETY
-=======
+# Stemonitopsis hyperopta (Meyl.) Nann.-Bremek., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. neerl. 33(3): 355 (1984)
+Nederlandse Myxomyceten (Amsterdam) 206 (1975)
 
 #### Original name
-Stemonitopsis hyperopta var. landewaldii Bossel.
+Stemonitis hyperopta Meyl., 1918
 
 ### Remarks
 null

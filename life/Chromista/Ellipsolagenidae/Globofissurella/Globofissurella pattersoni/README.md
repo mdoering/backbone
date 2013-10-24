@@ -1,5 +1,4 @@
-Globofissurella pattersoni Clark, 1995 SPECIES
-=======
+# Globofissurella pattersoni Clark, 1995 SPECIES
 
 #### Status
 ACCEPTED

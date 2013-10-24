@@ -1,5 +1,4 @@
-Ochrolechia margarita Poelt SPECIES
-=======
+# Ochrolechia margarita Poelt SPECIES
 
 #### Status
 ACCEPTED

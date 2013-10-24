@@ -1,5 +1,4 @@
-Cyanocloster H.Kufferath GENUS
-=======
+# Cyanocloster H.Kufferath GENUS
 
 #### Status
 ACCEPTED

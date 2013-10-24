@@ -1,5 +1,4 @@
-Catinaria laureri (Hepp ex Th. Fr.) Degel. SPECIES
-=======
+# Catinaria laureri (Hepp ex Th. Fr.) Degel. SPECIES
 
 #### Status
 ACCEPTED

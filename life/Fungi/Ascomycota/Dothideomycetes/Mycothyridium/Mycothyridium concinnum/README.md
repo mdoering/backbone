@@ -1,5 +1,4 @@
-Mycothyridium concinnum (Petr.) Petr. SPECIES
-=======
+# Mycothyridium concinnum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

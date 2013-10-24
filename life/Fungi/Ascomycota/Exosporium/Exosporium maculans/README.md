@@ -1,5 +1,4 @@
-Exosporium maculans Link SPECIES
-=======
+# Exosporium maculans Link SPECIES
 
 #### Status
 ACCEPTED

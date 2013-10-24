@@ -1,5 +1,4 @@
-Glaziella cyttarioides Speg. SPECIES
-=======
+# Glaziella cyttarioides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium deformatum Peck SPECIES
-=======
+# Cenangium deformatum Peck SPECIES
 
 #### Status
 ACCEPTED

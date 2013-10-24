@@ -1,5 +1,4 @@
-Diplophlyctis verrucosa Kobayasi & M. Ôkubo, 1954 SPECIES
-=======
+# Diplophlyctis verrucosa Kobayasi & M. Ôkubo, 1954 SPECIES
 
 #### Status
 ACCEPTED

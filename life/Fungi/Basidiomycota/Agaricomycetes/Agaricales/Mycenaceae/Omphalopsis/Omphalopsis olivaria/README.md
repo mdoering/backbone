@@ -1,5 +1,4 @@
-Omphalopsis olivaria (Peck) Murrill SPECIES
-=======
+# Omphalopsis olivaria (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

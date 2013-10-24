@@ -1,5 +1,4 @@
-Agaricus subbarbatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus subbarbatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

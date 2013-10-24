@@ -1,5 +1,4 @@
-Uromyces bonae-spei Bubák SPECIES
-=======
+# Uromyces bonae-spei Bubák SPECIES
 
 #### Status
 ACCEPTED

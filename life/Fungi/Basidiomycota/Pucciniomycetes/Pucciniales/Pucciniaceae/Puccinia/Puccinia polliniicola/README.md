@@ -1,5 +1,4 @@
-Puccinia polliniicola Syd. SPECIES
-=======
+# Puccinia polliniicola Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium capitatum H. Hagiw., 1983 SPECIES
-=======
+# Dictyostelium capitatum H. Hagiw., 1983 SPECIES
 
 #### Status
 ACCEPTED

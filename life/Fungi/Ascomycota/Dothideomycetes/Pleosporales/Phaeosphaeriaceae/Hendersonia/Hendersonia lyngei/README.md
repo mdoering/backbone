@@ -1,5 +1,4 @@
-Hendersonia lyngei Lind SPECIES
-=======
+# Hendersonia lyngei Lind SPECIES
 
 #### Status
 ACCEPTED

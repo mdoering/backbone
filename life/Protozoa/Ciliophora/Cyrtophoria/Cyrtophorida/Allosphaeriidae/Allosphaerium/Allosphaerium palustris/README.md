@@ -1,5 +1,4 @@
-Allosphaerium palustris SPECIES
-=======
+# Allosphaerium palustris SPECIES
 
 #### Status
 ACCEPTED

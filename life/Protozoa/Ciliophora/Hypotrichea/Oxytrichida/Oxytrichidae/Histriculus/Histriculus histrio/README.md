@@ -1,8 +1,7 @@
-Histrio steinii Sterki, 1878 SPECIES
-=======
+# Histriculus histrio (Müller, 1773) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

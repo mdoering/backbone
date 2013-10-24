@@ -1,5 +1,4 @@
-Sphaerozoidae Haeckel, 1862 FAMILY
-=======
+# Sphaerozoidae Haeckel, 1862 FAMILY
 
 #### Status
 ACCEPTED

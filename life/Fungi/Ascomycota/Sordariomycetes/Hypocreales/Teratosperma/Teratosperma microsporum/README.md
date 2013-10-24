@@ -1,17 +1,16 @@
-Teratosperma microspora P.M. Kirk SPECIES
-=======
+# Teratosperma microsporum P.M. Kirk, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 23: 345 (1985)
 
 #### Original name
-Teratosperma microspora P.M. Kirk
+Teratosperma microsporum P.M. Kirk, 1985
 
 ### Remarks
 null

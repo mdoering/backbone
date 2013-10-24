@@ -1,5 +1,4 @@
-Pertusaria copiosa Erichsen SPECIES
-=======
+# Pertusaria copiosa Erichsen SPECIES
 
 #### Status
 ACCEPTED

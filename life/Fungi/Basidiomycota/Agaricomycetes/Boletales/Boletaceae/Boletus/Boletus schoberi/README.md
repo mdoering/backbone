@@ -1,5 +1,4 @@
-Boletus schoberi Oudem. SPECIES
-=======
+# Boletus schoberi Oudem. SPECIES
 
 #### Status
 ACCEPTED

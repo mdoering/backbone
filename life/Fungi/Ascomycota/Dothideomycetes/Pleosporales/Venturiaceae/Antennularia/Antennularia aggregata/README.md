@@ -1,5 +1,4 @@
-Antennularia aggregata (G. Winter) Höhn. SPECIES
-=======
+# Antennularia aggregata (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

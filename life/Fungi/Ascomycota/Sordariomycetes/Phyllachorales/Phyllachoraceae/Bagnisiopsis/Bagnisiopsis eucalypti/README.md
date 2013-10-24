@@ -1,5 +1,4 @@
-Bagnisiopsis eucalypti Dearn. & Barthol., 1926 SPECIES
-=======
+# Bagnisiopsis eucalypti Dearn. & Barthol., 1926 SPECIES
 
 #### Status
 ACCEPTED

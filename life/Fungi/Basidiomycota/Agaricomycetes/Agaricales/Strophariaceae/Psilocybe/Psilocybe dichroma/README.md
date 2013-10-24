@@ -1,5 +1,4 @@
-Psilocybe dichroma (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Psilocybe dichroma (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

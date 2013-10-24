@@ -1,17 +1,16 @@
-Ramaria favreae Quél., 1894 SPECIES
-=======
+# Ramariopsis kunzei (Fr.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 640 (1950)
 
 #### Original name
-null
+Clavaria kunzei Fr., 1821
 
 ### Remarks
 null

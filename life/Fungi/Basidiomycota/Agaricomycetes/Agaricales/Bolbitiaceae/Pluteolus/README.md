@@ -1,5 +1,4 @@
-Pluteolus GENUS
-=======
+# Pluteolus GENUS
 
 #### Status
 ACCEPTED

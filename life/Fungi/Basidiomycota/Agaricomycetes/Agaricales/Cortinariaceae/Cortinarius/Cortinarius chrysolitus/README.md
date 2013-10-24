@@ -1,5 +1,4 @@
-Cortinarius chrysolitus Kauffman SPECIES
-=======
+# Cortinarius chrysolitus Kauffman SPECIES
 
 #### Status
 ACCEPTED

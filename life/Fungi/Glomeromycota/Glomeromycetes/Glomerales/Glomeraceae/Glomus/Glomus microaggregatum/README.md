@@ -1,5 +1,4 @@
-Glomus microaggregatum Koske, Gemma & P.D. Olexia, 1986 SPECIES
-=======
+# Glomus microaggregatum Koske, Gemma & P.D. Olexia, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma horticola Corner & E. Horak SPECIES
-=======
+# Entoloma horticola Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

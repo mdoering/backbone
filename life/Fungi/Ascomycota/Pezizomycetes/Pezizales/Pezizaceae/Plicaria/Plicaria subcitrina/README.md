@@ -1,5 +1,4 @@
-Plicaria subcitrina (Bres.) SPECIES
-=======
+# Plicaria subcitrina (Bres.) SPECIES
 
 #### Status
 ACCEPTED

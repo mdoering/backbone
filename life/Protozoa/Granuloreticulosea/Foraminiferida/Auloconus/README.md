@@ -1,5 +1,4 @@
-Auloconus Piller, 1978 GENUS
-=======
+# Auloconus Piller, 1978 GENUS
 
 #### Status
 ACCEPTED

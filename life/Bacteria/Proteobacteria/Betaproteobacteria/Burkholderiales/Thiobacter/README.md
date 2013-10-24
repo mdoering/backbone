@@ -1,5 +1,4 @@
-Thiobacter Hirayama et al., 2005 GENUS
-=======
+# Thiobacter Hirayama et al., 2005 GENUS
 
 #### Status
 ACCEPTED

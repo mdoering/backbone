@@ -1,5 +1,4 @@
-Stiphrosphaeridium arbustum R. J. Davey SPECIES
-=======
+# Stiphrosphaeridium arbustum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

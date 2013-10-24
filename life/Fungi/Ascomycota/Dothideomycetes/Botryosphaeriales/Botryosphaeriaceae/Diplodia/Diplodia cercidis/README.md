@@ -1,5 +1,4 @@
-Diplodia cercidis Ellis & Everh. SPECIES
-=======
+# Diplodia cercidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena semistriata (Williamson, 1848) SPECIES
-=======
+# Lagena semistriata (Williamson, 1848) SPECIES
 
 #### Status
 ACCEPTED

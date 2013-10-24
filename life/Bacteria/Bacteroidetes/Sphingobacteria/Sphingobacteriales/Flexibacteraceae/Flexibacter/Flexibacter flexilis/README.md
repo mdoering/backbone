@@ -1,5 +1,4 @@
-Flexibacter flexilis Soriano, 1945 (Approved Lists, 1980) SPECIES
-=======
+# Flexibacter flexilis Soriano, 1945 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

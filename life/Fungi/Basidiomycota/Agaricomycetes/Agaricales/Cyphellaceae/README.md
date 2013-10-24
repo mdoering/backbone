@@ -1,5 +1,4 @@
-Cyphellaceae FAMILY
-=======
+# Cyphellaceae FAMILY
 
 #### Status
 ACCEPTED

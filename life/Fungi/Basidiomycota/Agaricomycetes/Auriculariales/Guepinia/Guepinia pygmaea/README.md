@@ -1,5 +1,4 @@
-Guepinia pygmaea Lloyd SPECIES
-=======
+# Guepinia pygmaea Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium toruloides B. Paul SPECIES
-=======
+# Pythium toruloides B. Paul SPECIES
 
 #### Status
 ACCEPTED

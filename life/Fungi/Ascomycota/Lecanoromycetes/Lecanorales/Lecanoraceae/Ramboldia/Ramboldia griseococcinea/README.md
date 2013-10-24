@@ -1,5 +1,4 @@
-Ramboldia griseococcinea (Nyl. ex Hue) Kalb, Lumbsch & Elix SPECIES
-=======
+# Ramboldia griseococcinea (Nyl. ex Hue) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

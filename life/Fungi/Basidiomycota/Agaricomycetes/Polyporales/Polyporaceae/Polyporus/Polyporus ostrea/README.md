@@ -1,5 +1,4 @@
-Polyporus ostrea subsp. ostrea SUBSPECIES
-=======
+# Polyporus ostrea Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 2: 119 (1825)
 
 #### Original name
-Polyporus ostrea subsp. ostrea
+Polyporus ostrea Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora glaucocarpoides Nyl. SPECIES
-=======
+# Lecanora glaucocarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

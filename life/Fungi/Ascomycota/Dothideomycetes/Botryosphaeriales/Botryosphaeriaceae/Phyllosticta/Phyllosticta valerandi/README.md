@@ -1,5 +1,4 @@
-Phyllosticta valerandi Brunaud SPECIES
-=======
+# Phyllosticta valerandi Brunaud SPECIES
 
 #### Status
 ACCEPTED

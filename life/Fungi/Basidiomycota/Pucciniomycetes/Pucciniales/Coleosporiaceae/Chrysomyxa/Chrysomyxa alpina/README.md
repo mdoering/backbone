@@ -1,5 +1,4 @@
-Chrysomyxa alpina Hirats. f. SPECIES
-=======
+# Chrysomyxa alpina Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

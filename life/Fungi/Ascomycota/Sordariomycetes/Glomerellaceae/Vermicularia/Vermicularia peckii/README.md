@@ -1,5 +1,4 @@
-Vermicularia peckii var. violae-rotundifoliae Sacc. VARIETY
-=======
+# Vermicularia peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Vermicularia peckii var. violae-rotundifoliae Sacc.
+Vermicularia concentrica Peck & Cooke
 
 ### Remarks
 null

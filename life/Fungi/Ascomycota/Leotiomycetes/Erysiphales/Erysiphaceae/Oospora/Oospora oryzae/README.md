@@ -1,5 +1,4 @@
-Oospora oryzae Ferraris SPECIES
-=======
+# Oospora oryzae Ferraris SPECIES
 
 #### Status
 ACCEPTED

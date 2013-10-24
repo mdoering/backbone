@@ -1,5 +1,4 @@
-Phacus mentaweiensis Conrad SPECIES
-=======
+# Phacus mentaweiensis Conrad SPECIES
 
 #### Status
 ACCEPTED

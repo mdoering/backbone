@@ -1,5 +1,4 @@
-Colletotrichum vineae Poltisi {?} SPECIES
-=======
+# Colletotrichum vineae Poltisi {?} SPECIES
 
 #### Status
 ACCEPTED

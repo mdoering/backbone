@@ -1,5 +1,4 @@
-Persephonella guaymasensis Götz et al., 2002 SPECIES
-=======
+# Persephonella guaymasensis Götz et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

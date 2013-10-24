@@ -1,5 +1,4 @@
-Crepidotus brasiliensis Rick SPECIES
-=======
+# Crepidotus brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

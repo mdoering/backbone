@@ -1,5 +1,4 @@
-Nectria turraeae Henn. SPECIES
-=======
+# Nectria turraeae Henn. SPECIES
 
 #### Status
 ACCEPTED

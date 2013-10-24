@@ -1,5 +1,4 @@
-Nostocella verrucosa (Vaucher) Gaillon SPECIES
-=======
+# Nostocella verrucosa (Vaucher) Gaillon SPECIES
 
 #### Status
 ACCEPTED

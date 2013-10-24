@@ -1,5 +1,4 @@
-Pluteus griseoluridus P.D. Orton, 1984 SPECIES
-=======
+# Pluteus griseoluridus P.D. Orton, 1984 SPECIES
 
 #### Status
 ACCEPTED

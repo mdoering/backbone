@@ -1,5 +1,4 @@
-Pyronema dubium Boud. SPECIES
-=======
+# Pyronema dubium Boud. SPECIES
 
 #### Status
 ACCEPTED

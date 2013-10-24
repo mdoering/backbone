@@ -1,5 +1,4 @@
-Thalassiosira poro-irregulata Hasle & Heimdal, 1970 SPECIES
-=======
+# Thalassiosira poro-irregulata Hasle & Heimdal, 1970 SPECIES
 
 #### Status
 ACCEPTED

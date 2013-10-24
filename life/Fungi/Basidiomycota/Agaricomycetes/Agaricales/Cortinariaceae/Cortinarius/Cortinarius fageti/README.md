@@ -1,5 +1,4 @@
-Cortinarius fageti Britzelm. SPECIES
-=======
+# Cortinarius fageti Britzelm. SPECIES
 
 #### Status
 ACCEPTED

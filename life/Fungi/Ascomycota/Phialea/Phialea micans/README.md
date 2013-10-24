@@ -1,5 +1,4 @@
-Phialea micans (Saut.) Sacc. SPECIES
-=======
+# Phialea micans (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe viridula Lodge & Pegler SPECIES
-=======
+# Hygrocybe viridula Lodge & Pegler SPECIES
 
 #### Status
 ACCEPTED

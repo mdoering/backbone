@@ -1,5 +1,4 @@
-Xylaria clavata Mathieu SPECIES
-=======
+# Xylaria clavata Mathieu SPECIES
 
 #### Status
 ACCEPTED

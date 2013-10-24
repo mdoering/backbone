@@ -1,5 +1,4 @@
-Cortinarius atrolazulinus M.M. Moser, 1987 SPECIES
-=======
+# Cortinarius atrolazulinus M.M. Moser, 1987 SPECIES
 
 #### Status
 ACCEPTED

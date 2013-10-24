@@ -1,5 +1,4 @@
-Botryodiplodia arengocarpa (Sacc.) Petr. SPECIES
-=======
+# Botryodiplodia arengocarpa (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

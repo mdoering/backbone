@@ -1,5 +1,4 @@
-Septoria rumicum Sacc. & Paol., 1889 SPECIES
-=======
+# Septoria rumicum Sacc. & Paol., 1889 SPECIES
 
 #### Status
 ACCEPTED

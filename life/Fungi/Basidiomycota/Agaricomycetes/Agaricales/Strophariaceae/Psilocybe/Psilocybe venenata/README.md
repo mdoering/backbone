@@ -1,5 +1,4 @@
-Psilocybe venenata (S. Imai) Imazeki & Hongo SPECIES
-=======
+# Psilocybe venenata (S. Imai) Imazeki & Hongo SPECIES
 
 #### Status
 ACCEPTED

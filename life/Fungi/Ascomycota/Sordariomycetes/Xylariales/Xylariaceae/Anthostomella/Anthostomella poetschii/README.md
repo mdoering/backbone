@@ -1,5 +1,4 @@
-Anthostomella poetschii Niessl SPECIES
-=======
+# Anthostomella poetschii Niessl SPECIES
 
 #### Status
 ACCEPTED

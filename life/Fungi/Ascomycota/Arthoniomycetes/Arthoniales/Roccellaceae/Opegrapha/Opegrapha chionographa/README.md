@@ -1,5 +1,4 @@
-Opegrapha chionographa Nyl. SPECIES
-=======
+# Opegrapha chionographa Nyl. SPECIES
 
 #### Status
 ACCEPTED

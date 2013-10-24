@@ -1,5 +1,4 @@
-Sporopodium handelii Zahlbr. SPECIES
-=======
+# Sporopodium handelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

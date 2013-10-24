@@ -1,5 +1,4 @@
-Chrysocelis gymnostemmatis Y. Ono, 1981 SPECIES
-=======
+# Chrysocelis gymnostemmatis Y. Ono, 1981 SPECIES
 
 #### Status
 ACCEPTED

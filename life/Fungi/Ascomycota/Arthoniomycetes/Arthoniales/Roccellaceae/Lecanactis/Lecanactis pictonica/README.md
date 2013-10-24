@@ -1,5 +1,4 @@
-Lecanactis pictonica (Nyl.) H. Olivier SPECIES
-=======
+# Lecanactis pictonica (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

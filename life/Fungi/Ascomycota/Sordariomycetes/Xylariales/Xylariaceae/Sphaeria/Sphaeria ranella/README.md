@@ -1,5 +1,4 @@
-Sphaeria ranella Berk. & Ravenel SPECIES
-=======
+# Sphaeria ranella Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

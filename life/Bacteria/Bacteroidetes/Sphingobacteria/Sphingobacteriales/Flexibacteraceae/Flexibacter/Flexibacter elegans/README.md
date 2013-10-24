@@ -1,5 +1,4 @@
-Flexibacter elegans (ex Lewin, 1969, non Soriano, 1945) Reichenbach, 1989 SPECIES
-=======
+# Flexibacter elegans (ex Lewin, 1969, non Soriano, 1945) Reichenbach, 1989 SPECIES
 
 #### Status
 ACCEPTED

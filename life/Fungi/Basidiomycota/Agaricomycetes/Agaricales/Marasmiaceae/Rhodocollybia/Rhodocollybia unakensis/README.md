@@ -1,5 +1,4 @@
-Rhodocollybia unakensis (Murrill) Halling SPECIES
-=======
+# Rhodocollybia unakensis (Murrill) Halling SPECIES
 
 #### Status
 ACCEPTED

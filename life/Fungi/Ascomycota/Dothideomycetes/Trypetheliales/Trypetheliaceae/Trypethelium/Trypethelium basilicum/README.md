@@ -1,5 +1,4 @@
-Trypethelium basilicum (Kremp.) R.C. Harris SPECIES
-=======
+# Trypethelium basilicum (Kremp.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

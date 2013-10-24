@@ -1,5 +1,4 @@
-Xylographa schizoxylon De Not. SPECIES
-=======
+# Xylographa schizoxylon De Not. SPECIES
 
 #### Status
 ACCEPTED

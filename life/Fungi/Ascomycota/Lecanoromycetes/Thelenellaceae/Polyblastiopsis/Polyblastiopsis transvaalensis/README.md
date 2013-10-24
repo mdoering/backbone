@@ -1,5 +1,4 @@
-Polyblastiopsis transvaalensis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis transvaalensis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

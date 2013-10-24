@@ -1,5 +1,4 @@
-Ramalina maciformis f. maciformis FORM
-=======
+# Ramalina maciformis (Delise) Bory SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina maciformis f. maciformis
+Parmelia maciformis Delise
 
 ### Remarks
 null

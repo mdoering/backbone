@@ -1,5 +1,4 @@
-Rhabdoderma tenuissimum J. Komárek & H. Kling SPECIES
-=======
+# Rhabdoderma tenuissimum J. Komárek & H. Kling SPECIES
 
 #### Status
 ACCEPTED

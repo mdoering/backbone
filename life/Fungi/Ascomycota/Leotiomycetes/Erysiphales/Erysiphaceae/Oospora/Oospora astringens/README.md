@@ -1,17 +1,16 @@
-Oospora astringenes I. Yamam. SPECIES
-=======
+# Oospora astringens I. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agric. Biol. Chem. 26(6): 343 (1962)
 
 #### Original name
-Oospora astringenes I. Yamam.
+Oospora astringens I. Yamam.
 
 ### Remarks
 null

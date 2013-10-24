@@ -1,5 +1,4 @@
-Craterellus hesleri R.H. Petersen SPECIES
-=======
+# Craterellus hesleri R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

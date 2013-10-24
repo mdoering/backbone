@@ -1,5 +1,4 @@
-Telamonia bayeri Velen. SPECIES
-=======
+# Telamonia bayeri Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Medusoides argyrocodium Voglmayr, 1999 SPECIES
-=======
+# Medusoides argyrocodium Voglmayr, 1999 SPECIES
 
 #### Status
 ACCEPTED

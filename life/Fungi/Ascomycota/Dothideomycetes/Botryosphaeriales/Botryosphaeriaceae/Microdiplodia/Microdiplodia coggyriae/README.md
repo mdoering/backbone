@@ -1,5 +1,4 @@
-Microdiplodia coggyriae Zerova SPECIES
-=======
+# Microdiplodia coggyriae Zerova SPECIES
 
 #### Status
 ACCEPTED

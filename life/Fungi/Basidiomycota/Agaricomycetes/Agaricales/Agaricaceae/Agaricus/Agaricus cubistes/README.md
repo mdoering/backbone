@@ -1,5 +1,4 @@
-Agaricus cubistes Berk. & Broome SPECIES
-=======
+# Agaricus cubistes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

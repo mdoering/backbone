@@ -1,5 +1,4 @@
-Entoloma lycopersicum E. Horak & Singer SPECIES
-=======
+# Entoloma lycopersicum E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

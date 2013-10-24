@@ -1,5 +1,4 @@
-Scindalma mangiferae (Lév.) Kuntze SPECIES
-=======
+# Scindalma mangiferae (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

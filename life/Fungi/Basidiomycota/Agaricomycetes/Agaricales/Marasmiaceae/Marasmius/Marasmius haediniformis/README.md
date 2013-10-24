@@ -1,5 +1,4 @@
-Marasmius haediniformis Singer SPECIES
-=======
+# Marasmius haediniformis Singer SPECIES
 
 #### Status
 ACCEPTED

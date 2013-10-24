@@ -1,5 +1,4 @@
-Clasterosporites Pia GENUS
-=======
+# Clasterosporites Pia GENUS
 
 #### Status
 ACCEPTED

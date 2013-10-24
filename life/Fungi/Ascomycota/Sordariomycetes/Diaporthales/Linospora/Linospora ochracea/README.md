@@ -1,5 +1,4 @@
-Linospora ochracea (Desm.) Sacc. SPECIES
-=======
+# Linospora ochracea (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

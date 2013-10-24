@@ -1,5 +1,4 @@
-Curucispora ponapensis Matsush., 1981 SPECIES
-=======
+# Curucispora ponapensis Matsush., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia hamburgensis J. Lindau SPECIES
-=======
+# Ramularia hamburgensis J. Lindau SPECIES
 
 #### Status
 ACCEPTED

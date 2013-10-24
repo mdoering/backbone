@@ -1,5 +1,4 @@
-Ramalina escorialensis V. Marcano & A. Morales SPECIES
-=======
+# Ramalina escorialensis V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

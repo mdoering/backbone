@@ -1,5 +1,4 @@
-Berghiella perplexa Kofoid & Michener SPECIES
-=======
+# Berghiella perplexa Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

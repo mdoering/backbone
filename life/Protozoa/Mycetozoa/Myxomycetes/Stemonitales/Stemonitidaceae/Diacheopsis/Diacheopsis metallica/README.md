@@ -1,5 +1,4 @@
-Diacheopsis metallica Meyl., 1930 SPECIES
-=======
+# Diacheopsis metallica Meyl., 1930 SPECIES
 
 #### Status
 ACCEPTED

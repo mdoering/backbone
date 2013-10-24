@@ -1,5 +1,4 @@
-Spirillina novazealandiae Chapman SPECIES
-=======
+# Spirillina novazealandiae Chapman SPECIES
 
 #### Status
 ACCEPTED

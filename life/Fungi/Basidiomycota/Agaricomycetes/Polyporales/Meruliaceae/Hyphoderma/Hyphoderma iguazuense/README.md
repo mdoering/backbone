@@ -1,5 +1,4 @@
-Hyphoderma iguazuense Hjortstam & Ryvarden, 1986 SPECIES
-=======
+# Hyphoderma iguazuense Hjortstam & Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

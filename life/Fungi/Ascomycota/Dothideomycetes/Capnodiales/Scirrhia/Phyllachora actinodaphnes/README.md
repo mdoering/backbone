@@ -1,5 +1,4 @@
-Phyllachora actinodaphnes Uppal, Patel & V.P. Bhide, 1949 SPECIES
-=======
+# Phyllachora actinodaphnes Uppal, Patel & V.P. Bhide, 1949 SPECIES
 
 #### Status
 DOUBTFUL

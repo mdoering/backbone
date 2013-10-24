@@ -1,5 +1,4 @@
-Humaria brunneopallida (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Humaria brunneopallida (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

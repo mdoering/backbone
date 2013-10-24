@@ -1,5 +1,4 @@
-Hidasia rugosa Hajos, 1966 SPECIES
-=======
+# Hidasia rugosa Hajos, 1966 SPECIES
 
 #### Status
 ACCEPTED

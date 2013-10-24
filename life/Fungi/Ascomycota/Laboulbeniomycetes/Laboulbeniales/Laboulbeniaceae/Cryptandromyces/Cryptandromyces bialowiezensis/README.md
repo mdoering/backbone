@@ -1,5 +1,4 @@
-Cryptandromyces bialowiezensis T. Majewski SPECIES
-=======
+# Cryptandromyces bialowiezensis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

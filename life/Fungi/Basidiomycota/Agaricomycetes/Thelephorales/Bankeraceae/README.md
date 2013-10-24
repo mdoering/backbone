@@ -1,5 +1,4 @@
-Bankeraceae FAMILY
-=======
+# Bankeraceae FAMILY
 
 #### Status
 ACCEPTED

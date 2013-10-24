@@ -1,14 +1,13 @@
-Asterina tonduzi (Speg.) Syd. SPECIES
-=======
+# Asterina tonduzii (Speg.) Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 25(1/2): 74 (1927)
 
 #### Original name
 Opasterinella tonduzii Speg.

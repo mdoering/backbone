@@ -1,17 +1,16 @@
-Lecidea isidiotyla Vain. SPECIES
-=======
+# Phyllopsora isidiotyla (Vain.) Riddle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 15(2): 81 (1923)
 
 #### Original name
-null
+Lecidea isidiotyla Vain.
 
 ### Remarks
 null

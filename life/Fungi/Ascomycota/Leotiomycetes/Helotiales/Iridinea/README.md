@@ -1,5 +1,4 @@
-Iridinea Velen. GENUS
-=======
+# Iridinea Velen. GENUS
 
 #### Status
 ACCEPTED

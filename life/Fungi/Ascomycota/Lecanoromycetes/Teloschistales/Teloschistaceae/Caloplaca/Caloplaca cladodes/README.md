@@ -1,5 +1,4 @@
-Caloplaca cladodes (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca cladodes (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

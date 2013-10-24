@@ -1,5 +1,4 @@
-Gloeothece prototypa Gardner SPECIES
-=======
+# Gloeothece prototypa Gardner SPECIES
 
 #### Status
 ACCEPTED

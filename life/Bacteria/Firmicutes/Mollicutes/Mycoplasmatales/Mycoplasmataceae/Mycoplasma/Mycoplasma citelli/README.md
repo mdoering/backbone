@@ -1,5 +1,4 @@
-Mycoplasma citelli Rose et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma citelli Rose et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

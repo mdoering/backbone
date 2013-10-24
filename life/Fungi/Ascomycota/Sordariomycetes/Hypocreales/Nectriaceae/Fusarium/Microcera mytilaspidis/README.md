@@ -1,5 +1,4 @@
-Microcera mytilaspidis McAlpine SPECIES
-=======
+# Microcera mytilaspidis McAlpine SPECIES
 
 #### Status
 ACCEPTED

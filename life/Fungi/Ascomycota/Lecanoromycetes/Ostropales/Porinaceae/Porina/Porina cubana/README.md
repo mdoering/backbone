@@ -1,5 +1,4 @@
-Porina cubana f. irregularis Lücking FORM
-=======
+# Porina cubana Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 19(2): 186 (1984)
 
 #### Original name
-null
+Porina cubana Vezda
 
 ### Remarks
 null

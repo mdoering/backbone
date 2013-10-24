@@ -1,5 +1,4 @@
-Rhabdospora himantophylli Petr. SPECIES
-=======
+# Rhabdospora himantophylli Petr. SPECIES
 
 #### Status
 ACCEPTED

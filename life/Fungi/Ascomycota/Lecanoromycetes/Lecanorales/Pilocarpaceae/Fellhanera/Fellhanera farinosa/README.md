@@ -1,5 +1,4 @@
-Fellhanera farinosa Lücking SPECIES
-=======
+# Fellhanera farinosa Lücking SPECIES
 
 #### Status
 ACCEPTED

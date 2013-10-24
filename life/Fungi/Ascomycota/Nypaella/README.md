@@ -1,5 +1,4 @@
-Nypaella K.D. Hyde & B. Sutton GENUS
-=======
+# Nypaella K.D. Hyde & B. Sutton GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinozygus fragilis A. P. Rood & T. Barnard SPECIES
-=======
+# Actinozygus fragilis A. P. Rood & T. Barnard SPECIES
 
 #### Status
 ACCEPTED

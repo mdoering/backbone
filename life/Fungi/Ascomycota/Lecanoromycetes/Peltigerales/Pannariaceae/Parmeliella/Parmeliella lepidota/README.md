@@ -1,5 +1,4 @@
-Parmeliella lepidota f. lepidota FORM
-=======
+# Parmeliella lepidota SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmeliella lepidota f. lepidota
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agyrophora ptychochroa (Nyl.) Nyl. SPECIES
-=======
+# Agyrophora ptychochroa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

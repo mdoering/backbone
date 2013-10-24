@@ -1,5 +1,4 @@
-Diplodia crassulae Cooke & Harkn. SPECIES
-=======
+# Diplodia crassulae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

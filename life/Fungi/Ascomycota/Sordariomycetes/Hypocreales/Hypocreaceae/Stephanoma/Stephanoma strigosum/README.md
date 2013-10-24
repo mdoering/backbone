@@ -1,5 +1,4 @@
-Stephanoma strigosum Wallr., 1833 SPECIES
-=======
+# Stephanoma strigosum Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED

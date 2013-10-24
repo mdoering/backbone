@@ -1,5 +1,4 @@
-Lycoperdon nitidum Lloyd SPECIES
-=======
+# Lycoperdon nitidum Lloyd SPECIES
 
 #### Status
 ACCEPTED

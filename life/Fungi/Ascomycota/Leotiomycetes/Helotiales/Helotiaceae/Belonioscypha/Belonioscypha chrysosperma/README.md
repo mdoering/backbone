@@ -1,5 +1,4 @@
-Belonioscypha chrysosperma Le Gal SPECIES
-=======
+# Belonioscypha chrysosperma Le Gal SPECIES
 
 #### Status
 ACCEPTED

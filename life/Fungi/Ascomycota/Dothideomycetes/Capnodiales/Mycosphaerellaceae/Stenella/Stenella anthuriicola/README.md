@@ -1,5 +1,4 @@
-Stenella anthuriicola U. Braun & C.F. Hill SPECIES
-=======
+# Stenella anthuriicola U. Braun & C.F. Hill SPECIES
 
 #### Status
 ACCEPTED

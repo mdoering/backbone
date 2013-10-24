@@ -1,5 +1,4 @@
-Phloeosporella cassiae Z.Q. Yuan & Old SPECIES
-=======
+# Phloeosporella cassiae Z.Q. Yuan & Old SPECIES
 
 #### Status
 ACCEPTED

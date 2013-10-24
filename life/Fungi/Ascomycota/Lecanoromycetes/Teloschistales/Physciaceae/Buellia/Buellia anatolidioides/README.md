@@ -1,5 +1,4 @@
-Buellia anatolidioides Vain. SPECIES
-=======
+# Buellia anatolidioides Vain. SPECIES
 
 #### Status
 ACCEPTED

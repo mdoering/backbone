@@ -1,5 +1,4 @@
-Gyalecta atrolutea Vain. SPECIES
-=======
+# Gyalecta atrolutea Vain. SPECIES
 
 #### Status
 ACCEPTED

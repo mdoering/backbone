@@ -1,5 +1,4 @@
-Buellia vaccinii Vain. SPECIES
-=======
+# Buellia vaccinii Vain. SPECIES
 
 #### Status
 ACCEPTED

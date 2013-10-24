@@ -1,5 +1,4 @@
-Torrubiella colombiana Kobayasi SPECIES
-=======
+# Torrubiella colombiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

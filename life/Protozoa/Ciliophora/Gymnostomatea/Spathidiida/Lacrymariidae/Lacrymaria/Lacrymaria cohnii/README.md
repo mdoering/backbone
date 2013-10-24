@@ -1,8 +1,7 @@
-Lacrymaria cohni Kent, 1881 SPECIES
-=======
+# Lacrymaria cohnii sensu Buitkamp & Wilbert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

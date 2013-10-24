@@ -1,5 +1,4 @@
-Rhizoplaca aspidophora (Vain.) Redón SPECIES
-=======
+# Rhizoplaca aspidophora (Vain.) Redón SPECIES
 
 #### Status
 ACCEPTED

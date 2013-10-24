@@ -1,5 +1,4 @@
-Thecaphora pakistanica Vánky, S.H. Iqbal & Khalid SPECIES
-=======
+# Thecaphora pakistanica Vánky, S.H. Iqbal & Khalid SPECIES
 
 #### Status
 ACCEPTED

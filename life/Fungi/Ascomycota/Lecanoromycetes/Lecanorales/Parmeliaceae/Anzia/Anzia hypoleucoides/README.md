@@ -1,5 +1,4 @@
-Anzia hypoleucoides Müll. Arg. SPECIES
-=======
+# Anzia hypoleucoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

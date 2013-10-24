@@ -1,5 +1,4 @@
-Epigloea biciliata Döbbeler SPECIES
-=======
+# Epigloea biciliata Döbbeler SPECIES
 
 #### Status
 ACCEPTED

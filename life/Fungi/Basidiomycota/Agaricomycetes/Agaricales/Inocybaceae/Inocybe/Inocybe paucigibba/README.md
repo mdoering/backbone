@@ -1,5 +1,4 @@
-Inocybe paucigibba Singer SPECIES
-=======
+# Inocybe paucigibba Singer SPECIES
 
 #### Status
 ACCEPTED

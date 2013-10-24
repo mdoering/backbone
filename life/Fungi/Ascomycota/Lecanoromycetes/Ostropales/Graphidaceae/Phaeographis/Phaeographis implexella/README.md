@@ -1,5 +1,4 @@
-Phaeographis implexella (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeographis implexella (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

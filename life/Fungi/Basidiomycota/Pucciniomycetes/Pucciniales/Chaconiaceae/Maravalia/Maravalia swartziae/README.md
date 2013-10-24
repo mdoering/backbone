@@ -1,5 +1,4 @@
-Maravalia swartziae Y. Ono, 1984 SPECIES
-=======
+# Maravalia swartziae Y. Ono, 1984 SPECIES
 
 #### Status
 ACCEPTED

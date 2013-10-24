@@ -1,5 +1,4 @@
-Lactarius japonicus (Kawam.) Lj.N. Vassiljeva SPECIES
-=======
+# Lactarius japonicus (Kawam.) Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

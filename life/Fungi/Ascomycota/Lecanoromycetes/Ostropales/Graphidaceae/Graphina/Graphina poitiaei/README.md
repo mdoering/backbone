@@ -1,5 +1,4 @@
-Graphina poitiaei (Fée) Müll. Arg. SPECIES
-=======
+# Graphina poitiaei (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

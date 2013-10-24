@@ -1,5 +1,4 @@
-Rhagodiscus adinfinitus SPECIES
-=======
+# Rhagodiscus adinfinitus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roccellographomyces cretaceae Cif. & Tomas. SPECIES
-=======
+# Roccellographomyces cretaceae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia recurvata Kahl, 1928 SPECIES
-=======
+# Cothurnia recurvata Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

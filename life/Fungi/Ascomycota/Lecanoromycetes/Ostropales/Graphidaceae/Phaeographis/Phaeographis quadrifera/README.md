@@ -1,5 +1,4 @@
-Phaeographis quadrifera (Nyl.) Staiger SPECIES
-=======
+# Phaeographis quadrifera (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

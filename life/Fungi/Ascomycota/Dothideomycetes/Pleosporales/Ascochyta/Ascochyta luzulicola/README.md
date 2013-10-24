@@ -1,5 +1,4 @@
-Ascochyta luzulicola R. Sprague SPECIES
-=======
+# Ascochyta luzulicola R. Sprague SPECIES
 
 #### Status
 ACCEPTED

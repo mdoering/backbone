@@ -1,5 +1,4 @@
-Sclerographium fuligineum I. Hino & Katum. SPECIES
-=======
+# Sclerographium fuligineum I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

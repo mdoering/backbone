@@ -1,5 +1,4 @@
-Arthonia diaphora Stirt. SPECIES
-=======
+# Arthonia diaphora Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma obscureotenax G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma obscureotenax G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

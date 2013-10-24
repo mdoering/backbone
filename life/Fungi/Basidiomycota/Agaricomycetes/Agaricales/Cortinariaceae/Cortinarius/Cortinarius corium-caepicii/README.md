@@ -1,5 +1,4 @@
-Cortinarius corium-caepicii Melot SPECIES
-=======
+# Cortinarius corium-caepicii Melot SPECIES
 
 #### Status
 ACCEPTED

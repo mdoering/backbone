@@ -1,5 +1,4 @@
-Barlaeina centrospora Kirschst. SPECIES
-=======
+# Barlaeina centrospora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

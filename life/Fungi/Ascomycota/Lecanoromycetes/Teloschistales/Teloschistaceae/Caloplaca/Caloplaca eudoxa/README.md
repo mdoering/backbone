@@ -1,5 +1,4 @@
-Caloplaca eudoxa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca eudoxa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella trabutiana Sacc. & Roum. SPECIES
-=======
+# Anthostomella trabutiana Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

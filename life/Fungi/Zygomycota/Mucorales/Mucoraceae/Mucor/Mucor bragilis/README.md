@@ -1,5 +1,4 @@
-Mucor bragilis Bainier SPECIES
-=======
+# Mucor bragilis Bainier SPECIES
 
 #### Status
 ACCEPTED

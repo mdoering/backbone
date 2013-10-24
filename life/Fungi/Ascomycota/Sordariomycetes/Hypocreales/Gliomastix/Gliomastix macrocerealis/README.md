@@ -1,5 +1,4 @@
-Gliomastix macrocerealis Matsush. SPECIES
-=======
+# Gliomastix macrocerealis Matsush. SPECIES
 
 #### Status
 ACCEPTED

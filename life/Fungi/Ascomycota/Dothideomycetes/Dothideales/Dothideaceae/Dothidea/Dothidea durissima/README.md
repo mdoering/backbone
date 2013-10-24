@@ -1,5 +1,4 @@
-Dothidea durissima Berk. SPECIES
-=======
+# Dothidea durissima Berk. SPECIES
 
 #### Status
 ACCEPTED

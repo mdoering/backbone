@@ -1,5 +1,4 @@
-Tuckermanopsis pallidula (Tuck. ex Riddle) Hale SPECIES
-=======
+# Tuckermanopsis pallidula (Tuck. ex Riddle) Hale SPECIES
 
 #### Status
 ACCEPTED

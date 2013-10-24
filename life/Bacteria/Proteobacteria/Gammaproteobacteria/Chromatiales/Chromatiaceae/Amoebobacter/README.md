@@ -1,5 +1,4 @@
-Amoebobacter Winogradsky, 1888 (Approved Lists, 1980) GENUS
-=======
+# Amoebobacter Winogradsky, 1888 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

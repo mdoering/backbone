@@ -1,5 +1,4 @@
-Biatorella pruinosa var. pruinosa VARIETY
-=======
+# Biatorella pruinosa (Körb.) Mudd SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorella pruinosa var. pruinosa
+null
 
 ### Remarks
 null

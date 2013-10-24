@@ -1,5 +1,4 @@
-Dicaeoma scleriicola (Arthur) Arthur SPECIES
-=======
+# Dicaeoma scleriicola (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

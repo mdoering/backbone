@@ -1,5 +1,4 @@
-Uromyces trifolii-purpurei Const. SPECIES
-=======
+# Uromyces trifolii-purpurei Const. SPECIES
 
 #### Status
 ACCEPTED

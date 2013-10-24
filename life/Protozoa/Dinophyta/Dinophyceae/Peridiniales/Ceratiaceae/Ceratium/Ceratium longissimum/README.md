@@ -1,5 +1,4 @@
-Ceratium longissimum (Schröder) Kofoid SPECIES
-=======
+# Ceratium longissimum (Schröder) Kofoid SPECIES
 
 #### Status
 ACCEPTED

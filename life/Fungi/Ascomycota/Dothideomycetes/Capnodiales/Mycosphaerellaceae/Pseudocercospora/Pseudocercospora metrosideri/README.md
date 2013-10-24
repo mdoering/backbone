@@ -1,5 +1,4 @@
-Pseudocercospora metrosideri U. Braun, 2001 SPECIES
-=======
+# Pseudocercospora metrosideri U. Braun, 2001 SPECIES
 
 #### Status
 ACCEPTED

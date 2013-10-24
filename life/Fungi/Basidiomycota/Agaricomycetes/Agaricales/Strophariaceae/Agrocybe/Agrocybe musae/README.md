@@ -1,5 +1,4 @@
-Agrocybe musae (Earle) Pegler SPECIES
-=======
+# Agrocybe musae (Earle) Pegler SPECIES
 
 #### Status
 ACCEPTED

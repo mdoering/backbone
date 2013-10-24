@@ -1,5 +1,4 @@
-Stichochaeta mereschkowskii Andrussowa, 1886 SPECIES
-=======
+# Stichochaeta mereschkowskii Andrussowa, 1886 SPECIES
 
 #### Status
 ACCEPTED

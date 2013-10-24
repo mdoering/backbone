@@ -1,5 +1,4 @@
-Orbilia gaillardi Sacc. SPECIES
-=======
+# Orbilia gaillardi Sacc. SPECIES
 
 #### Status
 ACCEPTED

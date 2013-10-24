@@ -1,5 +1,4 @@
-Asterina xerophylli Ellis SPECIES
-=======
+# Asterina xerophylli Ellis SPECIES
 
 #### Status
 ACCEPTED

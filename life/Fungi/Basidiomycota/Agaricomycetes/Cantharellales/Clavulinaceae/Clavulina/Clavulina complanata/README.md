@@ -1,5 +1,4 @@
-Clavulina complanata Corner SPECIES
-=======
+# Clavulina complanata Corner SPECIES
 
 #### Status
 ACCEPTED

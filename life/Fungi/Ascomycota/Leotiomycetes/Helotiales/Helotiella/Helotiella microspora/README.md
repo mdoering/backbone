@@ -1,5 +1,4 @@
-Helotiella microspora Burt SPECIES
-=======
+# Helotiella microspora Burt SPECIES
 
 #### Status
 ACCEPTED

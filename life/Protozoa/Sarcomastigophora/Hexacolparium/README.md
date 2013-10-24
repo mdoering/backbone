@@ -1,5 +1,4 @@
-Hexacolparium Haeckel, 1887 GENUS
-=======
+# Hexacolparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

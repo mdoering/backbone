@@ -1,5 +1,4 @@
-Clathrospora alpina Auersw. SPECIES
-=======
+# Clathrospora alpina Auersw. SPECIES
 
 #### Status
 ACCEPTED

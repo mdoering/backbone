@@ -1,5 +1,4 @@
-Asterina dhivaharanii Hosagoudar & Nithyatharani, 2010 SPECIES
-=======
+# Asterina dhivaharanii Hosagoudar & Nithyatharani, 2010 SPECIES
 
 #### Status
 ACCEPTED

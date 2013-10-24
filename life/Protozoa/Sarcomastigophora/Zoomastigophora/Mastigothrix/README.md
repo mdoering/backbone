@@ -1,5 +1,4 @@
-Mastigothrix Poche, 1913 GENUS
-=======
+# Mastigothrix Poche, 1913 GENUS
 
 #### Status
 ACCEPTED

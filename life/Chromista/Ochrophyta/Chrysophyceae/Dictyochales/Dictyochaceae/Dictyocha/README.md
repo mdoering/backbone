@@ -1,5 +1,4 @@
-Dictyocha Ehrenb. GENUS
-=======
+# Dictyocha Ehrenb. GENUS
 
 #### Status
 ACCEPTED

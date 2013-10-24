@@ -1,5 +1,4 @@
-Agaricus exaltatus Berk. SPECIES
-=======
+# Agaricus exaltatus Berk. SPECIES
 
 #### Status
 ACCEPTED

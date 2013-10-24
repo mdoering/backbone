@@ -1,5 +1,4 @@
-Lecanora speciosa (Brusse) Hafellner SPECIES
-=======
+# Lecanora speciosa (Brusse) Hafellner SPECIES
 
 #### Status
 ACCEPTED

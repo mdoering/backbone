@@ -1,5 +1,4 @@
-Leohumicola levissima H.D.T. Nguyen & Seifert SPECIES
-=======
+# Leohumicola levissima H.D.T. Nguyen & Seifert SPECIES
 
 #### Status
 ACCEPTED

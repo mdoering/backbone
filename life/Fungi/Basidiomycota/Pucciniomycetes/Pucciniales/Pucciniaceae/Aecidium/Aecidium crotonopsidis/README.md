@@ -1,5 +1,4 @@
-Aecidium crotonopsidis Burrill SPECIES
-=======
+# Aecidium crotonopsidis Burrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coccudina cicada (Müller, 1786) Dujardin, 1841 SPECIES
-=======
+# Aspidisca cicada (Müller, 1786) Claparède & Lachmann, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

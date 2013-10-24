@@ -1,5 +1,4 @@
-Proteus capsulatus SPECIES
-=======
+# Proteus capsulatus SPECIES
 
 #### Status
 ACCEPTED

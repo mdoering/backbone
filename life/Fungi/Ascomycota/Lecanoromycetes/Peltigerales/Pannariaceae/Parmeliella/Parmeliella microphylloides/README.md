@@ -1,5 +1,4 @@
-Parmeliella microphylloides (Nyl.) Zahlbr. SPECIES
-=======
+# Parmeliella microphylloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

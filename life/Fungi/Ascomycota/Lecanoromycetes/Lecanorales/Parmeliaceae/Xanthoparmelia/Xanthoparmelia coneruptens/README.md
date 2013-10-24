@@ -1,5 +1,4 @@
-Xanthoparmelia coneruptens Hale SPECIES
-=======
+# Xanthoparmelia coneruptens Hale SPECIES
 
 #### Status
 ACCEPTED

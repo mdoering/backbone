@@ -1,5 +1,4 @@
-Botryosphaeria collematoides Berk. & Ravenel SPECIES
-=======
+# Botryosphaeria collematoides Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

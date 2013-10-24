@@ -1,5 +1,4 @@
-Heteropatella setulosa I. Hino & Katum. SPECIES
-=======
+# Heteropatella setulosa I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

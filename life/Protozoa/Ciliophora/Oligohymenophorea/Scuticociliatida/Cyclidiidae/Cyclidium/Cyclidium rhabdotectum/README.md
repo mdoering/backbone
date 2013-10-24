@@ -1,5 +1,4 @@
-Cyclidium rhabdotectum Powers, 1935 SPECIES
-=======
+# Cyclidium rhabdotectum Powers, 1935 SPECIES
 
 #### Status
 ACCEPTED

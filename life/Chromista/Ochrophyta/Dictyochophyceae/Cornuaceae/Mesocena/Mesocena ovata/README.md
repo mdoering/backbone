@@ -1,5 +1,4 @@
-Mesocena ovata D. Bukry SPECIES
-=======
+# Mesocena ovata D. Bukry SPECIES
 
 #### Status
 ACCEPTED

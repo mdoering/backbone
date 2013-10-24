@@ -1,5 +1,4 @@
-Peltasterella piriensis Bat. & H. Maia SPECIES
-=======
+# Peltasterella piriensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

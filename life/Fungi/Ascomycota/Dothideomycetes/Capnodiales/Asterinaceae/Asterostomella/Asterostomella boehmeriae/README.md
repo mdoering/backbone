@@ -1,5 +1,4 @@
-Asterostomella boehmeriae Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella boehmeriae Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

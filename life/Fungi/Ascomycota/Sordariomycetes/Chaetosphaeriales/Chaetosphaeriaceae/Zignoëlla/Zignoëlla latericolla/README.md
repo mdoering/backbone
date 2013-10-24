@@ -1,5 +1,4 @@
-Zignoëlla latericolla (Berk.) Sacc. SPECIES
-=======
+# Zignoëlla latericolla (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

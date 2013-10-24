@@ -1,5 +1,4 @@
-Rhabdospora viticola Massa SPECIES
-=======
+# Rhabdospora viticola Massa SPECIES
 
 #### Status
 ACCEPTED

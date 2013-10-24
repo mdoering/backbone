@@ -1,5 +1,4 @@
-Puccinia basiporula Tranzschel SPECIES
-=======
+# Puccinia basiporula Tranzschel SPECIES
 
 #### Status
 ACCEPTED

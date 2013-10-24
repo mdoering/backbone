@@ -1,5 +1,4 @@
-Gloniopsis lonicerae (W. Phillips & Harkn.) Berl. & Voglino SPECIES
-=======
+# Gloniopsis lonicerae (W. Phillips & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

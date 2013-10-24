@@ -1,5 +1,4 @@
-Mucrosporium GENUS
-=======
+# Mucrosporium GENUS
 
 #### Status
 ACCEPTED

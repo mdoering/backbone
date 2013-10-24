@@ -1,17 +1,16 @@
-Biatora breadalbanensis (Stirt.) Walt. Watson SPECIES
-=======
+# Japewia tornoënsis (Nyl.) Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 22(3): 206 (1990)
 
 #### Original name
-Lecidea breadalbanensis Stirt.
+Lecidea tornoënsis Nyl.
 
 ### Remarks
 null

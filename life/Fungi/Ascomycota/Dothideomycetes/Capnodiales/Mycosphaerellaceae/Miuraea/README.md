@@ -1,17 +1,16 @@
-Hyalodictys Subram. GENUS
-=======
+# Miuraea Hara GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Pl. Sci. 55B: 8 (1962)
+Byogaichu-Hoten (Manual of Pests and Diseases) 779 (1948)
 
 #### Original name
-Hyalodictys Subram.
+Miuraea Hara
 
 ### Remarks
 null

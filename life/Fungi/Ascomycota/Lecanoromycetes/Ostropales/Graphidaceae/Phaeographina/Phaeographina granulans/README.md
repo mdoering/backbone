@@ -1,5 +1,4 @@
-Phaeographina granulans Zahlbr. SPECIES
-=======
+# Phaeographina granulans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

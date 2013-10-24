@@ -1,5 +1,4 @@
-Uredo abietis-pectinatae Reess SPECIES
-=======
+# Uredo abietis-pectinatae Reess SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum fructigenum P. Karst. SPECIES
-=======
+# Haplotrichum fructigenum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

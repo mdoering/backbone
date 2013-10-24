@@ -1,5 +1,4 @@
-Cercospora biophyti Syd. & P. Syd. SPECIES
-=======
+# Cercospora biophyti Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

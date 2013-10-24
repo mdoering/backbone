@@ -1,5 +1,4 @@
-Aecidium luzoniense Henn. SPECIES
-=======
+# Aecidium luzoniense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora tylophorae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Cercospora tylophorae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

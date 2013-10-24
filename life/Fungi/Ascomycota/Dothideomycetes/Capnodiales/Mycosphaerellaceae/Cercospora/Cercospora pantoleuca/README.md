@@ -1,5 +1,4 @@
-Cercospora pantoleuca Sacc., 1878 SPECIES
-=======
+# Cercospora pantoleuca Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Valsa furfuracea (Fr.) Cooke, 1871 SPECIES
-=======
+# Diaporthe furfuracea (Fr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: no. 2493 (1871)
+Syll. fung. (Abellini) 1: 618 (1882)
 
 #### Original name
 Sphaeria furfuracea Fr., 1822

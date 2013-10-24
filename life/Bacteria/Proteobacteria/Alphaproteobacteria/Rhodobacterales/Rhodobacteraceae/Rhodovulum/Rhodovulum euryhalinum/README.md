@@ -1,8 +1,7 @@
-Rhodobacter euryhalinus Kompantseva, 1989 SPECIES
-=======
+# Rhodovulum euryhalinum (Kompantseva, 1989) Hiraishi & Ueda, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

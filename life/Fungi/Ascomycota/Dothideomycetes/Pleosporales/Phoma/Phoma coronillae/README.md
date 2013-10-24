@@ -1,5 +1,4 @@
-Phoma coronillae Desm. SPECIES
-=======
+# Phoma coronillae Desm. SPECIES
 
 #### Status
 ACCEPTED

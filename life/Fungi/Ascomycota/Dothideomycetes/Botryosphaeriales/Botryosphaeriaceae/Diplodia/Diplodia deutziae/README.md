@@ -1,5 +1,4 @@
-Diplodia deutziae Sousa da Câmara SPECIES
-=======
+# Diplodia deutziae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

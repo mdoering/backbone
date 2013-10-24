@@ -1,17 +1,16 @@
-Uperhiza Bosc GENUS
-=======
+# Melanogaster Corda, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(11): 1 (1831)
 
 #### Original name
-Uperhiza Bosc
+Melanogaster Corda, 1831
 
 ### Remarks
 null

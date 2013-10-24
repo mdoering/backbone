@@ -1,5 +1,4 @@
-Puccinia roesteliiformis Lagerh. SPECIES
-=======
+# Puccinia roesteliiformis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

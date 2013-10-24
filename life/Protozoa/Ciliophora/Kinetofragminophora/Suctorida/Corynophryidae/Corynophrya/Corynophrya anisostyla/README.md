@@ -1,5 +1,4 @@
-Corynophrya anisostyla Ferndandez-Leborans & Gomez del Arco, 1996 SPECIES
-=======
+# Corynophrya anisostyla Ferndandez-Leborans & Gomez del Arco, 1996 SPECIES
 
 #### Status
 ACCEPTED

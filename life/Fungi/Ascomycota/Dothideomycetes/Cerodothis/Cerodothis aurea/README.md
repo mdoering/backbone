@@ -1,5 +1,4 @@
-Cerodothis aurea Muthappa, 1969 SPECIES
-=======
+# Cerodothis aurea Muthappa, 1969 SPECIES
 
 #### Status
 ACCEPTED

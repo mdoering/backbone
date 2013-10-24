@@ -1,5 +1,4 @@
-Taphrina jenkinsoniana Mix SPECIES
-=======
+# Taphrina jenkinsoniana Mix SPECIES
 
 #### Status
 ACCEPTED

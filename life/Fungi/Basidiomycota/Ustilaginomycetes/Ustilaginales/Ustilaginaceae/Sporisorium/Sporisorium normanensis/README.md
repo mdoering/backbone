@@ -1,5 +1,4 @@
-Sporisorium normanensis R.G. Shivas & Vánky SPECIES
-=======
+# Sporisorium normanensis R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

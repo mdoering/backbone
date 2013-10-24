@@ -1,5 +1,4 @@
-Drechslera ellisii Danquah SPECIES
-=======
+# Drechslera ellisii Danquah SPECIES
 
 #### Status
 ACCEPTED

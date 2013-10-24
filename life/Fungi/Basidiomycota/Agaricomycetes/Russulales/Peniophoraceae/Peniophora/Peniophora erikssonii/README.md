@@ -1,5 +1,4 @@
-Peniophora erikssonii Boidin, 1957 SPECIES
-=======
+# Peniophora erikssonii Boidin, 1957 SPECIES
 
 #### Status
 ACCEPTED

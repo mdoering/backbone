@@ -1,5 +1,4 @@
-Entoloma acutoconicum (Hongo) E. Horak SPECIES
-=======
+# Entoloma acutoconicum (Hongo) E. Horak SPECIES
 
 #### Status
 ACCEPTED

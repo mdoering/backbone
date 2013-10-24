@@ -1,5 +1,4 @@
-Synedra Ehrenberg, 1830 GENUS
-=======
+# Synedra Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

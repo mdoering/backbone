@@ -1,5 +1,4 @@
-Naucoria sacchari Murrill SPECIES
-=======
+# Naucoria sacchari Murrill SPECIES
 
 #### Status
 ACCEPTED

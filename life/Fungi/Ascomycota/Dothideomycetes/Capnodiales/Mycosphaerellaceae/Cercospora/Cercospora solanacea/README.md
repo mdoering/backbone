@@ -1,5 +1,4 @@
-Cercospora solanacea Sacc. & Berl. SPECIES
-=======
+# Cercospora solanacea Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

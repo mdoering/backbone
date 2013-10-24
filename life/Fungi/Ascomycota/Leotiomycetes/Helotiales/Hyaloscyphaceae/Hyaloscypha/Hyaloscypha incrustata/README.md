@@ -1,5 +1,4 @@
-Hyaloscypha incrustata Velen. SPECIES
-=======
+# Hyaloscypha incrustata Velen. SPECIES
 
 #### Status
 ACCEPTED

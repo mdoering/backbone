@@ -1,5 +1,4 @@
-Didymosphaeria shirkolaensis C. Ramesh SPECIES
-=======
+# Didymosphaeria shirkolaensis C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

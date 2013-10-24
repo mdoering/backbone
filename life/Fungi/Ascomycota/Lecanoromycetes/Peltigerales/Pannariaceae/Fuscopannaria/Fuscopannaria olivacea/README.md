@@ -1,5 +1,4 @@
-Fuscopannaria olivacea (P.M. Jørg.) P.M. Jørg. SPECIES
-=======
+# Fuscopannaria olivacea (P.M. Jørg.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

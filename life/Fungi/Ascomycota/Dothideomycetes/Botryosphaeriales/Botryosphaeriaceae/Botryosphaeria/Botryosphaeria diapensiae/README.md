@@ -1,5 +1,4 @@
-Botryosphaeria diapensiae (Rehm) M.E. Barr SPECIES
-=======
+# Botryosphaeria diapensiae (Rehm) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

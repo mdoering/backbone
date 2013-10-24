@@ -1,5 +1,4 @@
-Ptychogaster fici Pat. SPECIES
-=======
+# Ptychogaster fici Pat. SPECIES
 
 #### Status
 ACCEPTED

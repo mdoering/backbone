@@ -1,14 +1,13 @@
-Hypolyssus helvellodes (Sowerby) Kuntze SPECIES
-=======
+# Hypolyssus helvelloides (Sowerby) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 488 (1898)
 
 #### Original name
 Merulius helvelloides J.F. Gmel.

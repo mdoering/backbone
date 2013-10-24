@@ -1,17 +1,16 @@
-Enchnoa lanata var. lanata VARIETY
-=======
+# Enchnoa lanata (Fr.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Summa veg. Scand. (Stockholm), Section Post. 343 (1849)
 
 #### Original name
-Enchnoa lanata var. lanata
+Sphaeria lanata Fr., 1818
 
 ### Remarks
 null

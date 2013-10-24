@@ -1,5 +1,4 @@
-Cylindrosporium lutescens B.B. Higgins SPECIES
-=======
+# Cylindrosporium lutescens B.B. Higgins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caprettia confusa Lücking & Sipman SPECIES
-=======
+# Caprettia confusa Lücking & Sipman SPECIES
 
 #### Status
 ACCEPTED

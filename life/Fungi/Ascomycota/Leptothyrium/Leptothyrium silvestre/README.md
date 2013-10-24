@@ -1,5 +1,4 @@
-Leptothyrium silvestre Sacc. & Cavara SPECIES
-=======
+# Leptothyrium silvestre Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

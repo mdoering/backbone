@@ -1,5 +1,4 @@
-Stachybotryella bispora Hansf. SPECIES
-=======
+# Stachybotryella bispora Hansf. SPECIES
 
 #### Status
 ACCEPTED

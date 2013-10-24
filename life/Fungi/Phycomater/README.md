@@ -1,5 +1,4 @@
-Phycomater Fr. GENUS
-=======
+# Phycomater Fr. GENUS
 
 #### Status
 ACCEPTED

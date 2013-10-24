@@ -1,5 +1,4 @@
-Chuaria wimanii Brotzen, 1941 SPECIES
-=======
+# Chuaria wimanii Brotzen, 1941 SPECIES
 
 #### Status
 ACCEPTED

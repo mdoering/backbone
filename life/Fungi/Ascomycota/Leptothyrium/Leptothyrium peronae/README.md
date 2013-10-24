@@ -1,5 +1,4 @@
-Leptothyrium peronae Briosi & Cavara SPECIES
-=======
+# Leptothyrium peronae Briosi & Cavara SPECIES
 
 #### Status
 ACCEPTED

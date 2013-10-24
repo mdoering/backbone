@@ -1,5 +1,4 @@
-Quasirotalia Hanzawa, 1967 GENUS
-=======
+# Quasirotalia Hanzawa, 1967 GENUS
 
 #### Status
 ACCEPTED

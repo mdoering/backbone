@@ -1,5 +1,4 @@
-Dacrymyces furcifer Berk. & Broome SPECIES
-=======
+# Dacrymyces furcifer Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

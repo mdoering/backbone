@@ -1,8 +1,7 @@
-Cunninghamella blakesleeana var. blakesleeana Lendn., 1927 VARIETY
-=======
+# Cunninghamella blakesleeana Lendn., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Bull. Soc. bot. Genève, 2 sér. 19: 234 (1927)
 
 #### Original name
-Cunninghamella blakesleeana var. blakesleeana Lendn., 1927
+Cunninghamella blakesleeana Lendn., 1927
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endocarpon corniculatum Nyl. SPECIES
-=======
+# Endocarpon corniculatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

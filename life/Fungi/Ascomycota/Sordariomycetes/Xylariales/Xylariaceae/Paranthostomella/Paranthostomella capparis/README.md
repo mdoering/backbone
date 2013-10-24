@@ -1,8 +1,7 @@
-Paranthostomella capparidis Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Paranthostomella capparis Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Paranthostomella capparidis Syd., P. Syd. & E.J. Butler
+Paranthostomella capparis Syd., P. Syd. & E.J. Butler
 
 ### Remarks
 null

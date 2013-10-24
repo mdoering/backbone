@@ -1,5 +1,4 @@
-Ramularia corydalidis Osipian SPECIES
-=======
+# Ramularia corydalidis Osipian SPECIES
 
 #### Status
 ACCEPTED

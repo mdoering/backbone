@@ -1,14 +1,13 @@
-Helminthophana nycteribiae Peyr., 1873 SPECIES
-=======
+# Arthrorhynchus nycteribiae (Peyr.) Thaxt., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 68: 250 (1873)
+in Clem. & Shear, Gen. fung. (Minneapolis), Edn 2 243 (1931)
 
 #### Original name
 Helminthophana nycteribiae Peyr., 1873

@@ -1,5 +1,4 @@
-Callorites delorenzoi Fiore SPECIES
-=======
+# Callorites delorenzoi Fiore SPECIES
 
 #### Status
 ACCEPTED

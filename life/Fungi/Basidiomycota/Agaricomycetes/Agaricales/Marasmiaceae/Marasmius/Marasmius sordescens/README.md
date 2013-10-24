@@ -1,5 +1,4 @@
-Marasmius sordescens Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius sordescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

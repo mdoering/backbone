@@ -1,5 +1,4 @@
-Theocorys Haeckel, 1881 GENUS
-=======
+# Theocorys Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

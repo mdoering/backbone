@@ -1,5 +1,4 @@
-Fomes rechingeri Bres. SPECIES
-=======
+# Fomes rechingeri Bres. SPECIES
 
 #### Status
 ACCEPTED

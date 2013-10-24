@@ -1,5 +1,4 @@
-Parmotrema dactylosum Fleig SPECIES
-=======
+# Parmotrema dactylosum Fleig SPECIES
 
 #### Status
 ACCEPTED

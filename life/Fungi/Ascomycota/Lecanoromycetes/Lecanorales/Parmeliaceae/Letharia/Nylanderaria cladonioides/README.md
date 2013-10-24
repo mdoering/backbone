@@ -1,5 +1,4 @@
-Nylanderaria cladonioides (Nyl.) Kuntze SPECIES
-=======
+# Nylanderaria cladonioides (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

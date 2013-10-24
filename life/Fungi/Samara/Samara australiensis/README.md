@@ -1,5 +1,4 @@
-Samara australiensis ined. SPECIES
-=======
+# Samara australiensis ined. SPECIES
 
 #### Status
 ACCEPTED

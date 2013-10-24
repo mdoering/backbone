@@ -1,5 +1,4 @@
-Macrophoma cocophila (Pass.) Tassi SPECIES
-=======
+# Macrophoma cocophila (Pass.) Tassi SPECIES
 
 #### Status
 ACCEPTED

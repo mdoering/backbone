@@ -1,17 +1,16 @@
-Arnoldia clavisporus D.J. Gray & Morgan-Jones SPECIES
-=======
+# Cladobotryum clavisporum (D.J. Gray & Morgan-Jones) Rogerson & Samuels, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 85(2): 252 (1993)
 
 #### Original name
-Arnoldia clavisporus D.J. Gray & Morgan-Jones
+Arnoldia clavispora D.J. Gray & Morgan-Jones, 1980
 
 ### Remarks
 null

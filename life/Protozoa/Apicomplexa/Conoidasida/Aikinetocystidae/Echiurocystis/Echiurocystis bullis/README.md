@@ -1,8 +1,7 @@
-Enterocystis bullis Noble, 1938 SPECIES
-=======
+# Echiurocystis bullis Noble, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

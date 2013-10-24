@@ -1,5 +1,4 @@
-Phyllachora smilacis Gonz. Frag. ex Trotter, 1926 SPECIES
-=======
+# Phyllachora smilacis Gonz. Frag. ex Trotter, 1926 SPECIES
 
 #### Status
 DOUBTFUL

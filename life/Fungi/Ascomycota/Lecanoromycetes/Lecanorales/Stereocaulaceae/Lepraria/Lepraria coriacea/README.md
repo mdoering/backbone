@@ -1,5 +1,4 @@
-Lepraria coriacea SPECIES
-=======
+# Lepraria coriacea SPECIES
 
 #### Status
 ACCEPTED

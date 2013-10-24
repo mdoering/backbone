@@ -1,5 +1,4 @@
-Puccinia uleana Henn. SPECIES
-=======
+# Puccinia uleana Henn. SPECIES
 
 #### Status
 ACCEPTED

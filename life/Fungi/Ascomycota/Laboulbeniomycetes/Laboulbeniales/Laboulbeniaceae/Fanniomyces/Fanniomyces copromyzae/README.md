@@ -1,5 +1,4 @@
-Fanniomyces copromyzae Huldén SPECIES
-=======
+# Fanniomyces copromyzae Huldén SPECIES
 
 #### Status
 ACCEPTED

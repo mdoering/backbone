@@ -1,5 +1,4 @@
-Collybia urbica Mont. SPECIES
-=======
+# Collybia urbica Mont. SPECIES
 
 #### Status
 ACCEPTED

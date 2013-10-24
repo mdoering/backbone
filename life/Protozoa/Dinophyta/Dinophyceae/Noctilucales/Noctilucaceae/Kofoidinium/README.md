@@ -1,5 +1,4 @@
-Kofoidinium F. J. R. Taylor, 1976 GENUS
-=======
+# Kofoidinium F. J. R. Taylor, 1976 GENUS
 
 #### Status
 ACCEPTED

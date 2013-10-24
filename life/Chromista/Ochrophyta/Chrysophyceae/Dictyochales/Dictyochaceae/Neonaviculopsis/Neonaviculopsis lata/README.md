@@ -1,5 +1,4 @@
-Neonaviculopsis lata var. obliqua (D. Bukry) T. V. Desikachary & P. Prema VARIETY
-=======
+# Neonaviculopsis lata (Deflandre) T. V. Desikachary & S. Gowthaman SPECIES
 
 #### Status
 ACCEPTED

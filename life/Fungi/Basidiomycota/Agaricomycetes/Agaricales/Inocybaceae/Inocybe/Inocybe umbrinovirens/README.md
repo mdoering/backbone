@@ -1,5 +1,4 @@
-Inocybe umbrinovirens E. Horak SPECIES
-=======
+# Inocybe umbrinovirens E. Horak SPECIES
 
 #### Status
 ACCEPTED

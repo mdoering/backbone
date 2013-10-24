@@ -1,5 +1,4 @@
-Lachnum orinocense (Pat. & Gaillard) W.Y. Zhuang SPECIES
-=======
+# Lachnum orinocense (Pat. & Gaillard) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

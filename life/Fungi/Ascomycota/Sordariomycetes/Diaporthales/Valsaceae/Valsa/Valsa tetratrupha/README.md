@@ -1,17 +1,16 @@
-Valsa tetratrupha var. tetratrupha VARIETY
-=======
+# Valsa tetratrupha SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Valsa tetratrupha var. tetratrupha
+null
 
 ### Remarks
 null

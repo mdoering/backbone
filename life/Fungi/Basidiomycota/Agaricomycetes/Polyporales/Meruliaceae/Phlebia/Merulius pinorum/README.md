@@ -1,5 +1,4 @@
-Merulius pinorum Britzelm. SPECIES
-=======
+# Merulius pinorum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

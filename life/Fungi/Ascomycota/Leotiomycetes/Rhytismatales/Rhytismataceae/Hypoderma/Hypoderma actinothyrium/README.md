@@ -1,5 +1,4 @@
-Hypoderma actinothyrium (Fuckel) Kuntze SPECIES
-=======
+# Hypoderma actinothyrium (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

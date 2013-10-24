@@ -1,5 +1,4 @@
-Collema fuliginellum Nyl. SPECIES
-=======
+# Collema fuliginellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

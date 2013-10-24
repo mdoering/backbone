@@ -1,5 +1,4 @@
-Bowseria arctowskii Sinniger, Lecroq, Majewski & Pawlowski, 2008 SPECIES
-=======
+# Bowseria arctowskii Sinniger, Lecroq, Majewski & Pawlowski, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta senecionicola Petr. SPECIES
-=======
+# Phyllosticta senecionicola Petr. SPECIES
 
 #### Status
 ACCEPTED

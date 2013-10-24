@@ -1,5 +1,4 @@
-Mesophilobacter marinus Nishimura et al., 1989 SPECIES
-=======
+# Mesophilobacter marinus Nishimura et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

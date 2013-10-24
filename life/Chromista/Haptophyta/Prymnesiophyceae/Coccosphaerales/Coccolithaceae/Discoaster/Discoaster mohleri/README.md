@@ -1,5 +1,4 @@
-Discoaster mohleri Bukry & Percival, 1971 SPECIES
-=======
+# Discoaster mohleri Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

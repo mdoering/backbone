@@ -1,5 +1,4 @@
-Neottiella albo-cincta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Neottiella albo-cincta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

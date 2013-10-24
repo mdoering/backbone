@@ -1,5 +1,4 @@
-Collybia blandula Berk. SPECIES
-=======
+# Collybia blandula Berk. SPECIES
 
 #### Status
 ACCEPTED

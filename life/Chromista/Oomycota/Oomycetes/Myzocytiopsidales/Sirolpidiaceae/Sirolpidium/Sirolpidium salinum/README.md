@@ -1,17 +1,16 @@
-Achlyogeton salinum P.A. Dang. SPECIES
-=======
+# Sirolpidium salinum (P.A. Dang.) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 360 (2001)
 
 #### Original name
-Achlyogeton salinum P.A. Dang.
+Achlyogeton salinus P.A. Dang., 1932
 
 ### Remarks
 null

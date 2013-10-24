@@ -1,5 +1,4 @@
-Fragilaria austriaca (Grunow) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
-=======
+# Fragilaria austriaca (Grunow) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

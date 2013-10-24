@@ -1,8 +1,7 @@
-Fusarium zizyphinum Pass. SPECIES
-=======
+# Fusarium ziziphinum Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium zizyphinum Pass.
+Fusarium ziziphinum Pass.
 
 ### Remarks
 null

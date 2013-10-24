@@ -1,5 +1,4 @@
-Septoria cistina Andrian. SPECIES
-=======
+# Septoria cistina Andrian. SPECIES
 
 #### Status
 ACCEPTED

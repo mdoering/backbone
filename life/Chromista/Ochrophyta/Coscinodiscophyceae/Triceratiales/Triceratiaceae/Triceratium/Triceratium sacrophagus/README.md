@@ -1,5 +1,4 @@
-Triceratium sacrophagus Castracane SPECIES
-=======
+# Triceratium sacrophagus Castracane SPECIES
 
 #### Status
 ACCEPTED

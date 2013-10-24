@@ -1,5 +1,4 @@
-Patinella carteri Berk. SPECIES
-=======
+# Patinella carteri Berk. SPECIES
 
 #### Status
 ACCEPTED

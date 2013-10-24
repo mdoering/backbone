@@ -1,5 +1,4 @@
-Inocybe borealis J.E. Lange SPECIES
-=======
+# Inocybe borealis J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

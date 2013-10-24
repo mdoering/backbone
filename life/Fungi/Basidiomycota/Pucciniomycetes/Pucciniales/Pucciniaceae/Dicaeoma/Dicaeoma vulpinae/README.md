@@ -1,5 +1,4 @@
-Dicaeoma vulpinae (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma vulpinae (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

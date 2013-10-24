@@ -1,5 +1,4 @@
-Rhabdocystis Boldt, 1910 GENUS
-=======
+# Rhabdocystis Boldt, 1910 GENUS
 
 #### Status
 ACCEPTED

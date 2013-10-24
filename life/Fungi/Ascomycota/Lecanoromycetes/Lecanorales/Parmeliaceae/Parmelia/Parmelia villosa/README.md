@@ -1,5 +1,4 @@
-Parmelia villosa Ach. SPECIES
-=======
+# Parmelia villosa Ach. SPECIES
 
 #### Status
 ACCEPTED

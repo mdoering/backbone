@@ -1,5 +1,4 @@
-Phomopsis amygdaliana Canonaco SPECIES
-=======
+# Phomopsis amygdaliana Canonaco SPECIES
 
 #### Status
 ACCEPTED

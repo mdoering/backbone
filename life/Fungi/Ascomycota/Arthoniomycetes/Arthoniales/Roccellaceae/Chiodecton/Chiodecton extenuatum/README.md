@@ -1,5 +1,4 @@
-Chiodecton extenuatum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton extenuatum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia wyomensis Arthur SPECIES
-=======
+# Puccinia wyomensis Arthur SPECIES
 
 #### Status
 ACCEPTED

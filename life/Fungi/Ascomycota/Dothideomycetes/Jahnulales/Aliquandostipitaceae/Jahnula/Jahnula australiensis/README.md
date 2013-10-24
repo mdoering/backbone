@@ -1,5 +1,4 @@
-Jahnula australiensis K.D. Hyde SPECIES
-=======
+# Jahnula australiensis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

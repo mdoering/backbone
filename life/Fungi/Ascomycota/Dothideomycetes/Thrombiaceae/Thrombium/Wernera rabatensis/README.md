@@ -1,5 +1,4 @@
-Wernera rabatensis Zschacke ex Werner SPECIES
-=======
+# Wernera rabatensis Zschacke ex Werner SPECIES
 
 #### Status
 ACCEPTED

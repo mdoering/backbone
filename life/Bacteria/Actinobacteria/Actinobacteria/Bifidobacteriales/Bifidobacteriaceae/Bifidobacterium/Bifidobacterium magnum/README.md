@@ -1,5 +1,4 @@
-Bifidobacterium magnum Scardovi and Zani, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium magnum Scardovi and Zani, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

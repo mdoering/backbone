@@ -1,5 +1,4 @@
-Tulostoma macrosporium G. Cunn., 1925 SPECIES
-=======
+# Tulostoma macrosporium G. Cunn., 1925 SPECIES
 
 #### Status
 ACCEPTED

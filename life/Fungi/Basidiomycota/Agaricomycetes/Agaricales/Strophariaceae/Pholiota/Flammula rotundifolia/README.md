@@ -1,5 +1,4 @@
-Flammula rotundifolia (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Flammula rotundifolia (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

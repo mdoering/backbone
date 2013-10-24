@@ -1,5 +1,4 @@
-Queletia andina J.E. Wright SPECIES
-=======
+# Queletia andina J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

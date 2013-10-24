@@ -1,5 +1,4 @@
-Buellia patouillardii (Hue) Zahlbr. SPECIES
-=======
+# Buellia patouillardii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

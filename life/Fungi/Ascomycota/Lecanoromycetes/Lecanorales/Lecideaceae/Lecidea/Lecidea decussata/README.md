@@ -1,5 +1,4 @@
-Lecidea decussata (Ach.) Th. Fr. SPECIES
-=======
+# Lecidea decussata (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazziniella maranhensis Bat., Cavalc. & O.B. Mello SPECIES
-=======
+# Spegazziniella maranhensis Bat., Cavalc. & O.B. Mello SPECIES
 
 #### Status
 ACCEPTED

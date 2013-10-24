@@ -1,5 +1,4 @@
-Antherospora scillae (Cif.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
-=======
+# Antherospora scillae (Cif.) R. Bauer, M. Lutz, Begerow, Piatek & Vánky, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria macrorhiza (Lasch) Jacob {?} SPECIES
-=======
+# Armillaria macrorhiza (Lasch) Jacob {?} SPECIES
 
 #### Status
 ACCEPTED

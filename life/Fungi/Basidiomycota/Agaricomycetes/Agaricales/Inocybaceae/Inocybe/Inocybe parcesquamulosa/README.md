@@ -1,5 +1,4 @@
-Inocybe parcesquamulosa Nespiak SPECIES
-=======
+# Inocybe parcesquamulosa Nespiak SPECIES
 
 #### Status
 ACCEPTED

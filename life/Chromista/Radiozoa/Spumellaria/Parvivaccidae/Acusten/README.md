@@ -1,5 +1,4 @@
-Acusten GENUS
-=======
+# Acusten GENUS
 
 #### Status
 ACCEPTED

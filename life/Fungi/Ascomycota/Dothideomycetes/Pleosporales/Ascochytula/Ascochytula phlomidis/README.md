@@ -1,5 +1,4 @@
-Ascochytula phlomidis Jaap SPECIES
-=======
+# Ascochytula phlomidis Jaap SPECIES
 
 #### Status
 ACCEPTED

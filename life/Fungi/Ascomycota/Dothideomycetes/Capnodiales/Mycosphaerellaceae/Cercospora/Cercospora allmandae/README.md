@@ -1,5 +1,4 @@
-Cercospora allmandae SPECIES
-=======
+# Cercospora allmandae SPECIES
 
 #### Status
 ACCEPTED

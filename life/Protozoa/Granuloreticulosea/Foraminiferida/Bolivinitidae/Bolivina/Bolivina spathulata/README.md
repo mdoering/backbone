@@ -1,5 +1,4 @@
-Bolivina spathulata (Williamson) SPECIES
-=======
+# Bolivina spathulata (Williamson) SPECIES
 
 #### Status
 ACCEPTED

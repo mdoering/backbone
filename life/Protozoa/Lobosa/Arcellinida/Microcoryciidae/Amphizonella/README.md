@@ -1,5 +1,4 @@
-Amphizonella Greeff, 1866 GENUS
-=======
+# Amphizonella Greeff, 1866 GENUS
 
 #### Status
 ACCEPTED

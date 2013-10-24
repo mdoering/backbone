@@ -1,17 +1,16 @@
-Uncinia scintillans Graddon, 1974 SPECIES
-=======
+# Phaeoscypha cladii (Nag Raj & W.B. Kendr.) Spooner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 63(3): 481 (1974)
+in Kirk & Spooner, Kew Bull. 38(4): 574 (1984)
 
 #### Original name
-Uncinia scintillans Graddon, 1974
+Hyaloscypha cladii Nag Raj & W.B. Kendr., 1975
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytosporina staphyleae Cooke SPECIES
-=======
+# Cytosporina staphyleae Cooke SPECIES
 
 #### Status
 ACCEPTED

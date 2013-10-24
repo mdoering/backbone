@@ -1,17 +1,16 @@
-Cercospora longissima var. longissima VARIETY
-=======
+# Cercospora longissima Cugini ex Traverso, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 17: 217 (1903)
+Syll. fung. (Abellini) 18: 607 (1906)
 
 #### Original name
-Cercospora longissima var. longissima
+Cercospora longissima Cugini ex Traverso, 1903
 
 ### Remarks
 null

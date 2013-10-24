@@ -1,5 +1,4 @@
-Mycena aurorea Maas Geest. & de Meijer SPECIES
-=======
+# Mycena aurorea Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

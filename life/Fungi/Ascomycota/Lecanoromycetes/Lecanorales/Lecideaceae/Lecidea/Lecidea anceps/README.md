@@ -1,5 +1,4 @@
-Lecidea anceps (C. Knight) Nyl. SPECIES
-=======
+# Lecidea anceps (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium mygindae G. Winter SPECIES
-=======
+# Gloeosporium mygindae G. Winter SPECIES
 
 #### Status
 ACCEPTED

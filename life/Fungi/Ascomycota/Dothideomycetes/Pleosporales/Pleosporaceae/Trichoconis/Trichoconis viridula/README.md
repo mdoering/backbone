@@ -1,5 +1,4 @@
-Trichoconis viridula Deighton & Piroz. SPECIES
-=======
+# Trichoconis viridula Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena subtenerrima Singer SPECIES
-=======
+# Mycena subtenerrima Singer SPECIES
 
 #### Status
 ACCEPTED

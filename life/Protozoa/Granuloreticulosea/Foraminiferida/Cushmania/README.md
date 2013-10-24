@@ -1,5 +1,4 @@
-Cushmania Silvestri, 1925 GENUS
-=======
+# Cushmania Silvestri, 1925 GENUS
 
 #### Status
 ACCEPTED

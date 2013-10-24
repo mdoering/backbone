@@ -1,5 +1,4 @@
-Scolicotrichum uniseptatum (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Scolicotrichum uniseptatum (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

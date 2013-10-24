@@ -1,5 +1,4 @@
-Phoma acetosellae (A.L. Sm. & Ramsb.) Aa & Boerema, 2002 SPECIES
-=======
+# Phoma acetosellae (A.L. Sm. & Ramsb.) Aa & Boerema, 2002 SPECIES
 
 #### Status
 ACCEPTED

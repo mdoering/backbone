@@ -1,17 +1,16 @@
-Microthelia confluens Müll. Arg. SPECIES
-=======
+# Mycomicrothelia confluens (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 75 (1985)
 
 #### Original name
-null
+Microthelia confluens Müll. Arg.
 
 ### Remarks
 null

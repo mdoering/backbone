@@ -1,5 +1,4 @@
-Fenestella quercina Ellis & Everh. SPECIES
-=======
+# Fenestella quercina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis radiata Indoh SPECIES
-=======
+# Syncephalis radiata Indoh SPECIES
 
 #### Status
 ACCEPTED

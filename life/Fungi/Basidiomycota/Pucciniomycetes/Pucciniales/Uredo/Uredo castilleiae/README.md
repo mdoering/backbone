@@ -1,5 +1,4 @@
-Uredo castilleiae Dietel & Holw. SPECIES
-=======
+# Uredo castilleiae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

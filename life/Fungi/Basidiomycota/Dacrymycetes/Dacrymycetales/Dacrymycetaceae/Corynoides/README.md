@@ -1,5 +1,4 @@
-Corynoides GENUS
-=======
+# Corynoides GENUS
 
 #### Status
 ACCEPTED

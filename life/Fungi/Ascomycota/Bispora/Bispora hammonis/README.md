@@ -1,8 +1,7 @@
-Bispora hamonis (Ehrenb.) Reichert SPECIES
-=======
+# Bispora hammonis (Ehrenb.) Reichert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Pseudocercospora lichenum (Keissl.) D. Hawksw. SPECIES
-=======
+# Pseudocercospora lichenum (Keissl.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

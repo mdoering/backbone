@@ -1,5 +1,4 @@
-Sirosiphon Kütz. GENUS
-=======
+# Sirosiphon Kütz. GENUS
 
 #### Status
 ACCEPTED

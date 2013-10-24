@@ -1,5 +1,4 @@
-Peziza adnata Berk. & M.A. Curtis SPECIES
-=======
+# Peziza adnata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

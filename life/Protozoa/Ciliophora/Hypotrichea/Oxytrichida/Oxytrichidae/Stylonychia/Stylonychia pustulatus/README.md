@@ -1,5 +1,4 @@
-Stylonychia pustulatus SPECIES
-=======
+# Stylonychia pustulatus SPECIES
 
 #### Status
 ACCEPTED

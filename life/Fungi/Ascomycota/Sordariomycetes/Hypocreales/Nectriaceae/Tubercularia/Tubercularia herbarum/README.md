@@ -1,5 +1,4 @@
-Tubercularia herbarum Fr. SPECIES
-=======
+# Tubercularia herbarum Fr. SPECIES
 
 #### Status
 ACCEPTED

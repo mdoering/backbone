@@ -1,5 +1,4 @@
-Marasmiellus nanus (Massee) Dennis SPECIES
-=======
+# Marasmiellus nanus (Massee) Dennis SPECIES
 
 #### Status
 ACCEPTED

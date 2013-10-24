@@ -1,5 +1,4 @@
-Septoria echinopsis Moesz SPECIES
-=======
+# Septoria echinopsis Moesz SPECIES
 
 #### Status
 ACCEPTED

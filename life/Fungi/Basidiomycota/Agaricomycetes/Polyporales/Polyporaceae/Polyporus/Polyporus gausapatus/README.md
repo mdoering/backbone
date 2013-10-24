@@ -1,5 +1,4 @@
-Polyporus gausapatus Kalchbr. SPECIES
-=======
+# Polyporus gausapatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

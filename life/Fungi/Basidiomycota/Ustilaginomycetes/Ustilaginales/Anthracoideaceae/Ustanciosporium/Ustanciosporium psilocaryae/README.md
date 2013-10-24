@@ -1,14 +1,13 @@
-Cintractia psilocaryae (Tracy & Earle) Clinton, 1902 SPECIES
-=======
+# Ustanciosporium psilocaryae (Tracy & Earle) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 70(3-4): 349 (2000)
 
 #### Original name
 Ustilago psilocaryae Tracy & Earle, 1899

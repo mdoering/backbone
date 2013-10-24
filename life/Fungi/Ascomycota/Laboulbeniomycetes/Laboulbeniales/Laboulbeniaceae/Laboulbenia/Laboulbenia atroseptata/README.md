@@ -1,5 +1,4 @@
-Laboulbenia atroseptata T. Majewski SPECIES
-=======
+# Laboulbenia atroseptata T. Majewski SPECIES
 
 #### Status
 ACCEPTED

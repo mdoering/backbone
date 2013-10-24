@@ -1,5 +1,4 @@
-Parmelia areolata (Hale) Brusse SPECIES
-=======
+# Parmelia areolata (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

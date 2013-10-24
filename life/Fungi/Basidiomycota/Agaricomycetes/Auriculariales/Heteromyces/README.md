@@ -1,5 +1,4 @@
-Heteromyces GENUS
-=======
+# Heteromyces GENUS
 
 #### Status
 ACCEPTED

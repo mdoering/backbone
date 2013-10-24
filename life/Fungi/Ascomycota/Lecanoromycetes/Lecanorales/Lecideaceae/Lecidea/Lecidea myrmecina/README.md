@@ -1,5 +1,4 @@
-Lecidea myrmecina Spreng. SPECIES
-=======
+# Lecidea myrmecina Spreng. SPECIES
 
 #### Status
 ACCEPTED

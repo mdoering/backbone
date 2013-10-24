@@ -1,5 +1,4 @@
-Erysiphe poeltii U. Braun SPECIES
-=======
+# Erysiphe poeltii U. Braun SPECIES
 
 #### Status
 ACCEPTED

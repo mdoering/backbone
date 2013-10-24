@@ -1,5 +1,4 @@
-Parmotrema maraense Hale SPECIES
-=======
+# Parmotrema maraense Hale SPECIES
 
 #### Status
 ACCEPTED

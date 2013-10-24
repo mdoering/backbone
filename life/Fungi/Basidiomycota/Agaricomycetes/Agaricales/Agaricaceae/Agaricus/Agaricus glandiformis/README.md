@@ -1,5 +1,4 @@
-Agaricus glandiformis Wm. G. Sm. SPECIES
-=======
+# Agaricus glandiformis Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

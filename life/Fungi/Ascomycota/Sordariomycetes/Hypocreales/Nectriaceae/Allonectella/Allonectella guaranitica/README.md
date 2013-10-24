@@ -1,14 +1,13 @@
-Calonectria guaranitica Speg., 1885 SPECIES
-=======
+# Allonectella guaranitica (Speg.) Rossman, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 19(1): 42 (1885)
+Mycotaxon 8(2): 514 (1979)
 
 #### Original name
 Calonectria guaranitica Speg., 1885

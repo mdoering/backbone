@@ -1,5 +1,4 @@
-Lecanora paramerae I. Martínez, Aragón & Lumbsch SPECIES
-=======
+# Lecanora paramerae I. Martínez, Aragón & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

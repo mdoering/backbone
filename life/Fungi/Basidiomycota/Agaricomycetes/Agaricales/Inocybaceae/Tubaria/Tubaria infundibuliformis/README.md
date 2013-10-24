@@ -1,5 +1,4 @@
-Tubaria infundibuliformis Henn. & E. Nyman SPECIES
-=======
+# Tubaria infundibuliformis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

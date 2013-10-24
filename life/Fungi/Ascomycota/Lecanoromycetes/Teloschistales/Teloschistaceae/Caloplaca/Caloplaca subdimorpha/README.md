@@ -1,5 +1,4 @@
-Caloplaca subdimorpha var. subdimorpha VARIETY
-=======
+# Caloplaca subdimorpha Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. svenska Vetensk-Akad. Handl. 57(6): 47 (1917)
 
 #### Original name
-Caloplaca subdimorpha var. subdimorpha
+Caloplaca subdimorpha Zahlbr.
 
 ### Remarks
 null

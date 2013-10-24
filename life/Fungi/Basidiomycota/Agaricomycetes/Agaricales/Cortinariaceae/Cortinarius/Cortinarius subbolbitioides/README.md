@@ -1,5 +1,4 @@
-Cortinarius subbolbitioides Reumaux SPECIES
-=======
+# Cortinarius subbolbitioides Reumaux SPECIES
 
 #### Status
 ACCEPTED

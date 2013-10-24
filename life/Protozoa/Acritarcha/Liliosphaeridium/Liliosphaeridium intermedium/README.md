@@ -1,5 +1,4 @@
-Liliosphaeridium intermedium (Eisenack, 1976) Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Liliosphaeridium intermedium (Eisenack, 1976) Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

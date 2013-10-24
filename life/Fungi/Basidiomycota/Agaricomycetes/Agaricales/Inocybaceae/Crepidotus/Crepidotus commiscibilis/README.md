@@ -1,5 +1,4 @@
-Crepidotus commiscibilis (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Crepidotus commiscibilis (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Labyrinthorhiza cienkowskii (W. Zopf, 1892) M. Chadefaud, 1956 SPECIES
-=======
+# Labyrinthula cienkowskii Zopf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Labyrinthula cienkowskii Zopf
 
 ### Remarks
 null

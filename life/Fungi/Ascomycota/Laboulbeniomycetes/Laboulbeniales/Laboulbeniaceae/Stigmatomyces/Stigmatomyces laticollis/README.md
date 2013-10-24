@@ -1,5 +1,4 @@
-Stigmatomyces laticollis Thaxt. SPECIES
-=======
+# Stigmatomyces laticollis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

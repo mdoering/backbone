@@ -1,5 +1,4 @@
-Entoloma divum Corner & E. Horak SPECIES
-=======
+# Entoloma divum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

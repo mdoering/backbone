@@ -1,5 +1,4 @@
-Anthostoma adustum (Cooke & Peck) Sacc. SPECIES
-=======
+# Anthostoma adustum (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

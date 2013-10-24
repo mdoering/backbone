@@ -1,17 +1,16 @@
-Acaulopage acanthospora var. magna Juniper, 1953 VARIETY
-=======
+# Acaulopage acanthospora Drechsler, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 36(4): 356 (1953)
+Mycologia 30: 151 (1938)
 
 #### Original name
-Acaulopage acanthospora var. magna Juniper, 1953
+Acaulopage acanthospora Drechsler, 1938
 
 ### Remarks
 null

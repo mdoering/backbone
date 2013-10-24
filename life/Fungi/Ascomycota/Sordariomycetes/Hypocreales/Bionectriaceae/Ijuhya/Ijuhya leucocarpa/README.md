@@ -1,5 +1,4 @@
-Ijuhya leucocarpa (Samuels) Rossman & Samuels SPECIES
-=======
+# Ijuhya leucocarpa (Samuels) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

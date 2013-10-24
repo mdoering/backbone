@@ -1,5 +1,4 @@
-Eriopezia microspora (Kanouse) Dennis SPECIES
-=======
+# Eriopezia microspora (Kanouse) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tremella damaecornis Möller SPECIES
-=======
+# Holtermannia damicornis (Möller) Kobayasi, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sci. Rep. Tokyo Bunrika Daig. , Sect. B 3: 79 (1937)
 
 #### Original name
-Tremella damaecornis Möller
+Tremella damicornis Möller, 1895
 
 ### Remarks
 null

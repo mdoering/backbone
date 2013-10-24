@@ -1,5 +1,4 @@
-Stagonospora pedunculi Ellis & Everh. SPECIES
-=======
+# Stagonospora pedunculi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

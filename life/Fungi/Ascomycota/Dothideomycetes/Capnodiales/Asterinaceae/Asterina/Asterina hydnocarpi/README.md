@@ -1,5 +1,4 @@
-Asterina hydnocarpi Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina hydnocarpi Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

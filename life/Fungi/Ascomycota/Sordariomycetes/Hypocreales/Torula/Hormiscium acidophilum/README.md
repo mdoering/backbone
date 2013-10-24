@@ -1,5 +1,4 @@
-Hormiscium acidophilum Okada {?} SPECIES
-=======
+# Hormiscium acidophilum Okada {?} SPECIES
 
 #### Status
 ACCEPTED

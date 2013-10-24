@@ -1,5 +1,4 @@
-Phoma durionis Petch SPECIES
-=======
+# Phoma durionis Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporon undulatum Windisch SPECIES
-=======
+# Trichosporon undulatum Windisch SPECIES
 
 #### Status
 ACCEPTED

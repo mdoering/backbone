@@ -1,5 +1,4 @@
-Asterothyriomyces pittieri Cif. & Tomas. SPECIES
-=======
+# Asterothyriomyces pittieri Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

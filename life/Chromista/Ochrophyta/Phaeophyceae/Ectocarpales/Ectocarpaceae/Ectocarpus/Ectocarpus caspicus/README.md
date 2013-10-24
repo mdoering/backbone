@@ -1,5 +1,4 @@
-Ectocarpus caspicus Henckel SPECIES
-=======
+# Ectocarpus caspicus Henckel SPECIES
 
 #### Status
 ACCEPTED

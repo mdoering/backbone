@@ -1,5 +1,4 @@
-Stilbella buloloensis Matsushima SPECIES
-=======
+# Stilbella buloloensis Matsushima SPECIES
 
 #### Status
 ACCEPTED

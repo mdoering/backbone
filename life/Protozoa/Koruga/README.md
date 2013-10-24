@@ -1,5 +1,4 @@
-Koruga Cleveland GENUS
-=======
+# Koruga Cleveland GENUS
 
 #### Status
 ACCEPTED

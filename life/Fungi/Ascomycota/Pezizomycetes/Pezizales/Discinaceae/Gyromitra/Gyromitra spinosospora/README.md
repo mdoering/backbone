@@ -1,5 +1,4 @@
-Gyromitra spinosospora (Lucchini & Pelland.) A. Koch, Christan & Lohmeyer SPECIES
-=======
+# Gyromitra spinosospora (Lucchini & Pelland.) A. Koch, Christan & Lohmeyer SPECIES
 
 #### Status
 ACCEPTED

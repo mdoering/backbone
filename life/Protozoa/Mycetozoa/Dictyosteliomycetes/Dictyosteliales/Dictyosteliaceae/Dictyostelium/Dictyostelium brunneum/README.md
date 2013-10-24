@@ -1,5 +1,4 @@
-Dictyostelium brunneum Kawabe, 1982 SPECIES
-=======
+# Dictyostelium brunneum Kawabe, 1982 SPECIES
 
 #### Status
 ACCEPTED

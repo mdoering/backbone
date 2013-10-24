@@ -1,5 +1,4 @@
-Martensella Coem. GENUS
-=======
+# Martensella Coem. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnoascus johnstonii (Massee & E.S. Salmon) G.F. Orr & Kuehn SPECIES
-=======
+# Gymnoascus johnstonii (Massee & E.S. Salmon) G.F. Orr & Kuehn SPECIES
 
 #### Status
 ACCEPTED

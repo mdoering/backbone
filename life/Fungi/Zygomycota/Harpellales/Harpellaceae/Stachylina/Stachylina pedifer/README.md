@@ -1,5 +1,4 @@
-Stachylina pedifer M.C. Williams & Lichtw., 1983 SPECIES
-=======
+# Stachylina pedifer M.C. Williams & Lichtw., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetradinium simplex Prescott SPECIES
-=======
+# Tetradinium simplex Prescott SPECIES
 
 #### Status
 ACCEPTED

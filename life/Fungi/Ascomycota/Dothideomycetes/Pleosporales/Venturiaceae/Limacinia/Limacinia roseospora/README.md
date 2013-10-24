@@ -1,5 +1,4 @@
-Limacinia roseospora Höhn. SPECIES
-=======
+# Limacinia roseospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

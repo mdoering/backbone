@@ -1,5 +1,4 @@
-Asterella aliena (Ellis & Everh.) Sacc. & Trotter SPECIES
-=======
+# Asterella aliena (Ellis & Everh.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

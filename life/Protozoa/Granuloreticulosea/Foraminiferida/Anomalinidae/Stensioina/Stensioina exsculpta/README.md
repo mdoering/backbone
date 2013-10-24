@@ -1,5 +1,4 @@
-Stensioina exsculpta (Reuss, 1860) SPECIES
-=======
+# Stensioina exsculpta (Reuss, 1860) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryphostoma spissus Sliter, 1969 SPECIES
-=======
+# Coryphostoma spissus Sliter, 1969 SPECIES
 
 #### Status
 ACCEPTED

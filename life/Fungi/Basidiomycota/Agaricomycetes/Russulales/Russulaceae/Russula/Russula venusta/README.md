@@ -1,5 +1,4 @@
-Russula venusta Murrill SPECIES
-=======
+# Russula venusta Murrill SPECIES
 
 #### Status
 ACCEPTED

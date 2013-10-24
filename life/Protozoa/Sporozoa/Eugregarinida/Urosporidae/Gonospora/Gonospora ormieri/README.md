@@ -1,5 +1,4 @@
-Gonospora ormieri Porchet, 1978 SPECIES
-=======
+# Gonospora ormieri Porchet, 1978 SPECIES
 
 #### Status
 ACCEPTED

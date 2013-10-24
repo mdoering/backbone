@@ -1,5 +1,4 @@
-Ormosella schweyeri Kofoid & Campbell, 1929 SPECIES
-=======
+# Ormosella schweyeri Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diorygma salvadoriense Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma salvadoriense Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

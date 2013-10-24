@@ -1,5 +1,4 @@
-Lecidea spheroides SPECIES
-=======
+# Lecidea spheroides SPECIES
 
 #### Status
 ACCEPTED

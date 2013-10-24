@@ -1,5 +1,4 @@
-Phytophthora idaei D.M. Kenn., 1995 SPECIES
-=======
+# Phytophthora idaei D.M. Kenn., 1995 SPECIES
 
 #### Status
 ACCEPTED

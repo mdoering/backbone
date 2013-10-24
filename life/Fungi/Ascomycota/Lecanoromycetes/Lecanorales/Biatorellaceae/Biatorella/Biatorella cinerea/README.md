@@ -1,5 +1,4 @@
-Biatorella cinerea var. cinerea VARIETY
-=======
+# Biatorella cinerea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorella cinerea var. cinerea
+null
 
 ### Remarks
 null

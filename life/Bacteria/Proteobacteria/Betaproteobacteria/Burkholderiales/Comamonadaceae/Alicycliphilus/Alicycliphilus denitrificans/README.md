@@ -1,5 +1,4 @@
-Alicycliphilus denitrificans Mechichi et al., 2003 SPECIES
-=======
+# Alicycliphilus denitrificans Mechichi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

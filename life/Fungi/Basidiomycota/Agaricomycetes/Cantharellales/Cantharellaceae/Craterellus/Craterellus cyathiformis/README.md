@@ -1,5 +1,4 @@
-Craterellus cyathiformis Pers. SPECIES
-=======
+# Craterellus cyathiformis Pers. SPECIES
 
 #### Status
 ACCEPTED

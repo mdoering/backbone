@@ -1,5 +1,4 @@
-Corticium puteanum SPECIES
-=======
+# Corticium puteanum SPECIES
 
 #### Status
 ACCEPTED

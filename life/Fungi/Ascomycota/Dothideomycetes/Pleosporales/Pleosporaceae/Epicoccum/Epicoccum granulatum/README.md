@@ -1,17 +1,16 @@
-Epicoccum granulatum var. granulatum VARIETY
-=======
+# Epicoccum granulatum Penz., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 8): 487 (1882)
 
 #### Original name
-Epicoccum granulatum var. granulatum
+Epicoccum granulatum Penz., 1882
 
 ### Remarks
 null

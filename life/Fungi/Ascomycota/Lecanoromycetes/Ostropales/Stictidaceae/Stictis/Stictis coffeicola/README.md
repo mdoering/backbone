@@ -1,5 +1,4 @@
-Stictis coffeicola Av.-Saccá SPECIES
-=======
+# Stictis coffeicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

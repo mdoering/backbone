@@ -1,5 +1,4 @@
-Phellinus adhaerens J.E. Wright & Blumenf., 1984 SPECIES
-=======
+# Phellinus adhaerens J.E. Wright & Blumenf., 1984 SPECIES
 
 #### Status
 ACCEPTED

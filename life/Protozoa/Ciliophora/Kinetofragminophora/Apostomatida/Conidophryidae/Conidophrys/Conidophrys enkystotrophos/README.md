@@ -1,5 +1,4 @@
-Conidophrys enkystotrophos SPECIES
-=======
+# Conidophrys enkystotrophos SPECIES
 
 #### Status
 ACCEPTED

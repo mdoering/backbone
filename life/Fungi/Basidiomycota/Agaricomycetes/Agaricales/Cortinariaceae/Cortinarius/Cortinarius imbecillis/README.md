@@ -1,5 +1,4 @@
-Cortinarius imbecillis M.M. Moser SPECIES
-=======
+# Cortinarius imbecillis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

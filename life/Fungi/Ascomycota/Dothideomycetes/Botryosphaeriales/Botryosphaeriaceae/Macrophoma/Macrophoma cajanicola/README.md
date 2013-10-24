@@ -1,5 +1,4 @@
-Macrophoma cajanicola Pavgi & R.A. Singh SPECIES
-=======
+# Macrophoma cajanicola Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Restiosporium eurychordae Vánky, 2006 SPECIES
-=======
+# Restiosporium eurychordae Vánky, 2006 SPECIES
 
 #### Status
 ACCEPTED

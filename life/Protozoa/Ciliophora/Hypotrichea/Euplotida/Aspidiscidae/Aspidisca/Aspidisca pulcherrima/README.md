@@ -1,5 +1,4 @@
-Aspidisca pulcherrima subsp. pulcherrima Kahl, 1932 SUBSPECIES
-=======
+# Aspidisca pulcherrima Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

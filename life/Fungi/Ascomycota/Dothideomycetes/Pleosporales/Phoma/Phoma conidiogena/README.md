@@ -1,5 +1,4 @@
-Phoma conidiogena Schnegg SPECIES
-=======
+# Phoma conidiogena Schnegg SPECIES
 
 #### Status
 ACCEPTED

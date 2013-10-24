@@ -1,5 +1,4 @@
-Mycosphaerella kochiae Tomilin SPECIES
-=======
+# Mycosphaerella kochiae Tomilin SPECIES
 
 #### Status
 ACCEPTED

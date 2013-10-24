@@ -1,5 +1,4 @@
-Thelidium tiroliense Zschacke SPECIES
-=======
+# Thelidium tiroliense Zschacke SPECIES
 
 #### Status
 ACCEPTED

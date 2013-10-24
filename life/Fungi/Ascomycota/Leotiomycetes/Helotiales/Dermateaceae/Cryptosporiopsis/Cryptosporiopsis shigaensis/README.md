@@ -1,5 +1,4 @@
-Cryptosporiopsis shigaensis Matsush. SPECIES
-=======
+# Cryptosporiopsis shigaensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

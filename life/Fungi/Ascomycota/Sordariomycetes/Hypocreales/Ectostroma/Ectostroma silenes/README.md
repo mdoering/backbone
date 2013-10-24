@@ -1,5 +1,4 @@
-Ectostroma silenes D. Sacc. SPECIES
-=======
+# Ectostroma silenes D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

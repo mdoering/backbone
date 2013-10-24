@@ -1,5 +1,4 @@
-Ceratium schroederi Nie, 1936 SPECIES
-=======
+# Ceratium schroederi Nie, 1936 SPECIES
 
 #### Status
 ACCEPTED

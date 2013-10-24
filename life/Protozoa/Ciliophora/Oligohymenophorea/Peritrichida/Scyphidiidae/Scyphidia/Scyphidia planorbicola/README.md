@@ -1,5 +1,4 @@
-Scyphidia planorbicola Dumas, 1929 SPECIES
-=======
+# Scyphidia planorbicola Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

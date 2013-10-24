@@ -1,5 +1,4 @@
-Sporocadus georginae Corda SPECIES
-=======
+# Sporocadus georginae Corda SPECIES
 
 #### Status
 ACCEPTED

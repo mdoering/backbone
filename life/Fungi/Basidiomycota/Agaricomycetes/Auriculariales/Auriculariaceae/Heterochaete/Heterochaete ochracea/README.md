@@ -1,5 +1,4 @@
-Heterochaete ochracea var. ochracea VARIETY
-=======
+# Heterochaete ochracea Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 9: 140 (1893)
 
 #### Original name
-Heterochaete ochracea var. ochracea
+Heterochaete ochracea Pat.
 
 ### Remarks
 null

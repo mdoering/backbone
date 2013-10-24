@@ -1,8 +1,7 @@
-Angulogerina hughesi var. picta Todd, 1948 VARIETY
-=======
+# Trifarina picta (Todd, 1948) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

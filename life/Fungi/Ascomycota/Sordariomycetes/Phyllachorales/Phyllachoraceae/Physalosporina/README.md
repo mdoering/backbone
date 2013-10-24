@@ -1,5 +1,4 @@
-Physalosporina GENUS
-=======
+# Physalosporina GENUS
 
 #### Status
 ACCEPTED

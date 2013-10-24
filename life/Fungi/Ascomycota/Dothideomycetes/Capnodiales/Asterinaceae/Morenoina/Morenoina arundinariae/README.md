@@ -1,5 +1,4 @@
-Morenoina arundinariae J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina arundinariae J.P. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

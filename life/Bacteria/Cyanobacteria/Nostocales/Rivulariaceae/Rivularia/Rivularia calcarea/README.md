@@ -1,5 +1,4 @@
-Rivularia calcarea Smith SPECIES
-=======
+# Rivularia calcarea Smith SPECIES
 
 #### Status
 ACCEPTED

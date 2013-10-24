@@ -1,5 +1,4 @@
-Sphinctrina corallina (Hepp) Zwackh SPECIES
-=======
+# Sphinctrina corallina (Hepp) Zwackh SPECIES
 
 #### Status
 ACCEPTED

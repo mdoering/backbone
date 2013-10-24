@@ -1,5 +1,4 @@
-Monascus eremophilus A.D. Hocking & Pitt, 1988 SPECIES
-=======
+# Monascus eremophilus A.D. Hocking & Pitt, 1988 SPECIES
 
 #### Status
 ACCEPTED

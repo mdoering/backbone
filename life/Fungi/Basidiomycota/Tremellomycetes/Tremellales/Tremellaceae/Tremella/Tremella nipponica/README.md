@@ -1,5 +1,4 @@
-Tremella nipponica (Kobayasi) Wojewoda SPECIES
-=======
+# Tremella nipponica (Kobayasi) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rostrella Fabre, 1879 GENUS
-=======
+# Ceratocystis Ellis & Halsted, 1890 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 6 9: 102 (1879)
+New Jersey Agric. Coll. Exp. Sta. Bull. 76: 14 (1890)
 
 #### Original name
-Rostrella Fabre, 1879
+Ceratocystis Ellis & Halsted, 1890
 
 ### Remarks
 null

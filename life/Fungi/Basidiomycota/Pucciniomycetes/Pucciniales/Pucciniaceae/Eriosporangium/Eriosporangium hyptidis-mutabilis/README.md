@@ -1,5 +1,4 @@
-Eriosporangium hyptidis-mutabilis (Mayor) Syd. SPECIES
-=======
+# Eriosporangium hyptidis-mutabilis (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

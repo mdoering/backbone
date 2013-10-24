@@ -1,5 +1,4 @@
-Eurotium epixylon Kunze & J.C. Schmidt SPECIES
-=======
+# Eurotium epixylon Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

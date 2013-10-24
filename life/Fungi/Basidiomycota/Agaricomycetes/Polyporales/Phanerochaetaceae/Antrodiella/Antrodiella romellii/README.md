@@ -1,14 +1,13 @@
-Poria romellii Donk, 1967 SPECIES
-=======
+# Antrodiella romellii (Donk) Niemelä, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 5(1): 84 (1967)
+Karstenia 22(1): 11 (1982)
 
 #### Original name
 Poria romellii Donk, 1967

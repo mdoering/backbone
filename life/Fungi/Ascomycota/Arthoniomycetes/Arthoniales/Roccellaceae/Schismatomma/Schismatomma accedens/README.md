@@ -1,5 +1,4 @@
-Schismatomma accedens (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma accedens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

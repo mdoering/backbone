@@ -1,5 +1,4 @@
-Pelagostrobilidium fallax (Zacharias, 1896) Krainer, 1991 SPECIES
-=======
+# Pelagostrobilidium fallax (Zacharias, 1896) Krainer, 1991 SPECIES
 
 #### Status
 ACCEPTED

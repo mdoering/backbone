@@ -1,5 +1,4 @@
-Dictyoarthrinium microsporum P.Rag. Rao & D. Rao SPECIES
-=======
+# Dictyoarthrinium microsporum P.Rag. Rao & D. Rao SPECIES
 
 #### Status
 ACCEPTED

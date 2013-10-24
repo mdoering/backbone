@@ -1,5 +1,4 @@
-Agaricus lividulus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus lividulus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

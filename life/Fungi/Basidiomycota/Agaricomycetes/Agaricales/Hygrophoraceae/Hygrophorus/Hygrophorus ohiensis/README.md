@@ -1,5 +1,4 @@
-Hygrophorus ohiensis Mont. SPECIES
-=======
+# Hygrophorus ohiensis Mont. SPECIES
 
 #### Status
 ACCEPTED

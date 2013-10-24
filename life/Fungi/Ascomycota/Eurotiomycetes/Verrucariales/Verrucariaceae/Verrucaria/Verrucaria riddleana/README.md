@@ -1,5 +1,4 @@
-Verrucaria riddleana R.C. Harris SPECIES
-=======
+# Verrucaria riddleana R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

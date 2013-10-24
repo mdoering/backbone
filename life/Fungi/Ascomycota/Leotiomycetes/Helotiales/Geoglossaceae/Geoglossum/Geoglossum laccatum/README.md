@@ -1,5 +1,4 @@
-Geoglossum laccatum W.Y. Zhuang SPECIES
-=======
+# Geoglossum laccatum W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

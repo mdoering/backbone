@@ -1,5 +1,4 @@
-Collybia pinastris (Kauffman) Mitchel & A.H. Sm. SPECIES
-=======
+# Collybia pinastris (Kauffman) Mitchel & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

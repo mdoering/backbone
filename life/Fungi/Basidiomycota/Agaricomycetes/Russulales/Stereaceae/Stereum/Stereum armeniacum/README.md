@@ -1,5 +1,4 @@
-Stereum armeniacum Boidin & Gilles, 1989 SPECIES
-=======
+# Stereum armeniacum Boidin & Gilles, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria depressa Petr. SPECIES
-=======
+# Amphisphaeria depressa Petr. SPECIES
 
 #### Status
 ACCEPTED

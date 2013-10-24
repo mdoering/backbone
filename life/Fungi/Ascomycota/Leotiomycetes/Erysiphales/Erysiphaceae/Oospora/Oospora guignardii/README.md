@@ -1,5 +1,4 @@
-Oospora guignardii Sauv. SPECIES
-=======
+# Oospora guignardii Sauv. SPECIES
 
 #### Status
 ACCEPTED

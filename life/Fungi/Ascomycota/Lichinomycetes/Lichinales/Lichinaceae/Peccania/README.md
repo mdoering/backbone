@@ -1,5 +1,4 @@
-Peccania A. Massal. ex Arnold GENUS
-=======
+# Peccania A. Massal. ex Arnold GENUS
 
 #### Status
 ACCEPTED

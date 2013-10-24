@@ -1,14 +1,13 @@
-Dermatocarpon leptophylloides (Nyl.) Zahlbr. SPECIES
-=======
+# Dermatocarpon leptophyllodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 219 (1921)
 
 #### Original name
 Endocarpon leptophyllodes Nyl.

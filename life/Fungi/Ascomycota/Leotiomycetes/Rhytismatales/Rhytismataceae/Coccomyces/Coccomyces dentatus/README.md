@@ -1,17 +1,16 @@
-Coccomyces dentatus var. dentatus VARIETY
-=======
+# Coccomyces dentatus (J.C. Schmidt & Kunze) Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 1): 59 (1877)
 
 #### Original name
-Coccomyces dentatus var. dentatus
+Phacidium dentatum J.C. Schmidt, 1817
 
 ### Remarks
 null

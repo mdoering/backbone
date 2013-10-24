@@ -1,5 +1,4 @@
-Cortinarius magaliae Rob. Henry SPECIES
-=======
+# Cortinarius magaliae Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps leucocephala Moureau SPECIES
-=======
+# Cordyceps leucocephala Moureau SPECIES
 
 #### Status
 ACCEPTED

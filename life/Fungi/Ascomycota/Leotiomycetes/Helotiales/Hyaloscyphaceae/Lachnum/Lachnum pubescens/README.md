@@ -1,5 +1,4 @@
-Lachnum pubescens (Rehm) Svrcek SPECIES
-=======
+# Lachnum pubescens (Rehm) Svrcek SPECIES
 
 #### Status
 ACCEPTED

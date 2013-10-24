@@ -1,14 +1,13 @@
-Sebacinella nodosa Hauerslev, 1977 SPECIES
-=======
+# Oliveonia nodosa (Hauerslev) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11(2): 95 (1977)
+Folia cryptog. Estonica 33: 129 (1998)
 
 #### Original name
 Sebacinella nodosa Hauerslev, 1977

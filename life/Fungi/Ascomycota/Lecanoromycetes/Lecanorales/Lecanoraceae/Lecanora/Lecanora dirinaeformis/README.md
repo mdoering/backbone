@@ -1,5 +1,4 @@
-Lecanora dirinaeformis A. Massal. SPECIES
-=======
+# Lecanora dirinaeformis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

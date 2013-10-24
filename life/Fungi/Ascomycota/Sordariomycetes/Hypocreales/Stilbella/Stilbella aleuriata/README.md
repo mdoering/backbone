@@ -1,5 +1,4 @@
-Stilbella aleuriata (Berk. & M.A. Curtis) Seifert SPECIES
-=======
+# Stilbella aleuriata (Berk. & M.A. Curtis) Seifert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis elegans Stiller SPECIES
-=======
+# Epistylis elegans Stiller SPECIES
 
 #### Status
 ACCEPTED

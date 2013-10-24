@@ -1,5 +1,4 @@
-Saccamoeba Frenzel, 1897 GENUS
-=======
+# Saccamoeba Frenzel, 1897 GENUS
 
 #### Status
 ACCEPTED

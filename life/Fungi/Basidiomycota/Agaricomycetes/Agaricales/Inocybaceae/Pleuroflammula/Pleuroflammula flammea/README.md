@@ -1,5 +1,4 @@
-Pleuroflammula flammea (Murrill) Singer SPECIES
-=======
+# Pleuroflammula flammea (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

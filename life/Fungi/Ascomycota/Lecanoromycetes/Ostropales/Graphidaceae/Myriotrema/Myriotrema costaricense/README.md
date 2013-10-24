@@ -1,5 +1,4 @@
-Myriotrema costaricense (Müll. Arg.) Hale SPECIES
-=======
+# Myriotrema costaricense (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

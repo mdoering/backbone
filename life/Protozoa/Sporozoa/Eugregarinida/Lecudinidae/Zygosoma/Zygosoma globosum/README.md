@@ -1,5 +1,4 @@
-Zygosoma globosum Noble, 1938 SPECIES
-=======
+# Zygosoma globosum Noble, 1938 SPECIES
 
 #### Status
 ACCEPTED

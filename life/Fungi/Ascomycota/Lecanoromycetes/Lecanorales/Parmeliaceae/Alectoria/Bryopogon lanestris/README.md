@@ -1,5 +1,4 @@
-Bryopogon lanestris f. lanestris FORM
-=======
+# Bryopogon lanestris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon lanestris f. lanestris
+null
 
 ### Remarks
 null

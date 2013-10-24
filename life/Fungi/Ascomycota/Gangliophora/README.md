@@ -1,5 +1,4 @@
-Gangliophora Subram. GENUS
-=======
+# Gangliophora Subram. GENUS
 
 #### Status
 ACCEPTED

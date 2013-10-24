@@ -1,5 +1,4 @@
-Coleroa rubi-idaei (Höhn.) Sacc. SPECIES
-=======
+# Coleroa rubi-idaei (Höhn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

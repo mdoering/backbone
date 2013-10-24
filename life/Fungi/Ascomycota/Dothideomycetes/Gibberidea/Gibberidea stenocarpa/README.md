@@ -1,5 +1,4 @@
-Gibberidea stenocarpa (Ellis & Everh.) Kuntze SPECIES
-=======
+# Gibberidea stenocarpa (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

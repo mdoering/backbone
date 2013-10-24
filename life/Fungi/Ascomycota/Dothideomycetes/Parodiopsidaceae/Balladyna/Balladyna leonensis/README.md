@@ -1,5 +1,4 @@
-Balladyna leonensis Syd., 1939 SPECIES
-=======
+# Balladyna leonensis Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

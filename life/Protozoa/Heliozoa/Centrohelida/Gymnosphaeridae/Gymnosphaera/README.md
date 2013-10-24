@@ -1,5 +1,4 @@
-Gymnosphaera Sassaki, 1893 GENUS
-=======
+# Gymnosphaera Sassaki, 1893 GENUS
 
 #### Status
 ACCEPTED

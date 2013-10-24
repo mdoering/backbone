@@ -1,5 +1,4 @@
-Neottiospora lunata (Shear) B. Sutton SPECIES
-=======
+# Neottiospora lunata (Shear) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

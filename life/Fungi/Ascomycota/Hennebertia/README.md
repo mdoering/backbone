@@ -1,5 +1,4 @@
-Hennebertia M. Morelet GENUS
-=======
+# Hennebertia M. Morelet GENUS
 
 #### Status
 ACCEPTED

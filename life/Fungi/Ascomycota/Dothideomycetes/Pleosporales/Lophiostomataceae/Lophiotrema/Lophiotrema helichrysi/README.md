@@ -1,5 +1,4 @@
-Lophiotrema helichrysi Fabre SPECIES
-=======
+# Lophiotrema helichrysi Fabre SPECIES
 
 #### Status
 ACCEPTED

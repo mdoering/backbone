@@ -1,5 +1,4 @@
-Sarcographa cuyabensis Redinger SPECIES
-=======
+# Sarcographa cuyabensis Redinger SPECIES
 
 #### Status
 ACCEPTED

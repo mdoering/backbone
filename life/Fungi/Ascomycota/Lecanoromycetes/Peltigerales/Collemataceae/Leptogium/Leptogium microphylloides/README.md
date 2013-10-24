@@ -1,5 +1,4 @@
-Leptogium microphylloides Nyl. SPECIES
-=======
+# Leptogium microphylloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

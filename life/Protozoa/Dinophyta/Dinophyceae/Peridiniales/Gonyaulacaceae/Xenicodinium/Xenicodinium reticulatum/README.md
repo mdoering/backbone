@@ -1,5 +1,4 @@
-Xenicodinium reticulatum J. M. Hansen SPECIES
-=======
+# Xenicodinium reticulatum J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora hoveniae Viégas & Chupp SPECIES
-=======
+# Cercospora hoveniae Viégas & Chupp SPECIES
 
 #### Status
 ACCEPTED

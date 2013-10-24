@@ -1,5 +1,4 @@
-Sagedia phyllireae Jatta SPECIES
-=======
+# Sagedia phyllireae Jatta SPECIES
 
 #### Status
 ACCEPTED

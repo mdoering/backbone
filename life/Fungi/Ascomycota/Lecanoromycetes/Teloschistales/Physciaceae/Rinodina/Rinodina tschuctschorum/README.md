@@ -1,5 +1,4 @@
-Rinodina tschuctschorum Zahlbr. SPECIES
-=======
+# Rinodina tschuctschorum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonyaulax diegensis Kofoid SPECIES
-=======
+# Gonyaulax diegensis Kofoid SPECIES
 
 #### Status
 ACCEPTED

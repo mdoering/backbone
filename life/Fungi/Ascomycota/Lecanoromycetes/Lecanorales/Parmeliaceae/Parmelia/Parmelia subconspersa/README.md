@@ -1,5 +1,4 @@
-Parmelia subconspersa var. subconspersa VARIETY
-=======
+# Parmelia subconspersa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Flora, Jena 52: 293 (1869)
+null
 
 #### Original name
-Parmelia subconspersa var. subconspersa
+null
 
 ### Remarks
 null

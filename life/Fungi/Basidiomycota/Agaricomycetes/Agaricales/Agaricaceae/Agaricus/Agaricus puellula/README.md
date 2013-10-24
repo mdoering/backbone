@@ -1,5 +1,4 @@
-Agaricus puellula Speg. SPECIES
-=======
+# Agaricus puellula Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota rhodopepla Morgan SPECIES
-=======
+# Lepiota rhodopepla Morgan SPECIES
 
 #### Status
 ACCEPTED

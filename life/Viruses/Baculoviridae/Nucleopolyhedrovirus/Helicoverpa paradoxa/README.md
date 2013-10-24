@@ -1,5 +1,4 @@
-Helicoverpa paradoxa Npv SPECIES
-=======
+# Helicoverpa paradoxa Npv SPECIES
 
 #### Status
 ACCEPTED

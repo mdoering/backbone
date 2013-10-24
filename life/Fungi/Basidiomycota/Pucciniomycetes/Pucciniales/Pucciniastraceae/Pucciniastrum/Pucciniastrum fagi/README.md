@@ -1,5 +1,4 @@
-Pucciniastrum fagi G. Yamada SPECIES
-=======
+# Pucciniastrum fagi G. Yamada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidia compacta Lowy SPECIES
-=======
+# Exidia compacta Lowy SPECIES
 
 #### Status
 ACCEPTED

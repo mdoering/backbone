@@ -1,5 +1,4 @@
-Uromycladium simplex McAlpine, 1905 SPECIES
-=======
+# Uromycladium simplex McAlpine, 1905 SPECIES
 
 #### Status
 ACCEPTED

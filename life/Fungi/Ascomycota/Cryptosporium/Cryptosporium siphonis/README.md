@@ -1,5 +1,4 @@
-Cryptosporium siphonis Oudem. SPECIES
-=======
+# Cryptosporium siphonis Oudem. SPECIES
 
 #### Status
 ACCEPTED

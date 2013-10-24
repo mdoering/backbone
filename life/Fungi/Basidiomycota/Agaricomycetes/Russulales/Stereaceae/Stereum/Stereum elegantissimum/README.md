@@ -1,5 +1,4 @@
-Stereum elegantissimum Speg. SPECIES
-=======
+# Stereum elegantissimum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius buzae Dennis SPECIES
-=======
+# Marasmius buzae Dennis SPECIES
 
 #### Status
 ACCEPTED

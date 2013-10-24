@@ -1,5 +1,4 @@
-Macrosporium calendulae Nelen SPECIES
-=======
+# Macrosporium calendulae Nelen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurera papillosa P. M. McCarthy SPECIES
-=======
+# Laurera papillosa P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

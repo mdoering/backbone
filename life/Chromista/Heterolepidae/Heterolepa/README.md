@@ -1,14 +1,13 @@
-Cibusoides Saidova, 1975 GENUS
-=======
+# Heterolepa Franzenau, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Termés. Füzetek, 8, 214.
 
 #### Original name
 null

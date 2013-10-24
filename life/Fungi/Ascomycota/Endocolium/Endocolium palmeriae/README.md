@@ -1,5 +1,4 @@
-Endocolium palmeriae Syd. SPECIES
-=======
+# Endocolium palmeriae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Glomus pulvinatus (Henn.) Trappe & Gerd. SPECIES
-=======
+# Glomus pulvinatum (Henn.) Trappe & Gerd., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gerdemann & Trappe, Mycol. Mem. 5: 59 (1974)
 
 #### Original name
 Endogone pulvinata Henn., 1897

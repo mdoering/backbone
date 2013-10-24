@@ -1,5 +1,4 @@
-Parathelium emergescens Nyl. SPECIES
-=======
+# Parathelium emergescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

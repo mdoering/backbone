@@ -1,5 +1,4 @@
-Meliola myristicae Hosag. & Raghu SPECIES
-=======
+# Meliola myristicae Hosag. & Raghu SPECIES
 
 #### Status
 ACCEPTED

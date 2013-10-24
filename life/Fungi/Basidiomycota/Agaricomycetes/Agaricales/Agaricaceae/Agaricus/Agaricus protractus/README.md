@@ -1,5 +1,4 @@
-Agaricus protractus Fr. SPECIES
-=======
+# Agaricus protractus Fr. SPECIES
 
 #### Status
 ACCEPTED

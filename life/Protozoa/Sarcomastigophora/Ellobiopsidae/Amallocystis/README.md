@@ -1,5 +1,4 @@
-Amallocystis Page GENUS
-=======
+# Amallocystis Page GENUS
 
 #### Status
 ACCEPTED

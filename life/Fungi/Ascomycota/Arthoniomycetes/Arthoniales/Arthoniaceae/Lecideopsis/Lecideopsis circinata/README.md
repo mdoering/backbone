@@ -1,5 +1,4 @@
-Lecideopsis circinata (Th. Fr.) Almq. SPECIES
-=======
+# Lecideopsis circinata (Th. Fr.) Almq. SPECIES
 
 #### Status
 ACCEPTED

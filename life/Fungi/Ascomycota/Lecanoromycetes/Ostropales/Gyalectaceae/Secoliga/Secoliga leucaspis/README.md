@@ -1,5 +1,4 @@
-Secoliga leucaspis Kremp. ex A. Massal. SPECIES
-=======
+# Secoliga leucaspis Kremp. ex A. Massal. SPECIES
 
 #### Status
 ACCEPTED

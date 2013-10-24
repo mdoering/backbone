@@ -1,5 +1,4 @@
-Opegrapha pulicaria Chevall. SPECIES
-=======
+# Opegrapha pulicaria Chevall. SPECIES
 
 #### Status
 ACCEPTED

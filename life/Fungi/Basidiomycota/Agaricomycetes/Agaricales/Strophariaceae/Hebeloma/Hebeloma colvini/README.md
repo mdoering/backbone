@@ -1,5 +1,4 @@
-Hebeloma colvini var. colvini VARIETY
-=======
+# Hebeloma colvini Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hebeloma colvini var. colvini
+Hebeloma colvini Peck
 
 ### Remarks
 null

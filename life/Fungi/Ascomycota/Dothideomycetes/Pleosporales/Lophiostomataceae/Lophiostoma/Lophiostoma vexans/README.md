@@ -1,5 +1,4 @@
-Lophiostoma vexans Nitschke SPECIES
-=======
+# Lophiostoma vexans Nitschke SPECIES
 
 #### Status
 ACCEPTED

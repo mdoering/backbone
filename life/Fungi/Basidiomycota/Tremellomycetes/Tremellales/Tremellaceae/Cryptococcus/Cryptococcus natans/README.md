@@ -1,5 +1,4 @@
-Cryptococcus natans Kütz. SPECIES
-=======
+# Cryptococcus natans Kütz. SPECIES
 
 #### Status
 ACCEPTED

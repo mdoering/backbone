@@ -1,5 +1,4 @@
-Chiodecton nylanderi Zahlbr. SPECIES
-=======
+# Chiodecton nylanderi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

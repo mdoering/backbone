@@ -1,5 +1,4 @@
-Trichodina rectispina Xu, Song & Warren, 2002 SPECIES
-=======
+# Trichodina rectispina Xu, Song & Warren, 2002 SPECIES
 
 #### Status
 ACCEPTED

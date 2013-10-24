@@ -1,5 +1,4 @@
-Biatora prinzenii Tønsberg SPECIES
-=======
+# Biatora prinzenii Tønsberg SPECIES
 
 #### Status
 ACCEPTED

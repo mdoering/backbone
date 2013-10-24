@@ -1,5 +1,4 @@
-Aecidium alaterni Maire SPECIES
-=======
+# Aecidium alaterni Maire SPECIES
 
 #### Status
 ACCEPTED

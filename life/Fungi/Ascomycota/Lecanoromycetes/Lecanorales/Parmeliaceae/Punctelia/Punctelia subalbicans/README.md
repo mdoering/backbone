@@ -1,17 +1,16 @@
-Parmelia novae-hollandiae f. novae-hollandiae FORM
-=======
+# Punctelia subalbicans (Stirt.) D. J. Galloway & Elix SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 8: 562 (1932)
+N. Z. Jl Bot. 22(3): 443 (1984)
 
 #### Original name
-Parmelia novae-hollandiae f. novae-hollandiae
+Parmelia subalbicans Stirt.
 
 ### Remarks
 null

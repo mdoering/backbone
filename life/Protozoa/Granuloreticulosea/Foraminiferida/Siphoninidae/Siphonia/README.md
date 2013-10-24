@@ -1,5 +1,4 @@
-Siphonia GENUS
-=======
+# Siphonia GENUS
 
 #### Status
 ACCEPTED

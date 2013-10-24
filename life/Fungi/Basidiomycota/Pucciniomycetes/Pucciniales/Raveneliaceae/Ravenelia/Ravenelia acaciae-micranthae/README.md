@@ -1,5 +1,4 @@
-Ravenelia acaciae-micranthae Dietel SPECIES
-=======
+# Ravenelia acaciae-micranthae Dietel SPECIES
 
 #### Status
 ACCEPTED

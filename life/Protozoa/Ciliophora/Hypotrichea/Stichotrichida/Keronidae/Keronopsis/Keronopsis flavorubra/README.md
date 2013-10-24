@@ -1,5 +1,4 @@
-Keronopsis flavorubra Entz, 1884 SPECIES
-=======
+# Keronopsis flavorubra Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

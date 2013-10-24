@@ -1,5 +1,4 @@
-Puccinia abramoviana Lavrov SPECIES
-=======
+# Puccinia abramoviana Lavrov SPECIES
 
 #### Status
 ACCEPTED

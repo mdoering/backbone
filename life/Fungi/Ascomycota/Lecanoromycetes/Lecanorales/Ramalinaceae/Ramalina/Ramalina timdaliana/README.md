@@ -1,5 +1,4 @@
-Ramalina timdaliana Krog SPECIES
-=======
+# Ramalina timdaliana Krog SPECIES
 
 #### Status
 ACCEPTED

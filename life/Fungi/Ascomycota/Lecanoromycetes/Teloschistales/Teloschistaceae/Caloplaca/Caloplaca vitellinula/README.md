@@ -1,5 +1,4 @@
-Caloplaca vitellinula (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca vitellinula (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

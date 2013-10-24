@@ -1,5 +1,4 @@
-Chlorophyllum alborubescens (Hongo) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum alborubescens (Hongo) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

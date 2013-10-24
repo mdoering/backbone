@@ -1,5 +1,4 @@
-Sphenolithus grandis Haq & Berggren, 1978 SPECIES
-=======
+# Sphenolithus grandis Haq & Berggren, 1978 SPECIES
 
 #### Status
 ACCEPTED

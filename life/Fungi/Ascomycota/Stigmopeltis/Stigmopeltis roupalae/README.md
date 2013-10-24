@@ -1,5 +1,4 @@
-Stigmopeltis roupalae Syd., 1927 SPECIES
-=======
+# Stigmopeltis roupalae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

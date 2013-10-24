@@ -1,5 +1,4 @@
-Lambertella brunneola (Pat.) Le Gal SPECIES
-=======
+# Lambertella brunneola (Pat.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

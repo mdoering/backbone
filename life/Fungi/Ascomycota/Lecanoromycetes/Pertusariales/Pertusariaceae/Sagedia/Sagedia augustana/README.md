@@ -1,5 +1,4 @@
-Sagedia augustana Britzelm. SPECIES
-=======
+# Sagedia augustana Britzelm. SPECIES
 
 #### Status
 ACCEPTED

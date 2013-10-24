@@ -1,5 +1,4 @@
-Helicoverpa phloxiphaga Npv SPECIES
-=======
+# Helicoverpa phloxiphaga Npv SPECIES
 
 #### Status
 ACCEPTED

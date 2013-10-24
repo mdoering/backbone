@@ -1,5 +1,4 @@
-Pleospora obliqua Wehm. SPECIES
-=======
+# Pleospora obliqua Wehm. SPECIES
 
 #### Status
 ACCEPTED

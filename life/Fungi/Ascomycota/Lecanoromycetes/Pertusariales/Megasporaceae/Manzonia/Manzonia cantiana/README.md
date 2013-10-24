@@ -1,17 +1,16 @@
-Manzonia cantiani Garov. SPECIES
-=======
+# Manzonia cantiana Garov. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rep. scient. Wks Osoka Univ. 2(8): (1866)
 
 #### Original name
-Manzonia cantiani Garov.
+Manzonia cantiana Garov.
 
 ### Remarks
 null

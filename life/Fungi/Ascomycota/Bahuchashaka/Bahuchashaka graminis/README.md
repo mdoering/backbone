@@ -1,14 +1,13 @@
-Dwayabeeja graminis Matsush., 1975 SPECIES
-=======
+# Bahuchashaka graminis (Matsush.) Subram., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 66 (1975)
+Kavaka 5: 97 (1978)
 
 #### Original name
 Dwayabeeja graminis Matsush., 1975

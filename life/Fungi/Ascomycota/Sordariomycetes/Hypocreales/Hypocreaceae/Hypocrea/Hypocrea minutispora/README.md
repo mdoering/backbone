@@ -1,5 +1,4 @@
-Hypocrea minutispora B.S. Lu, Fallah & Samuels, 2004 SPECIES
-=======
+# Hypocrea minutispora B.S. Lu, Fallah & Samuels, 2004 SPECIES
 
 #### Status
 ACCEPTED

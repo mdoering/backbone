@@ -1,5 +1,4 @@
-Multicellaesporites incurvus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites incurvus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bursaridium chlorostigma SPECIES
-=======
+# Bursaridium chlorostigma SPECIES
 
 #### Status
 ACCEPTED

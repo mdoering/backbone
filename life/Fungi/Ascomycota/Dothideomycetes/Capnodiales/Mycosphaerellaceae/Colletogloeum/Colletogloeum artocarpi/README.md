@@ -1,5 +1,4 @@
-Colletogloeum artocarpi S.M. Singh SPECIES
-=======
+# Colletogloeum artocarpi S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mikrobelodontos Loeblich & Tappan, 1994 GENUS
-=======
+# Mikrobelodontos Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora muehlenbeckiae Pass. SPECIES
-=======
+# Rhabdospora muehlenbeckiae Pass. SPECIES
 
 #### Status
 ACCEPTED

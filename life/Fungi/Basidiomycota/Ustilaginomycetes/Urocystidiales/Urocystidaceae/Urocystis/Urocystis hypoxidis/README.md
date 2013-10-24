@@ -1,5 +1,4 @@
-Urocystis hypoxidis Thaxt. SPECIES
-=======
+# Urocystis hypoxidis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

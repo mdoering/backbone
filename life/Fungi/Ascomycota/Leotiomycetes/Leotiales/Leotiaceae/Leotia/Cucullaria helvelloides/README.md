@@ -1,5 +1,4 @@
-Cucullaria helvelloides Corda SPECIES
-=======
+# Cucullaria helvelloides Corda SPECIES
 
 #### Status
 ACCEPTED

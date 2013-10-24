@@ -1,5 +1,4 @@
-Phaeoacremonium theobromatis L. Mostert, H.C. Evans, Summerb. & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium theobromatis L. Mostert, H.C. Evans, Summerb. & Crous, 2006 SPECIES
 
 #### Status
 ACCEPTED

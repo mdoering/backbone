@@ -1,5 +1,4 @@
-Stigmina microspora Pavgi SPECIES
-=======
+# Stigmina microspora Pavgi SPECIES
 
 #### Status
 ACCEPTED

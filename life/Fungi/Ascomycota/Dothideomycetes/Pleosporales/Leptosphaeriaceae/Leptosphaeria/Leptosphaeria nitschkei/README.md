@@ -1,5 +1,4 @@
-Leptosphaeria nitschkei Rehm, 1873 SPECIES
-=======
+# Leptosphaeria nitschkei Rehm, 1873 SPECIES
 
 #### Status
 ACCEPTED

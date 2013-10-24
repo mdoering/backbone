@@ -1,5 +1,4 @@
-Sarcographa maculata (A.W. Archer) Aptroot & Sparrius SPECIES
-=======
+# Sarcographa maculata (A.W. Archer) Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

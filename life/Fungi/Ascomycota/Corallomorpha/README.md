@@ -1,5 +1,4 @@
-Corallomorpha Opiz GENUS
-=======
+# Corallomorpha Opiz GENUS
 
 #### Status
 ACCEPTED

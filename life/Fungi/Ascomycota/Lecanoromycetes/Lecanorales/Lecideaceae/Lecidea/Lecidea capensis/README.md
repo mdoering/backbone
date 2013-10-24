@@ -1,5 +1,4 @@
-Lecidea capensis Zahlbr. SPECIES
-=======
+# Lecidea capensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

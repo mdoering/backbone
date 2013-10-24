@@ -1,5 +1,4 @@
-Discina mongolica P. Karst. SPECIES
-=======
+# Discina mongolica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

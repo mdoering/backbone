@@ -1,5 +1,4 @@
-Amphisphaeria gymnosporiae R. Rao SPECIES
-=======
+# Amphisphaeria gymnosporiae R. Rao SPECIES
 
 #### Status
 ACCEPTED

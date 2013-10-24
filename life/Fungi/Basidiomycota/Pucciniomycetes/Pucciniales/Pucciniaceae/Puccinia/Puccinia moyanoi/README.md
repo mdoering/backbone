@@ -1,5 +1,4 @@
-Puccinia moyanoi Speg. SPECIES
-=======
+# Puccinia moyanoi Speg. SPECIES
 
 #### Status
 ACCEPTED

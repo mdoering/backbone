@@ -1,5 +1,4 @@
-Lecanora carpathica Zahlbr. SPECIES
-=======
+# Lecanora carpathica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

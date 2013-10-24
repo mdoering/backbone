@@ -1,5 +1,4 @@
-Spermoedia zizaniae Fyles SPECIES
-=======
+# Spermoedia zizaniae Fyles SPECIES
 
 #### Status
 ACCEPTED

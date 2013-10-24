@@ -1,5 +1,4 @@
-Rhaphidophora rudis Fuckel SPECIES
-=======
+# Rhaphidophora rudis Fuckel SPECIES
 
 #### Status
 ACCEPTED

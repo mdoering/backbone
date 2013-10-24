@@ -1,5 +1,4 @@
-Cercidospora ailanthina (Tognini) Kuntze SPECIES
-=======
+# Cercidospora ailanthina (Tognini) Kuntze SPECIES
 
 #### Status
 ACCEPTED

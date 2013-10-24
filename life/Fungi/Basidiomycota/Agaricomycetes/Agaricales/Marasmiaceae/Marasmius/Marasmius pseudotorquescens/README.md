@@ -1,5 +1,4 @@
-Marasmius pseudotorquescens Antonín SPECIES
-=======
+# Marasmius pseudotorquescens Antonín SPECIES
 
 #### Status
 ACCEPTED

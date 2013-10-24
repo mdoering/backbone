@@ -1,5 +1,4 @@
-Volvaria avellanea (Clem.) Kauffman SPECIES
-=======
+# Volvaria avellanea (Clem.) Kauffman SPECIES
 
 #### Status
 ACCEPTED

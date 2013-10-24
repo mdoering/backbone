@@ -1,5 +1,4 @@
-Coniothyrium anacycli Gonz. Frag. SPECIES
-=======
+# Coniothyrium anacycli Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

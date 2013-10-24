@@ -1,5 +1,4 @@
-Marasmius nyikae Antonín SPECIES
-=======
+# Marasmius nyikae Antonín SPECIES
 
 #### Status
 ACCEPTED

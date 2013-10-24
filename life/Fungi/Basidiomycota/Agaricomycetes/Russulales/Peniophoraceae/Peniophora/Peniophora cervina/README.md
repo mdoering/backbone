@@ -1,5 +1,4 @@
-Peniophora cervina (Thüm.) Höhn. & Litsch. SPECIES
-=======
+# Peniophora cervina (Thüm.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

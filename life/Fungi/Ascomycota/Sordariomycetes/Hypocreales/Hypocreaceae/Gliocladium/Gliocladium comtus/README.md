@@ -1,5 +1,4 @@
-Gliocladium comtus Rudakov SPECIES
-=======
+# Gliocladium comtus Rudakov SPECIES
 
 #### Status
 ACCEPTED

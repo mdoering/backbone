@@ -1,5 +1,4 @@
-Diplodia mori Berk. SPECIES
-=======
+# Diplodia mori Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amblyospora opacita SPECIES
-=======
+# Amblyospora opacita SPECIES
 
 #### Status
 ACCEPTED

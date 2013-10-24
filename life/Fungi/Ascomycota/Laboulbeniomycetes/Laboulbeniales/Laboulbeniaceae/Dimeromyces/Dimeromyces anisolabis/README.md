@@ -1,5 +1,4 @@
-Dimeromyces anisolabis Thaxt. SPECIES
-=======
+# Dimeromyces anisolabis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

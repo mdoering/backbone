@@ -1,5 +1,4 @@
-Brochopsophosphaera uralica Chibrikova, 1972 SPECIES
-=======
+# Brochopsophosphaera uralica Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

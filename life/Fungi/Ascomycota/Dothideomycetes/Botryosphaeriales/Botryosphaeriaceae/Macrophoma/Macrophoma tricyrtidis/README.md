@@ -1,5 +1,4 @@
-Macrophoma tricyrtidis Togashi & Katsuki SPECIES
-=======
+# Macrophoma tricyrtidis Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

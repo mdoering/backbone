@@ -1,5 +1,4 @@
-Geoglossum lineare Hakelier SPECIES
-=======
+# Geoglossum lineare Hakelier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia truncatula (Corda) Fuckel SPECIES
-=======
+# Pestalotia truncatula (Corda) Fuckel SPECIES
 
 #### Status
 ACCEPTED

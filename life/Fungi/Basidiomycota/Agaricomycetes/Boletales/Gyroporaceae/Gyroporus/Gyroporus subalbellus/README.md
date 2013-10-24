@@ -1,5 +1,4 @@
-Gyroporus subalbellus Murrill SPECIES
-=======
+# Gyroporus subalbellus Murrill SPECIES
 
 #### Status
 ACCEPTED

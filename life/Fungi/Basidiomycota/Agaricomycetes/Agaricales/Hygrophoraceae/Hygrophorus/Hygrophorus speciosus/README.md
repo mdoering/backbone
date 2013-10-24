@@ -1,5 +1,4 @@
-Hygrophorus speciosus var. speciosus VARIETY
-=======
+# Hygrophorus speciosus Peck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Rep. N. Y. St. Mus. nat. Hist. 29: 43 (1878)
 
 #### Original name
-Hygrophorus speciosus var. speciosus
+Hygrophorus speciosus Peck
 
 ### Remarks
 null

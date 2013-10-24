@@ -1,5 +1,4 @@
-Calenia leucothrix Vain. SPECIES
-=======
+# Calenia leucothrix Vain. SPECIES
 
 #### Status
 ACCEPTED

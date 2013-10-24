@@ -1,5 +1,4 @@
-Podospora papilionacea N. Lundq. SPECIES
-=======
+# Podospora papilionacea N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

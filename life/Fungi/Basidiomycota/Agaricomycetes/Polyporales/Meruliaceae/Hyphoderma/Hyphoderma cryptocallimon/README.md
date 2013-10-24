@@ -1,17 +1,16 @@
-Hyphoderma opuntiae Nakasone & Gilb. SPECIES
-=======
+# Hyphoderma cryptocallimon B. de Vries, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(1): 77 (1987)
 
 #### Original name
-Hyphoderma opuntiae Nakasone & Gilb.
+Hyphoderma cryptocallimon B. de Vries, 1987
 
 ### Remarks
 null

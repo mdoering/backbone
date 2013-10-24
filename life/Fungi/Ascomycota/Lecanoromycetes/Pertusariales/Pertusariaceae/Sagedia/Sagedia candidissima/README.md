@@ -1,5 +1,4 @@
-Sagedia candidissima Ach. SPECIES
-=======
+# Sagedia candidissima Ach. SPECIES
 
 #### Status
 ACCEPTED

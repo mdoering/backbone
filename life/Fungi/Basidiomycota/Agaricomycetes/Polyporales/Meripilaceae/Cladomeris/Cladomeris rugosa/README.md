@@ -1,5 +1,4 @@
-Cladomeris rugosa (Sowerby) Bigeard & H. Guill. SPECIES
-=======
+# Cladomeris rugosa (Sowerby) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecanora mawsoni C.W. Dodge SPECIES
-=======
+# Lecanora mawsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 170 (1948)
 
 #### Original name
-Lecanora mawsoni C.W. Dodge
+Lecanora mawsonii C.W. Dodge
 
 ### Remarks
 null

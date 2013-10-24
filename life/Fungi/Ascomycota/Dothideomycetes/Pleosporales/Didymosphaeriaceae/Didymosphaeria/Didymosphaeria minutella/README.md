@@ -1,5 +1,4 @@
-Didymosphaeria minutella Penz. & Sacc. SPECIES
-=======
+# Didymosphaeria minutella Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

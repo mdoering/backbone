@@ -1,5 +1,4 @@
-Penicillium rubidurum Udagawa & Y. Horie, 1973 SPECIES
-=======
+# Penicillium rubidurum Udagawa & Y. Horie, 1973 SPECIES
 
 #### Status
 DOUBTFUL

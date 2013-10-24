@@ -1,5 +1,4 @@
-Corticium boreoroseum Boidin & Lanq., 1983 SPECIES
-=======
+# Corticium boreoroseum Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

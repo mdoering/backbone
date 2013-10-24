@@ -1,5 +1,4 @@
-Cercospora aucubae (Hara) Hara SPECIES
-=======
+# Cercospora aucubae (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

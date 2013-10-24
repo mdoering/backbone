@@ -1,5 +1,4 @@
-Catocarpus hyperboreus Vain. SPECIES
-=======
+# Catocarpus hyperboreus Vain. SPECIES
 
 #### Status
 ACCEPTED

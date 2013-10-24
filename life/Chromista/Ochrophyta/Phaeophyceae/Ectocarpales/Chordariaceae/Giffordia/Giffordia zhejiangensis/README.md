@@ -1,5 +1,4 @@
-Giffordia zhejiangensis S. B. Wang SPECIES
-=======
+# Giffordia zhejiangensis S. B. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria juniperus var. juniperus VARIETY
-=======
+# Xylaria juniperus Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria juniperus var. juniperus
+Xylaria juniperus Starbäck
 
 ### Remarks
 null

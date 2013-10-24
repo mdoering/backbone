@@ -1,5 +1,4 @@
-Hymenella cerealis Ellis & Everh. SPECIES
-=======
+# Hymenella cerealis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

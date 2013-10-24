@@ -1,5 +1,4 @@
-Tricholoma pinicola Murrill SPECIES
-=======
+# Tricholoma pinicola Murrill SPECIES
 
 #### Status
 ACCEPTED

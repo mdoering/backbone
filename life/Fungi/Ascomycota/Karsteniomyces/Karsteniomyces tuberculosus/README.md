@@ -1,5 +1,4 @@
-Karsteniomyces tuberculosus Alstrup & D. Hawksw. SPECIES
-=======
+# Karsteniomyces tuberculosus Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

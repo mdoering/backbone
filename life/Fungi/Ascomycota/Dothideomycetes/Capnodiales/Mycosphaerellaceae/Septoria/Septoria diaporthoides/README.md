@@ -1,5 +1,4 @@
-Septoria diaporthoides Sacc. SPECIES
-=======
+# Septoria diaporthoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

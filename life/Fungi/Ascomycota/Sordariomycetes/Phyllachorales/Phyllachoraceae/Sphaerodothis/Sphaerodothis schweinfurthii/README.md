@@ -1,5 +1,4 @@
-Sphaerodothis schweinfurthii Reichert, 1921 SPECIES
-=======
+# Sphaerodothis schweinfurthii Reichert, 1921 SPECIES
 
 #### Status
 ACCEPTED

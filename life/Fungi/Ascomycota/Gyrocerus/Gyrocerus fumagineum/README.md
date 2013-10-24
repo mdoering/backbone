@@ -1,5 +1,4 @@
-Gyrocerus fumagineum Neger SPECIES
-=======
+# Gyrocerus fumagineum Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rimbachia neckerae subsp. megalospora (Singer) Redhead SUBSPECIES
-=======
+# Rimbachia neckerae (Fr.) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 62(5): 880 (1984)
+Can. J. Bot. 62(5): 879 (1984)
 
 #### Original name
-Mniopetalum megalosporum Singer, 1969
+Cyphella muscicola Fr., 1822
 
 ### Remarks
 null

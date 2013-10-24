@@ -1,5 +1,4 @@
-Septoria gossypii Sacc. SPECIES
-=======
+# Septoria gossypii Sacc. SPECIES
 
 #### Status
 ACCEPTED

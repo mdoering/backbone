@@ -1,5 +1,4 @@
-Mycovellosiella arthraxonis Y.L. Guo SPECIES
-=======
+# Mycovellosiella arthraxonis Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

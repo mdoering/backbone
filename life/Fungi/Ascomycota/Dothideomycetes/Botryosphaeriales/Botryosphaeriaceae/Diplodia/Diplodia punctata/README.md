@@ -1,5 +1,4 @@
-Diplodia punctata (Lév.) Zambett. SPECIES
-=======
+# Diplodia punctata (Lév.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

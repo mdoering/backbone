@@ -1,5 +1,4 @@
-Boletus holoroseus A.H. Sm. & Thiers SPECIES
-=======
+# Boletus holoroseus A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

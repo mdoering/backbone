@@ -1,5 +1,4 @@
-Hyaloceras notarisii Durieu & Mont. SPECIES
-=======
+# Hyaloceras notarisii Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

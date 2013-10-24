@@ -1,5 +1,4 @@
-Phellostroma hypoxyloides Syd. & P. Syd., 1914 SPECIES
-=======
+# Phellostroma hypoxyloides Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

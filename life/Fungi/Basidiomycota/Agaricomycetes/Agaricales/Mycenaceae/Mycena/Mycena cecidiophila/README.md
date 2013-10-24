@@ -1,5 +1,4 @@
-Mycena cecidiophila A.P. Berg, Berg-Block, Noordel. & Uljé SPECIES
-=======
+# Mycena cecidiophila A.P. Berg, Berg-Block, Noordel. & Uljé SPECIES
 
 #### Status
 ACCEPTED

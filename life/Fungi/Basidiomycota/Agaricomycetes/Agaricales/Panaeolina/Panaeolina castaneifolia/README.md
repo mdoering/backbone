@@ -1,5 +1,4 @@
-Panaeolina castaneifolia (Murrill) Bon SPECIES
-=======
+# Panaeolina castaneifolia (Murrill) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ophiostoma ips (Rumbold) Nannf., 1934 SPECIES
-=======
+# Ceratocystis ips (Rumbold) C. Moreau, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Melin & Nannfeldt, Svensk Skogsvårdsförening Tidskr. , Hafte 32(3-4): 408 (1934)
+Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
 
 #### Original name
 Ceratostomella ips Rumbold, 1931

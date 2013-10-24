@@ -1,5 +1,4 @@
-Stegochilum ovale Ghosh, 1921 SPECIES
-=======
+# Stegochilum ovale Ghosh, 1921 SPECIES
 
 #### Status
 ACCEPTED

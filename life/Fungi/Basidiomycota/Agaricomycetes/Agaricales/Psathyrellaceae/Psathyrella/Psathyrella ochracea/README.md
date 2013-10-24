@@ -1,5 +1,4 @@
-Psathyrella ochracea (Romagn.) M.M. Moser ex Kits van Wav. SPECIES
-=======
+# Psathyrella ochracea (Romagn.) M.M. Moser ex Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

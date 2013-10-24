@@ -1,5 +1,4 @@
-Gloeosporium rostratum Ellis & Everh. SPECIES
-=======
+# Gloeosporium rostratum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

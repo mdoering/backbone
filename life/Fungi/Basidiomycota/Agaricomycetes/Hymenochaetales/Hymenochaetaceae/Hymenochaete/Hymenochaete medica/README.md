@@ -1,5 +1,4 @@
-Hymenochaete medica Lloyd SPECIES
-=======
+# Hymenochaete medica Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parastigmatellina Bat. & C.A.A. Costa GENUS
-=======
+# Parastigmatellina Bat. & C.A.A. Costa GENUS
 
 #### Status
 ACCEPTED

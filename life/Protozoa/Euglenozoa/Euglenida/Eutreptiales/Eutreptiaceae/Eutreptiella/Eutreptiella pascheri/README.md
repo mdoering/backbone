@@ -1,5 +1,4 @@
-Eutreptiella pascheri (Schiller) Pascher SPECIES
-=======
+# Eutreptiella pascheri (Schiller) Pascher SPECIES
 
 #### Status
 ACCEPTED

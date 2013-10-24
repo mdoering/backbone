@@ -1,5 +1,4 @@
-Laquearia Fr. GENUS
-=======
+# Laquearia Fr. GENUS
 
 #### Status
 ACCEPTED

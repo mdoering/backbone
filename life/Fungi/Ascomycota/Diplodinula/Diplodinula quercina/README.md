@@ -1,5 +1,4 @@
-Diplodinula quercina (Peck) Tassi SPECIES
-=======
+# Diplodinula quercina (Peck) Tassi SPECIES
 
 #### Status
 ACCEPTED

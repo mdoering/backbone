@@ -1,5 +1,4 @@
-Diplodia atrobrunnea Wehm. SPECIES
-=======
+# Diplodia atrobrunnea Wehm. SPECIES
 
 #### Status
 ACCEPTED

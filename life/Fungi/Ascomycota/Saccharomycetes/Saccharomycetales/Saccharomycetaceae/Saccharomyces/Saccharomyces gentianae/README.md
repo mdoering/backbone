@@ -1,5 +1,4 @@
-Saccharomyces gentianae Guyot SPECIES
-=======
+# Saccharomyces gentianae Guyot SPECIES
 
 #### Status
 ACCEPTED

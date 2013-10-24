@@ -1,5 +1,4 @@
-Sphaeria tulipifera Schwein. SPECIES
-=======
+# Sphaeria tulipifera Schwein. SPECIES
 
 #### Status
 ACCEPTED

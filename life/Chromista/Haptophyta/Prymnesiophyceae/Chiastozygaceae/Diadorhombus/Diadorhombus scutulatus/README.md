@@ -1,5 +1,4 @@
-Diadorhombus scutulatus (Medd, 1971) Medd, 1979 SPECIES
-=======
+# Diadorhombus scutulatus (Medd, 1971) Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

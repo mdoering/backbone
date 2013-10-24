@@ -1,5 +1,4 @@
-Kravtzevia halimodendri Schwarzman, 1961 SPECIES
-=======
+# Kravtzevia halimodendri Schwarzman, 1961 SPECIES
 
 #### Status
 ACCEPTED

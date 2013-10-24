@@ -1,5 +1,4 @@
-Phloeopannaria GENUS
-=======
+# Phloeopannaria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleistophora fidelis Z. Hostounský & J. Weiser SPECIES
-=======
+# Pleistophora fidelis Z. Hostounský & J. Weiser SPECIES
 
 #### Status
 ACCEPTED

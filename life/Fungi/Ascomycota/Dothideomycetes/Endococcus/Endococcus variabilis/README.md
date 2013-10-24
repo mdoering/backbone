@@ -1,5 +1,4 @@
-Endococcus variabilis Halici, Kocourk. & Diederich, 2007 SPECIES
-=======
+# Endococcus variabilis Halici, Kocourk. & Diederich, 2007 SPECIES
 
 #### Status
 ACCEPTED

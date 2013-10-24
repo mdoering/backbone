@@ -1,5 +1,4 @@
-Sporidesmium lagenocarpi M.B. Ellis SPECIES
-=======
+# Sporidesmium lagenocarpi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

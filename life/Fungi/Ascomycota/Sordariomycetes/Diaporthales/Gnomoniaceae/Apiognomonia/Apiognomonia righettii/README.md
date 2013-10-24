@@ -1,5 +1,4 @@
-Apiognomonia righettii M. Monod SPECIES
-=======
+# Apiognomonia righettii M. Monod SPECIES
 
 #### Status
 ACCEPTED

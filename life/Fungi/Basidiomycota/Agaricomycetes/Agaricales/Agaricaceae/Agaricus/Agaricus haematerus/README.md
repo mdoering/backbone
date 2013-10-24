@@ -1,5 +1,4 @@
-Agaricus haematerus Berk. & Broome SPECIES
-=======
+# Agaricus haematerus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

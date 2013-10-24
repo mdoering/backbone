@@ -1,5 +1,4 @@
-Leptorhaphis armorica (P. Crouan & H. Crouan) Boistel SPECIES
-=======
+# Leptorhaphis armorica (P. Crouan & H. Crouan) Boistel SPECIES
 
 #### Status
 ACCEPTED

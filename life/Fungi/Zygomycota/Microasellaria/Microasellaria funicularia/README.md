@@ -1,5 +1,4 @@
-Microasellaria funicularia Tuzet, Manier & Jolivet SPECIES
-=======
+# Microasellaria funicularia Tuzet, Manier & Jolivet SPECIES
 
 #### Status
 ACCEPTED

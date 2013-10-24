@@ -1,5 +1,4 @@
-Macroplodia paradisiaca (Mont.) Kuntze SPECIES
-=======
+# Macroplodia paradisiaca (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella barlowiana A.H. Sm. SPECIES
-=======
+# Psathyrella barlowiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

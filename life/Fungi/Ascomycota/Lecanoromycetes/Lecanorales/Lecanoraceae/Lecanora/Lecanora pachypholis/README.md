@@ -1,5 +1,4 @@
-Lecanora pachypholis Nyl. SPECIES
-=======
+# Lecanora pachypholis Nyl. SPECIES
 
 #### Status
 ACCEPTED

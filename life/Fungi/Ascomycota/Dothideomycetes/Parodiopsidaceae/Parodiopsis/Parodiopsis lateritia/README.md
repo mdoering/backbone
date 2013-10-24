@@ -1,5 +1,4 @@
-Parodiopsis lateritia (Speg.) Maubl. SPECIES
-=======
+# Parodiopsis lateritia (Speg.) Maubl. SPECIES
 
 #### Status
 ACCEPTED

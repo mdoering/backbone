@@ -1,5 +1,4 @@
-Rhodocybe retroflexa (Berk. & Broome) Pegler SPECIES
-=======
+# Rhodocybe retroflexa (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea grossa Berk. SPECIES
-=======
+# Hypocrea grossa Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia mitriformis S. Ito SPECIES
-=======
+# Puccinia mitriformis S. Ito SPECIES
 
 #### Status
 ACCEPTED

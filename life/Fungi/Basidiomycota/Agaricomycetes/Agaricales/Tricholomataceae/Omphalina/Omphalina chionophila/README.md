@@ -1,5 +1,4 @@
-Omphalina chionophila Lamoure SPECIES
-=======
+# Omphalina chionophila Lamoure SPECIES
 
 #### Status
 ACCEPTED

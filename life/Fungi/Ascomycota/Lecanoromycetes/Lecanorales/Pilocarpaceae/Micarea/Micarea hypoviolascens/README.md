@@ -1,5 +1,4 @@
-Micarea hypoviolascens Czarnota & Coppins SPECIES
-=======
+# Micarea hypoviolascens Czarnota & Coppins SPECIES
 
 #### Status
 ACCEPTED

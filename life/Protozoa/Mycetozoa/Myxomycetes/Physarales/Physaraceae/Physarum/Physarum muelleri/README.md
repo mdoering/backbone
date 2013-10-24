@@ -1,5 +1,4 @@
-Physarum muelleri Berk. SPECIES
-=======
+# Physarum muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

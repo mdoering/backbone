@@ -1,5 +1,4 @@
-Usnea leucoxantha Motyka SPECIES
-=======
+# Usnea leucoxantha Motyka SPECIES
 
 #### Status
 ACCEPTED

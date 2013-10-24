@@ -1,5 +1,4 @@
-Verrucaria myriococca Hepp SPECIES
-=======
+# Verrucaria myriococca Hepp SPECIES
 
 #### Status
 ACCEPTED

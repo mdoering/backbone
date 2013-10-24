@@ -1,5 +1,4 @@
-Anthostoma ailanthi (G.H. Otth) Nitschke SPECIES
-=======
+# Anthostoma ailanthi (G.H. Otth) Nitschke SPECIES
 
 #### Status
 ACCEPTED

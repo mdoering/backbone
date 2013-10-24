@@ -1,17 +1,16 @@
-Parmelia perspersa Stizenb. SPECIES
-=======
+# Karoowia perspersa (Stizenb.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(1): 187 (1989)
 
 #### Original name
-null
+Parmelia perspersa Stizenb.
 
 ### Remarks
 null

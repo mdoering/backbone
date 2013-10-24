@@ -1,5 +1,4 @@
-Devosia euplotis Vannini et al., 2004. SPECIES
-=======
+# Devosia euplotis Vannini et al., 2004. SPECIES
 
 #### Status
 ACCEPTED

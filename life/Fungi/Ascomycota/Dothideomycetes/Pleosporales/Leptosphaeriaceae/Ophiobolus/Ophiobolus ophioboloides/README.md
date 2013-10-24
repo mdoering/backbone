@@ -1,17 +1,16 @@
-Leptosphaeriopsis ophioboloides var. ophioboloides VARIETY
-=======
+# Ophiobolus ophioboloides (Sacc.) L. Holm, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 41: 345 (1948)
 
 #### Original name
-Leptosphaeriopsis ophioboloides var. ophioboloides
+Leptosphaeria ophioboloides Sacc., 1884
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea haematites Fée SPECIES
-=======
+# Lecidea haematites Fée SPECIES
 
 #### Status
 ACCEPTED

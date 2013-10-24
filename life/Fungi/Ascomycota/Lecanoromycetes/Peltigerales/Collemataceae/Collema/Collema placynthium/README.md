@@ -1,5 +1,4 @@
-Collema placynthium Ach. SPECIES
-=======
+# Collema placynthium Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Algoriphagus locisalis Yoon et al., 2005 SPECIES
-=======
+# Algoriphagus locisalis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

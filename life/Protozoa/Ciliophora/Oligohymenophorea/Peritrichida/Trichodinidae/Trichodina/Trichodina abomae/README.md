@@ -1,5 +1,4 @@
-Trichodina abomae Dogiel, 1948 SPECIES
-=======
+# Trichodina abomae Dogiel, 1948 SPECIES
 
 #### Status
 ACCEPTED

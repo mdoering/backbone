@@ -1,5 +1,4 @@
-Inoloma lilaceoferrugineum Egeland SPECIES
-=======
+# Inoloma lilaceoferrugineum Egeland SPECIES
 
 #### Status
 ACCEPTED

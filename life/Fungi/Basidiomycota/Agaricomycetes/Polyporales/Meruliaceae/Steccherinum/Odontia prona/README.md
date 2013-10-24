@@ -1,5 +1,4 @@
-Odontia prona (Berk. & Broome) Rick SPECIES
-=======
+# Odontia prona (Berk. & Broome) Rick SPECIES
 
 #### Status
 ACCEPTED

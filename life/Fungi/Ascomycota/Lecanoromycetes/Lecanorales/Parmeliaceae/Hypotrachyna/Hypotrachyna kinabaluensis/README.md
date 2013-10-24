@@ -1,14 +1,13 @@
-Hypotrachyna kinabalensis (Hale) Hale SPECIES
-=======
+# Hypotrachyna kinabaluensis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 341 (1974)
 
 #### Original name
 Parmelia kinabaluensis Hale

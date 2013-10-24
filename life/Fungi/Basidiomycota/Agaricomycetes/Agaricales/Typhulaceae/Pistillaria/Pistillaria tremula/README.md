@@ -1,5 +1,4 @@
-Pistillaria tremula Sacc. & D. Sacc. SPECIES
-=======
+# Pistillaria tremula Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

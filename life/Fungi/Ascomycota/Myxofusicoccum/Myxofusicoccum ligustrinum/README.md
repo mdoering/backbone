@@ -1,5 +1,4 @@
-Myxofusicoccum ligustrinum Petr. SPECIES
-=======
+# Myxofusicoccum ligustrinum Petr. SPECIES
 
 #### Status
 ACCEPTED

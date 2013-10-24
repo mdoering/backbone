@@ -1,5 +1,4 @@
-Cladosporium epibryum Cooke & Massee SPECIES
-=======
+# Cladosporium epibryum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrera speciosa SPECIES
-=======
+# Borrera speciosa SPECIES
 
 #### Status
 ACCEPTED

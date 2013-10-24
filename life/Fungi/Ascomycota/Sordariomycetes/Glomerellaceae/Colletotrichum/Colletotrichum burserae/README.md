@@ -1,5 +1,4 @@
-Colletotrichum burserae Novoss. SPECIES
-=======
+# Colletotrichum burserae Novoss. SPECIES
 
 #### Status
 ACCEPTED

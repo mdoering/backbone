@@ -1,5 +1,4 @@
-Opegrapha fuliginosa Pers. SPECIES
-=======
+# Opegrapha fuliginosa Pers. SPECIES
 
 #### Status
 ACCEPTED

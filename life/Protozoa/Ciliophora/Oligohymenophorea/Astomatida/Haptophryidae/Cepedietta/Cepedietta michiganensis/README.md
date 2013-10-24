@@ -1,5 +1,4 @@
-Cepedietta michiganensis SPECIES
-=======
+# Cepedietta michiganensis SPECIES
 
 #### Status
 ACCEPTED

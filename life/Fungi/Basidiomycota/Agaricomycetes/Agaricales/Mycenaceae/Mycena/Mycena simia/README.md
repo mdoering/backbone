@@ -1,5 +1,4 @@
-Mycena simia Kühner, 1958 SPECIES
-=======
+# Mycena simia Kühner, 1958 SPECIES
 
 #### Status
 ACCEPTED

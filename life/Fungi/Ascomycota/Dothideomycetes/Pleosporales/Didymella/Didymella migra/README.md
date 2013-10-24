@@ -1,5 +1,4 @@
-Didymella migra Corbaz SPECIES
-=======
+# Didymella migra Corbaz SPECIES
 
 #### Status
 ACCEPTED

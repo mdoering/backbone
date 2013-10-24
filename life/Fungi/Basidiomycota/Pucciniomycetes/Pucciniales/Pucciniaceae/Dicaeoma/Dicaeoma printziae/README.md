@@ -1,5 +1,4 @@
-Dicaeoma printziae (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma printziae (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

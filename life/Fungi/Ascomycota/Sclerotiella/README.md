@@ -1,5 +1,4 @@
-Sclerotiella A.K. Sarbhoy & A. Sarbhoy GENUS
-=======
+# Sclerotiella A.K. Sarbhoy & A. Sarbhoy GENUS
 
 #### Status
 ACCEPTED

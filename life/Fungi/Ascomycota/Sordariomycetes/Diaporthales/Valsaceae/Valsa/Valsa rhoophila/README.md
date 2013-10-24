@@ -1,5 +1,4 @@
-Valsa rhoophila Cooke & Ellis SPECIES
-=======
+# Valsa rhoophila Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

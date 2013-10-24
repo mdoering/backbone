@@ -1,5 +1,4 @@
-Pseudocercospora meibomiae (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora meibomiae (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

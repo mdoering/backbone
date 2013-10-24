@@ -1,5 +1,4 @@
-Acarospora indica (Müll. Arg.) Hue SPECIES
-=======
+# Acarospora indica (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

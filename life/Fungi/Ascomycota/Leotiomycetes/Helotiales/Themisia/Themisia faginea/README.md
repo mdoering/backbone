@@ -1,5 +1,4 @@
-Themisia faginea Velen. SPECIES
-=======
+# Themisia faginea Velen. SPECIES
 
 #### Status
 ACCEPTED

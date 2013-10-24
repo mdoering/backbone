@@ -1,5 +1,4 @@
-Phaeodimeriella langloisii (Ellis & G. Martin) M.E. Barr SPECIES
-=======
+# Phaeodimeriella langloisii (Ellis & G. Martin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

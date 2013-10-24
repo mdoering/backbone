@@ -1,5 +1,4 @@
-Difflugia corona Wall. SPECIES
-=======
+# Difflugia corona Wall. SPECIES
 
 #### Status
 ACCEPTED

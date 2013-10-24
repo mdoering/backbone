@@ -1,5 +1,4 @@
-Flammula aureoviridis Pat. SPECIES
-=======
+# Flammula aureoviridis Pat. SPECIES
 
 #### Status
 ACCEPTED

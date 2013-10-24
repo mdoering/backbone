@@ -1,5 +1,4 @@
-Hendersonia plectranthi S. Ahmad SPECIES
-=======
+# Hendersonia plectranthi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

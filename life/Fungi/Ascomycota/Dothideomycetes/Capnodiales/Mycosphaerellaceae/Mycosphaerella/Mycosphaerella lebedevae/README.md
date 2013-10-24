@@ -1,5 +1,4 @@
-Mycosphaerella lebedevae Tomilin SPECIES
-=======
+# Mycosphaerella lebedevae Tomilin SPECIES
 
 #### Status
 ACCEPTED

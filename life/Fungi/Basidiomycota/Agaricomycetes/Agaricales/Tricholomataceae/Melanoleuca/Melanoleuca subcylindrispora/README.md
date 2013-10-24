@@ -1,5 +1,4 @@
-Melanoleuca subcylindrispora Murrill SPECIES
-=======
+# Melanoleuca subcylindrispora Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia leucopus Pers. SPECIES
-=======
+# Tubercularia leucopus Pers. SPECIES
 
 #### Status
 ACCEPTED

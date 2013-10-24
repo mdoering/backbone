@@ -1,5 +1,4 @@
-Pestalotiopsis coperniciae Steyaert SPECIES
-=======
+# Pestalotiopsis coperniciae Steyaert SPECIES
 
 #### Status
 ACCEPTED

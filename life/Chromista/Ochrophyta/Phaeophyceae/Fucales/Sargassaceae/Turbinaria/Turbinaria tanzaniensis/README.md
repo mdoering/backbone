@@ -1,5 +1,4 @@
-Turbinaria tanzaniensis Jaasund SPECIES
-=======
+# Turbinaria tanzaniensis Jaasund SPECIES
 
 #### Status
 ACCEPTED

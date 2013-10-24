@@ -1,17 +1,16 @@
-Arthonia varians var. varians (Davies) Nyl. VARIETY
-=======
+# Arthonia varians (Davies) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 260 (1861)
 
 #### Original name
-Arthonia varians var. varians (Davies) Nyl.
+Lichen varians Davies
 
 ### Remarks
 null

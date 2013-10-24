@@ -1,5 +1,4 @@
-Miliolinella valvularis (Reuss) SPECIES
-=======
+# Miliolinella valvularis (Reuss) SPECIES
 
 #### Status
 ACCEPTED

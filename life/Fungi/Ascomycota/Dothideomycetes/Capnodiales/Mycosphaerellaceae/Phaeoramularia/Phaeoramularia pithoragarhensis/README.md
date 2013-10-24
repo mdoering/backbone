@@ -1,5 +1,4 @@
-Phaeoramularia pithoragarhensis Kamal & Narayan SPECIES
-=======
+# Phaeoramularia pithoragarhensis Kamal & Narayan SPECIES
 
 #### Status
 ACCEPTED

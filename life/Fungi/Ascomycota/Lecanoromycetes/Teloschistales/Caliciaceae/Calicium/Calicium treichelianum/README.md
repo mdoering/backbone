@@ -1,5 +1,4 @@
-Calicium treichelianum Stein SPECIES
-=======
+# Calicium treichelianum Stein SPECIES
 
 #### Status
 ACCEPTED

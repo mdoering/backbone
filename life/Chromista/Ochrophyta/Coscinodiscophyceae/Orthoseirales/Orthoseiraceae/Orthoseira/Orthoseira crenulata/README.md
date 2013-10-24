@@ -1,5 +1,4 @@
-Orthoseira crenulata (Ehrenberg) Studnicka SPECIES
-=======
+# Orthoseira crenulata (Ehrenberg) Studnicka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium cristatum Grishina in Grishina & Klenina, 1981 SPECIES
-=======
+# Baltisphaeridium cristatum Grishina in Grishina & Klenina, 1981 SPECIES
 
 #### Status
 ACCEPTED

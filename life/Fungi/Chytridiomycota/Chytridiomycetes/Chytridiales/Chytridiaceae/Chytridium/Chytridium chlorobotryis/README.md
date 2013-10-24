@@ -1,5 +1,4 @@
-Chytridium chlorobotryis Fott SPECIES
-=======
+# Chytridium chlorobotryis Fott SPECIES
 
 #### Status
 ACCEPTED

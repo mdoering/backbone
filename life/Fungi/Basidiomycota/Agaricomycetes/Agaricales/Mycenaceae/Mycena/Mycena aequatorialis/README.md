@@ -1,5 +1,4 @@
-Mycena aequatorialis Singer SPECIES
-=======
+# Mycena aequatorialis Singer SPECIES
 
 #### Status
 ACCEPTED

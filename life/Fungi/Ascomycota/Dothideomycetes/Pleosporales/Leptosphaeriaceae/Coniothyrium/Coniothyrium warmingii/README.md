@@ -1,5 +1,4 @@
-Coniothyrium warmingii Lind SPECIES
-=======
+# Coniothyrium warmingii Lind SPECIES
 
 #### Status
 ACCEPTED

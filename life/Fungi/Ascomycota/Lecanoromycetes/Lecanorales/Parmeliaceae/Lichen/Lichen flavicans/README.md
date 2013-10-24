@@ -1,5 +1,4 @@
-Lichen flavicans J.F. Gmel. SPECIES
-=======
+# Lichen flavicans J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

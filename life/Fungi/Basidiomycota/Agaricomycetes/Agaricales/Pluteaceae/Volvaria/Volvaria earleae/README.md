@@ -1,5 +1,4 @@
-Volvaria earleae Murrill SPECIES
-=======
+# Volvaria earleae Murrill SPECIES
 
 #### Status
 ACCEPTED

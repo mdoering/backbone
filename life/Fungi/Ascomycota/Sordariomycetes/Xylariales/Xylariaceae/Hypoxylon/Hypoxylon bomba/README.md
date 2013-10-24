@@ -1,5 +1,4 @@
-Hypoxylon bomba Mont. SPECIES
-=======
+# Hypoxylon bomba Mont. SPECIES
 
 #### Status
 ACCEPTED

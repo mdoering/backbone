@@ -1,5 +1,4 @@
-Pertusaria cyclops Körb. SPECIES
-=======
+# Pertusaria cyclops Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula santensis (Nyl.) Müll. Arg., 1882 SPECIES
-=======
+# Pyrenula santensis (Nyl.) Müll. Arg., 1882 SPECIES
 
 #### Status
 DOUBTFUL

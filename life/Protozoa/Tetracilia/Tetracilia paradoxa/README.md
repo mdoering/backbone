@@ -1,5 +1,4 @@
-Tetracilia paradoxa Valkanov, 1970 SPECIES
-=======
+# Tetracilia paradoxa Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

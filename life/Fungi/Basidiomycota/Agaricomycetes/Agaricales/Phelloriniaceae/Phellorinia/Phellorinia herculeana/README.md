@@ -1,17 +1,16 @@
-Phellorinia herculeana subsp. strobilina (Kalchbr.) Dring SUBSPECIES
-=======
+# Phellorinia herculeana (Pers.) Kreisel, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Scleroderma strobilinum Kalchbr., 1875
+Scleroderma herculaneum Pers.
 
 ### Remarks
 null

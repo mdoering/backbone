@@ -1,5 +1,4 @@
-Asteridiella citharexyli Henn. SPECIES
-=======
+# Asteridiella citharexyli Henn. SPECIES
 
 #### Status
 ACCEPTED

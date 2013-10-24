@@ -1,5 +1,4 @@
-Ochrolechia roseosorediosa Gyeln. SPECIES
-=======
+# Ochrolechia roseosorediosa Gyeln. SPECIES
 
 #### Status
 ACCEPTED

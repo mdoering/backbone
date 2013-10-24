@@ -1,17 +1,16 @@
-Coniochaeta gymnosporae S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Coniochaeta gymnosporiae S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 25(2): 294 (1973)
 
 #### Original name
-Coniochaeta gymnosporae S.B. Kale & S.V.S. Kale
+Coniochaeta gymnosporiae S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

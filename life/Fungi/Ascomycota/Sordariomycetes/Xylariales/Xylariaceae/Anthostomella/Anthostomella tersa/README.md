@@ -1,5 +1,4 @@
-Anthostomella tersa Sacc. SPECIES
-=======
+# Anthostomella tersa Sacc. SPECIES
 
 #### Status
 ACCEPTED

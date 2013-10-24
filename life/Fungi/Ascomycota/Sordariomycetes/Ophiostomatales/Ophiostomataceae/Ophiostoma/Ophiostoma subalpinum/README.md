@@ -1,5 +1,4 @@
-Ophiostoma subalpinum Ohtaka & Masuya SPECIES
-=======
+# Ophiostoma subalpinum Ohtaka & Masuya SPECIES
 
 #### Status
 ACCEPTED

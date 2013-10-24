@@ -1,5 +1,4 @@
-Ectocarpus hancockii E.Y. Dawson SPECIES
-=======
+# Ectocarpus hancockii E.Y. Dawson SPECIES
 
 #### Status
 ACCEPTED

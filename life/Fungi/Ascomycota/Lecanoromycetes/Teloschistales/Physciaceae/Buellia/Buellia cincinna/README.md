@@ -1,5 +1,4 @@
-Buellia cincinna Th. Fr. SPECIES
-=======
+# Buellia cincinna Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

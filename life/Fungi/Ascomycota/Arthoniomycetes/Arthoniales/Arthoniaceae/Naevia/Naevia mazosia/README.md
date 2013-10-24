@@ -1,5 +1,4 @@
-Naevia mazosia A. Massal. SPECIES
-=======
+# Naevia mazosia A. Massal. SPECIES
 
 #### Status
 ACCEPTED

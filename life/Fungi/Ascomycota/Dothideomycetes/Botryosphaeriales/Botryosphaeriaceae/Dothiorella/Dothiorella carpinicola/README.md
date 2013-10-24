@@ -1,5 +1,4 @@
-Dothiorella carpinicola (Delacr.) Petr. & Syd. SPECIES
-=======
+# Dothiorella carpinicola (Delacr.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

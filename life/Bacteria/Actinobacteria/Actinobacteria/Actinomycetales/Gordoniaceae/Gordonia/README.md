@@ -1,5 +1,4 @@
-Gordonia (ex Tsukamura, 1971) Stackebrandt, Smida & Collins, 1989 GENUS
-=======
+# Gordonia (ex Tsukamura, 1971) Stackebrandt, Smida & Collins, 1989 GENUS
 
 #### Status
 ACCEPTED

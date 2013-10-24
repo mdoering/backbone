@@ -1,5 +1,4 @@
-Pyrenidiomyces actinelli Cif. & Tomas. SPECIES
-=======
+# Pyrenidiomyces actinelli Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

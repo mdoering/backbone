@@ -1,5 +1,4 @@
-Lichen sordidescens Pers. SPECIES
-=======
+# Lichen sordidescens Pers. SPECIES
 
 #### Status
 ACCEPTED

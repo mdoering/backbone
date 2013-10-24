@@ -1,5 +1,4 @@
-Hypoxylites bertschianus Kirschst. SPECIES
-=======
+# Hypoxylites bertschianus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

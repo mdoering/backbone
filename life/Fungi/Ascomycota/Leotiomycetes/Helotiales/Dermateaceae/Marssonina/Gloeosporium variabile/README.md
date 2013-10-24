@@ -1,5 +1,4 @@
-Gloeosporium variabile Laubert SPECIES
-=======
+# Gloeosporium variabile Laubert SPECIES
 
 #### Status
 ACCEPTED

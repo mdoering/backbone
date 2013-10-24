@@ -1,5 +1,4 @@
-Meliola inconspicua Hansf. SPECIES
-=======
+# Meliola inconspicua Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeotromera GENUS
-=======
+# Gloeotromera GENUS
 
 #### Status
 ACCEPTED

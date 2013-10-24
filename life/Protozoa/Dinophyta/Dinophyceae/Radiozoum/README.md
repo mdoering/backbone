@@ -1,5 +1,4 @@
-Radiozoum Mingazzini, 1904 GENUS
-=======
+# Radiozoum Mingazzini, 1904 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Clavaria greletii var. grandispora Corner VARIETY
-=======
+# Clavaria greletii Boud., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 50: 37 (1967)
+Bull. Soc. mycol. Fr. 33: 13 (1917)
 
 #### Original name
-Clavaria greletii var. grandispora Corner
+Clavaria greletii Boud., 1917
 
 ### Remarks
 null

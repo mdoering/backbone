@@ -1,5 +1,4 @@
-Marasmius lanaripes Cooke & Massee SPECIES
-=======
+# Marasmius lanaripes Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

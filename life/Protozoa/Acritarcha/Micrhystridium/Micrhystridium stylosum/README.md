@@ -1,5 +1,4 @@
-Micrhystridium stylosum Kiryanov, 1978 SPECIES
-=======
+# Micrhystridium stylosum Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

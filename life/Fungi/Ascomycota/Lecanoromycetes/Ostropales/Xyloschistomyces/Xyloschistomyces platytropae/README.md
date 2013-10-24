@@ -1,5 +1,4 @@
-Xyloschistomyces platytropae Cif. & Tomas. SPECIES
-=======
+# Xyloschistomyces platytropae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

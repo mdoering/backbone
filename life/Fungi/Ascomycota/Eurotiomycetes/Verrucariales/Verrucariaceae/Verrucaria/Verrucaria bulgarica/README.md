@@ -1,5 +1,4 @@
-Verrucaria bulgarica Szatala SPECIES
-=======
+# Verrucaria bulgarica Szatala SPECIES
 
 #### Status
 ACCEPTED

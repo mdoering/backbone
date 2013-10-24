@@ -1,5 +1,4 @@
-Ciboria gracilipes P. Karst. SPECIES
-=======
+# Ciboria gracilipes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

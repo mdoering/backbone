@@ -1,5 +1,4 @@
-Pseudocercospora kigeziensis (Ebbels & Deighton) Deighton SPECIES
-=======
+# Pseudocercospora kigeziensis (Ebbels & Deighton) Deighton SPECIES
 
 #### Status
 ACCEPTED

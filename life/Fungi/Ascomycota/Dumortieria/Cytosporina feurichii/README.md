@@ -1,5 +1,4 @@
-Cytosporina feurichii Bubák SPECIES
-=======
+# Cytosporina feurichii Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Labrospira Höglund, 1947 GENUS
-=======
+# Cribrostomoides Cushman, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. U. S. Nat. Mus. , No. 71 (1), 108.
 
 #### Original name
 null

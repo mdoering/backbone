@@ -1,17 +1,16 @@
-Boletus rubellus f. rubellus FORM
-=======
+# Boletus rubellus Krombh., 1836 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Naturgetr. Abbild. Beschr. Schwämme (Prague) 5: 4 (1836)
 
 #### Original name
-null
+Boletus rubellus Krombh., 1836
 
 ### Remarks
 null

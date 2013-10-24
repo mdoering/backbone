@@ -1,14 +1,13 @@
-Agaricus temperatus Berk. & Broome, 1879 SPECIES
-=======
+# Volvaria temperata (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 3: 205 (1879)
+Syll. fung. (Abellini) 5: 660 (1887)
 
 #### Original name
 Agaricus temperatus Berk. & Broome, 1879

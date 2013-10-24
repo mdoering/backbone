@@ -1,5 +1,4 @@
-Pandora nouryi (Remaud. & Hennebert) Humber, 1989 SPECIES
-=======
+# Pandora nouryi (Remaud. & Hennebert) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycorhynchus spinuliformis (Speg.) Breton & Faurel SPECIES
-=======
+# Mycorhynchus spinuliformis (Speg.) Breton & Faurel SPECIES
 
 #### Status
 ACCEPTED

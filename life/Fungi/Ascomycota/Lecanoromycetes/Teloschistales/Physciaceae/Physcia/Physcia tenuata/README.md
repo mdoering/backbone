@@ -1,5 +1,4 @@
-Physcia tenuata (Nyl.) Arnold SPECIES
-=======
+# Physcia tenuata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

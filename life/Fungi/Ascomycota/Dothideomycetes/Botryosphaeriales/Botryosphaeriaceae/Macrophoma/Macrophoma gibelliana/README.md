@@ -1,5 +1,4 @@
-Macrophoma gibelliana Scalia SPECIES
-=======
+# Macrophoma gibelliana Scalia SPECIES
 
 #### Status
 ACCEPTED

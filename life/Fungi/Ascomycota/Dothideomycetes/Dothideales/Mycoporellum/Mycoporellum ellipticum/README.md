@@ -1,5 +1,4 @@
-Mycoporellum ellipticum Müll. Arg. SPECIES
-=======
+# Mycoporellum ellipticum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

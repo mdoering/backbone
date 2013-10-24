@@ -1,17 +1,16 @@
-Placodes Quél. GENUS
-=======
+# Fomes (E.M. Fries) E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Enchir. fung. (Paris) 170 (1886)
+null
 
 #### Original name
-Placodes Quél.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Deigloria amoena Agerer, 1980 SPECIES
-=======
+# Deigloria amoena Agerer, 1980 SPECIES
 
 #### Status
 ACCEPTED

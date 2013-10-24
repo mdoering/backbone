@@ -1,5 +1,4 @@
-Lecidea paanaënsis Räsänen & M. Laur. {?} SPECIES
-=======
+# Lecidea paanaënsis Räsänen & M. Laur. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Systenostrema candida J.I.R. Larsson SPECIES
-=======
+# Systenostrema candida J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

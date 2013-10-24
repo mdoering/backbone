@@ -1,5 +1,4 @@
-Phyllachora incrustans (Racib.) Petr., 1929 SPECIES
-=======
+# Phyllachora incrustans (Racib.) Petr., 1929 SPECIES
 
 #### Status
 DOUBTFUL

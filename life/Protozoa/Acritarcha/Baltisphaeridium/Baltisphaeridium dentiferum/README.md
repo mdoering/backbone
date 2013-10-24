@@ -1,5 +1,4 @@
-Baltisphaeridium dentiferum Cramer & Díez, 1972 SPECIES
-=======
+# Baltisphaeridium dentiferum Cramer & Díez, 1972 SPECIES
 
 #### Status
 ACCEPTED

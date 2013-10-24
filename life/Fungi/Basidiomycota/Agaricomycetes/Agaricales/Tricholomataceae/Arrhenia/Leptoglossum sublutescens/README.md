@@ -1,5 +1,4 @@
-Leptoglossum sublutescens W.B. Cooke SPECIES
-=======
+# Leptoglossum sublutescens W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

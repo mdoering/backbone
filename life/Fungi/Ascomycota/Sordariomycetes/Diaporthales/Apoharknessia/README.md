@@ -1,5 +1,4 @@
-Apoharknessia Crous & S.J. Lee GENUS
-=======
+# Apoharknessia Crous & S.J. Lee GENUS
 
 #### Status
 ACCEPTED

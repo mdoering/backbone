@@ -1,5 +1,4 @@
-Diacheopsis depressa K.S. Thind & T.N. Lakh., 1968 SPECIES
-=======
+# Diacheopsis depressa K.S. Thind & T.N. Lakh., 1968 SPECIES
 
 #### Status
 ACCEPTED

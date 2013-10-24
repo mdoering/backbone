@@ -1,14 +1,13 @@
-Leptoporus moeszii Pilát ex Pilát, 1953 SPECIES
-=======
+# Rigidoporus moeszii (Pilát ex Pilát) Pouzar, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborn. Nár. Mus. v Praze, Rada B, Prír. Vedy 9(2): (1953)
+Ceská Mykol. 1: 368 (1966)
 
 #### Original name
 Leptoporus moeszii Pilát ex Pilát, 1953

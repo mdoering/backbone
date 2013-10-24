@@ -1,5 +1,4 @@
-Aspergillus conicus Blochwitz, 1914 SPECIES
-=======
+# Aspergillus conicus Blochwitz, 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota brunnescens Peck SPECIES
-=======
+# Lepiota brunnescens Peck SPECIES
 
 #### Status
 ACCEPTED

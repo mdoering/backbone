@@ -1,5 +1,4 @@
-Stigmatea sclerotidea Cooke SPECIES
-=======
+# Stigmatea sclerotidea Cooke SPECIES
 
 #### Status
 ACCEPTED

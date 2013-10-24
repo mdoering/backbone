@@ -1,5 +1,4 @@
-Pannaria granulifera Müll. Arg. SPECIES
-=======
+# Pannaria granulifera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

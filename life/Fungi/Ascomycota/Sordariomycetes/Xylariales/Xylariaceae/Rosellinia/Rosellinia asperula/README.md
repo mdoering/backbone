@@ -1,5 +1,4 @@
-Rosellinia asperula (Mont.) Sacc. SPECIES
-=======
+# Rosellinia asperula (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

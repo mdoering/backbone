@@ -1,5 +1,4 @@
-Pseudocyphellaria exanthematica I.M. Lamb SPECIES
-=======
+# Pseudocyphellaria exanthematica I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

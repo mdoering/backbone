@@ -1,5 +1,4 @@
-Sporormia cannabina P. Karst. SPECIES
-=======
+# Sporormia cannabina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

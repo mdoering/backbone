@@ -1,5 +1,4 @@
-Fusidium betae Rabenh. ex Thüm. SPECIES
-=======
+# Fusidium betae Rabenh. ex Thüm. SPECIES
 
 #### Status
 ACCEPTED

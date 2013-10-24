@@ -1,5 +1,4 @@
-Paraceratocladium seychellarum Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Paraceratocladium seychellarum Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

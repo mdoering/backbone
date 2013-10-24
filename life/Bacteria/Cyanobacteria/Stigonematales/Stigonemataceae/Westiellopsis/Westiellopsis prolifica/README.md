@@ -1,5 +1,4 @@
-Westiellopsis prolifica Janet SPECIES
-=======
+# Westiellopsis prolifica Janet SPECIES
 
 #### Status
 ACCEPTED

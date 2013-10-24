@@ -1,5 +1,4 @@
-Ascosporassis GENUS
-=======
+# Ascosporassis GENUS
 
 #### Status
 ACCEPTED

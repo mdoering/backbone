@@ -1,5 +1,4 @@
-Olpidium zootocum (A. Braun) J. Schröt. SPECIES
-=======
+# Olpidium zootocum (A. Braun) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

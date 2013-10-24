@@ -1,5 +1,4 @@
-Esosyrinx Loeblich & Tappan, 1953 GENUS
-=======
+# Esosyrinx Loeblich & Tappan, 1953 GENUS
 
 #### Status
 ACCEPTED

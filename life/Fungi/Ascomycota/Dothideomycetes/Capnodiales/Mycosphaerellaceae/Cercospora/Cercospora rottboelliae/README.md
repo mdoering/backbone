@@ -1,5 +1,4 @@
-Cercospora rottboelliae J. Kranz SPECIES
-=======
+# Cercospora rottboelliae J. Kranz SPECIES
 
 #### Status
 ACCEPTED

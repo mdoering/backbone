@@ -1,5 +1,4 @@
-Coccopedia andina Schwabe SPECIES
-=======
+# Coccopedia andina Schwabe SPECIES
 
 #### Status
 ACCEPTED

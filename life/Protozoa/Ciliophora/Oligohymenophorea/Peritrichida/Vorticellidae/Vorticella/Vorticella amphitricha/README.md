@@ -1,5 +1,4 @@
-Vorticella amphitricha Schmarda, 1854 SPECIES
-=======
+# Vorticella amphitricha Schmarda, 1854 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hainesia lunata J. Kranz SPECIES
-=======
+# Hainesia lunata J. Kranz SPECIES
 
 #### Status
 ACCEPTED

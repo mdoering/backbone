@@ -1,8 +1,7 @@
-Rhizobium ciceri Nour et al., 1994 SPECIES
-=======
+# Mesorhizobium ciceri (Nour et al., 1994) Jarvis et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

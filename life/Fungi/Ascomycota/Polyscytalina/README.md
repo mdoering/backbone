@@ -1,5 +1,4 @@
-Polyscytalina Arnaud, 1954 GENUS
-=======
+# Polyscytalina Arnaud, 1954 GENUS
 
 #### Status
 ACCEPTED

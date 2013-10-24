@@ -1,5 +1,4 @@
-Botrytis multifida (Corda) Sacc. SPECIES
-=======
+# Botrytis multifida (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

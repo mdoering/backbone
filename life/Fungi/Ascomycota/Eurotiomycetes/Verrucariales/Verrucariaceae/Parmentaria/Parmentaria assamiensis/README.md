@@ -1,5 +1,4 @@
-Parmentaria assamiensis (Stirt.) Zahlbr. SPECIES
-=======
+# Parmentaria assamiensis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

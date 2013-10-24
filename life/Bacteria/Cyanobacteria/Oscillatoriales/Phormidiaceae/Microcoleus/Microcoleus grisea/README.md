@@ -1,5 +1,4 @@
-Microcoleus grisea Thur. ex Bornet & Flahault SPECIES
-=======
+# Microcoleus grisea Thur. ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

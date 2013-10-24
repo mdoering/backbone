@@ -1,5 +1,4 @@
-Hohenbuehelia spegazzinii Singer SPECIES
-=======
+# Hohenbuehelia spegazzinii Singer SPECIES
 
 #### Status
 ACCEPTED

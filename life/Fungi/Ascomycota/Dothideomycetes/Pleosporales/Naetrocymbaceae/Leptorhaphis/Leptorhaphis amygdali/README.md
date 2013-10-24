@@ -1,17 +1,16 @@
-Leptorhaphis parameca f. amygdali (A. Massal.) Keissl. FORM
-=======
+# Leptorhaphis amygdali (A. Massal.) Zwackh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 45: 565 (1862)
 
 #### Original name
-null
+Campylacia amygdali A. Massal.
 
 ### Remarks
 null

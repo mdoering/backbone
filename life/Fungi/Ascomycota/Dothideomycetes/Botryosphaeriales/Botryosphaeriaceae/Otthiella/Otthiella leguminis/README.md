@@ -1,5 +1,4 @@
-Otthiella leguminis (Rehm) Höhn. SPECIES
-=======
+# Otthiella leguminis (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

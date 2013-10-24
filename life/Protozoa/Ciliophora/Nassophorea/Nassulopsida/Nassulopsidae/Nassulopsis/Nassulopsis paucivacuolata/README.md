@@ -1,5 +1,4 @@
-Nassulopsis paucivacuolata (Foissner, 1979) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Nassulopsis paucivacuolata (Foissner, 1979) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

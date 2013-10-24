@@ -1,5 +1,4 @@
-Penicillium radiatolobatum Lörinczi SPECIES
-=======
+# Penicillium radiatolobatum Lörinczi SPECIES
 
 #### Status
 ACCEPTED

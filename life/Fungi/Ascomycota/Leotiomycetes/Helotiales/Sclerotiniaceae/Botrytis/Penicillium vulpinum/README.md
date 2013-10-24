@@ -1,8 +1,7 @@
-Penicillium claviforme Bainier, 1905 SPECIES
-=======
+# Penicillium vulpinum (Cooke & Massee) Seifert & Samson, 1986 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

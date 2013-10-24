@@ -1,5 +1,4 @@
-Guepinia tubiformis Fuckel SPECIES
-=======
+# Guepinia tubiformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

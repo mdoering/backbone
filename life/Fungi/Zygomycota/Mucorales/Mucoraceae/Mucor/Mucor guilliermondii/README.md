@@ -1,5 +1,4 @@
-Mucor guilliermondii Nadson & Philippow, 1925 SPECIES
-=======
+# Mucor guilliermondii Nadson & Philippow, 1925 SPECIES
 
 #### Status
 ACCEPTED

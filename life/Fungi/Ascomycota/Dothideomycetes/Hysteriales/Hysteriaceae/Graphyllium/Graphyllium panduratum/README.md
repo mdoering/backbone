@@ -1,5 +1,4 @@
-Graphyllium panduratum Checa, Shoemaker & Umaña, 2007 SPECIES
-=======
+# Graphyllium panduratum Checa, Shoemaker & Umaña, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epiplocylis constricta Kofoid & Campbell, 1929 SPECIES
-=======
+# Epiplocylis constricta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

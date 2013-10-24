@@ -1,5 +1,4 @@
-Gyrophora fuliginosa var. fuliginosa VARIETY
-=======
+# Gyrophora fuliginosa Hav. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora fuliginosa var. fuliginosa
+Gyrophora fuliginosa Hav.
 
 ### Remarks
 null

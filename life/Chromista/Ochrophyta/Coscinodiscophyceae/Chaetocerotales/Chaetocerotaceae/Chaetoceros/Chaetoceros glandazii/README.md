@@ -1,5 +1,4 @@
-Chaetoceros glandazii Mangin SPECIES
-=======
+# Chaetoceros glandazii Mangin SPECIES
 
 #### Status
 ACCEPTED

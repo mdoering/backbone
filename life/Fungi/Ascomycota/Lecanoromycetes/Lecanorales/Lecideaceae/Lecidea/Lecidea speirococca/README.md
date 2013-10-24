@@ -1,5 +1,4 @@
-Lecidea speirococca Nyl. SPECIES
-=======
+# Lecidea speirococca Nyl. SPECIES
 
 #### Status
 ACCEPTED

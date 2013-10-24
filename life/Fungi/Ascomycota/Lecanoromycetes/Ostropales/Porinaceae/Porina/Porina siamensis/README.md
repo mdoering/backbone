@@ -1,5 +1,4 @@
-Porina siamensis P. M. McCarthy SPECIES
-=======
+# Porina siamensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

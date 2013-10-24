@@ -1,5 +1,4 @@
-Prunulus lammiensis (Harmaja) Harmaja SPECIES
-=======
+# Prunulus lammiensis (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

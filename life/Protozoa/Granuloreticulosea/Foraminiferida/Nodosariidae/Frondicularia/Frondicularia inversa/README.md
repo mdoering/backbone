@@ -1,5 +1,4 @@
-Frondicularia inversa Reuss SPECIES
-=======
+# Frondicularia inversa Reuss SPECIES
 
 #### Status
 ACCEPTED

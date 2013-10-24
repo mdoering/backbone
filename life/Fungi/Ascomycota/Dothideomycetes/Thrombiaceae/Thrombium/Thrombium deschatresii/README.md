@@ -1,5 +1,4 @@
-Thrombium deschatresii Werner SPECIES
-=======
+# Thrombium deschatresii Werner SPECIES
 
 #### Status
 ACCEPTED

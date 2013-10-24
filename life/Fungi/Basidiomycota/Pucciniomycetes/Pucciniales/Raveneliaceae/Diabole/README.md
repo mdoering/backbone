@@ -1,5 +1,4 @@
-Diabole Arthur, 1922 GENUS
-=======
+# Diabole Arthur, 1922 GENUS
 
 #### Status
 ACCEPTED

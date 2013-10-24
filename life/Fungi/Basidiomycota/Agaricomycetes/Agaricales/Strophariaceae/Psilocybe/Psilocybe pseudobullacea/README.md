@@ -1,5 +1,4 @@
-Psilocybe pseudobullacea (Petch) Pegler, 1977 SPECIES
-=======
+# Psilocybe pseudobullacea (Petch) Pegler, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amblyosporium thaxteri Piroz. SPECIES
-=======
+# Amblyosporium thaxteri Piroz. SPECIES
 
 #### Status
 ACCEPTED

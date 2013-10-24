@@ -1,5 +1,4 @@
-Thelotrema boninense Tat. Matsumoto SPECIES
-=======
+# Thelotrema boninense Tat. Matsumoto SPECIES
 
 #### Status
 ACCEPTED

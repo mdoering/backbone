@@ -1,5 +1,4 @@
-Penicillium wallandi Svilv. SPECIES
-=======
+# Penicillium wallandi Svilv. SPECIES
 
 #### Status
 ACCEPTED

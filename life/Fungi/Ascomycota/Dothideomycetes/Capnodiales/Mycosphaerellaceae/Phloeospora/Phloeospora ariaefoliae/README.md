@@ -1,5 +1,4 @@
-Phloeospora ariaefoliae (Ellis & Everh.) Höhn. SPECIES
-=======
+# Phloeospora ariaefoliae (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

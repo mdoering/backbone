@@ -1,5 +1,4 @@
-Biatora lojkana J. Lahm SPECIES
-=======
+# Biatora lojkana J. Lahm SPECIES
 
 #### Status
 ACCEPTED

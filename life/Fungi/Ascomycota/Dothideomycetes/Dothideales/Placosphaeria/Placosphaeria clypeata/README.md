@@ -1,5 +1,4 @@
-Placosphaeria clypeata Briosi & Har. SPECIES
-=======
+# Placosphaeria clypeata Briosi & Har. SPECIES
 
 #### Status
 ACCEPTED

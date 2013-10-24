@@ -1,5 +1,4 @@
-Gymnopilus tenuis Murrill SPECIES
-=======
+# Gymnopilus tenuis Murrill SPECIES
 
 #### Status
 ACCEPTED

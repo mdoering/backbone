@@ -1,5 +1,4 @@
-Inocybe albovestita E. Horak, 1978 SPECIES
-=======
+# Inocybe albovestita E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

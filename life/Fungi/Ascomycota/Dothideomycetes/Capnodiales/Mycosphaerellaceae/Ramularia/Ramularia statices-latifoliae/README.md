@@ -1,5 +1,4 @@
-Ramularia statices-latifoliae var. statices-latifoliae VARIETY
-=======
+# Ramularia statices-latifoliae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 73: 115 (1933)
 
 #### Original name
-Ramularia statices-latifoliae var. statices-latifoliae
+Ramularia statices-latifoliae Savul. & Sandu
 
 ### Remarks
 null

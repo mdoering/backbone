@@ -1,8 +1,7 @@
-Protoparmeliopsis laatokkaensis (Räsänen) Moberg & R. Sant. SPECIES
-=======
+# Lecanora laatokkaensis (Räsänen) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

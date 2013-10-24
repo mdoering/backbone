@@ -1,5 +1,4 @@
-Echinoplaca campanulata Kalb & Vezda SPECIES
-=======
+# Echinoplaca campanulata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

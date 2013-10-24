@@ -1,5 +1,4 @@
-Entomophthora pallida (Roiv.) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora pallida (Roiv.) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria velutina (Bernh.) Ach. SPECIES
-=======
+# Verrucaria velutina (Bernh.) Ach. SPECIES
 
 #### Status
 ACCEPTED

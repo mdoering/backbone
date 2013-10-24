@@ -1,17 +1,16 @@
-Passalora gmeliniicola C. Nakash. & Meeboon SPECIES
-=======
+# Passalora gmelinicola C. Nakash. & Meeboon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Nakashima, Meeboon, Motohashi & To-anun, Fungal Diversity 26(1): 260 (2007)
 
 #### Original name
-Passalora gmeliniicola C. Nakash. & Meeboon
+Passalora gmelinicola C. Nakash. & Meeboon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhodophyllus vallicutis Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus vallicutis Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

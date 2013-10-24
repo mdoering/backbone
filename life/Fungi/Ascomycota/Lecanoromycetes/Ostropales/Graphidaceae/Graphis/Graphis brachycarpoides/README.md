@@ -1,5 +1,4 @@
-Graphis brachycarpoides Zahlbr. SPECIES
-=======
+# Graphis brachycarpoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

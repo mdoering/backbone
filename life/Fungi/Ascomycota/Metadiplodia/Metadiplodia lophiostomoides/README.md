@@ -1,5 +1,4 @@
-Metadiplodia lophiostomoides (Ellis & Barthol.) Zambett. SPECIES
-=======
+# Metadiplodia lophiostomoides (Ellis & Barthol.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

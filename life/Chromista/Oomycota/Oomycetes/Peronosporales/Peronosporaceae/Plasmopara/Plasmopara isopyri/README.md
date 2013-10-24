@@ -1,5 +1,4 @@
-Plasmopara isopyri Skalický SPECIES
-=======
+# Plasmopara isopyri Skalický SPECIES
 
 #### Status
 ACCEPTED

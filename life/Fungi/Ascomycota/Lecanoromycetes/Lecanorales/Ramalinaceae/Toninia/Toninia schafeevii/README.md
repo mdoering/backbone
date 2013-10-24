@@ -1,5 +1,4 @@
-Toninia schafeevii Tomin SPECIES
-=======
+# Toninia schafeevii Tomin SPECIES
 
 #### Status
 ACCEPTED

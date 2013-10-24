@@ -1,5 +1,4 @@
-Dioicomyces uncinatus Speg. SPECIES
-=======
+# Dioicomyces uncinatus Speg. SPECIES
 
 #### Status
 ACCEPTED

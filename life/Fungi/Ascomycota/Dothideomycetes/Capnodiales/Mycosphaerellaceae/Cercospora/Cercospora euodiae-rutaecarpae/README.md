@@ -1,17 +1,16 @@
-Cercospora evodio-rutaecarpae S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora euodiae-rutaecarpae S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 11(3): 60 (1990)
 
 #### Original name
-Cercospora evodio-rutaecarpae S.Q. Chen & P.K. Chi
+Cercospora euodiae-rutaecarpae S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

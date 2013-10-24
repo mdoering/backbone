@@ -1,5 +1,4 @@
-Cortinarius nauseosmus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius nauseosmus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

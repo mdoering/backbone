@@ -1,5 +1,4 @@
-Dyadosporonites constrictus Trivedi & C.L. Verma SPECIES
-=======
+# Dyadosporonites constrictus Trivedi & C.L. Verma SPECIES
 
 #### Status
 ACCEPTED

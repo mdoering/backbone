@@ -1,5 +1,4 @@
-Septoidium loranthacearum Viégas SPECIES
-=======
+# Septoidium loranthacearum Viégas SPECIES
 
 #### Status
 ACCEPTED

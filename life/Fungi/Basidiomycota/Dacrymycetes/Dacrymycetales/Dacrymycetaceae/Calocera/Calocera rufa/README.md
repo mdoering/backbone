@@ -1,5 +1,4 @@
-Calocera rufa Lloyd SPECIES
-=======
+# Calocera rufa Lloyd SPECIES
 
 #### Status
 ACCEPTED

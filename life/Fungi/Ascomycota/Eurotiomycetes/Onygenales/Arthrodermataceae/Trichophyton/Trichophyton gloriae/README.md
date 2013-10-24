@@ -1,5 +1,4 @@
-Trichophyton gloriae Ajello SPECIES
-=======
+# Trichophyton gloriae Ajello SPECIES
 
 #### Status
 ACCEPTED

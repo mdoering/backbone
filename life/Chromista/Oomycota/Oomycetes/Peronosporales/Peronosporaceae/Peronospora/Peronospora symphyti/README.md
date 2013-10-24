@@ -1,5 +1,4 @@
-Peronospora symphyti Gäum., 1923 SPECIES
-=======
+# Peronospora symphyti Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

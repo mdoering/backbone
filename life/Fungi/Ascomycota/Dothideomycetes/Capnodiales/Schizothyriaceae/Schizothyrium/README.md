@@ -1,17 +1,16 @@
-Polyclypeolum Theiss. GENUS
-=======
+# Schizothyrium Desmazières, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 12: 67 (1914)
+null
 
 #### Original name
-Polyclypeolum Theiss.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Brachysporium vaccinii (Fr.) Sacc. SPECIES
-=======
+# Brachysporium vaccinii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

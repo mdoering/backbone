@@ -1,5 +1,4 @@
-Phomopsis lumae Syd. SPECIES
-=======
+# Phomopsis lumae Syd. SPECIES
 
 #### Status
 ACCEPTED

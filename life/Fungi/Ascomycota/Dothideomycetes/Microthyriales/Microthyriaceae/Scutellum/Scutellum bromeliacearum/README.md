@@ -1,5 +1,4 @@
-Scutellum bromeliacearum (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Scutellum bromeliacearum (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria straminea (Eschw.) Kremp. SPECIES
-=======
+# Verrucaria straminea (Eschw.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

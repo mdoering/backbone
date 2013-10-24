@@ -1,5 +1,4 @@
-Patellaria caerulescens P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria caerulescens P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

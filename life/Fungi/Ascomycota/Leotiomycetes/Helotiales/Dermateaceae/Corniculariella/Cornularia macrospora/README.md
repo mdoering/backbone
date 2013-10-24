@@ -1,5 +1,4 @@
-Cornularia macrospora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Cornularia macrospora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

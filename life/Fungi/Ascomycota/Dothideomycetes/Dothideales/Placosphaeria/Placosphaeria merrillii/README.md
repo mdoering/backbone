@@ -1,5 +1,4 @@
-Placosphaeria merrillii Henn. SPECIES
-=======
+# Placosphaeria merrillii Henn. SPECIES
 
 #### Status
 ACCEPTED

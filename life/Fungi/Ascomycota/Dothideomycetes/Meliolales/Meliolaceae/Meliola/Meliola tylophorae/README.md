@@ -1,5 +1,4 @@
-Meliola tylophorae Hosag. SPECIES
-=======
+# Meliola tylophorae Hosag. SPECIES
 
 #### Status
 ACCEPTED

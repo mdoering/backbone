@@ -1,5 +1,4 @@
-Thyromata Rögl & Hansen, 2009 GENUS
-=======
+# Thyromata Rögl & Hansen, 2009 GENUS
 
 #### Status
 ACCEPTED

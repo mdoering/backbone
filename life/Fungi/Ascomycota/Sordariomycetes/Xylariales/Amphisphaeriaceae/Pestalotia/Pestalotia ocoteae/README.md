@@ -1,5 +1,4 @@
-Pestalotia ocoteae Laughton SPECIES
-=======
+# Pestalotia ocoteae Laughton SPECIES
 
 #### Status
 ACCEPTED

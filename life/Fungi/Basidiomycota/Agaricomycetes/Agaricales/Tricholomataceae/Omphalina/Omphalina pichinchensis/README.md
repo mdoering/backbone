@@ -1,5 +1,4 @@
-Omphalina pichinchensis (Pat.) Raithelh. SPECIES
-=======
+# Omphalina pichinchensis (Pat.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

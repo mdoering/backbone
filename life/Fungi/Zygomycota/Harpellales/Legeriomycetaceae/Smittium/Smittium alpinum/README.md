@@ -1,5 +1,4 @@
-Smittium alpinum Lichtw., 1984 SPECIES
-=======
+# Smittium alpinum Lichtw., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerodes singaporensis (Morinaga, Minoura & Udagawa) Dania García, Stchigel & Guarro SPECIES
-=======
+# Sphaerodes singaporensis (Morinaga, Minoura & Udagawa) Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

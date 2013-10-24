@@ -1,5 +1,4 @@
-Pleurotus camerunensis Henn. SPECIES
-=======
+# Pleurotus camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

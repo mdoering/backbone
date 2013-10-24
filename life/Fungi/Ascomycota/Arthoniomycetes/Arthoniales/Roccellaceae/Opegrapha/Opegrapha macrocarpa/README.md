@@ -1,5 +1,4 @@
-Opegrapha macrocarpa Pers. SPECIES
-=======
+# Opegrapha macrocarpa Pers. SPECIES
 
 #### Status
 ACCEPTED

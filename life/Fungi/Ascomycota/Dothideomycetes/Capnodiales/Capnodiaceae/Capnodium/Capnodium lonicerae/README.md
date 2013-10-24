@@ -1,5 +1,4 @@
-Capnodium lonicerae (Fuckel) Sacc. SPECIES
-=======
+# Capnodium lonicerae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

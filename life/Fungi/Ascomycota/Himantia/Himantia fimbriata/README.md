@@ -1,5 +1,4 @@
-Himantia fimbriata Pers. SPECIES
-=======
+# Himantia fimbriata Pers. SPECIES
 
 #### Status
 ACCEPTED

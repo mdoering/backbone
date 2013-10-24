@@ -1,5 +1,4 @@
-Actinoplanes rectilineatus Lechevalier and Lechevalier, 1975 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes rectilineatus Lechevalier and Lechevalier, 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

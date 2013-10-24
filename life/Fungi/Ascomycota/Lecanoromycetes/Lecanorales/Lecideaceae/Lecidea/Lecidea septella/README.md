@@ -1,5 +1,4 @@
-Lecidea septella (Nyl.) Hue SPECIES
-=======
+# Lecidea septella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

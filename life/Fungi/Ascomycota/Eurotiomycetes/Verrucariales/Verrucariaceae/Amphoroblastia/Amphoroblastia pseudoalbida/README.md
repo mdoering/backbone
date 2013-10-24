@@ -1,5 +1,4 @@
-Amphoroblastia pseudoalbida Servít SPECIES
-=======
+# Amphoroblastia pseudoalbida Servít SPECIES
 
 #### Status
 ACCEPTED

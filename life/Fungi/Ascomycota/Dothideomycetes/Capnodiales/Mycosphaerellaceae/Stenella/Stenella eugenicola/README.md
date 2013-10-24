@@ -1,5 +1,4 @@
-Stenella eugenicola A.K. Srivast. SPECIES
-=======
+# Stenella eugenicola A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

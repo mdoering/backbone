@@ -1,5 +1,4 @@
-Phyllostictina psidiicola Petr. SPECIES
-=======
+# Phyllostictina psidiicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichormus rotundosporus (Hollerbach) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus rotundosporus (Hollerbach) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

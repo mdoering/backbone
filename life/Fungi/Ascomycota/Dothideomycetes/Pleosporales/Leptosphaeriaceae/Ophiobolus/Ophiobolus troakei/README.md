@@ -1,5 +1,4 @@
-Ophiobolus troakei D. Hawksw. & Sivan., 1975 SPECIES
-=======
+# Ophiobolus troakei D. Hawksw. & Sivan., 1975 SPECIES
 
 #### Status
 ACCEPTED

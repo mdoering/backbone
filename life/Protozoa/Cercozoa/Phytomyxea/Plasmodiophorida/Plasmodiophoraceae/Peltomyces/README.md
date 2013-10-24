@@ -1,5 +1,4 @@
-Peltomyces L. Léger GENUS
-=======
+# Peltomyces L. Léger GENUS
 
 #### Status
 ACCEPTED

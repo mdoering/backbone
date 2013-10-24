@@ -1,5 +1,4 @@
-Trematosphaeria funalis Vouaux SPECIES
-=======
+# Trematosphaeria funalis Vouaux SPECIES
 
 #### Status
 ACCEPTED

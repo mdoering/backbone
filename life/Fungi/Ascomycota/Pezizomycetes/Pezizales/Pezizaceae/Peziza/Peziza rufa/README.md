@@ -1,5 +1,4 @@
-Peziza rufa var. cupressina Pers. VARIETY
-=======
+# Peziza rufa Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 667 (1801)
+null
 
 #### Original name
-Peziza rufa var. cupressina Pers.
+Peziza rufa Fr.
 
 ### Remarks
 null

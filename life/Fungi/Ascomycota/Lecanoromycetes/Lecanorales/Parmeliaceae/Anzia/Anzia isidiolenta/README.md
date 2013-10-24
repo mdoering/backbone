@@ -1,5 +1,4 @@
-Anzia isidiolenta Diederich & Sipman SPECIES
-=======
+# Anzia isidiolenta Diederich & Sipman SPECIES
 
 #### Status
 ACCEPTED

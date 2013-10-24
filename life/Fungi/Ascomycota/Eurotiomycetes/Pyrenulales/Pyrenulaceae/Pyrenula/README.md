@@ -1,17 +1,16 @@
-Pyrenulomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Pyrenula Acharius, 1814 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 30, 57 (1953)
+Syn. meth. lich. 117 (1814)
 
 #### Original name
-Pyrenulomyces E.A. Thomas ex Cif. & Tomas.
+Pyrenula Acharius, 1814
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tricholoma subgambosum Ces. SPECIES
-=======
+# Tricholoma subgambosum Ces. SPECIES
 
 #### Status
 ACCEPTED

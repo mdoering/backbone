@@ -1,5 +1,4 @@
-Pertusaria trichosa Elix & A. W. Archer SPECIES
-=======
+# Pertusaria trichosa Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

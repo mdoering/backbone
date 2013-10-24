@@ -1,5 +1,4 @@
-Amauroascus mutatus (Quél.) Rammeloo SPECIES
-=======
+# Amauroascus mutatus (Quél.) Rammeloo SPECIES
 
 #### Status
 ACCEPTED

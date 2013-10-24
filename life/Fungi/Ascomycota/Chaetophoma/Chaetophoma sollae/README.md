@@ -1,5 +1,4 @@
-Chaetophoma sollae Pass. SPECIES
-=======
+# Chaetophoma sollae Pass. SPECIES
 
 #### Status
 ACCEPTED

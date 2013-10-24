@@ -1,17 +1,16 @@
-Lembosina gontardi E. Müll., 1963 SPECIES
-=======
+# Lembosina gontardii E. Müll., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 6: 148 (1963)
 
 #### Original name
-Lembosina gontardi E. Müll., 1963
+Lembosina gontardii E. Müll., 1963
 
 ### Remarks
 null

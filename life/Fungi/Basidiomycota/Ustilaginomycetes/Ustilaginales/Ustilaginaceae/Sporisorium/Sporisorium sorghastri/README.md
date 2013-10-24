@@ -1,5 +1,4 @@
-Sporisorium sorghastri (Zundel) Vánky SPECIES
-=======
+# Sporisorium sorghastri (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

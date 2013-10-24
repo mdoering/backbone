@@ -1,14 +1,13 @@
-Sphaerella oedema (Fr.) Sacc., 1882 SPECIES
-=======
+# Mycosphaerella oedema (Fr. ex Duby) J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 490 (1882)
+Krypt. -Fl. Schlesien (Breslau) 335 (1894)
 
 #### Original name
 Sphaeria oedema Fr., 1830

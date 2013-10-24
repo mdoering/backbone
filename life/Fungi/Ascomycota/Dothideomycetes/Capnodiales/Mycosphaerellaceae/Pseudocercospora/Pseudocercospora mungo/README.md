@@ -1,5 +1,4 @@
-Pseudocercospora mungo Deighton SPECIES
-=======
+# Pseudocercospora mungo Deighton SPECIES
 
 #### Status
 ACCEPTED

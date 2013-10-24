@@ -1,5 +1,4 @@
-Pseudotetraedron neglectum SPECIES
-=======
+# Pseudotetraedron neglectum SPECIES
 
 #### Status
 ACCEPTED

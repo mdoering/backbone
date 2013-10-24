@@ -1,5 +1,4 @@
-Agaricus bullula V. Brig. SPECIES
-=======
+# Agaricus bullula V. Brig. SPECIES
 
 #### Status
 ACCEPTED

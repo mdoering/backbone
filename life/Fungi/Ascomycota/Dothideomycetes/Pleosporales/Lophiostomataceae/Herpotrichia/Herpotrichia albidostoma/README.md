@@ -1,5 +1,4 @@
-Herpotrichia albidostoma (Peck) Sacc. SPECIES
-=======
+# Herpotrichia albidostoma (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

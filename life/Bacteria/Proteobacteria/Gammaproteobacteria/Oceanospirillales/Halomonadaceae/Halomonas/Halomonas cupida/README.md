@@ -1,14 +1,13 @@
-Alcaligenes cupidus Baumann et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Halomonas cupida (Baumann et al., 1972) Dobson & Franzmann, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Baumann, L. , Baumann, P. , Mandel, M. , and Allen, R. D. "Taxonomy of aerobic marine eubacteria. " J. Bacteriol. (1972) 110:402-429.
 
 #### Original name
 null

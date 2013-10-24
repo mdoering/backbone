@@ -1,5 +1,4 @@
-Vermicularia involucri Schwein. SPECIES
-=======
+# Vermicularia involucri Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeodimeriella guarapiensis (Speg.) Theiss. SPECIES
-=======
+# Phaeodimeriella guarapiensis (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora bondarzewii P. Karst. SPECIES
-=======
+# Thelephora bondarzewii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

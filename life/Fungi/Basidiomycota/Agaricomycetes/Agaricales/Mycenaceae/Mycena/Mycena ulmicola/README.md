@@ -1,5 +1,4 @@
-Mycena ulmicola A.H. Sm. SPECIES
-=======
+# Mycena ulmicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

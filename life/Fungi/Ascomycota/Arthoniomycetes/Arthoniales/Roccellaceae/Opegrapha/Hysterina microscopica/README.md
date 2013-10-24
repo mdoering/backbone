@@ -1,5 +1,4 @@
-Hysterina microscopica (Ehrh.) Gray SPECIES
-=======
+# Hysterina microscopica (Ehrh.) Gray SPECIES
 
 #### Status
 ACCEPTED

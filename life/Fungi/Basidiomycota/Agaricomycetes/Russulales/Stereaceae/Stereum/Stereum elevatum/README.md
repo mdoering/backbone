@@ -1,5 +1,4 @@
-Stereum elevatum Berk. & Cooke SPECIES
-=======
+# Stereum elevatum Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

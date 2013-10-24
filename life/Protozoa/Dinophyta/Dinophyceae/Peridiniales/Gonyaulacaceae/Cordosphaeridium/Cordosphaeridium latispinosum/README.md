@@ -1,5 +1,4 @@
-Cordosphaeridium latispinosum Davey & Williams, 1966 SPECIES
-=======
+# Cordosphaeridium latispinosum Davey & Williams, 1966 SPECIES
 
 #### Status
 ACCEPTED

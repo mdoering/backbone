@@ -1,5 +1,4 @@
-Urceolella dryadicola Raitv. & Chleb. SPECIES
-=======
+# Urceolella dryadicola Raitv. & Chleb. SPECIES
 
 #### Status
 ACCEPTED

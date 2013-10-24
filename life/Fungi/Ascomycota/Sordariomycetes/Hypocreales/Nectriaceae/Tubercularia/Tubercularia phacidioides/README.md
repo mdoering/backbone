@@ -1,5 +1,4 @@
-Tubercularia phacidioides Durieu & Mont. SPECIES
-=======
+# Tubercularia phacidioides Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

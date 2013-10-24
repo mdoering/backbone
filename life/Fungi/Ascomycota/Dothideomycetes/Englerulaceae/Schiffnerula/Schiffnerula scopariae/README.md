@@ -1,5 +1,4 @@
-Schiffnerula scopariae Hansf. SPECIES
-=======
+# Schiffnerula scopariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

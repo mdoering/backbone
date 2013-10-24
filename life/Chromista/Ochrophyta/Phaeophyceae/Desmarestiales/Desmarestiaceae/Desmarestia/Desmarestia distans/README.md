@@ -1,5 +1,4 @@
-Desmarestia distans var. tenuis Reichardt VARIETY
-=======
+# Desmarestia distans (C. Agardh) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

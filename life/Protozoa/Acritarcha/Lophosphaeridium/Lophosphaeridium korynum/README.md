@@ -1,5 +1,4 @@
-Lophosphaeridium korynum Colbath, 1979 SPECIES
-=======
+# Lophosphaeridium korynum Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

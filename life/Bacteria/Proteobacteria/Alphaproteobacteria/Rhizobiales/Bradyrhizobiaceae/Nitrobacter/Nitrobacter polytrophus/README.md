@@ -1,5 +1,4 @@
-Nitrobacter polytrophus SPECIES
-=======
+# Nitrobacter polytrophus SPECIES
 
 #### Status
 ACCEPTED

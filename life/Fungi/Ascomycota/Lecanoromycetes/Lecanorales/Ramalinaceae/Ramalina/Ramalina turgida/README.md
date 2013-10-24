@@ -1,5 +1,4 @@
-Ramalina turgida Kremp. SPECIES
-=======
+# Ramalina turgida Kremp. SPECIES
 
 #### Status
 ACCEPTED

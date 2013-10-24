@@ -1,5 +1,4 @@
-Glomus aggrrgatum Schenck & Smith SPECIES
-=======
+# Glomus aggrrgatum Schenck & Smith SPECIES
 
 #### Status
 ACCEPTED

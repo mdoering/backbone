@@ -1,5 +1,4 @@
-Alocomurus Playford in Playford & Dring, 1981 GENUS
-=======
+# Alocomurus Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilocarpon lecanorinum Zahlbr. SPECIES
-=======
+# Pilocarpon lecanorinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

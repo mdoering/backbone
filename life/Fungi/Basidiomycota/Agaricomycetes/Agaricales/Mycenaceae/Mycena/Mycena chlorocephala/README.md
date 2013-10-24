@@ -1,5 +1,4 @@
-Mycena chlorocephala Pat. SPECIES
-=======
+# Mycena chlorocephala Pat. SPECIES
 
 #### Status
 ACCEPTED

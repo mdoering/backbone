@@ -1,5 +1,4 @@
-Hypholoma arridens (Britzelm.) Sacc. SPECIES
-=======
+# Hypholoma arridens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

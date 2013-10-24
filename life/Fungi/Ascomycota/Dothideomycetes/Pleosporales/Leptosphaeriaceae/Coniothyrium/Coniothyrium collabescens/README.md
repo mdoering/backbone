@@ -1,5 +1,4 @@
-Coniothyrium collabescens (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Coniothyrium collabescens (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

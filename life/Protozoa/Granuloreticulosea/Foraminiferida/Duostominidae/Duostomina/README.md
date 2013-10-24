@@ -1,5 +1,4 @@
-Duostomina Kristan-Tollmann, 1960 GENUS
-=======
+# Duostomina Kristan-Tollmann, 1960 GENUS
 
 #### Status
 ACCEPTED

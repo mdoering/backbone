@@ -1,5 +1,4 @@
-Agaricus hygrometricus V. Brig. SPECIES
-=======
+# Agaricus hygrometricus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

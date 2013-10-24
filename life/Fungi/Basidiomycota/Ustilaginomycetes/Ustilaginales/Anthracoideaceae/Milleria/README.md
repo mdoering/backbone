@@ -1,5 +1,4 @@
-Milleria GENUS
-=======
+# Milleria GENUS
 
 #### Status
 ACCEPTED

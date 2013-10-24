@@ -1,17 +1,16 @@
-Phellinus ferruginosus subsp. floccosus (Fr.) Bourdot & Galzin SUBSPECIES
-=======
+# Phellinus contiguus (Pers.) Pat., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomyc. de France (Sceaux) 624 (1928)
 
 #### Original name
-Polyporus floccosus Jungh., 1838
+Boletus contiguus Pers., 1801
 
 ### Remarks
 null

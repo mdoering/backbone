@@ -1,5 +1,4 @@
-Ramularia ceratocarpi Golovin SPECIES
-=======
+# Ramularia ceratocarpi Golovin SPECIES
 
 #### Status
 ACCEPTED

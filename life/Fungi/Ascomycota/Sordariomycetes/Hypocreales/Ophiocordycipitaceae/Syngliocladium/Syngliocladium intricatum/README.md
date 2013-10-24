@@ -1,5 +1,4 @@
-Syngliocladium intricatum Petch, 1942 SPECIES
-=======
+# Syngliocladium intricatum Petch, 1942 SPECIES
 
 #### Status
 ACCEPTED

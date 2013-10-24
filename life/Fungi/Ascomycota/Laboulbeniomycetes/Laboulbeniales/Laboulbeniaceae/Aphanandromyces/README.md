@@ -1,5 +1,4 @@
-Aphanandromyces W. Rossi GENUS
-=======
+# Aphanandromyces W. Rossi GENUS
 
 #### Status
 ACCEPTED

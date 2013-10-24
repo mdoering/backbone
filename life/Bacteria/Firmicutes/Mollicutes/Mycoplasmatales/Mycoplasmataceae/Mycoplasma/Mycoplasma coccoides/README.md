@@ -1,11 +1,10 @@
-Gyromorpha musculi Dinger, 1928 SPECIES
-=======
+# Mycoplasma coccoides (Schilling, 1928) Neimark et al., 2005 (illegitimate new combination) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

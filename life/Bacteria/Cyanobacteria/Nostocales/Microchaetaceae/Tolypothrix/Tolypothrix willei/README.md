@@ -1,5 +1,4 @@
-Tolypothrix willei Gardner SPECIES
-=======
+# Tolypothrix willei Gardner SPECIES
 
 #### Status
 ACCEPTED

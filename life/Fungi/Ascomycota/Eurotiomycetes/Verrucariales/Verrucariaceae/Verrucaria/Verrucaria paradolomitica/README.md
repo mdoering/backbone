@@ -1,5 +1,4 @@
-Verrucaria paradolomitica Servít SPECIES
-=======
+# Verrucaria paradolomitica Servít SPECIES
 
 #### Status
 ACCEPTED

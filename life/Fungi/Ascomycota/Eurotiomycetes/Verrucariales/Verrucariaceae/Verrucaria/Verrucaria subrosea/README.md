@@ -1,5 +1,4 @@
-Verrucaria subrosea Zschacke SPECIES
-=======
+# Verrucaria subrosea Zschacke SPECIES
 
 #### Status
 ACCEPTED

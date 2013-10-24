@@ -1,5 +1,4 @@
-Helotium lounense Velen. SPECIES
-=======
+# Helotium lounense Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbella coccophila (Sacc.) Ferraris SPECIES
-=======
+# Stilbella coccophila (Sacc.) Ferraris SPECIES
 
 #### Status
 ACCEPTED

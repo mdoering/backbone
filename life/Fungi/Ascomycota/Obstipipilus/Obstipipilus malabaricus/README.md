@@ -1,14 +1,13 @@
-Kellermania malabarica T.S. Ramakr. & K. Ramakr., 1950 SPECIES
-=======
+# Obstipipilus malabaricus (T.S. Ramakr. & K. Ramakr.) B. Sutton, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 32: 211 (1950)
+Can. J. Bot. 46: 188 (1968)
 
 #### Original name
 Kellermania malabarica T.S. Ramakr. & K. Ramakr., 1950

@@ -1,5 +1,4 @@
-Gloeosporium pachybasium Sacc. SPECIES
-=======
+# Gloeosporium pachybasium Sacc. SPECIES
 
 #### Status
 ACCEPTED

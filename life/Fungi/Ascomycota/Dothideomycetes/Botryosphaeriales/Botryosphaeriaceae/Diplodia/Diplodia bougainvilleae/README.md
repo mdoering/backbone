@@ -1,5 +1,4 @@
-Diplodia bougainvilleae Sousa da Câmara SPECIES
-=======
+# Diplodia bougainvilleae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium cinereum Couch SPECIES
-=======
+# Septobasidium cinereum Couch SPECIES
 
 #### Status
 ACCEPTED

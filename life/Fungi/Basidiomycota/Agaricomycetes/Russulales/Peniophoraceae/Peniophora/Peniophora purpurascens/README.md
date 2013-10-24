@@ -1,5 +1,4 @@
-Peniophora purpurascens (Bres. ex Bourdot & Galzin) Donk SPECIES
-=======
+# Peniophora purpurascens (Bres. ex Bourdot & Galzin) Donk SPECIES
 
 #### Status
 ACCEPTED

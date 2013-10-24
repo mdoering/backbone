@@ -1,5 +1,4 @@
-Sphingomonas yabuuchiae Li et al., 2004 SPECIES
-=======
+# Sphingomonas yabuuchiae Li et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

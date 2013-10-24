@@ -1,5 +1,4 @@
-Patellaria ischnospora (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria ischnospora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

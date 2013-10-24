@@ -1,5 +1,4 @@
-Mycothelocarpon impressella Cif. & Tomas. SPECIES
-=======
+# Mycothelocarpon impressella Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

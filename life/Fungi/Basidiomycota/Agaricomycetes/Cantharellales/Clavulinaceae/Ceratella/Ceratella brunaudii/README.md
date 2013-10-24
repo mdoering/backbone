@@ -1,5 +1,4 @@
-Ceratella brunaudii Quél. SPECIES
-=======
+# Ceratella brunaudii Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina crassa Darb. SPECIES
-=======
+# Rinodina crassa Darb. SPECIES
 
 #### Status
 ACCEPTED

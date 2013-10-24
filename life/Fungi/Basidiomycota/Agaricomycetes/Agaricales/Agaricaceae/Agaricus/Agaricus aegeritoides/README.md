@@ -1,5 +1,4 @@
-Agaricus aegeritoides F. Brig. SPECIES
-=======
+# Agaricus aegeritoides F. Brig. SPECIES
 
 #### Status
 ACCEPTED

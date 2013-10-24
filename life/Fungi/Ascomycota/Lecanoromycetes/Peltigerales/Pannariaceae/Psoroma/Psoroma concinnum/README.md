@@ -1,5 +1,4 @@
-Psoroma concinnum Bagl. & Carestia SPECIES
-=======
+# Psoroma concinnum Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

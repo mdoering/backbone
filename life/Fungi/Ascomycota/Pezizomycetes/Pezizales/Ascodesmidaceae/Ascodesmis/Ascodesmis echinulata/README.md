@@ -1,5 +1,4 @@
-Ascodesmis echinulata Bainier SPECIES
-=======
+# Ascodesmis echinulata Bainier SPECIES
 
 #### Status
 ACCEPTED

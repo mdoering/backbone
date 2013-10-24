@@ -1,5 +1,4 @@
-Pustulina bronca (Peck) Korf & Berthet SPECIES
-=======
+# Pustulina bronca (Peck) Korf & Berthet SPECIES
 
 #### Status
 ACCEPTED

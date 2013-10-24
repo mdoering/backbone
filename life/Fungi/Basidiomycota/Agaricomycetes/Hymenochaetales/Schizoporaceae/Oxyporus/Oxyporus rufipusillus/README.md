@@ -1,5 +1,4 @@
-Oxyporus rufipusillus (Corner) T. Hatt., 2003 SPECIES
-=======
+# Oxyporus rufipusillus (Corner) T. Hatt., 2003 SPECIES
 
 #### Status
 ACCEPTED

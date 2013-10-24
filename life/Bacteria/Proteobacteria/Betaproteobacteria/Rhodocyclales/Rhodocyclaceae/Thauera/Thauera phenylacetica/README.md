@@ -1,5 +1,4 @@
-Thauera phenylacetica Mechichi et al., 2002 SPECIES
-=======
+# Thauera phenylacetica Mechichi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Follmannia GENUS
-=======
+# Follmannia GENUS
 
 #### Status
 ACCEPTED

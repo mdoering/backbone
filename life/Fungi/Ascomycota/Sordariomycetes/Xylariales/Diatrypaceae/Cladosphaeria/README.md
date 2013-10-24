@@ -1,5 +1,4 @@
-Cladosphaeria GENUS
-=======
+# Cladosphaeria GENUS
 
 #### Status
 ACCEPTED

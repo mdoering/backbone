@@ -1,5 +1,4 @@
-Cryptococcus pyogenes Mattlet SPECIES
-=======
+# Cryptococcus pyogenes Mattlet SPECIES
 
 #### Status
 ACCEPTED

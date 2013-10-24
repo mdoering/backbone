@@ -1,5 +1,4 @@
-Graphis pedata Fr. SPECIES
-=======
+# Graphis pedata Fr. SPECIES
 
 #### Status
 ACCEPTED

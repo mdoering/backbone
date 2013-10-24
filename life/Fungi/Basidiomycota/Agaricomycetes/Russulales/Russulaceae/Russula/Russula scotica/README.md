@@ -1,5 +1,4 @@
-Russula scotica A. Pearson, 1939 SPECIES
-=======
+# Russula scotica A. Pearson, 1939 SPECIES
 
 #### Status
 ACCEPTED

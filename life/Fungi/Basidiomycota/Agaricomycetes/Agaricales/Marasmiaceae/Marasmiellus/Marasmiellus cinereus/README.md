@@ -1,5 +1,4 @@
-Marasmiellus cinereus Singer SPECIES
-=======
+# Marasmiellus cinereus Singer SPECIES
 
 #### Status
 ACCEPTED

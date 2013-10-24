@@ -1,5 +1,4 @@
-Norrlinia medoborensis S.Y. Kondr. SPECIES
-=======
+# Norrlinia medoborensis S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

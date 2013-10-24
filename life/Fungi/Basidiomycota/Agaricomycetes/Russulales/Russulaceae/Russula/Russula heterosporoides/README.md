@@ -1,5 +1,4 @@
-Russula heterosporoides Murrill SPECIES
-=======
+# Russula heterosporoides Murrill SPECIES
 
 #### Status
 ACCEPTED

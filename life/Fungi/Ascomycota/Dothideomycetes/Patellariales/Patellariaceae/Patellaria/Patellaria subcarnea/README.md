@@ -1,5 +1,4 @@
-Patellaria subcarnea Müll. Arg. SPECIES
-=======
+# Patellaria subcarnea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

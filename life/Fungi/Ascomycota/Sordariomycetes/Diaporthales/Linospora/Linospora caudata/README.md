@@ -1,5 +1,4 @@
-Linospora caudata P. Larsen SPECIES
-=======
+# Linospora caudata P. Larsen SPECIES
 
 #### Status
 ACCEPTED

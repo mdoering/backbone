@@ -1,5 +1,4 @@
-Ceraceomyces microsporus K.H. Larss., 1998 SPECIES
-=======
+# Ceraceomyces microsporus K.H. Larss., 1998 SPECIES
 
 #### Status
 ACCEPTED

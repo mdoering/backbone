@@ -1,8 +1,7 @@
-Clavibacter xyli subsp. xyli Davis et al., 1984 SUBSPECIES
-=======
+# Leifsonia xyli (Davis et al., 1984) Evtushenko et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

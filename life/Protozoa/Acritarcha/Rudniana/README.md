@@ -1,5 +1,4 @@
-Rudniana Gol GENUS
-=======
+# Rudniana Gol GENUS
 
 #### Status
 ACCEPTED

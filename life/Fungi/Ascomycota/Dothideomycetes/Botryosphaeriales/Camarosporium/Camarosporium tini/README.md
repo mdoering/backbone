@@ -1,5 +1,4 @@
-Camarosporium tini (Sacc.) Sacc. SPECIES
-=======
+# Camarosporium tini (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

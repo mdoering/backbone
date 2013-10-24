@@ -1,5 +1,4 @@
-Epipolaeum andinum (Petr.) E. Müll. SPECIES
-=======
+# Epipolaeum andinum (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

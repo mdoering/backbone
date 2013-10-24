@@ -1,5 +1,4 @@
-Puccinia schoenanthi Cummins & Guyot SPECIES
-=======
+# Puccinia schoenanthi Cummins & Guyot SPECIES
 
 #### Status
 ACCEPTED

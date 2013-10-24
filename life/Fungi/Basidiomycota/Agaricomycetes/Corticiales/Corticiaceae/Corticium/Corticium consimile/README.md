@@ -1,5 +1,4 @@
-Corticium consimile Bres. SPECIES
-=======
+# Corticium consimile Bres. SPECIES
 
 #### Status
 ACCEPTED

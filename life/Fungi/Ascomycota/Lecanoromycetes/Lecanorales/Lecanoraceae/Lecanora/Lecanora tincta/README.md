@@ -1,5 +1,4 @@
-Lecanora tincta SPECIES
-=======
+# Lecanora tincta SPECIES
 
 #### Status
 ACCEPTED

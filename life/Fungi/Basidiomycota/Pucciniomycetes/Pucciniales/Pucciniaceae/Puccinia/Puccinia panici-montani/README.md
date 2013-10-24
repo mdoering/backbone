@@ -1,5 +1,4 @@
-Puccinia panici-montani Fujik. ex Ramachar & Cummins SPECIES
-=======
+# Puccinia panici-montani Fujik. ex Ramachar & Cummins SPECIES
 
 #### Status
 ACCEPTED

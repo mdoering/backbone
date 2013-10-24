@@ -1,5 +1,4 @@
-Meliola cycleae Hosag. SPECIES
-=======
+# Meliola cycleae Hosag. SPECIES
 
 #### Status
 ACCEPTED

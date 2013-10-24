@@ -1,5 +1,4 @@
-Sphaerella hertiae Pat. SPECIES
-=======
+# Sphaerella hertiae Pat. SPECIES
 
 #### Status
 ACCEPTED

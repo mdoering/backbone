@@ -1,5 +1,4 @@
-Lecidea scotochroa Nyl. SPECIES
-=======
+# Lecidea scotochroa Nyl. SPECIES
 
 #### Status
 ACCEPTED

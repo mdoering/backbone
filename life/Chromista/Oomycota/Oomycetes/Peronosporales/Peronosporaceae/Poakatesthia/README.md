@@ -1,5 +1,4 @@
-Poakatesthia Thines & Göker GENUS
-=======
+# Poakatesthia Thines & Göker GENUS
 
 #### Status
 ACCEPTED

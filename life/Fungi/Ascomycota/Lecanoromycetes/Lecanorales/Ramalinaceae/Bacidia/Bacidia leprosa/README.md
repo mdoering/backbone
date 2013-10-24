@@ -1,5 +1,4 @@
-Bacidia leprosa (Schaer.) Lettau SPECIES
-=======
+# Bacidia leprosa (Schaer.) Lettau SPECIES
 
 #### Status
 ACCEPTED

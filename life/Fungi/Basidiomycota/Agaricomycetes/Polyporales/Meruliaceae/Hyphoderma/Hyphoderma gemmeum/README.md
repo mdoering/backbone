@@ -1,5 +1,4 @@
-Hyphoderma gemmeum (D.P. Rogers & K.J. Martin) Donk, 1957 SPECIES
-=======
+# Hyphoderma gemmeum (D.P. Rogers & K.J. Martin) Donk, 1957 SPECIES
 
 #### Status
 ACCEPTED

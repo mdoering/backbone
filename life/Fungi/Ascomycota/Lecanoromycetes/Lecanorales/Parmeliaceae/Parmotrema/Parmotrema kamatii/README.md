@@ -1,5 +1,4 @@
-Parmotrema kamatii Patw. & Prabhu SPECIES
-=======
+# Parmotrema kamatii Patw. & Prabhu SPECIES
 
 #### Status
 ACCEPTED

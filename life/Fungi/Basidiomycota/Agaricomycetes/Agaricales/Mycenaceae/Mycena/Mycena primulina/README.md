@@ -1,5 +1,4 @@
-Mycena primulina G. Stev., 1964 SPECIES
-=======
+# Mycena primulina G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

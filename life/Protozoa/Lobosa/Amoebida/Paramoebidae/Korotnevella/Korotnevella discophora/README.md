@@ -1,5 +1,4 @@
-Korotnevella discophora SPECIES
-=======
+# Korotnevella discophora SPECIES
 
 #### Status
 ACCEPTED

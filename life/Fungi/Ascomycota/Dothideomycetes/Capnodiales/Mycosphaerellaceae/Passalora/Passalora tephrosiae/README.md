@@ -1,5 +1,4 @@
-Passalora tephrosiae Agnihothr. SPECIES
-=======
+# Passalora tephrosiae Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

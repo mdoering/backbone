@@ -1,5 +1,4 @@
-Tympanis sepiaria P. Karst. SPECIES
-=======
+# Tympanis sepiaria P. Karst. SPECIES
 
 #### Status
 ACCEPTED

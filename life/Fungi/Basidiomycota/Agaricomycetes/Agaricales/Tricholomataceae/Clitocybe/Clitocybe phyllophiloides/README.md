@@ -1,5 +1,4 @@
-Clitocybe phyllophiloides Peck SPECIES
-=======
+# Clitocybe phyllophiloides Peck SPECIES
 
 #### Status
 ACCEPTED

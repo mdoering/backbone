@@ -1,5 +1,4 @@
-Phoma meliloticola Petr. SPECIES
-=======
+# Phoma meliloticola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia poroscypha S. Hammer SPECIES
-=======
+# Cladonia poroscypha S. Hammer SPECIES
 
 #### Status
 ACCEPTED

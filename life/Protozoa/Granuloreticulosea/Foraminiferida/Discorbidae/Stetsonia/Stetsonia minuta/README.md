@@ -1,5 +1,4 @@
-Stetsonia minuta SPECIES
-=======
+# Stetsonia minuta SPECIES
 
 #### Status
 ACCEPTED

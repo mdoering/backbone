@@ -1,5 +1,4 @@
-Wilcoxina mikolae var. mikolae VARIETY
-=======
+# Wilcoxina mikolae (Chin S. Yang & H.E. Wilcox) Chin S. Yang & Korf SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycotaxon 24: 514 (1985)
 
 #### Original name
-Wilcoxina mikolae var. mikolae
+Tricharina mikolae Chin S. Yang & H.E. Wilcox, 1984
 
 ### Remarks
 null

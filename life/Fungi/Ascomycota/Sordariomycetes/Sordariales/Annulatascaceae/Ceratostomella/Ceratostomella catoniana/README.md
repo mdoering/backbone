@@ -1,5 +1,4 @@
-Ceratostomella catoniana Goid. SPECIES
-=======
+# Ceratostomella catoniana Goid. SPECIES
 
 #### Status
 ACCEPTED

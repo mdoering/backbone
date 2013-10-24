@@ -1,5 +1,4 @@
-Oltmannsia viridis Schiller, 1925 SPECIES
-=======
+# Oltmannsia viridis Schiller, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora tarvisiana (Sacc.) Mirza & Cain, 1969 SPECIES
-=======
+# Podospora tarvisiana (Sacc.) Mirza & Cain, 1969 SPECIES
 
 #### Status
 ACCEPTED

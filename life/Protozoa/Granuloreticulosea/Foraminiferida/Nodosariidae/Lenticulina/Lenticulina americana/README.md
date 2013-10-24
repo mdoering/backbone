@@ -1,5 +1,4 @@
-Lenticulina americana SPECIES
-=======
+# Lenticulina americana SPECIES
 
 #### Status
 ACCEPTED

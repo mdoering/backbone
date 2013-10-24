@@ -1,5 +1,4 @@
-Pseudocercospora mori (Hara) Deighton SPECIES
-=======
+# Pseudocercospora mori (Hara) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolyposporella linearis (Berk. & Broome) L. Ling SPECIES
-=======
+# Tolyposporella linearis (Berk. & Broome) L. Ling SPECIES
 
 #### Status
 ACCEPTED

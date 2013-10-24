@@ -1,17 +1,16 @@
-Dasyscypha parasiticus Velen. SPECIES
-=======
+# Dasyscyphus parasiticus Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 234 (1934)
 
 #### Original name
-Dasyscypha parasiticus Velen.
+Dasyscyphus parasiticus Velen.
 
 ### Remarks
 null

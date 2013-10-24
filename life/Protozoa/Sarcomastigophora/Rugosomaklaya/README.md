@@ -1,5 +1,4 @@
-Rugosomaklaya Nie & Song, 1983 GENUS
-=======
+# Rugosomaklaya Nie & Song, 1983 GENUS
 
 #### Status
 ACCEPTED

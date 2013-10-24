@@ -1,5 +1,4 @@
-Rhizidiocystis ananasi Sideris, 1929 SPECIES
-=======
+# Rhizidiocystis ananasi Sideris, 1929 SPECIES
 
 #### Status
 ACCEPTED

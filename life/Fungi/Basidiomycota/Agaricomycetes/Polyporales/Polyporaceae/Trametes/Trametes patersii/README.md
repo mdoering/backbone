@@ -1,5 +1,4 @@
-Trametes patersii Berk. SPECIES
-=======
+# Trametes patersii Berk. SPECIES
 
 #### Status
 ACCEPTED

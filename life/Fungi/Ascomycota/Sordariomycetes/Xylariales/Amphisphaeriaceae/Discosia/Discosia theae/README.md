@@ -1,5 +1,4 @@
-Discosia theae Cavara SPECIES
-=======
+# Discosia theae Cavara SPECIES
 
 #### Status
 ACCEPTED

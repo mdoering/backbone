@@ -1,5 +1,4 @@
-Clitocybe cistophila Bon & Contu SPECIES
-=======
+# Clitocybe cistophila Bon & Contu SPECIES
 
 #### Status
 ACCEPTED

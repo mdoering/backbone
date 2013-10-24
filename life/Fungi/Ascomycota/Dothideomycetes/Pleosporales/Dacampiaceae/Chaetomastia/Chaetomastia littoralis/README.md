@@ -1,5 +1,4 @@
-Chaetomastia littoralis M.E. Barr SPECIES
-=======
+# Chaetomastia littoralis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

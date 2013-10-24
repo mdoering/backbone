@@ -1,5 +1,4 @@
-Russula amoenolens Romagn., 1952 SPECIES
-=======
+# Russula amoenolens Romagn., 1952 SPECIES
 
 #### Status
 ACCEPTED

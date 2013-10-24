@@ -1,5 +1,4 @@
-Metarhizium coleoptera ined. SPECIES
-=======
+# Metarhizium coleoptera ined. SPECIES
 
 #### Status
 ACCEPTED

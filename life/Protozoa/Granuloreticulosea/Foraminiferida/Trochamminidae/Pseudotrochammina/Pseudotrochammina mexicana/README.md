@@ -1,5 +1,4 @@
-Pseudotrochammina mexicana Frerichs, 1969 SPECIES
-=======
+# Pseudotrochammina mexicana Frerichs, 1969 SPECIES
 
 #### Status
 ACCEPTED

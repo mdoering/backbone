@@ -1,5 +1,4 @@
-Geoglossum xylarioides Rehm SPECIES
-=======
+# Geoglossum xylarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

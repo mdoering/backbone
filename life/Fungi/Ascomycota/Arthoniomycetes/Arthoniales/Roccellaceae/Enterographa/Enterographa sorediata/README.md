@@ -1,5 +1,4 @@
-Enterographa sorediata Coppins & P. James SPECIES
-=======
+# Enterographa sorediata Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

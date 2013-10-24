@@ -1,17 +1,16 @@
-Botrytis variosperma Link, 1815 SPECIES
-=======
+# Hypomyces aurantius (Pers.) Fuckel, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 4 15: 12 (1860)
 
 #### Original name
-null
+Hypomyces aurantius (Pers.) Fuckel, 1860
 
 ### Remarks
 null

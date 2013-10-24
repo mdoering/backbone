@@ -1,5 +1,4 @@
-Sporidesmiella caribensis R.F. Castañeda SPECIES
-=======
+# Sporidesmiella caribensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

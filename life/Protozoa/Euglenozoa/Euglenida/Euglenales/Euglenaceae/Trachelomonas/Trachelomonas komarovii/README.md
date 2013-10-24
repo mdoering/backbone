@@ -1,5 +1,4 @@
-Trachelomonas komarovii Skvortzov SPECIES
-=======
+# Trachelomonas komarovii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

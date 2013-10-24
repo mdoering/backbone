@@ -1,5 +1,4 @@
-Pyrenula occulta (C. Knight) Müll. Arg., 1894 SPECIES
-=======
+# Pyrenula occulta (C. Knight) Müll. Arg., 1894 SPECIES
 
 #### Status
 DOUBTFUL

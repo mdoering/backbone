@@ -1,5 +1,4 @@
-Patellea pudica (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Patellea pudica (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

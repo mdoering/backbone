@@ -1,5 +1,4 @@
-Euphoriomyces agathidii (Maire) I.I. Tav. SPECIES
-=======
+# Euphoriomyces agathidii (Maire) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

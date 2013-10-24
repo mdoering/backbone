@@ -1,5 +1,4 @@
-Legionella israelensis Bercovier et al., 1986 SPECIES
-=======
+# Legionella israelensis Bercovier et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthospora fraxinicola Oudem. SPECIES
-=======
+# Ceuthospora fraxinicola Oudem. SPECIES
 
 #### Status
 ACCEPTED

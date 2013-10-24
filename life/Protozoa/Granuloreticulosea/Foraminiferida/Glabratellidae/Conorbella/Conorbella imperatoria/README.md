@@ -1,8 +1,7 @@
-Robulina imperatoria d'Orbigny, 1846 SPECIES
-=======
+# Conorbella imperatoria (d'Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

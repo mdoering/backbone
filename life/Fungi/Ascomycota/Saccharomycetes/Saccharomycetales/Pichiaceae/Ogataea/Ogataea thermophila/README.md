@@ -1,17 +1,16 @@
-Candida thermophila K.S. Shin, Y.K. Shin, J.H. Yoon & Y.H. Park, 2001 SPECIES
-=======
+# Ogataea thermophila G. Péter, Tornai-Leh., K.S. Shin & Dlauchy, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 7(3): 495 (2007)
 
 #### Original name
-null
+Ogataea thermophila G. Péter, Tornai-Leh., K.S. Shin & Dlauchy, 2007
 
 ### Remarks
 null

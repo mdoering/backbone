@@ -1,5 +1,4 @@
-Opegrapha variaeformis Anzi SPECIES
-=======
+# Opegrapha variaeformis Anzi SPECIES
 
 #### Status
 ACCEPTED

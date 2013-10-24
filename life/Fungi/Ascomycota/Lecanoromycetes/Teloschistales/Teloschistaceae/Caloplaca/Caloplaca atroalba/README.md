@@ -1,5 +1,4 @@
-Caloplaca atroalba (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca atroalba (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

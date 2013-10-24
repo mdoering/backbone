@@ -1,14 +1,13 @@
-Polyporus dorsalis Lloyd, 1915 SPECIES
-=======
+# Ganoderma dorsale (Lloyd) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 658 (1915)
+Brotéria, sér. bot. 18: 32 (1920)
 
 #### Original name
 Polyporus dorsalis Lloyd, 1915

@@ -1,5 +1,4 @@
-Ramularia minax Davis SPECIES
-=======
+# Ramularia minax Davis SPECIES
 
 #### Status
 ACCEPTED

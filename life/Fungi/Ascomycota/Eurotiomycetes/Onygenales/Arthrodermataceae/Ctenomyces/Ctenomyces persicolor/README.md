@@ -1,5 +1,4 @@
-Ctenomyces persicolor (Sabour.) Nann. SPECIES
-=======
+# Ctenomyces persicolor (Sabour.) Nann. SPECIES
 
 #### Status
 ACCEPTED

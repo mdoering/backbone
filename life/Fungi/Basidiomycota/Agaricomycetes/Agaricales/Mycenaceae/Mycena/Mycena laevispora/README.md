@@ -1,5 +1,4 @@
-Mycena laevispora Velen. SPECIES
-=======
+# Mycena laevispora Velen. SPECIES
 
 #### Status
 ACCEPTED

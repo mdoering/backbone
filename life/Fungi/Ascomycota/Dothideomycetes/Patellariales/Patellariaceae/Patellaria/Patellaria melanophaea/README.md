@@ -1,5 +1,4 @@
-Patellaria melanophaea Fr. SPECIES
-=======
+# Patellaria melanophaea Fr. SPECIES
 
 #### Status
 ACCEPTED

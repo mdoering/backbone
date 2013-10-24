@@ -1,5 +1,4 @@
-Agaricus ribesii Fuckel SPECIES
-=======
+# Agaricus ribesii Fuckel SPECIES
 
 #### Status
 ACCEPTED

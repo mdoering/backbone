@@ -1,5 +1,4 @@
-Streptomyces albaduncus Tsukiura et al., 1964 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces albaduncus Tsukiura et al., 1964 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleurotus petaloides var. petaloides VARIETY
-=======
+# Hohenbuehelia petaloides (Bull.) Schulzer, 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Schulzer, Kanitz & Knapp, Verh. zool. -bot. Ges. Wien 16(Abh. ): 45 (1866)
 
 #### Original name
-null
+Agaricus petaloides Bull., 1785
 
 ### Remarks
 null

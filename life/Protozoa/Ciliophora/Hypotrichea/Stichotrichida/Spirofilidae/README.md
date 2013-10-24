@@ -1,5 +1,4 @@
-Spirofilidae von Gelei, 1929 FAMILY
-=======
+# Spirofilidae von Gelei, 1929 FAMILY
 
 #### Status
 ACCEPTED

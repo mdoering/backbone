@@ -1,5 +1,4 @@
-Cantharellus niveus Speg. SPECIES
-=======
+# Cantharellus niveus Speg. SPECIES
 
 #### Status
 ACCEPTED

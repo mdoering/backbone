@@ -1,5 +1,4 @@
-Hendersonia pruni Died. SPECIES
-=======
+# Hendersonia pruni Died. SPECIES
 
 #### Status
 ACCEPTED

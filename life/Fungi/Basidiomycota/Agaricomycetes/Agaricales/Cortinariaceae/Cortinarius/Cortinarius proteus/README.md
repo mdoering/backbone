@@ -1,5 +1,4 @@
-Cortinarius proteus (Bull.) Sacc. SPECIES
-=======
+# Cortinarius proteus (Bull.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

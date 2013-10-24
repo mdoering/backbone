@@ -1,17 +1,16 @@
-Sordaria curvula f. curvula de Bary FORM
-=======
+# Podospora curvula (de Bary ex G. Winter) Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 22: 156 (1883)
 
 #### Original name
-Sordaria curvula f. curvula de Bary
+Sordaria curvula de Bary, 1868
 
 ### Remarks
 null

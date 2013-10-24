@@ -1,5 +1,4 @@
-Ochromonas pyriformis Matvienko SPECIES
-=======
+# Ochromonas pyriformis Matvienko SPECIES
 
 #### Status
 ACCEPTED

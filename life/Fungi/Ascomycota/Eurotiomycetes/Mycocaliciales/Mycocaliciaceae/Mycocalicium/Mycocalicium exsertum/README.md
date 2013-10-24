@@ -1,5 +1,4 @@
-Mycocalicium exsertum (Nyl.) Szatala SPECIES
-=======
+# Mycocalicium exsertum (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

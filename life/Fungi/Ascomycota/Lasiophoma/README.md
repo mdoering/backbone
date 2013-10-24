@@ -1,5 +1,4 @@
-Lasiophoma Spegazzini, 1918 GENUS
-=======
+# Lasiophoma Spegazzini, 1918 GENUS
 
 #### Status
 ACCEPTED

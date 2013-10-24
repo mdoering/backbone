@@ -1,17 +1,16 @@
-Parmelia fissicarpa Kurok. SPECIES
-=======
+# Hypotrachyna fissicarpa (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 341 (1974)
 
 #### Original name
-null
+Parmelia fissicarpa Kurok.
 
 ### Remarks
 null

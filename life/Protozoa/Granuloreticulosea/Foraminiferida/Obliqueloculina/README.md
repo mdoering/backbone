@@ -1,5 +1,4 @@
-Obliqueloculina McNeil, 1997 GENUS
-=======
+# Obliqueloculina McNeil, 1997 GENUS
 
 #### Status
 ACCEPTED

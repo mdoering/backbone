@@ -1,5 +1,4 @@
-Lithodesmium Ehrenb. GENUS
-=======
+# Lithodesmium Ehrenb. GENUS
 
 #### Status
 ACCEPTED

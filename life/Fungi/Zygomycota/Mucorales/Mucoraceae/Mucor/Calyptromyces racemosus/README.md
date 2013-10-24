@@ -1,5 +1,4 @@
-Calyptromyces racemosus P. Karst. SPECIES
-=======
+# Calyptromyces racemosus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

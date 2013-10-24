@@ -1,5 +1,4 @@
-Teichospora larreicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Teichospora larreicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria lathyri Velen. SPECIES
-=======
+# Ciboria lathyri Velen. SPECIES
 
 #### Status
 ACCEPTED

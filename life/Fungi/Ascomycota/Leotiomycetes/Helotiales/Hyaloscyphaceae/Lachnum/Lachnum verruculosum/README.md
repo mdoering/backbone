@@ -1,5 +1,4 @@
-Lachnum verruculosum (Berk. & Broome) Sacc. SPECIES
-=======
+# Lachnum verruculosum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

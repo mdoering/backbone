@@ -1,5 +1,4 @@
-Gyalecta pulchra (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Gyalecta pulchra (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

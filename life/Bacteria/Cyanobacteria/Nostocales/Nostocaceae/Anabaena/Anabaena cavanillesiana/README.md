@@ -1,5 +1,4 @@
-Anabaena cavanillesiana P. González SPECIES
-=======
+# Anabaena cavanillesiana P. González SPECIES
 
 #### Status
 ACCEPTED

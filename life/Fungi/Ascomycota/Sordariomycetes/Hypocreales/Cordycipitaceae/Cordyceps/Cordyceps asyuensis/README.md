@@ -1,5 +1,4 @@
-Cordyceps asyuensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps asyuensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

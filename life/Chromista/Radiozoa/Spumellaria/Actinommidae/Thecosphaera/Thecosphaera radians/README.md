@@ -1,5 +1,4 @@
-Thecosphaera radians Hollande, 1960 SPECIES
-=======
+# Thecosphaera radians Hollande, 1960 SPECIES
 
 #### Status
 DOUBTFUL

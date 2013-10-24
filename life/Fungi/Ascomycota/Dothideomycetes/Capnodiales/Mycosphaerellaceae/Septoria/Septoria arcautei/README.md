@@ -1,5 +1,4 @@
-Septoria arcautei Unamuno SPECIES
-=======
+# Septoria arcautei Unamuno SPECIES
 
 #### Status
 ACCEPTED

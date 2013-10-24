@@ -1,5 +1,4 @@
-Inocybe bridgesiana Singer SPECIES
-=======
+# Inocybe bridgesiana Singer SPECIES
 
 #### Status
 ACCEPTED

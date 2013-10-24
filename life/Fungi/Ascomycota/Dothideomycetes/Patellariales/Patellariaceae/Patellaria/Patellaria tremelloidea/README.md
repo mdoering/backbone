@@ -1,5 +1,4 @@
-Patellaria tremelloidea (Fée) Müll. Arg. SPECIES
-=======
+# Patellaria tremelloidea (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

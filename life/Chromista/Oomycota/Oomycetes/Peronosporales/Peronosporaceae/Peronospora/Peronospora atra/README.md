@@ -1,5 +1,4 @@
-Peronospora atra Zimm. SPECIES
-=======
+# Peronospora atra Zimm. SPECIES
 
 #### Status
 ACCEPTED

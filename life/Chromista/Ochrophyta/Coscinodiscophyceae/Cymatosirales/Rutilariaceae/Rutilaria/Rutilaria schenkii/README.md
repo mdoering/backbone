@@ -1,5 +1,4 @@
-Rutilaria schenkii R. Ross SPECIES
-=======
+# Rutilaria schenkii R. Ross SPECIES
 
 #### Status
 ACCEPTED

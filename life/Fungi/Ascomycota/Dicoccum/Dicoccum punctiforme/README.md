@@ -1,5 +1,4 @@
-Dicoccum punctiforme Corda SPECIES
-=======
+# Dicoccum punctiforme Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Encoelia lobata (Starbäck) Dennis SPECIES
-=======
+# Encoelia lobata (Starbäck) Dennis SPECIES
 
 #### Status
 ACCEPTED

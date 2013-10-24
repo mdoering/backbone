@@ -1,5 +1,4 @@
-Abrothallus secedens Wedin & R. Sant. SPECIES
-=======
+# Abrothallus secedens Wedin & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

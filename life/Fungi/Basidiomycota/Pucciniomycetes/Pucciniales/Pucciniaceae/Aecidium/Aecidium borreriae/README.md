@@ -1,5 +1,4 @@
-Aecidium borreriae Pat. SPECIES
-=======
+# Aecidium borreriae Pat. SPECIES
 
 #### Status
 ACCEPTED

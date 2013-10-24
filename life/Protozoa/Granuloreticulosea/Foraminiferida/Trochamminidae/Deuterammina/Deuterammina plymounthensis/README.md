@@ -1,5 +1,4 @@
-Deuterammina plymounthensis Brönnimann & Whittaker, 1990 SPECIES
-=======
+# Deuterammina plymounthensis Brönnimann & Whittaker, 1990 SPECIES
 
 #### Status
 ACCEPTED

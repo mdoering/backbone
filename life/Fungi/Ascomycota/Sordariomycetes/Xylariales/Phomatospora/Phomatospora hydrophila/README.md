@@ -1,5 +1,4 @@
-Phomatospora hydrophila Henn. & Kirschst. SPECIES
-=======
+# Phomatospora hydrophila Henn. & Kirschst. SPECIES
 
 #### Status
 ACCEPTED

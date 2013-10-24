@@ -1,5 +1,4 @@
-Textularia conica SPECIES
-=======
+# Textularia conica SPECIES
 
 #### Status
 ACCEPTED

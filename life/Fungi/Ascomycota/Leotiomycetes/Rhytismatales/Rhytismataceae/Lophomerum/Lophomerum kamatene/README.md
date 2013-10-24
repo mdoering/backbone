@@ -1,5 +1,4 @@
-Lophomerum kamatene Mhaskar SPECIES
-=======
+# Lophomerum kamatene Mhaskar SPECIES
 
 #### Status
 ACCEPTED

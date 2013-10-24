@@ -1,5 +1,4 @@
-Aulacoseira ceretana E. Y. Haworth & S. Sabater SPECIES
-=======
+# Aulacoseira ceretana E. Y. Haworth & S. Sabater SPECIES
 
 #### Status
 ACCEPTED

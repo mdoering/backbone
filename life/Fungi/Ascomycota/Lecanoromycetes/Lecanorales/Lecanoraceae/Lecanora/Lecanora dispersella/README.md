@@ -1,5 +1,4 @@
-Lecanora dispersella J. Steiner SPECIES
-=======
+# Lecanora dispersella J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocosphaeria chusqueae (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Pocosphaeria chusqueae (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

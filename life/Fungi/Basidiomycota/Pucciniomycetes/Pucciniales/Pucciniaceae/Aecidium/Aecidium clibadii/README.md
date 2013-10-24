@@ -1,5 +1,4 @@
-Aecidium clibadii Syd. & P. Syd. SPECIES
-=======
+# Aecidium clibadii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

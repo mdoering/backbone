@@ -1,5 +1,4 @@
-Pleurotus lingulatus (Paulet) Sacc. SPECIES
-=======
+# Pleurotus lingulatus (Paulet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curucispora flabelliformis K. Ando SPECIES
-=======
+# Curucispora flabelliformis K. Ando SPECIES
 
 #### Status
 ACCEPTED

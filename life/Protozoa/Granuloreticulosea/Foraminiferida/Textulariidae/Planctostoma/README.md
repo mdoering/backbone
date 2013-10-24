@@ -1,5 +1,4 @@
-Planctostoma Loeblich & Tappan, 1955 GENUS
-=======
+# Planctostoma Loeblich & Tappan, 1955 GENUS
 
 #### Status
 ACCEPTED

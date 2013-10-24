@@ -1,5 +1,4 @@
-Brochopsophosphaera medialis Pykhova, 1973 SPECIES
-=======
+# Brochopsophosphaera medialis Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

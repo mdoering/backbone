@@ -1,5 +1,4 @@
-Diaphoromyces Thaxt. GENUS
-=======
+# Diaphoromyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

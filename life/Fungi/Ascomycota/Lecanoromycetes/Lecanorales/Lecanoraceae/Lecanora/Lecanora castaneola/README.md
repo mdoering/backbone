@@ -1,5 +1,4 @@
-Lecanora castaneola (Dufour) Schaer. SPECIES
-=======
+# Lecanora castaneola (Dufour) Schaer. SPECIES
 
 #### Status
 ACCEPTED

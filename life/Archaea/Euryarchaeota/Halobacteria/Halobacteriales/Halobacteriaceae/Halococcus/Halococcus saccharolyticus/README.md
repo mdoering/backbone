@@ -1,5 +1,4 @@
-Halococcus saccharolyticus Montero et al., 1990 SPECIES
-=======
+# Halococcus saccharolyticus Montero et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

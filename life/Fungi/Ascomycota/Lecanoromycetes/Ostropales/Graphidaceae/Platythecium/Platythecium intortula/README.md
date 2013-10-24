@@ -1,14 +1,13 @@
-Graphis intortula Stirt. SPECIES
-=======
+# Platythecium intortula (Stirt.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Proc. Phil. Soc. Glasgow 13: 186 (1881)
+in Nakanishi, Kashiwadani & Moon, Bull. natn. Sci. Mus. , Tokyo, B 29(2): 89 (2003)
 
 #### Original name
 Graphis intortula Stirt.

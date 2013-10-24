@@ -1,5 +1,4 @@
-Misgomyces speluncae (Santam.) Santam. SPECIES
-=======
+# Misgomyces speluncae (Santam.) Santam. SPECIES
 
 #### Status
 ACCEPTED

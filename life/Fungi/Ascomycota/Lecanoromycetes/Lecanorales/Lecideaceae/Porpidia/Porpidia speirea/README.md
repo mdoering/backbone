@@ -1,17 +1,16 @@
-Lecidea speirea subsp. speirea SUBSPECIES
-=======
+# Porpidia speirea (Ach.) Kremp. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Denkschriften Kgl. Bayer. Bot. Ges. 4: 210 (1861)
 
 #### Original name
-Lecidea speirea subsp. speirea
+Lichen speireus Ach.
 
 ### Remarks
 null

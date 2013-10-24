@@ -1,5 +1,4 @@
-Lecidea munda Malme SPECIES
-=======
+# Lecidea munda Malme SPECIES
 
 #### Status
 ACCEPTED

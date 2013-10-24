@@ -1,5 +1,4 @@
-Myxotrichum glaucum Preuss SPECIES
-=======
+# Myxotrichum glaucum Preuss SPECIES
 
 #### Status
 ACCEPTED

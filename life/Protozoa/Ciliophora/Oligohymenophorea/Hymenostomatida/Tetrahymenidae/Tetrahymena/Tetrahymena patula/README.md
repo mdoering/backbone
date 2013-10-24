@@ -1,11 +1,10 @@
-Leicophrys patula SPECIES
-=======
+# Tetrahymena patula (Ehrenberg, 1830) Corliss, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Chiastozygus angustus (L.E. Stover) S.W. Wise SPECIES
-=======
+# Chiastozygus angustus (L.E. Stover) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

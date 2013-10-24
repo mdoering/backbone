@@ -1,17 +1,16 @@
-Aspergillus profusus Hann SPECIES
-=======
+# Aspergillus pseudoglaucus Blochwitz, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 27: 207 (1929)
 
 #### Original name
-null
+Aspergillus pseudoglaucus Blochwitz, 1929
 
 ### Remarks
 null

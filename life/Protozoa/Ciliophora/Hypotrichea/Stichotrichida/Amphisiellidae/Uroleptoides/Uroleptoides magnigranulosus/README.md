@@ -1,5 +1,4 @@
-Uroleptoides magnigranulosus (Foissner, 1988) Berger, 2008 SPECIES
-=======
+# Uroleptoides magnigranulosus (Foissner, 1988) Berger, 2008 SPECIES
 
 #### Status
 ACCEPTED

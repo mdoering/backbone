@@ -1,5 +1,4 @@
-Mycena pusillissima (Peck) A.H. Sm. SPECIES
-=======
+# Mycena pusillissima (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

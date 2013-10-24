@@ -1,5 +1,4 @@
-Lactobacillus frumenti Müller et al., 2000 SPECIES
-=======
+# Lactobacillus frumenti Müller et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

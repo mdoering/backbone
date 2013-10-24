@@ -1,14 +1,13 @@
-Pestalozzina thuemenii (Speg.) Guba, 1961 SPECIES
-=======
+# Zetiasplozna thuemenii (Speg.) Nag Raj, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Monochaetia and Pestalotia 306 (1961)
+Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 999 (1993)
 
 #### Original name
 Pestalotia thuemenii Speg., 1878

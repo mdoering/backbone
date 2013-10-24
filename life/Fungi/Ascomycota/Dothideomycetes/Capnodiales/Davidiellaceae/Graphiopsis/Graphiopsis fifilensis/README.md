@@ -1,5 +1,4 @@
-Graphiopsis fifilensis (Sacc.) Goid. SPECIES
-=======
+# Graphiopsis fifilensis (Sacc.) Goid. SPECIES
 
 #### Status
 ACCEPTED

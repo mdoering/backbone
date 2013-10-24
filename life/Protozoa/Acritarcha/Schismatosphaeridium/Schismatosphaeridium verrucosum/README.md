@@ -1,5 +1,4 @@
-Schismatosphaeridium verrucosum Venkatachala & Rawat, 1973 SPECIES
-=======
+# Schismatosphaeridium verrucosum Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

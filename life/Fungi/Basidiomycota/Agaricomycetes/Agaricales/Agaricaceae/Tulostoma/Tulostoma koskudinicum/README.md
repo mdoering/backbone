@@ -1,5 +1,4 @@
-Tulostoma koskudinicum Schwarzman & Philimonova SPECIES
-=======
+# Tulostoma koskudinicum Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

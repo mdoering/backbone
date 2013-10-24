@@ -1,5 +1,4 @@
-Polytrichiella albimontana M.E. Barr SPECIES
-=======
+# Polytrichiella albimontana M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

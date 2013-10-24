@@ -1,5 +1,4 @@
-Asterina darwinii Berk. SPECIES
-=======
+# Asterina darwinii Berk. SPECIES
 
 #### Status
 ACCEPTED

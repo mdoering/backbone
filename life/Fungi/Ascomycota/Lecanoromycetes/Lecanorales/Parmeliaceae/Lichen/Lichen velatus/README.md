@@ -1,5 +1,4 @@
-Lichen velatus (Turner) Sm. & Sowerby SPECIES
-=======
+# Lichen velatus (Turner) Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

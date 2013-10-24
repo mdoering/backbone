@@ -1,14 +1,13 @@
-Cryptococcus neoformans var. gattii Vanbreus. & Takashio, 1970 VARIETY
-=======
+# Cryptococcus gattii (Vanbreus. & Takashio) Kwon-Chung & Boekhout, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Soc. belg. Méd. trop. 50(6): 701 (1970)
+in Kwon-Chung, Boekhout, Fell & Diaz, Taxon 51(4): 806 (2002)
 
 #### Original name
 Cryptococcus neoformans var. gattii Vanbreus. & Takashio, 1970

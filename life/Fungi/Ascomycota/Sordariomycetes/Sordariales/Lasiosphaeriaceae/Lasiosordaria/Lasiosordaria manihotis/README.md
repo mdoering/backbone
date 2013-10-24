@@ -1,5 +1,4 @@
-Lasiosordaria manihotis (Fernier) C. Moreau SPECIES
-=======
+# Lasiosordaria manihotis (Fernier) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

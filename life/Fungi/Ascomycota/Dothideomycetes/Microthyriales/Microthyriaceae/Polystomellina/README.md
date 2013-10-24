@@ -1,5 +1,4 @@
-Polystomellina Batista & A.F. Vital, 1958 GENUS
-=======
+# Polystomellina Batista & A.F. Vital, 1958 GENUS
 
 #### Status
 ACCEPTED

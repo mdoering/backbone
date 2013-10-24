@@ -1,5 +1,4 @@
-Collybia amazonensis Singer SPECIES
-=======
+# Collybia amazonensis Singer SPECIES
 
 #### Status
 ACCEPTED

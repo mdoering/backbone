@@ -1,5 +1,4 @@
-Diderma physarioides Schumach. SPECIES
-=======
+# Diderma physarioides Schumach. SPECIES
 
 #### Status
 ACCEPTED

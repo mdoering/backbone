@@ -1,5 +1,4 @@
-Inocybe coerulescens Kobayasi SPECIES
-=======
+# Inocybe coerulescens Kobayasi SPECIES
 
 #### Status
 ACCEPTED

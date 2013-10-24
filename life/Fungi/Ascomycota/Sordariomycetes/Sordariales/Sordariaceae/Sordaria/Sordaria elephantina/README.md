@@ -1,5 +1,4 @@
-Sordaria elephantina Henn. SPECIES
-=======
+# Sordaria elephantina Henn. SPECIES
 
 #### Status
 ACCEPTED

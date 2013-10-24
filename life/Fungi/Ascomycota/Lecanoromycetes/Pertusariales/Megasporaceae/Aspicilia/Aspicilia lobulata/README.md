@@ -1,5 +1,4 @@
-Aspicilia lobulata Hue SPECIES
-=======
+# Aspicilia lobulata Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermotoga neapolitana Jannasch et al., 1989 SPECIES
-=======
+# Thermotoga neapolitana Jannasch et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

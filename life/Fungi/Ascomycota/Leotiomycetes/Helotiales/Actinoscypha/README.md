@@ -1,5 +1,4 @@
-Actinoscypha GENUS
-=======
+# Actinoscypha GENUS
 
 #### Status
 ACCEPTED

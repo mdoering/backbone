@@ -1,5 +1,4 @@
-Secuicollactidae Nazarov & Ormiston, 1984 FAMILY
-=======
+# Secuicollactidae Nazarov & Ormiston, 1984 FAMILY
 
 #### Status
 ACCEPTED

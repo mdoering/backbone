@@ -1,5 +1,4 @@
-Phyllosticta polemonii A.L. Sm. & Ramsb. SPECIES
-=======
+# Phyllosticta polemonii A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

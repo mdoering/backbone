@@ -1,5 +1,4 @@
-Boletus coniferus Pers. SPECIES
-=======
+# Boletus coniferus Pers. SPECIES
 
 #### Status
 ACCEPTED

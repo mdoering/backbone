@@ -1,5 +1,4 @@
-Polynema careyae (B.V. Patil & Thirum.) M. Morelet SPECIES
-=======
+# Polynema careyae (B.V. Patil & Thirum.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

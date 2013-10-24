@@ -1,8 +1,7 @@
-Phyllosticta palmigena Sacc., 1921 SPECIES
-=======
+# Coniothyrium palmigenum (Sacc.) Sacc., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Coniothyrium palmigenum (Sacc.) Sacc., 1931
 
 ### Remarks
 null

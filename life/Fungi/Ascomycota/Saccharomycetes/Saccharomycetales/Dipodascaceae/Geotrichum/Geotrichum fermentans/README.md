@@ -1,14 +1,13 @@
-Trichosporon fermentans Diddens & Lodder, 1942 SPECIES
-=======
+# Geotrichum fermentans (Diddens & Lodder) Arx, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Hefasammlung des 'Centraalbureau voor Schimmelcultures': Beitrage zu einer Monographie der Hefearten. II. Teil. Die anaskosporogenen Hefen. Zweite Halfte 488 (1942)
+in von Arx et al. , Stud. Mycol. 14: 32 (1977)
 
 #### Original name
 Trichosporon fermentans Diddens & Lodder, 1942

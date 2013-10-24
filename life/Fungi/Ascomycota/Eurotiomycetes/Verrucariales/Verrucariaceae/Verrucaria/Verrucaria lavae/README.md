@@ -1,5 +1,4 @@
-Verrucaria lavae Servít SPECIES
-=======
+# Verrucaria lavae Servít SPECIES
 
 #### Status
 ACCEPTED

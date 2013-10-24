@@ -1,5 +1,4 @@
-Corticium overholtsii Burt SPECIES
-=======
+# Corticium overholtsii Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia arctica Rostr. SPECIES
-=======
+# Laestadia arctica Rostr. SPECIES
 
 #### Status
 ACCEPTED

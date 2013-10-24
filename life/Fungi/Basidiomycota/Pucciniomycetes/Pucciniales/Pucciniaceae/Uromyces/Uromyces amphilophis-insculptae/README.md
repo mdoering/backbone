@@ -1,5 +1,4 @@
-Uromyces amphilophis-insculptae T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Uromyces amphilophis-insculptae T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

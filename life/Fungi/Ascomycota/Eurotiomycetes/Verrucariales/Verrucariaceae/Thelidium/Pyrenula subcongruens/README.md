@@ -1,5 +1,4 @@
-Pyrenula subcongruens Müll. Arg., 1895 SPECIES
-=======
+# Pyrenula subcongruens Müll. Arg., 1895 SPECIES
 
 #### Status
 DOUBTFUL

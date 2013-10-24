@@ -1,5 +1,4 @@
-Physcia ectanea (Ach.) Linds. SPECIES
-=======
+# Physcia ectanea (Ach.) Linds. SPECIES
 
 #### Status
 ACCEPTED

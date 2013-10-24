@@ -1,5 +1,4 @@
-Pecila Lepell. GENUS
-=======
+# Pecila Lepell. GENUS
 
 #### Status
 ACCEPTED

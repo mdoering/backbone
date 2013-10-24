@@ -1,5 +1,4 @@
-Cassidulinella renulinaformis Natland, 1940 SPECIES
-=======
+# Cassidulinella renulinaformis Natland, 1940 SPECIES
 
 #### Status
 ACCEPTED

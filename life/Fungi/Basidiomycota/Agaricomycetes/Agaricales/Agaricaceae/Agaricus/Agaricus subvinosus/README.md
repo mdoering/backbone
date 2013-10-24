@@ -1,5 +1,4 @@
-Agaricus subvinosus Berk. SPECIES
-=======
+# Agaricus subvinosus Berk. SPECIES
 
 #### Status
 ACCEPTED

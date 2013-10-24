@@ -1,5 +1,4 @@
-Limacium purpurascens (Alb. & Schwein.) P. Kumm. SPECIES
-=======
+# Limacium purpurascens (Alb. & Schwein.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

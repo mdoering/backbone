@@ -1,5 +1,4 @@
-Acarospora helvetica H. Magn. SPECIES
-=======
+# Acarospora helvetica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

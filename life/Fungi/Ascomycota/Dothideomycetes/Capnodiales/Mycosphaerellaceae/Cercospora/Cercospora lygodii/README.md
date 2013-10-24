@@ -1,5 +1,4 @@
-Cercospora lygodii Sawada SPECIES
-=======
+# Cercospora lygodii Sawada SPECIES
 
 #### Status
 ACCEPTED

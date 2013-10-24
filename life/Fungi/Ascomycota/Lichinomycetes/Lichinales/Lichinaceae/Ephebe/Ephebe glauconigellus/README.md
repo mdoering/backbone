@@ -1,5 +1,4 @@
-Ephebe glauconigellus (Nyl.) Hafellner SPECIES
-=======
+# Ephebe glauconigellus (Nyl.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

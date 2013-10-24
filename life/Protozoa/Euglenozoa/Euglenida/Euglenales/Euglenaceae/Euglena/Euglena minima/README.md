@@ -1,5 +1,4 @@
-Euglena minima Francé SPECIES
-=======
+# Euglena minima Francé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora rosmarini Fabre SPECIES
-=======
+# Teichospora rosmarini Fabre SPECIES
 
 #### Status
 ACCEPTED

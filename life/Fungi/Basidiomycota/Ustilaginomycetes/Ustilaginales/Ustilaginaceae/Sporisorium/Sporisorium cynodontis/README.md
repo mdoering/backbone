@@ -1,5 +1,4 @@
-Sporisorium cynodontis (L. Ling) R.G. Shivas & Vánky SPECIES
-=======
+# Sporisorium cynodontis (L. Ling) R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

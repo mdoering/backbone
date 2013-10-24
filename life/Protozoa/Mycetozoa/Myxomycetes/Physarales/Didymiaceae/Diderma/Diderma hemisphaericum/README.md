@@ -1,17 +1,16 @@
-Diderma hemisphaericum var. verrucosporum Y. Yamam. VARIETY
-=======
+# Diderma hemisphaericum (Bull.) Hornem., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Yamamoto, Hagiwara & Sultana, Cryptogams of the Himalayas (Tsukuba), <b>3</b>. Nepal and Pakistan 40 (1995)
+Fl. Danic. 13 (1829)
 
 #### Original name
-Diderma hemisphaericum var. verrucosporum Y. Yamam.
+Reticularia hemisphaerica Sowerby
 
 ### Remarks
 null

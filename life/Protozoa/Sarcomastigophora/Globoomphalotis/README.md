@@ -1,5 +1,4 @@
-Globoomphalotis Bogush, 1987 GENUS
-=======
+# Globoomphalotis Bogush, 1987 GENUS
 
 #### Status
 ACCEPTED

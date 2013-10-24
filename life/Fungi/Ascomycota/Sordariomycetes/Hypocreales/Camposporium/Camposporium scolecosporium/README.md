@@ -1,5 +1,4 @@
-Camposporium scolecosporium Matsush. SPECIES
-=======
+# Camposporium scolecosporium Matsush. SPECIES
 
 #### Status
 ACCEPTED

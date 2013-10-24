@@ -1,5 +1,4 @@
-Verrucaria paramera Nyl. SPECIES
-=======
+# Verrucaria paramera Nyl. SPECIES
 
 #### Status
 ACCEPTED

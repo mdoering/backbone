@@ -1,5 +1,4 @@
-Pichia thermomethanolica Limtong, Srisuk, Yongman., Yurim., Nakase & N. Kato, 2005 SPECIES
-=======
+# Pichia thermomethanolica Limtong, Srisuk, Yongman., Yurim., Nakase & N. Kato, 2005 SPECIES
 
 #### Status
 ACCEPTED

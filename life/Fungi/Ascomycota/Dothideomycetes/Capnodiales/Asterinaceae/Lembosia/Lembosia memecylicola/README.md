@@ -1,5 +1,4 @@
-Lembosia memecylicola Hosag., 2005 SPECIES
-=======
+# Lembosia memecylicola Hosag., 2005 SPECIES
 
 #### Status
 ACCEPTED

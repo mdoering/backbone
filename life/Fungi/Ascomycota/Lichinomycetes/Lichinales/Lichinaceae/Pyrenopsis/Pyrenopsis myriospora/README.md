@@ -1,5 +1,4 @@
-Pyrenopsis myriospora Å.E. Dahl SPECIES
-=======
+# Pyrenopsis myriospora Å.E. Dahl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria serratulae Vasyag. SPECIES
-=======
+# Placosphaeria serratulae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramularia carletoni (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Ramularia carletonii (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 3(2-3): 280 (1988)
 
 #### Original name
 Ovularia carletonii Ellis & Kellerm.

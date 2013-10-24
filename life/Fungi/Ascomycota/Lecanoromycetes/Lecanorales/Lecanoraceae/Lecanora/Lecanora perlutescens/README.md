@@ -1,5 +1,4 @@
-Lecanora perlutescens Nyl. SPECIES
-=======
+# Lecanora perlutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

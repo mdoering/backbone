@@ -1,5 +1,4 @@
-Trachysphaeridium chihsienense Liu Kuizhih & Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Trachysphaeridium chihsienense Liu Kuizhih & Xing Yusheng in Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

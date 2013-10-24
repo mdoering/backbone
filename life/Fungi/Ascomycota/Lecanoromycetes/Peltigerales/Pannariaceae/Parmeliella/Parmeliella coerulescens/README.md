@@ -1,5 +1,4 @@
-Parmeliella coerulescens Müll. Arg. SPECIES
-=======
+# Parmeliella coerulescens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia fuscopallens Nyl. SPECIES
-=======
+# Arthonia fuscopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

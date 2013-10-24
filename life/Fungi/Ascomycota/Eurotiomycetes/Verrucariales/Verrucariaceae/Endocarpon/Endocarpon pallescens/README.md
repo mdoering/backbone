@@ -1,5 +1,4 @@
-Endocarpon pallescens DC. SPECIES
-=======
+# Endocarpon pallescens DC. SPECIES
 
 #### Status
 ACCEPTED

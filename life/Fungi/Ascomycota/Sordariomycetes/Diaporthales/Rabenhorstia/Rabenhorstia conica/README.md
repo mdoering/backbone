@@ -1,5 +1,4 @@
-Rabenhorstia conica (Preuss) Sacc. SPECIES
-=======
+# Rabenhorstia conica (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

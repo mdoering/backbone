@@ -1,5 +1,4 @@
-Vorticella cratera Kent, 1881 SPECIES
-=======
+# Vorticella cratera Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

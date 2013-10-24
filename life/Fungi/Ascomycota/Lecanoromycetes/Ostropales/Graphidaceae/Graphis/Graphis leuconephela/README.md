@@ -1,5 +1,4 @@
-Graphis leuconephela (Nyl.) Kremp. SPECIES
-=======
+# Graphis leuconephela (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

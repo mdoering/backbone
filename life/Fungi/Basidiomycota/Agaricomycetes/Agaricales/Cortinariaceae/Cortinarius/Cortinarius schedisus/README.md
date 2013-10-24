@@ -1,5 +1,4 @@
-Cortinarius schedisus Rob. Henry SPECIES
-=======
+# Cortinarius schedisus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella ventriosa (Cooke & Ellis) Sacc. SPECIES
-=======
+# Eutypella ventriosa (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

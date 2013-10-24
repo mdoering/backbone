@@ -1,5 +1,4 @@
-Lactarius hortensis var. hortensis VARIETY
-=======
+# Lactarius hortensis Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ceské Houby 1: 163 (1920)
 
 #### Original name
-Lactarius hortensis var. hortensis
+Lactarius hortensis Velen.
 
 ### Remarks
 null

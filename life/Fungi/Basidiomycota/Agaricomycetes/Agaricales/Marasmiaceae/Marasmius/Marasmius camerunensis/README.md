@@ -1,5 +1,4 @@
-Marasmius camerunensis Antonín & Mossebo SPECIES
-=======
+# Marasmius camerunensis Antonín & Mossebo SPECIES
 
 #### Status
 ACCEPTED

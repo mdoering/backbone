@@ -1,5 +1,4 @@
-Radaisia clavata Setchell & N.L. Gardner SPECIES
-=======
+# Radaisia clavata Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

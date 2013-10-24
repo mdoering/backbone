@@ -1,5 +1,4 @@
-Vulcanisaeta Itoh, Suzuki & Nakase, 2002 GENUS
-=======
+# Vulcanisaeta Itoh, Suzuki & Nakase, 2002 GENUS
 
 #### Status
 ACCEPTED

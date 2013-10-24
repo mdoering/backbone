@@ -1,5 +1,4 @@
-Ordospora J.I.R. Larsson, D. Ebert & J. Vavra GENUS
-=======
+# Ordospora J.I.R. Larsson, D. Ebert & J. Vavra GENUS
 
 #### Status
 ACCEPTED

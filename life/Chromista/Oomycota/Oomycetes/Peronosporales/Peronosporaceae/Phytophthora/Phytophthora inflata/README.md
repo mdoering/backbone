@@ -1,5 +1,4 @@
-Phytophthora inflata Caros. & Tucker, 1949 SPECIES
-=======
+# Phytophthora inflata Caros. & Tucker, 1949 SPECIES
 
 #### Status
 ACCEPTED

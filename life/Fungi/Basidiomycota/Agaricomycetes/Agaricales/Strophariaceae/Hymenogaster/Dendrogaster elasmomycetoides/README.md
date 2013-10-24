@@ -1,5 +1,4 @@
-Dendrogaster elasmomycetoides Zeller SPECIES
-=======
+# Dendrogaster elasmomycetoides Zeller SPECIES
 
 #### Status
 ACCEPTED

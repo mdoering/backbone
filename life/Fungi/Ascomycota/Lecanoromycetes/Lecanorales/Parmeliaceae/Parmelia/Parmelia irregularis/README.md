@@ -1,5 +1,4 @@
-Parmelia irregularis (Gyeln.) Kurok. SPECIES
-=======
+# Parmelia irregularis (Gyeln.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

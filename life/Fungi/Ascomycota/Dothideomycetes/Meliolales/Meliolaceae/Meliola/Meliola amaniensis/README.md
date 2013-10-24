@@ -1,5 +1,4 @@
-Meliola amaniensis Hansf. SPECIES
-=======
+# Meliola amaniensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

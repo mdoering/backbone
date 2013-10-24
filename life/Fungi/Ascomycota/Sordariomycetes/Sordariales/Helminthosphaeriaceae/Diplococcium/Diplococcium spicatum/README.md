@@ -1,5 +1,4 @@
-Diplococcium spicatum Grove, 1885 SPECIES
-=======
+# Diplococcium spicatum Grove, 1885 SPECIES
 
 #### Status
 ACCEPTED

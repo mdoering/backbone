@@ -1,5 +1,4 @@
-Radiigera bushnellii L.S. Domínguez & Castellano, 1996 SPECIES
-=======
+# Radiigera bushnellii L.S. Domínguez & Castellano, 1996 SPECIES
 
 #### Status
 ACCEPTED

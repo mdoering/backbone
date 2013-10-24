@@ -1,5 +1,4 @@
-Entoloma vezzenaense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma vezzenaense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

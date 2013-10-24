@@ -1,5 +1,4 @@
-Condylostoma spatiosum Ozaki & Yagiu in Yagiu, 1944 SPECIES
-=======
+# Condylostoma spatiosum Ozaki & Yagiu in Yagiu, 1944 SPECIES
 
 #### Status
 ACCEPTED

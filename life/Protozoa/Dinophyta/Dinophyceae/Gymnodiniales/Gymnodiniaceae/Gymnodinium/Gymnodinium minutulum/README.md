@@ -1,5 +1,4 @@
-Gymnodinium minutulum J. Larsen SPECIES
-=======
+# Gymnodinium minutulum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

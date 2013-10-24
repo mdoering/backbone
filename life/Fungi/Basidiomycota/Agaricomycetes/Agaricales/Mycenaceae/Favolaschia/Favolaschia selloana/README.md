@@ -1,14 +1,13 @@
-Favolaschia thwaitesii subsp. selloana (Henn.) Singer SUBSPECIES
-=======
+# Favolaschia selloana Henn., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 8: 212 (1945)
+Hedwigia 36: 203 (1897)
 
 #### Original name
 Favolaschia selloana Henn., 1897

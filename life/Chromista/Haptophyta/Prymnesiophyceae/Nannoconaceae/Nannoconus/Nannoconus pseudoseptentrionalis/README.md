@@ -1,5 +1,4 @@
-Nannoconus pseudoseptentrionalis SPECIES
-=======
+# Nannoconus pseudoseptentrionalis SPECIES
 
 #### Status
 ACCEPTED

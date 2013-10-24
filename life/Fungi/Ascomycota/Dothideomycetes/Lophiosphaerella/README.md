@@ -1,5 +1,4 @@
-Lophiosphaerella Hara GENUS
-=======
+# Lophiosphaerella Hara GENUS
 
 #### Status
 ACCEPTED

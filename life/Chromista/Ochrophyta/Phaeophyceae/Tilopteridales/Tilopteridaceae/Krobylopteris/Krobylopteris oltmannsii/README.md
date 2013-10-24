@@ -1,5 +1,4 @@
-Krobylopteris oltmannsii Schmidt, 1942 SPECIES
-=======
+# Krobylopteris oltmannsii Schmidt, 1942 SPECIES
 
 #### Status
 ACCEPTED

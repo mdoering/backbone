@@ -1,5 +1,4 @@
-Pseudocercospora taichungensis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora taichungensis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

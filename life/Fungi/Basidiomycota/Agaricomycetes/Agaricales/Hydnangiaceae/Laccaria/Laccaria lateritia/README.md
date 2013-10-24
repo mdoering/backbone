@@ -1,5 +1,4 @@
-Laccaria lateritia Malençon SPECIES
-=======
+# Laccaria lateritia Malençon SPECIES
 
 #### Status
 ACCEPTED

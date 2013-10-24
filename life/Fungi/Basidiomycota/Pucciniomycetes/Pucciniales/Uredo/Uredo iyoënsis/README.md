@@ -1,8 +1,7 @@
-Uredo iyoensis Hirats. f. & Yoshin. SPECIES
-=======
+# Uredo iyoënsis Hirats. f. & Yoshin. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo iyoensis Hirats. f. & Yoshin.
+Uredo iyoënsis Hirats. f. & Yoshin.
 
 ### Remarks
 null

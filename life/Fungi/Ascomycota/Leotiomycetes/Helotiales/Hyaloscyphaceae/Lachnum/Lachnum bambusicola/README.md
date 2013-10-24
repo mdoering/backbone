@@ -1,5 +1,4 @@
-Lachnum bambusicola Rick SPECIES
-=======
+# Lachnum bambusicola Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoderma gaultheriae R.S. Hunt, 1980 SPECIES
-=======
+# Hypoderma gaultheriae R.S. Hunt, 1980 SPECIES
 
 #### Status
 ACCEPTED

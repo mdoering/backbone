@@ -1,5 +1,4 @@
-Lyngbya corium (C. Agardh ex Gomont) Hansg. SPECIES
-=======
+# Lyngbya corium (C. Agardh ex Gomont) Hansg. SPECIES
 
 #### Status
 ACCEPTED

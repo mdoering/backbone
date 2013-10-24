@@ -1,5 +1,4 @@
-Russula columbiana Singer SPECIES
-=======
+# Russula columbiana Singer SPECIES
 
 #### Status
 ACCEPTED

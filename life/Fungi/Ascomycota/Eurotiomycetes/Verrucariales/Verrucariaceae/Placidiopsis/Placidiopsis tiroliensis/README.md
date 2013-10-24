@@ -1,5 +1,4 @@
-Placidiopsis tiroliensis Breuss SPECIES
-=======
+# Placidiopsis tiroliensis Breuss SPECIES
 
 #### Status
 ACCEPTED

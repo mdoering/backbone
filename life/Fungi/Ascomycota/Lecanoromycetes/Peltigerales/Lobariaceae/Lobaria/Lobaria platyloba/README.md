@@ -1,5 +1,4 @@
-Lobaria platyloba (Nyl.) Vain. SPECIES
-=======
+# Lobaria platyloba (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

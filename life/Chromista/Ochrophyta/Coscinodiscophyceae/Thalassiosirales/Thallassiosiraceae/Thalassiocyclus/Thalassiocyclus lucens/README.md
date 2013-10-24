@@ -1,5 +1,4 @@
-Thalassiocyclus lucens (Hustedt) H. Håkansson & A. Mahood SPECIES
-=======
+# Thalassiocyclus lucens (Hustedt) H. Håkansson & A. Mahood SPECIES
 
 #### Status
 ACCEPTED

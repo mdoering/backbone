@@ -1,5 +1,4 @@
-Lecidea subducta Wedd. SPECIES
-=======
+# Lecidea subducta Wedd. SPECIES
 
 #### Status
 ACCEPTED

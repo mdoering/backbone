@@ -1,5 +1,4 @@
-Aeropyrum pernix Sako et al., 1996 SPECIES
-=======
+# Aeropyrum pernix Sako et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

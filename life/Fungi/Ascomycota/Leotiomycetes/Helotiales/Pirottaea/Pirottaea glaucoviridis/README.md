@@ -1,5 +1,4 @@
-Pirottaea glaucoviridis Vacek SPECIES
-=======
+# Pirottaea glaucoviridis Vacek SPECIES
 
 #### Status
 ACCEPTED

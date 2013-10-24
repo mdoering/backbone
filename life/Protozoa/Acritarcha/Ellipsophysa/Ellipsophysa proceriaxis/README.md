@@ -1,5 +1,4 @@
-Ellipsophysa proceriaxis Zheng Wenwu in Yang Qinghe et al., 1980 SPECIES
-=======
+# Ellipsophysa proceriaxis Zheng Wenwu in Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

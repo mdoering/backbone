@@ -1,5 +1,4 @@
-Streptothrix fusca Corda SPECIES
-=======
+# Streptothrix fusca Corda SPECIES
 
 #### Status
 ACCEPTED

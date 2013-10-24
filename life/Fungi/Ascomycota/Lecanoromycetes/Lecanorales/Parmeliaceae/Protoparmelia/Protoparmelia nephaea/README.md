@@ -1,14 +1,13 @@
-Lecanorella nephaea (Sommerf.) Motyka SPECIES
-=======
+# Protoparmelia nephaea (Sommerf.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Porosty (Lichenes). <b>1</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Hymenelia</i>, <i>Aspicilia</i>, <i>Lecanorella</i>, <i>Protoplacodium</i>, <i>Manzonia</i> 327 (1995)
+in Poelt & Obermayer, Herzogia 8(3-4): 275 (1990)
 
 #### Original name
 Lecanora nephaea Sommerf.

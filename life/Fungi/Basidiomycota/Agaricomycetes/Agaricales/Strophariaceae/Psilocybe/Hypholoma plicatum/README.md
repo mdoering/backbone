@@ -1,5 +1,4 @@
-Hypholoma plicatum Pilát & Lindtner SPECIES
-=======
+# Hypholoma plicatum Pilát & Lindtner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Flabellula reniformis Schmoller, 1964 SPECIES
-=======
+# Paraflabellula reniformis (Schmoller, 1964) Page & Willumsen, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Solenia subnivea W.B. Cooke SPECIES
-=======
+# Solenia subnivea W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

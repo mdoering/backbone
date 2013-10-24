@@ -1,5 +1,4 @@
-Cyclodomus yuccae Sawada SPECIES
-=======
+# Cyclodomus yuccae Sawada SPECIES
 
 #### Status
 ACCEPTED

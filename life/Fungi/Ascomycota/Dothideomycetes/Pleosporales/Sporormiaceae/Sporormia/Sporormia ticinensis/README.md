@@ -1,5 +1,4 @@
-Sporormia ticinensis Pirotta SPECIES
-=======
+# Sporormia ticinensis Pirotta SPECIES
 
 #### Status
 ACCEPTED

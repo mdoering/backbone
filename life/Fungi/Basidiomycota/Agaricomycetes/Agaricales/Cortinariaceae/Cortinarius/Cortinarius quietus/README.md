@@ -1,5 +1,4 @@
-Cortinarius quietus Rob. Henry SPECIES
-=======
+# Cortinarius quietus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

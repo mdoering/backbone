@@ -1,5 +1,4 @@
-Eriopezia roseolotincta Svrcek SPECIES
-=======
+# Eriopezia roseolotincta Svrcek SPECIES
 
 #### Status
 ACCEPTED

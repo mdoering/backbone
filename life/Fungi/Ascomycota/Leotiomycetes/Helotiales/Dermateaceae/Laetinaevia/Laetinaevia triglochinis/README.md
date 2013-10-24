@@ -1,5 +1,4 @@
-Laetinaevia triglochinis Gremmen SPECIES
-=======
+# Laetinaevia triglochinis Gremmen SPECIES
 
 #### Status
 ACCEPTED

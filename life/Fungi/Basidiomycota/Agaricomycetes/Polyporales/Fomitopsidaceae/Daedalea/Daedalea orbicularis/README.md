@@ -1,5 +1,4 @@
-Daedalea orbicularis Bagl. SPECIES
-=======
+# Daedalea orbicularis Bagl. SPECIES
 
 #### Status
 ACCEPTED

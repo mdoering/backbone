@@ -1,5 +1,4 @@
-Sticta jamesonii Mont. SPECIES
-=======
+# Sticta jamesonii Mont. SPECIES
 
 #### Status
 ACCEPTED

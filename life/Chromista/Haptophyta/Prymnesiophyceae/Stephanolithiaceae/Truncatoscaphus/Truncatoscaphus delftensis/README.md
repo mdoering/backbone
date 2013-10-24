@@ -1,5 +1,4 @@
-Truncatoscaphus delftensis (Stradner & Adamiker, 1966) Rood et al., 1971 SPECIES
-=======
+# Truncatoscaphus delftensis (Stradner & Adamiker, 1966) Rood et al., 1971 SPECIES
 
 #### Status
 ACCEPTED

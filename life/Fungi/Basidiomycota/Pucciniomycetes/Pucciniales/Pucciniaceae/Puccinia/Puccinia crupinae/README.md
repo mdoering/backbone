@@ -1,5 +1,4 @@
-Puccinia crupinae Ranoj. SPECIES
-=======
+# Puccinia crupinae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

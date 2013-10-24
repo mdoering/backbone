@@ -1,5 +1,4 @@
-Xylodon syringae (Langer) Hjortstam & Ryvarden SPECIES
-=======
+# Xylodon syringae (Langer) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

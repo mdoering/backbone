@@ -1,5 +1,4 @@
-Hebeloma coarctatum (Cooke & Massee) Pegler SPECIES
-=======
+# Hebeloma coarctatum (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

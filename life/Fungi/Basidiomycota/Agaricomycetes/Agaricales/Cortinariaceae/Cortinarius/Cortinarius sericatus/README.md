@@ -1,5 +1,4 @@
-Cortinarius sericatus Ramain SPECIES
-=======
+# Cortinarius sericatus Ramain SPECIES
 
 #### Status
 ACCEPTED

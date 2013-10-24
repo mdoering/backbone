@@ -1,5 +1,4 @@
-Clavaria vogesiaca Schleich. SPECIES
-=======
+# Clavaria vogesiaca Schleich. SPECIES
 
 #### Status
 ACCEPTED

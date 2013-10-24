@@ -1,5 +1,4 @@
-Cellulasclerotes giganteus Stach & Pickh. SPECIES
-=======
+# Cellulasclerotes giganteus Stach & Pickh. SPECIES
 
 #### Status
 ACCEPTED

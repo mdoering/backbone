@@ -1,5 +1,4 @@
-Cetraria endoxantha (Hue) D.D. Awasthi SPECIES
-=======
+# Cetraria endoxantha (Hue) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

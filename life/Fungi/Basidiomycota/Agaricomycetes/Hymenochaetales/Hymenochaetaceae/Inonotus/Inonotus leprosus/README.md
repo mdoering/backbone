@@ -1,5 +1,4 @@
-Inonotus leprosus (Fr.) Murrill SPECIES
-=======
+# Inonotus leprosus (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

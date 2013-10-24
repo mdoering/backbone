@@ -1,5 +1,4 @@
-Camarosporium sarcinosporum Bubák SPECIES
-=======
+# Camarosporium sarcinosporum Bubák SPECIES
 
 #### Status
 ACCEPTED

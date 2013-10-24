@@ -1,5 +1,4 @@
-Scutellinia mirabilis Dissing & Sivertsen, 1983 SPECIES
-=======
+# Scutellinia mirabilis Dissing & Sivertsen, 1983 SPECIES
 
 #### Status
 ACCEPTED

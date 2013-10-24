@@ -1,5 +1,4 @@
-Polyblastia subpyrenophora (Leight.) Zschacke SPECIES
-=======
+# Polyblastia subpyrenophora (Leight.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

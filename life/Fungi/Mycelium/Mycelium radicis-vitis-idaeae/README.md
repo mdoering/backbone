@@ -1,5 +1,4 @@
-Mycelium radicis-vitis-idaeae Freisleben {?} SPECIES
-=======
+# Mycelium radicis-vitis-idaeae Freisleben {?} SPECIES
 
 #### Status
 ACCEPTED

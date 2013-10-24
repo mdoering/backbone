@@ -1,5 +1,4 @@
-Calicium saepiculare Ach. SPECIES
-=======
+# Calicium saepiculare Ach. SPECIES
 
 #### Status
 ACCEPTED

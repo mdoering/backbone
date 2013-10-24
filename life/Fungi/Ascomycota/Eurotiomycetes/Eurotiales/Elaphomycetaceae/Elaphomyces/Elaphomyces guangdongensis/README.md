@@ -1,5 +1,4 @@
-Elaphomyces guangdongensis B.C. Zhang SPECIES
-=======
+# Elaphomyces guangdongensis B.C. Zhang SPECIES
 
 #### Status
 ACCEPTED

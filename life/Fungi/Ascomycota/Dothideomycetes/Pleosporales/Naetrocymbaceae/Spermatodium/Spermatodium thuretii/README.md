@@ -1,5 +1,4 @@
-Spermatodium thuretii (Hepp) Trevis. SPECIES
-=======
+# Spermatodium thuretii (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

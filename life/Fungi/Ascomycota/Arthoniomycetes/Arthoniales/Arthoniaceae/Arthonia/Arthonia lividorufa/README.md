@@ -1,5 +1,4 @@
-Arthonia lividorufa Vain. SPECIES
-=======
+# Arthonia lividorufa Vain. SPECIES
 
 #### Status
 ACCEPTED

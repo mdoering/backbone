@@ -1,5 +1,4 @@
-Grosmannia Goid. GENUS
-=======
+# Grosmannia Goid. GENUS
 
 #### Status
 ACCEPTED

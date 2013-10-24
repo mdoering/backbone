@@ -1,17 +1,16 @@
-Schizostoma byssisedium Flageolet & Chenant. SPECIES
-=======
+# Byssolophis byssiseda (Flageolet & Chenant.) Clem., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gen. Fung. (Minneapolis) 286 (1931)
 
 #### Original name
-Schizostoma byssisedium Flageolet & Chenant.
+Schizostoma byssisedum Flageolet & Chenant., 1919
 
 ### Remarks
 null

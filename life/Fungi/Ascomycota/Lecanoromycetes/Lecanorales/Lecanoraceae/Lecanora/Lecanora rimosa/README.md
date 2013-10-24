@@ -1,5 +1,4 @@
-Lecanora rimosa f. rimosa FORM
-=======
+# Lecanora rimosa Röhl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Porosty (Lichenes). <b>3</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Lecanora</i> 50 (1996)
 
 #### Original name
-Lecanora rimosa f. rimosa
+Lecanora rimosa Röhl.
 
 ### Remarks
 null

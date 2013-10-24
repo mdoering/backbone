@@ -1,5 +1,4 @@
-Melanelia sorediella (Lettau) V.J. Rico, van den Boom & Barrasa SPECIES
-=======
+# Melanelia sorediella (Lettau) V.J. Rico, van den Boom & Barrasa SPECIES
 
 #### Status
 ACCEPTED

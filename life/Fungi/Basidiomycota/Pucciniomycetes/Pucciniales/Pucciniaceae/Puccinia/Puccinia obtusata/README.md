@@ -1,5 +1,4 @@
-Puccinia obtusata G.H. Otth ex E. Fisch. SPECIES
-=======
+# Puccinia obtusata G.H. Otth ex E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

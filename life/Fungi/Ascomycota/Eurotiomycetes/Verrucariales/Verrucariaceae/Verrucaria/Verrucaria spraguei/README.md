@@ -1,5 +1,4 @@
-Verrucaria spraguei (Tuck.) Nyl. SPECIES
-=======
+# Verrucaria spraguei (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria inverecunda De Not. SPECIES
-=======
+# Sphaeria inverecunda De Not. SPECIES
 
 #### Status
 ACCEPTED

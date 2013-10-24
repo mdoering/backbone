@@ -1,5 +1,4 @@
-Wolfiporia cartilaginea Ryvarden, 1986 SPECIES
-=======
+# Wolfiporia cartilaginea Ryvarden, 1986 SPECIES
 
 #### Status
 ACCEPTED

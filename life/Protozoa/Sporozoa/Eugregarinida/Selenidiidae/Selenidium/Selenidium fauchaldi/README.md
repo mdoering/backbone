@@ -1,5 +1,4 @@
-Selenidium fauchaldi Levine, 1974 SPECIES
-=======
+# Selenidium fauchaldi Levine, 1974 SPECIES
 
 #### Status
 ACCEPTED

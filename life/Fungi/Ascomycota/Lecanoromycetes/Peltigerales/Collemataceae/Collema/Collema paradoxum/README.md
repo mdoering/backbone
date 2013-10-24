@@ -1,5 +1,4 @@
-Collema paradoxum Ach. SPECIES
-=======
+# Collema paradoxum Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta apiculata Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta apiculata Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bursostoma bursaria Vörösvary, 1950 SPECIES
-=======
+# Bursostoma bursaria Vörösvary, 1950 SPECIES
 
 #### Status
 ACCEPTED

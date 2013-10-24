@@ -1,5 +1,4 @@
-Catillaria subehrhartiana (Eitner) Zahlbr. SPECIES
-=======
+# Catillaria subehrhartiana (Eitner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sinuata-undatus V. Brig. SPECIES
-=======
+# Agaricus sinuata-undatus V. Brig. SPECIES
 
 #### Status
 ACCEPTED

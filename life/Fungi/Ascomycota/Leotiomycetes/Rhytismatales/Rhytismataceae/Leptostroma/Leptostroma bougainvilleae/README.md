@@ -1,5 +1,4 @@
-Leptostroma bougainvilleae Gonz. Frag. & Cif. SPECIES
-=======
+# Leptostroma bougainvilleae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

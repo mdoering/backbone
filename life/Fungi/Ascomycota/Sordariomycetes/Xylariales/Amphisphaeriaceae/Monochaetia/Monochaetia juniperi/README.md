@@ -1,5 +1,4 @@
-Monochaetia juniperi (Rostr.) Sacc. SPECIES
-=======
+# Monochaetia juniperi (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

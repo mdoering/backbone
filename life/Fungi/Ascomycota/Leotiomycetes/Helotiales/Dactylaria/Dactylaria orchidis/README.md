@@ -1,5 +1,4 @@
-Dactylaria orchidis Cooke & Massee SPECIES
-=======
+# Dactylaria orchidis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

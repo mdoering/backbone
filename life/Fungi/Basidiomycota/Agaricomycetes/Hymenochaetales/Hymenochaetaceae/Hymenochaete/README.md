@@ -1,17 +1,16 @@
-Leptochaete Lév. GENUS
-=======
+# Hymenochaete Léveillé, 1846 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Considér. Mycol. 108 (1846)
+null
 
 #### Original name
-Leptochaete Lév.
+null
 
 ### Remarks
 null

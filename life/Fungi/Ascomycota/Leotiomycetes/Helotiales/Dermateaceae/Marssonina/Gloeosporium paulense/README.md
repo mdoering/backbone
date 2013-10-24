@@ -1,5 +1,4 @@
-Gloeosporium paulense Syd. SPECIES
-=======
+# Gloeosporium paulense Syd. SPECIES
 
 #### Status
 ACCEPTED

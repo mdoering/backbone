@@ -1,5 +1,4 @@
-Diaporthe solani-verbascifolii Speg. SPECIES
-=======
+# Diaporthe solani-verbascifolii Speg. SPECIES
 
 #### Status
 ACCEPTED

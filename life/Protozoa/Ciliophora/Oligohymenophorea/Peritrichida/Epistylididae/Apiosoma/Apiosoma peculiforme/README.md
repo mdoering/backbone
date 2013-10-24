@@ -1,5 +1,4 @@
-Apiosoma peculiforme SPECIES
-=======
+# Apiosoma peculiforme SPECIES
 
 #### Status
 ACCEPTED

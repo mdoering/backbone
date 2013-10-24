@@ -1,8 +1,7 @@
-Tuber lyoni Butters {?} SPECIES
-=======
+# Tuber lyoniae Butters {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tuber lyoni Butters {?}
+Tuber lyoniae Butters {?}
 
 ### Remarks
 null

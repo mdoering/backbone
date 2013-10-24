@@ -1,5 +1,4 @@
-Lecanora sophodopsella Nyl. SPECIES
-=======
+# Lecanora sophodopsella Nyl. SPECIES
 
 #### Status
 ACCEPTED

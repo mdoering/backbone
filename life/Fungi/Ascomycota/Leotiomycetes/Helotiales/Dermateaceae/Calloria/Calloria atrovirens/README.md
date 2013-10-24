@@ -1,5 +1,4 @@
-Calloria atrovirens Fr. SPECIES
-=======
+# Calloria atrovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

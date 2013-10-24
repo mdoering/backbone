@@ -1,5 +1,4 @@
-Trichopezizella brunnea Raitv. SPECIES
-=======
+# Trichopezizella brunnea Raitv. SPECIES
 
 #### Status
 ACCEPTED

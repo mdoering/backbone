@@ -1,5 +1,4 @@
-Gymnopus cinchonensis Murrill SPECIES
-=======
+# Gymnopus cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

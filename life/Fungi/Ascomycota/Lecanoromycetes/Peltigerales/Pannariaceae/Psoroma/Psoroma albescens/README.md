@@ -1,5 +1,4 @@
-Psoroma albescens (Hoffm.) Rabenh. SPECIES
-=======
+# Psoroma albescens (Hoffm.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

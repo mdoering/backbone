@@ -1,5 +1,4 @@
-Uredo clivalis (Mitter) Gjaerum SPECIES
-=======
+# Uredo clivalis (Mitter) Gjaerum SPECIES
 
 #### Status
 ACCEPTED

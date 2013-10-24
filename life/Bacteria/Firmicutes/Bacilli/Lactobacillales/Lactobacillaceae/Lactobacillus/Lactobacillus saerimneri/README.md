@@ -1,5 +1,4 @@
-Lactobacillus saerimneri Pedersen & Roos, 2004 SPECIES
-=======
+# Lactobacillus saerimneri Pedersen & Roos, 2004 SPECIES
 
 #### Status
 ACCEPTED

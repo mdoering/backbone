@@ -1,5 +1,4 @@
-Hydropus indicus Singer SPECIES
-=======
+# Hydropus indicus Singer SPECIES
 
 #### Status
 ACCEPTED

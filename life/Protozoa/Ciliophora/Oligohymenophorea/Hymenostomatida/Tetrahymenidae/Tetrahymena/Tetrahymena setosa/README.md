@@ -1,5 +1,4 @@
-Tetrahymena setosa Schewiakoff SPECIES
-=======
+# Tetrahymena setosa Schewiakoff SPECIES
 
 #### Status
 ACCEPTED

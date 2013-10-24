@@ -1,5 +1,4 @@
-Venturia missionum Speg. SPECIES
-=======
+# Venturia missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

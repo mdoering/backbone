@@ -1,5 +1,4 @@
-Collema exasperatum Ach. SPECIES
-=======
+# Collema exasperatum Ach. SPECIES
 
 #### Status
 ACCEPTED

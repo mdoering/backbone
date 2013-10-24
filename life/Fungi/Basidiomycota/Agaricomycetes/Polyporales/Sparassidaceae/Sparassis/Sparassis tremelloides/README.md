@@ -1,5 +1,4 @@
-Sparassis tremelloides Berk. SPECIES
-=======
+# Sparassis tremelloides Berk. SPECIES
 
 #### Status
 ACCEPTED

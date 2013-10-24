@@ -1,5 +1,4 @@
-Pseudosyncrypta volvox Kisselev SPECIES
-=======
+# Pseudosyncrypta volvox Kisselev SPECIES
 
 #### Status
 ACCEPTED

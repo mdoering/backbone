@@ -1,5 +1,4 @@
-Strombidium shicatum SPECIES
-=======
+# Strombidium shicatum SPECIES
 
 #### Status
 ACCEPTED

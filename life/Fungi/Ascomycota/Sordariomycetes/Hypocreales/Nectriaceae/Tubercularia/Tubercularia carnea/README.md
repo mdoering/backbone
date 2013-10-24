@@ -1,5 +1,4 @@
-Tubercularia carnea Pass. SPECIES
-=======
+# Tubercularia carnea Pass. SPECIES
 
 #### Status
 ACCEPTED

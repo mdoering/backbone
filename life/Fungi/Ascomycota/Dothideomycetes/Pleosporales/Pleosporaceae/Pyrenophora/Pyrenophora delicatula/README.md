@@ -1,5 +1,4 @@
-Pyrenophora delicatula Vestergr. SPECIES
-=======
+# Pyrenophora delicatula Vestergr. SPECIES
 
 #### Status
 ACCEPTED

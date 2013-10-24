@@ -1,5 +1,4 @@
-Entoloma moserianum Noordel. SPECIES
-=======
+# Entoloma moserianum Noordel. SPECIES
 
 #### Status
 ACCEPTED

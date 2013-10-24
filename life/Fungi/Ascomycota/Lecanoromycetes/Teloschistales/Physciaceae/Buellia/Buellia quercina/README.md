@@ -1,5 +1,4 @@
-Buellia quercina Darb. SPECIES
-=======
+# Buellia quercina Darb. SPECIES
 
 #### Status
 ACCEPTED

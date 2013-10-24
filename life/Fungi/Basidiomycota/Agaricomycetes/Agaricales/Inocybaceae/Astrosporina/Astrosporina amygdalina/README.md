@@ -1,5 +1,4 @@
-Astrosporina amygdalina E. Horak, 1978 SPECIES
-=======
+# Astrosporina amygdalina E. Horak, 1978 SPECIES
 
 #### Status
 ACCEPTED

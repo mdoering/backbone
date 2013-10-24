@@ -1,5 +1,4 @@
-Cercospora crotonicola Ellis & Barthol. SPECIES
-=======
+# Cercospora crotonicola Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis rustica Singer SPECIES
-=======
+# Crinipellis rustica Singer SPECIES
 
 #### Status
 ACCEPTED

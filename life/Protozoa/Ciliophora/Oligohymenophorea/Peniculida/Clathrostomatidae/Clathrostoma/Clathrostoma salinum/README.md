@@ -1,5 +1,4 @@
-Clathrostoma salinum SPECIES
-=======
+# Clathrostoma salinum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza piceae Pers. SPECIES
-=======
+# Peziza piceae Pers. SPECIES
 
 #### Status
 ACCEPTED

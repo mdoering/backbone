@@ -1,5 +1,4 @@
-Puccinia sordida Dietel SPECIES
-=======
+# Puccinia sordida Dietel SPECIES
 
 #### Status
 ACCEPTED

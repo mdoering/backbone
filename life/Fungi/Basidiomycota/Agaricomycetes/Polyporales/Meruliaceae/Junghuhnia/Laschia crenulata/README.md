@@ -1,5 +1,4 @@
-Laschia crenulata R.E. Sm. SPECIES
-=======
+# Laschia crenulata R.E. Sm. SPECIES
 
 #### Status
 ACCEPTED

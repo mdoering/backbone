@@ -1,5 +1,4 @@
-Fusarium atrovirens Berk. SPECIES
-=======
+# Fusarium atrovirens Berk. SPECIES
 
 #### Status
 ACCEPTED

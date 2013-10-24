@@ -1,5 +1,4 @@
-Inocybe pernivosa (Murrill) Singer SPECIES
-=======
+# Inocybe pernivosa (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

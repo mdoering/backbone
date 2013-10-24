@@ -1,5 +1,4 @@
-Clitocybe monstrosa (Sowerby) Cooke SPECIES
-=======
+# Clitocybe monstrosa (Sowerby) Cooke SPECIES
 
 #### Status
 ACCEPTED

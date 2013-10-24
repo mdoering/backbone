@@ -1,5 +1,4 @@
-Anzia gallowayi Elix SPECIES
-=======
+# Anzia gallowayi Elix SPECIES
 
 #### Status
 ACCEPTED

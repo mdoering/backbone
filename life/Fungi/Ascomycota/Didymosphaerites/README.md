@@ -1,5 +1,4 @@
-Didymosphaerites Fiore, 1932 GENUS
-=======
+# Didymosphaerites Fiore, 1932 GENUS
 
 #### Status
 ACCEPTED

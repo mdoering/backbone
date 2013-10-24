@@ -1,5 +1,4 @@
-Polystictus paecilis Cooke SPECIES
-=======
+# Polystictus paecilis Cooke SPECIES
 
 #### Status
 ACCEPTED

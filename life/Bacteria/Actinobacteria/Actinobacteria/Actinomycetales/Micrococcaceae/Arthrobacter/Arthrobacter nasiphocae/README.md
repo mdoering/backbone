@@ -1,5 +1,4 @@
-Arthrobacter nasiphocae Collins et al., 2002 SPECIES
-=======
+# Arthrobacter nasiphocae Collins et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

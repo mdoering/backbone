@@ -1,5 +1,4 @@
-Leptochaete gracilis (Hansgirg) Geitler SPECIES
-=======
+# Leptochaete gracilis (Hansgirg) Geitler SPECIES
 
 #### Status
 DOUBTFUL

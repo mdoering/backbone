@@ -1,5 +1,4 @@
-Licea eremophila D. Wrigley, Lado & Estrada, 2010 SPECIES
-=======
+# Licea eremophila D. Wrigley, Lado & Estrada, 2010 SPECIES
 
 #### Status
 ACCEPTED

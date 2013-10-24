@@ -1,5 +1,4 @@
-Anzia semiteres (Mont. & Bosch) Stizenb. SPECIES
-=======
+# Anzia semiteres (Mont. & Bosch) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

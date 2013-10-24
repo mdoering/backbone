@@ -1,5 +1,4 @@
-Lecanora poliocypha SPECIES
-=======
+# Lecanora poliocypha SPECIES
 
 #### Status
 ACCEPTED

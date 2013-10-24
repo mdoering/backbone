@@ -1,5 +1,4 @@
-Homoeothrix violacea (Bornet & Flahault) Komarek & Kann, 1973 SPECIES
-=======
+# Homoeothrix violacea (Bornet & Flahault) Komarek & Kann, 1973 SPECIES
 
 #### Status
 ACCEPTED

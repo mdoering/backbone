@@ -1,8 +1,7 @@
-Ithyphallus impudicus var. iosmos (Berk.) De Toni VARIETY
-=======
+# Phallus hadriani Vent., 1798 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Phallus iosmos Berk., 1836
+Phallus hadriani Vent., 1798
 
 ### Remarks
 null

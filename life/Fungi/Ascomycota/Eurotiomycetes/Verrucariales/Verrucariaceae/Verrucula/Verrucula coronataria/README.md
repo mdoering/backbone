@@ -1,5 +1,4 @@
-Verrucula coronataria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula coronataria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

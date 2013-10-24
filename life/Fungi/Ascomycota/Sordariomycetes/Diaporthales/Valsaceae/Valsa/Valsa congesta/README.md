@@ -1,5 +1,4 @@
-Valsa congesta Pat. SPECIES
-=======
+# Valsa congesta Pat. SPECIES
 
 #### Status
 ACCEPTED

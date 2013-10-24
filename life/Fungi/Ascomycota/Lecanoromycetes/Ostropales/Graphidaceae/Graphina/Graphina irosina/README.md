@@ -1,5 +1,4 @@
-Graphina irosina (Vain.) Zahlbr. SPECIES
-=======
+# Graphina irosina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

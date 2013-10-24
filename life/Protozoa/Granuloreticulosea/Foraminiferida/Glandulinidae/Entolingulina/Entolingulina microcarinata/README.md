@@ -1,5 +1,4 @@
-Entolingulina microcarinata McCulloch, 1977 SPECIES
-=======
+# Entolingulina microcarinata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

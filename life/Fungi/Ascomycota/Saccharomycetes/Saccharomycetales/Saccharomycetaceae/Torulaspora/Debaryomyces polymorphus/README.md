@@ -1,11 +1,10 @@
-Debaryomyces polymorphus var. polymorphus, 1979 VARIETY
-=======
+# Debaryomyces polymorphus (Klöcker) C.W. Price & Phaff, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Anabaena flosaquae subsp. flosaquae SUBSPECIES
-=======
+# Anabaena flosaquae (Lyngb.) Breb. SPECIES
 
 #### Status
 ACCEPTED

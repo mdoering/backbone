@@ -1,5 +1,4 @@
-Methanoculleus oldenburgensis Blotevogel et al., 1998 SPECIES
-=======
+# Methanoculleus oldenburgensis Blotevogel et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

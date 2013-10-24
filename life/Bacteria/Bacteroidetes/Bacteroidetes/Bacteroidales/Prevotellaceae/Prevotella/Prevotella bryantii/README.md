@@ -1,5 +1,4 @@
-Prevotella bryantii Avgustin et al., 1997 SPECIES
-=======
+# Prevotella bryantii Avgustin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylonites megaexinus Elsik SPECIES
-=======
+# Hypoxylonites megaexinus Elsik SPECIES
 
 #### Status
 ACCEPTED

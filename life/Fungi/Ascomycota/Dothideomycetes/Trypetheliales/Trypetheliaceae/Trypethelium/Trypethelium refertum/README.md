@@ -1,5 +1,4 @@
-Trypethelium refertum Stirt. SPECIES
-=======
+# Trypethelium refertum Stirt. SPECIES
 
 #### Status
 ACCEPTED

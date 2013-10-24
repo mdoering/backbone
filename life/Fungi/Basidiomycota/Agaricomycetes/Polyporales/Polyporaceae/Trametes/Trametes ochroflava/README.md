@@ -1,14 +1,13 @@
-Polyporus ochroflavus (Cooke) Berk. & Broome, 1883 SPECIES
-=======
+# Trametes ochroflava Cooke, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 9(no. 49): 12 (1880)
 
 #### Original name
 Trametes ochroflava Cooke, 1880

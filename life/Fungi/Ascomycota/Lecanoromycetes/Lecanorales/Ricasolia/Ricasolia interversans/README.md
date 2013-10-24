@@ -1,5 +1,4 @@
-Ricasolia interversans Nyl. SPECIES
-=======
+# Ricasolia interversans Nyl. SPECIES
 
 #### Status
 ACCEPTED

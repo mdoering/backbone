@@ -1,5 +1,4 @@
-Helotium cassandrae (Kanouse) Seaver SPECIES
-=======
+# Helotium cassandrae (Kanouse) Seaver SPECIES
 
 #### Status
 ACCEPTED

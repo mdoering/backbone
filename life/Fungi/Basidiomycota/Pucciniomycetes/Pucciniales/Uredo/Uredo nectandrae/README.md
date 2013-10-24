@@ -1,5 +1,4 @@
-Uredo nectandrae Viégas SPECIES
-=======
+# Uredo nectandrae Viégas SPECIES
 
 #### Status
 ACCEPTED

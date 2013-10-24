@@ -1,5 +1,4 @@
-Graphis pustulata Wallr. SPECIES
-=======
+# Graphis pustulata Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium epithele McAlpine SPECIES
-=======
+# Fusarium epithele McAlpine SPECIES
 
 #### Status
 ACCEPTED

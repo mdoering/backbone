@@ -1,5 +1,4 @@
-Periconia alba Preuss SPECIES
-=======
+# Periconia alba Preuss SPECIES
 
 #### Status
 ACCEPTED

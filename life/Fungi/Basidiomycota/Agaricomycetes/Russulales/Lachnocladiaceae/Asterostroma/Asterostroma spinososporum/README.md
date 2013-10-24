@@ -1,5 +1,4 @@
-Asterostroma spinososporum Boidin, Lanq. & Gilles SPECIES
-=======
+# Asterostroma spinososporum Boidin, Lanq. & Gilles SPECIES
 
 #### Status
 ACCEPTED

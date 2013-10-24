@@ -1,14 +1,13 @@
-Omphalia obbata (Fr.) Kühner & Romagn., 1953 SPECIES
-=======
+# Pseudoclitocybe obbata (Fr.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 129 (1953)
+Sydowia 15: 52 (1962)
 
 #### Original name
 Agaricus obbatus Fr., 1838

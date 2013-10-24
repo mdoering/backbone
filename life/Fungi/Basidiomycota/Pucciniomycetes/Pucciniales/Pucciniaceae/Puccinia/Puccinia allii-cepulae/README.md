@@ -1,5 +1,4 @@
-Puccinia allii-cepulae Mundk. & Thirum. SPECIES
-=======
+# Puccinia allii-cepulae Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

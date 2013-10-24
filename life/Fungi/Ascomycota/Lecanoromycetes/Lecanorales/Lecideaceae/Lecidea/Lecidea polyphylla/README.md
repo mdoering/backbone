@@ -1,5 +1,4 @@
-Lecidea polyphylla (L.) Spreng. SPECIES
-=======
+# Lecidea polyphylla (L.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

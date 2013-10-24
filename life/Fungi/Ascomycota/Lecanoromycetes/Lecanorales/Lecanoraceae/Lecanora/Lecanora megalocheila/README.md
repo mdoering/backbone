@@ -1,5 +1,4 @@
-Lecanora megalocheila (Hue) Miyaw. {?} SPECIES
-=======
+# Lecanora megalocheila (Hue) Miyaw. {?} SPECIES
 
 #### Status
 ACCEPTED

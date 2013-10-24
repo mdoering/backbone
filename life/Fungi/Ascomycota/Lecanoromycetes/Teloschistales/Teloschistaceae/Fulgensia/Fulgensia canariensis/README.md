@@ -1,5 +1,4 @@
-Fulgensia canariensis Follmann & Poelt SPECIES
-=======
+# Fulgensia canariensis Follmann & Poelt SPECIES
 
 #### Status
 ACCEPTED

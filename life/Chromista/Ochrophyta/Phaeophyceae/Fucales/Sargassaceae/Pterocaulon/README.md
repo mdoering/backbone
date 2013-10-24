@@ -1,5 +1,4 @@
-Pterocaulon Kützing, 1843 GENUS
-=======
+# Pterocaulon Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

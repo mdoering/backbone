@@ -1,5 +1,4 @@
-Coniothyrium tenue Bubák SPECIES
-=======
+# Coniothyrium tenue Bubák SPECIES
 
 #### Status
 ACCEPTED

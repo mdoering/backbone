@@ -1,5 +1,4 @@
-Pseudanabaena articulata Sjuka SPECIES
-=======
+# Pseudanabaena articulata Sjuka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita pelioma Bas SPECIES
-=======
+# Amanita pelioma Bas SPECIES
 
 #### Status
 ACCEPTED

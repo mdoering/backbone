@@ -1,5 +1,4 @@
-Lentinus goossensiae Beeli SPECIES
-=======
+# Lentinus goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

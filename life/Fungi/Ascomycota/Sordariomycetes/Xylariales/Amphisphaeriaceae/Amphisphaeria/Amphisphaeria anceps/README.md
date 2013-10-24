@@ -1,5 +1,4 @@
-Amphisphaeria anceps Sacc. & Briard SPECIES
-=======
+# Amphisphaeria anceps Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

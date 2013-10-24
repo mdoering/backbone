@@ -1,5 +1,4 @@
-Pteroidea rosella Sheshegova, 1975 SPECIES
-=======
+# Pteroidea rosella Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

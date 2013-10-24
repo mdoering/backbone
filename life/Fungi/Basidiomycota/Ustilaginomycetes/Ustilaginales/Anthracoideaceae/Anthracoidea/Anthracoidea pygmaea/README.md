@@ -1,5 +1,4 @@
-Anthracoidea pygmaea L. Guo SPECIES
-=======
+# Anthracoidea pygmaea L. Guo SPECIES
 
 #### Status
 ACCEPTED

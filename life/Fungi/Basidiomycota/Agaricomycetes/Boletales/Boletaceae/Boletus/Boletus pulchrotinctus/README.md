@@ -1,5 +1,4 @@
-Boletus pulchrotinctus Alessio SPECIES
-=======
+# Boletus pulchrotinctus Alessio SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria rhizophila Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria rhizophila Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

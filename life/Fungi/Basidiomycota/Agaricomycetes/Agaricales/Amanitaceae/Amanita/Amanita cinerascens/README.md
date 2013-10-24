@@ -1,5 +1,4 @@
-Amanita cinerascens A.E. Wood SPECIES
-=======
+# Amanita cinerascens A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

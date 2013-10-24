@@ -1,5 +1,4 @@
-Monilia altaica ukov SPECIES
-=======
+# Monilia altaica ukov SPECIES
 
 #### Status
 ACCEPTED

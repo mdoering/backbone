@@ -1,5 +1,4 @@
-Photobacterium angustum Reichelt et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Photobacterium angustum Reichelt et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

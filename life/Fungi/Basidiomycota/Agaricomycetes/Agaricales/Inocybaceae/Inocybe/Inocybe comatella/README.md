@@ -1,5 +1,4 @@
-Inocybe comatella (Peck) Sacc. SPECIES
-=======
+# Inocybe comatella (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

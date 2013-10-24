@@ -1,5 +1,4 @@
-Sphacelotheca arthaxonis Mishra SPECIES
-=======
+# Sphacelotheca arthaxonis Mishra SPECIES
 
 #### Status
 ACCEPTED

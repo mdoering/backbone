@@ -1,5 +1,4 @@
-Ramaria rosella R.H. Petersen, 1986 SPECIES
-=======
+# Ramaria rosella R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

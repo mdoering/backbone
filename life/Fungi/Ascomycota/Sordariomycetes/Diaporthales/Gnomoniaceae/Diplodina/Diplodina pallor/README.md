@@ -1,5 +1,4 @@
-Diplodina pallor (Berk.) Allesch. SPECIES
-=======
+# Diplodina pallor (Berk.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

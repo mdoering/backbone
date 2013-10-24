@@ -1,5 +1,4 @@
-Humicola repens De Bert. SPECIES
-=======
+# Humicola repens De Bert. SPECIES
 
 #### Status
 ACCEPTED

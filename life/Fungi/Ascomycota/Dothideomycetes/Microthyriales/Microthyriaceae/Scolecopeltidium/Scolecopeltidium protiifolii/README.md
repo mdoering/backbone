@@ -1,5 +1,4 @@
-Scolecopeltidium protiifolii Bat. & S.K. Shome SPECIES
-=======
+# Scolecopeltidium protiifolii Bat. & S.K. Shome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylofusa arabicae Cramer, 1971 SPECIES
-=======
+# Dactylofusa arabicae Cramer, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium effusum Corda SPECIES
-=======
+# Coniothyrium effusum Corda SPECIES
 
 #### Status
 ACCEPTED

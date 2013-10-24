@@ -1,5 +1,4 @@
-Baltisphaeridium urticans Stockmans & Willière, 1974 SPECIES
-=======
+# Baltisphaeridium urticans Stockmans & Willière, 1974 SPECIES
 
 #### Status
 ACCEPTED

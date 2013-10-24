@@ -1,5 +1,4 @@
-Hysterographium arctostaphyli Kauffman SPECIES
-=======
+# Hysterographium arctostaphyli Kauffman SPECIES
 
 #### Status
 ACCEPTED

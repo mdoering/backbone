@@ -1,5 +1,4 @@
-Kingella kingae (Henriksen and Bøvre, 1968) Henriksen and Bøvre, 1976 (Approved Lists, 1980) SPECIES
-=======
+# Kingella kingae (Henriksen and Bøvre, 1968) Henriksen and Bøvre, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bakuella edaphoni Song, Wilbert & Berger, 1992 SPECIES
-=======
+# Bakuella edaphoni Song, Wilbert & Berger, 1992 SPECIES
 
 #### Status
 ACCEPTED

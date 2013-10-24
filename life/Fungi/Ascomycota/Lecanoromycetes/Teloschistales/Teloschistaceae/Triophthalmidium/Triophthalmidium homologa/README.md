@@ -1,5 +1,4 @@
-Triophthalmidium homologa (Nyl.) Gyeln. SPECIES
-=======
+# Triophthalmidium homologa (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerolinaeceea FAMILY
-=======
+# Anaerolinaeceea FAMILY
 
 #### Status
 ACCEPTED

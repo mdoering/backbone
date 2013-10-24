@@ -1,5 +1,4 @@
-Usnea nutans C.W. Dodge SPECIES
-=======
+# Usnea nutans C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

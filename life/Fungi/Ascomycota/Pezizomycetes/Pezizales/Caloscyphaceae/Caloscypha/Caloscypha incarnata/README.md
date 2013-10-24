@@ -1,5 +1,4 @@
-Caloscypha incarnata Duvernoy & Maire SPECIES
-=======
+# Caloscypha incarnata Duvernoy & Maire SPECIES
 
 #### Status
 ACCEPTED

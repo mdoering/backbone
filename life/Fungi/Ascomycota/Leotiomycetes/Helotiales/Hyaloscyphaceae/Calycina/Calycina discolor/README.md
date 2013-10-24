@@ -1,5 +1,4 @@
-Calycina discolor (Hedw.) Kuntze SPECIES
-=======
+# Calycina discolor (Hedw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

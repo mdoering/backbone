@@ -1,5 +1,4 @@
-Leptonia transformata Peck SPECIES
-=======
+# Leptonia transformata Peck SPECIES
 
 #### Status
 ACCEPTED

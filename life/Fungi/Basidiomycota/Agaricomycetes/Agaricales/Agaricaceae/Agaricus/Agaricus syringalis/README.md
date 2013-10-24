@@ -1,5 +1,4 @@
-Agaricus syringalis Pers. SPECIES
-=======
+# Agaricus syringalis Pers. SPECIES
 
 #### Status
 ACCEPTED

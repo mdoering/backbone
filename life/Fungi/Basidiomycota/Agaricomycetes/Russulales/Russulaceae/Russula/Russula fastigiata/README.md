@@ -1,5 +1,4 @@
-Russula fastigiata Fatto SPECIES
-=======
+# Russula fastigiata Fatto SPECIES
 
 #### Status
 ACCEPTED

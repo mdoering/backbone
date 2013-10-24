@@ -1,5 +1,4 @@
-Sirothecium minimum Kräusel SPECIES
-=======
+# Sirothecium minimum Kräusel SPECIES
 
 #### Status
 ACCEPTED

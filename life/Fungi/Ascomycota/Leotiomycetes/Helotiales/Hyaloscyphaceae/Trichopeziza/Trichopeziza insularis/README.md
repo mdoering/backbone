@@ -1,5 +1,4 @@
-Trichopeziza insularis (Speg.) Sacc. SPECIES
-=======
+# Trichopeziza insularis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

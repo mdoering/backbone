@@ -1,5 +1,4 @@
-Armillaria rufa Quél. SPECIES
-=======
+# Armillaria rufa Quél. SPECIES
 
 #### Status
 ACCEPTED

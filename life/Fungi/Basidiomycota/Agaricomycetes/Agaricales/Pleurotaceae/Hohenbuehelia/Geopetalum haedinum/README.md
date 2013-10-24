@@ -1,5 +1,4 @@
-Geopetalum haedinum (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Geopetalum haedinum (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

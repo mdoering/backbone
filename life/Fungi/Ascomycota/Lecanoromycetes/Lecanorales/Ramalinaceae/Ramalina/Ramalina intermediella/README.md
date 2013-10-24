@@ -1,5 +1,4 @@
-Ramalina intermediella Vain. SPECIES
-=======
+# Ramalina intermediella Vain. SPECIES
 
 #### Status
 ACCEPTED

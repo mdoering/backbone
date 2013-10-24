@@ -1,5 +1,4 @@
-Septocylindrium olivascens Thüm. SPECIES
-=======
+# Septocylindrium olivascens Thüm. SPECIES
 
 #### Status
 ACCEPTED

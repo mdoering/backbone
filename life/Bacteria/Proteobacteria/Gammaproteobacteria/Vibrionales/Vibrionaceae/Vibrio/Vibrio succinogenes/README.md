@@ -1,5 +1,4 @@
-Vibrio succinogenes Wolin et al., 1961 SPECIES
-=======
+# Vibrio succinogenes Wolin et al., 1961 SPECIES
 
 #### Status
 ACCEPTED

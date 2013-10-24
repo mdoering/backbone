@@ -1,5 +1,4 @@
-Cortinarius parafraudulosus var. parafraudulosus VARIETY
-=======
+# Cortinarius parafraudulosus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 105(1): 96 (1989)
 
 #### Original name
-Cortinarius parafraudulosus var. parafraudulosus
+Cortinarius parafraudulosus Rob. Henry
 
 ### Remarks
 null

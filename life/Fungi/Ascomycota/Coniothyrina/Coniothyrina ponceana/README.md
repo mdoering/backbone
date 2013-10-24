@@ -1,5 +1,4 @@
-Coniothyrina ponceana Toro SPECIES
-=======
+# Coniothyrina ponceana Toro SPECIES
 
 #### Status
 ACCEPTED

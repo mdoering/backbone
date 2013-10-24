@@ -1,5 +1,4 @@
-Icosaspis Haeckel, 1881 GENUS
-=======
+# Icosaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

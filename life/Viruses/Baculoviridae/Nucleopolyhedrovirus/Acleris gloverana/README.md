@@ -1,5 +1,4 @@
-Acleris gloverana Npv SPECIES
-=======
+# Acleris gloverana Npv SPECIES
 
 #### Status
 ACCEPTED

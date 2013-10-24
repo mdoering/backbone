@@ -1,5 +1,4 @@
-Entomophthora dissolvens Vosseler SPECIES
-=======
+# Entomophthora dissolvens Vosseler SPECIES
 
 #### Status
 ACCEPTED

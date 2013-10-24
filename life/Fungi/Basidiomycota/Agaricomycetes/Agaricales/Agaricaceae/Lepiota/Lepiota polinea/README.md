@@ -1,5 +1,4 @@
-Lepiota polinea Kucera SPECIES
-=======
+# Lepiota polinea Kucera SPECIES
 
 #### Status
 ACCEPTED

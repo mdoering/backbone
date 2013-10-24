@@ -1,5 +1,4 @@
-Orbilia calamaria (Ces.) Sacc. SPECIES
-=======
+# Orbilia calamaria (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

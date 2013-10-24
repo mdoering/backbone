@@ -1,5 +1,4 @@
-Chaetocypha albissima (Pat. & Doass.) Kuntze SPECIES
-=======
+# Chaetocypha albissima (Pat. & Doass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

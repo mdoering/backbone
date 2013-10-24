@@ -1,17 +1,16 @@
-Meliola erythropalii Hosag. SPECIES
-=======
+# Meliola erythropali Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar & Goos, Mycotaxon 37: 232 (1990)
 
 #### Original name
-Meliola erythropalii Hosag.
+Meliola erythropali Hosag.
 
 ### Remarks
 null

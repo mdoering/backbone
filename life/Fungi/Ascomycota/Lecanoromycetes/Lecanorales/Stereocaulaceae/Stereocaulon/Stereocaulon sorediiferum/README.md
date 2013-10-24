@@ -1,5 +1,4 @@
-Stereocaulon sorediiferum var. sorediiferum VARIETY
-=======
+# Stereocaulon sorediiferum Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon sorediiferum var. sorediiferum
+Stereocaulon sorediiferum Hue
 
 ### Remarks
 null

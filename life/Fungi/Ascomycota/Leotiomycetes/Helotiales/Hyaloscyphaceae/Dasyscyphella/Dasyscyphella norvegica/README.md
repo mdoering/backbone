@@ -1,5 +1,4 @@
-Dasyscyphella norvegica Raitv. SPECIES
-=======
+# Dasyscyphella norvegica Raitv. SPECIES
 
 #### Status
 ACCEPTED

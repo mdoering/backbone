@@ -1,5 +1,4 @@
-Elphidium maioricensis Colom, 1942 SPECIES
-=======
+# Elphidium maioricensis Colom, 1942 SPECIES
 
 #### Status
 ACCEPTED

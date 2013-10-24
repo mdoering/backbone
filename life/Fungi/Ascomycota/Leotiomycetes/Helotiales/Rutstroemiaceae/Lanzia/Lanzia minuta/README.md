@@ -1,5 +1,4 @@
-Lanzia minuta Raitv., K.S. Thind & R. Sharma SPECIES
-=======
+# Lanzia minuta Raitv., K.S. Thind & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

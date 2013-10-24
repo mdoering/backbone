@@ -1,5 +1,4 @@
-Clavaria nigricans Lloyd SPECIES
-=======
+# Clavaria nigricans Lloyd SPECIES
 
 #### Status
 ACCEPTED

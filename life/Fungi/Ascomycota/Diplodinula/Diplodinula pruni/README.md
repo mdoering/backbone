@@ -1,5 +1,4 @@
-Diplodinula pruni (Ellis & Barthol.) Tassi SPECIES
-=======
+# Diplodinula pruni (Ellis & Barthol.) Tassi SPECIES
 
 #### Status
 ACCEPTED

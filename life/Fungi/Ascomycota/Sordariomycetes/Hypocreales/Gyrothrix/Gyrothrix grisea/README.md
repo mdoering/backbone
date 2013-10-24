@@ -1,5 +1,4 @@
-Gyrothrix grisea Piroz. SPECIES
-=======
+# Gyrothrix grisea Piroz. SPECIES
 
 #### Status
 ACCEPTED

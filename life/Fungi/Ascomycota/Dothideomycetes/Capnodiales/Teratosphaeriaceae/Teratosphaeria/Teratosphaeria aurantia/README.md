@@ -1,5 +1,4 @@
-Teratosphaeria aurantia Whyte & Andjic, 2010 SPECIES
-=======
+# Teratosphaeria aurantia Whyte & Andjic, 2010 SPECIES
 
 #### Status
 ACCEPTED

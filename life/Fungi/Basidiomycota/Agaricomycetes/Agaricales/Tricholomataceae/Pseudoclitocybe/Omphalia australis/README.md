@@ -1,5 +1,4 @@
-Omphalia australis (Murrill) Murrill SPECIES
-=======
+# Omphalia australis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria oleipara Sollm. SPECIES
-=======
+# Sphaeria oleipara Sollm. SPECIES
 
 #### Status
 ACCEPTED

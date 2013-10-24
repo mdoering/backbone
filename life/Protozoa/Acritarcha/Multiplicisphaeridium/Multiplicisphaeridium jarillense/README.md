@@ -1,5 +1,4 @@
-Multiplicisphaeridium jarillense Pöthé de Baldis, 1997 SPECIES
-=======
+# Multiplicisphaeridium jarillense Pöthé de Baldis, 1997 SPECIES
 
 #### Status
 ACCEPTED

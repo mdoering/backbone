@@ -1,5 +1,4 @@
-Amphitetras lanceolata (Pantocsek) De Toni SPECIES
-=======
+# Amphitetras lanceolata (Pantocsek) De Toni SPECIES
 
 #### Status
 ACCEPTED

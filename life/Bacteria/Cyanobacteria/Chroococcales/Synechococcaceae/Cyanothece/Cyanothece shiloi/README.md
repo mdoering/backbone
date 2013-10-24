@@ -1,8 +1,7 @@
-Aphanothece shiloi Campbell & Golubic SPECIES
-=======
+# Cyanothece shiloi (Campbell & Golubic) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

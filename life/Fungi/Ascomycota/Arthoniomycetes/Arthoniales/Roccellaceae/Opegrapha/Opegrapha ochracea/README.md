@@ -1,5 +1,4 @@
-Opegrapha ochracea (Dufour) Hepp SPECIES
-=======
+# Opegrapha ochracea (Dufour) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium congoense L.M. Ames SPECIES
-=======
+# Chaetomium congoense L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

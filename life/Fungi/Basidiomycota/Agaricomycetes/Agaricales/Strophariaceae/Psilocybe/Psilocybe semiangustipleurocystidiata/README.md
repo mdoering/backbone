@@ -1,5 +1,4 @@
-Psilocybe semiangustipleurocystidiata Guzmán, Ram.-Guill. & M. Torres SPECIES
-=======
+# Psilocybe semiangustipleurocystidiata Guzmán, Ram.-Guill. & M. Torres SPECIES
 
 #### Status
 ACCEPTED

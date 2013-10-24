@@ -1,5 +1,4 @@
-Cladonia berghsonii Asperges SPECIES
-=======
+# Cladonia berghsonii Asperges SPECIES
 
 #### Status
 ACCEPTED

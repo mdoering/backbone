@@ -1,5 +1,4 @@
-Urceolaria acharii (Ach.) Ach. SPECIES
-=======
+# Urceolaria acharii (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

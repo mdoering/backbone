@@ -1,5 +1,4 @@
-Haplocaulus fusca (Biernacka, 1963) Warren, 1986 SPECIES
-=======
+# Haplocaulus fusca (Biernacka, 1963) Warren, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella audibertiae Rehm SPECIES
-=======
+# Sphaerella audibertiae Rehm SPECIES
 
 #### Status
 ACCEPTED

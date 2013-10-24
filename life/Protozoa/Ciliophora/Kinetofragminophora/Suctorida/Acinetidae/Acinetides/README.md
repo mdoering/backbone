@@ -1,5 +1,4 @@
-Acinetides Swarczewsky, 1928 GENUS
-=======
+# Acinetides Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

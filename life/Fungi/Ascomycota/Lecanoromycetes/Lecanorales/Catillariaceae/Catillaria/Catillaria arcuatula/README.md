@@ -1,5 +1,4 @@
-Catillaria arcuatula H. Magn. SPECIES
-=======
+# Catillaria arcuatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

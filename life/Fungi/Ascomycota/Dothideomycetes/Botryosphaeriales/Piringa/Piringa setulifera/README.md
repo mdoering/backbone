@@ -1,5 +1,4 @@
-Piringa setulifera Speg. SPECIES
-=======
+# Piringa setulifera Speg. SPECIES
 
 #### Status
 ACCEPTED

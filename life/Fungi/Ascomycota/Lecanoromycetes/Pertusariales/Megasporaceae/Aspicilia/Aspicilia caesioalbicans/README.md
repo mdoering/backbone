@@ -1,5 +1,4 @@
-Aspicilia caesioalbicans (Zahlbr.) SPECIES
-=======
+# Aspicilia caesioalbicans (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

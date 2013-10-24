@@ -1,5 +1,4 @@
-Bulimina gibba Fornasini, 1902 SPECIES
-=======
+# Bulimina gibba Fornasini, 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia sphaerelloides Ellis & Langl. SPECIES
-=======
+# Pestalotia sphaerelloides Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

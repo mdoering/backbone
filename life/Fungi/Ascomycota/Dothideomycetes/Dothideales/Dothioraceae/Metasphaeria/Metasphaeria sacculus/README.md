@@ -1,5 +1,4 @@
-Metasphaeria sacculus (Pass. & Beltr.) Sacc. SPECIES
-=======
+# Metasphaeria sacculus (Pass. & Beltr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

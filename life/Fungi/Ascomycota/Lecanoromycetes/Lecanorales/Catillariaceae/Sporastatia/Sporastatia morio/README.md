@@ -1,5 +1,4 @@
-Sporastatia morio subsp. morio SUBSPECIES
-=======
+# Sporastatia morio (Duby) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporastatia morio subsp. morio
+Lichen morio Duby
 
 ### Remarks
 null

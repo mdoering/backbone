@@ -1,5 +1,4 @@
-Sclerotium atrovirens J.C. Schmidt SPECIES
-=======
+# Sclerotium atrovirens J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella nerii (S. Ahmad & Mundk.) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
-=======
+# Aplosporella nerii (S. Ahmad & Mundk.) D.K. Agarwal, Chowdhry & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

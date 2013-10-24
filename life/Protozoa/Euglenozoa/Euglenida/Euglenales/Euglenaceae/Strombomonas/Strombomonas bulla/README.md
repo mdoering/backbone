@@ -1,5 +1,4 @@
-Strombomonas bulla var. cordiformis G. Tell & V. Conforti VARIETY
-=======
+# Strombomonas bulla SPECIES
 
 #### Status
 ACCEPTED

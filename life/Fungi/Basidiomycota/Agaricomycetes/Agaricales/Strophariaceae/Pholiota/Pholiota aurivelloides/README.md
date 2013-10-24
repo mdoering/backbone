@@ -1,5 +1,4 @@
-Pholiota aurivelloides Overh. SPECIES
-=======
+# Pholiota aurivelloides Overh. SPECIES
 
 #### Status
 ACCEPTED

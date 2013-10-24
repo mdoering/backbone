@@ -1,17 +1,16 @@
-Lachnella resinaria Cooke & W. Phillips, 1887 SPECIES
-=======
+# Lachnellula resinaria (Cooke & W. Phillips) Rehm, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 242 (1887)
+Ascomycetes no. 864 (1893)
 
 #### Original name
-Lachnella resinaria Cooke & W. Phillips, 1887
+null
 
 ### Remarks
 null

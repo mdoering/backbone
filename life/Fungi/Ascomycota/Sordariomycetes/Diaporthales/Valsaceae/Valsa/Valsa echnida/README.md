@@ -1,5 +1,4 @@
-Valsa echnida SPECIES
-=======
+# Valsa echnida SPECIES
 
 #### Status
 ACCEPTED

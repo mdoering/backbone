@@ -1,5 +1,4 @@
-Sporisorium kusanoi (Syd. & P. Syd.) Vánky SPECIES
-=======
+# Sporisorium kusanoi (Syd. & P. Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

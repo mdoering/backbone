@@ -1,17 +1,16 @@
-Haasiella venustissima var. splendidissima (Kotl. & Pouzar) P. Roux, 2008 VARIETY
-=======
+# Haasiella splendidissima Kotl. & Pouzar, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 20: 136 (1966)
 
 #### Original name
-null
+Haasiella splendidissima Kotl. & Pouzar, 1966
 
 ### Remarks
 null

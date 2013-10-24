@@ -1,5 +1,4 @@
-Parmentaria nana (Zahlbr.) R.C. Harris SPECIES
-=======
+# Parmentaria nana (Zahlbr.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

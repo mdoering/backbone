@@ -1,5 +1,4 @@
-Monoporisporites abruptus Sheffy & Dilcher SPECIES
-=======
+# Monoporisporites abruptus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

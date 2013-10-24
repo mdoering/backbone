@@ -1,5 +1,4 @@
-Astasia ovalis Huber-Pestalozzi SPECIES
-=======
+# Astasia ovalis Huber-Pestalozzi SPECIES
 
 #### Status
 ACCEPTED

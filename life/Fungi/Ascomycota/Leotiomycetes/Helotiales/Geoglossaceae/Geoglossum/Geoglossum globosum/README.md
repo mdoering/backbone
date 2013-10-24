@@ -1,5 +1,4 @@
-Geoglossum globosum (Sommerf.) Fr. SPECIES
-=======
+# Geoglossum globosum (Sommerf.) Fr. SPECIES
 
 #### Status
 ACCEPTED

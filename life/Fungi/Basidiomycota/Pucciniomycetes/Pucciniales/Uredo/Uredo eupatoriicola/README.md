@@ -1,5 +1,4 @@
-Uredo eupatoriicola Henn. SPECIES
-=======
+# Uredo eupatoriicola Henn. SPECIES
 
 #### Status
 ACCEPTED

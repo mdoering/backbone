@@ -1,17 +1,16 @@
-Eucoccidium Grell, 1953 GENUS
-=======
+# Grellia Levine, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Naturwissenschaften, 40, 227.
+J. Protozool. 20: 549.
 
 #### Original name
-null
+Eucoccidium Grell, 1953
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeria hirtella Fr. SPECIES
-=======
+# Sphaeria hirtella Fr. SPECIES
 
 #### Status
 ACCEPTED

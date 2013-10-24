@@ -1,5 +1,4 @@
-Neopeckia hainanensis Teng SPECIES
-=======
+# Neopeckia hainanensis Teng SPECIES
 
 #### Status
 ACCEPTED

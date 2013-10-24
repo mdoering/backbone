@@ -1,5 +1,4 @@
-Mosigia leprothelia (Nyl.) Motyka SPECIES
-=======
+# Mosigia leprothelia (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

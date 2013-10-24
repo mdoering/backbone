@@ -1,5 +1,4 @@
-Graphis exilis Fée SPECIES
-=======
+# Graphis exilis Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Agaricus obolus Fr., 1821 SPECIES
-=======
+# Omphaliaster obolus (Fr.) Urbonas, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 89 (1821)
+in Urbonas, Kalamees & Lukin, Conspectus florum agaricalium fungorum (Agaricales s. l. ) Lithuaniae, Latviae et Estoniae (materies 1778-1984 annorum) (Vilnius) 15 (1986)
 
 #### Original name
 Agaricus obolus Fr., 1821

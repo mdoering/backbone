@@ -1,17 +1,16 @@
-Drupasia Raf. GENUS
-=======
+# Druparia Rafinesque, 1808 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-null
+Med. Repos. , ser. 2 5: 358 (1808)
 
 #### Original name
-Drupasia Raf.
+Druparia Rafinesque, 1808
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Sclerotinia duriaeana f. duriaeana FORM
-=======
+# Myriosclerotinia duriaeana (Tul. & C. Tul.) N.F. Buchw., 1947 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Friesia 3: 299 (1947)
 
 #### Original name
-Sclerotinia duriaeana f. duriaeana
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Platyophrya citrina Foissner, 1980 SPECIES
-=======
+# Platyophrya citrina Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

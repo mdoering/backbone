@@ -1,5 +1,4 @@
-Stellinium tetrahedroide (Cramer, 1964) Eisenack et al., 1976 SPECIES
-=======
+# Stellinium tetrahedroide (Cramer, 1964) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

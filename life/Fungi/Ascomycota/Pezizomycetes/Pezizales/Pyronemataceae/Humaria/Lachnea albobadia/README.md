@@ -1,5 +1,4 @@
-Lachnea albobadia (Saut.) Rehm SPECIES
-=======
+# Lachnea albobadia (Saut.) Rehm SPECIES
 
 #### Status
 ACCEPTED

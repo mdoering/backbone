@@ -1,5 +1,4 @@
-Cercospora labiatacearum P. Kumar & Kamal SPECIES
-=======
+# Cercospora labiatacearum P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

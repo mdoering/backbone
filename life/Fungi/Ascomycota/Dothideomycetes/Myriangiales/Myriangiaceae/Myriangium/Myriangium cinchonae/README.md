@@ -1,5 +1,4 @@
-Myriangium cinchonae Rehm SPECIES
-=======
+# Myriangium cinchonae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotiella nuttallii Ellis & Everh. SPECIES
-=======
+# Helotiella nuttallii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

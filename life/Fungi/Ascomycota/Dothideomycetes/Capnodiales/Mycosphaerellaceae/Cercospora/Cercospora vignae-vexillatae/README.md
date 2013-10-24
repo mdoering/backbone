@@ -1,5 +1,4 @@
-Cercospora vignae-vexillatae R.E.D. Baker & W.T. Dale SPECIES
-=======
+# Cercospora vignae-vexillatae R.E.D. Baker & W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

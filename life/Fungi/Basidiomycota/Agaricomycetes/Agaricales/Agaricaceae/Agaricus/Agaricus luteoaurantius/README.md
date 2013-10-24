@@ -1,5 +1,4 @@
-Agaricus luteoaurantius Kalchbr. SPECIES
-=======
+# Agaricus luteoaurantius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

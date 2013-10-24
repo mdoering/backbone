@@ -1,5 +1,4 @@
-Micropsalliota pholiotinoides Heinem. SPECIES
-=======
+# Micropsalliota pholiotinoides Heinem. SPECIES
 
 #### Status
 ACCEPTED

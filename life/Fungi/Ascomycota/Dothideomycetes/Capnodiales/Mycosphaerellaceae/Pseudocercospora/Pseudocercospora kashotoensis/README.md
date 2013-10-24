@@ -1,5 +1,4 @@
-Pseudocercospora kashotoensis (W. Yamam.) Deighton SPECIES
-=======
+# Pseudocercospora kashotoensis (W. Yamam.) Deighton SPECIES
 
 #### Status
 ACCEPTED

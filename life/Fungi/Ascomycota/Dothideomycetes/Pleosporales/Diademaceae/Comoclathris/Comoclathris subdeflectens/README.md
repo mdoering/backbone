@@ -1,5 +1,4 @@
-Comoclathris subdeflectens Nograsek SPECIES
-=======
+# Comoclathris subdeflectens Nograsek SPECIES
 
 #### Status
 ACCEPTED

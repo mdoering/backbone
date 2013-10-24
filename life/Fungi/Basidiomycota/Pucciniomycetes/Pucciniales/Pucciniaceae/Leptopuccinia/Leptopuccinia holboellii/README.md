@@ -1,8 +1,7 @@
-Leptopuccinia holboelli (Hornem.) Syd. & P. Syd. SPECIES
-=======
+# Leptopuccinia holboellii (Hornem.) Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

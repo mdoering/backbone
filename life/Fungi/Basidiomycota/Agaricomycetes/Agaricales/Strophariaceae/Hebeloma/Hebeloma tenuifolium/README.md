@@ -1,5 +1,4 @@
-Hebeloma tenuifolium Romagn. SPECIES
-=======
+# Hebeloma tenuifolium Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora malmeana f. malmeana FORM
-=======
+# Lecanora malmeana H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora malmeana f. malmeana
+Lecanora malmeana H. Magn.
 
 ### Remarks
 null

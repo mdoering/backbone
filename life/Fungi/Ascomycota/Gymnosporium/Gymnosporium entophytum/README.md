@@ -1,5 +1,4 @@
-Gymnosporium entophytum Corda SPECIES
-=======
+# Gymnosporium entophytum Corda SPECIES
 
 #### Status
 ACCEPTED

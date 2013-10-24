@@ -1,5 +1,4 @@
-Coniothyrium betulae Laubert SPECIES
-=======
+# Coniothyrium betulae Laubert SPECIES
 
 #### Status
 ACCEPTED

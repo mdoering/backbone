@@ -1,5 +1,4 @@
-Hyaloscypha microcarpa (Fuckel) Boud. SPECIES
-=======
+# Hyaloscypha microcarpa (Fuckel) Boud. SPECIES
 
 #### Status
 ACCEPTED

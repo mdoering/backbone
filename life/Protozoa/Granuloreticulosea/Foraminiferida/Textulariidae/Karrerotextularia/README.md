@@ -1,5 +1,4 @@
-Karrerotextularia Le Calvez, de Klasz & Brun, 1974 GENUS
-=======
+# Karrerotextularia Le Calvez, de Klasz & Brun, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea flavorubens Werner SPECIES
-=======
+# Lecidea flavorubens Werner SPECIES
 
 #### Status
 ACCEPTED

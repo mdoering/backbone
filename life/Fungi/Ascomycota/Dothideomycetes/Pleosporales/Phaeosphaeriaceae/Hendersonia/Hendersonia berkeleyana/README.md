@@ -1,5 +1,4 @@
-Hendersonia berkeleyana Lév. SPECIES
-=======
+# Hendersonia berkeleyana Lév. SPECIES
 
 #### Status
 ACCEPTED

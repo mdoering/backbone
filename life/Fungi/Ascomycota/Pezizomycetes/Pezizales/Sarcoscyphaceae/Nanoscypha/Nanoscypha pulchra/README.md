@@ -1,5 +1,4 @@
-Nanoscypha pulchra Denison, 1972 SPECIES
-=======
+# Nanoscypha pulchra Denison, 1972 SPECIES
 
 #### Status
 ACCEPTED

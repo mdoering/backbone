@@ -1,5 +1,4 @@
-Tapesia clinopodii Velen. SPECIES
-=======
+# Tapesia clinopodii Velen. SPECIES
 
 #### Status
 ACCEPTED

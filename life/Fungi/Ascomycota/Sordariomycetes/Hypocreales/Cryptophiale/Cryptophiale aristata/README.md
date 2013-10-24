@@ -1,5 +1,4 @@
-Cryptophiale aristata Kuthub. & B. Sutton SPECIES
-=======
+# Cryptophiale aristata Kuthub. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

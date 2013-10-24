@@ -1,5 +1,4 @@
-Setodiscophrya Jankowski, 1981 GENUS
-=======
+# Setodiscophrya Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

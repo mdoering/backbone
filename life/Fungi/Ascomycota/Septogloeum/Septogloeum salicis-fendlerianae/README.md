@@ -1,5 +1,4 @@
-Septogloeum salicis-fendlerianae Dearn. & Barthol. SPECIES
-=======
+# Septogloeum salicis-fendlerianae Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

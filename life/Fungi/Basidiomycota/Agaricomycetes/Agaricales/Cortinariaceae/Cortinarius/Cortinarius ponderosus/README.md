@@ -1,5 +1,4 @@
-Cortinarius ponderosus A.H. Sm. SPECIES
-=======
+# Cortinarius ponderosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

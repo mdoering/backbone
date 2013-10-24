@@ -1,5 +1,4 @@
-Discina disticha Starbäck SPECIES
-=======
+# Discina disticha Starbäck SPECIES
 
 #### Status
 ACCEPTED

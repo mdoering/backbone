@@ -1,17 +1,16 @@
-Trichobasis heraclei Lév., 1860 SPECIES
-=======
+# Puccinia heraclei Grev., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Outl. Brit. Fung. (London) 332 (1860)
+Scott. crypt. fl. (Edinburgh) 1: pl. 42 (1823)
 
 #### Original name
-Trichobasis heraclei Lév., 1860
+Puccinia heraclei Grev., 1823
 
 ### Remarks
 null

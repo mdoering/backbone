@@ -1,5 +1,4 @@
-Hypoxylon rhypodes Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon rhypodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

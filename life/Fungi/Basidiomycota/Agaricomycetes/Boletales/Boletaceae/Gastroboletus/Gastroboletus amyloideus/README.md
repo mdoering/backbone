@@ -1,5 +1,4 @@
-Gastroboletus amyloideus Thiers, 1969 SPECIES
-=======
+# Gastroboletus amyloideus Thiers, 1969 SPECIES
 
 #### Status
 ACCEPTED

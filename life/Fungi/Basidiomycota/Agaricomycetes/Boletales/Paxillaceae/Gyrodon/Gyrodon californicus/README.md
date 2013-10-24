@@ -1,5 +1,4 @@
-Gyrodon californicus (Murrill) Snell SPECIES
-=======
+# Gyrodon californicus (Murrill) Snell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerospora tuberculata K.S. Thind, E.K. Cash & Sethi {?} SPECIES
-=======
+# Sphaerospora tuberculata K.S. Thind, E.K. Cash & Sethi {?} SPECIES
 
 #### Status
 ACCEPTED

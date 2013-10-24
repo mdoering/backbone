@@ -1,5 +1,4 @@
-Hypotrachyna minuscula C. H. Ribeiro & Marcelli SPECIES
-=======
+# Hypotrachyna minuscula C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

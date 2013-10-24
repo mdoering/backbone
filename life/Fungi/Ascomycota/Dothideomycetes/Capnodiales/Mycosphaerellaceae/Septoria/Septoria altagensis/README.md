@@ -1,5 +1,4 @@
-Septoria altagensis Murashk. SPECIES
-=======
+# Septoria altagensis Murashk. SPECIES
 
 #### Status
 ACCEPTED

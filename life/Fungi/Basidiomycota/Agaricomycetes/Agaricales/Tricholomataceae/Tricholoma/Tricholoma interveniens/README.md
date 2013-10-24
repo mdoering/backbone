@@ -1,5 +1,4 @@
-Tricholoma interveniens P. Karst. SPECIES
-=======
+# Tricholoma interveniens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus tahitensis Schltdl. SPECIES
-=======
+# Phallus tahitensis Schltdl. SPECIES
 
 #### Status
 ACCEPTED

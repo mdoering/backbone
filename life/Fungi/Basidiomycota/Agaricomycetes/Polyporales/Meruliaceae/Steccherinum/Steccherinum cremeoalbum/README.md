@@ -1,5 +1,4 @@
-Steccherinum cremeoalbum Hjortstam, 1984 SPECIES
-=======
+# Steccherinum cremeoalbum Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium circulidentatum W.J. Koch SPECIES
-=======
+# Phlyctochytrium circulidentatum W.J. Koch SPECIES
 
 #### Status
 ACCEPTED

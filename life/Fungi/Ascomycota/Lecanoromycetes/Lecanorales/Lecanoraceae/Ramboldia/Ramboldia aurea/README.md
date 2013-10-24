@@ -1,14 +1,13 @@
-Pyrrhospora aurea Kalb & Elix SPECIES
-=======
+# Ramboldia aurea (Kalb & Elix) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 86(1-2): 31 (2008)
 
 #### Original name
 Pyrrhospora aurea Kalb & Elix

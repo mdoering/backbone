@@ -1,5 +1,4 @@
-Cercosporidium cassiae (Henn.) Deighton SPECIES
-=======
+# Cercosporidium cassiae (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

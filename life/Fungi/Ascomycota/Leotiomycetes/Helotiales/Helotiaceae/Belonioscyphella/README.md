@@ -1,5 +1,4 @@
-Belonioscyphella Höhn. GENUS
-=======
+# Belonioscyphella Höhn. GENUS
 
 #### Status
 ACCEPTED

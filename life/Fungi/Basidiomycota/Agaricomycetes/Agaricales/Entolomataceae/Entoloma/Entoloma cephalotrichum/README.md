@@ -1,14 +1,13 @@
-Leptonia cephalotricha P.D. Orton, 1960 SPECIES
-=======
+# Entoloma cephalotrichum (P.D. Orton) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 291 (1960)
+Persoonia 10(2): 260 (1979)
 
 #### Original name
 Leptonia cephalotricha P.D. Orton, 1960

@@ -1,5 +1,4 @@
-Melanotheca indica Nyl. SPECIES
-=======
+# Melanotheca indica Nyl. SPECIES
 
 #### Status
 ACCEPTED

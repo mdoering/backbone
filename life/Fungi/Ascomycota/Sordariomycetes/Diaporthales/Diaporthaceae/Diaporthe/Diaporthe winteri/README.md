@@ -1,5 +1,4 @@
-Diaporthe winteri Speg. SPECIES
-=======
+# Diaporthe winteri Speg. SPECIES
 
 #### Status
 ACCEPTED

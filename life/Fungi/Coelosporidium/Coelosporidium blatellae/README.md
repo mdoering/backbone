@@ -1,5 +1,4 @@
-Coelosporidium blatellae Crawley {?} SPECIES
-=======
+# Coelosporidium blatellae Crawley {?} SPECIES
 
 #### Status
 ACCEPTED

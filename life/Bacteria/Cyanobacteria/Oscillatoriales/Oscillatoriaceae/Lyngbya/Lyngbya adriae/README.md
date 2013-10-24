@@ -1,5 +1,4 @@
-Lyngbya adriae Ercegovic, 1957 SPECIES
-=======
+# Lyngbya adriae Ercegovic, 1957 SPECIES
 
 #### Status
 ACCEPTED

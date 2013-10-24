@@ -1,5 +1,4 @@
-Anthostoma mortuosum (Ellis) Sacc. SPECIES
-=======
+# Anthostoma mortuosum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

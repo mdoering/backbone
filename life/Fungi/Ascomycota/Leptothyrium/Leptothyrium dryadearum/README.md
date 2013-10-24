@@ -1,5 +1,4 @@
-Leptothyrium dryadearum Desm. SPECIES
-=======
+# Leptothyrium dryadearum Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus contortus Fr. SPECIES
-=======
+# Lentinus contortus Fr. SPECIES
 
 #### Status
 ACCEPTED

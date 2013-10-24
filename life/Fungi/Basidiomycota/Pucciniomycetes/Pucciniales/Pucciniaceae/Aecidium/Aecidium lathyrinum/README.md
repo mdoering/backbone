@@ -1,5 +1,4 @@
-Aecidium lathyrinum Speg. SPECIES
-=======
+# Aecidium lathyrinum Speg. SPECIES
 
 #### Status
 ACCEPTED

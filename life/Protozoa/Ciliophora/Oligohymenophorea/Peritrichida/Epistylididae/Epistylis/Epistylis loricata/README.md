@@ -1,5 +1,4 @@
-Epistylis loricata Schödel, 1999 SPECIES
-=======
+# Epistylis loricata Schödel, 1999 SPECIES
 
 #### Status
 ACCEPTED

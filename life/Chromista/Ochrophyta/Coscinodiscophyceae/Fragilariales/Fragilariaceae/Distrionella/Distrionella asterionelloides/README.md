@@ -1,5 +1,4 @@
-Distrionella asterionelloides D.M. Williams SPECIES
-=======
+# Distrionella asterionelloides D.M. Williams SPECIES
 
 #### Status
 ACCEPTED

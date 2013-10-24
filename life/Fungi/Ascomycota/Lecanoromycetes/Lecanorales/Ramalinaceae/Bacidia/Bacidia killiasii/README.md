@@ -1,14 +1,13 @@
-Bilimbia sabuletorum var. killiasii (Hepp) Lojka VARIETY
-=======
+# Bacidia killiasii (Hepp) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 15(1): 22 (1983)
 
 #### Original name
 Biatora killiasii Hepp

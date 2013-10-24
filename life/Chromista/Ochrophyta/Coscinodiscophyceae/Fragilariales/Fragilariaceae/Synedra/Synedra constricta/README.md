@@ -1,5 +1,4 @@
-Synedra constricta Kützing SPECIES
-=======
+# Synedra constricta Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marixanthomonas Romanenko, Uchino, Frolova & Mikhailov, 2007 GENUS
-=======
+# Marixanthomonas Romanenko, Uchino, Frolova & Mikhailov, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma rubellum (Pers.) Arthur SPECIES
-=======
+# Dicaeoma rubellum (Pers.) Arthur SPECIES
 
 #### Status
 ACCEPTED

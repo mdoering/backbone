@@ -1,14 +1,13 @@
-Mycarthothelium scandinavicum (Th. Fr.) Vain. SPECIES
-=======
+# Arthothelium scandinavicum Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A (1928)
+null
 
 #### Original name
 Arthothelium scandinavicum Th. Fr.

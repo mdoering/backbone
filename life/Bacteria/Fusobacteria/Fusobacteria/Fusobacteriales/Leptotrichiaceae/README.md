@@ -1,5 +1,4 @@
-Leptotrichiaceae FAMILY
-=======
+# Leptotrichiaceae FAMILY
 
 #### Status
 ACCEPTED

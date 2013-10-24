@@ -1,5 +1,4 @@
-Entyloma coreopsis Vánky, 2002 SPECIES
-=======
+# Entyloma coreopsis Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

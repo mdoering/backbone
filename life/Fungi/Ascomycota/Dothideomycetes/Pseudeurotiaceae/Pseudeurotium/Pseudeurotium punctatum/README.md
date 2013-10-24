@@ -1,5 +1,4 @@
-Pseudeurotium punctatum Panas. SPECIES
-=======
+# Pseudeurotium punctatum Panas. SPECIES
 
 #### Status
 ACCEPTED

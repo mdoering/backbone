@@ -1,5 +1,4 @@
-Lyophyllum lanzonii Candusso SPECIES
-=======
+# Lyophyllum lanzonii Candusso SPECIES
 
 #### Status
 ACCEPTED

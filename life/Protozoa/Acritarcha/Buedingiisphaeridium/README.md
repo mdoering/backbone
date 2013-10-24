@@ -1,5 +1,4 @@
-Buedingiisphaeridium Schaarschmidt, 1963 GENUS
-=======
+# Buedingiisphaeridium Schaarschmidt, 1963 GENUS
 
 #### Status
 ACCEPTED

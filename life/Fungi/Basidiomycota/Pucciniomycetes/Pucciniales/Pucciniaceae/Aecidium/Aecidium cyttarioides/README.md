@@ -1,5 +1,4 @@
-Aecidium cyttarioides Henn. SPECIES
-=======
+# Aecidium cyttarioides Henn. SPECIES
 
 #### Status
 ACCEPTED

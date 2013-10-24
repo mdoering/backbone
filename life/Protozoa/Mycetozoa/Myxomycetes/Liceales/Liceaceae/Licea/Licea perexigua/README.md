@@ -1,5 +1,4 @@
-Licea perexigua T.E. Brooks & H.W. Keller, 1977 SPECIES
-=======
+# Licea perexigua T.E. Brooks & H.W. Keller, 1977 SPECIES
 
 #### Status
 ACCEPTED

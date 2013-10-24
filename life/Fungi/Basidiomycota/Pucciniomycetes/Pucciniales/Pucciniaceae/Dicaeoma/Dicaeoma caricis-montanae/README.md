@@ -1,5 +1,4 @@
-Dicaeoma caricis-montanae (E. Fisch.) Syd. SPECIES
-=======
+# Dicaeoma caricis-montanae (E. Fisch.) Syd. SPECIES
 
 #### Status
 ACCEPTED

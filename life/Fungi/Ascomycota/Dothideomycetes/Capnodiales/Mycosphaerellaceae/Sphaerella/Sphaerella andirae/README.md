@@ -1,5 +1,4 @@
-Sphaerella andirae Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerella andirae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

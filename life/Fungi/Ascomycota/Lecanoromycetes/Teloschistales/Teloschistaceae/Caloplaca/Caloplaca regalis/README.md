@@ -1,5 +1,4 @@
-Caloplaca regalis (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca regalis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

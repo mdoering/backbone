@@ -1,5 +1,4 @@
-Heppia ruinicola Nyl. SPECIES
-=======
+# Heppia ruinicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

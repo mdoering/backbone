@@ -1,5 +1,4 @@
-Ramalina alludens Nyl. SPECIES
-=======
+# Ramalina alludens Nyl. SPECIES
 
 #### Status
 ACCEPTED

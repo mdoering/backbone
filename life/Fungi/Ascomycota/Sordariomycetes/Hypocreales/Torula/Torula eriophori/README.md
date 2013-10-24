@@ -1,5 +1,4 @@
-Torula eriophori Berk. SPECIES
-=======
+# Torula eriophori Berk. SPECIES
 
 #### Status
 ACCEPTED

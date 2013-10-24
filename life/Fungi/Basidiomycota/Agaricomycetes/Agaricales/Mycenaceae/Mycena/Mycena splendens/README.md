@@ -1,5 +1,4 @@
-Mycena splendens Maas Geest. & E. Horak SPECIES
-=======
+# Mycena splendens Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

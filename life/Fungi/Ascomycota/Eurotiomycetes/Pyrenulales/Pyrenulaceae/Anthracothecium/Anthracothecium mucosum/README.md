@@ -1,5 +1,4 @@
-Anthracothecium mucosum (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium mucosum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

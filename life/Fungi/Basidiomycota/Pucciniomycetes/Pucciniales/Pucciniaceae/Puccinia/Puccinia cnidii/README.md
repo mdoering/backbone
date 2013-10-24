@@ -1,5 +1,4 @@
-Puccinia cnidii Lindr. SPECIES
-=======
+# Puccinia cnidii Lindr. SPECIES
 
 #### Status
 ACCEPTED

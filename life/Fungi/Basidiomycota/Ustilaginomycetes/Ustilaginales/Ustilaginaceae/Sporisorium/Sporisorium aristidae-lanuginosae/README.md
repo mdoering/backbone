@@ -1,5 +1,4 @@
-Sporisorium aristidae-lanuginosae (Maire) Vánky SPECIES
-=======
+# Sporisorium aristidae-lanuginosae (Maire) Vánky SPECIES
 
 #### Status
 ACCEPTED

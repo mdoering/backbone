@@ -1,5 +1,4 @@
-Thecaphora neomexicana Durán SPECIES
-=======
+# Thecaphora neomexicana Durán SPECIES
 
 #### Status
 ACCEPTED

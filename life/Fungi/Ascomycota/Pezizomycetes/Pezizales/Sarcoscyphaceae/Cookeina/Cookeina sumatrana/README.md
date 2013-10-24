@@ -1,5 +1,4 @@
-Cookeina sumatrana Boedijn SPECIES
-=======
+# Cookeina sumatrana Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovulariopsis tulasneorum Peyronel SPECIES
-=======
+# Ovulariopsis tulasneorum Peyronel SPECIES
 
 #### Status
 ACCEPTED

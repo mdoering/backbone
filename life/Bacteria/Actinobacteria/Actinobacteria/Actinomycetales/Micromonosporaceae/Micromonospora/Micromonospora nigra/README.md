@@ -1,8 +1,7 @@
-Micromonospora halophytica subsp. nigra SUBSPECIES
-=======
+# Micromonospora nigra (Weinstein et al., 1968) Kasai et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

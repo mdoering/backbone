@@ -1,5 +1,4 @@
-Graphina notha Müll. Arg. SPECIES
-=======
+# Graphina notha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

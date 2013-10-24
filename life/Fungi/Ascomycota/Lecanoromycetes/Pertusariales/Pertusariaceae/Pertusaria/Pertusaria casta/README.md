@@ -1,5 +1,4 @@
-Pertusaria casta Zahlbr. SPECIES
-=======
+# Pertusaria casta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

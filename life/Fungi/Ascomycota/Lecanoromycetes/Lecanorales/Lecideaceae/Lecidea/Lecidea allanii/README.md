@@ -1,5 +1,4 @@
-Lecidea allanii Zahlbr. SPECIES
-=======
+# Lecidea allanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reichlingia Diederich & Scheidegger, 1996 GENUS
-=======
+# Reichlingia Diederich & Scheidegger, 1996 GENUS
 
 #### Status
 ACCEPTED

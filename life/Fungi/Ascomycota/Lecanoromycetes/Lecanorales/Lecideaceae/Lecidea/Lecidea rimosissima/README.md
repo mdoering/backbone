@@ -1,5 +1,4 @@
-Lecidea rimosissima Lynge SPECIES
-=======
+# Lecidea rimosissima Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum humillimum Rick SPECIES
-=======
+# Stereum humillimum Rick SPECIES
 
 #### Status
 ACCEPTED

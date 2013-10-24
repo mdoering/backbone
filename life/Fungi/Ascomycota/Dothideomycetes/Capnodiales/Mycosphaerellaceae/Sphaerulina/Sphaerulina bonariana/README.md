@@ -1,5 +1,4 @@
-Sphaerulina bonariana Petr. SPECIES
-=======
+# Sphaerulina bonariana Petr. SPECIES
 
 #### Status
 ACCEPTED

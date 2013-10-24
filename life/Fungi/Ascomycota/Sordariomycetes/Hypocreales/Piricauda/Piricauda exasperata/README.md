@@ -1,5 +1,4 @@
-Piricauda exasperata (Ellis & Barthol.) R.T. Moore SPECIES
-=======
+# Piricauda exasperata (Ellis & Barthol.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

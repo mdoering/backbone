@@ -1,5 +1,4 @@
-Gloeosporium obtusipes f. amorphae Sacc. FORM
-=======
+# Gloeosporium obtusipes Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloeosporium obtusipes f. amorphae Sacc.
+Gloeosporium obtusipes Sacc.
 
 ### Remarks
 null

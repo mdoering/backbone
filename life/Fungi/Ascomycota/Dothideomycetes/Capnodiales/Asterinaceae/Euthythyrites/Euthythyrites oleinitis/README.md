@@ -1,5 +1,4 @@
-Euthythyrites oleinitis Cookson SPECIES
-=======
+# Euthythyrites oleinitis Cookson SPECIES
 
 #### Status
 ACCEPTED

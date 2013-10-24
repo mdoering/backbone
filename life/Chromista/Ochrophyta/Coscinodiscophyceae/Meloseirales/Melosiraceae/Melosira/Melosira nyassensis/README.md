@@ -1,8 +1,7 @@
-Melosira octogna SPECIES
-=======
+# Melosira nyassensis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

@@ -1,5 +1,4 @@
-Dinophysis operculata (Stein) Balech SPECIES
-=======
+# Dinophysis operculata (Stein) Balech SPECIES
 
 #### Status
 ACCEPTED

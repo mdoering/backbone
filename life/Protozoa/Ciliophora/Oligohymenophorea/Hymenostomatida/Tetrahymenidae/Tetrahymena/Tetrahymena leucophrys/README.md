@@ -1,5 +1,4 @@
-Tetrahymena leucophrys SPECIES
-=======
+# Tetrahymena leucophrys SPECIES
 
 #### Status
 ACCEPTED

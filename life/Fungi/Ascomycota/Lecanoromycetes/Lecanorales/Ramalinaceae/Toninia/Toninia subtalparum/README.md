@@ -1,5 +1,4 @@
-Toninia subtalparum van den Boom SPECIES
-=======
+# Toninia subtalparum van den Boom SPECIES
 
 #### Status
 ACCEPTED

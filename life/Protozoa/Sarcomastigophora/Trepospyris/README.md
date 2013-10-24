@@ -1,5 +1,4 @@
-Trepospyris Gamble in Lankester, 1909 GENUS
-=======
+# Trepospyris Gamble in Lankester, 1909 GENUS
 
 #### Status
 ACCEPTED

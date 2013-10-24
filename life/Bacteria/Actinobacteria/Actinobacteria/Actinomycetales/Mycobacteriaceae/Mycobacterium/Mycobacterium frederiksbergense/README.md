@@ -1,5 +1,4 @@
-Mycobacterium frederiksbergense Willumsen et al., 2001 SPECIES
-=======
+# Mycobacterium frederiksbergense Willumsen et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

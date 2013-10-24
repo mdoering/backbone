@@ -1,17 +1,16 @@
-Cercospora elephantopicola J.M. Yen & Gilles SPECIES
-=======
+# Cercospora elephantopodicola J.M. Yen & Gilles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yen, Cahiers de La Maboké 9(2): 106 (1971)
 
 #### Original name
-Cercospora elephantopicola J.M. Yen & Gilles
+Cercospora elephantopodicola J.M. Yen & Gilles
 
 ### Remarks
 null

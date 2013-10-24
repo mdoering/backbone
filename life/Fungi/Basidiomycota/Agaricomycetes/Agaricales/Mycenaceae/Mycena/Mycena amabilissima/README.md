@@ -1,5 +1,4 @@
-Mycena amabilissima Peck SPECIES
-=======
+# Mycena amabilissima Peck SPECIES
 
 #### Status
 ACCEPTED

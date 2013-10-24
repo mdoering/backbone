@@ -1,5 +1,4 @@
-Sphaceloma semecarpi Wani & Thirum., 1970 SPECIES
-=======
+# Sphaceloma semecarpi Wani & Thirum., 1970 SPECIES
 
 #### Status
 ACCEPTED

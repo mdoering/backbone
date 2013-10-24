@@ -1,5 +1,4 @@
-Cryptosporiopsis citri P.R. Johnst. & Full., 1988 SPECIES
-=======
+# Cryptosporiopsis citri P.R. Johnst. & Full., 1988 SPECIES
 
 #### Status
 ACCEPTED

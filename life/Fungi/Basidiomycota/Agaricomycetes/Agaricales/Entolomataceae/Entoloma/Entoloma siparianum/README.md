@@ -1,5 +1,4 @@
-Entoloma siparianum Dennis SPECIES
-=======
+# Entoloma siparianum Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria subdescendens (Nyl.) Hue SPECIES
-=======
+# Pannaria subdescendens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Batioladinium varigranosum (Duxbury) R. J. Davey SPECIES
-=======
+# Batioladinium varigranosum (Duxbury) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria viridirufa Berk. & Broome SPECIES
-=======
+# Patellaria viridirufa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

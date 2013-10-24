@@ -1,5 +1,4 @@
-Fusarium gloeosprioides Speg. SPECIES
-=======
+# Fusarium gloeosprioides Speg. SPECIES
 
 #### Status
 ACCEPTED

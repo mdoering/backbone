@@ -1,5 +1,4 @@
-Patellea adamsonii Berk. SPECIES
-=======
+# Patellea adamsonii Berk. SPECIES
 
 #### Status
 ACCEPTED

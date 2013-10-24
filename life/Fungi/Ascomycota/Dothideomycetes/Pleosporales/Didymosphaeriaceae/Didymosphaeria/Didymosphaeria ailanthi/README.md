@@ -1,5 +1,4 @@
-Didymosphaeria ailanthi Srinivasulu SPECIES
-=======
+# Didymosphaeria ailanthi Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis orbicularis Wood, Crosby & Cassie, 1959 SPECIES
-=======
+# Stephanopyxis orbicularis Wood, Crosby & Cassie, 1959 SPECIES
 
 #### Status
 ACCEPTED

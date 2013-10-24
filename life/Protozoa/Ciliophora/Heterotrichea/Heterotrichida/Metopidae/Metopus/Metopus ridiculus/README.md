@@ -1,5 +1,4 @@
-Metopus ridiculus Kahl, 1927 SPECIES
-=======
+# Metopus ridiculus Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina adtenuans (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina adtenuans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

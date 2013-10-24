@@ -1,5 +1,4 @@
-Meliola plumbaginis Hansf. & F. Stevens SPECIES
-=======
+# Meliola plumbaginis Hansf. & F. Stevens SPECIES
 
 #### Status
 ACCEPTED

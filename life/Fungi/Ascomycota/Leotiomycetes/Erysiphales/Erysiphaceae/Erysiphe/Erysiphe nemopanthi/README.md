@@ -1,14 +1,13 @@
-Erysiphe nemopanthis (Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe nemopanthi (Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 11 (2000)
 
 #### Original name
 Microsphaera nemopanthi Peck

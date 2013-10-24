@@ -1,5 +1,4 @@
-Stilbospora faureae Syd. & P. Syd. SPECIES
-=======
+# Stilbospora faureae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

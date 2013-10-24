@@ -1,5 +1,4 @@
-Racodium striatum Pers. SPECIES
-=======
+# Racodium striatum Pers. SPECIES
 
 #### Status
 ACCEPTED

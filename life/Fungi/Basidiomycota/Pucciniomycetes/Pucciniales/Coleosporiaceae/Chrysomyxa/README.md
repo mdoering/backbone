@@ -1,17 +1,16 @@
-Barclayella Dietel GENUS
-=======
+# Chrysomyxa Unger, 1840 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Hedwigia 29: 266 (1890)
+null
 
 #### Original name
-Barclayella Dietel
+null
 
 ### Remarks
 null

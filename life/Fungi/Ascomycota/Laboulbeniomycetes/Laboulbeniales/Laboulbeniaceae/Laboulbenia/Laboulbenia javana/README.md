@@ -1,5 +1,4 @@
-Laboulbenia javana Thaxt. SPECIES
-=======
+# Laboulbenia javana Thaxt. SPECIES
 
 #### Status
 ACCEPTED

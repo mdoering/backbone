@@ -1,5 +1,4 @@
-Favella serrata (Möbius, 1887) Jörgensen, 1924 SPECIES
-=======
+# Favella serrata (Möbius, 1887) Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

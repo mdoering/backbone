@@ -1,5 +1,4 @@
-Meliola zanthoxyli-ovalifolii Hosag. SPECIES
-=======
+# Meliola zanthoxyli-ovalifolii Hosag. SPECIES
 
 #### Status
 ACCEPTED

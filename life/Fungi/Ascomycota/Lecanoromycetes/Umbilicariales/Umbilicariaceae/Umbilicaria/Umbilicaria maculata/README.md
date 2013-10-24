@@ -1,5 +1,4 @@
-Umbilicaria maculata Krzewicka, M. P. Martín & M. A. García SPECIES
-=======
+# Umbilicaria maculata Krzewicka, M. P. Martín & M. A. García SPECIES
 
 #### Status
 ACCEPTED

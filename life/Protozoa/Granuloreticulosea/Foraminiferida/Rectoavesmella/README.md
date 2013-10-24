@@ -1,5 +1,4 @@
-Rectoavesmella GENUS
-=======
+# Rectoavesmella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa yerbae Speg. SPECIES
-=======
+# Valsa yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

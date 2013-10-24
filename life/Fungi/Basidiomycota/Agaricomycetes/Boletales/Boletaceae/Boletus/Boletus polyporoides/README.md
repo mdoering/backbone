@@ -1,5 +1,4 @@
-Boletus polyporoides Gentilli SPECIES
-=======
+# Boletus polyporoides Gentilli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthocarpon ernstianum Müll. Arg. SPECIES
-=======
+# Helminthocarpon ernstianum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

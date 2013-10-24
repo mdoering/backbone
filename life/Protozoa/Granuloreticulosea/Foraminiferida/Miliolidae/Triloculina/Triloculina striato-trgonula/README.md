@@ -1,5 +1,4 @@
-Triloculina striato-trgonula (Jones & Parker) SPECIES
-=======
+# Triloculina striato-trgonula (Jones & Parker) SPECIES
 
 #### Status
 ACCEPTED

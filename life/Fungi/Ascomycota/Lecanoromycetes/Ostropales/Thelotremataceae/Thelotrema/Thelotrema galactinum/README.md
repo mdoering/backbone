@@ -1,5 +1,4 @@
-Thelotrema galactinum Vain. SPECIES
-=======
+# Thelotrema galactinum Vain. SPECIES
 
 #### Status
 ACCEPTED

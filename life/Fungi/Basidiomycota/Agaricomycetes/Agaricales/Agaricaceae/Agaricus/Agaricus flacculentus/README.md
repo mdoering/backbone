@@ -1,5 +1,4 @@
-Agaricus flacculentus Pollacci SPECIES
-=======
+# Agaricus flacculentus Pollacci SPECIES
 
 #### Status
 ACCEPTED

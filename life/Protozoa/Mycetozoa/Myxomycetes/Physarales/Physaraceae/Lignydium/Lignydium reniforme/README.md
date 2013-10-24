@@ -1,8 +1,7 @@
-Lignidium reniforme Fr. SPECIES
-=======
+# Lignydium reniforme Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lignidium reniforme Fr.
+Lignydium reniforme Fr.
 
 ### Remarks
 null

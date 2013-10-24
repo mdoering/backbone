@@ -1,5 +1,4 @@
-Oothecium megalosporum Speg. SPECIES
-=======
+# Oothecium megalosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

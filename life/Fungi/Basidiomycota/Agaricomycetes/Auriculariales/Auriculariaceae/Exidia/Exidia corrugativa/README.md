@@ -1,5 +1,4 @@
-Exidia corrugativa Bref. SPECIES
-=======
+# Exidia corrugativa Bref. SPECIES
 
 #### Status
 ACCEPTED

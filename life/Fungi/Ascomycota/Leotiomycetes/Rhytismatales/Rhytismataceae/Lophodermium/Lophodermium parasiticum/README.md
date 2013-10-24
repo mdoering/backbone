@@ -1,5 +1,4 @@
-Lophodermium parasiticum B.Z. He & D.Q. Yang SPECIES
-=======
+# Lophodermium parasiticum B.Z. He & D.Q. Yang SPECIES
 
 #### Status
 ACCEPTED

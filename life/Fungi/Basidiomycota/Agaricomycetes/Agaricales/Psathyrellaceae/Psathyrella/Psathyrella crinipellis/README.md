@@ -1,5 +1,4 @@
-Psathyrella crinipellis Singer SPECIES
-=======
+# Psathyrella crinipellis Singer SPECIES
 
 #### Status
 ACCEPTED

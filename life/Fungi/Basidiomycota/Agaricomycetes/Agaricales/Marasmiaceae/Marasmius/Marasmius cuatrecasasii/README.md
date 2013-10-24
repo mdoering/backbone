@@ -1,5 +1,4 @@
-Marasmius cuatrecasasii Singer SPECIES
-=======
+# Marasmius cuatrecasasii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago arrhenatheri Schellenb. SPECIES
-=======
+# Ustilago arrhenatheri Schellenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplaria pallida (Harz) J. Lindau SPECIES
-=======
+# Haplaria pallida (Harz) J. Lindau SPECIES
 
 #### Status
 ACCEPTED

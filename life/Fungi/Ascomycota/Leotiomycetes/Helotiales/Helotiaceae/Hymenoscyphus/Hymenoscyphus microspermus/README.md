@@ -1,5 +1,4 @@
-Hymenoscyphus microspermus (Speg.) Dennis SPECIES
-=======
+# Hymenoscyphus microspermus (Speg.) Dennis SPECIES
 
 #### Status
 ACCEPTED

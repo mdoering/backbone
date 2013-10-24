@@ -1,5 +1,4 @@
-Tulasnella vernicosa Bourdot & Galzin, 1927 SPECIES
-=======
+# Tulasnella vernicosa Bourdot & Galzin, 1927 SPECIES
 
 #### Status
 ACCEPTED

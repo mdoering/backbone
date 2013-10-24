@@ -1,5 +1,4 @@
-Coscinodiscus megalomma A.W.F.Schmidt SPECIES
-=======
+# Coscinodiscus megalomma A.W.F.Schmidt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereostratum Magnus GENUS
-=======
+# Stereostratum Magnus GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Physcia euploca Tuck. SPECIES
-=======
+# Speerschneidera euploca (Tuck.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 44: (1861)
 
 #### Original name
 Physcia euploca Tuck.

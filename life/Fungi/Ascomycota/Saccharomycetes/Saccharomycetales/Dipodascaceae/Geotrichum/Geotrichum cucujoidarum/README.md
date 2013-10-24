@@ -1,5 +1,4 @@
-Geotrichum cucujoidarum S.O. Suh & M. Blackw., 2006 SPECIES
-=======
+# Geotrichum cucujoidarum S.O. Suh & M. Blackw., 2006 SPECIES
 
 #### Status
 ACCEPTED

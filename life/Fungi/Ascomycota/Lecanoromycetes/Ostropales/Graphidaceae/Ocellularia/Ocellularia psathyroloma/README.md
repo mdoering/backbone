@@ -1,5 +1,4 @@
-Ocellularia psathyroloma Müll. Arg. SPECIES
-=======
+# Ocellularia psathyroloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

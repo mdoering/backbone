@@ -1,5 +1,4 @@
-Poria flavus P. Karst. SPECIES
-=======
+# Poria flavus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

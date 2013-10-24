@@ -1,5 +1,4 @@
-Leucoagaricus babosiae Bon SPECIES
-=======
+# Leucoagaricus babosiae Bon SPECIES
 
 #### Status
 ACCEPTED

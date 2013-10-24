@@ -1,5 +1,4 @@
-Hypogymnia minilobata McCune & C.L. Schoch SPECIES
-=======
+# Hypogymnia minilobata McCune & C.L. Schoch SPECIES
 
 #### Status
 ACCEPTED

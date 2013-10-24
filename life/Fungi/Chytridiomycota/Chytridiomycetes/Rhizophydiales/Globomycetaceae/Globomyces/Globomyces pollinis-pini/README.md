@@ -1,14 +1,13 @@
-Phlyctidium pollinis-pini (A. Braun) J. Schröt., 1886 SPECIES
-=======
+# Globomyces pollinis-pini (A. Braun) Letcher, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(18): 190 (1886)
+Mycol. Res. 112(7): 777 (2008)
 
 #### Original name
 Chytridium pollinis-pini A. Braun, 1855

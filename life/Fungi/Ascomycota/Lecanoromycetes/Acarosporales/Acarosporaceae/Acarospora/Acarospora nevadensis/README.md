@@ -1,5 +1,4 @@
-Acarospora nevadensis H. Magn. SPECIES
-=======
+# Acarospora nevadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

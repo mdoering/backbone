@@ -1,5 +1,4 @@
-Dictyostelium caveatum D.R. Waddell, Raper & A.W. Rahn, 1984 SPECIES
-=======
+# Dictyostelium caveatum D.R. Waddell, Raper & A.W. Rahn, 1984 SPECIES
 
 #### Status
 ACCEPTED

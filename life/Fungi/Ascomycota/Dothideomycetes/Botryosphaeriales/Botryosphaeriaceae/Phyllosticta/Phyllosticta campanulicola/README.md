@@ -1,5 +1,4 @@
-Phyllosticta campanulicola Marchal & Sternon SPECIES
-=======
+# Phyllosticta campanulicola Marchal & Sternon SPECIES
 
 #### Status
 ACCEPTED

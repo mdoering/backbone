@@ -1,5 +1,4 @@
-Thalassothamnus Haecker, 1906 GENUS
-=======
+# Thalassothamnus Haecker, 1906 GENUS
 
 #### Status
 ACCEPTED

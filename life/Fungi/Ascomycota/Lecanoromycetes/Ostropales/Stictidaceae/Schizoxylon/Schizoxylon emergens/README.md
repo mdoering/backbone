@@ -1,5 +1,4 @@
-Schizoxylon emergens Sherwood SPECIES
-=======
+# Schizoxylon emergens Sherwood SPECIES
 
 #### Status
 ACCEPTED

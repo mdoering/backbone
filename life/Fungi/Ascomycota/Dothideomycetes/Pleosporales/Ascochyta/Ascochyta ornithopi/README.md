@@ -1,5 +1,4 @@
-Ascochyta ornithopi Bond.-Mont. SPECIES
-=======
+# Ascochyta ornithopi Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

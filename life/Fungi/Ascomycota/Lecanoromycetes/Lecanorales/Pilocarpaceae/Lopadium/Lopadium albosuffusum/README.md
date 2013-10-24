@@ -1,5 +1,4 @@
-Lopadium albosuffusum Malme SPECIES
-=======
+# Lopadium albosuffusum Malme SPECIES
 
 #### Status
 ACCEPTED

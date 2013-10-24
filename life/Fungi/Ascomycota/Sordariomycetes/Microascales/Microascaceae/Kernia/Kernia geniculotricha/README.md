@@ -1,5 +1,4 @@
-Kernia geniculotricha Seth, 1968 SPECIES
-=======
+# Kernia geniculotricha Seth, 1968 SPECIES
 
 #### Status
 ACCEPTED

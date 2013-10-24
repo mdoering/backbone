@@ -1,5 +1,4 @@
-Phloeospora quercus (Thüm.) Höhn. SPECIES
-=======
+# Phloeospora quercus (Thüm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

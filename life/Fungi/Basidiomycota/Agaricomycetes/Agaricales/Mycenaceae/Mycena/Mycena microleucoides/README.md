@@ -1,5 +1,4 @@
-Mycena microleucoides Singer SPECIES
-=======
+# Mycena microleucoides Singer SPECIES
 
 #### Status
 ACCEPTED

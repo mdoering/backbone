@@ -1,14 +1,13 @@
-Sphaeria investans Cooke, 1871 SPECIES
-=======
+# Eriosphaeria investans (Cooke) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Handbook of British Fungi 2: no. 2556 (1871)
+Syll. fung. (Abellini) 1: 598 (1882)
 
 #### Original name
 Sphaeria investans Cooke, 1871

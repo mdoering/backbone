@@ -1,5 +1,4 @@
-Cercospora carthamicola Vassiljevsky SPECIES
-=======
+# Cercospora carthamicola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

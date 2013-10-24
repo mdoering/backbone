@@ -1,5 +1,4 @@
-Thelenella astroidella Vain. SPECIES
-=======
+# Thelenella astroidella Vain. SPECIES
 
 #### Status
 ACCEPTED

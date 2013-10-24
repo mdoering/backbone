@@ -1,5 +1,4 @@
-Sphaeronaema balansae Sacc. SPECIES
-=======
+# Sphaeronaema balansae Sacc. SPECIES
 
 #### Status
 ACCEPTED

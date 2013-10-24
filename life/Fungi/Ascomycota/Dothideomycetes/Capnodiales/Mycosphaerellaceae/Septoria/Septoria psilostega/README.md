@@ -1,5 +1,4 @@
-Septoria psilostega Ellis & G. Martin SPECIES
-=======
+# Septoria psilostega Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

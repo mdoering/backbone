@@ -1,5 +1,4 @@
-Arthopyrenia marinula (Wedd.) Arnold SPECIES
-=======
+# Arthopyrenia marinula (Wedd.) Arnold SPECIES
 
 #### Status
 ACCEPTED

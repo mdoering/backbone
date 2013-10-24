@@ -1,5 +1,4 @@
-Deuterammina parva Broennimann & Zaninetti, 1984 SPECIES
-=======
+# Deuterammina parva Broennimann & Zaninetti, 1984 SPECIES
 
 #### Status
 ACCEPTED

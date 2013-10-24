@@ -1,5 +1,4 @@
-Bactridium americanum Höhn. SPECIES
-=======
+# Bactridium americanum Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppsora indica D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Heppsora indica D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

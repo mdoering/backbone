@@ -1,5 +1,4 @@
-Schizothyra minuta Bat. & C.A.A. Costa, 1957 SPECIES
-=======
+# Schizothyra minuta Bat. & C.A.A. Costa, 1957 SPECIES
 
 #### Status
 ACCEPTED

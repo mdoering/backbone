@@ -1,5 +1,4 @@
-Ramularia alternantherae Z.Y. Zhang & Ying Xing Wang SPECIES
-=======
+# Ramularia alternantherae Z.Y. Zhang & Ying Xing Wang SPECIES
 
 #### Status
 ACCEPTED

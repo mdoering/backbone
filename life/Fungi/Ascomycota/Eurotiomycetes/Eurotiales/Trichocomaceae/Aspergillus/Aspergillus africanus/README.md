@@ -1,5 +1,4 @@
-Aspergillus africanus Durieu & Mont. SPECIES
-=======
+# Aspergillus africanus Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

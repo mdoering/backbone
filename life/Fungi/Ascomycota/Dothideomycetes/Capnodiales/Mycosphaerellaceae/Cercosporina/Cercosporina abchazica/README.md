@@ -1,5 +1,4 @@
-Cercosporina abchazica (Siemaszko) Sacc. SPECIES
-=======
+# Cercosporina abchazica (Siemaszko) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Curvularia robusta Kilp. & Luttr., 1967 SPECIES
-=======
+# Curvularia robusta Kilp. & Luttr., 1967 SPECIES
 
 #### Status
 ACCEPTED

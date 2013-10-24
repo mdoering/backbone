@@ -1,5 +1,4 @@
-Pseudoarmillariella (Singer) Singer GENUS
-=======
+# Pseudoarmillariella (Singer) Singer GENUS
 
 #### Status
 ACCEPTED

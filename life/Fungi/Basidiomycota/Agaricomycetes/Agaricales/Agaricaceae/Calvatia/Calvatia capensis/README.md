@@ -1,5 +1,4 @@
-Calvatia capensis (Lloyd) J.C. Coetzee, Eicker & A.E. van Wyk SPECIES
-=======
+# Calvatia capensis (Lloyd) J.C. Coetzee, Eicker & A.E. van Wyk SPECIES
 
 #### Status
 ACCEPTED

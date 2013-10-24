@@ -1,5 +1,4 @@
-Melampsora durrieui Mayor SPECIES
-=======
+# Melampsora durrieui Mayor SPECIES
 
 #### Status
 ACCEPTED

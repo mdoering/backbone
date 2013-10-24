@@ -1,5 +1,4 @@
-Fusarium salmonicolor Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium salmonicolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

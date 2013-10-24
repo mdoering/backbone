@@ -1,5 +1,4 @@
-Fusoma mori Schulzer SPECIES
-=======
+# Fusoma mori Schulzer SPECIES
 
 #### Status
 ACCEPTED

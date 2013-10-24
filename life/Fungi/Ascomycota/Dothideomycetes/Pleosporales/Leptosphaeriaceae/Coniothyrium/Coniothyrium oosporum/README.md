@@ -1,5 +1,4 @@
-Coniothyrium oosporum (Corda) S. Hughes SPECIES
-=======
+# Coniothyrium oosporum (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

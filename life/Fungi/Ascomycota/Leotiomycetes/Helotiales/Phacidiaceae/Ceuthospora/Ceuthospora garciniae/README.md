@@ -1,5 +1,4 @@
-Ceuthospora garciniae Syd. SPECIES
-=======
+# Ceuthospora garciniae Syd. SPECIES
 
 #### Status
 ACCEPTED

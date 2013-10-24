@@ -1,5 +1,4 @@
-Pithya lacunosa (Ellis & Everh.) Seaver SPECIES
-=======
+# Pithya lacunosa (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

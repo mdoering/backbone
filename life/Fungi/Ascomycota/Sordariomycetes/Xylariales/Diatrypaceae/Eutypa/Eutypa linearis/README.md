@@ -1,5 +1,4 @@
-Eutypa linearis Rehm SPECIES
-=======
+# Eutypa linearis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus neocarnoyi Kozak. SPECIES
-=======
+# Aspergillus neocarnoyi Kozak. SPECIES
 
 #### Status
 ACCEPTED

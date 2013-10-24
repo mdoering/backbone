@@ -1,5 +1,4 @@
-Palmula Prévot, 1938 GENUS
-=======
+# Palmula Prévot, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyra major Velen. SPECIES
-=======
+# Psathyra major Velen. SPECIES
 
 #### Status
 ACCEPTED

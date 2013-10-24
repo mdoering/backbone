@@ -1,17 +1,16 @@
-Brachycladium Berk. GENUS
-=======
+# Brachycarphium Berk. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Icon. fung. (Prague) 2: 14 (1838)
+null
 
 #### Original name
-Brachycladium Berk.
+Brachycarphium Berk.
 
 ### Remarks
 null

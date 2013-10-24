@@ -1,5 +1,4 @@
-Chaetophoma cordobensis Speg. SPECIES
-=======
+# Chaetophoma cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

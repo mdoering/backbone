@@ -1,17 +1,16 @@
-Lecanora cenisia var. soredians Suza VARIETY
-=======
+# Lecanora caesiosora Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborník Klubu Prírodovedeckého v Brne 11: 152 (1929)
+Denkschr. Regensb. bot. Ges. 26: 82 (1966)
 
 #### Original name
-Lecanora cenisia var. soredians Suza
+Lecanora caesiosora Poelt
 
 ### Remarks
 null

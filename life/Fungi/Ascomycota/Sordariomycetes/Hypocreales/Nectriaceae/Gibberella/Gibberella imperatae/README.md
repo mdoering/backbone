@@ -1,5 +1,4 @@
-Gibberella imperatae C. Booth & C. Prior, 1984 SPECIES
-=======
+# Gibberella imperatae C. Booth & C. Prior, 1984 SPECIES
 
 #### Status
 ACCEPTED

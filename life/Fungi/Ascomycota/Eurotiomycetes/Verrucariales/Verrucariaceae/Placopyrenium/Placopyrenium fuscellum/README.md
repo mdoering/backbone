@@ -1,17 +1,16 @@
-Verrucaria fuscella f. fuscella FORM
-=======
+# Placopyrenium fuscellum (Turner) Gueidan & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria fuscella f. fuscella
+null
 
 ### Remarks
 null

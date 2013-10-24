@@ -1,5 +1,4 @@
-Dictyonema membranaceum C. Agardh SPECIES
-=======
+# Dictyonema membranaceum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

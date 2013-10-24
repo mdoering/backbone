@@ -1,5 +1,4 @@
-Verrucaria procopii Servít SPECIES
-=======
+# Verrucaria procopii Servít SPECIES
 
 #### Status
 ACCEPTED

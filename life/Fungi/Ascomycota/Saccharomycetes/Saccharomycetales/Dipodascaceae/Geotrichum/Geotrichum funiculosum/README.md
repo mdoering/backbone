@@ -1,5 +1,4 @@
-Geotrichum funiculosum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Geotrichum funiculosum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

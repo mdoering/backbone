@@ -1,5 +1,4 @@
-Septoria phyteumatum Sacc. SPECIES
-=======
+# Septoria phyteumatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

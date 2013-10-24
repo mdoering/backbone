@@ -1,5 +1,4 @@
-Nimbya perpunctulata E.G. Simmons SPECIES
-=======
+# Nimbya perpunctulata E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

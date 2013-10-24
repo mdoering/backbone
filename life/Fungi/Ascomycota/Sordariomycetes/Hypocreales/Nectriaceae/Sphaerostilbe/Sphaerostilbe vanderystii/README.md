@@ -1,5 +1,4 @@
-Sphaerostilbe vanderystii Henn. SPECIES
-=======
+# Sphaerostilbe vanderystii Henn. SPECIES
 
 #### Status
 ACCEPTED

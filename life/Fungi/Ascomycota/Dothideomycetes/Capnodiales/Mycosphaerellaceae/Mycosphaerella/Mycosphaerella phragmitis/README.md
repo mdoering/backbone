@@ -1,5 +1,4 @@
-Mycosphaerella phragmitis (Ellis & Everh.) Lavrov SPECIES
-=======
+# Mycosphaerella phragmitis (Ellis & Everh.) Lavrov SPECIES
 
 #### Status
 ACCEPTED

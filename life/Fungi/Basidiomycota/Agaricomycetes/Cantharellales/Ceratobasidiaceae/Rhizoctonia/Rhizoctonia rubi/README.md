@@ -1,5 +1,4 @@
-Rhizoctonia rubi McKeen, 1959 SPECIES
-=======
+# Rhizoctonia rubi McKeen, 1959 SPECIES
 
 #### Status
 ACCEPTED

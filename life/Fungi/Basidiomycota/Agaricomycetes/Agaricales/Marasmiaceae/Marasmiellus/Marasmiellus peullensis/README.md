@@ -1,5 +1,4 @@
-Marasmiellus peullensis Singer SPECIES
-=======
+# Marasmiellus peullensis Singer SPECIES
 
 #### Status
 ACCEPTED

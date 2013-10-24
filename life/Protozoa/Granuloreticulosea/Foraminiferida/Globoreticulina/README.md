@@ -1,5 +1,4 @@
-Globoreticulina Rahaghi, 1978 GENUS
-=======
+# Globoreticulina Rahaghi, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syntexis GENUS
-=======
+# Syntexis GENUS
 
 #### Status
 ACCEPTED

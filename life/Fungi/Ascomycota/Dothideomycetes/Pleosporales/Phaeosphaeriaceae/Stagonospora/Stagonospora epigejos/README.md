@@ -1,5 +1,4 @@
-Stagonospora epigejos (Thüm.) Lavrov SPECIES
-=======
+# Stagonospora epigejos (Thüm.) Lavrov SPECIES
 
 #### Status
 ACCEPTED

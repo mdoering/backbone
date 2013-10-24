@@ -1,5 +1,4 @@
-Diplodiella lignicola (Peck) Sacc. SPECIES
-=======
+# Diplodiella lignicola (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

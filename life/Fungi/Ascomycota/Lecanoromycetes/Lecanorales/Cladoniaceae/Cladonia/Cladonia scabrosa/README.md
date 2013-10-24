@@ -1,5 +1,4 @@
-Cladonia scabrosa (Pers.) C.W. Dodge SPECIES
-=======
+# Cladonia scabrosa (Pers.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

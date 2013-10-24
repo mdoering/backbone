@@ -1,5 +1,4 @@
-Squinabollum Dumitrica, 1970 GENUS
-=======
+# Squinabollum Dumitrica, 1970 GENUS
 
 #### Status
 ACCEPTED

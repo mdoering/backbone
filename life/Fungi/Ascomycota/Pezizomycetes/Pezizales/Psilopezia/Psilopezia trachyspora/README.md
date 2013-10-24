@@ -1,5 +1,4 @@
-Psilopezia trachyspora Ellis & Everh. SPECIES
-=======
+# Psilopezia trachyspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

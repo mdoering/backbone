@@ -1,5 +1,4 @@
-Lionotus muscorum Kahl, 1931 SPECIES
-=======
+# Lionotus muscorum Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

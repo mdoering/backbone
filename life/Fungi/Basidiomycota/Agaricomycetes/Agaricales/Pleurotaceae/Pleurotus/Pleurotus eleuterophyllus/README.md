@@ -1,5 +1,4 @@
-Pleurotus eleuterophyllus (Lév.) Sacc. & Trotter SPECIES
-=======
+# Pleurotus eleuterophyllus (Lév.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

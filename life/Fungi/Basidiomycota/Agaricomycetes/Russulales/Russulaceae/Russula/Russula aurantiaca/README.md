@@ -1,14 +1,13 @@
-Russula integra var. aurantiaca Jul. Schäff., 1933 VARIETY
-=======
+# Russula aurantiaca (Schaeff.) Romagn., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 31(5/6): 404 (1933)
+Russules d'Europe Afr. Nord 827 (1967)
 
 #### Original name
 Russula integra var. aurantiaca Jul. Schäff., 1933

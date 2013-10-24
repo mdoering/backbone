@@ -1,5 +1,4 @@
-Ascochyta tobirae Hara SPECIES
-=======
+# Ascochyta tobirae Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phyllachora latitans (Fr.) Sacc., 1883 SPECIES
-=======
+# Dothiorella latitans (Fr.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 610 (1883)
+Syll. fung. (Abellini) 3: 241 (1884)
 
 #### Original name
 Dothidea latitans Fr., 1823

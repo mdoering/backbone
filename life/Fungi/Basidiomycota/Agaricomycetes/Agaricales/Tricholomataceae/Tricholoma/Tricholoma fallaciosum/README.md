@@ -1,5 +1,4 @@
-Tricholoma fallaciosum Quél. & Schulzer SPECIES
-=======
+# Tricholoma fallaciosum Quél. & Schulzer SPECIES
 
 #### Status
 ACCEPTED

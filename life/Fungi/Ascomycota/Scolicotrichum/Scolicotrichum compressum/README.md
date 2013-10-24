@@ -1,5 +1,4 @@
-Scolicotrichum compressum Allesch. SPECIES
-=======
+# Scolicotrichum compressum Allesch. SPECIES
 
 #### Status
 ACCEPTED

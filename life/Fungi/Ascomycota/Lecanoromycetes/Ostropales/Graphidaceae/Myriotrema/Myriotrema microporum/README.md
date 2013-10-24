@@ -1,5 +1,4 @@
-Myriotrema microporum (Mont.) Hale SPECIES
-=======
+# Myriotrema microporum (Mont.) Hale SPECIES
 
 #### Status
 ACCEPTED

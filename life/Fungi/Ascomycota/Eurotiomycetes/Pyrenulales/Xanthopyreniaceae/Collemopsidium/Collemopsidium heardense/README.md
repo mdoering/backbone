@@ -1,5 +1,4 @@
-Collemopsidium heardense (C. W. Dodge & Rudolph) Øvstedal SPECIES
-=======
+# Collemopsidium heardense (C. W. Dodge & Rudolph) Øvstedal SPECIES
 
 #### Status
 ACCEPTED

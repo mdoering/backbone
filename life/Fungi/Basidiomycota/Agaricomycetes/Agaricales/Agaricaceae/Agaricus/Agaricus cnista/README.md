@@ -1,5 +1,4 @@
-Agaricus cnista Fr. SPECIES
-=======
+# Agaricus cnista Fr. SPECIES
 
 #### Status
 ACCEPTED

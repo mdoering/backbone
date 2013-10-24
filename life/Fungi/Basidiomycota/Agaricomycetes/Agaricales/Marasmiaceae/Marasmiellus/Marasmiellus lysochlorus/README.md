@@ -1,5 +1,4 @@
-Marasmiellus lysochlorus Singer SPECIES
-=======
+# Marasmiellus lysochlorus Singer SPECIES
 
 #### Status
 ACCEPTED

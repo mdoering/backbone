@@ -1,5 +1,4 @@
-Agaricus caespitosus Berk. SPECIES
-=======
+# Agaricus caespitosus Berk. SPECIES
 
 #### Status
 ACCEPTED

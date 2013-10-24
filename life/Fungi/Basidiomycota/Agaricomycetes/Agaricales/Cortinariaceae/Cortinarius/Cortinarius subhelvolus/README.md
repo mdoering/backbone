@@ -1,5 +1,4 @@
-Cortinarius subhelvolus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subhelvolus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

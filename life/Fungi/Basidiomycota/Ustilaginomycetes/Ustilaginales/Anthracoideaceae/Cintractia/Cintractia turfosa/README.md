@@ -1,5 +1,4 @@
-Cintractia turfosa Syd. SPECIES
-=======
+# Cintractia turfosa Syd. SPECIES
 
 #### Status
 ACCEPTED

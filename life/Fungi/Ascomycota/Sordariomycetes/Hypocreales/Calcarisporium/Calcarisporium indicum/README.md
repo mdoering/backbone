@@ -1,5 +1,4 @@
-Calcarisporium indicum D. Rao & P.Rag. Rao SPECIES
-=======
+# Calcarisporium indicum D. Rao & P.Rag. Rao SPECIES
 
 #### Status
 ACCEPTED

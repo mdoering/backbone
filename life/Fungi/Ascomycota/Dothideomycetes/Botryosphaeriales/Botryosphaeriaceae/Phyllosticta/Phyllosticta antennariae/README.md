@@ -1,5 +1,4 @@
-Phyllosticta antennariae Ellis & Everh. SPECIES
-=======
+# Phyllosticta antennariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

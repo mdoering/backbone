@@ -1,5 +1,4 @@
-Dictyochaeta multisetula Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta multisetula Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

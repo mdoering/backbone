@@ -1,5 +1,4 @@
-Lichenostigma anatolicum Halici & Kocakaya SPECIES
-=======
+# Lichenostigma anatolicum Halici & Kocakaya SPECIES
 
 #### Status
 ACCEPTED

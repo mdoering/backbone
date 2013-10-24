@@ -1,5 +1,4 @@
-Hypocrella disciformis P. Chaverri & K.T. Hodge SPECIES
-=======
+# Hypocrella disciformis P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

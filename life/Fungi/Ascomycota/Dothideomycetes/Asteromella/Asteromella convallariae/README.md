@@ -1,17 +1,16 @@
-Dendrophoma convallariae var. convallariae VARIETY
-=======
+# Asteromella convallariae (Cavara) Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 11: 188 (1889)
+Annls mycol. 205 (1923)
 
 #### Original name
-Dendrophoma convallariae var. convallariae
+Dendrophoma convallariae Cavara, 1889
 
 ### Remarks
 null

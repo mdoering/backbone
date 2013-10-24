@@ -1,5 +1,4 @@
-Menispora gamsii Hol.-Jech. SPECIES
-=======
+# Menispora gamsii Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Betabacterium GENUS
-=======
+# Betabacterium GENUS
 
 #### Status
 ACCEPTED

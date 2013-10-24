@@ -1,14 +1,13 @@
-Sphaerella foeniculata (Mont.) Cooke, 1883 SPECIES
-=======
+# Guignardia foeniculata (Mont.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 21: 70 (1883)
+Beitr. Kryptfl. Schweiz 11(no. 1): 48 (1954)
 
 #### Original name
 Sphaeria foeniculata Mont., 1849

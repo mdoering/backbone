@@ -1,5 +1,4 @@
-Pilosace glareosus (Berk. & Broome) Kuntze SPECIES
-=======
+# Pilosace glareosus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

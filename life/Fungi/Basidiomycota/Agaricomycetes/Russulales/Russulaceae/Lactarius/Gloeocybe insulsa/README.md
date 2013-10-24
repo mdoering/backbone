@@ -1,5 +1,4 @@
-Gloeocybe insulsa (Fr.) Earle SPECIES
-=======
+# Gloeocybe insulsa (Fr.) Earle SPECIES
 
 #### Status
 ACCEPTED

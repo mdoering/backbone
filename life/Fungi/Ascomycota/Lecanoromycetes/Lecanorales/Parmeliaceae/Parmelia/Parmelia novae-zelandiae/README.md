@@ -1,5 +1,4 @@
-Parmelia novae-zelandiae Hale SPECIES
-=======
+# Parmelia novae-zelandiae Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella perparva (Sacc.) House SPECIES
-=======
+# Mycosphaerella perparva (Sacc.) House SPECIES
 
 #### Status
 ACCEPTED

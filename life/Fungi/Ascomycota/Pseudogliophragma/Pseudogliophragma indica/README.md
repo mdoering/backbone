@@ -1,5 +1,4 @@
-Pseudogliophragma indica Phadke & V.G. Rao, 1980 SPECIES
-=======
+# Pseudogliophragma indica Phadke & V.G. Rao, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Epigloea grummanii Döbbeler SPECIES
-=======
+# Epigloea grummannii Döbbeler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 220 (1984)
 
 #### Original name
-Epigloea grummanii Döbbeler
+Epigloea grummannii Döbbeler
 
 ### Remarks
 null

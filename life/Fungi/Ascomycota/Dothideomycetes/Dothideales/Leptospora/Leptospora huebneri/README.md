@@ -1,5 +1,4 @@
-Leptospora huebneri Rabenh. SPECIES
-=======
+# Leptospora huebneri Rabenh. SPECIES
 
 #### Status
 ACCEPTED

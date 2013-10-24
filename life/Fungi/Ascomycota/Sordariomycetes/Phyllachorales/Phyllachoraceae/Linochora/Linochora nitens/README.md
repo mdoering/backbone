@@ -1,5 +1,4 @@
-Linochora nitens (Speg.) Höhn. SPECIES
-=======
+# Linochora nitens (Speg.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

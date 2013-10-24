@@ -1,5 +1,4 @@
-Phyllobacterium bourgognense Mantelin et al., 2006 SPECIES
-=======
+# Phyllobacterium bourgognense Mantelin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

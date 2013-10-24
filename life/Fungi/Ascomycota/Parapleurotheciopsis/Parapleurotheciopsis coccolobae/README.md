@@ -1,5 +1,4 @@
-Parapleurotheciopsis coccolobae R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Parapleurotheciopsis coccolobae R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

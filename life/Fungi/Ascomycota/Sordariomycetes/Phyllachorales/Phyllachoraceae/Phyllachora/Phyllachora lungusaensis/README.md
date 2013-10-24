@@ -1,17 +1,16 @@
-Phyllachora rikatliensis (Doidge) Petr., 1927 SPECIES
-=======
+# Phyllachora lungusaensis Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(3/4): 293 (1927)
+Engler's Bot. Jahrb. 34: 50 (1904)
 
 #### Original name
-Phyllachorella rikatliensis Doidge, 1921
+Phyllachora lungusaensis Henn., 1904
 
 ### Remarks
 null

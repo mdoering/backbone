@@ -1,5 +1,4 @@
-Citrobacter rodentium Schauer et al., 1996 SPECIES
-=======
+# Citrobacter rodentium Schauer et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

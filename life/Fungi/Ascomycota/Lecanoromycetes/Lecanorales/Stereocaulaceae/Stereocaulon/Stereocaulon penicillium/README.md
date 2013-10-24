@@ -1,5 +1,4 @@
-Stereocaulon penicillium P.A. Duvign. SPECIES
-=======
+# Stereocaulon penicillium P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

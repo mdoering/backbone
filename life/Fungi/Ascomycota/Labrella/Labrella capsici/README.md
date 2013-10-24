@@ -1,5 +1,4 @@
-Labrella capsici Schwein. ex Fr. SPECIES
-=======
+# Labrella capsici Schwein. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

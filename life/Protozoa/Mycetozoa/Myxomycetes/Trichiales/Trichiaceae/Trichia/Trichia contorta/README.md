@@ -1,17 +1,16 @@
-Trichia jowensis T. Macbr. SPECIES
-=======
+# Trichia contorta (Ditmar) Rostaf., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Trichia jowensis T. Macbr.
+Trichia contorta (Ditmar) Rostaf., 1875
 
 ### Remarks
 null

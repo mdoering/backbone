@@ -1,8 +1,7 @@
-Amphisolenia projecta Kofoid, 1907 SPECIES
-=======
+# Amphisolenia bifurcata Murray & Whitting, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Santanamastix B.V. Skvortzov & M. Noda, 1983 GENUS
-=======
+# Santanamastix B.V. Skvortzov & M. Noda, 1983 GENUS
 
 #### Status
 ACCEPTED

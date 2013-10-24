@@ -1,5 +1,4 @@
-Peziza subulipes Pers. SPECIES
-=======
+# Peziza subulipes Pers. SPECIES
 
 #### Status
 ACCEPTED

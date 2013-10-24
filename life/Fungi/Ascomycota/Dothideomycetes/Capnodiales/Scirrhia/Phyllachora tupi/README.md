@@ -1,5 +1,4 @@
-Phyllachora tupi Viégas & C.G. Teixeira, 1945 SPECIES
-=======
+# Phyllachora tupi Viégas & C.G. Teixeira, 1945 SPECIES
 
 #### Status
 DOUBTFUL

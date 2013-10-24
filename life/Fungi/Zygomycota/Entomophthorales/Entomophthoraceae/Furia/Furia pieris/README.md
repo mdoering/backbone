@@ -1,5 +1,4 @@
-Furia pieris (Z.Z. Li & Humber) Humber, 1989 SPECIES
-=======
+# Furia pieris (Z.Z. Li & Humber) Humber, 1989 SPECIES
 
 #### Status
 ACCEPTED

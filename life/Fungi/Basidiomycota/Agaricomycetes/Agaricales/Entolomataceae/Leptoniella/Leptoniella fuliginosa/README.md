@@ -1,5 +1,4 @@
-Leptoniella fuliginosa Murrill SPECIES
-=======
+# Leptoniella fuliginosa Murrill SPECIES
 
 #### Status
 ACCEPTED

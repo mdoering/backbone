@@ -1,5 +1,4 @@
-Spirostrombidium schizostomum (Kahl, 1932) Xu, Song & Lin, 2006 SPECIES
-=======
+# Spirostrombidium schizostomum (Kahl, 1932) Xu, Song & Lin, 2006 SPECIES
 
 #### Status
 ACCEPTED

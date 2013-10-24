@@ -1,5 +1,4 @@
-Phyllosticta gaultheriae Ellis & Everh. SPECIES
-=======
+# Phyllosticta gaultheriae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

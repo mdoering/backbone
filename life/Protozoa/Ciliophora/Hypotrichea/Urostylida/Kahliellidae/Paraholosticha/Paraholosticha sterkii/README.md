@@ -1,8 +1,7 @@
-Stylonethes sterkii Garnjobst, 1934 SPECIES
-=======
+# Paraholosticha sterkii (Garnjobst, 1934) Dieckmann, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

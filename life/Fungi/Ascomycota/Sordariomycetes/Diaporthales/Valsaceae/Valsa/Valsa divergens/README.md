@@ -1,5 +1,4 @@
-Valsa divergens Cooke SPECIES
-=======
+# Valsa divergens Cooke SPECIES
 
 #### Status
 ACCEPTED

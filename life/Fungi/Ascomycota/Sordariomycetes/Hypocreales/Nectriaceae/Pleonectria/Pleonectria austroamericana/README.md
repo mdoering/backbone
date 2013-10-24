@@ -1,5 +1,4 @@
-Pleonectria austroamericana Speg. SPECIES
-=======
+# Pleonectria austroamericana Speg. SPECIES
 
 #### Status
 ACCEPTED

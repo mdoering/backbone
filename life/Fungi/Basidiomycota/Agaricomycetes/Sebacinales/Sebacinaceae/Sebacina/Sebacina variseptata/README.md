@@ -1,5 +1,4 @@
-Sebacina variseptata L.S. Olive SPECIES
-=======
+# Sebacina variseptata L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

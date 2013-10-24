@@ -1,5 +1,4 @@
-Coniothyrium shoemakeri Negru & I. Popescu SPECIES
-=======
+# Coniothyrium shoemakeri Negru & I. Popescu SPECIES
 
 #### Status
 ACCEPTED

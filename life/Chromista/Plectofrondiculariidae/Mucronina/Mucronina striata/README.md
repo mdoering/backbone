@@ -1,8 +1,7 @@
-Frondicularia striata d’Orbigny, 1826 SPECIES
-=======
+# Mucronina striata (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Mycosphaerella athamantae (Parisi) M. Morelet SPECIES
-=======
+# Mycosphaerella athamantae (Parisi) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

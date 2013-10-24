@@ -1,5 +1,4 @@
-Mycosphaerella tecomae F.A. Wolf, 1943 SPECIES
-=======
+# Mycosphaerella tecomae F.A. Wolf, 1943 SPECIES
 
 #### Status
 ACCEPTED

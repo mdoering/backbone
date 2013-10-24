@@ -1,5 +1,4 @@
-Gloeandromyces nycteribiidarum Thaxt., 1931 SPECIES
-=======
+# Gloeandromyces nycteribiidarum Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

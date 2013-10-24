@@ -1,5 +1,4 @@
-Acarospora fennica SPECIES
-=======
+# Acarospora fennica SPECIES
 
 #### Status
 ACCEPTED

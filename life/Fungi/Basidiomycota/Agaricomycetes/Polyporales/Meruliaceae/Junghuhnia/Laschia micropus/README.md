@@ -1,5 +1,4 @@
-Laschia micropus Berk. SPECIES
-=======
+# Laschia micropus Berk. SPECIES
 
 #### Status
 ACCEPTED

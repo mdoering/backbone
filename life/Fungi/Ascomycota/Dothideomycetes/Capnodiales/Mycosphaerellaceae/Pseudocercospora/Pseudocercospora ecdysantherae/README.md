@@ -1,5 +1,4 @@
-Pseudocercospora ecdysantherae (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora ecdysantherae (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptomitus ferax C. Agardh SPECIES
-=======
+# Leptomitus ferax C. Agardh SPECIES
 
 #### Status
 ACCEPTED

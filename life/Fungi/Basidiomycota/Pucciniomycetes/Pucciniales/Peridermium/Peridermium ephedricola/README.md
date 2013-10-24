@@ -1,5 +1,4 @@
-Peridermium ephedricola J.C. Lindq. SPECIES
-=======
+# Peridermium ephedricola J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

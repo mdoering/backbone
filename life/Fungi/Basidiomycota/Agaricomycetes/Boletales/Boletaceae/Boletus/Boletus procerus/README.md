@@ -1,5 +1,4 @@
-Boletus procerus Bolton SPECIES
-=======
+# Boletus procerus Bolton SPECIES
 
 #### Status
 ACCEPTED

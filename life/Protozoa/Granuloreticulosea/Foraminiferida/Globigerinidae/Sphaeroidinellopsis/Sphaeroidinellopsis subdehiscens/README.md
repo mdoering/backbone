@@ -1,5 +1,4 @@
-Sphaeroidinellopsis subdehiscens SPECIES
-=======
+# Sphaeroidinellopsis subdehiscens SPECIES
 
 #### Status
 ACCEPTED

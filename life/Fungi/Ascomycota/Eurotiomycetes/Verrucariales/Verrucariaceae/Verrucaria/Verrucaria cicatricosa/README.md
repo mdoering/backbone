@@ -1,5 +1,4 @@
-Verrucaria cicatricosa Hoffm. SPECIES
-=======
+# Verrucaria cicatricosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

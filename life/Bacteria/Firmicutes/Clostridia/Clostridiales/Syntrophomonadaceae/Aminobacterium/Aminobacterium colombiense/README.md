@@ -1,5 +1,4 @@
-Aminobacterium colombiense Baena et al., 1999 SPECIES
-=======
+# Aminobacterium colombiense Baena et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

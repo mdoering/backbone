@@ -1,5 +1,4 @@
-Sargassum prolongatum Okamura SPECIES
-=======
+# Sargassum prolongatum Okamura SPECIES
 
 #### Status
 ACCEPTED

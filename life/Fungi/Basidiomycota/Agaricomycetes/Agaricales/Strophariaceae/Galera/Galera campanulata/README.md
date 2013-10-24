@@ -1,5 +1,4 @@
-Galera campanulata Massee SPECIES
-=======
+# Galera campanulata Massee SPECIES
 
 #### Status
 ACCEPTED

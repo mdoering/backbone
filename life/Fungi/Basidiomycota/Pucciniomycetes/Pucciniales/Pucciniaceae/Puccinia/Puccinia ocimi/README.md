@@ -1,5 +1,4 @@
-Puccinia ocimi Doidge SPECIES
-=======
+# Puccinia ocimi Doidge SPECIES
 
 #### Status
 ACCEPTED

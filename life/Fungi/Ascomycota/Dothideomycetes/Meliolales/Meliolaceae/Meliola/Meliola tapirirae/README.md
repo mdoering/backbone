@@ -1,5 +1,4 @@
-Meliola tapirirae F. Stevens & Tehon SPECIES
-=======
+# Meliola tapirirae F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

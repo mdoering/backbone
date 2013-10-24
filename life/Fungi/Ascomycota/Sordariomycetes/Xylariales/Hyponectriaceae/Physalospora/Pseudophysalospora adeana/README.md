@@ -1,5 +1,4 @@
-Pseudophysalospora adeana (Rehm) Höhn. SPECIES
-=======
+# Pseudophysalospora adeana (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

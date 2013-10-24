@@ -1,5 +1,4 @@
-Scyphidia macropodia SPECIES
-=======
+# Scyphidia macropodia SPECIES
 
 #### Status
 ACCEPTED

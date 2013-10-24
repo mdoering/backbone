@@ -1,5 +1,4 @@
-Pistillaria mucoroides Boud. SPECIES
-=======
+# Pistillaria mucoroides Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius volkertii Murrill SPECIES
-=======
+# Lactarius volkertii Murrill SPECIES
 
 #### Status
 ACCEPTED

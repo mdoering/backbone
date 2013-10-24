@@ -1,5 +1,4 @@
-Scytinostroma cystidiatum Boidin, 1960 SPECIES
-=======
+# Scytinostroma cystidiatum Boidin, 1960 SPECIES
 
 #### Status
 ACCEPTED

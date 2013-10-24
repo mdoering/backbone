@@ -1,5 +1,4 @@
-Balantidium medusarum Mereschkowsky, 1879 SPECIES
-=======
+# Balantidium medusarum Mereschkowsky, 1879 SPECIES
 
 #### Status
 ACCEPTED

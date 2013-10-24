@@ -1,5 +1,4 @@
-Stereocaulon subdenudatum Hav. SPECIES
-=======
+# Stereocaulon subdenudatum Hav. SPECIES
 
 #### Status
 ACCEPTED

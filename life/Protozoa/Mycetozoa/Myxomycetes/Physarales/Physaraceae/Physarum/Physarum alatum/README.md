@@ -1,5 +1,4 @@
-Physarum alatum Fr. SPECIES
-=======
+# Physarum alatum Fr. SPECIES
 
 #### Status
 ACCEPTED

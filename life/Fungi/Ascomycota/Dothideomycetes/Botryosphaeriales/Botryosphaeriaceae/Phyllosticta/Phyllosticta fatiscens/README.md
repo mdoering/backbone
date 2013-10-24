@@ -1,5 +1,4 @@
-Phyllosticta fatiscens Peck SPECIES
-=======
+# Phyllosticta fatiscens Peck SPECIES
 
 #### Status
 ACCEPTED

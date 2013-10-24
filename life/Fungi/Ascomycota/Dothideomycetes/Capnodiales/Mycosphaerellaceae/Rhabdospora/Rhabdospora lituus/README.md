@@ -1,5 +1,4 @@
-Rhabdospora lituus (Berk. & Broome) Sacc. SPECIES
-=======
+# Rhabdospora lituus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

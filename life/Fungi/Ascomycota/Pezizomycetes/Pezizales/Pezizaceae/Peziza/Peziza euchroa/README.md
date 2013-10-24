@@ -1,5 +1,4 @@
-Peziza euchroa P. Karst. SPECIES
-=======
+# Peziza euchroa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

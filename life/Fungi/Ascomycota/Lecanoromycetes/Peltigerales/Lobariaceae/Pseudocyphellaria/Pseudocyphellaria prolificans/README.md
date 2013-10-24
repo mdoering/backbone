@@ -1,17 +1,16 @@
-Pseudocyphellaria prolificans var. prolificans VARIETY
-=======
+# Pseudocyphellaria prolificans (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Philipp. J. Sci. , C, Bot. 8: 116 (1913)
 
 #### Original name
-Pseudocyphellaria prolificans var. prolificans
+Sticta prolificans Nyl.
 
 ### Remarks
 null

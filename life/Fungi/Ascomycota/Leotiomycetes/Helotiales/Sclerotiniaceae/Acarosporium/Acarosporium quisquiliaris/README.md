@@ -1,5 +1,4 @@
-Acarosporium quisquiliaris W.L. White & Whetzel ex B. Sutton SPECIES
-=======
+# Acarosporium quisquiliaris W.L. White & Whetzel ex B. Sutton SPECIES
 
 #### Status
 ACCEPTED

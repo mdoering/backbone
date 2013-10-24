@@ -1,5 +1,4 @@
-Coccocarpia duidensis V. Marcano, Galiz & A. Morales SPECIES
-=======
+# Coccocarpia duidensis V. Marcano, Galiz & A. Morales SPECIES
 
 #### Status
 ACCEPTED

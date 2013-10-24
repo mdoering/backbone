@@ -1,5 +1,4 @@
-Sphaeria petiolorum Schwein. SPECIES
-=======
+# Sphaeria petiolorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

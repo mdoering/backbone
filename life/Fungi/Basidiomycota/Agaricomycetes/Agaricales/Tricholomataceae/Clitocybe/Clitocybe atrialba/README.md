@@ -1,5 +1,4 @@
-Clitocybe atrialba Murrill SPECIES
-=======
+# Clitocybe atrialba Murrill SPECIES
 
 #### Status
 ACCEPTED

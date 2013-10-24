@@ -1,5 +1,4 @@
-Tintinnopsis turbinata Balech, 1948 SPECIES
-=======
+# Tintinnopsis turbinata Balech, 1948 SPECIES
 
 #### Status
 ACCEPTED

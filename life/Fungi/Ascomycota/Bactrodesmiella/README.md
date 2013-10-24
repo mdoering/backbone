@@ -1,5 +1,4 @@
-Bactrodesmiella M.B. Ellis GENUS
-=======
+# Bactrodesmiella M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

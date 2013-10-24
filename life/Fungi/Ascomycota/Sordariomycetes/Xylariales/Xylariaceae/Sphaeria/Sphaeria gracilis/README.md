@@ -1,5 +1,4 @@
-Sphaeria gracilis Klotzsch ex Berk. SPECIES
-=======
+# Sphaeria gracilis Klotzsch ex Berk. SPECIES
 
 #### Status
 ACCEPTED

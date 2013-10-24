@@ -1,5 +1,4 @@
-Diaporthe incompta Sacc. SPECIES
-=======
+# Diaporthe incompta Sacc. SPECIES
 
 #### Status
 ACCEPTED

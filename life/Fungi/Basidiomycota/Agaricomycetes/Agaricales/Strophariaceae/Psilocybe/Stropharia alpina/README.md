@@ -1,5 +1,4 @@
-Stropharia alpina (M. Lange) M. Lange SPECIES
-=======
+# Stropharia alpina (M. Lange) M. Lange SPECIES
 
 #### Status
 ACCEPTED

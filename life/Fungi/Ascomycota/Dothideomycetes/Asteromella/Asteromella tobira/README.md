@@ -1,5 +1,4 @@
-Asteromella tobira (Gucevic) Aa & Vanev SPECIES
-=======
+# Asteromella tobira (Gucevic) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta genipae Bat. SPECIES
-=======
+# Phyllosticta genipae Bat. SPECIES
 
 #### Status
 ACCEPTED

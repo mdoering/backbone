@@ -1,5 +1,4 @@
-Ammobaculites fragmentaria Cushman, 1927 SPECIES
-=======
+# Ammobaculites fragmentaria Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

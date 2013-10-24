@@ -1,5 +1,4 @@
-Cellypha arenosa W.B. Cooke SPECIES
-=======
+# Cellypha arenosa W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

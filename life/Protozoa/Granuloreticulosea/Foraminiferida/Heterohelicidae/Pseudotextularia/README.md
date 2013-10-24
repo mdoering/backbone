@@ -1,5 +1,4 @@
-Pseudotextularia Rzehak, 1885 GENUS
-=======
+# Pseudotextularia Rzehak, 1885 GENUS
 
 #### Status
 ACCEPTED

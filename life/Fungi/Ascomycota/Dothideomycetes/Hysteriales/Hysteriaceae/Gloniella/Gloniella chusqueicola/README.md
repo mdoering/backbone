@@ -1,5 +1,4 @@
-Gloniella chusqueicola Henn. SPECIES
-=======
+# Gloniella chusqueicola Henn. SPECIES
 
 #### Status
 ACCEPTED

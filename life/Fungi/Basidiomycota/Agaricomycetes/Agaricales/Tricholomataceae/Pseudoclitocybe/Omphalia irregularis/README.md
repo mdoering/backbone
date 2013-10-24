@@ -1,5 +1,4 @@
-Omphalia irregularis Rick SPECIES
-=======
+# Omphalia irregularis Rick SPECIES
 
 #### Status
 ACCEPTED

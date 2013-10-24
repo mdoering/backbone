@@ -1,5 +1,4 @@
-Cetrelia sayanensis Otnyukova, Stepanov & Elix SPECIES
-=======
+# Cetrelia sayanensis Otnyukova, Stepanov & Elix SPECIES
 
 #### Status
 ACCEPTED

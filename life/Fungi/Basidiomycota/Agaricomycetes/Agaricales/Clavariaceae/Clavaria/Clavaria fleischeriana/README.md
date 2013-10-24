@@ -1,5 +1,4 @@
-Clavaria fleischeriana Henn. SPECIES
-=======
+# Clavaria fleischeriana Henn. SPECIES
 
 #### Status
 ACCEPTED

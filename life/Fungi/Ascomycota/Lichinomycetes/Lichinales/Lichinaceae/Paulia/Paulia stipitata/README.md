@@ -1,5 +1,4 @@
-Paulia stipitata Henssen SPECIES
-=======
+# Paulia stipitata Henssen SPECIES
 
 #### Status
 ACCEPTED

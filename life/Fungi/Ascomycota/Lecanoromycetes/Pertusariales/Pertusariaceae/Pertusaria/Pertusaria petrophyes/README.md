@@ -1,17 +1,16 @@
-Pertusaria leucoxantha Müll. Arg. SPECIES
-=======
+# Pertusaria petrophyes C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 637 (1895)
+Trans. Linn. Soc. London, Bot. 2: 47 (1882)
 
 #### Original name
-Pertusaria leucoxantha Müll. Arg.
+Pertusaria petrophyes C. Knight
 
 ### Remarks
 null

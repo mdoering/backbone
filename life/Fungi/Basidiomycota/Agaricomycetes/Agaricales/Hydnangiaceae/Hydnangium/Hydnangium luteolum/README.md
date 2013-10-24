@@ -1,5 +1,4 @@
-Hydnangium luteolum Harkn. SPECIES
-=======
+# Hydnangium luteolum Harkn. SPECIES
 
 #### Status
 ACCEPTED

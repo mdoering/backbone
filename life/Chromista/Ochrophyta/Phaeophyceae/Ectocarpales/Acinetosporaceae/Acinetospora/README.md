@@ -1,5 +1,4 @@
-Acinetospora Bornet, 1891 GENUS
-=======
+# Acinetospora Bornet, 1891 GENUS
 
 #### Status
 ACCEPTED

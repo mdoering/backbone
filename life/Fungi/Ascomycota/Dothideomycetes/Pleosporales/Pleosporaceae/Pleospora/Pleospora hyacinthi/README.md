@@ -1,5 +1,4 @@
-Pleospora hyacinthi Sorauer SPECIES
-=======
+# Pleospora hyacinthi Sorauer SPECIES
 
 #### Status
 ACCEPTED

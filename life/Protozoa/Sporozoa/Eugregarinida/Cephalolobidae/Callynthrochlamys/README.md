@@ -1,5 +1,4 @@
-Callynthrochlamys Frenzel, 1885 GENUS
-=======
+# Callynthrochlamys Frenzel, 1885 GENUS
 
 #### Status
 ACCEPTED

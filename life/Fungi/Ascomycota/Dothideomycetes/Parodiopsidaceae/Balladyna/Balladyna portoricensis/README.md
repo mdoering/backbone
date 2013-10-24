@@ -1,5 +1,4 @@
-Balladyna portoricensis (F. Stevens & Dalbey) Arx SPECIES
-=======
+# Balladyna portoricensis (F. Stevens & Dalbey) Arx SPECIES
 
 #### Status
 ACCEPTED

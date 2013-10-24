@@ -1,5 +1,4 @@
-Gaeumanniella singularis Petr., 1952 SPECIES
-=======
+# Gaeumanniella singularis Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

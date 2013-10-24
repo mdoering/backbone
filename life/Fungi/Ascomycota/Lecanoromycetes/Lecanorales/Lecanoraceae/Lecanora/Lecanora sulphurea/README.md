@@ -1,14 +1,13 @@
-Lecidea sulphurea f. sulphurea FORM
-=======
+# Lecanora sulphurea (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. lapp. 477 (1812)
+Lich. univ. 339 (1810)
 
 #### Original name
 Verrucaria sulphurea Hoffm.

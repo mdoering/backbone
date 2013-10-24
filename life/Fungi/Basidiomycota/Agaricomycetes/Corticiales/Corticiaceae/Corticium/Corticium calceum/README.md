@@ -1,5 +1,4 @@
-Corticium calceum var. calceum VARIETY
-=======
+# Corticium calceum Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Corticium calceum var. calceum
+Corticium calceum Quél.
 
 ### Remarks
 null

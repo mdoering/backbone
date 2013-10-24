@@ -1,5 +1,4 @@
-Pleothelis myriocarpa M. Choisy SPECIES
-=======
+# Pleothelis myriocarpa M. Choisy SPECIES
 
 #### Status
 ACCEPTED

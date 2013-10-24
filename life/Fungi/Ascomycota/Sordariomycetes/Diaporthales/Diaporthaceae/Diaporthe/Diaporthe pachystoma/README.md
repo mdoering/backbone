@@ -1,5 +1,4 @@
-Diaporthe pachystoma (Lév.) Sacc. SPECIES
-=======
+# Diaporthe pachystoma (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

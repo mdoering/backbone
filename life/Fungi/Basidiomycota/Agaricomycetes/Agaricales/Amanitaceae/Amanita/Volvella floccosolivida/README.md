@@ -1,5 +1,4 @@
-Volvella floccosolivida (Beeli) E.-J. Gilbert & Beeli SPECIES
-=======
+# Volvella floccosolivida (Beeli) E.-J. Gilbert & Beeli SPECIES
 
 #### Status
 ACCEPTED

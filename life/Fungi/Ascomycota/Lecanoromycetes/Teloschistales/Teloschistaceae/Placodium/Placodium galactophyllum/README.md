@@ -1,5 +1,4 @@
-Placodium galactophyllum Tuck. SPECIES
-=======
+# Placodium galactophyllum Tuck. SPECIES
 
 #### Status
 ACCEPTED

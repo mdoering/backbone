@@ -1,5 +1,4 @@
-Amerosporium ilicinum Ellis & Everh. SPECIES
-=======
+# Amerosporium ilicinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe bambusae Pat. SPECIES
-=======
+# Diaporthe bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylococcus capsulatus Foster and Davis, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Methylococcus capsulatus Foster and Davis, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

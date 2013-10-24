@@ -1,5 +1,4 @@
-Aspergillus mycobanche (Pers.) Link SPECIES
-=======
+# Aspergillus mycobanche (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

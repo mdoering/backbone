@@ -1,5 +1,4 @@
-Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919 (Approved Lists, 1980) SPECIES
-=======
+# Escherichia coli (Migula, 1895) Castellani and Chalmers, 1919 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

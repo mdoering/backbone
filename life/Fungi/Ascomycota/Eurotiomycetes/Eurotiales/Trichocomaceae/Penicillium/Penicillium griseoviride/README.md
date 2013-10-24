@@ -1,5 +1,4 @@
-Penicillium griseoviride Svilv. SPECIES
-=======
+# Penicillium griseoviride Svilv. SPECIES
 
 #### Status
 ACCEPTED

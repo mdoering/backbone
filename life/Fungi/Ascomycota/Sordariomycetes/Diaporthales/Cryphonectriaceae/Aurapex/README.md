@@ -1,5 +1,4 @@
-Aurapex Gryzenh. & M.J. Wingf. GENUS
-=======
+# Aurapex Gryzenh. & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

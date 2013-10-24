@@ -1,17 +1,16 @@
-Puccinia absinthii var. absinthii VARIETY
-=======
+# Puccinia chrysanthemi Roze, 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encycl. Méth. Bot. 8: 245 (1806)
+Bull. Soc. mycol. Fr. 16: 92 (1900)
 
 #### Original name
-Puccinia absinthii var. absinthii
+Puccinia chrysanthemi Roze, 1900
 
 ### Remarks
 null

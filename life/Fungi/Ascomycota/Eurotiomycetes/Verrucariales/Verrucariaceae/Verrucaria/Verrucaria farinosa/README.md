@@ -1,5 +1,4 @@
-Verrucaria farinosa Hoffm. SPECIES
-=======
+# Verrucaria farinosa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

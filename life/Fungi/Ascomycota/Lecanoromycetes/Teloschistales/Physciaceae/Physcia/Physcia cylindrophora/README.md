@@ -1,5 +1,4 @@
-Physcia cylindrophora (Taylor) Nyl. SPECIES
-=======
+# Physcia cylindrophora (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

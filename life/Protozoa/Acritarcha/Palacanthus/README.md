@@ -1,5 +1,4 @@
-Palacanthus E.R. Wicander, 1974 GENUS
-=======
+# Palacanthus E.R. Wicander, 1974 GENUS
 
 #### Status
 ACCEPTED

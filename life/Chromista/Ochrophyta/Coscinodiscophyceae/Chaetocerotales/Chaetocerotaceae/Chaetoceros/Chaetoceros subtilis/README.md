@@ -1,11 +1,10 @@
-Chaetoceros subtilis f. simplex Proshkina-Lavrenko FORM
-=======
+# Chaetoceros subtilis Cleve SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Perisporium fimeti Berk. & M.A. Curtis SPECIES
-=======
+# Perisporium fimeti Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

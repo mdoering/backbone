@@ -1,5 +1,4 @@
-Dactylella piriformis (Preuss) Sacc. SPECIES
-=======
+# Dactylella piriformis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

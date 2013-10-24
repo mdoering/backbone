@@ -1,5 +1,4 @@
-Setophiale Matsush. GENUS
-=======
+# Setophiale Matsush. GENUS
 
 #### Status
 ACCEPTED

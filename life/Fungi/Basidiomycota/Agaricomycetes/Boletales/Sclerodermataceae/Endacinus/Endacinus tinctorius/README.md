@@ -1,5 +1,4 @@
-Endacinus tinctorius Raf. SPECIES
-=======
+# Endacinus tinctorius Raf. SPECIES
 
 #### Status
 ACCEPTED

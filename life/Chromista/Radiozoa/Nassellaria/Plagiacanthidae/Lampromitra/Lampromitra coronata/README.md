@@ -1,8 +1,7 @@
-Sethophormis pentalactis Haeckel, 1887 SPECIES
-=======
+# Lampromitra coronata Haeckel, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Microthyrium quercus Fuckel SPECIES
-=======
+# Microthyrium quercus Fuckel SPECIES
 
 #### Status
 ACCEPTED

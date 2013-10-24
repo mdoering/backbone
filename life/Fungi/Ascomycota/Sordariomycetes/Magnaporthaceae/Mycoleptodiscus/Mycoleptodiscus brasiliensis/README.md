@@ -1,5 +1,4 @@
-Mycoleptodiscus brasiliensis B. Sutton & Hodges SPECIES
-=======
+# Mycoleptodiscus brasiliensis B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

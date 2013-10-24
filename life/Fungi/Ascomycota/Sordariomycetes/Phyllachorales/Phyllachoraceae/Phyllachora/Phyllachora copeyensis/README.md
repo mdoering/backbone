@@ -1,17 +1,16 @@
-Phyllachora juruensis var. minima F. Stevens, 1927 VARIETY
-=======
+# Phyllachora copeyensis Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 187 (1927)
+Hedwigia 41: 103 (1902)
 
 #### Original name
-Phyllachora juruensis var. minima F. Stevens, 1927
+Phyllachora copeyensis Henn., 1902
 
 ### Remarks
 null

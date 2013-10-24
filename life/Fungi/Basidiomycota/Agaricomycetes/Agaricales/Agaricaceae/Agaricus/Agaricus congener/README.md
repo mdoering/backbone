@@ -1,5 +1,4 @@
-Agaricus congener Schumach. SPECIES
-=======
+# Agaricus congener Schumach. SPECIES
 
 #### Status
 ACCEPTED

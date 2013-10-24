@@ -1,5 +1,4 @@
-Syncephalis rapacea Indoh, 1962 SPECIES
-=======
+# Syncephalis rapacea Indoh, 1962 SPECIES
 
 #### Status
 ACCEPTED

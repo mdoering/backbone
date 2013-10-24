@@ -1,5 +1,4 @@
-Astraeus odoratus Phosri, Watling, M.P. Martín & Whalley, 2004 SPECIES
-=======
+# Astraeus odoratus Phosri, Watling, M.P. Martín & Whalley, 2004 SPECIES
 
 #### Status
 ACCEPTED

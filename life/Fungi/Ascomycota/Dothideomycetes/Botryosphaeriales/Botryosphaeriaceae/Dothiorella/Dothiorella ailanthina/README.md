@@ -1,5 +1,4 @@
-Dothiorella ailanthina Sacc. SPECIES
-=======
+# Dothiorella ailanthina Sacc. SPECIES
 
 #### Status
 ACCEPTED

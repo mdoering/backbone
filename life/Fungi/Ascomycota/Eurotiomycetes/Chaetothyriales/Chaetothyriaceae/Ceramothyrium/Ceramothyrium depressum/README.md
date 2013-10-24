@@ -1,5 +1,4 @@
-Ceramothyrium depressum (L.R. Fraser) Bat. SPECIES
-=======
+# Ceramothyrium depressum (L.R. Fraser) Bat. SPECIES
 
 #### Status
 ACCEPTED

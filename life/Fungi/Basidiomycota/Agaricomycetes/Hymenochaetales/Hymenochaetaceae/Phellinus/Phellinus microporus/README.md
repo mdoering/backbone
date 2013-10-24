@@ -1,5 +1,4 @@
-Phellinus microporus (Pilát) Parmasto & I. Parmasto SPECIES
-=======
+# Phellinus microporus (Pilát) Parmasto & I. Parmasto SPECIES
 
 #### Status
 ACCEPTED

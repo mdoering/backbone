@@ -1,5 +1,4 @@
-Arbor Schröder, Medioli & Scott, 1989 GENUS
-=======
+# Arbor Schröder, Medioli & Scott, 1989 GENUS
 
 #### Status
 ACCEPTED

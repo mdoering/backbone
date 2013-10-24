@@ -1,5 +1,4 @@
-Puccinia mammillata J. Schröt. SPECIES
-=======
+# Puccinia mammillata J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

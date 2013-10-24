@@ -1,5 +1,4 @@
-Discoaster broennimannii Stradner, 1961 SPECIES
-=======
+# Discoaster broennimannii Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

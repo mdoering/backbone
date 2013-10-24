@@ -1,5 +1,4 @@
-Rhopographus clavisporus (Cooke & Peck) Sacc. SPECIES
-=======
+# Rhopographus clavisporus (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleistophora kudoi J. Weiser SPECIES
-=======
+# Pleistophora kudoi J. Weiser SPECIES
 
 #### Status
 ACCEPTED

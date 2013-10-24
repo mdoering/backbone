@@ -1,5 +1,4 @@
-Septoria tomates Speg. SPECIES
-=======
+# Septoria tomates Speg. SPECIES
 
 #### Status
 ACCEPTED

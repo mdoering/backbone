@@ -1,5 +1,4 @@
-Venturia anemones E. Müll., 1955 SPECIES
-=======
+# Venturia anemones E. Müll., 1955 SPECIES
 
 #### Status
 ACCEPTED

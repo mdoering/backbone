@@ -1,5 +1,4 @@
-Hypochnus euphrasiae Lagerh. SPECIES
-=======
+# Hypochnus euphrasiae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

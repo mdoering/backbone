@@ -1,5 +1,4 @@
-Bacidia brouardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Bacidia brouardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

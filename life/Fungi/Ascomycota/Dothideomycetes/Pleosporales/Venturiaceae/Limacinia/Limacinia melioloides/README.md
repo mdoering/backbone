@@ -1,5 +1,4 @@
-Limacinia melioloides var. melioloides VARIETY
-=======
+# Limacinia melioloides (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

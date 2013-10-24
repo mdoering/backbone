@@ -1,5 +1,4 @@
-Boletus angustisporus T.H. Li & Watling SPECIES
-=======
+# Boletus angustisporus T.H. Li & Watling SPECIES
 
 #### Status
 ACCEPTED

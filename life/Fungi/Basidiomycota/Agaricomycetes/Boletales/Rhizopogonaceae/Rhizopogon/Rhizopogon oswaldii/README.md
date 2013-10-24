@@ -1,5 +1,4 @@
-Rhizopogon oswaldii A.H. Sm. SPECIES
-=======
+# Rhizopogon oswaldii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

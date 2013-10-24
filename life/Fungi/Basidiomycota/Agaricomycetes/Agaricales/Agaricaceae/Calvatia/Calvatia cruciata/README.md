@@ -1,5 +1,4 @@
-Calvatia cruciata (Rostk.) Fr. SPECIES
-=======
+# Calvatia cruciata (Rostk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

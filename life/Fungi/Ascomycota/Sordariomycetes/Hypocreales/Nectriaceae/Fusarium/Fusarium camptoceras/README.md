@@ -1,5 +1,4 @@
-Fusarium camptoceras Wollenw. & Reinking, 1925 SPECIES
-=======
+# Fusarium camptoceras Wollenw. & Reinking, 1925 SPECIES
 
 #### Status
 ACCEPTED

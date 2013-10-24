@@ -1,5 +1,4 @@
-Sclerotites cinnamomi (Heer) Mesch. SPECIES
-=======
+# Sclerotites cinnamomi (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

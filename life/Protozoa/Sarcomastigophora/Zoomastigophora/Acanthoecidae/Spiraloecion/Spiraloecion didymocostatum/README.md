@@ -1,5 +1,4 @@
-Spiraloecion didymocostatum Marchant & Perrin, 1986 SPECIES
-=======
+# Spiraloecion didymocostatum Marchant & Perrin, 1986 SPECIES
 
 #### Status
 ACCEPTED

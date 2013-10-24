@@ -1,5 +1,4 @@
-Hormiscium undulatum McAlpine SPECIES
-=======
+# Hormiscium undulatum McAlpine SPECIES
 
 #### Status
 ACCEPTED

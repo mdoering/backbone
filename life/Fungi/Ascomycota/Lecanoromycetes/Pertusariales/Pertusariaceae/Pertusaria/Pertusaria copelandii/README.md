@@ -1,5 +1,4 @@
-Pertusaria copelandii Vain. SPECIES
-=======
+# Pertusaria copelandii Vain. SPECIES
 
 #### Status
 ACCEPTED

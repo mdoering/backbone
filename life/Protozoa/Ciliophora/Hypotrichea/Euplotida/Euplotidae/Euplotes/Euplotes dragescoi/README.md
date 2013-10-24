@@ -1,5 +1,4 @@
-Euplotes dragescoi Song & Wilbert, 2008 SPECIES
-=======
+# Euplotes dragescoi Song & Wilbert, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria friesii Laessøe, 1992 SPECIES
-=======
+# Xylaria friesii Laessøe, 1992 SPECIES
 
 #### Status
 ACCEPTED

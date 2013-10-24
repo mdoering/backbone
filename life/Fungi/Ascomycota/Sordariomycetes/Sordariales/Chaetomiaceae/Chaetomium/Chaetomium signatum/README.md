@@ -1,5 +1,4 @@
-Chaetomium signatum Preuss SPECIES
-=======
+# Chaetomium signatum Preuss SPECIES
 
 #### Status
 ACCEPTED

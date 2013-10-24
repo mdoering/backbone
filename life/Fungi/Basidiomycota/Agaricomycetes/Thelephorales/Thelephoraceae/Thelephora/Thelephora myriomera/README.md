@@ -1,5 +1,4 @@
-Thelephora myriomera Fr. SPECIES
-=======
+# Thelephora myriomera Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma schweinfurthii Bres. SPECIES
-=======
+# Tulostoma schweinfurthii Bres. SPECIES
 
 #### Status
 ACCEPTED

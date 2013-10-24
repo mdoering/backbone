@@ -1,5 +1,4 @@
-Parmelia leptophylla Müll. Arg. SPECIES
-=======
+# Parmelia leptophylla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

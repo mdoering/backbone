@@ -1,5 +1,4 @@
-Pezizella crispa (Cooke & W. Phillips) Sacc., 1889 SPECIES
-=======
+# Pezizella crispa (Cooke & W. Phillips) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

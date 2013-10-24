@@ -1,5 +1,4 @@
-Fomes longinquus Lloyd SPECIES
-=======
+# Fomes longinquus Lloyd SPECIES
 
 #### Status
 ACCEPTED

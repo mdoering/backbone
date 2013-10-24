@@ -1,5 +1,4 @@
-Diplodina macrospora Ellis & Everh. SPECIES
-=======
+# Diplodina macrospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

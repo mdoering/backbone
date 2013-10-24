@@ -1,5 +1,4 @@
-Metasphaeria cognata SPECIES
-=======
+# Metasphaeria cognata SPECIES
 
 #### Status
 ACCEPTED

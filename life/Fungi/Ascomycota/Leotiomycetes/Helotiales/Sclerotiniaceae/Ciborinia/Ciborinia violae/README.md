@@ -1,5 +1,4 @@
-Ciborinia violae L.R. Batra & Korf SPECIES
-=======
+# Ciborinia violae L.R. Batra & Korf SPECIES
 
 #### Status
 ACCEPTED

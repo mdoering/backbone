@@ -1,5 +1,4 @@
-Rhizophydium amoebae Karling, 1946 SPECIES
-=======
+# Rhizophydium amoebae Karling, 1946 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligostroma graphis (A.L. Sm.) Theiss. & Syd. SPECIES
-=======
+# Oligostroma graphis (A.L. Sm.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

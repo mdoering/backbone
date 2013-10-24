@@ -1,5 +1,4 @@
-Exobasidium ledi P. Karst. SPECIES
-=======
+# Exobasidium ledi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

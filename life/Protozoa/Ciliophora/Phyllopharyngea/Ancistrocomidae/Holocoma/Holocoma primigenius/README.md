@@ -1,5 +1,4 @@
-Holocoma primigenius Chatton & Lwoff, 1950 SPECIES
-=======
+# Holocoma primigenius Chatton & Lwoff, 1950 SPECIES
 
 #### Status
 ACCEPTED

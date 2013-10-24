@@ -1,5 +1,4 @@
-Spongiostoma Carter in Carter, Cameron & Smith, 1988 GENUS
-=======
+# Spongiostoma Carter in Carter, Cameron & Smith, 1988 GENUS
 
 #### Status
 ACCEPTED

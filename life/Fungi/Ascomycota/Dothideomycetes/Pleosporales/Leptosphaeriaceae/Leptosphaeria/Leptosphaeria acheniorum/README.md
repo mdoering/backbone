@@ -1,5 +1,4 @@
-Leptosphaeria acheniorum Starbäck SPECIES
-=======
+# Leptosphaeria acheniorum Starbäck SPECIES
 
 #### Status
 ACCEPTED

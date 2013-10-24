@@ -1,17 +1,16 @@
-Flabellaria Persoon, 1818 GENUS
-=======
+# Schizophyllum E.M. Fries, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Traité sur les Champignons Comestibles (Paris) 105 (1818)
+Observ. mycol. (Havniae) 1: 103 (1815)
 
 #### Original name
-Flabellaria Persoon, 1818
+Schizophyllum E.M. Fries, 1815
 
 ### Remarks
 null

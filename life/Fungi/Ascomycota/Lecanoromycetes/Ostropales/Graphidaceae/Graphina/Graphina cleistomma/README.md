@@ -1,5 +1,4 @@
-Graphina cleistomma (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina cleistomma (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

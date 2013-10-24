@@ -1,14 +1,13 @@
-Stereum friesii (Lév.) Sacc., 1888 SPECIES
-=======
+# Hjortstamia friesii (Lév.) Boidin & Gilles, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 566 (1888)
+Bull. Soc. mycol. Fr. 118(2): 99 (2003)
 
 #### Original name
 Thelephora friesii Lév., 1854

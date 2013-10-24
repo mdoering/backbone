@@ -1,5 +1,4 @@
-Euglena proxima P.A. Dangeard SPECIES
-=======
+# Euglena proxima P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

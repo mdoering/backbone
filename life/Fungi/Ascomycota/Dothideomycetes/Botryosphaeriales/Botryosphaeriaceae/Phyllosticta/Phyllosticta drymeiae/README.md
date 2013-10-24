@@ -1,5 +1,4 @@
-Phyllosticta drymeiae Höhn. SPECIES
-=======
+# Phyllosticta drymeiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

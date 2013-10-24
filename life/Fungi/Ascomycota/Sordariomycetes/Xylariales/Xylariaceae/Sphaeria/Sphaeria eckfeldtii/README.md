@@ -1,5 +1,4 @@
-Sphaeria eckfeldtii Ellis SPECIES
-=======
+# Sphaeria eckfeldtii Ellis SPECIES
 
 #### Status
 ACCEPTED

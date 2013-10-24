@@ -1,5 +1,4 @@
-Entoloma blandum Corner & E. Horak SPECIES
-=======
+# Entoloma blandum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

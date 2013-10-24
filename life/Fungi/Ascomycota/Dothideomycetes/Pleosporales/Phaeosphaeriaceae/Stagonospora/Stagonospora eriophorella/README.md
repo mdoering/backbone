@@ -1,5 +1,4 @@
-Stagonospora eriophorella (Sacc.) Lind SPECIES
-=======
+# Stagonospora eriophorella (Sacc.) Lind SPECIES
 
 #### Status
 ACCEPTED

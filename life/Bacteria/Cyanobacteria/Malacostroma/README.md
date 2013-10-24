@@ -1,5 +1,4 @@
-Malacostroma G. Gürich, 1906 GENUS
-=======
+# Malacostroma G. Gürich, 1906 GENUS
 
 #### Status
 ACCEPTED

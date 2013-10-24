@@ -1,5 +1,4 @@
-Monilia allii Baudy SPECIES
-=======
+# Monilia allii Baudy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia nigrocincta Riddle SPECIES
-=======
+# Blastenia nigrocincta Riddle SPECIES
 
 #### Status
 ACCEPTED

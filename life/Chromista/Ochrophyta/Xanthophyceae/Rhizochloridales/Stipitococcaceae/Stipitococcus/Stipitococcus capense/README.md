@@ -1,5 +1,4 @@
-Stipitococcus capense Prescott SPECIES
-=======
+# Stipitococcus capense Prescott SPECIES
 
 #### Status
 ACCEPTED

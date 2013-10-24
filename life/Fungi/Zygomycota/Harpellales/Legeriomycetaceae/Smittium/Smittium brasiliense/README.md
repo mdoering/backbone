@@ -1,5 +1,4 @@
-Smittium brasiliense Alencar, Lichtw., Ríos-Velásquez & Hamada, 2003 SPECIES
-=======
+# Smittium brasiliense Alencar, Lichtw., Ríos-Velásquez & Hamada, 2003 SPECIES
 
 #### Status
 ACCEPTED

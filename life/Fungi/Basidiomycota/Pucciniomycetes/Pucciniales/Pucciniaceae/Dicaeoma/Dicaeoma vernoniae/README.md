@@ -1,5 +1,4 @@
-Dicaeoma vernoniae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma vernoniae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

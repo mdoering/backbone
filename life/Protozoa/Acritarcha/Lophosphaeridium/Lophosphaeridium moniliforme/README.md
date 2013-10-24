@@ -1,5 +1,4 @@
-Lophosphaeridium moniliforme Sheshegova, 1984 SPECIES
-=======
+# Lophosphaeridium moniliforme Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

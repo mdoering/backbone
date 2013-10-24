@@ -1,5 +1,4 @@
-Rhizomorphites intertextus (Sternb.) Göpp. ex Trevis. SPECIES
-=======
+# Rhizomorphites intertextus (Sternb.) Göpp. ex Trevis. SPECIES
 
 #### Status
 ACCEPTED

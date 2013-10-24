@@ -1,5 +1,4 @@
-Leciographa decipiens Grelet SPECIES
-=======
+# Leciographa decipiens Grelet SPECIES
 
 #### Status
 ACCEPTED

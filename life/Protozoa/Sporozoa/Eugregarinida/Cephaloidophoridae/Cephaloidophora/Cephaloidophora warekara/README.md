@@ -1,5 +1,4 @@
-Cephaloidophora warekara Hoshide, 1969 SPECIES
-=======
+# Cephaloidophora warekara Hoshide, 1969 SPECIES
 
 #### Status
 ACCEPTED

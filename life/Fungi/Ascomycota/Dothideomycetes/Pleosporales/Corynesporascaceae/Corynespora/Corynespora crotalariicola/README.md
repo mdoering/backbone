@@ -1,5 +1,4 @@
-Corynespora crotalariicola N. Sharma & S. Srivast. SPECIES
-=======
+# Corynespora crotalariicola N. Sharma & S. Srivast. SPECIES
 
 #### Status
 ACCEPTED

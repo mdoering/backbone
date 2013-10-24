@@ -1,5 +1,4 @@
-Physalospora prasiolae Har., 1887 SPECIES
-=======
+# Physalospora prasiolae Har., 1887 SPECIES
 
 #### Status
 ACCEPTED

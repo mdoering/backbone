@@ -1,5 +1,4 @@
-Scolicotrichum Kunze GENUS
-=======
+# Scolicotrichum Kunze GENUS
 
 #### Status
 ACCEPTED

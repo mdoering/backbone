@@ -1,5 +1,4 @@
-Tettigorhyza atopos G. Bertol. SPECIES
-=======
+# Tettigorhyza atopos G. Bertol. SPECIES
 
 #### Status
 ACCEPTED

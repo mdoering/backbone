@@ -1,5 +1,4 @@
-Fabibacter Lau, Tsoi, Li, Plakhotnikova, Dobretsov, Wu, Wong, Pawlik & Qian, 2006 GENUS
-=======
+# Fabibacter Lau, Tsoi, Li, Plakhotnikova, Dobretsov, Wu, Wong, Pawlik & Qian, 2006 GENUS
 
 #### Status
 ACCEPTED

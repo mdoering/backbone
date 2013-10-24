@@ -1,5 +1,4 @@
-Papulaspora equi Shadomy & D.M. Dixon, 1989 SPECIES
-=======
+# Papulaspora equi Shadomy & D.M. Dixon, 1989 SPECIES
 
 #### Status
 ACCEPTED

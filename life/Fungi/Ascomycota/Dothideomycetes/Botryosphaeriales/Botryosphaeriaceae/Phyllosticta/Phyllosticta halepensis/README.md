@@ -1,5 +1,4 @@
-Phyllosticta halepensis Unamuno SPECIES
-=======
+# Phyllosticta halepensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

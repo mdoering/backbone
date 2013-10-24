@@ -1,5 +1,4 @@
-Stilbella acerina Overh., 1943 SPECIES
-=======
+# Stilbella acerina Overh., 1943 SPECIES
 
 #### Status
 ACCEPTED

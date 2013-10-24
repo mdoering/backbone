@@ -1,5 +1,4 @@
-Broinsonia Bukry, 1969 GENUS
-=======
+# Broinsonia Bukry, 1969 GENUS
 
 #### Status
 ACCEPTED

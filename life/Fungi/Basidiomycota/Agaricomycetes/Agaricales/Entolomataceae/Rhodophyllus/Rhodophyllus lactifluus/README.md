@@ -1,5 +1,4 @@
-Rhodophyllus lactifluus R. Heim SPECIES
-=======
+# Rhodophyllus lactifluus R. Heim SPECIES
 
 #### Status
 ACCEPTED

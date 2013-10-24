@@ -1,5 +1,4 @@
-Agaricus alabamensis Murrill SPECIES
-=======
+# Agaricus alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

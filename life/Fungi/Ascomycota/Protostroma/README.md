@@ -1,5 +1,4 @@
-Protostroma Bat. GENUS
-=======
+# Protostroma Bat. GENUS
 
 #### Status
 ACCEPTED

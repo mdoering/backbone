@@ -1,5 +1,4 @@
-Calvatia sporocristata Calonge SPECIES
-=======
+# Calvatia sporocristata Calonge SPECIES
 
 #### Status
 ACCEPTED

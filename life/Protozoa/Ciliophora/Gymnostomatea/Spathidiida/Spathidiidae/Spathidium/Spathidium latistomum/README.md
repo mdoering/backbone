@@ -1,5 +1,4 @@
-Spathidium latistomum SPECIES
-=======
+# Spathidium latistomum SPECIES
 
 #### Status
 ACCEPTED

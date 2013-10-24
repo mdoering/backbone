@@ -1,5 +1,4 @@
-Gloeosporium ilicis Dearn. SPECIES
-=======
+# Gloeosporium ilicis Dearn. SPECIES
 
 #### Status
 ACCEPTED

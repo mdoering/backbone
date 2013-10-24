@@ -1,5 +1,4 @@
-Neotrichophyton GENUS
-=======
+# Neotrichophyton GENUS
 
 #### Status
 ACCEPTED

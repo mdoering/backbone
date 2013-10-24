@@ -1,5 +1,4 @@
-Tiarina Berg, 1881 GENUS
-=======
+# Tiarina Berg, 1881 GENUS
 
 #### Status
 ACCEPTED

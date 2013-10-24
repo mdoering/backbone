@@ -1,5 +1,4 @@
-Lecidea cladonioica Nyl. SPECIES
-=======
+# Lecidea cladonioica Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium polypodii Aggéry SPECIES
-=======
+# Gloeosporium polypodii Aggéry SPECIES
 
 #### Status
 ACCEPTED

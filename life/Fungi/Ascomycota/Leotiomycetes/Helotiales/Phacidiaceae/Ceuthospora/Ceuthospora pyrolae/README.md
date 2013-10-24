@@ -1,5 +1,4 @@
-Ceuthospora pyrolae (P. Karst.) Höhn. SPECIES
-=======
+# Ceuthospora pyrolae (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

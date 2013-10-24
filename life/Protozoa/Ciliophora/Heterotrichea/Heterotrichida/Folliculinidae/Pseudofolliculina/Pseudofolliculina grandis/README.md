@@ -1,5 +1,4 @@
-Pseudofolliculina grandis Jankowski, 1992 SPECIES
-=======
+# Pseudofolliculina grandis Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Endomycopsis fibuliger var. fibuliger (Lindner) Stell.-Dekk., 1931 VARIETY
-=======
+# Saccharomycopsis fibuligera (Lindner) Klöcker, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

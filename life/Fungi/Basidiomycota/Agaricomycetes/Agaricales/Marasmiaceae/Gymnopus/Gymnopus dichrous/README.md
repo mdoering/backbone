@@ -1,5 +1,4 @@
-Gymnopus dichrous (Berk. & M.A. Curtis) Halling SPECIES
-=======
+# Gymnopus dichrous (Berk. & M.A. Curtis) Halling SPECIES
 
 #### Status
 ACCEPTED

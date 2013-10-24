@@ -1,5 +1,4 @@
-Agrocybe collybiiformis (Murrill) Singer SPECIES
-=======
+# Agrocybe collybiiformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

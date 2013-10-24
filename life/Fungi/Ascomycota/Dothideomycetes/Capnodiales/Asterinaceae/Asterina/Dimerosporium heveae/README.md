@@ -1,5 +1,4 @@
-Dimerosporium heveae Charles SPECIES
-=======
+# Dimerosporium heveae Charles SPECIES
 
 #### Status
 ACCEPTED

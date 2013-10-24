@@ -1,5 +1,4 @@
-Endophragmiella latifusiformis Matsush. SPECIES
-=======
+# Endophragmiella latifusiformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

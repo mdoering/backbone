@@ -1,5 +1,4 @@
-Plicaria discolor Velen. SPECIES
-=======
+# Plicaria discolor Velen. SPECIES
 
 #### Status
 ACCEPTED

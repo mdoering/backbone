@@ -1,5 +1,4 @@
-Fusarium fuckelii Sacc. SPECIES
-=======
+# Fusarium fuckelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

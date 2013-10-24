@@ -1,5 +1,4 @@
-Chlorosplenium cinereoalba Rehm SPECIES
-=======
+# Chlorosplenium cinereoalba Rehm SPECIES
 
 #### Status
 ACCEPTED

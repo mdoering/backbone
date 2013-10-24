@@ -1,5 +1,4 @@
-Aspicilia prini B. de Lesd. SPECIES
-=======
+# Aspicilia prini B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

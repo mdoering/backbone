@@ -1,5 +1,4 @@
-Goidanichiella sphaerospora Matsush. SPECIES
-=======
+# Goidanichiella sphaerospora Matsush. SPECIES
 
 #### Status
 ACCEPTED

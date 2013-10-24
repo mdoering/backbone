@@ -1,5 +1,4 @@
-Meliola didymopanacis var. didymopanacis VARIETY
-=======
+# Meliola didymopanacis Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 34: 106 (1895)
 
 #### Original name
-Meliola didymopanacis var. didymopanacis
+Meliola didymopanacis Henn.
 
 ### Remarks
 null

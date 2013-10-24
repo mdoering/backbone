@@ -1,5 +1,4 @@
-Phaeoseptoria musae Punith., 1977 SPECIES
-=======
+# Phaeoseptoria musae Punith., 1977 SPECIES
 
 #### Status
 ACCEPTED

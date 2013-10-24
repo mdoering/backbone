@@ -1,14 +1,13 @@
-Verrucaria subcoerulescens Nyl. SPECIES
-=======
+# Mycoglaena subcoerulescens (Nyl.) Höhn., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 55: 362 (1872)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 55 (1909)
 
 #### Original name
 Verrucaria subcoerulescens Nyl.

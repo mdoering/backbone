@@ -1,5 +1,4 @@
-Helotium guaranitica Speg. SPECIES
-=======
+# Helotium guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

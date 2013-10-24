@@ -1,5 +1,4 @@
-Achlyella flahaultii Lagerh., 1890 SPECIES
-=======
+# Achlyella flahaultii Lagerh., 1890 SPECIES
 
 #### Status
 ACCEPTED

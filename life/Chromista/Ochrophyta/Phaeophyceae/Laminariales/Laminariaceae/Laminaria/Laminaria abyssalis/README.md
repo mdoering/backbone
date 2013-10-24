@@ -1,5 +1,4 @@
-Laminaria abyssalis A.B. Joly & E.C.Oliveira SPECIES
-=======
+# Laminaria abyssalis A.B. Joly & E.C.Oliveira SPECIES
 
 #### Status
 ACCEPTED

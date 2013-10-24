@@ -1,17 +1,16 @@
-Lachnea setosa var. setosa (Nees) Cooke VARIETY
-=======
+# Scutellinia setosa (Nees) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3: (1876)
+Revis. gen. pl. (Leipzig) 2: 869 (1891)
 
 #### Original name
-Lachnea setosa var. setosa (Nees) Cooke
+Peziza setosa Nees, 1816
 
 ### Remarks
 null

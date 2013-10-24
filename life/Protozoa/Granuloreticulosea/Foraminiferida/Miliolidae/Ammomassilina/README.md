@@ -1,5 +1,4 @@
-Ammomassilina Cushman, 1933 GENUS
-=======
+# Ammomassilina Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyoglomi PHYLUM
-=======
+# Dictyoglomi PHYLUM
 
 #### Status
 ACCEPTED

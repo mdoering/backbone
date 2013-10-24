@@ -1,5 +1,4 @@
-Stemonitis filicina Schrank SPECIES
-=======
+# Stemonitis filicina Schrank SPECIES
 
 #### Status
 ACCEPTED

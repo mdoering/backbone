@@ -1,5 +1,4 @@
-Pseudogirvanella O.Dragastan, 1985 GENUS
-=======
+# Pseudogirvanella O.Dragastan, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites ovatus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites ovatus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

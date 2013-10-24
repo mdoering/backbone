@@ -1,5 +1,4 @@
-Cladonia acuminata subsp. acuminata SUBSPECIES
-=======
+# Cladonia acuminata (Ach.) Norrl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Herb. Lich. Fenn. 57 (1875)
 
 #### Original name
-null
+Cenomyce pityrea f. acuminata Ach.
 
 ### Remarks
 null

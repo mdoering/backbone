@@ -1,17 +1,16 @@
-Parmelia osorioi Hale SPECIES
-=======
+# Hypotrachyna osorioi (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 51 (1975)
 
 #### Original name
-null
+Parmelia osorioi Hale
 
 ### Remarks
 null

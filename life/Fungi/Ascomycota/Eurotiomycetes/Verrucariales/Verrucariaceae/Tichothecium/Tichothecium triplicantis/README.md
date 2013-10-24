@@ -1,5 +1,4 @@
-Tichothecium triplicantis Vain. SPECIES
-=======
+# Tichothecium triplicantis Vain. SPECIES
 
 #### Status
 ACCEPTED

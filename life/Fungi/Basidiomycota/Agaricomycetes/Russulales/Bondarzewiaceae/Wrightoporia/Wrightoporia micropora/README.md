@@ -1,5 +1,4 @@
-Wrightoporia micropora P.K. Buchanan & Ryvarden, 2000 SPECIES
-=======
+# Wrightoporia micropora P.K. Buchanan & Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

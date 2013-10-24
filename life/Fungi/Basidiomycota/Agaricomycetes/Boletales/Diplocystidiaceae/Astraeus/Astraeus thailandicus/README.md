@@ -1,5 +1,4 @@
-Astraeus thailandicus Petcharat, 2005 SPECIES
-=======
+# Astraeus thailandicus Petcharat, 2005 SPECIES
 
 #### Status
 ACCEPTED

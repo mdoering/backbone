@@ -1,5 +1,4 @@
-Embellisia astragali Y.Z. Li & Nan SPECIES
-=======
+# Embellisia astragali Y.Z. Li & Nan SPECIES
 
 #### Status
 ACCEPTED

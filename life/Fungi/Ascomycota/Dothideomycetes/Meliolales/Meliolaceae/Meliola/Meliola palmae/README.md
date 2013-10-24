@@ -1,5 +1,4 @@
-Meliola palmae Schwein. SPECIES
-=======
+# Meliola palmae Schwein. SPECIES
 
 #### Status
 ACCEPTED

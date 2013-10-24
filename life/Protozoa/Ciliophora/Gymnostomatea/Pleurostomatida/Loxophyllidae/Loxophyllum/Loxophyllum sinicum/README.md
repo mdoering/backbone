@@ -1,5 +1,4 @@
-Loxophyllum sinicum Lin, Al-Rasheid, Al-Quraishy, Al-Farraj & Song, 2008 SPECIES
-=======
+# Loxophyllum sinicum Lin, Al-Rasheid, Al-Quraishy, Al-Farraj & Song, 2008 SPECIES
 
 #### Status
 ACCEPTED

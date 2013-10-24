@@ -1,5 +1,4 @@
-Morenoella vitalii Bat. & H. Maia SPECIES
-=======
+# Morenoella vitalii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

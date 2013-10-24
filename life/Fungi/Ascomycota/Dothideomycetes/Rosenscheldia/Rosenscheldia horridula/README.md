@@ -1,5 +1,4 @@
-Rosenscheldia horridula Doidge SPECIES
-=======
+# Rosenscheldia horridula Doidge SPECIES
 
 #### Status
 ACCEPTED

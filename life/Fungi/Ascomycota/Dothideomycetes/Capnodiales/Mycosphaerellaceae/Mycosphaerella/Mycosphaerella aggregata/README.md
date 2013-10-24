@@ -1,5 +1,4 @@
-Mycosphaerella aggregata Earle, 1926 SPECIES
-=======
+# Mycosphaerella aggregata Earle, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella ixanthi Petr. SPECIES
-=======
+# Mycosphaerella ixanthi Petr. SPECIES
 
 #### Status
 ACCEPTED

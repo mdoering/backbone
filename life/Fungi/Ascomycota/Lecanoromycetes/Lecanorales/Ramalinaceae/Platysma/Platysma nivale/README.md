@@ -1,5 +1,4 @@
-Platysma nivale (L.) Frege SPECIES
-=======
+# Platysma nivale (L.) Frege SPECIES
 
 #### Status
 ACCEPTED

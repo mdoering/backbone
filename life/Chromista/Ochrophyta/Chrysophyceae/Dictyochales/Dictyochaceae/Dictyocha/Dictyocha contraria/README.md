@@ -1,5 +1,4 @@
-Dictyocha contraria Deflandre ex L. Jerkovic SPECIES
-=======
+# Dictyocha contraria Deflandre ex L. Jerkovic SPECIES
 
 #### Status
 ACCEPTED

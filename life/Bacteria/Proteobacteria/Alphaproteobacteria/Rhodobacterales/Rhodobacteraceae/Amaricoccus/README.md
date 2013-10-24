@@ -1,5 +1,4 @@
-Amaricoccus Maszenan, Seviour, Patel, Rees & McDougall, 1997 GENUS
-=======
+# Amaricoccus Maszenan, Seviour, Patel, Rees & McDougall, 1997 GENUS
 
 #### Status
 ACCEPTED

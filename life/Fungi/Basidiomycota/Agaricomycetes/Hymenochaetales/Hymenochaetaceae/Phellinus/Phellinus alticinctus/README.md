@@ -1,5 +1,4 @@
-Phellinus alticinctus Corner SPECIES
-=======
+# Phellinus alticinctus Corner SPECIES
 
 #### Status
 ACCEPTED

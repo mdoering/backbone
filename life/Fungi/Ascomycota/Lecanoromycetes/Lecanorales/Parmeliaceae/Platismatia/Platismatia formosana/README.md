@@ -1,5 +1,4 @@
-Platismatia formosana (Zahlbr.) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia formosana (Zahlbr.) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

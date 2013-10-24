@@ -1,5 +1,4 @@
-Graphina pauaiensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina pauaiensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

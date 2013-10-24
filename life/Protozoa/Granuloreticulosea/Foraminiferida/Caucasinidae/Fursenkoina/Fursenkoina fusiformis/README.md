@@ -1,5 +1,4 @@
-Fursenkoina fusiformis SPECIES
-=======
+# Fursenkoina fusiformis SPECIES
 
 #### Status
 ACCEPTED

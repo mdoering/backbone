@@ -1,5 +1,4 @@
-Rosenscheldia heliopsidis (Schwein.) Theiss. & Syd. SPECIES
-=======
+# Rosenscheldia heliopsidis (Schwein.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uncinula necator var. necator VARIETY
-=======
+# Erysiphe necator Schwein., 1834 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) 15 (1892)
+Trans. Am. phil. Soc. , New Series 270 (1834)
 
 #### Original name
-Uncinula necator var. necator
+Erysiphe necator Schwein., 1834
 
 ### Remarks
 null

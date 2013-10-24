@@ -1,14 +1,13 @@
-Anthostoma sustentum (Plowr.) Sacc., 1882 SPECIES
-=======
+# Barrmaelia sustenta (Plowr.) Rappaz, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 7(1): 141 (1995)
 
 #### Original name
 Sphaeria sustenta Plowr., 1878

@@ -1,5 +1,4 @@
-Patellaria caesiopallens (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria caesiopallens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

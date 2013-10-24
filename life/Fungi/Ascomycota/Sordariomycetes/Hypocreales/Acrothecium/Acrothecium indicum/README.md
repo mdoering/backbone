@@ -1,5 +1,4 @@
-Acrothecium indicum Boedijn SPECIES
-=======
+# Acrothecium indicum Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta scopoliae Kandinsk. SPECIES
-=======
+# Ascochyta scopoliae Kandinsk. SPECIES
 
 #### Status
 ACCEPTED

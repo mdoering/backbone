@@ -1,5 +1,4 @@
-Boletus subglabripes Peck SPECIES
-=======
+# Boletus subglabripes Peck SPECIES
 
 #### Status
 ACCEPTED

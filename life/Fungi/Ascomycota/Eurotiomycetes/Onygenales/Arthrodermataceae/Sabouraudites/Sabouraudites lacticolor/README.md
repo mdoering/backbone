@@ -1,5 +1,4 @@
-Sabouraudites lacticolor (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites lacticolor (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

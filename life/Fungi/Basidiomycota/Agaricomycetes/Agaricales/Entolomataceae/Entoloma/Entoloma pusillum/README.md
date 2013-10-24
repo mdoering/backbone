@@ -1,17 +1,16 @@
-Entoloma pusillulum Noordel. SPECIES
-=======
+# Entoloma pusillum Noordel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Persoonia 12(3): 294 (1984)
 
 #### Original name
-Entoloma pusillulum Noordel.
+Entoloma pusillum Noordel.
 
 ### Remarks
 null

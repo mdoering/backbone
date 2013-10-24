@@ -1,5 +1,4 @@
-Calothyriopeltis F. Stevens & R.W. Ryan GENUS
-=======
+# Calothyriopeltis F. Stevens & R.W. Ryan GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus sallei (Berk.) Kuntze SPECIES
-=======
+# Fungus sallei (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

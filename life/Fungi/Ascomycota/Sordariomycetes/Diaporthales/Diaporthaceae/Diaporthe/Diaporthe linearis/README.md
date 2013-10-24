@@ -1,5 +1,4 @@
-Diaporthe linearis (Nees) Nitschke SPECIES
-=======
+# Diaporthe linearis (Nees) Nitschke SPECIES
 
 #### Status
 ACCEPTED

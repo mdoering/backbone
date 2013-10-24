@@ -1,5 +1,4 @@
-Psathyrella fagetophila Örstadius & Enderle SPECIES
-=======
+# Psathyrella fagetophila Örstadius & Enderle SPECIES
 
 #### Status
 ACCEPTED

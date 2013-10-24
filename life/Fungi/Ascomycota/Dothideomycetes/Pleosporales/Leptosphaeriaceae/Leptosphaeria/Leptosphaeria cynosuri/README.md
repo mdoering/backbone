@@ -1,5 +1,4 @@
-Leptosphaeria cynosuri Unamuno SPECIES
-=======
+# Leptosphaeria cynosuri Unamuno SPECIES
 
 #### Status
 ACCEPTED

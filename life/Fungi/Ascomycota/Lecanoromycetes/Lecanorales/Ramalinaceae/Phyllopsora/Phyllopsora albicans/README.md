@@ -1,5 +1,4 @@
-Phyllopsora albicans Müll. Arg. SPECIES
-=======
+# Phyllopsora albicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

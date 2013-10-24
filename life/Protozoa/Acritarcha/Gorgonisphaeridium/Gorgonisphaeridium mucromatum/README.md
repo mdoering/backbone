@@ -1,5 +1,4 @@
-Gorgonisphaeridium mucromatum Gao Lianda, 1988 SPECIES
-=======
+# Gorgonisphaeridium mucromatum Gao Lianda, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces ratus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces ratus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

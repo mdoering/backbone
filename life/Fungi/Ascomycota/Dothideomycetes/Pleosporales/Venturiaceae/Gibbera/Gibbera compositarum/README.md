@@ -1,5 +1,4 @@
-Gibbera compositarum E. Müll. SPECIES
-=======
+# Gibbera compositarum E. Müll. SPECIES
 
 #### Status
 ACCEPTED

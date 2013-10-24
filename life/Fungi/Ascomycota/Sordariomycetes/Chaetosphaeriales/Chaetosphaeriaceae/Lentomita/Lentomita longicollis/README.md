@@ -1,5 +1,4 @@
-Lentomita longicollis P. Karst. SPECIES
-=======
+# Lentomita longicollis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

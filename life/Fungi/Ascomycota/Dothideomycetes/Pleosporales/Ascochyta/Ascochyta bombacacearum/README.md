@@ -1,5 +1,4 @@
-Ascochyta bombacacearum A.N. Rai & Kamal SPECIES
-=======
+# Ascochyta bombacacearum A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

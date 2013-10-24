@@ -1,5 +1,4 @@
-Lyophyllum candidum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum candidum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

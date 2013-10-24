@@ -1,5 +1,4 @@
-Lachnum gynoxidis Syd. SPECIES
-=======
+# Lachnum gynoxidis Syd. SPECIES
 
 #### Status
 ACCEPTED

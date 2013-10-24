@@ -1,5 +1,4 @@
-Pseudocercosporella angustana (Ferraris) U. Braun SPECIES
-=======
+# Pseudocercosporella angustana (Ferraris) U. Braun SPECIES
 
 #### Status
 ACCEPTED

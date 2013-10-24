@@ -1,5 +1,4 @@
-Lethagrium akralense Flagey SPECIES
-=======
+# Lethagrium akralense Flagey SPECIES
 
 #### Status
 ACCEPTED

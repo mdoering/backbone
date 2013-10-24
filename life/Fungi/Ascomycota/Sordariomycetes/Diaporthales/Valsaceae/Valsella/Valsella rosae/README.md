@@ -1,5 +1,4 @@
-Valsella rosae Fuckel SPECIES
-=======
+# Valsella rosae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoloma coccinea Fuckel SPECIES
-=======
+# Leucoloma coccinea Fuckel SPECIES
 
 #### Status
 ACCEPTED

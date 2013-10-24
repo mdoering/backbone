@@ -1,17 +1,16 @@
-Corticium praetermissum var. praetermissum VARIETY
-=======
+# Corticium praetermissum SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Annls mycol. 1(1/2): 100 (1903)
+null
 
 #### Original name
-Corticium praetermissum var. praetermissum
+null
 
 ### Remarks
 null

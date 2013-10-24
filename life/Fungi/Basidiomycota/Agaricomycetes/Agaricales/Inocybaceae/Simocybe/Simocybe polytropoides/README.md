@@ -1,5 +1,4 @@
-Simocybe polytropoides Singer SPECIES
-=======
+# Simocybe polytropoides Singer SPECIES
 
 #### Status
 ACCEPTED

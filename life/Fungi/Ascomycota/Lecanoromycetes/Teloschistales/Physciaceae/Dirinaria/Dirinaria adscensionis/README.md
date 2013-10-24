@@ -1,5 +1,4 @@
-Dirinaria adscensionis (Ach.) C.W. Dodge SPECIES
-=======
+# Dirinaria adscensionis (Ach.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella pini-silvestris Allesch. SPECIES
-=======
+# Dothiorella pini-silvestris Allesch. SPECIES
 
 #### Status
 ACCEPTED

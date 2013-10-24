@@ -1,5 +1,4 @@
-Paramoebidium argentinense M.G. Mazzucch., López-Lastra & Lichtw., 2000 SPECIES
-=======
+# Paramoebidium argentinense M.G. Mazzucch., López-Lastra & Lichtw., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurage araneosa (Cain) C. Moreau SPECIES
-=======
+# Pleurage araneosa (Cain) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynophryidae Jankowksi, 1981 FAMILY
-=======
+# Corynophryidae Jankowksi, 1981 FAMILY
 
 #### Status
 ACCEPTED

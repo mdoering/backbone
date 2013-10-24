@@ -1,5 +1,4 @@
-Telamonia quercetorum Velen. SPECIES
-=======
+# Telamonia quercetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

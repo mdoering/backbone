@@ -1,5 +1,4 @@
-Boletus hydnatinus Bosc SPECIES
-=======
+# Boletus hydnatinus Bosc SPECIES
 
 #### Status
 ACCEPTED

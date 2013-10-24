@@ -1,5 +1,4 @@
-Paracarpidium albidulum Müll. Arg. SPECIES
-=======
+# Paracarpidium albidulum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

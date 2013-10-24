@@ -1,5 +1,4 @@
-Leptothyrium bornmuelleri Magnus SPECIES
-=======
+# Leptothyrium bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

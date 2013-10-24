@@ -1,5 +1,4 @@
-Dendrophoma bellidiastri Allesch. SPECIES
-=======
+# Dendrophoma bellidiastri Allesch. SPECIES
 
 #### Status
 ACCEPTED

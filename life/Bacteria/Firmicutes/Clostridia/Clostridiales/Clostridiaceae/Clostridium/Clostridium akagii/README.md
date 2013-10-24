@@ -1,5 +1,4 @@
-Clostridium akagii Kuhner et al., 2000 SPECIES
-=======
+# Clostridium akagii Kuhner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

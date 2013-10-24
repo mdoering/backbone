@@ -1,8 +1,7 @@
-Geaster albidus Speg. SPECIES
-=======
+# Geastrum albidus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster albidus Speg.
+Geastrum albidus Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola wainioi Pat. SPECIES
-=======
+# Meliola wainioi Pat. SPECIES
 
 #### Status
 ACCEPTED

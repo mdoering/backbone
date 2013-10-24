@@ -1,5 +1,4 @@
-Tachaphantium tiliae Bref. SPECIES
-=======
+# Tachaphantium tiliae Bref. SPECIES
 
 #### Status
 ACCEPTED

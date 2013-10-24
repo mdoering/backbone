@@ -1,5 +1,4 @@
-Ascochyta trachycarpi Melnik SPECIES
-=======
+# Ascochyta trachycarpi Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunopyle Dreyer, 1889 GENUS
-=======
+# Prunopyle Dreyer, 1889 GENUS
 
 #### Status
 ACCEPTED

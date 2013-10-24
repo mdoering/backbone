@@ -1,5 +1,4 @@
-Phyllosticta moricola Ellis & Everh. SPECIES
-=======
+# Phyllosticta moricola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

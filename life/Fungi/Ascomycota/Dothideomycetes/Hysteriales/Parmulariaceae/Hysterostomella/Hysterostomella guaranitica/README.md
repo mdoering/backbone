@@ -1,5 +1,4 @@
-Hysterostomella guaranitica Speg., 1885 SPECIES
-=======
+# Hysterostomella guaranitica Speg., 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria karelica (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria karelica (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

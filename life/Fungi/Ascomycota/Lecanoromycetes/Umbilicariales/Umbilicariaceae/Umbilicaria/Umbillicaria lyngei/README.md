@@ -1,5 +1,4 @@
-Umbillicaria lyngei SPECIES
-=======
+# Umbillicaria lyngei SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Cortinarius pugionipes var. pugionipes VARIETY
-=======
+# Cortinarius pugionipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Moser & Horak, Beih. Nova Hedwigia 52: 146 (1975)
 
 #### Original name
-Cortinarius pugionipes var. pugionipes
+Cortinarius pugionipes M.M. Moser
 
 ### Remarks
 null

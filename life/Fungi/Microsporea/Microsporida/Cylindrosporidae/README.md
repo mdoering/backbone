@@ -1,5 +1,4 @@
-Cylindrosporidae FAMILY
-=======
+# Cylindrosporidae FAMILY
 
 #### Status
 ACCEPTED

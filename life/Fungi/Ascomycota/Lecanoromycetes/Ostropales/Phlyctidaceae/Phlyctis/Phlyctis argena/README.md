@@ -1,17 +1,16 @@
-Pertusaria reducta var. reducta VARIETY
-=======
+# Phlyctis argena (Spreng.) Flot. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 8: 572 (1850)
 
 #### Original name
-Pertusaria reducta var. reducta
+Lepraria argena Ach.
 
 ### Remarks
 null

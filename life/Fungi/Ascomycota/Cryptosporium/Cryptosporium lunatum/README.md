@@ -1,5 +1,4 @@
-Cryptosporium lunatum Nann. SPECIES
-=======
+# Cryptosporium lunatum Nann. SPECIES
 
 #### Status
 ACCEPTED

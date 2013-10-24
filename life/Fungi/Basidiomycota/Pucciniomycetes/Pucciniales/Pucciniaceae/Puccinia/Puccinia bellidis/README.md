@@ -1,5 +1,4 @@
-Puccinia bellidis Berk. SPECIES
-=======
+# Puccinia bellidis Berk. SPECIES
 
 #### Status
 ACCEPTED

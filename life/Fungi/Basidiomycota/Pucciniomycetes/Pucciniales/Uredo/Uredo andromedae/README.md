@@ -1,5 +1,4 @@
-Uredo andromedae Cooke SPECIES
-=======
+# Uredo andromedae Cooke SPECIES
 
 #### Status
 ACCEPTED

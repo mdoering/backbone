@@ -1,5 +1,4 @@
-Hydnum obrutans Burt SPECIES
-=======
+# Hydnum obrutans Burt SPECIES
 
 #### Status
 ACCEPTED

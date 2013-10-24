@@ -1,5 +1,4 @@
-Acetobacter hansenii Gosselé et al., 1983 SPECIES
-=======
+# Acetobacter hansenii Gosselé et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

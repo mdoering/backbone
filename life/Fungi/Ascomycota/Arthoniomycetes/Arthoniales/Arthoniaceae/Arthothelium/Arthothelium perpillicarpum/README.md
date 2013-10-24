@@ -1,5 +1,4 @@
-Arthothelium perpillicarpum Lücking SPECIES
-=======
+# Arthothelium perpillicarpum Lücking SPECIES
 
 #### Status
 ACCEPTED

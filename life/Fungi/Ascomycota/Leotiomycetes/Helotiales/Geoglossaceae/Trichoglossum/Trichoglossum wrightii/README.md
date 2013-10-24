@@ -1,5 +1,4 @@
-Trichoglossum wrightii E.J. Durand SPECIES
-=======
+# Trichoglossum wrightii E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

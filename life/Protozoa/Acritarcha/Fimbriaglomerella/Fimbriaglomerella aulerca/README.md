@@ -1,5 +1,4 @@
-Fimbriaglomerella aulerca Deunff, 1976 SPECIES
-=======
+# Fimbriaglomerella aulerca Deunff, 1976 SPECIES
 
 #### Status
 ACCEPTED

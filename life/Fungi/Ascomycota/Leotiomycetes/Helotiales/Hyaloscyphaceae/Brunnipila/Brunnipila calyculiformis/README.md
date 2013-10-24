@@ -1,17 +1,16 @@
-Lachnum calyculiforme var. calyculiforme VARIETY
-=======
+# Brunnipila calyculiformis (Schumach.) Baral, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 178 (1870)
+in Baral & Krieglsteiner, Beih. Z. Mykol. 6: 49 (1985)
 
 #### Original name
-Lachnum calyculiforme var. calyculiforme
+null
 
 ### Remarks
 null

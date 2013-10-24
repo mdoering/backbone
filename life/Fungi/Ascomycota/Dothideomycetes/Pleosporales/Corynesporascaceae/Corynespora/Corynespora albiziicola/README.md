@@ -1,17 +1,16 @@
-Corynespora albizziicola N. Sharma, P.N. Singh & Kamal SPECIES
-=======
+# Corynespora albiziicola N. Sharma, P.N. Singh & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 33(1): 26 (2003)
 
 #### Original name
-Corynespora albizziicola N. Sharma, P.N. Singh & Kamal
+Corynespora albiziicola N. Sharma, P.N. Singh & Kamal
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudoklossia patella Debasieux, 1919 SPECIES
-=======
+# Pseudoklossia patella Debasieux, 1919 SPECIES
 
 #### Status
 ACCEPTED

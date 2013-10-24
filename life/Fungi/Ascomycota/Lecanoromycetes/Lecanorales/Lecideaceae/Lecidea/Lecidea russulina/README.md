@@ -1,5 +1,4 @@
-Lecidea russulina Müll. Arg. SPECIES
-=======
+# Lecidea russulina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

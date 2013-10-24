@@ -1,5 +1,4 @@
-Cercostigmina punctata (Wakef.) Crous SPECIES
-=======
+# Cercostigmina punctata (Wakef.) Crous SPECIES
 
 #### Status
 ACCEPTED

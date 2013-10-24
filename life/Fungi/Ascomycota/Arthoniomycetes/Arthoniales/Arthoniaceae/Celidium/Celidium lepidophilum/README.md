@@ -1,5 +1,4 @@
-Celidium lepidophilum (Anzi) Rehm SPECIES
-=======
+# Celidium lepidophilum (Anzi) Rehm SPECIES
 
 #### Status
 ACCEPTED

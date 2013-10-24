@@ -1,5 +1,4 @@
-Phaeangella GENUS
-=======
+# Phaeangella GENUS
 
 #### Status
 ACCEPTED

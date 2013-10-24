@@ -1,5 +1,4 @@
-Sagema Poelt & Grube GENUS
-=======
+# Sagema Poelt & Grube GENUS
 
 #### Status
 ACCEPTED

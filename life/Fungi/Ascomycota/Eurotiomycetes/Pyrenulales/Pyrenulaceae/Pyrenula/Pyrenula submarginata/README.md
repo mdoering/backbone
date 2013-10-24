@@ -1,5 +1,4 @@
-Pyrenula submarginata Vain. SPECIES
-=======
+# Pyrenula submarginata Vain. SPECIES
 
 #### Status
 ACCEPTED

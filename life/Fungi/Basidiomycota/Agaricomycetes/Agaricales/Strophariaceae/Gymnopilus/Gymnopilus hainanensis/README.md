@@ -1,5 +1,4 @@
-Gymnopilus hainanensis T.H. Li & W.M. Zhang SPECIES
-=======
+# Gymnopilus hainanensis T.H. Li & W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium stipaticum Hagenfeldt, 1989 SPECIES
-=======
+# Baltisphaeridium stipaticum Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

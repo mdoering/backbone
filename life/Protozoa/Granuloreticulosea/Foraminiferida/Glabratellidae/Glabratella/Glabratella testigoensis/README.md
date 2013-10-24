@@ -1,5 +1,4 @@
-Glabratella testigoensis SPECIES
-=======
+# Glabratella testigoensis SPECIES
 
 #### Status
 ACCEPTED

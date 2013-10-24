@@ -1,5 +1,4 @@
-Cronartium filamentosum Hedgc. SPECIES
-=======
+# Cronartium filamentosum Hedgc. SPECIES
 
 #### Status
 ACCEPTED

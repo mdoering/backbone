@@ -1,5 +1,4 @@
-Ceuthospora juglandicola Frolov SPECIES
-=======
+# Ceuthospora juglandicola Frolov SPECIES
 
 #### Status
 ACCEPTED

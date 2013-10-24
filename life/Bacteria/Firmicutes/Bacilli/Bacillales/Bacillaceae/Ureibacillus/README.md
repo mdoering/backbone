@@ -1,5 +1,4 @@
-Ureibacillus Fortina, Pukall, Schumann, Mora, Parini, Manachini & Stackebrandt, 2001 GENUS
-=======
+# Ureibacillus Fortina, Pukall, Schumann, Mora, Parini, Manachini & Stackebrandt, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum operculatum Bubák SPECIES
-=======
+# Fusicoccum operculatum Bubák SPECIES
 
 #### Status
 ACCEPTED

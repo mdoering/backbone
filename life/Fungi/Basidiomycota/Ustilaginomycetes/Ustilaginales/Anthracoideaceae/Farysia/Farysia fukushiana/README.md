@@ -1,5 +1,4 @@
-Farysia fukushiana S. Ito & Homma SPECIES
-=======
+# Farysia fukushiana S. Ito & Homma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hyalodendron lignicola f. lignicola FORM
-=======
+# Trichosporon lignicola (Diddens) Fell & Scorzetti, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 90: 317 (1934)
+Int. J. Syst. Evol. Microbiol. 54(3): 997 (2004)
 
 #### Original name
-Hyalodendron lignicola f. lignicola
+Hyalodendron lignicola Diddens, 1934
 
 ### Remarks
 null

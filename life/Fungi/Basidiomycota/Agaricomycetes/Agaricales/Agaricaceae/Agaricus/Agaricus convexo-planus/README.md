@@ -1,5 +1,4 @@
-Agaricus convexo-planus Britzelm. SPECIES
-=======
+# Agaricus convexo-planus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

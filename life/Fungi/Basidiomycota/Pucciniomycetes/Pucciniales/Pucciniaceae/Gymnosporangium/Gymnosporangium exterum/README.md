@@ -1,5 +1,4 @@
-Gymnosporangium exterum Arthur & F. Kern, 1910 SPECIES
-=======
+# Gymnosporangium exterum Arthur & F. Kern, 1910 SPECIES
 
 #### Status
 ACCEPTED

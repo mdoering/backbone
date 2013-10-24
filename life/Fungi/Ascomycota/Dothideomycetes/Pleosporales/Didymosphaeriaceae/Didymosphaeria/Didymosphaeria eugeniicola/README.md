@@ -1,5 +1,4 @@
-Didymosphaeria eugeniicola Speg. SPECIES
-=======
+# Didymosphaeria eugeniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

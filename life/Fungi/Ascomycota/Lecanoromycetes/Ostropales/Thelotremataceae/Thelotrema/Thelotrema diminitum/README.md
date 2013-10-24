@@ -1,5 +1,4 @@
-Thelotrema diminitum Hale SPECIES
-=======
+# Thelotrema diminitum Hale SPECIES
 
 #### Status
 ACCEPTED

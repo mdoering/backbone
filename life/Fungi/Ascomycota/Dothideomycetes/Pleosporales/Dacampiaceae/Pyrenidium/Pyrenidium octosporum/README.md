@@ -1,5 +1,4 @@
-Pyrenidium octosporum Looman SPECIES
-=======
+# Pyrenidium octosporum Looman SPECIES
 
 #### Status
 ACCEPTED

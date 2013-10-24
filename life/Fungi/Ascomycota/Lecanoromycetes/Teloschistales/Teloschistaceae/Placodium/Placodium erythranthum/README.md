@@ -1,5 +1,4 @@
-Placodium erythranthum (Tuck.) Tuck. SPECIES
-=======
+# Placodium erythranthum (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

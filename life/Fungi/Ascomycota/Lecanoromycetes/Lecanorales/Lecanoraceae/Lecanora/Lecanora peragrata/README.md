@@ -1,5 +1,4 @@
-Lecanora peragrata (Fée) Kremp. SPECIES
-=======
+# Lecanora peragrata (Fée) Kremp. SPECIES
 
 #### Status
 ACCEPTED

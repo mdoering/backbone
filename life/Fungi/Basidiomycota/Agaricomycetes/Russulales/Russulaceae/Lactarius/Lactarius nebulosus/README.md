@@ -1,5 +1,4 @@
-Lactarius nebulosus Pegler SPECIES
-=======
+# Lactarius nebulosus Pegler SPECIES
 
 #### Status
 ACCEPTED

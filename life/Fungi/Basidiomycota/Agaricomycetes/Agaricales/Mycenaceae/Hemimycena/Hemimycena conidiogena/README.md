@@ -1,5 +1,4 @@
-Hemimycena conidiogena Vila, P.-A. Moreau & Pérez-De-Greg., 2005 SPECIES
-=======
+# Hemimycena conidiogena Vila, P.-A. Moreau & Pérez-De-Greg., 2005 SPECIES
 
 #### Status
 ACCEPTED

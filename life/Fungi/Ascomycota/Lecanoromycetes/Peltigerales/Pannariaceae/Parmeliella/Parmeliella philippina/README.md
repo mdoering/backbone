@@ -1,5 +1,4 @@
-Parmeliella philippina (Vain.) P.M. Jørg. SPECIES
-=======
+# Parmeliella philippina (Vain.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

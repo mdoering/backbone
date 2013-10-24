@@ -1,5 +1,4 @@
-Aseroë pallida Lloyd SPECIES
-=======
+# Aseroë pallida Lloyd SPECIES
 
 #### Status
 ACCEPTED

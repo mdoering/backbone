@@ -1,5 +1,4 @@
-Schizothecium linguiforme (Cain) L. Cai SPECIES
-=======
+# Schizothecium linguiforme (Cain) L. Cai SPECIES
 
 #### Status
 ACCEPTED

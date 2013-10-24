@@ -1,5 +1,4 @@
-Lecidea meiocarpoides Nyl. SPECIES
-=======
+# Lecidea meiocarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

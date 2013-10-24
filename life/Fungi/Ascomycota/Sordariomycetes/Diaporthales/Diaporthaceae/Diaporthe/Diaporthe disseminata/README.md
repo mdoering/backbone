@@ -1,5 +1,4 @@
-Diaporthe disseminata Sacc. SPECIES
-=======
+# Diaporthe disseminata Sacc. SPECIES
 
 #### Status
 ACCEPTED

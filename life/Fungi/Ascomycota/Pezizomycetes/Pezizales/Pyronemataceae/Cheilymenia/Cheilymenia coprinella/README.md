@@ -1,5 +1,4 @@
-Cheilymenia coprinella (Sacc.) Boud. SPECIES
-=======
+# Cheilymenia coprinella (Sacc.) Boud. SPECIES
 
 #### Status
 ACCEPTED

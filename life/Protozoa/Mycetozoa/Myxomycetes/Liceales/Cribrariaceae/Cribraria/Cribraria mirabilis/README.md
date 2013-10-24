@@ -1,14 +1,13 @@
-Dictydium mirabile var. heterodyction (Rostaf.) Meyl. VARIETY
-=======
+# Cribraria mirabilis (Rostaf.) Massee, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin de la Société Vaudoise des Sciences Naturelles 59: 482 (1937)
+Monograph of the Myxogastres (London) 60 (1892)
 
 #### Original name
 Heterodictyon mirabile Rostaf., 1875

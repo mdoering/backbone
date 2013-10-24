@@ -1,5 +1,4 @@
-Aegerita rosea (Schwein.) Sacc. SPECIES
-=======
+# Aegerita rosea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

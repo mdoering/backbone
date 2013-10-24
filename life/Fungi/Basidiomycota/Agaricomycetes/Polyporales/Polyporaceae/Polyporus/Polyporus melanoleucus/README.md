@@ -1,5 +1,4 @@
-Polyporus melanoleucus Lév. SPECIES
-=======
+# Polyporus melanoleucus Lév. SPECIES
 
 #### Status
 ACCEPTED

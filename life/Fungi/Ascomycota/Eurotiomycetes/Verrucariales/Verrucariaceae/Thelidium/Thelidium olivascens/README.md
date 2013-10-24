@@ -1,5 +1,4 @@
-Thelidium olivascens (Zahlbr.) J. Nowak & Tobol. SPECIES
-=======
+# Thelidium olivascens (Zahlbr.) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

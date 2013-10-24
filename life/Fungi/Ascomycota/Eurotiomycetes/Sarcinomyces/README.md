@@ -1,5 +1,4 @@
-Sarcinomyces Lindner, 1898 GENUS
-=======
+# Sarcinomyces Lindner, 1898 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca subpyracea (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca subpyracea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora glycinicola P.F. Cannon, 1991 SPECIES
-=======
+# Phyllachora glycinicola P.F. Cannon, 1991 SPECIES
 
 #### Status
 ACCEPTED

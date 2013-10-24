@@ -1,5 +1,4 @@
-Plowrightia calystegiae (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Plowrightia calystegiae (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

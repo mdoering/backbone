@@ -1,5 +1,4 @@
-Asteromella bakeri (Syd. & P. Syd.) Aa SPECIES
-=======
+# Asteromella bakeri (Syd. & P. Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

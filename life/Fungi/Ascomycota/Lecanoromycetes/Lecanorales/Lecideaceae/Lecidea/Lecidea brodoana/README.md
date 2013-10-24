@@ -1,5 +1,4 @@
-Lecidea brodoana Hertel & Leuckert SPECIES
-=======
+# Lecidea brodoana Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

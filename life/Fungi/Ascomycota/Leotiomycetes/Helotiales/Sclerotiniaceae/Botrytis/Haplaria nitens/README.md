@@ -1,5 +1,4 @@
-Haplaria nitens Delacr. SPECIES
-=======
+# Haplaria nitens Delacr. SPECIES
 
 #### Status
 ACCEPTED

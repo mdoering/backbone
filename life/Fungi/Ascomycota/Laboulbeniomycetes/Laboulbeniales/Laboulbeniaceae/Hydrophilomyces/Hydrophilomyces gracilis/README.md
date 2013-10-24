@@ -1,5 +1,4 @@
-Hydrophilomyces gracilis T. Majewski SPECIES
-=======
+# Hydrophilomyces gracilis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

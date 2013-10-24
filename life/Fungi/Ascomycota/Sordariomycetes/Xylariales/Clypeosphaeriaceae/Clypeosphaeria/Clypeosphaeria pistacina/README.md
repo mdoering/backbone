@@ -1,5 +1,4 @@
-Clypeosphaeria pistacina Kurbans. SPECIES
-=======
+# Clypeosphaeria pistacina Kurbans. SPECIES
 
 #### Status
 ACCEPTED

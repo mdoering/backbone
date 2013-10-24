@@ -1,5 +1,4 @@
-Trachysphaeridium variabile Yin Leiming, 1995 SPECIES
-=======
+# Trachysphaeridium variabile Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

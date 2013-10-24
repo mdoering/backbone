@@ -1,5 +1,4 @@
-Agaricus emarginatus Pers. SPECIES
-=======
+# Agaricus emarginatus Pers. SPECIES
 
 #### Status
 ACCEPTED

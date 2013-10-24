@@ -1,5 +1,4 @@
-Passalora ehretiae (M.K. Khan) Poonam Srivast. SPECIES
-=======
+# Passalora ehretiae (M.K. Khan) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

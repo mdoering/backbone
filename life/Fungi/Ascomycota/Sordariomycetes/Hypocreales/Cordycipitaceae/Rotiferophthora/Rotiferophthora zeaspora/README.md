@@ -1,14 +1,13 @@
-Diheterospora zeaspora G.L. Barron, 1985 SPECIES
-=======
+# Rotiferophthora zeaspora (G.L. Barron) G.L. Barron, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 63(2): 218 (1985)
+Can. J. Bot. 69(3): 495 (1991)
 
 #### Original name
 Diheterospora zeaspora G.L. Barron, 1985

@@ -1,5 +1,4 @@
-Pteridiospora Penz. & Sacc. GENUS
-=======
+# Pteridiospora Penz. & Sacc. GENUS
 
 #### Status
 ACCEPTED

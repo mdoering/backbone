@@ -1,5 +1,4 @@
-Lepocinclis priformis Da Cuncha SPECIES
-=======
+# Lepocinclis priformis Da Cuncha SPECIES
 
 #### Status
 ACCEPTED

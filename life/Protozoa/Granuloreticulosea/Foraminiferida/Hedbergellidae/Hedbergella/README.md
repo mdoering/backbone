@@ -1,5 +1,4 @@
-Hedbergella Bronnimann & Brown, 1958 GENUS
-=======
+# Hedbergella Bronnimann & Brown, 1958 GENUS
 
 #### Status
 ACCEPTED

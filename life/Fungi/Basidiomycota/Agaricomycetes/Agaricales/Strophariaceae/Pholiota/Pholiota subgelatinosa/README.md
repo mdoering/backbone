@@ -1,5 +1,4 @@
-Pholiota subgelatinosa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subgelatinosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

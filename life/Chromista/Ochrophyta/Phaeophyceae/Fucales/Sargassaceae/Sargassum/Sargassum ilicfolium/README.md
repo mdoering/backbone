@@ -1,5 +1,4 @@
-Sargassum ilicfolium var. venusta Grunow VARIETY
-=======
+# Sargassum ilicfolium SPECIES
 
 #### Status
 ACCEPTED

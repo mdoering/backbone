@@ -1,17 +1,16 @@
-Diplodia amorphae var. amorphae VARIETY
-=======
+# Cucurbitaria amorphae (Wallr.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 337 (1884)
+Jb. nassau. Ver. Naturk. 23-24: 174 (1870)
 
 #### Original name
-Diplodia amorphae var. amorphae
+Sphaeria amorphae Wallr.
 
 ### Remarks
 null

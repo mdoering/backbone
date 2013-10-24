@@ -1,5 +1,4 @@
-Mycena austroalcalina Singer SPECIES
-=======
+# Mycena austroalcalina Singer SPECIES
 
 #### Status
 ACCEPTED

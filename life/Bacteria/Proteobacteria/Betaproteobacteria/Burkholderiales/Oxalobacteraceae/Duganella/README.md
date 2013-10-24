@@ -1,5 +1,4 @@
-Duganella Hiraishi et al., 1997 GENUS
-=======
+# Duganella Hiraishi et al., 1997 GENUS
 
 #### Status
 ACCEPTED

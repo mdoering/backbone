@@ -1,5 +1,4 @@
-Lecanora confluescens Zahlbr. SPECIES
-=======
+# Lecanora confluescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

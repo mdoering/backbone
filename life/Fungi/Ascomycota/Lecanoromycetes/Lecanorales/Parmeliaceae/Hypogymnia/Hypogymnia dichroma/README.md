@@ -1,5 +1,4 @@
-Hypogymnia dichroma Goward SPECIES
-=======
+# Hypogymnia dichroma Goward SPECIES
 
 #### Status
 ACCEPTED

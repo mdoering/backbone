@@ -1,5 +1,4 @@
-Tricholoma cordae Velen. SPECIES
-=======
+# Tricholoma cordae Velen. SPECIES
 
 #### Status
 ACCEPTED

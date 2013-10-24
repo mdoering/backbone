@@ -1,5 +1,4 @@
-Leptosphaeria icositana Maire SPECIES
-=======
+# Leptosphaeria icositana Maire SPECIES
 
 #### Status
 ACCEPTED

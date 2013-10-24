@@ -1,5 +1,4 @@
-Homalococcus Kützing, 1863 GENUS
-=======
+# Homalococcus Kützing, 1863 GENUS
 
 #### Status
 ACCEPTED

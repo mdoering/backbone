@@ -1,5 +1,4 @@
-Trichodina parvula Lom, 1970 SPECIES
-=======
+# Trichodina parvula Lom, 1970 SPECIES
 
 #### Status
 ACCEPTED

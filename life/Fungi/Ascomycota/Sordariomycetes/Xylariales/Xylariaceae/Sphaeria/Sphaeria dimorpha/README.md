@@ -1,5 +1,4 @@
-Sphaeria dimorpha Wallr. SPECIES
-=======
+# Sphaeria dimorpha Wallr. SPECIES
 
 #### Status
 ACCEPTED

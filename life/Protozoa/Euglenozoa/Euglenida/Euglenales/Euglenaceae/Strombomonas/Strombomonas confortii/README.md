@@ -1,5 +1,4 @@
-Strombomonas confortii Y. Zalocar de Domitrovic SPECIES
-=======
+# Strombomonas confortii Y. Zalocar de Domitrovic SPECIES
 
 #### Status
 ACCEPTED

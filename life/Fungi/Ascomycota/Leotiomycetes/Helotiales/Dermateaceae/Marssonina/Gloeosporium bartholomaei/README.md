@@ -1,5 +1,4 @@
-Gloeosporium bartholomaei Dearn. SPECIES
-=======
+# Gloeosporium bartholomaei Dearn. SPECIES
 
 #### Status
 ACCEPTED

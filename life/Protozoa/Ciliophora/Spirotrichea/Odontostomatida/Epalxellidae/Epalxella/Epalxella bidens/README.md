@@ -1,8 +1,7 @@
-Epalxis bidens Kahl, 1931 SPECIES
-=======
+# Epalxella bidens (Kahl, 1932) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

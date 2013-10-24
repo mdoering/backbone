@@ -1,5 +1,4 @@
-Pleurogala panuoides (Singer) Redhead & Norvell SPECIES
-=======
+# Pleurogala panuoides (Singer) Redhead & Norvell SPECIES
 
 #### Status
 ACCEPTED

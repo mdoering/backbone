@@ -1,5 +1,4 @@
-Legerioides M.M. White GENUS
-=======
+# Legerioides M.M. White GENUS
 
 #### Status
 ACCEPTED

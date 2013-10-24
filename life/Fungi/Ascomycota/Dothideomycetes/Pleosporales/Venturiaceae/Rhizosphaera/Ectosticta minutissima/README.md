@@ -1,5 +1,4 @@
-Ectosticta minutissima Syd. SPECIES
-=======
+# Ectosticta minutissima Syd. SPECIES
 
 #### Status
 ACCEPTED

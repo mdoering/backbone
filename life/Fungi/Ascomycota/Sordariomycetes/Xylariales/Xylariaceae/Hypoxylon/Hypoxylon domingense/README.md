@@ -1,5 +1,4 @@
-Hypoxylon domingense Berk. SPECIES
-=======
+# Hypoxylon domingense Berk. SPECIES
 
 #### Status
 ACCEPTED

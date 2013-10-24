@@ -1,5 +1,4 @@
-Clitopilus bigelowii T.J. Baroni SPECIES
-=======
+# Clitopilus bigelowii T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

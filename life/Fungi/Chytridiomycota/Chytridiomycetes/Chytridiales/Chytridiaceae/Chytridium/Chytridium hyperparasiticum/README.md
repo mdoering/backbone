@@ -1,5 +1,4 @@
-Chytridium hyperparasiticum Kobayasi & K. Konno SPECIES
-=======
+# Chytridium hyperparasiticum Kobayasi & K. Konno SPECIES
 
 #### Status
 ACCEPTED

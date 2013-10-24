@@ -1,17 +1,16 @@
-Lasiobotrys lonicerae var. symphoricarpi Ellis & Everh. VARIETY
-=======
+# Lasiobotrys lonicerae Kunze, 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Pyren. (Newfield) no. 3518 (1892)
+Syst. mycol. (Lundae) 3(1): 233 (1829)
 
 #### Original name
-Lasiobotrys lonicerae var. symphoricarpi Ellis & Everh.
+Sphaeria lonicerae Sowerby, 1803
 
 ### Remarks
 null

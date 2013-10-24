@@ -1,5 +1,4 @@
-Pseudovorticella pseudokenti Sun et al., 2009 SPECIES
-=======
+# Pseudovorticella pseudokenti Sun et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

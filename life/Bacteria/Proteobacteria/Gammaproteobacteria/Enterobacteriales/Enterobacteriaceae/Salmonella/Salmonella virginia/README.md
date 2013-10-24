@@ -1,5 +1,4 @@
-Salmonella virginia SPECIES
-=======
+# Salmonella virginia SPECIES
 
 #### Status
 ACCEPTED

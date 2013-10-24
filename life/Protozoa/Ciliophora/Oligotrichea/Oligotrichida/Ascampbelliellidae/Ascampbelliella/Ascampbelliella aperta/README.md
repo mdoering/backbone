@@ -1,8 +1,7 @@
-Craterella aperta Marshall SPECIES
-=======
+# Ascampbelliella aperta Marshall SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

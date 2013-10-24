@@ -1,5 +1,4 @@
-Lasiosphaeria culmicola I. Miyake & Hara SPECIES
-=======
+# Lasiosphaeria culmicola I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

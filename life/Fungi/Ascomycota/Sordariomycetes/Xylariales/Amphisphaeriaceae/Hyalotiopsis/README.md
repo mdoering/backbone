@@ -1,5 +1,4 @@
-Hyalotiopsis Punith. GENUS
-=======
+# Hyalotiopsis Punith. GENUS
 
 #### Status
 ACCEPTED

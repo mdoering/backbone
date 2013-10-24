@@ -1,5 +1,4 @@
-Uredo stenandrii Speg. SPECIES
-=======
+# Uredo stenandrii Speg. SPECIES
 
 #### Status
 ACCEPTED

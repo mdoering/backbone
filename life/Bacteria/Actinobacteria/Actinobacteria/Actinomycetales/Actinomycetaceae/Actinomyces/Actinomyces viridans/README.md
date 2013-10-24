@@ -1,5 +1,4 @@
-Actinomyces viridans Krassiln. SPECIES
-=======
+# Actinomyces viridans Krassiln. SPECIES
 
 #### Status
 ACCEPTED

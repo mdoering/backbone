@@ -1,5 +1,4 @@
-Torrubia formicivora J. Schröt. SPECIES
-=======
+# Torrubia formicivora J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

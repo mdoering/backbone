@@ -1,5 +1,4 @@
-Acarospora novae-hollandiae H. Magn. SPECIES
-=======
+# Acarospora novae-hollandiae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

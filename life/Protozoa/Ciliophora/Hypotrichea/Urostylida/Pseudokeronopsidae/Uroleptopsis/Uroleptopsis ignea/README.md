@@ -1,8 +1,7 @@
-Pseudokeronopsis ignea Mihailowitsch & Wilbert, 1990 SPECIES
-=======
+# Uroleptopsis ignea (Mihailowitsch & Wilbert, 1990) Foissner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

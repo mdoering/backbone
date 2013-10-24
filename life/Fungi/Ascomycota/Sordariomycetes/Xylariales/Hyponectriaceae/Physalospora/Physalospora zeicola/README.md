@@ -1,5 +1,4 @@
-Physalospora zeicola Ellis & Everh. SPECIES
-=======
+# Physalospora zeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea setschwanensis L. Guo SPECIES
-=======
+# Anthracoidea setschwanensis L. Guo SPECIES
 
 #### Status
 ACCEPTED

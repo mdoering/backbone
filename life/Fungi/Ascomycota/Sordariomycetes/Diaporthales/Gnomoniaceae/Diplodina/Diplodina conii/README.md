@@ -1,5 +1,4 @@
-Diplodina conii Jaap SPECIES
-=======
+# Diplodina conii Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Coprinus wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

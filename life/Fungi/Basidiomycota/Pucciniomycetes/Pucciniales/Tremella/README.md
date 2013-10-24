@@ -1,5 +1,4 @@
-Tremella Linnaeus, 1753 GENUS
-=======
+# Tremella Linnaeus, 1753 GENUS
 
 #### Status
 ACCEPTED

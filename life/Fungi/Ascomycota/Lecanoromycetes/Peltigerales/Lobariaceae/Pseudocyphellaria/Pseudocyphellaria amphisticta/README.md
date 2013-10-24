@@ -1,5 +1,4 @@
-Pseudocyphellaria amphisticta (C. Knight) W. Martin SPECIES
-=======
+# Pseudocyphellaria amphisticta (C. Knight) W. Martin SPECIES
 
 #### Status
 ACCEPTED

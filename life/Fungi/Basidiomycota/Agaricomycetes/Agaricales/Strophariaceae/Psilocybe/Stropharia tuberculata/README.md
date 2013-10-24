@@ -1,5 +1,4 @@
-Stropharia tuberculata (Pat.) Morgan SPECIES
-=======
+# Stropharia tuberculata (Pat.) Morgan SPECIES
 
 #### Status
 ACCEPTED

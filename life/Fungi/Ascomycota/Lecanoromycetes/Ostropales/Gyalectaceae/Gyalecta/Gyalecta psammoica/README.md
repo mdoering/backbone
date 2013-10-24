@@ -1,5 +1,4 @@
-Gyalecta psammoica (Nyl.) H. Olivier SPECIES
-=======
+# Gyalecta psammoica (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

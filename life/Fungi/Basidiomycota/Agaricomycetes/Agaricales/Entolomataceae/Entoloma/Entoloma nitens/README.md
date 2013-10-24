@@ -1,17 +1,16 @@
-Rhodophyllus nitens var. nitens VARIETY
-=======
+# Entoloma nitens (Velen.) Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 190 (1953)
+Persoonia 10(2): 252 (1979)
 
 #### Original name
-Rhodophyllus nitens var. nitens
+Nolanea nitens Velen., 1921
 
 ### Remarks
 null

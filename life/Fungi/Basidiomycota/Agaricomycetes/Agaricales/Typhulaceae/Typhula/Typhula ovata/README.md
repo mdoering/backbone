@@ -1,17 +1,16 @@
-Clavaria ovata Pers., 1797 SPECIES
-=======
+# Typhula ovata (Pers.) J. Schröt., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Comm. fung. clav. (Lipsiae) 85 (1797)
+Bidr. Känn. Finl. Nat. Folk 37: 183 (1882)
 
 #### Original name
-Clavaria ovata Pers., 1797
+Typhula ovata (Pers.) J. Schröt., 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphoroblastia rodnensis (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia rodnensis (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

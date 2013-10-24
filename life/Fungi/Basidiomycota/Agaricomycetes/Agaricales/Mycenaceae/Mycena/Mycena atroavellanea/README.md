@@ -1,5 +1,4 @@
-Mycena atroavellanea Grgur. & A.A. Holland SPECIES
-=======
+# Mycena atroavellanea Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

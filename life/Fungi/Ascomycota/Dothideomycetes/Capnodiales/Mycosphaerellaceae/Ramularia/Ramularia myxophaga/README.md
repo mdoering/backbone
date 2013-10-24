@@ -1,5 +1,4 @@
-Ramularia myxophaga Javoron. SPECIES
-=======
+# Ramularia myxophaga Javoron. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria fabae Sowerby SPECIES
-=======
+# Clavaria fabae Sowerby SPECIES
 
 #### Status
 ACCEPTED

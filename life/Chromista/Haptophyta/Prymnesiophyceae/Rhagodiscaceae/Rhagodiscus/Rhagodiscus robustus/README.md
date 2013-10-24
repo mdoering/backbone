@@ -1,5 +1,4 @@
-Rhagodiscus robustus SPECIES
-=======
+# Rhagodiscus robustus SPECIES
 
 #### Status
 ACCEPTED

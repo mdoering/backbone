@@ -1,5 +1,4 @@
-Hypotrachyna corneola Kurok. & K. H. Moon SPECIES
-=======
+# Hypotrachyna corneola Kurok. & K. H. Moon SPECIES
 
 #### Status
 ACCEPTED

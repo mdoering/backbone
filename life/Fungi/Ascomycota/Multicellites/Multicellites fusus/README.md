@@ -1,5 +1,4 @@
-Multicellites fusus (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites fusus (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

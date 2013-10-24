@@ -1,5 +1,4 @@
-Bombyliospora meyeri J. Stein SPECIES
-=======
+# Bombyliospora meyeri J. Stein SPECIES
 
 #### Status
 ACCEPTED

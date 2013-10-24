@@ -1,5 +1,4 @@
-Entyloma helenii Cif. SPECIES
-=======
+# Entyloma helenii Cif. SPECIES
 
 #### Status
 ACCEPTED

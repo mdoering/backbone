@@ -1,5 +1,4 @@
-Clitocybe calathus Fr. SPECIES
-=======
+# Clitocybe calathus Fr. SPECIES
 
 #### Status
 ACCEPTED

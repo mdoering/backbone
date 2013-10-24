@@ -1,5 +1,4 @@
-Verrucaria petrosa (Ach.) Zahlbr. SPECIES
-=======
+# Verrucaria petrosa (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

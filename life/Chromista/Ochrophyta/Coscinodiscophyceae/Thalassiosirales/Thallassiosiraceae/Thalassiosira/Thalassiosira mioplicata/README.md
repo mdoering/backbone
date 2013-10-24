@@ -1,5 +1,4 @@
-Thalassiosira mioplicata F. Akiba & Y. Yanagisawa SPECIES
-=======
+# Thalassiosira mioplicata F. Akiba & Y. Yanagisawa SPECIES
 
 #### Status
 ACCEPTED

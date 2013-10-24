@@ -1,5 +1,4 @@
-Resinicium tenue Nakasone, 2007 SPECIES
-=======
+# Resinicium tenue Nakasone, 2007 SPECIES
 
 #### Status
 ACCEPTED

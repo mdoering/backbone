@@ -1,5 +1,4 @@
-Neoclitocybe substenophylla (Murrill) Singer SPECIES
-=======
+# Neoclitocybe substenophylla (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

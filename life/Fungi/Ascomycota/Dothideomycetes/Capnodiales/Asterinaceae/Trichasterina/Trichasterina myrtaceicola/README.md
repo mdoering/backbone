@@ -1,5 +1,4 @@
-Trichasterina myrtaceicola Bat. & H. Maia SPECIES
-=======
+# Trichasterina myrtaceicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

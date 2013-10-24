@@ -1,5 +1,4 @@
-Tintinnus serratus SPECIES
-=======
+# Tintinnus serratus SPECIES
 
 #### Status
 ACCEPTED

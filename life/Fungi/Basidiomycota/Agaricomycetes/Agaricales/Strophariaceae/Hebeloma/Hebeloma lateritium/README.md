@@ -1,5 +1,4 @@
-Hebeloma lateritium Murrill SPECIES
-=======
+# Hebeloma lateritium Murrill SPECIES
 
 #### Status
 ACCEPTED

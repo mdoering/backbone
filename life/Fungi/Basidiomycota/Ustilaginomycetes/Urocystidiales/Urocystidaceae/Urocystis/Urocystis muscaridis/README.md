@@ -1,5 +1,4 @@
-Urocystis muscaridis (Niessl) Zundel SPECIES
-=======
+# Urocystis muscaridis (Niessl) Zundel SPECIES
 
 #### Status
 ACCEPTED

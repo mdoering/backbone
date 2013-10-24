@@ -1,5 +1,4 @@
-Moritella japonica Nogi et al., 1999 SPECIES
-=======
+# Moritella japonica Nogi et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

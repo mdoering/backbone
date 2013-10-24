@@ -1,5 +1,4 @@
-Gloeocapsa dirumpens Beck-Mannagetta SPECIES
-=======
+# Gloeocapsa dirumpens Beck-Mannagetta SPECIES
 
 #### Status
 ACCEPTED

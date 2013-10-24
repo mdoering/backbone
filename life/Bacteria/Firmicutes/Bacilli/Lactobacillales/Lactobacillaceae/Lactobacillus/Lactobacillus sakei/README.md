@@ -1,5 +1,4 @@
-Lactobacillus sakei subsp. sakei SUBSPECIES
-=======
+# Lactobacillus sakei SPECIES
 
 #### Status
 ACCEPTED

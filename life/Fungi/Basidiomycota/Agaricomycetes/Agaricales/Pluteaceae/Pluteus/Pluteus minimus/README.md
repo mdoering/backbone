@@ -1,5 +1,4 @@
-Pluteus minimus Henn. SPECIES
-=======
+# Pluteus minimus Henn. SPECIES
 
 #### Status
 ACCEPTED

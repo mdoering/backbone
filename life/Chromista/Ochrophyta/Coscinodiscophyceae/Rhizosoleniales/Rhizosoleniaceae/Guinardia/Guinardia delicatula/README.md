@@ -1,11 +1,10 @@
-Rhizosolenia delicatula P.T. Cleve, 1900 SPECIES
-=======
+# Guinardia delicatula (Cleve) G.R. Hasle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

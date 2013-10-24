@@ -1,5 +1,4 @@
-Laestadia depressa (Peck) Berl. & Voglino SPECIES
-=======
+# Laestadia depressa (Peck) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta arcuata McPartl. SPECIES
-=======
+# Ascochyta arcuata McPartl. SPECIES
 
 #### Status
 ACCEPTED

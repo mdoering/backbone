@@ -1,5 +1,4 @@
-Aphanomyces volgensis Domashova SPECIES
-=======
+# Aphanomyces volgensis Domashova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoina Cooke GENUS
-=======
+# Zignoina Cooke GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon parvisporus Bowerman SPECIES
-=======
+# Rhizopogon parvisporus Bowerman SPECIES
 
 #### Status
 ACCEPTED

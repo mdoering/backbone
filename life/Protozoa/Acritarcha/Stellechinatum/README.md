@@ -1,5 +1,4 @@
-Stellechinatum R.E. Turner, 1984 GENUS
-=======
+# Stellechinatum R.E. Turner, 1984 GENUS
 
 #### Status
 ACCEPTED

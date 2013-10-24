@@ -1,5 +1,4 @@
-Phyllocaulon wrightii (Tuck.) Vain. SPECIES
-=======
+# Phyllocaulon wrightii (Tuck.) Vain. SPECIES
 
 #### Status
 ACCEPTED

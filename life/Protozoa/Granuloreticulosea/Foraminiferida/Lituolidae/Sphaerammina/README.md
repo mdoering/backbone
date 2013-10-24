@@ -1,5 +1,4 @@
-Sphaerammina Cushman, 1910 GENUS
-=======
+# Sphaerammina Cushman, 1910 GENUS
 
 #### Status
 ACCEPTED

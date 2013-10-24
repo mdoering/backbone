@@ -1,5 +1,4 @@
-Polyporus enteroleucus Fr. SPECIES
-=======
+# Polyporus enteroleucus Fr. SPECIES
 
 #### Status
 ACCEPTED

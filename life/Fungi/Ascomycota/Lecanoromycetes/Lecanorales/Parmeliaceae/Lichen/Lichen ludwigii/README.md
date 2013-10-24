@@ -1,5 +1,4 @@
-Lichen ludwigii (Spreng.) Schrad. SPECIES
-=======
+# Lichen ludwigii (Spreng.) Schrad. SPECIES
 
 #### Status
 ACCEPTED

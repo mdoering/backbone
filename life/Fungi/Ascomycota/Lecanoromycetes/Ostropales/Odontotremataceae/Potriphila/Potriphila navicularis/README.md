@@ -1,5 +1,4 @@
-Potriphila navicularis Döbbeler SPECIES
-=======
+# Potriphila navicularis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Odontia multiformis (Berk. & Broome) Rea, 1922 SPECIES
-=======
+# Hypochnicium multiforme (Berk. & Broome) Hjortstam, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. basidiomyc. (Cambridge) 648 (1922)
+Windahlia 23: 2 (1998)
 
 #### Original name
 Hydnum multiforme Berk. & Broome, 1878

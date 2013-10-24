@@ -1,5 +1,4 @@
-Aspidisca terranovae Valbonesi, 1996 SPECIES
-=======
+# Aspidisca terranovae Valbonesi, 1996 SPECIES
 
 #### Status
 ACCEPTED

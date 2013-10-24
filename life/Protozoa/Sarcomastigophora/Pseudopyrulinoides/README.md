@@ -1,5 +1,4 @@
-Pseudopyrulinoides Fuchs, 1967 GENUS
-=======
+# Pseudopyrulinoides Fuchs, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium gdowium Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Baltisphaeridium gdowium Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

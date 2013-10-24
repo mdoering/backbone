@@ -1,5 +1,4 @@
-Cytospora aquifolii Fr., 1830 SPECIES
-=======
+# Cytospora aquifolii Fr., 1830 SPECIES
 
 #### Status
 ACCEPTED

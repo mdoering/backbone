@@ -1,5 +1,4 @@
-Lentinus panziensis Singer SPECIES
-=======
+# Lentinus panziensis Singer SPECIES
 
 #### Status
 ACCEPTED

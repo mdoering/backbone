@@ -1,5 +1,4 @@
-Cyathicula nothofaginea (Gamundí, Aramb. & Giaiotti) Gamundí SPECIES
-=======
+# Cyathicula nothofaginea (Gamundí, Aramb. & Giaiotti) Gamundí SPECIES
 
 #### Status
 ACCEPTED

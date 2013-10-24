@@ -1,5 +1,4 @@
-Appendispora australiensis J. Fröhl. & K.D. Hyde, 1999 SPECIES
-=======
+# Appendispora australiensis J. Fröhl. & K.D. Hyde, 1999 SPECIES
 
 #### Status
 ACCEPTED

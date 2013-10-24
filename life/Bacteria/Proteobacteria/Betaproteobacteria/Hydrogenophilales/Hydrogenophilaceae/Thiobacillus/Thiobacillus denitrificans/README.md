@@ -1,5 +1,4 @@
-Thiobacillus denitrificans (ex Beijerinck, 1904) Kelly & Harrison, 1989 SPECIES
-=======
+# Thiobacillus denitrificans (ex Beijerinck, 1904) Kelly & Harrison, 1989 SPECIES
 
 #### Status
 ACCEPTED

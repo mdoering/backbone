@@ -1,5 +1,4 @@
-Sphaeropezia andromedae subsp. rhododendri Sacc. SUBSPECIES
-=======
+# Sphaeropezia andromedae (Fr.) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Malpighia 11: 81 (1897)
+Discom. 1(3): 73 (1888)
 
 #### Original name
-Sphaeropezia andromedae subsp. rhododendri Sacc.
+Phacidium andromedae Fr.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Ectochytridium willei (Löwenthal) Scherff., 1925 SPECIES
-=======
+# Zygorhizidium willei Löwenthal, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Protistenk. 5: 228 (1904)
 
 #### Original name
 Zygorhizidium willei Löwenthal, 1904

@@ -1,5 +1,4 @@
-Coniothyrium lycopodinum Sacc. & Paol. SPECIES
-=======
+# Coniothyrium lycopodinum Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

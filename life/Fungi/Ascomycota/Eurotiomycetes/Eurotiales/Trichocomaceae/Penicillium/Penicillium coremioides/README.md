@@ -1,5 +1,4 @@
-Penicillium coremioides J. Kickx f. SPECIES
-=======
+# Penicillium coremioides J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

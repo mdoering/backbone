@@ -1,14 +1,13 @@
-Mollisia filispora (Cooke) Baral, 2008 SPECIES
-=======
+# Belonopsis filispora (Cooke) Nannf., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 20: 192 (1936)
 
 #### Original name
 null

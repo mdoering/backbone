@@ -1,5 +1,4 @@
-Triceratium gombosii J. Fenner SPECIES
-=======
+# Triceratium gombosii J. Fenner SPECIES
 
 #### Status
 ACCEPTED

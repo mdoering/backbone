@@ -1,5 +1,4 @@
-Paleopyrenomycites Taylor, Hass, Kerp, M. Krings & Hanlin GENUS
-=======
+# Paleopyrenomycites Taylor, Hass, Kerp, M. Krings & Hanlin GENUS
 
 #### Status
 ACCEPTED

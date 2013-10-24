@@ -1,5 +1,4 @@
-Sphaeria melanaspis Mont. SPECIES
-=======
+# Sphaeria melanaspis Mont. SPECIES
 
 #### Status
 ACCEPTED

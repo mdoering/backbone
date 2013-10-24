@@ -1,5 +1,4 @@
-Erysiphe pulchra (Cooke & Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe pulchra (Cooke & Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

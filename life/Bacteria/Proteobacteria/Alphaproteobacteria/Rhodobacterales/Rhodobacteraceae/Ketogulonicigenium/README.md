@@ -1,5 +1,4 @@
-Ketogulonicigenium Urbance, Bratina, Stoddard & Schmidt, 2001 GENUS
-=======
+# Ketogulonicigenium Urbance, Bratina, Stoddard & Schmidt, 2001 GENUS
 
 #### Status
 ACCEPTED

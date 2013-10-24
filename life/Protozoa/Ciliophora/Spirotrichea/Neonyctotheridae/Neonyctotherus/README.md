@@ -1,5 +1,4 @@
-Neonyctotherus Affa'a, 1983 GENUS
-=======
+# Neonyctotherus Affa'a, 1983 GENUS
 
 #### Status
 ACCEPTED

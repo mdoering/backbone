@@ -1,5 +1,4 @@
-Microdiplodia brachyspora (Sacc.) Allesch. SPECIES
-=======
+# Microdiplodia brachyspora (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

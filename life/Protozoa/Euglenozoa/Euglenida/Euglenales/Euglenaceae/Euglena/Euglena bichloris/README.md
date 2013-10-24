@@ -1,5 +1,4 @@
-Euglena bichloris Schiller SPECIES
-=======
+# Euglena bichloris Schiller SPECIES
 
 #### Status
 ACCEPTED

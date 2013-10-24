@@ -1,5 +1,4 @@
-Agaricus spodolepis Berk. & Broome SPECIES
-=======
+# Agaricus spodolepis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

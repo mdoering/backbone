@@ -1,5 +1,4 @@
-Bottaria nudior (Nyl.) Vain. SPECIES
-=======
+# Bottaria nudior (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

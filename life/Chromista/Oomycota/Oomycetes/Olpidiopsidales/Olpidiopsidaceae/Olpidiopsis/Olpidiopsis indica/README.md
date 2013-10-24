@@ -1,5 +1,4 @@
-Olpidiopsis indica G.C. Srivast., 1975 SPECIES
-=======
+# Olpidiopsis indica G.C. Srivast., 1975 SPECIES
 
 #### Status
 ACCEPTED

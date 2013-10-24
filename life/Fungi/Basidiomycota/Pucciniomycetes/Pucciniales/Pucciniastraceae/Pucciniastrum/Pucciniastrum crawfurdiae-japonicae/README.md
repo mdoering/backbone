@@ -1,5 +1,4 @@
-Pucciniastrum crawfurdiae-japonicae SPECIES
-=======
+# Pucciniastrum crawfurdiae-japonicae SPECIES
 
 #### Status
 ACCEPTED

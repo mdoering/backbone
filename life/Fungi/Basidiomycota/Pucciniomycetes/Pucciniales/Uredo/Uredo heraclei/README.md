@@ -1,17 +1,16 @@
-Uredo umbellatarum f. heraclei FORM
-=======
+# Uredo heraclei (Grev.) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Puccinia heraclei Grev., 1823
 
 ### Remarks
 null

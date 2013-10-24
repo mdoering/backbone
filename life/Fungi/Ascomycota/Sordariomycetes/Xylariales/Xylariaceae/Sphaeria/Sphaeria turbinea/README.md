@@ -1,5 +1,4 @@
-Sphaeria turbinea R. Ludw. SPECIES
-=======
+# Sphaeria turbinea R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

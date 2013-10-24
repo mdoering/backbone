@@ -1,5 +1,4 @@
-Aecidium aridum Dietel & Neger SPECIES
-=======
+# Aecidium aridum Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

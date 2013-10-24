@@ -1,5 +1,4 @@
-Pezizella carneorosea (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Pezizella carneorosea (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodiplodia ficina (Syd. & P. Syd.) Zambett. SPECIES
-=======
+# Placodiplodia ficina (Syd. & P. Syd.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

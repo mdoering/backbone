@@ -1,5 +1,4 @@
-Cortinarius cystidiocatenatus (Grgur.) Gasparini SPECIES
-=======
+# Cortinarius cystidiocatenatus (Grgur.) Gasparini SPECIES
 
 #### Status
 ACCEPTED

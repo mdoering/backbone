@@ -1,5 +1,4 @@
-Comatricha aggregata M.L. Farr, 1957 SPECIES
-=======
+# Comatricha aggregata M.L. Farr, 1957 SPECIES
 
 #### Status
 ACCEPTED

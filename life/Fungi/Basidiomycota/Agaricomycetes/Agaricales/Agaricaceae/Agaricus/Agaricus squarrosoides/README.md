@@ -1,5 +1,4 @@
-Agaricus squarrosoides Peck SPECIES
-=======
+# Agaricus squarrosoides Peck SPECIES
 
 #### Status
 ACCEPTED

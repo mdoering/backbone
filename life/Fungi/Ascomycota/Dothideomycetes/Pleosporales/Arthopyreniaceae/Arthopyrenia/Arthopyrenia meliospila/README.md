@@ -1,5 +1,4 @@
-Arthopyrenia meliospila (Nyl.) H. Olivier SPECIES
-=======
+# Arthopyrenia meliospila (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyuchus carpophorus Zopf SPECIES
-=======
+# Dictyuchus carpophorus Zopf SPECIES
 
 #### Status
 ACCEPTED

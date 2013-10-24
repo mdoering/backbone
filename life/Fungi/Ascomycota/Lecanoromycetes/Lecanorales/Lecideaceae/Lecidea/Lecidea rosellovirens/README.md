@@ -1,5 +1,4 @@
-Lecidea rosellovirens (Nyl.) Hue SPECIES
-=======
+# Lecidea rosellovirens (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

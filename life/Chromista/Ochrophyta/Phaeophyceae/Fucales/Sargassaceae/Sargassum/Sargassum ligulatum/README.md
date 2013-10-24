@@ -1,8 +1,7 @@
-Carpacanthus subalatus (Sonder) Kützing SPECIES
-=======
+# Sargassum ligulatum C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

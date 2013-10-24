@@ -1,5 +1,4 @@
-Didymaria erodii Christoff & Christova SPECIES
-=======
+# Didymaria erodii Christoff & Christova SPECIES
 
 #### Status
 ACCEPTED

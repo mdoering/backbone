@@ -1,14 +1,13 @@
-Peniophora gigantea subsp. cornea Bourdot & Galzin SUBSPECIES
-=======
+# Crustoderma corneum (Bourdot & Galzin) Nakasone, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 318 (1928)
+Mycologia 76(1): 45 (1984)
 
 #### Original name
 Peniophora gigantea subsp. cornea Bourdot & Galzin

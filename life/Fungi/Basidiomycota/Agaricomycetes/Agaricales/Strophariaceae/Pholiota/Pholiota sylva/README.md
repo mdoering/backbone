@@ -1,5 +1,4 @@
-Pholiota sylva Natarajan & C. Ravindran SPECIES
-=======
+# Pholiota sylva Natarajan & C. Ravindran SPECIES
 
 #### Status
 ACCEPTED

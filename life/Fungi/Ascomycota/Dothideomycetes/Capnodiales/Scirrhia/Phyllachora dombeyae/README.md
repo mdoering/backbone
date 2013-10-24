@@ -1,5 +1,4 @@
-Phyllachora dombeyae (Syd.) Syd., 1915 SPECIES
-=======
+# Phyllachora dombeyae (Syd.) Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

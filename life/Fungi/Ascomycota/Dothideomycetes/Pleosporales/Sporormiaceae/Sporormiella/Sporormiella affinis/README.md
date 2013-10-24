@@ -1,17 +1,16 @@
-Preussia affinis (Sacc., E. Bommer & M. Rousseau) Valldos. & Guarro, 1990 SPECIES
-=======
+# Sporormiella affinis (Sacc., E. Bommer & M. Rousseau) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 50(3): 425 (1972)
 
 #### Original name
-null
+Sporormia affinis Sacc., E. Bommer & M. Rousseau, 1886
 
 ### Remarks
 null

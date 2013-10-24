@@ -1,5 +1,4 @@
-Caldanaerobacter Fardeau et al., 2004 GENUS
-=======
+# Caldanaerobacter Fardeau et al., 2004 GENUS
 
 #### Status
 ACCEPTED

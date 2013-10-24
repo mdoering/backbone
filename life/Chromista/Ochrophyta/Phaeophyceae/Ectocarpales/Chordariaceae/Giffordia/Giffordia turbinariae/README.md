@@ -1,5 +1,4 @@
-Giffordia turbinariae Jaasund SPECIES
-=======
+# Giffordia turbinariae Jaasund SPECIES
 
 #### Status
 ACCEPTED

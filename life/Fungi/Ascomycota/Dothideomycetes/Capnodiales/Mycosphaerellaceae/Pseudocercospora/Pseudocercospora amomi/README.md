@@ -1,5 +1,4 @@
-Pseudocercospora amomi (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora amomi (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eustigmatos D.J.Hibberd, 1981 GENUS
-=======
+# Eustigmatos D.J.Hibberd, 1981 GENUS
 
 #### Status
 ACCEPTED

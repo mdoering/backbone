@@ -1,5 +1,4 @@
-Leptopuccinia galatellae (P. Syd. & Syd.) Syd. SPECIES
-=======
+# Leptopuccinia galatellae (P. Syd. & Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

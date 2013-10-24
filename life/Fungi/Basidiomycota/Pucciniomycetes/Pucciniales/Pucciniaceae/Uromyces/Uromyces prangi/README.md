@@ -1,5 +1,4 @@
-Uromyces prangi Har. SPECIES
-=======
+# Uromyces prangi Har. SPECIES
 
 #### Status
 ACCEPTED

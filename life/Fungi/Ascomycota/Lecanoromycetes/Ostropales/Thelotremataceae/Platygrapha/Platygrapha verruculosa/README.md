@@ -1,5 +1,4 @@
-Platygrapha verruculosa (C. Knight) Müll. Arg. SPECIES
-=======
+# Platygrapha verruculosa (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

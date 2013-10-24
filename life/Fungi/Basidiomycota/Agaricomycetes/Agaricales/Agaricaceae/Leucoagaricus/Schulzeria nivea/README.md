@@ -1,5 +1,4 @@
-Schulzeria nivea Beeli SPECIES
-=======
+# Schulzeria nivea Beeli SPECIES
 
 #### Status
 ACCEPTED

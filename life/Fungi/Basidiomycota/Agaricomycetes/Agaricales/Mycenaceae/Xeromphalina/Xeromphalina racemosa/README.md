@@ -1,5 +1,4 @@
-Xeromphalina racemosa G. Stev. & G.M. Taylor SPECIES
-=======
+# Xeromphalina racemosa G. Stev. & G.M. Taylor SPECIES
 
 #### Status
 ACCEPTED

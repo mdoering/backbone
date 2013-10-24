@@ -1,5 +1,4 @@
-Scutomollisia fimbriomarginata Graddon, 1980 SPECIES
-=======
+# Scutomollisia fimbriomarginata Graddon, 1980 SPECIES
 
 #### Status
 ACCEPTED

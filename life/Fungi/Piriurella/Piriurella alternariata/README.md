@@ -1,5 +1,4 @@
-Piriurella alternariata Kalgutkar & Sigler SPECIES
-=======
+# Piriurella alternariata Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dilatiphaera T.R. Lister, 1970 GENUS
-=======
+# Dilatiphaera T.R. Lister, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina chrysanthemi Hollós SPECIES
-=======
+# Diplodina chrysanthemi Hollós SPECIES
 
 #### Status
 ACCEPTED

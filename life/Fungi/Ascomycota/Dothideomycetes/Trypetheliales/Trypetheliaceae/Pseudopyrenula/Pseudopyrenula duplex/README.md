@@ -1,5 +1,4 @@
-Pseudopyrenula duplex (Fée) Vain. SPECIES
-=======
+# Pseudopyrenula duplex (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED

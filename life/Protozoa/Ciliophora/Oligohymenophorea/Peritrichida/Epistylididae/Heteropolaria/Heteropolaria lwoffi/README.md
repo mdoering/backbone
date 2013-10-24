@@ -1,8 +1,7 @@
-Epistylis lwoffi Faure-Fremiet, 1943 SPECIES
-=======
+# Heteropolaria lwoffi (Faure-Fremiet, 1943) Foissner & Schubert, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

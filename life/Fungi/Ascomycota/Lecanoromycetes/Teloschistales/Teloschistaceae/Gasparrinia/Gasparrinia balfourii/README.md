@@ -1,5 +1,4 @@
-Gasparrinia balfourii (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Gasparrinia balfourii (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

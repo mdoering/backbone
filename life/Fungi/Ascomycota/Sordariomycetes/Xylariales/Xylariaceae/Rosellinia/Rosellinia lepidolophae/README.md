@@ -1,5 +1,4 @@
-Rosellinia lepidolophae Byzova & Vasyag. SPECIES
-=======
+# Rosellinia lepidolophae Byzova & Vasyag. SPECIES
 
 #### Status
 ACCEPTED

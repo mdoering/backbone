@@ -1,5 +1,4 @@
-Arthonia fusconigra Nyl. SPECIES
-=======
+# Arthonia fusconigra Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius legitimus Britzelm. SPECIES
-=======
+# Cortinarius legitimus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium minutulum (Bagl.) Nádv. SPECIES
-=======
+# Calicium minutulum (Bagl.) Nádv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pseudovalsa profusa (Fr.) G. Winter SPECIES
-=======
+# Aglaospora profusa (Fr.) De Not. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+G. bot. ital. 2: 43 (1844)
 
 #### Original name
 Sphaeria profusa Sowerby

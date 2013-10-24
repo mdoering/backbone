@@ -1,17 +1,16 @@
-Tyromyces subfribrillosus Corner SPECIES
-=======
+# Tyromyces mollicaseus Corner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 96: 178 (1989)
 
 #### Original name
-Tyromyces subfribrillosus Corner
+Tyromyces mollicaseus Corner, 1989
 
 ### Remarks
 null

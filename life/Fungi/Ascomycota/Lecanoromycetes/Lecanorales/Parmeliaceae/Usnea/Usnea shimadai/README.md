@@ -1,5 +1,4 @@
-Usnea shimadai Asahina SPECIES
-=======
+# Usnea shimadai Asahina SPECIES
 
 #### Status
 ACCEPTED

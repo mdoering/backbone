@@ -1,5 +1,4 @@
-Hydnum versipelliforme Allesch. SPECIES
-=======
+# Hydnum versipelliforme Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichlaena bovina (Scalia) C. Booth SPECIES
-=======
+# Dichlaena bovina (Scalia) C. Booth SPECIES
 
 #### Status
 ACCEPTED

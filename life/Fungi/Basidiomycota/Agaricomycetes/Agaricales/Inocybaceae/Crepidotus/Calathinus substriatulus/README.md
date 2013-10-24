@@ -1,5 +1,4 @@
-Calathinus substriatulus Singer SPECIES
-=======
+# Calathinus substriatulus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria praetermissa Döbbeler, 1978 SPECIES
-=======
+# Bryonectria praetermissa (Döbbeler) Döbbeler, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. StSamml. , Münch. 14: 88 (1978)
+Nova Hedwigia 66(3-4): 335 (1998)
 
 #### Original name
 Nectria praetermissa Döbbeler, 1978

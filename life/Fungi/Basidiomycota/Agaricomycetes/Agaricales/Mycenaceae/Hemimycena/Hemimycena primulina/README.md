@@ -1,5 +1,4 @@
-Hemimycena primulina Dennis SPECIES
-=======
+# Hemimycena primulina Dennis SPECIES
 
 #### Status
 ACCEPTED

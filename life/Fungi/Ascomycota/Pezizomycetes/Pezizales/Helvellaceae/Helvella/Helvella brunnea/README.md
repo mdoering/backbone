@@ -1,5 +1,4 @@
-Helvella brunnea J.F. Gmel. SPECIES
-=======
+# Helvella brunnea J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

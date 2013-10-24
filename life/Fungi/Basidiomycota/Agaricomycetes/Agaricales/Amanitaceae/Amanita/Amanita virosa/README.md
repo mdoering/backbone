@@ -1,17 +1,16 @@
-Amanita virosa var. levipes Neville & Poumarat VARIETY
-=======
+# Amanita virosa (Fr.) Bertill., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi europ. (Alassio) 9: 600 (2004)
+Essai Crypt. Exot. (Paris) 3: 497 (1866)
 
 #### Original name
-Amanita virosa var. levipes Neville & Poumarat
+Agaricus virosus Fr., 1838
 
 ### Remarks
 null

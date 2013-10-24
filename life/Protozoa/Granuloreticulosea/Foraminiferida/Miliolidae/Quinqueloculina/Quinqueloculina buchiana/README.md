@@ -1,5 +1,4 @@
-Quinqueloculina buchiana d'Orbigny SPECIES
-=======
+# Quinqueloculina buchiana d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

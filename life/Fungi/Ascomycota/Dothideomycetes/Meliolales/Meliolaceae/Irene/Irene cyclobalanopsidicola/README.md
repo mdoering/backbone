@@ -1,8 +1,7 @@
-Irene cyclobalanopsicola W. Yamam. SPECIES
-=======
+# Irene cyclobalanopsidicola W. Yamam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irene cyclobalanopsicola W. Yamam.
+Irene cyclobalanopsidicola W. Yamam.
 
 ### Remarks
 null

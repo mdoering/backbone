@@ -1,5 +1,4 @@
-Phyllachora maculicola Syd. & P. Syd., 1916 SPECIES
-=======
+# Phyllachora maculicola Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 DOUBTFUL

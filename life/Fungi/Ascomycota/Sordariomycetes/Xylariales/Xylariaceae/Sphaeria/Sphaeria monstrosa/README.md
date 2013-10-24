@@ -1,5 +1,4 @@
-Sphaeria monstrosa Schwein. SPECIES
-=======
+# Sphaeria monstrosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

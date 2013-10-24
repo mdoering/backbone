@@ -1,5 +1,4 @@
-Coenogonium magdalenae Rivas Plata, Lücking & Lizano SPECIES
-=======
+# Coenogonium magdalenae Rivas Plata, Lücking & Lizano SPECIES
 
 #### Status
 ACCEPTED

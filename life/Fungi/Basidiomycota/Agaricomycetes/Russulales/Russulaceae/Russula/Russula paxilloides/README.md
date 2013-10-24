@@ -1,5 +1,4 @@
-Russula paxilloides Earle SPECIES
-=======
+# Russula paxilloides Earle SPECIES
 
 #### Status
 ACCEPTED

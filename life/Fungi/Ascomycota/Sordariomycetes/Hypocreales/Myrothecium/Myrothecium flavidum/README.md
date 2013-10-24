@@ -1,5 +1,4 @@
-Myrothecium flavidum Pers. SPECIES
-=======
+# Myrothecium flavidum Pers. SPECIES
 
 #### Status
 ACCEPTED

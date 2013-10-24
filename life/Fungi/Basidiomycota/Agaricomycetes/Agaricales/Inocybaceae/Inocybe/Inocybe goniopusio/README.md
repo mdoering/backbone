@@ -1,5 +1,4 @@
-Inocybe goniopusio Stangl SPECIES
-=======
+# Inocybe goniopusio Stangl SPECIES
 
 #### Status
 ACCEPTED

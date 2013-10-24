@@ -1,5 +1,4 @@
-Gonytrichum ceramicola Hoffm. SPECIES
-=======
+# Gonytrichum ceramicola Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia suffusa C. Knight SPECIES
-=======
+# Arthonia suffusa C. Knight SPECIES
 
 #### Status
 ACCEPTED

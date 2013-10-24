@@ -1,5 +1,4 @@
-Helvella jimsarica W.Y. Zhuang SPECIES
-=======
+# Helvella jimsarica W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

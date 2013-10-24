@@ -1,5 +1,4 @@
-Parastempellia odagmiae Khodzhaeva SPECIES
-=======
+# Parastempellia odagmiae Khodzhaeva SPECIES
 
 #### Status
 ACCEPTED

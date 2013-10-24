@@ -1,5 +1,4 @@
-Desulfurococcales Huber & Stetter, 2002 ORDER
-=======
+# Desulfurococcales Huber & Stetter, 2002 ORDER
 
 #### Status
 ACCEPTED

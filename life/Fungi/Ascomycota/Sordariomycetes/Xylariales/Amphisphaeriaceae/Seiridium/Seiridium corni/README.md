@@ -1,5 +1,4 @@
-Seiridium corni (Allesch.) B. Sutton SPECIES
-=======
+# Seiridium corni (Allesch.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

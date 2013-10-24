@@ -1,5 +1,4 @@
-Fusarium maydis Kalchbr. SPECIES
-=======
+# Fusarium maydis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

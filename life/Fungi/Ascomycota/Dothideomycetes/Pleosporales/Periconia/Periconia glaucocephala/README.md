@@ -1,14 +1,13 @@
-Graphium glaucocephalum (Corda) Sacc. SPECIES
-=======
+# Periconia glaucocephala Corda, 1839 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 616 (1886)
+Icon. fung. (Prague) 3: 13 (1839)
 
 #### Original name
 Periconia glaucocephala Corda, 1839

@@ -1,5 +1,4 @@
-Hymenoscyphus tamaricis R. Galán, Baral & A. Ortega, 1997 SPECIES
-=======
+# Hymenoscyphus tamaricis R. Galán, Baral & A. Ortega, 1997 SPECIES
 
 #### Status
 ACCEPTED

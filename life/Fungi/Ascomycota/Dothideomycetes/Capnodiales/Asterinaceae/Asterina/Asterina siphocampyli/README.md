@@ -1,5 +1,4 @@
-Asterina siphocampyli Syd. SPECIES
-=======
+# Asterina siphocampyli Syd. SPECIES
 
 #### Status
 ACCEPTED

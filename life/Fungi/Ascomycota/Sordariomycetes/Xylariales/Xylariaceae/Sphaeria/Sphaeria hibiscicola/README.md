@@ -1,5 +1,4 @@
-Sphaeria hibiscicola Schwein. SPECIES
-=======
+# Sphaeria hibiscicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

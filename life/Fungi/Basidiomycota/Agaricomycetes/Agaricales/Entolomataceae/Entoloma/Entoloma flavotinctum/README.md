@@ -1,5 +1,4 @@
-Entoloma flavotinctum E. Horak & Corner SPECIES
-=======
+# Entoloma flavotinctum E. Horak & Corner SPECIES
 
 #### Status
 ACCEPTED

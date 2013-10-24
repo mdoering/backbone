@@ -1,5 +1,4 @@
-Russula subviridescens Buyck SPECIES
-=======
+# Russula subviridescens Buyck SPECIES
 
 #### Status
 ACCEPTED

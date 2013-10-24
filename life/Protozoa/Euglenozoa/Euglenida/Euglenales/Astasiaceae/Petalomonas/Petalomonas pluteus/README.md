@@ -1,5 +1,4 @@
-Petalomonas pluteus Christen SPECIES
-=======
+# Petalomonas pluteus Christen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomerium criniporum Bat. & Cif. SPECIES
-=======
+# Trichomerium criniporum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

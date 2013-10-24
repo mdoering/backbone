@@ -1,5 +1,4 @@
-Peridermium klebahnii E. Fisch. SPECIES
-=======
+# Peridermium klebahnii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethromyces acanthoglossae Thaxt. SPECIES
-=======
+# Corethromyces acanthoglossae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

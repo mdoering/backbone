@@ -1,5 +1,4 @@
-Rinodina cretica H. Mayrhofer SPECIES
-=======
+# Rinodina cretica H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

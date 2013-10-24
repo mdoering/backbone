@@ -1,5 +1,4 @@
-Placodium stapfianum Müll. Arg. SPECIES
-=======
+# Placodium stapfianum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

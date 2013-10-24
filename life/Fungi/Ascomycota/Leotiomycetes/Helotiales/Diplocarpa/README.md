@@ -1,5 +1,4 @@
-Diplocarpa Massee GENUS
-=======
+# Diplocarpa Massee GENUS
 
 #### Status
 ACCEPTED

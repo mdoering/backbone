@@ -1,14 +1,13 @@
-Zwackhiomyces argentinae (Räsänen) D. Hawksw. & V. Atienza SPECIES
-=======
+# Zwackhiomyces argentina (Räsänen) D. Hawksw. & V. Atienza SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta bot. fenn. 150: 54 (1994)
 
 #### Original name
 Pharcidia argentina Räsänen

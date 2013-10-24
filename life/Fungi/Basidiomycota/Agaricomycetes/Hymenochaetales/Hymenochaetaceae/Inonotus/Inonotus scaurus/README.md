@@ -1,5 +1,4 @@
-Inonotus scaurus (Lloyd) T. Hatt. SPECIES
-=======
+# Inonotus scaurus (Lloyd) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

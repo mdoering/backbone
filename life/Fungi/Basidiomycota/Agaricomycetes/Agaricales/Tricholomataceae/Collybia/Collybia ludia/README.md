@@ -1,5 +1,4 @@
-Collybia ludia (Fr.) Gillet SPECIES
-=======
+# Collybia ludia (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea fuscella Müll. Arg. SPECIES
-=======
+# Lecidea fuscella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

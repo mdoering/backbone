@@ -1,5 +1,4 @@
-Rhizocarpon fratricida Poelt & Nimis SPECIES
-=======
+# Rhizocarpon fratricida Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

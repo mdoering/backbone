@@ -1,5 +1,4 @@
-Usnea scaberrima (Mont.) Motyka SPECIES
-=======
+# Usnea scaberrima (Mont.) Motyka SPECIES
 
 #### Status
 ACCEPTED

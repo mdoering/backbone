@@ -1,5 +1,4 @@
-Inocybe ortegae Esteve-Rav. SPECIES
-=======
+# Inocybe ortegae Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

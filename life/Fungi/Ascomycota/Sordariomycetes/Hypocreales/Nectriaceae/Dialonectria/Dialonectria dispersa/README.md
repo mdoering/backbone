@@ -1,5 +1,4 @@
-Dialonectria dispersa (Cooke & Ellis) Cooke SPECIES
-=======
+# Dialonectria dispersa (Cooke & Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

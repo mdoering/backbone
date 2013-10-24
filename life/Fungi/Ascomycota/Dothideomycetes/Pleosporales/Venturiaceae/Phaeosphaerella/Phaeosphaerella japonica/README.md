@@ -1,5 +1,4 @@
-Phaeosphaerella japonica Shirai & Hara SPECIES
-=======
+# Phaeosphaerella japonica Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

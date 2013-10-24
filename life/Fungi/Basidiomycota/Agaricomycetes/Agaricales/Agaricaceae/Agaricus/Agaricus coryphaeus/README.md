@@ -1,5 +1,4 @@
-Agaricus coryphaeus Fr. SPECIES
-=======
+# Agaricus coryphaeus Fr. SPECIES
 
 #### Status
 ACCEPTED

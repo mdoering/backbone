@@ -1,5 +1,4 @@
-Opegrapha scalpturata (Ach.) Mont. SPECIES
-=======
+# Opegrapha scalpturata (Ach.) Mont. SPECIES
 
 #### Status
 ACCEPTED

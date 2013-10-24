@@ -1,5 +1,4 @@
-Entoloma nigrovillosum Corner & E. Horak SPECIES
-=======
+# Entoloma nigrovillosum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

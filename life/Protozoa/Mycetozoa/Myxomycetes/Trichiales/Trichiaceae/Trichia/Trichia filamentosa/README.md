@@ -1,5 +1,4 @@
-Trichia filamentosa Trentep. SPECIES
-=======
+# Trichia filamentosa Trentep. SPECIES
 
 #### Status
 ACCEPTED

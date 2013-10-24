@@ -1,5 +1,4 @@
-Plectonema golenkinianum Gomont SPECIES
-=======
+# Plectonema golenkinianum Gomont SPECIES
 
 #### Status
 ACCEPTED

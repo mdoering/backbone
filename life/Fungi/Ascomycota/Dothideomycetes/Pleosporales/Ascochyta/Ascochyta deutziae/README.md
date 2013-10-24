@@ -1,5 +1,4 @@
-Ascochyta deutziae Bres. SPECIES
-=======
+# Ascochyta deutziae Bres. SPECIES
 
 #### Status
 ACCEPTED

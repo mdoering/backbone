@@ -1,5 +1,4 @@
-Holosticha alpestris Kahl, 1932 SPECIES
-=======
+# Holosticha alpestris Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

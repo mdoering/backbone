@@ -1,5 +1,4 @@
-Mimeticus Small & Lynn, 1985 GENUS
-=======
+# Mimeticus Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

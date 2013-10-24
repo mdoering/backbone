@@ -1,5 +1,4 @@
-Galerula cryptocystis G.F. Atk. SPECIES
-=======
+# Galerula cryptocystis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

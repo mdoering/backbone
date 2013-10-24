@@ -1,5 +1,4 @@
-Caeoma anthurii Har. SPECIES
-=======
+# Caeoma anthurii Har. SPECIES
 
 #### Status
 ACCEPTED

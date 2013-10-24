@@ -1,5 +1,4 @@
-Lecanora orizabana Vain. SPECIES
-=======
+# Lecanora orizabana Vain. SPECIES
 
 #### Status
 ACCEPTED

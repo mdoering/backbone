@@ -1,5 +1,4 @@
-Haptoglossa intermedia G.L. Barron, 1989 SPECIES
-=======
+# Haptoglossa intermedia G.L. Barron, 1989 SPECIES
 
 #### Status
 ACCEPTED

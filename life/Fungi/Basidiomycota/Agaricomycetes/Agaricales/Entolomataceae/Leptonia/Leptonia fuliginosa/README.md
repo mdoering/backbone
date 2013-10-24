@@ -1,5 +1,4 @@
-Leptonia fuliginosa Murrill SPECIES
-=======
+# Leptonia fuliginosa Murrill SPECIES
 
 #### Status
 ACCEPTED

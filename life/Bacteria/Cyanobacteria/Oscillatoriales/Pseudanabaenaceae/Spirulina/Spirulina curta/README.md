@@ -1,5 +1,4 @@
-Spirulina curta (Lemmermann) Geitler SPECIES
-=======
+# Spirulina curta (Lemmermann) Geitler SPECIES
 
 #### Status
 ACCEPTED

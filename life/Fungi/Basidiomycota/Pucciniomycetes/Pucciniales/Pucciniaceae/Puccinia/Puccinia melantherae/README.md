@@ -1,5 +1,4 @@
-Puccinia melantherae Henn. SPECIES
-=======
+# Puccinia melantherae Henn. SPECIES
 
 #### Status
 ACCEPTED

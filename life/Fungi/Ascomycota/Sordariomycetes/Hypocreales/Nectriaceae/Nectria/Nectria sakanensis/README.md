@@ -1,5 +1,4 @@
-Nectria sakanensis Henn. SPECIES
-=======
+# Nectria sakanensis Henn. SPECIES
 
 #### Status
 ACCEPTED

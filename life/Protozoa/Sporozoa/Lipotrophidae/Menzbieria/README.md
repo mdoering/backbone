@@ -1,5 +1,4 @@
-Menzbieria Bogoyavlensky, 1922 GENUS
-=======
+# Menzbieria Bogoyavlensky, 1922 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Psilocybe macquariensis (Singer) E. Horak, 1982 SPECIES
-=======
+# Psathyrella macquariensis Singer, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 51(3): 392 (1959)
 
 #### Original name
 Psathyrella macquariensis Singer, 1959

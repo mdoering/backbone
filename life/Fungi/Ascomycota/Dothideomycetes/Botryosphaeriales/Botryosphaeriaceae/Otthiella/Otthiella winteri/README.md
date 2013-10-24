@@ -1,5 +1,4 @@
-Otthiella winteri (Rehm) Sacc. & D. Sacc. SPECIES
-=======
+# Otthiella winteri (Rehm) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

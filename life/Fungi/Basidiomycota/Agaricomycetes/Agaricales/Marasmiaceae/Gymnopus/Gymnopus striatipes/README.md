@@ -1,5 +1,4 @@
-Gymnopus striatipes (Peck) Halling SPECIES
-=======
+# Gymnopus striatipes (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

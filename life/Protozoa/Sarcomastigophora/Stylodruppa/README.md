@@ -1,5 +1,4 @@
-Stylodruppa Kazintsova, 1979 GENUS
-=======
+# Stylodruppa Kazintsova, 1979 GENUS
 
 #### Status
 ACCEPTED

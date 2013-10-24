@@ -1,5 +1,4 @@
-Caloplaca flavoirrescens (Wulf.) Dalla Torre & Saruth. SPECIES
-=======
+# Caloplaca flavoirrescens (Wulf.) Dalla Torre & Saruth. SPECIES
 
 #### Status
 ACCEPTED

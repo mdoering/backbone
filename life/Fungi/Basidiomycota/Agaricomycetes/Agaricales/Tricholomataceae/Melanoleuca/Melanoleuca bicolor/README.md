@@ -1,5 +1,4 @@
-Melanoleuca bicolor Murrill SPECIES
-=======
+# Melanoleuca bicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

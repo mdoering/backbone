@@ -1,5 +1,4 @@
-Aglaospora macrosperma Pers. SPECIES
-=======
+# Aglaospora macrosperma Pers. SPECIES
 
 #### Status
 ACCEPTED

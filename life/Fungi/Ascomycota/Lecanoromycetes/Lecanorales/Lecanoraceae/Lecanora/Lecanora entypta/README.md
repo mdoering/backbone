@@ -1,5 +1,4 @@
-Lecanora entypta (Kremp.) Zahlbr. SPECIES
-=======
+# Lecanora entypta (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

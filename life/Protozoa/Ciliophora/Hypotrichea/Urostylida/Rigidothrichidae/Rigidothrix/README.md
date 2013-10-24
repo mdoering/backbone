@@ -1,5 +1,4 @@
-Rigidothrix Foissner & Stoeck, 2006 GENUS
-=======
+# Rigidothrix Foissner & Stoeck, 2006 GENUS
 
 #### Status
 ACCEPTED

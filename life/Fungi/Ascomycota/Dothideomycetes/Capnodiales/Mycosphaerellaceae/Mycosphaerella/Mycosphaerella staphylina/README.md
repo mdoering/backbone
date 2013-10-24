@@ -1,5 +1,4 @@
-Mycosphaerella staphylina (Ellis & Everh.) J.H. Mill. SPECIES
-=======
+# Mycosphaerella staphylina (Ellis & Everh.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

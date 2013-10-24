@@ -1,5 +1,4 @@
-Pterocystis Lohmann, 1904 GENUS
-=======
+# Pterocystis Lohmann, 1904 GENUS
 
 #### Status
 ACCEPTED

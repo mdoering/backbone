@@ -1,5 +1,4 @@
-Cyclagelosphaera shenleyensis SPECIES
-=======
+# Cyclagelosphaera shenleyensis SPECIES
 
 #### Status
 ACCEPTED

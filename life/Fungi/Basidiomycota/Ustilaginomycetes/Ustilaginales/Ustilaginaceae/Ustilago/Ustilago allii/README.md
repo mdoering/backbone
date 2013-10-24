@@ -1,5 +1,4 @@
-Ustilago allii McAlpine SPECIES
-=======
+# Ustilago allii McAlpine SPECIES
 
 #### Status
 ACCEPTED

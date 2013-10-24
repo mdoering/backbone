@@ -1,5 +1,4 @@
-Lepiota albiceps Pat. & Gaillard SPECIES
-=======
+# Lepiota albiceps Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

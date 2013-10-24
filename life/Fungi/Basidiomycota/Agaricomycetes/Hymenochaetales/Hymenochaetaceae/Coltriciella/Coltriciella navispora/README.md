@@ -1,5 +1,4 @@
-Coltriciella navispora T.W. Henkel, Aime & Ryvarden, 2003 SPECIES
-=======
+# Coltriciella navispora T.W. Henkel, Aime & Ryvarden, 2003 SPECIES
 
 #### Status
 ACCEPTED

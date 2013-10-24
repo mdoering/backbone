@@ -1,5 +1,4 @@
-Cyphella juniperi Velen. SPECIES
-=======
+# Cyphella juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

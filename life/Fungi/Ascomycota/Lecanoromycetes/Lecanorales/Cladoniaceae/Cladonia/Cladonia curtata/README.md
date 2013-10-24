@@ -1,5 +1,4 @@
-Cladonia curtata Britzelm. SPECIES
-=======
+# Cladonia curtata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

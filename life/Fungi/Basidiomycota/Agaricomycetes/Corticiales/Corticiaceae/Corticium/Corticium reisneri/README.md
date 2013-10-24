@@ -1,5 +1,4 @@
-Corticium reisneri Velen. SPECIES
-=======
+# Corticium reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

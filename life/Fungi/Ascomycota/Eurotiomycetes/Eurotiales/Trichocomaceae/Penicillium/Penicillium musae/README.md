@@ -1,5 +1,4 @@
-Penicillium musae Weid. SPECIES
-=======
+# Penicillium musae Weid. SPECIES
 
 #### Status
 ACCEPTED

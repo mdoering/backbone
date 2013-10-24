@@ -1,5 +1,4 @@
-Pseudocercospora lespedezicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora lespedezicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

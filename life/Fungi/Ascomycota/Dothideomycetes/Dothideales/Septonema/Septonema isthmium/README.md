@@ -1,5 +1,4 @@
-Septonema isthmium Pound & Clem. SPECIES
-=======
+# Septonema isthmium Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

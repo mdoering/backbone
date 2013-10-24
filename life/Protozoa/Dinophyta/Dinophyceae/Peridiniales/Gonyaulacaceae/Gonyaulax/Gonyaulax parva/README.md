@@ -1,5 +1,4 @@
-Gonyaulax parva Ramsfjell SPECIES
-=======
+# Gonyaulax parva Ramsfjell SPECIES
 
 #### Status
 ACCEPTED

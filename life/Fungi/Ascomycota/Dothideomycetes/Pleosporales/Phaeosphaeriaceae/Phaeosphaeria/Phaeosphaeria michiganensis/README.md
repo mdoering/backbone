@@ -1,5 +1,4 @@
-Phaeosphaeria michiganensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria michiganensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

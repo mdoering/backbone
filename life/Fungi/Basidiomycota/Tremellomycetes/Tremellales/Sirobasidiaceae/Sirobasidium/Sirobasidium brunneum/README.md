@@ -1,5 +1,4 @@
-Sirobasidium brunneum Lloyd SPECIES
-=======
+# Sirobasidium brunneum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina papillata Syd. SPECIES
-=======
+# Asterina papillata Syd. SPECIES
 
 #### Status
 ACCEPTED

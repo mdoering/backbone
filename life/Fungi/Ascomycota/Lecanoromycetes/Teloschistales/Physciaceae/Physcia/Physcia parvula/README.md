@@ -1,5 +1,4 @@
-Physcia parvula var. parvula VARIETY
-=======
+# Physcia parvula Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia parvula var. parvula
+Physcia parvula Vain.
 
 ### Remarks
 null

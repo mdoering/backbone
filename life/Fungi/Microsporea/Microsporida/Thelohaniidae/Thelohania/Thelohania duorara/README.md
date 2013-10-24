@@ -1,5 +1,4 @@
-Thelohania duorara E.S. Iversen & R.B. Manning SPECIES
-=======
+# Thelohania duorara E.S. Iversen & R.B. Manning SPECIES
 
 #### Status
 ACCEPTED

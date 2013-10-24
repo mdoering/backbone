@@ -1,5 +1,4 @@
-Russula patriotica Murrill SPECIES
-=======
+# Russula patriotica Murrill SPECIES
 
 #### Status
 ACCEPTED

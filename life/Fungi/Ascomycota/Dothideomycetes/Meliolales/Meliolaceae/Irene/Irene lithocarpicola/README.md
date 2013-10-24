@@ -1,5 +1,4 @@
-Irene lithocarpicola W. Yamam. SPECIES
-=======
+# Irene lithocarpicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraophiodina eucopiae Théodoridès & Desportes, 1975 SPECIES
-=======
+# Paraophiodina eucopiae Théodoridès & Desportes, 1975 SPECIES
 
 #### Status
 ACCEPTED

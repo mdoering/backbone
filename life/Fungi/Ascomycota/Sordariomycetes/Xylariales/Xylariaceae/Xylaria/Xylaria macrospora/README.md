@@ -1,5 +1,4 @@
-Xylaria macrospora (Penz. & Sacc.) P.M.D. Martin SPECIES
-=======
+# Xylaria macrospora (Penz. & Sacc.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

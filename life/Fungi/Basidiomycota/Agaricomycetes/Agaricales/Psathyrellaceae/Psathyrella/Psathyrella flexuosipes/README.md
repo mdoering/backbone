@@ -1,5 +1,4 @@
-Psathyrella flexuosipes A.H. Sm. SPECIES
-=======
+# Psathyrella flexuosipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

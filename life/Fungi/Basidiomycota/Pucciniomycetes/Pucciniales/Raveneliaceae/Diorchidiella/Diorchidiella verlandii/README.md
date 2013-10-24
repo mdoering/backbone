@@ -1,5 +1,4 @@
-Diorchidiella verlandii F.A. Ferreira & A.O. Carvalho, 1995 SPECIES
-=======
+# Diorchidiella verlandii F.A. Ferreira & A.O. Carvalho, 1995 SPECIES
 
 #### Status
 ACCEPTED

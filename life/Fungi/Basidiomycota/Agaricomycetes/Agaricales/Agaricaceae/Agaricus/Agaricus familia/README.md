@@ -1,5 +1,4 @@
-Agaricus familia Peck SPECIES
-=======
+# Agaricus familia Peck SPECIES
 
 #### Status
 ACCEPTED

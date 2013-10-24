@@ -1,5 +1,4 @@
-Coniothyrium sociale Peck SPECIES
-=======
+# Coniothyrium sociale Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucophra conflictor Müller, 1786 SPECIES
-=======
+# Leucophra conflictor Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

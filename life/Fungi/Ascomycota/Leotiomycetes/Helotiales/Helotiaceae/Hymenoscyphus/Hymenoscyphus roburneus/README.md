@@ -1,5 +1,4 @@
-Hymenoscyphus roburneus Velen. SPECIES
-=======
+# Hymenoscyphus roburneus Velen. SPECIES
 
 #### Status
 ACCEPTED

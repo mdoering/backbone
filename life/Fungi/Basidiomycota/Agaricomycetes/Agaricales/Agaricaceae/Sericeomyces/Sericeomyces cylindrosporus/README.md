@@ -1,5 +1,4 @@
-Sericeomyces cylindrosporus Contu SPECIES
-=======
+# Sericeomyces cylindrosporus Contu SPECIES
 
 #### Status
 ACCEPTED

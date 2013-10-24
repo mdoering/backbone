@@ -1,5 +1,4 @@
-Gabarnaudia cucumeris (Peck) de Hoog & W. Gams, 1986 SPECIES
-=======
+# Gabarnaudia cucumeris (Peck) de Hoog & W. Gams, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podophrya palmigera SPECIES
-=======
+# Podophrya palmigera SPECIES
 
 #### Status
 ACCEPTED

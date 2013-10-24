@@ -1,5 +1,4 @@
-Aspicilia virginea Hue SPECIES
-=======
+# Aspicilia virginea Hue SPECIES
 
 #### Status
 ACCEPTED

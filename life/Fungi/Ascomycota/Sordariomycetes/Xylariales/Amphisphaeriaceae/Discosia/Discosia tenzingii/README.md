@@ -1,5 +1,4 @@
-Discosia tenzingii Lacy SPECIES
-=======
+# Discosia tenzingii Lacy SPECIES
 
 #### Status
 ACCEPTED

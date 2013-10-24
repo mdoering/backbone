@@ -1,5 +1,4 @@
-Epistylis jaerae Precht, 1935 SPECIES
-=======
+# Epistylis jaerae Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

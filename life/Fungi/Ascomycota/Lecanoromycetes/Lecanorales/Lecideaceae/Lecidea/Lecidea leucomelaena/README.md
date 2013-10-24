@@ -1,5 +1,4 @@
-Lecidea leucomelaena (Vain.) Vain. SPECIES
-=======
+# Lecidea leucomelaena (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

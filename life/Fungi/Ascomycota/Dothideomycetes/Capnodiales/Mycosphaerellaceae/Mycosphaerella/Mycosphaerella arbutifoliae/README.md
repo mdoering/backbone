@@ -1,5 +1,4 @@
-Mycosphaerella arbutifoliae (Peck) House SPECIES
-=======
+# Mycosphaerella arbutifoliae (Peck) House SPECIES
 
 #### Status
 ACCEPTED

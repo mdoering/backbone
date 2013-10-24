@@ -1,5 +1,4 @@
-Aposphaeria parasitica Allesch. SPECIES
-=======
+# Aposphaeria parasitica Allesch. SPECIES
 
 #### Status
 ACCEPTED

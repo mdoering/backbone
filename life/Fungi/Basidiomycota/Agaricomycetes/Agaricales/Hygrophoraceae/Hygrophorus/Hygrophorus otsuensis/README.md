@@ -1,5 +1,4 @@
-Hygrophorus otsuensis Hongo SPECIES
-=======
+# Hygrophorus otsuensis Hongo SPECIES
 
 #### Status
 ACCEPTED

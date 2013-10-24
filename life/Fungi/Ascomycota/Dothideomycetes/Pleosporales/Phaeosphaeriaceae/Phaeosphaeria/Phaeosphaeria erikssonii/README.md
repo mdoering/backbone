@@ -1,5 +1,4 @@
-Phaeosphaeria erikssonii Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria erikssonii Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

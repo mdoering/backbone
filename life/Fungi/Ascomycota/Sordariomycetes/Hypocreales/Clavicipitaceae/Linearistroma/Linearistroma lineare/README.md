@@ -1,5 +1,4 @@
-Linearistroma lineare (Rehm) Höhn., 1910 SPECIES
-=======
+# Linearistroma lineare (Rehm) Höhn., 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria subcaespitosa P. Larsen SPECIES
-=======
+# Chaetosphaeria subcaespitosa P. Larsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porocyphus globulosus (A. Massal.) Couderc SPECIES
-=======
+# Porocyphus globulosus (A. Massal.) Couderc SPECIES
 
 #### Status
 ACCEPTED

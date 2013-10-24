@@ -1,5 +1,4 @@
-Araneomyces miconiae (F. Stevens) Toro SPECIES
-=======
+# Araneomyces miconiae (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

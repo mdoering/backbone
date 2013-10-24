@@ -1,8 +1,7 @@
-Fusarium blasticolum Rostr. SPECIES
-=======
+# Fusarium blasticola Rostr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium blasticolum Rostr.
+Fusarium blasticola Rostr.
 
 ### Remarks
 null

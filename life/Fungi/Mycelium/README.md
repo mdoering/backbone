@@ -1,5 +1,4 @@
-Mycelium GENUS
-=======
+# Mycelium GENUS
 
 #### Status
 ACCEPTED

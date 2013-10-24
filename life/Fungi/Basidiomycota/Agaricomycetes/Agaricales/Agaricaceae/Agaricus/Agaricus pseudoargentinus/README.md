@@ -1,5 +1,4 @@
-Agaricus pseudoargentinus Albertó & J.E. Wright SPECIES
-=======
+# Agaricus pseudoargentinus Albertó & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

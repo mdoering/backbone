@@ -1,5 +1,4 @@
-Phantum GENUS
-=======
+# Phantum GENUS
 
 #### Status
 ACCEPTED

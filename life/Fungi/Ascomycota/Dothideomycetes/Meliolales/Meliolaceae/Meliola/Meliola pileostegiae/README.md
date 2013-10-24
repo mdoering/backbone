@@ -1,5 +1,4 @@
-Meliola pileostegiae W. Yamam. SPECIES
-=======
+# Meliola pileostegiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

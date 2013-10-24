@@ -1,5 +1,4 @@
-Zosterodasys minor Alekperov, Buskey & Snegovaya, 2007 SPECIES
-=======
+# Zosterodasys minor Alekperov, Buskey & Snegovaya, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Panus operculatus Berk. & M.A. Curtis, 1859 SPECIES
-=======
+# Tectella operculata (Berk. & M.A. Curtis) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 4: 296 (1859)
+Bulletin of the New York Botanical Garden 5: 434 (1909)
 
 #### Original name
 Panus operculatus Berk. & M.A. Curtis, 1859

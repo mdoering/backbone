@@ -1,5 +1,4 @@
-Rhizobium gallicum Amarger et al., 1997 SPECIES
-=======
+# Rhizobium gallicum Amarger et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

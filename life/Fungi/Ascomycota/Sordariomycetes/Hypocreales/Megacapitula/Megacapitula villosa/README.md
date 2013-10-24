@@ -1,5 +1,4 @@
-Megacapitula villosa J.L. Chen & Tzean, 1993 SPECIES
-=======
+# Megacapitula villosa J.L. Chen & Tzean, 1993 SPECIES
 
 #### Status
 ACCEPTED

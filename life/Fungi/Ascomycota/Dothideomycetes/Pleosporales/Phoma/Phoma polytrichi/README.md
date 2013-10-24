@@ -1,5 +1,4 @@
-Phoma polytrichi Racov. SPECIES
-=======
+# Phoma polytrichi Racov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza fungoidaster Hedw. SPECIES
-=======
+# Peziza fungoidaster Hedw. SPECIES
 
 #### Status
 ACCEPTED

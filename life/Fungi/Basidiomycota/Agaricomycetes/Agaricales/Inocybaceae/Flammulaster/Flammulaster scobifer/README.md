@@ -1,5 +1,4 @@
-Flammulaster scobifer (Berk. & M.A. Curtis) Pegler SPECIES
-=======
+# Flammulaster scobifer (Berk. & M.A. Curtis) Pegler SPECIES
 
 #### Status
 ACCEPTED

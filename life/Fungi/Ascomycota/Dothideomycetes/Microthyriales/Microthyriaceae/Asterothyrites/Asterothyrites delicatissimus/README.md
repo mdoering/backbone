@@ -1,5 +1,4 @@
-Asterothyrites delicatissimus Cookson SPECIES
-=======
+# Asterothyrites delicatissimus Cookson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomyces eugeniacearum (Corda) Sacc. SPECIES
-=======
+# Cryptomyces eugeniacearum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

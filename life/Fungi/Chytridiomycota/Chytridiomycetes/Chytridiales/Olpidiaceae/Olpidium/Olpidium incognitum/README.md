@@ -1,5 +1,4 @@
-Olpidium incognitum S.N. Dasgupta & R. John SPECIES
-=======
+# Olpidium incognitum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

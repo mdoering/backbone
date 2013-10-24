@@ -1,5 +1,4 @@
-Starmerella bombicola C.A. Rosa & Lachance, 1998 SPECIES
-=======
+# Starmerella bombicola C.A. Rosa & Lachance, 1998 SPECIES
 
 #### Status
 ACCEPTED

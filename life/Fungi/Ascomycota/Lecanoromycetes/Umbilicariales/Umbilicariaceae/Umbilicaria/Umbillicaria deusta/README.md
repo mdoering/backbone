@@ -1,5 +1,4 @@
-Umbillicaria deusta (L.) Baumg. SPECIES
-=======
+# Umbillicaria deusta (L.) Baumg. SPECIES
 
 #### Status
 DOUBTFUL

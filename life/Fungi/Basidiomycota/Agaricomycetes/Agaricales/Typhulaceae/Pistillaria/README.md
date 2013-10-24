@@ -1,17 +1,16 @@
-Sphaerula Patouillard, 1883 GENUS
-=======
+# Pistillaria E.M. Fries, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. analyt. Fung. France (Paris) 1: 27 (1883)
+Syst. mycol. (Lundae) 1: 464, 496 (1821)
 
 #### Original name
-Sphaerula Patouillard, 1883
+Pistillaria E.M. Fries, 1821
 
 ### Remarks
 null

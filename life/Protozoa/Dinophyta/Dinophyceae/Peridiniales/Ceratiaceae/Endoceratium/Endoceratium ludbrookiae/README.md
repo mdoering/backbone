@@ -1,8 +1,7 @@
-Endoceratium ludbrookii (Cookson & Eisenack) Loeblich & Loeblich SPECIES
-=======
+# Endoceratium ludbrookiae (Cookson & Eisenack) Loeblich & Loeblich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

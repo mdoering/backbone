@@ -1,5 +1,4 @@
-Exidia villosa Neuhoff SPECIES
-=======
+# Exidia villosa Neuhoff SPECIES
 
 #### Status
 ACCEPTED

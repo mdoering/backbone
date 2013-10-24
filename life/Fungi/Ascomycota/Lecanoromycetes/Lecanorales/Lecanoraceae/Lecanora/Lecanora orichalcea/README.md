@@ -1,5 +1,4 @@
-Lecanora orichalcea Stizenb. SPECIES
-=======
+# Lecanora orichalcea Stizenb. SPECIES
 
 #### Status
 ACCEPTED

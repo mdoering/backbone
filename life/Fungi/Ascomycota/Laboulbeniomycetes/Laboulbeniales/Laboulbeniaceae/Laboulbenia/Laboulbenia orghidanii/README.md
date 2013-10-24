@@ -1,5 +1,4 @@
-Laboulbenia orghidanii Balazuc SPECIES
-=======
+# Laboulbenia orghidanii Balazuc SPECIES
 
 #### Status
 ACCEPTED

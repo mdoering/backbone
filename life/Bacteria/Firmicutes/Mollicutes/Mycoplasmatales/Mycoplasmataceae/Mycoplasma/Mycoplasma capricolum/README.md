@@ -1,5 +1,4 @@
-Mycoplasma capricolum subsp. capripneumoniae Leach et al., 1993 SUBSPECIES
-=======
+# Mycoplasma capricolum Tully et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium minutulum (Sacc.) Sacc. SPECIES
-=======
+# Myxosporium minutulum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

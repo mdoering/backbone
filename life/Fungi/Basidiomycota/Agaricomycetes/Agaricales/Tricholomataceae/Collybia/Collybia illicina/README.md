@@ -1,5 +1,4 @@
-Collybia illicina (DC.) Gillet SPECIES
-=======
+# Collybia illicina (DC.) Gillet SPECIES
 
 #### Status
 ACCEPTED

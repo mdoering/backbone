@@ -1,5 +1,4 @@
-Sargassum howellii Setchell SPECIES
-=======
+# Sargassum howellii Setchell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrophyta Cavalier-Smith, 1995 PHYLUM
-=======
+# Ochrophyta Cavalier-Smith, 1995 PHYLUM
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctotherus hoyai Tuzet & Theorides, 1956 SPECIES
-=======
+# Nyctotherus hoyai Tuzet & Theorides, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargogyne novomexicana SPECIES
-=======
+# Sargogyne novomexicana SPECIES
 
 #### Status
 ACCEPTED

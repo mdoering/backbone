@@ -1,5 +1,4 @@
-Metasphaeria ipomoeae Ellis & Everh. SPECIES
-=======
+# Metasphaeria ipomoeae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

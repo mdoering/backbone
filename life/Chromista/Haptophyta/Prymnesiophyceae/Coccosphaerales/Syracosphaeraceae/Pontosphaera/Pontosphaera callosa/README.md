@@ -1,5 +1,4 @@
-Pontosphaera callosa (Martini, 1969) Varol, 1982 SPECIES
-=======
+# Pontosphaera callosa (Martini, 1969) Varol, 1982 SPECIES
 
 #### Status
 ACCEPTED

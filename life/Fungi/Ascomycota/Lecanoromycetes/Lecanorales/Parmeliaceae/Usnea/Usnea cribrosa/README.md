@@ -1,5 +1,4 @@
-Usnea cribrosa Asahina SPECIES
-=======
+# Usnea cribrosa Asahina SPECIES
 
 #### Status
 ACCEPTED

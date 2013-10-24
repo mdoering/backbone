@@ -1,5 +1,4 @@
-Ramaria intimorosea Schild & Vrscaj, 1992 SPECIES
-=======
+# Ramaria intimorosea Schild & Vrscaj, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia onthofagi Thaxt. SPECIES
-=======
+# Rickia onthofagi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

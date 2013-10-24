@@ -1,5 +1,4 @@
-Antrodia pini-cubensis Vampola, Kotl. & Pouzar, 1994 SPECIES
-=======
+# Antrodia pini-cubensis Vampola, Kotl. & Pouzar, 1994 SPECIES
 
 #### Status
 ACCEPTED

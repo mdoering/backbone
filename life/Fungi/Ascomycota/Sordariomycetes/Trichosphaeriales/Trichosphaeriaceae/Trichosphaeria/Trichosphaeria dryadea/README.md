@@ -1,5 +1,4 @@
-Trichosphaeria dryadea Rehm SPECIES
-=======
+# Trichosphaeria dryadea Rehm SPECIES
 
 #### Status
 ACCEPTED

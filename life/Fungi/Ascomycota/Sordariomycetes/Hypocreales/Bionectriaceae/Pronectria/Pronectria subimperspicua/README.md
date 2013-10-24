@@ -1,14 +1,13 @@
-Nectriella subimperspicua (Speg.) R. Sant., 1984 SPECIES
-=======
+# Pronectria subimperspicua (Speg.) Lowen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publications from the Herbarium, University of Uppsala, Sweden 13: 11 (1984)
+Mycotaxon 39: 462 (1990)
 
 #### Original name
 Nectria subimperspicua Speg., 1898

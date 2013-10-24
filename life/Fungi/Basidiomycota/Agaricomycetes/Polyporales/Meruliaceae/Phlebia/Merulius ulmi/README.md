@@ -1,5 +1,4 @@
-Merulius ulmi Peck SPECIES
-=======
+# Merulius ulmi Peck SPECIES
 
 #### Status
 ACCEPTED

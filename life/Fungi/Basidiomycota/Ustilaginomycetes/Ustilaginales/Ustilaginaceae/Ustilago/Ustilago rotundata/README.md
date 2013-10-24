@@ -1,5 +1,4 @@
-Ustilago rotundata Arthur SPECIES
-=======
+# Ustilago rotundata Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa hormospora Berk. & M.A. Curtis SPECIES
-=======
+# Valsa hormospora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

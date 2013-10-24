@@ -1,5 +1,4 @@
-Meliola litoralis Syd. SPECIES
-=======
+# Meliola litoralis Syd. SPECIES
 
 #### Status
 ACCEPTED

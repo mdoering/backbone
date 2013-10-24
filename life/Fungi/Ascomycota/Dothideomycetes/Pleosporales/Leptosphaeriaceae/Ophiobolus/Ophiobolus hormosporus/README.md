@@ -1,5 +1,4 @@
-Ophiobolus hormosporus Pass. SPECIES
-=======
+# Ophiobolus hormosporus Pass. SPECIES
 
 #### Status
 ACCEPTED

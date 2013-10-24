@@ -1,5 +1,4 @@
-Aspergillus aureoglaucus M. Roberg SPECIES
-=======
+# Aspergillus aureoglaucus M. Roberg SPECIES
 
 #### Status
 ACCEPTED

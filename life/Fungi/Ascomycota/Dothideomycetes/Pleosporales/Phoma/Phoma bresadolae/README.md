@@ -1,5 +1,4 @@
-Phoma bresadolae Sacc. SPECIES
-=======
+# Phoma bresadolae Sacc. SPECIES
 
 #### Status
 ACCEPTED

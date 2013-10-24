@@ -1,5 +1,4 @@
-Protomyces fallax Sacc. SPECIES
-=======
+# Protomyces fallax Sacc. SPECIES
 
 #### Status
 ACCEPTED

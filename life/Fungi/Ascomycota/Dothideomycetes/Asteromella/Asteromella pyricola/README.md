@@ -1,5 +1,4 @@
-Asteromella pyricola (Sacc. & Speg.) Moesz ex Bat. & Peres SPECIES
-=======
+# Asteromella pyricola (Sacc. & Speg.) Moesz ex Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

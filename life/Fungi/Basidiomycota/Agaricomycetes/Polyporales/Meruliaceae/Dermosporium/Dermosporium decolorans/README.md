@@ -1,5 +1,4 @@
-Dermosporium decolorans Schwein. SPECIES
-=======
+# Dermosporium decolorans Schwein. SPECIES
 
 #### Status
 ACCEPTED

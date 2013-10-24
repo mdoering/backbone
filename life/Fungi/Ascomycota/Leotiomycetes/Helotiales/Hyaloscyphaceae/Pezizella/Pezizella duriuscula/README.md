@@ -1,5 +1,4 @@
-Pezizella duriuscula Velen. SPECIES
-=======
+# Pezizella duriuscula Velen. SPECIES
 
 #### Status
 ACCEPTED

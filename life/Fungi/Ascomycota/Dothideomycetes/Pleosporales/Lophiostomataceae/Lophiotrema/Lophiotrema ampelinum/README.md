@@ -1,5 +1,4 @@
-Lophiotrema ampelinum Rehm SPECIES
-=======
+# Lophiotrema ampelinum Rehm SPECIES
 
 #### Status
 ACCEPTED

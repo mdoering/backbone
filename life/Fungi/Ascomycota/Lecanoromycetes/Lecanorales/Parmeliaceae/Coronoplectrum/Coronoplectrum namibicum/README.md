@@ -1,5 +1,4 @@
-Coronoplectrum namibicum Brusse SPECIES
-=======
+# Coronoplectrum namibicum Brusse SPECIES
 
 #### Status
 ACCEPTED

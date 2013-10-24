@@ -1,5 +1,4 @@
-Aldanella P.N. Kolosov, 1966 GENUS
-=======
+# Aldanella P.N. Kolosov, 1966 GENUS
 
 #### Status
 ACCEPTED

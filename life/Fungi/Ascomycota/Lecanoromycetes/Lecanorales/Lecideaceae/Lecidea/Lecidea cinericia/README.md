@@ -1,5 +1,4 @@
-Lecidea cinericia SPECIES
-=======
+# Lecidea cinericia SPECIES
 
 #### Status
 ACCEPTED

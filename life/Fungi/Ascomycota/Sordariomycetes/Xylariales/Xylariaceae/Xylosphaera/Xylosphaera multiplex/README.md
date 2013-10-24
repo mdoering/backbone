@@ -1,5 +1,4 @@
-Xylosphaera multiplex (Kunze) Dennis SPECIES
-=======
+# Xylosphaera multiplex (Kunze) Dennis SPECIES
 
 #### Status
 ACCEPTED

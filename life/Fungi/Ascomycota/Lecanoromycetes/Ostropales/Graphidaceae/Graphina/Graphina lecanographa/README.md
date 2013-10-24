@@ -1,5 +1,4 @@
-Graphina lecanographa (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina lecanographa (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

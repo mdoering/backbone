@@ -1,5 +1,4 @@
-Tholospyris Haeckel, 1881 GENUS
-=======
+# Tholospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

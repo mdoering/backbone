@@ -1,5 +1,4 @@
-Pluteus liquescens Cooke SPECIES
-=======
+# Pluteus liquescens Cooke SPECIES
 
 #### Status
 ACCEPTED

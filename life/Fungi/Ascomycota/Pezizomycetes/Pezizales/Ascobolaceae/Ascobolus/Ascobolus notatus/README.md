@@ -1,5 +1,4 @@
-Ascobolus notatus Bat. & A.F. Vital SPECIES
-=======
+# Ascobolus notatus Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

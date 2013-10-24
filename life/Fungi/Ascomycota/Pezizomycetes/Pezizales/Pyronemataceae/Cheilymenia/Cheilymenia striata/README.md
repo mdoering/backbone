@@ -1,5 +1,4 @@
-Cheilymenia striata (K.S. Thind, E.K. Cash & Pr. Singh) J. Moravec SPECIES
-=======
+# Cheilymenia striata (K.S. Thind, E.K. Cash & Pr. Singh) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

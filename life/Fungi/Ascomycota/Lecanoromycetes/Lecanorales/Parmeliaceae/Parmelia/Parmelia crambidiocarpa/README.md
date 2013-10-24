@@ -1,5 +1,4 @@
-Parmelia crambidiocarpa Zahlbr. SPECIES
-=======
+# Parmelia crambidiocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

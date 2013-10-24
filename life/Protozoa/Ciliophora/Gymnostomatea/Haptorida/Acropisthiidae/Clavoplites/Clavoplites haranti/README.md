@@ -1,5 +1,4 @@
-Clavoplites haranti Vdacny, 2007 SPECIES
-=======
+# Clavoplites haranti Vdacny, 2007 SPECIES
 
 #### Status
 ACCEPTED

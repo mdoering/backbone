@@ -1,5 +1,4 @@
-Cladonia polycarpoides f. polycarpoides FORM
-=======
+# Cladonia polycarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Gasilien, Lich. Fl. St. Omer. 125 (1894)
+null
 
 #### Original name
-Cladonia polycarpoides f. polycarpoides
+null
 
 ### Remarks
 null

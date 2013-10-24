@@ -1,5 +1,4 @@
-Comatricha calderaensis P. Price, G. Moreno & A. Castillo, 2008 SPECIES
-=======
+# Comatricha calderaensis P. Price, G. Moreno & A. Castillo, 2008 SPECIES
 
 #### Status
 ACCEPTED

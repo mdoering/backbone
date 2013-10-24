@@ -1,5 +1,4 @@
-Boletus indecisus Peck SPECIES
-=======
+# Boletus indecisus Peck SPECIES
 
 #### Status
 ACCEPTED

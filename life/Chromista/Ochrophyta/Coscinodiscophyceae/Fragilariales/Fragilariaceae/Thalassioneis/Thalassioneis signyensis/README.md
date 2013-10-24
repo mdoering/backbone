@@ -1,5 +1,4 @@
-Thalassioneis signyensis F.E. Round SPECIES
-=======
+# Thalassioneis signyensis F.E. Round SPECIES
 
 #### Status
 ACCEPTED

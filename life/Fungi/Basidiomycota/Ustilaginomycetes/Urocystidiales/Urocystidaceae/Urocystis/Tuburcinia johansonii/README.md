@@ -1,5 +1,4 @@
-Tuburcinia johansonii (Lagerh.) Liro SPECIES
-=======
+# Tuburcinia johansonii (Lagerh.) Liro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia benzokauffmanii Norvell SPECIES
-=======
+# Phaeocollybia benzokauffmanii Norvell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea vermicularis P.M. Jørg. SPECIES
-=======
+# Usnea vermicularis P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

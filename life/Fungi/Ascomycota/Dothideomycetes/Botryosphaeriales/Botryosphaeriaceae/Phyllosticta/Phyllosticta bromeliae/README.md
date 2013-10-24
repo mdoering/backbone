@@ -1,5 +1,4 @@
-Phyllosticta bromeliae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Phyllosticta bromeliae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

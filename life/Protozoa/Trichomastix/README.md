@@ -1,5 +1,4 @@
-Trichomastix GENUS
-=======
+# Trichomastix GENUS
 
 #### Status
 ACCEPTED

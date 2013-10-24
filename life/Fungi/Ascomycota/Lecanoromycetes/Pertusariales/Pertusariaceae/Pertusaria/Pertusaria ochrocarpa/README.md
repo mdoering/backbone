@@ -1,5 +1,4 @@
-Pertusaria ochrocarpa Vain. SPECIES
-=======
+# Pertusaria ochrocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

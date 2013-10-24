@@ -1,5 +1,4 @@
-Tolyposporium anthistiriae Henn. SPECIES
-=======
+# Tolyposporium anthistiriae Henn. SPECIES
 
 #### Status
 ACCEPTED

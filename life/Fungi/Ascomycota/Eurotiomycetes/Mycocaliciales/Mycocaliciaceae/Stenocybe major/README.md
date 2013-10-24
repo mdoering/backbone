@@ -1,5 +1,4 @@
-Stenocybe major (Nyl.) Körb. SPECIES
-=======
+# Stenocybe major (Nyl.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora betulina Ehrenb. SPECIES
-=======
+# Cytospora betulina Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

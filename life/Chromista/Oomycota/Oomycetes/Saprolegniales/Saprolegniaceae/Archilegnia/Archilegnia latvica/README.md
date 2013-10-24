@@ -1,5 +1,4 @@
-Archilegnia latvica (Apinis) Apinis SPECIES
-=======
+# Archilegnia latvica (Apinis) Apinis SPECIES
 
 #### Status
 ACCEPTED

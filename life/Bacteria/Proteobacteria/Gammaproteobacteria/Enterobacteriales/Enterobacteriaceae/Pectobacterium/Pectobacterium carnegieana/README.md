@@ -1,8 +1,7 @@
-Erwinia carnegieana Standring, 1942 (Approved Lists, 1980) SPECIES
-=======
+# Pectobacterium carnegieana (Standring, 1942) Brenner et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

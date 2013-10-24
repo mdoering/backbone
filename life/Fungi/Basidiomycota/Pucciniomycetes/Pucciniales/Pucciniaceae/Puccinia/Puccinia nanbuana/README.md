@@ -1,5 +1,4 @@
-Puccinia nanbuana Henn. SPECIES
-=======
+# Puccinia nanbuana Henn. SPECIES
 
 #### Status
 ACCEPTED

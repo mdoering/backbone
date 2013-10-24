@@ -1,5 +1,4 @@
-Dematium stemonitideum (De Not.) Sacc. SPECIES
-=======
+# Dematium stemonitideum (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora malcolmiae Lobik SPECIES
-=======
+# Peronospora malcolmiae Lobik SPECIES
 
 #### Status
 ACCEPTED

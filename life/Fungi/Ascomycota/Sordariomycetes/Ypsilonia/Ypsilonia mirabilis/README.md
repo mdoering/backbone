@@ -1,5 +1,4 @@
-Ypsilonia mirabilis (Speg.) Nag Raj SPECIES
-=======
+# Ypsilonia mirabilis (Speg.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

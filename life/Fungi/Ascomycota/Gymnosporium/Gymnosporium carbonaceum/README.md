@@ -1,5 +1,4 @@
-Gymnosporium carbonaceum Carmich. SPECIES
-=======
+# Gymnosporium carbonaceum Carmich. SPECIES
 
 #### Status
 ACCEPTED

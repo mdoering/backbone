@@ -1,5 +1,4 @@
-Psathyrella rugulosa A.H. Sm. SPECIES
-=======
+# Psathyrella rugulosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

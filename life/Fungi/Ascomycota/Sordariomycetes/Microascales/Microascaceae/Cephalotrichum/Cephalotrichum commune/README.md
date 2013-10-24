@@ -1,5 +1,4 @@
-Cephalotrichum commune Demelius SPECIES
-=======
+# Cephalotrichum commune Demelius SPECIES
 
 #### Status
 ACCEPTED

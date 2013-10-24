@@ -1,5 +1,4 @@
-Uredo angiosperma Thüm. SPECIES
-=======
+# Uredo angiosperma Thüm. SPECIES
 
 #### Status
 ACCEPTED

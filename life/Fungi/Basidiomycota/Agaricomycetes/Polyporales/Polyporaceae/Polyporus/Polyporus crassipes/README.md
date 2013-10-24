@@ -1,5 +1,4 @@
-Polyporus crassipes Curr. SPECIES
-=======
+# Polyporus crassipes Curr. SPECIES
 
 #### Status
 ACCEPTED

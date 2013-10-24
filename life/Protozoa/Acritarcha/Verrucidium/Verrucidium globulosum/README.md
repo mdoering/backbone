@@ -1,5 +1,4 @@
-Verrucidium globulosum Habib & Knapp, 1982 SPECIES
-=======
+# Verrucidium globulosum Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

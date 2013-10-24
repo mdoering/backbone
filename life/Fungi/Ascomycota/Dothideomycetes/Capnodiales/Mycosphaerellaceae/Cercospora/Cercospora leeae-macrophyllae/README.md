@@ -1,5 +1,4 @@
-Cercospora leeae-macrophyllae A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora leeae-macrophyllae A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus fulvipes Pat. SPECIES
-=======
+# Leucoporus fulvipes Pat. SPECIES
 
 #### Status
 ACCEPTED

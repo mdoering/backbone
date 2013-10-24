@@ -1,5 +1,4 @@
-Umbilicaria sclerophylla Nyl. SPECIES
-=======
+# Umbilicaria sclerophylla Nyl. SPECIES
 
 #### Status
 ACCEPTED

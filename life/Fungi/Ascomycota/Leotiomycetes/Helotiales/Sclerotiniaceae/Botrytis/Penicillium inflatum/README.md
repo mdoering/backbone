@@ -1,5 +1,4 @@
-Penicillium inflatum Stolk & Malla, 1971 SPECIES
-=======
+# Penicillium inflatum Stolk & Malla, 1971 SPECIES
 
 #### Status
 DOUBTFUL

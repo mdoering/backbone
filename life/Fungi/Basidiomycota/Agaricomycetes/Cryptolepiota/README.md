@@ -1,5 +1,4 @@
-Cryptolepiota Kropp & Trappe GENUS
-=======
+# Cryptolepiota Kropp & Trappe GENUS
 
 #### Status
 ACCEPTED

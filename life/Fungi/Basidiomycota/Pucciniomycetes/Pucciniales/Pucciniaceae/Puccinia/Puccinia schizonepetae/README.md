@@ -1,5 +1,4 @@
-Puccinia schizonepetae Tranzschel SPECIES
-=======
+# Puccinia schizonepetae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

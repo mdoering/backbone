@@ -1,5 +1,4 @@
-Rhizopogon ochraceobrunnescens A.H. Sm. SPECIES
-=======
+# Rhizopogon ochraceobrunnescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

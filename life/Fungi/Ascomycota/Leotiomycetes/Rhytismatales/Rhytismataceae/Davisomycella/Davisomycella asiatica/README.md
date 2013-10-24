@@ -1,5 +1,4 @@
-Davisomycella asiatica Minter & Manoch, 1988 SPECIES
-=======
+# Davisomycella asiatica Minter & Manoch, 1988 SPECIES
 
 #### Status
 ACCEPTED

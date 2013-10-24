@@ -1,5 +1,4 @@
-Hydnum terrestre (P. Karst.) Sacc. SPECIES
-=======
+# Hydnum terrestre (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

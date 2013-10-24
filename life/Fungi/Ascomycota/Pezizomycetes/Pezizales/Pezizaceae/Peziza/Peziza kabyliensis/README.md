@@ -1,5 +1,4 @@
-Peziza kabyliensis J. Moravec SPECIES
-=======
+# Peziza kabyliensis J. Moravec SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea arecae Spreng. SPECIES
-=======
+# Depazea arecae Spreng. SPECIES
 
 #### Status
 ACCEPTED

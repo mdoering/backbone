@@ -1,5 +1,4 @@
-Cytospora translucens Sacc. SPECIES
-=======
+# Cytospora translucens Sacc. SPECIES
 
 #### Status
 ACCEPTED

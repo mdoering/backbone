@@ -1,5 +1,4 @@
-Stomiopeltella patagonica (Speg.) Theiss. SPECIES
-=======
+# Stomiopeltella patagonica (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

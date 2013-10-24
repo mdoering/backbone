@@ -1,5 +1,4 @@
-Panellus pteridophytorum Singer SPECIES
-=======
+# Panellus pteridophytorum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea acervata Stizenb. SPECIES
-=======
+# Lecidea acervata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

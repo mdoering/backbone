@@ -1,8 +1,7 @@
-Cercospora anonaceae Henn. SPECIES
-=======
+# Cercospora annonaceae Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora anonaceae Henn.
+Cercospora annonaceae Henn.
 
 ### Remarks
 null

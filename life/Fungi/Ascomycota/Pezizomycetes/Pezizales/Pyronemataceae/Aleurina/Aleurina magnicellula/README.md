@@ -1,5 +1,4 @@
-Aleurina magnicellula Dissing, Korf & W.Y. Zhuang, 1986 SPECIES
-=======
+# Aleurina magnicellula Dissing, Korf & W.Y. Zhuang, 1986 SPECIES
 
 #### Status
 ACCEPTED

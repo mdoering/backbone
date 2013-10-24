@@ -1,8 +1,7 @@
-Folliculina paranthurae Giard, 1888 SPECIES
-=======
+# Pseudofolliculina paranthurae Giard, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Macrophoma aloës Scalia SPECIES
-=======
+# Macrophoma aloës Scalia SPECIES
 
 #### Status
 ACCEPTED

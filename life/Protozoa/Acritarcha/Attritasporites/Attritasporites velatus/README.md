@@ -1,5 +1,4 @@
-Attritasporites velatus Combaz, 1967 SPECIES
-=======
+# Attritasporites velatus Combaz, 1967 SPECIES
 
 #### Status
 ACCEPTED

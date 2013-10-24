@@ -1,5 +1,4 @@
-Dictyonella circinata W.H. Hsieh, Chi Y. Chen & Sivan., 1997 SPECIES
-=======
+# Dictyonella circinata W.H. Hsieh, Chi Y. Chen & Sivan., 1997 SPECIES
 
 #### Status
 ACCEPTED

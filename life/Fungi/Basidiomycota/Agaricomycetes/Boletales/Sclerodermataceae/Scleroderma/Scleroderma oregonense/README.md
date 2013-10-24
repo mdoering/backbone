@@ -1,5 +1,4 @@
-Scleroderma oregonense (Ellis & Everh.) De Toni SPECIES
-=======
+# Scleroderma oregonense (Ellis & Everh.) De Toni SPECIES
 
 #### Status
 ACCEPTED

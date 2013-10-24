@@ -1,5 +1,4 @@
-Lichen capensis L. f. SPECIES
-=======
+# Lichen capensis L. f. SPECIES
 
 #### Status
 ACCEPTED

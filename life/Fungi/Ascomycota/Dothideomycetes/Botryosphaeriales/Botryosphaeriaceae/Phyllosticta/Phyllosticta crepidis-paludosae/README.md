@@ -1,5 +1,4 @@
-Phyllosticta crepidis-paludosae Petr. SPECIES
-=======
+# Phyllosticta crepidis-paludosae Petr. SPECIES
 
 #### Status
 ACCEPTED

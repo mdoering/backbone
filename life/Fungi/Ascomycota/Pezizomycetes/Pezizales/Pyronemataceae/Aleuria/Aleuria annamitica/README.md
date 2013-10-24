@@ -1,5 +1,4 @@
-Aleuria annamitica Pat. SPECIES
-=======
+# Aleuria annamitica Pat. SPECIES
 
 #### Status
 ACCEPTED

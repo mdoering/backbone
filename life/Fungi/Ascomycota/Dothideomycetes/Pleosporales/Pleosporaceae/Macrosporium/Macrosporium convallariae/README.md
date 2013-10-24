@@ -1,17 +1,16 @@
-Macrosporium convallariae f. convallariae FORM
-=======
+# Macrosporium convallariae (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(2): 373 (1832)
 
 #### Original name
-null
+Puccinia convallariae Schumach.
 
 ### Remarks
 null

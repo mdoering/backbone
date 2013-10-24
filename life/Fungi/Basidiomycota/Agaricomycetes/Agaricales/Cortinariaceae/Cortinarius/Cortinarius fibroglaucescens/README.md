@@ -1,5 +1,4 @@
-Cortinarius fibroglaucescens Rob. Henry SPECIES
-=======
+# Cortinarius fibroglaucescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

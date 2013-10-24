@@ -1,5 +1,4 @@
-Arecomyces sekoyae K.D. Hyde SPECIES
-=======
+# Arecomyces sekoyae K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

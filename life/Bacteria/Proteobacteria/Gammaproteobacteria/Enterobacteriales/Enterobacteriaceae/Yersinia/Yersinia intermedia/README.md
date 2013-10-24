@@ -1,5 +1,4 @@
-Yersinia intermedia Brenner et al., 1981 SPECIES
-=======
+# Yersinia intermedia Brenner et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

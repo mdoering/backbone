@@ -1,5 +1,4 @@
-Amidella goossensiae (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amidella goossensiae (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

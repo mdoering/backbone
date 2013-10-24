@@ -1,5 +1,4 @@
-Catillaria microphthalma Vain. SPECIES
-=======
+# Catillaria microphthalma Vain. SPECIES
 
 #### Status
 ACCEPTED

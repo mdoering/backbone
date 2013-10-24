@@ -1,5 +1,4 @@
-Bacidia nicaeensis B. de Lesd. SPECIES
-=======
+# Bacidia nicaeensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

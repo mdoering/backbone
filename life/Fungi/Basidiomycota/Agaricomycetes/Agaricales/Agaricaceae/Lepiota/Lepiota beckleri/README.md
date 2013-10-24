@@ -1,5 +1,4 @@
-Lepiota beckleri (Berk.) Sacc. SPECIES
-=======
+# Lepiota beckleri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

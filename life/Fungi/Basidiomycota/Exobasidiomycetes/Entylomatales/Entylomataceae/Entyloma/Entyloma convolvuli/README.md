@@ -1,5 +1,4 @@
-Entyloma convolvuli Bres. SPECIES
-=======
+# Entyloma convolvuli Bres. SPECIES
 
 #### Status
 ACCEPTED

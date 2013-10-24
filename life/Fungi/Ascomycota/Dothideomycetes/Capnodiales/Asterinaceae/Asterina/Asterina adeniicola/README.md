@@ -1,5 +1,4 @@
-Asterina adeniicola Hosag. & Kamar., 2006 SPECIES
-=======
+# Asterina adeniicola Hosag. & Kamar., 2006 SPECIES
 
 #### Status
 ACCEPTED

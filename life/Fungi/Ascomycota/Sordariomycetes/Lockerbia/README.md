@@ -1,5 +1,4 @@
-Lockerbia K.D. Hyde GENUS
-=======
+# Lockerbia K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

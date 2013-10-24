@@ -1,5 +1,4 @@
-Blastenia diphyella (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia diphyella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

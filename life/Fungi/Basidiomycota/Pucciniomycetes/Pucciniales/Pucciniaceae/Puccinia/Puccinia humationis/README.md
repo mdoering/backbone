@@ -1,5 +1,4 @@
-Puccinia humationis Cummins SPECIES
-=======
+# Puccinia humationis Cummins SPECIES
 
 #### Status
 ACCEPTED

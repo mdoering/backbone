@@ -1,5 +1,4 @@
-Filaspora tenuis (Pass.) Kuntze SPECIES
-=======
+# Filaspora tenuis (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

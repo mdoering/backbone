@@ -1,5 +1,4 @@
-Lecidea lithospersa Zahlbr. SPECIES
-=======
+# Lecidea lithospersa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

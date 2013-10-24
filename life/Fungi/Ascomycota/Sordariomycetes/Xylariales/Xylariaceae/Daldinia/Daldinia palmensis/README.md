@@ -1,5 +1,4 @@
-Daldinia palmensis M. Stadler, Wollw. & Tichy, 2004 SPECIES
-=======
+# Daldinia palmensis M. Stadler, Wollw. & Tichy, 2004 SPECIES
 
 #### Status
 ACCEPTED

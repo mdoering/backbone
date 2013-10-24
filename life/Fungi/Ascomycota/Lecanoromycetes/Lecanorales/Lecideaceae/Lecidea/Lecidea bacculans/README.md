@@ -1,5 +1,4 @@
-Lecidea bacculans Zahlbr. SPECIES
-=======
+# Lecidea bacculans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

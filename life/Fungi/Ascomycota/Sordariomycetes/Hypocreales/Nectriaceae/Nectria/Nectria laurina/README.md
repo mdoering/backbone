@@ -1,5 +1,4 @@
-Nectria laurina Sacc. SPECIES
-=======
+# Nectria laurina Sacc. SPECIES
 
 #### Status
 ACCEPTED

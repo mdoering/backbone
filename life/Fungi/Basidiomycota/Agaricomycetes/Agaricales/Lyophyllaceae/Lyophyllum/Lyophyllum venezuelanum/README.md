@@ -1,5 +1,4 @@
-Lyophyllum venezuelanum (Dennis) Singer SPECIES
-=======
+# Lyophyllum venezuelanum (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

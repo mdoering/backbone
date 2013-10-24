@@ -1,5 +1,4 @@
-Reticularia chrysosperma Bull. SPECIES
-=======
+# Reticularia chrysosperma Bull. SPECIES
 
 #### Status
 ACCEPTED

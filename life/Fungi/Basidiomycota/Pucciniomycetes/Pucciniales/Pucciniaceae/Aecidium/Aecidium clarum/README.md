@@ -1,5 +1,4 @@
-Aecidium clarum Petr. & Syd. SPECIES
-=======
+# Aecidium clarum Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

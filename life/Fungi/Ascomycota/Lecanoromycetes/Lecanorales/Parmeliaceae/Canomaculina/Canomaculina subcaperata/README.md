@@ -1,17 +1,16 @@
-Parmelia subcaperata f. subcaperata FORM
-=======
+# Canomaculina subcaperata (Kremp.) Elix SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 10 (1873)
+Mycotaxon 65: 477 (1997)
 
 #### Original name
-Parmelia subcaperata f. subcaperata
+Parmelia subcaperata Kremp.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Didymella pedicularidis Arx, 1950 SPECIES
-=======
+# Didymella pedicularis Arx, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 4(1-6): 389 (1950)
 
 #### Original name
-Didymella pedicularidis Arx, 1950
+Didymella pedicularis Arx, 1950
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula convexa (Nyl.) Müll. Arg., 1882 SPECIES
-=======
+# Pyrenula convexa (Nyl.) Müll. Arg., 1882 SPECIES
 
 #### Status
 DOUBTFUL

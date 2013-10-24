@@ -1,17 +1,16 @@
-Leptosphaeria vagabunda var. vagabunda VARIETY
-=======
+# Leptosphaeria vagabunda Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi venet. nov. vel. Crit. , Ser. 2 318 (1875)
+null
 
 #### Original name
-Leptosphaeria vagabunda var. vagabunda
+null
 
 ### Remarks
 null

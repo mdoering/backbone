@@ -1,5 +1,4 @@
-Hemimycena depauperata Singer SPECIES
-=======
+# Hemimycena depauperata Singer SPECIES
 
 #### Status
 ACCEPTED

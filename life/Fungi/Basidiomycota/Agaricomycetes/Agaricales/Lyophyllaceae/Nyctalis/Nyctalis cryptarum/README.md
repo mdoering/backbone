@@ -1,5 +1,4 @@
-Nyctalis cryptarum Secr. ex Fr. SPECIES
-=======
+# Nyctalis cryptarum Secr. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

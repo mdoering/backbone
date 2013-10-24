@@ -1,14 +1,13 @@
-Stegia dumeti Sacc. & Speg., 1878 SPECIES
-=======
+# Hysterostegiella dumeti (Sacc. & Speg.) B. Hein, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 4): 420 (1878)
+Nova Hedwigia 38: 690 (1983)
 
 #### Original name
 Stegia dumeti Sacc. & Speg., 1878

@@ -1,5 +1,4 @@
-Mitrula exigua (Schwein.) Fr. SPECIES
-=======
+# Mitrula exigua (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

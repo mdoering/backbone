@@ -1,8 +1,7 @@
-Dasyscypha isabellinus Penz. & Sacc. SPECIES
-=======
+# Dasyscyphus isabellinus Penz. & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha isabellinus Penz. & Sacc.
+Dasyscyphus isabellinus Penz. & Sacc.
 
 ### Remarks
 null

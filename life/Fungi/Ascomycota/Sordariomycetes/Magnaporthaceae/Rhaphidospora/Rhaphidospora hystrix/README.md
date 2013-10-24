@@ -1,5 +1,4 @@
-Rhaphidospora hystrix Ces. SPECIES
-=======
+# Rhaphidospora hystrix Ces. SPECIES
 
 #### Status
 ACCEPTED

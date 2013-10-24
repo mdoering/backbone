@@ -1,5 +1,4 @@
-Helicoverpa obtectus Npv SPECIES
-=======
+# Helicoverpa obtectus Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bryochiton heliotropicus Döbbeler, 1978 SPECIES
-=======
+# Bryochiton heliotropicus Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

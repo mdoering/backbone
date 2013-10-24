@@ -1,5 +1,4 @@
-Gyrophora formosana (Frey) M. Satô SPECIES
-=======
+# Gyrophora formosana (Frey) M. Satô SPECIES
 
 #### Status
 ACCEPTED

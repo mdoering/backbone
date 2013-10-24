@@ -1,5 +1,4 @@
-Microdiplodia pegani Bubák SPECIES
-=======
+# Microdiplodia pegani Bubák SPECIES
 
 #### Status
 ACCEPTED

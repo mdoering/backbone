@@ -1,5 +1,4 @@
-Passalora bidenticola (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora bidenticola (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

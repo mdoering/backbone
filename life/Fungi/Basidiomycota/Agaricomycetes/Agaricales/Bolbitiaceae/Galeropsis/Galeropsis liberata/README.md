@@ -1,5 +1,4 @@
-Galeropsis liberata (Kalchbr.) R. Heim, 1950 SPECIES
-=======
+# Galeropsis liberata (Kalchbr.) R. Heim, 1950 SPECIES
 
 #### Status
 ACCEPTED

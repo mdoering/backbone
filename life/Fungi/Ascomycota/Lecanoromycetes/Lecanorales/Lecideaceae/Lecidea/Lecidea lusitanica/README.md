@@ -1,5 +1,4 @@
-Lecidea lusitanica Nyl. SPECIES
-=======
+# Lecidea lusitanica Nyl. SPECIES
 
 #### Status
 ACCEPTED

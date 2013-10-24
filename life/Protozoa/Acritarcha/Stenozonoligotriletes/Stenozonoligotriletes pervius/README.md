@@ -1,5 +1,4 @@
-Stenozonoligotriletes pervius Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes pervius Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

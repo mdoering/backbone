@@ -1,5 +1,4 @@
-Trochamminopsis parvus Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Trochamminopsis parvus Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

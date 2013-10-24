@@ -1,5 +1,4 @@
-Sporidesmium ceratophorum Munjal & Kulshr. SPECIES
-=======
+# Sporidesmium ceratophorum Munjal & Kulshr. SPECIES
 
 #### Status
 ACCEPTED

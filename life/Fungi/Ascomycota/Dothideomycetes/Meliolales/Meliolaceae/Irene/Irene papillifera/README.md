@@ -1,5 +1,4 @@
-Irene papillifera Syd. SPECIES
-=======
+# Irene papillifera Syd. SPECIES
 
 #### Status
 ACCEPTED

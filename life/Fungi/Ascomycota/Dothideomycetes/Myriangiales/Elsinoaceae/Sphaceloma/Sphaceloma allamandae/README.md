@@ -1,5 +1,4 @@
-Sphaceloma allamandae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma allamandae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

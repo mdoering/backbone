@@ -1,5 +1,4 @@
-Agaricus rotalis K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus rotalis K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

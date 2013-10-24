@@ -1,17 +1,16 @@
-Rhynchostoma gnatostomatica Dias & Sousa da Câmara SPECIES
-=======
+# Rhynchostoma gnatostomaticum Dias & Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 14(2): 104 (1952)
 
 #### Original name
-Rhynchostoma gnatostomatica Dias & Sousa da Câmara
+Rhynchostoma gnatostomaticum Dias & Sousa da Câmara
 
 ### Remarks
 null

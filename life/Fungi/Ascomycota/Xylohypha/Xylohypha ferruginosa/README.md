@@ -1,17 +1,16 @@
-Xylohypha ferruginosa var. ferruginosa VARIETY
-=======
+# Xylohypha ferruginosa (Corda) S. Hughes, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Deighton, Mycol. Pap. 78: 43 (1960)
 
 #### Original name
-Xylohypha ferruginosa var. ferruginosa
+Torula ferruginosa Corda, 1829
 
 ### Remarks
 null

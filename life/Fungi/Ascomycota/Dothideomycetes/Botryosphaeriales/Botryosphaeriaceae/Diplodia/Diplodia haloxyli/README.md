@@ -1,5 +1,4 @@
-Diplodia haloxyli Kravtzev SPECIES
-=======
+# Diplodia haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

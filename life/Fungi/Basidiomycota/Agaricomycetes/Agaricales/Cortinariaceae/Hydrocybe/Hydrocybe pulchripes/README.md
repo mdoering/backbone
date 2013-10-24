@@ -1,5 +1,4 @@
-Hydrocybe pulchripes (J. Favre) M.M. Moser SPECIES
-=======
+# Hydrocybe pulchripes (J. Favre) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

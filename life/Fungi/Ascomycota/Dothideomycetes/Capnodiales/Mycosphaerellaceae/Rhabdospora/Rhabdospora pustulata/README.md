@@ -1,5 +1,4 @@
-Rhabdospora pustulata (Preuss) Sacc. SPECIES
-=======
+# Rhabdospora pustulata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

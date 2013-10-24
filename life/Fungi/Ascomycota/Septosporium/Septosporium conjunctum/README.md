@@ -1,5 +1,4 @@
-Septosporium conjunctum Preuss SPECIES
-=======
+# Septosporium conjunctum Preuss SPECIES
 
 #### Status
 ACCEPTED

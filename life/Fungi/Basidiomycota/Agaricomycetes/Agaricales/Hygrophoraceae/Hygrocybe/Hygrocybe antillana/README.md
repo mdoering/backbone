@@ -1,5 +1,4 @@
-Hygrocybe antillana (Pegler) Boertm. SPECIES
-=======
+# Hygrocybe antillana (Pegler) Boertm. SPECIES
 
 #### Status
 ACCEPTED

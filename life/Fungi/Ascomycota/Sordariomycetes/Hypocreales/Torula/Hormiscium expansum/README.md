@@ -1,5 +1,4 @@
-Hormiscium expansum Kunze SPECIES
-=======
+# Hormiscium expansum Kunze SPECIES
 
 #### Status
 ACCEPTED

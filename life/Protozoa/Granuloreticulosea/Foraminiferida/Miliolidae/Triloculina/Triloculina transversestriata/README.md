@@ -1,5 +1,4 @@
-Triloculina transversestriata SPECIES
-=======
+# Triloculina transversestriata SPECIES
 
 #### Status
 ACCEPTED

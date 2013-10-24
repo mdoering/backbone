@@ -1,5 +1,4 @@
-Cercospora koroviniae Annal. SPECIES
-=======
+# Cercospora koroviniae Annal. SPECIES
 
 #### Status
 ACCEPTED

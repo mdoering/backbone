@@ -1,5 +1,4 @@
-Microthelia araucariae Speer SPECIES
-=======
+# Microthelia araucariae Speer SPECIES
 
 #### Status
 ACCEPTED

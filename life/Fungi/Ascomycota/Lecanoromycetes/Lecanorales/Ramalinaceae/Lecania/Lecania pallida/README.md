@@ -1,5 +1,4 @@
-Lecania pallida Tomin SPECIES
-=======
+# Lecania pallida Tomin SPECIES
 
 #### Status
 ACCEPTED

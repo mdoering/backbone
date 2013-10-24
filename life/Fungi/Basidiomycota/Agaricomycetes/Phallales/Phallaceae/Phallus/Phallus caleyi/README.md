@@ -1,5 +1,4 @@
-Phallus caleyi (Berk. ex F. Muell.) E. Fisch. SPECIES
-=======
+# Phallus caleyi (Berk. ex F. Muell.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

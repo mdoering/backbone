@@ -1,5 +1,4 @@
-Lamprospora spinulosa Seaver SPECIES
-=======
+# Lamprospora spinulosa Seaver SPECIES
 
 #### Status
 ACCEPTED

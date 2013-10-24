@@ -1,5 +1,4 @@
-Niebla isidiosa Spjut SPECIES
-=======
+# Niebla isidiosa Spjut SPECIES
 
 #### Status
 ACCEPTED

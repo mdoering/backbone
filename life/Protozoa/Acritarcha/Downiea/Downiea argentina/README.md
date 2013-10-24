@@ -1,5 +1,4 @@
-Downiea argentina Pöthé de Baldis, 1974 SPECIES
-=======
+# Downiea argentina Pöthé de Baldis, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium sibyllinum Sparrow SPECIES
-=======
+# Rhizophydium sibyllinum Sparrow SPECIES
 
 #### Status
 ACCEPTED

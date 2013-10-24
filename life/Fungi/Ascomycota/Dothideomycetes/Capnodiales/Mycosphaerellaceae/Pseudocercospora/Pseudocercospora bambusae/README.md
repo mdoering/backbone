@@ -1,5 +1,4 @@
-Pseudocercospora bambusae Saikia & A.K. Sarbhoy SPECIES
-=======
+# Pseudocercospora bambusae Saikia & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Grandinia sordidissima Rick SPECIES
-=======
+# Grandinia sordidissima Rick SPECIES
 
 #### Status
 ACCEPTED

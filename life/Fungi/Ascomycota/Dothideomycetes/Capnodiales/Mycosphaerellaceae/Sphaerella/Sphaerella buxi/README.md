@@ -1,5 +1,4 @@
-Sphaerella buxi Desm. SPECIES
-=======
+# Sphaerella buxi Desm. SPECIES
 
 #### Status
 ACCEPTED

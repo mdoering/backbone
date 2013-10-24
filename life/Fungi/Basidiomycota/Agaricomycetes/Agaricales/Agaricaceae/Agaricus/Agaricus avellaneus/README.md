@@ -1,5 +1,4 @@
-Agaricus avellaneus With. SPECIES
-=======
+# Agaricus avellaneus With. SPECIES
 
 #### Status
 ACCEPTED

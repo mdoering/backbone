@@ -1,5 +1,4 @@
-Arthonia pseudocyphellariae Wedin SPECIES
-=======
+# Arthonia pseudocyphellariae Wedin SPECIES
 
 #### Status
 ACCEPTED

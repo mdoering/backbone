@@ -1,5 +1,4 @@
-Drosophila proxima Romagn. SPECIES
-=======
+# Drosophila proxima Romagn. SPECIES
 
 #### Status
 ACCEPTED

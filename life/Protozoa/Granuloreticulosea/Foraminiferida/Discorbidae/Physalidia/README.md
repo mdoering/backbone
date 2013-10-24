@@ -1,5 +1,4 @@
-Physalidia Heron-Allen & Earland, 1928 GENUS
-=======
+# Physalidia Heron-Allen & Earland, 1928 GENUS
 
 #### Status
 ACCEPTED

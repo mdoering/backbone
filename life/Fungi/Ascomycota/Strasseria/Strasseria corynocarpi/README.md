@@ -1,5 +1,4 @@
-Strasseria corynocarpi Sousa da Câmara SPECIES
-=======
+# Strasseria corynocarpi Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

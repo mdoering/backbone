@@ -1,5 +1,4 @@
-Entoloma laurisilvae Hauskn. & Noordel. SPECIES
-=======
+# Entoloma laurisilvae Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

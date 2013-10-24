@@ -1,5 +1,4 @@
-Phomopsis javanica Uecker & D.A. Johnson SPECIES
-=======
+# Phomopsis javanica Uecker & D.A. Johnson SPECIES
 
 #### Status
 ACCEPTED

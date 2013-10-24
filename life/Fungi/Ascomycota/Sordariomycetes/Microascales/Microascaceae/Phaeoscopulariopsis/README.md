@@ -1,5 +1,4 @@
-Phaeoscopulariopsis GENUS
-=======
+# Phaeoscopulariopsis GENUS
 
 #### Status
 ACCEPTED

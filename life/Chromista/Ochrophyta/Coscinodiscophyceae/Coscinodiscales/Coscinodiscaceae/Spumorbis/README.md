@@ -1,5 +1,4 @@
-Spumorbis S.Komura, 1998 GENUS
-=======
+# Spumorbis S.Komura, 1998 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Krombholziella olivaceopallida (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella olivaceopallida (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

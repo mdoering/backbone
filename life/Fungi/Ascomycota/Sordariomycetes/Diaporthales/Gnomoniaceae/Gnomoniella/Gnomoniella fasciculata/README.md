@@ -1,5 +1,4 @@
-Gnomoniella fasciculata (Fuckel) Sacc. SPECIES
-=======
+# Gnomoniella fasciculata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

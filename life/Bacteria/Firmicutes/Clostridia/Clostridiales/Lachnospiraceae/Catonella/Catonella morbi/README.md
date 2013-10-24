@@ -1,5 +1,4 @@
-Catonella morbi Moore & Moore, 1994 SPECIES
-=======
+# Catonella morbi Moore & Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

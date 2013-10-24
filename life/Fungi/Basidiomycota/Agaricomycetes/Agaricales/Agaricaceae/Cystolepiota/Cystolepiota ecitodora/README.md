@@ -1,5 +1,4 @@
-Cystolepiota ecitodora (G.F. Atk.) Singer SPECIES
-=======
+# Cystolepiota ecitodora (G.F. Atk.) Singer SPECIES
 
 #### Status
 ACCEPTED

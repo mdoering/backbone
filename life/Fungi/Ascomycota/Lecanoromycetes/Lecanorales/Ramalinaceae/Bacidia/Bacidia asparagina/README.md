@@ -1,5 +1,4 @@
-Bacidia asparagina Pass. SPECIES
-=======
+# Bacidia asparagina Pass. SPECIES
 
 #### Status
 ACCEPTED

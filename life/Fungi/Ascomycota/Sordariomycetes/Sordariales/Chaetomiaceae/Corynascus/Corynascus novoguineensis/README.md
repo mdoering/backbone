@@ -1,14 +1,13 @@
-Thielavia novoguineensis Udagawa & Y. Horie, 1972 SPECIES
-=======
+# Corynascus novoguineensis (Udagawa & Y. Horie) Arx, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo 15(1): 191 (1972)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76(3): 295 (1973)
 
 #### Original name
 Thielavia novoguineensis Udagawa & Y. Horie, 1972

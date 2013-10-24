@@ -1,5 +1,4 @@
-Hericium ptychogasteroides Nikol. SPECIES
-=======
+# Hericium ptychogasteroides Nikol. SPECIES
 
 #### Status
 ACCEPTED

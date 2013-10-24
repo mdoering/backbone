@@ -1,5 +1,4 @@
-Scleroderma cyaneoperidiatum Watling & K.P. Sims, 2004 SPECIES
-=======
+# Scleroderma cyaneoperidiatum Watling & K.P. Sims, 2004 SPECIES
 
 #### Status
 ACCEPTED

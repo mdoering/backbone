@@ -1,5 +1,4 @@
-Ramaraomyces corticola N.K. Rao, Manohar. & Goos, 1989 SPECIES
-=======
+# Ramaraomyces corticola N.K. Rao, Manohar. & Goos, 1989 SPECIES
 
 #### Status
 ACCEPTED

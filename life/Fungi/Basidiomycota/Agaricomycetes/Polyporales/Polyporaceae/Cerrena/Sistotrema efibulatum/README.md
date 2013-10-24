@@ -1,8 +1,7 @@
-Sistotrema commune f. efibulatum J. Erikss., 1949 FORM
-=======
+# Sistotrema efibulatum (J. Erikss.) Hjortstam, 1984 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Belgian Species List

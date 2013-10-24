@@ -1,5 +1,4 @@
-Manginella Bat. & H. Maia GENUS
-=======
+# Manginella Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

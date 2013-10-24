@@ -1,17 +1,16 @@
-Strigula complanata var. complanata VARIETY
-=======
+# Strigula orbicularis Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 5: 549 (1830)
 
 #### Original name
-Strigula complanata var. complanata
+Strigula orbicularis Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spongosaturninus Campbell & Clark, 1944 GENUS
-=======
+# Spongosaturninus Campbell & Clark, 1944 GENUS
 
 #### Status
 ACCEPTED

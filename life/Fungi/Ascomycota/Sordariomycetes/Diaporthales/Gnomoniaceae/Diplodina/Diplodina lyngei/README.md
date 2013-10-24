@@ -1,5 +1,4 @@
-Diplodina lyngei Lind SPECIES
-=======
+# Diplodina lyngei Lind SPECIES
 
 #### Status
 ACCEPTED

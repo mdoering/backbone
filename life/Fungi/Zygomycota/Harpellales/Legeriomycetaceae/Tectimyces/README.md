@@ -1,5 +1,4 @@
-Tectimyces L.G. Valle & Santam. GENUS
-=======
+# Tectimyces L.G. Valle & Santam. GENUS
 
 #### Status
 ACCEPTED

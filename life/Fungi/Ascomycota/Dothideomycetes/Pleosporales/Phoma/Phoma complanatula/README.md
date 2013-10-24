@@ -1,5 +1,4 @@
-Phoma complanatula P. Karst. SPECIES
-=======
+# Phoma complanatula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

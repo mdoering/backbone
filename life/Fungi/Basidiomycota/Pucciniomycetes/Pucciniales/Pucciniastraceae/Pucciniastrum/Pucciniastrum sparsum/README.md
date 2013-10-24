@@ -1,14 +1,13 @@
-Thekopsora sparsa (G. Winter) Magnus, 1905 SPECIES
-=======
+# Pucciniastrum sparsum (G. Winter) E. Fisch., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 2(2): 469 (1904)
 
 #### Original name
 Melampsora sparsa G. Winter, 1881

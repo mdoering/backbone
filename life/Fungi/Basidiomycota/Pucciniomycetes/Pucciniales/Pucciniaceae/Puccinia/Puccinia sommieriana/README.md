@@ -1,5 +1,4 @@
-Puccinia sommieriana Sacc. SPECIES
-=======
+# Puccinia sommieriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

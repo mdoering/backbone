@@ -1,5 +1,4 @@
-Sordaria tjibodiana Penz. & Sacc. SPECIES
-=======
+# Sordaria tjibodiana Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

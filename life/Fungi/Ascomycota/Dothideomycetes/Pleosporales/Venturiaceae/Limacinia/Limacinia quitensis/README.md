@@ -1,5 +1,4 @@
-Limacinia quitensis Syd. SPECIES
-=======
+# Limacinia quitensis Syd. SPECIES
 
 #### Status
 ACCEPTED

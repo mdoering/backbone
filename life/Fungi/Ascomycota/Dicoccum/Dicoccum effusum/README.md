@@ -1,5 +1,4 @@
-Dicoccum effusum Corda SPECIES
-=======
+# Dicoccum effusum Corda SPECIES
 
 #### Status
 ACCEPTED

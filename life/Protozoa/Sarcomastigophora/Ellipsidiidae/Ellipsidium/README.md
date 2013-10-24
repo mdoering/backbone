@@ -1,5 +1,4 @@
-Ellipsidium Haeckel, 1887 GENUS
-=======
+# Ellipsidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

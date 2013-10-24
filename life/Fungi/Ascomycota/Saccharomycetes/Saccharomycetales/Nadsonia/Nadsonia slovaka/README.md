@@ -1,5 +1,4 @@
-Nadsonia slovaka Kock.-Krat. & Svob.-Pol. SPECIES
-=======
+# Nadsonia slovaka Kock.-Krat. & Svob.-Pol. SPECIES
 
 #### Status
 ACCEPTED

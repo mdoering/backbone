@@ -1,5 +1,4 @@
-Bacidia furfurella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia furfurella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucispirillum schaedleri Robertson et al., 2005 SPECIES
-=======
+# Mucispirillum schaedleri Robertson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halochromatium Imhoff, Suling & Petri, 1998 GENUS
-=======
+# Halochromatium Imhoff, Suling & Petri, 1998 GENUS
 
 #### Status
 ACCEPTED

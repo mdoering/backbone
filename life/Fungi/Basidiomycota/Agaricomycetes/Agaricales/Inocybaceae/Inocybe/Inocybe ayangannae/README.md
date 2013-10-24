@@ -1,5 +1,4 @@
-Inocybe ayangannae Matheny, Aime & T.W. Henkel SPECIES
-=======
+# Inocybe ayangannae Matheny, Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

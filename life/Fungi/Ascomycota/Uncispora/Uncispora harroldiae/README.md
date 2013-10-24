@@ -1,17 +1,16 @@
-Uncispora harroldii R.C. Sinclair & Morgan-Jones SPECIES
-=======
+# Uncispora harroldiae R.C. Sinclair & Morgan-Jones, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 8(1): 142 (1979)
 
 #### Original name
-Uncispora harroldii R.C. Sinclair & Morgan-Jones
+Uncispora harroldiae R.C. Sinclair & Morgan-Jones, 1979
 
 ### Remarks
 null

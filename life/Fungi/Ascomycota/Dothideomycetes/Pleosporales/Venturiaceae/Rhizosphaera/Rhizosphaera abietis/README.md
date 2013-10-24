@@ -1,5 +1,4 @@
-Rhizosphaera abietis L. Mangin & Har., 1907 SPECIES
-=======
+# Rhizosphaera abietis L. Mangin & Har., 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces fujianensis Y.R. Lin & C.T. Xiang, 2000 SPECIES
-=======
+# Coccomyces fujianensis Y.R. Lin & C.T. Xiang, 2000 SPECIES
 
 #### Status
 ACCEPTED

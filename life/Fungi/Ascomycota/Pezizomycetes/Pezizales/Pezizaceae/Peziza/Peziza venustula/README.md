@@ -1,5 +1,4 @@
-Peziza venustula Desm. SPECIES
-=======
+# Peziza venustula Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fimetariella minuta A.E. Bell & Mahoney, 2005 SPECIES
-=======
+# Fimetariella minuta A.E. Bell & Mahoney, 2005 SPECIES
 
 #### Status
 ACCEPTED

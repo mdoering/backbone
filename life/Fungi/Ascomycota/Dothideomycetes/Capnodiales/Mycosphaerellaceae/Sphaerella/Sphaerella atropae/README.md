@@ -1,5 +1,4 @@
-Sphaerella atropae (Syd.) Sacc. SPECIES
-=======
+# Sphaerella atropae (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rotaliammina sigmoidea Wells, 1985 SPECIES
-=======
+# Rotaliammina sigmoidea Wells, 1985 SPECIES
 
 #### Status
 ACCEPTED

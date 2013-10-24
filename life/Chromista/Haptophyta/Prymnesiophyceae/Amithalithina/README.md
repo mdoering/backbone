@@ -1,5 +1,4 @@
-Amithalithina J.J.Pospichal & S.W.Wise Jr., 1990 GENUS
-=======
+# Amithalithina J.J.Pospichal & S.W.Wise Jr., 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euploea Ehrenberg, 1830 GENUS
-=======
+# Euploea Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

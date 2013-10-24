@@ -1,5 +1,4 @@
-Rotiferophthora lacrima Glockling SPECIES
-=======
+# Rotiferophthora lacrima Glockling SPECIES
 
 #### Status
 ACCEPTED

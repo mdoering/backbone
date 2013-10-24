@@ -1,14 +1,13 @@
-Sphaerella chamaeropis Traverso, 1900 SPECIES
-=======
+# Mycosphaerella chamaeropis (Traverso) Tomilin, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Opredelitel' gribov roda Mycosphaerella Johans 56 (1979)
 
 #### Original name
 Sphaerella chamaeropis Traverso, 1900

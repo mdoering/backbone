@@ -1,5 +1,4 @@
-Thelidium kolcvarense SPECIES
-=======
+# Thelidium kolcvarense SPECIES
 
 #### Status
 ACCEPTED

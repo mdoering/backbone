@@ -1,5 +1,4 @@
-Meliola bosei Hosag. SPECIES
-=======
+# Meliola bosei Hosag. SPECIES
 
 #### Status
 ACCEPTED

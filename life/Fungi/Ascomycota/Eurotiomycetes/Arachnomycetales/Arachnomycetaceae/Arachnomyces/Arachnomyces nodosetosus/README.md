@@ -1,5 +1,4 @@
-Arachnomyces nodosetosus Sigler & S.P. Abbott, 1994 SPECIES
-=======
+# Arachnomyces nodosetosus Sigler & S.P. Abbott, 1994 SPECIES
 
 #### Status
 ACCEPTED

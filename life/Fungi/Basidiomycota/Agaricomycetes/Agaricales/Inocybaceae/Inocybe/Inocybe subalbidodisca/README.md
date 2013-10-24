@@ -1,5 +1,4 @@
-Inocybe subalbidodisca Stangl & J. Veselský SPECIES
-=======
+# Inocybe subalbidodisca Stangl & J. Veselský SPECIES
 
 #### Status
 ACCEPTED

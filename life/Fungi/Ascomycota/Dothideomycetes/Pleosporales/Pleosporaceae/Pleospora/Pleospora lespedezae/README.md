@@ -1,5 +1,4 @@
-Pleospora lespedezae I. Miyake SPECIES
-=======
+# Pleospora lespedezae I. Miyake SPECIES
 
 #### Status
 ACCEPTED

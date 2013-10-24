@@ -1,5 +1,4 @@
-Mycosphaerella spleniata (Cooke & Peck) House SPECIES
-=======
+# Mycosphaerella spleniata (Cooke & Peck) House SPECIES
 
 #### Status
 ACCEPTED

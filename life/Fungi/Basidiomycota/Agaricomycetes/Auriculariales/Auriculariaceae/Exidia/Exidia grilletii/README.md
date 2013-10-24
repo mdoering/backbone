@@ -1,5 +1,4 @@
-Exidia grilletii anon. SPECIES
-=======
+# Exidia grilletii anon. SPECIES
 
 #### Status
 ACCEPTED

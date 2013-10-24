@@ -1,5 +1,4 @@
-Lecidea helsingforsiensis f. helsingforsiensis FORM
-=======
+# Lecidea helsingforsiensis Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea helsingforsiensis f. helsingforsiensis
+Lecidea helsingforsiensis Nyl.
 
 ### Remarks
 null

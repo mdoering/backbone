@@ -1,5 +1,4 @@
-Aschersonia australiensis Henn., 1903 SPECIES
-=======
+# Aschersonia australiensis Henn., 1903 SPECIES
 
 #### Status
 ACCEPTED

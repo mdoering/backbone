@@ -1,17 +1,16 @@
-Physopella hashiokae Buriticá & J.F. Hennen SPECIES
-=======
+# Physopella hashiokai Buriticá & J.F. Hennen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Acad. colomb. cienc. exact. fís. nat. 19(no. 72): 61 (1994)
 
 #### Original name
-Physopella hashiokae Buriticá & J.F. Hennen
+Physopella hashiokai Buriticá & J.F. Hennen
 
 ### Remarks
 null

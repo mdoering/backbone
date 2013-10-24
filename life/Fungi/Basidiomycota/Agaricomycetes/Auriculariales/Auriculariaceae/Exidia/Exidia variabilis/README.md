@@ -1,5 +1,4 @@
-Exidia variabilis Holterm. SPECIES
-=======
+# Exidia variabilis Holterm. SPECIES
 
 #### Status
 ACCEPTED

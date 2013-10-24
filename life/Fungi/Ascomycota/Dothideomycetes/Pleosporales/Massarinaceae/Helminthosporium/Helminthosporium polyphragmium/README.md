@@ -1,5 +1,4 @@
-Helminthosporium polyphragmium Syd. SPECIES
-=======
+# Helminthosporium polyphragmium Syd. SPECIES
 
 #### Status
 ACCEPTED

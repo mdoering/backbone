@@ -1,5 +1,4 @@
-Leptosacca lumae Syd., 1928 SPECIES
-=======
+# Leptosacca lumae Syd., 1928 SPECIES
 
 #### Status
 ACCEPTED

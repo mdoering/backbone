@@ -1,5 +1,4 @@
-Actinosporangium vitaminophilum Shomura et al., 1983 SPECIES
-=======
+# Actinosporangium vitaminophilum Shomura et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia fomentaria Nyl. SPECIES
-=======
+# Arthonia fomentaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

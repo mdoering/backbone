@@ -1,5 +1,4 @@
-Prillieuxina ixoricola (S. Hughes) Arx SPECIES
-=======
+# Prillieuxina ixoricola (S. Hughes) Arx SPECIES
 
 #### Status
 ACCEPTED

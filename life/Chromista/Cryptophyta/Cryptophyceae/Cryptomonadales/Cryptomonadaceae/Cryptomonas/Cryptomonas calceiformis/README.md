@@ -1,5 +1,4 @@
-Cryptomonas calceiformis Lucas SPECIES
-=======
+# Cryptomonas calceiformis Lucas SPECIES
 
 #### Status
 ACCEPTED

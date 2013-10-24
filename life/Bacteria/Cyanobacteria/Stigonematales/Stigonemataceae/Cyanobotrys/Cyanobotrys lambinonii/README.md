@@ -1,5 +1,4 @@
-Cyanobotrys lambinonii L. Hoffmann SPECIES
-=======
+# Cyanobotrys lambinonii L. Hoffmann SPECIES
 
 #### Status
 ACCEPTED

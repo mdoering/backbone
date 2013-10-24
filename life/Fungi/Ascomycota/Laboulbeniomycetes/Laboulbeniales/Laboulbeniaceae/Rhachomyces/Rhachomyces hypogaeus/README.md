@@ -1,5 +1,4 @@
-Rhachomyces hypogaeus subsp. hypogaeus SUBSPECIES
-=======
+# Rhachomyces hypogaeus Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhachomyces hypogaeus subsp. hypogaeus
+Rhachomyces hypogaeus Thaxt.
 
 ### Remarks
 null

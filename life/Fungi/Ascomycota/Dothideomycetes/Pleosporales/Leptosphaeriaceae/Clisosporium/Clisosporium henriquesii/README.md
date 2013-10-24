@@ -1,5 +1,4 @@
-Clisosporium henriquesii (Thüm.) Kuntze SPECIES
-=======
+# Clisosporium henriquesii (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

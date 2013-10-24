@@ -1,5 +1,4 @@
-Candida bracarensis A. Correia, P. Samp., S.A. James & C. Pais SPECIES
-=======
+# Candida bracarensis A. Correia, P. Samp., S.A. James & C. Pais SPECIES
 
 #### Status
 ACCEPTED

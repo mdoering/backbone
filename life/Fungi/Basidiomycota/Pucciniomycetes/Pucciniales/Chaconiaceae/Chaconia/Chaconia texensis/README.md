@@ -1,5 +1,4 @@
-Chaconia texensis Arthur SPECIES
-=======
+# Chaconia texensis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria phaeomelana (Meyen & Flot.) SPECIES
-=======
+# Patellaria phaeomelana (Meyen & Flot.) SPECIES
 
 #### Status
 ACCEPTED

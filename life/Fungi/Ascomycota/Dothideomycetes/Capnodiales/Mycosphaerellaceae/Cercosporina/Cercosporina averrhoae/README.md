@@ -1,5 +1,4 @@
-Cercosporina averrhoae (Petch) Sacc. SPECIES
-=======
+# Cercosporina averrhoae (Petch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

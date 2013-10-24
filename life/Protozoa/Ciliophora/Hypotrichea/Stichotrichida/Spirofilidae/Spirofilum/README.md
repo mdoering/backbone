@@ -1,5 +1,4 @@
-Spirofilum Gelei, 1929 GENUS
-=======
+# Spirofilum Gelei, 1929 GENUS
 
 #### Status
 ACCEPTED

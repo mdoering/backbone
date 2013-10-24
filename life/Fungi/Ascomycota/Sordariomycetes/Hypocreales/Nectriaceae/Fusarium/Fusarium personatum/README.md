@@ -1,5 +1,4 @@
-Fusarium personatum Cooke SPECIES
-=======
+# Fusarium personatum Cooke SPECIES
 
 #### Status
 ACCEPTED

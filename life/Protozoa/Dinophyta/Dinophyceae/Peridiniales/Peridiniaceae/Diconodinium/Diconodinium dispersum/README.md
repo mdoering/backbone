@@ -1,5 +1,4 @@
-Diconodinium dispersum (Cookson & Eisenack, 1958) Eisenack & Cookson SPECIES
-=======
+# Diconodinium dispersum (Cookson & Eisenack, 1958) Eisenack & Cookson SPECIES
 
 #### Status
 ACCEPTED

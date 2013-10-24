@@ -1,5 +1,4 @@
-Cryptosphaerella parca Sacc. SPECIES
-=======
+# Cryptosphaerella parca Sacc. SPECIES
 
 #### Status
 ACCEPTED

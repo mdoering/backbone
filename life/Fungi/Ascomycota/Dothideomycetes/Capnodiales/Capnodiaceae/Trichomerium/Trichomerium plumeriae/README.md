@@ -1,5 +1,4 @@
-Trichomerium plumeriae Bat. & Cif. SPECIES
-=======
+# Trichomerium plumeriae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

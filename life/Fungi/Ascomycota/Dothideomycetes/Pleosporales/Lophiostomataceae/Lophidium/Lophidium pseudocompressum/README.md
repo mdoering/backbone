@@ -1,5 +1,4 @@
-Lophidium pseudocompressum Sacc. & Berl. SPECIES
-=======
+# Lophidium pseudocompressum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

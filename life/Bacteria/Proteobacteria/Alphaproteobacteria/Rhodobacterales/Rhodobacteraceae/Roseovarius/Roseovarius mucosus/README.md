@@ -1,5 +1,4 @@
-Roseovarius mucosus Biebl et al., 2005 SPECIES
-=======
+# Roseovarius mucosus Biebl et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

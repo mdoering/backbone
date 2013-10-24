@@ -1,5 +1,4 @@
-Curvularia trachycarpi M. Zhang & T.Y. Zhang SPECIES
-=======
+# Curvularia trachycarpi M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

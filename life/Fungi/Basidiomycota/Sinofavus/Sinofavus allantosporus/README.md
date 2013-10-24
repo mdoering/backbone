@@ -1,5 +1,4 @@
-Sinofavus allantosporus W.Y. Zhuang & Tolgor SPECIES
-=======
+# Sinofavus allantosporus W.Y. Zhuang & Tolgor SPECIES
 
 #### Status
 ACCEPTED

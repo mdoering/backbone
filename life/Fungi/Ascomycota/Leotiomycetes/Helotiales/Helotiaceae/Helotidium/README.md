@@ -1,5 +1,4 @@
-Helotidium GENUS
-=======
+# Helotidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Polyporus japonicus (Murrill) Teng, 1936 SPECIES
-=======
+# Antrodiella zonata (Berk.) Ryvarden, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sinensia, Shanghai 7: 228 (1936)
+Boln Soc. argent. Bot. 28(1-4): 228 (1992)
 
 #### Original name
-Irpiciporus japonicus Nohara, 1910
+Irpex zonatus (Bres.) Saaren. & Kotir., 2002
 
 ### Remarks
 null

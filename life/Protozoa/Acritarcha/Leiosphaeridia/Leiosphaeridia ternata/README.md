@@ -1,5 +1,4 @@
-Leiosphaeridia ternata (Timofeev, 1966) Mikhailova & Jankauskas in Jankauskas et al., 1989 SPECIES
-=======
+# Leiosphaeridia ternata (Timofeev, 1966) Mikhailova & Jankauskas in Jankauskas et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalacria sanctae-martae G.W. Martin & A.C. Baker SPECIES
-=======
+# Physalacria sanctae-martae G.W. Martin & A.C. Baker SPECIES
 
 #### Status
 ACCEPTED

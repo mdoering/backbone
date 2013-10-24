@@ -1,5 +1,4 @@
-Flandrecysta Slimani, 1994 GENUS
-=======
+# Flandrecysta Slimani, 1994 GENUS
 
 #### Status
 ACCEPTED

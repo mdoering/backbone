@@ -1,5 +1,4 @@
-Glomerella ramosa P. Karst. SPECIES
-=======
+# Glomerella ramosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

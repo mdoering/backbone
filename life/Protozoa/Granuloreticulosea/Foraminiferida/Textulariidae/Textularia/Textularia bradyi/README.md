@@ -1,5 +1,4 @@
-Textularia bradyi (Moller) SPECIES
-=======
+# Textularia bradyi (Moller) SPECIES
 
 #### Status
 ACCEPTED

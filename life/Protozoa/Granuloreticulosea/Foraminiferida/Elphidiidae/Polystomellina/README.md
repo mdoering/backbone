@@ -1,5 +1,4 @@
-Polystomellina Yabe & Hanzawa, 1923 GENUS
-=======
+# Polystomellina Yabe & Hanzawa, 1923 GENUS
 
 #### Status
 ACCEPTED

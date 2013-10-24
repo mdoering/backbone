@@ -1,5 +1,4 @@
-Agaricus sordidoflavus With. SPECIES
-=======
+# Agaricus sordidoflavus With. SPECIES
 
 #### Status
 ACCEPTED

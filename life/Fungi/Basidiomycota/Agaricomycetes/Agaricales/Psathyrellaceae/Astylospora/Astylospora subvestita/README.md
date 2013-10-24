@@ -1,17 +1,16 @@
-Atylospora subvestita Murrill SPECIES
-=======
+# Astylospora subvestita Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 5: 153 (1942)
 
 #### Original name
-Atylospora subvestita Murrill
+Astylospora subvestita Murrill
 
 ### Remarks
 null

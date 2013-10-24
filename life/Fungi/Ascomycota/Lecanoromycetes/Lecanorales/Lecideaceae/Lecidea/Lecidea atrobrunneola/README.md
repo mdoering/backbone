@@ -1,5 +1,4 @@
-Lecidea atrobrunneola Nyl. SPECIES
-=======
+# Lecidea atrobrunneola Nyl. SPECIES
 
 #### Status
 ACCEPTED

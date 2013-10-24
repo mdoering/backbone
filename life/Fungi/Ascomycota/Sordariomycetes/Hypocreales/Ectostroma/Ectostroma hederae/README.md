@@ -1,5 +1,4 @@
-Ectostroma hederae Desm. SPECIES
-=======
+# Ectostroma hederae Desm. SPECIES
 
 #### Status
 ACCEPTED

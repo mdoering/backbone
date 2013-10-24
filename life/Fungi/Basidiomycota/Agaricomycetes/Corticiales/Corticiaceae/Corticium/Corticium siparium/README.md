@@ -1,5 +1,4 @@
-Corticium siparium Berk. & M.A. Curtis SPECIES
-=======
+# Corticium siparium Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

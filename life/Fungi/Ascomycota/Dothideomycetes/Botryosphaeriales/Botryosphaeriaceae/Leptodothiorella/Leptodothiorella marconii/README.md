@@ -1,5 +1,4 @@
-Leptodothiorella marconii McPartl. SPECIES
-=======
+# Leptodothiorella marconii McPartl. SPECIES
 
 #### Status
 ACCEPTED

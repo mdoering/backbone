@@ -1,5 +1,4 @@
-Bosea eneae La Scola et al., 2003 SPECIES
-=======
+# Bosea eneae La Scola et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

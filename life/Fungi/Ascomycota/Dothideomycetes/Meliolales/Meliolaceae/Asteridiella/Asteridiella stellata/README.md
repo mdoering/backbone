@@ -1,5 +1,4 @@
-Asteridiella stellata (Cif.) Hansf. SPECIES
-=======
+# Asteridiella stellata (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

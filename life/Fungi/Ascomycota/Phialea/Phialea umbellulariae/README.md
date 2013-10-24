@@ -1,5 +1,4 @@
-Phialea umbellulariae E.K. Cash SPECIES
-=======
+# Phialea umbellulariae E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

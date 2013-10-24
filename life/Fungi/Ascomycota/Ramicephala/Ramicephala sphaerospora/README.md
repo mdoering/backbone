@@ -1,5 +1,4 @@
-Ramicephala sphaerospora Voglmayr & G. Delgado, 2003 SPECIES
-=======
+# Ramicephala sphaerospora Voglmayr & G. Delgado, 2003 SPECIES
 
 #### Status
 ACCEPTED

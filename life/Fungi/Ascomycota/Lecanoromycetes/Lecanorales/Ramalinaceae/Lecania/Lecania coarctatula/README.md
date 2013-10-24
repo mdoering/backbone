@@ -1,5 +1,4 @@
-Lecania coarctatula Müll. Arg. SPECIES
-=======
+# Lecania coarctatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beauveria velata Samson & H.C. Evans, 1982 SPECIES
-=======
+# Beauveria velata Samson & H.C. Evans, 1982 SPECIES
 
 #### Status
 ACCEPTED

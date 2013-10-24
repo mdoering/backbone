@@ -1,5 +1,4 @@
-Diplodina artemisiae-campestris A.L. Guyot SPECIES
-=======
+# Diplodina artemisiae-campestris A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

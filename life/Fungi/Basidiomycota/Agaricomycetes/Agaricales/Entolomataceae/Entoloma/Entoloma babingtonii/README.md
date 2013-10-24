@@ -1,17 +1,16 @@
-Rhodophyllus babingtonii f. babingtonii FORM
-=======
+# Entoloma babingtonii (A. Bloxam) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 207 (1967)
 
 #### Original name
-Rhodophyllus babingtonii f. babingtonii
+Agaricus babingtonii A. Bloxam, 1854
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma quercicola Sacc. & Briard SPECIES
-=======
+# Phoma quercicola Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

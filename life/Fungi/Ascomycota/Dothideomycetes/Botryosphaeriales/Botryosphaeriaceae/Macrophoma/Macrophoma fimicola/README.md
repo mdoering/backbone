@@ -1,5 +1,4 @@
-Macrophoma fimicola (Westend.) Berl. & Voglino SPECIES
-=======
+# Macrophoma fimicola (Westend.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

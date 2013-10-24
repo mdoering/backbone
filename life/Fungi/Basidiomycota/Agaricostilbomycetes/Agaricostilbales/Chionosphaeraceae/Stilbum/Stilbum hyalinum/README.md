@@ -1,5 +1,4 @@
-Stilbum hyalinum Alb. & Schwein. SPECIES
-=======
+# Stilbum hyalinum Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

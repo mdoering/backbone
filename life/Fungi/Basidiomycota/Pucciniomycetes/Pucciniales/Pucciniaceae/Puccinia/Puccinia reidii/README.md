@@ -1,5 +1,4 @@
-Puccinia reidii G. Cunn., 1923 SPECIES
-=======
+# Puccinia reidii G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

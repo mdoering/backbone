@@ -1,5 +1,4 @@
-Micropsalliota albonuda (Beeli) Heinem. SPECIES
-=======
+# Micropsalliota albonuda (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

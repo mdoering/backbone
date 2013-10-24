@@ -1,8 +1,7 @@
-Conferva foetida Villars SPECIES
-=======
+# Hydrurus foetidus (Villars) Trevisan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

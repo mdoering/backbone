@@ -1,5 +1,4 @@
-Trichothyrium caruaruense Bat. & H. Maia SPECIES
-=======
+# Trichothyrium caruaruense Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

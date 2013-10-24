@@ -1,5 +1,4 @@
-Leptosphaerulina bataticola Khokhr. & Dyur. SPECIES
-=======
+# Leptosphaerulina bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

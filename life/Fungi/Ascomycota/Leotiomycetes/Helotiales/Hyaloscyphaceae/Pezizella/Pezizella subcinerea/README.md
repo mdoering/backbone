@@ -1,5 +1,4 @@
-Pezizella subcinerea Rehm SPECIES
-=======
+# Pezizella subcinerea Rehm SPECIES
 
 #### Status
 ACCEPTED

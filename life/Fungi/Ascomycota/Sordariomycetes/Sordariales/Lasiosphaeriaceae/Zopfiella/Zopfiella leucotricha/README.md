@@ -1,14 +1,13 @@
-Podospora leucotricha (Speg.) Niessl, 1883 SPECIES
-=======
+# Zopfiella leucotricha (Speg.) Malloch & Cain, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Can. J. Bot. 49(6): 876 (1971)
 
 #### Original name
 Sordaria leucotricha Speg., 1878

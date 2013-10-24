@@ -1,5 +1,4 @@
-Septoidium consimilis G. Arnaud SPECIES
-=======
+# Septoidium consimilis G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

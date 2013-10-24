@@ -1,5 +1,4 @@
-Phomopsis oryzae-sativae Punith., 1980 SPECIES
-=======
+# Phomopsis oryzae-sativae Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

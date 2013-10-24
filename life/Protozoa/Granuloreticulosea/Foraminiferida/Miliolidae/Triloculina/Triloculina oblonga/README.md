@@ -1,5 +1,4 @@
-Triloculina oblonga SPECIES
-=======
+# Triloculina oblonga SPECIES
 
 #### Status
 ACCEPTED

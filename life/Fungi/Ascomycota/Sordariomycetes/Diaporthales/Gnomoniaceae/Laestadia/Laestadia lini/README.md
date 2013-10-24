@@ -1,5 +1,4 @@
-Laestadia lini Hollós SPECIES
-=======
+# Laestadia lini Hollós SPECIES
 
 #### Status
 ACCEPTED

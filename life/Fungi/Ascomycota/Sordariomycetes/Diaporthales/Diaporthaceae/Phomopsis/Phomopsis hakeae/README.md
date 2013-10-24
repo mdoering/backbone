@@ -1,5 +1,4 @@
-Phomopsis hakeae Lebedeva SPECIES
-=======
+# Phomopsis hakeae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

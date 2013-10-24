@@ -1,5 +1,4 @@
-Sphaerella allescheri f. allescheri FORM
-=======
+# Sphaerella allescheri Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella allescheri f. allescheri
+Sphaerella allescheri Sacc.
 
 ### Remarks
 null

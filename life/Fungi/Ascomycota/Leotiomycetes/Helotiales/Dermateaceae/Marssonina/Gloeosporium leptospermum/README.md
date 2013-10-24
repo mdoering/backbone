@@ -1,5 +1,4 @@
-Gloeosporium leptospermum Peck SPECIES
-=======
+# Gloeosporium leptospermum Peck SPECIES
 
 #### Status
 ACCEPTED

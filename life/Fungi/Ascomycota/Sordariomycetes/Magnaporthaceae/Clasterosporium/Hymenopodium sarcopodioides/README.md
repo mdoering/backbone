@@ -1,5 +1,4 @@
-Hymenopodium sarcopodioides Corda SPECIES
-=======
+# Hymenopodium sarcopodioides Corda SPECIES
 
 #### Status
 ACCEPTED

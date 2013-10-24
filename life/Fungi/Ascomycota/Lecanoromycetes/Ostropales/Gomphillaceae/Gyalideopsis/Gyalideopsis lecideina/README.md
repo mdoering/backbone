@@ -1,5 +1,4 @@
-Gyalideopsis lecideina Kalb & Vezda SPECIES
-=======
+# Gyalideopsis lecideina Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

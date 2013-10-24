@@ -1,5 +1,4 @@
-Bioscypha cyatheae Syd., 1927 SPECIES
-=======
+# Bioscypha cyatheae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

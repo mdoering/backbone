@@ -1,5 +1,4 @@
-Nectria lagodes Döbbeler SPECIES
-=======
+# Nectria lagodes Döbbeler SPECIES
 
 #### Status
 ACCEPTED

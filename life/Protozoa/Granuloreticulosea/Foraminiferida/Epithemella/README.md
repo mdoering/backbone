@@ -1,5 +1,4 @@
-Epithemella Sliter, 1968 GENUS
-=======
+# Epithemella Sliter, 1968 GENUS
 
 #### Status
 ACCEPTED

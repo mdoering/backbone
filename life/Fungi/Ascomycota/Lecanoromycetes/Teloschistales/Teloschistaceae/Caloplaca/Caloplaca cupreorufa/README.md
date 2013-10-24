@@ -1,5 +1,4 @@
-Caloplaca cupreorufa Zahlbr. SPECIES
-=======
+# Caloplaca cupreorufa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

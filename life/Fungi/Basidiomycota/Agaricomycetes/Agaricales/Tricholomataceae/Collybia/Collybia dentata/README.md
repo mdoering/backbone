@@ -1,5 +1,4 @@
-Collybia dentata (Murrill) Murrill SPECIES
-=======
+# Collybia dentata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

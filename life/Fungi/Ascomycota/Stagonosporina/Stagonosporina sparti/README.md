@@ -1,17 +1,16 @@
-Stagonosporina spartii Tassi SPECIES
-=======
+# Stagonosporina sparti Tassi, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Labor. Orto Bot. de R. Univ. Siena 5: (1902)
 
 #### Original name
-Stagonosporina spartii Tassi
+Stagonosporina sparti Tassi, 1902
 
 ### Remarks
 null

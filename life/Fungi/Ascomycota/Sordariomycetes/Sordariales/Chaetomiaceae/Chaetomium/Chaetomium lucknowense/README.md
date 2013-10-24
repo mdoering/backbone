@@ -1,5 +1,4 @@
-Chaetomium lucknowense J.N. Rai & J.P. Tewari, 1962 SPECIES
-=======
+# Chaetomium lucknowense J.N. Rai & J.P. Tewari, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaceloma prunus-domesticae Jenkins SPECIES
-=======
+# Sphaceloma pruni-domesticae Jenkins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Archos Inst. biol. , S Paulo 28: 252 (1961)
 
 #### Original name
-Sphaceloma prunus-domesticae Jenkins
+Sphaceloma pruni-domesticae Jenkins
 
 ### Remarks
 null

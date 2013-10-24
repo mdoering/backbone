@@ -1,17 +1,16 @@
-Clavaria sylvestris Pers. SPECIES
-=======
+# Clavaria silvestris Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Comm. fung. clav. (Lipsiae) 73 (1797)
 
 #### Original name
-Clavaria sylvestris Pers.
+Clavaria silvestris Pers.
 
 ### Remarks
 null

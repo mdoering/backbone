@@ -1,5 +1,4 @@
-Pilacre pallida Ellis & Everh. SPECIES
-=======
+# Pilacre pallida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

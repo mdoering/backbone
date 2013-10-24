@@ -1,5 +1,4 @@
-Puccinia paroselae Cummins SPECIES
-=======
+# Puccinia paroselae Cummins SPECIES
 
 #### Status
 ACCEPTED

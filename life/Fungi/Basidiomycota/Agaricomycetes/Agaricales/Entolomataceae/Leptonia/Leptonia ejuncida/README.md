@@ -1,5 +1,4 @@
-Leptonia ejuncida (Britzelm.) Sacc. SPECIES
-=======
+# Leptonia ejuncida (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

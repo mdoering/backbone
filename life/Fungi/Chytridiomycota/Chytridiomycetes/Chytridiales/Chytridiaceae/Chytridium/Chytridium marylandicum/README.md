@@ -1,5 +1,4 @@
-Chytridium marylandicum R.A. Paterson SPECIES
-=======
+# Chytridium marylandicum R.A. Paterson SPECIES
 
 #### Status
 ACCEPTED

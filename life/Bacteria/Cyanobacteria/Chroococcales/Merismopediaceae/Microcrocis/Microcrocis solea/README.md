@@ -1,8 +1,7 @@
-Beckia solea Komarenko SPECIES
-=======
+# Microcrocis solea (Komarenko) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,14 +1,13 @@
-Rhabdocline weirii subsp. obovata A.K. Parker & J. Reid SUBSPECIES
-=======
+# Rhabdocline obovata (A.K. Parker & J. Reid) J.K. Stone & Gernandt, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47: 1542 (1969)
+Mycotaxon 91: 121 (2005)
 
 #### Original name
 Rhabdocline weirii subsp. obovata A.K. Parker & J. Reid

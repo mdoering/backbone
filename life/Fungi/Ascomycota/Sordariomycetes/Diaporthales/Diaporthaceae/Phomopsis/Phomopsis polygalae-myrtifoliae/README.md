@@ -1,5 +1,4 @@
-Phomopsis polygalae-myrtifoliae (Henn.) Dias & Sousa da Câmara SPECIES
-=======
+# Phomopsis polygalae-myrtifoliae (Henn.) Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

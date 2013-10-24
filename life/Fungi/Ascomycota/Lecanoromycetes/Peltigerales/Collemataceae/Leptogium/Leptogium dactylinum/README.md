@@ -1,5 +1,4 @@
-Leptogium dactylinum Tuck. SPECIES
-=======
+# Leptogium dactylinum Tuck. SPECIES
 
 #### Status
 ACCEPTED

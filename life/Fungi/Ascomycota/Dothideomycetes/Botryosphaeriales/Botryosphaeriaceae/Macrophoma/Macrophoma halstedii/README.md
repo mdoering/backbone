@@ -1,5 +1,4 @@
-Macrophoma halstedii (Ellis & Everh.) Tassi SPECIES
-=======
+# Macrophoma halstedii (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella spitsbergensis (Lynge) Hertel & Leuckert SPECIES
-=======
+# Lecidella spitsbergensis (Lynge) Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

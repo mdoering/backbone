@@ -1,5 +1,4 @@
-Phaeodimeriella tachirensis Toro SPECIES
-=======
+# Phaeodimeriella tachirensis Toro SPECIES
 
 #### Status
 ACCEPTED

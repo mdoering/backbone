@@ -1,5 +1,4 @@
-Biscogniauxia uniapiculata var. uniapiculata VARIETY
-=======
+# Biscogniauxia uniapiculata (Penz. & Sacc.) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Whalley, Laessøe & Kile, Mycol. Res. 94(2): 239 (1990)
+null
 
 #### Original name
-Biscogniauxia uniapiculata var. uniapiculata
+null
 
 ### Remarks
 null

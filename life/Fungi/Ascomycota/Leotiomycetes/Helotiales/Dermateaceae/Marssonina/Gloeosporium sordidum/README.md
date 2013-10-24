@@ -1,5 +1,4 @@
-Gloeosporium sordidum Speg. SPECIES
-=======
+# Gloeosporium sordidum Speg. SPECIES
 
 #### Status
 ACCEPTED

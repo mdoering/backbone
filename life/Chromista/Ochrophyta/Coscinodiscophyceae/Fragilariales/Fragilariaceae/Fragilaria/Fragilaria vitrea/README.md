@@ -1,5 +1,4 @@
-Fragilaria vitrea var. minima (Ralfs) Grunow VARIETY
-=======
+# Fragilaria vitrea (Kützing) Grunow SPECIES
 
 #### Status
 ACCEPTED

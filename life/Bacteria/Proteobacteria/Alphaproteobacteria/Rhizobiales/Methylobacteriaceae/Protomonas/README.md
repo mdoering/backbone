@@ -1,5 +1,4 @@
-Protomonas Urakami & Komagata, 1984 GENUS
-=======
+# Protomonas Urakami & Komagata, 1984 GENUS
 
 #### Status
 ACCEPTED

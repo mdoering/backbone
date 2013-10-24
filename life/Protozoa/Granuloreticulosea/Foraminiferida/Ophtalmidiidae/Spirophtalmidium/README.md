@@ -1,5 +1,4 @@
-Spirophtalmidium GENUS
-=======
+# Spirophtalmidium GENUS
 
 #### Status
 ACCEPTED

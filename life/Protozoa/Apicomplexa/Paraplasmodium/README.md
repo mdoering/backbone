@@ -1,5 +1,4 @@
-Paraplasmodium Telford, 1988 GENUS
-=======
+# Paraplasmodium Telford, 1988 GENUS
 
 #### Status
 ACCEPTED

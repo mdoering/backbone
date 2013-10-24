@@ -1,5 +1,4 @@
-Thyridaria arizonica M.E. Barr SPECIES
-=======
+# Thyridaria arizonica M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

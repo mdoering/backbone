@@ -1,5 +1,4 @@
-Selenidium parvum Woodcock & Lodge, 1921 SPECIES
-=======
+# Selenidium parvum Woodcock & Lodge, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella fulvescens Bourdot & Galzin SPECIES
-=======
+# Cyphella fulvescens Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

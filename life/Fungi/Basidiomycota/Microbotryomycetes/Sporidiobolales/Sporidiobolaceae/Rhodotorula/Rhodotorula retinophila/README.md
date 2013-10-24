@@ -1,5 +1,4 @@
-Rhodotorula retinophila Thanh, Smit, Moleleki & Fell SPECIES
-=======
+# Rhodotorula retinophila Thanh, Smit, Moleleki & Fell SPECIES
 
 #### Status
 ACCEPTED

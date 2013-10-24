@@ -1,14 +1,13 @@
-Sirodiplospora myrtilli (Feltgen) Petr., 1927 SPECIES
-=======
+# Topospora myrtilli (Feltgen) Boerema, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25: 233 (1927)
+Gewasbescherming 1(4): 66 (1970)
 
 #### Original name
 Dothiopsis myrtilli Feltgen, 1903

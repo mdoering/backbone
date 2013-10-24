@@ -1,5 +1,4 @@
-Cercospora maloarum Sacc. SPECIES
-=======
+# Cercospora maloarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

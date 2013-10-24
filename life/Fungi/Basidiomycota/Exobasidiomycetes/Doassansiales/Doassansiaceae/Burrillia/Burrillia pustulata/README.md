@@ -1,5 +1,4 @@
-Burrillia pustulata Setch., 1891 SPECIES
-=======
+# Burrillia pustulata Setch., 1891 SPECIES
 
 #### Status
 ACCEPTED

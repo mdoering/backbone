@@ -1,14 +1,13 @@
-Sticta dozyana Mont. & Bosch SPECIES
-=======
+# Pseudocyphellaria dozyana (Mont. & Bosch) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Miquel, Pl. Jungh. 4: 436 (1855)
+Lichenologist 17(3): 304 (1985)
 
 #### Original name
 Sticta dozyana Mont. & Bosch

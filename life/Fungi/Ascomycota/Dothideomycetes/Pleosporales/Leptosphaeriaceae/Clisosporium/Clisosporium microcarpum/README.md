@@ -1,5 +1,4 @@
-Clisosporium microcarpum Schulzer SPECIES
-=======
+# Clisosporium microcarpum Schulzer SPECIES
 
 #### Status
 ACCEPTED

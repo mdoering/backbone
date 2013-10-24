@@ -1,5 +1,4 @@
-Paratikhinella GENUS
-=======
+# Paratikhinella GENUS
 
 #### Status
 ACCEPTED

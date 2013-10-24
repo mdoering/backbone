@@ -1,5 +1,4 @@
-Aedes epactius Npv SPECIES
-=======
+# Aedes epactius Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphella graminicola Raitv. & Järv SPECIES
-=======
+# Dasyscyphella graminicola Raitv. & Järv SPECIES
 
 #### Status
 ACCEPTED

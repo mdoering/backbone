@@ -1,5 +1,4 @@
-Pseudothis bauhiniae Theiss. SPECIES
-=======
+# Pseudothis bauhiniae Theiss. SPECIES
 
 #### Status
 ACCEPTED

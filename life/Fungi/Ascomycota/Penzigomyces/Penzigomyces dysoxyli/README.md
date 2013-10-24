@@ -1,5 +1,4 @@
-Penzigomyces dysoxyli Subram. SPECIES
-=======
+# Penzigomyces dysoxyli Subram. SPECIES
 
 #### Status
 ACCEPTED

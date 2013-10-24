@@ -1,5 +1,4 @@
-Pseudocercospora baruipurensis Sarbajna SPECIES
-=======
+# Pseudocercospora baruipurensis Sarbajna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora suspicax Stizenb. SPECIES
-=======
+# Lecanora suspicax Stizenb. SPECIES
 
 #### Status
 ACCEPTED

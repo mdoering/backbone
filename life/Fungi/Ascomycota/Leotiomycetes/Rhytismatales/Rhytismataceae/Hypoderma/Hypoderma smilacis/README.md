@@ -1,14 +1,13 @@
-Hysterium smilacis Schwein. SPECIES
-=======
+# Hypoderma smilacis (Schwein.) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 49 (1822)
+Ber. naturw. Augsburg 26: 80 (1881)
 
 #### Original name
 Hysterium smilacis Schwein.

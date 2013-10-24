@@ -1,5 +1,4 @@
-Psathyrella annulosa Singer SPECIES
-=======
+# Psathyrella annulosa Singer SPECIES
 
 #### Status
 ACCEPTED

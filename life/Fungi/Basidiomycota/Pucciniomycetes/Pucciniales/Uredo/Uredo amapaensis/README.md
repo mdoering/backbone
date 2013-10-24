@@ -1,5 +1,4 @@
-Uredo amapaensis J.F. Hennen & Sotão SPECIES
-=======
+# Uredo amapaensis J.F. Hennen & Sotão SPECIES
 
 #### Status
 ACCEPTED

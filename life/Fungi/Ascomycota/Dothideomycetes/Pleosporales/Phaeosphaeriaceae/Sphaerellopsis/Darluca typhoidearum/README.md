@@ -1,5 +1,4 @@
-Darluca typhoidearum Berk. & Broome SPECIES
-=======
+# Darluca typhoidearum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

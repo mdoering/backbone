@@ -1,5 +1,4 @@
-Lichenochora aipoliae Etayo, Nav.-Ros. & Coppins, 2008 SPECIES
-=======
+# Lichenochora aipoliae Etayo, Nav.-Ros. & Coppins, 2008 SPECIES
 
 #### Status
 ACCEPTED

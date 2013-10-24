@@ -1,5 +1,4 @@
-Spincterules compressus Loeblich & Tappan, 1994 SPECIES
-=======
+# Spincterules compressus Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

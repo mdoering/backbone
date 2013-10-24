@@ -1,5 +1,4 @@
-Collybia lupuletorum Weinm. SPECIES
-=======
+# Collybia lupuletorum Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytinostroma renisporum Boidin, Lanq. & Gilles, 1987 SPECIES
-=======
+# Scytinostroma renisporum Boidin, Lanq. & Gilles, 1987 SPECIES
 
 #### Status
 ACCEPTED

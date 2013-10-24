@@ -1,5 +1,4 @@
-Sclerosphaeropsis shastensis (R. Sprague & W.B. Cooke) Petr. SPECIES
-=======
+# Sclerosphaeropsis shastensis (R. Sprague & W.B. Cooke) Petr. SPECIES
 
 #### Status
 ACCEPTED

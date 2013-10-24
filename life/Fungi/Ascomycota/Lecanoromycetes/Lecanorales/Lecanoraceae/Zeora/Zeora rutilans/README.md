@@ -1,5 +1,4 @@
-Zeora rutilans Flot. SPECIES
-=======
+# Zeora rutilans Flot. SPECIES
 
 #### Status
 ACCEPTED

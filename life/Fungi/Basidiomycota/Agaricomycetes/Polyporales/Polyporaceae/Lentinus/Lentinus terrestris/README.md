@@ -1,5 +1,4 @@
-Lentinus terrestris Lloyd SPECIES
-=======
+# Lentinus terrestris Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia obstans Britzelm. SPECIES
-=======
+# Collybia obstans Britzelm. SPECIES
 
 #### Status
 ACCEPTED

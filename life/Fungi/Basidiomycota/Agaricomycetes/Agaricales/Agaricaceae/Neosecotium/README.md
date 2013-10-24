@@ -1,5 +1,4 @@
-Neosecotium Singer & A.H. Sm. GENUS
-=======
+# Neosecotium Singer & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

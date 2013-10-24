@@ -1,5 +1,4 @@
-Exosporium catenulatum M.B. Ellis SPECIES
-=======
+# Exosporium catenulatum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

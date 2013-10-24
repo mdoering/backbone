@@ -1,5 +1,4 @@
-Riclaretia urticae Peyronel, 1915 SPECIES
-=======
+# Riclaretia urticae Peyronel, 1915 SPECIES
 
 #### Status
 ACCEPTED

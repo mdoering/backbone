@@ -1,5 +1,4 @@
-Cercospora erechtitis G.F. Atk. SPECIES
-=======
+# Cercospora erechtitis G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

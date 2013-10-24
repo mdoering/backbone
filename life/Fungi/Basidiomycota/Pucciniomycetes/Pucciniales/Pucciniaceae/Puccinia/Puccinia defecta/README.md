@@ -1,5 +1,4 @@
-Puccinia defecta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia defecta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

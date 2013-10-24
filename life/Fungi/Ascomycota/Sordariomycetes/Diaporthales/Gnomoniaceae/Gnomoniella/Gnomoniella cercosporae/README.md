@@ -1,5 +1,4 @@
-Gnomoniella cercosporae Pass. SPECIES
-=======
+# Gnomoniella cercosporae Pass. SPECIES
 
 #### Status
 ACCEPTED

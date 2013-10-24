@@ -1,5 +1,4 @@
-Zephirea GENUS
-=======
+# Zephirea GENUS
 
 #### Status
 ACCEPTED

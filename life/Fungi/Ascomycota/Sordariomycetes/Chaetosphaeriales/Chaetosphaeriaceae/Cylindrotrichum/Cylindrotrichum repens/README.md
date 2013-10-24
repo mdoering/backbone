@@ -1,5 +1,4 @@
-Cylindrotrichum repens var. repens VARIETY
-=======
+# Cylindrotrichum repens Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cylindrotrichum repens var. repens
+Cylindrotrichum repens Bonord.
 
 ### Remarks
 null

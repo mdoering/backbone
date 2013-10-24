@@ -1,5 +1,4 @@
-Stephanopyxis inermis Jousé SPECIES
-=======
+# Stephanopyxis inermis Jousé SPECIES
 
 #### Status
 ACCEPTED

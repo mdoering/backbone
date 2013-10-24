@@ -1,5 +1,4 @@
-Pholiota suberis Maire SPECIES
-=======
+# Pholiota suberis Maire SPECIES
 
 #### Status
 ACCEPTED

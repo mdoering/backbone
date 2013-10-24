@@ -1,5 +1,4 @@
-Didymosphaeria diplodioides (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Didymosphaeria diplodioides (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium pangerangense Henn. & E. Nyman SPECIES
-=======
+# Dimerosporium pangerangense Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

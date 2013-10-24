@@ -1,5 +1,4 @@
-Pontisma H.E. Petersen GENUS
-=======
+# Pontisma H.E. Petersen GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia maculicola U. Braun & Rogerson SPECIES
-=======
+# Ramularia maculicola U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterothyrites canadensis (Kalgutkar) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites canadensis (Kalgutkar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

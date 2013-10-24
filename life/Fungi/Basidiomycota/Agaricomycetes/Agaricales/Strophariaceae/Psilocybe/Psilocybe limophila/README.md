@@ -1,5 +1,4 @@
-Psilocybe limophila Peck SPECIES
-=======
+# Psilocybe limophila Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borisella Afanasieva, 2000 GENUS
-=======
+# Borisella Afanasieva, 2000 GENUS
 
 #### Status
 ACCEPTED

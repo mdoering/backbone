@@ -1,5 +1,4 @@
-Armillariella clavuligera Singer SPECIES
-=======
+# Armillariella clavuligera Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium pyraceum f. pyraceum FORM
-=======
+# Placodium pyraceum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia cerina var. pyracea Ach.
+null
 
 ### Remarks
 null

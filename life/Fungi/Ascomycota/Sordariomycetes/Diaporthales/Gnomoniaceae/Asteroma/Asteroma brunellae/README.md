@@ -1,5 +1,4 @@
-Asteroma brunellae Purton SPECIES
-=======
+# Asteroma brunellae Purton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium epidermidis Schwein. SPECIES
-=======
+# Fusidium epidermidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

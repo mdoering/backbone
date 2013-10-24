@@ -1,5 +1,4 @@
-Lecanora subtartarea Nyl. SPECIES
-=======
+# Lecanora subtartarea Nyl. SPECIES
 
 #### Status
 ACCEPTED

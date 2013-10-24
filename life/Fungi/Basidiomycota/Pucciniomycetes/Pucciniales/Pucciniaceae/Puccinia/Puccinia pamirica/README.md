@@ -1,5 +1,4 @@
-Puccinia pamirica Tranzschel & Erem. SPECIES
-=======
+# Puccinia pamirica Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

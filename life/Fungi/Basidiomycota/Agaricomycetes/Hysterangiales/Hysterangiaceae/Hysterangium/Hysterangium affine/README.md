@@ -1,5 +1,4 @@
-Hysterangium affine var. affine VARIETY
-=======
+# Hysterangium affine Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Misc. Inf. , Kew 127 (1898)
 
 #### Original name
-Hysterangium affine var. affine
+Hysterangium affine Massee & Rodway
 
 ### Remarks
 null

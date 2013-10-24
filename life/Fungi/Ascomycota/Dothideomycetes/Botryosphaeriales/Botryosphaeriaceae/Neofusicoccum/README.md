@@ -1,5 +1,4 @@
-Neofusicoccum Crous, Slippers & A.J.L. Phillips GENUS
-=======
+# Neofusicoccum Crous, Slippers & A.J.L. Phillips GENUS
 
 #### Status
 ACCEPTED

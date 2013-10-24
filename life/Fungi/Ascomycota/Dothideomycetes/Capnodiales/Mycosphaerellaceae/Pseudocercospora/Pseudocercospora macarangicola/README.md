@@ -1,5 +1,4 @@
-Pseudocercospora macarangicola Deighton SPECIES
-=======
+# Pseudocercospora macarangicola Deighton SPECIES
 
 #### Status
 ACCEPTED

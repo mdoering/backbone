@@ -1,5 +1,4 @@
-Strigula obtecta (Vain.) R. C. Harris SPECIES
-=======
+# Strigula obtecta (Vain.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

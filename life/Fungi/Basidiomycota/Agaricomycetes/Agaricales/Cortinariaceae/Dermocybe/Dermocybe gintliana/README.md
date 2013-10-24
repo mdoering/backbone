@@ -1,5 +1,4 @@
-Dermocybe gintliana Velen. SPECIES
-=======
+# Dermocybe gintliana Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphinaria GENUS
-=======
+# Gomphinaria GENUS
 
 #### Status
 ACCEPTED

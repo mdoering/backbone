@@ -1,5 +1,4 @@
-Clitocybe troyana Murrill SPECIES
-=======
+# Clitocybe troyana Murrill SPECIES
 
 #### Status
 ACCEPTED

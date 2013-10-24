@@ -1,5 +1,4 @@
-Strickeria elliptica (Peck) House SPECIES
-=======
+# Strickeria elliptica (Peck) House SPECIES
 
 #### Status
 ACCEPTED

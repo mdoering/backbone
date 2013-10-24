@@ -1,5 +1,4 @@
-Lalaria communis R.T. Moore SPECIES
-=======
+# Lalaria communis R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

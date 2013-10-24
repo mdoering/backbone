@@ -1,5 +1,4 @@
-Septoria chamomillae Andrian. SPECIES
-=======
+# Septoria chamomillae Andrian. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Candida antillancae C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida tepae Grinb., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Mikrobiol. 56: 204 (1967)
 
 #### Original name
-null
+Candida tepae Grinb., 1967
 
 ### Remarks
 null

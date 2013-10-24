@@ -1,5 +1,4 @@
-Onychocola glareosa Gibas, Sigler & Currah SPECIES
-=======
+# Onychocola glareosa Gibas, Sigler & Currah SPECIES
 
 #### Status
 ACCEPTED

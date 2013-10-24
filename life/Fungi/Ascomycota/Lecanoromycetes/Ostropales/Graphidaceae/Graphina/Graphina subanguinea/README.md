@@ -1,5 +1,4 @@
-Graphina subanguinea var. subanguinea VARIETY
-=======
+# Graphina subanguinea (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina subanguinea var. subanguinea
+Fissurina subanguinea Kremp.
 
 ### Remarks
 null

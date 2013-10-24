@@ -1,5 +1,4 @@
-Ascochyta garrettiana Syd. & P. Syd. SPECIES
-=======
+# Ascochyta garrettiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

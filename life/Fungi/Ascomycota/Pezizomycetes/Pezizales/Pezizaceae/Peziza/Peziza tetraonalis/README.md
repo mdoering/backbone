@@ -1,5 +1,4 @@
-Peziza tetraonalis Peck SPECIES
-=======
+# Peziza tetraonalis Peck SPECIES
 
 #### Status
 ACCEPTED

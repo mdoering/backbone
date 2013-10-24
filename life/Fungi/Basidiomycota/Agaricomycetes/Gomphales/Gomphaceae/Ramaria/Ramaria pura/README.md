@@ -1,5 +1,4 @@
-Ramaria pura Corner & K.S. Thind, 1966 SPECIES
-=======
+# Ramaria pura Corner & K.S. Thind, 1966 SPECIES
 
 #### Status
 ACCEPTED

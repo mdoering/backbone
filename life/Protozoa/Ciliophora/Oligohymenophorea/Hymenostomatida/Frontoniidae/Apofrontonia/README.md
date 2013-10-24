@@ -1,5 +1,4 @@
-Apofrontonia Foissner & Song, 2002 GENUS
-=======
+# Apofrontonia Foissner & Song, 2002 GENUS
 
 #### Status
 ACCEPTED

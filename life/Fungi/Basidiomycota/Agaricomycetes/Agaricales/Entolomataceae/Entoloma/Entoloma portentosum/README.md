@@ -1,5 +1,4 @@
-Entoloma portentosum E. Horak SPECIES
-=======
+# Entoloma portentosum E. Horak SPECIES
 
 #### Status
 ACCEPTED

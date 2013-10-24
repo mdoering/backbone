@@ -1,5 +1,4 @@
-Phyllachora trifolii (Pers.) Fuckel SPECIES
-=======
+# Phyllachora trifolii (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

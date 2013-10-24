@@ -1,17 +1,16 @@
-Phytophthora cactorum var. applanata Chester, 1932 VARIETY
-=======
+# Phytophthora citricola Sawada, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Arnold Arbor. 13: 254 (1932)
+Report of the Department of Agriculture, Government Research Institute of Formosa 27: 22-24 (1927)
 
 #### Original name
-Phytophthora cactorum var. applanata Chester, 1932
+Phytophthora citricola Sawada, 1927
 
 ### Remarks
 null

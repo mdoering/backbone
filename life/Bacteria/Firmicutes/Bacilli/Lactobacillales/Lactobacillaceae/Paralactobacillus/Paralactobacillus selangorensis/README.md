@@ -1,5 +1,4 @@
-Paralactobacillus selangorensis Leisner et al., 2000 SPECIES
-=======
+# Paralactobacillus selangorensis Leisner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

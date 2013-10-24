@@ -1,5 +1,4 @@
-Arthonia crozalsiana B. de Lesd. SPECIES
-=======
+# Arthonia crozalsiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

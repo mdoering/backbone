@@ -1,5 +1,4 @@
-Pestalotia gibbosa Harkn. SPECIES
-=======
+# Pestalotia gibbosa Harkn. SPECIES
 
 #### Status
 ACCEPTED

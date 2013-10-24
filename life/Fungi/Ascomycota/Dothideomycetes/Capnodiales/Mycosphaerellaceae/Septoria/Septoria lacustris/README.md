@@ -1,5 +1,4 @@
-Septoria lacustris Sacc. & Thüm. SPECIES
-=======
+# Septoria lacustris Sacc. & Thüm. SPECIES
 
 #### Status
 ACCEPTED

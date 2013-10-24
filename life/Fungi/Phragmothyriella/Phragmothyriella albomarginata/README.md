@@ -1,5 +1,4 @@
-Phragmothyriella albomarginata (Speg.) Speg. SPECIES
-=======
+# Phragmothyriella albomarginata (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

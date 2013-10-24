@@ -1,5 +1,4 @@
-Agaricus luteopallens Peck SPECIES
-=======
+# Agaricus luteopallens Peck SPECIES
 
 #### Status
 ACCEPTED

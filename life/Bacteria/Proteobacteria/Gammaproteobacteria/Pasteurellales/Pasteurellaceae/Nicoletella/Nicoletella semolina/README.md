@@ -1,5 +1,4 @@
-Nicoletella semolina Kuhnert et al., 2005 SPECIES
-=======
+# Nicoletella semolina Kuhnert et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

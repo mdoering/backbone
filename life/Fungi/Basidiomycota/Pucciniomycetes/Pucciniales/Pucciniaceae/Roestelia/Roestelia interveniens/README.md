@@ -1,5 +1,4 @@
-Roestelia interveniens Peck SPECIES
-=======
+# Roestelia interveniens Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bovista citrina (Berk. & Broome) Bottomley SPECIES
-=======
+# Bovista citrina (Berk. & Broome) Bottomley SPECIES
 
 #### Status
 ACCEPTED

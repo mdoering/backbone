@@ -1,5 +1,4 @@
-Crystallocystidium albescens var. albescens VARIETY
-=======
+# Crystallocystidium albescens Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brotéria, sér. Ci. Nat. 9: 142 (1940)
 
 #### Original name
-Crystallocystidium albescens var. albescens
+Crystallocystidium albescens Rick
 
 ### Remarks
 null

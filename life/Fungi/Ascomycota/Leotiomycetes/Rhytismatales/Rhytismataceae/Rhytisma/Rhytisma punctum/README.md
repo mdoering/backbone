@@ -1,5 +1,4 @@
-Rhytisma punctum Chevall. SPECIES
-=======
+# Rhytisma punctum Chevall. SPECIES
 
 #### Status
 ACCEPTED

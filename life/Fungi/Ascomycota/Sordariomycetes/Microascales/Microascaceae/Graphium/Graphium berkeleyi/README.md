@@ -1,5 +1,4 @@
-Graphium berkeleyi Mont. SPECIES
-=======
+# Graphium berkeleyi Mont. SPECIES
 
 #### Status
 ACCEPTED

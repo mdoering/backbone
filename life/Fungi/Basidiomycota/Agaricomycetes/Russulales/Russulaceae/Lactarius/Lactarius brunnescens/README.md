@@ -1,5 +1,4 @@
-Lactarius brunnescens Hashiya SPECIES
-=======
+# Lactarius brunnescens Hashiya SPECIES
 
 #### Status
 ACCEPTED

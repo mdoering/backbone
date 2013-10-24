@@ -1,8 +1,7 @@
-Cudonia osterwaldi Henn. SPECIES
-=======
+# Cudonia osterwaldii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cudonia osterwaldi Henn.
+Cudonia osterwaldii Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lulworthia longispora Cribb & J.W. Cribb SPECIES
-=======
+# Lulworthia longispora Cribb & J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

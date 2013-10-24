@@ -1,5 +1,4 @@
-Cordyceps cylindrica Petch SPECIES
-=======
+# Cordyceps cylindrica Petch SPECIES
 
 #### Status
 ACCEPTED

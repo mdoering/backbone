@@ -1,5 +1,4 @@
-Calostoma guizhouense B. Liu & S.Z. Jiang SPECIES
-=======
+# Calostoma guizhouense B. Liu & S.Z. Jiang SPECIES
 
 #### Status
 ACCEPTED

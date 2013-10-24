@@ -1,5 +1,4 @@
-Stereocaulon congestum Nyl. SPECIES
-=======
+# Stereocaulon congestum Nyl. SPECIES
 
 #### Status
 ACCEPTED

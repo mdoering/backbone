@@ -1,5 +1,4 @@
-Hygrophorus vernalis A.H. Sm. SPECIES
-=======
+# Hygrophorus vernalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

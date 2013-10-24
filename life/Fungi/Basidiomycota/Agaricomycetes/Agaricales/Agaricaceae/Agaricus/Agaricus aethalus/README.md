@@ -1,5 +1,4 @@
-Agaricus aethalus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus aethalus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

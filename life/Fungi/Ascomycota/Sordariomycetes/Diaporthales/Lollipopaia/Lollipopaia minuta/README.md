@@ -1,5 +1,4 @@
-Lollipopaia minuta Inderb., 2001 SPECIES
-=======
+# Lollipopaia minuta Inderb., 2001 SPECIES
 
 #### Status
 ACCEPTED

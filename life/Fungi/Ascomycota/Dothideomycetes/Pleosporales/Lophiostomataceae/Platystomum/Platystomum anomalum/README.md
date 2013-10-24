@@ -1,5 +1,4 @@
-Platystomum anomalum (G.F. Atk.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum anomalum (G.F. Atk.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

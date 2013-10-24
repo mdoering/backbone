@@ -1,5 +1,4 @@
-Phlegmacium GENUS
-=======
+# Phlegmacium GENUS
 
 #### Status
 ACCEPTED

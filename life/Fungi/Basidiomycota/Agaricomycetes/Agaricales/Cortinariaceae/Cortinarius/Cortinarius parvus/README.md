@@ -1,5 +1,4 @@
-Cortinarius parvus Fr. SPECIES
-=======
+# Cortinarius parvus Fr. SPECIES
 
 #### Status
 ACCEPTED

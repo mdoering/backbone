@@ -1,5 +1,4 @@
-Septogloeum anisophylleae Henn. SPECIES
-=======
+# Septogloeum anisophylleae Henn. SPECIES
 
 #### Status
 ACCEPTED

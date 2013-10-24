@@ -1,5 +1,4 @@
-Otidea caligata (Nyl.) Sacc. SPECIES
-=======
+# Otidea caligata (Nyl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

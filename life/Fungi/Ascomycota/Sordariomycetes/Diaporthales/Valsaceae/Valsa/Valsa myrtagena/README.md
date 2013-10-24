@@ -1,5 +1,4 @@
-Valsa myrtagena G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Valsa myrtagena G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

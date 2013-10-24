@@ -1,5 +1,4 @@
-Badhamia Berk. GENUS
-=======
+# Badhamia Berk. GENUS
 
 #### Status
 ACCEPTED

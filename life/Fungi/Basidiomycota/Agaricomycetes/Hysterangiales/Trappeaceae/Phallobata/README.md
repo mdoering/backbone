@@ -1,5 +1,4 @@
-Phallobata G. Cunn. GENUS
-=======
+# Phallobata G. Cunn. GENUS
 
 #### Status
 ACCEPTED

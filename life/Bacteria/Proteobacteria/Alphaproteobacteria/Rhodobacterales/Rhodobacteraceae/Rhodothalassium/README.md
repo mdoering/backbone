@@ -1,5 +1,4 @@
-Rhodothalassium Imhoff, Petri & Suling, 1998 GENUS
-=======
+# Rhodothalassium Imhoff, Petri & Suling, 1998 GENUS
 
 #### Status
 ACCEPTED

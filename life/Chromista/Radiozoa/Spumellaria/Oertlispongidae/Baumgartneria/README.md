@@ -1,5 +1,4 @@
-Baumgartneria Dumitrica, 1982 GENUS
-=======
+# Baumgartneria Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

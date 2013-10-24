@@ -1,5 +1,4 @@
-Naevia carlinae Velen. SPECIES
-=======
+# Naevia carlinae Velen. SPECIES
 
 #### Status
 ACCEPTED

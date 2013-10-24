@@ -1,5 +1,4 @@
-Passalora weigelae (Y.L. Guo & X.J. Liu) U. Braun & Crous SPECIES
-=======
+# Passalora weigelae (Y.L. Guo & X.J. Liu) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

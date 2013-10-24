@@ -1,5 +1,4 @@
-Pyxicola entzi Stiller, 1931 SPECIES
-=======
+# Pyxicola entzi Stiller, 1931 SPECIES
 
 #### Status
 ACCEPTED

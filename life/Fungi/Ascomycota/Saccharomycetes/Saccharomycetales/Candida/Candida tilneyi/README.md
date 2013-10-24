@@ -1,5 +1,4 @@
-Candida tilneyi Lachance SPECIES
-=======
+# Candida tilneyi Lachance SPECIES
 
 #### Status
 ACCEPTED

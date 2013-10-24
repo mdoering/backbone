@@ -1,5 +1,4 @@
-Lachnum fugiens (W. Phillips ex Buckn.) SPECIES
-=======
+# Lachnum fugiens (W. Phillips ex Buckn.) SPECIES
 
 #### Status
 ACCEPTED

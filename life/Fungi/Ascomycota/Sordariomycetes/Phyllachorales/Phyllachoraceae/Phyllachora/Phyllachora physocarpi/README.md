@@ -1,14 +1,13 @@
-Hyponectria physocarpi (Jacz.) Lar.N. Vassiljeva, 1998 SPECIES
-=======
+# Phyllachora physocarpi Jacz., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nizshie Rasteniya, Griby i Mokhoobraznye Dalnego Vostoka Rossii (Sankt-Peterburg), Griby. Tom <b>4</b>. Pirenomitsety i Lokuloaskomitsety 143 (1998)
+Fungi Rossiae Exsicc. , fasc. 6(nos 251-300): no. 290 (1899)
 
 #### Original name
 Phyllachora physocarpi Jacz., 1899

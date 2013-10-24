@@ -1,5 +1,4 @@
-Irene guioae Hansf. SPECIES
-=======
+# Irene guioae Hansf. SPECIES
 
 #### Status
 ACCEPTED

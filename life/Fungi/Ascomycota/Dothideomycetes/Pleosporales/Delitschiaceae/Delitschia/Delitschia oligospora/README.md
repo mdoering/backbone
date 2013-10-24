@@ -1,5 +1,4 @@
-Delitschia oligospora Luck-Allen & Cain SPECIES
-=======
+# Delitschia oligospora Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

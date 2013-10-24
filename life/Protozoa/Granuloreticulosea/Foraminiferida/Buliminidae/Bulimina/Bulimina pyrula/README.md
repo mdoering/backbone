@@ -1,5 +1,4 @@
-Bulimina pyrula agg. spinescens INFRASPECIFIC_NAME
-=======
+# Bulimina pyrula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta pruni-spinosa Allesch. SPECIES
-=======
+# Phyllosticta pruni-spinosae Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verhandl. Süd-Bayern, Pilze 3: 15 (1892)
 
 #### Original name
-Phyllosticta pruni-spinosa Allesch.
+Phyllosticta pruni-spinosae Allesch.
 
 ### Remarks
 null

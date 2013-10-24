@@ -1,5 +1,4 @@
-Aglaospora bicornis (Cooke) Kuntze SPECIES
-=======
+# Aglaospora bicornis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

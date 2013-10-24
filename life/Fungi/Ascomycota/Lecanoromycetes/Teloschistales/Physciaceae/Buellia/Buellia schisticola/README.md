@@ -1,5 +1,4 @@
-Buellia schisticola H. Magn. SPECIES
-=======
+# Buellia schisticola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

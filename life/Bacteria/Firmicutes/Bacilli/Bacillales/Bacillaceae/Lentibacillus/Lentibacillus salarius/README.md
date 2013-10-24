@@ -1,5 +1,4 @@
-Lentibacillus salarius Jeon et al., 2005 SPECIES
-=======
+# Lentibacillus salarius Jeon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

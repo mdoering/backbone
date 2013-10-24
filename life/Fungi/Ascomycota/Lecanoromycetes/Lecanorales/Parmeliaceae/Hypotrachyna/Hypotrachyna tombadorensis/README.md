@@ -1,5 +1,4 @@
-Hypotrachyna tombadorensis Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna tombadorensis Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

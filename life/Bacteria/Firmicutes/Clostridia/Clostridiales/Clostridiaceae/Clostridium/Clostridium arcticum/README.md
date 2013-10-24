@@ -1,5 +1,4 @@
-Clostridium arcticum (ex Jordan & McNicol, 1979) Cato et al., 1988 SPECIES
-=======
+# Clostridium arcticum (ex Jordan & McNicol, 1979) Cato et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

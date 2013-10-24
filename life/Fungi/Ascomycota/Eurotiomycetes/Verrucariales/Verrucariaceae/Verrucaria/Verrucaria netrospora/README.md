@@ -1,5 +1,4 @@
-Verrucaria netrospora (Nägeli) Nyl. SPECIES
-=======
+# Verrucaria netrospora (Nägeli) Nyl. SPECIES
 
 #### Status
 ACCEPTED

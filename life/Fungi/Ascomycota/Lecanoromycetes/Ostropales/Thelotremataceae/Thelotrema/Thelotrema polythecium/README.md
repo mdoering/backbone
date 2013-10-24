@@ -1,5 +1,4 @@
-Thelotrema polythecium Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema polythecium Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

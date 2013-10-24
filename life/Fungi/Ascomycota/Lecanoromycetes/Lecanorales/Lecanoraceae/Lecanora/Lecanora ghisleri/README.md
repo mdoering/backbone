@@ -1,5 +1,4 @@
-Lecanora ghisleri (Hepp) Arnold SPECIES
-=======
+# Lecanora ghisleri (Hepp) Arnold SPECIES
 
 #### Status
 ACCEPTED

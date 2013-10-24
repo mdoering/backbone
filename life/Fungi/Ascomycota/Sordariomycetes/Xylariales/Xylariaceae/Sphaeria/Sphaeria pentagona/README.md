@@ -1,5 +1,4 @@
-Sphaeria pentagona Pers. SPECIES
-=======
+# Sphaeria pentagona Pers. SPECIES
 
 #### Status
 ACCEPTED

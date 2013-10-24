@@ -1,5 +1,4 @@
-Amphitetras oculata (Greville) De Toni SPECIES
-=======
+# Amphitetras oculata (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasnella subglobospora Hjortstam SPECIES
-=======
+# Tulasnella subglobospora Hjortstam SPECIES
 
 #### Status
 ACCEPTED

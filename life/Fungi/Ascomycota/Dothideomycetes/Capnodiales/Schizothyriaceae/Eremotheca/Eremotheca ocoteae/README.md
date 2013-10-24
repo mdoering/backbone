@@ -1,5 +1,4 @@
-Eremotheca ocoteae Bat. & Peres SPECIES
-=======
+# Eremotheca ocoteae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

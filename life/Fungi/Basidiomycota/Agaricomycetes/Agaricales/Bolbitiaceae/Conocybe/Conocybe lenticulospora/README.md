@@ -1,5 +1,4 @@
-Conocybe lenticulospora Watling, 1980 SPECIES
-=======
+# Conocybe lenticulospora Watling, 1980 SPECIES
 
 #### Status
 ACCEPTED

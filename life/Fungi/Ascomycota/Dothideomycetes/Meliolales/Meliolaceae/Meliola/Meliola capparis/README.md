@@ -1,5 +1,4 @@
-Meliola capparis (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola capparis (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

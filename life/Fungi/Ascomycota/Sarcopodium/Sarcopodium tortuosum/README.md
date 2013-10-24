@@ -1,5 +1,4 @@
-Sarcopodium tortuosum (Wallr.) S. Hughes, 1958 SPECIES
-=======
+# Sarcopodium tortuosum (Wallr.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

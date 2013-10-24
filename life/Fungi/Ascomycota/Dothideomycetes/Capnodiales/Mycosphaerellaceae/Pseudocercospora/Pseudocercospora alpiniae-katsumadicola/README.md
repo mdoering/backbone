@@ -1,14 +1,13 @@
-Pseudocercospora alpiniae-katsumadaicola (S.Q. Chen & P.K. Chi) P.K. Chi SPECIES
-=======
+# Pseudocercospora alpiniae-katsumadicola (S.Q. Chen & P.K. Chi) P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+[Fungal Diseases of Cultivated Medicinal Plants in Guangdong Province] (Guangdong) 159 (1994)
 
 #### Original name
 Cercospora alpiniae-katsumadicola S.Q. Chen & P.K. Chi

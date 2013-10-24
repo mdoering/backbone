@@ -1,5 +1,4 @@
-Wallodinium Loeblich, Jr. & Loeblich, Iii GENUS
-=======
+# Wallodinium Loeblich, Jr. & Loeblich, Iii GENUS
 
 #### Status
 ACCEPTED

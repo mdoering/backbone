@@ -1,5 +1,4 @@
-Meliola amerimni (F. Stevens) Hansf. SPECIES
-=======
+# Meliola amerimni (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

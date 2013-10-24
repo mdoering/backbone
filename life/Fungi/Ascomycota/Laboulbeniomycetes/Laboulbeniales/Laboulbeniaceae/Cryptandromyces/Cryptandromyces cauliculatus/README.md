@@ -1,5 +1,4 @@
-Cryptandromyces cauliculatus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Cryptandromyces cauliculatus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis wettsteinii Höhn. SPECIES
-=======
+# Micropeltis wettsteinii Höhn. SPECIES
 
 #### Status
 ACCEPTED

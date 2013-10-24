@@ -1,5 +1,4 @@
-Pucciniastrum filicum Dietel SPECIES
-=======
+# Pucciniastrum filicum Dietel SPECIES
 
 #### Status
 ACCEPTED

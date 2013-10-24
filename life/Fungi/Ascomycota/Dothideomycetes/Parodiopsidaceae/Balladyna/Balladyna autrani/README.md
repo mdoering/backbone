@@ -1,5 +1,4 @@
-Balladyna autrani (Henn.) Arx SPECIES
-=======
+# Balladyna autrani (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

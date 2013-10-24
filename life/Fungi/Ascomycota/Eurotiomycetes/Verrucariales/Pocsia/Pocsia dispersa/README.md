@@ -1,5 +1,4 @@
-Pocsia dispersa Vezda SPECIES
-=======
+# Pocsia dispersa Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrothecium polytriadis Toro SPECIES
-=======
+# Acrothecium polytriadis Toro SPECIES
 
 #### Status
 ACCEPTED

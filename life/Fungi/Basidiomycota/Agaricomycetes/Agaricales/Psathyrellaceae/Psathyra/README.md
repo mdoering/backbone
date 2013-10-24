@@ -1,5 +1,4 @@
-Psathyra Spreng. GENUS
-=======
+# Psathyra Spreng. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza laurocerasi Gutner SPECIES
-=======
+# Pseudopeziza laurocerasi Gutner SPECIES
 
 #### Status
 ACCEPTED

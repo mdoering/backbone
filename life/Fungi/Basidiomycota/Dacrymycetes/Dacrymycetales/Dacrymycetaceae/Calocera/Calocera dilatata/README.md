@@ -1,5 +1,4 @@
-Calocera dilatata (Mont.) Sacc. SPECIES
-=======
+# Calocera dilatata (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

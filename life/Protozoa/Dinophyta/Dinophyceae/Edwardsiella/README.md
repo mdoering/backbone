@@ -1,5 +1,4 @@
-Edwardsiella Versteegh & Zevenboom, 1995 GENUS
-=======
+# Edwardsiella Versteegh & Zevenboom, 1995 GENUS
 
 #### Status
 ACCEPTED

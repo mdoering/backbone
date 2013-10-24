@@ -1,5 +1,4 @@
-Inocybe xantholeuca Kuyper SPECIES
-=======
+# Inocybe xantholeuca Kuyper SPECIES
 
 #### Status
 ACCEPTED

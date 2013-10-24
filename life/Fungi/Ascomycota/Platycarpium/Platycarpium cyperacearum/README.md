@@ -1,5 +1,4 @@
-Platycarpium cyperacearum Wehm. SPECIES
-=======
+# Platycarpium cyperacearum Wehm. SPECIES
 
 #### Status
 ACCEPTED

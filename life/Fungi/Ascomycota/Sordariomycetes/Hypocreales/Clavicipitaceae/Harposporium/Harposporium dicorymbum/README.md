@@ -1,5 +1,4 @@
-Harposporium dicorymbum Drechsler SPECIES
-=======
+# Harposporium dicorymbum Drechsler SPECIES
 
 #### Status
 ACCEPTED

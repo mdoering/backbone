@@ -1,5 +1,4 @@
-Passalora miliusae U. Braun & Crous SPECIES
-=======
+# Passalora miliusae U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

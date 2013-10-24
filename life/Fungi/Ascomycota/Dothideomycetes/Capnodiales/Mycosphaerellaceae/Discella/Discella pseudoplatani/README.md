@@ -1,8 +1,7 @@
-Discella pseudoplatanii Oudem. SPECIES
-=======
+# Discella pseudoplatani Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Discella pseudoplatanii Oudem.
+Discella pseudoplatani Oudem.
 
 ### Remarks
 null

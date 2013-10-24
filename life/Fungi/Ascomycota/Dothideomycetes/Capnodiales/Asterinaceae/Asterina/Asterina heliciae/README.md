@@ -1,5 +1,4 @@
-Asterina heliciae W. Yamam. SPECIES
-=======
+# Asterina heliciae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

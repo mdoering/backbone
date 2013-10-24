@@ -1,5 +1,4 @@
-Hydnum suave Bres. SPECIES
-=======
+# Hydnum suave Bres. SPECIES
 
 #### Status
 ACCEPTED

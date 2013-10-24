@@ -1,5 +1,4 @@
-Xyloidium delavignii Czern. SPECIES
-=======
+# Xyloidium delavignii Czern. SPECIES
 
 #### Status
 ACCEPTED

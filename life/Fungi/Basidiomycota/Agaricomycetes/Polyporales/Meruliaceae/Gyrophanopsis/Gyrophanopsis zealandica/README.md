@@ -1,14 +1,13 @@
-Pellicularia zealandica G. Cunn., 1953 SPECIES
-=======
+# Gyrophanopsis zealandica (G. Cunn.) Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 81: 322 (1953)
+Persoonia 10(3): 329 (1979)
 
 #### Original name
 Pellicularia zealandica G. Cunn., 1953

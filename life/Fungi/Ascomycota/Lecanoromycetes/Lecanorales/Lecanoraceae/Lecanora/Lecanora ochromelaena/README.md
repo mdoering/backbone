@@ -1,5 +1,4 @@
-Lecanora ochromelaena Zahlbr. SPECIES
-=======
+# Lecanora ochromelaena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

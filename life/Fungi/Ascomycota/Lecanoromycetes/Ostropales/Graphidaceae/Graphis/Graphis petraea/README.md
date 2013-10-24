@@ -1,5 +1,4 @@
-Graphis petraea Nyl. SPECIES
-=======
+# Graphis petraea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia iridis (Cooke) Berl. & Voglino SPECIES
-=======
+# Laestadia iridis (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

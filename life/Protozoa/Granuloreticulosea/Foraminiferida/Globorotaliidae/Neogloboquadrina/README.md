@@ -1,5 +1,4 @@
-Neogloboquadrina Bandy, Frerichs & Vincent, 1967 GENUS
-=======
+# Neogloboquadrina Bandy, Frerichs & Vincent, 1967 GENUS
 
 #### Status
 ACCEPTED

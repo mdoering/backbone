@@ -1,5 +1,4 @@
-Psoroma campbellianum (Hue) Zahlbr. SPECIES
-=======
+# Psoroma campbellianum (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

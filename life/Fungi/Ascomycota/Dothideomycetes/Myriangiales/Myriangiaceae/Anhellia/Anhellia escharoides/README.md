@@ -1,5 +1,4 @@
-Anhellia escharoides (Syd.) Arx SPECIES
-=======
+# Anhellia escharoides (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetothyrina amadelpha Syd. SPECIES
-=======
+# Chaetothyrina amadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

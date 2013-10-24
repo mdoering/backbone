@@ -1,5 +1,4 @@
-Trachelomonas pascheri Koczwara SPECIES
-=======
+# Trachelomonas pascheri Koczwara SPECIES
 
 #### Status
 ACCEPTED

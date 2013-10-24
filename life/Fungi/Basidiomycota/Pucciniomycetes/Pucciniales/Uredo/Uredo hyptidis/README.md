@@ -1,5 +1,4 @@
-Uredo hyptidis Henn. SPECIES
-=======
+# Uredo hyptidis Henn. SPECIES
 
 #### Status
 ACCEPTED

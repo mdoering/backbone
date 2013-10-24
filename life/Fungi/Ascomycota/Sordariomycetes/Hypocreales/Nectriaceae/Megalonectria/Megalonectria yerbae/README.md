@@ -1,5 +1,4 @@
-Megalonectria yerbae Speg. SPECIES
-=======
+# Megalonectria yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

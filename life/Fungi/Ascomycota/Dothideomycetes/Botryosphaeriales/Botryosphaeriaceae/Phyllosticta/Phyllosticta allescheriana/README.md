@@ -1,5 +1,4 @@
-Phyllosticta allescheriana Elenkin & Ohl SPECIES
-=======
+# Phyllosticta allescheriana Elenkin & Ohl SPECIES
 
 #### Status
 ACCEPTED

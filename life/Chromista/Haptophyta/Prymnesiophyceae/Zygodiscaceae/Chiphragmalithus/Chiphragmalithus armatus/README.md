@@ -1,5 +1,4 @@
-Chiphragmalithus armatus Perch-Nielsen, 1971 SPECIES
-=======
+# Chiphragmalithus armatus Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

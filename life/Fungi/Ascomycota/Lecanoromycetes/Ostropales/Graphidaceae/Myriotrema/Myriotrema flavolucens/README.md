@@ -1,5 +1,4 @@
-Myriotrema flavolucens Sipman SPECIES
-=======
+# Myriotrema flavolucens Sipman SPECIES
 
 #### Status
 ACCEPTED

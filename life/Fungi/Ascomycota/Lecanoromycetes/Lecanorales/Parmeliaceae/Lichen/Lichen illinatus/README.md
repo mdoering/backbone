@@ -1,5 +1,4 @@
-Lichen illinatus SPECIES
-=======
+# Lichen illinatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus obclavaticystidiatus Bogart SPECIES
-=======
+# Coprinus obclavaticystidiatus Bogart SPECIES
 
 #### Status
 ACCEPTED

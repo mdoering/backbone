@@ -1,5 +1,4 @@
-Crepidotus palmarum Singer SPECIES
-=======
+# Crepidotus palmarum Singer SPECIES
 
 #### Status
 ACCEPTED

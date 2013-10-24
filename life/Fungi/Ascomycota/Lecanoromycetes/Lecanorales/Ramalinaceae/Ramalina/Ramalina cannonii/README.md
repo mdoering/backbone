@@ -1,5 +1,4 @@
-Ramalina cannonii Elix, Laily & Samsuddin SPECIES
-=======
+# Ramalina cannonii Elix, Laily & Samsuddin SPECIES
 
 #### Status
 ACCEPTED

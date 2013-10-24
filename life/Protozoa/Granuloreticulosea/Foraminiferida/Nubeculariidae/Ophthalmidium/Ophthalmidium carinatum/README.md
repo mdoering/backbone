@@ -1,5 +1,4 @@
-Ophthalmidium carinatum Kubler & Zwingli SPECIES
-=======
+# Ophthalmidium carinatum Kubler & Zwingli SPECIES
 
 #### Status
 ACCEPTED

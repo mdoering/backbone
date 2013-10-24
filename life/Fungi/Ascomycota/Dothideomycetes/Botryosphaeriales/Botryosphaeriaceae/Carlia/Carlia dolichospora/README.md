@@ -1,5 +1,4 @@
-Carlia dolichospora (Sacc. & Fautrey) Höhn. SPECIES
-=======
+# Carlia dolichospora (Sacc. & Fautrey) Höhn. SPECIES
 
 #### Status
 ACCEPTED

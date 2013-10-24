@@ -1,5 +1,4 @@
-Hydnum phaeodon Lév. SPECIES
-=======
+# Hydnum phaeodon Lév. SPECIES
 
 #### Status
 ACCEPTED

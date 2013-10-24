@@ -1,5 +1,4 @@
-Amphoroblastia gotlandica Servít SPECIES
-=======
+# Amphoroblastia gotlandica Servít SPECIES
 
 #### Status
 ACCEPTED

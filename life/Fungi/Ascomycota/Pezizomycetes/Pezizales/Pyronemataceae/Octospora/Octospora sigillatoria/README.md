@@ -1,5 +1,4 @@
-Octospora sigillatoria (Batsch) Timm SPECIES
-=======
+# Octospora sigillatoria (Batsch) Timm SPECIES
 
 #### Status
 ACCEPTED

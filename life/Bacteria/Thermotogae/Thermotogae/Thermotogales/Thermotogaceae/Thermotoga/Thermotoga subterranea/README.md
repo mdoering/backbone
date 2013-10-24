@@ -1,5 +1,4 @@
-Thermotoga subterranea Jeanthon et al., 2000 SPECIES
-=======
+# Thermotoga subterranea Jeanthon et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

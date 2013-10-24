@@ -1,5 +1,4 @@
-Didymella caricis Syd., 1921 SPECIES
-=======
+# Didymella caricis Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

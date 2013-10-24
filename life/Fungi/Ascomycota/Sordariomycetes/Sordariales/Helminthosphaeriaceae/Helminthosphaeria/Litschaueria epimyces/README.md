@@ -1,5 +1,4 @@
-Litschaueria epimyces Malençon & Bertault SPECIES
-=======
+# Litschaueria epimyces Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

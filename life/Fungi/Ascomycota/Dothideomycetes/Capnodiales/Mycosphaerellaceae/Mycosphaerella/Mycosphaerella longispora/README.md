@@ -1,5 +1,4 @@
-Mycosphaerella longispora (Penz. & Sacc.) Miles SPECIES
-=======
+# Mycosphaerella longispora (Penz. & Sacc.) Miles SPECIES
 
 #### Status
 ACCEPTED

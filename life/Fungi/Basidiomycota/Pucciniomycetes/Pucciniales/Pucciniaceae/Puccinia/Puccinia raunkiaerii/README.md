@@ -1,5 +1,4 @@
-Puccinia raunkiaerii Ferd. & Winge SPECIES
-=======
+# Puccinia raunkiaerii Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozella achlyae Shanor SPECIES
-=======
+# Rozella achlyae Shanor SPECIES
 
 #### Status
 ACCEPTED

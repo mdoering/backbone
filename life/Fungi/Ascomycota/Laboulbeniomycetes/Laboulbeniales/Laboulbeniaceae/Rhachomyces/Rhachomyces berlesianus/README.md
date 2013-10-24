@@ -1,5 +1,4 @@
-Rhachomyces berlesianus Bacc. SPECIES
-=======
+# Rhachomyces berlesianus Bacc. SPECIES
 
 #### Status
 ACCEPTED

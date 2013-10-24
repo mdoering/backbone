@@ -1,5 +1,4 @@
-Lophiotrema hungaricum Rehm SPECIES
-=======
+# Lophiotrema hungaricum Rehm SPECIES
 
 #### Status
 ACCEPTED

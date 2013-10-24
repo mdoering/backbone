@@ -1,5 +1,4 @@
-Cylindrophora pulvinata anon. SPECIES
-=======
+# Cylindrophora pulvinata anon. SPECIES
 
 #### Status
 ACCEPTED

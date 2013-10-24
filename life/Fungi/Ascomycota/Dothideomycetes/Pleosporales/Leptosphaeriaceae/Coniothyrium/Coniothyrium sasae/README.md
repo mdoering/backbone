@@ -1,5 +1,4 @@
-Coniothyrium sasae Syd. SPECIES
-=======
+# Coniothyrium sasae Syd. SPECIES
 
 #### Status
 ACCEPTED

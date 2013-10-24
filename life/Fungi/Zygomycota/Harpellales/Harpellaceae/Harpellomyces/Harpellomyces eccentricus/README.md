@@ -1,5 +1,4 @@
-Harpellomyces eccentricus Lichtw. & S.T. Moss, 1984 SPECIES
-=======
+# Harpellomyces eccentricus Lichtw. & S.T. Moss, 1984 SPECIES
 
 #### Status
 ACCEPTED

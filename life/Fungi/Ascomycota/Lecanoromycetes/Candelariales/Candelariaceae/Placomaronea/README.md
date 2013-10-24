@@ -1,5 +1,4 @@
-Placomaronea Räsänen GENUS
-=======
+# Placomaronea Räsänen GENUS
 
 #### Status
 ACCEPTED

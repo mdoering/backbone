@@ -1,5 +1,4 @@
-Cladophialophora emmonsii (A.A. Padhye, McGinnis & Ajello) de Hoog & A.A. Padhye SPECIES
-=======
+# Cladophialophora emmonsii (A.A. Padhye, McGinnis & Ajello) de Hoog & A.A. Padhye SPECIES
 
 #### Status
 ACCEPTED

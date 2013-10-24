@@ -1,5 +1,4 @@
-Puccinia troximontis Peck SPECIES
-=======
+# Puccinia troximontis Peck SPECIES
 
 #### Status
 ACCEPTED

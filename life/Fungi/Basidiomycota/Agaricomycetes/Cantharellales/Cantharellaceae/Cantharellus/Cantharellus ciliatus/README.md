@@ -1,5 +1,4 @@
-Cantharellus ciliatus Corner SPECIES
-=======
+# Cantharellus ciliatus Corner SPECIES
 
 #### Status
 ACCEPTED

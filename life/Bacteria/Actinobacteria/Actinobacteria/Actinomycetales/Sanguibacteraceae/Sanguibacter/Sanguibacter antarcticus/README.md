@@ -1,5 +1,4 @@
-Sanguibacter antarcticus Hong, Lee, Yim, Chun & Lee, 2008 SPECIES
-=======
+# Sanguibacter antarcticus Hong, Lee, Yim, Chun & Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

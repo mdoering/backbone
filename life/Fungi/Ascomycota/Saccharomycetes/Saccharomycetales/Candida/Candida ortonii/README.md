@@ -1,5 +1,4 @@
-Candida ortonii Lachance SPECIES
-=======
+# Candida ortonii Lachance SPECIES
 
 #### Status
 ACCEPTED

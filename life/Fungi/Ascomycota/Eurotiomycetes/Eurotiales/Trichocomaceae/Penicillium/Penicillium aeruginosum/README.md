@@ -1,5 +1,4 @@
-Penicillium aeruginosum Dierckx SPECIES
-=======
+# Penicillium aeruginosum Dierckx SPECIES
 
 #### Status
 ACCEPTED

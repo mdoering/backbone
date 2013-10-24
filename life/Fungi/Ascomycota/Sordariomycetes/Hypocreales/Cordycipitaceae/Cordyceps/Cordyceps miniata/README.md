@@ -1,5 +1,4 @@
-Cordyceps miniata Moureau SPECIES
-=======
+# Cordyceps miniata Moureau SPECIES
 
 #### Status
 ACCEPTED

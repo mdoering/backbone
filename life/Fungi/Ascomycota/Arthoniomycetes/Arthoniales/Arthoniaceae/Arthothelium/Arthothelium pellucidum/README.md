@@ -1,5 +1,4 @@
-Arthothelium pellucidum (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthothelium pellucidum (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

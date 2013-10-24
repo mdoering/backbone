@@ -1,5 +1,4 @@
-Homostegia derridis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Homostegia derridis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

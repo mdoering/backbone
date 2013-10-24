@@ -1,5 +1,4 @@
-Pseudobutyrivibrio ruminis van Gylswyk et al., 1996 SPECIES
-=======
+# Pseudobutyrivibrio ruminis van Gylswyk et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

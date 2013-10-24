@@ -1,5 +1,4 @@
-Cochlosoma A.Kotlan, 1923 GENUS
-=======
+# Cochlosoma A.Kotlan, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma dendriticum Desm. SPECIES
-=======
+# Asteroma dendriticum Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barlaea orichalcea (Cooke) Sacc. SPECIES
-=======
+# Barlaea orichalcea (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

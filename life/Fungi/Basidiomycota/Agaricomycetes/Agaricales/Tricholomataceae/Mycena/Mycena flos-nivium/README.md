@@ -1,5 +1,4 @@
-Mycena flos-nivium Kühner, 1952 SPECIES
-=======
+# Mycena flos-nivium Kühner, 1952 SPECIES
 
 #### Status
 ACCEPTED

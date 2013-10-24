@@ -1,5 +1,4 @@
-Spirillina Ehrenberg, 1843 GENUS
-=======
+# Spirillina Ehrenberg, 1843 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xeromedulla quercicola W.Y. Zhuang & Korf SPECIES
-=======
+# Xeromedulla quercicola W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

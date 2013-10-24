@@ -1,5 +1,4 @@
-Arthrochrysis Pascher, 1942 GENUS
-=======
+# Arthrochrysis Pascher, 1942 GENUS
 
 #### Status
 ACCEPTED

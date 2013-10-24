@@ -1,5 +1,4 @@
-Uromyces veratri (DC.) J. Schröt. SPECIES
-=======
+# Uromyces veratri (DC.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

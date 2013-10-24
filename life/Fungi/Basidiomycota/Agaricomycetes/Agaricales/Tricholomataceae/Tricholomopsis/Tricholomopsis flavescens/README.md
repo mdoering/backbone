@@ -1,5 +1,4 @@
-Tricholomopsis flavescens (Peck) Singer SPECIES
-=======
+# Tricholomopsis flavescens (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

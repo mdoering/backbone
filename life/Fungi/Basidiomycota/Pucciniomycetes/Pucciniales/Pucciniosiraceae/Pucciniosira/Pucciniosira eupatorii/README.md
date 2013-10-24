@@ -1,5 +1,4 @@
-Pucciniosira eupatorii Lagerh., 1918 SPECIES
-=======
+# Pucciniosira eupatorii Lagerh., 1918 SPECIES
 
 #### Status
 ACCEPTED

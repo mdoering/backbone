@@ -1,5 +1,4 @@
-Seynesia pulchella E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Seynesia pulchella E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

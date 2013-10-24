@@ -1,5 +1,4 @@
-Manikinipollis Krutzsch GENUS
-=======
+# Manikinipollis Krutzsch GENUS
 
 #### Status
 ACCEPTED

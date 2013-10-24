@@ -1,5 +1,4 @@
-Spirogramma boergesenii Ferd. & Winge SPECIES
-=======
+# Spirogramma boergesenii Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia sagenidii Vezda & Kantvilas SPECIES
-=======
+# Arthonia sagenidii Vezda & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

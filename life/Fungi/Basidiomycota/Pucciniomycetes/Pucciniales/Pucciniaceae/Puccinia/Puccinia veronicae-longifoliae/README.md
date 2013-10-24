@@ -1,17 +1,16 @@
-Puccinia veronicae f. sp FORM
-=======
+# Puccinia veronicae-longifoliae Savile, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(1): 42 (1941)
+Can. J. Bot. 46: 635 (1968)
 
 #### Original name
-Puccinia veronicae f. sp
+Puccinia veronicae-longifoliae Savile, 1968
 
 ### Remarks
 null

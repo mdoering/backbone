@@ -1,5 +1,4 @@
-Lactarius maruiaensis McNabb, 1971 SPECIES
-=======
+# Lactarius maruiaensis McNabb, 1971 SPECIES
 
 #### Status
 ACCEPTED

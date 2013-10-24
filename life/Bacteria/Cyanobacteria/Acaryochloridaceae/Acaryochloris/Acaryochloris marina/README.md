@@ -1,5 +1,4 @@
-Acaryochloris marina Miyashita & Chihara, 2003 SPECIES
-=======
+# Acaryochloris marina Miyashita & Chihara, 2003 SPECIES
 
 #### Status
 ACCEPTED

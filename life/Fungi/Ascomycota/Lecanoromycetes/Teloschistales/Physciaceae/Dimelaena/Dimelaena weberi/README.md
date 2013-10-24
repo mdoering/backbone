@@ -1,5 +1,4 @@
-Dimelaena weberi Sheard SPECIES
-=======
+# Dimelaena weberi Sheard SPECIES
 
 #### Status
 ACCEPTED

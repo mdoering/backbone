@@ -1,5 +1,4 @@
-Septoria rectae H.C. Greene SPECIES
-=======
+# Septoria rectae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

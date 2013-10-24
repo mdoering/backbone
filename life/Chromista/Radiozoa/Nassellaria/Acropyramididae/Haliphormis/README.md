@@ -1,5 +1,4 @@
-Haliphormis Haeckel, 1887 GENUS
-=======
+# Haliphormis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

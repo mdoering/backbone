@@ -1,5 +1,4 @@
-Tremellogaster surinamensis E. Fisch., 1924 SPECIES
-=======
+# Tremellogaster surinamensis E. Fisch., 1924 SPECIES
 
 #### Status
 ACCEPTED

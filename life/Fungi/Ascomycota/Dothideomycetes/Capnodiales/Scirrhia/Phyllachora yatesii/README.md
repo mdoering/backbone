@@ -1,5 +1,4 @@
-Phyllachora yatesii E. Castell. & Cif., 1937 SPECIES
-=======
+# Phyllachora yatesii E. Castell. & Cif., 1937 SPECIES
 
 #### Status
 DOUBTFUL

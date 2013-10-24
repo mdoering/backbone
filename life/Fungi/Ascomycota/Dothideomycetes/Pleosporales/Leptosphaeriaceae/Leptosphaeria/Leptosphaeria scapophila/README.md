@@ -1,5 +1,4 @@
-Leptosphaeria scapophila (Peck) Sacc. SPECIES
-=======
+# Leptosphaeria scapophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

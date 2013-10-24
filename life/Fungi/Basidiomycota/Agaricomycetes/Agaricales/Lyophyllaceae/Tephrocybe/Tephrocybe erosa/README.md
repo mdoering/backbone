@@ -1,5 +1,4 @@
-Tephrocybe erosa (Fr.) Bon SPECIES
-=======
+# Tephrocybe erosa (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

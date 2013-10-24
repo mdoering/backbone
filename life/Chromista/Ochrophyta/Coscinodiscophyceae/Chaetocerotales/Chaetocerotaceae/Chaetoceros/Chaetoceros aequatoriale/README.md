@@ -1,5 +1,4 @@
-Chaetoceros aequatoriale Cleve SPECIES
-=======
+# Chaetoceros aequatoriale Cleve SPECIES
 
 #### Status
 ACCEPTED

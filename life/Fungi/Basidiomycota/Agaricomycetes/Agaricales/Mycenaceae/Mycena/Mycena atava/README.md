@@ -1,5 +1,4 @@
-Mycena atava Velen. SPECIES
-=======
+# Mycena atava Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coenogonium madagascarense SPECIES
-=======
+# Coenogonium madagascarense SPECIES
 
 #### Status
 ACCEPTED

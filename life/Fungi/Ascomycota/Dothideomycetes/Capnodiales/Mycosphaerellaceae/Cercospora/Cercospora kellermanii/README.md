@@ -1,17 +1,16 @@
-Cercospora kellermani Bubák SPECIES
-=======
+# Cercospora kellermanii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 9: 3 (1903)
 
 #### Original name
-Cercospora kellermani Bubák
+Cercospora kellermanii Bubák
 
 ### Remarks
 null

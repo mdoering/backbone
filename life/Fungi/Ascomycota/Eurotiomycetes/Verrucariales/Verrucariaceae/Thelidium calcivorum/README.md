@@ -1,5 +1,4 @@
-Thelidium calcivorum (Nyl.) Hulting SPECIES
-=======
+# Thelidium calcivorum (Nyl.) Hulting SPECIES
 
 #### Status
 ACCEPTED

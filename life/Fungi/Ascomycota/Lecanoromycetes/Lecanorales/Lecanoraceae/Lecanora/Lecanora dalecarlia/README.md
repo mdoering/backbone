@@ -1,5 +1,4 @@
-Lecanora dalecarlia SPECIES
-=======
+# Lecanora dalecarlia SPECIES
 
 #### Status
 ACCEPTED

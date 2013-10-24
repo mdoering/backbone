@@ -1,5 +1,4 @@
-Echidnodes harunganae Hansf. SPECIES
-=======
+# Echidnodes harunganae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thoracosphaera sinensis Zhong, 1982 SPECIES
-=======
+# Thoracosphaera sinensis Zhong, 1982 SPECIES
 
 #### Status
 ACCEPTED

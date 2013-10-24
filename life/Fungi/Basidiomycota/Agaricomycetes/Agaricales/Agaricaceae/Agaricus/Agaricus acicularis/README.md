@@ -1,5 +1,4 @@
-Agaricus acicularis Hoffm. SPECIES
-=======
+# Agaricus acicularis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

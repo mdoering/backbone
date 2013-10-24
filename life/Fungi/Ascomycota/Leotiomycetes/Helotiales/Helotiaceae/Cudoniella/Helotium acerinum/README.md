@@ -1,5 +1,4 @@
-Helotium acerinum Velen. SPECIES
-=======
+# Helotium acerinum Velen. SPECIES
 
 #### Status
 ACCEPTED

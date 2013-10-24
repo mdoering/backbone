@@ -1,5 +1,4 @@
-Clavaria virgata Fr. SPECIES
-=======
+# Clavaria virgata Fr. SPECIES
 
 #### Status
 ACCEPTED

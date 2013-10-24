@@ -1,5 +1,4 @@
-Collema oblique-peltatum Eschw. SPECIES
-=======
+# Collema oblique-peltatum Eschw. SPECIES
 
 #### Status
 ACCEPTED

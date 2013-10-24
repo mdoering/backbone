@@ -1,5 +1,4 @@
-Midotis verruculosa Berk. & M.A. Curtis SPECIES
-=======
+# Midotis verruculosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

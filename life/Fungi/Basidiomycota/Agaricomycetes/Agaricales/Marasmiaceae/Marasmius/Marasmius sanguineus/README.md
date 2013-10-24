@@ -1,5 +1,4 @@
-Marasmius sanguineus Cooke & Massee SPECIES
-=======
+# Marasmius sanguineus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

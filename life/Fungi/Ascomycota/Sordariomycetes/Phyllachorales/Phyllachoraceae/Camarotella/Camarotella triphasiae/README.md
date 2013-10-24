@@ -1,5 +1,4 @@
-Camarotella triphasiae Syd., 1925 SPECIES
-=======
+# Camarotella triphasiae Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

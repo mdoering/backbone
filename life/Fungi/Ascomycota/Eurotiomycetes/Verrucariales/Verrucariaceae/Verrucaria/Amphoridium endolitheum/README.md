@@ -1,5 +1,4 @@
-Amphoridium endolitheum (Zschacke) Servít SPECIES
-=======
+# Amphoridium endolitheum (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Laboulbenia muscae Peyr., 1871 SPECIES
-=======
+# Stigmatomyces muscae (Peyr.) H. Karst., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Chemismus Pfl. -Zelle (1869)
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Sistotrema cinereum var. cinereum VARIETY
-=======
+# Sistotrema cinereum Sw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+K. Vetensk-Acad. Nya Handl. 31: 240 (1810)
 
 #### Original name
-null
+Sistotrema cinereum Sw.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phacidium pumilum Desm. SPECIES
-=======
+# Phacidium pumilum Desm. SPECIES
 
 #### Status
 ACCEPTED

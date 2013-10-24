@@ -1,14 +1,13 @@
-Isthomolithus GENUS
-=======
+# Isthmolithus G. Deflandre, 1954 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Annls Paléont. 40: 169.
 
 #### Original name
 null

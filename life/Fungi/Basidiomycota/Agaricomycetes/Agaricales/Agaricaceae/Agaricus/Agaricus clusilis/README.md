@@ -1,5 +1,4 @@
-Agaricus clusilis Fr. SPECIES
-=======
+# Agaricus clusilis Fr. SPECIES
 
 #### Status
 ACCEPTED

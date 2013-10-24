@@ -1,5 +1,4 @@
-Mazosia ocellata (Nyl.) R.C. Harris SPECIES
-=======
+# Mazosia ocellata (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

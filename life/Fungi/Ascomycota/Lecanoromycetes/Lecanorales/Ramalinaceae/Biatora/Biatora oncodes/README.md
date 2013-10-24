@@ -1,5 +1,4 @@
-Biatora oncodes Tuck. SPECIES
-=======
+# Biatora oncodes Tuck. SPECIES
 
 #### Status
 ACCEPTED

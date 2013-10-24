@@ -1,17 +1,16 @@
-Ditrema De Saedeleer, 1934 GENUS
-=======
+# Pseudoditrema Deflandre in Grassé, 1953 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+in Grassé, Traité de Zool. , Paris, 1 (2), 143.
 
 #### Original name
-null
+Ditrema De Saedeleer, 1934
 
 ### Remarks
 null

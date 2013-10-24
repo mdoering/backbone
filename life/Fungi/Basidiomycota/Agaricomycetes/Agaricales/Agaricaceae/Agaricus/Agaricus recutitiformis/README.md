@@ -1,5 +1,4 @@
-Agaricus recutitiformis Britzelm. SPECIES
-=======
+# Agaricus recutitiformis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

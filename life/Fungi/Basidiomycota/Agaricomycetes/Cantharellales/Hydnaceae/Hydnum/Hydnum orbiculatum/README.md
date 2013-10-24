@@ -1,5 +1,4 @@
-Hydnum orbiculatum P. Micheli ex Pers. SPECIES
-=======
+# Hydnum orbiculatum P. Micheli ex Pers. SPECIES
 
 #### Status
 ACCEPTED

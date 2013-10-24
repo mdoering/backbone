@@ -1,5 +1,4 @@
-Ramalina subwebbiana (Nyl.) Hue SPECIES
-=======
+# Ramalina subwebbiana (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

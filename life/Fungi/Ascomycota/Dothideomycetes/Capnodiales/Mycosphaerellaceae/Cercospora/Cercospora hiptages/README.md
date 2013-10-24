@@ -1,5 +1,4 @@
-Cercospora hiptages Petch SPECIES
-=======
+# Cercospora hiptages Petch SPECIES
 
 #### Status
 ACCEPTED

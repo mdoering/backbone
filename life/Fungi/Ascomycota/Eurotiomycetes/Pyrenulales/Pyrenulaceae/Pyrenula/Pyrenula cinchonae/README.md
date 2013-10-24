@@ -1,5 +1,4 @@
-Pyrenula cinchonae Fée SPECIES
-=======
+# Pyrenula cinchonae Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Geaster subiculosum Lloyd SPECIES
-=======
+# Geastrum subiculosum Cooke & Massee, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 15(no. 76): 97 (1887)
 
 #### Original name
-Geaster subiculosum Lloyd
+Geastrum subiculosum Cooke & Massee, 1887
 
 ### Remarks
 null

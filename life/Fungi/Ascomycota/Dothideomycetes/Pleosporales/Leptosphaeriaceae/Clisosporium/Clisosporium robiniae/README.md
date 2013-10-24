@@ -1,5 +1,4 @@
-Clisosporium robiniae (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium robiniae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johansonia amadelpha (Syd.) Arx, 1962 SPECIES
-=======
+# Johansonia amadelpha (Syd.) Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophidium subcompressum (P. Karst.) Sacc. SPECIES
-=======
+# Lophidium subcompressum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

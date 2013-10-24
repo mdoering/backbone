@@ -1,5 +1,4 @@
-Aphanopeltis aequatoriensis Syd. SPECIES
-=======
+# Aphanopeltis aequatoriensis Syd. SPECIES
 
 #### Status
 ACCEPTED

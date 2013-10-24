@@ -1,8 +1,7 @@
-Gonyaulax peruviana Balech & Mendiola SPECIES
-=======
+# Alexandrium peruvianum (Balech & Mendiola) Balech & Tangen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

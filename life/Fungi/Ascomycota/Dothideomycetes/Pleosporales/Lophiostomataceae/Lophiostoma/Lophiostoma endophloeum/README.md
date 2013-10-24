@@ -1,5 +1,4 @@
-Lophiostoma endophloeum Pass. SPECIES
-=======
+# Lophiostoma endophloeum Pass. SPECIES
 
 #### Status
 ACCEPTED

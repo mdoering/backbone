@@ -1,5 +1,4 @@
-Russula crocea Pers. SPECIES
-=======
+# Russula crocea Pers. SPECIES
 
 #### Status
 ACCEPTED

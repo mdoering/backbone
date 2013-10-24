@@ -1,5 +1,4 @@
-Buellia tenayucae B. de Lesd. SPECIES
-=======
+# Buellia tenayucae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cytidiella albomellea (Bondartsev) Parmasto, 1968 SPECIES
-=======
+# Auriculariopsis albomellea (Bondartsev) Kotl., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. System. Corticiac. (Tartu) 101 (1968)
+Ceská Mykol. 42(4): 239 (1988)
 
 #### Original name
 Cytidia albomellea Bondartsev, 1927

@@ -1,5 +1,4 @@
-Sphaeria exercitalis Peck SPECIES
-=======
+# Sphaeria exercitalis Peck SPECIES
 
 #### Status
 ACCEPTED

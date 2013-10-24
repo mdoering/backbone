@@ -1,5 +1,4 @@
-Guepinia fissa Berk. SPECIES
-=======
+# Guepinia fissa Berk. SPECIES
 
 #### Status
 ACCEPTED

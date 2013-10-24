@@ -1,5 +1,4 @@
-Encoelia salicella (Höhn.) Petr. SPECIES
-=======
+# Encoelia salicella (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

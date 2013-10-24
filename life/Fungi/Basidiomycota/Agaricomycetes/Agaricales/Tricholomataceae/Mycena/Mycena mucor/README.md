@@ -1,5 +1,4 @@
-Mycena mucor (Batsch Fr.) Gillet SPECIES
-=======
+# Mycena mucor (Batsch Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

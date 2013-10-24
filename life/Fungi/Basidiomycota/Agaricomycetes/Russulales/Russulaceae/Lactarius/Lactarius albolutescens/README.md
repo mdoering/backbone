@@ -1,5 +1,4 @@
-Lactarius albolutescens Thiers SPECIES
-=======
+# Lactarius albolutescens Thiers SPECIES
 
 #### Status
 ACCEPTED

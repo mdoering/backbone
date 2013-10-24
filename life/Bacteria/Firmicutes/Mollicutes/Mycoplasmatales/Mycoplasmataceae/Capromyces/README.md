@@ -1,5 +1,4 @@
-Capromyces GENUS
-=======
+# Capromyces GENUS
 
 #### Status
 ACCEPTED

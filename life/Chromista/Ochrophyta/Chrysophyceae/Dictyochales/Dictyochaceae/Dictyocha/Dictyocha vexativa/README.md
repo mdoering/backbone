@@ -1,5 +1,4 @@
-Dictyocha vexativa D. Bukry SPECIES
-=======
+# Dictyocha vexativa D. Bukry SPECIES
 
 #### Status
 ACCEPTED

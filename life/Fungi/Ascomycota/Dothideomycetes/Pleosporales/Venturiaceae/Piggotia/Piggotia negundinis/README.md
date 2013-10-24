@@ -1,5 +1,4 @@
-Piggotia negundinis Ellis & Dearn. SPECIES
-=======
+# Piggotia negundinis Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

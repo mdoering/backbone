@@ -1,5 +1,4 @@
-Galerina megalocystis A.H. Sm. & Singer SPECIES
-=======
+# Galerina megalocystis A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

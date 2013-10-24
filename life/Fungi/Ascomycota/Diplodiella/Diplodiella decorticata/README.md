@@ -1,5 +1,4 @@
-Diplodiella decorticata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Diplodiella decorticata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

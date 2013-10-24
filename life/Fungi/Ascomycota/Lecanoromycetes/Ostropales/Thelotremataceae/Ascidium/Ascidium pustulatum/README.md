@@ -1,5 +1,4 @@
-Ascidium pustulatum Leight. SPECIES
-=======
+# Ascidium pustulatum Leight. SPECIES
 
 #### Status
 ACCEPTED

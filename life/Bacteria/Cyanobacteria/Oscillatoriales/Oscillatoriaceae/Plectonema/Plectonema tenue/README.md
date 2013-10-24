@@ -1,5 +1,4 @@
-Plectonema tenue Thuret SPECIES
-=======
+# Plectonema tenue Thuret SPECIES
 
 #### Status
 ACCEPTED

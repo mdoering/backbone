@@ -1,5 +1,4 @@
-Dimerium radiofissile Sacc. SPECIES
-=======
+# Dimerium radiofissile Sacc. SPECIES
 
 #### Status
 ACCEPTED

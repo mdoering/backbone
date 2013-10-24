@@ -1,5 +1,4 @@
-Menegazzia weindorferi (Zahlbr.) R. Sant. SPECIES
-=======
+# Menegazzia weindorferi (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

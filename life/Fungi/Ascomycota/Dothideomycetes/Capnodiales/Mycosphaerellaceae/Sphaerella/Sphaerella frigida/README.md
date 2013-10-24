@@ -1,5 +1,4 @@
-Sphaerella frigida Ellis & Everh. SPECIES
-=======
+# Sphaerella frigida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

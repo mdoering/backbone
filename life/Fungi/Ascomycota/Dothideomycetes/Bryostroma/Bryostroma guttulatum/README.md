@@ -1,5 +1,4 @@
-Bryostroma guttulatum Döbbeler & Poelt, 1978 SPECIES
-=======
+# Bryostroma guttulatum Döbbeler & Poelt, 1978 SPECIES
 
 #### Status
 ACCEPTED

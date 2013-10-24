@@ -1,5 +1,4 @@
-Heppsora bullata (Müll. Arg.) Lumbsch & Mies SPECIES
-=======
+# Heppsora bullata (Müll. Arg.) Lumbsch & Mies SPECIES
 
 #### Status
 ACCEPTED

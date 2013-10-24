@@ -1,5 +1,4 @@
-Sepedonium thelosporum Sacc. & Marchal SPECIES
-=======
+# Sepedonium thelosporum Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

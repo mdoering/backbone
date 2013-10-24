@@ -1,5 +1,4 @@
-Geniculodendron G.A. Salt GENUS
-=======
+# Geniculodendron G.A. Salt GENUS
 
 #### Status
 ACCEPTED

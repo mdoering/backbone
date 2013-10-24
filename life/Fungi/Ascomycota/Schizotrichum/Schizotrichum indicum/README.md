@@ -1,5 +1,4 @@
-Schizotrichum indicum Agnihothr. SPECIES
-=======
+# Schizotrichum indicum Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

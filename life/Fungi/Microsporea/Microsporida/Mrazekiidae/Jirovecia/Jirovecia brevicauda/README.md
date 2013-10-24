@@ -1,5 +1,4 @@
-Jirovecia brevicauda (Léger & Hesse) J. Weiser SPECIES
-=======
+# Jirovecia brevicauda (Léger & Hesse) J. Weiser SPECIES
 
 #### Status
 ACCEPTED

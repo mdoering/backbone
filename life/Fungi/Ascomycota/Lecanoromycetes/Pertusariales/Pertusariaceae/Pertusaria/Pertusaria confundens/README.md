@@ -1,5 +1,4 @@
-Pertusaria confundens Nyl. SPECIES
-=======
+# Pertusaria confundens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza helvellula Durieu & Mont. SPECIES
-=======
+# Peziza helvellula Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

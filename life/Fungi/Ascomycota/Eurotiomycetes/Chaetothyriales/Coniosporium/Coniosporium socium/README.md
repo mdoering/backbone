@@ -1,5 +1,4 @@
-Coniosporium socium Sacc. & Roum. SPECIES
-=======
+# Coniosporium socium Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

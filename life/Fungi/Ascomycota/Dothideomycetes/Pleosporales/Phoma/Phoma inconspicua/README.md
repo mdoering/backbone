@@ -1,5 +1,4 @@
-Phoma inconspicua Speg. SPECIES
-=======
+# Phoma inconspicua Speg. SPECIES
 
 #### Status
 ACCEPTED

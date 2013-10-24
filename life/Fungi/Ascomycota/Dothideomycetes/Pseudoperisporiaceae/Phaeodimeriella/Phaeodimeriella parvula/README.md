@@ -1,5 +1,4 @@
-Phaeodimeriella parvula (Cooke) Hansf. SPECIES
-=======
+# Phaeodimeriella parvula (Cooke) Hansf. SPECIES
 
 #### Status
 ACCEPTED

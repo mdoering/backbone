@@ -1,5 +1,4 @@
-Sporisorium langdonii Vánky, 1994 SPECIES
-=======
+# Sporisorium langdonii Vánky, 1994 SPECIES
 
 #### Status
 ACCEPTED

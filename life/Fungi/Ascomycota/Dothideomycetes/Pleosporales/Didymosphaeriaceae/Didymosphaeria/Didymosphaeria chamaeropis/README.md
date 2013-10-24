@@ -1,5 +1,4 @@
-Didymosphaeria chamaeropis Bertault & Malençon SPECIES
-=======
+# Didymosphaeria chamaeropis Bertault & Malençon SPECIES
 
 #### Status
 ACCEPTED

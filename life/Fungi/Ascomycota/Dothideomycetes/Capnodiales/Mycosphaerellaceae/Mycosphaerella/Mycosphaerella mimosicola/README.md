@@ -1,5 +1,4 @@
-Mycosphaerella mimosicola Henn. SPECIES
-=======
+# Mycosphaerella mimosicola Henn. SPECIES
 
 #### Status
 ACCEPTED

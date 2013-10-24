@@ -1,5 +1,4 @@
-Thelohania legeri E. Hesse SPECIES
-=======
+# Thelohania legeri E. Hesse SPECIES
 
 #### Status
 ACCEPTED

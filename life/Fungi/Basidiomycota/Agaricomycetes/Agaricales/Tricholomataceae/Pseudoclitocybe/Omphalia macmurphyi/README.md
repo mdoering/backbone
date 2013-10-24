@@ -1,5 +1,4 @@
-Omphalia macmurphyi Murrill SPECIES
-=======
+# Omphalia macmurphyi Murrill SPECIES
 
 #### Status
 ACCEPTED

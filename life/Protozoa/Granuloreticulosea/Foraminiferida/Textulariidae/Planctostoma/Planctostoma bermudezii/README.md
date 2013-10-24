@@ -1,5 +1,4 @@
-Planctostoma bermudezii SPECIES
-=======
+# Planctostoma bermudezii SPECIES
 
 #### Status
 ACCEPTED

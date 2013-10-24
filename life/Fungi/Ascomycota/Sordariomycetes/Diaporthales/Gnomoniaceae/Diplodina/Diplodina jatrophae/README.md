@@ -1,5 +1,4 @@
-Diplodina jatrophae Henn. SPECIES
-=======
+# Diplodina jatrophae Henn. SPECIES
 
 #### Status
 ACCEPTED

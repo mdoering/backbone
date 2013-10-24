@@ -1,5 +1,4 @@
-Polyporus baurii Kalchbr. SPECIES
-=======
+# Polyporus baurii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

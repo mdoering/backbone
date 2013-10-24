@@ -1,5 +1,4 @@
-Mitremyces GENUS
-=======
+# Mitremyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria subsecreta Sowerby SPECIES
-=======
+# Sphaeria subsecreta Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene rimbachii (Pat.) F. Stevens SPECIES
-=======
+# Irene rimbachii (Pat.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

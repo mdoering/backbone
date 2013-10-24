@@ -1,5 +1,4 @@
-Tricholoma viridifucatum Bon, 1976 SPECIES
-=======
+# Tricholoma viridifucatum Bon, 1976 SPECIES
 
 #### Status
 ACCEPTED

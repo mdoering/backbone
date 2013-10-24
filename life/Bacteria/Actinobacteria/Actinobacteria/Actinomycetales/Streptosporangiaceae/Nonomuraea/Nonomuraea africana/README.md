@@ -1,5 +1,4 @@
-Nonomuraea africana (Preobrazhenskaya & Sveshnikova, 1974) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea africana (Preobrazhenskaya & Sveshnikova, 1974) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis pallescens Lücking SPECIES
-=======
+# Gyalideopsis pallescens Lücking SPECIES
 
 #### Status
 ACCEPTED

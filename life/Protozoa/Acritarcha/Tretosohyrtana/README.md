@@ -1,5 +1,4 @@
-Tretosohyrtana G.K. Colbath, 1979 GENUS
-=======
+# Tretosohyrtana G.K. Colbath, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laurobasidium Jülich GENUS
-=======
+# Laurobasidium Jülich GENUS
 
 #### Status
 ACCEPTED

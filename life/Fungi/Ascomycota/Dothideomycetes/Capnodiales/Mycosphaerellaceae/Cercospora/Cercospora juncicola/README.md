@@ -1,5 +1,4 @@
-Cercospora juncicola (Hori & Kasai) Vassiljevsky, 1937 SPECIES
-=======
+# Cercospora juncicola (Hori & Kasai) Vassiljevsky, 1937 SPECIES
 
 #### Status
 ACCEPTED

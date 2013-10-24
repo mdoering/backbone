@@ -1,5 +1,4 @@
-Psathyrella boninensis (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Psathyrella boninensis (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

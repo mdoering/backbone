@@ -1,5 +1,4 @@
-Patellaria nidulans (Stirt.) Müll. Arg. SPECIES
-=======
+# Patellaria nidulans (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

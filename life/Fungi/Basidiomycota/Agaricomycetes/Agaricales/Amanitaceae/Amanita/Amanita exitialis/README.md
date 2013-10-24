@@ -1,5 +1,4 @@
-Amanita exitialis Zhu L. Yang & T.H. Li SPECIES
-=======
+# Amanita exitialis Zhu L. Yang & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis peralbata Vain. SPECIES
-=======
+# Graphis peralbata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina mandarin SPECIES
-=======
+# Trichodina mandarin SPECIES
 
 #### Status
 ACCEPTED

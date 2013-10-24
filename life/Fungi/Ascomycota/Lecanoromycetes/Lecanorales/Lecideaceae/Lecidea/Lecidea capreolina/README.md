@@ -1,5 +1,4 @@
-Lecidea capreolina Stizenb. SPECIES
-=======
+# Lecidea capreolina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius roberti-henrici Contu SPECIES
-=======
+# Cortinarius roberti-henrici Contu SPECIES
 
 #### Status
 ACCEPTED

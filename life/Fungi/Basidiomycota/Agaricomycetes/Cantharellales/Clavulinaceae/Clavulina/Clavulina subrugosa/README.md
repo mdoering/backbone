@@ -1,14 +1,13 @@
-Clavaria subrugosa Cleland, 1936 SPECIES
-=======
+# Clavulina subrugosa (Cleland) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. S. Australia 59: 220 (1936)
+Ann. Bot. Mem. 1: 341 (1950)
 
 #### Original name
 Clavaria subrugosa Cleland, 1936

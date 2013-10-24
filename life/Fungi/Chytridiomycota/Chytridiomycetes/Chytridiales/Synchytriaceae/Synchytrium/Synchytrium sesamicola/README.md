@@ -1,5 +1,4 @@
-Synchytrium sesamicola Lacy SPECIES
-=======
+# Synchytrium sesamicola Lacy SPECIES
 
 #### Status
 ACCEPTED

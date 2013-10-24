@@ -1,5 +1,4 @@
-Lachnea aspera (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea aspera (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria globigera Moug. & Lév. SPECIES
-=======
+# Sphaeria globigera Moug. & Lév. SPECIES
 
 #### Status
 ACCEPTED

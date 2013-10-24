@@ -1,5 +1,4 @@
-Microbacterium lacticum Orla-Jensen, 1919 (Approved Lists, 1980) SPECIES
-=======
+# Microbacterium lacticum Orla-Jensen, 1919 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

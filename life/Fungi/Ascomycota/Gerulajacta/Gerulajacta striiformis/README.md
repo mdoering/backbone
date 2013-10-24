@@ -1,8 +1,7 @@
-Gerulajacta striaeforme Preuss SPECIES
-=======
+# Gerulajacta striiformis Preuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gerulajacta striaeforme Preuss
+Gerulajacta striiformis Preuss
 
 ### Remarks
 null

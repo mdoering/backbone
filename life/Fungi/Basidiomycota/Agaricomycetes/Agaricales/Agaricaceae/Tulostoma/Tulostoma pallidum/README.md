@@ -1,5 +1,4 @@
-Tulostoma pallidum Lloyd SPECIES
-=======
+# Tulostoma pallidum Lloyd SPECIES
 
 #### Status
 ACCEPTED

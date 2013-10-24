@@ -1,5 +1,4 @@
-Belonidium sclerogenum var. sclerogenum VARIETY
-=======
+# Belonidium sclerogenum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Belonidium sclerogenum var. sclerogenum
+Peziza sclerogena Berk. & M.A. Curtis
 
 ### Remarks
 null

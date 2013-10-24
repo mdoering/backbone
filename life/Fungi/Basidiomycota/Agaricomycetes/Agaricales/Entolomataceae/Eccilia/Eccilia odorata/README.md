@@ -1,5 +1,4 @@
-Eccilia odorata Pegler SPECIES
-=======
+# Eccilia odorata Pegler SPECIES
 
 #### Status
 ACCEPTED

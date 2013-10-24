@@ -1,5 +1,4 @@
-Agaricus pusillomyces Peck SPECIES
-=======
+# Agaricus pusillomyces Peck SPECIES
 
 #### Status
 ACCEPTED

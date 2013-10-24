@@ -1,5 +1,4 @@
-Macrophomatospora Petrak, 1925 GENUS
-=======
+# Macrophomatospora Petrak, 1925 GENUS
 
 #### Status
 ACCEPTED

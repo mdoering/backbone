@@ -1,5 +1,4 @@
-Buellia confusa D.D. Awasthi SPECIES
-=======
+# Buellia confusa D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemphylium cirsii (Lindau) E.G. Simmons SPECIES
-=======
+# Stemphylium cirsii (Lindau) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

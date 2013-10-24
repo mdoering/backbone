@@ -1,5 +1,4 @@
-Clithris juniperi (P. Karst.) Rehm SPECIES
-=======
+# Clithris juniperi (P. Karst.) Rehm SPECIES
 
 #### Status
 ACCEPTED

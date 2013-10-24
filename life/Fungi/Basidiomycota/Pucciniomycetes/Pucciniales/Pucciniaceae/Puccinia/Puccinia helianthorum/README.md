@@ -1,5 +1,4 @@
-Puccinia helianthorum Schwein. SPECIES
-=======
+# Puccinia helianthorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta apii Halst. SPECIES
-=======
+# Phyllosticta apii Halst. SPECIES
 
 #### Status
 ACCEPTED

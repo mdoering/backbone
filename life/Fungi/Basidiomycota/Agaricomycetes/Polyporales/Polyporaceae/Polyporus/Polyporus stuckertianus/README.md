@@ -1,5 +1,4 @@
-Polyporus stuckertianus Speg. SPECIES
-=======
+# Polyporus stuckertianus Speg. SPECIES
 
 #### Status
 ACCEPTED

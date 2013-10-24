@@ -1,5 +1,4 @@
-Discosia aquatica Fautrey, 1893 SPECIES
-=======
+# Discosia aquatica Fautrey, 1893 SPECIES
 
 #### Status
 ACCEPTED

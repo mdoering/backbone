@@ -1,5 +1,4 @@
-Phyllosticta tumanensis Miura SPECIES
-=======
+# Phyllosticta tumanensis Miura SPECIES
 
 #### Status
 ACCEPTED

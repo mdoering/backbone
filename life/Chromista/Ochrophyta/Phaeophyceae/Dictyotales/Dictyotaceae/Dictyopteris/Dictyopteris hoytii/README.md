@@ -1,5 +1,4 @@
-Dictyopteris hoytii W.R. Taylor SPECIES
-=======
+# Dictyopteris hoytii W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

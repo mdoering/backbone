@@ -1,5 +1,4 @@
-Psathyrella dunensis Kits van Wav., 1985 SPECIES
-=======
+# Psathyrella dunensis Kits van Wav., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia asterina A. Henkel SPECIES
-=======
+# Hendersonia asterina A. Henkel SPECIES
 
 #### Status
 ACCEPTED

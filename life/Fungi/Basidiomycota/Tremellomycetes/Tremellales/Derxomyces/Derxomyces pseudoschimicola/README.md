@@ -1,5 +1,4 @@
-Derxomyces pseudoschimicola (F.Y. Bai, M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces pseudoschimicola (F.Y. Bai, M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

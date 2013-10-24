@@ -1,5 +1,4 @@
-Phanerochaete ginnsii Sheng H. Wu SPECIES
-=======
+# Phanerochaete ginnsii Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Discorbis bulbosus (Parker, 1954) SPECIES
-=======
+# Disconorbis bulbosus (Parker, 1954) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Didymosphaeria parnassiae (Peck) Sacc. SPECIES
-=======
+# Didymosphaeria parnassiae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

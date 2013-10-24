@@ -1,5 +1,4 @@
-Octadecabacter Gosink et al., 1998 GENUS
-=======
+# Octadecabacter Gosink et al., 1998 GENUS
 
 #### Status
 ACCEPTED

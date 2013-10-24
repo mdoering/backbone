@@ -1,5 +1,4 @@
-Cordana semaniae Davydkina, Melnik & Novozh. SPECIES
-=======
+# Cordana semaniae Davydkina, Melnik & Novozh. SPECIES
 
 #### Status
 ACCEPTED

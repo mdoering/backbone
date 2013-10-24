@@ -1,5 +1,4 @@
-Lophiostoma chrysosporum P. Karst. SPECIES
-=======
+# Lophiostoma chrysosporum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

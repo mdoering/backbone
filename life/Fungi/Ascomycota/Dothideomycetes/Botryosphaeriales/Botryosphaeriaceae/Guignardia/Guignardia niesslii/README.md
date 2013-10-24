@@ -1,5 +1,4 @@
-Guignardia niesslii (Kunze ex Rehm) Lindau SPECIES
-=======
+# Guignardia niesslii (Kunze ex Rehm) Lindau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta gmelinae Ts. Kobay. SPECIES
-=======
+# Phyllosticta gmelinae Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

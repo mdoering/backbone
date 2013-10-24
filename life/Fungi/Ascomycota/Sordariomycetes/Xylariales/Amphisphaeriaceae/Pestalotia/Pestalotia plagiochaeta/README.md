@@ -1,5 +1,4 @@
-Pestalotia plagiochaeta Sacc. SPECIES
-=======
+# Pestalotia plagiochaeta Sacc. SPECIES
 
 #### Status
 ACCEPTED

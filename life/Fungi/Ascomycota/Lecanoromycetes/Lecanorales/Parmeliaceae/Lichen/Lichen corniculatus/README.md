@@ -1,5 +1,4 @@
-Lichen corniculatus Relhan SPECIES
-=======
+# Lichen corniculatus Relhan SPECIES
 
 #### Status
 ACCEPTED

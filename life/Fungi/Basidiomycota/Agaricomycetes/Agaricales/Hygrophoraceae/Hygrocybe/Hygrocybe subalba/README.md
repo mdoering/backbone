@@ -1,5 +1,4 @@
-Hygrocybe subalba Bon & Réaudin SPECIES
-=======
+# Hygrocybe subalba Bon & Réaudin SPECIES
 
 #### Status
 ACCEPTED

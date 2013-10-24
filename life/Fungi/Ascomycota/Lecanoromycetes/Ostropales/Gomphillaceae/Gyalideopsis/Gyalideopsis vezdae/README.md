@@ -1,5 +1,4 @@
-Gyalideopsis vezdae Kalb SPECIES
-=======
+# Gyalideopsis vezdae Kalb SPECIES
 
 #### Status
 ACCEPTED

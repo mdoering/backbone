@@ -1,5 +1,4 @@
-Lecania cooperta Poetsch SPECIES
-=======
+# Lecania cooperta Poetsch SPECIES
 
 #### Status
 ACCEPTED

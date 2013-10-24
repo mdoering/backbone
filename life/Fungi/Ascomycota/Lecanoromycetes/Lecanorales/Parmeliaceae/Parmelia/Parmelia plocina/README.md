@@ -1,5 +1,4 @@
-Parmelia plocina Ach. SPECIES
-=======
+# Parmelia plocina Ach. SPECIES
 
 #### Status
 ACCEPTED

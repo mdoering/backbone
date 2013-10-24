@@ -1,5 +1,4 @@
-Cantharellus delitescens (Burt) Corner SPECIES
-=======
+# Cantharellus delitescens (Burt) Corner SPECIES
 
 #### Status
 ACCEPTED

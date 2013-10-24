@@ -1,5 +1,4 @@
-Buellia coniops f. coniops FORM
-=======
+# Buellia coniops (Wahlenb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 331 (1861)
+null
 
 #### Original name
-Buellia coniops f. coniops
+null
 
 ### Remarks
 null

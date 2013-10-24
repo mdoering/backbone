@@ -1,5 +1,4 @@
-Liberibacter africanus subsp. africanus SUBSPECIES
-=======
+# Liberibacter africanus SPECIES
 
 #### Status
 ACCEPTED

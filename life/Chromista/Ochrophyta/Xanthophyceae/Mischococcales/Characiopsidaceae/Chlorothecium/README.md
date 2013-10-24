@@ -1,5 +1,4 @@
-Chlorothecium A. Borzì, 1885 GENUS
-=======
+# Chlorothecium A. Borzì, 1885 GENUS
 
 #### Status
 ACCEPTED

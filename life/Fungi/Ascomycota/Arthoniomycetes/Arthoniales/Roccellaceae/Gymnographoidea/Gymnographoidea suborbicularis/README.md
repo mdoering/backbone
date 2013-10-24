@@ -1,5 +1,4 @@
-Gymnographoidea suborbicularis Fink SPECIES
-=======
+# Gymnographoidea suborbicularis Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum berkeleyanum Ces. SPECIES
-=======
+# Stereum berkeleyanum Ces. SPECIES
 
 #### Status
 ACCEPTED

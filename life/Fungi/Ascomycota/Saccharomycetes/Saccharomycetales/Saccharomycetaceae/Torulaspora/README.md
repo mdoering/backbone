@@ -1,17 +1,16 @@
-Zymodebaryomyces E.K. Novák & Zsolt GENUS
-=======
+# Torulaspora Lindner, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta microbiol. hung. 7: 98 (1961)
+null
 
 #### Original name
-Zymodebaryomyces E.K. Novák & Zsolt
+null
 
 ### Remarks
 null

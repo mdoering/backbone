@@ -1,5 +1,4 @@
-Aplosporella zollikoferiae (Pat.) Maire SPECIES
-=======
+# Aplosporella zollikoferiae (Pat.) Maire SPECIES
 
 #### Status
 ACCEPTED

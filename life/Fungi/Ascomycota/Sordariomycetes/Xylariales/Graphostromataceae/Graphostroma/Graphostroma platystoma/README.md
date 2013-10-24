@@ -1,14 +1,13 @@
-Diatrype platystoma (Schwein.) Berk., 1876 SPECIES
-=======
+# Graphostroma platystoma (Schwein.) Piroz., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 52(10): 2131 (1974)
 
 #### Original name
 Sphaeria platystoma Schwein., 1822

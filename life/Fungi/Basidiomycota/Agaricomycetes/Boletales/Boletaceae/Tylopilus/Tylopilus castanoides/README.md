@@ -1,5 +1,4 @@
-Tylopilus castanoides Har. Takah. SPECIES
-=======
+# Tylopilus castanoides Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

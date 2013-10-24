@@ -1,5 +1,4 @@
-Ditremis albiseda (Nyl.) R.C. Harris SPECIES
-=======
+# Ditremis albiseda (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heimatomyces affinis Thaxt. SPECIES
-=======
+# Heimatomyces affinis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

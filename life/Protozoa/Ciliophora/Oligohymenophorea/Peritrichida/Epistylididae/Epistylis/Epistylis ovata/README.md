@@ -1,5 +1,4 @@
-Epistylis ovata Nenninger, 1948 SPECIES
-=======
+# Epistylis ovata Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

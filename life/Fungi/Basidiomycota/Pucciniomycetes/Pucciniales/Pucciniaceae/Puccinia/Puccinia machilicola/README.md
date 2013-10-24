@@ -1,5 +1,4 @@
-Puccinia machilicola Cummins SPECIES
-=======
+# Puccinia machilicola Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia aspera Hazsl. SPECIES
-=======
+# Rosellinia aspera Hazsl. SPECIES
 
 #### Status
 ACCEPTED

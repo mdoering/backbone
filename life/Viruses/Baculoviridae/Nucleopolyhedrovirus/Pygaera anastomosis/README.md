@@ -1,5 +1,4 @@
-Pygaera anastomosis Npv SPECIES
-=======
+# Pygaera anastomosis Npv SPECIES
 
 #### Status
 ACCEPTED

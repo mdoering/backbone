@@ -1,5 +1,4 @@
-Septoria tianschanica Golovin SPECIES
-=======
+# Septoria tianschanica Golovin SPECIES
 
 #### Status
 ACCEPTED

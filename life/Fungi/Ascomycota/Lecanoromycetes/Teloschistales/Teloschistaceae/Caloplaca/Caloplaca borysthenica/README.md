@@ -1,5 +1,4 @@
-Caloplaca borysthenica Khodos. & S.Y. Kondr. SPECIES
-=======
+# Caloplaca borysthenica Khodos. & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

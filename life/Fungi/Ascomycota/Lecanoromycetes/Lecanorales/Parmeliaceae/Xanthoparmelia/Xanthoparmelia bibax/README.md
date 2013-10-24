@@ -1,17 +1,16 @@
-Parmelia bibax Brusse SPECIES
-=======
+# Xanthoparmelia bibax (Brusse) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 401 (1988)
 
 #### Original name
-null
+Parmelia bibax Brusse
 
 ### Remarks
 null

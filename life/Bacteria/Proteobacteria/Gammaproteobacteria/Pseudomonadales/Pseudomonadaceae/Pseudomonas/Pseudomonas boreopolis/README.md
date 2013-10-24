@@ -1,5 +1,4 @@
-Pseudomonas boreopolis Gray and Thornton, 1928 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas boreopolis Gray and Thornton, 1928 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

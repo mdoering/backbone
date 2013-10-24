@@ -1,5 +1,4 @@
-Arthonia luridofusca (Arnold) Nyl. SPECIES
-=======
+# Arthonia luridofusca (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

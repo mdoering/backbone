@@ -1,5 +1,4 @@
-Irenopsis thespesiae Hansf. SPECIES
-=======
+# Irenopsis thespesiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

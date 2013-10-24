@@ -1,5 +1,4 @@
-Ramalina inaequalis Nyl. SPECIES
-=======
+# Ramalina inaequalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

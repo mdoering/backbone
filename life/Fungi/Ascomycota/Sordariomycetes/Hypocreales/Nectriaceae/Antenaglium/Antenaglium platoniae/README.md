@@ -1,5 +1,4 @@
-Antenaglium platoniae F.C. Albuq. & M.L.C. Reis SPECIES
-=======
+# Antenaglium platoniae F.C. Albuq. & M.L.C. Reis SPECIES
 
 #### Status
 ACCEPTED

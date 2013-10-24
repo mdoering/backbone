@@ -1,5 +1,4 @@
-Rocella gemma Hanna SPECIES
-=======
+# Rocella gemma Hanna SPECIES
 
 #### Status
 ACCEPTED

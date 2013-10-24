@@ -1,5 +1,4 @@
-Cercospora lactucae-indicae Sawada SPECIES
-=======
+# Cercospora lactucae-indicae Sawada SPECIES
 
 #### Status
 ACCEPTED

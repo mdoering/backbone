@@ -1,5 +1,4 @@
-Woloszynskia reticulata Thompson SPECIES
-=======
+# Woloszynskia reticulata Thompson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila microrrhiza f. microrrhiza FORM
-=======
+# Drosophila microrrhiza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium extricabile (Britzelm.) M.M. Moser SPECIES
-=======
+# Phlegmacium extricabile (Britzelm.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

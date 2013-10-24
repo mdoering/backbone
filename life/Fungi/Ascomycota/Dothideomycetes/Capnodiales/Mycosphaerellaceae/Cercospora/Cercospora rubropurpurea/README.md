@@ -1,17 +1,16 @@
-Cercospora rubro-purpurea S.H. Sun SPECIES
-=======
+# Cercospora rubropurpurea S.H. Sun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Agric. For. , Taiwan 9: 46 (sep. ) (1955)
 
 #### Original name
-Cercospora rubro-purpurea S.H. Sun
+Cercospora rubropurpurea S.H. Sun
 
 ### Remarks
 null

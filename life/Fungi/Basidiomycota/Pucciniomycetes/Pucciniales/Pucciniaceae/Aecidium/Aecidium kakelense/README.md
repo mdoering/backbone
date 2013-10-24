@@ -1,5 +1,4 @@
-Aecidium kakelense Henn. SPECIES
-=======
+# Aecidium kakelense Henn. SPECIES
 
 #### Status
 ACCEPTED

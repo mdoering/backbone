@@ -1,5 +1,4 @@
-Secotium warnei Peck SPECIES
-=======
+# Secotium warnei Peck SPECIES
 
 #### Status
 ACCEPTED

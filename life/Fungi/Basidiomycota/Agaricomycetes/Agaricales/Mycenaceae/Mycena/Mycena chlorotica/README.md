@@ -1,5 +1,4 @@
-Mycena chlorotica Mont. SPECIES
-=======
+# Mycena chlorotica Mont. SPECIES
 
 #### Status
 ACCEPTED

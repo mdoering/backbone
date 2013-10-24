@@ -1,5 +1,4 @@
-Pyrenula insularum H. Magn. SPECIES
-=======
+# Pyrenula insularum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

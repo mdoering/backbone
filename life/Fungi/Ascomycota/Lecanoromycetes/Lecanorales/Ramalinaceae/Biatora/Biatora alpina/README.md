@@ -1,5 +1,4 @@
-Biatora alpina Hazsl. SPECIES
-=======
+# Biatora alpina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

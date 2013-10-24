@@ -1,5 +1,4 @@
-Steccherinum pseudochraceum Saliba & A. David SPECIES
-=======
+# Steccherinum pseudochraceum Saliba & A. David SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septogloeum defolians Harkn. SPECIES
-=======
+# Septogloeum defolians Harkn. SPECIES
 
 #### Status
 ACCEPTED

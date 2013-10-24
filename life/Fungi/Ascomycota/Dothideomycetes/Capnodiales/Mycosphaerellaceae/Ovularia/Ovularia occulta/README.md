@@ -1,5 +1,4 @@
-Ovularia occulta Sacc. SPECIES
-=======
+# Ovularia occulta Sacc. SPECIES
 
 #### Status
 ACCEPTED

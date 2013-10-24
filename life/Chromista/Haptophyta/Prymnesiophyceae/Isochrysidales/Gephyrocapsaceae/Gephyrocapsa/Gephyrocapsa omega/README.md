@@ -1,5 +1,4 @@
-Gephyrocapsa omega Bukry, 1973 SPECIES
-=======
+# Gephyrocapsa omega Bukry, 1973 SPECIES
 
 #### Status
 ACCEPTED

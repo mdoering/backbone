@@ -1,5 +1,4 @@
-Pleospora bataanensis Petr. SPECIES
-=======
+# Pleospora bataanensis Petr. SPECIES
 
 #### Status
 ACCEPTED

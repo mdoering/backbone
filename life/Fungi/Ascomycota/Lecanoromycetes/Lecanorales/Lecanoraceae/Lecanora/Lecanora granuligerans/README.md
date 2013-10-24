@@ -1,5 +1,4 @@
-Lecanora granuligerans Zahlbr. SPECIES
-=======
+# Lecanora granuligerans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lepista luscina var. irinoides Bohus VARIETY
-=======
+# Lepista luscina (Fr.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 192 (1951)
 
 #### Original name
-Lepista luscina var. irinoides Bohus
+Agaricus luscinus Fr., 1818
 
 ### Remarks
 null

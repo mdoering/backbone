@@ -1,5 +1,4 @@
-Hemmesomyces Gilb. & Nakasone GENUS
-=======
+# Hemmesomyces Gilb. & Nakasone GENUS
 
 #### Status
 ACCEPTED

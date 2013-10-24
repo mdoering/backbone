@@ -1,5 +1,4 @@
-Sebacina fuliginea (Rick) L.S. Olive SPECIES
-=======
+# Sebacina fuliginea (Rick) L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

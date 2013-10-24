@@ -1,5 +1,4 @@
-Omphalia festucarum Velen. SPECIES
-=======
+# Omphalia festucarum Velen. SPECIES
 
 #### Status
 ACCEPTED

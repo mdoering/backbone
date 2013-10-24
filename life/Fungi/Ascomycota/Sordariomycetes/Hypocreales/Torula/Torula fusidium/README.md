@@ -1,5 +1,4 @@
-Torula fusidium Thüm. SPECIES
-=======
+# Torula fusidium Thüm. SPECIES
 
 #### Status
 ACCEPTED

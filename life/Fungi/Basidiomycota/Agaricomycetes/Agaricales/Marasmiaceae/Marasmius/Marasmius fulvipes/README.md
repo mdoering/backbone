@@ -1,5 +1,4 @@
-Marasmius fulvipes Corner SPECIES
-=======
+# Marasmius fulvipes Corner SPECIES
 
 #### Status
 ACCEPTED

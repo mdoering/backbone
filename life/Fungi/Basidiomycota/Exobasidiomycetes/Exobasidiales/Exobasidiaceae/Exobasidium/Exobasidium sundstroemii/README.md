@@ -1,5 +1,4 @@
-Exobasidium sundstroemii Nannf., 1981 SPECIES
-=======
+# Exobasidium sundstroemii Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

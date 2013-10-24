@@ -1,5 +1,4 @@
-Psathyrella gyroflexa (Fr.) Konrad & Maubl. SPECIES
-=======
+# Psathyrella gyroflexa (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

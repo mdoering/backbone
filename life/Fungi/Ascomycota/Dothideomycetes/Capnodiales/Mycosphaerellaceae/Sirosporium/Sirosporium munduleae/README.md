@@ -1,5 +1,4 @@
-Sirosporium munduleae (Syd. & P. Syd.) M.B. Ellis SPECIES
-=======
+# Sirosporium munduleae (Syd. & P. Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

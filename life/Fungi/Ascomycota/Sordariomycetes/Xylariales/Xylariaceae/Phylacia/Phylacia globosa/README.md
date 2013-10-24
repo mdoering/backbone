@@ -1,5 +1,4 @@
-Phylacia globosa Lév., 1845 SPECIES
-=======
+# Phylacia globosa Lév., 1845 SPECIES
 
 #### Status
 ACCEPTED

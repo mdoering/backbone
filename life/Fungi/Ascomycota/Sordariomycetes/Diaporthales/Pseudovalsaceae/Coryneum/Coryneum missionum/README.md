@@ -1,5 +1,4 @@
-Coryneum missionum Speg. SPECIES
-=======
+# Coryneum missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

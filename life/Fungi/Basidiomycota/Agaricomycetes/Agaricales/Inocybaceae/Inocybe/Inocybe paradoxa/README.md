@@ -1,5 +1,4 @@
-Inocybe paradoxa R. Heim SPECIES
-=======
+# Inocybe paradoxa R. Heim SPECIES
 
 #### Status
 ACCEPTED

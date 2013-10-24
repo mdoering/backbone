@@ -1,5 +1,4 @@
-Phoma oncidii Speg. SPECIES
-=======
+# Phoma oncidii Speg. SPECIES
 
 #### Status
 ACCEPTED

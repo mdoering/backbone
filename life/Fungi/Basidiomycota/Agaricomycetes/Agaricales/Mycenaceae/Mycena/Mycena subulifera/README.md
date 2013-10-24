@@ -1,5 +1,4 @@
-Mycena subulifera Singer SPECIES
-=======
+# Mycena subulifera Singer SPECIES
 
 #### Status
 ACCEPTED

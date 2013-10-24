@@ -1,5 +1,4 @@
-Belonidium dulcamarae Feltgen SPECIES
-=======
+# Belonidium dulcamarae Feltgen SPECIES
 
 #### Status
 ACCEPTED

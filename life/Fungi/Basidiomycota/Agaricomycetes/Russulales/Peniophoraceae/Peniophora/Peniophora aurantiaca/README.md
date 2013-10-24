@@ -1,14 +1,13 @@
-Byssomerulius aurantiacus (Bres.) Gilb., 1974 SPECIES
-=======
+# Peniophora aurantiaca (Bres.) Höhn. & Litsch., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi dec. Pond. Pine 44 (1974)
+null
 
 #### Original name
 null

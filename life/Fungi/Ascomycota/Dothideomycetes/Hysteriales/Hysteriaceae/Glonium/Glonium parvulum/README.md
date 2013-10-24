@@ -1,14 +1,13 @@
-Hysterium parvulum W.R. Gerard, 1874 SPECIES
-=======
+# Glonium parvulum (W.R. Gerard) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 5: 40 (1874)
+Syll. fung. (Abellini) 2: 735 (1883)
 
 #### Original name
 Hysterium parvulum W.R. Gerard, 1874

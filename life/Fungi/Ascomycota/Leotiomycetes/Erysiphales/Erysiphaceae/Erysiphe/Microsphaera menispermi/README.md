@@ -1,5 +1,4 @@
-Microsphaera menispermi var. menispermi VARIETY
-=======
+# Microsphaera menispermi Howe SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microsphaera menispermi var. menispermi
+Microsphaera menispermi Howe
 
 ### Remarks
 null

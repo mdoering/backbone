@@ -1,5 +1,4 @@
-Tapinia panuoides (Fr.) SPECIES
-=======
+# Tapinia panuoides (Fr.) SPECIES
 
 #### Status
 ACCEPTED

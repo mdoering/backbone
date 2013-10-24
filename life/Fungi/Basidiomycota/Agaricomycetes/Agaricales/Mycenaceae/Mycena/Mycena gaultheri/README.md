@@ -1,5 +1,4 @@
-Mycena gaultheri A.H. Sm. SPECIES
-=======
+# Mycena gaultheri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

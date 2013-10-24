@@ -1,5 +1,4 @@
-Lecidea griseopallens Nyl. SPECIES
-=======
+# Lecidea griseopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

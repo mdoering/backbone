@@ -1,5 +1,4 @@
-Psathyrella pallida A.H. Sm. SPECIES
-=======
+# Psathyrella pallida A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

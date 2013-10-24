@@ -1,5 +1,4 @@
-Cordyceps purpureostromata f. purpureostromata FORM
-=======
+# Cordyceps purpureostromata Kobayasi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Kobayasi & Shimizu, Bull. natn. Sci. Mus. , Tokyo, B 6(4): 136 (1980)
 
 #### Original name
-Cordyceps purpureostromata f. purpureostromata
+Cordyceps purpureostromata Kobayasi
 
 ### Remarks
 null

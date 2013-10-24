@@ -1,17 +1,16 @@
-Pustularia Gray, 1858 GENUS
-=======
+# Miniacina Galloway, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. Nat. Hist. , (3) 2, 386.
+Manual Foram. , 305.
 
 #### Original name
-null
+Pustularia Gray, 1858
 
 ### Remarks
 null

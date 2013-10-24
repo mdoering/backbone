@@ -1,5 +1,4 @@
-Phoma cirsiicola Jaap SPECIES
-=======
+# Phoma cirsiicola Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium excelsius W. Phillips SPECIES
-=======
+# Belonidium excelsius W. Phillips SPECIES
 
 #### Status
 ACCEPTED

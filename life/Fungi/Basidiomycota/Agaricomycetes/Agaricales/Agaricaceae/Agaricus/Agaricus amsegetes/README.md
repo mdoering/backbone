@@ -1,5 +1,4 @@
-Agaricus amsegetes (Fr.) Fr. SPECIES
-=======
+# Agaricus amsegetes (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster stipitatus Solms SPECIES
-=======
+# Geastrum stipitatus Solms SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster stipitatus Solms
+Geastrum stipitatus Solms
 
 ### Remarks
 null

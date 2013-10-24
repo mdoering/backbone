@@ -1,5 +1,4 @@
-Lecidea micheleri Hertel SPECIES
-=======
+# Lecidea micheleri Hertel SPECIES
 
 #### Status
 ACCEPTED

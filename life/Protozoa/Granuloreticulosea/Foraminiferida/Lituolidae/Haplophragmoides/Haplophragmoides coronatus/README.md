@@ -1,5 +1,4 @@
-Haplophragmoides coronatus SPECIES
-=======
+# Haplophragmoides coronatus SPECIES
 
 #### Status
 ACCEPTED

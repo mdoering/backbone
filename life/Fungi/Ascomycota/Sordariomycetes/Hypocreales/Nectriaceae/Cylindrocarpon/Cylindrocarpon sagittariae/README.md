@@ -1,5 +1,4 @@
-Cylindrocarpon sagittariae Negishi SPECIES
-=======
+# Cylindrocarpon sagittariae Negishi SPECIES
 
 #### Status
 ACCEPTED

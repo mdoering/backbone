@@ -1,5 +1,4 @@
-Leptospira kirschneri Ramadass et al., 1992 SPECIES
-=======
+# Leptospira kirschneri Ramadass et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

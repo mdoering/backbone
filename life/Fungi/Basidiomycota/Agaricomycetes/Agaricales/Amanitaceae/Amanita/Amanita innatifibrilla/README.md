@@ -1,5 +1,4 @@
-Amanita innatifibrilla Zhu L. Yang SPECIES
-=======
+# Amanita innatifibrilla Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë amazonica Syd. & P. Syd. SPECIES
-=======
+# Elsinoë amazonica Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

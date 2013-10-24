@@ -1,5 +1,4 @@
-Pelczaria aurantia Poston, 1994 (rejected name) . SPECIES
-=======
+# Pelczaria aurantia Poston, 1994 (rejected name) . SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe croceifolia Beller SPECIES
-=======
+# Inocybe croceifolia Beller SPECIES
 
 #### Status
 ACCEPTED

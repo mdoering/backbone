@@ -1,5 +1,4 @@
-Agaricus praemagnus Murrill SPECIES
-=======
+# Agaricus praemagnus Murrill SPECIES
 
 #### Status
 ACCEPTED

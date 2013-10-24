@@ -1,14 +1,13 @@
-Arthoniopsis trilocularis (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Arthonia trilocularis Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 64: 233 (1881)
 
 #### Original name
 Arthonia trilocularis Müll. Arg.

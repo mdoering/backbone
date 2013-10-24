@@ -1,5 +1,4 @@
-Scepastocarpus peritheciiformis Santam., 2004 SPECIES
-=======
+# Scepastocarpus peritheciiformis Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

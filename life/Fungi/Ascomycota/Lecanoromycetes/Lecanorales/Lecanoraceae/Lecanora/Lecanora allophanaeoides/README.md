@@ -1,5 +1,4 @@
-Lecanora allophanaeoides B. de Lesd. SPECIES
-=======
+# Lecanora allophanaeoides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

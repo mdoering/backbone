@@ -1,5 +1,4 @@
-Huea obliquans (Nyl.) C.W. Dodge SPECIES
-=======
+# Huea obliquans (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

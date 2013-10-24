@@ -1,5 +1,4 @@
-Phyllosticta maurandiae Dearn. & House SPECIES
-=======
+# Phyllosticta maurandiae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

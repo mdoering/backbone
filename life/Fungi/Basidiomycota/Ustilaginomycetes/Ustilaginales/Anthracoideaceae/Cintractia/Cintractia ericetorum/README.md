@@ -1,5 +1,4 @@
-Cintractia ericetorum Speg. SPECIES
-=======
+# Cintractia ericetorum Speg. SPECIES
 
 #### Status
 ACCEPTED

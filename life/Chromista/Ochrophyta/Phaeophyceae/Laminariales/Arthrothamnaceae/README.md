@@ -1,5 +1,4 @@
-Arthrothamnaceae FAMILY
-=======
+# Arthrothamnaceae FAMILY
 
 #### Status
 ACCEPTED

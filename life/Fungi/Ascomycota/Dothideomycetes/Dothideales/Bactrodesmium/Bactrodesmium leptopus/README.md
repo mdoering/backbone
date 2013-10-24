@@ -1,5 +1,4 @@
-Bactrodesmium leptopus (Sacc.) S. Hughes SPECIES
-=======
+# Bactrodesmium leptopus (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

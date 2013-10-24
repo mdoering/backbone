@@ -1,5 +1,4 @@
-Discinella exidiiformis (Berk. & Broome) Boud., 1907 SPECIES
-=======
+# Discinella exidiiformis (Berk. & Broome) Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

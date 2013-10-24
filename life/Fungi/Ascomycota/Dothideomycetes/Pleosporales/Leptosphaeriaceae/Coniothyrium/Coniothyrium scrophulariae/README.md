@@ -1,5 +1,4 @@
-Coniothyrium scrophulariae (Fuckel) Sacc. SPECIES
-=======
+# Coniothyrium scrophulariae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

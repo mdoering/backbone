@@ -1,5 +1,4 @@
-Dendrophyra GENUS
-=======
+# Dendrophyra GENUS
 
 #### Status
 ACCEPTED

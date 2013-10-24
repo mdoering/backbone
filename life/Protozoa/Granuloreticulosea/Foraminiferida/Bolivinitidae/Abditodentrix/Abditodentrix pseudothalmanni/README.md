@@ -1,5 +1,4 @@
-Abditodentrix pseudothalmanni (Boltovskoy & Guissani de Kahn, 1981) SPECIES
-=======
+# Abditodentrix pseudothalmanni (Boltovskoy & Guissani de Kahn, 1981) SPECIES
 
 #### Status
 ACCEPTED

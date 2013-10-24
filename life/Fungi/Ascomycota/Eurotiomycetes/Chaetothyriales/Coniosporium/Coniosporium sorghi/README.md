@@ -1,5 +1,4 @@
-Coniosporium sorghi Sacc. SPECIES
-=======
+# Coniosporium sorghi Sacc. SPECIES
 
 #### Status
 ACCEPTED

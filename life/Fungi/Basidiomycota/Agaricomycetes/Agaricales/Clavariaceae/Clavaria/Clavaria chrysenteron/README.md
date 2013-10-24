@@ -1,5 +1,4 @@
-Clavaria chrysenteron Maas Geest. SPECIES
-=======
+# Clavaria chrysenteron Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

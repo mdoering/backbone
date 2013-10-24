@@ -1,5 +1,4 @@
-Arthrobotryella Sibilia GENUS
-=======
+# Arthrobotryella Sibilia GENUS
 
 #### Status
 ACCEPTED

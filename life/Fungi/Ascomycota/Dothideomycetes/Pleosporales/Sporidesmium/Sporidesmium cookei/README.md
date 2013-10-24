@@ -1,14 +1,13 @@
-Penzigomyces cookei (S. Hughes) Subram., 1992 SPECIES
-=======
+# Sporidesmium cookei (S. Hughes) M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 186 (1992)
+Mycol. Pap. 70: 48 (1958)
 
 #### Original name
 Podoconis cookei S. Hughes, 1953

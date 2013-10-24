@@ -1,5 +1,4 @@
-Uvigerina echinata Saidova, 1953 SPECIES
-=======
+# Uvigerina echinata Saidova, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta carolinensis T. McDonald SPECIES
-=======
+# Sticta carolinensis T. McDonald SPECIES
 
 #### Status
 ACCEPTED

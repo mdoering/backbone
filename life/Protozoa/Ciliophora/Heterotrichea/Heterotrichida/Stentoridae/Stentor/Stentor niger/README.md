@@ -1,8 +1,7 @@
-Stentor castaneus Wright, 1859 SPECIES
-=======
+# Stentor niger (Müller, 1773) Ehrenberg, 1831 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

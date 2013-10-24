@@ -1,5 +1,4 @@
-Arborella calverti Zebrowski SPECIES
-=======
+# Arborella calverti Zebrowski SPECIES
 
 #### Status
 ACCEPTED

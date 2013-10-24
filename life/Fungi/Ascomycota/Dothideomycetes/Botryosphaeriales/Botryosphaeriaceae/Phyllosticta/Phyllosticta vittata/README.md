@@ -1,5 +1,4 @@
-Phyllosticta vittata Melnik SPECIES
-=======
+# Phyllosticta vittata Melnik SPECIES
 
 #### Status
 ACCEPTED

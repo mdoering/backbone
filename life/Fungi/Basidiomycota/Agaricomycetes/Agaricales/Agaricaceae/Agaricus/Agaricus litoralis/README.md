@@ -1,17 +1,16 @@
-Agaricus maskae var. maskae Pilát VARIETY
-=======
+# Agaricus litoralis (Wakef. & A. Pearson) Pilát, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 8: 165 (1954)
+Klíc Kurc. Na. Hub Hrib. Bedl. (Praha) 403 (1952)
 
 #### Original name
-Agaricus maskae var. maskae Pilát
+Psalliota litoralis Wakef. & A. Pearson, 1946
 
 ### Remarks
 null

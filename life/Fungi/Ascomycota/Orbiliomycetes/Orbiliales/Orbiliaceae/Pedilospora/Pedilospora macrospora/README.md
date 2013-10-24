@@ -1,5 +1,4 @@
-Pedilospora macrospora G. Arnaud SPECIES
-=======
+# Pedilospora macrospora G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

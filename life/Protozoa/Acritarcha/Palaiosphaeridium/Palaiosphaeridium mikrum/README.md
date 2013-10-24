@@ -1,5 +1,4 @@
-Palaiosphaeridium mikrum Rasul, 1977 SPECIES
-=======
+# Palaiosphaeridium mikrum Rasul, 1977 SPECIES
 
 #### Status
 ACCEPTED

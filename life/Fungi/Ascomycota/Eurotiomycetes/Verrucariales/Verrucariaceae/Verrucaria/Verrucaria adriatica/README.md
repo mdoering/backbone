@@ -1,5 +1,4 @@
-Verrucaria adriatica Zahlbr. SPECIES
-=======
+# Verrucaria adriatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

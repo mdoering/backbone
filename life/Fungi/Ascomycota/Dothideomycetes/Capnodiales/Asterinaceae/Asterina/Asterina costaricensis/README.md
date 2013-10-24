@@ -1,5 +1,4 @@
-Asterina costaricensis Syd. SPECIES
-=======
+# Asterina costaricensis Syd. SPECIES
 
 #### Status
 ACCEPTED

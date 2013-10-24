@@ -1,5 +1,4 @@
-Stichochoeta GENUS
-=======
+# Stichochoeta GENUS
 
 #### Status
 ACCEPTED

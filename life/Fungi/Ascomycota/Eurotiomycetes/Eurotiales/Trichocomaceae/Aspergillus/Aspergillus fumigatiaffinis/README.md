@@ -1,5 +1,4 @@
-Aspergillus fumigatiaffinis S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Aspergillus fumigatiaffinis S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

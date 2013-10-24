@@ -1,5 +1,4 @@
-Coprinus luxoviensis Mont. SPECIES
-=======
+# Coprinus luxoviensis Mont. SPECIES
 
 #### Status
 ACCEPTED

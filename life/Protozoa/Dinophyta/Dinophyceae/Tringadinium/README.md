@@ -1,5 +1,4 @@
-Tringadinium J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Tringadinium J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita magnivelaris Peck SPECIES
-=======
+# Amanita magnivelaris Peck SPECIES
 
 #### Status
 ACCEPTED

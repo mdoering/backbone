@@ -1,5 +1,4 @@
-Ramularia berberidis (Cooke) U. Braun SPECIES
-=======
+# Ramularia berberidis (Cooke) U. Braun SPECIES
 
 #### Status
 ACCEPTED

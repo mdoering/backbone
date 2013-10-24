@@ -1,5 +1,4 @@
-Phyllachora vernoniicola Henn., 1902 SPECIES
-=======
+# Phyllachora vernoniicola Henn., 1902 SPECIES
 
 #### Status
 DOUBTFUL

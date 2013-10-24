@@ -1,5 +1,4 @@
-Gymnopilus pratensis Singer SPECIES
-=======
+# Gymnopilus pratensis Singer SPECIES
 
 #### Status
 ACCEPTED

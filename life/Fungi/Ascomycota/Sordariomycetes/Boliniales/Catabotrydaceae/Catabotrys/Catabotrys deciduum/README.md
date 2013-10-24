@@ -1,14 +1,13 @@
-Hypoxylon deciduum Berk. & Broome, 1875 SPECIES
-=======
+# Catabotrys deciduum (Berk. & Broome) Seaver & Waterston, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 120 (1875)
+Mycologia 38(2): 184 (1946)
 
 #### Original name
 Hypoxylon deciduum Berk. & Broome, 1875

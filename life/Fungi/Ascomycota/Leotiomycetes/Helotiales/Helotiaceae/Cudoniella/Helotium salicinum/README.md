@@ -1,5 +1,4 @@
-Helotium salicinum (Pers.) Fuckel SPECIES
-=======
+# Helotium salicinum (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

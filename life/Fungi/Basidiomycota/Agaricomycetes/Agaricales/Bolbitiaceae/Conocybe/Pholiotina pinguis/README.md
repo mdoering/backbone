@@ -1,5 +1,4 @@
-Pholiotina pinguis (Watling) Enderle SPECIES
-=======
+# Pholiotina pinguis (Watling) Enderle SPECIES
 
 #### Status
 ACCEPTED

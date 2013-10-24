@@ -1,5 +1,4 @@
-Caloplaca erodens Tretiach, Pinna & Grube SPECIES
-=======
+# Caloplaca erodens Tretiach, Pinna & Grube SPECIES
 
 #### Status
 ACCEPTED

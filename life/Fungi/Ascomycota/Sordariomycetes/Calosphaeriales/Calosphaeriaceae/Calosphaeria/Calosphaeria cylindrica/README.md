@@ -1,5 +1,4 @@
-Calosphaeria cylindrica (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Calosphaeria cylindrica (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

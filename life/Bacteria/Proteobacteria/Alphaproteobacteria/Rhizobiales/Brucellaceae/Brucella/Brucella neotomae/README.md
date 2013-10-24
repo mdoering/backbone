@@ -1,5 +1,4 @@
-Brucella neotomae Stoenner and Lackman, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Brucella neotomae Stoenner and Lackman, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

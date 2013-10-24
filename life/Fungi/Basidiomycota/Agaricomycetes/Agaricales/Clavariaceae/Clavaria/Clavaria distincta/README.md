@@ -1,5 +1,4 @@
-Clavaria distincta Britzelm. SPECIES
-=======
+# Clavaria distincta Britzelm. SPECIES
 
 #### Status
 ACCEPTED

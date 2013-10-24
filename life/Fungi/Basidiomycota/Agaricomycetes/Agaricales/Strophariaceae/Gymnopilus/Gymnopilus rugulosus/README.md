@@ -1,5 +1,4 @@
-Gymnopilus rugulosus R. Valenz., Guzmán & J. Castillo SPECIES
-=======
+# Gymnopilus rugulosus R. Valenz., Guzmán & J. Castillo SPECIES
 
 #### Status
 ACCEPTED

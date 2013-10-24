@@ -1,5 +1,4 @@
-Conocybe hexagonospora Métrod ex Hauskn. & Enderle SPECIES
-=======
+# Conocybe hexagonospora Métrod ex Hauskn. & Enderle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora asiatica H. Magn. SPECIES
-=======
+# Lecanora asiatica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

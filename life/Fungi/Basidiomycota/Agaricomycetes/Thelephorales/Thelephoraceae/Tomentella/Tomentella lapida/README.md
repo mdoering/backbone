@@ -1,17 +1,16 @@
-Tomentella spongiosa var. spongiosa VARIETY
-=======
+# Tomentella lapida (Pers.) Stalpers, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 24: 65 (1984)
 
 #### Original name
-null
+Sporotrichum lapidum Pers., 1822
 
 ### Remarks
 null

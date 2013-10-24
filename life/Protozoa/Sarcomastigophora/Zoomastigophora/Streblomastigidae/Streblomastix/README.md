@@ -1,5 +1,4 @@
-Streblomastix Kofoid & Swezy, 1920 GENUS
-=======
+# Streblomastix Kofoid & Swezy, 1920 GENUS
 
 #### Status
 ACCEPTED

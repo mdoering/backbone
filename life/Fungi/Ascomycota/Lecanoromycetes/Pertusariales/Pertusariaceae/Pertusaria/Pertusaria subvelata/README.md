@@ -1,5 +1,4 @@
-Pertusaria subvelata G. Merr. SPECIES
-=======
+# Pertusaria subvelata G. Merr. SPECIES
 
 #### Status
 ACCEPTED

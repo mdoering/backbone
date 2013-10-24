@@ -1,5 +1,4 @@
-Anthracoidea angulata (Syd.) Boidol & Poelt SPECIES
-=======
+# Anthracoidea angulata (Syd.) Boidol & Poelt SPECIES
 
 #### Status
 ACCEPTED

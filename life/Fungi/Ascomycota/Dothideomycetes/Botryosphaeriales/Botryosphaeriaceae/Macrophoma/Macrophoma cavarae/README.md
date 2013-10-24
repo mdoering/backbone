@@ -1,5 +1,4 @@
-Macrophoma cavarae Pollacci SPECIES
-=======
+# Macrophoma cavarae Pollacci SPECIES
 
 #### Status
 ACCEPTED

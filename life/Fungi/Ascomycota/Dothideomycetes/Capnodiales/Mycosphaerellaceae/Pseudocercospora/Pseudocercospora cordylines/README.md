@@ -1,5 +1,4 @@
-Pseudocercospora cordylines U. Braun SPECIES
-=======
+# Pseudocercospora cordylines U. Braun SPECIES
 
 #### Status
 ACCEPTED

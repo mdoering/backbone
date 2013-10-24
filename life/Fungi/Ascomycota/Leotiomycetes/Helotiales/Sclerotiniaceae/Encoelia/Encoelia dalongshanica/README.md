@@ -1,5 +1,4 @@
-Encoelia dalongshanica W.Y. Zhuang SPECIES
-=======
+# Encoelia dalongshanica W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

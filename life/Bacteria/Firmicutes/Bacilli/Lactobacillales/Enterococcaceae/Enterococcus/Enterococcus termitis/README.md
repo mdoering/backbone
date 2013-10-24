@@ -1,5 +1,4 @@
-Enterococcus termitis Svec et al., 2006 SPECIES
-=======
+# Enterococcus termitis Svec et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria dubyi De Not. SPECIES
-=======
+# Sphaeria dubyi De Not. SPECIES
 
 #### Status
 ACCEPTED

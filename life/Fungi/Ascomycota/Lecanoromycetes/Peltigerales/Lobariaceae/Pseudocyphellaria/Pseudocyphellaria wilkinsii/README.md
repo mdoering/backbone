@@ -1,5 +1,4 @@
-Pseudocyphellaria wilkinsii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria wilkinsii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

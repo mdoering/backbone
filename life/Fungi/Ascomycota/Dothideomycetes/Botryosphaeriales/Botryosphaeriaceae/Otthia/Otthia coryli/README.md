@@ -1,5 +1,4 @@
-Otthia coryli Fuckel SPECIES
-=======
+# Otthia coryli Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kuettlingeria rutilans C.W. Dodge & G.E. Baker SPECIES
-=======
+# Kuettlingeria rutilans C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

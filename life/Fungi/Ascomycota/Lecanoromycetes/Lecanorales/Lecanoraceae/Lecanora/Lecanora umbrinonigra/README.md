@@ -1,5 +1,4 @@
-Lecanora umbrinonigra SPECIES
-=======
+# Lecanora umbrinonigra SPECIES
 
 #### Status
 ACCEPTED

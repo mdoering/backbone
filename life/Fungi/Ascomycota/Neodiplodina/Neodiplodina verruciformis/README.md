@@ -1,5 +1,4 @@
-Neodiplodina verruciformis Petr., 1954 SPECIES
-=======
+# Neodiplodina verruciformis Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

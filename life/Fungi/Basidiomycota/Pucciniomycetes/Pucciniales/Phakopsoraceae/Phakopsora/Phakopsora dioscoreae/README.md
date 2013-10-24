@@ -1,5 +1,4 @@
-Phakopsora dioscoreae Thaung SPECIES
-=======
+# Phakopsora dioscoreae Thaung SPECIES
 
 #### Status
 ACCEPTED

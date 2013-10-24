@@ -1,5 +1,4 @@
-Phyllosticta pontederiae Syd. SPECIES
-=======
+# Phyllosticta pontederiae Syd. SPECIES
 
 #### Status
 ACCEPTED

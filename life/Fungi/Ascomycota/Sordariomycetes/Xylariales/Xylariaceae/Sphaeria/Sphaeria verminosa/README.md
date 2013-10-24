@@ -1,5 +1,4 @@
-Sphaeria verminosa Mont. SPECIES
-=======
+# Sphaeria verminosa Mont. SPECIES
 
 #### Status
 ACCEPTED

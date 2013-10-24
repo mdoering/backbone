@@ -1,5 +1,4 @@
-Lophiostoma luculinum Rehm SPECIES
-=======
+# Lophiostoma luculinum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia erythrantha (Tuck.) Müll. Arg. SPECIES
-=======
+# Blastenia erythrantha (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

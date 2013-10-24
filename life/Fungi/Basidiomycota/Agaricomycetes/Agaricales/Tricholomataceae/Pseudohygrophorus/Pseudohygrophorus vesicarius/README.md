@@ -1,5 +1,4 @@
-Pseudohygrophorus vesicarius Velen., 1939 SPECIES
-=======
+# Pseudohygrophorus vesicarius Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinothyrium smilacis Bat. & Nascim. SPECIES
-=======
+# Actinothyrium smilacis Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

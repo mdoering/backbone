@@ -1,17 +1,16 @@
-Curvularia lunata var. lunata (Wakker) Boedijn VARIETY
-=======
+# Cochliobolus lunatus R.R. Nelson & F.A. Haasis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Buitenz, 3 Sér. 13(1): 127 (1933)
+Mycologia 56(2): 316 (1964)
 
 #### Original name
-Curvularia lunata var. lunata (Wakker) Boedijn
+Cochliobolus lunatus R.R. Nelson & F.A. Haasis, 1964
 
 ### Remarks
 null

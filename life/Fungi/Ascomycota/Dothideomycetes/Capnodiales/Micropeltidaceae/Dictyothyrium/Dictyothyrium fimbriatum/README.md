@@ -1,5 +1,4 @@
-Dictyothyrium fimbriatum Bat. & I.H. Lima SPECIES
-=======
+# Dictyothyrium fimbriatum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

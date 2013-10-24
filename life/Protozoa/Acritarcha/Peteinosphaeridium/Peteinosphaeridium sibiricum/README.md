@@ -1,5 +1,4 @@
-Peteinosphaeridium sibiricum (Timofeev, 1966) Eisenack et al., 1979 SPECIES
-=======
+# Peteinosphaeridium sibiricum (Timofeev, 1966) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

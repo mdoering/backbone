@@ -1,17 +1,16 @@
-Amplariella rubescens f. rubescens FORM
-=======
+# Amanita rubescens (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 79 (1941)
+null
 
 #### Original name
-Amplariella rubescens f. rubescens
+null
 
 ### Remarks
 null

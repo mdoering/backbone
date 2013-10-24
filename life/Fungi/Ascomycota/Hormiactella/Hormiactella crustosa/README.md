@@ -1,5 +1,4 @@
-Hormiactella crustosa V.N. Boriss. SPECIES
-=======
+# Hormiactella crustosa V.N. Boriss. SPECIES
 
 #### Status
 ACCEPTED

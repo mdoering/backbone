@@ -1,5 +1,4 @@
-Alectoria tenerrima Motyka SPECIES
-=======
+# Alectoria tenerrima Motyka SPECIES
 
 #### Status
 ACCEPTED

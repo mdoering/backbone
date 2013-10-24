@@ -1,5 +1,4 @@
-Tosaia hanzawai SPECIES
-=======
+# Tosaia hanzawai SPECIES
 
 #### Status
 ACCEPTED

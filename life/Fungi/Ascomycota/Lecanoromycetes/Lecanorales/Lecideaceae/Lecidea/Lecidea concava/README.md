@@ -1,5 +1,4 @@
-Lecidea concava Müll. Arg. SPECIES
-=======
+# Lecidea concava Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

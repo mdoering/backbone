@@ -1,5 +1,4 @@
-Lecidea physaroides Opiz SPECIES
-=======
+# Lecidea physaroides Opiz SPECIES
 
 #### Status
 ACCEPTED

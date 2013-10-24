@@ -1,5 +1,4 @@
-Simocybe subolivacea (Murrill) Singer SPECIES
-=======
+# Simocybe subolivacea (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

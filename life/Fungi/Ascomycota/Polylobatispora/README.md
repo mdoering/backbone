@@ -1,5 +1,4 @@
-Polylobatispora Matsush. GENUS
-=======
+# Polylobatispora Matsush. GENUS
 
 #### Status
 ACCEPTED

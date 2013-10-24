@@ -1,5 +1,4 @@
-Rinodina deminuta Malme SPECIES
-=======
+# Rinodina deminuta Malme SPECIES
 
 #### Status
 ACCEPTED

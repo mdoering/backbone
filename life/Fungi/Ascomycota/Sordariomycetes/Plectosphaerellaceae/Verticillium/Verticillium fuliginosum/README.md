@@ -1,5 +1,4 @@
-Verticillium fuliginosum Petch SPECIES
-=======
+# Verticillium fuliginosum Petch SPECIES
 
 #### Status
 ACCEPTED

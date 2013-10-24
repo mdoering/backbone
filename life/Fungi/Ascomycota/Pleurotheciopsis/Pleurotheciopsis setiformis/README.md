@@ -1,17 +1,16 @@
-Ampullicephala setiformis (R.F. Castañeda) R.F. Castañeda, Minter & M. Stadler, 2009 SPECIES
-=======
+# Pleurotheciopsis setiformis R.F. Castañeda, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deuteromycotina de Cuba (La Habana), Hyphomycetes 3: 28 (1985)
 
 #### Original name
-null
+Pleurotheciopsis setiformis R.F. Castañeda, 1985
 
 ### Remarks
 null

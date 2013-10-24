@@ -1,5 +1,4 @@
-Pseudoxanthomonas daejeonensis Yang et al., 2005 SPECIES
-=======
+# Pseudoxanthomonas daejeonensis Yang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

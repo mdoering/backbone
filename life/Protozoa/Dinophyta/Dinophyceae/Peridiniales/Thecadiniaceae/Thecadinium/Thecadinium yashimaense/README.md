@@ -1,5 +1,4 @@
-Thecadinium yashimaense Yoshimatsu, Toriumi & Dodge SPECIES
-=======
+# Thecadinium yashimaense Yoshimatsu, Toriumi & Dodge SPECIES
 
 #### Status
 ACCEPTED

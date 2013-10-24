@@ -1,5 +1,4 @@
-Erinella citrinoalba Penz. & Sacc. SPECIES
-=======
+# Erinella citrinoalba Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

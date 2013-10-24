@@ -1,5 +1,4 @@
-Sporormiella calomera S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella calomera S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

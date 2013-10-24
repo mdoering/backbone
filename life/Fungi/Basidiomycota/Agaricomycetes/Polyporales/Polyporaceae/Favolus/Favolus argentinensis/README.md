@@ -1,5 +1,4 @@
-Favolus argentinensis Speg. SPECIES
-=======
+# Favolus argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

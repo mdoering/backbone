@@ -1,5 +1,4 @@
-Gloniella stenogramma (Durieu & Mont.) Rehm SPECIES
-=======
+# Gloniella stenogramma (Durieu & Mont.) Rehm SPECIES
 
 #### Status
 ACCEPTED

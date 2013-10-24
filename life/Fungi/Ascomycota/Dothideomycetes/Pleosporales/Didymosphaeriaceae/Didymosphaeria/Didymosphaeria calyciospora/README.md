@@ -1,5 +1,4 @@
-Didymosphaeria calyciospora (A. Massal.) D. Hawksw. SPECIES
-=======
+# Didymosphaeria calyciospora (A. Massal.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

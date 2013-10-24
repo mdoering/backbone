@@ -1,5 +1,4 @@
-Keramosphaera murrayi Brady, 1882 SPECIES
-=======
+# Keramosphaera murrayi Brady, 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium antillanum R.F. Castañeda, 1987 SPECIES
-=======
+# Cladosporium antillanum R.F. Castañeda, 1987 SPECIES
 
 #### Status
 ACCEPTED

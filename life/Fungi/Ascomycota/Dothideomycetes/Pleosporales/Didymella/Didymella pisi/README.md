@@ -1,5 +1,4 @@
-Didymella pisi Chilvers, J.D. Rogers & Peever, 2009 SPECIES
-=======
+# Didymella pisi Chilvers, J.D. Rogers & Peever, 2009 SPECIES
 
 #### Status
 ACCEPTED

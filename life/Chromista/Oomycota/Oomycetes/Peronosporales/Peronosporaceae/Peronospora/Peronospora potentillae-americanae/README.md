@@ -1,5 +1,4 @@
-Peronospora potentillae-americanae Gäum. SPECIES
-=======
+# Peronospora potentillae-americanae Gäum. SPECIES
 
 #### Status
 ACCEPTED

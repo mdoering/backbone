@@ -1,5 +1,4 @@
-Chamaeceras rigidus (Mont.) Kuntze SPECIES
-=======
+# Chamaeceras rigidus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

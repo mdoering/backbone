@@ -1,5 +1,4 @@
-Uredo tholopsora Cummins SPECIES
-=======
+# Uredo tholopsora Cummins SPECIES
 
 #### Status
 ACCEPTED

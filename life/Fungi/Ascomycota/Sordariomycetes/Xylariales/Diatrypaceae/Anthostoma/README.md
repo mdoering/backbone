@@ -1,5 +1,4 @@
-Anthostoma von Höhnel, 1912 GENUS
-=======
+# Anthostoma von Höhnel, 1912 GENUS
 
 #### Status
 ACCEPTED

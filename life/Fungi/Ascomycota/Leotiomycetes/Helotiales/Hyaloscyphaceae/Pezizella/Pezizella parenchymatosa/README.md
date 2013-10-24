@@ -1,5 +1,4 @@
-Pezizella parenchymatosa Velen. SPECIES
-=======
+# Pezizella parenchymatosa Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria menispora Berk. & Broome SPECIES
-=======
+# Septoria menispora Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

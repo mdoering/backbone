@@ -1,5 +1,4 @@
-Byssosphaeria rubiginosa Cooke SPECIES
-=======
+# Byssosphaeria rubiginosa Cooke SPECIES
 
 #### Status
 ACCEPTED

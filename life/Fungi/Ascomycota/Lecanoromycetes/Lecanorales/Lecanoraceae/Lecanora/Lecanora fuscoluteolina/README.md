@@ -1,5 +1,4 @@
-Lecanora fuscoluteolina Mudd SPECIES
-=======
+# Lecanora fuscoluteolina Mudd SPECIES
 
 #### Status
 ACCEPTED

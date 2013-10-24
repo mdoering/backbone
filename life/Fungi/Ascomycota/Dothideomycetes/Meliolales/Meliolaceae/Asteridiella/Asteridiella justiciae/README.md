@@ -1,5 +1,4 @@
-Asteridiella justiciae Hosag. & G. Rajkumar SPECIES
-=======
+# Asteridiella justiciae Hosag. & G. Rajkumar SPECIES
 
 #### Status
 ACCEPTED

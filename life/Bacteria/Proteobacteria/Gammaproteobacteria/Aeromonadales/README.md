@@ -1,5 +1,4 @@
-Aeromonadales ORDER
-=======
+# Aeromonadales ORDER
 
 #### Status
 ACCEPTED

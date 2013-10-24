@@ -1,5 +1,4 @@
-Placosphaeria magellanica Speg. SPECIES
-=======
+# Placosphaeria magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

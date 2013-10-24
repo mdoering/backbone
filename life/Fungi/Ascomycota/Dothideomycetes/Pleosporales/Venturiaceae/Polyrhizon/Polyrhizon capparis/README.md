@@ -1,17 +1,16 @@
-Polyrhizon capparidis Orejuela SPECIES
-=======
+# Polyrhizon capparis Orejuela SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 36(5): 442 (1944)
 
 #### Original name
-Polyrhizon capparidis Orejuela
+Polyrhizon capparis Orejuela
 
 ### Remarks
 null

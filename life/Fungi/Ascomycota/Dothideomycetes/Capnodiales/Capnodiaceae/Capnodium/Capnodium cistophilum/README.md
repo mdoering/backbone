@@ -1,5 +1,4 @@
-Capnodium cistophilum (Fr.) Maire SPECIES
-=======
+# Capnodium cistophilum (Fr.) Maire SPECIES
 
 #### Status
 ACCEPTED

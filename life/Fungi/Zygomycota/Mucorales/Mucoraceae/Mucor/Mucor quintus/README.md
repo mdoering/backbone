@@ -1,5 +1,4 @@
-Mucor quintus Schaeff. SPECIES
-=======
+# Mucor quintus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

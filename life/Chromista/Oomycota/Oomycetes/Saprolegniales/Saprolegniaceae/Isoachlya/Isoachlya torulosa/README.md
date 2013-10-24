@@ -1,5 +1,4 @@
-Isoachlya torulosa (de Bary) Cejp SPECIES
-=======
+# Isoachlya torulosa (de Bary) Cejp SPECIES
 
 #### Status
 ACCEPTED

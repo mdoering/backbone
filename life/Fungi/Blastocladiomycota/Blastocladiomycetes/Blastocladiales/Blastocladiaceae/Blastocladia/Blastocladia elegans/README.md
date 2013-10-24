@@ -1,5 +1,4 @@
-Blastocladia elegans S.N. Dasgupta & R. John SPECIES
-=======
+# Blastocladia elegans S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

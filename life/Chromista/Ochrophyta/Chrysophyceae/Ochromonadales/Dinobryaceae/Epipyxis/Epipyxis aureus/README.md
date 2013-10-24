@@ -1,5 +1,4 @@
-Epipyxis aureus SPECIES
-=======
+# Epipyxis aureus SPECIES
 
 #### Status
 ACCEPTED

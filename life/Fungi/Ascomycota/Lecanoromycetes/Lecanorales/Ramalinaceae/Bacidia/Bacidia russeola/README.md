@@ -1,5 +1,4 @@
-Bacidia russeola var. russeola VARIETY
-=======
+# Bacidia russeola (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 239 (1926)
 
 #### Original name
-Bacidia russeola var. russeola
+Lecidea russeola Kremp.
 
 ### Remarks
 null

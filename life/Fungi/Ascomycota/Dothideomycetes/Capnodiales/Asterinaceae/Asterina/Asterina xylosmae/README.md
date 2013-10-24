@@ -1,5 +1,4 @@
-Asterina xylosmae J.M. Mend. SPECIES
-=======
+# Asterina xylosmae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma corylina (Thüm.) Sacc. SPECIES
-=======
+# Phoma corylina (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

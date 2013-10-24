@@ -1,5 +1,4 @@
-Polygonium rasulii (Welsch, 1986) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium rasulii (Welsch, 1986) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

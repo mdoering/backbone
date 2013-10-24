@@ -1,5 +1,4 @@
-Discula rugosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Discula rugosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

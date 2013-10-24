@@ -1,5 +1,4 @@
-Bactrospora nematospora R.C. Harris SPECIES
-=======
+# Bactrospora nematospora R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

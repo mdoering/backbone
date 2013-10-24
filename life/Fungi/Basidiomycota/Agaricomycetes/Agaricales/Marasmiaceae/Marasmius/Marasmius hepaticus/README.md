@@ -1,5 +1,4 @@
-Marasmius hepaticus Berk. SPECIES
-=======
+# Marasmius hepaticus Berk. SPECIES
 
 #### Status
 ACCEPTED

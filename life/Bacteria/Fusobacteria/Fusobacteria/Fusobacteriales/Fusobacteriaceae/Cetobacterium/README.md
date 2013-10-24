@@ -1,5 +1,4 @@
-Cetobacterium Foster, Ross, Naylor, Collins, Ramos, Fernandez Garayzabal & Reid, 1996 GENUS
-=======
+# Cetobacterium Foster, Ross, Naylor, Collins, Ramos, Fernandez Garayzabal & Reid, 1996 GENUS
 
 #### Status
 ACCEPTED

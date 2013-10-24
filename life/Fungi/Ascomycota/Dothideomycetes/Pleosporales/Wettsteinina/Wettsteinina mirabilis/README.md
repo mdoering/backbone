@@ -1,17 +1,16 @@
-Heptameria mirabilis (Niessl) Cooke, 1889 SPECIES
-=======
+# Wettsteinina mirabilis (Niessl) Höhn., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 635 (1907)
 
 #### Original name
-null
+Leptosphaeria mirabilis Niessl
 
 ### Remarks
 null

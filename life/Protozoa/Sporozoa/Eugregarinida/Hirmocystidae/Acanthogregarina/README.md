@@ -1,5 +1,4 @@
-Acanthogregarina Kalavati, Narasimhamurti & Vidyullatadevi, 1988 GENUS
-=======
+# Acanthogregarina Kalavati, Narasimhamurti & Vidyullatadevi, 1988 GENUS
 
 #### Status
 ACCEPTED

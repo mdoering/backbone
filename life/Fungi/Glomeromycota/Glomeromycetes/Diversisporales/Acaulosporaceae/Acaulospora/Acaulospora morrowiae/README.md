@@ -1,17 +1,16 @@
-Acaulospora morrowae Spain & N.C. Schenck SPECIES
-=======
+# Acaulospora morrowiae Spain & N.C. Schenck, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Schenck, Spain, Sieverding & Howeler, Mycologia 76(4): 692 (1984)
 
 #### Original name
-Acaulospora morrowae Spain & N.C. Schenck
+Acaulospora morrowiae Spain & N.C. Schenck, 1984
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichophyton fuscosulcatum Nann. SPECIES
-=======
+# Trichophyton fuscosulcatum Nann. SPECIES
 
 #### Status
 ACCEPTED

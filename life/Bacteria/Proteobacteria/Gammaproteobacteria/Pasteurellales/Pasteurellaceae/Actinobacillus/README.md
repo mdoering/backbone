@@ -1,5 +1,4 @@
-Actinobacillus GENUS
-=======
+# Actinobacillus GENUS
 
 #### Status
 ACCEPTED

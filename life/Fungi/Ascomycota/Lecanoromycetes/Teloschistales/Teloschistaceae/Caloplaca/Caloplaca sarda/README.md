@@ -1,5 +1,4 @@
-Caloplaca sarda Poelt & Nimis SPECIES
-=======
+# Caloplaca sarda Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED

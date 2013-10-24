@@ -1,5 +1,4 @@
-Phlebopus (R. Heim) Singer GENUS
-=======
+# Phlebopus (R. Heim) Singer GENUS
 
 #### Status
 ACCEPTED

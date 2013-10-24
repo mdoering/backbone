@@ -1,5 +1,4 @@
-Cytospora tritici Punith., 1980 SPECIES
-=======
+# Cytospora tritici Punith., 1980 SPECIES
 
 #### Status
 ACCEPTED

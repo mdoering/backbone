@@ -1,17 +1,16 @@
-Parmelia exoriens Stirt. SPECIES
-=======
+# Canoparmelia texana (Tuck.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 32: 75 (1899)
+in Elix, Johnston & Verdon, Mycotaxon 27: 279 (1986)
 
 #### Original name
-Parmelia exoriens Stirt.
+Parmelia texana Tuck.
 
 ### Remarks
 null

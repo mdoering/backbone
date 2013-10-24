@@ -1,5 +1,4 @@
-Candida suzukii G. Péter, Tornai-Leh., Fülöp & Dlauchy SPECIES
-=======
+# Candida suzukii G. Péter, Tornai-Leh., Fülöp & Dlauchy SPECIES
 
 #### Status
 ACCEPTED

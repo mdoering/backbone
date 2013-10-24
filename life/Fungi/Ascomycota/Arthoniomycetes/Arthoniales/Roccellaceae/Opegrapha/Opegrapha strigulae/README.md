@@ -1,5 +1,4 @@
-Opegrapha strigulae R. Sant. SPECIES
-=======
+# Opegrapha strigulae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

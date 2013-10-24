@@ -1,5 +1,4 @@
-Coleosporium paederiae Dietel SPECIES
-=======
+# Coleosporium paederiae Dietel SPECIES
 
 #### Status
 ACCEPTED

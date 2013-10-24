@@ -1,5 +1,4 @@
-Desmotrichium GENUS
-=======
+# Desmotrichium GENUS
 
 #### Status
 ACCEPTED

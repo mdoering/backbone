@@ -1,5 +1,4 @@
-Lophiostoma fuegianum Speg. SPECIES
-=======
+# Lophiostoma fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

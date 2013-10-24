@@ -1,5 +1,4 @@
-Echinostrombidium Yankovskij, 1978 GENUS
-=======
+# Echinostrombidium Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

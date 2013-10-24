@@ -1,14 +1,13 @@
-Lyomyces papillosus (Fr.) P. Karst., 1881 SPECIES
-=======
+# Hyphodontia papillosa (Fr.) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 3(9): 23 (1881)
+Symb. bot. upsal. 16(no. 1): 104 (1958)
 
 #### Original name
 Thelephora papillosa Fr., 1828

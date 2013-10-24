@@ -1,14 +1,13 @@
-Perichaena minor var. pardina (Minakata) Hagelst. VARIETY
-=======
+# Hemitrichia pardina (Minakata) Ing, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 35(1): 131 (1943)
+The Myxomycetes of Britain and Ireland (Slough), An Identification Handbook 132 (1999)
 
 #### Original name
 Hemitrichia minor pardina Minakata, 1915

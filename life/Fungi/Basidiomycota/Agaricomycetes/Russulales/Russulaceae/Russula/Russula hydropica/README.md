@@ -1,5 +1,4 @@
-Russula hydropica Buyck SPECIES
-=======
+# Russula hydropica Buyck SPECIES
 
 #### Status
 ACCEPTED

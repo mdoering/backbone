@@ -1,5 +1,4 @@
-Stigmina ahmadii B. Sutton SPECIES
-=======
+# Stigmina ahmadii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusiformisporites Rouse GENUS
-=======
+# Fusiformisporites Rouse GENUS
 
 #### Status
 ACCEPTED

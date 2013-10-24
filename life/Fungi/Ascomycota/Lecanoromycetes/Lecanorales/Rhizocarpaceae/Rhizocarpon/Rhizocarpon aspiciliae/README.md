@@ -1,5 +1,4 @@
-Rhizocarpon aspiciliae (Räsänen) D. Hawksw. & V. Atienza SPECIES
-=======
+# Rhizocarpon aspiciliae (Räsänen) D. Hawksw. & V. Atienza SPECIES
 
 #### Status
 ACCEPTED

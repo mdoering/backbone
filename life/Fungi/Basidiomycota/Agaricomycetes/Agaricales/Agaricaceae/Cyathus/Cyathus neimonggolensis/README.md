@@ -1,5 +1,4 @@
-Cyathus neimonggolensis B. Liu & Y.M. Li SPECIES
-=======
+# Cyathus neimonggolensis B. Liu & Y.M. Li SPECIES
 
 #### Status
 ACCEPTED

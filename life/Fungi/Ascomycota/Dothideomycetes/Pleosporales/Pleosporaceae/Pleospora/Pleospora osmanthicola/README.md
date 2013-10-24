@@ -1,5 +1,4 @@
-Pleospora osmanthicola Dzhalag. SPECIES
-=======
+# Pleospora osmanthicola Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

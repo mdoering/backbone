@@ -1,14 +1,13 @@
-Locellina australiensis (Cleland & Cheel) Cleland, 1924 SPECIES
-=======
+# Cortinarius australiensis (Cleland & Cheel) E. Horak, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. South Australia 48: 242 (1924)
+Sydowia 34: 106 (1981)
 
 #### Original name
 Rozites australiensis Cleland & Cheel, 1918

@@ -1,5 +1,4 @@
-Rhinocladium corticola Massee SPECIES
-=======
+# Rhinocladium corticola Massee SPECIES
 
 #### Status
 ACCEPTED

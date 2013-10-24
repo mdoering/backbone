@@ -1,5 +1,4 @@
-Septocytella bambusina Syd., 1929 SPECIES
-=======
+# Septocytella bambusina Syd., 1929 SPECIES
 
 #### Status
 ACCEPTED

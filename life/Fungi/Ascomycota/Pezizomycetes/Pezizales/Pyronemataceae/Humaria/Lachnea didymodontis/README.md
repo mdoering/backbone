@@ -1,5 +1,4 @@
-Lachnea didymodontis Henn. SPECIES
-=======
+# Lachnea didymodontis Henn. SPECIES
 
 #### Status
 ACCEPTED

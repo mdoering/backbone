@@ -1,5 +1,4 @@
-Scortechinia massae (Cif.) Arx & E. Müll. SPECIES
-=======
+# Scortechinia massae (Cif.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

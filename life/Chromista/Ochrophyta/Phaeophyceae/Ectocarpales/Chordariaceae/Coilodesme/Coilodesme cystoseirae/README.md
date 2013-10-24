@@ -1,8 +1,7 @@
-Asperococcus cystoseirae Ruprecht SPECIES
-=======
+# Coilodesme cystoseirae (Ruprecht) Setchell & N.L. Gardner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

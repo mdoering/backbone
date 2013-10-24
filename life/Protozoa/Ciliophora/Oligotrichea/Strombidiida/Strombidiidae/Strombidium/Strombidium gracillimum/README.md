@@ -1,5 +1,4 @@
-Strombidium gracillimum SPECIES
-=======
+# Strombidium gracillimum SPECIES
 
 #### Status
 ACCEPTED

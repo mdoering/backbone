@@ -1,5 +1,4 @@
-Tricholoma zonatum Velen. SPECIES
-=======
+# Tricholoma zonatum Velen. SPECIES
 
 #### Status
 ACCEPTED

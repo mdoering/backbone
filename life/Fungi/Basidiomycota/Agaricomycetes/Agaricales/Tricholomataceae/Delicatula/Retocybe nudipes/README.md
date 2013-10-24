@@ -1,5 +1,4 @@
-Retocybe nudipes Velen. SPECIES
-=======
+# Retocybe nudipes Velen. SPECIES
 
 #### Status
 ACCEPTED

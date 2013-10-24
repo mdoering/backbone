@@ -1,5 +1,4 @@
-Puccinia smilacis-chinae Henn. SPECIES
-=======
+# Puccinia smilacis-chinae Henn. SPECIES
 
 #### Status
 ACCEPTED

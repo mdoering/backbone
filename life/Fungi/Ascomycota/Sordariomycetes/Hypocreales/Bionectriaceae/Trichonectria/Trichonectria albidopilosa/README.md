@@ -1,5 +1,4 @@
-Trichonectria albidopilosa (Rogerson & Samuels) Samuels SPECIES
-=======
+# Trichonectria albidopilosa (Rogerson & Samuels) Samuels SPECIES
 
 #### Status
 ACCEPTED

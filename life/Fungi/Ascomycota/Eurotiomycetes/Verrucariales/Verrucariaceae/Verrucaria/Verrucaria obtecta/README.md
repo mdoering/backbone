@@ -1,5 +1,4 @@
-Verrucaria obtecta Müll. Arg. SPECIES
-=======
+# Verrucaria obtecta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

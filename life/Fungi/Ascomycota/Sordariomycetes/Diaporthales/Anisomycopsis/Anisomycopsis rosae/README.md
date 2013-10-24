@@ -1,5 +1,4 @@
-Anisomycopsis rosae I. Hino & Katum., 1964 SPECIES
-=======
+# Anisomycopsis rosae I. Hino & Katum., 1964 SPECIES
 
 #### Status
 ACCEPTED

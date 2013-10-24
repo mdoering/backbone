@@ -1,5 +1,4 @@
-Colletotrichum acaciae Gutner SPECIES
-=======
+# Colletotrichum acaciae Gutner SPECIES
 
 #### Status
 ACCEPTED

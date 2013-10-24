@@ -1,5 +1,4 @@
-Hyponectria biparasitica Höhn. SPECIES
-=======
+# Hyponectria biparasitica Höhn. SPECIES
 
 #### Status
 ACCEPTED

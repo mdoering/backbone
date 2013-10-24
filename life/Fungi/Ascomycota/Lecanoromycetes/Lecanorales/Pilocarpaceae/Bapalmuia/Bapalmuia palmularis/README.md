@@ -1,14 +1,13 @@
-Bacidia palmularis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bapalmuia palmularis (Müll. Arg.) Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 4: 231 (1926)
+Nordic Jl Bot. 13(4): 451 (1993)
 
 #### Original name
 null

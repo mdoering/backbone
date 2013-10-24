@@ -1,5 +1,4 @@
-Dacrymycella beijerinckii Koord. SPECIES
-=======
+# Dacrymycella beijerinckii Koord. SPECIES
 
 #### Status
 ACCEPTED

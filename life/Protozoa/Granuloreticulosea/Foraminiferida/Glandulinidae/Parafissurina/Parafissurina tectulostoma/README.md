@@ -1,5 +1,4 @@
-Parafissurina tectulostoma SPECIES
-=======
+# Parafissurina tectulostoma SPECIES
 
 #### Status
 ACCEPTED

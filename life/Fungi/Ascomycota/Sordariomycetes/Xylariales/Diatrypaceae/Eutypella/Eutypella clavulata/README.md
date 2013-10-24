@@ -1,5 +1,4 @@
-Eutypella clavulata Cooke SPECIES
-=======
+# Eutypella clavulata Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella candelariellae Diederich & Etayo SPECIES
-=======
+# Tremella candelariellae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

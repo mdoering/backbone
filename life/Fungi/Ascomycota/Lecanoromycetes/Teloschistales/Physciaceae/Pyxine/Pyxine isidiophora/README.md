@@ -1,5 +1,4 @@
-Pyxine isidiophora (Müll. Arg.) Imshaug SPECIES
-=======
+# Pyxine isidiophora (Müll. Arg.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

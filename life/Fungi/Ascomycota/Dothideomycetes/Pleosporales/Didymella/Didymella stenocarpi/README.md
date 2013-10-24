@@ -1,5 +1,4 @@
-Didymella stenocarpi Tassi SPECIES
-=======
+# Didymella stenocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

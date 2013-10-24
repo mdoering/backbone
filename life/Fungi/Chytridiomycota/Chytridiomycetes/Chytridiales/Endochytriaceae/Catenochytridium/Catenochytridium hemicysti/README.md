@@ -1,5 +1,4 @@
-Catenochytridium hemicysti J.S. Knox, 1987 SPECIES
-=======
+# Catenochytridium hemicysti J.S. Knox, 1987 SPECIES
 
 #### Status
 ACCEPTED

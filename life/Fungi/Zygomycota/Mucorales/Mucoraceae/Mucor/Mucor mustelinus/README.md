@@ -1,17 +1,16 @@
-Mucor mustellinus Pipek SPECIES
-=======
+# Mucor mustelinus Pipek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta bot. Inst. bot. , Zagreb 4: 88 (1929)
 
 #### Original name
-Mucor mustellinus Pipek
+Mucor mustelinus Pipek
 
 ### Remarks
 null

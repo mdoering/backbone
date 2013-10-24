@@ -1,5 +1,4 @@
-Nectria blumenaviae Rehm SPECIES
-=======
+# Nectria blumenaviae Rehm SPECIES
 
 #### Status
 ACCEPTED

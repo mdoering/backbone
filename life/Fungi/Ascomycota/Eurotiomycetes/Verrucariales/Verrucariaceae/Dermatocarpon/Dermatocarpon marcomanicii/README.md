@@ -1,5 +1,4 @@
-Dermatocarpon marcomanicii (A. Massal.) Zahlbr. SPECIES
-=======
+# Dermatocarpon marcomanicii (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

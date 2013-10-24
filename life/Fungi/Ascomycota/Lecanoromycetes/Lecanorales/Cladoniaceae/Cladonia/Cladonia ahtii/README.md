@@ -1,5 +1,4 @@
-Cladonia ahtii S. Stenroos SPECIES
-=======
+# Cladonia ahtii S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

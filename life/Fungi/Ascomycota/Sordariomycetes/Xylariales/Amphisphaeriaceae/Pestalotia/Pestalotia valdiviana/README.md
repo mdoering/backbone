@@ -1,5 +1,4 @@
-Pestalotia valdiviana Speg. SPECIES
-=======
+# Pestalotia valdiviana Speg. SPECIES
 
 #### Status
 ACCEPTED

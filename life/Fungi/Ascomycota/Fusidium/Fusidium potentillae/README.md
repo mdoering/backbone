@@ -1,5 +1,4 @@
-Fusidium potentillae Thüm. SPECIES
-=======
+# Fusidium potentillae Thüm. SPECIES
 
 #### Status
 ACCEPTED

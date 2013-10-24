@@ -1,5 +1,4 @@
-Clitopilus hrbanovii (Velen.) Singer SPECIES
-=======
+# Clitopilus hrbanovii (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

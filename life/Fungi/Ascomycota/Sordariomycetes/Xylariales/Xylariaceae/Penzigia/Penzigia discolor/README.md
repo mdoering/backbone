@@ -1,5 +1,4 @@
-Penzigia discolor (Berk. & Broome) J.H. Mill. SPECIES
-=======
+# Penzigia discolor (Berk. & Broome) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

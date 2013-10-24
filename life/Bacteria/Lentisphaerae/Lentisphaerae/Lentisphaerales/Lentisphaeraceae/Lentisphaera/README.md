@@ -1,5 +1,4 @@
-Lentisphaera Cho, Vergin, Morris & Giovannoni, 2004 GENUS
-=======
+# Lentisphaera Cho, Vergin, Morris & Giovannoni, 2004 GENUS
 
 #### Status
 ACCEPTED

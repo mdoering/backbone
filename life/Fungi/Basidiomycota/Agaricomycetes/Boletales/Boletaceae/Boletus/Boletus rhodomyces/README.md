@@ -1,5 +1,4 @@
-Boletus rhodomyces Berk. & M.A. Curtis SPECIES
-=======
+# Boletus rhodomyces Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

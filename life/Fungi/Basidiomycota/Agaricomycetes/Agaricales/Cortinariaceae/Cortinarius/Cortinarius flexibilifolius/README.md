@@ -1,5 +1,4 @@
-Cortinarius flexibilifolius Carteret SPECIES
-=======
+# Cortinarius flexibilifolius Carteret SPECIES
 
 #### Status
 ACCEPTED

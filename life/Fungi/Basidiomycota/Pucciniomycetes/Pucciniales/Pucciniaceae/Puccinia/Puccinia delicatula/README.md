@@ -1,5 +1,4 @@
-Puccinia delicatula var. delicatula VARIETY
-=======
+# Puccinia delicatula (Arthur) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Saccardo, Syll. fung. (Abellini) 21: 657 (1912)
 
 #### Original name
-Puccinia delicatula var. delicatula
+Polioma delicatula Arthur
 
 ### Remarks
 null

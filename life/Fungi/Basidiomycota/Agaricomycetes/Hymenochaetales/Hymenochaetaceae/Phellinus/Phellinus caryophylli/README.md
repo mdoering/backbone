@@ -1,14 +1,13 @@
-Fomitiporella caryophylii (Racib.) T. Wagner & M. Fisch. SPECIES
-=======
+# Phellinus caryophylli (Racib.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 238 (1965)
 
 #### Original name
 Trametes caryophylli Racib., 1900

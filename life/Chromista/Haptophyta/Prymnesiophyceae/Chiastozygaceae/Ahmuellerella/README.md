@@ -1,14 +1,13 @@
-Alfordia M. Black, 1975 GENUS
-=======
+# Ahmuellerella P.Reinhardt, 1964 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Lower Cretaceous coccoliths. 1. Gault Clay. Palaeontogr. Soc. (Monogr. ) 129 (543): 125.
+Monatsber. Deutsch. Akad. Wiss. Berlin 6: 749.
 
 #### Original name
 null

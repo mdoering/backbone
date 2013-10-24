@@ -1,5 +1,4 @@
-Homodium granuliforme Boistel SPECIES
-=======
+# Homodium granuliforme Boistel SPECIES
 
 #### Status
 ACCEPTED

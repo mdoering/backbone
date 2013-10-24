@@ -1,5 +1,4 @@
-Phyllosticta jahniana Petr. & Sacc. SPECIES
-=======
+# Phyllosticta jahniana Petr. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

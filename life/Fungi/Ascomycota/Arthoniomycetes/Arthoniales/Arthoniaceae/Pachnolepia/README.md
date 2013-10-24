@@ -1,5 +1,4 @@
-Pachnolepia GENUS
-=======
+# Pachnolepia GENUS
 
 #### Status
 ACCEPTED

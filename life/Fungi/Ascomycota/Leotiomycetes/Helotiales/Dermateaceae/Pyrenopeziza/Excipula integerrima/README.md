@@ -1,5 +1,4 @@
-Excipula integerrima Fr. SPECIES
-=======
+# Excipula integerrima Fr. SPECIES
 
 #### Status
 ACCEPTED

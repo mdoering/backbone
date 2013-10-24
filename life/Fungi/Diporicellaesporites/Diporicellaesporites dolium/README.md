@@ -1,5 +1,4 @@
-Diporicellaesporites dolium P. Ke & Z.Y. Shi SPECIES
-=======
+# Diporicellaesporites dolium P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

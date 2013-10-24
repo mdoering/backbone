@@ -1,5 +1,4 @@
-Flabellimycena Redhead GENUS
-=======
+# Flabellimycena Redhead GENUS
 
 #### Status
 ACCEPTED

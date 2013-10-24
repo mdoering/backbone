@@ -1,5 +1,4 @@
-Pseudonectria reticulospora Natarajan SPECIES
-=======
+# Pseudonectria reticulospora Natarajan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ralfsia clavata SPECIES
-=======
+# Ralfsia clavata SPECIES
 
 #### Status
 ACCEPTED

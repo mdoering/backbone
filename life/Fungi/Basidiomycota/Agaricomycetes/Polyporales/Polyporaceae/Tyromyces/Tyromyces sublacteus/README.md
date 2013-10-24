@@ -1,5 +1,4 @@
-Tyromyces sublacteus M.P. Christ., 1960 SPECIES
-=======
+# Tyromyces sublacteus M.P. Christ., 1960 SPECIES
 
 #### Status
 ACCEPTED

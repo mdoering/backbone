@@ -1,5 +1,4 @@
-Anisomeridium antillarum (Vain.) R.C. Harris SPECIES
-=======
+# Anisomeridium antillarum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

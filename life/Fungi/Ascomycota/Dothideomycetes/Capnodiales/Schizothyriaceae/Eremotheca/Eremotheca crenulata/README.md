@@ -1,5 +1,4 @@
-Eremotheca crenulata Bat. SPECIES
-=======
+# Eremotheca crenulata Bat. SPECIES
 
 #### Status
 ACCEPTED

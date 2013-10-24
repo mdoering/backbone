@@ -1,5 +1,4 @@
-Cornularia urticae Ellis & Everh. SPECIES
-=======
+# Cornularia urticae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

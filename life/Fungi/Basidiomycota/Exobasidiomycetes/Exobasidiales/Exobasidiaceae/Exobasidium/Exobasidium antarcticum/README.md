@@ -1,5 +1,4 @@
-Exobasidium antarcticum Speg. SPECIES
-=======
+# Exobasidium antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

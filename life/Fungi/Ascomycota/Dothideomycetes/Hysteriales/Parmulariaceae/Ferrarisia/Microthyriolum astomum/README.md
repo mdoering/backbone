@@ -1,5 +1,4 @@
-Microthyriolum astomum Speg. SPECIES
-=======
+# Microthyriolum astomum Speg. SPECIES
 
 #### Status
 ACCEPTED

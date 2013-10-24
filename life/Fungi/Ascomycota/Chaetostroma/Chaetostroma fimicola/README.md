@@ -1,5 +1,4 @@
-Chaetostroma fimicola Massee & E.S. Salmon SPECIES
-=======
+# Chaetostroma fimicola Massee & E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED

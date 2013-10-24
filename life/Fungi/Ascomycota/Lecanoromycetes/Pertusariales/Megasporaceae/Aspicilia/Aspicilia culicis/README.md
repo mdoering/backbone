@@ -1,5 +1,4 @@
-Aspicilia culicis (Lynge) SPECIES
-=======
+# Aspicilia culicis (Lynge) SPECIES
 
 #### Status
 ACCEPTED

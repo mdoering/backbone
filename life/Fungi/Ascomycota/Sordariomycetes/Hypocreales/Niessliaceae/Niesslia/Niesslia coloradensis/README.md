@@ -1,5 +1,4 @@
-Niesslia coloradensis (E.K. Cash & R.W. Davidson) W. Gams SPECIES
-=======
+# Niesslia coloradensis (E.K. Cash & R.W. Davidson) W. Gams SPECIES
 
 #### Status
 ACCEPTED

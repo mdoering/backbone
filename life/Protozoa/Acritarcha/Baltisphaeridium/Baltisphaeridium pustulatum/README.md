@@ -1,5 +1,4 @@
-Baltisphaeridium pustulatum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium pustulatum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

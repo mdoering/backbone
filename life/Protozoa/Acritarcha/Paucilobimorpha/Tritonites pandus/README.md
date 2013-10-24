@@ -1,5 +1,4 @@
-Tritonites pandus Marshall & Partridge, 1988 SPECIES
-=======
+# Tritonites pandus Marshall & Partridge, 1988 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Meliola boninensis Speg. SPECIES
-=======
+# Meliola boninensis Speg. SPECIES
 
 #### Status
 ACCEPTED

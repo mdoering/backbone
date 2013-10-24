@@ -1,5 +1,4 @@
-Pleospora biebersteinii Gucevic SPECIES
-=======
+# Pleospora biebersteinii Gucevic SPECIES
 
 #### Status
 ACCEPTED

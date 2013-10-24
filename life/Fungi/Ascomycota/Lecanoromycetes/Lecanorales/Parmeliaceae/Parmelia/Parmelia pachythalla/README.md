@@ -1,5 +1,4 @@
-Parmelia pachythalla Spreng. ex Nyl. SPECIES
-=======
+# Parmelia pachythalla Spreng. ex Nyl. SPECIES
 
 #### Status
 ACCEPTED

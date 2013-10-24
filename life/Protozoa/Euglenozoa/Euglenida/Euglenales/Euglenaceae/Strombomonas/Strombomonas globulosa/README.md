@@ -1,5 +1,4 @@
-Strombomonas globulosa var. minor V. Conforti & G.-J. Joo VARIETY
-=======
+# Strombomonas globulosa V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

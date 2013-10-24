@@ -1,5 +1,4 @@
-Isaria stenobothri Hollande & Moreau SPECIES
-=======
+# Isaria stenobothri Hollande & Moreau SPECIES
 
 #### Status
 ACCEPTED

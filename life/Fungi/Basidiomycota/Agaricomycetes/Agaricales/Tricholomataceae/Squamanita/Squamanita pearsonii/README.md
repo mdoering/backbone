@@ -1,14 +1,13 @@
-Dissoderma pearsonii (Bas) Bon, 1999 SPECIES
-=======
+# Squamanita pearsonii Bas, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 29(no. 115): 34 (1999)
+Persoonia 3(3): 345 (1965)
 
 #### Original name
 Squamanita pearsonii Bas, 1965

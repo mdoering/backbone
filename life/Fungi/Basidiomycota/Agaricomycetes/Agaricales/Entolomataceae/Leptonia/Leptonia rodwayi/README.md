@@ -1,5 +1,4 @@
-Leptonia rodwayi Massee SPECIES
-=======
+# Leptonia rodwayi Massee SPECIES
 
 #### Status
 ACCEPTED

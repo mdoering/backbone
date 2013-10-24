@@ -1,5 +1,4 @@
-Dendrophoma punicina Sacc. SPECIES
-=======
+# Dendrophoma punicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

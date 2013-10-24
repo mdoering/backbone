@@ -1,5 +1,4 @@
-Ramonia chrysophaea (Pers.) Vezda SPECIES
-=======
+# Ramonia chrysophaea (Pers.) Vezda SPECIES
 
 #### Status
 ACCEPTED

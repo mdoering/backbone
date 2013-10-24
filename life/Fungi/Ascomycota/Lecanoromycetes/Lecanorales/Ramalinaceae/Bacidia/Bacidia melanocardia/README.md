@@ -1,5 +1,4 @@
-Bacidia melanocardia Zahlbr. SPECIES
-=======
+# Bacidia melanocardia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

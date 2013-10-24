@@ -1,5 +1,4 @@
-Tatlockia Garrity et al., 1980 GENUS
-=======
+# Tatlockia Garrity et al., 1980 GENUS
 
 #### Status
 ACCEPTED

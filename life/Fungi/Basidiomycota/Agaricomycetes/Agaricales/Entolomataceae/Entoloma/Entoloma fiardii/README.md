@@ -1,5 +1,4 @@
-Entoloma fiardii Courtec. SPECIES
-=======
+# Entoloma fiardii Courtec. SPECIES
 
 #### Status
 ACCEPTED

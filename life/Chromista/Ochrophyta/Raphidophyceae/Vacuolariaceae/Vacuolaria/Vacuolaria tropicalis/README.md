@@ -1,5 +1,4 @@
-Vacuolaria tropicalis C.E.M.Bicudo & M.B.Cardoso, 1973 SPECIES
-=======
+# Vacuolaria tropicalis C.E.M.Bicudo & M.B.Cardoso, 1973 SPECIES
 
 #### Status
 ACCEPTED

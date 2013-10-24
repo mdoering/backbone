@@ -1,5 +1,4 @@
-Agaricus dicystis Heinem. SPECIES
-=======
+# Agaricus dicystis Heinem. SPECIES
 
 #### Status
 ACCEPTED

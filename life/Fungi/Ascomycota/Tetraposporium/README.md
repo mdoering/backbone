@@ -1,5 +1,4 @@
-Tetraposporium S. Hughes GENUS
-=======
+# Tetraposporium S. Hughes GENUS
 
 #### Status
 ACCEPTED

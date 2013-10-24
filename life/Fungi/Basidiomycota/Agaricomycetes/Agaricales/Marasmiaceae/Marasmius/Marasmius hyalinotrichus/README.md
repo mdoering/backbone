@@ -1,5 +1,4 @@
-Marasmius hyalinotrichus Singer SPECIES
-=======
+# Marasmius hyalinotrichus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glioannellodochium Matsush. GENUS
-=======
+# Glioannellodochium Matsush. GENUS
 
 #### Status
 ACCEPTED

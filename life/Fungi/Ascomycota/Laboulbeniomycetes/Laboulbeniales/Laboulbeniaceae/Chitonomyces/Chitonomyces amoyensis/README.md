@@ -1,5 +1,4 @@
-Chitonomyces amoyensis Thaxt. SPECIES
-=======
+# Chitonomyces amoyensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

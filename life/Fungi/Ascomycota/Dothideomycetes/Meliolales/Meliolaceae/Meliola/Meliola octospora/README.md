@@ -1,5 +1,4 @@
-Meliola octospora Cooke SPECIES
-=======
+# Meliola octospora Cooke SPECIES
 
 #### Status
 ACCEPTED

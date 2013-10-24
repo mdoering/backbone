@@ -1,5 +1,4 @@
-Gorgonisphaeridium inflatum Wicander & Wood, 1981 SPECIES
-=======
+# Gorgonisphaeridium inflatum Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

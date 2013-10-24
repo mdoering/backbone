@@ -1,5 +1,4 @@
-Balladynopsis vanderystii Hansf. SPECIES
-=======
+# Balladynopsis vanderystii Hansf. SPECIES
 
 #### Status
 ACCEPTED

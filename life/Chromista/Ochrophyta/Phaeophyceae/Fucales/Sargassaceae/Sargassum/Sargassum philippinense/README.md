@@ -1,5 +1,4 @@
-Sargassum philippinense Grunow SPECIES
-=======
+# Sargassum philippinense Grunow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma galeopsidis Nitschke SPECIES
-=======
+# Lophiostoma galeopsidis Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zignoella corticola (Fuckel) Sacc., 1878 SPECIES
-=======
+# Lophiostoma corticola (Fuckel) E.C.Y. Liew, Aptroot & K.D. Hyde, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 94(5): 812 (2002)
 
 #### Original name
-null
+Trematosphaeria corticola Fuckel, 1870
 
 ### Remarks
 null

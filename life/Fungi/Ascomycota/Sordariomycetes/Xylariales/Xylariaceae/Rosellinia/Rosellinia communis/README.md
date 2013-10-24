@@ -1,5 +1,4 @@
-Rosellinia communis L.E. Petrini, 2003 SPECIES
-=======
+# Rosellinia communis L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

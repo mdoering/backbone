@@ -1,5 +1,4 @@
-Leptosphaeria subsuperficialis Sacc. & P. Syd. SPECIES
-=======
+# Leptosphaeria subsuperficialis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

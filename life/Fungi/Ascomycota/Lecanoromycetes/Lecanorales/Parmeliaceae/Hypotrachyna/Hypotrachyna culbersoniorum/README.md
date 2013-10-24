@@ -1,5 +1,4 @@
-Hypotrachyna culbersoniorum Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna culbersoniorum Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

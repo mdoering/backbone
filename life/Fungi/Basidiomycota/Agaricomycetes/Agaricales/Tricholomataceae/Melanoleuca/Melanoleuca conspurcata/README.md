@@ -1,5 +1,4 @@
-Melanoleuca conspurcata (Berk. & Broome) Pegler SPECIES
-=======
+# Melanoleuca conspurcata (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

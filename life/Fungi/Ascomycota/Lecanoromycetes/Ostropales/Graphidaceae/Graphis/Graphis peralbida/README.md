@@ -1,5 +1,4 @@
-Graphis peralbida Nyl. SPECIES
-=======
+# Graphis peralbida Nyl. SPECIES
 
 #### Status
 ACCEPTED

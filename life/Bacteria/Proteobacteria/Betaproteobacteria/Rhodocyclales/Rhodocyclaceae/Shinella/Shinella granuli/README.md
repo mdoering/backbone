@@ -1,5 +1,4 @@
-Shinella granuli An et al., 2006 SPECIES
-=======
+# Shinella granuli An et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

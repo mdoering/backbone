@@ -1,5 +1,4 @@
-Amphidinium elegans Grell & Wohlfarth-Bottermann SPECIES
-=======
+# Amphidinium elegans Grell & Wohlfarth-Bottermann SPECIES
 
 #### Status
 ACCEPTED

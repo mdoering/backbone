@@ -1,5 +1,4 @@
-Aecidium brassicae Trab. SPECIES
-=======
+# Aecidium brassicae Trab. SPECIES
 
 #### Status
 ACCEPTED

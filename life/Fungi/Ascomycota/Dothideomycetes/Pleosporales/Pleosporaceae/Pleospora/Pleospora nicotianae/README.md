@@ -1,5 +1,4 @@
-Pleospora nicotianae Av.-Saccá SPECIES
-=======
+# Pleospora nicotianae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

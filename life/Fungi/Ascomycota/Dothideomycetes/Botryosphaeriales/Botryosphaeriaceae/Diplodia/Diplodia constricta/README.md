@@ -1,5 +1,4 @@
-Diplodia constricta Dearn. SPECIES
-=======
+# Diplodia constricta Dearn. SPECIES
 
 #### Status
 ACCEPTED

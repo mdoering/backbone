@@ -1,5 +1,4 @@
-Phaeobotryon GENUS
-=======
+# Phaeobotryon GENUS
 
 #### Status
 ACCEPTED

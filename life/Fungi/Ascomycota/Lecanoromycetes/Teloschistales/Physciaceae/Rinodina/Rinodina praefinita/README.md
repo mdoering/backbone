@@ -1,5 +1,4 @@
-Rinodina praefinita SPECIES
-=======
+# Rinodina praefinita SPECIES
 
 #### Status
 ACCEPTED

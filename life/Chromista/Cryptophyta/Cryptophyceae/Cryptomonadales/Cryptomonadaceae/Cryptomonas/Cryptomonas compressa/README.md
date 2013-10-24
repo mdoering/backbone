@@ -1,5 +1,4 @@
-Cryptomonas compressa Pascher SPECIES
-=======
+# Cryptomonas compressa Pascher SPECIES
 
 #### Status
 ACCEPTED

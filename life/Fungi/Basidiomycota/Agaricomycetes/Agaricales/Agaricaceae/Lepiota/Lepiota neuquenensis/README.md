@@ -1,5 +1,4 @@
-Lepiota neuquenensis Singer SPECIES
-=======
+# Lepiota neuquenensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporidium stephaniae Sawada SPECIES
-=======
+# Cercosporidium stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

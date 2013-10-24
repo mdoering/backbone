@@ -1,5 +1,4 @@
-Stephanodiscus bramaputrae Ehrenberg SPECIES
-=======
+# Stephanodiscus bramaputrae Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

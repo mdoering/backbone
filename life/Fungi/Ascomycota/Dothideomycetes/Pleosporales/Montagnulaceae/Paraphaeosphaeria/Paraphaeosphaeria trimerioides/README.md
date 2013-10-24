@@ -1,5 +1,4 @@
-Paraphaeosphaeria trimerioides (Rehm) Shearer, Huhndorf & J.L. Crane SPECIES
-=======
+# Paraphaeosphaeria trimerioides (Rehm) Shearer, Huhndorf & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

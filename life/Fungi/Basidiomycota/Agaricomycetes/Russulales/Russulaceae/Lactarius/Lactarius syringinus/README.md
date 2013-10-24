@@ -1,5 +1,4 @@
-Lactarius syringinus Z. Schaef. SPECIES
-=======
+# Lactarius syringinus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

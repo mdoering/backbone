@@ -1,17 +1,16 @@
-Arthrobotryum atrum var. atrum VARIETY
-=======
+# Phragmocephala atra (Berk. & Broome) E.W. Mason & S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3: 361 (1859)
+Naturalist 97 (1951)
 
 #### Original name
-Arthrobotryum atrum var. atrum
+Arthrobotryum atrum Berk. & Broome, 1859
 
 ### Remarks
 null

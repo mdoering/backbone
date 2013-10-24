@@ -1,5 +1,4 @@
-Halorubrum terrestre Ventosa et al., 2004 SPECIES
-=======
+# Halorubrum terrestre Ventosa et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vagococcus salmoninarum Wallbanks et al., 1990 SPECIES
-=======
+# Vagococcus salmoninarum Wallbanks et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrinula Petr. & Syd. GENUS
-=======
+# Thyrinula Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

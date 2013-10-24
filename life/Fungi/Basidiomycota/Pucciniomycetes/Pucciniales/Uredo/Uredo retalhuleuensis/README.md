@@ -1,5 +1,4 @@
-Uredo retalhuleuensis Z. Urb. SPECIES
-=======
+# Uredo retalhuleuensis Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

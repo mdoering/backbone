@@ -1,5 +1,4 @@
-Laribacter Yuen et al., 2002 GENUS
-=======
+# Laribacter Yuen et al., 2002 GENUS
 
 #### Status
 ACCEPTED

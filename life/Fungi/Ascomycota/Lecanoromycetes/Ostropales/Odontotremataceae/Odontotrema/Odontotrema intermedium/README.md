@@ -1,5 +1,4 @@
-Odontotrema intermedium Diederich, Zhurb. & Etayo SPECIES
-=======
+# Odontotrema intermedium Diederich, Zhurb. & Etayo SPECIES
 
 #### Status
 ACCEPTED

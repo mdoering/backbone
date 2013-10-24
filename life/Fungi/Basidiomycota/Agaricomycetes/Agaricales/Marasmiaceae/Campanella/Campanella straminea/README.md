@@ -1,5 +1,4 @@
-Campanella straminea P.G. Liu SPECIES
-=======
+# Campanella straminea P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

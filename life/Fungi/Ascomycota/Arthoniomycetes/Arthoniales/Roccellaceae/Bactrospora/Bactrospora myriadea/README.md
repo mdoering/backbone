@@ -1,5 +1,4 @@
-Bactrospora myriadea (Fée) Egea & Torrente SPECIES
-=======
+# Bactrospora myriadea (Fée) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

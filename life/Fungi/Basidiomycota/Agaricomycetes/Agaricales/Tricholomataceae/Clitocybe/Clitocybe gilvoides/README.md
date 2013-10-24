@@ -1,5 +1,4 @@
-Clitocybe gilvoides Rick SPECIES
-=======
+# Clitocybe gilvoides Rick SPECIES
 
 #### Status
 ACCEPTED

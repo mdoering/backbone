@@ -1,5 +1,4 @@
-Ochrolechia blandior (Nyl.) Darb. SPECIES
-=======
+# Ochrolechia blandior (Nyl.) Darb. SPECIES
 
 #### Status
 ACCEPTED

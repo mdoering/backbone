@@ -1,5 +1,4 @@
-Cercospora echiorum Maire SPECIES
-=======
+# Cercospora echiorum Maire SPECIES
 
 #### Status
 ACCEPTED

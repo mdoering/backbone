@@ -1,5 +1,4 @@
-Aspidothelium macrosporum (Müll. Arg.) Lücking SPECIES
-=======
+# Aspidothelium macrosporum (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina pungens Müll. Arg. SPECIES
-=======
+# Porina pungens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

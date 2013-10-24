@@ -1,5 +1,4 @@
-Trematosphaeria insularis (S.H. Ou) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Trematosphaeria insularis (S.H. Ou) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

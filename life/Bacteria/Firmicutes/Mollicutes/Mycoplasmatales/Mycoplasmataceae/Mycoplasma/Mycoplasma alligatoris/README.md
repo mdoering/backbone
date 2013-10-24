@@ -1,5 +1,4 @@
-Mycoplasma alligatoris Brown et al., 2001 SPECIES
-=======
+# Mycoplasma alligatoris Brown et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

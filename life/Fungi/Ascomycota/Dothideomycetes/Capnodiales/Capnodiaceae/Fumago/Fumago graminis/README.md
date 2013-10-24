@@ -1,5 +1,4 @@
-Fumago graminis (Corda) S. Hughes SPECIES
-=======
+# Fumago graminis (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

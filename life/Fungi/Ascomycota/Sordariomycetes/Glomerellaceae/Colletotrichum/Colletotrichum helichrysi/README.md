@@ -1,5 +1,4 @@
-Colletotrichum helichrysi (G. Winter) Arx SPECIES
-=======
+# Colletotrichum helichrysi (G. Winter) Arx SPECIES
 
 #### Status
 ACCEPTED

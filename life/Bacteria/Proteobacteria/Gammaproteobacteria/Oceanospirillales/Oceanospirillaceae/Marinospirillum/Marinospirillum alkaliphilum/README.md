@@ -1,5 +1,4 @@
-Marinospirillum alkaliphilum Zhang et al., 2002 SPECIES
-=======
+# Marinospirillum alkaliphilum Zhang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

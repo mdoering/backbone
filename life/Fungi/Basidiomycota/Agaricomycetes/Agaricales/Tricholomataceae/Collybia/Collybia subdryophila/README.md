@@ -1,5 +1,4 @@
-Collybia subdryophila Cleland SPECIES
-=======
+# Collybia subdryophila Cleland SPECIES
 
 #### Status
 ACCEPTED

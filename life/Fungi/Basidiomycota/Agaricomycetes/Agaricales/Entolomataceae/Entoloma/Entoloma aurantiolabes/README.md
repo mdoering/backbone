@@ -1,5 +1,4 @@
-Entoloma aurantiolabes G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma aurantiolabes G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

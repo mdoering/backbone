@@ -1,5 +1,4 @@
-Pseudocercospora anemopsidis (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora anemopsidis (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

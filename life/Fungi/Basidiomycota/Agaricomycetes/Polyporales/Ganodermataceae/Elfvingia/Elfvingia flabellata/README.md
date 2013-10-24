@@ -1,5 +1,4 @@
-Elfvingia flabellata Imazeki SPECIES
-=======
+# Elfvingia flabellata Imazeki SPECIES
 
 #### Status
 ACCEPTED

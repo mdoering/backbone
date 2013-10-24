@@ -1,5 +1,4 @@
-Diaporthe ceutosporioides (Berk.) Sacc. SPECIES
-=======
+# Diaporthe ceutosporioides (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

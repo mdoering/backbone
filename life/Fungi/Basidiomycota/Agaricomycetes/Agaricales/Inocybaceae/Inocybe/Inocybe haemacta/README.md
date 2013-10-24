@@ -1,14 +1,13 @@
-Agaricus haemactus Berk. & Cooke, 1882 SPECIES
-=======
+# Inocybe haemacta (Berk. & Cooke) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 11(no. 58): 70 (1882)
+Syll. fung. (Abellini) 5: 763 (1887)
 
 #### Original name
 Agaricus haemactus Berk. & Cooke, 1882

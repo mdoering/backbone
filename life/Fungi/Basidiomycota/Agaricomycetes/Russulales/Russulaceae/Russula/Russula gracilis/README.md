@@ -1,5 +1,4 @@
-Russula gracilis Burl. SPECIES
-=======
+# Russula gracilis Burl. SPECIES
 
 #### Status
 ACCEPTED

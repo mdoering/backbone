@@ -1,5 +1,4 @@
-Potomacus pottsi SPECIES
-=======
+# Potomacus pottsi SPECIES
 
 #### Status
 ACCEPTED

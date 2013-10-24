@@ -1,5 +1,4 @@
-Capronia leucadendri Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Capronia leucadendri Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

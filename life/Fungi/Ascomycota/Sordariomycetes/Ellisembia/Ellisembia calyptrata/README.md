@@ -1,5 +1,4 @@
-Ellisembia calyptrata (Cabello, Cazau & Aramb.) W.P. Wu SPECIES
-=======
+# Ellisembia calyptrata (Cabello, Cazau & Aramb.) W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

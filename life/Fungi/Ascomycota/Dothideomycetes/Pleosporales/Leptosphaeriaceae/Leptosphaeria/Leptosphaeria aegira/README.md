@@ -1,5 +1,4 @@
-Leptosphaeria aegira Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria aegira Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

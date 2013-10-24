@@ -1,5 +1,4 @@
-Sclerotium astragali Roum. SPECIES
-=======
+# Sclerotium astragali Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrolechia palmicola C.W. Dodge SPECIES
-=======
+# Ochrolechia palmicola C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

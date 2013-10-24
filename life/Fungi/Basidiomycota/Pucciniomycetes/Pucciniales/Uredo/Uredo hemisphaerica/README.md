@@ -1,5 +1,4 @@
-Uredo hemisphaerica Spreng. SPECIES
-=======
+# Uredo hemisphaerica Spreng. SPECIES
 
 #### Status
 ACCEPTED

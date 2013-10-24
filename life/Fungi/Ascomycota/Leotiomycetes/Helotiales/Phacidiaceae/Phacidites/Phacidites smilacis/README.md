@@ -1,5 +1,4 @@
-Phacidites smilacis (Ettingsh.) Schimp. SPECIES
-=======
+# Phacidites smilacis (Ettingsh.) Schimp. SPECIES
 
 #### Status
 ACCEPTED

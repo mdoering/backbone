@@ -1,5 +1,4 @@
-Ophiostoma protearum G.J. Marais & M.J. Wingf. SPECIES
-=======
+# Ophiostoma protearum G.J. Marais & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

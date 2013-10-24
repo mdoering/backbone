@@ -1,5 +1,4 @@
-Hebeloma sordidulum Peck SPECIES
-=======
+# Hebeloma sordidulum Peck SPECIES
 
 #### Status
 ACCEPTED

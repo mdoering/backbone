@@ -1,5 +1,4 @@
-Nodosaria (Dentalina) vertebralis (Batsch) SPECIES
-=======
+# Nodosaria (Dentalina) vertebralis (Batsch) SPECIES
 
 #### Status
 ACCEPTED

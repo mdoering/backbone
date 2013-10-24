@@ -1,5 +1,4 @@
-Inonotus tenuicarnis Pegler & D.A. Reid SPECIES
-=======
+# Inonotus tenuicarnis Pegler & D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

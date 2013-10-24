@@ -1,5 +1,4 @@
-Arthrographis G. Cochet ex Sigler & J.W. Carmich. GENUS
-=======
+# Arthrographis G. Cochet ex Sigler & J.W. Carmich. GENUS
 
 #### Status
 ACCEPTED

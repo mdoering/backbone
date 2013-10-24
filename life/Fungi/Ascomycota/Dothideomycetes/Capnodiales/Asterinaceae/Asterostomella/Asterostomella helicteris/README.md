@@ -1,17 +1,16 @@
-Asterostomella helicteridis Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella helicteris Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 58: 492 (1996)
 
 #### Original name
-Asterostomella helicteridis Hosag., M.P. Balakr. & Goos
+Asterostomella helicteris Hosag., M.P. Balakr. & Goos
 
 ### Remarks
 null

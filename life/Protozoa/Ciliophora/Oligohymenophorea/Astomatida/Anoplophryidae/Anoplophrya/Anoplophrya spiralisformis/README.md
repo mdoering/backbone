@@ -1,5 +1,4 @@
-Anoplophrya spiralisformis Heidenreich, 1935 SPECIES
-=======
+# Anoplophrya spiralisformis Heidenreich, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Actinomyces rochei (Berger et al., 1953) Preobrazhenskaya et al. in Gauze et al., 1957 SPECIES
-=======
+# Streptomyces rochei Berger et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

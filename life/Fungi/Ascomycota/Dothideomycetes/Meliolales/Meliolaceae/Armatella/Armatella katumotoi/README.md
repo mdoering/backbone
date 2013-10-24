@@ -1,5 +1,4 @@
-Armatella katumotoi Hosag. SPECIES
-=======
+# Armatella katumotoi Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia mayorii Cif. SPECIES
-=======
+# Tuburcinia mayorii Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius conicosordescens A. Favre SPECIES
-=======
+# Cortinarius conicosordescens A. Favre SPECIES
 
 #### Status
 ACCEPTED

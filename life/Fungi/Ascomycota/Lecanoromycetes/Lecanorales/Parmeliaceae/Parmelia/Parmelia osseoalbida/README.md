@@ -1,5 +1,4 @@
-Parmelia osseoalbida Lynge SPECIES
-=======
+# Parmelia osseoalbida Lynge SPECIES
 
 #### Status
 ACCEPTED

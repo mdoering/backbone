@@ -1,5 +1,4 @@
-Mycena rapiolens J. Favre SPECIES
-=======
+# Mycena rapiolens J. Favre SPECIES
 
 #### Status
 ACCEPTED

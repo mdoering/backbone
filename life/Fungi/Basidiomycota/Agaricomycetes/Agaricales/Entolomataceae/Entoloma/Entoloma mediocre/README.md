@@ -1,5 +1,4 @@
-Entoloma mediocre (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma mediocre (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

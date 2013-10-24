@@ -1,5 +1,4 @@
-Acanthothecis obscura Staiger & Kalb SPECIES
-=======
+# Acanthothecis obscura Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

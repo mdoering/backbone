@@ -1,17 +1,16 @@
-Phyllosticta scrophulariae var. scrophulariae VARIETY
-=======
+# Phyllosticta scrophulariae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 2): 141 (1878)
 
 #### Original name
-Phyllosticta scrophulariae var. scrophulariae
+Phyllosticta scrophulariae Sacc., 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia hikawaensis Hirats. f. & S. Uchida SPECIES
-=======
+# Puccinia hikawaensis Hirats. f. & S. Uchida SPECIES
 
 #### Status
 ACCEPTED

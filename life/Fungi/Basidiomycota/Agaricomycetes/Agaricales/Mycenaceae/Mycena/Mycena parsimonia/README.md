@@ -1,5 +1,4 @@
-Mycena parsimonia Corner SPECIES
-=======
+# Mycena parsimonia Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonomyces bidessarius Thaxt. SPECIES
-=======
+# Chitonomyces bidessarius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

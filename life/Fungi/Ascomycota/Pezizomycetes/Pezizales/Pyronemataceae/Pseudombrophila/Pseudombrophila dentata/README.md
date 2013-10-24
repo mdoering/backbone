@@ -1,5 +1,4 @@
-Pseudombrophila dentata (Boud.) Brumm. SPECIES
-=======
+# Pseudombrophila dentata (Boud.) Brumm. SPECIES
 
 #### Status
 ACCEPTED

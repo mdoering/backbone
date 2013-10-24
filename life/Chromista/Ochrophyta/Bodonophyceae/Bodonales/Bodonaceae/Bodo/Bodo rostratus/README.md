@@ -1,5 +1,4 @@
-Bodo rostratus SPECIES
-=======
+# Bodo rostratus SPECIES
 
 #### Status
 ACCEPTED

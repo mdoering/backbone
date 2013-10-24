@@ -1,5 +1,4 @@
-Brachysporium dingleyae S. Hughes, 1965 SPECIES
-=======
+# Brachysporium dingleyae S. Hughes, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cayugaensis A.H. Sm. SPECIES
-=======
+# Mycena cayugaensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

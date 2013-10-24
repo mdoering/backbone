@@ -1,5 +1,4 @@
-Phyllosticta siemaszkoi Melnik SPECIES
-=======
+# Phyllosticta siemaszkoi Melnik SPECIES
 
 #### Status
 ACCEPTED

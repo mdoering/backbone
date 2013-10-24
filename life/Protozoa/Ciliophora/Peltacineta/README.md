@@ -1,5 +1,4 @@
-Peltacineta Yankovskii, 1978 GENUS
-=======
+# Peltacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

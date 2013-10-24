@@ -1,5 +1,4 @@
-Rinodina ferruginosa Vain. SPECIES
-=======
+# Rinodina ferruginosa Vain. SPECIES
 
 #### Status
 ACCEPTED

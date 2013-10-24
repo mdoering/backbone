@@ -1,5 +1,4 @@
-Pseudomonas poae Behrendt et al., 2003 SPECIES
-=======
+# Pseudomonas poae Behrendt et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

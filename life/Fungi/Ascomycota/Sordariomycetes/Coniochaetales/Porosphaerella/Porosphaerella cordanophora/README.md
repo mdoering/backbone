@@ -1,5 +1,4 @@
-Porosphaerella cordanophora E. Müll. & Samuels, 1982 SPECIES
-=======
+# Porosphaerella cordanophora E. Müll. & Samuels, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria carlinoides Losa SPECIES
-=======
+# Leptosphaeria carlinoides Losa SPECIES
 
 #### Status
 ACCEPTED

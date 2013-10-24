@@ -1,5 +1,4 @@
-Megaloseptoria mirabilis Naumov, 1925 SPECIES
-=======
+# Megaloseptoria mirabilis Naumov, 1925 SPECIES
 
 #### Status
 ACCEPTED

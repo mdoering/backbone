@@ -1,5 +1,4 @@
-Pertusaria anomalospora A.W. Archer, Elix & Streimann SPECIES
-=======
+# Pertusaria anomalospora A.W. Archer, Elix & Streimann SPECIES
 
 #### Status
 ACCEPTED

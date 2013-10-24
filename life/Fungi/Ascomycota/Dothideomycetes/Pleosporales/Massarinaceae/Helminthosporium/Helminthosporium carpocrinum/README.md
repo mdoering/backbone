@@ -1,17 +1,16 @@
-Helmisporium carpocrinum Cif. SPECIES
-=======
+# Helminthosporium carpocrinum Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 36(2/3): 237 (1938)
 
 #### Original name
-Helmisporium carpocrinum Cif.
+Helminthosporium carpocrinum Cif.
 
 ### Remarks
 null

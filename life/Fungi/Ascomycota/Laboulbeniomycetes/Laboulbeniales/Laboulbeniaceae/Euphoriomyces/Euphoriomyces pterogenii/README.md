@@ -1,5 +1,4 @@
-Euphoriomyces pterogenii (Thaxt.) I.I. Tav. SPECIES
-=======
+# Euphoriomyces pterogenii (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

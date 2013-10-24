@@ -1,5 +1,4 @@
-Abathstoma Berger in Lynn, 1979 GENUS
-=======
+# Abathstoma Berger in Lynn, 1979 GENUS
 
 #### Status
 ACCEPTED

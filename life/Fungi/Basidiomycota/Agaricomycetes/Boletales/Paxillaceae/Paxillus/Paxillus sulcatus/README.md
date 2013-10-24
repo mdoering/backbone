@@ -1,5 +1,4 @@
-Paxillus sulcatus Pat. SPECIES
-=======
+# Paxillus sulcatus Pat. SPECIES
 
 #### Status
 ACCEPTED

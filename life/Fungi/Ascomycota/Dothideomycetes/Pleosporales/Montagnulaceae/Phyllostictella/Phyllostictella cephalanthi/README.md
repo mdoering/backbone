@@ -1,5 +1,4 @@
-Phyllostictella cephalanthi (Ellis & Everh.) Tassi SPECIES
-=======
+# Phyllostictella cephalanthi (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

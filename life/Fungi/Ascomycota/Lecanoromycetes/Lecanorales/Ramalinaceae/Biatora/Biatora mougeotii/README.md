@@ -1,5 +1,4 @@
-Biatora mougeotii Hepp ex Arnold SPECIES
-=======
+# Biatora mougeotii Hepp ex Arnold SPECIES
 
 #### Status
 ACCEPTED

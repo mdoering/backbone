@@ -1,5 +1,4 @@
-Fusicoccum myricae (Died.) Grove SPECIES
-=======
+# Fusicoccum myricae (Died.) Grove SPECIES
 
 #### Status
 ACCEPTED

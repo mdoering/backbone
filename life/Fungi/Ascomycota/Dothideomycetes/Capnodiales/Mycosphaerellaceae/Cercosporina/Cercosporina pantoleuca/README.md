@@ -1,5 +1,4 @@
-Cercosporina pantoleuca (Syd.) Sacc. SPECIES
-=======
+# Cercosporina pantoleuca (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

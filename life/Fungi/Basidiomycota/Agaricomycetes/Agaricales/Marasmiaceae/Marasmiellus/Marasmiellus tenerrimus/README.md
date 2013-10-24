@@ -1,5 +1,4 @@
-Marasmiellus tenerrimus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus tenerrimus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

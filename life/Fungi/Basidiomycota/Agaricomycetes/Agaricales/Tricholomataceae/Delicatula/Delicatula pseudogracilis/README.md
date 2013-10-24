@@ -1,5 +1,4 @@
-Delicatula pseudogracilis (Kühner & Maire) Kühner & Romagn. SPECIES
-=======
+# Delicatula pseudogracilis (Kühner & Maire) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

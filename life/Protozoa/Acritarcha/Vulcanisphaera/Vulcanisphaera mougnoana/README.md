@@ -1,5 +1,4 @@
-Vulcanisphaera mougnoana Martin, 1972 SPECIES
-=======
+# Vulcanisphaera mougnoana Martin, 1972 SPECIES
 
 #### Status
 ACCEPTED

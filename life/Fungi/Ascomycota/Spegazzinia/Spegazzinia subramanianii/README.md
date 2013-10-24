@@ -1,5 +1,4 @@
-Spegazzinia subramanianii Bhat SPECIES
-=======
+# Spegazzinia subramanianii Bhat SPECIES
 
 #### Status
 ACCEPTED

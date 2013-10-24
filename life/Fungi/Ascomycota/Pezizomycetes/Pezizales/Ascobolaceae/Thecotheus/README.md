@@ -1,5 +1,4 @@
-Thecotheus Boud. GENUS
-=======
+# Thecotheus Boud. GENUS
 
 #### Status
 ACCEPTED

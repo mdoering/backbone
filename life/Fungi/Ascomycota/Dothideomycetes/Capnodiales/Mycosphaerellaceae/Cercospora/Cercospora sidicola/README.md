@@ -1,17 +1,16 @@
-Cercospora sidaecola Ellis & Everh. SPECIES
-=======
+# Cercospora sidicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 5(2): 72 (1889)
 
 #### Original name
-Cercospora sidaecola Ellis & Everh.
+Cercospora sidicola Ellis & Everh.
 
 ### Remarks
 null

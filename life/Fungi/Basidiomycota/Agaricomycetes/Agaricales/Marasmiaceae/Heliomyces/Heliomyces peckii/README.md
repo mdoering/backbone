@@ -1,5 +1,4 @@
-Heliomyces peckii Murrill SPECIES
-=======
+# Heliomyces peckii Murrill SPECIES
 
 #### Status
 ACCEPTED

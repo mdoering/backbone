@@ -1,5 +1,4 @@
-Lecanidion pruinosum (P. Karst.) Sacc. SPECIES
-=======
+# Lecanidion pruinosum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

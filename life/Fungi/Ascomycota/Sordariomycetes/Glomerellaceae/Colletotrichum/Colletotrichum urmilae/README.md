@@ -1,5 +1,4 @@
-Colletotrichum urmilae P.C. Gupta SPECIES
-=======
+# Colletotrichum urmilae P.C. Gupta SPECIES
 
 #### Status
 ACCEPTED

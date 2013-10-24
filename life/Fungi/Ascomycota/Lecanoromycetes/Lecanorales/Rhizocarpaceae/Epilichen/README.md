@@ -1,5 +1,4 @@
-Epilichen Clem. GENUS
-=======
+# Epilichen Clem. GENUS
 
 #### Status
 ACCEPTED

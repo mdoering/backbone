@@ -1,5 +1,4 @@
-Seynesia araucariae Rehm SPECIES
-=======
+# Seynesia araucariae Rehm SPECIES
 
 #### Status
 ACCEPTED

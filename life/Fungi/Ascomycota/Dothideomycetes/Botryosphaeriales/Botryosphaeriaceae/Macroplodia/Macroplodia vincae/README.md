@@ -1,5 +1,4 @@
-Macroplodia vincae (Sacc. & G. Winter) Kuntze SPECIES
-=======
+# Macroplodia vincae (Sacc. & G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

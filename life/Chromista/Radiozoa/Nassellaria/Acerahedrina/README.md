@@ -1,5 +1,4 @@
-Acerahedrina Vinassa de Regny, 1900 GENUS
-=======
+# Acerahedrina Vinassa de Regny, 1900 GENUS
 
 #### Status
 ACCEPTED

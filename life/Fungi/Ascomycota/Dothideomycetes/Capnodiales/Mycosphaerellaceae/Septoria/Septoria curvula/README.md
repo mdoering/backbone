@@ -1,5 +1,4 @@
-Septoria curvula Woron. SPECIES
-=======
+# Septoria curvula Woron. SPECIES
 
 #### Status
 ACCEPTED

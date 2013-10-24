@@ -1,5 +1,4 @@
-Cordyceps variabilis Petch SPECIES
-=======
+# Cordyceps variabilis Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptobacterium GENUS
-=======
+# Streptobacterium GENUS
 
 #### Status
 ACCEPTED

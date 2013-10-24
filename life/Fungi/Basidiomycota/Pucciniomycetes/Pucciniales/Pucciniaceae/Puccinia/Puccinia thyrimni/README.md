@@ -1,5 +1,4 @@
-Puccinia thyrimni Gonz. Frag. SPECIES
-=======
+# Puccinia thyrimni Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

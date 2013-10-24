@@ -1,5 +1,4 @@
-Lithocia amphibola (Nyl.) Flagey SPECIES
-=======
+# Lithocia amphibola (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

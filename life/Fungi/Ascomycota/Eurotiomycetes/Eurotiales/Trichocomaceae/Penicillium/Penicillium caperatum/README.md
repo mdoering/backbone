@@ -1,5 +1,4 @@
-Penicillium caperatum Udagawa & Y. Horie SPECIES
-=======
+# Penicillium caperatum Udagawa & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

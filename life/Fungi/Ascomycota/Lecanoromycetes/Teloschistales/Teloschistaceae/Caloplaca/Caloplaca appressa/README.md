@@ -1,5 +1,4 @@
-Caloplaca appressa Wetmore & Kärnefelt SPECIES
-=======
+# Caloplaca appressa Wetmore & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

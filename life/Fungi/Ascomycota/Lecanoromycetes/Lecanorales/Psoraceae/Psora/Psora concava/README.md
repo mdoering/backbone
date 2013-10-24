@@ -1,5 +1,4 @@
-Psora concava B. de Lesd. SPECIES
-=======
+# Psora concava B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

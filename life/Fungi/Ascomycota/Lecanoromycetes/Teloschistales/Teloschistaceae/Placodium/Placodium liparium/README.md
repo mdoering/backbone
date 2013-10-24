@@ -1,5 +1,4 @@
-Placodium liparium (Ach.) Motyka SPECIES
-=======
+# Placodium liparium (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

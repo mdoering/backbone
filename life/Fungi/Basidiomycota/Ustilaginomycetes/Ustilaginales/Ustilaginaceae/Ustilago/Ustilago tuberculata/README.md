@@ -1,5 +1,4 @@
-Ustilago tuberculata Golovin SPECIES
-=======
+# Ustilago tuberculata Golovin SPECIES
 
 #### Status
 ACCEPTED

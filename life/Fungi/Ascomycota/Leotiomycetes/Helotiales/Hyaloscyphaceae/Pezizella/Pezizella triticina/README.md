@@ -1,5 +1,4 @@
-Pezizella triticina Velen. SPECIES
-=======
+# Pezizella triticina Velen. SPECIES
 
 #### Status
 ACCEPTED

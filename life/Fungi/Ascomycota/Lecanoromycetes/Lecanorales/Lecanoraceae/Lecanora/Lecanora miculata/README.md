@@ -1,5 +1,4 @@
-Lecanora miculata Ach. SPECIES
-=======
+# Lecanora miculata Ach. SPECIES
 
 #### Status
 ACCEPTED

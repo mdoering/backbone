@@ -1,5 +1,4 @@
-Ctedoctema acanthocryptum Stokes, 1884 SPECIES
-=======
+# Ctedoctema acanthocryptum Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

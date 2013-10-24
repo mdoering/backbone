@@ -1,5 +1,4 @@
-Anthostomella thyridioides Ellis & Everh. SPECIES
-=======
+# Anthostomella thyridioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

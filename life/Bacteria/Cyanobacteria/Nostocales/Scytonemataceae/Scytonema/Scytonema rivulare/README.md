@@ -1,5 +1,4 @@
-Scytonema rivulare Borzi SPECIES
-=======
+# Scytonema rivulare Borzi SPECIES
 
 #### Status
 ACCEPTED

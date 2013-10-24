@@ -1,5 +1,4 @@
-Puccinia wenchuanensis B. Li SPECIES
-=======
+# Puccinia wenchuanensis B. Li SPECIES
 
 #### Status
 ACCEPTED

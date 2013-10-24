@@ -1,5 +1,4 @@
-Peyronellaea musae P. Joly SPECIES
-=======
+# Peyronellaea musae P. Joly SPECIES
 
 #### Status
 ACCEPTED

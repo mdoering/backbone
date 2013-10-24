@@ -1,5 +1,4 @@
-Phoma erigerontis Petrov {?} SPECIES
-=======
+# Phoma erigerontis Petrov {?} SPECIES
 
 #### Status
 ACCEPTED

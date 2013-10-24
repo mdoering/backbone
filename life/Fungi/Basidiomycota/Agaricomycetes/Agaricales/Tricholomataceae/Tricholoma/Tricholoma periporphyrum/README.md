@@ -1,5 +1,4 @@
-Tricholoma periporphyrum Berk. & M.A. Curtis SPECIES
-=======
+# Tricholoma periporphyrum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

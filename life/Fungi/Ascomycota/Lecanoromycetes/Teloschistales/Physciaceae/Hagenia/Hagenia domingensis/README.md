@@ -1,5 +1,4 @@
-Hagenia domingensis SPECIES
-=======
+# Hagenia domingensis SPECIES
 
 #### Status
 ACCEPTED

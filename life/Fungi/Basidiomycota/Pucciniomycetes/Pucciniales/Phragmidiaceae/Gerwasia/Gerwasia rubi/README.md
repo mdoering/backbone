@@ -1,17 +1,16 @@
-Uromyces chinensis (Dietel) Dietel, 1912 SPECIES
-=======
+# Gerwasia rubi Racib., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 3: 271 (1909)
 
 #### Original name
-null
+Gerwasia rubi Racib., 1909
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cristigera phoenix Penard, 1922 SPECIES
-=======
+# Cristigera phoenix Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

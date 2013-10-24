@@ -1,5 +1,4 @@
-Omphalia viridicaerulea Bres. SPECIES
-=======
+# Omphalia viridicaerulea Bres. SPECIES
 
 #### Status
 ACCEPTED

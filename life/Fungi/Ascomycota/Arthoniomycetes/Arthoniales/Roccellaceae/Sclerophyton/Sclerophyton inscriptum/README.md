@@ -1,5 +1,4 @@
-Sclerophyton inscriptum (Nyl.) Müll. Arg. SPECIES
-=======
+# Sclerophyton inscriptum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proboscispora Punithalingam, 1984 GENUS
-=======
+# Proboscispora Punithalingam, 1984 GENUS
 
 #### Status
 ACCEPTED

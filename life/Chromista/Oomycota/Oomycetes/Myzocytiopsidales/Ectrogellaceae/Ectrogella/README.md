@@ -1,17 +1,16 @@
-Cymbanche Pfitzer GENUS
-=======
+# Ectrogella Zopf GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sitzungsber. Niederrhein. Ges. Natur-Heilk. Bonn 221 (1869)
+Nova Acta Acad. Caes. Leop. -Carol. German. Nat. Cur. 47: 175 (1884)
 
 #### Original name
-Cymbanche Pfitzer
+Ectrogella Zopf
 
 ### Remarks
 null

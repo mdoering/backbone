@@ -1,5 +1,4 @@
-Lactarius haemorrheus J. Lowe SPECIES
-=======
+# Lactarius haemorrheus J. Lowe SPECIES
 
 #### Status
 ACCEPTED

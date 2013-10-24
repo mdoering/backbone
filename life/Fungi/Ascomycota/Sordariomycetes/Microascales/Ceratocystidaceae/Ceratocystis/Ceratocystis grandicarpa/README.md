@@ -1,14 +1,13 @@
-Ophiostoma grandicarpa (Kowalski & Butin) Rulamort SPECIES
-=======
+# Ceratocystis grandicarpa Kowalski & Butin, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Phytopath. 124(1-4): 243 (1989)
 
 #### Original name
 Ceratocystis grandicarpa Kowalski & Butin, 1989

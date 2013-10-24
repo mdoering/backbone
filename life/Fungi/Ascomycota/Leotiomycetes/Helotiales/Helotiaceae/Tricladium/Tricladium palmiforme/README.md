@@ -1,5 +1,4 @@
-Tricladium palmiforme Descals SPECIES
-=======
+# Tricladium palmiforme Descals SPECIES
 
 #### Status
 ACCEPTED

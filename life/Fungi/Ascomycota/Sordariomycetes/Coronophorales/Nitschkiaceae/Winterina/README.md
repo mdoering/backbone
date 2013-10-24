@@ -1,5 +1,4 @@
-Winterina GENUS
-=======
+# Winterina GENUS
 
 #### Status
 ACCEPTED

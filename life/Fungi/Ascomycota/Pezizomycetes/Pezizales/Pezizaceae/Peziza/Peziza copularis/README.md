@@ -1,5 +1,4 @@
-Peziza copularis Willd. SPECIES
-=======
+# Peziza copularis Willd. SPECIES
 
 #### Status
 ACCEPTED

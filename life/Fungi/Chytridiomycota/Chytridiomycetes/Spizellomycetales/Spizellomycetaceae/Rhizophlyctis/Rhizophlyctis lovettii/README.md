@@ -1,5 +1,4 @@
-Rhizophlyctis lovettii Karling, 1964 SPECIES
-=======
+# Rhizophlyctis lovettii Karling, 1964 SPECIES
 
 #### Status
 ACCEPTED

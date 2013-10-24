@@ -1,17 +1,16 @@
-Pholiota adiposa var. adiposa VARIETY
-=======
+# Pholiota adiposa (Batsch) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Führ. Pilzk. (Zwickau) 84 (1871)
 
 #### Original name
-Pholiota adiposa var. adiposa
+Agaricus adiposus Batsch, 1786
 
 ### Remarks
 null

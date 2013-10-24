@@ -1,5 +1,4 @@
-Cortinarius chusqueae M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius chusqueae M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plicaria pustulata Fuckel SPECIES
-=======
+# Plicaria pustulata Fuckel SPECIES
 
 #### Status
 ACCEPTED

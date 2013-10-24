@@ -1,5 +1,4 @@
-Thelocarpon strasseri Zahlbr. SPECIES
-=======
+# Thelocarpon strasseri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

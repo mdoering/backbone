@@ -1,5 +1,4 @@
-Coniothyrium cannabinum Curzi SPECIES
-=======
+# Coniothyrium cannabinum Curzi SPECIES
 
 #### Status
 ACCEPTED

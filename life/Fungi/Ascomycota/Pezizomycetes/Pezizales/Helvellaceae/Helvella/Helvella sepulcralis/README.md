@@ -1,5 +1,4 @@
-Helvella sepulcralis Batsch SPECIES
-=======
+# Helvella sepulcralis Batsch SPECIES
 
 #### Status
 ACCEPTED

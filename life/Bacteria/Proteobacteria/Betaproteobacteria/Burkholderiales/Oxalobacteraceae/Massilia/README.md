@@ -1,5 +1,4 @@
-Massilia La Scola, Birtles, Mallet & Raoult, 2000 GENUS
-=======
+# Massilia La Scola, Birtles, Mallet & Raoult, 2000 GENUS
 
 #### Status
 ACCEPTED

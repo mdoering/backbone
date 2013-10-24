@@ -1,17 +1,16 @@
-Mattirolia pyrrochlora (Auersw.) Starbäck, 1894 SPECIES
-=======
+# Nectria pyrrhochlora Auersw., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Fungi europ. exsicc. no. 1234 (1869)
 
 #### Original name
-null
+Nectria pyrrhochlora Auersw., 1869
 
 ### Remarks
 null

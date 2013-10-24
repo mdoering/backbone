@@ -1,5 +1,4 @@
-Pseudocercospora euphorbiae-pubescentis (Unamuno) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora euphorbiae-pubescentis (Unamuno) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

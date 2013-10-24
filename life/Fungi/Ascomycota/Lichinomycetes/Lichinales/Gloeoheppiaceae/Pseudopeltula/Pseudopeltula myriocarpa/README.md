@@ -1,5 +1,4 @@
-Pseudopeltula myriocarpa Henssen SPECIES
-=======
+# Pseudopeltula myriocarpa Henssen SPECIES
 
 #### Status
 ACCEPTED

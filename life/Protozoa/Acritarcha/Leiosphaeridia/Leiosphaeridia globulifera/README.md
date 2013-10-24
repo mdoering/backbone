@@ -1,5 +1,4 @@
-Leiosphaeridia globulifera K. Takahashi SPECIES
-=======
+# Leiosphaeridia globulifera K. Takahashi SPECIES
 
 #### Status
 ACCEPTED

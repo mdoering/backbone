@@ -1,5 +1,4 @@
-Stictis coryli P. Crouan & H. Crouan SPECIES
-=======
+# Stictis coryli P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

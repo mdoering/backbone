@@ -1,5 +1,4 @@
-Diaporthe nivosa Ellis & Everh. SPECIES
-=======
+# Diaporthe nivosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

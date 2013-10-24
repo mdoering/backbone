@@ -1,5 +1,4 @@
-Agaricus memnon Krombh. SPECIES
-=======
+# Agaricus memnon Krombh. SPECIES
 
 #### Status
 ACCEPTED

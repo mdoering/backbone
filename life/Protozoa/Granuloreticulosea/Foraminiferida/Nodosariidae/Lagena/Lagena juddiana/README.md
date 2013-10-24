@@ -1,5 +1,4 @@
-Lagena juddiana Chapman SPECIES
-=======
+# Lagena juddiana Chapman SPECIES
 
 #### Status
 ACCEPTED

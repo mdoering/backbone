@@ -1,5 +1,4 @@
-Stigonema ramosissimum Gardner SPECIES
-=======
+# Stigonema ramosissimum Gardner SPECIES
 
 #### Status
 ACCEPTED

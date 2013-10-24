@@ -1,5 +1,4 @@
-Lecanora puniceofusca Bagl. SPECIES
-=======
+# Lecanora puniceofusca Bagl. SPECIES
 
 #### Status
 ACCEPTED

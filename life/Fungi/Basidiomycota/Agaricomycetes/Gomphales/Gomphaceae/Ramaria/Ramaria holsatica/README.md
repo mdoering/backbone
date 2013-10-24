@@ -1,5 +1,4 @@
-Ramaria holsatica (Henn.) Corner SPECIES
-=======
+# Ramaria holsatica (Henn.) Corner SPECIES
 
 #### Status
 ACCEPTED

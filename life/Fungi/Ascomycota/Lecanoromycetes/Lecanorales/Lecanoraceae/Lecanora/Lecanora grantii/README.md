@@ -1,5 +1,4 @@
-Lecanora grantii H. Magn. SPECIES
-=======
+# Lecanora grantii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

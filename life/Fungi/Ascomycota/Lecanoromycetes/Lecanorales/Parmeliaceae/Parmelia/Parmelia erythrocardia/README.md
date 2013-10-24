@@ -1,5 +1,4 @@
-Parmelia erythrocardia Müll. Arg. SPECIES
-=======
+# Parmelia erythrocardia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

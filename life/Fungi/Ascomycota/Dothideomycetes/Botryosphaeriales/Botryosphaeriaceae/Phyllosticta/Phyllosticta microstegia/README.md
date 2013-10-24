@@ -1,5 +1,4 @@
-Phyllosticta microstegia Syd. SPECIES
-=======
+# Phyllosticta microstegia Syd. SPECIES
 
 #### Status
 ACCEPTED

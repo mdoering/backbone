@@ -1,14 +1,13 @@
-Ceratostomina usterianum (Speg.) Hansf. SPECIES
-=======
+# Ceratostomina usteriana (Speg.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 15: 39 (1946)
 
 #### Original name
 Ceratostoma usterianum Speg.

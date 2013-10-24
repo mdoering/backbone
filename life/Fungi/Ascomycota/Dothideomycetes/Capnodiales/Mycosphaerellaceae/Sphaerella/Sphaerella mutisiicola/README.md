@@ -1,5 +1,4 @@
-Sphaerella mutisiicola Speg. SPECIES
-=======
+# Sphaerella mutisiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia subvelata Nyl. SPECIES
-=======
+# Arthonia subvelata Nyl. SPECIES
 
 #### Status
 ACCEPTED

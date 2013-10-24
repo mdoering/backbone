@@ -1,5 +1,4 @@
-Hysterium cinereum Pers. SPECIES
-=======
+# Hysterium cinereum Pers. SPECIES
 
 #### Status
 ACCEPTED

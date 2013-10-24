@@ -1,5 +1,4 @@
-Usnea cinchonae (Willd.) Zahlbr. SPECIES
-=======
+# Usnea cinchonae (Willd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

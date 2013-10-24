@@ -1,5 +1,4 @@
-Uromyces astragali-atropilosuli Gjaerum, 1991 SPECIES
-=======
+# Uromyces astragali-atropilosuli Gjaerum, 1991 SPECIES
 
 #### Status
 ACCEPTED

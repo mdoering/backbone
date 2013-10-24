@@ -1,5 +1,4 @@
-Haplosiphon Trevisan, 1849 GENUS
-=======
+# Haplosiphon Trevisan, 1849 GENUS
 
 #### Status
 ACCEPTED

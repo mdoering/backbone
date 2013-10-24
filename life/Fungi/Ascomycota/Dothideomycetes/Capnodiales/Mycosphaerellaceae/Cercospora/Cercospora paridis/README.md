@@ -1,5 +1,4 @@
-Cercospora paridis Erikss., 1883 SPECIES
-=======
+# Cercospora paridis Erikss., 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptopezia Höhn. GENUS
-=======
+# Cryptopezia Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ureibacillus suwonensis Kim et al., 2006 SPECIES
-=======
+# Ureibacillus suwonensis Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

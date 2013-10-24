@@ -1,5 +1,4 @@
-Opalinidae FAMILY
-=======
+# Opalinidae FAMILY
 
 #### Status
 ACCEPTED

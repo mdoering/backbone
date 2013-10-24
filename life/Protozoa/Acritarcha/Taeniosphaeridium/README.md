@@ -1,5 +1,4 @@
-Taeniosphaeridium Uutela & Tynni, 1991 GENUS
-=======
+# Taeniosphaeridium Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

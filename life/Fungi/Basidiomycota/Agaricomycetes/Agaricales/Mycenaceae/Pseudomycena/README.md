@@ -1,5 +1,4 @@
-Pseudomycena GENUS
-=======
+# Pseudomycena GENUS
 
 #### Status
 ACCEPTED

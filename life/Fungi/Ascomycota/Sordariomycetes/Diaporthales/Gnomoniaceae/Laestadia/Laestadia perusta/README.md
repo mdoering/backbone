@@ -1,5 +1,4 @@
-Laestadia perusta (Berk. & Broome) Sacc. SPECIES
-=======
+# Laestadia perusta (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

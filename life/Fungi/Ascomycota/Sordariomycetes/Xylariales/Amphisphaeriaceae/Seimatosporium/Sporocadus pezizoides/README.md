@@ -1,5 +1,4 @@
-Sporocadus pezizoides (Ellis & Everh.) M. Morelet SPECIES
-=======
+# Sporocadus pezizoides (Ellis & Everh.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

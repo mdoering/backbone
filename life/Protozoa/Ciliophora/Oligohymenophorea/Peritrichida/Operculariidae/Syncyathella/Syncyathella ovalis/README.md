@@ -1,5 +1,4 @@
-Syncyathella ovalis (Gong, 1989) Jankowski, 1992 SPECIES
-=======
+# Syncyathella ovalis (Gong, 1989) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

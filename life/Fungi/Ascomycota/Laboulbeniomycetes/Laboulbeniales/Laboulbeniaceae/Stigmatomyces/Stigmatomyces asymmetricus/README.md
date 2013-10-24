@@ -1,5 +1,4 @@
-Stigmatomyces asymmetricus Thaxt. SPECIES
-=======
+# Stigmatomyces asymmetricus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

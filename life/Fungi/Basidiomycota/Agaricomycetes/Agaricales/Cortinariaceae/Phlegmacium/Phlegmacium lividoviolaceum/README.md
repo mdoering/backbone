@@ -1,5 +1,4 @@
-Phlegmacium lividoviolaceum Rob. Henry ex M.M. Moser SPECIES
-=======
+# Phlegmacium lividoviolaceum Rob. Henry ex M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisina globulosa Arendh. SPECIES
-=======
+# Mollisina globulosa Arendh. SPECIES
 
 #### Status
 ACCEPTED

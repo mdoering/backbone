@@ -1,5 +1,4 @@
-Gloiosphaera Höhn. GENUS
-=======
+# Gloiosphaera Höhn. GENUS
 
 #### Status
 ACCEPTED

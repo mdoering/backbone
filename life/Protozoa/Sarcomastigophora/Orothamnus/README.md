@@ -1,5 +1,4 @@
-Orothamnus Haeckel, 1887 GENUS
-=======
+# Orothamnus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

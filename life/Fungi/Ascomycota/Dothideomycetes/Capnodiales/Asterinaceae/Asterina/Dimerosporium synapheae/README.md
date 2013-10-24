@@ -1,5 +1,4 @@
-Dimerosporium synapheae Henn. SPECIES
-=======
+# Dimerosporium synapheae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora calthae Cooke SPECIES
-=======
+# Cercospora calthae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora stearnii K.D. Hyde & P.F. Cannon, 1999 SPECIES
-=======
+# Phyllachora stearnii K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
 ACCEPTED

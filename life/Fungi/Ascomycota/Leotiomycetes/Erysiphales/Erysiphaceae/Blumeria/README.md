@@ -1,5 +1,4 @@
-Blumeria Golovin ex Speer GENUS
-=======
+# Blumeria Golovin ex Speer GENUS
 
 #### Status
 ACCEPTED

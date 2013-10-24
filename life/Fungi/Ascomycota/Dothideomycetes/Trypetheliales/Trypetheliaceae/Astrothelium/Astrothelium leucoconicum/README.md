@@ -1,5 +1,4 @@
-Astrothelium leucoconicum Nyl. SPECIES
-=======
+# Astrothelium leucoconicum Nyl. SPECIES
 
 #### Status
 ACCEPTED

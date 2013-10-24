@@ -1,5 +1,4 @@
-Cordyceps takaoensis (Kobayasi) Kobayasi SPECIES
-=======
+# Cordyceps takaoensis (Kobayasi) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

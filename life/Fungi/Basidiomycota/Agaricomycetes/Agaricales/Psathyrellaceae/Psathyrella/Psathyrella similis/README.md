@@ -1,5 +1,4 @@
-Psathyrella similis (C.S. Parker) A.H. Sm. SPECIES
-=======
+# Psathyrella similis (C.S. Parker) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

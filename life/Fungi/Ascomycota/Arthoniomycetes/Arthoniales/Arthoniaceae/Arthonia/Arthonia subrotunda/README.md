@@ -1,5 +1,4 @@
-Arthonia subrotunda Fée SPECIES
-=======
+# Arthonia subrotunda Fée SPECIES
 
 #### Status
 ACCEPTED

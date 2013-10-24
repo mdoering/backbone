@@ -1,5 +1,4 @@
-Uredo clerodendricola Henn. SPECIES
-=======
+# Uredo clerodendricola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Manilaea bambusina Syd. & P. Syd. SPECIES
-=======
+# Manilaea bambusina Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

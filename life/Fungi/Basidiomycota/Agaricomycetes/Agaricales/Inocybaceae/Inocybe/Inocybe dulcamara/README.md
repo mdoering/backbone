@@ -1,17 +1,16 @@
-Inocybe dulcamara f. dulcamara FORM
-=======
+# Inocybe dulcamara (Alb. & Schwein.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Führ. Pilzk. (Zwickau) 79 (1871)
 
 #### Original name
-Inocybe dulcamara f. dulcamara
+Agaricus dulcamara Alb. & Schwein., 1822
 
 ### Remarks
 null

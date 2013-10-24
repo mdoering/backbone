@@ -1,5 +1,4 @@
-Entyloma polygoni-amphibii Savul. SPECIES
-=======
+# Entyloma polygoni-amphibii Savul. SPECIES
 
 #### Status
 ACCEPTED

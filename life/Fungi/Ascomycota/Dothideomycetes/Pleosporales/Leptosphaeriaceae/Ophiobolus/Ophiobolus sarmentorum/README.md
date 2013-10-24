@@ -1,5 +1,4 @@
-Ophiobolus sarmentorum Dobrozr. SPECIES
-=======
+# Ophiobolus sarmentorum Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

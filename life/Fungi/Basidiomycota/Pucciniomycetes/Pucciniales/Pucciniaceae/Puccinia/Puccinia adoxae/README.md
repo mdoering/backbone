@@ -1,17 +1,16 @@
-Dasyspora adoxae (R. Hedw.) Arthur, 1906 SPECIES
-=======
+# Puccinia adoxae R. Hedw., 1805 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Résultats scientifiques du Congres international de Botanique Wien 1905 347 (1906)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 220 (1805)
 
 #### Original name
-Dasyspora adoxae (R. Hedw.) Arthur, 1906
+Puccinia adoxae R. Hedw., 1805
 
 ### Remarks
 null

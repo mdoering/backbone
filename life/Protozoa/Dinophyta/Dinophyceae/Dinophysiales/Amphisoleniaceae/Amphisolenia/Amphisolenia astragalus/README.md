@@ -1,5 +1,4 @@
-Amphisolenia astragalus Kofoid & Michener, 1911 SPECIES
-=======
+# Amphisolenia astragalus Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

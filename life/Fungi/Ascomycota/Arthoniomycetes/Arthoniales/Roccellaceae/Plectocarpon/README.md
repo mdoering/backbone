@@ -1,17 +1,16 @@
-Lichenomyces Trevis. GENUS
-=======
+# Plectocarpon Fée, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Spighe Paglie 10 (1853)
+null
 
 #### Original name
-Lichenomyces Trevis.
+null
 
 ### Remarks
 null

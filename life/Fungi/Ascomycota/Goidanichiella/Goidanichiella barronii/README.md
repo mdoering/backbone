@@ -1,5 +1,4 @@
-Goidanichiella barronii W. Gams, Steiman & Seigle-Mur., 2009 SPECIES
-=======
+# Goidanichiella barronii W. Gams, Steiman & Seigle-Mur., 2009 SPECIES
 
 #### Status
 ACCEPTED

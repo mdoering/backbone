@@ -1,5 +1,4 @@
-Acaulospora alpina Oehl, Sýkorová & Sieverd. SPECIES
-=======
+# Acaulospora alpina Oehl, Sýkorová & Sieverd. SPECIES
 
 #### Status
 ACCEPTED

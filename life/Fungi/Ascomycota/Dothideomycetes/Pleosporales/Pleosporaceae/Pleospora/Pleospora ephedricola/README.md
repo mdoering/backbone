@@ -1,5 +1,4 @@
-Pleospora ephedricola Speg. SPECIES
-=======
+# Pleospora ephedricola Speg. SPECIES
 
 #### Status
 ACCEPTED

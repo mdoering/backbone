@@ -1,5 +1,4 @@
-Hohenbuehelia harmandii (Pat. & Har.) Singer SPECIES
-=======
+# Hohenbuehelia harmandii (Pat. & Har.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodiacrodium gigino P. Pittau SPECIES
-=======
+# Lophodiacrodium gigino P. Pittau SPECIES
 
 #### Status
 ACCEPTED

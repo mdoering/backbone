@@ -1,5 +1,4 @@
-Marasmiellus cnacopolius Singer SPECIES
-=======
+# Marasmiellus cnacopolius Singer SPECIES
 
 #### Status
 ACCEPTED

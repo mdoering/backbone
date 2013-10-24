@@ -1,17 +1,16 @@
-Cercospora taiwanensis T. Matsumoto & W. Yamam., 1934 SPECIES
-=======
+# Saccharicola taiwanensis (J.M. Yen & C.C. Chi) O.E. Erikss. & D. Hawksw., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Society of Tropical Agriculture, Formosa 6: 590 (1934)
+Mycologia 95(3): 431 (2003)
 
 #### Original name
-Cercospora taiwanensis T. Matsumoto & W. Yamam., 1934
+Leptosphaeria taiwanensis W.Y. Yen & C.C. Chi, 1952
 
 ### Remarks
 null

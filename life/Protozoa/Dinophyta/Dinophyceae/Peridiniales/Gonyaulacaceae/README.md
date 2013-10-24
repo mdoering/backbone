@@ -1,5 +1,4 @@
-Gonyaulacaceae Er. Lindem. FAMILY
-=======
+# Gonyaulacaceae Er. Lindem. FAMILY
 
 #### Status
 ACCEPTED

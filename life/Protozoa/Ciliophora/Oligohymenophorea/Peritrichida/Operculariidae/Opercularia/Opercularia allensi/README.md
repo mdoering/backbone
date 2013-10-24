@@ -1,5 +1,4 @@
-Opercularia allensi Stokes, 1877 SPECIES
-=======
+# Opercularia allensi Stokes, 1877 SPECIES
 
 #### Status
 ACCEPTED

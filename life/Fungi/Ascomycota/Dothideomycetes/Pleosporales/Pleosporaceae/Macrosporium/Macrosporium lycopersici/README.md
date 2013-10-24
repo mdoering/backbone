@@ -1,5 +1,4 @@
-Macrosporium lycopersici Plowr. SPECIES
-=======
+# Macrosporium lycopersici Plowr. SPECIES
 
 #### Status
 ACCEPTED

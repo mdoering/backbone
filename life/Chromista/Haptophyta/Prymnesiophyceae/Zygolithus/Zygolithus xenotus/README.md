@@ -1,5 +1,4 @@
-Zygolithus xenotus L.E. Stover SPECIES
-=======
+# Zygolithus xenotus L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

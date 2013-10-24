@@ -1,5 +1,4 @@
-Graphis hunanensis (Zahlbr.) M. Nakan. & Kashiw. SPECIES
-=======
+# Graphis hunanensis (Zahlbr.) M. Nakan. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

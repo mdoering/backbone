@@ -1,5 +1,4 @@
-Tremella persistens Bull. SPECIES
-=======
+# Tremella persistens Bull. SPECIES
 
 #### Status
 ACCEPTED

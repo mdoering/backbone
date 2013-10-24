@@ -1,5 +1,4 @@
-Usnea molliuscula subsp. molliuscula SUBSPECIES
-=======
+# Usnea molliuscula Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. 7: 77 (1883)
 
 #### Original name
-Usnea molliuscula subsp. molliuscula
+Usnea molliuscula Stirt.
 
 ### Remarks
 null

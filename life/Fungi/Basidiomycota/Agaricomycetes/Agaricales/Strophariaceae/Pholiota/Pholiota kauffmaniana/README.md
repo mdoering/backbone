@@ -1,5 +1,4 @@
-Pholiota kauffmaniana A.H. Sm. SPECIES
-=======
+# Pholiota kauffmaniana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

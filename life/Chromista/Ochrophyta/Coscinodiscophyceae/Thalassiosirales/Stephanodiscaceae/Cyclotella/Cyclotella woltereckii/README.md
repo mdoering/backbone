@@ -1,5 +1,4 @@
-Cyclotella woltereckii Hust. SPECIES
-=======
+# Cyclotella woltereckii Hust. SPECIES
 
 #### Status
 ACCEPTED

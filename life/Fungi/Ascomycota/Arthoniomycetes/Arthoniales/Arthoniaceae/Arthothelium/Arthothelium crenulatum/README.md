@@ -1,5 +1,4 @@
-Arthothelium crenulatum B. de Lesd. SPECIES
-=======
+# Arthothelium crenulatum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

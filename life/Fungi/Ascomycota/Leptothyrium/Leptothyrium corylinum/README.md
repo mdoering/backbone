@@ -1,5 +1,4 @@
-Leptothyrium corylinum Fuckel SPECIES
-=======
+# Leptothyrium corylinum Fuckel SPECIES
 
 #### Status
 ACCEPTED

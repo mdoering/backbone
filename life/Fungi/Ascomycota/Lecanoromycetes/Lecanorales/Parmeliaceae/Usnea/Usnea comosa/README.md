@@ -1,5 +1,4 @@
-Usnea comosa subsp. comosa SUBSPECIES
-=======
+# Usnea comosa Stirt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Scott. Natural. , N. S. 6: 294 (1882)
 
 #### Original name
-null
+Usnea comosa Stirt.
 
 ### Remarks
 null

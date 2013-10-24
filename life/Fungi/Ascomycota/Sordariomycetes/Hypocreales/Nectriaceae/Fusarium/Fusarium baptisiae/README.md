@@ -1,5 +1,4 @@
-Fusarium baptisiae Henn. SPECIES
-=======
+# Fusarium baptisiae Henn. SPECIES
 
 #### Status
 ACCEPTED

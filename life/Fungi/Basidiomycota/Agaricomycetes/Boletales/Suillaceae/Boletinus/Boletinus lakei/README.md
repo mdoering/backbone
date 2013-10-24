@@ -1,5 +1,4 @@
-Boletinus lakei SPECIES
-=======
+# Boletinus lakei SPECIES
 
 #### Status
 ACCEPTED

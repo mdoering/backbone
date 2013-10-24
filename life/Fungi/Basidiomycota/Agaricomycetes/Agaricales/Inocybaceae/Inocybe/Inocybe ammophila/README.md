@@ -1,5 +1,4 @@
-Inocybe ammophila Hongo & I. Matsuda SPECIES
-=======
+# Inocybe ammophila Hongo & I. Matsuda SPECIES
 
 #### Status
 ACCEPTED

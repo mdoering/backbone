@@ -1,5 +1,4 @@
-Onygena hypsipus Ditmar SPECIES
-=======
+# Onygena hypsipus Ditmar SPECIES
 
 #### Status
 ACCEPTED

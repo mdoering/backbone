@@ -1,5 +1,4 @@
-Yalisphaeridium xizangensis L. Gao SPECIES
-=======
+# Yalisphaeridium xizangensis L. Gao SPECIES
 
 #### Status
 ACCEPTED

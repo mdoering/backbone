@@ -1,5 +1,4 @@
-Agaricus hemisoödes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus hemisoödes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

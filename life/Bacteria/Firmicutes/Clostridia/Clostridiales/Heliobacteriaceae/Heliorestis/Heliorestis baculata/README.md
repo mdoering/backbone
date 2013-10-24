@@ -1,5 +1,4 @@
-Heliorestis baculata Bryantseva et al., 2001 SPECIES
-=======
+# Heliorestis baculata Bryantseva et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

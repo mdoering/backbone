@@ -1,5 +1,4 @@
-Tuber sinense X.L. Mao, 2000 SPECIES
-=======
+# Tuber sinense X.L. Mao, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inanigutta Nazarov & Ormiston, 1984 GENUS
-=======
+# Inanigutta Nazarov & Ormiston, 1984 GENUS
 
 #### Status
 ACCEPTED

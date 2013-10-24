@@ -1,5 +1,4 @@
-Arthonia biseptella Nyl. SPECIES
-=======
+# Arthonia biseptella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Anthostomella clypeata var. clypeata (De Not.) Sacc. VARIETY
-=======
+# Anthostomella clypeata (De Not.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 1: 283 (1882)
 
 #### Original name
-Anthostomella clypeata var. clypeata (De Not.) Sacc.
+Discosia clypeata De Not.
 
 ### Remarks
 null

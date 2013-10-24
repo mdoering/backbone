@@ -1,5 +1,4 @@
-Secoliga friesii (A. Massal.) A. Massal. SPECIES
-=======
+# Secoliga friesii (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

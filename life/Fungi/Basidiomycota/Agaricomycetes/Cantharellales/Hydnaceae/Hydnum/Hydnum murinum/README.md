@@ -1,5 +1,4 @@
-Hydnum murinum Velen. SPECIES
-=======
+# Hydnum murinum Velen. SPECIES
 
 #### Status
 ACCEPTED

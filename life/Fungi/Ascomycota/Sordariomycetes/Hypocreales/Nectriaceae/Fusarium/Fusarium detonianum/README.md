@@ -1,5 +1,4 @@
-Fusarium detonianum Sacc., 1886 SPECIES
-=======
+# Fusarium detonianum Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

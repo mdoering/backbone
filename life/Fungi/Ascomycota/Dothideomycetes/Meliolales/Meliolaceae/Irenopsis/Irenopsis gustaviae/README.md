@@ -1,5 +1,4 @@
-Irenopsis gustaviae Hansf. SPECIES
-=======
+# Irenopsis gustaviae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aremoricanium carolineae Kjellström, 1976 SPECIES
-=======
+# Aremoricanium carolineae Kjellström, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kapooria J. Reid & C. Booth GENUS
-=======
+# Kapooria J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

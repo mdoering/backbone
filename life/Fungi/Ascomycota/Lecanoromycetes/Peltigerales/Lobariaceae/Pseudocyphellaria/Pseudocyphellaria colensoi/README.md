@@ -1,17 +1,16 @@
-Sticta colensoi var. colensoi VARIETY
-=======
+# Pseudocyphellaria colensoi (C. Bab. ex Hook. f.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Résult. Voy. Belgica, Lich. 28 (1903)
 
 #### Original name
-null
+Sticta colensoi C. Bab. ex Hook. f.
 
 ### Remarks
 null

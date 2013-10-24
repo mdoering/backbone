@@ -1,5 +1,4 @@
-Laboulbenia subdivaricata Speg. SPECIES
-=======
+# Laboulbenia subdivaricata Speg. SPECIES
 
 #### Status
 ACCEPTED

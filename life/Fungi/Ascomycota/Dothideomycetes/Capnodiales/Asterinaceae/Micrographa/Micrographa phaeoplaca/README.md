@@ -1,5 +1,4 @@
-Micrographa phaeoplaca (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Micrographa phaeoplaca (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

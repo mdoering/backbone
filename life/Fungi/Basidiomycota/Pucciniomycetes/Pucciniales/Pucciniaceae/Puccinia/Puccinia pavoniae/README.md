@@ -1,5 +1,4 @@
-Puccinia pavoniae Henn. SPECIES
-=======
+# Puccinia pavoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

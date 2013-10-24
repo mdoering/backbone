@@ -1,5 +1,4 @@
-Heterosporium chamaeropis Oudem. SPECIES
-=======
+# Heterosporium chamaeropis Oudem. SPECIES
 
 #### Status
 ACCEPTED

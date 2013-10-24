@@ -1,5 +1,4 @@
-Courtoisia GENUS
-=======
+# Courtoisia GENUS
 
 #### Status
 ACCEPTED

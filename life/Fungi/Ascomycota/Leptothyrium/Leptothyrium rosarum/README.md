@@ -1,5 +1,4 @@
-Leptothyrium rosarum Cooke SPECIES
-=======
+# Leptothyrium rosarum Cooke SPECIES
 
 #### Status
 ACCEPTED

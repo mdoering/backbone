@@ -1,5 +1,4 @@
-Marasmiellus devenulatus Singer SPECIES
-=======
+# Marasmiellus devenulatus Singer SPECIES
 
 #### Status
 ACCEPTED

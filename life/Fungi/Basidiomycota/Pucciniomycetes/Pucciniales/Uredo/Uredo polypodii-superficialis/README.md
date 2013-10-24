@@ -1,5 +1,4 @@
-Uredo polypodii-superficialis (Hirats. f.) Hirats. f. SPECIES
-=======
+# Uredo polypodii-superficialis (Hirats. f.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

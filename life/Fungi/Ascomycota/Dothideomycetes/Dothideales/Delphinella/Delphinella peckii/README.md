@@ -1,5 +1,4 @@
-Delphinella peckii (Lindau) M.E. Barr SPECIES
-=======
+# Delphinella peckii (Lindau) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

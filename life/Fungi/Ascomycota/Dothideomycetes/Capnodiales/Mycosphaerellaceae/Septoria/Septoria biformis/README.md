@@ -1,5 +1,4 @@
-Septoria biformis Sacc. SPECIES
-=======
+# Septoria biformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

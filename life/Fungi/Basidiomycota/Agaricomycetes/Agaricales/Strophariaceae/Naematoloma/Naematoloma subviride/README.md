@@ -1,14 +1,13 @@
-Nematoloma subviride (Berk. & M.A. Curtis) A.H. Sm. SPECIES
-=======
+# Naematoloma subviride (Berk. & M.A. Curtis) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 43(5): 519 (1951)
 
 #### Original name
 Agaricus subviridis Berk. & M.A. Curtis

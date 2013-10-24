@@ -1,14 +1,13 @@
-Leptosphaerulina primulaecola (G. Winter) Crivelli SPECIES
-=======
+# Leptosphaerulina primulicola (G. Winter) Crivelli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ueber die Heterogene Ascomycetengattung Pleospora Rabh. ; Vorschlag für eine Aufteilung (Diss. Eid genössischen Technischen Hochschule Zürich <b>7318</b>) 134 (1983)
 
 #### Original name
 Sphaerella primulicola G. Winter

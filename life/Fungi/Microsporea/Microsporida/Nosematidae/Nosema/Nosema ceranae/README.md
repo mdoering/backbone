@@ -1,5 +1,4 @@
-Nosema ceranae SPECIES
-=======
+# Nosema ceranae SPECIES
 
 #### Status
 ACCEPTED

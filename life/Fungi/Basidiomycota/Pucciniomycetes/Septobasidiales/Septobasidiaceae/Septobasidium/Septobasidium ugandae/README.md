@@ -1,5 +1,4 @@
-Septobasidium ugandae Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium ugandae Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

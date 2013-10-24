@@ -1,5 +1,4 @@
-Pacinia GENUS
-=======
+# Pacinia GENUS
 
 #### Status
 ACCEPTED

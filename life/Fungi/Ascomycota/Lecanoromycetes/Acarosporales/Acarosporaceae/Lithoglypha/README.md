@@ -1,5 +1,4 @@
-Lithoglypha Brusse GENUS
-=======
+# Lithoglypha Brusse GENUS
 
 #### Status
 ACCEPTED

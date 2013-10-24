@@ -1,5 +1,4 @@
-Erysiphe crispula (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe crispula (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

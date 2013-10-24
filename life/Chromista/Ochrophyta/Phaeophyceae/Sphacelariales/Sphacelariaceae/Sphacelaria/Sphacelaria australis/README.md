@@ -1,5 +1,4 @@
-Sphacelaria australis Kützing SPECIES
-=======
+# Sphacelaria australis Kützing SPECIES
 
 #### Status
 ACCEPTED

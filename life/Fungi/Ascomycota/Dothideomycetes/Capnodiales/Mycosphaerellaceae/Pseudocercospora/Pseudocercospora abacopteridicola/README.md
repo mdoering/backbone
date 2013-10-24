@@ -1,5 +1,4 @@
-Pseudocercospora abacopteridicola (J.M. Yen & Lim) J.M. Yen SPECIES
-=======
+# Pseudocercospora abacopteridicola (J.M. Yen & Lim) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

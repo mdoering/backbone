@@ -1,5 +1,4 @@
-Paradactylaria Subram. & Sudha GENUS
-=======
+# Paradactylaria Subram. & Sudha GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma tricolor (Durieu & Mont.) Sacc. SPECIES
-=======
+# Phoma tricolor (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

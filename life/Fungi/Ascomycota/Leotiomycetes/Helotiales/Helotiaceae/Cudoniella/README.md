@@ -1,17 +1,16 @@
-Isosoma Svrcek GENUS
-=======
+# Cudoniella Saccardo, 1889 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 43(2): 65 (1989)
+null
 
 #### Original name
-Isosoma Svrcek
+null
 
 ### Remarks
 null

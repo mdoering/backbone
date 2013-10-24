@@ -1,5 +1,4 @@
-Anaptychia ethiopica Swinscow & Krog SPECIES
-=======
+# Anaptychia ethiopica Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

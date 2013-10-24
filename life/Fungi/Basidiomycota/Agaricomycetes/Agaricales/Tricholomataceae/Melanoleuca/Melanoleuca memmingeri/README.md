@@ -1,5 +1,4 @@
-Melanoleuca memmingeri Murrill SPECIES
-=======
+# Melanoleuca memmingeri Murrill SPECIES
 
 #### Status
 ACCEPTED

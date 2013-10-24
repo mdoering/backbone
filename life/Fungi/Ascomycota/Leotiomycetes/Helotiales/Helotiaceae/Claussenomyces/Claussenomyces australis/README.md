@@ -1,5 +1,4 @@
-Claussenomyces australis G.W. Beaton SPECIES
-=======
+# Claussenomyces australis G.W. Beaton SPECIES
 
 #### Status
 ACCEPTED

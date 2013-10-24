@@ -1,5 +1,4 @@
-Cortinarius curanilahuensis Garrido & E. Horak SPECIES
-=======
+# Cortinarius curanilahuensis Garrido & E. Horak SPECIES
 
 #### Status
 ACCEPTED

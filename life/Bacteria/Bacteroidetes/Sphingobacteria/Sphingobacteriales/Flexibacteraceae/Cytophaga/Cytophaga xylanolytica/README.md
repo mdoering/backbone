@@ -1,5 +1,4 @@
-Cytophaga xylanolytica Haack & Breznak, 1993 SPECIES
-=======
+# Cytophaga xylanolytica Haack & Breznak, 1993 SPECIES
 
 #### Status
 ACCEPTED

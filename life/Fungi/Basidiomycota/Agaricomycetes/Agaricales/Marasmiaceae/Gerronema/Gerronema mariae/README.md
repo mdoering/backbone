@@ -1,5 +1,4 @@
-Gerronema mariae Singer SPECIES
-=======
+# Gerronema mariae Singer SPECIES
 
 #### Status
 ACCEPTED

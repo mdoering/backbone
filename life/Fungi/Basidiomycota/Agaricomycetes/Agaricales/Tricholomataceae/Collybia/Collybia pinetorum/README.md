@@ -1,5 +1,4 @@
-Collybia pinetorum Allesch. SPECIES
-=======
+# Collybia pinetorum Allesch. SPECIES
 
 #### Status
 ACCEPTED

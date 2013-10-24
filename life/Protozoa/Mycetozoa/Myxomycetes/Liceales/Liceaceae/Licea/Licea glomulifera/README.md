@@ -1,5 +1,4 @@
-Licea glomulifera de Bary SPECIES
-=======
+# Licea glomulifera de Bary SPECIES
 
 #### Status
 ACCEPTED

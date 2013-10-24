@@ -1,5 +1,4 @@
-Leptothyrella bambusae Teng SPECIES
-=======
+# Leptothyrella bambusae Teng SPECIES
 
 #### Status
 ACCEPTED

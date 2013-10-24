@@ -1,5 +1,4 @@
-Poria auricoma Lév. ex Cooke SPECIES
-=======
+# Poria auricoma Lév. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

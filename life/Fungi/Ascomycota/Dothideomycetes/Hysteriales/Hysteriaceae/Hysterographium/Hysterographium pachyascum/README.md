@@ -1,5 +1,4 @@
-Hysterographium pachyascum Berl. SPECIES
-=======
+# Hysterographium pachyascum Berl. SPECIES
 
 #### Status
 ACCEPTED

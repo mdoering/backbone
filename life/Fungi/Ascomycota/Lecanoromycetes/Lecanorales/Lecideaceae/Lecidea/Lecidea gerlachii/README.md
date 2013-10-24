@@ -1,5 +1,4 @@
-Lecidea gerlachii Zahlbr. SPECIES
-=======
+# Lecidea gerlachii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panellus alutaceus Corner, 1986 SPECIES
-=======
+# Panellus alutaceus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

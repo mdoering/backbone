@@ -1,17 +1,16 @@
-Lophiostoma inaequalis Matsush. SPECIES
-=======
+# Lophiostoma inaequale Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 74 (1971)
 
 #### Original name
-Lophiostoma inaequalis Matsush.
+Lophiostoma inaequale Matsush.
 
 ### Remarks
 null

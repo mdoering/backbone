@@ -1,5 +1,4 @@
-Diplodia apiospora (Cooke & Massee) Hansf. SPECIES
-=======
+# Diplodia apiospora (Cooke & Massee) Hansf. SPECIES
 
 #### Status
 ACCEPTED

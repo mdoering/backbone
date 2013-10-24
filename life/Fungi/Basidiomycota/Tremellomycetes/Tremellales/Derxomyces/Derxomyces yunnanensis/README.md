@@ -1,5 +1,4 @@
-Derxomyces yunnanensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces yunnanensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

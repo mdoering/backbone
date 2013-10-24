@@ -1,5 +1,4 @@
-Calicium prevostii Duby SPECIES
-=======
+# Calicium prevostii Duby SPECIES
 
 #### Status
 ACCEPTED

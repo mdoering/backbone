@@ -1,5 +1,4 @@
-Pyrenodesmia pleiophora (Nyl.) Arnold SPECIES
-=======
+# Pyrenodesmia pleiophora (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

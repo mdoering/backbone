@@ -1,14 +1,13 @@
-Amauroderma asperulatum Murrill, 1908 SPECIES
-=======
+# Ganoderma asperulatum (Murrill) Sacc. & Trotter, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 35: 407 (1908)
+Syll. fung. (Abellini) 21: 307 (1912)
 
 #### Original name
 Amauroderma asperulatum Murrill, 1908

@@ -1,5 +1,4 @@
-Barlaeina subaurantiaca (Massee) Sacc. SPECIES
-=======
+# Barlaeina subaurantiaca (Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

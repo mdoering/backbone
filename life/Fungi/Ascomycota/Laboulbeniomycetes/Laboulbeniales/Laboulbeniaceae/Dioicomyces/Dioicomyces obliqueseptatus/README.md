@@ -1,5 +1,4 @@
-Dioicomyces obliqueseptatus Thaxt. SPECIES
-=======
+# Dioicomyces obliqueseptatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium craspedium (Ach.) Nyl. SPECIES
-=======
+# Placodium craspedium (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

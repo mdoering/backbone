@@ -1,8 +1,7 @@
-Dasyscypha vestitus (Quél.) Sacc. SPECIES
-=======
+# Dasyscyphus vestitus (Quél.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

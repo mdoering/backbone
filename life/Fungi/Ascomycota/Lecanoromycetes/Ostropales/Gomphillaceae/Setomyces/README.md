@@ -1,5 +1,4 @@
-Setomyces Bat. & Peres GENUS
-=======
+# Setomyces Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

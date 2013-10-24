@@ -1,5 +1,4 @@
-Boletus tomentulosus M. Zang, W.P. Liu & M.R. Hu SPECIES
-=======
+# Boletus tomentulosus M. Zang, W.P. Liu & M.R. Hu SPECIES
 
 #### Status
 ACCEPTED

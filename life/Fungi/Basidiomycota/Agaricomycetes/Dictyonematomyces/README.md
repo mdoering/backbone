@@ -1,5 +1,4 @@
-Dictyonematomyces GENUS
-=======
+# Dictyonematomyces GENUS
 
 #### Status
 ACCEPTED

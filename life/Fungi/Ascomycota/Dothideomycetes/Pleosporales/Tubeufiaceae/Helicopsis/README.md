@@ -1,5 +1,4 @@
-Helicopsis GENUS
-=======
+# Helicopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio comitans Sawabe, Fujimura, Niwa & Aono, 2007 SPECIES
-=======
+# Vibrio comitans Sawabe, Fujimura, Niwa & Aono, 2007 SPECIES
 
 #### Status
 ACCEPTED

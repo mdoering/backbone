@@ -1,5 +1,4 @@
-Erinellina sinensis (Teng) Teng SPECIES
-=======
+# Erinellina sinensis (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

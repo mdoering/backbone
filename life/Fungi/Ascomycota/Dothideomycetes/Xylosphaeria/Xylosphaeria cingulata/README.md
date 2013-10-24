@@ -1,5 +1,4 @@
-Xylosphaeria cingulata (Mont.) Petr. SPECIES
-=======
+# Xylosphaeria cingulata (Mont.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema neotropicum Kurok. ex Hale SPECIES
-=======
+# Parmotrema neotropicum Kurok. ex Hale SPECIES
 
 #### Status
 ACCEPTED

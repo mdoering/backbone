@@ -1,8 +1,7 @@
-Polyrhizon bewsii Doidge, 1921 SPECIES
-=======
+# Perischizon bewsii (Doidge) Inácio & P.F. Cannon, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Polyrhizon bewsii Doidge, 1921
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Archaeoglomus N. Sharma, R.K. Kar, A. Agarwal & R. Kar GENUS
-=======
+# Archaeoglomus N. Sharma, R.K. Kar, A. Agarwal & R. Kar GENUS
 
 #### Status
 ACCEPTED

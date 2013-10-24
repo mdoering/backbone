@@ -1,8 +1,7 @@
-Phomopsis helianthi Munt.-Cvetk., Mihaljc. & M. Petrov, 1981 SPECIES
-=======
+# Diaporthe helianthi Munt.-Cvetk., Mihaljc. & M. Petrov, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Nova Hedwigia 34(3 & 4): 433 (1981)
 
 #### Original name
-Phomopsis helianthi Munt.-Cvetk., Mihaljc. & M. Petrov, 1981
+Diaporthe helianthi Munt.-Cvetk., Mihaljc. & M. Petrov, 1981
 
 ### Remarks
 null

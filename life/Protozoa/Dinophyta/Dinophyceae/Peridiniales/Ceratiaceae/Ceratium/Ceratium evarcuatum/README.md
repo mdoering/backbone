@@ -1,5 +1,4 @@
-Ceratium evarcuatum SPECIES
-=======
+# Ceratium evarcuatum SPECIES
 
 #### Status
 ACCEPTED

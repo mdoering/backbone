@@ -1,5 +1,4 @@
-Ephemerocybe GENUS
-=======
+# Ephemerocybe GENUS
 
 #### Status
 ACCEPTED

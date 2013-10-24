@@ -1,17 +1,16 @@
-Roccellinastrum spongioideum Follmann SPECIES
-=======
+# Roccellinastrum spongoideum Follmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 14: 244 (1968)
 
 #### Original name
-Roccellinastrum spongioideum Follmann
+Roccellinastrum spongoideum Follmann
 
 ### Remarks
 null

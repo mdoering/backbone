@@ -1,5 +1,4 @@
-Syndiplodia loculata (Mont.) Zambett. SPECIES
-=======
+# Syndiplodia loculata (Mont.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

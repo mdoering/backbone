@@ -1,5 +1,4 @@
-Halosigmoidea marina (Haythorn & E.B.G. Jones) Nakagiri, K.L. Pang & E.B.G. Jones, 2009 SPECIES
-=======
+# Halosigmoidea marina (Haythorn & E.B.G. Jones) Nakagiri, K.L. Pang & E.B.G. Jones, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acolium lecideinum (Nyl.) Arnold SPECIES
-=======
+# Acolium lecideinum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

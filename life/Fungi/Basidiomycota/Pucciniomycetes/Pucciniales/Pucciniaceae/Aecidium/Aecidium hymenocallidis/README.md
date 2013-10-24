@@ -1,5 +1,4 @@
-Aecidium hymenocallidis F. Kern & Thurst. SPECIES
-=======
+# Aecidium hymenocallidis F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

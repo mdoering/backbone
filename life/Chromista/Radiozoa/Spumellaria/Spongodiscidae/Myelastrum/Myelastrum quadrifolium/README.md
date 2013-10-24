@@ -1,5 +1,4 @@
-Myelastrum quadrifolium Takahashi, 1991 SPECIES
-=======
+# Myelastrum quadrifolium Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

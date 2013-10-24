@@ -1,5 +1,4 @@
-Naucoria polytrichi Velen. SPECIES
-=======
+# Naucoria polytrichi Velen. SPECIES
 
 #### Status
 ACCEPTED

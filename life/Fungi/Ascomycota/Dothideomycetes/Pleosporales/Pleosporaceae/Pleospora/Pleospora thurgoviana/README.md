@@ -1,5 +1,4 @@
-Pleospora thurgoviana H. Wegelin SPECIES
-=======
+# Pleospora thurgoviana H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

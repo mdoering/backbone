@@ -1,5 +1,4 @@
-Peziza lugubris Kalchbr. SPECIES
-=======
+# Peziza lugubris Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

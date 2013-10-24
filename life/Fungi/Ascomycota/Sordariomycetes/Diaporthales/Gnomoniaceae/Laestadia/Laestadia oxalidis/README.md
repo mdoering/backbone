@@ -1,5 +1,4 @@
-Laestadia oxalidis (Rabenh.) Sacc. SPECIES
-=======
+# Laestadia oxalidis (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

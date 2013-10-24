@@ -1,5 +1,4 @@
-Krombholziella snellii (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella snellii (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

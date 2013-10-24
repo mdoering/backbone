@@ -1,5 +1,4 @@
-Asterina schlegeliae T.A. Hofm., 2008 SPECIES
-=======
+# Asterina schlegeliae T.A. Hofm., 2008 SPECIES
 
 #### Status
 ACCEPTED

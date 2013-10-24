@@ -1,5 +1,4 @@
-Notorotalia aucklandica Vella, 1957 SPECIES
-=======
+# Notorotalia aucklandica Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

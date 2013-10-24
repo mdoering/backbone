@@ -1,5 +1,4 @@
-Pleospora praeandina Speg. SPECIES
-=======
+# Pleospora praeandina Speg. SPECIES
 
 #### Status
 ACCEPTED

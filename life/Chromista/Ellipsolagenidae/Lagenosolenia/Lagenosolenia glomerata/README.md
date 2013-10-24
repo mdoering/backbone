@@ -1,5 +1,4 @@
-Lagenosolenia glomerata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia glomerata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

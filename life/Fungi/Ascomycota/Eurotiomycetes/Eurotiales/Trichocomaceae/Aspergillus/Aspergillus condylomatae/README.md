@@ -1,5 +1,4 @@
-Aspergillus condylomatae Greco SPECIES
-=======
+# Aspergillus condylomatae Greco SPECIES
 
 #### Status
 ACCEPTED

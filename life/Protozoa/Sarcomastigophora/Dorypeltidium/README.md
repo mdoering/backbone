@@ -1,5 +1,4 @@
-Dorypeltidium Haeckel, 1887 GENUS
-=======
+# Dorypeltidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

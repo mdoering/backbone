@@ -1,5 +1,4 @@
-Vorticella gyrans Dumas, 1937 SPECIES
-=======
+# Vorticella gyrans Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

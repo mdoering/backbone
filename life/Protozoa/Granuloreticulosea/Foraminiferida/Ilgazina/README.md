@@ -1,5 +1,4 @@
-Ilgazina Erdogan, 1995 GENUS
-=======
+# Ilgazina Erdogan, 1995 GENUS
 
 #### Status
 ACCEPTED

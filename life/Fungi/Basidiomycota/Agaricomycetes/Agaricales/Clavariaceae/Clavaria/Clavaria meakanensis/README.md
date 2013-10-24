@@ -1,5 +1,4 @@
-Clavaria meakanensis S. Imai SPECIES
-=======
+# Clavaria meakanensis S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rostrata Cooke SPECIES
-=======
+# Puccinia rostrata Cooke SPECIES
 
 #### Status
 ACCEPTED

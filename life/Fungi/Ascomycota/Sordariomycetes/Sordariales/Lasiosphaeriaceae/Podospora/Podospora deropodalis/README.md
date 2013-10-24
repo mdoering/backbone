@@ -1,5 +1,4 @@
-Podospora deropodalis R.S. Khan & Cain SPECIES
-=======
+# Podospora deropodalis R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

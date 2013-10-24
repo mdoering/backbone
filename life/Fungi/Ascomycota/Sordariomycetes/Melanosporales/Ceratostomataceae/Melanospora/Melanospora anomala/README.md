@@ -1,5 +1,4 @@
-Melanospora anomala Hobson bis SPECIES
-=======
+# Melanospora anomala Hobson bis SPECIES
 
 #### Status
 ACCEPTED

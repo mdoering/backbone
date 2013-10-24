@@ -1,8 +1,7 @@
-Septoria helichrysii Syd. SPECIES
-=======
+# Septoria helichrysi Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria helichrysii Syd.
+Septoria helichrysi Syd.
 
 ### Remarks
 null

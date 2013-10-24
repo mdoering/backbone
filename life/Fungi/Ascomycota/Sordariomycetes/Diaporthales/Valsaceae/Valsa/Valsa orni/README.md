@@ -1,5 +1,4 @@
-Valsa orni Rehm SPECIES
-=======
+# Valsa orni Rehm SPECIES
 
 #### Status
 ACCEPTED

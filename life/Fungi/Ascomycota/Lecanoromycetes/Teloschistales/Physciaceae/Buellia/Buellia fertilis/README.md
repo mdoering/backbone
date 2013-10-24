@@ -1,5 +1,4 @@
-Buellia fertilis Körb. SPECIES
-=======
+# Buellia fertilis Körb. SPECIES
 
 #### Status
 ACCEPTED

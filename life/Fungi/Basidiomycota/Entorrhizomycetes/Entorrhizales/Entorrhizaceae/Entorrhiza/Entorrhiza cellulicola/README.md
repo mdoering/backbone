@@ -1,14 +1,13 @@
-Schinzia cellulicola Nägeli, 1842 SPECIES
-=======
+# Entorrhiza cellulicola (Nägeli) De Toni, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Linnaea 16: 281 (1842)
+null
 
 #### Original name
 Schinzia cellulicola Nägeli, 1842

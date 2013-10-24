@@ -1,5 +1,4 @@
-Alternaria breviseptata (Matsush.) de Hoog & Oorschot SPECIES
-=======
+# Alternaria breviseptata (Matsush.) de Hoog & Oorschot SPECIES
 
 #### Status
 ACCEPTED

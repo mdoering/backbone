@@ -1,5 +1,4 @@
-Septoria ficariaecola Sacc. SPECIES
-=======
+# Septoria ficariaecola Sacc. SPECIES
 
 #### Status
 ACCEPTED

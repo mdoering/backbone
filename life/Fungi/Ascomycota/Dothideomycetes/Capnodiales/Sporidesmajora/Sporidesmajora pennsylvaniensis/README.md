@@ -1,5 +1,4 @@
-Sporidesmajora pennsylvaniensis Batzer & Crous, 2010 SPECIES
-=======
+# Sporidesmajora pennsylvaniensis Batzer & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium angelicae Rostr. SPECIES
-=======
+# Coniosporium angelicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

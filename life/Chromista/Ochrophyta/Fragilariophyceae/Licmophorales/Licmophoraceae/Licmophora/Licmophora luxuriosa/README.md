@@ -1,5 +1,4 @@
-Licmophora luxuriosa Heiden & Kolbe, 1928 SPECIES
-=======
+# Licmophora luxuriosa Heiden & Kolbe, 1928 SPECIES
 
 #### Status
 ACCEPTED

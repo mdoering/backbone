@@ -1,5 +1,4 @@
-Hemiophrys procora Penard, 1922 SPECIES
-=======
+# Hemiophrys procora Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

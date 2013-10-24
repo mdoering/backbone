@@ -1,5 +1,4 @@
-Entoloma bahusiense S. Lundell SPECIES
-=======
+# Entoloma bahusiense S. Lundell SPECIES
 
 #### Status
 ACCEPTED

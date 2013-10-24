@@ -1,14 +1,13 @@
-Fusilina GENUS
-=======
+# Fusulina Fischer, 1829 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Bull. Soc. Imp. Nat. Moscou, 1 (10), 330.
 
 #### Original name
 null

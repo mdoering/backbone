@@ -1,5 +1,4 @@
-Pertusaria arizonica Dibben SPECIES
-=======
+# Pertusaria arizonica Dibben SPECIES
 
 #### Status
 ACCEPTED

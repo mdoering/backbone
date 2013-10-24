@@ -1,5 +1,4 @@
-Microdiplodia hardenbergiae Petr. SPECIES
-=======
+# Microdiplodia hardenbergiae Petr. SPECIES
 
 #### Status
 ACCEPTED

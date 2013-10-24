@@ -1,5 +1,4 @@
-Desulfuromonas svalbardensis Vandieken et al., 2006 SPECIES
-=======
+# Desulfuromonas svalbardensis Vandieken et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

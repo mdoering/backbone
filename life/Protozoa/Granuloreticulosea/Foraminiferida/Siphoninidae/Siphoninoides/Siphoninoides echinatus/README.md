@@ -1,5 +1,4 @@
-Siphoninoides echinatus (Brady, 1879) SPECIES
-=======
+# Siphoninoides echinatus (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

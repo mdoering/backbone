@@ -1,5 +1,4 @@
-Glomerella cephalanthae (Sawada) Yamam. {?} SPECIES
-=======
+# Glomerella cephalanthae (Sawada) Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

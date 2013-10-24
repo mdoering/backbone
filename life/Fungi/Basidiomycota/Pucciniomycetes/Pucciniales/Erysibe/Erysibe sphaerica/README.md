@@ -1,5 +1,4 @@
-Erysibe sphaerica Wallr. SPECIES
-=======
+# Erysibe sphaerica Wallr. SPECIES
 
 #### Status
 ACCEPTED

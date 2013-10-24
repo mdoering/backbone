@@ -1,5 +1,4 @@
-Clypeus argentea Singer SPECIES
-=======
+# Clypeus argentea Singer SPECIES
 
 #### Status
 ACCEPTED

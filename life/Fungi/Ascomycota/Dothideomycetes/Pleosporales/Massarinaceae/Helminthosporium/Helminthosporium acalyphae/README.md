@@ -1,5 +1,4 @@
-Helminthosporium acalyphae (Thüm.) Cif. SPECIES
-=======
+# Helminthosporium acalyphae (Thüm.) Cif. SPECIES
 
 #### Status
 ACCEPTED

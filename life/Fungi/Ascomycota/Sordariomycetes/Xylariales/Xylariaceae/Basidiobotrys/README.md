@@ -1,5 +1,4 @@
-Basidiobotrys GENUS
-=======
+# Basidiobotrys GENUS
 
 #### Status
 ACCEPTED

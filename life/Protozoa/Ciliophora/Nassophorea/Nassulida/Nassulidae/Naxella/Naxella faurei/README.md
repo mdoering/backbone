@@ -1,8 +1,7 @@
-Naxella lateritia (Claparède & Lachmann, 1859) Fryd-Versavel, I SPECIES
-=======
+# Naxella faurei Foissner & O'Donoghue, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

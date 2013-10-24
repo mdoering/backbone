@@ -1,5 +1,4 @@
-Laboulbenia latonae Thaxt. SPECIES
-=======
+# Laboulbenia latonae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

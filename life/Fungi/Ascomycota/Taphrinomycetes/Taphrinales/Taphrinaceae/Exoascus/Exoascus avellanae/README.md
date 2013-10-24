@@ -1,5 +1,4 @@
-Exoascus avellanae Connold SPECIES
-=======
+# Exoascus avellanae Connold SPECIES
 
 #### Status
 ACCEPTED

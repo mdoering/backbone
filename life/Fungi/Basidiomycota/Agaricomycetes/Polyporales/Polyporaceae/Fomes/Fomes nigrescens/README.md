@@ -1,5 +1,4 @@
-Fomes nigrescens Lloyd SPECIES
-=======
+# Fomes nigrescens Lloyd SPECIES
 
 #### Status
 ACCEPTED

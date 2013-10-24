@@ -1,5 +1,4 @@
-Pannaria ramulosa P. M. Jørg. SPECIES
-=======
+# Pannaria ramulosa P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria schini Tassi SPECIES
-=======
+# Septoria schini Tassi SPECIES
 
 #### Status
 ACCEPTED

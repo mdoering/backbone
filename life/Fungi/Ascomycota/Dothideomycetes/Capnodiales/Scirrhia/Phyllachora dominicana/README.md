@@ -1,5 +1,4 @@
-Phyllachora dominicana Petr. & Cif., 1930 SPECIES
-=======
+# Phyllachora dominicana Petr. & Cif., 1930 SPECIES
 
 #### Status
 DOUBTFUL

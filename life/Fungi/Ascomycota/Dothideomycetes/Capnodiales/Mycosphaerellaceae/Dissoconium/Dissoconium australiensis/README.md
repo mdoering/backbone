@@ -1,5 +1,4 @@
-Dissoconium australiensis Crous & Summerell SPECIES
-=======
+# Dissoconium australiensis Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

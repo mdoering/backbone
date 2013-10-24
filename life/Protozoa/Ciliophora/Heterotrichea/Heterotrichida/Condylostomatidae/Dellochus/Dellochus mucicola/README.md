@@ -1,5 +1,4 @@
-Dellochus mucicola (Delphy, 1938) Corliss, 1960 SPECIES
-=======
+# Dellochus mucicola (Delphy, 1938) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

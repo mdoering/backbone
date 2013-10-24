@@ -1,5 +1,4 @@
-Phyllosticta gei Bres., 1900 SPECIES
-=======
+# Phyllosticta gei Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED

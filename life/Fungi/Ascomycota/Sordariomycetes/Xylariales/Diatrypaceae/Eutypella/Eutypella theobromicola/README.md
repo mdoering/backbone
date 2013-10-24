@@ -1,5 +1,4 @@
-Eutypella theobromicola Wakef. SPECIES
-=======
+# Eutypella theobromicola Wakef. SPECIES
 
 #### Status
 ACCEPTED

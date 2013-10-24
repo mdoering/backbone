@@ -1,5 +1,4 @@
-Porphyriospora immersa f. immersa FORM
-=======
+# Porphyriospora immersa A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Porphyriospora immersa f. immersa
+Porphyriospora immersa A. Massal.
 
 ### Remarks
 null

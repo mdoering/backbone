@@ -1,5 +1,4 @@
-Undaria pinnatifida var. elongata Suringar VARIETY
-=======
+# Undaria pinnatifida (Harvey) Suringar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriella peponum (Berk. & M.A. Curtis) Seaver SPECIES
-=======
+# Nectriella peponum (Berk. & M.A. Curtis) Seaver SPECIES
 
 #### Status
 ACCEPTED

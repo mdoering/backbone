@@ -1,5 +1,4 @@
-Xerula africana (Dörfelt) R.H. Petersen SPECIES
-=======
+# Xerula africana (Dörfelt) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilosphaeria italica (Sacc. & Speg.) Cooke SPECIES
-=======
+# Psilosphaeria italica (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

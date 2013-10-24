@@ -1,5 +1,4 @@
-Ectosticta bignoniicola Speg. SPECIES
-=======
+# Ectosticta bignoniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thuledinium S.A.J. Pocock & W.A.S. Sarjeant, 1972 GENUS
-=======
+# Mendicodinium P.Morgenroth, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Neues Jb. Geol. Palaont. Abh. 136: 347.
 
 #### Original name
 null

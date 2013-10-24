@@ -1,17 +1,16 @@
-Keissleria Höhn. GENUS
-=======
+# Broomella Saccardo, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 16(1/2): 93 (1918)
+null
 
 #### Original name
-Keissleria Höhn.
+null
 
 ### Remarks
 null

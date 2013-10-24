@@ -1,5 +1,4 @@
-Homeoarchicorys Empson-Morin, 1981 GENUS
-=======
+# Homeoarchicorys Empson-Morin, 1981 GENUS
 
 #### Status
 ACCEPTED

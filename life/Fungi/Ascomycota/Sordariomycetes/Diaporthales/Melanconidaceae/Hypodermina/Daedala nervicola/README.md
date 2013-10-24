@@ -1,5 +1,4 @@
-Daedala nervicola Hazsl. SPECIES
-=======
+# Daedala nervicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta millepunctata (Desm.) Allesch. SPECIES
-=======
+# Phyllosticta millepunctata (Desm.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

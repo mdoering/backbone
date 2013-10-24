@@ -1,5 +1,4 @@
-Penicillium mycetomagenum C.L. Negri SPECIES
-=======
+# Penicillium mycetomagenum C.L. Negri SPECIES
 
 #### Status
 ACCEPTED

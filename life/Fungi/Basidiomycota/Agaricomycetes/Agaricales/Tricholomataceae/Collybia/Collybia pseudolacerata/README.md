@@ -1,5 +1,4 @@
-Collybia pseudolacerata Hruby SPECIES
-=======
+# Collybia pseudolacerata Hruby SPECIES
 
 #### Status
 ACCEPTED

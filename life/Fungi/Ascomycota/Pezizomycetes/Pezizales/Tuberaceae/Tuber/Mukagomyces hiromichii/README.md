@@ -1,5 +1,4 @@
-Mukagomyces hiromichii S. Imai SPECIES
-=======
+# Mukagomyces hiromichii S. Imai SPECIES
 
 #### Status
 ACCEPTED

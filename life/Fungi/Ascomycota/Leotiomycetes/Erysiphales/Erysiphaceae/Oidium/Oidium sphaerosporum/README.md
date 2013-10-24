@@ -1,5 +1,4 @@
-Oidium sphaerosporum Linder SPECIES
-=======
+# Oidium sphaerosporum Linder SPECIES
 
 #### Status
 ACCEPTED

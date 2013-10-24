@@ -1,5 +1,4 @@
-Acanthostoma wattii (Syd., P. Syd. & E.J. Butler) Theiss. SPECIES
-=======
+# Acanthostoma wattii (Syd., P. Syd. & E.J. Butler) Theiss. SPECIES
 
 #### Status
 ACCEPTED

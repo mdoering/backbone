@@ -1,5 +1,4 @@
-Humarina rufa (Pers.) Seaver SPECIES
-=======
+# Humarina rufa (Pers.) Seaver SPECIES
 
 #### Status
 ACCEPTED

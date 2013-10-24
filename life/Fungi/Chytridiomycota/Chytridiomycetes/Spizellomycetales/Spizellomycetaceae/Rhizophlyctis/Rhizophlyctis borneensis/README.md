@@ -1,5 +1,4 @@
-Rhizophlyctis borneensis Sparrow SPECIES
-=======
+# Rhizophlyctis borneensis Sparrow SPECIES
 
 #### Status
 ACCEPTED

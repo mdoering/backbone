@@ -1,5 +1,4 @@
-Rehmiomyces GENUS
-=======
+# Rehmiomyces GENUS
 
 #### Status
 ACCEPTED

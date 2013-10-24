@@ -1,5 +1,4 @@
-Basidiodendron grandinioides (Bourdot & Galzin) Luck-Allen SPECIES
-=======
+# Basidiodendron grandinioides (Bourdot & Galzin) Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

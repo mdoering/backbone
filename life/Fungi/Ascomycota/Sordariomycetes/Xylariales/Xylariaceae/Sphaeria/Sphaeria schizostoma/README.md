@@ -1,5 +1,4 @@
-Sphaeria schizostoma Mont. SPECIES
-=======
+# Sphaeria schizostoma Mont. SPECIES
 
 #### Status
 ACCEPTED

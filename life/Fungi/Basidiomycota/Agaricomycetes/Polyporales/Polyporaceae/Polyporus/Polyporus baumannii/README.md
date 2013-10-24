@@ -1,5 +1,4 @@
-Polyporus baumannii Henn. SPECIES
-=======
+# Polyporus baumannii Henn. SPECIES
 
 #### Status
 ACCEPTED

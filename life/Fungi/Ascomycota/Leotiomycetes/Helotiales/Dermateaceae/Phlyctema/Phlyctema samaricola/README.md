@@ -1,5 +1,4 @@
-Phlyctema samaricola (Moesz) Petr. SPECIES
-=======
+# Phlyctema samaricola (Moesz) Petr. SPECIES
 
 #### Status
 ACCEPTED

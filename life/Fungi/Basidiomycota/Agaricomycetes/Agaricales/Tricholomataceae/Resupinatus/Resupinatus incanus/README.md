@@ -1,14 +1,13 @@
-Porotheleum incanum (Kalchbr.) Sacc., 1888 SPECIES
-=======
+# Resupinatus incanus (Kalchbr.) Thorn, Moncalvo & Redhead, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 423 (1888)
+in Thorn, Moncalvo, Redhead, Lodge & Martín, Mycologia 97(5): 1148 (2006)
 
 #### Original name
 Stigmatolemma incanum Kalchbr., 1882

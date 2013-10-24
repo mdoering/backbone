@@ -1,14 +1,13 @@
-Ryparobius leveilleanus (Renny) W. Phillips, 1887 SPECIES
-=======
+# Ascozonus leveilleanus Renny ex Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 301 (1887)
+Syll. fung. (Abellini) 8: 544 (1889)
 
 #### Original name
 Ascozonus leveilleanus Renny ex Sacc., 1889

@@ -1,14 +1,13 @@
-Peniophora glebulosa subsp. subulata Bourdot & Galzin SUBSPECIES
-=======
+# Tubulicrinis subulatus (Bourdot & Galzin) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 385 (1913)
+Fungus, Wageningen 26: 14 (1956)
 
 #### Original name
 Peniophora glebulosa subsp. subulata Bourdot & Galzin

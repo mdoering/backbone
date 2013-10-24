@@ -1,5 +1,4 @@
-Enchelys puppa SPECIES
-=======
+# Enchelys puppa SPECIES
 
 #### Status
 ACCEPTED

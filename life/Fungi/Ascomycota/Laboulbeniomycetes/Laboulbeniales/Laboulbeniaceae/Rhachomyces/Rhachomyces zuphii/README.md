@@ -1,5 +1,4 @@
-Rhachomyces zuphii Thaxt., 1904 SPECIES
-=======
+# Rhachomyces zuphii Thaxt., 1904 SPECIES
 
 #### Status
 ACCEPTED

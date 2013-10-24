@@ -1,5 +1,4 @@
-Thermomyces Tsilinskaya, 1899 GENUS
-=======
+# Thermomyces Tsilinskaya, 1899 GENUS
 
 #### Status
 ACCEPTED

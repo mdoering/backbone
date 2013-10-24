@@ -1,5 +1,4 @@
-Paraptychostomidae FAMILY
-=======
+# Paraptychostomidae FAMILY
 
 #### Status
 ACCEPTED

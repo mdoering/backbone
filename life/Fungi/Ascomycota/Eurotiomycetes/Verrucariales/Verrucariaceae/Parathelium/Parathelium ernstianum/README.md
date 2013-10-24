@@ -1,5 +1,4 @@
-Parathelium ernstianum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Parathelium ernstianum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

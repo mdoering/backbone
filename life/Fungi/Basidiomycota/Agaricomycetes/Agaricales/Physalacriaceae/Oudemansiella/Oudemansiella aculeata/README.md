@@ -1,5 +1,4 @@
-Oudemansiella aculeata Raithelh. SPECIES
-=======
+# Oudemansiella aculeata Raithelh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lacrimasporonites levis R.T. Clarke SPECIES
-=======
+# Lacrimasporonites levis R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

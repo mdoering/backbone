@@ -1,5 +1,4 @@
-Naothyrsium Bat. GENUS
-=======
+# Naothyrsium Bat. GENUS
 
 #### Status
 ACCEPTED

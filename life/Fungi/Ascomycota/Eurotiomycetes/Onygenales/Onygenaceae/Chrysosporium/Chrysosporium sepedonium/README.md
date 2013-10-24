@@ -1,5 +1,4 @@
-Chrysosporium sepedonium Dominik SPECIES
-=======
+# Chrysosporium sepedonium Dominik SPECIES
 
 #### Status
 ACCEPTED

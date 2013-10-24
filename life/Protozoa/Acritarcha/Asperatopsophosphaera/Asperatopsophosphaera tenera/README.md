@@ -1,5 +1,4 @@
-Asperatopsophosphaera tenera Cao Renguan et al., 1980 SPECIES
-=======
+# Asperatopsophosphaera tenera Cao Renguan et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

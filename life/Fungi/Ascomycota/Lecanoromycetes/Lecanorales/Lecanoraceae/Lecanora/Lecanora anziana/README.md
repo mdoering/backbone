@@ -1,5 +1,4 @@
-Lecanora anziana Jatta SPECIES
-=======
+# Lecanora anziana Jatta SPECIES
 
 #### Status
 ACCEPTED

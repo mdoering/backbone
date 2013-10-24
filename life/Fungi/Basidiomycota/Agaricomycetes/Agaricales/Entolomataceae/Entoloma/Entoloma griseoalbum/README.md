@@ -1,5 +1,4 @@
-Entoloma griseoalbum E. Horak SPECIES
-=======
+# Entoloma griseoalbum E. Horak SPECIES
 
 #### Status
 ACCEPTED

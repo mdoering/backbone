@@ -1,5 +1,4 @@
-Antrodia infirma Renvall & Niemelä, 1992 SPECIES
-=======
+# Antrodia infirma Renvall & Niemelä, 1992 SPECIES
 
 #### Status
 ACCEPTED

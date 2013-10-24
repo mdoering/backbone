@@ -1,5 +1,4 @@
-Crossopsora antidesmae-dioicae (Syd. & P. Syd.) Arthur & Cummins SPECIES
-=======
+# Crossopsora antidesmae-dioicae (Syd. & P. Syd.) Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

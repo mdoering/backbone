@@ -1,5 +1,4 @@
-Marasmius paradoxus Henn. SPECIES
-=======
+# Marasmius paradoxus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodictyosporium Matsushima, 1971 GENUS
-=======
+# Pseudodictyosporium Matsushima, 1971 GENUS
 
 #### Status
 ACCEPTED

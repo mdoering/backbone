@@ -1,5 +1,4 @@
-Catenococcus thiocycli Sorokin, 1992 SPECIES
-=======
+# Catenococcus thiocycli Sorokin, 1992 SPECIES
 
 #### Status
 ACCEPTED

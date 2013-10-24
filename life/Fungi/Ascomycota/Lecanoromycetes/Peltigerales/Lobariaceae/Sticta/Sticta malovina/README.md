@@ -1,5 +1,4 @@
-Sticta malovina Fr. SPECIES
-=======
+# Sticta malovina Fr. SPECIES
 
 #### Status
 ACCEPTED

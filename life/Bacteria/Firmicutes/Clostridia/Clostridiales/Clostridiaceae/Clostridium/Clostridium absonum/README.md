@@ -1,5 +1,4 @@
-Clostridium absonum Nakamura et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium absonum Nakamura et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

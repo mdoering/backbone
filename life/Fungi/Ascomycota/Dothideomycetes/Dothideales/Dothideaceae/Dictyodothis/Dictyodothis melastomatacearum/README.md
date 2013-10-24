@@ -1,5 +1,4 @@
-Dictyodothis melastomatacearum Viégas SPECIES
-=======
+# Dictyodothis melastomatacearum Viégas SPECIES
 
 #### Status
 ACCEPTED

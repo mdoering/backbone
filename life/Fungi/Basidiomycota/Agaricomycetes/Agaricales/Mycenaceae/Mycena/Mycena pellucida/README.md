@@ -1,5 +1,4 @@
-Mycena pellucida Henn. SPECIES
-=======
+# Mycena pellucida Henn. SPECIES
 
 #### Status
 ACCEPTED

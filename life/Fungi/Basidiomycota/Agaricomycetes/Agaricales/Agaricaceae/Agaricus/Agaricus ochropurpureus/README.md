@@ -1,5 +1,4 @@
-Agaricus ochropurpureus Berk. SPECIES
-=======
+# Agaricus ochropurpureus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete vitrea Kisim.-Hor., Oberw. & L.D. Gómez SPECIES
-=======
+# Heterochaete vitrea Kisim.-Hor., Oberw. & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

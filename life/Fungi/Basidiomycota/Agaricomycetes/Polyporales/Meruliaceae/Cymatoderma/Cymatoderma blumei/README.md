@@ -1,14 +1,13 @@
-Cladoderris blumei Lév., 1844 SPECIES
-=======
+# Cymatoderma blumei (Lév.) D.A. Reid, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 2: 213 (1844)
+Kew Bull. 13: 521 (1959)
 
 #### Original name
 Cladoderris blumei Lév., 1844

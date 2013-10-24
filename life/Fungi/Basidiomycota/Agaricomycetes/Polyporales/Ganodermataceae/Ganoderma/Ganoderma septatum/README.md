@@ -1,5 +1,4 @@
-Ganoderma septatum Steyaert SPECIES
-=======
+# Ganoderma septatum Steyaert SPECIES
 
 #### Status
 ACCEPTED

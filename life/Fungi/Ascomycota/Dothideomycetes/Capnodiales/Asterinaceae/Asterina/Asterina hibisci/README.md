@@ -1,5 +1,4 @@
-Asterina hibisci (Doidge) Hosag. SPECIES
-=======
+# Asterina hibisci (Doidge) Hosag. SPECIES
 
 #### Status
 ACCEPTED

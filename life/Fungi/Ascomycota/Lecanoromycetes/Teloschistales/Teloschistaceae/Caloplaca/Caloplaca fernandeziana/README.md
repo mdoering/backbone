@@ -1,5 +1,4 @@
-Caloplaca fernandeziana (Malme) Follmann & Redón SPECIES
-=======
+# Caloplaca fernandeziana (Malme) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

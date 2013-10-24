@@ -1,5 +1,4 @@
-Laeterohelix GENUS
-=======
+# Laeterohelix GENUS
 
 #### Status
 ACCEPTED

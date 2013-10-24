@@ -1,5 +1,4 @@
-Mycosphaerella pericopsidis Henn. SPECIES
-=======
+# Mycosphaerella pericopsidis Henn. SPECIES
 
 #### Status
 ACCEPTED

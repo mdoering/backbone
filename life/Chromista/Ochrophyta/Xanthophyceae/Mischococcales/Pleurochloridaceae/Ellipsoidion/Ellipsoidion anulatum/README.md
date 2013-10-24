@@ -1,5 +1,4 @@
-Ellipsoidion anulatum Pascher SPECIES
-=======
+# Ellipsoidion anulatum Pascher SPECIES
 
 #### Status
 ACCEPTED

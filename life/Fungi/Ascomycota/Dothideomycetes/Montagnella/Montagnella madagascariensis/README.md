@@ -1,5 +1,4 @@
-Montagnella madagascariensis Pat. SPECIES
-=======
+# Montagnella madagascariensis Pat. SPECIES
 
 #### Status
 ACCEPTED

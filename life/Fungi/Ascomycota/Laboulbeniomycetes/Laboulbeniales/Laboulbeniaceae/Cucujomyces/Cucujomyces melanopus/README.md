@@ -1,5 +1,4 @@
-Cucujomyces melanopus Speg., 1917 SPECIES
-=======
+# Cucujomyces melanopus Speg., 1917 SPECIES
 
 #### Status
 ACCEPTED

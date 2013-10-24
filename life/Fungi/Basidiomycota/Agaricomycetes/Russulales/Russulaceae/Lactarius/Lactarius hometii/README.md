@@ -1,17 +1,16 @@
-Lactarius hometi Gillet SPECIES
-=======
+# Lactarius hometii Gillet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Champignons de France. Tableaux Analytiques des Hyménomycétes (Alençon) 43 (1884)
 
 #### Original name
-Lactarius hometi Gillet
+Lactarius hometii Gillet
 
 ### Remarks
 null

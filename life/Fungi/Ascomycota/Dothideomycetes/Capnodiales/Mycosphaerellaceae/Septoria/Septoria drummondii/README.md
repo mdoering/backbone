@@ -1,5 +1,4 @@
-Septoria drummondii Ellis & Everh. SPECIES
-=======
+# Septoria drummondii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium pausiacum Liberta, 1962 SPECIES
-=======
+# Luellia recondita (H.S. Jacks.) K.H. Larss. & Hjortstam, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 68(1): 60 (1974)
 
 #### Original name
 null

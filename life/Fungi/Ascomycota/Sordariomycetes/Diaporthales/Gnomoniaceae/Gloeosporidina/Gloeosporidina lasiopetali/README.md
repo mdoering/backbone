@@ -1,5 +1,4 @@
-Gloeosporidina lasiopetali B. Sutton SPECIES
-=======
+# Gloeosporidina lasiopetali B. Sutton SPECIES
 
 #### Status
 ACCEPTED

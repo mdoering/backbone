@@ -1,5 +1,4 @@
-Uncinula columbiana A. Selby SPECIES
-=======
+# Uncinula columbiana A. Selby SPECIES
 
 #### Status
 ACCEPTED

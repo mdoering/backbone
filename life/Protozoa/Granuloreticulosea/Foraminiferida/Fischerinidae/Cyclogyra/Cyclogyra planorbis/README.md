@@ -1,5 +1,4 @@
-Cyclogyra planorbis SPECIES
-=======
+# Cyclogyra planorbis SPECIES
 
 #### Status
 ACCEPTED

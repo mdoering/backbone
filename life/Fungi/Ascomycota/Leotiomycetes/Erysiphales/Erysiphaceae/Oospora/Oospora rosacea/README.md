@@ -1,5 +1,4 @@
-Oospora rosacea (Van Hest) Sacc. & Traverso SPECIES
-=======
+# Oospora rosacea (Van Hest) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

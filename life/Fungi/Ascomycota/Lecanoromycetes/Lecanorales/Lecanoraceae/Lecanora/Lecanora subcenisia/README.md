@@ -1,5 +1,4 @@
-Lecanora subcenisia B. de Lesd. SPECIES
-=======
+# Lecanora subcenisia B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

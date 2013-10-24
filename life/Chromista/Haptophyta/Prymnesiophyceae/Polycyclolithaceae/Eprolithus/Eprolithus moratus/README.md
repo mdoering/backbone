@@ -1,5 +1,4 @@
-Eprolithus moratus SPECIES
-=======
+# Eprolithus moratus SPECIES
 
 #### Status
 ACCEPTED

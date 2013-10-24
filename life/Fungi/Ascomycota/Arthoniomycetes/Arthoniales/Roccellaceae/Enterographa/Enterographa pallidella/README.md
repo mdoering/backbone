@@ -1,14 +1,13 @@
-Platygrapha pallidella Nyl. SPECIES
-=======
+# Enterographa pallidella (Nyl.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 50: 6 (1867)
+Repert. Spec. Nov. Regni Veg. 43: 61 (1938)
 
 #### Original name
 Platygrapha pallidella Nyl.

@@ -1,5 +1,4 @@
-Gloeothece dubia (Wartmann) Geitler SPECIES
-=======
+# Gloeothece dubia (Wartmann) Geitler SPECIES
 
 #### Status
 ACCEPTED

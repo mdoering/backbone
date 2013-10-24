@@ -1,5 +1,4 @@
-Alternaria molesta E.G. Simmons, 1981 SPECIES
-=======
+# Alternaria molesta E.G. Simmons, 1981 SPECIES
 
 #### Status
 ACCEPTED

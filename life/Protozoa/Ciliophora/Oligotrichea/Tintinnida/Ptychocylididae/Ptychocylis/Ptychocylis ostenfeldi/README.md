@@ -1,5 +1,4 @@
-Ptychocylis ostenfeldi Kofoid & Campbell, 1929 SPECIES
-=======
+# Ptychocylis ostenfeldi Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella aquifolii (Cooke & Ellis) Sacc. SPECIES
-=======
+# Pezizella aquifolii (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

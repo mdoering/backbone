@@ -1,5 +1,4 @@
-Diaporthe nigricolor Nitschke SPECIES
-=======
+# Diaporthe nigricolor Nitschke SPECIES
 
 #### Status
 ACCEPTED

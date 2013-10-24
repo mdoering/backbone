@@ -1,5 +1,4 @@
-Mycena ionocephala Singer SPECIES
-=======
+# Mycena ionocephala Singer SPECIES
 
 #### Status
 ACCEPTED

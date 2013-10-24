@@ -1,5 +1,4 @@
-Ustilago manilensis Syd. & P. Syd. SPECIES
-=======
+# Ustilago manilensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

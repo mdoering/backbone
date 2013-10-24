@@ -1,17 +1,16 @@
-Sphaeria phylloplaca Kunze, 1817 SPECIES
-=======
+# Phyllachora phylloplaca (Kunze ex Mont.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 599 (1883)
 
 #### Original name
-null
+Dothidea phylloplaca Kunze ex Mont., 1855
 
 ### Remarks
 null

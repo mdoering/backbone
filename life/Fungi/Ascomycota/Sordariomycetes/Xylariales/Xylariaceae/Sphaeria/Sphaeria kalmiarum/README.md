@@ -1,5 +1,4 @@
-Sphaeria kalmiarum Schwein. SPECIES
-=======
+# Sphaeria kalmiarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

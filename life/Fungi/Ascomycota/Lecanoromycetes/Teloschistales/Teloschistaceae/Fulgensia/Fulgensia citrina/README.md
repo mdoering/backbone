@@ -1,5 +1,4 @@
-Fulgensia citrina (Hedw.) Gyeln. SPECIES
-=======
+# Fulgensia citrina (Hedw.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

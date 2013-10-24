@@ -1,17 +1,16 @@
-Mucor plumbeus f. nana Naumov FORM
-=======
+# Mucor plumbeus Bonord., 1864 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. naturforsch. Ges. Halle 8: 109 (1864)
 
 #### Original name
-Mucor plumbeus f. nana Naumov
+Mucor plumbeus Bonord., 1864
 
 ### Remarks
 null

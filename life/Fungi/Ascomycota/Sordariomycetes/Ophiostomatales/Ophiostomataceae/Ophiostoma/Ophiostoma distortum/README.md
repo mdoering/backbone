@@ -1,14 +1,13 @@
-Ceratocystis distorta R.W. Davidson, 1971 SPECIES
-=======
+# Ophiostoma distortum (R.W. Davidson) de Hoog & R.J. Scheff., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 63(1): 10 (1971)
+Mycologia 76(2): 297 (1984)
 
 #### Original name
 Ceratocystis distorta R.W. Davidson, 1971

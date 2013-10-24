@@ -1,5 +1,4 @@
-Amoebophrya acanthometrae Koeppen SPECIES
-=======
+# Amoebophrya acanthometrae Koeppen SPECIES
 
 #### Status
 ACCEPTED

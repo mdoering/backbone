@@ -1,5 +1,4 @@
-Spumaria pallida Schumach. SPECIES
-=======
+# Spumaria pallida Schumach. SPECIES
 
 #### Status
 ACCEPTED

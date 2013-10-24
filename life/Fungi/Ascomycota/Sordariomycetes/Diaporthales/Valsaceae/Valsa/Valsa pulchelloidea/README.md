@@ -1,5 +1,4 @@
-Valsa pulchelloidea Cooke & Ellis SPECIES
-=======
+# Valsa pulchelloidea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

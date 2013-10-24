@@ -1,5 +1,4 @@
-Ascochyta violae-hirtae Bubák SPECIES
-=======
+# Ascochyta violae-hirtae Bubák SPECIES
 
 #### Status
 ACCEPTED

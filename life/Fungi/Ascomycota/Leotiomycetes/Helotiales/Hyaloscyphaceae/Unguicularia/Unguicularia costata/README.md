@@ -1,14 +1,13 @@
-Olla costata (Boud.) Svrcek, 1986 SPECIES
-=======
+# Unguicularia costata (Boud.) Dennis, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 40(4): 216 (1986)
+Mycol. Pap. 32: 79 (1949)
 
 #### Original name
 Helotium costatum Boud., 1881

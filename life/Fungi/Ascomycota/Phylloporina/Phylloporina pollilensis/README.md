@@ -1,8 +1,7 @@
-Phylloporina polillensis (Vain.) Zahlbr. SPECIES
-=======
+# Phylloporina pollilensis (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Porina polillensis Vain.
+Porina pollilensis Vain.
 
 ### Remarks
 null

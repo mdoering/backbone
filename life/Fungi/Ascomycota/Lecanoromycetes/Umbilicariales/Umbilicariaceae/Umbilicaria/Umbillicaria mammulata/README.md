@@ -1,5 +1,4 @@
-Umbillicaria mammulata (Ach.) Tuck. SPECIES
-=======
+# Umbillicaria mammulata (Ach.) Tuck. SPECIES
 
 #### Status
 DOUBTFUL

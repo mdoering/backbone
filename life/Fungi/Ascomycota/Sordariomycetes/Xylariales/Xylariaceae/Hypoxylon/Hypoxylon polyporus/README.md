@@ -1,14 +1,13 @@
-Hypoxylon polyporum (Starbäck) Y.M. Ju & J.D. Rogers SPECIES
-=======
+# Hypoxylon polyporus (Starbäck) Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 20: 171 (1996)
 
 #### Original name
 Penzigia polyporus Starbäck, 1905

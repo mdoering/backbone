@@ -1,5 +1,4 @@
-Collybia robiniae Velen. SPECIES
-=======
+# Collybia robiniae Velen. SPECIES
 
 #### Status
 ACCEPTED

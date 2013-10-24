@@ -1,5 +1,4 @@
-Tuburcinia cesatii Sorokin SPECIES
-=======
+# Tuburcinia cesatii Sorokin SPECIES
 
 #### Status
 ACCEPTED

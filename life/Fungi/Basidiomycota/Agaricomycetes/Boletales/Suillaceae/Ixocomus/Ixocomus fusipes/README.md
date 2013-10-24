@@ -1,5 +1,4 @@
-Ixocomus fusipes Quél. SPECIES
-=======
+# Ixocomus fusipes Quél. SPECIES
 
 #### Status
 ACCEPTED

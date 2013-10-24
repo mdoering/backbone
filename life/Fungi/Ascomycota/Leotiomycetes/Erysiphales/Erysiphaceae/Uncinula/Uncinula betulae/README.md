@@ -1,5 +1,4 @@
-Uncinula betulae Golovin & Bunkina SPECIES
-=======
+# Uncinula betulae Golovin & Bunkina SPECIES
 
 #### Status
 ACCEPTED

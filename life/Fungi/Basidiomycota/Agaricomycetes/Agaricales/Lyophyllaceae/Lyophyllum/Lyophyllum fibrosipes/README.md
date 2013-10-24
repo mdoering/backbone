@@ -1,5 +1,4 @@
-Lyophyllum fibrosipes (Métrod ex Bon) Consiglio & Contu SPECIES
-=======
+# Lyophyllum fibrosipes (Métrod ex Bon) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

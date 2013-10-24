@@ -1,5 +1,4 @@
-Parmathyrites turaensis R.K. Kar, R.Y. Singh & Sah SPECIES
-=======
+# Parmathyrites turaensis R.K. Kar, R.Y. Singh & Sah SPECIES
 
 #### Status
 ACCEPTED

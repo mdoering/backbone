@@ -1,5 +1,4 @@
-Huea smaragdula C.W. Dodge SPECIES
-=======
+# Huea smaragdula C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Demetria terragena Groth et al., 1997 SPECIES
-=======
+# Demetria terragena Groth et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

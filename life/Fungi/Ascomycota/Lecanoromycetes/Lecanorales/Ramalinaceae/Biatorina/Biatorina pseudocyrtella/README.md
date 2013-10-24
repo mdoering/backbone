@@ -1,5 +1,4 @@
-Biatorina pseudocyrtella Anzi SPECIES
-=======
+# Biatorina pseudocyrtella Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cannopilus haliomma (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
-=======
+# Cannopilus haliomma (Ehrenberg) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

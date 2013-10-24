@@ -1,5 +1,4 @@
-Torula minuta Høye {?} SPECIES
-=======
+# Torula minuta Høye {?} SPECIES
 
 #### Status
 ACCEPTED

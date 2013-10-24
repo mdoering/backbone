@@ -1,5 +1,4 @@
-Phaeotellus arbuticola Pilát ex Bon & Chevassut SPECIES
-=======
+# Phaeotellus arbuticola Pilát ex Bon & Chevassut SPECIES
 
 #### Status
 ACCEPTED

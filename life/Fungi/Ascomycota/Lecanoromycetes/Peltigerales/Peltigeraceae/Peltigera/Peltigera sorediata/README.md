@@ -1,5 +1,4 @@
-Peltigera sorediata (H. Olivier) Fink SPECIES
-=======
+# Peltigera sorediata (H. Olivier) Fink SPECIES
 
 #### Status
 ACCEPTED

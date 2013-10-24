@@ -1,5 +1,4 @@
-Stephanodiscus excentricus Hustedt SPECIES
-=======
+# Stephanodiscus excentricus Hustedt SPECIES
 
 #### Status
 ACCEPTED

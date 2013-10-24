@@ -1,5 +1,4 @@
-Lachnocladium ulei Henn., 1892 SPECIES
-=======
+# Lachnocladium ulei Henn., 1892 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria sambuci Ellis & Everh. SPECIES
-=======
+# Nectria sambuci Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

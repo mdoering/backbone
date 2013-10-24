@@ -1,5 +1,4 @@
-Hypocopra bicolor J.C. Krug & Cain SPECIES
-=======
+# Hypocopra bicolor J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

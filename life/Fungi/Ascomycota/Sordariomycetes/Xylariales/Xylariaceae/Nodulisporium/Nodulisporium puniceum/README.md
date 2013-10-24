@@ -1,5 +1,4 @@
-Nodulisporium puniceum (Cooke & Ellis) Deighton SPECIES
-=======
+# Nodulisporium puniceum (Cooke & Ellis) Deighton SPECIES
 
 #### Status
 ACCEPTED

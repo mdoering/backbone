@@ -1,5 +1,4 @@
-Diporisporites pergranulatus Kalgutkar & Janson. SPECIES
-=======
+# Diporisporites pergranulatus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

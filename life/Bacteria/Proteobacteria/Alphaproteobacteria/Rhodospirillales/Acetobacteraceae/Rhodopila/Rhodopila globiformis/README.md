@@ -1,8 +1,7 @@
-Rhodopseudomonas globiformis Pfennig, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Rhodopila globiformis (Pfennig, 1974) Imhoff et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

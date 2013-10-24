@@ -1,5 +1,4 @@
-Melanospora vitrea (Corda) Sacc., 1883 SPECIES
-=======
+# Melanospora vitrea (Corda) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

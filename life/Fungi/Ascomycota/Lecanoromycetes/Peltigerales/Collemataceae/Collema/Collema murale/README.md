@@ -1,5 +1,4 @@
-Collema murale Flot. SPECIES
-=======
+# Collema murale Flot. SPECIES
 
 #### Status
 ACCEPTED

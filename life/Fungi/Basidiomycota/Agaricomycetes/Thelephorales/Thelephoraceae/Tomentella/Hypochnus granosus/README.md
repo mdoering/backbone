@@ -1,5 +1,4 @@
-Hypochnus granosus (Berk. & M.A. Curtis) Bres. SPECIES
-=======
+# Hypochnus granosus (Berk. & M.A. Curtis) Bres. SPECIES
 
 #### Status
 ACCEPTED

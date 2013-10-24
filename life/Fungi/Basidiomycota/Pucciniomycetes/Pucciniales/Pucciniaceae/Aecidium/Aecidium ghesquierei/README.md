@@ -1,5 +1,4 @@
-Aecidium ghesquierei Hendr. SPECIES
-=======
+# Aecidium ghesquierei Hendr. SPECIES
 
 #### Status
 ACCEPTED

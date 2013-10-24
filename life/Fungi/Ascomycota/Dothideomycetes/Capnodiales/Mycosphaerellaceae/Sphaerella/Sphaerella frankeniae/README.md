@@ -1,5 +1,4 @@
-Sphaerella frankeniae Unamuno SPECIES
-=======
+# Sphaerella frankeniae Unamuno SPECIES
 
 #### Status
 ACCEPTED

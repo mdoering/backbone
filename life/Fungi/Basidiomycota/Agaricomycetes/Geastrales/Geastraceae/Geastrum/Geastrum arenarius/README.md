@@ -1,17 +1,16 @@
-Geaster arenarius Lloyd SPECIES
-=======
+# Geastrum arenarius Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+The Geastrae 28 (1907)
 
 #### Original name
-Geaster arenarius Lloyd
+Geastrum arenarius Lloyd
 
 ### Remarks
 null

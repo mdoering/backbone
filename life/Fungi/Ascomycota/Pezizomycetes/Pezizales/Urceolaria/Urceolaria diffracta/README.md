@@ -1,5 +1,4 @@
-Urceolaria diffracta Müll. Arg. SPECIES
-=======
+# Urceolaria diffracta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

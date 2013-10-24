@@ -1,5 +1,4 @@
-Ascochyta aucubae Sacc. & Speg. SPECIES
-=======
+# Ascochyta aucubae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

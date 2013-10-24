@@ -1,5 +1,4 @@
-Clathrella delicata (Berk. & Broome) E. Fisch. SPECIES
-=======
+# Clathrella delicata (Berk. & Broome) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

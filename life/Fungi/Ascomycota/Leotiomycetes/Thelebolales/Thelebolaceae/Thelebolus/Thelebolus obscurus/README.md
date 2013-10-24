@@ -1,5 +1,4 @@
-Thelebolus obscurus (Seaver) Eckblad SPECIES
-=======
+# Thelebolus obscurus (Seaver) Eckblad SPECIES
 
 #### Status
 ACCEPTED

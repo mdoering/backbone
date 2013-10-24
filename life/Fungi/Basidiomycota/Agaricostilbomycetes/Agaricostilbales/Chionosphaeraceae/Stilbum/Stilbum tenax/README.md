@@ -1,5 +1,4 @@
-Stilbum tenax Spreng. SPECIES
-=======
+# Stilbum tenax Spreng. SPECIES
 
 #### Status
 ACCEPTED

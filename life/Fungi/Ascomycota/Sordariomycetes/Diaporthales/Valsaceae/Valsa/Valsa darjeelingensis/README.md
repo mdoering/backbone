@@ -1,5 +1,4 @@
-Valsa darjeelingensis Dargan & Ashw.K. Sharma SPECIES
-=======
+# Valsa darjeelingensis Dargan & Ashw.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

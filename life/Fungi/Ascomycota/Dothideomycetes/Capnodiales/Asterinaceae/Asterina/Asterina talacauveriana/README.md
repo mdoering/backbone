@@ -1,5 +1,4 @@
-Asterina talacauveriana Hosag., 2006 SPECIES
-=======
+# Asterina talacauveriana Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

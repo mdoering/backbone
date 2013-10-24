@@ -1,5 +1,4 @@
-Leptostromella angelicae Dearn. & House SPECIES
-=======
+# Leptostromella angelicae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

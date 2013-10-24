@@ -1,5 +1,4 @@
-Colacium cyclopicola (Gicklh.) Bourr. SPECIES
-=======
+# Colacium cyclopicola (Gicklh.) Bourr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scutula dedicata Triebel, Wedin & Rambold SPECIES
-=======
+# Scutula dedicata Triebel, Wedin & Rambold SPECIES
 
 #### Status
 ACCEPTED

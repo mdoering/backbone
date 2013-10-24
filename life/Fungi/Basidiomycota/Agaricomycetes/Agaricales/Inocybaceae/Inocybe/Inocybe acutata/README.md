@@ -1,5 +1,4 @@
-Inocybe acutata Tak. Kobay. & Nagas. SPECIES
-=======
+# Inocybe acutata Tak. Kobay. & Nagas. SPECIES
 
 #### Status
 ACCEPTED

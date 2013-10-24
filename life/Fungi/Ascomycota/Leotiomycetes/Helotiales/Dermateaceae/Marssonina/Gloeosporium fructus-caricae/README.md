@@ -1,5 +1,4 @@
-Gloeosporium fructus-caricae Henn. SPECIES
-=======
+# Gloeosporium fructus-caricae Henn. SPECIES
 
 #### Status
 ACCEPTED

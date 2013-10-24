@@ -1,5 +1,4 @@
-Gibberella buxi (Fuckel) G. Winter, 1887 SPECIES
-=======
+# Gibberella buxi (Fuckel) G. Winter, 1887 SPECIES
 
 #### Status
 ACCEPTED

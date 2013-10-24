@@ -1,5 +1,4 @@
-Asterotrema orbiculinum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Asterotrema orbiculinum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

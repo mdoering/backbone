@@ -1,5 +1,4 @@
-Filaspora xanthii (Peck) Kuntze SPECIES
-=======
+# Filaspora xanthii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

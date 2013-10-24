@@ -1,5 +1,4 @@
-Septoria lupulina Ellis & Kellerm. SPECIES
-=======
+# Septoria lupulina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

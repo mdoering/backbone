@@ -1,5 +1,4 @@
-Terfezia fanfani Mattir. SPECIES
-=======
+# Terfezia fanfani Mattir. SPECIES
 
 #### Status
 ACCEPTED

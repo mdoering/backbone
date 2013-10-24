@@ -1,5 +1,4 @@
-Gloeocapsa acervata Gardner SPECIES
-=======
+# Gloeocapsa acervata Gardner SPECIES
 
 #### Status
 ACCEPTED

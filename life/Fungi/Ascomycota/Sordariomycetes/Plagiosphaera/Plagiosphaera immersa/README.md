@@ -1,14 +1,13 @@
-Ophiobolus immersus Trail SPECIES
-=======
+# Plagiosphaera immersa (Trail) Petr., 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Crypt. Soc. Scot. 43 (1889)
+Sydowia 14: 351 (1960)
 
 #### Original name
 Ophiobolus immersus Trail

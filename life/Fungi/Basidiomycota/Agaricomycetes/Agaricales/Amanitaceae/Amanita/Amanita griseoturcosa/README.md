@@ -1,5 +1,4 @@
-Amanita griseoturcosa T. Oda, C. Tanaka & Tsuda SPECIES
-=======
+# Amanita griseoturcosa T. Oda, C. Tanaka & Tsuda SPECIES
 
 #### Status
 ACCEPTED

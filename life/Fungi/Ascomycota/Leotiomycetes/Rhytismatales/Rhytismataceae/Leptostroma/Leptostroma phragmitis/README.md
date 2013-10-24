@@ -1,5 +1,4 @@
-Leptostroma phragmitis Fr., 1858 SPECIES
-=======
+# Leptostroma phragmitis Fr., 1858 SPECIES
 
 #### Status
 ACCEPTED

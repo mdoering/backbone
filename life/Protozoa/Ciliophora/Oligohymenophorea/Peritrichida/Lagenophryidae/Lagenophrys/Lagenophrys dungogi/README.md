@@ -1,5 +1,4 @@
-Lagenophrys dungogi Kane, 1965 SPECIES
-=======
+# Lagenophrys dungogi Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

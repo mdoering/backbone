@@ -1,5 +1,4 @@
-Cortinarius pseudorugulosus var. pseudorugulosus VARIETY
-=======
+# Cortinarius pseudorugulosus Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Docums Mycol. 17(no. 68): 37 (1987)
+in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 16: 1096 (2006)
 
 #### Original name
-Cortinarius pseudorugulosus var. pseudorugulosus
+Cortinarius pseudorugulosus Rob. Henry ex Bidaud & Reumaux
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycothyridium tuberculatum (Rehm) Petr. SPECIES
-=======
+# Mycothyridium tuberculatum (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halomonas meridiana James et al., 1990 SPECIES
-=======
+# Halomonas meridiana James et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

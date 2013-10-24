@@ -1,5 +1,4 @@
-Cercosporella mori Peck SPECIES
-=======
+# Cercosporella mori Peck SPECIES
 
 #### Status
 ACCEPTED

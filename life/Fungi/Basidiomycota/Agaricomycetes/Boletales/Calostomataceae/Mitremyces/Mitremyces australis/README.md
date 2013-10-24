@@ -1,5 +1,4 @@
-Mitremyces australis Berk. ex Massee SPECIES
-=======
+# Mitremyces australis Berk. ex Massee SPECIES
 
 #### Status
 ACCEPTED

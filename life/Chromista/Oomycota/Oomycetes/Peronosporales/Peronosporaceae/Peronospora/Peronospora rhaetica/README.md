@@ -1,5 +1,4 @@
-Peronospora rhaetica Gäum. SPECIES
-=======
+# Peronospora rhaetica Gäum. SPECIES
 
 #### Status
 ACCEPTED

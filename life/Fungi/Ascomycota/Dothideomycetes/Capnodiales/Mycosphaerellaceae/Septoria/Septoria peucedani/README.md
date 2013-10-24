@@ -1,5 +1,4 @@
-Septoria peucedani Hollós SPECIES
-=======
+# Septoria peucedani Hollós SPECIES
 
 #### Status
 ACCEPTED

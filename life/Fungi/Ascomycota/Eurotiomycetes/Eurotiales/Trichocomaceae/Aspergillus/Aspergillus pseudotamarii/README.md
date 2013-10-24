@@ -1,5 +1,4 @@
-Aspergillus pseudotamarii Yoko Ito, S.W. Peterson, Wicklow & T. Goto, 2001 SPECIES
-=======
+# Aspergillus pseudotamarii Yoko Ito, S.W. Peterson, Wicklow & T. Goto, 2001 SPECIES
 
 #### Status
 ACCEPTED

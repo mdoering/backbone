@@ -1,5 +1,4 @@
-Mycena gerhardi Raithelh. SPECIES
-=======
+# Mycena gerhardi Raithelh. SPECIES
 
 #### Status
 ACCEPTED

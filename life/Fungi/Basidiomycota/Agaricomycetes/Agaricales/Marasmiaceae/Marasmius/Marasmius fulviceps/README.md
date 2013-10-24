@@ -1,5 +1,4 @@
-Marasmius fulviceps Clem. SPECIES
-=======
+# Marasmius fulviceps Clem. SPECIES
 
 #### Status
 ACCEPTED

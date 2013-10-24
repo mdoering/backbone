@@ -1,5 +1,4 @@
-Placidiopsis novozelandica C.W. Dodge SPECIES
-=======
+# Placidiopsis novozelandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

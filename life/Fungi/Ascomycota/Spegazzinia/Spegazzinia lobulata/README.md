@@ -1,5 +1,4 @@
-Spegazzinia lobulata Thrower, 1954 SPECIES
-=======
+# Spegazzinia lobulata Thrower, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina lepidigena Ellis SPECIES
-=======
+# Asterina lepidigena Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilurus trullisatus (Murrill) Lennox SPECIES
-=======
+# Strobilurus trullisatus (Murrill) Lennox SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria aurantii De Not. SPECIES
-=======
+# Sphaeria aurantii De Not. SPECIES
 
 #### Status
 ACCEPTED

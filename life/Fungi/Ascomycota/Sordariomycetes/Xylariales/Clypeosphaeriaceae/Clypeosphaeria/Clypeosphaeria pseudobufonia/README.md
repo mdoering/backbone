@@ -1,5 +1,4 @@
-Clypeosphaeria pseudobufonia Rehm SPECIES
-=======
+# Clypeosphaeria pseudobufonia Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum polyphyllum var. fissifolium Grunow VARIETY
-=======
+# Sargassum polyphyllum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

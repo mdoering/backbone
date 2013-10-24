@@ -1,5 +1,4 @@
-Semilecanora cupreofusca Motyka SPECIES
-=======
+# Semilecanora cupreofusca Motyka SPECIES
 
 #### Status
 ACCEPTED

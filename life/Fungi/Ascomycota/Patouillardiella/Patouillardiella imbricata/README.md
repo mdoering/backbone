@@ -1,5 +1,4 @@
-Patouillardiella imbricata Dilcher SPECIES
-=======
+# Patouillardiella imbricata Dilcher SPECIES
 
 #### Status
 ACCEPTED

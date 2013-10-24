@@ -1,5 +1,4 @@
-Cercosporina lappae Watan. {?} & Takah. {?} SPECIES
-=======
+# Cercosporina lappae Watan. {?} & Takah. {?} SPECIES
 
 #### Status
 ACCEPTED

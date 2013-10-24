@@ -1,5 +1,4 @@
-Parawelekindellina GENUS
-=======
+# Parawelekindellina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia caryae Bonar SPECIES
-=======
+# Rosellinia caryae Bonar SPECIES
 
 #### Status
 ACCEPTED

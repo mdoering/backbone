@@ -1,5 +1,4 @@
-Inocybe cingulatipes (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe cingulatipes (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

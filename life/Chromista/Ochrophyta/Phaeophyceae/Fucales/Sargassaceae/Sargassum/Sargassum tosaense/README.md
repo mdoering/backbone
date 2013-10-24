@@ -1,5 +1,4 @@
-Sargassum tosaense Yendo SPECIES
-=======
+# Sargassum tosaense Yendo SPECIES
 
 #### Status
 ACCEPTED

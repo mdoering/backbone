@@ -1,5 +1,4 @@
-Boletus minimus M. Zang & N.L. Huang SPECIES
-=======
+# Boletus minimus M. Zang & N.L. Huang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exotrichum leocomelas SPECIES
-=======
+# Exotrichum leocomelas SPECIES
 
 #### Status
 ACCEPTED

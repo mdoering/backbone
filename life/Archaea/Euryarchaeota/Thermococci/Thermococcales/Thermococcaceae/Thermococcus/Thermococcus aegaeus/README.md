@@ -1,5 +1,4 @@
-Thermococcus aegaeus Arab, Volker & Thomm, 2000 SPECIES
-=======
+# Thermococcus aegaeus Arab, Volker & Thomm, 2000 SPECIES
 
 #### Status
 ACCEPTED

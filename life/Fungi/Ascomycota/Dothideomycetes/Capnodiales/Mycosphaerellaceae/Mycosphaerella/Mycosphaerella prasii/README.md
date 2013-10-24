@@ -1,5 +1,4 @@
-Mycosphaerella prasii (Pat.) Maire & Werner SPECIES
-=======
+# Mycosphaerella prasii (Pat.) Maire & Werner SPECIES
 
 #### Status
 ACCEPTED

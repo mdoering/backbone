@@ -1,5 +1,4 @@
-Polyporus greenii Yasuda SPECIES
-=======
+# Polyporus greenii Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spharopsis GENUS
-=======
+# Spharopsis GENUS
 
 #### Status
 ACCEPTED

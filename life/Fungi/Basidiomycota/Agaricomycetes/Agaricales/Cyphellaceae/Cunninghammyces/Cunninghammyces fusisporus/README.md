@@ -1,5 +1,4 @@
-Cunninghammyces fusisporus Boidin & Gilles, 1993 SPECIES
-=======
+# Cunninghammyces fusisporus Boidin & Gilles, 1993 SPECIES
 
 #### Status
 ACCEPTED

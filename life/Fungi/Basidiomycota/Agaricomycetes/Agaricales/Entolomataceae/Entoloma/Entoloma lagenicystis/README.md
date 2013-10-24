@@ -1,5 +1,4 @@
-Entoloma lagenicystis Hesler SPECIES
-=======
+# Entoloma lagenicystis Hesler SPECIES
 
 #### Status
 ACCEPTED

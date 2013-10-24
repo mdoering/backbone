@@ -1,5 +1,4 @@
-Isidium calcarium Schaer. SPECIES
-=======
+# Isidium calcarium Schaer. SPECIES
 
 #### Status
 ACCEPTED

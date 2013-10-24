@@ -1,5 +1,4 @@
-Opegrapha lilacina A. Massal. SPECIES
-=======
+# Opegrapha lilacina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

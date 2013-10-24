@@ -1,5 +1,4 @@
-Crassoascus fusisporus Checa, Barrasa & A.T. Martínez, 1993 SPECIES
-=======
+# Crassoascus fusisporus Checa, Barrasa & A.T. Martínez, 1993 SPECIES
 
 #### Status
 ACCEPTED

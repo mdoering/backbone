@@ -1,5 +1,4 @@
-Pyrenula subrizalensis Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula subrizalensis Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutherfordia McCulloch, 1977 GENUS
-=======
+# Rutherfordia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

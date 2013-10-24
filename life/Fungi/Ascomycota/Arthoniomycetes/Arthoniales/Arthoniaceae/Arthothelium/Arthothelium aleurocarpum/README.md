@@ -1,5 +1,4 @@
-Arthothelium aleurocarpum (Nyl.) Zahlbr. SPECIES
-=======
+# Arthothelium aleurocarpum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

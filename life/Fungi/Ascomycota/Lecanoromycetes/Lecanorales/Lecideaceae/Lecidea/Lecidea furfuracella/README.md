@@ -1,5 +1,4 @@
-Lecidea furfuracella Nyl. SPECIES
-=======
+# Lecidea furfuracella Nyl. SPECIES
 
 #### Status
 ACCEPTED

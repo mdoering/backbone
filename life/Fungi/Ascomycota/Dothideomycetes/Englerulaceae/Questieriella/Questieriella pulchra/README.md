@@ -1,5 +1,4 @@
-Questieriella pulchra S. Hughes, 1983 SPECIES
-=======
+# Questieriella pulchra S. Hughes, 1983 SPECIES
 
 #### Status
 ACCEPTED

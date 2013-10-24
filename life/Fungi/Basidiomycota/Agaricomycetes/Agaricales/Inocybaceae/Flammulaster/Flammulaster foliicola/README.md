@@ -1,5 +1,4 @@
-Flammulaster foliicola E. Horak, 1980 SPECIES
-=======
+# Flammulaster foliicola E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

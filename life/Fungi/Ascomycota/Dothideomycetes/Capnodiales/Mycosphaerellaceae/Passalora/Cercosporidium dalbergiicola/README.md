@@ -1,5 +1,4 @@
-Cercosporidium dalbergiicola (T.S. Ramakr. & K. Ramakr.) Deighton SPECIES
-=======
+# Cercosporidium dalbergiicola (T.S. Ramakr. & K. Ramakr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

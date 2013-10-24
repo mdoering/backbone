@@ -1,5 +1,4 @@
-Galerina steglichii Besl, 1993 SPECIES
-=======
+# Galerina steglichii Besl, 1993 SPECIES
 
 #### Status
 ACCEPTED

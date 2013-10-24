@@ -1,5 +1,4 @@
-Uromyces brandegei Peck SPECIES
-=======
+# Uromyces brandegei Peck SPECIES
 
 #### Status
 ACCEPTED

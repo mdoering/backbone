@@ -1,5 +1,4 @@
-Tribonema fonticola Ettl SPECIES
-=======
+# Tribonema fonticola Ettl SPECIES
 
 #### Status
 ACCEPTED

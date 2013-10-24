@@ -1,5 +1,4 @@
-Stagonospora cyperi Ellis & Tracy SPECIES
-=======
+# Stagonospora cyperi Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

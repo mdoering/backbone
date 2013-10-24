@@ -1,5 +1,4 @@
-Puccinia joannesiae Henn. SPECIES
-=======
+# Puccinia joannesiae Henn. SPECIES
 
 #### Status
 ACCEPTED

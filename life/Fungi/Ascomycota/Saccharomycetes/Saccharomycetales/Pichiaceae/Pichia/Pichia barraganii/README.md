@@ -1,8 +1,7 @@
-Pichia barragani Ruiz {?} SPECIES
-=======
+# Pichia barraganii Ruiz {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pichia barragani Ruiz {?}
+Pichia barraganii Ruiz {?}
 
 ### Remarks
 null

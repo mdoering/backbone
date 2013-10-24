@@ -1,5 +1,4 @@
-Septoria magellanica Speg. SPECIES
-=======
+# Septoria magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

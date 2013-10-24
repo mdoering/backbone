@@ -1,5 +1,4 @@
-Phyllosticta supervacanea Bubák SPECIES
-=======
+# Phyllosticta supervacanea Bubák SPECIES
 
 #### Status
 ACCEPTED

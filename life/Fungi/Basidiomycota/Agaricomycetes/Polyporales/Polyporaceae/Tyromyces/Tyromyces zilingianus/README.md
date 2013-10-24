@@ -1,5 +1,4 @@
-Tyromyces zilingianus (Pilát) Bondartsev SPECIES
-=======
+# Tyromyces zilingianus (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

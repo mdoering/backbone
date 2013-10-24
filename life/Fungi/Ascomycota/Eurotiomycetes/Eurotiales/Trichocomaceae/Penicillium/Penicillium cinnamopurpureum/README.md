@@ -1,5 +1,4 @@
-Penicillium cinnamopurpureum S. Abe ex Udagawa SPECIES
-=======
+# Penicillium cinnamopurpureum S. Abe ex Udagawa SPECIES
 
 #### Status
 ACCEPTED

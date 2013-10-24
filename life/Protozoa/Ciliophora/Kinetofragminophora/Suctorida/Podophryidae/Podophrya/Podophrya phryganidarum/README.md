@@ -1,5 +1,4 @@
-Podophrya phryganidarum SPECIES
-=======
+# Podophrya phryganidarum SPECIES
 
 #### Status
 ACCEPTED

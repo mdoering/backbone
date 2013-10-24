@@ -1,5 +1,4 @@
-Bacidia endoleuca SPECIES
-=======
+# Bacidia endoleuca SPECIES
 
 #### Status
 ACCEPTED

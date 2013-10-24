@@ -1,5 +1,4 @@
-Aspidothelium cuyabense (Malme) P.M. McCarthy SPECIES
-=======
+# Aspidothelium cuyabense (Malme) P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

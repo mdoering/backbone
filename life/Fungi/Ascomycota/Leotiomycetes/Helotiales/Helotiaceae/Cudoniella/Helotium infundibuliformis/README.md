@@ -1,5 +1,4 @@
-Helotium infundibuliformis Alb. & Schwein. SPECIES
-=======
+# Helotium infundibuliformis Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

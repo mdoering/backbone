@@ -1,5 +1,4 @@
-Alphitomorpha fumosa Wallr. SPECIES
-=======
+# Alphitomorpha fumosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

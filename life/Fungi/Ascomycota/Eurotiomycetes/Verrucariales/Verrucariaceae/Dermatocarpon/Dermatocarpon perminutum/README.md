@@ -1,5 +1,4 @@
-Dermatocarpon perminutum H. Magn. SPECIES
-=======
+# Dermatocarpon perminutum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

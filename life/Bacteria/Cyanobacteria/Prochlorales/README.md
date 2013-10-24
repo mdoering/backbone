@@ -1,5 +1,4 @@
-Prochlorales ORDER
-=======
+# Prochlorales ORDER
 
 #### Status
 ACCEPTED

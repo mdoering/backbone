@@ -1,5 +1,4 @@
-Macrophoma clitoricarpa (Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma clitoricarpa (Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria atrosplendens Preuss SPECIES
-=======
+# Sphaeria atrosplendens Preuss SPECIES
 
 #### Status
 ACCEPTED

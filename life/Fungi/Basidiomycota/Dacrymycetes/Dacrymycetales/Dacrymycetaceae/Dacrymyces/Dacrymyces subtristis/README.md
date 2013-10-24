@@ -1,5 +1,4 @@
-Dacrymyces subtristis Rick SPECIES
-=======
+# Dacrymyces subtristis Rick SPECIES
 
 #### Status
 ACCEPTED

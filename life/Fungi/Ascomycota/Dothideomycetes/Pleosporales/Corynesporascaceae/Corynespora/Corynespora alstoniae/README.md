@@ -1,5 +1,4 @@
-Corynespora alstoniae Meenu, Arch. Singh & S.K. Singh SPECIES
-=======
+# Corynespora alstoniae Meenu, Arch. Singh & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

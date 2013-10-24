@@ -1,5 +1,4 @@
-Leptosphaeria quamoclidii Fairm. SPECIES
-=======
+# Leptosphaeria quamoclidii Fairm. SPECIES
 
 #### Status
 ACCEPTED

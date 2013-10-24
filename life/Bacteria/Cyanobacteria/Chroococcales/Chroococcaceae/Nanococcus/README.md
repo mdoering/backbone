@@ -1,5 +1,4 @@
-Nanococcus J.H. Oehler, 1977 GENUS
-=======
+# Nanococcus J.H. Oehler, 1977 GENUS
 
 #### Status
 ACCEPTED

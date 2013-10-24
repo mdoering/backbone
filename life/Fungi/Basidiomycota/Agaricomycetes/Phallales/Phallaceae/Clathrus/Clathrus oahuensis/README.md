@@ -1,5 +1,4 @@
-Clathrus oahuensis Dring SPECIES
-=======
+# Clathrus oahuensis Dring SPECIES
 
 #### Status
 ACCEPTED

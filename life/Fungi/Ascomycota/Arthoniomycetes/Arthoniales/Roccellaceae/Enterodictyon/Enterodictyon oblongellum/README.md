@@ -1,5 +1,4 @@
-Enterodictyon oblongellum Müll. Arg. SPECIES
-=======
+# Enterodictyon oblongellum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

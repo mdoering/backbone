@@ -1,5 +1,4 @@
-Sporisorium stuhlmannii (Henn.) Vánky SPECIES
-=======
+# Sporisorium stuhlmannii (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

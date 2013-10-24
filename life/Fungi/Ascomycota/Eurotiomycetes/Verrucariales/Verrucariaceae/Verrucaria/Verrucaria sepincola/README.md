@@ -1,8 +1,7 @@
-Verrucaria saepincola Vain. SPECIES
-=======
+# Verrucaria sepincola Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria saepincola Vain.
+Verrucaria sepincola Vain.
 
 ### Remarks
 null

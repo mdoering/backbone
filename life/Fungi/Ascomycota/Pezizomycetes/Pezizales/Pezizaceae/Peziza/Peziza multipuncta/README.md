@@ -1,5 +1,4 @@
-Peziza multipuncta Peck SPECIES
-=======
+# Peziza multipuncta Peck SPECIES
 
 #### Status
 ACCEPTED

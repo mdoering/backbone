@@ -1,5 +1,4 @@
-Tubeufia pachythrix (Rehm) Rossman, 1979 SPECIES
-=======
+# Tubeufia pachythrix (Rehm) Rossman, 1979 SPECIES
 
 #### Status
 ACCEPTED

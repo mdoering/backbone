@@ -1,5 +1,4 @@
-Cornutosa Haeckel, 1881 GENUS
-=======
+# Cornutosa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

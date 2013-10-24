@@ -1,5 +1,4 @@
-Phragmidium rosae-acicularis Liro SPECIES
-=======
+# Phragmidium rosae-acicularis Liro SPECIES
 
 #### Status
 ACCEPTED

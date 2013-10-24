@@ -1,14 +1,13 @@
-Septoria caricicola Sacc., 1878 SPECIES
-=======
+# Phaeoseptoria caricicola (Sacc.) R. Sprague, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 196 (1878)
+Res. Stud. State Coll. Wash. 22: 162 (1954)
 
 #### Original name
 Septoria caricicola Sacc., 1878

@@ -1,5 +1,4 @@
-Streptomyces yatensis Saintpierre et al., 2003 SPECIES
-=======
+# Streptomyces yatensis Saintpierre et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

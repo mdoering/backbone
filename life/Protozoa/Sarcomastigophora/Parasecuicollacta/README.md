@@ -1,5 +1,4 @@
-Parasecuicollacta Won, Blodgett & Nestor, 2002 GENUS
-=======
+# Parasecuicollacta Won, Blodgett & Nestor, 2002 GENUS
 
 #### Status
 ACCEPTED

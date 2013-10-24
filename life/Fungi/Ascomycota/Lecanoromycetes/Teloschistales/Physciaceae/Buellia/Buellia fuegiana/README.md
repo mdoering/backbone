@@ -1,5 +1,4 @@
-Buellia fuegiana (Speg.) Hafellner SPECIES
-=======
+# Buellia fuegiana (Speg.) Hafellner SPECIES
 
 #### Status
 ACCEPTED

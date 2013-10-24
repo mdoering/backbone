@@ -1,5 +1,4 @@
-Agaricus sardellus Fr. SPECIES
-=======
+# Agaricus sardellus Fr. SPECIES
 
 #### Status
 ACCEPTED

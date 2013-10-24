@@ -1,17 +1,16 @@
-Paecilomyces clavisporis Hammill SPECIES
-=======
+# Paecilomyces clavisporus Hammill, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 62(1): 109 (1970)
 
 #### Original name
-Paecilomyces clavisporis Hammill
+Paecilomyces clavisporus Hammill, 1970
 
 ### Remarks
 null

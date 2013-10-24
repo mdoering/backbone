@@ -1,5 +1,4 @@
-Opadorhiza T.F. Andersen & R.T. Moore GENUS
-=======
+# Opadorhiza T.F. Andersen & R.T. Moore GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimargaris arida R.K. Benj., 1965 SPECIES
-=======
+# Dimargaris arida R.K. Benj., 1965 SPECIES
 
 #### Status
 ACCEPTED

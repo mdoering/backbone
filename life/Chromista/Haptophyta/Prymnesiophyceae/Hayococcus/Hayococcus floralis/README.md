@@ -1,5 +1,4 @@
-Hayococcus floralis Jafar, 1983 SPECIES
-=======
+# Hayococcus floralis Jafar, 1983 SPECIES
 
 #### Status
 ACCEPTED

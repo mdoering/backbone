@@ -1,5 +1,4 @@
-Hygrocybe megistospora Singer SPECIES
-=======
+# Hygrocybe megistospora Singer SPECIES
 
 #### Status
 ACCEPTED

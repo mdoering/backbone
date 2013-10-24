@@ -1,5 +1,4 @@
-Vsevolodia Kantorova, 1975 GENUS
-=======
+# Vsevolodia Kantorova, 1975 GENUS
 
 #### Status
 ACCEPTED

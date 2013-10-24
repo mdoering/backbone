@@ -1,5 +1,4 @@
-Psathyrella lauricola A.H. Sm. & Hesler SPECIES
-=======
+# Psathyrella lauricola A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

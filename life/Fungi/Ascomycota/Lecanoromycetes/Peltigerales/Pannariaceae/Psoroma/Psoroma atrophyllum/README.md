@@ -1,5 +1,4 @@
-Psoroma atrophyllum Stirt. SPECIES
-=======
+# Psoroma atrophyllum Stirt. SPECIES
 
 #### Status
 ACCEPTED

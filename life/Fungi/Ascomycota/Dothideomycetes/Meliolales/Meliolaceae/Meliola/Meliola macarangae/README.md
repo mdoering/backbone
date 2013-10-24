@@ -1,5 +1,4 @@
-Meliola macarangae var. macarangae Hansf. VARIETY
-=======
+# Meliola macarangae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Reinwardtia (1954)
+Proc. Linn. Soc. London 157: 23 (1954)
 
 #### Original name
-Meliola macarangae var. macarangae Hansf.
+Meliola macarangae Hansf.
 
 ### Remarks
 null

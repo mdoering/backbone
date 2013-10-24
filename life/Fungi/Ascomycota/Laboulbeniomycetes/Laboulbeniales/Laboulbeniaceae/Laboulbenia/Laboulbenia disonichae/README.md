@@ -1,14 +1,13 @@
-Laboulbenia dysonichae (Speg.) Thaxt. SPECIES
-=======
+# Laboulbenia disonichae (Speg.) Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts 50: 35 (1914)
 
 #### Original name
 Laboulbeniella disonichae Speg.

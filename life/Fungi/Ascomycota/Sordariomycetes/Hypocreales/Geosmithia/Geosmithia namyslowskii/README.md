@@ -1,17 +1,16 @@
-Penicillium turris-painensis C. Ramírez SPECIES
-=======
+# Geosmithia namyslowskii (K.M. Zalessky) Pitt, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 57(19): 2024 (1979)
 
 #### Original name
-Penicillium turris-painensis C. Ramírez
+Penicillium namyslowskii K.M. Zalessky
 
 ### Remarks
 null

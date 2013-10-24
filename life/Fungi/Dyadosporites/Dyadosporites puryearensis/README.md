@@ -1,5 +1,4 @@
-Dyadosporites puryearensis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites puryearensis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

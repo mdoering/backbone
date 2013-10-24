@@ -1,5 +1,4 @@
-Uredo cestri Mont. SPECIES
-=======
+# Uredo cestri Mont. SPECIES
 
 #### Status
 ACCEPTED

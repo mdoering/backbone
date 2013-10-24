@@ -1,5 +1,4 @@
-Microsphaera holosericea (Wallr.) Lév. SPECIES
-=======
+# Microsphaera holosericea (Wallr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

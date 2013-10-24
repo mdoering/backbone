@@ -1,5 +1,4 @@
-Symplassosphaeridium infriatum Chen Jinbiao et al., 1980 SPECIES
-=======
+# Symplassosphaeridium infriatum Chen Jinbiao et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

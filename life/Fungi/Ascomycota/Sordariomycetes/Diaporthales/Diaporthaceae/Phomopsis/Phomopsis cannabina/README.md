@@ -1,5 +1,4 @@
-Phomopsis cannabina Curzi SPECIES
-=======
+# Phomopsis cannabina Curzi SPECIES
 
 #### Status
 ACCEPTED

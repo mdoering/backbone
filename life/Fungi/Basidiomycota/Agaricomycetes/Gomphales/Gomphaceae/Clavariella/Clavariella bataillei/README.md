@@ -1,5 +1,4 @@
-Clavariella bataillei Maire SPECIES
-=======
+# Clavariella bataillei Maire SPECIES
 
 #### Status
 ACCEPTED

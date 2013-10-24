@@ -1,5 +1,4 @@
-Pyrenula quartzitica Aptroot SPECIES
-=======
+# Pyrenula quartzitica Aptroot SPECIES
 
 #### Status
 ACCEPTED

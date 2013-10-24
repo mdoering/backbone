@@ -1,5 +1,4 @@
-Mycenastrum ohiense Ellis & Morgan SPECIES
-=======
+# Mycenastrum ohiense Ellis & Morgan SPECIES
 
 #### Status
 ACCEPTED

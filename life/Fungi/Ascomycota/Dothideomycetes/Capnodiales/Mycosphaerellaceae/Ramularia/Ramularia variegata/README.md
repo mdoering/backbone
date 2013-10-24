@@ -1,5 +1,4 @@
-Ramularia variegata var. variegata VARIETY
-=======
+# Ramularia variegata Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Report Bot. Minesota 34 (1886)
 
 #### Original name
-Ramularia variegata var. variegata
+Ramularia variegata Ellis & Holw.
 
 ### Remarks
 null

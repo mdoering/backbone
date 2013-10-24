@@ -1,8 +1,7 @@
-Conidophrys pilisucto Chatton & Lwoff, 1934 SPECIES
-=======
+# Conidophrys pilisuctor Chatton & Lwoff, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

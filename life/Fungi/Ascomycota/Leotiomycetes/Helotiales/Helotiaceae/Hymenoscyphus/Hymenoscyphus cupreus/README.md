@@ -1,5 +1,4 @@
-Hymenoscyphus cupreus (Bres.) Dennis SPECIES
-=======
+# Hymenoscyphus cupreus (Bres.) Dennis SPECIES
 
 #### Status
 ACCEPTED

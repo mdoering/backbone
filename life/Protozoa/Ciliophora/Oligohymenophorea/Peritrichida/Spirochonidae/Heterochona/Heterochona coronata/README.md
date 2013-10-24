@@ -1,5 +1,4 @@
-Heterochona coronata (Kent, 1881) ? SPECIES
-=======
+# Heterochona coronata (Kent, 1881) ? SPECIES
 
 #### Status
 ACCEPTED

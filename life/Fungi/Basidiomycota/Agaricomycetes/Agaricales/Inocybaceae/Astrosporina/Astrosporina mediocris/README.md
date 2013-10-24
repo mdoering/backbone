@@ -1,5 +1,4 @@
-Astrosporina mediocris Corner & E. Horak SPECIES
-=======
+# Astrosporina mediocris Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Podangium gracilipes (Thaxter, 1897) Jahn, 1924 SPECIES
-=======
+# Melittangium lichenicola (Thaxter, 1892) McCurdy, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

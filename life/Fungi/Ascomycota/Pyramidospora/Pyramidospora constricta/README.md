@@ -1,5 +1,4 @@
-Pyramidospora constricta N. Singh SPECIES
-=======
+# Pyramidospora constricta N. Singh SPECIES
 
 #### Status
 ACCEPTED

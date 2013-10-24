@@ -1,5 +1,4 @@
-Catillaria sabaudica Vain. SPECIES
-=======
+# Catillaria sabaudica Vain. SPECIES
 
 #### Status
 ACCEPTED

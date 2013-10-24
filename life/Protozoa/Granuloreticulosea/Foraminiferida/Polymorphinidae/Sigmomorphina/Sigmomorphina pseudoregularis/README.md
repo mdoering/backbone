@@ -1,5 +1,4 @@
-Sigmomorphina pseudoregularis Cushman & Thomas SPECIES
-=======
+# Sigmomorphina pseudoregularis Cushman & Thomas SPECIES
 
 #### Status
 ACCEPTED

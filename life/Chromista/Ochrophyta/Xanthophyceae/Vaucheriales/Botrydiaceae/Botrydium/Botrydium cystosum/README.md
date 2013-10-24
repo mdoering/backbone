@@ -1,5 +1,4 @@
-Botrydium cystosum Vischer SPECIES
-=======
+# Botrydium cystosum Vischer SPECIES
 
 #### Status
 ACCEPTED

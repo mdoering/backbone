@@ -1,5 +1,4 @@
-Stereocaulon proximum var. proximum VARIETY
-=======
+# Stereocaulon proximum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 210 (1859)
+null
 
 #### Original name
-Stereocaulon proximum var. proximum
+null
 
 ### Remarks
 null

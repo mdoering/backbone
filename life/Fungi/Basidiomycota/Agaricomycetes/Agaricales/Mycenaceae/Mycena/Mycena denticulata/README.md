@@ -1,5 +1,4 @@
-Mycena denticulata Peck SPECIES
-=======
+# Mycena denticulata Peck SPECIES
 
 #### Status
 ACCEPTED

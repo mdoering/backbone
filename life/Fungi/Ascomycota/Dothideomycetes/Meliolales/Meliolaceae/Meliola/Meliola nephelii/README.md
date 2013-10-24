@@ -1,5 +1,4 @@
-Meliola nephelii Sacc. SPECIES
-=======
+# Meliola nephelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

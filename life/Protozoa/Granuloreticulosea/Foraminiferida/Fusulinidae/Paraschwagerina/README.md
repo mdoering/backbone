@@ -1,5 +1,4 @@
-Paraschwagerina Dunbar & Skinner, 1936 GENUS
-=======
+# Paraschwagerina Dunbar & Skinner, 1936 GENUS
 
 #### Status
 ACCEPTED

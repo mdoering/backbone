@@ -1,5 +1,4 @@
-Lecanora reagens Norman SPECIES
-=======
+# Lecanora reagens Norman SPECIES
 
 #### Status
 ACCEPTED

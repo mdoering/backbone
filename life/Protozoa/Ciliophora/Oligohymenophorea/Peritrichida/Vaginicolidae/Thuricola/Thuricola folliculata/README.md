@@ -1,5 +1,4 @@
-Thuricola folliculata (Müller, 1786) Kent, 1881 SPECIES
-=======
+# Thuricola folliculata (Müller, 1786) Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

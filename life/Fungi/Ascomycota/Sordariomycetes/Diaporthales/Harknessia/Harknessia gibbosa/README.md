@@ -1,5 +1,4 @@
-Harknessia gibbosa Crous & C. Mohammed SPECIES
-=======
+# Harknessia gibbosa Crous & C. Mohammed SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella subviridis Tønsberg SPECIES
-=======
+# Lecidella subviridis Tønsberg SPECIES
 
 #### Status
 ACCEPTED

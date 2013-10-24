@@ -1,5 +1,4 @@
-Stereocaulon roccella (L.) Raeusch. SPECIES
-=======
+# Stereocaulon roccella (L.) Raeusch. SPECIES
 
 #### Status
 ACCEPTED

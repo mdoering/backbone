@@ -1,5 +1,4 @@
-Graphina corcovadensis Redinger SPECIES
-=======
+# Graphina corcovadensis Redinger SPECIES
 
 #### Status
 ACCEPTED

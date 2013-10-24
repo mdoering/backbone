@@ -1,5 +1,4 @@
-Coleosporium liparidis Sawada SPECIES
-=======
+# Coleosporium liparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia shantungensis Moreau SPECIES
-=======
+# Blastenia shantungensis Moreau SPECIES
 
 #### Status
 ACCEPTED

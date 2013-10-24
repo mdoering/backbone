@@ -1,5 +1,4 @@
-Vararia malaysiana Boidin & Lanq., 1984 SPECIES
-=======
+# Vararia malaysiana Boidin & Lanq., 1984 SPECIES
 
 #### Status
 ACCEPTED

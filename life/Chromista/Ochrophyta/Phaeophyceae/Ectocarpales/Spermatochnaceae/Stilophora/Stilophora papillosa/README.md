@@ -1,8 +1,7 @@
-Zonaria papillosa (J.V. Lamouroux) C. Agardh SPECIES
-=======
+# Stilophora papillosa (J.V. Lamouroux) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

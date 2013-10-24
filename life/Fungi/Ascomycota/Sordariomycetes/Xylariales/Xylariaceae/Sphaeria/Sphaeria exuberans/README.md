@@ -1,5 +1,4 @@
-Sphaeria exuberans f. exuberans FORM
-=======
+# Sphaeria exuberans Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. mycol. (Lundae) 2(2): 432 (1823)
 
 #### Original name
-Sphaeria exuberans f. exuberans
+Sphaeria exuberans Fr.
 
 ### Remarks
 null

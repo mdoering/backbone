@@ -1,5 +1,4 @@
-Puccinia hemerocallichis Thum. SPECIES
-=======
+# Puccinia hemerocallichis Thum. SPECIES
 
 #### Status
 ACCEPTED

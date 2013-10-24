@@ -1,5 +1,4 @@
-Biatora leucoraea (Ach.) Th. Fr. SPECIES
-=======
+# Biatora leucoraea (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

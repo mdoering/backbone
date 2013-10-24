@@ -1,5 +1,4 @@
-Verruculina sigmatospora (Speg.) Etayo SPECIES
-=======
+# Verruculina sigmatospora (Speg.) Etayo SPECIES
 
 #### Status
 ACCEPTED

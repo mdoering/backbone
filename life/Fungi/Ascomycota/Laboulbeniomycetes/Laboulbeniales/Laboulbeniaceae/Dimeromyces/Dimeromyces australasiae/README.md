@@ -1,5 +1,4 @@
-Dimeromyces australasiae Thaxt. SPECIES
-=======
+# Dimeromyces australasiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

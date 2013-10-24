@@ -1,14 +1,13 @@
-Sticta mooreana Zahlbr. SPECIES
-=======
+# Pseudocyphellaria mooreana (Zahlbr.) Imshaug SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annln K. K. naturh. Hofmus. Wien 11: 193 (1896)
+Adapt. Antarct. Ecosystems 964 (1977)
 
 #### Original name
 Sticta mooreana Zahlbr.

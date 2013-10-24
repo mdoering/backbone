@@ -1,5 +1,4 @@
-Lecidea aeruginea (H.G. Falk) SPECIES
-=======
+# Lecidea aeruginea (H.G. Falk) SPECIES
 
 #### Status
 ACCEPTED

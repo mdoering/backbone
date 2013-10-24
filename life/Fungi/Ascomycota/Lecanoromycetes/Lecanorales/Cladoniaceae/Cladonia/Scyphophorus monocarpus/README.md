@@ -1,5 +1,4 @@
-Scyphophorus monocarpus Ach. SPECIES
-=======
+# Scyphophorus monocarpus Ach. SPECIES
 
 #### Status
 ACCEPTED

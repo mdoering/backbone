@@ -1,5 +1,4 @@
-Puccinia baccharidis-hirtellae Dietel & Holw. SPECIES
-=======
+# Puccinia baccharidis-hirtellae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

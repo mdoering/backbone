@@ -1,5 +1,4 @@
-Rigidothrix goiseri Foissner & Stoeck, 2006 SPECIES
-=======
+# Rigidothrix goiseri Foissner & Stoeck, 2006 SPECIES
 
 #### Status
 ACCEPTED

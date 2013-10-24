@@ -1,17 +1,16 @@
-Lamprospora miniata var. miniata VARIETY
-=======
+# Lamprospora crouanii (Cooke) Seaver, 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Discom. 1: 388 (1864)
+null
 
 #### Original name
-Lamprospora miniata var. miniata
+Peziza crouanii Cooke
 
 ### Remarks
 null

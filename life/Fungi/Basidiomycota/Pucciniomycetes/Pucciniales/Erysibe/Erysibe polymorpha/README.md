@@ -1,5 +1,4 @@
-Erysibe polymorpha anon. SPECIES
-=======
+# Erysibe polymorpha anon. SPECIES
 
 #### Status
 ACCEPTED

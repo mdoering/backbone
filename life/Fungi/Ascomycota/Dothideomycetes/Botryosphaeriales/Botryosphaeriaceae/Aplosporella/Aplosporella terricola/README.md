@@ -1,5 +1,4 @@
-Aplosporella terricola Luke & Madhur., 1972 SPECIES
-=======
+# Aplosporella terricola Luke & Madhur., 1972 SPECIES
 
 #### Status
 ACCEPTED

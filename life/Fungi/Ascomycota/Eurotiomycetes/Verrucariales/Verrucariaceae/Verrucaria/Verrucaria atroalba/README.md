@@ -1,5 +1,4 @@
-Verrucaria atroalba (L.) Hoffm. SPECIES
-=======
+# Verrucaria atroalba (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

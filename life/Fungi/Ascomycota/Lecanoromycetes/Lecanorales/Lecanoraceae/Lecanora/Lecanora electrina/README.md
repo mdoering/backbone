@@ -1,5 +1,4 @@
-Lecanora electrina (Ramond) DC. SPECIES
-=======
+# Lecanora electrina (Ramond) DC. SPECIES
 
 #### Status
 ACCEPTED

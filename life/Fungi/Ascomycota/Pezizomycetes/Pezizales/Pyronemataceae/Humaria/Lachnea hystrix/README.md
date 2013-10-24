@@ -1,5 +1,4 @@
-Lachnea hystrix var. hystrix VARIETY
-=======
+# Lachnea hystrix (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 8: 187 (1889)
 
 #### Original name
-Lachnea hystrix var. hystrix
+Peziza hystrix Saut.
 
 ### Remarks
 null

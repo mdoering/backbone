@@ -1,5 +1,4 @@
-Ostropella verruculosa C. Moreau & Moreau SPECIES
-=======
+# Ostropella verruculosa C. Moreau & Moreau SPECIES
 
 #### Status
 ACCEPTED

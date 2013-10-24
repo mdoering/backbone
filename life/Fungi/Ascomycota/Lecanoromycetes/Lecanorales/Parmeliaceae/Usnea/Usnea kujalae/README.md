@@ -1,5 +1,4 @@
-Usnea kujalae Räsänen SPECIES
-=======
+# Usnea kujalae Räsänen SPECIES
 
 #### Status
 ACCEPTED

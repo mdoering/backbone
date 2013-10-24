@@ -1,5 +1,4 @@
-Engizostoma juniperinum (Cooke) Kuntze SPECIES
-=======
+# Engizostoma juniperinum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

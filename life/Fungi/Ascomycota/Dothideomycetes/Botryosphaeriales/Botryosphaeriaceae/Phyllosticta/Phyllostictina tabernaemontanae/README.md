@@ -1,5 +1,4 @@
-Phyllostictina tabernaemontanae Syd. SPECIES
-=======
+# Phyllostictina tabernaemontanae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora cantonensis Syd. & P. Syd., 1919 SPECIES
-=======
+# Phyllachora cantonensis Syd. & P. Syd., 1919 SPECIES
 
 #### Status
 DOUBTFUL

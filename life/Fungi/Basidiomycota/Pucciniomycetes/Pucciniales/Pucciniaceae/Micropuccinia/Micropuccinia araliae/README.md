@@ -1,5 +1,4 @@
-Micropuccinia araliae (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia araliae (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

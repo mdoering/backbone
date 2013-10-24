@@ -1,5 +1,4 @@
-Trematosphaeria verrucosa E. Müll. & S. Ahmad SPECIES
-=======
+# Trematosphaeria verrucosa E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

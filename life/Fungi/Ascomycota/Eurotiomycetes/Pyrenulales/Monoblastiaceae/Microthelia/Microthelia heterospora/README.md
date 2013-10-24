@@ -1,5 +1,4 @@
-Microthelia heterospora Eitner SPECIES
-=======
+# Microthelia heterospora Eitner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia bosniaca Bubák SPECIES
-=======
+# Ramularia bosniaca Bubák SPECIES
 
 #### Status
 ACCEPTED

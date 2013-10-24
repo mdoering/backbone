@@ -1,5 +1,4 @@
-Arthonia mycoporoides Vain. SPECIES
-=======
+# Arthonia mycoporoides Vain. SPECIES
 
 #### Status
 ACCEPTED

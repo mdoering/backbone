@@ -1,5 +1,4 @@
-Entyloma glyceriae Gonz. Frag. SPECIES
-=======
+# Entyloma glyceriae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Anaptychia tropica var. antillarum (Vain.) Kurok. VARIETY
-=======
+# Heterodermia antillarum (Vain.) Swinscow & Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 8: 114 (1976)
 
 #### Original name
 Anaptychia granulifera var. antillarum Vain.

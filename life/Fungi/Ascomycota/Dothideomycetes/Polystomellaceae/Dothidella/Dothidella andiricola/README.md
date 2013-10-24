@@ -1,5 +1,4 @@
-Dothidella andiricola Speg. SPECIES
-=======
+# Dothidella andiricola Speg. SPECIES
 
 #### Status
 ACCEPTED

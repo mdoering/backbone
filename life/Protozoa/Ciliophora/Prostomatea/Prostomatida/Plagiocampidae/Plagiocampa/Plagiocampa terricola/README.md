@@ -1,5 +1,4 @@
-Plagiocampa terricola Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Plagiocampa terricola Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

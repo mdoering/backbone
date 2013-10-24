@@ -1,5 +1,4 @@
-Neophoma pellucida (Bubák & Dearn.) Petr. & Syd. SPECIES
-=======
+# Neophoma pellucida (Bubák & Dearn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

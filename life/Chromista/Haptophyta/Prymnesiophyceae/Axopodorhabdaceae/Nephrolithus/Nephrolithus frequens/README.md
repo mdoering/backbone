@@ -1,5 +1,4 @@
-Nephrolithus frequens var. miniporus (P. Reinhardt & H. Górka) J.J. Pospichal & S.W. Wise VARIETY
-=======
+# Nephrolithus frequens Gorka, 1957 SPECIES
 
 #### Status
 ACCEPTED

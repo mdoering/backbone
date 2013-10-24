@@ -1,5 +1,4 @@
-Arthopyrenia consociata (Zwackh) Müll. Arg. SPECIES
-=======
+# Arthopyrenia consociata (Zwackh) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

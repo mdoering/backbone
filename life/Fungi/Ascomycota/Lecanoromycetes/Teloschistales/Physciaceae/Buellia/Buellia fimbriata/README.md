@@ -1,5 +1,4 @@
-Buellia fimbriata (Tuck.) Sheard SPECIES
-=======
+# Buellia fimbriata (Tuck.) Sheard SPECIES
 
 #### Status
 ACCEPTED

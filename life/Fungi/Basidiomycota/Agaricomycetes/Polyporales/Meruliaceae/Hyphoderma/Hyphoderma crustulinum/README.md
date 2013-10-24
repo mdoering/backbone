@@ -1,5 +1,4 @@
-Hyphoderma crustulinum (Bres.) Nakasone SPECIES
-=======
+# Hyphoderma crustulinum (Bres.) Nakasone SPECIES
 
 #### Status
 ACCEPTED

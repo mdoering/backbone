@@ -1,5 +1,4 @@
-Rhizocarpon ethiopcium C.W. Dodge SPECIES
-=======
+# Rhizocarpon ethiopcium C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

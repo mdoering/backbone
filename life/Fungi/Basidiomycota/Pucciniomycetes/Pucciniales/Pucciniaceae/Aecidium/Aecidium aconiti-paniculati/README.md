@@ -1,5 +1,4 @@
-Aecidium aconiti-paniculati E. Fisch. SPECIES
-=======
+# Aecidium aconiti-paniculati E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

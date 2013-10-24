@@ -1,5 +1,4 @@
-Erysibe folliculata Wallr. SPECIES
-=======
+# Erysibe folliculata Wallr. SPECIES
 
 #### Status
 ACCEPTED

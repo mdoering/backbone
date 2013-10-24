@@ -1,5 +1,4 @@
-Sciniatosporium piliostigmatis (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium piliostigmatis (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

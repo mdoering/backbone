@@ -1,5 +1,4 @@
-Palacanthus varius Deunff, 1980 SPECIES
-=======
+# Palacanthus varius Deunff, 1980 SPECIES
 
 #### Status
 ACCEPTED

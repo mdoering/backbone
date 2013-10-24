@@ -1,14 +1,13 @@
-Melampsorella caryophylleacearum (DC.) J. Schröt. SPECIES
-=======
+# Melampsorella caryophyllacearum (DC.) J. Schröt., 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 13: 85 (1874)
 
 #### Original name
 Uredo caryophyllacearum DC., 1805

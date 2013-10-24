@@ -1,5 +1,4 @@
-Entomophthora blissi (G. Lakon) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora blissi (G. Lakon) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

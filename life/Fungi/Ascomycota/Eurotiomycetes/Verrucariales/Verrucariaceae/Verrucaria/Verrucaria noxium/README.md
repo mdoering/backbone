@@ -1,5 +1,4 @@
-Verrucaria noxium Breuss SPECIES
-=======
+# Verrucaria noxium Breuss SPECIES
 
 #### Status
 ACCEPTED

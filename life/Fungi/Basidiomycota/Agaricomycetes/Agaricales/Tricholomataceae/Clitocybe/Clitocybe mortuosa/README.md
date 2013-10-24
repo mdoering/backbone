@@ -1,5 +1,4 @@
-Clitocybe mortuosa (Fr.) Gillet SPECIES
-=======
+# Clitocybe mortuosa (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

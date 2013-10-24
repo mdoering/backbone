@@ -1,17 +1,16 @@
-Russula morgani Sacc. SPECIES
-=======
+# Russula morganii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 468 (1887)
 
 #### Original name
-Russula morgani Sacc.
+Russula incarnata
 
 ### Remarks
 null

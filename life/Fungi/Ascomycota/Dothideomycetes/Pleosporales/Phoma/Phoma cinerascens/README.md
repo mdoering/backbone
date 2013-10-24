@@ -1,5 +1,4 @@
-Phoma cinerascens Sacc. SPECIES
-=======
+# Phoma cinerascens Sacc. SPECIES
 
 #### Status
 ACCEPTED

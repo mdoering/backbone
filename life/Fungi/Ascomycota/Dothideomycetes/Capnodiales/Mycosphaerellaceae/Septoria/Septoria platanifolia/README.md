@@ -1,5 +1,4 @@
-Septoria platanifolia Cooke SPECIES
-=======
+# Septoria platanifolia Cooke SPECIES
 
 #### Status
 ACCEPTED

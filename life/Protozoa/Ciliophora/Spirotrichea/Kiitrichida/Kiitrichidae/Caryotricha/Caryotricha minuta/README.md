@@ -1,5 +1,4 @@
-Caryotricha minuta (Xu, Lei & Choi, 2008) Miao et al., 2009 SPECIES
-=======
+# Caryotricha minuta (Xu, Lei & Choi, 2008) Miao et al., 2009 SPECIES
 
 #### Status
 ACCEPTED

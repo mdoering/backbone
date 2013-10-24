@@ -1,5 +1,4 @@
-Thalassomonas haliotis Hosoya, Adachi & Kasai, 2009 SPECIES
-=======
+# Thalassomonas haliotis Hosoya, Adachi & Kasai, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius evanescens E. Horak SPECIES
-=======
+# Cortinarius evanescens E. Horak SPECIES
 
 #### Status
 ACCEPTED

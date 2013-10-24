@@ -1,5 +1,4 @@
-Spumiosina solida Lopukhin, 1966 SPECIES
-=======
+# Spumiosina solida Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

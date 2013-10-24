@@ -1,5 +1,4 @@
-Rhodophyllus mycenoides Hongo SPECIES
-=======
+# Rhodophyllus mycenoides Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kloeckera cacaoicola Cif. SPECIES
-=======
+# Kloeckera cacaoicola Cif. SPECIES
 
 #### Status
 ACCEPTED

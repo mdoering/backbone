@@ -1,5 +1,4 @@
-Peziza insidiosa Desm. SPECIES
-=======
+# Peziza insidiosa Desm. SPECIES
 
 #### Status
 ACCEPTED

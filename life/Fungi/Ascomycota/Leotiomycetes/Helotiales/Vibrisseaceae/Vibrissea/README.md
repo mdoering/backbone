@@ -1,17 +1,16 @@
-Leptosporium Bonord. GENUS
-=======
+# Vibrissea Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 15: 211 (1857)
+Syst. mycol. (Lundae) 2(1): 4, 31 (1822)
 
 #### Original name
-Leptosporium Bonord.
+Vibrissea Fr.
 
 ### Remarks
 null

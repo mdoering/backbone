@@ -1,5 +1,4 @@
-Marasmius hispidulus var. hispidulus VARIETY
-=======
+# Marasmius hispidulus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius hispidulus var. hispidulus
+Marasmius hispidulus Berk.
 
 ### Remarks
 null

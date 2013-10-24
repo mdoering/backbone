@@ -1,17 +1,16 @@
-Agaricus sulfurellus Kalchbr. & Cooke SPECIES
-=======
+# Agaricus sulphurellus Kalchbr. & Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 8(no. 46): 69 (1879)
 
 #### Original name
-Agaricus sulfurellus Kalchbr. & Cooke
+Agaricus sulphurellus Kalchbr. & Cooke
 
 ### Remarks
 null

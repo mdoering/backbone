@@ -1,5 +1,4 @@
-Mycosphaerella bambusae (Pat.) Hara SPECIES
-=======
+# Mycosphaerella bambusae (Pat.) Hara SPECIES
 
 #### Status
 ACCEPTED

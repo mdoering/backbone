@@ -1,5 +1,4 @@
-Agaricus bambusigenus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus bambusigenus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

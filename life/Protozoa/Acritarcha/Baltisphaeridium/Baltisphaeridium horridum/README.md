@@ -1,5 +1,4 @@
-Baltisphaeridium horridum (Deflandre, 1937) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium horridum (Deflandre, 1937) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

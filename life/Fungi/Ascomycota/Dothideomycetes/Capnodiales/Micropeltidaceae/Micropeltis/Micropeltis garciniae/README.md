@@ -1,5 +1,4 @@
-Micropeltis garciniae Henn. SPECIES
-=======
+# Micropeltis garciniae Henn. SPECIES
 
 #### Status
 ACCEPTED

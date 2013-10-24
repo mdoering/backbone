@@ -1,5 +1,4 @@
-Phlyctis monosperma S. Joshi & Upreti SPECIES
-=======
+# Phlyctis monosperma S. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

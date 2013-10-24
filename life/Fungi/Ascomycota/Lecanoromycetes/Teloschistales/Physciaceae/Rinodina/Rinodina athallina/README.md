@@ -1,5 +1,4 @@
-Rinodina athallina H. Magn. SPECIES
-=======
+# Rinodina athallina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

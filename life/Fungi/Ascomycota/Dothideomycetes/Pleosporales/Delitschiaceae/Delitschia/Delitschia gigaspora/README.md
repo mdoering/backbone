@@ -1,5 +1,4 @@
-Delitschia gigaspora Cain SPECIES
-=======
+# Delitschia gigaspora Cain SPECIES
 
 #### Status
 ACCEPTED

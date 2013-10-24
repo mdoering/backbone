@@ -1,5 +1,4 @@
-Scolicotrichum lactucae Munjal & J.N. Kapoor SPECIES
-=======
+# Scolicotrichum lactucae Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

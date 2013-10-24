@@ -1,5 +1,4 @@
-Leptothyrium ilicinum Sacc., 1884 SPECIES
-=======
+# Leptothyrium ilicinum Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

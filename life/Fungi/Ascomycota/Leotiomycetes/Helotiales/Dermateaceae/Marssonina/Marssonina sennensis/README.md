@@ -1,5 +1,4 @@
-Marssonina sennensis (Gonz. Frag.) Karak. SPECIES
-=======
+# Marssonina sennensis (Gonz. Frag.) Karak. SPECIES
 
 #### Status
 ACCEPTED

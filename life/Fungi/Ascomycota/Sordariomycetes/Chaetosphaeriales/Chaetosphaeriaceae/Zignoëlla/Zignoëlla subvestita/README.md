@@ -1,5 +1,4 @@
-Zignoëlla subvestita (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Zignoëlla subvestita (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

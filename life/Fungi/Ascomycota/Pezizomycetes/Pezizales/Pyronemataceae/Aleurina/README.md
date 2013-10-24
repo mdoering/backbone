@@ -1,5 +1,4 @@
-Aleurina Massee, 1898 GENUS
-=======
+# Aleurina Massee, 1898 GENUS
 
 #### Status
 ACCEPTED

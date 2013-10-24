@@ -1,5 +1,4 @@
-Pithomyces longipes X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces longipes X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

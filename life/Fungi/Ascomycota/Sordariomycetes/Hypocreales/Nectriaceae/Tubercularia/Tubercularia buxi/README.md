@@ -1,5 +1,4 @@
-Tubercularia buxi DC. SPECIES
-=======
+# Tubercularia buxi DC. SPECIES
 
 #### Status
 ACCEPTED

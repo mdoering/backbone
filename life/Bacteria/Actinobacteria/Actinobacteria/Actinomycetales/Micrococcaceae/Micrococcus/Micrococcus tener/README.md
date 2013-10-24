@@ -1,5 +1,4 @@
-Micrococcus tener SPECIES
-=======
+# Micrococcus tener SPECIES
 
 #### Status
 ACCEPTED

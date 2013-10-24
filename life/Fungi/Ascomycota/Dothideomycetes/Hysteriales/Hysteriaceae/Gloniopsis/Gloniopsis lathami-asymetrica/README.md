@@ -1,5 +1,4 @@
-Gloniopsis lathami-asymetrica SPECIES
-=======
+# Gloniopsis lathami-asymetrica SPECIES
 
 #### Status
 ACCEPTED

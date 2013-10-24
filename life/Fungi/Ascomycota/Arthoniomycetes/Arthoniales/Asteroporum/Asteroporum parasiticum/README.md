@@ -1,5 +1,4 @@
-Asteroporum parasiticum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Asteroporum parasiticum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium ganghwense Kim et al., 2006 SPECIES
-=======
+# Clostridium ganghwense Kim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

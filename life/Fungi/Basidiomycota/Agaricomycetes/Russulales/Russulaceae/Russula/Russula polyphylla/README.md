@@ -1,17 +1,16 @@
-Russula polyphylla subsp. polyphylla SUBSPECIES
-=======
+# Russula polyphylla Peck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Russula polyphylla Peck
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Lophothelium Stirt. GENUS
-=======
+# Polycoccum Saut. ex Körber, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Scott. Natural. 9: 39 (1887)
+null
 
 #### Original name
-Lophothelium Stirt.
+null
 
 ### Remarks
 null

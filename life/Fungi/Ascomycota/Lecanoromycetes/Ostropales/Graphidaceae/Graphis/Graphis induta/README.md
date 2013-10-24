@@ -1,5 +1,4 @@
-Graphis induta Müll. Arg. SPECIES
-=======
+# Graphis induta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

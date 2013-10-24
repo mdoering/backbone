@@ -1,5 +1,4 @@
-Ichthyophonus intestinalis Léger & E. Hesse SPECIES
-=======
+# Ichthyophonus intestinalis Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

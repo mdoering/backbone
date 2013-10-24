@@ -1,5 +1,4 @@
-Lecideopsis bueriana (J. Lahm) Rehm SPECIES
-=======
+# Lecideopsis bueriana (J. Lahm) Rehm SPECIES
 
 #### Status
 ACCEPTED

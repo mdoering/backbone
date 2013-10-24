@@ -1,5 +1,4 @@
-Sphaeria holoschoeni Mont. SPECIES
-=======
+# Sphaeria holoschoeni Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma schefflerae C.C. Chen SPECIES
-=======
+# Macrophoma schefflerae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

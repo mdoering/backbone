@@ -1,5 +1,4 @@
-Puccinia capensis Dietel SPECIES
-=======
+# Puccinia capensis Dietel SPECIES
 
 #### Status
 ACCEPTED

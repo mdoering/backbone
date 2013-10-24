@@ -1,17 +1,16 @@
-Synchytrium fulgens var. fulgens VARIETY
-=======
+# Synchytrium fulgens J. Schröt., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 12: 141 (1873)
 
 #### Original name
-Synchytrium fulgens var. fulgens
+Synchytrium fulgens J. Schröt., 1873
 
 ### Remarks
 null

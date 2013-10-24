@@ -1,5 +1,4 @@
-Stigmella crataegi Ellis & Everh. SPECIES
-=======
+# Stigmella crataegi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

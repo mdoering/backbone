@@ -1,5 +1,4 @@
-Xylaria exacuta Lloyd SPECIES
-=======
+# Xylaria exacuta Lloyd SPECIES
 
 #### Status
 ACCEPTED

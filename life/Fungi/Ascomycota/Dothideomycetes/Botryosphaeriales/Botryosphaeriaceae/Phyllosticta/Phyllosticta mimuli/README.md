@@ -1,5 +1,4 @@
-Phyllosticta mimuli Ellis & Fautrey SPECIES
-=======
+# Phyllosticta mimuli Ellis & Fautrey SPECIES
 
 #### Status
 ACCEPTED

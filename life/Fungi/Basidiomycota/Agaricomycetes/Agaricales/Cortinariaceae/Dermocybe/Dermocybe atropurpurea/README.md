@@ -1,5 +1,4 @@
-Dermocybe atropurpurea E. Horak SPECIES
-=======
+# Dermocybe atropurpurea E. Horak SPECIES
 
 #### Status
 ACCEPTED

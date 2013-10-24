@@ -1,5 +1,4 @@
-Starria zimbabweensis SPECIES
-=======
+# Starria zimbabweensis SPECIES
 
 #### Status
 ACCEPTED

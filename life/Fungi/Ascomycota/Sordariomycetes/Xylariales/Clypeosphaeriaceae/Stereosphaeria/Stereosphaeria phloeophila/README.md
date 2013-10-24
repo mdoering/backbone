@@ -1,5 +1,4 @@
-Stereosphaeria phloeophila Kirschst., 1939 SPECIES
-=======
+# Stereosphaeria phloeophila Kirschst., 1939 SPECIES
 
 #### Status
 ACCEPTED

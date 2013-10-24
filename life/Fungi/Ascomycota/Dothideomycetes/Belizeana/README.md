@@ -1,5 +1,4 @@
-Belizeana Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Belizeana Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

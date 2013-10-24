@@ -1,5 +1,4 @@
-Eutypella padi (P. Karst.) Sacc. SPECIES
-=======
+# Eutypella padi (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

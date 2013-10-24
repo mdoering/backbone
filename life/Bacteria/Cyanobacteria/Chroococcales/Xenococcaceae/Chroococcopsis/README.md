@@ -1,5 +1,4 @@
-Chroococcopsis Geitler, 1925 GENUS
-=======
+# Chroococcopsis Geitler, 1925 GENUS
 
 #### Status
 ACCEPTED

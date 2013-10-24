@@ -1,5 +1,4 @@
-Quinqueloculina juani Huang SPECIES
-=======
+# Quinqueloculina juani Huang SPECIES
 
 #### Status
 ACCEPTED

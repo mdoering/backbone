@@ -1,5 +1,4 @@
-Quinqueloculina disciformis Williamson SPECIES
-=======
+# Quinqueloculina disciformis Williamson SPECIES
 
 #### Status
 ACCEPTED

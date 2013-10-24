@@ -1,5 +1,4 @@
-Coniosporium dendriticum Sacc. SPECIES
-=======
+# Coniosporium dendriticum Sacc. SPECIES
 
 #### Status
 ACCEPTED

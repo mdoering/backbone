@@ -1,5 +1,4 @@
-Clavaria caulifloriformis Leathers SPECIES
-=======
+# Clavaria caulifloriformis Leathers SPECIES
 
 #### Status
 ACCEPTED

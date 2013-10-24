@@ -1,14 +1,13 @@
-Stigmatolemma poroides (Alb. & Schwein.) W.B. Cooke SPECIES
-=======
+# Stigmatolemma porioides (Alb. & Schwein.) W.B. Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 49: 168 (1989)
 
 #### Original name
 Peziza porioides Alb. & Schwein.

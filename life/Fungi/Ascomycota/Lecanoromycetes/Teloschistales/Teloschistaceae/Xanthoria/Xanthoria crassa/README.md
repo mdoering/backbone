@@ -1,5 +1,4 @@
-Xanthoria crassa Malme SPECIES
-=======
+# Xanthoria crassa Malme SPECIES
 
 #### Status
 ACCEPTED

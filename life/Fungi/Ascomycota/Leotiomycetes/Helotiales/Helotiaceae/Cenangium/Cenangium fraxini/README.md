@@ -1,5 +1,4 @@
-Cenangium fraxini Tul. SPECIES
-=======
+# Cenangium fraxini Tul. SPECIES
 
 #### Status
 ACCEPTED

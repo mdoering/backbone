@@ -1,17 +1,16 @@
-Merulius canalicutus Pers. SPECIES
-=======
+# Merulius canaliculatus Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. Desc. Fung. Min. Cognit. (Leipzig) 2: 57 (1800)
 
 #### Original name
-Merulius canalicutus Pers.
+Merulius canaliculatus Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phlebia canadensis W.B. Cooke, 1956 SPECIES
-=======
+# Phlebia canadensis W.B. Cooke, 1956 SPECIES
 
 #### Status
 ACCEPTED

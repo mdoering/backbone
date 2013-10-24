@@ -1,5 +1,4 @@
-Collema omphalarioides Anzi SPECIES
-=======
+# Collema omphalarioides Anzi SPECIES
 
 #### Status
 ACCEPTED

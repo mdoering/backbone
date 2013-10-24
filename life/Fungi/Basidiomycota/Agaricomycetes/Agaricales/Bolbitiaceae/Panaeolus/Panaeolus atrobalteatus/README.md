@@ -1,5 +1,4 @@
-Panaeolus atrobalteatus Pegler & A. Henrici, 1998 SPECIES
-=======
+# Panaeolus atrobalteatus Pegler & A. Henrici, 1998 SPECIES
 
 #### Status
 ACCEPTED

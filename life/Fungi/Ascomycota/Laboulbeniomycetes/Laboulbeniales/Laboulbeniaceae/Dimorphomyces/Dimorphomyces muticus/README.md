@@ -1,5 +1,4 @@
-Dimorphomyces muticus Thaxt. SPECIES
-=======
+# Dimorphomyces muticus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

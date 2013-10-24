@@ -1,5 +1,4 @@
-Discorbis reniformis Earland & Heron-Allen SPECIES
-=======
+# Discorbis reniformis Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

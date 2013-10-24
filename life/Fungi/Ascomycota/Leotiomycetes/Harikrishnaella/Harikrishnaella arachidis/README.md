@@ -1,5 +1,4 @@
-Harikrishnaella arachidis D.V. Singh & A.K. Sarbhoy SPECIES
-=======
+# Harikrishnaella arachidis D.V. Singh & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyodochium prinsepiae Sivan., 1984 SPECIES
-=======
+# Dictyodochium prinsepiae Sivan., 1984 SPECIES
 
 #### Status
 ACCEPTED

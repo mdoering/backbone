@@ -1,5 +1,4 @@
-Phanerochaete sanwicensis Gilb. & Hemmes SPECIES
-=======
+# Phanerochaete sanwicensis Gilb. & Hemmes SPECIES
 
 #### Status
 ACCEPTED

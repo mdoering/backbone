@@ -1,5 +1,4 @@
-Bacidia triseptulans (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia triseptulans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sklerochlamys pachyderma Pascher SPECIES
-=======
+# Sklerochlamys pachyderma Pascher SPECIES
 
 #### Status
 ACCEPTED

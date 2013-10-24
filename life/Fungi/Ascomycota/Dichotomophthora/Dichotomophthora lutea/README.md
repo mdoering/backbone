@@ -1,5 +1,4 @@
-Dichotomophthora lutea (Routien) de Hoog & Oorschot, 1983 SPECIES
-=======
+# Dichotomophthora lutea (Routien) de Hoog & Oorschot, 1983 SPECIES
 
 #### Status
 ACCEPTED

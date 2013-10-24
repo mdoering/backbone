@@ -1,5 +1,4 @@
-Porina arengae Vain. SPECIES
-=======
+# Porina arengae Vain. SPECIES
 
 #### Status
 ACCEPTED

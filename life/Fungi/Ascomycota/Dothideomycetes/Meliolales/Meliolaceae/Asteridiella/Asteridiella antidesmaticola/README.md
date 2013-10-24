@@ -1,5 +1,4 @@
-Asteridiella antidesmaticola Hosag. & T.K. Abraham SPECIES
-=======
+# Asteridiella antidesmaticola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

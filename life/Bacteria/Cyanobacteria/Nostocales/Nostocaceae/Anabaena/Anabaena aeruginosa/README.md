@@ -1,5 +1,4 @@
-Anabaena aeruginosa Gardner SPECIES
-=======
+# Anabaena aeruginosa Gardner SPECIES
 
 #### Status
 ACCEPTED

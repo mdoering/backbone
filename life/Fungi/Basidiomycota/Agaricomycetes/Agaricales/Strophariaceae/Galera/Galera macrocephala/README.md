@@ -1,5 +1,4 @@
-Galera macrocephala Velen. SPECIES
-=======
+# Galera macrocephala Velen. SPECIES
 
 #### Status
 ACCEPTED

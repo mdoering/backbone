@@ -1,5 +1,4 @@
-Amanita simulans Contu, 1999 SPECIES
-=======
+# Amanita simulans Contu, 1999 SPECIES
 
 #### Status
 ACCEPTED

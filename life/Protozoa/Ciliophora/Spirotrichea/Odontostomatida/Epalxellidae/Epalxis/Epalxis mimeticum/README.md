@@ -1,5 +1,4 @@
-Epalxis mimeticum Penard, 1922 SPECIES
-=======
+# Epalxis mimeticum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

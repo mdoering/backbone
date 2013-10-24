@@ -1,5 +1,4 @@
-Peziza pinguis Bull. SPECIES
-=======
+# Peziza pinguis Bull. SPECIES
 
 #### Status
 ACCEPTED

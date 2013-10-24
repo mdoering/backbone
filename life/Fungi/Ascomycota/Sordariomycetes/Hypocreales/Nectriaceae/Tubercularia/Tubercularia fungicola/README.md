@@ -1,5 +1,4 @@
-Tubercularia fungicola Peck SPECIES
-=======
+# Tubercularia fungicola Peck SPECIES
 
 #### Status
 ACCEPTED

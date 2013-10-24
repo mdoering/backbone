@@ -1,5 +1,4 @@
-Prosthecomicrobium pneumaticum Staley, 1968 (Approved Lists, 1980) SPECIES
-=======
+# Prosthecomicrobium pneumaticum Staley, 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

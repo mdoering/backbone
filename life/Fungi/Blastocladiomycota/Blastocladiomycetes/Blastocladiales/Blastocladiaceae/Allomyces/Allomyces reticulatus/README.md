@@ -1,5 +1,4 @@
-Allomyces reticulatus R. Emers. & J.A. Robertson, 1974 SPECIES
-=======
+# Allomyces reticulatus R. Emers. & J.A. Robertson, 1974 SPECIES
 
 #### Status
 ACCEPTED

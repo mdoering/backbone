@@ -1,5 +1,4 @@
-Pannaria beata Hue SPECIES
-=======
+# Pannaria beata Hue SPECIES
 
 #### Status
 ACCEPTED

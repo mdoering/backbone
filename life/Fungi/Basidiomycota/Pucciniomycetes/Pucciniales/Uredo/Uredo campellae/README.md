@@ -1,5 +1,4 @@
-Uredo campellae Syd. SPECIES
-=======
+# Uredo campellae Syd. SPECIES
 
 #### Status
 ACCEPTED

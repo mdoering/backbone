@@ -1,5 +1,4 @@
-Vorticella telescopica subsp. telescopica Kent, 1881 SUBSPECIES
-=======
+# Vorticella telescopica Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

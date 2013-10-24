@@ -1,5 +1,4 @@
-Hysterangium hokkaidoense Kobayasi SPECIES
-=======
+# Hysterangium hokkaidoense Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodermatomyces coccocarpi Cif. & Tomas. SPECIES
-=======
+# Gymnodermatomyces coccocarpi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

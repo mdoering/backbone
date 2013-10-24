@@ -1,5 +1,4 @@
-Irenopsis parathesicola (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis parathesicola (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

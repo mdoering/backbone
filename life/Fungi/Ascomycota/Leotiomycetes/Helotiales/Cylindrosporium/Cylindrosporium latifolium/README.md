@@ -1,5 +1,4 @@
-Cylindrosporium latifolium Magnus SPECIES
-=======
+# Cylindrosporium latifolium Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna noskeiae Elix, T. H. Nash, & Sipman SPECIES
-=======
+# Hypotrachyna noskeiae Elix, T. H. Nash, & Sipman SPECIES
 
 #### Status
 ACCEPTED

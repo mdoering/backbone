@@ -1,17 +1,16 @@
-Psoroma sphinctrinum var. sphinctrinum VARIETY
-=======
+# Pannaria sphinctrina (Mont.) Hue SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 3: 181 (1855)
+null
 
 #### Original name
-Psoroma sphinctrinum var. sphinctrinum
+null
 
 ### Remarks
 null

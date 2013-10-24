@@ -1,5 +1,4 @@
-Obeliospora triappendiculata Kuthub. & Nawawi SPECIES
-=======
+# Obeliospora triappendiculata Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

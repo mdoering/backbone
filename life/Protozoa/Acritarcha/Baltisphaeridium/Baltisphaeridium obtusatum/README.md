@@ -1,5 +1,4 @@
-Baltisphaeridium obtusatum Burmann, 1970 SPECIES
-=======
+# Baltisphaeridium obtusatum Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

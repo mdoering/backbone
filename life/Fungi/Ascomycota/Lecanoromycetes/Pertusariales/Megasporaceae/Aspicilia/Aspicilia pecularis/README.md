@@ -1,5 +1,4 @@
-Aspicilia pecularis (Zahlbr.) SPECIES
-=======
+# Aspicilia pecularis (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

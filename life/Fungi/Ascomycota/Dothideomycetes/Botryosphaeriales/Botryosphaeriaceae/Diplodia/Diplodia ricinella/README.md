@@ -1,5 +1,4 @@
-Diplodia ricinella Sawada SPECIES
-=======
+# Diplodia ricinella Sawada SPECIES
 
 #### Status
 ACCEPTED

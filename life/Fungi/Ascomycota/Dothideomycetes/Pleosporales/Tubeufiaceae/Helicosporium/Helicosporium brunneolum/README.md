@@ -1,5 +1,4 @@
-Helicosporium brunneolum Berk. & M.A. Curtis SPECIES
-=======
+# Helicosporium brunneolum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

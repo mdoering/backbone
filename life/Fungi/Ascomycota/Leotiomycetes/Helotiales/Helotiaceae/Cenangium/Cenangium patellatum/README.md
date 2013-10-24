@@ -1,5 +1,4 @@
-Cenangium patellatum Cooke SPECIES
-=======
+# Cenangium patellatum Cooke SPECIES
 
 #### Status
 ACCEPTED

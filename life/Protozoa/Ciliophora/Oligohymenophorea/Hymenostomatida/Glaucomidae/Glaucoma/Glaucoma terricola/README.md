@@ -1,5 +1,4 @@
-Glaucoma terricola Gellert, 1957 SPECIES
-=======
+# Glaucoma terricola Gellert, 1957 SPECIES
 
 #### Status
 ACCEPTED

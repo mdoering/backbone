@@ -1,5 +1,4 @@
-Rhabdospora pithyophila (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora pithyophila (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

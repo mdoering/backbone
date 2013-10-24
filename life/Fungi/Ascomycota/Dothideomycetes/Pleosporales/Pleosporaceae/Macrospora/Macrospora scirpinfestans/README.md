@@ -1,5 +1,4 @@
-Macrospora scirpinfestans E.G. Simmons & D.A. Johnson SPECIES
-=======
+# Macrospora scirpinfestans E.G. Simmons & D.A. Johnson SPECIES
 
 #### Status
 ACCEPTED

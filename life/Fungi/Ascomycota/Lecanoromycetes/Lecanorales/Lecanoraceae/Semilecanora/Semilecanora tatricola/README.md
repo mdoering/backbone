@@ -1,5 +1,4 @@
-Semilecanora tatricola Motyka SPECIES
-=======
+# Semilecanora tatricola Motyka SPECIES
 
 #### Status
 ACCEPTED

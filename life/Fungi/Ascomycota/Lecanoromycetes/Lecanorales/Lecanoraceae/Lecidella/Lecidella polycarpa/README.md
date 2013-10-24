@@ -1,5 +1,4 @@
-Lecidella polycarpa b ecrustacea Bausch SPECIES
-=======
+# Lecidella polycarpa b ecrustacea Bausch SPECIES
 
 #### Status
 ACCEPTED

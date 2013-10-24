@@ -1,5 +1,4 @@
-Lactarius ausablensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius ausablensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

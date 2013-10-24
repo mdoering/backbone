@@ -1,5 +1,4 @@
-Myriadenia J. Decaisne, 1842 GENUS
-=======
+# Myriadenia J. Decaisne, 1842 GENUS
 
 #### Status
 ACCEPTED

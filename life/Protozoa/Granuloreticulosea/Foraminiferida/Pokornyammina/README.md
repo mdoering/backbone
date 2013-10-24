@@ -1,5 +1,4 @@
-Pokornyammina Neagu & Platon, 1994 GENUS
-=======
+# Pokornyammina Neagu & Platon, 1994 GENUS
 
 #### Status
 ACCEPTED

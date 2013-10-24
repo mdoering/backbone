@@ -1,5 +1,4 @@
-Peziza syringea Wallr. SPECIES
-=======
+# Peziza syringea Wallr. SPECIES
 
 #### Status
 ACCEPTED

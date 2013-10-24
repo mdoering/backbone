@@ -1,5 +1,4 @@
-Clisosporium infuscans (Ellis & Everh.) Kuntze SPECIES
-=======
+# Clisosporium infuscans (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

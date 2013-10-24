@@ -1,5 +1,4 @@
-Monilia hominis Vuill. SPECIES
-=======
+# Monilia hominis Vuill. SPECIES
 
 #### Status
 ACCEPTED

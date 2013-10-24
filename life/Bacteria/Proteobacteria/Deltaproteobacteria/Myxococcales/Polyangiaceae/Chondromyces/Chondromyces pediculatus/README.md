@@ -1,5 +1,4 @@
-Chondromyces pediculatus Thaxter, 1904 (Approved Lists, 1980) SPECIES
-=======
+# Chondromyces pediculatus Thaxter, 1904 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

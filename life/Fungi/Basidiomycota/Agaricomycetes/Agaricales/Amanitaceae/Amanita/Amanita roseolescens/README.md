@@ -1,5 +1,4 @@
-Amanita roseolescens (A. Pearson) Bas SPECIES
-=======
+# Amanita roseolescens (A. Pearson) Bas SPECIES
 
 #### Status
 ACCEPTED

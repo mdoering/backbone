@@ -1,5 +1,4 @@
-Phoma longispora (Thüm.) Cooke SPECIES
-=======
+# Phoma longispora (Thüm.) Cooke SPECIES
 
 #### Status
 ACCEPTED

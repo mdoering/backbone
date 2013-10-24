@@ -1,5 +1,4 @@
-Rinodina polyspora Th. Fr. SPECIES
-=======
+# Rinodina polyspora Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

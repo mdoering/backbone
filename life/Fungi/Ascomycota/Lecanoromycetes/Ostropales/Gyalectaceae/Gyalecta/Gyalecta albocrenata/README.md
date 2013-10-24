@@ -1,5 +1,4 @@
-Gyalecta albocrenata var. albocrenata VARIETY
-=======
+# Gyalecta albocrenata Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyalecta albocrenata var. albocrenata
+Gyalecta albocrenata Arnold
 
 ### Remarks
 null

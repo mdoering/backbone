@@ -1,5 +1,4 @@
-Subulispora malaysiana Nawawi & Kuthub., 1990 SPECIES
-=======
+# Subulispora malaysiana Nawawi & Kuthub., 1990 SPECIES
 
 #### Status
 ACCEPTED

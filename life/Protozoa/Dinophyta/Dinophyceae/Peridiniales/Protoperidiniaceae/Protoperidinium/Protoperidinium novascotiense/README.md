@@ -1,5 +1,4 @@
-Protoperidinium novascotiense (Gran & Braarud, 1935) Balech, 1974 SPECIES
-=======
+# Protoperidinium novascotiense (Gran & Braarud, 1935) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

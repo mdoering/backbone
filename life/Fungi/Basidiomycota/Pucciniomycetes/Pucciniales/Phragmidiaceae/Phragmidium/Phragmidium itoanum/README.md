@@ -1,5 +1,4 @@
-Phragmidium itoanum Hirats. f. SPECIES
-=======
+# Phragmidium itoanum Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

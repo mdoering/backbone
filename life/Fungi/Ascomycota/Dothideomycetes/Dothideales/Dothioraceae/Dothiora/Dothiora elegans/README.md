@@ -1,5 +1,4 @@
-Dothiora elegans (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Dothiora elegans (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

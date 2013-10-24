@@ -1,5 +1,4 @@
-Asperatopsophosphaera incrassatula (Chepikova, 1971) Fensome et al., 1990 SPECIES
-=======
+# Asperatopsophosphaera incrassatula (Chepikova, 1971) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Agaricus dialerii (Bres. & Torrend) Sacc. & Trotter SPECIES
-=======
+# Agaricus dialeri (Bres. & Torrend) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

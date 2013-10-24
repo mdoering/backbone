@@ -1,5 +1,4 @@
-Ceratolithoides verbeekii Perch-Nielsen, 1979 SPECIES
-=======
+# Ceratolithoides verbeekii Perch-Nielsen, 1979 SPECIES
 
 #### Status
 ACCEPTED

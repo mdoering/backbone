@@ -1,5 +1,4 @@
-Opisteria homalodes (Nyl.) Vain. SPECIES
-=======
+# Opisteria homalodes (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

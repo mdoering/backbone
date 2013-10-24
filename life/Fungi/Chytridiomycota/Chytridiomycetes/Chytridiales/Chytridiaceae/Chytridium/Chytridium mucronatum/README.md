@@ -1,5 +1,4 @@
-Chytridium mucronatum Sparrow & M.E. Barr SPECIES
-=======
+# Chytridium mucronatum Sparrow & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

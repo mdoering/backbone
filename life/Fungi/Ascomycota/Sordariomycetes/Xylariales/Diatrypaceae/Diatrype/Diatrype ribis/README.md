@@ -1,5 +1,4 @@
-Diatrype ribis Barthelet SPECIES
-=======
+# Diatrype ribis Barthelet SPECIES
 
 #### Status
 ACCEPTED

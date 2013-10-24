@@ -1,5 +1,4 @@
-Lepiota hypholoma Rick SPECIES
-=======
+# Lepiota hypholoma Rick SPECIES
 
 #### Status
 ACCEPTED

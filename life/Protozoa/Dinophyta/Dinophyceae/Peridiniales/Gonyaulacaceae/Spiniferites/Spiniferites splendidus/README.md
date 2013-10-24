@@ -1,5 +1,4 @@
-Spiniferites splendidus R. Harland SPECIES
-=======
+# Spiniferites splendidus R. Harland SPECIES
 
 #### Status
 ACCEPTED

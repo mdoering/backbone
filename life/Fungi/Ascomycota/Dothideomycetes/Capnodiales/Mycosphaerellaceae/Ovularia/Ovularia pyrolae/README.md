@@ -1,17 +1,16 @@
-Ovularia pirolae Trel. SPECIES
-=======
+# Ovularia pyrolae Trel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 1(1): 13 (1885)
 
 #### Original name
-Ovularia pirolae Trel.
+Ovularia pyrolae Trel.
 
 ### Remarks
 null

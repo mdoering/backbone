@@ -1,5 +1,4 @@
-Microsporum equinum E. Bodin ex Guég., 1907 SPECIES
-=======
+# Microsporum equinum E. Bodin ex Guég., 1907 SPECIES
 
 #### Status
 ACCEPTED

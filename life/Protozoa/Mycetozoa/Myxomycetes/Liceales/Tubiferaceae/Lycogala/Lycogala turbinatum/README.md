@@ -1,5 +1,4 @@
-Lycogala turbinatum Pers. SPECIES
-=======
+# Lycogala turbinatum Pers. SPECIES
 
 #### Status
 ACCEPTED

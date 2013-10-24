@@ -1,5 +1,4 @@
-Septoria adenocauli Ellis & Everh. SPECIES
-=======
+# Septoria adenocauli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

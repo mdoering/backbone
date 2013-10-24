@@ -1,5 +1,4 @@
-Verticillium distans Berk. & Broome, 1851 SPECIES
-=======
+# Verticillium distans Berk. & Broome, 1851 SPECIES
 
 #### Status
 ACCEPTED

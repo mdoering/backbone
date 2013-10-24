@@ -1,5 +1,4 @@
-Leptothyrium carpophilum Pass. SPECIES
-=======
+# Leptothyrium carpophilum Pass. SPECIES
 
 #### Status
 ACCEPTED

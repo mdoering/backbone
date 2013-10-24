@@ -1,5 +1,4 @@
-Pyrenula obscurata Müll. Arg. SPECIES
-=======
+# Pyrenula obscurata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

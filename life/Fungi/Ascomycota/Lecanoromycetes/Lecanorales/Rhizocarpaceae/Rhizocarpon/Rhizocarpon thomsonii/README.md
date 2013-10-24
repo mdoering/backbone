@@ -1,5 +1,4 @@
-Rhizocarpon thomsonii f. fuscidulum Zahlbr. FORM
-=======
+# Rhizocarpon thomsonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon thomsonii f. fuscidulum Zahlbr.
+Rhizocarpon thomsonii Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria simulans (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria simulans (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

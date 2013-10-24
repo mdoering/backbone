@@ -1,5 +1,4 @@
-Dothidea aloicola Henn. SPECIES
-=======
+# Dothidea aloicola Henn. SPECIES
 
 #### Status
 ACCEPTED

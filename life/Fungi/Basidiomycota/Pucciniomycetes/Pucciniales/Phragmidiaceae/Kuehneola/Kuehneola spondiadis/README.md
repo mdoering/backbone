@@ -1,17 +1,16 @@
-Kuehneola spondias Hosag. SPECIES
-=======
+# Kuehneola spondiadis Hosag., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 38(2): 279 (1985)
 
 #### Original name
-Kuehneola spondias Hosag.
+Kuehneola spondiadis Hosag., 1986
 
 ### Remarks
 null

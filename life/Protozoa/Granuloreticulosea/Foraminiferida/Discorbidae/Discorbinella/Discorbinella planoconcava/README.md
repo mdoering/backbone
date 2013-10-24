@@ -1,5 +1,4 @@
-Discorbinella planoconcava (Chapman, W D, Collins & Parr, W J) SPECIES
-=======
+# Discorbinella planoconcava (Chapman, W D, Collins & Parr, W J) SPECIES
 
 #### Status
 ACCEPTED

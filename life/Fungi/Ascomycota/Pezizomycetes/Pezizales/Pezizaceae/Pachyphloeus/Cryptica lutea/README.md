@@ -1,5 +1,4 @@
-Cryptica lutea R. Hesse SPECIES
-=======
+# Cryptica lutea R. Hesse SPECIES
 
 #### Status
 ACCEPTED

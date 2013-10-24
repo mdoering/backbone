@@ -1,17 +1,16 @@
-Plasmoparopsis De Wild. GENUS
-=======
+# Pythiogeton Minden GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Soc. Belge Microscop. 20: 127, 124 (1896)
+in Falck, Mykol. Untersuch. Ber. 1: 241; 2: 128 (1916)
 
 #### Original name
-Plasmoparopsis De Wild.
+Pythiogeton Minden
 
 ### Remarks
 null

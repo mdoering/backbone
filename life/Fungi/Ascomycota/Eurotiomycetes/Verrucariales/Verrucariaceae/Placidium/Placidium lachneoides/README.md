@@ -1,5 +1,4 @@
-Placidium lachneoides (Breuss) Breuss SPECIES
-=======
+# Placidium lachneoides (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella nigredo (Schwein.) Lindau SPECIES
-=======
+# Mycosphaerella nigredo (Schwein.) Lindau SPECIES
 
 #### Status
 ACCEPTED

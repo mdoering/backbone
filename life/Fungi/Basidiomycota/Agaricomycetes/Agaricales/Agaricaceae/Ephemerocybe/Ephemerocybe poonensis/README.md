@@ -1,5 +1,4 @@
-Ephemerocybe poonensis Sathe & S.D. Deshp. SPECIES
-=======
+# Ephemerocybe poonensis Sathe & S.D. Deshp. SPECIES
 
 #### Status
 ACCEPTED

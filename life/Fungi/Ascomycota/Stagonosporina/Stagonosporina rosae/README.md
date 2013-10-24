@@ -1,5 +1,4 @@
-Stagonosporina rosae (Brunaud) Tassi SPECIES
-=======
+# Stagonosporina rosae (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

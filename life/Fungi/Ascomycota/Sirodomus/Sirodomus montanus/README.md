@@ -1,5 +1,4 @@
-Sirodomus montanus (Höhn.) Petr. SPECIES
-=======
+# Sirodomus montanus (Höhn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

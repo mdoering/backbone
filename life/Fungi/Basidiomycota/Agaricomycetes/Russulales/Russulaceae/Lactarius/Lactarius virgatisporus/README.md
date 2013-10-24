@@ -1,5 +1,4 @@
-Lactarius virgatisporus Verbeken & E. Horak SPECIES
-=======
+# Lactarius virgatisporus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

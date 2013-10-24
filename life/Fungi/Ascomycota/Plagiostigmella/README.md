@@ -1,5 +1,4 @@
-Plagiostigmella Petr. GENUS
-=======
+# Plagiostigmella Petr. GENUS
 
 #### Status
 ACCEPTED

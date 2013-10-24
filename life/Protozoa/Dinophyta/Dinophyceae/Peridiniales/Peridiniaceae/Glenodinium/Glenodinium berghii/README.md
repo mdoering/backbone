@@ -1,5 +1,4 @@
-Glenodinium berghii Lernmennann SPECIES
-=======
+# Glenodinium berghii Lernmennann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidium oceanicum Cushman, 1933 SPECIES
-=======
+# Elphidium oceanicum Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

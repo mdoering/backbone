@@ -1,5 +1,4 @@
-Passalora oenotherae U. Braun SPECIES
-=======
+# Passalora oenotherae U. Braun SPECIES
 
 #### Status
 ACCEPTED

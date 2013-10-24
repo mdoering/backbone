@@ -1,17 +1,16 @@
-Cytospora pyri Fuckel, 1870 SPECIES
-=======
+# Discula pyri (Fuckel) Höhn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien 3(2): 50 (1926)
 
 #### Original name
-null
+Cytospora piri Fuckel
 
 ### Remarks
 null

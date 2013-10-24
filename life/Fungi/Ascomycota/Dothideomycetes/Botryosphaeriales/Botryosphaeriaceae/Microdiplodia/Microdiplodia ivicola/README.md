@@ -1,5 +1,4 @@
-Microdiplodia ivicola (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Microdiplodia ivicola (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

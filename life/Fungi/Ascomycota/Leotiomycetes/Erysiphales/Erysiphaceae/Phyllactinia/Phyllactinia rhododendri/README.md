@@ -1,5 +1,4 @@
-Phyllactinia rhododendri H.D. Shin & Y.J. La SPECIES
-=======
+# Phyllactinia rhododendri H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

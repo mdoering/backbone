@@ -1,5 +1,4 @@
-Phyllosticta nicotianae Ellis & Everh., 1893 SPECIES
-=======
+# Phyllosticta nicotianae Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

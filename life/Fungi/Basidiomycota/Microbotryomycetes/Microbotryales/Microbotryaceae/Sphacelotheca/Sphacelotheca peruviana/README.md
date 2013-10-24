@@ -1,5 +1,4 @@
-Sphacelotheca peruviana Zundel SPECIES
-=======
+# Sphacelotheca peruviana Zundel SPECIES
 
 #### Status
 ACCEPTED

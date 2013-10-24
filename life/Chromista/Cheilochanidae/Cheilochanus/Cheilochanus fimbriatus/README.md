@@ -1,5 +1,4 @@
-Cheilochanus fimbriatus (Collins, 1958) SPECIES
-=======
+# Cheilochanus fimbriatus (Collins, 1958) SPECIES
 
 #### Status
 ACCEPTED

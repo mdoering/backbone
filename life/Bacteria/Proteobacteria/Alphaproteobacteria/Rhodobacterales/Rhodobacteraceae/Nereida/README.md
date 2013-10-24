@@ -1,5 +1,4 @@
-Nereida Pujalte et al., 2005 GENUS
-=======
+# Nereida Pujalte et al., 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia minutissima Sacc. SPECIES
-=======
+# Hendersonia minutissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca giraldii Jatta SPECIES
-=======
+# Caloplaca giraldii Jatta SPECIES
 
 #### Status
 ACCEPTED

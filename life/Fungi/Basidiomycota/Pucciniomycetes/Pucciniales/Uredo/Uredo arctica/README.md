@@ -1,5 +1,4 @@
-Uredo arctica Lagerh. SPECIES
-=======
+# Uredo arctica Lagerh. SPECIES
 
 #### Status
 ACCEPTED

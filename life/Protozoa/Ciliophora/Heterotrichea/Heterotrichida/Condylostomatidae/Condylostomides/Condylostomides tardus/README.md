@@ -1,8 +1,7 @@
-Condylostoma tardum Penard, 1922 SPECIES
-=======
+# Condylostomides tardus Penard, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,17 +1,16 @@
-Graphis daintriensis (A.W. Archer) A.W. Archer SPECIES
-=======
+# Graphina daintreensis A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 77: 164 (2001)
 
 #### Original name
-Graphina daintriensis A.W. Archer
+Graphina daintreensis A.W. Archer
 
 ### Remarks
 null

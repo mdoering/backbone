@@ -1,5 +1,4 @@
-Leveillula leguminosarum f. leguminosarum FORM
-=======
+# Leveillula leguminosarum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Inst. bot. Komarov. Acad. Sci. , Pl. Crypt, ser. 2 10: 216 (1956)
 
 #### Original name
-Leveillula leguminosarum f. leguminosarum
+Leveillula leguminosarum Golovin
 
 ### Remarks
 null

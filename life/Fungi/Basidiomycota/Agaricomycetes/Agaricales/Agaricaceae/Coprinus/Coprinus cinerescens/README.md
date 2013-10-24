@@ -1,5 +1,4 @@
-Coprinus cinerescens Pers. SPECIES
-=======
+# Coprinus cinerescens Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium lignifragum Mont. SPECIES
-=======
+# Coniosporium lignifragum Mont. SPECIES
 
 #### Status
 ACCEPTED

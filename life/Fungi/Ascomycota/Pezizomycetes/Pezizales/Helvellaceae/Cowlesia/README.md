@@ -1,5 +1,4 @@
-Cowlesia GENUS
-=======
+# Cowlesia GENUS
 
 #### Status
 ACCEPTED

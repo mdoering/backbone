@@ -1,5 +1,4 @@
-Stereocaulon yunnanense (Hue) Asahina SPECIES
-=======
+# Stereocaulon yunnanense (Hue) Asahina SPECIES
 
 #### Status
 ACCEPTED

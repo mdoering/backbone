@@ -1,5 +1,4 @@
-Pyrenula arthoniza (C. Knight) Müll. Arg. SPECIES
-=======
+# Pyrenula arthoniza (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

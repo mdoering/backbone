@@ -1,8 +1,7 @@
-Monas ochracea Ehrenberg SPECIES
-=======
+# Sphaleromantis ochracea (Ehrenberg) Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

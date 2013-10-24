@@ -1,5 +1,4 @@
-Laccaria vulcanica (Singer) Pázmány SPECIES
-=======
+# Laccaria vulcanica (Singer) Pázmány SPECIES
 
 #### Status
 ACCEPTED

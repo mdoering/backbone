@@ -1,5 +1,4 @@
-Muiaria curvata Thaxt. SPECIES
-=======
+# Muiaria curvata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

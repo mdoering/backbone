@@ -1,5 +1,4 @@
-Jonesiaceae FAMILY
-=======
+# Jonesiaceae FAMILY
 
 #### Status
 ACCEPTED

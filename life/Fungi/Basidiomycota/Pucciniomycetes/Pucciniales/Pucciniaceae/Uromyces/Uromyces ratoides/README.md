@@ -1,5 +1,4 @@
-Uromyces ratoides Jørst. SPECIES
-=======
+# Uromyces ratoides Jørst. SPECIES
 
 #### Status
 ACCEPTED

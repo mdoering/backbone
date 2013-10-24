@@ -1,5 +1,4 @@
-Lobaria submarginale Michx. SPECIES
-=======
+# Lobaria submarginale Michx. SPECIES
 
 #### Status
 ACCEPTED

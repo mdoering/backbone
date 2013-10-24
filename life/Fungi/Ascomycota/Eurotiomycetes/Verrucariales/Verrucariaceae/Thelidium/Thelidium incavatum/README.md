@@ -1,17 +1,16 @@
-Thelidium incavatum var. incavatum VARIETY
-=======
+# Thelidium incavatum Nyl. ex Mudd SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Lich. 295 (1861)
 
 #### Original name
-Thelidium incavatum var. incavatum
+Thelidium incavatum Nyl. ex Mudd
 
 ### Remarks
 null

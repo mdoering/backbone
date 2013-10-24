@@ -1,5 +1,4 @@
-Physalospora lapageriae Speg. SPECIES
-=======
+# Physalospora lapageriae Speg. SPECIES
 
 #### Status
 ACCEPTED

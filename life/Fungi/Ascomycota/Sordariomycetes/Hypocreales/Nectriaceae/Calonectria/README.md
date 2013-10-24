@@ -1,17 +1,16 @@
-Candelospora Rea & Hawley GENUS
-=======
+# Calonectria De Notaris, 1867 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Proc. R. Ir. Acad. , Sect. B, Biol. Sci. 13: 11 (1912)
+null
 
 #### Original name
-Candelospora Rea & Hawley
+null
 
 ### Remarks
 null

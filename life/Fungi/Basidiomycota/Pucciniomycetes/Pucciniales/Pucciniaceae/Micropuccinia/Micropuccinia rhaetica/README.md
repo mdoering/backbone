@@ -1,5 +1,4 @@
-Micropuccinia rhaetica (E. Fisch.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia rhaetica (E. Fisch.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus subcibarius Corner SPECIES
-=======
+# Cantharellus subcibarius Corner SPECIES
 
 #### Status
 ACCEPTED

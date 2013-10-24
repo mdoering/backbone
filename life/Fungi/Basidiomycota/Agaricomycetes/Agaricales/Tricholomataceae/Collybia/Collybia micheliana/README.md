@@ -1,5 +1,4 @@
-Collybia micheliana Fr. SPECIES
-=======
+# Collybia micheliana Fr. SPECIES
 
 #### Status
 ACCEPTED

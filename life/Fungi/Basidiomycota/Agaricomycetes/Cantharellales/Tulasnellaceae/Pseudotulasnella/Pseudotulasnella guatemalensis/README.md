@@ -1,5 +1,4 @@
-Pseudotulasnella guatemalensis Lowy, 1964 SPECIES
-=======
+# Pseudotulasnella guatemalensis Lowy, 1964 SPECIES
 
 #### Status
 ACCEPTED

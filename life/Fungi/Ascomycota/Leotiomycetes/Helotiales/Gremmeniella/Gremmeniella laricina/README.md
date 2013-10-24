@@ -1,14 +1,13 @@
-Crumenula laricina Ettl., 1943 SPECIES
-=======
+# Gremmeniella laricina (Ettl.) Petrini, L.E. Petrini, Lafl. & Ouell., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 10(1): 55 (1945)
+Can. J. Bot. 67(9): 2812 (1989)
 
 #### Original name
 Crumenula laricina Ettl., 1943

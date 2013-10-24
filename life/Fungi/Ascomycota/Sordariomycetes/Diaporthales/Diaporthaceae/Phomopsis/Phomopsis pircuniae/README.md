@@ -1,5 +1,4 @@
-Phomopsis pircuniae Sacc. SPECIES
-=======
+# Phomopsis pircuniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

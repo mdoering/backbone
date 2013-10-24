@@ -1,5 +1,4 @@
-Coenogonium himalayense G. Pant & D.D. Awasthi SPECIES
-=======
+# Coenogonium himalayense G. Pant & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

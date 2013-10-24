@@ -1,5 +1,4 @@
-Sphaeria cruenta Fr. SPECIES
-=======
+# Sphaeria cruenta Fr. SPECIES
 
 #### Status
 ACCEPTED

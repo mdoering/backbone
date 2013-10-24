@@ -1,5 +1,4 @@
-Fungus subsquamosus (Batsch) Paulet SPECIES
-=======
+# Fungus subsquamosus (Batsch) Paulet SPECIES
 
 #### Status
 ACCEPTED

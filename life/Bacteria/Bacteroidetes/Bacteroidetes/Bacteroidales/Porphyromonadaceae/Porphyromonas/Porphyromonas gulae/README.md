@@ -1,5 +1,4 @@
-Porphyromonas gulae Founier et al., 2001 SPECIES
-=======
+# Porphyromonas gulae Founier et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

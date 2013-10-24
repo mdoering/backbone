@@ -1,17 +1,16 @@
-Sthughesia M.E. Barr GENUS
-=======
+# Metacapnodium Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 29: 503 (1987)
+Physis, Buenos Aires 4: 288 (1918)
 
 #### Original name
-Sthughesia M.E. Barr
+Metacapnodium Speg.
 
 ### Remarks
 null

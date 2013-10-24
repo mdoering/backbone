@@ -1,5 +1,4 @@
-Septobasidium pinicola Snell SPECIES
-=======
+# Septobasidium pinicola Snell SPECIES
 
 #### Status
 ACCEPTED

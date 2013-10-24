@@ -1,5 +1,4 @@
-Phorticum GENUS
-=======
+# Phorticum GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecanactis melanocheilodes Vain. SPECIES
-=======
+# Cresponea melanocheilodes (Vain.) Egea & Torrente SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycologia 21(1): 37 (1929)
+Mycotaxon 48: 321 (1993)
 
 #### Original name
 Lecanactis melanocheilodes Vain.

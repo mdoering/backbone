@@ -1,5 +1,4 @@
-Xenosporium indicum Panwar, Purohit & Geholt, 1973 SPECIES
-=======
+# Xenosporium indicum Panwar, Purohit & Geholt, 1973 SPECIES
 
 #### Status
 ACCEPTED

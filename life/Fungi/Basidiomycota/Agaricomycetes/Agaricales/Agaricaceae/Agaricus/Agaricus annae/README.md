@@ -1,5 +1,4 @@
-Agaricus annae Pilát SPECIES
-=======
+# Agaricus annae Pilát SPECIES
 
 #### Status
 ACCEPTED

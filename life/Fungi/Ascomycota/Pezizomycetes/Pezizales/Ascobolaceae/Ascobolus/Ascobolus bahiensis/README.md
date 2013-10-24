@@ -1,5 +1,4 @@
-Ascobolus bahiensis Dokm. & Ranalli SPECIES
-=======
+# Ascobolus bahiensis Dokm. & Ranalli SPECIES
 
 #### Status
 ACCEPTED

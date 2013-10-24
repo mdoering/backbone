@@ -1,5 +1,4 @@
-Valsaria peckii (Howe) Sacc. SPECIES
-=======
+# Valsaria peckii (Howe) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piedraia colombiana C.W. Dodge SPECIES
-=======
+# Piedraia colombiana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

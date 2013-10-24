@@ -1,5 +1,4 @@
-Proteus hauseri O'Hara et al., 2000 SPECIES
-=======
+# Proteus hauseri O'Hara et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

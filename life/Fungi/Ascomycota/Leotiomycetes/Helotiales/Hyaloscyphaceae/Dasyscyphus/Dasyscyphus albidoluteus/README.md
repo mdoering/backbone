@@ -1,5 +1,4 @@
-Dasyscyphus albidoluteus (Pers.) Rehm SPECIES
-=======
+# Dasyscyphus albidoluteus (Pers.) Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum velutinum var. velutinum VARIETY
-=======
+# Hydnum velutinum Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. mycol. (Lundae) 1: 404 (1821)
 
 #### Original name
-Hydnum velutinum var. velutinum
+Hydnum velutinum Fr.
 
 ### Remarks
 null

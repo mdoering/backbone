@@ -1,5 +1,4 @@
-Chrysococcus pascheri Lohmann SPECIES
-=======
+# Chrysococcus pascheri Lohmann SPECIES
 
 #### Status
 ACCEPTED

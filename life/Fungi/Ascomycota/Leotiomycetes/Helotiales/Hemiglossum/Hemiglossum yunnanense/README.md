@@ -1,17 +1,16 @@
-Microglossum yunnanense (Pat.) Sacc., 1897 SPECIES
-=======
+# Hemiglossum yunnanense Pat., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 12: (1890)
 
 #### Original name
-null
+Hemiglossum yunnanense Pat., 1890
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyporus debilis Wallr. SPECIES
-=======
+# Polyporus debilis Wallr. SPECIES
 
 #### Status
 ACCEPTED

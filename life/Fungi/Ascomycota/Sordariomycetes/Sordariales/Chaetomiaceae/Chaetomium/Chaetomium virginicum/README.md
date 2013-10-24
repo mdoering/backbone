@@ -1,5 +1,4 @@
-Chaetomium virginicum L.M. Ames SPECIES
-=======
+# Chaetomium virginicum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

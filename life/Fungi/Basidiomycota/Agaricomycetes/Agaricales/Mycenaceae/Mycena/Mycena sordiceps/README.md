@@ -1,5 +1,4 @@
-Mycena sordiceps Locq. SPECIES
-=======
+# Mycena sordiceps Locq. SPECIES
 
 #### Status
 ACCEPTED

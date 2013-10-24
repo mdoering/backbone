@@ -1,5 +1,4 @@
-Inocybe angustifolia (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe angustifolia (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

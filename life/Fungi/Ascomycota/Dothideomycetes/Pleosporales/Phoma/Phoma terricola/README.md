@@ -1,5 +1,4 @@
-Phoma terricola Boerema, 1985 SPECIES
-=======
+# Phoma terricola Boerema, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strongylopsis discreta Nádv. SPECIES
-=======
+# Strongylopsis discreta Nádv. SPECIES
 
 #### Status
 ACCEPTED

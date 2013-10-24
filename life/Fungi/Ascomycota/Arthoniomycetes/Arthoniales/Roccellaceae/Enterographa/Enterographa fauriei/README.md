@@ -1,5 +1,4 @@
-Enterographa fauriei Zahlbr. SPECIES
-=======
+# Enterographa fauriei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

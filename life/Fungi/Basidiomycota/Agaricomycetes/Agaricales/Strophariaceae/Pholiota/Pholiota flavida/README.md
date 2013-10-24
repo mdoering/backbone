@@ -1,17 +1,16 @@
-Agaricus flavidus var. flavidus Pers., 1801 VARIETY
-=======
+# Pholiota flavida (Schaeff.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 516 (1951)
 
 #### Original name
-null
+Agaricus flavidus Bolton, 1792
 
 ### Remarks
 null

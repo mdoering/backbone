@@ -1,14 +1,13 @@
-Dicaeoma melanconiodes (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma melanconioides (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 469 (1898)
 
 #### Original name
 Puccinia melanconioides Ellis & Harkn.

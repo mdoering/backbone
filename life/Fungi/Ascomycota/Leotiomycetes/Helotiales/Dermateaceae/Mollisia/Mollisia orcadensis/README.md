@@ -1,5 +1,4 @@
-Mollisia orcadensis Dennis & Spooner, 1993 SPECIES
-=======
+# Mollisia orcadensis Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

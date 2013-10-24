@@ -1,17 +1,16 @@
-Stereocaulon incrustatum var. incrustatum VARIETY
-=======
+# Stereocaulon incrustatum Flörke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutsche Lich. 4: 12 (1819)
 
 #### Original name
-null
+Stereocaulon incrustatum Flörke
 
 ### Remarks
 null

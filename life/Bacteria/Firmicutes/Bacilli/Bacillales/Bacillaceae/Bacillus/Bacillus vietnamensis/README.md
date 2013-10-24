@@ -1,5 +1,4 @@
-Bacillus vietnamensis Noguchi et al., 2004 SPECIES
-=======
+# Bacillus vietnamensis Noguchi et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

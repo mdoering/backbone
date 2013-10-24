@@ -1,14 +1,13 @@
-Rhizophydium costantineani Sacc. & D. Sacc. SPECIES
-=======
+# Rhizophydium constantineanui Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 17: 512 (1905)
 
 #### Original name
 Rhizophydium vaucheriae De Wild.

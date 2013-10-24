@@ -1,5 +1,4 @@
-Cintractia utriculosa (Henn.) Clinton SPECIES
-=======
+# Cintractia utriculosa (Henn.) Clinton SPECIES
 
 #### Status
 ACCEPTED

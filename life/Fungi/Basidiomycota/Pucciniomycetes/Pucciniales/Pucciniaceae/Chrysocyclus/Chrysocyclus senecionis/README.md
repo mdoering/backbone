@@ -1,5 +1,4 @@
-Chrysocyclus senecionis R.W. Davidson, 1932 SPECIES
-=======
+# Chrysocyclus senecionis R.W. Davidson, 1932 SPECIES
 
 #### Status
 ACCEPTED

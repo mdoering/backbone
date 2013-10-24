@@ -1,5 +1,4 @@
-Peziza immersa Sowerby SPECIES
-=======
+# Peziza immersa Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austroboletus tristis (Pat. & C.F. Baker) Wolfe SPECIES
-=======
+# Austroboletus tristis (Pat. & C.F. Baker) Wolfe SPECIES
 
 #### Status
 ACCEPTED

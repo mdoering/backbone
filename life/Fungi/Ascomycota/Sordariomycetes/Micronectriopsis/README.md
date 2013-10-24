@@ -1,5 +1,4 @@
-Micronectriopsis GENUS
-=======
+# Micronectriopsis GENUS
 
 #### Status
 ACCEPTED

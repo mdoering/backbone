@@ -1,5 +1,4 @@
-Podosporium antillanum (Gonz. Frag. & Cif.) Cif. SPECIES
-=======
+# Podosporium antillanum (Gonz. Frag. & Cif.) Cif. SPECIES
 
 #### Status
 ACCEPTED

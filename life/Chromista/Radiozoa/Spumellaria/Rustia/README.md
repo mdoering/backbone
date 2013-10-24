@@ -1,5 +1,4 @@
-Rustia Vinassa de Regny, 1898 GENUS
-=======
+# Rustia Vinassa de Regny, 1898 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea buelliana (De Not.) Vain. SPECIES
-=======
+# Lecidea buelliana (De Not.) Vain. SPECIES
 
 #### Status
 ACCEPTED

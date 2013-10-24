@@ -1,5 +1,4 @@
-Parmeliopsis pallescens var. pallescens VARIETY
-=======
+# Parmeliopsis pallescens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmeliopsis pallescens var. pallescens
+null
 
 ### Remarks
 null

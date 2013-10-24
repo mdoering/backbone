@@ -1,5 +1,4 @@
-Stictis elegans Grelet SPECIES
-=======
+# Stictis elegans Grelet SPECIES
 
 #### Status
 ACCEPTED

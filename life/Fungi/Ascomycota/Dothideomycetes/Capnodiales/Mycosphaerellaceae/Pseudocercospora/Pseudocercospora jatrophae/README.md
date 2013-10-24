@@ -1,14 +1,13 @@
-Cercospora jatrophae G.F. Atk., 1892 SPECIES
-=======
+# Pseudocercospora jatrophae (G.F. Atk.) A.K. Das & Chattopadh., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 8(2): 64 (1892)
+Journal of Mycopathological Research 28(1): 28 (1990)
 
 #### Original name
 Cercospora jatrophae G.F. Atk., 1892

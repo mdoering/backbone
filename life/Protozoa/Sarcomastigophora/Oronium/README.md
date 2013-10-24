@@ -1,5 +1,4 @@
-Oronium Haeckel, 1887 GENUS
-=======
+# Oronium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

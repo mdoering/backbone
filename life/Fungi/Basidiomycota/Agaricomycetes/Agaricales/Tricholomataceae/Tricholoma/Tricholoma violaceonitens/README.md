@@ -1,5 +1,4 @@
-Tricholoma violaceonitens Bagl. SPECIES
-=======
+# Tricholoma violaceonitens Bagl. SPECIES
 
 #### Status
 ACCEPTED

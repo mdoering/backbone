@@ -1,5 +1,4 @@
-Cytosphaera cesatii (Sacc.) Abbas, B. Sutton, Ghaffar & Abbas SPECIES
-=======
+# Cytosphaera cesatii (Sacc.) Abbas, B. Sutton, Ghaffar & Abbas SPECIES
 
 #### Status
 ACCEPTED

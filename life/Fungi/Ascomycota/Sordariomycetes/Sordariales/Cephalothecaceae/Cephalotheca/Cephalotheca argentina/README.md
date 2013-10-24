@@ -1,5 +1,4 @@
-Cephalotheca argentina Speg. SPECIES
-=======
+# Cephalotheca argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

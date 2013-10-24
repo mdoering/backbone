@@ -1,14 +1,13 @@
-Auricularia fusco-succinea (Mont.) Henn. SPECIES
-=======
+# Auricularia fuscosuccinea (Mont.) Henn., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Jb. 17: 19 (1893)
 
 #### Original name
 Hirneola fuscosuccinea Mont., 1856

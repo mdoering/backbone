@@ -1,5 +1,4 @@
-Uredo aframomi Har. & Pat. SPECIES
-=======
+# Uredo aframomi Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

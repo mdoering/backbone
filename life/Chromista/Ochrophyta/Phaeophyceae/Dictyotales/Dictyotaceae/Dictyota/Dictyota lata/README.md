@@ -1,5 +1,4 @@
-Dictyota lata J.V. Lamouroux SPECIES
-=======
+# Dictyota lata J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia badmissima Largent SPECIES
-=======
+# Leptonia badmissima Largent SPECIES
 
 #### Status
 ACCEPTED

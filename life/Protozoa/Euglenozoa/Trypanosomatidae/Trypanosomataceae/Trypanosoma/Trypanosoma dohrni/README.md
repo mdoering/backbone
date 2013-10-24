@@ -1,5 +1,4 @@
-Trypanosoma dohrni Yakimov, 1911 SPECIES
-=======
+# Trypanosoma dohrni Yakimov, 1911 SPECIES
 
 #### Status
 ACCEPTED

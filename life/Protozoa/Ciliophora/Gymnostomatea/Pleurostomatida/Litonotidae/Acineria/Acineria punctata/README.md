@@ -1,5 +1,4 @@
-Acineria punctata Song & Wilbert, 1989 SPECIES
-=======
+# Acineria punctata Song & Wilbert, 1989 SPECIES
 
 #### Status
 ACCEPTED

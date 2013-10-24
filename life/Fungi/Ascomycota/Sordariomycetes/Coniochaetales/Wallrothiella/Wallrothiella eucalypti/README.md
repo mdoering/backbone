@@ -1,5 +1,4 @@
-Wallrothiella eucalypti Tassi SPECIES
-=======
+# Wallrothiella eucalypti Tassi SPECIES
 
 #### Status
 ACCEPTED

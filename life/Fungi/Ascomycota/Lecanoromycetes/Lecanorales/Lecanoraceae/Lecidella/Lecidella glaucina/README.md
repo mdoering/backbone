@@ -1,5 +1,4 @@
-Lecidella glaucina Rehm SPECIES
-=======
+# Lecidella glaucina Rehm SPECIES
 
 #### Status
 ACCEPTED

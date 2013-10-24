@@ -1,5 +1,4 @@
-Diplotheca cerei Henn. SPECIES
-=======
+# Diplotheca cerei Henn. SPECIES
 
 #### Status
 ACCEPTED

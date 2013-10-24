@@ -1,5 +1,4 @@
-Physalospora labecula (Lév.) Sacc. SPECIES
-=======
+# Physalospora labecula (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

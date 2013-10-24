@@ -1,5 +1,4 @@
-Spirocoleus Möbius, 1889 GENUS
-=======
+# Spirocoleus Möbius, 1889 GENUS
 
 #### Status
 ACCEPTED

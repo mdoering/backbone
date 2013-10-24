@@ -1,5 +1,4 @@
-Pycnoharknessia Matsush. GENUS
-=======
+# Pycnoharknessia Matsush. GENUS
 
 #### Status
 ACCEPTED

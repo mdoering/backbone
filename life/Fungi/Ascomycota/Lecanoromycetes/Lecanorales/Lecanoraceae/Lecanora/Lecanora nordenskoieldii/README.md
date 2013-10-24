@@ -1,5 +1,4 @@
-Lecanora nordenskoieldii Vain. SPECIES
-=======
+# Lecanora nordenskoieldii Vain. SPECIES
 
 #### Status
 ACCEPTED

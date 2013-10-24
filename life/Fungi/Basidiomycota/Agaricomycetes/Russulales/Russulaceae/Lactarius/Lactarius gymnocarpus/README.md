@@ -1,5 +1,4 @@
-Lactarius gymnocarpus R. Heim SPECIES
-=======
+# Lactarius gymnocarpus R. Heim SPECIES
 
 #### Status
 ACCEPTED

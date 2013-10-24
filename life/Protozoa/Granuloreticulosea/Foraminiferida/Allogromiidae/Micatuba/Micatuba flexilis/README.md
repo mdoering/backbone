@@ -1,5 +1,4 @@
-Micatuba flexilis (Höglund, 1947) SPECIES
-=======
+# Micatuba flexilis (Höglund, 1947) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus subcoccineus Henn. SPECIES
-=======
+# Hygrophorus subcoccineus Henn. SPECIES
 
 #### Status
 ACCEPTED

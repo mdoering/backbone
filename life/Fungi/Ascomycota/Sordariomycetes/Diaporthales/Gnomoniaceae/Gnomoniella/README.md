@@ -1,5 +1,4 @@
-Gnomoniella Saccardo, 1881 GENUS
-=======
+# Gnomoniella Saccardo, 1881 GENUS
 
 #### Status
 ACCEPTED

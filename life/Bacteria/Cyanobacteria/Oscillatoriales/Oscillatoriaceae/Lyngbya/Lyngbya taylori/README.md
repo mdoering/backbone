@@ -1,5 +1,4 @@
-Lyngbya taylori Drouet & Strickland SPECIES
-=======
+# Lyngbya taylori Drouet & Strickland SPECIES
 
 #### Status
 ACCEPTED

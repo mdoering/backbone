@@ -1,5 +1,4 @@
-Hyaloscypha atomaria (Starbäck) Nannf. SPECIES
-=======
+# Hyaloscypha atomaria (Starbäck) Nannf. SPECIES
 
 #### Status
 ACCEPTED

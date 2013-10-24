@@ -1,5 +1,4 @@
-Septoria helichrysicola Priest SPECIES
-=======
+# Septoria helichrysicola Priest SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria myriaspora P. Crouan & H. Crouan SPECIES
-=======
+# Sordaria myriaspora P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

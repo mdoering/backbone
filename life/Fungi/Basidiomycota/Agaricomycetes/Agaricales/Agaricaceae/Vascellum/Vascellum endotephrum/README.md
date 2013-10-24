@@ -1,5 +1,4 @@
-Vascellum endotephrum (Pat.) Demoulin & Dring SPECIES
-=======
+# Vascellum endotephrum (Pat.) Demoulin & Dring SPECIES
 
 #### Status
 ACCEPTED

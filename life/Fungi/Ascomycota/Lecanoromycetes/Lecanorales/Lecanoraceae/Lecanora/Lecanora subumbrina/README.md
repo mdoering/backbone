@@ -1,5 +1,4 @@
-Lecanora subumbrina Müll. Arg. SPECIES
-=======
+# Lecanora subumbrina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

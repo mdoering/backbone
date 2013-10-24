@@ -1,5 +1,4 @@
-Ombrophila albiceps Peck SPECIES
-=======
+# Ombrophila albiceps Peck SPECIES
 
 #### Status
 ACCEPTED

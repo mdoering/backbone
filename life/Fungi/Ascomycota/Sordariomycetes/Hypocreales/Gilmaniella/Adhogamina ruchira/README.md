@@ -1,5 +1,4 @@
-Adhogamina ruchira Subram. & Lodha SPECIES
-=======
+# Adhogamina ruchira Subram. & Lodha SPECIES
 
 #### Status
 ACCEPTED

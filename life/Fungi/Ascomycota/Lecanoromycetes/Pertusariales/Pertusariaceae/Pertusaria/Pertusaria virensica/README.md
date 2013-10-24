@@ -1,5 +1,4 @@
-Pertusaria virensica R.C. Harris SPECIES
-=======
+# Pertusaria virensica R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

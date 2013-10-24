@@ -1,5 +1,4 @@
-Lecanora reticulata f. reticulata FORM
-=======
+# Lecanora reticulata (Kremp.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora reticulata f. reticulata
+Aspicilia reticulata Rehm
 
 ### Remarks
 null

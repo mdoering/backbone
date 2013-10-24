@@ -1,5 +1,4 @@
-Trilonche Hinde, 1899 GENUS
-=======
+# Trilonche Hinde, 1899 GENUS
 
 #### Status
 ACCEPTED

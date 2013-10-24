@@ -1,5 +1,4 @@
-Sporisorium overeemii (Cif.) Rifai SPECIES
-=======
+# Sporisorium overeemii (Cif.) Rifai SPECIES
 
 #### Status
 ACCEPTED

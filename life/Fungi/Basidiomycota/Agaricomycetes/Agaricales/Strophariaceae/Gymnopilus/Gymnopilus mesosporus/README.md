@@ -1,5 +1,4 @@
-Gymnopilus mesosporus E. Horak, 1989 SPECIES
-=======
+# Gymnopilus mesosporus E. Horak, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma insuetum (G. Winter) Kuntze SPECIES
-=======
+# Dicaeoma insuetum (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

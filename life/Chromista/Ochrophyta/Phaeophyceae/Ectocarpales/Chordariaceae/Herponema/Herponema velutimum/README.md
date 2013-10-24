@@ -1,5 +1,4 @@
-Herponema velutimum SPECIES
-=======
+# Herponema velutimum SPECIES
 
 #### Status
 ACCEPTED

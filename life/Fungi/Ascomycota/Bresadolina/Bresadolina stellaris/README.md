@@ -1,5 +1,4 @@
-Bresadolina stellaris Rick, 1928 SPECIES
-=======
+# Bresadolina stellaris Rick, 1928 SPECIES
 
 #### Status
 ACCEPTED

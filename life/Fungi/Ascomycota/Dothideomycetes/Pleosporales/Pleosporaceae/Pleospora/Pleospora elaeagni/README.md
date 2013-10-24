@@ -1,5 +1,4 @@
-Pleospora elaeagni Tilak & R. Rao SPECIES
-=======
+# Pleospora elaeagni Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

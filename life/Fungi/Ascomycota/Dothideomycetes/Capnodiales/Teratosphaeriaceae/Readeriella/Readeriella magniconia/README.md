@@ -1,5 +1,4 @@
-Readeriella magniconia Crous & Carnegie SPECIES
-=======
+# Readeriella magniconia Crous & Carnegie SPECIES
 
 #### Status
 ACCEPTED

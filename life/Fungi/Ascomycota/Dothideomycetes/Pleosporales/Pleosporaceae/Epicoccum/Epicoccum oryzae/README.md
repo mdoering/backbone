@@ -1,5 +1,4 @@
-Epicoccum oryzae S. Ito & Iwadare SPECIES
-=======
+# Epicoccum oryzae S. Ito & Iwadare SPECIES
 
 #### Status
 ACCEPTED

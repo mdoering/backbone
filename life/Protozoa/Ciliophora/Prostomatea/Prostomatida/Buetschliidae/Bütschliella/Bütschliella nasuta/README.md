@@ -1,5 +1,4 @@
-Bütschliella nasuta SPECIES
-=======
+# Bütschliella nasuta SPECIES
 
 #### Status
 ACCEPTED

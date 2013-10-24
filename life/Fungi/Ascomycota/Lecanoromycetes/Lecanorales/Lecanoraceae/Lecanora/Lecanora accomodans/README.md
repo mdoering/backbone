@@ -1,5 +1,4 @@
-Lecanora accomodans (Gyeln.) Zahlbr. SPECIES
-=======
+# Lecanora accomodans (Gyeln.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

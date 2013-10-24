@@ -1,8 +1,7 @@
-Hormathonema paulocellulare Ercegovic SPECIES
-=======
+# Solentia paulocellulare (Ercegovic) LeCampion-Alsumard & Golubic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

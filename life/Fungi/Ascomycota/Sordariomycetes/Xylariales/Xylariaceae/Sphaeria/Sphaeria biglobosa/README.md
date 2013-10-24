@@ -1,5 +1,4 @@
-Sphaeria biglobosa Cooke & Ellis SPECIES
-=======
+# Sphaeria biglobosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

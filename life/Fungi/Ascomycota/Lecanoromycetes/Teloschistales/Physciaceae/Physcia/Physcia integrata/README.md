@@ -1,17 +1,16 @@
-Physcia integrata subsp. integrata SUBSPECIES
-=======
+# Physcia integrata Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 1(2): 424 (1860)
 
 #### Original name
-null
+Physcia integrata Nyl.
 
 ### Remarks
 null

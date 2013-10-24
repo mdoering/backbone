@@ -1,5 +1,4 @@
-Sphaeria dichoma Lév. SPECIES
-=======
+# Sphaeria dichoma Lév. SPECIES
 
 #### Status
 ACCEPTED

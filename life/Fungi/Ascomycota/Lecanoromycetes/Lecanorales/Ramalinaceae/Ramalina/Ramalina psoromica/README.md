@@ -1,5 +1,4 @@
-Ramalina psoromica Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina psoromica Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

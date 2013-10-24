@@ -1,5 +1,4 @@
-Hormiactella sacchari J.R. Johnst. SPECIES
-=======
+# Hormiactella sacchari J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

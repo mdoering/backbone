@@ -1,17 +1,16 @@
-Leptostroma maculicolum Hilitzer SPECIES
-=======
+# Leptostroma maculicola Hilitzer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monograficka studie o ceskych druzich radu Hysteriales a o sypavkach jimi puisobenych 78 (1929)
 
 #### Original name
-Leptostroma maculicolum Hilitzer
+Leptostroma maculicola Hilitzer
 
 ### Remarks
 null

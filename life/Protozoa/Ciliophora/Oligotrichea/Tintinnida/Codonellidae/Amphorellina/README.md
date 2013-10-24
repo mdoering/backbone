@@ -1,5 +1,4 @@
-Amphorellina Colom, 1948 GENUS
-=======
+# Amphorellina Colom, 1948 GENUS
 
 #### Status
 ACCEPTED

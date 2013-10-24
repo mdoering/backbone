@@ -1,5 +1,4 @@
-Zygopichia nitrophila Serrano SPECIES
-=======
+# Zygopichia nitrophila Serrano SPECIES
 
 #### Status
 ACCEPTED

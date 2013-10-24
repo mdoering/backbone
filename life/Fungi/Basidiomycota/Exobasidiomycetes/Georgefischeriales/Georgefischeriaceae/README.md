@@ -1,5 +1,4 @@
-Georgefischeriaceae R. Bauer, Begerow & Oberw. FAMILY
-=======
+# Georgefischeriaceae R. Bauer, Begerow & Oberw. FAMILY
 
 #### Status
 ACCEPTED

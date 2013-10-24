@@ -1,5 +1,4 @@
-Aecidium hornotinum Cummins SPECIES
-=======
+# Aecidium hornotinum Cummins SPECIES
 
 #### Status
 ACCEPTED

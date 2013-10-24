@@ -1,5 +1,4 @@
-Thurammina faerleensis Höglund, 1948 SPECIES
-=======
+# Thurammina faerleensis Höglund, 1948 SPECIES
 
 #### Status
 ACCEPTED

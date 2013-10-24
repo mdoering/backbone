@@ -1,5 +1,4 @@
-Physcia islandica (L.) Michx. SPECIES
-=======
+# Physcia islandica (L.) Michx. SPECIES
 
 #### Status
 ACCEPTED

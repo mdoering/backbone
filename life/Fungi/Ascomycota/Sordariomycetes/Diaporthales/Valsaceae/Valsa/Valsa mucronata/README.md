@@ -1,5 +1,4 @@
-Valsa mucronata Peck SPECIES
-=======
+# Valsa mucronata Peck SPECIES
 
 #### Status
 ACCEPTED

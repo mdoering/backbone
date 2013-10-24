@@ -1,5 +1,4 @@
-Pyrenula anomala (Ach.) A. Massal., 1915 SPECIES
-=======
+# Pyrenula anomala (Ach.) A. Massal., 1915 SPECIES
 
 #### Status
 DOUBTFUL

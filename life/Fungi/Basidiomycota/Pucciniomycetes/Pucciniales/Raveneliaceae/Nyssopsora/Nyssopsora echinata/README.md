@@ -1,14 +1,13 @@
-Triphragmium echinatum Lév., 1848 SPECIES
-=======
+# Nyssopsora echinata (Lév.) Arthur, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 9: 247 (1848)
+Résult. Sci. Congr. Bot. Vienne 342 (1906)
 
 #### Original name
 Triphragmium echinatum Lév., 1848

@@ -1,5 +1,4 @@
-Cothurnia mobiusi SPECIES
-=======
+# Cothurnia mobiusi SPECIES
 
 #### Status
 ACCEPTED

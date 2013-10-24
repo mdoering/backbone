@@ -1,5 +1,4 @@
-Bacidia schweinitzii (Tuck.) A. Schneid. SPECIES
-=======
+# Bacidia schweinitzii (Tuck.) A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

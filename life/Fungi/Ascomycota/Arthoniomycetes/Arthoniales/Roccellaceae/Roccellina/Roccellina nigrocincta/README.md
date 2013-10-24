@@ -1,5 +1,4 @@
-Roccellina nigrocincta Tehler SPECIES
-=======
+# Roccellina nigrocincta Tehler SPECIES
 
 #### Status
 ACCEPTED

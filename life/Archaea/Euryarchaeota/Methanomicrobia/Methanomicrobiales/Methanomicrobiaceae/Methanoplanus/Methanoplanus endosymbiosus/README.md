@@ -1,5 +1,4 @@
-Methanoplanus endosymbiosus van Bruggen et al., 1986 SPECIES
-=======
+# Methanoplanus endosymbiosus van Bruggen et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

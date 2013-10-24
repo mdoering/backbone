@@ -1,5 +1,4 @@
-Lecidea deserta SPECIES
-=======
+# Lecidea deserta SPECIES
 
 #### Status
 ACCEPTED

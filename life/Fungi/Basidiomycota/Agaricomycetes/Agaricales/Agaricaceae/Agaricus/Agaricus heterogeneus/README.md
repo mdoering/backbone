@@ -1,5 +1,4 @@
-Agaricus heterogeneus Britzelm. SPECIES
-=======
+# Agaricus heterogeneus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

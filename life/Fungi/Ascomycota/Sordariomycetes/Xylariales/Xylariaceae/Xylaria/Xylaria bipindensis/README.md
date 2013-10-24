@@ -1,5 +1,4 @@
-Xylaria bipindensis Lloyd SPECIES
-=======
+# Xylaria bipindensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

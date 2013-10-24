@@ -1,17 +1,16 @@
-Hypocrea saccharina var. saccharina VARIETY
-=======
+# Hypocrea saccharina Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 376 (1868)
 
 #### Original name
-Hypocrea saccharina var. saccharina
+Hypocrea saccharina Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

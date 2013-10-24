@@ -1,5 +1,4 @@
-Nectria hypocreoides Berk. & Cooke SPECIES
-=======
+# Nectria hypocreoides Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

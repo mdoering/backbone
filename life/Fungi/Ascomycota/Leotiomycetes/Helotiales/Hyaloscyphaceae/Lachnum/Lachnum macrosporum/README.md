@@ -1,5 +1,4 @@
-Lachnum macrosporum (Penz. & Sacc.) J.H. Haines SPECIES
-=======
+# Lachnum macrosporum (Penz. & Sacc.) J.H. Haines SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachysphaeridium vetternii Timofeev, 1969 SPECIES
-=======
+# Trachysphaeridium vetternii Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

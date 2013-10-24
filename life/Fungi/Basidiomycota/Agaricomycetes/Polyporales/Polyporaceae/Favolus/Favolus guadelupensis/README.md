@@ -1,17 +1,16 @@
-Favolus guadalupensis Lév. SPECIES
-=======
+# Favolus guadelupensis Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 144 (1846)
 
 #### Original name
-Favolus guadalupensis Lév.
+Favolus guadelupensis Lév.
 
 ### Remarks
 null

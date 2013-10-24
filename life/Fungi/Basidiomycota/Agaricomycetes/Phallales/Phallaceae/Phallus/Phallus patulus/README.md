@@ -1,5 +1,4 @@
-Phallus patulus Gled. SPECIES
-=======
+# Phallus patulus Gled. SPECIES
 
 #### Status
 ACCEPTED

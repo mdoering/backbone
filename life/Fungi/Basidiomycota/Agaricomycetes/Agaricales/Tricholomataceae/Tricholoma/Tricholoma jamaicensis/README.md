@@ -1,8 +1,7 @@
-Tricholoma jamaicense (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma jamaicensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

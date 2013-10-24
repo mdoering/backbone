@@ -1,5 +1,4 @@
-Lecanora vidraensis Ciurchea SPECIES
-=======
+# Lecanora vidraensis Ciurchea SPECIES
 
 #### Status
 ACCEPTED

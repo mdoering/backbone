@@ -1,5 +1,4 @@
-Uredo medusa Speg. SPECIES
-=======
+# Uredo medusa Speg. SPECIES
 
 #### Status
 ACCEPTED

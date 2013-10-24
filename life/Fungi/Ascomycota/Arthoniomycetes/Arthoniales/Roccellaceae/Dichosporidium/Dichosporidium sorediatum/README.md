@@ -1,5 +1,4 @@
-Dichosporidium sorediatum G. Thor SPECIES
-=======
+# Dichosporidium sorediatum G. Thor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratosphaeria silva-nigra (Penz. & Sacc.) Teng SPECIES
-=======
+# Ceratosphaeria silva-nigra (Penz. & Sacc.) Teng SPECIES
 
 #### Status
 ACCEPTED

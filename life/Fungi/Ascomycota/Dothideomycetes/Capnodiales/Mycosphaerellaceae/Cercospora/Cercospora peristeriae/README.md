@@ -1,5 +1,4 @@
-Cercospora peristeriae H.C. Burnett SPECIES
-=======
+# Cercospora peristeriae H.C. Burnett SPECIES
 
 #### Status
 ACCEPTED

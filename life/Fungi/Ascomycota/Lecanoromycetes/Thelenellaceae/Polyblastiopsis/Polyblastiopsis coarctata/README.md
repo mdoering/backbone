@@ -1,14 +1,13 @@
-Verrucaria coarctata Stirt. SPECIES
-=======
+# Polyblastiopsis coarctata (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Queensland Agric. J. 5: 39 (1899)
+Cat. Lich. Univers. 1: 348 (1922)
 
 #### Original name
 Verrucaria coarctata Stirt.

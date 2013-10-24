@@ -1,5 +1,4 @@
-Lacrymaria delamarei Dragesco, 1954 SPECIES
-=======
+# Lacrymaria delamarei Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

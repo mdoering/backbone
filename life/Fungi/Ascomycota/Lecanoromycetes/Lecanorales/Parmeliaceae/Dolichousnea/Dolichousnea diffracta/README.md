@@ -1,5 +1,4 @@
-Dolichousnea diffracta (Vain.) Articus SPECIES
-=======
+# Dolichousnea diffracta (Vain.) Articus SPECIES
 
 #### Status
 ACCEPTED

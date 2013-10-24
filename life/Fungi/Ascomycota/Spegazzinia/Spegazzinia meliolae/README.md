@@ -1,5 +1,4 @@
-Spegazzinia meliolae Zimm. SPECIES
-=======
+# Spegazzinia meliolae Zimm. SPECIES
 
 #### Status
 ACCEPTED

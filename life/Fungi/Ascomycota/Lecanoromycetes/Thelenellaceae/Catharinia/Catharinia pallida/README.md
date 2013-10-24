@@ -1,5 +1,4 @@
-Catharinia pallida Sacc. & Speg. SPECIES
-=======
+# Catharinia pallida Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

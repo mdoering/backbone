@@ -1,5 +1,4 @@
-Biflagellospora papillata Sivichai & Hywel-Jones SPECIES
-=======
+# Biflagellospora papillata Sivichai & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

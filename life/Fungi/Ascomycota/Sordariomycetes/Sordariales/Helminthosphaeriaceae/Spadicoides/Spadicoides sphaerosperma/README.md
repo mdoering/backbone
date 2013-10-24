@@ -1,17 +1,16 @@
-Spadicoides sphaerospermum McKenzie SPECIES
-=======
+# Spadicoides sphaerosperma McKenzie, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 20(3): 246 (1982)
 
 #### Original name
-Spadicoides sphaerospermum McKenzie
+Spadicoides sphaerosperma McKenzie, 1982
 
 ### Remarks
 null

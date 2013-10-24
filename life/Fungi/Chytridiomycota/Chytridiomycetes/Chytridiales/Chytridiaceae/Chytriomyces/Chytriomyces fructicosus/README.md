@@ -1,5 +1,4 @@
-Chytriomyces fructicosus Karling, 1949 SPECIES
-=======
+# Chytriomyces fructicosus Karling, 1949 SPECIES
 
 #### Status
 ACCEPTED

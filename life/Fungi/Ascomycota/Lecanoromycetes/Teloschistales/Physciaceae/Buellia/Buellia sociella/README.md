@@ -1,5 +1,4 @@
-Buellia sociella SPECIES
-=======
+# Buellia sociella SPECIES
 
 #### Status
 ACCEPTED

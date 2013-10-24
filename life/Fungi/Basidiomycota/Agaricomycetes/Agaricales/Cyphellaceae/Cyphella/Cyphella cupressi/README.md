@@ -1,5 +1,4 @@
-Cyphella cupressi (Schwein.) Fr. SPECIES
-=======
+# Cyphella cupressi (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

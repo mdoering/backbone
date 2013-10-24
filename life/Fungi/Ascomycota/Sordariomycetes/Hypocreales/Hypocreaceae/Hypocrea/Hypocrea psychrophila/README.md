@@ -1,5 +1,4 @@
-Hypocrea psychrophila E. Müll., Aebi & J. Webster, 1972 SPECIES
-=======
+# Hypocrea psychrophila E. Müll., Aebi & J. Webster, 1972 SPECIES
 
 #### Status
 ACCEPTED

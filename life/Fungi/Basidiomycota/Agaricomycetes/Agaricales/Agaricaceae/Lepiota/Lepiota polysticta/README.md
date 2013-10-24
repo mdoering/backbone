@@ -1,5 +1,4 @@
-Lepiota polysticta (Berk.) Gillet SPECIES
-=======
+# Lepiota polysticta (Berk.) Gillet SPECIES
 
 #### Status
 ACCEPTED

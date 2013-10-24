@@ -1,5 +1,4 @@
-Pseudolachnea nivea Velen. SPECIES
-=======
+# Pseudolachnea nivea Velen. SPECIES
 
 #### Status
 ACCEPTED

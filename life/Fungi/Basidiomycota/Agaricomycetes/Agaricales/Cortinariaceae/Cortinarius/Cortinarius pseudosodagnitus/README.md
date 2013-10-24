@@ -1,5 +1,4 @@
-Cortinarius pseudosodagnitus Rob. Henry SPECIES
-=======
+# Cortinarius pseudosodagnitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

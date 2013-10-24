@@ -1,5 +1,4 @@
-Helicosphaeraceae Black, 1971 FAMILY
-=======
+# Helicosphaeraceae Black, 1971 FAMILY
 
 #### Status
 ACCEPTED

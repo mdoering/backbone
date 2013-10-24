@@ -1,5 +1,4 @@
-Lyngbya incrustata (Nägeli) Hansgirg SPECIES
-=======
+# Lyngbya incrustata (Nägeli) Hansgirg SPECIES
 
 #### Status
 ACCEPTED

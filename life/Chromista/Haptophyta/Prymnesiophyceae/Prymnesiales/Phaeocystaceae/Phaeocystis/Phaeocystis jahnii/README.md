@@ -1,5 +1,4 @@
-Phaeocystis jahnii A. Zingone SPECIES
-=======
+# Phaeocystis jahnii A. Zingone SPECIES
 
 #### Status
 ACCEPTED

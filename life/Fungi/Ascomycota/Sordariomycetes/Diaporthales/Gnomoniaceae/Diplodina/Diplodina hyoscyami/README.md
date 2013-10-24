@@ -1,5 +1,4 @@
-Diplodina hyoscyami Vestergr. SPECIES
-=======
+# Diplodina hyoscyami Vestergr. SPECIES
 
 #### Status
 ACCEPTED

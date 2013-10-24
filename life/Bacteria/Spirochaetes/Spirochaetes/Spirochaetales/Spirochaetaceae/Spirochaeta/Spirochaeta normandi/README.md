@@ -1,5 +1,4 @@
-Spirochaeta normandi SPECIES
-=======
+# Spirochaeta normandi SPECIES
 
 #### Status
 ACCEPTED

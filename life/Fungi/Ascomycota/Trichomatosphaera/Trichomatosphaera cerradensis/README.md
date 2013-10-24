@@ -1,5 +1,4 @@
-Trichomatosphaera cerradensis Pereira-Carv., G.F. Sepúlveda & Dianese SPECIES
-=======
+# Trichomatosphaera cerradensis Pereira-Carv., G.F. Sepúlveda & Dianese SPECIES
 
 #### Status
 ACCEPTED

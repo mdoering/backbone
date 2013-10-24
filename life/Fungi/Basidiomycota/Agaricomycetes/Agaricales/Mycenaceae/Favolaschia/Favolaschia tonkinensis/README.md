@@ -1,5 +1,4 @@
-Favolaschia tonkinensis (Fr.) Singer SPECIES
-=======
+# Favolaschia tonkinensis (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

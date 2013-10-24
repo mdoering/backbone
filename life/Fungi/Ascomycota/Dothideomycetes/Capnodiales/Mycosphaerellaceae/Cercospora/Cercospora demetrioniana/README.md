@@ -1,5 +1,4 @@
-Cercospora demetrioniana var. demetrioniana VARIETY
-=======
+# Cercospora demetrioniana G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 23: 171 (1884)
 
 #### Original name
-Cercospora demetrioniana var. demetrioniana
+Cercospora demetrioniana G. Winter
 
 ### Remarks
 null

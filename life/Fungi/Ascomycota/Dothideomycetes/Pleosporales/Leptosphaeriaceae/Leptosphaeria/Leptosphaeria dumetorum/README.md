@@ -1,17 +1,16 @@
-Heptameria dumetorum (Niessl) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria dumetorum Niessl, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. nat. Ver. Brünn 10: 26 (1872)
 
 #### Original name
-null
+Leptosphaeria dumetorum Niessl, 1872
 
 ### Remarks
 null

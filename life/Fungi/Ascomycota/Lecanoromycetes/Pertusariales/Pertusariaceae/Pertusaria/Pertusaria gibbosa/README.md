@@ -1,5 +1,4 @@
-Pertusaria gibbosa H. Magn. SPECIES
-=======
+# Pertusaria gibbosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius perelegans Soop, 2001 SPECIES
-=======
+# Cortinarius perelegans Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

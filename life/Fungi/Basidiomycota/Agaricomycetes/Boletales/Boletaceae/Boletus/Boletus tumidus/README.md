@@ -1,5 +1,4 @@
-Boletus tumidus Fr. SPECIES
-=======
+# Boletus tumidus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vezdaea obscura Döbbeler SPECIES
-=======
+# Vezdaea obscura Döbbeler SPECIES
 
 #### Status
 ACCEPTED

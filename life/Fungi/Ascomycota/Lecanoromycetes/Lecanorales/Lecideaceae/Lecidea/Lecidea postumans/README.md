@@ -1,5 +1,4 @@
-Lecidea postumans Nyl. SPECIES
-=======
+# Lecidea postumans Nyl. SPECIES
 
 #### Status
 ACCEPTED

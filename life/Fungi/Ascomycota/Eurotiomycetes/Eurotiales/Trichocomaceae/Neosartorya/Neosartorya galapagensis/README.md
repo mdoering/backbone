@@ -1,5 +1,4 @@
-Neosartorya galapagensis Frisvad, S.B. Hong & Samson SPECIES
-=======
+# Neosartorya galapagensis Frisvad, S.B. Hong & Samson SPECIES
 
 #### Status
 ACCEPTED

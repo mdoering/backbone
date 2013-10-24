@@ -1,8 +1,7 @@
-Hysterographium gerardi (Cooke & Peck) Sacc. SPECIES
-=======
+# Hysterographium gerardii (Cooke & Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

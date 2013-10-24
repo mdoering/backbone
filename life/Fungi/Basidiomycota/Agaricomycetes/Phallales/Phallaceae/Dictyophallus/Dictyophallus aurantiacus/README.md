@@ -1,5 +1,4 @@
-Dictyophallus aurantiacus Corda SPECIES
-=======
+# Dictyophallus aurantiacus Corda SPECIES
 
 #### Status
 ACCEPTED

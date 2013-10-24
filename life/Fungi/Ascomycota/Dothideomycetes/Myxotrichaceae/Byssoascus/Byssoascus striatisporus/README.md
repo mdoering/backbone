@@ -1,14 +1,13 @@
-Myxotrichum striatosporum (G.L. Barron & C. Booth) Sigler, 1976 SPECIES
-=======
+# Byssoascus striatisporus (G.L. Barron & C. Booth) Arx, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 4(2): 385 (1976)
+Persoonia 6(3): 377 (1971)
 
 #### Original name
 Arachniotus striatosporus G.L. Barron & C. Booth, 1966

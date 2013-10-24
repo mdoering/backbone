@@ -1,5 +1,4 @@
-Rivularia bornetiana Setchell SPECIES
-=======
+# Rivularia bornetiana Setchell SPECIES
 
 #### Status
 ACCEPTED

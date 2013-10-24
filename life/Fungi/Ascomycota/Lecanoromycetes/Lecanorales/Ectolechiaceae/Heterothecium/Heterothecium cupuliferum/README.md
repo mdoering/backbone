@@ -1,5 +1,4 @@
-Heterothecium cupuliferum (Nyl.) A. Massal. SPECIES
-=======
+# Heterothecium cupuliferum (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

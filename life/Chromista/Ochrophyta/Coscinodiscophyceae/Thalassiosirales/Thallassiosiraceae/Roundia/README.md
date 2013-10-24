@@ -1,5 +1,4 @@
-Roundia I.V.Makarova, 1994 GENUS
-=======
+# Roundia I.V.Makarova, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroloculina dentata SPECIES
-=======
+# Spiroloculina dentata SPECIES
 
 #### Status
 ACCEPTED

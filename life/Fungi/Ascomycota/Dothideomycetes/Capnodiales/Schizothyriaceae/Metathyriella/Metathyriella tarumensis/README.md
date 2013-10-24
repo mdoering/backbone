@@ -1,5 +1,4 @@
-Metathyriella tarumensis (Bat., J.L. Bezerra & Cavalc.) Arx & E. Müll. SPECIES
-=======
+# Metathyriella tarumensis (Bat., J.L. Bezerra & Cavalc.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphellostereum D.A. Reid GENUS
-=======
+# Cyphellostereum D.A. Reid GENUS
 
 #### Status
 ACCEPTED

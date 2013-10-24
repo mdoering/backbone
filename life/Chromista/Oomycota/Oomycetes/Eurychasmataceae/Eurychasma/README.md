@@ -1,5 +1,4 @@
-Eurychasma Magnus, 1905 GENUS
-=======
+# Eurychasma Magnus, 1905 GENUS
 
 #### Status
 ACCEPTED

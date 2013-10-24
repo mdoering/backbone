@@ -1,5 +1,4 @@
-Biatorina chalybeia SPECIES
-=======
+# Biatorina chalybeia SPECIES
 
 #### Status
 ACCEPTED

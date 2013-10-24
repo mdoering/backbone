@@ -1,5 +1,4 @@
-Puccinia quitensis Berndt SPECIES
-=======
+# Puccinia quitensis Berndt SPECIES
 
 #### Status
 ACCEPTED

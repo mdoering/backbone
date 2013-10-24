@@ -1,5 +1,4 @@
-Entyloma macrosporum anon. SPECIES
-=======
+# Entyloma macrosporum anon. SPECIES
 
 #### Status
 ACCEPTED

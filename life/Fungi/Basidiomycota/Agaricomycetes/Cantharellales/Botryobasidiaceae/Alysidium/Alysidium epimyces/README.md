@@ -1,5 +1,4 @@
-Alysidium epimyces (Corda) Bonord. SPECIES
-=======
+# Alysidium epimyces (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

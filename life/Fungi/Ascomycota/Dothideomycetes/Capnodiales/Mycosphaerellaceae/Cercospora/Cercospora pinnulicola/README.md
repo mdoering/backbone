@@ -1,5 +1,4 @@
-Cercospora pinnulicola G.F. Atk. SPECIES
-=======
+# Cercospora pinnulicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

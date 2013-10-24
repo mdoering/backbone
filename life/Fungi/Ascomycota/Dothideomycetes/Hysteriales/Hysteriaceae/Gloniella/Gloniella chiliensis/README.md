@@ -1,5 +1,4 @@
-Gloniella chiliensis Speg. SPECIES
-=======
+# Gloniella chiliensis Speg. SPECIES
 
 #### Status
 ACCEPTED

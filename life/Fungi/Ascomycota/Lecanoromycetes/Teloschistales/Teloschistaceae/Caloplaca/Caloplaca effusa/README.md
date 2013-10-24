@@ -1,5 +1,4 @@
-Caloplaca effusa G. Merr. SPECIES
-=======
+# Caloplaca effusa G. Merr. SPECIES
 
 #### Status
 ACCEPTED

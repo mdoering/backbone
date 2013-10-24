@@ -1,14 +1,13 @@
-Odontia sulphurella (Peck) Rick, 1932 SPECIES
-=======
+# Dentocorticium sulphurellum (Peck) M.J. Larsen & Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 17: 277 (1932)
+Norw. Jl Bot. 21(3): 226 (1974)
 
 #### Original name
 Hydnum sulphurellum Peck, 1878

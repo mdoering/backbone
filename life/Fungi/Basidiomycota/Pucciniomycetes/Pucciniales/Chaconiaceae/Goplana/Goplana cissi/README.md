@@ -1,5 +1,4 @@
-Goplana cissi Vienn.-Bourg., 1952 SPECIES
-=======
+# Goplana cissi Vienn.-Bourg., 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis aquifolii (Brunaud) Keissl. SPECIES
-=======
+# Phomopsis aquifolii (Brunaud) Keissl. SPECIES
 
 #### Status
 ACCEPTED

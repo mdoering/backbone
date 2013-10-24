@@ -1,5 +1,4 @@
-Acrotheca solani (Sacc.) Sacc. SPECIES
-=======
+# Acrotheca solani (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

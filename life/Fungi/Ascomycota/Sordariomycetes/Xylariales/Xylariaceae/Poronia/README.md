@@ -1,5 +1,4 @@
-Poronia Willdenow, 1787 GENUS
-=======
+# Poronia Willdenow, 1787 GENUS
 
 #### Status
 ACCEPTED

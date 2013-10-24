@@ -1,5 +1,4 @@
-Palaeocybe Dörfelt & Striebich GENUS
-=======
+# Palaeocybe Dörfelt & Striebich GENUS
 
 #### Status
 ACCEPTED

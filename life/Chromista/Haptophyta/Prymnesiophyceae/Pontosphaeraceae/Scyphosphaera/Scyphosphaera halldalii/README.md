@@ -1,5 +1,4 @@
-Scyphosphaera halldalii Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Scyphosphaera halldalii Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

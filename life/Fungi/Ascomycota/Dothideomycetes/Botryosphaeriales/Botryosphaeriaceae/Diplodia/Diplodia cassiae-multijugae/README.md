@@ -1,5 +1,4 @@
-Diplodia cassiae-multijugae Henn. SPECIES
-=======
+# Diplodia cassiae-multijugae Henn. SPECIES
 
 #### Status
 ACCEPTED

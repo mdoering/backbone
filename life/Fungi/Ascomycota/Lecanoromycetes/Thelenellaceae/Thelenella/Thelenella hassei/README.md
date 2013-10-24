@@ -1,17 +1,16 @@
-Microglaena hassei Zahlbr. SPECIES
-=======
+# Thelenella hassei (Zahlbr.) H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 26: 37 (1987)
 
 #### Original name
-null
+Microglaena hassei Zahlbr.
 
 ### Remarks
 null

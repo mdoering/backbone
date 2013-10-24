@@ -1,5 +1,4 @@
-Dicaeoma gutierreziae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma gutierreziae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

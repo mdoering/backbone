@@ -1,5 +1,4 @@
-Acinetobacter schindleri Nemec et al., 2001 SPECIES
-=======
+# Acinetobacter schindleri Nemec et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

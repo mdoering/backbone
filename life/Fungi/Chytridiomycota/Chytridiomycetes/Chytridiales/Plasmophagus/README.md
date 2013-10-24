@@ -1,5 +1,4 @@
-Plasmophagus De Wild. GENUS
-=======
+# Plasmophagus De Wild. GENUS
 
 #### Status
 ACCEPTED

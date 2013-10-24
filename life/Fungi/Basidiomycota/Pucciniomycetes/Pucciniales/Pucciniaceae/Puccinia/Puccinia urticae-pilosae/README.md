@@ -1,5 +1,4 @@
-Puccinia urticae-pilosae Hasler SPECIES
-=======
+# Puccinia urticae-pilosae Hasler SPECIES
 
 #### Status
 ACCEPTED

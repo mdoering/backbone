@@ -1,5 +1,4 @@
-Allantocystis Keilin, 1920 GENUS
-=======
+# Allantocystis Keilin, 1920 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia lysimachiae P. Karst. SPECIES
-=======
+# Puccinia lysimachiae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Frankiella alni (Woronin) Maire & A. Tison SPECIES
-=======
+# Frankiella alni (Woronin) Maire & A. Tison SPECIES
 
 #### Status
 ACCEPTED

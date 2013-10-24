@@ -1,17 +1,16 @@
-Peronospora hyoscyami f. sp FORM
-=======
+# Peronospora hyoscyami Thüm., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 55(2): 255 (1970)
+null
 
 #### Original name
-Peronospora hyoscyami f. sp
+Peronospora hyoscyami Thüm., 1863
 
 ### Remarks
 null

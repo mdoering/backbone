@@ -1,5 +1,4 @@
-Usnea leprosescens Motyka SPECIES
-=======
+# Usnea leprosescens Motyka SPECIES
 
 #### Status
 ACCEPTED

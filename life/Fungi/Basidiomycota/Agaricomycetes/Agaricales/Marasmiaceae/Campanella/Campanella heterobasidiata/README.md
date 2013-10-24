@@ -1,5 +1,4 @@
-Campanella heterobasidiata R. Valenz., Guzmán & J. Castillo SPECIES
-=======
+# Campanella heterobasidiata R. Valenz., Guzmán & J. Castillo SPECIES
 
 #### Status
 ACCEPTED

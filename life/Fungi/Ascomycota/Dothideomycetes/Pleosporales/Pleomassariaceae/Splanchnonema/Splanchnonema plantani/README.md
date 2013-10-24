@@ -1,5 +1,4 @@
-Splanchnonema plantani SPECIES
-=======
+# Splanchnonema plantani SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora filicum Henn. SPECIES
-=======
+# Cercospora filicum Henn. SPECIES
 
 #### Status
 ACCEPTED

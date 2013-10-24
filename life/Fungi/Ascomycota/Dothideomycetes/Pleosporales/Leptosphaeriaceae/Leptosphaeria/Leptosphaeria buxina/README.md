@@ -1,5 +1,4 @@
-Leptosphaeria buxina Sousa da Câmara SPECIES
-=======
+# Leptosphaeria buxina Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

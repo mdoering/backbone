@@ -1,5 +1,4 @@
-Strasseriopsis B. Sutton & Tak. Kobay. GENUS
-=======
+# Strasseriopsis B. Sutton & Tak. Kobay. GENUS
 
 #### Status
 ACCEPTED

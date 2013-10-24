@@ -1,5 +1,4 @@
-Collodiscus Haeckel, 1887 GENUS
-=======
+# Collodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

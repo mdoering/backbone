@@ -1,17 +1,16 @@
-Verrucaria elaeomelaena f. elaeomelaena FORM
-=======
+# Verrucaria elaeomelaena (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 18: 958 (1868)
 
 #### Original name
-Verrucaria elaeomelaena f. elaeomelaena
+Lithocia elaeomelaena A. Massal.
 
 ### Remarks
 null

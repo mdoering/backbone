@@ -1,5 +1,4 @@
-Arthonia lobulocarpa U. Becker & Lücking SPECIES
-=======
+# Arthonia lobulocarpa U. Becker & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus cookei Sacc. & P. Syd., 1899 SPECIES
-=======
+# Boletus cookei Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalideopsis dominicana Vezda SPECIES
-=======
+# Gyalideopsis dominicana Vezda SPECIES
 
 #### Status
 ACCEPTED

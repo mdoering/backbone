@@ -1,5 +1,4 @@
-Numulariola linearis P.M.D. Martin SPECIES
-=======
+# Numulariola linearis P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

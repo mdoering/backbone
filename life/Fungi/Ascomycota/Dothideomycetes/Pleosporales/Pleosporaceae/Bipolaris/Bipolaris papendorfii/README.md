@@ -1,17 +1,16 @@
-Curvularia siddiqui S.I. Ahmed & M. Qureshi SPECIES
-=======
+# Bipolaris papendorfii (Aa) Alcorn, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 17: 68 (1983)
 
 #### Original name
-Curvularia siddiqui S.I. Ahmed & M. Qureshi
+Curvularia papendorfii Aa, 1967
 
 ### Remarks
 null

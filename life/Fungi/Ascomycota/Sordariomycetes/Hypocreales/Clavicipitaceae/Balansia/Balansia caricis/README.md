@@ -1,5 +1,4 @@
-Balansia caricis Hosag. SPECIES
-=======
+# Balansia caricis Hosag. SPECIES
 
 #### Status
 ACCEPTED

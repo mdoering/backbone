@@ -1,5 +1,4 @@
-Acarospora rugulosa Körb. SPECIES
-=======
+# Acarospora rugulosa Körb. SPECIES
 
 #### Status
 ACCEPTED

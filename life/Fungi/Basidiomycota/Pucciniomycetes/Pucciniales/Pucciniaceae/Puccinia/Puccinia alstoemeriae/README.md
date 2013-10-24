@@ -1,5 +1,4 @@
-Puccinia alstoemeriae P. Syd. & Syd. SPECIES
-=======
+# Puccinia alstoemeriae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

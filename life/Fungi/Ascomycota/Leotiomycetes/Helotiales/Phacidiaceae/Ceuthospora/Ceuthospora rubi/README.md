@@ -1,5 +1,4 @@
-Ceuthospora rubi Bubák ex Petr. SPECIES
-=======
+# Ceuthospora rubi Bubák ex Petr. SPECIES
 
 #### Status
 ACCEPTED

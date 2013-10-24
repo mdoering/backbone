@@ -1,5 +1,4 @@
-Septoria miscanthina Petr. SPECIES
-=======
+# Septoria miscanthina Petr. SPECIES
 
 #### Status
 ACCEPTED

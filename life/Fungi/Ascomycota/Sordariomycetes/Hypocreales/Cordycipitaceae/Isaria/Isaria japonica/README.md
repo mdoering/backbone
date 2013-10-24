@@ -1,5 +1,4 @@
-Isaria japonica Yasuda SPECIES
-=======
+# Isaria japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

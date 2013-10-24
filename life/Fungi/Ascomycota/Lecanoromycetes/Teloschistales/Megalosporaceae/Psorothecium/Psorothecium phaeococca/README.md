@@ -1,5 +1,4 @@
-Psorothecium phaeococca (Tuck.) Hasse SPECIES
-=======
+# Psorothecium phaeococca (Tuck.) Hasse SPECIES
 
 #### Status
 ACCEPTED

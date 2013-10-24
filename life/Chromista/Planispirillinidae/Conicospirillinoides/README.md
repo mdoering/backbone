@@ -1,5 +1,4 @@
-Conicospirillinoides Cheng & Zheng, 1978 GENUS
-=======
+# Conicospirillinoides Cheng & Zheng, 1978 GENUS
 
 #### Status
 ACCEPTED

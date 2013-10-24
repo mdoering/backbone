@@ -1,5 +1,4 @@
-Solenopsora fumulosa SPECIES
-=======
+# Solenopsora fumulosa SPECIES
 
 #### Status
 ACCEPTED

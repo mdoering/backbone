@@ -1,5 +1,4 @@
-Coniothyrium ceibae Petr. & Cif. SPECIES
-=======
+# Coniothyrium ceibae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora aeruginosa Cooke SPECIES
-=======
+# Cercospora aeruginosa Cooke SPECIES
 
 #### Status
 ACCEPTED

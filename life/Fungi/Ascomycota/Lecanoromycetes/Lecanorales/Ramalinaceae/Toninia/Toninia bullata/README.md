@@ -1,17 +1,16 @@
-Siphula muelleri F. Wilson SPECIES
-=======
+# Toninia bullata (Meyen & Flot.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Victorian Nat. 6: 179 (1890)
+Beih. bot. Zbl. 19,2: 76 (1905)
 
 #### Original name
-Siphula muelleri F. Wilson
+Lecidea bullata (Körb.) Th. Fr.
 
 ### Remarks
 null

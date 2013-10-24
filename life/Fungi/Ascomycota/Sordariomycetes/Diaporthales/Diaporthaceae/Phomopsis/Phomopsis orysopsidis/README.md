@@ -1,5 +1,4 @@
-Phomopsis orysopsidis M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Phomopsis orysopsidis M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

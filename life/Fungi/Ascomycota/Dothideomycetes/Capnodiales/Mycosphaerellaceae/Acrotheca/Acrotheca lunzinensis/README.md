@@ -1,17 +1,16 @@
-Acrotheca lunzinense Svilv. SPECIES
-=======
+# Acrotheca lunzinensis Svilv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 103: 182 (1941)
 
 #### Original name
-Acrotheca lunzinense Svilv.
+Acrotheca lunzinensis Svilv.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amazonia scaevolae Hansf. SPECIES
-=======
+# Amazonia scaevolae Hansf. SPECIES
 
 #### Status
 ACCEPTED

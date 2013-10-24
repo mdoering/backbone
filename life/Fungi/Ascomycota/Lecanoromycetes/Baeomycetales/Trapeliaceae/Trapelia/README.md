@@ -1,17 +1,16 @@
-Discocera A.L. Sm. & Ramsb. GENUS
-=======
+# Trapelia M. Choisy GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 6: 48 (1917)
+Bull. Soc. bot. Fr. 76: 523 (1929)
 
 #### Original name
-Discocera A.L. Sm. & Ramsb.
+Trapelia M. Choisy
 
 ### Remarks
 null

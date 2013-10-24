@@ -1,5 +1,4 @@
-Niptera rosea Mont. SPECIES
-=======
+# Niptera rosea Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfacinum hydrothermale Sievert & Kuever, 2000 SPECIES
-=======
+# Desulfacinum hydrothermale Sievert & Kuever, 2000 SPECIES
 
 #### Status
 ACCEPTED

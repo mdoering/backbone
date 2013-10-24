@@ -1,5 +1,4 @@
-Kitasatospora paracochleata (Nakagaito et al., 1993) Zhang et al., 1997 SPECIES
-=======
+# Kitasatospora paracochleata (Nakagaito et al., 1993) Zhang et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

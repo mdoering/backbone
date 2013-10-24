@@ -1,5 +1,4 @@
-Rhodophyllus tridentinus (Bres.) Kühner & Romagn. SPECIES
-=======
+# Rhodophyllus tridentinus (Bres.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gymnodinium luteofaba Javornicky SPECIES
-=======
+# Gymnodinium cnecoides T.M. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Psilocybe pratensis P.D. Orton, 1969 SPECIES
-=======
+# Psilocybe pratensis P.D. Orton, 1969 SPECIES
 
 #### Status
 ACCEPTED

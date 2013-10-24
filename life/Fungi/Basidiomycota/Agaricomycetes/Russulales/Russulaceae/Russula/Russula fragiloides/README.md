@@ -1,5 +1,4 @@
-Russula fragiloides Murrill SPECIES
-=======
+# Russula fragiloides Murrill SPECIES
 
 #### Status
 ACCEPTED

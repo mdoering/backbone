@@ -1,5 +1,4 @@
-Thelidium sorediatum (Servít) SPECIES
-=======
+# Thelidium sorediatum (Servít) SPECIES
 
 #### Status
 ACCEPTED

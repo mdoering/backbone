@@ -1,8 +1,7 @@
-Rhabdolithus xiphos Deflandre & Fert SPECIES
-=======
+# Rhabdosphaera xiphos (Deflandre & Fert) Norris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

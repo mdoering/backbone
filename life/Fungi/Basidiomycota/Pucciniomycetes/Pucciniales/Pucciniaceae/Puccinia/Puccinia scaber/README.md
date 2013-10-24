@@ -1,5 +1,4 @@
-Puccinia scaber (Ellis & Everh.) Barthol. SPECIES
-=======
+# Puccinia scaber (Ellis & Everh.) Barthol. SPECIES
 
 #### Status
 ACCEPTED

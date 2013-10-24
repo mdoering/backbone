@@ -1,5 +1,4 @@
-Pleospora angustata Wehm. SPECIES
-=======
+# Pleospora angustata Wehm. SPECIES
 
 #### Status
 ACCEPTED

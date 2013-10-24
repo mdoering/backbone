@@ -1,5 +1,4 @@
-Clitocybe menthiodora Harmaja SPECIES
-=======
+# Clitocybe menthiodora Harmaja SPECIES
 
 #### Status
 ACCEPTED

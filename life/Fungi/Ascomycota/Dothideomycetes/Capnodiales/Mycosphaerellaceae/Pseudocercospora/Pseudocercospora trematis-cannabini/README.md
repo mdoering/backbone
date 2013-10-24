@@ -1,5 +1,4 @@
-Pseudocercospora trematis-cannabini (J.M. Yen & Lim) Deighton SPECIES
-=======
+# Pseudocercospora trematis-cannabini (J.M. Yen & Lim) Deighton SPECIES
 
 #### Status
 ACCEPTED

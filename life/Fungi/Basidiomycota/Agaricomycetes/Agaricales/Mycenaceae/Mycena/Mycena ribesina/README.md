@@ -1,5 +1,4 @@
-Mycena ribesina Singer SPECIES
-=======
+# Mycena ribesina Singer SPECIES
 
 #### Status
 ACCEPTED

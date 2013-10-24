@@ -1,5 +1,4 @@
-Peziza concentrica Seaver SPECIES
-=======
+# Peziza concentrica Seaver SPECIES
 
 #### Status
 ACCEPTED

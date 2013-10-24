@@ -1,5 +1,4 @@
-Caeoma allochroum Link SPECIES
-=======
+# Caeoma allochroum Link SPECIES
 
 #### Status
 ACCEPTED

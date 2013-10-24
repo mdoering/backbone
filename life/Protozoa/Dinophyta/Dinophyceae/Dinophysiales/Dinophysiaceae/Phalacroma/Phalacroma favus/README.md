@@ -1,5 +1,4 @@
-Phalacroma favus Kofoid & Michener SPECIES
-=======
+# Phalacroma favus Kofoid & Michener SPECIES
 
 #### Status
 ACCEPTED

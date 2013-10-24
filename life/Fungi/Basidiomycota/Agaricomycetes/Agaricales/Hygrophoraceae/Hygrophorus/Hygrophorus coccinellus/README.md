@@ -1,5 +1,4 @@
-Hygrophorus coccinellus (Ehrenb.) Sacc. SPECIES
-=======
+# Hygrophorus coccinellus (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

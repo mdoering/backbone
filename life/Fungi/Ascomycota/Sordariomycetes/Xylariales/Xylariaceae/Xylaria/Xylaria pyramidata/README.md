@@ -1,5 +1,4 @@
-Xylaria pyramidata var. pyramidata VARIETY
-=======
+# Xylaria pyramidata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi of Ceylon no. 1036 (1873)
 
 #### Original name
-Xylaria pyramidata var. pyramidata
+Xylaria pyramidata Berk. & Broome
 
 ### Remarks
 null

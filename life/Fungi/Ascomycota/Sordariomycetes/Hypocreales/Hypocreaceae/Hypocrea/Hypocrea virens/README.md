@@ -1,5 +1,4 @@
-Hypocrea virens P. Chaverri, Samuels & E.L. Stewart, 2001 SPECIES
-=======
+# Hypocrea virens P. Chaverri, Samuels & E.L. Stewart, 2001 SPECIES
 
 #### Status
 ACCEPTED

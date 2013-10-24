@@ -1,5 +1,4 @@
-Tuburcinia bomareae (Dietel & Neger) Liro SPECIES
-=======
+# Tuburcinia bomareae (Dietel & Neger) Liro SPECIES
 
 #### Status
 ACCEPTED

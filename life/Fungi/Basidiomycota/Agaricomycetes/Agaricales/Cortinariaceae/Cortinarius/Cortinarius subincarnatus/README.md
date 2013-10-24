@@ -1,5 +1,4 @@
-Cortinarius subincarnatus Rob. Henry SPECIES
-=======
+# Cortinarius subincarnatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

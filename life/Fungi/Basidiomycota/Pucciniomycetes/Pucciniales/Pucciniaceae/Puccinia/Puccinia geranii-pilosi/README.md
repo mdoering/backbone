@@ -1,5 +1,4 @@
-Puccinia geranii-pilosi McAlpine, 1906 SPECIES
-=======
+# Puccinia geranii-pilosi McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

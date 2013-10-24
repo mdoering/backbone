@@ -1,5 +1,4 @@
-Mycofalcella calcarata Marvanová, Om-Kalth. & J. Webster, 1993 SPECIES
-=======
+# Mycofalcella calcarata Marvanová, Om-Kalth. & J. Webster, 1993 SPECIES
 
 #### Status
 ACCEPTED

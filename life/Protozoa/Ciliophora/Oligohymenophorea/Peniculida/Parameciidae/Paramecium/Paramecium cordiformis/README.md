@@ -1,5 +1,4 @@
-Paramecium cordiformis Dumas, 1929 SPECIES
-=======
+# Paramecium cordiformis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronocyclus nitescens (Kamptner, 1963) Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Coronocyclus nitescens (Kamptner, 1963) Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

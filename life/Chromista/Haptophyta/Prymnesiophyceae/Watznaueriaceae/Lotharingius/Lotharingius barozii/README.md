@@ -1,5 +1,4 @@
-Lotharingius barozii Noël, 1973 SPECIES
-=======
+# Lotharingius barozii Noël, 1973 SPECIES
 
 #### Status
 ACCEPTED

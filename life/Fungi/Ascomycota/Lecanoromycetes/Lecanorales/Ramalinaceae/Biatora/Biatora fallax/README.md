@@ -1,5 +1,4 @@
-Biatora fallax Hepp SPECIES
-=======
+# Biatora fallax Hepp SPECIES
 
 #### Status
 ACCEPTED

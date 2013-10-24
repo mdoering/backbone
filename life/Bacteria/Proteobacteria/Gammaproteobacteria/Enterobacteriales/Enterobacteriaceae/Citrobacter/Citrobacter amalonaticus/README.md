@@ -1,8 +1,7 @@
-Levinea amalonatica Young et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Citrobacter amalonaticus (Young et al., 1971) Brenner & Farmer, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

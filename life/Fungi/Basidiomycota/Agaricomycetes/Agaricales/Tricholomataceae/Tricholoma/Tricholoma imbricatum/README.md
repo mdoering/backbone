@@ -1,17 +1,16 @@
-Cortinellus imbricatus var. imbricatus VARIETY
-=======
+# Tricholoma imbricatum (Fr.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Metrodiana 1(1): 4 (1970)
+Führ. Pilzk. (Zwickau) 133 (1871)
 
 #### Original name
-Cortinellus imbricatus var. imbricatus
+Agaricus imbricatus Fr., 1815
 
 ### Remarks
 null

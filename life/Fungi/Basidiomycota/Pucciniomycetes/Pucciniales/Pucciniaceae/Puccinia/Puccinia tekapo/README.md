@@ -1,5 +1,4 @@
-Puccinia tekapo McNabb, 1962 SPECIES
-=======
+# Puccinia tekapo McNabb, 1962 SPECIES
 
 #### Status
 ACCEPTED

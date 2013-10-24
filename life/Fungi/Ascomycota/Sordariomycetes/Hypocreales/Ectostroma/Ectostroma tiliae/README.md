@@ -1,5 +1,4 @@
-Ectostroma tiliae Fr. SPECIES
-=======
+# Ectostroma tiliae Fr. SPECIES
 
 #### Status
 ACCEPTED

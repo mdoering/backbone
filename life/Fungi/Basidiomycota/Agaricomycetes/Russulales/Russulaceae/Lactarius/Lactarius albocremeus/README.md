@@ -1,5 +1,4 @@
-Lactarius albocremeus Z. Schaef. SPECIES
-=======
+# Lactarius albocremeus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

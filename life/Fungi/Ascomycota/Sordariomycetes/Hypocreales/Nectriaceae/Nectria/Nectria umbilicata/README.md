@@ -1,5 +1,4 @@
-Nectria umbilicata Henn. SPECIES
-=======
+# Nectria umbilicata Henn. SPECIES
 
 #### Status
 ACCEPTED

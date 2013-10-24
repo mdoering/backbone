@@ -1,17 +1,16 @@
-Aspergillus parasiticus var. parasiticus VARIETY
-=======
+# Aspergillus parasiticus Speare, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Aspergillus parasiticus var. parasiticus
+Aspergillus parasiticus Speare, 1912
 
 ### Remarks
 null

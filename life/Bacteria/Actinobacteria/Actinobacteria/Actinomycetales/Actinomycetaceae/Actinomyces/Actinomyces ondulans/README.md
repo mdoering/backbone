@@ -1,5 +1,4 @@
-Actinomyces ondulans Sartory SPECIES
-=======
+# Actinomyces ondulans Sartory SPECIES
 
 #### Status
 ACCEPTED

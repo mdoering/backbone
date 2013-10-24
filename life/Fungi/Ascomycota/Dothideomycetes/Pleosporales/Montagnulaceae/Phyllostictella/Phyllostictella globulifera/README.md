@@ -1,5 +1,4 @@
-Phyllostictella globulifera (Rabenh.) Tassi SPECIES
-=======
+# Phyllostictella globulifera (Rabenh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Apiothecium Lar.N. Vassiljeva GENUS
-=======
+# Apioporthella Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pirenomits. Lokuloaskomits. Severa Dal'nego Vostoka (Leningrad) 182 (1987)
+Annls mycol. 27(5/6): 401 (1929)
 
 #### Original name
-Apiothecium Lar.N. Vassiljeva
+Apioporthella Petr.
 
 ### Remarks
 null

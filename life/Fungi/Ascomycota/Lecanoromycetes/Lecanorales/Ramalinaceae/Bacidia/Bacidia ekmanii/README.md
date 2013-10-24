@@ -1,5 +1,4 @@
-Bacidia ekmanii Vezda SPECIES
-=======
+# Bacidia ekmanii Vezda SPECIES
 
 #### Status
 ACCEPTED

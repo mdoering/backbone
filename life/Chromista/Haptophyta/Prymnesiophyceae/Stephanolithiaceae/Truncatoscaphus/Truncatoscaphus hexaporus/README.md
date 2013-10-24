@@ -1,5 +1,4 @@
-Truncatoscaphus hexaporus Moshkovitz & Ehrlich, 1976 SPECIES
-=======
+# Truncatoscaphus hexaporus Moshkovitz & Ehrlich, 1976 SPECIES
 
 #### Status
 ACCEPTED

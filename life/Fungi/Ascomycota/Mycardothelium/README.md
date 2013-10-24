@@ -1,5 +1,4 @@
-Mycardothelium Vainio, 1928 GENUS
-=======
+# Mycardothelium Vainio, 1928 GENUS
 
 #### Status
 ACCEPTED

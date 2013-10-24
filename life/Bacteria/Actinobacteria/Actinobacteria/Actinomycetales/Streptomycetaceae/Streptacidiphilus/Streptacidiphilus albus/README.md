@@ -1,5 +1,4 @@
-Streptacidiphilus albus Kim et al., 2003 SPECIES
-=======
+# Streptacidiphilus albus Kim et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

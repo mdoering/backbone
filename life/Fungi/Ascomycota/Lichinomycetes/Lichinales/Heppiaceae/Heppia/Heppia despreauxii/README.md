@@ -1,14 +1,13 @@
-Solorinaria despreauxii (Mont.) Fink SPECIES
-=======
+# Heppia despreauxii (Mont.) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 46 (1872)
 
 #### Original name
 Solorina despreauxii Mont.

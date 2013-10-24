@@ -1,5 +1,4 @@
-Bacchidinium sarmentum R. J. Davey SPECIES
-=======
+# Bacchidinium sarmentum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

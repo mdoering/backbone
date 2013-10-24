@@ -1,5 +1,4 @@
-Tyromyces subfragilis Corner SPECIES
-=======
+# Tyromyces subfragilis Corner SPECIES
 
 #### Status
 ACCEPTED

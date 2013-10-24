@@ -1,5 +1,4 @@
-Padina australis Hauck SPECIES
-=======
+# Padina australis Hauck SPECIES
 
 #### Status
 ACCEPTED

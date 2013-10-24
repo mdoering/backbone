@@ -1,17 +1,16 @@
-Parmelia prolixa f. isidiascens (Nyl. ex Cromb.) Cromb. FORM
-=======
+# Xanthoparmelia loxodes (Nyl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Taxon 53(4): 968 (2004)
 
 #### Original name
-Parmelia prolixa var. isidiascens Nyl. ex Cromb.
+Parmelia loxodes
 
 ### Remarks
 null

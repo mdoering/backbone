@@ -1,14 +1,13 @@
-Cystopus occidentalis (G.W. Wilson) Sacc. & Trotter, 1912 SPECIES
-=======
+# Albugo occidentalis G.W. Wilson, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 859 (1912)
+Bull. Torrey bot. Club 34: 80 (1907)
 
 #### Original name
 Albugo occidentalis G.W. Wilson, 1907

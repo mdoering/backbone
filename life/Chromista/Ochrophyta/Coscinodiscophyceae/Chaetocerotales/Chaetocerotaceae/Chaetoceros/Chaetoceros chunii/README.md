@@ -1,5 +1,4 @@
-Chaetoceros chunii Karsten, 1905 SPECIES
-=======
+# Chaetoceros chunii Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

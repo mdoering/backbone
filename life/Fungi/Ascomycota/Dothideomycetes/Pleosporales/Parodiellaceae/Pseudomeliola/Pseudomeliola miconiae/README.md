@@ -1,5 +1,4 @@
-Pseudomeliola miconiae Gonz. Frag. & Cif. SPECIES
-=======
+# Pseudomeliola miconiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

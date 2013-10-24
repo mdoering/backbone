@@ -1,5 +1,4 @@
-Phoma filaginis Westend. SPECIES
-=======
+# Phoma filaginis Westend. SPECIES
 
 #### Status
 ACCEPTED

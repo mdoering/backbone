@@ -1,5 +1,4 @@
-Dictyota okamurae (E.Y. Dawson) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
-=======
+# Dictyota okamurae (E.Y. Dawson) I. Hörnig, R. Schnetter & W.F. Prud'homme van Reine SPECIES
 
 #### Status
 ACCEPTED

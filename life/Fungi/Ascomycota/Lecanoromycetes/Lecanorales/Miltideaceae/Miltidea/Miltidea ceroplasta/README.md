@@ -1,14 +1,13 @@
-Biatora ceroplasta C. Bab. SPECIES
-=======
+# Miltidea ceroplasta (C. Bab.) D. J. Galloway & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Fl. nov. -zel. 300 (1855)
+in Hafellner, Beih. Nova Hedwigia 79: 308 (1984)
 
 #### Original name
 Biatora ceroplasta C. Bab.

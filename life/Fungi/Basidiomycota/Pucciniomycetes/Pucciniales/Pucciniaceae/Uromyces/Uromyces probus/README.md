@@ -1,5 +1,4 @@
-Uromyces probus Arthur SPECIES
-=======
+# Uromyces probus Arthur SPECIES
 
 #### Status
 ACCEPTED

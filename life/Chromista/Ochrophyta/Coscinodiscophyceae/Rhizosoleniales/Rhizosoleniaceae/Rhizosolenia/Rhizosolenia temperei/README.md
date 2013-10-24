@@ -1,5 +1,4 @@
-Rhizosolenia temperei H. Peragallo, 1888 SPECIES
-=======
+# Rhizosolenia temperei H. Peragallo, 1888 SPECIES
 
 #### Status
 ACCEPTED

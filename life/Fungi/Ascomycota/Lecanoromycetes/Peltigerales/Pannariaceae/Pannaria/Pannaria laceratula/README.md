@@ -1,5 +1,4 @@
-Pannaria laceratula Hue SPECIES
-=======
+# Pannaria laceratula Hue SPECIES
 
 #### Status
 ACCEPTED

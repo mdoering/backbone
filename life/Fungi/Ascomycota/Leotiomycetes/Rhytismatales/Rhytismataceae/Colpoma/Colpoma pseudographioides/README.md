@@ -1,5 +1,4 @@
-Colpoma pseudographioides Romell SPECIES
-=======
+# Colpoma pseudographioides Romell SPECIES
 
 #### Status
 ACCEPTED

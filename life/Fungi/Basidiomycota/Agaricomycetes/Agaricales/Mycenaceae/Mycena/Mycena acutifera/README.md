@@ -1,5 +1,4 @@
-Mycena acutifera Métrod SPECIES
-=======
+# Mycena acutifera Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia hypostictica T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia hypostictica T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

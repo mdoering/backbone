@@ -1,5 +1,4 @@
-Conidiobolus lichenicola Sriniv. & Thirum., 1968 SPECIES
-=======
+# Conidiobolus lichenicola Sriniv. & Thirum., 1968 SPECIES
 
 #### Status
 ACCEPTED

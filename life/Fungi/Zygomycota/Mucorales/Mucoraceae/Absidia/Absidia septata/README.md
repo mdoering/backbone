@@ -1,5 +1,4 @@
-Absidia septata Tiegh. SPECIES
-=======
+# Absidia septata Tiegh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena baccatipes Métrod SPECIES
-=======
+# Mycena baccatipes Métrod SPECIES
 
 #### Status
 ACCEPTED

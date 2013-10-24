@@ -1,5 +1,4 @@
-Aegeritospira ined. GENUS
-=======
+# Aegeritospira ined. GENUS
 
 #### Status
 ACCEPTED

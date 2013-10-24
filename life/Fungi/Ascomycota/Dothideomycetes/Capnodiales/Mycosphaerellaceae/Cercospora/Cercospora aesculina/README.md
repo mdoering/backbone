@@ -1,5 +1,4 @@
-Cercospora aesculina Ellis & Kellerm. SPECIES
-=======
+# Cercospora aesculina Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

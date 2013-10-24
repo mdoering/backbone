@@ -1,14 +1,13 @@
-Pseudohelotium bullii (W.G. Sm.) Sacc., 1889 SPECIES
-=======
+# Dasyscyphus bullii (W.G. Sm. ex Berk. & Broome) Massee, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 292 (1889)
+null
 
 #### Original name
 null

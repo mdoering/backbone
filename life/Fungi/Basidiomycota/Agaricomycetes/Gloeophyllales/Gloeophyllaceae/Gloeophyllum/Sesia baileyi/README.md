@@ -1,5 +1,4 @@
-Sesia baileyi (Berk. & Broome) Kuntze SPECIES
-=======
+# Sesia baileyi (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

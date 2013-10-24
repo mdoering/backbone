@@ -1,5 +1,4 @@
-Lecidea indisimilis Nyl. SPECIES
-=======
+# Lecidea indisimilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

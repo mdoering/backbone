@@ -1,8 +1,7 @@
-Trimosina simplex Cushman, 1929 SPECIES
-=======
+# Fijiella simplex (Cushman, 1929) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

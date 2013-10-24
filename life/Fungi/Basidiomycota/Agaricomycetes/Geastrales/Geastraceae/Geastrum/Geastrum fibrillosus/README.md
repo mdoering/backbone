@@ -1,8 +1,7 @@
-Geaster fibrillosus Schwein. SPECIES
-=======
+# Geastrum fibrillosus Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster fibrillosus Schwein.
+Geastrum fibrillosus Schwein.
 
 ### Remarks
 null

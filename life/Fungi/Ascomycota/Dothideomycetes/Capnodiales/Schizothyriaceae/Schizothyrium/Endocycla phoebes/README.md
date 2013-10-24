@@ -1,5 +1,4 @@
-Endocycla phoebes Syd. SPECIES
-=======
+# Endocycla phoebes Syd. SPECIES
 
 #### Status
 ACCEPTED

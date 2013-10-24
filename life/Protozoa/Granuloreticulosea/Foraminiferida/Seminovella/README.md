@@ -1,5 +1,4 @@
-Seminovella GENUS
-=======
+# Seminovella GENUS
 
 #### Status
 ACCEPTED

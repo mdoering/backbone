@@ -1,5 +1,4 @@
-Lembosia rolliniae Rehm SPECIES
-=======
+# Lembosia rolliniae Rehm SPECIES
 
 #### Status
 ACCEPTED

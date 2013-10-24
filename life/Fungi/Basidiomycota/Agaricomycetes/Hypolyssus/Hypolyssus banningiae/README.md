@@ -1,5 +1,4 @@
-Hypolyssus banningiae (Peck) Kuntze SPECIES
-=======
+# Hypolyssus banningiae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

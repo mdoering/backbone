@@ -1,5 +1,4 @@
-Phyllachora lunulata Chardón, 1934 SPECIES
-=======
+# Phyllachora lunulata Chardón, 1934 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Meliola uvariae Rehm SPECIES
-=======
+# Meliola uvariae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe eutheloides Peck SPECIES
-=======
+# Inocybe eutheloides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas longicollis Wermel SPECIES
-=======
+# Trachelomonas longicollis Wermel SPECIES
 
 #### Status
 ACCEPTED

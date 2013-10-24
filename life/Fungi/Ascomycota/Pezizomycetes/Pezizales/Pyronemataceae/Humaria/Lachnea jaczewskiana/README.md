@@ -1,5 +1,4 @@
-Lachnea jaczewskiana Henn. SPECIES
-=======
+# Lachnea jaczewskiana Henn. SPECIES
 
 #### Status
 ACCEPTED

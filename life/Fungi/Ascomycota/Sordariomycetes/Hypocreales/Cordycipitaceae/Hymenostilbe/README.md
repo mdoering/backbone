@@ -1,5 +1,4 @@
-Hymenostilbe Petch, 1931 GENUS
-=======
+# Hymenostilbe Petch, 1931 GENUS
 
 #### Status
 ACCEPTED

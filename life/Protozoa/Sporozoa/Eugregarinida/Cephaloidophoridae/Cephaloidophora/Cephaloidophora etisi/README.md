@@ -1,8 +1,7 @@
-Carcinoecetes etisi Ball, 1959 SPECIES
-=======
+# Cephaloidophora etisi (Ball, 1959) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

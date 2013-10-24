@@ -1,5 +1,4 @@
-Macrosporium melanosporum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
-=======
+# Macrosporium melanosporum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

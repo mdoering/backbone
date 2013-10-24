@@ -1,5 +1,4 @@
-Torula splendens Cooke SPECIES
-=======
+# Torula splendens Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe pulchra (Clem.) Kühner SPECIES
-=======
+# Conocybe pulchra (Clem.) Kühner SPECIES
 
 #### Status
 ACCEPTED

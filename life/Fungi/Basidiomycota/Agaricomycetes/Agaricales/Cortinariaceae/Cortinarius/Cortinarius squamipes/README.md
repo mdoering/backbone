@@ -1,5 +1,4 @@
-Cortinarius squamipes E. Horak SPECIES
-=======
+# Cortinarius squamipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

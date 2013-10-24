@@ -1,5 +1,4 @@
-Pseudocercospora kolanensis S.K. Singh & Bhalla SPECIES
-=======
+# Pseudocercospora kolanensis S.K. Singh & Bhalla SPECIES
 
 #### Status
 ACCEPTED

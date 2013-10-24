@@ -1,14 +1,13 @@
-Acanthophysium fennicum (Laurila) Parmasto SPECIES
-=======
+# Chaenothecopsis fennica (Laurila) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 378 (1967)
+Publications from the Herbarium, University of Uppsala, Sweden 1: 6 (1978)
 
 #### Original name
 Aleurodiscus fennicus Laurila

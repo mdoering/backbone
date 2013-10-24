@@ -1,5 +1,4 @@
-Lophidium psilogrammum (Durieu & Mont.) Sacc. SPECIES
-=======
+# Lophidium psilogrammum (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

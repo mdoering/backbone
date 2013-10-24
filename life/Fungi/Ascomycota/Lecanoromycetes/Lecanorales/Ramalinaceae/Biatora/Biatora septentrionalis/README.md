@@ -1,5 +1,4 @@
-Biatora septentrionalis (Th. Fr.) Hellb. SPECIES
-=======
+# Biatora septentrionalis (Th. Fr.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

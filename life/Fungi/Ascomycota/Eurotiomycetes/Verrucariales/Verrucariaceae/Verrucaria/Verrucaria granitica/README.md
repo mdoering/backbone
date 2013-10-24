@@ -1,5 +1,4 @@
-Verrucaria granitica Servít SPECIES
-=======
+# Verrucaria granitica Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera umbonata Velen. SPECIES
-=======
+# Galera umbonata Velen. SPECIES
 
 #### Status
 ACCEPTED

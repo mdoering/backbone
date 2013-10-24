@@ -1,5 +1,4 @@
-Galera hibariana Mont. SPECIES
-=======
+# Galera hibariana Mont. SPECIES
 
 #### Status
 ACCEPTED

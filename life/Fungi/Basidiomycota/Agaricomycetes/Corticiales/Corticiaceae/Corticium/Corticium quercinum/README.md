@@ -1,5 +1,4 @@
-Corticium quercinum SPECIES
-=======
+# Corticium quercinum SPECIES
 
 #### Status
 ACCEPTED

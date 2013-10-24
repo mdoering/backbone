@@ -1,5 +1,4 @@
-Marasmius oaxacanus Singer SPECIES
-=======
+# Marasmius oaxacanus Singer SPECIES
 
 #### Status
 ACCEPTED

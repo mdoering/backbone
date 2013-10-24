@@ -1,5 +1,4 @@
-Helicosporium albocarneum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Helicosporium albocarneum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

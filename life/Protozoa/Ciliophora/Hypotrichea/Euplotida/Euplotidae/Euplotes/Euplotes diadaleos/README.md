@@ -1,5 +1,4 @@
-Euplotes diadaleos Diller & Kounaris, 1966 SPECIES
-=======
+# Euplotes diadaleos Diller & Kounaris, 1966 SPECIES
 
 #### Status
 ACCEPTED

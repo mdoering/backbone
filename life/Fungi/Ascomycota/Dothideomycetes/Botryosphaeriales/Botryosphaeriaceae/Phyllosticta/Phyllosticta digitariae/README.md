@@ -1,5 +1,4 @@
-Phyllosticta digitariae R. Sprague SPECIES
-=======
+# Phyllosticta digitariae R. Sprague SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium appendiculatum Earle SPECIES
-=======
+# Dimerosporium appendiculatum Earle SPECIES
 
 #### Status
 ACCEPTED

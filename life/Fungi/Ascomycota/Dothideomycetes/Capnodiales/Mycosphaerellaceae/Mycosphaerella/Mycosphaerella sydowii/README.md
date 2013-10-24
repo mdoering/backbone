@@ -1,5 +1,4 @@
-Mycosphaerella sydowii Tomilin SPECIES
-=======
+# Mycosphaerella sydowii Tomilin SPECIES
 
 #### Status
 ACCEPTED

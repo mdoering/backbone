@@ -1,17 +1,16 @@
-Sphaeria prunastri var. prunastri VARIETY
-=======
+# Eutypella prunastri (Pers.) Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) (1801)
+Syll. fung. (Abellini) 1: 142 (1882)
 
 #### Original name
-Sphaeria prunastri var. prunastri
+Sphaeria prunastri Pers., 1801
 
 ### Remarks
 null

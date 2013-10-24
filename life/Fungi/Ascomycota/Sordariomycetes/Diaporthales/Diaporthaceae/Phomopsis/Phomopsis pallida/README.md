@@ -1,14 +1,13 @@
-Libertella pallida Fuckel, 1870 SPECIES
-=======
+# Phomopsis pallida (Fuckel) Sacc. & D. Sacc., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 398 (1870)
+Syll. fung. (Abellini) 18: 264 (1906)
 
 #### Original name
 Libertella pallida Fuckel, 1870

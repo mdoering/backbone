@@ -1,5 +1,4 @@
-Xylomites drymejae Ettingsh. SPECIES
-=======
+# Xylomites drymejae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

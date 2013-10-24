@@ -1,5 +1,4 @@
-Desulfovibrionaceae FAMILY
-=======
+# Desulfovibrionaceae FAMILY
 
 #### Status
 ACCEPTED

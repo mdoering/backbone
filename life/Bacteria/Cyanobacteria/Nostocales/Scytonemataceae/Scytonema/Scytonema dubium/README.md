@@ -1,5 +1,4 @@
-Scytonema dubium De Wildeman SPECIES
-=======
+# Scytonema dubium De Wildeman SPECIES
 
 #### Status
 ACCEPTED

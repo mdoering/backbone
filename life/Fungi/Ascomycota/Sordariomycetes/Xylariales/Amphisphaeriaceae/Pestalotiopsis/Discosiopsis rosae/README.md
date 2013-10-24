@@ -1,5 +1,4 @@
-Discosiopsis rosae Edward, Kr.P. Singh, S.C. Tripathi, M.K. Singh SPECIES
-=======
+# Discosiopsis rosae Edward, Kr.P. Singh, S.C. Tripathi, M.K. Singh SPECIES
 
 #### Status
 ACCEPTED

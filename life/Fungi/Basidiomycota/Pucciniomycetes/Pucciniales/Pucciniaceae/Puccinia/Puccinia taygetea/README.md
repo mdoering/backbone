@@ -1,5 +1,4 @@
-Puccinia taygetea Maire SPECIES
-=======
+# Puccinia taygetea Maire SPECIES
 
 #### Status
 ACCEPTED

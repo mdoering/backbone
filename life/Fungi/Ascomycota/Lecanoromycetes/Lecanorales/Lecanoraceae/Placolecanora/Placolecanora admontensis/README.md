@@ -1,5 +1,4 @@
-Placolecanora admontensis (Zahlbr.) Kopach. SPECIES
-=======
+# Placolecanora admontensis (Zahlbr.) Kopach. SPECIES
 
 #### Status
 ACCEPTED

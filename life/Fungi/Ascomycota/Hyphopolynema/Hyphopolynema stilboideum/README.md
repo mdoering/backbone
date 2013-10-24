@@ -1,5 +1,4 @@
-Hyphopolynema stilboideum Bhat & W.B. Kendr. SPECIES
-=======
+# Hyphopolynema stilboideum Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

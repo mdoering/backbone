@@ -1,17 +1,16 @@
-Flaviporellus Murrill GENUS
-=======
+# Inonotus P. Karsten, 1879 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Torrey bot. Club 32(9): 485 (1905)
+null
 
 #### Original name
-Flaviporellus Murrill
+null
 
 ### Remarks
 null

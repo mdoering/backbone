@@ -1,5 +1,4 @@
-Hemicyphe stricta Preuss SPECIES
-=======
+# Hemicyphe stricta Preuss SPECIES
 
 #### Status
 ACCEPTED

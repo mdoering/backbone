@@ -1,5 +1,4 @@
-Trichosperma triramiferum Matsushima SPECIES
-=======
+# Trichosperma triramiferum Matsushima SPECIES
 
 #### Status
 ACCEPTED

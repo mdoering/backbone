@@ -1,5 +1,4 @@
-Tuber renati H. Bonnet SPECIES
-=======
+# Tuber renati H. Bonnet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium valsoideum (Sacc.) Allesch. SPECIES
-=======
+# Myxosporium valsoideum (Sacc.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

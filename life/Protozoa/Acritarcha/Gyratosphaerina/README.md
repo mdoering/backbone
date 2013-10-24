@@ -1,5 +1,4 @@
-Gyratosphaerina A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
-=======
+# Gyratosphaerina A.S. Lopuchin in M.I. Neustadt, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Botryosporium longibrachiatum var. longibrachiatum VARIETY
-=======
+# Botryosporium longibrachiatum (Oudem.) Maire, 1903 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 1: 341 (1903)
 
 #### Original name
-Botryosporium longibrachiatum var. longibrachiatum
+Botrytis longibrachiata Oudem., 1890
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Conradiella Pascher, 1925 GENUS
-=======
+# Conradiella Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

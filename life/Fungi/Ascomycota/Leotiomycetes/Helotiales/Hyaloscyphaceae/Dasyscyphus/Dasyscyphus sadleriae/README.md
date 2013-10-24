@@ -1,8 +1,7 @@
-Dasyscypha sadleriae F. Stevens & P.A. Young SPECIES
-=======
+# Dasyscyphus sadleriae F. Stevens & P.A. Young SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha sadleriae F. Stevens & P.A. Young
+Dasyscyphus sadleriae F. Stevens & P.A. Young
 
 ### Remarks
 null

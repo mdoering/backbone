@@ -1,5 +1,4 @@
-Scythiloculina Neagu, 1984 GENUS
-=======
+# Scythiloculina Neagu, 1984 GENUS
 
 #### Status
 ACCEPTED

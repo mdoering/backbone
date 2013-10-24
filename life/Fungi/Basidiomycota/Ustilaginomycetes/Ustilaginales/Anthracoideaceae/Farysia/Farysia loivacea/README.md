@@ -1,5 +1,4 @@
-Farysia loivacea (D.C) Syd. SPECIES
-=======
+# Farysia loivacea (D.C) Syd. SPECIES
 
 #### Status
 ACCEPTED

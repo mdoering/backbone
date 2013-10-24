@@ -1,5 +1,4 @@
-Stereum crucibuliforme Massee SPECIES
-=======
+# Stereum crucibuliforme Massee SPECIES
 
 #### Status
 ACCEPTED

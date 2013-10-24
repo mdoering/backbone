@@ -1,17 +1,16 @@
-Puccinia albulensis subsp. albulensis SUBSPECIES
-=======
+# Puccinia albulensis Magnus, 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ber. dt. bot. Ges. 8: 169 (1890)
 
 #### Original name
-Puccinia albulensis subsp. albulensis
+Puccinia albulensis Magnus, 1890
 
 ### Remarks
 null

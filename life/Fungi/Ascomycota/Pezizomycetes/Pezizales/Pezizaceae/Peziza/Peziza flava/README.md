@@ -1,5 +1,4 @@
-Peziza flava Schumach. SPECIES
-=======
+# Peziza flava Schumach. SPECIES
 
 #### Status
 ACCEPTED

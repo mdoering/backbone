@@ -1,5 +1,4 @@
-Azospirillum Tarrand, Krieg & Dobereiner, 1979 GENUS
-=======
+# Azospirillum Tarrand, Krieg & Dobereiner, 1979 GENUS
 
 #### Status
 ACCEPTED

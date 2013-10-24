@@ -1,5 +1,4 @@
-Liebermannia dichroplusae (Lange) Y.Y. Sokolova, C.E. Lange & J.R. Fuxa SPECIES
-=======
+# Liebermannia dichroplusae (Lange) Y.Y. Sokolova, C.E. Lange & J.R. Fuxa SPECIES
 
 #### Status
 ACCEPTED

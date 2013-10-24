@@ -1,5 +1,4 @@
-Buellia albosparsa var. albosparsa VARIETY
-=======
+# Buellia albosparsa (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 144 (1971)
 
 #### Original name
-Buellia albosparsa var. albosparsa
+Lecidea stellulata f. albosparsa Stizenb.
 
 ### Remarks
 null

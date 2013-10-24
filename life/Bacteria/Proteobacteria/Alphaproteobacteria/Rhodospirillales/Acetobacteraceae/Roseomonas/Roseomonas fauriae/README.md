@@ -1,5 +1,4 @@
-Roseomonas fauriae Rihs et al., 1998 SPECIES
-=======
+# Roseomonas fauriae Rihs et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

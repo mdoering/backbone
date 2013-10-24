@@ -1,5 +1,4 @@
-Crinitospora B. Sutton & Alcorn GENUS
-=======
+# Crinitospora B. Sutton & Alcorn GENUS
 
 #### Status
 ACCEPTED

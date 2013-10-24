@@ -1,5 +1,4 @@
-Galerula kellermani (Peck) Murrill SPECIES
-=======
+# Galerula kellermani (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

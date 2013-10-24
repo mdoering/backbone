@@ -1,5 +1,4 @@
-Pilocarpon glabrum Vain. SPECIES
-=======
+# Pilocarpon glabrum Vain. SPECIES
 
 #### Status
 ACCEPTED

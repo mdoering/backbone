@@ -1,5 +1,4 @@
-Vararia protrusa G. Cunn., 1955 SPECIES
-=======
+# Vararia protrusa G. Cunn., 1955 SPECIES
 
 #### Status
 ACCEPTED

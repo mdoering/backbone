@@ -1,5 +1,4 @@
-Tubercularia pruinosa Fautrey & Lambotte SPECIES
-=======
+# Tubercularia pruinosa Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

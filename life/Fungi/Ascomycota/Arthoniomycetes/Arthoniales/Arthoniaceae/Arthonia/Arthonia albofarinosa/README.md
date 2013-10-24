@@ -1,5 +1,4 @@
-Arthonia albofarinosa Stirt. SPECIES
-=======
+# Arthonia albofarinosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

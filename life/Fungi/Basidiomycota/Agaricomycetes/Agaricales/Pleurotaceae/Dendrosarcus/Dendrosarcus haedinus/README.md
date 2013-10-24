@@ -1,5 +1,4 @@
-Dendrosarcus haedinus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus haedinus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

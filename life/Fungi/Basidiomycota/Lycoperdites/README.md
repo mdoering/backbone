@@ -1,5 +1,4 @@
-Lycoperdites Poinar GENUS
-=======
+# Lycoperdites Poinar GENUS
 
 #### Status
 ACCEPTED

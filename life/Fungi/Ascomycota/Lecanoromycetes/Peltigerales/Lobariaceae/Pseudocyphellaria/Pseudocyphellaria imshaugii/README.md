@@ -1,5 +1,4 @@
-Pseudocyphellaria imshaugii D.J. Galloway & Redón SPECIES
-=======
+# Pseudocyphellaria imshaugii D.J. Galloway & Redón SPECIES
 
 #### Status
 ACCEPTED

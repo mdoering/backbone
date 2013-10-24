@@ -1,5 +1,4 @@
-Cytospora elaeina Mont. SPECIES
-=======
+# Cytospora elaeina Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora megaspermae L.N. Bhardwaj & R.C. Sharma SPECIES
-=======
+# Cercospora megaspermae L.N. Bhardwaj & R.C. Sharma SPECIES
 
 #### Status
 ACCEPTED

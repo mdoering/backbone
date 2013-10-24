@@ -1,5 +1,4 @@
-Eutypa sheariana Berl. SPECIES
-=======
+# Eutypa sheariana Berl. SPECIES
 
 #### Status
 ACCEPTED

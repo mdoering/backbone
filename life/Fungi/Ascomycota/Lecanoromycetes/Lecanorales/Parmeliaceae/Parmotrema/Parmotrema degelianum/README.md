@@ -1,5 +1,4 @@
-Parmotrema degelianum Krog & Swinscow SPECIES
-=======
+# Parmotrema degelianum Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

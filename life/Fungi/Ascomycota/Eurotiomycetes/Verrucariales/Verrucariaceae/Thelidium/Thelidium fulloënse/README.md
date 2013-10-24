@@ -1,5 +1,4 @@
-Thelidium fulloënse Servít SPECIES
-=======
+# Thelidium fulloënse Servít SPECIES
 
 #### Status
 ACCEPTED

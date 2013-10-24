@@ -1,5 +1,4 @@
-Meliola caesalpiniae (Hansf. & Deighton) Hansf. & Deighton SPECIES
-=======
+# Meliola caesalpiniae (Hansf. & Deighton) Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

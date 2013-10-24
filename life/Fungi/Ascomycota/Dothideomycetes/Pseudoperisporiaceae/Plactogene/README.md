@@ -1,5 +1,4 @@
-Plactogene GENUS
-=======
+# Plactogene GENUS
 
 #### Status
 ACCEPTED

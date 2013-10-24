@@ -1,14 +1,13 @@
-Septogloeum acaciae Verwoerd & du Plessis, 1931 SPECIES
-=======
+# Jubispora acaciae B. Sutton & H.J. Swart, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-S. Afr. J. Sci. 28: 295 (1931)
+Trans. Br. mycol. Soc. 87(1): 99 (1986)
 
 #### Original name
 Septogloeum acaciae Verwoerd & du Plessis, 1931

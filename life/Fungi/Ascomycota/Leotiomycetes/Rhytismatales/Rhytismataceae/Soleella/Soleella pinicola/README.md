@@ -1,5 +1,4 @@
-Soleella pinicola Y.R. Lin & W. Ren SPECIES
-=======
+# Soleella pinicola Y.R. Lin & W. Ren SPECIES
 
 #### Status
 ACCEPTED

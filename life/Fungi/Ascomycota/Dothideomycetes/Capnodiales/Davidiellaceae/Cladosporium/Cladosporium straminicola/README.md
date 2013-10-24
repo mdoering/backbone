@@ -1,5 +1,4 @@
-Cladosporium straminicola Pidopl. & Deniak SPECIES
-=======
+# Cladosporium straminicola Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

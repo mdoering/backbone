@@ -1,5 +1,4 @@
-Porina cupreola var. ciliata Bat. & Taltasse VARIETY
-=======
+# Porina terrae-reginae P.M. McCarthy, Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Atas Inst. Micol. Univ. Recife 5: 434 (1967)
+Flora of Australia (Melbourne) 58(A): 228 (2001)
 
 #### Original name
-Porina cupreola var. ciliata Bat. & Taltasse
+Porina terrae-reginae P.M. McCarthy, Lücking & Vezda
 
 ### Remarks
 null

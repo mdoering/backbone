@@ -1,5 +1,4 @@
-Pannoparmelia hypotrachyna (Nyl.) R. Sant. SPECIES
-=======
+# Pannoparmelia hypotrachyna (Nyl.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

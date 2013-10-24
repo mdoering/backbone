@@ -1,8 +1,7 @@
-Nephromonas hyalina Droop, 1953 SPECIES
-=======
+# Colpodella edax (Klebs, 1892) Simpson & Patterson, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

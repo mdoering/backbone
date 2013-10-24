@@ -1,5 +1,4 @@
-Polycoccum tinantii Diederich SPECIES
-=======
+# Polycoccum tinantii Diederich SPECIES
 
 #### Status
 ACCEPTED

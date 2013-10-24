@@ -1,8 +1,7 @@
-Strombidinopsis gyrans Kent, 1881 SPECIES
-=======
+# Tintinnidium semiciliatum Sterki, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

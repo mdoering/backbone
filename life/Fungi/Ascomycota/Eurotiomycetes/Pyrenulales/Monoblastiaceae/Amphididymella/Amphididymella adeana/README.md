@@ -1,5 +1,4 @@
-Amphididymella adeana Petr. SPECIES
-=======
+# Amphididymella adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

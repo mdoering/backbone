@@ -1,5 +1,4 @@
-Biatorina melanophaea Anzi SPECIES
-=======
+# Biatorina melanophaea Anzi SPECIES
 
 #### Status
 ACCEPTED

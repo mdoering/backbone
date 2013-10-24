@@ -1,17 +1,16 @@
-Lepiota glioderma f. glioderma FORM
-=======
+# Limacella delicata (Fr. Fr.) H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 73 (1874)
+null
 
 #### Original name
-Lepiota glioderma f. glioderma
+null
 
 ### Remarks
 null

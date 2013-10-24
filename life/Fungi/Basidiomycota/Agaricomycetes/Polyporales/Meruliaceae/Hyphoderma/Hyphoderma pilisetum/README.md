@@ -1,5 +1,4 @@
-Hyphoderma pilisetum (Burt) Liberta, 1968 SPECIES
-=======
+# Hyphoderma pilisetum (Burt) Liberta, 1968 SPECIES
 
 #### Status
 ACCEPTED

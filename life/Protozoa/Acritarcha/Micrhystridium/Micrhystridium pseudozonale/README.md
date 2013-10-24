@@ -1,5 +1,4 @@
-Micrhystridium pseudozonale F.Wang & Q. Chen SPECIES
-=======
+# Micrhystridium pseudozonale F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

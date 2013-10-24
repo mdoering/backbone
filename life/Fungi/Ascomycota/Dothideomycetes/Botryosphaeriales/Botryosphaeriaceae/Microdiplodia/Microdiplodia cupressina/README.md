@@ -1,5 +1,4 @@
-Microdiplodia cupressina (Cooke) Tassi SPECIES
-=======
+# Microdiplodia cupressina (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

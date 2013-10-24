@@ -1,5 +1,4 @@
-Septoria calami Henn. SPECIES
-=======
+# Septoria calami Henn. SPECIES
 
 #### Status
 ACCEPTED

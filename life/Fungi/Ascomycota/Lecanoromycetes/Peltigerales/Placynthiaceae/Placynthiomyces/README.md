@@ -1,5 +1,4 @@
-Placynthiomyces GENUS
-=======
+# Placynthiomyces GENUS
 
 #### Status
 ACCEPTED

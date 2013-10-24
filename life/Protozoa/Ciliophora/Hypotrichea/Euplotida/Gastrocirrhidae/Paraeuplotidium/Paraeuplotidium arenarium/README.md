@@ -1,5 +1,4 @@
-Paraeuplotidium arenarium (Maganini & Nobili, 1964) Lei, Choi & Xu, 2002 SPECIES
-=======
+# Paraeuplotidium arenarium (Maganini & Nobili, 1964) Lei, Choi & Xu, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scirrhia gahniae Syd. SPECIES
-=======
+# Scirrhia gahniae Syd. SPECIES
 
 #### Status
 ACCEPTED

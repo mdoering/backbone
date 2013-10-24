@@ -1,5 +1,4 @@
-Stysanus reichenbachianus Preuss SPECIES
-=======
+# Stysanus reichenbachianus Preuss SPECIES
 
 #### Status
 ACCEPTED

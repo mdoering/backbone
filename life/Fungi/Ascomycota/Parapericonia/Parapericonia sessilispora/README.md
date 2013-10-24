@@ -1,5 +1,4 @@
-Parapericonia sessilispora Alcorn & P.M. Kirk, 1985 SPECIES
-=======
+# Parapericonia sessilispora Alcorn & P.M. Kirk, 1985 SPECIES
 
 #### Status
 ACCEPTED

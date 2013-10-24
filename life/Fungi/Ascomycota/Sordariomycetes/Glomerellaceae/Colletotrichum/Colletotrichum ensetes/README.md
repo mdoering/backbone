@@ -1,5 +1,4 @@
-Colletotrichum ensetes (Sacc. & Scalia) Petr. & Syd. SPECIES
-=======
+# Colletotrichum ensetes (Sacc. & Scalia) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca luteolosperma var. styptica Singer VARIETY
-=======
+# Melanoleuca luteolosperma (Britzelm.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Hedwigia, Beih. 29: 67 (1969)
+Contr. Inst. bot. Univ. Montreal 7: 127 (1935)
 
 #### Original name
-Melanoleuca luteolosperma var. styptica Singer
+Agaricus luteolospermus Britzelm.
 
 ### Remarks
 null

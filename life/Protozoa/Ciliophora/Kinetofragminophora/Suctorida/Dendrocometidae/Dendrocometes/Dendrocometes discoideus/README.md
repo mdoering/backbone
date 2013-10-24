@@ -1,5 +1,4 @@
-Dendrocometes discoideus Swarczewsky, 1928 SPECIES
-=======
+# Dendrocometes discoideus Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

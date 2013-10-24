@@ -1,5 +1,4 @@
-Peronosclerospora philippinensis (W. Weston) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora philippinensis (W. Weston) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora membranaceae H.S.G. Rao & S. Narayan SPECIES
-=======
+# Pseudocercospora membranaceae H.S.G. Rao & S. Narayan SPECIES
 
 #### Status
 ACCEPTED

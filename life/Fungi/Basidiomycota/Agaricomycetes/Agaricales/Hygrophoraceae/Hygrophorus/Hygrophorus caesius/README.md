@@ -1,5 +1,4 @@
-Hygrophorus caesius Berk. & Broome SPECIES
-=======
+# Hygrophorus caesius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

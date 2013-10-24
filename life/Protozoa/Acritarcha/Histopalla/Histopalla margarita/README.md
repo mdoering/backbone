@@ -1,5 +1,4 @@
-Histopalla margarita Le Hérissé, 1989 SPECIES
-=======
+# Histopalla margarita Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

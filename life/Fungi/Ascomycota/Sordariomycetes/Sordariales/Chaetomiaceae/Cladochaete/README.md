@@ -1,5 +1,4 @@
-Cladochaete GENUS
-=======
+# Cladochaete GENUS
 
 #### Status
 ACCEPTED

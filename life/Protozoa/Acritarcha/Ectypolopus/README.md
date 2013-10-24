@@ -1,5 +1,4 @@
-Ectypolopus A.R. Loeblich Jr. & E.R. Wicander, 1976 GENUS
-=======
+# Ectypolopus A.R. Loeblich Jr. & E.R. Wicander, 1976 GENUS
 
 #### Status
 ACCEPTED

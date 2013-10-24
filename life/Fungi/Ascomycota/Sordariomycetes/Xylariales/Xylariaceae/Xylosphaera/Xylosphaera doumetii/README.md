@@ -1,5 +1,4 @@
-Xylosphaera doumetii (Pat.) Dennis SPECIES
-=======
+# Xylosphaera doumetii (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

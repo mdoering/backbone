@@ -1,5 +1,4 @@
-Colletotrichum aucubanum (Sacc.) Petr. & Syd. SPECIES
-=======
+# Colletotrichum aucubanum (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon argentinum Speg. SPECIES
-=======
+# Lycoperdon argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

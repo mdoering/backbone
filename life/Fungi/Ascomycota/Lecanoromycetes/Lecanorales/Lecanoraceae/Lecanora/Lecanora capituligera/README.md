@@ -1,5 +1,4 @@
-Lecanora capituligera Poelt SPECIES
-=======
+# Lecanora capituligera Poelt SPECIES
 
 #### Status
 ACCEPTED

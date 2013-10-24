@@ -1,5 +1,4 @@
-Aecidium marsdeniae Syd. & P. Syd. SPECIES
-=======
+# Aecidium marsdeniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

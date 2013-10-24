@@ -1,5 +1,4 @@
-Agaricus sceptonymus E.H.L. Krause SPECIES
-=======
+# Agaricus sceptonymus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

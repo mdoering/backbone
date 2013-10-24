@@ -1,17 +1,16 @@
-Podospora minuta (Fuckel) Niessl SPECIES
-=======
+# Podospora vesticola (Berk. & Broome) Cain & J.H. Mirza ex Kobayasi, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 47: 2044 (1969)
 
 #### Original name
-null
+Sphaeria vesticola Berk. & Broome, 1859
 
 ### Remarks
 null

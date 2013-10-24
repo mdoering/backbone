@@ -1,5 +1,4 @@
-Lophodermium intermissum Starbäck, 1895 SPECIES
-=======
+# Lophodermium intermissum Starbäck, 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria koenigii (Retz.) SPECIES
-=======
+# Verrucaria koenigii (Retz.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete jiajiensis L. Deng SPECIES
-=======
+# Heterochaete jiajiensis L. Deng SPECIES
 
 #### Status
 ACCEPTED

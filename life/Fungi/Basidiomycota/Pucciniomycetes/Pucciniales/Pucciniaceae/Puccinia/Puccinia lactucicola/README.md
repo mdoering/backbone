@@ -1,5 +1,4 @@
-Puccinia lactucicola Miura SPECIES
-=======
+# Puccinia lactucicola Miura SPECIES
 
 #### Status
 ACCEPTED

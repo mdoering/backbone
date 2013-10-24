@@ -1,5 +1,4 @@
-Toweius occultatus (Locker, 1967) Perch-Nielsen, 1971 SPECIES
-=======
+# Toweius occultatus (Locker, 1967) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

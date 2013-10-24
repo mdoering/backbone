@@ -1,5 +1,4 @@
-Phacopsis rufa (Müll. Arg.) Triebel SPECIES
-=======
+# Phacopsis rufa (Müll. Arg.) Triebel SPECIES
 
 #### Status
 ACCEPTED

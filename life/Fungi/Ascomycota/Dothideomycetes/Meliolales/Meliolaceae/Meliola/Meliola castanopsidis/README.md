@@ -1,17 +1,16 @@
-Meliola castanopsis Budathoki & P.N. Singh SPECIES
-=======
+# Meliola castanopsidis Budathoki & P.N. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 47(4): 377 (1994)
 
 #### Original name
-Meliola castanopsis Budathoki & P.N. Singh
+Meliola castanopsidis Budathoki & P.N. Singh
 
 ### Remarks
 null

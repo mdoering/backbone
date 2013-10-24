@@ -1,5 +1,4 @@
-Corethron pelagicus SPECIES
-=======
+# Corethron pelagicus SPECIES
 
 #### Status
 ACCEPTED

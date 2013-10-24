@@ -1,5 +1,4 @@
-Cercospora balladynae Hansf. SPECIES
-=======
+# Cercospora balladynae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora marcii H. Magn. SPECIES
-=======
+# Acarospora marcii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

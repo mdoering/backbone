@@ -1,5 +1,4 @@
-Rhizomorpha fusca Pers. SPECIES
-=======
+# Rhizomorpha fusca Pers. SPECIES
 
 #### Status
 ACCEPTED

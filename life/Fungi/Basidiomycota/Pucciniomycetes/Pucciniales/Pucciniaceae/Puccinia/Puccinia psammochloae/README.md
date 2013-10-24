@@ -1,5 +1,4 @@
-Puccinia psammochloae Y.C. Wang SPECIES
-=======
+# Puccinia psammochloae Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

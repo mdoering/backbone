@@ -1,5 +1,4 @@
-Huea polioterodes (J. Steiner) C.W. Dodge SPECIES
-=======
+# Huea polioterodes (J. Steiner) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

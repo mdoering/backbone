@@ -1,5 +1,4 @@
-Hygrocybe olivaceofirma Lodge, S.A. Cantrell & Nieves-Riv. SPECIES
-=======
+# Hygrocybe olivaceofirma Lodge, S.A. Cantrell & Nieves-Riv. SPECIES
 
 #### Status
 ACCEPTED

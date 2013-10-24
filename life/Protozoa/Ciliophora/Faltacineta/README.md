@@ -1,5 +1,4 @@
-Faltacineta Jankowski, 1981 GENUS
-=======
+# Faltacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

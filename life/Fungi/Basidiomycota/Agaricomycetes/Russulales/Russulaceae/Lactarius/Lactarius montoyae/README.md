@@ -1,5 +1,4 @@
-Lactarius montoyae K. Das & J.R. Sharma SPECIES
-=======
+# Lactarius montoyae K. Das & J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

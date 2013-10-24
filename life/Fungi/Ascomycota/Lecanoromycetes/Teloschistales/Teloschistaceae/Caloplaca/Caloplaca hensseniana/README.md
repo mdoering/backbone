@@ -1,5 +1,4 @@
-Caloplaca hensseniana Kalb SPECIES
-=======
+# Caloplaca hensseniana Kalb SPECIES
 
 #### Status
 ACCEPTED

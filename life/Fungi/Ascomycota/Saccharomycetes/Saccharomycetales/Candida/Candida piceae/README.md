@@ -1,5 +1,4 @@
-Candida piceae Kurtzman, 2000 SPECIES
-=======
+# Candida piceae Kurtzman, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclularia A.G. Vologdin, 1969 GENUS
-=======
+# Cyclularia A.G. Vologdin, 1969 GENUS
 
 #### Status
 ACCEPTED

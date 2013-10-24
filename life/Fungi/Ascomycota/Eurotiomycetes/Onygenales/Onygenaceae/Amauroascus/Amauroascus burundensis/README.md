@@ -1,5 +1,4 @@
-Amauroascus burundensis P. Vidal, Cano & Guarro SPECIES
-=======
+# Amauroascus burundensis P. Vidal, Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

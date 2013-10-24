@@ -1,5 +1,4 @@
-Apiosoma applanatum SPECIES
-=======
+# Apiosoma applanatum SPECIES
 
 #### Status
 ACCEPTED

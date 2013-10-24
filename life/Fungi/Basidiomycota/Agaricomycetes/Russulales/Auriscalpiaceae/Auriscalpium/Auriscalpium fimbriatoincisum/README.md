@@ -1,5 +1,4 @@
-Auriscalpium fimbriatoincisum (Teng) Maas Geest. SPECIES
-=======
+# Auriscalpium fimbriatoincisum (Teng) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

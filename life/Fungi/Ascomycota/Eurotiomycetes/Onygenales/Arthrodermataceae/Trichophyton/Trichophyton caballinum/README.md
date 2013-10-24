@@ -1,5 +1,4 @@
-Trichophyton caballinum (Neveu-Lem.) Nann. SPECIES
-=======
+# Trichophyton caballinum (Neveu-Lem.) Nann. SPECIES
 
 #### Status
 ACCEPTED

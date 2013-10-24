@@ -1,5 +1,4 @@
-Sclerotinia fredericae Svrcek SPECIES
-=======
+# Sclerotinia fredericae Svrcek SPECIES
 
 #### Status
 ACCEPTED

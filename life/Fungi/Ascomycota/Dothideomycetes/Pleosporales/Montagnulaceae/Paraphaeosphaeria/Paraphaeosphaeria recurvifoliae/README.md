@@ -1,5 +1,4 @@
-Paraphaeosphaeria recurvifoliae Hyang B. Lee, K.M. Kim & H.S. Jung, 2005 SPECIES
-=======
+# Paraphaeosphaeria recurvifoliae Hyang B. Lee, K.M. Kim & H.S. Jung, 2005 SPECIES
 
 #### Status
 ACCEPTED

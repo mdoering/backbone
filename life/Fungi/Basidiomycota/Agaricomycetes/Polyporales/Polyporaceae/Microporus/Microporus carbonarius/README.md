@@ -1,5 +1,4 @@
-Microporus carbonarius (Fr.) Kuntze SPECIES
-=======
+# Microporus carbonarius (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

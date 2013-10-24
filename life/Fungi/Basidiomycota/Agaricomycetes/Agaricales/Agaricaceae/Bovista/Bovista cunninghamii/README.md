@@ -1,5 +1,4 @@
-Bovista cunninghamii Kreisel SPECIES
-=======
+# Bovista cunninghamii Kreisel SPECIES
 
 #### Status
 ACCEPTED

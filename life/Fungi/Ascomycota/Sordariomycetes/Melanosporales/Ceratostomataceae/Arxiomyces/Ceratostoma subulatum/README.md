@@ -1,5 +1,4 @@
-Ceratostoma subulatum Ellis SPECIES
-=======
+# Ceratostoma subulatum Ellis SPECIES
 
 #### Status
 ACCEPTED

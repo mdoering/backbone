@@ -1,5 +1,4 @@
-Cortinarius buxiolens Bidaud SPECIES
-=======
+# Cortinarius buxiolens Bidaud SPECIES
 
 #### Status
 ACCEPTED

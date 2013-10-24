@@ -1,5 +1,4 @@
-Papenfussiella gracilis Kylin SPECIES
-=======
+# Papenfussiella gracilis Kylin SPECIES
 
 #### Status
 ACCEPTED

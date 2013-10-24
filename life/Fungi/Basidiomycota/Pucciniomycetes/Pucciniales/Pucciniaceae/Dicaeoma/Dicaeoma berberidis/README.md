@@ -1,5 +1,4 @@
-Dicaeoma berberidis (Mont.) Kuntze SPECIES
-=======
+# Dicaeoma berberidis (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

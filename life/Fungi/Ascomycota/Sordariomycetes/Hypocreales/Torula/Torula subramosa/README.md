@@ -1,5 +1,4 @@
-Torula subramosa (Link) Sacc. SPECIES
-=======
+# Torula subramosa (Link) Sacc. SPECIES
 
 #### Status
 ACCEPTED

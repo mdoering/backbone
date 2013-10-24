@@ -1,5 +1,4 @@
-Siphonodosaria insoluta (Schwager) SPECIES
-=======
+# Siphonodosaria insoluta (Schwager) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stanjehughesia minima W.P. Wu SPECIES
-=======
+# Stanjehughesia minima W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

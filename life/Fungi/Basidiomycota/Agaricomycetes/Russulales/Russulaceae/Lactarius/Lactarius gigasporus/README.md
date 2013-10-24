@@ -1,5 +1,4 @@
-Lactarius gigasporus Singer SPECIES
-=======
+# Lactarius gigasporus Singer SPECIES
 
 #### Status
 ACCEPTED

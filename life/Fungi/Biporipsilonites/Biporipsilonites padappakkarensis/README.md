@@ -1,5 +1,4 @@
-Biporipsilonites padappakkarensis (P. Kumar) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites padappakkarensis (P. Kumar) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

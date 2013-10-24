@@ -1,5 +1,4 @@
-Akkesiphycus lubricum Yamada & Tanaka SPECIES
-=======
+# Akkesiphycus lubricum Yamada & Tanaka SPECIES
 
 #### Status
 ACCEPTED

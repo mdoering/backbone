@@ -1,5 +1,4 @@
-Metasphaeria melitensis Sacc. SPECIES
-=======
+# Metasphaeria melitensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

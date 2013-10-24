@@ -1,5 +1,4 @@
-Eutypa turnerae Tassi SPECIES
-=======
+# Eutypa turnerae Tassi SPECIES
 
 #### Status
 ACCEPTED

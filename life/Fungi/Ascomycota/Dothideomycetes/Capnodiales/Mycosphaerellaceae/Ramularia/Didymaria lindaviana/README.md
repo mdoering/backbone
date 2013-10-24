@@ -1,5 +1,4 @@
-Didymaria lindaviana Jaap SPECIES
-=======
+# Didymaria lindaviana Jaap SPECIES
 
 #### Status
 ACCEPTED

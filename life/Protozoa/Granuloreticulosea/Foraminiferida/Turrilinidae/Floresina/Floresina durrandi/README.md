@@ -1,5 +1,4 @@
-Floresina durrandi Revets, 1990 SPECIES
-=======
+# Floresina durrandi Revets, 1990 SPECIES
 
 #### Status
 ACCEPTED

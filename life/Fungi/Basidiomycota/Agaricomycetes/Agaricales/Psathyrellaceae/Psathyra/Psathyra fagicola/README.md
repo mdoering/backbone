@@ -1,5 +1,4 @@
-Psathyra fagicola (Lasch) Sacc. SPECIES
-=======
+# Psathyra fagicola (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

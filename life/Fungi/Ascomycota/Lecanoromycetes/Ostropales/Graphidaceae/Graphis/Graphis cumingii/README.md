@@ -1,5 +1,4 @@
-Graphis cumingii Vain. SPECIES
-=======
+# Graphis cumingii Vain. SPECIES
 
 #### Status
 ACCEPTED

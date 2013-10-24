@@ -1,5 +1,4 @@
-Phoma yuccae Cooke SPECIES
-=======
+# Phoma yuccae Cooke SPECIES
 
 #### Status
 ACCEPTED

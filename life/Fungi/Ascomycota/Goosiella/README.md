@@ -1,5 +1,4 @@
-Goosiella Morgan-Jones, Kamal & R.K. Verma GENUS
-=======
+# Goosiella Morgan-Jones, Kamal & R.K. Verma GENUS
 
 #### Status
 ACCEPTED

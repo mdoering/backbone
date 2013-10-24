@@ -1,5 +1,4 @@
-Trichophaeopsis tetraspora Dissing & M.D. Paulsen SPECIES
-=======
+# Trichophaeopsis tetraspora Dissing & M.D. Paulsen SPECIES
 
 #### Status
 ACCEPTED

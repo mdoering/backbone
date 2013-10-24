@@ -1,5 +1,4 @@
-Rosellinia cassiae S.B. Kale SPECIES
-=======
+# Rosellinia cassiae S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

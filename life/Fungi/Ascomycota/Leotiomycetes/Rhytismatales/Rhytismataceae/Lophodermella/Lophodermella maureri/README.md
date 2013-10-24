@@ -1,5 +1,4 @@
-Lophodermella maureri Minter & Cibrián, 1986 SPECIES
-=======
+# Lophodermella maureri Minter & Cibrián, 1986 SPECIES
 
 #### Status
 ACCEPTED

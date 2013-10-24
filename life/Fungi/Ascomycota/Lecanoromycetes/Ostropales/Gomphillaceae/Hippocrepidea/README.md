@@ -1,5 +1,4 @@
-Hippocrepidea Sérus. GENUS
-=======
+# Hippocrepidea Sérus. GENUS
 
 #### Status
 ACCEPTED

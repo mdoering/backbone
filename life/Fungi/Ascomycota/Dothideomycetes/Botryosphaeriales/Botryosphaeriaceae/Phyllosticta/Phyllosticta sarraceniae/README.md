@@ -1,5 +1,4 @@
-Phyllosticta sarraceniae F. Esm. SPECIES
-=======
+# Phyllosticta sarraceniae F. Esm. SPECIES
 
 #### Status
 ACCEPTED

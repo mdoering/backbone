@@ -1,5 +1,4 @@
-Chaetomium globosporum Rikhy & Mukerji, 1974 SPECIES
-=======
+# Chaetomium globosporum Rikhy & Mukerji, 1974 SPECIES
 
 #### Status
 ACCEPTED

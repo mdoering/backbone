@@ -1,5 +1,4 @@
-Hyphaster kutuensis Henn. SPECIES
-=======
+# Hyphaster kutuensis Henn. SPECIES
 
 #### Status
 ACCEPTED

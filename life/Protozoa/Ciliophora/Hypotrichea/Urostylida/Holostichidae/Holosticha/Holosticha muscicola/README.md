@@ -1,5 +1,4 @@
-Holosticha muscicola Gellert, 1956 SPECIES
-=======
+# Holosticha muscicola Gellert, 1956 SPECIES
 
 #### Status
 ACCEPTED

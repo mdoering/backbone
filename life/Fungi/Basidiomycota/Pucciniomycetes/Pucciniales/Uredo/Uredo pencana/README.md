@@ -1,5 +1,4 @@
-Uredo pencana Dietel & Neger SPECIES
-=======
+# Uredo pencana Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

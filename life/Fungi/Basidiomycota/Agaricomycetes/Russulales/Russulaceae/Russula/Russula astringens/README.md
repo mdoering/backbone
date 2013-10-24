@@ -1,5 +1,4 @@
-Russula astringens Burl. SPECIES
-=======
+# Russula astringens Burl. SPECIES
 
 #### Status
 ACCEPTED

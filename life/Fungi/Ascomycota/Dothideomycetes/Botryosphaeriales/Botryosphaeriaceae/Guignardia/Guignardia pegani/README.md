@@ -1,5 +1,4 @@
-Guignardia pegani (Rostr.) Sacc. & Trotter SPECIES
-=======
+# Guignardia pegani (Rostr.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

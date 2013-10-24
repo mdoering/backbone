@@ -1,5 +1,4 @@
-Dimorphina janjukensis Crespin SPECIES
-=======
+# Dimorphina janjukensis Crespin SPECIES
 
 #### Status
 ACCEPTED

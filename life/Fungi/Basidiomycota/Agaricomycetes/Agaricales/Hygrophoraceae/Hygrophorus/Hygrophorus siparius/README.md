@@ -1,5 +1,4 @@
-Hygrophorus siparius Berk. SPECIES
-=======
+# Hygrophorus siparius Berk. SPECIES
 
 #### Status
 ACCEPTED

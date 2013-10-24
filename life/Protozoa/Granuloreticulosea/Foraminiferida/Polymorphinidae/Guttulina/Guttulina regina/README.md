@@ -1,5 +1,4 @@
-Guttulina regina (Brady, Parker & Jones) SPECIES
-=======
+# Guttulina regina (Brady, Parker & Jones) SPECIES
 
 #### Status
 ACCEPTED

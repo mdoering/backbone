@@ -1,5 +1,4 @@
-Pleurotus serotinoides Peck SPECIES
-=======
+# Pleurotus serotinoides Peck SPECIES
 
 #### Status
 ACCEPTED

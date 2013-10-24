@@ -1,5 +1,4 @@
-Mazzantia brunaudiana Sacc. & Berl. SPECIES
-=======
+# Mazzantia brunaudiana Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

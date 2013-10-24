@@ -1,5 +1,4 @@
-Fragosphaera Shear, 1923 GENUS
-=======
+# Fragosphaera Shear, 1923 GENUS
 
 #### Status
 ACCEPTED

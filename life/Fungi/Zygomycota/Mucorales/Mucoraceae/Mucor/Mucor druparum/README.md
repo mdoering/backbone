@@ -1,5 +1,4 @@
-Mucor druparum Retz. SPECIES
-=======
+# Mucor druparum Retz. SPECIES
 
 #### Status
 ACCEPTED

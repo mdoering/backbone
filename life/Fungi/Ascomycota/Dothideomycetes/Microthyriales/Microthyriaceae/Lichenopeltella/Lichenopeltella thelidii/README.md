@@ -1,5 +1,4 @@
-Lichenopeltella thelidii Diederich SPECIES
-=======
+# Lichenopeltella thelidii Diederich SPECIES
 
 #### Status
 ACCEPTED

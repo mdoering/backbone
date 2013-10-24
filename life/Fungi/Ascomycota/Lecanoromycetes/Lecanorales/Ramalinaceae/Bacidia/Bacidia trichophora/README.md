@@ -1,5 +1,4 @@
-Bacidia trichophora (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia trichophora (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

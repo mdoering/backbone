@@ -1,5 +1,4 @@
-Puccinia arrhenathericola E. Fisch. SPECIES
-=======
+# Puccinia arrhenathericola E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

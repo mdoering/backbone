@@ -1,5 +1,4 @@
-Tympanis cinerescens Schwein. SPECIES
-=======
+# Tympanis cinerescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bilamellophrya hawaiiensis Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Bilamellophrya hawaiiensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

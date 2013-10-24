@@ -1,17 +1,16 @@
-Uredo longissima var. longissima VARIETY
-=======
+# Ustilago filiformis (Schrank) Rostr., 1890 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. 2: pl. 139 (1799)
+Bot. Foren. Feskr. Kijöbenh. 54: 136 (1890)
 
 #### Original name
-Uredo longissima var. longissima
+null
 
 ### Remarks
 null

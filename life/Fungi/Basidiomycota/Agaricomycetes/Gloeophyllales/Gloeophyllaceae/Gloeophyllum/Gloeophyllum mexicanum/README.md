@@ -1,17 +1,16 @@
-Lenzites saepiformis Lloyd, 1924 SPECIES
-=======
+# Gloeophyllum mexicanum (Mont.) Ryvarden, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1273 (1924)
+Nordic Jl Bot. 2(1): 79 (1982)
 
 #### Original name
-Lenzites saepiformis Lloyd, 1924
+Lenzites mexicana Mont., 1843
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endocarpiscum GENUS
-=======
+# Endocarpiscum GENUS
 
 #### Status
 ACCEPTED

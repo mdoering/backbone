@@ -1,5 +1,4 @@
-Stichosiphon sansibaricus var. marinus L. Hoffmann VARIETY
-=======
+# Stichosiphon sansibaricus (Hieronymus) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

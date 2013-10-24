@@ -1,5 +1,4 @@
-Clavaria obtusata Boud. SPECIES
-=======
+# Clavaria obtusata Boud. SPECIES
 
 #### Status
 ACCEPTED

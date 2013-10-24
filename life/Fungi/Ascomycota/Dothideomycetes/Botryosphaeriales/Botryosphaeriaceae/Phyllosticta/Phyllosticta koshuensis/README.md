@@ -1,5 +1,4 @@
-Phyllosticta koshuensis Sawada SPECIES
-=======
+# Phyllosticta koshuensis Sawada SPECIES
 
 #### Status
 ACCEPTED

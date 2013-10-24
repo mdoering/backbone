@@ -1,5 +1,4 @@
-Puccinia courtoisiae (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Puccinia courtoisiae (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

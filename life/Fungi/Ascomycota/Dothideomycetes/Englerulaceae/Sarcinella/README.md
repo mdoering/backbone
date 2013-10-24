@@ -1,5 +1,4 @@
-Sarcinella Saccardo, 1880 GENUS
-=======
+# Sarcinella Saccardo, 1880 GENUS
 
 #### Status
 ACCEPTED

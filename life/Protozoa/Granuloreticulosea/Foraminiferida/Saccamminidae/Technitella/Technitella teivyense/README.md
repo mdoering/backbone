@@ -1,5 +1,4 @@
-Technitella teivyense Haynes, 1973 SPECIES
-=======
+# Technitella teivyense Haynes, 1973 SPECIES
 
 #### Status
 ACCEPTED

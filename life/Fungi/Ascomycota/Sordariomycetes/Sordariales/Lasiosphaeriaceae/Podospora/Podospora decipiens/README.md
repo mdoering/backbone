@@ -1,8 +1,7 @@
-Podospora decipiens var. decipiens (G. Winter ex Fuckel) Niessl, 1883 VARIETY
-=======
+# Podospora decipiens (G. Winter ex Fuckel) Niessl, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

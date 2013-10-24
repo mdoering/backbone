@@ -1,5 +1,4 @@
-Peziza extricata Berk. & M.A. Curtis SPECIES
-=======
+# Peziza extricata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

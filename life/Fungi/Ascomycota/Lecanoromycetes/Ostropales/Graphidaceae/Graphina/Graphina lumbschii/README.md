@@ -1,5 +1,4 @@
-Graphina lumbschii A.W. Archer SPECIES
-=======
+# Graphina lumbschii A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

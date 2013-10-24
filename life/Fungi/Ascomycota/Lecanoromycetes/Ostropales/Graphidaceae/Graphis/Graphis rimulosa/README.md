@@ -1,5 +1,4 @@
-Graphis rimulosa var. rimulosa VARIETY
-=======
+# Graphis rimulosa (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Spighe Paglie 11 (1853)
 
 #### Original name
-Graphis rimulosa var. rimulosa
+Opegrapha rimulosa Mont.
 
 ### Remarks
 null

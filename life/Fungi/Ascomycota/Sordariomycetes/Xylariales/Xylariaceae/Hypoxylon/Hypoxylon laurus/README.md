@@ -1,5 +1,4 @@
-Hypoxylon laurus J.H. Mill., 1961 SPECIES
-=======
+# Hypoxylon laurus J.H. Mill., 1961 SPECIES
 
 #### Status
 ACCEPTED

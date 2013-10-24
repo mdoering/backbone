@@ -1,5 +1,4 @@
-Agaricus palmicola Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus palmicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

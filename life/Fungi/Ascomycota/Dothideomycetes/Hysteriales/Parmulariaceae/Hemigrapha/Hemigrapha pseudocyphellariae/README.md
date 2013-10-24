@@ -1,5 +1,4 @@
-Hemigrapha pseudocyphellariae Diederich & Wedin SPECIES
-=======
+# Hemigrapha pseudocyphellariae Diederich & Wedin SPECIES
 
 #### Status
 ACCEPTED

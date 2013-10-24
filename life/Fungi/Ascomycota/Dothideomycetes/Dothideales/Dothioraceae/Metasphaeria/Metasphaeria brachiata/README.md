@@ -1,5 +1,4 @@
-Metasphaeria brachiata (Kalchbr. & Cooke) Sacc. SPECIES
-=======
+# Metasphaeria brachiata (Kalchbr. & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

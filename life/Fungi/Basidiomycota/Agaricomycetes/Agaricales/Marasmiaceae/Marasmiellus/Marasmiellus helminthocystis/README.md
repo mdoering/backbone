@@ -1,5 +1,4 @@
-Marasmiellus helminthocystis Singer SPECIES
-=======
+# Marasmiellus helminthocystis Singer SPECIES
 
 #### Status
 ACCEPTED

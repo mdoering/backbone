@@ -1,5 +1,4 @@
-Phoma anguina Berk. & M.A. Curtis SPECIES
-=======
+# Phoma anguina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

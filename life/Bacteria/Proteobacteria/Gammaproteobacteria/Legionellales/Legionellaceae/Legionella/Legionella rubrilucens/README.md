@@ -1,5 +1,4 @@
-Legionella rubrilucens Brenner et al., 1985 SPECIES
-=======
+# Legionella rubrilucens Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

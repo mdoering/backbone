@@ -1,5 +1,4 @@
-Urceolaria helicopis (Wahlenb. ex Ach.) SPECIES
-=======
+# Urceolaria helicopis (Wahlenb. ex Ach.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ilsiella venusta Foissner, 1987 SPECIES
-=======
+# Ilsiella venusta Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

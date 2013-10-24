@@ -1,5 +1,4 @@
-Staurothele viperae Servít SPECIES
-=======
+# Staurothele viperae Servít SPECIES
 
 #### Status
 ACCEPTED

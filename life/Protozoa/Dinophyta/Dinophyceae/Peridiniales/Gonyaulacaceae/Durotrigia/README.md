@@ -1,5 +1,4 @@
-Durotrigia Bailey, 1987 GENUS
-=======
+# Durotrigia Bailey, 1987 GENUS
 
 #### Status
 ACCEPTED

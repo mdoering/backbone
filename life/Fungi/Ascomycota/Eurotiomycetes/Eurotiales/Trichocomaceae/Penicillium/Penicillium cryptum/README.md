@@ -1,5 +1,4 @@
-Penicillium cryptum Goch. SPECIES
-=======
+# Penicillium cryptum Goch. SPECIES
 
 #### Status
 ACCEPTED

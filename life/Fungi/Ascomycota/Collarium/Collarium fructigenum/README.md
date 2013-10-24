@@ -1,5 +1,4 @@
-Collarium fructigenum Link SPECIES
-=======
+# Collarium fructigenum Link SPECIES
 
 #### Status
 ACCEPTED

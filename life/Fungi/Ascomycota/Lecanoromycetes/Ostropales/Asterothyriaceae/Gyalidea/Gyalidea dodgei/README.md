@@ -1,5 +1,4 @@
-Gyalidea dodgei Vezda SPECIES
-=======
+# Gyalidea dodgei Vezda SPECIES
 
 #### Status
 ACCEPTED

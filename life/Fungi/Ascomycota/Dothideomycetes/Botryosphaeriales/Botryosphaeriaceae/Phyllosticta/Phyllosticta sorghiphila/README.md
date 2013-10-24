@@ -1,5 +1,4 @@
-Phyllosticta sorghiphila Saccas SPECIES
-=======
+# Phyllosticta sorghiphila Saccas SPECIES
 
 #### Status
 ACCEPTED

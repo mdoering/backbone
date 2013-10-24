@@ -1,5 +1,4 @@
-Stigmina obtecta (Petr. & Esfand.) M.B. Ellis SPECIES
-=======
+# Stigmina obtecta (Petr. & Esfand.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

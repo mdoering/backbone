@@ -1,5 +1,4 @@
-Uredo ficina Juel SPECIES
-=======
+# Uredo ficina Juel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seynesia atkinsonii F. Stevens & R.W. Ryan SPECIES
-=======
+# Seynesia atkinsonii F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

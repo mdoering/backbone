@@ -1,5 +1,4 @@
-Saccoblastia gigaspora Rick SPECIES
-=======
+# Saccoblastia gigaspora Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia lionvillei (Hue) Darb. SPECIES
-=======
+# Buellia lionvillei (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

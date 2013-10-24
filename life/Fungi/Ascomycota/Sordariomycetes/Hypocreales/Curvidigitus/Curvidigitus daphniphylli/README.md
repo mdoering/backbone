@@ -1,5 +1,4 @@
-Curvidigitus daphniphylli Sawada, 1943 SPECIES
-=======
+# Curvidigitus daphniphylli Sawada, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudolingulina kiensis (Barker, 1960) SPECIES
-=======
+# Pseudolingulina kiensis (Barker, 1960) SPECIES
 
 #### Status
 ACCEPTED

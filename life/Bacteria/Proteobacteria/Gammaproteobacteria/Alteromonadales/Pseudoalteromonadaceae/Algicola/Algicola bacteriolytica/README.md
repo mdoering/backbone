@@ -1,8 +1,7 @@
-Pseudoalteromonas bacteriolytica Sawabe et al., 1998 SPECIES
-=======
+# Algicola bacteriolytica (Sawabe et al., 1998) Ivanova et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

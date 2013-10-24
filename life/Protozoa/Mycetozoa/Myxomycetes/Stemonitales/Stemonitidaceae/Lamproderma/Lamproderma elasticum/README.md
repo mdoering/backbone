@@ -1,5 +1,4 @@
-Lamproderma elasticum Nann.-Bremek. & Bozonnet, 1989 SPECIES
-=======
+# Lamproderma elasticum Nann.-Bremek. & Bozonnet, 1989 SPECIES
 
 #### Status
 ACCEPTED

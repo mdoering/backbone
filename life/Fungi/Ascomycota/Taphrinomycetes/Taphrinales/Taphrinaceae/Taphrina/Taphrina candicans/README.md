@@ -1,5 +1,4 @@
-Taphrina candicans Sacc. SPECIES
-=======
+# Taphrina candicans Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycarthopyrenia ilicicola SPECIES
-=======
+# Mycarthopyrenia ilicicola SPECIES
 
 #### Status
 ACCEPTED

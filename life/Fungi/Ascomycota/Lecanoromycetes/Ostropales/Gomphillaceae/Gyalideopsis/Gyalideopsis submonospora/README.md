@@ -1,5 +1,4 @@
-Gyalideopsis submonospora Lücking & W.R. Buck SPECIES
-=======
+# Gyalideopsis submonospora Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

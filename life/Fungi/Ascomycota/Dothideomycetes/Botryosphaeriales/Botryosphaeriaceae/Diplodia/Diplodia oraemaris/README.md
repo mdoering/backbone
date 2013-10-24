@@ -1,5 +1,4 @@
-Diplodia oraemaris Linder, 1944 SPECIES
-=======
+# Diplodia oraemaris Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

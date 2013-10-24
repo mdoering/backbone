@@ -1,5 +1,4 @@
-Melosira dubia C.G. Kützing, 1844 SPECIES
-=======
+# Melosira dubia C.G. Kützing, 1844 SPECIES
 
 #### Status
 ACCEPTED

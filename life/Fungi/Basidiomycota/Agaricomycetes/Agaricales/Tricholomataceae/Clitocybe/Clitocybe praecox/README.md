@@ -1,5 +1,4 @@
-Clitocybe praecox Kauffman SPECIES
-=======
+# Clitocybe praecox Kauffman SPECIES
 
 #### Status
 ACCEPTED

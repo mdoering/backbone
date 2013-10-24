@@ -1,5 +1,4 @@
-Entoloma flavoides Courtec. SPECIES
-=======
+# Entoloma flavoides Courtec. SPECIES
 
 #### Status
 ACCEPTED

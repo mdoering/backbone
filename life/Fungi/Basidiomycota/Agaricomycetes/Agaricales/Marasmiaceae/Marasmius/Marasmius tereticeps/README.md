@@ -1,5 +1,4 @@
-Marasmius tereticeps Singer SPECIES
-=======
+# Marasmius tereticeps Singer SPECIES
 
 #### Status
 ACCEPTED

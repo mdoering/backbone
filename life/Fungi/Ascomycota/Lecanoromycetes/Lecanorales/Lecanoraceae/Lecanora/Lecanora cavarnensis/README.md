@@ -1,5 +1,4 @@
-Lecanora cavarnensis Cretz. SPECIES
-=======
+# Lecanora cavarnensis Cretz. SPECIES
 
 #### Status
 ACCEPTED

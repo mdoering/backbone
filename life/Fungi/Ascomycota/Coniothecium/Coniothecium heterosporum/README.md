@@ -1,5 +1,4 @@
-Coniothecium heterosporum Reichert SPECIES
-=======
+# Coniothecium heterosporum Reichert SPECIES
 
 #### Status
 ACCEPTED

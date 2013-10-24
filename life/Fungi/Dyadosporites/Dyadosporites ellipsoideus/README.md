@@ -1,5 +1,4 @@
-Dyadosporites ellipsoideus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites ellipsoideus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

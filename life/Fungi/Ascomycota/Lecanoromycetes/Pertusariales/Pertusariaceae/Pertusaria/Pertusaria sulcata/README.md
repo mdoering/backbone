@@ -1,5 +1,4 @@
-Pertusaria sulcata Dibben SPECIES
-=======
+# Pertusaria sulcata Dibben SPECIES
 
 #### Status
 ACCEPTED

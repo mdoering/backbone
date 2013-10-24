@@ -1,5 +1,4 @@
-Mycocalicium cervinum Tibell SPECIES
-=======
+# Mycocalicium cervinum Tibell SPECIES
 
 #### Status
 ACCEPTED

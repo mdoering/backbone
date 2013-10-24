@@ -1,17 +1,16 @@
-Botrydiella Badura GENUS
-=======
+# Staphylotrichum J. Meyer & Nicot, 1957 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Allionia 9: 182 (1963)
+null
 
 #### Original name
-Botrydiella Badura
+null
 
 ### Remarks
 null

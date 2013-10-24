@@ -1,5 +1,4 @@
-Camarophyllus rickenii E. Horak SPECIES
-=======
+# Camarophyllus rickenii E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina columellicola W. Yamam. SPECIES
-=======
+# Asterina columellicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

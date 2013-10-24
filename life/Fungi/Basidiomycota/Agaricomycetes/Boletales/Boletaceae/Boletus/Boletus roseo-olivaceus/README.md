@@ -1,5 +1,4 @@
-Boletus roseo-olivaceus J. Blum SPECIES
-=======
+# Boletus roseo-olivaceus J. Blum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prototrichonympha Saleem, 1955 GENUS
-=======
+# Prototrichonympha Saleem, 1955 GENUS
 
 #### Status
 ACCEPTED

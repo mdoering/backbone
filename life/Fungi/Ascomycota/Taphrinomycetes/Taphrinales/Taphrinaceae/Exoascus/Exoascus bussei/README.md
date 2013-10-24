@@ -1,5 +1,4 @@
-Exoascus bussei Faber SPECIES
-=======
+# Exoascus bussei Faber SPECIES
 
 #### Status
 ACCEPTED

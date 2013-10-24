@@ -1,5 +1,4 @@
-Olpidium tuba Sorokin SPECIES
-=======
+# Olpidium tuba Sorokin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa pertusarioides Groenh. ex Sparrius SPECIES
-=======
+# Enterographa pertusarioides Groenh. ex Sparrius SPECIES
 
 #### Status
 ACCEPTED

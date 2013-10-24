@@ -1,5 +1,4 @@
-Catenaria verrucosa Karling, 1968 SPECIES
-=======
+# Catenaria verrucosa Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

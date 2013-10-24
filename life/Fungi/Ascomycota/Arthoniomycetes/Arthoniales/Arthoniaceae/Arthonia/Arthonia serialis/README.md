@@ -1,5 +1,4 @@
-Arthonia serialis Müll. Arg. SPECIES
-=======
+# Arthonia serialis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

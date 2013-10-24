@@ -1,5 +1,4 @@
-Boletus pseudorubinus Thirring SPECIES
-=======
+# Boletus pseudorubinus Thirring SPECIES
 
 #### Status
 ACCEPTED

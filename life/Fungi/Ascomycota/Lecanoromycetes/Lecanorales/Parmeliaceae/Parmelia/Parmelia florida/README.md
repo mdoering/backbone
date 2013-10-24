@@ -1,5 +1,4 @@
-Parmelia florida (L.) Spreng. SPECIES
-=======
+# Parmelia florida (L.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

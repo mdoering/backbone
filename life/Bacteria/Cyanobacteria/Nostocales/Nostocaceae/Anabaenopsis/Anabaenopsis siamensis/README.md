@@ -1,5 +1,4 @@
-Anabaenopsis siamensis (P. Antarikanonda) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Anabaenopsis siamensis (P. Antarikanonda) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

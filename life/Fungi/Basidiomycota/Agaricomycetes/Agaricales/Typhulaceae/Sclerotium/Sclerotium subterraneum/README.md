@@ -1,5 +1,4 @@
-Sclerotium subterraneum Tode SPECIES
-=======
+# Sclerotium subterraneum Tode SPECIES
 
 #### Status
 ACCEPTED

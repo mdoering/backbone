@@ -1,5 +1,4 @@
-Labrospira sublenticula Zheng & Fu, 2001 SPECIES
-=======
+# Labrospira sublenticula Zheng & Fu, 2001 SPECIES
 
 #### Status
 DOUBTFUL

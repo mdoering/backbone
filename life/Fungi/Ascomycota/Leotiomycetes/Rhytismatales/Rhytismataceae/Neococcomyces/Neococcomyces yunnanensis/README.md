@@ -1,5 +1,4 @@
-Neococcomyces yunnanensis C.L. Hou & J. Gao, 2006 SPECIES
-=======
+# Neococcomyces yunnanensis C.L. Hou & J. Gao, 2006 SPECIES
 
 #### Status
 ACCEPTED

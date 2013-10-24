@@ -1,5 +1,4 @@
-Rinodina intercedens H. Magn. SPECIES
-=======
+# Rinodina intercedens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

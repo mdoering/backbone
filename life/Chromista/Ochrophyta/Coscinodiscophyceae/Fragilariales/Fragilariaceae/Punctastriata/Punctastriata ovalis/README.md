@@ -1,5 +1,4 @@
-Punctastriata ovalis D.M.Williams & Round SPECIES
-=======
+# Punctastriata ovalis D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

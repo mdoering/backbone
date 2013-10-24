@@ -1,14 +1,13 @@
-Corticium avellaneum Bres., 1911 SPECIES
-=======
+# Phanerochaete avellanea (Bres.) J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bourdot & Galzin, Bull. Soc. mycol. Fr. 27(2): 236 (1911)
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1072 (1981)
 
 #### Original name
 Corticium avellaneum Bres., 1911

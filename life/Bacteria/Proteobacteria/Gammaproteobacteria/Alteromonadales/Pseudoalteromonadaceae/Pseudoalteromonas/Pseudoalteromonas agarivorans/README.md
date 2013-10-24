@@ -1,5 +1,4 @@
-Pseudoalteromonas agarivorans Romanenko et al., 2003 SPECIES
-=======
+# Pseudoalteromonas agarivorans Romanenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

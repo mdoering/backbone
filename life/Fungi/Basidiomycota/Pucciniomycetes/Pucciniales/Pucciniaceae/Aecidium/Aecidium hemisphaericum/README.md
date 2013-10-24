@@ -1,5 +1,4 @@
-Aecidium hemisphaericum Peck SPECIES
-=======
+# Aecidium hemisphaericum Peck SPECIES
 
 #### Status
 ACCEPTED

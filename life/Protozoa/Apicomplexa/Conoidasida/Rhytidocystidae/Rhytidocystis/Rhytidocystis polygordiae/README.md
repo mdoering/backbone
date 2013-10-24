@@ -1,5 +1,4 @@
-Rhytidocystis polygordiae Leander & Ramey, 2006 SPECIES
-=======
+# Rhytidocystis polygordiae Leander & Ramey, 2006 SPECIES
 
 #### Status
 ACCEPTED

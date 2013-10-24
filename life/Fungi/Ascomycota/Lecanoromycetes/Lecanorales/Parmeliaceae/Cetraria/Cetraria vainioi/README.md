@@ -1,5 +1,4 @@
-Cetraria vainioi (Räsänen) Gyeln. SPECIES
-=======
+# Cetraria vainioi (Räsänen) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

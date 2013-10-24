@@ -1,5 +1,4 @@
-Lyophyllum buxeum (Maire) Singer SPECIES
-=======
+# Lyophyllum buxeum (Maire) Singer SPECIES
 
 #### Status
 ACCEPTED

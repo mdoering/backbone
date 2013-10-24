@@ -1,5 +1,4 @@
-Uredo viciae Rebent. SPECIES
-=======
+# Uredo viciae Rebent. SPECIES
 
 #### Status
 ACCEPTED

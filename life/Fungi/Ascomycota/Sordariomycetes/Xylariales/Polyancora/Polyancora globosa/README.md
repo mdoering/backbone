@@ -1,5 +1,4 @@
-Polyancora globosa Voglmayr & Yule, 2006 SPECIES
-=======
+# Polyancora globosa Voglmayr & Yule, 2006 SPECIES
 
 #### Status
 ACCEPTED

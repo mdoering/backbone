@@ -1,5 +1,4 @@
-Camarosporium quercinum (Bonord.) Sacc. SPECIES
-=======
+# Camarosporium quercinum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

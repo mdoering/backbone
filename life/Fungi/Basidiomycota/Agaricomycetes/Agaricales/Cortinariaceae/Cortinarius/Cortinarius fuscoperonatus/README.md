@@ -1,5 +1,4 @@
-Cortinarius fuscoperonatus Kühner SPECIES
-=======
+# Cortinarius fuscoperonatus Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labrys methylaminiphilus Miller et al., 2005 SPECIES
-=======
+# Labrys methylaminiphilus Miller et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acroconidiellina M.B. Ellis GENUS
-=======
+# Acroconidiellina M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

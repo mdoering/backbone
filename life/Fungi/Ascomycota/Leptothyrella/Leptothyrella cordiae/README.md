@@ -1,5 +1,4 @@
-Leptothyrella cordiae Bat. & Peres SPECIES
-=======
+# Leptothyrella cordiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

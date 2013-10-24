@@ -1,5 +1,4 @@
-Trichocoleus Anagnostidis, 2001 GENUS
-=======
+# Trichocoleus Anagnostidis, 2001 GENUS
 
 #### Status
 ACCEPTED

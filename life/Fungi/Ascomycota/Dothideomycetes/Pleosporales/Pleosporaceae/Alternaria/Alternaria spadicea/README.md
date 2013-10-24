@@ -1,5 +1,4 @@
-Alternaria spadicea (Thüm.) E.G. Simmons SPECIES
-=======
+# Alternaria spadicea (Thüm.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

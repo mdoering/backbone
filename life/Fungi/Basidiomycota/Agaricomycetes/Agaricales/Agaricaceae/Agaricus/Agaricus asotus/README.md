@@ -1,5 +1,4 @@
-Agaricus asotus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus asotus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

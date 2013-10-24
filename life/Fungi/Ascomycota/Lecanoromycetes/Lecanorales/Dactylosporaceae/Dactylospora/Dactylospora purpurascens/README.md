@@ -1,5 +1,4 @@
-Dactylospora purpurascens Triebel SPECIES
-=======
+# Dactylospora purpurascens Triebel SPECIES
 
 #### Status
 ACCEPTED

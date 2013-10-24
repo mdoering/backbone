@@ -1,5 +1,4 @@
-Fusidium clandestinum Corda SPECIES
-=======
+# Fusidium clandestinum Corda SPECIES
 
 #### Status
 ACCEPTED

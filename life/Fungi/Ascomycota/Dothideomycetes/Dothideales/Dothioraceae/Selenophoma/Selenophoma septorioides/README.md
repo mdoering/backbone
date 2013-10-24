@@ -1,5 +1,4 @@
-Selenophoma septorioides Maire SPECIES
-=======
+# Selenophoma septorioides Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Octavianina radicata (J.W. Cribb) Pegler & T.W.K. Young SPECIES
-=======
+# Octaviania radicata (J.W. Cribb) Pegler & T.W.K. Young SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 72(3): 382 (1979)
 
 #### Original name
 Hydnangium radicatum J.W. Cribb

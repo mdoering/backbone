@@ -1,5 +1,4 @@
-Astrosphaeriella erumpens (Berk. & M.A. Curtis) Theiss. SPECIES
-=======
+# Astrosphaeriella erumpens (Berk. & M.A. Curtis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

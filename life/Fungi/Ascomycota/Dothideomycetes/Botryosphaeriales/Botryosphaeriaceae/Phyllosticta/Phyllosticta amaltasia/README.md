@@ -1,5 +1,4 @@
-Phyllosticta amaltasia Chardón & Tandon SPECIES
-=======
+# Phyllosticta amaltasia Chardón & Tandon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Clostridium thermosulfurigenes Schink & Zeikus, 1983 SPECIES
-=======
+# Thermoanaerobacterium thermosulfurigenes (Schink & Zeikus, 1983) Lee et al., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Leucopaxillus malenconii Bon SPECIES
-=======
+# Leucopaxillus malenconii Bon SPECIES
 
 #### Status
 ACCEPTED

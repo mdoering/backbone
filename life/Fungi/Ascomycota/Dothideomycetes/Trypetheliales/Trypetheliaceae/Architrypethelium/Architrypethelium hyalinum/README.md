@@ -1,5 +1,4 @@
-Architrypethelium hyalinum Aptroot SPECIES
-=======
+# Architrypethelium hyalinum Aptroot SPECIES
 
 #### Status
 ACCEPTED

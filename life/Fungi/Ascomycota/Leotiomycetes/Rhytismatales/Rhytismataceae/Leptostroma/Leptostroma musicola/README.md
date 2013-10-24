@@ -1,5 +1,4 @@
-Leptostroma musicola Tassi SPECIES
-=======
+# Leptostroma musicola Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea occulta (Körb.) Leight. SPECIES
-=======
+# Lecidea occulta (Körb.) Leight. SPECIES
 
 #### Status
 ACCEPTED

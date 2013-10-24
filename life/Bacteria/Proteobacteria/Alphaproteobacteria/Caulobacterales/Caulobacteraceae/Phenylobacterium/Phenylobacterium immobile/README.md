@@ -1,5 +1,4 @@
-Phenylobacterium immobile Lingens et al., 1985 SPECIES
-=======
+# Phenylobacterium immobile Lingens et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

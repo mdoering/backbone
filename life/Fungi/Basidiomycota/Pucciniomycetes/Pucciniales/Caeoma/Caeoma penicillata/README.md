@@ -1,5 +1,4 @@
-Caeoma penicillata (Nägeli) Bonord. SPECIES
-=======
+# Caeoma penicillata (Nägeli) Bonord. SPECIES
 
 #### Status
 ACCEPTED

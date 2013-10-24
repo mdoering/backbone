@@ -1,5 +1,4 @@
-Phaeographina coriaria M. Wirth & Hale SPECIES
-=======
+# Phaeographina coriaria M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

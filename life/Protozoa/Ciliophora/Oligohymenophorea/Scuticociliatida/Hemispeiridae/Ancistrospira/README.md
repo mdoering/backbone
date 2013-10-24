@@ -1,5 +1,4 @@
-Ancistrospira Chatton & Lwoff, 1926 GENUS
-=======
+# Ancistrospira Chatton & Lwoff, 1926 GENUS
 
 #### Status
 ACCEPTED

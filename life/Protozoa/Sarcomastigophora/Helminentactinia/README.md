@@ -1,5 +1,4 @@
-Helminentactinia Li, 1994 GENUS
-=======
+# Helminentactinia Li, 1994 GENUS
 
 #### Status
 ACCEPTED

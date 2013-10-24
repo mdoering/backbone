@@ -1,5 +1,4 @@
-Enchyleodon GENUS
-=======
+# Enchyleodon GENUS
 
 #### Status
 ACCEPTED

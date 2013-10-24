@@ -1,5 +1,4 @@
-Avocado sunblotch SPECIES
-=======
+# Avocado sunblotch SPECIES
 
 #### Status
 ACCEPTED

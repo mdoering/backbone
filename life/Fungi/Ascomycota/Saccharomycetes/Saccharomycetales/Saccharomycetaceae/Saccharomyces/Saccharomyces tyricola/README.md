@@ -1,5 +1,4 @@
-Saccharomyces tyricola Beyer. {?} SPECIES
-=======
+# Saccharomyces tyricola Beyer. {?} SPECIES
 
 #### Status
 ACCEPTED

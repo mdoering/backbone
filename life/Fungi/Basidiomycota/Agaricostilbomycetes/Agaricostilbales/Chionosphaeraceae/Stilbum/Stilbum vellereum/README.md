@@ -1,5 +1,4 @@
-Stilbum vellereum Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum vellereum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bridgeoporus T.J. Volk, Burds. & Ammirati GENUS
-=======
+# Bridgeoporus T.J. Volk, Burds. & Ammirati GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnobotrys laterivecta S. Hughes, 1981 SPECIES
-=======
+# Capnobotrys laterivecta S. Hughes, 1981 SPECIES
 
 #### Status
 ACCEPTED

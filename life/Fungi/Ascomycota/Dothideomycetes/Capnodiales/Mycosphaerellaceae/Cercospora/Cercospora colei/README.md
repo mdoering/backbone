@@ -1,5 +1,4 @@
-Cercospora colei Boedijn SPECIES
-=======
+# Cercospora colei Boedijn SPECIES
 
 #### Status
 ACCEPTED

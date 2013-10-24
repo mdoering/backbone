@@ -1,5 +1,4 @@
-Candida neomexicana Kurtzman, 2007 SPECIES
-=======
+# Candida neomexicana Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

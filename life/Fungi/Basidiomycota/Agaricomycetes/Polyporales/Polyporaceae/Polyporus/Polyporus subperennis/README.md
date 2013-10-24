@@ -1,5 +1,4 @@
-Polyporus subperennis Z.S. Bi & G.Y. Zheng SPECIES
-=======
+# Polyporus subperennis Z.S. Bi & G.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

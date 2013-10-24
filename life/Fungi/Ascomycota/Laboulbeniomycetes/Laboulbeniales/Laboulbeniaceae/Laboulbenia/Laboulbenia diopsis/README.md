@@ -1,5 +1,4 @@
-Laboulbenia diopsis Thaxt. SPECIES
-=======
+# Laboulbenia diopsis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

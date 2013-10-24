@@ -1,5 +1,4 @@
-Octocirrus Madhava Rao, 1928 GENUS
-=======
+# Octocirrus Madhava Rao, 1928 GENUS
 
 #### Status
 ACCEPTED

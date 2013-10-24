@@ -1,5 +1,4 @@
-Scoliciosporum lividum Malcolm & Vezda SPECIES
-=======
+# Scoliciosporum lividum Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

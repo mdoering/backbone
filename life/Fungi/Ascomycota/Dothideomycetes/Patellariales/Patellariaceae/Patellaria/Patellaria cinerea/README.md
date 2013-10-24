@@ -1,5 +1,4 @@
-Patellaria cinerea Trevis. SPECIES
-=======
+# Patellaria cinerea Trevis. SPECIES
 
 #### Status
 ACCEPTED

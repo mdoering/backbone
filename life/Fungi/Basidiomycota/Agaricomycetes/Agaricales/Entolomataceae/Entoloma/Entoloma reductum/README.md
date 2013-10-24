@@ -1,5 +1,4 @@
-Entoloma reductum E. Horak SPECIES
-=======
+# Entoloma reductum E. Horak SPECIES
 
 #### Status
 ACCEPTED

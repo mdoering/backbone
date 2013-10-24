@@ -1,5 +1,4 @@
-Phoma deusta Fuckel, 1870 SPECIES
-=======
+# Phoma deusta Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

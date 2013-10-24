@@ -1,5 +1,4 @@
-Heterosporium wikstroemiae Petch SPECIES
-=======
+# Heterosporium wikstroemiae Petch SPECIES
 
 #### Status
 ACCEPTED

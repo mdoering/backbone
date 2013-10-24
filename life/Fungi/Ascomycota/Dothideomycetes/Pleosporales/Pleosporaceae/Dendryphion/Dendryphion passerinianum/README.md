@@ -1,5 +1,4 @@
-Dendryphion passerinianum Thüm. SPECIES
-=======
+# Dendryphion passerinianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

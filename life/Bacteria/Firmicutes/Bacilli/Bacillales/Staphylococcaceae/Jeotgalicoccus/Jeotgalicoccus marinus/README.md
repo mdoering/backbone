@@ -1,5 +1,4 @@
-Jeotgalicoccus marinus Chen, Zhang, Shi, Xiao, Tang, Liu, Huang, Cui & Li, 2009 SPECIES
-=======
+# Jeotgalicoccus marinus Chen, Zhang, Shi, Xiao, Tang, Liu, Huang, Cui & Li, 2009 SPECIES
 
 #### Status
 ACCEPTED

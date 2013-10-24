@@ -1,5 +1,4 @@
-Alternaria geophila Dasz., 1912 SPECIES
-=======
+# Alternaria geophila Dasz., 1912 SPECIES
 
 #### Status
 ACCEPTED

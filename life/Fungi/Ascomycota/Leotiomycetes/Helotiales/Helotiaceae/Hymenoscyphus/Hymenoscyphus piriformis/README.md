@@ -1,5 +1,4 @@
-Hymenoscyphus piriformis (Hedw.) Kuntze SPECIES
-=======
+# Hymenoscyphus piriformis (Hedw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

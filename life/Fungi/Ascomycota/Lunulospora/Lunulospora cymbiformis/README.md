@@ -1,5 +1,4 @@
-Lunulospora cymbiformis K. Miura, 1972 SPECIES
-=======
+# Lunulospora cymbiformis K. Miura, 1972 SPECIES
 
 #### Status
 ACCEPTED

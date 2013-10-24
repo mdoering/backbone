@@ -1,17 +1,16 @@
-Phaeothrombis Clem. GENUS
-=======
+# Thrombium Wallroth, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis) 40, 173 (1909)
+null
 
 #### Original name
-Phaeothrombis Clem.
+null
 
 ### Remarks
 null

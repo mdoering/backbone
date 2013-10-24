@@ -1,5 +1,4 @@
-Thalassiosira profunda (Hendey) Hasle SPECIES
-=======
+# Thalassiosira profunda (Hendey) Hasle SPECIES
 
 #### Status
 ACCEPTED

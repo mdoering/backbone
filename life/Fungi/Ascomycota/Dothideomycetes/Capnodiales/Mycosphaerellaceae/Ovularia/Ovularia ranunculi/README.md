@@ -1,5 +1,4 @@
-Ovularia ranunculi Oudem. SPECIES
-=======
+# Ovularia ranunculi Oudem. SPECIES
 
 #### Status
 ACCEPTED

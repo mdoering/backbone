@@ -1,5 +1,4 @@
-Sphaerophragmium guineense Vienn.-Bourg., 1959 SPECIES
-=======
+# Sphaerophragmium guineense Vienn.-Bourg., 1959 SPECIES
 
 #### Status
 ACCEPTED

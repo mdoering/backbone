@@ -1,5 +1,4 @@
-Kuehneola grewiae (Thirum. & Mundk.) Thirum. SPECIES
-=======
+# Kuehneola grewiae (Thirum. & Mundk.) Thirum. SPECIES
 
 #### Status
 ACCEPTED

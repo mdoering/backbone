@@ -1,5 +1,4 @@
-Puccinia aculeatispora Höhn. SPECIES
-=======
+# Puccinia aculeatispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

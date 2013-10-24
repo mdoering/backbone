@@ -1,5 +1,4 @@
-Lycoperdon scrobiculatum Velen. SPECIES
-=======
+# Lycoperdon scrobiculatum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocladium viride Matr., 1893 SPECIES
-=======
+# Gliocladium viride Matr., 1893 SPECIES
 
 #### Status
 ACCEPTED

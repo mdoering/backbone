@@ -1,5 +1,4 @@
-Meliola paratrophidis Hansf. SPECIES
-=======
+# Meliola paratrophidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

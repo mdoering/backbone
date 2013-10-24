@@ -1,5 +1,4 @@
-Crepidotus exoticus Velen. SPECIES
-=======
+# Crepidotus exoticus Velen. SPECIES
 
 #### Status
 ACCEPTED

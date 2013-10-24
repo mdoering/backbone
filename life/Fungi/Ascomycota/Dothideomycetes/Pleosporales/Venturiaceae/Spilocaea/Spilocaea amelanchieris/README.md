@@ -1,5 +1,4 @@
-Spilocaea amelanchieris I.C. Harv. SPECIES
-=======
+# Spilocaea amelanchieris I.C. Harv. SPECIES
 
 #### Status
 ACCEPTED

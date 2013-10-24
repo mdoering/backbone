@@ -1,5 +1,4 @@
-Huttonia GENUS
-=======
+# Huttonia GENUS
 
 #### Status
 ACCEPTED

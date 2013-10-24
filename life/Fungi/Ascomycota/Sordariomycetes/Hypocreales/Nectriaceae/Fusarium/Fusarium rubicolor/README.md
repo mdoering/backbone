@@ -1,5 +1,4 @@
-Fusarium rubicolor Berk. & Broome SPECIES
-=======
+# Fusarium rubicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

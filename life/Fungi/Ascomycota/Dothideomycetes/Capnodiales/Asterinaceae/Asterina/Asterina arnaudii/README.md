@@ -1,5 +1,4 @@
-Asterina arnaudii R.W. Ryan SPECIES
-=======
+# Asterina arnaudii R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

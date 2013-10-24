@@ -1,5 +1,4 @@
-Agaricus offuciatus Fr. SPECIES
-=======
+# Agaricus offuciatus Fr. SPECIES
 
 #### Status
 ACCEPTED

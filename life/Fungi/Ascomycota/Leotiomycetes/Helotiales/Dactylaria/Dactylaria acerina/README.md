@@ -1,5 +1,4 @@
-Dactylaria acerina Matsush. SPECIES
-=======
+# Dactylaria acerina Matsush. SPECIES
 
 #### Status
 ACCEPTED

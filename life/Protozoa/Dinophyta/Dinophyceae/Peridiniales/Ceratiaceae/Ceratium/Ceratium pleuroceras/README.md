@@ -1,5 +1,4 @@
-Ceratium pleuroceras Schrank SPECIES
-=======
+# Ceratium pleuroceras Schrank SPECIES
 
 #### Status
 ACCEPTED

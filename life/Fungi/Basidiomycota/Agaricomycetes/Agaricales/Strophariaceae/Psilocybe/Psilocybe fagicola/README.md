@@ -1,5 +1,4 @@
-Psilocybe fagicola var. fagicola VARIETY
-=======
+# Psilocybe fagicola R. Heim & Cailleux SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 24: 438 (1959)
 
 #### Original name
-Psilocybe fagicola var. fagicola
+Psilocybe fagicola R. Heim & Cailleux
 
 ### Remarks
 null

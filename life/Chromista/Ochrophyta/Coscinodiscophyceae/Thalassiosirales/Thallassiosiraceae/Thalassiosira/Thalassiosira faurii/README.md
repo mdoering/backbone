@@ -1,5 +1,4 @@
-Thalassiosira faurii SPECIES
-=======
+# Thalassiosira faurii SPECIES
 
 #### Status
 ACCEPTED

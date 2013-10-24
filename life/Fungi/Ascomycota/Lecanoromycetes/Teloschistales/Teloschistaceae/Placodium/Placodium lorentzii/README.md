@@ -1,5 +1,4 @@
-Placodium lorentzii Müll. Arg. SPECIES
-=======
+# Placodium lorentzii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Physcia melanotricha D. D. Awasthi SPECIES
-=======
+# Awasthia melanotricha (D. D. Awasthi) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 81(3): 445 (1978)
 
 #### Original name
 Physcia melanotricha D. D. Awasthi

@@ -1,5 +1,4 @@
-Psathyra rufescens Petch SPECIES
-=======
+# Psathyra rufescens Petch SPECIES
 
 #### Status
 ACCEPTED

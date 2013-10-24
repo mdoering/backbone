@@ -1,5 +1,4 @@
-Auricularia pallida Schumach. SPECIES
-=======
+# Auricularia pallida Schumach. SPECIES
 
 #### Status
 ACCEPTED

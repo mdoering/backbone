@@ -1,5 +1,4 @@
-Lutimaribacter saemankumensis Yoon, Kang, Lee & Oh, 2009 SPECIES
-=======
+# Lutimaribacter saemankumensis Yoon, Kang, Lee & Oh, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina zanthoxyli W. Yamam. SPECIES
-=======
+# Asterina zanthoxyli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

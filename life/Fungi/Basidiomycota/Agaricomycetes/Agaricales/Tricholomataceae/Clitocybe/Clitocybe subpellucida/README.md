@@ -1,5 +1,4 @@
-Clitocybe subpellucida Hruby SPECIES
-=======
+# Clitocybe subpellucida Hruby SPECIES
 
 #### Status
 ACCEPTED

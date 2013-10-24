@@ -1,5 +1,4 @@
-Collonema papillatum Grove SPECIES
-=======
+# Collonema papillatum Grove SPECIES
 
 #### Status
 ACCEPTED

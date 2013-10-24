@@ -1,5 +1,4 @@
-Sphaeronaema piceae Fiedl. SPECIES
-=======
+# Sphaeronaema piceae Fiedl. SPECIES
 
 #### Status
 ACCEPTED

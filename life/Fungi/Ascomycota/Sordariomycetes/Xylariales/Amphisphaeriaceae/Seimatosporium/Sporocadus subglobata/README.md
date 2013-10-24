@@ -1,5 +1,4 @@
-Sporocadus subglobata Preuss SPECIES
-=======
+# Sporocadus subglobata Preuss SPECIES
 
 #### Status
 ACCEPTED

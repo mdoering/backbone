@@ -1,5 +1,4 @@
-Trichothelium daryi Barillas & Lücking SPECIES
-=======
+# Trichothelium daryi Barillas & Lücking SPECIES
 
 #### Status
 ACCEPTED

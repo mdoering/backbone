@@ -1,5 +1,4 @@
-Basidiodendron deminutum (Bourdot) Luck-Allen SPECIES
-=======
+# Basidiodendron deminutum (Bourdot) Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

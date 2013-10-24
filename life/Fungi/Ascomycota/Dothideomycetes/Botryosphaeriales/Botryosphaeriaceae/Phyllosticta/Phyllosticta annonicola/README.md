@@ -1,14 +1,13 @@
-Phyllosticta anonicola (Bat. & A.F. Vital) Aa & Vanev SPECIES
-=======
+# Phyllosticta annonicola (Bat. & A.F. Vital) Aa & Vanev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+A Revision of the Species Described in Phyllosticta (Utrecht) 16 (2002)
 
 #### Original name
 Phyllostictina annonicola Bat. & A.F. Vital

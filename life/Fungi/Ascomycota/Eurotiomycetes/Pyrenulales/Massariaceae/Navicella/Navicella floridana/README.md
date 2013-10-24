@@ -1,5 +1,4 @@
-Navicella floridana (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella floridana (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

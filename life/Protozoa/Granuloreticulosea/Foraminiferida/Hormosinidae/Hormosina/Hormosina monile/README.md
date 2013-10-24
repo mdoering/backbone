@@ -1,5 +1,4 @@
-Hormosina monile Cushman, 1912 SPECIES
-=======
+# Hormosina monile Cushman, 1912 SPECIES
 
 #### Status
 ACCEPTED

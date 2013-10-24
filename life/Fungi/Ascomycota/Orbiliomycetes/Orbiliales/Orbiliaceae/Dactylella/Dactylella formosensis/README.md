@@ -1,5 +1,4 @@
-Dactylella formosensis Sawada SPECIES
-=======
+# Dactylella formosensis Sawada SPECIES
 
 #### Status
 ACCEPTED

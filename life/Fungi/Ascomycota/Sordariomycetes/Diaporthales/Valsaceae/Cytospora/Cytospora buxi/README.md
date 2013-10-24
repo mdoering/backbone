@@ -1,5 +1,4 @@
-Cytospora buxi Desm. SPECIES
-=======
+# Cytospora buxi Desm. SPECIES
 
 #### Status
 ACCEPTED

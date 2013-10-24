@@ -1,5 +1,4 @@
-Biatora albopraetexta (C. Knight) Hellb. SPECIES
-=======
+# Biatora albopraetexta (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

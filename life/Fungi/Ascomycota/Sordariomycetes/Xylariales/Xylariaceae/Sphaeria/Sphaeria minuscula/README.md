@@ -1,5 +1,4 @@
-Sphaeria minuscula Lév. SPECIES
-=======
+# Sphaeria minuscula Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma michelii (Lév.) De Toni SPECIES
-=======
+# Scleroderma michelii (Lév.) De Toni SPECIES
 
 #### Status
 ACCEPTED

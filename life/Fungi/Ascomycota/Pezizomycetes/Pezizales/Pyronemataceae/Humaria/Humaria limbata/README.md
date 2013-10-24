@@ -1,5 +1,4 @@
-Humaria limbata (Wallr.) Sacc. SPECIES
-=======
+# Humaria limbata (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

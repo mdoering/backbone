@@ -1,5 +1,4 @@
-Melanotheca subaggregata Zahlbr. SPECIES
-=======
+# Melanotheca subaggregata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

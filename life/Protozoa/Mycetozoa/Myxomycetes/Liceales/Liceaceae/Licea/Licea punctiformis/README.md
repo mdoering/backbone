@@ -1,5 +1,4 @@
-Licea punctiformis G.W. Martin, 1969 SPECIES
-=======
+# Licea punctiformis G.W. Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium ancylanthi Henn. SPECIES
-=======
+# Aecidium ancylanthi Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globigerinoides mitra Todd SPECIES
-=======
+# Globigerinoides mitra Todd SPECIES
 
 #### Status
 ACCEPTED

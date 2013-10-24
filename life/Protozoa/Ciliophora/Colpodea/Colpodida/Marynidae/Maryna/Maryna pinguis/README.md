@@ -1,5 +1,4 @@
-Maryna pinguis Dingfelder, 1962 SPECIES
-=======
+# Maryna pinguis Dingfelder, 1962 SPECIES
 
 #### Status
 ACCEPTED

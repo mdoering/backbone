@@ -1,5 +1,4 @@
-Corollospora californica Kohlm. & Volkm.-Kohlm., 1997 SPECIES
-=======
+# Corollospora californica Kohlm. & Volkm.-Kohlm., 1997 SPECIES
 
 #### Status
 ACCEPTED

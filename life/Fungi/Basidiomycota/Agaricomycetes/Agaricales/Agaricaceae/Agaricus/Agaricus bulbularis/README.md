@@ -1,5 +1,4 @@
-Agaricus bulbularis Batsch SPECIES
-=======
+# Agaricus bulbularis Batsch SPECIES
 
 #### Status
 ACCEPTED

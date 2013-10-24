@@ -1,5 +1,4 @@
-Acarospora lata H. Magn. SPECIES
-=======
+# Acarospora lata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

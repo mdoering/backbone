@@ -1,5 +1,4 @@
-Stropharia floridana Murrill SPECIES
-=======
+# Stropharia floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

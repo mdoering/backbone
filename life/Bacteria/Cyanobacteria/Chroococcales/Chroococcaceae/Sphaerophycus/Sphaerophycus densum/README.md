@@ -1,5 +1,4 @@
-Sphaerophycus densum P. K. Maithy SPECIES
-=======
+# Sphaerophycus densum P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe corrubescens Singer SPECIES
-=======
+# Inocybe corrubescens Singer SPECIES
 
 #### Status
 ACCEPTED

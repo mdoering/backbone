@@ -1,5 +1,4 @@
-Lenzites alborepanda Lloyd SPECIES
-=======
+# Lenzites alborepanda Lloyd SPECIES
 
 #### Status
 ACCEPTED

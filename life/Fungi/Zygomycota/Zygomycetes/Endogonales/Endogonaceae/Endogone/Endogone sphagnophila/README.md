@@ -1,5 +1,4 @@
-Endogone sphagnophila G.F. Atk. SPECIES
-=======
+# Endogone sphagnophila G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

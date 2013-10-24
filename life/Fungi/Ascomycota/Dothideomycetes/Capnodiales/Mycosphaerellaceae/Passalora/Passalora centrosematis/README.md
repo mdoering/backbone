@@ -1,5 +1,4 @@
-Passalora centrosematis N. Pons, U. Braun & Crous SPECIES
-=======
+# Passalora centrosematis N. Pons, U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

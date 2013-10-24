@@ -1,5 +1,4 @@
-Palaeostomocystis reticulata Deflandre, 1937 SPECIES
-=======
+# Palaeostomocystis reticulata Deflandre, 1937 SPECIES
 
 #### Status
 ACCEPTED

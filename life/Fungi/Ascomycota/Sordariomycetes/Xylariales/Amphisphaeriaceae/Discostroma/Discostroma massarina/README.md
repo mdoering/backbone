@@ -1,5 +1,4 @@
-Discostroma massarina (Sacc.) Arx SPECIES
-=======
+# Discostroma massarina (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

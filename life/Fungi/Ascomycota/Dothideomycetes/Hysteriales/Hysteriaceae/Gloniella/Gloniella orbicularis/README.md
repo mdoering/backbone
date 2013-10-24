@@ -1,5 +1,4 @@
-Gloniella orbicularis (Berk. & Broome) Sacc. SPECIES
-=======
+# Gloniella orbicularis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

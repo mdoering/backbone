@@ -1,5 +1,4 @@
-Acanthothecis incondita (Nyl.) Staiger & Kalb SPECIES
-=======
+# Acanthothecis incondita (Nyl.) Staiger & Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia anceps Sacc. SPECIES
-=======
+# Hendersonia anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

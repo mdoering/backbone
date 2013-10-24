@@ -1,5 +1,4 @@
-Cephalosporium sceptromyces Bonord. SPECIES
-=======
+# Cephalosporium sceptromyces Bonord. SPECIES
 
 #### Status
 ACCEPTED

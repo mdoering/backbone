@@ -1,5 +1,4 @@
-Lophiosphaera schizostoma (Mont.) Trevis. SPECIES
-=======
+# Lophiosphaera schizostoma (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

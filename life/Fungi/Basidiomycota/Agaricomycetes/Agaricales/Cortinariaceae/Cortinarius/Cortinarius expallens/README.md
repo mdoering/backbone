@@ -1,5 +1,4 @@
-Cortinarius expallens M.M. Moser SPECIES
-=======
+# Cortinarius expallens M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora gyrophorica Lendemer SPECIES
-=======
+# Lecanora gyrophorica Lendemer SPECIES
 
 #### Status
 ACCEPTED

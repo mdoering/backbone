@@ -1,5 +1,4 @@
-Cercospora glycosmidis M. Mandal SPECIES
-=======
+# Cercospora glycosmidis M. Mandal SPECIES
 
 #### Status
 ACCEPTED

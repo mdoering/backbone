@@ -1,17 +1,16 @@
-Maurodothina G. Arnaud ex Piroz. & Shoemaker GENUS
-=======
+# Eupelte Sydow, 1924 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 48(7): 1326 (1970)
+Annls mycol. 22(3/6): 426 (1924)
 
 #### Original name
-Maurodothina G. Arnaud ex Piroz. & Shoemaker
+Eupelte Sydow, 1924
 
 ### Remarks
 null

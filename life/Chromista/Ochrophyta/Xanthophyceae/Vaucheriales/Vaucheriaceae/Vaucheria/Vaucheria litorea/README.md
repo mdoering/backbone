@@ -1,5 +1,4 @@
-Vaucheria litorea Hofman & Agardh ex C. Agardh SPECIES
-=======
+# Vaucheria litorea Hofman & Agardh ex C. Agardh SPECIES
 
 #### Status
 ACCEPTED

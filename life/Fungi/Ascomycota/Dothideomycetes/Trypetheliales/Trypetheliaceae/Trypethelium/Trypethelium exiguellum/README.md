@@ -1,5 +1,4 @@
-Trypethelium exiguellum Stirt. ex F.M. Bailey SPECIES
-=======
+# Trypethelium exiguellum Stirt. ex F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

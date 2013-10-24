@@ -1,5 +1,4 @@
-Agaricus squamiger Britzelm. SPECIES
-=======
+# Agaricus squamiger Britzelm. SPECIES
 
 #### Status
 ACCEPTED

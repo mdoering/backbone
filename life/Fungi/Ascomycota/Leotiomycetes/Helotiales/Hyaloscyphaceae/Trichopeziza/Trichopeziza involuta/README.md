@@ -1,5 +1,4 @@
-Trichopeziza involuta (Lagger) Sacc. SPECIES
-=======
+# Trichopeziza involuta (Lagger) Sacc. SPECIES
 
 #### Status
 ACCEPTED

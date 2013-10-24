@@ -1,5 +1,4 @@
-Macrophoma ensetes Sacc. & Scalia SPECIES
-=======
+# Macrophoma ensetes Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

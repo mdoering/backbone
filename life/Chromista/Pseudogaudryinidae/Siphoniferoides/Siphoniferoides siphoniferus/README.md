@@ -1,8 +1,7 @@
-Textularia siphonifera Brady, 1881 SPECIES
-=======
+# Siphoniferoides siphoniferus (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

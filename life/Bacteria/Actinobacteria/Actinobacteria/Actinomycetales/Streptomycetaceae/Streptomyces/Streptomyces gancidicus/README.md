@@ -1,5 +1,4 @@
-Streptomyces gancidicus Suzuki, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces gancidicus Suzuki, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

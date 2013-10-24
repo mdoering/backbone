@@ -1,5 +1,4 @@
-Myxosporium meliae Zimm. SPECIES
-=======
+# Myxosporium meliae Zimm. SPECIES
 
 #### Status
 ACCEPTED

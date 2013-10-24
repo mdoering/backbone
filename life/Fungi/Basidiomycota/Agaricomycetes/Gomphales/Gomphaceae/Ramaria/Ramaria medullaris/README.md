@@ -1,5 +1,4 @@
-Ramaria medullaris Holmsk. SPECIES
-=======
+# Ramaria medullaris Holmsk. SPECIES
 
 #### Status
 ACCEPTED

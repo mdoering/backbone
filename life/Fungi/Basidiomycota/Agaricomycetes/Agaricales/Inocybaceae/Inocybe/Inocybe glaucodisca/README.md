@@ -1,5 +1,4 @@
-Inocybe glaucodisca Buyck & Eyssart. SPECIES
-=======
+# Inocybe glaucodisca Buyck & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

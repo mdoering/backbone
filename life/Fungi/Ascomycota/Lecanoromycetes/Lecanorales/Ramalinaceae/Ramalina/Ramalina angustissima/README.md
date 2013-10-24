@@ -1,5 +1,4 @@
-Ramalina angustissima f. angustissima FORM
-=======
+# Ramalina angustissima SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina angustissima f. angustissima
+null
 
 ### Remarks
 null

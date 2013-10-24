@@ -1,5 +1,4 @@
-Dimerosporina pusilla Syd. SPECIES
-=======
+# Dimerosporina pusilla Syd. SPECIES
 
 #### Status
 ACCEPTED

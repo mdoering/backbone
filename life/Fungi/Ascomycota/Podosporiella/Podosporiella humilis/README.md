@@ -1,14 +1,13 @@
-Podosporium humile (Ellis & Everh.) Pound & Clem., 1897 SPECIES
-=======
+# Podosporiella humilis Ellis & Everh., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Minn. bot. Stud. 1(Bulletin 9): 730 (1897)
+Proc. Acad. nat. Sci. Philad. , 1894 46: 385 (1894)
 
 #### Original name
 Podosporiella humilis Ellis & Everh., 1894

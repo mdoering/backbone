@@ -1,14 +1,13 @@
-Collema isidioides Nyl. SPECIES
-=======
+# Lempholemma isidioides (Nyl. ex Arnold) H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 53: 232 (1870)
+Bot. Notiser 303 (1939)
 
 #### Original name
 Collema isidioides Nyl.

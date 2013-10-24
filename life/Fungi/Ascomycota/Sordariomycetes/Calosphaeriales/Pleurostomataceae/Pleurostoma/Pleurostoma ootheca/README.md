@@ -1,5 +1,4 @@
-Pleurostoma ootheca (Berk. & M.A. Curtis) M.E. Barr, 1985 SPECIES
-=======
+# Pleurostoma ootheca (Berk. & M.A. Curtis) M.E. Barr, 1985 SPECIES
 
 #### Status
 ACCEPTED

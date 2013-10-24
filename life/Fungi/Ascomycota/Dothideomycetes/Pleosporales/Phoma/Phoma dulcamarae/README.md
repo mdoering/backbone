@@ -1,5 +1,4 @@
-Phoma dulcamarae Thüm. SPECIES
-=======
+# Phoma dulcamarae Thüm. SPECIES
 
 #### Status
 ACCEPTED

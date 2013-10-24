@@ -1,5 +1,4 @@
-Amphisphaerina Höhn. GENUS
-=======
+# Amphisphaerina Höhn. GENUS
 
 #### Status
 ACCEPTED

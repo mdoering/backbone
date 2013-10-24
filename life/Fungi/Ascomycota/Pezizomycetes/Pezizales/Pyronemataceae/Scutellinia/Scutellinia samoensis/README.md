@@ -1,5 +1,4 @@
-Scutellinia samoensis (Henn.) Le Gal SPECIES
-=======
+# Scutellinia samoensis (Henn.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

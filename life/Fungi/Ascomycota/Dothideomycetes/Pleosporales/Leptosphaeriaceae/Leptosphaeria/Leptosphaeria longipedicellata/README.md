@@ -1,5 +1,4 @@
-Leptosphaeria longipedicellata J.H. Mill. & Burton SPECIES
-=======
+# Leptosphaeria longipedicellata J.H. Mill. & Burton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scolecosporiella spraguei B. Sutton & Alcorn, 1974 SPECIES
-=======
+# Ascochyta paspali (Syd.) Punith., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 22(3): 528 (1974)
+Mycol. Pap. 142: 125 (1979)
 
 #### Original name
-Scolecosporiella spraguei B. Sutton & Alcorn, 1974
+Ascochytula paspali Syd., 1936
 
 ### Remarks
 null

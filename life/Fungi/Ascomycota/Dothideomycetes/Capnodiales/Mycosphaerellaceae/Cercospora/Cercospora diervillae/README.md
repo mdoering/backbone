@@ -1,5 +1,4 @@
-Cercospora diervillae Ellis & Everh. SPECIES
-=======
+# Cercospora diervillae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

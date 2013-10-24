@@ -1,5 +1,4 @@
-Phyllosticta corydalina Picb. SPECIES
-=======
+# Phyllosticta corydalina Picb. SPECIES
 
 #### Status
 ACCEPTED

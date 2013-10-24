@@ -1,5 +1,4 @@
-Dendryphion leptaleum Ellis SPECIES
-=======
+# Dendryphion leptaleum Ellis SPECIES
 
 #### Status
 ACCEPTED

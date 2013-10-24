@@ -1,5 +1,4 @@
-Enterographa leucina (Nyl.) A. Massal. SPECIES
-=======
+# Enterographa leucina (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

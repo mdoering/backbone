@@ -1,5 +1,4 @@
-Lecanorella subadunata Motyka SPECIES
-=======
+# Lecanorella subadunata Motyka SPECIES
 
 #### Status
 ACCEPTED

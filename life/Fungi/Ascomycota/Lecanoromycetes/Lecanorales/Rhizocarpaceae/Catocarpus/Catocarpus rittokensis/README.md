@@ -1,5 +1,4 @@
-Catocarpus rittokensis (Hellb.) SPECIES
-=======
+# Catocarpus rittokensis (Hellb.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria boninensis Shibuichi SPECIES
-=======
+# Pertusaria boninensis Shibuichi SPECIES
 
 #### Status
 ACCEPTED

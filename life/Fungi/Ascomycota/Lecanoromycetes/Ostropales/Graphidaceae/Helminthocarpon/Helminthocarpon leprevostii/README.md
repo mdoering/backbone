@@ -1,5 +1,4 @@
-Helminthocarpon leprevostii Fée SPECIES
-=======
+# Helminthocarpon leprevostii Fée SPECIES
 
 #### Status
 ACCEPTED

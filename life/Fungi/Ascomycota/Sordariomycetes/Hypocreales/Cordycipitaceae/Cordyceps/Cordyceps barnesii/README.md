@@ -1,5 +1,4 @@
-Cordyceps barnesii Thwaites SPECIES
-=======
+# Cordyceps barnesii Thwaites SPECIES
 
 #### Status
 ACCEPTED

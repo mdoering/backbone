@@ -1,5 +1,4 @@
-Helicodendron westerdijkae Beverw. SPECIES
-=======
+# Helicodendron westerdijkae Beverw. SPECIES
 
 #### Status
 ACCEPTED

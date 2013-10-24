@@ -1,5 +1,4 @@
-Athenagalea robusta J.G. Hattner & S.W. Wise SPECIES
-=======
+# Athenagalea robusta J.G. Hattner & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

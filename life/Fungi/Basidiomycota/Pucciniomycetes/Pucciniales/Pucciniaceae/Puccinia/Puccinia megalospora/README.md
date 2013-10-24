@@ -1,5 +1,4 @@
-Puccinia megalospora (Orton) Arthur & J.R. Johnst. SPECIES
-=======
+# Puccinia megalospora (Orton) Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon scabripes (Peck) Banker SPECIES
-=======
+# Sarcodon scabripes (Peck) Banker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium cuneatum Kofoid & Swezy SPECIES
-=======
+# Gyrodinium cuneatum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

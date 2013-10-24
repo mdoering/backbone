@@ -1,5 +1,4 @@
-Spirillina toddae SPECIES
-=======
+# Spirillina toddae SPECIES
 
 #### Status
 ACCEPTED

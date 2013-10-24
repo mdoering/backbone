@@ -1,5 +1,4 @@
-Coleosporium spiraeae P. Karst. SPECIES
-=======
+# Coleosporium spiraeae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

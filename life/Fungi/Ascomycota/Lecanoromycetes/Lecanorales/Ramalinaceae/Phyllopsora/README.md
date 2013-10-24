@@ -1,17 +1,16 @@
-Psoromopsis Nyl. GENUS
-=======
+# Phyllopsora Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Herb. Boissier 2(app. 1): 11, 45 (1894)
 
 #### Original name
-Psoromopsis Nyl.
+Phyllopsora Müll. Arg.
 
 ### Remarks
 null

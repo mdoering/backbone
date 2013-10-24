@@ -1,5 +1,4 @@
-Calonectria scoparia Ribeiro & Matsuoka ex Peerally, 1991 SPECIES
-=======
+# Calonectria scoparia Ribeiro & Matsuoka ex Peerally, 1991 SPECIES
 
 #### Status
 ACCEPTED

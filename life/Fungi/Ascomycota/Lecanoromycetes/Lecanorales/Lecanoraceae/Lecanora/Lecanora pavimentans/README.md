@@ -1,5 +1,4 @@
-Lecanora pavimentans Nyl. SPECIES
-=======
+# Lecanora pavimentans Nyl. SPECIES
 
 #### Status
 ACCEPTED

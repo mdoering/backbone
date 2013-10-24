@@ -1,5 +1,4 @@
-Vaginicola inclinata Fromentel, 1876 SPECIES
-=======
+# Vaginicola inclinata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

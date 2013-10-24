@@ -1,17 +1,16 @@
-Uredo calotropsidis Cummins SPECIES
-=======
+# Uredo calotropidis Cummins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 79(3): 230 (1952)
 
 #### Original name
-Uredo calotropsidis Cummins
+Uredo calotropidis Cummins
 
 ### Remarks
 null

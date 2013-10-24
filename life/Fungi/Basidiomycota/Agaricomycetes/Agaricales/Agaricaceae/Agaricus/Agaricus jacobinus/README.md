@@ -1,5 +1,4 @@
-Agaricus jacobinus Scop. SPECIES
-=======
+# Agaricus jacobinus Scop. SPECIES
 
 #### Status
 ACCEPTED

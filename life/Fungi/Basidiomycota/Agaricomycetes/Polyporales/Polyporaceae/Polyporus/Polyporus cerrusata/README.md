@@ -1,5 +1,4 @@
-Polyporus cerrusata Bres. SPECIES
-=======
+# Polyporus cerrusata Bres. SPECIES
 
 #### Status
 ACCEPTED

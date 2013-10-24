@@ -1,5 +1,4 @@
-Gymnosporium inquinans Berk. SPECIES
-=======
+# Gymnosporium inquinans Berk. SPECIES
 
 #### Status
 ACCEPTED

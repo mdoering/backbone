@@ -1,5 +1,4 @@
-Clitocybe lilaceoalba Corner SPECIES
-=======
+# Clitocybe lilaceoalba Corner SPECIES
 
 #### Status
 ACCEPTED

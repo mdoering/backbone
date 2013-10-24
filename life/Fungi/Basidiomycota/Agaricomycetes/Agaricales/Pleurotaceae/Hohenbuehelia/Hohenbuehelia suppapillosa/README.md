@@ -1,5 +1,4 @@
-Hohenbuehelia suppapillosa Corner SPECIES
-=======
+# Hohenbuehelia suppapillosa Corner SPECIES
 
 #### Status
 ACCEPTED

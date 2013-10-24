@@ -1,5 +1,4 @@
-Lambdasporium Matsush. GENUS
-=======
+# Lambdasporium Matsush. GENUS
 
 #### Status
 ACCEPTED

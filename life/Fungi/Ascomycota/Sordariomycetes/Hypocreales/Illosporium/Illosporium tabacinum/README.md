@@ -1,5 +1,4 @@
-Illosporium tabacinum Sacc. SPECIES
-=======
+# Illosporium tabacinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

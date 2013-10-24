@@ -1,5 +1,4 @@
-Buellia jaraguensis Zahlbr. SPECIES
-=======
+# Buellia jaraguensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

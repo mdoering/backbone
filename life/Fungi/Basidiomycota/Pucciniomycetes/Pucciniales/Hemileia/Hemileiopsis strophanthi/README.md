@@ -1,5 +1,4 @@
-Hemileiopsis strophanthi Racib. SPECIES
-=======
+# Hemileiopsis strophanthi Racib. SPECIES
 
 #### Status
 ACCEPTED

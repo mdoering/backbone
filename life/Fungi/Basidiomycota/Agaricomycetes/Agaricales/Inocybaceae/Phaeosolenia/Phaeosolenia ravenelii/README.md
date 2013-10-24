@@ -1,14 +1,13 @@
-Chaetocypha ravenelii (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Phaeosolenia ravenelii (Berk. & M.A. Curtis) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 847 (1891)
+Beih. Sydowia 4: 127 (1961)
 
 #### Original name
 Cyphella ravenelii Berk. & M.A. Curtis, 1853

@@ -1,5 +1,4 @@
-Pachylepyrium nubicola Singer, 1961 SPECIES
-=======
+# Pachylepyrium nubicola Singer, 1961 SPECIES
 
 #### Status
 ACCEPTED

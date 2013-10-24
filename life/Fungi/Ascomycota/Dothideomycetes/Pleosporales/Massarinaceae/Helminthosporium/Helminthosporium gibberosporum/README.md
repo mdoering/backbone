@@ -1,5 +1,4 @@
-Helminthosporium gibberosporum Curzi SPECIES
-=======
+# Helminthosporium gibberosporum Curzi SPECIES
 
 #### Status
 ACCEPTED

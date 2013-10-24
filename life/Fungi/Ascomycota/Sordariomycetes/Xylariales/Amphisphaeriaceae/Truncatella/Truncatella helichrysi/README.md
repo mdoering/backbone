@@ -1,5 +1,4 @@
-Truncatella helichrysi (Severini) B. Sutton SPECIES
-=======
+# Truncatella helichrysi (Severini) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia dulcamarae var. dulcamarae VARIETY
-=======
+# Hendersonia dulcamarae Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia dulcamarae var. dulcamarae
+Hendersonia dulcamarae Sacc.
 
 ### Remarks
 null

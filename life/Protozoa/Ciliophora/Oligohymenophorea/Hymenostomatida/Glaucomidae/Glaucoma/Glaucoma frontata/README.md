@@ -1,5 +1,4 @@
-Glaucoma frontata (Stokes, 1886) Kahl, 1931 SPECIES
-=======
+# Glaucoma frontata (Stokes, 1886) Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

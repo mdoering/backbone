@@ -1,5 +1,4 @@
-Lugdunum admirandum Saidova, 1975 SPECIES
-=======
+# Lugdunum admirandum Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

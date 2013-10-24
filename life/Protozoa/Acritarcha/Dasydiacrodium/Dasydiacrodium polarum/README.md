@@ -1,5 +1,4 @@
-Dasydiacrodium polarum Combaz, 1967 SPECIES
-=======
+# Dasydiacrodium polarum Combaz, 1967 SPECIES
 
 #### Status
 ACCEPTED

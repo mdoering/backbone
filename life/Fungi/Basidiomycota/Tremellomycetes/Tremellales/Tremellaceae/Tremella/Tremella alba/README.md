@@ -1,5 +1,4 @@
-Tremella alba Kalchbr. SPECIES
-=======
+# Tremella alba Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

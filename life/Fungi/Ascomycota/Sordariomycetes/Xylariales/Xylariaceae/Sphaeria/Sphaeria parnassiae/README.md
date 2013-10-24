@@ -1,5 +1,4 @@
-Sphaeria parnassiae Peck SPECIES
-=======
+# Sphaeria parnassiae Peck SPECIES
 
 #### Status
 ACCEPTED

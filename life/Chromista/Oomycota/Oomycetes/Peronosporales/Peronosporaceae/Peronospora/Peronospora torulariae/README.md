@@ -1,5 +1,4 @@
-Peronospora torulariae Domashova SPECIES
-=======
+# Peronospora torulariae Domashova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Priceomyces GENUS
-=======
+# Priceomyces GENUS
 
 #### Status
 ACCEPTED

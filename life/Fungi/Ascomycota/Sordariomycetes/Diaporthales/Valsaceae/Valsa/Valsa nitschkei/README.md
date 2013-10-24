@@ -1,5 +1,4 @@
-Valsa nitschkei (Auersw.) Nitschke SPECIES
-=======
+# Valsa nitschkei (Auersw.) Nitschke SPECIES
 
 #### Status
 ACCEPTED

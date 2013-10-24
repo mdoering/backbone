@@ -1,5 +1,4 @@
-Haemogregarina bothi Lebailly, 1905 SPECIES
-=======
+# Haemogregarina bothi Lebailly, 1905 SPECIES
 
 #### Status
 ACCEPTED

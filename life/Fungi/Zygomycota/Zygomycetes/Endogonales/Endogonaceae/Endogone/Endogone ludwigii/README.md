@@ -1,5 +1,4 @@
-Endogone ludwigii Bucholtz SPECIES
-=======
+# Endogone ludwigii Bucholtz SPECIES
 
 #### Status
 ACCEPTED

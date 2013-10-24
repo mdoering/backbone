@@ -1,5 +1,4 @@
-Lichen decumbens Huds. SPECIES
-=======
+# Lichen decumbens Huds. SPECIES
 
 #### Status
 ACCEPTED

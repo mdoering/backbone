@@ -1,5 +1,4 @@
-Panartissa Haeckel, 1887 GENUS
-=======
+# Panartissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina ugandensis var. ugandensis VARIETY
-=======
+# Irenina ugandensis (Hansf.) Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 23: 38 (1948)
 
 #### Original name
-Irenina ugandensis var. ugandensis
+Irene ugandensis Hansf.
 
 ### Remarks
 null

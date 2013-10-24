@@ -1,5 +1,4 @@
-Lenticulina crassa (d'Orbigny) SPECIES
-=======
+# Lenticulina crassa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

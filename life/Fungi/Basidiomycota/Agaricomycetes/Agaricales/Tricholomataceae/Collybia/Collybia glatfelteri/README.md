@@ -1,5 +1,4 @@
-Collybia glatfelteri (Murrill) Murrill SPECIES
-=======
+# Collybia glatfelteri (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

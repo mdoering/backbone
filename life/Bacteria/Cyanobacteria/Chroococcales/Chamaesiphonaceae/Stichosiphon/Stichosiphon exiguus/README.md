@@ -1,5 +1,4 @@
-Stichosiphon exiguus G. Montejano, M. Gold-Morgan & J.Komárek SPECIES
-=======
+# Stichosiphon exiguus G. Montejano, M. Gold-Morgan & J.Komárek SPECIES
 
 #### Status
 ACCEPTED

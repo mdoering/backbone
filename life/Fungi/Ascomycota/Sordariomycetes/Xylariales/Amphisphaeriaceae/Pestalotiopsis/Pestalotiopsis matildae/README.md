@@ -1,14 +1,13 @@
-Pestalotia matildae Richatt, 1953 SPECIES
-=======
+# Pestalotiopsis matildae (Richatt) S.J. Lee & Crous, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agricultura Técnica, Santiago de Chile 13: 91 (1953)
+in Lee, Crous & Wingfield, Stud. Mycol. 55: 179 (2006)
 
 #### Original name
 Pestalotia matildae Richatt, 1953

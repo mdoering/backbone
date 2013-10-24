@@ -1,5 +1,4 @@
-Peziza vagneri J. Moravec SPECIES
-=======
+# Peziza vagneri J. Moravec SPECIES
 
 #### Status
 ACCEPTED

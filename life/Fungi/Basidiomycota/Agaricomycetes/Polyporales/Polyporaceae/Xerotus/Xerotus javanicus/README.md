@@ -1,5 +1,4 @@
-Xerotus javanicus Ade SPECIES
-=======
+# Xerotus javanicus Ade SPECIES
 
 #### Status
 ACCEPTED

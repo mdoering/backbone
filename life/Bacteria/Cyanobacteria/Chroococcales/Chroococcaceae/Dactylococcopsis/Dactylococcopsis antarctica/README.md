@@ -1,5 +1,4 @@
-Dactylococcopsis antarctica Fritsch SPECIES
-=======
+# Dactylococcopsis antarctica Fritsch SPECIES
 
 #### Status
 ACCEPTED

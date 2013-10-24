@@ -1,5 +1,4 @@
-Seynesia melastomataceae Henn. SPECIES
-=======
+# Seynesia melastomataceae Henn. SPECIES
 
 #### Status
 ACCEPTED

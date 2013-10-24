@@ -1,17 +1,16 @@
-Polystictus bulbipes subsp. bulbipes SUBSPECIES
-=======
+# Coltricia cinnamomea (Jacq.) Murrill, 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 72 (1851)
+Bull. Torrey bot. Club 31(6): 343 (1904)
 
 #### Original name
-Polystictus bulbipes subsp. bulbipes
+Boletus cinnamomeus Jacq., 1787
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ocellularia subgranulosa (Homchant. & Coppins) Lumbsch & Papong SPECIES
-=======
+# Ocellularia subgranulosa (Homchant. & Coppins) Lumbsch & Papong SPECIES
 
 #### Status
 ACCEPTED

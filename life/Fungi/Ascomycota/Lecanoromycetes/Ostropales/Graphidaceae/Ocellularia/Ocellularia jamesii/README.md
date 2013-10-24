@@ -1,14 +1,13 @@
-Leptotrema jamesii Patw. & C.R. Kulk. SPECIES
-=======
+# Ocellularia jamesii (Patw. & C.R. Kulk.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Norw. Jl Bot. 24: 131 (1977)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Leptotrema jamesii Patw. & C.R. Kulk.

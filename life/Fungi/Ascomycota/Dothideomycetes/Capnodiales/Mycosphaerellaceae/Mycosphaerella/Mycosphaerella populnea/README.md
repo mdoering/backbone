@@ -1,5 +1,4 @@
-Mycosphaerella populnea (Sacc.) House SPECIES
-=======
+# Mycosphaerella populnea (Sacc.) House SPECIES
 
 #### Status
 ACCEPTED

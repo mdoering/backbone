@@ -1,5 +1,4 @@
-Leccinum pseudoinsigne A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum pseudoinsigne A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

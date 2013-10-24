@@ -1,5 +1,4 @@
-Guignardia rhamni Reusser, 1964 SPECIES
-=======
+# Guignardia rhamni Reusser, 1964 SPECIES
 
 #### Status
 ACCEPTED

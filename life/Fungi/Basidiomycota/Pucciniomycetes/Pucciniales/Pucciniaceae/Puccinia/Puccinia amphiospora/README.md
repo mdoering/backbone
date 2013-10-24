@@ -1,5 +1,4 @@
-Puccinia amphiospora (H.S. Jacks. & Holw.) Cummins SPECIES
-=======
+# Puccinia amphiospora (H.S. Jacks. & Holw.) Cummins SPECIES
 
 #### Status
 ACCEPTED

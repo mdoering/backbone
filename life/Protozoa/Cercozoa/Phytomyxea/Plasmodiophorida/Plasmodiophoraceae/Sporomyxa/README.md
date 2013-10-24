@@ -1,5 +1,4 @@
-Sporomyxa L. Léger GENUS
-=======
+# Sporomyxa L. Léger GENUS
 
 #### Status
 ACCEPTED

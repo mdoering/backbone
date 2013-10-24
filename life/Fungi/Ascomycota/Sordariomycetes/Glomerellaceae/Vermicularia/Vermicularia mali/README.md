@@ -1,5 +1,4 @@
-Vermicularia mali (Woron.) Vassiljevsky SPECIES
-=======
+# Vermicularia mali (Woron.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

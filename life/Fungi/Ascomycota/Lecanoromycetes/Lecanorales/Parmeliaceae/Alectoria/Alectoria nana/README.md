@@ -1,5 +1,4 @@
-Alectoria nana f. caespitosa (Savicz) Gyeln. FORM
-=======
+# Alectoria nana Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Univ. Mariae Curie-Sklodowska, Sect. C, Biol. 34(1): 2 (1980)
 
 #### Original name
-null
+Alectoria nana Motyka
 
 ### Remarks
 null

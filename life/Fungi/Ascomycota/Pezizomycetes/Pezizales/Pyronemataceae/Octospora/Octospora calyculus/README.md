@@ -1,5 +1,4 @@
-Octospora calyculus (Batsch) Timm SPECIES
-=======
+# Octospora calyculus (Batsch) Timm SPECIES
 
 #### Status
 ACCEPTED

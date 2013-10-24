@@ -1,5 +1,4 @@
-Gyalecta salevensis (Müll. Arg.) SPECIES
-=======
+# Gyalecta salevensis (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

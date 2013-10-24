@@ -1,5 +1,4 @@
-Meliola fatsiae Katum. & Y. Harada SPECIES
-=======
+# Meliola fatsiae Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

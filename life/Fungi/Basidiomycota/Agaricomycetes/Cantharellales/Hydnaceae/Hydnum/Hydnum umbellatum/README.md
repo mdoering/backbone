@@ -1,5 +1,4 @@
-Hydnum umbellatum Fr. SPECIES
-=======
+# Hydnum umbellatum Fr. SPECIES
 
 #### Status
 ACCEPTED

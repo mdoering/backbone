@@ -1,5 +1,4 @@
-Parmelia menyhartii J. Steiner SPECIES
-=======
+# Parmelia menyhartii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichormus pseudovariabilis (Voronikhin) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus pseudovariabilis (Voronikhin) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

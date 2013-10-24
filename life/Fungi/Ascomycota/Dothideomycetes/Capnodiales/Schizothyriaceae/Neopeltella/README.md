@@ -1,5 +1,4 @@
-Neopeltella Petr. GENUS
-=======
+# Neopeltella Petr. GENUS
 
 #### Status
 ACCEPTED

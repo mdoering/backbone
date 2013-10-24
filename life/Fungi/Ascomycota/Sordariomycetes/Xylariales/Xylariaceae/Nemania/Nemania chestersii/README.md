@@ -1,5 +1,4 @@
-Nemania chestersii var. chestersii VARIETY
-=======
+# Nemania chestersii (J.D. Rogers & Whalley) Pouzar, 1985 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 39(1): 24 (1985)
+null
 
 #### Original name
-Hypoxylon chestersii J.D. Rogers & Whalley, 1978
+null
 
 ### Remarks
 null

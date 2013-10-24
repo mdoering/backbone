@@ -1,5 +1,4 @@
-Lecidea subtubulata SPECIES
-=======
+# Lecidea subtubulata SPECIES
 
 #### Status
 ACCEPTED

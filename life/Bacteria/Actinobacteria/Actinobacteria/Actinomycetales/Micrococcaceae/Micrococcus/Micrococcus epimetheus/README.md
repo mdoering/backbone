@@ -1,5 +1,4 @@
-Micrococcus epimetheus SPECIES
-=======
+# Micrococcus epimetheus SPECIES
 
 #### Status
 ACCEPTED

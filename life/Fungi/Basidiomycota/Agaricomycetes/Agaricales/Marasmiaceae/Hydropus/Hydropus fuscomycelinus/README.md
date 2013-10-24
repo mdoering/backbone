@@ -1,5 +1,4 @@
-Hydropus fuscomycelinus Singer SPECIES
-=======
+# Hydropus fuscomycelinus Singer SPECIES
 
 #### Status
 ACCEPTED

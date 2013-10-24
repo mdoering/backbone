@@ -1,5 +1,4 @@
-Bacidia stevensonii (Fink) Zahlbr. SPECIES
-=======
+# Bacidia stevensonii (Fink) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

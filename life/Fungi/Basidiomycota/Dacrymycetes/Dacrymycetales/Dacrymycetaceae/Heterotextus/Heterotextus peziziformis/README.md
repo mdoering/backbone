@@ -1,14 +1,13 @@
-Heterotextus pezizaeformis (Berk.) Lloyd SPECIES
-=======
+# Heterotextus peziziformis (Berk.) Lloyd, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 7(no. 75): 1359 (1922)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Ramularia lysimachiarum Lindr., 1902 SPECIES
-=======
+# Ramularia lysimachiarum Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

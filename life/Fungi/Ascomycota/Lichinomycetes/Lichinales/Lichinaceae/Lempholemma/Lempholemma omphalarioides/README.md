@@ -1,5 +1,4 @@
-Lempholemma omphalarioides (Anzi) Zahlbr. SPECIES
-=======
+# Lempholemma omphalarioides (Anzi) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

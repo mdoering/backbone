@@ -1,5 +1,4 @@
-Stigmatomyces subinflatus Thaxt. SPECIES
-=======
+# Stigmatomyces subinflatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

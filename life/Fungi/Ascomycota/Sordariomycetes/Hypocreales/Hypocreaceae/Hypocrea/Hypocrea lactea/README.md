@@ -1,14 +1,13 @@
-Sphaeria lactea Fr., 1815 SPECIES
-=======
+# Hypocrea lactea (Fr.) Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 383 (1849)
 
 #### Original name
 Sphaeria lactea Fr., 1815

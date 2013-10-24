@@ -1,5 +1,4 @@
-Lophiostoma pustulatum Ellis & Everh. SPECIES
-=======
+# Lophiostoma pustulatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

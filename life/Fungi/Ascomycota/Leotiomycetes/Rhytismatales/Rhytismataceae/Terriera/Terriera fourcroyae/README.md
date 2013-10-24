@@ -1,14 +1,13 @@
-Hysterium fourcroyae Berk. & Broome, 1875 SPECIES
-=======
+# Terriera fourcroyae (Berk. & Broome) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 132 (1875)
+Mycol. Pap. 176: 125 (2001)
 
 #### Original name
 Hysterium fourcroyae Berk. & Broome, 1875

@@ -1,5 +1,4 @@
-Eprolithus octopetalus SPECIES
-=======
+# Eprolithus octopetalus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea coromandelica Zahlbr. SPECIES
-=======
+# Poeltiaria coromandelica (Zahlbr.) Rambold & Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 104: 311 (1941)
+in Rambold, Biblthca Lichenol. 34: 265 (1989)
 
 #### Original name
 Lecidea coromandelica Zahlbr.

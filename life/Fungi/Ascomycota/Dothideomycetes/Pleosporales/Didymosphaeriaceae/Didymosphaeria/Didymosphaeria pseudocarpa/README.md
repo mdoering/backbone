@@ -1,5 +1,4 @@
-Didymosphaeria pseudocarpa (Nyl.) Sacc. & D. Sacc. SPECIES
-=======
+# Didymosphaeria pseudocarpa (Nyl.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

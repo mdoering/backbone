@@ -1,5 +1,4 @@
-Stenella araliae K. Schub. & U. Braun SPECIES
-=======
+# Stenella araliae K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

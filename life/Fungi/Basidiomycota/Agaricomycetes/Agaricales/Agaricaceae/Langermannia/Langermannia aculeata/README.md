@@ -1,5 +1,4 @@
-Langermannia aculeata Rostk. SPECIES
-=======
+# Langermannia aculeata Rostk. SPECIES
 
 #### Status
 ACCEPTED

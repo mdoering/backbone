@@ -1,5 +1,4 @@
-Uromyces galii-californici Linder SPECIES
-=======
+# Uromyces galii-californici Linder SPECIES
 
 #### Status
 ACCEPTED

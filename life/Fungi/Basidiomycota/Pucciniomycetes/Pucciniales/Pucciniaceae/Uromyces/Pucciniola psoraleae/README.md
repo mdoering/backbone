@@ -1,5 +1,4 @@
-Pucciniola psoraleae (Peck) Arthur SPECIES
-=======
+# Pucciniola psoraleae (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

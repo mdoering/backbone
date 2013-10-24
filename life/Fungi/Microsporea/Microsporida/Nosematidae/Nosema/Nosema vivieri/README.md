@@ -1,5 +1,4 @@
-Nosema vivieri Vinckier, Devauchelle & Prensier SPECIES
-=======
+# Nosema vivieri Vinckier, Devauchelle & Prensier SPECIES
 
 #### Status
 ACCEPTED

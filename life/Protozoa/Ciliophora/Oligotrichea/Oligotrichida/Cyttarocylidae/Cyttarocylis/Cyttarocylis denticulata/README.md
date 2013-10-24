@@ -1,5 +1,4 @@
-Cyttarocylis denticulata subsp. denticulata SUBSPECIES
-=======
+# Cyttarocylis denticulata SPECIES
 
 #### Status
 ACCEPTED

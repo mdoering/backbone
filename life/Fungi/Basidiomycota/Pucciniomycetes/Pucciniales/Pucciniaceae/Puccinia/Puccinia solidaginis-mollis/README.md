@@ -1,5 +1,4 @@
-Puccinia solidaginis-mollis Dietel SPECIES
-=======
+# Puccinia solidaginis-mollis Dietel SPECIES
 
 #### Status
 ACCEPTED

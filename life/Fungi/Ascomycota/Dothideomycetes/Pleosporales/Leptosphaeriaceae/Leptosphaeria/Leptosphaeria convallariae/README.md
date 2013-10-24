@@ -1,5 +1,4 @@
-Leptosphaeria convallariae (Fuckel) Sacc. SPECIES
-=======
+# Leptosphaeria convallariae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

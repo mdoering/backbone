@@ -1,5 +1,4 @@
-Cushmanina desmophora (Jones, 1872) SPECIES
-=======
+# Cushmanina desmophora (Jones, 1872) SPECIES
 
 #### Status
 ACCEPTED

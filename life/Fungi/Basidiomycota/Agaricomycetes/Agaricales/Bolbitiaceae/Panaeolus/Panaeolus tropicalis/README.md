@@ -1,5 +1,4 @@
-Panaeolus tropicalis Ola'h SPECIES
-=======
+# Panaeolus tropicalis Ola'h SPECIES
 
 #### Status
 ACCEPTED

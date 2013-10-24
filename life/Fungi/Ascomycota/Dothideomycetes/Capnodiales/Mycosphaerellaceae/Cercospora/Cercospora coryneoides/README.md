@@ -1,5 +1,4 @@
-Cercospora coryneoides Savul. & Rayss SPECIES
-=======
+# Cercospora coryneoides Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

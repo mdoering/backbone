@@ -1,5 +1,4 @@
-Septoria serbica Dietel & P. Syd. SPECIES
-=======
+# Septoria serbica Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

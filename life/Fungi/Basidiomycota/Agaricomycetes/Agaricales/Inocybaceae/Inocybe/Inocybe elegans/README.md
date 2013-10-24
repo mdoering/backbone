@@ -1,5 +1,4 @@
-Inocybe elegans Reumaux SPECIES
-=======
+# Inocybe elegans Reumaux SPECIES
 
 #### Status
 ACCEPTED

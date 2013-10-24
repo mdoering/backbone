@@ -1,5 +1,4 @@
-Lasiosphaeria foliicola O. Hilber & R. Hilber SPECIES
-=======
+# Lasiosphaeria foliicola O. Hilber & R. Hilber SPECIES
 
 #### Status
 ACCEPTED

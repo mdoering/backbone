@@ -1,5 +1,4 @@
-Stropharia procera (Kreisel) Contu SPECIES
-=======
+# Stropharia procera (Kreisel) Contu SPECIES
 
 #### Status
 ACCEPTED

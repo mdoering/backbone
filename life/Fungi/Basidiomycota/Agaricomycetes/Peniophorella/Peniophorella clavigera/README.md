@@ -1,17 +1,16 @@
-Peniophora clavigera var. clavigera (Bres.) Bourdot & Galzin VARIETY
-=======
+# Peniophorella clavigera (Bres.) K.H. Larss., 2007 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 111(2): 191 (2007)
 
 #### Original name
-Peniophora clavigera var. clavigera (Bres.) Bourdot & Galzin
+null
 
 ### Remarks
 null

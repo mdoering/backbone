@@ -1,5 +1,4 @@
-Achlyogeton entospora SPECIES
-=======
+# Achlyogeton entospora SPECIES
 
 #### Status
 ACCEPTED

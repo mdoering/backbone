@@ -1,5 +1,4 @@
-Erysiphe vitigera Cooke & Massee SPECIES
-=======
+# Erysiphe vitigera Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

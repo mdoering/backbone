@@ -1,5 +1,4 @@
-Sphinctrina meridionalis Stizenb. SPECIES
-=======
+# Sphinctrina meridionalis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

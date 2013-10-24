@@ -1,5 +1,4 @@
-Oidium hyssopi Erikss. SPECIES
-=======
+# Oidium hyssopi Erikss. SPECIES
 
 #### Status
 ACCEPTED

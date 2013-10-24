@@ -1,5 +1,4 @@
-Antennaria tropicicola Speg. SPECIES
-=======
+# Antennaria tropicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

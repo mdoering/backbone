@@ -1,5 +1,4 @@
-Perichaena polygonospora Novozh., Zemly., Schnittler & S. L. Stephenson, 2008 SPECIES
-=======
+# Perichaena polygonospora Novozh., Zemly., Schnittler & S. L. Stephenson, 2008 SPECIES
 
 #### Status
 ACCEPTED

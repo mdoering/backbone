@@ -1,8 +1,7 @@
-Selenidium axiferens Fowell, 1936 SPECIES
-=======
+# Selenidioides axiferens Fowell, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

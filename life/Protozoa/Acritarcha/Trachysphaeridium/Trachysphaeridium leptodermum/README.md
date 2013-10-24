@@ -1,5 +1,4 @@
-Trachysphaeridium leptodermum Sheshegova, 1982 SPECIES
-=======
+# Trachysphaeridium leptodermum Sheshegova, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidopyrenopsis Vain. GENUS
-=======
+# Lecidopyrenopsis Vain. GENUS
 
 #### Status
 ACCEPTED

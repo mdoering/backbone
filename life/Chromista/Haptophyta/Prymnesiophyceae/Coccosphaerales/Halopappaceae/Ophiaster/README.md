@@ -1,5 +1,4 @@
-Ophiaster Gran, 1912 GENUS
-=======
+# Ophiaster Gran, 1912 GENUS
 
 #### Status
 ACCEPTED

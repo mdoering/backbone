@@ -1,5 +1,4 @@
-Meliola caloncobae (Hansf.) Cif. SPECIES
-=======
+# Meliola caloncobae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

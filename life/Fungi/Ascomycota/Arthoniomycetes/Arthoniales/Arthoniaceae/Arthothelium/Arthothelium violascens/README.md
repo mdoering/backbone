@@ -1,5 +1,4 @@
-Arthothelium violascens (Flot.) Zahlbr. SPECIES
-=======
+# Arthothelium violascens (Flot.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

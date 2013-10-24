@@ -1,5 +1,4 @@
-Prodinophysis Balech, 1944 GENUS
-=======
+# Prodinophysis Balech, 1944 GENUS
 
 #### Status
 SYNONYM

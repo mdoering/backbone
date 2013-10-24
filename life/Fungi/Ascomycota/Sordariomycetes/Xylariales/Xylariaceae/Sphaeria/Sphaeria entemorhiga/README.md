@@ -1,5 +1,4 @@
-Sphaeria entemorhiga Pers. SPECIES
-=======
+# Sphaeria entemorhiga Pers. SPECIES
 
 #### Status
 ACCEPTED

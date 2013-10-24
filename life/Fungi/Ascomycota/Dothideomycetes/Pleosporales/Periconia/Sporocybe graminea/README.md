@@ -1,5 +1,4 @@
-Sporocybe graminea P. Karst. SPECIES
-=======
+# Sporocybe graminea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

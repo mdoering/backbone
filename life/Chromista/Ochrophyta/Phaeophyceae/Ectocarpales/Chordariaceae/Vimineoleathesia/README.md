@@ -1,5 +1,4 @@
-Vimineoleathesia A.Tanaka, S.Uwai & H. Kawai, 2010 GENUS
-=======
+# Vimineoleathesia A.Tanaka, S.Uwai & H. Kawai, 2010 GENUS
 
 #### Status
 ACCEPTED

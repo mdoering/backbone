@@ -1,5 +1,4 @@
-Lecidea erythroplaca Fée SPECIES
-=======
+# Lecidea erythroplaca Fée SPECIES
 
 #### Status
 ACCEPTED

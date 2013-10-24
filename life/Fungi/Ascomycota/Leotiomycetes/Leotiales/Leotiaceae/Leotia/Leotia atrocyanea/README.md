@@ -1,5 +1,4 @@
-Leotia atrocyanea Velen. SPECIES
-=======
+# Leotia atrocyanea Velen. SPECIES
 
 #### Status
 ACCEPTED

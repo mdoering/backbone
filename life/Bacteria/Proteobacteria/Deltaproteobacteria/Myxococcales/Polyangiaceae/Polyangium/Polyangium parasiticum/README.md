@@ -1,5 +1,4 @@
-Polyangium parasiticum (ex Geitler, 1924) Brockman, 1989 SPECIES
-=======
+# Polyangium parasiticum (ex Geitler, 1924) Brockman, 1989 SPECIES
 
 #### Status
 ACCEPTED

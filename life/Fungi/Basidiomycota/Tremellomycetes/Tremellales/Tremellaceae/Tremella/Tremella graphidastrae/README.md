@@ -1,5 +1,4 @@
-Tremella graphidastrae Diederich SPECIES
-=======
+# Tremella graphidastrae Diederich SPECIES
 
 #### Status
 ACCEPTED

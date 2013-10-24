@@ -1,5 +1,4 @@
-Microthelia fuscomaculans (W. Yamam.) E. Müll. SPECIES
-=======
+# Microthelia fuscomaculans (W. Yamam.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

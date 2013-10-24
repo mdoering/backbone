@@ -1,5 +1,4 @@
-Oikomonas quadrata Kent SPECIES
-=======
+# Oikomonas quadrata Kent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta acetoselae (Sm. & Ramsb.) Aa SPECIES
-=======
+# Ascochyta acetoselae (Sm. & Ramsb.) Aa SPECIES
 
 #### Status
 ACCEPTED

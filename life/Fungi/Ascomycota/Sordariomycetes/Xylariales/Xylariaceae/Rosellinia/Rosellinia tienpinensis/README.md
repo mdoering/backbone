@@ -1,5 +1,4 @@
-Rosellinia tienpinensis Teng SPECIES
-=======
+# Rosellinia tienpinensis Teng SPECIES
 
 #### Status
 ACCEPTED

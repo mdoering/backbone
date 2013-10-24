@@ -1,5 +1,4 @@
-Hymenoscyphus malawiensis P.J. Fisher & Spooner SPECIES
-=======
+# Hymenoscyphus malawiensis P.J. Fisher & Spooner SPECIES
 
 #### Status
 ACCEPTED

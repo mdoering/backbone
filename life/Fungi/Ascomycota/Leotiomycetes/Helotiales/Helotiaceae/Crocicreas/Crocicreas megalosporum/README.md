@@ -1,17 +1,16 @@
-Crocicreas megalosporum var. megalosporum VARIETY
-=======
+# Crocicreas megalosporum (Rea) S.E. Carp., 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Brittonia 32(2): 270 (1980)
 
 #### Original name
-Crocicreas megalosporum var. megalosporum
+Ombrophila megalospora Rea, 1916
 
 ### Remarks
 null

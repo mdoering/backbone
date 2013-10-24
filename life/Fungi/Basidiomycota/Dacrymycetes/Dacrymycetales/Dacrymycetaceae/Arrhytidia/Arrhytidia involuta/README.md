@@ -1,5 +1,4 @@
-Arrhytidia involuta var. involuta VARIETY
-=======
+# Arrhytidia involuta (Schwein.) Coker SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 43: 237 (1928)
 
 #### Original name
-Arrhytidia involuta var. involuta
+Dacrymyces involutus Schwein.
 
 ### Remarks
 null

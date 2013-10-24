@@ -1,5 +1,4 @@
-Verrucaria tecta Stizenb. SPECIES
-=======
+# Verrucaria tecta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

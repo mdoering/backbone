@@ -1,5 +1,4 @@
-Diplotomma tegulare SPECIES
-=======
+# Diplotomma tegulare SPECIES
 
 #### Status
 ACCEPTED

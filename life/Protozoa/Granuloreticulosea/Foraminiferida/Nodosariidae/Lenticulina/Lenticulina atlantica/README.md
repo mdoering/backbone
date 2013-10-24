@@ -1,5 +1,4 @@
-Lenticulina atlantica SPECIES
-=======
+# Lenticulina atlantica SPECIES
 
 #### Status
 ACCEPTED

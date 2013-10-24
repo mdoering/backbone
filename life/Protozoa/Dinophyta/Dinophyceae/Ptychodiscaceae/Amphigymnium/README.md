@@ -1,5 +1,4 @@
-Amphigymnium J.K. Lentin & T.F. Vozzhennikova, 1990 GENUS
-=======
+# Amphigymnium J.K. Lentin & T.F. Vozzhennikova, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora effusa (Sumst.) Sacc. SPECIES
-=======
+# Oospora effusa (Sumst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycoccum heterodermiae Calat. SPECIES
-=======
+# Polycoccum heterodermiae Calat. SPECIES
 
 #### Status
 ACCEPTED

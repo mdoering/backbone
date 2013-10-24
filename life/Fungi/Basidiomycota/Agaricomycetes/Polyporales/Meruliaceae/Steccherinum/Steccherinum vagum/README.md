@@ -1,5 +1,4 @@
-Steccherinum vagum Burds. & Nakasone SPECIES
-=======
+# Steccherinum vagum Burds. & Nakasone SPECIES
 
 #### Status
 ACCEPTED

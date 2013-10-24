@@ -1,8 +1,7 @@
-Biatora mutabilis (Fée) Mont. SPECIES
-=======
+# Japewiella tavaresiana (H. Magn.) Printzen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora mutabilis (Fée) Mont.
+Lecidea tavaresiana H. Magn.
 
 ### Remarks
 null

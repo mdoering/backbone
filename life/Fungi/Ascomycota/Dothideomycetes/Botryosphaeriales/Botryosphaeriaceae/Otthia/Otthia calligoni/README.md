@@ -1,5 +1,4 @@
-Otthia calligoni Kravtzev SPECIES
-=======
+# Otthia calligoni Kravtzev SPECIES
 
 #### Status
 ACCEPTED

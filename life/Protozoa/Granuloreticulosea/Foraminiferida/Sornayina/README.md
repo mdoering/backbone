@@ -1,5 +1,4 @@
-Sornayina Marie, 1960 GENUS
-=======
+# Sornayina Marie, 1960 GENUS
 
 #### Status
 ACCEPTED

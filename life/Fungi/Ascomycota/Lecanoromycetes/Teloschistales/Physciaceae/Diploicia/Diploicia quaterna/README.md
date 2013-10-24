@@ -1,5 +1,4 @@
-Diploicia quaterna (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Diploicia quaterna (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

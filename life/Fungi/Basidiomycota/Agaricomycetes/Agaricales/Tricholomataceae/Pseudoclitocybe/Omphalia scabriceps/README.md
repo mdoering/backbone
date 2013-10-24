@@ -1,5 +1,4 @@
-Omphalia scabriceps Bres. SPECIES
-=======
+# Omphalia scabriceps Bres. SPECIES
 
 #### Status
 ACCEPTED

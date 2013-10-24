@@ -1,5 +1,4 @@
-Melanconium strelitziae (Bres.) Died. SPECIES
-=======
+# Melanconium strelitziae (Bres.) Died. SPECIES
 
 #### Status
 ACCEPTED

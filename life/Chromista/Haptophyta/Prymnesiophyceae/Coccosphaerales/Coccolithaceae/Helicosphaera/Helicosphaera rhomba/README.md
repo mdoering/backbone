@@ -1,5 +1,4 @@
-Helicosphaera rhomba Bukry, 1971 SPECIES
-=======
+# Helicosphaera rhomba Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus zenkeri Henn. SPECIES
-=======
+# Boletus zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

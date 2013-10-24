@@ -1,17 +1,16 @@
-Gelasinosporites yeelirriae P. Briot, Lar.-Coll. & Locq. SPECIES
-=======
+# Gelasinosporites yeelirriei P. Briot, Lar.-Coll. & Locq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Locquin, Les Champignons Fossiles. Nouvelles recherches sur les Champignons fossil (Paris) 2: 98 + pl. III, figs 16-18 (1982)
 
 #### Original name
-Gelasinosporites yeelirriae P. Briot, Lar.-Coll. & Locq.
+Gelasinosporites yeelirriei P. Briot, Lar.-Coll. & Locq.
 
 ### Remarks
 null

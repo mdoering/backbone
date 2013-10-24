@@ -1,5 +1,4 @@
-Pythium pectinolyticum B. Paul SPECIES
-=======
+# Pythium pectinolyticum B. Paul SPECIES
 
 #### Status
 ACCEPTED

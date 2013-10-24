@@ -1,5 +1,4 @@
-Textularia oblonga Macgillivray, 1843 SPECIES
-=======
+# Textularia oblonga Macgillivray, 1843 SPECIES
 
 #### Status
 ACCEPTED

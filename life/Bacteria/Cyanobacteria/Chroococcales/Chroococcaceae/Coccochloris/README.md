@@ -1,5 +1,4 @@
-Coccochloris Sprengel, 1807 GENUS
-=======
+# Coccochloris Sprengel, 1807 GENUS
 
 #### Status
 ACCEPTED

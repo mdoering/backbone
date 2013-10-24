@@ -1,5 +1,4 @@
-Sigmoinella borealis Saidova, 1975 SPECIES
-=======
+# Sigmoinella borealis Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

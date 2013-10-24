@@ -1,5 +1,4 @@
-Trogia cyanea Corner SPECIES
-=======
+# Trogia cyanea Corner SPECIES
 
 #### Status
 ACCEPTED

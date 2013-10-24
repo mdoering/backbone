@@ -1,5 +1,4 @@
-Micromphale sequoiae Desjardin SPECIES
-=======
+# Micromphale sequoiae Desjardin SPECIES
 
 #### Status
 ACCEPTED

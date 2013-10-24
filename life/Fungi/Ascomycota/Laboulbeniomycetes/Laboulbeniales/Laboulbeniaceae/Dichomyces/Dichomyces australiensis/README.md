@@ -1,5 +1,4 @@
-Dichomyces australiensis Thaxt. SPECIES
-=======
+# Dichomyces australiensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

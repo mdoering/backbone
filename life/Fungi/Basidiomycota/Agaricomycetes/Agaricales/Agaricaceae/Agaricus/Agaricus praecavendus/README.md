@@ -1,5 +1,4 @@
-Agaricus praecavendus Britzelm. SPECIES
-=======
+# Agaricus praecavendus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

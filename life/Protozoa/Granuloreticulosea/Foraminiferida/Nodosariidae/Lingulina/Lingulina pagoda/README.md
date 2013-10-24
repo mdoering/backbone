@@ -1,5 +1,4 @@
-Lingulina pagoda Millett, 1902 SPECIES
-=======
+# Lingulina pagoda Millett, 1902 SPECIES
 
 #### Status
 ACCEPTED

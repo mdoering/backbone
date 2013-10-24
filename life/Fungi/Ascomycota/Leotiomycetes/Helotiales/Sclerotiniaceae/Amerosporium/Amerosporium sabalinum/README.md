@@ -1,5 +1,4 @@
-Amerosporium sabalinum Ellis & Everh. SPECIES
-=======
+# Amerosporium sabalinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

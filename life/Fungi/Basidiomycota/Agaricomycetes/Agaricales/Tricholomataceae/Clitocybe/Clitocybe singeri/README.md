@@ -1,5 +1,4 @@
-Clitocybe singeri (Harmaja) Harmaja SPECIES
-=======
+# Clitocybe singeri (Harmaja) Harmaja SPECIES
 
 #### Status
 ACCEPTED

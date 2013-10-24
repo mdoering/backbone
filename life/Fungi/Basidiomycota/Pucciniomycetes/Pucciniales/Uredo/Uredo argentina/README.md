@@ -1,5 +1,4 @@
-Uredo argentina Speg. SPECIES
-=======
+# Uredo argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

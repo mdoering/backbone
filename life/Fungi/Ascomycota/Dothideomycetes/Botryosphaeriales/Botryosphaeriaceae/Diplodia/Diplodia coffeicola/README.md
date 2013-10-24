@@ -1,5 +1,4 @@
-Diplodia coffeicola Zimm. SPECIES
-=======
+# Diplodia coffeicola Zimm. SPECIES
 
 #### Status
 ACCEPTED

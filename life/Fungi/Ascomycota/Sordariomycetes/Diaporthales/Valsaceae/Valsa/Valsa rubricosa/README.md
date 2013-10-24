@@ -1,5 +1,4 @@
-Valsa rubricosa Fuckel SPECIES
-=======
+# Valsa rubricosa Fuckel SPECIES
 
 #### Status
 ACCEPTED

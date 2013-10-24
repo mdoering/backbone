@@ -1,5 +1,4 @@
-Notoxoma parabryophryides Foissner, 1993 SPECIES
-=======
+# Notoxoma parabryophryides Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

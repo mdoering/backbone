@@ -1,5 +1,4 @@
-Teichospora oxystoma Sacc. & Speg. SPECIES
-=======
+# Teichospora oxystoma Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

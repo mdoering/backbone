@@ -1,5 +1,4 @@
-Caeoma caladii (Schwein.) Link SPECIES
-=======
+# Caeoma caladii (Schwein.) Link SPECIES
 
 #### Status
 ACCEPTED

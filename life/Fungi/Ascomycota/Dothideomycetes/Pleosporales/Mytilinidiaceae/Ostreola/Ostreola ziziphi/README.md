@@ -1,8 +1,7 @@
-Ostreola zizyphi Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Ostreola ziziphi Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ostreola zizyphi Tilak, S.B. Kale & S.V.S. Kale
+Ostreola ziziphi Tilak, S.B. Kale & S.V.S. Kale
 
 ### Remarks
 null

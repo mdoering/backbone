@@ -1,17 +1,16 @@
-Monoicomyces oxytelis Huldén SPECIES
-=======
+# Monoicomyces oxyteli Huldén SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Karstenia 23(2): 61 (1983)
 
 #### Original name
-Monoicomyces oxytelis Huldén
+Monoicomyces oxyteli Huldén
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Absidia heterospora Y. Ling, 1930 SPECIES
-=======
+# Absidia heterospora Y. Ling, 1930 SPECIES
 
 #### Status
 ACCEPTED

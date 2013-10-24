@@ -1,5 +1,4 @@
-Sarcoscypha mesocyatha F.A. Harr. SPECIES
-=======
+# Sarcoscypha mesocyatha F.A. Harr. SPECIES
 
 #### Status
 ACCEPTED

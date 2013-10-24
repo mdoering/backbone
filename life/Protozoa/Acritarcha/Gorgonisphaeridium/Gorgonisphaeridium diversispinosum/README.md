@@ -1,5 +1,4 @@
-Gorgonisphaeridium diversispinosum (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Gorgonisphaeridium diversispinosum (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

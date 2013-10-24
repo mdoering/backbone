@@ -1,5 +1,4 @@
-Galactinia spraguei (Berk. & M.A. Curtis) Le Gal SPECIES
-=======
+# Galactinia spraguei (Berk. & M.A. Curtis) Le Gal SPECIES
 
 #### Status
 ACCEPTED

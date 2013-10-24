@@ -1,5 +1,4 @@
-Panellus stenocystis Singer SPECIES
-=======
+# Panellus stenocystis Singer SPECIES
 
 #### Status
 ACCEPTED

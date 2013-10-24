@@ -1,5 +1,4 @@
-Gonyaulax minima Matzenauer SPECIES
-=======
+# Gonyaulax minima Matzenauer SPECIES
 
 #### Status
 ACCEPTED

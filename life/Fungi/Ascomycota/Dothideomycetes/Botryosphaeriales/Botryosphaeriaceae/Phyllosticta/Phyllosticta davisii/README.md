@@ -1,5 +1,4 @@
-Phyllosticta davisii (Ellis & Everh.) Aa SPECIES
-=======
+# Phyllosticta davisii (Ellis & Everh.) Aa SPECIES
 
 #### Status
 ACCEPTED

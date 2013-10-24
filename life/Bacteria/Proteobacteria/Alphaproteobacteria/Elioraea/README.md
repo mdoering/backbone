@@ -1,5 +1,4 @@
-Elioraea Albuquerque et al., 2008 GENUS
-=======
+# Elioraea Albuquerque et al., 2008 GENUS
 
 #### Status
 ACCEPTED

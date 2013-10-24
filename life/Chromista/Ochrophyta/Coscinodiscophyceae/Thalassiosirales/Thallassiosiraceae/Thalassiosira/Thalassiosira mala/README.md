@@ -1,5 +1,4 @@
-Thalassiosira mala Takano SPECIES
-=======
+# Thalassiosira mala Takano SPECIES
 
 #### Status
 ACCEPTED

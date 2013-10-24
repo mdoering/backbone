@@ -1,5 +1,4 @@
-Galerina andina Singer SPECIES
-=======
+# Galerina andina Singer SPECIES
 
 #### Status
 ACCEPTED

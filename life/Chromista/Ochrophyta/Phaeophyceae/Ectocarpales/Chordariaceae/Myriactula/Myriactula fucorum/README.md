@@ -1,8 +1,7 @@
-Gonodia pulvinata f. fucorum Rosenvinge FORM
-=======
+# Myriactula fucorum (Rosenvinge) Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

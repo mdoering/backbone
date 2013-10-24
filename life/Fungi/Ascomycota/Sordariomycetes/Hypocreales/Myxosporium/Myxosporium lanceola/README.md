@@ -1,5 +1,4 @@
-Myxosporium lanceola Sacc. & Roum. SPECIES
-=======
+# Myxosporium lanceola Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

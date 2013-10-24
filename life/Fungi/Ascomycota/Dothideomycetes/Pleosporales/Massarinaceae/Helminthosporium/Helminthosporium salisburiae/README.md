@@ -1,5 +1,4 @@
-Helminthosporium salisburiae Rabenh. SPECIES
-=======
+# Helminthosporium salisburiae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

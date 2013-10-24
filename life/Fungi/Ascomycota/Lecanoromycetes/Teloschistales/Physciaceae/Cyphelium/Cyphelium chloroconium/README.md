@@ -1,5 +1,4 @@
-Cyphelium chloroconium (Tuck.) Zahlbr. SPECIES
-=======
+# Cyphelium chloroconium (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

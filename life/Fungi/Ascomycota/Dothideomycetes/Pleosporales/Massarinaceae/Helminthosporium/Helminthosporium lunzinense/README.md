@@ -1,5 +1,4 @@
-Helminthosporium lunzinense Svilv. SPECIES
-=======
+# Helminthosporium lunzinense Svilv. SPECIES
 
 #### Status
 ACCEPTED

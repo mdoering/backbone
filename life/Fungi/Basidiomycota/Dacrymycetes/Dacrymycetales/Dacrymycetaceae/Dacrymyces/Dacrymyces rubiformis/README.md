@@ -1,5 +1,4 @@
-Dacrymyces rubiformis (Fr.) Neuhoff SPECIES
-=======
+# Dacrymyces rubiformis (Fr.) Neuhoff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scytonema magnum Gardner SPECIES
-=======
+# Scytonema magnum Gardner SPECIES
 
 #### Status
 ACCEPTED

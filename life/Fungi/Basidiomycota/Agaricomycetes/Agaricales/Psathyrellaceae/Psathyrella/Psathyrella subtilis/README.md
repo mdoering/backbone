@@ -1,5 +1,4 @@
-Psathyrella subtilis (Fr.) Quél. SPECIES
-=======
+# Psathyrella subtilis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

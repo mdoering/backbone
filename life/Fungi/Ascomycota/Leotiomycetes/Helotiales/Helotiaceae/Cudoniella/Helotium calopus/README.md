@@ -1,5 +1,4 @@
-Helotium calopus Fr. SPECIES
-=======
+# Helotium calopus Fr. SPECIES
 
 #### Status
 ACCEPTED

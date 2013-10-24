@@ -1,5 +1,4 @@
-Stigmochora variegata M.E. Barr & Hodges, 1987 SPECIES
-=======
+# Stigmochora variegata M.E. Barr & Hodges, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus acerrimus Krapf SPECIES
-=======
+# Agaricus acerrimus Krapf SPECIES
 
 #### Status
 ACCEPTED

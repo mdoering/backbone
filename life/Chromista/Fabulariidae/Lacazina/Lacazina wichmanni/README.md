@@ -1,5 +1,4 @@
-Lacazina wichmanni Schlumberger, 1894 SPECIES
-=======
+# Lacazina wichmanni Schlumberger, 1894 SPECIES
 
 #### Status
 ACCEPTED

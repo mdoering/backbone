@@ -1,5 +1,4 @@
-Sarcosoma turbinatum Wakef. SPECIES
-=======
+# Sarcosoma turbinatum Wakef. SPECIES
 
 #### Status
 ACCEPTED

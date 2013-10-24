@@ -1,5 +1,4 @@
-Lewia chlamidosporiformans B.S. Vieira & R.W. Barreto, 2006 SPECIES
-=======
+# Lewia chlamidosporiformans B.S. Vieira & R.W. Barreto, 2006 SPECIES
 
 #### Status
 ACCEPTED

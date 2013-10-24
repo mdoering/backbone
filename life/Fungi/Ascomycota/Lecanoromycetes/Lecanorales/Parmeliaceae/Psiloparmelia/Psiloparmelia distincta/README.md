@@ -1,14 +1,13 @@
-Xanthoparmelia distincta (Nyl.) Hale SPECIES
-=======
+# Psiloparmelia distincta (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Phytologia 28(5): 487 (1974)
+Mycotaxon 35(1): 42 (1989)
 
 #### Original name
 Parmelia distincta

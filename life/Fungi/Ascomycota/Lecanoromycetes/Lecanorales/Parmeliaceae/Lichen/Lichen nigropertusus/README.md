@@ -1,5 +1,4 @@
-Lichen nigropertusus Vill. SPECIES
-=======
+# Lichen nigropertusus Vill. SPECIES
 
 #### Status
 ACCEPTED

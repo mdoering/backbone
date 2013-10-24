@@ -1,5 +1,4 @@
-Puccinia pogonatheri Petch SPECIES
-=======
+# Puccinia pogonatheri Petch SPECIES
 
 #### Status
 ACCEPTED

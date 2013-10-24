@@ -1,5 +1,4 @@
-Xylaria ramulata Rehm SPECIES
-=======
+# Xylaria ramulata Rehm SPECIES
 
 #### Status
 ACCEPTED

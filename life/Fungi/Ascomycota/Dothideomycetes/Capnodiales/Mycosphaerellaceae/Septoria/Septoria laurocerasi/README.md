@@ -1,8 +1,7 @@
-Septoria laurocerasina Pass. SPECIES
-=======
+# Septoria laurocerasi Pass. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria laurocerasina Pass.
+Septoria laurocerasi Pass.
 
 ### Remarks
 null

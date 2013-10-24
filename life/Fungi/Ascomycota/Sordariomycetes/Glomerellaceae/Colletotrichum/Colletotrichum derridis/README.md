@@ -1,5 +1,4 @@
-Colletotrichum derridis Hoof SPECIES
-=======
+# Colletotrichum derridis Hoof SPECIES
 
 #### Status
 ACCEPTED

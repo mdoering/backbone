@@ -1,5 +1,4 @@
-Clavaria atrobadia Corner SPECIES
-=======
+# Clavaria atrobadia Corner SPECIES
 
 #### Status
 ACCEPTED

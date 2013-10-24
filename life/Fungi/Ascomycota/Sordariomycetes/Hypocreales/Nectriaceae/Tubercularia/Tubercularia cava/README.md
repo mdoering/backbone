@@ -1,5 +1,4 @@
-Tubercularia cava (Corda) Sacc. SPECIES
-=======
+# Tubercularia cava (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

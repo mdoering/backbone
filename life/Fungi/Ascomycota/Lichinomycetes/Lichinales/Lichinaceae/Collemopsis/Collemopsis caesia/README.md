@@ -1,5 +1,4 @@
-Collemopsis caesia Nyl. SPECIES
-=======
+# Collemopsis caesia Nyl. SPECIES
 
 #### Status
 ACCEPTED

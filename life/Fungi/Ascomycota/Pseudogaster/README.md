@@ -1,5 +1,4 @@
-Pseudogaster Höhn. GENUS
-=======
+# Pseudogaster Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rotaliammina mayori Cushman, 1924 SPECIES
-=======
+# Rotaliammina mayori Cushman, 1924 SPECIES
 
 #### Status
 ACCEPTED

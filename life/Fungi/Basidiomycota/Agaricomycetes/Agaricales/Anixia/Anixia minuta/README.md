@@ -1,5 +1,4 @@
-Anixia minuta Schulzer SPECIES
-=======
+# Anixia minuta Schulzer SPECIES
 
 #### Status
 ACCEPTED

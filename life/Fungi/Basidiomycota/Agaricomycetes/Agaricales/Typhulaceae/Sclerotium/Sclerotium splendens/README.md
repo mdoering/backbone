@@ -1,5 +1,4 @@
-Sclerotium splendens Fr. SPECIES
-=======
+# Sclerotium splendens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra subarcuata Naegeli ex Kützing SPECIES
-=======
+# Synedra subarcuata Naegeli ex Kützing SPECIES
 
 #### Status
 ACCEPTED

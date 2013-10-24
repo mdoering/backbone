@@ -1,5 +1,4 @@
-Asterocyphella W.B. Cooke GENUS
-=======
+# Asterocyphella W.B. Cooke GENUS
 
 #### Status
 ACCEPTED

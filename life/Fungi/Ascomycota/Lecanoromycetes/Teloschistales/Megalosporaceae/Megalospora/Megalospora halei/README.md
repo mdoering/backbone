@@ -1,5 +1,4 @@
-Megalospora halei Sipman SPECIES
-=======
+# Megalospora halei Sipman SPECIES
 
 #### Status
 ACCEPTED

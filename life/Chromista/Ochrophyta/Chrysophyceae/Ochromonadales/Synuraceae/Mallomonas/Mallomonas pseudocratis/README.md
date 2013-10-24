@@ -1,5 +1,4 @@
-Mallomonas pseudocratis Dürrschm. SPECIES
-=======
+# Mallomonas pseudocratis Dürrschm. SPECIES
 
 #### Status
 ACCEPTED

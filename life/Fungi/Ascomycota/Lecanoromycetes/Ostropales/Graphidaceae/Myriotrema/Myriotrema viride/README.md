@@ -1,5 +1,4 @@
-Myriotrema viride Nagarkar & Hale SPECIES
-=======
+# Myriotrema viride Nagarkar & Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora mallorquina Rolland SPECIES
-=======
+# Pleospora mallorquina Rolland SPECIES
 
 #### Status
 ACCEPTED
